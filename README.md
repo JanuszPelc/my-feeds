@@ -4,7 +4,7 @@ The feeds I actually read, published as static Atom files so other people can su
 
 ## Subscribing
 
-Import **[feeds.opml](feeds.opml)** into your feed reader to get everything at once, or add
+Import **[feeds.opml](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/feeds.opml)** into your feed reader to get everything at once, or add
 them one at a time:
 
 - **ai-news**: `https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml`
