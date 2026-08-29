@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+	<head>
+		<title>JP's Personal RSS Feeds</title>
+	</head>
+<body>
+	<outline text="ai-news" title="ai-news" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" />
+	<outline text="business-tech" title="business-tech" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" />
+	<outline text="hacker-news" title="hacker-news" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" />
+	<outline text="multimedia-tech" title="multimedia-tech" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" />
+	<outline text="music-production" title="music-production" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" />
+	<outline text="nerd-science" title="nerd-science" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" />
+	</body>
+</opml>

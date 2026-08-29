@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>nerd-science</title>
+  <subtitle>AI-curated feed for: nerd-science</subtitle>
+  <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
+  <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
+  <updated>2026-08-29T14:12:00+00:00</updated>
+  <entry>
+    <title>Building an AI Agent Memory Tool and the Proposition Identity Problem</title>
+    <link href="https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory" rel="alternate" />
+    <id>https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory::v237</id>
+    <published>2026-08-29T14:12:00+00:00</published>
+    <updated>2026-08-29T14:12:00+00:00</updated>
+    <media:thumbnail url="https://cdn.analyticsvidhya.com/wp-content/uploads/2025/12/image4-1.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory">arbustoemchamas.substack.com</a> | <a href="https://lobste.rs/s/5lz0zd/i_naively_tried_vibe_coding_memory_tool">discussion</a></small></p><hr/><p>An attempt to develop a Rust-based memory tool for AI agents designed to store local information and automatically flag contradictory data. While the project successfully built a search engine over a custom corpus, it failed to implement automated contradiction detection.</p><p>The failure is attributed to the "proposition identity" problem, a long-standing, unsolved challenge in knowledge representation and the philosophy of language. This problem concerns the difficulty of determining when two different linguistic expressions refer to the same proposition, a prerequisite for automated logical reasoning.</p><p><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2025/12/image4-1.webp" /></p><hr/><small>29 Aug 2026, 18:01 UTC | #19542</small>]]></content>
+  </entry>
+  <entry>
+    <title>Icelanders Vote on Whether to Restart EU Accession Negotiations</title>
+    <link href="https://www.bbc.com/news/articles/cn45vdxyvvlo" rel="alternate" />
+    <id>https://www.bbc.com/news/articles/cn45vdxyvvlo::v237</id>
+    <published>2026-08-29T11:40:00+00:00</published>
+    <updated>2026-08-29T11:40:00+00:00</updated>
+    <media:thumbnail url="https://img.onmanorama.com/content/dam/mm/en/archive/upsc/current-affairs/images/2026/3/11/iceland-eu-talks.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.bbc.com/news/articles/cn45vdxyvvlo">bbc.com</a> | <a href="https://news.ycombinator.com/item?id=49489057">hacker news</a></small></p><hr/><p>Iceland is holding a referendum to determine if the nation should reopen negotiations to join the European Union, following a suspension of talks in 2013. A successful "Yes" vote would not grant immediate membership but would authorize the government to seek a formal accession agreement, a process that would still require parliamentary approval, constitutional amendments, and consent from the 27 EU member states.</p><p>The vote is heavily influenced by concerns over national sovereignty and control over the fishing industry, which accounts for nearly 40% of Iceland's exports. While proponents argue that EU membership could mitigate high inflation and interest rates, opponents fear that joining the customs union would relinquish control over vital maritime resources to Brussels.</p><p><img src="https://img.onmanorama.com/content/dam/mm/en/archive/upsc/current-affairs/images/2026/3/11/iceland-eu-talks.jpg" /></p><hr/><small>29 Aug 2026, 14:42 UTC | #19530</small>]]></content>
+  </entry>
+  <entry>
+    <title>Jacky Alciné Discusses Challenges of Maintaining a Career in Software Engineering</title>
+    <link href="https://www.jacky.wtf/essays/2026/kicked-out/" rel="alternate" />
+    <id>https://www.jacky.wtf/essays/2026/kicked-out/::v237</id>
+    <published>2026-08-29T08:25:00+00:00</published>
+    <updated>2026-08-29T08:25:00+00:00</updated>
+    <media:thumbnail url="https://images.axios.com/sDEdITOyhmPDx57qkSeNCVffatw=/0x0:1600x900/1366x768/2024/07/17/1721227984922.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.jacky.wtf/essays/2026/kicked-out/">jacky.wtf</a> | <a href="https://lobste.rs/s/mroowi/being_kicked_out_tech_industry">discussion</a></small></p><hr/><p>After a decade in the industry, Jacky Alciné is leaving professional software engineering, citing frequent layoffs, termination during a family bereavement, and persistent job rejections despite extensive technical experience. He contends that the software engineering job market has increasingly shifted toward a referral-based system where social capital and networking often supersede technical merit and architectural expertise.</p><p>The current tech employment landscape is characterized by significant instability, where even experienced professionals face prolonged periods of unemployment. These systemic issues, exacerbated by a lack of worker protections and a reliance on social conformity, create substantial barriers for skilled individuals seeking to maintain a career in technology.</p><p><img src="https://images.axios.com/sDEdITOyhmPDx57qkSeNCVffatw=/0x0:1600x900/1366x768/2024/07/17/1721227984922.png" /></p><hr/><small>29 Aug 2026, 11:32 UTC | #19509</small>]]></content>
+  </entry>
+  <entry>
+    <title>The Intersection of Humanities and Computer Science</title>
+    <link href="https://idlip.in/posts/show-me-source/" rel="alternate" />
+    <id>https://idlip.in/posts/show-me-source/::v237</id>
+    <published>2026-08-28T22:45:00+00:00</published>
+    <updated>2026-08-28T22:45:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/915513587/original/ef42e621cf/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://idlip.in/posts/show-me-source/">idlip.in</a> | <a href="https://lobste.rs/s/idizd1/talk_is_cheap_code_is_cheap_show_me_source">discussion</a></small></p><hr/><p>This essay explores the connection between the humanities and computer science, arguing that technical mastery is bolstered by a foundation in philosophy and history. It references pioneers like Alan Turing and Grace Hopper to demonstrate how non-technical disciplines influenced the longevity and structure of foundational computing concepts.</p><p>The author contends that while artificial intelligence can generate code, it lacks the human "source"—the reasoning and purpose behind software. The piece suggests that incorporating ethics and psychology into technical development is essential for moving beyond purely functional programming toward intentional, problem-solving design.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/915513587/original/ef42e621cf/1?v=1" /></p><hr/><small>29 Aug 2026, 04:01 UTC | #19497</small>]]></content>
+  </entry>
+  <entry>
+    <title>Antidepressant Withdrawal Symptoms Prompt Rethink of Treatment Approaches</title>
+    <link href="https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/" rel="alternate" />
+    <id>https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/::v237</id>
+    <published>2026-08-28T14:47:00+00:00</published>
+    <updated>2026-08-28T14:47:00+00:00</updated>
+    <media:thumbnail url="https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308310135.jpg?w=840" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/">newscientist.com</a> | <a href="https://news.ycombinator.com/item?id=49472090">hacker news</a></small></p><hr/><p>Growing evidence regarding the severity and persistence of antidepressant withdrawal is forcing a re-evaluation of how selective serotonin reuptake inhibitors (SSRIs) are prescribed and discontinued. Many patients experience intense physical and psychological symptoms during tapering—such as dizziness and "brain zaps"—which are often misdiagnosed as a relapse of the underlying condition.</p><p>This shift is also driven by research linking long-term antidepressant use to increased risks of fatal cardiac events and accelerated cognitive decline. Consequently, medical organizations are moving toward new treatment paradigms that prioritize slower, more controlled tapering, often utilizing liquid formulations to facilitate the minute dose reductions necessary for a tolerable transition.</p><p><img src="https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308310135.jpg?w=840" /></p><hr/><small>28 Aug 2026, 19:03 UTC | #19465</small>]]></content>
+  </entry>
+  <entry>
+    <title>Japanese Artist Yayoi Kusama Dies at 97</title>
+    <link href="https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html::v237</id>
+    <published>2026-08-28T12:33:00+00:00</published>
+    <updated>2026-08-28T12:33:00+00:00</updated>
+    <media:thumbnail url="https://image-cdn.hypb.st/https://br.hypebeast.com/files/2025/08/yayoi-kusama-europe-retrospective-announcement-tw-2.jpg?w=1080&amp;cbr=1&amp;q=90&amp;fit=max" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html">nytimes.com</a> | <a href="https://yayoi-kusama.jp/en/news4518/">source</a> | <a href="https://news.ycombinator.com/item?id=49458709">hacker news</a></small></p><hr/><p>Japanese avant-garde artist Yayoi Kusama died on August 14, 2026, at a hospital in Tokyo at the age of 97. She was globally recognized for her signature polka-dot patterns, "infinity mirror rooms," and large-scale installations that explored themes of repetition and self-obliteration.</p><p>Her career spanned several decades, beginning with radical performances in New York and Europe during the 1960s. Kusama's work often channeled her personal experiences with hallucinations into a distinctive visual language that became a hallmark of contemporary pop art and immersive installation media.</p><p><img src="https://image-cdn.hypb.st/https://br.hypebeast.com/files/2025/08/yayoi-kusama-europe-retrospective-announcement-tw-2.jpg?w=1080&cbr=1&q=90&fit=max" /></p><hr/><small>28 Aug 2026, 16:18 UTC | #19442</small>]]></content>
+  </entry>
+  <entry>
+    <title>Glacial Lake Outburst Flood Hazard in a Transboundary Himalayan Basin</title>
+    <link href="https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html" rel="alternate" />
+    <id>https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html::v237</id>
+    <published>2026-08-28T12:31:00+00:00</published>
+    <updated>2026-08-28T12:31:00+00:00</updated>
+    <media:thumbnail url="https://wp.unil.ch/geoblog/files/2026/01/lac-bamtanab-afghanistan-768x576.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html">nhess.copernicus.org</a> | <a href="https://news.ycombinator.com/item?id=49456929">hacker news</a></small></p><hr/><p>Risks associated with glacial lake outburst floods (GLOFs) in a transboundary Himalayan basin are evaluated under current and future climate conditions. The study examines how the formation and expansion of glacial lakes, driven by melting ice, increases the probability of catastrophic flooding.</p><p>The research utilizes worst-case scenario modeling to illustrate the potential for large-scale downstream impacts that transcend national borders. These findings provide critical data for the development of regional early warning systems and disaster mitigation strategies.</p><p><img src="https://wp.unil.ch/geoblog/files/2026/01/lac-bamtanab-afghanistan-768x576.jpg" /></p><hr/><small>28 Aug 2026, 16:09 UTC | #19440</small>]]></content>
+  </entry>
+  <entry>
+    <title>xkcd Comic Illustrates Comparative Advantage Through Metaphor</title>
+    <link href="https://xkcd.com/3290/" rel="alternate" />
+    <id>https://xkcd.com/3290/::v233</id>
+    <published>2026-08-27T14:32:00+00:00</published>
+    <updated>2026-08-27T14:32:00+00:00</updated>
+    <media:thumbnail url="https://simulations4all.com/images/simulations/comparative-advantage-trade.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://xkcd.com/3290/">xkcd.com</a> | <a href="https://news.ycombinator.com/item?id=49464896">hacker news</a></small></p><hr/><p>The xkcd comic "Trade" employs a metaphor involving bodily limbs to explain the economic principle of comparative advantage. The dialogue suggests that by specializing in tasks where one has a relative efficiency, such as swinging hammers or running, entities can maximize productivity through trade.</p><p>This concept illustrates how specialization and exchange are driven by differences in opportunity costs rather than just absolute ability. By focusing on activities with lower relative costs, participants in an economy can achieve higher total output through coordinated resource allocation.</p><p><img src="https://simulations4all.com/images/simulations/comparative-advantage-trade.jpg" /></p><hr/><small>27 Aug 2026, 18:01 UTC | #19355</small>]]></content>
+  </entry>
+  <entry>
+    <title>Merlin Bird ID App Reaches 42 Million Downloads</title>
+    <link href="https://www.ft.com/content/bbb5acbe-c833-4a19-8437-3f5260cc6700?accessToken=zwAAAaBBzmXwkdO7tay-yDNKGdOENz9SYMxnAA.MEQCIEl56HGEDs7dduVvfRcIj6nSiHYxxcwsZLNXoMI0Sok-AiAHUPcUGsVt-Kda7txdc1tIBvA0BlZEzGjBl_DIkRwLGw&amp;sharetype=gift&amp;token=19d95d1e-58a3-4efc-a130-a1ccc25eaab0" rel="alternate" />
+    <id>https://www.ft.com/content/bbb5acbe-c833-4a19-8437-3f5260cc6700?accessToken=zwAAAaBBzmXwkdO7tay-yDNKGdOENz9SYMxnAA.MEQCIEl56HGEDs7dduVvfRcIj6nSiHYxxcwsZLNXoMI0Sok-AiAHUPcUGsVt-Kda7txdc1tIBvA0BlZEzGjBl_DIkRwLGw&amp;sharetype=gift&amp;token=19d95d1e-58a3-4efc-a130-a1ccc25eaab0::v233</id>
+    <published>2026-08-27T06:51:00+00:00</published>
+    <updated>2026-08-27T06:51:00+00:00</updated>
+    <media:thumbnail url="https://downloadr2.apkmirror.com/wp-content/uploads/2026/04/31/Merlin-Bird-ID-com.labs.merlinbirdid.app-3-1152x2048.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/bbb5acbe-c833-4a19-8437-3f5260cc6700?accessToken=zwAAAaBBzmXwkdO7tay-yDNKGdOENz9SYMxnAA.MEQCIEl56HGEDs7dduVvfRcIj6nSiHYxxcwsZLNXoMI0Sok-AiAHUPcUGsVt-Kda7txdc1tIBvA0BlZEzGjBl_DIkRwLGw&sharetype=gift&token=19d95d1e-58a3-4efc-a130-a1ccc25eaab0">ft.com</a> | <a href="https://merlin.allaboutbirds.org/the-story/">source</a></small></p><hr/><p>The Cornell Lab of Ornithology’s Merlin Bird ID app has surpassed 42 million downloads since its launch in 2014. The free application allows users to identify up to 11,000 bird species by analyzing photographs or through a series of observational questions regarding a bird's appearance and behavior.</p><p>By lowering the barrier to entry for avian identification, the app has helped transition birdwatching from a niche hobby into a mainstream activity. The tool serves as a digital interface for enthusiasts to explore diverse bird populations across various global regions.</p><p><img src="https://downloadr2.apkmirror.com/wp-content/uploads/2026/04/31/Merlin-Bird-ID-com.labs.merlinbirdid.app-3-1152x2048.png" /></p><hr/><small>27 Aug 2026, 13:12 UTC | #19271</small>]]></content>
+  </entry>
+  <entry>
+    <title>The Historical Origins and Context of "Premature Optimization Is the Root of All Evil"</title>
+    <link href="https://www.youtube.com/watch?v=hpj6r6CjJf8" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=hpj6r6CjJf8::v232</id>
+    <published>2026-08-26T07:57:00+00:00</published>
+    <updated>2026-08-26T07:57:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/27479398/original/8ff70062e3/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=hpj6r6CjJf8">youtube.com</a> | <a href="https://dl.acm.org/doi/10.1145/356635.356640">source</a> | <a href="https://lobste.rs/s/p8exgy/casey_muratori_root_root_all_evil_bsc_2026">discussion</a></small></p><hr/><p>Donald Knuth's 1974 paper, "Structured Programming with go-to Statements," serves as one of the earliest documented sources for the famous computer science maxim, "premature optimization is the root of all evil." The exact origin of the phrase remains a subject of historical debate, with potential links to the work and discussions of contemporaries such as Edsger Dijkstra and Tony Hoare.</p><p>The discussion situates this maxim within the era's pivotal shift toward structured programming and the technical challenges surrounding efficiency and code readability in early software development. By examining how these debates over the use of go-to statements helped shape modern programming philosophies, the context clarifies why the sentiment became a foundational principle in software engineering.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/27479398/original/8ff70062e3/1?v=1" /></p><hr/><small>26 Aug 2026, 11:11 UTC | #19143</small>]]></content>
+  </entry>
+  <entry>
+    <title>Black Hole Singularity Is a Surface Not a Point</title>
+    <link href="https://arxiv.org/abs/2608.21590" rel="alternate" />
+    <id>https://arxiv.org/abs/2608.21590::v232</id>
+    <published>2026-08-26T03:36:00+00:00</published>
+    <updated>2026-08-26T03:36:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1400/0*mlEJObRuzuChLEr_.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arxiv.org/abs/2608.21590">arxiv.org</a> | <a href="https://doi.org/10.1103/1pvt-3pn5">source</a> | <a href="https://news.ycombinator.com/item?id=49437210">hacker news</a></small></p><hr/><p>Observers falling into spherical black holes along different angular trajectories lose causal contact before reaching the center, indicating that the singularity is a surface rather than a central point. In rotating black holes, mass inflation instability likely causes the singular surface to reside at the inner horizon.</p><p>This geometric structure suggests that a black hole's quantum states may reside on this effective two-dimensional singular surface. Such states would coevolve unitarily with Hawking radiation trapped within the event horizon, impacting models of quantum gravity.</p><p><img src="https://miro.medium.com/v2/resize:fit:1400/0*mlEJObRuzuChLEr_.jpg" /></p><hr/><small>26 Aug 2026, 09:22 UTC | #19132</small>]]></content>
+  </entry>
+  <entry>
+    <title>AI Monitoring Reveals Extensive Bomb Fishing in Indonesia’s Coral Triangle</title>
+    <link href="https://e360.yale.edu/digest/bomb-fishing-coral-reefs" rel="alternate" />
+    <id>https://e360.yale.edu/digest/bomb-fishing-coral-reefs::v232</id>
+    <published>2026-08-25T18:38:00+00:00</published>
+    <updated>2026-08-25T18:38:00+00:00</updated>
+    <media:thumbnail url="https://yale-threesixty.transforms.svdcdn.com/production/Bombed-Reef_Ocean-Agency.jpg?w=1200&amp;h=800&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1787651638&amp;s=68d3e51f7fa2324611e7da4df43c09e1" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://e360.yale.edu/digest/bomb-fishing-coral-reefs">e360.yale.edu</a> | <a href="https://zslpublications.onlinelibrary.wiley.com/doi/10.1002/rse2.70093">source</a> | <a href="https://news.ycombinator.com/item?id=49434820">hacker news</a></small></p><hr/><p>Researchers estimate that over 8,000 underwater explosions occur annually off the coast of Sulawesi, Indonesia, causing widespread destruction to coral reefs. Using AI-accelerated acoustic monitoring, scientists from the Zoological Society of London identified thousands of detonations that transform vibrant marine ecosystems into fields of dead coral rubble.</p><p>This "blast fishing" technique uses explosives to stun fish but indiscriminately kills various species and prevents natural reef regeneration. While often linked to poverty, experts suggest ineffective enforcement and the involvement of middle-income fishers also drive the practice. Researchers have released their AI code as open-source to help global authorities implement real-time detection networks for monitoring biodiversity loss.</p><p><img src="https://yale-threesixty.transforms.svdcdn.com/production/Bombed-Reef_Ocean-Agency.jpg?w=1200&h=800&auto=compress%2Cformat&fit=crop&dm=1787651638&s=68d3e51f7fa2324611e7da4df43c09e1" /></p><hr/><small>25 Aug 2026, 22:12 UTC | #19094</small>]]></content>
+  </entry>
+  <entry>
+    <title>EPA Proposes Removing Public Comment Requirements for Data Center Air Permits</title>
+    <link href="https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html::v232</id>
+    <published>2026-08-25T18:33:00+00:00</published>
+    <updated>2026-08-25T18:33:00+00:00</updated>
+    <media:thumbnail url="https://winbuzzer.com/wp-content/uploads/2025/07/Data-Centers-Pollution-AI-Environment-sustainability.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html">nytimes.com</a> | <a href="https://www.epa.gov/newsreleases/epa-proposes-streamline-state-and-local-permitting-process-minor-sources">source</a></small></p><hr/><p>The Environmental Protection Agency (EPA) has proposed a rule that would eliminate federal requirements for states to provide public notice or solicit community feedback on air pollution permit applications for "minor sources." This change would impact industrial projects such as data centers, which often fall under these regulatory categories.</p><p>The proposal aims to streamline the New Source Review (NSR) permitting process by reducing minimum federal mandates for public participation. Environmental coalitions and community advocacy groups have urged the agency to withdraw the plan, arguing that it could reduce transparency regarding air pollution from industrial facilities.</p><p><img src="https://winbuzzer.com/wp-content/uploads/2025/07/Data-Centers-Pollution-AI-Environment-sustainability.jpg" /></p><hr/><small>25 Aug 2026, 21:47 UTC | #19064</small>]]></content>
+  </entry>
+  <entry>
+    <title>My Friend Aaron: A Narrative on Addiction and Prediction Markets</title>
+    <link href="https://rorz.io/writing/my-friend-aaron" rel="alternate" />
+    <id>https://rorz.io/writing/my-friend-aaron::v232</id>
+    <published>2026-08-25T18:21:00+00:00</published>
+    <updated>2026-08-25T18:21:00+00:00</updated>
+    <media:thumbnail url="https://www.gamblinginsider.com/wp-content/uploads/2026/01/The-Basic-Principle-of-Prediction-Markets-599x1024.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://rorz.io/writing/my-friend-aaron">rorz.io</a> | <a href="https://news.ycombinator.com/item?id=49437069">hacker news</a></small></p><hr/><p>This short story follows the life of an individual named Aaron, tracing his trajectory from a brilliant but unmotivated student to an adult consumed by gambling and prediction markets. The narrative focuses on Aaron's obsession with betting, which culminates in him building an autonomous ecosystem where AI agents use wearable technology to monitor and bet on his daily real-world activities.</p><p>Through the perspective of a lifelong friend, the story explores themes of addiction, social isolation, and the blurring boundaries between physical reality and digital simulation. It examines how emerging technologies can facilitate extreme forms of personalized escapism and self-referential behavior.</p><p><img src="https://www.gamblinginsider.com/wp-content/uploads/2026/01/The-Basic-Principle-of-Prediction-Markets-599x1024.jpg" /></p><hr/><small>25 Aug 2026, 20:34 UTC | #19086</small>]]></content>
+  </entry>
+  <entry>
+    <title>Paul Graham on Preparing University Students for Startup Success</title>
+    <link href="https://paulgraham.com/prepare.html" rel="alternate" />
+    <id>https://paulgraham.com/prepare.html::v232</id>
+    <published>2026-08-25T18:18:00+00:00</published>
+    <updated>2026-08-25T18:18:00+00:00</updated>
+    <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/e/e3/Paulgraham_240x320.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://paulgraham.com/prepare.html">paulgraham.com</a> | <a href="https://news.ycombinator.com/item?id=49428121">hacker news</a></small></p><hr/><p>Universities should prioritize teaching technical and specialized skills—such as computer science, engineering, or molecular biology—over dedicated entrepreneurship curricula or business plan competitions. Building products through deep expertise is more critical to startup success than mastering management theory or fundraising narratives, which often focus on investor appeals rather than user satisfaction.</p><p>Fostering a successful startup culture requires providing students with unstructured time and the freedom to pursue independent side projects. Because managing an early-stage company is frequently incompatible with full-time studies, Paul Graham suggests that technical experimentation outside of formal coursework is one of the most effective ways for students to discover viable business ideas and build founding teams.</p><p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Paulgraham_240x320.jpg" /></p><hr/><small>25 Aug 2026, 20:14 UTC | #19084</small>]]></content>
+  </entry>
+  <entry>
+    <title>Bartosz Ciechanowski Explains Lunar Orbital Mechanics Through Interactive Simulations</title>
+    <link href="https://ciechanow.ski/moon/" rel="alternate" />
+    <id>https://ciechanow.ski/moon/::v232</id>
+    <published>2026-08-25T13:17:00+00:00</published>
+    <updated>2026-08-25T13:17:00+00:00</updated>
+    <media:thumbnail url="https://vectree.fsn1.your-objectstorage.com/og/c/jovian-satellite-dynamics.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ciechanow.ski/moon/">ciechanow.ski</a> | <a href="https://news.ycombinator.com/item?id=49426466">hacker news</a></small></p><hr/><p>Bartusz Ciechanowski provides an interactive investigation into lunar orbital mechanics, using digital simulations to explain how celestial bodies move through space. The piece explores fundamental physics concepts such as gravitational attraction, barycenters, elliptical orbits, and the effects of mass on acceleration.</p><p>Through adjustable sandbox environments, readers can manipulate variables like velocity and mass to observe real-time changes in motion. These tools help illustrate why the Moon maintains a consistent orientation toward Earth and how varying perspectives alter the perception of relative orbital movement.</p><p><img src="https://vectree.fsn1.your-objectstorage.com/og/c/jovian-satellite-dynamics.jpg" /></p><hr/><small>25 Aug 2026, 16:02 UTC | #19057</small>]]></content>
+  </entry>
+  <entry>
+    <title>Evolution of Public Restrooms from 19th-Century Paris to Modern America</title>
+    <link href="https://daily.jstor.org/where-did-all-the-public-bathrooms-go/" rel="alternate" />
+    <id>https://daily.jstor.org/where-did-all-the-public-bathrooms-go/::v232</id>
+    <published>2026-08-25T02:51:00+00:00</published>
+    <updated>2026-08-25T02:51:00+00:00</updated>
+    <media:thumbnail url="https://4.bp.blogspot.com/-7ZsN0wlMRdo/VRJRScgK20I/AAAAAAABYBw/iXMH78Gj3mM/s1600/Public+Urinals+in+Paris+in+the+19th+Century+(1).jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://daily.jstor.org/where-did-all-the-public-bathrooms-go/">daily.jstor.org</a> | <a href="https://news.ycombinator.com/item?id=49422800">hacker news</a></small></p><hr/><p>This article examines the historical trajectory of public restrooms, starting with mid-19th-century Parisian *pissoirs* designed as public health measures during cholera outbreaks. While intended for sanitation, these ornate structures often served unexpected social functions, such as acting as clandestine meeting spots or hubs for advertising.</p><p>In the United States, the temperance movement's efforts to steer citizens away from saloons influenced the development of "comfort stations," which eventually contributed to a shift in restroom accessibility. This historical progression transitioned bodily privacy from a government-guaranteed public right into a commodity provided by private businesses, contributing to the current shortage of free public facilities in many American cities.</p><p><img src="https://4.bp.blogspot.com/-7ZsN0wlMRdo/VRJRScgK20I/AAAAAAABYBw/iXMH78Gj3mM/s1600/Public+Urinals+in+Paris+in+the+19th+Century+(1).jpg" /></p><hr/><small>25 Aug 2026, 09:24 UTC | #19006</small>]]></content>
+  </entry>
+</feed>
