@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T09:31:00+00:00</updated>
+  <updated>2026-08-30T09:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rust Project Tests Function Overloading for FFI</title>
+    <link href="https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/" rel="alternate" />
+    <id>https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/::v237</id>
+    <published>2026-08-30T09:40:00+00:00</published>
+    <updated>2026-08-30T09:40:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/918291860/original/184db9d2f4/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/rikfb5/rust_function_overloading_call_for">discussion</a></small></p><hr/><p>Rust is testing a method for function overloading in FFI bindings to improve ergonomics when calling C++ from Rust. Using the `#[rustc_splat]` attribute in nightly builds, developers can call overloaded functions with separate arguments instead of being required to pass them as a single tuple.</p><p>This initiative, supported by the Rust Foundation's Rust-C++ Interop Initiative, aims to evaluate how overloading affects the language's type system and developer experience. While the current implementation is an unstable experiment, future designs may introduce a more intuitive `#[overload]` attribute to better facilitate multi-language interoperability.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/918291860/original/184db9d2f4/1?v=1" /></p><hr/><small>30 Aug 2026, 14:22 UTC | #19584</small>]]></content>
+  </entry>
   <entry>
     <title>Verschlimmbesserung: Why Software Updates Can Make Products Worse</title>
     <link href="https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/" rel="alternate" />
