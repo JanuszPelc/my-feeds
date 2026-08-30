@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-30T16:18:00+00:00</updated>
+  <updated>2026-08-30T17:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI Developers and Major Firms Drive Increasing Demand for Apple Macs</title>
+    <link href="https://www.theinformation.com/articles/apple-stumbled-ai-hardware-success-mac" rel="alternate" />
+    <id>https://www.theinformation.com/articles/apple-stumbled-ai-hardware-success-mac::v237</id>
+    <published>2026-08-30T17:00:00+00:00</published>
+    <updated>2026-08-30T17:00:00+00:00</updated>
+    <media:thumbnail url="https://www.gossipherald.com/assets/uploads/2026-05-04/54842_112352_openai-backed-openclaw-drives-massive-demand-for-apple-mac-mini-hardware_updates.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/apple-stumbled-ai-hardware-success-mac">theinformation.com</a></small></p><hr/><p>OpenAI has purchased tens of thousands of Macs for reinforcement learning, while Anthropic has turned to renting the hardware for its operations. This surge in demand has positioned Apple as a significant local AI rival to Nvidia as developers increasingly rely on Mac hardware.</p><p>The rising adoption of Apple's hardware by large-scale AI companies suggests a shift toward using local desktop-class silicon for AI development and inference, potentially altering the competitive landscape for AI infrastructure.</p><p><img src="https://www.gossipherald.com/assets/uploads/2026-05-04/54842_112352_openai-backed-openclaw-drives-massive-demand-for-apple-mac-mini-hardware_updates.jpg" /></p><hr/><small>30 Aug 2026, 23:24 UTC | #19597</small>]]></content>
+  </entry>
   <entry>
     <title>Quantum Computing Development Becomes a Geopolitical Battleground</title>
     <link href="https://www.bloomberg.com/news/features/2026-08-26/quantum-computers-promise-breakthroughs-but-risk-a-cybersecurity-crisis?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Nzk4MjcwMCwiZXhwIjoxNzg4NTg3NTAwLCJhcnRpY2xlSWQiOiJUS0REMDlLSUpIOEwwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.spMVoNbGmYuQzzP1tR6-DmqxaNKSg5MFUqRe1JzJbRY" rel="alternate" />
