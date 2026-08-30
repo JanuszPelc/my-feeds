@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-08-30T09:44:00+00:00</updated>
+  <updated>2026-08-30T09:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Longest Straight-Line Paths on Water and Land on Earth</title>
+    <link href="https://arxiv.org/abs/1804.07389" rel="alternate" />
+    <id>https://arxiv.org/abs/1804.07389::v237</id>
+    <published>2026-08-30T09:51:00+00:00</published>
+    <updated>2026-08-30T09:51:00+00:00</updated>
+    <media:thumbnail url="https://www.boardinfinity.com/blog/content/images/2023/02/Branch-and-Bound-Algo-1.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arxiv.org/abs/1804.07389">arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=49496782">hacker news</a></small></p><hr/><p>The study presents a methodology for determining the longest straight-line distances achievable on Earth's oceans without hitting land, and on land without encountering major water bodies. The optimization process is made complex by the fractal geometry of coasts and the existence of numerous islands and lakes.</p><p>The authors employ a branch-and-bound algorithm to solve these optimization challenges. This method identifies a record-setting ocean path of approximately 32,090.3 kilometers, stretching from Pakistan to Russia.</p><p><img src="https://www.boardinfinity.com/blog/content/images/2023/02/Branch-and-Bound-Algo-1.png" /></p><hr/><small>30 Aug 2026, 15:43 UTC | #19591</small>]]></content>
+  </entry>
   <entry>
     <title>Strategies for Navigating New Professional Roles via Contextual Action</title>
     <link href="https://tucker.wales/writing/bias-towards-action/" rel="alternate" />
