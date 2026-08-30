@@ -15,7 +15,7 @@ into your feed reader to get everything at once, or add them one at a time:
 - **nerd-science**: `https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml`
 
 > [!TIP]
-> If a feed goes quiet for more than a day, come back and check the list above. The names
+> If a feed goes quiet for a few days, come back and check the list above. The names
 > are meant to be permanent, but if one ever changes, the old URL goes stale.
 
 ## Worth knowing
