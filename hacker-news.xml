@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T16:10:00+00:00</updated>
+  <updated>2026-08-30T16:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Oofoe Discusses Programming Language Design and Software Development Philosophy</title>
+    <link href="https://alexalejandre.com/interviews/interview-with-oofoe/" rel="alternate" />
+    <id>https://alexalejandre.com/interviews/interview-with-oofoe/::v237</id>
+    <published>2026-08-30T16:22:00+00:00</published>
+    <updated>2026-08-30T16:22:00+00:00</updated>
+    <media:thumbnail url="https://scottishbusinessnews.net/wp-content/uploads/2026/01/Neil-Munday-of-Studio-King-Street-Interviews-Go-Forth-Stirling-Project-Director-Danielle-McRorie-Smith.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://alexalejandre.com/interviews/interview-with-oofoe/">alexalejandre.com</a> | <a href="https://lobste.rs/s/3ccvfi/interview_with_oofoe_about_rebol_forth">discussion</a></small></p><hr/><p>Oofoe discusses the merits and design philosophies of various programming languages, including REBOL, Forth, Janet, and Lisp dialects. The conversation emphasizes the utility of Parsing Expression Grammars (PEG), the concept of "programming in the small," and the implementation of domain-specific languages.</p><p>The discussion extends to Oofoe's work in the Visual Effects (VFx) industry, specifically the development of custom render-farm controllers to manage compute resources. The interview also explores the preference for concise, human-sized codebases and the practical application of stack-based and declarative programming models.</p><p><img src="https://scottishbusinessnews.net/wp-content/uploads/2026/01/Neil-Munday-of-Studio-King-Street-Interviews-Go-Forth-Stirling-Project-Director-Danielle-McRorie-Smith.jpg" /></p><hr/><small>30 Aug 2026, 20:57 UTC | #19617</small>]]></content>
+  </entry>
   <entry>
     <title>Aeson Labs Recovers Data from Monolithic SD Card via Capacitor Removal</title>
     <link href="https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/" rel="alternate" />
