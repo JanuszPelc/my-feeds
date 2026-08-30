@@ -20,9 +20,9 @@ into your feed reader to get everything at once, or add them one at a time:
 
 ## Worth knowing
 
-Titles and summaries are written by an agentic pipeline running small local models on my own
-hardware, and nothing is reviewed by hand. Lead images are chosen the same way, and don't
-always match the story.
+Titles and summaries are written by an agentic pipeline running mostly small local models,
+and nothing is reviewed by hand. Lead images are chosen by vision models and don't always
+match the story.
 
 Machine-generated text sometimes gets things wrong, so check anything that matters against
 the linked sources. No promises about accuracy, uptime, or how long this stays around.
