@@ -4,8 +4,8 @@ The feeds I actually read, published as static Atom files so other people can su
 
 ## Subscribing
 
-Import **[feeds.opml](https://github.com/JanuszPelc/my-feeds/blob/master/feeds.opml)** into your feed reader to get everything at once, or add
-them one at a time:
+Import **[feeds.opml](https://github.com/JanuszPelc/my-feeds/blob/master/feeds.opml)**
+into your feed reader to get everything at once, or add them one at a time:
 
 - **ai-news**: `https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml`
 - **business-tech**: `https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml`
@@ -20,12 +20,12 @@ few days of stories.
 ## Worth knowing
 
 Titles and summaries are written by an agentic pipeline running small local models on my own
-hardware, and nothing is reviewed by hand. Lead images are chosen the same way, so the picture
-next to a story isn't always from that story.
+hardware, and nothing is reviewed by hand. Lead images are chosen the same way, and don't
+always match the story.
 
-Machine-generated text gets things wrong. Don't trust what you see: follow the links to the
-original sources. No promises about accuracy, uptime, or how long this stays around, so use
-it at your own risk.
+Machine-generated text sometimes gets things wrong. Don't trust what you see: follow the
+links to the original sources. No promises about accuracy, uptime, or how long this stays
+around, so use it at your own risk.
 
 It's a one-way mirror of a private pipeline, so pull requests don't have anywhere to go. If
 something looks broken, just tell me.
