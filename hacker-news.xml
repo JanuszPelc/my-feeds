@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T16:02:00+00:00</updated>
+  <updated>2026-08-30T16:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Curvature-Aware Bezier Curves for Improved Editing</title>
+    <link href="https://acko.net/blog/curvature-beziers/" rel="alternate" />
+    <id>https://acko.net/blog/curvature-beziers/::v237</id>
+    <published>2026-08-30T16:08:00+00:00</published>
+    <updated>2026-08-30T16:08:00+00:00</updated>
+    <media:thumbnail url="https://i.stack.imgur.com/vu6KW.gif" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://acko.net/blog/curvature-beziers/">acko.net</a> | <a href="https://lobste.rs/s/r7kppl/curvature_beziers">discussion</a> | <a href="https://news.ycombinator.com/item?id=49422743">hacker news</a></small></p><hr/><p>Standard Bezier curve editing uses symmetric or asymmetric tangents to manage smoothness, but these settings fail to guarantee continuous curvature. This article proposes a system of curvature-aware handles, where handle length is directly proportional to the radius of curvature, to provide a more intuitive and stable editing experience.</p><p>The author derives a mathematical approach to solve for tangent lengths using a quadratic system of equations, enabling seamless conversion between traditional Bezier control points and curvature handles. This method helps prevent unexpected curve "popping" and numerical drift during the design process.</p><p><img src="https://i.stack.imgur.com/vu6KW.gif" /></p><hr/><small>30 Aug 2026, 19:22 UTC | #19607</small>]]></content>
+  </entry>
   <entry>
     <title>Qubes OS Security Bulletin 118 Addresses Dom0 Code Execution Vulnerability</title>
     <link href="https://www.qubes-os.org/news/2026/08/29/qsb-118/" rel="alternate" />

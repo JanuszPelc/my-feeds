@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-08-30T13:28:00+00:00</updated>
+  <updated>2026-08-30T16:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Computer Science and the Role of Physical Computing</title>
+    <link href="https://www.quantamagazine.org/does-computer-science-need-computers-20260828/" rel="alternate" />
+    <id>https://www.quantamagazine.org/does-computer-science-need-computers-20260828/::v237</id>
+    <published>2026-08-30T16:07:00+00:00</published>
+    <updated>2026-08-30T16:07:00+00:00</updated>
+    <media:thumbnail url="https://learntechthings.com/wp-content/uploads/2026/02/TheoriticalImage-1024x683.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.quantamagazine.org/does-computer-science-need-computers-20260828/">quantamagazine.org</a> | <a href="https://lobste.rs/s/xeedei/does_computer_science_need_computers">discussion</a> | <a href="https://news.ycombinator.com/item?id=49479062">hacker news</a></small></p><hr/><p>The debate over whether computer science is defined by physical machines or the mathematical study of computation is central to the field's identity. Historical perspectives from figures like Edsger Dijkstra and Donald Knuth highlight a distinction between its engineering-based and theory-based foundations.</p><p>While theoretical models like Turing machines allow for computation to be studied independently of hardware, practical computing applications often drive the emergence of significant theoretical questions. This synergy suggests that the evolution of the field is a continuous interplay between physical technology and abstract mathematical discovery.</p><p><img src="https://learntechthings.com/wp-content/uploads/2026/02/TheoriticalImage-1024x683.png" /></p><hr/><small>30 Aug 2026, 19:19 UTC | #19606</small>]]></content>
+  </entry>
   <entry>
     <title>Generative AI and the Development of Human Aesthetic Taste</title>
     <link href="https://dustycloud.org/blog/but-where-does-taste-come-from/" rel="alternate" />
