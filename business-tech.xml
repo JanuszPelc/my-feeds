@@ -3,7 +3,16 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-29T23:31:00+00:00</updated>
+  <updated>2026-08-30T04:06:00+00:00</updated>
+  <entry>
+    <title>Older Workers More Positive About Workplace AI Than Gen Z</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings::v237</id>
+    <published>2026-08-30T04:06:00+00:00</published>
+    <updated>2026-08-30T04:06:00+00:00</updated>
+    <media:thumbnail url="https://edubrain.ai/wp-content/uploads/2026/01/1-1.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings">bloomberg.com</a> | <a href="https://www.glassdoor.com/blog/how-workers-feel-about-ai-2026/">source</a></small></p><hr/><p>Glassdoor research shows that workers in their 40s, 50s, and 60s are more optimistic about the use of artificial intelligence in the workplace than Gen Z employees. An analysis of job review comments reveals that nearly half of Gen X workers view company AI implementation positively, compared to roughly one-third of their younger counterparts.</p><p>This generational gap is partly driven by the emergence of new opportunities for senior-level professionals during the AI transition. Despite this disparity, the majority of workers across both age groups remain critical of the technology's impact.</p><p><img src="https://edubrain.ai/wp-content/uploads/2026/01/1-1.png" /></p><hr/><small>30 Aug 2026, 10:34 UTC | #19560</small>]]></content>
+  </entry>
   <entry>
     <title>California Exempts Open-Source Software from Age-Verification Law</title>
     <link href="https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt" rel="alternate" />
