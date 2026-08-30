@@ -3,7 +3,16 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T00:22:00+00:00</updated>
+  <updated>2026-08-30T04:03:00+00:00</updated>
+  <entry>
+    <title>Glimmer Provides Reactive UI Bindings for GTK4 in Clojure</title>
+    <link href="https://yogthos.net/posts/2026-08-29-glimmer-ui.html" rel="alternate" />
+    <id>https://yogthos.net/posts/2026-08-29-glimmer-ui.html::v237</id>
+    <published>2026-08-30T04:03:00+00:00</published>
+    <updated>2026-08-30T04:03:00+00:00</updated>
+    <media:thumbnail url="https://martimm.github.io/content-docs/api2/reference/Gtk4/asset_files/images/plantuml/GestureClick.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yogthos.net/posts/2026-08-29-glimmer-ui.html">yogthos.net</a> | <a href="https://lobste.rs/s/svga6q/wrapping_gtk4_800_lines_clojure_with_jolt">discussion</a></small></p><hr/><p>Glimmer-GTK provides reactive UI bindings for the GTK4 toolkit using the Jolt programming language. It allows developers to build native interfaces with a Hiccup-style syntax by driving widget updates directly from reactive state changes, bypassing the need for a virtual DOM or a heavy browser-based runtime.</p><p>The backend is implemented in approximately 800 lines of Clojure, using Jolt's Foreign Function Interface (FFI) to map C functions and GObject enums. This approach enables a lightweight, compiled native binary that maintains a rapid, data-driven development loop characteristic of modern web frameworks while executing natively on the platform.</p><p><img src="https://martimm.github.io/content-docs/api2/reference/Gtk4/asset_files/images/plantuml/GestureClick.png" /></p><hr/><small>30 Aug 2026, 09:35 UTC | #19570</small>]]></content>
+  </entry>
   <entry>
     <title>Bug Blindness in Software Development</title>
     <link href="https://danluu.com/bug-blind/" rel="alternate" />
