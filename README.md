@@ -14,8 +14,9 @@ into your feed reader to get everything at once, or add them one at a time:
 - **music-production**: `https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml`
 - **nerd-science**: `https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml`
 
-If a feed goes quiet for more than a day, come back and check the list above. The names are
-meant to be permanent, but if one ever changes, the old URL goes stale.
+> [!TIP]
+> If a feed goes quiet for more than a day, come back and check the list above. The names
+> are meant to be permanent, but if one ever changes, the old URL goes stale.
 
 ## Worth knowing
 
