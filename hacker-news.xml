@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T13:12:00+00:00</updated>
+  <updated>2026-08-30T13:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>FreeCORE Provides Independent Continuation of TrueNAS CORE 13.3</title>
+    <link href="https://freecore.org/" rel="alternate" />
+    <id>https://freecore.org/::v237</id>
+    <published>2026-08-30T13:31:00+00:00</published>
+    <updated>2026-08-30T13:31:00+00:00</updated>
+    <media:thumbnail url="https://www.truenas.com/wp-content/uploads/2024/05/CORE_UI_Layout.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://freecore.org/">freecore.org</a> | <a href="https://news.ycombinator.com/item?id=49494856">hacker news</a></small></p><hr/><p>FreeCORE is an independently maintained operating system based on FreeBSD designed to carry the TrueNAS CORE 13.3 system forward. The project's 15.0-U1 release is stable and supports in-place upgrades for existing TrueNAS CORE 13.3 installations.</p><p>Development aims to provide a continuous update train for users transitioning from the legacy TrueNAS CORE platform. Version 15.1 is currently in the development roadmap.</p><p><img src="https://www.truenas.com/wp-content/uploads/2024/05/CORE_UI_Layout.png" /></p><hr/><small>30 Aug 2026, 16:56 UTC | #19598</small>]]></content>
+  </entry>
   <entry>
     <title>Transferring Files via Direct Ethernet Connection</title>
     <link href="https://maurycyz.com/misc/etherfiles/" rel="alternate" />
