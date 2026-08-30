@@ -3,7 +3,16 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-08-30T04:00:00+00:00</updated>
+  <updated>2026-08-30T04:05:00+00:00</updated>
+  <entry>
+    <title>Nancy Grace Roman Space Telescope Construction Complete, Launch Set for August 2026</title>
+    <link href="https://science.nasa.gov/mission/roman-space-telescope/" rel="alternate" />
+    <id>https://science.nasa.gov/mission/roman-space-telescope/::v237</id>
+    <published>2026-08-30T04:05:00+00:00</published>
+    <updated>2026-08-30T04:05:00+00:00</updated>
+    <media:thumbnail url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/cleanroom-photos/complete.jpg?fit=clip&amp;crop=faces%2Cfocalpoint&amp;w=2048" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://science.nasa.gov/mission/roman-space-telescope/">science.nasa.gov</a> | <a href="https://news.ycombinator.com/item?id=49490870">hacker news</a></small></p><hr/><p>NASA has completed the construction of the Nancy Grace Roman Space Telescope. The observatory is scheduled to launch on August 30, 2026, via a SpaceX Falcon Heavy rocket from the Kennedy Space Center in Florida.</p><p>The telescope's field of view is expected to be at least 100 times larger than that of the Hubble Space Telescope, allowing it to potentially survey a billion galaxies. Its mission objectives include conducting large-scale astrophysical surveys to study dark energy and facilitate planetary discovery.</p><p><img src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/rst/cleanroom-photos/complete.jpg?fit=clip&crop=faces%2Cfocalpoint&w=2048" /></p><hr/><small>30 Aug 2026, 10:11 UTC | #19571</small>]]></content>
+  </entry>
   <entry>
     <title>The Non-Neutrality of Technology and Web Frameworks</title>
     <link href="https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool" rel="alternate" />
