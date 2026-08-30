@@ -3,9 +3,45 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T16:59:00+00:00</updated>
+  <updated>2026-08-30T18:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Determining Total Host Processors in .NET</title>
+    <link href="https://csharpdigest.net/links/23124/rss" rel="alternate" />
+    <id>https://csharpdigest.net/links/23124/rss::v237</id>
+    <published>2026-08-30T18:24:00+00:00</published>
+    <updated>2026-08-30T18:24:00+00:00</updated>
+    <media:thumbnail url="https://www.yourkit.com/docs/dotnet-profiler/latest/help/cpu_usage_estimation.png" />
+    <content type="html"><![CDATA[<p><small>C# Digest | <a href="https://csharpdigest.net/links/23124/rss">csharpdigest.net</a> | <a href="https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/">source</a></small></p><hr/><p>Modern .NET versions return the number of logical processors available to a specific process—accounting for container limits or CPU affinity—rather than the total number of processors on the host machine. This behavior, while useful for process-level scaling, prevents developers from accessing the full hardware capacity via the standard `Environment.ProcessorCount` property.</p><p>Retrieving the host's total processor count requires platform-specific implementations: P/Invoking `GetActiveProcessorCount` on Windows, `sysctlbyname` on macOS, and parsing the `/sys/devices/system/cpu/online` file on Linux. The Linux implementation reads the kernel's CPU list directly to ensure accuracy across different distributions and libraries.</p><p><img src="https://www.yourkit.com/docs/dotnet-profiler/latest/help/cpu_usage_estimation.png" /></p><hr/><small>30 Aug 2026, 23:49 UTC | #19627</small>]]></content>
+  </entry>
+  <entry>
+    <title>.NET 9 and .NET 10 Introduce New GC Handle APIs and Internal Handle Types</title>
+    <link href="https://csharpdigest.net/links/23123/rss" rel="alternate" />
+    <id>https://csharpdigest.net/links/23123/rss::v237</id>
+    <published>2026-08-30T18:23:00+00:00</published>
+    <updated>2026-08-30T18:23:00+00:00</updated>
+    <media:thumbnail url="https://byteiota.com/wp-content/uploads/2025/12/featured-image-227-800x400.jpg" />
+    <content type="html"><![CDATA[<p><small>C# Digest | <a href="https://csharpdigest.net/links/23123/rss">csharpdigest.net</a></small></p><hr/><p>Public updates to the CoreCLR runtime in .NET 9 and .NET 10 include new generic, type-safe implementations of standard handles: GCHandle&lt;T&gt;, WeakGCHandle&lt;T&gt;, and PinnedGCHandle&lt;T&gt;, as well as GCHandleExtensions. These changes improve type safety, eliminate manual casting, and enhance performance when interacting with unmanaged code.</p><p>Internally, the runtime introduces weak interior pointer handles for collectable types and static variables, and cross-reference handles to coordinate object lifetimes between the .NET and Java garbage collectors for Android MAUI applications. Benchmarks demonstrate that the new generic handle types significantly reduce the cycles required to access target objects by removing runtime safety checks and branching logic present in the legacy GCHandle struct.</p><p><img src="https://byteiota.com/wp-content/uploads/2025/12/featured-image-227-800x400.jpg" /></p><hr/><small>30 Aug 2026, 23:46 UTC | #19626</small>]]></content>
+  </entry>
+  <entry>
+    <title>Eventual Consistency and the CAP Theorem</title>
+    <link href="https://csharpdigest.net/links/23122/rss" rel="alternate" />
+    <id>https://csharpdigest.net/links/23122/rss::v237</id>
+    <published>2026-08-30T18:22:00+00:00</published>
+    <updated>2026-08-30T18:22:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQEVv1nQdnB76w/article-cover_image-shrink_720_1280/B4DZvlX68KI0AI-/0/1769079813248?e=2147483647&amp;v=beta&amp;t=htt2GUTyUAv0vqATajxq5pBc5TmWbaqtnbOzlrsABkc" />
+    <content type="html"><![CDATA[<p><small>C# Digest | <a href="https://csharpdigest.net/links/23122/rss">csharpdigest.net</a> | <a href="https://irina.codes/eventual-consistency-explained/">source</a></small></p><hr/><p>Eventual consistency is a distributed systems model where data propagates to all nodes over time, ensuring replicas eventually converge on the same value. In accordance with the CAP theorem, this approach allows systems to prioritize availability and partition tolerance (AP) over strong consistency (CP) to minimize latency and maintain service during network partitions.</p><p>Common applications include DNS, content delivery networks (CDNs), and asynchronous social media updates. Designers manage the risks of stale data through techniques such as optimistic UIs, idempotent operations, data versioning, and the use of configurable consistency levels provided by databases like Cassandra or DynamoDB.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQEVv1nQdnB76w/article-cover_image-shrink_720_1280/B4DZvlX68KI0AI-/0/1769079813248?e=2147483647&v=beta&t=htt2GUTyUAv0vqATajxq5pBc5TmWbaqtnbOzlrsABkc" /></p><hr/><small>30 Aug 2026, 23:40 UTC | #19625</small>]]></content>
+  </entry>
+  <entry>
+    <title>.NET Garbage Collection Fundamentals</title>
+    <link href="https://csharpdigest.net/links/23121/rss" rel="alternate" />
+    <id>https://csharpdigest.net/links/23121/rss::v237</id>
+    <published>2026-08-30T18:21:00+00:00</published>
+    <updated>2026-08-30T18:21:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/UnaNQgzw4zY/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>C# Digest | <a href="https://csharpdigest.net/links/23121/rss">csharpdigest.net</a> | <a href="https://ilovedotnet.org/blogs/garbage-collection-fundamentals-in-dotnet/">source</a></small></p><hr/><p>The .NET Common Language Runtime (CLR) manages memory via its Garbage Collector (GC), which automatically tracks and reclaims objects on the heap. This process relies on a distinction between stack memory for fixed-size value types and heap memory for dynamic reference types, utilizing a three-phase mark-sweep-compact algorithm to identify and reclaim unreachable objects.</p><p>Compaction resolves heap fragmentation by sliding surviving objects together to create contiguous free memory, a process that requires a brief application pause. Additionally, the interaction between the managed heap and the operating system's virtual memory provides process isolation, while the IDisposable pattern remains necessary for managing non-memory resources like file handles and database connections.</p><p><img src="https://i.ytimg.com/vi/UnaNQgzw4zY/maxresdefault.jpg" /></p><hr/><small>30 Aug 2026, 23:37 UTC | #19624</small>]]></content>
+  </entry>
   <entry>
     <title>Storyteller Uses Forced Alignment for Immersive Reading</title>
     <link href="https://smoores.dev/post/automating_immersive_reading/" rel="alternate" />
