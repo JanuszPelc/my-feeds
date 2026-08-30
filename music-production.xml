@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-08-30T16:24:00+00:00</updated>
+  <updated>2026-08-30T16:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>NoirSonance Releases Headroomer Channel Cleanup Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/08/30/noirsonance-headroomer/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/08/30/noirsonance-headroomer/::v237</id>
+    <published>2026-08-30T16:25:00+00:00</published>
+    <updated>2026-08-30T16:25:00+00:00</updated>
+    <media:thumbnail url="https://chiselaudio.com/assets/chisel-plugin-screenshot-DMvo3-Kc.png" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/08/30/noirsonance-headroomer/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/08/30/noirsonance-headroomer/#respond">discussion</a></small></p><hr/><p>NoirSonance has released Headroomer, a channel cleanup plugin compatible with macOS and Windows. The plugin is offered via a free or "pay-what-you-want" licensing model.</p><p>Headroomer is designed as a utility for producers and audio engineers to assist with cleaning up audio channels. It is available for both major desktop operating systems.</p><p><img src="https://chiselaudio.com/assets/chisel-plugin-screenshot-DMvo3-Kc.png" /></p><hr/><small>30 Aug 2026, 21:34 UTC | #19612</small>]]></content>
+  </entry>
   <entry>
     <title>W.A. Production Offers Presser Compressor Plugin for Free</title>
     <link href="https://bedroomproducersblog.com/2026/08/29/wa-production-presser-free/" rel="alternate" />
