@@ -4,6 +4,8 @@
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
   <updated>2026-08-30T04:03:00+00:00</updated>
+  <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
+  <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
     <title>Glimmer Provides Reactive UI Bindings for GTK4 in Clojure</title>
     <link href="https://yogthos.net/posts/2026-08-29-glimmer-ui.html" rel="alternate" />

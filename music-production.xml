@@ -4,6 +4,8 @@
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
   <updated>2026-08-30T04:01:00+00:00</updated>
+  <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
+  <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
   <entry>
     <title>EDM Producers Call Out AI-Generated Music Passed Off as Human Art</title>
     <link href="https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai" rel="alternate" />

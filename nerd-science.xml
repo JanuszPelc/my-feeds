@@ -4,6 +4,8 @@
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
   <updated>2026-08-30T04:05:00+00:00</updated>
+  <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
+  <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
   <entry>
     <title>Nancy Grace Roman Space Telescope Construction Complete, Launch Set for August 2026</title>
     <link href="https://science.nasa.gov/mission/roman-space-telescope/" rel="alternate" />
