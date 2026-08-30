@@ -3,9 +3,26 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-30T04:06:00+00:00</updated>
+  <updated>2026-08-30T05:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Grindr Plans Premium Service Expansion Including High-Cost Tiers</title>
+    <link href="https://www.ft.com/content/952920f9-429d-451a-9913-a360880ead41" rel="alternate" />
+    <id>https://www.ft.com/content/952920f9-429d-451a-9913-a360880ead41::v237</id>
+    <published>2026-08-30T05:01:00+00:00</published>
+    <updated>2026-08-30T05:01:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/952920f9-429d-451a-9913-a360880ead41">ft.com</a> | <a href="https://investors.grindr.com/news/news-details/2026/Grindr-Inc--Reports-Second-Quarter-2026-Revenue-Growth-of-33%-Raises-Guidance/">source</a></small></p><hr/><p>CEO George Arison is proposing new service tiers for the platform, including a high-end option priced at up to $350 per month. In the second quarter, Grindr reported 1.4 million paying users out of 15 million monthly active users.</p><p>The expansion follows a 33% increase in second-quarter revenue and an upward revision of full-year guidance. The company aims to monetize growing interest in enhanced product features and capabilities.</p><hr/><small>30 Aug 2026, 12:29 UTC | #19562</small>]]></content>
+  </entry>
+  <entry>
+    <title>AI Agents and the Risk of Software Monocultures</title>
+    <link href="https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj" rel="alternate" />
+    <id>https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj::v237</id>
+    <published>2026-08-30T04:11:00+00:00</published>
+    <updated>2026-08-30T04:11:00+00:00</updated>
+    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https://www-cdn.anthropic.com/images/4zrzovbb/website/3613f360926fae004521197488623465eb0cd751-1920x1035.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj">dev.to</a> | <a href="https://lobste.rs/s/hg2lbk/nobody_argued_for_your_stack">discussion</a></small></p><hr/><p>AI-powered agents like Claude and Devin are replacing nuanced technical debate with "industrialized verdicts" in software development. By automating migrations based on patterns in training data, these agents reinforce established libraries and dominant ecosystems, often prioritizing familiarity over technical merit.</p><p>This phenomenon risks creating software monocultures where technologies like React become inescapable because they are overrepresented in AI training sets. Such a trend may strip ecosystems of the competitive pressure required for innovation, making verifiable, public technical analysis more essential than automated code output.</p><p><img src="https://www.anthropic.com/_next/image?url=https://www-cdn.anthropic.com/images/4zrzovbb/website/3613f360926fae004521197488623465eb0cd751-1920x1035.png&w=3840&q=75" /></p><hr/><small>30 Aug 2026, 12:16 UTC | #19573</small>]]></content>
+  </entry>
   <entry>
     <title>Older Workers More Positive About Workplace AI Than Gen Z</title>
     <link href="https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings" rel="alternate" />

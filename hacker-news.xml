@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T04:03:00+00:00</updated>
+  <updated>2026-08-30T04:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Impact of Rust Typestate and Newtype Patterns on Code Quality</title>
+    <link href="https://dl.acm.org/doi/epdf/10.1145/3830438.3830958" rel="alternate" />
+    <id>https://dl.acm.org/doi/epdf/10.1145/3830438.3830958::v237</id>
+    <published>2026-08-30T04:12:00+00:00</published>
+    <updated>2026-08-30T04:12:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*50G2YCyngWsQxzUgmFkm4w.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dl.acm.org/doi/epdf/10.1145/3830438.3830958">dl.acm.org</a> | <a href="https://dl.acm.org/doi/10.1145/3830438.3830958">source</a> | <a href="https://lobste.rs/s/udkuqc/functional_state_machines_rust">discussion</a> | <a href="https://news.ycombinator.com/item?id=49492368">hacker news</a></small></p><hr/><p>Research investigates how the typestate and newtype design patterns in the Rust programming language affect software code quality. The study evaluated three production code case studies using expert interviews, static code analysis, and benchmarks.</p><p>The findings indicate that the typestate pattern improves code faultlessness and testability by encoding state transitions into the type system. However, the study also noted that these patterns can increase boilerplate code and potentially degrade code readability.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*50G2YCyngWsQxzUgmFkm4w.png" /></p><hr/><small>30 Aug 2026, 12:19 UTC | #19574</small>]]></content>
+  </entry>
   <entry>
     <title>Glimmer Provides Reactive UI Bindings for GTK4 in Clojure</title>
     <link href="https://yogthos.net/posts/2026-08-29-glimmer-ui.html" rel="alternate" />

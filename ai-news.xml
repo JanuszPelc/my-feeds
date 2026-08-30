@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-08-29T18:54:00+00:00</updated>
+  <updated>2026-08-30T04:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Z.AI Runs GLM-5.3 Flash Inference on Chinese-Manufactured Hardware</title>
+    <link href="https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/" rel="alternate" />
+    <id>https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/::v237</id>
+    <published>2026-08-30T04:14:00+00:00</published>
+    <updated>2026-08-30T04:14:00+00:00</updated>
+    <media:thumbnail url="https://benchable.ai/images/models/z-ai/glm-5-20260211.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/">martinalderson.com</a> | <a href="https://z.ai/blog/glm-5.3-flash">source</a> | <a href="https://lobste.rs/s/wsbhcr/what_glm_5_3_flash_running_on_chinese">discussion</a> | <a href="https://news.ycombinator.com/item?id=49449507">hacker news</a></small></p><hr/><p>Z.AI has confirmed that inference for its GLM-5.3 Flash model is being conducted entirely on Chinese-manufactured hardware. This development underscores China's strategic efforts to sustain AI development and large-scale model deployment despite US export restrictions on advanced semiconductor technology.</p><p>Performance analysis suggests the underlying hardware, likely from Huawei's HiSilicon line, significantly trails Nvidia's H100 and Rubin architectures in compute efficiency and memory bandwidth. Because China faces significant hurdles in accessing EUV lithography and high-end HBM memory, the industry may increasingly rely on massive clusters of less-efficient chips, which could lead to higher energy costs and increased latency for end users.</p><p><img src="https://benchable.ai/images/models/z-ai/glm-5-20260211.png" /></p><hr/><small>30 Aug 2026, 12:27 UTC | #19576</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic to Raise Standard Claude Code Weekly Limits by 25% in September</title>
     <link href="https://x.com/claudedevs" rel="alternate" />
