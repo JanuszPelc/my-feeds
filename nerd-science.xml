@@ -3,5 +3,14 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-08-30T00:05:22.128806+00:00</updated>
+  <updated>2026-08-30T04:00:00+00:00</updated>
+  <entry>
+    <title>The Non-Neutrality of Technology and Web Frameworks</title>
+    <link href="https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool" rel="alternate" />
+    <id>https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool::v237</id>
+    <published>2026-08-30T04:00:00+00:00</published>
+    <updated>2026-08-30T04:00:00+00:00</updated>
+    <media:thumbnail url="https://1996magazine.co.uk/wp-content/uploads/2026/04/React-vs-Vue-2026-860x484.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool">deadsimpletech.com</a> | <a href="https://lobste.rs/s/9y9jo6/there_s_no_such_thing_as_just_tool">discussion</a></small></p><hr/><p>Technology is not a neutral instrument, but a means of forming "human-tool gestalts" that shape behavior, thought patterns, and social ideologies. Applying Martin Heidegger's concept of "ready-to-hand" objects, the argument suggests that seamless tools function as extensions of human capability, subtly dictating the range of actions and perspectives available to users.</p><p>In web development, the differing designs of React and Vue create distinct professional hierarchies and team compositions by prioritizing either JavaScript or HTML. This pattern of tool-driven influence extends to societal examples like transportation and firearms, where the affordances of a tool can alter perception and social dynamics.</p><p><img src="https://1996magazine.co.uk/wp-content/uploads/2026/04/React-vs-Vue-2026-860x484.jpg" /></p><hr/><small>30 Aug 2026, 07:41 UTC | #19569</small>]]></content>
+  </entry>
 </feed>
