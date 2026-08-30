@@ -3,9 +3,27 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-08-30T09:51:00+00:00</updated>
+  <updated>2026-08-30T13:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Generative AI and the Development of Human Aesthetic Taste</title>
+    <link href="https://dustycloud.org/blog/but-where-does-taste-come-from/" rel="alternate" />
+    <id>https://dustycloud.org/blog/but-where-does-taste-come-from/::v237</id>
+    <published>2026-08-30T13:28:00+00:00</published>
+    <updated>2026-08-30T13:28:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQE07ntR5PhXng/article-cover_image-shrink_720_1280/B4DZvBHGmGG8AI-/0/1768471436622?e=2147483647&amp;v=beta&amp;t=N2N_KANLfGxd9AZToe3LBaxJOC2sBDfCGABa1GHXTj0" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dustycloud.org/blog/but-where-does-taste-come-from/">dustycloud.org</a> | <a href="https://lobste.rs/s/9naffr/where_does_taste_come_from">discussion</a></small></p><hr/><p>Developing authentic aesthetic taste requires hands-on practice and the experience of trial and error, processes that can be undermined by the use of generative AI. Because Large Language Models (LLMs) reflect a statistical average of human output, over-reliance on these tools can diminish individual discernment and lead to a homogenization of creative style.</p><p>True taste is forged through direct engagement with one's craft, including the process of making mistakes and discovering unexpected results. To avoid becoming "nose-blind" to the mediocrity of AI-generated content, creators should use generative tools sparingly to maintain a unique creative perspective.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQE07ntR5PhXng/article-cover_image-shrink_720_1280/B4DZvBHGmGG8AI-/0/1768471436622?e=2147483647&v=beta&t=N2N_KANLfGxd9AZToe3LBaxJOC2sBDfCGABa1GHXTj0" /></p><hr/><small>30 Aug 2026, 16:40 UTC | #19595</small>]]></content>
+  </entry>
+  <entry>
+    <title>John Law Argues Burning Man Has Lost Its Anarchist Roots</title>
+    <link href="https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/" rel="alternate" />
+    <id>https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/::v237</id>
+    <published>2026-08-30T13:14:00+00:00</published>
+    <updated>2026-08-30T13:14:00+00:00</updated>
+    <media:thumbnail url="https://assets.sfstandard.com/image/994911177489/image_ref658j2jl2lve21g3i8j1ni62/-S3840x5671-FPNG" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/">sfstandard.com</a> | <a href="https://news.ycombinator.com/item?id=49494151">hacker news</a></small></p><hr/><p>Burning Man co-founder John Law argues the festival has transitioned from a spontaneous, collaborative gathering into a commercialized, hierarchical spectacle. He characterizes the modern event as a high-priced "carnival" for the wealthy and Silicon Valley elite, contrasting it with the non-hierarchical "Temporary Autonomous Zone" of its origins in the late 1980s.</p><p>The critique traces the festival's evolution from the Cacophony Society's desert expeditions to its current state of luxury camps and professionalized management. Law suggests that while the event remains a significant immersive experience for many, it has increasingly been absorbed into the capitalist celebrity-entertainment complex.</p><p><img src="https://assets.sfstandard.com/image/994911177489/image_ref658j2jl2lve21g3i8j1ni62/-S3840x5671-FPNG" /></p><hr/><small>30 Aug 2026, 16:37 UTC | #19596</small>]]></content>
+  </entry>
   <entry>
     <title>Longest Straight-Line Paths on Water and Land on Earth</title>
     <link href="https://arxiv.org/abs/1804.07389" rel="alternate" />
