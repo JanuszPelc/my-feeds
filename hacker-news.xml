@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T16:08:00+00:00</updated>
+  <updated>2026-08-30T16:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Aeson Labs Recovers Data from Monolithic SD Card via Capacitor Removal</title>
+    <link href="https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/" rel="alternate" />
+    <id>https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/::v237</id>
+    <published>2026-08-30T16:10:00+00:00</published>
+    <updated>2026-08-30T16:10:00+00:00</updated>
+    <media:thumbnail url="https://www.easeus.com/images/en/data-recovery/drw-pro/micro-sd-card-recovery.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/">hackaday.com</a> | <a href="https://aesonlabs.ca/blogs/monolithic-sd-card-data-recovery-a-hands-on-case-study/">source</a> | <a href="https://lobste.rs/s/s8x8xq/reviving_sd_card_with_shorted_capacitors">discussion</a></small></p><hr/><p>A 32 GB monolithic SD card experiencing a short between the supply rail and ground was successfully revived by removing two internal shorted capacitors. Due to the card's monolithic construction, which lacks exposed surface-mount components, technicians utilized thermal imaging and X-ray inspection to locate the failed passives within the package.</p><p>Removing the capacitors resolved the power rail short and restored the card to functional status. This procedure demonstrates that data recovery remains possible in sealed, monolithic storage devices through component-level diagnostic imaging and precise material removal.</p><p><img src="https://www.easeus.com/images/en/data-recovery/drw-pro/micro-sd-card-recovery.png" /></p><hr/><small>30 Aug 2026, 19:48 UTC | #19609</small>]]></content>
+  </entry>
   <entry>
     <title>Curvature-Aware Bezier Curves for Improved Editing</title>
     <link href="https://acko.net/blog/curvature-beziers/" rel="alternate" />
