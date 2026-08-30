@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T09:40:00+00:00</updated>
+  <updated>2026-08-30T12:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>HTMX CEO Mandates "No AI Fridays"</title>
+    <link href="https://noaifridays.com/" rel="alternate" />
+    <id>https://noaifridays.com/::v237</id>
+    <published>2026-08-30T12:32:00+00:00</published>
+    <updated>2026-08-30T12:32:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQHf_fksEvDYVw/article-cover_image-shrink_720_1280/B4DZ1ucZGtHMAI-/0/1775674430798?e=2147483647&amp;v=beta&amp;t=CRdRuL8DB83qcFHAAmgYhzW1VPvNK7OmNB7FA_hiTPw" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://noaifridays.com/">noaifridays.com</a> | <a href="https://news.ycombinator.com/item?id=49498095">hacker news</a></small></p><hr/><p>The CEO of HTMX has mandated "No AI Fridays," an initiative encouraging developers to work one day a week without AI assistants. The movement aims to combat cognitive debt, preserve critical thinking skills, and maintain the "flow state" achieved through manual coding and direct documentation reading.</p><p>Proponents argue that offloading decision-making to LLMs can create technical blind spots and erode fundamental programming skills. The initiative also suggests that such breaks can lead to long-term reductions in token usage and overall AI expenditure by discouraging a default reliance on automated tools.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQHf_fksEvDYVw/article-cover_image-shrink_720_1280/B4DZ1ucZGtHMAI-/0/1775674430798?e=2147483647&v=beta&t=CRdRuL8DB83qcFHAAmgYhzW1VPvNK7OmNB7FA_hiTPw" /></p><hr/><small>30 Aug 2026, 15:58 UTC | #19593</small>]]></content>
+  </entry>
   <entry>
     <title>Rust Project Tests Function Overloading for FFI</title>
     <link href="https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/" rel="alternate" />
