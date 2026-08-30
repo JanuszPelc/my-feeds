@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-30T09:49:00+00:00</updated>
+  <updated>2026-08-30T16:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>EU's ProtectEU Strategy Proposes Framework for Lawful Access to Encrypted Data</title>
+    <link href="https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement" rel="alternate" />
+    <id>https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement::v237</id>
+    <published>2026-08-30T16:05:00+00:00</published>
+    <updated>2026-08-30T16:05:00+00:00</updated>
+    <media:thumbnail url="https://hikarinova.com/_next/image?url=https://smispdowpzjzcroroszx.supabase.co/storage/v1/object/public/blog/what-is-an-encryption-backdoor-and-why-is-it-important/c258dd8349aa8d89.webp&amp;w=1920&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement">reclaimthenet.org</a> | <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_25_920">source</a> | <a href="https://news.ycombinator.com/item?id=49499394">hacker news</a></small></p><hr/><p>The European Commission's ProtectEU strategy outlines a long-term vision for internal security, including technological solutions for lawful access to encrypted data. This initiative aims to equip law enforcement with tools to combat threats from organized crime, terrorism, and hostile states.</p><p>The roadmap proposes increased intelligence sharing through the Single Intelligence Analysis Capacity (SIAC) and expanded operational powers for EUROPOL to facilitate large-scale, cross-border investigations. While the Commission maintains the plan will protect fundamental rights, critics warn that creating such access mechanisms may create vulnerabilities for unauthorized actors.</p><p><img src="https://hikarinova.com/_next/image?url=https://smispdowpzjzcroroszx.supabase.co/storage/v1/object/public/blog/what-is-an-encryption-backdoor-and-why-is-it-important/c258dd8349aa8d89.webp&w=1920&q=75" /></p><hr/><small>30 Aug 2026, 18:28 UTC | #19605</small>]]></content>
+  </entry>
   <entry>
     <title>University of Chicago and Alpha School Adopt Divergent AI Models in Education</title>
     <link href="https://aiweekly.co/issues/schools-are-choosing-opposite-futures-for-ai" rel="alternate" />
