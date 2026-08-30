@@ -3,7 +3,16 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-29T20:23:00+00:00</updated>
+  <updated>2026-08-29T21:31:00+00:00</updated>
+  <entry>
+    <title>Data Center Noise Drives Demand for Acoustic Consultants</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-08-26/data-centers-are-infamously-noisy-and-calling-the-sound-experts-to-help?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Nzc2OTA2MSwiZXhwIjoxNzg4MzczODYxLCJhcnRpY2xlSWQiOiJUS0RGUzVLR0NUR00wMCIsImJjb25uZWN0SWQiOiIwOTRFQTUyQzdCQTQ0RDRDQjk1QTNCNDVENDg4RjY1NSJ9.T0WJl3ibidQN_-Xuqwmmz_0dw7AuJvoHrw4k97GMrEc" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-08-26/data-centers-are-infamously-noisy-and-calling-the-sound-experts-to-help?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Nzc2OTA2MSwiZXhwIjoxNzg4MzczODYxLCJhcnRpY2xlSWQiOiJUS0RGUzVLR0NUR00wMCIsImJjb25uZWN0SWQiOiIwOTRFQTUyQzdCQTQ0RDRDQjk1QTNCNDVENDg4RjY1NSJ9.T0WJl3ibidQN_-Xuqwmmz_0dw7AuJvoHrw4k97GMrEc::v237</id>
+    <published>2026-08-29T21:31:00+00:00</published>
+    <updated>2026-08-29T21:31:00+00:00</updated>
+    <media:thumbnail url="https://images.squarespace-cdn.com/content/v1/692e3e839d781c05dc4df92a/6e488b15-92e0-47df-b958-237ede1d14da/FB35FCE1-E234-4B89-A232-DFDDACBD90ED.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-08-26/data-centers-are-infamously-noisy-and-calling-the-sound-experts-to-help?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Nzc2OTA2MSwiZXhwIjoxNzg4MzczODYxLCJhcnRpY2xlSWQiOiJUS0RGUzVLR0NUR00wMCIsImJjb25uZWN0SWQiOiIwOTRFQTUyQzdCQTQ0RDRDQjk1QTNCNDVENDg4RjY1NSJ9.T0WJl3ibidQN_-Xuqwmmz_0dw7AuJvoHrw4k97GMrEc">bloomberg.com</a></small></p><hr/><p>Data center development is driving increased demand for acoustic consultants. Both developers and local communities are hiring acousticians to assess and mitigate the constant noise emissions produced by these sprawling facilities.</p><p>While public and regulatory focus often centers on energy and water consumption, persistent noise from mechanical infrastructure has emerged as a significant point of contention for neighboring residents.</p><p><img src="https://images.squarespace-cdn.com/content/v1/692e3e839d781c05dc4df92a/6e488b15-92e0-47df-b958-237ede1d14da/FB35FCE1-E234-4B89-A232-DFDDACBD90ED.jpg" /></p><hr/><small>30 Aug 2026, 04:35 UTC | #19554</small>]]></content>
+  </entry>
   <entry>
     <title>SpaceX to Build Texas Foundry for Turbine Blades to Support AI Power Needs</title>
     <link href="https://www.theinformation.com/articles/exclusive-spacex-lays-groundwork-turbine-blade-factory-solve-data-center-power-crunch" rel="alternate" />
