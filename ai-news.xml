@@ -3,5 +3,14 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-08-30T00:05:22.104838+00:00</updated>
+  <updated>2026-08-29T18:54:00+00:00</updated>
+  <entry>
+    <title>Anthropic to Raise Standard Claude Code Weekly Limits by 25% in September</title>
+    <link href="https://x.com/claudedevs" rel="alternate" />
+    <id>https://x.com/claudedevs::v237</id>
+    <published>2026-08-29T18:54:00+00:00</published>
+    <updated>2026-08-29T18:54:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/HEvT1z2bcAE6dnI.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/claudedevs">x.com</a> | <a href="https://x.com/ClaudeDevs/status/2093742321473065266">source</a></small></p><hr/><p>Anthropic will permanently increase standard weekly limits for Claude Code by 25% starting September 14. The update applies to Pro, Max, Team, and seat-based Enterprise plans.</p><p>Users currently receiving a temporary 50% boost will see a net 17% reduction in available weekly usage once the new standard limits are implemented.</p><p><img src="https://pbs.twimg.com/media/HEvT1z2bcAE6dnI.jpg" /></p><hr/><small>30 Aug 2026, 01:07 UTC | #19544</small>]]></content>
+  </entry>
 </feed>
