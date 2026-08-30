@@ -3,7 +3,16 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-29T23:20:00+00:00</updated>
+  <updated>2026-08-29T23:33:00+00:00</updated>
+  <entry>
+    <title>Josh Karamuth Details AWS Cognito Implementation Challenges</title>
+    <link href="https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/" rel="alternate" />
+    <id>https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/::v237</id>
+    <published>2026-08-29T23:33:00+00:00</published>
+    <updated>2026-08-29T23:33:00+00:00</updated>
+    <media:thumbnail url="https://d2908q01vomqb2.cloudfront.net/0a57cb53ba59c46fc4b692527a38a87c78d84028/2020/11/02/Amplify_Blogpost-1024x713.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/">joshkaramuth.com</a> | <a href="https://news.ycombinator.com/item?id=49478091">hacker news</a></small></p><hr/><p>Implementing AWS Cognito for startup authentication presents several challenges, including fragmented documentation, breaking changes in the Amplify SDK, and limited local development capabilities.</p><p>The convenience of ecosystem integration can be offset by high engineering costs and technical debt, particularly when immutable configuration settings like user pool attributes necessitate complex migrations for production applications.</p><p><img src="https://d2908q01vomqb2.cloudfront.net/0a57cb53ba59c46fc4b692527a38a87c78d84028/2020/11/02/Amplify_Blogpost-1024x713.png" /></p><hr/><small>30 Aug 2026, 06:51 UTC | #19567</small>]]></content>
+  </entry>
   <entry>
     <title>Critique of Using Embedded Web Views for Local Application Development</title>
     <link href="https://lobste.rs/s/vji9aj/any_true_alternatives_electron" rel="alternate" />
