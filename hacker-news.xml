@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T16:22:00+00:00</updated>
+  <updated>2026-08-30T16:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Storyteller Uses Forced Alignment for Immersive Reading</title>
+    <link href="https://smoores.dev/post/automating_immersive_reading/" rel="alternate" />
+    <id>https://smoores.dev/post/automating_immersive_reading/::v237</id>
+    <published>2026-08-30T16:59:00+00:00</published>
+    <updated>2026-08-30T16:59:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/7s4GA0JOlGs/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://smoores.dev/post/automating_immersive_reading/">smoores.dev</a> | <a href="https://lobste.rs/s/n1h6mh/automating_immersive_reading">discussion</a> | <a href="https://news.ycombinator.com/item?id=49497854">hacker news</a></small></p><hr/><p>Storyteller uses a forced alignment algorithm to synchronize ebooks with audiobooks, enabling immersive reading by highlighting text as it is narrated. The process utilizes the EPUB Media Overlays specification to embed audio and synchronization metadata directly into the EPUB file.</p><p>To handle challenges like varying chapter orders or skipped spoken content, the system uses unconstrained greedy decoding of CTC emissions from the Massively Multilingual Speech (MMS) model to perform a boundary search. It then utilizes a RANSAC-based n-gram search to find matches that serve as anchors for the final CTC Viterbi forced alignment.</p><p><img src="https://i.ytimg.com/vi/7s4GA0JOlGs/maxresdefault.jpg" /></p><hr/><small>30 Aug 2026, 22:38 UTC | #19621</small>]]></content>
+  </entry>
   <entry>
     <title>Oofoe Discusses Programming Language Design and Software Development Philosophy</title>
     <link href="https://alexalejandre.com/interviews/interview-with-oofoe/" rel="alternate" />
