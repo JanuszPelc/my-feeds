@@ -1,4 +1,4 @@
-# JP's Personal RSS Feeds
+# My RSS feeds
 
 The feeds I actually read, published as static Atom files so other people can subscribe too.
 
