@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-30T16:05:00+00:00</updated>
+  <updated>2026-08-30T16:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Caterpillar Applies Mining Autonomy Lessons to Broader AI Deployment</title>
+    <link href="https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/" rel="alternate" />
+    <id>https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/::v237</id>
+    <published>2026-08-30T16:14:00+00:00</published>
+    <updated>2026-08-30T16:14:00+00:00</updated>
+    <media:thumbnail url="https://discoveryalert.com.au/wp-content/uploads/2026/01/ec4551c5-1451-4997-8acb-822c0606e01f-2048x1143.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/">techcrunch.com</a></small></p><hr/><p>Caterpillar is applying its experience in autonomous mining to scale artificial intelligence across more dynamic environments like construction sites and quarries. Key initiatives include the Cat AI Assistant for field technicians, the use of AI to create digital twins in manufacturing, and the deployment of AI agents to modernize legacy software code.</p><p>To support this transition, the company plans to invest $100 million over five years to train 118,000 employees in autonomy and robotics. This expansion comes as Caterpillar reports record quarterly revenue of $20.5 billion, fueled by high demand for power-generation equipment for data center infrastructure.</p><p><img src="https://discoveryalert.com.au/wp-content/uploads/2026/01/ec4551c5-1451-4997-8acb-822c0606e01f-2048x1143.jpg" /></p><hr/><small>30 Aug 2026, 20:13 UTC | #19592</small>]]></content>
+  </entry>
   <entry>
     <title>EU's ProtectEU Strategy Proposes Framework for Lawful Access to Encrypted Data</title>
     <link href="https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement" rel="alternate" />
