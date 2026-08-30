@@ -3,7 +3,16 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-29T18:48:00+00:00</updated>
+  <updated>2026-08-29T20:23:00+00:00</updated>
+  <entry>
+    <title>SpaceX to Build Texas Foundry for Turbine Blades to Support AI Power Needs</title>
+    <link href="https://www.theinformation.com/articles/exclusive-spacex-lays-groundwork-turbine-blade-factory-solve-data-center-power-crunch" rel="alternate" />
+    <id>https://www.theinformation.com/articles/exclusive-spacex-lays-groundwork-turbine-blade-factory-solve-data-center-power-crunch::v237</id>
+    <published>2026-08-29T20:23:00+00:00</published>
+    <updated>2026-08-29T20:23:00+00:00</updated>
+    <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/NaeKbhgsdAyAekHkZv8mPW.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/exclusive-spacex-lays-groundwork-turbine-blade-factory-solve-data-center-power-crunch">theinformation.com</a></small></p><hr/><p>SpaceX is establishing a manufacturing facility in Bastrop, Texas, to produce blades for large gas turbines. This move aims to vertically integrate the company's power supply chain and address the energy shortages currently affecting the expansion of AI data centers.</p><p>Job listings for automation engineers specializing in blades and vanes suggest the facility will focus on advanced casting techniques. These components are intended to serve both data center power generation and the production of Starship's Raptor engine turbopumps.</p><p><img src="https://cdn.mos.cms.futurecdn.net/NaeKbhgsdAyAekHkZv8mPW.jpg" /></p><hr/><small>30 Aug 2026, 03:16 UTC | #19550</small>]]></content>
+  </entry>
   <entry>
     <title>Organizational Culture Over AI Tools for Maximizing Engineering Productivity</title>
     <link href="https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity" rel="alternate" />
