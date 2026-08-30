@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <title>hacker-news</title>
-  <subtitle>AI-curated feed for: hacker-news</subtitle>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-29T23:47:17.736166+00:00</updated>
+  <updated>2026-08-29T18:50:00+00:00</updated>
+  <entry>
+    <title>Google Uses a Monolithic Repository to Manage Billions of Lines of Code</title>
+    <link href="https://dl.acm.org/doi/fullHtml/10.1145/2854146" rel="alternate" />
+    <id>https://dl.acm.org/doi/fullHtml/10.1145/2854146::v237</id>
+    <published>2026-08-29T18:50:00+00:00</published>
+    <updated>2026-08-29T18:50:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D22AQFeNV_vE8clqw/feedshare-shrink_1280/B4DZqwAl2UGQAs-/0/1763889548383?e=2147483647&amp;v=beta&amp;t=_Cso3EPWwWF7_eF2kpMGvKDnscLyEy0Xs3XyKaniqdM" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dl.acm.org/doi/fullHtml/10.1145/2854146">dl.acm.org</a> | <a href="https://dl.acm.org/doi/10.1145/2854146">source</a> | <a href="https://lobste.rs/s/wv6fzc/why_google_stores_billions_lines_code">discussion</a></small></p><hr/><p>Google manages its massive, centralized codebase through a custom-built version-control system known as Piper. This monolithic repository contains approximately one billion files, two billion lines of code, and 86TB of data, serving as a single source of truth for over 25,000 developers. The system is designed for ultra-large-scale activity, processing billions of file read requests daily and managing millions of weekly changes from both human users and automated systems.</p><p>To facilitate efficient development, Google uses "Clients in the Cloud" (CitC), a FUSE-based file system that allows developers to edit files in a cloud-based workspace without the need to clone the entire repository locally. The workflow relies on trunk-based development, where changes are committed to the central mainline to minimize the integration challenges associated with long-lived branches. This model is supported by an extensive automated testing and code-review infrastructure that maintains codebase health amid high commit volumes.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D22AQFeNV_vE8clqw/feedshare-shrink_1280/B4DZqwAl2UGQAs-/0/1763889548383?e=2147483647&v=beta&t=_Cso3EPWwWF7_eF2kpMGvKDnscLyEy0Xs3XyKaniqdM" /></p><hr/><small>29 Aug 2026, 23:55 UTC | #19211</small>]]></content>
+  </entry>
 </feed>
