@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T09:29:00+00:00</updated>
+  <updated>2026-08-30T09:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Verschlimmbesserung: Why Software Updates Can Make Products Worse</title>
+    <link href="https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/" rel="alternate" />
+    <id>https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/::v237</id>
+    <published>2026-08-30T09:31:00+00:00</published>
+    <updated>2026-08-30T09:31:00+00:00</updated>
+    <media:thumbnail url="https://threataft.com/images/windows-update-backup-failure.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/">geekyschmidt.com</a> | <a href="https://news.ycombinator.com/item?id=49479072">hacker news</a></small></p><hr/><p>Verschlimmbesserung is a German term describing an attempted improvement that results in a worse outcome. In software development, this often manifests as updates that disrupt established workflows or change user interfaces without providing meaningful value to the user.</p><p>These suboptimal updates are often driven by misaligned organizational metrics that reward release frequency and shipping velocity over product stability. When engineering teams are incentivized to prioritize constant delivery over functional utility, they optimize for the metrics provided rather than the actual user experience.</p><p><img src="https://threataft.com/images/windows-update-backup-failure.jpg" /></p><hr/><small>30 Aug 2026, 14:07 UTC | #19583</small>]]></content>
+  </entry>
   <entry>
     <title>TurboKV: An Async Embedded Key-Value Store for Rust</title>
     <link href="https://github.com/kingroryg/turbokv" rel="alternate" />
