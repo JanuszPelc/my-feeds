@@ -22,9 +22,6 @@ into your feed reader to get everything at once, or add them one at a time:
 
 Titles and summaries are written by an agentic pipeline running mostly small local models,
 and nothing is reviewed by hand. Lead images are chosen by vision models and don't always
-match the story.
-
-Machine-generated text sometimes gets things wrong, so check anything that matters against
-the linked sources. No promises about accuracy, uptime, or how long this stays around.
+match the story. Check anything that matters against the linked sources.
 
 It's a one-way mirror of a private pipeline, so pull requests don't have anywhere to go.
