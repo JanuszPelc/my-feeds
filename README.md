@@ -1,6 +1,7 @@
 # My RSS feeds
 
-The feeds I actually read, published as static Atom files so other people can subscribe too.
+The feeds I actually read, published as static Atom files and updated as new stories land,
+so other people can subscribe too.
 
 ## Subscribing
 
