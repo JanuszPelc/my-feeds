@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-30T05:01:00+00:00</updated>
+  <updated>2026-08-30T05:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nvidia's Physical AI Business Grows as Chinese Robot Makers Rely on Its Technology</title>
+    <link href="https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169?st=nLQELH&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169?st=nLQELH&amp;reflink=desktopwebshare_permalink::v237</id>
+    <published>2026-08-30T05:16:00+00:00</published>
+    <updated>2026-08-30T05:16:00+00:00</updated>
+    <media:thumbnail url="https://techintelpro.com/uploads/NVIDIA_(5)1.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/nvidia-wants-to-run-the-worlds-robots-china-is-an-eager-customer-bdf46169?st=nLQELH&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Nvidia's "physical AI" business generates approximately $10 billion in annual revenue, driven by significant demand from Chinese robot manufacturers for the company's silicon and software. These companies rely on Nvidia's hardware and development platforms to power the complex tasks required by robotic systems.</p><p>The dependency on U.S. technology persists in China because switching to domestic hardware would involve substantial software development costs. This technical integration helps Nvidia maintain a significant market presence in the growing robotics sector, extending its influence beyond the training of large language models.</p><p><img src="https://techintelpro.com/uploads/NVIDIA_(5)1.jpg" /></p><hr/><small>30 Aug 2026, 12:39 UTC | #19563</small>]]></content>
+  </entry>
   <entry>
     <title>Grindr Plans Premium Service Expansion Including High-Cost Tiers</title>
     <link href="https://www.ft.com/content/952920f9-429d-451a-9913-a360880ead41" rel="alternate" />
