@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-30T16:14:00+00:00</updated>
+  <updated>2026-08-30T16:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Quantum Computing Development Becomes a Geopolitical Battleground</title>
+    <link href="https://www.bloomberg.com/news/features/2026-08-26/quantum-computers-promise-breakthroughs-but-risk-a-cybersecurity-crisis?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Nzk4MjcwMCwiZXhwIjoxNzg4NTg3NTAwLCJhcnRpY2xlSWQiOiJUS0REMDlLSUpIOEwwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.spMVoNbGmYuQzzP1tR6-DmqxaNKSg5MFUqRe1JzJbRY" rel="alternate" />
+    <id>https://www.bloomberg.com/news/features/2026-08-26/quantum-computers-promise-breakthroughs-but-risk-a-cybersecurity-crisis?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Nzk4MjcwMCwiZXhwIjoxNzg4NTg3NTAwLCJhcnRpY2xlSWQiOiJUS0REMDlLSUpIOEwwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.spMVoNbGmYuQzzP1tR6-DmqxaNKSg5MFUqRe1JzJbRY::v237</id>
+    <published>2026-08-30T16:18:00+00:00</published>
+    <updated>2026-08-30T16:18:00+00:00</updated>
+    <media:thumbnail url="https://heise.cloudimg.io/width/1220/q70.png-lossy-70.webp-lossy-70.foil1/_www-heise-de_/imgs/18/5/0/6/0/4/7/8/Quantencomputer-4dbe946027ddf983.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/features/2026-08-26/quantum-computers-promise-breakthroughs-but-risk-a-cybersecurity-crisis?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Nzk4MjcwMCwiZXhwIjoxNzg4NTg3NTAwLCJhcnRpY2xlSWQiOiJUS0REMDlLSUpIOEwwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.spMVoNbGmYuQzzP1tR6-DmqxaNKSg5MFUqRe1JzJbRY">bloomberg.com</a></small></p><hr/><p>The race to develop functional quantum computers is evolving into a geopolitical battleground with the potential to transform finance, medicine, and climate research. While these machines promise significant technological breakthroughs, they also pose severe risks to existing cybersecurity infrastructures.</p><p>This technological competition is driving a global shift in security and policy. The prospect of quantum-enabled decryption is forcing an urgent focus on post-quantum security to protect global data and critical infrastructure.</p><p><img src="https://heise.cloudimg.io/width/1220/q70.png-lossy-70.webp-lossy-70.foil1/_www-heise-de_/imgs/18/5/0/6/0/4/7/8/Quantencomputer-4dbe946027ddf983.jpeg" /></p><hr/><small>30 Aug 2026, 20:34 UTC | #19581</small>]]></content>
+  </entry>
   <entry>
     <title>Caterpillar Applies Mining Autonomy Lessons to Broader AI Deployment</title>
     <link href="https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/" rel="alternate" />

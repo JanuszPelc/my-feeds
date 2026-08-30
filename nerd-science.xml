@@ -3,9 +3,27 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-08-30T16:07:00+00:00</updated>
+  <updated>2026-08-30T16:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>The Challenges of Scaling Organizations and Communities</title>
+    <link href="https://tzovar.as/scaling-up-and-on-being-the-right-size/" rel="alternate" />
+    <id>https://tzovar.as/scaling-up-and-on-being-the-right-size/::v237</id>
+    <published>2026-08-30T16:20:00+00:00</published>
+    <updated>2026-08-30T16:20:00+00:00</updated>
+    <media:thumbnail url="https://cdn.thenewstack.io/media/2023/11/162f6ffe-mastodon_search_optin.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://tzovar.as/scaling-up-and-on-being-the-right-size/">tzovar.as</a> | <a href="https://lobste.rs/s/fdhkf3/on_scaling_up_being_right_size">discussion</a></small></p><hr/><p>Expansion in projects, platforms, or social groups requires structural adaptations that fundamentally alter their character, challenging the assumption that growth is an inherent good. Biological principles and urban planning theories suggest that as entities expand, they encounter inescapable constraints—such as increased complexity, the need for hierarchy, and the loss of direct human-centric governance—that can undermine an organization's original purpose.</p><p>These tensions are particularly visible in digital infrastructure, such as the difficulties of maintaining effective content moderation within federated networks like Mastodon. Rather than pursuing massive, centralized monopolies, a federated model of multiple, reasonably-sized, and interoperable alternatives may better preserve community autonomy and resilience.</p><p><img src="https://cdn.thenewstack.io/media/2023/11/162f6ffe-mastodon_search_optin.png" /></p><hr/><small>30 Aug 2026, 20:43 UTC | #19616</small>]]></content>
+  </entry>
+  <entry>
+    <title>Europe's Extreme Summer Drought Drives Desertification and Mass Fish Deaths</title>
+    <link href="https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/" rel="alternate" />
+    <id>https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/::v237</id>
+    <published>2026-08-30T16:19:00+00:00</published>
+    <updated>2026-08-30T16:19:00+00:00</updated>
+    <media:thumbnail url="https://thumbs.dreamstime.com/b/drought-landscape-wallpaper-dead-fish-cracked-earth-environmental-crisis-download-impactful-desktop-depicting-386166436.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/">fortune.com</a> | <a href="https://apnews.com/article/europe-drought-fish-economy-7b9364f9d65814dbf337b7d38912e7d4">source</a> | <a href="https://news.ycombinator.com/item?id=49498978">hacker news</a></small></p><hr/><p>Persistent drought and intense heat across Europe are causing significant ecological and economic damage, notably threatening fish populations and accelerating desertification. In Hungary, thousands of hectares of fish ponds have dried up, resulting in hundreds of tons of fish deaths and millions of euros in revenue losses. Similar crises are impacting waterways and aquaculture in Serbia, Bosnia, the Czech Republic, Romania, and Slovenia.</p><p>The crisis, which scientists link to human-induced climate change, is particularly devastating for aquaculture industries with multi-year production cycles. In some regions, farmers are forced to use emergency measures such as artificial aeration or liquid oxygen injection to prevent mass suffocation. The drought is also disrupting river traffic, energy supplies, and agricultural yields across the continent.</p><p><img src="https://thumbs.dreamstime.com/b/drought-landscape-wallpaper-dead-fish-cracked-earth-environmental-crisis-download-impactful-desktop-depicting-386166436.jpg" /></p><hr/><small>30 Aug 2026, 20:38 UTC | #19615</small>]]></content>
+  </entry>
   <entry>
     <title>Computer Science and the Role of Physical Computing</title>
     <link href="https://www.quantamagazine.org/does-computer-science-need-computers-20260828/" rel="alternate" />
