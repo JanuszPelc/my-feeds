@@ -3,5 +3,14 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-08-30T00:05:22.124391+00:00</updated>
+  <updated>2026-08-30T04:01:00+00:00</updated>
+  <entry>
+    <title>EDM Producers Call Out AI-Generated Music Passed Off as Human Art</title>
+    <link href="https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai" rel="alternate" />
+    <id>https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai::v237</id>
+    <published>2026-08-30T04:01:00+00:00</published>
+    <updated>2026-08-30T04:01:00+00:00</updated>
+    <media:thumbnail url="https://cdn.musicgeneratorai.io/blogs/images/what-is-suno-ai-music-generator.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai">theverge.com</a></small></p><hr/><p>Electronic dance music producers are identifying and exposing AI-generated tracks presented as human-made. As generative tools like Suno enable users to create songs with minimal effort, artists such as Max “H4RRIS” Harris and Nihil Young are calling out 'AI slop' to protect the authenticity of the genre and the livelihoods of human creators.</p><p>The movement responds to a growing culture of mistrust fueled by audio artifacts like vocal stuttering and persistent hissing. While AI music has achieved mainstream success on TikTok and the Billboard charts, producers argue that generative tools threaten human artistry and the clarity of musical styles.</p><p><img src="https://cdn.musicgeneratorai.io/blogs/images/what-is-suno-ai-music-generator.webp" /></p><hr/><small>30 Aug 2026, 08:38 UTC | #19558</small>]]></content>
+  </entry>
 </feed>
