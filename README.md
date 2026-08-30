@@ -19,17 +19,13 @@ few days of stories.
 
 ## Worth knowing
 
-Articles come from public sources. The titles and summaries are written by an agentic
-pipeline running small local models on my own hardware.
+Titles and summaries are written by an agentic pipeline running small local models on my own
+hardware, and nothing is reviewed by hand. Lead images are chosen the same way, so the picture
+next to a story isn't always from that story.
 
-Lead images work the same way. If an article comes with a good one, that one gets used. If it
-doesn't, a vision model scores other candidates found by image search and keeps whichever
-fits best, so the picture next to a story isn't always from that story.
+Machine-generated text gets things wrong. Don't trust what you see: follow the links to the
+original sources. No promises about accuracy, uptime, or how long this stays around, so use
+it at your own risk.
 
-Nothing here is reviewed by hand. Everything is machine-generated, so it can contain factual
-errors or miss the point. Don't trust what you see: follow the links to the original sources.
-This is a personal setup shared as a convenience, with no promises about accuracy, uptime,
-or how long it stays around. Use it at your own risk.
-
-It's also a one-way mirror of a private pipeline, so pull requests don't really have
-anywhere to go. If something looks broken, just tell me.
+It's a one-way mirror of a private pipeline, so pull requests don't have anywhere to go. If
+something looks broken, just tell me.
