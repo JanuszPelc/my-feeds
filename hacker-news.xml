@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T12:32:00+00:00</updated>
+  <updated>2026-08-30T13:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Transferring Files via Direct Ethernet Connection</title>
+    <link href="https://maurycyz.com/misc/etherfiles/" rel="alternate" />
+    <id>https://maurycyz.com/misc/etherfiles/::v237</id>
+    <published>2026-08-30T13:12:00+00:00</published>
+    <updated>2026-08-30T13:12:00+00:00</updated>
+    <media:thumbnail url="https://4.bp.blogspot.com/-9-bYkOiAW1I/WsIbSzA5smI/AAAAAAAAAFQ/Q8qHiDySmGMLSu9YZA4EKx6qju6hwbDPwCLcBGAs/s1600/ppp.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://maurycyz.com/misc/etherfiles/">maurycyz.com</a> | <a href="https://lobste.rs/s/mgwfjc/transfer_files_over_ethernet_patch_cable">discussion</a></small></p><hr/><p>Connecting two computers directly with an Ethernet patch cable allows for high-speed file transfers without an intermediary router or switch. By manually configuring IP addresses on both machines and using the socat utility, users can achieve throughput approaching 900 Mbps.</p><p>This method avoids the latency and bandwidth limitations of cloud storage and the connection instability of WiFi. It serves as a high-performance alternative to removable storage for transferring large files between nearby devices, and the technique can be applied to microcontrollers using raw link-layer frames.</p><p><img src="https://4.bp.blogspot.com/-9-bYkOiAW1I/WsIbSzA5smI/AAAAAAAAAFQ/Q8qHiDySmGMLSu9YZA4EKx6qju6hwbDPwCLcBGAs/s1600/ppp.jpg" /></p><hr/><small>30 Aug 2026, 16:22 UTC | #19594</small>]]></content>
+  </entry>
   <entry>
     <title>HTMX CEO Mandates "No AI Fridays"</title>
     <link href="https://noaifridays.com/" rel="alternate" />
