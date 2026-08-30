@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-08-30T04:05:00+00:00</updated>
+  <updated>2026-08-30T09:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Strategies for Navigating New Professional Roles via Contextual Action</title>
+    <link href="https://tucker.wales/writing/bias-towards-action/" rel="alternate" />
+    <id>https://tucker.wales/writing/bias-towards-action/::v237</id>
+    <published>2026-08-30T09:44:00+00:00</published>
+    <updated>2026-08-30T09:44:00+00:00</updated>
+    <media:thumbnail url="https://tucker.wales/static/media/sledgehammer-blueprints.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://tucker.wales/writing/bias-towards-action/">tucker.wales</a> | <a href="https://news.ycombinator.com/item?id=49491714">hacker news</a></small></p><hr/><p>A bias toward action in a new professional role is most effective when preceded by thorough context-gathering. Acting without an understanding of organizational history and the purpose of established processes can cause unintended disruption and create noise rather than impact.</p><p>A three-part framework for effective transition includes a collection phase for mapping stakeholders and gathering data, a synthesis phase for identifying patterns and categorizing opportunities, and a strategic acceleration phase focused on low-risk wins and hypothesis testing.</p><p><img src="https://tucker.wales/static/media/sledgehammer-blueprints.jpeg" /></p><hr/><small>30 Aug 2026, 14:37 UTC | #19586</small>]]></content>
+  </entry>
   <entry>
     <title>Nancy Grace Roman Space Telescope Construction Complete, Launch Set for August 2026</title>
     <link href="https://science.nasa.gov/mission/roman-space-telescope/" rel="alternate" />
