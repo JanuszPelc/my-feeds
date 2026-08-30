@@ -3,7 +3,16 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-29T18:50:00+00:00</updated>
+  <updated>2026-08-29T20:22:00+00:00</updated>
+  <entry>
+    <title>ReactOS 0.4.16 Released with Graphical Installer and HD Audio Support</title>
+    <link href="https://reactos.org/project-news/reactos-0416-released/" rel="alternate" />
+    <id>https://reactos.org/project-news/reactos-0416-released/::v237</id>
+    <published>2026-08-29T20:22:00+00:00</published>
+    <updated>2026-08-29T20:22:00+00:00</updated>
+    <media:thumbnail url="https://reactos.org/img/project-news/reactos-0416-released/gui-setup-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://reactos.org/project-news/reactos-0416-released/">reactos.org</a> | <a href="https://lobste.rs/s/flcppv/introducing_reactos_0_4_16">discussion</a></small></p><hr/><p>ReactOS has released version 0.4.16, featuring a new graphical installer and a unified bootcd and livecd image. The release includes improvements to the video, audio, networking, and storage stacks, alongside several third-party code synchronizations.</p><p>Key updates include a new HD audio bus driver utilizing Microsoft's Kernel Mode Driver Framework and a new ATA driver to improve boot compatibility in environments like Hyper-V. The version also introduces a Server Core installation type and includes WineVDM to enhance compatibility for 16-bit Windows applications.</p><p><img src="https://reactos.org/img/project-news/reactos-0416-released/gui-setup-1.png" /></p><hr/><small>30 Aug 2026, 02:10 UTC | #19559</small>]]></content>
+  </entry>
   <entry>
     <title>Google Uses a Monolithic Repository to Manage Billions of Lines of Code</title>
     <link href="https://dl.acm.org/doi/fullHtml/10.1145/2854146" rel="alternate" />
