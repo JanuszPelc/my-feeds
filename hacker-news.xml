@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T13:33:00+00:00</updated>
+  <updated>2026-08-30T16:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Omarchy Vulnerability Allows Root Escalation via Default Docker Configuration</title>
+    <link href="https://0xcc.io/posts/omarchy-root-creds/" rel="alternate" />
+    <id>https://0xcc.io/posts/omarchy-root-creds/::v237</id>
+    <published>2026-08-30T16:00:00+00:00</published>
+    <updated>2026-08-30T16:00:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQHk2p6370ekQw/feedshare-shrink_1280/B56ZuPNp00G0As-/0/1767634280593?e=2147483647&amp;v=beta&amp;t=b_olnsp8Rixa1geMgWsybYKELQmOLmm2pZ8VR_HdcqE" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://0xcc.io/posts/omarchy-root-creds/">0xcc.io</a> | <a href="https://github.com/omacom/omarchy/releases">source</a> | <a href="https://news.ycombinator.com/item?id=49499854">hacker news</a></small></p><hr/><p>A security flaw in Omarchy's default Docker configuration allows any process running in a user session to escalate privileges to root without a password. By automatically including the default user in the `docker` group, the OS grants processes access to the Docker socket, enabling them to mount host filesystems and execute code with root authority.</p><p>This vulnerability affects all versions prior to 4.0.1. Because the `docker` group membership was an opt-out rather than an opt-in feature, common user applications such as web browsers or IDEs could provide a direct path to full system compromise. The issue has been resolved in version 4.0.1 by removing the default group membership.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQHk2p6370ekQw/feedshare-shrink_1280/B56ZuPNp00G0As-/0/1767634280593?e=2147483647&v=beta&t=b_olnsp8Rixa1geMgWsybYKELQmOLmm2pZ8VR_HdcqE" /></p><hr/><small>30 Aug 2026, 17:54 UTC | #19602</small>]]></content>
+  </entry>
+  <entry>
+    <title>Union Brings CSS Styling to QtWidgets Applications</title>
+    <link href="https://akselmo.dev/posts/union-qtwidgets/" rel="alternate" />
+    <id>https://akselmo.dev/posts/union-qtwidgets/::v237</id>
+    <published>2026-08-30T13:36:00+00:00</published>
+    <updated>2026-08-30T13:36:00+00:00</updated>
+    <media:thumbnail url="https://akselmo.dev/assets/images/unionwidgets/dolphin.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://akselmo.dev/posts/union-qtwidgets/">akselmo.dev</a> | <a href="https://lobste.rs/s/rv7z2p/initial_release_union_qtwidgets">discussion</a></small></p><hr/><p>Union, a CSS-based styling engine for KDE Plasma, has released initial support for QtWidgets. This enables traditional applications like Dolphin, KMail, and Kate to use Union CSS files for styling, bridging the visual gap between QtQuick and QtWidgets application interfaces.</p><p>The initial release is experimental and contains known visual bugs and layout inconsistencies. The project aims to provide a robust, backwards-compatible QStyle implementation to achieve a unified look across the desktop environment, with further integration expected in Plasma 6.8.</p><p><img src="https://akselmo.dev/assets/images/unionwidgets/dolphin.png" /></p><hr/><small>30 Aug 2026, 17:49 UTC | #19603</small>]]></content>
+  </entry>
   <entry>
     <title>Building Custom Workbenches from IKEA Kallax Shelving Units</title>
     <link href="https://greenlightning.eu/diy/hacking-ikea-furniture/" rel="alternate" />
