@@ -3,7 +3,16 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-29T20:22:00+00:00</updated>
+  <updated>2026-08-29T23:20:00+00:00</updated>
+  <entry>
+    <title>Critique of Using Embedded Web Views for Local Application Development</title>
+    <link href="https://lobste.rs/s/vji9aj/any_true_alternatives_electron" rel="alternate" />
+    <id>https://lobste.rs/s/vji9aj/any_true_alternatives_electron::v237</id>
+    <published>2026-08-29T23:20:00+00:00</published>
+    <updated>2026-08-29T23:20:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*Ecv0UPWMt61QAM8aYf12Dg.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/vji9aj/any_true_alternatives_electron">lobste.rs</a> | <a href="https://lobste.rs/s/vji9aj/any_true_alternatives_electron">discussion</a></small></p><hr/><p>Developers' reliance on frameworks like Electron is attributed to a lack of expertise in platform-native UI toolkits rather than inherent rendering engine limitations. Inconsistencies across different engine versions are characterized as a failure of testing and environment management rather than a technical flaw in the engines themselves.</p><p>Proposed solutions for application stability include the adoption of native UI frameworks and the use of virtual machines to ensure compatibility across various operating system versions.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*Ecv0UPWMt61QAM8aYf12Dg.png" /></p><hr/><small>30 Aug 2026, 05:37 UTC | #19564</small>]]></content>
+  </entry>
   <entry>
     <title>ReactOS 0.4.16 Released with Graphical Installer and HD Audio Support</title>
     <link href="https://reactos.org/project-news/reactos-0416-released/" rel="alternate" />
