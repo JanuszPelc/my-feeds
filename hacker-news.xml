@@ -3,7 +3,16 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-29T23:33:00+00:00</updated>
+  <updated>2026-08-30T00:22:00+00:00</updated>
+  <entry>
+    <title>Bug Blindness in Software Development</title>
+    <link href="https://danluu.com/bug-blind/" rel="alternate" />
+    <id>https://danluu.com/bug-blind/::v237</id>
+    <published>2026-08-30T00:22:00+00:00</published>
+    <updated>2026-08-30T00:22:00+00:00</updated>
+    <media:thumbnail url="https://datakitchen.io/images/blog/2026/04/image_03-16.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://danluu.com/bug-blind/">danluu.com</a> | <a href="https://news.ycombinator.com/item?id=49494520">hacker news</a></small></p><hr/><p>Software developers and users often fail to notice significant defects because they have unconsciously adapted to work around them. This cognitive bias can lead teams to believe they are shipping high-quality products even when users encounter severe usability issues or non-functional software.</p><p>Common mitigation strategies like "dogfooding" can be undermined if developers have already established habits to bypass problematic workflows. Using Large Language Models to simulate normal users can help identify and reproduce these hidden issues that human developers have become accustomed to.</p><p><img src="https://datakitchen.io/images/blog/2026/04/image_03-16.webp" /></p><hr/><small>30 Aug 2026, 07:16 UTC | #19568</small>]]></content>
+  </entry>
   <entry>
     <title>Josh Karamuth Details AWS Cognito Implementation Challenges</title>
     <link href="https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/" rel="alternate" />
