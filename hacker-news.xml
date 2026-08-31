@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T14:55:00+00:00</updated>
+  <updated>2026-08-31T15:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Circleback Adds Free Tier for Meeting Notetaker</title>
+    <link href="https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/" rel="alternate" />
+    <id>https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/::v237</id>
+    <published>2026-08-31T15:00:00+00:00</published>
+    <updated>2026-08-31T15:00:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/11/Circleback-Home.jpeg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/">techcrunch.com</a> | <a href="https://circleback.ai/releases/new-plans">source</a></small></p><hr/><p>Circleback is introducing a free subscription tier to compete in the crowded meeting notetaker market. The plan offers unlimited meeting transcriptions but limits meeting history access to the previous 30 days.</p><p>The move aims to drive user acquisition and mitigate drop-off rates experienced with the company's previous trial-only model. Circleback, which raised $2.5 million in 2024, reports it has been profitable and maintains an annual run-rate revenue of approximately $8 million.</p><p><img src="https://techcrunch.com/wp-content/uploads/2024/11/Circleback-Home.jpeg" /></p><hr/><small>31 Aug 2026, 18:19 UTC | #19673</small>]]></content>
+  </entry>
   <entry>
     <title>uv Implements File-Level Deduplication in Wheel Cache</title>
     <link href="https://github.com/astral-sh/uv/pull/21327" rel="alternate" />
