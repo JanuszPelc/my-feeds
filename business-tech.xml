@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-31T14:56:00+00:00</updated>
+  <updated>2026-08-31T14:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>EU Designates ChatGPT, Reddit, and Roblox as Very Large Online Platforms</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-08-31/chatgpt-reddit-rddt-roblox-rblx-face-eu-digital-services-act-rules" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-08-31/chatgpt-reddit-rddt-roblox-rblx-face-eu-digital-services-act-rules::v237</id>
+    <published>2026-08-31T14:58:00+00:00</published>
+    <updated>2026-08-31T14:58:00+00:00</updated>
+    <media:thumbnail url="https://news.ftcpublications.com/core/wp-content/uploads/B1zSkTufUTD2EsxdtLa2g_7ec14a9ab27c454886a078a931835028.jpg-scaled.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-08-31/chatgpt-reddit-rddt-roblox-rblx-face-eu-digital-services-act-rules">bloomberg.com</a> | <a href="https://ec.europa.eu/commission/presscorner/home/en">source</a></small></p><hr/><p>The European Commission has designated ChatGPT, Reddit, and Roblox as very large online platforms (VLOPs) or search engines (VLOSEs) under the Digital Services Act (DSA). This regulatory status was triggered after each service surpassed a threshold of 45 million monthly active users within the European Union.</p><p>The classification subjects the companies to heightened regulatory scrutiny, including stricter requirements for content moderation, risk assessment, and user safety. The designation of ChatGPT marks the first instance of an AI chatbot being categorized under this specific regulatory framework.</p><p><img src="https://news.ftcpublications.com/core/wp-content/uploads/B1zSkTufUTD2EsxdtLa2g_7ec14a9ab27c454886a078a931835028.jpg-scaled.jpg" /></p><hr/><small>31 Aug 2026, 17:54 UTC | #19659</small>]]></content>
+  </entry>
   <entry>
     <title>Google Seeks AI Licensing Agreements with Major Hollywood Studios</title>
     <link href="https://www.latimes.com/entertainment-arts/business/story/2026-08-31/how-google-is-courting-hollywood-to-use-its-ai-tools" rel="alternate" />
