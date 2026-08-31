@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-08-31T17:02:00+00:00</updated>
+  <updated>2026-08-31T17:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Raccoon Audio Releases RoboComp Stereo Character Compressor</title>
+    <link href="https://bedroomproducersblog.com/2026/08/31/raccoon-audio-robocomp/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/08/31/raccoon-audio-robocomp/::v237</id>
+    <published>2026-08-31T17:07:00+00:00</published>
+    <updated>2026-08-31T17:07:00+00:00</updated>
+    <media:thumbnail url="https://static.wixstatic.com/media/b120f0_566b8b341d7b48f19a4441d62ca5a046~mv2.jpg/v1/fill/w_980,h_980,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b120f0_566b8b341d7b48f19a4441d62ca5a046~mv2.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/08/31/raccoon-audio-robocomp/">bedroomproducersblog.com</a> | <a href="https://www.raccoonaudio.com/downloads/robocomp/">source</a></small></p><hr/><p>Raccoon Audio has released RoboComp, a stereo character compressor for macOS and Windows. The plugin features tools such as M/S Focus and Sensor Tilt, which allow users to steer dynamic color by shaping frequency and stereo information.</p><p>The software is available at a promotional launch price of $49 until August 31, after which the price will increase to $100. It is designed for producers seeking precise control over where compression is applied within a signal chain.</p><p><img src="https://static.wixstatic.com/media/b120f0_566b8b341d7b48f19a4441d62ca5a046~mv2.jpg/v1/fill/w_980,h_980,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b120f0_566b8b341d7b48f19a4441d62ca5a046~mv2.jpg" /></p><hr/><small>31 Aug 2026, 21:25 UTC | #19689</small>]]></content>
+  </entry>
   <entry>
     <title>WetEQ and WetCompressor Free Plugins Released</title>
     <link href="https://bedroomproducersblog.com/2026/08/31/weteq-wetcompressor/" rel="alternate" />
