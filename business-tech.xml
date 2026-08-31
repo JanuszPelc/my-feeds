@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-31T11:46:00+00:00</updated>
+  <updated>2026-08-31T14:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google Seeks AI Licensing Agreements with Major Hollywood Studios</title>
+    <link href="https://www.latimes.com/entertainment-arts/business/story/2026-08-31/how-google-is-courting-hollywood-to-use-its-ai-tools" rel="alternate" />
+    <id>https://www.latimes.com/entertainment-arts/business/story/2026-08-31/how-google-is-courting-hollywood-to-use-its-ai-tools::v237</id>
+    <published>2026-08-31T14:56:00+00:00</published>
+    <updated>2026-08-31T14:56:00+00:00</updated>
+    <media:thumbnail url="https://ai.google.dev/static/site-assets/images/share-ais-03.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.latimes.com/entertainment-arts/business/story/2026-08-31/how-google-is-courting-hollywood-to-use-its-ai-tools">latimes.com</a></small></p><hr/><p>Google is approaching major studios, including Disney and Warner Bros. Discovery, to license intellectual property for use in its artificial intelligence models. These discussions aim to acquire high-quality content and metadata to improve AI tools for film and television production. While no major agreements have been finalized, Google has established strategic partnerships with A24 and director Darren Aronofsky’s Primordial Soup.</p><p>Negotiations face hurdles due to studio concerns over copyright protection, talent union regulations, and the potential for unauthorized use of likenesses. This outreach marks a shift from Google's historical legal conflicts with Hollywood over digital piracy. Studios are currently weighing potential new revenue streams against the risks of job displacement and intellectual property infringement.</p><p><img src="https://ai.google.dev/static/site-assets/images/share-ais-03.png" /></p><hr/><small>31 Aug 2026, 17:38 UTC | #19658</small>]]></content>
+  </entry>
   <entry>
     <title>FSB Chair Warns G20 of Financial Stability Risks from Frontier AI</title>
     <link href="https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20" rel="alternate" />
