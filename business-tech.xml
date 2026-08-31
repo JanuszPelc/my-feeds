@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-31T21:11:00+00:00</updated>
+  <updated>2026-08-31T21:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Coupang Dispute Fuels Potential U.S. Tariffs on South Korea</title>
+    <link href="https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html::v237</id>
+    <published>2026-08-31T21:12:00+00:00</published>
+    <updated>2026-08-31T21:12:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1U1Act.img?w=600&amp;h=401&amp;m=4&amp;q=76" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html">cnbc.com</a> | <a href="https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/south-korea-discriminatory-enforcement-report-draft-final.pdf">source</a></small></p><hr/><p>A dispute over South Korea's regulatory response to a Coupang data breach has prompted allegations of economic discrimination by the South Korean government. A House Judiciary Committee report alleges that Seoul has targeted the Seattle-based retailer through excessive fines and legal pressure, while the South Korean government maintains its actions are a legitimate response to consumer privacy concerns.</p><p>U.S. lawmakers are considering various retaliatory measures, including Section 301 investigations and additional tariffs on South Korean goods. This escalating tension threatens to complicate broader trade agreements and the strategic alliance between the United States and South Korea.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1U1Act.img?w=600&h=401&m=4&q=76" /></p><hr/><small>31 Aug 2026, 22:52 UTC | #19683</small>]]></content>
+  </entry>
   <entry>
     <title>Google Removes All Remaining Manifest V2 Extensions From Chrome Web Store</title>
     <link href="https://webiterate.dev/google-removed-extensions-ublock-origin-108/" rel="alternate" />
