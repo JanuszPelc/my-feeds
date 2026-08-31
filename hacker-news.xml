@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T14:53:00+00:00</updated>
+  <updated>2026-08-31T14:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>uv Implements File-Level Deduplication in Wheel Cache</title>
+    <link href="https://github.com/astral-sh/uv/pull/21327" rel="alternate" />
+    <id>https://github.com/astral-sh/uv/pull/21327::v237</id>
+    <published>2026-08-31T14:55:00+00:00</published>
+    <updated>2026-08-31T14:55:00+00:00</updated>
+    <media:thumbnail url="https://www.kdnuggets.com/wp-content/uploads/awan_uv_new_python_package_manager_3.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/astral-sh/uv/pull/21327">github.com</a> | <a href="https://news.ycombinator.com/item?id=49506142">hacker news</a></small></p><hr/><p>uv is introducing file-level deduplication in its wheel cache by storing files under their BLAKE3 hashes and using hardlinks to prevent redundant storage. This transition enables content-addressed caching for individual files rather than just for entire wheels.</p><p>Performance optimizations include reusing a 64 KiB buffer during streaming extraction to reduce memory allocations and utilizing getattrlistbulk on macOS to accelerate cache scans. Benchmarks indicate installation speed improvements for packages such as NumPy and PyTorch.</p><p><img src="https://www.kdnuggets.com/wp-content/uploads/awan_uv_new_python_package_manager_3.png" /></p><hr/><small>31 Aug 2026, 17:24 UTC | #19695</small>]]></content>
+  </entry>
   <entry>
     <title>Playa Phone Offers Free Calls at Burning Man</title>
     <link href="https://playaphone.com/" rel="alternate" />
