@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-31T04:24:00+00:00</updated>
+  <updated>2026-08-31T04:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Unimicron Probed for Allegedly Relabeling China-Made Parts as Taiwanese</title>
+    <link href="https://asia.nikkei.com/spotlight/supply-chain/nvidia-supplier-unimicron-probed-over-allegedly-relabeling-china-made-parts" rel="alternate" />
+    <id>https://asia.nikkei.com/spotlight/supply-chain/nvidia-supplier-unimicron-probed-over-allegedly-relabeling-china-made-parts::v237</id>
+    <published>2026-08-31T04:29:00+00:00</published>
+    <updated>2026-08-31T04:29:00+00:00</updated>
+    <media:thumbnail url="https://www.globalsmt.net/wp-content/uploads/elementor/thumbs/Taiwan-PCB-rb98w3gy79h84wz9xqzhcxo6nz8l9bkm4wxrn2sbjk.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://asia.nikkei.com/spotlight/supply-chain/nvidia-supplier-unimicron-probed-over-allegedly-relabeling-china-made-parts">asia.nikkei.com</a></small></p><hr/><p>Taiwanese prosecutors are investigating Unimicron Technology, a major producer of printed circuit boards and semiconductor substrates, for allegedly relabeling products made in China as being from Taiwan. The company serves as a key supplier to Nvidia, Intel, Google, and Amazon, and the probe focuses on potential violations of laws against origin laundering.</p><p>The investigation includes searches of company offices and questioning of multiple employees. Unimicron's shares dropped 10% following the announcement. The company has stated it will cooperate with the investigation and maintains that its operations have not been significantly impacted.</p><p><img src="https://www.globalsmt.net/wp-content/uploads/elementor/thumbs/Taiwan-PCB-rb98w3gy79h84wz9xqzhcxo6nz8l9bkm4wxrn2sbjk.png" /></p><hr/><small>31 Aug 2026, 10:41 UTC | #19635</small>]]></content>
+  </entry>
   <entry>
     <title>Google Maps Renames Lake Ontario as "Lake America" for U.S. Users</title>
     <link href="https://apnews.com/article/lake-trump-ontario-america-7c5c9776d72cb8e8d782e05ec6e7332b" rel="alternate" />
@@ -184,5 +193,122 @@
     <updated>2026-08-29T18:45:00+00:00</updated>
     <media:thumbnail url="https://www.chartlex.com/images/blog/business/music-industry-ai-lawsuits-tracker-2026/section-case-status.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/">musicbusinessworldwide.com</a> | <a href="https://www.musicbusinessworldwide.com/files/2026/08/COMPLAINT-in-Sony_Music_Publishing_US_LLC_e.pdf">source</a></small></p><hr/><p>Sony Music Publishing and Warner Chappell Music have sued Anthropic and its co-founders for allegedly using tens of thousands of copyrighted musical compositions to train Claude AI models. The lawsuit, filed in the U.S. District Court for the Northern District of California, alleges the company utilized illegal torrenting and scraping from sources like Library Genesis to harvest intellectual property.</p><p>The publishers are seeking statutory damages, the destruction of infringing copies, and a formal account of Claude’s training data. The filing follows a series of similar copyright infringement lawsuits filed against Anthropic by other major industry players, including Universal Music Publishing Group and BMG.</p><p><img src="https://www.chartlex.com/images/blog/business/music-industry-ai-lawsuits-tracker-2026/section-case-status.jpg" /></p><hr/><small>29 Aug 2026, 23:24 UTC | #19534</small>]]></content>
+  </entry>
+  <entry>
+    <title>The Internet's Evolution Into a Machine for Exploiting Human Vulnerability</title>
+    <link href="https://www.stephendiehl.com/posts/internet_predatory_cesspit/" rel="alternate" />
+    <id>https://www.stephendiehl.com/posts/internet_predatory_cesspit/::v237</id>
+    <published>2026-08-29T18:41:00+00:00</published>
+    <updated>2026-08-29T18:41:00+00:00</updated>
+    <media:thumbnail url="https://staticfiles.acronis.com/images/blog-cover/9a882aad67ae7150f1255d40968f6c74.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.stephendiehl.com/posts/internet_predatory_cesspit/">stephendiehl.com</a> | <a href="https://news.ycombinator.com/item?id=49492193">hacker news</a></small></p><hr/><p>The article argues that the internet has transitioned from a decentralized space of human interest into an optimized machine designed to identify and monetize human insecurities. Rather than being an anomaly, predation has become the network's primary organizing principle, using recommendation algorithms to convert emotions like outrage, fear, and loneliness into profitable engagement loops.</p><p>This "grift economy" has become a participatory system, where users act as unpaid distributors for dubious investments, wellness products, or political claims. The author warns that language models will likely exacerbate this phenomenon by significantly reducing the cost of producing plausible, large-scale misinformation.</p><p><img src="https://staticfiles.acronis.com/images/blog-cover/9a882aad67ae7150f1255d40968f6c74.png" /></p><hr/><small>29 Aug 2026, 20:00 UTC | #19549</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nvidia Expands AI Strategy into System-Level Orchestration</title>
+    <link href="https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/" rel="alternate" />
+    <id>https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/::v237</id>
+    <published>2026-08-29T14:14:00+00:00</published>
+    <updated>2026-08-29T14:14:00+00:00</updated>
+    <media:thumbnail url="https://www.tech-critter.com/wp-content/uploads/2026/06/NVIDIA-GTC-COMPUTEX-2026-13.webp" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/">techcrunch.com</a></small></p><hr/><p>Nvidia is diversifying its market presence by moving beyond standalone GPUs into full-system orchestration. The Vera Rubin architecture incorporates specialized hardware, including the Vera CPU, to manage data movement and optimize memory efficiency within massive-scale data centers.</p><p>This shift addresses the increasing complexity of gigawatt-scale AI deployments, where bottlenecks often arise from data latency rather than raw processing power. By improving orchestration, the company aims to maintain its market position against hyperscalers and competitors developing proprietary custom silicon.</p><p><img src="https://www.tech-critter.com/wp-content/uploads/2026/06/NVIDIA-GTC-COMPUTEX-2026-13.webp" /></p><hr/><small>29 Aug 2026, 18:14 UTC | #19528</small>]]></content>
+  </entry>
+  <entry>
+    <title>AI-Generated Dramas Surge on China's Douyin</title>
+    <link href="https://www.ft.com/content/7117ff02-d495-4936-8f05-fa73a7a5c669?accessToken=zwAAAaBLV1pakc9xF_8C1JVJNtOPBfpzp6XGaQ.MEUCIDqz_m_mkPp7u1wSVoVbwS_V1Au8e_ZnasYlxjyGFl0bAiEAniXC6mNini_3_ZVXg3TA7CIEZkrFYWarRez92OudwhI&amp;sharetype=gift&amp;token=4b592f2d-061a-476a-8247-6d3bb5e10e4b" rel="alternate" />
+    <id>https://www.ft.com/content/7117ff02-d495-4936-8f05-fa73a7a5c669?accessToken=zwAAAaBLV1pakc9xF_8C1JVJNtOPBfpzp6XGaQ.MEUCIDqz_m_mkPp7u1wSVoVbwS_V1Au8e_ZnasYlxjyGFl0bAiEAniXC6mNini_3_ZVXg3TA7CIEZkrFYWarRez92OudwhI&amp;sharetype=gift&amp;token=4b592f2d-061a-476a-8247-6d3bb5e10e4b::v237</id>
+    <published>2026-08-29T14:10:00+00:00</published>
+    <updated>2026-08-29T14:10:00+00:00</updated>
+    <media:thumbnail url="https://v.pinedrama.com/b1265344voduse1318177724/dbe86eae5145403726304260212/iSKFGwMTkyEA.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/7117ff02-d495-4936-8f05-fa73a7a5c669?accessToken=zwAAAaBLV1pakc9xF_8C1JVJNtOPBfpzp6XGaQ.MEUCIDqz_m_mkPp7u1wSVoVbwS_V1Au8e_ZnasYlxjyGFl0bAiEAniXC6mNini_3_ZVXg3TA7CIEZkrFYWarRez92OudwhI&sharetype=gift&token=4b592f2d-061a-476a-8247-6d3bb5e10e4b">ft.com</a></small></p><hr/><p>AI-powered video tools have driven a spike in automated content on China's Douyin, with 89 of the platform's top 100 animated dramas in May being AI productions. Data from DataEye indicates that over 221,900 AI short dramas were launched on the platform during the first half of the year.</p><p>These video-generation programs are increasingly competing with human actors and online influencers, leading to job losses within the entertainment industry. The trend highlights a significant industrial shift toward highly efficient, AI-driven production models across the Chinese digital media landscape.</p><p><img src="https://v.pinedrama.com/b1265344voduse1318177724/dbe86eae5145403726304260212/iSKFGwMTkyEA.png" /></p><hr/><small>29 Aug 2026, 17:33 UTC | #19526</small>]]></content>
+  </entry>
+  <entry>
+    <title>Debian Votes to Allow Responsible Use of Generative AI</title>
+    <link href="https://lwn.net/Articles/1091231/" rel="alternate" />
+    <id>https://lwn.net/Articles/1091231/::v237</id>
+    <published>2026-08-29T14:03:00+00:00</published>
+    <updated>2026-08-29T14:03:00+00:00</updated>
+    <media:thumbnail url="https://www.cgi.com/sites/default/files/responsible_ai_by_design_infographic_0.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lwn.net/Articles/1091231/">lwn.net</a> | <a href="https://www.debian.org/vote/2026/vote_002">source</a> | <a href="https://news.ycombinator.com/item?id=49489982">hacker news</a></small></p><hr/><p>Developers within the Debian Project have authorized the "responsible use of generative AI" for software development, maintenance, and documentation. The decision clarifies that the project will neither prohibit nor endorse the use of large language models in its work.</p><p>Contributors retain full responsibility for the quality, correctness, and legal compliance of any submitted work, irrespective of the tools used. The policy aims to boost productivity by allowing human volunteers to focus on tasks requiring technical expertise, judgment, and collaboration.</p><p><img src="https://www.cgi.com/sites/default/files/responsible_ai_by_design_infographic_0.jpg" /></p><hr/><small>29 Aug 2026, 16:04 UTC | #19536</small>]]></content>
+  </entry>
+  <entry>
+    <title>Trade Unions Threaten to Withhold Support for Politicians Opposing Data Center Projects</title>
+    <link href="https://www.wsj.com/economy/jobs/blue-collar-jobs-are-the-new-flashpoint-in-data-center-fight-aaca5b7e?st=XmC6L9&amp;reflink=article_copyURL_share" rel="alternate" />
+    <id>https://www.wsj.com/economy/jobs/blue-collar-jobs-are-the-new-flashpoint-in-data-center-fight-aaca5b7e?st=XmC6L9&amp;reflink=article_copyURL_share::v237</id>
+    <published>2026-08-29T08:35:00+00:00</published>
+    <updated>2026-08-29T08:35:00+00:00</updated>
+    <media:thumbnail url="https://truthout.org/app/uploads/2025/12/GettyImages-2229743594-scaled.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/economy/jobs/blue-collar-jobs-are-the-new-flashpoint-in-data-center-fight-aaca5b7e?st=XmC6L9&reflink=article_copyURL_share">wsj.com</a></small></p><hr/><p>Trade unions are threatening to withhold political support from candidates who oppose the construction of data centers. The unions argue that blocking these infrastructure projects jeopardizes thousands of high-paying, building-related jobs for skilled tradespeople, including electricians and pipefitters.</p><p>This movement highlights an emerging divide between grassroots community opposition—which often cites concerns over energy, water, and noise—and organized labor seeking to benefit from the AI-driven infrastructure boom. This conflict is transforming data center development into a significant political flashpoint.</p><p><img src="https://truthout.org/app/uploads/2025/12/GettyImages-2229743594-scaled.jpg" /></p><hr/><small>29 Aug 2026, 13:36 UTC | #19507</small>]]></content>
+  </entry>
+  <entry>
+    <title>SK Hynix Breaks Ground on $4 Billion Indiana Memory Packaging Facility</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-08-27/sk-hynix-starts-construction-of-4-billion-memory-hub-in-indiana" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-08-27/sk-hynix-starts-construction-of-4-billion-memory-hub-in-indiana::v237</id>
+    <published>2026-08-29T08:32:00+00:00</published>
+    <updated>2026-08-29T08:32:00+00:00</updated>
+    <media:thumbnail url="https://cdn.thelec.net/news/photo/202604/6753_7087_2541.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-08-27/sk-hynix-starts-construction-of-4-billion-memory-hub-in-indiana">bloomberg.com</a></small></p><hr/><p>Construction has begun on a $4 billion advanced memory packaging facility in West Lafayette, Indiana. This 133.5-acre site will serve as the company's first high-bandwidth memory (HBM) packaging base in the United States.</p><p>The facility's cleanroom is expected to be operational by October 2028, with mass production of next-generation HBM scheduled for the second half of 2029. The site is anticipated to employ 1,000 people and is part of broader efforts to strengthen domestic semiconductor supply chains for the AI sector.</p><p><img src="https://cdn.thelec.net/news/photo/202604/6753_7087_2541.png" /></p><hr/><small>29 Aug 2026, 12:49 UTC | #19503</small>]]></content>
+  </entry>
+  <entry>
+    <title>Texas Secures $1.05 Billion Side Deal in Meta Settlement</title>
+    <link href="https://news.bloomberglaw.com/litigation/texas-billion-dollar-side-deal-ranks-high-in-meta-settlement" rel="alternate" />
+    <id>https://news.bloomberglaw.com/litigation/texas-billion-dollar-side-deal-ranks-high-in-meta-settlement::v237</id>
+    <published>2026-08-29T08:30:00+00:00</published>
+    <updated>2026-08-29T08:30:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuB65JwqkcYs2rOsyKTC5L-rwwWPak3nAqLgKAlly6cCfZvw14xN3muDIxQWPC_egDdgHFNQfLa8coUOtw5rWM9_fMvmbjwlVesfbNLP_eRCTiG-zHMbYzA1QZzS0iZSQO6LtpQRHROpvLM2KhOtyDdzNbHScY0PKiSL5pSHiSK8Sg38VhLfTTZEfiI5BQ/s1693/9d7eae58-7c43-4c88-9672-d3651798bb4f.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://news.bloomberglaw.com/litigation/texas-billion-dollar-side-deal-ranks-high-in-meta-settlement">news.bloomberglaw.com</a></small></p><hr/><p>Texas has negotiated a $1.05 billion settlement with Meta Platforms Inc. to resolve claims that its platforms cause social media addiction in young users. This independent agreement, which could increase to $1.335 billion if YouTube and TikTok adopt the same safety terms accepted by Meta, was reached outside of a larger $17 billion settlement involving 47 other states.</p><p>The side deal provides Texas with a larger payout than most states participating in the multistate litigation, despite the state opting not to join the original federal lawsuit. Following the resolution, the Texas Attorney General’s office intends to prioritize upcoming litigation against TikTok regarding alleged deceptive marketing practices aimed at minors.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuB65JwqkcYs2rOsyKTC5L-rwwWPak3nAqLgKAlly6cCfZvw14xN3muDIxQWPC_egDdgHFNQfLa8coUOtw5rWM9_fMvmbjwlVesfbNLP_eRCTiG-zHMbYzA1QZzS0iZSQO6LtpQRHROpvLM2KhOtyDdzNbHScY0PKiSL5pSHiSK8Sg38VhLfTTZEfiI5BQ/s1693/9d7eae58-7c43-4c88-9672-d3651798bb4f.png" /></p><hr/><small>29 Aug 2026, 12:24 UTC | #19501</small>]]></content>
+  </entry>
+  <entry>
+    <title>Debian to Vote on Policies Regarding LLM-Assisted Contributions</title>
+    <link href="https://www.debian.org/vote/2026/vote_002#texte" rel="alternate" />
+    <id>https://www.debian.org/vote/2026/vote_002#texte::v237</id>
+    <published>2026-08-29T02:54:00+00:00</published>
+    <updated>2026-08-29T02:54:00+00:00</updated>
+    <media:thumbnail url="https://img.particlenews.com/img/id/3ghEUU_18fWzCzN00" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.debian.org/vote/2026/vote_002#texte">debian.org</a> | <a href="https://lobste.rs/s/zctsmq/llm_usage_debian_neither_endorsed_nor">discussion</a></small></p><hr/><p>The Debian project is voting on a General Resolution to define its official policy on Large Language Model (LLM) and generative AI usage. Proposals include a total ban on LLM-assisted contributions to Debian software, documentation, and official communications, as well as a conditional allowance that requires explicit disclosure, legal compliance, and full contributor accountability for all AI-assisted output.</p><p>The debate focuses on concerns over copyright clarity, the maintenance of high software quality, and the ethical impact of AI training on the free software ecosystem. Supporters of regulated use suggest that AI can serve as a productive tool for contributors, provided that human reviewers can effectively verify the technical merit and legal status of the generated content.</p><p><img src="https://img.particlenews.com/img/id/3ghEUU_18fWzCzN00" /></p><hr/><small>29 Aug 2026, 10:36 UTC | #19525</small>]]></content>
+  </entry>
+  <entry>
+    <title>ChangXin Memory Technologies Sues Pentagon Over Military Designation</title>
+    <link href="https://www.reuters.com/world/cxmt-sues-pentagon-over-inclusion-list-companies-tied-chinas-military-2026-08-29/" rel="alternate" />
+    <id>https://www.reuters.com/world/cxmt-sues-pentagon-over-inclusion-list-companies-tied-chinas-military-2026-08-29/::v237</id>
+    <published>2026-08-29T02:21:00+00:00</published>
+    <updated>2026-08-29T02:21:00+00:00</updated>
+    <media:thumbnail url="https://entreprenuersdiaries.com/wp-content/uploads/2026/06/Alibaba-Pentagon-lawsuit-860x469.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/cxmt-sues-pentagon-over-inclusion-list-companies-tied-chinas-military-2026-08-29/">reuters.com</a></small></p><hr/><p>ChangXin Memory Technologies (CXMT) has filed a lawsuit against the U.S. Department of Defense to contest its inclusion on a list of companies allegedly linked to the Chinese military. The memory chipmaker maintains that it has no military affiliations and that its products are intended for civilian rather than military use.</p><p>The legal action seeks to overturn a Pentagon designation that triggers various U.S. government contracting restrictions. This move follows a recent pattern of Chinese technology firms using federal courts to challenge U.S. sanctions and military-related designations.</p><p><img src="https://entreprenuersdiaries.com/wp-content/uploads/2026/06/Alibaba-Pentagon-lawsuit-860x469.jpg" /></p><hr/><small>29 Aug 2026, 07:24 UTC | #19494</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI to End Model Provision to Cursor Following SpaceX Acquisition</title>
+    <link href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/" rel="alternate" />
+    <id>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/::v237</id>
+    <published>2026-08-29T02:02:00+00:00</published>
+    <updated>2026-08-29T02:02:00+00:00</updated>
+    <media:thumbnail url="https://cdn.shopify.com/s/files/1/0278/3841/4901/files/tweet-2046713419978453374.png?v=1776813174" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=49486172">hacker news</a></small></p><hr/><p>OpenAI plans to stop providing its models to the Cursor AI code editor starting November 12. The decision follows the acquisition of Cursor by SpaceX.</p><p>OpenAI stated it cannot be certain that SpaceX's intended use of the technology will comply with the company's terms of service. The wind-down is expected to impact developers who rely on OpenAI models within the Cursor environment.</p><p><img src="https://cdn.shopify.com/s/files/1/0278/3841/4901/files/tweet-2046713419978453374.png?v=1776813174" /></p><hr/><small>29 Aug 2026, 07:12 UTC | #19492</small>]]></content>
+  </entry>
+  <entry>
+    <title>Governor Greg Abbott Halts State Funding for Flock Cameras</title>
+    <link href="https://www.texastribune.org/2026/08/28/texas-greg-abbott-flock-cameras-order-state-money/" rel="alternate" />
+    <id>https://www.texastribune.org/2026/08/28/texas-greg-abbott-flock-cameras-order-state-money/::v237</id>
+    <published>2026-08-29T00:56:00+00:00</published>
+    <updated>2026-08-30T04:50:00+00:00</updated>
+    <media:thumbnail url="https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/08/TT_FLOCK-MONEY-TEXAS_01-.jpg?fit=1200%2C800&amp;ssl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.texastribune.org/2026/08/28/texas-greg-abbott-flock-cameras-order-state-money/">texastribune.org</a> | <a href="https://news.ycombinator.com/item?id=49494182">hacker news</a></small></p><hr/><p>Texas state agencies are now prohibited from using state funds to purchase or maintain Flock cameras following a directive from the governor. The order comes amid mounting scrutiny of the AI-powered surveillance technology and as state grants have been used to expand the network across the state.</p><p>The decision follows reports of law enforcement misuse and a rise in local municipalities canceling surveillance contracts due to privacy concerns. These cameras use artificial intelligence to track vehicle characteristics and allow law enforcement agencies to share data across a national network.</p><p><img src="https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/08/TT_FLOCK-MONEY-TEXAS_01-.jpg?fit=1200%2C800&ssl=1" /></p><hr/><small>29 Aug 2026, 06:08 UTC | #19491</small>]]></content>
+  </entry>
+  <entry>
+    <title>EPA Issues Guidance Exempting Islanded Power Generation from Acid Rain Program</title>
+    <link href="https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers" rel="alternate" />
+    <id>https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers::v237</id>
+    <published>2026-08-28T20:58:00+00:00</published>
+    <updated>2026-08-28T20:58:00+00:00</updated>
+    <media:thumbnail url="https://d.techtimes.com/en/full/470226/aerial-view-shows-constellations-clinton-clean-energy.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers">epa.gov</a> | <a href="https://news.ycombinator.com/item?id=49478103">hacker news</a></small></p><hr/><p>The U.S. Environmental Protection Agency (EPA) has clarified that power generation facilities not connected to the public electricity grid, known as "islanded" facilities, are not subject to the Clean Air Act's Acid Rain Program (ARP). The agency's determination is based on the fact that these facilities neither sell electricity to the grid nor have required reporting to the Department of Energy.</p><p>This guidance is intended to facilitate the rapid construction of data centers by allowing developers to deploy independent power sources with fewer regulatory hurdles. The policy supports the "Ratepayer Protection Pledge," an initiative aimed at ensuring data center operators bear the full costs of their energy infrastructure to prevent rising utility prices for the public.</p><p><img src="https://d.techtimes.com/en/full/470226/aerial-view-shows-constellations-clinton-clean-energy.jpg" /></p><hr/><small>29 Aug 2026, 02:22 UTC | #19493</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta Targets TikTok and YouTube With Newspaper Ads Over Teen Safety</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-08-28/meta-s-newspaper-ad-blitz-ups-pressure-on-social-media-rivals" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-08-28/meta-s-newspaper-ad-blitz-ups-pressure-on-social-media-rivals::v237</id>
+    <published>2026-08-28T20:56:00+00:00</published>
+    <updated>2026-08-28T20:56:00+00:00</updated>
+    <media:thumbnail url="https://cdn.manilastandard.net/wp-content/uploads/2026/02/tiktok-yves-gonzales-1536x1024.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-08-28/meta-s-newspaper-ad-blitz-ups-pressure-on-social-media-rivals">bloomberg.com</a> | <a href="https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/">source</a></small></p><hr/><p>Meta Platforms Inc. is running a newspaper advertising campaign in the United States to pressure TikTok and YouTube to adopt teen safety protections. This follows an $18 billion settlement Meta reached with several U.S. states, which requires the company to implement safeguards such as usage time limits for minors on Instagram and Facebook.</p><p>A key component of the settlement stipulates that Meta will only pay part of the fine if competitors commit to similar safety concessions. This arrangement is intended to prevent younger users from migrating to other platforms if Meta's services become more strictly regulated.</p><p><img src="https://cdn.manilastandard.net/wp-content/uploads/2026/02/tiktok-yves-gonzales-1536x1024.jpg" /></p><hr/><small>29 Aug 2026, 02:07 UTC | #19479</small>]]></content>
   </entry>
 </feed>

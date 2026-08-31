@@ -3,7 +3,133 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-08-30T11:38:22.650589+00:00</updated>
+  <updated>2026-08-29T02:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Ubisoft Details Rendering Pipeline for Assassin's Creed Shadows</title>
+    <link href="https://www.youtube.com/watch?v=yj5pYktC3X8" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=yj5pYktC3X8::v237</id>
+    <published>2026-08-29T02:52:00+00:00</published>
+    <updated>2026-08-29T02:52:00+00:00</updated>
+    <media:thumbnail url="https://i2.ytimg.com/vi/yj5pYktC3X8/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=yj5pYktC3X8">youtube.com</a> | <a href="https://gdcvault.com/play/1035526/Rendering-Assassin-s-Creed-Shadows">source</a></small></p><hr/><p>During a GDC 2025 presentation, Technical Architect Nicolas Lopez outlined the rendering advancements in Assassin's Creed Shadows and the evolution of the Anvil engine. The engine has transitioned to a monorepo architecture to streamline development and features enhanced scalability to support massive, systemic open worlds.</p><p>The architecture relies on a GPU-driven pipeline and a specialized "Database" system for efficient data sharing between the CPU and GPU. Performance across vast environments is maintained through a hierarchy of LOD techniques, including point clouds for mass imposter rendering and a micro-polygon geometry pipeline for efficient rasterization.</p><p><img src="https://i2.ytimg.com/vi/yj5pYktC3X8/hqdefault.jpg" /></p><hr/><small>29 Aug 2026, 10:23 UTC | #19524</small>]]></content>
+  </entry>
+  <entry>
+    <title>Game Designers Share Personal Design Rules at GDC 2015</title>
+    <link href="https://www.youtube.com/watch?v=wjpMro-JnhI" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=wjpMro-JnhI::v237</id>
+    <published>2026-08-29T02:50:00+00:00</published>
+    <updated>2026-08-29T02:50:00+00:00</updated>
+    <media:thumbnail url="https://i4.ytimg.com/vi/wjpMro-JnhI/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=wjpMro-JnhI">youtube.com</a> | <a href="https://www.gdcvault.com/play/1022238/Rules-of-the-Game-Five">source</a></small></p><hr/><p>In this GDC 2015 session, Richard Rouse III explores the subjective "rules" and "tricks" that experienced game designers use to shape their creative processes. The discussion highlights that effective design principles are often personal methodologies rather than universal mandates.</p><p>Laurelyn McWills demonstrates how to bridge the gap between technical systems and player emotion by treating human needs as systemic requirements. She argues that incorporating emotional drivers, such as the need for social connection or a sense of progress, allows for the creation of "experiential core loops" that deepen immersion and player engagement.</p><p><img src="https://i4.ytimg.com/vi/wjpMro-JnhI/hqdefault.jpg" /></p><hr/><small>29 Aug 2026, 10:15 UTC | #19522</small>]]></content>
+  </entry>
+  <entry>
+    <title>Game Designers Present Design Techniques at GDC 2025 Rules of the Game</title>
+    <link href="https://www.youtube.com/watch?v=UTE_bVUeHCQ" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=UTE_bVUeHCQ::v237</id>
+    <published>2026-08-29T02:49:00+00:00</published>
+    <updated>2026-08-29T02:49:00+00:00</updated>
+    <media:thumbnail url="https://i2.ytimg.com/vi/UTE_bVUeHCQ/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=UTE_bVUeHCQ">youtube.com</a></small></p><hr/><p>The "Rules of the Game 2025" session at the Game Developers Conference features industry professionals presenting specialized techniques and mental models for game development. Presentations cover the use of intentional friction to build emotional resonance, technical design strategies for balancing code stability with creative freedom, and methods for mapping gameplay mechanics to narrative themes.</p><p>The session includes insights from professionals at Outer Loop Games and Crystal Dynamics, covering topics from turn-based combat structures to the organizational role of technical designers as liaisons between engineering and design. The program also features a tribute to the late designer Laura Lynn McWilliams.</p><p><img src="https://i2.ytimg.com/vi/UTE_bVUeHCQ/hqdefault.jpg" /></p><hr/><small>29 Aug 2026, 10:12 UTC | #19521</small>]]></content>
+  </entry>
+  <entry>
+    <title>Red Hook Studios Explains Art-Led Procedural Generation for Darkest Dungeon 2</title>
+    <link href="https://www.youtube.com/watch?v=9j3I3owY8a8" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=9j3I3owY8a8::v237</id>
+    <published>2026-08-29T02:48:00+00:00</published>
+    <updated>2026-08-29T02:48:00+00:00</updated>
+    <media:thumbnail url="https://i2.ytimg.com/vi/9j3I3owY8a8/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=9j3I3owY8a8">youtube.com</a> | <a href="https://gdcvault.com/play/1035493/Evolving-Worlds-from-the-Crumbling">source</a></small></p><hr/><p>Red Hook Studios' Darkest Dungeon 2 utilizes an art-led procedural generation system to balance a specific visual style with gameplay replayability. To avoid the high labor costs and visual repetition of an initial "sequential plate" approach, the development team transitioned to a modular hex-based grid system.</p><p>This system generates interconnected nodes and branching paths that facilitate strategic decision-making. By using smaller tiles, the developers were able to increase visual variety and maintain the game's signature ink-heavy, painterly aesthetic across different biomes.</p><p><img src="https://i2.ytimg.com/vi/9j3I3owY8a8/hqdefault.jpg" /></p><hr/><small>29 Aug 2026, 10:08 UTC | #19520</small>]]></content>
+  </entry>
+  <entry>
+    <title>Adam Russell Discusses Marginal Gains in LEGO Horizon Adventures</title>
+    <link href="https://www.youtube.com/watch?v=2qrzI8YCVgI" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=2qrzI8YCVgI::v237</id>
+    <published>2026-08-29T02:47:00+00:00</published>
+    <updated>2026-08-29T02:47:00+00:00</updated>
+    <media:thumbnail url="https://i3.ytimg.com/vi/2qrzI8YCVgI/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=2qrzI8YCVgI">youtube.com</a> | <a href="https://gdcvault.com/play/1035529/Building-Big-Impact-One-Brick">source</a></small></p><hr/><p>Studio Gobo lead designer Adam Russell applies the "marginal gains" philosophy to the development of LEGO Horizon Adventures, demonstrating how small, incremental improvements compound to create significant impact. Drawing parallels to the success of British cycling, the approach involves identifying and optimizing minor friction points in workflows, technical tools, and player features.</p><p>Implementation of these gains included the development of custom editor icons for enemy spawns, ledge grab visualizations, and automated validation checks for combat encounters. On the product side, improvements focused on accessibility, navigation via waypoint markers, and the inclusion of diverse minifigures to enhance the overall player experience.</p><p><img src="https://i3.ytimg.com/vi/2qrzI8YCVgI/hqdefault.jpg" /></p><hr/><small>29 Aug 2026, 10:04 UTC | #19519</small>]]></content>
+  </entry>
+  <entry>
+    <title>Owen Mahoney Identifies Four Distinct Gaming Sub-Industries</title>
+    <link href="https://www.youtube.com/watch?v=HfUqTNiiSDI" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=HfUqTNiiSDI::v237</id>
+    <published>2026-08-29T02:46:00+00:00</published>
+    <updated>2026-08-29T02:46:00+00:00</updated>
+    <media:thumbnail url="https://i1.ytimg.com/vi/HfUqTNiiSDI/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=HfUqTNiiSDI">youtube.com</a></small></p><hr/><p>The gaming industry is comprised of four distinct sectors: single-player casual, single-player core, mobile/casual live service, and core live service. The mobile and casual live service market functions as a math-driven business focused on user acquisition and lifetime value via gacha mechanics, whereas core PC and console markets rely on cosmetic sales and gameplay-integrated randomness.</p><p>This divergence in monetization necessitates different company structures and design philosophies. While math-based mechanics drive success in mobile gaming, the core audience generally requires a focus on cosmetic items and gameplay-focused randomness to maintain engagement.</p><p><img src="https://i1.ytimg.com/vi/HfUqTNiiSDI/hqdefault.jpg" /></p><hr/><small>29 Aug 2026, 10:01 UTC | #19518</small>]]></content>
+  </entry>
+  <entry>
+    <title>Steam's 2024 Demo Updates and Their Impact on Game Visibility</title>
+    <link href="https://www.youtube.com/watch?v=WUNygTII6p0" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=WUNygTII6p0::v237</id>
+    <published>2026-08-29T02:45:00+00:00</published>
+    <updated>2026-08-29T02:45:00+00:00</updated>
+    <media:thumbnail url="https://i4.ytimg.com/vi/WUNygTII6p0/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=WUNygTII6p0">youtube.com</a> | <a href="https://store.steampowered.com/news/group/4145017/view/4155211502162971562">source</a></small></p><hr/><p>Valve's "Great Steam Demo Update 2024" has introduced significant changes to how game demos function on Steam, including visibility in the "New &amp; Trending" section and the ability to host separate store pages. These updates allow demos to act as more effective marketing tools by enabling user reviews and direct notification emails to players who have wishlisted the demo.</p><p>Effective deployment involves a tiered approach: using frequent playtests to build momentum, coordinating demo launches with streaming influencers and industry festivals, and reserving Steam NextFest as a final promotional milestone. This strategy aims to maximize algorithmic visibility and convert high engagement during demo periods into long-term wishlist growth and revenue.</p><p><img src="https://i4.ytimg.com/vi/WUNygTII6p0/hqdefault.jpg" /></p><hr/><small>29 Aug 2026, 09:56 UTC | #19517</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sam Maggs to Host 2026 Game Developers Choice Awards</title>
+    <link href="https://www.youtube.com/watch?v=rPeeaqA2St0" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=rPeeaqA2St0::v237</id>
+    <published>2026-08-29T02:44:00+00:00</published>
+    <updated>2026-08-29T02:44:00+00:00</updated>
+    <media:thumbnail url="https://i3.ytimg.com/vi/rPeeaqA2St0/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=rPeeaqA2St0">youtube.com</a></small></p><hr/><p>Sam Maggs will host the 2026 Game Developers Choice Awards (GDCA) on Thursday, March 12, at 6:30 p.m. Pacific. The ceremony will be broadcast from San Francisco and via GDC online channels to celebrate the top achievements in gaming released throughout 2025.</p><p>The awards are part of the GDC Festival of Gaming. Maggs returns to the stage to recognize the artistry and impact of the industry's leading developers.</p><p><img src="https://i3.ytimg.com/vi/rPeeaqA2St0/hqdefault.jpg" /></p><hr/><small>29 Aug 2026, 09:51 UTC | #19515</small>]]></content>
+  </entry>
+  <entry>
+    <title>Samantha Béart Discusses Performance Capture in Baldur's Gate 3</title>
+    <link href="https://www.youtube.com/watch?v=5lNDq5yZKJE" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=5lNDq5yZKJE::v237</id>
+    <published>2026-08-29T02:43:00+00:00</published>
+    <updated>2026-08-29T02:43:00+00:00</updated>
+    <media:thumbnail url="https://i2.ytimg.com/vi/5lNDq5yZKJE/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=5lNDq5yZKJE">youtube.com</a></small></p><hr/><p>Samantha Béart, the performer who voiced Karlach in Baldur's Gate 3, details the intensive motion capture process used in the game's development, which included 260 hours of studio sessions. She reflects on the character's significant cultural impact and the community-driven legacy surrounding the game's characters.</p><p>The discussion addresses the evolving landscape of game performance and the potential for a Baldur's Gate 3 television adaptation. Béart discusses the possibility of integrating the original cast into such a series and shares insights into her experience as a BAFTA-nominated actor working in the video game industry.</p><p><img src="https://i2.ytimg.com/vi/5lNDq5yZKJE/hqdefault.jpg" /></p><hr/><small>29 Aug 2026, 09:47 UTC | #19514</small>]]></content>
+  </entry>
+  <entry>
+    <title>Austin Wintory and Troy Baker Host GDC Concert on Game Music History</title>
+    <link href="https://www.youtube.com/watch?v=xae7FYq7g2U" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=xae7FYq7g2U::v237</id>
+    <published>2026-08-29T02:42:00+00:00</published>
+    <updated>2026-08-29T02:42:00+00:00</updated>
+    <media:thumbnail url="https://i1.ytimg.com/vi/xae7FYq7g2U/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=xae7FYq7g2U">youtube.com</a></small></p><hr/><p>The event features live orchestral performances of iconic scores and discussions on the evolution of audio technology and composition. Hosted by composer Austin Wintory and voice actor Troy Baker, the GDC developer concert explores the history and "beginnings" of video game music.</p><p>The hosts share personal reflections on their career trajectories and the impact of seminal musical works on the industry. The session explores the intersection of musical storytelling and game design, highlighting creative milestones within the medium.</p><p><img src="https://i1.ytimg.com/vi/xae7FYq7g2U/hqdefault.jpg" /></p><hr/><small>29 Aug 2026, 09:41 UTC | #19513</small>]]></content>
+  </entry>
+  <entry>
+    <title>Super Evil Megacorp Details Transition to Cross-Platform Development</title>
+    <link href="https://www.youtube.com/watch?v=wUQ1hFp1_Zs" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=wUQ1hFp1_Zs::v237</id>
+    <published>2026-08-29T02:41:00+00:00</published>
+    <updated>2026-08-29T02:41:00+00:00</updated>
+    <media:thumbnail url="https://i4.ytimg.com/vi/wUQ1hFp1_Zs/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=wUQ1hFp1_Zs">youtube.com</a></small></p><hr/><p>Super Evil Megacorp CEO Ian Fielding outlines the studio's evolution from mobile-first development to a cross-platform model. Using *TMNT: Splintered Fate* as a case study, the talk examines the strategic and technical shifts required to expand onto platforms like PC and Nintendo Switch.</p><p>Key takeaways include hiring talent with AAA console experience, de-risking camera and control mechanics early in production, and ensuring critical UX details—such as controller support notifications—are clearly communicated to players. The studio is also developing upcoming titles for platforms including Netflix.</p><p><img src="https://i4.ytimg.com/vi/wUQ1hFp1_Zs/hqdefault.jpg" /></p><hr/><small>29 Aug 2026, 09:36 UTC | #19512</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sunfall Interactive Discusses Technical Development of Clair Obscur: Expedition 33</title>
+    <link href="https://www.youtube.com/watch?v=BLUbu8he0og" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=BLUbu8he0og::v237</id>
+    <published>2026-08-29T02:40:00+00:00</published>
+    <updated>2026-08-29T02:40:00+00:00</updated>
+    <media:thumbnail url="https://i3.ytimg.com/vi/BLUbu8he0og/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=BLUbu8he0og">youtube.com</a></small></p><hr/><p>The production of Clair Obscur: Expedition 33 relied on a programming team of only four members who implemented 95% of core gameplay logic via Unreal Engine Blueprints. This strategy empowered designers to create content independently and facilitated rapid iteration by avoiding the stability and compilation overhead typical of C++. This workflow allowed the small team to support a high volume of content across semi-open environments and turn-based combat systems.</p><p>Development followed a "vanilla first" philosophy, prioritizing native engine features and third-party plugins over bespoke engine tools to maximize efficiency. While C++ was reserved for performance-critical tasks, platform-specific code, and core engine modifications, the studio implemented a dedicated build farm to manage the extended packaging times caused by the heavy reliance on visual scripting.</p><p><img src="https://i3.ytimg.com/vi/BLUbu8he0og/hqdefault.jpg" /></p><hr/><small>29 Aug 2026, 09:30 UTC | #19511</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenTIE Reimplementation of Star Wars: TIE Fighter for Windows, macOS, and Linux</title>
+    <link href="https://github.com/elyosh/OpenTIE/" rel="alternate" />
+    <id>https://github.com/elyosh/OpenTIE/::v237</id>
+    <published>2026-08-28T21:02:00+00:00</published>
+    <updated>2026-08-28T21:02:00+00:00</updated>
+    <media:thumbnail url="https://i.pinimg.com/originals/47/17/b7/4717b7ec3f78e0e0708fcc15e2dca03c.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/elyosh/OpenTIE/">github.com</a> | <a href="https://news.ycombinator.com/item?id=49471965">hacker news</a></small></p><hr/><p>OpenTIE is an open-source reimplementation of Star Wars: TIE Fighter designed for Windows, macOS, and Linux. It runs original game data natively and allows users to combine assets from the 1995 Collector's CD-ROM and the 1998 Windows release, such as the 1995 adaptive iMUSE soundtrack and menus with the 1998 flight simulation.</p><p>Modernization features include ambient occlusion, bloom, HDR output, and AMD FidelityFX FSR 3.1.4 upscaling. The software supports high-refresh-rate displays up to 240 Hz and provides compatibility for modern gamepads and joysticks.</p><p><img src="https://i.pinimg.com/originals/47/17/b7/4717b7ec3f78e0e0708fcc15e2dca03c.png" /></p><hr/><small>29 Aug 2026, 03:32 UTC | #19496</small>]]></content>
+  </entry>
+  <entry>
+    <title>Experimental NVIDIA DLSS 5 Mod Active in Multiple Games</title>
+    <link href="https://videocardz.com/newz/experimental-nvidia-dlss-5-mod-already-running-in-more-than-a-dozen-games-including-cyberpunk-2077-and-even-gta-v" rel="alternate" />
+    <id>https://videocardz.com/newz/experimental-nvidia-dlss-5-mod-already-running-in-more-than-a-dozen-games-including-cyberpunk-2077-and-even-gta-v::v237</id>
+    <published>2026-08-28T20:35:00+00:00</published>
+    <updated>2026-08-28T20:35:00+00:00</updated>
+    <media:thumbnail url="https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/dlss5-breakthrough-in-visual-fidelity-for-games/how-nvidia-dlss-5-works.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://videocardz.com/newz/experimental-nvidia-dlss-5-mod-already-running-in-more-than-a-dozen-games-including-cyberpunk-2077-and-even-gta-v">videocardz.com</a></small></p><hr/><p>Modders have successfully integrated an experimental NVIDIA DLSS 5 Neural Rendering library into more than a dozen games, including Cyberpunk 2077, Red Dead Redemption 2, and Grand Theft Auto V. The implementation utilizes a DLL discovered in the NBA 2K27 early access build and connects it to various rendering pipelines using the RenoDX modding framework, allowing the tech to run in titles without native support.</p><p>Current tests indicate a heavy performance penalty, with some scenarios seeing frame rates drop by nearly 50% on RTX 50-series hardware. While NVIDIA's official implementation is expected to include specialized controls for color grading and lighting intensity, these community mods serve as an unoptimized demonstration of the unreleased technology.</p><p><img src="https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/dlss5-breakthrough-in-visual-fidelity-for-games/how-nvidia-dlss-5-works.jpg" /></p><hr/><small>29 Aug 2026, 01:05 UTC | #19476</small>]]></content>
+  </entry>
 </feed>
