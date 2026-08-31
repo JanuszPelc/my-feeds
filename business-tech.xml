@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-31T11:42:00+00:00</updated>
+  <updated>2026-08-31T11:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Itamar Novick and Simeon Simeonov Introduce Startup Anti-Pattern Series</title>
+    <link href="https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/" rel="alternate" />
+    <id>https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/::v237</id>
+    <published>2026-08-31T11:44:00+00:00</published>
+    <updated>2026-08-31T11:44:00+00:00</updated>
+    <media:thumbnail url="https://mark-whitfield.com/wp-content/uploads/2025/11/tempfileforshare_20251122-2132181129757387028170913.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/">itamarnovick.com</a> | <a href="https://news.ycombinator.com/item?id=49499831">hacker news</a></small></p><hr/><p>Itamar Novick and Simeon Simeonov are launching a series exploring startup anti-patterns—behaviors and processes that may appear effective initially but ultimately increase risk and hamper execution. The authors intend to analyze these patterns using tangible examples from their experience with more than 100 startups.</p><p>The series addresses a wide range of potential pitfalls, including strategic, operational, and leadership-related issues. Examples range from "chasing the competition" to "design by committee," aiming to help founders and investors maintain focus and avoid common failures.</p><p><img src="https://mark-whitfield.com/wp-content/uploads/2025/11/tempfileforshare_20251122-2132181129757387028170913.jpg" /></p><hr/><small>31 Aug 2026, 16:43 UTC | #19687</small>]]></content>
+  </entry>
   <entry>
     <title>Pangram AI Detector Faces Scrutiny Over Disputed Author Accusations</title>
     <link href="https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9?accessToken=zwAAAaBMm1--kdPxAMkLwThBJdOqp4U7d2kNuQ.MEUCIQD9qTbanNcy4aFsIB63aMwpEWmKhiwKwei0K8iINe9fVAIgaV8LFEZp0Bew8dpQtvf4yTiM1UNRU7vKNYGwHUvRD08&amp;sharetype=gift&amp;token=0062664e-51e4-4d79-9f3f-55c018fd91f2" rel="alternate" />
