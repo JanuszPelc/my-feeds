@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T09:11:00+00:00</updated>
+  <updated>2026-08-31T10:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>MITRE Rejects Request for CVE Assignment for curl Hostname Bug</title>
+    <link href="https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/" rel="alternate" />
+    <id>https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/::v237</id>
+    <published>2026-08-31T10:39:00+00:00</published>
+    <updated>2026-08-31T10:39:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQHemL1ex6sPbw/feedshare-shrink_800/B4EZsomHY1KUAg-/0/1765912639960?e=2147483647&amp;v=beta&amp;t=6tpDHNcFxR4of7rXhs4UgErBwS7yGprbcwbJvVjO_4s" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/1pdfex/curl_cve_dispute">discussion</a> | <a href="https://news.ycombinator.com/item?id=49508290">hacker news</a></small></p><hr/><p>A dispute over CVE assignment has concluded with MITRE siding with the curl project, ruling that a reported bug does not qualify as a security vulnerability. The contested issue involved an error in `curl` where hostnames with leading dots could erroneously match wildcard certificates. The reporter involved sought to escalate the matter to MITRE after curl classified the risk as "below LOW" severity.</p><p>The decision supports curl's policy as a CVE Numbering Authority (CNA) to withhold CVEs for scenarios where the risk is deemed too low for the global ecosystem to manage. Curl argued that unnecessary CVEs trigger costly, widespread patching cycles for `libcurl`, which is installed on billions of devices. The bug was patched in December 2025.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQHemL1ex6sPbw/feedshare-shrink_800/B4EZsomHY1KUAg-/0/1765912639960?e=2147483647&v=beta&t=6tpDHNcFxR4of7rXhs4UgErBwS7yGprbcwbJvVjO_4s" /></p><hr/><small>31 Aug 2026, 13:41 UTC | #19671</small>]]></content>
+  </entry>
   <entry>
     <title>Prela Query Language Overview and Python Tutorial</title>
     <link href="https://prela-lang.org/tutorial/" rel="alternate" />
