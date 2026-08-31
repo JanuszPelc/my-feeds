@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-08-31T15:23:00+00:00</updated>
+  <updated>2026-08-31T16:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Nolan Lawson Discusses the Influence of LLMs on Personal Writing Style</title>
+    <link href="https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/" rel="alternate" />
+    <id>https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/::v237</id>
+    <published>2026-08-31T16:58:00+00:00</published>
+    <updated>2026-08-31T16:58:00+00:00</updated>
+    <media:thumbnail url="https://thumbs.dreamstime.com/b/voice-recognition-ai-integration-language-processing-human-computer-interaction-technological-innovation-digital-communication-452099073.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/">nolanlawson.com</a> | <a href="https://lobste.rs/s/uxqdfr/on_not_becoming_cyborg">discussion</a></small></p><hr/><p>Nolan Lawson discusses how frequent interaction with large language models (LLMs) is subtly influencing his personal writing style and vocabulary. He notes the emergence of specific "LLM-isms" in his prose, comparing the phenomenon to linguistic immersion or the subconscious acquisition of accents.</p><p>Lawson argues for a deliberate effort to "stay human" by resisting AI influence in creative English writing, even as he accepts its stylistic influence in programming code. He advocates for protecting individual expression and distinguishing human-authored text from AI-generated content to prevent linguistic and cognitive homogenization.</p><p><img src="https://thumbs.dreamstime.com/b/voice-recognition-ai-integration-language-processing-human-computer-interaction-technological-innovation-digital-communication-452099073.jpg" /></p><hr/><small>31 Aug 2026, 20:44 UTC | #19717</small>]]></content>
+  </entry>
   <entry>
     <title>Academic Panelists Use AI for Q&amp;A Responses</title>
     <link href="https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by" rel="alternate" />

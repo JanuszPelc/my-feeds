@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T16:48:00+00:00</updated>
+  <updated>2026-08-31T16:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Nvidia Invests $3.5B in MediaTek to Support Custom AI Chip Development</title>
+    <link href="https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/" rel="alternate" />
+    <id>https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/::v237</id>
+    <published>2026-08-31T16:57:00+00:00</published>
+    <updated>2026-08-31T16:57:00+00:00</updated>
+    <media:thumbnail url="https://cdn.wccftech.com/wp-content/uploads/2024/10/NVIDIA-x-Mediatek.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/">techcrunch.com</a> | <a href="https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms">source</a></small></p><hr/><p>A $3.5 billion investment by Nvidia into Taiwanese chipmaker MediaTek will facilitate the integration of Nvidia’s technology into MediaTek’s custom silicon offerings. This collaboration allows MediaTek to design chips for AI companies and hyperscalers that can interface directly with Nvidia-based data center infrastructure via the NVLink Fusion ecosystem.</p><p>The strategic move aims to solidify Nvidia's role in data center infrastructure as major cloud providers and AI labs increasingly develop their own bespoke hardware. Beyond data centers, the companies will continue joint development on automotive AI platforms and consumer-focused desktop AI computers.</p><p><img src="https://cdn.wccftech.com/wp-content/uploads/2024/10/NVIDIA-x-Mediatek.jpg" /></p><hr/><small>31 Aug 2026, 20:41 UTC | #19680</small>]]></content>
+  </entry>
   <entry>
     <title>BirdNet-Go Automates Bird Identification Using Security Camera Audio</title>
     <link href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/" rel="alternate" />
