@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-30T22:54:00+00:00</updated>
+  <updated>2026-08-31T04:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>ING Estimates AI Boom Accounts for One-Third of US Economic Growth</title>
+    <link href="https://www.wsj.com/economy/global/how-the-ai-investment-craze-is-keeping-the-global-economy-afloat-0d62c000?st=L9yWzY&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/economy/global/how-the-ai-investment-craze-is-keeping-the-global-economy-afloat-0d62c000?st=L9yWzY&amp;reflink=desktopwebshare_permalink::v237</id>
+    <published>2026-08-31T04:21:00+00:00</published>
+    <updated>2026-08-31T04:21:00+00:00</updated>
+    <media:thumbnail url="https://economicsinsider.com/wp-content/uploads/2025/01/1.-US-growth2017-2026.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/economy/global/how-the-ai-investment-craze-is-keeping-the-global-economy-afloat-0d62c000?st=L9yWzY&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://think.ing.com/opinions/how-much-is-ai-contributing-to-us-economic-growth/">source</a></small></p><hr/><p>Artificial intelligence investment and infrastructure development are driving approximately one-third of recent United States economic growth, according to estimates from ING. This technological surge is helping to offset broader global growth pressures caused by energy supply constraints and geopolitical tensions.</p><p>The growth is primarily fueled by massive capital expenditures in software and the construction of data centers, alongside wealth effects from rising valuations. While this investment provides a significant buffer for the US economy, analysts note the outsized role of a single sector in sustaining national GDP growth.</p><p><img src="https://economicsinsider.com/wp-content/uploads/2025/01/1.-US-growth2017-2026.jpg" /></p><hr/><small>31 Aug 2026, 09:08 UTC | #19631</small>]]></content>
+  </entry>
   <entry>
     <title>U.S. Imposes Tariffs and Restrictions on Chinese Drones and Robotics</title>
     <link href="https://techcrunch.com/2026/08/28/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T04:17:00+00:00</updated>
+  <updated>2026-08-31T04:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rootless Docker and Its Security Trade-Offs</title>
+    <link href="https://www.kenmuse.com/blog/rootless-docker-and-its-hidden-security-trade-offs/" rel="alternate" />
+    <id>https://www.kenmuse.com/blog/rootless-docker-and-its-hidden-security-trade-offs/::v237</id>
+    <published>2026-08-31T04:22:00+00:00</published>
+    <updated>2026-08-31T04:22:00+00:00</updated>
+    <media:thumbnail url="https://dotstartup.in/wp-content/uploads/2026/01/6-1.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.kenmuse.com/blog/rootless-docker-and-its-hidden-security-trade-offs/">kenmuse.com</a> | <a href="https://lobste.rs/s/lssato/rootless_docker_its_hidden_security">discussion</a></small></p><hr/><p>Rootless Docker uses user namespaces and RootlessKit to run the daemon as an unprivileged user, mapping the container's root user to a non-root UID on the host. This prevents container escapes or daemon exploits from granting the attacker immediate host-level root privileges.</p><p>The implementation expands the kernel's attack surface by allowing unprivileged users to interact with sensitive interfaces like the networking stack and mount systems. Running rootless builds in specific environments also requires disabling essential security layers, such as seccomp and AppArmor.</p><p><img src="https://dotstartup.in/wp-content/uploads/2026/01/6-1.webp" /></p><hr/><small>31 Aug 2026, 09:14 UTC | #19654</small>]]></content>
+  </entry>
   <entry>
     <title>InferenceFS GitHub Repository Describes a Data-Free Filesystem</title>
     <link href="https://github.com/philipl/inferencefs/" rel="alternate" />
