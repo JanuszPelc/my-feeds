@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T10:56:00+00:00</updated>
+  <updated>2026-08-31T11:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>VibeCoded AI-Slop License v1.0 Released</title>
+    <link href="https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6" rel="alternate" />
+    <id>https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6::v237</id>
+    <published>2026-08-31T11:41:00+00:00</published>
+    <updated>2026-08-31T11:41:00+00:00</updated>
+    <media:thumbnail url="https://jdsupra-html-images.s3-us-west-1.amazonaws.com/972ff7ab-9eec-4ce7-a04b-cfcd05be5bb3-what-ai-slop-looks-like-at-work.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6">gist.github.com</a> | <a href="https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0">discussion</a></small></p><hr/><p>The VibeCoded AI-Slop License v1.0 has been introduced as a framework for software, source code, and artifacts potentially produced by artificial intelligence. The license grants users permission to use, modify, and redistribute the software without requiring attribution or the disclosure of any modifications.</p><p>The license provides extensive disclaimers regarding the lack of human oversight, noting that the software may be unverified, poorly documented, or fundamentally misunderstood by the author. It serves as a commentary on the "vibe coding" phenomenon, where code is generated through high-level, often imprecise, human prompts to AI models.</p><p><img src="https://jdsupra-html-images.s3-us-west-1.amazonaws.com/972ff7ab-9eec-4ce7-a04b-cfcd05be5bb3-what-ai-slop-looks-like-at-work.png" /></p><hr/><small>31 Aug 2026, 14:43 UTC | #19668</small>]]></content>
+  </entry>
   <entry>
     <title>Servo Releases Version 0.5.0 with New Web Platform Features</title>
     <link href="https://servo.org/blog/2026/08/31/july-in-servo/" rel="alternate" />
