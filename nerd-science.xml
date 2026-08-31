@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-08-31T04:18:00+00:00</updated>
+  <updated>2026-08-31T15:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Academic Panelists Use AI for Q&amp;A Responses</title>
+    <link href="https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by" rel="alternate" />
+    <id>https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by::v237</id>
+    <published>2026-08-31T15:23:00+00:00</published>
+    <updated>2026-08-31T15:23:00+00:00</updated>
+    <media:thumbnail url="https://www.theeducationmagazine.com/wp-content/uploads/2026/05/AI-Academic-Integrity_-Infographic.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by">lobste.rs</a> | <a href="https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by">discussion</a></small></p><hr/><p>Multiple panelists at a recent conference used artificial intelligence to record questions and generate responses during a Q&amp;A session. The author describes this behavior as a sign of intellectual laziness and a lack of respect for the spontaneous reasoning expected in academic environments.</p><p>While the author views AI as useful for rote tasks like translation or editing, they argue against using it for activities requiring genuine thought. This observation highlights concerns about the potential for generative AI to erode critical thinking and independent inquiry in academia.</p><p><img src="https://www.theeducationmagazine.com/wp-content/uploads/2026/05/AI-Academic-Integrity_-Infographic.jpg" /></p><hr/><small>31 Aug 2026, 18:35 UTC | #19688</small>]]></content>
+  </entry>
   <entry>
     <title>SAT Solvers Identify Smallest Countermodels for Tarski's High School Algebra Problem</title>
     <link href="https://arxiv.org/abs/2608.08421" rel="alternate" />
