@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T15:00:00+00:00</updated>
+  <updated>2026-08-31T15:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The History and Evolution of Matrox</title>
+    <link href="https://www.abortretry.fail/p/matrox" rel="alternate" />
+    <id>https://www.abortretry.fail/p/matrox::v237</id>
+    <published>2026-08-31T15:27:00+00:00</published>
+    <updated>2026-08-31T15:27:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!B0XY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b56d87b-47b6-4cab-8312-a97fcf0dd67d_1578x990.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.abortretry.fail/p/matrox">abortretry.fail</a> | <a href="https://news.ycombinator.com/item?id=49503934">hacker news</a></small></p><hr/><p>Founded in 1976 by Lorne Trottier and Branko Matić, Matrox initially specialized in Video RAM and high-resolution display adapters for early microcomputers. Early products like the MTX-1632 and the S-100 bus ALT-256*2 provided high-resolution graphics and DMA support for researchers and hobbyists at a significantly lower cost than contemporary high-end hardware.</p><p>The company's client base expanded to include NASA's Viking mission and a $72 million US Army contract for a multimedia training system in 1986. As the market shifted toward IBM-compatible PCs, Matrox transitioned its technology from specialized architectures like Multibus to the 8-bit ISA bus.</p><p><img src="https://substackcdn.com/image/fetch/$s_!B0XY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b56d87b-47b6-4cab-8312-a97fcf0dd67d_1578x990.png" /></p><hr/><small>31 Aug 2026, 19:08 UTC | #19706</small>]]></content>
+  </entry>
   <entry>
     <title>Circleback Adds Free Tier for Meeting Notetaker</title>
     <link href="https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/" rel="alternate" />
