@@ -96,40 +96,4 @@
     <media:thumbnail url="https://1996magazine.co.uk/wp-content/uploads/2026/04/React-vs-Vue-2026-860x484.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://deadsimpletech.com/blog/no-such-thing-as-just-a-tool">deadsimpletech.com</a> | <a href="https://lobste.rs/s/9y9jo6/there_s_no_such_thing_as_just_tool">discussion</a></small></p><hr/><p>Technology is not a neutral instrument, but a means of forming "human-tool gestalts" that shape behavior, thought patterns, and social ideologies. Applying Martin Heidegger's concept of "ready-to-hand" objects, the argument suggests that seamless tools function as extensions of human capability, subtly dictating the range of actions and perspectives available to users.</p><p>In web development, the differing designs of React and Vue create distinct professional hierarchies and team compositions by prioritizing either JavaScript or HTML. This pattern of tool-driven influence extends to societal examples like transportation and firearms, where the affordances of a tool can alter perception and social dynamics.</p><p><img src="https://1996magazine.co.uk/wp-content/uploads/2026/04/React-vs-Vue-2026-860x484.jpg" /></p><hr/><small>30 Aug 2026, 07:41 UTC | #19569</small>]]></content>
   </entry>
-  <entry>
-    <title>Building an AI Agent Memory Tool and the Proposition Identity Problem</title>
-    <link href="https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory" rel="alternate" />
-    <id>https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory::v237</id>
-    <published>2026-08-29T14:12:00+00:00</published>
-    <updated>2026-08-29T14:12:00+00:00</updated>
-    <media:thumbnail url="https://cdn.analyticsvidhya.com/wp-content/uploads/2025/12/image4-1.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory">arbustoemchamas.substack.com</a> | <a href="https://lobste.rs/s/5lz0zd/i_naively_tried_vibe_coding_memory_tool">discussion</a></small></p><hr/><p>An attempt to develop a Rust-based memory tool for AI agents designed to store local information and automatically flag contradictory data. While the project successfully built a search engine over a custom corpus, it failed to implement automated contradiction detection.</p><p>The failure is attributed to the "proposition identity" problem, a long-standing, unsolved challenge in knowledge representation and the philosophy of language. This problem concerns the difficulty of determining when two different linguistic expressions refer to the same proposition, a prerequisite for automated logical reasoning.</p><p><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2025/12/image4-1.webp" /></p><hr/><small>29 Aug 2026, 18:01 UTC | #19542</small>]]></content>
-  </entry>
-  <entry>
-    <title>Icelanders Vote on Whether to Restart EU Accession Negotiations</title>
-    <link href="https://www.bbc.com/news/articles/cn45vdxyvvlo" rel="alternate" />
-    <id>https://www.bbc.com/news/articles/cn45vdxyvvlo::v237</id>
-    <published>2026-08-29T11:40:00+00:00</published>
-    <updated>2026-08-29T11:40:00+00:00</updated>
-    <media:thumbnail url="https://img.onmanorama.com/content/dam/mm/en/archive/upsc/current-affairs/images/2026/3/11/iceland-eu-talks.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.bbc.com/news/articles/cn45vdxyvvlo">bbc.com</a> | <a href="https://news.ycombinator.com/item?id=49489057">hacker news</a></small></p><hr/><p>Iceland is holding a referendum to determine if the nation should reopen negotiations to join the European Union, following a suspension of talks in 2013. A successful "Yes" vote would not grant immediate membership but would authorize the government to seek a formal accession agreement, a process that would still require parliamentary approval, constitutional amendments, and consent from the 27 EU member states.</p><p>The vote is heavily influenced by concerns over national sovereignty and control over the fishing industry, which accounts for nearly 40% of Iceland's exports. While proponents argue that EU membership could mitigate high inflation and interest rates, opponents fear that joining the customs union would relinquish control over vital maritime resources to Brussels.</p><p><img src="https://img.onmanorama.com/content/dam/mm/en/archive/upsc/current-affairs/images/2026/3/11/iceland-eu-talks.jpg" /></p><hr/><small>29 Aug 2026, 14:42 UTC | #19530</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jacky Alciné Discusses Challenges of Maintaining a Career in Software Engineering</title>
-    <link href="https://www.jacky.wtf/essays/2026/kicked-out/" rel="alternate" />
-    <id>https://www.jacky.wtf/essays/2026/kicked-out/::v237</id>
-    <published>2026-08-29T08:25:00+00:00</published>
-    <updated>2026-08-29T08:25:00+00:00</updated>
-    <media:thumbnail url="https://images.axios.com/sDEdITOyhmPDx57qkSeNCVffatw=/0x0:1600x900/1366x768/2024/07/17/1721227984922.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.jacky.wtf/essays/2026/kicked-out/">jacky.wtf</a> | <a href="https://lobste.rs/s/mroowi/being_kicked_out_tech_industry">discussion</a></small></p><hr/><p>After a decade in the industry, Jacky Alciné is leaving professional software engineering, citing frequent layoffs, termination during a family bereavement, and persistent job rejections despite extensive technical experience. He contends that the software engineering job market has increasingly shifted toward a referral-based system where social capital and networking often supersede technical merit and architectural expertise.</p><p>The current tech employment landscape is characterized by significant instability, where even experienced professionals face prolonged periods of unemployment. These systemic issues, exacerbated by a lack of worker protections and a reliance on social conformity, create substantial barriers for skilled individuals seeking to maintain a career in technology.</p><p><img src="https://images.axios.com/sDEdITOyhmPDx57qkSeNCVffatw=/0x0:1600x900/1366x768/2024/07/17/1721227984922.png" /></p><hr/><small>29 Aug 2026, 11:32 UTC | #19509</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Intersection of Humanities and Computer Science</title>
-    <link href="https://idlip.in/posts/show-me-source/" rel="alternate" />
-    <id>https://idlip.in/posts/show-me-source/::v237</id>
-    <published>2026-08-28T22:45:00+00:00</published>
-    <updated>2026-08-28T22:45:00+00:00</updated>
-    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/915513587/original/ef42e621cf/1?v=1" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://idlip.in/posts/show-me-source/">idlip.in</a> | <a href="https://lobste.rs/s/idizd1/talk_is_cheap_code_is_cheap_show_me_source">discussion</a></small></p><hr/><p>This essay explores the connection between the humanities and computer science, arguing that technical mastery is bolstered by a foundation in philosophy and history. It references pioneers like Alan Turing and Grace Hopper to demonstrate how non-technical disciplines influenced the longevity and structure of foundational computing concepts.</p><p>The author contends that while artificial intelligence can generate code, it lacks the human "source"—the reasoning and purpose behind software. The piece suggests that incorporating ethics and psychology into technical development is essential for moving beyond purely functional programming toward intentional, problem-solving design.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/915513587/original/ef42e621cf/1?v=1" /></p><hr/><small>29 Aug 2026, 04:01 UTC | #19497</small>]]></content>
-  </entry>
 </feed>
