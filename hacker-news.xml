@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T17:14:00+00:00</updated>
+  <updated>2026-08-31T21:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Trump Administration Launches Texas Pilot to Secure Water Infrastructure</title>
+    <link href="https://www.foxnews.com/politics/first-fox-texas-becomes-testing-ground-new-defense-against-attacks-americas-water-systems" rel="alternate" />
+    <id>https://www.foxnews.com/politics/first-fox-texas-becomes-testing-ground-new-defense-against-attacks-americas-water-systems::v237</id>
+    <published>2026-08-31T21:18:00+00:00</published>
+    <updated>2026-08-31T21:18:00+00:00</updated>
+    <media:thumbnail url="https://imgproxy.divecdn.com/UPGG36NH2xuQ-XiReHvub2HdCrbg35Ju9xUx2t3iXFw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc0MTA2MjM0LmpwZw==.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.foxnews.com/politics/first-fox-texas-becomes-testing-ground-new-defense-against-attacks-americas-water-systems">foxnews.com</a></small></p><hr/><p>The "Project Watershed 250" initiative is a six-month pilot program in Texas designed to defend water systems against cyberattacks using American artificial intelligence and cybersecurity tools. The program employs "red-teaming" to stress-test utility networks, identifying and fixing vulnerabilities before they can be exploited by adversaries.</p><p>The effort involves partnerships between the EPA, the Cybersecurity and Infrastructure Security Agency (CISA), the state of Texas, and private companies including Microsoft and Dragos. While officials noted the program is not a direct response to recent attacks on Minnesota water systems, the pilot seeks to create a scalable cybersecurity model for water utilities across the United States.</p><p><img src="https://imgproxy.divecdn.com/UPGG36NH2xuQ-XiReHvub2HdCrbg35Ju9xUx2t3iXFw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc0MTA2MjM0LmpwZw==.webp" /></p><hr/><small>31 Aug 2026, 23:56 UTC | #19693</small>]]></content>
+  </entry>
   <entry>
     <title>Emoji UTF-8 Sequences as 8088 Machine Code</title>
     <link href="https://martypc.blogspot.com/2026/08/executable-emoji.html" rel="alternate" />
