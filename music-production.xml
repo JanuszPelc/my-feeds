@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-08-30T16:25:00+00:00</updated>
+  <updated>2026-08-30T18:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>CVA Labs Releases Aether Stereo Exciter</title>
+    <link href="https://bedroomproducersblog.com/2026/08/30/cva-labs-aether/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/08/30/cva-labs-aether/::v237</id>
+    <published>2026-08-30T18:39:00+00:00</published>
+    <updated>2026-08-30T18:39:00+00:00</updated>
+    <media:thumbnail url="https://www.blog.brightcoding.dev/storage/media/2026/05/c3d225a1-044e-407f-ac13-8119638f3e23-large.webp" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/08/30/cva-labs-aether/">bedroomproducersblog.com</a> | <a href="https://github.com/cva-labs/aetherexciter">source</a> | <a href="https://bedroomproducersblog.com/2026/08/30/cva-labs-aether/#respond">discussion</a></small></p><hr/><p>CVA Labs has released Aether Stereo Exciter, a free and open-source VST3 harmonic enhancer. The plugin is designed to add presence and stereo excitation to audio signals.</p><p>The software is compatible with both macOS and Windows. The project's source code is available via GitHub for users and contributors.</p><p><img src="https://www.blog.brightcoding.dev/storage/media/2026/05/c3d225a1-044e-407f-ac13-8119638f3e23-large.webp" /></p><hr/><small>31 Aug 2026, 00:05 UTC | #19611</small>]]></content>
+  </entry>
   <entry>
     <title>NoirSonance Releases Headroomer Channel Cleanup Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/08/30/noirsonance-headroomer/" rel="alternate" />
