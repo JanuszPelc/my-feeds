@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-31T11:44:00+00:00</updated>
+  <updated>2026-08-31T11:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>FSB Chair Warns G20 of Financial Stability Risks from Frontier AI</title>
+    <link href="https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20" rel="alternate" />
+    <id>https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20::v237</id>
+    <published>2026-08-31T11:46:00+00:00</published>
+    <updated>2026-08-31T11:46:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQFGgk7MuFopCQ/article-cover_image-shrink_720_1280/B4DZuS6k0pI8AI-/0/1767696410243?e=2147483647&amp;v=beta&amp;t=4y2uIqEHekvcRFjU5NMPpwV9MySXCT57J-GKPtJoVs4" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20">theguardian.com</a> | <a href="https://www.fsb.org/2026/08/fsb-chairs-letter-to-g20-finance-ministers-and-central-bank-governors-august-2026/">source</a> | <a href="https://news.ycombinator.com/item?id=49507101">hacker news</a></small></p><hr/><p>Bank of England governor and Financial Stability Board (FSB) chair Andrew Bailey has warned G20 finance ministers and central bank governors that frontier AI models pose significant risks to the global financial system. His letter highlights how autonomous AI models could escalate cyber-disruption and undermine market confidence across jurisdictions.</p><p>AI-driven cyber-risks may be amplified by highly concentrated third-party service providers, increasing the speed and scale of potential attacks. Furthermore, high market valuations fueled by AI optimism, combined with increased leverage in bond and equity markets, may exacerbate future market corrections.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQFGgk7MuFopCQ/article-cover_image-shrink_720_1280/B4DZuS6k0pI8AI-/0/1767696410243?e=2147483647&v=beta&t=4y2uIqEHekvcRFjU5NMPpwV9MySXCT57J-GKPtJoVs4" /></p><hr/><small>31 Aug 2026, 17:02 UTC | #19656</small>]]></content>
+  </entry>
   <entry>
     <title>Itamar Novick and Simeon Simeonov Introduce Startup Anti-Pattern Series</title>
     <link href="https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/" rel="alternate" />

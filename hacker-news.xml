@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T11:41:00+00:00</updated>
+  <updated>2026-08-31T14:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Playa Phone Offers Free Calls at Burning Man</title>
+    <link href="https://playaphone.com/" rel="alternate" />
+    <id>https://playaphone.com/::v237</id>
+    <published>2026-08-31T14:53:00+00:00</published>
+    <updated>2026-08-31T14:53:00+00:00</updated>
+    <media:thumbnail url="https://obnoxiousantiques.com/wp-content/uploads/2025/10/IMG_1206-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://playaphone.com/">playaphone.com</a> | <a href="https://news.ycombinator.com/item?id=49510514">hacker news</a></small></p><hr/><p>A phone booth at Burning Man allows attendees to make free five-minute calls to nearly any phone number in the world. Located at the intersection of 3:30 and Celba in Black Rock City, the booth facilitates connections between participants and their loved ones or random passersby.</p><p>The installation uses modified internals to route calls over the internet instead of traditional payphone systems. This setup removes the requirement for payment and provides a unique communication medium within the festival environment.</p><p><img src="https://obnoxiousantiques.com/wp-content/uploads/2025/10/IMG_1206-1.jpg" /></p><hr/><small>31 Aug 2026, 17:06 UTC | #19692</small>]]></content>
+  </entry>
   <entry>
     <title>VibeCoded AI-Slop License v1.0 Released</title>
     <link href="https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6" rel="alternate" />
