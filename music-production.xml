@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-08-30T23:01:00+00:00</updated>
+  <updated>2026-08-30T23:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Remi Blaze Releases Clampit Free Mastering Limiter for macOS</title>
+    <link href="https://www.kvraudio.com/news/remi-blaze-releases-clampit---free-mastering-limiter-for-macos-68284?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68284" rel="alternate" />
+    <id>https://www.kvraudio.com/news/remi-blaze-releases-clampit---free-mastering-limiter-for-macos-68284?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68284::v237</id>
+    <published>2026-08-30T23:05:00+00:00</published>
+    <updated>2026-08-30T23:05:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/clampit-kvr-box.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/remi-blaze-releases-clampit---free-mastering-limiter-for-macos-68284?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68284">kvraudio.com</a> | <a href="https://www.remiblaze.com/plugins/clampit/">source</a></small></p><hr/><p>This free macOS 15.0+ mastering limiter is available in AU, VST3, and Standalone formats. It incorporates a "Constant Loudness" mechanism and loudness-matched bypass to allow for accurate parameter comparison without deceptive volume increases.</p><p>Controls include adjustable ceiling, release, and lookahead, alongside three knee profiles: Knock, Glue, and Clobber. The software also provides 4x polyphase IIR oversampling, BS.1770 K-weighted LUFS metering, and a simplified one-knob companion called Clampit Raw.</p><p><img src="https://static.kvraudio.com/i/b/clampit-kvr-box.png" /></p><hr/><small>31 Aug 2026, 06:47 UTC | #19645</small>]]></content>
+  </entry>
+  <entry>
+    <title>Devproaudio Updates Reverside Plugin to v1.0.1</title>
+    <link href="https://www.kvraudio.com/news/devproaudio-updates-reverside-to-v1-0-1---gpu-rendering-optimization-and-daw-audio-fixes-68290?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68290" rel="alternate" />
+    <id>https://www.kvraudio.com/news/devproaudio-updates-reverside-to-v1-0-1---gpu-rendering-optimization-and-daw-audio-fixes-68290?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68290::v237</id>
+    <published>2026-08-30T23:04:00+00:00</published>
+    <updated>2026-08-30T23:04:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/reverside_page_main_compact.1784900954.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/devproaudio-updates-reverside-to-v1-0-1---gpu-rendering-optimization-and-daw-audio-fixes-68290?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68290">kvraudio.com</a> | <a href="https://devproaudio.com/news.html">source</a></small></p><hr/><p>Devproaudio has released version 1.0.1 of its Reverside 3D spatial reverb plugin. The update includes GPU rendering optimizations that reduce idle usage by 3–4X and improve UI responsiveness. It also resolves audio crackling during automation in Bitwig and Cubase, fixes memory leaks, and corrects stereo-to-mono output configurations.</p><p>Reverside uses a dual-engine algorithmic reverb and a 3D positioning system based on listener placement and spatial geometry. The v1.0.1 update allows for up to three simultaneous demo instances and includes a redesigned audio player on the developer's website. The plugin is available for $135/€120, with free access for select legacy SpinAudio and 2CAudio customers.</p><p><img src="https://static.kvraudio.com/i/b/reverside_page_main_compact.1784900954.png" /></p><hr/><small>31 Aug 2026, 06:43 UTC | #19644</small>]]></content>
+  </entry>
   <entry>
     <title>Stemwire Releases Mica Synthesizer</title>
     <link href="https://www.kvraudio.com/news/stemwire-releases-mica---synthesizer-with-experimental-sound-sources-68295?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68295" rel="alternate" />
