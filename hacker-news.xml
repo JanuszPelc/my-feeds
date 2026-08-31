@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T22:55:00+00:00</updated>
+  <updated>2026-08-30T22:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Anthropic Warns of Infostealer Malware Hijacking Claude Sessions</title>
+    <link href="https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/" rel="alternate" />
+    <id>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/::v237</id>
+    <published>2026-08-30T22:56:00+00:00</published>
+    <updated>2026-08-30T22:56:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E12AQHdeWA3YRWplg/article-cover_image-shrink_720_1280/B4EZ2HRd7NGcAI-/0/1776091001767?e=2147483647&amp;v=beta&amp;t=2OmId0TCCrq_gUCW6QuV_mc4XlJ8qbqbbz4OteLIEq4" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/">bleepingcomputer.com</a></small></p><hr/><p>Attackers are using infostealer malware to hijack active Claude login sessions, allowing them to bypass authentication and consume account usage, according to Anthropic. This malware typically arrives through malicious downloads or pirated software, stealing authenticated browser session tokens to grant access without requiring passwords or two-factor authentication.</p><p>Identified malware families include Vidar, LummaC2, StealC, RedLine, Acreed, and Atomic Stealer. Anthropic is responding by revoking compromised sessions, removing saved payment methods, and refunding unauthorized charges. The malware is general-purpose software that collects local credentials and is not a vulnerability within the Claude platform itself.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E12AQHdeWA3YRWplg/article-cover_image-shrink_720_1280/B4EZ2HRd7NGcAI-/0/1776091001767?e=2147483647&v=beta&t=2OmId0TCCrq_gUCW6QuV_mc4XlJ8qbqbbz4OteLIEq4" /></p><hr/><small>31 Aug 2026, 05:01 UTC | #19619</small>]]></content>
+  </entry>
   <entry>
     <title>Omniflake Bundles 12,000 Nix Flakes Into a Single Input</title>
     <link href="https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all" rel="alternate" />
