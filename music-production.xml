@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-08-31T17:07:00+00:00</updated>
+  <updated>2026-08-31T17:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Schallenberg Engineering Releases Free Collision: Bongos Kontakt Library</title>
+    <link href="https://bedroomproducersblog.com/2026/08/31/schallenberg-engineering-collision-bongos/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/08/31/schallenberg-engineering-collision-bongos/::v237</id>
+    <published>2026-08-31T17:10:00+00:00</published>
+    <updated>2026-08-31T17:10:00+00:00</updated>
+    <media:thumbnail url="https://static.wixstatic.com/media/75835c_c2ab4a2b7f944f4bb73685d8b066f8e1~mv2.jpg/v1/fill/w_517,h_317,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/75835c_c2ab4a2b7f944f4bb73685d8b066f8e1~mv2.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/08/31/schallenberg-engineering-collision-bongos/">bedroomproducersblog.com</a> | <a href="https://schallenberg-engineering.com/products/collision-bongos">source</a> | <a href="https://bedroomproducersblog.com/2026/08/31/schallenberg-engineering-collision-bongos/#respond">discussion</a></small></p><hr/><p>Schallenberg Engineering has released Collision: Bongos, a free sample library for the full version of Native Instruments Kontakt. The collection is part of the developer's Collision Series, consisting of percussion and drum recordings that were separated from larger, commercial library packages.</p><p>The library provides organic bongo textures for music production and scoring. Because the samples have a 21ms onset, users are advised to set a -21ms track delay to ensure accurate playback.</p><p><img src="https://static.wixstatic.com/media/75835c_c2ab4a2b7f944f4bb73685d8b066f8e1~mv2.jpg/v1/fill/w_517,h_317,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/75835c_c2ab4a2b7f944f4bb73685d8b066f8e1~mv2.jpg" /></p><hr/><small>31 Aug 2026, 21:46 UTC | #19707</small>]]></content>
+  </entry>
   <entry>
     <title>Raccoon Audio Releases RoboComp Stereo Character Compressor</title>
     <link href="https://bedroomproducersblog.com/2026/08/31/raccoon-audio-robocomp/" rel="alternate" />
