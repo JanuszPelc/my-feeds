@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-08-30T16:20:00+00:00</updated>
+  <updated>2026-08-31T04:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>SAT Solvers Identify Smallest Countermodels for Tarski's High School Algebra Problem</title>
+    <link href="https://arxiv.org/abs/2608.08421" rel="alternate" />
+    <id>https://arxiv.org/abs/2608.08421::v237</id>
+    <published>2026-08-31T04:18:00+00:00</published>
+    <updated>2026-08-31T04:18:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/uJqbHaFqjmI/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arxiv.org/abs/2608.08421">arxiv.org</a> | <a href="https://lobste.rs/s/syxqrd/sat_attack_on_tarski_s_high_school_algebra">discussion</a> | <a href="https://news.ycombinator.com/item?id=49268565">hacker news</a></small></p><hr/><p>Researchers have used SAT solvers to resolve a long-standing question regarding Tarski's high school algebra problem by determining the size of the smallest possible countermodels. The study proves that the minimum size for these countermodels is 12 elements, validating a prior conjecture by Burris and Yeats.</p><p>The methodology identified 8,957,952 distinct countermodels of size 12 up to isomorphism and provided a classification for them. This SAT-based approach outperformed existing specialized tools such as Mace4 and SEM, and the results were formally verified using the Lean theorem prover.</p><p><img src="https://i.ytimg.com/vi/uJqbHaFqjmI/maxresdefault.jpg" /></p><hr/><small>31 Aug 2026, 08:53 UTC | #19651</small>]]></content>
+  </entry>
   <entry>
     <title>The Challenges of Scaling Organizations and Communities</title>
     <link href="https://tzovar.as/scaling-up-and-on-being-the-right-size/" rel="alternate" />

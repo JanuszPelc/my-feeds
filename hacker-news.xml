@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T04:11:00+00:00</updated>
+  <updated>2026-08-31T04:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>InferenceFS GitHub Repository Describes a Data-Free Filesystem</title>
+    <link href="https://github.com/philipl/inferencefs/" rel="alternate" />
+    <id>https://github.com/philipl/inferencefs/::v237</id>
+    <published>2026-08-31T04:17:00+00:00</published>
+    <updated>2026-08-31T04:17:00+00:00</updated>
+    <media:thumbnail url="https://llm-d.ai/img/blogs/inference-scheduling/image01.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/philipl/inferencefs/">github.com</a> | <a href="https://lobste.rs/s/jwicvz/inferencefs_never_worry_about_data_again">discussion</a></small></p><hr/><p>The InferenceFS GitHub repository presents a satirical FUSE filesystem that generates file contents on demand from a filename using large language models. The README describes it as a successor to πfs and says the mount exposes ordinary files while caching inferred contents and supporting Claude, Claude Code CLI, and Gemini backends.</p><p>The project frames itself as a compression scheme that stores only directory structure and filenames, claims support for text and binary outputs, and says writes are discarded. Its quick-start instructions cover installation from PyPI or source and mounting a source tree with backend-specific API key or CLI authentication.</p><p><img src="https://llm-d.ai/img/blogs/inference-scheduling/image01.webp" /></p><hr/><small>31 Aug 2026, 08:50 UTC | #19650</small>]]></content>
+  </entry>
   <entry>
     <title>Using M4 and Sed to Simplify Httpd Configurations</title>
     <link href="https://nemin.hu/httpd-macros/index.html" rel="alternate" />
