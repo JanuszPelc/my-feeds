@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T04:22:00+00:00</updated>
+  <updated>2026-08-31T06:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>U.S. Territories and ISO 3166 Country Codes</title>
+    <link href="https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to" rel="alternate" />
+    <id>https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to::v237</id>
+    <published>2026-08-31T06:14:00+00:00</published>
+    <updated>2026-08-31T06:14:00+00:00</updated>
+    <media:thumbnail url="https://okfnlabs.org/img/posts/country-codes.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to">trevmex.com</a> | <a href="https://lobste.rs/s/ngqpa1/u_s_is_more_than_just_us_according_iso">discussion</a></small></p><hr/><p>The article explains why a streaming service that targets only the U.S. can still run into location issues in Puerto Rico: geofencing systems often rely on ISO 3166 country codes, and Puerto Rico has its own code rather than being folded into US. It argues that ISO 3166 is not just a country list but a standard that also covers subdivisions and related territories.</p><p>It walks through the practical consequence for “U.S.-only” access rules, noting that a strict ISO-based allowlist may need to include US, PR, VI, GU, AS, MP, and UM. The post uses that example to show how standards data can differ from everyday assumptions about what counts as “the United States.”</p><p><img src="https://okfnlabs.org/img/posts/country-codes.png" /></p><hr/><small>31 Aug 2026, 11:39 UTC | #19662</small>]]></content>
+  </entry>
   <entry>
     <title>Rootless Docker and Its Security Trade-Offs</title>
     <link href="https://www.kenmuse.com/blog/rootless-docker-and-its-hidden-security-trade-offs/" rel="alternate" />
