@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T15:32:00+00:00</updated>
+  <updated>2026-08-31T16:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>BirdNet-Go Automates Bird Identification Using Security Camera Audio</title>
+    <link href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/" rel="alternate" />
+    <id>https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/::v237</id>
+    <published>2026-08-31T16:48:00+00:00</published>
+    <updated>2026-08-31T16:48:00+00:00</updated>
+    <media:thumbnail url="https://jasontucker.blog/content/images/2026/06/CleanShot-2026-06-04-at-11.22.22.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/">jasontucker.blog</a> | <a href="https://news.ycombinator.com/item?id=49511856">hacker news</a></small></p><hr/><p>Jason Tucker uses BirdNet-Go to transform existing security cameras into an automated wildlife identification system. By streaming audio from IP cameras via RTSP, the setup performs real-time AI inference locally using Docker, enabling continuous monitoring of birds, bats, and other animals without cloud-based processing.</p><p>The implementation supports custom alerting via Discord and Home Assistant through MQTT and includes species novelty tracking to monitor local biodiversity. The system also allows users to share detection data with the BirdWeather community platform.</p><p><img src="https://jasontucker.blog/content/images/2026/06/CleanShot-2026-06-04-at-11.22.22.png" /></p><hr/><small>31 Aug 2026, 19:45 UTC | #19712</small>]]></content>
+  </entry>
   <entry>
     <title>B-Level Scheduling Outperforms Cargo's Default Build Scheduler</title>
     <link href="https://spirali.github.io/blog/cargo-scheduler/" rel="alternate" />
