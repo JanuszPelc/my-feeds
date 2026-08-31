@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T10:39:00+00:00</updated>
+  <updated>2026-08-31T10:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Servo Releases Version 0.5.0 with New Web Platform Features</title>
+    <link href="https://servo.org/blog/2026/08/31/july-in-servo/" rel="alternate" />
+    <id>https://servo.org/blog/2026/08/31/july-in-servo/::v237</id>
+    <published>2026-08-31T10:56:00+00:00</published>
+    <updated>2026-08-31T10:56:00+00:00</updated>
+    <media:thumbnail url="https://servo.org/img/blog/2026-08-diffie.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://servo.org/blog/2026/08/31/july-in-servo/">servo.org</a> | <a href="https://lobste.rs/s/8gved6/july_servo_more_platforms_faster_canvas">discussion</a></small></p><hr/><p>Servo's version 0.5.0 release includes 488 commits and expands support to Linux aarch64 binaries. This update brings visible DOM text selection, new WebCrypto algorithms (Ed448, X448, and KMAC), and CSS properties such as `text-decoration-thickness` and `box-decoration-break`.</p><p>The update addresses security vulnerabilities in `quick-xml` and `crossbeam-epoch` and improves rendering for websites like DuckDuckGo and Gumroad. Future work includes implementing WebVTT for subtitles, advancing WebGPU conformance, and optimizing the accessibility tree for faster DOM mutations.</p><p><img src="https://servo.org/img/blog/2026-08-diffie.png" /></p><hr/><small>31 Aug 2026, 14:04 UTC | #19663</small>]]></content>
+  </entry>
   <entry>
     <title>MITRE Rejects Request for CVE Assignment for curl Hostname Bug</title>
     <link href="https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/" rel="alternate" />
