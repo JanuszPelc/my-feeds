@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-08-31T10:00:00+00:00</updated>
+  <updated>2026-08-31T16:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Gamescom Equipment Thefts Target Indie Developers and Publishers</title>
+    <link href="https://www.gamedeveloper.com/business/indie-devs-and-publishers-hit-in-gamescom-equipment-thefts" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/indie-devs-and-publishers-hit-in-gamescom-equipment-thefts::v237</id>
+    <published>2026-08-31T16:53:00+00:00</published>
+    <updated>2026-08-31T16:53:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf1347a8148088d5b/6a959614e92a351b4a30cb57/gamescomentrancefeatured.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/indie-devs-and-publishers-hit-in-gamescom-equipment-thefts">gamedeveloper.com</a></small></p><hr/><p>Multiple independent developers and publishers, including Tessera Studios and iam8bit, reported the theft of laptops and Steam Decks from their booths during Gamescom 2026. The incidents occurred in the general business area and the Indie Arena, with some victims reporting the loss of devices containing critical company and personal information.</p><p>Gamescom organizers stated that while general security is provided, exhibitors are responsible for individual stand security and should insure their equipment. This response has faced industry criticism, especially amid allegations from Ukiyo Studios that organizers have previously discouraged filing police reports to protect the event's and the city's reputation.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf1347a8148088d5b/6a959614e92a351b4a30cb57/gamescomentrancefeatured.png?width=720&quality=80&disable=upscale" /></p><hr/><small>31 Aug 2026, 20:19 UTC | #19679</small>]]></content>
+  </entry>
   <entry>
     <title>OpenShot Releases Version 4.0 with Color Grading and Recording Features</title>
     <link href="https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/" rel="alternate" />
