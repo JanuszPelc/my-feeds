@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T18:24:00+00:00</updated>
+  <updated>2026-08-30T22:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>rs1n Used Manual Word Choice to Achieve Monospace Justification in Super Metroid Guide</title>
+    <link href="https://unsung.aresluna.org/i-just-chose-words-carefully/" rel="alternate" />
+    <id>https://unsung.aresluna.org/i-just-chose-words-carefully/::v237</id>
+    <published>2026-08-30T22:50:00+00:00</published>
+    <updated>2026-08-30T22:50:00+00:00</updated>
+    <media:thumbnail url="https://rstgames.fr/wp-content/uploads/2025/07/DSC06464-scaled.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://unsung.aresluna.org/i-just-chose-words-carefully/">unsung.aresluna.org</a> | <a href="https://gamefaqs.gamespot.com/snes/588741-super-metroid/faqs/10114">source</a> | <a href="https://news.ycombinator.com/item?id=49503601">hacker news</a></small></p><hr/><p>Typesetting text in monospace fonts creates alignment challenges for centering and full justification. To achieve perfectly even margins without the use of hyphenation or extra spaces, the author rs1n manually selected words to ensure each line reached the exact same character count.</p><p>This technique was used for a 17,000-word Super Metroid guide on GameFAQs in the late 1990s. The precision required to maintain perfect right-side margins in a digital ASCII editor is a rare example of manual typographic control in online writing.</p><p><img src="https://rstgames.fr/wp-content/uploads/2025/07/DSC06464-scaled.jpg" /></p><hr/><small>31 Aug 2026, 00:53 UTC | #19630</small>]]></content>
+  </entry>
   <entry>
     <title>Determining Total Host Processors in .NET</title>
     <link href="https://csharpdigest.net/links/23124/rss" rel="alternate" />
