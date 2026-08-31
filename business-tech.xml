@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-31T21:13:00+00:00</updated>
+  <updated>2026-08-31T21:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>UK Unveils £100M Sovereign AI Procurement Scheme for Domestic Startups</title>
+    <link href="https://www.ft.com/content/5a10fc78-9a3e-4f12-81e3-dc843b529948" rel="alternate" />
+    <id>https://www.ft.com/content/5a10fc78-9a3e-4f12-81e3-dc843b529948::v237</id>
+    <published>2026-08-31T21:14:00+00:00</published>
+    <updated>2026-08-31T21:14:00+00:00</updated>
+    <media:thumbnail url="https://fourweekmba.com/wp-content/uploads/2026/01/pattern-6-sovereign-ai.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/5a10fc78-9a3e-4f12-81e3-dc843b529948">ft.com</a> | <a href="https://www.gov.uk/government/news/100-million-competition-to-back-british-ai-companies-to-fix-public-services">source</a></small></p><hr/><p>The UK government has launched a £100 million Sovereign AI R&amp;D Procurement Scheme to support domestic artificial intelligence startups. The initiative funds "demonstrator-stage" technologies, targeting companies ready to test solutions in real-world operational environments rather than those in early research phases.</p><p>The announcement follows growing opposition to government contracts with US software firm Palantir. The scheme's initial procurement competitions will focus on applications for the NHS, national defense, cybersecurity, and computing efficiency.</p><p><img src="https://fourweekmba.com/wp-content/uploads/2026/01/pattern-6-sovereign-ai.png" /></p><hr/><small>31 Aug 2026, 23:16 UTC | #19686</small>]]></content>
+  </entry>
   <entry>
     <title>MapQuest Reaches Top of App Store Charts After Refusing to Rename Lake Ontario</title>
     <link href="https://www.macrumors.com/2026/08/31/mapquest-tops-app-store-charts/" rel="alternate" />
