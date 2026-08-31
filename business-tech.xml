@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-31T17:00:00+00:00</updated>
+  <updated>2026-08-31T17:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Together AI Partners with Humain for Data Center Infrastructure in Saudi Arabia</title>
+    <link href="https://www.nytimes.com/2026/08/31/business/dealbook/together-ai-humain-saudi-arabia-data-center.html?unlocked_article_code=1.9lA.oOPI.h2UKXnt1l8Cz" rel="alternate" />
+    <id>https://www.nytimes.com/2026/08/31/business/dealbook/together-ai-humain-saudi-arabia-data-center.html?unlocked_article_code=1.9lA.oOPI.h2UKXnt1l8Cz::v237</id>
+    <published>2026-08-31T17:13:00+00:00</published>
+    <updated>2026-08-31T17:13:00+00:00</updated>
+    <media:thumbnail url="https://static01.nyt.com/images/2026/08/31/multimedia/31db-saudi-data-center-phooto-mqcf/31db-saudi-data-center-phooto-mqcf-superJumbo.jpg?quality=75&amp;auto=webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/08/31/business/dealbook/together-ai-humain-saudi-arabia-data-center.html?unlocked_article_code=1.9lA.oOPI.h2UKXnt1l8Cz">nytimes.com</a> | <a href="https://pressreleasehub.pa.media/article/together-ai-and-humain-form-strategic-partnership-to-accelerate-ai-infrastructure-and-cloud-services-in-saudi-arabia-81899.html">source</a></small></p><hr/><p>Together AI has signed a deal to utilize computing resources from Humain in Saudi Arabia. The partnership includes the construction of a 250-megawatt data center to expand the company's cloud and inference capabilities for its open-source AI models.</p><p>The project is expected to generate over $5 billion in annualized revenue and involves the deployment of 120,000 AI chips. By expanding into the kingdom, the San Francisco-based startup can increase its infrastructure capacity while sidestepping regulatory and social backlash regarding data center development in the United States.</p><p><img src="https://static01.nyt.com/images/2026/08/31/multimedia/31db-saudi-data-center-phooto-mqcf/31db-saudi-data-center-phooto-mqcf-superJumbo.jpg?quality=75&auto=webp" /></p><hr/><small>31 Aug 2026, 22:19 UTC | #19681</small>]]></content>
+  </entry>
   <entry>
     <title>Instagram to Demote Unlabeled AI-Generated Profile Accounts</title>
     <link href="https://www.engadget.com/2246914/instagram-will-demote-ai-generated-influencers-if-they-dont-clearly-label-their-account/" rel="alternate" />
