@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-30T22:56:00+00:00</updated>
+  <updated>2026-08-30T22:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Dekoodaaja Provides Fast QOI Image Decoders</title>
+    <link href="https://github.com/sorvi-platform/dekoodaaja" rel="alternate" />
+    <id>https://github.com/sorvi-platform/dekoodaaja::v237</id>
+    <published>2026-08-30T22:59:00+00:00</published>
+    <updated>2026-08-30T22:59:00+00:00</updated>
+    <media:thumbnail url="https://media.geeksforgeeks.org/wp-content/uploads/decoder-2x4.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/sorvi-platform/dekoodaaja">github.com</a> | <a href="https://lobste.rs/s/wdke4a/small_reasonably_fast_qoi_decoder">discussion</a></small></p><hr/><p>Dekoodaaja is a software library designed to provide high-performance decoders for various image formats, with current support limited to the QOI (Quite OK Image) format. The project focuses on maximizing throughput and minimizing latency during the decoding process.</p><p>Performance benchmarks conducted on an AMD Ryzen 7 3700X indicate that Dekoodaaja outperforms several existing QOI implementations, such as qoi-simd and zig-qoi, in both read/write speeds and execution time. The library demonstrates significant throughput advantages across different optimization settings, including ReleaseFast and ReleaseSmall builds.</p><p><img src="https://media.geeksforgeeks.org/wp-content/uploads/decoder-2x4.jpg" /></p><hr/><small>31 Aug 2026, 06:01 UTC | #19640</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Warns of Infostealer Malware Hijacking Claude Sessions</title>
     <link href="https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/" rel="alternate" />
