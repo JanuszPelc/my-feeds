@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T15:27:00+00:00</updated>
+  <updated>2026-08-31T15:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>B-Level Scheduling Outperforms Cargo's Default Build Scheduler</title>
+    <link href="https://spirali.github.io/blog/cargo-scheduler/" rel="alternate" />
+    <id>https://spirali.github.io/blog/cargo-scheduler/::v237</id>
+    <published>2026-08-31T15:32:00+00:00</published>
+    <updated>2026-08-31T15:32:00+00:00</updated>
+    <media:thumbnail url="https://spirali.github.io/blog/cargo-scheduler/walltimes.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://spirali.github.io/blog/cargo-scheduler/">spirali.github.io</a> | <a href="https://lobste.rs/s/by7xg6/could_cargo_s_scheduler_be_better">discussion</a></small></p><hr/><p>An analysis of the Rust Cargo build system demonstrates that a "b-level" (bottom level) scheduling algorithm can significantly reduce build times compared to the default configuration. By analyzing dependency graphs derived from syscall traces, the study compares scheduling efficiency across 17 projects under varying levels of parallelism.</p><p>The b-level approach, which prioritizes tasks on the critical path, remains effective even when task durations are estimated with high noise or reduced to a single "short/long" bit. These findings suggest that simple timing databases could provide substantial build optimizations with minimal data complexity.</p><p><img src="https://spirali.github.io/blog/cargo-scheduler/walltimes.png" /></p><hr/><small>31 Aug 2026, 19:30 UTC | #19708</small>]]></content>
+  </entry>
   <entry>
     <title>The History and Evolution of Matrox</title>
     <link href="https://www.abortretry.fail/p/matrox" rel="alternate" />
