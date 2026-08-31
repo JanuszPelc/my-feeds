@@ -3,7 +3,43 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-08-31T10:49:04.882405+00:00</updated>
+  <updated>2026-08-31T06:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Steam2 Teraleak Exposes Decades of Lost Valve and Third-Party Game Content</title>
+    <link href="https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/" rel="alternate" />
+    <id>https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/::v237</id>
+    <published>2026-08-31T06:11:00+00:00</published>
+    <updated>2026-08-31T06:11:00+00:00</updated>
+    <media:thumbnail url="https://www.a90skid.com/wp-content/uploads/2026/08/production-post-1788041297.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/">arstechnica.com</a> | <a href="https://news.ycombinator.com/item?id=49506182">hacker news</a></small></p><hr/><p>A 12TB archive containing content from Valve’s defunct Steam2 server architecture has surfaced via a BitTorrent tracker. This collection includes thousands of "depots" encompassing public releases, pre-release builds, prototypes, and playtest versions of numerous titles from the period between 2003 and 2013. Data miners report that the files were likely obtained via a publicly accessible and unprotected API endpoint.</p><p>The leak features significant assets from major franchises, such as cut dialogue and mechanics from Portal 2 and files potentially related to a Half-Life 2: Episode 3 expansion. Beyond Valve's software, the archive contains early versions of third-party titles like Spore and Dragon Age: Origins. The event highlights both the potential for massive data loss in software lifecycles and the legal risks associated with the distribution of third-party intellectual property.</p><p><img src="https://www.a90skid.com/wp-content/uploads/2026/08/production-post-1788041297.jpg" /></p><hr/><small>31 Aug 2026, 11:22 UTC | #19661</small>]]></content>
+  </entry>
+  <entry>
+    <title>Red Hook Studios Explains Art-Led Procedural Generation for Darkest Dungeon 2</title>
+    <link href="https://www.youtube.com/watch?v=9j3I3owY8a8" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=9j3I3owY8a8::v237</id>
+    <published>2026-08-29T02:48:00+00:00</published>
+    <updated>2026-08-29T02:48:00+00:00</updated>
+    <media:thumbnail url="https://i2.ytimg.com/vi/9j3I3owY8a8/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=9j3I3owY8a8">youtube.com</a> | <a href="https://gdcvault.com/play/1035493/Evolving-Worlds-from-the-Crumbling">source</a></small></p><hr/><p>Red Hook Studios' Darkest Dungeon 2 utilizes an art-led procedural generation system to balance a specific visual style with gameplay replayability. To avoid the high labor costs and visual repetition of an initial "sequential plate" approach, the development team transitioned to a modular hex-based grid system.</p><p>This system generates interconnected nodes and branching paths that facilitate strategic decision-making. By using smaller tiles, the developers were able to increase visual variety and maintain the game's signature ink-heavy, painterly aesthetic across different biomes.</p><p><img src="https://i2.ytimg.com/vi/9j3I3owY8a8/hqdefault.jpg" /></p><hr/><small>29 Aug 2026, 10:08 UTC | #19520</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenTIE Reimplementation of Star Wars: TIE Fighter for Windows, macOS, and Linux</title>
+    <link href="https://github.com/elyosh/OpenTIE/" rel="alternate" />
+    <id>https://github.com/elyosh/OpenTIE/::v237</id>
+    <published>2026-08-28T21:02:00+00:00</published>
+    <updated>2026-08-28T21:02:00+00:00</updated>
+    <media:thumbnail url="https://i.pinimg.com/originals/47/17/b7/4717b7ec3f78e0e0708fcc15e2dca03c.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/elyosh/OpenTIE/">github.com</a> | <a href="https://news.ycombinator.com/item?id=49471965">hacker news</a></small></p><hr/><p>OpenTIE is an open-source reimplementation of Star Wars: TIE Fighter designed for Windows, macOS, and Linux. It runs original game data natively and allows users to combine assets from the 1995 Collector's CD-ROM and the 1998 Windows release, such as the 1995 adaptive iMUSE soundtrack and menus with the 1998 flight simulation.</p><p>Modernization features include ambient occlusion, bloom, HDR output, and AMD FidelityFX FSR 3.1.4 upscaling. The software supports high-refresh-rate displays up to 240 Hz and provides compatibility for modern gamepads and joysticks.</p><p><img src="https://i.pinimg.com/originals/47/17/b7/4717b7ec3f78e0e0708fcc15e2dca03c.png" /></p><hr/><small>29 Aug 2026, 03:32 UTC | #19496</small>]]></content>
+  </entry>
+  <entry>
+    <title>Experimental NVIDIA DLSS 5 Mod Active in Multiple Games</title>
+    <link href="https://videocardz.com/newz/experimental-nvidia-dlss-5-mod-already-running-in-more-than-a-dozen-games-including-cyberpunk-2077-and-even-gta-v" rel="alternate" />
+    <id>https://videocardz.com/newz/experimental-nvidia-dlss-5-mod-already-running-in-more-than-a-dozen-games-including-cyberpunk-2077-and-even-gta-v::v237</id>
+    <published>2026-08-28T20:35:00+00:00</published>
+    <updated>2026-08-28T20:35:00+00:00</updated>
+    <media:thumbnail url="https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/dlss5-breakthrough-in-visual-fidelity-for-games/how-nvidia-dlss-5-works.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://videocardz.com/newz/experimental-nvidia-dlss-5-mod-already-running-in-more-than-a-dozen-games-including-cyberpunk-2077-and-even-gta-v">videocardz.com</a></small></p><hr/><p>Modders have successfully integrated an experimental NVIDIA DLSS 5 Neural Rendering library into more than a dozen games, including Cyberpunk 2077, Red Dead Redemption 2, and Grand Theft Auto V. The implementation utilizes a DLL discovered in the NBA 2K27 early access build and connects it to various rendering pipelines using the RenoDX modding framework, allowing the tech to run in titles without native support.</p><p>Current tests indicate a heavy performance penalty, with some scenarios seeing frame rates drop by nearly 50% on RTX 50-series hardware. While NVIDIA's official implementation is expected to include specialized controls for color grading and lighting intensity, these community mods serve as an unoptimized demonstration of the unreleased technology.</p><p><img src="https://www.nvidia.com/content/dam/en-zz/nvidiaweb/geforce/news/dlss5-breakthrough-in-visual-fidelity-for-games/how-nvidia-dlss-5-works.jpg" /></p><hr/><small>29 Aug 2026, 01:05 UTC | #19476</small>]]></content>
+  </entry>
 </feed>
