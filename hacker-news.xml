@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T16:57:00+00:00</updated>
+  <updated>2026-08-31T17:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Distinction Between Synchronous Cancelation, Asynchronous Cancelation, and Graceful Shutdown</title>
+    <link href="https://matklad.github.io/2026/08/31/cancelation-terminology.html" rel="alternate" />
+    <id>https://matklad.github.io/2026/08/31/cancelation-terminology.html::v237</id>
+    <published>2026-08-31T17:03:00+00:00</published>
+    <updated>2026-08-31T17:03:00+00:00</updated>
+    <media:thumbnail url="https://mapticket.net/wp-content/uploads/what-are-eamples-of-companies-with-fleible-cancellation-policies-6.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://matklad.github.io/2026/08/31/cancelation-terminology.html">matklad.github.io</a> | <a href="https://lobste.rs/s/49hbhi/cancelation_terminology">discussion</a></small></p><hr/><p>This article distinguishes between three distinct software engineering concepts: synchronous cancelation as an implicit control flow structure for unwinding the stack; asynchronous cancelation as a communication protocol requiring mutual acknowledgment; and graceful shutdown as an application-level design pattern for managing service connections.</p><p>Using implementations from the TigerBeetle database, the author demonstrates how these patterns apply to low-level tasks like io_uring syscalls and state synchronization. The text argues that identifying these concepts early is critical for managing concurrency, resource lifecycles, and preventing data races in distributed systems.</p><p><img src="https://mapticket.net/wp-content/uploads/what-are-eamples-of-companies-with-fleible-cancellation-policies-6.webp" /></p><hr/><small>31 Aug 2026, 21:07 UTC | #19720</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Invests $3.5B in MediaTek to Support Custom AI Chip Development</title>
     <link href="https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/" rel="alternate" />
