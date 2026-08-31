@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T06:14:00+00:00</updated>
+  <updated>2026-08-31T09:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Prela Query Language Overview and Python Tutorial</title>
+    <link href="https://prela-lang.org/tutorial/" rel="alternate" />
+    <id>https://prela-lang.org/tutorial/::v237</id>
+    <published>2026-08-31T09:11:00+00:00</published>
+    <updated>2026-08-31T09:11:00+00:00</updated>
+    <media:thumbnail url="https://blog.devart.com/wp-content/uploads/2021/10/track-relations-1024x725.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://prela-lang.org/tutorial/">prela-lang.org</a> | <a href="https://arxiv.org/abs/2607.26356">source</a> | <a href="https://lobste.rs/s/xnljk9/better_sql_11_lines_code">discussion</a> | <a href="https://news.ycombinator.com/item?id=49491544">hacker news</a></small></p><hr/><p>Prela is a new query language under development at UCLA that utilizes binary relations and functional composition for data retrieval. By decomposing tables into two-column relations—a method known as Sixth Normal Form (6NF) decomposition—the language allows relations to be treated as nondeterministic functions that can be composed and chained.</p><p>The tutorial provides a Python-based implementation of a toy version of the language to demonstrate core operators, including relation composition, selection, and restriction. This design aims to provide a more algebraic foundation for relational databases, a concept expanded upon in a related research paper on the algebraic foundations of relational data.</p><p><img src="https://blog.devart.com/wp-content/uploads/2021/10/track-relations-1024x725.png" /></p><hr/><small>31 Aug 2026, 12:21 UTC | #19666</small>]]></content>
+  </entry>
   <entry>
     <title>U.S. Territories and ISO 3166 Country Codes</title>
     <link href="https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to" rel="alternate" />
