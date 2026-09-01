@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T17:59:00+00:00</updated>
+  <updated>2026-09-01T18:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Roku Launches First OLED TVs</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-01/roku-launches-its-first-oled-tvs-with-prices-starting-at-999" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-01/roku-launches-its-first-oled-tvs-with-prices-starting-at-999::v238</id>
+    <published>2026-09-01T18:04:00+00:00</published>
+    <updated>2026-09-01T18:04:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1CCNr8.img?w=1920&amp;h=1440&amp;m=4&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-01/roku-launches-its-first-oled-tvs-with-prices-starting-at-999">bloomberg.com</a> | <a href="https://www.roku.com/blog/new-oled-tvs">source</a></small></p><hr/><p>Roku has launched its first self-branded organic light emitting diode (OLED) smart TVs, the Pro Series OLED and the Pro Series LX OLED. Starting at $999, the new models feature high-refresh rate displays, thin bezels, and adjustable stands designed for soundbar integration and cable management.</p><p>The LX model provides a 144Hz refresh rate and higher peak brightness compared to the 120Hz standard Pro Series OLED. Both televisions support Dolby Vision and an automatic gaming mode.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1CCNr8.img?w=1920&h=1440&m=4&q=75" /></p><hr/><small>1 Sep 2026, 20:43 UTC | #19781</small>]]></content>
+  </entry>
   <entry>
     <title>Mozilla Introduces Built-in Ad Blocker for Firefox on iOS</title>
     <link href="https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/" rel="alternate" />
