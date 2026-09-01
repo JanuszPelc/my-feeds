@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T22:54:00+00:00</updated>
+  <updated>2026-09-01T00:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Kale Prototype Prevents Spreadsheet Reference Errors</title>
+    <link href="https://arxiv.org/abs/2608.26345" rel="alternate" />
+    <id>https://arxiv.org/abs/2608.26345::v237</id>
+    <published>2026-09-01T00:17:00+00:00</published>
+    <updated>2026-09-01T00:17:00+00:00</updated>
+    <media:thumbnail url="https://i.pinimg.com/736x/ea/e6/a4/eae6a4622b60bdfd876ff6f7f70ab162.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arxiv.org/abs/2608.26345">arxiv.org</a> | <a href="https://lobste.rs/s/tkrcrg/kale_transformation_safe_spreadsheet">discussion</a></small></p><hr/><p>Researchers have developed Kale, a prototype spreadsheet system designed to prevent errors caused by structural changes to referenced tables. By restricting the types of expressible references, the system prevents the unintended and incorrect cell updates that frequently occur in traditional spreadsheet software when users insert or move rows and columns.</p><p>User studies indicate that Kale allows users to complete spreadsheet tasks more effectively and with fewer errors than standard systems. The research also includes a corpus analysis to evaluate the extent to which these reference restrictions might affect the usability and flexibility of spreadsheet-based workflows.</p><p><img src="https://i.pinimg.com/736x/ea/e6/a4/eae6a4622b60bdfd876ff6f7f70ab162.jpg" /></p><hr/><small>1 Sep 2026, 05:48 UTC | #19743</small>]]></content>
+  </entry>
   <entry>
     <title>Darling: macOS Translation Layer for Linux</title>
     <link href="https://www.darlinghq.org/" rel="alternate" />
