@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-31T21:43:00+00:00</updated>
+  <updated>2026-08-31T21:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple Alleges Misuse of Stolen Schematics and Evidence Destruction in OpenAI Lawsuit</title>
+    <link href="https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/" rel="alternate" />
+    <id>https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/::v237</id>
+    <published>2026-08-31T21:49:00+00:00</published>
+    <updated>2026-08-31T21:49:00+00:00</updated>
+    <media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&amp;strip=all&amp;w=1600" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/">9to5mac.com</a> | <a href="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple_Inc_v_Liu_et_al__candce-26-07078__0094.1.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=49515738">hacker news</a></small></p><hr/><p>Apple has filed a new document in its trade secret lawsuit against OpenAI, claiming forensic analysis of a former engineer's MacBook provides evidence of misconduct. The filing alleges that former engineer Chang Liu used confidential Apple circuit schematics in his work at OpenAI and attempted to instruct a colleague to destroy evidence after learning of Apple's internal investigation.</p><p>Apple further claims that OpenAI was aware of unauthorized access to Apple's cloud storage and that Liu used a tool at OpenAI bearing the same name as an internal Apple engineering application. The company is seeking expedited discovery, arguing that feeding trade secrets into AI models can result in the irreversible and continuous propagation of proprietary information.</p><p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&w=1600" /></p><hr/><small>1 Sep 2026, 04:54 UTC | #19726</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon Rejects FTC Allegations Regarding Sponsored Ads Auctions</title>
     <link href="https://www.aboutamazon.com/company-news/amazon-ftc-sponsored-ads-lawsuit-response" rel="alternate" />
