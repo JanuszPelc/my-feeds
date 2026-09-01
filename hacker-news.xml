@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T00:17:00+00:00</updated>
+  <updated>2026-09-01T02:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Fastpotify Lightweight Spotify Client</title>
+    <link href="https://fastpotify.rocks/" rel="alternate" />
+    <id>https://fastpotify.rocks/::v237</id>
+    <published>2026-09-01T02:53:00+00:00</published>
+    <updated>2026-09-01T02:53:00+00:00</updated>
+    <media:thumbnail url="https://fastpotify.rocks/screenshot.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fastpotify.rocks/">fastpotify.rocks</a> | <a href="https://github.com/crmne/fastpotify">source</a> | <a href="https://news.ycombinator.com/item?id=49517448">hacker news</a></small></p><hr/><p>Fastpotify is a lightweight, native Spotify client for Linux, macOS, and Windows. Written in Rust and built without an embedded browser engine, the application ensures rapid startup and low memory consumption. It supports local playback, library management, and Spotify Connect controls.</p><p>The client includes a Winamp-style mini player compatible with classic .wsz skins from the Winamp Skin Museum. Users also have access to desktop-specific functionality, such as MPRIS media controls on Linux and a tray option for continuous playback after closing the main window.</p><p><img src="https://fastpotify.rocks/screenshot.png" /></p><hr/><small>1 Sep 2026, 06:33 UTC | #19745</small>]]></content>
+  </entry>
   <entry>
     <title>Kale Prototype Prevents Spreadsheet Reference Errors</title>
     <link href="https://arxiv.org/abs/2608.26345" rel="alternate" />
