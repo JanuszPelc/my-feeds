@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-08-31T21:31:00+00:00</updated>
+  <updated>2026-09-01T10:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Bit Reactor Furloughs Many Workers Ahead of Star Wars Zero Company Launch</title>
+    <link href="https://www.gamedeveloper.com/business/star-wars-zero-company-studio-furloughed-workers-ahead-of-launch" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/star-wars-zero-company-studio-furloughed-workers-ahead-of-launch::v238</id>
+    <published>2026-09-01T10:28:00+00:00</published>
+    <updated>2026-09-01T10:28:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt76fd3daae7573477/6a9699589be82339198e4ef4/SW_Zero_Company.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/star-wars-zero-company-studio-furloughed-workers-ahead-of-launch">gamedeveloper.com</a> | <a href="https://www.gamefile.news/p/star-wars-zero-company-bit-reactor-furloughs-lawsuit">source</a></small></p><hr/><p>Bit Reactor, the developer of the tactical combat game Star Wars Zero Company, confirmed it furloughed a significant number of workers prior to the title's August 27, 2026, release. The studio told Game File the decision to temporarily suspend employees without pay was made due to uncertainty regarding the game's launch performance.</p><p>Sources suggest the furloughs may have impacted as much as 80 percent of the Bit Reactor team, leaving a skeleton crew to manage post-launch support. While the EA-published title has reached bestseller status on Steam, former employees have alleged that the studio's actions included cutting staff off from profit-sharing and providing misleading information regarding their employment status.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt76fd3daae7573477/6a9699589be82339198e4ef4/SW_Zero_Company.png?width=720&quality=80&disable=upscale" /></p><hr/><small>1 Sep 2026, 14:32 UTC | #19758</small>]]></content>
+  </entry>
   <entry>
     <title>Sony Adds Free Ad-Supported TV Channels to PS5</title>
     <link href="https://www.engadget.com/2247806/sony-is-adding-free-tv-channels-to-ps5/" rel="alternate" />
