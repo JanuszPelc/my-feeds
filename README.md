@@ -20,8 +20,8 @@ into your feed reader to get everything at once, or add them one at a time:
 
 ## Worth knowing
 
-Titles and summaries are written by an agentic pipeline running mostly small local models,
-and nothing is reviewed by hand. Lead images are chosen by vision models and don't always
+Titles and summaries are written by an agentic pipeline running small local models, and
+nothing is reviewed by hand. Lead images are chosen by vision models and don't always
 match the story. Check anything that matters against the linked sources.
 
 The feeds here are automatically generated, so pull requests don't have anywhere to go.
