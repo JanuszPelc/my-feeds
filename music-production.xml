@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-01T16:02:00+00:00</updated>
+  <updated>2026-09-01T17:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Music Tech and Audio Production Job Openings</title>
+    <link href="https://musictech.com/guides/essential-guide/jobs-career-openings-in-music-tech-audio-production/" rel="alternate" />
+    <id>https://musictech.com/guides/essential-guide/jobs-career-openings-in-music-tech-audio-production/::v238</id>
+    <published>2026-09-01T17:55:00+00:00</published>
+    <updated>2026-09-01T17:55:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2025/12/Arturia-AstroLab-37-3-credit-press@1400x1050.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/guides/essential-guide/jobs-career-openings-in-music-tech-audio-production/">musictech.com</a></small></p><hr/><p>Career opportunities in the music technology and audio production industries are available for September 2026. Positions include sound design for Electronic Arts' *Star Wars Jedi* franchise, studio management roles at Sony Music and Avex Music Group, and audio engineering at Crooked. Also included are internships, AV repair technician roles, and administrative support positions.</p><p>These vacancies are distributed across several locations, including Los Angeles, West Hollywood, and Vancouver. They accommodate a diverse range of experience levels, from entry-level interns to experienced studio managers and technical engineers.</p><p><img src="https://musictech.com/wp-content/uploads/2025/12/Arturia-AstroLab-37-3-credit-press@1400x1050.jpg" /></p><hr/><small>1 Sep 2026, 19:17 UTC | #19785</small>]]></content>
+  </entry>
   <entry>
     <title>Nomz Studios Releases StemMaster for macOS</title>
     <link href="https://www.kvraudio.com/news/nomz-studios-brings-stemmaster-to-macos---now-at-v1-1-46-68322?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68322" rel="alternate" />
