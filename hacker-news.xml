@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T16:05:00+00:00</updated>
+  <updated>2026-09-01T17:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Mozilla Introduces Built-in Ad Blocker for Firefox on iOS</title>
+    <link href="https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/" rel="alternate" />
+    <id>https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/::v238</id>
+    <published>2026-09-01T17:59:00+00:00</published>
+    <updated>2026-09-01T17:59:00+00:00</updated>
+    <media:thumbnail url="https://piunikaweb.com/wp-content/uploads/2026/06/firefox-etp-settings.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/">blog.mozilla.org</a> | <a href="https://news.ycombinator.com/item?id=49521973">hacker news</a></small></p><hr/><p>Built-in ad blocking is now available for Firefox on iOS, utilizing Apple’s WebKit Content Blocker technology and the EasyList filter list to block third-party ads and trackers. The feature is disabled by default and can be activated through the app's browsing settings.</p><p>This direct implementation was developed because iOS lacks the standard extension support found in the desktop and Android versions of Firefox. The blocker excludes ads served directly by host websites, advertisements in search results, and sponsored content in the Firefox new tab view. It functions alongside existing Enhanced Tracking Protection to mitigate web-wide tracking.</p><p><img src="https://piunikaweb.com/wp-content/uploads/2026/06/firefox-etp-settings.webp" /></p><hr/><small>1 Sep 2026, 20:05 UTC | #19834</small>]]></content>
+  </entry>
   <entry>
     <title>The Impact of CSS Minification on Performance</title>
     <link href="https://shivjm.blog/is-minifying-css-necessary/" rel="alternate" />
