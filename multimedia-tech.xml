@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-08-31T16:53:00+00:00</updated>
+  <updated>2026-08-31T21:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>ASCII City Prototype Developed with Custom JavaScript Engine</title>
+    <link href="https://www.youtube.com/watch?v=3YtygAx_C6A" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=3YtygAx_C6A::v237</id>
+    <published>2026-08-31T21:22:00+00:00</published>
+    <updated>2026-08-31T21:22:00+00:00</updated>
+    <media:thumbnail url="https://media.sketchfab.com/models/14d2eaa145ee42938e004115871adf6c/thumbnails/5d7a2ad41170412098396a0a2600ee35/ea6d6d6b389d44e5978e84eac9cdd30f.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.youtube.com/watch?v=3YtygAx_C6A">youtube.com</a> | <a href="https://news.ycombinator.com/item?id=49512975">hacker news</a></small></p><hr/><p>A raycasting-based engine renders a three-dimensional urban environment using only ASCII characters on an HTML5 canvas. This prototype maps a grid-based world of roads, buildings, vehicles, and pedestrians into a character-based visual field without the use of 3D models or textures.</p><p>The system determines character size, brightness, and perspective based on ray-hit distance and depth. This implementation also manages occlusion and basic collision detection to simulate an inhabited environment within a single HTML file.</p><p><img src="https://media.sketchfab.com/models/14d2eaa145ee42938e004115871adf6c/thumbnails/5d7a2ad41170412098396a0a2600ee35/ea6d6d6b389d44e5978e84eac9cdd30f.jpeg" /></p><hr/><small>1 Sep 2026, 00:15 UTC | #19730</small>]]></content>
+  </entry>
   <entry>
     <title>Gamescom Equipment Thefts Target Indie Developers and Publishers</title>
     <link href="https://www.gamedeveloper.com/business/indie-devs-and-publishers-hit-in-gamescom-equipment-thefts" rel="alternate" />
