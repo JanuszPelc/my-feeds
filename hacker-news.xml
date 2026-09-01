@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T18:20:00+00:00</updated>
+  <updated>2026-09-01T18:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Predicate Logic and Set Theory Fundamentals for Programmers</title>
+    <link href="https://www.hillelwayne.com/post/predicate-logic/" rel="alternate" />
+    <id>https://www.hillelwayne.com/post/predicate-logic/::v238</id>
+    <published>2026-09-01T18:48:00+00:00</published>
+    <updated>2026-09-01T18:48:00+00:00</updated>
+    <media:thumbnail url="https://website-assets.studocu.com/img/document_thumbnails/a60a7091a102324f24ae77de7d2af9ae/thumb_1200_1696.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.hillelwayne.com/post/predicate-logic/">hillelwayne.com</a> | <a href="https://lobste.rs/s/rwqtzs/crash_course_predicate_logic">discussion</a></small></p><hr/><p>Predicate logic and set theory fundamentals are introduced through programming-oriented examples. The text defines the distinction between abstract and concrete predicates, Boolean operations, truth tables, and the mathematical implication operator.</p><p>Translating ambiguous natural language requirements into precise mathematical expressions allows for more accurate system modeling. The guide demonstrates how formal logic can clarify software specifications and bridge the gap between human communication and programmatic encoding.</p><p><img src="https://website-assets.studocu.com/img/document_thumbnails/a60a7091a102324f24ae77de7d2af9ae/thumb_1200_1696.png" /></p><hr/><small>1 Sep 2026, 23:32 UTC | #19855</small>]]></content>
+  </entry>
   <entry>
     <title>Sonos Unveils Ace Ultra Headphones and Beam Ultra Soundbar</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-01/sonos-debuts-449-ace-ultra-headphones-699-beam-ultra-soundbar-chatgpt-tie-in?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODI3MzkwNiwiZXhwIjoxNzg4ODc4NzA2LCJhcnRpY2xlSWQiOiJUS09XUVBWVFREMEEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.rCH_iYEMZYXKm5tiFOPgVSJNpynIGH0Do2sRMMwTz0U" rel="alternate" />

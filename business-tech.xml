@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-01T18:38:00+00:00</updated>
+  <updated>2026-09-01T18:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Applied AI Moves Into Physical and Industrial Workflows</title>
+    <link href="https://aiweekly.co/issues/applied-ai-deep-dive-what-are-companies-actually-building" rel="alternate" />
+    <id>https://aiweekly.co/issues/applied-ai-deep-dive-what-are-companies-actually-building::v238</id>
+    <published>2026-09-01T18:46:00+00:00</published>
+    <updated>2026-09-01T18:46:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQENIU1qJHFfmw/article-cover_image-shrink_720_1280/B4DZuwh0zbH8AI-/0/1768193216471?e=2147483647&amp;v=beta&amp;t=KETDddlQnZF_K1PZBRuLyhToAxSQtVLwJtjDxJSZCZg" />
+    <content type="html"><![CDATA[<p><small>AI Weekly | <a href="https://aiweekly.co/issues/applied-ai-deep-dive-what-are-companies-actually-building">aiweekly.co</a></small></p><hr/><p>AI applications are expanding from conversational interfaces into physical infrastructure, including medical drone delivery, autonomous logistics, and flight path optimization. Effective deployments prioritize specialized workflows, proprietary data, and operational context over the underlying model's capabilities.</p><p>Analysis of recent activity shows a significant gap between AI rhetoric and documented outcomes, as many industrial deployments fail to report measurable results. Furthermore, regulatory filings highlight that scaling AI in enterprise environments increasingly depends on managing physical constraints like power, cooling, and hardware security.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQENIU1qJHFfmw/article-cover_image-shrink_720_1280/B4DZuwh0zbH8AI-/0/1768193216471?e=2147483647&v=beta&t=KETDddlQnZF_K1PZBRuLyhToAxSQtVLwJtjDxJSZCZg" /></p><hr/><small>1 Sep 2026, 23:25 UTC | #19840</small>]]></content>
+  </entry>
   <entry>
     <title>Starman Optical to Acquire GoPro in $285 Million Deal</title>
     <link href="https://www.reuters.com/legal/transactional/gopro-be-acquired-by-starman-optical-285-million-deal-2026-09-01/" rel="alternate" />

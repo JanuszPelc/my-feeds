@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-01T18:18:00+00:00</updated>
+  <updated>2026-09-01T18:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Toontrack Releases LA Sessions SDX for Superior Drummer 3</title>
+    <link href="https://www.kvraudio.com/news/toontrack-releases-la-sessions-sdx-for-superior-drummer-3---niko-bolas-records-nine-kits-at-the-village-in-los-angeles-68327?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68327" rel="alternate" />
+    <id>https://www.kvraudio.com/news/toontrack-releases-la-sessions-sdx-for-superior-drummer-3---niko-bolas-records-nine-kits-at-the-village-in-los-angeles-68327?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68327::v238</id>
+    <published>2026-09-01T18:47:00+00:00</published>
+    <updated>2026-09-01T18:47:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/tt760_lasessionssdx_top-image.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/toontrack-releases-la-sessions-sdx-for-superior-drummer-3---niko-bolas-records-nine-kits-at-the-village-in-los-angeles-68327?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68327">kvraudio.com</a> | <a href="https://www.toontrack.com/product/la-sessions-sdx/">source</a></small></p><hr/><p>Recorded by producer Niko Bolas at The Village in Los Angeles, the LA Sessions SDX is an expansion for Superior Drummer 3. It features eight drum kits and one percussion combo, captured in Studio D across four microphone positions to provide varied room dynamics and textures.</p><p>The collection includes kits from session drummers such as Kenny Aronoff, Steve Jordan, and Stella Mozgawa, and comes with 45 mix-ready presets designed by Bolas. This expansion requires the base Superior Drummer 3 software and is priced at $179 USD.</p><p><img src="https://static.kvraudio.com/i/b/tt760_lasessionssdx_top-image.png" /></p><hr/><small>1 Sep 2026, 23:27 UTC | #19825</small>]]></content>
+  </entry>
   <entry>
     <title>Rob Clouth Releases Noise Canvas Spectral Sound Design Tool</title>
     <link href="https://bedroomproducersblog.com/2026/09/01/rob-clouth-noise-canvas/" rel="alternate" />
