@@ -7,6 +7,24 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Cheap GPS Jammers Create Navigation Dead Zones</title>
+    <link href="https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261" rel="alternate" />
+    <id>https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261::v238</id>
+    <published>2026-09-01T11:28:00+00:00</published>
+    <updated>2026-09-01T11:28:00+00:00</updated>
+    <media:thumbnail url="https://www.anyjammer.com/wp-content/uploads/2025/08/03.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.wsj.com/tech/gps-jammers-dead-zones-e76f3261">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=49500504">hacker news</a></small></p><hr/><p>The proliferation of inexpensive, high-power GPS jammers is creating widespread navigation dead zones. These devices, which can be purchased online for as low as $50, disrupt satellite signals essential for precise positioning, impacting maritime shipping, aviation, and military operations.</p><p>This disruption has prompted interest in reviving alternative navigation technologies, such as LORAN, to provide system redundancy. While satellite-based monitoring can detect jamming activity, pinpointing the exact real-time location of these devices remains a significant technical challenge for organizations like NASA.</p><p><img src="https://www.anyjammer.com/wp-content/uploads/2025/08/03.jpg" /></p><hr/><small>1 Sep 2026, 15:27 UTC | #19792</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Denies Apple's Trade Secret Theft Allegations</title>
+    <link href="https://www.reuters.com/legal/litigation/openai-says-apple-has-only-itself-blame-trade-secret-fight-2026-09-01/" rel="alternate" />
+    <id>https://www.reuters.com/legal/litigation/openai-says-apple-has-only-itself-blame-trade-secret-fight-2026-09-01/::v238</id>
+    <published>2026-09-01T11:26:00+00:00</published>
+    <updated>2026-09-01T11:26:00+00:00</updated>
+    <media:thumbnail url="https://growbusinessmag.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-11-2026-04_14_05-AM-1024x683.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/openai-says-apple-has-only-itself-blame-trade-secret-fight-2026-09-01/">reuters.com</a></small></p><hr/><p>OpenAI has filed a response denying Apple's allegations of trade secret theft, claiming the legal conflict is a byproduct of Apple's own internal failures. The company contends that Apple has failed to produce evidence substantiating the claim that confidential information was misappropriated.</p><p>The dispute stems from a July 2026 lawsuit in which Apple accused OpenAI of acquiring stolen hardware designs via former employees. As the case progresses, Apple has raised concerns regarding the destruction of evidence, while OpenAI has sought to have the lawsuit dismissed, alleging that Apple's own security practices undermined its ability to protect the secrets in question.</p><p><img src="https://growbusinessmag.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-11-2026-04_14_05-AM-1024x683.png" /></p><hr/><small>1 Sep 2026, 15:22 UTC | #19753</small>]]></content>
+  </entry>
+  <entry>
     <title>Google Play Rejects AnkiDroid Donation Link Over 501(c)(6) Status</title>
     <link href="https://github.com/ankidroid/Anki-Android/issues/21656" rel="alternate" />
     <id>https://github.com/ankidroid/Anki-Android/issues/21656::v238</id>

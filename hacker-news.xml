@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T11:19:00+00:00</updated>
+  <updated>2026-09-01T11:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>KDE Linux Adds Btrfs Snapshots and CJKV Input Support</title>
+    <link href="https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/" rel="alternate" />
+    <id>https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/::v238</id>
+    <published>2026-09-01T11:29:00+00:00</published>
+    <updated>2026-09-01T11:29:00+00:00</updated>
+    <media:thumbnail url="https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/snapshots.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/">blogs.kde.org</a> | <a href="https://lobste.rs/s/zx92fc/this_month_kde_linux_august_2026">discussion</a></small></p><hr/><p>KDE Linux has implemented automatic Btrfs snapshots for user home folders and enabled CJKV (Chinese, Japanese, Korean, and Vietnamese) text input support by default. These updates are part of an ongoing development cycle that has reached 85% completion toward the project's upcoming Beta milestone.</p><p>Additional improvements include the integration of kio-snapshot into the Dolphin file manager to facilitate file rollbacks and security hardening to restrict Docker daemon access for the wheel group. The project's automated QA system has also been further refined to identify and resolve complex integration issues within KDE software.</p><p><img src="https://blogs.kde.org/2026/08/31/this-month-in-kde-linux-august-2026/snapshots.webp" /></p><hr/><small>1 Sep 2026, 15:32 UTC | #19793</small>]]></content>
+  </entry>
   <entry>
     <title>Comparing Web-Based Text Editor Implementations Using Canvas, Contenteditable, and Textarea</title>
     <link href="https://dbushell.com/2026/09/01/text-editor/" rel="alternate" />
