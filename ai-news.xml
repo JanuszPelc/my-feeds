@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-01T07:37:00+00:00</updated>
+  <updated>2026-09-01T10:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Unsloth Adds Local Support for Qwen3.8-Flash-Next and GLM-5.3</title>
+    <link href="https://unsloth.ai/docs/new/changelog#qwen3.8-flash-next--glm-5.3" rel="alternate" />
+    <id>https://unsloth.ai/docs/new/changelog#qwen3.8-flash-next--glm-5.3::v238</id>
+    <published>2026-09-01T10:18:00+00:00</published>
+    <updated>2026-09-01T10:18:00+00:00</updated>
+    <media:thumbnail url="https://z-cdn-media.chatglm.cn/prompts-rich-media-resources/5-blog/微信图片_2026-02-11_232804_259.png" />
+    <content type="html"><![CDATA[<p><small>Unsloth Changelog | <a href="https://unsloth.ai/docs/new/changelog#qwen3.8-flash-next--glm-5.3">unsloth.ai</a></small></p><hr/><p>Local support is now available for Qwen3.8-Flash-Next and GLM-5.3-Flash/GLM-5.3 within Unsloth. Qwen3.8-Flash-Next is a 125B parameter multimodal reasoning model featuring a preview of the Qwen4 architecture and a 262K context window. GLM-5.3-Flash is a 320B multimodal model with 18B active parameters that supports up to 1M context for text, images, and documents.</p><p>These models are available in 1-bit quantizations, requiring approximately 75GB of RAM for Qwen3.8-Flash-Next and 102GB of combined RAM/VRAM for GLM-5.3-Flash. The update also includes software enhancements for Unsloth, such as automatic GGUF splitting across GPU and system RAM, improved multi-image vision support, and more reliable chat recovery after disconnects.</p><p><img src="https://z-cdn-media.chatglm.cn/prompts-rich-media-resources/5-blog/微信图片_2026-02-11_232804_259.png" /></p><hr/><small>1 Sep 2026, 12:52 UTC | #19766</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ollama Introduces Per-Token Pricing for Pro, Max, and Team Plans</title>
+    <link href="https://ollama.com/blog/transparent-pricing" rel="alternate" />
+    <id>https://ollama.com/blog/transparent-pricing::v238</id>
+    <published>2026-09-01T10:17:00+00:00</published>
+    <updated>2026-09-01T10:17:00+00:00</updated>
+    <media:thumbnail url="https://myengineeringpath.dev/og/tools/llm-pricing-comparison.png" />
+    <content type="html"><![CDATA[<p><small>Ollama Blog | <a href="https://ollama.com/blog/transparent-pricing">ollama.com</a></small></p><hr/><p>Subscription tiers for Pro, Max, and Team plans have transitioned to a transparent per-token pricing model. Each plan now includes a monthly pool of usage credits that refreshes every billing cycle. Additionally, the free plan includes a limited amount of monthly usage for starter models, and a pay-as-you-go option allows users to access all models without a subscription.</p><p>The shift moves from GPU-time-based billing to industry-standard token metering to improve cost predictability. The Pro plan ($20/month) provides $60 of usage, the Max plan ($100/month) provides $300, and the Team plan ($500/month) provides $1,000 of shared credits. The service features zero data retention and hosts compute in the US, Europe, and Singapore.</p><p><img src="https://myengineeringpath.dev/og/tools/llm-pricing-comparison.png" /></p><hr/><small>1 Sep 2026, 12:50 UTC | #19765</small>]]></content>
+  </entry>
   <entry>
     <title>Mirage Conducts 24-Hour AI-Generated News Broadcast Experiment</title>
     <link href="https://www.upstartsmedia.com/p/the-good-bad-ugly-of-24-hour-ai-news" rel="alternate" />
