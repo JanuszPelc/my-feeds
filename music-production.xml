@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-08-31T21:33:00+00:00</updated>
+  <updated>2026-09-01T10:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Ueberschall Releases Looptool Inspire Loop Library</title>
+    <link href="https://www.kvraudio.com/news/ueberschall-releases-looptool-inspire-elastik-loop-library-68303?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68303" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ueberschall-releases-looptool-inspire-elastik-loop-library-68303?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68303::v238</id>
+    <published>2026-09-01T10:16:00+00:00</published>
+    <updated>2026-09-01T10:16:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/11_elastik_retune_3.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ueberschall-releases-looptool-inspire-elastik-loop-library-68303?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68303">kvraudio.com</a> | <a href="https://www.ueberschall.com/en/product/422/Looptool-Inspire">source</a></small></p><hr/><p>Ueberschall has released Looptool Inspire, a 11.5 GB loop library designed for the Elastik Player. The collection features over 4,200 loops spanning R&amp;B, Hip Hop, Soul, Jazz, LoFi, Pop, and electronic genres, all engineered to be 100% compatible with one another for seamless arrangement.</p><p>The library utilizes the Elastik Player's "INSPIRE" function to automatically shuffle and combine loops, allowing producers to generate new musical ideas and track foundations instantly. The content includes analog-style synth basses, chords, leads, pads, drum grooves, and atmospheric textures, covering a tempo range of 70 to 130 BPM.</p><p><img src="https://static.kvraudio.com/i/b/11_elastik_retune_3.jpg" /></p><hr/><small>1 Sep 2026, 12:37 UTC | #19752</small>]]></content>
+  </entry>
+  <entry>
+    <title>Fanan Team Releases Domina Free MIDI Arpeggiator Plugin</title>
+    <link href="https://www.kvraudio.com/news/fanan-team-releases-domina---free-seeded-midi-arpeggiator-plugin-68313?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68313" rel="alternate" />
+    <id>https://www.kvraudio.com/news/fanan-team-releases-domina---free-seeded-midi-arpeggiator-plugin-68313?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68313::v238</id>
+    <published>2026-09-01T10:15:00+00:00</published>
+    <updated>2026-09-01T10:15:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/domina_1.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/fanan-team-releases-domina---free-seeded-midi-arpeggiator-plugin-68313?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68313">kvraudio.com</a> | <a href="https://fanan-team-com.base44.app/product/domina">source</a></small></p><hr/><p>Domina is a free, seeded MIDI arpeggiator that generates complex, chord-responsive patterns using six-digit seeds. It produces millions of unique arpeggios by combining various idiom settings, pattern lengths, and octave ranges. The plugin outputs MIDI only, intended to drive third-party virtual instruments.</p><p>The software includes 20 genre idioms—such as Metal, Disco, and House—and features adjustable controls for rhythm, melodic contour, and motif complexity. It is available for Windows (VST3, CLAP) and macOS (VST3, AU, CLAP) as a universal binary for Apple Silicon and Intel.</p><p><img src="https://static.kvraudio.com/i/b/domina_1.jpg" /></p><hr/><small>1 Sep 2026, 12:34 UTC | #19751</small>]]></content>
+  </entry>
+  <entry>
+    <title>Thenatan Releases 8008 Sub Bass Shaper Plugin</title>
+    <link href="https://www.kvraudio.com/news/thenatan-releases-8008---808-sub-bass-shaper-plugin-68288?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68288" rel="alternate" />
+    <id>https://www.kvraudio.com/news/thenatan-releases-8008---808-sub-bass-shaper-plugin-68288?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68288::v238</id>
+    <published>2026-09-01T10:14:00+00:00</published>
+    <updated>2026-09-01T10:14:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/8008-kvr.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/thenatan-releases-8008---808-sub-bass-shaper-plugin-68288?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68288">kvraudio.com</a> | <a href="https://www.thenatan.store/p/8008-808-sub-bass-shaper-plugin/">source</a></small></p><hr/><p>Thenatan has released 8008, an all-in-one plugin designed to shape 808 and sub bass frequencies within the 30–150Hz range. The tool utilizes seven simultaneous processors, including band-split transient shaping, sub-fundamental boosting, eight saturation modes, compression, phase-perfect mono bass conversion, a lo-fi character stage, and a brickwall limiter.</p><p>Compatible with macOS (Apple Silicon native) and Windows, the plugin supports VST2, VST3, and AU formats and includes 88 factory presets. It features zero-latency processing and zero-CPU bypass for inactive stages. An introductory price of $8.08 is offered for the first 72 hours of release before the product returns to its regular price of $59.50.</p><p><img src="https://static.kvraudio.com/i/b/8008-kvr.jpg" /></p><hr/><small>1 Sep 2026, 12:32 UTC | #19749</small>]]></content>
+  </entry>
   <entry>
     <title>Rast Sound Updates MS Studio to Version 1.1</title>
     <link href="https://www.kvraudio.com/news/rast-sound-updates-ms-studio-to-v1-1-68312?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68312" rel="alternate" />
