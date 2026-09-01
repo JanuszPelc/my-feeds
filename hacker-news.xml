@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T21:45:00+00:00</updated>
+  <updated>2026-08-31T21:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ravynOS Develops Pre-Alpha Open-Source Operating System</title>
+    <link href="https://ravynos.com/" rel="alternate" />
+    <id>https://ravynos.com/::v237</id>
+    <published>2026-08-31T21:48:00+00:00</published>
+    <updated>2026-08-31T21:48:00+00:00</updated>
+    <media:thumbnail url="https://www.linuxeasy.org/wp-content/uploads/2025/10/ravynos-1024x770.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ravynos.com/">ravynos.com</a> | <a href="https://news.ycombinator.com/item?id=49511534">hacker news</a></small></p><hr/><p>ravynOS is an early-stage, open-source operating system built on Darwin, FreeBSD, and Apple open-source code. The project aims to provide the user experience and application compatibility of macOS while removing hardware and ecosystem restrictions.</p><p>The project is currently in a pre-alpha developer preview stage intended for system developers. It is not yet polished or considered ready for general end users.</p><p><img src="https://www.linuxeasy.org/wp-content/uploads/2025/10/ravynos-1024x770.webp" /></p><hr/><small>1 Sep 2026, 04:42 UTC | #19740</small>]]></content>
+  </entry>
   <entry>
     <title>Timothy Sample Discusses Bootstrappable Builds at FOSSY</title>
     <link href="https://lwn.net/Articles/1088279/" rel="alternate" />
