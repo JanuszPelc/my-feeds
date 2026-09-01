@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-01T11:27:00+00:00</updated>
+  <updated>2026-09-01T11:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Granvia Releases Fantamidi MIDI Generator v3.0</title>
+    <link href="https://www.kvraudio.com/news/granvia-releases-fantamidi-midi-generator-v3-0-with-new-arpeggiator-features-for-windows-and-macos-68285?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68285" rel="alternate" />
+    <id>https://www.kvraudio.com/news/granvia-releases-fantamidi-midi-generator-v3-0-with-new-arpeggiator-features-for-windows-and-macos-68285?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68285::v238</id>
+    <published>2026-09-01T11:32:00+00:00</published>
+    <updated>2026-09-01T11:32:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/fantamidiver3-0.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/granvia-releases-fantamidi-midi-generator-v3-0-with-new-arpeggiator-features-for-windows-and-macos-68285?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68285">kvraudio.com</a> | <a href="https://granvia.gumroad.com/l/lqqzum">source</a></small></p><hr/><p>New arpeggiator features, triplet grid support, and six additional musical scales are the core additions to Fantamidi version 3.0. The scale-based MIDI generator is available for Windows and macOS in VST3 and AU formats, supporting customizable voice counts and playback directions.</p><p>The release also features a unified bass layer, adjustable UI sizes, and expanded undo/redo history. The full plugin is priced at $12, with free and trial versions available.</p><p><img src="https://static.kvraudio.com/i/b/fantamidiver3-0.jpg" /></p><hr/><small>1 Sep 2026, 15:50 UTC | #19777</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apex Plugins Releases Apex Amp v1.1.1 with macOS and AU Support</title>
+    <link href="https://www.kvraudio.com/news/apex-plugins-updates-apex-amp-to-v1-1-1---macos-support-apple-silicon-and-intel-au-format-and-rig-enhancements-68291?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68291" rel="alternate" />
+    <id>https://www.kvraudio.com/news/apex-plugins-updates-apex-amp-to-v1-1-1---macos-support-apple-silicon-and-intel-au-format-and-rig-enhancements-68291?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68291::v238</id>
+    <published>2026-09-01T11:30:00+00:00</published>
+    <updated>2026-09-01T11:30:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/tab7_mod.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/apex-plugins-updates-apex-amp-to-v1-1-1---macos-support-apple-silicon-and-intel-au-format-and-rig-enhancements-68291?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68291">kvraudio.com</a> | <a href="https://apex-plugins.com/">source</a></small></p><hr/><p>Apex Plugins has released Apex Amp version 1.1.1, adding native macOS support for both Apple Silicon and Intel processors. The update also introduces the Audio Unit (AU) format for integration with Logic Pro, alongside existing VST3 and Standalone versions.</p><p>Version 1.1.1 includes an eight-circuit Quick Amp Archetype Selector and a dual-mode studio noise gate. Other enhancements include optimized synth processing, a 50% reduction in CPU usage, and new starter templates for custom rig building.</p><p><img src="https://static.kvraudio.com/i/b/tab7_mod.png" /></p><hr/><small>1 Sep 2026, 15:45 UTC | #19775</small>]]></content>
+  </entry>
   <entry>
     <title>Frank Rittberger Releases Smidy v3.0 Beta with MIDI 2.0 Support</title>
     <link href="https://www.kvraudio.com/news/frank-rittberger-releases-smidy-v3-0-beta-featuring-midi-2-0-68293?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68293" rel="alternate" />
