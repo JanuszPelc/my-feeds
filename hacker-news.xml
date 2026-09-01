@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T16:00:00+00:00</updated>
+  <updated>2026-09-01T16:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Impact of CSS Minification on Performance</title>
+    <link href="https://shivjm.blog/is-minifying-css-necessary/" rel="alternate" />
+    <id>https://shivjm.blog/is-minifying-css-necessary/::v238</id>
+    <published>2026-09-01T16:05:00+00:00</published>
+    <updated>2026-09-01T16:05:00+00:00</updated>
+    <media:thumbnail url="https://blog.logrocket.com/wp-content/uploads/2019/07/css-minifier-minified-output.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://shivjm.blog/is-minifying-css-necessary/">shivjm.blog</a> | <a href="https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023">discussion</a></small></p><hr/><p>An investigation into whether removing whitespace and comments from CSS files yields measurable performance improvements. The author argues that such minification is largely unnecessary because modern compression methods like gzip or Brotli already significantly reduce file sizes with much less complexity.</p><p>Experimental results show that even when testing 100,000 declaration blocks, the difference in browser parsing time between minified and unminified code is measured in only a few milliseconds. This suggests that the additional step in a build pipeline offers almost no perceptible benefit to end-users.</p><p><img src="https://blog.logrocket.com/wp-content/uploads/2019/07/css-minifier-minified-output.png" /></p><hr/><small>1 Sep 2026, 19:01 UTC | #19815</small>]]></content>
+  </entry>
   <entry>
     <title>Dyson Introduces CameraJet AI-Powered Toothbrush</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-01/dyson-announces-499-camerajet-smart-toothbrush-with-ai-built-in-camera" rel="alternate" />
