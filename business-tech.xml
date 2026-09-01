@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-31T21:49:00+00:00</updated>
+  <updated>2026-08-31T21:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Florida Revokes Permits for Flock Cameras on State Roads</title>
+    <link href="https://www.orlandosentinel.com/2026/08/31/florida-orders-flock-cameras-off-of-state-roads/" rel="alternate" />
+    <id>https://www.orlandosentinel.com/2026/08/31/florida-orders-flock-cameras-off-of-state-roads/::v237</id>
+    <published>2026-08-31T21:56:00+00:00</published>
+    <updated>2026-08-31T21:56:00+00:00</updated>
+    <media:thumbnail url="https://cbs12.com/resources/media/5b130e99-1194-49e7-8ece-423fa25ef86e-AshevilleFlockCamerasPackageTease.movframe596.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.orlandosentinel.com/2026/08/31/florida-orders-flock-cameras-off-of-state-roads/">orlandosentinel.com</a></small></p><hr/><p>The Florida Department of Transportation (FDOT) is revoking all active permits for automated license plate readers (ALPRs), such as Flock cameras, installed by local law enforcement on state highway rights-of-way. The agency also announced it will no longer issue new permits for this technology on state-maintained roads.</p><p>The directive cites an "exponential increase" in camera deployments, reports of misuse, and various data privacy and surveillance concerns. Local law enforcement agencies must comply with the order to remove existing hardware from state roads.</p><p><img src="https://cbs12.com/resources/media/5b130e99-1194-49e7-8ece-423fa25ef86e-AshevilleFlockCamerasPackageTease.movframe596.png" /></p><hr/><small>1 Sep 2026, 05:06 UTC | #19725</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Alleges Misuse of Stolen Schematics and Evidence Destruction in OpenAI Lawsuit</title>
     <link href="https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/" rel="alternate" />
