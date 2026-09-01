@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T21:37:00+00:00</updated>
+  <updated>2026-08-31T21:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Network Address Translation's Role in Internet Centralization</title>
+    <link href="https://dreamstation.systems/personal/ntppost.html" rel="alternate" />
+    <id>https://dreamstation.systems/personal/ntppost.html::v237</id>
+    <published>2026-08-31T21:39:00+00:00</published>
+    <updated>2026-08-31T21:39:00+00:00</updated>
+    <media:thumbnail url="https://documentation.meraki.com/@api/deki/files/1822/1-1_NAT_diagram.png?revision=1&amp;size=bestfit&amp;width=554&amp;height=561" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://dreamstation.systems/personal/ntppost.html">dreamstation.systems</a> | <a href="https://news.ycombinator.com/item?id=49504905">hacker news</a></small></p><hr/><p>Network Address Translation (NAT) was proposed in 1994 via RFC 1631 to mitigate IPv4 address depletion. While intended as a temporary solution to allow multiple devices to share a single public IP, it has become a fundamental part of modern network architecture that prevents external devices from directly initiating connections to private networks.</p><p>This restriction has necessitated various workarounds, including port forwarding, UPnP, and traversal protocols such as STUN and ICE. The author argues that these technical requirements have contributed to the internet's shift toward a centralized client-server model, making it difficult for individuals to host private services and instead forcing reliance on managed cloud infrastructure.</p><p><img src="https://documentation.meraki.com/@api/deki/files/1822/1-1_NAT_diagram.png?revision=1&size=bestfit&width=554&height=561" /></p><hr/><small>1 Sep 2026, 02:07 UTC | #19737</small>]]></content>
+  </entry>
   <entry>
     <title>Critique of Rust RangeFrom Iterator Design</title>
     <link href="https://erk.dev/2026/08/30/rangefrom-part-2" rel="alternate" />
