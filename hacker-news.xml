@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-08-31T21:18:00+00:00</updated>
+  <updated>2026-08-31T21:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Critique of Rust RangeFrom Iterator Design</title>
+    <link href="https://erk.dev/2026/08/30/rangefrom-part-2" rel="alternate" />
+    <id>https://erk.dev/2026/08/30/rangefrom-part-2::v237</id>
+    <published>2026-08-31T21:37:00+00:00</published>
+    <updated>2026-08-31T21:37:00+00:00</updated>
+    <media:thumbnail url="https://habrastorage.org/r/w1560/getpro/habr/upload_files/903/962/006/903962006f52881b96c6c1b5123dd05c.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://erk.dev/2026/08/30/rangefrom-part-2">erk.dev</a> | <a href="https://lobste.rs/s/hyn2bt/rangefrom_part_2_what_i_think_is_wrong">discussion</a></small></p><hr/><p>The implementation of the `RangeFrom` iterator in Rust is criticized for causing inconsistent and unexpected behavior during integer overflow. Key issues identified include the potential to yield values outside a range, failure to reach the maximum value in certain overflow-check settings, and divergent behaviors across types such as `char`, `Ipv4Addr`, and `NonZero&lt;u*&gt;`.</p><p>To resolve these issues, the author suggests using `Step::checked_forward` to return `None` when reaching a type's limit. The piece also proposes a new `enumerate_with` method to more effectively integrate `Step` trait implementations into iterator chains, offering a more expressive alternative to the current `zip` approach.</p><p><img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/903/962/006/903962006f52881b96c6c1b5123dd05c.png" /></p><hr/><small>1 Sep 2026, 01:43 UTC | #19736</small>]]></content>
+  </entry>
   <entry>
     <title>Trump Administration Launches Texas Pilot to Secure Water Infrastructure</title>
     <link href="https://www.foxnews.com/politics/first-fox-texas-becomes-testing-ground-new-defense-against-attacks-americas-water-systems" rel="alternate" />
