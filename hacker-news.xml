@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T07:43:00+00:00</updated>
+  <updated>2026-09-01T10:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Paulie Gee's Slice Shop Restroom Logged</title>
+    <link href="https://restroomarchive.com" rel="alternate" />
+    <id>https://restroomarchive.com::v238</id>
+    <published>2026-09-01T10:27:00+00:00</published>
+    <updated>2026-09-01T10:27:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/4UaNK6foQPs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGEgYShhMA8=&amp;rs=AOn4CLAW7n3a7dT5rLAd7hWMiVMqGwbt_A" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://restroomarchive.com">restroomarchive.com</a> | <a href="https://news.ycombinator.com/item?id=49517624">hacker news</a></small></p><hr/><p>The family restroom at Paulie Gee's Slice Shop in Brooklyn, New York, features subway tiles, wood paneling, and a basket weave floor pattern. Accessible via the restaurant's bar area, the space includes graffiti tags on the door and soap dispenser.</p><p>This entry is part of a chronological log maintained by The Restroom Archive. The collection documents various public and commercial restrooms across locations including Manhattan, Utah, France, and China.</p><p><img src="https://i.ytimg.com/vi/4UaNK6foQPs/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGEgYShhMA8=&rs=AOn4CLAW7n3a7dT5rLAd7hWMiVMqGwbt_A" /></p><hr/><small>1 Sep 2026, 13:47 UTC | #19779</small>]]></content>
+  </entry>
+  <entry>
+    <title>Terminal Emulator Support for Unicode Legacy Computing Symbols</title>
+    <link href="https://arewelegacycomputingyet.com/" rel="alternate" />
+    <id>https://arewelegacycomputingyet.com/::v238</id>
+    <published>2026-09-01T10:26:00+00:00</published>
+    <updated>2026-09-01T10:26:00+00:00</updated>
+    <media:thumbnail url="https://www.herongyang.com/Unicode-Blocks/Block_1FB00_Symbols_for_Legacy_Computing.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arewelegacycomputingyet.com/">arewelegacycomputingyet.com</a> | <a href="https://lobste.rs/s/x1b4va/are_we_legacy_computing_yet">discussion</a></small></p><hr/><p>An investigation into how various terminal emulators support Unicode's "Symbols for Legacy Computing" (U+1FB00–U+1FBFF) and its "Supplement" block (U+1CC00–U+1CEBF). These blocks contain graphical characters used in 1970s through 1990s computing to render semi-graphics, game sprites, and user interface elements within text grids.</p><p>Testing reveals that Ghostty and Kitty offer high compatibility with both blocks, while urxvt provides no support. The study utilized a methodology of testing emulators with fonts lacking the required glyphs to identify terminals that implement custom drawing routines, which ensure graphical elements connect properly despite potential font padding.</p><p><img src="https://www.herongyang.com/Unicode-Blocks/Block_1FB00_Symbols_for_Legacy_Computing.png" /></p><hr/><small>1 Sep 2026, 13:38 UTC | #19770</small>]]></content>
+  </entry>
   <entry>
     <title>ghcup-gtk v0.1.0.0 Released</title>
     <link href="https://discourse.haskell.org/t/v0-1-0-0-of-ghcup-gtk-released/14631" rel="alternate" />
