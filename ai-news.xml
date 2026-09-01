@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-01T07:27:00+00:00</updated>
+  <updated>2026-09-01T07:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>GPU World Announces AI Story Contest for 2040 Scenarios</title>
+    <link href="https://www.gpuworld.org/" rel="alternate" />
+    <id>https://www.gpuworld.org/::v238</id>
+    <published>2026-09-01T07:36:00+00:00</published>
+    <updated>2026-09-01T07:36:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/sync/v2/D5627AQG2R2QLbCtCEw/articleshare-shrink_800/B56ZjcN_MLG4AM-/0/1756041312358?e=2147483647&amp;v=beta&amp;t=MgRn_4b-OF3ZL-Q7Jsg9Gk-NPTNY8iy1m3HBqb5qu08" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.gpuworld.org/">gpuworld.org</a> | <a href="https://elsolitario.org/en/2026/09/01/gpu-world-ai-story-contest/">source</a> | <a href="https://news.ycombinator.com/item?id=49517584">hacker news</a></small></p><hr/><p>GPU World has announced a story contest that tasks writers with imagining a future in 2040 where AI compute is ubiquitous. The premise assumes that while AI frontier progress plateaus in September 2026, continued GPU manufacturing leads to 8 billion GPUs globally, providing every human with the performance equivalent of frontier-level large language models.</p><p>The competition explores the societal implications of this "mundane" future, such as radical shifts in education and healthcare or the rise of pervasive AI surveillance. It aims to envision a world of even distribution and high-performance AI utility rather than a singular, superhuman technological event.</p><p><img src="https://media.licdn.com/dms/image/sync/v2/D5627AQG2R2QLbCtCEw/articleshare-shrink_800/B56ZjcN_MLG4AM-/0/1756041312358?e=2147483647&v=beta&t=MgRn_4b-OF3ZL-Q7Jsg9Gk-NPTNY8iy1m3HBqb5qu08" /></p><hr/><small>1 Sep 2026, 09:09 UTC | #19755</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Adds WebMCP Support to ChatGPT's Browser</title>
     <link href="https://www.searchenginejournal.com/chatgpt-adds-webmcp-support/587237/" rel="alternate" />
