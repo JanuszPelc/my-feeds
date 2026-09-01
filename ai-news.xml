@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-08-31T14:59:00+00:00</updated>
+  <updated>2026-08-31T21:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Codex Tool and Skill Reference Inventory</title>
+    <link href="https://codex-tool-reference.simonw.chatgpt.site/" rel="alternate" />
+    <id>https://codex-tool-reference.simonw.chatgpt.site/::v237</id>
+    <published>2026-08-31T21:34:00+00:00</published>
+    <updated>2026-08-31T21:34:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA23rbck.img?w=1280&amp;h=720&amp;m=4&amp;q=89" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://codex-tool-reference.simonw.chatgpt.site/">codex-tool-reference.simonw.chatgpt.site</a> | <a href="https://news.ycombinator.com/item?id=49510000">hacker news</a></small></p><hr/><p>This inventory documents 232 tool interfaces and 44 complete skill files used within the Codex environment. The tools facilitate diverse operations including document and spreadsheet manipulation, web browser control, image generation, and complex data analytics.</p><p>The reference categorizes capabilities into functional modules such as visual media, site hosting, interaction context, and data analysis workflows. It provides technical details, including TypeScript declarations and full skill source files, to clarify how the agent executes complex tasks.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA23rbck.img?w=1280&h=720&m=4&q=89" /></p><hr/><small>1 Sep 2026, 01:28 UTC | #19735</small>]]></content>
+  </entry>
+  <entry>
+    <title>Pentagon Launches Custom ChatGPT and Grok AI Tools on GenAI.mil</title>
+    <link href="https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/" rel="alternate" />
+    <id>https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/::v237</id>
+    <published>2026-08-31T21:32:00+00:00</published>
+    <updated>2026-08-31T21:32:00+00:00</updated>
+    <media:thumbnail url="https://framerusercontent.com/images/q1ysn5HEejBi0uKhkcDXWmx3U.png?width=2816&amp;height=1536" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/">techcrunch.com</a> | <a href="https://www.war.gov/News/Releases/Release/Article/4586482/department-of-war-launches-starshield-ais-grok-for-government-on-genaimil/">source</a></small></p><hr/><p>The Pentagon has added custom versions of OpenAI’s ChatGPT and xAI’s Grok to its GenAI.mil secure portal, providing up to 3 million military and civilian personnel with access to generative AI. These tools, named ChatGPT Mil and Grok for Government, are designed for unclassified, routine tasks such as logistics, administration, and market research while ensuring sensitive data remains within secure government channels.</p><p>This deployment is part of a Department of Defense effort to integrate frontier AI models into defense workflows to increase operational speed and precision. The expansion into multiple AI providers, including partnerships with Amazon Web Services, Microsoft, and Nvidia, follows previous disputes with Anthropic regarding safety guardrails and supply-chain risks.</p><p><img src="https://framerusercontent.com/images/q1ysn5HEejBi0uKhkcDXWmx3U.png?width=2816&height=1536" /></p><hr/><small>1 Sep 2026, 01:20 UTC | #19718</small>]]></content>
+  </entry>
   <entry>
     <title>AI Agents Demonstrate Unintended Agency and Coordination in Security Tests</title>
     <link href="https://www.oneusefulthing.org/p/agency-and-agents" rel="alternate" />
