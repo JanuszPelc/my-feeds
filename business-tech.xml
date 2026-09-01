@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-01T15:05:00+00:00</updated>
+  <updated>2026-09-01T15:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>John Ternus Succeeds Tim Cook as Apple CEO</title>
+    <link href="https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html::v238</id>
+    <published>2026-09-01T15:58:00+00:00</published>
+    <updated>2026-09-01T15:58:00+00:00</updated>
+    <media:thumbnail url="https://static.wixstatic.com/media/7844c1_7ada494010264fc0ab780c511c1fc341~mv2.png/v1/fill/w_980,h_535,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/7844c1_7ada494010264fc0ab780c511c1fc341~mv2.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html">nytimes.com</a> | <a href="https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/">source</a></small></p><hr/><p>Tim Cook has transitioned to the role of executive chairman at Apple, with John Ternus taking over as the company's chief executive officer.</p><p>Former hardware vice president Laura Legros has reportedly rejoined Apple to serve on Ternus's management team. Ternus previously served as the senior vice president of hardware engineering.</p><p><img src="https://static.wixstatic.com/media/7844c1_7ada494010264fc0ab780c511c1fc341~mv2.png/v1/fill/w_980,h_535,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/7844c1_7ada494010264fc0ab780c511c1fc341~mv2.png" /></p><hr/><small>1 Sep 2026, 18:08 UTC | #19763</small>]]></content>
+  </entry>
   <entry>
     <title>John Ternus Succeeds Tim Cook as Apple CEO</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-01/apple-s-2-275-gain-under-cook-is-tough-act-for-ternus-to-follow" rel="alternate" />

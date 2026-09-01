@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T15:56:00+00:00</updated>
+  <updated>2026-09-01T16:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Dyson Introduces CameraJet AI-Powered Toothbrush</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-01/dyson-announces-499-camerajet-smart-toothbrush-with-ai-built-in-camera" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-01/dyson-announces-499-camerajet-smart-toothbrush-with-ai-built-in-camera::v238</id>
+    <published>2026-09-01T16:00:00+00:00</published>
+    <updated>2026-09-01T16:00:00+00:00</updated>
+    <media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/3f95d15c-612c-4f63-9e87-1b68d68363c4.png?crop=0.502xw:1.00xh;0.277xw,0&amp;resize=640:*" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-01/dyson-announces-499-camerajet-smart-toothbrush-with-ai-built-in-camera">bloomberg.com</a> | <a href="https://www.prnewswire.com/news-releases/dyson-camerajet-the-first-toothbrush-with-a-camera-and-a-jet-to-target-the-gaps-and-remove-plaque-between-your-teeth-302865389.html">source</a></small></p><hr/><p>Dyson has introduced the CameraJet, a $499 smart toothbrush that uses an integrated camera and artificial intelligence to provide real-time dental feedback. The device employs optical targeting to identify gaps between teeth, directing a precision water jet to target plaque in those specific areas.</p><p>The product is available for preorder in blue and pink. While many smart toothbrushes track brushing time or pressure, the CameraJet's primary distinction is its ability to automate precision flossing through AI-driven visual monitoring.</p><p><img src="https://hips.hearstapps.com/hmg-prod/images/3f95d15c-612c-4f63-9e87-1b68d68363c4.png?crop=0.502xw:1.00xh;0.277xw,0&resize=640:*" /></p><hr/><small>1 Sep 2026, 18:13 UTC | #19764</small>]]></content>
+  </entry>
   <entry>
     <title>Aurora Store Reports 'Server Busy' Error for Anonymous Account Installs</title>
     <link href="https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566" rel="alternate" />
