@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-31T21:56:00+00:00</updated>
+  <updated>2026-09-01T02:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Signs $35 Billion Cloud Deal With Lambda</title>
+    <link href="https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1::v237</id>
+    <published>2026-09-01T02:54:00+00:00</published>
+    <updated>2026-09-01T02:54:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/HHVnl9kaQAAgcI_.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1">wsj.com</a></small></p><hr/><p>Anthropic has entered into a $35 billion cloud computing agreement with Lambda, an Nvidia-backed provider. In a related infrastructure move, Nvidia will also supply chips and hold the lease on a Texas data center built by Hut 8.</p><p>These agreements illustrate Nvidia's strategy of leveraging its financial position to support key customers and secure the large-scale computing capacity required for modern AI development.</p><p><img src="https://pbs.twimg.com/media/HHVnl9kaQAAgcI_.jpg" /></p><hr/><small>1 Sep 2026, 06:45 UTC | #19729</small>]]></content>
+  </entry>
   <entry>
     <title>Florida Revokes Permits for Flock Cameras on State Roads</title>
     <link href="https://www.orlandosentinel.com/2026/08/31/florida-orders-flock-cameras-off-of-state-roads/" rel="alternate" />
