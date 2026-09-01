@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-01T18:21:00+00:00</updated>
+  <updated>2026-09-01T18:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google Launches Google Pics AI Image Creation and Editing Tool</title>
+    <link href="https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/::v238</id>
+    <published>2026-09-01T18:41:00+00:00</published>
+    <updated>2026-09-01T18:41:00+00:00</updated>
+    <media:thumbnail url="https://1side0.net/wp-content/uploads/2025/10/Google-AI-Plus-Plan.webp" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/">techcrunch.com</a> | <a href="https://workspaceupdates.googleblog.com/2026/09/google-pics-brings-pro-level-ai-image-creation-and-editing-to-Google-Workspace.html">source</a></small></p><hr/><p>Google is launching Google Pics, an AI-powered image generation and editing tool integrated into the Google Workspace suite. Powered by the Nano Banana model, the tool allows users to create visuals via text prompts and perform advanced edits—such as object isolation and text translation—directly within Google Docs and Slides.</p><p>The tool is being rolled out to Google Workspace business customers and premium AI subscribers, with an upcoming expansion to Google Drive. Unlike Canva or Adobe Express, which focus on manual design and template marketplaces, Google Pics is designed around a prompt-based generative workflow for everyday professional and personal design tasks.</p><p><img src="https://1side0.net/wp-content/uploads/2025/10/Google-AI-Plus-Plan.webp" /></p><hr/><small>1 Sep 2026, 23:04 UTC | #19819</small>]]></content>
+  </entry>
+  <entry>
+    <title>Perplexity Launches Hybrid Compute for Mac</title>
+    <link href="https://www.engadget.com/2248548/perplexitys-hybrid-compute-splits-sensitive-tasks-between-cloud-and-local-ai/" rel="alternate" />
+    <id>https://www.engadget.com/2248548/perplexitys-hybrid-compute-splits-sensitive-tasks-between-cloud-and-local-ai/::v238</id>
+    <published>2026-09-01T18:37:00+00:00</published>
+    <updated>2026-09-01T18:37:00+00:00</updated>
+    <media:thumbnail url="https://www.engadget.com/img/gallery/perplexitys-hybrid-compute-lets-you-split-tasks-between-cloud-and-local-models/intro-1788274229.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2248548/perplexitys-hybrid-compute-splits-sensitive-tasks-between-cloud-and-local-ai/">engadget.com</a> | <a href="https://www.perplexity.ai/hub/blog/introducing-hybrid-compute-on-mac">source</a></small></p><hr/><p>Perplexity has introduced Hybrid Compute for Mac, a feature that partitions AI workloads between cloud-based frontier models and local large language models (LLMs). The system uses a privacy classifier to identify sensitive information, allowing users to keep confidential data on their machines while delegating more complex processing to the cloud. This hybrid approach is intended to enhance data privacy and reduce inference costs by utilizing local hardware.</p><p>The feature is available to Pro and Max subscribers and enterprise customers on Apple Silicon Macs running macOS 15, with a recommended minimum of 32GB of unified memory. Users can choose from local models such as Gemma E4B or versions of Qwen's 35B parameter model. The interface provides real-time visualizations of CPU, GPU, and memory usage and supports task queuing via an iPhone.</p><p><img src="https://www.engadget.com/img/gallery/perplexitys-hybrid-compute-lets-you-split-tasks-between-cloud-and-local-models/intro-1788274229.jpg" /></p><hr/><small>1 Sep 2026, 22:53 UTC | #19799</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Integrates ChatGPT Health with Epic's Electronic Health Records</title>
     <link href="https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/" rel="alternate" />

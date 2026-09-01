@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-01T18:36:00+00:00</updated>
+  <updated>2026-09-01T18:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Starman Optical to Acquire GoPro in $285 Million Deal</title>
+    <link href="https://www.reuters.com/legal/transactional/gopro-be-acquired-by-starman-optical-285-million-deal-2026-09-01/" rel="alternate" />
+    <id>https://www.reuters.com/legal/transactional/gopro-be-acquired-by-starman-optical-285-million-deal-2026-09-01/::v238</id>
+    <published>2026-09-01T18:38:00+00:00</published>
+    <updated>2026-09-01T18:38:00+00:00</updated>
+    <media:thumbnail url="https://storytellertech.com/wp-content/uploads/2023/01/gopro-model-differences.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/transactional/gopro-be-acquired-by-starman-optical-285-million-deal-2026-09-01/">reuters.com</a> | <a href="https://investor.gopro.com/press-releases/press-release-details/2026/GOPRO-ENTERS-INTO-DEFINITIVE-AGREEMENT-TO-MERGE-WITH-STARMAN-OPTICAL-INC-/default.aspx">source</a> | <a href="https://news.ycombinator.com/item?id=49522824">hacker news</a></small></p><hr/><p>GoPro has entered into a definitive merger agreement to be acquired by Starman Optical, a private optical-photonics company, in an all-cash transaction valued at $285 million. Under the terms of the deal, GoPro shareholders will receive $1.14 per share, representing a 29.5% premium over the company's last closing price.</p><p>The acquisition is expected to expand GoPro's market presence beyond consumer action cameras and into the artificial intelligence infrastructure and defense technology sectors. The merger intends to integrate Starman Optical's U.S.-made optical transceivers into GoPro's product portfolio.</p><p><img src="https://storytellertech.com/wp-content/uploads/2023/01/gopro-model-differences.jpg" /></p><hr/><small>1 Sep 2026, 22:55 UTC | #19798</small>]]></content>
+  </entry>
   <entry>
     <title>Ed Zitron's AI Skeptic Predictions Evaluated</title>
     <link href="https://danluu.com/zitron/" rel="alternate" />
