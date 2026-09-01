@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T07:39:00+00:00</updated>
+  <updated>2026-09-01T07:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ghcup-gtk v0.1.0.0 Released</title>
+    <link href="https://discourse.haskell.org/t/v0-1-0-0-of-ghcup-gtk-released/14631" rel="alternate" />
+    <id>https://discourse.haskell.org/t/v0-1-0-0-of-ghcup-gtk-released/14631::v238</id>
+    <published>2026-09-01T07:43:00+00:00</published>
+    <updated>2026-09-01T07:43:00+00:00</updated>
+    <media:thumbnail url="https://github.com/user-attachments/assets/8f900eea-ad5f-411b-9a06-2d1269fa858a" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://discourse.haskell.org/t/v0-1-0-0-of-ghcup-gtk-released/14631">discourse.haskell.org</a> | <a href="https://github.com/Kleidukos/ghcup-gtk/releases/tag/v0.1.0.0">source</a> | <a href="https://lobste.rs/s/gt1cow/v0_1_0_0_ghcup_gtk_released">discussion</a></small></p><hr/><p>ghcup-gtk v0.1.0.0 has been released as a GTK wrapper for the ghcup toolchain manager to simplify the Haskell installation process for beginners. The release includes signed packages for several operating systems.</p><p>The application implements an Elm-style architecture and serves as a reference for building maintainable desktop applications in Haskell. Development challenges include limited Haskell-specific GTK resources and upstream issues with static linking.</p><p><img src="https://github.com/user-attachments/assets/8f900eea-ad5f-411b-9a06-2d1269fa858a" /></p><hr/><small>1 Sep 2026, 12:05 UTC | #19769</small>]]></content>
+  </entry>
   <entry>
     <title>The Evolution and Longevity of CSS</title>
     <link href="https://jasonsantamaria.com/blog/css-is-still-awesome" rel="alternate" />
