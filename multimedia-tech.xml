@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-01T18:12:00+00:00</updated>
+  <updated>2026-09-01T18:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Aggro Crab Launches New Publishing Label</title>
+    <link href="https://www.gamedeveloper.com/business/aggro-crab-launches-publishing-label-to-splash-that-peak-cash" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/aggro-crab-launches-publishing-label-to-splash-that-peak-cash::v238</id>
+    <published>2026-09-01T18:22:00+00:00</published>
+    <updated>2026-09-01T18:22:00+00:00</updated>
+    <media:thumbnail url="https://www.digiphile.co/_next/image?url=https://media.digiphile.co/games/f9741f65-9fb8-4ad0-b119-01bd4738ab04.jpg&amp;w=1200&amp;q=80" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/aggro-crab-launches-publishing-label-to-splash-that-peak-cash">gamedeveloper.com</a> | <a href="https://aggrocrab.com/publishing">source</a></small></p><hr/><p>Aggro Crab, the developer of Another Crab's Treasure and Peak, has launched a new publishing label called Aggro Crab Presents. The initiative is designed to support indie game projects with budgets up to $500,000 that are expected to launch within two years. The studio has already signed its first two projects: Rebounder by ThirtyThree and Subway Midnight by Bubby Darkstar.</p><p>Following the success of Peak, the publishing arm will focus on "stylized games with an attitude" and will not accept titles using generative AI. Aggro Crab intends to offer flexible contract terms, including adjustable milestones and revenue models that avoid 100% recoupment to ensure developers maintain cash flow.</p><p><img src="https://www.digiphile.co/_next/image?url=https://media.digiphile.co/games/f9741f65-9fb8-4ad0-b119-01bd4738ab04.jpg&w=1200&q=80" /></p><hr/><small>1 Sep 2026, 22:26 UTC | #19817</small>]]></content>
+  </entry>
   <entry>
     <title>Sega-owned Rovio Shuts Down Copenhagen Studio</title>
     <link href="https://www.gamedeveloper.com/business/sega-owned-rovio-is-shutting-down-its-copenhagen-studio" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T18:04:00+00:00</updated>
+  <updated>2026-09-01T18:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Sonos Unveils Ace Ultra Headphones and Beam Ultra Soundbar</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-01/sonos-debuts-449-ace-ultra-headphones-699-beam-ultra-soundbar-chatgpt-tie-in?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODI3MzkwNiwiZXhwIjoxNzg4ODc4NzA2LCJhcnRpY2xlSWQiOiJUS09XUVBWVFREMEEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.rCH_iYEMZYXKm5tiFOPgVSJNpynIGH0Do2sRMMwTz0U" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-01/sonos-debuts-449-ace-ultra-headphones-699-beam-ultra-soundbar-chatgpt-tie-in?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODI3MzkwNiwiZXhwIjoxNzg4ODc4NzA2LCJhcnRpY2xlSWQiOiJUS09XUVBWVFREMEEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.rCH_iYEMZYXKm5tiFOPgVSJNpynIGH0Do2sRMMwTz0U::v238</id>
+    <published>2026-09-01T18:20:00+00:00</published>
+    <updated>2026-09-01T18:20:00+00:00</updated>
+    <media:thumbnail url="https://static2.pisapapeles.net/uploads/2025/09/610679-Sonos-Voice-Control-x-Philips-Hue-04-8cbd1b-original-1756989340-scaled.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-01/sonos-debuts-449-ace-ultra-headphones-699-beam-ultra-soundbar-chatgpt-tie-in?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODI3MzkwNiwiZXhwIjoxNzg4ODc4NzA2LCJhcnRpY2xlSWQiOiJUS09XUVBWVFREMEEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.rCH_iYEMZYXKm5tiFOPgVSJNpynIGH0Do2sRMMwTz0U">bloomberg.com</a></small></p><hr/><p>The Ace Ultra headphones ($449) and Beam Ultra soundbar ($699) were unveiled, with both products scheduled for release on September 29. The company is also rebranding its audio platform operating system to Sonos 27.</p><p>Sonos is opening its ecosystem to third-party artificial intelligence assistants as part of a strategic shift under CEO Tom Conrad. This initiative aims to transition the company from a hardware-focused speaker brand into a more expansive, software-integrated audio platform.</p><p><img src="https://static2.pisapapeles.net/uploads/2025/09/610679-Sonos-Voice-Control-x-Philips-Hue-04-8cbd1b-original-1756989340-scaled.jpg" /></p><hr/><small>1 Sep 2026, 22:20 UTC | #19790</small>]]></content>
+  </entry>
   <entry>
     <title>Roku Launches First OLED TVs</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-01/roku-launches-its-first-oled-tvs-with-prices-starting-at-999" rel="alternate" />

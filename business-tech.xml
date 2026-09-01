@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-01T18:15:00+00:00</updated>
+  <updated>2026-09-01T18:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Ed Zitron's AI Skeptic Predictions Evaluated</title>
+    <link href="https://danluu.com/zitron/" rel="alternate" />
+    <id>https://danluu.com/zitron/::v238</id>
+    <published>2026-09-01T18:36:00+00:00</published>
+    <updated>2026-09-01T18:36:00+00:00</updated>
+    <media:thumbnail url="https://media.wired.com/photos/68fa6f971a5f94c0df627e44/master/w_1600,c_limit/AC_Zitron_WEB-3.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://danluu.com/zitron/">danluu.com</a> | <a href="https://news.ycombinator.com/item?id=49526069">hacker news</a></small></p><hr/><p>An evaluation of Ed Zitron's AI skepticism finds that many of his claims regarding corporate decline are contradicted by actual financial data. The analysis notes that despite assertions of terminal stagnation at Meta, Google, and Microsoft, these companies have continued to show significant revenue and profit growth.</p><p>The article also argues that Zitron's predictions concerning the limits of generative AI and the growth of companies like OpenAI are often based on misrepresented or flawed data. It highlights several instances where his forecasts failed to align with actual technological progress and market developments.</p><p><img src="https://media.wired.com/photos/68fa6f971a5f94c0df627e44/master/w_1600,c_limit/AC_Zitron_WEB-3.jpg" /></p><hr/><small>1 Sep 2026, 22:32 UTC | #19850</small>]]></content>
+  </entry>
   <entry>
     <title>Waymo and Zoox Expand Robotaxi Services in United States</title>
     <link href="https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html" rel="alternate" />
