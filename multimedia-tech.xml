@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-01T18:01:00+00:00</updated>
+  <updated>2026-09-01T18:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Sega-owned Rovio Shuts Down Copenhagen Studio</title>
+    <link href="https://www.gamedeveloper.com/business/sega-owned-rovio-is-shutting-down-its-copenhagen-studio" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/sega-owned-rovio-is-shutting-down-its-copenhagen-studio::v238</id>
+    <published>2026-09-01T18:12:00+00:00</published>
+    <updated>2026-09-01T18:12:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf0c40dfc01b4bc8c/6a96f26ef33db21db644c08b/New_Project(30).png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/sega-owned-rovio-is-shutting-down-its-copenhagen-studio">gamedeveloper.com</a> | <a href="https://mobilegamer.biz/rovio-copenhagen-to-close-after-sonic-blitz-cancellation/">source</a></small></p><hr/><p>Following the cancellation of the mobile game Sonic Blitz, Sega-owned Rovio is shutting down its Copenhagen studio. The company is currently undergoing a redundancy process to discontinue all operations in Denmark.</p><p>The decision follows reports that player retention for the hybrid runner and card collection game failed to meet expectations. This closure follows a series of restructuring efforts at Rovio since its 2023 acquisition by Sega, which included the closure of Studio Lumi and various rounds of layoffs.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf0c40dfc01b4bc8c/6a96f26ef33db21db644c08b/New_Project(30).png?width=720&quality=80&disable=upscale" /></p><hr/><small>1 Sep 2026, 21:23 UTC | #19821</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia to Launch DLSS 5 for RTX 50-Series GPUs</title>
     <link href="https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27" rel="alternate" />
