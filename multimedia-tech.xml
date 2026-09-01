@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-01T16:01:00+00:00</updated>
+  <updated>2026-09-01T18:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Nvidia to Launch DLSS 5 for RTX 50-Series GPUs</title>
+    <link href="https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27" rel="alternate" />
+    <id>https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27::v238</id>
+    <published>2026-09-01T18:01:00+00:00</published>
+    <updated>2026-09-01T18:01:00+00:00</updated>
+    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/assets_2026_08_1788195652_nba-2k27-nvidia-dlss-5-comparison-002-off.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27">theverge.com</a> | <a href="https://www.nvidia.com/en-us/geforce/news/dlss-5-3d-guided-neural-rendering/">source</a></small></p><hr/><p>Nvidia will launch DLSS 5 on September 3, providing "3D-Guided Neural Rendering" for RTX 50-series desktop and laptop GPUs and GeForce NOW. The technology uses AI to enhance real-time lighting and textures, and NBA 2K27 will be the first game to feature official support.</p><p>The feature has faced criticism for its potential to significantly alter character appearances in early demonstrations. Additionally, the technology carries a substantial performance cost, with estimates suggesting a 50% to 60% reduction in frame rates.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/assets_2026_08_1788195652_nba-2k27-nvidia-dlss-5-comparison-002-off.jpg?quality=90&strip=all&crop=0,0,100,100" /></p><hr/><small>1 Sep 2026, 20:19 UTC | #19782</small>]]></content>
+  </entry>
   <entry>
     <title>Paradox Interactive's Afterworld Integrates RPG Elements to Attract Grand Strategy Players</title>
     <link href="https://www.gamedeveloper.com/design/paradox-interactive-s-afterworld-wants-to-entice-new-players-to-grand-strategy-with-tasty-rpg-hooks" rel="alternate" />
