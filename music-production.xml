@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-01T18:13:00+00:00</updated>
+  <updated>2026-09-01T18:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Rob Clouth Releases Noise Canvas Spectral Sound Design Tool</title>
+    <link href="https://bedroomproducersblog.com/2026/09/01/rob-clouth-noise-canvas/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/01/rob-clouth-noise-canvas/::v238</id>
+    <published>2026-09-01T18:18:00+00:00</published>
+    <updated>2026-09-01T18:18:00+00:00</updated>
+    <media:thumbnail url="https://www.fineincrements.com/themes/custom/fine_increments/images/wf-social-share.png" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/01/rob-clouth-noise-canvas/">bedroomproducersblog.com</a> | <a href="https://github.com/robclouth/noise-canvas">source</a> | <a href="https://bedroomproducersblog.com/2026/09/01/rob-clouth-noise-canvas/#respond">discussion</a></small></p><hr/><p>Noise Canvas is a free, open-source spectral sound design tool that enables users to manipulate audio via spectrograms. The software allows for painting transformations and effects directly onto sound using beats and semitones.</p><p>The tool provides a visual approach to audio editing, functioning similarly to how Photoshop operates with images. It is available as a standalone application and includes Ableton Extension (.ablx) files for integration within Ableton Live.</p><p><img src="https://www.fineincrements.com/themes/custom/fine_increments/images/wf-social-share.png" /></p><hr/><small>1 Sep 2026, 22:01 UTC | #19810</small>]]></content>
+  </entry>
+  <entry>
+    <title>Bjango Releases Reality Distortion Resynthesis Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/09/01/bjango-reality-distortion/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/01/bjango-reality-distortion/::v238</id>
+    <published>2026-09-01T18:17:00+00:00</published>
+    <updated>2026-09-01T18:17:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/fusion-square-cover-website.png" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/01/bjango-reality-distortion/">bedroomproducersblog.com</a> | <a href="https://bjango.com/plugin/realitydistortion/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/01/bjango-reality-distortion/#comments">discussion</a></small></p><hr/><p>The plugin analyzes the frequency response of incoming audio and recreates it using up to 64 oscillators. These oscillators can be pitch-shifted, modulated, or manipulated to create diverse sonic textures.</p><p>Bedroom Producers Blog is hosting a giveaway for five copies of the software for its readers. The plugin is available for macOS and Windows and is designed to facilitate creative exploration of complex soundscapes.</p><p><img src="https://static.kvraudio.com/i/b/fusion-square-cover-website.png" /></p><hr/><small>1 Sep 2026, 21:59 UTC | #19811</small>]]></content>
+  </entry>
   <entry>
     <title>DAWJunkie Releases VinylSynth Jr Free Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/09/01/dawjunkie-vinylsynth-jr/" rel="alternate" />

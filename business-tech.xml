@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-01T18:09:00+00:00</updated>
+  <updated>2026-09-01T18:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Waymo and Zoox Expand Robotaxi Services in United States</title>
+    <link href="https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html::v238</id>
+    <published>2026-09-01T18:15:00+00:00</published>
+    <updated>2026-09-01T18:15:00+00:00</updated>
+    <media:thumbnail url="https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyNzc1MDc1/foster-city-california-may-24-a-view-of-autonomous-vehicle-zoox-near-their-headquarters-in-foster-city-california-united-states-on-may-24-2024-photo-by-tayfun-coskunanadolu-via-getty-images-stockpack.jpg?profile=w2560&amp;ar=1-1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/01/waymo-and-zoox-expand-into-more-us-markets-as-robotaxi-race-heats-up.html">cnbc.com</a></small></p><hr/><p>Alphabet-owned Waymo is launching autonomous ride-hailing in San Diego, Tampa, and Denver, its first commercial operations in Colorado, using its new Ojai vehicles. Zoox announced plans to begin testing its vehicles in Houston and San Diego, aiming for a presence in 12 U.S. markets.</p><p>The expansion occurs as Tesla prepares to share details on its Cybercab and robotaxi service. Goldman Sachs Research projects the U.S. robotaxi market will reach $19 billion in 2030 and $48 billion by 2035, as the industry faces scrutiny over safety data transparency and potential job displacement.</p><p><img src="https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyNzc1MDc1/foster-city-california-may-24-a-view-of-autonomous-vehicle-zoox-near-their-headquarters-in-foster-city-california-united-states-on-may-24-2024-photo-by-tayfun-coskunanadolu-via-getty-images-stockpack.jpg?profile=w2560&ar=1-1" /></p><hr/><small>1 Sep 2026, 21:53 UTC | #19787</small>]]></content>
+  </entry>
   <entry>
     <title>upGrad Acquires Unacademy for $206M in All-Stock Deal</title>
     <link href="https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/" rel="alternate" />
