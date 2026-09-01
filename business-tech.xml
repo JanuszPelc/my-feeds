@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-08-31T21:36:00+00:00</updated>
+  <updated>2026-08-31T21:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amazon Rejects FTC Allegations Regarding Sponsored Ads Auctions</title>
+    <link href="https://www.aboutamazon.com/company-news/amazon-ftc-sponsored-ads-lawsuit-response" rel="alternate" />
+    <id>https://www.aboutamazon.com/company-news/amazon-ftc-sponsored-ads-lawsuit-response::v237</id>
+    <published>2026-08-31T21:43:00+00:00</published>
+    <updated>2026-08-31T21:43:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/6773e3dcf10d982cc768be21/6a2c501ea9d68b2f3263f10f_How+Amazon+PPC+Auctions+Work.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.aboutamazon.com/company-news/amazon-ftc-sponsored-ads-lawsuit-response">aboutamazon.com</a></small></p><hr/><p>Amazon has issued a response to a lawsuit filed by the FTC and 22 states alleging that the company misled advertisers about its Sponsored Ads pricing and auction mechanics. The company denies the allegations, arguing that its auction models prioritize ad relevance to benefit both advertisers and shoppers. Amazon asserts that its practices have not resulted in consumer price increases or advertiser harm.</p><p>Amazon claims that its shift toward machine learning-based relevance models has reduced average winning bids by 50% since 2019 while increasing conversion rates. The company contends that the FTC mischaracterizes standard "second-price" auction dynamics and reserve prices used across the industry, noting that inflation-adjusted cost-per-click for advertisers has remained flat.</p><p><img src="https://cdn.prod.website-files.com/6773e3dcf10d982cc768be21/6a2c501ea9d68b2f3263f10f_How+Amazon+PPC+Auctions+Work.webp" /></p><hr/><small>1 Sep 2026, 03:39 UTC | #19719</small>]]></content>
+  </entry>
   <entry>
     <title>FTC and States Plan Lawsuit Against Amazon for Alleged Advertising Price Manipulation</title>
     <link href="https://www.wsj.com/tech/ftc-to-file-lawsuit-alleging-amazon-deceived-advertisers-d71039ee?st=o4WjgG" rel="alternate" />
