@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T15:22:00+00:00</updated>
+  <updated>2026-09-02T15:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ab-riscv-interpreter Crates Feature Modular RISC-V Interpretation</title>
+    <link href="https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/" rel="alternate" />
+    <id>https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/::v238</id>
+    <published>2026-09-02T15:26:00+00:00</published>
+    <updated>2026-09-02T15:26:00+00:00</updated>
+    <media:thumbnail url="https://external-preview.redd.it/GmcgcT2GYlqfCWnPfI-Wqf78VQxp_oxO2p1csAIsgxQ.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=fe27c810ce941b22140640f9d405d8eeb71890e8" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/">abundance.build</a> | <a href="https://lobste.rs/s/potdi9/risc_v_interpreter_from_future">discussion</a></small></p><hr/><p>The `ab-riscv-interpreter` and `ab-riscv-primitives` Rust crates provide a modular, generic, and `no_std` implementation of the RISC-V specification. Designed for environments requiring strict compliance, such as blockchain applications, the interpreter is panic-free, can run at compile time using `const fn`, and passes RISC-V Architectural Certification Tests.</p><p>Implementation of the interpreter requires approximately 30 nightly Rust features, including advanced const generics and guaranteed tail calls. The architecture uses stateful macros and build scripts to manage instruction dependencies and facilitate execution through indirect threading.</p><p><img src="https://external-preview.redd.it/GmcgcT2GYlqfCWnPfI-Wqf78VQxp_oxO2p1csAIsgxQ.jpg?width=1080&crop=smart&auto=webp&s=fe27c810ce941b22140640f9d405d8eeb71890e8" /></p><hr/><small>2 Sep 2026, 18:23 UTC | #19941</small>]]></content>
+  </entry>
+  <entry>
+    <title>Acer Unveils Swift Blade 14 and Swift Air 16 Laptops</title>
+    <link href="https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs" rel="alternate" />
+    <id>https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs::v238</id>
+    <published>2026-09-02T15:25:00+00:00</published>
+    <updated>2026-09-02T15:25:00+00:00</updated>
+    <media:thumbnail url="https://jamonline.ph/wp-content/uploads/2026/06/acer-swift-air-14-2026-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs">theverge.com</a> | <a href="https://www.prnewswire.com/news-releases/acer-expands-thin-and-light-portfolio-with-799-g-swift-blade-14-laptop-302866892.html">source</a></small></p><hr/><p>The Swift Blade 14 is an ultra-lightweight laptop weighing 799 grams (1.76 pounds) and measuring 12.95mm thick. It features a carbon fiber chassis and is powered by Intel Wildcat Lake processors, with 12GB of RAM and options for either an IPS LCD or an OLED display.</p><p>The Swift Air 16 is a larger 16-inch model that measures 13.5mm thick and weighs 1.5kg. It includes Thunderbolt 4 ports and is expected to arrive in North America in Q1 2027, with availability in other regions slated for December.</p><p><img src="https://jamonline.ph/wp-content/uploads/2026/06/acer-swift-air-14-2026-1.jpg" /></p><hr/><small>2 Sep 2026, 18:20 UTC | #19892</small>]]></content>
+  </entry>
   <entry>
     <title>Acer Unveils Repairable Vero 16 and New Swift Laptops</title>
     <link href="https://www.cnet.com/tech/computing/acer-recommits-to-repairability-with-new-vero-16-laptop/" rel="alternate" />
