@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-02T06:34:00+00:00</updated>
+  <updated>2026-09-02T08:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>South Korea's Sovereign AI Investment and Motif Technologies' Performance</title>
+    <link href="https://newsletter.semianalysis.com/p/koreas-trillion-dollar-sovereign" rel="alternate" />
+    <id>https://newsletter.semianalysis.com/p/koreas-trillion-dollar-sovereign::v238</id>
+    <published>2026-09-02T08:05:00+00:00</published>
+    <updated>2026-09-02T08:05:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/sync/v2/D4D27AQEYGBM-SuzRMA/articleshare-shrink_800/B4DZxAWdDSHMAI-/0/1770606155831?e=2147483647&amp;v=beta&amp;t=InMw1BpMrKn2DnF-S2FEYK64kINmAsQhuWYc5wUOXKQ" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://newsletter.semianalysis.com/p/koreas-trillion-dollar-sovereign">newsletter.semianalysis.com</a></small></p><hr/><p>South Korea is hosting a government-subsidized tournament to develop independent foundation models, aimed at reducing national reliance on foreign AI developers. The project evaluates participants through a combination of benchmark scores, expert reviews, and user testing, with the winners scheduled to receive additional resources to scale their models through 2027.</p><p>Startup Motif Technologies recently outperformed several major Korean conglomerates in benchmarks with its 2.6B parameter model, Motif 3, despite being eliminated from the tournament due to opaque scoring on expert and user testing metrics. This initiative is part of a massive $919 billion national investment plan to build 18.4GW of AI-related data center capacity by 2035.</p><p><img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQEYGBM-SuzRMA/articleshare-shrink_800/B4DZxAWdDSHMAI-/0/1770606155831?e=2147483647&v=beta&t=InMw1BpMrKn2DnF-S2FEYK64kINmAsQhuWYc5wUOXKQ" /></p><hr/><small>2 Sep 2026, 13:39 UTC | #19877</small>]]></content>
+  </entry>
+  <entry>
+    <title>Frontier AI Labs Increase Biological Risk Testing</title>
+    <link href="https://www.ft.com/content/22bfa989-7477-434a-aa53-6fbfe6cd0335" rel="alternate" />
+    <id>https://www.ft.com/content/22bfa989-7477-434a-aa53-6fbfe6cd0335::v238</id>
+    <published>2026-09-02T08:04:00+00:00</published>
+    <updated>2026-09-02T08:04:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!q_w2!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/fbbb6603-7ad9-4d64-b868-887265414b37_1012x724.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/22bfa989-7477-434a-aa53-6fbfe6cd0335">ft.com</a></small></p><hr/><p>Frontier AI labs are ramping up biological risk testing to prevent advanced models from assisting in the production of novel viruses or bioweapons. These safety evaluations are significantly more complex than cybersecurity testing because biological risks cannot be fully modeled within a purely digital environment.</p><p>Biosecurity experts and industry executives are advocating for these assessments to mitigate potential real-world harms. The difficulty of simulating biological threats highlights a critical challenge for AI safety and governance as models gain greater capabilities.</p><p><img src="https://substackcdn.com/image/fetch/$s_!q_w2!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/fbbb6603-7ad9-4d64-b868-887265414b37_1012x724.png" /></p><hr/><small>2 Sep 2026, 13:37 UTC | #19874</small>]]></content>
+  </entry>
   <entry>
     <title>NYC Department of Education Restricts AI Use for Younger Students</title>
     <link href="https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html?unlocked_article_code=1.-FA.RCrg.ZNhpsOhLzuvj&amp;smid=bs-share" rel="alternate" />
