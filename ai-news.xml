@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-02T15:13:00+00:00</updated>
+  <updated>2026-09-02T15:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Amazon Adds Scam Verification to Alexa for Shopping</title>
+    <link href="https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/::v238</id>
+    <published>2026-09-02T15:50:00+00:00</published>
+    <updated>2026-09-02T15:50:00+00:00</updated>
+    <media:thumbnail url="https://www.socialmediamatters.in/images/2026/02/13/Amazon-Shopping-Scams-01.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/">techcrunch.com</a> | <a href="https://www.aboutamazon.com/news/retail/how-to-verify-amazon-messages-alexa-for-shopping">source</a></small></p><hr/><p>Alexa for Shopping can now identify whether a text, email, or phone call is an authentic communication from the retailer. The AI analyzes metadata, timing, and content, comparing suspicious messages against a global database of billions of legitimate Amazon communications to provide a definitive answer regarding the sender's identity.</p><p>The feature aims to reduce the high volume of customer service inquiries caused by potential scams, which currently reach Amazon's support teams roughly 360,000 times per year. This update is part of a broader effort to pivot Alexa's capabilities toward proactive shopping assistance and security features.</p><p><img src="https://www.socialmediamatters.in/images/2026/02/13/Amazon-Shopping-Scams-01.png" /></p><hr/><small>2 Sep 2026, 20:06 UTC | #19917</small>]]></content>
+  </entry>
   <entry>
     <title>Google DeepMind Releases Gemini 3.8 Flash Model Card</title>
     <link href="https://deepmind.google/models/model-cards/gemini-3-8-flash/" rel="alternate" />

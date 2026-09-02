@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-02T15:45:00+00:00</updated>
+  <updated>2026-09-02T15:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Trellner Research Identifies Manufactured Sources Fueling AI Recommendations</title>
+    <link href="https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/" rel="alternate" />
+    <id>https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/::v238</id>
+    <published>2026-09-02T15:52:00+00:00</published>
+    <updated>2026-09-02T15:52:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQGsI4UAMjrs9g/article-cover_image-shrink_720_1280/B56Z0jsCI8I0AI-/0/1774420243595?e=2147483647&amp;v=beta&amp;t=uTZtYToDzMIizMOqOTiXtaGUbIE2fvqdBEFhy1-DV6w" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/">trellner.com</a> | <a href="https://news.ycombinator.com/item?id=49536375">hacker news</a></small></p><hr/><p>Trellner Research reports that Perplexity AI's recommendation engine frequently cites a network of manufactured websites. The study identified over 215,000 machine-generated "best software" pages across three interconnected domains—Worldmetrics, WifiTalents, and Gitnux—designed to optimize for AI retrieval processes.</p><p>The investigation found that a large portion of citations lead to low-authority domains outside the top one million in web traffic. These sites frequently use specialized metadata, such as the title "Facts &amp; Grounding Page," to target AI models rather than human readers.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQGsI4UAMjrs9g/article-cover_image-shrink_720_1280/B56Z0jsCI8I0AI-/0/1774420243595?e=2147483647&v=beta&t=uTZtYToDzMIizMOqOTiXtaGUbIE2fvqdBEFhy1-DV6w" /></p><hr/><small>2 Sep 2026, 20:12 UTC | #19958</small>]]></content>
+  </entry>
   <entry>
     <title>Adobe Acquires Indian Market Intelligence Startup Rilo</title>
     <link href="https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/" rel="alternate" />
