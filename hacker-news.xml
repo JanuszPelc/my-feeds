@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T18:48:00+00:00</updated>
+  <updated>2026-09-01T20:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Google Announces Android Update with Motion Assist and Accessibility Features</title>
+    <link href="https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/::v238</id>
+    <published>2026-09-01T20:54:00+00:00</published>
+    <updated>2026-09-01T20:54:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Android-MotionAssist.png?w=575" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/">techcrunch.com</a> | <a href="https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/">source</a></small></p><hr/><p>Google is rolling out five new features as part of its September 2026 Android update designed to improve accessibility and personalization. The rollout includes "Motion Assist," which uses an animated screen overlay to help reduce motion sickness for users in moving vehicles, and "Guided Vision," a Gemini-powered tool that assists blind and low-vision users by identifying objects and reading text via the phone's camera.</p><p>The update also introduces a "remembered items" feature in Find Hub, allowing users to use Gemini to store and recall the locations of personal items. Additional enhancements include Google Keep integration within Google Messages and increased personalization options for individual chats, such as custom backgrounds and matching text bubble colors.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Android-MotionAssist.png?w=575" /></p><hr/><small>2 Sep 2026, 02:07 UTC | #19844</small>]]></content>
+  </entry>
   <entry>
     <title>Predicate Logic and Set Theory Fundamentals for Programmers</title>
     <link href="https://www.hillelwayne.com/post/predicate-logic/" rel="alternate" />
