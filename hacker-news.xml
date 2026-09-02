@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T15:26:00+00:00</updated>
+  <updated>2026-09-02T15:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Coherence and Orphan Instance Rules Explained</title>
+    <link href="https://osa1.net/posts/2026-08-29-coherence-and-orphans.html" rel="alternate" />
+    <id>https://osa1.net/posts/2026-08-29-coherence-and-orphans.html::v238</id>
+    <published>2026-09-02T15:41:00+00:00</published>
+    <updated>2026-09-02T15:41:00+00:00</updated>
+    <media:thumbnail url="https://theedenapis.com/staff-handbooks/assets/images/group_instance_rules_banner-8248e8214f84d945d0337082ef7207bb.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://osa1.net/posts/2026-08-29-coherence-and-orphans.html">osa1.net</a> | <a href="https://lobste.rs/s/vbu5ay/coherence_orphan_instance_rules">discussion</a></small></p><hr/><p>Coherence is a global property ensuring that a specific type-class constraint resolves to the same method implementation throughout an entire program. This consistency is vital for maintaining data structure invariants, serialization compatibility, and predictable behavior in functions like logging. Incoherence occurs when "overlapping instances" allow multiple implementations to match a single constraint.</p><p>To enable modular library composition while preventing global incoherence, languages implement orphan instance rules that restrict where instances can be defined. The author examines the challenges of designing these rules for complex scenarios, such as multi-parameter typeclasses and higher-kinded types, and notes that current implementations, such as those in Rust, aim to balance modularity with system-wide consistency.</p><p><img src="https://theedenapis.com/staff-handbooks/assets/images/group_instance_rules_banner-8248e8214f84d945d0337082ef7207bb.png" /></p><hr/><small>2 Sep 2026, 19:09 UTC | #19953</small>]]></content>
+  </entry>
+  <entry>
+    <title>CSS random() Polyfill Enables Cross-Browser Support</title>
+    <link href="https://css-tricks.com/css-random-function-polyfill/" rel="alternate" />
+    <id>https://css-tricks.com/css-random-function-polyfill/::v238</id>
+    <published>2026-09-02T15:40:00+00:00</published>
+    <updated>2026-09-02T15:40:00+00:00</updated>
+    <media:thumbnail url="https://media2.dev.to/dynamic/image/width=800,height=,fit=scale-down,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z67pheqjlqns4gupuau1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://css-tricks.com/css-random-function-polyfill/">css-tricks.com</a> | <a href="https://lobste.rs/s/edj52m/let_s_use_emergent_css_random_function_all">discussion</a></small></p><hr/><p>Safari is currently the only major browser to support the new CSS `random()` function, which allows for declarative, presentational randomness. To facilitate cross-browser use, the `css-random-polyfill` JavaScript package has been released, enabling the function in browsers like Chrome and Firefox. The polyfill requires a specific implementation pattern, including the use of a `.randomized` marker class and custom properties prefixed with `--random`.</p><p>The polyfill supports several advanced aspects of the CSS specification, including step intervals and value sharing via the `element-shared` keyword. Because the `random()` specification is in an early exploration phase and subject to potential breaking changes, the polyfill is designed to be compatible with the native implementation; once browsers reach full support, the JavaScript can be removed without breaking the code.</p><p><img src="https://media2.dev.to/dynamic/image/width=800,height=,fit=scale-down,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z67pheqjlqns4gupuau1.png" /></p><hr/><small>2 Sep 2026, 19:06 UTC | #19951</small>]]></content>
+  </entry>
   <entry>
     <title>ab-riscv-interpreter Crates Feature Modular RISC-V Interpretation</title>
     <link href="https://abundance.build/blog/2026-08-31-risc-v-interpreter-from-the-future/" rel="alternate" />

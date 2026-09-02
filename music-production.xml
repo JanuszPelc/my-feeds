@@ -3,9 +3,63 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-02T15:23:00+00:00</updated>
+  <updated>2026-09-02T15:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Nomz Studios Releases macOS Version of StemMaster</title>
+    <link href="https://www.kvraudio.com/news/nomz-studios-updates-stemmaster-to-v1-1-46---releases-macos-version-68322?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68322" rel="alternate" />
+    <id>https://www.kvraudio.com/news/nomz-studios-updates-stemmaster-to-v1-1-46---releases-macos-version-68322?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68322::v238</id>
+    <published>2026-09-02T15:34:00+00:00</published>
+    <updated>2026-09-02T15:34:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/og-card.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/nomz-studios-updates-stemmaster-to-v1-1-46---releases-macos-version-68322?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68322">kvraudio.com</a> | <a href="https://www.nomzstudios.com/">source</a></small></p><hr/><p>A macOS version of StemMaster (v1.1.46) is now available for Apple Silicon users running macOS 15 or later. This release extends the stem-based mixing and mastering application's availability beyond Windows, and a single license key can be used to activate up to three machines across different platforms.</p><p>Recent feature updates include the addition of 24-bit AIFF as a master export option and a function to cancel active rendering processes. The standalone application operates offline by default and offers an optional secondary engine that utilizes user-supplied API keys for measurement analysis.</p><p><img src="https://static.kvraudio.com/i/b/og-card.png" /></p><hr/><small>2 Sep 2026, 18:55 UTC | #19931</small>]]></content>
+  </entry>
+  <entry>
+    <title>Vitric Audio Launches Eleven-Plugin Lineup</title>
+    <link href="https://www.kvraudio.com/news/vitric-audio-launches-eleven-plugin-line-built-in-a-cleveland-recording-studio-bevel-eq-and-stoke-saturator-free-at-launch-68325?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68325" rel="alternate" />
+    <id>https://www.kvraudio.com/news/vitric-audio-launches-eleven-plugin-line-built-in-a-cleveland-recording-studio-bevel-eq-and-stoke-saturator-free-at-launch-68325?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68325::v238</id>
+    <published>2026-09-02T15:33:00+00:00</published>
+    <updated>2026-09-02T15:33:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/m/eqpro_hero_kvr.1784979506.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/vitric-audio-launches-eleven-plugin-line-built-in-a-cleveland-recording-studio-bevel-eq-and-stoke-saturator-free-at-launch-68325?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68325">kvraudio.com</a> | <a href="https://vitricaudio.com/">source</a></small></p><hr/><p>The new collection, developed and used at a Cleveland recording studio, includes Bevel EQ and Stoke Saturator as free tools alongside various other mixing and synthesis modules. The release features a range of audio processing tools including compressors, reverb, delay, and a subharmonic synthesizer.</p><p>Available for Windows and macOS in VST3, AU, and AAX formats, the suite is offered as individual plugins or through specialized bundles for vocal, mixing, and low-end applications. The lineup is completed by the Kiln synthesizer, a three-oscillator instrument with a modulation matrix.</p><p><img src="https://static.kvraudio.com/i/m/eqpro_hero_kvr.1784979506.jpg" /></p><hr/><small>2 Sep 2026, 18:53 UTC | #19930</small>]]></content>
+  </entry>
+  <entry>
+    <title>Hell Yes Loop Lab Releases Ask the Dust Guitar Effect Plugin</title>
+    <link href="https://www.kvraudio.com/news/hell-yes-loop-lab-releases-ask-the-dust---cinematic-spring-driven-guitar-effect-vst3-and-au-68330?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68330" rel="alternate" />
+    <id>https://www.kvraudio.com/news/hell-yes-loop-lab-releases-ask-the-dust---cinematic-spring-driven-guitar-effect-vst3-and-au-68330?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68330::v238</id>
+    <published>2026-09-02T15:32:00+00:00</published>
+    <updated>2026-09-02T15:32:00+00:00</updated>
+    <media:thumbnail url="https://rekkerd.org/wp-content/uploads/2026/09/HYLL-Ask-The-Dust-700x394.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/hell-yes-loop-lab-releases-ask-the-dust---cinematic-spring-driven-guitar-effect-vst3-and-au-68330?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68330">kvraudio.com</a> | <a href="https://www.hellyeslooplab.com/p/ask-the-dust/">source</a></small></p><hr/><p>Hell Yes Loop Lab has released Ask the Dust, a cinematic spring-driven guitar effect plugin available in VST3 and AU formats. The software focuses on a specific tonal vocabulary inspired by 1960s film scores and spaghetti westerns rather than modeling specific amplifiers or historical hardware.</p><p>The plugin offers six controls to adjust pick attack, mechanical spring response, and recording character. It is compatible with macOS and Windows and is available at an introductory price of $9.50.</p><p><img src="https://rekkerd.org/wp-content/uploads/2026/09/HYLL-Ask-The-Dust-700x394.jpg" /></p><hr/><small>2 Sep 2026, 18:51 UTC | #19929</small>]]></content>
+  </entry>
+  <entry>
+    <title>Leit Audio Releases Phrotator Phase Rotation Plugin</title>
+    <link href="https://www.kvraudio.com/news/leit-audio-releases-phrotator---0-360-broadband-phase-rotator-for-vst3-and-au-68333?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68333" rel="alternate" />
+    <id>https://www.kvraudio.com/news/leit-audio-releases-phrotator---0-360-broadband-phase-rotator-for-vst3-and-au-68333?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68333::v238</id>
+    <published>2026-09-02T15:31:00+00:00</published>
+    <updated>2026-09-02T15:31:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/phrotator-banner-m.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/leit-audio-releases-phrotator---0-360-broadband-phase-rotator-for-vst3-and-au-68333?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68333">kvraudio.com</a> | <a href="https://leitaudio.com/phrotator/">source</a></small></p><hr/><p>Leit Audio has released Phrotator, a free broadband phase rotation plugin for macOS, Windows, and Linux. The tool provides continuous 0–360° phase rotation across the entire frequency range in VST3 and AU formats.</p><p>Using FFT-based linear-phase processing, the plugin preserves signal magnitude and tonal balance during phase adjustment. It is designed for tasks such as aligning multi-microphone setups, matching parallel processing chains, and creative sound shaping. A free Leit Audio account is required for the download.</p><p><img src="https://static.kvraudio.com/i/b/phrotator-banner-m.png" /></p><hr/><small>2 Sep 2026, 18:48 UTC | #19928</small>]]></content>
+  </entry>
+  <entry>
+    <title>Luftrum and Tom Wolfe Release Symbiotic Volume 2 for Omnisphere 3</title>
+    <link href="https://www.kvraudio.com/news/luftrum-and-tom-wolfe-release-symbiotic-volume-2-for-omnisphere-3-68335?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68335" rel="alternate" />
+    <id>https://www.kvraudio.com/news/luftrum-and-tom-wolfe-release-symbiotic-volume-2-for-omnisphere-3-68335?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68335::v238</id>
+    <published>2026-09-02T15:30:00+00:00</published>
+    <updated>2026-09-02T15:30:00+00:00</updated>
+    <media:thumbnail url="https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1jeac377a5jaqv91tfj9e3p651h.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/luftrum-and-tom-wolfe-release-symbiotic-volume-2-for-omnisphere-3-68335?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68335">kvraudio.com</a> | <a href="https://www.luftrum.com/omnisphere-bank-symbiotic/">source</a></small></p><hr/><p>This 70-preset soundset for Spectrasonics Omnisphere 3 combines the design styles of Luftrum and Tom Wolfe. The collection includes 55 presets from Luftrum and 15 from Tom Wolfe, designed to bridge analog and digital textures.</p><p>The package includes a bonus Mutations set and six nebula-themed desktop wallpapers. It is priced at $29, though newsletter subscribers can receive a 20% discount.</p><p><img src="https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1jeac377a5jaqv91tfj9e3p651h.png" /></p><hr/><small>2 Sep 2026, 18:44 UTC | #19927</small>]]></content>
+  </entry>
+  <entry>
+    <title>noizplay Updates nyVERB Reverb Plugin to v1.1.0</title>
+    <link href="https://www.kvraudio.com/news/noizplay-updates-nyverb-to-v1-1-0-68332?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68332" rel="alternate" />
+    <id>https://www.kvraudio.com/news/noizplay-updates-nyverb-to-v1-1-0-68332?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68332::v238</id>
+    <published>2026-09-02T15:29:00+00:00</published>
+    <updated>2026-09-02T15:29:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/nyverb-screenshot.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/noizplay-updates-nyverb-to-v1-1-0-68332?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68332">kvraudio.com</a> | <a href="https://noizplay.com/nyverb/">source</a></small></p><hr/><p>noizplay has updated its nyVERB reverb plugin for macOS and Windows to version 1.1.0. The update introduces visual strip displays beneath the focus, air, and duck controls, providing real-time graphical feedback for the bandpass curve, EQ tilt, and ducking gain reduction.</p><p>The update also features an expanded factory library, increasing the preset count from 32 to 84 across seven categories. Additional improvements include a notarized macOS installer, a signed Windows installer, and a redesigned manual. The plugin is available for $29 USD in VST3 and AU formats.</p><p><img src="https://static.kvraudio.com/i/b/nyverb-screenshot.png" /></p><hr/><small>2 Sep 2026, 18:41 UTC | #19920</small>]]></content>
+  </entry>
   <entry>
     <title>ukdf Releases GrainCharlie Free Granular Synthesizer</title>
     <link href="https://www.kvraudio.com/news/ukdf-releases-graincharlie---free-granular-synthesizer-68326?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68326" rel="alternate" />
