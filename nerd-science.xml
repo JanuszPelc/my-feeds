@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-02T02:25:00+00:00</updated>
+  <updated>2026-09-02T07:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>The Normalization of AI Chatbots for Life Guidance</title>
+    <link href="https://ariadne.space/2026/09/01/humanity-has-built-the-records.html" rel="alternate" />
+    <id>https://ariadne.space/2026/09/01/humanity-has-built-the-records.html::v238</id>
+    <published>2026-09-02T07:30:00+00:00</published>
+    <updated>2026-09-02T07:30:00+00:00</updated>
+    <media:thumbnail url="https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/04/Chrono-Cross-Battle-Sequence.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ariadne.space/2026/09/01/humanity-has-built-the-records.html">ariadne.space</a> | <a href="https://lobste.rs/s/wyyzab/humanity_has_built_records_fate_by">discussion</a></small></p><hr/><p>The "Records of FATE" from the video game Chrono Cross serve as a metaphor for the growing trend of individuals seeking life guidance through AI chatbots like ChatGPT, Claude, and Grok. While modern language models lack the independent sentience of the fictional FATE, they act as terminals through which the intentions of controlling organizations are propagated to users via system prompts and fine-tuning.</p><p>This reliance often triggers the "ELIZA effect," where users attribute intelligence and understanding to machines, potentially obscuring the human agendas driving the model's responses. As millions of people turn to these conversational interfaces for direction, the author warns of an asymmetrical relationship where user interaction is shaped by invisible, large-scale institutional control.</p><p><img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/04/Chrono-Cross-Battle-Sequence.jpg" /></p><hr/><small>2 Sep 2026, 12:55 UTC | #19899</small>]]></content>
+  </entry>
   <entry>
     <title>Claude and the Temptation of AI-Assisted Programming</title>
     <link href="https://discardpile.pika.page/posts/the-endless-temptation-of-claude" rel="alternate" />
