@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-02T18:38:00+00:00</updated>
+  <updated>2026-09-02T18:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Commerce Secretary Lutnick Expresses Trust in Anthropic</title>
+    <link href="https://www.axios.com/2026/09/02/lutnick-anthropic-trump" rel="alternate" />
+    <id>https://www.axios.com/2026/09/02/lutnick-anthropic-trump::v238</id>
+    <published>2026-09-02T18:40:00+00:00</published>
+    <updated>2026-09-02T18:40:00+00:00</updated>
+    <media:thumbnail url="https://s.yimg.com/lo/mysterio/api/8561b79de55f1ce2f3be49262e20339540e83328f796cbd55f72db335314ff8a/lightyear_networkapi/resizefill_w683_h1024;quality_80;format_webp/https://media.zenfs.com/en/ny_post_articles_869/638c4cddf5df88b335c971932549abf2" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/02/lutnick-anthropic-trump">axios.com</a></small></p><hr/><p>U.S. Commerce Secretary Howard Lutnick stated that the Trump administration now trusts Anthropic, noting that the AI company has complied with government requests. These remarks were made during the G20 Innovation Ministerial in Chapel Hill.</p><p>The reconciliation follows months of tension between the administration and the AI developer, which had previously been characterized by regulatory friction and disputes over model access.</p><p><img src="https://s.yimg.com/lo/mysterio/api/8561b79de55f1ce2f3be49262e20339540e83328f796cbd55f72db335314ff8a/lightyear_networkapi/resizefill_w683_h1024;quality_80;format_webp/https://media.zenfs.com/en/ny_post_articles_869/638c4cddf5df88b335c971932549abf2" /></p><hr/><small>2 Sep 2026, 23:41 UTC | #19937</small>]]></content>
+  </entry>
   <entry>
     <title>US Army Awards Palantir and Anduril $192M for TITAN Production</title>
     <link href="https://www.tectonicdefense.com/the-army-awards-palantir-and-anduril-192m-for-eight-titan-mobile-ground-stations/" rel="alternate" />
