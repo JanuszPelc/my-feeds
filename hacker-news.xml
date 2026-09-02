@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T08:09:00+00:00</updated>
+  <updated>2026-09-02T13:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>NLnet Foundation Seeks Rust Developer</title>
+    <link href="https://lobste.rs/s/8mwdf1/who_s_hiring_q4_2026" rel="alternate" />
+    <id>https://lobste.rs/s/8mwdf1/who_s_hiring_q4_2026::v238</id>
+    <published>2026-09-02T13:19:00+00:00</published>
+    <updated>2026-09-02T13:19:00+00:00</updated>
+    <media:thumbnail url="https://www.apriorit.com/wp-content/uploads/2026/03/blog-article-develop-rust-backend-figure-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/8mwdf1/who_s_hiring_q4_2026">lobste.rs</a> | <a href="https://nlnet.nl/foundation/jobs/developer-rust.html">source</a> | <a href="https://lobste.rs/s/8mwdf1/who_s_hiring_q4_2026">discussion</a></small></p><hr/><p>NLnet Foundation is hiring an Amsterdam-based developer to build and maintain the Rust-based backend for its open-source grant programs. The role involves developing systems that manage project lifecycles and integrate with the foundation's web presence.</p><p>The technical requirements include proficiency in Rust and Nix. The position focuses on the backend infrastructure used to orchestrate partner involvement and administer microgrants.</p><p><img src="https://www.apriorit.com/wp-content/uploads/2026/03/blog-article-develop-rust-backend-figure-1.png" /></p><hr/><small>2 Sep 2026, 14:56 UTC | #19905</small>]]></content>
+  </entry>
   <entry>
     <title>Slotstream Enables Large MoE Model Execution on Low-RAM Macs</title>
     <link href="https://github.com/carloslfu/slotstream" rel="alternate" />
