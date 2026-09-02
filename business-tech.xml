@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-01T22:17:00+00:00</updated>
+  <updated>2026-09-01T23:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>JioHotstar Launches in the UK, Canada, and Singapore</title>
+    <link href="https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/::v238</id>
+    <published>2026-09-01T23:31:00+00:00</published>
+    <updated>2026-09-01T23:31:00+00:00</updated>
+    <media:thumbnail url="https://mediabrief.com/wp-content/uploads/2026/09/Image-jiohotstar-launches-in-the-uk-canada-and-singapore-MediaBrief.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/">techcrunch.com</a></small></p><hr/><p>JioHotstar, the streaming platform controlled by Reliance Industries, is expanding into the UK, Canada, and Singapore. Replacing the existing Hotstar brand in these markets, the service is set to offer over 160,000 hours of entertainment content in 12 languages.</p><p>The international launch will exclude live sports content, such as the Indian Premier League, due to existing content agreements. The expansion targets the global South Asian diaspora, with subscription pricing structured in local currencies for each market.</p><p><img src="https://mediabrief.com/wp-content/uploads/2026/09/Image-jiohotstar-launches-in-the-uk-canada-and-singapore-MediaBrief.jpg" /></p><hr/><small>2 Sep 2026, 06:36 UTC | #19860</small>]]></content>
+  </entry>
   <entry>
     <title>United States Urges G20 to Adopt Hands-Off AI Regulation Approach</title>
     <link href="https://www.reuters.com/legal/litigation/us-urges-hands-off-approach-ai-regulation-g20-tech-meeting-2026-09-01/" rel="alternate" />

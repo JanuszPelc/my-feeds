@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T21:10:00+00:00</updated>
+  <updated>2026-09-01T22:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Movie Scene Map Tracks Global Filming and Television Locations</title>
+    <link href="https://moviescenemap.com/" rel="alternate" />
+    <id>https://moviescenemap.com/::v238</id>
+    <published>2026-09-01T22:58:00+00:00</published>
+    <updated>2026-09-01T22:58:00+00:00</updated>
+    <media:thumbnail url="https://assets3.thrillist.com/v1/image/3136537/792x1526/scale;webp=auto;jpeg_quality=60.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://moviescenemap.com/">moviescenemap.com</a> | <a href="https://news.ycombinator.com/item?id=49524320">hacker news</a></small></p><hr/><p>Movie Scene Map is a free interactive atlas that tracks 15,565 real-world filming locations across 166 countries. The platform identifies the specific studios, streets, and landscapes used in 9,287 films and television series, and it includes the narrative settings for video games, anime, and manga.</p><p>The database is built using open data from Wikidata, Wikimedia Commons, and Wikipedia. The entire atlas is available for download in GeoJSON and CSV formats under a CC0 license, and users can contribute to the project by adding filming location statements to Wikidata entries.</p><p><img src="https://assets3.thrillist.com/v1/image/3136537/792x1526/scale;webp=auto;jpeg_quality=60.jpg" /></p><hr/><small>2 Sep 2026, 06:34 UTC | #19873</small>]]></content>
+  </entry>
   <entry>
     <title>Wasmi 2.0 WebAssembly Interpreter Released</title>
     <link href="https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/" rel="alternate" />
