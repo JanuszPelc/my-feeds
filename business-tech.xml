@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-01T20:31:00+00:00</updated>
+  <updated>2026-09-01T20:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI Token Prices Reach Record Lows</title>
+    <link href="https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html::v238</id>
+    <published>2026-09-01T20:34:00+00:00</published>
+    <updated>2026-09-01T20:34:00+00:00</updated>
+    <media:thumbnail url="https://dontpaniclabs.com/wp-content/uploads/2025/11/price-per-token-1-1024x614.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html">cnbc.com</a></small></p><hr/><p>The LLM Token Expenditure Index, a measure of daily prices for large-language model tokens, fell to 97 cents on Monday, its lowest reading since the index's inception. This decline is driven by rising competition from open-source Chinese models, price reductions from frontier labs like OpenAI, and the industry-wide implementation of dynamic pricing strategies.</p><p>While decreasing costs benefit users of platforms like ChatGPT and Gemini, the trend creates revenue pressure for model developers facing high, fixed compute costs. Analysts suggest that this deflation may force AI companies to pivot their competitive focus away from raw model capability toward distribution and context management as they navigate investor ROI expectations and potential IPOs.</p><p><img src="https://dontpaniclabs.com/wp-content/uploads/2025/11/price-per-token-1-1024x614.webp" /></p><hr/><small>2 Sep 2026, 00:35 UTC | #19818</small>]]></content>
+  </entry>
   <entry>
     <title>Firefox's Role in Maintaining Browser Engine Diversity</title>
     <link href="https://www.newsonaut.com/articles/hang-on-to-your-firefox" rel="alternate" />
