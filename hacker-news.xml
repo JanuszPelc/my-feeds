@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T22:58:00+00:00</updated>
+  <updated>2026-09-01T23:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Architectural Metapatterns Book Categorizes Software Architecture Patterns</title>
+    <link href="https://metapatterns.io/" rel="alternate" />
+    <id>https://metapatterns.io/::v238</id>
+    <published>2026-09-01T23:48:00+00:00</published>
+    <updated>2026-09-01T23:48:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/1*uDPnu9cM3mnVwVd_Z1TV7w.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://metapatterns.io/">metapatterns.io</a> | <a href="https://leanpub.com/metapatterns">source</a> | <a href="https://lobste.rs/s/mkpgrk/pattern_language_software_architecture">discussion</a></small></p><hr/><p>Architectural Metapatterns by Denys Poltorak organizes hundreds of individual software architecture patterns into several wider metapatterns. This structure facilitates the study of common features, applicability, and performance across different classes of patterns in both local and distributed systems.</p><p>The work utilizes hundreds of diagrams to illustrate the relationships and evolutions of architectural styles. Covered topics include system complexity, communication models, and the adaptation of architectures throughout a product's life cycle.</p><p><img src="https://miro.medium.com/1*uDPnu9cM3mnVwVd_Z1TV7w.jpeg" /></p><hr/><small>2 Sep 2026, 07:10 UTC | #19878</small>]]></content>
+  </entry>
   <entry>
     <title>Movie Scene Map Tracks Global Filming and Television Locations</title>
     <link href="https://moviescenemap.com/" rel="alternate" />
