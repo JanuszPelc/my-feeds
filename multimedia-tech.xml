@@ -132,13 +132,4 @@
     <media:thumbnail url="https://i2.ytimg.com/vi/9j3I3owY8a8/hqdefault.jpg" />
     <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=9j3I3owY8a8">youtube.com</a> | <a href="https://gdcvault.com/play/1035493/Evolving-Worlds-from-the-Crumbling">source</a></small></p><hr/><p>Red Hook Studios' Darkest Dungeon 2 utilizes an art-led procedural generation system to balance a specific visual style with gameplay replayability. To avoid the high labor costs and visual repetition of an initial "sequential plate" approach, the development team transitioned to a modular hex-based grid system.</p><p>This system generates interconnected nodes and branching paths that facilitate strategic decision-making. By using smaller tiles, the developers were able to increase visual variety and maintain the game's signature ink-heavy, painterly aesthetic across different biomes.</p><p><img src="https://i2.ytimg.com/vi/9j3I3owY8a8/hqdefault.jpg" /></p><hr/><small>29 Aug 2026, 10:08 UTC | #19520</small>]]></content>
   </entry>
-  <entry>
-    <title>OpenTIE Reimplementation of Star Wars: TIE Fighter for Windows, macOS, and Linux</title>
-    <link href="https://github.com/elyosh/OpenTIE/" rel="alternate" />
-    <id>https://github.com/elyosh/OpenTIE/::v237</id>
-    <published>2026-08-28T21:02:00+00:00</published>
-    <updated>2026-08-28T21:02:00+00:00</updated>
-    <media:thumbnail url="https://i.pinimg.com/originals/47/17/b7/4717b7ec3f78e0e0708fcc15e2dca03c.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/elyosh/OpenTIE/">github.com</a> | <a href="https://news.ycombinator.com/item?id=49471965">hacker news</a></small></p><hr/><p>OpenTIE is an open-source reimplementation of Star Wars: TIE Fighter designed for Windows, macOS, and Linux. It runs original game data natively and allows users to combine assets from the 1995 Collector's CD-ROM and the 1998 Windows release, such as the 1995 adaptive iMUSE soundtrack and menus with the 1998 flight simulation.</p><p>Modernization features include ambient occlusion, bloom, HDR output, and AMD FidelityFX FSR 3.1.4 upscaling. The software supports high-refresh-rate displays up to 240 Hz and provides compatibility for modern gamepads and joysticks.</p><p><img src="https://i.pinimg.com/originals/47/17/b7/4717b7ec3f78e0e0708fcc15e2dca03c.png" /></p><hr/><small>29 Aug 2026, 03:32 UTC | #19496</small>]]></content>
-  </entry>
 </feed>

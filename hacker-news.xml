@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T15:41:00+00:00</updated>
+  <updated>2026-09-02T16:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rounding Bugs Discovered in Rust and musl libc FMA Implementations</title>
+    <link href="https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/" rel="alternate" />
+    <id>https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/::v238</id>
+    <published>2026-09-02T16:21:00+00:00</published>
+    <updated>2026-09-02T16:21:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/">shnatsel.github.io</a> | <a href="https://lobste.rs/s/qq9jpo/implementing_fma_finding_bugs_c_rust">discussion</a> | <a href="https://news.ycombinator.com/item?id=49539006">hacker news</a></small></p><hr/><p>Developing vectorized Fused Multiply-Add (FMA) for hardware without native instruction support revealed rounding errors in the Rust standard library and musl libc. The bugs stem from incorrect handling of subnormal values during the rounding process, which can cause results to deviate by a single least significant bit in specific edge cases.</p><p>The issue was identified during the development of the `fearless_simd` crate. The bug in `musl libc` appears to be an error in the `fmaf` function likely inherited from older FreeBSD source code. While the numerical error is small, it can cause divergence in deterministic simulations and affect algorithms requiring strict error bounds.</p><hr/><small>2 Sep 2026, 21:13 UTC | #19965</small>]]></content>
+  </entry>
   <entry>
     <title>Coherence and Orphan Instance Rules Explained</title>
     <link href="https://osa1.net/posts/2026-08-29-coherence-and-orphans.html" rel="alternate" />
@@ -967,14 +975,5 @@
     <updated>2026-08-28T22:53:00+00:00</updated>
     <media:thumbnail url="https://tom-doerr.github.io/repo_posts/assets/deltachat_deltachat_desktop_20251202_201224_472_20251202_201304_33825d.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend">discussion</a></small></p><hr/><p>Upcoming personal activities include starting paperwork for a teaching master's degree and returning two work ThinkPad laptops.</p><p>Potential experiments involve using DeltaChat bots and webxdc apps to create lightweight user interfaces, such as for a Python-based remote control mechanism.</p><p><img src="https://tom-doerr.github.io/repo_posts/assets/deltachat_deltachat_desktop_20251202_201224_472_20251202_201304_33825d.png" /></p><hr/><small>29 Aug 2026, 04:18 UTC | #19498</small>]]></content>
-  </entry>
-  <entry>
-    <title>Twelve-Factor App Methodology Defines Best Practices for SaaS Development</title>
-    <link href="https://12factor.net/" rel="alternate" />
-    <id>https://12factor.net/::v237</id>
-    <published>2026-08-28T21:00:00+00:00</published>
-    <updated>2026-08-28T21:00:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQEdnOe2wvz1KQ/article-cover_image-shrink_720_1280/B56ZunVzRaHgAM-/0/1768039096629?e=2147483647&amp;v=beta&amp;t=txqobO4lz8PHIhd5rbBdaQiJyNbq2hz1glYcwyUkojA" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://12factor.net/">12factor.net</a> | <a href="https://news.ycombinator.com/item?id=49472216">hacker news</a></small></p><hr/><p>The methodology provides a framework for building scalable and resilient software-as-a-service (SaaS) applications. It emphasizes declarative setup automation, portability across execution environments, and strict separation between build and run stages to facilitate continuous deployment on modern cloud platforms.</p><p>Developed through observations of large-scale applications at Heroku, the principles aim to prevent software erosion and improve developer collaboration. The twelve factors establish a shared vocabulary for managing dependencies, configuration, statelessness, and concurrency in cloud-native environments.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQEdnOe2wvz1KQ/article-cover_image-shrink_720_1280/B56ZunVzRaHgAM-/0/1768039096629?e=2147483647&v=beta&t=txqobO4lz8PHIhd5rbBdaQiJyNbq2hz1glYcwyUkojA" /></p><hr/><small>29 Aug 2026, 02:58 UTC | #19495</small>]]></content>
   </entry>
 </feed>

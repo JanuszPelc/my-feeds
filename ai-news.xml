@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-02T15:50:00+00:00</updated>
+  <updated>2026-09-02T15:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Unsloth Enables Multi-Token Prediction for Qwen3.8-Flash and GLM-5.3</title>
+    <link href="https://unsloth.ai/docs/new/changelog#id-2x-faster-qwen3.8-flash--glm-5.3" rel="alternate" />
+    <id>https://unsloth.ai/docs/new/changelog#id-2x-faster-qwen3.8-flash--glm-5.3::v238</id>
+    <published>2026-09-02T15:58:00+00:00</published>
+    <updated>2026-09-02T15:58:00+00:00</updated>
+    <media:thumbnail url="https://ai-bot.cn/wp-content/uploads/2025/08/Qwen3-Coder-Flash-website.png" />
+    <content type="html"><![CDATA[<p><small>Unsloth Changelog | <a href="https://unsloth.ai/docs/new/changelog#id-2x-faster-qwen3.8-flash--glm-5.3">unsloth.ai</a></small></p><hr/><p>Unsloth has enabled Multi-Token Prediction (MTP) by default for the Qwen3.8-Flash-Next and GLM-5.3-Flash models, increasing generation speeds by up to 2×. This update includes over 170 improvements across training, chat interfaces, hardware support, and APIs.</p><p>Key enhancements include improved AMD/ROCm compatibility, more reliable model loading on local servers, and reduced UI lag during long conversations. The release also introduces support for MiniMax-Music3, Higgs, and MOSS audio models, alongside new OpenAI-compatible APIs for video and audio.</p><p><img src="https://ai-bot.cn/wp-content/uploads/2025/08/Qwen3-Coder-Flash-website.png" /></p><hr/><small>2 Sep 2026, 21:06 UTC | #19964</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon Adds Scam Verification to Alexa for Shopping</title>
     <link href="https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/" rel="alternate" />

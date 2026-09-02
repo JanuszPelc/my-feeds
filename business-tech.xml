@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-02T15:52:00+00:00</updated>
+  <updated>2026-09-02T16:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Reliance Jio Expands JioPC Cloud Service to All Indian Users</title>
+    <link href="https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/::v238</id>
+    <published>2026-09-02T16:02:00+00:00</published>
+    <updated>2026-09-02T16:02:00+00:00</updated>
+    <media:thumbnail url="https://cdn.shopify.com/s/files/1/0478/3095/8235/files/bitspace_navi_mumbai_future-of-gaming-in-india_4.webp?v=1771568410" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/">techcrunch.com</a> | <a href="https://www.jio.com/jiopc/">source</a></small></p><hr/><p>The JioPC service is now available as a standalone subscription to any internet user in India, removing the previous requirement for Jio broadband subscribers. By streaming a virtual PC from the cloud to existing hardware, the service provides increased RAM and storage to enable aging computers to run modern AI applications without hardware upgrades.</p><p>The expansion capitalizes on lengthening PC replacement cycles in India, as consumers and enterprises increasingly hold onto hardware for longer periods. While the service offers an affordable entry point for AI-capable computing, its viability depends on maintaining stable internet connectivity and competing with the growing market for refurbished hardware.</p><p><img src="https://cdn.shopify.com/s/files/1/0478/3095/8235/files/bitspace_navi_mumbai_future-of-gaming-in-india_4.webp?v=1771568410" /></p><hr/><small>2 Sep 2026, 21:09 UTC | #19926</small>]]></content>
+  </entry>
   <entry>
     <title>Trellner Research Identifies Manufactured Sources Fueling AI Recommendations</title>
     <link href="https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/" rel="alternate" />
@@ -777,23 +786,5 @@
     <updated>2026-08-30T04:50:00+00:00</updated>
     <media:thumbnail url="https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/08/TT_FLOCK-MONEY-TEXAS_01-.jpg?fit=1200%2C800&amp;ssl=1" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.texastribune.org/2026/08/28/texas-greg-abbott-flock-cameras-order-state-money/">texastribune.org</a> | <a href="https://news.ycombinator.com/item?id=49494182">hacker news</a></small></p><hr/><p>Texas state agencies are now prohibited from using state funds to purchase or maintain Flock cameras following a directive from the governor. The order comes amid mounting scrutiny of the AI-powered surveillance technology and as state grants have been used to expand the network across the state.</p><p>The decision follows reports of law enforcement misuse and a rise in local municipalities canceling surveillance contracts due to privacy concerns. These cameras use artificial intelligence to track vehicle characteristics and allow law enforcement agencies to share data across a national network.</p><p><img src="https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/08/TT_FLOCK-MONEY-TEXAS_01-.jpg?fit=1200%2C800&ssl=1" /></p><hr/><small>29 Aug 2026, 06:08 UTC | #19491</small>]]></content>
-  </entry>
-  <entry>
-    <title>EPA Issues Guidance Exempting Islanded Power Generation from Acid Rain Program</title>
-    <link href="https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers" rel="alternate" />
-    <id>https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers::v237</id>
-    <published>2026-08-28T20:58:00+00:00</published>
-    <updated>2026-08-28T20:58:00+00:00</updated>
-    <media:thumbnail url="https://d.techtimes.com/en/full/470226/aerial-view-shows-constellations-clinton-clean-energy.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers">epa.gov</a> | <a href="https://news.ycombinator.com/item?id=49478103">hacker news</a></small></p><hr/><p>The U.S. Environmental Protection Agency (EPA) has clarified that power generation facilities not connected to the public electricity grid, known as "islanded" facilities, are not subject to the Clean Air Act's Acid Rain Program (ARP). The agency's determination is based on the fact that these facilities neither sell electricity to the grid nor have required reporting to the Department of Energy.</p><p>This guidance is intended to facilitate the rapid construction of data centers by allowing developers to deploy independent power sources with fewer regulatory hurdles. The policy supports the "Ratepayer Protection Pledge," an initiative aimed at ensuring data center operators bear the full costs of their energy infrastructure to prevent rising utility prices for the public.</p><p><img src="https://d.techtimes.com/en/full/470226/aerial-view-shows-constellations-clinton-clean-energy.jpg" /></p><hr/><small>29 Aug 2026, 02:22 UTC | #19493</small>]]></content>
-  </entry>
-  <entry>
-    <title>Meta Targets TikTok and YouTube With Newspaper Ads Over Teen Safety</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-08-28/meta-s-newspaper-ad-blitz-ups-pressure-on-social-media-rivals" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-08-28/meta-s-newspaper-ad-blitz-ups-pressure-on-social-media-rivals::v237</id>
-    <published>2026-08-28T20:56:00+00:00</published>
-    <updated>2026-08-28T20:56:00+00:00</updated>
-    <media:thumbnail url="https://cdn.manilastandard.net/wp-content/uploads/2026/02/tiktok-yves-gonzales-1536x1024.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-08-28/meta-s-newspaper-ad-blitz-ups-pressure-on-social-media-rivals">bloomberg.com</a> | <a href="https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/">source</a></small></p><hr/><p>Meta Platforms Inc. is running a newspaper advertising campaign in the United States to pressure TikTok and YouTube to adopt teen safety protections. This follows an $18 billion settlement Meta reached with several U.S. states, which requires the company to implement safeguards such as usage time limits for minors on Instagram and Facebook.</p><p>A key component of the settlement stipulates that Meta will only pay part of the fine if competitors commit to similar safety concessions. This arrangement is intended to prevent younger users from migrating to other platforms if Meta's services become more strictly regulated.</p><p><img src="https://cdn.manilastandard.net/wp-content/uploads/2026/02/tiktok-yves-gonzales-1536x1024.jpg" /></p><hr/><small>29 Aug 2026, 02:07 UTC | #19479</small>]]></content>
   </entry>
 </feed>
