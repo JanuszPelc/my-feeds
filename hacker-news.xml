@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T06:38:00+00:00</updated>
+  <updated>2026-09-02T06:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Local LLM Setup on M4 Pro Mac Mini</title>
+    <link href="https://lws.io/blog/my-local-model-setup/" rel="alternate" />
+    <id>https://lws.io/blog/my-local-model-setup/::v238</id>
+    <published>2026-09-02T06:41:00+00:00</published>
+    <updated>2026-09-02T06:41:00+00:00</updated>
+    <media:thumbnail url="https://vectree.fsn1.your-objectstorage.com/og/c/apple-silicon-unified-memory-architecture-for-llm-inference.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lws.io/blog/my-local-model-setup/">lws.io</a> | <a href="https://news.ycombinator.com/item?id=49529132">hacker news</a></small></p><hr/><p>The configuration uses an M4 Pro Mac mini with 48 GB of RAM to run a local LLM server via the oMLX inference server and Tailscale. It utilizes a Qwen3.6-35B-A3B Mixture-of-Experts (MoE) model for complex reasoning tasks alongside a lightweight Gemma-4 model for routine queries and simple chats.</p><p>Running models locally offers data privacy, AI sovereignty, and cost predictability by bypassing the limitations and pricing of cloud-based APIs. By leveraging 4-bit quantization and the MoE architecture, the setup optimizes Apple Silicon's unified memory, enabling large-parameter models to operate efficiently by activating only a subset of weights for each token.</p><p><img src="https://vectree.fsn1.your-objectstorage.com/og/c/apple-silicon-unified-memory-architecture-for-llm-inference.jpg" /></p><hr/><small>2 Sep 2026, 11:21 UTC | #19891</small>]]></content>
+  </entry>
   <entry>
     <title>x86 Memory Models: Comparing Flat and Segmented Approaches</title>
     <link href="https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented" rel="alternate" />
