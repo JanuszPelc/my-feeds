@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-02T15:34:00+00:00</updated>
+  <updated>2026-09-02T15:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Reggae-Loops Releases Rootical Dub Loop Pack</title>
+    <link href="https://bedroomproducersblog.com/2026/09/02/rootical-dub/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/02/rootical-dub/::v238</id>
+    <published>2026-09-02T15:47:00+00:00</published>
+    <updated>2026-09-02T15:47:00+00:00</updated>
+    <media:thumbnail url="https://www.ghosthack.de/media/67/d5/36/1714984642/best-free-drum-samples-from-2024.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/02/rootical-dub/">bedroomproducersblog.com</a> | <a href="https://reggae-loops.com/products/launch-pad-series-vol-32-rootical-dub">source</a> | <a href="https://bedroomproducersblog.com/2026/09/02/rootical-dub/#respond">discussion</a></small></p><hr/><p>Reggae-Loops has released the Launch Pad Series Vol 32, titled Rootical Dub. This loop pack contains a collection of reggae and dub-inspired audio samples.</p><p>The pack is designed to provide producers with deep grooves and heavy basslines for their music compositions.</p><p><img src="https://www.ghosthack.de/media/67/d5/36/1714984642/best-free-drum-samples-from-2024.jpg" /></p><hr/><small>2 Sep 2026, 19:33 UTC | #19909</small>]]></content>
+  </entry>
+  <entry>
+    <title>Hivetune Releases Delta6 Free FM Synthesizer</title>
+    <link href="https://bedroomproducersblog.com/2026/09/02/hivetune-delta6/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/02/hivetune-delta6/::v238</id>
+    <published>2026-09-02T15:46:00+00:00</published>
+    <updated>2026-09-02T15:46:00+00:00</updated>
+    <media:thumbnail url="https://hiphopmakers.com/wp-content/uploads/2022/04/Alphatron-VST-Plugin-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/02/hivetune-delta6/">bedroomproducersblog.com</a> | <a href="https://www.hivetune.com/store/delta6/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/02/hivetune-delta6/#respond">discussion</a></small></p><hr/><p>Hivetune has released Delta6, a free six-operator FM synthesizer featuring an open modulation matrix. Instead of employing fixed algorithms, the plugin uses a triangular grid of 15 modulation dials to route signals, with modulation flowing from higher-numbered to lower-numbered operators.</p><p>Each operator includes independent control over tuning, level, waveform, and ADSR envelopes. The instrument provides five waveforms: sine, triangle, saw, square, and noise.</p><p><img src="https://hiphopmakers.com/wp-content/uploads/2022/04/Alphatron-VST-Plugin-1.jpg" /></p><hr/><small>2 Sep 2026, 19:30 UTC | #19910</small>]]></content>
+  </entry>
   <entry>
     <title>Nomz Studios Releases macOS Version of StemMaster</title>
     <link href="https://www.kvraudio.com/news/nomz-studios-updates-stemmaster-to-v1-1-46---releases-macos-version-68322?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68322" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-02T15:39:00+00:00</updated>
+  <updated>2026-09-02T15:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Pew Research: Over Half of Americans Say They Spend Too Much Time on Smartphones</title>
+    <link href="https://www.pewresearch.org/short-reads/2026/09/01/about-half-of-americans-say-they-spend-too-much-time-on-their-smartphone/" rel="alternate" />
+    <id>https://www.pewresearch.org/short-reads/2026/09/01/about-half-of-americans-say-they-spend-too-much-time-on-their-smartphone/::v238</id>
+    <published>2026-09-02T15:42:00+00:00</published>
+    <updated>2026-09-02T15:42:00+00:00</updated>
+    <media:thumbnail url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/08/SR_26.09.01-phone-screen_featured.jpg?w=640" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.pewresearch.org/short-reads/2026/09/01/about-half-of-americans-say-they-spend-too-much-time-on-their-smartphone/">pewresearch.org</a> | <a href="https://news.ycombinator.com/item?id=49539232">hacker news</a></small></p><hr/><p>More than half of U.S. adults believe they spend excessive time on their smartphones, according to a 2026 Pew Research Center survey. Usage concerns are highest among younger demographics, where 70% of adults under 30 and 64% of those aged 30 to 49 report spending too much time on their devices. Although 45% of Americans have attempted to reduce their screen time over the past year, only 25% of those who tried reported being highly successful in their efforts.</p><p>While approximately one-in-four adults report using their phones "almost constantly," the perceived impact of these devices varies by age. Respondents generally view smartphones as beneficial for staying informed and connected, but many—particularly those under 30—report that device usage negatively affects their sleep and productivity.</p><p><img src="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/08/SR_26.09.01-phone-screen_featured.jpg?w=640" /></p><hr/><small>2 Sep 2026, 19:22 UTC | #19894</small>]]></content>
+  </entry>
   <entry>
     <title>Life and Career Transitions After the Technology Industry</title>
     <link href="https://lobste.rs/s/oieyk7/what_will_you_do_after_tech" rel="alternate" />

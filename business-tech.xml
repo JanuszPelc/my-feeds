@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-02T15:19:00+00:00</updated>
+  <updated>2026-09-02T15:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Adobe Acquires Indian Market Intelligence Startup Rilo</title>
+    <link href="https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/::v238</id>
+    <published>2026-09-02T15:45:00+00:00</published>
+    <updated>2026-09-02T15:45:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Dhruv-Jaglan-and-Georgi-Boby-Co-founders-Rilo.jpg?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/">techcrunch.com</a></small></p><hr/><p>This deal involves technology licensing and the acquisition of a six-member team from Rilo, an India-based marketing intelligence startup. Founded in 2025 by Georgi Boby and Dhruv Jaglan, the startup provides tools to automate workflows for competitor intelligence, content distribution, and sales call analysis.</p><p>This is Adobe's second Indian acquisition following its 2023 purchase of Rephrase.ai. Rilo will shut down following the deal, and its technology and personnel are expected to be integrated into Adobe's customer experience and marketing suites to bolster workflow automation for enterprise clients.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Dhruv-Jaglan-and-Georgi-Boby-Co-founders-Rilo.jpg?w=680" /></p><hr/><small>2 Sep 2026, 19:28 UTC | #19907</small>]]></content>
+  </entry>
+  <entry>
+    <title>EU General Court Rejects Opera's Challenge Against Microsoft Edge DMA Exemption</title>
+    <link href="https://www.reuters.com/world/eu-court-rejects-opera-challenge-against-eu-exemption-microsofts-edge-dma-rules-2026-09-02/" rel="alternate" />
+    <id>https://www.reuters.com/world/eu-court-rejects-opera-challenge-against-eu-exemption-microsofts-edge-dma-rules-2026-09-02/::v238</id>
+    <published>2026-09-02T15:43:00+00:00</published>
+    <updated>2026-09-02T15:43:00+00:00</updated>
+    <media:thumbnail url="https://www.reuters.com/resizer/v2/NPFTHR55ONNITJFQOZZNKYTS6M.jpg?auth=f14fc10d07dc140623a6fb30956158da725ed3cdd4a66bcc5af6a88693c03ec4&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/eu-court-rejects-opera-challenge-against-eu-exemption-microsofts-edge-dma-rules-2026-09-02/">reuters.com</a> | <a href="https://curia.europa.eu/site/upload/docs/application/pdf/2026-09/cp260113en.pdf">source</a></small></p><hr/><p>The Norwegian browser maker has lost its legal battle against EU antitrust regulators. The court upheld a Commission decision that exempts Microsoft Edge from specific gatekeeper requirements under the Digital Markets Act (DMA).</p><p>The decision prevents competitors from successfully forcing the enforcement of DMA rules on Edge. This outcome reinforces the European Commission's discretion in applying exemptions to dominant technology platforms.</p><p><img src="https://www.reuters.com/resizer/v2/NPFTHR55ONNITJFQOZZNKYTS6M.jpg?auth=f14fc10d07dc140623a6fb30956158da725ed3cdd4a66bcc5af6a88693c03ec4&height=1005&width=1920&quality=80&smart=true" /></p><hr/><small>2 Sep 2026, 19:24 UTC | #19897</small>]]></content>
+  </entry>
   <entry>
     <title>Mistral AI Outlines Data Training Opt-Out Procedures</title>
     <link href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training" rel="alternate" />
