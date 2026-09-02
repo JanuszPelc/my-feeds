@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-02T18:25:00+00:00</updated>
+  <updated>2026-09-02T18:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>TONE 3000 Launches Free Open-Source NAM A2 Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/::v238</id>
+    <published>2026-09-02T18:29:00+00:00</published>
+    <updated>2026-09-02T18:29:00+00:00</updated>
+    <media:thumbnail url="https://cdn.gearnews.com/wp-content/uploads/2026/03/nam_teaser-1536x848.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/">bedroomproducersblog.com</a> | <a href="https://www.tone3000.com/plugin">source</a> | <a href="https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/#respond">discussion</a></small></p><hr/><p>TONE 3000 has released a free, open-source plugin and standalone application powered by Neural Amp Modeler (NAM) A2 technology. The software provides access to a library of over 700,000 community-created guitar and bass captures and impulse responses (IRs). It is compatible with macOS, Windows, and Linux.</p><p>Users can run the tool within a digital audio workstation (DAW) or as a standalone application. The plugin includes an A2-Full mode for maximum sound quality and an A2-Lite mode for lower CPU consumption. It also allows users to sync favorites and custom tones through a TONE 3000 account.</p><p><img src="https://cdn.gearnews.com/wp-content/uploads/2026/03/nam_teaser-1536x848.jpg" /></p><hr/><small>2 Sep 2026, 22:28 UTC | #19954</small>]]></content>
+  </entry>
   <entry>
     <title>Stoic Discusses Career Evolution and Debut Album PAELLA!</title>
     <link href="https://musictech.com/features/interviews/stoic-beats-paella/" rel="alternate" />

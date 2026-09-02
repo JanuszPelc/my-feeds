@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T18:21:00+00:00</updated>
+  <updated>2026-09-02T18:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>TinyGo 0.42 Adds Recoverable Panics and Go 1.27 Support</title>
+    <link href="https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/" rel="alternate" />
+    <id>https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/::v238</id>
+    <published>2026-09-02T18:33:00+00:00</published>
+    <updated>2026-09-02T18:33:00+00:00</updated>
+    <media:thumbnail url="https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/tinygo-on-uefi.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/">tinygo.org</a> | <a href="https://github.com/tinygo-org/tinygo/releases/tag/v0.42.0">source</a> | <a href="https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real">discussion</a></small></p><hr/><p>TinyGo 0.42 introduces recoverable runtime panics for common errors such as nil pointer dereferences and divide-by-zero operations. This release also adds support for Go 1.27 and upgrades the compiler backend to LLVM 22.</p><p>The update includes a new UEFI target for running Go programs before an operating system loads and expands hardware support for ESP32, STM32, and several new microcontrollers. Improvements to USB functionality also enable dynamic endpoint registration and descriptors.</p><p><img src="https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/tinygo-on-uefi.png" /></p><hr/><small>2 Sep 2026, 22:45 UTC | #19975</small>]]></content>
+  </entry>
   <entry>
     <title>Static Allocation and Constant Work for Memory Safety and Performance</title>
     <link href="https://matklad.github.io/2026/09/02/static-allocation-constant-work.html" rel="alternate" />
