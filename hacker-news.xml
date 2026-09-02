@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T06:41:00+00:00</updated>
+  <updated>2026-09-02T08:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>GentleOS/16 Hobby Operating System for Vintage 16-bit PCs</title>
+    <link href="https://luke8086.dev/gentleos16.html" rel="alternate" />
+    <id>https://luke8086.dev/gentleos16.html::v238</id>
+    <published>2026-09-02T08:03:00+00:00</published>
+    <updated>2026-09-02T08:03:00+00:00</updated>
+    <media:thumbnail url="https://luke8086.dev/gentleos-assets/images/gentleos16-photo-t1100fd-nobg.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://luke8086.dev/gentleos16.html">luke8086.dev</a> | <a href="https://github.com/luke8086/gentleos16">source</a> | <a href="https://lobste.rs/s/kxgwhy/gentleos_16_hobby_os_for_vintage_16_bit_pcs">discussion</a></small></p><hr/><p>GentleOS/16 is a hobby operating system for vintage 16-bit PCs, requiring an 8086 CPU and a CGA display in 320x200x4 mode. Built in plain C for bare-metal tinkering, the OS lacks modern capabilities such as web browsing or third-party application support.</p><p>The project is a simplified version of the 32-bit GentleOS/32 and includes built-in applications like a calculator, clock, and several classic games. It is licensed under the GNU GPL-2.0 and is available as bootable disk images or DOS executables.</p><p><img src="https://luke8086.dev/gentleos-assets/images/gentleos16-photo-t1100fd-nobg.webp" /></p><hr/><small>2 Sep 2026, 13:23 UTC | #19901</small>]]></content>
+  </entry>
   <entry>
     <title>Local LLM Setup on M4 Pro Mac Mini</title>
     <link href="https://lws.io/blog/my-local-model-setup/" rel="alternate" />
