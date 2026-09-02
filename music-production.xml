@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-02T06:42:00+00:00</updated>
+  <updated>2026-09-02T08:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Logic Pro 12.3 Review</title>
+    <link href="https://musictech.com/reviews/digital-audio-workstations/logic-pro-12-3-review-by-a-cubase-version-1-user/" rel="alternate" />
+    <id>https://musictech.com/reviews/digital-audio-workstations/logic-pro-12-3-review-by-a-cubase-version-1-user/::v238</id>
+    <published>2026-09-02T08:01:00+00:00</published>
+    <updated>2026-09-02T08:01:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Logic-Pro-12.3-hero-credit-press@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/reviews/digital-audio-workstations/logic-pro-12-3-review-by-a-cubase-version-1-user/">musictech.com</a> | <a href="https://support.apple.com/en-us/109503">source</a></small></p><hr/><p>This review evaluates Logic Pro 12.3 from the perspective of a long-term Cubase user, assessing its workflow and feature set. Key strengths include Live Loops, Session Players, and high-quality stem separation, while weaknesses involve track management via Stack Tracks and the aesthetic of legacy plugins.</p><p>The 12.3 update introduces refinements to Beat Breaker, Chord ID, and Alchemy. While the reviewer maintains a preference for Cubase's specific editing tools, they conclude that Logic Pro offers exceptional value through its bundled content and price point.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Logic-Pro-12.3-hero-credit-press@2000x1500.jpg" /></p><hr/><small>2 Sep 2026, 13:09 UTC | #19880</small>]]></content>
+  </entry>
   <entry>
     <title>Sympiano Receives v1.0.4 Update</title>
     <link href="https://www.kvraudio.com/news/benjamin-guerrero-updates-sympiano-to-v1-0-4---bug-fixes-and-better-daw-compatibility-68328?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68328" rel="alternate" />
