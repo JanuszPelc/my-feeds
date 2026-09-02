@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-02T02:22:00+00:00</updated>
+  <updated>2026-09-02T02:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Claude and the Temptation of AI-Assisted Programming</title>
+    <link href="https://discardpile.pika.page/posts/the-endless-temptation-of-claude" rel="alternate" />
+    <id>https://discardpile.pika.page/posts/the-endless-temptation-of-claude::v238</id>
+    <published>2026-09-02T02:25:00+00:00</published>
+    <updated>2026-09-02T02:25:00+00:00</updated>
+    <media:thumbnail url="https://img.tap4.ai/tools/2025/12/21/claudeide-net-thumbnail-1766332834.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://discardpile.pika.page/posts/the-endless-temptation-of-claude">discardpile.pika.page</a> | <a href="https://lobste.rs/s/qnffyn/endless_temptation_claude">discussion</a></small></p><hr/><p>AI tools like Claude present a profound temptation for programmers to prioritize rapid software expansion and productivity over the inherent value of the craft. This impulse is often driven by a desire to bypass the physical and mental limitations of time or to simulate professional upward mobility through AI-driven automation.</p><p>The ease of implementing complex features through AI risks a shift in software development from intentional creation to mindless accumulation. This trend challenges developers to distinguish between the technical capability of a tool and the meaningful necessity of the work being performed.</p><p><img src="https://img.tap4.ai/tools/2025/12/21/claudeide-net-thumbnail-1766332834.png" /></p><hr/><small>2 Sep 2026, 09:37 UTC | #19884</small>]]></content>
+  </entry>
   <entry>
     <title>LISEP Develops True Rate of Unemployment Metric</title>
     <link href="https://www.lisep.org/tru" rel="alternate" />
