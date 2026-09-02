@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T13:37:00+00:00</updated>
+  <updated>2026-09-02T15:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Dell Announces Dell 14S Student Laptop</title>
+    <link href="https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs" rel="alternate" />
+    <id>https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs::v238</id>
+    <published>2026-09-02T15:15:00+00:00</published>
+    <updated>2026-09-02T15:15:00+00:00</updated>
+    <media:thumbnail url="https://www.notebookcheck.org/fileadmin/Notebooks/News/_nc5/Dell-XPS-13-is-the-first-true-MacBoon-Neo-competitor-in-the-Windows-space.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs">theverge.com</a> | <a href="https://investors.delltechnologies.com/news-releases/news-release-details/meet-dell-14s-affordable-laptop-built-students-college-and">source</a></small></p><hr/><p>Dell has announced the Dell 14S, a new laptop designed for students and young adults, at IFA 2026. Positioned as a more affordable alternative to the XPS 13, the 14S will feature Intel Core 5 320 or Core 7 350 processors and is available in four colors: linen, dusty rose, washed denim, and velvet green.</p><p>The device provides more conventional connectivity than the XPS 13, including a 3.5mm audio jack and HDMI 1.4 port. It offers two display configurations, including a 2880 x 1800 120Hz LCD, and claims up to 23 hours of battery life. While specific pricing has not been finalized, Dell indicates the 14S will be slightly more accessible than the XPS 13's $700 starting price.</p><p><img src="https://www.notebookcheck.org/fileadmin/Notebooks/News/_nc5/Dell-XPS-13-is-the-first-true-MacBoon-Neo-competitor-in-the-Windows-space.jpg" /></p><hr/><small>2 Sep 2026, 17:10 UTC | #19885</small>]]></content>
+  </entry>
   <entry>
     <title>aerynOS Project Updates Tooling, Installer, and Branding</title>
     <link href="https://aerynos.com/blog/2026/08/31/a-community-that-works-together-builds-together/" rel="alternate" />
