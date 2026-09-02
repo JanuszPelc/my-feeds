@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-02T15:47:00+00:00</updated>
+  <updated>2026-09-02T15:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>BuzzCut Pro Featured in Bedroom Producers Blog Giveaway</title>
+    <link href="https://bedroomproducersblog.com/2026/09/02/buzzcut-pro-giveaway/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/02/buzzcut-pro-giveaway/::v238</id>
+    <published>2026-09-02T15:55:00+00:00</published>
+    <updated>2026-09-02T15:55:00+00:00</updated>
+    <media:thumbnail url="https://cdn.shopify.com/s/files/1/0933/3738/7386/files/BuzzCut_Pro_Image_1.jpg?v=1778699861" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/02/buzzcut-pro-giveaway/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/02/buzzcut-pro-giveaway/#comments">discussion</a></small></p><hr/><p>Bedroom Producers Blog is hosting a giveaway for three copies of LusiD Music UK's BuzzCut Pro. The plugin is a mastering limiter and dynamics processor designed for macOS and Windows.</p><p>To enter, participants must answer a question located at the end of the article. Winners will be randomly selected and announced on September 10th.</p><p><img src="https://cdn.shopify.com/s/files/1/0933/3738/7386/files/BuzzCut_Pro_Image_1.jpg?v=1778699861" /></p><hr/><small>2 Sep 2026, 20:32 UTC | #19942</small>]]></content>
+  </entry>
   <entry>
     <title>Reggae-Loops Releases Rootical Dub Loop Pack</title>
     <link href="https://bedroomproducersblog.com/2026/09/02/rootical-dub/" rel="alternate" />
