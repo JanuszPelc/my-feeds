@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T20:54:00+00:00</updated>
+  <updated>2026-09-01T21:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Wasmi 2.0 WebAssembly Interpreter Released</title>
+    <link href="https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/" rel="alternate" />
+    <id>https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/::v238</id>
+    <published>2026-09-01T21:10:00+00:00</published>
+    <updated>2026-09-01T21:10:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQGmM2F_T_rkAQ/article-cover_image-shrink_720_1280/B56ZxCgQAYHQAI-/0/1770642309139?e=2147483647&amp;v=beta&amp;t=urVtb8vmWoY7-uKanqYEgvbq8AHS7IKcojhPET6hUNI" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/">wasmi-labs.github.io</a> | <a href="https://lobste.rs/s/sccfuu/wasmi_2_0_engineering_fastest_wasm">discussion</a> | <a href="https://news.ycombinator.com/item?id=49521031">hacker news</a></small></p><hr/><p>Wasmi 2.0 has been released, offering approximately 2.2x faster execution performance on Apple M2 Pro hardware compared to version 1.0. The update introduces multiple instruction dispatching modes—including direct-threaded and indirect-threaded code—and utilizes accumulator registers to optimize execution by using hardware registers instead of stack-based offsets.</p><p>The release also includes stable fuel metering, support for WebAssembly’s deterministic profile, and reduced binary sizes through a new `validate` crate feature. These enhancements aim to provide a high-performance runtime for diverse environments, including IoT devices, cloud hosting, and smart contract platforms.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQGmM2F_T_rkAQ/article-cover_image-shrink_720_1280/B56ZxCgQAYHQAI-/0/1770642309139?e=2147483647&v=beta&t=urVtb8vmWoY7-uKanqYEgvbq8AHS7IKcojhPET6hUNI" /></p><hr/><small>2 Sep 2026, 02:41 UTC | #19866</small>]]></content>
+  </entry>
   <entry>
     <title>Google Announces Android Update with Motion Assist and Accessibility Features</title>
     <link href="https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/" rel="alternate" />
