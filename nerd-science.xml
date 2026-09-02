@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-01T18:14:00+00:00</updated>
+  <updated>2026-09-02T02:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>LISEP Develops True Rate of Unemployment Metric</title>
+    <link href="https://www.lisep.org/tru" rel="alternate" />
+    <id>https://www.lisep.org/tru::v238</id>
+    <published>2026-09-02T02:22:00+00:00</published>
+    <updated>2026-09-02T02:22:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/6660a5bfdcf6c5fbf039f446/6942b02f2ce9ccad65406a5b_1+US+Unemployment+Rate+2025.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.lisep.org/tru">lisep.org</a> | <a href="https://news.ycombinator.com/item?id=49530989">hacker news</a></small></p><hr/><p>The Ludwig Institute for Shared Economic Prosperity (LISEP) has developed the "True Rate of Unemployment" (TRU) to more accurately measure American economic well-being. The metric tracks the percentage of the labor force that lacks a job, is unable to find full-time employment (35+ hours per week), or earns less than a $26,000 annual living wage (in 2025 dollars).</p><p>Utilizing Bureau of Labor Statistics data, the TRU accounts for underemployment and income inadequacy not captured by standard metrics. This provides analysts and policymakers with a more comprehensive basis for shaping economic policy.</p><p><img src="https://cdn.prod.website-files.com/6660a5bfdcf6c5fbf039f446/6942b02f2ce9ccad65406a5b_1+US+Unemployment+Rate+2025.jpg" /></p><hr/><small>2 Sep 2026, 08:56 UTC | #19883</small>]]></content>
+  </entry>
   <entry>
     <title>The Impact of LLMs on the Philosophy of Computing Tools</title>
     <link href="https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind" rel="alternate" />
