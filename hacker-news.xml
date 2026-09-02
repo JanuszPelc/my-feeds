@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T08:03:00+00:00</updated>
+  <updated>2026-09-02T08:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Slotstream Enables Large MoE Model Execution on Low-RAM Macs</title>
+    <link href="https://github.com/carloslfu/slotstream" rel="alternate" />
+    <id>https://github.com/carloslfu/slotstream::v238</id>
+    <published>2026-09-02T08:09:00+00:00</published>
+    <updated>2026-09-02T08:09:00+00:00</updated>
+    <media:thumbnail url="https://pica.zhimg.com/v2-ccc9eb2e5e00446585eeef674b9dcf4e_1440w.gif" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/carloslfu/slotstream">github.com</a> | <a href="https://news.ycombinator.com/item?id=49524447">hacker news</a></small></p><hr/><p>Slotstream is a Swift-based runtime that enables Apple Silicon Macs to run massive mixture-of-experts (MoE) models, such as the 125B-parameter Qwen3.8-Flash-Next, even when system RAM is significantly smaller than the model's weight size. It circumvents the memory limitations of standard memory-mapping by streaming expert weights from an SSD into a shared cache using `pread`.</p><p>The implementation provides an Ollama-compatible API and supports the OpenAI API, maintaining compatibility with existing LLM interfaces and SDKs. Additionally, it includes a speculative decoding mechanism that uses a draft head to increase token generation speeds on supported hardware.</p><p><img src="https://pica.zhimg.com/v2-ccc9eb2e5e00446585eeef674b9dcf4e_1440w.gif" /></p><hr/><small>2 Sep 2026, 14:08 UTC | #19904</small>]]></content>
+  </entry>
   <entry>
     <title>GentleOS/16 Hobby Operating System for Vintage 16-bit PCs</title>
     <link href="https://luke8086.dev/gentleos16.html" rel="alternate" />
