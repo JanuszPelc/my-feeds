@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-01T20:34:00+00:00</updated>
+  <updated>2026-09-01T20:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Introduces Enterprise Frontier Safeguards for Business Data Control</title>
+    <link href="https://www.cnbc.com/2026/09/01/anthropic-data-retention.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/01/anthropic-data-retention.html::v238</id>
+    <published>2026-09-01T20:39:00+00:00</published>
+    <updated>2026-09-01T20:39:00+00:00</updated>
+    <media:thumbnail url="https://growthcommission.org/wp-content/uploads/2025/09/data-retention-policy-for-businesses.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/01/anthropic-data-retention.html">cnbc.com</a> | <a href="https://www.anthropic.com/news/enterprise-frontier-safeguards">source</a></small></p><hr/><p>Following feedback regarding privacy, Anthropic is replacing its 30-day data retention policy for business customers with a new system called Enterprise Frontier Safeguards. The new solution allows companies to control how their data is reviewed, stored, and managed, including the option to utilize automated safety monitoring that bypasses human review.</p><p>The safeguards will be offered at no additional cost and will be available to users accessing technology directly or via cloud providers. The company plans a phased rollout, aiming for broader availability this fall as it continues to compete with OpenAI and approaches a widely expected IPO.</p><p><img src="https://growthcommission.org/wp-content/uploads/2025/09/data-retention-policy-for-businesses.png" /></p><hr/><small>2 Sep 2026, 01:40 UTC | #19826</small>]]></content>
+  </entry>
   <entry>
     <title>AI Token Prices Reach Record Lows</title>
     <link href="https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html" rel="alternate" />
