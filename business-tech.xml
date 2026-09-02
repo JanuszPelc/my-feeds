@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-01T23:31:00+00:00</updated>
+  <updated>2026-09-02T06:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Omacom Foundation Secures $12.6 Million to Fund Omarchy Linux</title>
+    <link href="https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/" rel="alternate" />
+    <id>https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/::v238</id>
+    <published>2026-09-02T06:32:00+00:00</published>
+    <updated>2026-09-02T06:32:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bi8FS.img?w=1217&amp;h=827&amp;m=4&amp;q=74" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/">brennan.day</a> | <a href="https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12">discussion</a></small></p><hr/><p>The Omacom Foundation has secured $12.6 million in funding to support David Heinemeier Hansson's Omarchy Linux distribution. The foundation's "Founding Patrons" include the CEOs of Stripe, Dell Technologies, Block, and Cloudflare, who have each pledged $1 million, alongside corporate contributions from 1Password and 37signals.</p><p>This influx of capital from major tech executives is linked to concerns over the normalization of far-right rhetoric within the open-source community. "Apolitical" stances in various tech projects are framed as mechanisms to shield the political biases and exclusionary practices of maintainers from mainstream scrutiny.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bi8FS.img?w=1217&h=827&m=4&q=74" /></p><hr/><small>2 Sep 2026, 09:54 UTC | #19879</small>]]></content>
+  </entry>
+  <entry>
+    <title>Snap CEO Doubles Down on Specs AR Glasses</title>
+    <link href="https://www.wsj.com/tech/can-evan-spiegel-sell-the-world-on-2-195-smart-glasses-3fb9b8ca?st=SC3Kva&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/can-evan-spiegel-sell-the-world-on-2-195-smart-glasses-3fb9b8ca?st=SC3Kva&amp;reflink=desktopwebshare_permalink::v238</id>
+    <published>2026-09-02T02:46:00+00:00</published>
+    <updated>2026-09-02T02:46:00+00:00</updated>
+    <media:thumbnail url="https://images.timesnownews.com/thumb/msid-154655665,thumbsize-30616,width-1280,height-720,resizemode-75/154655665.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/can-evan-spiegel-sell-the-world-on-2-195-smart-glasses-3fb9b8ca?st=SC3Kva&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://newsroom.snap.com/introducing-specs-augmented-reality-glasses">source</a></small></p><hr/><p>Snap CEO Evan Spiegel is doubling down on the development and promotion of Specs, augmented reality glasses priced at $2,195. This strategy has continued despite internal warnings against the CEO's public use of the devices and failed attempts to secure outside funding for the hardware project.</p><p>Snap has invested more than $3.5 billion in the augmented reality unit to diversify revenue away from its core advertising business. The pivot has drawn skepticism from investors as the company works toward achieving consistent profitability.</p><p><img src="https://images.timesnownews.com/thumb/msid-154655665,thumbsize-30616,width-1280,height-720,resizemode-75/154655665.jpg" /></p><hr/><small>2 Sep 2026, 09:49 UTC | #19867</small>]]></content>
+  </entry>
   <entry>
     <title>JioHotstar Launches in the UK, Canada, and Singapore</title>
     <link href="https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/" rel="alternate" />
