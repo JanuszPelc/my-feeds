@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-01T21:07:00+00:00</updated>
+  <updated>2026-09-01T21:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Meta Introduces Muse Voice Transcribe Real-Time Audio Model</title>
+    <link href="https://research.meta.ai/blog/introducing-muse-voice-transcribe" rel="alternate" />
+    <id>https://research.meta.ai/blog/introducing-muse-voice-transcribe::v238</id>
+    <published>2026-09-01T21:11:00+00:00</published>
+    <updated>2026-09-01T21:11:00+00:00</updated>
+    <media:thumbnail url="https://research.meta.ai/_next/image?url=%2Farticles%2Fintroducing-muse-audio%2Fbenchmarks%2Fstreaming-final-transcription-wer-v1.png&amp;w=3840&amp;q=90&amp;dpl=dpl_4E5izKFMjS1X5UQueW9DjatxwXcf" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://research.meta.ai/blog/introducing-muse-voice-transcribe">research.meta.ai</a></small></p><hr/><p>Meta Superintelligence Labs has released Muse Voice Transcribe, an autoregressive multimodal model for real-time audio perception. The model provides streaming automatic speech recognition (ASR), speaker diarization for over 20 speakers, and endpointing. It supports more than 70 languages with seamless code-switching and utilizes an adaptive delay mechanism to balance transcription accuracy against latency.</p><p>The technology is designed to support personal superintelligence by effectively processing messy, real-world conversations that include interruptions and overlapping speech. It has achieved top performance rankings on Artificial Analysis benchmarks for streaming speech-to-text and public diarization.</p><p><img src="https://research.meta.ai/_next/image?url=%2Farticles%2Fintroducing-muse-audio%2Fbenchmarks%2Fstreaming-final-transcription-wer-v1.png&w=3840&q=90&dpl=dpl_4E5izKFMjS1X5UQueW9DjatxwXcf" /></p><hr/><small>2 Sep 2026, 02:54 UTC | #19835</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Details Cybersecurity Capabilities of Upcoming Astra Model</title>
     <link href="https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/" rel="alternate" />
