@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-01T22:13:00+00:00</updated>
+  <updated>2026-09-01T22:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple Maps Renames Lake Ontario to "Lake America" Following US Presidential Order</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-01/apple-maps-renames-lake-ontario-lake-america-after-trump-order?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODI5NDU2MywiZXhwIjoxNzg4ODk5MzYzLCJhcnRpY2xlSWQiOiJUS1A1QjhLSVAzSUswMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.QuyC3i17_sq9MQOGc3etCuMclgEz2ZWvZ2Dg-JTfAj0" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-01/apple-maps-renames-lake-ontario-lake-america-after-trump-order?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODI5NDU2MywiZXhwIjoxNzg4ODk5MzYzLCJhcnRpY2xlSWQiOiJUS1A1QjhLSVAzSUswMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.QuyC3i17_sq9MQOGc3etCuMclgEz2ZWvZ2Dg-JTfAj0::v238</id>
+    <published>2026-09-01T22:14:00+00:00</published>
+    <updated>2026-09-01T22:14:00+00:00</updated>
+    <media:thumbnail url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/1200/675/president-trump-signs-proclamation-declaring-feb.-9-as-gulf-of-america-day.png?ve=1&amp;tl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-01/apple-maps-renames-lake-ontario-lake-america-after-trump-order?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODI5NDU2MywiZXhwIjoxNzg4ODk5MzYzLCJhcnRpY2xlSWQiOiJUS1A1QjhLSVAzSUswMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.QuyC3i17_sq9MQOGc3etCuMclgEz2ZWvZ2Dg-JTfAj0">bloomberg.com</a></small></p><hr/><p>Apple Maps has updated its labeling for users in the United States, renaming Lake Ontario to "Lake America." This modification follows a similar change by Google Maps and comes in response to an order from U.S. President Donald Trump.</p><p>The update is localized to the U.S. market; the Canadian version of the service maintains the "Lake Ontario" designation, while international versions will display both names.</p><p><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/1200/675/president-trump-signs-proclamation-declaring-feb.-9-as-gulf-of-america-day.png?ve=1&tl=1" /></p><hr/><small>2 Sep 2026, 03:55 UTC | #19841</small>]]></content>
+  </entry>
   <entry>
     <title>Hacker News September 2026 "Who is Hiring" Thread</title>
     <link href="https://news.ycombinator.com/item?id=49522897" rel="alternate" />
