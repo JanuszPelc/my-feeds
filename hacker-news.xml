@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T13:26:00+00:00</updated>
+  <updated>2026-09-02T13:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Commodore 64 Release History and Legacy</title>
+    <link href="https://dfarq.homeip.net/commodore-64-released-september-1-1982/" rel="alternate" />
+    <id>https://dfarq.homeip.net/commodore-64-released-september-1-1982/::v238</id>
+    <published>2026-09-02T13:28:00+00:00</published>
+    <updated>2026-09-02T13:28:00+00:00</updated>
+    <media:thumbnail url="https://www.absolutegeeks.com/wp-content/uploads/2023/04/Commodore_64_with_the_external_power_supply_and_Commodore_1530_C2N_Datasette-scaled.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://dfarq.homeip.net/commodore-64-released-september-1-1982/">dfarq.homeip.net</a> | <a href="https://news.ycombinator.com/item?id=49533497">hacker news</a></small></p><hr/><p>Launched on September 1, 1982, the Commodore 64 was the first computer with 64KB of memory to retail for under $600. Following initial manufacturing in Santa Clara, California, production was outsourced to Kentron in Japan to meet high demand. The machine became one of the best-selling computers in history, with total sales estimated at 12.3 million units.</p><p>The platform's longevity was driven by specialized hardware components, specifically the SID sound chip and versatile graphics modes that allowed for sophisticated audio and visual effects. This technical flexibility kept the computer relevant for over a decade and continues to drive interest in modern FPGA-based hardware recreations.</p><p><img src="https://www.absolutegeeks.com/wp-content/uploads/2023/04/Commodore_64_with_the_external_power_supply_and_Commodore_1530_C2N_Datasette-scaled.jpg" /></p><hr/><small>2 Sep 2026, 15:55 UTC | #19922</small>]]></content>
+  </entry>
   <entry>
     <title>Nexus Identity Theft Service Sells 153 Million Drivers' Licenses</title>
     <link href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/" rel="alternate" />
