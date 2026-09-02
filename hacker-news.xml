@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T15:15:00+00:00</updated>
+  <updated>2026-09-02T15:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Acer Unveils Repairable Vero 16 and New Swift Laptops</title>
+    <link href="https://www.cnet.com/tech/computing/acer-recommits-to-repairability-with-new-vero-16-laptop/" rel="alternate" />
+    <id>https://www.cnet.com/tech/computing/acer-recommits-to-repairability-with-new-vero-16-laptop/::v238</id>
+    <published>2026-09-02T15:22:00+00:00</published>
+    <updated>2026-09-02T15:22:00+00:00</updated>
+    <media:thumbnail url="https://www.cnet.com/wp-content/uploads/sites/2/Acer-Vero-16.jpg?w=864" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnet.com/tech/computing/acer-recommits-to-repairability-with-new-vero-16-laptop/">cnet.com</a> | <a href="https://www.prnewswire.com/news-releases/acer-unveils-new-vero-16-laptop---designed-around-repairability-ai-powered-performance-and-a-commitment-to-reducing-environmental-impact-302866889.html">source</a></small></p><hr/><p>Acer debuted its fourth-generation Vero 16 laptop at IFA 2026, emphasizing repairability and sustainability through a modular design. The laptop allows users to easily replace or upgrade components such as the battery and SSD, and is engineered to support processor upgrades for the next two generations.</p><p>The announcement also introduced the Swift Blade 14, a lightweight 14-inch laptop made from magnesium-aluminum alloy and carbon fiber, and a refresh of the Swift Air 16. Pricing and availability for the new Vero and Swift models have not yet been confirmed.</p><p><img src="https://www.cnet.com/wp-content/uploads/sites/2/Acer-Vero-16.jpg?w=864" /></p><hr/><small>2 Sep 2026, 17:59 UTC | #19890</small>]]></content>
+  </entry>
   <entry>
     <title>Dell Announces Dell 14S Student Laptop</title>
     <link href="https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs" rel="alternate" />

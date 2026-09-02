@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-01T20:33:00+00:00</updated>
+  <updated>2026-09-02T15:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Acer Unveils Predator Atlas 7 Handheld Gaming Device</title>
+    <link href="https://www.engadget.com/2249298/acer-predator-atlas-7-gaming-handheld/" rel="alternate" />
+    <id>https://www.engadget.com/2249298/acer-predator-atlas-7-gaming-handheld/::v238</id>
+    <published>2026-09-02T15:21:00+00:00</published>
+    <updated>2026-09-02T15:21:00+00:00</updated>
+    <media:thumbnail url="https://www.engadget.com/img/gallery/acers-predator-atlas-7-is-the-brands-smaller-handheld-gaming-flagship-model/intro-1788339427.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2249298/acer-predator-atlas-7-gaming-handheld/">engadget.com</a> | <a href="https://news.acer.com/acer-expands-gaming-handheld-portfolio-with-predator-atlas-7">source</a></small></p><hr/><p>Acer has announced the Predator Atlas 7 handheld gaming device at the IFA conference in Berlin. The device provides the same performance as the larger Atlas 8, utilizing up to an Intel Arc G3 Extreme processor and Intel Arc B390 graphics. It includes a 7-inch 120 Hz FHD touchscreen protected by Corning Gorilla Glass Victus and features contoured grips and an enlarged palm rest for improved ergonomics.</p><p>The device is available with an 80Wh battery, weighing under 750g, or a 60Wh battery, weighing under 700g. It includes dual Thunderbolt 4 ports, a microSD card reader, Wi-Fi 7, and Bluetooth 5.4. Acer expects a North American release in the fourth quarter of 2026 and an EMEA release in November.</p><p><img src="https://www.engadget.com/img/gallery/acers-predator-atlas-7-is-the-brands-smaller-handheld-gaming-flagship-model/intro-1788339427.jpg" /></p><hr/><small>2 Sep 2026, 17:58 UTC | #19888</small>]]></content>
+  </entry>
   <entry>
     <title>Dwarf Fortress Creator Criticizes Industry Focus on AI and Layoffs</title>
     <link href="https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/" rel="alternate" />

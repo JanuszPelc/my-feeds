@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-02T13:22:00+00:00</updated>
+  <updated>2026-09-02T15:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>ukdf Releases GrainCharlie Free Granular Synthesizer</title>
+    <link href="https://www.kvraudio.com/news/ukdf-releases-graincharlie---free-granular-synthesizer-68326?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68326" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ukdf-releases-graincharlie---free-granular-synthesizer-68326?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68326::v238</id>
+    <published>2026-09-02T15:23:00+00:00</published>
+    <updated>2026-09-02T15:23:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/for-kvr.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ukdf-releases-graincharlie---free-granular-synthesizer-68326?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68326">kvraudio.com</a> | <a href="https://ukdf.gumroad.com/l/GrainCharlie">source</a></small></p><hr/><p>ukdf has released GrainCharlie, a free granular synthesizer plugin for macOS and Windows in VST3 format. The tool is designed to provide an intuitive workflow for granular synthesis, focusing on essential features to allow immediate use without extensive manual reading.</p><p>The synthesizer includes five operating modes: Melody, Slice, Slice Melody, Unison, and Polyphonic. Users can manipulate grain length, position, jitter, spray, and density to create various textures, ranging from experimental sound design to melodic content.</p><p><img src="https://static.kvraudio.com/i/b/for-kvr.png" /></p><hr/><small>2 Sep 2026, 18:01 UTC | #19900</small>]]></content>
+  </entry>
   <entry>
     <title>Initial Audio Releases Difro Melody AI</title>
     <link href="https://www.kvraudio.com/news/initial-audio-releases-difro-melody-ai---free-local-neural-midi-generator-68338?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68338" rel="alternate" />
