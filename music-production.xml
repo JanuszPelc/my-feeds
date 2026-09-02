@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-01T18:47:00+00:00</updated>
+  <updated>2026-09-02T06:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Sympiano Receives v1.0.4 Update</title>
+    <link href="https://www.kvraudio.com/news/benjamin-guerrero-updates-sympiano-to-v1-0-4---bug-fixes-and-better-daw-compatibility-68328?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68328" rel="alternate" />
+    <id>https://www.kvraudio.com/news/benjamin-guerrero-updates-sympiano-to-v1-0-4---bug-fixes-and-better-daw-compatibility-68328?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68328::v238</id>
+    <published>2026-09-02T06:42:00+00:00</published>
+    <updated>2026-09-02T06:42:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/sympiano-ui-1280.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/benjamin-guerrero-updates-sympiano-to-v1-0-4---bug-fixes-and-better-daw-compatibility-68328?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68328">kvraudio.com</a> | <a href="https://github.com/benjammin2006/sympiano-releases/releases">source</a></small></p><hr/><p>Benjamin Guerrero has released version 1.0.4 of Sympiano, a free sympathetic string resonance reverb plugin. The update addresses bugs and improves compatibility for macOS and Windows users across various Digital Audio Workstations (DAWs) and hosts.</p><p>Improvements include fixing reverb tail clipping during offline bounces, ensuring consistent resonance regardless of audio buffer size, and implementing sample-accurate MIDI and CC64 sustain pedal timing. The update also introduces a resizable and zoomable user interface and resolves several minor menu and UI bugs.</p><p><img src="https://static.kvraudio.com/i/b/sympiano-ui-1280.jpg" /></p><hr/><small>2 Sep 2026, 11:35 UTC | #19886</small>]]></content>
+  </entry>
   <entry>
     <title>Toontrack Releases LA Sessions SDX for Superior Drummer 3</title>
     <link href="https://www.kvraudio.com/news/toontrack-releases-la-sessions-sdx-for-superior-drummer-3---niko-bolas-records-nine-kits-at-the-village-in-los-angeles-68327?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68327" rel="alternate" />
