@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-01T18:41:00+00:00</updated>
+  <updated>2026-09-01T20:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Codex Desktop App Bundles LibreOffice and Python Runtimes</title>
+    <link href="https://simonwillison.net/2026/Sep/1/codex-libreoffice/" rel="alternate" />
+    <id>https://simonwillison.net/2026/Sep/1/codex-libreoffice/::v238</id>
+    <published>2026-09-01T20:08:00+00:00</published>
+    <updated>2026-09-01T20:08:00+00:00</updated>
+    <media:thumbnail url="https://static.simonwillison.net/static/2026/codex-primay-runtime.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://simonwillison.net/2026/Sep/1/codex-libreoffice/">simonwillison.net</a> | <a href="https://news.ycombinator.com/item?id=49527396">hacker news</a></small></p><hr/><p>The OpenAI Codex desktop app, now rebranded as ChatGPT, includes a 1.7GB `codex-primary-runtime` directory in its cache. This bundle contains complete installations of Python and Node.js, along with native binaries for git, Poppler, and the LibreOffice suite.</p><p>These binaries are managed through a "skills" system within the application's plugin architecture. This architecture instructs the software on how to locate and use the embedded tools, facilitating tasks like document rendering and processing via headless LibreOffice.</p><p><img src="https://static.simonwillison.net/static/2026/codex-primay-runtime.webp" /></p><hr/><small>1 Sep 2026, 23:55 UTC | #19858</small>]]></content>
+  </entry>
+  <entry>
+    <title>John Deere Launches "JD" AI Assistant for Farmers</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot" rel="alternate" />
+    <id>https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot::v238</id>
+    <published>2026-09-01T18:50:00+00:00</published>
+    <updated>2026-09-01T18:50:00+00:00</updated>
+    <media:thumbnail url="https://www.oklahomafarmreport.com/wp-content/uploads/sites/2/2026/09/image-7.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot">theverge.com</a> | <a href="https://www.deere.com/en-us/john-deere-news/introducing-jd-ai-assistant">source</a></small></p><hr/><p>John Deere is testing "JD," an AI assistant designed to help farmers analyze field, machine, and operational data. Currently in an Early Access Program for select U.S. customers via the Operations Center, the tool provides real-time insights on topics such as equipment settings, fuel consumption, and harvest timing to aid decision-making.</p><p>The rollout follows years of regulatory and legal scrutiny regarding data privacy and the "right to repair." To address these concerns, Deere has introduced a 10-point Farmer Data Commitment, which includes guarantees that farm data will not be sold and provides users with control over third-party data sharing. The company plans to expand the assistant's capabilities to the turf, construction, roadbuilding, and forestry sectors.</p><p><img src="https://www.oklahomafarmreport.com/wp-content/uploads/sites/2/2026/09/image-7.png" /></p><hr/><small>1 Sep 2026, 23:51 UTC | #19813</small>]]></content>
+  </entry>
   <entry>
     <title>Google Launches Google Pics AI Image Creation and Editing Tool</title>
     <link href="https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/" rel="alternate" />

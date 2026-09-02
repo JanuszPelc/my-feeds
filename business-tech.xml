@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-01T18:46:00+00:00</updated>
+  <updated>2026-09-01T20:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Firefox's Role in Maintaining Browser Engine Diversity</title>
+    <link href="https://www.newsonaut.com/articles/hang-on-to-your-firefox" rel="alternate" />
+    <id>https://www.newsonaut.com/articles/hang-on-to-your-firefox::v238</id>
+    <published>2026-09-01T20:31:00+00:00</published>
+    <updated>2026-09-01T20:31:00+00:00</updated>
+    <media:thumbnail url="https://netvaluator.com/wp-content/uploads/2025/09/mozilla-firefox-download-1536x803.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.newsonaut.com/articles/hang-on-to-your-firefox">newsonaut.com</a> | <a href="https://news.ycombinator.com/item?id=49527748">hacker news</a></small></p><hr/><p>The article advocates for the continued use of the Firefox browser to preserve competition among web engine providers. It highlights a trend of users migrating to Chromium-based alternatives like Vivaldi due to concerns regarding Firefox's social media presence, which threatens to reduce the market to a choice between Google and Apple.</p><p>Maintaining an independent engine is presented as vital for web innovation and preventing a technical monopoly. A non-Chromium option is considered essential for ensuring that web standards remain diverse and are not controlled by a single ecosystem.</p><p><img src="https://netvaluator.com/wp-content/uploads/2025/09/mozilla-firefox-download-1536x803.jpg" /></p><hr/><small>2 Sep 2026, 00:02 UTC | #19857</small>]]></content>
+  </entry>
   <entry>
     <title>Applied AI Moves Into Physical and Industrial Workflows</title>
     <link href="https://aiweekly.co/issues/applied-ai-deep-dive-what-are-companies-actually-building" rel="alternate" />
