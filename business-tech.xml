@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-02T13:18:00+00:00</updated>
+  <updated>2026-09-02T15:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Mistral AI Outlines Data Training Opt-Out Procedures</title>
+    <link href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training" rel="alternate" />
+    <id>https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training::v238</id>
+    <published>2026-09-02T15:19:00+00:00</published>
+    <updated>2026-09-02T15:19:00+00:00</updated>
+    <media:thumbnail url="https://framerusercontent.com/images/Gc58iqJYZustVV6LIY8pdm7Y.png?width=2816&amp;height=1536" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training">help.mistral.ai</a> | <a href="https://news.ycombinator.com/item?id=49535284">hacker news</a></small></p><hr/><p>Input and output data are used by default for model training in certain Mistral AI service tiers, such as free-tier Vibe and API Experiment. Users can prevent their content from being used for training by following platform-specific opt-out procedures via the Admin panel, Mistral Studio, or mobile applications.</p><p>Users on Le Chat Teams and Le Chat Enterprise tiers are opted out of training by default. Additional privacy controls, such as Zero Data Retention (ZDR), are available for supported API inputs and outputs.</p><p><img src="https://framerusercontent.com/images/Gc58iqJYZustVV6LIY8pdm7Y.png?width=2816&height=1536" /></p><hr/><small>2 Sep 2026, 17:39 UTC | #19944</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Faces 30 Additional Lawsuits Related to Tumbler Ridge Shooting</title>
+    <link href="https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/::v238</id>
+    <published>2026-09-02T15:18:00+00:00</published>
+    <updated>2026-09-02T15:18:00+00:00</updated>
+    <media:thumbnail url="https://canadavoice.info/wp-content/uploads/2026/03/Screen-Shot-2026-03-11-at-1.53.02-AM.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/">techcrunch.com</a></small></p><hr/><p>Edelson PC is filing 30 additional lawsuits against OpenAI in a California court following the Tumbler Ridge mass shooting in British Columbia. These new complaints include teachers, a principal, and students, and they allege that OpenAI aided and abetted the attack—a claim requiring proof of intent rather than mere negligence.</p><p>The litigation follows reports that OpenAI staff flagged the shooter's use of ChatGPT to plan violence, but leadership declined to contact Canadian authorities. Plaintiffs allege that decisions to bypass law enforcement were driven by public relations concerns and specifically name Chief Global Affairs Officer Chris Lehane. OpenAI has denied these claims, maintaining that the user's activity did not meet the internal threshold for "imminent and credible risk."</p><p><img src="https://canadavoice.info/wp-content/uploads/2026/03/Screen-Shot-2026-03-11-at-1.53.02-AM.png" /></p><hr/><small>2 Sep 2026, 17:34 UTC | #19896</small>]]></content>
+  </entry>
   <entry>
     <title>LWN to Increase Subscription Prices</title>
     <link href="https://lwn.net/Articles/1090585/" rel="alternate" />
