@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T16:21:00+00:00</updated>
+  <updated>2026-09-02T18:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Static Allocation and Constant Work for Memory Safety and Performance</title>
+    <link href="https://matklad.github.io/2026/09/02/static-allocation-constant-work.html" rel="alternate" />
+    <id>https://matklad.github.io/2026/09/02/static-allocation-constant-work.html::v238</id>
+    <published>2026-09-02T18:21:00+00:00</published>
+    <updated>2026-09-02T18:21:00+00:00</updated>
+    <media:thumbnail url="https://www.embeddedsoft.net/static/c0c22193e4da2787a224edf1d1d4384d/dd6fe/static-vs-dynamic-memory-allocation-in-embedded-systems.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://matklad.github.io/2026/09/02/static-allocation-constant-work.html">matklad.github.io</a> | <a href="https://lobste.rs/s/m4iwq4/static_allocation_constant_work">discussion</a></small></p><hr/><p>Type-segregated pools and static allocation can mitigate use-after-free and type-confusion vulnerabilities. By pre-allocating a fixed maximum amount of memory at startup, developers can prevent runtime failures and avoid Out-of-Memory (OOM) killer terminations, ensuring the system handles overload gracefully.</p><p>The "Constant Work" principle maintains a fixed number of objects through the use of neutral or "reserved" states to ensure predictable P100 latency. This approach facilitates better CPU cache prefetching and compiler vectorization by avoiding early-exit loops and ensuring iteration occurs over a constant set of elements.</p><p><img src="https://www.embeddedsoft.net/static/c0c22193e4da2787a224edf1d1d4384d/dd6fe/static-vs-dynamic-memory-allocation-in-embedded-systems.webp" /></p><hr/><small>2 Sep 2026, 21:37 UTC | #19967</small>]]></content>
+  </entry>
+  <entry>
+    <title>Haskell Technique Simulates Dependent If Expressions Using Church Encoding</title>
+    <link href="https://haskellforall.com/2026/09/dependent-if-expressions" rel="alternate" />
+    <id>https://haskellforall.com/2026/09/dependent-if-expressions::v238</id>
+    <published>2026-09-02T17:53:00+00:00</published>
+    <updated>2026-09-02T17:53:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://haskellforall.com/2026/09/dependent-if-expressions">haskellforall.com</a> | <a href="https://lobste.rs/s/yomxcl/dependent_if_expressions_without">discussion</a></small></p><hr/><p>A technique for implementing "dependent if" expressions in Haskell allows conditional logic to return different types based on the input condition, a feature typically reserved for dependently typed languages. This is achieved by combining Church encoding with the `RebindableSyntax` language extension and leveraging standard Hindley-Milner type inference.</p><p>By omitting explicit type signatures, Church-encoded booleans are inferred with more general types that track information flow at the type level. This approach allows the compiler to unify the result type with either the "then" or "else" branch type depending on the boolean value provided, effectively simulating dependency through function polymorphism.</p><hr/><small>2 Sep 2026, 21:31 UTC | #19966</small>]]></content>
+  </entry>
   <entry>
     <title>Rounding Bugs Discovered in Rust and musl libc FMA Implementations</title>
     <link href="https://shnatsel.github.io/implementing-fma-finding-bugs-in-std/" rel="alternate" />
