@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-01T21:47:00+00:00</updated>
+  <updated>2026-09-01T22:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Hacker News September 2026 "Who is Hiring" Thread</title>
+    <link href="https://news.ycombinator.com/item?id=49522897" rel="alternate" />
+    <id>https://news.ycombinator.com/item?id=49522897::v238</id>
+    <published>2026-09-01T22:13:00+00:00</published>
+    <updated>2026-09-01T22:13:00+00:00</updated>
+    <media:thumbnail url="https://workinvirtual.com/wp-content/uploads/2026/04/remote-first-companies-hiring-april-2026-1024x572.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49522897">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49522897">hacker news</a></small></p><hr/><p>This monthly community discussion allows technology companies to list active job openings. Participants must specify the work location—such as remote, onsite, or a specific country—and are required to be direct members of the hiring organization to prevent recruitment spam.</p><p>Recruiting agencies and job boards are prohibited from posting. The thread acts as a decentralized marketplace for technical professionals and employers to connect directly across various sectors of the tech industry.</p><p><img src="https://workinvirtual.com/wp-content/uploads/2026/04/remote-first-companies-hiring-april-2026-1024x572.jpg" /></p><hr/><small>2 Sep 2026, 03:37 UTC | #19869</small>]]></content>
+  </entry>
   <entry>
     <title>East River Source Control Appoints Martin von Zweigbergk as CTO</title>
     <link href="https://ersc.io/blog/martin-joins-ersc" rel="alternate" />
