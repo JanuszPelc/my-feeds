@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-01T18:45:00+00:00</updated>
+  <updated>2026-09-01T20:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Dwarf Fortress Creator Criticizes Industry Focus on AI and Layoffs</title>
+    <link href="https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/" rel="alternate" />
+    <id>https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/::v238</id>
+    <published>2026-09-01T20:33:00+00:00</published>
+    <updated>2026-09-01T20:33:00+00:00</updated>
+    <media:thumbnail url="https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/February2026/ai-job-layoffs-wave-boom-robots-replacing-humans-2026-5965.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/">pcgamer.com</a> | <a href="https://news.ycombinator.com/item?id=49523720">hacker news</a></small></p><hr/><p>Tarn Adams, co-founder of Bay 12 Games and creator of Dwarf Fortress, has criticized the video game industry's reliance on generative AI and frequent layoffs. Speaking at Gamescom 2026, Adams argued that executive-led efforts to automate development are unsustainable and fail to account for the complexity required for high-quality game creation.</p><p>Adams suggested that prioritizing AI-driven efficiency over skilled labor could eventually trigger a market reckoning as the consumer base is impacted by unemployment. He also noted a semantic shift in the industry, such as the move toward describing "dwarf behavior" instead of "dwarf AI," as an example of the confusion surrounding the technology.</p><p><img src="https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/February2026/ai-job-layoffs-wave-boom-robots-replacing-humans-2026-5965.webp" /></p><hr/><small>2 Sep 2026, 00:20 UTC | #19861</small>]]></content>
+  </entry>
   <entry>
     <title>Former id Software Producer Reports Severe Crunch for Doom: The Dark Ages - Revelations DLC</title>
     <link href="https://www.gamedeveloper.com/business/the-majority-of-doom-the-dark-ages-dlc-got-made-in-three-or-four-months" rel="alternate" />
