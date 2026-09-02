@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T13:21:00+00:00</updated>
+  <updated>2026-09-02T13:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Nexus Identity Theft Service Sells 153 Million Drivers' Licenses</title>
+    <link href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/" rel="alternate" />
+    <id>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/::v238</id>
+    <published>2026-09-02T13:26:00+00:00</published>
+    <updated>2026-09-02T13:26:00+00:00</updated>
+    <media:thumbnail url="https://krebsonsecurity.com/wp-content/uploads/2026/09/nexus-phegseth.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/">krebsonsecurity.com</a> | <a href="https://news.ycombinator.com/item?id=49529621">hacker news</a></small></p><hr/><p>A dark web service named Nexus is selling digital scans of more than 153 million drivers' licenses from the United States and Canada. The data appears to have been siphoned from idscan.net, a Louisiana-based identity verification company. The stolen records include high-resolution images, some containing infrared and ultraviolet scans, and reportedly include the identification of several high-ranking U.S. government officials.</p><p>The FBI's New Orleans field office has launched an official inquiry into the source of the images. The Nexus data set also reportedly contains 10 million identification cards, 3 million travel documents, and nearly 600,000 medical cards. The service's website was removed from the dark web shortly after the leak was reported.</p><p><img src="https://krebsonsecurity.com/wp-content/uploads/2026/09/nexus-phegseth.png" /></p><hr/><small>2 Sep 2026, 15:36 UTC | #19882</small>]]></content>
+  </entry>
   <entry>
     <title>Kioxia Expands 3D Flash Memory Production in Kitakami, Japan</title>
     <link href="https://www.bloomberg.com/news/features/2026-09-01/japan-s-ai-and-chip-gamble-faces-reality-check-in-kioxia-s-rural-hub" rel="alternate" />
