@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-02T08:01:00+00:00</updated>
+  <updated>2026-09-02T13:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Initial Audio Releases Difro Melody AI</title>
+    <link href="https://www.kvraudio.com/news/initial-audio-releases-difro-melody-ai---free-local-neural-midi-generator-68338?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68338" rel="alternate" />
+    <id>https://www.kvraudio.com/news/initial-audio-releases-difro-melody-ai---free-local-neural-midi-generator-68338?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68338::v238</id>
+    <published>2026-09-02T13:22:00+00:00</published>
+    <updated>2026-09-02T13:22:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/difro_01.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/initial-audio-releases-difro-melody-ai---free-local-neural-midi-generator-68338?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68338">kvraudio.com</a> | <a href="https://initialaudio.com/difro-melody-ai/">source</a></small></p><hr/><p>This standalone application uses local VAE and Transformer models to generate and re-imagine MIDI melodies entirely offline. Running on a user's machine via CPU or GPU acceleration—supporting NVIDIA on Windows and Apple Silicon on Mac—the tool avoids the need for cloud-based APIs or subscription-based generation fees.</p><p>Producers can generate variations of live recordings or existing MIDI clips using a creativity slider and can train a personalized "User Model" by rating outputs to refine the AI's musical taste. The software supports rendering to WAV or dragging MIDI directly into a DAW; while a free version is available, the $49 Pro version enables custom prompt models from user MIDI and VST3/Audio Units plugin hosting.</p><p><img src="https://static.kvraudio.com/i/b/difro_01.png" /></p><hr/><small>2 Sep 2026, 15:14 UTC | #19895</small>]]></content>
+  </entry>
   <entry>
     <title>Logic Pro 12.3 Review</title>
     <link href="https://musictech.com/reviews/digital-audio-workstations/logic-pro-12-3-review-by-a-cubase-version-1-user/" rel="alternate" />
