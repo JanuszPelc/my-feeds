@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-01T22:18:00+00:00</updated>
+  <updated>2026-09-02T02:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Astra Model Uses 'Recurrent Depth' Technique Amid Security Concerns</title>
+    <link href="https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns" rel="alternate" />
+    <id>https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns::v238</id>
+    <published>2026-09-02T02:23:00+00:00</published>
+    <updated>2026-09-02T02:23:00+00:00</updated>
+    <media:thumbnail url="https://statics.forbesargentina.com/2026/01/697b62719eeb1.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns">theinformation.com</a></small></p><hr/><p>OpenAI's upcoming Astra model employs a "recurrent depth" technique designed to improve performance and reduce operational costs. The model is expected to demonstrate advanced capabilities in coding and the ability to operate applications on a computer.</p><p>This technique obscures the model's reasoning processes, making it more difficult to monitor and raising security concerns. These risks are heightened as the model's cybersecurity capabilities reach a "critical" threshold, including the potential to identify and exploit previously unknown security vulnerabilities.</p><p><img src="https://statics.forbesargentina.com/2026/01/697b62719eeb1.png" /></p><hr/><small>2 Sep 2026, 09:08 UTC | #19865</small>]]></content>
+  </entry>
   <entry>
     <title>Google Expected to Release Gemini 3.8 Flash as Early as Wednesday</title>
     <link href="https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052?st=aeqCY9&amp;reflink=desktopwebshare_permalink" rel="alternate" />
