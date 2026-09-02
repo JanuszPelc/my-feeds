@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-02T16:02:00+00:00</updated>
+  <updated>2026-09-02T18:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Judge Rejects DOJ Bid to Force Google Ad Exchange Sale, Orders Tech Integration</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-02/google-avoids-ad-exchange-sale-as-judge-orders-tech-integration" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-02/google-avoids-ad-exchange-sale-as-judge-orders-tech-integration::v238</id>
+    <published>2026-09-02T18:24:00+00:00</published>
+    <updated>2026-09-02T18:24:00+00:00</updated>
+    <media:thumbnail url="https://www.adexchanger.com/wp-content/uploads/2024/09/Google-DOJ-ad-tech-antitrust-trial-courtroom-Judge-Brinkema-comic-1024x937.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-02/google-avoids-ad-exchange-sale-as-judge-orders-tech-integration">bloomberg.com</a> | <a href="https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/r0wiKxWlnCfs/v0">source</a></small></p><hr/><p>US District Judge Leonie Brinkema has denied the Department of Justice's attempt to force Google to divest its advertising exchange, AdX. The ruling instead mandates behavioral changes requiring Google's ad tech tools to interoperate with those used by competitors.</p><p>The decision, issued under seal, prevents a structural breakup of the company's advertising division but requires technical integration. A full redacted version of the ruling is expected to follow the court's initial short order.</p><p><img src="https://www.adexchanger.com/wp-content/uploads/2024/09/Google-DOJ-ad-tech-antitrust-trial-courtroom-Judge-Brinkema-comic-1024x937.png" /></p><hr/><small>2 Sep 2026, 22:01 UTC | #19913</small>]]></content>
+  </entry>
   <entry>
     <title>Reliance Jio Expands JioPC Cloud Service to All Indian Users</title>
     <link href="https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/" rel="alternate" />
