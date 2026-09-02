@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-01T23:48:00+00:00</updated>
+  <updated>2026-09-02T06:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>x86 Memory Models: Comparing Flat and Segmented Approaches</title>
+    <link href="https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented" rel="alternate" />
+    <id>https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented::v238</id>
+    <published>2026-09-02T06:38:00+00:00</published>
+    <updated>2026-09-02T06:38:00+00:00</updated>
+    <media:thumbnail url="https://image.slidesharecdn.com/segmentation-140626080714-phpapp01/95/memory-segmentation-of-8086-3-638.jpg?cb=1494563599" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented">humprog.org</a> | <a href="https://lobste.rs/s/tvoo4x/flat_vs_segmented_memory_it_s_recursive">discussion</a> | <a href="https://news.ycombinator.com/item?id=49460419">hacker news</a></small></p><hr/><p>x86 architecture has seen a decline in fine-grained memory protection as the industry transitioned from sophisticated segmentation to flat address spaces. While the dominance of Unix-style flat memory models has shaped hardware design, technologies like WebAssembly and CHERI suggest a movement toward non-flat, subdivision-based memory models.</p><p>Software's recursive subdivision of memory, such as nested allocations and arenas, conflicts with the non-recursive, finite-state nature of hardware. CHERI seeks to resolve this by allowing software to manage arbitrary, narrow bounds through capability derivation, while tools like liballocs focus on descriptively capturing these recursive structures within a flat address space.</p><p><img src="https://image.slidesharecdn.com/segmentation-140626080714-phpapp01/95/memory-segmentation-of-8086-3-638.jpg?cb=1494563599" /></p><hr/><small>2 Sep 2026, 11:04 UTC | #19889</small>]]></content>
+  </entry>
   <entry>
     <title>Architectural Metapatterns Book Categorizes Software Architecture Patterns</title>
     <link href="https://metapatterns.io/" rel="alternate" />
