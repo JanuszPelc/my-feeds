@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-02T18:27:00+00:00</updated>
+  <updated>2026-09-02T18:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Nexus Mods Acquires SteamDB</title>
+    <link href="https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb::v238</id>
+    <published>2026-09-02T18:36:00+00:00</published>
+    <updated>2026-09-02T18:36:00+00:00</updated>
+    <media:thumbnail url="https://www.engadget.com/img/gallery/modding-platform-nexus-mods-now-owns-steamdb/intro-1788368765.jpg" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb">gamedeveloper.com</a> | <a href="https://steamdb.info/blog/steamdb-nexus-mods/">source</a> | <a href="https://news.ycombinator.com/item?id=49534491">hacker news</a></small></p><hr/><p>The PC modding platform is acquiring SteamDB, a database and analytics site that provides real-time player counts and information for Steam games. SteamDB founder xPaw stated the acquisition aims to provide the service with additional resources, development capacity, and long-term stability.</p><p>The integration is expected to improve modding reliability by utilizing SteamDB's historical game version and manifest data. This data will allow mod managers to better identify game updates and warn users when a specific version of a game might cause mod compatibility issues.</p><p><img src="https://www.engadget.com/img/gallery/modding-platform-nexus-mods-now-owns-steamdb/intro-1788368765.jpg" /></p><hr/><small>2 Sep 2026, 23:04 UTC | #19948</small>]]></content>
+  </entry>
   <entry>
     <title>Adobe Integrates 70+ Creative Tools Into Slack</title>
     <link href="https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/" rel="alternate" />

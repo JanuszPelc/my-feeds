@@ -993,13 +993,4 @@
     <media:thumbnail url="https://pub.mdpi-res.com/sensors/sensors-25-05715/article_deploy/html/images/sensors-25-05715-g001.png?1757925776" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://maplant.com/2025-04-20-25x-Performance,-Three-Optimizations.html">maplant.com</a> | <a href="https://lobste.rs/s/rhto2r/25x_performance_three_optimizations">discussion</a></small></p><hr/><p>The author describes the conversion of the scheme-rs Scheme implementation from an AST-based interpreter to a Continuation-Passing Style (CPS) based JIT compiler to facilitate mechanical continuation handling. This initial transition caused a significant performance regression in benchmarking tests.</p><p>To recover the lost performance, the author implemented beta-reduction to eliminate the redundant closures produced during CPS conversion. This optimization successfully restored performance to levels near the original interpreter, bringing the project closer to its goal of competing with Guile.</p><p><img src="https://pub.mdpi-res.com/sensors/sensors-25-05715/article_deploy/html/images/sensors-25-05715-g001.png?1757925776" /></p><hr/><small>29 Aug 2026, 06:24 UTC | #19505</small>]]></content>
   </entry>
-  <entry>
-    <title>Author Discusses Personal Plans and Interest in DeltaChat Bots</title>
-    <link href="https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend" rel="alternate" />
-    <id>https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend::v237</id>
-    <published>2026-08-28T22:53:00+00:00</published>
-    <updated>2026-08-28T22:53:00+00:00</updated>
-    <media:thumbnail url="https://tom-doerr.github.io/repo_posts/assets/deltachat_deltachat_desktop_20251202_201224_472_20251202_201304_33825d.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/oveaa3/what_are_you_doing_this_weekend">discussion</a></small></p><hr/><p>Upcoming personal activities include starting paperwork for a teaching master's degree and returning two work ThinkPad laptops.</p><p>Potential experiments involve using DeltaChat bots and webxdc apps to create lightweight user interfaces, such as for a Python-based remote control mechanism.</p><p><img src="https://tom-doerr.github.io/repo_posts/assets/deltachat_deltachat_desktop_20251202_201224_472_20251202_201304_33825d.png" /></p><hr/><small>29 Aug 2026, 04:18 UTC | #19498</small>]]></content>
-  </entry>
 </feed>
