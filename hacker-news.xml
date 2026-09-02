@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T13:28:00+00:00</updated>
+  <updated>2026-09-02T13:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>aerynOS Project Updates Tooling, Installer, and Branding</title>
+    <link href="https://aerynos.com/blog/2026/08/31/a-community-that-works-together-builds-together/" rel="alternate" />
+    <id>https://aerynos.com/blog/2026/08/31/a-community-that-works-together-builds-together/::v238</id>
+    <published>2026-09-02T13:37:00+00:00</published>
+    <updated>2026-09-02T13:37:00+00:00</updated>
+    <media:thumbnail url="https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_auto/linuxiac.com/wp-content/uploads/2026/03/aerynos-feb-2026-cosmic-desktop-1024x640.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://aerynos.com/blog/2026/08/31/a-community-that-works-together-builds-together/">aerynos.com</a> | <a href="https://lobste.rs/s/hiry5f/community_works_together_builds">discussion</a></small></p><hr/><p>The aerynOS project has implemented several updates to its core tooling, including structural changes to the moss command-line interface and filesystem tree abstraction. Development is also underway on the boulder package build tool to improve performance and an overhauled Lichen TUI installer featuring automatic disk formatting and btrfs support.</p><p>To support these technical developments, the project has completed a global package rebuild to ensure ABI consistency and has transitioned community discussions from GitHub to a new Discourse forum. The project is also refining its visual identity and has transitioned its name to lowercase aerynOS.</p><p><img src="https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_auto/linuxiac.com/wp-content/uploads/2026/03/aerynos-feb-2026-cosmic-desktop-1024x640.jpg" /></p><hr/><small>2 Sep 2026, 16:44 UTC | #19919</small>]]></content>
+  </entry>
   <entry>
     <title>Commodore 64 Release History and Legacy</title>
     <link href="https://dfarq.homeip.net/commodore-64-released-september-1-1982/" rel="alternate" />
