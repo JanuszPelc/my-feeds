@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-02T18:30:00+00:00</updated>
+  <updated>2026-09-02T18:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Army Awards Palantir and Anduril $192M for TITAN Production</title>
+    <link href="https://www.tectonicdefense.com/the-army-awards-palantir-and-anduril-192m-for-eight-titan-mobile-ground-stations/" rel="alternate" />
+    <id>https://www.tectonicdefense.com/the-army-awards-palantir-and-anduril-192m-for-eight-titan-mobile-ground-stations/::v238</id>
+    <published>2026-09-02T18:38:00+00:00</published>
+    <updated>2026-09-02T18:38:00+00:00</updated>
+    <media:thumbnail url="https://meta-defense.fr/wp-content/uploads/2019/12/Titan-concept.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.tectonicdefense.com/the-army-awards-palantir-and-anduril-192m-for-eight-titan-mobile-ground-stations/">tectonicdefense.com</a> | <a href="https://cpeisw.army.mil/2026/09/01/army-announces-move-to-production-for-titan/">source</a></small></p><hr/><p>The US Army has awarded $192 million in contracts to Palantir and Anduril to transition the Tactical Intelligence Targeting Access Node (TITAN) program from prototyping to production. The order includes eight mobile ground stations—four "Advanced" variants and four "Basic" variants—to be delivered over the next 18 months. Palantir will serve as the prime integrator, while Anduril provides the hardware subsystems and mission shelters as the lead hardware systems architect.</p><p>The TITAN system utilizes AI-driven sensor fusion to process data from space, high-altitude, aerial, and terrestrial sensors, providing actionable targeting information to reduce the sensor-to-shoot gap. This transition follows a five-year development cycle and represents the first instance of a software company acting as the prime for a major Army hardware program. Additional production orders for the system are anticipated in FY27.</p><p><img src="https://meta-defense.fr/wp-content/uploads/2019/12/Titan-concept.jpg" /></p><hr/><small>2 Sep 2026, 23:24 UTC | #19939</small>]]></content>
+  </entry>
+  <entry>
+    <title>Google and MrBeast Announce Partnership to Promote Gemini and Fitbit Air</title>
+    <link href="https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit" rel="alternate" />
+    <id>https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit::v238</id>
+    <published>2026-09-02T18:37:00+00:00</published>
+    <updated>2026-09-02T18:37:00+00:00</updated>
+    <media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/mrbeast-google-fitbit-air-deal.jpg?quality=82&amp;strip=all&amp;w=1600" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit">theverge.com</a> | <a href="https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/">source</a></small></p><hr/><p>Jimmy "MrBeast" Donaldson has signed a multi-year deal with Google to integrate Gemini AI, Google Health, and the Fitbit Air into his upcoming video content. The collaboration is set to begin on September 5 with a video in which Donaldson uses Gemini to navigate survival challenges across the jungle, desert, and Arctic.</p><p>The agreement follows Donaldson’s achievement of becoming the first YouTube creator to reach 500 million subscribers. It aligns with broader industry trends where video platforms offer exclusive deals to high-profile creators to compete with streaming services like Netflix.</p><p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/09/mrbeast-google-fitbit-air-deal.jpg?quality=82&strip=all&w=1600" /></p><hr/><small>2 Sep 2026, 23:22 UTC | #19940</small>]]></content>
+  </entry>
   <entry>
     <title>Pangram CEO Max Spero Discusses AI Detection and the "Dead Internet Theory"</title>
     <link href="https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/" rel="alternate" />
