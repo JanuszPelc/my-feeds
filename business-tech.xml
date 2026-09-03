@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T02:41:00+00:00</updated>
+  <updated>2026-09-03T03:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>South Korea Semiconductor Exports Surge 209% in August</title>
+    <link href="https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html::v238</id>
+    <published>2026-09-03T03:21:00+00:00</published>
+    <updated>2026-09-03T03:21:00+00:00</updated>
+    <media:thumbnail url="https://viewpoint.eiu.com/analysis/article/1133562496/asset_images/1683564151.gif" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html">cnbc.com</a> | <a href="https://english.motir.go.kr/eng/article/EATCLdfa319ada/2719/view">source</a></small></p><hr/><p>Semiconductor shipments reached $46.65 billion in August, a 209% increase over the previous year, accounting for 47.5% of South Korea's total $98.25 billion in goods exports. The surge is driven by increased capital spending on AI infrastructure from major cloud providers like Google and Amazon.</p><p>Economists warn that an abrupt decline in semiconductor demand could impact the economy while the Bank of Korea maintains elevated interest rates. While the chip sector has bolstered overall trade, other major industries such as automobile exports continue to face significant headwinds.</p><p><img src="https://viewpoint.eiu.com/analysis/article/1133562496/asset_images/1683564151.gif" /></p><hr/><small>3 Sep 2026, 10:33 UTC | #19988</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Shifts From AI Token Metrics to 'AI-Driven Impact' in Employee Reviews</title>
     <link href="https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/" rel="alternate" />
