@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Uber and Wayve Launch London's First Commercial Robotaxi Service</title>
+    <link href="https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch" rel="alternate" />
+    <id>https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch::v238</id>
+    <published>2026-09-02T23:26:00+00:00</published>
+    <updated>2026-09-02T23:26:00+00:00</updated>
+    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Match-Screen.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch">theverge.com</a></small></p><hr/><p>The new service utilizes Wayve's AV2.0 technology, which relies on camera and radar perception rather than lidar. Initial operations will use Ford Mustang Mach-E vehicles and include licensed safety drivers to monitor the driving, though Uber plans to eventually phase these operators out in favor of fully driverless vehicles.</p><p>This launch allows Uber to establish a presence in the UK market ahead of competitors like Waymo and Lyft. Wayve's software-first approach is designed to be hardware-agnostic, aiming to enable autonomous operation in complex urban environments without the need for high-definition maps.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Match-Screen.png?quality=90&strip=all&crop=0,0,100,100" /></p><hr/><small>3 Sep 2026, 06:29 UTC | #19979</small>]]></content>
+  </entry>
+  <entry>
     <title>Proofpoint in Talks to Acquire Varonis</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-02/thoma-bravo-s-proofpoint-is-said-in-talks-to-acquire-varonis" rel="alternate" />
     <id>https://www.bloomberg.com/news/articles/2026-09-02/thoma-bravo-s-proofpoint-is-said-in-talks-to-acquire-varonis::v238</id>
