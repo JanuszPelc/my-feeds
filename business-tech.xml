@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T15:11:00+00:00</updated>
+  <updated>2026-09-03T15:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>De Nederlandsche Bank Relocates €10 Billion in Gold from North America to London</title>
+    <link href="https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability" rel="alternate" />
+    <id>https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability::v238</id>
+    <published>2026-09-03T15:19:00+00:00</published>
+    <updated>2026-09-03T15:19:00+00:00</updated>
+    <media:thumbnail url="https://mloyoq1wv9pf.i.optimole.com/cb:6uVl.ffa/w:auto/h:auto/q:mauto/f:best/https://londonlovesbusiness.com/wp-content/uploads/2023/07/Gold-US-IMAGO-Zoonar.com-monticello-Avalon.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability">nltimes.nl</a> | <a href="https://www.dnb.nl/en/general-news/press-release-2026/dnb-improves-tradability-of-gold-reserves">source</a> | <a href="https://news.ycombinator.com/item?id=49535526">hacker news</a></small></p><hr/><p>De Nederlandsche Bank (DNB) has transferred approximately 86,000 kilograms of gold, valued at over €10 billion, from the United States and Canada to the Bank of England in London. The move aims to increase the liquidity and marketability of the Dutch national reserves, allowing for faster liquidation of assets during potential global crises.</p><p>The redistribution, conducted between March and August, seeks to mitigate risks posed by increasing geopolitical instability. By shifting reserves from North American vaults to the United Kingdom, the central bank intends to strengthen its crisis preparedness by utilizing the London market, which is considered one of the world's most accessible gold trading hubs.</p><p><img src="https://mloyoq1wv9pf.i.optimole.com/cb:6uVl.ffa/w:auto/h:auto/q:mauto/f:best/https://londonlovesbusiness.com/wp-content/uploads/2023/07/Gold-US-IMAGO-Zoonar.com-monticello-Avalon.jpg" /></p><hr/><small>3 Sep 2026, 18:56 UTC | #20058</small>]]></content>
+  </entry>
   <entry>
     <title>DHH's Political Stance and the Tension in the Ruby Community</title>
     <link href="https://codeandcake.dev/posts/2026-09-03-what-do-you-do" rel="alternate" />
@@ -930,41 +939,5 @@
     <updated>2026-08-29T20:23:00+00:00</updated>
     <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/NaeKbhgsdAyAekHkZv8mPW.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/exclusive-spacex-lays-groundwork-turbine-blade-factory-solve-data-center-power-crunch">theinformation.com</a></small></p><hr/><p>SpaceX is establishing a manufacturing facility in Bastrop, Texas, to produce blades for large gas turbines. This move aims to vertically integrate the company's power supply chain and address the energy shortages currently affecting the expansion of AI data centers.</p><p>Job listings for automation engineers specializing in blades and vanes suggest the facility will focus on advanced casting techniques. These components are intended to serve both data center power generation and the production of Starship's Raptor engine turbopumps.</p><p><img src="https://cdn.mos.cms.futurecdn.net/NaeKbhgsdAyAekHkZv8mPW.jpg" /></p><hr/><small>30 Aug 2026, 03:16 UTC | #19550</small>]]></content>
-  </entry>
-  <entry>
-    <title>Organizational Culture Over AI Tools for Maximizing Engineering Productivity</title>
-    <link href="https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity" rel="alternate" />
-    <id>https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity::v237</id>
-    <published>2026-08-29T18:48:00+00:00</published>
-    <updated>2026-08-29T18:48:00+00:00</updated>
-    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!XhMq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739ac7e0-a0d3-4bfb-9794-71f7aa57d86d_1600x773.jpeg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity">newsletter.eng-leadership.com</a> | <a href="https://news.ycombinator.com/item?id=49491568">hacker news</a></small></p><hr/><p>High-performing engineering teams rely more on healthy organizational environments than on the implementation of AI tools to drive productivity. Because AI acts as an amplifier, it accelerates high performance in healthy organizations but can exacerbate bad communication or poor architecture in dysfunctional ones.</p><p>Based on Conway's Law, a company's communication structure dictates its technical output. Effective AI adoption requires a leadership-driven cultural foundation rather than top-down mandates, prioritizing psychological safety and clear outcomes over simple tool deployment.</p><p><img src="https://substackcdn.com/image/fetch/$s_!XhMq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F739ac7e0-a0d3-4bfb-9794-71f7aa57d86d_1600x773.jpeg" /></p><hr/><small>29 Aug 2026, 23:33 UTC | #19553</small>]]></content>
-  </entry>
-  <entry>
-    <title>DHS Uses Customs Law to Obtain Data on Journalists and Non-Profits</title>
-    <link href="https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits" rel="alternate" />
-    <id>https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits::v237</id>
-    <published>2026-08-29T18:47:00+00:00</published>
-    <updated>2026-08-29T18:47:00+00:00</updated>
-    <media:thumbnail url="https://images.ctfassets.net/w4ut7xjvgytx/2LimnXQ1CMZtqdw0EEilNi/1e6f85b7edb70759306ca0a4739e0ded/1_civil_summons.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits">theguardian.com</a> | <a href="https://news.ycombinator.com/item?id=49492219">hacker news</a></small></p><hr/><p>The Department of Homeland Security (DHS) is using an obscure customs law, 19 USC 1509, to issue administrative summonses for private information from journalists, non-profits, and labor unions. These summonses allow the agency to obtain data—including telephone records and social media account information—without judicial oversight or the need to establish probable cause.</p><p>Legal experts argue the maneuver allows the government to bypass Fourth Amendment protections by utilizing customs-enforcement powers for domestic investigations. The strategy has been used to target political activists, journalists, and various organizations, including efforts to uncover social media identities and the financial records of activist groups.</p><p><img src="https://images.ctfassets.net/w4ut7xjvgytx/2LimnXQ1CMZtqdw0EEilNi/1e6f85b7edb70759306ca0a4739e0ded/1_civil_summons.png" /></p><hr/><small>29 Aug 2026, 23:30 UTC | #19551</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sony Music Publishing and Warner Chappell Music Sue Anthropic</title>
-    <link href="https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/" rel="alternate" />
-    <id>https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/::v237</id>
-    <published>2026-08-29T18:45:00+00:00</published>
-    <updated>2026-08-29T18:45:00+00:00</updated>
-    <media:thumbnail url="https://www.chartlex.com/images/blog/business/music-industry-ai-lawsuits-tracker-2026/section-case-status.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/">musicbusinessworldwide.com</a> | <a href="https://www.musicbusinessworldwide.com/files/2026/08/COMPLAINT-in-Sony_Music_Publishing_US_LLC_e.pdf">source</a></small></p><hr/><p>Sony Music Publishing and Warner Chappell Music have sued Anthropic and its co-founders for allegedly using tens of thousands of copyrighted musical compositions to train Claude AI models. The lawsuit, filed in the U.S. District Court for the Northern District of California, alleges the company utilized illegal torrenting and scraping from sources like Library Genesis to harvest intellectual property.</p><p>The publishers are seeking statutory damages, the destruction of infringing copies, and a formal account of Claude’s training data. The filing follows a series of similar copyright infringement lawsuits filed against Anthropic by other major industry players, including Universal Music Publishing Group and BMG.</p><p><img src="https://www.chartlex.com/images/blog/business/music-industry-ai-lawsuits-tracker-2026/section-case-status.jpg" /></p><hr/><small>29 Aug 2026, 23:24 UTC | #19534</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Internet's Evolution Into a Machine for Exploiting Human Vulnerability</title>
-    <link href="https://www.stephendiehl.com/posts/internet_predatory_cesspit/" rel="alternate" />
-    <id>https://www.stephendiehl.com/posts/internet_predatory_cesspit/::v237</id>
-    <published>2026-08-29T18:41:00+00:00</published>
-    <updated>2026-08-29T18:41:00+00:00</updated>
-    <media:thumbnail url="https://staticfiles.acronis.com/images/blog-cover/9a882aad67ae7150f1255d40968f6c74.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.stephendiehl.com/posts/internet_predatory_cesspit/">stephendiehl.com</a> | <a href="https://news.ycombinator.com/item?id=49492193">hacker news</a></small></p><hr/><p>The article argues that the internet has transitioned from a decentralized space of human interest into an optimized machine designed to identify and monetize human insecurities. Rather than being an anomaly, predation has become the network's primary organizing principle, using recommendation algorithms to convert emotions like outrage, fear, and loneliness into profitable engagement loops.</p><p>This "grift economy" has become a participatory system, where users act as unpaid distributors for dubious investments, wellness products, or political claims. The author warns that language models will likely exacerbate this phenomenon by significantly reducing the cost of producing plausible, large-scale misinformation.</p><p><img src="https://staticfiles.acronis.com/images/blog-cover/9a882aad67ae7150f1255d40968f6c74.png" /></p><hr/><small>29 Aug 2026, 20:00 UTC | #19549</small>]]></content>
   </entry>
 </feed>

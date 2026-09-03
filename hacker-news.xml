@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T13:29:00+00:00</updated>
+  <updated>2026-09-03T15:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>HTML Viewport Meta Tags No Longer Require Initial-Scale</title>
+    <link href="https://vale.rocks/micros/20260902-1350" rel="alternate" />
+    <id>https://vale.rocks/micros/20260902-1350::v238</id>
+    <published>2026-09-03T15:21:00+00:00</published>
+    <updated>2026-09-03T15:21:00+00:00</updated>
+    <media:thumbnail url="https://i.sstatic.net/bAzG0.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vale.rocks/micros/20260902-1350">vale.rocks</a> | <a href="https://lobste.rs/s/if60bl/you_don_t_need_initial_scale_your_html">discussion</a></small></p><hr/><p>The `initial-scale=1.0` property within the HTML viewport meta tag is no longer required for modern web browsers. Previously used to prevent unintended zooming in older mobile browsers, the property can now be omitted in favor of the `width=device-width` declaration.</p><p>This parameter served as a workaround for mobile browsing issues during the transition to responsive web design. Because the browser behaviors that necessitated the property have been resolved, omitting it reduces document overhead.</p><p><img src="https://i.sstatic.net/bAzG0.png" /></p><hr/><small>3 Sep 2026, 19:04 UTC | #20060</small>]]></content>
+  </entry>
   <entry>
     <title>Adolfo Ochagavía Explains and Implements a Huffman-Based Compressor</title>
     <link href="https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/" rel="alternate" />
@@ -991,14 +1000,5 @@
     <updated>2026-08-29T20:22:00+00:00</updated>
     <media:thumbnail url="https://reactos.org/img/project-news/reactos-0416-released/gui-setup-1.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://reactos.org/project-news/reactos-0416-released/">reactos.org</a> | <a href="https://lobste.rs/s/flcppv/introducing_reactos_0_4_16">discussion</a></small></p><hr/><p>ReactOS has released version 0.4.16, featuring a new graphical installer and a unified bootcd and livecd image. The release includes improvements to the video, audio, networking, and storage stacks, alongside several third-party code synchronizations.</p><p>Key updates include a new HD audio bus driver utilizing Microsoft's Kernel Mode Driver Framework and a new ATA driver to improve boot compatibility in environments like Hyper-V. The version also introduces a Server Core installation type and includes WineVDM to enhance compatibility for 16-bit Windows applications.</p><p><img src="https://reactos.org/img/project-news/reactos-0416-released/gui-setup-1.png" /></p><hr/><small>30 Aug 2026, 02:10 UTC | #19559</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Uses a Monolithic Repository to Manage Billions of Lines of Code</title>
-    <link href="https://dl.acm.org/doi/fullHtml/10.1145/2854146" rel="alternate" />
-    <id>https://dl.acm.org/doi/fullHtml/10.1145/2854146::v237</id>
-    <published>2026-08-29T18:50:00+00:00</published>
-    <updated>2026-08-29T18:50:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D22AQFeNV_vE8clqw/feedshare-shrink_1280/B4DZqwAl2UGQAs-/0/1763889548383?e=2147483647&amp;v=beta&amp;t=_Cso3EPWwWF7_eF2kpMGvKDnscLyEy0Xs3XyKaniqdM" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dl.acm.org/doi/fullHtml/10.1145/2854146">dl.acm.org</a> | <a href="https://dl.acm.org/doi/10.1145/2854146">source</a> | <a href="https://lobste.rs/s/wv6fzc/why_google_stores_billions_lines_code">discussion</a></small></p><hr/><p>Google manages its massive, centralized codebase through a custom-built version-control system known as Piper. This monolithic repository contains approximately one billion files, two billion lines of code, and 86TB of data, serving as a single source of truth for over 25,000 developers. The system is designed for ultra-large-scale activity, processing billions of file read requests daily and managing millions of weekly changes from both human users and automated systems.</p><p>To facilitate efficient development, Google uses "Clients in the Cloud" (CitC), a FUSE-based file system that allows developers to edit files in a cloud-based workspace without the need to clone the entire repository locally. The workflow relies on trunk-based development, where changes are committed to the central mainline to minimize the integration challenges associated with long-lived branches. This model is supported by an extensive automated testing and code-review infrastructure that maintains codebase health amid high commit volumes.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D22AQFeNV_vE8clqw/feedshare-shrink_1280/B4DZqwAl2UGQAs-/0/1763889548383?e=2147483647&v=beta&t=_Cso3EPWwWF7_eF2kpMGvKDnscLyEy0Xs3XyKaniqdM" /></p><hr/><small>29 Aug 2026, 23:55 UTC | #19211</small>]]></content>
   </entry>
 </feed>

@@ -3,9 +3,45 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-03T10:56:00+00:00</updated>
+  <updated>2026-09-03T15:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>RIPPLES Releases Pulse Rhythmic Volume Shaper</title>
+    <link href="https://www.kvraudio.com/news/ripples-releases-pulse---free-rhythmic-volume-shaper-for-macos-and-windows-68358?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68358" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ripples-releases-pulse---free-rhythmic-volume-shaper-for-macos-and-windows-68358?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68358::v238</id>
+    <published>2026-09-03T15:18:00+00:00</published>
+    <updated>2026-09-03T15:18:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/pulse_ui.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ripples-releases-pulse---free-rhythmic-volume-shaper-for-macos-and-windows-68358?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68358">kvraudio.com</a> | <a href="https://ripples-music.com/plugins/pulse">source</a></small></p><hr/><p>RIPPLES has released Pulse, a free rhythmic volume shaper for macOS and Windows. The plugin provides sidechain pumping, gating, and LFO shaping that can be synced to the host tempo or triggered via sidechain input.</p><p>Available in VST3 and AU formats, Pulse includes five shaping modes: PUMP, SOFT, TRI, SAW, and GATE. Access requires a RIPPLES account and installation through the RIPPLES Tap desktop application.</p><p><img src="https://static.kvraudio.com/i/b/pulse_ui.webp" /></p><hr/><small>3 Sep 2026, 18:51 UTC | #20055</small>]]></content>
+  </entry>
+  <entry>
+    <title>Jas-i Khorlo Physical Modeling Synth Enters Open Beta</title>
+    <link href="https://bedroomproducersblog.com/2026/09/03/jas-i-khorlo-beta/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/03/jas-i-khorlo-beta/::v238</id>
+    <published>2026-09-03T15:17:00+00:00</published>
+    <updated>2026-09-03T15:17:00+00:00</updated>
+    <media:thumbnail url="https://synthanatomy.com/wp-content/uploads/2026/09/Jasi-i-Khorlo.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/03/jas-i-khorlo-beta/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/03/jas-i-khorlo-beta/#comments">discussion</a></small></p><hr/><p>This free physical modeling synthesizer is currently in open beta. It uses a virtual cylinder engine with rotating impulse rings to produce polyrhythmic textures. It is compatible with macOS (including Apple Silicon), Linux, and Windows, and supports VST3, AU, and CLAP formats.</p><p>The software includes eight resonators, 135 presets, and ten reorderable effects. Its synthesis method relies on an exciter striking a resonator, which is then modulated by the rotating physical model.</p><p><img src="https://synthanatomy.com/wp-content/uploads/2026/09/Jasi-i-Khorlo.jpg" /></p><hr/><small>3 Sep 2026, 18:50 UTC | #20034</small>]]></content>
+  </entry>
+  <entry>
+    <title>Growl Audio Releases gFractor v1.2.3 Beta</title>
+    <link href="https://www.kvraudio.com/news/growl-audio-announces-availability-of-gfractor-v1-2-3-beta-68359?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68359" rel="alternate" />
+    <id>https://www.kvraudio.com/news/growl-audio-announces-availability-of-gfractor-v1-2-3-beta-68359?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68359::v238</id>
+    <published>2026-09-03T15:16:00+00:00</published>
+    <updated>2026-09-03T15:16:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot-2026-05-23-at-23-46-17.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/growl-audio-announces-availability-of-gfractor-v1-2-3-beta-68359?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68359">kvraudio.com</a> | <a href="https://growl-audio.com/plugins/gfractor#beta">source</a></small></p><hr/><p>Growl Audio has released the v1.2.3 beta of its gFractor spectrum analyzer through its preview channel. This update introduces a draggable target badge for setting loudness steps, a peak-to-RMS ratio (CREST) readout, and a per-octave stereo correlation chart utilizing 8192-point FFT.</p><p>New features include a Meters preferences tab, oscilloscope updates with a dB cursor and sidechain support, and the ability to export views as branded PNG files. The release also addresses bugs related to target curve data loading, GHOST pill state persistence, and envelope resets during channel mode switches.</p><p><img src="https://static.kvraudio.com/i/b/screenshot-2026-05-23-at-23-46-17.png" /></p><hr/><small>3 Sep 2026, 18:46 UTC | #20054</small>]]></content>
+  </entry>
+  <entry>
+    <title>Denon DJ Launches PRIME 4 G2 Standalone DJ System</title>
+    <link href="https://musictech.com/news/gear/denon-dj-dj-system-prime-4-g2-mpce-pads/" rel="alternate" />
+    <id>https://musictech.com/news/gear/denon-dj-dj-system-prime-4-g2-mpce-pads/::v238</id>
+    <published>2026-09-03T15:15:00+00:00</published>
+    <updated>2026-09-03T15:15:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/denon-dj-prime-4-g2@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/denon-dj-dj-system-prime-4-g2-mpce-pads/">musictech.com</a> | <a href="https://www.denondj.com/prime-4-g2.html">source</a></small></p><hr/><p>Denon DJ has released the PRIME 4 G2, a standalone 4-channel DJ system featuring new MPCe multi-zone performance pads. These 16 velocity- and pressure-sensitive pads use 3D-sensing technology to allow multiple functions—including Hot Cues, Stems, Rolls, and FX—to be controlled from a single pad.</p><p>The hardware features an 8-core ARM processor, 4GB of RAM, 8-inch jog wheels with LED displays, and a 10.1-inch HD multi-touch display. The system includes integrated DMX lighting control and OmniSource architecture, providing compatibility with Serato DJ Pro, Algoriddim djay, and VirtualDJ.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/denon-dj-prime-4-g2@2000x1500.jpg" /></p><hr/><small>3 Sep 2026, 18:45 UTC | #20027</small>]]></content>
+  </entry>
   <entry>
     <title>Naturl Audio Updates AL-1 Limiter to v1.1 with Second Engine and True Peak Stage</title>
     <link href="https://www.kvraudio.com/news/naturl-audio-updates-al-1-to-v1-1---adds-second-limiting-engine-and-true-peak-stage-68355?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68355" rel="alternate" />
@@ -527,14 +563,5 @@
     <updated>2026-08-30T04:01:00+00:00</updated>
     <media:thumbnail url="https://cdn.musicgeneratorai.io/blogs/images/what-is-suno-ai-music-generator.webp" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai">theverge.com</a></small></p><hr/><p>Electronic dance music producers are identifying and exposing AI-generated tracks presented as human-made. As generative tools like Suno enable users to create songs with minimal effort, artists such as Max “H4RRIS” Harris and Nihil Young are calling out 'AI slop' to protect the authenticity of the genre and the livelihoods of human creators.</p><p>The movement responds to a growing culture of mistrust fueled by audio artifacts like vocal stuttering and persistent hissing. While AI music has achieved mainstream success on TikTok and the Billboard charts, producers argue that generative tools threaten human artistry and the clarity of musical styles.</p><p><img src="https://cdn.musicgeneratorai.io/blogs/images/what-is-suno-ai-music-generator.webp" /></p><hr/><small>30 Aug 2026, 08:38 UTC | #19558</small>]]></content>
-  </entry>
-  <entry>
-    <title>mfkne Releases PUNCHDUST Free Plugin</title>
-    <link href="https://www.kvraudio.com/news/mfkne-releases-punchdust-punch-dust-and-upward-density-in-one-move-free-vst3-mac-and-windows-68188?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68188" rel="alternate" />
-    <id>https://www.kvraudio.com/news/mfkne-releases-punchdust-punch-dust-and-upward-density-in-one-move-free-vst3-mac-and-windows-68188?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68188::v237</id>
-    <published>2026-08-29T18:42:00+00:00</published>
-    <updated>2026-08-29T18:42:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/punchdust.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/mfkne-releases-punchdust-punch-dust-and-upward-density-in-one-move-free-vst3-mac-and-windows-68188?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68188">kvraudio.com</a> | <a href="https://mfkne.com/plugins.html">source</a></small></p><hr/><p>PUNCHDUST is a free VST3 character dynamics and texture plugin for macOS and Windows. It integrates transient shaping, digital and analog textures, upward compression, and frequency balancing to modify audio character.</p><p>Four controls define the plugin: PUNCH for attack enhancement, DUST for 5-bit digital crackle and analog hiss, SQUEEZE for parallel upward compression, and TILT for frequency balancing. It utilizes a 48-sample lookahead and processes a wet signal to ensure the original dry signal remains untouched.</p><p><img src="https://static.kvraudio.com/i/b/punchdust.png" /></p><hr/><small>29 Aug 2026, 20:30 UTC | #19533</small>]]></content>
   </entry>
 </feed>
