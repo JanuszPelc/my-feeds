@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T01:36:00+00:00</updated>
+  <updated>2026-09-03T02:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Meta Shifts From AI Token Metrics to 'AI-Driven Impact' in Employee Reviews</title>
+    <link href="https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/" rel="alternate" />
+    <id>https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/::v238</id>
+    <published>2026-09-03T02:41:00+00:00</published>
+    <updated>2026-09-03T02:41:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQFCSABuNVOOXw/article-cover_image-shrink_720_1280/B56Z6M5V4THcAU-/0/1780480306449?e=2147483647&amp;v=beta&amp;t=1dB3PuExKpaFNheZVQh3z1Mhfq3Qv9Ax2fdVBlTJevQ" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/">wired.com</a></small></p><hr/><p>Meta is moving away from tracking raw AI token usage in performance evaluations to curb 'tokenmaxxing,' a practice where employees inflate AI consumption to satisfy management metrics. The company's revised strategy emphasizes 'AI-driven impact,' prioritizing meaningful business outcomes over mere data processing volume.</p><p>The shift coincides with Meta's efforts to promote Hatch, an internal AI agent designed to handle web-based tasks and personal errands. This change in oversight follows ballooning enterprise costs, with the company working to control AI expenditures that are projected to reach billions of dollars annually.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQFCSABuNVOOXw/article-cover_image-shrink_720_1280/B56Z6M5V4THcAU-/0/1780480306449?e=2147483647&v=beta&t=1dB3PuExKpaFNheZVQh3z1Mhfq3Qv9Ax2fdVBlTJevQ" /></p><hr/><small>3 Sep 2026, 09:49 UTC | #19986</small>]]></content>
+  </entry>
   <entry>
     <title>Loudoun County Data Center Boom Sparks Community Backlash</title>
     <link href="https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImdOTzNBbXNGVFoiLCJwIjoiL2NzL2ZlYXR1cmVzLzk3NTU5Ny9sb3Vkb3VuLWNvdW50eS12aXJnaW5pYS1kYXRhLWNlbnRlci1iYWNrbGFzaCIsImV4cCI6MTc4ODc4MjY4NiwiaWF0IjoxNzg4MzUwNjg3fQ.fluxVpED1fJ-DEk8WWOP3EJ5LdE4FtugNovvbbdW1j0&amp;utm_medium=gift-link" rel="alternate" />
