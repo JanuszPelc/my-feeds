@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T13:25:00+00:00</updated>
+  <updated>2026-09-03T13:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Parents Use Ollie and Cozi Max to Manage Family Schedules and Household Tasks</title>
+    <link href="https://www.ft.com/content/6fc3bfad-cb65-483a-b29c-84d494bd15b6" rel="alternate" />
+    <id>https://www.ft.com/content/6fc3bfad-cb65-483a-b29c-84d494bd15b6::v238</id>
+    <published>2026-09-03T13:28:00+00:00</published>
+    <updated>2026-09-03T13:28:00+00:00</updated>
+    <media:thumbnail url="https://elements-resized.envatousercontent.com/elements-cover-images/fdca1e77-a6b6-47aa-9c9d-8c8ab2721196?w=1200&amp;h=630&amp;cf_fit=crop&amp;q=85&amp;format=jpeg&amp;s=a989a8fe742a8ba18124e26a7c6c7da3858f62a851ce3dd40de0295f84e65417" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/6fc3bfad-cb65-483a-b29c-84d494bd15b6">ft.com</a></small></p><hr/><p>Parents, primarily mothers, are using AI-powered applications like Ollie and Cozi Max to manage family logistics. These tools facilitate tasks such as coordinating complex schedules, researching preschools, planning meals, and organizing grocery shopping.</p><p>This shift reflects an increasing reliance on AI to handle the mental load of household administration. By automating mundane domestic chores, these applications aim to reduce the cognitive burden on parents and streamline daily family routines.</p><p><img src="https://elements-resized.envatousercontent.com/elements-cover-images/fdca1e77-a6b6-47aa-9c9d-8c8ab2721196?w=1200&h=630&cf_fit=crop&q=85&format=jpeg&s=a989a8fe742a8ba18124e26a7c6c7da3858f62a851ce3dd40de0295f84e65417" /></p><hr/><small>3 Sep 2026, 17:30 UTC | #20011</small>]]></content>
+  </entry>
   <entry>
     <title>G20 Nations Adopt US-Proposed Light-Touch AI Regulation Guidelines</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-02/us-strikes-light-touch-ai-regulation-accord-with-g20-members" rel="alternate" />

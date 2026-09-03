@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T13:26:00+00:00</updated>
+  <updated>2026-09-03T13:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Adolfo Ochagavía Explains and Implements a Huffman-Based Compressor</title>
+    <link href="https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/" rel="alternate" />
+    <id>https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/::v238</id>
+    <published>2026-09-03T13:29:00+00:00</published>
+    <updated>2026-09-03T13:29:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/933390721/original/e607fb7092/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ochagavia.nl/blog/lets-build-a-compressor-from-scratch/">ochagavia.nl</a> | <a href="https://lobste.rs/s/3y9lbw/let_s_build_compressor_from_scratch">discussion</a></small></p><hr/><p>Data compression mechanics are examined through the principles of Huffman coding and the DEFLATE algorithm. The guide details the creation of a custom, simplified compressor called Adolfo’s Basic Compressor (ABC) using the Rust programming language.</p><p>The implementation requires approximately 580 lines of dependency-free code and achieves size reduction for text and binary files, though it is less efficient than standard gzip utilities. This approach demonstrates the practical application of information theory and bit-level encoding.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/933390721/original/e607fb7092/1?v=1" /></p><hr/><small>3 Sep 2026, 17:33 UTC | #20048</small>]]></content>
+  </entry>
   <entry>
     <title>Anker Unveils MindBase Local AI Smart Home Hub</title>
     <link href="https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter" rel="alternate" />
