@@ -984,13 +984,4 @@
     <media:thumbnail url="https://github.com/Lakr233/vphone-cli/raw/main/docs/demo.jpeg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/Lakr233/vphone-cli">github.com</a> | <a href="https://news.ycombinator.com/item?id=49485267">hacker news</a></small></p><hr/><p>This command-line utility enables the booting of virtual iPhones on Apple Silicon Macs by leveraging Apple's Virtualization.framework. It automates the full process of downloading IPSW files, patching the boot chain, performing DFU restores, and installing custom firmware to create a functional iOS instance.</p><p>The software includes several firmware variants, ranging from standard security configurations to full jailbreak environments and experimental anti-detection patches. It also provides a host control socket for programmatic interaction, such as screenshots and touch emulation, to facilitate automated testing.</p><p><img src="https://github.com/Lakr233/vphone-cli/raw/main/docs/demo.jpeg" /></p><hr/><small>29 Aug 2026, 09:01 UTC | #19508</small>]]></content>
   </entry>
-  <entry>
-    <title>scheme-rs Performance via CPS-Based JIT Optimizations</title>
-    <link href="https://maplant.com/2025-04-20-25x-Performance,-Three-Optimizations.html" rel="alternate" />
-    <id>https://maplant.com/2025-04-20-25x-Performance,-Three-Optimizations.html::v237</id>
-    <published>2026-08-29T00:58:00+00:00</published>
-    <updated>2026-08-29T00:58:00+00:00</updated>
-    <media:thumbnail url="https://pub.mdpi-res.com/sensors/sensors-25-05715/article_deploy/html/images/sensors-25-05715-g001.png?1757925776" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://maplant.com/2025-04-20-25x-Performance,-Three-Optimizations.html">maplant.com</a> | <a href="https://lobste.rs/s/rhto2r/25x_performance_three_optimizations">discussion</a></small></p><hr/><p>The author describes the conversion of the scheme-rs Scheme implementation from an AST-based interpreter to a Continuation-Passing Style (CPS) based JIT compiler to facilitate mechanical continuation handling. This initial transition caused a significant performance regression in benchmarking tests.</p><p>To recover the lost performance, the author implemented beta-reduction to eliminate the redundant closures produced during CPS conversion. This optimization successfully restored performance to levels near the original interpreter, bringing the project closer to its goal of competing with Guile.</p><p><img src="https://pub.mdpi-res.com/sensors/sensors-25-05715/article_deploy/html/images/sensors-25-05715-g001.png?1757925776" /></p><hr/><small>29 Aug 2026, 06:24 UTC | #19505</small>]]></content>
-  </entry>
 </feed>
