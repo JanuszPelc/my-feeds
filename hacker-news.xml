@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-02T18:33:00+00:00</updated>
+  <updated>2026-09-03T00:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Bluefin Reclassified as a Capability System</title>
+    <link href="https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/" rel="alternate" />
+    <id>https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/::v238</id>
+    <published>2026-09-03T00:18:00+00:00</published>
+    <updated>2026-09-03T00:18:00+00:00</updated>
+    <media:thumbnail url="https://deepwiki.com/ublue-os/bluefin/og-image.png?page=2.1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/">h2.jaguarpaw.co.uk</a> | <a href="https://lobste.rs/s/v1wxh0/bluefin_is_capability_system">discussion</a></small></p><hr/><p>Bluefin, a Haskell effect system, is being reframed as a "capability system" because it uses value-level arguments to indicate the presence of effects rather than type-level constraints. This approach allows programmers to pass authority to access specific resources—such as a database or an exception mechanism—directly as arguments to functions, mirroring the behavior of traditional capability-based programming.</p><p>The shift in terminology aims to clarify Haskell's ability to circumscribe program behavior and to better communicate its utility in enforcing architectural boundaries. The author argues that this framing is particularly relevant for managing the security and design implications of increasingly prevalent AI-generated code.</p><p><img src="https://deepwiki.com/ublue-os/bluefin/og-image.png?page=2.1" /></p><hr/><small>3 Sep 2026, 08:35 UTC | #20005</small>]]></content>
+  </entry>
   <entry>
     <title>TinyGo 0.42 Adds Recoverable Panics and Go 1.27 Support</title>
     <link href="https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/" rel="alternate" />
@@ -965,14 +974,5 @@
     <updated>2026-08-29T08:37:00+00:00</updated>
     <media:thumbnail url="https://raw.githubusercontent.com/experientiallabs/experiential/main/assets/experiential-workflow.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/experientiallabs/experiential">github.com</a> | <a href="https://news.ycombinator.com/item?id=49471407">hacker news</a></small></p><hr/><p>Experiential is an open-source gateway and router designed for AI agent workflows, providing a unified, OpenAI-compatible API for hosted, local, and custom models. It allows developers to control model access and spending limits for specific users or agents while enabling traffic routing optimized for quality, speed, or cost.</p><p>The tool supports "Bring Your Own Key" (BYOK) integration for multiple providers, including Anthropic, Gemini, and OpenRouter. It includes telemetry support via OpenTelemetry to facilitate the creation of custom routers and the fine-tuning of models based on captured usage traces.</p><p><img src="https://raw.githubusercontent.com/experientiallabs/experiential/main/assets/experiential-workflow.png" /></p><hr/><small>29 Aug 2026, 14:23 UTC | #19529</small>]]></content>
-  </entry>
-  <entry>
-    <title>Xiaomi 18 Fold to Debut CXMT LPDDR6 DRAM and Xring O3 SoC</title>
-    <link href="https://www.reuters.com/world/asia-pacific/chinas-cxmt-supply-memory-chip-xiaomis-upcoming-folding-phone-2026-08-29/" rel="alternate" />
-    <id>https://www.reuters.com/world/asia-pacific/chinas-cxmt-supply-memory-chip-xiaomis-upcoming-folding-phone-2026-08-29/::v237</id>
-    <published>2026-08-29T08:31:00+00:00</published>
-    <updated>2026-08-29T08:31:00+00:00</updated>
-    <media:thumbnail url="https://media.ixbt.com/ixbt-data/1294832/media-4r0cpb5t9edtiwy5jakwn5ma.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/chinas-cxmt-supply-memory-chip-xiaomis-upcoming-folding-phone-2026-08-29/">reuters.com</a></small></p><hr/><p>Xiaomi and CXMT have announced that the upcoming Xiaomi 18 Fold smartphone will feature CXMT's LPDDR6 DRAM chips alongside Xiaomi's in-house 3nm Xring O3 SoC. The device is scheduled to launch in September.</p><p>This deployment marks a milestone for ChangXin Memory Technologies as it brings its LPDDR6 memory standard to the flagship smartphone market. The integration of these components underscores Xiaomi's increasing emphasis on vertical integration through its own proprietary semiconductor technology.</p><p><img src="https://media.ixbt.com/ixbt-data/1294832/media-4r0cpb5t9edtiwy5jakwn5ma.png" /></p><hr/><small>29 Aug 2026, 12:47 UTC | #19502</small>]]></content>
   </entry>
 </feed>
