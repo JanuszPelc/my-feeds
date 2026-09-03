@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-02T22:25:00+00:00</updated>
+  <updated>2026-09-03T01:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>PhiloLabs Showcases AI Agent-Generated 3D Reconstructions of Real Locations</title>
+    <link href="https://github.com/PhiloLabs/fable51-worlds" rel="alternate" />
+    <id>https://github.com/PhiloLabs/fable51-worlds::v238</id>
+    <published>2026-09-03T01:38:00+00:00</published>
+    <updated>2026-09-03T01:38:00+00:00</updated>
+    <media:thumbnail url="https://cdn.sci.news/images/enlarge5/image_6762_3e-Pumapunku.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/PhiloLabs/fable51-worlds">github.com</a> | <a href="https://news.ycombinator.com/item?id=49541458">hacker news</a></small></p><hr/><p>PhiloLabs' "fable51-worlds" project consists of browser-native, 3D reconstructions of real-world locations, including San Francisco's Union Square and Kyoto's Higashiyama, created via autonomous Claude Fable 5.1 agent swarms. These Three.js applications generate urban environments—including buildings, storefronts, and street life—using OpenStreetMap geometry, elevation data, and public reference imagery instead of proprietary 3D tiles or a traditional game engine.</p><p>The production pipeline utilizes autonomous reconnaissance, offline asset generation through Blender-as-a-library, and camera-match quality assurance using Playwright to validate reconstructions against real photographs. The Higashiyama model features a hand-painted anime aesthetic, where elements such as lanterns and roof tiles are rendered via Canvas2D at runtime rather than through binary assets.</p><p><img src="https://cdn.sci.news/images/enlarge5/image_6762_3e-Pumapunku.jpg" /></p><hr/><small>3 Sep 2026, 09:27 UTC | #20007</small>]]></content>
+  </entry>
   <entry>
     <title>TechCrunch Disrupt 2026 Announces New Real World AI Stage</title>
     <link href="https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/" rel="alternate" />
