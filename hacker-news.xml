@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T11:00:00+00:00</updated>
+  <updated>2026-09-03T11:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>BGP Hijacking Targets Virtualizor and Softaculous Infrastructure</title>
+    <link href="https://www.virtualizor.com/blog/security-incident-bgp-hijacking/" rel="alternate" />
+    <id>https://www.virtualizor.com/blog/security-incident-bgp-hijacking/::v238</id>
+    <published>2026-09-03T11:02:00+00:00</published>
+    <updated>2026-09-03T11:02:00+00:00</updated>
+    <media:thumbnail url="https://mdpi-res.com/electronics/electronics-14-04940/article_deploy/html/images/electronics-14-04940-g001.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.virtualizor.com/blog/security-incident-bgp-hijacking/">virtualizor.com</a> | <a href="https://lobste.rs/s/6e1y6s/security_incident_bgp_hijacking">discussion</a></small></p><hr/><p>A BGP hijacking attack targeted Softaculous and Virtualizor infrastructure between August 28 and August 30, 2026, diverting internet traffic to an attacker-controlled server. By announcing a more-specific route, the attacker successfully intercepted connections and obtained valid TLS certificates for the affected domains, which prevented security warnings for users whose traffic was diverted.</p><p>The incident resulted in the distribution of a malicious Virtualizor update package to a small number of installations that checked for updates during the period of routing diversion. Technical analysis of routing data shows the hijack was widely propagated, with peak diversion affecting approximately 72% of the monitored internet routing peer set.</p><p><img src="https://mdpi-res.com/electronics/electronics-14-04940/article_deploy/html/images/electronics-14-04940-g001.png" /></p><hr/><small>3 Sep 2026, 15:15 UTC | #20036</small>]]></content>
+  </entry>
   <entry>
     <title>Browser Main Thread Performance Optimization</title>
     <link href="https://kciter.so/posts/the-expensive-main-thread/en/" rel="alternate" />
