@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T13:22:00+00:00</updated>
+  <updated>2026-09-03T13:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Anker Unveils MindBase Local AI Smart Home Hub</title>
+    <link href="https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter" rel="alternate" />
+    <id>https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter::v238</id>
+    <published>2026-09-03T13:26:00+00:00</published>
+    <updated>2026-09-03T13:26:00+00:00</updated>
+    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anker-MindBase_Product-image.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter">theverge.com</a> | <a href="https://www.jacksonsun.com/press-release/story/111440/introducing-anker-mindbase-an-ai-powered-home-hub-built-for-the-autonomous-home-at-ifa-2026/">source</a></small></p><hr/><p>Anker has introduced MindBase, an AI-powered smart home hub designed for local processing and on-device intelligence. The device uses an on-device large language model (LLM) to analyze security footage locally, which enhances privacy by keeping data within the home. It acts as a Matter 1.5 controller supporting various protocols like Thread and Zigbee, and is intended to manage everything from security to energy and cleaning via a centralized hub.</p><p>The hub provides up to 48TB of expandable storage and offers advanced AI features, such as natural-language video search and person detection, without a monthly subscription. Accompanying the MindBase are several new Eufy products, including the S4 video doorbell, the TrackLight Cam S1, and a mmWave fall detection sensor.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anker-MindBase_Product-image.jpg?quality=90&strip=all&crop=0,0,100,100" /></p><hr/><small>3 Sep 2026, 17:14 UTC | #20010</small>]]></content>
+  </entry>
   <entry>
     <title>Revo Programming Language Overview</title>
     <link href="https://revo.lung.fyi/" rel="alternate" />
