@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T18:45:00+00:00</updated>
+  <updated>2026-09-03T19:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rust 1.98.1 Fixes Vtable Generation Miscompilation</title>
+    <link href="https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/" rel="alternate" />
+    <id>https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/::v238</id>
+    <published>2026-09-03T19:02:00+00:00</published>
+    <updated>2026-09-03T19:02:00+00:00</updated>
+    <media:thumbnail url="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/rust.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/77qick/announcing_rust_1_98_1">discussion</a></small></p><hr/><p>The Rust team has released version 1.98.1, a point update addressing a miscompilation bug present in Rust 1.98.0. The update fixes an issue where the compiler incorrectly generated trait object vtables containing null pointers instead of function pointers.</p><p>This error could lead to undefined behavior, potentially causing segmentation faults or other arbitrary execution effects. Users can update their installation via the command `rustup update stable`.</p><p><img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/rust.png" /></p><hr/><small>3 Sep 2026, 22:02 UTC | #20081</small>]]></content>
+  </entry>
+  <entry>
+    <title>Deforester Logging Library for Janet Released</title>
+    <link href="https://codeberg.org/veqq/deforester" rel="alternate" />
+    <id>https://codeberg.org/veqq/deforester::v238</id>
+    <published>2026-09-03T19:01:00+00:00</published>
+    <updated>2026-09-03T19:01:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/984533369/original/ce0eaa2b49/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codeberg.org/veqq/deforester">codeberg.org</a> | <a href="https://lobste.rs/s/klhs7o/deforester_logging_for_janet">discussion</a></small></p><hr/><p>The library utilizes a pipeline architecture to process events from tables into formatted strings, supporting NDJSON output and file writing. It includes a fallback to stderr to ensure that logging failures do not crash the primary program and supports various writing modes, including custom closures.</p><p>Advanced features include context management for attaching metadata across asynchronous execution spans and customizable processors for filtering or forwarding logs to external services. Deforester also includes testing utilities such as in-memory log buffers and the ability to override timestamps for stable snapshot testing.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/984533369/original/ce0eaa2b49/1?v=1" /></p><hr/><small>3 Sep 2026, 22:00 UTC | #20078</small>]]></content>
+  </entry>
   <entry>
     <title>HTC Launches Vive Eagle Smart Glasses in the US</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-03/htc-brings-499-vive-eagle-smart-glasses-to-us-amid-broader-privacy-concerns" rel="alternate" />
