@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-03T10:54:00+00:00</updated>
+  <updated>2026-09-03T10:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Naturl Audio Updates AL-1 Limiter to v1.1 with Second Engine and True Peak Stage</title>
+    <link href="https://www.kvraudio.com/news/naturl-audio-updates-al-1-to-v1-1---adds-second-limiting-engine-and-true-peak-stage-68355?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68355" rel="alternate" />
+    <id>https://www.kvraudio.com/news/naturl-audio-updates-al-1-to-v1-1---adds-second-limiting-engine-and-true-peak-stage-68355?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68355::v238</id>
+    <published>2026-09-03T10:56:00+00:00</published>
+    <updated>2026-09-03T10:56:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/al-1-v1-1-metering.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/naturl-audio-updates-al-1-to-v1-1---adds-second-limiting-engine-and-true-peak-stage-68355?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68355">kvraudio.com</a> | <a href="https://naturl.audio/">source</a></small></p><hr/><p>Naturl Audio has released a v1.1 update for its AL-1 limiter plugin, introducing a second limiting engine and a dedicated true peak stage. The update adds Engine 2, a bespoke analog circuit design created through physics-based modeling, alongside the original Engine 1's three digital algorithms. The new true peak stage provides a secondary limiting layer to catch inter-sample peaks without altering the primary engine's sonic character.</p><p>The plugin retains its zero look-ahead and non-brickwall design, which is intended to preserve transients and stereo imaging. This update expands the tool's utility into film and television post-production environments where true peak compliance is a delivery requirement. The v1.1 update is free for existing owners, while new licenses are priced at $229.</p><p><img src="https://static.kvraudio.com/i/b/al-1-v1-1-metering.webp" /></p><hr/><small>3 Sep 2026, 13:52 UTC | #20017</small>]]></content>
+  </entry>
   <entry>
     <title>Audacity Releases Version 4.0 with Rebuilt Qt Interface</title>
     <link href="https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0" rel="alternate" />
