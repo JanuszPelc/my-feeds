@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-02T18:36:00+00:00</updated>
+  <updated>2026-09-03T11:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>CD Projekt Red to Continue Physical Releases</title>
+    <link href="https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases::v238</id>
+    <published>2026-09-03T11:03:00+00:00</published>
+    <updated>2026-09-03T11:03:00+00:00</updated>
+    <media:thumbnail url="https://www.alexgamepass.com/wp-content/uploads/2026/05/yzobrazhenye_2026-05-28_203101190-scaled.png" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases">gamedeveloper.com</a></small></p><hr/><p>CD Projekt Red aims to maintain physical product offerings despite the industry trend toward digital distribution. Co-CEO Michal Nowakowski announced at Gamescom 2026 that the studio will continue to provide collector-focused physical boxes, though these may increasingly utilize download codes instead of game discs to accommodate changing platform requirements.</p><p>This approach follows Sony's plan to end physical software production for PlayStation in 2028. While the studio is subject to platform-holder manufacturing decisions and the decline of disc drives, it intends to cater to collectors through high-quality physical packaging.</p><p><img src="https://www.alexgamepass.com/wp-content/uploads/2026/05/yzobrazhenye_2026-05-28_203101190-scaled.png" /></p><hr/><small>3 Sep 2026, 16:08 UTC | #20014</small>]]></content>
+  </entry>
   <entry>
     <title>Nexus Mods Acquires SteamDB</title>
     <link href="https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb" rel="alternate" />
