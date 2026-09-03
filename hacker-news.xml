@@ -1019,13 +1019,4 @@
     <media:thumbnail url="https://datakitchen.io/images/blog/2026/04/image_03-16.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://danluu.com/bug-blind/">danluu.com</a> | <a href="https://news.ycombinator.com/item?id=49494520">hacker news</a></small></p><hr/><p>Software developers and users often fail to notice significant defects because they have unconsciously adapted to work around them. This cognitive bias can lead teams to believe they are shipping high-quality products even when users encounter severe usability issues or non-functional software.</p><p>Common mitigation strategies like "dogfooding" can be undermined if developers have already established habits to bypass problematic workflows. Using Large Language Models to simulate normal users can help identify and reproduce these hidden issues that human developers have become accustomed to.</p><p><img src="https://datakitchen.io/images/blog/2026/04/image_03-16.webp" /></p><hr/><small>30 Aug 2026, 07:16 UTC | #19568</small>]]></content>
   </entry>
-  <entry>
-    <title>Josh Karamuth Details AWS Cognito Implementation Challenges</title>
-    <link href="https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/" rel="alternate" />
-    <id>https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/::v237</id>
-    <published>2026-08-29T23:33:00+00:00</published>
-    <updated>2026-08-29T23:33:00+00:00</updated>
-    <media:thumbnail url="https://d2908q01vomqb2.cloudfront.net/0a57cb53ba59c46fc4b692527a38a87c78d84028/2020/11/02/Amplify_Blogpost-1024x713.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/">joshkaramuth.com</a> | <a href="https://news.ycombinator.com/item?id=49478091">hacker news</a></small></p><hr/><p>Implementing AWS Cognito for startup authentication presents several challenges, including fragmented documentation, breaking changes in the Amplify SDK, and limited local development capabilities.</p><p>The convenience of ecosystem integration can be offset by high engineering costs and technical debt, particularly when immutable configuration settings like user pool attributes necessitate complex migrations for production applications.</p><p><img src="https://d2908q01vomqb2.cloudfront.net/0a57cb53ba59c46fc4b692527a38a87c78d84028/2020/11/02/Amplify_Blogpost-1024x713.png" /></p><hr/><small>30 Aug 2026, 06:51 UTC | #19567</small>]]></content>
-  </entry>
 </feed>

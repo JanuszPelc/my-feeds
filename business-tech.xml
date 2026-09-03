@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T15:29:00+00:00</updated>
+  <updated>2026-09-03T19:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Abliteration.ai Launches Service to Remove AI Guardrails from Open-Weight Models</title>
+    <link href="https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/::v238</id>
+    <published>2026-09-03T19:09:00+00:00</published>
+    <updated>2026-09-03T19:09:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/abliteration-test-password-steal-e1788449758617.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/">techcrunch.com</a></small></p><hr/><p>This service strips safety guardrails and refusal mechanisms from open-weight AI models, including Z.ai’s GLM-5.3. By hosting these modified versions via a web browser or API, the startup enables users to perform tasks that standard models would refuse, such as offensive cyber-testing or red-teaming. The company aims to assist security professionals in defending against attackers by allowing them to replicate malicious behaviors.</p><p>Moving an underground open-source technique into a structured commercial environment allows the platform to bypass the need for users to manage their own compute. While advocates argue that democratizing access to uncensored models is essential for red-teaming and defense, critics warn it significantly lowers the barrier for malicious users to generate instructions for bioweapons or cyberattacks. The company currently operates via customer revenue and is in discussions for venture capital funding.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/abliteration-test-password-steal-e1788449758617.png?w=680" /></p><hr/><small>3 Sep 2026, 23:43 UTC | #20061</small>]]></content>
+  </entry>
   <entry>
     <title>New York Times and The Athletic Workers Demand Scrap Kalshi Deal</title>
     <link href="https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/" rel="alternate" />
