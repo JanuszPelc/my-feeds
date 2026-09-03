@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-02T23:43:00+00:00</updated>
+  <updated>2026-09-03T06:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>UNICEF Report Finds Almost One in Five Children Experienced Tech-Facilitated Sexual Abuse</title>
+    <link href="https://www.unicef.org/" rel="alternate" />
+    <id>https://www.unicef.org/::v238</id>
+    <published>2026-09-03T06:31:00+00:00</published>
+    <updated>2026-09-03T06:31:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.unicef.org/">unicef.org</a> | <a href="https://www.unicef.org/press-releases/1-5-children-across-21-countries-have-experienced-tech-facilitated-sexual">source</a></small></p><hr/><p>A survey of 21,000 internet-using children aged 12 to 17 across 21 countries found that almost one in five respondents experienced tech-facilitated sexual exploitation and abuse. More than half of these abusive incidents occurred on mainstream social media platforms.</p><p>Fewer than 1% of the documented experiences were reported to authorities. This low reporting rate highlights significant gaps in digital safety mechanisms and the effectiveness of current child protection and reporting pathways for minors.</p><hr/><small>3 Sep 2026, 11:52 UTC | #19994</small>]]></content>
+  </entry>
   <entry>
     <title>NPC Lifestyle Proposed as a Form of Stoic Living</title>
     <link href="https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/" rel="alternate" />
@@ -248,14 +256,5 @@
     <updated>2026-08-29T14:12:00+00:00</updated>
     <media:thumbnail url="https://cdn.analyticsvidhya.com/wp-content/uploads/2025/12/image4-1.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory">arbustoemchamas.substack.com</a> | <a href="https://lobste.rs/s/5lz0zd/i_naively_tried_vibe_coding_memory_tool">discussion</a></small></p><hr/><p>An attempt to develop a Rust-based memory tool for AI agents designed to store local information and automatically flag contradictory data. While the project successfully built a search engine over a custom corpus, it failed to implement automated contradiction detection.</p><p>The failure is attributed to the "proposition identity" problem, a long-standing, unsolved challenge in knowledge representation and the philosophy of language. This problem concerns the difficulty of determining when two different linguistic expressions refer to the same proposition, a prerequisite for automated logical reasoning.</p><p><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2025/12/image4-1.webp" /></p><hr/><small>29 Aug 2026, 18:01 UTC | #19542</small>]]></content>
-  </entry>
-  <entry>
-    <title>Icelanders Vote on Whether to Restart EU Accession Negotiations</title>
-    <link href="https://www.bbc.com/news/articles/cn45vdxyvvlo" rel="alternate" />
-    <id>https://www.bbc.com/news/articles/cn45vdxyvvlo::v237</id>
-    <published>2026-08-29T11:40:00+00:00</published>
-    <updated>2026-08-29T11:40:00+00:00</updated>
-    <media:thumbnail url="https://img.onmanorama.com/content/dam/mm/en/archive/upsc/current-affairs/images/2026/3/11/iceland-eu-talks.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.bbc.com/news/articles/cn45vdxyvvlo">bbc.com</a> | <a href="https://news.ycombinator.com/item?id=49489057">hacker news</a></small></p><hr/><p>Iceland is holding a referendum to determine if the nation should reopen negotiations to join the European Union, following a suspension of talks in 2013. A successful "Yes" vote would not grant immediate membership but would authorize the government to seek a formal accession agreement, a process that would still require parliamentary approval, constitutional amendments, and consent from the 27 EU member states.</p><p>The vote is heavily influenced by concerns over national sovereignty and control over the fishing industry, which accounts for nearly 40% of Iceland's exports. While proponents argue that EU membership could mitigate high inflation and interest rates, opponents fear that joining the customs union would relinquish control over vital maritime resources to Brussels.</p><p><img src="https://img.onmanorama.com/content/dam/mm/en/archive/upsc/current-affairs/images/2026/3/11/iceland-eu-talks.jpg" /></p><hr/><small>29 Aug 2026, 14:42 UTC | #19530</small>]]></content>
   </entry>
 </feed>

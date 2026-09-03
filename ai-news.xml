@@ -375,13 +375,4 @@
     <media:thumbnail url="https://pbs.twimg.com/media/HEvT1z2bcAE6dnI.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/claudedevs">x.com</a> | <a href="https://x.com/ClaudeDevs/status/2093742321473065266">source</a></small></p><hr/><p>Anthropic will permanently increase standard weekly limits for Claude Code by 25% starting September 14. The update applies to Pro, Max, Team, and seat-based Enterprise plans.</p><p>Users currently receiving a temporary 50% boost will see a net 17% reduction in available weekly usage once the new standard limits are implemented.</p><p><img src="https://pbs.twimg.com/media/HEvT1z2bcAE6dnI.jpg" /></p><hr/><small>30 Aug 2026, 01:07 UTC | #19544</small>]]></content>
   </entry>
-  <entry>
-    <title>Lemmalog Applies Datalog to LLM Memory Management</title>
-    <link href="https://pwning.systems/posts/llm-memory-program-analysis/" rel="alternate" />
-    <id>https://pwning.systems/posts/llm-memory-program-analysis/::v237</id>
-    <published>2026-08-29T11:42:00+00:00</published>
-    <updated>2026-08-29T11:42:00+00:00</updated>
-    <media:thumbnail url="https://velog.velcdn.com/images/with1015/post/0daf460e-4b9c-414c-b661-9cca6054ad58/image.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pwning.systems/posts/llm-memory-program-analysis/">pwning.systems</a> | <a href="https://news.ycombinator.com/item?id=49485416">hacker news</a></small></p><hr/><p>Lemmalog manages LLM memory by treating it as a problem of program analysis using a Datalog engine. It converts unstructured observations into structured facts and uses logical rules to maintain a consistent state, allowing conclusions to be automatically invalidated when underlying facts change. This mechanism addresses the tendency of LLMs to lose track of established information during long-running investigative tasks, such as vulnerability research.</p><p>The system separates the probabilistic task of information extraction from deterministic logical deduction, providing features like fact retraction, provenance tracking, and temporal reasoning. Benchmarking on the LongMemEval dataset shows that Lemmalog outperforms full-context LLM models in knowledge update tasks while requiring significantly less context to maintain state.</p><p><img src="https://velog.velcdn.com/images/with1015/post/0daf460e-4b9c-414c-b661-9cca6054ad58/image.png" /></p><hr/><small>29 Aug 2026, 15:19 UTC | #19532</small>]]></content>
-  </entry>
 </feed>

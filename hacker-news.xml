@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T04:04:00+00:00</updated>
+  <updated>2026-09-03T08:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>CERN Migrates Industrial Accelerator-Control Computers to Debian</title>
+    <link href="https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL" rel="alternate" />
+    <id>https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL::v238</id>
+    <published>2026-09-03T08:29:00+00:00</published>
+    <updated>2026-09-03T08:29:00+00:00</updated>
+    <media:thumbnail url="https://spectra.mhi.com/sites/g/files/jwhtju2216/files/styles/original_image/public/particle-accelerator.jpg?itok=xS5_bOj8" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL">phoronix.com</a> | <a href="https://ch2026.mini.debconf.org/talks/6-controlling-cerns-accelerators-with-debian/">source</a> | <a href="https://lobste.rs/s/fxk56i/cern_transitioning_industrial">discussion</a> | <a href="https://news.ycombinator.com/item?id=49538096">hacker news</a></small></p><hr/><p>The European Organization for Nuclear Research (CERN) is transitioning more than 2,200 industrial accelerator-control computers and embedded systems from Red Hat Enterprise Linux (RHEL) derivatives to Debian Linux. The migration aims to have the systems running Debian 13 by the end of 2026.</p><p>Engineers cited the "-march=x86-64-v2" compiler flag default in RHEL as a primary driver for the move, noting that it causes forced obsolescence for older hardware. While these control systems move to Debian, CERN’s data centers and experimental computing environments will continue to utilize RHEL or AlmaLinux.</p><p><img src="https://spectra.mhi.com/sites/g/files/jwhtju2216/files/styles/original_image/public/particle-accelerator.jpg?itok=xS5_bOj8" /></p><hr/><small>3 Sep 2026, 12:04 UTC | #20018</small>]]></content>
+  </entry>
   <entry>
     <title>The Benefits of Effect Systems in Programming Languages</title>
     <link href="https://osa1.net/posts/2025-06-28-why-effects.html" rel="alternate" />
@@ -965,14 +974,5 @@
     <updated>2026-08-29T14:06:00+00:00</updated>
     <media:thumbnail url="https://ofox.ai/blog/_assets/ru-openai-sdk-migration-hero.BNIr1Nko.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/openai/openai-python/blob/main/httpx2.md">github.com</a> | <a href="https://news.ycombinator.com/item?id=49477212">hacker news</a></small></p><hr/><p>The OpenAI Python SDK has transitioned to using HTTPX2 for its synchronous and asynchronous HTTP clients, and no longer installs the `httpx` package transitively. Developers utilizing custom HTTP clients, transports, or mocking libraries must migrate to HTTPX2-compatible objects to maintain compatibility with the SDK.</p><p>The migration also shifts TLS certificate verification from the `certifi` bundle to the operating system's trust store. This change may impact minimal container images or corporate environments using TLS-inspecting proxies, which may require manual configuration of CA certificates via environment variables.</p><p><img src="https://ofox.ai/blog/_assets/ru-openai-sdk-migration-hero.BNIr1Nko.png" /></p><hr/><small>29 Aug 2026, 17:01 UTC | #19538</small>]]></content>
-  </entry>
-  <entry>
-    <title>Zig Programming Language Devlog Updates</title>
-    <link href="https://ziglang.org/devlog/2026/#2026-08-27" rel="alternate" />
-    <id>https://ziglang.org/devlog/2026/#2026-08-27::v237</id>
-    <published>2026-08-29T11:44:00+00:00</published>
-    <updated>2026-08-29T11:44:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/nqcuC46sXUU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGsCYAC0AWKAgwIABABGGggaChoMA8=&amp;rs=AOn4CLBsFmPVPGe5QtCiz-uk2Uzp5JUOFQ" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ziglang.org/devlog/2026/#2026-08-27">ziglang.org</a> | <a href="https://lobste.rs/s/yqqsgk/pointer_stability_for_arraylists">discussion</a></small></p><hr/><p>Recent changes to the language include the addition of pointer stability for `std.ArrayList` and the relocation of package management subcommands from the compiler to the build system. This architectural shift moves functionality like `zig build` and `zig fetch` into a separate maker process to allow for easier patching and more secure networking.</p><p>Additional updates cover advancements in the SPIR-V backend, including the introduction of the `@SpirvType` builtin and multi-threaded codegen. The LLVM backend has also seen improvements to integer lowering and `@bitCast` semantics to optimize the handling of arbitrary bit-width integer types.</p><p><img src="https://i.ytimg.com/vi/nqcuC46sXUU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGsCYAC0AWKAgwIABABGGggaChoMA8=&rs=AOn4CLBsFmPVPGe5QtCiz-uk2Uzp5JUOFQ" /></p><hr/><small>29 Aug 2026, 15:48 UTC | #19535</small>]]></content>
   </entry>
 </feed>
