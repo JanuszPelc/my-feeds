@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T13:28:00+00:00</updated>
+  <updated>2026-09-03T13:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Federal Courts Reluctant to Impose Structural Remedies Against Big Tech</title>
+    <link href="https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html?unlocked_article_code=1.-VA.FbkK.3Fdfs_606NbJ&amp;smid=bs-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html?unlocked_article_code=1.-VA.FbkK.3Fdfs_606NbJ&amp;smid=bs-share::v238</id>
+    <published>2026-09-03T13:31:00+00:00</published>
+    <updated>2026-09-03T13:31:00+00:00</updated>
+    <media:thumbnail url="https://images.etnownews.com/thumb/msid-153175429,updatedat-1763543071549,width-800,height-450,resizemode-4/153175429.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html?unlocked_article_code=1.-VA.FbkK.3Fdfs_606NbJ&smid=bs-share">nytimes.com</a></small></p><hr/><p>US federal courts have demonstrated a consistent reluctance to mandate structural remedies, such as company breakups, against major technology firms even when finding them liable for antitrust violations. This judicial hesitancy is driven by concerns that significant structural interventions could disrupt markets characterized by rapid technological advancement.</p><p>This pattern is observable in recent antitrust actions against Google involving its search and advertising technologies. While courts have ruled that the company holds illegal monopolies in several sectors, they have often favored behavioral mandates over the more severe option of organizational dissolution to avoid market meddling.</p><p><img src="https://images.etnownews.com/thumb/msid-153175429,updatedat-1763543071549,width-800,height-450,resizemode-4/153175429.jpg" /></p><hr/><small>3 Sep 2026, 17:48 UTC | #20012</small>]]></content>
+  </entry>
   <entry>
     <title>Parents Use Ollie and Cozi Max to Manage Family Schedules and Household Tasks</title>
     <link href="https://www.ft.com/content/6fc3bfad-cb65-483a-b29c-84d494bd15b6" rel="alternate" />
