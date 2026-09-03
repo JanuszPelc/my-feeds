@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T10:58:00+00:00</updated>
+  <updated>2026-09-03T11:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Browser Main Thread Performance Optimization</title>
+    <link href="https://kciter.so/posts/the-expensive-main-thread/en/" rel="alternate" />
+    <id>https://kciter.so/posts/the-expensive-main-thread/en/::v238</id>
+    <published>2026-09-03T11:00:00+00:00</published>
+    <updated>2026-09-03T11:00:00+00:00</updated>
+    <media:thumbnail url="https://scaler.com/topics/images/multhreaded-process.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://kciter.so/posts/the-expensive-main-thread/en/">kciter.so</a> | <a href="https://news.ycombinator.com/item?id=49522137">hacker news</a></small></p><hr/><p>The browser's main thread manages both JavaScript execution and the rendering pipeline, which includes style calculation, layout, and painting. Because the browser operates on a single-threaded event loop, long-running JavaScript tasks can block the thread, preventing it from processing user input or updating the screen and causing visual stutters known as "jank."</p><p>To maintain responsiveness, developers can employ strategies such as splitting long tasks into smaller segments using `setTimeout` or `requestAnimationFrame`, batching frequent events to reduce overhead, and prioritizing or deferring non-essential work. These methods ensure the event loop has enough idle time to handle critical rendering updates and user interactions within the required frame budget.</p><p><img src="https://scaler.com/topics/images/multhreaded-process.webp" /></p><hr/><small>3 Sep 2026, 14:56 UTC | #20033</small>]]></content>
+  </entry>
   <entry>
     <title>Jujutsu Version 0.45.0 Released</title>
     <link href="https://github.com/jj-vcs/jj/releases/tag/v0.45.0" rel="alternate" />
