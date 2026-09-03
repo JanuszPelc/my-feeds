@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-02T21:52:00+00:00</updated>
+  <updated>2026-09-03T06:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Pinzu Releases Pro Versions of SORYNO Mixing Plug-ins</title>
+    <link href="https://www.kvraudio.com/news/pinzu-releases-pro-versions-of-its-four-soryno-mixing-plug-ins-windows-vst3-68349?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68349" rel="alternate" />
+    <id>https://www.kvraudio.com/news/pinzu-releases-pro-versions-of-its-four-soryno-mixing-plug-ins-windows-vst3-68349?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68349::v238</id>
+    <published>2026-09-03T06:29:00+00:00</published>
+    <updated>2026-09-03T06:29:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/soryno-eq-pro.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/pinzu-releases-pro-versions-of-its-four-soryno-mixing-plug-ins-windows-vst3-68349?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68349">kvraudio.com</a> | <a href="https://pinzu.tech/">source</a></small></p><hr/><p>Pinzu has released the Pro versions of its SORYNO mixing suite, comprising an EQ, compressor, limiter, and de-esser for Windows VST3. The free versions of the four plugins remain available, and all eight software editions have been updated to version 1.0.1.</p><p>The Pro editions add advanced features including mid/side processing, external side-chaining, true-peak limiting, and split-band operation. The software requires no license activation, can be used offline, and has no installation limits. The Pro versions are currently priced at 500 JPY, with the price increasing to 1,980 JPY after October 9, 2026.</p><p><img src="https://static.kvraudio.com/i/b/soryno-eq-pro.png" /></p><hr/><small>3 Sep 2026, 11:36 UTC | #20000</small>]]></content>
+  </entry>
   <entry>
     <title>Big Man Labs Releases Bigulator Multiband Clipper/Saturator</title>
     <link href="https://www.kvraudio.com/news/big-man-labs-releases-bigulator-analog-modeled-multiband-clipper-saturator-vst3-au-aax-and-clap-68346?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68346" rel="alternate" />

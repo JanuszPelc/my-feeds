@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T00:20:00+00:00</updated>
+  <updated>2026-09-03T04:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Benefits of Effect Systems in Programming Languages</title>
+    <link href="https://osa1.net/posts/2025-06-28-why-effects.html" rel="alternate" />
+    <id>https://osa1.net/posts/2025-06-28-why-effects.html::v238</id>
+    <published>2026-09-03T04:04:00+00:00</published>
+    <updated>2026-09-03T04:04:00+00:00</updated>
+    <media:thumbnail url="https://cdn.kobo.com/book-images/22f21695-8dd4-42a9-be0d-9a86b310a7b0/1200/1200/False/programming-with-koka-and-algebraic-effects.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://osa1.net/posts/2025-06-28-why-effects.html">osa1.net</a> | <a href="https://lobste.rs/s/abkikp/why_i_m_excited_about_effect_systems_2025">discussion</a></small></p><hr/><p>Effect systems allow programmers to control how functions interact with shared resources, such as file systems, schedulers, and timers. These systems rely on two components: a type system that declares the effects a function performs and a runtime component that uses handlers to capture and manage continuations.</p><p>This architecture enhances library composability and testability by allowing callers to intercept and redefine side effects. For example, a developer can use an in-memory file system or fast-forward time during testing without modifying the library's internal logic. The article uses the Koka programming language to illustrate how these systems can generalize features like async/await and exceptions.</p><p><img src="https://cdn.kobo.com/book-images/22f21695-8dd4-42a9-be0d-9a86b310a7b0/1200/1200/False/programming-with-koka-and-algebraic-effects.jpg" /></p><hr/><small>3 Sep 2026, 11:32 UTC | #20016</small>]]></content>
+  </entry>
   <entry>
     <title>Grail Enables Version Range Queries in Nixpkgs</title>
     <link href="https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges" rel="alternate" />

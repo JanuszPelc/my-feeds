@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T04:02:00+00:00</updated>
+  <updated>2026-09-03T04:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Equinix and Nvidia Partner to Launch AI Inference Exchange</title>
+    <link href="https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html::v238</id>
+    <published>2026-09-03T04:21:00+00:00</published>
+    <updated>2026-09-03T04:21:00+00:00</updated>
+    <media:thumbnail url="https://esgnews.com/wp-content/uploads/2025/11/Equinix-Advances-Nuclear-Powered-Data-Center-Strategy-with-ULC-Energy-Partnership-in-the-Netherlands-1024x771.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/02/equinix-partners-with-nvidia-carves-niche-in-ai-data-center-boom.html">cnbc.com</a> | <a href="https://newsroom.equinix.com/2026-09-02-Equinix-Accelerates-AI-Inference-for-Enterprises-with-NVIDIA-and-Together-AI">source</a></small></p><hr/><p>Equinix and Nvidia have partnered with Together AI to launch the Equinix Inference Exchange, a distributed program designed to facilitate AI inference for global enterprises. Scheduled for availability in the first quarter of 2027, the service allows customers to run over 200 open-source models through Together AI’s platform, utilizing Equinix’s global infrastructure to optimize for deployment speed, flexibility, and cost.</p><p>This initiative targets the growing AI inference market, which is projected to represent up to 40% of total data center demand by 2030. Unlike massive hyperscale facilities used primarily for AI training, Equinix's distributed, urban-based colocation hubs are positioned to support the low-latency, high-speed communication required for real-time AI applications and diverse hardware architectures.</p><p><img src="https://esgnews.com/wp-content/uploads/2025/11/Equinix-Advances-Nuclear-Powered-Data-Center-Strategy-with-ULC-Energy-Partnership-in-the-Netherlands-1024x771.webp" /></p><hr/><small>3 Sep 2026, 11:35 UTC | #19992</small>]]></content>
+  </entry>
   <entry>
     <title>LAUSD Restricts Generative AI Access for Students on District-Issued Devices</title>
     <link href="https://lamag.com/education/lausd-bars-ai-use-in-schools/" rel="alternate" />
