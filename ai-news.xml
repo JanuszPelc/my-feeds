@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-02T20:35:00+00:00</updated>
+  <updated>2026-09-02T20:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Meta Releases Muse Spark 1.3 for Coding and Agentic Tasks</title>
+    <link href="https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues" rel="alternate" />
+    <id>https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues::v238</id>
+    <published>2026-09-02T20:36:00+00:00</published>
+    <updated>2026-09-02T20:36:00+00:00</updated>
+    <media:thumbnail url="https://ihal.it/wp-content/uploads/2026/04/Meta-Muse-Spark-AI.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues">axios.com</a> | <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">source</a> | <a href="https://news.ycombinator.com/item?id=49541149">hacker news</a></small></p><hr/><p>Meta has released Muse Spark 1.3, an update designed to enhance performance in coding and agentic tasks. The model is available through Muse Code and the Meta Model API at the same price as the previous Spark 1.2 version.</p><p>This update follows Meta's entry into the AI coding agent market with the launch of Muse Code and Spark 1.2. The new iteration aims to provide better reasoning and practical utility for complex, long-running, or multi-agent workflows.</p><p><img src="https://ihal.it/wp-content/uploads/2026/04/Meta-Muse-Spark-AI.jpg" /></p><hr/><small>3 Sep 2026, 02:32 UTC | #19957</small>]]></content>
+  </entry>
   <entry>
     <title>AI Models Show Unreliable Accuracy in Mushroom Identification Experiments</title>
     <link href="https://www.theregister.com/offbeat/2026/09/02/ai-assisted-mushroom-hunting-is-a-recipe-for-a-bad-trip/5294060" rel="alternate" />

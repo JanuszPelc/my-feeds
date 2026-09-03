@@ -975,13 +975,4 @@
     <media:thumbnail url="https://media.ixbt.com/ixbt-data/1294832/media-4r0cpb5t9edtiwy5jakwn5ma.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/chinas-cxmt-supply-memory-chip-xiaomis-upcoming-folding-phone-2026-08-29/">reuters.com</a></small></p><hr/><p>Xiaomi and CXMT have announced that the upcoming Xiaomi 18 Fold smartphone will feature CXMT's LPDDR6 DRAM chips alongside Xiaomi's in-house 3nm Xring O3 SoC. The device is scheduled to launch in September.</p><p>This deployment marks a milestone for ChangXin Memory Technologies as it brings its LPDDR6 memory standard to the flagship smartphone market. The integration of these components underscores Xiaomi's increasing emphasis on vertical integration through its own proprietary semiconductor technology.</p><p><img src="https://media.ixbt.com/ixbt-data/1294832/media-4r0cpb5t9edtiwy5jakwn5ma.png" /></p><hr/><small>29 Aug 2026, 12:47 UTC | #19502</small>]]></content>
   </entry>
-  <entry>
-    <title>vphone-cli Enables Virtual iPhone Booting on Apple Silicon Macs</title>
-    <link href="https://github.com/Lakr233/vphone-cli" rel="alternate" />
-    <id>https://github.com/Lakr233/vphone-cli::v237</id>
-    <published>2026-08-29T02:23:00+00:00</published>
-    <updated>2026-08-29T02:23:00+00:00</updated>
-    <media:thumbnail url="https://github.com/Lakr233/vphone-cli/raw/main/docs/demo.jpeg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/Lakr233/vphone-cli">github.com</a> | <a href="https://news.ycombinator.com/item?id=49485267">hacker news</a></small></p><hr/><p>This command-line utility enables the booting of virtual iPhones on Apple Silicon Macs by leveraging Apple's Virtualization.framework. It automates the full process of downloading IPSW files, patching the boot chain, performing DFU restores, and installing custom firmware to create a functional iOS instance.</p><p>The software includes several firmware variants, ranging from standard security configurations to full jailbreak environments and experimental anti-detection patches. It also provides a host control socket for programmatic interaction, such as screenshots and touch emulation, to facilitate automated testing.</p><p><img src="https://github.com/Lakr233/vphone-cli/raw/main/docs/demo.jpeg" /></p><hr/><small>29 Aug 2026, 09:01 UTC | #19508</small>]]></content>
-  </entry>
 </feed>
