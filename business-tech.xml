@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T08:30:00+00:00</updated>
+  <updated>2026-09-03T08:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Taiwan Investigates 166 Chinese-Linked Tech Companies for Alleged Illegal Operations</title>
+    <link href="https://restofworld.org/2026/taiwan-china-chip-investigations/" rel="alternate" />
+    <id>https://restofworld.org/2026/taiwan-china-chip-investigations/::v238</id>
+    <published>2026-09-03T08:31:00+00:00</published>
+    <updated>2026-09-03T08:31:00+00:00</updated>
+    <media:thumbnail url="https://fastly.restofworld.org/uploads/2026/08/handout-taiwan_spies_P02-230730-004.jpg?width=800&amp;dpr=2&amp;crop=16:9" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://restofworld.org/2026/taiwan-china-chip-investigations/">restofworld.org</a> | <a href="https://news.ycombinator.com/item?id=49534488">hacker news</a></small></p><hr/><p>Taiwan’s Ministry of Justice Investigation Bureau (MJIB) has investigated 166 cases of companies allegedly using shell corporations and non-Chinese nationals to conceal Chinese ownership. These investigations have focused heavily on the semiconductor and AI-chip sectors, involving dozens of probes into trade-secret theft and unauthorized business operations intended to bypass Cross-Strait regulations.</p><p>The crackdown is part of a larger effort to protect Taiwan’s semiconductor industry—often referred to as the "silicon shield"—from Chinese talent poaching and intellectual property theft. These measures reflect growing regional concerns over Beijing's efforts to achieve semiconductor self-reliance through indirect technological acquisition and unauthorized R&amp;D operations.</p><p><img src="https://fastly.restofworld.org/uploads/2026/08/handout-taiwan_spies_P02-230730-004.jpg?width=800&dpr=2&crop=16:9" /></p><hr/><small>3 Sep 2026, 12:36 UTC | #19997</small>]]></content>
+  </entry>
   <entry>
     <title>Uber Aligns With Driver Unions to Slow U.S. Robotaxi Rollout</title>
     <link href="https://www.ft.com/content/84171f91-5f39-4878-bbc5-e4e6262c4321" rel="alternate" />
