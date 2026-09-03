@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T03:21:00+00:00</updated>
+  <updated>2026-09-03T04:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>LAUSD Restricts Generative AI Access for Students on District-Issued Devices</title>
+    <link href="https://lamag.com/education/lausd-bars-ai-use-in-schools/" rel="alternate" />
+    <id>https://lamag.com/education/lausd-bars-ai-use-in-schools/::v238</id>
+    <published>2026-09-03T04:02:00+00:00</published>
+    <updated>2026-09-03T04:02:00+00:00</updated>
+    <media:thumbnail url="https://core-docs.s3.amazonaws.com/duval_county_public_schools_ar/article/image/large_d9a2391d-9d34-4807-8990-560848a51992.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://lamag.com/education/lausd-bars-ai-use-in-schools/">lamag.com</a></small></p><hr/><p>LA Unified School District has blocked generative artificial intelligence tools on laptops and tablets issued to approximately 378,000 students. While students are restricted on district-issued devices, teachers remain permitted to use AI on their hardware.</p><p>The restriction acts as a moratorium while a district committee evaluates the role of AI in classrooms. The policy comes amid discussions on digital citizenship and parental demands for stricter classroom controls.</p><p><img src="https://core-docs.s3.amazonaws.com/duval_county_public_schools_ar/article/image/large_d9a2391d-9d34-4807-8990-560848a51992.jpeg" /></p><hr/><small>3 Sep 2026, 11:13 UTC | #19990</small>]]></content>
+  </entry>
   <entry>
     <title>South Korea Semiconductor Exports Surge 209% in August</title>
     <link href="https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html" rel="alternate" />
