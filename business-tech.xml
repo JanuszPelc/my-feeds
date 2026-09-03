@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Palo Alto Networks Acquires AI Startup Console</title>
+    <link href="https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/::v238</id>
+    <published>2026-09-02T22:45:00+00:00</published>
+    <updated>2026-09-02T22:45:00+00:00</updated>
+    <media:thumbnail url="https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/dqc/media/media_files/2026/06/03/palo-alto-networks-completes-acquisition-1-2026-06-03-03-54-06.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/">techcrunch.com</a> | <a href="https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquires-console-agentify-security">source</a></small></p><hr/><p>Palo Alto Networks has announced the acquisition of Console, a startup that uses AI agents to automate routine IT and security tasks. The acquisition aims to integrate Console's technology into the Cortex platform, enabling security teams to investigate and resolve alerts through natural language prompts.</p><p>Founded in 2024 by Andrei Serban, Console has raised $29 million from investors including Thrive Capital and DST Global. The deal, which sources report is valued at $500 million, marks Palo Alto Networks' seventh acquisition in 2026 as the company expands its autonomous security and agentic AI capabilities.</p><p><img src="https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/dqc/media/media_files/2026/06/03/palo-alto-networks-completes-acquisition-1-2026-06-03-03-54-06.jpg" /></p><hr/><small>3 Sep 2026, 04:02 UTC | #19976</small>]]></content>
+  </entry>
+  <entry>
     <title>OpenAI Developing Automated Shutdown Capabilities for AI Systems</title>
     <link href="https://www.reuters.com/legal/litigation/openai-is-building-automated-shutdown-capabilities-ai-tools-letter-lawmakers-2026-09-02/" rel="alternate" />
     <id>https://www.reuters.com/legal/litigation/openai-is-building-automated-shutdown-capabilities-ai-tools-letter-lawmakers-2026-09-02/::v238</id>
