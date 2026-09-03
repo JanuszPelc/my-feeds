@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T08:41:00+00:00</updated>
+  <updated>2026-09-03T10:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Jujutsu Version 0.45.0 Released</title>
+    <link href="https://github.com/jj-vcs/jj/releases/tag/v0.45.0" rel="alternate" />
+    <id>https://github.com/jj-vcs/jj/releases/tag/v0.45.0::v238</id>
+    <published>2026-09-03T10:58:00+00:00</published>
+    <updated>2026-09-03T10:58:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/jj-vcs/jj/releases/tag/v0.45.0">github.com</a> | <a href="https://lobste.rs/s/zudpcb/jujutsu_0_45_0">discussion</a></small></p><hr/><p>Jujutsu (jj) has released version 0.45.0, introducing the `jj converge` command to automatically resolve divergent commits through heuristics or user prompting. The update also improves `jj bisect` by notifying users when evaluation skips prevent the unambiguous identification of the first bad revision.</p><p>This release implements per-worktree tracking for the Git HEAD state to facilitate future support for multiple Git worktrees in colocated repositories. Additional changes include the introduction of a `--file` option for precise configuration management, alongside several bug fixes addressing `jj log` crashes, duplicate entries in Git indexes for colocated workspaces, and improved terminal handling for the default pager.</p><hr/><small>3 Sep 2026, 14:39 UTC | #20031</small>]]></content>
+  </entry>
   <entry>
     <title>Emacs 31 Includes Newcomers-Presets Theme</title>
     <link href="https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/" rel="alternate" />
