@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-02T18:22:00+00:00</updated>
+  <updated>2026-09-02T23:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Binghamton University Study Finds Aging Brains Blend Memories Through Category-Level Misbinding</title>
+    <link href="https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/" rel="alternate" />
+    <id>https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/::v238</id>
+    <published>2026-09-02T23:04:00+00:00</published>
+    <updated>2026-09-02T23:04:00+00:00</updated>
+    <media:thumbnail url="https://studyfinds.com/wp-content/uploads/2025/02/Aging-brain-1200x800.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/">studyfinds.com</a> | <a href="https://academic.oup.com/cercor/article/36/7/bhag114/8758582">source</a> | <a href="https://news.ycombinator.com/item?id=49535548">hacker news</a></small></p><hr/><p>Aging brains may undergo "category-level misbinding," a process where the brain retrieves information too broadly and confuses different categories of items, such as objects and scenes, instead of simply forgetting them. Using MRI scans, researchers found that hippocampal activity in older adults lacks the precise overlap between learning and recall patterns seen in younger adults, instead predicting these specific types of errors.</p><p>This phenomenon suggests that aging affects the precision of memory reactivation rather than just the strength of the memory trace. The study noted that this shift is not fully explained by hippocampal shrinkage or declines in attention, indicating a potential fundamental change in the brain's ability to keep similar episodic memories distinct.</p><p><img src="https://studyfinds.com/wp-content/uploads/2025/02/Aging-brain-1200x800.jpeg" /></p><hr/><small>3 Sep 2026, 04:34 UTC | #19991</small>]]></content>
+  </entry>
   <entry>
     <title>Living Without a Smartphone in an Increasingly App-Dependent Society</title>
     <link href="https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html" rel="alternate" />
