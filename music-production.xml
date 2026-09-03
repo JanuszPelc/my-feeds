@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-03T15:18:00+00:00</updated>
+  <updated>2026-09-03T18:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Lewitt Releases Space Replicator Free Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/09/03/lewitt-space-replicator-free/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/03/lewitt-space-replicator-free/::v238</id>
+    <published>2026-09-03T18:50:00+00:00</published>
+    <updated>2026-09-03T18:50:00+00:00</updated>
+    <media:thumbnail url="https://r2.gear4music.com/media/128/1283787/1200/preview.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/03/lewitt-space-replicator-free/">bedroomproducersblog.com</a> | <a href="https://www.lewitt-audio.com/space-replicator-free">source</a> | <a href="https://bedroomproducersblog.com/2026/09/03/lewitt-space-replicator-free/#respond">discussion</a></small></p><hr/><p>This free VST plugin for mixing and mastering provides headphone calibration to simulate various acoustic environments. Users can hear their audio as if it were playing in a high-end studio or a living room, even when using consumer in-ear monitors.</p><p>The software includes calibration profiles for over 800 headphone models and provides the core features found in Lewitt's paid version. It is designed to ensure accurate monitoring across different playback devices.</p><p><img src="https://r2.gear4music.com/media/128/1283787/1200/preview.jpg" /></p><hr/><small>3 Sep 2026, 20:53 UTC | #20046</small>]]></content>
+  </entry>
   <entry>
     <title>RIPPLES Releases Pulse Rhythmic Volume Shaper</title>
     <link href="https://www.kvraudio.com/news/ripples-releases-pulse---free-rhythmic-volume-shaper-for-macos-and-windows-68358?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68358" rel="alternate" />
