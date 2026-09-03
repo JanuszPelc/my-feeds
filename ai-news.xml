@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-02T20:38:00+00:00</updated>
+  <updated>2026-09-02T22:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>TechCrunch Disrupt 2026 Announces New Real World AI Stage</title>
+    <link href="https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/::v238</id>
+    <published>2026-09-02T22:25:00+00:00</published>
+    <updated>2026-09-02T22:25:00+00:00</updated>
+    <media:thumbnail url="https://img.xix.ai/uploads/61/69a1b6398b786.webp" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/">techcrunch.com</a></small></p><hr/><p>A new "Real World AI Stage" will be added to TechCrunch Disrupt 2026 to explore the convergence of digital intelligence and physical systems. Programming for the stage includes sessions on robotic data gaps, safety protocols for autonomous deployment, the application of AI in de-extinction, edge computing in disconnected environments, and the challenges of scaling hardware from prototypes to production.</p><p>The stage features speakers from Nvidia, Shield AI, Colossal Biosciences, FieldAI, and Foxglove. The event is scheduled for October 13–15 at San Francisco’s Moscone West and will include additional specialized stages for smart systems, fintech, and business scaling.</p><p><img src="https://img.xix.ai/uploads/61/69a1b6398b786.webp" /></p><hr/><small>3 Sep 2026, 03:46 UTC | #19977</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Releases Muse Spark 1.3 and Teases Watermelon Model</title>
     <link href="https://x.com/finkd/status/2095232032896946311" rel="alternate" />
