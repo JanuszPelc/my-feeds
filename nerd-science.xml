@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-02T23:04:00+00:00</updated>
+  <updated>2026-09-02T23:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>The Risks of Prioritizing Isolated Training Over Real-World Feedback</title>
+    <link href="https://turtlespace.blog/p/exit-the-cave" rel="alternate" />
+    <id>https://turtlespace.blog/p/exit-the-cave::v238</id>
+    <published>2026-09-02T23:06:00+00:00</published>
+    <updated>2026-09-02T23:06:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!lnWU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15cf15db-4b03-49ec-9074-5e0e31fb6b1a_1134x851.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://turtlespace.blog/p/exit-the-cave">turtlespace.blog</a> | <a href="https://news.ycombinator.com/item?id=49536606">hacker news</a></small></p><hr/><p>Excessive focus on isolated, private training—often called "the grind"—can lead to a state of delusion where effort is mistaken for progress. Using wrestling as a metaphor, the essay suggests that staying within a self-curated "cave" allows individuals to avoid the discomfort of real-world failure and the necessity of external validation.</p><p>Modern technology, including AI and recommendation algorithms, reinforces these bubbles by curating environments that bolster existing assumptions. Achieving success in fields such as writing, entrepreneurship, or athletics requires the vulnerability of public engagement and the risk of being challenged by reality.</p><p><img src="https://substackcdn.com/image/fetch/$s_!lnWU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15cf15db-4b03-49ec-9074-5e0e31fb6b1a_1134x851.png" /></p><hr/><small>3 Sep 2026, 04:49 UTC | #19993</small>]]></content>
+  </entry>
   <entry>
     <title>Binghamton University Study Finds Aging Brains Blend Memories Through Category-Level Misbinding</title>
     <link href="https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/" rel="alternate" />
