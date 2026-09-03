@@ -3,9 +3,45 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T13:31:00+00:00</updated>
+  <updated>2026-09-03T15:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>DHH's Political Stance and the Tension in the Ruby Community</title>
+    <link href="https://codeandcake.dev/posts/2026-09-03-what-do-you-do" rel="alternate" />
+    <id>https://codeandcake.dev/posts/2026-09-03-what-do-you-do::v238</id>
+    <published>2026-09-03T15:11:00+00:00</published>
+    <updated>2026-09-03T15:11:00+00:00</updated>
+    <media:thumbnail url="https://media3.locals.com/images/video/2025-09-26/102127/102127_s1nx8ys1sn2daod_full.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codeandcake.dev/posts/2026-09-03-what-do-you-do">codeandcake.dev</a> | <a href="https://lobste.rs/s/r4dvbq/what_do_you_do_when_your_favorite">discussion</a></small></p><hr/><p>Controversial political statements by David Heinemeier Hansson (DHH) have caused significant tension within the Ruby programming ecosystem. This conflict presents a dilemma for developers who must choose between using the Rails framework—which DHH owns and leads—and supporting his social and political stances, prompting discussions about forking the project or adopting alternatives like Hanami or Gleam.</p><p>A major hurdle for those seeking to leave the Rails ecosystem is the lack of a mainstream, feature-equivalent alternative. While forking the project is a recurring topic of discussion among community members, a viable, large-scale replacement for the framework does not currently exist.</p><p><img src="https://media3.locals.com/images/video/2025-09-26/102127/102127_s1nx8ys1sn2daod_full.jpeg" /></p><hr/><small>3 Sep 2026, 18:22 UTC | #20041</small>]]></content>
+  </entry>
+  <entry>
+    <title>ICANN Approves Termination of .name Third-Level Domains</title>
+    <link href="https://neil.fraser.name/news/2026/09/03/" rel="alternate" />
+    <id>https://neil.fraser.name/news/2026/09/03/::v238</id>
+    <published>2026-09-03T14:56:00+00:00</published>
+    <updated>2026-09-03T14:56:00+00:00</updated>
+    <media:thumbnail url="https://www.icann.org/sites/default/files/assets/domain-name-registration-process-1920x1080-02nov23-en.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://neil.fraser.name/news/2026/09/03/">neil.fraser.name</a> | <a href="https://itp.cdn.icann.org/en/files/consensus-policies/fessenden-to-kane-2-28-07-2026-en.pdf">source</a> | <a href="https://lobste.rs/s/6tsncg/name_termination">discussion</a> | <a href="https://news.ycombinator.com/item?id=49550772">hacker news</a></small></p><hr/><p>Verisign's proposal to eliminate the third-level hierarchy of the '.name' top-level domain has received approval from ICANN. This administrative change will remove all domains following the `xxx.yyy.name` structure.</p><p>The decision affects approximately 22,000 registrants, leading to the loss of personal websites, email addresses, and IoT service connectivity. Additionally, the vacancy of second-level domains creates security risks, as new registrants could potentially hijack accounts and services previously linked to the now-defunct subdomains.</p><p><img src="https://www.icann.org/sites/default/files/assets/domain-name-registration-process-1920x1080-02nov23-en.jpg" /></p><hr/><small>3 Sep 2026, 18:19 UTC | #20040</small>]]></content>
+  </entry>
+  <entry>
+    <title>Trump Administration Imposes Tariffs on Foreign Drones</title>
+    <link href="https://www.nytimes.com/2026/09/03/business/trump-drone-tariffs.html?unlocked_article_code=1.-VA.GFv8.A1c7PHAVLznE&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/03/business/trump-drone-tariffs.html?unlocked_article_code=1.-VA.GFv8.A1c7PHAVLznE&amp;smid=url-share::v238</id>
+    <published>2026-09-03T13:38:00+00:00</published>
+    <updated>2026-09-03T13:38:00+00:00</updated>
+    <media:thumbnail url="https://www.debevoise.com/-/media/images/section-232-investigations-and-tariffs.jpg?h=435&amp;w=750&amp;rev=2671861f471f43f3ad7927c912c5a600&amp;hash=5A25A7837F4B2AA69ABC1161A1DCAD16" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/03/business/trump-drone-tariffs.html?unlocked_article_code=1.-VA.GFv8.A1c7PHAVLznE&smid=url-share">nytimes.com</a> | <a href="https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/">source</a></small></p><hr/><p>The Trump administration has imposed tariffs of up to 100% on foreign drones and components, with the highest rates targeting models weighing over 55 pounds or those equipped with thermal imaging. The measures are intended to mitigate Chinese influence within the unmanned aerial systems market.</p><p>Alongside these tariffs, the Federal Communications Commission (FCC) is evaluating potential restrictions on technologies such as aerosol spraying and thermal imaging. These actions follow a Section 232 investigation into the national security implications of drone imports into the United States.</p><p><img src="https://www.debevoise.com/-/media/images/section-232-investigations-and-tariffs.jpg?h=435&w=750&rev=2671861f471f43f3ad7927c912c5a600&hash=5A25A7837F4B2AA69ABC1161A1DCAD16" /></p><hr/><small>3 Sep 2026, 18:16 UTC | #20015</small>]]></content>
+  </entry>
+  <entry>
+    <title>Anil Dash Critiques the Rise of "Cancer Capital" in Venture Capital</title>
+    <link href="https://anildash.com/2026/09/02/cancer-capital/" rel="alternate" />
+    <id>https://anildash.com/2026/09/02/cancer-capital/::v238</id>
+    <published>2026-09-03T13:37:00+00:00</published>
+    <updated>2026-09-03T13:37:00+00:00</updated>
+    <media:thumbnail url="https://m.media-amazon.com/images/I/61hXiiTm6cL._SL1500_.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://anildash.com/2026/09/02/cancer-capital/">anildash.com</a> | <a href="https://news.ycombinator.com/item?id=49552055">hacker news</a></small></p><hr/><p>The venture capital industry has shifted from a high-risk funding mechanism into a concentrated form of "cancer capital" that functions as a political and social oligarchy. This transformation allows a few massive, multi-billion dollar funds to advance specific political agendas while remaining largely unaccountable to market risks or regulatory oversight.</p><p>The phenomenon is driven by firms restructuring to prioritize immediate returns through secondary sales and political influence campaigns. These large-scale players increasingly use their capital to sway public policy, particularly in the technology and AI sectors, while simultaneously shifting potential risks onto public pension and retirement accounts.</p><p><img src="https://m.media-amazon.com/images/I/61hXiiTm6cL._SL1500_.jpg" /></p><hr/><small>3 Sep 2026, 18:13 UTC | #20013</small>]]></content>
+  </entry>
   <entry>
     <title>US Federal Courts Reluctant to Impose Structural Remedies Against Big Tech</title>
     <link href="https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html?unlocked_article_code=1.-VA.FbkK.3Fdfs_606NbJ&amp;smid=bs-share" rel="alternate" />
