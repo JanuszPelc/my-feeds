@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-02T19:01:00+00:00</updated>
+  <updated>2026-09-02T21:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Big Man Labs Releases Bigulator Multiband Clipper/Saturator</title>
+    <link href="https://www.kvraudio.com/news/big-man-labs-releases-bigulator-analog-modeled-multiband-clipper-saturator-vst3-au-aax-and-clap-68346?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68346" rel="alternate" />
+    <id>https://www.kvraudio.com/news/big-man-labs-releases-bigulator-analog-modeled-multiband-clipper-saturator-vst3-au-aax-and-clap-68346?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68346::v238</id>
+    <published>2026-09-02T21:52:00+00:00</published>
+    <updated>2026-09-02T21:52:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/bigulator.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/big-man-labs-releases-bigulator-analog-modeled-multiband-clipper-saturator-vst3-au-aax-and-clap-68346?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68346">kvraudio.com</a> | <a href="https://www.bigman-labs.com/products/bigulator/">source</a></small></p><hr/><p>Big Man Labs has released Bigulator, a multiband clipper and saturator based on a circuit-level model of an obscure analog mastering clipper. The plugin emulates a VCA driven at audio rate by a peak-skimming rectifier, utilizing the waveform shape for clipping rather than a detector.</p><p>Bigulator features one to three bands with minimum or linear phase crossovers, per-band ratio and asymmetry controls, and a digital sum clipper with four voicings. The plugin supports 16x oversampling and is available for Windows, macOS, and Linux in VST3, AU, AAX, and CLAP formats.</p><p><img src="https://static.kvraudio.com/i/b/bigulator.webp" /></p><hr/><small>3 Sep 2026, 03:00 UTC | #19972</small>]]></content>
+  </entry>
+  <entry>
+    <title>Mutagene Releases Xoradora Drum Machine Open Beta</title>
+    <link href="https://www.kvraudio.com/news/mutagene-releases-xoradora-drum-machine-as-open-beta-vst3-au-and-clap-68347?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68347" rel="alternate" />
+    <id>https://www.kvraudio.com/news/mutagene-releases-xoradora-drum-machine-as-open-beta-vst3-au-and-clap-68347?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68347::v238</id>
+    <published>2026-09-02T21:49:00+00:00</published>
+    <updated>2026-09-02T21:49:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/xoradora-main.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/mutagene-releases-xoradora-drum-machine-as-open-beta-vst3-au-and-clap-68347?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68347">kvraudio.com</a> | <a href="https://dsp.mutagene.net/plugins/xoradora/">source</a></small></p><hr/><p>Mutagene has released the open beta of Xoradora, a resynthesizing drum machine that uses seven parametric models to analyze and resynthesize samples. The plugin provides high timbral flexibility, allowing users to achieve effects ranging from subtle variations to extreme spectral shifts through its warped lattice architecture.</p><p>Xoradora is available for macOS and Windows in VST3, AU, and CLAP formats. During the open beta period, the plugin is priced at $49 or 44€.</p><p><img src="https://static.kvraudio.com/i/b/xoradora-main.jpg" /></p><hr/><small>3 Sep 2026, 02:59 UTC | #19973</small>]]></content>
+  </entry>
   <entry>
     <title>rncbc.org Updates Qtractor and Vee One Suite for Linux</title>
     <link href="https://www.kvraudio.com/news/rncbc-org-updates-qtractor-to-v1-6-3-and-vee-one-suite-to-v1-4-3-for-linux-68336?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68336" rel="alternate" />
