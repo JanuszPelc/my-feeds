@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T15:19:00+00:00</updated>
+  <updated>2026-09-03T15:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>New York Times and The Athletic Workers Demand Scrap Kalshi Deal</title>
+    <link href="https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/" rel="alternate" />
+    <id>https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/::v238</id>
+    <published>2026-09-03T15:29:00+00:00</published>
+    <updated>2026-09-03T15:29:00+00:00</updated>
+    <media:thumbnail url="https://newsguild.org/wp-content/uploads/2026/09/NYT-rally.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/">newsguild.org</a> | <a href="https://news.ycombinator.com/item?id=49549919">hacker news</a></small></p><hr/><p>Unionized workers at The New York Times and The Athletic have issued a unanimous demand for management to scrap a potential partnership with Kalshi, a prediction market company. The union argues that the deal would compromise journalistic independence and undermine public trust in the publications' reporting.</p><p>The workers' opposition stems from concerns that Kalshi's prediction market data, which lacks traditional journalistic accountability, might be integrated into news coverage. Furthermore, the union cited legal challenges against Kalshi, noting that New York officials have previously described the platform as an unlicensed gambling operation.</p><p><img src="https://newsguild.org/wp-content/uploads/2026/09/NYT-rally.png" /></p><hr/><small>3 Sep 2026, 19:43 UTC | #20068</small>]]></content>
+  </entry>
   <entry>
     <title>De Nederlandsche Bank Relocates €10 Billion in Gold from North America to London</title>
     <link href="https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability" rel="alternate" />

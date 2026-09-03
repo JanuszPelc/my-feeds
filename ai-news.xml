@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-03T01:38:00+00:00</updated>
+  <updated>2026-09-03T15:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>ChatGPT, Claude, and Grok Experience Simultaneous Outage</title>
+    <link href="https://news.ycombinator.com/item?id=49551096" rel="alternate" />
+    <id>https://news.ycombinator.com/item?id=49551096::v238</id>
+    <published>2026-09-03T15:28:00+00:00</published>
+    <updated>2026-09-03T15:28:00+00:00</updated>
+    <media:thumbnail url="https://indianexpress.com/wp-content/uploads/2026/06/Anthropic_d575c7.jpg?resize=1536" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49551096">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49551096">hacker news</a></small></p><hr/><p>Leading artificial intelligence platforms, including OpenAI's ChatGPT, Anthropic's Claude, and xAI's Grok, experienced widespread service disruptions on September 3, 2026. Users reported difficulties accessing chat models and APIs via web and mobile interfaces.</p><p>The simultaneous nature of the outages sparked discussions regarding the centralization of internet infrastructure and the risks posed by single points of failure in common service providers. The event underscores the growing systemic dependence on a limited number of AI services.</p><p><img src="https://indianexpress.com/wp-content/uploads/2026/06/Anthropic_d575c7.jpg?resize=1536" /></p><hr/><small>3 Sep 2026, 19:40 UTC | #20067</small>]]></content>
+  </entry>
   <entry>
     <title>PhiloLabs Showcases AI Agent-Generated 3D Reconstructions of Real Locations</title>
     <link href="https://github.com/PhiloLabs/fable51-worlds" rel="alternate" />

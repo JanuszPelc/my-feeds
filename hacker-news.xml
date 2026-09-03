@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T15:21:00+00:00</updated>
+  <updated>2026-09-03T15:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>TrendForce Predicts 400% Increase in iPhone 18 Pro Memory Costs</title>
+    <link href="https://9to5mac.com/2026/09/03/apple-paying-400-more-for-iphone-18-pro-memory-says-trendforce/" rel="alternate" />
+    <id>https://9to5mac.com/2026/09/03/apple-paying-400-more-for-iphone-18-pro-memory-says-trendforce/::v238</id>
+    <published>2026-09-03T15:27:00+00:00</published>
+    <updated>2026-09-03T15:27:00+00:00</updated>
+    <media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&amp;strip=all&amp;w=1600" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5mac.com/2026/09/03/apple-paying-400-more-for-iphone-18-pro-memory-says-trendforce/">9to5mac.com</a> | <a href="https://www.trendforce.com/presscenter/news/20260903-13213.html">source</a></small></p><hr/><p>TrendForce reports that Apple's memory costs for the 256GB iPhone 18 Pro model are expected to increase nearly 400% in the third quarter of 2026 compared to the previous year. This surge in component pricing is projected to significantly impact the device's overall bill of materials, potentially leading to retail price increases of approximately $100.</p><p>While Apple may attempt to offset manufacturing costs through Services revenue, analysts suggest that retail hikes may be unavoidable due to cautious consumer spending in a weak macroeconomic environment. Additionally, reports suggest Apple's upcoming folding model, the iPhone Ultra, could feature starting prices as high as $2,299.</p><p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600" /></p><hr/><small>3 Sep 2026, 19:34 UTC | #20022</small>]]></content>
+  </entry>
   <entry>
     <title>HTML Viewport Meta Tags No Longer Require Initial-Scale</title>
     <link href="https://vale.rocks/micros/20260902-1350" rel="alternate" />
