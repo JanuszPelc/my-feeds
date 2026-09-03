@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-03T11:03:00+00:00</updated>
+  <updated>2026-09-03T15:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Gamecity Hamburg Launches Second Round of Prototype Funding</title>
+    <link href="https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding::v238</id>
+    <published>2026-09-03T15:31:00+00:00</published>
+    <updated>2026-09-03T15:31:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltac6f5d61788b290d/6a9989d707331db7d8c77479/Gamecity_Fund.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding">gamedeveloper.com</a> | <a href="https://gamecity-hamburg.de/news/prototype-funding-second-funding-round-2026-in-september-2026/">source</a></small></p><hr/><p>Gamecity Hamburg has opened its second round of prototype funding for 2026, providing up to €80,000 in non-repayable grants to help developers create marketable video game prototypes. The funding is intended to assist studios in securing publisher deals, launching crowdfunding campaigns, or transitioning to early access.</p><p>The initiative is restricted to developers and SMEs based in or relocating to Hamburg. Applicants must have a playable prototype demonstrating core mechanics and must disclose any use of generative AI.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltac6f5d61788b290d/6a9989d707331db7d8c77479/Gamecity_Fund.png?width=720&quality=80&disable=upscale" /></p><hr/><small>3 Sep 2026, 19:59 UTC | #20038</small>]]></content>
+  </entry>
   <entry>
     <title>CD Projekt Red to Continue Physical Releases</title>
     <link href="https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases" rel="alternate" />

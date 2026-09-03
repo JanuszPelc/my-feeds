@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T15:27:00+00:00</updated>
+  <updated>2026-09-03T15:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Comparing the Scaling Complexity of CTTI and RTTI</title>
+    <link href="https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/" rel="alternate" />
+    <id>https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/::v238</id>
+    <published>2026-09-03T15:32:00+00:00</published>
+    <updated>2026-09-03T15:32:00+00:00</updated>
+    <media:thumbnail url="https://website-assets.studocu.com/img/document_thumbnails/2e4131a9fbf6d305e6d268f23128f567/thumb_1200_1553.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/">gingerbill.org</a> | <a href="https://lobste.rs/s/mj9qti/ctti_is_exponential_rtti_is_linear">discussion</a> | <a href="https://news.ycombinator.com/item?id=49546528">hacker news</a></small></p><hr/><p>Compile-Time Type Information (CTTI) incurs exponential costs in semantic checking, code generation, and binary size due to the combinatorial explosion of type instantiations. In contrast, Runtime Type Information (RTTI) scales linearly with the number of types and maintains constant code size for handling procedures, providing a predictable and measurable cost.</p><p>The author argues that the "zero-cost" label for CTTI is misleading, as it hides significant build-time inflation and binary bloat. By utilizing RTTI, as in the Odin programming language, designers can adopt a data-driven approach that maintains coherency across library boundaries and avoids the complexity associated with massive monomorphized codebases.</p><p><img src="https://website-assets.studocu.com/img/document_thumbnails/2e4131a9fbf6d305e6d268f23128f567/thumb_1200_1553.png" /></p><hr/><small>3 Sep 2026, 20:03 UTC | #20072</small>]]></content>
+  </entry>
   <entry>
     <title>TrendForce Predicts 400% Increase in iPhone 18 Pro Memory Costs</title>
     <link href="https://9to5mac.com/2026/09/03/apple-paying-400-more-for-iphone-18-pro-memory-says-trendforce/" rel="alternate" />
