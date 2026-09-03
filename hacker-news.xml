@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T08:29:00+00:00</updated>
+  <updated>2026-09-03T08:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Polars Releases 2.0 Release Candidate</title>
+    <link href="https://pola.rs/posts/announcing-polars-2/" rel="alternate" />
+    <id>https://pola.rs/posts/announcing-polars-2/::v238</id>
+    <published>2026-09-03T08:33:00+00:00</published>
+    <updated>2026-09-03T08:33:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*UZTg55tnEfa4tyGsfvn3eg.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pola.rs/posts/announcing-polars-2/">pola.rs</a> | <a href="https://news.ycombinator.com/item?id=49546753">hacker news</a></small></p><hr/><p>Polars has released the first release candidate for version 2.0, which establishes the streaming engine as the default for `LazyFrame` queries. This shift is expected to enhance performance and memory efficiency for most queries but introduces breaking changes, specifically the loss of default row-order guarantees for certain operations such as `join` and `group_by`.</p><p>The update implements stricter data-handling rules to prevent silent errors, including more rigorous type coercion in `is_in` operations and mandatory length checks for horizontal concatenation. Additionally, new exception types have been added to provide more informative error messages for removed attributes and arguments, aiding developers and AI agents in migrating to the updated API.</p><p><img src="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*UZTg55tnEfa4tyGsfvn3eg.png" /></p><hr/><small>3 Sep 2026, 12:52 UTC | #20023</small>]]></content>
+  </entry>
   <entry>
     <title>CERN Migrates Industrial Accelerator-Control Computers to Debian</title>
     <link href="https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL" rel="alternate" />
