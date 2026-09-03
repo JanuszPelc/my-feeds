@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T00:23:00+00:00</updated>
+  <updated>2026-09-03T01:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Loudoun County Data Center Boom Sparks Community Backlash</title>
+    <link href="https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImdOTzNBbXNGVFoiLCJwIjoiL2NzL2ZlYXR1cmVzLzk3NTU5Ny9sb3Vkb3VuLWNvdW50eS12aXJnaW5pYS1kYXRhLWNlbnRlci1iYWNrbGFzaCIsImV4cCI6MTc4ODc4MjY4NiwiaWF0IjoxNzg4MzUwNjg3fQ.fluxVpED1fJ-DEk8WWOP3EJ5LdE4FtugNovvbbdW1j0&amp;utm_medium=gift-link" rel="alternate" />
+    <id>https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImdOTzNBbXNGVFoiLCJwIjoiL2NzL2ZlYXR1cmVzLzk3NTU5Ny9sb3Vkb3VuLWNvdW50eS12aXJnaW5pYS1kYXRhLWNlbnRlci1iYWNrbGFzaCIsImV4cCI6MTc4ODc4MjY4NiwiaWF0IjoxNzg4MzUwNjg3fQ.fluxVpED1fJ-DEk8WWOP3EJ5LdE4FtugNovvbbdW1j0&amp;utm_medium=gift-link::v238</id>
+    <published>2026-09-03T01:36:00+00:00</published>
+    <updated>2026-09-03T01:36:00+00:00</updated>
+    <media:thumbnail url="https://bloximages.chicago2.vip.townnews.com/loudounnow.com/content/tncms/assets/v3/editorial/e/12/e12c2372-be4d-11ef-810a-a3e2613de4ad/67648dbe929f1.image.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImdOTzNBbXNGVFoiLCJwIjoiL2NzL2ZlYXR1cmVzLzk3NTU5Ny9sb3Vkb3VuLWNvdW50eS12aXJnaW5pYS1kYXRhLWNlbnRlci1iYWNrbGFzaCIsImV4cCI6MTc4ODc4MjY4NiwiaWF0IjoxNzg4MzUwNjg3fQ.fluxVpED1fJ-DEk8WWOP3EJ5LdE4FtugNovvbbdW1j0&utm_medium=gift-link">theverge.com</a></small></p><hr/><p>Loudoun County, Virginia, home to the world's densest concentration of data centers, is facing increased community opposition as the rapid infrastructure buildout driven by generative AI creates local tension. While the industry has provided massive tax revenue and lowered residential property taxes, residents are increasingly protesting the industry's impact on noise levels, visual aesthetics, and the stability of local energy and water resources.</p><p>This local conflict mirrors a growing national debate over the infrastructure requirements of the AI era. As communities and states like New York and Texas weigh the economic advantages of hosting data centers against the potential for long-term utility strain, Loudoun has become a central case study for the social and environmental costs of the digital economy.</p><p><img src="https://bloximages.chicago2.vip.townnews.com/loudounnow.com/content/tncms/assets/v3/editorial/e/12/e12c2372-be4d-11ef-810a-a3e2613de4ad/67648dbe929f1.image.jpg" /></p><hr/><small>3 Sep 2026, 08:52 UTC | #19985</small>]]></content>
+  </entry>
   <entry>
     <title>Whistleblower Warns of Potential Failures in New USPS Mail Ballot System</title>
     <link href="https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/" rel="alternate" />

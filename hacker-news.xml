@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T00:18:00+00:00</updated>
+  <updated>2026-09-03T00:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Grail Enables Version Range Queries in Nixpkgs</title>
+    <link href="https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges" rel="alternate" />
+    <id>https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges::v238</id>
+    <published>2026-09-03T00:20:00+00:00</published>
+    <updated>2026-09-03T00:20:00+00:00</updated>
+    <media:thumbnail url="https://fzakaria.com/assets/images/version_range_indiana_jones.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://fzakaria.com/2026/09/01/the-holy-grail-of-nixpkgs-version-ranges">fzakaria.com</a> | <a href="https://lobste.rs/s/echox4/holy_grail_nixpkgs_version_ranges">discussion</a></small></p><hr/><p>Grail enables version range queries in the Nixpkgs ecosystem, allowing users to find specific revisions that satisfy complex, multi-package version constraints. This addresses a limitation in the traditional Nixpkgs model, where each attribute is tied to a single version per revision, making traditional dependency solving impossible.</p><p>The tool utilizes the clingo Answer Set Programming solver and supports "coexistence groups" to ensure multiple dependencies are met within a single shared revision. It also provides glibc compatibility checks by analyzing binary requirements and generates lock files compatible with nixpkgs-multiverse.</p><p><img src="https://fzakaria.com/assets/images/version_range_indiana_jones.png" /></p><hr/><small>3 Sep 2026, 08:48 UTC | #20006</small>]]></content>
+  </entry>
   <entry>
     <title>Bluefin Reclassified as a Capability System</title>
     <link href="https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/" rel="alternate" />
@@ -956,23 +965,5 @@
     <updated>2026-08-29T11:44:00+00:00</updated>
     <media:thumbnail url="https://i.ytimg.com/vi/nqcuC46sXUU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGsCYAC0AWKAgwIABABGGggaChoMA8=&amp;rs=AOn4CLBsFmPVPGe5QtCiz-uk2Uzp5JUOFQ" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ziglang.org/devlog/2026/#2026-08-27">ziglang.org</a> | <a href="https://lobste.rs/s/yqqsgk/pointer_stability_for_arraylists">discussion</a></small></p><hr/><p>Recent changes to the language include the addition of pointer stability for `std.ArrayList` and the relocation of package management subcommands from the compiler to the build system. This architectural shift moves functionality like `zig build` and `zig fetch` into a separate maker process to allow for easier patching and more secure networking.</p><p>Additional updates cover advancements in the SPIR-V backend, including the introduction of the `@SpirvType` builtin and multi-threaded codegen. The LLVM backend has also seen improvements to integer lowering and `@bitCast` semantics to optimize the handling of arbitrary bit-width integer types.</p><p><img src="https://i.ytimg.com/vi/nqcuC46sXUU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AGsCYAC0AWKAgwIABABGGggaChoMA8=&rs=AOn4CLBsFmPVPGe5QtCiz-uk2Uzp5JUOFQ" /></p><hr/><small>29 Aug 2026, 15:48 UTC | #19535</small>]]></content>
-  </entry>
-  <entry>
-    <title>posuto Simplifies Parsing of Japanese Postal Code Data</title>
-    <link href="https://www.dampfkraft.com/posuto.html" rel="alternate" />
-    <id>https://www.dampfkraft.com/posuto.html::v237</id>
-    <published>2026-08-29T08:39:00+00:00</published>
-    <updated>2026-08-29T08:39:00+00:00</updated>
-    <media:thumbnail url="https://www.dampfkraft.com/by-id/806ae69c/postcharacter.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.dampfkraft.com/posuto.html">dampfkraft.com</a> | <a href="https://lobste.rs/s/k9uxu5/parsing_infamous_japanese_postal_csv">discussion</a></small></p><hr/><p>The Python package `posuto` provides an easy-to-use format for Japanese postal code data, addressing significant structural issues in Japan Post's official `ken_all.csv`. The library resolves problems caused by unexpected line breaks in long field names, embedded parenthetical notes within data rows, and inconsistent field delimiters that make standard CSV parsing difficult.</p><p>The complexity is compounded by Japan's unique addressing systems, such as Kyoto's intersection-based model, and the inconsistent quality of official romaji files. `posuto` offers both a Python library and pre-processed JSON files, allowing developers to work with the data without manually handling the intricacies of the raw CSV or the errors found in phonetic conversions.</p><p><img src="https://www.dampfkraft.com/by-id/806ae69c/postcharacter.png" /></p><hr/><small>29 Aug 2026, 14:37 UTC | #19531</small>]]></content>
-  </entry>
-  <entry>
-    <title>Experiential Releases Open Source Model Gateway for AI Agent Workflows</title>
-    <link href="https://github.com/experientiallabs/experiential" rel="alternate" />
-    <id>https://github.com/experientiallabs/experiential::v237</id>
-    <published>2026-08-29T08:37:00+00:00</published>
-    <updated>2026-08-29T08:37:00+00:00</updated>
-    <media:thumbnail url="https://raw.githubusercontent.com/experientiallabs/experiential/main/assets/experiential-workflow.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/experientiallabs/experiential">github.com</a> | <a href="https://news.ycombinator.com/item?id=49471407">hacker news</a></small></p><hr/><p>Experiential is an open-source gateway and router designed for AI agent workflows, providing a unified, OpenAI-compatible API for hosted, local, and custom models. It allows developers to control model access and spending limits for specific users or agents while enabling traffic routing optimized for quality, speed, or cost.</p><p>The tool supports "Bring Your Own Key" (BYOK) integration for multiple providers, including Anthropic, Gemini, and OpenRouter. It includes telemetry support via OpenTelemetry to facilitate the creation of custom routers and the fine-tuning of models based on captured usage traces.</p><p><img src="https://raw.githubusercontent.com/experientiallabs/experiential/main/assets/experiential-workflow.png" /></p><hr/><small>29 Aug 2026, 14:23 UTC | #19529</small>]]></content>
   </entry>
 </feed>
