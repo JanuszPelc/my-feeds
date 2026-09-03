@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-03T19:03:00+00:00</updated>
+  <updated>2026-09-03T19:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Institute of Foundation Models Releases K2 Horizon AI Model Fleet</title>
+    <link href="https://ifm.ai/blog/k2/" rel="alternate" />
+    <id>https://ifm.ai/blog/k2/::v238</id>
+    <published>2026-09-03T19:06:00+00:00</published>
+    <updated>2026-09-03T19:06:00+00:00</updated>
+    <media:thumbnail url="https://ifm.ai/blog/k2/assets/k2-horizon-performance.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ifm.ai/blog/k2/">ifm.ai</a> | <a href="https://news.ycombinator.com/item?id=49551760">hacker news</a></small></p><hr/><p>Institute of Foundation Models (IFM) has released K2 Horizon, a fleet of six AI models ranging from 0.9B to 375B parameters. The release includes model weights, architecture, and the complete training lifecycle, including intermediate checkpoints, training data recipes, and fine-grained logs for reasoning and agentic post-training.</p><p>The 36B-A4B model utilizes a Mixture-of-Value Attention (MoVA) mechanism to achieve high performance efficiency through sparse attention. Models in the 0.9B, 3.7B, and 7B size classes reportedly achieve state-of-the-art results in mathematics, reasoning, and coding within their respective parameter scales.</p><p><img src="https://ifm.ai/blog/k2/assets/k2-horizon-performance.webp" /></p><hr/><small>3 Sep 2026, 23:14 UTC | #20091</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Launches Astra AI Model</title>
+    <link href="https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/::v238</id>
+    <published>2026-09-03T19:05:00+00:00</published>
+    <updated>2026-09-03T19:05:00+00:00</updated>
+    <media:thumbnail url="https://www.rappler.com/tachyon/2025/07/open-ai-reuters-july-2025-scaled.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/">techcrunch.com</a> | <a href="https://openai.com/index/path-to-astra/">source</a> | <a href="https://news.ycombinator.com/item?id=49527595">hacker news</a></small></p><hr/><p>OpenAI has released Astra, its most capable AI model to date, designed for advanced computer and browser usage. Initially available to Daybreak cybersecurity users, the model will expand to paid subscription plans and the API over the next week. Astra is optimized for software engineering and cybersecurity tasks, including the ability to identify zero-day exploits.</p><p>The model's implementation of "opaque recurrence" has drawn controversy because the technique can obscure the reasoning processes used to audit the model's decision-making. OpenAI leadership has framed this increasing opacity as a byproduct of evolving model capabilities, while President Greg Brockman suggested the model represents a significant step toward achieving artificial general intelligence (AGI).</p><p><img src="https://www.rappler.com/tachyon/2025/07/open-ai-reuters-july-2025-scaled.jpg" /></p><hr/><small>3 Sep 2026, 23:11 UTC | #20053</small>]]></content>
+  </entry>
   <entry>
     <title>ChatGPT, Claude, and Grok Experience Widespread Outages</title>
     <link href="https://9to5google.com/2026/09/03/chatgpt-claude-grok-outages/" rel="alternate" />
