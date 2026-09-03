@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Whistleblower Warns of Potential Failures in New USPS Mail Ballot System</title>
+    <link href="https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/" rel="alternate" />
+    <id>https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/::v238</id>
+    <published>2026-09-02T23:28:00+00:00</published>
+    <updated>2026-09-02T23:28:00+00:00</updated>
+    <media:thumbnail url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260518-maryland-mail-ballot-vsb-1730-3792a2.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/">cbsnews.com</a> | <a href="https://www.blumenthal.senate.gov/imo/media/doc/2026-08-31_final_letter-disclosure.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=49524428">hacker news</a></small></p><hr/><p>A whistleblower has warned Senator Richard Blumenthal that the U.S. Postal Service's new mail ballot system may face "potentially catastrophic problems." The disclosure alleges the agency is rushing the development of an untested online portal to implement new mail-voting rules, which could compromise the delivery of ballots for millions of Americans.</p><p>The whistleblower claims a "zero-tolerance" verification process—whereby a single barcode mismatch could cause an entire batch of mail to be rejected—could lead to massive delays and voter disenfranchisement. While the USPS maintains the portal is being developed to ensure security and compliance with court orders, critics argue the system is insufficiently tested for the upcoming midterm elections.</p><p><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260518-maryland-mail-ballot-vsb-1730-3792a2.jpg" /></p><hr/><small>3 Sep 2026, 06:59 UTC | #20002</small>]]></content>
+  </entry>
+  <entry>
     <title>Uber and Wayve Launch London's First Commercial Robotaxi Service</title>
     <link href="https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch" rel="alternate" />
     <id>https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch::v238</id>
