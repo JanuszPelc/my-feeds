@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T08:31:00+00:00</updated>
+  <updated>2026-09-03T08:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Law Firms Develop Bespoke AI Tools to Protect IP and Gain Competitive Advantage</title>
+    <link href="https://www.ft.com/content/c0c8ae73-27fd-4828-aa48-72cdae6613ff" rel="alternate" />
+    <id>https://www.ft.com/content/c0c8ae73-27fd-4828-aa48-72cdae6613ff::v238</id>
+    <published>2026-09-03T08:34:00+00:00</published>
+    <updated>2026-09-03T08:34:00+00:00</updated>
+    <media:thumbnail url="https://www.legalbusiness.co.uk/wp-content/uploads/2026/03/Freshfields-NY-reception-2-scaled-e1776955380559.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/c0c8ae73-27fd-4828-aa48-72cdae6613ff">ft.com</a> | <a href="https://www.freshfields.com/en/our-thinking/news/news-search/2026/04/freshfields-and-anthropic-team-up-to-co-build-ai-legal-workflows-deploying-claude-across-the-firm-globally">source</a></small></p><hr/><p>International law firms are developing bespoke AI platforms to protect intellectual property and create market differentiation. These firms typically use off-the-shelf AI models for routine tasks while building custom tools for specialized legal workflows to ensure data security and competitive advantage.</p><p>Freshfields has partnered with Anthropic to co-develop AI legal workflows using the Claude model across its global offices. The move addresses the need to balance the efficiency of general-purpose AI with the security requirements of professional legal practice.</p><p><img src="https://www.legalbusiness.co.uk/wp-content/uploads/2026/03/Freshfields-NY-reception-2-scaled-e1776955380559.jpg" /></p><hr/><small>3 Sep 2026, 13:08 UTC | #19998</small>]]></content>
+  </entry>
   <entry>
     <title>Taiwan Investigates 166 Chinese-Linked Tech Companies for Alleged Illegal Operations</title>
     <link href="https://restofworld.org/2026/taiwan-china-chip-investigations/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-03T06:34:00+00:00</updated>
+  <updated>2026-09-03T10:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Audacity Releases Version 4.0 with Rebuilt Qt Interface</title>
+    <link href="https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0" rel="alternate" />
+    <id>https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0::v238</id>
+    <published>2026-09-03T10:54:00+00:00</published>
+    <updated>2026-09-03T10:54:00+00:00</updated>
+    <media:thumbnail url="https://audioplugin.deals/wp-content/uploads/2025/10/Audacity-4.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0">github.com</a> | <a href="https://news.ycombinator.com/item?id=49548395">hacker news</a></small></p><hr/><p>The update features a complete overhaul of the application's interface and core editing workflows. Built on Qt for native high-DPI rendering, the new UI includes customizable workspaces and a revised clip-editing model that enables direct selection, grouping, and movement of clips across tracks.</p><p>This version introduces the .aup4 project format, which improves the storage of clip and appearance data while maintaining compatibility with version 3 via conversion. Although the update brings modernized themes and expanded playback support—including Windows ASIO—features such as MIDI tracks and the Mixer are excluded from this release and slated for future updates.</p><p><img src="https://audioplugin.deals/wp-content/uploads/2025/10/Audacity-4.jpg" /></p><hr/><small>3 Sep 2026, 13:21 UTC | #20025</small>]]></content>
+  </entry>
   <entry>
     <title>Main St Audio Labs Updates Midnight Rambler to v1.1.0</title>
     <link href="https://www.kvraudio.com/news/main-st-audio-labs-updates-midnight-rambler-to-v1-1-0-68350?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68350" rel="alternate" />

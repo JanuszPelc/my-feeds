@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T08:33:00+00:00</updated>
+  <updated>2026-09-03T08:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Emacs 31 Includes Newcomers-Presets Theme</title>
+    <link href="https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/" rel="alternate" />
+    <id>https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/::v238</id>
+    <published>2026-09-03T08:41:00+00:00</published>
+    <updated>2026-09-03T08:41:00+00:00</updated>
+    <media:thumbnail url="https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/2026-04-30_09-47-33.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/">sachachua.com</a> | <a href="https://github.com/emacs-mirror/emacs/tree/master/etc/themes/newcomers-presets-theme.el">source</a> | <a href="https://lobste.rs/s/307nji/what_s_emacs_newcomers_presets_theme">discussion</a></small></p><hr/><p>GNU Emacs 31 and recent development versions include a newcomers-presets theme designed to simplify the editor's user experience for beginners. Accessible via the splash screen or the load-theme command, the theme modifies various default settings, including text selection, editing modes, and application integration.</p><p>The presets align Emacs with modern editor expectations by implementing features like pixel-wise window resizing, automatic line numbering, and enhanced completion previews. It also streamlines workflows for spelling checks, file management, and version control to provide a more intuitive out-of-the-box experience.</p><p><img src="https://sachachua.com/blog/2026/04/what-s-in-the-emacs-newcomers-presets-theme/2026-04-30_09-47-33.png" /></p><hr/><small>3 Sep 2026, 13:18 UTC | #20026</small>]]></content>
+  </entry>
   <entry>
     <title>Polars Releases 2.0 Release Candidate</title>
     <link href="https://pola.rs/posts/announcing-polars-2/" rel="alternate" />
