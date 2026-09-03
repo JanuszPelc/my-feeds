@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T11:02:00+00:00</updated>
+  <updated>2026-09-03T13:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Revo Programming Language Overview</title>
+    <link href="https://revo.lung.fyi/" rel="alternate" />
+    <id>https://revo.lung.fyi/::v238</id>
+    <published>2026-09-03T13:22:00+00:00</published>
+    <updated>2026-09-03T13:22:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/QxpG_1lv-4k/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://revo.lung.fyi/">revo.lung.fyi</a> | <a href="https://github.com/if-not-nil/revo">source</a> | <a href="https://lobste.rs/s/towfrz/revo_programming_language">discussion</a></small></p><hr/><p>Revo is a dynamic programming language that emphasizes clean data flow, expression-based syntax, and explicit error handling via "errors-as-values." It features a compile-time VM, procedural macros, and a fiber system that enables non-blocking code execution.</p><p>The language is implemented in Zig and provides an optional type system for performance optimization. It includes a Language Server Protocol (LSP) implementation and syntax highlighting support for various editors, including VS Code, Neovim, and Helix.</p><p><img src="https://i.ytimg.com/vi/QxpG_1lv-4k/maxresdefault.jpg" /></p><hr/><small>3 Sep 2026, 16:44 UTC | #20044</small>]]></content>
+  </entry>
   <entry>
     <title>BGP Hijacking Targets Virtualizor and Softaculous Infrastructure</title>
     <link href="https://www.virtualizor.com/blog/security-incident-bgp-hijacking/" rel="alternate" />
