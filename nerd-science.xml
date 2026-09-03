@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-02T23:06:00+00:00</updated>
+  <updated>2026-09-02T23:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>NPC Lifestyle Proposed as a Form of Stoic Living</title>
+    <link href="https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/" rel="alternate" />
+    <id>https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/::v238</id>
+    <published>2026-09-02T23:43:00+00:00</published>
+    <updated>2026-09-02T23:43:00+00:00</updated>
+    <media:thumbnail url="https://examplesweb.net/wp-content/uploads/10-powerful-stoicism-examples-for-everyday-resilience.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/">signalundefied.bearblog.dev</a> | <a href="https://news.ycombinator.com/item?id=49541519">hacker news</a></small></p><hr/><p>The 'NPC' lifestyle is proposed as a viable way to live by focusing on personal tasks and maintaining indifference toward external chaos. This approach encourages individuals to pursue their own interests and routines regardless of the disruptive actions or trends occurring in the wider world.</p><p>The argument uses metaphors from role-playing games, such as Skyrim, to link this mindset to Stoic philosophy. By prioritizing personal agency and routine over the performative pursuit of 'main character' status, the essay suggests a path toward mental stability and contentment.</p><p><img src="https://examplesweb.net/wp-content/uploads/10-powerful-stoicism-examples-for-everyday-resilience.png" /></p><hr/><small>3 Sep 2026, 07:25 UTC | #20003</small>]]></content>
+  </entry>
   <entry>
     <title>The Risks of Prioritizing Isolated Training Over Real-World Feedback</title>
     <link href="https://turtlespace.blog/p/exit-the-cave" rel="alternate" />
