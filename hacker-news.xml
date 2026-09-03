@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T15:32:00+00:00</updated>
+  <updated>2026-09-03T18:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>HTC Launches Vive Eagle Smart Glasses in the US</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-03/htc-brings-499-vive-eagle-smart-glasses-to-us-amid-broader-privacy-concerns" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-03/htc-brings-499-vive-eagle-smart-glasses-to-us-amid-broader-privacy-concerns::v238</id>
+    <published>2026-09-03T18:45:00+00:00</published>
+    <updated>2026-09-03T18:45:00+00:00</updated>
+    <media:thumbnail url="https://design-milk.com/images/2025/08/htc-vive-eagle-ai-glasses-2-1058x1536.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-03/htc-brings-499-vive-eagle-smart-glasses-to-us-amid-broader-privacy-concerns">bloomberg.com</a> | <a href="https://www.vive.com/us/newsroom/2025-08-14/">source</a></small></p><hr/><p>HTC Corp. is launching its Vive Eagle smart glasses in the U.S. market, priced at $499 with immediate shipping. The device supports voice-based AI interactions from Google and OpenAI and is available in "Pantos" and Wayfarer-style frame designs.</p><p>The rollout occurs amid rising consumer privacy concerns regarding clandestine camera recording, a challenge also facing competitor Meta Platforms Inc. HTC's pricing is aligned with Ray-Ban Meta models but remains higher than Meta's $299 entry-level options.</p><p><img src="https://design-milk.com/images/2025/08/htc-vive-eagle-ai-glasses-2-1058x1536.jpg" /></p><hr/><small>3 Sep 2026, 20:25 UTC | #20028</small>]]></content>
+  </entry>
   <entry>
     <title>Comparing the Scaling Complexity of CTTI and RTTI</title>
     <link href="https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/" rel="alternate" />
@@ -1009,14 +1018,5 @@
     <updated>2026-08-29T23:20:00+00:00</updated>
     <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*Ecv0UPWMt61QAM8aYf12Dg.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/vji9aj/any_true_alternatives_electron">lobste.rs</a> | <a href="https://lobste.rs/s/vji9aj/any_true_alternatives_electron">discussion</a></small></p><hr/><p>Developers' reliance on frameworks like Electron is attributed to a lack of expertise in platform-native UI toolkits rather than inherent rendering engine limitations. Inconsistencies across different engine versions are characterized as a failure of testing and environment management rather than a technical flaw in the engines themselves.</p><p>Proposed solutions for application stability include the adoption of native UI frameworks and the use of virtual machines to ensure compatibility across various operating system versions.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*Ecv0UPWMt61QAM8aYf12Dg.png" /></p><hr/><small>30 Aug 2026, 05:37 UTC | #19564</small>]]></content>
-  </entry>
-  <entry>
-    <title>ReactOS 0.4.16 Released with Graphical Installer and HD Audio Support</title>
-    <link href="https://reactos.org/project-news/reactos-0416-released/" rel="alternate" />
-    <id>https://reactos.org/project-news/reactos-0416-released/::v237</id>
-    <published>2026-08-29T20:22:00+00:00</published>
-    <updated>2026-08-29T20:22:00+00:00</updated>
-    <media:thumbnail url="https://reactos.org/img/project-news/reactos-0416-released/gui-setup-1.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://reactos.org/project-news/reactos-0416-released/">reactos.org</a> | <a href="https://lobste.rs/s/flcppv/introducing_reactos_0_4_16">discussion</a></small></p><hr/><p>ReactOS has released version 0.4.16, featuring a new graphical installer and a unified bootcd and livecd image. The release includes improvements to the video, audio, networking, and storage stacks, alongside several third-party code synchronizations.</p><p>Key updates include a new HD audio bus driver utilizing Microsoft's Kernel Mode Driver Framework and a new ATA driver to improve boot compatibility in environments like Hyper-V. The version also introduces a Server Core installation type and includes WineVDM to enhance compatibility for 16-bit Windows applications.</p><p><img src="https://reactos.org/img/project-news/reactos-0416-released/gui-setup-1.png" /></p><hr/><small>30 Aug 2026, 02:10 UTC | #19559</small>]]></content>
   </entry>
 </feed>

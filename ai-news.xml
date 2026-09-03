@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-03T18:42:00+00:00</updated>
+  <updated>2026-09-03T18:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Cerebras Inference Model Catalog and Compression Details</title>
+    <link href="https://inference-docs.cerebras.ai/models/overview" rel="alternate" />
+    <id>https://inference-docs.cerebras.ai/models/overview::v238</id>
+    <published>2026-09-03T18:47:00+00:00</published>
+    <updated>2026-09-03T18:47:00+00:00</updated>
+    <media:thumbnail url="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3.6/Figures/qwen3.6_27b_score.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://inference-docs.cerebras.ai/models/overview">inference-docs.cerebras.ai</a> | <a href="https://news.ycombinator.com/item?id=49554520">hacker news</a></small></p><hr/><p>Cerebras Inference hosts public endpoints for high-speed models, including the 120-billion-parameter OpenAI GPT OSS and the 27-billion-parameter Qwen 3.8 27B. Available throughput for these models reaches approximately 3000 tokens per second for GPT OSS and 1500 tokens per second for Qwen 3.8 27B.</p><p>All models on public endpoints are served in their original, unpruned architecture to ensure model integrity. While Cerebras research explores pruning methods like REAP, those specific versions are hosted on Hugging Face for research purposes rather than through the production API. The platform employs selective weight-only quantization to preserve high precision during inference operations.</p><p><img src="https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3.6/Figures/qwen3.6_27b_score.png" /></p><hr/><small>3 Sep 2026, 20:35 UTC | #20075</small>]]></content>
+  </entry>
+  <entry>
+    <title>Google DeepMind Releases WeatherNext 3 AI Weather Model</title>
+    <link href="https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/::v238</id>
+    <published>2026-09-03T18:46:00+00:00</published>
+    <updated>2026-09-03T18:46:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/30-day-weather-champion.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/">source</a></small></p><hr/><p>Google DeepMind and Google Research have released WeatherNext 3, an AI model for global weather forecasting that provides 5km resolution and hourly updates. The model has outperformed traditional government-run supercomputer models and several deep-learning competitors in accuracy when tested on the Operational WeatherBench utility.</p><p>The model is designed to be integrated into Google products like Search and Maps and will be available to researchers via Google Cloud. By incorporating raw satellite observations directly into high-resolution forecasts, the model aims to improve the predictability of renewable energy projects and agricultural yields.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/30-day-weather-champion.png?w=680" /></p><hr/><small>3 Sep 2026, 20:29 UTC | #20037</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Introduces GPT-6 Astra</title>
     <link href="https://openai.com/index/gpt-6-astra/" rel="alternate" />
