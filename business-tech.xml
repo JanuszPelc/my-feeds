@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T08:34:00+00:00</updated>
+  <updated>2026-09-03T10:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Opposition Halts Blackstone-Backed $100B Digital Gateway Project in Virginia</title>
+    <link href="https://www.bloomberg.com/news/features/2026-09-02/how-a-revolt-toppled-a-100-billion-data-center-by-historic-battlefield?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODQwODkzMiwiZXhwIjoxNzg5MDEzNzMyLCJhcnRpY2xlSWQiOiJUS1I5VUVWVFREMEswMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.H33P86mAG6ZYn1Y387kYFG-SIBe6au3JvgiP6O6ELZc" rel="alternate" />
+    <id>https://www.bloomberg.com/news/features/2026-09-02/how-a-revolt-toppled-a-100-billion-data-center-by-historic-battlefield?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODQwODkzMiwiZXhwIjoxNzg5MDEzNzMyLCJhcnRpY2xlSWQiOiJUS1I5VUVWVFREMEswMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.H33P86mAG6ZYn1Y387kYFG-SIBe6au3JvgiP6O6ELZc::v238</id>
+    <published>2026-09-03T10:55:00+00:00</published>
+    <updated>2026-09-03T10:55:00+00:00</updated>
+    <media:thumbnail url="https://www.potomaclocal.com/wp-content/uploads/2022/08/qts-data-center-manassas.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/features/2026-09-02/how-a-revolt-toppled-a-100-billion-data-center-by-historic-battlefield?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODQwODkzMiwiZXhwIjoxNzg5MDEzNzMyLCJhcnRpY2xlSWQiOiJUS1I5VUVWVFREMEswMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.H33P86mAG6ZYn1Y387kYFG-SIBe6au3JvgiP6O6ELZc">bloomberg.com</a></small></p><hr/><p>Organized opposition in Prince William County, Virginia, has toppled the $100 billion Digital Gateway data center project. The development, led by QTS and backed by major private equity firms including Blackstone, was terminated following years of regulatory scrutiny and local community resistance.</p><p>The project's cancellation serves as a potential blueprint for increasing community backlash against large-scale data center expansions across the United States. The decision follows an extensive period of planning and the withdrawal of all associated regulatory filings.</p><p><img src="https://www.potomaclocal.com/wp-content/uploads/2022/08/qts-data-center-manassas.jpg" /></p><hr/><small>3 Sep 2026, 13:34 UTC | #20001</small>]]></content>
+  </entry>
   <entry>
     <title>Law Firms Develop Bespoke AI Tools to Protect IP and Gain Competitive Advantage</title>
     <link href="https://www.ft.com/content/c0c8ae73-27fd-4828-aa48-72cdae6613ff" rel="alternate" />
