@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-04T14:42:00+00:00</updated>
+  <updated>2026-09-04T18:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Claude Produces First Computer-Checked Proof of Fermat's Last Theorem</title>
+    <link href="https://www.anthropic.com/research/formalizing-fermats-last-theorem" rel="alternate" />
+    <id>https://www.anthropic.com/research/formalizing-fermats-last-theorem::v238</id>
+    <published>2026-09-04T18:43:00+00:00</published>
+    <updated>2026-09-04T18:43:00+00:00</updated>
+    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fafd8e238255ec2654f2322f3d3630dcf1e8ea4ca-6800x3264.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.anthropic.com/research/formalizing-fermats-last-theorem">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=49568506">hacker news</a></small></p><hr/><p>In an 11-day autonomous effort, the AI completed the first end-to-end, computer-checked formalization of Fermat's Last Theorem in the Lean programming language. This process involved generating 13 million lines of code and proving approximately 29,500 intermediate theorems.</p><p>The project utilized the Prove2Me platform to manage multi-agent collaboration through a directed acyclic graph of theorem statements. This capability could facilitate the automated verification of complex mathematical literature and reduce the manual burden of peer review.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fafd8e238255ec2654f2322f3d3630dcf1e8ea4ca-6800x3264.png&w=3840&q=75" /></p><hr/><small>4 Sep 2026, 20:30 UTC | #20182</small>]]></content>
+  </entry>
   <entry>
     <title>Sally Hall Reflects on the Cognitive Impact of AI Assistance</title>
     <link href="https://thoughtbot.com/blog/is-ai-ruining-my-brain" rel="alternate" />

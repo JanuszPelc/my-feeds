@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-04T14:55:00+00:00</updated>
+  <updated>2026-09-04T14:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>GPT-6 Astra Benchmarking Results Released</title>
+    <link href="https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra" rel="alternate" />
+    <id>https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra::v238</id>
+    <published>2026-09-04T14:59:00+00:00</published>
+    <updated>2026-09-04T14:59:00+00:00</updated>
+    <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/6a5c91370d7c44889aab0ebee84b75a60d6ee538-2940x2311.png?w=1200&amp;auto=format" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra">artificialanalysis.ai</a> | <a href="https://news.ycombinator.com/item?id=49556147">hacker news</a></small></p><hr/><p>The model achieves significant gains in coding efficiency and a major reduction in hallucination rates according to new benchmarks from Artificial Analysis. While GPT-6 Astra matches Fable 5 in the Coding Agent Index at a lower cost, its Intelligence Index performance is offset by a 2.5x price increase compared to GPT-5.6 Sol.</p><p>Astra provides a 10% reduction in output tokens for intelligence tasks, though it remains 75% more expensive per task due to higher token pricing. While the model's hallucination rate dropped from 92% to 51% in the AA-Omniscience benchmark, performance results were mixed across other metrics, showing gains in long-horizon knowledge work but regressions in certain economic and reasoning tasks.</p><p><img src="https://cdn.sanity.io/images/6vfeftx9/articles/6a5c91370d7c44889aab0ebee84b75a60d6ee538-2940x2311.png?w=1200&auto=format" /></p><hr/><small>4 Sep 2026, 20:25 UTC | #20143</small>]]></content>
+  </entry>
   <entry>
     <title>Google Integrates Gemini Spark with Google Photos</title>
     <link href="https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/" rel="alternate" />

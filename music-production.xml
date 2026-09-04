@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-04T14:54:00+00:00</updated>
+  <updated>2026-09-04T15:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>MidiStickers Pro v1.3 Update Adds Lessons and Exercises Content</title>
+    <link href="https://www.kvraudio.com/news/midistickers-expands-lessons-and-exercises-content-in-midistickers-pro-v1-3-update-68304?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68304" rel="alternate" />
+    <id>https://www.kvraudio.com/news/midistickers-expands-lessons-and-exercises-content-in-midistickers-pro-v1-3-update-68304?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68304::v238</id>
+    <published>2026-09-04T15:10:00+00:00</published>
+    <updated>2026-09-04T15:10:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/kvrscr-2.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/midistickers-expands-lessons-and-exercises-content-in-midistickers-pro-v1-3-update-68304?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68304">kvraudio.com</a> | <a href="https://midistickers.com/midistickers-v13-expands-learning-contents/">source</a></small></p><hr/><p>MidiStickers Pro version 1.3 introduces a new Lessons &amp; Exercises hub containing over 30 textual lessons and a Sight Reading Trainer based on Georges Dandelot's method. The update also provides dozens of new exercises covering chord voicings, progressions, modes, and scales, alongside improved auto-accompaniment and Italian localization.</p><p>This release marks a shift toward making MidiStickers a comprehensive interactive textbook for music theory and harmony. The software is available for Windows and macOS as a $59 one-time purchase.</p><p><img src="https://static.kvraudio.com/i/b/kvrscr-2.png" /></p><hr/><small>4 Sep 2026, 20:26 UTC | #20160</small>]]></content>
+  </entry>
   <entry>
     <title>Steinberg Offers 40% Discount on Cubase 15</title>
     <link href="https://musictech.com/news/cubase-15-deal-40-off-discount/" rel="alternate" />
