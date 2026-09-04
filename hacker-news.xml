@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T12:07:00+00:00</updated>
+  <updated>2026-09-04T13:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>DeepSeek to Use 160,000 Huawei AI Chips in Inner Mongolia</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center::v238</id>
+    <published>2026-09-04T13:20:00+00:00</published>
+    <updated>2026-09-04T13:20:00+00:00</updated>
+    <media:thumbnail url="https://abit.ee/images/huawei-atlas-950-superpod-ascend-950-mwc-2026-nvidia-supercomputer-ai-accelerator-china-01.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center">bloomberg.com</a></small></p><hr/><p>The company intends to install over 160,000 Huawei Technologies Ascend 950DT accelerators at a massive new data center in Inner Mongolia. This would result in one of the largest Huawei AI chip clusters.</p><p>Implementation timing is contingent on Huawei's manufacturing and production capacity. The order represents a major expansion of the firm's computing infrastructure using domestic hardware.</p><p><img src="https://abit.ee/images/huawei-atlas-950-superpod-ascend-950-mwc-2026-nvidia-supercomputer-ai-accelerator-china-01.webp" /></p><hr/><small>4 Sep 2026, 17:51 UTC | #20127</small>]]></content>
+  </entry>
   <entry>
     <title>Jestoph Details Solution to Jane Street ASIC Reverse Engineering Challenge</title>
     <link href="https://jestoph.com/2026/09/04/jane-street-challenge.html" rel="alternate" />

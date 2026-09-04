@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-04T13:19:00+00:00</updated>
+  <updated>2026-09-04T13:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>neverfoundaudio Releases VT-Mini Free Vocal Tuner Plugin</title>
+    <link href="https://www.kvraudio.com/news/neverfoundaudio-releases-vt-mini---free-vocal-tuner-plugin-windows-vst3-68382?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68382" rel="alternate" />
+    <id>https://www.kvraudio.com/news/neverfoundaudio-releases-vt-mini---free-vocal-tuner-plugin-windows-vst3-68382?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68382::v238</id>
+    <published>2026-09-04T13:23:00+00:00</published>
+    <updated>2026-09-04T13:23:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/vtminiscreenshottune.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/neverfoundaudio-releases-vt-mini---free-vocal-tuner-plugin-windows-vst3-68382?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68382">kvraudio.com</a> | <a href="https://neverfoundaudio.com/free-vt-mini">source</a></small></p><hr/><p>neverfoundaudio has released VT-Mini, a free vocal tuner plugin for Windows. The plugin includes a "Tune" module for pitch correction and a "Clean" module for de-essing and low-cut filtering.</p><p>The software is available in VST3 and standalone formats, offering dedicated low-latency and studio modes for different recording workflows. Users can obtain the full plugin by confirming their email address through the developer's newsletter.</p><p><img src="https://static.kvraudio.com/i/b/vtminiscreenshottune.png" /></p><hr/><small>4 Sep 2026, 17:57 UTC | #20148</small>]]></content>
+  </entry>
   <entry>
     <title>dBdone Releases Wasser Free Multiband Delay Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/09/04/dbdone-wasser/" rel="alternate" />
