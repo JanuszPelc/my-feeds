@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-04T14:46:00+00:00</updated>
+  <updated>2026-09-04T14:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google Integrates Gemini Spark with Google Photos</title>
+    <link href="https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/::v238</id>
+    <published>2026-09-04T14:55:00+00:00</published>
+    <updated>2026-09-04T14:55:00+00:00</updated>
+    <media:thumbnail url="https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/f386b71f-1731-427b-ae00-bf683b2469b7.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/">techcrunch.com</a> | <a href="https://support.google.com/gemini/answer/18116629">source</a></small></p><hr/><p>Google is integrating its Gemini Spark AI agent with Google Photos, allowing the agent to manage user libraries through tasks such as image editing, album curation, and the creation of shared albums. Users will also be able to use the agent to convert photos of event flyers into calendar appointments and execute automated workflows. The feature is set to roll out over the coming weeks to English-speaking Gemini AI Pro and Ultra subscribers in the United States.</p><p>The update is designed to increase consumer engagement by using AI to automate routine photo management. This move follows recent industry discussions regarding the need for AI companies to demonstrate more tangible, practical benefits to the general public to overcome skepticism about the technology's utility.</p><p><img src="https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/f386b71f-1731-427b-ae00-bf683b2469b7.png" /></p><hr/><small>4 Sep 2026, 19:55 UTC | #20157</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Resolves Elevated Error Rates for Multiple Claude Models</title>
     <link href="https://status.claude.com/incidents/461yvfrzpwtt" rel="alternate" />
