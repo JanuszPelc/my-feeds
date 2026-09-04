@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-03T19:08:00+00:00</updated>
+  <updated>2026-09-03T19:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Nvidia Launches Personal AI Router Software</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook" rel="alternate" />
+    <id>https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook::v238</id>
+    <published>2026-09-03T19:10:00+00:00</published>
+    <updated>2026-09-03T19:10:00+00:00</updated>
+    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.44-AM.png?quality=90&amp;strip=all" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook">theverge.com</a> | <a href="https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/">source</a></small></p><hr/><p>Nvidia has released Personal AI Router (PAIR), an open-source software tool that connects idle computers on a local network to perform AI inference tasks. Compatible with Nvidia GeForce RTX 20-series or newer, DGX Spark systems, and Apple M4 chips or newer, the tool distributes workloads across multiple devices to enable parallel processing. This capability is intended to support complex agentic workflows by preventing computational bottlenecks on a single GPU.</p><p>The software is designed to run only when devices are otherwise inactive, adjusting dynamically as hardware joins or leaves the network to avoid interrupting user tasks. Secure communication between machines is established through a six-digit pairing code and mutual Transport Layer Security (mTLS). PAIR is currently available in beta for Windows, Linux, and macOS.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-03-at-10.42.44-AM.png?quality=90&strip=all" /></p><hr/><small>3 Sep 2026, 23:57 UTC | #20045</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Discounts Muse Spark Model for Users Sharing Data for Training</title>
     <link href="https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/" rel="alternate" />

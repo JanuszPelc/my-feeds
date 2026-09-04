@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-03T15:31:00+00:00</updated>
+  <updated>2026-09-03T19:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Supercell to Acquire Metacore and Merge Mansion Developer</title>
+    <link href="https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month::v238</id>
+    <published>2026-09-03T19:11:00+00:00</published>
+    <updated>2026-09-03T19:11:00+00:00</updated>
+    <media:thumbnail url="https://nextbiggames.com/wp-content/uploads/2026/05/partner-cell.png" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month">gamedeveloper.com</a> | <a href="https://supercell.com/en/news/merge-mansion-is-joining-supercell/">source</a></small></p><hr/><p>An agreement has been signed for Supercell to acquire Metacore, the studio behind the mobile title Merge Mansion. The acquisition is expected to close by the end of September, integrating the game into Supercell's live games portfolio.</p><p>The deal follows a restructuring by Metacore intended to improve operational efficiency and respond to increased market competition. Supercell, a subsidiary of Tencent, continues a recent trend of expanding its mobile gaming portfolio through strategic studio acquisitions.</p><p><img src="https://nextbiggames.com/wp-content/uploads/2026/05/partner-cell.png" /></p><hr/><small>4 Sep 2026, 00:00 UTC | #20076</small>]]></content>
+  </entry>
   <entry>
     <title>Gamecity Hamburg Launches Second Round of Prototype Funding</title>
     <link href="https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding" rel="alternate" />
