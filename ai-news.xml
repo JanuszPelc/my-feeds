@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-04T12:09:00+00:00</updated>
+  <updated>2026-09-04T14:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Anthropic Resolves Elevated Error Rates for Multiple Claude Models</title>
+    <link href="https://status.claude.com/incidents/461yvfrzpwtt" rel="alternate" />
+    <id>https://status.claude.com/incidents/461yvfrzpwtt::v238</id>
+    <published>2026-09-04T14:46:00+00:00</published>
+    <updated>2026-09-04T14:46:00+00:00</updated>
+    <media:thumbnail url="https://pasqualepillitteri.it/uploads/img/news/claude-down-23-giugno-2026-cover.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://status.claude.com/incidents/461yvfrzpwtt">status.claude.com</a> | <a href="https://news.ycombinator.com/item?id=49549676">hacker news</a></small></p><hr/><p>Anthropic has resolved a service disruption that caused elevated error rates for several Claude models, including Claude Mythos 5.1, Claude Fable 5.1, and Claude Opus 5. The incident impacted users across claude.ai, the Claude API, Claude Code, and Claude Cowork.</p><p>The issue was identified and mitigated on September 3, 2026. Following a fix deployment and a period of monitoring, the affected models—including various versions of Opus—have returned to baseline error rates.</p><p><img src="https://pasqualepillitteri.it/uploads/img/news/claude-down-23-giugno-2026-cover.webp" /></p><hr/><small>4 Sep 2026, 18:56 UTC | #20175</small>]]></content>
+  </entry>
   <entry>
     <title>ChatGPT Features and Capabilities</title>
     <link href="https://chatgpt.com/" rel="alternate" />
