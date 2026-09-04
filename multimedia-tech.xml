@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-03T19:17:00+00:00</updated>
+  <updated>2026-09-04T00:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Claude Fable 5 Translates 1993 Amiga Assembly for Babylonian Twins Godot Port</title>
+    <link href="https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/" rel="alternate" />
+    <id>https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/::v238</id>
+    <published>2026-09-04T00:13:00+00:00</published>
+    <updated>2026-09-04T00:13:00+00:00</updated>
+    <media:thumbnail url="https://babyloniantwins.com/img/blog/tiles-level1.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/">babyloniantwins.com</a> | <a href="https://news.ycombinator.com/item?id=49550375">hacker news</a></small></p><hr/><p>The 1993 Amiga platformer Babylonian Twins has been ported to the Godot 4 engine by using Claude Fable 5 to translate 72,758 lines of 68000 assembly code. The LLM successfully reconstructed proprietary level formats and memory layouts, producing binaries that are byte-identical to the original 1993 shipped versions.</p><p>To maintain original gameplay physics, the project maintains two distinct timing standards: a 50 Hz tick rate for the assembly-based rebuild and 60 Hz for the Godot version. The implementation also bypasses standard engine physics components to replicate the specific movement and collision routines from the original source.</p><p><img src="https://babyloniantwins.com/img/blog/tiles-level1.png" /></p><hr/><small>4 Sep 2026, 05:48 UTC | #20109</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Launches Pay-As-You-Go Option for Xbox Cloud Gaming</title>
     <link href="https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option" rel="alternate" />
