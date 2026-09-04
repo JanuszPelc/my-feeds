@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T13:20:00+00:00</updated>
+  <updated>2026-09-04T13:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>US Military Disables Ad Trackers on Government-Issued Devices</title>
+    <link href="https://www.reuters.com/business/media-telecom/us-military-turns-off-ad-trackers-devices-amid-middle-east-targeting-reports-2026-09-04/" rel="alternate" />
+    <id>https://www.reuters.com/business/media-telecom/us-military-turns-off-ad-trackers-devices-amid-middle-east-targeting-reports-2026-09-04/::v238</id>
+    <published>2026-09-04T13:25:00+00:00</published>
+    <updated>2026-09-04T13:25:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1VK4tO.img?w=1920&amp;h=1080&amp;m=4&amp;q=89" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/media-telecom/us-military-turns-off-ad-trackers-devices-amid-middle-east-targeting-reports-2026-09-04/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=49562726">hacker news</a></small></p><hr/><p>U.S. military branches have deactivated advertising trackers on government-issued phones and computers. This action follows reports that commercial location data was used to target American forces in the Middle East.</p><p>The move was prompted by letters from U.S. Senator Ron Wyden. This security measure aims to mitigate risks stemming from the collection and sale of precise movement data by third-party advertisers.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1VK4tO.img?w=1920&h=1080&m=4&q=89" /></p><hr/><small>4 Sep 2026, 18:12 UTC | #20131</small>]]></content>
+  </entry>
   <entry>
     <title>DeepSeek to Use 160,000 Huawei AI Chips in Inner Mongolia</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center" rel="alternate" />
