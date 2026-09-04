@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-04T15:06:00+00:00</updated>
+  <updated>2026-09-04T18:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Open-Source AI Adoption Challenges Proprietary AI Developers</title>
+    <link href="https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html::v238</id>
+    <published>2026-09-04T18:45:00+00:00</published>
+    <updated>2026-09-04T18:45:00+00:00</updated>
+    <media:thumbnail url="https://dataexplained.com/wp-content/uploads/2026/05/Use-of-Open-Source-AI-Models-By-Region-and-Industry.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=49566137">hacker news</a></small></p><hr/><p>Growing corporate reliance on open-source AI models is disrupting the market for proprietary developers like Anthropic and OpenAI. These companies must recoup billions of dollars spent on research, development, and computing infrastructure, necessitating high service fees that may struggle to compete with low-cost open alternatives.</p><p>This trend comes as both companies prepare for high-profile initial public offerings. The need for high revenue margins to fund massive capital expenditures and meet investor expectations may be undermined by the increasing availability and enterprise adoption of open-source technology.</p><p><img src="https://dataexplained.com/wp-content/uploads/2026/05/Use-of-Open-Source-AI-Models-By-Region-and-Industry.jpg" /></p><hr/><small>4 Sep 2026, 20:43 UTC | #20183</small>]]></content>
+  </entry>
   <entry>
     <title>European Defense Officials Warn Against Reducing Reliance on US Technology</title>
     <link href="https://www.ft.com/content/0e9d714b-f367-4dd7-8ef4-6d4b2c08b79c" rel="alternate" />
