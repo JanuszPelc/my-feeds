@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-04T18:45:00+00:00</updated>
+  <updated>2026-09-04T18:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Strike 3 Holdings Alleges Meta Executive is Prolific Torrent Pirate</title>
+    <link href="https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/" rel="alternate" />
+    <id>https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/::v238</id>
+    <published>2026-09-04T18:48:00+00:00</published>
+    <updated>2026-09-04T18:48:00+00:00</updated>
+    <media:thumbnail url="https://torrentfreak.com/images/strikecases.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/">torrentfreak.com</a> | <a href="https://news.ycombinator.com/item?id=49567053">hacker news</a></small></p><hr/><p>Strike 3 Holdings has filed a motion alleging that an anonymous "John Doe" subscriber behind an AT&amp;T connection is an executive within Meta's Reality Labs division. The producer claims the individual's torrenting activity—which includes nearly 20,000 files ranging from movies to VR content—is linked to Meta's ongoing legal issues regarding the unauthorized use of films for AI training and VR headset development.</p><p>Strike 3 is attempting to consolidate this case with a $446 million lawsuit against Meta, which accuses the tech giant of using BitTorrent to download films for AI model training. While Meta maintains that the individual's activity is personal and unrelated to the company, Strike 3 argues that the timing and volume of downloads suggest the activity was shifted to a residential IP to avoid detection of corporate infringement.</p><p><img src="https://torrentfreak.com/images/strikecases.png" /></p><hr/><small>4 Sep 2026, 21:07 UTC | #20184</small>]]></content>
+  </entry>
   <entry>
     <title>Open-Source AI Adoption Challenges Proprietary AI Developers</title>
     <link href="https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html" rel="alternate" />
