@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-03T19:40:00+00:00</updated>
+  <updated>2026-09-03T19:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Launches GPT-6 Astra with Advanced Computer-Use Capabilities</title>
+    <link href="https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/" rel="alternate" />
+    <id>https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/::v238</id>
+    <published>2026-09-03T19:41:00+00:00</published>
+    <updated>2026-09-03T19:41:00+00:00</updated>
+    <media:thumbnail url="https://media.wired.com/photos/6a99abf8b2409d6188eae980/master/w_2560,c_limit/GPT-6-Can-Use-Computer-Better-Than-Human-Business-1015939026.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/">wired.com</a> | <a href="https://openai.com/index/path-to-astra/">source</a> | <a href="https://news.ycombinator.com/item?id=49527595">hacker news</a></small></p><hr/><p>OpenAI has announced GPT-6 Astra, a model capable of navigating computers and web browsers, writing software, and solving complex mathematical problems. The company claims the model can complete tasks such as booking appointments and searching for job listings faster than a human. Access will roll out first to enterprise clients via the Daybreak early access program, followed by ChatGPT Plus, Pro, and Business subscribers.</p><p>OpenAI executives suggested that the model's capabilities may mark the beginning of the artificial general intelligence (AGI) era. The release occurs as the company faces intense competition from rivals like Anthropic and prepares for a potential initial public offering. OpenAI's chief scientist noted that maintaining oversight and ensuring model alignment becomes increasingly difficult as capabilities expand, which may impact the speed of future development.</p><p><img src="https://media.wired.com/photos/6a99abf8b2409d6188eae980/master/w_2560,c_limit/GPT-6-Can-Use-Computer-Better-Than-Human-Business-1015939026.jpg" /></p><hr/><small>4 Sep 2026, 01:38 UTC | #20065</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Unveils GPT-6 Astra with Agentic Capabilities and Enhanced Safety</title>
     <link href="https://www.thedeepview.com/articles/openai-s-astra-leans-into-agentic-tasks-and-safety" rel="alternate" />
