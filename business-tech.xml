@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T21:00:00+00:00</updated>
+  <updated>2026-09-03T21:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Pentagon Maintains Anthropic Supply Chain Risk Designation</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-03/pentagon-says-its-anthropic-ban-is-on-despite-lutnick-remarks" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-03/pentagon-says-its-anthropic-ban-is-on-despite-lutnick-remarks::v238</id>
+    <published>2026-09-03T21:01:00+00:00</published>
+    <updated>2026-09-03T21:01:00+00:00</updated>
+    <media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108277175-17733190771773319074-44522441558-1080pnbcnews.jpg?v=1773319076&amp;w=750&amp;h=422&amp;vtcrop=y" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-03/pentagon-says-its-anthropic-ban-is-on-despite-lutnick-remarks">bloomberg.com</a></small></p><hr/><p>U.S. Under Secretary of Defense for Research and Engineering Emil Michael has stated that Anthropic remains a designated supply chain risk. This position contradicts recent remarks by Commerce Secretary Howard Lutnick, who indicated the company had resolved its long-standing issues with the Trump administration.</p><p>The discrepancy highlights a misalignment between the Department of Commerce and the Department of Defense regarding the security vetting of the AI developer. The designation could potentially impact Anthropic's access to federal contracts and the defense industrial base.</p><p><img src="https://image.cnbcfm.com/api/v1/image/108277175-17733190771773319074-44522441558-1080pnbcnews.jpg?v=1773319076&w=750&h=422&vtcrop=y" /></p><hr/><small>4 Sep 2026, 02:42 UTC | #20074</small>]]></content>
+  </entry>
   <entry>
     <title>Mark Zuckerberg Opposes National AI Regulator in Call with Trump</title>
     <link href="https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843" rel="alternate" />
