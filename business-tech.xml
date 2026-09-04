@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T21:04:00+00:00</updated>
+  <updated>2026-09-03T21:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Adobe Names Anil Chakravarthy as CEO</title>
+    <link href="https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html::v238</id>
+    <published>2026-09-03T21:06:00+00:00</published>
+    <updated>2026-09-03T21:06:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA24RfRr.img?w=1200&amp;h=900&amp;m=4&amp;q=100" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html">cnbc.com</a> | <a href="https://news.adobe.com/news/2026/09/adobe-announces-anil-chakravarthy-to-become-president-and-ceo">source</a></small></p><hr/><p>Adobe has appointed Anil Chakravarthy as its next president and chief executive officer, effective December 1, 2026. Chakravarthy, currently the president of Adobe's customer experience orchestration and worldwide field operations, will succeed Shantanu Narayen, who will transition to the role of executive chair and join the company's board.</p><p>The leadership change comes as Adobe's stock faces downward pressure from investor concerns regarding the potential for artificial intelligence to disrupt the software industry. Narayen, who has served as CEO for 18 years, will work closely with Chakravarthy during the transition period.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA24RfRr.img?w=1200&h=900&m=4&q=100" /></p><hr/><small>4 Sep 2026, 04:09 UTC | #20086</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Commits $1B to Protect Essential Infrastructure</title>
     <link href="https://www.axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models" rel="alternate" />
@@ -957,14 +966,5 @@
     <updated>2026-08-30T04:11:00+00:00</updated>
     <media:thumbnail url="https://www.anthropic.com/_next/image?url=https://www-cdn.anthropic.com/images/4zrzovbb/website/3613f360926fae004521197488623465eb0cd751-1920x1035.png&amp;w=3840&amp;q=75" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dev.to/playfulprogramming/nobody-argued-for-your-stack-51fj">dev.to</a> | <a href="https://lobste.rs/s/hg2lbk/nobody_argued_for_your_stack">discussion</a></small></p><hr/><p>AI-powered agents like Claude and Devin are replacing nuanced technical debate with "industrialized verdicts" in software development. By automating migrations based on patterns in training data, these agents reinforce established libraries and dominant ecosystems, often prioritizing familiarity over technical merit.</p><p>This phenomenon risks creating software monocultures where technologies like React become inescapable because they are overrepresented in AI training sets. Such a trend may strip ecosystems of the competitive pressure required for innovation, making verifiable, public technical analysis more essential than automated code output.</p><p><img src="https://www.anthropic.com/_next/image?url=https://www-cdn.anthropic.com/images/4zrzovbb/website/3613f360926fae004521197488623465eb0cd751-1920x1035.png&w=3840&q=75" /></p><hr/><small>30 Aug 2026, 12:16 UTC | #19573</small>]]></content>
-  </entry>
-  <entry>
-    <title>Older Workers More Positive About Workplace AI Than Gen Z</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings::v237</id>
-    <published>2026-08-30T04:06:00+00:00</published>
-    <updated>2026-08-30T04:06:00+00:00</updated>
-    <media:thumbnail url="https://edubrain.ai/wp-content/uploads/2026/01/1-1.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings">bloomberg.com</a> | <a href="https://www.glassdoor.com/blog/how-workers-feel-about-ai-2026/">source</a></small></p><hr/><p>Glassdoor research shows that workers in their 40s, 50s, and 60s are more optimistic about the use of artificial intelligence in the workplace than Gen Z employees. An analysis of job review comments reveals that nearly half of Gen X workers view company AI implementation positively, compared to roughly one-third of their younger counterparts.</p><p>This generational gap is partly driven by the emergence of new opportunities for senior-level professionals during the AI transition. Despite this disparity, the majority of workers across both age groups remain critical of the technology's impact.</p><p><img src="https://edubrain.ai/wp-content/uploads/2026/01/1-1.png" /></p><hr/><small>30 Aug 2026, 10:34 UTC | #19560</small>]]></content>
   </entry>
 </feed>
