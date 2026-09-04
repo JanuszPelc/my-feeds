@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-03T19:13:00+00:00</updated>
+  <updated>2026-09-03T20:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>23DSP Releases Dualite Multi-Effect Plugin</title>
+    <link href="https://www.kvraudio.com/news/23dsp-releases-dualite---dual-chain-multi-effect-plugin-for-windows-mac-and-linux-68340?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68340" rel="alternate" />
+    <id>https://www.kvraudio.com/news/23dsp-releases-dualite---dual-chain-multi-effect-plugin-for-windows-mac-and-linux-68340?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68340::v238</id>
+    <published>2026-09-03T20:59:00+00:00</published>
+    <updated>2026-09-03T20:59:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/01-overview.1788347069.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/23dsp-releases-dualite---dual-chain-multi-effect-plugin-for-windows-mac-and-linux-68340?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68340">kvraudio.com</a> | <a href="https://23dsp.com/products/dualite/">source</a></small></p><hr/><p>Dualite is a multi-effect plugin for Windows, macOS, and Linux that features two independent effect chains. It allows users to process either the left and right channels or the mid and side of a stereo signal, enabling targeted application of effects like reverb or compression to specific parts of a stereo image.</p><p>The plugin includes 24 effects, allowing up to eight per chain, and offers four modulation slots using LFO, envelope follower, or ADSR. It also features eight host-automatable macros and is priced at €15.</p><p><img src="https://static.kvraudio.com/i/b/01-overview.1788347069.png" /></p><hr/><small>4 Sep 2026, 02:05 UTC | #20082</small>]]></content>
+  </entry>
   <entry>
     <title>ACAS Tools Releases MUSE 5.1.2 MIDI Generator</title>
     <link href="https://www.kvraudio.com/news/acas-tools-releases-muse-5-1-2-midi-generator-for-windows-and-macos-68352?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68352" rel="alternate" />
