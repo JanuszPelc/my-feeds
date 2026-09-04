@@ -3,9 +3,27 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-04T00:53:00+00:00</updated>
+  <updated>2026-09-04T02:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Vals AI Analysis: Multi-Stage AI Tasks Require 10,000 Times More Energy Than Simple Queries</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-03/ai-s-environmental-impact-per-task-balloons-with-more-complexity?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODQ1Mzk2MywiZXhwIjoxNzg5MDU4NzYzLCJhcnRpY2xlSWQiOiJUS1NCV1pSMjRVOFMwMCIsImJjb25uZWN0SWQiOiJGRjMyOTZDMzVFNEI0QTRBQjFFRTVDQzEzQ0YzMUNDQiJ9.8ShIwgSwrkJWvsN5gaj4nXw_Jy9W3gDmfbKFK1Tb6kk" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-03/ai-s-environmental-impact-per-task-balloons-with-more-complexity?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODQ1Mzk2MywiZXhwIjoxNzg5MDU4NzYzLCJhcnRpY2xlSWQiOiJUS1NCV1pSMjRVOFMwMCIsImJjb25uZWN0SWQiOiJGRjMyOTZDMzVFNEI0QTRBQjFFRTVDQzEzQ0YzMUNDQiJ9.8ShIwgSwrkJWvsN5gaj4nXw_Jy9W3gDmfbKFK1Tb6kk::v238</id>
+    <published>2026-09-04T02:11:00+00:00</published>
+    <updated>2026-09-04T02:11:00+00:00</updated>
+    <media:thumbnail url="https://static.digit.in/open-weight-models.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-03/ai-s-environmental-impact-per-task-balloons-with-more-complexity?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODQ1Mzk2MywiZXhwIjoxNzg5MDU4NzYzLCJhcnRpY2xlSWQiOiJUS1NCV1pSMjRVOFMwMCIsImJjb25uZWN0SWQiOiJGRjMyOTZDMzVFNEI0QTRBQjFFRTVDQzEzQ0YzMUNDQiJ9.8ShIwgSwrkJWvsN5gaj4nXw_Jy9W3gDmfbKFK1Tb6kk">bloomberg.com</a> | <a href="https://www.vals.ai/blogs/vals-environmental-impacts-report">source</a></small></p><hr/><p>A Vals AI analysis reveals that performing multi-stage, agentic tasks—such as building a web application—can have an environmental footprint up to 10,000 times greater than simple, single-turn AI queries. These complex workflows require exponentially more energy and water to complete the extended computational processes involved in multi-step tasks.</p><p>As AI usage shifts from basic conversational prompts to autonomous agents performing intricate workflows, the cumulative resource strain on data centers is expected to grow significantly. For example, the computing energy required to complete a single complex task using certain models is equivalent to the amount of electricity used to power a typical household for two and a half hours.</p><p><img src="https://static.digit.in/open-weight-models.png" /></p><hr/><small>4 Sep 2026, 09:21 UTC | #20100</small>]]></content>
+  </entry>
+  <entry>
+    <title>Artificial Beaver Dams Boost Coho Salmon Survival in Northern California</title>
+    <link href="https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california" rel="alternate" />
+    <id>https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california::v238</id>
+    <published>2026-09-04T01:28:00+00:00</published>
+    <updated>2026-09-04T01:28:00+00:00</updated>
+    <media:thumbnail url="https://www.discoverwildlife.com/resources/content/f347d34d-c1a6-4a00-b570-b78c2dcb3211/fd5ffa75-92b9-459b-9465-2f2d37321e0d/a46c8bf5-5196-47de-afc2-b8985d6a6978/French-Creek-coho-salmon.jpeg?preview=false&amp;platform=WEB&amp;deviceId=a4708444-654e-4454-9371-8753e408cd04" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california">discoverwildlife.com</a> | <a href="https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2026.1717337/full">source</a> | <a href="https://news.ycombinator.com/item?id=49552572">hacker news</a></small></p><hr/><p>Artificial dams constructed in the Scott River valley of northern California have significantly increased juvenile coho salmon survival rates and restored lost wetland habitats. Built by the Scott River Watershed Council, these "beaver dam analogues" recreate the slow-moving, cool-water environments typically produced by natural beaver activity, helping to mitigate the impacts of habitat loss and drought.</p><p>In French Creek, juvenile coho survival rates rose from 8% to 60% following the installation of the structures. The artificial dams have created approximately 9,000 square meters of new habitat and have helped maintain healthy adult salmon returns even during severe drought conditions.</p><p><img src="https://www.discoverwildlife.com/resources/content/f347d34d-c1a6-4a00-b570-b78c2dcb3211/fd5ffa75-92b9-459b-9465-2f2d37321e0d/a46c8bf5-5196-47de-afc2-b8985d6a6978/French-Creek-coho-salmon.jpeg?preview=false&platform=WEB&deviceId=a4708444-654e-4454-9371-8753e408cd04" /></p><hr/><small>4 Sep 2026, 09:12 UTC | #20114</small>]]></content>
+  </entry>
   <entry>
     <title>Ray Kurzweil Joins Subsense to Advise on Nanoparticle Brain-Computer Interface</title>
     <link href="https://fortune.com/2026/09/03/ai-visionary-ray-kurzweil-is-joining-a-silicon-valley-startup-developing-a-brain-computer-system-that-involves-snorting-nano-particles/" rel="alternate" />

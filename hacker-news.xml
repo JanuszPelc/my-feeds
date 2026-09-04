@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T00:52:00+00:00</updated>
+  <updated>2026-09-04T01:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Tea☆ Launches Soupvotes Upvote System for Static Blogs</title>
+    <link href="https://qtea.me/posts/souping-up-my-blog/" rel="alternate" />
+    <id>https://qtea.me/posts/souping-up-my-blog/::v238</id>
+    <published>2026-09-04T01:29:00+00:00</published>
+    <updated>2026-09-04T01:29:00+00:00</updated>
+    <media:thumbnail url="https://upvote.net/_next/image?url=/images/blog/get-upvotes-reddit.png&amp;w=1200&amp;q=80" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://qtea.me/posts/souping-up-my-blog/">qtea.me</a> | <a href="https://lobste.rs/s/bgswli/souping_up_my_blog">discussion</a></small></p><hr/><p>The "soupvotes" web service enables upvoting on static websites through a lightweight JavaScript implementation. To prevent abuse and duplicate voting, the service hashes a visitor's IP address with the current year, allowing for a single vote per user per year.</p><p>Originally named "upvaas," the project was renamed to "soupvotes" to avoid confusion with the Hindi word for fasting. The system uses a steaming tea cup icon as a voting indicator, providing a simple way for creators of static sites to gauge reader engagement without the complexity of a full content management system.</p><p><img src="https://upvote.net/_next/image?url=/images/blog/get-upvotes-reddit.png&w=1200&q=80" /></p><hr/><small>4 Sep 2026, 09:18 UTC | #20117</small>]]></content>
+  </entry>
   <entry>
     <title>Jim Nielsen Critiques Uptime Percentages in Service Status Pages</title>
     <link href="https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/" rel="alternate" />
@@ -973,23 +982,5 @@
     <updated>2026-08-30T09:40:00+00:00</updated>
     <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/918291860/original/184db9d2f4/1?v=1" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.rust-lang.org/inside-rust/2026/08/19/overloading-experiment/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/rikfb5/rust_function_overloading_call_for">discussion</a></small></p><hr/><p>Rust is testing a method for function overloading in FFI bindings to improve ergonomics when calling C++ from Rust. Using the `#[rustc_splat]` attribute in nightly builds, developers can call overloaded functions with separate arguments instead of being required to pass them as a single tuple.</p><p>This initiative, supported by the Rust Foundation's Rust-C++ Interop Initiative, aims to evaluate how overloading affects the language's type system and developer experience. While the current implementation is an unstable experiment, future designs may introduce a more intuitive `#[overload]` attribute to better facilitate multi-language interoperability.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/918291860/original/184db9d2f4/1?v=1" /></p><hr/><small>30 Aug 2026, 14:22 UTC | #19584</small>]]></content>
-  </entry>
-  <entry>
-    <title>Verschlimmbesserung: Why Software Updates Can Make Products Worse</title>
-    <link href="https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/" rel="alternate" />
-    <id>https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/::v237</id>
-    <published>2026-08-30T09:31:00+00:00</published>
-    <updated>2026-08-30T09:31:00+00:00</updated>
-    <media:thumbnail url="https://threataft.com/images/windows-update-backup-failure.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/">geekyschmidt.com</a> | <a href="https://news.ycombinator.com/item?id=49479072">hacker news</a></small></p><hr/><p>Verschlimmbesserung is a German term describing an attempted improvement that results in a worse outcome. In software development, this often manifests as updates that disrupt established workflows or change user interfaces without providing meaningful value to the user.</p><p>These suboptimal updates are often driven by misaligned organizational metrics that reward release frequency and shipping velocity over product stability. When engineering teams are incentivized to prioritize constant delivery over functional utility, they optimize for the metrics provided rather than the actual user experience.</p><p><img src="https://threataft.com/images/windows-update-backup-failure.jpg" /></p><hr/><small>30 Aug 2026, 14:07 UTC | #19583</small>]]></content>
-  </entry>
-  <entry>
-    <title>TurboKV: An Async Embedded Key-Value Store for Rust</title>
-    <link href="https://github.com/kingroryg/turbokv" rel="alternate" />
-    <id>https://github.com/kingroryg/turbokv::v237</id>
-    <published>2026-08-30T09:29:00+00:00</published>
-    <updated>2026-08-30T09:29:00+00:00</updated>
-    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSCI1Sxmo3niwqPE78-0254dnsG5ToOiv8GjBEbttC1w2mXfBGbOnT8dFQsJ2T2ZyFOOjtgbScTucKL_VP8eVaf7PRJTQrFWR3GZ3WZkaW06fpv04kUJgUf_sdTQ2on3-Odqk_igXjUM2fOXOXoGiBogjfM6EUG7LOw751M-fg1xhr7hykOKwHEONcP-s/w640-h392/x.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/kingroryg/turbokv">github.com</a> | <a href="https://news.ycombinator.com/item?id=49486334">hacker news</a></small></p><hr/><p>TurboKV is an asynchronous, embedded key-value database implemented in Rust. It supports atomic write batches, ordered range scans, and background compaction, with data stored using LZ4, Snappy, or Zstd compression.</p><p>The engine provides configurable durability settings through a write-ahead log (WAL), ranging from in-memory visibility to synchronous disk synchronization. It also utilizes hardware-accelerated AES for its Bloom-filter format and allows for various configuration options regarding memory, cache, and compaction.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSCI1Sxmo3niwqPE78-0254dnsG5ToOiv8GjBEbttC1w2mXfBGbOnT8dFQsJ2T2ZyFOOjtgbScTucKL_VP8eVaf7PRJTQrFWR3GZ3WZkaW06fpv04kUJgUf_sdTQ2on3-Odqk_igXjUM2fOXOXoGiBogjfM6EUG7LOw751M-fg1xhr7hykOKwHEONcP-s/w640-h392/x.png" /></p><hr/><small>30 Aug 2026, 13:54 UTC | #19582</small>]]></content>
   </entry>
 </feed>
