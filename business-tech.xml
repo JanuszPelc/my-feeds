@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-04T01:26:00+00:00</updated>
+  <updated>2026-09-04T04:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Wikimedia Foundation Workers Vote to Unionize</title>
+    <link href="https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/" rel="alternate" />
+    <id>https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/::v238</id>
+    <published>2026-09-04T04:23:00+00:00</published>
+    <updated>2026-09-04T04:23:00+00:00</updated>
+    <media:thumbnail url="https://wikimediafoundation.org/wp-content/uploads/2025/10/green_wmf_logo.png?resize=768" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/">wired.com</a> | <a href="https://wikimediafoundation.org/news/2026/09/03/us-staff-unionization-vote/">source</a> | <a href="https://news.ycombinator.com/item?id=49559262">hacker news</a></small></p><hr/><p>More than 200 employees at the Wikimedia Foundation have voted to join the Communications Workers of America labor union. The 158-14 vote marks the first time staffers at the nonprofit organization behind Wikipedia have unionized.</p><p>Organizers cited management's lack of transparency regarding hiring, firing, and the disbanding of technical teams as key motivators for the drive. The decision follows a period of organizational growth and comes amid competition from AI models scraping Wikipedia data and declining human traffic to its platforms.</p><p><img src="https://wikimediafoundation.org/wp-content/uploads/2025/10/green_wmf_logo.png?resize=768" /></p><hr/><small>4 Sep 2026, 10:13 UTC | #20101</small>]]></content>
+  </entry>
   <entry>
     <title>Tesla Offers Cybercab Rides in Selected Austin Areas</title>
     <link href="https://www.reuters.com/business/autos-transportation/teslas-cybercab-event-set-thursday-with-few-details-2026-09-03/" rel="alternate" />
