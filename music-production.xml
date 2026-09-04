@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-04T13:18:00+00:00</updated>
+  <updated>2026-09-04T13:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>dBdone Releases Wasser Free Multiband Delay Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/09/04/dbdone-wasser/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/04/dbdone-wasser/::v238</id>
+    <published>2026-09-04T13:19:00+00:00</published>
+    <updated>2026-09-04T13:19:00+00:00</updated>
+    <media:thumbnail url="https://img.audiofanzine.com/images/u/fr/news/cover/dbdone-met-a-disposition-glas-81449.png" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/04/dbdone-wasser/">bedroomproducersblog.com</a> | <a href="https://dbdone.substack.com/p/free-plugin-number-three-wasser">source</a> | <a href="https://bedroomproducersblog.com/2026/09/04/dbdone-wasser/#respond">discussion</a></small></p><hr/><p>dBdone has released Wasser, a free multiband delay plugin compatible with macOS and Windows. The plugin splits incoming signals into frequency bands, allowing users to manually draw different delay times for each band on a grid to create rhythmic groove and swing.</p><p>Designed to prevent percussion and drums from sounding static, the tool provides more timing variation than traditional single-delay lines. It is available in VST3, Audio Unit, and AAX formats.</p><p><img src="https://img.audiofanzine.com/images/u/fr/news/cover/dbdone-met-a-disposition-glas-81449.png" /></p><hr/><small>4 Sep 2026, 17:29 UTC | #20146</small>]]></content>
+  </entry>
   <entry>
     <title>Yurt Rock Releases Pick Pocket Audio-to-MIDI Drum Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/09/04/yurt-rock-pick-pocket/" rel="alternate" />
