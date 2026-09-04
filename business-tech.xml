@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T21:01:00+00:00</updated>
+  <updated>2026-09-03T21:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Crusoe Signs ~$13B AI Cloud Deal with Jane Street</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-03/crusoe-signs-roughly-13-billion-ai-cloud-deal-with-jane-street" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-03/crusoe-signs-roughly-13-billion-ai-cloud-deal-with-jane-street::v238</id>
+    <published>2026-09-03T21:03:00+00:00</published>
+    <updated>2026-09-03T21:03:00+00:00</updated>
+    <media:thumbnail url="https://www.briefs.co/wp-content/uploads/2026/09/crusoe-lands-about-13-billion-ai-cloud-deal-with-jane-street-1024x683.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-03/crusoe-signs-roughly-13-billion-ai-cloud-deal-with-jane-street">bloomberg.com</a></small></p><hr/><p>Crusoe has entered into a five-year agreement valued at approximately $13 billion with Jane Street to provide AI computing infrastructure. The deal involves supplying Jane Street with GPU clusters and other hardware via Crusoe’s cloud platform to support AI training and inference workloads.</p><p>The data center provider currently serves several major technology companies, including Meta Platforms Inc. and Oracle Corp. This large-scale agreement highlights the significant capital expenditures and infrastructure demand driving the current AI market.</p><p><img src="https://www.briefs.co/wp-content/uploads/2026/09/crusoe-lands-about-13-billion-ai-cloud-deal-with-jane-street-1024x683.png" /></p><hr/><small>4 Sep 2026, 03:30 UTC | #20080</small>]]></content>
+  </entry>
   <entry>
     <title>Pentagon Maintains Anthropic Supply Chain Risk Designation</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-03/pentagon-says-its-anthropic-ban-is-on-despite-lutnick-remarks" rel="alternate" />
