@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-03T19:43:00+00:00</updated>
+  <updated>2026-09-03T21:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI's GPT-6 Astra Surpasses Human Efficiency on ARC-AGI-3</title>
+    <link href="https://arcprize.org/blog/astra" rel="alternate" />
+    <id>https://arcprize.org/blog/astra::v238</id>
+    <published>2026-09-03T21:02:00+00:00</published>
+    <updated>2026-09-03T21:02:00+00:00</updated>
+    <media:thumbnail url="https://arcprize.org/media/images/blog/astra-arc-agi-3-leaderboard.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arcprize.org/blog/astra">arcprize.org</a> | <a href="https://arcprize.org/results/openai-gpt-6-astra">source</a> | <a href="https://news.ycombinator.com/item?id=49555691">hacker news</a></small></p><hr/><p>OpenAI's GPT-6 Astra achieved a 99.9% score on the ARC-AGI-3 benchmark using a Provider Adapter harness and 62.7% with a Standard harness. The model surpassed the human baseline in action efficiency, requiring fewer actions than the median human participant on 96% of the levels.</p><p>The model demonstrated the ability to develop compact, symbolic algebraic notation to track object states, coordinates, and multi-step plans. This allows Astra to construct internal world models of unfamiliar environments to facilitate planning and execution.</p><p><img src="https://arcprize.org/media/images/blog/astra-arc-agi-3-leaderboard.png" /></p><hr/><small>4 Sep 2026, 03:18 UTC | #20077</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft AI Launches MAI-Transcribe-2 Speech Recognition Model</title>
     <link href="https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed" rel="alternate" />
