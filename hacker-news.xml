@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T19:15:00+00:00</updated>
+  <updated>2026-09-04T19:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>OpenTrailPaper: DIY E-Paper Bike Computer Firmware for LilyGO T5S3</title>
+    <link href="https://opentrailpaper.com" rel="alternate" />
+    <id>https://opentrailpaper.com::v238</id>
+    <published>2026-09-04T19:17:00+00:00</published>
+    <updated>2026-09-04T19:17:00+00:00</updated>
+    <media:thumbnail url="https://opentrailpaper.com/img/dashboard.png?v=2" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://opentrailpaper.com">opentrailpaper.com</a> | <a href="https://github.com/RaemondBW/OpenTrailPaper">source</a> | <a href="https://news.ycombinator.com/item?id=49567437">hacker news</a></small></p><hr/><p>This firmware for the LilyGO T5S3 4.7" E-Paper PRO enables DIY bike computer functionality, including GPS tracking, offline map navigation, and FIT file recording. The software supports GPX routes, structured workouts, and Bluetooth connectivity for heart-rate and power sensors.</p><p>A companion iOS app is used for route planning, offline map construction, and firmware updates. Current development limitations include the lack of a barometer, magnetometer, and waterproofing, with an estimated battery life of approximately eight hours.</p><p><img src="https://opentrailpaper.com/img/dashboard.png?v=2" /></p><hr/><small>4 Sep 2026, 23:07 UTC | #20191</small>]]></content>
+  </entry>
   <entry>
     <title>IBM Launches IBM Bob AI Development Partner</title>
     <link href="https://bob.ibm.com/" rel="alternate" />
@@ -910,32 +919,5 @@
     <updated>2026-08-31T04:11:00+00:00</updated>
     <media:thumbnail url="https://webdade.com/blog/wp-content/uploads/2025/10/httpd-service-failed-to-start-error2.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nemin.hu/httpd-macros/index.html">nemin.hu</a> | <a href="https://lobste.rs/s/uueocw/repeating_ourselves_less_with_m4">discussion</a></small></p><hr/><p>m4 macro processing and sed can automate the generation of OpenBSD httpd configuration files. Defining reusable templates for common directives—including TLS settings, ACME challenges, and header sets—replaces repetitive configuration blocks with concise, maintainable macro calls.</p><p>m4's recursive evaluation can incorrectly treat commas in arguments as separators, leading to broken configuration. A sed pipeline used to temporarily replace commas with unique placeholders ensures correct expansion for complex, multi-parameter macros. This approach demonstrates the Unix philosophy of using small, pre-installed tools to construct custom automation pipelines.</p><p><img src="https://webdade.com/blog/wp-content/uploads/2025/10/httpd-service-failed-to-start-error2.webp" /></p><hr/><small>31 Aug 2026, 08:30 UTC | #19647</small>]]></content>
-  </entry>
-  <entry>
-    <title>Dekoodaaja Provides Fast QOI Image Decoders</title>
-    <link href="https://github.com/sorvi-platform/dekoodaaja" rel="alternate" />
-    <id>https://github.com/sorvi-platform/dekoodaaja::v237</id>
-    <published>2026-08-30T22:59:00+00:00</published>
-    <updated>2026-08-30T22:59:00+00:00</updated>
-    <media:thumbnail url="https://media.geeksforgeeks.org/wp-content/uploads/decoder-2x4.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/sorvi-platform/dekoodaaja">github.com</a> | <a href="https://lobste.rs/s/wdke4a/small_reasonably_fast_qoi_decoder">discussion</a></small></p><hr/><p>Dekoodaaja is a software library designed to provide high-performance decoders for various image formats, with current support limited to the QOI (Quite OK Image) format. The project focuses on maximizing throughput and minimizing latency during the decoding process.</p><p>Performance benchmarks conducted on an AMD Ryzen 7 3700X indicate that Dekoodaaja outperforms several existing QOI implementations, such as qoi-simd and zig-qoi, in both read/write speeds and execution time. The library demonstrates significant throughput advantages across different optimization settings, including ReleaseFast and ReleaseSmall builds.</p><p><img src="https://media.geeksforgeeks.org/wp-content/uploads/decoder-2x4.jpg" /></p><hr/><small>31 Aug 2026, 06:01 UTC | #19640</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Warns of Infostealer Malware Hijacking Claude Sessions</title>
-    <link href="https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/" rel="alternate" />
-    <id>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/::v237</id>
-    <published>2026-08-30T22:56:00+00:00</published>
-    <updated>2026-08-30T22:56:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E12AQHdeWA3YRWplg/article-cover_image-shrink_720_1280/B4EZ2HRd7NGcAI-/0/1776091001767?e=2147483647&amp;v=beta&amp;t=2OmId0TCCrq_gUCW6QuV_mc4XlJ8qbqbbz4OteLIEq4" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/">bleepingcomputer.com</a></small></p><hr/><p>Attackers are using infostealer malware to hijack active Claude login sessions, allowing them to bypass authentication and consume account usage, according to Anthropic. This malware typically arrives through malicious downloads or pirated software, stealing authenticated browser session tokens to grant access without requiring passwords or two-factor authentication.</p><p>Identified malware families include Vidar, LummaC2, StealC, RedLine, Acreed, and Atomic Stealer. Anthropic is responding by revoking compromised sessions, removing saved payment methods, and refunding unauthorized charges. The malware is general-purpose software that collects local credentials and is not a vulnerability within the Claude platform itself.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E12AQHdeWA3YRWplg/article-cover_image-shrink_720_1280/B4EZ2HRd7NGcAI-/0/1776091001767?e=2147483647&v=beta&t=2OmId0TCCrq_gUCW6QuV_mc4XlJ8qbqbbz4OteLIEq4" /></p><hr/><small>31 Aug 2026, 05:01 UTC | #19619</small>]]></content>
-  </entry>
-  <entry>
-    <title>Omniflake Bundles 12,000 Nix Flakes Into a Single Input</title>
-    <link href="https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all" rel="alternate" />
-    <id>https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all::v237</id>
-    <published>2026-08-30T22:55:00+00:00</published>
-    <updated>2026-08-30T22:55:00+00:00</updated>
-    <media:thumbnail url="https://fzakaria.com/assets/images/two_buttons_omniflake.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all">fzakaria.com</a> | <a href="https://github.com/fzakaria/omniflake">source</a> | <a href="https://lobste.rs/s/qjbw27/one_flake_rule_them_all">discussion</a> | <a href="https://news.ycombinator.com/item?id=49497712">hacker news</a></small></p><hr/><p>By consolidating nearly 12,000 Nix flakes into a single, lazy-loaded input, Omniflake allows users to access packages, overlays, and NixOS modules with a single dependency. This method avoids the version duplication and complex management of multiple flake inputs that often complicate larger Nix setups.</p><p>The tool addresses performance issues in large Nix dependency graphs by avoiding the declaration of thousands of direct inputs in a `flake.lock` file. By using a JSONL index of pins to fetch and evaluate specific flakes on demand, it provides a centralized experience while preserving the benefits of the Nix ecosystem's federated nature.</p><p><img src="https://fzakaria.com/assets/images/two_buttons_omniflake.png" /></p><hr/><small>31 Aug 2026, 04:06 UTC | #19636</small>]]></content>
   </entry>
 </feed>
