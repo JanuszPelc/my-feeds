@@ -992,13 +992,4 @@
     <media:thumbnail url="https://gram-editor.com/ferra.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://gram-editor.com/posts/release-3.3.0/">gram-editor.com</a> | <a href="https://lobste.rs/s/rr2irk/gram_editor_3_3_0_released">discussion</a></small></p><hr/><p>Gram Editor version 3.3.0 introduces updates to the git panel and history views, including new branch picker filters and improved line counting. The release also implements smoother scrolling via exponential smoothing, enhances Supertab completion, and adds support for loading extensions from a system package manager.</p><p>This update includes various bug fixes and performance improvements, such as the removal of private macOS APIs and dropped support for macOS versions earlier than 12. Additionally, the Markdown preview has seen a reduction in HTML support, and font selection has transitioned to using cosmic-text.</p><p><img src="https://gram-editor.com/ferra.png" /></p><hr/><small>30 Aug 2026, 13:15 UTC | #19578</small>]]></content>
   </entry>
-  <entry>
-    <title>State of the Map 2026 Conference Scheduled for Paris</title>
-    <link href="https://2026.stateofthemap.org/" rel="alternate" />
-    <id>https://2026.stateofthemap.org/::v237</id>
-    <published>2026-08-30T05:18:00+00:00</published>
-    <updated>2026-08-30T05:18:00+00:00</updated>
-    <media:thumbnail url="https://blog.openstreetmap.org/wp-content/uploads/2026/02/sotm_2026_header.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://2026.stateofthemap.org/">2026.stateofthemap.org</a> | <a href="https://news.ycombinator.com/item?id=49478401">hacker news</a></small></p><hr/><p>The annual event for OpenStreetMap users and mappers, State of the Map 2026, is scheduled for August 28–30, 2026. The conference will be held both in-person at Cité Descartes in Paris and online for remote participants.</p><p>The three-day program will feature a variety of talks, workshops, and discussion rounds. Virtual attendees will have access to live streams and interactive breakout rooms.</p><p><img src="https://blog.openstreetmap.org/wp-content/uploads/2026/02/sotm_2026_header.jpg" /></p><hr/><small>30 Aug 2026, 13:06 UTC | #19577</small>]]></content>
-  </entry>
 </feed>
