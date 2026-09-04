@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-04T08:43:00+00:00</updated>
+  <updated>2026-09-04T11:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>ABYZOR Genesis Updated to v2.1</title>
+    <link href="https://www.kvraudio.com/news/abyzor-updates-free-abyzor-genesis-to-v2-1-68367?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68367" rel="alternate" />
+    <id>https://www.kvraudio.com/news/abyzor-updates-free-abyzor-genesis-to-v2-1-68367?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68367::v238</id>
+    <published>2026-09-04T11:59:00+00:00</published>
+    <updated>2026-09-04T11:59:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/1.1788462915.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/abyzor-updates-free-abyzor-genesis-to-v2-1-68367?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68367">kvraudio.com</a> | <a href="https://abyzor.space/genesis/changelog/">source</a></small></p><hr/><p>ABYZOR has released version 2.1 of its free Genesis MIDI generator for Windows and macOS. This update introduces a "BLOCKS" workflow for creating structured call-and-response musical phrases and a "REFINE" function to transform existing patterns into more developed musical ideas.</p><p>The "BLOCKS" mode enables users to split loops into sections with different harmonic directions, allowing for the independent regeneration of specific musical blocks. Other enhancements include adaptive "REFINE" for ABAC-style structures, grid-aware generation aligned to a 0.25-beat grid, and real-time preview updates during playback.</p><p><img src="https://static.kvraudio.com/i/b/1.1788462915.png" /></p><hr/><small>4 Sep 2026, 14:22 UTC | #20119</small>]]></content>
+  </entry>
+  <entry>
+    <title>W. A. Production Releases Supra Hybrid Granular Synthesizer</title>
+    <link href="https://www.kvraudio.com/news/w-a-production-releases-supra-hybrid-granular-synthesizer-vst3-au-and-aax-68378?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68378" rel="alternate" />
+    <id>https://www.kvraudio.com/news/w-a-production-releases-supra-hybrid-granular-synthesizer-vst3-au-and-aax-68378?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68378::v238</id>
+    <published>2026-09-04T11:58:00+00:00</published>
+    <updated>2026-09-04T11:58:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/supra_1920x1080.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/w-a-production-releases-supra-hybrid-granular-synthesizer-vst3-au-and-aax-68378?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68378">kvraudio.com</a> | <a href="https://www.waproduction.com/plugins/view/supra">source</a></small></p><hr/><p>W. A. Production has released Supra, a hybrid granular synthesizer for macOS and Windows supporting VST3, AU, and AAX formats. Developed in collaboration with Algebra Within and darkInteger, the plugin integrates analog-modeled oscillation and high-frequency FM with granular processing, morphing filters, and pitch-shifting delay.</p><p>The instrument features a sample-synchronized granular engine, a multi-randomizer system, and a state variable morphing filter. An introductory price of $14.90 is available until September 24, 2026, before returning to the standard retail price of $59.90.</p><p><img src="https://static.kvraudio.com/i/b/supra_1920x1080.jpg" /></p><hr/><small>4 Sep 2026, 14:20 UTC | #20120</small>]]></content>
+  </entry>
   <entry>
     <title>artcode DAW 2.0 Adds VST3 Hosting and Windows Support</title>
     <link href="https://www.kvraudio.com/news/artcode-releases-artcode-daw-2-0---adds-vst3-hosting-and-a-windows-build-68373?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68373" rel="alternate" />
