@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T19:09:00+00:00</updated>
+  <updated>2026-09-03T21:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Mark Zuckerberg Opposes National AI Regulator in Call with Trump</title>
+    <link href="https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843" rel="alternate" />
+    <id>https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843::v238</id>
+    <published>2026-09-03T21:00:00+00:00</published>
+    <updated>2026-09-03T21:00:00+00:00</updated>
+    <media:thumbnail url="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/931/523/mark-zuckerberg-white-house-dinner.png?ve=1&amp;tl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/09/03/mark-zuckerberg-said-a-national-ai-regulator-was-a-flawed-idea-in-a-secret-call-with-president-trump-01063843">politico.com</a></small></p><hr/><p>Meta CEO Mark Zuckerberg told President Trump that establishing a national AI regulator in the United States would be a "flawed idea" during a private phone call last month.</p><p>The conversation highlights a potential alignment between major tech companies and the administration's deregulatory approach to artificial intelligence. While Zuckerberg expressed concerns regarding centralized oversight, sources indicate he did not use the call to ask the President to change his stance on the matter.</p><p><img src="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/02/931/523/mark-zuckerberg-white-house-dinner.png?ve=1&tl=1" /></p><hr/><small>4 Sep 2026, 02:17 UTC | #20069</small>]]></content>
+  </entry>
   <entry>
     <title>Abliteration.ai Launches Service to Remove AI Guardrails from Open-Weight Models</title>
     <link href="https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/" rel="alternate" />
