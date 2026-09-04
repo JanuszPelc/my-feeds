@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T21:03:00+00:00</updated>
+  <updated>2026-09-03T21:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Commits $1B to Protect Essential Infrastructure</title>
+    <link href="https://www.axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models" rel="alternate" />
+    <id>https://www.axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models::v238</id>
+    <published>2026-09-03T21:04:00+00:00</published>
+    <updated>2026-09-03T21:04:00+00:00</updated>
+    <media:thumbnail url="https://img-api.mac4ever.com/1200/0/73762b76b1_openai-daybreak.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models">axios.com</a> | <a href="https://openai.com/index/daybreak-for-frontline-defenders/">source</a></small></p><hr/><p>OpenAI is dedicating $1 billion toward a new initiative to provide subsidized access to its models, training, and technical support to organizations protecting essential services. The commitment aims to bolster the cybersecurity and resilience of global infrastructure through direct assistance and partnerships.</p><p>The program is specifically designed to assist entities such as water systems, electricity providers, and local governments in defending against AI-driven cyberattacks. By lowering the cost and technical barriers to advanced AI, OpenAI seeks to secure the systems most vital to public safety and societal stability.</p><p><img src="https://img-api.mac4ever.com/1200/0/73762b76b1_openai-daybreak.webp" /></p><hr/><small>4 Sep 2026, 03:43 UTC | #20079</small>]]></content>
+  </entry>
   <entry>
     <title>Crusoe Signs ~$13B AI Cloud Deal with Jane Street</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-03/crusoe-signs-roughly-13-billion-ai-cloud-deal-with-jane-street" rel="alternate" />
