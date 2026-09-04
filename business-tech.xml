@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-04T18:48:00+00:00</updated>
+  <updated>2026-09-04T18:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple Names John Ternus CEO as Nvidia Expands AI Presence</title>
+    <link href="https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/" rel="alternate" />
+    <id>https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/::v238</id>
+    <published>2026-09-04T18:49:00+00:00</published>
+    <updated>2026-09-04T18:49:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1VhJOv.img?w=768&amp;h=548&amp;m=6&amp;x=444&amp;y=131&amp;s=82&amp;d=82" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/">techcrunch.com</a></small></p><hr/><p>Tim Cook is transitioning to Executive Chairman at Apple, leaving CEO duties to John Ternus. Meanwhile, Nvidia is aggressively expanding across the AI stack, including a $12.9 billion acquisition of Hugging Face and investments in MediaTek.</p><p>The robotaxi market is seeing intensified competition between Tesla, Waymo, and Zoox. Additionally, Andreessen Horowitz has launched a $1.1 billion "Machine Age" fund targeting AI hardware, and GoPro is set to be acquired for $285 million.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1VhJOv.img?w=768&h=548&m=6&x=444&y=131&s=82&d=82" /></p><hr/><small>4 Sep 2026, 21:21 UTC | #20167</small>]]></content>
+  </entry>
   <entry>
     <title>Strike 3 Holdings Alleges Meta Executive is Prolific Torrent Pirate</title>
     <link href="https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/" rel="alternate" />
