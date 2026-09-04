@@ -257,13 +257,4 @@
     <media:thumbnail url="https://assets.sfstandard.com/image/994911177489/image_ref658j2jl2lve21g3i8j1ni62/-S3840x5671-FPNG" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/">sfstandard.com</a> | <a href="https://news.ycombinator.com/item?id=49494151">hacker news</a></small></p><hr/><p>Burning Man co-founder John Law argues the festival has transitioned from a spontaneous, collaborative gathering into a commercialized, hierarchical spectacle. He characterizes the modern event as a high-priced "carnival" for the wealthy and Silicon Valley elite, contrasting it with the non-hierarchical "Temporary Autonomous Zone" of its origins in the late 1980s.</p><p>The critique traces the festival's evolution from the Cacophony Society's desert expeditions to its current state of luxury camps and professionalized management. Law suggests that while the event remains a significant immersive experience for many, it has increasingly been absorbed into the capitalist celebrity-entertainment complex.</p><p><img src="https://assets.sfstandard.com/image/994911177489/image_ref658j2jl2lve21g3i8j1ni62/-S3840x5671-FPNG" /></p><hr/><small>30 Aug 2026, 16:37 UTC | #19596</small>]]></content>
   </entry>
-  <entry>
-    <title>Longest Straight-Line Paths on Water and Land on Earth</title>
-    <link href="https://arxiv.org/abs/1804.07389" rel="alternate" />
-    <id>https://arxiv.org/abs/1804.07389::v237</id>
-    <published>2026-08-30T09:51:00+00:00</published>
-    <updated>2026-08-30T09:51:00+00:00</updated>
-    <media:thumbnail url="https://www.boardinfinity.com/blog/content/images/2023/02/Branch-and-Bound-Algo-1.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arxiv.org/abs/1804.07389">arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=49496782">hacker news</a></small></p><hr/><p>The study presents a methodology for determining the longest straight-line distances achievable on Earth's oceans without hitting land, and on land without encountering major water bodies. The optimization process is made complex by the fractal geometry of coasts and the existence of numerous islands and lakes.</p><p>The authors employ a branch-and-bound algorithm to solve these optimization challenges. This method identifies a record-setting ocean path of approximately 32,090.3 kilometers, stretching from Pakistan to Russia.</p><p><img src="https://www.boardinfinity.com/blog/content/images/2023/02/Branch-and-Bound-Algo-1.png" /></p><hr/><small>30 Aug 2026, 15:43 UTC | #19591</small>]]></content>
-  </entry>
 </feed>
