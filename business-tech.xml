@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Productrise Study: Google AI Mode Displays Higher Prices for Matched Products</title>
+    <link href="https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products" rel="alternate" />
+    <id>https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products::v238</id>
+    <published>2026-09-04T12:10:00+00:00</published>
+    <updated>2026-09-04T12:10:00+00:00</updated>
+    <media:thumbnail url="https://cdn.margabagus.com/2026/02/perbandingan-google-biasa-vs-ai-mode.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products">productrise.app</a> | <a href="https://news.ycombinator.com/item?id=49563386">hacker news</a></small></p><hr/><p>A study conducted by Productrise found that Google AI Mode displays products at significantly higher prices than traditional search. When comparing identical products, AI Mode prices were 21.6% higher on average. The research, which analyzed over 2 million listings, showed that AI Mode tends to surface more expensive inventory, with a median price of $149 compared to $100 in traditional search.</p><p>The investigation revealed minimal overlap between the two search formats, with only 1.28% of products from traditional search appearing in AI Mode for the same query. Furthermore, AI Mode recommended a different primary seller in nearly 50% of matched cases. These findings suggest that AI-driven search interfaces may prioritize different inventory or merchant data, potentially altering how consumers discover and compare prices.</p><p><img src="https://cdn.margabagus.com/2026/02/perbandingan-google-biasa-vs-ai-mode.jpg" /></p><hr/><small>4 Sep 2026, 16:03 UTC | #20163</small>]]></content>
+  </entry>
+  <entry>
     <title>Wikimedia Foundation Workers Vote to Unionize</title>
     <link href="https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/" rel="alternate" />
     <id>https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/::v238</id>
@@ -922,14 +931,5 @@
     <updated>2026-08-30T16:14:00+00:00</updated>
     <media:thumbnail url="https://discoveryalert.com.au/wp-content/uploads/2026/01/ec4551c5-1451-4997-8acb-822c0606e01f-2048x1143.jpg" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/">techcrunch.com</a></small></p><hr/><p>Caterpillar is applying its experience in autonomous mining to scale artificial intelligence across more dynamic environments like construction sites and quarries. Key initiatives include the Cat AI Assistant for field technicians, the use of AI to create digital twins in manufacturing, and the deployment of AI agents to modernize legacy software code.</p><p>To support this transition, the company plans to invest $100 million over five years to train 118,000 employees in autonomy and robotics. This expansion comes as Caterpillar reports record quarterly revenue of $20.5 billion, fueled by high demand for power-generation equipment for data center infrastructure.</p><p><img src="https://discoveryalert.com.au/wp-content/uploads/2026/01/ec4551c5-1451-4997-8acb-822c0606e01f-2048x1143.jpg" /></p><hr/><small>30 Aug 2026, 20:13 UTC | #19592</small>]]></content>
-  </entry>
-  <entry>
-    <title>EU's ProtectEU Strategy Proposes Framework for Lawful Access to Encrypted Data</title>
-    <link href="https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement" rel="alternate" />
-    <id>https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement::v237</id>
-    <published>2026-08-30T16:05:00+00:00</published>
-    <updated>2026-08-30T16:05:00+00:00</updated>
-    <media:thumbnail url="https://hikarinova.com/_next/image?url=https://smispdowpzjzcroroszx.supabase.co/storage/v1/object/public/blog/what-is-an-encryption-backdoor-and-why-is-it-important/c258dd8349aa8d89.webp&amp;w=1920&amp;q=75" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement">reclaimthenet.org</a> | <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_25_920">source</a> | <a href="https://news.ycombinator.com/item?id=49499394">hacker news</a></small></p><hr/><p>The European Commission's ProtectEU strategy outlines a long-term vision for internal security, including technological solutions for lawful access to encrypted data. This initiative aims to equip law enforcement with tools to combat threats from organized crime, terrorism, and hostile states.</p><p>The roadmap proposes increased intelligence sharing through the Single Intelligence Analysis Capacity (SIAC) and expanded operational powers for EUROPOL to facilitate large-scale, cross-border investigations. While the Commission maintains the plan will protect fundamental rights, critics warn that creating such access mechanisms may create vulnerabilities for unauthorized actors.</p><p><img src="https://hikarinova.com/_next/image?url=https://smispdowpzjzcroroszx.supabase.co/storage/v1/object/public/blog/what-is-an-encryption-backdoor-and-why-is-it-important/c258dd8349aa8d89.webp&w=1920&q=75" /></p><hr/><small>30 Aug 2026, 18:28 UTC | #19605</small>]]></content>
   </entry>
 </feed>

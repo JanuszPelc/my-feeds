@@ -947,31 +947,4 @@
     <media:thumbnail url="https://www.easeus.com/images/en/data-recovery/drw-pro/micro-sd-card-recovery.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hackaday.com/2026/08/28/reviving-an-sd-card-with-shorted-capacitors/">hackaday.com</a> | <a href="https://aesonlabs.ca/blogs/monolithic-sd-card-data-recovery-a-hands-on-case-study/">source</a> | <a href="https://lobste.rs/s/s8x8xq/reviving_sd_card_with_shorted_capacitors">discussion</a></small></p><hr/><p>A 32 GB monolithic SD card experiencing a short between the supply rail and ground was successfully revived by removing two internal shorted capacitors. Due to the card's monolithic construction, which lacks exposed surface-mount components, technicians utilized thermal imaging and X-ray inspection to locate the failed passives within the package.</p><p>Removing the capacitors resolved the power rail short and restored the card to functional status. This procedure demonstrates that data recovery remains possible in sealed, monolithic storage devices through component-level diagnostic imaging and precise material removal.</p><p><img src="https://www.easeus.com/images/en/data-recovery/drw-pro/micro-sd-card-recovery.png" /></p><hr/><small>30 Aug 2026, 19:48 UTC | #19609</small>]]></content>
   </entry>
-  <entry>
-    <title>Curvature-Aware Bezier Curves for Improved Editing</title>
-    <link href="https://acko.net/blog/curvature-beziers/" rel="alternate" />
-    <id>https://acko.net/blog/curvature-beziers/::v237</id>
-    <published>2026-08-30T16:08:00+00:00</published>
-    <updated>2026-08-30T16:08:00+00:00</updated>
-    <media:thumbnail url="https://i.stack.imgur.com/vu6KW.gif" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://acko.net/blog/curvature-beziers/">acko.net</a> | <a href="https://lobste.rs/s/r7kppl/curvature_beziers">discussion</a> | <a href="https://news.ycombinator.com/item?id=49422743">hacker news</a></small></p><hr/><p>Standard Bezier curve editing uses symmetric or asymmetric tangents to manage smoothness, but these settings fail to guarantee continuous curvature. This article proposes a system of curvature-aware handles, where handle length is directly proportional to the radius of curvature, to provide a more intuitive and stable editing experience.</p><p>The author derives a mathematical approach to solve for tangent lengths using a quadratic system of equations, enabling seamless conversion between traditional Bezier control points and curvature handles. This method helps prevent unexpected curve "popping" and numerical drift during the design process.</p><p><img src="https://i.stack.imgur.com/vu6KW.gif" /></p><hr/><small>30 Aug 2026, 19:22 UTC | #19607</small>]]></content>
-  </entry>
-  <entry>
-    <title>Qubes OS Security Bulletin 118 Addresses Dom0 Code Execution Vulnerability</title>
-    <link href="https://www.qubes-os.org/news/2026/08/29/qsb-118/" rel="alternate" />
-    <id>https://www.qubes-os.org/news/2026/08/29/qsb-118/::v237</id>
-    <published>2026-08-30T16:02:00+00:00</published>
-    <updated>2026-08-30T16:02:00+00:00</updated>
-    <media:thumbnail url="https://forum.qubes-os.org/uploads/db3820/original/2X/f/f9d4885678bbb15501af5293b03e2cdfbdb849fd.gif" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.qubes-os.org/news/2026/08/29/qsb-118/">qubes-os.org</a> | <a href="https://github.com/QubesOS/qubes-secpack/blob/f65082c8211a421ed15a59219d6e54e93289fafb/QSBs/qsb-118-2026.txt">source</a> | <a href="https://news.ycombinator.com/item?id=49496918">hacker news</a></small></p><hr/><p>Qubes Security Bulletin 118 identifies a vulnerability in the `qvm-copy-to-vm` tool that allows a malicious qube to execute arbitrary commands in Dom0. The flaw exists because the error reporting mechanism fails to sanitize shell meta-characters in filenames, which are then passed to a `system()` call during the display of error dialogs.</p><p>The vulnerability affects all Qubes OS releases and could allow a compromised qube to take full control of the system. Users are advised to update via the Qubes Update tool; for Qubes 4.3, the fix is being transitioned to the stable repository in the `qubes-core-dom0-linux` version 4.3.22 package.</p><p><img src="https://forum.qubes-os.org/uploads/db3820/original/2X/f/f9d4885678bbb15501af5293b03e2cdfbdb849fd.gif" /></p><hr/><small>30 Aug 2026, 18:10 UTC | #19604</small>]]></content>
-  </entry>
-  <entry>
-    <title>Omarchy Vulnerability Allows Root Escalation via Default Docker Configuration</title>
-    <link href="https://0xcc.io/posts/omarchy-root-creds/" rel="alternate" />
-    <id>https://0xcc.io/posts/omarchy-root-creds/::v237</id>
-    <published>2026-08-30T16:00:00+00:00</published>
-    <updated>2026-08-30T16:00:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQHk2p6370ekQw/feedshare-shrink_1280/B56ZuPNp00G0As-/0/1767634280593?e=2147483647&amp;v=beta&amp;t=b_olnsp8Rixa1geMgWsybYKELQmOLmm2pZ8VR_HdcqE" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://0xcc.io/posts/omarchy-root-creds/">0xcc.io</a> | <a href="https://github.com/omacom/omarchy/releases">source</a> | <a href="https://news.ycombinator.com/item?id=49499854">hacker news</a></small></p><hr/><p>A security flaw in Omarchy's default Docker configuration allows any process running in a user session to escalate privileges to root without a password. By automatically including the default user in the `docker` group, the OS grants processes access to the Docker socket, enabling them to mount host filesystems and execute code with root authority.</p><p>This vulnerability affects all versions prior to 4.0.1. Because the `docker` group membership was an opt-out rather than an opt-in feature, common user applications such as web browsers or IDEs could provide a direct path to full system compromise. The issue has been resolved in version 4.0.1 by removing the default group membership.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQHk2p6370ekQw/feedshare-shrink_1280/B56ZuPNp00G0As-/0/1767634280593?e=2147483647&v=beta&t=b_olnsp8Rixa1geMgWsybYKELQmOLmm2pZ8VR_HdcqE" /></p><hr/><small>30 Aug 2026, 17:54 UTC | #19602</small>]]></content>
-  </entry>
 </feed>
