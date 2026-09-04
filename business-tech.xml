@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-03T21:06:00+00:00</updated>
+  <updated>2026-09-04T01:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Tesla Offers Cybercab Rides in Selected Austin Areas</title>
+    <link href="https://www.reuters.com/business/autos-transportation/teslas-cybercab-event-set-thursday-with-few-details-2026-09-03/" rel="alternate" />
+    <id>https://www.reuters.com/business/autos-transportation/teslas-cybercab-event-set-thursday-with-few-details-2026-09-03/::v238</id>
+    <published>2026-09-04T01:26:00+00:00</published>
+    <updated>2026-09-04T01:26:00+00:00</updated>
+    <media:thumbnail url="https://www.webpronews.com/wp-content/uploads/2025/12/article-5207-1767154488.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/autos-transportation/teslas-cybercab-event-set-thursday-with-few-details-2026-09-03/">reuters.com</a> | <a href="https://www.tesla.com/support/robotaxi/cybercab">source</a></small></p><hr/><p>Tesla has begun offering rides in its two-seater Cybercab within limited areas of Austin, Texas. The vehicles are designed without a steering wheel or pedals to support autonomous operation.</p><p>A total of 45 Cybercabs are currently registered in Texas. This rollout marks an active deployment of the company's robotaxi service in an urban environment.</p><p><img src="https://www.webpronews.com/wp-content/uploads/2025/12/article-5207-1767154488.jpeg" /></p><hr/><small>4 Sep 2026, 08:56 UTC | #20099</small>]]></content>
+  </entry>
   <entry>
     <title>Adobe Names Anil Chakravarthy as CEO</title>
     <link href="https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html" rel="alternate" />

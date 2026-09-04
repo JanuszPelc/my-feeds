@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-04T00:11:00+00:00</updated>
+  <updated>2026-09-04T00:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Penteo Audio Plugins Releases Penteo v8.0</title>
+    <link href="https://www.kvraudio.com/news/penteo-audio-plugins-releases-penteo-v8-0---adds-advanced-independent-decorrelation-control-for-every-upmix-dimension-68356?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68356" rel="alternate" />
+    <id>https://www.kvraudio.com/news/penteo-audio-plugins-releases-penteo-v8-0---adds-advanced-independent-decorrelation-control-for-every-upmix-dimension-68356?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68356::v238</id>
+    <published>2026-09-04T00:58:00+00:00</published>
+    <updated>2026-09-04T00:58:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot---penteo-pro-version-8--upmixing-5-1-surround-to-dolby-atmo.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/penteo-audio-plugins-releases-penteo-v8-0---adds-advanced-independent-decorrelation-control-for-every-upmix-dimension-68356?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68356">kvraudio.com</a> | <a href="https://www.perfectsurround.com/version8">source</a></small></p><hr/><p>Penteo Audio Plugins has released version 8 of its audio upmix and downmix software. The update introduces the Decorrelation Suite, which provides independent control over decorrelation for channel pairs, the surround bed, LFE, and bass. It also features enhanced DSP for improved LtRt decoding and a redesigned user interface with an updated 3D visualizer.</p><p>The software maintains 100% ITU downmix compatibility while offering tools for enhanced spatial immersion and separation. The release is a free upgrade for current users, with tiered discounts available for new licenses of Penteo Pro+, Pro, and 360. The plugins support AAX, VST3, and AU formats on Windows and macOS.</p><p><img src="https://static.kvraudio.com/i/b/screenshot---penteo-pro-version-8--upmixing-5-1-surround-to-dolby-atmo.jpg" /></p><hr/><small>4 Sep 2026, 08:54 UTC | #20116</small>]]></content>
+  </entry>
+  <entry>
+    <title>The Very Loud Indeed Co. Releases Songbird: Dark Flute Explorations for Kontakt</title>
+    <link href="https://www.kvraudio.com/news/the-very-loud-indeed-co-releases-songbird-dark-flute-explorations-for-kontakt-68372?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68372" rel="alternate" />
+    <id>https://www.kvraudio.com/news/the-very-loud-indeed-co-releases-songbird-dark-flute-explorations-for-kontakt-68372?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68372::v238</id>
+    <published>2026-09-04T00:57:00+00:00</published>
+    <updated>2026-09-04T00:57:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/songbird_productshot_kvr.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/the-very-loud-indeed-co-releases-songbird-dark-flute-explorations-for-kontakt-68372?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68372">kvraudio.com</a> | <a href="https://www.veryloudindeed.com/products/songbird-dark-flute-explorations">source</a></small></p><hr/><p>Songbird: Dark Flute Explorations is a solo instrument library for Native Instruments' Kontakt 7+ designed for horror and thriller soundtracks. Recorded by flautist Natalia Trigueros, the collection focuses on unstable, atmospheric, and unsettling flute textures rather than traditional melodic beauty.</p><p>The library contains 337 sound files (24-bit/48 kHz) within a 1.1 GB footprint and features five articulations: Long, Short, Flutter, Trill, and Key Clicks. It is available now for an introductory price of $49.</p><p><img src="https://static.kvraudio.com/i/b/songbird_productshot_kvr.jpg" /></p><hr/><small>4 Sep 2026, 08:51 UTC | #20115</small>]]></content>
+  </entry>
   <entry>
     <title>IK Multimedia Releases TONEX Board Guitar and Bass Processor</title>
     <link href="https://www.kvraudio.com/news/ik-multimedia-releases-tonex-board---dual-path-guitar-and-bass-processor-with-four-simultaneous-ai-tone-models-68370?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68370" rel="alternate" />
