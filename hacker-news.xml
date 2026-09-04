@@ -1010,13 +1010,4 @@
     <media:thumbnail url="https://martimm.github.io/content-docs/api2/reference/Gtk4/asset_files/images/plantuml/GestureClick.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yogthos.net/posts/2026-08-29-glimmer-ui.html">yogthos.net</a> | <a href="https://lobste.rs/s/svga6q/wrapping_gtk4_800_lines_clojure_with_jolt">discussion</a></small></p><hr/><p>Glimmer-GTK provides reactive UI bindings for the GTK4 toolkit using the Jolt programming language. It allows developers to build native interfaces with a Hiccup-style syntax by driving widget updates directly from reactive state changes, bypassing the need for a virtual DOM or a heavy browser-based runtime.</p><p>The backend is implemented in approximately 800 lines of Clojure, using Jolt's Foreign Function Interface (FFI) to map C functions and GObject enums. This approach enables a lightweight, compiled native binary that maintains a rapid, data-driven development loop characteristic of modern web frameworks while executing natively on the platform.</p><p><img src="https://martimm.github.io/content-docs/api2/reference/Gtk4/asset_files/images/plantuml/GestureClick.png" /></p><hr/><small>30 Aug 2026, 09:35 UTC | #19570</small>]]></content>
   </entry>
-  <entry>
-    <title>Bug Blindness in Software Development</title>
-    <link href="https://danluu.com/bug-blind/" rel="alternate" />
-    <id>https://danluu.com/bug-blind/::v237</id>
-    <published>2026-08-30T00:22:00+00:00</published>
-    <updated>2026-08-30T00:22:00+00:00</updated>
-    <media:thumbnail url="https://datakitchen.io/images/blog/2026/04/image_03-16.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://danluu.com/bug-blind/">danluu.com</a> | <a href="https://news.ycombinator.com/item?id=49494520">hacker news</a></small></p><hr/><p>Software developers and users often fail to notice significant defects because they have unconsciously adapted to work around them. This cognitive bias can lead teams to believe they are shipping high-quality products even when users encounter severe usability issues or non-functional software.</p><p>Common mitigation strategies like "dogfooding" can be undermined if developers have already established habits to bypass problematic workflows. Using Large Language Models to simulate normal users can help identify and reproduce these hidden issues that human developers have become accustomed to.</p><p><img src="https://datakitchen.io/images/blog/2026/04/image_03-16.webp" /></p><hr/><small>30 Aug 2026, 07:16 UTC | #19568</small>]]></content>
-  </entry>
 </feed>

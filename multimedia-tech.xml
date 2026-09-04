@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-03T19:11:00+00:00</updated>
+  <updated>2026-09-03T19:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Microsoft Launches Pay-As-You-Go Option for Xbox Cloud Gaming</title>
+    <link href="https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option" rel="alternate" />
+    <id>https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option::v238</id>
+    <published>2026-09-03T19:17:00+00:00</published>
+    <updated>2026-09-03T19:17:00+00:00</updated>
+    <media:thumbnail url="https://xboxwire.thesourcemediaassets.com/sites/2/2025/06/XBOX_GamePass_Announcement_16x9_6.17.2025_EN-US-9ec618b0a5d78cc82055.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option">theverge.com</a> | <a href="https://news.xbox.com/en-us/2026/09/03/xbox-cloud-gaming-changes/">source</a></small></p><hr/><p>Starting in November, users can stream eligible games through Xbox Cloud Gaming without a Game Pass subscription via a new pay-as-you-go model. Customers can purchase specific cloud playtime hours through the Xbox Store, targeting occasional gamers and those using mobile devices.</p><p>This shift occurs alongside new monthly playtime limits for Game Pass Ultimate subscribers, who will be restricted to 15 hours of cloud gaming per month. Microsoft is also testing an ad-supported free tier for Xbox Insiders as part of an effort to increase accessibility for players without a console.</p><p><img src="https://xboxwire.thesourcemediaassets.com/sites/2/2025/06/XBOX_GamePass_Announcement_16x9_6.17.2025_EN-US-9ec618b0a5d78cc82055.jpg" /></p><hr/><small>4 Sep 2026, 00:30 UTC | #20049</small>]]></content>
+  </entry>
   <entry>
     <title>Supercell to Acquire Metacore and Merge Mansion Developer</title>
     <link href="https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month" rel="alternate" />
