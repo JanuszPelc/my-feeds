@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-04T11:59:00+00:00</updated>
+  <updated>2026-09-04T13:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>M Media Audio Releases Three New Plugins and Makes Reference Player Free on Windows</title>
+    <link href="https://www.kvraudio.com/news/m-media-audio-releases-lake-ontario-leadfoot-and-dualtronix-plugins-plus-reference-player-is-now-free-on-windows-68348?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68348" rel="alternate" />
+    <id>https://www.kvraudio.com/news/m-media-audio-releases-lake-ontario-leadfoot-and-dualtronix-plugins-plus-reference-player-is-now-free-on-windows-68348?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68348::v238</id>
+    <published>2026-09-04T13:17:00+00:00</published>
+    <updated>2026-09-04T13:17:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot-lakeontario-01.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/m-media-audio-releases-lake-ontario-leadfoot-and-dualtronix-plugins-plus-reference-player-is-now-free-on-windows-68348?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68348">kvraudio.com</a> | <a href="https://www.mmediaaudio.com/">source</a></small></p><hr/><p>M Media Audio has released three new audio plugins: Lake Ontario, a compression and EQ tool; Leadfoot, a kick drum processing strip; and Dualtronix, a dual-channel opto leveling amplifier. These plugins are available as perpetual licenses for VST3 and AU formats on Windows, Linux, and macOS, with prices ranging from $29 to $49.</p><p>Additionally, the company has made its Reference Player free for Windows users via the Microsoft Store, removing previous trial limitations. While the software's mastering-grade signal chain and metering features are now accessible for free, a $5 one-time fee is still required for the disc-burning functionality.</p><p><img src="https://static.kvraudio.com/i/b/screenshot-lakeontario-01.jpg" /></p><hr/><small>4 Sep 2026, 17:05 UTC | #20134</small>]]></content>
+  </entry>
   <entry>
     <title>ABYZOR Genesis Updated to v2.1</title>
     <link href="https://www.kvraudio.com/news/abyzor-updates-free-abyzor-genesis-to-v2-1-68367?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68367" rel="alternate" />
