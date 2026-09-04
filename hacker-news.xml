@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T05:54:00+00:00</updated>
+  <updated>2026-09-04T08:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The NX Bit Prevents Speculative Instruction Fetches in MMIO</title>
+    <link href="https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/" rel="alternate" />
+    <id>https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/::v238</id>
+    <published>2026-09-04T08:06:00+00:00</published>
+    <updated>2026-09-04T08:06:00+00:00</updated>
+    <media:thumbnail url="https://product.hubspot.com/hs-fs/hubfs/PB12.png?width=1600&amp;height=794&amp;name=PB12.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/">purplesyringa.moe</a> | <a href="https://lobste.rs/s/eokmrg/nx_bit_is_not_just_about_security">discussion</a></small></p><hr/><p>Debugging an ARM64 hypervisor for postmarketOS revealed that enabling the CTR_EL0 intercept caused hardware hangs on certain MediaTek SoCs. The issue was caused by speculative instruction fetches into MMIO regions, which are not prevented by "Device" memory attributes alone.</p><p>Marking these regions as non-executable resolved the issue, demonstrating that the No-Execute (NX) bit is required to prevent speculative instruction fetches in addition to its standard role in security and Data Execution Prevention (DEP).</p><p><img src="https://product.hubspot.com/hs-fs/hubfs/PB12.png?width=1600&height=794&name=PB12.png" /></p><hr/><small>4 Sep 2026, 13:51 UTC | #20145</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple's Foldable iPhone Production Limited to a Few Hundred Units Per Day</title>
+    <link href="https://asia.nikkei.com/business/electronics/early-foldable-iphone-production-limited-to-a-few-hundred-per-day-sources" rel="alternate" />
+    <id>https://asia.nikkei.com/business/electronics/early-foldable-iphone-production-limited-to-a-few-hundred-per-day-sources::v238</id>
+    <published>2026-09-04T08:05:00+00:00</published>
+    <updated>2026-09-04T08:05:00+00:00</updated>
+    <media:thumbnail url="https://cdn.technobezz.com/c/Technobezz_2026_04_08_T141212_154_17146f4e55_c89d8673b5.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://asia.nikkei.com/business/electronics/early-foldable-iphone-production-limited-to-a-few-hundred-per-day-sources">asia.nikkei.com</a></small></p><hr/><p>Initial production of Apple's first foldable iPhone is limited to a few hundred units per day due to the company's strict quality control standards. Apple and its suppliers are working to increase manufacturing output while maintaining these high requirements.</p><p>The limited production volume underscores the technical challenges of scaling manufacturing for foldable devices. Efforts to ramp up supply are focused on balancing increased output with the company's rigorous quality benchmarks.</p><p><img src="https://cdn.technobezz.com/c/Technobezz_2026_04_08_T141212_154_17146f4e55_c89d8673b5.jpg" /></p><hr/><small>4 Sep 2026, 13:46 UTC | #20111</small>]]></content>
+  </entry>
   <entry>
     <title>Nolan Lawson Analyzes the Impact of AI on Frontend Web Development</title>
     <link href="https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/" rel="alternate" />
@@ -937,14 +955,5 @@
     <updated>2026-08-30T16:00:00+00:00</updated>
     <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQHk2p6370ekQw/feedshare-shrink_1280/B56ZuPNp00G0As-/0/1767634280593?e=2147483647&amp;v=beta&amp;t=b_olnsp8Rixa1geMgWsybYKELQmOLmm2pZ8VR_HdcqE" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://0xcc.io/posts/omarchy-root-creds/">0xcc.io</a> | <a href="https://github.com/omacom/omarchy/releases">source</a> | <a href="https://news.ycombinator.com/item?id=49499854">hacker news</a></small></p><hr/><p>A security flaw in Omarchy's default Docker configuration allows any process running in a user session to escalate privileges to root without a password. By automatically including the default user in the `docker` group, the OS grants processes access to the Docker socket, enabling them to mount host filesystems and execute code with root authority.</p><p>This vulnerability affects all versions prior to 4.0.1. Because the `docker` group membership was an opt-out rather than an opt-in feature, common user applications such as web browsers or IDEs could provide a direct path to full system compromise. The issue has been resolved in version 4.0.1 by removing the default group membership.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQHk2p6370ekQw/feedshare-shrink_1280/B56ZuPNp00G0As-/0/1767634280593?e=2147483647&v=beta&t=b_olnsp8Rixa1geMgWsybYKELQmOLmm2pZ8VR_HdcqE" /></p><hr/><small>30 Aug 2026, 17:54 UTC | #19602</small>]]></content>
-  </entry>
-  <entry>
-    <title>Union Brings CSS Styling to QtWidgets Applications</title>
-    <link href="https://akselmo.dev/posts/union-qtwidgets/" rel="alternate" />
-    <id>https://akselmo.dev/posts/union-qtwidgets/::v237</id>
-    <published>2026-08-30T13:36:00+00:00</published>
-    <updated>2026-08-30T13:36:00+00:00</updated>
-    <media:thumbnail url="https://akselmo.dev/assets/images/unionwidgets/dolphin.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://akselmo.dev/posts/union-qtwidgets/">akselmo.dev</a> | <a href="https://lobste.rs/s/rv7z2p/initial_release_union_qtwidgets">discussion</a></small></p><hr/><p>Union, a CSS-based styling engine for KDE Plasma, has released initial support for QtWidgets. This enables traditional applications like Dolphin, KMail, and Kate to use Union CSS files for styling, bridging the visual gap between QtQuick and QtWidgets application interfaces.</p><p>The initial release is experimental and contains known visual bugs and layout inconsistencies. The project aims to provide a robust, backwards-compatible QStyle implementation to achieve a unified look across the desktop environment, with further integration expected in Plasma 6.8.</p><p><img src="https://akselmo.dev/assets/images/unionwidgets/dolphin.png" /></p><hr/><small>30 Aug 2026, 17:49 UTC | #19603</small>]]></content>
   </entry>
 </feed>

@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-04T08:03:00+00:00</updated>
+  <updated>2026-09-04T08:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>artcode DAW 2.0 Adds VST3 Hosting and Windows Support</title>
+    <link href="https://www.kvraudio.com/news/artcode-releases-artcode-daw-2-0---adds-vst3-hosting-and-a-windows-build-68373?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68373" rel="alternate" />
+    <id>https://www.kvraudio.com/news/artcode-releases-artcode-daw-2-0---adds-vst3-hosting-and-a-windows-build-68373?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68373::v238</id>
+    <published>2026-09-04T08:43:00+00:00</published>
+    <updated>2026-09-04T08:43:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/-630x500.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/artcode-releases-artcode-daw-2-0---adds-vst3-hosting-and-a-windows-build-68373?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68373">kvraudio.com</a> | <a href="https://ryuya-yanagisawa.itch.io/artcodedaw/devlog/1651518/v20-vst3-hosting-windows-and-ai-audio-generation-on-both">source</a></small></p><hr/><p>artcode DAW 2.0 introduces VST3 plugin hosting and support for Windows 10 (64-bit) and later. The update enables third-party VST3 plugins to function as instruments or effects and brings the application's AI-driven audio generation and stem separation capabilities to Windows, contingent on the presence of an NVIDIA GPU.</p><p>Project files are interchangeable between macOS and Windows. The software features seven built-in instruments, a full effects rack, and tools for chord derivation and stem separation into up to six parts.</p><p><img src="https://static.kvraudio.com/i/b/-630x500.png" /></p><hr/><small>4 Sep 2026, 13:53 UTC | #20121</small>]]></content>
+  </entry>
   <entry>
     <title>tokyomeltdown Releases LUFSBar Pro</title>
     <link href="https://www.kvraudio.com/news/tokyomeltdown-releases-lufsbar-pro---audio-unit-inserts-on-macos-system-audio-with-ebu-r128-metering-68369?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68369" rel="alternate" />
