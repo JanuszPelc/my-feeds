@@ -947,31 +947,4 @@
     <media:thumbnail url="https://akselmo.dev/assets/images/unionwidgets/dolphin.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://akselmo.dev/posts/union-qtwidgets/">akselmo.dev</a> | <a href="https://lobste.rs/s/rv7z2p/initial_release_union_qtwidgets">discussion</a></small></p><hr/><p>Union, a CSS-based styling engine for KDE Plasma, has released initial support for QtWidgets. This enables traditional applications like Dolphin, KMail, and Kate to use Union CSS files for styling, bridging the visual gap between QtQuick and QtWidgets application interfaces.</p><p>The initial release is experimental and contains known visual bugs and layout inconsistencies. The project aims to provide a robust, backwards-compatible QStyle implementation to achieve a unified look across the desktop environment, with further integration expected in Plasma 6.8.</p><p><img src="https://akselmo.dev/assets/images/unionwidgets/dolphin.png" /></p><hr/><small>30 Aug 2026, 17:49 UTC | #19603</small>]]></content>
   </entry>
-  <entry>
-    <title>Building Custom Workbenches from IKEA Kallax Shelving Units</title>
-    <link href="https://greenlightning.eu/diy/hacking-ikea-furniture/" rel="alternate" />
-    <id>https://greenlightning.eu/diy/hacking-ikea-furniture/::v237</id>
-    <published>2026-08-30T13:33:00+00:00</published>
-    <updated>2026-08-30T13:33:00+00:00</updated>
-    <media:thumbnail url="https://i.pinimg.com/736x/62/02/e8/6202e8105580459959ae46da0414243e.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://greenlightning.eu/diy/hacking-ikea-furniture/">greenlightning.eu</a> | <a href="https://news.ycombinator.com/item?id=49497810">hacker news</a></small></p><hr/><p>Modifying Kallax shelving units enables the construction of custom workbenches that merge living room aesthetics with functional depth. By layering a repurposed desktop with MDF boards, the build produces a stable, deep surface ideal for a home office.</p><p>The assembly cost approximately €130 per unit and incorporates rubber mats to dampen vibrations from machinery like 3D printers. Securing the tabletop directly to the shelving structure provides greater structural stability than simply placing a board on top of the units.</p><p><img src="https://i.pinimg.com/736x/62/02/e8/6202e8105580459959ae46da0414243e.jpg" /></p><hr/><small>30 Aug 2026, 17:10 UTC | #19600</small>]]></content>
-  </entry>
-  <entry>
-    <title>FreeCORE Provides Independent Continuation of TrueNAS CORE 13.3</title>
-    <link href="https://freecore.org/" rel="alternate" />
-    <id>https://freecore.org/::v237</id>
-    <published>2026-08-30T13:31:00+00:00</published>
-    <updated>2026-08-30T13:31:00+00:00</updated>
-    <media:thumbnail url="https://www.truenas.com/wp-content/uploads/2024/05/CORE_UI_Layout.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://freecore.org/">freecore.org</a> | <a href="https://news.ycombinator.com/item?id=49494856">hacker news</a></small></p><hr/><p>FreeCORE is an independently maintained operating system based on FreeBSD designed to carry the TrueNAS CORE 13.3 system forward. The project's 15.0-U1 release is stable and supports in-place upgrades for existing TrueNAS CORE 13.3 installations.</p><p>Development aims to provide a continuous update train for users transitioning from the legacy TrueNAS CORE platform. Version 15.1 is currently in the development roadmap.</p><p><img src="https://www.truenas.com/wp-content/uploads/2024/05/CORE_UI_Layout.png" /></p><hr/><small>30 Aug 2026, 16:56 UTC | #19598</small>]]></content>
-  </entry>
-  <entry>
-    <title>Transferring Files via Direct Ethernet Connection</title>
-    <link href="https://maurycyz.com/misc/etherfiles/" rel="alternate" />
-    <id>https://maurycyz.com/misc/etherfiles/::v237</id>
-    <published>2026-08-30T13:12:00+00:00</published>
-    <updated>2026-08-30T13:12:00+00:00</updated>
-    <media:thumbnail url="https://4.bp.blogspot.com/-9-bYkOiAW1I/WsIbSzA5smI/AAAAAAAAAFQ/Q8qHiDySmGMLSu9YZA4EKx6qju6hwbDPwCLcBGAs/s1600/ppp.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://maurycyz.com/misc/etherfiles/">maurycyz.com</a> | <a href="https://lobste.rs/s/mgwfjc/transfer_files_over_ethernet_patch_cable">discussion</a></small></p><hr/><p>Connecting two computers directly with an Ethernet patch cable allows for high-speed file transfers without an intermediary router or switch. By manually configuring IP addresses on both machines and using the socat utility, users can achieve throughput approaching 900 Mbps.</p><p>This method avoids the latency and bandwidth limitations of cloud storage and the connection instability of WiFi. It serves as a high-performance alternative to removable storage for transferring large files between nearby devices, and the technique can be applied to microcontrollers using raw link-layer frames.</p><p><img src="https://4.bp.blogspot.com/-9-bYkOiAW1I/WsIbSzA5smI/AAAAAAAAAFQ/Q8qHiDySmGMLSu9YZA4EKx6qju6hwbDPwCLcBGAs/s1600/ppp.jpg" /></p><hr/><small>30 Aug 2026, 16:22 UTC | #19594</small>]]></content>
-  </entry>
 </feed>
