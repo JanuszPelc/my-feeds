@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-03T19:02:00+00:00</updated>
+  <updated>2026-09-03T21:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Simplicity vs. Smallness in Software Design</title>
+    <link href="https://jyn.dev/simple-is-not-the-same-as-small/" rel="alternate" />
+    <id>https://jyn.dev/simple-is-not-the-same-as-small/::v238</id>
+    <published>2026-09-03T21:25:00+00:00</published>
+    <updated>2026-09-03T21:25:00+00:00</updated>
+    <media:thumbnail url="https://cdn.outrank.so/12c75471-8912-49f0-ba5c-874e3b32097a/fe82f0c2-933b-4044-bf34-a50dbeeab3c9.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jyn.dev/simple-is-not-the-same-as-small/">jyn.dev</a> | <a href="https://lobste.rs/s/entcaa/simple_is_not_small">discussion</a></small></p><hr/><p>Software simplicity is distinct from program size. While small Unix pipelines are often perceived as simple, they can be complex because they braid together distinct concerns, such as requiring specific data ordering to allow for aggregation. This coupling increases maintenance difficulty and reduces flexibility.</p><p>In contrast, large-scale systems can maintain simplicity through abstractions that decouple user interaction from complex internal logic. While Rust's structs couple type-checking to fixed data representations, Clojure's maps allow for decoupled, inspectable metadata and type annotations, facilitating more flexible and maintainable software architectures.</p><p><img src="https://cdn.outrank.so/12c75471-8912-49f0-ba5c-874e3b32097a/fe82f0c2-933b-4044-bf34-a50dbeeab3c9.jpg" /></p><hr/><small>4 Sep 2026, 04:26 UTC | #20104</small>]]></content>
+  </entry>
   <entry>
     <title>Rust 1.98.1 Fixes Vtable Generation Miscompilation</title>
     <link href="https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/" rel="alternate" />
@@ -991,14 +1000,5 @@
     <updated>2026-08-30T05:18:00+00:00</updated>
     <media:thumbnail url="https://blog.openstreetmap.org/wp-content/uploads/2026/02/sotm_2026_header.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://2026.stateofthemap.org/">2026.stateofthemap.org</a> | <a href="https://news.ycombinator.com/item?id=49478401">hacker news</a></small></p><hr/><p>The annual event for OpenStreetMap users and mappers, State of the Map 2026, is scheduled for August 28–30, 2026. The conference will be held both in-person at Cité Descartes in Paris and online for remote participants.</p><p>The three-day program will feature a variety of talks, workshops, and discussion rounds. Virtual attendees will have access to live streams and interactive breakout rooms.</p><p><img src="https://blog.openstreetmap.org/wp-content/uploads/2026/02/sotm_2026_header.jpg" /></p><hr/><small>30 Aug 2026, 13:06 UTC | #19577</small>]]></content>
-  </entry>
-  <entry>
-    <title>Impact of Rust Typestate and Newtype Patterns on Code Quality</title>
-    <link href="https://dl.acm.org/doi/epdf/10.1145/3830438.3830958" rel="alternate" />
-    <id>https://dl.acm.org/doi/epdf/10.1145/3830438.3830958::v237</id>
-    <published>2026-08-30T04:12:00+00:00</published>
-    <updated>2026-08-30T04:12:00+00:00</updated>
-    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*50G2YCyngWsQxzUgmFkm4w.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dl.acm.org/doi/epdf/10.1145/3830438.3830958">dl.acm.org</a> | <a href="https://dl.acm.org/doi/10.1145/3830438.3830958">source</a> | <a href="https://lobste.rs/s/udkuqc/functional_state_machines_rust">discussion</a> | <a href="https://news.ycombinator.com/item?id=49492368">hacker news</a></small></p><hr/><p>Research investigates how the typestate and newtype design patterns in the Rust programming language affect software code quality. The study evaluated three production code case studies using expert interviews, static code analysis, and benchmarks.</p><p>The findings indicate that the typestate pattern improves code faultlessness and testability by encoding state transitions into the type system. However, the study also noted that these patterns can increase boilerplate code and potentially degrade code readability.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*50G2YCyngWsQxzUgmFkm4w.png" /></p><hr/><small>30 Aug 2026, 12:19 UTC | #19574</small>]]></content>
   </entry>
 </feed>
