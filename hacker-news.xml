@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T14:49:00+00:00</updated>
+  <updated>2026-09-04T14:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Raspberry Pi OS Provisioning Challenges with cloud-init and Wireguard</title>
+    <link href="https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend" rel="alternate" />
+    <id>https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend::v238</id>
+    <published>2026-09-04T14:58:00+00:00</published>
+    <updated>2026-09-04T14:58:00+00:00</updated>
+    <media:thumbnail url="https://devguide.dev/assets/blog/wireguard-tunnel-raspberry-pi-to-gce/cover.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend">discussion</a></small></p><hr/><p>Debugging a headless setup using cloud-init and Wireguard revealed network connectivity issues when replicating configurations on existing VPN hosts. The problem stemmed from the local network interface and the Wireguard interface sharing the same IP address and netmask.</p><p>A temporary workaround was implemented by manually removing a route to avoid wide-scale infrastructure-as-code changes across other VPN hosts. The project aims to replace a single point of failure in a private network with the new Raspberry Pi unit.</p><p><img src="https://devguide.dev/assets/blog/wireguard-tunnel-raspberry-pi-to-gce/cover.png" /></p><hr/><small>4 Sep 2026, 20:12 UTC | #20181</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Unveils Project Zenith Developer Experience</title>
     <link href="https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers" rel="alternate" />
