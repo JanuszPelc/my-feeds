@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T19:19:00+00:00</updated>
+  <updated>2026-09-04T19:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Mullvad to Discontinue Public Encrypted DNS Service and Sponsor Quad9</title>
+    <link href="https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead" rel="alternate" />
+    <id>https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead::v238</id>
+    <published>2026-09-04T19:22:00+00:00</published>
+    <updated>2026-09-04T19:22:00+00:00</updated>
+    <media:thumbnail url="https://www.profesionalreview.com/wp-content/uploads/2026/04/Mullvad-DNS2.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead">mullvad.net</a> | <a href="https://news.ycombinator.com/item?id=49568579">hacker news</a></small></p><hr/><p>Mullvad is shutting down its public DNS-over-HTTPS (DoH) servers, a service the company has operated since 2022. Instead of maintaining its own specialized DNS infrastructure, Mullvad will redirect its resources to financially support the Quad9 Foundation, a leader in privacy-focused public DNS.</p><p>Users with default settings in Mullvad Browser will be automatically migrated to Quad9. However, those who have manually configured DoH servers or are using iOS and macOS profiles must manually update their settings to Quad9 before the November 2, 2026, deadline.</p><p><img src="https://www.profesionalreview.com/wp-content/uploads/2026/04/Mullvad-DNS2.jpg" /></p><hr/><small>4 Sep 2026, 23:45 UTC | #20195</small>]]></content>
+  </entry>
   <entry>
     <title>Babashka 1.13.220 Introduces FFI Support for C Libraries</title>
     <link href="https://blog.michielborkent.nl/babashka-ffi.html" rel="alternate" />
