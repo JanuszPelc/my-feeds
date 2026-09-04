@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T19:17:00+00:00</updated>
+  <updated>2026-09-04T19:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Babashka 1.13.220 Introduces FFI Support for C Libraries</title>
+    <link href="https://blog.michielborkent.nl/babashka-ffi.html" rel="alternate" />
+    <id>https://blog.michielborkent.nl/babashka-ffi.html::v238</id>
+    <published>2026-09-04T19:19:00+00:00</published>
+    <updated>2026-09-04T19:19:00+00:00</updated>
+    <media:thumbnail url="https://i.pinimg.com/736x/91/09/6d/91096db060deb4f6ae0dfc10385ecdb8.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.michielborkent.nl/babashka-ffi.html">blog.michielborkent.nl</a> | <a href="https://lobste.rs/s/o8bp2s/babashka_1_13_220_gets_ffi">discussion</a> | <a href="https://news.ycombinator.com/item?id=49509696">hacker news</a></small></p><hr/><p>The update adds the `babashka.ffi` namespace, which allows calling C libraries directly from Babashka scripts. This experimental feature is also available for JVM Clojure and uses `java.lang.foreign` with explicit memory management through arenas to prevent segmentation faults.</p><p>The release also transitions Linux binaries to a mostly-static format to improve compatibility. Other updates include task composition improvements for `:exec-fn`, support for `:exec-args`, and the introduction of new FFI-dependent libraries such as `babashka.sqlite` and `babashka.duckdb`.</p><p><img src="https://i.pinimg.com/736x/91/09/6d/91096db060deb4f6ae0dfc10385ecdb8.jpg" /></p><hr/><small>4 Sep 2026, 23:24 UTC | #20193</small>]]></content>
+  </entry>
   <entry>
     <title>OpenTrailPaper: DIY E-Paper Bike Computer Firmware for LilyGO T5S3</title>
     <link href="https://opentrailpaper.com" rel="alternate" />
