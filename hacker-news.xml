@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T08:06:00+00:00</updated>
+  <updated>2026-09-04T12:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Jestoph Details Solution to Jane Street ASIC Reverse Engineering Challenge</title>
+    <link href="https://jestoph.com/2026/09/04/jane-street-challenge.html" rel="alternate" />
+    <id>https://jestoph.com/2026/09/04/jane-street-challenge.html::v238</id>
+    <published>2026-09-04T12:07:00+00:00</published>
+    <updated>2026-09-04T12:07:00+00:00</updated>
+    <media:thumbnail url="https://jestoph.com/img/warmup-gds.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jestoph.com/2026/09/04/jane-street-challenge.html">jestoph.com</a> | <a href="https://github.com/janestreet/asic-puzzle-2026">source</a> | <a href="https://news.ycombinator.com/item?id=49562657">hacker news</a></small></p><hr/><p>Jestoph details the process of solving the Jane Street ASIC reverse engineering challenge, which involves reconstructing a functional netlist from GDS layout files. The goal is to identify the logic gates and the functional purpose of a custom-designed integrated circuit by analyzing its physical geometry.</p><p>The methodology requires developing custom software, including a circuit simulator, a GDS viewer, and a parser for the sky130 semiconductor library. By mapping layout elements to logic gates and simulating the resulting circuit in Verilog, the author identified the input sequence required to achieve a successful output.</p><p><img src="https://jestoph.com/img/warmup-gds.png" /></p><hr/><small>4 Sep 2026, 15:34 UTC | #20158</small>]]></content>
+  </entry>
+  <entry>
+    <title>Former Scheme Chair Outlines Leadership and Governance Disputes</title>
+    <link href="https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html" rel="alternate" />
+    <id>https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html::v238</id>
+    <published>2026-09-04T12:06:00+00:00</published>
+    <updated>2026-09-04T12:06:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/993996821/original/436fc737f0/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html">crumbles.blog</a> | <a href="https://lobste.rs/s/4vsl2j/wtf_is_going_on_with_r7rs_large_2026">discussion</a></small></p><hr/><p>Governance and leadership conflicts have emerged within the Scheme community involving the language's steering committee and working group. These disputes include disagreements over the handling of misconduct allegations, the procedural implementation of SRFI 261, and the composition of the new steering committee.</p><p>Following a period of medical leave, the former chair was dismissed from their position despite a nearly unanimous vote by the working group to reinstate them. This incident underscores broader concerns regarding accountability and the enforcement of codes of conduct within the language's governance structure.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/993996821/original/436fc737f0/1?v=1" /></p><hr/><small>4 Sep 2026, 15:22 UTC | #20153</small>]]></content>
+  </entry>
   <entry>
     <title>The NX Bit Prevents Speculative Instruction Fetches in MMIO</title>
     <link href="https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/" rel="alternate" />
