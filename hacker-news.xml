@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T14:48:00+00:00</updated>
+  <updated>2026-09-04T14:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Microsoft Unveils Project Zenith Developer Experience</title>
+    <link href="https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers" rel="alternate" />
+    <id>https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers::v238</id>
+    <published>2026-09-04T14:49:00+00:00</published>
+    <updated>2026-09-04T14:49:00+00:00</updated>
+    <media:thumbnail url="https://i0.wp.com/thewincentral.com/wp-content/uploads/2022/09/Windows-11-23H2-Tablet-optimized-taskbar.jpg?w=1250&amp;ssl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers">theverge.com</a> | <a href="https://blogs.windows.com/windowsdeveloper/2026/09/04/announcing-project-zenith-the-ready-to-code-windows-experience/">source</a></small></p><hr/><p>Microsoft has introduced Project Zenith, a developer-optimized Windows 11 experience designed for hardware with 64GB or more of unified memory. The system enables local, unmetered execution of AI models with over 30 billion parameters and provides a preconfigured suite of essential tools, including Visual Studio Code, GitHub Copilot, and PowerToys.</p><p>To minimize distractions, the environment disables start menu tips, account notifications, and sync provider alerts while enabling long-path support and expanded File Explorer settings. AMD has announced the first compatible device, a miniature PC powered by Ryzen AI Halo chips, with additional hardware expected in the coming months.</p><p><img src="https://i0.wp.com/thewincentral.com/wp-content/uploads/2022/09/Windows-11-23H2-Tablet-optimized-taskbar.jpg?w=1250&ssl=1" /></p><hr/><small>4 Sep 2026, 19:12 UTC | #20135</small>]]></content>
+  </entry>
   <entry>
     <title>Neovim's Structured Async API for Lua</title>
     <link href="https://neovim.io/doc/user/lua-async/" rel="alternate" />
