@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-04T02:11:00+00:00</updated>
+  <updated>2026-09-04T13:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>November 2025 Solar Storm Caused Widespread GPS Disruptions Across the United States</title>
+    <link href="https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before" rel="alternate" />
+    <id>https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before::v238</id>
+    <published>2026-09-04T13:14:00+00:00</published>
+    <updated>2026-09-04T13:14:00+00:00</updated>
+    <media:thumbnail url="https://www.sciencealert.com/images/2026/08/aurora-from-space-642x361.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before">sciencealert.com</a> | <a href="https://doi.org/10.1029/2026GL124645">source</a> | <a href="https://news.ycombinator.com/item?id=49544618">hacker news</a></small></p><hr/><p>A November 2025 solar superstorm triggered widespread ionospheric disturbances across the continental United States, causing GPS positioning errors exceeding 10 meters in some regions. Researchers from The Aerospace Corporation found these disturbances were significantly more extensive than typical mid-latitude scintillation events, covering a vast swathe of the country.</p><p>The inaccuracies were driven by amplitude scintillation, a process in which solar particles create density fluctuations in the ionosphere that distort satellite radio signals. These errors pose significant risks to precision-dependent technologies, including autonomous vehicles and automated agricultural machinery.</p><p><img src="https://www.sciencealert.com/images/2026/08/aurora-from-space-642x361.jpg" /></p><hr/><small>4 Sep 2026, 16:36 UTC | #20168</small>]]></content>
+  </entry>
   <entry>
     <title>Vals AI Analysis: Multi-Stage AI Tasks Require 10,000 Times More Energy Than Simple Queries</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-03/ai-s-environmental-impact-per-task-balloons-with-more-complexity?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODQ1Mzk2MywiZXhwIjoxNzg5MDU4NzYzLCJhcnRpY2xlSWQiOiJUS1NCV1pSMjRVOFMwMCIsImJjb25uZWN0SWQiOiJGRjMyOTZDMzVFNEI0QTRBQjFFRTVDQzEzQ0YzMUNDQiJ9.8ShIwgSwrkJWvsN5gaj4nXw_Jy9W3gDmfbKFK1Tb6kk" rel="alternate" />
