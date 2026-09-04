@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-04T00:13:00+00:00</updated>
+  <updated>2026-09-04T14:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Bit Reactor CEO Greg Foertsch Discusses Star Wars Zero Company Development</title>
+    <link href="https://www.gamedeveloper.com/production/strategically-making-star-wars-zero-company-ft-greg-foertsch" rel="alternate" />
+    <id>https://www.gamedeveloper.com/production/strategically-making-star-wars-zero-company-ft-greg-foertsch::v238</id>
+    <published>2026-09-04T14:53:00+00:00</published>
+    <updated>2026-09-04T14:53:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt55f6cfa89c8f3c97/6a99b1a0644fc53ff178b28e/GregFoertsch.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/production/strategically-making-star-wars-zero-company-ft-greg-foertsch">gamedeveloper.com</a></small></p><hr/><p>Greg Foertsch, CEO and creative director of Bit Reactor, details the technical design and collaborative development processes used to create Star Wars: Zero Company. The discussion covers specific implementation details, such as in-game camera design and the studio's approach to team involvement during production.</p><p>Bit Reactor was founded by former Firaxis employees known for their work on the XCOM series. While the game has achieved significant commercial success, the studio reportedly furloughed 80 percent of its workforce leading up to the title's launch.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt55f6cfa89c8f3c97/6a99b1a0644fc53ff178b28e/GregFoertsch.png?width=720&quality=80&disable=upscale" /></p><hr/><small>4 Sep 2026, 19:30 UTC | #20151</small>]]></content>
+  </entry>
   <entry>
     <title>Claude Fable 5 Translates 1993 Amiga Assembly for Babylonian Twins Godot Port</title>
     <link href="https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/" rel="alternate" />
