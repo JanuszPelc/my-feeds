@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-04T18:49:00+00:00</updated>
+  <updated>2026-09-04T18:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>G42 Explores US Ownership to Secure AI Chip Access</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-04/abu-dhabi-s-g42-weighs-us-ownership-to-safeguard-ai-chip-access" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-04/abu-dhabi-s-g42-weighs-us-ownership-to-safeguard-ai-chip-access::v238</id>
+    <published>2026-09-04T18:56:00+00:00</published>
+    <updated>2026-09-04T18:56:00+00:00</updated>
+    <media:thumbnail url="https://www.webpronews.com/wp-content/uploads/2025/12/article-5039-1767050548.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-04/abu-dhabi-s-g42-weighs-us-ownership-to-safeguard-ai-chip-access">bloomberg.com</a></small></p><hr/><p>Abu Dhabi-based artificial intelligence firm G42 is considering a sale of a majority stake to American companies. The deal is intended to guarantee the company's supply of high-end semiconductors beyond April 2027.</p><p>Executives have held exploratory discussions regarding the potential transaction. The move aims to protect the firm's long-term access to critical computing hardware.</p><p><img src="https://www.webpronews.com/wp-content/uploads/2025/12/article-5039-1767050548.jpeg" /></p><hr/><small>4 Sep 2026, 22:29 UTC | #20165</small>]]></content>
+  </entry>
+  <entry>
+    <title>Krafton to Invest $250 Million in India Beyond Gaming</title>
+    <link href="https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/::v238</id>
+    <published>2026-09-04T18:55:00+00:00</published>
+    <updated>2026-09-04T18:55:00+00:00</updated>
+    <media:thumbnail url="https://pimg.mk.co.kr/news/cms/202604/22/news-p.v1.20260422.6a70d989b84a4d15bb864e16f8409d8d_R.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/">techcrunch.com</a></small></p><hr/><p>Krafton plans to invest an additional $250 million in India over the next three to four years, targeting sectors such as AI, robotics, and deep tech. This brings the South Korean company's total planned investment in the country to more than $500 million. The new commitment is separate from a $670 million growth fund established in late 2025 in partnership with Naver and Mirae Asset.</p><p>The announcement follows a meeting between Krafton Chairman Chang Byung-gyu and Indian Prime Minister Narendra Modi to discuss technological and economic cooperation. While Krafton's Indian presence has been primarily driven by the Battlegrounds Mobile India (BGMI) franchise, the company is increasingly diversifying through local acquisitions like Nautilus Mobile and talent development programs like the KIGI Academy.</p><p><img src="https://pimg.mk.co.kr/news/cms/202604/22/news-p.v1.20260422.6a70d989b84a4d15bb864e16f8409d8d_R.png" /></p><hr/><small>4 Sep 2026, 22:28 UTC | #20161</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Names John Ternus CEO as Nvidia Expands AI Presence</title>
     <link href="https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/" rel="alternate" />
