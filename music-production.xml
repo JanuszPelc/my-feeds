@@ -699,13 +699,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/mica-01-smaller.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/stemwire-releases-mica---synthesizer-with-experimental-sound-sources-68295?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68295">kvraudio.com</a> | <a href="https://stemwire.io/audio-plugins/mica">source</a></small></p><hr/><p>Stemwire has released Mica, a synthesizer plugin for macOS and Windows that combines experimental sound engines with standard synthesis controls. The instrument features four engine types—Braids, Plaits, Elements, and a two-operator FM engine—alongside a sub oscillator and a sample-based noise generator.</p><p>The plugin offers 14 modulation sources routable to 622 destinations, including three envelopes, three LFOs, and three drawable waveform oscillators. It also includes four re-orderable effect slots with 12 effect types, such as granular and resonator processors.</p><p><img src="https://static.kvraudio.com/i/b/mica-01-smaller.png" /></p><hr/><small>31 Aug 2026, 06:28 UTC | #19642</small>]]></content>
   </entry>
-  <entry>
-    <title>CVA Labs Releases Aether Stereo Exciter</title>
-    <link href="https://bedroomproducersblog.com/2026/08/30/cva-labs-aether/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/08/30/cva-labs-aether/::v237</id>
-    <published>2026-08-30T18:39:00+00:00</published>
-    <updated>2026-08-30T18:39:00+00:00</updated>
-    <media:thumbnail url="https://www.blog.brightcoding.dev/storage/media/2026/05/c3d225a1-044e-407f-ac13-8119638f3e23-large.webp" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/08/30/cva-labs-aether/">bedroomproducersblog.com</a> | <a href="https://github.com/cva-labs/aetherexciter">source</a> | <a href="https://bedroomproducersblog.com/2026/08/30/cva-labs-aether/#respond">discussion</a></small></p><hr/><p>CVA Labs has released Aether Stereo Exciter, a free and open-source VST3 harmonic enhancer. The plugin is designed to add presence and stereo excitation to audio signals.</p><p>The software is compatible with both macOS and Windows. The project's source code is available via GitHub for users and contributors.</p><p><img src="https://www.blog.brightcoding.dev/storage/media/2026/05/c3d225a1-044e-407f-ac13-8119638f3e23-large.webp" /></p><hr/><small>31 Aug 2026, 00:05 UTC | #19611</small>]]></content>
-  </entry>
 </feed>
