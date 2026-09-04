@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T14:58:00+00:00</updated>
+  <updated>2026-09-04T18:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Smolts: A Pedagogical IDE for the SMoL Teaching Language</title>
+    <link href="https://eighty-twenty.org/2026/09/04/smolts" rel="alternate" />
+    <id>https://eighty-twenty.org/2026/09/04/smolts::v238</id>
+    <published>2026-09-04T18:54:00+00:00</published>
+    <updated>2026-09-04T18:54:00+00:00</updated>
+    <media:thumbnail url="https://eighty-twenty.org/images/smolts-screenshot-20260904.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://eighty-twenty.org/2026/09/04/smolts">eighty-twenty.org</a> | <a href="https://lobste.rs/s/hr2txa/smolts_pedagogical_ide_for_teaching">discussion</a></small></p><hr/><p>Smolts provides an S-expression-based environment for teaching the Standard Model of Languages (SMoL). It allows users to step through programs while visualizing the current continuation, environment, and store, and annotates code with real-time variable and expression values.</p><p>The IDE includes a "run to cursor" function and the ability to step backward through execution. Ongoing development focuses on Svelte state management and in-browser Git-based project management to facilitate visible execution states for programming language education.</p><p><img src="https://eighty-twenty.org/images/smolts-screenshot-20260904.png" /></p><hr/><small>4 Sep 2026, 22:15 UTC | #20189</small>]]></content>
+  </entry>
   <entry>
     <title>Raspberry Pi OS Provisioning Challenges with cloud-init and Wireguard</title>
     <link href="https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend" rel="alternate" />
