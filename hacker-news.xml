@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T01:29:00+00:00</updated>
+  <updated>2026-09-04T05:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Nolan Lawson Analyzes the Impact of AI on Frontend Web Development</title>
+    <link href="https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/" rel="alternate" />
+    <id>https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/::v238</id>
+    <published>2026-09-04T05:54:00+00:00</published>
+    <updated>2026-09-04T05:54:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*dret3vab6gBG2pW8K2is-Q.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/">nolanlawson.com</a> | <a href="https://lobste.rs/s/rntyvm/asteroid_currently_hitting_frontend_web">discussion</a> | <a href="https://news.ycombinator.com/item?id=49555233">hacker news</a></small></p><hr/><p>Nolan Lawson argues that the rise of AI agents is fundamentally shifting frontend web development by making code generation feel lower-risk and moving industry focus from developer ergonomics toward "agent experience." He observes a trend where prominent frontend educators are increasingly stepping away from the field or pivoting to other topics as these shifts occur.</p><p>The article suggests that the field may adapt by educating AI agents on complex architectural patterns, developing "agent-friendly" web standards that prioritize accessibility and performance, and offering expert consulting to fix large-scale, AI-generated "vibe-coded" codebases.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*dret3vab6gBG2pW8K2is-Q.png" /></p><hr/><small>4 Sep 2026, 11:33 UTC | #20132</small>]]></content>
+  </entry>
   <entry>
     <title>Tea☆ Launches Soupvotes Upvote System for Static Blogs</title>
     <link href="https://qtea.me/posts/souping-up-my-blog/" rel="alternate" />
