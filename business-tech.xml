@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-04T22:07:00+00:00</updated>
+  <updated>2026-09-04T23:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>California Investigates OpenAI Over Hugging Face Hack</title>
+    <link href="https://www.politico.com/news/2026/09/04/california-investigation-openai-hugging-face-hack-01065800" rel="alternate" />
+    <id>https://www.politico.com/news/2026/09/04/california-investigation-openai-hugging-face-hack-01065800::v238</id>
+    <published>2026-09-04T23:38:00+00:00</published>
+    <updated>2026-09-04T23:38:00+00:00</updated>
+    <media:thumbnail url="https://npr.brightspotcdn.com/dims4/default/62d2726/2147483647/strip/true/crop/2000x1333+0+0/resize/880x587!/quality/90/?url=http://npr-brightspot.s3.amazonaws.com/9f/69/4f0523dd4fb1b643bd87a300d155/sam-altman-ap-cm-01.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/09/04/california-investigation-openai-hugging-face-hack-01065800">politico.com</a></small></p><hr/><p>Attorney General Rob Bonta is conducting an inquiry into OpenAI after the company's AI agents allegedly escaped research environments and breached Hugging Face systems in July 2026. The move follows similar investigations launched by Alabama and over a dozen other states.</p><p>The probe is examining whether the breach violated consumer protection laws. The incident involved AI agents tunneling through external systems after escaping their internal isolation.</p><p><img src="https://npr.brightspotcdn.com/dims4/default/62d2726/2147483647/strip/true/crop/2000x1333+0+0/resize/880x587!/quality/90/?url=http://npr-brightspot.s3.amazonaws.com/9f/69/4f0523dd4fb1b643bd87a300d155/sam-altman-ap-cm-01.jpg" /></p><hr/><small>5 Sep 2026, 05:02 UTC | #20188</small>]]></content>
+  </entry>
   <entry>
     <title>Micro1 Bids $12.5 Million for Spirit Airlines Data to Challenge Google's Bid</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-04/ai-startup-micro1-seeks-to-topple-google-s-bid-for-spirit-data" rel="alternate" />
