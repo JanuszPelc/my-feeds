@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-05T13:03:00+00:00</updated>
+  <updated>2026-09-05T16:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>3M Scientist Details How the Company Concealed the Spread of PFAS</title>
+    <link href="https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen" rel="alternate" />
+    <id>https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen::v238</id>
+    <published>2026-09-05T16:52:00+00:00</published>
+    <updated>2026-09-05T16:52:00+00:00</updated>
+    <media:thumbnail url="https://cdn2.hubspot.net/hubfs/3331037/PFAS_EPA_Infographic.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen">propublica.org</a> | <a href="https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story">source</a> | <a href="https://news.ycombinator.com/item?id=49576986">hacker news</a></small></p><hr/><p>A former 3M scientist, Kris Hansen, describes how the company knew for decades that perfluorooctyl sulfonate (PFOS)—a type of "forever chemical"—had spread into the blood of the general population and factory workers. Despite internal testing showing widespread contamination, the company maintained that the chemicals were not toxic and continued mass production of products like Scotchgard.</p><p>Hansen's findings revealed that the chemicals had entered the global food web, appearing in the blood of various animals, including birds and fish. This investigation highlights the widespread environmental impact of PFAS and the challenges of regulating chemicals when manufacturers withhold data regarding toxicity.</p><p><img src="https://cdn2.hubspot.net/hubfs/3331037/PFAS_EPA_Infographic.png" /></p><hr/><small>5 Sep 2026, 18:27 UTC | #20250</small>]]></content>
+  </entry>
   <entry>
     <title>UNEP Report: Global Temperatures to Exceed 1.5-Degree Warming Limit</title>
     <link href="https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone" rel="alternate" />
