@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-04T23:41:00+00:00</updated>
+  <updated>2026-09-05T13:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>UNEP Report: Global Temperatures to Exceed 1.5-Degree Warming Limit</title>
+    <link href="https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone" rel="alternate" />
+    <id>https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone::v238</id>
+    <published>2026-09-05T13:03:00+00:00</published>
+    <updated>2026-09-05T13:03:00+00:00</updated>
+    <media:thumbnail url="https://mediasvc.eurekalert.org/Api/v1/Multimedia/da1fa244-a29d-47f3-94a3-17ce538787b4/Rendition/low-res/Content/Public" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone">pbs.org</a> | <a href="https://www.unep.org/resources/limiting-overshoot-navigating-exceedance">source</a> | <a href="https://news.ycombinator.com/item?id=49576124">hacker news</a></small></p><hr/><p>A United Nations Environment Programme (UNEP) report warns that Earth is expected to exceed the 1.5-degree Celsius warming threshold established by the Paris Agreement within the next few years. The report outlines an "overshoot" strategy, suggesting that the world must first limit the peak temperature and then use carbon removal and fossil fuel phase-outs to return to safer levels to minimize long-term damage.</p><p>Current global policies project temperatures to reach 2.6°C above pre-industrial levels by 2100, though ambitious goals could cap warming at 1.8°C by mid-century. The transition period of overshoot is expected to last decades, causing increased extreme weather, rising sea levels, and food shortages. Experts emphasize that managing this period requires significant investment in climate adaptation and novel carbon dioxide removal technologies.</p><p><img src="https://mediasvc.eurekalert.org/Api/v1/Multimedia/da1fa244-a29d-47f3-94a3-17ce538787b4/Rendition/low-res/Content/Public" /></p><hr/><small>5 Sep 2026, 16:14 UTC | #20238</small>]]></content>
+  </entry>
   <entry>
     <title>Imperial Colors Manifesto Rejects Hexadecimal Color Notation</title>
     <link href="https://qum.cz/imperial_colors/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T11:03:00+00:00</updated>
+  <updated>2026-09-05T11:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Spotify's Shunt Plugin Reduces Claude Code Token Usage by 90%</title>
+    <link href="https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90" rel="alternate" />
+    <id>https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90::v238</id>
+    <published>2026-09-05T11:12:00+00:00</published>
+    <updated>2026-09-05T11:12:00+00:00</updated>
+    <media:thumbnail url="https://prompt-caching.ai/assets/og.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90">engineering.atspotify.com</a> | <a href="https://news.ycombinator.com/item?id=49571465">hacker news</a></small></p><hr/><p>Spotify engineers developed the "shunt" plugin for Claude Code to reduce token consumption by routing low-reasoning tasks to cheaper models. Using Spotify's Portal and AiKA modes, the plugin intercepts I/O-heavy operations—such as reading multiple large files or generating boilerplate code—and delegates them to models like Gemini 2.5 Flash instead of expensive frontier models.</p><p>Benchmarking in a Java monorepo showed that delegating bulk-read operations resulted in approximately 90% fewer tokens consumed by the primary model. This strategy addresses the projected rise in AI coding costs, which are expected to exceed average developer salaries by 2028, by reserving complex reasoning and debugging for high-end models while using cheaper agents for predictable, pattern-based work.</p><p><img src="https://prompt-caching.ai/assets/og.png" /></p><hr/><small>5 Sep 2026, 16:05 UTC | #20236</small>]]></content>
+  </entry>
   <entry>
     <title>Monocypher Developer Responds to AI-Generated Code Review</title>
     <link href="https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-05T11:08:00+00:00</updated>
+  <updated>2026-09-05T11:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI, Anthropic, and xAI Experience Simultaneous Outages</title>
+    <link href="https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/" rel="alternate" />
+    <id>https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/::v238</id>
+    <published>2026-09-05T11:13:00+00:00</published>
+    <updated>2026-09-05T11:13:00+00:00</updated>
+    <media:thumbnail url="https://theaicronicle.com/storage/articles/cd97c826-1167-4ada-bba2-f7d8b4a65578.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/">wired.com</a> | <a href="https://status.x.ai/grok-in-x/INC429d651a">source</a> | <a href="https://news.ycombinator.com/item?id=49567594">hacker news</a></small></p><hr/><p>On Thursday, September 3, 2026, OpenAI, Anthropic, and xAI chatbots experienced simultaneous service disruptions. SpaceXAI attributed the Grok outage to a failure at its Memphis compute center and issued an apology to its compute partners. OpenAI reported a routing error affecting ChatGPT, while Anthropic addressed elevated error rates across several Claude models before resolving the issue.</p><p>The coordinated timing of the incidents has raised questions about shared infrastructure dependencies, particularly given the compute partnership between Anthropic and SpaceX. While major cloud providers like Amazon Web Services and Microsoft Azure reported no service interruptions, the event highlights potential systemic risks associated with concentrated AI compute resources.</p><p><img src="https://theaicronicle.com/storage/articles/cd97c826-1167-4ada-bba2-f7d8b4a65578.jpg" /></p><hr/><small>5 Sep 2026, 16:11 UTC | #20237</small>]]></content>
+  </entry>
   <entry>
     <title>The Limitations of the 'Next-Token Predictor' Model for LLMs</title>
     <link href="https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html" rel="alternate" />
