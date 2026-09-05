@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-04T23:42:00+00:00</updated>
+  <updated>2026-09-05T00:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Microsoft Argues Copilot Rarely Reproduces Copyrighted Text in Legal Filings</title>
+    <link href="https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IldwdFJmaGQ3OWciLCJwIjoiL3BvbGljeS85OTAyNjcvbWljcm9zb2Z0LW9wZW5haS1uZXcteW9yay10aW1lcy1hdXRob3JzLWxhd3N1aXQiLCJleHAiOjE3ODg5OTg5OTksImlhdCI6MTc4ODU2Njk5OX0.0W2E2SvJtcqIzc31d3Qg-xB0MnXWx7udT_Ny8bYC-QU&amp;utm_medium=gift-link" rel="alternate" />
+    <id>https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IldwdFJmaGQ3OWciLCJwIjoiL3BvbGljeS85OTAyNjcvbWljcm9zb2Z0LW9wZW5haS1uZXcteW9yay10aW1lcy1hdXRob3JzLWxhd3N1aXQiLCJleHAiOjE3ODg5OTg5OTksImlhdCI6MTc4ODU2Njk5OX0.0W2E2SvJtcqIzc31d3Qg-xB0MnXWx7udT_Ny8bYC-QU&amp;utm_medium=gift-link::v238</id>
+    <published>2026-09-05T00:11:00+00:00</published>
+    <updated>2026-09-05T00:11:00+00:00</updated>
+    <media:thumbnail url="https://handsontek.net/images/M365Admin/Posts/66635b9e29239318c787c8e7ed38d75e9317e4d7.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IldwdFJmaGQ3OWciLCJwIjoiL3BvbGljeS85OTAyNjcvbWljcm9zb2Z0LW9wZW5haS1uZXcteW9yay10aW1lcy1hdXRob3JzLWxhd3N1aXQiLCJleHAiOjE3ODg5OTg5OTksImlhdCI6MTc4ODU2Njk5OX0.0W2E2SvJtcqIzc31d3Qg-xB0MnXWx7udT_Ny8bYC-QU&utm_medium=gift-link">theverge.com</a> | <a href="https://www.courtlistener.com/docket/67810584/authors-guild-v-openai-inc/">source</a></small></p><hr/><p>Microsoft's recent legal filings claim that Copilot rarely reproduces substantive portions of protected news articles or books. Based on an analysis of 8.2 million chat logs, the company asserts that very few conversations showed significant word matches with copyrighted works, supporting its "transformative use" defense in ongoing litigation.</p><p>Plaintiffs, including The New York Times and various authors, argue that Microsoft and OpenAI create products that act as direct substitutes for their original journalism and creative works. The consolidated legal battle is currently seeing Microsoft seek summary judgment to dismiss the case. The outcome could set a major legal precedent regarding how generative AI models utilize proprietary content for training.</p><p><img src="https://handsontek.net/images/M365Admin/Posts/66635b9e29239318c787c8e7ed38d75e9317e4d7.png" /></p><hr/><small>5 Sep 2026, 07:22 UTC | #20200</small>]]></content>
+  </entry>
   <entry>
     <title>US and China to Hold AI Safety Dialogue in Mid-September</title>
     <link href="https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/" rel="alternate" />
