@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-05T00:38:00+00:00</updated>
+  <updated>2026-09-05T04:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI GPT-6 Astra API Pricing and Agentic Capabilities Announced</title>
+    <link href="https://openrouter.ai/openai/gpt-6-astra" rel="alternate" />
+    <id>https://openrouter.ai/openai/gpt-6-astra::v238</id>
+    <published>2026-09-05T04:15:00+00:00</published>
+    <updated>2026-09-05T04:15:00+00:00</updated>
+    <media:thumbnail url="https://www.braintools.ru/images/2025/10/23/OpenRouter-AI-v-rossii-kak-oplatit-poluchit-API-klyuch-i-integrirovat-v-X-GPTWriter.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://openrouter.ai/openai/gpt-6-astra">openrouter.ai</a> | <a href="https://openai.com/index/gpt-6-astra/">source</a> | <a href="https://news.ycombinator.com/item?id=49570545">hacker news</a></small></p><hr/><p>OpenAI's GPT-6 Astra is designed for agentic computer-use tasks, such as filling out online forms, updating CRM records, and managing calendars. The model is available through OpenRouter via OpenAI and Azure (US) providers.</p><p>Batch API pricing is set at $5 per million input tokens and $25 per million output tokens. The model supports a context window of 1,050,000 tokens and a maximum output of 128,000 tokens.</p><p><img src="https://www.braintools.ru/images/2025/10/23/OpenRouter-AI-v-rossii-kak-oplatit-poluchit-API-klyuch-i-integrirovat-v-X-GPTWriter.png" /></p><hr/><small>5 Sep 2026, 12:07 UTC | #20225</small>]]></content>
+  </entry>
   <entry>
     <title>EEBench Benchmark Evaluates AI Performance in Circuit Design</title>
     <link href="https://eebench.org/blog/can-ai-design-circuit-boards-yet/" rel="alternate" />
