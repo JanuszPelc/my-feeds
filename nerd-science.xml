@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-05T16:52:00+00:00</updated>
+  <updated>2026-09-05T17:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Brad Feld Reflects on Life's True Luxuries</title>
+    <link href="https://feld.com/archives/2026/09/the-real-luxuries-in-life/" rel="alternate" />
+    <id>https://feld.com/archives/2026/09/the-real-luxuries-in-life/::v238</id>
+    <published>2026-09-05T17:47:00+00:00</published>
+    <updated>2026-09-05T17:47:00+00:00</updated>
+    <media:thumbnail url="https://i.pinimg.com/736x/7d/e5/33/7de533d39221455e8fe92c6b99f8b3fc.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://feld.com/archives/2026/09/the-real-luxuries-in-life/">feld.com</a> | <a href="https://news.ycombinator.com/item?id=49578866">hacker news</a></small></p><hr/><p>Brad Feld explores the concept of "real luxuries" in a reflection on aging and the transition into the fall season. He presents a list that identifies time, health, a quiet mind, and meaningful human connections as the true markers of luxury, rather than material wealth.</p><p>The list, shared by a contact named Amy, emphasizes the importance of intangible experiences like restorative sleep, slow mornings, and the ability to rest without guilt. The essay advocates for prioritizing mental tranquility and social connection over traditional consumerist definitions of status.</p><p><img src="https://i.pinimg.com/736x/7d/e5/33/7de533d39221455e8fe92c6b99f8b3fc.jpg" /></p><hr/><small>5 Sep 2026, 20:37 UTC | #20256</small>]]></content>
+  </entry>
   <entry>
     <title>3M Scientist Details How the Company Concealed the Spread of PFAS</title>
     <link href="https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen" rel="alternate" />
