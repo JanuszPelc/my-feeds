@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T06:06:00+00:00</updated>
+  <updated>2026-09-05T06:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Technical Breakdown of the Two-Player Elite Modification for BBC Micro</title>
+    <link href="https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html" rel="alternate" />
+    <id>https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html::v238</id>
+    <published>2026-09-05T06:08:00+00:00</published>
+    <updated>2026-09-05T06:08:00+00:00</updated>
+    <media:thumbnail url="https://play-lh.googleusercontent.com/yAdHFzSMawFmBuHiTQWeNhG_wL5cGGuqBEq0wkFrLlAQCov0nEapnt5xCk6c1Pdq9CsNcSmCV7ANIdlcNUZCRA" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html">elite.bbcelite.com</a> | <a href="https://lobste.rs/s/el3fvf/how_i_converted_bbc_micro_elite_into_two">discussion</a></small></p><hr/><p>Mark Moxon details the technical process of enabling two-player split-screen gameplay in the 6502 Second Processor version of Elite for the BBC Micro. The modification preserves the game's player-centric coordinate system by treating the second player as an entity within the first player's local space, allowing for a split-screen view while maintaining the original engine's logic.</p><p>Implementation requires performing complex geometric and arithmetic transformations to derive the second player's viewport from the first player's frame of reference on an 8-bit CPU. The full source code and detailed documentation for the assembly language modifications are available via a public GitHub repository.</p><p><img src="https://play-lh.googleusercontent.com/yAdHFzSMawFmBuHiTQWeNhG_wL5cGGuqBEq0wkFrLlAQCov0nEapnt5xCk6c1Pdq9CsNcSmCV7ANIdlcNUZCRA" /></p><hr/><small>5 Sep 2026, 13:29 UTC | #20226</small>]]></content>
+  </entry>
   <entry>
     <title>ASCII Smuggling Used by Spammers to Evade Email Filters</title>
     <link href="https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/" rel="alternate" />
