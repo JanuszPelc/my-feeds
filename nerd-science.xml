@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-04T22:04:00+00:00</updated>
+  <updated>2026-09-04T23:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Imperial Colors Manifesto Rejects Hexadecimal Color Notation</title>
+    <link href="https://qum.cz/imperial_colors/" rel="alternate" />
+    <id>https://qum.cz/imperial_colors/::v238</id>
+    <published>2026-09-04T23:41:00+00:00</published>
+    <updated>2026-09-04T23:41:00+00:00</updated>
+    <media:thumbnail url="https://i.pinimg.com/originals/c6/db/5c/c6db5cdcaee19bc2c4116ae3b0655ad6.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://qum.cz/imperial_colors/">qum.cz</a> | <a href="https://lobste.rs/s/5y7ije/imperial_colors_manifesto">discussion</a></small></p><hr/><p>The manifesto rejects hexadecimal color codes in digital design, characterizing these "Metric Units of Color" as machine-imposed standards that distance humans from visual expression. It proposes a transition to a set of 140 named "Imperial Colors" as a human-centric alternative to technical notation.</p><p>As a work of design satire, the text employs hyperbolic, revolutionary language to critique the abstraction inherent in web development and programming. It frames the use of hex codes as a form of technological tyranny, urging designers to reclaim a more intuitive way of describing the world.</p><p><img src="https://i.pinimg.com/originals/c6/db/5c/c6db5cdcaee19bc2c4116ae3b0655ad6.jpg" /></p><hr/><small>5 Sep 2026, 06:16 UTC | #20209</small>]]></content>
+  </entry>
   <entry>
     <title>89% of Americans Say Government Corruption is Widespread</title>
     <link href="https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx" rel="alternate" />
