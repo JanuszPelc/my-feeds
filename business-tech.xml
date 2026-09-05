@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-04T18:56:00+00:00</updated>
+  <updated>2026-09-04T22:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Micro1 Bids $12.5 Million for Spirit Airlines Data to Challenge Google's Bid</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-04/ai-startup-micro1-seeks-to-topple-google-s-bid-for-spirit-data" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-04/ai-startup-micro1-seeks-to-topple-google-s-bid-for-spirit-data::v238</id>
+    <published>2026-09-04T22:07:00+00:00</published>
+    <updated>2026-09-04T22:07:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/697386e9f4b4ec0c10173cdb/69fde2abae13f7cd5cd0b0a0_Website-Resources-DesignTemplate-p-1600.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-04/ai-startup-micro1-seeks-to-topple-google-s-bid-for-spirit-data">bloomberg.com</a></small></p><hr/><p>AI startup Micro1 has submitted a bid for Spirit Airlines' internal business records, attempting to overturn a $10 million deal secured by Google LLC. The archive contains approximately 100 million emails, 500 million Microsoft Teams items, and 16 million customer chat sessions.</p><p>The bid is being considered by a federal bankruptcy judge as part of Spirit Airlines' liquidation proceedings. The proposal faces potential opposition from a flight attendants' union citing privacy concerns regarding the de-identified datasets.</p><p><img src="https://cdn.prod.website-files.com/697386e9f4b4ec0c10173cdb/69fde2abae13f7cd5cd0b0a0_Website-Resources-DesignTemplate-p-1600.jpg" /></p><hr/><small>5 Sep 2026, 04:20 UTC | #20186</small>]]></content>
+  </entry>
   <entry>
     <title>G42 Explores US Ownership to Secure AI Chip Access</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-04/abu-dhabi-s-g42-weighs-us-ownership-to-safeguard-ai-chip-access" rel="alternate" />
@@ -967,23 +976,5 @@
     <updated>2026-08-31T04:29:00+00:00</updated>
     <media:thumbnail url="https://www.globalsmt.net/wp-content/uploads/elementor/thumbs/Taiwan-PCB-rb98w3gy79h84wz9xqzhcxo6nz8l9bkm4wxrn2sbjk.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://asia.nikkei.com/spotlight/supply-chain/nvidia-supplier-unimicron-probed-over-allegedly-relabeling-china-made-parts">asia.nikkei.com</a></small></p><hr/><p>Taiwanese prosecutors are investigating Unimicron Technology, a major producer of printed circuit boards and semiconductor substrates, for allegedly relabeling products made in China as being from Taiwan. The company serves as a key supplier to Nvidia, Intel, Google, and Amazon, and the probe focuses on potential violations of laws against origin laundering.</p><p>The investigation includes searches of company offices and questioning of multiple employees. Unimicron's shares dropped 10% following the announcement. The company has stated it will cooperate with the investigation and maintains that its operations have not been significantly impacted.</p><p><img src="https://www.globalsmt.net/wp-content/uploads/elementor/thumbs/Taiwan-PCB-rb98w3gy79h84wz9xqzhcxo6nz8l9bkm4wxrn2sbjk.png" /></p><hr/><small>31 Aug 2026, 10:41 UTC | #19635</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Maps Renames Lake Ontario as "Lake America" for U.S. Users</title>
-    <link href="https://apnews.com/article/lake-trump-ontario-america-7c5c9776d72cb8e8d782e05ec6e7332b" rel="alternate" />
-    <id>https://apnews.com/article/lake-trump-ontario-america-7c5c9776d72cb8e8d782e05ec6e7332b::v237</id>
-    <published>2026-08-31T04:24:00+00:00</published>
-    <updated>2026-08-31T04:24:00+00:00</updated>
-    <media:thumbnail url="https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/GUXPMR4YU3ZRXZPN7I2TZZNQ4Q.jpg?auth=ae1ca084498b44587d2cd17010203f9e5a6e8267ab4b0f062ac572c0044ed51d&amp;width=800&amp;height=533" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://apnews.com/article/lake-trump-ontario-america-7c5c9776d72cb8e8d782e05ec6e7332b">apnews.com</a> | <a href="https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/">source</a> | <a href="https://news.ycombinator.com/item?id=49495947">hacker news</a></small></p><hr/><p>Google has updated its Maps application to display "Lake America" instead of "Lake Ontario" for users in the United States. This change follows an update to the U.S. Geographic Names Information System (GNIS) prompted by a presidential executive order.</p><p>Canadian users will continue to see "Lake Ontario," while users in the rest of the world will see both names. The update occurs amid escalating trade disputes between the United States and Canada.</p><p><img src="https://wplginc-wplg-prod.web.arc-cdn.net/resizer/v2/GUXPMR4YU3ZRXZPN7I2TZZNQ4Q.jpg?auth=ae1ca084498b44587d2cd17010203f9e5a6e8267ab4b0f062ac572c0044ed51d&width=800&height=533" /></p><hr/><small>31 Aug 2026, 09:26 UTC | #19632</small>]]></content>
-  </entry>
-  <entry>
-    <title>ING Estimates AI Boom Accounts for One-Third of US Economic Growth</title>
-    <link href="https://www.wsj.com/economy/global/how-the-ai-investment-craze-is-keeping-the-global-economy-afloat-0d62c000?st=L9yWzY&amp;reflink=desktopwebshare_permalink" rel="alternate" />
-    <id>https://www.wsj.com/economy/global/how-the-ai-investment-craze-is-keeping-the-global-economy-afloat-0d62c000?st=L9yWzY&amp;reflink=desktopwebshare_permalink::v237</id>
-    <published>2026-08-31T04:21:00+00:00</published>
-    <updated>2026-08-31T04:21:00+00:00</updated>
-    <media:thumbnail url="https://economicsinsider.com/wp-content/uploads/2025/01/1.-US-growth2017-2026.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/economy/global/how-the-ai-investment-craze-is-keeping-the-global-economy-afloat-0d62c000?st=L9yWzY&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://think.ing.com/opinions/how-much-is-ai-contributing-to-us-economic-growth/">source</a></small></p><hr/><p>Artificial intelligence investment and infrastructure development are driving approximately one-third of recent United States economic growth, according to estimates from ING. This technological surge is helping to offset broader global growth pressures caused by energy supply constraints and geopolitical tensions.</p><p>The growth is primarily fueled by massive capital expenditures in software and the construction of data centers, alongside wealth effects from rising valuations. While this investment provides a significant buffer for the US economy, analysts note the outsized role of a single sector in sustaining national GDP growth.</p><p><img src="https://economicsinsider.com/wp-content/uploads/2025/01/1.-US-growth2017-2026.jpg" /></p><hr/><small>31 Aug 2026, 09:08 UTC | #19631</small>]]></content>
   </entry>
 </feed>

@@ -239,13 +239,4 @@
     <media:thumbnail url="https://www.theeducationmagazine.com/wp-content/uploads/2026/05/AI-Academic-Integrity_-Infographic.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by">lobste.rs</a> | <a href="https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by">discussion</a></small></p><hr/><p>Multiple panelists at a recent conference used artificial intelligence to record questions and generate responses during a Q&amp;A session. The author describes this behavior as a sign of intellectual laziness and a lack of respect for the spontaneous reasoning expected in academic environments.</p><p>While the author views AI as useful for rote tasks like translation or editing, they argue against using it for activities requiring genuine thought. This observation highlights concerns about the potential for generative AI to erode critical thinking and independent inquiry in academia.</p><p><img src="https://www.theeducationmagazine.com/wp-content/uploads/2026/05/AI-Academic-Integrity_-Infographic.jpg" /></p><hr/><small>31 Aug 2026, 18:35 UTC | #19688</small>]]></content>
   </entry>
-  <entry>
-    <title>SAT Solvers Identify Smallest Countermodels for Tarski's High School Algebra Problem</title>
-    <link href="https://arxiv.org/abs/2608.08421" rel="alternate" />
-    <id>https://arxiv.org/abs/2608.08421::v237</id>
-    <published>2026-08-31T04:18:00+00:00</published>
-    <updated>2026-08-31T04:18:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/uJqbHaFqjmI/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arxiv.org/abs/2608.08421">arxiv.org</a> | <a href="https://lobste.rs/s/syxqrd/sat_attack_on_tarski_s_high_school_algebra">discussion</a> | <a href="https://news.ycombinator.com/item?id=49268565">hacker news</a></small></p><hr/><p>Researchers have used SAT solvers to resolve a long-standing question regarding Tarski's high school algebra problem by determining the size of the smallest possible countermodels. The study proves that the minimum size for these countermodels is 12 elements, validating a prior conjecture by Burris and Yeats.</p><p>The methodology identified 8,957,952 distinct countermodels of size 12 up to isomorphism and provided a classification for them. This SAT-based approach outperformed existing specialized tools such as Mace4 and SEM, and the results were formally verified using the Lean theorem prover.</p><p><img src="https://i.ytimg.com/vi/uJqbHaFqjmI/maxresdefault.jpg" /></p><hr/><small>31 Aug 2026, 08:53 UTC | #19651</small>]]></content>
-  </entry>
 </feed>
