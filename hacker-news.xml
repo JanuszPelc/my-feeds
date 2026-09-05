@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T17:52:00+00:00</updated>
+  <updated>2026-09-05T17:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Gmail "Send As" and Alias Setup</title>
+    <link href="https://support.google.com/mail/answer/22370?hl=en" rel="alternate" />
+    <id>https://support.google.com/mail/answer/22370?hl=en::v238</id>
+    <published>2026-09-05T17:54:00+00:00</published>
+    <updated>2026-09-05T17:54:00+00:00</updated>
+    <media:thumbnail url="https://assets.mailmeteor.com/blog/gmail-alias/send-email-from-gmail-alias.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://support.google.com/mail/answer/22370?hl=en">support.google.com</a> | <a href="https://news.ycombinator.com/item?id=49565693">hacker news</a></small></p><hr/><p>Gmail supports sending emails from up to 99 different addresses, including Google Workspace aliases and non-Gmail accounts like Outlook or Yahoo. To use an external address, users must add the account and verify it via a confirmation link to use it as a "From" address.</p><p>Starting January 2027, Gmail will discontinue support for the "Send as" feature for third-party email addresses, though Google-hosted identities and Workspace aliases will remain functional. Users can also use Gmail aliases—adding specific suffixes to their usernames—to facilitate automated mail filtering.</p><p><img src="https://assets.mailmeteor.com/blog/gmail-alias/send-email-from-gmail-alias.jpg" /></p><hr/><small>5 Sep 2026, 22:32 UTC | #20262</small>]]></content>
+  </entry>
   <entry>
     <title>VectorWare Enables Rust's Portable SIMD on GPUs</title>
     <link href="https://vectorware.com/blog/simd-on-gpu/" rel="alternate" />
