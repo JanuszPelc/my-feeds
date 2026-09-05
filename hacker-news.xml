@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T13:09:00+00:00</updated>
+  <updated>2026-09-05T13:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Impact of Memory Caching on Software Performance</title>
+    <link href="https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/" rel="alternate" />
+    <id>https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/::v238</id>
+    <published>2026-09-05T13:12:00+00:00</published>
+    <updated>2026-09-05T13:12:00+00:00</updated>
+    <media:thumbnail url="https://malt.zendesk.com/attachments/token/smM67szNR2dAQEFQvYFTjXCMh/?name=image.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/">randomascii.wordpress.com</a> | <a href="https://lobste.rs/s/grm0m9/knowing_where_type_zero_2015">discussion</a></small></p><hr/><p>Minor code changes, such as modifying a single integer, can result in significant performance improvements in software optimization. The author details two specific debugging instances: one where erroneously allocating non-cacheable memory on an Xbox significantly increased CPU usage, and another where incorrect constant values caused performance regressions.</p><p>Through the use of a test harness, the author provides scientific measurement to prove that correcting memory allocation flags can reduce CPU time for specific functions from 7% to 0.7%. This approach highlights the necessity of accurate profiling and an understanding of how hardware caching interacts with software-defined memory attributes.</p><p><img src="https://malt.zendesk.com/attachments/token/smM67szNR2dAQEFQvYFTjXCMh/?name=image.png" /></p><hr/><small>5 Sep 2026, 17:24 UTC | #20244</small>]]></content>
+  </entry>
   <entry>
     <title>Bespoke Programming Language Employs Victorian Etiquette and Polite Syntax</title>
     <link href="https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/" rel="alternate" />
@@ -946,14 +955,5 @@
     <updated>2026-08-31T21:18:00+00:00</updated>
     <media:thumbnail url="https://imgproxy.divecdn.com/UPGG36NH2xuQ-XiReHvub2HdCrbg35Ju9xUx2t3iXFw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc0MTA2MjM0LmpwZw==.webp" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.foxnews.com/politics/first-fox-texas-becomes-testing-ground-new-defense-against-attacks-americas-water-systems">foxnews.com</a></small></p><hr/><p>The "Project Watershed 250" initiative is a six-month pilot program in Texas designed to defend water systems against cyberattacks using American artificial intelligence and cybersecurity tools. The program employs "red-teaming" to stress-test utility networks, identifying and fixing vulnerabilities before they can be exploited by adversaries.</p><p>The effort involves partnerships between the EPA, the Cybersecurity and Infrastructure Security Agency (CISA), the state of Texas, and private companies including Microsoft and Dragos. While officials noted the program is not a direct response to recent attacks on Minnesota water systems, the pilot seeks to create a scalable cybersecurity model for water utilities across the United States.</p><p><img src="https://imgproxy.divecdn.com/UPGG36NH2xuQ-XiReHvub2HdCrbg35Ju9xUx2t3iXFw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc0MTA2MjM0LmpwZw==.webp" /></p><hr/><small>31 Aug 2026, 23:56 UTC | #19693</small>]]></content>
-  </entry>
-  <entry>
-    <title>Emoji UTF-8 Sequences as 8088 Machine Code</title>
-    <link href="https://martypc.blogspot.com/2026/08/executable-emoji.html" rel="alternate" />
-    <id>https://martypc.blogspot.com/2026/08/executable-emoji.html::v237</id>
-    <published>2026-08-31T17:14:00+00:00</published>
-    <updated>2026-08-31T17:14:00+00:00</updated>
-    <media:thumbnail url="https://cdn.posts.azureagst.dev/2022/07/n93k6oc2wab71.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://martypc.blogspot.com/2026/08/executable-emoji.html">martypc.blogspot.com</a> | <a href="https://lobste.rs/s/zxggzb/executable_emoji">discussion</a> | <a href="https://news.ycombinator.com/item?id=49205813">hacker news</a></small></p><hr/><p>UTF-8 encoded emoji sequences can represent valid 8088 machine code instructions. Because most emoji graphemes start with the `F0 9F` byte sequence, they can be interpreted as a series of `LAHF` and `NOP` instructions on the Intel 8088 processor. The author demonstrates this by presenting a functional "Hello World" program constructed entirely from emoji.</p><p>The technique relies on undocumented 8088 instruction aliases and specific byte sequences to manipulate video memory and control hardware. While similar methods have used ASCII characters, this approach leverages the Unicode standard to create executable data. Successful execution requires an emulator like DOSBox-X configured to use an 8086 CPU core.</p><p><img src="https://cdn.posts.azureagst.dev/2022/07/n93k6oc2wab71.png" /></p><hr/><small>31 Aug 2026, 22:23 UTC | #19727</small>]]></content>
   </entry>
 </feed>

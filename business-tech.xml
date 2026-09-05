@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-05T06:46:00+00:00</updated>
+  <updated>2026-09-05T13:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>NYC PIT Crew Announces Recruitment for Digital Public Goods Initiative</title>
+    <link href="https://www.nyc.gov/content/pitcrew/pages/" rel="alternate" />
+    <id>https://www.nyc.gov/content/pitcrew/pages/::v238</id>
+    <published>2026-09-05T13:13:00+00:00</published>
+    <updated>2026-09-05T13:13:00+00:00</updated>
+    <media:thumbnail url="https://blackstarnews.com/wp-content/uploads/2026/07/Screenshot-2026-07-13-at-17-31-23-80-NYC-Public-Interest-Technology-PIT-Pop-Up-2025-Highlight-Reel-YouTube.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.nyc.gov/content/pitcrew/pages/">nyc.gov</a> | <a href="https://lobste.rs/s/svyytg/nyc_pit_crew">discussion</a></small></p><hr/><p>This in-house team of software engineers, designers, product managers, and user researchers focuses on building digital public goods. The group's mission is to improve the experience of interacting with city government for all New Yorkers.</p><p>Current recruitment efforts include openings for a Senior Product Engineer, a Senior Product Designer, and a Senior Product Manager. The team's work aims to make government digital services more dignified and efficient.</p><p><img src="https://blackstarnews.com/wp-content/uploads/2026/07/Screenshot-2026-07-13-at-17-31-23-80-NYC-Public-Interest-Technology-PIT-Pop-Up-2025-Highlight-Reel-YouTube.png" /></p><hr/><small>5 Sep 2026, 17:27 UTC | #20245</small>]]></content>
+  </entry>
   <entry>
     <title>Kai-Fu Lee on China's AI Development and US Chip Restrictions</title>
     <link href="https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODU2NDY4OSwiZXhwIjoxNzg5MTY5NDg5LCJhcnRpY2xlSWQiOiJUS1RQV0tLSVVQUzgwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.nLBC-9yf4-nPwNS-uFqtGKEZT4W6X3MXMOQKHqeF4Ws" rel="alternate" />
@@ -913,14 +922,5 @@
     <updated>2026-08-31T17:30:00+00:00</updated>
     <media:thumbnail url="https://rt.fi/wp-content/uploads/2026/01/INFRA-Ilari-Keranen.jpg" />
     <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/housemarque-co-founder-ilari-kuittinen-retires-from-studio">gamedeveloper.com</a> | <a href="https://www.linkedin.com/posts/ilari-kuittinen-3981b_housemarque-playstationstudios-gamedev-share-7500169779316666370-i0vK/">source</a></small></p><hr/><p>Ilari Kuittinen, co-founder and CEO of Housemarque, is retiring from the studio after 31 years. Sami "Haxu" Hakala has been appointed as managing director to succeed him, following a transition period designed to ensure operational stability.</p><p>Kuittinen co-founded the studio in 1995 with Harri Tikkanen, making it the oldest active game studio in Finland. His departure follows a trend of veteran leadership transitions at other PlayStation Studios, including long-term studio heads at Naughty Dog, Sucker Punch, and Insomniac Games.</p><p><img src="https://rt.fi/wp-content/uploads/2026/01/INFRA-Ilari-Keranen.jpg" /></p><hr/><small>31 Aug 2026, 22:35 UTC | #19721</small>]]></content>
-  </entry>
-  <entry>
-    <title>Together AI Partners with Humain for Data Center Infrastructure in Saudi Arabia</title>
-    <link href="https://www.nytimes.com/2026/08/31/business/dealbook/together-ai-humain-saudi-arabia-data-center.html?unlocked_article_code=1.9lA.oOPI.h2UKXnt1l8Cz" rel="alternate" />
-    <id>https://www.nytimes.com/2026/08/31/business/dealbook/together-ai-humain-saudi-arabia-data-center.html?unlocked_article_code=1.9lA.oOPI.h2UKXnt1l8Cz::v237</id>
-    <published>2026-08-31T17:13:00+00:00</published>
-    <updated>2026-08-31T17:13:00+00:00</updated>
-    <media:thumbnail url="https://static01.nyt.com/images/2026/08/31/multimedia/31db-saudi-data-center-phooto-mqcf/31db-saudi-data-center-phooto-mqcf-superJumbo.jpg?quality=75&amp;auto=webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/08/31/business/dealbook/together-ai-humain-saudi-arabia-data-center.html?unlocked_article_code=1.9lA.oOPI.h2UKXnt1l8Cz">nytimes.com</a> | <a href="https://pressreleasehub.pa.media/article/together-ai-and-humain-form-strategic-partnership-to-accelerate-ai-infrastructure-and-cloud-services-in-saudi-arabia-81899.html">source</a></small></p><hr/><p>Together AI has signed a deal to utilize computing resources from Humain in Saudi Arabia. The partnership includes the construction of a 250-megawatt data center to expand the company's cloud and inference capabilities for its open-source AI models.</p><p>The project is expected to generate over $5 billion in annualized revenue and involves the deployment of 120,000 AI chips. By expanding into the kingdom, the San Francisco-based startup can increase its infrastructure capacity while sidestepping regulatory and social backlash regarding data center development in the United States.</p><p><img src="https://static01.nyt.com/images/2026/08/31/multimedia/31db-saudi-data-center-phooto-mqcf/31db-saudi-data-center-phooto-mqcf-superJumbo.jpg?quality=75&auto=webp" /></p><hr/><small>31 Aug 2026, 22:19 UTC | #19681</small>]]></content>
   </entry>
 </feed>
