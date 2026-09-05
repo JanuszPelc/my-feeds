@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T01:05:00+00:00</updated>
+  <updated>2026-09-05T01:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Shitter Instance Status Directory</title>
+    <link href="https://codeberg.org/mv12star/shitter/wiki/Instances" rel="alternate" />
+    <id>https://codeberg.org/mv12star/shitter/wiki/Instances::v238</id>
+    <published>2026-09-05T01:07:00+00:00</published>
+    <updated>2026-09-05T01:07:00+00:00</updated>
+    <media:thumbnail url="https://forum-uploads.privacyguidesusercontent.com/original/2X/8/82284abf71e22d37a0b6cafa7c912701889b0ff7.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://codeberg.org/mv12star/shitter/wiki/Instances">codeberg.org</a> | <a href="https://news.ycombinator.com/item?id=49571634">hacker news</a></small></p><hr/><p>Shitter instances, a fork of the Nitter Twitter front-end, are categorized by their operational status: working, rate-limited, or defunct. The list includes various web mirrors and Tor-accessible onion services used to browse Twitter content.</p><p>The wiki provides documentation for self-hosting, including methods for obtaining session tokens and navigating DMCA takedowns. Advanced configuration repositories are also available to optimize the performance of public instances.</p><p><img src="https://forum-uploads.privacyguidesusercontent.com/original/2X/8/82284abf71e22d37a0b6cafa7c912701889b0ff7.png" /></p><hr/><small>5 Sep 2026, 11:26 UTC | #20222</small>]]></content>
+  </entry>
   <entry>
     <title>KDE Plasma Needs Help Triaging Plasmashell Bug Reports</title>
     <link href="https://pointieststick.com/2026/09/03/bug-triaging-help-needed/" rel="alternate" />
