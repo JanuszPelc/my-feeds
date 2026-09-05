@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T17:54:00+00:00</updated>
+  <updated>2026-09-05T20:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Btrfs for NAS and Backup Storage</title>
+    <link href="https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your" rel="alternate" />
+    <id>https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your::v238</id>
+    <published>2026-09-05T20:35:00+00:00</published>
+    <updated>2026-09-05T20:35:00+00:00</updated>
+    <media:thumbnail url="https://www.wundertech.net/wp-content/uploads/2023/05/image-2-1024x720.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your">lobste.rs</a> | <a href="https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your">discussion</a></small></p><hr/><p>Btrfs provides flexible redundancy through subvolumes and heterogeneous disk support, alongside snapshotting capabilities that assist in recovering from accidental file deletions. Data durability is ensured by maintaining backups across multiple machines or cloud providers rather than relying exclusively on a single filesystem's reliability.</p><p>Compared to ZFS, Btrfs requires less resource overhead and presents lower management complexity, making it a practical choice for small-scale NAS and virtualization hosts like Proxmox. While ZFS is highly robust, its requirements are better suited for large-scale enterprise environments with significant memory and concurrent usage.</p><p><img src="https://www.wundertech.net/wp-content/uploads/2023/05/image-2-1024x720.png" /></p><hr/><small>5 Sep 2026, 23:36 UTC | #20264</small>]]></content>
+  </entry>
   <entry>
     <title>Gmail "Send As" and Alias Setup</title>
     <link href="https://support.google.com/mail/answer/22370?hl=en" rel="alternate" />
