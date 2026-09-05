@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T22:08:00+00:00</updated>
+  <updated>2026-09-04T23:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Statichost.eu Provides European-Owned Static Site Hosting</title>
+    <link href="https://www.statichost.eu/" rel="alternate" />
+    <id>https://www.statichost.eu/::v238</id>
+    <published>2026-09-04T23:44:00+00:00</published>
+    <updated>2026-09-04T23:44:00+00:00</updated>
+    <media:thumbnail url="https://webpundits.in/wp-content/uploads/2026/04/european-vps-vs-us-server-comparison.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.statichost.eu/">statichost.eu</a> | <a href="https://news.ycombinator.com/item?id=49569896">hacker news</a></small></p><hr/><p>Statichost.eu provides static site hosting using entirely European-owned infrastructure to serve as an alternative to American cloud providers. The service aims to eliminate reliance on companies like AWS and Cloudflare by managing every layer of the stack, from git deployment to the content delivery network (CDN), on European-based hardware and networks.</p><p>Founded by Eric Selin in Stockholm, Sweden, the platform is built for developers seeking increased data sovereignty and infrastructure independence. The service utilizes multiple regions of Hetzner for redundancy and supports various static site generators.</p><p><img src="https://webpundits.in/wp-content/uploads/2026/04/european-vps-vs-us-server-comparison.png" /></p><hr/><small>5 Sep 2026, 06:55 UTC | #20212</small>]]></content>
+  </entry>
   <entry>
     <title>Jank Improves C++ Error Reporting and Launches Official Native Package Repository</title>
     <link href="https://jank-lang.org/blog/2026-09-04-better-and-better/" rel="alternate" />
