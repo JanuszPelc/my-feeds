@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T16:56:00+00:00</updated>
+  <updated>2026-09-05T17:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>How Rust's `dyn Trait` and Vtables Work in Memory</title>
+    <link href="https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/" rel="alternate" />
+    <id>https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/::v238</id>
+    <published>2026-09-05T17:50:00+00:00</published>
+    <updated>2026-09-05T17:50:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*UI-EWVFNinMwUtQOY4MFJw.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/">sofiabelen.github.io</a> | <a href="https://lobste.rs/s/6du6h3/visualizing_rust_s_vtables_how_dyn_trait">discussion</a> | <a href="https://news.ycombinator.com/item?id=49576343">hacker news</a></small></p><hr/><p>Rust implements runtime polymorphism via `dyn Trait` using wide pointers that combine a data pointer with a vtable pointer. This mechanism facilitates polymorphism for zero-sized types, as identity is managed through ownership and the borrow checker rather than object memory addresses. Unlike C++, where vtable pointers are typically embedded within the object, Rust's vtables are external and paired with the object at the call site.</p><p>Trait objects require the underlying trait to meet "object safety" rules, which prohibit methods from returning `Self` or using generic parameters. These restrictions ensure that the size of returned values and the number of vtable entries remain predictable. This architecture allows the choice between static and dynamic dispatch to be determined at the call site rather than being fixed at the type level.</p><p><img src="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*UI-EWVFNinMwUtQOY4MFJw.png" /></p><hr/><small>5 Sep 2026, 21:18 UTC | #20259</small>]]></content>
+  </entry>
   <entry>
     <title>AMD BC-250 Repurposed as Budget Gaming PC</title>
     <link href="https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/" rel="alternate" />
@@ -964,14 +973,5 @@
     <updated>2026-08-31T21:37:00+00:00</updated>
     <media:thumbnail url="https://habrastorage.org/r/w1560/getpro/habr/upload_files/903/962/006/903962006f52881b96c6c1b5123dd05c.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://erk.dev/2026/08/30/rangefrom-part-2">erk.dev</a> | <a href="https://lobste.rs/s/hyn2bt/rangefrom_part_2_what_i_think_is_wrong">discussion</a></small></p><hr/><p>The implementation of the `RangeFrom` iterator in Rust is criticized for causing inconsistent and unexpected behavior during integer overflow. Key issues identified include the potential to yield values outside a range, failure to reach the maximum value in certain overflow-check settings, and divergent behaviors across types such as `char`, `Ipv4Addr`, and `NonZero&lt;u*&gt;`.</p><p>To resolve these issues, the author suggests using `Step::checked_forward` to return `None` when reaching a type's limit. The piece also proposes a new `enumerate_with` method to more effectively integrate `Step` trait implementations into iterator chains, offering a more expressive alternative to the current `zip` approach.</p><p><img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/903/962/006/903962006f52881b96c6c1b5123dd05c.png" /></p><hr/><small>1 Sep 2026, 01:43 UTC | #19736</small>]]></content>
-  </entry>
-  <entry>
-    <title>Trump Administration Launches Texas Pilot to Secure Water Infrastructure</title>
-    <link href="https://www.foxnews.com/politics/first-fox-texas-becomes-testing-ground-new-defense-against-attacks-americas-water-systems" rel="alternate" />
-    <id>https://www.foxnews.com/politics/first-fox-texas-becomes-testing-ground-new-defense-against-attacks-americas-water-systems::v237</id>
-    <published>2026-08-31T21:18:00+00:00</published>
-    <updated>2026-08-31T21:18:00+00:00</updated>
-    <media:thumbnail url="https://imgproxy.divecdn.com/UPGG36NH2xuQ-XiReHvub2HdCrbg35Ju9xUx2t3iXFw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc0MTA2MjM0LmpwZw==.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.foxnews.com/politics/first-fox-texas-becomes-testing-ground-new-defense-against-attacks-americas-water-systems">foxnews.com</a></small></p><hr/><p>The "Project Watershed 250" initiative is a six-month pilot program in Texas designed to defend water systems against cyberattacks using American artificial intelligence and cybersecurity tools. The program employs "red-teaming" to stress-test utility networks, identifying and fixing vulnerabilities before they can be exploited by adversaries.</p><p>The effort involves partnerships between the EPA, the Cybersecurity and Infrastructure Security Agency (CISA), the state of Texas, and private companies including Microsoft and Dragos. While officials noted the program is not a direct response to recent attacks on Minnesota water systems, the pilot seeks to create a scalable cybersecurity model for water utilities across the United States.</p><p><img src="https://imgproxy.divecdn.com/UPGG36NH2xuQ-XiReHvub2HdCrbg35Ju9xUx2t3iXFw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc0MTA2MjM0LmpwZw==.webp" /></p><hr/><small>31 Aug 2026, 23:56 UTC | #19693</small>]]></content>
   </entry>
 </feed>
