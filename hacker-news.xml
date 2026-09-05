@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T13:05:00+00:00</updated>
+  <updated>2026-09-05T13:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Pushin.eu Launches EU-Based Git Hosting Service</title>
+    <link href="https://pushin.eu" rel="alternate" />
+    <id>https://pushin.eu::v238</id>
+    <published>2026-09-05T13:07:00+00:00</published>
+    <updated>2026-09-05T13:07:00+00:00</updated>
+    <media:thumbnail url="https://casd-eu.github.io/Seminar_Python_Git/assets/git_workflow_commands_TP1.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pushin.eu">pushin.eu</a> | <a href="https://news.ycombinator.com/item?id=49573680">hacker news</a></small></p><hr/><p>Pushin.eu is a Git hosting platform that hosts public and private repositories entirely within the European Union. The service aims to avoid the jurisdiction of the US CLOUD Act by operating under European law and utilizing bare-metal servers in France. The platform also intends to mitigate "slop"—low-quality automated contributions—to help prevent maintainer burnout.</p><p>Currently in an invite-only beta, the service is scheduled for general availability in early 2027. It provides a GitHub-compatible REST API, a command-line interface named `pun`, and a mirroring feature for syncing existing GitHub repositories.</p><p><img src="https://casd-eu.github.io/Seminar_Python_Git/assets/git_workflow_commands_TP1.png" /></p><hr/><small>5 Sep 2026, 16:42 UTC | #20240</small>]]></content>
+  </entry>
   <entry>
     <title>Fairphone Gen 6+ Emphasizes Modular Repairability and Longevity</title>
     <link href="https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/" rel="alternate" />
