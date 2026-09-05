@@ -851,22 +851,4 @@
     <media:thumbnail url="https://pbs.twimg.com/media/HHVnl9kaQAAgcI_.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1">wsj.com</a></small></p><hr/><p>Anthropic has entered into a $35 billion cloud computing agreement with Lambda, an Nvidia-backed provider. In a related infrastructure move, Nvidia will also supply chips and hold the lease on a Texas data center built by Hut 8.</p><p>These agreements illustrate Nvidia's strategy of leveraging its financial position to support key customers and secure the large-scale computing capacity required for modern AI development.</p><p><img src="https://pbs.twimg.com/media/HHVnl9kaQAAgcI_.jpg" /></p><hr/><small>1 Sep 2026, 06:45 UTC | #19729</small>]]></content>
   </entry>
-  <entry>
-    <title>Florida Revokes Permits for Flock Cameras on State Roads</title>
-    <link href="https://www.orlandosentinel.com/2026/08/31/florida-orders-flock-cameras-off-of-state-roads/" rel="alternate" />
-    <id>https://www.orlandosentinel.com/2026/08/31/florida-orders-flock-cameras-off-of-state-roads/::v237</id>
-    <published>2026-08-31T21:56:00+00:00</published>
-    <updated>2026-08-31T21:56:00+00:00</updated>
-    <media:thumbnail url="https://cbs12.com/resources/media/5b130e99-1194-49e7-8ece-423fa25ef86e-AshevilleFlockCamerasPackageTease.movframe596.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.orlandosentinel.com/2026/08/31/florida-orders-flock-cameras-off-of-state-roads/">orlandosentinel.com</a></small></p><hr/><p>The Florida Department of Transportation (FDOT) is revoking all active permits for automated license plate readers (ALPRs), such as Flock cameras, installed by local law enforcement on state highway rights-of-way. The agency also announced it will no longer issue new permits for this technology on state-maintained roads.</p><p>The directive cites an "exponential increase" in camera deployments, reports of misuse, and various data privacy and surveillance concerns. Local law enforcement agencies must comply with the order to remove existing hardware from state roads.</p><p><img src="https://cbs12.com/resources/media/5b130e99-1194-49e7-8ece-423fa25ef86e-AshevilleFlockCamerasPackageTease.movframe596.png" /></p><hr/><small>1 Sep 2026, 05:06 UTC | #19725</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Alleges Misuse of Stolen Schematics and Evidence Destruction in OpenAI Lawsuit</title>
-    <link href="https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/" rel="alternate" />
-    <id>https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/::v237</id>
-    <published>2026-08-31T21:49:00+00:00</published>
-    <updated>2026-08-31T21:49:00+00:00</updated>
-    <media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&amp;strip=all&amp;w=1600" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/">9to5mac.com</a> | <a href="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple_Inc_v_Liu_et_al__candce-26-07078__0094.1.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=49515738">hacker news</a></small></p><hr/><p>Apple has filed a new document in its trade secret lawsuit against OpenAI, claiming forensic analysis of a former engineer's MacBook provides evidence of misconduct. The filing alleges that former engineer Chang Liu used confidential Apple circuit schematics in his work at OpenAI and attempted to instruct a colleague to destroy evidence after learning of Apple's internal investigation.</p><p>Apple further claims that OpenAI was aware of unauthorized access to Apple's cloud storage and that Liu used a tool at OpenAI bearing the same name as an internal Apple engineering application. The company is seeking expedited discovery, arguing that feeding trade secrets into AI models can result in the irreversible and continuous propagation of proprietary information.</p><p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&w=1600" /></p><hr/><small>1 Sep 2026, 04:54 UTC | #19726</small>]]></content>
-  </entry>
 </feed>

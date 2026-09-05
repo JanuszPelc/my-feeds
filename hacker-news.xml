@@ -947,13 +947,4 @@
     <media:thumbnail url="https://images.hdqwalls.com/download/darling-in-the-franxx-anime-8i-1920x1080.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.darlinghq.org/">darlinghq.org</a> | <a href="https://news.ycombinator.com/item?id=49515830">hacker news</a></small></p><hr/><p>Darling is an open-source translation layer that enables the execution of macOS software on Linux. By implementing the Darwin environment—including core components like Mach, dyld, and launchd—it allows applications to run directly without hardware emulation, similar to how Wine functions for Windows applications.</p><p>While the project currently offers only experimental support for simple graphical applications, developers aim to provide seamless integration into the Linux desktop experience. Long-term goals include developing support for iOS applications on ARM-based devices through a custom implementation of the UIKit framework.</p><p><img src="https://images.hdqwalls.com/download/darling-in-the-franxx-anime-8i-1920x1080.jpg" /></p><hr/><small>1 Sep 2026, 05:21 UTC | #19741</small>]]></content>
   </entry>
-  <entry>
-    <title>ravynOS Develops Pre-Alpha Open-Source Operating System</title>
-    <link href="https://ravynos.com/" rel="alternate" />
-    <id>https://ravynos.com/::v237</id>
-    <published>2026-08-31T21:48:00+00:00</published>
-    <updated>2026-08-31T21:48:00+00:00</updated>
-    <media:thumbnail url="https://www.linuxeasy.org/wp-content/uploads/2025/10/ravynos-1024x770.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ravynos.com/">ravynos.com</a> | <a href="https://news.ycombinator.com/item?id=49511534">hacker news</a></small></p><hr/><p>ravynOS is an early-stage, open-source operating system built on Darwin, FreeBSD, and Apple open-source code. The project aims to provide the user experience and application compatibility of macOS while removing hardware and ecosystem restrictions.</p><p>The project is currently in a pre-alpha developer preview stage intended for system developers. It is not yet polished or considered ready for general end users.</p><p><img src="https://www.linuxeasy.org/wp-content/uploads/2025/10/ravynos-1024x770.webp" /></p><hr/><small>1 Sep 2026, 04:42 UTC | #19740</small>]]></content>
-  </entry>
 </feed>
