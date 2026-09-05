@@ -965,22 +965,4 @@
     <media:thumbnail url="https://jasontucker.blog/content/images/2026/06/CleanShot-2026-06-04-at-11.22.22.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/">jasontucker.blog</a> | <a href="https://news.ycombinator.com/item?id=49511856">hacker news</a></small></p><hr/><p>Jason Tucker uses BirdNet-Go to transform existing security cameras into an automated wildlife identification system. By streaming audio from IP cameras via RTSP, the setup performs real-time AI inference locally using Docker, enabling continuous monitoring of birds, bats, and other animals without cloud-based processing.</p><p>The implementation supports custom alerting via Discord and Home Assistant through MQTT and includes species novelty tracking to monitor local biodiversity. The system also allows users to share detection data with the BirdWeather community platform.</p><p><img src="https://jasontucker.blog/content/images/2026/06/CleanShot-2026-06-04-at-11.22.22.png" /></p><hr/><small>31 Aug 2026, 19:45 UTC | #19712</small>]]></content>
   </entry>
-  <entry>
-    <title>B-Level Scheduling Outperforms Cargo's Default Build Scheduler</title>
-    <link href="https://spirali.github.io/blog/cargo-scheduler/" rel="alternate" />
-    <id>https://spirali.github.io/blog/cargo-scheduler/::v237</id>
-    <published>2026-08-31T15:32:00+00:00</published>
-    <updated>2026-08-31T15:32:00+00:00</updated>
-    <media:thumbnail url="https://spirali.github.io/blog/cargo-scheduler/walltimes.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://spirali.github.io/blog/cargo-scheduler/">spirali.github.io</a> | <a href="https://lobste.rs/s/by7xg6/could_cargo_s_scheduler_be_better">discussion</a></small></p><hr/><p>An analysis of the Rust Cargo build system demonstrates that a "b-level" (bottom level) scheduling algorithm can significantly reduce build times compared to the default configuration. By analyzing dependency graphs derived from syscall traces, the study compares scheduling efficiency across 17 projects under varying levels of parallelism.</p><p>The b-level approach, which prioritizes tasks on the critical path, remains effective even when task durations are estimated with high noise or reduced to a single "short/long" bit. These findings suggest that simple timing databases could provide substantial build optimizations with minimal data complexity.</p><p><img src="https://spirali.github.io/blog/cargo-scheduler/walltimes.png" /></p><hr/><small>31 Aug 2026, 19:30 UTC | #19708</small>]]></content>
-  </entry>
-  <entry>
-    <title>The History and Evolution of Matrox</title>
-    <link href="https://www.abortretry.fail/p/matrox" rel="alternate" />
-    <id>https://www.abortretry.fail/p/matrox::v237</id>
-    <published>2026-08-31T15:27:00+00:00</published>
-    <updated>2026-08-31T15:27:00+00:00</updated>
-    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!B0XY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b56d87b-47b6-4cab-8312-a97fcf0dd67d_1578x990.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.abortretry.fail/p/matrox">abortretry.fail</a> | <a href="https://news.ycombinator.com/item?id=49503934">hacker news</a></small></p><hr/><p>Founded in 1976 by Lorne Trottier and Branko Matić, Matrox initially specialized in Video RAM and high-resolution display adapters for early microcomputers. Early products like the MTX-1632 and the S-100 bus ALT-256*2 provided high-resolution graphics and DMA support for researchers and hobbyists at a significantly lower cost than contemporary high-end hardware.</p><p>The company's client base expanded to include NASA's Viking mission and a $72 million US Army contract for a multimedia training system in 1986. As the market shifted toward IBM-compatible PCs, Matrox transitioned its technology from specialized architectures like Multibus to the 8-bit ISA bus.</p><p><img src="https://substackcdn.com/image/fetch/$s_!B0XY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b56d87b-47b6-4cab-8312-a97fcf0dd67d_1578x990.png" /></p><hr/><small>31 Aug 2026, 19:08 UTC | #19706</small>]]></content>
-  </entry>
 </feed>

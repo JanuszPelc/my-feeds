@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-05T11:00:00+00:00</updated>
+  <updated>2026-09-05T11:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>The Limitations of the 'Next-Token Predictor' Model for LLMs</title>
+    <link href="https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html" rel="alternate" />
+    <id>https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html::v238</id>
+    <published>2026-09-05T11:08:00+00:00</published>
+    <updated>2026-09-05T11:08:00+00:00</updated>
+    <media:thumbnail url="https://pub.mdpi-res.com/electronics/electronics-15-01533/article_deploy/html/images/electronics-15-01533-g001.png?1775620814" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html">gmcgoldr.github.io</a> | <a href="https://lobste.rs/s/fiirrs/stop_thinking_llms_as_next_token">discussion</a> | <a href="https://news.ycombinator.com/item?id=49567310">hacker news</a></small></p><hr/><p>The 'next-token predictor' label for Large Language Models (LLMs) is technically accurate regarding the autoregressive mechanism but incomplete as a conceptual model. Pre-training involves predicting tokens found in existing training data, whereas Reinforcement Learning with Verifiable Rewards (RLVR) allows models to explore and learn from new, non-sequential outcomes.</p><p>This shift is analogous to a chess engine that transitions from mimicking grandmaster moves to optimizing for winning probability through exploration. Consequently, the mechanism can encode complex behaviors and discovered knowledge rather than just statistical patterns from existing text.</p><p><img src="https://pub.mdpi-res.com/electronics/electronics-15-01533/article_deploy/html/images/electronics-15-01533-g001.png?1775620814" /></p><hr/><small>5 Sep 2026, 15:46 UTC | #20234</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Proposes Framework for Reporting AI Misalignment Incidents</title>
     <link href="https://x.com/openai/status/2096133504417616165" rel="alternate" />
