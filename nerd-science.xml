@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-05T17:47:00+00:00</updated>
+  <updated>2026-09-05T20:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Isar Aerospace's Spectrum Rocket Achieves Orbital Flight from Norway</title>
+    <link href="https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket" rel="alternate" />
+    <id>https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket::v238</id>
+    <published>2026-09-05T20:32:00+00:00</published>
+    <updated>2026-09-05T20:32:00+00:00</updated>
+    <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/K5YFiwFEXDGQeTecwrNxcY.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket">space.com</a> | <a href="https://isaraerospace.com/mission-2">source</a> | <a href="https://news.ycombinator.com/item?id=49580369">hacker news</a></small></p><hr/><p>The Spectrum rocket launched from Norway's Andøya Space Center on September 5, 2026, successfully entering an elliptical orbit. This flight marks the first time a rocket has reached orbit from Western European soil. The mission carried five cubesats and a scientific experiment, with payload deployment expected following a planned circularization burn.</p><p>This successful mission follows a failed attempt in March 2025 due to a loss of attitude control. Designed to transport up to 1,000 kilograms to low Earth orbit, the Spectrum rocket is part of a larger plan for Isar Aerospace to produce more than 30 launch vehicles annually from its Munich-area facility.</p><p><img src="https://cdn.mos.cms.futurecdn.net/K5YFiwFEXDGQeTecwrNxcY.jpg" /></p><hr/><small>5 Sep 2026, 22:46 UTC | #20263</small>]]></content>
+  </entry>
   <entry>
     <title>Brad Feld Reflects on Life's True Luxuries</title>
     <link href="https://feld.com/archives/2026/09/the-real-luxuries-in-life/" rel="alternate" />
