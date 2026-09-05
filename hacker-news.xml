@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T14:49:00+00:00</updated>
+  <updated>2026-09-05T16:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>AMD BC-250 Repurposed as Budget Gaming PC</title>
+    <link href="https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/" rel="alternate" />
+    <id>https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/::v238</id>
+    <published>2026-09-05T16:56:00+00:00</published>
+    <updated>2026-09-05T16:56:00+00:00</updated>
+    <media:thumbnail url="https://devquasar.com/wp-content/uploads/2025/11/bc-250_case-1024x768.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/">devquasar.com</a> | <a href="https://news.ycombinator.com/item?id=49576386">hacker news</a></small></p><hr/><p>The AMD BC-250 is a crypto-mining board featuring repurposed PlayStation 5 APUs. These chips, which were binned or deemed defective for console use, provide six Zen 2 cores and 24 RDNA 2 compute units alongside 16 GB of GDDR6 unified memory. Available on the second-hand market for approximately $70 to $100, these boards were originally designed for ASRock's rack-mount mining servers.</p><p>Conversion into a functional gaming PC requires hardware and firmware modifications, including upgrading the cooling system and flashing a custom BIOS to reallocate memory for graphics. Users running Linux distributions have demonstrated the hardware's ability to play modern titles like Cyberpunk 2077 at playable framerates.</p><p><img src="https://devquasar.com/wp-content/uploads/2025/11/bc-250_case-1024x768.jpg" /></p><hr/><small>5 Sep 2026, 19:48 UTC | #20252</small>]]></content>
+  </entry>
   <entry>
     <title>Zopt Command Line Argument Parser for Zig</title>
     <link href="https://codeberg.org/hgrsd/zopt" rel="alternate" />
