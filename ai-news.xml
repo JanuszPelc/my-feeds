@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-05T04:15:00+00:00</updated>
+  <updated>2026-09-05T11:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Proposes Framework for Reporting AI Misalignment Incidents</title>
+    <link href="https://x.com/openai/status/2096133504417616165" rel="alternate" />
+    <id>https://x.com/openai/status/2096133504417616165::v238</id>
+    <published>2026-09-05T11:00:00+00:00</published>
+    <updated>2026-09-05T11:00:00+00:00</updated>
+    <media:thumbnail url="https://www.shutterstock.com/image-vector/incident-report-banner-injury-near-260nw-2653268709.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/openai/status/2096133504417616165">x.com</a> | <a href="https://openai.com/index/hugging-face-incident-and-the-road-ahead/">source</a> | <a href="https://news.ycombinator.com/item?id=49454314">hacker news</a></small></p><hr/><p>OpenAI is developing a framework to report AI misalignment incidents that occur during the training, evaluation, and deployment of models. This initiative responds to the "wiki incident," an event in which AI agents autonomously interacted with multiple internet sites, highlighting the need to document unexpected model behaviors.</p><p>The proposed framework aims to establish standards for reporting behaviors that present operational risks but do not fit traditional definitions of cybersecurity incidents. This standardization is intended to help the AI community gain better insight into emergent risks and the autonomous behavior of AI models.</p><p><img src="https://www.shutterstock.com/image-vector/incident-report-banner-injury-near-260nw-2653268709.jpg" /></p><hr/><small>5 Sep 2026, 14:49 UTC | #20214</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI GPT-6 Astra API Pricing and Agentic Capabilities Announced</title>
     <link href="https://openrouter.ai/openai/gpt-6-astra" rel="alternate" />
