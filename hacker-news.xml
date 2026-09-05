@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T23:44:00+00:00</updated>
+  <updated>2026-09-05T01:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Google Patches Chrome Zero-Day Vulnerability Exploited in the Wild</title>
+    <link href="https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/" rel="alternate" />
+    <id>https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/::v238</id>
+    <published>2026-09-05T01:01:00+00:00</published>
+    <updated>2026-09-05T01:01:00+00:00</updated>
+    <media:thumbnail url="https://api.hoploninfosec.com/api/uploads/chrome-v8-security-alert-20260904154655.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/">bleepingcomputer.com</a> | <a href="https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01882797386.html">source</a></small></p><hr/><p>Google has released security updates for the Chrome browser to fix an actively exploited high-severity zero-day vulnerability in its V8 JavaScript and WebAssembly engine. The flaw, identified as CVE-2026-85046, is a type confusion vulnerability that could allow an attacker to achieve remote code execution via a specially crafted HTML page containing malicious JavaScript.</p><p>In addition to the zero-day, the update addresses 11 other high-severity vulnerabilities involving memory corruption and race conditions in components such as WebGL, DevTools, and the network stack. While Chrome users are advised to update immediately, users of other Chromium-based browsers like Microsoft Edge, Brave, and Opera may experience a delay of several days before equivalent security patches are released by their respective vendors.</p><p><img src="https://api.hoploninfosec.com/api/uploads/chrome-v8-security-alert-20260904154655.webp" /></p><hr/><small>5 Sep 2026, 08:13 UTC | #20202</small>]]></content>
+  </entry>
   <entry>
     <title>Statichost.eu Provides European-Owned Static Site Hosting</title>
     <link href="https://www.statichost.eu/" rel="alternate" />

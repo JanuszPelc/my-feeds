@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-04T19:26:00+00:00</updated>
+  <updated>2026-09-05T00:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>EEBench Benchmark Evaluates AI Performance in Circuit Design</title>
+    <link href="https://eebench.org/blog/can-ai-design-circuit-boards-yet/" rel="alternate" />
+    <id>https://eebench.org/blog/can-ai-design-circuit-boards-yet/::v238</id>
+    <published>2026-09-05T00:38:00+00:00</published>
+    <updated>2026-09-05T00:38:00+00:00</updated>
+    <media:thumbnail url="https://pcbdesigner.ai/img/landing/screenshot-schematic.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://eebench.org/blog/can-ai-design-circuit-boards-yet/">eebench.org</a> | <a href="https://news.ycombinator.com/item?id=49569366">hacker news</a></small></p><hr/><p>EEBench is a benchmark designed to measure the ability of AI models to perform electronic circuit design through simulation-based verification. By utilizing declarative code via atopile, the system allows AI agents to interact directly with components and electrical constraints rather than navigating complex graphical CAD interfaces. The evaluation employs SPICE simulations to verify designs against real-world manufacturer component tolerances, electrical specifications, and cost-efficiency requirements.</p><p>Recent results show Claude Opus 5 leading the leaderboard with a 61.6% score, followed by Grok 4.6 and various Claude models. While AI models show proficiency in the design and verification loop, the benchmark does not yet address physical PCB layout or manufacturing processes. The inclusion of EEBench metrics in official model cards by xAI suggests that quantifying engineering-specific capabilities is becoming a priority for frontier AI labs.</p><p><img src="https://pcbdesigner.ai/img/landing/screenshot-schematic.jpg" /></p><hr/><small>5 Sep 2026, 08:11 UTC | #20215</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI's GPT-6 Astra Raises Safety and Monitorability Concerns</title>
     <link href="https://www.transformernews.ai/p/openai-gpt-6-astra-might-be-too-powerful-to-understand-or-control" rel="alternate" />
