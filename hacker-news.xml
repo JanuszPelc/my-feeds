@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T05:46:00+00:00</updated>
+  <updated>2026-09-05T06:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ASCII Smuggling Used by Spammers to Evade Email Filters</title>
+    <link href="https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/" rel="alternate" />
+    <id>https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/::v238</id>
+    <published>2026-09-05T06:06:00+00:00</published>
+    <updated>2026-09-05T06:06:00+00:00</updated>
+    <media:thumbnail url="https://us.norton.com/content/dam/blogs/images/norton/am/prompt-injection-attacks-01.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/">arstechnica.com</a> | <a href="https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/">source</a></small></p><hr/><p>Spammers are using ASCII smuggling to bypass email security filters by embedding invisible Unicode tag characters within text. These characters allow attackers to obfuscate high-risk keywords—such as financial terms—making them unreadable to humans but detectable as split characters by machines, which prevents automated detectors from flagging the content.</p><p>Originally used to execute stealthy prompt injection attacks against AI models, ASCII smuggling has been repurposed for mass phishing and spam campaigns. Microsoft reported a massive spike in these smuggling signatures in early 2026, demonstrating how AI-era evasion tactics are being applied to traditional email-based threats.</p><p><img src="https://us.norton.com/content/dam/blogs/images/norton/am/prompt-injection-attacks-01.png" /></p><hr/><small>5 Sep 2026, 13:15 UTC | #20210</small>]]></content>
+  </entry>
   <entry>
     <title>US and UK to Coordinate Dismantling of Global Scam Centers</title>
     <link href="https://therecord.media/scam-compounds-coordination-us-uk-memorandum" rel="alternate" />
