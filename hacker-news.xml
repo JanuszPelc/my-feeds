@@ -974,31 +974,4 @@
     <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!B0XY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b56d87b-47b6-4cab-8312-a97fcf0dd67d_1578x990.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.abortretry.fail/p/matrox">abortretry.fail</a> | <a href="https://news.ycombinator.com/item?id=49503934">hacker news</a></small></p><hr/><p>Founded in 1976 by Lorne Trottier and Branko Matić, Matrox initially specialized in Video RAM and high-resolution display adapters for early microcomputers. Early products like the MTX-1632 and the S-100 bus ALT-256*2 provided high-resolution graphics and DMA support for researchers and hobbyists at a significantly lower cost than contemporary high-end hardware.</p><p>The company's client base expanded to include NASA's Viking mission and a $72 million US Army contract for a multimedia training system in 1986. As the market shifted toward IBM-compatible PCs, Matrox transitioned its technology from specialized architectures like Multibus to the 8-bit ISA bus.</p><p><img src="https://substackcdn.com/image/fetch/$s_!B0XY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b56d87b-47b6-4cab-8312-a97fcf0dd67d_1578x990.png" /></p><hr/><small>31 Aug 2026, 19:08 UTC | #19706</small>]]></content>
   </entry>
-  <entry>
-    <title>Circleback Adds Free Tier for Meeting Notetaker</title>
-    <link href="https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/" rel="alternate" />
-    <id>https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/::v237</id>
-    <published>2026-08-31T15:00:00+00:00</published>
-    <updated>2026-08-31T15:00:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/11/Circleback-Home.jpeg" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/">techcrunch.com</a> | <a href="https://circleback.ai/releases/new-plans">source</a></small></p><hr/><p>Circleback is introducing a free subscription tier to compete in the crowded meeting notetaker market. The plan offers unlimited meeting transcriptions but limits meeting history access to the previous 30 days.</p><p>The move aims to drive user acquisition and mitigate drop-off rates experienced with the company's previous trial-only model. Circleback, which raised $2.5 million in 2024, reports it has been profitable and maintains an annual run-rate revenue of approximately $8 million.</p><p><img src="https://techcrunch.com/wp-content/uploads/2024/11/Circleback-Home.jpeg" /></p><hr/><small>31 Aug 2026, 18:19 UTC | #19673</small>]]></content>
-  </entry>
-  <entry>
-    <title>uv Implements File-Level Deduplication in Wheel Cache</title>
-    <link href="https://github.com/astral-sh/uv/pull/21327" rel="alternate" />
-    <id>https://github.com/astral-sh/uv/pull/21327::v237</id>
-    <published>2026-08-31T14:55:00+00:00</published>
-    <updated>2026-08-31T14:55:00+00:00</updated>
-    <media:thumbnail url="https://www.kdnuggets.com/wp-content/uploads/awan_uv_new_python_package_manager_3.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/astral-sh/uv/pull/21327">github.com</a> | <a href="https://news.ycombinator.com/item?id=49506142">hacker news</a></small></p><hr/><p>uv is introducing file-level deduplication in its wheel cache by storing files under their BLAKE3 hashes and using hardlinks to prevent redundant storage. This transition enables content-addressed caching for individual files rather than just for entire wheels.</p><p>Performance optimizations include reusing a 64 KiB buffer during streaming extraction to reduce memory allocations and utilizing getattrlistbulk on macOS to accelerate cache scans. Benchmarks indicate installation speed improvements for packages such as NumPy and PyTorch.</p><p><img src="https://www.kdnuggets.com/wp-content/uploads/awan_uv_new_python_package_manager_3.png" /></p><hr/><small>31 Aug 2026, 17:24 UTC | #19695</small>]]></content>
-  </entry>
-  <entry>
-    <title>Playa Phone Offers Free Calls at Burning Man</title>
-    <link href="https://playaphone.com/" rel="alternate" />
-    <id>https://playaphone.com/::v237</id>
-    <published>2026-08-31T14:53:00+00:00</published>
-    <updated>2026-08-31T14:53:00+00:00</updated>
-    <media:thumbnail url="https://obnoxiousantiques.com/wp-content/uploads/2025/10/IMG_1206-1.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://playaphone.com/">playaphone.com</a> | <a href="https://news.ycombinator.com/item?id=49510514">hacker news</a></small></p><hr/><p>A phone booth at Burning Man allows attendees to make free five-minute calls to nearly any phone number in the world. Located at the intersection of 3:30 and Celba in Black Rock City, the booth facilitates connections between participants and their loved ones or random passersby.</p><p>The installation uses modified internals to route calls over the internet instead of traditional payphone systems. This setup removes the requirement for payment and provides a unique communication medium within the festival environment.</p><p><img src="https://obnoxiousantiques.com/wp-content/uploads/2025/10/IMG_1206-1.jpg" /></p><hr/><small>31 Aug 2026, 17:06 UTC | #19692</small>]]></content>
-  </entry>
 </feed>
