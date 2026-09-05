@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T04:13:00+00:00</updated>
+  <updated>2026-09-05T05:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>US and UK to Coordinate Dismantling of Global Scam Centers</title>
+    <link href="https://therecord.media/scam-compounds-coordination-us-uk-memorandum" rel="alternate" />
+    <id>https://therecord.media/scam-compounds-coordination-us-uk-memorandum::v238</id>
+    <published>2026-09-05T05:46:00+00:00</published>
+    <updated>2026-09-05T05:46:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/E9NIf5c4qh0/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://therecord.media/scam-compounds-coordination-us-uk-memorandum">therecord.media</a> | <a href="https://www.justice.gov/usao-dc/pr/us-and-uk-launch-first-its-kind-joint-alliance-dismantle-global-scam-centers">source</a></small></p><hr/><p>The United States and United Kingdom have signed a memorandum of understanding to coordinate investigations into organized crime syndicates operating global scam centers. This agreement enables the two nations to share information and prioritize cases to combat investment and romance fraud schemes.</p><p>The initiative is spearheaded by the Scam Center Strike Force and includes a planned in-person disruption event in London in early October. Many of the targeted scams are operated by Chinese gangs using human trafficking victims in Southeast Asian countries, including Myanmar, Cambodia, and Laos.</p><p><img src="https://i.ytimg.com/vi/E9NIf5c4qh0/maxresdefault.jpg" /></p><hr/><small>5 Sep 2026, 12:52 UTC | #20208</small>]]></content>
+  </entry>
   <entry>
     <title>Go's encoding/json/v2 API Performance Benchmarks</title>
     <link href="https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/" rel="alternate" />
