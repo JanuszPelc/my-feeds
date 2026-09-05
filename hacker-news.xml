@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T08:53:00+00:00</updated>
+  <updated>2026-09-05T10:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Researchers Demonstrate Trusting-Trust Attack Against NixOS via GNU Strip</title>
+    <link href="https://arxiv.org/abs/2607.24888" rel="alternate" />
+    <id>https://arxiv.org/abs/2607.24888::v238</id>
+    <published>2026-09-05T10:59:00+00:00</published>
+    <updated>2026-09-05T10:59:00+00:00</updated>
+    <media:thumbnail url="https://rocket-boys.co.jp/wp-content/uploads/2026/01/cyberattack-risk-on-800k-public-telnet-servers-gnu-inetutils-auth-bypass-cve-2026-24061-1024x683.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arxiv.org/abs/2607.24888">arxiv.org</a> | <a href="https://lobste.rs/s/p5w5j6/trusting_trust_attack_against_entire">discussion</a> | <a href="https://news.ycombinator.com/item?id=49575515">hacker news</a></small></p><hr/><p>Researchers have demonstrated that the "trusting-trust" attack, traditionally associated with compilers, can be executed using a non-compiling post-build utility like GNU strip. By manipulating finished ELF files, a single tampered version of strip can implant a payload that propagates through the bootstrap process of a Linux distribution. In a demonstration using NixOS, this attack successfully backdoored nearly all binaries in a complete graphical installer, ensuring the malicious payload survives even after the initial seed is removed from the dependency closure.</p><p>The study highlights a significant vulnerability in software supply chains where tools that do not inspect or generate source code can still facilitate self-propagating attacks. This expands the scope of the "trusting-trust" threat model beyond source-to-binary transformations to include any tool involved in the build and packaging pipeline.</p><p><img src="https://rocket-boys.co.jp/wp-content/uploads/2026/01/cyberattack-risk-on-800k-public-telnet-servers-gnu-inetutils-auth-bypass-cve-2026-24061-1024x683.png" /></p><hr/><small>5 Sep 2026, 14:36 UTC | #20231</small>]]></content>
+  </entry>
   <entry>
     <title>Web Development Curriculum to Emphasize Progressive Enhancement</title>
     <link href="https://lobste.rs/s/nr3ucr/webdev_intro_course_what_small_changes" rel="alternate" />
