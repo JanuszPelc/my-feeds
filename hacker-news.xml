@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T01:01:00+00:00</updated>
+  <updated>2026-09-05T01:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Intel Previews Future Intel Architecture Documentation Format</title>
+    <link href="https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html" rel="alternate" />
+    <id>https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html::v238</id>
+    <published>2026-09-05T01:03:00+00:00</published>
+    <updated>2026-09-05T01:03:00+00:00</updated>
+    <media:thumbnail url="https://cdn.t21.pe/wp-content/uploads/2026/01/intel1.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html">intel.github.io</a> | <a href="https://lobste.rs/s/cywxla/preview_future_intel_architecture">discussion</a> | <a href="https://news.ycombinator.com/item?id=49471695">hacker news</a></small></p><hr/><p>Intel has unveiled a preview of its future documentation and presentation method for the Intel® Architecture. The proposed approach incorporates a web-based interface for improved searchability and a new specification language designed to facilitate testing to ensure higher precision and accuracy.</p><p>The current Software Developer’s Manual (SDM) remains the official, authoritative specification. This initial release is incomplete, omitting instructions for features such as APX, SGX, and virtualization. Intel is soliciting feedback via surveys and GitHub to inform future updates, which are expected to expand coverage to include memory paging, exception handling, and other system-level features.</p><p><img src="https://cdn.t21.pe/wp-content/uploads/2026/01/intel1.webp" /></p><hr/><small>5 Sep 2026, 09:59 UTC | #20216</small>]]></content>
+  </entry>
   <entry>
     <title>Google Patches Chrome Zero-Day Vulnerability Exploited in the Wild</title>
     <link href="https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/" rel="alternate" />
