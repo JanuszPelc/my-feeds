@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-05T11:06:00+00:00</updated>
+  <updated>2026-09-05T16:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>MOTSU and DeeJei.Tokyo Release MotTune MIDI Pitch Correction Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/09/05/mottune-midi/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/05/mottune-midi/::v238</id>
+    <published>2026-09-05T16:54:00+00:00</published>
+    <updated>2026-09-05T16:54:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/ebqhBNru2sk/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/05/mottune-midi/">bedroomproducersblog.com</a> | <a href="https://deejei.tokyo/mottune/?lang=en">source</a> | <a href="https://bedroomproducersblog.com/2026/09/05/mottune-midi/#respond">discussion</a></small></p><hr/><p>MOTSU and DeeJei.Tokyo have released MotTune MIDI, a free real-time vocal pitch-correction and vocoder plugin compatible with macOS and Windows. The tool is designed for zero-latency operation and requires no user registration or sign-up.</p><p>Developed by MOTSU, a member of the Japanese group m.o.v.e, the plugin is notable for its association with the artist known for the Initial D anime series theme songs. The software provides vocal tuning and vocoder capabilities for music production.</p><p><img src="https://i.ytimg.com/vi/ebqhBNru2sk/hqdefault.jpg" /></p><hr/><small>5 Sep 2026, 19:34 UTC | #20235</small>]]></content>
+  </entry>
   <entry>
     <title>Musicdibs Offers 20% Discount on Subscription Plans</title>
     <link href="https://bedroomproducersblog.com/2026/09/05/musicdibs-offer/" rel="alternate" />
