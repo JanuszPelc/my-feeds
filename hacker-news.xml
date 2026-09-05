@@ -3,9 +3,36 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T06:08:00+00:00</updated>
+  <updated>2026-09-05T08:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Web Development Curriculum to Emphasize Progressive Enhancement</title>
+    <link href="https://lobste.rs/s/nr3ucr/webdev_intro_course_what_small_changes" rel="alternate" />
+    <id>https://lobste.rs/s/nr3ucr/webdev_intro_course_what_small_changes::v238</id>
+    <published>2026-09-05T08:53:00+00:00</published>
+    <updated>2026-09-05T08:53:00+00:00</updated>
+    <media:thumbnail url="https://www.thenirvanalab.com/wp-content/uploads/2025/02/IMG-1-01-7-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/nr3ucr/webdev_intro_course_what_small_changes">lobste.rs</a> | <a href="https://lobste.rs/s/nr3ucr/webdev_intro_course_what_small_changes">discussion</a></small></p><hr/><p>An instructor overseeing an introductory web development course aims to restructure the curriculum to prioritize progressive enhancement. The proposed plan includes emphasizing the accessibility benefits of semantic HTML and addressing the performance and security implications of heavy client-side JavaScript usage.</p><p>The course intends to move away from traditional teaching methods by focusing on healthier development practices, such as distinguishing between documents, forms, and applications. The instructor is currently seeking additional pedagogical resources and examples to support this shift toward resilient web design.</p><p><img src="https://www.thenirvanalab.com/wp-content/uploads/2025/02/IMG-1-01-7-1.jpg" /></p><hr/><small>5 Sep 2026, 14:23 UTC | #20230</small>]]></content>
+  </entry>
+  <entry>
+    <title>Mojo's Raw Pointer Type Integrates Lifetime and Ownership Semantics</title>
+    <link href="https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type" rel="alternate" />
+    <id>https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type::v238</id>
+    <published>2026-09-05T08:52:00+00:00</published>
+    <updated>2026-09-05T08:52:00+00:00</updated>
+    <media:thumbnail url="https://images.ctfassets.net/scac5p2hkp4h/5M2s4JqjUVNBZtC4nDVfjR/d04fc13d672b40d76af4cf5f32264dc2/GermanWirehairedPointer-FF.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://melodyogonna.substack.com/p/exploring-mojos-raw-pointer-type">melodyogonna.substack.com</a> | <a href="https://lobste.rs/s/f4jtaf/exploring_mojo_s_raw_pointer_type">discussion</a></small></p><hr/><p>Mojo's pointer type supports both safe and unsafe operations by leveraging unique ownership, ASAP (As Soon As Possible) destruction, and origin tracking. These mechanisms allow the compiler to enforce lifetime analysis and argument exclusivity at compile time. While pointers are non-nullable and safe by default, the language provides "unsafe" API methods for manual memory management and FFI.</p><p>To prevent memory leaks, Mojo utilizes linear types and allocation handles that require explicit consumption or deallocation. This design enables a unified pointer type that avoids the complexity of separate safe and unsafe variants by using specific API prefixes to signal where the programmer assumes manual responsibility.</p><p><img src="https://images.ctfassets.net/scac5p2hkp4h/5M2s4JqjUVNBZtC4nDVfjR/d04fc13d672b40d76af4cf5f32264dc2/GermanWirehairedPointer-FF.jpg" /></p><hr/><small>5 Sep 2026, 14:20 UTC | #20229</small>]]></content>
+  </entry>
+  <entry>
+    <title>AI-Driven Incident Response Risks Reducing Engineer Expertise and Intuition</title>
+    <link href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems" rel="alternate" />
+    <id>https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems::v238</id>
+    <published>2026-09-05T08:51:00+00:00</published>
+    <updated>2026-09-05T08:51:00+00:00</updated>
+    <media:thumbnail url="https://assets.seobotai.com/undefined/698a7626676cd2891cb2781f-1770689553188.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems">sylvainkalache.com</a> | <a href="https://news.ycombinator.com/item?id=49574167">hacker news</a></small></p><hr/><p>Increasing automation of routine system incidents via AI tools threatens to degrade the practical skills and intuition of human engineers. As these tools resolve minor failures and capacity issues, engineers may experience "comprehension debt," a growing gap between system complexity and the responders' ability to investigate non-routine, high-severity outages.</p><p>This phenomenon reflects "The Ironies of Automation," where increased reliance on automated systems leaves operators responsible for rare emergencies without the benefit of routine practice. To maintain readiness, engineers require hands-on, high-fidelity simulations to practice managing incomplete information and coordinating responses under pressure.</p><p><img src="https://assets.seobotai.com/undefined/698a7626676cd2891cb2781f-1770689553188.jpg" /></p><hr/><small>5 Sep 2026, 14:15 UTC | #20228</small>]]></content>
+  </entry>
   <entry>
     <title>Technical Breakdown of the Two-Player Elite Modification for BBC Micro</title>
     <link href="https://elite.bbcelite.com/hacks/two-player_elite/technical_information.html" rel="alternate" />
