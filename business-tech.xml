@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-05T16:49:00+00:00</updated>
+  <updated>2026-09-05T16:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Chinese Businesses Use AI Tokens as Consumer Incentives</title>
+    <link href="https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/" rel="alternate" />
+    <id>https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/::v238</id>
+    <published>2026-09-05T16:53:00+00:00</published>
+    <updated>2026-09-05T16:53:00+00:00</updated>
+    <media:thumbnail url="https://fastly.restofworld.org/uploads/2026/08/GettyImages-2289239141.jpg?width=800&amp;dpr=2&amp;crop=16:9" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/">restofworld.org</a> | <a href="https://news.ycombinator.com/item?id=49569949">hacker news</a></small></p><hr/><p>Banks, cafes, and telecom operators in China are offering AI tokens as incentives to attract customers, treating computing units similarly to mobile data or credit card rewards. These offerings range from "token loans" for startups to free computing access in restaurants and dedicated credit cards that convert spending into AI model quotas.</p><p>This trend is driven by significant price competition in the AI sector, with Chinese models often costing 60% to 90% less than US-based competitors. The resulting accessibility has fostered a unique ecosystem where tokens are resold on secondhand marketplaces and used by banks to assess the financial viability of AI startups.</p><p><img src="https://fastly.restofworld.org/uploads/2026/08/GettyImages-2289239141.jpg?width=800&dpr=2&crop=16:9" /></p><hr/><small>5 Sep 2026, 18:52 UTC | #20224</small>]]></content>
+  </entry>
   <entry>
     <title>Waukesha County Deputies Allegedly Used Flock Technology to Track Navy Veteran</title>
     <link href="https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/" rel="alternate" />
