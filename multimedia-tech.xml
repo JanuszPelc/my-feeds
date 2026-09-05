@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-04T14:53:00+00:00</updated>
+  <updated>2026-09-05T00:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Nvidia to Expand DLSS 5 Support to RTX 40-Series GPUs</title>
+    <link href="https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIySDNvM1hCa3AiLCJwIjoiL2dhbWVzLzk4OTk3OC9udmlkaWEtZGxzcy01LXJ0eC00MCIsImV4cCI6MTc4ODkyMTgwNCwiaWF0IjoxNzg4NDg5ODA0fQ.BN2FxrfXqE6iVeRYRH9YrV8MINvQ9T7aIhzVr7o_WGE&amp;utm_medium=gift-link" rel="alternate" />
+    <id>https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIySDNvM1hCa3AiLCJwIjoiL2dhbWVzLzk4OTk3OC9udmlkaWEtZGxzcy01LXJ0eC00MCIsImV4cCI6MTc4ODkyMTgwNCwiaWF0IjoxNzg4NDg5ODA0fQ.BN2FxrfXqE6iVeRYRH9YrV8MINvQ9T7aIhzVr7o_WGE&amp;utm_medium=gift-link::v238</id>
+    <published>2026-09-05T00:06:00+00:00</published>
+    <updated>2026-09-05T00:06:00+00:00</updated>
+    <media:thumbnail url="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/08/nvidia-dlss-3-5-announcement-comparison-cp2077-performance.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIySDNvM1hCa3AiLCJwIjoiL2dhbWVzLzk4OTk3OC9udmlkaWEtZGxzcy01LXJ0eC00MCIsImV4cCI6MTc4ODkyMTgwNCwiaWF0IjoxNzg4NDg5ODA0fQ.BN2FxrfXqE6iVeRYRH9YrV8MINvQ9T7aIhzVr7o_WGE&utm_medium=gift-link">theverge.com</a></small></p><hr/><p>Official support for DLSS 5 AI rendering technology will expand to GeForce RTX 40-series GPUs following an initial launch on the RTX 50-series. The company plans to roll out support for the 40-series once performance is fully optimized for the newest hardware.</p><p>Gamers will interact with the technology via a simple on-or-off toggle, while developers will have access to granular controls like Structure Intensity and semantic AI masking. These tools enable the AI to automatically distinguish between scene elements such as foliage, water, or textiles to apply customized neural lighting adjustments.</p><p><img src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/08/nvidia-dlss-3-5-announcement-comparison-cp2077-performance.jpg" /></p><hr/><small>5 Sep 2026, 07:08 UTC | #20199</small>]]></content>
+  </entry>
   <entry>
     <title>Bit Reactor CEO Greg Foertsch Discusses Star Wars Zero Company Development</title>
     <link href="https://www.gamedeveloper.com/production/strategically-making-star-wars-zero-company-ft-greg-foertsch" rel="alternate" />
