@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T01:07:00+00:00</updated>
+  <updated>2026-09-05T04:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Go's encoding/json/v2 API Performance Benchmarks</title>
+    <link href="https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/" rel="alternate" />
+    <id>https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/::v238</id>
+    <published>2026-09-05T04:13:00+00:00</published>
+    <updated>2026-09-05T04:13:00+00:00</updated>
+    <media:thumbnail url="https://lemire.me/blog/wp-content/uploads/2026/08/json-v1-v2.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/">lemire.me</a> | <a href="https://lobste.rs/s/67ygvv/new_go_json_api_twice_as_fast_1_5x_slower">discussion</a> | <a href="https://news.ycombinator.com/item?id=49492591">hacker news</a></small></p><hr/><p>Go 1.27's encoding/json/v2 package demonstrates significant performance improvements for general-purpose JSON processing when compared to the legacy encoding/json implementation. Benchmarks show the new API can achieve unmarshalling speeds up to 2.3x faster and marshalling speeds up to 3x faster when working with any types.</p><p>Performance gains vary based on data structure and type enforcement. While the new API is markedly faster for untyped data, testing on typed structs indicates that marshalling with encoding/json/v2 can be approximately 1.5x slower than the legacy implementation.</p><p><img src="https://lemire.me/blog/wp-content/uploads/2026/08/json-v1-v2.png" /></p><hr/><small>5 Sep 2026, 11:41 UTC | #20223</small>]]></content>
+  </entry>
   <entry>
     <title>Shitter Instance Status Directory</title>
     <link href="https://codeberg.org/mv12star/shitter/wiki/Instances" rel="alternate" />
@@ -928,14 +937,5 @@
     <updated>2026-08-31T14:53:00+00:00</updated>
     <media:thumbnail url="https://obnoxiousantiques.com/wp-content/uploads/2025/10/IMG_1206-1.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://playaphone.com/">playaphone.com</a> | <a href="https://news.ycombinator.com/item?id=49510514">hacker news</a></small></p><hr/><p>A phone booth at Burning Man allows attendees to make free five-minute calls to nearly any phone number in the world. Located at the intersection of 3:30 and Celba in Black Rock City, the booth facilitates connections between participants and their loved ones or random passersby.</p><p>The installation uses modified internals to route calls over the internet instead of traditional payphone systems. This setup removes the requirement for payment and provides a unique communication medium within the festival environment.</p><p><img src="https://obnoxiousantiques.com/wp-content/uploads/2025/10/IMG_1206-1.jpg" /></p><hr/><small>31 Aug 2026, 17:06 UTC | #19692</small>]]></content>
-  </entry>
-  <entry>
-    <title>VibeCoded AI-Slop License v1.0 Released</title>
-    <link href="https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6" rel="alternate" />
-    <id>https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6::v237</id>
-    <published>2026-08-31T11:41:00+00:00</published>
-    <updated>2026-08-31T11:41:00+00:00</updated>
-    <media:thumbnail url="https://jdsupra-html-images.s3-us-west-1.amazonaws.com/972ff7ab-9eec-4ce7-a04b-cfcd05be5bb3-what-ai-slop-looks-like-at-work.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6">gist.github.com</a> | <a href="https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0">discussion</a></small></p><hr/><p>The VibeCoded AI-Slop License v1.0 has been introduced as a framework for software, source code, and artifacts potentially produced by artificial intelligence. The license grants users permission to use, modify, and redistribute the software without requiring attribution or the disclosure of any modifications.</p><p>The license provides extensive disclaimers regarding the lack of human oversight, noting that the software may be unverified, poorly documented, or fundamentally misunderstood by the author. It serves as a commentary on the "vibe coding" phenomenon, where code is generated through high-level, often imprecise, human prompts to AI models.</p><p><img src="https://jdsupra-html-images.s3-us-west-1.amazonaws.com/972ff7ab-9eec-4ce7-a04b-cfcd05be5bb3-what-ai-slop-looks-like-at-work.png" /></p><hr/><small>31 Aug 2026, 14:43 UTC | #19668</small>]]></content>
   </entry>
 </feed>
