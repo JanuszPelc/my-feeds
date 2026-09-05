@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T13:12:00+00:00</updated>
+  <updated>2026-09-05T14:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Zopt Command Line Argument Parser for Zig</title>
+    <link href="https://codeberg.org/hgrsd/zopt" rel="alternate" />
+    <id>https://codeberg.org/hgrsd/zopt::v238</id>
+    <published>2026-09-05T14:49:00+00:00</published>
+    <updated>2026-09-05T14:49:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/yEOmDqSKiYs/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codeberg.org/hgrsd/zopt">codeberg.org</a> | <a href="https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing">discussion</a></small></p><hr/><p>Zopt is a command line argument parser for the Zig programming language that uses "schema on read" semantics. It functions as a lightweight wrapper around std.process.Args, scanning argv during queries rather than performing upfront parsing. The library is intended for small-scale command-line tools that prioritize a minimal, low-ceremony API over complex schema validation or automated help generation.</p><p>Developers are responsible for handling errors, default values, and help text within their application code. While the library supports flags, options, and repeatable arguments, the parsing of positional arguments is implemented as a "best effort" feature.</p><p><img src="https://i.ytimg.com/vi/yEOmDqSKiYs/maxresdefault.jpg" /></p><hr/><small>5 Sep 2026, 18:01 UTC | #20243</small>]]></content>
+  </entry>
   <entry>
     <title>The Impact of Memory Caching on Software Performance</title>
     <link href="https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/" rel="alternate" />
