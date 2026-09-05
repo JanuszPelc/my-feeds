@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-05T00:36:00+00:00</updated>
+  <updated>2026-09-05T06:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Kai-Fu Lee on China's AI Development and US Chip Restrictions</title>
+    <link href="https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODU2NDY4OSwiZXhwIjoxNzg5MTY5NDg5LCJhcnRpY2xlSWQiOiJUS1RQV0tLSVVQUzgwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.nLBC-9yf4-nPwNS-uFqtGKEZT4W6X3MXMOQKHqeF4Ws" rel="alternate" />
+    <id>https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODU2NDY4OSwiZXhwIjoxNzg5MTY5NDg5LCJhcnRpY2xlSWQiOiJUS1RQV0tLSVVQUzgwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.nLBC-9yf4-nPwNS-uFqtGKEZT4W6X3MXMOQKHqeF4Ws::v238</id>
+    <published>2026-09-05T06:46:00+00:00</published>
+    <updated>2026-09-05T06:46:00+00:00</updated>
+    <media:thumbnail url="https://www.capgemini.com/wp-content/uploads/2026/05/Kai-Fu-Lee3.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODU2NDY4OSwiZXhwIjoxNzg5MTY5NDg5LCJhcnRpY2xlSWQiOiJUS1RQV0tLSVVQUzgwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.nLBC-9yf4-nPwNS-uFqtGKEZT4W6X3MXMOQKHqeF4Ws">bloomberg.com</a></small></p><hr/><p>Kai-Fu Lee discusses how Chinese AI companies are closing the gap with US rivals despite persistent US export restrictions on advanced semiconductors. He highlights the strategic advantage of "open-weight" models—which allow users to download and modify AI weights—over traditional open-source models in driving global adoption.</p><p>The discussion addresses the socioeconomic implications of AI, including its impact on global labor markets and the potential for Chinese AI tools to aid developing nations. These trends may ultimately shift the balance of power within the consumer AI landscape.</p><p><img src="https://www.capgemini.com/wp-content/uploads/2026/05/Kai-Fu-Lee3.jpg" /></p><hr/><small>5 Sep 2026, 13:59 UTC | #20213</small>]]></content>
+  </entry>
   <entry>
     <title>US Negotiators Used Nvidia Chip Access to Broker Armenia-Azerbaijan Peace Deal</title>
     <link href="https://www.wsj.com/world/u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaijan-peace-deal-b6c7cb6e?st=WcCKED" rel="alternate" />

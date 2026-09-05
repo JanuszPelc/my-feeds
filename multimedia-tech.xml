@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-05T00:06:00+00:00</updated>
+  <updated>2026-09-05T06:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Collider Experimental Minecraft Server Uses Parallelized Ticks</title>
+    <link href="https://github.com/Nozistance/collider" rel="alternate" />
+    <id>https://github.com/Nozistance/collider::v238</id>
+    <published>2026-09-05T06:38:00+00:00</published>
+    <updated>2026-09-05T06:38:00+00:00</updated>
+    <media:thumbnail url="https://diamondlobby.com/wp-content/uploads/2022/02/tickspeed.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/Nozistance/collider">github.com</a> | <a href="https://lobste.rs/s/fdbblk/collider_experimental_minecraft_server">discussion</a> | <a href="https://news.ycombinator.com/item?id=49562887">hacker news</a></small></p><hr/><p>Collider is an experimental Minecraft server written in Clojure that implements parallelized game ticks without using locks, regions, or thread ownership. Developed as a proof-of-concept to demonstrate performance scaling via a functional data model, the server can achieve up to 4.5 times the performance of vanilla 1.8.9 on six cores.</p><p>Unlike the regional partitioning approach used by projects like Folia, Collider's architecture does not require spatial independence between player locations. The implementation includes core mechanics such as block physics, entity AI, and light to prove the data model's ability to handle complex, interconnected game mechanics.</p><p><img src="https://diamondlobby.com/wp-content/uploads/2022/02/tickspeed.jpg" /></p><hr/><small>5 Sep 2026, 13:57 UTC | #20227</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia to Expand DLSS 5 Support to RTX 40-Series GPUs</title>
     <link href="https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjIySDNvM1hCa3AiLCJwIjoiL2dhbWVzLzk4OTk3OC9udmlkaWEtZGxzcy01LXJ0eC00MCIsImV4cCI6MTc4ODkyMTgwNCwiaWF0IjoxNzg4NDg5ODA0fQ.BN2FxrfXqE6iVeRYRH9YrV8MINvQ9T7aIhzVr7o_WGE&amp;utm_medium=gift-link" rel="alternate" />
