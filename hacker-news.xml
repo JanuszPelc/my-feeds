@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T01:03:00+00:00</updated>
+  <updated>2026-09-05T01:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>KDE Plasma Needs Help Triaging Plasmashell Bug Reports</title>
+    <link href="https://pointieststick.com/2026/09/03/bug-triaging-help-needed/" rel="alternate" />
+    <id>https://pointieststick.com/2026/09/03/bug-triaging-help-needed/::v238</id>
+    <published>2026-09-05T01:05:00+00:00</published>
+    <updated>2026-09-05T01:05:00+00:00</updated>
+    <media:thumbnail url="https://pointieststick.com/wp-content/uploads/2026/09/image.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://pointieststick.com/2026/09/03/bug-triaging-help-needed/">pointieststick.com</a> | <a href="https://lobste.rs/s/sunmyh/bug_triaging_help_needed">discussion</a></small></p><hr/><p>Approximately 160 unconfirmed bug reports for the plasmashell component of the KDE Plasma desktop environment require triage. Many of these reports are difficult to reproduce, requiring specialized hardware, uncommon software configurations, specific VPN setups, or niche domain knowledge.</p><p>Volunteers can assist by identifying patterns in intermittent issues, verifying bugs that require specific hardware, or determining if issues originate in upstream components like Qt, PipeWire, or the Linux kernel. Testing is encouraged using the latest Plasma releases on "vanilla" distributions like Arch Linux or Fedora KDE to ensure accuracy.</p><p><img src="https://pointieststick.com/wp-content/uploads/2026/09/image.png" /></p><hr/><small>5 Sep 2026, 10:19 UTC | #20217</small>]]></content>
+  </entry>
   <entry>
     <title>Intel Previews Future Intel Architecture Documentation Format</title>
     <link href="https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html" rel="alternate" />
