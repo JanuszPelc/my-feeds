@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T13:07:00+00:00</updated>
+  <updated>2026-09-05T13:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Bespoke Programming Language Employs Victorian Etiquette and Polite Syntax</title>
+    <link href="https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/" rel="alternate" />
+    <id>https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/::v238</id>
+    <published>2026-09-05T13:09:00+00:00</published>
+    <updated>2026-09-05T13:09:00+00:00</updated>
+    <media:thumbnail url="https://blog.hofstede.it/images/2026-09-04-bespoke-programming-language.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/">blog.hofstede.it</a> | <a href="https://lobste.rs/s/duuz8z/bespoke_programming_language_for_people">discussion</a> | <a href="https://news.ycombinator.com/item?id=49573947">hacker news</a></small></p><hr/><p>Replacing imperative syntax with formal correspondence, this proposed, statically and nominally typed programming language is designed to mandate extreme politeness in its source code. Developers must address the compiler, host environment, and other components with explicit salutations, explanations, and formal closings. Standard operations such as variable mutation, control flow, and error handling are reframed as requests and deliberations to prevent "blunt" or "hostile" interactions.</p><p>Bespoke uses `.charming` source files and enforces British orthography. Its type system requires full names like "An Integer Number" instead of abbreviations, and variable mutations require formal apologies to avoid compilation errors. While the language does not aim to improve performance or resolve concurrency deadlocks—instead labeling them "Exemplary Stalemates of Mutual Deference"—it serves as a conceptual investigation into the etiquette of machine-human interaction.</p><p><img src="https://blog.hofstede.it/images/2026-09-04-bespoke-programming-language.webp" /></p><hr/><small>5 Sep 2026, 17:10 UTC | #20242</small>]]></content>
+  </entry>
   <entry>
     <title>Pushin.eu Launches EU-Based Git Hosting Service</title>
     <link href="https://pushin.eu" rel="alternate" />
@@ -946,41 +955,5 @@
     <updated>2026-08-31T17:14:00+00:00</updated>
     <media:thumbnail url="https://cdn.posts.azureagst.dev/2022/07/n93k6oc2wab71.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://martypc.blogspot.com/2026/08/executable-emoji.html">martypc.blogspot.com</a> | <a href="https://lobste.rs/s/zxggzb/executable_emoji">discussion</a> | <a href="https://news.ycombinator.com/item?id=49205813">hacker news</a></small></p><hr/><p>UTF-8 encoded emoji sequences can represent valid 8088 machine code instructions. Because most emoji graphemes start with the `F0 9F` byte sequence, they can be interpreted as a series of `LAHF` and `NOP` instructions on the Intel 8088 processor. The author demonstrates this by presenting a functional "Hello World" program constructed entirely from emoji.</p><p>The technique relies on undocumented 8088 instruction aliases and specific byte sequences to manipulate video memory and control hardware. While similar methods have used ASCII characters, this approach leverages the Unicode standard to create executable data. Successful execution requires an emulator like DOSBox-X configured to use an 8086 CPU core.</p><p><img src="https://cdn.posts.azureagst.dev/2022/07/n93k6oc2wab71.png" /></p><hr/><small>31 Aug 2026, 22:23 UTC | #19727</small>]]></content>
-  </entry>
-  <entry>
-    <title>Pentagon Acknowledges Refrigeration Disruptions at Multiple Military Commissaries</title>
-    <link href="https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary" rel="alternate" />
-    <id>https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary::v237</id>
-    <published>2026-08-31T17:08:00+00:00</published>
-    <updated>2026-08-31T17:08:00+00:00</updated>
-    <media:thumbnail url="https://www.moaa.org/contentassets/6a2682f7b1204b408ad1617b1207be8e/commissary-storefront-general-h.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary">signalandsilence.substack.com</a> | <a href="https://news.ycombinator.com/item?id=49508506">hacker news</a></small></p><hr/><p>The Pentagon has acknowledged "possible refrigeration disruptions" at numerous military commissaries following simultaneous cooling failures at several installations. Reported incidents include freezers at multiple bases, such as Fort Huachuca and F.E. Warren AFB, entering defrost mode, which caused significant food spoilage.</p><p>The widespread nature of these failures has prompted investigation into the security of the Defense Commissary Agency’s (DeCA) remote monitoring and control systems (RMCS). Recent cybersecurity research has highlighted vulnerabilities in industrial refrigeration controllers, including the Danfoss AK-SM 800A, which manage large-scale commercial cooling and HVAC systems via networked controls.</p><p><img src="https://www.moaa.org/contentassets/6a2682f7b1204b408ad1617b1207be8e/commissary-storefront-general-h.jpg" /></p><hr/><small>31 Aug 2026, 21:28 UTC | #19722</small>]]></content>
-  </entry>
-  <entry>
-    <title>ChangXin Memory Technologies Begins Small-Scale HBM3E Production</title>
-    <link href="https://www.theinformation.com/articles/chinas-cxmt-makes-breakthrough-advanced-memory-chips" rel="alternate" />
-    <id>https://www.theinformation.com/articles/chinas-cxmt-makes-breakthrough-advanced-memory-chips::v237</id>
-    <published>2026-08-31T17:05:00+00:00</published>
-    <updated>2026-08-31T17:05:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5610AQF_cs9_3Co2Dw/image-shrink_1280/B56ZljBrqOJ0AM-/0/1758303010066?e=2147483647&amp;v=beta&amp;t=RJ5tMEL1n5dsYhKM9Y9fc0pZ3kkRxCIKX615e302Was" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/chinas-cxmt-makes-breakthrough-advanced-memory-chips">theinformation.com</a></small></p><hr/><p>Small-scale production of HBM3E high-bandwidth memory chips has commenced at ChangXin Memory Technologies. This technology is essential for high-performance AI processors, including NVIDIA's H200 and Blackwell GPUs.</p><p>Expansion of HBM3E production is planned for 2027. This development marks a significant milestone for China's domestic semiconductor industry as it seeks to establish a local supply chain for high-performance AI components.</p><p><img src="https://media.licdn.com/dms/image/v2/D5610AQF_cs9_3Co2Dw/image-shrink_1280/B56ZljBrqOJ0AM-/0/1758303010066?e=2147483647&v=beta&t=RJ5tMEL1n5dsYhKM9Y9fc0pZ3kkRxCIKX615e302Was" /></p><hr/><small>31 Aug 2026, 21:20 UTC | #19676</small>]]></content>
-  </entry>
-  <entry>
-    <title>Distinction Between Synchronous Cancelation, Asynchronous Cancelation, and Graceful Shutdown</title>
-    <link href="https://matklad.github.io/2026/08/31/cancelation-terminology.html" rel="alternate" />
-    <id>https://matklad.github.io/2026/08/31/cancelation-terminology.html::v237</id>
-    <published>2026-08-31T17:03:00+00:00</published>
-    <updated>2026-08-31T17:03:00+00:00</updated>
-    <media:thumbnail url="https://mapticket.net/wp-content/uploads/what-are-eamples-of-companies-with-fleible-cancellation-policies-6.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://matklad.github.io/2026/08/31/cancelation-terminology.html">matklad.github.io</a> | <a href="https://lobste.rs/s/49hbhi/cancelation_terminology">discussion</a></small></p><hr/><p>This article distinguishes between three distinct software engineering concepts: synchronous cancelation as an implicit control flow structure for unwinding the stack; asynchronous cancelation as a communication protocol requiring mutual acknowledgment; and graceful shutdown as an application-level design pattern for managing service connections.</p><p>Using implementations from the TigerBeetle database, the author demonstrates how these patterns apply to low-level tasks like io_uring syscalls and state synchronization. The text argues that identifying these concepts early is critical for managing concurrency, resource lifecycles, and preventing data races in distributed systems.</p><p><img src="https://mapticket.net/wp-content/uploads/what-are-eamples-of-companies-with-fleible-cancellation-policies-6.webp" /></p><hr/><small>31 Aug 2026, 21:07 UTC | #19720</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nvidia Invests $3.5B in MediaTek to Support Custom AI Chip Development</title>
-    <link href="https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/" rel="alternate" />
-    <id>https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/::v237</id>
-    <published>2026-08-31T16:57:00+00:00</published>
-    <updated>2026-08-31T16:57:00+00:00</updated>
-    <media:thumbnail url="https://cdn.wccftech.com/wp-content/uploads/2024/10/NVIDIA-x-Mediatek.jpg" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/">techcrunch.com</a> | <a href="https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms">source</a></small></p><hr/><p>A $3.5 billion investment by Nvidia into Taiwanese chipmaker MediaTek will facilitate the integration of Nvidia’s technology into MediaTek’s custom silicon offerings. This collaboration allows MediaTek to design chips for AI companies and hyperscalers that can interface directly with Nvidia-based data center infrastructure via the NVLink Fusion ecosystem.</p><p>The strategic move aims to solidify Nvidia's role in data center infrastructure as major cloud providers and AI labs increasingly develop their own bespoke hardware. Beyond data centers, the companies will continue joint development on automotive AI platforms and consumer-focused desktop AI computers.</p><p><img src="https://cdn.wccftech.com/wp-content/uploads/2024/10/NVIDIA-x-Mediatek.jpg" /></p><hr/><small>31 Aug 2026, 20:41 UTC | #19680</small>]]></content>
   </entry>
 </feed>
