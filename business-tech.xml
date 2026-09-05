@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-04T23:38:00+00:00</updated>
+  <updated>2026-09-04T23:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US and China to Hold AI Safety Dialogue in Mid-September</title>
+    <link href="https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/" rel="alternate" />
+    <id>https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/::v238</id>
+    <published>2026-09-04T23:42:00+00:00</published>
+    <updated>2026-09-04T23:42:00+00:00</updated>
+    <media:thumbnail url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/1200/675/scott-bessent-mamdani.jpg?ve=1&amp;tl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/">reuters.com</a></small></p><hr/><p>U.S. Treasury Secretary Scott Bessent will lead the American delegation in upcoming mid-September negotiations with China regarding artificial intelligence safety risks.</p><p>The discussions are expected to address shared threats such as cyberattacks driven by autonomous AI systems and issues involving model distillation. This marks the first safety-focused dialogue between the two nations since 2024.</p><p><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/1200/675/scott-bessent-mamdani.jpg?ve=1&tl=1" /></p><hr/><small>5 Sep 2026, 06:29 UTC | #20197</small>]]></content>
+  </entry>
   <entry>
     <title>California Investigates OpenAI Over Hugging Face Hack</title>
     <link href="https://www.politico.com/news/2026/09/04/california-investigation-openai-hugging-face-hack-01065800" rel="alternate" />
