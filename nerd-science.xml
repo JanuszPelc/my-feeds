@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-04T18:43:00+00:00</updated>
+  <updated>2026-09-04T22:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>89% of Americans Say Government Corruption is Widespread</title>
+    <link href="https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx" rel="alternate" />
+    <id>https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx::v238</id>
+    <published>2026-09-04T22:04:00+00:00</published>
+    <updated>2026-09-04T22:04:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bsbeQ.img?w=600&amp;h=503&amp;m=6" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx">news.gallup.com</a> | <a href="https://news.ycombinator.com/item?id=49570772">hacker news</a></small></p><hr/><p>U.S. government corruption perceptions have reached a 20-year high, with 89% of adults now stating that corruption is widespread. This represents a 10-percentage-point increase from last year and is driven largely by Democrats, whose stated concern rose from 57% in 2024 to 91% this year.</p><p>The U.S. continues to diverge from other advanced economies, where the median perceived corruption level has fallen below 60% since 2022. Additionally, a significant gap has emerged between perceptions of government corruption (89%) and business corruption (71%), the largest divergence observed in recent Gallup tracking.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bsbeQ.img?w=600&h=503&m=6" /></p><hr/><small>5 Sep 2026, 02:44 UTC | #20204</small>]]></content>
+  </entry>
   <entry>
     <title>Claude Produces First Computer-Checked Proof of Fermat's Last Theorem</title>
     <link href="https://www.anthropic.com/research/formalizing-fermats-last-theorem" rel="alternate" />
