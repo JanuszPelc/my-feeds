@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-04T19:22:00+00:00</updated>
+  <updated>2026-09-04T19:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Deft Implements Gradual Typing for Janet</title>
+    <link href="https://codeberg.org/zzkt/deft" rel="alternate" />
+    <id>https://codeberg.org/zzkt/deft::v238</id>
+    <published>2026-09-04T19:24:00+00:00</published>
+    <updated>2026-09-04T19:24:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/965649729/original/943b72fd6e/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codeberg.org/zzkt/deft">codeberg.org</a> | <a href="https://lobste.rs/s/bqfbqk/deft_gradual_type_system_for_janet">discussion</a></small></p><hr/><p>This gradual typing system for Janet incorporates bidirectional inference, static analysis, and runtime type checking. It implements the Siek and Taha model of gradual typing and utilizes the Wadler and Findler blame calculus.</p><p>A universal `define` macro manages both typed and untyped bindings, facilitating a smooth transition between dynamic and static typing. The system also includes mechanisms for predicate-based type definitions, structured records with runtime validation, and enumeration support.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/965649729/original/943b72fd6e/1?v=1" /></p><hr/><small>5 Sep 2026, 00:13 UTC | #20198</small>]]></content>
+  </entry>
   <entry>
     <title>Mullvad to Discontinue Public Encrypted DNS Service and Sponsor Quad9</title>
     <link href="https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead" rel="alternate" />
