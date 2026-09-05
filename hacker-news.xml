@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T10:59:00+00:00</updated>
+  <updated>2026-09-05T11:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Monocypher Developer Responds to AI-Generated Code Review</title>
+    <link href="https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their" rel="alternate" />
+    <id>https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their::v238</id>
+    <published>2026-09-05T11:03:00+00:00</published>
+    <updated>2026-09-05T11:03:00+00:00</updated>
+    <media:thumbnail url="https://www.qodo.ai/wp-content/uploads/2026/01/ai-assisted-code-review.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their">lobste.rs</a> | <a href="https://lobste.rs/s/fxccx9/is_it_too_much_ask_devs_use_ai_review_their">discussion</a></small></p><hr/><p>Loup Vaillant provides a technical response to an AI-generated audit of the Monocypher cryptography library conducted by Claude. The critique addresses implementation details including Argon2 stack usage, memory wiping, BLAKE2b aliasing, and potential undefined behavior in field arithmetic.</p><p>The developer confirms several of the AI's findings, such as the ChaCha20 counter limit, while clarifying technical nuances regarding the BLAKE2b API and input validation. The exchange highlights the potential for AI to identify subtleties in low-level C code, while also noting the potential for AI to be biased by previous developer reports.</p><p><img src="https://www.qodo.ai/wp-content/uploads/2026/01/ai-assisted-code-review.webp" /></p><hr/><small>5 Sep 2026, 15:16 UTC | #20232</small>]]></content>
+  </entry>
   <entry>
     <title>Researchers Demonstrate Trusting-Trust Attack Against NixOS via GNU Strip</title>
     <link href="https://arxiv.org/abs/2607.24888" rel="alternate" />
