@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-06T11:57:00+00:00</updated>
+  <updated>2026-09-06T14:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Autistici/Inventati Collective to Discontinue All Digital Services</title>
+    <link href="https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/" rel="alternate" />
+    <id>https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/::v238</id>
+    <published>2026-09-06T14:35:00+00:00</published>
+    <updated>2026-09-06T14:35:00+00:00</updated>
+    <media:thumbnail url="https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/May2026/syndicate-labs-shutdown-a16z-synd-token-rollup-market-2026-3252.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/">keepitfree.ai</a> | <a href="https://news.ycombinator.com/item?id=49586898">hacker news</a></small></p><hr/><p>The group is shutting down all its digital services, including email, hosting, and blogs. This decision follows the collective's designation as a global terrorist organization, a move that members claim creates untenable legal and financial risks for their users and communities.</p><p>For 25 years, the organization has provided secure, non-commercial digital infrastructure for social movements and activists. The collective plans to issue instructions for users to back up their content but warned that service disruptions may occur as they face increasing pressure and potential targeting of their infrastructure.</p><p><img src="https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/May2026/syndicate-labs-shutdown-a16z-synd-token-rollup-market-2026-3252.webp" /></p><hr/><small>6 Sep 2026, 16:50 UTC | #20298</small>]]></content>
+  </entry>
   <entry>
     <title>Bryan Cantrill Critiques LLM-Generated LinkedIn Content</title>
     <link href="https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/" rel="alternate" />
