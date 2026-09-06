@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-06T00:05:00+00:00</updated>
+  <updated>2026-09-06T00:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Bioethicists Warn of Exploitation Risks in AI-Decoded Animal Communication</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-04/ai-s-next-ethical-dilemma-should-humans-talk-to-animals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODU5MTI2NiwiZXhwIjoxNzg5MTk2MDY2LCJhcnRpY2xlSWQiOiJUS1RTTzBSMjRVODYwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.hjuVWuvnk50kQIpiRPsoTF4ZBtQlEN-J_CO18jEmzX4" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-04/ai-s-next-ethical-dilemma-should-humans-talk-to-animals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODU5MTI2NiwiZXhwIjoxNzg5MTk2MDY2LCJhcnRpY2xlSWQiOiJUS1RTTzBSMjRVODYwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.hjuVWuvnk50kQIpiRPsoTF4ZBtQlEN-J_CO18jEmzX4::v238</id>
+    <published>2026-09-06T00:56:00+00:00</published>
+    <updated>2026-09-06T00:56:00+00:00</updated>
+    <media:thumbnail url="https://cdn.completeaitraining.com/news_images/scientists-use-ai-to-analyze-animal-vocalizations-in-search-of-communication-pat_2026-06-06.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-04/ai-s-next-ethical-dilemma-should-humans-talk-to-animals?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODU5MTI2NiwiZXhwIjoxNzg5MTk2MDY2LCJhcnRpY2xlSWQiOiJUS1RTTzBSMjRVODYwMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.hjuVWuvnk50kQIpiRPsoTF4ZBtQlEN-J_CO18jEmzX4">bloomberg.com</a></small></p><hr/><p>Researchers are utilizing artificial intelligence to decode animal communication, a development that could transform the human understanding of other species. Bioethicists warn that these advancements also carry the risk of providing humans with new ways to manipulate, exploit, or harm animals.</p><p>The ability to interpret animal signals introduces significant moral questions regarding interspecies communication and animal welfare. As the technology used to translate non-human languages advances, experts suggest that new ethical frameworks will be necessary to address potential misuse.</p><p><img src="https://cdn.completeaitraining.com/news_images/scientists-use-ai-to-analyze-animal-vocalizations-in-search-of-communication-pat_2026-06-06.jpg" /></p><hr/><small>6 Sep 2026, 07:10 UTC | #20266</small>]]></content>
+  </entry>
   <entry>
     <title>The Seattle Times and Newsday Sue Microsoft and OpenAI Over AI Training</title>
     <link href="https://www.geekwire.com/2026/seattle-times-sues-microsoft-and-openai-alleging-they-trained-their-ai-on-its-journalism/" rel="alternate" />
