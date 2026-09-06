@@ -876,13 +876,4 @@
     <media:thumbnail url="https://miro.medium.com/1*uDPnu9cM3mnVwVd_Z1TV7w.jpeg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://metapatterns.io/">metapatterns.io</a> | <a href="https://leanpub.com/metapatterns">source</a> | <a href="https://lobste.rs/s/mkpgrk/pattern_language_software_architecture">discussion</a></small></p><hr/><p>Architectural Metapatterns by Denys Poltorak organizes hundreds of individual software architecture patterns into several wider metapatterns. This structure facilitates the study of common features, applicability, and performance across different classes of patterns in both local and distributed systems.</p><p>The work utilizes hundreds of diagrams to illustrate the relationships and evolutions of architectural styles. Covered topics include system complexity, communication models, and the adaptation of architectures throughout a product's life cycle.</p><p><img src="https://miro.medium.com/1*uDPnu9cM3mnVwVd_Z1TV7w.jpeg" /></p><hr/><small>2 Sep 2026, 07:10 UTC | #19878</small>]]></content>
   </entry>
-  <entry>
-    <title>Movie Scene Map Tracks Global Filming and Television Locations</title>
-    <link href="https://moviescenemap.com/" rel="alternate" />
-    <id>https://moviescenemap.com/::v238</id>
-    <published>2026-09-01T22:58:00+00:00</published>
-    <updated>2026-09-01T22:58:00+00:00</updated>
-    <media:thumbnail url="https://assets3.thrillist.com/v1/image/3136537/792x1526/scale;webp=auto;jpeg_quality=60.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://moviescenemap.com/">moviescenemap.com</a> | <a href="https://news.ycombinator.com/item?id=49524320">hacker news</a></small></p><hr/><p>Movie Scene Map is a free interactive atlas that tracks 15,565 real-world filming locations across 166 countries. The platform identifies the specific studios, streets, and landscapes used in 9,287 films and television series, and it includes the narrative settings for video games, anime, and manga.</p><p>The database is built using open data from Wikidata, Wikimedia Commons, and Wikipedia. The entire atlas is available for download in GeoJSON and CSV formats under a CC0 license, and users can contribute to the project by adding filming location statements to Wikidata entries.</p><p><img src="https://assets3.thrillist.com/v1/image/3136537/792x1526/scale;webp=auto;jpeg_quality=60.jpg" /></p><hr/><small>2 Sep 2026, 06:34 UTC | #19873</small>]]></content>
-  </entry>
 </feed>
