@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-06T09:11:00+00:00</updated>
+  <updated>2026-09-06T14:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Dystopian Waves Updates Noesis to v1.5.0 and Releases Free Noesis Lite</title>
+    <link href="https://www.kvraudio.com/news/dystopian-waves-updates-noesis-to-v1-5-0-and-releases-free-noesis-lite-68391?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68391" rel="alternate" />
+    <id>https://www.kvraudio.com/news/dystopian-waves-updates-noesis-to-v1-5-0-and-releases-free-noesis-lite-68391?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68391::v238</id>
+    <published>2026-09-06T14:44:00+00:00</published>
+    <updated>2026-09-06T14:44:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/noesis-lite.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dystopian-waves-updates-noesis-to-v1-5-0-and-releases-free-noesis-lite-68391?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68391">kvraudio.com</a> | <a href="https://dystopianwaves.gumroad.com/">source</a></small></p><hr/><p>Dystopian Waves has updated its Noesis Intelligent Harmony Generator to version 1.5.0 and released a free edition, Noesis Lite. The update introduces a Bridge Builder tool for connecting chords, a Melody Harmonizer Engine, and expanded libraries of scales, genres, and voicings.</p><p>Version 1.5.0 adds MIDI drag-and-drop, individual chord export, and 40 factory presets for Windows and macOS. Noesis Lite includes real-time MIDI output, a Circle of Fifths interface, and three genres: Pop, Emotional Score, and LoFi. The full Noesis software is currently offered at a discounted price of $17.99 through September 10.</p><p><img src="https://static.kvraudio.com/i/b/noesis-lite.png" /></p><hr/><small>6 Sep 2026, 19:12 UTC | #20291</small>]]></content>
+  </entry>
+  <entry>
+    <title>Tomasz Głuc Updates TOMiC Drum Synth to Version 0.6</title>
+    <link href="https://www.kvraudio.com/news/tomasz-gluc-updates-tomic-drum-synth-to-v0-6-with-in-process-plugin-hosting-expanded-lfo-and-song-mode-workflow-68270?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68270" rel="alternate" />
+    <id>https://www.kvraudio.com/news/tomasz-gluc-updates-tomic-drum-synth-to-v0-6-with-in-process-plugin-hosting-expanded-lfo-and-song-mode-workflow-68270?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68270::v238</id>
+    <published>2026-09-06T14:43:00+00:00</published>
+    <updated>2026-09-06T14:43:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/kvr06.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/tomasz-gluc-updates-tomic-drum-synth-to-v0-6-with-in-process-plugin-hosting-expanded-lfo-and-song-mode-workflow-68270?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68270">kvraudio.com</a> | <a href="https://omnidaw.com/tomic">source</a></small></p><hr/><p>Tomasz Głuc has released version 0.6 of the TOMiC Drum Synth, introducing standalone in-process hosting for external CLAP and OMNiPlugin instruments and effects. The update expands the LFO engine to 10 waveforms, introduces a Song Mode workflow with per-pattern clips, and enables bit-accurate audio export for stems and master files.</p><p>The release includes an interactive sequencer range ring, live pattern chain growth during recording, and enhanced stability for ASIO drivers. The software is available for Windows and Linux in VST3, CLAP, and standalone formats.</p><p><img src="https://static.kvraudio.com/i/b/kvr06.png" /></p><hr/><small>6 Sep 2026, 19:10 UTC | #20289</small>]]></content>
+  </entry>
   <entry>
     <title>FRCTL Audio Releases GRNi Granular Sampler</title>
     <link href="https://www.kvraudio.com/news/frctl-audio-releases-grni---granular-sampler-with-blendable-layers-vst3-au-and-clap-68385?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68385" rel="alternate" />
