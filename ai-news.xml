@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-06T07:13:00+00:00</updated>
+  <updated>2026-09-06T07:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>GPT-6 Astra Outperforms Fable 5.1 in Robotic Manipulation Benchmarks</title>
+    <link href="https://openai.robocurve.org/gpt-6-astra/" rel="alternate" />
+    <id>https://openai.robocurve.org/gpt-6-astra/::v238</id>
+    <published>2026-09-06T07:25:00+00:00</published>
+    <updated>2026-09-06T07:25:00+00:00</updated>
+    <media:thumbnail url="https://openai.robocurve.org/gpt-6-astra/video/bowl-astra-vs-fable51-cost-poster.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://openai.robocurve.org/gpt-6-astra/">openai.robocurve.org</a> | <a href="https://news.ycombinator.com/item?id=49582582">hacker news</a></small></p><hr/><p>In trials using YAM robotic arms, GPT-6 Astra achieved a 95% success rate in placing a red block into a bowl, significantly outperforming Claude Fable 5.1 (40%) and Fable 5 (5%). The task was completed more efficiently, with Astra averaging 2.5 minutes per run at a cost of $0.94, compared to Fable 5.1's 6.8 minutes and $2.12.</p><p>Performance parity occurred during more complex tasks, such as puzzle piece insertion, where Astra matched Fable 5.1 with a 10% success rate. Both models stalled at the same physical stage—reaching the target groove—before failing to complete the final insertion.</p><p><img src="https://openai.robocurve.org/gpt-6-astra/video/bowl-astra-vs-fable51-cost-poster.jpg" /></p><hr/><small>6 Sep 2026, 13:12 UTC | #20285</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Revises GPT-6 Astra Evaluation Metrics Following Launch</title>
     <link href="https://fortune.com/2026/09/04/openai-quietly-boosts-some-of-astras-evaluation-metrics-amid-rare-delay-in-publication-of-the-modeblog-post-announcement/" rel="alternate" />
