@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-06T07:16:00+00:00</updated>
+  <updated>2026-09-06T11:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Gleam and BEAM: Looking Beyond the JVM</title>
+    <link href="https://vimeo.com/1223666800" rel="alternate" />
+    <id>https://vimeo.com/1223666800::v238</id>
+    <published>2026-09-06T11:59:00+00:00</published>
+    <updated>2026-09-06T11:59:00+00:00</updated>
+    <media:thumbnail url="https://codex.danielvaughan.com/sketchnotes/articles/2026-05-23-codex-cli-gleam-development-beam-type-safe-lsp-mcp-dual-target-workflows.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vimeo.com/1223666800">vimeo.com</a> | <a href="https://lobste.rs/s/5wzkwm/gleam_beam_looking_beyond_jvm">discussion</a></small></p><hr/><p>This presentation by John Mikael Lindbakk explores how the Gleam programming language utilizes the BEAM virtual machine. It focuses on leveraging the Erlang ecosystem's concurrency and fault-tolerance through a type-safe, functional paradigm.</p><p>The talk discusses the benefits of operating outside the Java Virtual Machine (JVM) to access the BEAM's actor model and distributed computing capabilities. It highlights how Gleam's architecture facilitates the development of highly scalable and reliable applications.</p><p><img src="https://codex.danielvaughan.com/sketchnotes/articles/2026-05-23-codex-cli-gleam-development-beam-type-safe-lsp-mcp-dual-target-workflows.png" /></p><hr/><small>6 Sep 2026, 16:24 UTC | #20297</small>]]></content>
+  </entry>
   <entry>
     <title>Software Degradation and the Limitations of Technical Debt Metaphors</title>
     <link href="https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/" rel="alternate" />
