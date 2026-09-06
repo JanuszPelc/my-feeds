@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-05T16:54:00+00:00</updated>
+  <updated>2026-09-06T07:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Kong Audio Updates Qin Engine to v3.17</title>
+    <link href="https://www.kvraudio.com/news/kong-audio-updates-qin-engine-to-v3-17-68389?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68389" rel="alternate" />
+    <id>https://www.kvraudio.com/news/kong-audio-updates-qin-engine-to-v3-17-68389?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68389::v238</id>
+    <published>2026-09-06T07:27:00+00:00</published>
+    <updated>2026-09-06T07:27:00+00:00</updated>
+    <media:thumbnail url="https://www.251bianqu.com/wp-content/uploads/2024/03/kong-Auido-3-Library-0.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/kong-audio-updates-qin-engine-to-v3-17-68389?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68389">kvraudio.com</a> | <a href="https://chineekong.com/en/qinenginev3/">source</a></small></p><hr/><p>Kong Audio has released version 3.17 of its Qin Engine. This update adds a UI zooming feature, optimizes UI loading, and improves multi-language implementation.</p><p>The release also addresses several minor bugs. Software is available for Windows and macOS, while Linux versions are provided upon request via email.</p><p><img src="https://www.251bianqu.com/wp-content/uploads/2024/03/kong-Auido-3-Library-0.jpg" /></p><hr/><small>6 Sep 2026, 13:46 UTC | #20287</small>]]></content>
+  </entry>
   <entry>
     <title>MOTSU and DeeJei.Tokyo Release MotTune MIDI Pitch Correction Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/09/05/mottune-midi/" rel="alternate" />
