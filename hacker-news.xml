@@ -947,13 +947,4 @@
     <media:thumbnail url="https://fastpotify.rocks/screenshot.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fastpotify.rocks/">fastpotify.rocks</a> | <a href="https://github.com/crmne/fastpotify">source</a> | <a href="https://news.ycombinator.com/item?id=49517448">hacker news</a></small></p><hr/><p>Fastpotify is a lightweight, native Spotify client for Linux, macOS, and Windows. Written in Rust and built without an embedded browser engine, the application ensures rapid startup and low memory consumption. It supports local playback, library management, and Spotify Connect controls.</p><p>The client includes a Winamp-style mini player compatible with classic .wsz skins from the Winamp Skin Museum. Users also have access to desktop-specific functionality, such as MPRIS media controls on Linux and a tray option for continuous playback after closing the main window.</p><p><img src="https://fastpotify.rocks/screenshot.png" /></p><hr/><small>1 Sep 2026, 06:33 UTC | #19745</small>]]></content>
   </entry>
-  <entry>
-    <title>Kale Prototype Prevents Spreadsheet Reference Errors</title>
-    <link href="https://arxiv.org/abs/2608.26345" rel="alternate" />
-    <id>https://arxiv.org/abs/2608.26345::v237</id>
-    <published>2026-09-01T00:17:00+00:00</published>
-    <updated>2026-09-01T00:17:00+00:00</updated>
-    <media:thumbnail url="https://i.pinimg.com/736x/ea/e6/a4/eae6a4622b60bdfd876ff6f7f70ab162.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arxiv.org/abs/2608.26345">arxiv.org</a> | <a href="https://lobste.rs/s/tkrcrg/kale_transformation_safe_spreadsheet">discussion</a></small></p><hr/><p>Researchers have developed Kale, a prototype spreadsheet system designed to prevent errors caused by structural changes to referenced tables. By restricting the types of expressible references, the system prevents the unintended and incorrect cell updates that frequently occur in traditional spreadsheet software when users insert or move rows and columns.</p><p>User studies indicate that Kale allows users to complete spreadsheet tasks more effectively and with fewer errors than standard systems. The research also includes a corpus analysis to evaluate the extent to which these reference restrictions might affect the usability and flexibility of spreadsheet-based workflows.</p><p><img src="https://i.pinimg.com/736x/ea/e6/a4/eae6a4622b60bdfd876ff6f7f70ab162.jpg" /></p><hr/><small>1 Sep 2026, 05:48 UTC | #19743</small>]]></content>
-  </entry>
 </feed>
