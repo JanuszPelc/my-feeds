@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-06T07:12:00+00:00</updated>
+  <updated>2026-09-06T07:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Software Degradation and the Limitations of Technical Debt Metaphors</title>
+    <link href="https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/" rel="alternate" />
+    <id>https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/::v238</id>
+    <published>2026-09-06T07:16:00+00:00</published>
+    <updated>2026-09-06T07:16:00+00:00</updated>
+    <media:thumbnail url="https://d1eipm3vz40hy0.cloudfront.net/images/AMER/Technical+debt+management/techincal-debt-types-optimized.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/">zachkehs.com</a> | <a href="https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get">discussion</a> | <a href="https://news.ycombinator.com/item?id=49576704">hacker news</a></small></p><hr/><p>Software degradation has no physical limit, meaning code can continuously increase in complexity and decrease in performance without reaching a terminal failure state. This challenges common metaphors such as a "sinking ship" or a "collapsing building," which imply a natural endpoint or a catastrophic threshold of total failure.</p><p>Because software lacks the "bankruptcy" mechanism found in financial debt, a complete rewrite rarely provides the clean slate that managers expect. The author argues that businesses often fail due to software complexity long before the code itself reaches a point of complete functional failure, making proactive maintenance essential to prevent infinite decay.</p><p><img src="https://d1eipm3vz40hy0.cloudfront.net/images/AMER/Technical+debt+management/techincal-debt-types-optimized.png" /></p><hr/><small>6 Sep 2026, 11:58 UTC | #20282</small>]]></content>
+  </entry>
   <entry>
     <title>Debian Code Search Implements TurboPFor Using Go SIMD</title>
     <link href="https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/" rel="alternate" />
