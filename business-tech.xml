@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-06T07:24:00+00:00</updated>
+  <updated>2026-09-06T11:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Bryan Cantrill Critiques LLM-Generated LinkedIn Content</title>
+    <link href="https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/" rel="alternate" />
+    <id>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/::v238</id>
+    <published>2026-09-06T11:57:00+00:00</published>
+    <updated>2026-09-06T11:57:00+00:00</updated>
+    <media:thumbnail url="https://cdn-legacy.youscan.io/cdn-cgi/image/metadata=copyright,format=auto,fit=contain,quality=70,width=1280/how_to_post_on_linkedin12.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/">bcantrill.dtrace.org</a> | <a href="https://news.ycombinator.com/item?id=49585644">hacker news</a></small></p><hr/><p>The increasing use of Large Language Models (LLMs) to generate LinkedIn content is damaging the platform's authenticity and readability. AI-authored posts often exhibit a distinctive, stylistically grating pattern—characterized by excessive emojis and predictable sentence structures—that allows readers to immediately identify them as non-human.</p><p>While acknowledging the utility of LLMs for brainstorming and editing, the essay warns that using them to author core content obscures a writer's unique voice and triggers skepticism regarding the genuineness of their messages. Maintaining an authentic writing style is presented as essential for preserving genuine connection in digital social networks.</p><p><img src="https://cdn-legacy.youscan.io/cdn-cgi/image/metadata=copyright,format=auto,fit=contain,quality=70,width=1280/how_to_post_on_linkedin12.png" /></p><hr/><small>6 Sep 2026, 15:08 UTC | #20294</small>]]></content>
+  </entry>
   <entry>
     <title>Judeo-Christian Principles Inform Trump Administration's AI Policy</title>
     <link href="https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048?st=DEHJjr&amp;reflink=desktopwebshare_permalink" rel="alternate" />
