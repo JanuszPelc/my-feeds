@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-06T00:04:00+00:00</updated>
+  <updated>2026-09-06T00:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Learn Programming with OCaml English Translation Available</title>
+    <link href="https://usr.lmf.cnrs.fr/lpo/" rel="alternate" />
+    <id>https://usr.lmf.cnrs.fr/lpo/::v238</id>
+    <published>2026-09-06T00:08:00+00:00</published>
+    <updated>2026-09-06T00:08:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/823266787/original/2385a3da89/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://usr.lmf.cnrs.fr/lpo/">usr.lmf.cnrs.fr</a> | <a href="https://news.ycombinator.com/item?id=49578280">hacker news</a></small></p><hr/><p>An English translation of Sylvain Conchon and Jean-Christophe Filliâtre's book on the OCaml programming language is available. Funded by the OCaml Software Foundation and translated by Urmila Nair, the text provides an English-language version of the authors' original French work.</p><p>The textbook is intended for students, teachers, and programmers, focusing on the use of OCaml for algorithms and data structures. The book is released under a CC BY SA 4.0 license in PDF and EPUB formats, with accompanying code hosted on GitHub.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/823266787/original/2385a3da89/1?v=1" /></p><hr/><small>6 Sep 2026, 04:43 UTC | #20272</small>]]></content>
+  </entry>
   <entry>
     <title>Cloud in a Bottle Launches Personal Cloud Platform</title>
     <link href="https://cloudinabottle.org/blog/launch-post" rel="alternate" />
