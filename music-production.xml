@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-06T14:44:00+00:00</updated>
+  <updated>2026-09-06T14:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Snorkel Audio Releases Disto Disco Audio Effect</title>
+    <link href="https://www.kvraudio.com/news/snorkel-audio-releases-disto-disco---audio-effect-that-turns-distortion-into-movement-vst3-and-au-68388?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68388" rel="alternate" />
+    <id>https://www.kvraudio.com/news/snorkel-audio-releases-disto-disco---audio-effect-that-turns-distortion-into-movement-vst3-and-au-68388?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68388::v238</id>
+    <published>2026-09-06T14:46:00+00:00</published>
+    <updated>2026-09-06T14:46:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot_desktop_main_dark.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/snorkel-audio-releases-disto-disco---audio-effect-that-turns-distortion-into-movement-vst3-and-au-68388?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68388">kvraudio.com</a> | <a href="https://www.snorkelaudio.com/disto-disco/">source</a></small></p><hr/><p>Snorkel Audio has released Disto Disco, an audio effect plugin for macOS and Windows. The tool features 28 processing modes, including drive, fuzz, spectral processing, and granular clouds.</p><p>Each control is equipped with its own rhythmic modulator, allowing for synchronized or varied movement across parameters. The plugin also includes "Random" and "Spice" functions to generate and modify modulations, and it is available for €59.</p><p><img src="https://static.kvraudio.com/i/b/screenshot_desktop_main_dark.png" /></p><hr/><small>6 Sep 2026, 19:25 UTC | #20290</small>]]></content>
+  </entry>
   <entry>
     <title>Dystopian Waves Updates Noesis to v1.5.0 and Releases Free Noesis Lite</title>
     <link href="https://www.kvraudio.com/news/dystopian-waves-updates-noesis-to-v1-5-0-and-releases-free-noesis-lite-68391?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68391" rel="alternate" />
