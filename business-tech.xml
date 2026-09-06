@@ -789,22 +789,4 @@
     <media:thumbnail url="https://i.ytimg.com/vi/XPtvvfGX3UQ/maxresdefault.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ersc.io/blog/martin-joins-ersc">ersc.io</a> | <a href="https://news.ycombinator.com/item?id=49525297">hacker news</a></small></p><hr/><p>Martin von Zweigbergk, creator of the Jujutsu version control system, has joined East River Source Control as Chief Technology Officer. He will lead engineering for the company's next-generation version control platforms.</p><p>Von Zweigbergk previously worked on Google's Fig and contributed to the Git version control system. His appointment comes as East River Source Control prepares to enter private beta for ERSC Storage later this month to address the evolving source code management needs of an AI-reshaped software industry.</p><p><img src="https://i.ytimg.com/vi/XPtvvfGX3UQ/maxresdefault.jpg" /></p><hr/><small>2 Sep 2026, 03:16 UTC | #19868</small>]]></content>
   </entry>
-  <entry>
-    <title>Anthropic Introduces Enterprise Frontier Safeguards for Business Data Control</title>
-    <link href="https://www.cnbc.com/2026/09/01/anthropic-data-retention.html" rel="alternate" />
-    <id>https://www.cnbc.com/2026/09/01/anthropic-data-retention.html::v238</id>
-    <published>2026-09-01T20:39:00+00:00</published>
-    <updated>2026-09-01T20:39:00+00:00</updated>
-    <media:thumbnail url="https://growthcommission.org/wp-content/uploads/2025/09/data-retention-policy-for-businesses.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/01/anthropic-data-retention.html">cnbc.com</a> | <a href="https://www.anthropic.com/news/enterprise-frontier-safeguards">source</a></small></p><hr/><p>Following feedback regarding privacy, Anthropic is replacing its 30-day data retention policy for business customers with a new system called Enterprise Frontier Safeguards. The new solution allows companies to control how their data is reviewed, stored, and managed, including the option to utilize automated safety monitoring that bypasses human review.</p><p>The safeguards will be offered at no additional cost and will be available to users accessing technology directly or via cloud providers. The company plans a phased rollout, aiming for broader availability this fall as it continues to compete with OpenAI and approaches a widely expected IPO.</p><p><img src="https://growthcommission.org/wp-content/uploads/2025/09/data-retention-policy-for-businesses.png" /></p><hr/><small>2 Sep 2026, 01:40 UTC | #19826</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI Token Prices Reach Record Lows</title>
-    <link href="https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html" rel="alternate" />
-    <id>https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html::v238</id>
-    <published>2026-09-01T20:34:00+00:00</published>
-    <updated>2026-09-01T20:34:00+00:00</updated>
-    <media:thumbnail url="https://dontpaniclabs.com/wp-content/uploads/2025/11/price-per-token-1-1024x614.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html">cnbc.com</a></small></p><hr/><p>The LLM Token Expenditure Index, a measure of daily prices for large-language model tokens, fell to 97 cents on Monday, its lowest reading since the index's inception. This decline is driven by rising competition from open-source Chinese models, price reductions from frontier labs like OpenAI, and the industry-wide implementation of dynamic pricing strategies.</p><p>While decreasing costs benefit users of platforms like ChatGPT and Gemini, the trend creates revenue pressure for model developers facing high, fixed compute costs. Analysts suggest that this deflation may force AI companies to pivot their competitive focus away from raw model capability toward distribution and context management as they navigate investor ROI expectations and potential IPOs.</p><p><img src="https://dontpaniclabs.com/wp-content/uploads/2025/11/price-per-token-1-1024x614.webp" /></p><hr/><small>2 Sep 2026, 00:35 UTC | #19818</small>]]></content>
-  </entry>
 </feed>
