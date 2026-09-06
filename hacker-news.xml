@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-06T11:59:00+00:00</updated>
+  <updated>2026-09-06T14:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Forgejo Implements Federated Stars via ActivityPub</title>
+    <link href="https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/" rel="alternate" />
+    <id>https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/::v238</id>
+    <published>2026-09-06T14:39:00+00:00</published>
+    <updated>2026-09-06T14:39:00+00:00</updated>
+    <media:thumbnail url="https://pogi.rocks/content/images/size/w1000/2025/10/Forgejo.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://domaindrivenarchitecture.org/blog/2024-06-05-howto-federated-stars/">domaindrivenarchitecture.org</a> | <a href="https://codeberg.org/forgejo/forgejo/pulls/1680">source</a> | <a href="https://lobste.rs/s/1kdrx2/how_federated_stars_2024">discussion</a></small></p><hr/><p>A new federated stars feature in Forgejo uses the ActivityPub protocol to synchronize star counts between repositories. When a user stars a mirror or a fork, the originating repository receives a corresponding star activity via federation.</p><p>To enable this, users must set `Federation.Enabled = true` in the configuration and add the target repository URLs under "Federation Settings." Only star activities are currently federated; unstarring activities are not yet supported.</p><p><img src="https://pogi.rocks/content/images/size/w1000/2025/10/Forgejo.jpg" /></p><hr/><small>6 Sep 2026, 17:50 UTC | #20301</small>]]></content>
+  </entry>
+  <entry>
+    <title>NetBSD 11 Manual Installation and Disk-Level Encryption</title>
+    <link href="https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/" rel="alternate" />
+    <id>https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/::v238</id>
+    <published>2026-09-06T14:38:00+00:00</published>
+    <updated>2026-09-06T14:38:00+00:00</updated>
+    <media:thumbnail url="https://meanmicio.org/wp-content/uploads/2026/09/image-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/">meanmicio.org</a> | <a href="https://lobste.rs/s/be5lrk/netbsd_11_from_scratch">discussion</a></small></p><hr/><p>This guide details the manual installation of NetBSD 11 by bypassing the standard sysinst installer. The walkthrough covers MBR partitioning on BIOS-based hardware and the implementation of disk-level encryption via the Cryptographic Disk Driver (CGD).</p><p>The process includes setting up remote SSH access, managing disklabels, and configuring encrypted volumes for system partitions. It is intended for users who wish to understand the system's internals or require highly customized installation settings.</p><p><img src="https://meanmicio.org/wp-content/uploads/2026/09/image-1.png" /></p><hr/><small>6 Sep 2026, 17:47 UTC | #20299</small>]]></content>
+  </entry>
   <entry>
     <title>Gleam and BEAM: Looking Beyond the JVM</title>
     <link href="https://vimeo.com/1223666800" rel="alternate" />
