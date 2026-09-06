@@ -903,22 +903,4 @@
     <media:thumbnail url="https://blog.logrocket.com/wp-content/uploads/2019/07/css-minifier-minified-output.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://shivjm.blog/is-minifying-css-necessary/">shivjm.blog</a> | <a href="https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023">discussion</a></small></p><hr/><p>An investigation into whether removing whitespace and comments from CSS files yields measurable performance improvements. The author argues that such minification is largely unnecessary because modern compression methods like gzip or Brotli already significantly reduce file sizes with much less complexity.</p><p>Experimental results show that even when testing 100,000 declaration blocks, the difference in browser parsing time between minified and unminified code is measured in only a few milliseconds. This suggests that the additional step in a build pipeline offers almost no perceptible benefit to end-users.</p><p><img src="https://blog.logrocket.com/wp-content/uploads/2019/07/css-minifier-minified-output.png" /></p><hr/><small>1 Sep 2026, 19:01 UTC | #19815</small>]]></content>
   </entry>
-  <entry>
-    <title>Dyson Introduces CameraJet AI-Powered Toothbrush</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-01/dyson-announces-499-camerajet-smart-toothbrush-with-ai-built-in-camera" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-01/dyson-announces-499-camerajet-smart-toothbrush-with-ai-built-in-camera::v238</id>
-    <published>2026-09-01T16:00:00+00:00</published>
-    <updated>2026-09-01T16:00:00+00:00</updated>
-    <media:thumbnail url="https://hips.hearstapps.com/hmg-prod/images/3f95d15c-612c-4f63-9e87-1b68d68363c4.png?crop=0.502xw:1.00xh;0.277xw,0&amp;resize=640:*" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-01/dyson-announces-499-camerajet-smart-toothbrush-with-ai-built-in-camera">bloomberg.com</a> | <a href="https://www.prnewswire.com/news-releases/dyson-camerajet-the-first-toothbrush-with-a-camera-and-a-jet-to-target-the-gaps-and-remove-plaque-between-your-teeth-302865389.html">source</a></small></p><hr/><p>Dyson has introduced the CameraJet, a $499 smart toothbrush that uses an integrated camera and artificial intelligence to provide real-time dental feedback. The device employs optical targeting to identify gaps between teeth, directing a precision water jet to target plaque in those specific areas.</p><p>The product is available for preorder in blue and pink. While many smart toothbrushes track brushing time or pressure, the CameraJet's primary distinction is its ability to automate precision flossing through AI-driven visual monitoring.</p><p><img src="https://hips.hearstapps.com/hmg-prod/images/3f95d15c-612c-4f63-9e87-1b68d68363c4.png?crop=0.502xw:1.00xh;0.277xw,0&resize=640:*" /></p><hr/><small>1 Sep 2026, 18:13 UTC | #19764</small>]]></content>
-  </entry>
-  <entry>
-    <title>Aurora Store Reports 'Server Busy' Error for Anonymous Account Installs</title>
-    <link href="https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566" rel="alternate" />
-    <id>https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566::v238</id>
-    <published>2026-09-01T15:56:00+00:00</published>
-    <updated>2026-09-01T15:56:00+00:00</updated>
-    <media:thumbnail url="https://i.blogs.es/0bc22a/screenshot_20250904-093946/450_1000.jpeg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566">gitlab.com</a> | <a href="https://news.ycombinator.com/item?id=49523754">hacker news</a></small></p><hr/><p>Aurora Store is encountering a "Server busy, please try again later." error when users attempt to install applications through anonymous accounts. Users report that the error persists despite clearing the application cache, using a VPN, or restarting the device.</p><p>The issue has been documented on several Android configurations, including Android 11 and Android 16. It is currently unclear whether the error is restricted to anonymous account authentication or if it indicates a broader server-side or connectivity issue.</p><p><img src="https://i.blogs.es/0bc22a/screenshot_20250904-093946/450_1000.jpeg" /></p><hr/><small>1 Sep 2026, 17:44 UTC | #19814</small>]]></content>
-  </entry>
 </feed>
