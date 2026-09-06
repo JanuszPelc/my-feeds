@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-05T11:13:00+00:00</updated>
+  <updated>2026-09-05T20:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Three Hikers Rescued From Mount Shasta After Using Google Gemini for Trip Planning</title>
+    <link href="https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/::v238</id>
+    <published>2026-09-05T20:40:00+00:00</published>
+    <updated>2026-09-05T20:40:00+00:00</updated>
+    <media:thumbnail url="https://hermes.media.static.aol.com/media/2026/07/01/cd5639a7-1965-3e5f-ba7d-a11377adeedd/a6145746-fc57-4506-936a-90445e7a2f3e.jpeg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/">techcrunch.com</a> | <a href="https://www.chicagotribune.com/2026/09/03/mount-shasta-rescue-ai-planning/">source</a></small></p><hr/><p>Three hikers were rescued from California's Mount Shasta after using Google's Gemini AI to plan their expedition. The Siskiyou County sheriff's office reported that the AI advised the group to pack insufficient food and water for a journey that was expected to take eight hours but turned into a multi-day ordeal.</p><p>Forest Service rangers and volunteers rescued the group from Mud Creek Canyon the following morning. Local authorities issued a warning following the incident, advising travelers to consult the Mount Shasta ranger station for accurate information and to avoid relying solely on AI for wilderness trip planning.</p><p><img src="https://hermes.media.static.aol.com/media/2026/07/01/cd5639a7-1965-3e5f-ba7d-a11377adeedd/a6145746-fc57-4506-936a-90445e7a2f3e.jpeg" /></p><hr/><small>6 Sep 2026, 00:42 UTC | #20253</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI, Anthropic, and xAI Experience Simultaneous Outages</title>
     <link href="https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/" rel="alternate" />
