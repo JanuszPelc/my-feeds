@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-06T09:15:00+00:00</updated>
+  <updated>2026-09-06T14:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>The Decline of Literacy in a Digital Age</title>
+    <link href="https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death" rel="alternate" />
+    <id>https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death::v238</id>
+    <published>2026-09-06T14:41:00+00:00</published>
+    <updated>2026-09-06T14:41:00+00:00</updated>
+    <media:thumbnail url="https://download-pa-s3.thethinkacademy.com/images/1760181532982-tal-new-In-a-textbook-illustration-sty-1760181532982.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death">edwest.co.uk</a> | <a href="https://news.ycombinator.com/item?id=49585627">hacker news</a></small></p><hr/><p>The shift from deep reading to mindless digital consumption through smartphones and social media is eroding cognitive attention and cultural complexity. This trend, examined in relation to James Marriott's book *The New Dark Ages*, suggests the emergence of a post-literate society characterized by increasingly fragmented attention spans.</p><p>Simplification is becoming evident in pop music, scientific research, and political discourse. As attention spans decrease, the capacity for deep, focused concentration is being replaced by rapid, superficial stimulation, which may fundamentally alter democratic engagement and human empathy.</p><p><img src="https://download-pa-s3.thethinkacademy.com/images/1760181532982-tal-new-In-a-textbook-illustration-sty-1760181532982.png" /></p><hr/><small>6 Sep 2026, 18:05 UTC | #20302</small>]]></content>
+  </entry>
   <entry>
     <title>Fifth Circuit Affirms Dismissal of Jackson Water Contamination Lawsuit</title>
     <link href="https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/" rel="alternate" />
@@ -274,14 +283,5 @@
     <updated>2026-09-01T18:14:00+00:00</updated>
     <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQGv2mTn4JRVnw/article-cover_image-shrink_720_1280/B4DZytijC9KgAI-/0/1772438044902?e=2147483647&amp;v=beta&amp;t=Xnu36LSujaD4X5paTuxlMYDCDi7KWnfuPn74l5ThbwA" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://pulkomandy.tk/_/_Life/_A%20bicycle%20for%20the%20mind">pulkomandy.tk</a> | <a href="https://lobste.rs/s/y58e86/bicycle_for_mind">discussion</a></small></p><hr/><p>The deployment of large language models (LLMs) is driving a shift from "bicycle" computing—tools that augment human capability—to a "car" model characterized by opaque, corporate-controlled dependency. As digital infrastructure and content are increasingly optimized for machine consumption, the transparent, human-centric open-source ecosystems that foster individual agency and technical mastery face potential displacement.</p><p>This evolution challenges the historical ideal of the computer as a "bicycle for the mind," where users maintain control through technical understanding and transparent interaction. The text argues that utilizing customizable, independent software like the Haiku operating system is becoming essential for maintaining personal autonomy in an increasingly automated and black-box-driven technological landscape.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQGv2mTn4JRVnw/article-cover_image-shrink_720_1280/B4DZytijC9KgAI-/0/1772438044902?e=2147483647&v=beta&t=Xnu36LSujaD4X5paTuxlMYDCDi7KWnfuPn74l5ThbwA" /></p><hr/><small>1 Sep 2026, 21:29 UTC | #19836</small>]]></content>
-  </entry>
-  <entry>
-    <title>Zuzai Coined as Term for AI-Free Creations</title>
-    <link href="https://zuzai.org/" rel="alternate" />
-    <id>https://zuzai.org/::v238</id>
-    <published>2026-09-01T17:56:00+00:00</published>
-    <updated>2026-09-01T17:56:00+00:00</updated>
-    <media:thumbnail url="https://zuzai.org/zuzai%20in%20chalk%20small%20banner.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://zuzai.org/">zuzai.org</a> | <a href="https://lobste.rs/s/6ejigt/zuzai_new_word_indicates_absence_ai">discussion</a></small></p><hr/><p>Zuzai is a newly proposed recursive acronym for "Zuzai uses zero artificial intelligence." The term is intended to serve as a positive, concise descriptor for creations, products, or environments produced without the use of artificial intelligence, acting as a "retronymic adjective" to distinguish them from AI-generated alternatives.</p><p>The author contends that current descriptors like "AI-free" or "human-generated" are often clunky or conceptually incomplete. By comparing the potential adoption of "zuzai" to the widespread use of terms like "vegan," the piece explores how new vocabulary might help focus attention on authenticity and quality in an increasingly AI-saturated landscape.</p><p><img src="https://zuzai.org/zuzai%20in%20chalk%20small%20banner.jpg" /></p><hr/><small>1 Sep 2026, 19:19 UTC | #19823</small>]]></content>
   </entry>
 </feed>
