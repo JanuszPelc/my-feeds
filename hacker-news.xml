@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-05T20:39:00+00:00</updated>
+  <updated>2026-09-05T20:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>.NET 11 Introduces Runtime Async Calling Convention</title>
+    <link href="https://csharpdigest.net/links/23119/rss" rel="alternate" />
+    <id>https://csharpdigest.net/links/23119/rss::v238</id>
+    <published>2026-09-05T20:41:00+00:00</published>
+    <updated>2026-09-05T20:41:00+00:00</updated>
+    <media:thumbnail url="https://www.netmentor.es/imagen/e16a3162-1e7d-4f17-a428-d68c25d756a5.jpg" />
+    <content type="html"><![CDATA[<p><small>C# Digest | <a href="https://csharpdigest.net/links/23119/rss">csharpdigest.net</a> | <a href="https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime">source</a></small></p><hr/><p>.NET 11 introduces Runtime Async, a mechanism that replaces compiler-generated state machines with a runtime-managed calling convention. By passing a `Continuation` object through registers, the JIT can manage asynchronous control flow directly, preserving original method structures and enabling optimizations like inlining that are often lost in traditional `async/await` implementations.</p><p>This implementation reduces the memory and CPU overhead caused by `Task` allocations and state machine management, particularly in deep, synchronous call chains. The development follows the conclusion of the .NET "Green Threads" experiment and aims to solve performance and hardware-compatibility issues associated with user-mode scheduling.</p><p><img src="https://www.netmentor.es/imagen/e16a3162-1e7d-4f17-a428-d68c25d756a5.jpg" /></p><hr/><small>6 Sep 2026, 00:57 UTC | #19623</small>]]></content>
+  </entry>
   <entry>
     <title>Berlin Reviews Stolen Data Released by Rhysida Ransomware Group</title>
     <link href="https://www.reuters.com/world/berlin-launches-crisis-response-after-hackers-publish-stolen-data-2026-09-05/" rel="alternate" />
