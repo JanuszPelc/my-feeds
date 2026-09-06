@@ -879,12 +879,4 @@
     <media:thumbnail url="https://growbusinessmag.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-11-2026-04_14_05-AM-1024x683.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/openai-says-apple-has-only-itself-blame-trade-secret-fight-2026-09-01/">reuters.com</a></small></p><hr/><p>OpenAI has filed a response denying Apple's allegations of trade secret theft, claiming the legal conflict is a byproduct of Apple's own internal failures. The company contends that Apple has failed to produce evidence substantiating the claim that confidential information was misappropriated.</p><p>The dispute stems from a July 2026 lawsuit in which Apple accused OpenAI of acquiring stolen hardware designs via former employees. As the case progresses, Apple has raised concerns regarding the destruction of evidence, while OpenAI has sought to have the lawsuit dismissed, alleging that Apple's own security practices undermined its ability to protect the secrets in question.</p><p><img src="https://growbusinessmag.com/wp-content/uploads/2026/07/ChatGPT-Image-Jul-11-2026-04_14_05-AM-1024x683.png" /></p><hr/><small>1 Sep 2026, 15:22 UTC | #19753</small>]]></content>
   </entry>
-  <entry>
-    <title>Google Play Rejects AnkiDroid Donation Link Over 501(c)(6) Status</title>
-    <link href="https://github.com/ankidroid/Anki-Android/issues/21656" rel="alternate" />
-    <id>https://github.com/ankidroid/Anki-Android/issues/21656::v238</id>
-    <published>2026-09-01T10:12:00+00:00</published>
-    <updated>2026-09-01T15:05:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/ankidroid/Anki-Android/issues/21656">github.com</a> | <a href="https://news.ycombinator.com/item?id=49520022">hacker news</a></small></p><hr/><p>Google Play has blocked updates for AnkiDroid, a popular open-source flashcard application, following a dispute over its donation links. The app's fiscal host, Open Source Collective, operates under a 501(c)(6) tax-exempt status, which Google argues fails to meet the criteria for "tax-exempt donations" required by its payments policy.</p><p>While 501(c)(6) organizations are tax-exempt, donations to them are not tax-deductible for the donor. To avoid being removed from the Play Store by September 11, 2026, the AnkiDroid team is removing the donation links under protest to ensure the app remains available to its users.</p><hr/><small>1 Sep 2026, 12:09 UTC | #19768</small>]]></content>
-  </entry>
 </feed>
