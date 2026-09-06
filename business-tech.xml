@@ -851,13 +851,4 @@
     <updated>2026-09-01T15:05:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/ankidroid/Anki-Android/issues/21656">github.com</a> | <a href="https://news.ycombinator.com/item?id=49520022">hacker news</a></small></p><hr/><p>Google Play has blocked updates for AnkiDroid, a popular open-source flashcard application, following a dispute over its donation links. The app's fiscal host, Open Source Collective, operates under a 501(c)(6) tax-exempt status, which Google argues fails to meet the criteria for "tax-exempt donations" required by its payments policy.</p><p>While 501(c)(6) organizations are tax-exempt, donations to them are not tax-deductible for the donor. To avoid being removed from the Play Store by September 11, 2026, the AnkiDroid team is removing the donation links under protest to ensure the app remains available to its users.</p><hr/><small>1 Sep 2026, 12:09 UTC | #19768</small>]]></content>
   </entry>
-  <entry>
-    <title>Anthropic Signs $35 Billion Cloud Deal With Lambda</title>
-    <link href="https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1" rel="alternate" />
-    <id>https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1::v237</id>
-    <published>2026-09-01T02:54:00+00:00</published>
-    <updated>2026-09-01T02:54:00+00:00</updated>
-    <media:thumbnail url="https://pbs.twimg.com/media/HHVnl9kaQAAgcI_.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1">wsj.com</a></small></p><hr/><p>Anthropic has entered into a $35 billion cloud computing agreement with Lambda, an Nvidia-backed provider. In a related infrastructure move, Nvidia will also supply chips and hold the lease on a Texas data center built by Hut 8.</p><p>These agreements illustrate Nvidia's strategy of leveraging its financial position to support key customers and secure the large-scale computing capacity required for modern AI development.</p><p><img src="https://pbs.twimg.com/media/HHVnl9kaQAAgcI_.jpg" /></p><hr/><small>1 Sep 2026, 06:45 UTC | #19729</small>]]></content>
-  </entry>
 </feed>

@@ -948,21 +948,4 @@
     <media:thumbnail url="https://cdn.prod.website-files.com/623c314a1c4d047f6122244d/69155c650d39de9c0a59d7e4_907135a7.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown">bjk5.com</a> | <a href="https://lobste.rs/s/haotvw/breaking_down_amazon_s_mega_dropdown_2013">discussion</a></small></p><hr/><p>Ben Kamens examines the technical implementation of Amazon's mega dropdown menu, specifically how it handles rapid cursor movements. The analysis explains how the interface prevents menu closures when a user transitions quickly between main navigation items and sub-menus.</p><p>The piece details a "prediction cone" concept, where the interface anticipates the mouse's path to ensure menu visibility remains stable during transit. This technique mitigates navigation issues where a user's cursor might momentarily exit a menu area while moving toward a target.</p><p><img src="https://cdn.prod.website-files.com/623c314a1c4d047f6122244d/69155c650d39de9c0a59d7e4_907135a7.png" /></p><hr/><small>1 Sep 2026, 10:35 UTC | #19754</small>]]></content>
   </entry>
-  <entry>
-    <title>Janet Releases Version 1.42.0</title>
-    <link href="https://github.com/janet-lang/janet/releases/tag/v1.42.0" rel="alternate" />
-    <id>https://github.com/janet-lang/janet/releases/tag/v1.42.0::v237</id>
-    <published>2026-09-01T02:58:00+00:00</published>
-    <updated>2026-09-01T02:58:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/janet-lang/janet/releases/tag/v1.42.0">github.com</a> | <a href="https://lobste.rs/s/jbgnwk/janet_1_42_0">discussion</a> | <a href="https://news.ycombinator.com/item?id=49516341">hacker news</a></small></p><hr/><p>Version 1.42.0 of the Janet programming language addresses numerous bugs and provides documentation improvements. Technical updates include fixes for garbage collection during nested fiber operations, mmap return value checks, and stale fiber stack pointers. The release also adds shell completions for bash, zsh, and fish.</p><p>The update includes an extensive documentation revamp and new OSS-Fuzz targets to improve security for the unmarshal, dobytes, and compile processes. Additionally, new tests were added for core functions such as `distinct`, `update`, and `filter`.</p><hr/><small>1 Sep 2026, 07:25 UTC | #19746</small>]]></content>
-  </entry>
-  <entry>
-    <title>Fastpotify Lightweight Spotify Client</title>
-    <link href="https://fastpotify.rocks/" rel="alternate" />
-    <id>https://fastpotify.rocks/::v237</id>
-    <published>2026-09-01T02:53:00+00:00</published>
-    <updated>2026-09-01T02:53:00+00:00</updated>
-    <media:thumbnail url="https://fastpotify.rocks/screenshot.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fastpotify.rocks/">fastpotify.rocks</a> | <a href="https://github.com/crmne/fastpotify">source</a> | <a href="https://news.ycombinator.com/item?id=49517448">hacker news</a></small></p><hr/><p>Fastpotify is a lightweight, native Spotify client for Linux, macOS, and Windows. Written in Rust and built without an embedded browser engine, the application ensures rapid startup and low memory consumption. It supports local playback, library management, and Spotify Connect controls.</p><p>The client includes a Winamp-style mini player compatible with classic .wsz skins from the Winamp Skin Museum. Users also have access to desktop-specific functionality, such as MPRIS media controls on Linux and a tray option for continuous playback after closing the main window.</p><p><img src="https://fastpotify.rocks/screenshot.png" /></p><hr/><small>1 Sep 2026, 06:33 UTC | #19745</small>]]></content>
-  </entry>
 </feed>
