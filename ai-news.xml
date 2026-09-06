@@ -456,13 +456,4 @@
     <media:thumbnail url="https://pixel-perfect-depth.github.io/assets/pc_comp.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.worldlabs.ai/blog/atlas">worldlabs.ai</a> | <a href="https://news.ycombinator.com/item?id=49525160">hacker news</a></small></p><hr/><p>World Labs has unveiled Atlas, an omni world model designed to achieve spatial intelligence. The model is a multimodal autoregressive diffusion transformer pretrained to process text, images, video, and 3D data within a shared spatial context. This architecture allows the model to generate consistent video, reconstruct 3D scenes from sparse imagery, and simulate complex space-time environments.</p><p>Atlas supports various tasks, including pixel-perfect camera control for video generation and the creation of explicit 3D outputs such as Gaussian splats and point clouds. These capabilities enable applications in robotics through "Real-to-Sim" simulation and professional visual effects. The model is intended to power World Labs' product suite, including the Marble platform.</p><p><img src="https://pixel-perfect-depth.github.io/assets/pc_comp.jpg" /></p><hr/><small>2 Sep 2026, 02:20 UTC | #19830</small>]]></content>
   </entry>
-  <entry>
-    <title>OpenAI Codex Desktop App Bundles LibreOffice and Python Runtimes</title>
-    <link href="https://simonwillison.net/2026/Sep/1/codex-libreoffice/" rel="alternate" />
-    <id>https://simonwillison.net/2026/Sep/1/codex-libreoffice/::v238</id>
-    <published>2026-09-01T20:08:00+00:00</published>
-    <updated>2026-09-01T20:08:00+00:00</updated>
-    <media:thumbnail url="https://static.simonwillison.net/static/2026/codex-primay-runtime.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://simonwillison.net/2026/Sep/1/codex-libreoffice/">simonwillison.net</a> | <a href="https://news.ycombinator.com/item?id=49527396">hacker news</a></small></p><hr/><p>The OpenAI Codex desktop app, now rebranded as ChatGPT, includes a 1.7GB `codex-primary-runtime` directory in its cache. This bundle contains complete installations of Python and Node.js, along with native binaries for git, Poppler, and the LibreOffice suite.</p><p>These binaries are managed through a "skills" system within the application's plugin architecture. This architecture instructs the software on how to locate and use the embedded tools, facilitating tasks like document rendering and processing via headless LibreOffice.</p><p><img src="https://static.simonwillison.net/static/2026/codex-primay-runtime.webp" /></p><hr/><small>1 Sep 2026, 23:55 UTC | #19858</small>]]></content>
-  </entry>
 </feed>
