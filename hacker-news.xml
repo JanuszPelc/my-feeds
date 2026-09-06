@@ -912,31 +912,4 @@
     <media:thumbnail url="https://i.blogs.es/0bc22a/screenshot_20250904-093946/450_1000.jpeg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566">gitlab.com</a> | <a href="https://news.ycombinator.com/item?id=49523754">hacker news</a></small></p><hr/><p>Aurora Store is encountering a "Server busy, please try again later." error when users attempt to install applications through anonymous accounts. Users report that the error persists despite clearing the application cache, using a VPN, or restarting the device.</p><p>The issue has been documented on several Android configurations, including Android 11 and Android 16. It is currently unclear whether the error is restricted to anonymous account authentication or if it indicates a broader server-side or connectivity issue.</p><p><img src="https://i.blogs.es/0bc22a/screenshot_20250904-093946/450_1000.jpeg" /></p><hr/><small>1 Sep 2026, 17:44 UTC | #19814</small>]]></content>
   </entry>
-  <entry>
-    <title>Google Increases Prices for Google TV Streamer and Nest Security Products</title>
-    <link href="https://9to5google.com/2026/08/31/google-tv-streamer-increase/" rel="alternate" />
-    <id>https://9to5google.com/2026/08/31/google-tv-streamer-increase/::v238</id>
-    <published>2026-09-01T11:42:00+00:00</published>
-    <updated>2026-09-01T11:42:00+00:00</updated>
-    <media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2025/06/Google-TV-Streamer-2.jpg?quality=82&amp;strip=all&amp;w=1600" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5google.com/2026/08/31/google-tv-streamer-increase/">9to5google.com</a></small></p><hr/><p>Google has raised the price of the Google TV Streamer from $99.99 to $149.99. The company is also increasing prices for select Nest cameras and doorbells effective August 31, citing rising component costs as the driver for the adjustment.</p><p>The price hike is live on the Google Store and Best Buy, though some retailers like Amazon continue to list the streamer at its original price. This adjustment follows recent price increases for the Pixel 11 series and is likely linked to rising costs for internal components like RAM.</p><p><img src="https://9to5google.com/wp-content/uploads/sites/4/2025/06/Google-TV-Streamer-2.jpg?quality=82&strip=all&w=1600" /></p><hr/><small>1 Sep 2026, 17:32 UTC | #19760</small>]]></content>
-  </entry>
-  <entry>
-    <title>Microsoft Tests Fix for Exchange Online Authentication Outage</title>
-    <link href="https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/" rel="alternate" />
-    <id>https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/::v238</id>
-    <published>2026-09-01T11:39:00+00:00</published>
-    <updated>2026-09-01T11:39:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/06/microsoft-outlook-app.jpg?w=1024" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/">techcrunch.com</a> | <a href="https://x.com/MSFT365Status/status/2094480650170446254">source</a></small></p><hr/><p>A widespread disruption affecting Exchange Online and Outlook is being addressed by a remediation strategy currently under testing. The issue, caused by a misconfiguration in an authentication component, has resulted in email delays, failed message delivery, and errors within mailbox search and operations.</p><p>The outage, which triggered thousands of user reports on social media and tracking sites, appears to impact services beyond Exchange Online. Microsoft is currently applying the fix to a subset of its infrastructure to verify its efficacy before a broader rollout.</p><p><img src="https://techcrunch.com/wp-content/uploads/2024/06/microsoft-outlook-app.jpg?w=1024" /></p><hr/><small>1 Sep 2026, 16:59 UTC | #19759</small>]]></content>
-  </entry>
-  <entry>
-    <title>Extensible Markdown Syntax Layer in Development</title>
-    <link href="https://lobste.rs/s/vb1jgu/what_are_you_doing_this_week" rel="alternate" />
-    <id>https://lobste.rs/s/vb1jgu/what_are_you_doing_this_week::v238</id>
-    <published>2026-09-01T11:35:00+00:00</published>
-    <updated>2026-09-01T11:35:00+00:00</updated>
-    <media:thumbnail url="https://thecustomizewindows.com/wp-content/uploads/2013/10/Markdown-Syntax-and-Editors.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/vb1jgu/what_are_you_doing_this_week">lobste.rs</a> | <a href="https://lobste.rs/s/vb1jgu/what_are_you_doing_this_week">discussion</a></small></p><hr/><p>A developer is creating a general-purpose syntax layer designed to extend Markdown's surface syntax with an extensible core. The system aims to retain Markdown's accessible shorthand for simple formatting while enabling custom extensions for complex tasks like bibliography management, task tracking, or knowledge base organization.</p><p>This design is intended to allow for specialized features without requiring users to "hack" standard Markdown. The proposed architecture aims to maintain compatibility with existing parsers, HTML generators, and language server protocols (LSP).</p><p><img src="https://thecustomizewindows.com/wp-content/uploads/2013/10/Markdown-Syntax-and-Editors.jpg" /></p><hr/><small>1 Sep 2026, 16:21 UTC | #19800</small>]]></content>
-  </entry>
 </feed>
