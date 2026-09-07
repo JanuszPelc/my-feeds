@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-07T13:01:00+00:00</updated>
+  <updated>2026-09-07T13:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Insilico's Rentosertib Shows Potential for Biological Age Reversal</title>
+    <link href="https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html?unlocked_article_code=1._VA.KrR_.DUftfq15OzTx&amp;smid=bs-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html?unlocked_article_code=1._VA.KrR_.DUftfq15OzTx&amp;smid=bs-share::v238</id>
+    <published>2026-09-07T13:43:00+00:00</published>
+    <updated>2026-09-07T13:43:00+00:00</updated>
+    <media:thumbnail url="https://static.tildacdn.net/tild6133-3563-4131-b835-346564353438/November06_2024_Insi.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html?unlocked_article_code=1._VA.KrR_.DUftfq15OzTx&smid=bs-share">nytimes.com</a> | <a href="https://www.nature.com/articles/s41587-026-03286-y">source</a></small></p><hr/><p>Insilico reports that early data from Phase 2a clinical trials of rentosertib, an AI-designed drug for idiopathic pulmonary fibrosis (IPF), suggests the treatment may slow biological aging. Analysis of blood samples from 42 patients across six independent proteomic aging clocks indicated a consistent reduction in predicted biological age among treated individuals.</p><p>The findings, published in Nature Biotechnology, demonstrate the potential for using proteomic biomarkers to track geroscience-related outcomes during drug development. Rentosertib, a TNIK inhibitor, has progressed to Phase III clinical trials to further evaluate its efficacy and impact on lung function.</p><p><img src="https://static.tildacdn.net/tild6133-3563-4131-b835-346564353438/November06_2024_Insi.png" /></p><hr/><small>7 Sep 2026, 18:56 UTC | #20350</small>]]></content>
+  </entry>
   <entry>
     <title>Daniel Reflects on Combating Digital Distraction Through Deep Study</title>
     <link href="https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/" rel="alternate" />
