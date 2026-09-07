@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-07T13:39:00+00:00</updated>
+  <updated>2026-09-07T13:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Open Planet Software Releases Sessions Nano AUv3 Host</title>
+    <link href="https://www.kvraudio.com/news/open-planet-software-releases-sessions-nano---compact-auv3-host-68415?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68415" rel="alternate" />
+    <id>https://www.kvraudio.com/news/open-planet-software-releases-sessions-nano---compact-auv3-host-68415?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68415::v238</id>
+    <published>2026-09-07T13:41:00+00:00</published>
+    <updated>2026-09-07T13:41:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/ipad---mix.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/open-planet-software-releases-sessions-nano---compact-auv3-host-68415?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68415">kvraudio.com</a> | <a href="https://www.openplanetsoftware.com/sessions-nano">source</a></small></p><hr/><p>Open Planet Software has released Sessions Nano, a compact AUv3 host for iPhone and iPad. The application enables mobile producers to mix live audio, host up to eight virtual instruments and 16 audio effects, and manage MIDI sequencers, generators, and loops.</p><p>The software includes an 8-channel mixer, an automatic five-minute performance recorder, and synchronization via Ableton Link or external MIDI clock. Sessions Nano projects are compatible with the full Sessions Pro suite for advanced production.</p><p><img src="https://static.kvraudio.com/i/b/ipad---mix.jpg" /></p><hr/><small>7 Sep 2026, 18:44 UTC | #20379</small>]]></content>
+  </entry>
   <entry>
     <title>Våld Labs Releases Tresse Polyphonic Hybrid Synthesizer</title>
     <link href="https://www.kvraudio.com/news/vald-labs-releases-tresse---dual-layer-39-engine-synthesizer-with-generative-sequencing-for-macos-and-windows-68406?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68406" rel="alternate" />
