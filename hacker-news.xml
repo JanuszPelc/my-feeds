@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T03:34:00+00:00</updated>
+  <updated>2026-09-07T07:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>LG Smart TVs Found Scanning Local Networks and Recording Audio in Standby</title>
+    <link href="https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html" rel="alternate" />
+    <id>https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html::v238</id>
+    <published>2026-09-07T07:04:00+00:00</published>
+    <updated>2026-09-07T07:04:00+00:00</updated>
+    <media:thumbnail url="https://m.media-amazon.com/images/I/710wQiu3fEL._AC_SL1500_.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html">notebookcheck.net</a> | <a href="https://www.youtube.com/watch?v=6IFVTcM28KA">source</a> | <a href="https://news.ycombinator.com/item?id=49594878">hacker news</a></small></p><hr/><p>Gamers Nexus reports that LG smart TVs running webOS scan local networks to map nearby devices, such as smartphones and smartwatches, and record microphone audio while in standby mode. These audio recordings are saved locally and uploaded to LG's servers once the television reconnects to the internet.</p><p>This data collection is reportedly intended for use by LG Ad Solutions for targeted advertising. Researchers also identified remote code execution vulnerabilities in webOS, leading to recommendations to disconnect the sets from the internet or use external streaming devices to protect user privacy.</p><p><img src="https://m.media-amazon.com/images/I/710wQiu3fEL._AC_SL1500_.jpg" /></p><hr/><small>7 Sep 2026, 10:59 UTC | #20342</small>]]></content>
+  </entry>
   <entry>
     <title>Austin Z. Henley Implements a 1024-Byte Python Interpreter in C</title>
     <link href="https://austinhenley.com/blog/python1024.html" rel="alternate" />
