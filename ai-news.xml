@@ -402,13 +402,4 @@
     <media:thumbnail url="https://ai-bot.cn/wp-content/uploads/2025/08/Qwen3-Coder-Flash-website.png" />
     <content type="html"><![CDATA[<p><small>Unsloth Changelog | <a href="https://unsloth.ai/docs/new/changelog#id-2x-faster-qwen3.8-flash--glm-5.3">unsloth.ai</a></small></p><hr/><p>Unsloth has enabled Multi-Token Prediction (MTP) by default for the Qwen3.8-Flash-Next and GLM-5.3-Flash models, increasing generation speeds by up to 2×. This update includes over 170 improvements across training, chat interfaces, hardware support, and APIs.</p><p>Key enhancements include improved AMD/ROCm compatibility, more reliable model loading on local servers, and reduced UI lag during long conversations. The release also introduces support for MiniMax-Music3, Higgs, and MOSS audio models, alongside new OpenAI-compatible APIs for video and audio.</p><p><img src="https://ai-bot.cn/wp-content/uploads/2025/08/Qwen3-Coder-Flash-website.png" /></p><hr/><small>2 Sep 2026, 21:06 UTC | #19964</small>]]></content>
   </entry>
-  <entry>
-    <title>Amazon Adds Scam Verification to Alexa for Shopping</title>
-    <link href="https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/::v238</id>
-    <published>2026-09-02T15:50:00+00:00</published>
-    <updated>2026-09-02T15:50:00+00:00</updated>
-    <media:thumbnail url="https://www.socialmediamatters.in/images/2026/02/13/Amazon-Shopping-Scams-01.png" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/">techcrunch.com</a> | <a href="https://www.aboutamazon.com/news/retail/how-to-verify-amazon-messages-alexa-for-shopping">source</a></small></p><hr/><p>Alexa for Shopping can now identify whether a text, email, or phone call is an authentic communication from the retailer. The AI analyzes metadata, timing, and content, comparing suspicious messages against a global database of billions of legitimate Amazon communications to provide a definitive answer regarding the sender's identity.</p><p>The feature aims to reduce the high volume of customer service inquiries caused by potential scams, which currently reach Amazon's support teams roughly 360,000 times per year. This update is part of a broader effort to pivot Alexa's capabilities toward proactive shopping assistance and security features.</p><p><img src="https://www.socialmediamatters.in/images/2026/02/13/Amazon-Shopping-Scams-01.png" /></p><hr/><small>2 Sep 2026, 20:06 UTC | #19917</small>]]></content>
-  </entry>
 </feed>
