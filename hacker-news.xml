@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T17:11:00+00:00</updated>
+  <updated>2026-09-07T17:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Xteink X3 Tiny E-Reader Encourages Micro-Reading</title>
+    <link href="https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/" rel="alternate" />
+    <id>https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/::v238</id>
+    <published>2026-09-07T17:13:00+00:00</published>
+    <updated>2026-09-07T17:13:00+00:00</updated>
+    <media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/04/16215515/P1360427.JPG" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/">theatlantic.com</a> | <a href="https://www.xteink.com/products/xteink-x3">source</a> | <a href="https://news.ycombinator.com/item?id=49596629">hacker news</a></small></p><hr/><p>The Xteink X3 is a credit-card-sized, magnetic e-reader designed to attach to the back of smartphones. Despite its low price and lack of common features like a backlight or touch screen, the device has become a viral sensation by offering a "TikTokified" reading experience that makes it easy to consume small portions of text during short breaks.</p><p>While the manufacturer's software is frequently criticized for poor formatting, a community of developers has created open-source firmware to improve the user experience. The device's popularity reflects a niche market demand for simple, specialized hardware that serves as an alternative to the constant stimulation of smartphone social media feeds.</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/04/16215515/P1360427.JPG" /></p><hr/><small>7 Sep 2026, 22:48 UTC | #20400</small>]]></content>
+  </entry>
   <entry>
     <title>TypeScript Helpers for the Result Pattern</title>
     <link href="https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern" rel="alternate" />
