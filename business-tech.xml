@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-06T20:50:00+00:00</updated>
+  <updated>2026-09-07T03:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>UBS Mandates AI Literacy for Junior Investment Banker Hires</title>
+    <link href="https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8" rel="alternate" />
+    <id>https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8::v238</id>
+    <published>2026-09-07T03:31:00+00:00</published>
+    <updated>2026-09-07T03:31:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQGiVZmq_MO5mg/feedshare-shrink_800/B4EZ0frvAeGkAg-/0/1774353051995?e=2147483647&amp;v=beta&amp;t=vMlaLgXuo78JqqIofn1THKwZOihz0Q1jiBNpZ9y_I80" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8">ft.com</a></small></p><hr/><p>UBS is requiring graduates and interns applying for junior investment banking roles to demonstrate proficiency in artificial intelligence. The bank intends to use the technology to improve work efficiency and overall job outcomes.</p><p>The mandate makes UBS one of the first major financial institutions to explicitly include AI literacy in its recruitment standards. This shift illustrates how the technology is actively reshaping graduate recruitment and skill requirements within the banking sector.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQGiVZmq_MO5mg/feedshare-shrink_800/B4EZ0frvAeGkAg-/0/1774353051995?e=2147483647&v=beta&t=vMlaLgXuo78JqqIofn1THKwZOihz0Q1jiBNpZ9y_I80" /></p><hr/><small>7 Sep 2026, 06:32 UTC | #20312</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Secures 14.8 GW of Compute Capacity Through New Agreements</title>
     <link href="https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months" rel="alternate" />
@@ -761,14 +770,5 @@
     <updated>2026-09-04T15:06:00+00:00</updated>
     <media:thumbnail url="https://can2-prod.s3.amazonaws.com/petitions/photos/000/717/415/original/AI_outside_MLK_school_holding_signs.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html?unlocked_article_code=1.-FA.RCrg.ZNhpsOhLzuvj&smid=bs-share">nytimes.com</a> | <a href="https://www.schools.nyc.gov/about-us/vision-and-mission/artificial-intelligence/guidance-on-artificial-intelligence-full">source</a> | <a href="https://news.ycombinator.com/item?id=49542443">hacker news</a></small></p><hr/><p>The NYC Department of Education is implementing a policy that restricts artificial intelligence use for public school students. The rules prohibit students in grades K-8 from using generative AI tools and ban companion chatbots for all grade levels.</p><p>The guidance also includes limits on screen time, prohibiting individual device use until third grade, and prevents teachers from using AI to grade student assignments. These measures are designed to address concerns about student safety, privacy, and academic integrity.</p><p><img src="https://can2-prod.s3.amazonaws.com/petitions/photos/000/717/415/original/AI_outside_MLK_school_holding_signs.jpg" /></p><hr/><small>2 Sep 2026, 10:22 UTC | #19871</small>]]></content>
-  </entry>
-  <entry>
-    <title>Omacom Foundation Secures $12.6 Million to Fund Omarchy Linux</title>
-    <link href="https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/" rel="alternate" />
-    <id>https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/::v238</id>
-    <published>2026-09-02T06:32:00+00:00</published>
-    <updated>2026-09-02T06:32:00+00:00</updated>
-    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bi8FS.img?w=1217&amp;h=827&amp;m=4&amp;q=74" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/">brennan.day</a> | <a href="https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12">discussion</a></small></p><hr/><p>The Omacom Foundation has secured $12.6 million in funding to support David Heinemeier Hansson's Omarchy Linux distribution. The foundation's "Founding Patrons" include the CEOs of Stripe, Dell Technologies, Block, and Cloudflare, who have each pledged $1 million, alongside corporate contributions from 1Password and 37signals.</p><p>This influx of capital from major tech executives is linked to concerns over the normalization of far-right rhetoric within the open-source community. "Apolitical" stances in various tech projects are framed as mechanisms to shield the political biases and exclusionary practices of maintainers from mainstream scrutiny.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bi8FS.img?w=1217&h=827&m=4&q=74" /></p><hr/><small>2 Sep 2026, 09:54 UTC | #19879</small>]]></content>
   </entry>
 </feed>
