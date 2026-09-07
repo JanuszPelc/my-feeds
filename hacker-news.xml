@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-06T20:53:00+00:00</updated>
+  <updated>2026-09-07T03:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Austin Z. Henley Implements a 1024-Byte Python Interpreter in C</title>
+    <link href="https://austinhenley.com/blog/python1024.html" rel="alternate" />
+    <id>https://austinhenley.com/blog/python1024.html::v238</id>
+    <published>2026-09-07T03:34:00+00:00</published>
+    <updated>2026-09-07T03:34:00+00:00</updated>
+    <media:thumbnail url="https://austinhenley.com/blog/images/python1024.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://austinhenley.com/blog/python1024.html">austinhenley.com</a> | <a href="https://news.ycombinator.com/item?id=49591876">hacker news</a></small></p><hr/><p>Austin Z. Henley has implemented a minimal Python interpreter in 1024 bytes of C code. The interpreter supports a subset of Python syntax, including integer variables, arithmetic with precedence, comparisons, if/else statements, while and for loops with else blocks, and recursive function definitions. It utilizes a recursive descent parser and the C call stack to handle indentation-based scoping and control flow.</p><p>The implementation avoids macros and external libraries, employing code golfing techniques such as using ASCII values for character literals, bitwise operations, and single-letter identifiers. The resulting code maintains a Python-like appearance by supporting indentation-based blocks, integer truthiness, and comments.</p><p><img src="https://austinhenley.com/blog/images/python1024.png" /></p><hr/><small>7 Sep 2026, 07:37 UTC | #20324</small>]]></content>
+  </entry>
   <entry>
     <title>Python Iceberg Explores Python's Obscure Implementation Details and Pitfalls</title>
     <link href="https://aleyan.com/projects/python-iceberg/" rel="alternate" />
