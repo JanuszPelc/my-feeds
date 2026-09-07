@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T07:15:00+00:00</updated>
+  <updated>2026-09-07T07:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Blockstream's Liquid Network Halts Transactions Following $320 Million Bitcoin Withdrawal</title>
+    <link href="https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys" rel="alternate" />
+    <id>https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys::v238</id>
+    <published>2026-09-07T07:16:00+00:00</published>
+    <updated>2026-09-07T07:16:00+00:00</updated>
+    <media:thumbnail url="https://storage.googleapis.com/dxp-production-assets/content/liquid-network/perform-advanced-liquid-operations/create-a-watch-only-wallet-with-a-liquid-elements-node/9789175708185.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys">coindesk.com</a></small></p><hr/><p>Blockstream's Liquid Network has suspended all transactions after approximately 4,000 bitcoin, valued at roughly $320 million, was withdrawn from its federation wallet. The parties responsible for the movement claimed to be "white-hat hackers" in a message sent on-chain.</p><p>The Liquid Network is a Bitcoin sidechain used primarily by cryptocurrency exchanges for rapid settlement. The network's suspension aims to mitigate further loss while the federation investigates the security breach, which left approximately 207 bitcoin remaining in the federation's holdings.</p><p><img src="https://storage.googleapis.com/dxp-production-assets/content/liquid-network/perform-advanced-liquid-operations/create-a-watch-only-wallet-with-a-liquid-elements-node/9789175708185.png" /></p><hr/><small>7 Sep 2026, 12:15 UTC | #20318</small>]]></content>
+  </entry>
   <entry>
     <title>ThreadSanitizer Limits and Data Race Detection in C and Go</title>
     <link href="https://theconsensus.dev/p/2026/09/06/data-races-and-the-limits-of-threadsanitizer-in-c-and-go.html" rel="alternate" />
