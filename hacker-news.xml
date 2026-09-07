@@ -876,22 +876,4 @@
     <media:thumbnail url="https://luke8086.dev/gentleos-assets/images/gentleos16-photo-t1100fd-nobg.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://luke8086.dev/gentleos16.html">luke8086.dev</a> | <a href="https://github.com/luke8086/gentleos16">source</a> | <a href="https://lobste.rs/s/kxgwhy/gentleos_16_hobby_os_for_vintage_16_bit_pcs">discussion</a></small></p><hr/><p>GentleOS/16 is a hobby operating system for vintage 16-bit PCs, requiring an 8086 CPU and a CGA display in 320x200x4 mode. Built in plain C for bare-metal tinkering, the OS lacks modern capabilities such as web browsing or third-party application support.</p><p>The project is a simplified version of the 32-bit GentleOS/32 and includes built-in applications like a calculator, clock, and several classic games. It is licensed under the GNU GPL-2.0 and is available as bootable disk images or DOS executables.</p><p><img src="https://luke8086.dev/gentleos-assets/images/gentleos16-photo-t1100fd-nobg.webp" /></p><hr/><small>2 Sep 2026, 13:23 UTC | #19901</small>]]></content>
   </entry>
-  <entry>
-    <title>Local LLM Setup on M4 Pro Mac Mini</title>
-    <link href="https://lws.io/blog/my-local-model-setup/" rel="alternate" />
-    <id>https://lws.io/blog/my-local-model-setup/::v238</id>
-    <published>2026-09-02T06:41:00+00:00</published>
-    <updated>2026-09-02T06:41:00+00:00</updated>
-    <media:thumbnail url="https://vectree.fsn1.your-objectstorage.com/og/c/apple-silicon-unified-memory-architecture-for-llm-inference.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lws.io/blog/my-local-model-setup/">lws.io</a> | <a href="https://news.ycombinator.com/item?id=49529132">hacker news</a></small></p><hr/><p>The configuration uses an M4 Pro Mac mini with 48 GB of RAM to run a local LLM server via the oMLX inference server and Tailscale. It utilizes a Qwen3.6-35B-A3B Mixture-of-Experts (MoE) model for complex reasoning tasks alongside a lightweight Gemma-4 model for routine queries and simple chats.</p><p>Running models locally offers data privacy, AI sovereignty, and cost predictability by bypassing the limitations and pricing of cloud-based APIs. By leveraging 4-bit quantization and the MoE architecture, the setup optimizes Apple Silicon's unified memory, enabling large-parameter models to operate efficiently by activating only a subset of weights for each token.</p><p><img src="https://vectree.fsn1.your-objectstorage.com/og/c/apple-silicon-unified-memory-architecture-for-llm-inference.jpg" /></p><hr/><small>2 Sep 2026, 11:21 UTC | #19891</small>]]></content>
-  </entry>
-  <entry>
-    <title>x86 Memory Models: Comparing Flat and Segmented Approaches</title>
-    <link href="https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented" rel="alternate" />
-    <id>https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented::v238</id>
-    <published>2026-09-02T06:38:00+00:00</published>
-    <updated>2026-09-02T06:38:00+00:00</updated>
-    <media:thumbnail url="https://image.slidesharecdn.com/segmentation-140626080714-phpapp01/95/memory-segmentation-of-8086-3-638.jpg?cb=1494563599" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.humprog.org/~stephen/blog/2026/08/25/#flat-vs-segmented">humprog.org</a> | <a href="https://lobste.rs/s/tvoo4x/flat_vs_segmented_memory_it_s_recursive">discussion</a> | <a href="https://news.ycombinator.com/item?id=49460419">hacker news</a></small></p><hr/><p>x86 architecture has seen a decline in fine-grained memory protection as the industry transitioned from sophisticated segmentation to flat address spaces. While the dominance of Unix-style flat memory models has shaped hardware design, technologies like WebAssembly and CHERI suggest a movement toward non-flat, subdivision-based memory models.</p><p>Software's recursive subdivision of memory, such as nested allocations and arenas, conflicts with the non-recursive, finite-state nature of hardware. CHERI seeks to resolve this by allowing software to manage arbitrary, narrow bounds through capability derivation, while tools like liballocs focus on descriptively capturing these recursive structures within a flat address space.</p><p><img src="https://image.slidesharecdn.com/segmentation-140626080714-phpapp01/95/memory-segmentation-of-8086-3-638.jpg?cb=1494563599" /></p><hr/><small>2 Sep 2026, 11:04 UTC | #19889</small>]]></content>
-  </entry>
 </feed>
