@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T07:10:00+00:00</updated>
+  <updated>2026-09-07T07:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>NetBSD 9.5 Released and NetBSD 9 Reaches End-of-Life</title>
+    <link href="https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and" rel="alternate" />
+    <id>https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and::v238</id>
+    <published>2026-09-07T07:13:00+00:00</published>
+    <updated>2026-09-07T07:13:00+00:00</updated>
+    <media:thumbnail url="https://preview.redd.it/first-time-installing-netbsd-on-a-netbook-and-its-more-v0-8khcijv6f58a1.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=b78ccaed77e39394b770d23b354dbcb348079add" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and">blog.netbsd.org</a> | <a href="https://www.netbsd.org/releases/formal-9/NetBSD-9.5.html">source</a> | <a href="https://lobste.rs/s/7ymd5q/netbsd_9_5_released_eol_for_netbsd_9">discussion</a> | <a href="https://news.ycombinator.com/item?id=49587636">hacker news</a></small></p><hr/><p>NetBSD 9.5, the final update in the NetBSD 9 stable branch, provides essential security and stability fixes. This version is fully compatible with NetBSD 9.0 and includes driver improvements and updated user-space applications.</p><p>This release marks the end-of-support for all NetBSD-9.x releases and the netbsd-9 branch. Users are encouraged to migrate to more recent versions such as NetBSD 11.0, 10.2, or the forthcoming 11.1.</p><p><img src="https://preview.redd.it/first-time-installing-netbsd-on-a-netbook-and-its-more-v0-8khcijv6f58a1.jpg?width=1080&crop=smart&auto=webp&s=b78ccaed77e39394b770d23b354dbcb348079add" /></p><hr/><small>7 Sep 2026, 11:47 UTC | #20348</small>]]></content>
+  </entry>
   <entry>
     <title>Alexander Fortin Details His Travel Technology Setup</title>
     <link href="https://a.l3x.in/blog/my-travel-setup" rel="alternate" />
