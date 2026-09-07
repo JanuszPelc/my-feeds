@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T07:04:00+00:00</updated>
+  <updated>2026-09-07T07:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Differences Between Frontend and Backend Development</title>
+    <link href="https://marijkeluttekes.dev/blog/articles/2026/03/16/why-frontends-fail-when-you-approach-them-like-a-backend/" rel="alternate" />
+    <id>https://marijkeluttekes.dev/blog/articles/2026/03/16/why-frontends-fail-when-you-approach-them-like-a-backend/::v238</id>
+    <published>2026-09-07T07:06:00+00:00</published>
+    <updated>2026-09-07T07:06:00+00:00</updated>
+    <media:thumbnail url="https://synavos.com/wp-content/uploads/2025/11/Frontend-vs-Backend-Development-Key-Differences.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://marijkeluttekes.dev/blog/articles/2026/03/16/why-frontends-fail-when-you-approach-them-like-a-backend/">marijkeluttekes.dev</a> | <a href="https://lobste.rs/s/vcsb4x/why_frontends_fail_when_you_approach_them">discussion</a></small></p><hr/><p>Frontend development requires a different conceptual approach than backend development because it prioritizes human psychology, accessibility, and user context over pure technical logic. While backend development focuses on data management and logical execution, frontend development must ensure information is consumable and navigable for all users, including those using assistive technologies.</p><p>Treating the frontend as a secondary visual layer can lead to critical usability failures, such as broken keyboard navigation, improper semantic heading structures, and inadequate media descriptions. These issues often go unnoticed by developers using standard mouse-driven workflows but can create significant barriers for users with disabilities or non-standard input devices.</p><p><img src="https://synavos.com/wp-content/uploads/2025/11/Frontend-vs-Backend-Development-Key-Differences.png" /></p><hr/><small>7 Sep 2026, 11:12 UTC | #20344</small>]]></content>
+  </entry>
   <entry>
     <title>LG Smart TVs Found Scanning Local Networks and Recording Audio in Standby</title>
     <link href="https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html" rel="alternate" />
