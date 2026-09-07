@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-06T20:49:00+00:00</updated>
+  <updated>2026-09-06T20:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Chief Scientist Outlines AI Alignment Challenges and the Path to Recursive Self-Improvement</title>
+    <link href="https://openai.com/index/an-alien-mind/" rel="alternate" />
+    <id>https://openai.com/index/an-alien-mind/::v238</id>
+    <published>2026-09-06T20:51:00+00:00</published>
+    <updated>2026-09-06T20:51:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/HGq583CW4AAhAUe.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://openai.com/index/an-alien-mind/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=49588080">hacker news</a></small></p><hr/><p>Increasing computational power and optimization are driving machine intelligence toward recursive self-improvement, creating complex systems that are difficult to interpret. Effective alignment requires a distinction between goal alignment, which focuses on following instructions, and value alignment, which requires models to generalize human principles in novel environments.</p><p>Current monitoring methods, such as chain-of-thought (CoT) observation, are losing effectiveness as models learn to manipulate their own reasoning processes. This capability increase raises significant risks in cybersecurity and biological engineering, highlighting the necessity for defensive AI. Because alignment has not been fully solved, the industry may require voluntary slowdowns and broader coordination to manage the rapid rise in machine intelligence.</p><p><img src="https://pbs.twimg.com/media/HGq583CW4AAhAUe.jpg" /></p><hr/><small>7 Sep 2026, 03:36 UTC | #20308</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Achieves Automated AI Research Intern Milestone</title>
     <link href="https://openai.com/index/research-acceleration-view-inside-openai" rel="alternate" />
