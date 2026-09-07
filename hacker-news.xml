@@ -3,9 +3,36 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T08:10:00+00:00</updated>
+  <updated>2026-09-07T10:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Shortest Responding IPv6 Addresses Identified</title>
+    <link href="https://ache.one/notes/vanity-ipv6" rel="alternate" />
+    <id>https://ache.one/notes/vanity-ipv6::v238</id>
+    <published>2026-09-07T10:54:00+00:00</published>
+    <updated>2026-09-07T10:54:00+00:00</updated>
+    <media:thumbnail url="https://dphfzu3i54bzu.cloudfront.net/media/2067/IPv6-Global-Unicast-Address-Breakdown.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ache.one/notes/vanity-ipv6">ache.one</a> | <a href="https://lobste.rs/s/vdalin/shortest_ipv6_addresses">discussion</a></small></p><hr/><p>An experiment was conducted to find the shortest possible responding IPv6 addresses within the global unicast 2000::/3 space. By using a shell script to ping addresses with the first 16-bit block populated and the rest replaced by the :: shorthand, the search targeted functional IPv6 equivalents of highly concise IPv4 addresses.</p><p>The scan identified several responsive addresses, such as 2409:: (APNIC), 2a09:: and 2a11:: (xTom), and 2600:: (Cogent). The results demonstrate that while many short addresses exist in the theoretical address space, only a small number are currently routed and active on the public internet.</p><p><img src="https://dphfzu3i54bzu.cloudfront.net/media/2067/IPv6-Global-Unicast-Address-Breakdown.png" /></p><hr/><small>7 Sep 2026, 14:08 UTC | #20362</small>]]></content>
+  </entry>
+  <entry>
+    <title>Optimized Algorithm for Converting Timestamps to Hours, Minutes, and Seconds</title>
+    <link href="https://www.benjoffe.com/fast-time-of-day" rel="alternate" />
+    <id>https://www.benjoffe.com/fast-time-of-day::v238</id>
+    <published>2026-09-07T10:28:00+00:00</published>
+    <updated>2026-09-07T10:28:00+00:00</updated>
+    <media:thumbnail url="https://timedecimalcharts.com/wp-content/uploads/2025/09/time-clock-conversion-decimal-of-an-hour-convert-time-clock-hours-15-minute-time-clock-conversion-5-1024x835.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.benjoffe.com/fast-time-of-day">benjoffe.com</a> | <a href="https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec">discussion</a></small></p><hr/><p>A method for converting a daily timestamp (0–86399 seconds) into hours, minutes, and seconds achieves lower latency by reducing the process to two multiplications. This approach breaks the sequential dependency chains found in standard libraries like glibc, the Linux kernel, and Go's standard library, which typically require more CPU cycles to compute time components.</p><p>The technique utilizes fixed-point math, bitwise operations, and parallelized calculation chains to optimize throughput on modern superscalar processors. The analysis evaluates these optimizations against traditional approaches and existing high-performance implementations, such as Neri's 2020 method.</p><p><img src="https://timedecimalcharts.com/wp-content/uploads/2025/09/time-clock-conversion-decimal-of-an-hour-convert-time-clock-hours-15-minute-time-clock-conversion-5-1024x835.png" /></p><hr/><small>7 Sep 2026, 14:05 UTC | #20351</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sony Launches Three New ULT TOWER Speakers</title>
+    <link href="https://musictech.com/news/gear/all-you-need-to-know-sony-ult-tower-speakers-features-pricing-availability/" rel="alternate" />
+    <id>https://musictech.com/news/gear/all-you-need-to-know-sony-ult-tower-speakers-features-pricing-availability/::v238</id>
+    <published>2026-09-07T08:51:00+00:00</published>
+    <updated>2026-09-07T08:51:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/sony-ult-tower-speakers@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/all-you-need-to-know-sony-ult-tower-speakers-features-pricing-availability/">musictech.com</a> | <a href="https://www.sony.co.uk/store/speakers">source</a></small></p><hr/><p>Sony has announced the ULT TOWER MAX, ULT TOWER 7, and ULT TOWER 5 as part of its ULT POWER SOUND series. These speakers feature large circular woofers designed to increase low-frequency bass performance for use in partying, DJing, and karaoke.</p><p>The ULT TOWER MAX provides up to 2150 watts of output with three woofers, the ULT TOWER 7 offers 420 watts, and the ULT TOWER 5 provides 300 watts. The lineup includes four sound profiles—ULT1, ULT2, FLAT, and LIVE—and supports Auracast-enabled Party Chain synchronization between compatible devices.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/sony-ult-tower-speakers@2000x1500.jpg" /></p><hr/><small>7 Sep 2026, 14:00 UTC | #20329</small>]]></content>
+  </entry>
   <entry>
     <title>Meziantou.Framework.PublicApiGenerator for .NET API Review</title>
     <link href="https://csharpdigest.net/links/23176/rss" rel="alternate" />

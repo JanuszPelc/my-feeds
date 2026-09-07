@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-07T07:58:00+00:00</updated>
+  <updated>2026-09-07T08:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>2B Played Music Releases BassFrame Low-End Shaping Plugin</title>
+    <link href="https://www.kvraudio.com/news/2b-played-music-releases-bassframe---low-end-shaping-plugin-vst3-au-and-aax-68399?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68399" rel="alternate" />
+    <id>https://www.kvraudio.com/news/2b-played-music-releases-bassframe---low-end-shaping-plugin-vst3-au-and-aax-68399?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68399::v238</id>
+    <published>2026-09-07T08:52:00+00:00</published>
+    <updated>2026-09-07T08:52:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/1024-bassframe-by-2b-played-music---product-cart.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/2b-played-music-releases-bassframe---low-end-shaping-plugin-vst3-au-and-aax-68399?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68399">kvraudio.com</a> | <a href="https://2bplayed.com/product/bassframe/">source</a></small></p><hr/><p>2B Played Music has released BassFrame, a plugin designed to add weight, focus, and harmonic character to low-end frequencies. The tool features five distinct processing engines—Tight, Thick, Punch, Synth, and Wide—to enhance material such as bass guitars, synth basses, and kick drums.</p><p>The software is available for macOS and Windows in VST3, AU, and AAX formats. It is currently offered at an introductory price of $29.99 through September 28, 2026, and is included for active members of the 2B Played Music Studio Pass.</p><p><img src="https://static.kvraudio.com/i/b/1024-bassframe-by-2b-played-music---product-cart.png" /></p><hr/><small>7 Sep 2026, 14:02 UTC | #20330</small>]]></content>
+  </entry>
   <entry>
     <title>The Note Audio Releases Free True Panner Plugin</title>
     <link href="https://www.kvraudio.com/news/the-note-audio-releases-true-panner---free-panner-with-itd-panning-width-and-stereo-field-visualizer-vst3-au-and-aax-68316?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68316" rel="alternate" />
