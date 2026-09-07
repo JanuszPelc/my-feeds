@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-07T17:04:00+00:00</updated>
+  <updated>2026-09-07T17:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Matt Clifford Resigns as Aria Chair Amid Anthropic Conflict of Interest Concerns</title>
+    <link href="https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns" rel="alternate" />
+    <id>https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns::v238</id>
+    <published>2026-09-07T17:10:00+00:00</published>
+    <updated>2026-09-07T17:10:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQGXgnAz86_kqA/feedshare-shrink_1280/B4EZpI5CC8KgAs-/0/1762159503017?e=2147483647&amp;v=beta&amp;t=x4rVRY7O_JdbjC943ALThhg3dXfXUjd8H-uqcmNMh_Q" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns">theguardian.com</a></small></p><hr/><p>Matt Clifford, chair of the UK government’s Advanced Research and Invention Agency (Aria), has announced his resignation following his appointment as Managing Director of International Affairs at Anthropic. The decision aims to address potential conflicts of interest arising from Clifford's significant role in shaping UK AI strategy and his previous advisory positions within the government.</p><p>The move has drawn criticism from lawmakers and policy experts who warned of a "revolving door" between government leadership and the private AI industry. Concerns center on how such transitions might impact the integrity of AI governance and the government's ability to implement precautionary regulatory frameworks.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQGXgnAz86_kqA/feedshare-shrink_1280/B4EZpI5CC8KgAs-/0/1762159503017?e=2147483647&v=beta&t=x4rVRY7O_JdbjC943ALThhg3dXfXUjd8H-uqcmNMh_Q" /></p><hr/><small>7 Sep 2026, 22:29 UTC | #20370</small>]]></content>
+  </entry>
   <entry>
     <title>US Government Warns Against UK Proposal to Mandate Prominence for Trusted News on Social Media</title>
     <link href="https://pressgazette.co.uk/news/us-issues-censorship-warning-over-uk-plan-to-boost-public-service-news-on-social-media/" rel="alternate" />

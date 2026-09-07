@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T17:01:00+00:00</updated>
+  <updated>2026-09-07T17:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>TypeScript Helpers for the Result Pattern</title>
+    <link href="https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern" rel="alternate" />
+    <id>https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern::v238</id>
+    <published>2026-09-07T17:11:00+00:00</published>
+    <updated>2026-09-07T17:11:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!MO8C!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/07a6b51c-61bf-4f96-a377-f2c4b16bf2d6_1995x3455.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern">daviddalbusco.com</a> | <a href="https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern">discussion</a></small></p><hr/><p>Implementing the Rust-inspired `Result` pattern in TypeScript allows developers to handle errors as values rather than through `try/catch` blocks. Two helper functions, `tryCatch` and `safeExec`, facilitate this by wrapping asynchronous operations and existing `Result` types into a standardized `{ status, result, err }` object.</p><p>This approach promotes an architecture where service layers handle error catching, while presentation layers consume the resulting values. By standardizing error propagation, the pattern aims to reduce boilerplate and ensure that errors are explicitly managed rather than being accidentally ignored or causing unhandled exceptions in the UI.</p><p><img src="https://substackcdn.com/image/fetch/$s_!MO8C!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/07a6b51c-61bf-4f96-a377-f2c4b16bf2d6_1995x3455.png" /></p><hr/><small>7 Sep 2026, 22:32 UTC | #20399</small>]]></content>
+  </entry>
   <entry>
     <title>2026 Rust Debugging Survey Results Released</title>
     <link href="https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/" rel="alternate" />
