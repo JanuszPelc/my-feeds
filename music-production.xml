@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-07T14:12:00+00:00</updated>
+  <updated>2026-09-07T15:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>François Pè Releases Free Euclid3an Arp and Chord/Arrangement Tools</title>
+    <link href="https://bedroomproducersblog.com/2026/09/07/francois-pe-euclid3an/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/07/francois-pe-euclid3an/::v238</id>
+    <published>2026-09-07T15:33:00+00:00</published>
+    <updated>2026-09-07T15:33:00+00:00</updated>
+    <media:thumbnail url="https://images.squarespace-cdn.com/content/v1/69f5b258dba1fd7cf61209c8/c3682473-672b-4487-bb0b-4f774887b05c/ARP+IMAGE+001.png?format=1500w" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/07/francois-pe-euclid3an/">bedroomproducersblog.com</a> | <a href="https://francoispe.gumroad.com/l/svyyq">source</a> | <a href="https://bedroomproducersblog.com/2026/09/07/francois-pe-euclid3an/#comments">discussion</a></small></p><hr/><p>François Pè has released Euclid3an Arp, a free polyrhythmic Euclidean arpeggiator for macOS. Available in Audio Unit and VST3 formats, the software features three independent Euclidean rhythms that play back on separate MIDI channels. The release also includes two additional chord and arrangement tools.</p><p>The arpeggiator generates rhythmic patterns without the need for manual pattern drawing, using a single chord to drive the polyrhythmic output.</p><p><img src="https://images.squarespace-cdn.com/content/v1/69f5b258dba1fd7cf61209c8/c3682473-672b-4487-bb0b-4f774887b05c/ARP+IMAGE+001.png?format=1500w" /></p><hr/><small>7 Sep 2026, 20:18 UTC | #20374</small>]]></content>
+  </entry>
   <entry>
     <title>StemMaster Update Adds Mastered Stem Export</title>
     <link href="https://bedroomproducersblog.com/2026/09/07/stemmaster-deal/" rel="alternate" />
