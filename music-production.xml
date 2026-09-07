@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-07T03:41:00+00:00</updated>
+  <updated>2026-09-07T03:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Plea Tech Releases Heat Man, TR-Saturn, and Super Wide Plugins</title>
+    <link href="https://www.kvraudio.com/news/plea-tech-releases-heat-man-tr-saturn-and-super-wide-plugins-2-free-68390?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68390" rel="alternate" />
+    <id>https://www.kvraudio.com/news/plea-tech-releases-heat-man-tr-saturn-and-super-wide-plugins-2-free-68390?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68390::v238</id>
+    <published>2026-09-07T03:45:00+00:00</published>
+    <updated>2026-09-07T03:45:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/badbad.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/plea-tech-releases-heat-man-tr-saturn-and-super-wide-plugins-2-free-68390?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68390">kvraudio.com</a> | <a href="https://pleatechaudio.com/">source</a></small></p><hr/><p>Plea Tech has released Heat Man, a $20 distortion processor developed with producer DontCallMe, alongside two free VST3 plugins, TR-Saturn and Super Wide. All three products are compatible with Windows.</p><p>Heat Man features five distortion engines—Dynamic Saturation, Phase Modulation, Ring Mod Sidechain, Morph, and MS Duck—that can be routed in series or parallel. TR-Saturn applies saturation specifically to drum transients to add weight without altering sustain, and Super Wide expands stereo width by up to 200% while maintaining mono compatibility.</p><p><img src="https://static.kvraudio.com/i/b/badbad.webp" /></p><hr/><small>7 Sep 2026, 09:28 UTC | #20334</small>]]></content>
+  </entry>
+  <entry>
+    <title>Thenatan Releases SKR8 Scratch Engine and RWND Plugins</title>
+    <link href="https://www.kvraudio.com/news/thenatan-releases-skr8-scratch-engine-and-free-rwnd-halftime-and-reverse-for-mac-and-win-68392?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68392" rel="alternate" />
+    <id>https://www.kvraudio.com/news/thenatan-releases-skr8-scratch-engine-and-free-rwnd-halftime-and-reverse-for-mac-and-win-68392?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68392::v238</id>
+    <published>2026-09-07T03:44:00+00:00</published>
+    <updated>2026-09-07T03:44:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/thenatan-skr8---sc-2.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/thenatan-releases-skr8-scratch-engine-and-free-rwnd-halftime-and-reverse-for-mac-and-win-68392?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68392">kvraudio.com</a> | <a href="https://www.thenatan.store/p/skr8-scratch-turntable-plugin/">source</a></small></p><hr/><p>Thenatan has released SKR8, a turntable performance plugin for macOS and Windows. The plugin uses a real-time, reversible playback engine to process user audio instead of using sample packs. Users can create scratching motion by drawing curves across eight tempo-synced tables or by using 22 built-in turntablist techniques.</p><p>The software includes five turntable models and several effects like stop, start, and backspin. Each copy of SKR8 comes with the RWND halftime and reverse plugin. It is compatible with VST, VST3, and AU formats and supports native Apple Silicon.</p><p><img src="https://static.kvraudio.com/i/b/thenatan-skr8---sc-2.jpg" /></p><hr/><small>7 Sep 2026, 09:24 UTC | #20333</small>]]></content>
+  </entry>
   <entry>
     <title>VGTrumpet Releases VG Bassoon Virtual Instrument</title>
     <link href="https://www.kvraudio.com/news/vgtrumpet-releases-vg-bassoon-virtual-instrument---vst-au-standalone-app-68397?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68397" rel="alternate" />
