@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T15:28:00+00:00</updated>
+  <updated>2026-09-07T17:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>2026 Rust Debugging Survey Results Released</title>
+    <link href="https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/" rel="alternate" />
+    <id>https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/::v238</id>
+    <published>2026-09-07T17:01:00+00:00</published>
+    <updated>2026-09-07T17:01:00+00:00</updated>
+    <media:thumbnail url="https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/how-would-you-rate-your-rust-expertise.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/ku4hwg/rust_debugging_survey_2026_results">discussion</a></small></p><hr/><p>The 2026 Rust Debugging Survey, which collected over 2,300 responses, reveals that more than 50% of Rust developers do not currently use a debugger, frequently relying on print debugging or the `dbg!` macro. Primary usability challenges include the poor representation of enums, collections, and strings in debuggers, as well as difficulties stepping through asynchronous code and complex state machines.</p><p>The report also highlights a lack of awareness concerning the `debugger_visualizer` attribute among library authors. To address these findings, developers plan to focus on improving the representation of complex types, enhancing async debugging and stack traces, and simplifying the setup and use of common debuggers.</p><p><img src="https://blog.rust-lang.org/2026/09/07/rust-debugging-survey-2026-results/how-would-you-rate-your-rust-expertise.png" /></p><hr/><small>7 Sep 2026, 20:36 UTC | #20394</small>]]></content>
+  </entry>
   <entry>
     <title>Bill Gates Criticizes Windows Usability in 2003 Internal Emails</title>
     <link href="https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker" rel="alternate" />

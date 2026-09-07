@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-07T15:32:00+00:00</updated>
+  <updated>2026-09-07T16:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>AI Agents Struggle to Use Testing and Verification Techniques Effectively</title>
+    <link href="https://danluu.com/agentic-testing/" rel="alternate" />
+    <id>https://danluu.com/agentic-testing/::v238</id>
+    <published>2026-09-07T16:18:00+00:00</published>
+    <updated>2026-09-07T16:18:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQHx1MIQ0iJmsw/article-cover_image-shrink_720_1280/B56ZwDc8cuK0AM-/0/1769584453618?e=2147483647&amp;v=beta&amp;t=_A9W1M5izAO3VBXqSgnS4tbkS_mDUrc393kKTqT1DPY" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://danluu.com/agentic-testing/">danluu.com</a> | <a href="https://lobste.rs/s/adrda9/how_well_do_agents_use_test_verification">discussion</a></small></p><hr/><p>An evaluation shows that instructing AI agents to use specific testing or verification techniques—such as Test-Driven Development (TDD), property-based testing, or formal methods like Verus—does not significantly improve their ability to implement the Zstd compression algorithm in Rust. Agents frequently apply these methods superficially, such as writing vacuous proofs or using basic unit tests within a new framework, often increasing computational costs without increasing code correctness.</p><p>The findings suggest that "default" prompts without specialized instructions frequently outperform complex testing "skills" or libraries. While AI labs have successfully used reinforcement learning to improve agents' runtime optimization capabilities, they have not yet developed effective training environments for robust software testing and verification, which remains a significant hurdle for the adoption of coding agents.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQHx1MIQ0iJmsw/article-cover_image-shrink_720_1280/B56ZwDc8cuK0AM-/0/1769584453618?e=2147483647&v=beta&t=_A9W1M5izAO3VBXqSgnS4tbkS_mDUrc393kKTqT1DPY" /></p><hr/><small>7 Sep 2026, 20:33 UTC | #20393</small>]]></content>
+  </entry>
   <entry>
     <title>ByteDance Develops AI Model for Real-Time Spatial Video Generation</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models" rel="alternate" />
@@ -365,32 +374,5 @@
     <updated>2026-09-02T22:25:00+00:00</updated>
     <media:thumbnail url="https://img.xix.ai/uploads/61/69a1b6398b786.webp" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/">techcrunch.com</a></small></p><hr/><p>A new "Real World AI Stage" will be added to TechCrunch Disrupt 2026 to explore the convergence of digital intelligence and physical systems. Programming for the stage includes sessions on robotic data gaps, safety protocols for autonomous deployment, the application of AI in de-extinction, edge computing in disconnected environments, and the challenges of scaling hardware from prototypes to production.</p><p>The stage features speakers from Nvidia, Shield AI, Colossal Biosciences, FieldAI, and Foxglove. The event is scheduled for October 13–15 at San Francisco’s Moscone West and will include additional specialized stages for smart systems, fintech, and business scaling.</p><p><img src="https://img.xix.ai/uploads/61/69a1b6398b786.webp" /></p><hr/><small>3 Sep 2026, 03:46 UTC | #19977</small>]]></content>
-  </entry>
-  <entry>
-    <title>Meta Releases Muse Spark 1.3 and Teases Watermelon Model</title>
-    <link href="https://x.com/finkd/status/2095232032896946311" rel="alternate" />
-    <id>https://x.com/finkd/status/2095232032896946311::v238</id>
-    <published>2026-09-02T20:38:00+00:00</published>
-    <updated>2026-09-02T20:38:00+00:00</updated>
-    <media:thumbnail url="https://help.apiyi.com/wp-content/uploads/2026/04/muse-spark-meta-ai-model-introduction-beginner-guide-en-image-1.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/finkd/status/2095232032896946311">x.com</a> | <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">source</a> | <a href="https://news.ycombinator.com/item?id=49541149">hacker news</a></small></p><hr/><p>Meta has released Muse Spark 1.3, a multimodal reasoning model optimized for coding and agentic workflows. The model is available through Muse Code and Meta's Model API, offering improved performance for multi-agent tasks and long-running reasoning.</p><p>Mark Zuckerberg stated that the company's "Watermelon" model and open weights for Muse Spark are expected to be released soon.</p><p><img src="https://help.apiyi.com/wp-content/uploads/2026/04/muse-spark-meta-ai-model-introduction-beginner-guide-en-image-1.png" /></p><hr/><small>3 Sep 2026, 02:58 UTC | #19970</small>]]></content>
-  </entry>
-  <entry>
-    <title>Meta Releases Muse Spark 1.3 for Coding and Agentic Tasks</title>
-    <link href="https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues" rel="alternate" />
-    <id>https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues::v238</id>
-    <published>2026-09-02T20:36:00+00:00</published>
-    <updated>2026-09-02T20:36:00+00:00</updated>
-    <media:thumbnail url="https://ihal.it/wp-content/uploads/2026/04/Meta-Muse-Spark-AI.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/02/meta-debuts-muse-spark-13-as-personal-agent-work-continues">axios.com</a> | <a href="https://research.meta.ai/blog/introducing-muse-spark-1-3">source</a> | <a href="https://news.ycombinator.com/item?id=49541149">hacker news</a></small></p><hr/><p>Meta has released Muse Spark 1.3, an update designed to enhance performance in coding and agentic tasks. The model is available through Muse Code and the Meta Model API at the same price as the previous Spark 1.2 version.</p><p>This update follows Meta's entry into the AI coding agent market with the launch of Muse Code and Spark 1.2. The new iteration aims to provide better reasoning and practical utility for complex, long-running, or multi-agent workflows.</p><p><img src="https://ihal.it/wp-content/uploads/2026/04/Meta-Muse-Spark-AI.jpg" /></p><hr/><small>3 Sep 2026, 02:32 UTC | #19957</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI Models Show Unreliable Accuracy in Mushroom Identification Experiments</title>
-    <link href="https://www.theregister.com/offbeat/2026/09/02/ai-assisted-mushroom-hunting-is-a-recipe-for-a-bad-trip/5294060" rel="alternate" />
-    <id>https://www.theregister.com/offbeat/2026/09/02/ai-assisted-mushroom-hunting-is-a-recipe-for-a-bad-trip/5294060::v238</id>
-    <published>2026-09-02T20:35:00+00:00</published>
-    <updated>2026-09-02T20:35:00+00:00</updated>
-    <media:thumbnail url="https://image.theregister.com/?imageId=241049&amp;width=800" />
-    <content type="html"><![CDATA[<p><small>The Register AI/ML | <a href="https://www.theregister.com/offbeat/2026/09/02/ai-assisted-mushroom-hunting-is-a-recipe-for-a-bad-trip/5294060">theregister.com</a> | <a href="https://quesma.com/blog/mushroom-llm-vision/">source</a> | <a href="https://news.ycombinator.com/item?id=49539152">hacker news</a></small></p><hr/><p>An experiment by Quesma engineer Piotr Migdał found that AI models are unreliable at identifying mushroom species. Using a dataset of Danish mushrooms compared against known safe and deadly species, the study found that even the top-performing Gemini-3.8-flash was only correct on its first guess 65% of the time, while Qwen3.8-27b was correct only 13% of the time.</p><p>The testing revealed critical safety risks, as models frequently misidentified poisonous mushrooms as edible. The death cap was mistaken for an edible variety 16% of the time, and some models produced false positive rates for toxic mushrooms as high as 36%. Experts warn that the risk of fatal misidentification makes current AI models unsuitable for foraging.</p><p><img src="https://image.theregister.com/?imageId=241049&width=800" /></p><hr/><small>3 Sep 2026, 01:37 UTC | #19962</small>]]></content>
   </entry>
 </feed>
