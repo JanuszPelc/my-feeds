@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T07:16:00+00:00</updated>
+  <updated>2026-09-07T07:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>IBS/Radix FW60 Handheld CP/M Computer Technical Specifications</title>
+    <link href="https://github.com/BrettHallen/Radix_FW60" rel="alternate" />
+    <id>https://github.com/BrettHallen/Radix_FW60::v238</id>
+    <published>2026-09-07T07:20:00+00:00</published>
+    <updated>2026-09-07T07:20:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/BrettHallen/Radix_FW60">github.com</a> | <a href="https://lobste.rs/s/xyvhrx/radix_fw60_handheld_cp_m_2_2_computer">discussion</a></small></p><hr/><p>The IBS/Radix FW60 is a ruggedized, handheld CP/M computer running the Personal CP/M-80 operating system. Internal hardware includes a Hitachi HD64180 CPU, a Hitachi HG61H15 series ASIC, and Samsung SRAM, with configurations capable of supporting a 1MB RAM disk.</p><p>The device's power architecture employs a NiCd battery pack alongside internal lithium-thionyl chloride and lithium-manganese dioxide cells for long-term memory retention. Documentation includes ROM dumps and video-based guides for hardware disassembly.</p><hr/><small>7 Sep 2026, 13:07 UTC | #20353</small>]]></content>
+  </entry>
   <entry>
     <title>Blockstream's Liquid Network Halts Transactions Following $320 Million Bitcoin Withdrawal</title>
     <link href="https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys" rel="alternate" />
