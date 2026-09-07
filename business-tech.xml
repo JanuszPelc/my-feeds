@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-07T13:07:00+00:00</updated>
+  <updated>2026-09-07T13:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Huawei Faces Trial Over Racketeering and Espionage Allegations</title>
+    <link href="https://www.ft.com/content/9422805f-519c-4b22-839c-cbd7a6464f07" rel="alternate" />
+    <id>https://www.ft.com/content/9422805f-519c-4b22-839c-cbd7a6464f07::v238</id>
+    <published>2026-09-07T13:40:00+00:00</published>
+    <updated>2026-09-07T13:40:00+00:00</updated>
+    <media:thumbnail url="https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/05/04662704-huawei.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/9422805f-519c-4b22-839c-cbd7a6464f07">ft.com</a> | <a href="https://www.justice.gov/usao-edny/pr/chinese-telecommunications-conglomerate-huawei-and-subsidiaries-charged-racketeering">source</a></small></p><hr/><p>Huawei is facing an upcoming trial in the United States on racketeering charges, including allegations of sanctions evasion and corporate espionage. The legal action follows the release of former finance chief Meng Wanzhou from Canadian detention five years ago.</p><p>The case, filed in the Eastern District of New York, involves a superseding indictment that includes claims of trade secret theft. The trial's outcome could influence the company's international business operations and its standing in the global telecommunications market.</p><p><img src="https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2024/05/04662704-huawei.webp" /></p><hr/><small>7 Sep 2026, 18:23 UTC | #20347</small>]]></content>
+  </entry>
   <entry>
     <title>Smartphone Makers Fail to Comply with EU Repairability Requirements</title>
     <link href="https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532" rel="alternate" />
