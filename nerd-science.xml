@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-06T14:41:00+00:00</updated>
+  <updated>2026-09-07T13:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Daniel Reflects on Combating Digital Distraction Through Deep Study</title>
+    <link href="https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/" rel="alternate" />
+    <id>https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/::v238</id>
+    <published>2026-09-07T13:01:00+00:00</published>
+    <updated>2026-09-07T13:01:00+00:00</updated>
+    <media:thumbnail url="https://drandreapurcell.com/wp-content/uploads/2025/09/Thumbnail-Brain-Fog-Instagram-Post.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/">devz.cl</a> | <a href="https://news.ycombinator.com/item?id=49597907">hacker news</a></small></p><hr/><p>A software engineer describes a struggle with "brain rot," a combination of cognitive fatigue from professional work and the dopamine-driven distraction of short-form digital media. This state of mental exhaustion and reduced focus is attributed to both the demands of the technology industry and the constant accessibility of low-effort digital content.</p><p>To reverse these habits, the author used a vacation to pursue deep reading and intensive self-study in history, physics, and mathematics. By utilizing online resources such as Paul's Notes and Active Calculus, the author aims to reclaim cognitive sharpness and cultivate a more profound engagement with complex subjects.</p><p><img src="https://drandreapurcell.com/wp-content/uploads/2025/09/Thumbnail-Brain-Fog-Instagram-Post.jpg" /></p><hr/><small>7 Sep 2026, 15:18 UTC | #20368</small>]]></content>
+  </entry>
   <entry>
     <title>The Decline of Literacy in a Digital Age</title>
     <link href="https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death" rel="alternate" />
