@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-07T03:31:00+00:00</updated>
+  <updated>2026-09-07T03:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Inspur Bypasses US AI Chip Restrictions via Network of Subsidiaries and Partners</title>
+    <link href="https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html?unlocked_article_code=1._FA.u0Bg.kF4sF70YLv-f&amp;smid=nytcore-ios-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html?unlocked_article_code=1._FA.u0Bg.kF4sF70YLv-f&amp;smid=nytcore-ios-share::v238</id>
+    <published>2026-09-07T03:35:00+00:00</published>
+    <updated>2026-09-07T03:35:00+00:00</updated>
+    <media:thumbnail url="https://merics.org/sites/default/files/2023-12/merics-chinas-export-control-regime-sweeping-limits-on-outbound-tech-transfers.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html?unlocked_article_code=1._FA.u0Bg.kF4sF70YLv-f&smid=nytcore-ios-share">nytimes.com</a></small></p><hr/><p>Inspur, a Chinese company sanctioned by the United States for its ties to the Chinese military, is bypassing export restrictions on advanced AI chips through a network of subsidiaries and partners. This method has allowed the firm to continue acquiring high-performance Nvidia hardware despite its placement on the U.S. Entity List.</p><p>The circumvention highlights the difficulties of enforcing trade-based sanctions within complex, globalized technology supply chains. As demand for specialized AI silicon grows, restricted entities are increasingly utilizing indirect procurement channels to secure controlled American technology.</p><p><img src="https://merics.org/sites/default/files/2023-12/merics-chinas-export-control-regime-sweeping-limits-on-outbound-tech-transfers.png" /></p><hr/><small>7 Sep 2026, 07:49 UTC | #20314</small>]]></content>
+  </entry>
   <entry>
     <title>UBS Mandates AI Literacy for Junior Investment Banker Hires</title>
     <link href="https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8" rel="alternate" />
