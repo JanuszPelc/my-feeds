@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-07T10:57:00+00:00</updated>
+  <updated>2026-09-07T11:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nathan Fielder's 'You Can See Everything' Explores the Psychology of Elizabeth Holmes</title>
+    <link href="https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/" rel="alternate" />
+    <id>https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/::v238</id>
+    <published>2026-09-07T11:03:00+00:00</published>
+    <updated>2026-09-07T11:03:00+00:00</updated>
+    <media:thumbnail url="https://d.ibtimes.com.au/en/full/205379/elizabeth-holmes.jpg?w=594&amp;f=f7776801ee0875381d6fe6aa626283be" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/">variety.com</a> | <a href="https://a24films.com/films/you-can-see-everything">source</a> | <a href="https://news.ycombinator.com/item?id=49596119">hacker news</a></small></p><hr/><p>“You Can See Everything,” a 174-minute documentary co-directed by Nathan Fielder and Lance Oppenheim, premiered at the Telluride Film Festival. The film follows convicted Theranos founder Elizabeth Holmes during her final months of freedom before beginning her 11-year prison sentence.</p><p>The documentary utilizes a meta-narrative approach, including segments where actress Amanda Seyfried performs transcripts of Holmes's prison communications. The film examines the intersection of reality and performance, focusing on Holmes's psychological detachment and her refusal to acknowledge the fraud perpetrated by her company.</p><p><img src="https://d.ibtimes.com.au/en/full/205379/elizabeth-holmes.jpg?w=594&f=f7776801ee0875381d6fe6aa626283be" /></p><hr/><small>7 Sep 2026, 14:50 UTC | #20366</small>]]></content>
+  </entry>
   <entry>
     <title>User Debates Legality of Releasing AI-Decoded MIDI Data from PianoDisc Format</title>
     <link href="https://news.ycombinator.com/item?id=49577129" rel="alternate" />

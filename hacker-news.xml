@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T10:54:00+00:00</updated>
+  <updated>2026-09-07T11:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Internationalization and Localization in Software Development</title>
+    <link href="https://www.kashyapsuhas.com/blog/i18n-l10n" rel="alternate" />
+    <id>https://www.kashyapsuhas.com/blog/i18n-l10n::v238</id>
+    <published>2026-09-07T11:04:00+00:00</published>
+    <updated>2026-09-07T11:04:00+00:00</updated>
+    <media:thumbnail url="https://clevertap.com/wp-content/uploads/2019/05/internationalization-vs-localization.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.kashyapsuhas.com/blog/i18n-l10n">kashyapsuhas.com</a> | <a href="https://lobste.rs/s/mqbqbz/internationalization_localization">discussion</a></small></p><hr/><p>Internationalization (i18n) provides the codebase architecture necessary to support localization (l10n), the process of adapting software for specific regions. Effective implementation requires avoiding hardcoded strings, utilizing localization functions, and allowing users to manually override interface settings to prevent forcing preferences.</p><p>Technical challenges include handling complex grammatical rules for plurals, managing variable text lengths in layouts, and supporting Right-to-Left (RTL) text. Software must also implement specific formatting for numbers, currencies, dates, and address structures to accommodate diverse global standards, such as varying date formats and name sequences.</p><p><img src="https://clevertap.com/wp-content/uploads/2019/05/internationalization-vs-localization.png" /></p><hr/><small>7 Sep 2026, 14:54 UTC | #20367</small>]]></content>
+  </entry>
   <entry>
     <title>Shortest Responding IPv6 Addresses Identified</title>
     <link href="https://ache.one/notes/vanity-ipv6" rel="alternate" />
