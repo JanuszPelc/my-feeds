@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T13:10:00+00:00</updated>
+  <updated>2026-09-07T13:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>bzip3 Open-Source Compression Tool Developed as BZip2 Successor</title>
+    <link href="https://github.com/iczelia/bzip3" rel="alternate" />
+    <id>https://github.com/iczelia/bzip3::v238</id>
+    <published>2026-09-07T13:36:00+00:00</published>
+    <updated>2026-09-07T13:36:00+00:00</updated>
+    <media:thumbnail url="https://docs.snaplogic.com/img/snaps/snaps-core/sp-binary/snap-decompress/ex-decompress-bzip2-scheme.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/iczelia/bzip3">github.com</a> | <a href="https://news.ycombinator.com/item?id=49598291">hacker news</a></small></p><hr/><p>bzip3 is an open-source compression utility designed as a high-performance successor to BZip2. It utilizes an order-0 context mixing entropy coder and an optimized Burrows-Wheeler transform to achieve higher compression ratios and improved performance, particularly when handling text and source code.</p><p>The tool includes benchmarks comparing its compression efficiency and decompression speeds against LZMA, BZip2, and Zstandard. It is released under the LGPLv3 license and supports multiple architectures, including x86, ARM, and PPC64LE.</p><p><img src="https://docs.snaplogic.com/img/snaps/snaps-core/sp-binary/snap-decompress/ex-decompress-bzip2-scheme.png" /></p><hr/><small>7 Sep 2026, 17:56 UTC | #20384</small>]]></content>
+  </entry>
+  <entry>
+    <title>GNU Guix Explains Defining Complex Service Configurations</title>
+    <link href="https://guix.gnu.org/blog/2026/demystifying-complex-configurations//" rel="alternate" />
+    <id>https://guix.gnu.org/blog/2026/demystifying-complex-configurations//::v238</id>
+    <published>2026-09-07T13:12:00+00:00</published>
+    <updated>2026-09-07T13:12:00+00:00</updated>
+    <media:thumbnail url="https://terminalroot.com.br/assets/img/gnu/gnu-guix/04.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://guix.gnu.org/blog/2026/demystifying-complex-configurations//">guix.gnu.org</a> | <a href="https://lobste.rs/s/awrzbh/demystifying_complex_configurations">discussion</a></small></p><hr/><p>Managing complex service configurations in GNU Guix and Guix Home involves using the (gnu services configuration) module to create Scheme bindings for service fields. Using the YAML-based Goimapnotify project as an example, the text demonstrates how to use the define-configuration and define-configuration/no-serialization macros to serialize Scheme records into external formats.</p><p>Technical implementation requires handling unhygienic macros and utilizing identifier prefixes to prevent naming collisions during expansion. The guide also explores G-expressions (gexp), which allow for the integration of packages and file-like objects into configuration fields by deferring evaluation until the build stage.</p><p><img src="https://terminalroot.com.br/assets/img/gnu/gnu-guix/04.png" /></p><hr/><small>7 Sep 2026, 17:51 UTC | #20385</small>]]></content>
+  </entry>
   <entry>
     <title>Rich Hickey Discusses Hammock Driven Development</title>
     <link href="https://youtu.be/f84n5oFoZBc" rel="alternate" />
@@ -912,13 +930,5 @@
     <updated>2026-09-02T18:21:00+00:00</updated>
     <media:thumbnail url="https://www.embeddedsoft.net/static/c0c22193e4da2787a224edf1d1d4384d/dd6fe/static-vs-dynamic-memory-allocation-in-embedded-systems.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://matklad.github.io/2026/09/02/static-allocation-constant-work.html">matklad.github.io</a> | <a href="https://lobste.rs/s/m4iwq4/static_allocation_constant_work">discussion</a></small></p><hr/><p>Type-segregated pools and static allocation can mitigate use-after-free and type-confusion vulnerabilities. By pre-allocating a fixed maximum amount of memory at startup, developers can prevent runtime failures and avoid Out-of-Memory (OOM) killer terminations, ensuring the system handles overload gracefully.</p><p>The "Constant Work" principle maintains a fixed number of objects through the use of neutral or "reserved" states to ensure predictable P100 latency. This approach facilitates better CPU cache prefetching and compiler vectorization by avoiding early-exit loops and ensuring iteration occurs over a constant set of elements.</p><p><img src="https://www.embeddedsoft.net/static/c0c22193e4da2787a224edf1d1d4384d/dd6fe/static-vs-dynamic-memory-allocation-in-embedded-systems.webp" /></p><hr/><small>2 Sep 2026, 21:37 UTC | #19967</small>]]></content>
-  </entry>
-  <entry>
-    <title>Haskell Technique Simulates Dependent If Expressions Using Church Encoding</title>
-    <link href="https://haskellforall.com/2026/09/dependent-if-expressions" rel="alternate" />
-    <id>https://haskellforall.com/2026/09/dependent-if-expressions::v238</id>
-    <published>2026-09-02T17:53:00+00:00</published>
-    <updated>2026-09-02T17:53:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://haskellforall.com/2026/09/dependent-if-expressions">haskellforall.com</a> | <a href="https://lobste.rs/s/yomxcl/dependent_if_expressions_without">discussion</a></small></p><hr/><p>A technique for implementing "dependent if" expressions in Haskell allows conditional logic to return different types based on the input condition, a feature typically reserved for dependently typed languages. This is achieved by combining Church encoding with the `RebindableSyntax` language extension and leveraging standard Hindley-Milner type inference.</p><p>By omitting explicit type signatures, Church-encoded booleans are inferred with more general types that track information flow at the type level. This approach allows the compiler to unify the result type with either the "then" or "else" branch type depending on the boolean value provided, effectively simulating dependency through function polymorphism.</p><hr/><small>2 Sep 2026, 21:31 UTC | #19966</small>]]></content>
   </entry>
 </feed>
