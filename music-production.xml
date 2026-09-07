@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-07T03:45:00+00:00</updated>
+  <updated>2026-09-07T03:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Full Bucket Music Releases FB3 Kawai K3 Simulation</title>
+    <link href="https://www.kvraudio.com/news/full-bucket-music-releases-fb3---kawai-k3-k3m-simulation-vst-au-aax-and-clap-free-68384?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68384" rel="alternate" />
+    <id>https://www.kvraudio.com/news/full-bucket-music-releases-fb3---kawai-k3-k3m-simulation-vst-au-aax-and-clap-free-68384?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68384::v238</id>
+    <published>2026-09-07T03:49:00+00:00</published>
+    <updated>2026-09-07T03:49:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/fb3.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/full-bucket-music-releases-fb3---kawai-k3-k3m-simulation-vst-au-aax-and-clap-free-68384?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68384">kvraudio.com</a> | <a href="https://www.fullbucket.de/music/fb3.html">source</a></small></p><hr/><p>Full Bucket Music has released FB3, a free software instrument simulating the 1986 Kawai K3 and K3m synthesizers. Available for Windows and macOS in VST, AU, AAX, and CLAP formats, the plugin is written in native C++ for high performance and low CPU consumption.</p><p>The simulation features up to 64-voice polyphony, the original factory sounds, and support for SysEx and User Wave import/export. It also includes a resizable user interface, MIDI Learn, and support for MTS-ESP by ODDSound.</p><p><img src="https://static.kvraudio.com/i/b/fb3.jpg" /></p><hr/><small>7 Sep 2026, 10:39 UTC | #20340</small>]]></content>
+  </entry>
   <entry>
     <title>Plea Tech Releases Heat Man, TR-Saturn, and Super Wide Plugins</title>
     <link href="https://www.kvraudio.com/news/plea-tech-releases-heat-man-tr-saturn-and-super-wide-plugins-2-free-68390?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68390" rel="alternate" />
