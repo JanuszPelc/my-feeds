@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-07T13:43:00+00:00</updated>
+  <updated>2026-09-07T17:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Caltech Mathathon to Explore AI-Driven Mathematical Research</title>
+    <link href="https://mathathonchallenge.com/index.html" rel="alternate" />
+    <id>https://mathathonchallenge.com/index.html::v238</id>
+    <published>2026-09-07T17:08:00+00:00</published>
+    <updated>2026-09-07T17:08:00+00:00</updated>
+    <media:thumbnail url="https://presidencyuniversity.in/uploads/images/6a1d33fce775d1780298748.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mathathonchallenge.com/index.html">mathathonchallenge.com</a> | <a href="https://news.ycombinator.com/item?id=49596055">hacker news</a></small></p><hr/><p>A mathematics hackathon from October 30 to November 1 will use frontier AI models to attempt to solve open mathematical conjectures. One hundred teams will work to formulate new theories and address long-standing problems, testing how artificial intelligence can accelerate the speed of mathematical discovery.</p><p>Competitors must defend their findings before a panel of leading mathematicians to demonstrate a thorough understanding of the AI-generated results. Prizes will be awarded for both the successful resolution of conjectures and the clarity of the mathematical explanations provided.</p><p><img src="https://presidencyuniversity.in/uploads/images/6a1d33fce775d1780298748.jpg" /></p><hr/><small>7 Sep 2026, 21:46 UTC | #20398</small>]]></content>
+  </entry>
   <entry>
     <title>Insilico's Rentosertib Shows Potential for Biological Age Reversal</title>
     <link href="https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html?unlocked_article_code=1._VA.KrR_.DUftfq15OzTx&amp;smid=bs-share" rel="alternate" />
