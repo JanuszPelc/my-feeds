@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-07T13:03:00+00:00</updated>
+  <updated>2026-09-07T13:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Smartphone Makers Fail to Comply with EU Repairability Requirements</title>
+    <link href="https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532" rel="alternate" />
+    <id>https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532::v238</id>
+    <published>2026-09-07T13:07:00+00:00</published>
+    <updated>2026-09-07T13:07:00+00:00</updated>
+    <media:thumbnail url="https://www.mojotrick.com/wp-content/uploads/2026/04/Samsung-Apple-repairibility-score-791x1024.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532">theregister.com</a> | <a href="https://repair.eu/news/one-year-into-eu-ecodesign-rules-80-of-smartphones-still-lack-required-repair-information/">source</a> | <a href="https://news.ycombinator.com/item?id=49597189">hacker news</a></small></p><hr/><p>More than 80 percent of smartphones and tablets sold in the EU lack mandatory repair information, according to a report from Right to Repair Europe. A review of the European Product Registry found that most manufacturers have either left required URL fields blank or provided links that do not contain useful instructions or spare part pricing.</p><p>The report suggests that enforcement of the June 2025 regulations is currently insufficient, as some manufacturers continue to award themselves high repairability scores despite missing documentation. Upcoming EU legislation scheduled for February will expand these requirements by mandating user-replaceable batteries in new mobile devices.</p><p><img src="https://www.mojotrick.com/wp-content/uploads/2026/04/Samsung-Apple-repairibility-score-791x1024.jpg" /></p><hr/><small>7 Sep 2026, 17:10 UTC | #20381</small>]]></content>
+  </entry>
   <entry>
     <title>Rationalism's Influence on AI Existential Risk Claims</title>
     <link href="https://www.nytimes.com/2026/09/05/opinion/ai-silicon-valley.html?unlocked_article_code=1.-1A.hKhM.r3w6ETo4k4Zj&amp;smid=tw-share" rel="alternate" />

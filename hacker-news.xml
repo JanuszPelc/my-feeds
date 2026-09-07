@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T11:04:00+00:00</updated>
+  <updated>2026-09-07T13:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Huawei Unveils Mate XT2 Triple-Fold Smartphone with In-House Chipset</title>
+    <link href="https://asia.nikkei.com/business/electronics/huawei-unveils-first-triple-fold-phone-with-us-free-core-chips" rel="alternate" />
+    <id>https://asia.nikkei.com/business/electronics/huawei-unveils-first-triple-fold-phone-with-us-free-core-chips::v238</id>
+    <published>2026-09-07T13:06:00+00:00</published>
+    <updated>2026-09-07T13:06:00+00:00</updated>
+    <media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F1%2F2%2F13062116-1-eng-GB%2F936089033168-1e.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=780" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://asia.nikkei.com/business/electronics/huawei-unveils-first-triple-fold-phone-with-us-free-core-chips">asia.nikkei.com</a> | <a href="https://www.youtube.com/watch?v=BZPtp2qjuBo">source</a></small></p><hr/><p>Huawei Technologies has unveiled the Mate XT2, a triple-folding smartphone powered by proprietary Kirin chipsets. The company states these in-house semiconductors are free from United States supply chain restrictions.</p><p>This product launch occurs ahead of Apple's scheduled flagship iPhone event. The Mate XT2's release underscores Huawei's continued effort to develop domestic semiconductor technology to mitigate the impact of international trade sanctions.</p><p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F6%2F1%2F1%2F2%2F13062116-1-eng-GB%2F936089033168-1e.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=780" /></p><hr/><small>7 Sep 2026, 17:08 UTC | #20337</small>]]></content>
+  </entry>
   <entry>
     <title>Internationalization and Localization in Software Development</title>
     <link href="https://www.kashyapsuhas.com/blog/i18n-l10n" rel="alternate" />
