@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-07T15:33:00+00:00</updated>
+  <updated>2026-09-07T17:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Roland Releases Melody Flip AI Melody-Generation Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/09/07/roland-melody-flip/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/07/roland-melody-flip/::v238</id>
+    <published>2026-09-07T17:02:00+00:00</published>
+    <updated>2026-09-07T17:02:00+00:00</updated>
+    <media:thumbnail url="https://mmagimg.speedgabia.com/2026/03/img-1773904702841-1049f83e552a11fe.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/07/roland-melody-flip/">bedroomproducersblog.com</a> | <a href="https://ebs.publicnow.com/view/1F0CDE822893BCAB71B53A271C2662E63CA274FB">source</a> | <a href="https://bedroomproducersblog.com/2026/09/07/roland-melody-flip/#respond">discussion</a></small></p><hr/><p>Roland Corporation has released Melody Flip, an AI-assisted melody-generation plugin designed for music producers working in digital audio workstations (DAWs). The tool functions as a creative partner by providing editable musical starting points—including melody, chord, bass, and drum ideas—to help users overcome creative blocks and develop original works.</p><p>Developed using research from Sony Computer Science Laboratories, the software features approximately 250 themed "Palettes" organized by genre. The plugin is compatible with macOS and Windows and is available through the Roland Cloud Manager, with support for exporting patterns in both audio and MIDI formats.</p><p><img src="https://mmagimg.speedgabia.com/2026/03/img-1773904702841-1049f83e552a11fe.jpg" /></p><hr/><small>7 Sep 2026, 20:51 UTC | #20372</small>]]></content>
+  </entry>
   <entry>
     <title>François Pè Releases Free Euclid3an Arp and Chord/Arrangement Tools</title>
     <link href="https://bedroomproducersblog.com/2026/09/07/francois-pe-euclid3an/" rel="alternate" />
