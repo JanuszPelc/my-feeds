@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-07T13:44:00+00:00</updated>
+  <updated>2026-09-07T15:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic's Labs Team Drives Product Innovation Ahead of IPO</title>
+    <link href="https://www.businessinsider.com/anthropic-labs-team-ai-innovation-ipo-2026-9" rel="alternate" />
+    <id>https://www.businessinsider.com/anthropic-labs-team-ai-innovation-ipo-2026-9::v238</id>
+    <published>2026-09-07T15:30:00+00:00</published>
+    <updated>2026-09-07T15:30:00+00:00</updated>
+    <media:thumbnail url="https://gizmodo.com/app/uploads/2025/12/claude-code.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/anthropic-labs-team-ai-innovation-ipo-2026-9">businessinsider.com</a></small></p><hr/><p>Anthropic's Labs team, a 20-person incubator led by cofounder Ben Mann, focuses on rapid prototyping to turn research breakthroughs into consumer products. The group uses a two-week "persevere or pivot" cycle to evaluate "bets," which have successfully resulted in tools like Claude Code, Claude Design, and the Model Context Protocol.</p><p>As Anthropic prepares for an IPO, the team aims to expand the "action space" of AI models, targeting improvements in audio and visual outputs. Successful prototypes typically "graduate" into standalone product teams once they exceed a certain size, a process that has made the Labs team a primary engine for the company's recent growth.</p><p><img src="https://gizmodo.com/app/uploads/2025/12/claude-code.jpg" /></p><hr/><small>7 Sep 2026, 19:57 UTC | #20352</small>]]></content>
+  </entry>
   <entry>
     <title>De Beers to Pause Production at South Africa's Venetia Mine</title>
     <link href="https://www.wsj.com/business/diamond-mines-are-closing-and-south-africans-have-few-alternatives-fa3b8cbf" rel="alternate" />
