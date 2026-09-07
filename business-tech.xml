@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-07T15:30:00+00:00</updated>
+  <updated>2026-09-07T17:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Government Warns Against UK Proposal to Mandate Prominence for Trusted News on Social Media</title>
+    <link href="https://pressgazette.co.uk/news/us-issues-censorship-warning-over-uk-plan-to-boost-public-service-news-on-social-media/" rel="alternate" />
+    <id>https://pressgazette.co.uk/news/us-issues-censorship-warning-over-uk-plan-to-boost-public-service-news-on-social-media/::v238</id>
+    <published>2026-09-07T17:04:00+00:00</published>
+    <updated>2026-09-07T17:04:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1WDXa6.img?w=4000&amp;h=2670&amp;m=4&amp;q=80" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://pressgazette.co.uk/news/us-issues-censorship-warning-over-uk-plan-to-boost-public-service-news-on-social-media/">pressgazette.co.uk</a> | <a href="https://uk.usembassy.gov/u-s-government-response-to-a-new-strategic-direction-for-uk-media-green-paper-and-public-consultation/">source</a></small></p><hr/><p>The US Government has expressed concerns regarding a UK proposal to require social media platforms to prioritize "trustworthy" news from public service and recognized media providers in user feeds. The UK government's "Watch this Space" Green Paper suggests this measure is necessary to combat misinformation during crises. US officials have warned that designating specific outlets as "trustworthy" could facilitate viewpoint-based censorship and disadvantage independent journalists.</p><p>The News Media Association (NMA) has argued that the plan would allow the state to act as an arbiter of journalism, potentially shifting visibility and revenue from commercial publishers to public broadcasters. While the BBC has supported policy interventions to improve news access via digital market regulations, critics contend that prominence rules may not provide sufficient economic value to publishers or effectively serve local news audiences.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1WDXa6.img?w=4000&h=2670&m=4&q=80" /></p><hr/><small>7 Sep 2026, 21:17 UTC | #20364</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic's Labs Team Drives Product Innovation Ahead of IPO</title>
     <link href="https://www.businessinsider.com/anthropic-labs-team-ai-innovation-ipo-2026-9" rel="alternate" />
