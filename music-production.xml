@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-06T14:46:00+00:00</updated>
+  <updated>2026-09-07T03:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>VGTrumpet Releases VG Bassoon Virtual Instrument</title>
+    <link href="https://www.kvraudio.com/news/vgtrumpet-releases-vg-bassoon-virtual-instrument---vst-au-standalone-app-68397?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68397" rel="alternate" />
+    <id>https://www.kvraudio.com/news/vgtrumpet-releases-vg-bassoon-virtual-instrument---vst-au-standalone-app-68397?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68397::v238</id>
+    <published>2026-09-07T03:41:00+00:00</published>
+    <updated>2026-09-07T03:41:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/bassoonmain-01-web.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/vgtrumpet-releases-vg-bassoon-virtual-instrument---vst-au-standalone-app-68397?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68397">kvraudio.com</a> | <a href="https://vgtrumpet.com/vg-bassoon-virtual-instrument/">source</a></small></p><hr/><p>VGTrumpet has launched VG Bassoon, a self-contained virtual instrument available as a VST, AU, or standalone application. The software provides three independent sound layers—jazz, symphonic, and a four-bassoon section—which can be mixed in real time through a Morph Mixer.</p><p>Designed for expressive playback, the plugin is compatible with wind controllers, breath controllers, and MIDI keyboards. It includes various articulations, a built-in harmonizer, and integrated effects like reverb and delay, with a total installation size of approximately 902 MB.</p><p><img src="https://static.kvraudio.com/i/b/bassoonmain-01-web.jpg" /></p><hr/><small>7 Sep 2026, 09:04 UTC | #20328</small>]]></content>
+  </entry>
+  <entry>
+    <title>DawgPound Audio Releases DawgDelay-201 Tape Echo for Mac and iPad</title>
+    <link href="https://www.kvraudio.com/news/dawgpound-audio-releases-dawgdelay-201-tape-echo-for-mac-and-ipad-68400?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68400" rel="alternate" />
+    <id>https://www.kvraudio.com/news/dawgpound-audio-releases-dawgdelay-201-tape-echo-for-mac-and-ipad-68400?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68400::v238</id>
+    <published>2026-09-07T03:40:00+00:00</published>
+    <updated>2026-09-07T03:40:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/dawgdelay-201neon.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dawgpound-audio-releases-dawgdelay-201-tape-echo-for-mac-and-ipad-68400?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68400">kvraudio.com</a> | <a href="https://dawgpoundaudio.com/plugins/dawgdelay-201/">source</a></small></p><hr/><p>DawgPound Audio has released DawgDelay-201, a plugin designed to emulate vintage 1970s tape delays. The software is available for macOS and iPadOS, featuring twelve modes that utilize three virtual tape heads and a spring tank.</p><p>The plugin includes an assignable LFO, a self-oscillating engine with a built-in limiter, and 24 factory presets across seven categories. It is available for $9.99 on Mac and $4.99 on iPad, with a launch discount reducing the Mac version to $7.49 through October 31.</p><p><img src="https://static.kvraudio.com/i/b/dawgdelay-201neon.webp" /></p><hr/><small>7 Sep 2026, 09:01 UTC | #20327</small>]]></content>
+  </entry>
+  <entry>
+    <title>Autodafe Releases Vintage Emulator Studio</title>
+    <link href="https://www.kvraudio.com/news/autodafe-releases-vintage-emulator-studio-ves-based-on-mame-emulations-vst3-and-au-68401?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68401" rel="alternate" />
+    <id>https://www.kvraudio.com/news/autodafe-releases-vintage-emulator-studio-ves-based-on-mame-emulations-vst3-and-au-68401?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68401::v238</id>
+    <published>2026-09-07T03:39:00+00:00</published>
+    <updated>2026-09-07T03:39:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/ves_screens_small.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/autodafe-releases-vintage-emulator-studio-ves-based-on-mame-emulations-vst3-and-au-68401?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68401">kvraudio.com</a> | <a href="https://www.autodafe.net/vintage-emulator-studio.html">source</a></small></p><hr/><p>Vintage Emulator Studio (VES) is a free and open-source plugin that integrates MAME emulations of vintage synthesizers, drum machines, and samplers into a modern DAW environment. The JUCE-based tool provides the audio, MIDI, and graphical interfaces required to use hardware emulations from brands including Akai, Roland, and Yamaha as software instruments.</p><p>Available for macOS, Windows, and Linux in VST3 and AU formats, the plugin also functions as a standalone application. Because the software relies on the MAME 0.289 emulation engine, users must provide their own copyrighted ROMs and firmware to use the included instruments.</p><p><img src="https://static.kvraudio.com/i/b/ves_screens_small.png" /></p><hr/><small>7 Sep 2026, 08:58 UTC | #20326</small>]]></content>
+  </entry>
   <entry>
     <title>Snorkel Audio Releases Disto Disco Audio Effect</title>
     <link href="https://www.kvraudio.com/news/snorkel-audio-releases-disto-disco---audio-effect-that-turns-distortion-into-movement-vst3-and-au-68388?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68388" rel="alternate" />
