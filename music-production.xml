@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-07T13:02:00+00:00</updated>
+  <updated>2026-09-07T13:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Våld Labs Releases Tresse Polyphonic Hybrid Synthesizer</title>
+    <link href="https://www.kvraudio.com/news/vald-labs-releases-tresse---dual-layer-39-engine-synthesizer-with-generative-sequencing-for-macos-and-windows-68406?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68406" rel="alternate" />
+    <id>https://www.kvraudio.com/news/vald-labs-releases-tresse---dual-layer-39-engine-synthesizer-with-generative-sequencing-for-macos-and-windows-68406?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68406::v238</id>
+    <published>2026-09-07T13:39:00+00:00</published>
+    <updated>2026-09-07T13:39:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/1-large.1788743478.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/vald-labs-releases-tresse---dual-layer-39-engine-synthesizer-with-generative-sequencing-for-macos-and-windows-68406?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68406">kvraudio.com</a> | <a href="https://valdlabs.com/tresse">source</a></small></p><hr/><p>Tresse is a polyphonic hybrid synthesizer plugin for macOS and Windows that features two independent oscillator layers and a generative step sequencer. Each layer provides access to 39 synthesis engines, including 24 Plaits engines and 15 proprietary modules such as Karplus-Strong and granular synthesis.</p><p>The software is available in VST3, AU, and standalone formats, with an iOS version currently in development. It is priced at an introductory €19.99 until September 30, 2026, and its sequencer incorporates seven generative algorithms, such as Euclidean and Fibonacci.</p><p><img src="https://static.kvraudio.com/i/b/1-large.1788743478.jpg" /></p><hr/><small>7 Sep 2026, 18:09 UTC | #20360</small>]]></content>
+  </entry>
+  <entry>
+    <title>Bertom Audio Updates SF2 Player to v1.1.0</title>
+    <link href="https://www.kvraudio.com/news/bertom-audio-updates-sf2-player-to-v1-1-0-with-portamento-and-extra-modulators-68414?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68414" rel="alternate" />
+    <id>https://www.kvraudio.com/news/bertom-audio-updates-sf2-player-to-v1-1-0-with-portamento-and-extra-modulators-68414?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68414::v238</id>
+    <published>2026-09-07T13:38:00+00:00</published>
+    <updated>2026-09-07T13:38:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/sf2-player_16-9.1788784493.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/bertom-audio-updates-sf2-player-to-v1-1-0-with-portamento-and-extra-modulators-68414?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68414">kvraudio.com</a> | <a href="https://bertomaudio.com/sf2-player.html">source</a></small></p><hr/><p>Bertom Audio has released version 1.1.0 of its SF2 Player, a SoundFont player plugin. This update introduces mono, legato, and portamento (glide) modes, along with additional default modulators for controlling the volume envelope, filter, and vibrato via MIDI CC.</p><p>Technical improvements include runtime CPU dispatch for SSE2 and AVX2, and usability enhancements such as a UI scaling reset and instructions for empty folders. The plugin is available under a free, "pay what you want" licensing model.</p><p><img src="https://static.kvraudio.com/i/b/sf2-player_16-9.1788784493.png" /></p><hr/><small>7 Sep 2026, 18:07 UTC | #20380</small>]]></content>
+  </entry>
   <entry>
     <title>AngelicVibes Releases Vanity Lite Free Mastering Plugin</title>
     <link href="https://www.kvraudio.com/news/angelicvibes-releases-vanity-lite---free-mastering-plugin-vst3-and-au-68398?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68398" rel="alternate" />
