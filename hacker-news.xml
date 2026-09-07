@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T07:06:00+00:00</updated>
+  <updated>2026-09-07T07:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Alexander Fortin Details His Travel Technology Setup</title>
+    <link href="https://a.l3x.in/blog/my-travel-setup" rel="alternate" />
+    <id>https://a.l3x.in/blog/my-travel-setup::v238</id>
+    <published>2026-09-07T07:10:00+00:00</published>
+    <updated>2026-09-07T07:10:00+00:00</updated>
+    <media:thumbnail url="https://austinsnerdythings.com/wp-content/uploads/2023/04/image-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://a.l3x.in/blog/my-travel-setup">a.l3x.in</a> | <a href="https://lobste.rs/s/89i4c0/who_said_tech_addict_can_t_be_comfortable">discussion</a> | <a href="https://news.ycombinator.com/item?id=49585956">hacker news</a></small></p><hr/><p>The author presents a portable hardware and networking configuration designed to recreate a home-like digital environment while traveling. The setup relies on an OpenWRT-based GL-AR300M mini router, a Sonos Port for flexible audio routing, a Beelink mini PC, and various media devices such as a Nintendo Switch and Amazon Fire TV stick to facilitate local file synchronization, Plex streaming, and gaming.</p><p>By utilizing a central Ethernet switch, the configuration establishes a consistent local area network (LAN) across diverse accommodations. This infrastructure enables seamless device connectivity, remote server access via Wireguard, and multi-device audio synchronization, allowing the user to bypass local network limitations and maintain a stable digital workspace.</p><p><img src="https://austinsnerdythings.com/wp-content/uploads/2023/04/image-1.png" /></p><hr/><small>7 Sep 2026, 11:29 UTC | #20346</small>]]></content>
+  </entry>
   <entry>
     <title>The Differences Between Frontend and Backend Development</title>
     <link href="https://marijkeluttekes.dev/blog/articles/2026/03/16/why-frontends-fail-when-you-approach-them-like-a-backend/" rel="alternate" />

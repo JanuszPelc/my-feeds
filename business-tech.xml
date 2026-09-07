@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-07T03:35:00+00:00</updated>
+  <updated>2026-09-07T07:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Switzerland Launches Pilot to Replace Microsoft 365 with Open Source Software</title>
+    <link href="https://itsfoss.com/news/switzerland-replace-microssoft-pilot/" rel="alternate" />
+    <id>https://itsfoss.com/news/switzerland-replace-microssoft-pilot/::v238</id>
+    <published>2026-09-07T07:09:00+00:00</published>
+    <updated>2026-09-07T07:09:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQFmgNxfVUR47A/feedshare-shrink_800/B4EZsRvOmBKgAg-/0/1765529154007?e=2147483647&amp;v=beta&amp;t=cP_uv6AkxpIIh3AJP8idlXT4uf43Mda-Uu2YBniKrZo" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://itsfoss.com/news/switzerland-replace-microssoft-pilot/">itsfoss.com</a> | <a href="https://www.bk.admin.ch/en/boss-poc-feasibility-study">source</a> | <a href="https://news.ycombinator.com/item?id=49594251">hacker news</a></small></p><hr/><p>Switzerland has launched a pilot program to replace Microsoft 365 with open-source alternatives across 3,000 federal workstations, representing approximately 7% of the federal workforce. The initiative follows a successful proof-of-concept involving 172 employees who tested the openDesk collaboration suite. The migration is expected to be completed by the end of 2027, with the new systems running in parallel with Microsoft 365 during the transition period.</p><p>The move is driven by Switzerland's pursuit of digital sovereignty, intended to reduce dependency on foreign vendors, mitigate risks to service continuity, and avoid potential data exposure under US cloud legislation. The Swiss Army's Cyber Command is already preparing to transition to openDesk by October 2026. If the pilot succeeds, the migration may eventually expand to include all 54,000 workstations within the federal administrations.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQFmgNxfVUR47A/feedshare-shrink_800/B4EZsRvOmBKgAg-/0/1765529154007?e=2147483647&v=beta&t=cP_uv6AkxpIIh3AJP8idlXT4uf43Mda-Uu2YBniKrZo" /></p><hr/><small>7 Sep 2026, 11:26 UTC | #20345</small>]]></content>
+  </entry>
   <entry>
     <title>Inspur Bypasses US AI Chip Restrictions via Network of Subsidiaries and Partners</title>
     <link href="https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html?unlocked_article_code=1._FA.u0Bg.kF4sF70YLv-f&amp;smid=nytcore-ios-share" rel="alternate" />
