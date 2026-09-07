@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-06T20:44:00+00:00</updated>
+  <updated>2026-09-06T20:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Python Iceberg Explores Python's Obscure Implementation Details and Pitfalls</title>
+    <link href="https://aleyan.com/projects/python-iceberg/" rel="alternate" />
+    <id>https://aleyan.com/projects/python-iceberg/::v238</id>
+    <published>2026-09-06T20:53:00+00:00</published>
+    <updated>2026-09-06T20:53:00+00:00</updated>
+    <media:thumbnail url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q5utj7fz5pcnfgf1jnsr.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://aleyan.com/projects/python-iceberg/">aleyan.com</a> | <a href="https://lobste.rs/s/xv6z4r/python_iceberg">discussion</a></small></p><hr/><p>Python Iceberg is an interactive project that explores the obscure implementation details, oddities, and common pitfalls of the Python programming language. It provides a visual and interactive descent into the language's less-documented mechanics.</p><p>The guide focuses on "footguns"—coding patterns that appear safe but lead to unexpected or problematic behavior—as well as the nuanced behaviors of the Python interpreter. It is part of a collection of interactive web projects created by Alex Yankov.</p><p><img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q5utj7fz5pcnfgf1jnsr.png" /></p><hr/><small>7 Sep 2026, 06:06 UTC | #20321</small>]]></content>
+  </entry>
   <entry>
     <title>Ignoring Everything by Default in .gitignore</title>
     <link href="https://packagemain.tech/p/gitignore-everything-by-default" rel="alternate" />
