@@ -501,22 +501,4 @@
     <media:thumbnail url="https://defkey.com/images/program/qtractor-qtractor-2025-11-24_09-59-59-original-size.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/rncbc-org-updates-qtractor-to-v1-6-3-and-vee-one-suite-to-v1-4-3-for-linux-68336?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68336">kvraudio.com</a> | <a href="https://www.rncbc.org/drupal/node/2952">source</a></small></p><hr/><p>rncbc.org has released version 1.6.3 of the Qtractor multi-track sequencer and version 1.4.3 of the Vee One Suite software instruments for GNU/Linux. These updates include bug fixes for audio clip offsets, MIDI communication issues, and plugin instance management.</p><p>Qtractor improvements include updates to the VST3 SDK and CLAP, alongside new plugin latency compensation options for audio buses. The Vee One Suite updates focus on stabilizing MIDI Program Change functionality and enhancing preset management across its four constituent instruments: Synthv1, Samplv1, Drumkv1, and Padthv1.</p><p><img src="https://defkey.com/images/program/qtractor-qtractor-2025-11-24_09-59-59-original-size.png" /></p><hr/><small>3 Sep 2026, 00:08 UTC | #19955</small>]]></content>
   </entry>
-  <entry>
-    <title>TONE 3000 Launches Free Open-Source NAM A2 Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/::v238</id>
-    <published>2026-09-02T18:29:00+00:00</published>
-    <updated>2026-09-02T18:29:00+00:00</updated>
-    <media:thumbnail url="https://cdn.gearnews.com/wp-content/uploads/2026/03/nam_teaser-1536x848.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/">bedroomproducersblog.com</a> | <a href="https://www.tone3000.com/plugin">source</a> | <a href="https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/#respond">discussion</a></small></p><hr/><p>TONE 3000 has released a free, open-source plugin and standalone application powered by Neural Amp Modeler (NAM) A2 technology. The software provides access to a library of over 700,000 community-created guitar and bass captures and impulse responses (IRs). It is compatible with macOS, Windows, and Linux.</p><p>Users can run the tool within a digital audio workstation (DAW) or as a standalone application. The plugin includes an A2-Full mode for maximum sound quality and an A2-Lite mode for lower CPU consumption. It also allows users to sync favorites and custom tones through a TONE 3000 account.</p><p><img src="https://cdn.gearnews.com/wp-content/uploads/2026/03/nam_teaser-1536x848.jpg" /></p><hr/><small>2 Sep 2026, 22:28 UTC | #19954</small>]]></content>
-  </entry>
-  <entry>
-    <title>Stoic Discusses Career Evolution and Debut Album PAELLA!</title>
-    <link href="https://musictech.com/features/interviews/stoic-beats-paella/" rel="alternate" />
-    <id>https://musictech.com/features/interviews/stoic-beats-paella/::v238</id>
-    <published>2026-09-02T18:25:00+00:00</published>
-    <updated>2026-09-02T18:25:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/stoic-hero@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/features/interviews/stoic-beats-paella/">musictech.com</a></small></p><hr/><p>Matthew Moleta, known as Stoic, discusses his transition from creating "type beats" to releasing his debut solo album, PAELLA!. Having produced over 1,000 beats and contributed to Doechii's Grammy-winning album Alligator Bites Never Heal, the producer has amassed 115,000 YouTube subscribers and over 100 million streams.</p><p>Moleta maintains productivity through a disciplined nine-to-five schedule, publishing beats to YouTube three times a week. His creative process emphasizes independence, moving away from emulating established artists to focus on a signature, experimental sound.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/stoic-hero@2000x1500.jpg" /></p><hr/><small>2 Sep 2026, 22:03 UTC | #19943</small>]]></content>
-  </entry>
 </feed>

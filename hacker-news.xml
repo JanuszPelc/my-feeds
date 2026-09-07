@@ -913,13 +913,4 @@
     <media:thumbnail url="https://deepwiki.com/ublue-os/bluefin/og-image.png?page=2.1" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://h2.jaguarpaw.co.uk/posts/bluefin-capability-system/">h2.jaguarpaw.co.uk</a> | <a href="https://lobste.rs/s/v1wxh0/bluefin_is_capability_system">discussion</a></small></p><hr/><p>Bluefin, a Haskell effect system, is being reframed as a "capability system" because it uses value-level arguments to indicate the presence of effects rather than type-level constraints. This approach allows programmers to pass authority to access specific resources—such as a database or an exception mechanism—directly as arguments to functions, mirroring the behavior of traditional capability-based programming.</p><p>The shift in terminology aims to clarify Haskell's ability to circumscribe program behavior and to better communicate its utility in enforcing architectural boundaries. The author argues that this framing is particularly relevant for managing the security and design implications of increasingly prevalent AI-generated code.</p><p><img src="https://deepwiki.com/ublue-os/bluefin/og-image.png?page=2.1" /></p><hr/><small>3 Sep 2026, 08:35 UTC | #20005</small>]]></content>
   </entry>
-  <entry>
-    <title>TinyGo 0.42 Adds Recoverable Panics and Go 1.27 Support</title>
-    <link href="https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/" rel="alternate" />
-    <id>https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/::v238</id>
-    <published>2026-09-02T18:33:00+00:00</published>
-    <updated>2026-09-02T18:33:00+00:00</updated>
-    <media:thumbnail url="https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/tinygo-on-uefi.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/">tinygo.org</a> | <a href="https://github.com/tinygo-org/tinygo/releases/tag/v0.42.0">source</a> | <a href="https://lobste.rs/s/qi1bxu/tinygo_0_42_recover_is_real">discussion</a></small></p><hr/><p>TinyGo 0.42 introduces recoverable runtime panics for common errors such as nil pointer dereferences and divide-by-zero operations. This release also adds support for Go 1.27 and upgrades the compiler backend to LLVM 22.</p><p>The update includes a new UEFI target for running Go programs before an operating system loads and expands hardware support for ESP32, STM32, and several new microcontrollers. Improvements to USB functionality also enable dynamic endpoint registration and descriptors.</p><p><img src="https://tinygo.org/blog/2026/tinygo-0.42-recover-is-real/tinygo-on-uefi.png" /></p><hr/><small>2 Sep 2026, 22:45 UTC | #19975</small>]]></content>
-  </entry>
 </feed>
