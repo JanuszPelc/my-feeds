@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T13:06:00+00:00</updated>
+  <updated>2026-09-07T13:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rich Hickey Discusses Hammock Driven Development</title>
+    <link href="https://youtu.be/f84n5oFoZBc" rel="alternate" />
+    <id>https://youtu.be/f84n5oFoZBc::v238</id>
+    <published>2026-09-07T13:10:00+00:00</published>
+    <updated>2026-09-07T13:10:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/MLDwbhuNvZo/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgSihZMA8=&amp;rs=AOn4CLDfjq4_tHTQMHNWIzjPq8EiWFTaGQ" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://youtu.be/f84n5oFoZBc">youtu.be</a> | <a href="https://www.youtube.com/watch?v=f84n5oFoZBc">source</a> | <a href="https://lobste.rs/s/0htvw0/hammock_driven_development_2010">discussion</a></small></p><hr/><p>This development philosophy prioritizes deep thinking and analysis over immediate implementation to prevent costly errors. Most significant software issues arise from misconceptions about the core problem rather than implementation defects. The approach advocates for explicitly identifying problems and assessing proposed solutions against technical constraints and tradeoffs before writing code.</p><p>Stepping away from the keyboard to engage in deliberate thought allows developers to avoid the high costs of rushing into feature development. Effective problem solving is framed as a skill practiced by researching existing solutions, articulating problems clearly, and maintaining a critical stance toward one's own design decisions.</p><p><img src="https://i.ytimg.com/vi/MLDwbhuNvZo/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgSihZMA8=&rs=AOn4CLDfjq4_tHTQMHNWIzjPq8EiWFTaGQ" /></p><hr/><small>7 Sep 2026, 17:37 UTC | #20382</small>]]></content>
+  </entry>
   <entry>
     <title>Huawei Unveils Mate XT2 Triple-Fold Smartphone with In-House Chipset</title>
     <link href="https://asia.nikkei.com/business/electronics/huawei-unveils-first-triple-fold-phone-with-us-free-core-chips" rel="alternate" />
