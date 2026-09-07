@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-07T07:09:00+00:00</updated>
+  <updated>2026-09-07T10:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>User Debates Legality of Releasing AI-Decoded MIDI Data from PianoDisc Format</title>
+    <link href="https://news.ycombinator.com/item?id=49577129" rel="alternate" />
+    <id>https://news.ycombinator.com/item?id=49577129::v238</id>
+    <published>2026-09-07T10:57:00+00:00</published>
+    <updated>2026-09-07T10:57:00+00:00</updated>
+    <media:thumbnail url="https://instrumentinsight.com/wp-content/uploads/2024/02/how-much-is-a-self-playing-piano.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49577129">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49577129">hacker news</a></small></p><hr/><p>A user successfully used AI tools to decode the proprietary PianoDisc Prodigy format, which embeds MIDI data in an MP3's right channel using a 2004.5 Hz square wave. The user is seeking advice on whether they can legally release the decoded MIDI files or the reverse-engineered codec used to extract them.</p><p>The discussion explores the legality of such actions under the Digital Millennium Copyright Act (DMCA) in the US and the Digital Markets Act (DMA) in Europe. Commenters debate the risks of copyright-related cease and desist orders, the effectiveness of anonymous publishing on platforms like GitHub or Gitee, and the legal distinctions regarding software reverse engineering.</p><p><img src="https://instrumentinsight.com/wp-content/uploads/2024/02/how-much-is-a-self-playing-piano.jpg" /></p><hr/><small>7 Sep 2026, 14:26 UTC | #20363</small>]]></content>
+  </entry>
   <entry>
     <title>Switzerland Launches Pilot to Replace Microsoft 365 with Open Source Software</title>
     <link href="https://itsfoss.com/news/switzerland-replace-microssoft-pilot/" rel="alternate" />
