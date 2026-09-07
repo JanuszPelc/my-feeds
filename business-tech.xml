@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-06T20:48:00+00:00</updated>
+  <updated>2026-09-06T20:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Secures 14.8 GW of Compute Capacity Through New Agreements</title>
+    <link href="https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months" rel="alternate" />
+    <id>https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months::v238</id>
+    <published>2026-09-06T20:50:00+00:00</published>
+    <updated>2026-09-06T20:50:00+00:00</updated>
+    <media:thumbnail url="https://etimg.etb2bimg.com/photo/131217519.cms" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/anthropic-clinched-517-billion-compute-deals-11-months">theinformation.com</a></small></p><hr/><p>Anthropic has entered into agreements for at least 14.8 GW of compute capacity since October. These deals, which include partners such as SpaceX and Google, aim to meet increasing demand for the company's AI models.</p><p>The company may spend as much as $517 billion over the next decade to support this capacity. Recent partnerships, including a deal with SpaceX, have already enabled increased usage limits for Claude Code and the Claude API.</p><p><img src="https://etimg.etb2bimg.com/photo/131217519.cms" /></p><hr/><small>7 Sep 2026, 02:35 UTC | #20306</small>]]></content>
+  </entry>
   <entry>
     <title>Authors Dispute Claims by Publishers and Agents in Anthropic Settlement</title>
     <link href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/" rel="alternate" />
