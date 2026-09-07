@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-06T20:42:00+00:00</updated>
+  <updated>2026-09-06T20:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Ignoring Everything by Default in .gitignore</title>
+    <link href="https://packagemain.tech/p/gitignore-everything-by-default" rel="alternate" />
+    <id>https://packagemain.tech/p/gitignore-everything-by-default::v238</id>
+    <published>2026-09-06T20:44:00+00:00</published>
+    <updated>2026-09-06T20:44:00+00:00</updated>
+    <media:thumbnail url="https://lter.github.io/workshop-github/images/ignore/positron-04_ignore-unsaved.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://packagemain.tech/p/gitignore-everything-by-default">packagemain.tech</a> | <a href="https://news.ycombinator.com/item?id=49576258">hacker news</a></small></p><hr/><p>A "deny-all" strategy for .gitignore files involves using a wildcard to ignore all files and negation patterns to explicitly allow only essential files, such as source code, documentation, and module files. This approach ensures that only intended items are tracked in a version control system.</p><p>This method helps prevent accidental commits of local metadata, IDE-specific files, or sensitive environment variables. For debugging, the `git check-ignore -v` command can verify if a specific path is being excluded by the current rules.</p><p><img src="https://lter.github.io/workshop-github/images/ignore/positron-04_ignore-unsaved.png" /></p><hr/><small>7 Sep 2026, 00:44 UTC | #20313</small>]]></content>
+  </entry>
   <entry>
     <title>Anubis Integrates WebAssembly for Proof-of-Work Checks</title>
     <link href="https://anubis.techaro.lol/blog/2026/anubis-wasm/" rel="alternate" />
