@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-06T18:35:00+00:00</updated>
+  <updated>2026-09-06T20:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Authors Dispute Claims by Publishers and Agents in Anthropic Settlement</title>
+    <link href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/::v238</id>
+    <published>2026-09-06T20:48:00+00:00</published>
+    <updated>2026-09-06T20:48:00+00:00</updated>
+    <media:thumbnail url="https://opentools.ai/_next/image?url=https://imagedelivery.net/FCiXvK7dG4mSm_W_033WNA/3c3f3f75-d646-485d-b74d-e39ee6bce100/contentbanner&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/">techcrunch.com</a> | <a href="https://www.classaction.org/media/bartz-et-al-v-anthropic-pbc-settlement.pdf">source</a></small></p><hr/><p>Writers are reporting significant discrepancies in the distribution of the $1.5 billion copyright settlement. Specifically, publishers are allegedly claiming full payouts for books with reverted rights, and literary agencies are attempting to claim percentages despite not being legal rightsholders.</p><p>Under the settlement terms, authors are entitled to 100% of the $3,000-per-work payment for self-published titles or books with rights reverted before August 10, 2022; otherwise, payments are split 50-50 with traditional publishers. Experts attribute these discrepancies to systemic record-keeping failures within the settlement administration.</p><p><img src="https://opentools.ai/_next/image?url=https://imagedelivery.net/FCiXvK7dG4mSm_W_033WNA/3c3f3f75-d646-485d-b74d-e39ee6bce100/contentbanner&w=3840&q=75" /></p><hr/><small>7 Sep 2026, 01:59 UTC | #20309</small>]]></content>
+  </entry>
   <entry>
     <title>Google Antigravity Terms Allow Google Account Suspension for Third-Party Tool Usage</title>
     <link href="https://twitter.com/GergelyOrosz/status/2095453567955968398" rel="alternate" />
