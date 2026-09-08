@@ -968,30 +968,4 @@
     <media:thumbnail url="https://i.ytimg.com/vi/QxpG_1lv-4k/maxresdefault.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://revo.lung.fyi/">revo.lung.fyi</a> | <a href="https://github.com/if-not-nil/revo">source</a> | <a href="https://lobste.rs/s/towfrz/revo_programming_language">discussion</a></small></p><hr/><p>Revo is a dynamic programming language that emphasizes clean data flow, expression-based syntax, and explicit error handling via "errors-as-values." It features a compile-time VM, procedural macros, and a fiber system that enables non-blocking code execution.</p><p>The language is implemented in Zig and provides an optional type system for performance optimization. It includes a Language Server Protocol (LSP) implementation and syntax highlighting support for various editors, including VS Code, Neovim, and Helix.</p><p><img src="https://i.ytimg.com/vi/QxpG_1lv-4k/maxresdefault.jpg" /></p><hr/><small>3 Sep 2026, 16:44 UTC | #20044</small>]]></content>
   </entry>
-  <entry>
-    <title>BGP Hijacking Targets Virtualizor and Softaculous Infrastructure</title>
-    <link href="https://www.virtualizor.com/blog/security-incident-bgp-hijacking/" rel="alternate" />
-    <id>https://www.virtualizor.com/blog/security-incident-bgp-hijacking/::v238</id>
-    <published>2026-09-03T11:02:00+00:00</published>
-    <updated>2026-09-03T11:02:00+00:00</updated>
-    <media:thumbnail url="https://mdpi-res.com/electronics/electronics-14-04940/article_deploy/html/images/electronics-14-04940-g001.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.virtualizor.com/blog/security-incident-bgp-hijacking/">virtualizor.com</a> | <a href="https://lobste.rs/s/6e1y6s/security_incident_bgp_hijacking">discussion</a></small></p><hr/><p>A BGP hijacking attack targeted Softaculous and Virtualizor infrastructure between August 28 and August 30, 2026, diverting internet traffic to an attacker-controlled server. By announcing a more-specific route, the attacker successfully intercepted connections and obtained valid TLS certificates for the affected domains, which prevented security warnings for users whose traffic was diverted.</p><p>The incident resulted in the distribution of a malicious Virtualizor update package to a small number of installations that checked for updates during the period of routing diversion. Technical analysis of routing data shows the hijack was widely propagated, with peak diversion affecting approximately 72% of the monitored internet routing peer set.</p><p><img src="https://mdpi-res.com/electronics/electronics-14-04940/article_deploy/html/images/electronics-14-04940-g001.png" /></p><hr/><small>3 Sep 2026, 15:15 UTC | #20036</small>]]></content>
-  </entry>
-  <entry>
-    <title>Browser Main Thread Performance Optimization</title>
-    <link href="https://kciter.so/posts/the-expensive-main-thread/en/" rel="alternate" />
-    <id>https://kciter.so/posts/the-expensive-main-thread/en/::v238</id>
-    <published>2026-09-03T11:00:00+00:00</published>
-    <updated>2026-09-03T11:00:00+00:00</updated>
-    <media:thumbnail url="https://scaler.com/topics/images/multhreaded-process.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://kciter.so/posts/the-expensive-main-thread/en/">kciter.so</a> | <a href="https://news.ycombinator.com/item?id=49522137">hacker news</a></small></p><hr/><p>The browser's main thread manages both JavaScript execution and the rendering pipeline, which includes style calculation, layout, and painting. Because the browser operates on a single-threaded event loop, long-running JavaScript tasks can block the thread, preventing it from processing user input or updating the screen and causing visual stutters known as "jank."</p><p>To maintain responsiveness, developers can employ strategies such as splitting long tasks into smaller segments using `setTimeout` or `requestAnimationFrame`, batching frequent events to reduce overhead, and prioritizing or deferring non-essential work. These methods ensure the event loop has enough idle time to handle critical rendering updates and user interactions within the required frame budget.</p><p><img src="https://scaler.com/topics/images/multhreaded-process.webp" /></p><hr/><small>3 Sep 2026, 14:56 UTC | #20033</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jujutsu Version 0.45.0 Released</title>
-    <link href="https://github.com/jj-vcs/jj/releases/tag/v0.45.0" rel="alternate" />
-    <id>https://github.com/jj-vcs/jj/releases/tag/v0.45.0::v238</id>
-    <published>2026-09-03T10:58:00+00:00</published>
-    <updated>2026-09-03T10:58:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/jj-vcs/jj/releases/tag/v0.45.0">github.com</a> | <a href="https://lobste.rs/s/zudpcb/jujutsu_0_45_0">discussion</a></small></p><hr/><p>Jujutsu (jj) has released version 0.45.0, introducing the `jj converge` command to automatically resolve divergent commits through heuristics or user prompting. The update also improves `jj bisect` by notifying users when evaluation skips prevent the unambiguous identification of the first bad revision.</p><p>This release implements per-worktree tracking for the Git HEAD state to facilitate future support for multiple Git worktrees in colocated repositories. Additional changes include the introduction of a `--file` option for precise configuration management, alongside several bug fixes addressing `jj log` crashes, duplicate entries in Git indexes for colocated workspaces, and improved terminal handling for the default pager.</p><hr/><small>3 Sep 2026, 14:39 UTC | #20031</small>]]></content>
-  </entry>
 </feed>
