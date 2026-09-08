@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-08T16:28:00+00:00</updated>
+  <updated>2026-09-08T18:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>NYU Mathematician Alleges OpenAI Used Unfair Tactics on Millennium Prize Math Problem</title>
+    <link href="https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/::v238</id>
+    <published>2026-09-08T18:44:00+00:00</published>
+    <updated>2026-09-08T18:44:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ON8iB.img?w=1024&amp;h=1024&amp;m=4&amp;q=80" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/">techcrunch.com</a> | <a href="https://cims.nyu.edu/~tristanb/statement.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=49605915">hacker news</a></small></p><hr/><p>Tristan Buckmaster claims that OpenAI reached a full proof of the Navier-Stokes existence and smoothness problem—one of the seven Millennium Prize challenges—only after receiving information about his research progress. He alleges that OpenAI's team used massive computing resources to finalize the solution shortly after learning of the specific approach he and collaborator Levent Alpöge were pursuing.</p><p>OpenAI's mathematical research lead, Sebastian Bubeck, has dismissed the claims as "false and inflammatory." The controversy underscores growing ethical concerns regarding how AI developers might leverage model training data and massive compute to solve fundamental scientific problems in academia.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ON8iB.img?w=1024&h=1024&m=4&q=80" /></p><hr/><small>8 Sep 2026, 22:36 UTC | #20484</small>]]></content>
+  </entry>
   <entry>
     <title>Google Cloud and Accenture Launch Gemini Enterprise Business Group</title>
     <link href="https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628" rel="alternate" />
