@@ -564,13 +564,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot-2026-05-23-at-23-46-17.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/growl-audio-announces-availability-of-gfractor-v1-2-3-beta-68359?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68359">kvraudio.com</a> | <a href="https://growl-audio.com/plugins/gfractor#beta">source</a></small></p><hr/><p>Growl Audio has released the v1.2.3 beta of its gFractor spectrum analyzer through its preview channel. This update introduces a draggable target badge for setting loudness steps, a peak-to-RMS ratio (CREST) readout, and a per-octave stereo correlation chart utilizing 8192-point FFT.</p><p>New features include a Meters preferences tab, oscilloscope updates with a dB cursor and sidechain support, and the ability to export views as branded PNG files. The release also addresses bugs related to target curve data loading, GHOST pill state persistence, and envelope resets during channel mode switches.</p><p><img src="https://static.kvraudio.com/i/b/screenshot-2026-05-23-at-23-46-17.png" /></p><hr/><small>3 Sep 2026, 18:46 UTC | #20054</small>]]></content>
   </entry>
-  <entry>
-    <title>Denon DJ Launches PRIME 4 G2 Standalone DJ System</title>
-    <link href="https://musictech.com/news/gear/denon-dj-dj-system-prime-4-g2-mpce-pads/" rel="alternate" />
-    <id>https://musictech.com/news/gear/denon-dj-dj-system-prime-4-g2-mpce-pads/::v238</id>
-    <published>2026-09-03T15:15:00+00:00</published>
-    <updated>2026-09-03T15:15:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/denon-dj-prime-4-g2@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/denon-dj-dj-system-prime-4-g2-mpce-pads/">musictech.com</a> | <a href="https://www.denondj.com/prime-4-g2.html">source</a></small></p><hr/><p>Denon DJ has released the PRIME 4 G2, a standalone 4-channel DJ system featuring new MPCe multi-zone performance pads. These 16 velocity- and pressure-sensitive pads use 3D-sensing technology to allow multiple functions—including Hot Cues, Stems, Rolls, and FX—to be controlled from a single pad.</p><p>The hardware features an 8-core ARM processor, 4GB of RAM, 8-inch jog wheels with LED displays, and a 10.1-inch HD multi-touch display. The system includes integrated DMX lighting control and OmniSource architecture, providing compatibility with Serato DJ Pro, Algoriddim djay, and VirtualDJ.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/denon-dj-prime-4-g2@2000x1500.jpg" /></p><hr/><small>3 Sep 2026, 18:45 UTC | #20027</small>]]></content>
-  </entry>
 </feed>
