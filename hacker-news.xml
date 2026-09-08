@@ -3,9 +3,36 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-08T10:55:00+00:00</updated>
+  <updated>2026-09-08T14:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Obtaining a Free .arpa Domain via IPv6 Reverse DNS</title>
+    <link href="https://hawksley.dev/blog/get-free-arpa-domain" rel="alternate" />
+    <id>https://hawksley.dev/blog/get-free-arpa-domain::v238</id>
+    <published>2026-09-08T14:20:00+00:00</published>
+    <updated>2026-09-08T14:20:00+00:00</updated>
+    <media:thumbnail url="https://hawksley.dev/_astro/tunnelbroker-home-page.mx5KsiaF_Z1G2cyT.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hawksley.dev/blog/get-free-arpa-domain">hawksley.dev</a> | <a href="https://lobste.rs/s/eu78rh/how_get_free_arpa_domain">discussion</a> | <a href="https://news.ycombinator.com/item?id=49515558">hacker news</a></small></p><hr/><p>This guide outlines a method to host a website using the .arpa top-level domain by leveraging the ip6.arpa reverse DNS scheme. While .arpa is typically reserved for critical internet infrastructure, the ip6.arpa mechanism allows users to map IPv6 addresses to domain names.</p><p>To achieve this, the process involves obtaining a routed IPv6 prefix from Hurricane Electric's Tunnelbroker, configuring DNS records via deSEC, and deploying content using Surge. This approach provides a way to secure a functional domain on a TLD not typically open to the public.</p><p><img src="https://hawksley.dev/_astro/tunnelbroker-home-page.mx5KsiaF_Z1G2cyT.jpeg" /></p><hr/><small>8 Sep 2026, 17:30 UTC | #20479</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ladybird Browser Adds Video Playback and New Style Engine</title>
+    <link href="https://ladybird.org/newsletter/2026-08-31/" rel="alternate" />
+    <id>https://ladybird.org/newsletter/2026-08-31/::v238</id>
+    <published>2026-09-08T14:19:00+00:00</published>
+    <updated>2026-09-08T14:19:00+00:00</updated>
+    <media:thumbnail url="https://ladybird.org/assets/img/newsletter-aug-2026-debugger.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ladybird.org/newsletter/2026-08-31/">ladybird.org</a> | <a href="https://lobste.rs/s/npyzwy/this_month_ladybird_august_2026">discussion</a> | <a href="https://news.ycombinator.com/item?id=49571096">hacker news</a></small></p><hr/><p>Ladybird Browser has added support for Media Source Extensions, allowing video playback on platforms such as Twitch and YouTube. Other major updates include CSS scroll snap, JavaScript debugging in DevTools, improved download and session management, and various UI and compatibility fixes.</p><p>Performance was enhanced through a new incremental style engine and layout caching mechanisms designed to optimize rendering. These technical improvements have contributed to measurable increases in the browser's Speedometer and StyleBench benchmark scores.</p><p><img src="https://ladybird.org/assets/img/newsletter-aug-2026-debugger.png" /></p><hr/><small>8 Sep 2026, 17:29 UTC | #20471</small>]]></content>
+  </entry>
+  <entry>
+    <title>Password Manager Data Interoperability and Switching Guide</title>
+    <link href="https://rmondello.com/2026/09/07/switching-password-managers-2026/" rel="alternate" />
+    <id>https://rmondello.com/2026/09/07/switching-password-managers-2026/::v238</id>
+    <published>2026-09-08T14:18:00+00:00</published>
+    <updated>2026-09-08T14:18:00+00:00</updated>
+    <media:thumbnail url="https://www.oneidentity.com/images/patterns/text-image/fido-authentication-work.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rmondello.com/2026/09/07/switching-password-managers-2026/">rmondello.com</a> | <a href="https://lobste.rs/s/ikzvtv/switching_password_managers_2026">discussion</a></small></p><hr/><p>iOS and macOS support secure, direct transfer of credentials—including passwords, passkeys, and verification codes—between compatible password manager apps via the FIDO Alliance's Credential Exchange (CX) standard. This system-facilitated mechanism uses biometric authentication to move data directly between applications, eliminating the security risks associated with manually exporting unencrypted files.</p><p>Effective password manager migration involves performing bulk transfers on current devices before upgrading hardware and treating the original application as a temporary safety net. Users can also use the transition to audit credentials, such as upgrading to passkeys or updating weak passwords, while ensuring AutoFill settings are correctly configured to avoid duplicate suggestions.</p><p><img src="https://www.oneidentity.com/images/patterns/text-image/fido-authentication-work.jpg" /></p><hr/><small>8 Sep 2026, 17:27 UTC | #20469</small>]]></content>
+  </entry>
   <entry>
     <title>Extreme Server-Side Rendering Enables Dynamic Web Apps Without Client-Side JavaScript</title>
     <link href="https://www.scd31.com/posts/extreme-server-side-rendering" rel="alternate" />

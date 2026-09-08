@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-08T14:11:00+00:00</updated>
+  <updated>2026-09-08T14:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Samsung, TSMC, and Intel to Adopt ASML High NA EUV and 12-Inch Photomasks</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-08/asml-tsmc-samsung-intel-back-12-inch-masks-for-ai-chips" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-08/asml-tsmc-samsung-intel-back-12-inch-masks-for-ai-chips::v238</id>
+    <published>2026-09-08T14:17:00+00:00</published>
+    <updated>2026-09-08T14:17:00+00:00</updated>
+    <media:thumbnail url="https://cdn.wccftech.com/wp-content/uploads/2024/10/ASML.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-08/asml-tsmc-samsung-intel-back-12-inch-masks-for-ai-chips">bloomberg.com</a> | <a href="https://www.asml.com/en/news/press-releases/2026/tsmc-and-asml-announce-industry-transition-to-large-format-photomasks-for-high-na-euv">source</a></small></p><hr/><p>Samsung, TSMC, and Intel have committed to adopting ASML's High Numerical Aperture (High NA) EUV lithography machines for advanced semiconductor production. This transition includes a move from 6-inch to 12-inch photomasks to maximize the capabilities of the new technology. Samsung expects to implement the equipment by 2028, while TSMC targets 2030.</p><p>The industry-wide shift aims to optimize the manufacturing of next-generation AI and high-performance computing chips. An initiative involving these companies seeks to establish a 12-inch mask pilot line by 2031, with full lithography system readiness for advanced node production targeted for 2033.</p><p><img src="https://cdn.wccftech.com/wp-content/uploads/2024/10/ASML.jpeg" /></p><hr/><small>8 Sep 2026, 17:24 UTC | #20429</small>]]></content>
+  </entry>
+  <entry>
+    <title>DeepSeek to Hire 150 Engineers to Overhaul Backend Systems</title>
+    <link href="https://www.scmp.com/tech/big-tech/article/3366740/deepseek-embarks-unprecedented-hiring-spree-it-overhauls-backend-systems" rel="alternate" />
+    <id>https://www.scmp.com/tech/big-tech/article/3366740/deepseek-embarks-unprecedented-hiring-spree-it-overhauls-backend-systems::v238</id>
+    <published>2026-09-08T14:16:00+00:00</published>
+    <updated>2026-09-08T14:16:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQFWPTDUjpFgqw/feedshare-shrink_800/B56ZyKCYC6HgAg-/0/1771842404831?e=2147483647&amp;v=beta&amp;t=VRHSePVrhL1srnLrwvOOzBWpfsSTJqnhX4qIrPSg6Ho" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.scmp.com/tech/big-tech/article/3366740/deepseek-embarks-unprecedented-hiring-spree-it-overhauls-backend-systems">scmp.com</a></small></p><hr/><p>DeepSeek is recruiting approximately 150 senior backend engineers to upgrade its infrastructure. The expansion aims to address system strain caused by surges in data volumes, machine numbers, training workloads, and active user counts.</p><p>The move marks a strategic shift as the Hangzhou-based startup matures from a research entity into a high-volume commercial platform. This expansion follows recent plans to double the size of several departments to support the delivery of enterprise-grade AI services.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQFWPTDUjpFgqw/feedshare-shrink_800/B56ZyKCYC6HgAg-/0/1771842404831?e=2147483647&v=beta&t=VRHSePVrhL1srnLrwvOOzBWpfsSTJqnhX4qIrPSg6Ho" /></p><hr/><small>8 Sep 2026, 17:22 UTC | #20430</small>]]></content>
+  </entry>
   <entry>
     <title>Tech Companies Target Argentina's Patagonia for Massive Data Centers</title>
     <link href="https://www.reuters.com/business/energy/tech-companies-look-argentinas-windswept-patagonia-build-massive-data-centers-2026-09-07/" rel="alternate" />
