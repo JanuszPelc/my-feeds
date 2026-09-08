@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-08T18:42:00+00:00</updated>
+  <updated>2026-09-08T18:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>EA Sports Reportedly Using Generative AI for NHL 27 Voiceover</title>
+    <link href="https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator::v238</id>
+    <published>2026-09-08T18:47:00+00:00</published>
+    <updated>2026-09-08T18:47:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt079cb2c6910544ff/6aa03816be8d741675b4d3d6/New_Project(35).png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator">gamedeveloper.com</a> | <a href="https://nordic.ign.com/nhl-27/112507/nhl-27-is-using-ai-generated-voiceover-for-in-game-commentators-john-buccigross-says">source</a></small></p><hr/><p>Sports commentator John Buccigross claims that EA Sports is utilizing generative AI to create voiceover for in-game commentary in the upcoming professional hockey simulator NHL 27. During an appearance on the Chirpin Zebras podcast, Buccigross stated that while the technology is impressive, it still requires human intervention to correct semantic errors, such as using "chairs" instead of "seats."</p><p>This development aligns with a long-term strategy by EA CEO Andrew Wilson to integrate generative AI into core development processes. The company has previously partnered with Stability AI to co-develop tools and workflows aimed at reimagining content creation.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt079cb2c6910544ff/6aa03816be8d741675b4d3d6/New_Project(35).png?width=720&quality=80&disable=upscale" /></p><hr/><small>8 Sep 2026, 23:04 UTC | #20487</small>]]></content>
+  </entry>
   <entry>
     <title>Tim Schafer Discusses Double Fine's Business Strategy and Independence from Xbox</title>
     <link href="https://www.gamedeveloper.com/business/tim-schafer-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money" rel="alternate" />
