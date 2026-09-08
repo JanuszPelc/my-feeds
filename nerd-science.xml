@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-07T19:40:00+00:00</updated>
+  <updated>2026-09-08T05:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>The Personal and Security Implications of a Unified Nix Configuration</title>
+    <link href="https://www.scd31.com/posts/nix-files-are-intimate" rel="alternate" />
+    <id>https://www.scd31.com/posts/nix-files-are-intimate::v238</id>
+    <published>2026-09-08T05:24:00+00:00</published>
+    <updated>2026-09-08T05:24:00+00:00</updated>
+    <media:thumbnail url="https://image.slidesharecdn.com/slides-linuxday-2025-nixos-for-human-beings-251025212933-7daf7aaa/75/Linux-Day-Prato-2025-NixOS-spiegato-ammiocuggino-NixOS-for-Human-Beings-11-2048.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.scd31.com/posts/nix-files-are-intimate">scd31.com</a> | <a href="https://lobste.rs/s/aepn8g/my_nix_config_is_intimate">discussion</a></small></p><hr/><p>A unified Nix configuration enables highly consistent, deduplicated system environments across various machines, including desktops, laptops, and servers. This approach facilitates rapid deployment through the use of custom NixOS images and PXE network booting.</p><p>These configurations are often kept in private repositories to mitigate security risks, such as network mapping, and to protect personal contact information. Beyond security, the files serve as an intimate "render of the brain," encoding highly individualistic idiosyncrasies, social connections, and personal histories.</p><p><img src="https://image.slidesharecdn.com/slides-linuxday-2025-nixos-for-human-beings-251025212933-7daf7aaa/75/Linux-Day-Prato-2025-NixOS-spiegato-ammiocuggino-NixOS-for-Human-Beings-11-2048.jpg" /></p><hr/><small>8 Sep 2026, 10:24 UTC | #20428</small>]]></content>
+  </entry>
   <entry>
     <title>Programming as an Artistic Pursuit vs. Utility</title>
     <link href="https://orchidfiles.com/programming-is-art/" rel="alternate" />
