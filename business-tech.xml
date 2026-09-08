@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-08T14:09:00+00:00</updated>
+  <updated>2026-09-08T14:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Tech Companies Target Argentina's Patagonia for Massive Data Centers</title>
+    <link href="https://www.reuters.com/business/energy/tech-companies-look-argentinas-windswept-patagonia-build-massive-data-centers-2026-09-07/" rel="alternate" />
+    <id>https://www.reuters.com/business/energy/tech-companies-look-argentinas-windswept-patagonia-build-massive-data-centers-2026-09-07/::v238</id>
+    <published>2026-09-08T14:11:00+00:00</published>
+    <updated>2026-09-08T14:11:00+00:00</updated>
+    <media:thumbnail url="https://www.adventuresincre.com/wp-content/uploads/2025/12/An-aerial-view-of-a-hyperscale-data-center-development-site-located-in-a-desert-landscape-inspired-by-Mesa-Arizona.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/energy/tech-companies-look-argentinas-windswept-patagonia-build-massive-data-centers-2026-09-07/">reuters.com</a></small></p><hr/><p>Hyperscalers and data center developers are targeting Argentina's Patagonia region for large-scale infrastructure projects. The area's cold climate, expansive unpopulated land, and access to renewable energy and shale gas offer significant advantages for high-capacity server farms.</p><p>Pampa Energía has proposed a 500MW site in Neuquén near the Loma de la Lata thermal power plant. Additionally, Argentina's communications agency intends to create a second fiber-optic cable landing station to improve regional connectivity for the area's growing data center industry.</p><p><img src="https://www.adventuresincre.com/wp-content/uploads/2025/12/An-aerial-view-of-a-hyperscale-data-center-development-site-located-in-a-desert-landscape-inspired-by-Mesa-Arizona.jpg" /></p><hr/><small>8 Sep 2026, 16:02 UTC | #20422</small>]]></content>
+  </entry>
   <entry>
     <title>Jonathan Zeller Satirizes Return-to-Office Mandates and AI Integration</title>
     <link href="https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person" rel="alternate" />
