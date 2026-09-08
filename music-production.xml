@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-08T16:14:00+00:00</updated>
+  <updated>2026-09-08T18:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Toontrack Releases Session Legend EBX for EZbass</title>
+    <link href="https://www.kvraudio.com/news/toontrack-releases-session-legend-ebx---ezbass-expansion-68438?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68438" rel="alternate" />
+    <id>https://www.kvraudio.com/news/toontrack-releases-session-legend-ebx---ezbass-expansion-68438?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68438::v238</id>
+    <published>2026-09-08T18:48:00+00:00</published>
+    <updated>2026-09-08T18:48:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/tt762_sessionlegendebx_top-image.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/toontrack-releases-session-legend-ebx---ezbass-expansion-68438?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68438">kvraudio.com</a> | <a href="https://www.toontrack.com/product/session-legend-ebx/">source</a></small></p><hr/><p>Toontrack has released Session Legend EBX, the 20th expansion for the EZbass virtual instrument. The library is built around a sampled four-string bass from the mid-1980s, designed to provide a versatile tone suitable for genres ranging from classic to modern rock.</p><p>The expansion includes 20 mix-ready presets and a custom MIDI library. It features finger and pick sampling with slap and palm mute articulations, covering a pitch range from B0 to E4, and is priced at $89.</p><p><img src="https://static.kvraudio.com/i/b/tt762_sessionlegendebx_top-image.png" /></p><hr/><small>8 Sep 2026, 23:15 UTC | #20489</small>]]></content>
+  </entry>
   <entry>
     <title>BS-203 MacroAcidizer Giveaway Announced by Bedroom Producers Blog</title>
     <link href="https://bedroomproducersblog.com/2026/09/08/bs-203-macroacidizer-giveaway/" rel="alternate" />
