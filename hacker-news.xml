@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T18:53:00+00:00</updated>
+  <updated>2026-09-07T19:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ovlive Provides Real-Time Public Transport Tracking in Belgium</title>
+    <link href="https://openbaarvervoerbelgie.be/" rel="alternate" />
+    <id>https://openbaarvervoerbelgie.be/::v238</id>
+    <published>2026-09-07T19:38:00+00:00</published>
+    <updated>2026-09-07T19:38:00+00:00</updated>
+    <media:thumbnail url="https://maps-brussels.com/img/0/brussels-transport-map.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://openbaarvervoerbelgie.be/">openbaarvervoerbelgie.be</a> | <a href="https://news.ycombinator.com/item?id=49595865">hacker news</a></small></p><hr/><p>An interactive live map provides real-time tracking for bus, tram, metro, and train services across Belgium. It aggregates data from De Lijn, STIB-MIVB, TEC, and NMBS, allowing users to monitor vehicle locations, stops, and departure delays.</p><p>The platform supports regional navigation, including dedicated views for Brussels, Antwerp, and various other provinces. By unifying data from multiple transport operators, the service provides a consolidated overview of the Belgian transit network.</p><p><img src="https://maps-brussels.com/img/0/brussels-transport-map.jpg" /></p><hr/><small>8 Sep 2026, 01:14 UTC | #20404</small>]]></content>
+  </entry>
   <entry>
     <title>Lax Skyline Visualizes Surviving Buildings in Los Angeles</title>
     <link href="https://lax-skyline.parcelscope.net/" rel="alternate" />
