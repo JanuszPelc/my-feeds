@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-08T05:20:00+00:00</updated>
+  <updated>2026-09-08T07:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Huawei Invests in Chinese Lithography to Reduce Foreign Reliance</title>
+    <link href="https://www.ft.com/content/36333a53-4063-4aad-8df9-8d2f9d0048a3" rel="alternate" />
+    <id>https://www.ft.com/content/36333a53-4063-4aad-8df9-8d2f9d0048a3::v238</id>
+    <published>2026-09-08T07:22:00+00:00</published>
+    <updated>2026-09-08T07:22:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpQJ7-eM8w_wF6tG9Cx6FyqGEYy5KUThwmyhfuLZ0J8at5NkFrvrsy6OpGqQJy_bWcAnZWdGWEOJeP3ArdYQ06B5okawvGnOFLfjkqdR5TFzGdzBAfJDGQqSDvcTP0_WXV2ir6um2IIY2gB-6oqcMHz5J7nLtYjO6yeOi0nZIqcmehEnIl65bNsHo_Nik/s1238/h2.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/36333a53-4063-4aad-8df9-8d2f9d0048a3">ft.com</a></small></p><hr/><p>The tech giant is funding Chinese lithography firms and facilitating deals with fabrication plants like SMIC to build a domestic supply chain. These efforts focus on securing components for deep ultraviolet (DUV) lithography machines to circumvent international export controls.</p><p>By serving a "project management" role, Huawei is coordinating the production of specialized equipment needed for semiconductor manufacturing. This strategy aims to bolster China's self-reliance in chip production amidst increasing global trade restrictions.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpQJ7-eM8w_wF6tG9Cx6FyqGEYy5KUThwmyhfuLZ0J8at5NkFrvrsy6OpGqQJy_bWcAnZWdGWEOJeP3ArdYQ06B5okawvGnOFLfjkqdR5TFzGdzBAfJDGQqSDvcTP0_WXV2ir6um2IIY2gB-6oqcMHz5J7nLtYjO6yeOi0nZIqcmehEnIl65bNsHo_Nik/s1238/h2.jpg" /></p><hr/><small>8 Sep 2026, 11:46 UTC | #20407</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Abandons $6 Billion Acquisition of Decart AI</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition" rel="alternate" />
