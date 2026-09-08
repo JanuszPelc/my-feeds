@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-08T14:17:00+00:00</updated>
+  <updated>2026-09-08T14:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>China Targets 9,800 Eflops of AI Computing Capacity by 2030</title>
+    <link href="https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push" rel="alternate" />
+    <id>https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push::v238</id>
+    <published>2026-09-08T14:25:00+00:00</published>
+    <updated>2026-09-08T14:25:00+00:00</updated>
+    <media:thumbnail url="https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2026/09/08/5885fb05-663a-4cce-b868-a97d73ddf464_b2691e27.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push">scmp.com</a> | <a href="https://english.news.cn/20260908/c9ada2e0a5124c44a0c17c9ae70fb2c7/c.html">source</a></small></p><hr/><p>China's Ministry of Industry and Information Technology (MIIT) has set a target of 9,800 eflops of intelligent computing capacity by 2030. The initiative involves 3.8 trillion yuan ($532 billion) in cumulative information infrastructure investment through 2030 and the deployment of massive computing clusters featuring up to 100,000 accelerator cards, with a focus on domestic chip compatibility.</p><p>This goal requires more than a fourfold increase from the approximately 2,450 eflops capacity reported in July. The expansion supports the "East Data, West Computing" project, which aims to redistribute power-intensive computing workloads from China's densely populated eastern regions to western areas with lower energy and land costs.</p><p><img src="https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2026/09/08/5885fb05-663a-4cce-b868-a97d73ddf464_b2691e27.jpg" /></p><hr/><small>8 Sep 2026, 18:07 UTC | #20433</small>]]></content>
+  </entry>
   <entry>
     <title>Samsung, TSMC, and Intel to Adopt ASML High NA EUV and 12-Inch Photomasks</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-08/asml-tsmc-samsung-intel-back-12-inch-masks-for-ai-chips" rel="alternate" />
