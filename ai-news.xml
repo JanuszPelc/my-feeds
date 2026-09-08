@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-08T16:11:00+00:00</updated>
+  <updated>2026-09-08T18:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Releases ChatGPT Images 2.5</title>
+    <link href="https://openai.com/index/introducing-chatgpt-images-2-5/" rel="alternate" />
+    <id>https://openai.com/index/introducing-chatgpt-images-2-5/::v238</id>
+    <published>2026-09-08T18:38:00+00:00</published>
+    <updated>2026-09-08T18:38:00+00:00</updated>
+    <media:thumbnail url="https://images.ctfassets.net/kftzwdyauwt9/1oUEzmNEwhlktfQMqWLwTO/cde41dc57991caa0d6b22b35b2d8c70c/80s-headshot.png?w=3840&amp;q=90&amp;fm=webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://openai.com/index/introducing-chatgpt-images-2-5/">openai.com</a> | <a href="https://openai.com/index/introducing-chatgpt-images-2.5/">source</a> | <a href="https://news.ycombinator.com/item?id=49614720">hacker news</a></small></p><hr/><p>OpenAI has released ChatGPT Images 2.5, a model update that improves subject preservation, texture rendering, and lighting consistency. The new version reduces image generation latency by up to 50% compared to version 2.0 and enhances the model's ability to follow complex, multi-turn editing instructions.</p><p>ChatGPT users gain access to "Sketch," a feature for using drawings as visual guides, as well as new design templates and prompt-sharing options. For developers, the API now includes two new models: GPT-Image-2.5 Flare, optimized for speed and efficiency, and GPT-Image-2.5 Sunburst, designed for high-precision, detailed creative tasks.</p><p><img src="https://images.ctfassets.net/kftzwdyauwt9/1oUEzmNEwhlktfQMqWLwTO/cde41dc57991caa0d6b22b35b2d8c70c/80s-headshot.png?w=3840&q=90&fm=webp" /></p><hr/><small>8 Sep 2026, 21:47 UTC | #20508</small>]]></content>
+  </entry>
   <entry>
     <title>Jacob Tsimerman Launches Mathematical AI Safety Institute</title>
     <link href="https://www.nytimes.com/2026/09/08/science/jacob-tsimerman-math-ai-safety.html?unlocked_article_code=1._lA.fyIA.4SWeUMzEQZAp&amp;smid=url-share" rel="alternate" />
