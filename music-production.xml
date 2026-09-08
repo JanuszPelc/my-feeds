@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-07T17:06:00+00:00</updated>
+  <updated>2026-09-07T19:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>apulSoft Updates splitS to v1.1.3</title>
+    <link href="https://www.kvraudio.com/news/apulsoft-updates-splits-to-v1-1-3-68418?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68418" rel="alternate" />
+    <id>https://www.kvraudio.com/news/apulsoft-updates-splits-to-v1-1-3-68418?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68418::v238</id>
+    <published>2026-09-07T19:35:00+00:00</published>
+    <updated>2026-09-07T19:35:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/plug2x.1759410764.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/apulsoft-updates-splits-to-v1-1-3-68418?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68418">kvraudio.com</a> | <a href="https://apulsoft.ch/splits">source</a></small></p><hr/><p>apulSoft has released version 1.1.3 of splitS, a plugin designed to manage sibilance in vocal tracks by separating them into sibilant and non-sibilant components.</p><p>This update introduces VST3 support for Linux, improves compatibility with macOS 26 Tahoe, and implements smoother waveform scrolling on Apple Silicon hardware.</p><p><img src="https://static.kvraudio.com/i/b/plug2x.1759410764.png" /></p><hr/><small>8 Sep 2026, 00:47 UTC | #20397</small>]]></content>
+  </entry>
   <entry>
     <title>MKS Mixing Releases AutomatIR Impulse Response Auditioning Plugin</title>
     <link href="https://www.kvraudio.com/news/mks-mixing-releases-automatir---automatic-impulse-response-auditioning-plugin-for-windows-vst3-68411?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68411" rel="alternate" />
