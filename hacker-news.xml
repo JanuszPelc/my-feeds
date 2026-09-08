@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-08T05:16:00+00:00</updated>
+  <updated>2026-09-08T07:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>European and American Cloud Providers Compared</title>
+    <link href="https://crescentro.se/posts/euro-cloud-providers-2026/" rel="alternate" />
+    <id>https://crescentro.se/posts/euro-cloud-providers-2026/::v238</id>
+    <published>2026-09-08T07:21:00+00:00</published>
+    <updated>2026-09-08T07:21:00+00:00</updated>
+    <media:thumbnail url="https://dgtlinfra.com/wp-content/uploads/2022/06/Top-10-Cloud-Service-Providers-Globally-in-2022-1536x953.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://crescentro.se/posts/euro-cloud-providers-2026/">crescentro.se</a> | <a href="https://lobste.rs/s/6licoy/state_european_cloud_providers_2026">discussion</a></small></p><hr/><p>An assessment of European cloud providers—including Hetzner, OVH, Scaleway, UpCloud, and Leafcloud—compared to American alternatives like Vultr and DigitalOcean. The evaluation examines pricing, CPU performance using Geekbench benchmarks, deployment ease, and billing models across various budget and high-performance tiers.</p><p>Results show significant discrepancies between advertised and actual hardware, such as differences in CPU architectures and performance. The review also identifies operational friction, including complex user interfaces, rigid subscription requirements, and inconsistent network performance.</p><p><img src="https://dgtlinfra.com/wp-content/uploads/2022/06/Top-10-Cloud-Service-Providers-Globally-in-2022-1536x953.jpg" /></p><hr/><small>8 Sep 2026, 10:43 UTC | #20431</small>]]></content>
+  </entry>
   <entry>
     <title>TALA Layout Engine Becomes Open-Source</title>
     <link href="https://d2lang.com/blog/tala-is-open-source/" rel="alternate" />

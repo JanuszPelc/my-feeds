@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-08T05:23:00+00:00</updated>
+  <updated>2026-09-08T05:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Scrap Brain Audio Releases WX 1.1 Update</title>
+    <link href="https://www.kvraudio.com/news/scrap-brain-audio-updates-wx-randomization-driven-synthesizer-to-v1-1-68420?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68420" rel="alternate" />
+    <id>https://www.kvraudio.com/news/scrap-brain-audio-updates-wx-randomization-driven-synthesizer-to-v1-1-68420?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68420::v238</id>
+    <published>2026-09-08T05:25:00+00:00</published>
+    <updated>2026-09-08T05:25:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/wxupdatenews.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/scrap-brain-audio-updates-wx-randomization-driven-synthesizer-to-v1-1-68420?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68420">kvraudio.com</a> | <a href="https://scrapbrainaudio.com/wx">source</a></small></p><hr/><p>Version 1.1 of the WX synthesizer from Scrap Brain Audio introduces native macOS support for Apple Silicon and Intel-based Macs. The update includes universal binaries in AU v2, VST3, and standalone formats.</p><p>Technical improvements include the addition of an LFO and a dedicated filter envelope for enhanced modulation control. The update also addresses audio stability issues like buffer dropouts and playback stalls, and fixes DAW compatibility errors related to host memory synchronization and window-close freezes.</p><p><img src="https://static.kvraudio.com/i/b/wxupdatenews.jpg" /></p><hr/><small>8 Sep 2026, 10:40 UTC | #20427</small>]]></content>
+  </entry>
   <entry>
     <title>Kengo Ichiki Updates WaoN Music Transcriber to Version 1.1.0</title>
     <link href="https://www.kvraudio.com/news/kengo-ichiki-updates-to-v1-1-0-with-pitch-range-note-editing-68423?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68423" rel="alternate" />
