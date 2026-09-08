@@ -3,9 +3,17 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-08T18:48:00+00:00</updated>
+  <updated>2026-09-08T18:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Septabee Free DAW Released for Windows and Linux</title>
+    <link href="https://bedroomproducersblog.com/2026/09/08/septabee-daw/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/08/septabee-daw/::v238</id>
+    <published>2026-09-08T18:50:00+00:00</published>
+    <updated>2026-09-08T18:50:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/08/septabee-daw/">bedroomproducersblog.com</a> | <a href="https://septabee.nekoweb.org/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/08/septabee-daw/#respond">discussion</a></small></p><hr/><p>Lost Robot has released Septabee, a free experimental Digital Audio Workstation (DAW) compatible with Windows and Linux. Described by the developer as "violently unfinished," the software is the result of five years and approximately 20,000 hours of development.</p><p>Septabee focuses on experimental sound design, providing users with tools to create custom synthesizers and effects. The DAW is designed to offer unconventional workflows compared to established free DAW options.</p><hr/><small>8 Sep 2026, 23:53 UTC | #20501</small>]]></content>
+  </entry>
   <entry>
     <title>Toontrack Releases Session Legend EBX for EZbass</title>
     <link href="https://www.kvraudio.com/news/toontrack-releases-session-legend-ebx---ezbass-expansion-68438?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68438" rel="alternate" />
