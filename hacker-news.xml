@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-08T16:29:00+00:00</updated>
+  <updated>2026-09-08T18:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>i-have-adhd Plugin Optimizes Coding Agent Responses for Scannability</title>
+    <link href="https://github.com/ayghri/i-have-adhd" rel="alternate" />
+    <id>https://github.com/ayghri/i-have-adhd::v238</id>
+    <published>2026-09-08T18:43:00+00:00</published>
+    <updated>2026-09-08T18:43:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/68e95d95ecae26885bafdfde_81805a2d45f087f2cc153168759f8bf015706b04-1920x1035.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/ayghri/i-have-adhd">github.com</a> | <a href="https://news.ycombinator.com/item?id=49610631">hacker news</a></small></p><hr/><p>The i-have-adhd plugin is a tool for coding assistants designed to produce highly scannable, action-oriented outputs. It enforces a strict structure by prioritizing immediate actions, using numbered steps, and eliminating conversational filler such as preambles or concluding pleasantries.</p><p>The plugin follows ten specific rules, including capping lists at five items and providing specific time estimates for tasks. It is intended to prevent AI models from obscuring solutions within lengthy explanations, facilitating a more efficient workflow for developers using tools like Claude Code.</p><p><img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/68e95d95ecae26885bafdfde_81805a2d45f087f2cc153168759f8bf015706b04-1920x1035.png" /></p><hr/><small>8 Sep 2026, 22:23 UTC | #20512</small>]]></content>
+  </entry>
   <entry>
     <title>Sony Launches WH-1000XM4C, WH-CH730N, and WH-CH530 Headphones</title>
     <link href="https://musictech.com/news/gear/sony-wireless-headphones-wh-1000xm4c/" rel="alternate" />
