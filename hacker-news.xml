@@ -959,22 +959,4 @@
     <media:thumbnail url="https://website-assets.studocu.com/img/document_thumbnails/2e4131a9fbf6d305e6d268f23128f567/thumb_1200_1553.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.gingerbill.org/article/2026/09/02/ctti-is-exponential-rtti-is-linear/">gingerbill.org</a> | <a href="https://lobste.rs/s/mj9qti/ctti_is_exponential_rtti_is_linear">discussion</a> | <a href="https://news.ycombinator.com/item?id=49546528">hacker news</a></small></p><hr/><p>Compile-Time Type Information (CTTI) incurs exponential costs in semantic checking, code generation, and binary size due to the combinatorial explosion of type instantiations. In contrast, Runtime Type Information (RTTI) scales linearly with the number of types and maintains constant code size for handling procedures, providing a predictable and measurable cost.</p><p>The author argues that the "zero-cost" label for CTTI is misleading, as it hides significant build-time inflation and binary bloat. By utilizing RTTI, as in the Odin programming language, designers can adopt a data-driven approach that maintains coherency across library boundaries and avoids the complexity associated with massive monomorphized codebases.</p><p><img src="https://website-assets.studocu.com/img/document_thumbnails/2e4131a9fbf6d305e6d268f23128f567/thumb_1200_1553.png" /></p><hr/><small>3 Sep 2026, 20:03 UTC | #20072</small>]]></content>
   </entry>
-  <entry>
-    <title>TrendForce Predicts 400% Increase in iPhone 18 Pro Memory Costs</title>
-    <link href="https://9to5mac.com/2026/09/03/apple-paying-400-more-for-iphone-18-pro-memory-says-trendforce/" rel="alternate" />
-    <id>https://9to5mac.com/2026/09/03/apple-paying-400-more-for-iphone-18-pro-memory-says-trendforce/::v238</id>
-    <published>2026-09-03T15:27:00+00:00</published>
-    <updated>2026-09-03T15:27:00+00:00</updated>
-    <media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&amp;strip=all&amp;w=1600" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5mac.com/2026/09/03/apple-paying-400-more-for-iphone-18-pro-memory-says-trendforce/">9to5mac.com</a> | <a href="https://www.trendforce.com/presscenter/news/20260903-13213.html">source</a></small></p><hr/><p>TrendForce reports that Apple's memory costs for the 256GB iPhone 18 Pro model are expected to increase nearly 400% in the third quarter of 2026 compared to the previous year. This surge in component pricing is projected to significantly impact the device's overall bill of materials, potentially leading to retail price increases of approximately $100.</p><p>While Apple may attempt to offset manufacturing costs through Services revenue, analysts suggest that retail hikes may be unavoidable due to cautious consumer spending in a weak macroeconomic environment. Additionally, reports suggest Apple's upcoming folding model, the iPhone Ultra, could feature starting prices as high as $2,299.</p><p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&w=1600" /></p><hr/><small>3 Sep 2026, 19:34 UTC | #20022</small>]]></content>
-  </entry>
-  <entry>
-    <title>HTML Viewport Meta Tags No Longer Require Initial-Scale</title>
-    <link href="https://vale.rocks/micros/20260902-1350" rel="alternate" />
-    <id>https://vale.rocks/micros/20260902-1350::v238</id>
-    <published>2026-09-03T15:21:00+00:00</published>
-    <updated>2026-09-03T15:21:00+00:00</updated>
-    <media:thumbnail url="https://i.sstatic.net/bAzG0.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vale.rocks/micros/20260902-1350">vale.rocks</a> | <a href="https://lobste.rs/s/if60bl/you_don_t_need_initial_scale_your_html">discussion</a></small></p><hr/><p>The `initial-scale=1.0` property within the HTML viewport meta tag is no longer required for modern web browsers. Previously used to prevent unintended zooming in older mobile browsers, the property can now be omitted in favor of the `width=device-width` declaration.</p><p>This parameter served as a workaround for mobile browsing issues during the transition to responsive web design. Because the browser behaviors that necessitated the property have been resolved, omitting it reduces document overhead.</p><p><img src="https://i.sstatic.net/bAzG0.png" /></p><hr/><small>3 Sep 2026, 19:04 UTC | #20060</small>]]></content>
-  </entry>
 </feed>

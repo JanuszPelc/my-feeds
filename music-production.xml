@@ -537,31 +537,4 @@
     <media:thumbnail url="https://r2.gear4music.com/media/128/1283787/1200/preview.jpg" />
     <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/03/lewitt-space-replicator-free/">bedroomproducersblog.com</a> | <a href="https://www.lewitt-audio.com/space-replicator-free">source</a> | <a href="https://bedroomproducersblog.com/2026/09/03/lewitt-space-replicator-free/#respond">discussion</a></small></p><hr/><p>This free VST plugin for mixing and mastering provides headphone calibration to simulate various acoustic environments. Users can hear their audio as if it were playing in a high-end studio or a living room, even when using consumer in-ear monitors.</p><p>The software includes calibration profiles for over 800 headphone models and provides the core features found in Lewitt's paid version. It is designed to ensure accurate monitoring across different playback devices.</p><p><img src="https://r2.gear4music.com/media/128/1283787/1200/preview.jpg" /></p><hr/><small>3 Sep 2026, 20:53 UTC | #20046</small>]]></content>
   </entry>
-  <entry>
-    <title>RIPPLES Releases Pulse Rhythmic Volume Shaper</title>
-    <link href="https://www.kvraudio.com/news/ripples-releases-pulse---free-rhythmic-volume-shaper-for-macos-and-windows-68358?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68358" rel="alternate" />
-    <id>https://www.kvraudio.com/news/ripples-releases-pulse---free-rhythmic-volume-shaper-for-macos-and-windows-68358?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68358::v238</id>
-    <published>2026-09-03T15:18:00+00:00</published>
-    <updated>2026-09-03T15:18:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/pulse_ui.webp" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ripples-releases-pulse---free-rhythmic-volume-shaper-for-macos-and-windows-68358?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68358">kvraudio.com</a> | <a href="https://ripples-music.com/plugins/pulse">source</a></small></p><hr/><p>RIPPLES has released Pulse, a free rhythmic volume shaper for macOS and Windows. The plugin provides sidechain pumping, gating, and LFO shaping that can be synced to the host tempo or triggered via sidechain input.</p><p>Available in VST3 and AU formats, Pulse includes five shaping modes: PUMP, SOFT, TRI, SAW, and GATE. Access requires a RIPPLES account and installation through the RIPPLES Tap desktop application.</p><p><img src="https://static.kvraudio.com/i/b/pulse_ui.webp" /></p><hr/><small>3 Sep 2026, 18:51 UTC | #20055</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jas-i Khorlo Physical Modeling Synth Enters Open Beta</title>
-    <link href="https://bedroomproducersblog.com/2026/09/03/jas-i-khorlo-beta/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/03/jas-i-khorlo-beta/::v238</id>
-    <published>2026-09-03T15:17:00+00:00</published>
-    <updated>2026-09-03T15:17:00+00:00</updated>
-    <media:thumbnail url="https://synthanatomy.com/wp-content/uploads/2026/09/Jasi-i-Khorlo.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/03/jas-i-khorlo-beta/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/03/jas-i-khorlo-beta/#comments">discussion</a></small></p><hr/><p>This free physical modeling synthesizer is currently in open beta. It uses a virtual cylinder engine with rotating impulse rings to produce polyrhythmic textures. It is compatible with macOS (including Apple Silicon), Linux, and Windows, and supports VST3, AU, and CLAP formats.</p><p>The software includes eight resonators, 135 presets, and ten reorderable effects. Its synthesis method relies on an exciter striking a resonator, which is then modulated by the rotating physical model.</p><p><img src="https://synthanatomy.com/wp-content/uploads/2026/09/Jasi-i-Khorlo.jpg" /></p><hr/><small>3 Sep 2026, 18:50 UTC | #20034</small>]]></content>
-  </entry>
-  <entry>
-    <title>Growl Audio Releases gFractor v1.2.3 Beta</title>
-    <link href="https://www.kvraudio.com/news/growl-audio-announces-availability-of-gfractor-v1-2-3-beta-68359?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68359" rel="alternate" />
-    <id>https://www.kvraudio.com/news/growl-audio-announces-availability-of-gfractor-v1-2-3-beta-68359?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68359::v238</id>
-    <published>2026-09-03T15:16:00+00:00</published>
-    <updated>2026-09-03T15:16:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot-2026-05-23-at-23-46-17.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/growl-audio-announces-availability-of-gfractor-v1-2-3-beta-68359?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68359">kvraudio.com</a> | <a href="https://growl-audio.com/plugins/gfractor#beta">source</a></small></p><hr/><p>Growl Audio has released the v1.2.3 beta of its gFractor spectrum analyzer through its preview channel. This update introduces a draggable target badge for setting loudness steps, a peak-to-RMS ratio (CREST) readout, and a per-octave stereo correlation chart utilizing 8192-point FFT.</p><p>New features include a Meters preferences tab, oscilloscope updates with a dB cursor and sidechain support, and the ability to export views as branded PNG files. The release also addresses bugs related to target curve data loading, GHOST pill state persistence, and envelope resets during channel mode switches.</p><p><img src="https://static.kvraudio.com/i/b/screenshot-2026-05-23-at-23-46-17.png" /></p><hr/><small>3 Sep 2026, 18:46 UTC | #20054</small>]]></content>
-  </entry>
 </feed>

@@ -366,13 +366,4 @@
     <media:thumbnail url="https://images.moneycontrol.com/static-mcnews/2026/06/20260611110717_openai.jpg?impolicy=website&amp;width=770&amp;height=431" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://openai.com/index/gpt-6-astra/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=49554643">hacker news</a></small></p><hr/><p>OpenAI has introduced GPT-6 Astra, a new flagship model optimized for advanced computer use, software engineering, and cybersecurity. The model achieves state-of-the-art performance on benchmarks including FrontierMath and ARC-AGI-3 and features significant improvements in alignment to ensure it adheres to user-defined task boundaries.</p><p>The rollout begins with a limited release to select organizations, with broader availability planned for ChatGPT Plus, Pro, Business, and Enterprise users, the OpenAI API, and AWS. Technical updates include significantly faster task completion in computer-use simulations and improved context retention in Codex to assist in long-session software development.</p><p><img src="https://images.moneycontrol.com/static-mcnews/2026/06/20260611110717_openai.jpg?impolicy=website&width=770&height=431" /></p><hr/><small>3 Sep 2026, 20:09 UTC | #20071</small>]]></content>
   </entry>
-  <entry>
-    <title>ChatGPT, Claude, and Grok Experience Simultaneous Outage</title>
-    <link href="https://news.ycombinator.com/item?id=49551096" rel="alternate" />
-    <id>https://news.ycombinator.com/item?id=49551096::v238</id>
-    <published>2026-09-03T15:28:00+00:00</published>
-    <updated>2026-09-03T15:28:00+00:00</updated>
-    <media:thumbnail url="https://indianexpress.com/wp-content/uploads/2026/06/Anthropic_d575c7.jpg?resize=1536" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49551096">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49551096">hacker news</a></small></p><hr/><p>Leading artificial intelligence platforms, including OpenAI's ChatGPT, Anthropic's Claude, and xAI's Grok, experienced widespread service disruptions on September 3, 2026. Users reported difficulties accessing chat models and APIs via web and mobile interfaces.</p><p>The simultaneous nature of the outages sparked discussions regarding the centralization of internet infrastructure and the risks posed by single points of failure in common service providers. The event underscores the growing systemic dependence on a limited number of AI services.</p><p><img src="https://indianexpress.com/wp-content/uploads/2026/06/Anthropic_d575c7.jpg?resize=1536" /></p><hr/><small>3 Sep 2026, 19:40 UTC | #20067</small>]]></content>
-  </entry>
 </feed>
