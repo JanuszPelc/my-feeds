@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-08T07:22:00+00:00</updated>
+  <updated>2026-09-08T07:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google Search Changes Impact Indexing for New Independent Wiki Domains</title>
+    <link href="https://weirdgloop.org/blog/google-jail" rel="alternate" />
+    <id>https://weirdgloop.org/blog/google-jail::v238</id>
+    <published>2026-09-08T07:29:00+00:00</published>
+    <updated>2026-09-08T07:29:00+00:00</updated>
+    <media:thumbnail url="https://weirdgloop.org/images/posts/google_jail_graph.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://weirdgloop.org/blog/google-jail">weirdgloop.org</a> | <a href="https://news.ycombinator.com/item?id=49604870">hacker news</a></small></p><hr/><p>A March 2024 Google core update has caused an indexing issue for many brand-new domains, often limiting search results to a site's homepage. This "Google Jail" disproportionately affects independent gaming wikis that depend on high search engine visibility to attract players.</p><p>To circumvent these restrictions, some wiki hosts are launching new projects on subdomains of established, high-authority domains to ensure rapid indexing. This approach serves as a temporary measure to build search authority before eventually transitioning the sites back to their own root domains.</p><p><img src="https://weirdgloop.org/images/posts/google_jail_graph.png" /></p><hr/><small>8 Sep 2026, 12:26 UTC | #20445</small>]]></content>
+  </entry>
   <entry>
     <title>Huawei Invests in Chinese Lithography to Reduce Foreign Reliance</title>
     <link href="https://www.ft.com/content/36333a53-4063-4aad-8df9-8d2f9d0048a3" rel="alternate" />
