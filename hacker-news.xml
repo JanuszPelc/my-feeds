@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-08T08:43:00+00:00</updated>
+  <updated>2026-09-08T08:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Bitap String Matching Algorithm</title>
+    <link href="https://jo3-l.dev/posts/bitap/" rel="alternate" />
+    <id>https://jo3-l.dev/posts/bitap/::v238</id>
+    <published>2026-09-08T08:49:00+00:00</published>
+    <updated>2026-09-08T08:49:00+00:00</updated>
+    <media:thumbnail url="https://image.slidesharecdn.com/stringmatchingalgorithms-150909124830-lva1-app6891/95/string-matching-algorithms-3-638.jpg?cb=1441803027" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jo3-l.dev/posts/bitap/">jo3-l.dev</a> | <a href="https://lobste.rs/s/aguhup/bitap_my_favorite_string_matching">discussion</a></small></p><hr/><p>The Bitap algorithm, also known as the shift-and algorithm, detects pattern occurrences in a text stream using bitwise operations. It represents the set of active matching states as a bitset, updating potential matches through left-shifts and bitwise AND operations as each character is processed.</p><p>Efficiency is highest when the pattern length is within the machine word size, such as 64 bits. Although its asymptotic complexity is comparable to the naive approach for fixed-length patterns, it is much simpler to implement and derive than the Boyer-Moore or Knuth-Morris-Pratt algorithms.</p><p><img src="https://image.slidesharecdn.com/stringmatchingalgorithms-150909124830-lva1-app6891/95/string-matching-algorithms-3-638.jpg?cb=1441803027" /></p><hr/><small>8 Sep 2026, 14:39 UTC | #20459</small>]]></content>
+  </entry>
   <entry>
     <title>Cloudflare Serves Nearly 90% of European Companies Using a CDN</title>
     <link href="https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten" rel="alternate" />
