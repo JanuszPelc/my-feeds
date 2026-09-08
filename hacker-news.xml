@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T19:38:00+00:00</updated>
+  <updated>2026-09-07T20:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Liquid Network Attacker Returns 3,400 BTC Following Blockstream Security Patch</title>
+    <link href="https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673" rel="alternate" />
+    <id>https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673::v238</id>
+    <published>2026-09-07T20:16:00+00:00</published>
+    <updated>2026-09-07T20:16:00+00:00</updated>
+    <media:thumbnail url="https://storage.googleapis.com/dxp-production-assets/content/liquid-network/perform-advanced-liquid-operations/create-a-watch-only-wallet-with-a-liquid-elements-node/9789175708185.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673">theblock.co</a></small></p><hr/><p>An attacker who withdrew approximately 4,000 BTC from a Liquid Network federation wallet has returned 3,400 BTC. This action follows Blockstream's confirmation that the software vulnerability in its bridge nodes has been successfully patched.</p><p>The exploit involved roughly $320 million in Bitcoin. The attacker, identifying as a "whitehat," had previously communicated through on-chain messages that the funds would be returned once the security flaw was addressed. While the majority of the assets have been returned, the attacker reportedly retained approximately 15% of the original haul.</p><p><img src="https://storage.googleapis.com/dxp-production-assets/content/liquid-network/perform-advanced-liquid-operations/create-a-watch-only-wallet-with-a-liquid-elements-node/9789175708185.png" /></p><hr/><small>8 Sep 2026, 03:23 UTC | #20395</small>]]></content>
+  </entry>
   <entry>
     <title>ovlive Provides Real-Time Public Transport Tracking in Belgium</title>
     <link href="https://openbaarvervoerbelgie.be/" rel="alternate" />
