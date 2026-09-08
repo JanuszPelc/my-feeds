@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-07T20:16:00+00:00</updated>
+  <updated>2026-09-08T01:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Jellyfin Releases Version 12.0</title>
+    <link href="https://jellyfin.org/posts/jellyfin-release-12.0/" rel="alternate" />
+    <id>https://jellyfin.org/posts/jellyfin-release-12.0/::v238</id>
+    <published>2026-09-08T01:57:00+00:00</published>
+    <updated>2026-09-08T01:57:00+00:00</updated>
+    <media:thumbnail url="https://jellyfin.org/assets/images/modern-ui-84f59788e646314ddda43d79c11c4b31.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jellyfin.org/posts/jellyfin-release-12.0/">jellyfin.org</a> | <a href="https://news.ycombinator.com/item?id=49604861">hacker news</a></small></p><hr/><p>Jellyfin has released version 12.0, which introduces significant database optimizations and expanded media support for books and comics. The update improves browsing performance for large playlists and collections, provides native metadata extraction for various book and comic formats, and extends the "alternate version" functionality from movies to television episodes.</p><p>The release makes the "Modern" web client layout the default and adopts a new versioning scheme. Because the update performs database migrations and data rewrites on the first boot, users are strongly advised to perform a manual backup before upgrading. Additionally, support for legacy client endpoints has been removed, and several third-party plugins may no longer function without updates.</p><p><img src="https://jellyfin.org/assets/images/modern-ui-84f59788e646314ddda43d79c11c4b31.png" /></p><hr/><small>8 Sep 2026, 05:06 UTC | #20409</small>]]></content>
+  </entry>
+  <entry>
+    <title>512-bit RSA Keys of E-Certify Certificate Authority Factored</title>
+    <link href="https://mcpherrin.ca/2026/09/07/rsa.html" rel="alternate" />
+    <id>https://mcpherrin.ca/2026/09/07/rsa.html::v238</id>
+    <published>2026-09-08T01:17:00+00:00</published>
+    <updated>2026-09-08T01:17:00+00:00</updated>
+    <media:thumbnail url="https://mcpherrin.ca/assets/rsa/filtered.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mcpherrin.ca/2026/09/07/rsa.html">mcpherrin.ca</a> | <a href="https://news.ycombinator.com/item?id=49604637">hacker news</a></small></p><hr/><p>Using CADO-NFS on a Ryzen 9 5950X desktop, a researcher successfully factored the 512-bit RSA keys of the defunct E-Certify Certificate Authority. These root certificates were originally included in Netscape 4.51 in 1999 for SSL and S/MIME purposes.</p><p>The reconstruction of each private key required approximately 30 hours. To verify the results, a custom TLS server was built in Go, enabling legacy browser environments to interact with certificates issued via the cracked keys.</p><p><img src="https://mcpherrin.ca/assets/rsa/filtered.png" /></p><hr/><small>8 Sep 2026, 05:03 UTC | #20408</small>]]></content>
+  </entry>
   <entry>
     <title>Liquid Network Attacker Returns 3,400 BTC Following Blockstream Security Patch</title>
     <link href="https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673" rel="alternate" />
