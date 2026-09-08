@@ -60,22 +60,4 @@
     <media:thumbnail url="https://babyloniantwins.com/img/blog/tiles-level1.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/">babyloniantwins.com</a> | <a href="https://news.ycombinator.com/item?id=49550375">hacker news</a></small></p><hr/><p>The 1993 Amiga platformer Babylonian Twins has been ported to the Godot 4 engine by using Claude Fable 5 to translate 72,758 lines of 68000 assembly code. The LLM successfully reconstructed proprietary level formats and memory layouts, producing binaries that are byte-identical to the original 1993 shipped versions.</p><p>To maintain original gameplay physics, the project maintains two distinct timing standards: a 50 Hz tick rate for the assembly-based rebuild and 60 Hz for the Godot version. The implementation also bypasses standard engine physics components to replicate the specific movement and collision routines from the original source.</p><p><img src="https://babyloniantwins.com/img/blog/tiles-level1.png" /></p><hr/><small>4 Sep 2026, 05:48 UTC | #20109</small>]]></content>
   </entry>
-  <entry>
-    <title>Microsoft Launches Pay-As-You-Go Option for Xbox Cloud Gaming</title>
-    <link href="https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option" rel="alternate" />
-    <id>https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option::v238</id>
-    <published>2026-09-03T19:17:00+00:00</published>
-    <updated>2026-09-03T19:17:00+00:00</updated>
-    <media:thumbnail url="https://xboxwire.thesourcemediaassets.com/sites/2/2025/06/XBOX_GamePass_Announcement_16x9_6.17.2025_EN-US-9ec618b0a5d78cc82055.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option">theverge.com</a> | <a href="https://news.xbox.com/en-us/2026/09/03/xbox-cloud-gaming-changes/">source</a></small></p><hr/><p>Starting in November, users can stream eligible games through Xbox Cloud Gaming without a Game Pass subscription via a new pay-as-you-go model. Customers can purchase specific cloud playtime hours through the Xbox Store, targeting occasional gamers and those using mobile devices.</p><p>This shift occurs alongside new monthly playtime limits for Game Pass Ultimate subscribers, who will be restricted to 15 hours of cloud gaming per month. Microsoft is also testing an ad-supported free tier for Xbox Insiders as part of an effort to increase accessibility for players without a console.</p><p><img src="https://xboxwire.thesourcemediaassets.com/sites/2/2025/06/XBOX_GamePass_Announcement_16x9_6.17.2025_EN-US-9ec618b0a5d78cc82055.jpg" /></p><hr/><small>4 Sep 2026, 00:30 UTC | #20049</small>]]></content>
-  </entry>
-  <entry>
-    <title>Supercell to Acquire Metacore and Merge Mansion Developer</title>
-    <link href="https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month" rel="alternate" />
-    <id>https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month::v238</id>
-    <published>2026-09-03T19:11:00+00:00</published>
-    <updated>2026-09-03T19:11:00+00:00</updated>
-    <media:thumbnail url="https://nextbiggames.com/wp-content/uploads/2026/05/partner-cell.png" />
-    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month">gamedeveloper.com</a> | <a href="https://supercell.com/en/news/merge-mansion-is-joining-supercell/">source</a></small></p><hr/><p>An agreement has been signed for Supercell to acquire Metacore, the studio behind the mobile title Merge Mansion. The acquisition is expected to close by the end of September, integrating the game into Supercell's live games portfolio.</p><p>The deal follows a restructuring by Metacore intended to improve operational efficiency and respond to increased market competition. Supercell, a subsidiary of Tencent, continues a recent trend of expanding its mobile gaming portfolio through strategic studio acquisitions.</p><p><img src="https://nextbiggames.com/wp-content/uploads/2026/05/partner-cell.png" /></p><hr/><small>4 Sep 2026, 00:00 UTC | #20076</small>]]></content>
-  </entry>
 </feed>
