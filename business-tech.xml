@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-08T14:06:00+00:00</updated>
+  <updated>2026-09-08T14:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Jonathan Zeller Satirizes Return-to-Office Mandates and AI Integration</title>
+    <link href="https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person" rel="alternate" />
+    <id>https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person::v238</id>
+    <published>2026-09-08T14:09:00+00:00</published>
+    <updated>2026-09-08T14:09:00+00:00</updated>
+    <media:thumbnail url="https://linhkienminhkhoa.vn/wp-content/uploads/2025/09/Microsoft-Office-Mondo-la-gi-6.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person">mcsweeneys.net</a> | <a href="https://news.ycombinator.com/item?id=49610229">hacker news</a></small></p><hr/><p>A satirical narrative through the lens of a worker at the fictional Mondo Mayo examines the intersection of return-to-office (RTO) mandates and AI-driven workplace surveillance. The setting is defined by extreme managerial hierarchies, invasive performance-monitoring software, and the erosion of personal boundaries.</p><p>The piece mocks the performative nature of corporate culture and the tension between technological productivity and individual autonomy. Through absurd scenarios involving mandatory social rituals and high-frequency automated tasks, the essay illustrates the loss of agency within highly monitored, automated work environments.</p><p><img src="https://linhkienminhkhoa.vn/wp-content/uploads/2025/09/Microsoft-Office-Mondo-la-gi-6.webp" /></p><hr/><small>8 Sep 2026, 15:45 UTC | #20468</small>]]></content>
+  </entry>
   <entry>
     <title>LibreOffice 26.8 Reaches Record Downloads After Forgoing Built-in AI</title>
     <link href="https://manualdousuario.net/en/libreoffice-download-record-no-ai/" rel="alternate" />
