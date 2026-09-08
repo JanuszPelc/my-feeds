@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-08T18:39:00+00:00</updated>
+  <updated>2026-09-08T18:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>NextEra Energy Receives $1.9B US Loan to Restart Iowa Nuclear Plant</title>
+    <link href="https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/::v238</id>
+    <published>2026-09-08T18:45:00+00:00</published>
+    <updated>2026-09-08T18:45:00+00:00</updated>
+    <media:thumbnail url="https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/e/6f/e6f89368-a4b9-56a1-b3fb-59362fd8345b/690104a894c60.image.jpg?crop=1280,672,0,23&amp;resize=1200,630&amp;order=crop,resize" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/">techcrunch.com</a> | <a href="https://www.energy.gov/articles/energy-department-closes-19-billion-loan-restart-duane-arnold-nuclear-plant">source</a></small></p><hr/><p>NextEra Energy has secured a $1.9 billion loan from the U.S. Department of Energy to finance the refurbishment and restart of the Duane Arnold Energy Center in Iowa. The facility, which has been inactive since 2020, is expected to return to service by 2029 and is projected to provide 615 megawatts of power.</p><p>The financing follows a trend of the U.S. government providing large-scale loans to restart nuclear capacity to meet the surging electricity demands of AI data centers. Tech companies such as Google, Microsoft, and Meta are increasingly seeking reliable, clean energy sources, positioning shuttered nuclear plants as a key solution for rapid power generation to support computational infrastructure.</p><p><img src="https://bloximages.newyork1.vip.townnews.com/kwwl.com/content/tncms/assets/v3/editorial/e/6f/e6f89368-a4b9-56a1-b3fb-59362fd8345b/690104a894c60.image.jpg?crop=1280,672,0,23&resize=1200,630&order=crop,resize" /></p><hr/><small>8 Sep 2026, 22:48 UTC | #20473</small>]]></content>
+  </entry>
   <entry>
     <title>Google DeepMind Launches AlphaGenome Atlas</title>
     <link href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/" rel="alternate" />
