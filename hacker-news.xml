@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-08T14:20:00+00:00</updated>
+  <updated>2026-09-08T14:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>AI-Generated Zero-Click Worm Targets WeChat Accounts</title>
+    <link href="https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html::v238</id>
+    <published>2026-09-08T14:22:00+00:00</published>
+    <updated>2026-09-08T14:22:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC_PM3EwhIyPHD4rLUmS_brAeA0QPDngdQTl4K6b2u0bHcW2znMXpnM5qsHz6W06nmAIGu0vmVciV4uljgMUMPib94gTxghSasGljBv11smnIlCZPfY7QGLA7RDcqTBNkaGYqCkqeuEO4nI41sSL-qK5Xk73gSq40trrk9akoivklI22HXVvKpkzGqD5zK/s1600/1000056319.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html">nytimes.com</a></small></p><hr/><p>AI researchers have developed a zero-click worm capable of hacking WeChat accounts and spreading across both iOS and Android platforms. Tencent has confirmed it has patched the vulnerability following the discovery.</p><p>The exploit could have potentially compromised hundreds of millions of devices within hours. The development underscores the increasing capability of artificial intelligence to rapidly engineer sophisticated, cross-platform malware that requires no user interaction to infect a device.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC_PM3EwhIyPHD4rLUmS_brAeA0QPDngdQTl4K6b2u0bHcW2znMXpnM5qsHz6W06nmAIGu0vmVciV4uljgMUMPib94gTxghSasGljBv11smnIlCZPfY7QGLA7RDcqTBNkaGYqCkqeuEO4nI41sSL-qK5Xk73gSq40trrk9akoivklI22HXVvKpkzGqD5zK/s1600/1000056319.webp" /></p><hr/><small>8 Sep 2026, 17:44 UTC | #20432</small>]]></content>
+  </entry>
   <entry>
     <title>Obtaining a Free .arpa Domain via IPv6 Reverse DNS</title>
     <link href="https://hawksley.dev/blog/get-free-arpa-domain" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-05T06:38:00+00:00</updated>
+  <updated>2026-09-08T14:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Blackmagic Design Releases DaVinci Resolve 21.1</title>
+    <link href="https://www.blackmagicdesign.com/media/release/20260908-03" rel="alternate" />
+    <id>https://www.blackmagicdesign.com/media/release/20260908-03::v238</id>
+    <published>2026-09-08T14:24:00+00:00</published>
+    <updated>2026-09-08T14:24:00+00:00</updated>
+    <media:thumbnail url="https://getplugins.io/wp-content/uploads/2026/04/DaVinci-Resolve-Studio-21.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.blackmagicdesign.com/media/release/20260908-03">blackmagicdesign.com</a> | <a href="https://news.ycombinator.com/item?id=49610181">hacker news</a></small></p><hr/><p>DaVinci Resolve 21.1 is available for free download from the Blackmagic Design website. The update features enhancements to the photo page, multicam editing, and the trim editor, in addition to new Fusion tools.</p><p>Blackmagic Design will demonstrate the software at the IBC 2026 exhibition on Stand 7.C49.</p><p><img src="https://getplugins.io/wp-content/uploads/2026/04/DaVinci-Resolve-Studio-21.png" /></p><hr/><small>8 Sep 2026, 17:49 UTC | #20483</small>]]></content>
+  </entry>
   <entry>
     <title>Collider Experimental Minecraft Server Uses Parallelized Ticks</title>
     <link href="https://github.com/Nozistance/collider" rel="alternate" />
