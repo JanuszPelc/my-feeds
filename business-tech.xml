@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-08T14:25:00+00:00</updated>
+  <updated>2026-09-08T14:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google Implements EU Search Changes for DMA Compliance, Citing Reduced Service Quality</title>
+    <link href="https://www.reuters.com/world/google-warns-lower-quality-it-revamps-europe-search-results-avoid-eu-fines-2026-09-08/" rel="alternate" />
+    <id>https://www.reuters.com/world/google-warns-lower-quality-it-revamps-europe-search-results-avoid-eu-fines-2026-09-08/::v238</id>
+    <published>2026-09-08T14:27:00+00:00</published>
+    <updated>2026-09-08T14:27:00+00:00</updated>
+    <media:thumbnail url="https://www.webpronews.com/wp-content/uploads/2026/01/article-8034-1769517654.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/google-warns-lower-quality-it-revamps-europe-search-results-avoid-eu-fines-2026-09-08/">reuters.com</a> | <a href="https://blog.google/company-news/inside-google/around-the-globe/google-europe/dma-compliance-update/">source</a> | <a href="https://news.ycombinator.com/item?id=49609326">hacker news</a></small></p><hr/><p>To meet Digital Markets Act (DMA) requirements, Google has modified its search results in Europe. The company stated that these updates represent the largest reduction in search service quality in the platform's history.</p><p>These modifications are intended to satisfy EU antitrust regulators and avoid significant penalties. While the changes aim to promote competition, they have raised concerns about the impact of regulation on service standards.</p><p><img src="https://www.webpronews.com/wp-content/uploads/2026/01/article-8034-1769517654.jpeg" /></p><hr/><small>8 Sep 2026, 18:37 UTC | #20438</small>]]></content>
+  </entry>
   <entry>
     <title>China Targets 9,800 Eflops of AI Computing Capacity by 2030</title>
     <link href="https://www.scmp.com/tech/policy/article/3366733/china-targets-fourfold-boost-ai-computing-capacity-2030-major-tech-push" rel="alternate" />
