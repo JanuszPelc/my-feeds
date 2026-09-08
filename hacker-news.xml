@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-08T07:27:00+00:00</updated>
+  <updated>2026-09-08T08:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Cloudflare Serves Nearly 90% of European Companies Using a CDN</title>
+    <link href="https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten" rel="alternate" />
+    <id>https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten::v238</id>
+    <published>2026-09-08T08:43:00+00:00</published>
+    <updated>2026-09-08T08:43:00+00:00</updated>
+    <media:thumbnail url="https://codelucky.com/wp-content/uploads/2025/08/cloudflare-setup-free-cdn-security.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten">ciphercue.com</a> | <a href="https://news.ycombinator.com/item?id=49607443">hacker news</a></small></p><hr/><p>Cloudflare serves 89.6% of the 44,143 European companies identified as using a content delivery network (CDN). This usage spans all analyzed markets, including the United Kingdom, the Netherlands, and Germany. Amazon's CloudFront ranks second in usage, followed by Fastly and Akamai.</p><p>High market concentration creates systemic dependency risks, as internal provider errors can trigger simultaneous outages for a significant portion of the European web. Recent Cloudflare service disruptions caused by configuration and automation errors illustrate the scale of impact when a single provider fronts much of the market.</p><p><img src="https://codelucky.com/wp-content/uploads/2025/08/cloudflare-setup-free-cdn-security.png" /></p><hr/><small>8 Sep 2026, 13:07 UTC | #20447</small>]]></content>
+  </entry>
   <entry>
     <title>Arm Debuts Neoverse CSS N4 Compute Subsystem and Expands AGI CPU Deployments</title>
     <link href="https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p" rel="alternate" />
