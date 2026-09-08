@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-07T19:25:00+00:00</updated>
+  <updated>2026-09-08T16:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Jacob Tsimerman Launches Mathematical AI Safety Institute</title>
+    <link href="https://www.nytimes.com/2026/09/08/science/jacob-tsimerman-math-ai-safety.html?unlocked_article_code=1._lA.fyIA.4SWeUMzEQZAp&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/08/science/jacob-tsimerman-math-ai-safety.html?unlocked_article_code=1._lA.fyIA.4SWeUMzEQZAp&amp;smid=url-share::v238</id>
+    <published>2026-09-08T16:11:00+00:00</published>
+    <updated>2026-09-08T16:11:00+00:00</updated>
+    <media:thumbnail url="https://image.dongascience.com/Photo/2022/06/6a20911e9b15dd96b8fa2ec478902193.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/08/science/jacob-tsimerman-math-ai-safety.html?unlocked_article_code=1._lA.fyIA.4SWeUMzEQZAp&smid=url-share">nytimes.com</a> | <a href="https://maisi.org/">source</a></small></p><hr/><p>Jacob Tsimerman, a 2026 Fields Medalist, has launched the Mathematical AI Safety Institute (MAISI) to apply advanced mathematics to AI safety challenges. Tsimerman, who is set to join OpenAI later this month, intends for the institute to focus on the foundational theoretical development required to mitigate the risks of runaway artificial intelligence.</p><p>The Bay Area-based institute aims to attract more mathematicians to the field of AI safety to develop safe algorithms and formal frameworks. MAISI is expected to begin its first full research semester in January 2027.</p><p><img src="https://image.dongascience.com/Photo/2022/06/6a20911e9b15dd96b8fa2ec478902193.jpg" /></p><hr/><small>8 Sep 2026, 19:30 UTC | #20446</small>]]></content>
+  </entry>
   <entry>
     <title>Common AI Terms and Concepts Explained</title>
     <link href="https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/" rel="alternate" />
@@ -248,41 +257,5 @@
     <updated>2026-09-03T21:02:00+00:00</updated>
     <media:thumbnail url="https://arcprize.org/media/images/blog/astra-arc-agi-3-leaderboard.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arcprize.org/blog/astra">arcprize.org</a> | <a href="https://arcprize.org/results/openai-gpt-6-astra">source</a> | <a href="https://news.ycombinator.com/item?id=49555691">hacker news</a></small></p><hr/><p>OpenAI's GPT-6 Astra achieved a 99.9% score on the ARC-AGI-3 benchmark using a Provider Adapter harness and 62.7% with a Standard harness. The model surpassed the human baseline in action efficiency, requiring fewer actions than the median human participant on 96% of the levels.</p><p>The model demonstrated the ability to develop compact, symbolic algebraic notation to track object states, coordinates, and multi-step plans. This allows Astra to construct internal world models of unfamiliar environments to facilitate planning and execution.</p><p><img src="https://arcprize.org/media/images/blog/astra-arc-agi-3-leaderboard.png" /></p><hr/><small>4 Sep 2026, 03:18 UTC | #20077</small>]]></content>
-  </entry>
-  <entry>
-    <title>Microsoft AI Launches MAI-Transcribe-2 Speech Recognition Model</title>
-    <link href="https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed" rel="alternate" />
-    <id>https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed::v238</id>
-    <published>2026-09-03T19:43:00+00:00</published>
-    <updated>2026-09-03T19:43:00+00:00</updated>
-    <media:thumbnail url="https://help.apiyi.com/wp-content/uploads/2026/04/microsoft-mai-3-models-transcribe-voice-image-guide-en-image-1.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed">venturebeat.com</a> | <a href="https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/mai-transcribe-2-highest-quality-transcription-at-the-fastest-speed-and-lowest-c/4550972">source</a> | <a href="https://news.ycombinator.com/item?id=49553808">hacker news</a></small></p><hr/><p>Microsoft AI has released MAI-Transcribe-2, a speech recognition model now in public preview via Microsoft Foundry. Supporting 60 languages, the model includes features such as speaker diarization, word-level timestamps, and automatic language identification. Microsoft claims the model offers superior speed and accuracy compared to competitors such as Google's Gemini 3.5 Transcribe and OpenAI's GPT-Transcribe.</p><p>The model is priced at $0.10 per audio hour, a significant reduction from previous iterations, intended to undercut rivals like ElevenLabs, OpenAI, and Google. This launch is part of a broader effort by Microsoft to establish a comprehensive multimodal AI stack.</p><p><img src="https://help.apiyi.com/wp-content/uploads/2026/04/microsoft-mai-3-models-transcribe-voice-image-guide-en-image-1.png" /></p><hr/><small>4 Sep 2026, 02:03 UTC | #20070</small>]]></content>
-  </entry>
-  <entry>
-    <title>OpenAI Launches GPT-6 Astra with Advanced Computer-Use Capabilities</title>
-    <link href="https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/" rel="alternate" />
-    <id>https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/::v238</id>
-    <published>2026-09-03T19:41:00+00:00</published>
-    <updated>2026-09-03T19:41:00+00:00</updated>
-    <media:thumbnail url="https://media.wired.com/photos/6a99abf8b2409d6188eae980/master/w_2560,c_limit/GPT-6-Can-Use-Computer-Better-Than-Human-Business-1015939026.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/">wired.com</a> | <a href="https://openai.com/index/path-to-astra/">source</a> | <a href="https://news.ycombinator.com/item?id=49527595">hacker news</a></small></p><hr/><p>OpenAI has announced GPT-6 Astra, a model capable of navigating computers and web browsers, writing software, and solving complex mathematical problems. The company claims the model can complete tasks such as booking appointments and searching for job listings faster than a human. Access will roll out first to enterprise clients via the Daybreak early access program, followed by ChatGPT Plus, Pro, and Business subscribers.</p><p>OpenAI executives suggested that the model's capabilities may mark the beginning of the artificial general intelligence (AGI) era. The release occurs as the company faces intense competition from rivals like Anthropic and prepares for a potential initial public offering. OpenAI's chief scientist noted that maintaining oversight and ensuring model alignment becomes increasingly difficult as capabilities expand, which may impact the speed of future development.</p><p><img src="https://media.wired.com/photos/6a99abf8b2409d6188eae980/master/w_2560,c_limit/GPT-6-Can-Use-Computer-Better-Than-Human-Business-1015939026.jpg" /></p><hr/><small>4 Sep 2026, 01:38 UTC | #20065</small>]]></content>
-  </entry>
-  <entry>
-    <title>OpenAI Unveils GPT-6 Astra with Agentic Capabilities and Enhanced Safety</title>
-    <link href="https://www.thedeepview.com/articles/openai-s-astra-leans-into-agentic-tasks-and-safety" rel="alternate" />
-    <id>https://www.thedeepview.com/articles/openai-s-astra-leans-into-agentic-tasks-and-safety::v238</id>
-    <published>2026-09-03T19:40:00+00:00</published>
-    <updated>2026-09-03T19:40:00+00:00</updated>
-    <media:thumbnail url="https://rune.codes/hub/_next/image?url=https://upufyrexylaevobrrpbr.supabase.co/storage/v1/object/public/hub-images/articles/1783625519614-terminalbench-2-1-gpt-5-6-vs-claude-fable-5-mythos-5-opus-4-8.png&amp;w=1200&amp;q=75" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.thedeepview.com/articles/openai-s-astra-leans-into-agentic-tasks-and-safety">thedeepview.com</a> | <a href="https://openai.com/index/path-to-astra/">source</a> | <a href="https://news.ycombinator.com/item?id=49527595">hacker news</a></small></p><hr/><p>OpenAI has launched GPT-6 Astra, a model designed for complex agentic tasks such as computer use, software engineering, and professional workflows in science and finance. The rollout is beginning with the Daybreak Access program before expanding to ChatGPT and API users.</p><p>Priced at $10 per million input tokens and $50 per million output tokens, Astra matches the rates of Anthropic's Mythos/Fable 5. Although this makes it one of the most expensive models on the market, OpenAI claims the model's increased efficiency reduces the total number of tokens required per task. Additionally, the model's advanced reasoning capabilities present new challenges for monitoring compared to previous iterations.</p><p><img src="https://rune.codes/hub/_next/image?url=https://upufyrexylaevobrrpbr.supabase.co/storage/v1/object/public/hub-images/articles/1783625519614-terminalbench-2-1-gpt-5-6-vs-claude-fable-5-mythos-5-opus-4-8.png&w=1200&q=75" /></p><hr/><small>4 Sep 2026, 01:26 UTC | #20066</small>]]></content>
-  </entry>
-  <entry>
-    <title>Humain Unveils Arabic AI Model Based on China's MiniMax</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-03/saudi-arabia-s-humain-unveils-ai-model-based-on-china-s-minimax" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-03/saudi-arabia-s-humain-unveils-ai-model-based-on-china-s-minimax::v238</id>
-    <published>2026-09-03T19:20:00+00:00</published>
-    <updated>2026-09-03T19:20:00+00:00</updated>
-    <media:thumbnail url="https://www.hubwiz.com/blog/content/images/2026/06/minimax-m3.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-03/saudi-arabia-s-humain-unveils-ai-model-based-on-china-s-minimax">bloomberg.com</a> | <a href="https://www.humain.com/en/news/humain-unveils-humain-m3--a-frontier-arabic-language.html">source</a></small></p><hr/><p>Humain, a Saudi-backed artificial intelligence firm, has launched humain-m3, a new Arabic-language model. The system is built upon the M3 architecture from China's MiniMax Group Inc to strengthen regional AI ecosystems and frontier intelligence capabilities.</p><p>The development follows significant investments by the Public Investment Fund into data centers and semiconductor infrastructure. This strategic move highlights an international trend toward localized control over critical large language model technologies.</p><p><img src="https://www.hubwiz.com/blog/content/images/2026/06/minimax-m3.png" /></p><hr/><small>4 Sep 2026, 00:48 UTC | #20052</small>]]></content>
   </entry>
 </feed>

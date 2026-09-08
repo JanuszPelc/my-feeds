@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-08T14:22:00+00:00</updated>
+  <updated>2026-09-08T16:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>An Overview of Obsolete and Legacy HTML Snippets</title>
+    <link href="https://vale.rocks/posts/html-relics" rel="alternate" />
+    <id>https://vale.rocks/posts/html-relics::v238</id>
+    <published>2026-09-08T16:16:00+00:00</published>
+    <updated>2026-09-08T16:16:00+00:00</updated>
+    <media:thumbnail url="https://images.surferseo.art/48f1f659-81f3-4e1e-8279-58e0bad408da.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vale.rocks/posts/html-relics">vale.rocks</a> | <a href="https://lobste.rs/s/bzwyib/antiquated_html_snippets_artefacts">discussion</a> | <a href="https://news.ycombinator.com/item?id=49607991">hacker news</a></small></p><hr/><p>This article examines various non-standard and obsolete HTML snippets that emerged from browser competition, vendor-specific extensions, and platform-specific requirements. It details technical artifacts such as Internet Explorer compatibility tags, conditional comments for targeting specific browser versions, and metadata used for defunct services like PICS or the Skype Toolbar.</p><p>Historical examples include the "Frame Buster" tag to prevent page embedding, the "X-UA-Compatible" meta tag for rendering modes, and "ICBM" coordinates for geographical identification. These remnants reflect the evolution of web development from era-specific workarounds and "browser wars" hacks toward modern, standardized web APIs.</p><p><img src="https://images.surferseo.art/48f1f659-81f3-4e1e-8279-58e0bad408da.png" /></p><hr/><small>8 Sep 2026, 19:45 UTC | #20495</small>]]></content>
+  </entry>
   <entry>
     <title>AI-Generated Zero-Click Worm Targets WeChat Accounts</title>
     <link href="https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html" rel="alternate" />

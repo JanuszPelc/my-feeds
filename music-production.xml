@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-08T14:31:00+00:00</updated>
+  <updated>2026-09-08T16:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>BS-203 MacroAcidizer Giveaway Announced by Bedroom Producers Blog</title>
+    <link href="https://bedroomproducersblog.com/2026/09/08/bs-203-macroacidizer-giveaway/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/08/bs-203-macroacidizer-giveaway/::v238</id>
+    <published>2026-09-08T16:14:00+00:00</published>
+    <updated>2026-09-08T16:14:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/cB9CkExxMrk/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/08/bs-203-macroacidizer-giveaway/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/08/bs-203-macroacidizer-giveaway/#comments">discussion</a></small></p><hr/><p>Born Second's BS-203 MacroAcidizer is the subject of a giveaway hosted by Bedroom Producers Blog. This analog-modeled acid synthesizer features three distinct mixer and filter modes, a scale-aware pattern-generating sequencer, and studio-modeled effects. It is compatible with VST3, AU, and AAX formats.</p><p>The monophonic plugin is designed to emulate classic acid synthesizer hardware. While the software typically retails for $25, this promotion provides an opportunity to acquire the software for free.</p><p><img src="https://i.ytimg.com/vi/cB9CkExxMrk/hqdefault.jpg" /></p><hr/><small>8 Sep 2026, 19:37 UTC | #20463</small>]]></content>
+  </entry>
+  <entry>
+    <title>Fanan Team Releases Grex Ballada Free Ballad Arranger Module</title>
+    <link href="https://www.kvraudio.com/news/fanan-team-releases-grex-ballada---free-ballad-arranger-module-68436?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68436" rel="alternate" />
+    <id>https://www.kvraudio.com/news/fanan-team-releases-grex-ballada---free-ballad-arranger-module-68436?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68436::v238</id>
+    <published>2026-09-08T16:12:00+00:00</published>
+    <updated>2026-09-08T16:12:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/grex_ballada1.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/fanan-team-releases-grex-ballada---free-ballad-arranger-module-68436?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68436">kvraudio.com</a> | <a href="https://fanan-team-com.base44.app/product/Grex%20Ballada">source</a></small></p><hr/><p>This free ballad arranger module provides 90 styles and a full General MIDI sound library, acting as a complete accompaniment for solo performers. The plugin features sixteen channels of both sampled and composed kits and supports multiple time signatures, including 3/4, 6/8, and 7/8.</p><p>The module offers tools for complex arrangement, such as section pads for fills and transitions, split keyboard functionality, and manual bass control. Integrated mixing features include a "style ducker" to manage accompaniment levels and several signal processing effects like chorus, reverb, and delay.</p><p><img src="https://static.kvraudio.com/i/b/grex_ballada1.png" /></p><hr/><small>8 Sep 2026, 19:32 UTC | #20474</small>]]></content>
+  </entry>
   <entry>
     <title>SoundBoost Releases Engine v4 for Prompt-Based Mastering</title>
     <link href="https://bedroomproducersblog.com/2026/09/08/soundboost-mastering/" rel="alternate" />

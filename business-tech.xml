@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-08T14:30:00+00:00</updated>
+  <updated>2026-09-08T16:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>DHS Predictive Intelligence Targeting Teams Use Financial Data to Flag Individuals for Traffic Stops</title>
+    <link href="https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/" rel="alternate" />
+    <id>https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/::v238</id>
+    <published>2026-09-08T16:15:00+00:00</published>
+    <updated>2026-09-08T16:15:00+00:00</updated>
+    <media:thumbnail url="https://cjquotes.com/wp-content/uploads/2025/11/3_11zon-8.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=49610988">hacker news</a></small></p><hr/><p>DHS Border Patrol's "Predictive Intelligence Targeting Teams" (PITT) analyze the financial activity and travel patterns of Americans to identify individuals for police intervention. This intelligence is shared with local law enforcement to facilitate traffic stops on people who are not suspected of any specific crime.</p><p>The program reportedly incorporates data from Automated License Plate Readers (ALPRs) and financial records to create risk profiles. This predictive policing model allows authorities to conduct stops, searches, and arrests based on data-driven assessments rather than traditional evidence of criminal suspicion.</p><p><img src="https://cjquotes.com/wp-content/uploads/2025/11/3_11zon-8.jpg" /></p><hr/><small>8 Sep 2026, 19:42 UTC | #20494</small>]]></content>
+  </entry>
   <entry>
     <title>Labor Proposes Social Media Algorithm Opt-Out Under New Digital Duty of Care Bill</title>
     <link href="https://www.abc.net.au/news/2026-09-08/labour-s-social-media-algorithm-choice-duty-of-care-bill/107130100" rel="alternate" />
