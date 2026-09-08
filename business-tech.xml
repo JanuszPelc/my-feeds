@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-08T16:22:00+00:00</updated>
+  <updated>2026-09-08T16:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google Chrome Shifts to Two-Week Release Cycle</title>
+    <link href="https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/::v238</id>
+    <published>2026-09-08T16:24:00+00:00</published>
+    <updated>2026-09-08T16:24:00+00:00</updated>
+    <media:thumbnail url="https://uploads-us-west-2.insided.com/google-en/attachment/89263822-4be2-4dd1-949f-5e789b4206f8_thumb.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/">techcrunch.com</a> | <a href="https://developer.chrome.com/blog/chrome-two-week-release">source</a></small></p><hr/><p>Google has transitioned Chrome from a four-week to a two-week release schedule, beginning with the launch of Chrome 153 on desktop, iOS, and Android. The move is intended to minimize the "N-day" patch gap and address security threats that are increasingly driven by AI-powered exploitation tools.</p><p>The accelerated cadence also facilitates more rapid iteration of new AI-integrated features as Google faces growing competition from AI-centric browsers. This shift follows a similar trend adopted by other major browsers, including Microsoft Edge and Brave.</p><p><img src="https://uploads-us-west-2.insided.com/google-en/attachment/89263822-4be2-4dd1-949f-5e789b4206f8_thumb.png" /></p><hr/><small>8 Sep 2026, 20:35 UTC | #20478</small>]]></content>
+  </entry>
   <entry>
     <title>Paramount Uses Astroturf Group to Manufacture Support for Merger</title>
     <link href="https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/" rel="alternate" />
