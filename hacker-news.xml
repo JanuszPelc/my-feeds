@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-08T08:49:00+00:00</updated>
+  <updated>2026-09-08T10:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Extreme Server-Side Rendering Enables Dynamic Web Apps Without Client-Side JavaScript</title>
+    <link href="https://www.scd31.com/posts/extreme-server-side-rendering" rel="alternate" />
+    <id>https://www.scd31.com/posts/extreme-server-side-rendering::v238</id>
+    <published>2026-09-08T10:55:00+00:00</published>
+    <updated>2026-09-08T10:55:00+00:00</updated>
+    <media:thumbnail url="https://img.itch.zone/aW1hZ2UvNDE5MTU4NS8yNDk4MjE0NC5wbmc=/original/f1E9nF.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.scd31.com/posts/extreme-server-side-rendering">scd31.com</a> | <a href="https://lobste.rs/s/tprfej/extreme_server_side_rendering">discussion</a></small></p><hr/><p>Extreme Server-Side Rendering (XSSR) enables dynamic web applications without client-side JavaScript by streaming HTML and CSS over long-lived HTTP connections. By executing application logic—such as a physics engine—entirely on the server and continuously pushing updates, the browser can render an interactive experience through persistent data streams.</p><p>While offering high server-side performance and manageable bandwidth, the technique is highly sensitive to network latency, which can make it unplayable for users far from the server. The author's demonstration also identified a potential Denial of Service (DoS) vector where indefinite connections can interfere with server-side processes like link preview generation on Fediverse platforms.</p><p><img src="https://img.itch.zone/aW1hZ2UvNDE5MTU4NS8yNDk4MjE0NC5wbmc=/original/f1E9nF.png" /></p><hr/><small>8 Sep 2026, 14:56 UTC | #20461</small>]]></content>
+  </entry>
   <entry>
     <title>Bitap String Matching Algorithm</title>
     <link href="https://jo3-l.dev/posts/bitap/" rel="alternate" />
