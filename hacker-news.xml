@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-08T07:21:00+00:00</updated>
+  <updated>2026-09-08T07:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Arm Debuts Neoverse CSS N4 Compute Subsystem and Expands AGI CPU Deployments</title>
+    <link href="https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p" rel="alternate" />
+    <id>https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p::v238</id>
+    <published>2026-09-08T07:27:00+00:00</published>
+    <updated>2026-09-08T07:27:00+00:00</updated>
+    <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/bAKg8h7YbSj7xEQNjC7EXi.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p">tomshardware.com</a> | <a href="https://newsroom.arm.com/news/arm-agi-cpu-launch">source</a></small></p><hr/><p>The Neoverse CSS N4 platform is a semi-custom compute subsystem built on TSMC’s N3P process. It supports up to 128 Neoverse N4 cores running at 3.8 GHz, features up to 256 MB of L3 cache per die, and includes support for DDR5/LPDDR6 memory alongside PCIe 7/6 and CXL 4.0 I/O.</p><p>Arm also announced expanded deployments of its AGI CPU, which utilizes Neoverse V3 cores, with Oracle and ByteDance set to adopt the hardware. The dual-die AGI design is optimized for data center efficiency, integrating memory and I/O on the same die to achieve sub-100ns memory latency.</p><p><img src="https://cdn.mos.cms.futurecdn.net/bAKg8h7YbSj7xEQNjC7EXi.jpg" /></p><hr/><small>8 Sep 2026, 12:03 UTC | #20410</small>]]></content>
+  </entry>
   <entry>
     <title>European and American Cloud Providers Compared</title>
     <link href="https://crescentro.se/posts/euro-cloud-providers-2026/" rel="alternate" />
