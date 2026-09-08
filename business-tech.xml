@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-07T17:14:00+00:00</updated>
+  <updated>2026-09-08T05:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Grindr to Pay £26m to Settle UK Lawsuit Over Alleged Sharing of Users' HIV Status</title>
+    <link href="https://www.theguardian.com/business/2026/sep/07/grindr-settle-uk-lawsuit-dating-app-ad" rel="alternate" />
+    <id>https://www.theguardian.com/business/2026/sep/07/grindr-settle-uk-lawsuit-dating-app-ad::v238</id>
+    <published>2026-09-08T05:11:00+00:00</published>
+    <updated>2026-09-08T05:11:00+00:00</updated>
+    <media:thumbnail url="https://images.lbc.co.uk/images/840297?crop=16_9&amp;width=660&amp;relax=1&amp;format=webp&amp;signature=umO5Zs6iGUr-BkBJMUTuNe-X-zo=" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theguardian.com/business/2026/sep/07/grindr-settle-uk-lawsuit-dating-app-ad">theguardian.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/1820144/000182014426000027/grnd-20260902.htm">source</a> | <a href="https://news.ycombinator.com/item?id=49596933">hacker news</a></small></p><hr/><p>The dating app has agreed to pay £26 million to settle a UK lawsuit alleging the sharing of sensitive personal information, including HIV status, with advertising companies. The settlement, which includes no admission of liability, will be paid in two installments by March 2027.</p><p>The legal action, brought by law firm Austen Hays, represents approximately 12,000 claimants and concerns data practices occurring prior to 2020. These practices took place while Grindr was owned by the Chinese conglomerate Beijing Kunlun Tech. This resolution follows previous regulatory action in Norway, where the company was fined for similar data protection violations.</p><p><img src="https://images.lbc.co.uk/images/840297?crop=16_9&width=660&relax=1&format=webp&signature=umO5Zs6iGUr-BkBJMUTuNe-X-zo=" /></p><hr/><small>8 Sep 2026, 08:02 UTC | #20403</small>]]></content>
+  </entry>
   <entry>
     <title>Belgian-Chinese Man Arrested for Alleged Theft of Semiconductor Secrets</title>
     <link href="https://www.ft.com/content/356cf253-7711-4a89-8139-5b0152824975" rel="alternate" />
