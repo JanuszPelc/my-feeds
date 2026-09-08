@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-08T05:25:00+00:00</updated>
+  <updated>2026-09-08T07:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Auralithic Releases Audorama 2.0 for macOS</title>
+    <link href="https://www.kvraudio.com/news/auralithic-releases-audorama-2-0---vision-aware-daw-for-cinematic-sound-design-macos-68419?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68419" rel="alternate" />
+    <id>https://www.kvraudio.com/news/auralithic-releases-audorama-2-0---vision-aware-daw-for-cinematic-sound-design-macos-68419?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68419::v238</id>
+    <published>2026-09-08T07:35:00+00:00</published>
+    <updated>2026-09-08T07:35:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/automation.1788804923.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/auralithic-releases-audorama-2-0---vision-aware-daw-for-cinematic-sound-design-macos-68419?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68419">kvraudio.com</a> | <a href="https://auralithic.com/">source</a></small></p><hr/><p>Auralithic has released Audorama 2.0, a vision-aware digital audio workstation (DAW) for macOS designed for cinematic sound design. The software analyzes video content to detect movement, footsteps, and visual events, automatically converting these into editable sound-design elements on a timeline to automate spotting and Foley editing.</p><p>The update integrates video analysis with multitrack editing, stereo and 5.1 surround mixing, and local sound-library management. It supports AAF and XML interchange, provides automated sound-effect suggestions, and allows for seamless synchronization between visual events and audio.</p><p><img src="https://static.kvraudio.com/i/b/automation.1788804923.png" /></p><hr/><small>8 Sep 2026, 12:46 UTC | #20443</small>]]></content>
+  </entry>
+  <entry>
+    <title>WireGrind Releases TapSkip 2 Rhythm-Augmenting VST3 Effect</title>
+    <link href="https://www.kvraudio.com/news/wiregrind-releases-tapskip-2---rhythm-augmenting-vst3-effect-for-windows-68421?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68421" rel="alternate" />
+    <id>https://www.kvraudio.com/news/wiregrind-releases-tapskip-2---rhythm-augmenting-vst3-effect-for-windows-68421?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68421::v238</id>
+    <published>2026-09-08T07:34:00+00:00</published>
+    <updated>2026-09-08T07:34:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot.1788815864.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/wiregrind-releases-tapskip-2---rhythm-augmenting-vst3-effect-for-windows-68421?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68421">kvraudio.com</a> | <a href="https://www.wiregrind.com/tapskip/">source</a></small></p><hr/><p>WireGrind has released TapSkip 2, a VST3 plugin for Windows that augments musical rhythms using tempo-synced delay taps. The software generates structured timing and loudness patterns to create non-repetitive textures while maintaining alignment with the project's rhythm.</p><p>Version 2 introduces five note types, including quadruplets and quintuplets, alongside manual pattern customization and auto-generation features. The plugin supports both tempo-synced and non-tempo-synced modes and includes A/B settings toggling.</p><p><img src="https://static.kvraudio.com/i/b/screenshot.1788815864.webp" /></p><hr/><small>8 Sep 2026, 12:45 UTC | #20442</small>]]></content>
+  </entry>
+  <entry>
+    <title>Rockheyday Releases Tintar-S - Analog Color Saturator v2</title>
+    <link href="https://www.kvraudio.com/news/rockheyday-releases-tintar-s---analog-color-saturator-v2-68426?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68426" rel="alternate" />
+    <id>https://www.kvraudio.com/news/rockheyday-releases-tintar-s---analog-color-saturator-v2-68426?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68426::v238</id>
+    <published>2026-09-08T07:32:00+00:00</published>
+    <updated>2026-09-08T07:32:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/tintarsa.1788844199.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/rockheyday-releases-tintar-s---analog-color-saturator-v2-68426?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68426">kvraudio.com</a> | <a href="https://rockheyday.gumroad.com/l/tintars">source</a></small></p><hr/><p>Rockheyday has released Tintar-S v2, a hybrid saturation plugin designed to blend asymmetric tube warmth with cubic tape-style harmonics. Available for macOS and Windows in VST3 and AU formats, the plugin is priced at $19.99.</p><p>The processor features up to 8x oversampling, Mid/Side width adjustment, and a phase-aligned mix engine for parallel processing. It also includes an integrated DC blocker, a dual-layer spectrum analyzer, and automatic gain compensation.</p><p><img src="https://static.kvraudio.com/i/b/tintarsa.1788844199.png" /></p><hr/><small>8 Sep 2026, 12:42 UTC | #20440</small>]]></content>
+  </entry>
   <entry>
     <title>Scrap Brain Audio Releases WX 1.1 Update</title>
     <link href="https://www.kvraudio.com/news/scrap-brain-audio-updates-wx-randomization-driven-synthesizer-to-v1-1-68420?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68420" rel="alternate" />
