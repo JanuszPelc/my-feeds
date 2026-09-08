@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-08T16:16:00+00:00</updated>
+  <updated>2026-09-08T16:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Sony Launches WH-1000XM4C, WH-CH730N, and WH-CH530 Headphones</title>
+    <link href="https://musictech.com/news/gear/sony-wireless-headphones-wh-1000xm4c/" rel="alternate" />
+    <id>https://musictech.com/news/gear/sony-wireless-headphones-wh-1000xm4c/::v238</id>
+    <published>2026-09-08T16:29:00+00:00</published>
+    <updated>2026-09-08T16:29:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Sonys-WH-1000XM4C-headphones-in-Lavender.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/sony-wireless-headphones-wh-1000xm4c/">musictech.com</a> | <a href="https://sony.mediaroom.com/2026-09-07-Sony-Electronics-Introduces-WH-1000XM4C-M4-2nd-Gen-Wireless-Noise-Cancelling-Headphones-and-Updates-Popular-Mid-and-Entry-Level-Wireless-Headphones-with-WH-CH730N-and-WH-CH530">source</a></small></p><hr/><p>Sony has announced three new wireless headphone models: the premium WH-1000XM4C, the mid-range WH-CH730N, and the entry-level WH-CH530. The WH-1000XM4C is a refreshed version of the original WH-1000XM4, incorporating updated sound tuning and a 27-hour battery life to meet EU compliance standards.</p><p>The mid-range WH-CH730N features ambient sound transparency and up to 75 hours of battery life. The budget-friendly WH-CH530 offers 55 hours of playback and improved microphone quality, though it does not include active noise cancellation.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Sonys-WH-1000XM4C-headphones-in-Lavender.jpg" /></p><hr/><small>8 Sep 2026, 20:52 UTC | #20470</small>]]></content>
+  </entry>
+  <entry>
+    <title>Qualcomm and Amazon Partner to Develop Custom AI Silicon for AWS Infrastructure</title>
+    <link href="https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html::v238</id>
+    <published>2026-09-08T16:26:00+00:00</published>
+    <updated>2026-09-08T16:26:00+00:00</updated>
+    <media:thumbnail url="https://techafricanews.com/wp-content/uploads/2026/04/aws-10.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html">cnbc.com</a> | <a href="https://www.prnewswire.com/news-releases/qualcomm-announces-multi-generational-product-collaboration-with-amazon-to-build-next-generation-ai-data-center-infrastructure-302871895.html">source</a></small></p><hr/><p>Qualcomm has entered a multi-generational collaboration with Amazon to develop customized silicon for Amazon Web Services (AWS) AI infrastructure. The partnership focuses on providing power-efficient processing and advanced optical connectivity solutions to support large-scale AI inference and high-bandwidth data center networks.</p><p>The agreement is part of Qualcomm's ongoing effort to diversify its business into the enterprise data center market. Following the announcement, Qualcomm's stock price saw a significant increase as the company expands its footprint beyond mobile processors into cloud infrastructure hardware.</p><p><img src="https://techafricanews.com/wp-content/uploads/2026/04/aws-10.png" /></p><hr/><small>8 Sep 2026, 20:47 UTC | #20452</small>]]></content>
+  </entry>
   <entry>
     <title>An Overview of Obsolete and Legacy HTML Snippets</title>
     <link href="https://vale.rocks/posts/html-relics" rel="alternate" />

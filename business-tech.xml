@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-08T16:24:00+00:00</updated>
+  <updated>2026-09-08T16:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google Cloud and Accenture Launch Gemini Enterprise Business Group</title>
+    <link href="https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628" rel="alternate" />
+    <id>https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628::v238</id>
+    <published>2026-09-08T16:28:00+00:00</published>
+    <updated>2026-09-08T16:28:00+00:00</updated>
+    <media:thumbnail url="https://ciofirst.com/wp-content/uploads/2025/10/Accenture-Helps-Organizations-Advance-Agentic-AI-with-Gemini-Enterprise.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628">wsj.com</a> | <a href="https://newsroom.accenture.com/news/2026/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-accenture-gemini-enterprise-business-group">source</a></small></p><hr/><p>Google Cloud and Accenture have established the Accenture Gemini Enterprise Business Group to accelerate the deployment of agentic AI solutions for global enterprises. The new unit will consist of up to 1,000 forward-deployed engineers who will work directly on-site with customers to implement Google Cloud’s Gemini Enterprise platform.</p><p>This initiative expands an existing partnership between the two companies, building upon their Generative and Agentic AI Center of Excellence. The program is designed to help clients scale AI adoption and navigate the complexities of integrating agentic AI into business workflows.</p><p><img src="https://ciofirst.com/wp-content/uploads/2025/10/Accenture-Helps-Organizations-Advance-Agentic-AI-with-Gemini-Enterprise.webp" /></p><hr/><small>8 Sep 2026, 20:50 UTC | #20454</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta Fails to Prevent Hundreds of Child Abuse Advertisements</title>
+    <link href="https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/" rel="alternate" />
+    <id>https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/::v238</id>
+    <published>2026-09-08T16:27:00+00:00</published>
+    <updated>2026-09-08T16:27:00+00:00</updated>
+    <media:thumbnail url="https://news24online.com/wp-content/uploads/2026/07/META.jpg.jpeg?w=735" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=49615888">hacker news</a></small></p><hr/><p>Researchers from the Tech Transparency Project have identified hundreds of additional advertisements containing child sexual abuse material (CSAM) running on Meta's platforms, including Facebook, Instagram, and Threads. These ads, which surfaced since August, include both AI-generated content and actual photographs of real children. Many of the advertisements direct users to "nudification" apps designed to create non-consensual intimate imagery.</p><p>Meta's claims that new AI detection tools are mitigating the issue appear ineffective, as some ads remained active for a week after being reported. The discovery has prompted investigations by lawmakers and regulators in the United States, the United Kingdom, and Australia. This failure comes as Meta undergoes intense legal scrutiny regarding its responsibility for protecting minors on its social media networks.</p><p><img src="https://news24online.com/wp-content/uploads/2026/07/META.jpg.jpeg?w=735" /></p><hr/><small>8 Sep 2026, 20:49 UTC | #20455</small>]]></content>
+  </entry>
   <entry>
     <title>Google Chrome Shifts to Two-Week Release Cycle</title>
     <link href="https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/" rel="alternate" />
