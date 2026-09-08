@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-08T18:44:00+00:00</updated>
+  <updated>2026-09-08T18:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>UK to Require Apple and Google to Block Nude Images on Children's Devices</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-08/uk-to-force-apple-google-to-block-nude-images-on-kids-devices" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-08/uk-to-force-apple-google-to-block-nude-images-on-kids-devices::v238</id>
+    <published>2026-09-08T18:49:00+00:00</published>
+    <updated>2026-09-08T18:49:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-08/uk-to-force-apple-google-to-block-nude-images-on-kids-devices">bloomberg.com</a> | <a href="https://www.gov.uk/government/news/new-plans-to-stop-children-taking-sharing-or-viewing-nude-images">source</a></small></p><hr/><p>The UK government will require technology companies, including Apple and Google, to implement technical solutions to prevent children from taking, viewing, or sharing nude images on smartphones and tablets. Culture Secretary Lisa Nandy announced that firms must activate built-in features or develop new detection methods to block sexually explicit imagery on devices used by minors.</p><p>Prime Minister Keir Starmer has granted technology firms a three-month window to implement these protections voluntarily or face formal legislation. The initiative aims to combat image-based abuse and sextortion, with officials noting existing age-based restrictions implemented by Apple.</p><hr/><small>8 Sep 2026, 23:27 UTC | #20477</small>]]></content>
+  </entry>
   <entry>
     <title>NYU Mathematician Alleges OpenAI Used Unfair Tactics on Millennium Prize Math Problem</title>
     <link href="https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/" rel="alternate" />
