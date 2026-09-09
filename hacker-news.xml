@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-08T21:41:00+00:00</updated>
+  <updated>2026-09-09T00:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>US Agencies Accuse Chinese AI Firms of Industrial-Scale Model Distillation</title>
+    <link href="https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/" rel="alternate" />
+    <id>https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/::v238</id>
+    <published>2026-09-09T00:44:00+00:00</published>
+    <updated>2026-09-09T00:44:00+00:00</updated>
+    <media:thumbnail url="https://substack-post-media.s3.amazonaws.com/public/images/09a05bbc-a1b6-4342-ba9f-fe8e4b0c6831_1024x1536.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/">reuters.com</a> | <a href="https://www.cisa.gov/news-events/news/cisa-nsa-and-fbi-warn-china-based-ai-companies-targeting-us-ai-models-industrial-scale-knowledge">source</a></small></p><hr/><p>A joint advisory from the NSA, CISA, and FBI warns that China-based artificial intelligence companies are conducting "industrial-scale" knowledge distillation campaigns to extract proprietary capabilities from U.S. AI models. The advisory names DeepSeek, Moonshot AI, MiniMax, StepFun, Z. AI, and Alibaba as companies involved in efforts to replicate the functionality of American frontier models.</p><p>These campaigns use millions of requests, proxy networks, and fraudulent accounts to systematically map and copy model behaviors. Federal officials note these efforts have been occurring since at least late 2024 and are being used as a core development strategy by several Chinese AI firms to replicate frontier U.S. capabilities.</p><p><img src="https://substack-post-media.s3.amazonaws.com/public/images/09a05bbc-a1b6-4342-ba9f-fe8e4b0c6831_1024x1536.png" /></p><hr/><small>9 Sep 2026, 07:27 UTC | #20517</small>]]></content>
+  </entry>
   <entry>
     <title>Xteink X3 eReader Gains Printer Functionality via IPP Support</title>
     <link href="https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/" rel="alternate" />
