@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-09T13:38:00+00:00</updated>
+  <updated>2026-09-09T13:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Desert Ant Labs Launches On-Device AI Models and SDK</title>
+    <link href="https://desertant.com/blog/introducing-desert-ant-labs/" rel="alternate" />
+    <id>https://desertant.com/blog/introducing-desert-ant-labs/::v238</id>
+    <published>2026-09-09T13:44:00+00:00</published>
+    <updated>2026-09-09T13:44:00+00:00</updated>
+    <media:thumbnail url="https://selftuts.in/wp-content/uploads/2026/02/run-ai-models-locally-and-access-from-anywhere-selftuts.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://desertant.com/blog/introducing-desert-ant-labs/">desertant.com</a> | <a href="https://news.ycombinator.com/item?id=49624823">hacker news</a></small></p><hr/><p>Desert Ant Labs has released 18 specialized, on-device AI models for audio, vision, and text tasks. The initial offering includes 12 stable models and six in beta, accessible through Swift, Kotlin, and JavaScript SDKs. These models are designed for low-latency, local execution on consumer hardware, aimed at reducing inference costs and improving data privacy compared to cloud-based API calls.</p><p>The product suite includes specialized models such as Voz for rapid transcription, Clear for audio enhancement, Redact for PII masking, and Tongue for language identification. The company offers the models for free to developers up to 100,000 monthly active devices.</p><p><img src="https://selftuts.in/wp-content/uploads/2026/02/run-ai-models-locally-and-access-from-anywhere-selftuts.png" /></p><hr/><small>9 Sep 2026, 17:45 UTC | #20599</small>]]></content>
+  </entry>
   <entry>
     <title>Suno Launches v6 AI Music Models in Partnership with WMG and BMG</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-09/ai-music-startup-suno-launches-new-models-that-pay-labels" rel="alternate" />

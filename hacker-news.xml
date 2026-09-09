@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T13:41:00+00:00</updated>
+  <updated>2026-09-09T13:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Besxar Partners with SpaceX for Orbital Semiconductor Manufacturing</title>
+    <link href="https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/::v238</id>
+    <published>2026-09-09T13:43:00+00:00</published>
+    <updated>2026-09-09T13:43:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/sync/v2/D5627AQFoMpcVpU65bA/articleshare-shrink_800/B56Zoq76QdJkAI-/0/1761656941555?e=2147483647&amp;v=beta&amp;t=6tIlhvbyLbl6ig0ndYtWKs9ern-Cp2mTQAawMjR-6rs" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/">techcrunch.com</a> | <a href="https://www.besxar.com/media/besxar-signs-launch-agreement-with-spacex-to-pioneer-orbital-semiconductor-manufacturing">source</a></small></p><hr/><p>Besxar is developing an orbital semiconductor manufacturing platform using SpaceX's Falcon 9 rockets. By leveraging the vacuum of space, the startup aims to produce ultra-pure semiconductor precursors, bypassing the pressurized clean-room infrastructure required for terrestrial manufacturing.</p><p>Initial orbital test flights have yielded wafer samples with significantly lower particulate contamination than terrestrial counterparts. The company plans to scale production for components used in data centers, robotics, and electric vehicles as heavy-lift launch vehicles like Starship become operational.</p><p><img src="https://media.licdn.com/dms/image/sync/v2/D5627AQFoMpcVpU65bA/articleshare-shrink_800/B56Zoq76QdJkAI-/0/1761656941555?e=2147483647&v=beta&t=6tIlhvbyLbl6ig0ndYtWKs9ern-Cp2mTQAawMjR-6rs" /></p><hr/><small>9 Sep 2026, 17:42 UTC | #20555</small>]]></content>
+  </entry>
   <entry>
     <title>scc Code Counter Performance Optimized</title>
     <link href="https://boyter.org/posts/did-i-just-get-buster-scrugged/" rel="alternate" />
