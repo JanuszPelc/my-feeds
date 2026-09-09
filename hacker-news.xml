@@ -977,13 +977,4 @@
     <media:thumbnail url="https://upvote.net/_next/image?url=/images/blog/get-upvotes-reddit.png&amp;w=1200&amp;q=80" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://qtea.me/posts/souping-up-my-blog/">qtea.me</a> | <a href="https://lobste.rs/s/bgswli/souping_up_my_blog">discussion</a></small></p><hr/><p>The "soupvotes" web service enables upvoting on static websites through a lightweight JavaScript implementation. To prevent abuse and duplicate voting, the service hashes a visitor's IP address with the current year, allowing for a single vote per user per year.</p><p>Originally named "upvaas," the project was renamed to "soupvotes" to avoid confusion with the Hindi word for fasting. The system uses a steaming tea cup icon as a voting indicator, providing a simple way for creators of static sites to gauge reader engagement without the complexity of a full content management system.</p><p><img src="https://upvote.net/_next/image?url=/images/blog/get-upvotes-reddit.png&w=1200&q=80" /></p><hr/><small>4 Sep 2026, 09:18 UTC | #20117</small>]]></content>
   </entry>
-  <entry>
-    <title>Jim Nielsen Critiques Uptime Percentages in Service Status Pages</title>
-    <link href="https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/" rel="alternate" />
-    <id>https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/::v238</id>
-    <published>2026-09-04T00:52:00+00:00</published>
-    <updated>2026-09-04T00:52:00+00:00</updated>
-    <media:thumbnail url="https://cdn.jim-nielsen.com/blog/2026/uptime-claude-github.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/">blog.jim-nielsen.com</a> | <a href="https://lobste.rs/s/uyc8ai/can_we_stop_with_uptime_percentages">discussion</a></small></p><hr/><p>The reliance on uptime percentages for communicating service reliability is often unintuitive for the general public due to the non-linear nature of the metric. While professional infrastructure users understand that moving from 99.9% to 99.99% uptime represents a tenfold increase in reliability, the mathematical distinction is difficult for non-specialists to grasp.</p><p>Rather than using abstract percentages, status pages could instead report the actual duration of downtime, such as "12 hours affected in the last 30 days," to provide immediate clarity. This shift would replace mathematical scales with human-readable temporal data, making service availability more accessible to a broader audience.</p><p><img src="https://cdn.jim-nielsen.com/blog/2026/uptime-claude-github.png" /></p><hr/><small>4 Sep 2026, 06:38 UTC | #20110</small>]]></content>
-  </entry>
 </feed>
