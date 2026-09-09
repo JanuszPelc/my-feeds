@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T14:19:00+00:00</updated>
+  <updated>2026-09-09T18:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI and Samsung Expand Cooperation on Next-Generation AI Chips</title>
+    <link href="https://www.reuters.com/world/asia-pacific/openai-says-working-with-samsung-next-generation-chips-deepening-cooperation-2026-09-09/" rel="alternate" />
+    <id>https://www.reuters.com/world/asia-pacific/openai-says-working-with-samsung-next-generation-chips-deepening-cooperation-2026-09-09/::v238</id>
+    <published>2026-09-09T18:26:00+00:00</published>
+    <updated>2026-09-09T18:26:00+00:00</updated>
+    <media:thumbnail url="https://www.domain-b.com/Uploads/Images/openai-samsung-next-generation-ai-chips-2026.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/openai-says-working-with-samsung-next-generation-chips-deepening-cooperation-2026-09-09/">reuters.com</a> | <a href="https://news.samsung.com/global/samsung-and-openai-announce-strategic-partnership-to-accelerate-advancements-in-global-ai-infrastructure">source</a></small></p><hr/><p>OpenAI is partnering with Samsung Electronics to develop next-generation AI chips as the company works toward designing its own custom silicon. The collaboration focuses on semiconductor research and the production of specialized hardware for AI applications.</p><p>Samsung is currently one of the largest global enterprise deployments of ChatGPT. This deepening alliance also involves the integration of OpenAI’s AI software tools across Samsung’s various business operations.</p><p><img src="https://www.domain-b.com/Uploads/Images/openai-samsung-next-generation-ai-chips-2026.webp" /></p><hr/><small>9 Sep 2026, 20:09 UTC | #20557</small>]]></content>
+  </entry>
   <entry>
     <title>Ramp Data Shows Drop in AI Spending Per Employee at Top Firms in August</title>
     <link href="https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/" rel="alternate" />
