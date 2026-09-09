@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T18:38:00+00:00</updated>
+  <updated>2026-09-09T18:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Microsoft and AFT Establish AI Privacy and Safety Standards for Schools</title>
+    <link href="https://www.politico.com/news/2026/09/09/aft-union-microsoft-ai-deal-01068544" rel="alternate" />
+    <id>https://www.politico.com/news/2026/09/09/aft-union-microsoft-ai-deal-01068544::v238</id>
+    <published>2026-09-09T18:53:00+00:00</published>
+    <updated>2026-09-09T18:53:00+00:00</updated>
+    <media:thumbnail url="https://static.wixstatic.com/media/f1c042_488f538bb69c4ba28713a2ec960d3729~mv2.jpg/v1/fill/w_736,h_1104,al_c/f1c042_488f538bb69c4ba28713a2ec960d3729~mv2.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/09/09/aft-union-microsoft-ai-deal-01068544">politico.com</a> | <a href="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/AI-Safety-and-Privacy-Standard-Fact-Sheet.pdf">source</a></small></p><hr/><p>The agreement between the American Federation of Teachers (AFT) and Microsoft establishes enforceable AI safety and privacy protections for educational environments. It includes legal provisions that hold Microsoft liable for data breaches, ensuring that artificial intelligence tools used in schools meet specific security requirements.</p><p>This arrangement arrives in response to strict AI regulations implemented by several major U.S. school districts. Under the terms, Microsoft is barred from using student data for AI model training and is prohibited from tracking student activity, aiming to provide parents and educators with greater accountability for classroom technology.</p><p><img src="https://static.wixstatic.com/media/f1c042_488f538bb69c4ba28713a2ec960d3729~mv2.jpg/v1/fill/w_736,h_1104,al_c/f1c042_488f538bb69c4ba28713a2ec960d3729~mv2.jpg" /></p><hr/><small>9 Sep 2026, 22:37 UTC | #20578</small>]]></content>
+  </entry>
+  <entry>
+    <title>Andy Burnham Opposes UK Data Center Moratorium</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-09/burnham-opposes-uk-data-center-moratorium-citing-local-benefits" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-09/burnham-opposes-uk-data-center-moratorium-citing-local-benefits::v238</id>
+    <published>2026-09-09T18:52:00+00:00</published>
+    <updated>2026-09-09T18:52:00+00:00</updated>
+    <media:thumbnail url="https://e3.365dm.com/26/01/1600x900/skynews-andy-burnham-mayor_7151788.jpg?20260131214156" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-09/burnham-opposes-uk-data-center-moratorium-citing-local-benefits">bloomberg.com</a></small></p><hr/><p>UK Prime Minister Andy Burnham has rejected a proposed moratorium on data center construction, asserting that local communities must realize the economic benefits of these developments. This policy position is designed to help the UK capitalize on the global expansion of data center infrastructure.</p><p>The move seeks to avoid the public backlash and regulatory pauses currently affecting the industry in the United States. The approach attempts to facilitate rapid AI-driven infrastructure growth while mitigating local community opposition.</p><p><img src="https://e3.365dm.com/26/01/1600x900/skynews-andy-burnham-mayor_7151788.jpg?20260131214156" /></p><hr/><small>9 Sep 2026, 22:35 UTC | #20579</small>]]></content>
+  </entry>
   <entry>
     <title>Connor Leahy Discusses Superintelligence Risks and the 'Ban Superintelligence Act'</title>
     <link href="https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/" rel="alternate" />
