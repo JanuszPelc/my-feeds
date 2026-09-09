@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T13:52:00+00:00</updated>
+  <updated>2026-09-09T18:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Unveils iPhone Duo</title>
+    <link href="https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/" rel="alternate" />
+    <id>https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/::v238</id>
+    <published>2026-09-09T18:18:00+00:00</published>
+    <updated>2026-09-09T18:18:00+00:00</updated>
+    <media:thumbnail url="https://cdn.rswebsols.com/wp-content/uploads/2025/12/Foldable-iPhone.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=49630964">hacker news</a></small></p><hr/><p>The new iPhone Duo is Apple's first foldable smartphone, featuring a 7.6-inch inner Super Retina XDR display with a nano-texture finish and a 5.4-inch outer display. It is powered by the A20 Pro chip and runs iOS 27, which includes reimagined interface elements and integrated Apple Intelligence and Siri AI capabilities.</p><p>Priced starting at $1,999, the device is available in star white and night sky and supports Apple Pencil via USB-C. Pre-orders are scheduled to begin October 16, 2026, with general availability arriving on October 23.</p><p><img src="https://cdn.rswebsols.com/wp-content/uploads/2025/12/Foldable-iPhone.jpg" /></p><hr/><small>9 Sep 2026, 19:42 UTC | #20616</small>]]></content>
+  </entry>
   <entry>
     <title>Google Ads Suspends and Reinstates RACE Terminal Multiplexer Account</title>
     <link href="https://xlii.space/eng/malicious-software-on-google-ads/" rel="alternate" />
@@ -958,14 +967,5 @@
     <updated>2026-09-04T22:08:00+00:00</updated>
     <media:thumbnail url="https://jank-lang.org/img/blog/2025-03-28-error-reporting/jank-macro-def-2.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jank-lang.org/blog/2026-09-04-better-and-better/">jank-lang.org</a> | <a href="https://lobste.rs/s/rhjedr/jank_reimagines_c_errors_gets_official">discussion</a></small></p><hr/><p>Technical updates to the Jank programming language include enhanced runtime stack traces that integrate JIT-compiled C++ frames with Clojure code, dedicated error documentation pages, and more legible C++ error messages. These improvements aim to provide better context and visual clarity for both runtime exceptions and compilation errors.</p><p>The language now features a Cargo-like native build system with sandboxed builds to improve security. Additionally, the "jank commons" repository on Clojars has been established to provide official, high-quality native packages and system library wrappers for the ecosystem.</p><p><img src="https://jank-lang.org/img/blog/2025-03-28-error-reporting/jank-macro-def-2.png" /></p><hr/><small>5 Sep 2026, 04:22 UTC | #20205</small>]]></content>
-  </entry>
-  <entry>
-    <title>Deft Implements Gradual Typing for Janet</title>
-    <link href="https://codeberg.org/zzkt/deft" rel="alternate" />
-    <id>https://codeberg.org/zzkt/deft::v238</id>
-    <published>2026-09-04T19:24:00+00:00</published>
-    <updated>2026-09-04T19:24:00+00:00</updated>
-    <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/965649729/original/943b72fd6e/1?v=1" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codeberg.org/zzkt/deft">codeberg.org</a> | <a href="https://lobste.rs/s/bqfbqk/deft_gradual_type_system_for_janet">discussion</a></small></p><hr/><p>This gradual typing system for Janet incorporates bidirectional inference, static analysis, and runtime type checking. It implements the Siek and Taha model of gradual typing and utilizes the Wadler and Findler blame calculus.</p><p>A universal `define` macro manages both typed and untyped bindings, facilitating a smooth transition between dynamic and static typing. The system also includes mechanisms for predicate-based type definitions, structured records with runtime validation, and enumeration support.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/965649729/original/943b72fd6e/1?v=1" /></p><hr/><small>5 Sep 2026, 00:13 UTC | #20198</small>]]></content>
   </entry>
 </feed>

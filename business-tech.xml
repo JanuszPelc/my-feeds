@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T13:50:00+00:00</updated>
+  <updated>2026-09-09T14:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Ramp Data Shows Drop in AI Spending Per Employee at Top Firms in August</title>
+    <link href="https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/::v238</id>
+    <published>2026-09-09T14:19:00+00:00</published>
+    <updated>2026-09-09T14:19:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-7.03.18-AM.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/">techcrunch.com</a> | <a href="https://ramp.com/data/ai-index-august-2026">source</a></small></p><hr/><p>Ramp's latest spending data indicates that AI adoption among businesses slowed in August, with only a 0.4% increase in customers paying for AI products. The company reported a significant decline in AI spend per employee among its top 1% of firms, which fell nearly 10% to $7,205.</p><p>This downturn may reflect seasonal summer trends or the impact of declining token costs following price reductions from providers like OpenAI and Anthropic. While lower per-employee spending could impact the revenue models of AI labs and hyperscalers requiring high volume, it also suggests that market competition is making AI tools more affordable for a broader range of corporate users.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-7.03.18-AM.png?w=680" /></p><hr/><small>9 Sep 2026, 19:36 UTC | #20566</small>]]></content>
+  </entry>
   <entry>
     <title>Lyft Begins Offering Waymo Robotaxi Rides in Nashville</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-09/lyft-begins-offering-waymo-robotaxi-rides-on-its-app-in-nashville" rel="alternate" />

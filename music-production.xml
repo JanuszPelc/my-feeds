@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-09T13:51:00+00:00</updated>
+  <updated>2026-09-09T14:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Audiomodern Updates Soundbox to v1.3.0 with MPE Support</title>
+    <link href="https://www.kvraudio.com/news/audiomodern-updates-soundbox-to-v1-3-0---mpe-support-68458?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68458" rel="alternate" />
+    <id>https://www.kvraudio.com/news/audiomodern-updates-soundbox-to-v1-3-0---mpe-support-68458?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68458::v238</id>
+    <published>2026-09-09T14:32:00+00:00</published>
+    <updated>2026-09-09T14:32:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/soundbox_insturments_01.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/audiomodern-updates-soundbox-to-v1-3-0---mpe-support-68458?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68458">kvraudio.com</a> | <a href="https://audiomodern.com/soundbox/">source</a></small></p><hr/><p>The latest update to the Soundbox virtual instrument platform adds full MIDI Polyphonic Expression (MPE) support and several engine improvements.</p><p>This customizable sampler is designed to allow users to create bespoke virtual instruments. The inclusion of MPE support expands the expressive control available to producers using compatible MIDI controllers.</p><p><img src="https://static.kvraudio.com/i/b/soundbox_insturments_01.png" /></p><hr/><small>9 Sep 2026, 19:38 UTC | #20570</small>]]></content>
+  </entry>
   <entry>
     <title>t4 Digital Studio Releases AlterVerb 53 Reverb Plugin</title>
     <link href="https://www.kvraudio.com/news/t4-digital-studio-releases-alterverb-53-free-vst3-reverb-68457?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68457" rel="alternate" />
