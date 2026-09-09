@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-08T18:43:00+00:00</updated>
+  <updated>2026-09-08T21:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Xteink X3 eReader Gains Printer Functionality via IPP Support</title>
+    <link href="https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/" rel="alternate" />
+    <id>https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/::v238</id>
+    <published>2026-09-08T21:41:00+00:00</published>
+    <updated>2026-09-08T21:41:00+00:00</updated>
+    <media:thumbnail url="https://nishantjosh.dev/_astro/penguin-printer.CsBOkScT_2bj2ld.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/">nishantjosh.dev</a> | <a href="https://lobste.rs/s/pxreik/how_build_f_king_printer">discussion</a> | <a href="https://news.ycombinator.com/item?id=49617255">hacker news</a></small></p><hr/><p>The Xteink X3 e-reader now supports wireless printing through a custom implementation of the Internet Printing Protocol (IPP). By using Bonjour for service discovery, the device can appear in the printer list of computers on the same network, allowing for seamless document transfer and rendering on the e-ink display.</p><p>To manage the device's limited 400 KB of RAM, the implementation uses a row-by-row transformation pipeline that writes incoming pixels directly to the display buffer. This method enables the device to handle large document files while reserving sufficient memory for the network stack to maintain a stable connection.</p><p><img src="https://nishantjosh.dev/_astro/penguin-printer.CsBOkScT_2bj2ld.webp" /></p><hr/><small>9 Sep 2026, 03:03 UTC | #20521</small>]]></content>
+  </entry>
   <entry>
     <title>i-have-adhd Plugin Optimizes Coding Agent Responses for Scannability</title>
     <link href="https://github.com/ayghri/i-have-adhd" rel="alternate" />
