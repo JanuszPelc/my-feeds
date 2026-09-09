@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-08T18:50:00+00:00</updated>
+  <updated>2026-09-08T23:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Embassy Studios Focuses on Acoustic Design and Collaborative Workflows</title>
+    <link href="https://musictech.com/features/interviews/inside-embassy-studios-where-the-rooms-become-part-of-the-signal-chain/" rel="alternate" />
+    <id>https://musictech.com/features/interviews/inside-embassy-studios-where-the-rooms-become-part-of-the-signal-chain/::v238</id>
+    <published>2026-09-08T23:36:00+00:00</published>
+    <updated>2026-09-08T23:36:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Embassy-Studios-Studio-A1-2-credit-press@1400x1050.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/features/interviews/inside-embassy-studios-where-the-rooms-become-part-of-the-signal-chain/">musictech.com</a></small></p><hr/><p>Embassy Studios in Manhattan is a creative production complex designed to facilitate in-person collaboration through a "record anywhere" approach. The facility uses Dante-enabled infrastructure to allow artists to move seamlessly between recording rooms, production spaces, and multimedia suites.</p><p>The studio treats the acoustic environment as a primary component of the signal chain, prioritizing room design alongside high-end gear like SSL consoles and Augspurger monitors. The facility includes a Dolby Atmos mix room, a podcast room, and flexible studio suites designed for diverse recording and production needs.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Embassy-Studios-Studio-A1-2-credit-press@1400x1050.jpg" /></p><hr/><small>9 Sep 2026, 04:39 UTC | #20514</small>]]></content>
+  </entry>
   <entry>
     <title>Septabee Free DAW Released for Windows and Linux</title>
     <link href="https://bedroomproducersblog.com/2026/09/08/septabee-daw/" rel="alternate" />
