@@ -3,9 +3,45 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-09T14:32:00+00:00</updated>
+  <updated>2026-09-09T18:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Plugin Boutique Announces Synth Month Sales</title>
+    <link href="https://musictech.com/news/events/plugin-boutique-synth-month-sale-2/" rel="alternate" />
+    <id>https://musictech.com/news/events/plugin-boutique-synth-month-sale-2/::v238</id>
+    <published>2026-09-09T18:43:00+00:00</published>
+    <updated>2026-09-09T18:43:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Synth-Month-hero-PB@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/events/plugin-boutique-synth-month-sale-2/">musictech.com</a> | <a href="https://www.pluginboutique.com/campaigns/synth-month">source</a></small></p><hr/><p>Plugin Boutique is running a "Synth Month" promotion throughout September 2026, offering discounts on software synthesizers and instrument bundles. The sale includes products from brands such as Native Instruments, Roland, Minimal Audio, and Safari Audio.</p><p>Key deals include price reductions on Native Instruments' FM8 and Safari Audio's Super Chunk. The promotion also features tiered free software gifts, such as Melodyne 5 Essential, for qualifying purchases.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Synth-Month-hero-PB@2000x1500.jpg" /></p><hr/><small>9 Sep 2026, 21:35 UTC | #20590</small>]]></content>
+  </entry>
+  <entry>
+    <title>Noisebud Updates Pinky 2 to Version 2.53</title>
+    <link href="https://www.kvraudio.com/news/noisebud-updates-pinky-2-to-v2-53---static-spectral-mode-and-dyn-stat-blend-68456?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68456" rel="alternate" />
+    <id>https://www.kvraudio.com/news/noisebud-updates-pinky-2-to-v2-53---static-spectral-mode-and-dyn-stat-blend-68456?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68456::v238</id>
+    <published>2026-09-09T18:42:00+00:00</published>
+    <updated>2026-09-09T18:42:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/v252.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/noisebud-updates-pinky-2-to-v2-53---static-spectral-mode-and-dyn-stat-blend-68456?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68456">kvraudio.com</a> | <a href="https://www.noisebud.se/pinky-2/">source</a></small></p><hr/><p>Noisebud has updated its Pinky 2 adaptive spectral balancer to version 2.53. This update introduces a Static mode for fixed spectral correction and a Dyn/Stat control that allows users to blend static and dynamic spectral processing.</p><p>The plugin can now build averaged spectral curves from incoming audio to provide static correction in addition to its original dynamic balancing. Other updates include adjustable frequency limits for protection ranges and new attack and release controls. The plugin is available through Noisebud's Patreon subscription model or as a 30-day trial.</p><p><img src="https://static.kvraudio.com/i/b/v252.png" /></p><hr/><small>9 Sep 2026, 21:33 UTC | #20586</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sonora Cinematic Releases Panorama Whitekirk for Kontakt Player</title>
+    <link href="https://www.kvraudio.com/news/sonora-cinematic-releases-panorama-whitekirk-for-kontakt-player-68460?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68460" rel="alternate" />
+    <id>https://www.kvraudio.com/news/sonora-cinematic-releases-panorama-whitekirk-for-kontakt-player-68460?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68460::v238</id>
+    <published>2026-09-09T18:41:00+00:00</published>
+    <updated>2026-09-09T18:41:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/gui.1788969180.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/sonora-cinematic-releases-panorama-whitekirk-for-kontakt-player-68460?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68460">kvraudio.com</a> | <a href="https://sonoracinematic.com/products/panorama-whitekirk">source</a></small></p><hr/><p>Recorded in St Mary's church in Whitekirk, Scotland, this Kontakt Player library features electric and semi-hollow guitars with a range of tones including pristine cleans, fuzz, and granular textures. The sounds were captured using a large pedalboard and various microphone setups to define the specific acoustic environment.</p><p>The software includes an interactive GUI that allows users to move a listener position across the church's floor plan. Moving the position between the wooden-ceiling nave and the stone-walled chancel shifts the acoustics in real time, altering the reverb and character of the sound.</p><p><img src="https://static.kvraudio.com/i/b/gui.1788969180.png" /></p><hr/><small>9 Sep 2026, 21:32 UTC | #20587</small>]]></content>
+  </entry>
+  <entry>
+    <title>FMJ-Software Updates Awave Studio to v12.16</title>
+    <link href="https://www.kvraudio.com/news/fmj-software-updates-awave-studio-to-v12-16-68462?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68462" rel="alternate" />
+    <id>https://www.kvraudio.com/news/fmj-software-updates-awave-studio-to-v12-16-68462?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68462::v238</id>
+    <published>2026-09-09T18:40:00+00:00</published>
+    <updated>2026-09-09T18:40:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/awmain.1773337690.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/fmj-software-updates-awave-studio-to-v12-16-68462?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68462">kvraudio.com</a> | <a href="https://www.fmjsoft.com/awavestudio.html">source</a></small></p><hr/><p>Version 12.16 is a maintenance release for the sampled instrument and audio file editor and format converter. The update focuses on improving software stability and fixing minor bugs and technical quirks.</p><p>Improvements include an enhanced undo system and the addition of new processing options.</p><p><img src="https://static.kvraudio.com/i/b/awmain.1773337690.png" /></p><hr/><small>9 Sep 2026, 21:30 UTC | #20588</small>]]></content>
+  </entry>
   <entry>
     <title>Audiomodern Updates Soundbox to v1.3.0 with MPE Support</title>
     <link href="https://www.kvraudio.com/news/audiomodern-updates-soundbox-to-v1-3-0---mpe-support-68458?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68458" rel="alternate" />

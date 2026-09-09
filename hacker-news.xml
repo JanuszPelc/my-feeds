@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T18:18:00+00:00</updated>
+  <updated>2026-09-09T18:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Malicious Domain Registrations Account for Up to 20% of New gTLDs</title>
+    <link href="https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/" rel="alternate" />
+    <id>https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/::v238</id>
+    <published>2026-09-09T18:44:00+00:00</published>
+    <updated>2026-09-09T18:44:00+00:00</updated>
+    <media:thumbnail url="https://shkspr.mobi/blog/wp-content/uploads/2026/08/gTLDs.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/">shkspr.mobi</a> | <a href="https://lobste.rs/s/veafpx/purpose_dns_is_spread_scams">discussion</a> | <a href="https://news.ycombinator.com/item?id=49595020">hacker news</a></small></p><hr/><p>An estimated 10% to 20% of new generic Top-Level Domain (gTLD) registrations are created by malicious actors to facilitate phishing and scam campaigns. Because new domains are accessible globally almost immediately after registration, criminals can launch massive campaigns before registrars or security blocklists can react to reports of abuse.</p><p>Mitigation strategies like mandatory identity verification or escrowed payments face significant hurdles regarding user privacy and the ease of legitimate registration. Additionally, the practice of blocklisting entire TLDs introduces risks of centralized control and potential collateral damage to legitimate registrants.</p><p><img src="https://shkspr.mobi/blog/wp-content/uploads/2026/08/gTLDs.webp" /></p><hr/><small>9 Sep 2026, 21:37 UTC | #20624</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Unveils iPhone Duo</title>
     <link href="https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/" rel="alternate" />

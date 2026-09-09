@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T18:26:00+00:00</updated>
+  <updated>2026-09-09T18:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Connor Leahy Discusses Superintelligence Risks and the 'Ban Superintelligence Act'</title>
+    <link href="https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/" rel="alternate" />
+    <id>https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/::v238</id>
+    <published>2026-09-09T18:38:00+00:00</published>
+    <updated>2026-09-09T18:38:00+00:00</updated>
+    <media:thumbnail url="https://framerusercontent.com/images/aZWpKleA5FxOqJnI0Ivl1jgHfA.jpeg?width=682&amp;height=1024" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/">techcrunch.com</a></small></p><hr/><p>Superintelligent AI systems represent an adversary rather than a weapon, according to ControlAI's Connor Leahy, who argues that current alignment and containment methods are insufficient for managing human-surpassing models. The discussion highlights the risk of a runaway self-improvement cycle triggered when AI develops the capacity to build its own successors.</p><p>The conversation explores the "Ban Superintelligence Act" and similar legislative movements in the U.K., framing frontier AI labs as major political actors. Additional topics include the economic impact of data center expansion and the potential for international "trust but verify" agreements regarding AI development.</p><p><img src="https://framerusercontent.com/images/aZWpKleA5FxOqJnI0Ivl1jgHfA.jpeg?width=682&height=1024" /></p><hr/><small>9 Sep 2026, 21:27 UTC | #20581</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI and Samsung Expand Cooperation on Next-Generation AI Chips</title>
     <link href="https://www.reuters.com/world/asia-pacific/openai-says-working-with-samsung-next-generation-chips-deepening-cooperation-2026-09-09/" rel="alternate" />
