@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T10:55:00+00:00</updated>
+  <updated>2026-09-09T10:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Refuses UK AI Safety Institute Testing for Mythos 5.1</title>
+    <link href="https://www.ft.com/content/560e1c8b-f163-4fd6-b604-e905550ac870" rel="alternate" />
+    <id>https://www.ft.com/content/560e1c8b-f163-4fd6-b604-e905550ac870::v238</id>
+    <published>2026-09-09T10:56:00+00:00</published>
+    <updated>2026-09-09T10:56:00+00:00</updated>
+    <media:thumbnail url="https://help.apiyi.com/wp-content/uploads/2026/03/claude-mythos-capybara-anthropic-most-powerful-ai-model-api-guide-en-image-0.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/560e1c8b-f163-4fd6-b604-e905550ac870">ft.com</a></small></p><hr/><p>Anthropic has declined to submit its Mythos 5.1 model to the UK AI Safety Institute (AISI) for pre-release testing. This decision has sparked concerns in the British government that US-based AI labs are increasingly aligning with domestic protectionist policies.</p><p>The move follows US government export control directives that have restricted foreign access to advanced models like Mythos 5. This tension highlights an intensifying debate over whether such restrictions will undermine international cooperation on AI safety standards.</p><p><img src="https://help.apiyi.com/wp-content/uploads/2026/03/claude-mythos-capybara-anthropic-most-powerful-ai-model-api-guide-en-image-0.png" /></p><hr/><small>9 Sep 2026, 13:42 UTC | #20532</small>]]></content>
+  </entry>
   <entry>
     <title>Flock Safety Expands Nationwide Surveillance Network Amidst Growing Privacy Concerns</title>
     <link href="https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit" rel="alternate" />
