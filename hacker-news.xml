@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T00:44:00+00:00</updated>
+  <updated>2026-09-09T01:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Reverse Engineering Egret GT E-Scooter Hardware and Firmware</title>
+    <link href="https://bensimms.moe/reverse-engineering-scooter/" rel="alternate" />
+    <id>https://bensimms.moe/reverse-engineering-scooter/::v238</id>
+    <published>2026-09-09T01:18:00+00:00</published>
+    <updated>2026-09-09T01:18:00+00:00</updated>
+    <media:thumbnail url="https://ejunkie.de/wp-content/uploads/2026/01/Egret_GT_Transparent_02-2048x1153.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://bensimms.moe/reverse-engineering-scooter/">bensimms.moe</a> | <a href="https://lobste.rs/s/pdr2bo/reverse_engineering_my_e_scooter">discussion</a></small></p><hr/><p>An Egret GT e-scooter was reverse engineered through hardware teardowns and CAN bus sniffing. The analysis involved using an ESP32-C6 based logger to capture communication between the display and controller, and accessing the motor controller's SWD port to dump flash and RAM contents.</p><p>Firmware analysis using Ghidra revealed multiple MCU applications, including a bootloader and a firmware updater. The project includes plans to rewrite the scooter's display unit firmware in Rust.</p><p><img src="https://ejunkie.de/wp-content/uploads/2026/01/Egret_GT_Transparent_02-2048x1153.png" /></p><hr/><small>9 Sep 2026, 08:40 UTC | #20535</small>]]></content>
+  </entry>
   <entry>
     <title>US Agencies Accuse Chinese AI Firms of Industrial-Scale Model Distillation</title>
     <link href="https://www.reuters.com/technology/us-accuses-chinese-ai-firms-industrial-scale-theft-ai-technology-2026-09-08/" rel="alternate" />
