@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T11:00:00+00:00</updated>
+  <updated>2026-09-09T11:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Progress on Stabilizing the Rust Allocator Trait</title>
+    <link href="https://cetra3.github.io/blog/state-of-allocators-2026-part-2/" rel="alternate" />
+    <id>https://cetra3.github.io/blog/state-of-allocators-2026-part-2/::v238</id>
+    <published>2026-09-09T11:04:00+00:00</published>
+    <updated>2026-09-09T11:04:00+00:00</updated>
+    <media:thumbnail url="https://pranitha.dev/imgs/rust_allocators/jemalloc.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://cetra3.github.io/blog/state-of-allocators-2026-part-2/">cetra3.github.io</a> | <a href="https://lobste.rs/s/9tck4q/state_allocators_2026_6_months_later">discussion</a></small></p><hr/><p>Efforts to stabilize the `Allocator` trait in Rust are ongoing, aimed at enabling the use of custom memory allocators with standard types like `Box` and `Vec`. The current implementation focuses on a minimal API surface to serve as a foundation, with the long-term goal of supporting `dyn` compatibility for dynamic dispatch.</p><p>Technical hurdles involve preventing unsoundness during stack unwinding and maintaining `Pin` memory guarantees. Proposed solutions include an unsafe marker trait, `AllocatorClone`, to ensure that cloning an allocator does not compromise memory safety or invalidate pinned data.</p><p><img src="https://pranitha.dev/imgs/rust_allocators/jemalloc.png" /></p><hr/><small>9 Sep 2026, 14:48 UTC | #20569</small>]]></content>
+  </entry>
+  <entry>
+    <title>Claude AI Instruction to Change Button Color</title>
+    <link href="https://opusfived.dev/" rel="alternate" />
+    <id>https://opusfived.dev/::v238</id>
+    <published>2026-09-09T11:03:00+00:00</published>
+    <updated>2026-09-09T11:03:00+00:00</updated>
+    <media:thumbnail url="https://lh5.googleusercontent.com/vfjaZcX4sOEO3v69l6vd1z7d0s4lwll6vvXvdbrmReHNfTxRboFA8woWcNJELtu6vebvEw1C7VRR8YyQsYvDEuOqmK5LkIKQpCD-oGyHDzNJwNjYnosVKifWovSKcdDDWFSGOymWEOMESHBEYE3lWw" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://opusfived.dev/">opusfived.dev</a> | <a href="https://news.ycombinator.com/item?id=49623754">hacker news</a></small></p><hr/><p>The text provides a specific instruction to the Claude AI model to change the color of an "Add to Cart" button to blue. The command includes a strict constraint to prevent the AI from making any other changes to the surrounding code or user interface.</p><p>Such constrained prompting is designed to manage AI-driven development workflows by preventing unintended side effects in existing codebases while performing targeted UI updates.</p><p><img src="https://lh5.googleusercontent.com/vfjaZcX4sOEO3v69l6vd1z7d0s4lwll6vvXvdbrmReHNfTxRboFA8woWcNJELtu6vebvEw1C7VRR8YyQsYvDEuOqmK5LkIKQpCD-oGyHDzNJwNjYnosVKifWovSKcdDDWFSGOymWEOMESHBEYE3lWw" /></p><hr/><small>9 Sep 2026, 14:44 UTC | #20568</small>]]></content>
+  </entry>
   <entry>
     <title>Type Inference and Its Impact on Code Comprehension</title>
     <link href="https://austinhenley.com/blog/typeinference.html" rel="alternate" />
@@ -949,32 +967,5 @@
     <updated>2026-09-04T18:54:00+00:00</updated>
     <media:thumbnail url="https://eighty-twenty.org/images/smolts-screenshot-20260904.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://eighty-twenty.org/2026/09/04/smolts">eighty-twenty.org</a> | <a href="https://lobste.rs/s/hr2txa/smolts_pedagogical_ide_for_teaching">discussion</a></small></p><hr/><p>Smolts provides an S-expression-based environment for teaching the Standard Model of Languages (SMoL). It allows users to step through programs while visualizing the current continuation, environment, and store, and annotates code with real-time variable and expression values.</p><p>The IDE includes a "run to cursor" function and the ability to step backward through execution. Ongoing development focuses on Svelte state management and in-browser Git-based project management to facilitate visible execution states for programming language education.</p><p><img src="https://eighty-twenty.org/images/smolts-screenshot-20260904.png" /></p><hr/><small>4 Sep 2026, 22:15 UTC | #20189</small>]]></content>
-  </entry>
-  <entry>
-    <title>Raspberry Pi OS Provisioning Challenges with cloud-init and Wireguard</title>
-    <link href="https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend" rel="alternate" />
-    <id>https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend::v238</id>
-    <published>2026-09-04T14:58:00+00:00</published>
-    <updated>2026-09-04T14:58:00+00:00</updated>
-    <media:thumbnail url="https://devguide.dev/assets/blog/wireguard-tunnel-raspberry-pi-to-gce/cover.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/ku30xf/what_are_you_doing_this_weekend">discussion</a></small></p><hr/><p>Debugging a headless setup using cloud-init and Wireguard revealed network connectivity issues when replicating configurations on existing VPN hosts. The problem stemmed from the local network interface and the Wireguard interface sharing the same IP address and netmask.</p><p>A temporary workaround was implemented by manually removing a route to avoid wide-scale infrastructure-as-code changes across other VPN hosts. The project aims to replace a single point of failure in a private network with the new Raspberry Pi unit.</p><p><img src="https://devguide.dev/assets/blog/wireguard-tunnel-raspberry-pi-to-gce/cover.png" /></p><hr/><small>4 Sep 2026, 20:12 UTC | #20181</small>]]></content>
-  </entry>
-  <entry>
-    <title>Microsoft Unveils Project Zenith Developer Experience</title>
-    <link href="https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers" rel="alternate" />
-    <id>https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers::v238</id>
-    <published>2026-09-04T14:49:00+00:00</published>
-    <updated>2026-09-04T14:49:00+00:00</updated>
-    <media:thumbnail url="https://i0.wp.com/thewincentral.com/wp-content/uploads/2022/09/Windows-11-23H2-Tablet-optimized-taskbar.jpg?w=1250&amp;ssl=1" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers">theverge.com</a> | <a href="https://blogs.windows.com/windowsdeveloper/2026/09/04/announcing-project-zenith-the-ready-to-code-windows-experience/">source</a></small></p><hr/><p>Microsoft has introduced Project Zenith, a developer-optimized Windows 11 experience designed for hardware with 64GB or more of unified memory. The system enables local, unmetered execution of AI models with over 30 billion parameters and provides a preconfigured suite of essential tools, including Visual Studio Code, GitHub Copilot, and PowerToys.</p><p>To minimize distractions, the environment disables start menu tips, account notifications, and sync provider alerts while enabling long-path support and expanded File Explorer settings. AMD has announced the first compatible device, a miniature PC powered by Ryzen AI Halo chips, with additional hardware expected in the coming months.</p><p><img src="https://i0.wp.com/thewincentral.com/wp-content/uploads/2022/09/Windows-11-23H2-Tablet-optimized-taskbar.jpg?w=1250&ssl=1" /></p><hr/><small>4 Sep 2026, 19:12 UTC | #20135</small>]]></content>
-  </entry>
-  <entry>
-    <title>Neovim's Structured Async API for Lua</title>
-    <link href="https://neovim.io/doc/user/lua-async/" rel="alternate" />
-    <id>https://neovim.io/doc/user/lua-async/::v238</id>
-    <published>2026-09-04T14:48:00+00:00</published>
-    <updated>2026-09-04T14:48:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/9hz3MXzu4Vw/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://neovim.io/doc/user/lua-async/">neovim.io</a> | <a href="https://lobste.rs/s/r58i7h/lua_async">discussion</a></small></p><hr/><p>Neovim's `vim.async` API provides a structured framework for executing asynchronous Lua code without blocking the editor's main event loop. The API allows developers to manage timers, callbacks, and other I/O-bound tasks through a task-based concurrency model.</p><p>This model utilizes cooperative multitasking, where tasks pause at defined checkpoints to allow other operations to run. The system includes features for managing task hierarchies, handling cooperative cancellation, and utilizing semaphores to limit concurrent operations like file I/O or subprocesses.</p><p><img src="https://i.ytimg.com/vi/9hz3MXzu4Vw/maxresdefault.jpg" /></p><hr/><small>4 Sep 2026, 18:59 UTC | #20176</small>]]></content>
   </entry>
 </feed>
