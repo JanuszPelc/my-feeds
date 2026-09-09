@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-08T18:53:00+00:00</updated>
+  <updated>2026-09-08T21:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Riot Games Considering Expansion into Premium Games</title>
+    <link href="https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games::v238</id>
+    <published>2026-09-08T21:15:00+00:00</published>
+    <updated>2026-09-08T21:15:00+00:00</updated>
+    <media:thumbnail url="https://www.riotgames.com/darkroom/1200/37908c1557254cd9f18662e3c731f344:834d85640b51b1b0218e56d846ec7195/marc.jpg" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games">gamedeveloper.com</a> | <a href="https://www.youtube.com/watch?v=TA5JJKd3xfg">source</a></small></p><hr/><p>Co-founder Marc Merrill has indicated that the studio is evaluating premium, single-purchase models to complement its free-to-play portfolio. Speaking at PAX West 2026, Merrill noted that while free-to-play is effective for long-term engagement through cosmetic sales, premium models may be better suited for certain genres to preserve design integrity.</p><p>This potential shift follows the decision to wind down development on the fighting game 2XKO. Merrill also reiterated the studio's ambition to develop a massively multiplayer online role-playing game (MMORPG), a project he described as "the Grail."</p><p><img src="https://www.riotgames.com/darkroom/1200/37908c1557254cd9f18662e3c731f344:834d85640b51b1b0218e56d846ec7195/marc.jpg" /></p><hr/><small>9 Sep 2026, 02:38 UTC | #20507</small>]]></content>
+  </entry>
   <entry>
     <title>White House Removes Tetris Clone Following The Tetris Company Copyright Warning</title>
     <link href="https://kotaku.com/white-house-removes-awful-tetris-clone-from-website-after-the-tetris-company-posted-it-takes-copyright-infringement-very-seriously-2000732129" rel="alternate" />
