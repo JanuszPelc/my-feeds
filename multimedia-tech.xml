@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-08T18:47:00+00:00</updated>
+  <updated>2026-09-08T18:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>White House Removes Tetris Clone Following The Tetris Company Copyright Warning</title>
+    <link href="https://kotaku.com/white-house-removes-awful-tetris-clone-from-website-after-the-tetris-company-posted-it-takes-copyright-infringement-very-seriously-2000732129" rel="alternate" />
+    <id>https://kotaku.com/white-house-removes-awful-tetris-clone-from-website-after-the-tetris-company-posted-it-takes-copyright-infringement-very-seriously-2000732129::v238</id>
+    <published>2026-09-08T18:53:00+00:00</published>
+    <updated>2026-09-08T18:53:00+00:00</updated>
+    <media:thumbnail url="https://kotaku.com/app/uploads/2026/09/image-259.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://kotaku.com/white-house-removes-awful-tetris-clone-from-website-after-the-tetris-company-posted-it-takes-copyright-infringement-very-seriously-2000732129">kotaku.com</a> | <a href="https://x.com/Tetris_Official/status/2095933372019216384">source</a></small></p><hr/><p>The White House has removed "Build the Wall," a game modeled after Tetris, from its web arcade portal. The removal follows a public statement from The Tetris Company, which distanced itself from the project and warned that it takes copyright infringement very seriously.</p><p>The game was part of a series of controversial web titles launched by the administration that used popular video game motifs to convey political themes. This incident represents a significant instance of a major gaming company signaling potential legal action against the government regarding the unauthorized use of intellectual property.</p><p><img src="https://kotaku.com/app/uploads/2026/09/image-259.jpg" /></p><hr/><small>9 Sep 2026, 00:32 UTC | #20485</small>]]></content>
+  </entry>
   <entry>
     <title>EA Sports Reportedly Using Generative AI for NHL 27 Voiceover</title>
     <link href="https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator" rel="alternate" />
