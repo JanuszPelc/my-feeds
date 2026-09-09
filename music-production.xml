@@ -464,49 +464,4 @@
     <media:thumbnail url="https://musictech.com/wp-content/uploads/2025/11/Cubase-15-hero@2000x1500.jpg" />
     <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/cubase-15-deal-40-off-discount/">musictech.com</a> | <a href="https://www.steinberg.net/promotion/cubase-update-upgrade-sale/">source</a></small></p><hr/><p>Steinberg is offering 40% discounts on Cubase 15 and Cubasis through September 28. The promotion features crossgrade pricing for Cubase 15 at £178.80 and significantly reduced upgrade costs for Cubase Pro, Artist, and Elements versions.</p><p>Activating Cubase Pro 15 provides 60% discount vouchers for Absolute, SpectraLayers Pro, Dorico Pro, and WaveLab Pro. Additionally, the sale includes 60% discounts on four other Steinberg products for users who activate Cubase 15 during the promotion.</p><p><img src="https://musictech.com/wp-content/uploads/2025/11/Cubase-15-hero@2000x1500.jpg" /></p><hr/><small>4 Sep 2026, 19:32 UTC | #20154</small>]]></content>
   </entry>
-  <entry>
-    <title>Native Instruments Updates Kontakt to v8.13</title>
-    <link href="https://www.kvraudio.com/news/native-instruments-updates-kontakt-to-v8-13-68383?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68383" rel="alternate" />
-    <id>https://www.kvraudio.com/news/native-instruments-updates-kontakt-to-v8-13-68383?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68383::v238</id>
-    <published>2026-09-04T13:26:00+00:00</published>
-    <updated>2026-09-04T13:26:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2025/02/Native-Instruments-Kontakt-8-Hiding-Performance-UI-in-Classic-View-credit-MusicTech@1400x1050.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/native-instruments-updates-kontakt-to-v8-13-68383?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68383">kvraudio.com</a> | <a href="https://www.native-instruments.com/products/kontakt">source</a></small></p><hr/><p>Kontakt version 8.13 introduces several user interface enhancements, including level meters, a favorites button, and selection focus indicators in the instrument headers. The update also adds a new save dialogue for snapshots and allows for instrument and tool reordering via the headers.</p><p>This release addresses multiple functional bugs, such as issues where preset and snapshot names failed to update correctly during DAW recall. Additionally, the "New Instruments For You" panel has been deprecated, and fixes were applied to broken help documentation links and hidden character errors in the Info Panel.</p><p><img src="https://musictech.com/wp-content/uploads/2025/02/Native-Instruments-Kontakt-8-Hiding-Performance-UI-in-Classic-View-credit-MusicTech@1400x1050.jpg" /></p><hr/><small>4 Sep 2026, 18:15 UTC | #20139</small>]]></content>
-  </entry>
-  <entry>
-    <title>neverfoundaudio Releases VT-Mini Free Vocal Tuner Plugin</title>
-    <link href="https://www.kvraudio.com/news/neverfoundaudio-releases-vt-mini---free-vocal-tuner-plugin-windows-vst3-68382?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68382" rel="alternate" />
-    <id>https://www.kvraudio.com/news/neverfoundaudio-releases-vt-mini---free-vocal-tuner-plugin-windows-vst3-68382?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68382::v238</id>
-    <published>2026-09-04T13:23:00+00:00</published>
-    <updated>2026-09-04T13:23:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/vtminiscreenshottune.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/neverfoundaudio-releases-vt-mini---free-vocal-tuner-plugin-windows-vst3-68382?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68382">kvraudio.com</a> | <a href="https://neverfoundaudio.com/free-vt-mini">source</a></small></p><hr/><p>neverfoundaudio has released VT-Mini, a free vocal tuner plugin for Windows. The plugin includes a "Tune" module for pitch correction and a "Clean" module for de-essing and low-cut filtering.</p><p>The software is available in VST3 and standalone formats, offering dedicated low-latency and studio modes for different recording workflows. Users can obtain the full plugin by confirming their email address through the developer's newsletter.</p><p><img src="https://static.kvraudio.com/i/b/vtminiscreenshottune.png" /></p><hr/><small>4 Sep 2026, 17:57 UTC | #20148</small>]]></content>
-  </entry>
-  <entry>
-    <title>dBdone Releases Wasser Free Multiband Delay Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/04/dbdone-wasser/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/04/dbdone-wasser/::v238</id>
-    <published>2026-09-04T13:19:00+00:00</published>
-    <updated>2026-09-04T13:19:00+00:00</updated>
-    <media:thumbnail url="https://img.audiofanzine.com/images/u/fr/news/cover/dbdone-met-a-disposition-glas-81449.png" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/04/dbdone-wasser/">bedroomproducersblog.com</a> | <a href="https://dbdone.substack.com/p/free-plugin-number-three-wasser">source</a> | <a href="https://bedroomproducersblog.com/2026/09/04/dbdone-wasser/#respond">discussion</a></small></p><hr/><p>dBdone has released Wasser, a free multiband delay plugin compatible with macOS and Windows. The plugin splits incoming signals into frequency bands, allowing users to manually draw different delay times for each band on a grid to create rhythmic groove and swing.</p><p>Designed to prevent percussion and drums from sounding static, the tool provides more timing variation than traditional single-delay lines. It is available in VST3, Audio Unit, and AAX formats.</p><p><img src="https://img.audiofanzine.com/images/u/fr/news/cover/dbdone-met-a-disposition-glas-81449.png" /></p><hr/><small>4 Sep 2026, 17:29 UTC | #20146</small>]]></content>
-  </entry>
-  <entry>
-    <title>Yurt Rock Releases Pick Pocket Audio-to-MIDI Drum Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/04/yurt-rock-pick-pocket/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/04/yurt-rock-pick-pocket/::v238</id>
-    <published>2026-09-04T13:18:00+00:00</published>
-    <updated>2026-09-04T13:18:00+00:00</updated>
-    <media:thumbnail url="https://unison.audio/wp-content/uploads/EZ-presets.png.webp" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/04/yurt-rock-pick-pocket/">bedroomproducersblog.com</a> | <a href="https://yurtrock.com/products/pick-pocket-audio-to-midi-drum-plug-in">source</a></small></p><hr/><p>Yurt Rock has released Pick Pocket, an audio-to-MIDI drum plugin for macOS and Windows. The plugin extracts grooves from drum recordings and converts them into editable, unquantized MIDI, designed to preserve the original swing and timing of a performance.</p><p>Priced at $49, the tool allows producers to capture the nuance of live drumming without forcing performance data onto a rigid grid. Yurt Rock members also gain the ability to extract grooves from the company's catalog of over 190 sample packs.</p><p><img src="https://unison.audio/wp-content/uploads/EZ-presets.png.webp" /></p><hr/><small>4 Sep 2026, 17:17 UTC | #20147</small>]]></content>
-  </entry>
-  <entry>
-    <title>M Media Audio Releases Three New Plugins and Makes Reference Player Free on Windows</title>
-    <link href="https://www.kvraudio.com/news/m-media-audio-releases-lake-ontario-leadfoot-and-dualtronix-plugins-plus-reference-player-is-now-free-on-windows-68348?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68348" rel="alternate" />
-    <id>https://www.kvraudio.com/news/m-media-audio-releases-lake-ontario-leadfoot-and-dualtronix-plugins-plus-reference-player-is-now-free-on-windows-68348?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68348::v238</id>
-    <published>2026-09-04T13:17:00+00:00</published>
-    <updated>2026-09-04T13:17:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot-lakeontario-01.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/m-media-audio-releases-lake-ontario-leadfoot-and-dualtronix-plugins-plus-reference-player-is-now-free-on-windows-68348?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68348">kvraudio.com</a> | <a href="https://www.mmediaaudio.com/">source</a></small></p><hr/><p>M Media Audio has released three new audio plugins: Lake Ontario, a compression and EQ tool; Leadfoot, a kick drum processing strip; and Dualtronix, a dual-channel opto leveling amplifier. These plugins are available as perpetual licenses for VST3 and AU formats on Windows, Linux, and macOS, with prices ranging from $29 to $49.</p><p>Additionally, the company has made its Reference Player free for Windows users via the Microsoft Store, removing previous trial limitations. While the software's mastering-grade signal chain and metering features are now accessible for free, a $5 one-time fee is still required for the disc-burning functionality.</p><p><img src="https://static.kvraudio.com/i/b/screenshot-lakeontario-01.jpg" /></p><hr/><small>4 Sep 2026, 17:05 UTC | #20134</small>]]></content>
-  </entry>
 </feed>

@@ -959,22 +959,4 @@
     <media:thumbnail url="https://i.ytimg.com/vi/9hz3MXzu4Vw/maxresdefault.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://neovim.io/doc/user/lua-async/">neovim.io</a> | <a href="https://lobste.rs/s/r58i7h/lua_async">discussion</a></small></p><hr/><p>Neovim's `vim.async` API provides a structured framework for executing asynchronous Lua code without blocking the editor's main event loop. The API allows developers to manage timers, callbacks, and other I/O-bound tasks through a task-based concurrency model.</p><p>This model utilizes cooperative multitasking, where tasks pause at defined checkpoints to allow other operations to run. The system includes features for managing task hierarchies, handling cooperative cancellation, and utilizing semaphores to limit concurrent operations like file I/O or subprocesses.</p><p><img src="https://i.ytimg.com/vi/9hz3MXzu4Vw/maxresdefault.jpg" /></p><hr/><small>4 Sep 2026, 18:59 UTC | #20176</small>]]></content>
   </entry>
-  <entry>
-    <title>US Military Disables Ad Trackers on Government-Issued Devices</title>
-    <link href="https://www.reuters.com/business/media-telecom/us-military-turns-off-ad-trackers-devices-amid-middle-east-targeting-reports-2026-09-04/" rel="alternate" />
-    <id>https://www.reuters.com/business/media-telecom/us-military-turns-off-ad-trackers-devices-amid-middle-east-targeting-reports-2026-09-04/::v238</id>
-    <published>2026-09-04T13:25:00+00:00</published>
-    <updated>2026-09-04T13:25:00+00:00</updated>
-    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1VK4tO.img?w=1920&amp;h=1080&amp;m=4&amp;q=89" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/media-telecom/us-military-turns-off-ad-trackers-devices-amid-middle-east-targeting-reports-2026-09-04/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=49562726">hacker news</a></small></p><hr/><p>U.S. military branches have deactivated advertising trackers on government-issued phones and computers. This action follows reports that commercial location data was used to target American forces in the Middle East.</p><p>The move was prompted by letters from U.S. Senator Ron Wyden. This security measure aims to mitigate risks stemming from the collection and sale of precise movement data by third-party advertisers.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1VK4tO.img?w=1920&h=1080&m=4&q=89" /></p><hr/><small>4 Sep 2026, 18:12 UTC | #20131</small>]]></content>
-  </entry>
-  <entry>
-    <title>DeepSeek to Use 160,000 Huawei AI Chips in Inner Mongolia</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center::v238</id>
-    <published>2026-09-04T13:20:00+00:00</published>
-    <updated>2026-09-04T13:20:00+00:00</updated>
-    <media:thumbnail url="https://abit.ee/images/huawei-atlas-950-superpod-ascend-950-mwc-2026-nvidia-supercomputer-ai-accelerator-china-01.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center">bloomberg.com</a></small></p><hr/><p>The company intends to install over 160,000 Huawei Technologies Ascend 950DT accelerators at a massive new data center in Inner Mongolia. This would result in one of the largest Huawei AI chip clusters.</p><p>Implementation timing is contingent on Huawei's manufacturing and production capacity. The order represents a major expansion of the firm's computing infrastructure using domestic hardware.</p><p><img src="https://abit.ee/images/huawei-atlas-950-superpod-ascend-950-mwc-2026-nvidia-supercomputer-ai-accelerator-china-01.webp" /></p><hr/><small>4 Sep 2026, 17:51 UTC | #20127</small>]]></content>
-  </entry>
 </feed>
