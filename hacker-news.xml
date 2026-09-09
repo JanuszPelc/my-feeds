@@ -959,22 +959,4 @@
     <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/993996821/original/436fc737f0/1?v=1" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://crumbles.blog/posts/2026-09-04-r7rs-wtf.html">crumbles.blog</a> | <a href="https://lobste.rs/s/4vsl2j/wtf_is_going_on_with_r7rs_large_2026">discussion</a></small></p><hr/><p>Governance and leadership conflicts have emerged within the Scheme community involving the language's steering committee and working group. These disputes include disagreements over the handling of misconduct allegations, the procedural implementation of SRFI 261, and the composition of the new steering committee.</p><p>Following a period of medical leave, the former chair was dismissed from their position despite a nearly unanimous vote by the working group to reinstate them. This incident underscores broader concerns regarding accountability and the enforcement of codes of conduct within the language's governance structure.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/993996821/original/436fc737f0/1?v=1" /></p><hr/><small>4 Sep 2026, 15:22 UTC | #20153</small>]]></content>
   </entry>
-  <entry>
-    <title>The NX Bit Prevents Speculative Instruction Fetches in MMIO</title>
-    <link href="https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/" rel="alternate" />
-    <id>https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/::v238</id>
-    <published>2026-09-04T08:06:00+00:00</published>
-    <updated>2026-09-04T08:06:00+00:00</updated>
-    <media:thumbnail url="https://product.hubspot.com/hs-fs/hubfs/PB12.png?width=1600&amp;height=794&amp;name=PB12.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/">purplesyringa.moe</a> | <a href="https://lobste.rs/s/eokmrg/nx_bit_is_not_just_about_security">discussion</a></small></p><hr/><p>Debugging an ARM64 hypervisor for postmarketOS revealed that enabling the CTR_EL0 intercept caused hardware hangs on certain MediaTek SoCs. The issue was caused by speculative instruction fetches into MMIO regions, which are not prevented by "Device" memory attributes alone.</p><p>Marking these regions as non-executable resolved the issue, demonstrating that the No-Execute (NX) bit is required to prevent speculative instruction fetches in addition to its standard role in security and Data Execution Prevention (DEP).</p><p><img src="https://product.hubspot.com/hs-fs/hubfs/PB12.png?width=1600&height=794&name=PB12.png" /></p><hr/><small>4 Sep 2026, 13:51 UTC | #20145</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple's Foldable iPhone Production Limited to a Few Hundred Units Per Day</title>
-    <link href="https://asia.nikkei.com/business/electronics/early-foldable-iphone-production-limited-to-a-few-hundred-per-day-sources" rel="alternate" />
-    <id>https://asia.nikkei.com/business/electronics/early-foldable-iphone-production-limited-to-a-few-hundred-per-day-sources::v238</id>
-    <published>2026-09-04T08:05:00+00:00</published>
-    <updated>2026-09-04T08:05:00+00:00</updated>
-    <media:thumbnail url="https://cdn.technobezz.com/c/Technobezz_2026_04_08_T141212_154_17146f4e55_c89d8673b5.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://asia.nikkei.com/business/electronics/early-foldable-iphone-production-limited-to-a-few-hundred-per-day-sources">asia.nikkei.com</a></small></p><hr/><p>Initial production of Apple's first foldable iPhone is limited to a few hundred units per day due to the company's strict quality control standards. Apple and its suppliers are working to increase manufacturing output while maintaining these high requirements.</p><p>The limited production volume underscores the technical challenges of scaling manufacturing for foldable devices. Efforts to ramp up supply are focused on balancing increased output with the company's rigorous quality benchmarks.</p><p><img src="https://cdn.technobezz.com/c/Technobezz_2026_04_08_T141212_154_17146f4e55_c89d8673b5.jpg" /></p><hr/><small>4 Sep 2026, 13:46 UTC | #20111</small>]]></content>
-  </entry>
 </feed>
