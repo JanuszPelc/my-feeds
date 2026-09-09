@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-09T13:39:00+00:00</updated>
+  <updated>2026-09-09T13:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>t4 Digital Studio Releases AlterVerb 53 Reverb Plugin</title>
+    <link href="https://www.kvraudio.com/news/t4-digital-studio-releases-alterverb-53-free-vst3-reverb-68457?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68457" rel="alternate" />
+    <id>https://www.kvraudio.com/news/t4-digital-studio-releases-alterverb-53-free-vst3-reverb-68457?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68457::v238</id>
+    <published>2026-09-09T13:51:00+00:00</published>
+    <updated>2026-09-09T13:51:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/alterverb53_kvr_png128.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/t4-digital-studio-releases-alterverb-53-free-vst3-reverb-68457?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68457">kvraudio.com</a> | <a href="https://t4digitalstudio.gumroad.com/l/alterverb">source</a></small></p><hr/><p>t4 Digital Studio has released AlterVerb 53, a VST3 reverb plugin for Windows designed for complex audio sources. The plugin aims to provide spatial depth, width, and detail while preserving the clarity and definition of the original signal.</p><p>Users have independent control over early reflections, reverb tails, room size, density, diffusion, damping, and modulation. The plugin also includes a Peak Smooth section to manage harsh high-frequency peaks and features a resizable interface with preset loading and saving capabilities.</p><p><img src="https://static.kvraudio.com/i/b/alterverb53_kvr_png128.png" /></p><hr/><small>9 Sep 2026, 18:37 UTC | #20571</small>]]></content>
+  </entry>
   <entry>
     <title>Algoriffix Releases Transkr V4 with MusicXML Export and Saxophone Support</title>
     <link href="https://www.kvraudio.com/news/algoriffix-releases-transkr-v4---musicxml-export-and-saxophone-support-68448?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68448" rel="alternate" />
