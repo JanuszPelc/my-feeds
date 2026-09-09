@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T11:04:00+00:00</updated>
+  <updated>2026-09-09T11:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rustls Marks a Decade of Development</title>
+    <link href="https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/" rel="alternate" />
+    <id>https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/::v238</id>
+    <published>2026-09-09T11:14:00+00:00</published>
+    <updated>2026-09-09T11:14:00+00:00</updated>
+    <media:thumbnail url="https://rustfoundation.org/wp-content/uploads/2025/10/54827258067_095e3383c3_c.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/">rustls.dev</a> | <a href="https://lobste.rs/s/zffgb8/decade_rustls">discussion</a></small></p><hr/><p>The project has evolved from its initial 2016 commit to become a foundational security component in the Rust ecosystem. Major milestones achieved over the last decade include the implementation of QUIC support, FIPS certification, and post-quantum cryptography, with development accelerated by funding from the CNCF and ISRG.</p><p>Looking toward a stable 1.0 release, the upcoming 0.24 version will introduce external buffering for improved data performance, async-friendly session management via session types, and a "split mode" for full-duplex throughput. The update also reorganizes the CryptoProvider architecture to improve modularity and resolve feature unification issues.</p><p><img src="https://rustfoundation.org/wp-content/uploads/2025/10/54827258067_095e3383c3_c.jpg" /></p><hr/><small>9 Sep 2026, 15:13 UTC | #20574</small>]]></content>
+  </entry>
   <entry>
     <title>Progress on Stabilizing the Rust Allocator Trait</title>
     <link href="https://cetra3.github.io/blog/state-of-allocators-2026-part-2/" rel="alternate" />

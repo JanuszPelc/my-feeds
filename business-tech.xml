@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T10:56:00+00:00</updated>
+  <updated>2026-09-09T13:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Tailwind Labs Joins Shopify</title>
+    <link href="https://tailwindcss.com/blog/tailwind-is-joining-shopify" rel="alternate" />
+    <id>https://tailwindcss.com/blog/tailwind-is-joining-shopify::v238</id>
+    <published>2026-09-09T13:28:00+00:00</published>
+    <updated>2026-09-09T13:28:00+00:00</updated>
+    <media:thumbnail url="https://tailwindcss.com/plus-assets/img/og/default.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://tailwindcss.com/blog/tailwind-is-joining-shopify">tailwindcss.com</a> | <a href="https://news.ycombinator.com/item?id=49626190">hacker news</a></small></p><hr/><p>Tailwind Labs is joining Shopify to provide long-term stability and maintenance for the Tailwind CSS framework. All open-source projects will continue to be maintained by the existing team under the MIT license. While existing customers of Tailwind Plus and ui.sh will retain their access, the company is closing sign-ups for new customers to focus on integrating the framework into Shopify's ecosystem.</p><p>Shopify, an early adopter of Tailwind CSS, intends to utilize the framework across its merchant and customer-facing interfaces, including its storefronts and the Shop app. The move is intended to allow the development team to solve complex interface challenges within a large-scale product environment as Shopify explores new frontiers in agentic commerce.</p><p><img src="https://tailwindcss.com/plus-assets/img/og/default.png" /></p><hr/><small>9 Sep 2026, 15:16 UTC | #20573</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Refuses UK AI Safety Institute Testing for Mythos 5.1</title>
     <link href="https://www.ft.com/content/560e1c8b-f163-4fd6-b604-e905550ac870" rel="alternate" />
