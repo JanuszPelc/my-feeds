@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-09T02:11:00+00:00</updated>
+  <updated>2026-09-09T02:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Deltafin Enables Running Kimi K3 on Apple Silicon via SSD Streaming</title>
+    <link href="https://github.com/argonautlabsai/deltafin" rel="alternate" />
+    <id>https://github.com/argonautlabsai/deltafin::v238</id>
+    <published>2026-09-09T02:13:00+00:00</published>
+    <updated>2026-09-09T02:13:00+00:00</updated>
+    <media:thumbnail url="https://i.gzn.jp/img/2026/07/17/kimi-k3/04.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/argonautlabsai/deltafin">github.com</a> | <a href="https://news.ycombinator.com/item?id=49616257">hacker news</a></small></p><hr/><p>Deltafin allows the 2.8-trillion-parameter Kimi K3 Mixture-of-Experts (MoE) model to run on Apple Silicon by streaming expert weights from external SSDs. Using ARGODRIVE storage technology, the implementation achieved a steady decode speed of approximately 1 token per second on an M5 Max MacBook Pro with 128 GB of RAM. Unlike methods that rely on model pruning or quantization to fit large models into local memory, Deltafin runs the full, unpruned Kimi K3 model to ensure the output matches the original release.</p><p>The project serves as a research experiment into pushing the limits of consumer hardware to host massive frontier models. Benchmarks indicate that increasing the number of drives improves throughput, with four drives reaching approximately 90% of the total bandwidth. While current prefill times are impacted by the need to re-read expert layers, the ability to run high-parameter models locally offers a potential path for self-hosting AI on consumer-grade setups rather than relying on large-scale cloud infrastructure.</p><p><img src="https://i.gzn.jp/img/2026/07/17/kimi-k3/04.png" /></p><hr/><small>9 Sep 2026, 10:37 UTC | #20539</small>]]></content>
+  </entry>
   <entry>
     <title>Data Improvements Drive Most AI Pretraining Progress</title>
     <link href="https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data" rel="alternate" />

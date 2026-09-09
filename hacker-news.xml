@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T01:18:00+00:00</updated>
+  <updated>2026-09-09T03:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Microsoft Releases September 2026 Security Updates Addressing 972 Vulnerabilities</title>
+    <link href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/" rel="alternate" />
+    <id>https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/::v238</id>
+    <published>2026-09-09T03:21:00+00:00</published>
+    <updated>2026-09-09T03:21:00+00:00</updated>
+    <media:thumbnail url="https://www.duallayerit.com/wp-content/uploads/2025/09/DualLayerIT-Summary-Table-of-Vulnerabilities-Addressed-in-Patch-Tuesday-September-2025.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/">arstechnica.com</a> | <a href="https://msrc.microsoft.com/update-guide">source</a> | <a href="https://news.ycombinator.com/item?id=49405471">hacker news</a></small></p><hr/><p>Microsoft's September 2026 Patch Tuesday addressed 972 vulnerabilities, 112 of which are classified as critical. This represents a record-breaking monthly total for the company, following a trend of significant increases in the number of flaws addressed in previous months.</p><p>Security researchers characterize this surge in monthly patch volume as a "new normal" driven by the advancement of AI-assisted vulnerability discovery. While the scale of these updates is increasing across the software industry, experts note that a corresponding spike in actively exploited vulnerabilities has not yet been observed.</p><p><img src="https://www.duallayerit.com/wp-content/uploads/2025/09/DualLayerIT-Summary-Table-of-Vulnerabilities-Addressed-in-Patch-Tuesday-September-2025.png" /></p><hr/><small>9 Sep 2026, 10:39 UTC | #20522</small>]]></content>
+  </entry>
   <entry>
     <title>Reverse Engineering Egret GT E-Scooter Hardware and Firmware</title>
     <link href="https://bensimms.moe/reverse-engineering-scooter/" rel="alternate" />
