@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-08T23:36:00+00:00</updated>
+  <updated>2026-09-08T23:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>AethisDSP Releases Aethis 1.1.0 Guitar Amp Simulator</title>
+    <link href="https://www.kvraudio.com/news/aethisdsp-releases-aethis-1-1-0---neural-guitar-amp-sim-with-a-built-in-harmonizer-68442?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68442" rel="alternate" />
+    <id>https://www.kvraudio.com/news/aethisdsp-releases-aethis-1-1-0---neural-guitar-amp-sim-with-a-built-in-harmonizer-68442?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68442::v238</id>
+    <published>2026-09-08T23:41:00+00:00</published>
+    <updated>2026-09-08T23:41:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/04-aethis-pedals.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/aethisdsp-releases-aethis-1-1-0---neural-guitar-amp-sim-with-a-built-in-harmonizer-68442?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68442">kvraudio.com</a> | <a href="https://aethis.aethisdsp.com/">source</a></small></p><hr/><p>AethisDSP has released Aethis 1.1.0, a guitar amplifier simulator centered on neural amp modeling. The plugin integrates three amp models, cabinet simulation, a parametric EQ, a harmonizer, and a full set of pedals within a single interface.</p><p>The software is available for a $34.99 perpetual license and includes a 14-day free trial. It is compatible with Windows and Linux, though the Linux version is currently in beta and requires Vulkan drivers to function.</p><p><img src="https://static.kvraudio.com/i/b/04-aethis-pedals.jpg" /></p><hr/><small>9 Sep 2026, 05:08 UTC | #20527</small>]]></content>
+  </entry>
   <entry>
     <title>Embassy Studios Focuses on Acoustic Design and Collaborative Workflows</title>
     <link href="https://musictech.com/features/interviews/inside-embassy-studios-where-the-rooms-become-part-of-the-signal-chain/" rel="alternate" />
