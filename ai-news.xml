@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-09T13:44:00+00:00</updated>
+  <updated>2026-09-09T13:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Instacart Launches Clementine AI Grocery Shopping Assistant</title>
+    <link href="https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/::v238</id>
+    <published>2026-09-09T13:46:00+00:00</published>
+    <updated>2026-09-09T13:46:00+00:00</updated>
+    <media:thumbnail url="https://imgproxy.divecdn.com/ZzeWnEECOWhnCsZ2LZWzjZqJsXhIiLEMevyXOsKJAcw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DbGF1ZGVfLV9IZXJvX0ltYWdlLmpwZw==.webp" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/">techcrunch.com</a></small></p><hr/><p>Instacart has launched Clementine, an AI-powered assistant that converts recipes, grocery lists, and natural-language queries into ready-to-buy shopping carts. The tool supports dietary preferences like gluten-free or vegetarian options and can process handwritten or digital list screenshots. It also surfaces relevant deals and suggests lower-cost product alternatives.</p><p>This release follows similar AI assistant integrations by Uber Eats and DoorDash. By moving into the meal planning and decision-making space, Instacart aims to become a central household utility and reduce user reliance on general-purpose AI chatbots.</p><p><img src="https://imgproxy.divecdn.com/ZzeWnEECOWhnCsZ2LZWzjZqJsXhIiLEMevyXOsKJAcw/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DbGF1ZGVfLV9IZXJvX0ltYWdlLmpwZw==.webp" /></p><hr/><small>9 Sep 2026, 18:06 UTC | #20554</small>]]></content>
+  </entry>
   <entry>
     <title>Desert Ant Labs Launches On-Device AI Models and SDK</title>
     <link href="https://desertant.com/blog/introducing-desert-ant-labs/" rel="alternate" />
