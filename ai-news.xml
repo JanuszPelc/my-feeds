@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-08T19:11:00+00:00</updated>
+  <updated>2026-09-09T00:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Jacob Coxon Resigns from Anthropic Over AI Safety Concerns</title>
+    <link href="https://twitter.com/hilbertspaess/status/2097476196791709843#m" rel="alternate" />
+    <id>https://twitter.com/hilbertspaess/status/2097476196791709843#m::v238</id>
+    <published>2026-09-09T00:41:00+00:00</published>
+    <updated>2026-09-09T00:41:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQFRYF0I-PjtCQ/feedshare-shrink_1280/B4EZxMf6AkJAAg-/0/1770809958819?e=2147483647&amp;v=beta&amp;t=m-cbRZeXNyLcBfbrbwApu3WQqSv4jDM3LeXjsK4KqmY" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://twitter.com/hilbertspaess/status/2097476196791709843#m">twitter.com</a> | <a href="https://x.com/hilbertspaess/status/2097476196791709843">source</a> | <a href="https://news.ycombinator.com/item?id=49619227">hacker news</a></small></p><hr/><p>Jacob Coxon, a pretraining researcher who has worked at both OpenAI and Anthropic, has resigned from Anthropic. Coxon warns that both companies are engaged in a reckless race toward self-improving superintelligence, characterizing the competition as a "hubristic gamble" that lacks sufficient safety and responsibility.</p><p>Coxon observes that while many in the industry privately fear the catastrophic risks of AI, the competitive pressure to reach superintelligence first prevents labs from prioritizing safety. He suggests that preventing an uncontrolled global race might require international coordination or temporary restrictions on model capability improvements.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQFRYF0I-PjtCQ/feedshare-shrink_1280/B4EZxMf6AkJAAg-/0/1770809958819?e=2147483647&v=beta&t=m-cbRZeXNyLcBfbrbwApu3WQqSv4jDM3LeXjsK4KqmY" /></p><hr/><small>9 Sep 2026, 05:35 UTC | #20531</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Launches Muse Personal AI Agent</title>
     <link href="https://www.axios.com/2026/09/08/meta-debuts-muse-personal-ai-agent" rel="alternate" />
