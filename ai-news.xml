@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-09T00:41:00+00:00</updated>
+  <updated>2026-09-09T02:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Data Improvements Drive Most AI Pretraining Progress</title>
+    <link href="https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data" rel="alternate" />
+    <id>https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data::v238</id>
+    <published>2026-09-09T02:11:00+00:00</published>
+    <updated>2026-09-09T02:11:00+00:00</updated>
+    <media:thumbnail url="https://arxiv.org/html/2604.15706v1/x7.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data">dwarkesh.com</a></small></p><hr/><p>Data improvements have contributed significantly more to AI pretraining efficiency than model architectural changes. At a 1e19 FLOPs compute budget, data enhancements yielded a 12.0x efficiency multiplier, compared to a 3.7x multiplier from model improvements.</p><p>While model innovations like FlashAttention and Mixture-of-Experts (MoE) are essential for enabling training stability at massive scales, the results suggest that current progress is primarily a function of data curation and volume. This underscores the potential impact of the "data wall" and the role of synthetic data in sustaining future development.</p><p><img src="https://arxiv.org/html/2604.15706v1/x7.png" /></p><hr/><small>9 Sep 2026, 09:15 UTC | #20520</small>]]></content>
+  </entry>
   <entry>
     <title>Jacob Coxon Resigns from Anthropic Over AI Safety Concerns</title>
     <link href="https://twitter.com/hilbertspaess/status/2097476196791709843#m" rel="alternate" />
