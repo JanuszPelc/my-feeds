@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T03:21:00+00:00</updated>
+  <updated>2026-09-09T06:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Expected to Debut Foldable iPhone Duo</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-09/apple-event-details-2-000-iphone-duo-apple-watch-series-12-recording-feature?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODkyNjc3OSwiZXhwIjoxNzg5NTMxNTc5LCJhcnRpY2xlSWQiOiJUTDJBRTFLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.aPv2WOdayT-dHgMEwgSmlY6vJOZzEflGX_csJZNWbXI" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-09/apple-event-details-2-000-iphone-duo-apple-watch-series-12-recording-feature?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODkyNjc3OSwiZXhwIjoxNzg5NTMxNTc5LCJhcnRpY2xlSWQiOiJUTDJBRTFLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.aPv2WOdayT-dHgMEwgSmlY6vJOZzEflGX_csJZNWbXI::v238</id>
+    <published>2026-09-09T06:39:00+00:00</published>
+    <updated>2026-09-09T06:39:00+00:00</updated>
+    <media:thumbnail url="https://cdn.rswebsols.com/wp-content/uploads/2025/12/Foldable-iPhone.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-09/apple-event-details-2-000-iphone-duo-apple-watch-series-12-recording-feature?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODkyNjc3OSwiZXhwIjoxNzg5NTMxNTc5LCJhcnRpY2xlSWQiOiJUTDJBRTFLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.aPv2WOdayT-dHgMEwgSmlY6vJOZzEflGX_csJZNWbXI">bloomberg.com</a></small></p><hr/><p>Apple is reportedly preparing to unveil its first foldable smartphone, potentially named the iPhone Duo, during an upcoming product event. The device is expected to start at $2,000 for the 256GB storage model, with sales potentially beginning as early as October.</p><p>The move marks Apple's entry into the foldable device market. The event is expected to be broad in scope, potentially including updates to other hardware products.</p><p><img src="https://cdn.rswebsols.com/wp-content/uploads/2025/12/Foldable-iPhone.jpg" /></p><hr/><small>9 Sep 2026, 12:00 UTC | #20530</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Releases September 2026 Security Updates Addressing 972 Vulnerabilities</title>
     <link href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/" rel="alternate" />

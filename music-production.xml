@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-09T03:48:00+00:00</updated>
+  <updated>2026-09-09T06:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>2026 MIDI Innovation Awards Public Voting Opens September 8</title>
+    <link href="https://www.kvraudio.com/news/2026-midi-innovation-awards-public-voting---september-8-22-68422?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68422" rel="alternate" />
+    <id>https://www.kvraudio.com/news/2026-midi-innovation-awards-public-voting---september-8-22-68422?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68422::v238</id>
+    <published>2026-09-09T06:40:00+00:00</published>
+    <updated>2026-09-09T06:40:00+00:00</updated>
+    <media:thumbnail url="https://clan.fastly.steamstatic.com/images/41091454/e54de92e6b627945136b1ff5aed533effc214501.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/2026-midi-innovation-awards-public-voting---september-8-22-68422?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68422">kvraudio.com</a> | <a href="https://midi.org/innovation-awards">source</a></small></p><hr/><p>Public voting for the 2026 MIDI Innovation Awards is scheduled to run from September 8 through September 22. The competition features 98 entries consisting of hardware and software products, including both commercial releases and non-commercial prototypes from independent developers and established companies.</p><p>Voters select three finalists in five main categories: Software Prototypes, Commercial Software, Hardware Prototypes, Commercial Hardware, and Artistic/Visual Projects. An additional MIDI 2.0 category is also available for entries utilizing the new standard, which functions as an additive category. The public's top three selections in each category advance to a judging panel to determine the final winners.</p><p><img src="https://clan.fastly.steamstatic.com/images/41091454/e54de92e6b627945136b1ff5aed533effc214501.png" /></p><hr/><small>9 Sep 2026, 12:03 UTC | #20547</small>]]></content>
+  </entry>
   <entry>
     <title>mfkne Releases Tonebleed and Grainwash Free VST3 Effects</title>
     <link href="https://www.kvraudio.com/news/mfkne-releases-tonebleed-and-grainwash-free-vst3-effects-68441?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68441" rel="alternate" />
@@ -490,23 +499,5 @@
     <updated>2026-09-04T13:17:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot-lakeontario-01.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/m-media-audio-releases-lake-ontario-leadfoot-and-dualtronix-plugins-plus-reference-player-is-now-free-on-windows-68348?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68348">kvraudio.com</a> | <a href="https://www.mmediaaudio.com/">source</a></small></p><hr/><p>M Media Audio has released three new audio plugins: Lake Ontario, a compression and EQ tool; Leadfoot, a kick drum processing strip; and Dualtronix, a dual-channel opto leveling amplifier. These plugins are available as perpetual licenses for VST3 and AU formats on Windows, Linux, and macOS, with prices ranging from $29 to $49.</p><p>Additionally, the company has made its Reference Player free for Windows users via the Microsoft Store, removing previous trial limitations. While the software's mastering-grade signal chain and metering features are now accessible for free, a $5 one-time fee is still required for the disc-burning functionality.</p><p><img src="https://static.kvraudio.com/i/b/screenshot-lakeontario-01.jpg" /></p><hr/><small>4 Sep 2026, 17:05 UTC | #20134</small>]]></content>
-  </entry>
-  <entry>
-    <title>ABYZOR Genesis Updated to v2.1</title>
-    <link href="https://www.kvraudio.com/news/abyzor-updates-free-abyzor-genesis-to-v2-1-68367?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68367" rel="alternate" />
-    <id>https://www.kvraudio.com/news/abyzor-updates-free-abyzor-genesis-to-v2-1-68367?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68367::v238</id>
-    <published>2026-09-04T11:59:00+00:00</published>
-    <updated>2026-09-04T11:59:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/1.1788462915.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/abyzor-updates-free-abyzor-genesis-to-v2-1-68367?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68367">kvraudio.com</a> | <a href="https://abyzor.space/genesis/changelog/">source</a></small></p><hr/><p>ABYZOR has released version 2.1 of its free Genesis MIDI generator for Windows and macOS. This update introduces a "BLOCKS" workflow for creating structured call-and-response musical phrases and a "REFINE" function to transform existing patterns into more developed musical ideas.</p><p>The "BLOCKS" mode enables users to split loops into sections with different harmonic directions, allowing for the independent regeneration of specific musical blocks. Other enhancements include adaptive "REFINE" for ABAC-style structures, grid-aware generation aligned to a 0.25-beat grid, and real-time preview updates during playback.</p><p><img src="https://static.kvraudio.com/i/b/1.1788462915.png" /></p><hr/><small>4 Sep 2026, 14:22 UTC | #20119</small>]]></content>
-  </entry>
-  <entry>
-    <title>W. A. Production Releases Supra Hybrid Granular Synthesizer</title>
-    <link href="https://www.kvraudio.com/news/w-a-production-releases-supra-hybrid-granular-synthesizer-vst3-au-and-aax-68378?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68378" rel="alternate" />
-    <id>https://www.kvraudio.com/news/w-a-production-releases-supra-hybrid-granular-synthesizer-vst3-au-and-aax-68378?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68378::v238</id>
-    <published>2026-09-04T11:58:00+00:00</published>
-    <updated>2026-09-04T11:58:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/supra_1920x1080.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/w-a-production-releases-supra-hybrid-granular-synthesizer-vst3-au-and-aax-68378?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68378">kvraudio.com</a> | <a href="https://www.waproduction.com/plugins/view/supra">source</a></small></p><hr/><p>W. A. Production has released Supra, a hybrid granular synthesizer for macOS and Windows supporting VST3, AU, and AAX formats. Developed in collaboration with Algebra Within and darkInteger, the plugin integrates analog-modeled oscillation and high-frequency FM with granular processing, morphing filters, and pitch-shifting delay.</p><p>The instrument features a sample-synchronized granular engine, a multi-randomizer system, and a state variable morphing filter. An introductory price of $14.90 is available until September 24, 2026, before returning to the standard retail price of $59.90.</p><p><img src="https://static.kvraudio.com/i/b/supra_1920x1080.jpg" /></p><hr/><small>4 Sep 2026, 14:20 UTC | #20120</small>]]></content>
   </entry>
 </feed>
