@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T13:28:00+00:00</updated>
+  <updated>2026-09-09T13:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google to Invest €13 Billion in Finland for AI Infrastructure</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-09/google-plans-13-billion-ai-infrastructure-investment-in-finland" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-09/google-plans-13-billion-ai-infrastructure-investment-in-finland::v238</id>
+    <published>2026-09-09T13:31:00+00:00</published>
+    <updated>2026-09-09T13:31:00+00:00</updated>
+    <media:thumbnail url="https://www.theenergymix.com/wp-content/uploads/2024/05/Google-data-centre-Hakani-YouTube.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-09/google-plans-13-billion-ai-infrastructure-investment-in-finland">bloomberg.com</a> | <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-deepens-its-commitment-to-finland-with-a-13-billion-investment-in-ai-infrastructure/">source</a></small></p><hr/><p>Google plans to invest at least €13 billion ($15.1 billion) in Finland over the next two years to expand its artificial intelligence infrastructure. The project includes the construction of three new data centers and the expansion of an existing facility to meet growing demand for services like Search, Maps, and Gemini.</p><p>This represents Alphabet's largest single investment in Europe to date. The initiative is expected to support more than 37,000 jobs nationwide and contribute an annual average of €3.6 billion to Finland's GDP during its initial construction phase.</p><p><img src="https://www.theenergymix.com/wp-content/uploads/2024/05/Google-data-centre-Hakani-YouTube.jpg" /></p><hr/><small>9 Sep 2026, 16:14 UTC | #20536</small>]]></content>
+  </entry>
   <entry>
     <title>Tailwind Labs Joins Shopify</title>
     <link href="https://tailwindcss.com/blog/tailwind-is-joining-shopify" rel="alternate" />
