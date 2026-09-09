@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-08T21:42:00+00:00</updated>
+  <updated>2026-09-08T21:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Big Tech Product Design Prioritizes Median Users Over Experts</title>
+    <link href="https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/" rel="alternate" />
+    <id>https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/::v238</id>
+    <published>2026-09-08T21:44:00+00:00</published>
+    <updated>2026-09-08T21:44:00+00:00</updated>
+    <media:thumbnail url="https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/images/dithers/steve-ballmer_dithered.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/">herecomesthemoon.net</a> | <a href="https://lobste.rs/s/wlcg5w/what_makes_bigtechcompany_s_products_bad">discussion</a></small></p><hr/><p>Big Tech product design often prioritizes the "median user" over specialized power users to serve massive, diverse consumer bases. For companies like Google, where advertising is the primary revenue driver, products are optimized for breadth and universal usability, which can reduce the depth and precision required by expert users.</p><p>Business models used by Alphabet, Microsoft, and Apple create distinct product priorities and design constraints. These goals, alongside limitations in information density and the reliance on opaque internal metrics, shape the user experience and influence decisions regarding feature deprecation and interface complexity.</p><p><img src="https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/images/dithers/steve-ballmer_dithered.png" /></p><hr/><small>9 Sep 2026, 03:52 UTC | #20523</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Severs Ties with Information Technology Industry Council</title>
     <link href="https://www.axios.com/2026/09/08/anthropic-breaks-tech-group-chips" rel="alternate" />
