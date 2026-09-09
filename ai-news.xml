@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-09T06:35:00+00:00</updated>
+  <updated>2026-09-09T13:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>DeepSeek to Launch V4.1 Flash Model and Reroute Pro Traffic</title>
+    <link href="https://news.ycombinator.com/item?id=49624603" rel="alternate" />
+    <id>https://news.ycombinator.com/item?id=49624603::v238</id>
+    <published>2026-09-09T13:30:00+00:00</published>
+    <updated>2026-09-09T13:30:00+00:00</updated>
+    <media:thumbnail url="https://cdn.sanity.io/images/bqtu9hf1/production/de6f74616ba28a9aaf6c6c5ac6ad37195b0161e6-1280x303.png?w=1200&amp;fit=max&amp;auto=format" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49624603">news.ycombinator.com</a> | <a href="https://platform.deepseek.com/docs/api-reference">source</a> | <a href="https://news.ycombinator.com/item?id=49624603">hacker news</a></small></p><hr/><p>DeepSeek's upcoming V4.1 Flash model is expected to be faster and less expensive than the V4 Pro version. During the transition period before the release of V4.1 Pro, the company plans to route all Pro-tier requests to V4.1 Flash and bill them at the lower Flash rate.</p><p>This change has prompted discussions regarding the risks of model non-determinism. Developers have raised concerns that altering a model's "behavioral flavor"—such as its specific method of generating JSON—can break existing production workflows even if the replacement model is technically more capable.</p><p><img src="https://cdn.sanity.io/images/bqtu9hf1/production/de6f74616ba28a9aaf6c6c5ac6ad37195b0161e6-1280x303.png?w=1200&fit=max&auto=format" /></p><hr/><small>9 Sep 2026, 15:55 UTC | #20580</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Edge Implements Automated Extension Reviews to Manage AI-Driven Submission Surge</title>
     <link href="https://www.theregister.com/software/2026/09/09/another-microsoft-team-admits-its-struggling-to-handle-flood-of-ai-generated-code/5295185" rel="alternate" />
