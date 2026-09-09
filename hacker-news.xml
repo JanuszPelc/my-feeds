@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T13:36:00+00:00</updated>
+  <updated>2026-09-09T13:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>scc Code Counter Performance Optimized</title>
+    <link href="https://boyter.org/posts/did-i-just-get-buster-scrugged/" rel="alternate" />
+    <id>https://boyter.org/posts/did-i-just-get-buster-scrugged/::v238</id>
+    <published>2026-09-09T13:41:00+00:00</published>
+    <updated>2026-09-09T13:41:00+00:00</updated>
+    <media:thumbnail url="https://assets.seobotai.com/undefined/69bb43411b352ff267cad85e-1773893899396.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://boyter.org/posts/did-i-just-get-buster-scrugged/">boyter.org</a> | <a href="https://lobste.rs/s/biulze/sloc_cloc_code_did_i_just_get_buster">discussion</a></small></p><hr/><p>Benchmarking revealed that scc was significantly slower than the mezura code counter, prompting optimizations to address identified bottlenecks. The fixes addressed thread starvation in the processing pipeline and reduced excessive Linux system calls caused by Go's os.Open abstraction.</p><p>The optimization process utilized strace to conduct a black-box analysis of system calls to isolate inefficiencies. Additionally, the implementation of language-specific state machines, developed with the assistance of LLMs, yielded significantly higher performance than the previous generic implementation.</p><p><img src="https://assets.seobotai.com/undefined/69bb43411b352ff267cad85e-1773893899396.jpg" /></p><hr/><small>9 Sep 2026, 17:26 UTC | #20596</small>]]></content>
+  </entry>
   <entry>
     <title>Solaris Turnstiles for Mutex Management and Priority Inheritance</title>
     <link href="https://rdmsr.github.io/writing/turnstiles/" rel="alternate" />

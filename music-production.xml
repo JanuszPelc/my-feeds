@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-09T07:23:00+00:00</updated>
+  <updated>2026-09-09T13:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Algoriffix Releases Transkr V4 with MusicXML Export and Saxophone Support</title>
+    <link href="https://www.kvraudio.com/news/algoriffix-releases-transkr-v4---musicxml-export-and-saxophone-support-68448?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68448" rel="alternate" />
+    <id>https://www.kvraudio.com/news/algoriffix-releases-transkr-v4---musicxml-export-and-saxophone-support-68448?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68448::v238</id>
+    <published>2026-09-09T13:39:00+00:00</published>
+    <updated>2026-09-09T13:39:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/transkr_v4_1280x720_144.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/algoriffix-releases-transkr-v4---musicxml-export-and-saxophone-support-68448?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68448">kvraudio.com</a> | <a href="https://www.algoriffix.com/transkr">source</a></small></p><hr/><p>Algoriffix has released Transkr V4, an update to its audio-to-MIDI plugin and standalone application. The release adds support for soprano, alto, tenor, and baritone saxophone and introduces MusicXML and MXL export capabilities, including guitar and bass tablature and chord diagrams.</p><p>The update features a rewritten transcription engine designed to improve polyphonic transcription, chord recognition, and meter analysis. It is compatible with macOS 11.6+ and Windows 10+ in VST3, AU, and AAX formats, with an introductory price of $99 USD available through October 20, 2026.</p><p><img src="https://static.kvraudio.com/i/b/transkr_v4_1280x720_144.png" /></p><hr/><small>9 Sep 2026, 17:18 UTC | #20551</small>]]></content>
+  </entry>
   <entry>
     <title>Leit Audio Releases Evil Clown Free Audio Effect</title>
     <link href="https://www.kvraudio.com/news/leit-audio-releases-evil-clown-free-creative-effect-vst3-and-au-68337?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68337" rel="alternate" />
