@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-09T18:35:00+00:00</updated>
+  <updated>2026-09-09T19:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Apple Redesigns Health App with AI Insights and Health Age Metric</title>
+    <link href="https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/::v238</id>
+    <published>2026-09-09T19:03:00+00:00</published>
+    <updated>2026-09-09T19:03:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.43.03-PM.jpg?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/">techcrunch.com</a> | <a href="https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence/">source</a> | <a href="https://news.ycombinator.com/item?id=49630605">hacker news</a></small></p><hr/><p>The redesigned Health app leverages Apple Intelligence to provide personalized insights and guidance. Key additions include a "readiness" score and a "Health Age" metric, which evaluates how a user's physiological data—such as VO2 max, sleep, and blood biomarkers—compares to their chronological age.</p><p>New features include a longevity tab to track movement and heart health, as well as interactive movement assessments for injury recovery or fitness. Additionally, a partnership with Quest will allow users to access a 50-biomarker lab panel for $119. These updates are scheduled to roll out later this year, beginning with U.S. English.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.43.03-PM.jpg?w=680" /></p><hr/><small>9 Sep 2026, 23:40 UTC | #20608</small>]]></content>
+  </entry>
   <entry>
     <title>Lionel Dricot Outlines Personal Policy Against AI-Generated Content</title>
     <link href="https://ploum.net/2026-09-09-ai_policy.html" rel="alternate" />
@@ -158,14 +167,5 @@
     <updated>2026-09-05T13:03:00+00:00</updated>
     <media:thumbnail url="https://mediasvc.eurekalert.org/Api/v1/Multimedia/da1fa244-a29d-47f3-94a3-17ce538787b4/Rendition/low-res/Content/Public" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone">pbs.org</a> | <a href="https://www.unep.org/resources/limiting-overshoot-navigating-exceedance">source</a> | <a href="https://news.ycombinator.com/item?id=49576124">hacker news</a></small></p><hr/><p>A United Nations Environment Programme (UNEP) report warns that Earth is expected to exceed the 1.5-degree Celsius warming threshold established by the Paris Agreement within the next few years. The report outlines an "overshoot" strategy, suggesting that the world must first limit the peak temperature and then use carbon removal and fossil fuel phase-outs to return to safer levels to minimize long-term damage.</p><p>Current global policies project temperatures to reach 2.6°C above pre-industrial levels by 2100, though ambitious goals could cap warming at 1.8°C by mid-century. The transition period of overshoot is expected to last decades, causing increased extreme weather, rising sea levels, and food shortages. Experts emphasize that managing this period requires significant investment in climate adaptation and novel carbon dioxide removal technologies.</p><p><img src="https://mediasvc.eurekalert.org/Api/v1/Multimedia/da1fa244-a29d-47f3-94a3-17ce538787b4/Rendition/low-res/Content/Public" /></p><hr/><small>5 Sep 2026, 16:14 UTC | #20238</small>]]></content>
-  </entry>
-  <entry>
-    <title>Imperial Colors Manifesto Rejects Hexadecimal Color Notation</title>
-    <link href="https://qum.cz/imperial_colors/" rel="alternate" />
-    <id>https://qum.cz/imperial_colors/::v238</id>
-    <published>2026-09-04T23:41:00+00:00</published>
-    <updated>2026-09-04T23:41:00+00:00</updated>
-    <media:thumbnail url="https://i.pinimg.com/originals/c6/db/5c/c6db5cdcaee19bc2c4116ae3b0655ad6.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://qum.cz/imperial_colors/">qum.cz</a> | <a href="https://lobste.rs/s/5y7ije/imperial_colors_manifesto">discussion</a></small></p><hr/><p>The manifesto rejects hexadecimal color codes in digital design, characterizing these "Metric Units of Color" as machine-imposed standards that distance humans from visual expression. It proposes a transition to a set of 140 named "Imperial Colors" as a human-centric alternative to technical notation.</p><p>As a work of design satire, the text employs hyperbolic, revolutionary language to critique the abstraction inherent in web development and programming. It frames the use of hex codes as a form of technological tyranny, urging designers to reclaim a more intuitive way of describing the world.</p><p><img src="https://i.pinimg.com/originals/c6/db/5c/c6db5cdcaee19bc2c4116ae3b0655ad6.jpg" /></p><hr/><small>5 Sep 2026, 06:16 UTC | #20209</small>]]></content>
   </entry>
 </feed>

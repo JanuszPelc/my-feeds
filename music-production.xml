@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-09T18:48:00+00:00</updated>
+  <updated>2026-09-09T19:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Witch Pig Releases Geminate Free Doubler Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/09/09/witch-pig-geminate/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/09/witch-pig-geminate/::v238</id>
+    <published>2026-09-09T19:08:00+00:00</published>
+    <updated>2026-09-09T19:08:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/4jXsMTWZTko/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/09/witch-pig-geminate/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/09/witch-pig-geminate/#comments">discussion</a></small></p><hr/><p>Witch Pig has released Geminate, a free doubler and mimic effect plugin for macOS and Windows. The plugin creates a wider and fuller mix by applying randomized variations in loudness, delay, and pitch to single-tracked instruments, making them sound as if they were double-tracked.</p><p>Available in VST3 and Audio Unit formats, Geminate allows users to adjust the intensity of the randomization via controls for dynamics, timing, and pitch. This release joins other Witch Pig audio tools, including Apocalypsis and Angel Dust.</p><p><img src="https://i.ytimg.com/vi/4jXsMTWZTko/hqdefault.jpg" /></p><hr/><small>9 Sep 2026, 23:51 UTC | #20629</small>]]></content>
+  </entry>
+  <entry>
+    <title>Matari Audio Offers Discount on BUFFR 1.0 Retrospective Audio and MIDI Recorder</title>
+    <link href="https://bedroomproducersblog.com/2026/09/09/matari-audio-buffr-discount/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/09/matari-audio-buffr-discount/::v238</id>
+    <published>2026-09-09T19:05:00+00:00</published>
+    <updated>2026-09-09T19:05:00+00:00</updated>
+    <media:thumbnail url="https://www.service-public.pf/dcp/wp-content/uploads/sites/25/2026/05/Logo-Matarii-Raro-724x1024.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/09/matari-audio-buffr-discount/">bedroomproducersblog.com</a> | <a href="https://matari-audio.com/buffr">source</a></small></p><hr/><p>Matari Audio has released BUFFR 1.0, a retrospective audio and MIDI recorder plugin compatible with macOS, Windows, and Linux. The plugin maintains up to two hours of recent DAW audio, system audio, and MIDI data, enabling users to recover and drag performance recordings back into their projects.</p><p>BUFFR 1.0 is currently available at a launch price of $49, down from the standard $89. Applying the coupon code BPB during checkout further reduces the price to $44. This promotional pricing is available until September 22, 2026, at 17:00 UTC.</p><p><img src="https://www.service-public.pf/dcp/wp-content/uploads/sites/25/2026/05/Logo-Matarii-Raro-724x1024.jpg" /></p><hr/><small>9 Sep 2026, 23:44 UTC | #20627</small>]]></content>
+  </entry>
+  <entry>
+    <title>Polarity Music Releases Free Polarity-Recorder Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/09/09/polarity-music-recorder/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/09/polarity-music-recorder/::v238</id>
+    <published>2026-09-09T19:04:00+00:00</published>
+    <updated>2026-09-09T19:04:00+00:00</updated>
+    <media:thumbnail url="https://www.notta.ai/pictures/free-audio-recording-software-fixed-4.jpeg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/09/polarity-music-recorder/">bedroomproducersblog.com</a> | <a href="https://polarity.productions/polarity-recorder/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/09/polarity-music-recorder/#comments">discussion</a></small></p><hr/><p>This free background audio recorder for macOS, Windows, and Linux continuously captures the most recent 1 to 20 minutes of incoming audio. The plugin allows users to recover spontaneous performances or ideas and export them as WAV files.</p><p>Integrated editor tools allow for cropping, fading, normalization, reversing, and looping. The software is available in CLAP, VST3, AUv2, LV2, VST2, and standalone formats.</p><p><img src="https://www.notta.ai/pictures/free-audio-recording-software-fixed-4.jpeg" /></p><hr/><small>9 Sep 2026, 23:42 UTC | #20626</small>]]></content>
+  </entry>
   <entry>
     <title>VinylCon Attendees Highlight Importance of Physical Media Ownership</title>
     <link href="https://musictech.com/features/interviews/vinylcon-attendees-vinyl-physical-formats/" rel="alternate" />
