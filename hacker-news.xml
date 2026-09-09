@@ -968,49 +968,4 @@
     <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/965649729/original/943b72fd6e/1?v=1" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codeberg.org/zzkt/deft">codeberg.org</a> | <a href="https://lobste.rs/s/bqfbqk/deft_gradual_type_system_for_janet">discussion</a></small></p><hr/><p>This gradual typing system for Janet incorporates bidirectional inference, static analysis, and runtime type checking. It implements the Siek and Taha model of gradual typing and utilizes the Wadler and Findler blame calculus.</p><p>A universal `define` macro manages both typed and untyped bindings, facilitating a smooth transition between dynamic and static typing. The system also includes mechanisms for predicate-based type definitions, structured records with runtime validation, and enumeration support.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/965649729/original/943b72fd6e/1?v=1" /></p><hr/><small>5 Sep 2026, 00:13 UTC | #20198</small>]]></content>
   </entry>
-  <entry>
-    <title>Mullvad to Discontinue Public Encrypted DNS Service and Sponsor Quad9</title>
-    <link href="https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead" rel="alternate" />
-    <id>https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead::v238</id>
-    <published>2026-09-04T19:22:00+00:00</published>
-    <updated>2026-09-04T19:22:00+00:00</updated>
-    <media:thumbnail url="https://www.profesionalreview.com/wp-content/uploads/2026/04/Mullvad-DNS2.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead">mullvad.net</a> | <a href="https://news.ycombinator.com/item?id=49568579">hacker news</a></small></p><hr/><p>Mullvad is shutting down its public DNS-over-HTTPS (DoH) servers, a service the company has operated since 2022. Instead of maintaining its own specialized DNS infrastructure, Mullvad will redirect its resources to financially support the Quad9 Foundation, a leader in privacy-focused public DNS.</p><p>Users with default settings in Mullvad Browser will be automatically migrated to Quad9. However, those who have manually configured DoH servers or are using iOS and macOS profiles must manually update their settings to Quad9 before the November 2, 2026, deadline.</p><p><img src="https://www.profesionalreview.com/wp-content/uploads/2026/04/Mullvad-DNS2.jpg" /></p><hr/><small>4 Sep 2026, 23:45 UTC | #20195</small>]]></content>
-  </entry>
-  <entry>
-    <title>Babashka 1.13.220 Introduces FFI Support for C Libraries</title>
-    <link href="https://blog.michielborkent.nl/babashka-ffi.html" rel="alternate" />
-    <id>https://blog.michielborkent.nl/babashka-ffi.html::v238</id>
-    <published>2026-09-04T19:19:00+00:00</published>
-    <updated>2026-09-04T19:19:00+00:00</updated>
-    <media:thumbnail url="https://i.pinimg.com/736x/91/09/6d/91096db060deb4f6ae0dfc10385ecdb8.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.michielborkent.nl/babashka-ffi.html">blog.michielborkent.nl</a> | <a href="https://lobste.rs/s/o8bp2s/babashka_1_13_220_gets_ffi">discussion</a> | <a href="https://news.ycombinator.com/item?id=49509696">hacker news</a></small></p><hr/><p>The update adds the `babashka.ffi` namespace, which allows calling C libraries directly from Babashka scripts. This experimental feature is also available for JVM Clojure and uses `java.lang.foreign` with explicit memory management through arenas to prevent segmentation faults.</p><p>The release also transitions Linux binaries to a mostly-static format to improve compatibility. Other updates include task composition improvements for `:exec-fn`, support for `:exec-args`, and the introduction of new FFI-dependent libraries such as `babashka.sqlite` and `babashka.duckdb`.</p><p><img src="https://i.pinimg.com/736x/91/09/6d/91096db060deb4f6ae0dfc10385ecdb8.jpg" /></p><hr/><small>4 Sep 2026, 23:24 UTC | #20193</small>]]></content>
-  </entry>
-  <entry>
-    <title>OpenTrailPaper: DIY E-Paper Bike Computer Firmware for LilyGO T5S3</title>
-    <link href="https://opentrailpaper.com" rel="alternate" />
-    <id>https://opentrailpaper.com::v238</id>
-    <published>2026-09-04T19:17:00+00:00</published>
-    <updated>2026-09-04T19:17:00+00:00</updated>
-    <media:thumbnail url="https://opentrailpaper.com/img/dashboard.png?v=2" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://opentrailpaper.com">opentrailpaper.com</a> | <a href="https://github.com/RaemondBW/OpenTrailPaper">source</a> | <a href="https://news.ycombinator.com/item?id=49567437">hacker news</a></small></p><hr/><p>This firmware for the LilyGO T5S3 4.7" E-Paper PRO enables DIY bike computer functionality, including GPS tracking, offline map navigation, and FIT file recording. The software supports GPX routes, structured workouts, and Bluetooth connectivity for heart-rate and power sensors.</p><p>A companion iOS app is used for route planning, offline map construction, and firmware updates. Current development limitations include the lack of a barometer, magnetometer, and waterproofing, with an estimated battery life of approximately eight hours.</p><p><img src="https://opentrailpaper.com/img/dashboard.png?v=2" /></p><hr/><small>4 Sep 2026, 23:07 UTC | #20191</small>]]></content>
-  </entry>
-  <entry>
-    <title>IBM Launches IBM Bob AI Development Partner</title>
-    <link href="https://bob.ibm.com/" rel="alternate" />
-    <id>https://bob.ibm.com/::v238</id>
-    <published>2026-09-04T19:15:00+00:00</published>
-    <updated>2026-09-04T19:15:00+00:00</updated>
-    <media:thumbnail url="https://bytee.org/wp-content/uploads/2026/05/ibm-bob-ai-platform-768x750.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://bob.ibm.com/">bob.ibm.com</a> | <a href="https://newsroom.ibm.com/2026-04-28-introducing-ibm-bob-ai-development-partner-that-takes-enterprises-from-ai-assisted-coding-to-production-ready-software">source</a> | <a href="https://news.ycombinator.com/item?id=49563851">hacker news</a></small></p><hr/><p>IBM's Bob is an AI-driven development partner designed to assist enterprise teams throughout the software development lifecycle. The tool supports "Literate Coding," allowing developers to generate code implementations from natural language descriptions directly within their IDE. It also features Bobalytics, which provides analytics to track agent contributions, software delivery, and development costs.</p><p>The platform integrates with enterprise services like Red Hat and Instana to provide security, monitoring, and architectural insights within the coding environment. This capability is intended to help organizations transition from AI-assisted coding to the deployment of production-ready, enterprise-grade software.</p><p><img src="https://bytee.org/wp-content/uploads/2026/05/ibm-bob-ai-platform-768x750.jpg" /></p><hr/><small>4 Sep 2026, 22:54 UTC | #20190</small>]]></content>
-  </entry>
-  <entry>
-    <title>Smolts: A Pedagogical IDE for the SMoL Teaching Language</title>
-    <link href="https://eighty-twenty.org/2026/09/04/smolts" rel="alternate" />
-    <id>https://eighty-twenty.org/2026/09/04/smolts::v238</id>
-    <published>2026-09-04T18:54:00+00:00</published>
-    <updated>2026-09-04T18:54:00+00:00</updated>
-    <media:thumbnail url="https://eighty-twenty.org/images/smolts-screenshot-20260904.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://eighty-twenty.org/2026/09/04/smolts">eighty-twenty.org</a> | <a href="https://lobste.rs/s/hr2txa/smolts_pedagogical_ide_for_teaching">discussion</a></small></p><hr/><p>Smolts provides an S-expression-based environment for teaching the Standard Model of Languages (SMoL). It allows users to step through programs while visualizing the current continuation, environment, and store, and annotates code with real-time variable and expression values.</p><p>The IDE includes a "run to cursor" function and the ability to step backward through execution. Ongoing development focuses on Svelte state management and in-browser Git-based project management to facilitate visible execution states for programming language education.</p><p><img src="https://eighty-twenty.org/images/smolts-screenshot-20260904.png" /></p><hr/><small>4 Sep 2026, 22:15 UTC | #20189</small>]]></content>
-  </entry>
 </feed>
