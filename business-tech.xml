@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T03:41:00+00:00</updated>
+  <updated>2026-09-09T06:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>China Tightens IPO Approvals for Humanoid Robotics Startups</title>
+    <link href="https://www.theinformation.com/articles/china-curbs-humanoid-ipos-unitrees-volatile-debut" rel="alternate" />
+    <id>https://www.theinformation.com/articles/china-curbs-humanoid-ipos-unitrees-volatile-debut::v238</id>
+    <published>2026-09-09T06:42:00+00:00</published>
+    <updated>2026-09-09T06:42:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA24wCh4.img?w=768&amp;h=402&amp;m=6&amp;x=82&amp;y=118&amp;s=512&amp;d=358" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/china-curbs-humanoid-ipos-unitrees-volatile-debut">theinformation.com</a></small></p><hr/><p>The China Securities Regulatory Commission is informally tightening IPO approval requirements for humanoid robotics startups. This regulatory shift follows a volatile market debut by industry leader Unitree Robotics and aims to curb speculative trading in a sector characterized by many copycat firms with limited technological breakthroughs.</p><p>Regulators aim to raise the standards for high-valuation hardware developers seeking domestic listings. Expected new criteria include requirements for companies to demonstrate recurring revenue and provide clearer paths toward profitability to ensure sector growth is driven by genuine technological innovation.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA24wCh4.img?w=768&h=402&m=6&x=82&y=118&s=512&d=358" /></p><hr/><small>9 Sep 2026, 12:18 UTC | #20528</small>]]></content>
+  </entry>
   <entry>
     <title>US States Roll Back Tax Breaks for Data Center Operators</title>
     <link href="https://www.wsj.com/politics/policy/states-that-gave-data-centers-billions-in-tax-breaks-are-now-ripping-up-the-deals-4879c4f9?st=Lemw6y&amp;reflink=desktopwebshare_permalink" rel="alternate" />
@@ -661,14 +670,5 @@
     <updated>2026-09-04T13:21:00+00:00</updated>
     <media:thumbnail url="https://nrninfratech.com/wp-content/uploads/2026/01/Data-Center-Projects-1024x1024.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-04/thailand-puts-49-data-centers-on-hold-over-resource-strain">bloomberg.com</a></small></p><hr/><p>Thailand has suspended the construction of 49 data center projects to facilitate the development of new industry regulations. This decision follows public concerns regarding the environmental and resource impact of high-capacity server farms.</p><p>The move aligns with a global trend of increased government oversight of data center facilities due to their high energy and water requirements. Authorities intend to establish uniform standards to manage potential resource strain on local communities.</p><p><img src="https://nrninfratech.com/wp-content/uploads/2026/01/Data-Center-Projects-1024x1024.jpg" /></p><hr/><small>4 Sep 2026, 17:53 UTC | #20129</small>]]></content>
-  </entry>
-  <entry>
-    <title>Productrise Study: Google AI Mode Displays Higher Prices for Matched Products</title>
-    <link href="https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products" rel="alternate" />
-    <id>https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products::v238</id>
-    <published>2026-09-04T12:10:00+00:00</published>
-    <updated>2026-09-04T12:10:00+00:00</updated>
-    <media:thumbnail url="https://cdn.margabagus.com/2026/02/perbandingan-google-biasa-vs-ai-mode.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products">productrise.app</a> | <a href="https://news.ycombinator.com/item?id=49563386">hacker news</a></small></p><hr/><p>A study conducted by Productrise found that Google AI Mode displays products at significantly higher prices than traditional search. When comparing identical products, AI Mode prices were 21.6% higher on average. The research, which analyzed over 2 million listings, showed that AI Mode tends to surface more expensive inventory, with a median price of $149 compared to $100 in traditional search.</p><p>The investigation revealed minimal overlap between the two search formats, with only 1.28% of products from traditional search appearing in AI Mode for the same query. Furthermore, AI Mode recommended a different primary seller in nearly 50% of matched cases. These findings suggest that AI-driven search interfaces may prioritize different inventory or merchant data, potentially altering how consumers discover and compare prices.</p><p><img src="https://cdn.margabagus.com/2026/02/perbandingan-google-biasa-vs-ai-mode.jpg" /></p><hr/><small>4 Sep 2026, 16:03 UTC | #20163</small>]]></content>
   </entry>
 </feed>

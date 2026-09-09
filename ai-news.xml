@@ -285,13 +285,4 @@
     <media:thumbnail url="https://pasqualepillitteri.it/uploads/img/news/claude-down-23-giugno-2026-cover.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://status.claude.com/incidents/461yvfrzpwtt">status.claude.com</a> | <a href="https://news.ycombinator.com/item?id=49549676">hacker news</a></small></p><hr/><p>Anthropic has resolved a service disruption that caused elevated error rates for several Claude models, including Claude Mythos 5.1, Claude Fable 5.1, and Claude Opus 5. The incident impacted users across claude.ai, the Claude API, Claude Code, and Claude Cowork.</p><p>The issue was identified and mitigated on September 3, 2026. Following a fix deployment and a period of monitoring, the affected models—including various versions of Opus—have returned to baseline error rates.</p><p><img src="https://pasqualepillitteri.it/uploads/img/news/claude-down-23-giugno-2026-cover.webp" /></p><hr/><small>4 Sep 2026, 18:56 UTC | #20175</small>]]></content>
   </entry>
-  <entry>
-    <title>ChatGPT Features and Capabilities</title>
-    <link href="https://chatgpt.com/" rel="alternate" />
-    <id>https://chatgpt.com/::v238</id>
-    <published>2026-09-04T12:09:00+00:00</published>
-    <updated>2026-09-04T12:09:00+00:00</updated>
-    <media:thumbnail url="https://vellatimes.com/wp-content/uploads/2026/02/ChatGPT-Down-Thousands-Report-Outage-Before-Service-Restores-1200x628.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://chatgpt.com/">chatgpt.com</a> | <a href="https://news.ycombinator.com/item?id=49550614">hacker news</a></small></p><hr/><p>ChatGPT provides personalized AI responses through a conversational interface. Users can save chat history, generate images, and upload files to facilitate a variety of tasks.</p><p>The service's multimodal capabilities enable users to work with text, imagery, and various file types within a context-aware environment.</p><p><img src="https://vellatimes.com/wp-content/uploads/2026/02/ChatGPT-Down-Thousands-Report-Outage-Before-Service-Restores-1200x628.webp" /></p><hr/><small>4 Sep 2026, 15:57 UTC | #20039</small>]]></content>
-  </entry>
 </feed>
