@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T18:53:00+00:00</updated>
+  <updated>2026-09-09T18:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple CEO John Ternus Identifies iPhone as Primary AI Device</title>
+    <link href="https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/::v238</id>
+    <published>2026-09-09T18:56:00+00:00</published>
+    <updated>2026-09-09T18:56:00+00:00</updated>
+    <media:thumbnail url="https://img.iphonenews.cc/2025/07/20250709171123_0_5a4097.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/">techcrunch.com</a></small></p><hr/><p>Apple CEO John Ternus designated the iPhone as the company's central "intelligent personal hub" during the "Surprise and Shine" event. Instead of developing dedicated AI-specific hardware, Apple intends to leverage the iPhone's existing processors, sensors, and integrated software ecosystem to deliver AI capabilities.</p><p>Ternus positioned Apple's AI strategy around data privacy, stating that Apple Intelligence will prioritize on-device processing to ensure users maintain control over their personal information. This approach is intended to differentiate Apple's platform from competitors that rely more heavily on cloud-based data collection and storage.</p><p><img src="https://img.iphonenews.cc/2025/07/20250709171123_0_5a4097.jpg" /></p><hr/><small>9 Sep 2026, 22:57 UTC | #20600</small>]]></content>
+  </entry>
+  <entry>
+    <title>Anthropic Releases Tool to Model AI's Potential Economic Impact</title>
+    <link href="https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy" rel="alternate" />
+    <id>https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy::v238</id>
+    <published>2026-09-09T18:55:00+00:00</published>
+    <updated>2026-09-09T18:55:00+00:00</updated>
+    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https://www-cdn.anthropic.com/images/4zrzovbb/website/ac265e6d4eab543df80fcad980ca1c8e5cc6bfd8-5937x6610.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy">npr.org</a> | <a href="https://www.anthropic.com/institute/econ-scenarios">source</a> | <a href="https://news.ycombinator.com/item?id=49626373">hacker news</a></small></p><hr/><p>The Economic Scenario Explorer, an interactive tool released by Anthropic, models various ways artificial intelligence could influence the U.S. economy. The tool allows users to test assumptions regarding outcomes ranging from modest productivity gains to extreme scenarios involving rapid GDP growth and significant unemployment.</p><p>Model outputs are determined by variables such as technology capability, adoption speed, and labor market flexibility. While AI experts often anticipate rapid technological spread, economists are typically more conservative regarding the speed of economic integration.</p><p><img src="https://www.anthropic.com/_next/image?url=https://www-cdn.anthropic.com/images/4zrzovbb/website/ac265e6d4eab543df80fcad980ca1c8e5cc6bfd8-5937x6610.png&w=3840&q=75" /></p><hr/><small>9 Sep 2026, 22:55 UTC | #20583</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft and AFT Establish AI Privacy and Safety Standards for Schools</title>
     <link href="https://www.politico.com/news/2026/09/09/aft-union-microsoft-ai-deal-01068544" rel="alternate" />

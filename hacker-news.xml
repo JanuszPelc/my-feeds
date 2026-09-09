@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T18:51:00+00:00</updated>
+  <updated>2026-09-09T18:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Research Explores Async/Await Design Space</title>
+    <link href="https://cel.cs.brown.edu/blog/design-space-async-await/" rel="alternate" />
+    <id>https://cel.cs.brown.edu/blog/design-space-async-await/::v238</id>
+    <published>2026-09-09T18:57:00+00:00</published>
+    <updated>2026-09-09T18:57:00+00:00</updated>
+    <media:thumbnail url="https://geekpython.in/wp-content/uploads/2023/08/async-await.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://cel.cs.brown.edu/blog/design-space-async-await/">cel.cs.brown.edu</a> | <a href="https://cel.cs.brown.edu/paper/a-design-space-exploration-of-aa/">source</a> | <a href="https://lobste.rs/s/rghafd/design_space_exploration_async_await">discussion</a> | <a href="https://news.ycombinator.com/item?id=49626718">hacker news</a></small></p><hr/><p>A research paper titled “A Design Space Exploration of Async/Await” investigates how different programming languages implement "straight-line asynchrony." The study reveals significant semantic divergence between runtimes, finding that even simple asynchronous programs can produce different execution outcomes depending on the specific design choices of the language's runtime.</p><p>The researchers identify nine design dimensions that influence task behavior, organized into the task lifecycle stages of Start of Life, End of Life, and Cancellation. These dimensions—which include factors like task eagerness, suspension guarantees, and cancellation awareness—provide a formal framework for understanding the divergent behaviors observed in modern asynchronous programming environments.</p><p><img src="https://geekpython.in/wp-content/uploads/2023/08/async-await.png" /></p><hr/><small>9 Sep 2026, 23:02 UTC | #20644</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Announces AirPods 5 with Open-Ear Active Noise Cancellation</title>
     <link href="https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/" rel="alternate" />
