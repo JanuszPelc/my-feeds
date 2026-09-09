@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-08T18:38:00+00:00</updated>
+  <updated>2026-09-08T18:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Claims AI Solution to Navier-Stokes Equation Amid Academic Dispute</title>
+    <link href="https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/" rel="alternate" />
+    <id>https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/::v238</id>
+    <published>2026-09-08T18:52:00+00:00</published>
+    <updated>2026-09-08T18:52:00+00:00</updated>
+    <media:thumbnail url="https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1769243631740-52b615cb-fca5-454a-bb96-5a3f925f8c77-5mf7y.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=49614049">hacker news</a></small></p><hr/><p>OpenAI has announced an AI-generated solution to the Navier-Stokes equation, a 200-year-old mathematical problem central to the Clay Millennium prizes. The company used massive compute resources and specialized agents to reach a Lean-formalized proof for the fluid dynamics problem.</p><p>The announcement is contested by mathematician Tristan Buckmaster and researcher Levent Alpöge, who allege OpenAI accelerated its research after becoming aware of their work. Buckmaster claims OpenAI attempted to influence how credit for the discovery would be attributed, a charge OpenAI leadership has denied.</p><p><img src="https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1769243631740-52b615cb-fca5-454a-bb96-5a3f925f8c77-5mf7y.webp" /></p><hr/><small>9 Sep 2026, 00:09 UTC | #20480</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Releases ChatGPT Images 2.5</title>
     <link href="https://openai.com/index/introducing-chatgpt-images-2-5/" rel="alternate" />
