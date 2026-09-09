@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T11:14:00+00:00</updated>
+  <updated>2026-09-09T13:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Solaris Turnstiles for Mutex Management and Priority Inheritance</title>
+    <link href="https://rdmsr.github.io/writing/turnstiles/" rel="alternate" />
+    <id>https://rdmsr.github.io/writing/turnstiles/::v238</id>
+    <published>2026-09-09T13:36:00+00:00</published>
+    <updated>2026-09-09T13:36:00+00:00</updated>
+    <media:thumbnail url="https://horizons-cdn.hostinger.com/63d40f39-1edf-46a5-9190-2f9e2efbab13/untitled.394-JPl3F.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rdmsr.github.io/writing/turnstiles/">rdmsr.github.io</a> | <a href="https://lobste.rs/s/wrt9wm/solaris_turnstiles">discussion</a> | <a href="https://news.ycombinator.com/item?id=49624846">hacker news</a></small></p><hr/><p>Turnstiles facilitate efficient mutex management in the Solaris operating system by decoupling lock state from the mutex itself. This design enables fine-grained locking with minimal memory overhead and provides a mechanism for handling priority inversion. When a thread blocks, it donates a turnstile to the lock, allowing the kernel to track waiting threads and propagate priority through owner chains.</p><p>This mechanism enables multi-hop priority inheritance, allowing high-priority tasks to boost the priority of a chain of lower-priority threads. Beyond Solaris, similar implementations are found in the XNU kernel (macOS), FreeBSD, and the Go runtime's semaphore implementation.</p><p><img src="https://horizons-cdn.hostinger.com/63d40f39-1edf-46a5-9190-2f9e2efbab13/untitled.394-JPl3F.png" /></p><hr/><small>9 Sep 2026, 16:56 UTC | #20585</small>]]></content>
+  </entry>
   <entry>
     <title>Rustls Marks a Decade of Development</title>
     <link href="https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/" rel="alternate" />

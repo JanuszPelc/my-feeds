@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-08T21:15:00+00:00</updated>
+  <updated>2026-09-09T13:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Valve Discusses Steam Platform Growth and Developer Support</title>
+    <link href="https://www.youtube.com/watch?v=h1ivZzEyNFY" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=h1ivZzEyNFY::v238</id>
+    <published>2026-09-09T13:34:00+00:00</published>
+    <updated>2026-09-09T13:34:00+00:00</updated>
+    <media:thumbnail url="https://i1.ytimg.com/vi/h1ivZzEyNFY/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=h1ivZzEyNFY">youtube.com</a></small></p><hr/><p>At GDC, Valve representatives Tom Jardino and Casey presented data regarding Steam's user growth and developer success. The platform has reached 42 million peak concurrent users and 13.9 million in-game users, effectively doubling its scale over the last five years. During this period, the number of games achieving over $100,000 in annual revenue has nearly doubled, rising from 3,000 in 2020 to 5,800 in 2025.</p><p>Valve emphasized that its private, non-advertiser-funded structure allows the company to prioritize long-term platform stability and user satisfaction over short-term quarterly earnings. The presentation highlighted several development initiatives, including the use of Steam Labs to iteratively test new features and efforts to address localized user review trends to prevent regional issues from unfairly impacting a game's global rating.</p><p><img src="https://i1.ytimg.com/vi/h1ivZzEyNFY/hqdefault.jpg" /></p><hr/><small>9 Sep 2026, 16:51 UTC | #20475</small>]]></content>
+  </entry>
   <entry>
     <title>Riot Games Considering Expansion into Premium Games</title>
     <link href="https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games" rel="alternate" />

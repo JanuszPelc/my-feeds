@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T13:31:00+00:00</updated>
+  <updated>2026-09-09T13:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Malone Lam Pleads Guilty to $245 Million Cryptocurrency Racketeering Scheme</title>
+    <link href="https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911" rel="alternate" />
+    <id>https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911::v238</id>
+    <published>2026-09-09T13:35:00+00:00</published>
+    <updated>2026-09-09T13:35:00+00:00</updated>
+    <media:thumbnail url="https://dam.mediacorp.sg/image/upload/s--MzMUG3s---/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/11/17/1117malone.png?itok=8K9g8NZD" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911">theblock.co</a> | <a href="https://www.justice.gov/usao-dc/pr/singaporean-ringleader-245-million-cryptocurrency-racketeering-enterprise-pleads-guilty">source</a></small></p><hr/><p>Malone Lam, a 22-year-old Singaporean national, pleaded guilty in federal court to leading an international racketeering conspiracy that stole and laundered more than $245 million in cryptocurrency. The scheme utilized social engineering tactics to target victims and misappropriate digital assets.</p><p>Prosecutors stated that Lam used the stolen funds to finance a lavish lifestyle, including luxury cars, high-end watches, designer handbags, and expensive nightclub services. Lam faces a maximum of 20 years in prison, with a status hearing scheduled for December 8.</p><p><img src="https://dam.mediacorp.sg/image/upload/s--MzMUG3s---/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/11/17/1117malone.png?itok=8K9g8NZD" /></p><hr/><small>9 Sep 2026, 16:53 UTC | #20537</small>]]></content>
+  </entry>
   <entry>
     <title>Google to Invest €13 Billion in Finland for AI Infrastructure</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-09/google-plans-13-billion-ai-infrastructure-investment-in-finland" rel="alternate" />
