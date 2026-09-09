@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T18:44:00+00:00</updated>
+  <updated>2026-09-09T18:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Function Arguments vs. Function Colors</title>
+    <link href="https://jerf.org/iri/post/2026/func_args_are_not_colors/" rel="alternate" />
+    <id>https://jerf.org/iri/post/2026/func_args_are_not_colors/::v238</id>
+    <published>2026-09-09T18:49:00+00:00</published>
+    <updated>2026-09-09T18:49:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jerf.org/iri/post/2026/func_args_are_not_colors/">jerf.org</a> | <a href="https://lobste.rs/s/tsfs3w/why_function_arguments_are_not_function">discussion</a> | <a href="https://news.ycombinator.com/item?id=49615139">hacker news</a></small></p><hr/><p>The author argues that function arguments do not qualify as "colors" in programming language design. A "color" is defined as a change dependency that forces an inescapable change across a call stack, bypassing encapsulation and requiring all parent functions to react to the change.</p><p>While arguments like Go's context.Context may appear to behave like colors because they are often threaded through multiple layers, they typically allow for encapsulation by callers. This distinguishes their linear propagation from the "jump" propagation characteristic of true colors, which is the core component of the "function color" concept.</p><hr/><small>9 Sep 2026, 22:00 UTC | #20637</small>]]></content>
+  </entry>
   <entry>
     <title>Malicious Domain Registrations Account for Up to 20% of New gTLDs</title>
     <link href="https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/" rel="alternate" />
