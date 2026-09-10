@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T17:05:00+00:00</updated>
+  <updated>2026-09-10T17:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Hitachi Launches Solar-Friendly EcoCute CO2 Heat Pump Water Heaters</title>
+    <link href="https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/" rel="alternate" />
+    <id>https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/::v238</id>
+    <published>2026-09-10T17:13:00+00:00</published>
+    <updated>2026-09-10T17:13:00+00:00</updated>
+    <media:thumbnail url="https://www.pv-magazine.com/wp-content/uploads/2026/09/Screenshot-2026-09-07-091206.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/">pv-magazine.com</a> | <a href="https://prtimes.jp/main/html/rd/p/000000257.000027680.html">source</a> | <a href="https://news.ycombinator.com/item?id=49627634">hacker news</a></small></p><hr/><p>Hitachi Global Life Solutions is launching its Y-series EcoCute CO2 heat pump water heaters in Japan, with 370-liter and 460-liter models scheduled for release starting in November 2026. These units utilize natural carbon dioxide as a refrigerant and are designed to provide direct mains-pressure hot water delivery.</p><p>The new series offers expanded compatibility for Japanese electricity tariffs that incentivize daytime consumption, facilitating better energy management for households with solar PV systems. These models also feature Home Energy Management System (HEMS) compatibility and include a five-year manufacturer warranty covering the heat pump, storage unit, and various key components.</p><p><img src="https://www.pv-magazine.com/wp-content/uploads/2026/09/Screenshot-2026-09-07-091206.png" /></p><hr/><small>10 Sep 2026, 23:02 UTC | #20776</small>]]></content>
+  </entry>
   <entry>
     <title>YAML's Implicit Typing and the 'Norway Problem'</title>
     <link href="https://slugcat.systems/post/26-09-10-yaml-spec/" rel="alternate" />

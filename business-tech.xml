@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T17:10:00+00:00</updated>
+  <updated>2026-09-10T17:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Pocket FM Doubles Revenue Run Rate to $500M via AI-Powered Content</title>
+    <link href="https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/::v238</id>
+    <published>2026-09-10T17:46:00+00:00</published>
+    <updated>2026-09-10T17:46:00+00:00</updated>
+    <media:thumbnail url="https://sparkbrains.ai/media/original_images/bmg-music.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/">techcrunch.com</a></small></p><hr/><p>Pocket FM has reached a $500 million annualized revenue run rate by utilizing artificial intelligence to scale its content production. AI currently powers 93% of the platform's audio catalog and is used for 99% of new content releases, reducing production costs by approximately 80 times.</p><p>This scaling has resulted in 2.5 million hours of annual content for 250 million listeners across 20 countries. Parent company Pocket Entertainment is also expanding into microdramas via the Pocket Saga app and plans to enter at least two additional entertainment formats over the next five years.</p><p><img src="https://sparkbrains.ai/media/original_images/bmg-music.png" /></p><hr/><small>10 Sep 2026, 23:05 UTC | #20748</small>]]></content>
+  </entry>
   <entry>
     <title>SpaceX Overhauls Data Center Strategy, Potentially Slowing Expansion</title>
     <link href="https://www.theinformation.com/articles/spacex-overhauls-data-center-build-potentially-slowing-expansion" rel="alternate" />
