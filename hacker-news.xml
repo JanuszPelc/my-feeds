@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T01:21:00+00:00</updated>
+  <updated>2026-09-10T02:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Trynix-preview GitHub Action Enables Browser-Based Pull Request Testing</title>
+    <link href="https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it" rel="alternate" />
+    <id>https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it::v238</id>
+    <published>2026-09-10T02:05:00+00:00</published>
+    <updated>2026-09-10T02:05:00+00:00</updated>
+    <media:thumbnail url="https://fzakaria.com/assets/images/derived/trynix-action-pr-comment-1404w.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it">fzakaria.com</a> | <a href="https://lobste.rs/s/7lii0g/review_pull_request_by_booting_it">discussion</a></small></p><hr/><p>trynix-preview is a GitHub action that allows reviewers to test pull request builds directly in a web browser. By adding the action to a workflow, a link is posted to the pull request which, when clicked, boots the specific build in a Linux virtual machine via trynix.dev. The process uses WebAssembly to run the environment in the user's browser, avoiding the need for external servers, SSH, or local virtualization.</p><p>The tool requires that builds are already cached—for example, using Cachix—to provide the necessary Nix store paths, as the action does not handle building or caching. While it works for small to medium-sized binaries, execution for larger binaries can take between one and two minutes. This capability is intended to facilitate faster feedback and validation during the code review process.</p><p><img src="https://fzakaria.com/assets/images/derived/trynix-action-pr-comment-1404w.png" /></p><hr/><small>10 Sep 2026, 09:37 UTC | #20686</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Introduces AppleCare One Family Plan</title>
     <link href="https://www.macrumors.com/2026/09/09/applecare-one-family-plan/" rel="alternate" />

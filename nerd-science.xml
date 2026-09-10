@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-09T19:03:00+00:00</updated>
+  <updated>2026-09-10T02:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Relativity Park Simulator Scales Speed of Light to Walking Pace</title>
+    <link href="https://rivendell.dmitrybrant.com/relativity/" rel="alternate" />
+    <id>https://rivendell.dmitrybrant.com/relativity/::v238</id>
+    <published>2026-09-10T02:04:00+00:00</published>
+    <updated>2026-09-10T02:04:00+00:00</updated>
+    <media:thumbnail url="https://phyfundamentals.org/wp-content/uploads/2026/05/Relativistic-Velocity-Addition-2-1-e1778762899619.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://rivendell.dmitrybrant.com/relativity/">rivendell.dmitrybrant.com</a> | <a href="https://news.ycombinator.com/item?id=49637385">hacker news</a></small></p><hr/><p>An interactive WebGL 2 simulation scales the speed of light to 5 kilometers per hour, making relativistic effects observable at human-scale velocities.</p><p>The tool demonstrates special relativity principles including length contraction, time dilation, and Terrell rotation. It also visualizes the Doppler effect, showing blueshifting of objects ahead, redshifting of objects behind, and transverse Doppler effects during motion.</p><p><img src="https://phyfundamentals.org/wp-content/uploads/2026/05/Relativistic-Velocity-Addition-2-1-e1778762899619.webp" /></p><hr/><small>10 Sep 2026, 09:32 UTC | #20685</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Redesigns Health App with AI Insights and Health Age Metric</title>
     <link href="https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/" rel="alternate" />
