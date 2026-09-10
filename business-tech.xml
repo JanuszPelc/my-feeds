@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T01:41:00+00:00</updated>
+  <updated>2026-09-10T02:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>DOJ Investigates Nvidia’s Licensing Deal with Groq Over Antitrust Concerns</title>
+    <link href="https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html::v238</id>
+    <published>2026-09-10T02:01:00+00:00</published>
+    <updated>2026-09-10T02:01:00+00:00</updated>
+    <media:thumbnail url="https://thinkautomated.io/media/nvidia-strikes-licensing-deal-with-groq-hires-founder-in-inference-push/nvidia-strikes-licensing-deal-with-groq-hires-founder-in-inference-push_0.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html">nytimes.com</a></small></p><hr/><p>The U.S. Department of Justice is investigating whether Nvidia structured its 2025 licensing agreement with AI chip startup Groq to evade antitrust scrutiny. The transaction, which included acquiring assets and hiring Groq's leadership, is being examined to determine if the arrangement was designed to circumvent the regulatory oversight typically required for large-scale acquisitions.</p><p>Regulators issued a formal demand for information to determine if the deal's structure was intended to bypass competition laws. If the Justice Department finds that the agreement was used to sidestep oversight, Nvidia could face significant fines and increased legal exposure.</p><p><img src="https://thinkautomated.io/media/nvidia-strikes-licensing-deal-with-groq-hires-founder-in-inference-push/nvidia-strikes-licensing-deal-with-groq-hires-founder-in-inference-push_0.webp" /></p><hr/><small>10 Sep 2026, 09:05 UTC | #20654</small>]]></content>
+  </entry>
   <entry>
     <title>Gavin Newsom Signs California AI Safety Legislation Supported by Anthropic and OpenAI</title>
     <link href="https://www.politico.com/news/2026/09/09/newsom-signs-ai-safety-bills-backed-by-anthropic-openai-01069928" rel="alternate" />
