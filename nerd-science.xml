@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-10T10:39:00+00:00</updated>
+  <updated>2026-09-10T16:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>The Psychological Impact of Software Development Processes</title>
+    <link href="https://graybeard.ing/software-drives-people-insane/" rel="alternate" />
+    <id>https://graybeard.ing/software-drives-people-insane/::v238</id>
+    <published>2026-09-10T16:14:00+00:00</published>
+    <updated>2026-09-10T16:14:00+00:00</updated>
+    <media:thumbnail url="https://nextbigtechnology.com/wp-content/uploads/2025/12/software-development-methodologies.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://graybeard.ing/software-drives-people-insane/">graybeard.ing</a> | <a href="https://news.ycombinator.com/item?id=49646181">hacker news</a></small></p><hr/><p>The unique characteristics of software development—including high velocity, low physical friction for changes, and complex abstractions—often cause developers and managers to lose a sense of proportion. Because digital changes lack the visible costs of physical construction, they frequently accumulate hidden architectural and cognitive debt, triggering an unhealthy sense of urgency and a cycle of unnecessary iteration.</p><p>Complexity often serves to provide psychological rewards and social status, imbuing mundane tasks with a false sense of importance. An industry-wide obsession with velocity and continuous "pivoting" discourages the practice of leaving stable systems alone, ultimately leading to a state of permanent, unnecessary mutation.</p><p><img src="https://nextbigtechnology.com/wp-content/uploads/2025/12/software-development-methodologies.jpeg" /></p><hr/><small>10 Sep 2026, 20:19 UTC | #20758</small>]]></content>
+  </entry>
   <entry>
     <title>Bevy Community Faces Internal Tension Over New AI Usage Policy</title>
     <link href="https://blog.fallible.net/it-breaks-a-village/" rel="alternate" />
