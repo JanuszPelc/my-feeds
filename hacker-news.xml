@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T02:05:00+00:00</updated>
+  <updated>2026-09-10T02:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Kepler Computing Emerges From Stealth with New AI Memory Architecture</title>
+    <link href="https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/" rel="alternate" />
+    <id>https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/::v238</id>
+    <published>2026-09-10T02:36:00+00:00</published>
+    <updated>2026-09-10T02:36:00+00:00</updated>
+    <media:thumbnail url="https://media.wired.com/photos/6a99ec2db7c9748e42e629c3/master/w_1600%2Cc_limit/selected-63-KC_LABS_Round11.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/">wired.com</a> | <a href="https://keplercompute.com/">source</a></small></p><hr/><p>Kepler Computing has exited stealth mode with a 3D-stacked memory architecture designed to increase the density of high-bandwidth memory (HBM) and SRAM. By utilizing a proprietary ferroelectric material, the company aims to bypass expensive extreme ultraviolet lithography (EUV) and instead utilize existing semiconductor fabrication plants.</p><p>The startup has raised $468 million from backers including Intel Capital and AMD Ventures, alongside $245 million in US Department of Commerce funding. While currently testing technology with manufacturing partner GlobalFoundries, Kepler plans to ship HBM samples later this year and anticipates US-based production by 2028.</p><p><img src="https://media.wired.com/photos/6a99ec2db7c9748e42e629c3/master/w_1600%2Cc_limit/selected-63-KC_LABS_Round11.jpg" /></p><hr/><small>10 Sep 2026, 09:50 UTC | #20656</small>]]></content>
+  </entry>
   <entry>
     <title>Trynix-preview GitHub Action Enables Browser-Based Pull Request Testing</title>
     <link href="https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it" rel="alternate" />

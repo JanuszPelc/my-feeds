@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-09T20:31:00+00:00</updated>
+  <updated>2026-09-10T06:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>DeepSeek Announces DeepSeek-V4.1-Flash Multimodal Model</title>
+    <link href="https://twitter.com/deepseek_ai/status/2097930608790167907" rel="alternate" />
+    <id>https://twitter.com/deepseek_ai/status/2097930608790167907::v238</id>
+    <published>2026-09-10T06:12:00+00:00</published>
+    <updated>2026-09-10T06:12:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/HR1UyHiaAAAtpqw.jpg?name=orig" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://twitter.com/deepseek_ai/status/2097930608790167907">twitter.com</a> | <a href="https://www.deepseek.com/en/news/deepseek-v4-1-flash/">source</a> | <a href="https://news.ycombinator.com/item?id=49639090">hacker news</a></small></p><hr/><p>DeepSeek has introduced DeepSeek-V4.1-Flash, a multimodal Mixture-of-Experts (MoE) model featuring a 552B-parameter backbone. The model utilizes an asymmetric architecture with 8B active parameters for input and 16B for output, designed to provide higher throughput and faster inference than previous flagship models.</p><p>The new model includes native visual understanding and significantly reduces KV cache requirements, utilizing one-fourth the HBM and one-eighth the SSD storage of the previous generation. As part of the launch, DeepSeek is phasing out the V4-Pro model and has implemented new API pricing structures to reflect the increased efficiency.</p><p><img src="https://pbs.twimg.com/media/HR1UyHiaAAAtpqw.jpg?name=orig" /></p><hr/><small>10 Sep 2026, 09:54 UTC | #20687</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Analyzes Claude Model Misalignment in Cybersecurity Incidents</title>
     <link href="https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents" rel="alternate" />
