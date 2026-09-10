@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T02:01:00+00:00</updated>
+  <updated>2026-09-10T06:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>New Mexico Accuses Meta of Data Protection Failures in Cambridge Analytica Trial</title>
+    <link href="https://apnews.com/article/facebook-meta-new-mexico-privacy-lawsuit-fe250dc752777abd4f95f49111a2008a" rel="alternate" />
+    <id>https://apnews.com/article/facebook-meta-new-mexico-privacy-lawsuit-fe250dc752777abd4f95f49111a2008a::v238</id>
+    <published>2026-09-10T06:16:00+00:00</published>
+    <updated>2026-09-10T06:16:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA22ozG0.img?w=768&amp;h=563&amp;m=6" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://apnews.com/article/facebook-meta-new-mexico-privacy-lawsuit-fe250dc752777abd4f95f49111a2008a">apnews.com</a></small></p><hr/><p>Attorneys for New Mexico argued in opening statements that Meta failed to protect Facebook user data, specifically regarding its use in targeted political advertisements. The state alleges these ads were used in attempts to suppress Democratic voter turnout.</p><p>This is the only trial in the United States specifically centered on the Cambridge Analytica data privacy scandal. The case explores the legality of using personal information for political micro-targeting and the extent of corporate responsibility for user privacy.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA22ozG0.img?w=768&h=563&m=6" /></p><hr/><small>10 Sep 2026, 10:42 UTC | #20660</small>]]></content>
+  </entry>
   <entry>
     <title>DOJ Investigates Nvidia’s Licensing Deal with Groq Over Antitrust Concerns</title>
     <link href="https://www.nytimes.com/2026/09/09/business/nvidia-groq-antitrust.html" rel="alternate" />
