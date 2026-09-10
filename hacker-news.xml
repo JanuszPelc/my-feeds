@@ -1039,13 +1039,4 @@
     <media:thumbnail url="https://www.wundertech.net/wp-content/uploads/2023/05/image-2-1024x720.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your">lobste.rs</a> | <a href="https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your">discussion</a></small></p><hr/><p>Btrfs provides flexible redundancy through subvolumes and heterogeneous disk support, alongside snapshotting capabilities that assist in recovering from accidental file deletions. Data durability is ensured by maintaining backups across multiple machines or cloud providers rather than relying exclusively on a single filesystem's reliability.</p><p>Compared to ZFS, Btrfs requires less resource overhead and presents lower management complexity, making it a practical choice for small-scale NAS and virtualization hosts like Proxmox. While ZFS is highly robust, its requirements are better suited for large-scale enterprise environments with significant memory and concurrent usage.</p><p><img src="https://www.wundertech.net/wp-content/uploads/2023/05/image-2-1024x720.png" /></p><hr/><small>5 Sep 2026, 23:36 UTC | #20264</small>]]></content>
   </entry>
-  <entry>
-    <title>Gmail "Send As" and Alias Setup</title>
-    <link href="https://support.google.com/mail/answer/22370?hl=en" rel="alternate" />
-    <id>https://support.google.com/mail/answer/22370?hl=en::v238</id>
-    <published>2026-09-05T17:54:00+00:00</published>
-    <updated>2026-09-05T17:54:00+00:00</updated>
-    <media:thumbnail url="https://assets.mailmeteor.com/blog/gmail-alias/send-email-from-gmail-alias.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://support.google.com/mail/answer/22370?hl=en">support.google.com</a> | <a href="https://news.ycombinator.com/item?id=49565693">hacker news</a></small></p><hr/><p>Gmail supports sending emails from up to 99 different addresses, including Google Workspace aliases and non-Gmail accounts like Outlook or Yahoo. To use an external address, users must add the account and verify it via a confirmation link to use it as a "From" address.</p><p>Starting January 2027, Gmail will discontinue support for the "Send as" feature for third-party email addresses, though Google-hosted identities and Workspace aliases will remain functional. Users can also use Gmail aliases—adding specific suffixes to their usernames—to facilitate automated mail filtering.</p><p><img src="https://assets.mailmeteor.com/blog/gmail-alias/send-email-from-gmail-alias.jpg" /></p><hr/><small>5 Sep 2026, 22:32 UTC | #20262</small>]]></content>
-  </entry>
 </feed>
