@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T00:04:00+00:00</updated>
+  <updated>2026-09-10T00:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Jeffrey Katzenberg and Former OpenAI Sora Head Plan AI Video Startup</title>
+    <link href="https://www.theinformation.com/articles/jeffrey-katzenberg-teams-former-openai-sora-head-new-ai-video-startup" rel="alternate" />
+    <id>https://www.theinformation.com/articles/jeffrey-katzenberg-teams-former-openai-sora-head-new-ai-video-startup::v238</id>
+    <published>2026-09-10T00:11:00+00:00</published>
+    <updated>2026-09-10T00:11:00+00:00</updated>
+    <media:thumbnail url="https://news.crunchbase.com/wp-content/uploads/JK_WndrCo-1-e1764945671999.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/jeffrey-katzenberg-teams-former-openai-sora-head-new-ai-video-startup">theinformation.com</a></small></p><hr/><p>Jeffrey Katzenberg, former OpenAI Sora head Bill Peebles, and former Dropbox CFO Sujay Jaswa are planning to launch a new startup focused on generative AI video. The company aims to develop and train video models specifically designed to meet the requirements of professional filmmakers.</p><p>The founders are reportedly in discussions with potential investors to secure funding for the venture. This move comes as the generative video market expands, with the team looking to bridge the gap between general-purpose AI tools and professional cinematic production workflows.</p><p><img src="https://news.crunchbase.com/wp-content/uploads/JK_WndrCo-1-e1764945671999.jpg" /></p><hr/><small>10 Sep 2026, 07:18 UTC | #20651</small>]]></content>
+  </entry>
   <entry>
     <title>Research Suggests Autonomous Vehicles Are Safer Than Human Drivers</title>
     <link href="https://spectrum.ieee.org/are-self-driving-cars-safe" rel="alternate" />
