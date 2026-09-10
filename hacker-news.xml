@@ -1048,31 +1048,4 @@
     <media:thumbnail url="https://cloudinabottle.org/blog/images/dashboard_screenshot.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://cloudinabottle.org/blog/launch-post">cloudinabottle.org</a> | <a href="https://news.ycombinator.com/item?id=49582000">hacker news</a></small></p><hr/><p>Cloud in a Bottle is an open-source platform designed to make self-hosting as intuitive as using a smartphone. The system uses a web dashboard to run rootless, hardened containers on Ubuntu, providing unified authentication and a curated catalog of web applications to reduce the technical complexity of managing a personal server.</p><p>Supported by Imbue, the platform is available for self-hosting on local hardware or virtual machines, as well as through a managed service. The project aims to provide a private, decentralized alternative to centralized cloud services by facilitating the use of open-source web software.</p><p><img src="https://cloudinabottle.org/blog/images/dashboard_screenshot.webp" /></p><hr/><small>6 Sep 2026, 03:52 UTC | #20271</small>]]></content>
   </entry>
-  <entry>
-    <title>.NET 11 Introduces Runtime Async Calling Convention</title>
-    <link href="https://csharpdigest.net/links/23119/rss" rel="alternate" />
-    <id>https://csharpdigest.net/links/23119/rss::v238</id>
-    <published>2026-09-05T20:41:00+00:00</published>
-    <updated>2026-09-05T20:41:00+00:00</updated>
-    <media:thumbnail url="https://www.netmentor.es/imagen/e16a3162-1e7d-4f17-a428-d68c25d756a5.jpg" />
-    <content type="html"><![CDATA[<p><small>C# Digest | <a href="https://csharpdigest.net/links/23119/rss">csharpdigest.net</a> | <a href="https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime">source</a></small></p><hr/><p>.NET 11 introduces Runtime Async, a mechanism that replaces compiler-generated state machines with a runtime-managed calling convention. By passing a `Continuation` object through registers, the JIT can manage asynchronous control flow directly, preserving original method structures and enabling optimizations like inlining that are often lost in traditional `async/await` implementations.</p><p>This implementation reduces the memory and CPU overhead caused by `Task` allocations and state machine management, particularly in deep, synchronous call chains. The development follows the conclusion of the .NET "Green Threads" experiment and aims to solve performance and hardware-compatibility issues associated with user-mode scheduling.</p><p><img src="https://www.netmentor.es/imagen/e16a3162-1e7d-4f17-a428-d68c25d756a5.jpg" /></p><hr/><small>6 Sep 2026, 00:57 UTC | #19623</small>]]></content>
-  </entry>
-  <entry>
-    <title>Berlin Reviews Stolen Data Released by Rhysida Ransomware Group</title>
-    <link href="https://www.reuters.com/world/berlin-launches-crisis-response-after-hackers-publish-stolen-data-2026-09-05/" rel="alternate" />
-    <id>https://www.reuters.com/world/berlin-launches-crisis-response-after-hackers-publish-stolen-data-2026-09-05/::v238</id>
-    <published>2026-09-05T20:39:00+00:00</published>
-    <updated>2026-09-05T20:39:00+00:00</updated>
-    <media:thumbnail url="https://www.rapid7.com/cdn/images/blt769705e9285f0e07/69246f2eb05489c43e03d6f7/7-data-release-ransomware-rhysida.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/berlin-launches-crisis-response-after-hackers-publish-stolen-data-2026-09-05/">reuters.com</a></small></p><hr/><p>Berlin's state government is conducting a high-intensity review of 5.79 terabytes of stolen data released by the Rhysida ransomware group. The leak occurred after authorities refused to pay a 30 Bitcoin ransom, valued at approximately €2 million. The released files reportedly include sensitive information, such as national defense and threat response plans.</p><p>The data comprises approximately 1.44 million files, including legal, financial, and contractual documents. State officials have stated the decision to refuse the ransom was intended to avoid submitting to extortion.</p><p><img src="https://www.rapid7.com/cdn/images/blt769705e9285f0e07/69246f2eb05489c43e03d6f7/7-data-release-ransomware-rhysida.png" /></p><hr/><small>6 Sep 2026, 00:40 UTC | #20247</small>]]></content>
-  </entry>
-  <entry>
-    <title>Btrfs for NAS and Backup Storage</title>
-    <link href="https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your" rel="alternate" />
-    <id>https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your::v238</id>
-    <published>2026-09-05T20:35:00+00:00</published>
-    <updated>2026-09-05T20:35:00+00:00</updated>
-    <media:thumbnail url="https://www.wundertech.net/wp-content/uploads/2023/05/image-2-1024x720.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your">lobste.rs</a> | <a href="https://lobste.rs/s/wk38d2/what_filesystem_are_you_running_on_your">discussion</a></small></p><hr/><p>Btrfs provides flexible redundancy through subvolumes and heterogeneous disk support, alongside snapshotting capabilities that assist in recovering from accidental file deletions. Data durability is ensured by maintaining backups across multiple machines or cloud providers rather than relying exclusively on a single filesystem's reliability.</p><p>Compared to ZFS, Btrfs requires less resource overhead and presents lower management complexity, making it a practical choice for small-scale NAS and virtualization hosts like Proxmox. While ZFS is highly robust, its requirements are better suited for large-scale enterprise environments with significant memory and concurrent usage.</p><p><img src="https://www.wundertech.net/wp-content/uploads/2023/05/image-2-1024x720.png" /></p><hr/><small>5 Sep 2026, 23:36 UTC | #20264</small>]]></content>
-  </entry>
 </feed>
