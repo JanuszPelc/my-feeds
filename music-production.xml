@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-10T16:18:00+00:00</updated>
+  <updated>2026-09-10T16:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Pine DSP Releases Blox Exciter Saturator Plugin</title>
+    <link href="https://www.kvraudio.com/news/pine-dsp-releases-blox-exciter---three-mode-saturator-plugin-vst3-au-and-aax-68444?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68444" rel="alternate" />
+    <id>https://www.kvraudio.com/news/pine-dsp-releases-blox-exciter---three-mode-saturator-plugin-vst3-au-and-aax-68444?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68444::v238</id>
+    <published>2026-09-10T16:19:00+00:00</published>
+    <updated>2026-09-10T16:19:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/pine-exciter.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/pine-dsp-releases-blox-exciter---three-mode-saturator-plugin-vst3-au-and-aax-68444?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68444">kvraudio.com</a> | <a href="https://pinedsp.com/blox-exciter">source</a></small></p><hr/><p>Pine DSP has released Blox Exciter, a three-mode saturator plugin compatible with macOS and Windows. The plugin provides three distinct distortion modes: Ember for warm overdrive, Reel for magnetic tape emulation, and Glass for sharp, edgy tones.</p><p>Available in VST3, AU, and AAX formats, the plugin features Air, Drive, and Tilt controls, along with Hysteresis and Bias parameters in Reel mode. It is offered at an introductory price of €3 until October 13, after which the standard price will be €19.</p><p><img src="https://static.kvraudio.com/i/b/pine-exciter.jpg" /></p><hr/><small>10 Sep 2026, 21:21 UTC | #20732</small>]]></content>
+  </entry>
   <entry>
     <title>Universal Audio Adds DSP Support to UAD Topline Vocal Tune</title>
     <link href="https://www.kvraudio.com/news/universal-audio-brings-uad-topline-vocal-tune-to-apollo-dsp---first-realtime-pitch-shifting-uad-plug-in-68446?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68446" rel="alternate" />
