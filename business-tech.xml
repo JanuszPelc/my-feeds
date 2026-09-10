@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T06:28:00+00:00</updated>
+  <updated>2026-09-10T08:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amazon's Zoox Employs Lifestyle Marketing to Compete with Waymo in San Francisco</title>
+    <link href="https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html?unlocked_article_code=1._1A.UmXG.fSHCvuBodiUj&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html?unlocked_article_code=1._1A.UmXG.fSHCvuBodiUj&amp;smid=url-share::v238</id>
+    <published>2026-09-10T08:04:00+00:00</published>
+    <updated>2026-09-10T08:04:00+00:00</updated>
+    <media:thumbnail url="https://www.koin.com/wp-content/uploads/sites/10/2025/11/691c7e63107c12.18799480.jpeg?w=1752&amp;h=986&amp;crop=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html?unlocked_article_code=1._1A.UmXG.fSHCvuBodiUj&smid=url-share">nytimes.com</a></small></p><hr/><p>Amazon's Zoox is employing social media influencers, community events, and targeted advertising to compete with Waymo in the San Francisco market. The company's fleet currently consists of approximately 100 autonomous vehicles.</p><p>The brand's strategy includes lifestyle-oriented initiatives like wine pop-ups and festival sponsorships. Additionally, the vehicles are designed with an aesthetic intended to facilitate filming and social media content creation.</p><p><img src="https://www.koin.com/wp-content/uploads/sites/10/2025/11/691c7e63107c12.18799480.jpeg?w=1752&h=986&crop=1" /></p><hr/><small>10 Sep 2026, 13:36 UTC | #20673</small>]]></content>
+  </entry>
   <entry>
     <title>Chinese Professionals Turn to AI Training as Gig Work</title>
     <link href="https://restofworld.org/2026/china-expert-ai-trainers/" rel="alternate" />

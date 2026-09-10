@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T06:21:00+00:00</updated>
+  <updated>2026-09-10T08:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ClickHouse Query Optimization for Sub-Second Latency</title>
+    <link href="https://jordivillar.com/blog/every-millisecond-counts" rel="alternate" />
+    <id>https://jordivillar.com/blog/every-millisecond-counts::v238</id>
+    <published>2026-09-10T08:07:00+00:00</published>
+    <updated>2026-09-10T08:07:00+00:00</updated>
+    <media:thumbnail url="https://jordivillar.com/_vercel/image?url=_astro%2Ffinal-single-thread.Bb-q5RET.png&amp;w=1920&amp;q=100" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jordivillar.com/blog/every-millisecond-counts">jordivillar.com</a> | <a href="https://lobste.rs/s/uiyfpl/every_millisecond_counts">discussion</a> | <a href="https://news.ycombinator.com/item?id=49629608">hacker news</a></small></p><hr/><p>This report details a series of incremental optimizations implemented to reduce ClickHouse query latency from 85 seconds to sub-second levels. It focuses on overcoming the performance bottlenecks inherent in using the `ReplacingMergeTree` engine and `FINAL` operations for managing large-scale, mutable event data.</p><p>Key improvements included shifting from time-based partitioning to a modulo-based strategy to increase merge parallelism, reordering sort keys to optimize granule filtering, and replacing nested views with flat query templates to reduce parsing and planning overhead. The author also describes the impact of precomputing columns at the application level and adjusting background merge settings to ensure more effective data deduplication.</p><p><img src="https://jordivillar.com/_vercel/image?url=_astro%2Ffinal-single-thread.Bb-q5RET.png&w=1920&q=100" /></p><hr/><small>10 Sep 2026, 13:43 UTC | #20712</small>]]></content>
+  </entry>
   <entry>
     <title>Clankerfree Indexes Software Projects Excluding Generative AI</title>
     <link href="https://clankerfree.org" rel="alternate" />
