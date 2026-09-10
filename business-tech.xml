@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T16:17:00+00:00</updated>
+  <updated>2026-09-10T16:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>ElevenLabs and Universal Music Group Announce Strategic AI Music Partnership</title>
+    <link href="https://musictech.com/news/industry/elevenlabs-deal-universal-music-group-ai-music-platform-products/" rel="alternate" />
+    <id>https://musictech.com/news/industry/elevenlabs-deal-universal-music-group-ai-music-platform-products/::v238</id>
+    <published>2026-09-10T16:29:00+00:00</published>
+    <updated>2026-09-10T16:29:00+00:00</updated>
+    <media:thumbnail url="https://www.theaidb.com/images/news/1775165307.webp" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/industry/elevenlabs-deal-universal-music-group-ai-music-platform-products/">musictech.com</a> | <a href="https://www.universalmusic.com/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement-beginning-with-a-new-licensed-ai-music-creation-platform/">source</a></small></p><hr/><p>ElevenLabs and Universal Music Group have entered a multi-year strategic collaboration and licensing agreement to develop an AI-powered music platform and new audio products. The partnership aims to allow fans to co-create with artists through remixes, track interpretations, and personalized vocal experiences while ensuring songwriters are fairly compensated.</p><p>This agreement marks ElevenLabs' first partnership with a major record label and focuses on the responsible development of AI music technology using licensed content. The upcoming platform is intended to be offered separately from ElevenLabs' existing Music API and Eleven Music creation app.</p><p><img src="https://www.theaidb.com/images/news/1775165307.webp" /></p><hr/><small>10 Sep 2026, 21:47 UTC | #20736</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon and OpenAI Pilot Advertising Services in ChatGPT</title>
     <link href="https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/" rel="alternate" />
@@ -840,14 +849,5 @@
     <updated>2026-09-06T00:05:00+00:00</updated>
     <media:thumbnail url="https://images.storyboard18.com/storyboard18/2026/09/Visuals-Page-2026-09-05T092839.026-2026-09-ffb7d9931e710dbe91ab89bf744755ed-1019x573.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.geekwire.com/2026/seattle-times-sues-microsoft-and-openai-alleging-they-trained-their-ai-on-its-journalism/">geekwire.com</a> | <a href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.672142/gov.uscourts.nysd.672142.1.0.pdf">source</a></small></p><hr/><p>The Seattle Times Co. and Newsday have filed a lawsuit against Microsoft and OpenAI, alleging the companies used their journalism to train artificial intelligence models without permission or compensation. The complaint claims the companies scraped hundreds of thousands of articles by bypassing paywalls and ignoring terms of service. The lawsuit seeks financial damages and the destruction of any datasets and models built using the protected content.</p><p>The case follows a similar legal trajectory to The New York Times' lawsuit against the same defendants. The Seattle Times is suing two of its own funding supporters, as Microsoft and OpenAI previously jointly funded a $10 million AI fellowship that included the newsroom. While OpenAI has established licensing deals with outlets such as News Corp and The Associated Press, more publishers are increasingly seeking compensation for training data.</p><p><img src="https://images.storyboard18.com/storyboard18/2026/09/Visuals-Page-2026-09-05T092839.026-2026-09-ffb7d9931e710dbe91ab89bf744755ed-1019x573.jpg" /></p><hr/><small>6 Sep 2026, 04:05 UTC | #20258</small>]]></content>
-  </entry>
-  <entry>
-    <title>White House Launches Arcade.gov Featuring Policy-Themed Video Games</title>
-    <link href="https://abcnews.com/Politics/white-house-launches-arcade-computer-game-lets-players/story?id=136214362" rel="alternate" />
-    <id>https://abcnews.com/Politics/white-house-launches-arcade-computer-game-lets-players/story?id=136214362::v238</id>
-    <published>2026-09-05T21:33:00+00:00</published>
-    <updated>2026-09-05T21:33:00+00:00</updated>
-    <media:thumbnail url="https://i.abcnewsfe.com/a/b9ad5c3c-a57a-48bf-ac13-52ce6b6e9a19/trump-arcade_1788564926909_hpMain.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://abcnews.com/Politics/white-house-launches-arcade-computer-game-lets-players/story?id=136214362">abcnews.com</a> | <a href="https://www.whitehouse.gov/arcade/">source</a> | <a href="https://news.ycombinator.com/item?id=49557349">hacker news</a></small></p><hr/><p>The White House has launched Arcade.gov, a website featuring five browser-based video games designed to promote the administration's policy agenda. The collection includes "Rio Run," a Snake-inspired game centered on migrant deportation, and "Build the Wall," a Tetris-like game focused on border security.</p><p>The initiative has drawn criticism from lawmakers and legal scrutiny from the Tetris Company regarding potential copyright infringement. While the White House describes the site as an innovative way to communicate presidential accomplishments, questions persist regarding the use of taxpayer funds and specific contractors for the project.</p><p><img src="https://i.abcnewsfe.com/a/b9ad5c3c-a57a-48bf-ac13-52ce6b6e9a19/trump-arcade_1788564926909_hpMain.jpg" /></p><hr/><small>6 Sep 2026, 03:49 UTC | #20257</small>]]></content>
   </entry>
 </feed>

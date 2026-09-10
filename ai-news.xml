@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-10T14:19:00+00:00</updated>
+  <updated>2026-09-10T16:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Cognition Releases SWE-2 Coding Model</title>
+    <link href="https://cognition.com/blog/swe-2" rel="alternate" />
+    <id>https://cognition.com/blog/swe-2::v238</id>
+    <published>2026-09-10T16:23:00+00:00</published>
+    <updated>2026-09-10T16:23:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQH1KvKSVeoI5Q/feedshare-shrink_800/B4EZo8SXBPIIAg-/0/1761948039016?e=2147483647&amp;v=beta&amp;t=0Zv-JyoGQKmFPhgs4v-9iwkQI593ZKyR-o08vWnY1rg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://cognition.com/blog/swe-2">cognition.com</a> | <a href="https://news.ycombinator.com/item?id=49645443">hacker news</a></small></p><hr/><p>Achieving a 50.0% score on the FrontierCode 1.1 Main benchmark, the model uses reinforcement learning (RL) to optimize the cost-performance Pareto frontier. Post-trained from the 2.8 trillion-parameter Kimi K3 model, SWE-2 is designed to approach the performance of frontier models like GPT-6 Astra and Fable 5.1 at a fraction of the cost.</p><p>The model increases efficiency through focused exploration, allowing the agent to identify relevant codebase sections and begin implementation faster than the previous SWE-1.7 model. Technical refinements include a length-weighted reward baseline for training stability, the use of DSpark speculative decoding to raise decoding throughput, and a tripling of the available RL environments. SWE-2 is available through Devin Desktop, CLI, Web, and Fusion.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQH1KvKSVeoI5Q/feedshare-shrink_800/B4EZo8SXBPIIAg-/0/1761948039016?e=2147483647&v=beta&t=0Zv-JyoGQKmFPhgs4v-9iwkQI593ZKyR-o08vWnY1rg" /></p><hr/><small>10 Sep 2026, 21:44 UTC | #20765</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Grants EU Cybersecurity Agency Access to Mythos 5</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-10/anthropic-gives-eu-access-to-mythos-months-after-model-s-release" rel="alternate" />
@@ -293,14 +302,5 @@
     <updated>2026-09-06T07:13:00+00:00</updated>
     <media:thumbnail url="https://argusreport.dev/og/openai-spud-announcement.webp" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://fortune.com/2026/09/04/openai-quietly-boosts-some-of-astras-evaluation-metrics-amid-rare-delay-in-publication-of-the-modeblog-post-announcement/">fortune.com</a> | <a href="https://openai.com/index/gpt-6-astra/">source</a> | <a href="https://news.ycombinator.com/item?id=49554643">hacker news</a></small></p><hr/><p>OpenAI has revised several evaluation metrics for its GPT-6 Astra model following its recent announcement. The changes, occurring shortly after the initial blog post release, included significant shifts in reported hallucination rates and mathematical proficiency scores. Some updates briefly made Astra appear to outperform competitors like Anthropic's Fable 5.1 model, though several metrics were subsequently reverted to their original values.</p><p>These discrepancies have prompted discussion among researchers regarding "benchmaxxing," the practice of maximizing benchmark scores through favorable testing conditions. The incident underscores the difficulty of creating standardized, reliable performance metrics as AI companies compete to demonstrate leadership through rapidly evolving evaluation benchmarks.</p><p><img src="https://argusreport.dev/og/openai-spud-announcement.webp" /></p><hr/><small>6 Sep 2026, 11:42 UTC | #20274</small>]]></content>
-  </entry>
-  <entry>
-    <title>Large-Language Models Modeled via Epidemiological Analogy</title>
-    <link href="https://arxiv.org/abs/2609.03344" rel="alternate" />
-    <id>https://arxiv.org/abs/2609.03344::v238</id>
-    <published>2026-09-05T21:32:00+00:00</published>
-    <updated>2026-09-05T21:32:00+00:00</updated>
-    <media:thumbnail url="https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/emotional-cognitive-modeling-framework-with-desire-driven-objective-optimization-for-llm-empowered-agent-in-social-simulation-1.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arxiv.org/abs/2609.03344">arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=49580164">hacker news</a></small></p><hr/><p>An epidemiological framework has been proposed to explain the spread of large-language models (LLMs) through human populations. The model identifies three user states—uncoupled, coupled, and persistently dependent—suggesting that social transmission and collective reinforcement can lead to technological lock-in and critical tipping points.</p><p>The findings suggest that rapid adoption could trigger runaway dynamics, potentially resulting in widespread persistent dependence and a loss of cognitive autonomy. However, the research also identifies conditions for "cognitive immunization" based on reducing transmission rates and facilitating the reversibility of LLM integration.</p><p><img src="https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/emotional-cognitive-modeling-framework-with-desire-driven-objective-optimization-for-llm-empowered-agent-in-social-simulation-1.png" /></p><hr/><small>6 Sep 2026, 03:37 UTC | #20270</small>]]></content>
   </entry>
 </feed>
