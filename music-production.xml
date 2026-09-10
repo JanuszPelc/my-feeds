@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-10T13:43:00+00:00</updated>
+  <updated>2026-09-10T14:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Pook Audio Launches Pook Plugin Builder</title>
+    <link href="https://www.kvraudio.com/news/pook-audio-launches-pook---build-audio-plugins-in-your-daw-without-code-68455?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68455" rel="alternate" />
+    <id>https://www.kvraudio.com/news/pook-audio-launches-pook---build-audio-plugins-in-your-daw-without-code-68455?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68455::v238</id>
+    <published>2026-09-10T14:14:00+00:00</published>
+    <updated>2026-09-10T14:14:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/kvr-news-cover.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/pook-audio-launches-pook---build-audio-plugins-in-your-daw-without-code-68455?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68455">kvraudio.com</a> | <a href="https://pookaudio.com/">source</a></small></p><hr/><p>Pook Audio has released Pook, a tool for macOS and Windows that enables the creation of VST3, AU, and AAX audio plugins using AI coding agents. By providing plain-language descriptions to agents like Cursor or Claude Code, users can generate code that the software builds and hot-reloads live within an open DAW session.</p><p>The tool automates DSP engineering essentials such as automation, delay compensation, and resizable UIs. Available in three license tiers—Pook Fx, Pook Instrument, and Pook Studio—the software is expected to eventually support the distribution of signed installers under a user's own brand.</p><p><img src="https://static.kvraudio.com/i/b/kvr-news-cover.jpg" /></p><hr/><small>10 Sep 2026, 17:03 UTC | #20734</small>]]></content>
+  </entry>
+  <entry>
+    <title>FeelYourSound Updates SongEngine MIDI Generator to v1.7.0</title>
+    <link href="https://www.kvraudio.com/news/feelyoursound-updates-free-songengine-to-v1-7-0---adds-advanced-chords-68473?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68473" rel="alternate" />
+    <id>https://www.kvraudio.com/news/feelyoursound-updates-free-songengine-to-v1-7-0---adds-advanced-chords-68473?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68473::v238</id>
+    <published>2026-09-10T14:13:00+00:00</published>
+    <updated>2026-09-10T14:13:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/songengine_1-7-0_boxshot_01.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/feelyoursound-updates-free-songengine-to-v1-7-0---adds-advanced-chords-68473?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68473">kvraudio.com</a> | <a href="https://feelyoursound.com/songengine/">source</a></small></p><hr/><p>FeelYourSound has released version 1.7.0 of its free SongEngine MIDI generator plug-in for VST and AU formats. The update introduces three new Chord Pad generators for diatonic chords, which automatically display relevant chords for up to four, five, or seven notes within a selected scale.</p><p>In addition to the chord generation features, the update adds a "Clear" button to the "Edit notes" dialog and resolves bugs related to DAW notifications and search button functionality. The plugin is designed to transform chord progressions into arpeggios, basslines, and complex piano phrases across various musical genres.</p><p><img src="https://static.kvraudio.com/i/b/songengine_1-7-0_boxshot_01.png" /></p><hr/><small>10 Sep 2026, 17:02 UTC | #20704</small>]]></content>
+  </entry>
   <entry>
     <title>Unusable Engineering Releases Quadrant Modulator</title>
     <link href="https://www.kvraudio.com/news/unusable-engineering-releases-quadrant-modulator---four-quadrant-multiplier-and-ring-modulation-effect-vst3-and-au-68471?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68471" rel="alternate" />
@@ -670,14 +688,5 @@
     <updated>2026-09-06T07:27:00+00:00</updated>
     <media:thumbnail url="https://www.251bianqu.com/wp-content/uploads/2024/03/kong-Auido-3-Library-0.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/kong-audio-updates-qin-engine-to-v3-17-68389?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68389">kvraudio.com</a> | <a href="https://chineekong.com/en/qinenginev3/">source</a></small></p><hr/><p>Kong Audio has released version 3.17 of its Qin Engine. This update adds a UI zooming feature, optimizes UI loading, and improves multi-language implementation.</p><p>The release also addresses several minor bugs. Software is available for Windows and macOS, while Linux versions are provided upon request via email.</p><p><img src="https://www.251bianqu.com/wp-content/uploads/2024/03/kong-Auido-3-Library-0.jpg" /></p><hr/><small>6 Sep 2026, 13:46 UTC | #20287</small>]]></content>
-  </entry>
-  <entry>
-    <title>MOTSU and DeeJei.Tokyo Release MotTune MIDI Pitch Correction Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/05/mottune-midi/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/05/mottune-midi/::v238</id>
-    <published>2026-09-05T16:54:00+00:00</published>
-    <updated>2026-09-05T16:54:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/ebqhBNru2sk/hqdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/05/mottune-midi/">bedroomproducersblog.com</a> | <a href="https://deejei.tokyo/mottune/?lang=en">source</a> | <a href="https://bedroomproducersblog.com/2026/09/05/mottune-midi/#respond">discussion</a></small></p><hr/><p>MOTSU and DeeJei.Tokyo have released MotTune MIDI, a free real-time vocal pitch-correction and vocoder plugin compatible with macOS and Windows. The tool is designed for zero-latency operation and requires no user registration or sign-up.</p><p>Developed by MOTSU, a member of the Japanese group m.o.v.e, the plugin is notable for its association with the artist known for the Initial D anime series theme songs. The software provides vocal tuning and vocoder capabilities for music production.</p><p><img src="https://i.ytimg.com/vi/ebqhBNru2sk/hqdefault.jpg" /></p><hr/><small>5 Sep 2026, 19:34 UTC | #20235</small>]]></content>
   </entry>
 </feed>

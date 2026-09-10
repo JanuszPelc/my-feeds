@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T14:10:00+00:00</updated>
+  <updated>2026-09-10T14:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Microsoft Integrates Rust with MSVC via rustc_codegen_utc</title>
+    <link href="https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/" rel="alternate" />
+    <id>https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/::v238</id>
+    <published>2026-09-10T14:15:00+00:00</published>
+    <updated>2026-09-10T14:15:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/da:true/resize:fit:1200/0*P-g1I64kaTloGR-z" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/">rustfoundation.org</a> | <a href="https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft">discussion</a> | <a href="https://news.ycombinator.com/item?id=49643546">hacker news</a></small></p><hr/><p>Microsoft has designated Rust as a Tier-1 language for internal development, alongside C++, C#, and TypeScript. The integration utilizes rustc_codegen_utc, a backend that connects the Rust compiler to the Microsoft Visual C++ (MSVC) ecosystem. This enables Rust to leverage Windows-native tooling, ABI compatibility, and advanced security and debugging features.</p><p>This move creates a unified code generation platform for both Rust and C++, facilitating seamless interoperability in hybrid projects. By utilizing the existing MSVC infrastructure, Microsoft aims to reduce engineering duplication and expand Rust's application to firmware, drivers, and kernel-level components.</p><p><img src="https://miro.medium.com/v2/da:true/resize:fit:1200/0*P-g1I64kaTloGR-z" /></p><hr/><small>10 Sep 2026, 17:05 UTC | #20719</small>]]></content>
+  </entry>
   <entry>
     <title>Shopify Migrates Mobile Apps from React Native to Native</title>
     <link href="https://shopify.engineering/back-to-native" rel="alternate" />
@@ -1056,14 +1065,5 @@
     <updated>2026-09-05T17:50:00+00:00</updated>
     <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*UI-EWVFNinMwUtQOY4MFJw.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/">sofiabelen.github.io</a> | <a href="https://lobste.rs/s/6du6h3/visualizing_rust_s_vtables_how_dyn_trait">discussion</a> | <a href="https://news.ycombinator.com/item?id=49576343">hacker news</a></small></p><hr/><p>Rust implements runtime polymorphism via `dyn Trait` using wide pointers that combine a data pointer with a vtable pointer. This mechanism facilitates polymorphism for zero-sized types, as identity is managed through ownership and the borrow checker rather than object memory addresses. Unlike C++, where vtable pointers are typically embedded within the object, Rust's vtables are external and paired with the object at the call site.</p><p>Trait objects require the underlying trait to meet "object safety" rules, which prohibit methods from returning `Self` or using generic parameters. These restrictions ensure that the size of returned values and the number of vtable entries remain predictable. This architecture allows the choice between static and dynamic dispatch to be determined at the call site rather than being fixed at the type level.</p><p><img src="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*UI-EWVFNinMwUtQOY4MFJw.png" /></p><hr/><small>5 Sep 2026, 21:18 UTC | #20259</small>]]></content>
-  </entry>
-  <entry>
-    <title>AMD BC-250 Repurposed as Budget Gaming PC</title>
-    <link href="https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/" rel="alternate" />
-    <id>https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/::v238</id>
-    <published>2026-09-05T16:56:00+00:00</published>
-    <updated>2026-09-05T16:56:00+00:00</updated>
-    <media:thumbnail url="https://devquasar.com/wp-content/uploads/2025/11/bc-250_case-1024x768.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/">devquasar.com</a> | <a href="https://news.ycombinator.com/item?id=49576386">hacker news</a></small></p><hr/><p>The AMD BC-250 is a crypto-mining board featuring repurposed PlayStation 5 APUs. These chips, which were binned or deemed defective for console use, provide six Zen 2 cores and 24 RDNA 2 compute units alongside 16 GB of GDDR6 unified memory. Available on the second-hand market for approximately $70 to $100, these boards were originally designed for ASRock's rack-mount mining servers.</p><p>Conversion into a functional gaming PC requires hardware and firmware modifications, including upgrading the cooling system and flashing a custom BIOS to reallocate memory for graphics. Users running Linux distributions have demonstrated the hardware's ability to play modern titles like Cyberpunk 2077 at playable framerates.</p><p><img src="https://devquasar.com/wp-content/uploads/2025/11/bc-250_case-1024x768.jpg" /></p><hr/><small>5 Sep 2026, 19:48 UTC | #20252</small>]]></content>
   </entry>
 </feed>
