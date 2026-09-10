@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T22:32:00+00:00</updated>
+  <updated>2026-09-09T22:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Automattic CEO Matt Mullenweg Put on Leave of Absence</title>
+    <link href="https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/" rel="alternate" />
+    <id>https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/::v238</id>
+    <published>2026-09-09T22:34:00+00:00</published>
+    <updated>2026-09-09T22:34:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=49634650">hacker news</a></small></p><hr/><p>Automattic CEO and WordPress co-founder Matt Mullenweg has been placed on a paid leave of absence by the company's board of directors. CFO Mark Davies has been appointed as interim CEO. In a company-wide Slack message, Mullenweg alleged that board members "conspired" against him and claimed he was denied the opportunity to have the resolution reviewed by legal counsel before it was finalized.</p><p>The leadership change follows several recent controversies involving Mullenweg, including high-profile legal battles with WP Engine and controversial severance offers for employees who disagreed with his management direction. While stepping down as CEO, Mullenweg is expected to remain on the board with a voice in the company's future decision-making.</p><hr/><small>10 Sep 2026, 05:10 UTC | #20641</small>]]></content>
+  </entry>
   <entry>
     <title>AI Researcher Andrew Tulloch Leaving Meta</title>
     <link href="https://www.semafor.com/article/09/09/2026/ai-researcher-andrew-tulloch-is-leaving-meta" rel="alternate" />
