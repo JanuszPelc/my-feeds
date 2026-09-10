@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T00:06:00+00:00</updated>
+  <updated>2026-09-10T00:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Minesweeper Code Golfed to 247 Bytes in JavaScript</title>
+    <link href="https://yui.dev/blog/minesweeper-in-247-bytes" rel="alternate" />
+    <id>https://yui.dev/blog/minesweeper-in-247-bytes::v238</id>
+    <published>2026-09-10T00:13:00+00:00</published>
+    <updated>2026-09-10T00:13:00+00:00</updated>
+    <media:thumbnail url="https://yui.dev/static/blog/minisweeper/offsets.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yui.dev/blog/minesweeper-in-247-bytes">yui.dev</a> | <a href="https://lobste.rs/s/dlxqqr/depths_javascript_minesweeper_247_bytes">discussion</a></small></p><hr/><p>A functional implementation of Minesweeper has been reduced to 247 bytes of JavaScript. The minimal game features a randomly generated 8x8 board, recursive cell opening, flag toggling, and win detection.</p><p>The code reduction was achieved using advanced JavaScript techniques, such as using the `onmouseup` event for all player inputs, leveraging HTML parsing rules to omit closing tags, and using functions as objects to store game state. The final version was the result of a collaborative code golf effort.</p><p><img src="https://yui.dev/static/blog/minisweeper/offsets.png" /></p><hr/><small>10 Sep 2026, 07:36 UTC | #20677</small>]]></content>
+  </entry>
   <entry>
     <title>Database Design: A Systematic Discussion of External IDs and Primary Keys</title>
     <link href="https://anchorsandlinks.com/posts/primary-keys/" rel="alternate" />
