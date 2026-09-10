@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T00:11:00+00:00</updated>
+  <updated>2026-09-10T01:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Gavin Newsom Signs California AI Safety Legislation Supported by Anthropic and OpenAI</title>
+    <link href="https://www.politico.com/news/2026/09/09/newsom-signs-ai-safety-bills-backed-by-anthropic-openai-01069928" rel="alternate" />
+    <id>https://www.politico.com/news/2026/09/09/newsom-signs-ai-safety-bills-backed-by-anthropic-openai-01069928::v238</id>
+    <published>2026-09-10T01:41:00+00:00</published>
+    <updated>2026-09-10T01:41:00+00:00</updated>
+    <media:thumbnail url="https://www.cryptobreaking.com/wp-content/uploads/2025/10/dalle_68ed63b96396f6.41776344-scaled-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/09/09/newsom-signs-ai-safety-bills-backed-by-anthropic-openai-01069928">politico.com</a> | <a href="https://www.gov.ca.gov/2025/09/29/governor-newsom-signs-sb-53-advancing-californias-world-leading-artificial-intelligence-industry/">source</a></small></p><hr/><p>California Governor Gavin Newsom has signed two bills that regulate how external organizations evaluate artificial intelligence programs for safety. Supported by AI developers Anthropic and OpenAI, the legislation establishes standards for third-party assessments of AI systems.</p><p>The laws provide a framework for independent auditors to certify frontier AI models and create a mechanism for reporting auditor misconduct. These measures are intended to standardize safety evaluations and address industry concerns regarding the risks associated with advanced AI models.</p><p><img src="https://www.cryptobreaking.com/wp-content/uploads/2025/10/dalle_68ed63b96396f6.41776344-scaled-1.jpg" /></p><hr/><small>10 Sep 2026, 08:50 UTC | #20653</small>]]></content>
+  </entry>
   <entry>
     <title>Jeffrey Katzenberg and Former OpenAI Sora Head Plan AI Video Startup</title>
     <link href="https://www.theinformation.com/articles/jeffrey-katzenberg-teams-former-openai-sora-head-new-ai-video-startup" rel="alternate" />
