@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T00:13:00+00:00</updated>
+  <updated>2026-09-10T00:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>NetBSD's Compat_Linux Tested Against Linux Test Project</title>
+    <link href="https://blog.netbsd.org/tnf/entry/gsoc2026_testing_compat_linux_2" rel="alternate" />
+    <id>https://blog.netbsd.org/tnf/entry/gsoc2026_testing_compat_linux_2::v238</id>
+    <published>2026-09-10T00:15:00+00:00</published>
+    <updated>2026-09-10T00:15:00+00:00</updated>
+    <media:thumbnail url="https://www.bibble.co.nz/_og/d/c_ArticleImage,title_~QnVpbGRpbmcgYW5kIFRlc3RpbmcgTGludXggS2VybmVsIE1vZHVsZXMgVXNpbmcgTXVsdGlwYXNzICYgVlMgQ29kZQ,thumbnail_~L2Fzc2V0cy9hcnRpY2xlcy9idWlsZC10ZXN0aW5nLWEtbGludXgta2VybmVsLW1vZHVsZS5wbmc,p_Ii9hcnRpY2xlcy9idWlsZC10ZXN0aW5nLWEtbGludXgta2VybmVsLW1vZHVsZSI.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.netbsd.org/tnf/entry/gsoc2026_testing_compat_linux_2">blog.netbsd.org</a> | <a href="https://lobste.rs/s/im7lnc/netbsd_gsoc_2026_testing_compat_linux">discussion</a></small></p><hr/><p>Henrique Brito's Google Summer of Code 2026 project validated the `compat_linux` kernel-level compatibility layer using the Linux Test Project (LTP) suite. The work involved compiling LTP on NetBSD, creating an automated testing package, and documenting syscall emulations to identify behavioral divergences and bugs.</p><p>Testing uncovered several critical issues, including a kernel panic in the `copy_file_range` syscall and a bug in `rt_sigqueueinfo` that can inadvertently terminate userland processes. Findings also include divergences in how `/proc/self/maps` and `writev` are handled compared to standard Linux behavior, providing a foundation for future compatibility improvements.</p><p><img src="https://www.bibble.co.nz/_og/d/c_ArticleImage,title_~QnVpbGRpbmcgYW5kIFRlc3RpbmcgTGludXggS2VybmVsIE1vZHVsZXMgVXNpbmcgTXVsdGlwYXNzICYgVlMgQ29kZQ,thumbnail_~L2Fzc2V0cy9hcnRpY2xlcy9idWlsZC10ZXN0aW5nLWEtbGludXgta2VybmVsLW1vZHVsZS5wbmc,p_Ii9hcnRpY2xlcy9idWlsZC10ZXN0aW5nLWEtbGludXgta2VybmVsLW1vZHVsZSI.png" /></p><hr/><small>10 Sep 2026, 07:50 UTC | #20678</small>]]></content>
+  </entry>
   <entry>
     <title>Minesweeper Code Golfed to 247 Bytes in JavaScript</title>
     <link href="https://yui.dev/blog/minesweeper-in-247-bytes" rel="alternate" />
