@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T20:33:00+00:00</updated>
+  <updated>2026-09-09T21:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>NVIDIA Introduces Two Programming Tracks for Writing CUDA GPU Kernels in Rust</title>
+    <link href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/" rel="alternate" />
+    <id>https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/::v238</id>
+    <published>2026-09-09T21:47:00+00:00</published>
+    <updated>2026-09-09T21:47:00+00:00</updated>
+    <media:thumbnail url="https://filiphand.github.io/static/images/how_cuda_executes/1.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/">developer.nvidia.com</a> | <a href="https://lobste.rs/s/mlqqpn/introducing_cuda_rust_two_tracks_for">discussion</a> | <a href="https://news.ycombinator.com/item?id=49618642">hacker news</a></small></p><hr/><p>Native Rust support for CUDA GPU kernels is arriving through two distinct tracks: SIMT and Tile. The SIMT track employs `cuda-oxide`, a custom `rustc` codegen backend that compiles kernels directly to PTX to provide low-level control. The Tile track utilizes `cutile-rs`, a higher-level model that operates on data sub-tensors, delegating architectural mapping and optimization to the Tile IR compiler.</p><p>These tracks aim to prevent common GPU concurrency and memory aliasing errors by catching them at compile time using Rust's ownership model. While the SIMT approach currently requires a nightly toolchain, the Tile track is available on stable Rust and is already being used in external projects like HuggingFace’s Grout.</p><p><img src="https://filiphand.github.io/static/images/how_cuda_executes/1.webp" /></p><hr/><small>10 Sep 2026, 03:17 UTC | #20658</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Increases Prices for Previous-Generation iPhone Models</title>
     <link href="https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase" rel="alternate" />
