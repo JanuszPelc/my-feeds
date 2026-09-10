@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T06:25:00+00:00</updated>
+  <updated>2026-09-10T06:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Chinese AI Chipmakers Raise Prices Amid High-Bandwidth Memory Shortage</title>
+    <link href="https://www.reuters.com/world/asia-pacific/chinas-ai-chipmakers-raise-prices-high-bandwidth-memory-shortage-bites-2026-09-10/" rel="alternate" />
+    <id>https://www.reuters.com/world/asia-pacific/chinas-ai-chipmakers-raise-prices-high-bandwidth-memory-shortage-bites-2026-09-10/::v238</id>
+    <published>2026-09-10T06:26:00+00:00</published>
+    <updated>2026-09-10T06:26:00+00:00</updated>
+    <media:thumbnail url="https://byteiota.com/wp-content/uploads/2026/05/featured-image-398-800x400.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/chinas-ai-chipmakers-raise-prices-high-bandwidth-memory-shortage-bites-2026-09-10/">reuters.com</a></small></p><hr/><p>Chinese AI chipmakers, including Huawei Technologies and Cambricon, have increased prices for current and next-generation chips by 20% to 50%. These hikes are driven by rising costs and supply shortages of high-bandwidth memory (HBM).</p><p>The shortage impacts several domestic manufacturers, such as MetaX and Iluvatar CoreX, as component demand outstrips availability. This trend underscores the supply chain pressures facing the specialized AI hardware market.</p><p><img src="https://byteiota.com/wp-content/uploads/2026/05/featured-image-398-800x400.jpg" /></p><hr/><small>10 Sep 2026, 12:33 UTC | #20668</small>]]></content>
+  </entry>
   <entry>
     <title>Mistral AI Secures €3 Billion Funding as French State Ties Intensify</title>
     <link href="https://www.politico.eu/article/mistral-ai-arthur-mensch-emmanuel-macron-gouvernement-france/" rel="alternate" />
