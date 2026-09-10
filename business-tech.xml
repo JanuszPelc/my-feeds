@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T18:56:00+00:00</updated>
+  <updated>2026-09-09T19:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Visa and Mastercard's Role in Card Networks</title>
+    <link href="https://tautology.town/2026/06/01/card-networks.html" rel="alternate" />
+    <id>https://tautology.town/2026/06/01/card-networks.html::v238</id>
+    <published>2026-09-09T19:14:00+00:00</published>
+    <updated>2026-09-09T19:14:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQFA3njALoIq1Q/feedshare-shrink_1280/B56Zvm34aVH4Ac-/0/1769104967640?e=2147483647&amp;v=beta&amp;t=14JHSXjCvl96idwjLkcCuQ-qDUQiwZpyaNlzSUd-Cr4" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://tautology.town/2026/06/01/card-networks.html">tautology.town</a> | <a href="https://news.ycombinator.com/item?id=49614280">hacker news</a></small></p><hr/><p>Card networks like Visa and Mastercard facilitate transactions by connecting cardholders and issuers with merchants and acquirers. They do not provide banking services, issue cards, or manage point-of-sale hardware; instead, they manage transaction message routing, coordinate the banking-level settlement of funds, set participation incentives through fee structures, and establish rules for dispute arbitration.</p><p>These networks act as adapters between global banking systems, enabling efficient international money movement through net settlement. The economic model relies on a merchant discount rate, which is divided into interchange fees for card issuers and network assessment fees for the networks. Additionally, networks provide formal arbitration services to resolve disputes when issuers and acquirers are unable to reach an agreement.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQFA3njALoIq1Q/feedshare-shrink_1280/B56Zvm34aVH4Ac-/0/1769104967640?e=2147483647&v=beta&t=14JHSXjCvl96idwjLkcCuQ-qDUQiwZpyaNlzSUd-Cr4" /></p><hr/><small>10 Sep 2026, 00:16 UTC | #20649</small>]]></content>
+  </entry>
+  <entry>
+    <title>Florida Attorney General Sues Netflix Over Alleged Deceptive Data Collection and Addictive Features</title>
+    <link href="https://www.politico.com/news/2026/09/09/florida-netflix-uthmeier-streaming-investigation-surveillance-01068660" rel="alternate" />
+    <id>https://www.politico.com/news/2026/09/09/florida-netflix-uthmeier-streaming-investigation-surveillance-01068660::v238</id>
+    <published>2026-09-09T19:11:00+00:00</published>
+    <updated>2026-09-09T19:11:00+00:00</updated>
+    <media:thumbnail url="https://ewscripps.brightspotcdn.com/dims4/default/2e450d4/2147483647/strip/true/crop/1280x720+0+40/resize/1280x720!/quality/90/?url=http://ewscripps-brightspot.s3.amazonaws.com/c6/8b/bd37dbbe4a649e155f2bb4fa534a/screenshot-2025-04-30-at-4-04-11-pm.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/09/09/florida-netflix-uthmeier-streaming-investigation-surveillance-01068660">politico.com</a></small></p><hr/><p>Florida Attorney General James Uthmeier has sued Netflix, alleging the company misleads parents by tracking and monetizing children's viewing data without consent. The lawsuit claims these actions violate consumer protection laws and occur even within promised ad-free service tiers.</p><p>The complaint also targets features designed to encourage binge-watching, which the state argues is harmful to child users. The legal action addresses allegations of deceptive data collection and the targeted exploitation of minors.</p><p><img src="https://ewscripps.brightspotcdn.com/dims4/default/2e450d4/2147483647/strip/true/crop/1280x720+0+40/resize/1280x720!/quality/90/?url=http://ewscripps-brightspot.s3.amazonaws.com/c6/8b/bd37dbbe4a649e155f2bb4fa534a/screenshot-2025-04-30-at-4-04-11-pm.jpg" /></p><hr/><small>10 Sep 2026, 00:05 UTC | #20594</small>]]></content>
+  </entry>
   <entry>
     <title>Apple CEO John Ternus Identifies iPhone as Primary AI Device</title>
     <link href="https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/" rel="alternate" />
@@ -670,14 +688,5 @@
     <updated>2026-09-05T00:36:00+00:00</updated>
     <media:thumbnail url="https://s.yimg.com/ny/api/res/1.2/MUF_QHvwpubuQhnb4_3mLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/e3dbc3c0-1be4-11f1-bee7-7a8357c68b48" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/world/u-s-used-promise-of-nvidia-chips-to-broker-armenia-azerbaijan-peace-deal-b6c7cb6e?st=WcCKED">wsj.com</a></small></p><hr/><p>US negotiators used the promise of access to Nvidia AI chips for an Armenian data center to help broker a preliminary peace agreement between Armenia and Azerbaijan last year. The offer of advanced hardware was aimed at securing an end to the long-standing conflict.</p><p>This application of high-performance computing as a diplomatic tool reflects the growing strategic importance of semiconductor export licenses. The deal is tied to plans for building significant AI infrastructure within Armenia.</p><p><img src="https://s.yimg.com/ny/api/res/1.2/MUF_QHvwpubuQhnb4_3mLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/e3dbc3c0-1be4-11f1-bee7-7a8357c68b48" /></p><hr/><small>5 Sep 2026, 07:44 UTC | #20201</small>]]></content>
-  </entry>
-  <entry>
-    <title>Microsoft Argues Copilot Rarely Reproduces Copyrighted Text in Legal Filings</title>
-    <link href="https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IldwdFJmaGQ3OWciLCJwIjoiL3BvbGljeS85OTAyNjcvbWljcm9zb2Z0LW9wZW5haS1uZXcteW9yay10aW1lcy1hdXRob3JzLWxhd3N1aXQiLCJleHAiOjE3ODg5OTg5OTksImlhdCI6MTc4ODU2Njk5OX0.0W2E2SvJtcqIzc31d3Qg-xB0MnXWx7udT_Ny8bYC-QU&amp;utm_medium=gift-link" rel="alternate" />
-    <id>https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IldwdFJmaGQ3OWciLCJwIjoiL3BvbGljeS85OTAyNjcvbWljcm9zb2Z0LW9wZW5haS1uZXcteW9yay10aW1lcy1hdXRob3JzLWxhd3N1aXQiLCJleHAiOjE3ODg5OTg5OTksImlhdCI6MTc4ODU2Njk5OX0.0W2E2SvJtcqIzc31d3Qg-xB0MnXWx7udT_Ny8bYC-QU&amp;utm_medium=gift-link::v238</id>
-    <published>2026-09-05T00:11:00+00:00</published>
-    <updated>2026-09-05T00:11:00+00:00</updated>
-    <media:thumbnail url="https://handsontek.net/images/M365Admin/Posts/66635b9e29239318c787c8e7ed38d75e9317e4d7.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IldwdFJmaGQ3OWciLCJwIjoiL3BvbGljeS85OTAyNjcvbWljcm9zb2Z0LW9wZW5haS1uZXcteW9yay10aW1lcy1hdXRob3JzLWxhd3N1aXQiLCJleHAiOjE3ODg5OTg5OTksImlhdCI6MTc4ODU2Njk5OX0.0W2E2SvJtcqIzc31d3Qg-xB0MnXWx7udT_Ny8bYC-QU&utm_medium=gift-link">theverge.com</a> | <a href="https://www.courtlistener.com/docket/67810584/authors-guild-v-openai-inc/">source</a></small></p><hr/><p>Microsoft's recent legal filings claim that Copilot rarely reproduces substantive portions of protected news articles or books. Based on an analysis of 8.2 million chat logs, the company asserts that very few conversations showed significant word matches with copyrighted works, supporting its "transformative use" defense in ongoing litigation.</p><p>Plaintiffs, including The New York Times and various authors, argue that Microsoft and OpenAI create products that act as direct substitutes for their original journalism and creative works. The consolidated legal battle is currently seeing Microsoft seek summary judgment to dismiss the case. The outcome could set a major legal precedent regarding how generative AI models utilize proprietary content for training.</p><p><img src="https://handsontek.net/images/M365Admin/Posts/66635b9e29239318c787c8e7ed38d75e9317e4d7.png" /></p><hr/><small>5 Sep 2026, 07:22 UTC | #20200</small>]]></content>
   </entry>
 </feed>

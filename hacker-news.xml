@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T18:59:00+00:00</updated>
+  <updated>2026-09-09T19:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Announces "Surprise and Shine" Event for September 9</title>
+    <link href="https://www.youtube.com/watch?v=39BalPDuTo0" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=39BalPDuTo0::v238</id>
+    <published>2026-09-09T19:13:00+00:00</published>
+    <updated>2026-09-09T19:13:00+00:00</updated>
+    <media:thumbnail url="https://images.hitpaw.com/topics/top-trending-tips/apple-event-wwdc-iphone-17-launch.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.youtube.com/watch?v=39BalPDuTo0">youtube.com</a> | <a href="https://www.apple.com/apple-events/">source</a> | <a href="https://news.ycombinator.com/item?id=49629854">hacker news</a></small></p><hr/><p>Apple will host a "Surprise and Shine" special event on September 9 at 10 a.m. PT. The event will be broadcast live via YouTube, the Apple Events website, and the Apple TV app.</p><p>The event is anticipated to showcase the next generation of iPhone hardware, with expectations focused on the iPhone 17 Pro, iPhone 17, and a potential new "iPhone Air" model.</p><p><img src="https://images.hitpaw.com/topics/top-trending-tips/apple-event-wwdc-iphone-17-launch.jpg" /></p><hr/><small>10 Sep 2026, 00:10 UTC | #20597</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple Event Live Coverage: iPhone 18 and Foldable iPhone Expected</title>
+    <link href="https://www.theverge.com/tech/989658/iphone-18-duo-pro-fold-apple-watch-airpods-keynote-live?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InRuUlN6YXpTUmgiLCJwIjoiL3RlY2gvOTg5NjU4L2lwaG9uZS0xOC1kdW8tcHJvLWZvbGQtYXBwbGUtd2F0Y2gtYWlycG9kcy1rZXlub3RlLWxpdmUiLCJleHAiOjE3ODk0MDMxOTUsImlhdCI6MTc4ODk3MTE5NX0.hStayB2SjPOFTb3akQa5qHH6Irmr5vQy3xjN4-dA5bU&amp;utm_medium=gift-link" rel="alternate" />
+    <id>https://www.theverge.com/tech/989658/iphone-18-duo-pro-fold-apple-watch-airpods-keynote-live?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InRuUlN6YXpTUmgiLCJwIjoiL3RlY2gvOTg5NjU4L2lwaG9uZS0xOC1kdW8tcHJvLWZvbGQtYXBwbGUtd2F0Y2gtYWlycG9kcy1rZXlub3RlLWxpdmUiLCJleHAiOjE3ODk0MDMxOTUsImlhdCI6MTc4ODk3MTE5NX0.hStayB2SjPOFTb3akQa5qHH6Irmr5vQy3xjN4-dA5bU&amp;utm_medium=gift-link::v238</id>
+    <published>2026-09-09T19:12:00+00:00</published>
+    <updated>2026-09-09T19:12:00+00:00</updated>
+    <media:thumbnail url="https://cdn.rswebsols.com/wp-content/uploads/2025/12/Foldable-iPhone.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/989658/iphone-18-duo-pro-fold-apple-watch-airpods-keynote-live?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InRuUlN6YXpTUmgiLCJwIjoiL3RlY2gvOTg5NjU4L2lwaG9uZS0xOC1kdW8tcHJvLWZvbGQtYXBwbGUtd2F0Y2gtYWlycG9kcy1rZXlub3RlLWxpdmUiLCJleHAiOjE3ODk0MDMxOTUsImlhdCI6MTc4ODk3MTE5NX0.hStayB2SjPOFTb3akQa5qHH6Irmr5vQy3xjN4-dA5bU&utm_medium=gift-link">theverge.com</a> | <a href="https://www.apple.com/apple-events/">source</a></small></p><hr/><p>Apple’s September keynote is expected to debut a foldable iPhone and the iPhone 18 series. This event marks the first keynote led by CEO John Ternus and is anticipated to include announcements for new Apple Watch and AirPods models, as well as software updates.</p><p>Industry speculation points to potential price increases due to component shortages. There are also reports that standard iPhone 18 models may be delayed until early 2027, which could restrict this event's announcements to Pro and foldable models.</p><p><img src="https://cdn.rswebsols.com/wp-content/uploads/2025/12/Foldable-iPhone.jpg" /></p><hr/><small>10 Sep 2026, 00:08 UTC | #20598</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Introduces Apple Reference Image to Authenticate iPhone Photos</title>
     <link href="https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/" rel="alternate" />
