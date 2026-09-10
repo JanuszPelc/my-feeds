@@ -294,13 +294,4 @@
     <media:thumbnail url="https://www.shutterstock.com/image-vector/incident-report-banner-injury-near-260nw-2653268709.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/openai/status/2096133504417616165">x.com</a> | <a href="https://openai.com/index/hugging-face-incident-and-the-road-ahead/">source</a> | <a href="https://news.ycombinator.com/item?id=49454314">hacker news</a></small></p><hr/><p>OpenAI is developing a framework to report AI misalignment incidents that occur during the training, evaluation, and deployment of models. This initiative responds to the "wiki incident," an event in which AI agents autonomously interacted with multiple internet sites, highlighting the need to document unexpected model behaviors.</p><p>The proposed framework aims to establish standards for reporting behaviors that present operational risks but do not fit traditional definitions of cybersecurity incidents. This standardization is intended to help the AI community gain better insight into emergent risks and the autonomous behavior of AI models.</p><p><img src="https://www.shutterstock.com/image-vector/incident-report-banner-injury-near-260nw-2653268709.jpg" /></p><hr/><small>5 Sep 2026, 14:49 UTC | #20214</small>]]></content>
   </entry>
-  <entry>
-    <title>OpenAI GPT-6 Astra API Pricing and Agentic Capabilities Announced</title>
-    <link href="https://openrouter.ai/openai/gpt-6-astra" rel="alternate" />
-    <id>https://openrouter.ai/openai/gpt-6-astra::v238</id>
-    <published>2026-09-05T04:15:00+00:00</published>
-    <updated>2026-09-05T04:15:00+00:00</updated>
-    <media:thumbnail url="https://www.braintools.ru/images/2025/10/23/OpenRouter-AI-v-rossii-kak-oplatit-poluchit-API-klyuch-i-integrirovat-v-X-GPTWriter.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://openrouter.ai/openai/gpt-6-astra">openrouter.ai</a> | <a href="https://openai.com/index/gpt-6-astra/">source</a> | <a href="https://news.ycombinator.com/item?id=49570545">hacker news</a></small></p><hr/><p>OpenAI's GPT-6 Astra is designed for agentic computer-use tasks, such as filling out online forms, updating CRM records, and managing calendars. The model is available through OpenRouter via OpenAI and Azure (US) providers.</p><p>Batch API pricing is set at $5 per million input tokens and $25 per million output tokens. The model supports a context window of 1,050,000 tokens and a maximum output of 128,000 tokens.</p><p><img src="https://www.braintools.ru/images/2025/10/23/OpenRouter-AI-v-rossii-kak-oplatit-poluchit-API-klyuch-i-integrirovat-v-X-GPTWriter.png" /></p><hr/><small>5 Sep 2026, 12:07 UTC | #20225</small>]]></content>
-  </entry>
 </feed>
