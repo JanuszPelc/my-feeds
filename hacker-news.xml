@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T15:15:00+00:00</updated>
+  <updated>2026-09-10T15:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Windows 11 Notepad Menu Bar Exhibits Several UX Regressions</title>
+    <link href="https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/" rel="alternate" />
+    <id>https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/::v238</id>
+    <published>2026-09-10T15:48:00+00:00</published>
+    <updated>2026-09-10T15:48:00+00:00</updated>
+    <media:thumbnail url="https://blog.yuo.be/_astro/notepad-access-keys.bDxMvt02_Zk5pQf.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/">blog.yuo.be</a> | <a href="https://lobste.rs/s/ol8vsp/terrible_menu_bar_windows_11_notepad">discussion</a></small></p><hr/><p>The modern WinUI 3-based menu bar in Windows 11 Notepad exhibits several usability regressions compared to the legacy Win32 version. Reported issues include the inability to use click-and-drag gestures to activate menu items, broken keyboard navigation using arrow keys, and the failure of the F10 shortcut to focus the menu bar.</p><p>These problems are attributed to the underlying WinUI 3 MenuBar component rather than Notepad itself. Similar bugs regarding menu activation gestures have been documented in Microsoft's issue trackers for several years, with some users characterizing the missing functionality as a regression from previous Windows versions.</p><p><img src="https://blog.yuo.be/_astro/notepad-access-keys.bDxMvt02_Zk5pQf.webp" /></p><hr/><small>10 Sep 2026, 19:03 UTC | #20746</small>]]></content>
+  </entry>
   <entry>
     <title>Fragmented Authentication Flows and Phishing Vulnerability</title>
     <link href="https://maurycyz.com/misc/domains/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T15:18:00+00:00</updated>
+  <updated>2026-09-10T15:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Rockstar Games Faces Employment Tribunal Over Alleged Union-Busting</title>
+    <link href="https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins" rel="alternate" />
+    <id>https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins::v238</id>
+    <published>2026-09-10T15:19:00+00:00</published>
+    <updated>2026-09-10T15:19:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt128d5abde48a23a4/6aa2b6d77bae1a3a1e44c5ef/Rockstar_Rally.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins">gamedeveloper.com</a> | <a href="https://iwgb.org.uk/en/post/final-hearing-rockstar-iwgb/">source</a></small></p><hr/><p>Former Rockstar Games employees have begun an employment tribunal in Glasgow to challenge their dismissal in November 2025. The Independent Workers' Union of Great Britain (IWGB) alleges 34 workers were targeted for union activity, while Rockstar Games contends the employees were fired for breaching confidentiality agreements via Discord.</p><p>The legal proceedings are expected to run until mid-October 2026. Seeking reinstatement or compensation, the workers aim to establish that their dismissals were unlawful. The outcome is expected to set a significant precedent for labor organizing rights within the video game industry.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt128d5abde48a23a4/6aa2b6d77bae1a3a1e44c5ef/Rockstar_Rally.png?width=720&quality=80&disable=upscale" /></p><hr/><small>10 Sep 2026, 19:00 UTC | #20717</small>]]></content>
+  </entry>
   <entry>
     <title>Ant International, Visa and Mastercard Partner on AI Agent Payment Standards</title>
     <link href="https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html" rel="alternate" />
