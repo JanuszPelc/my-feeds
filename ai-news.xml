@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-10T06:15:00+00:00</updated>
+  <updated>2026-09-10T13:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Users Report OpenAI Re-Enabling Model Training Opt-Out Settings</title>
+    <link href="https://news.ycombinator.com/item?id=49643556" rel="alternate" />
+    <id>https://news.ycombinator.com/item?id=49643556::v238</id>
+    <published>2026-09-10T13:40:00+00:00</published>
+    <updated>2026-09-10T13:40:00+00:00</updated>
+    <media:thumbnail url="https://blog.pcloud.com/wp-content/uploads/2026/01/2026-Ai-Opt-Out-2-983x1024.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49643556">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49643556">hacker news</a></small></p><hr/><p>Users report that OpenAI has been re-enabling the "allow training" setting for ChatGPT despite previous opt-outs. Some claims suggest that settings revert following software updates or the acceptance of new terms of service, potentially allowing private conversations to be used for model training without explicit, recurring consent.</p><p>The discussion addresses the difficulty of auditing data usage and whether current opt-out mechanisms function as permanent restrictions or temporary pauses. Participants also raised concerns that technical glitches or system updates might serve as a mechanism to override user privacy preferences.</p><p><img src="https://blog.pcloud.com/wp-content/uploads/2026/01/2026-Ai-Opt-Out-2-983x1024.png" /></p><hr/><small>10 Sep 2026, 16:13 UTC | #20730</small>]]></content>
+  </entry>
+  <entry>
+    <title>Andreas Thom Alleges OpenAI's Astra Model Used Private Research for Mathematical Breakthroughs</title>
+    <link href="https://twitter.com/ValerioCapraro/status/2097791836269977996" rel="alternate" />
+    <id>https://twitter.com/ValerioCapraro/status/2097791836269977996::v238</id>
+    <published>2026-09-10T11:58:00+00:00</published>
+    <updated>2026-09-10T11:58:00+00:00</updated>
+    <media:thumbnail url="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/02/931/523/sam-altman-openai.jpg?ve=1&amp;tl=1" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://twitter.com/ValerioCapraro/status/2097791836269977996">twitter.com</a> | <a href="https://news.ycombinator.com/item?id=49638353">hacker news</a></small></p><hr/><p>OpenAI's Astra model is accused of being trained on private conversations involving mathematicians Andreas Thom and Gábor Kun. The discussions reportedly focused on Gromov's soficity conjecture, one of the mathematical problems the Astra model recently claimed to have solved.</p><p>The allegation suggests that AI models may be absorbing unpublished human research and presenting it as autonomous machine discovery. This incident is part of a growing number of disputes regarding the transparency and provenance of data used to train AI for mathematical research.</p><p><img src="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/02/931/523/sam-altman-openai.jpg?ve=1&tl=1" /></p><hr/><small>10 Sep 2026, 16:08 UTC | #20731</small>]]></content>
+  </entry>
   <entry>
     <title>New AI Classifier Distinguishes Human and Robot Code Comments</title>
     <link href="https://entropicthoughts.com/better-ai-comment-classifier" rel="alternate" />
