@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-10T02:04:00+00:00</updated>
+  <updated>2026-09-10T10:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Bevy Community Faces Internal Tension Over New AI Usage Policy</title>
+    <link href="https://blog.fallible.net/it-breaks-a-village/" rel="alternate" />
+    <id>https://blog.fallible.net/it-breaks-a-village/::v238</id>
+    <published>2026-09-10T10:39:00+00:00</published>
+    <updated>2026-09-10T10:39:00+00:00</updated>
+    <media:thumbnail url="https://briansunter.com/og/projects/bevy-agent-b7da1377.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.fallible.net/it-breaks-a-village/">blog.fallible.net</a> | <a href="https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday">discussion</a></small></p><hr/><p>Recent changes to the Bevy game engine's AI usage policy have triggered social and cultural fragmentation within its community. While the engine has achieved significant technical milestones, the shift toward a more permissive LLM policy has resulted in a loss of trust in governance and a perceived influx of low-effort, AI-generated content in community sharing channels.</p><p>Tension has escalated between LLM enthusiasts and contributors who prioritize human-driven creative labor, leading to the emergence of "AI-sober" alternative spaces. The author argues that disruptive behavior and the inability to moderate "dunking" have caused a "ratchet effect," where the exodus of original community members leaves behind a space dominated by increasingly caustic norms.</p><p><img src="https://briansunter.com/og/projects/bevy-agent-b7da1377.png" /></p><hr/><small>10 Sep 2026, 14:10 UTC | #20705</small>]]></content>
+  </entry>
   <entry>
     <title>Relativity Park Simulator Scales Speed of Light to Walking Pace</title>
     <link href="https://rivendell.dmitrybrant.com/relativity/" rel="alternate" />

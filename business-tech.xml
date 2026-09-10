@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T08:04:00+00:00</updated>
+  <updated>2026-09-10T08:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Analysis of AI-Driven Economic Growth Projections</title>
+    <link href="https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit" rel="alternate" />
+    <id>https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit::v238</id>
+    <published>2026-09-10T08:08:00+00:00</published>
+    <updated>2026-09-10T08:08:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!MD1v!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89a3a570-e9d3-483e-923b-35c8a0f33ec5_2000x1120.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit">aleximas.substack.com</a></small></p><hr/><p>This article examines predictions from AI industry leaders, such as Anthropic’s Dario Amodei and Leopold Aschenbrenner, who suggest that artificial intelligence could trigger double-digit or even triple-digit annual GDP growth. While mathematical models like the Solow model demonstrate that such explosive growth is theoretically possible through full automation and accelerated R&amp;D, the authors argue these scenarios depend on highly unlikely real-world conditions.</p><p>The authors argue that economic frictions, including the speed of automation and the necessity for continuous investment, make an immediate transition to high growth rates unlikely. They suggest that a more realistic baseline for the next 10 to 15 years is 4-5% annual growth, noting that the true impact of AI on GDP may face significant "long and variable lags."</p><p><img src="https://substackcdn.com/image/fetch/$s_!MD1v!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89a3a570-e9d3-483e-923b-35c8a0f33ec5_2000x1120.png" /></p><hr/><small>10 Sep 2026, 14:04 UTC | #20674</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon's Zoox Employs Lifestyle Marketing to Compete with Waymo in San Francisco</title>
     <link href="https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html?unlocked_article_code=1._1A.UmXG.fSHCvuBodiUj&amp;smid=url-share" rel="alternate" />
