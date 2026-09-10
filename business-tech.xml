@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T22:26:00+00:00</updated>
+  <updated>2026-09-09T22:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI Researcher Andrew Tulloch Leaving Meta</title>
+    <link href="https://www.semafor.com/article/09/09/2026/ai-researcher-andrew-tulloch-is-leaving-meta" rel="alternate" />
+    <id>https://www.semafor.com/article/09/09/2026/ai-researcher-andrew-tulloch-is-leaving-meta::v238</id>
+    <published>2026-09-09T22:32:00+00:00</published>
+    <updated>2026-09-09T22:32:00+00:00</updated>
+    <media:thumbnail url="https://americanbazaaronline.com/wp-content/uploads/2025/10/Andrew-Tulloch.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.semafor.com/article/09/09/2026/ai-researcher-andrew-tulloch-is-leaving-meta">semafor.com</a></small></p><hr/><p>Andrew Tulloch is exiting Meta following the launch of the company's Muse AI assistant and its new family of open-source models. Previously at Thinking Machine Labs, Tulloch worked in Meta's TBD lab, contributing to the company's long-term AI strategy.</p><p>Recognized as one of the industry's highest-compensated employees, Tulloch reportedly delayed his departure until the successful release of the Muse suite. His next professional destination remains unconfirmed.</p><p><img src="https://americanbazaaronline.com/wp-content/uploads/2025/10/Andrew-Tulloch.png" /></p><hr/><small>10 Sep 2026, 04:55 UTC | #20639</small>]]></content>
+  </entry>
   <entry>
     <title>Paul Christiano Joins OpenAI Foundation Board</title>
     <link href="https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/" rel="alternate" />
