@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-09T19:08:00+00:00</updated>
+  <updated>2026-09-09T20:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Soundcraft Signature Plus 22 Mixer Review</title>
+    <link href="https://musictech.com/reviews/studio-recording-gear/soundcraft-signature-plus-22-review/" rel="alternate" />
+    <id>https://musictech.com/reviews/studio-recording-gear/soundcraft-signature-plus-22-review/::v238</id>
+    <published>2026-09-09T20:04:00+00:00</published>
+    <updated>2026-09-09T20:04:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Soundcraft-Signature-Plus-22-hero-credit-press@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/reviews/studio-recording-gear/soundcraft-signature-plus-22-review/">musictech.com</a> | <a href="https://www.soundcraft.com/en/products/signature-plus-22">source</a></small></p><hr/><p>The Soundcraft Signature Plus 22 is an analogue mixing console featuring 22 inputs, including 14 mono channels with Ghost mic preamps and three stereo inputs. The unit includes a 4x4 USB-C 192 kHz interface for playback and features Lexicon-powered effects alongside one-knob compression on mono channels.</p><p>The mixer provides sweepable mid-range EQ, a dedicated "Listen" mix for engineer monitoring, and a "Mix &gt; Aux" rotary function for auxiliary routing. It is intended for use in small to medium venues, by mobile sound engineers, and for performing artists seeking an intuitive analogue workflow with high-visibility LED metering.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Soundcraft-Signature-Plus-22-hero-credit-press@2000x1500.jpg" /></p><hr/><small>10 Sep 2026, 01:16 UTC | #20631</small>]]></content>
+  </entry>
   <entry>
     <title>Witch Pig Releases Geminate Free Doubler Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/09/09/witch-pig-geminate/" rel="alternate" />

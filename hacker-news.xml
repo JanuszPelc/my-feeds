@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T19:25:00+00:00</updated>
+  <updated>2026-09-09T19:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Unveils Apple Watch Series 12 and Ultra 4</title>
+    <link href="https://9to5mac.com/2026/09/09/apple-watch-series-12-and-ultra-4-unveiled-with-upgraded-health-tracking-system/" rel="alternate" />
+    <id>https://9to5mac.com/2026/09/09/apple-watch-series-12-and-ultra-4-unveiled-with-upgraded-health-tracking-system/::v238</id>
+    <published>2026-09-09T19:29:00+00:00</published>
+    <updated>2026-09-09T19:29:00+00:00</updated>
+    <media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.37.43.jpg?quality=82&amp;strip=all&amp;w=1600" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5mac.com/2026/09/09/apple-watch-series-12-and-ultra-4-unveiled-with-upgraded-health-tracking-system/">9to5mac.com</a> | <a href="https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/">source</a> | <a href="https://news.ycombinator.com/item?id=49630566">hacker news</a></small></p><hr/><p>The Series 12 and Ultra 4 feature an upgraded health sensing system driven by the new S11 chip. This hardware provides heart rate measurements every five seconds and heart rate variability (HRV) tracking every five minutes.</p><p>New capabilities include "Audio Intelligence" for sound recognition and a "live rewind" transcription tool, alongside a "Readiness" metric based on activity and sleep data. The Series 12 starts at $399 and the Ultra 4 at $799, with both models launching on September 18.</p><p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.37.43.jpg?quality=82&strip=all&w=1600" /></p><hr/><small>10 Sep 2026, 01:12 UTC | #20615</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Unveils iPhone 18 Pro with A20 Pro Chip and Variable Aperture Camera</title>
     <link href="https://www.engadget.com/2253951/apples-iphone-18-pro-has-an-a20-pro-chip-and-smaller-dynamic-island/" rel="alternate" />
@@ -1002,41 +1011,5 @@
     <updated>2026-09-05T04:13:00+00:00</updated>
     <media:thumbnail url="https://lemire.me/blog/wp-content/uploads/2026/08/json-v1-v2.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-5x-slower/">lemire.me</a> | <a href="https://lobste.rs/s/67ygvv/new_go_json_api_twice_as_fast_1_5x_slower">discussion</a> | <a href="https://news.ycombinator.com/item?id=49492591">hacker news</a></small></p><hr/><p>Go 1.27's encoding/json/v2 package demonstrates significant performance improvements for general-purpose JSON processing when compared to the legacy encoding/json implementation. Benchmarks show the new API can achieve unmarshalling speeds up to 2.3x faster and marshalling speeds up to 3x faster when working with any types.</p><p>Performance gains vary based on data structure and type enforcement. While the new API is markedly faster for untyped data, testing on typed structs indicates that marshalling with encoding/json/v2 can be approximately 1.5x slower than the legacy implementation.</p><p><img src="https://lemire.me/blog/wp-content/uploads/2026/08/json-v1-v2.png" /></p><hr/><small>5 Sep 2026, 11:41 UTC | #20223</small>]]></content>
-  </entry>
-  <entry>
-    <title>Shitter Instance Status Directory</title>
-    <link href="https://codeberg.org/mv12star/shitter/wiki/Instances" rel="alternate" />
-    <id>https://codeberg.org/mv12star/shitter/wiki/Instances::v238</id>
-    <published>2026-09-05T01:07:00+00:00</published>
-    <updated>2026-09-05T01:07:00+00:00</updated>
-    <media:thumbnail url="https://forum-uploads.privacyguidesusercontent.com/original/2X/8/82284abf71e22d37a0b6cafa7c912701889b0ff7.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://codeberg.org/mv12star/shitter/wiki/Instances">codeberg.org</a> | <a href="https://news.ycombinator.com/item?id=49571634">hacker news</a></small></p><hr/><p>Shitter instances, a fork of the Nitter Twitter front-end, are categorized by their operational status: working, rate-limited, or defunct. The list includes various web mirrors and Tor-accessible onion services used to browse Twitter content.</p><p>The wiki provides documentation for self-hosting, including methods for obtaining session tokens and navigating DMCA takedowns. Advanced configuration repositories are also available to optimize the performance of public instances.</p><p><img src="https://forum-uploads.privacyguidesusercontent.com/original/2X/8/82284abf71e22d37a0b6cafa7c912701889b0ff7.png" /></p><hr/><small>5 Sep 2026, 11:26 UTC | #20222</small>]]></content>
-  </entry>
-  <entry>
-    <title>KDE Plasma Needs Help Triaging Plasmashell Bug Reports</title>
-    <link href="https://pointieststick.com/2026/09/03/bug-triaging-help-needed/" rel="alternate" />
-    <id>https://pointieststick.com/2026/09/03/bug-triaging-help-needed/::v238</id>
-    <published>2026-09-05T01:05:00+00:00</published>
-    <updated>2026-09-05T01:05:00+00:00</updated>
-    <media:thumbnail url="https://pointieststick.com/wp-content/uploads/2026/09/image.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://pointieststick.com/2026/09/03/bug-triaging-help-needed/">pointieststick.com</a> | <a href="https://lobste.rs/s/sunmyh/bug_triaging_help_needed">discussion</a></small></p><hr/><p>Approximately 160 unconfirmed bug reports for the plasmashell component of the KDE Plasma desktop environment require triage. Many of these reports are difficult to reproduce, requiring specialized hardware, uncommon software configurations, specific VPN setups, or niche domain knowledge.</p><p>Volunteers can assist by identifying patterns in intermittent issues, verifying bugs that require specific hardware, or determining if issues originate in upstream components like Qt, PipeWire, or the Linux kernel. Testing is encouraged using the latest Plasma releases on "vanilla" distributions like Arch Linux or Fedora KDE to ensure accuracy.</p><p><img src="https://pointieststick.com/wp-content/uploads/2026/09/image.png" /></p><hr/><small>5 Sep 2026, 10:19 UTC | #20217</small>]]></content>
-  </entry>
-  <entry>
-    <title>Intel Previews Future Intel Architecture Documentation Format</title>
-    <link href="https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html" rel="alternate" />
-    <id>https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html::v238</id>
-    <published>2026-09-05T01:03:00+00:00</published>
-    <updated>2026-09-05T01:03:00+00:00</updated>
-    <media:thumbnail url="https://cdn.t21.pe/wp-content/uploads/2026/01/intel1.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://intel.github.io/SDM/announcement/2026/08/20/announce-preview.html">intel.github.io</a> | <a href="https://lobste.rs/s/cywxla/preview_future_intel_architecture">discussion</a> | <a href="https://news.ycombinator.com/item?id=49471695">hacker news</a></small></p><hr/><p>Intel has unveiled a preview of its future documentation and presentation method for the Intel® Architecture. The proposed approach incorporates a web-based interface for improved searchability and a new specification language designed to facilitate testing to ensure higher precision and accuracy.</p><p>The current Software Developer’s Manual (SDM) remains the official, authoritative specification. This initial release is incomplete, omitting instructions for features such as APX, SGX, and virtualization. Intel is soliciting feedback via surveys and GitHub to inform future updates, which are expected to expand coverage to include memory paging, exception handling, and other system-level features.</p><p><img src="https://cdn.t21.pe/wp-content/uploads/2026/01/intel1.webp" /></p><hr/><small>5 Sep 2026, 09:59 UTC | #20216</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Patches Chrome Zero-Day Vulnerability Exploited in the Wild</title>
-    <link href="https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/" rel="alternate" />
-    <id>https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/::v238</id>
-    <published>2026-09-05T01:01:00+00:00</published>
-    <updated>2026-09-05T01:01:00+00:00</updated>
-    <media:thumbnail url="https://api.hoploninfosec.com/api/uploads/chrome-v8-security-alert-20260904154655.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/">bleepingcomputer.com</a> | <a href="https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01882797386.html">source</a></small></p><hr/><p>Google has released security updates for the Chrome browser to fix an actively exploited high-severity zero-day vulnerability in its V8 JavaScript and WebAssembly engine. The flaw, identified as CVE-2026-85046, is a type confusion vulnerability that could allow an attacker to achieve remote code execution via a specially crafted HTML page containing malicious JavaScript.</p><p>In addition to the zero-day, the update addresses 11 other high-severity vulnerabilities involving memory corruption and race conditions in components such as WebGL, DevTools, and the network stack. While Chrome users are advised to update immediately, users of other Chromium-based browsers like Microsoft Edge, Brave, and Opera may experience a delay of several days before equivalent security patches are released by their respective vendors.</p><p><img src="https://api.hoploninfosec.com/api/uploads/chrome-v8-security-alert-20260904154655.webp" /></p><hr/><small>5 Sep 2026, 08:13 UTC | #20202</small>]]></content>
   </entry>
 </feed>
