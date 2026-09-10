@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T14:11:00+00:00</updated>
+  <updated>2026-09-10T15:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Ant International, Visa and Mastercard Partner on AI Agent Payment Standards</title>
+    <link href="https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html::v238</id>
+    <published>2026-09-10T15:18:00+00:00</published>
+    <updated>2026-09-10T15:18:00+00:00</updated>
+    <media:thumbnail url="https://datanimbus.com/wp-content/uploads/2025/09/unnamed-7-1024x459.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html">cnbc.com</a> | <a href="https://www.prnewswire.com/apac/news-releases/ant-international-mastercard-and-visa-initiate-collaboration-on-know-your-agent-interoperability-to-scale-agentic-commerce-302874102.html">source</a></small></p><hr/><p>Ant International, Visa, and Mastercard are developing a "Know Your Agent" (KYA) interoperability framework to standardize payments made via AI agents. The collaboration focuses on creating common protocols to identify, verify, and monitor agents, ensuring they can be trusted by merchants and payment processors as they perform automated transactions.</p><p>This initiative addresses the projected growth of agentic commerce, which McKinsey estimates could account for up to $5 trillion in global consumer spending by 2030. By fostering interoperability, the companies aim to allow AI agents to operate across diverse ecosystems—including digital wallets and credit card networks—without requiring redundant registration for every individual payment platform.</p><p><img src="https://datanimbus.com/wp-content/uploads/2025/09/unnamed-7-1024x459.png" /></p><hr/><small>10 Sep 2026, 18:48 UTC | #20701</small>]]></content>
+  </entry>
   <entry>
     <title>Senate Subcommittee Probes OpenAI's Handling of Hugging Face Breach</title>
     <link href="https://www.axios.com/" rel="alternate" />
