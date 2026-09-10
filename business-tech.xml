@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T15:53:00+00:00</updated>
+  <updated>2026-09-10T15:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI Agents Drive Surge in Public Service Requests</title>
+    <link href="https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/::v238</id>
+    <published>2026-09-10T15:54:00+00:00</published>
+    <updated>2026-09-10T15:54:00+00:00</updated>
+    <media:thumbnail url="https://media.geeksforgeeks.org/wp-content/uploads/20240517143834/Multiagent-system-Architecture-(1).webp" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/">techcrunch.com</a> | <a href="https://arxiv.org/abs/2608.16603">source</a> | <a href="https://news.ycombinator.com/item?id=49422227">hacker news</a></small></p><hr/><p>AI tools are causing a significant surge in applications and complaints to public services globally. Research into a phenomenon called "agentic flooding" has documented increased filing volumes with the UK housing ombudsman, the US Consumer Financial Protection Bureau, and various judicial and parliamentary petition systems.</p><p>Much of this growth is driven by legitimate users leveraging AI to navigate complex administrative requirements rather than purely adversarial spam. This trend offers a potential opportunity to restructure public services to better accommodate an era of automated interaction.</p><p><img src="https://media.geeksforgeeks.org/wp-content/uploads/20240517143834/Multiagent-system-Architecture-(1).webp" /></p><hr/><small>10 Sep 2026, 20:00 UTC | #20725</small>]]></content>
+  </entry>
   <entry>
     <title>Lawsuit Alleges Sony PlayStation Store Misleads Users About Digital Game Ownership</title>
     <link href="https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit" rel="alternate" />
