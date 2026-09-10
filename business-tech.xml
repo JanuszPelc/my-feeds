@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T06:16:00+00:00</updated>
+  <updated>2026-09-10T06:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amazon Appoints Cybersecurity Expert Kevin Mandia to Board</title>
+    <link href="https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html::v238</id>
+    <published>2026-09-10T06:17:00+00:00</published>
+    <updated>2026-09-10T06:17:00+00:00</updated>
+    <media:thumbnail url="https://uktechnews.co.uk/wp-content/uploads/2026/01/Derek-Whigham_Acumen-e1769527888954-1024x941.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html">cnbc.com</a> | <a href="https://www.aboutamazon.com/news/company-news/kevin-mandia-amazon-board-of-directors">source</a></small></p><hr/><p>Amazon has appointed cybersecurity expert Kevin Mandia to its board of directors. Mandia, the founder and former CEO of Mandiant, currently leads the AI-focused security startup Armadin and serves as a general partner at venture capital firm Ballistic Ventures.</p><p>The appointment follows increased industry concern regarding cybersecurity threats stemming from autonomous AI agents. Mandia's compensation package includes approximately 4,086 shares of common stock, valued at roughly $1 million based on recent market prices.</p><p><img src="https://uktechnews.co.uk/wp-content/uploads/2026/01/Derek-Whigham_Acumen-e1769527888954-1024x941.jpeg" /></p><hr/><small>10 Sep 2026, 10:57 UTC | #20662</small>]]></content>
+  </entry>
   <entry>
     <title>New Mexico Accuses Meta of Data Protection Failures in Cambridge Analytica Trial</title>
     <link href="https://apnews.com/article/facebook-meta-new-mexico-privacy-lawsuit-fe250dc752777abd4f95f49111a2008a" rel="alternate" />
