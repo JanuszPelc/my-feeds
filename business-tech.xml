@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T22:34:00+00:00</updated>
+  <updated>2026-09-10T00:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Consensys to Split into MetaMask and a New Institutional Infrastructure Company</title>
+    <link href="https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022" rel="alternate" />
+    <id>https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022::v238</id>
+    <published>2026-09-10T00:02:00+00:00</published>
+    <updated>2026-09-10T00:02:00+00:00</updated>
+    <media:thumbnail url="https://coingape.com/wp-content/uploads/2025/08/Joseph-Lubins-MetaMask-Unveils.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022">theblock.co</a> | <a href="https://consensys.io/blog/consensys-software-inc-to-become-two-independent-companies-metamask-the-consumer-platform-and-consensys-the-protocols-and-institutional-infrastructure-company">source</a></small></p><hr/><p>Consensys Software Inc. is splitting into two independent companies. The existing entity will rebrand as MetaMask, with Joe Lubin serving as chairman and CEO to focus on consumer-facing self-custodial finance. The protocols group and institutional blockchain infrastructure business, including the Linea blockchain, will move into a newly formed company.</p><p>The strategic restructuring separates the consumer wallet business from enterprise-oriented protocols and infrastructure. The move aims to provide the specific privacy, resilience, and scale required by large financial marketplaces to coordinate blockchain interoperability.</p><p><img src="https://coingape.com/wp-content/uploads/2025/08/Joseph-Lubins-MetaMask-Unveils.webp" /></p><hr/><small>10 Sep 2026, 05:53 UTC | #20645</small>]]></content>
+  </entry>
   <entry>
     <title>Automattic CEO Matt Mullenweg Put on Leave of Absence</title>
     <link href="https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/" rel="alternate" />
