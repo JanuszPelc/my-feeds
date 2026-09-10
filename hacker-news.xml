@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T06:13:00+00:00</updated>
+  <updated>2026-09-10T06:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Automating Web Hosting from a Volatile IP via a Reverse Proxy</title>
+    <link href="https://blog.mro.name/2026/09/web-from-dial-up/" rel="alternate" />
+    <id>https://blog.mro.name/2026/09/web-from-dial-up/::v238</id>
+    <published>2026-09-10T06:20:00+00:00</published>
+    <updated>2026-09-10T06:20:00+00:00</updated>
+    <media:thumbnail url="https://shopmaychu.vn/wp-content/uploads/2022/11/dynamic-dns-la-gi-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.mro.name/2026/09/web-from-dial-up/">blog.mro.name</a> | <a href="https://lobste.rs/s/uhzuen/serving_web_from_volatile_dial_up_ip">discussion</a></small></p><hr/><p>A method for hosting web services on a server with a volatile IP address, such as a residential DSL connection, involves using a remote VPS as a reverse proxy. A local cron job monitors connectivity and, upon detecting an IP change, uses SSH and envsubst to update the proxy's configuration on the remote server and reload the service.</p><p>This approach bypasses the need for third-party Dynamic DNS (DDNS) services by allowing the host to proactively notify the remote proxy of network changes. The implementation relies on standard shell utilities and SSH to maintain persistent access to the local server.</p><p><img src="https://shopmaychu.vn/wp-content/uploads/2022/11/dynamic-dns-la-gi-1.png" /></p><hr/><small>10 Sep 2026, 11:19 UTC | #20697</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Releases AI-Powered Dynamics 365 Migration Tool</title>
     <link href="https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428" rel="alternate" />
@@ -1065,14 +1074,5 @@
     <updated>2026-09-05T13:05:00+00:00</updated>
     <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Fairphone-6-8.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/">arstechnica.com</a> | <a href="https://us.fairphone.com/the-fairphone-gen-6-plus">source</a> | <a href="https://news.ycombinator.com/item?id=49563784">hacker news</a></small></p><hr/><p>The Fairphone Gen 6+ is a modular smartphone designed to prioritize longevity and user repairability. Priced at $650, the device allows for the replacement of 12 different components, such as the screen and battery, using a single T5 Torx screwdriver. Fairphone aims for a five-year usage cycle, providing software updates and replacement parts through 2033.</p><p>To facilitate easy disassembly, the device is slightly thicker than conventional smartphones and features an IP55 water resistance rating. The hardware includes a 6.31-inch OLED display, 12GB of RAM, a Snapdragon 7s Gen 4 chipset, and a microSD slot for expandable storage.</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/09/Fairphone-6-8.jpg" /></p><hr/><small>5 Sep 2026, 16:28 UTC | #20239</small>]]></content>
-  </entry>
-  <entry>
-    <title>Spotify's Shunt Plugin Reduces Claude Code Token Usage by 90%</title>
-    <link href="https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90" rel="alternate" />
-    <id>https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90::v238</id>
-    <published>2026-09-05T11:12:00+00:00</published>
-    <updated>2026-09-05T11:12:00+00:00</updated>
-    <media:thumbnail url="https://prompt-caching.ai/assets/og.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90">engineering.atspotify.com</a> | <a href="https://news.ycombinator.com/item?id=49571465">hacker news</a></small></p><hr/><p>Spotify engineers developed the "shunt" plugin for Claude Code to reduce token consumption by routing low-reasoning tasks to cheaper models. Using Spotify's Portal and AiKA modes, the plugin intercepts I/O-heavy operations—such as reading multiple large files or generating boilerplate code—and delegates them to models like Gemini 2.5 Flash instead of expensive frontier models.</p><p>Benchmarking in a Java monorepo showed that delegating bulk-read operations resulted in approximately 90% fewer tokens consumed by the primary model. This strategy addresses the projected rise in AI coding costs, which are expected to exceed average developer salaries by 2028, by reserving complex reasoning and debugging for high-end models while using cheaper agents for predictable, pattern-based work.</p><p><img src="https://prompt-caching.ai/assets/og.png" /></p><hr/><small>5 Sep 2026, 16:05 UTC | #20236</small>]]></content>
   </entry>
 </feed>
