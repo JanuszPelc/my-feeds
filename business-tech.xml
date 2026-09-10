@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T08:08:00+00:00</updated>
+  <updated>2026-09-10T10:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nine Major Streaming Services See 61% Price Increase Since 2021</title>
+    <link href="https://honestlyranked.com/guides/streaming-price-increases/" rel="alternate" />
+    <id>https://honestlyranked.com/guides/streaming-price-increases/::v238</id>
+    <published>2026-09-10T10:42:00+00:00</published>
+    <updated>2026-09-10T10:42:00+00:00</updated>
+    <media:thumbnail url="https://variety.com/wp-content/uploads/2023/11/Streaming-Pricing-Chart.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://honestlyranked.com/guides/streaming-price-increases/">honestlyranked.com</a> | <a href="https://news.ycombinator.com/item?id=49641215">hacker news</a></small></p><hr/><p>Subscription costs for a basket of nine major streaming services have risen 61% since March 2021, moving from $95.91 to $154.41 per month. This increase adds $702 to the annual cost for users maintaining the same level of service.</p><p>Individual price hikes vary significantly, with Apple TV+ experiencing a 200% increase and Disney+ rising by 138% over the five-year period. The data indicates that subscription increases have become regular occurrences, with several providers raising rates multiple times within a single year.</p><p><img src="https://variety.com/wp-content/uploads/2023/11/Streaming-Pricing-Chart.png" /></p><hr/><small>10 Sep 2026, 15:01 UTC | #20724</small>]]></content>
+  </entry>
   <entry>
     <title>Analysis of AI-Driven Economic Growth Projections</title>
     <link href="https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit" rel="alternate" />

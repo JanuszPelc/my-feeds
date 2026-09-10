@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T08:07:00+00:00</updated>
+  <updated>2026-09-10T11:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Guix-Science Announces First Software Channel Release</title>
+    <link href="https://hpc.guix.info/blog/2026/09/guix-science-first-release/" rel="alternate" />
+    <id>https://hpc.guix.info/blog/2026/09/guix-science-first-release/::v238</id>
+    <published>2026-09-10T11:46:00+00:00</published>
+    <updated>2026-09-10T11:46:00+00:00</updated>
+    <media:thumbnail url="https://abit.ee/images/gnu-guix-150-package-manager-guix-system-linux-distribution-hurd-risc-v-gnome-46-kde-plasma-65-rootl-01.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hpc.guix.info/blog/2026/09/guix-science-first-release/">hpc.guix.info</a> | <a href="https://codeberg.org/guix-science/guix-science/releases/tag/v20260907">source</a> | <a href="https://lobste.rs/s/vkxhni/announcing_first_guix_science_release">discussion</a></small></p><hr/><p>The Guix-Science project has released its first software channel, version v20260907, providing a community-driven catalog for scientific and high-performance computing (HPC) software. The channel employs more permissive packaging and deprecation policies than the main GNU Guix repository, allowing for the inclusion of specialized research tools and pre-built components.</p><p>This release contains 2,354 packages, including migrated Guix-HPC software and new neuroimaging framework components. To ensure environment stability, the release provides a `channels.scm` file that pins specific compatible versions of both Guix-Science and the main Guix channel, enabling reproducible research via the `guix time-machine` command.</p><p><img src="https://abit.ee/images/gnu-guix-150-package-manager-guix-system-linux-distribution-hurd-risc-v-gnome-46-kde-plasma-65-rootl-01.webp" /></p><hr/><small>10 Sep 2026, 15:03 UTC | #20721</small>]]></content>
+  </entry>
   <entry>
     <title>ClickHouse Query Optimization for Sub-Second Latency</title>
     <link href="https://jordivillar.com/blog/every-millisecond-counts" rel="alternate" />
@@ -1047,14 +1056,5 @@
     <updated>2026-09-05T16:56:00+00:00</updated>
     <media:thumbnail url="https://devquasar.com/wp-content/uploads/2025/11/bc-250_case-1024x768.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/">devquasar.com</a> | <a href="https://news.ycombinator.com/item?id=49576386">hacker news</a></small></p><hr/><p>The AMD BC-250 is a crypto-mining board featuring repurposed PlayStation 5 APUs. These chips, which were binned or deemed defective for console use, provide six Zen 2 cores and 24 RDNA 2 compute units alongside 16 GB of GDDR6 unified memory. Available on the second-hand market for approximately $70 to $100, these boards were originally designed for ASRock's rack-mount mining servers.</p><p>Conversion into a functional gaming PC requires hardware and firmware modifications, including upgrading the cooling system and flashing a custom BIOS to reallocate memory for graphics. Users running Linux distributions have demonstrated the hardware's ability to play modern titles like Cyberpunk 2077 at playable framerates.</p><p><img src="https://devquasar.com/wp-content/uploads/2025/11/bc-250_case-1024x768.jpg" /></p><hr/><small>5 Sep 2026, 19:48 UTC | #20252</small>]]></content>
-  </entry>
-  <entry>
-    <title>Zopt Command Line Argument Parser for Zig</title>
-    <link href="https://codeberg.org/hgrsd/zopt" rel="alternate" />
-    <id>https://codeberg.org/hgrsd/zopt::v238</id>
-    <published>2026-09-05T14:49:00+00:00</published>
-    <updated>2026-09-05T14:49:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/yEOmDqSKiYs/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codeberg.org/hgrsd/zopt">codeberg.org</a> | <a href="https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing">discussion</a></small></p><hr/><p>Zopt is a command line argument parser for the Zig programming language that uses "schema on read" semantics. It functions as a lightweight wrapper around std.process.Args, scanning argv during queries rather than performing upfront parsing. The library is intended for small-scale command-line tools that prioritize a minimal, low-ceremony API over complex schema validation or automated help generation.</p><p>Developers are responsible for handling errors, default values, and help text within their application code. While the library supports flags, options, and repeatable arguments, the parsing of positional arguments is implemented as a "best effort" feature.</p><p><img src="https://i.ytimg.com/vi/yEOmDqSKiYs/maxresdefault.jpg" /></p><hr/><small>5 Sep 2026, 18:01 UTC | #20243</small>]]></content>
   </entry>
 </feed>
