@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T19:29:00+00:00</updated>
+  <updated>2026-09-09T20:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Unveils iPhone 18 Pro with Variable Aperture and A20 Pro Chip</title>
+    <link href="https://petapixel.com/2026/09/09/iphone-18-pro-has-apples-fastest-lens-yet-thanks-to-variable-aperture/" rel="alternate" />
+    <id>https://petapixel.com/2026/09/09/iphone-18-pro-has-apples-fastest-lens-yet-thanks-to-variable-aperture/::v238</id>
+    <published>2026-09-09T20:06:00+00:00</published>
+    <updated>2026-09-09T20:06:00+00:00</updated>
+    <media:thumbnail url="https://petapixel.com/assets/uploads/2026/09/Apple-iPhone-18-Pro-color-lineup-260909-800x420.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://petapixel.com/2026/09/09/iphone-18-pro-has-apples-fastest-lens-yet-thanks-to-variable-aperture/">petapixel.com</a> | <a href="https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/">source</a> | <a href="https://news.ycombinator.com/item?id=49630151">hacker news</a></small></p><hr/><p>The new iPhone 18 Pro and Pro Max models feature a 48-megapixel Fusion Main camera with a variable aperture ranging from f/1.48 to f/4. These flagships are powered by the 2-nanometer A20 Pro chip, which provides significant improvements to CPU performance and includes specialized Neural Engines for on-device AI.</p><p>The update introduces Apple Intelligence capabilities, such as a more integrated Siri AI and expanded photo editing tools like Generative Expand and Spatial Reframing. Additionally, the hardware includes a redesigned vapor chamber for improved thermals and 'Apple Reference Image,' a tool for verifying photo authenticity at the sensor level.</p><p><img src="https://petapixel.com/assets/uploads/2026/09/Apple-iPhone-18-Pro-color-lineup-260909-800x420.jpg" /></p><hr/><small>10 Sep 2026, 01:32 UTC | #20614</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Unveils Apple Watch Series 12 and Ultra 4</title>
     <link href="https://9to5mac.com/2026/09/09/apple-watch-series-12-and-ultra-4-unveiled-with-upgraded-health-tracking-system/" rel="alternate" />

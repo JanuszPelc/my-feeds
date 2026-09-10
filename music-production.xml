@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-09T20:04:00+00:00</updated>
+  <updated>2026-09-09T20:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Positive Grid Releases Spark PEDAL Amp Modeler and Multi-FX</title>
+    <link href="https://www.kvraudio.com/news/positive-grid-releases-spark-pedal---amp-modeler-multi-fx-and-audio-interface-68466?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68466" rel="alternate" />
+    <id>https://www.kvraudio.com/news/positive-grid-releases-spark-pedal---amp-modeler-multi-fx-and-audio-interface-68466?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68466::v238</id>
+    <published>2026-09-09T20:11:00+00:00</published>
+    <updated>2026-09-09T20:11:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/2_c0198608-1034-454e-b459-844291892c5f.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/positive-grid-releases-spark-pedal---amp-modeler-multi-fx-and-audio-interface-68466?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68466">kvraudio.com</a> | <a href="https://www.positivegrid.com/products/spark-pedal">source</a></small></p><hr/><p>Spark PEDAL is a floorboard amp modeler, multi-effects processor, and USB audio interface for electric, acoustic, and bass guitars. It features 33 amp models, 43 digital effects, and an integrated 60-second looper controlled by hardware footswitches.</p><p>Bluetooth 5.0 connectivity enables integration with the Spark mobile app for AI-driven tone generation and cloud preset access. Priced at $199, the unit functions as a class-compliant USB-C audio interface and includes a rechargeable 3000mAh battery providing up to seven hours of continuous use.</p><p><img src="https://static.kvraudio.com/i/b/2_c0198608-1034-454e-b459-844291892c5f.jpg" /></p><hr/><small>10 Sep 2026, 01:37 UTC | #20634</small>]]></content>
+  </entry>
   <entry>
     <title>Soundcraft Signature Plus 22 Mixer Review</title>
     <link href="https://musictech.com/reviews/studio-recording-gear/soundcraft-signature-plus-22-review/" rel="alternate" />
