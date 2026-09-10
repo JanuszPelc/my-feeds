@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T06:20:00+00:00</updated>
+  <updated>2026-09-10T06:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Clankerfree Indexes Software Projects Excluding Generative AI</title>
+    <link href="https://clankerfree.org" rel="alternate" />
+    <id>https://clankerfree.org::v238</id>
+    <published>2026-09-10T06:21:00+00:00</published>
+    <updated>2026-09-10T06:21:00+00:00</updated>
+    <media:thumbnail url="https://theaitrack.com/wp-content/uploads/2024/10/Crossroad-Open-Source-AI-vs-Closed-Source-AI-Image-generated-by-AI-for-The-AI-Track.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://clankerfree.org">clankerfree.org</a> | <a href="https://lobste.rs/s/8mgfan/software_for_humans">discussion</a></small></p><hr/><p>Clankerfree is an index of software projects and hosting platforms that self-certify as being created without the use of generative AI or large language models (LLMs). The resource aims to identify software authored solely by humans, specifically excluding tools implemented via AI.</p><p>The directory includes hosting providers Codeberg and SourceHut, alongside software projects such as Alacritty, GIMP, LibreOffice, NetBSD, and Zig. To be listed, projects must be open-source, have authors who explicitly disclaim AI involvement, and show no verifiable evidence of AI-generated content.</p><p><img src="https://theaitrack.com/wp-content/uploads/2024/10/Crossroad-Open-Source-AI-vs-Closed-Source-AI-Image-generated-by-AI-for-The-AI-Track.jpg" /></p><hr/><small>10 Sep 2026, 11:40 UTC | #20541</small>]]></content>
+  </entry>
   <entry>
     <title>Automating Web Hosting from a Volatile IP via a Reverse Proxy</title>
     <link href="https://blog.mro.name/2026/09/web-from-dial-up/" rel="alternate" />
