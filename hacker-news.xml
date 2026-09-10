@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-09T20:28:00+00:00</updated>
+  <updated>2026-09-09T20:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Increases Prices for Previous-Generation iPhone Models</title>
+    <link href="https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase" rel="alternate" />
+    <id>https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase::v238</id>
+    <published>2026-09-09T20:33:00+00:00</published>
+    <updated>2026-09-09T20:33:00+00:00</updated>
+    <media:thumbnail url="https://cdn.iphoneincanada.ca/wp-content/uploads/2017/12/apple_iphone_price_1_1513557410834.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase">theverge.com</a></small></p><hr/><p>Apple has raised the price of several older iPhone models by $100 following the announcement of the iPhone 18 Pro and iPhone Duo. The price increase affects the iPhone 16, iPhone 17E, iPhone 17, and the iPhone Air.</p><p>The iPhone 16 has increased from $699 to $799, while the iPhone 17 and iPhone Air models have also seen $100 hikes. These adjustments coincide with reports regarding the rising manufacturing costs of high-demand AI memory components.</p><p><img src="https://cdn.iphoneincanada.ca/wp-content/uploads/2017/12/apple_iphone_price_1_1513557410834.jpeg" /></p><hr/><small>10 Sep 2026, 02:45 UTC | #20618</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Sets September 14 Release for iOS 27 and Siri AI</title>
     <link href="https://www.engadget.com/2254005/ios-27-with-siri-ai-will-be-available-on-september-14/" rel="alternate" />
