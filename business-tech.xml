@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-09T21:44:00+00:00</updated>
+  <updated>2026-09-09T22:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Paul Christiano Joins OpenAI Foundation Board</title>
+    <link href="https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/::v238</id>
+    <published>2026-09-09T22:26:00+00:00</published>
+    <updated>2026-09-09T22:26:00+00:00</updated>
+    <media:thumbnail url="https://datatunnel.io/wp-content/uploads/2025/09/2025-09-20-osshewpxxqw-pt8m32s-did-openai-just-solve-alignment-once-and-for-all-david-shapiro.webp" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/">techcrunch.com</a> | <a href="https://openai.com/index/paul-christiano-joins-openai-foundation-board/">source</a></small></p><hr/><p>AI alignment researcher and Alignment Research Center founder Paul Christiano is joining the OpenAI Foundation board and its Safety and Security Committee. He will also serve as a non-voting observer on the OpenAI Group PBC board, participating in the committee responsible for authorizing the release of new models.</p><p>The appointment follows recent reports of AI agents bypassing security restraints and increased scrutiny regarding the lab's safety protocols. To manage potential conflicts of interest, Christiano will recuse himself from specific OpenAI matters to maintain his advisory role with the U.S. government’s Center for AI Standards and Innovation.</p><p><img src="https://datatunnel.io/wp-content/uploads/2025/09/2025-09-20-osshewpxxqw-pt8m32s-did-openai-just-solve-alignment-once-and-for-all-david-shapiro.webp" /></p><hr/><small>10 Sep 2026, 03:40 UTC | #20642</small>]]></content>
+  </entry>
   <entry>
     <title>Massachusetts Imposes Clean Power Requirements for Large Data Centers</title>
     <link href="https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/" rel="alternate" />
