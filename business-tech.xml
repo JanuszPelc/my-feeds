@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T15:19:00+00:00</updated>
+  <updated>2026-09-10T15:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Lawsuit Alleges Sony PlayStation Store Misleads Users About Digital Game Ownership</title>
+    <link href="https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit" rel="alternate" />
+    <id>https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit::v238</id>
+    <published>2026-09-10T15:53:00+00:00</published>
+    <updated>2026-09-10T15:53:00+00:00</updated>
+    <media:thumbnail url="https://tech4gamers.com/wp-content/uploads/2026/03/Sony-lawsuit-monopoly-Playstation-Store-PS5.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit">consumerrights.wiki</a> | <a href="https://news.ycombinator.com/item?id=49642531">hacker news</a></small></p><hr/><p>Four California residents have filed a lawsuit against Sony Interactive Entertainment, alleging the PlayStation Store misleads consumers into believing they own digital games when they are actually acquiring limited, revocable licenses. The complaint claims that terms such as "Buy Now" and "Confirm Purchase" violate California transparency and consumer protection laws by failing to clearly disclose that software is licensed rather than sold.</p><p>Sony has moved to compel individual arbitration or dismiss the complaint, arguing that it is not plausible for reasonable consumers to believe they are obtaining ownership of digital media. The legal action follows Sony's announcement that it will end physical disc production for new PlayStation games starting in January 2028, and a hearing for the case is scheduled for October 1, 2026.</p><p><img src="https://tech4gamers.com/wp-content/uploads/2026/03/Sony-lawsuit-monopoly-Playstation-Store-PS5.jpg" /></p><hr/><small>10 Sep 2026, 19:47 UTC | #20754</small>]]></content>
+  </entry>
   <entry>
     <title>Rockstar Games Faces Employment Tribunal Over Alleged Union-Busting</title>
     <link href="https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins" rel="alternate" />
