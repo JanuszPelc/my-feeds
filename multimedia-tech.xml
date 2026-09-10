@@ -87,13 +87,4 @@
     <media:thumbnail url="https://getplugins.io/wp-content/uploads/2026/04/DaVinci-Resolve-Studio-21.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.blackmagicdesign.com/media/release/20260908-03">blackmagicdesign.com</a> | <a href="https://news.ycombinator.com/item?id=49610181">hacker news</a></small></p><hr/><p>DaVinci Resolve 21.1 is available for free download from the Blackmagic Design website. The update features enhancements to the photo page, multicam editing, and the trim editor, in addition to new Fusion tools.</p><p>Blackmagic Design will demonstrate the software at the IBC 2026 exhibition on Stand 7.C49.</p><p><img src="https://getplugins.io/wp-content/uploads/2026/04/DaVinci-Resolve-Studio-21.png" /></p><hr/><small>8 Sep 2026, 17:49 UTC | #20483</small>]]></content>
   </entry>
-  <entry>
-    <title>Collider Experimental Minecraft Server Uses Parallelized Ticks</title>
-    <link href="https://github.com/Nozistance/collider" rel="alternate" />
-    <id>https://github.com/Nozistance/collider::v238</id>
-    <published>2026-09-05T06:38:00+00:00</published>
-    <updated>2026-09-05T06:38:00+00:00</updated>
-    <media:thumbnail url="https://diamondlobby.com/wp-content/uploads/2022/02/tickspeed.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/Nozistance/collider">github.com</a> | <a href="https://lobste.rs/s/fdbblk/collider_experimental_minecraft_server">discussion</a> | <a href="https://news.ycombinator.com/item?id=49562887">hacker news</a></small></p><hr/><p>Collider is an experimental Minecraft server written in Clojure that implements parallelized game ticks without using locks, regions, or thread ownership. Developed as a proof-of-concept to demonstrate performance scaling via a functional data model, the server can achieve up to 4.5 times the performance of vanilla 1.8.9 on six cores.</p><p>Unlike the regional partitioning approach used by projects like Folia, Collider's architecture does not require spatial independence between player locations. The implementation includes core mechanics such as block physics, entity AI, and light to prove the data model's ability to handle complex, interconnected game mechanics.</p><p><img src="https://diamondlobby.com/wp-content/uploads/2022/02/tickspeed.jpg" /></p><hr/><small>5 Sep 2026, 13:57 UTC | #20227</small>]]></content>
-  </entry>
 </feed>
