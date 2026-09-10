@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T06:17:00+00:00</updated>
+  <updated>2026-09-10T06:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Mistral AI Secures €3 Billion Funding as French State Ties Intensify</title>
+    <link href="https://www.politico.eu/article/mistral-ai-arthur-mensch-emmanuel-macron-gouvernement-france/" rel="alternate" />
+    <id>https://www.politico.eu/article/mistral-ai-arthur-mensch-emmanuel-macron-gouvernement-france/::v238</id>
+    <published>2026-09-10T06:25:00+00:00</published>
+    <updated>2026-09-10T06:25:00+00:00</updated>
+    <media:thumbnail url="https://www.politico.eu/wp-content/uploads/2026/09/09/GettyImages-2223626793-1-1024x683.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.eu/article/mistral-ai-arthur-mensch-emmanuel-macron-gouvernement-france/">politico.eu</a></small></p><hr/><p>Mistral AI has secured €3 billion in a Series D funding round, led by Samsung, valuing the startup at over €21 billion. The investment, which includes capital from the European Union, reinforces the company's position as a major European contender in the global generative AI race.</p><p>The company's rapid growth is closely tied to the support of French President Emmanuel Macron, whose administration has championed Mistral as a key asset for European technological sovereignty. This relationship has helped the startup secure strategic partnerships with companies like Nvidia and ASML, as well as contracts to integrate AI into French defense and civil service operations.</p><p><img src="https://www.politico.eu/wp-content/uploads/2026/09/09/GettyImages-2223626793-1-1024x683.jpg" /></p><hr/><small>10 Sep 2026, 12:17 UTC | #20667</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon Appoints Cybersecurity Expert Kevin Mandia to Board</title>
     <link href="https://www.cnbc.com/2026/09/09/amazon-adds-cybersecurity-vet-ex-google-exec-kevin-mandia-to-board.html" rel="alternate" />
