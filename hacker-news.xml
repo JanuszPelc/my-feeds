@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T00:49:00+00:00</updated>
+  <updated>2026-09-10T01:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Introduces AppleCare One Family Plan</title>
+    <link href="https://www.macrumors.com/2026/09/09/applecare-one-family-plan/" rel="alternate" />
+    <id>https://www.macrumors.com/2026/09/09/applecare-one-family-plan/::v238</id>
+    <published>2026-09-10T01:21:00+00:00</published>
+    <updated>2026-09-10T01:21:00+00:00</updated>
+    <media:thumbnail url="https://www.apple.com/newsroom/images/2025/07/apple-introduces-applecare-one-streamlining-coverage-into-a-single-plan/article/Apple-AppleCare-One-plans_inline.jpg.large.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.macrumors.com/2026/09/09/applecare-one-family-plan/">macrumors.com</a> | <a href="https://www.apple.com/applecare/">source</a></small></p><hr/><p>Apple has announced AppleCare One Family, a new U.S. subscription that extends coverage to all eligible devices within an Apple Family Sharing group of up to six people for $49.99 per month. The plan includes accidental damage protection, battery replacement, and priority support, as well as theft and loss protection for select iPhone, iPad, and Apple Watch models.</p><p>Subscribers can make up to six claims per year across the group and will have new eligible devices added to the plan automatically. This service builds on the existing AppleCare One subscription and is scheduled to launch in the United States on September 14.</p><p><img src="https://www.apple.com/newsroom/images/2025/07/apple-introduces-applecare-one-streamlining-coverage-into-a-single-plan/article/Apple-AppleCare-One-plans_inline.jpg.large.jpg" /></p><hr/><small>10 Sep 2026, 08:38 UTC | #20652</small>]]></content>
+  </entry>
   <entry>
     <title>ACPI SystemIO Conflicts Are Not Always Firmware Bugs</title>
     <link href="https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/" rel="alternate" />
