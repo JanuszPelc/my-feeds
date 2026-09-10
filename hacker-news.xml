@@ -1048,31 +1048,4 @@
     <media:thumbnail url="https://i.ytimg.com/vi/yEOmDqSKiYs/maxresdefault.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codeberg.org/hgrsd/zopt">codeberg.org</a> | <a href="https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing">discussion</a></small></p><hr/><p>Zopt is a command line argument parser for the Zig programming language that uses "schema on read" semantics. It functions as a lightweight wrapper around std.process.Args, scanning argv during queries rather than performing upfront parsing. The library is intended for small-scale command-line tools that prioritize a minimal, low-ceremony API over complex schema validation or automated help generation.</p><p>Developers are responsible for handling errors, default values, and help text within their application code. While the library supports flags, options, and repeatable arguments, the parsing of positional arguments is implemented as a "best effort" feature.</p><p><img src="https://i.ytimg.com/vi/yEOmDqSKiYs/maxresdefault.jpg" /></p><hr/><small>5 Sep 2026, 18:01 UTC | #20243</small>]]></content>
   </entry>
-  <entry>
-    <title>The Impact of Memory Caching on Software Performance</title>
-    <link href="https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/" rel="alternate" />
-    <id>https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/::v238</id>
-    <published>2026-09-05T13:12:00+00:00</published>
-    <updated>2026-09-05T13:12:00+00:00</updated>
-    <media:thumbnail url="https://malt.zendesk.com/attachments/token/smM67szNR2dAQEFQvYFTjXCMh/?name=image.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://randomascii.wordpress.com/2015/01/19/knowing-where-to-type-zero/">randomascii.wordpress.com</a> | <a href="https://lobste.rs/s/grm0m9/knowing_where_type_zero_2015">discussion</a></small></p><hr/><p>Minor code changes, such as modifying a single integer, can result in significant performance improvements in software optimization. The author details two specific debugging instances: one where erroneously allocating non-cacheable memory on an Xbox significantly increased CPU usage, and another where incorrect constant values caused performance regressions.</p><p>Through the use of a test harness, the author provides scientific measurement to prove that correcting memory allocation flags can reduce CPU time for specific functions from 7% to 0.7%. This approach highlights the necessity of accurate profiling and an understanding of how hardware caching interacts with software-defined memory attributes.</p><p><img src="https://malt.zendesk.com/attachments/token/smM67szNR2dAQEFQvYFTjXCMh/?name=image.png" /></p><hr/><small>5 Sep 2026, 17:24 UTC | #20244</small>]]></content>
-  </entry>
-  <entry>
-    <title>Bespoke Programming Language Employs Victorian Etiquette and Polite Syntax</title>
-    <link href="https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/" rel="alternate" />
-    <id>https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/::v238</id>
-    <published>2026-09-05T13:09:00+00:00</published>
-    <updated>2026-09-05T13:09:00+00:00</updated>
-    <media:thumbnail url="https://blog.hofstede.it/images/2026-09-04-bespoke-programming-language.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/">blog.hofstede.it</a> | <a href="https://lobste.rs/s/duuz8z/bespoke_programming_language_for_people">discussion</a> | <a href="https://news.ycombinator.com/item?id=49573947">hacker news</a></small></p><hr/><p>Replacing imperative syntax with formal correspondence, this proposed, statically and nominally typed programming language is designed to mandate extreme politeness in its source code. Developers must address the compiler, host environment, and other components with explicit salutations, explanations, and formal closings. Standard operations such as variable mutation, control flow, and error handling are reframed as requests and deliberations to prevent "blunt" or "hostile" interactions.</p><p>Bespoke uses `.charming` source files and enforces British orthography. Its type system requires full names like "An Integer Number" instead of abbreviations, and variable mutations require formal apologies to avoid compilation errors. While the language does not aim to improve performance or resolve concurrency deadlocks—instead labeling them "Exemplary Stalemates of Mutual Deference"—it serves as a conceptual investigation into the etiquette of machine-human interaction.</p><p><img src="https://blog.hofstede.it/images/2026-09-04-bespoke-programming-language.webp" /></p><hr/><small>5 Sep 2026, 17:10 UTC | #20242</small>]]></content>
-  </entry>
-  <entry>
-    <title>Pushin.eu Launches EU-Based Git Hosting Service</title>
-    <link href="https://pushin.eu" rel="alternate" />
-    <id>https://pushin.eu::v238</id>
-    <published>2026-09-05T13:07:00+00:00</published>
-    <updated>2026-09-05T13:07:00+00:00</updated>
-    <media:thumbnail url="https://casd-eu.github.io/Seminar_Python_Git/assets/git_workflow_commands_TP1.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pushin.eu">pushin.eu</a> | <a href="https://news.ycombinator.com/item?id=49573680">hacker news</a></small></p><hr/><p>Pushin.eu is a Git hosting platform that hosts public and private repositories entirely within the European Union. The service aims to avoid the jurisdiction of the US CLOUD Act by operating under European law and utilizing bare-metal servers in France. The platform also intends to mitigate "slop"—low-quality automated contributions—to help prevent maintainer burnout.</p><p>Currently in an invite-only beta, the service is scheduled for general availability in early 2027. It provides a GitHub-compatible REST API, a command-line interface named `pun`, and a mirroring feature for syncing existing GitHub repositories.</p><p><img src="https://casd-eu.github.io/Seminar_Python_Git/assets/git_workflow_commands_TP1.png" /></p><hr/><small>5 Sep 2026, 16:42 UTC | #20240</small>]]></content>
-  </entry>
 </feed>
