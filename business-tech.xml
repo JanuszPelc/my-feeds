@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T10:42:00+00:00</updated>
+  <updated>2026-09-10T11:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Developing Predictive Surveillance System to Monitor Activists</title>
+    <link href="https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/" rel="alternate" />
+    <id>https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/::v238</id>
+    <published>2026-09-10T11:49:00+00:00</published>
+    <updated>2026-09-10T11:49:00+00:00</updated>
+    <media:thumbnail url="https://static.news.bitcoin.com/wp-content/uploads/2026/02/anthropicpentagonclash_nwmk-768x429.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARQKIT2TMGZBKV2L6/20260217/us-east-1/s3/aws4_request&amp;X-Amz-Date=20260217T073227Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=600&amp;X-Amz-Signature=05bde2cd0748c83e8e2d826f385ab852ff8ffb51d1b03f1f5abc603e056c5c6a" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/">prospect.org</a> | <a href="https://news.ycombinator.com/item?id=49628704">hacker news</a></small></p><hr/><p>Anthropic is building a predictive surveillance system designed to monitor activists and predict potential disruptions against the company and its executives. Through real-time risk detection and intelligence-gathering, the AI lab aims to move from reactive security to a proactive model that identifies and reports suspicious behavior to law enforcement.</p><p>The initiative coincides with Anthropic’s growing focus on national security and efforts to have AI classified as critical infrastructure. This expansion of security operations into "activism" and in-platform speech raises concerns regarding the surveillance of domestic dissent and the policing of civic engagement.</p><p><img src="https://static.news.bitcoin.com/wp-content/uploads/2026/02/anthropicpentagonclash_nwmk-768x429.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARQKIT2TMGZBKV2L6/20260217/us-east-1/s3/aws4_request&X-Amz-Date=20260217T073227Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=05bde2cd0748c83e8e2d826f385ab852ff8ffb51d1b03f1f5abc603e056c5c6a" /></p><hr/><small>10 Sep 2026, 15:26 UTC | #20726</small>]]></content>
+  </entry>
   <entry>
     <title>Nine Major Streaming Services See 61% Price Increase Since 2021</title>
     <link href="https://honestlyranked.com/guides/streaming-price-increases/" rel="alternate" />
