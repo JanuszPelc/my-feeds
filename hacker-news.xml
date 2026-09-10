@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T02:36:00+00:00</updated>
+  <updated>2026-09-10T06:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Microsoft Releases AI-Powered Dynamics 365 Migration Tool</title>
+    <link href="https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428" rel="alternate" />
+    <id>https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428::v238</id>
+    <published>2026-09-10T06:13:00+00:00</published>
+    <updated>2026-09-10T06:13:00+00:00</updated>
+    <media:thumbnail url="https://image.theregister.com/?imageId=5295433&amp;width=800" />
+    <content type="html"><![CDATA[<p><small>The Register AI/ML | <a href="https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428">theregister.com</a> | <a href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/09/09/accelerate-your-move-to-agentic-business-applications-with-dynamics-365-activate/">source</a></small></p><hr/><p>Microsoft has launched a public preview of Dynamics 365 Activate, a tool designed to automate the movement of business applications from legacy systems like Salesforce to the Dynamics 365 platform. The utility uses AI to analyze data, entities, and dependencies within existing CRM and ERP environments, providing implementation teams with a blueprint of required redesigns and customizations to reduce manual effort.</p><p>The tool aims to lower migration risks for partners and customers transitioning to agentic business applications. This initiative is part of Microsoft's broader strategy to expand its footprint in the CRM market, where it currently holds a significantly smaller share than Salesforce.</p><p><img src="https://image.theregister.com/?imageId=5295433&width=800" /></p><hr/><small>10 Sep 2026, 10:09 UTC | #20666</small>]]></content>
+  </entry>
   <entry>
     <title>Kepler Computing Emerges From Stealth with New AI Memory Architecture</title>
     <link href="https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/" rel="alternate" />
