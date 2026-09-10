@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-10T00:19:00+00:00</updated>
+  <updated>2026-09-10T08:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Korg Nu:Tekt NTS-4 Performance Mixer Review</title>
+    <link href="https://musictech.com/reviews/studio-recording-gear/korg-nutekt-nts-4-review/" rel="alternate" />
+    <id>https://musictech.com/reviews/studio-recording-gear/korg-nutekt-nts-4-review/::v238</id>
+    <published>2026-09-10T08:02:00+00:00</published>
+    <updated>2026-09-10T08:02:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Korg-NuTekt-NTS-4-hero-credit-Barry-Watson@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/reviews/studio-recording-gear/korg-nutekt-nts-4-review/">musictech.com</a> | <a href="https://www.korg.com/us/products/dj/nts_4/">source</a></small></p><hr/><p>The Korg Nu:Tekt NTS-4 is a DIY-assembly performance mixer designed for compact hardware setups. It features six channels—two mono and four stereo—via 3.5mm minijacks, supporting up to 10 audio signals. The device includes onboard effects, cue monitoring, and serves as a class-compliant 2-in/2-out USB-C audio and MIDI interface.</p><p>Designed for use with portable gear like Teenage Engineering Pocket Operators or Korg Volca units, the NTS-4 emphasizes live performance and experimentation. Although it lacks per-channel gain and EQ, its integrated effects and routing allow for creative applications like no-input mixing (NIMB).</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Korg-NuTekt-NTS-4-hero-credit-Barry-Watson@2000x1500.jpg" /></p><hr/><small>10 Sep 2026, 13:06 UTC | #20680</small>]]></content>
+  </entry>
+  <entry>
+    <title>folina audio Releases Pitch Destroyer Pitch Effect Plugin</title>
+    <link href="https://www.kvraudio.com/news/folina-audio-releases-pitch-destroyer-effect-for-ios-windows-and-macos-vst3-and-au-68470?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68470" rel="alternate" />
+    <id>https://www.kvraudio.com/news/folina-audio-releases-pitch-destroyer-effect-for-ios-windows-and-macos-vst3-and-au-68470?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68470::v238</id>
+    <published>2026-09-10T08:01:00+00:00</published>
+    <updated>2026-09-10T08:01:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/pitchdestroyer-ui.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/folina-audio-releases-pitch-destroyer-effect-for-ios-windows-and-macos-vst3-and-au-68470?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68470">kvraudio.com</a> | <a href="https://folinaaudio.com/pitch-destroyer-creative-pitch-effect-plugin-folina-audio.html">source</a></small></p><hr/><p>folina audio has released Pitch Destroyer, a creative pitch effect plugin for iOS, Windows, and macOS. Available in VST3 and AU formats, the plugin continuously reinterprets pitch while keeping the results within a musical framework.</p><p>The plugin features multiple modes, such as melodic mutations, unexpected harmonies, and arpeggio-like movements. It is currently offered at an introductory price of $3.99 through the end of October, before returning to its regular price of $4.99.</p><p><img src="https://static.kvraudio.com/i/b/pitchdestroyer-ui.png" /></p><hr/><small>10 Sep 2026, 13:05 UTC | #20682</small>]]></content>
+  </entry>
   <entry>
     <title>Astra Creative Audio Releases A-2A Optical Compressor Plugin</title>
     <link href="https://www.kvraudio.com/news/astra-creative-audio-releases-a-2a-optical-compressor-plugin-vst3-and-au---free-until-14-september-68469?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68469" rel="alternate" />

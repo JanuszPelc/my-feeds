@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T06:26:00+00:00</updated>
+  <updated>2026-09-10T06:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Chinese Professionals Turn to AI Training as Gig Work</title>
+    <link href="https://restofworld.org/2026/china-expert-ai-trainers/" rel="alternate" />
+    <id>https://restofworld.org/2026/china-expert-ai-trainers/::v238</id>
+    <published>2026-09-10T06:28:00+00:00</published>
+    <updated>2026-09-10T06:28:00+00:00</updated>
+    <media:thumbnail url="https://www.dmhubtraining.com/wp-content/uploads/2024/12/AI-Training-Malaysia.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://restofworld.org/2026/china-expert-ai-trainers/">restofworld.org</a> | <a href="https://news.ycombinator.com/item?id=49633847">hacker news</a></small></p><hr/><p>White-collar professionals in China, such as architects, lawyers, and engineers, are increasingly working as specialized AI trainers to supplement their income amidst a challenging job market. Through platforms like Alibaba’s Siriser and ByteDance’s Xpert, these experts provide high-density, specialized data necessary for AI models to perform complex reasoning in professional sectors like law and medicine.</p><p>This shift occurs as the Chinese government pushes for the development of "high-quality data sets" to improve AI capabilities. While these roles help bridge the gap in model intelligence, trainers report that the work is often precarious and lower-paid compared to similar roles in the United States.</p><p><img src="https://www.dmhubtraining.com/wp-content/uploads/2024/12/AI-Training-Malaysia.png" /></p><hr/><small>10 Sep 2026, 13:03 UTC | #20671</small>]]></content>
+  </entry>
   <entry>
     <title>Chinese AI Chipmakers Raise Prices Amid High-Bandwidth Memory Shortage</title>
     <link href="https://www.reuters.com/world/asia-pacific/chinas-ai-chipmakers-raise-prices-high-bandwidth-memory-shortage-bites-2026-09-10/" rel="alternate" />
