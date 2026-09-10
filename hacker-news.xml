@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T15:48:00+00:00</updated>
+  <updated>2026-09-10T17:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>YAML's Implicit Typing and the 'Norway Problem'</title>
+    <link href="https://slugcat.systems/post/26-09-10-yaml-spec/" rel="alternate" />
+    <id>https://slugcat.systems/post/26-09-10-yaml-spec/::v238</id>
+    <published>2026-09-10T17:05:00+00:00</published>
+    <updated>2026-09-10T17:05:00+00:00</updated>
+    <media:thumbnail url="https://slugcat.systems/post/26-09-10-yaml-spec/emails.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://slugcat.systems/post/26-09-10-yaml-spec/">slugcat.systems</a> | <a href="https://lobste.rs/s/bsvc7a/it_s_not_yaml_spec_s_fault">discussion</a></small></p><hr/><p>YAML's "Norway Problem"—the unintended conversion of unquoted strings like "no" into booleans—is an implementation issue rather than a flaw in the specification. The YAML specification grants applications the flexibility to define how tag resolution and implicit typing should behave according to specific use cases.</p><p>Analysis of the YAML 1.0, 1.1, and 1.2 specifications and historical mailing list archives indicates that these errors stem from a reliance on unsafe deserialization defaults. Implementing explicit deserialization against a predefined application model is the recommended method to avoid unexpected type conversions and ensure data integrity.</p><p><img src="https://slugcat.systems/post/26-09-10-yaml-spec/emails.webp" /></p><hr/><small>10 Sep 2026, 22:05 UTC | #20766</small>]]></content>
+  </entry>
   <entry>
     <title>Windows 11 Notepad Menu Bar Exhibits Several UX Regressions</title>
     <link href="https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/" rel="alternate" />
