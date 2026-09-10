@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T00:02:00+00:00</updated>
+  <updated>2026-09-10T00:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Research Suggests Autonomous Vehicles Are Safer Than Human Drivers</title>
+    <link href="https://spectrum.ieee.org/are-self-driving-cars-safe" rel="alternate" />
+    <id>https://spectrum.ieee.org/are-self-driving-cars-safe::v238</id>
+    <published>2026-09-10T00:04:00+00:00</published>
+    <updated>2026-09-10T00:04:00+00:00</updated>
+    <media:thumbnail url="https://www.itsdigest.com/sites/default/files/images/WAYMO_2024_04.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://spectrum.ieee.org/are-self-driving-cars-safe">spectrum.ieee.org</a> | <a href="https://www.iihs.org/news/detail/waymos-driverless-cars-crash-less-often-than-people">source</a> | <a href="https://news.ycombinator.com/item?id=49629886">hacker news</a></small></p><hr/><p>Studies from the Insurance Institute for Highway Safety (IIHS) and Waymo indicate that autonomous vehicles are significantly safer than human drivers. Data from Waymo’s robotaxis in cities such as Phoenix and San Francisco show a 68% lower crash rate and an 81% reduction in injury-causing crashes per mile traveled compared to human-driven cars.</p><p>To address concerns regarding data consistency and public trust, the National Highway Traffic Safety Administration (NHTSA) is working to develop national performance and competency standards for autonomous vehicles. These efforts aim to move past the current patchwork of local regulations and establish reliable, standardized metrics for measuring the safety of self-driving technology.</p><p><img src="https://www.itsdigest.com/sites/default/files/images/WAYMO_2024_04.jpg" /></p><hr/><small>10 Sep 2026, 06:14 UTC | #20670</small>]]></content>
+  </entry>
   <entry>
     <title>Consensys to Split into MetaMask and a New Institutional Infrastructure Company</title>
     <link href="https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022" rel="alternate" />
