@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T00:17:00+00:00</updated>
+  <updated>2026-09-10T00:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ACPI SystemIO Conflicts Are Not Always Firmware Bugs</title>
+    <link href="https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/" rel="alternate" />
+    <id>https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/::v238</id>
+    <published>2026-09-10T00:49:00+00:00</published>
+    <updated>2026-09-10T00:49:00+00:00</updated>
+    <media:thumbnail url="https://img.bgo.one/news-image/45271484_1.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/">codon.org.uk</a> | <a href="https://lobste.rs/s/jz8fmz/systemio_conflicts_are_not_firmware_bugs">discussion</a></small></p><hr/><p>ACPI SystemIO range conflict warnings do not necessarily indicate a firmware bug. These errors occur when the kernel detects an overlap between a hardware driver attempting to access an I/O port and an ACPI OpRegion claiming those same addresses. This detection serves as a safety mechanism to prevent race conditions that occur when the firmware and the operating system attempt to manipulate the same hardware registers simultaneously.</p><p>Such conflicts can lead to hardware errors, such as reading incorrect status flags or triggering unintended thermal shutdowns. While the kernel may block conflicting drivers to mitigate these risks, the most reliable way to interact with the hardware is through the ACPI-provided methods and drivers provided by the firmware.</p><p><img src="https://img.bgo.one/news-image/45271484_1.jpg" /></p><hr/><small>10 Sep 2026, 08:23 UTC | #20681</small>]]></content>
+  </entry>
   <entry>
     <title>Replacing Plasma Session Startup with Shell Scripts</title>
     <link href="https://cukic.co/2026/09/07/startplasma-with-shell-scripts-or-dinit" rel="alternate" />
