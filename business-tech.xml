@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T16:29:00+00:00</updated>
+  <updated>2026-09-10T17:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>SpaceX Overhauls Data Center Strategy, Potentially Slowing Expansion</title>
+    <link href="https://www.theinformation.com/articles/spacex-overhauls-data-center-build-potentially-slowing-expansion" rel="alternate" />
+    <id>https://www.theinformation.com/articles/spacex-overhauls-data-center-build-potentially-slowing-expansion::v238</id>
+    <published>2026-09-10T17:10:00+00:00</published>
+    <updated>2026-09-10T17:10:00+00:00</updated>
+    <media:thumbnail url="https://driveteslacanada.ca/wp-content/uploads/2026/06/ai1-satellite-768x388.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/spacex-overhauls-data-center-build-potentially-slowing-expansion">theinformation.com</a></small></p><hr/><p>SpaceX is shifting its data center buildout strategy to focus on redesigning existing facilities with an emphasis on power and cooling redundancy. This move marks a transition from the company's rapid deployment approach to a focus on infrastructure stability.</p><p>The focus on reliability may slow the overall pace of new data center construction. This shift aims to address challenges encountered during previous rapid expansions where infrastructure lacked adequate backup systems.</p><p><img src="https://driveteslacanada.ca/wp-content/uploads/2026/06/ai1-satellite-768x388.jpg" /></p><hr/><small>10 Sep 2026, 22:43 UTC | #20729</small>]]></content>
+  </entry>
   <entry>
     <title>ElevenLabs and Universal Music Group Announce Strategic AI Music Partnership</title>
     <link href="https://musictech.com/news/industry/elevenlabs-deal-universal-music-group-ai-music-platform-products/" rel="alternate" />

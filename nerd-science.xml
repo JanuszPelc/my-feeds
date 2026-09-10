@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-10T16:14:00+00:00</updated>
+  <updated>2026-09-10T17:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Spectre Collie Critiques Generative AI and its Impact on the Playdate Ecosystem</title>
+    <link href="https://spectrecollie.com/2026/09/05/bad-vibes-coding/" rel="alternate" />
+    <id>https://spectrecollie.com/2026/09/05/bad-vibes-coding/::v238</id>
+    <published>2026-09-10T17:11:00+00:00</published>
+    <updated>2026-09-10T17:11:00+00:00</updated>
+    <media:thumbnail url="https://image.coinlive.com/cryptotwits-static/eb48268bcb32b8773229c4ff2f9081ec.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://spectrecollie.com/2026/09/05/bad-vibes-coding/">spectrecollie.com</a> | <a href="https://lobste.rs/s/ifvdvx/bad_vibes_coding">discussion</a></small></p><hr/><p>Spectre Collie argues against the proliferation of generative AI, citing concerns regarding environmental degradation, copyright infringement, and the centralization of power within a few major corporations. The author challenges the claim that AI "democratizes" creativity, asserting that it encourages a reliance on proprietary, resource-heavy models rather than utilizing established, open-access tools.</p><p>The critique extends to the Playdate handheld's development community, where the author fears AI-driven production will lead to a saturation of low-quality content. The essay maintains that the core value of programming lies in the cognitive challenge of the creative process rather than the efficiency of generating code.</p><p><img src="https://image.coinlive.com/cryptotwits-static/eb48268bcb32b8773229c4ff2f9081ec.jpeg" /></p><hr/><small>10 Sep 2026, 22:46 UTC | #20775</small>]]></content>
+  </entry>
   <entry>
     <title>The Psychological Impact of Software Development Processes</title>
     <link href="https://graybeard.ing/software-drives-people-insane/" rel="alternate" />
