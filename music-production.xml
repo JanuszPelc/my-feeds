@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-10T11:57:00+00:00</updated>
+  <updated>2026-09-10T13:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Unusable Engineering Releases Quadrant Modulator</title>
+    <link href="https://www.kvraudio.com/news/unusable-engineering-releases-quadrant-modulator---four-quadrant-multiplier-and-ring-modulation-effect-vst3-and-au-68471?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68471" rel="alternate" />
+    <id>https://www.kvraudio.com/news/unusable-engineering-releases-quadrant-modulator---four-quadrant-multiplier-and-ring-modulation-effect-vst3-and-au-68471?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68471::v238</id>
+    <published>2026-09-10T13:43:00+00:00</published>
+    <updated>2026-09-10T13:43:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/quadrant-modulator-screenshot.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/unusable-engineering-releases-quadrant-modulator---four-quadrant-multiplier-and-ring-modulation-effect-vst3-and-au-68471?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68471">kvraudio.com</a> | <a href="https://www.unusable.net/effects/quadrant-modulator/">source</a></small></p><hr/><p>Unusable Engineering has released Quadrant Modulator, a €29 four-quadrant multiplier and ring-modulation effect for macOS and Windows. The plugin utilizes a modified version of the visual oscillator from Curves &amp; Membranes, enabling users to generate waveforms via Bézier nodes for amplitude modulation and one-shot shaping.</p><p>The tool includes an 8-slot sequencer with host synchronization, MTS-ESP support for microtonal tuning, and per-slot rate slew. It also features clean and diode-inspired multiplication modes, feedback options, and tube-style limiting.</p><p><img src="https://static.kvraudio.com/i/b/quadrant-modulator-screenshot.jpg" /></p><hr/><small>10 Sep 2026, 16:39 UTC | #20700</small>]]></content>
+  </entry>
+  <entry>
+    <title>AudioNodes Releases Version 0.14.3 Update</title>
+    <link href="https://bedroomproducersblog.com/2026/09/10/audionodes-modular-daw/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/10/audionodes-modular-daw/::v238</id>
+    <published>2026-09-10T13:42:00+00:00</published>
+    <updated>2026-09-10T13:42:00+00:00</updated>
+    <media:thumbnail url="https://cdnimg.co/20b4fde8-5e0f-429c-a021-20f91ee16580/screenshots/cf5af86b-5067-405c-86cd-16471495c2c1/free-online-audio-mixer-modular-synth.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/10/audionodes-modular-daw/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/10/audionodes-modular-daw/#comments">discussion</a></small></p><hr/><p>AudioNodes LLC has released version 0.14.3 of its modular synthesizer and digital audio workstation (DAW). This update includes fixes for VST hosting and several workflow improvements.</p><p>The software is available for free on macOS, Windows, and Linux, as well as through compatible web browsers. It features a modular architecture designed for both sound synthesis and audio processing.</p><p><img src="https://cdnimg.co/20b4fde8-5e0f-429c-a021-20f91ee16580/screenshots/cf5af86b-5067-405c-86cd-16471495c2c1/free-online-audio-mixer-modular-synth.jpg" /></p><hr/><small>10 Sep 2026, 16:36 UTC | #20709</small>]]></content>
+  </entry>
+  <entry>
+    <title>Dubspot Launches Dubspot Groove Browser Drum Machine</title>
+    <link href="https://bedroomproducersblog.com/2026/09/10/dubspot-groove/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/10/dubspot-groove/::v238</id>
+    <published>2026-09-10T13:41:00+00:00</published>
+    <updated>2026-09-10T13:41:00+00:00</updated>
+    <media:thumbnail url="https://tools.djfuturo.com/wp-content/uploads/drum-machine-online.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/10/dubspot-groove/">bedroomproducersblog.com</a> | <a href="https://www.dubspot.com/groove">source</a></small></p><hr/><p>This free web-based drum machine allows for the creation of 12, 16, 24, or 32-step patterns with features including velocity, microtiming, ratchets, and pitch control. It supports drum synthesis and audio importing, with the ability to export files as WAV or MIDI without software installation or account registration.</p><p>The release marks Dubspot's relaunch as an online music education platform. The company's first offering is a 76-lesson "Drum Programming and Groove Production" course focused on rhythm and sampling through interactive exercises.</p><p><img src="https://tools.djfuturo.com/wp-content/uploads/drum-machine-online.jpg" /></p><hr/><small>10 Sep 2026, 16:34 UTC | #20710</small>]]></content>
+  </entry>
   <entry>
     <title>Acon Digital Launches Acoustica 8 with Machine Learning Restoration Tools</title>
     <link href="https://www.kvraudio.com/news/acon-digital-launches-acoustica-8---machine-learning-restoration-tools-and-redesigned-interface-68452?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68452" rel="alternate" />

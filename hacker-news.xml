@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T11:46:00+00:00</updated>
+  <updated>2026-09-10T14:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Shopify Migrates Mobile Apps from React Native to Native</title>
+    <link href="https://shopify.engineering/back-to-native" rel="alternate" />
+    <id>https://shopify.engineering/back-to-native::v238</id>
+    <published>2026-09-10T14:10:00+00:00</published>
+    <updated>2026-09-10T14:10:00+00:00</updated>
+    <media:thumbnail url="https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/llm-for-mobile-an-initial-roadmap-2.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://shopify.engineering/back-to-native">shopify.engineering</a> | <a href="https://news.ycombinator.com/item?id=49643982">hacker news</a></small></p><hr/><p>Shopify is transitioning its mobile applications from React Native to native Swift and Kotlin. This shift is driven by advancements in Large Language Models (LLMs), which allow AI agents to handle much of the implementation and translation work previously required to maintain platform parity between iOS and Android.</p><p>The company is using a custom AI system called Helix to execute a "greenfield" rebuild of its apps through iterative, human-verified checkpoints. While Shopify will continue to support key libraries like FlashList and sponsor React Native Skia through 2026, it is shifting toward an architecture optimized for both human and agentic development.</p><p><img src="https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/llm-for-mobile-an-initial-roadmap-2.png" /></p><hr/><small>10 Sep 2026, 16:43 UTC | #20735</small>]]></content>
+  </entry>
   <entry>
     <title>Guix-Science Announces First Software Channel Release</title>
     <link href="https://hpc.guix.info/blog/2026/09/guix-science-first-release/" rel="alternate" />
