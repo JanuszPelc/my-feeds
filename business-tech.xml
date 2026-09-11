@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T21:59:00+00:00</updated>
+  <updated>2026-09-10T22:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Microsoft to Expand Data Center Capacity to 38 Gigawatts by 2032</title>
+    <link href="https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute" rel="alternate" />
+    <id>https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute::v238</id>
+    <published>2026-09-10T22:02:00+00:00</published>
+    <updated>2026-09-10T22:02:00+00:00</updated>
+    <media:thumbnail url="https://bitcoinworld.co.in/wp-content/uploads/tcs-tpg-ai-data-center-1296x700.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute">bloomberg.com</a></small></p><hr/><p>Microsoft aims to expand its global data center capacity from 12 gigawatts to over 38 gigawatts by 2032. Roughly one-third of this capacity is expected to focus on AI-specific chips to address computing power shortages that have previously forced the company to decline some AI and cloud business.</p><p>The expansion is intended to meet surging demand for artificial intelligence and cloud computing services. The scale of the infrastructure push reflects the massive power and specialized hardware requirements necessary to support large-scale AI model deployment.</p><p><img src="https://bitcoinworld.co.in/wp-content/uploads/tcs-tpg-ai-data-center-1296x700.jpg" /></p><hr/><small>11 Sep 2026, 05:09 UTC | #20770</small>]]></content>
+  </entry>
   <entry>
     <title>California Enacts Laws Restricting Chatbots and Addictive Social Media for Minors</title>
     <link href="https://calmatters.org/economy/technology/2026/09/california-enacts-laws-restricting-chatbots-protecting-kids-online/" rel="alternate" />
