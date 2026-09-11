@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T14:28:00+00:00</updated>
+  <updated>2026-09-11T14:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Withdraws Sponsorship from Caltech Math Hackathon</title>
+    <link href="https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9" rel="alternate" />
+    <id>https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9::v239</id>
+    <published>2026-09-11T14:36:00+00:00</published>
+    <updated>2026-09-11T14:36:00+00:00</updated>
+    <media:thumbnail url="https://cms.aidailypost.com/uploads/openais_ai_achieves_milestone_ai_mathematics_say_gowers_shankar_1aff1b1df3.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9">businessinsider.com</a> | <a href="https://news.ycombinator.com/item?id=49660651">hacker news</a></small></p><hr/><p>OpenAI is withdrawing its sponsorship from the Caltech Mathathon, an event where participants use large language models to solve mathematical research problems. The decision follows an open letter from mathematicians who criticized the hackathon for potentially encouraging "slop mathematics" and negatively impacting the research field.</p><p>The event, scheduled for October 30, 2026, was intended to provide 100 teams with $2 million in AI compute credits through sponsors OpenAI and Anthropic. While the program aimed to explore AI's role in tackling complex mathematical conjectures, academic backlash led OpenAI to end its involvement.</p><p><img src="https://cms.aidailypost.com/uploads/openais_ai_achieves_milestone_ai_mathematics_say_gowers_shankar_1aff1b1df3.webp" /></p><hr/><small>11 Sep 2026, 18:47 UTC | #20824</small>]]></content>
+  </entry>
   <entry>
     <title>Trump Administration to Lend $100 Million to Africell</title>
     <link href="https://www.reuters.com/world/china/trump-administration-lend-100-million-africell-countering-huawei-africa-2026-09-11/" rel="alternate" />
@@ -965,14 +974,5 @@
     <updated>2026-09-06T20:48:00+00:00</updated>
     <media:thumbnail url="https://opentools.ai/_next/image?url=https://imagedelivery.net/FCiXvK7dG4mSm_W_033WNA/3c3f3f75-d646-485d-b74d-e39ee6bce100/contentbanner&amp;w=3840&amp;q=75" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/">techcrunch.com</a> | <a href="https://www.classaction.org/media/bartz-et-al-v-anthropic-pbc-settlement.pdf">source</a></small></p><hr/><p>Writers are reporting significant discrepancies in the distribution of the $1.5 billion copyright settlement. Specifically, publishers are allegedly claiming full payouts for books with reverted rights, and literary agencies are attempting to claim percentages despite not being legal rightsholders.</p><p>Under the settlement terms, authors are entitled to 100% of the $3,000-per-work payment for self-published titles or books with rights reverted before August 10, 2022; otherwise, payments are split 50-50 with traditional publishers. Experts attribute these discrepancies to systemic record-keeping failures within the settlement administration.</p><p><img src="https://opentools.ai/_next/image?url=https://imagedelivery.net/FCiXvK7dG4mSm_W_033WNA/3c3f3f75-d646-485d-b74d-e39ee6bce100/contentbanner&w=3840&q=75" /></p><hr/><small>7 Sep 2026, 01:59 UTC | #20309</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Antigravity Terms Allow Google Account Suspension for Third-Party Tool Usage</title>
-    <link href="https://twitter.com/GergelyOrosz/status/2095453567955968398" rel="alternate" />
-    <id>https://twitter.com/GergelyOrosz/status/2095453567955968398::v238</id>
-    <published>2026-09-06T18:35:00+00:00</published>
-    <updated>2026-09-06T18:35:00+00:00</updated>
-    <media:thumbnail url="https://pbs.twimg.com/media/HRQYTZ4agAAljEH?format=webp&amp;name=medium" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://twitter.com/GergelyOrosz/status/2095453567955968398">twitter.com</a> | <a href="https://x.com/GergelyOrosz/status/2095453567955968398">source</a> | <a href="https://news.ycombinator.com/item?id=49548452">hacker news</a></small></p><hr/><p>Google Antigravity's Terms of Service allow for the suspension of a user's entire Google account if the service detects suspected use of third-party tools, such as OpenClaw.</p><p>While Google has indicated that enforcement is limited to Antigravity and does not affect other services like Gmail, the policy introduces risk for developers due to the potential for account-wide repercussions. Some users have also reported being charged for access despite account restrictions.</p><p><img src="https://pbs.twimg.com/media/HRQYTZ4agAAljEH?format=webp&name=medium" /></p><hr/><small>6 Sep 2026, 22:03 UTC | #20087</small>]]></content>
   </entry>
 </feed>
