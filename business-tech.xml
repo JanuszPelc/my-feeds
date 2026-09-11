@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T10:07:00+00:00</updated>
+  <updated>2026-09-11T10:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>India's SFIO Recommends Probe into Xiaomi Over Alleged Regulatory Violations</title>
+    <link href="https://www.reuters.com/business/retail-consumer/indias-serious-fraud-office-recommends-detailed-probe-into-xiaomis-business-2026-09-09/" rel="alternate" />
+    <id>https://www.reuters.com/business/retail-consumer/indias-serious-fraud-office-recommends-detailed-probe-into-xiaomis-business-2026-09-09/::v239</id>
+    <published>2026-09-11T10:10:00+00:00</published>
+    <updated>2026-09-11T10:10:00+00:00</updated>
+    <media:thumbnail url="https://urbanacres.in/wp-content/uploads/2026/09/urban-acres-news-170801.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/retail-consumer/indias-serious-fraud-office-recommends-detailed-probe-into-xiaomis-business-2026-09-09/">reuters.com</a></small></p><hr/><p>India's Serious Fraud Office (SFIO) has recommended a detailed investigation into Xiaomi's Indian operations for alleged business model irregularities and violations of foreign investment laws. The recommendation, based on a memorandum, targets potential non-compliance with regulations governing investments from China.</p><p>The proposed inquiry intends to scrutinize the company's movement of funds, beneficial ownership, and whether its e-commerce arrangements with local sellers were conducted at arm's length. The investigation awaits formal approval from the Ministry of Corporate Affairs.</p><p><img src="https://urbanacres.in/wp-content/uploads/2026/09/urban-acres-news-170801.png" /></p><hr/><small>11 Sep 2026, 12:19 UTC | #20795</small>]]></content>
+  </entry>
   <entry>
     <title>Trump Rejects AI Extinction Warnings</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-11/trump-rejects-warnings-that-ai-may-lead-to-human-extinction" rel="alternate" />
