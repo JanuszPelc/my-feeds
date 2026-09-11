@@ -1039,13 +1039,4 @@
     <media:thumbnail url="https://meanmicio.org/wp-content/uploads/2026/09/image-1.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://meanmicio.org/2026/09/06/netbsd-11-from-scratch/">meanmicio.org</a> | <a href="https://lobste.rs/s/be5lrk/netbsd_11_from_scratch">discussion</a></small></p><hr/><p>This guide details the manual installation of NetBSD 11 by bypassing the standard sysinst installer. The walkthrough covers MBR partitioning on BIOS-based hardware and the implementation of disk-level encryption via the Cryptographic Disk Driver (CGD).</p><p>The process includes setting up remote SSH access, managing disklabels, and configuring encrypted volumes for system partitions. It is intended for users who wish to understand the system's internals or require highly customized installation settings.</p><p><img src="https://meanmicio.org/wp-content/uploads/2026/09/image-1.png" /></p><hr/><small>6 Sep 2026, 17:47 UTC | #20299</small>]]></content>
   </entry>
-  <entry>
-    <title>Gleam and BEAM: Looking Beyond the JVM</title>
-    <link href="https://vimeo.com/1223666800" rel="alternate" />
-    <id>https://vimeo.com/1223666800::v238</id>
-    <published>2026-09-06T11:59:00+00:00</published>
-    <updated>2026-09-06T11:59:00+00:00</updated>
-    <media:thumbnail url="https://codex.danielvaughan.com/sketchnotes/articles/2026-05-23-codex-cli-gleam-development-beam-type-safe-lsp-mcp-dual-target-workflows.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vimeo.com/1223666800">vimeo.com</a> | <a href="https://lobste.rs/s/5wzkwm/gleam_beam_looking_beyond_jvm">discussion</a></small></p><hr/><p>This presentation by John Mikael Lindbakk explores how the Gleam programming language utilizes the BEAM virtual machine. It focuses on leveraging the Erlang ecosystem's concurrency and fault-tolerance through a type-safe, functional paradigm.</p><p>The talk discusses the benefits of operating outside the Java Virtual Machine (JVM) to access the BEAM's actor model and distributed computing capabilities. It highlights how Gleam's architecture facilitates the development of highly scalable and reliable applications.</p><p><img src="https://codex.danielvaughan.com/sketchnotes/articles/2026-05-23-codex-cli-gleam-development-beam-type-safe-lsp-mcp-dual-target-workflows.png" /></p><hr/><small>6 Sep 2026, 16:24 UTC | #20297</small>]]></content>
-  </entry>
 </feed>
