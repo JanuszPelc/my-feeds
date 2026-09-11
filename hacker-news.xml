@@ -1048,13 +1048,4 @@
     <media:thumbnail url="https://i.gzn.jp/img/2026/06/03/coreutils-for-windows/00.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://uutils.org/blog/2026-08-error-diagnostics/">uutils.org</a> | <a href="https://lobste.rs/s/job3jy/pointing_at_error_compiler_style">discussion</a> | <a href="https://news.ycombinator.com/item?id=49535024">hacker news</a></small></p><hr/><p>uutils coreutils version 0.11.0 now features visual, compiler-style error reporting through the `ariadne` Rust crate. Rather than issuing single-line stderr messages, the tools use carets and source line echoes to highlight the specific character or sequence causing a parsing failure.</p><p>This functionality is currently implemented in 28 utilities, such as `tr`, `chmod`, `sort`, and `test`. The diagnostics provide contextual syntax guidance for complex argument types, including regular expressions and mode/format strings, facilitating easier debugging of command-line inputs.</p><p><img src="https://i.gzn.jp/img/2026/06/03/coreutils-for-windows/00.png" /></p><hr/><small>6 Sep 2026, 06:37 UTC | #20279</small>]]></content>
   </entry>
-  <entry>
-    <title>Google Chrome Exempts Google.com from Site Data Deletion Settings</title>
-    <link href="https://lapcatsoftware.com/articles/2026/9/1.html" rel="alternate" />
-    <id>https://lapcatsoftware.com/articles/2026/9/1.html::v238</id>
-    <published>2026-09-06T00:11:00+00:00</published>
-    <updated>2026-09-06T00:11:00+00:00</updated>
-    <media:thumbnail url="https://www.thewindowsclub.com/wp-content/uploads/2026/06/Clear-cookies-and-site-data-when-you-quit-Chrome-missing.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lapcatsoftware.com/articles/2026/9/1.html">lapcatsoftware.com</a> | <a href="https://news.ycombinator.com/item?id=49581870">hacker news</a></small></p><hr/><p>Google Chrome version 152.0.7977.83 appears to exempt `google.com` from the user setting that automatically deletes site data when the browser is closed. Testing on multiple Macs demonstrated that even when not signed into a Google account and using a different default search engine, data for `google.com` persists in cookies and local storage after restarting the browser.</p><p>This behavior replicates a similar bug reported six years ago that Google eventually patched. The current issue persists even when site data and permissions for `google.com` are manually deleted through the browser settings.</p><p><img src="https://www.thewindowsclub.com/wp-content/uploads/2026/06/Clear-cookies-and-site-data-when-you-quit-Chrome-missing.jpg" /></p><hr/><small>6 Sep 2026, 05:45 UTC | #20276</small>]]></content>
-  </entry>
 </feed>
