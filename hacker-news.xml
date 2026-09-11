@@ -1048,22 +1048,4 @@
     <media:thumbnail url="https://d1eipm3vz40hy0.cloudfront.net/images/AMER/Technical+debt+management/techincal-debt-types-optimized.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/">zachkehs.com</a> | <a href="https://lobste.rs/s/rfn2mn/there_s_no_limit_how_bad_code_can_get">discussion</a> | <a href="https://news.ycombinator.com/item?id=49576704">hacker news</a></small></p><hr/><p>Software degradation has no physical limit, meaning code can continuously increase in complexity and decrease in performance without reaching a terminal failure state. This challenges common metaphors such as a "sinking ship" or a "collapsing building," which imply a natural endpoint or a catastrophic threshold of total failure.</p><p>Because software lacks the "bankruptcy" mechanism found in financial debt, a complete rewrite rarely provides the clean slate that managers expect. The author argues that businesses often fail due to software complexity long before the code itself reaches a point of complete functional failure, making proactive maintenance essential to prevent infinite decay.</p><p><img src="https://d1eipm3vz40hy0.cloudfront.net/images/AMER/Technical+debt+management/techincal-debt-types-optimized.png" /></p><hr/><small>6 Sep 2026, 11:58 UTC | #20282</small>]]></content>
   </entry>
-  <entry>
-    <title>Debian Code Search Implements TurboPFor Using Go SIMD</title>
-    <link href="https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/" rel="alternate" />
-    <id>https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/::v238</id>
-    <published>2026-09-06T07:12:00+00:00</published>
-    <updated>2026-09-06T07:12:00+00:00</updated>
-    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*olGjQZSfvuCZ55WO0Go4hg.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/">michael.stapelberg.ch</a> | <a href="https://lobste.rs/s/ceuque/debian_code_search_fast_turbopfor_with_go">discussion</a></small></p><hr/><p>Debian Code Search has implemented a native Go version of the TurboPFor integer compression format, eliminating its final Cgo dependency. By utilizing Go's experimental `simd/archsimd` package and AVX512 instructions, the implementation achieves performance levels comparable to or better than the original C-based reference library.</p><p>The implementation leverages optimizations such as bit-width specialization and positional popcount for efficient block scanning. These improvements allow the search engine to maintain high-speed indexing and querying while ensuring the entire codebase remains within the Go ecosystem.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*olGjQZSfvuCZ55WO0Go4hg.png" /></p><hr/><small>6 Sep 2026, 11:19 UTC | #20281</small>]]></content>
-  </entry>
-  <entry>
-    <title>Trynix Enables Running Nix Packages in a Web Browser</title>
-    <link href="https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser" rel="alternate" />
-    <id>https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser::v238</id>
-    <published>2026-09-06T07:10:00+00:00</published>
-    <updated>2026-09-06T07:10:00+00:00</updated>
-    <media:thumbnail url="https://getnix.io/og-what-is-nix.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser">fzakaria.com</a> | <a href="https://lobste.rs/s/i9zp2x/any_nix_package_live_your_browser">discussion</a> | <a href="https://news.ycombinator.com/item?id=49583476">hacker news</a></small></p><hr/><p>Trynix allows users to execute Nix packages within a web browser by booting a Linux kernel in WebAssembly. The tool utilizes a Nix store in memory and a terminal emulator to provide a command-line interface for running binaries from the nixpkgs history directly in a browser tab.</p><p>The application achieves near-instant startup by using pre-booted VM snapshots and background pre-fetching. By leveraging binary caches that support CORS, such as GitHub Pages or Cachix, it allows users to run unlisted or custom store paths via a URL, enabling immediate testing of software versions or CI/CD artifacts.</p><p><img src="https://getnix.io/og-what-is-nix.png" /></p><hr/><small>6 Sep 2026, 11:05 UTC | #20280</small>]]></content>
-  </entry>
 </feed>
