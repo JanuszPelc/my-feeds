@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-11T02:58:00+00:00</updated>
+  <updated>2026-09-11T03:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Dropshot Audio Updates Smackbox V2 to Version 1.5</title>
+    <link href="https://www.kvraudio.com/news/dropshot-audio-updates-smackbox-v2-to-v1-5-with-performance-sequencer-resonator-banks-and-dispersion-68494?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68494" rel="alternate" />
+    <id>https://www.kvraudio.com/news/dropshot-audio-updates-smackbox-v2-to-v1-5-with-performance-sequencer-resonator-banks-and-dispersion-68494?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68494::v238</id>
+    <published>2026-09-11T03:03:00+00:00</published>
+    <updated>2026-09-11T03:03:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot.1789067175.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dropshot-audio-updates-smackbox-v2-to-v1-5-with-performance-sequencer-resonator-banks-and-dispersion-68494?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68494">kvraudio.com</a> | <a href="https://dropshotaudio.com/">source</a></small></p><hr/><p>Version 1.5 of the Smackbox V2 hybrid drum synthesizer is available for macOS, Windows, and Linux. The update introduces a 12-pad performance sequencer with four editable patterns, a 16-slot song chain, and live pattern queueing. The sequencer also supports MIDI output to send pad notes to external instruments.</p><p>The release adds a dispersion stage and three independently tunable resonator banks designed to emulate cymbals, metallic percussion, and acoustic drum bodies. These banks include controls for feedback, frequency shifting, and high-pass filtering. Smackbox V2 is priced at €79.</p><p><img src="https://static.kvraudio.com/i/b/screenshot.1789067175.png" /></p><hr/><small>11 Sep 2026, 09:21 UTC | #20810</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apex Plugins Updates Apex Amp to v1.2.0</title>
+    <link href="https://www.kvraudio.com/news/apex-plugins-updates-apex-amp-to-v1-2-0-with-major-ui-overhaul-and-interactive-controls-68492?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68492" rel="alternate" />
+    <id>https://www.kvraudio.com/news/apex-plugins-updates-apex-amp-to-v1-2-0-with-major-ui-overhaul-and-interactive-controls-68492?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68492::v238</id>
+    <published>2026-09-11T03:02:00+00:00</published>
+    <updated>2026-09-11T03:02:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/tab4_rig.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/apex-plugins-updates-apex-amp-to-v1-2-0-with-major-ui-overhaul-and-interactive-controls-68492?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68492">kvraudio.com</a> | <a href="https://apex-plugins.com/">source</a></small></p><hr/><p>Apex Plugins has released version 1.2.0 of Apex Amp, introducing a redesigned studio hardware interface and interactive graphical controls. The update adds analog-style VU meters, a digital OLED preset display, and drag-and-drop functionality for EQ nodes and cabinet microphone placement within a virtual live room.</p><p>The release includes real-time frequency visualization and fixes for DAW transport issues. Existing license holders can download the update for free, while new licenses are available at an introductory price of $49.</p><p><img src="https://static.kvraudio.com/i/b/tab4_rig.webp" /></p><hr/><small>11 Sep 2026, 09:17 UTC | #20809</small>]]></content>
+  </entry>
   <entry>
     <title>Phaseburn Releases Phaseburn One Public Beta</title>
     <link href="https://www.kvraudio.com/news/phaseburn-releases-phaseburn-one-public-beta-pll-based-groove-synthesizer-and-effects-processor-vst3-au-and-clap-68488?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68488" rel="alternate" />
@@ -778,14 +796,5 @@
     <updated>2026-09-06T14:43:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/kvr06.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/tomasz-gluc-updates-tomic-drum-synth-to-v0-6-with-in-process-plugin-hosting-expanded-lfo-and-song-mode-workflow-68270?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68270">kvraudio.com</a> | <a href="https://omnidaw.com/tomic">source</a></small></p><hr/><p>Tomasz Głuc has released version 0.6 of the TOMiC Drum Synth, introducing standalone in-process hosting for external CLAP and OMNiPlugin instruments and effects. The update expands the LFO engine to 10 waveforms, introduces a Song Mode workflow with per-pattern clips, and enables bit-accurate audio export for stems and master files.</p><p>The release includes an interactive sequencer range ring, live pattern chain growth during recording, and enhanced stability for ASIO drivers. The software is available for Windows and Linux in VST3, CLAP, and standalone formats.</p><p><img src="https://static.kvraudio.com/i/b/kvr06.png" /></p><hr/><small>6 Sep 2026, 19:10 UTC | #20289</small>]]></content>
-  </entry>
-  <entry>
-    <title>FRCTL Audio Releases GRNi Granular Sampler</title>
-    <link href="https://www.kvraudio.com/news/frctl-audio-releases-grni---granular-sampler-with-blendable-layers-vst3-au-and-clap-68385?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68385" rel="alternate" />
-    <id>https://www.kvraudio.com/news/frctl-audio-releases-grni---granular-sampler-with-blendable-layers-vst3-au-and-clap-68385?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68385::v238</id>
-    <published>2026-09-06T09:11:00+00:00</published>
-    <updated>2026-09-06T09:11:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/grninews.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/frctl-audio-releases-grni---granular-sampler-with-blendable-layers-vst3-au-and-clap-68385?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68385">kvraudio.com</a> | <a href="https://frctlaudio.com/products/grni">source</a></small></p><hr/><p>Built on the GRN engine, GRNi is a granular sampler that allows users to play audio files via MIDI. Each held note generates a unique stream of up to 64 grains, with support for two sample layers that can be blended grain-by-grain. The plugin also includes MPE support for expressive control of pitch and position.</p><p>The software is available for Windows, macOS, and Linux in VST3, AU, CLAP, and standalone formats. It features a step sequencer, a 10-slot FX rack, and a scale mode for pitch quantization. A promotional price of $34.99 is available until September 19.</p><p><img src="https://static.kvraudio.com/i/b/grninews.jpg" /></p><hr/><small>6 Sep 2026, 14:25 UTC | #20288</small>]]></content>
   </entry>
 </feed>
