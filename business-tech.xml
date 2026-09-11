@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T02:44:00+00:00</updated>
+  <updated>2026-09-11T02:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>YC Spring 2026 Batch Shows Declining Native Mobile App Focus as Startups Pivot to AI</title>
+    <link href="https://www.bloomberg.com/opinion/articles/2026-09-10/ai-is-killing-the-app-economy-and-building-its-successor" rel="alternate" />
+    <id>https://www.bloomberg.com/opinion/articles/2026-09-10/ai-is-killing-the-app-economy-and-building-its-successor::v238</id>
+    <published>2026-09-11T02:46:00+00:00</published>
+    <updated>2026-09-11T02:46:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQFk8KNbNg6l1w/feedshare-shrink_1280/B56Zybjz0EKAAc-/0/1772136382006?e=2147483647&amp;v=beta&amp;t=_9bxDq_r-RMaqcvl3u09gfx_XZosXdRGXral7Hjc128" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/opinion/articles/2026-09-10/ai-is-killing-the-app-economy-and-building-its-successor">bloomberg.com</a></small></p><hr/><p>Only 4% of startups in Y Combinator's Spring 2026 batch feature a native mobile app as their main product, a significant decrease from 15% in 2013. This trend reflects a fundamental shift in entrepreneurship toward AI-native products and autonomous agents.</p><p>Increased accessibility in application development has coincided with an 80% surge in new Apple App Store releases. This transition signals a move away from the traditional app economy toward a successor market built on AI agents.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQFk8KNbNg6l1w/feedshare-shrink_1280/B56Zybjz0EKAAc-/0/1772136382006?e=2147483647&v=beta&t=_9bxDq_r-RMaqcvl3u09gfx_XZosXdRGXral7Hjc128" /></p><hr/><small>11 Sep 2026, 07:57 UTC | #20782</small>]]></content>
+  </entry>
   <entry>
     <title>Oracle Claims AI Will Accelerate SaaS Implementations</title>
     <link href="https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736" rel="alternate" />
