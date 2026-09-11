@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-11T14:29:00+00:00</updated>
+  <updated>2026-09-11T14:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>PlanetScale Introduces Neki Sharded Postgres</title>
+    <link href="https://planetscale.com/blog/introducing-neki" rel="alternate" />
+    <id>https://planetscale.com/blog/introducing-neki::v239</id>
+    <published>2026-09-11T14:33:00+00:00</published>
+    <updated>2026-09-11T14:33:00+00:00</updated>
+    <media:thumbnail url="https://planetscale-images.imgix.net/assets/postgres-pgbouncer-connection-config-options-DubW9rwb.png?auto=compress,format" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://planetscale.com/blog/introducing-neki">planetscale.com</a> | <a href="https://news.ycombinator.com/item?id=49645686">hacker news</a></small></p><hr/><p>PlanetScale has launched Neki, a sharding solution designed to scale PostgreSQL databases across multiple machines. By using a router that implements the Postgres wire protocol, the system maintains compatibility with existing application drivers and ORMs. Each shard functions as a complete Postgres cluster, including a primary node and replicas distributed across availability zones.</p><p>The architecture incorporates Neki routers for distributed query planning, sidecars for enhanced connection pooling, and a control plane to coordinate online workflows like schema changes, version upgrades, and resharding. Users manage data distribution through a JSON-based data topology. The service is currently available in platform preview.</p><p><img src="https://planetscale-images.imgix.net/assets/postgres-pgbouncer-connection-config-options-DubW9rwb.png?auto=compress,format" /></p><hr/><small>11 Sep 2026, 18:34 UTC | #20862</small>]]></content>
+  </entry>
   <entry>
     <title>Evergarden Color Scheme Inspired by Nature and The Minish Cap</title>
     <link href="https://evergarden.moe/" rel="alternate" />

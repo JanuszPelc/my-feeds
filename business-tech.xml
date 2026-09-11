@@ -975,13 +975,4 @@
     <media:thumbnail url="https://pbs.twimg.com/media/HRQYTZ4agAAljEH?format=webp&amp;name=medium" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://twitter.com/GergelyOrosz/status/2095453567955968398">twitter.com</a> | <a href="https://x.com/GergelyOrosz/status/2095453567955968398">source</a> | <a href="https://news.ycombinator.com/item?id=49548452">hacker news</a></small></p><hr/><p>Google Antigravity's Terms of Service allow for the suspension of a user's entire Google account if the service detects suspected use of third-party tools, such as OpenClaw.</p><p>While Google has indicated that enforcement is limited to Antigravity and does not affect other services like Gmail, the policy introduces risk for developers due to the potential for account-wide repercussions. Some users have also reported being charged for access despite account restrictions.</p><p><img src="https://pbs.twimg.com/media/HRQYTZ4agAAljEH?format=webp&name=medium" /></p><hr/><small>6 Sep 2026, 22:03 UTC | #20087</small>]]></content>
   </entry>
-  <entry>
-    <title>Nitter Project to Continue Following X Corp. Cease and Desist</title>
-    <link href="https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3" rel="alternate" />
-    <id>https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3::v238</id>
-    <published>2026-09-06T18:33:00+00:00</published>
-    <updated>2026-09-06T18:33:00+00:00</updated>
-    <media:thumbnail url="https://legaldocstemplates.com/wp-content/uploads/graphics/previews/cease-and-desist-notice-form.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3">github.com</a> | <a href="https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project">discussion</a> | <a href="https://news.ycombinator.com/item?id=49588988">hacker news</a></small></p><hr/><p>X Corp. issued cease and desist letters on August 24, 2026, demanding the permanent removal of the Nitter repository and its various active instances. Following legal advice, the Nitter project team has announced that the project will proceed with development.</p><p>Nitter is a privacy-oriented, open-source alternative front-end for Twitter that uses the platform's unofficial API to provide an ad-free, lightweight user experience. Development had been temporarily paused while the team sought legal counsel to address the claims made by X Corp.</p><p><img src="https://legaldocstemplates.com/wp-content/uploads/graphics/previews/cease-and-desist-notice-form.webp" /></p><hr/><small>6 Sep 2026, 21:37 UTC | #20305</small>]]></content>
-  </entry>
 </feed>
