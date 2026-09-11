@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-11T10:16:00+00:00</updated>
+  <updated>2026-09-11T10:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Gleam Gathering 2027 Announced for London</title>
+    <link href="https://gleamgathering.com/" rel="alternate" />
+    <id>https://gleamgathering.com/::v239</id>
+    <published>2026-09-11T10:17:00+00:00</published>
+    <updated>2026-09-11T10:17:00+00:00</updated>
+    <media:thumbnail url="https://www.datocms-assets.com/55475/1772215918-gleam-gathering-2026-lofi-audience.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://gleamgathering.com/">gleamgathering.com</a> | <a href="https://lobste.rs/s/y3teyg/gleam_gathering_2027">discussion</a></small></p><hr/><p>The Gleam Gathering 2027 conference is scheduled for February 27, 2027, in London at 44 Hallam Street. The event will feature technical presentations, lightning talks, and networking sessions for the Gleam programming language community.</p><p>Organizers are currently accepting proposals for 30- or 45-minute technical talks, with a submission deadline of October 14, 2026. The agenda aims to highlight real-world applications and novel approaches to using Gleam in production.</p><p><img src="https://www.datocms-assets.com/55475/1772215918-gleam-gathering-2026-lofi-audience.jpg" /></p><hr/><small>11 Sep 2026, 13:17 UTC | #20816</small>]]></content>
+  </entry>
   <entry>
     <title>T-Mobile Announces Availability and Deals for New Apple Lineup</title>
     <link href="https://www.t-mobile.com/news/devices/iphone-18-pro-iphone-duo-apple-watch-release" rel="alternate" />
