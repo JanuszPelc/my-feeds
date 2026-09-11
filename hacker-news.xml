@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T17:13:00+00:00</updated>
+  <updated>2026-09-10T18:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Jim Nielsen Labels Cable Box Following Social Media Post</title>
+    <link href="https://blog.jim-nielsen.com/2026/hands-off-my-cables/" rel="alternate" />
+    <id>https://blog.jim-nielsen.com/2026/hands-off-my-cables/::v238</id>
+    <published>2026-09-10T18:01:00+00:00</published>
+    <updated>2026-09-10T18:01:00+00:00</updated>
+    <media:thumbnail url="https://cdn.jim-nielsen.com/blog/2026/cables.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.jim-nielsen.com/2026/hands-off-my-cables/">blog.jim-nielsen.com</a> | <a href="https://news.ycombinator.com/item?id=49645393">hacker news</a></small></p><hr/><p>A social media post by Tyler Gaw has inspired Jim Nielsen to label his family's technology cable box. This action follows the observation that cables often become necessary unexpectedly, even after being stored for many years.</p><p>A supply of miscellaneous technology cables provides practical utility for unforeseen technical requirements. The labeling of the "FAMILY TECHNO BOX" acts as a warning to prevent the accidental disposal of these items.</p><p><img src="https://cdn.jim-nielsen.com/blog/2026/cables.jpg" /></p><hr/><small>11 Sep 2026, 00:05 UTC | #20779</small>]]></content>
+  </entry>
   <entry>
     <title>Hitachi Launches Solar-Friendly EcoCute CO2 Heat Pump Water Heaters</title>
     <link href="https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/" rel="alternate" />
@@ -1047,23 +1056,5 @@
     <updated>2026-09-06T00:11:00+00:00</updated>
     <media:thumbnail url="https://www.thewindowsclub.com/wp-content/uploads/2026/06/Clear-cookies-and-site-data-when-you-quit-Chrome-missing.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lapcatsoftware.com/articles/2026/9/1.html">lapcatsoftware.com</a> | <a href="https://news.ycombinator.com/item?id=49581870">hacker news</a></small></p><hr/><p>Google Chrome version 152.0.7977.83 appears to exempt `google.com` from the user setting that automatically deletes site data when the browser is closed. Testing on multiple Macs demonstrated that even when not signed into a Google account and using a different default search engine, data for `google.com` persists in cookies and local storage after restarting the browser.</p><p>This behavior replicates a similar bug reported six years ago that Google eventually patched. The current issue persists even when site data and permissions for `google.com` are manually deleted through the browser settings.</p><p><img src="https://www.thewindowsclub.com/wp-content/uploads/2026/06/Clear-cookies-and-site-data-when-you-quit-Chrome-missing.jpg" /></p><hr/><small>6 Sep 2026, 05:45 UTC | #20276</small>]]></content>
-  </entry>
-  <entry>
-    <title>Learn Programming with OCaml English Translation Available</title>
-    <link href="https://usr.lmf.cnrs.fr/lpo/" rel="alternate" />
-    <id>https://usr.lmf.cnrs.fr/lpo/::v238</id>
-    <published>2026-09-06T00:08:00+00:00</published>
-    <updated>2026-09-06T00:08:00+00:00</updated>
-    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/823266787/original/2385a3da89/1?v=1" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://usr.lmf.cnrs.fr/lpo/">usr.lmf.cnrs.fr</a> | <a href="https://news.ycombinator.com/item?id=49578280">hacker news</a></small></p><hr/><p>An English translation of Sylvain Conchon and Jean-Christophe Filliâtre's book on the OCaml programming language is available. Funded by the OCaml Software Foundation and translated by Urmila Nair, the text provides an English-language version of the authors' original French work.</p><p>The textbook is intended for students, teachers, and programmers, focusing on the use of OCaml for algorithms and data structures. The book is released under a CC BY SA 4.0 license in PDF and EPUB formats, with accompanying code hosted on GitHub.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/823266787/original/2385a3da89/1?v=1" /></p><hr/><small>6 Sep 2026, 04:43 UTC | #20272</small>]]></content>
-  </entry>
-  <entry>
-    <title>Cloud in a Bottle Launches Personal Cloud Platform</title>
-    <link href="https://cloudinabottle.org/blog/launch-post" rel="alternate" />
-    <id>https://cloudinabottle.org/blog/launch-post::v238</id>
-    <published>2026-09-06T00:04:00+00:00</published>
-    <updated>2026-09-06T00:04:00+00:00</updated>
-    <media:thumbnail url="https://cloudinabottle.org/blog/images/dashboard_screenshot.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://cloudinabottle.org/blog/launch-post">cloudinabottle.org</a> | <a href="https://news.ycombinator.com/item?id=49582000">hacker news</a></small></p><hr/><p>Cloud in a Bottle is an open-source platform designed to make self-hosting as intuitive as using a smartphone. The system uses a web dashboard to run rootless, hardened containers on Ubuntu, providing unified authentication and a curated catalog of web applications to reduce the technical complexity of managing a personal server.</p><p>Supported by Imbue, the platform is available for self-hosting on local hardware or virtual machines, as well as through a managed service. The project aims to provide a private, decentralized alternative to centralized cloud services by facilitating the use of open-source web software.</p><p><img src="https://cloudinabottle.org/blog/images/dashboard_screenshot.webp" /></p><hr/><small>6 Sep 2026, 03:52 UTC | #20271</small>]]></content>
   </entry>
 </feed>
