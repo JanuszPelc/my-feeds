@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-11T10:22:00+00:00</updated>
+  <updated>2026-09-11T10:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>WebGPU Shader Can Freeze macOS via Untrusted Websites</title>
+    <link href="https://auberon.xyz/blog/posts/deathray/" rel="alternate" />
+    <id>https://auberon.xyz/blog/posts/deathray/::v239</id>
+    <published>2026-09-11T10:27:00+00:00</published>
+    <updated>2026-09-11T10:27:00+00:00</updated>
+    <media:thumbnail url="https://uploads-us-west-2.insided.com/adobedme-en/attachment/12fcb92c-6940-4179-9cb3-e8fb5ee0b619.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://auberon.xyz/blog/posts/deathray/">auberon.xyz</a> | <a href="https://lobste.rs/s/l0sqnt/untrusted_site_can_freeze_mac_using">discussion</a> | <a href="https://news.ycombinator.com/item?id=49649124">hacker news</a></small></p><hr/><p>A WebGPU compute shader on an untrusted website can hang a Mac's graphics, rendering the desktop UI unresponsive and requiring a forced restart. The issue is reproducible in Chrome, Firefox, and Safari on macOS but does not affect other operating systems.</p><p>The exploit creates an infinite loop in a compute shader that causes a GPU pileup, preventing the WindowServer from responding and eventually triggering a kernel panic via a system watchdog. Apple has declined to classify this behavior as a security vulnerability, asserting that system hangs and crashes do not constitute security issues.</p><p><img src="https://uploads-us-west-2.insided.com/adobedme-en/attachment/12fcb92c-6940-4179-9cb3-e8fb5ee0b619.png" /></p><hr/><small>11 Sep 2026, 14:00 UTC | #20838</small>]]></content>
+  </entry>
   <entry>
     <title>Jujutsu (jj) Version Control Usage and Experience</title>
     <link href="https://laurmaedje.github.io/posts/jj/" rel="alternate" />

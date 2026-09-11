@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-11T10:20:00+00:00</updated>
+  <updated>2026-09-11T10:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Bitlantis Updates Kveik MIDI Step Sequencer to v1.2.3</title>
+    <link href="https://www.kvraudio.com/news/bitlantis-updates-kveik-midi-step-sequencer-to-v1-2-3-vst3-and-au-68487?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68487" rel="alternate" />
+    <id>https://www.kvraudio.com/news/bitlantis-updates-kveik-midi-step-sequencer-to-v1-2-3-vst3-and-au-68487?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68487::v239</id>
+    <published>2026-09-11T10:24:00+00:00</published>
+    <updated>2026-09-11T10:24:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/mainscreen.1788805988.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/bitlantis-updates-kveik-midi-step-sequencer-to-v1-2-3-vst3-and-au-68487?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68487">kvraudio.com</a> | <a href="https://www.kveik.ch/">source</a></small></p><hr/><p>Bitlantis has released version 1.2.3 of Kveik, its MIDI step sequencer plugin for VST3 and AU formats. The update incorporates melodic features from the 1.2 release—including per-track scales and a new chord lane—alongside bug fixes and improved host support for applications like Studio One and FL Studio.</p><p>Key improvements include support for all 16 MIDI channels in Studio One, track reordering, and host-parameter mute and solo controls. Kveik is available for macOS and Windows for a one-time fee of $49, with free upgrades for current owners and a 14-day trial available.</p><p><img src="https://static.kvraudio.com/i/b/mainscreen.1788805988.jpg" /></p><hr/><small>11 Sep 2026, 13:54 UTC | #20801</small>]]></content>
+  </entry>
   <entry>
     <title>Oxo Music Releases Oxo Steps Free Step Sequencer for macOS</title>
     <link href="https://www.kvraudio.com/news/oxo-music-releases-oxo-steps---free-step-sequencer-and-arpeggiator-for-macos-vst3-and-au-68474?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68474" rel="alternate" />
