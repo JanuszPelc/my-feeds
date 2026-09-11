@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T13:17:00+00:00</updated>
+  <updated>2026-09-11T13:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>TikTok Rejects Meta Ads Calling for Industry-Wide Settlement</title>
+    <link href="https://www.axios.com/2026/09/11/tiktok-meta-ads-children-safety-settlement" rel="alternate" />
+    <id>https://www.axios.com/2026/09/11/tiktok-meta-ads-children-safety-settlement::v239</id>
+    <published>2026-09-11T13:24:00+00:00</published>
+    <updated>2026-09-11T13:24:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1V7kq0.img?w=792&amp;h=528&amp;m=4&amp;q=89" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/11/tiktok-meta-ads-children-safety-settlement">axios.com</a></small></p><hr/><p>TikTok has refused to host Meta advertisements that pressure the platform and other tech companies to join a legal settlement with U.S. state attorneys general. The proposed settlement is part of a landmark lawsuit regarding child safety on social media.</p><p>The Meta-placed ads seek to persuade competitors to align with Meta's legal stance in the multi-state litigation. This development underscores the growing legal and regulatory friction between major tech companies as they navigate intense scrutiny over platform safety and user protection.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1V7kq0.img?w=792&h=528&m=4&q=89" /></p><hr/><small>11 Sep 2026, 16:37 UTC | #20813</small>]]></content>
+  </entry>
   <entry>
     <title>AI and the Decline of Research Collaboration</title>
     <link href="https://www.researchagenda.news/articles/the-waymo-effect.html" rel="alternate" />

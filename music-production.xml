@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-11T13:21:00+00:00</updated>
+  <updated>2026-09-11T13:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>GSi Updates Piano Studio to v1.1.0</title>
+    <link href="https://www.kvraudio.com/news/gsi-updates-piano-studio-to-v1-1-0-68499?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68499" rel="alternate" />
+    <id>https://www.kvraudio.com/news/gsi-updates-piano-studio-to-v1-1-0-68499?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68499::v239</id>
+    <published>2026-09-11T13:26:00+00:00</published>
+    <updated>2026-09-11T13:26:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/pianostudio01.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/gsi-updates-piano-studio-to-v1-1-0-68499?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68499">kvraudio.com</a> | <a href="https://www.genuinesoundware.com/?a=showproduct&b=75">source</a></small></p><hr/><p>GSi has released version 1.1.0 of its physically modeled grand piano plugin, Piano Studio. The update enhances the core physical model to provide increased dynamic response, more stable tails, and reduced chorus-like transients during attack phases.</p><p>Additional improvements include refined microphone and preamplifier responses, a global output level control, and a new "Half Pedal" option to support continuous sustain via piano controllers. The release also features an enhanced MIDIFile viewer, a progress bar for WAV rendering, and stability fixes for the iPad version's EQ editor.</p><p><img src="https://static.kvraudio.com/i/b/pianostudio01.png" /></p><hr/><small>11 Sep 2026, 16:40 UTC | #20826</small>]]></content>
+  </entry>
+  <entry>
+    <title>Amplimood Releases Free Gazer FX Shoegaze Multi-Effect Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/09/11/amplimood-gazer-fx/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/11/amplimood-gazer-fx/::v239</id>
+    <published>2026-09-11T13:25:00+00:00</published>
+    <updated>2026-09-11T13:25:00+00:00</updated>
+    <media:thumbnail url="https://projectofnapskint.com/wp-content/uploads/2026/05/20260516STAR-GAZER-BUNDLE-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/11/amplimood-gazer-fx/">bedroomproducersblog.com</a> | <a href="https://amplimood.com/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/11/amplimood-gazer-fx/#respond">discussion</a></small></p><hr/><p>Gazer FX is a 64-bit multi-effect plugin designed for shoegaze music production. It is compatible with macOS and Windows in VST3 and AU formats, and requires an email signup for download.</p><p>The plugin provides various effects intended to create the atmospheric textures characteristic of the shoegaze genre within a digital audio workstation.</p><p><img src="https://projectofnapskint.com/wp-content/uploads/2026/05/20260516STAR-GAZER-BUNDLE-1.jpg" /></p><hr/><small>11 Sep 2026, 16:39 UTC | #20835</small>]]></content>
+  </entry>
   <entry>
     <title>Q-Audio Releases Magik Mastering for Windows and macOS</title>
     <link href="https://www.kvraudio.com/news/q-audio-releases-magik-mastering-application-for-windows-and-macos-68498?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68498" rel="alternate" />
