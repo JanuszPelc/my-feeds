@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Mastodon Server Disables Automated Signups to Combat Spam</title>
+    <link href="https://tante.cc/2026/09/10/making-social-media-social/" rel="alternate" />
+    <id>https://tante.cc/2026/09/10/making-social-media-social/::v238</id>
+    <published>2026-09-11T06:27:00+00:00</published>
+    <updated>2026-09-11T06:27:00+00:00</updated>
+    <media:thumbnail url="https://imagedelivery.net/LqiWLm-3MGbYHtFuUbcBtA/wp-content/uploads/sites/2/2024/08/mastodon-account-account-settings-selected.png/public" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://tante.cc/2026/09/10/making-social-media-social/">tante.cc</a> | <a href="https://lobste.rs/s/39c9xe/making_social_media_social">discussion</a></small></p><hr/><p>The administrator of the Mastodon server tldr.nettime.org has replaced automated account creation with a manual, email-based request system to combat a surge in spam bots. This requirement for prospective users to provide personal context and community interest has effectively eliminated spam while facilitating direct human interaction during onboarding.</p><p>Although the manual process is not scalable for large-scale servers, the author argues it fosters more connected, community-oriented social environments. The shift transformed the moderation task from a technical struggle against bots into a way to welcome new members through direct communication.</p><p><img src="https://imagedelivery.net/LqiWLm-3MGbYHtFuUbcBtA/wp-content/uploads/sites/2/2024/08/mastodon-account-account-settings-selected.png/public" /></p><hr/><small>11 Sep 2026, 09:45 UTC | #20811</small>]]></content>
+  </entry>
+  <entry>
     <title>OpenAI Seeks Legal Guidance on Industry-Wide AI Slowdown</title>
     <link href="https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/" rel="alternate" />
     <id>https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/::v238</id>
