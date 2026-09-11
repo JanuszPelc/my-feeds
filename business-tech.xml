@@ -3,7 +3,7 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T02:50:00+00:00</updated>
+  <updated>2026-09-11T08:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
@@ -11,9 +11,9 @@
     <link href="https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/" rel="alternate" />
     <id>https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/::v238</id>
     <published>2026-09-11T02:50:00+00:00</published>
-    <updated>2026-09-11T02:50:00+00:00</updated>
+    <updated>2026-09-11T08:41:00+00:00</updated>
     <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TjQJ8.img?w=768&amp;h=432&amp;m=6&amp;x=438&amp;y=402&amp;s=107&amp;d=107" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/">wired.com</a></small></p><hr/><p>OpenAI is requesting guidance from Congress regarding the legality of coordinating an industry-wide slowdown in frontier AI development. While Chief Scientist Jakub Pachocki has proposed voluntary slowdowns to establish shared safety standards, legal scholars warn that such coordination could violate the Sherman Antitrust Act by functioning as an illegal restriction on market output.</p><p>The proposed "Collaboration on Adversarial Threats and Security Risks Act" aims to permit safety-focused collaboration among AI labs without the risk of antitrust litigation. However, some industry leaders argue that antitrust concerns may serve as a pretext for companies to avoid cooperation and maintain competitive advantages in the rapidly evolving AI market.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TjQJ8.img?w=768&h=432&m=6&x=438&y=402&s=107&d=107" /></p><hr/><small>11 Sep 2026, 08:25 UTC | #20783</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=49652270">hacker news</a></small></p><hr/><p>OpenAI is requesting guidance from Congress regarding the legality of coordinating an industry-wide slowdown in frontier AI development. While Chief Scientist Jakub Pachocki has proposed voluntary slowdowns to establish shared safety standards, legal scholars warn that such coordination could violate the Sherman Antitrust Act by functioning as an illegal restriction on market output.</p><p>The proposed "Collaboration on Adversarial Threats and Security Risks Act" aims to permit safety-focused collaboration among AI labs without the risk of antitrust litigation. However, some industry leaders argue that antitrust concerns may serve as a pretext for companies to avoid cooperation and maintain competitive advantages in the rapidly evolving AI market.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TjQJ8.img?w=768&h=432&m=6&x=438&y=402&s=107&d=107" /></p><hr/><small>11 Sep 2026, 08:25 UTC | #20783</small>]]></content>
   </entry>
   <entry>
     <title>YC Spring 2026 Batch Shows Declining Native Mobile App Focus as Startups Pivot to AI</title>
