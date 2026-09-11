@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-11T13:23:00+00:00</updated>
+  <updated>2026-09-11T17:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Fields Medalists Issue Declaration on AI and Mathematical Research</title>
+    <link href="https://mathandai.org/" rel="alternate" />
+    <id>https://mathandai.org/::v239</id>
+    <published>2026-09-11T17:46:00+00:00</published>
+    <updated>2026-09-11T17:46:00+00:00</updated>
+    <media:thumbnail url="https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/08/02/Pictures/brazil-science-mathematics-awards_58697f10-95f7-11e8-bd6f-c32900bc590c.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mathandai.org/">mathandai.org</a> | <a href="https://news.ycombinator.com/item?id=49662371">hacker news</a></small></p><hr/><p>A group of prominent mathematicians, including several Fields Medalists, has issued a declaration warning that AI development goals are increasingly misaligned with the objectives of the mathematical community. The signatories argue that using AI to solve major mathematical problems as benchmarks prioritizes the rapid production of answers over the deep conceptual understanding and slow, human-led processes required to integrate new ideas into the mathematical canon.</p><p>The declaration identifies risks including the erosion of attribution, the disruption of human knowledge transmission, and the potential for AI to undermine the developmental stages of scientific inquiry. The authors call for urgent dialogue between AI companies, the mathematical community, and society to ensure that these technologies enhance, rather than replace, the fundamental processes of intellectual work.</p><p><img src="https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/08/02/Pictures/brazil-science-mathematics-awards_58697f10-95f7-11e8-bd6f-c32900bc590c.jpg" /></p><hr/><small>11 Sep 2026, 20:26 UTC | #20876</small>]]></content>
+  </entry>
   <entry>
     <title>Music Theory for the 21st-Century Classroom Textbook Available</title>
     <link href="https://musictheory.pugetsound.edu/mt21c/MusicTheory.html" rel="alternate" />

@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Anthropic Reports Yemen Group Used Claude for Missile Guidance Software</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-yemen-group-used-claude-in-missile-development" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-yemen-group-used-claude-in-missile-development::v239</id>
+    <published>2026-09-11T14:52:00+00:00</published>
+    <updated>2026-09-11T14:52:00+00:00</updated>
+    <media:thumbnail url="https://netnordic.com/app/uploads/2026/01/EOTY-TI-2025-open-–-insights-social-media-1024x1024.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-yemen-group-used-claude-in-missile-development">bloomberg.com</a> | <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">source</a> | <a href="https://news.ycombinator.com/item?id=49647300">hacker news</a></small></p><hr/><p>Anthropic has disclosed that a weapons engineering cell in northern Yemen used its Claude AI model to develop guidance, navigation, and control software for missiles and rockets. The group reportedly utilized Claude Code to streamline development, assigning different model instances specific roles to act in place of human software engineers.</p><p>Work conducted by the cell included development for a multi-stage ballistic missile with a projected range exceeding 2,000 kilometers and a missile family known as "R2000," which includes a hypersonic glide vehicle variant. Anthropic's September 2026 threat intelligence report indicates the company disrupted these operations as part of its ongoing efforts to detect and counter the misuse of its AI models.</p><p><img src="https://netnordic.com/app/uploads/2026/01/EOTY-TI-2025-open-–-insights-social-media-1024x1024.jpg" /></p><hr/><small>11 Sep 2026, 20:21 UTC | #20837</small>]]></content>
+  </entry>
+  <entry>
     <title>OpenAI Withdraws Sponsorship from Caltech Math Hackathon</title>
     <link href="https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9" rel="alternate" />
     <id>https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9::v239</id>
