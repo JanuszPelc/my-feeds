@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T23:13:00+00:00</updated>
+  <updated>2026-09-11T02:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>JEP 544: Ahead-of-Time Code Compilation</title>
+    <link href="https://openjdk.org/jeps/544" rel="alternate" />
+    <id>https://openjdk.org/jeps/544::v238</id>
+    <published>2026-09-11T02:51:00+00:00</published>
+    <updated>2026-09-11T02:51:00+00:00</updated>
+    <media:thumbnail url="https://andrewbaker.ninja/wp-content/uploads/2025/12/JavaAOTCache.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://openjdk.org/jeps/544">openjdk.org</a> | <a href="https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation">discussion</a> | <a href="https://news.ycombinator.com/item?id=49647404">hacker news</a></small></p><hr/><p>JEP 544 introduces a mechanism to improve Java application startup and warmup times by storing optimized native code in an AOT (Ahead-of-Time) cache during training runs. By utilizing this cache in production, the HotSpot JVM can load and execute highly optimized native code immediately, reducing the time spent in the bytecode interpreter and the initial, less-optimized stages of JIT compilation.</p><p>The implementation extends existing AOT cache workflows to include native code while maintaining full compatibility with current garbage collectors and the dynamic nature of the Java platform. Because AOT and JIT code are interoperable, the JVM can seamlessly transition between cached code and dynamically reoptimized code if an application's workload changes, providing the rapid startup of static compilation with the runtime agility of dynamic compilation.</p><p><img src="https://andrewbaker.ninja/wp-content/uploads/2025/12/JavaAOTCache.jpeg" /></p><hr/><small>11 Sep 2026, 08:28 UTC | #20800</small>]]></content>
+  </entry>
   <entry>
     <title>Python Soft-Deprecates re.match() in Favor of re.prefixmatch()</title>
     <link href="https://hugovk.dev/blog/2026/soft-deprecating-re.match/" rel="alternate" />
