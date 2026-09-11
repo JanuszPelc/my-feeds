@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-11T17:48:00+00:00</updated>
+  <updated>2026-09-11T18:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Forgejo Releases Security Fixes for Critical Remote Code Execution Vulnerability</title>
+    <link href="https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md" rel="alternate" />
+    <id>https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md::v239</id>
+    <published>2026-09-11T18:07:00+00:00</published>
+    <updated>2026-09-11T18:07:00+00:00</updated>
+    <media:thumbnail url="https://cdn.invicti.com/app/uploads/2022/03/18112453/learn_diagram_remote_code_execution_rce.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md">codeberg.org</a> | <a href="https://lobste.rs/s/b3cqyr/forgejo_16_0_4_has_critical_security_bug">discussion</a> | <a href="https://news.ycombinator.com/item?id=49645907">hacker news</a></small></p><hr/><p>Forgejo has released versions 16.0.4 and 15.0.8 to address a critical remote code execution (RCE) vulnerability. The flaw is triggered during the creation of new repositories from templates, where improper variable template expansion can allow for arbitrary code execution.</p><p>The security patches resolve the issue within the repository cloning and expansion processes. Users are encouraged to update to the latest versions to mitigate the risk of unauthorized code execution on their Forgejo instances.</p><p><img src="https://cdn.invicti.com/app/uploads/2022/03/18112453/learn_diagram_remote_code_execution_rce.png" /></p><hr/><small>11 Sep 2026, 22:53 UTC | #20773</small>]]></content>
+  </entry>
   <entry>
     <title>CHERIoT Achieves Memory Isolation Without an MMU</title>
     <link href="https://queue.acm.org/doi/10.1145/3831361" rel="alternate" />
