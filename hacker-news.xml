@@ -1048,22 +1048,4 @@
     <media:thumbnail url="https://runtimewire.com/og/anubis-webassembly-proof-of-work-xe-iaso.16x9.jpg?v=og2-1b68lr3" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://anubis.techaro.lol/blog/2026/anubis-wasm/">anubis.techaro.lol</a> | <a href="https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis">discussion</a> | <a href="https://news.ycombinator.com/item?id=49590611">hacker news</a></small></p><hr/><p>Anubis is integrating WebAssembly (WASM) to handle its proof-of-work (PoW) protection checks. Developed over a year and involving a Rust-based rewrite of parts of the codebase, the upcoming version will allow administrators to enable WASM-based PoW within bot rules and thresholds.</p><p>The implementation utilizes Rust code compiled to WebAssembly and supports hardware acceleration via SIMD on compatible browsers. This update is designed to improve the performance and compatibility of the PoW challenges used to mitigate bot and scraper activity.</p><p><img src="https://runtimewire.com/og/anubis-webassembly-proof-of-work-xe-iaso.16x9.jpg?v=og2-1b68lr3" /></p><hr/><small>6 Sep 2026, 23:49 UTC | #20310</small>]]></content>
   </entry>
-  <entry>
-    <title>Asahi Linux Adds Official Support for Apple M3 Macs</title>
-    <link href="https://www.phoronix.com/news/Asahi-Linux-Official-M3" rel="alternate" />
-    <id>https://www.phoronix.com/news/Asahi-Linux-Official-M3::v238</id>
-    <published>2026-09-06T14:49:00+00:00</published>
-    <updated>2026-09-06T14:49:00+00:00</updated>
-    <media:thumbnail url="https://byteiota.com/wp-content/uploads/2026/04/featured-image-235-800x400.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.phoronix.com/news/Asahi-Linux-Official-M3">phoronix.com</a> | <a href="https://asahilinux.org/2026/09/m2-episode-1/">source</a> | <a href="https://news.ycombinator.com/item?id=49586698">hacker news</a></small></p><hr/><p>Asahi Linux developers have announced official support for Apple M3 series SoCs, including the M3, M3 Pro, and M3 Max, though the Mac Studio M3 Ultra is currently excluded. This expansion brings M3 hardware support to a state of functionality comparable to the previous M1 and M2 generations.</p><p>Current limitations include non-performant 3D GPU acceleration and a lack of sleep support due to missing Display Co-Processor (DCP) support, which also renders the HDMI port on M3 MacBooks non-functional. Developers intend to improve GPU performance in the coming months as they work to upstream necessary patches to the mainline Linux kernel.</p><p><img src="https://byteiota.com/wp-content/uploads/2026/04/featured-image-235-800x400.jpg" /></p><hr/><small>6 Sep 2026, 20:19 UTC | #20307</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rich Hickey on the Distinction Between Simplicity and Easiness</title>
-    <link href="https://www.youtube.com/watch?v=SxdOUGdseq4" rel="alternate" />
-    <id>https://www.youtube.com/watch?v=SxdOUGdseq4::v238</id>
-    <published>2026-09-06T14:47:00+00:00</published>
-    <updated>2026-09-06T14:47:00+00:00</updated>
-    <media:thumbnail url="https://storage.googleapis.com/zenn-user-upload/c395852761c5-20251127.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=SxdOUGdseq4">youtube.com</a> | <a href="https://lobste.rs/s/xccvnw/simple_made_easy_2011">discussion</a></small></p><hr/><p>"Simple" systems are defined as unentangled and lacking interleaved concerns, whereas "easy" systems are characterized by familiarity and convenience. Software complexity arises when different dimensions of a problem are "braided" together, a process that hinders the ability to reason about individual components in isolation.</p><p>The talk examines the tension in software engineering where developers and businesses often prioritize "easiness," such as developer convenience or ease of personnel replacement. Hickey contends that prioritizing familiarity over structural simplicity compromises long-term reliability and maintainability, as true simplicity is required to manage evolving requirements and effectively debug software artifacts.</p><p><img src="https://storage.googleapis.com/zenn-user-upload/c395852761c5-20251127.png" /></p><hr/><small>6 Sep 2026, 19:28 UTC | #20304</small>]]></content>
-  </entry>
 </feed>
