@@ -1065,22 +1065,4 @@
     <media:thumbnail url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q5utj7fz5pcnfgf1jnsr.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://aleyan.com/projects/python-iceberg/">aleyan.com</a> | <a href="https://lobste.rs/s/xv6z4r/python_iceberg">discussion</a></small></p><hr/><p>Python Iceberg is an interactive project that explores the obscure implementation details, oddities, and common pitfalls of the Python programming language. It provides a visual and interactive descent into the language's less-documented mechanics.</p><p>The guide focuses on "footguns"—coding patterns that appear safe but lead to unexpected or problematic behavior—as well as the nuanced behaviors of the Python interpreter. It is part of a collection of interactive web projects created by Alex Yankov.</p><p><img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q5utj7fz5pcnfgf1jnsr.png" /></p><hr/><small>7 Sep 2026, 06:06 UTC | #20321</small>]]></content>
   </entry>
-  <entry>
-    <title>Ignoring Everything by Default in .gitignore</title>
-    <link href="https://packagemain.tech/p/gitignore-everything-by-default" rel="alternate" />
-    <id>https://packagemain.tech/p/gitignore-everything-by-default::v238</id>
-    <published>2026-09-06T20:44:00+00:00</published>
-    <updated>2026-09-06T20:44:00+00:00</updated>
-    <media:thumbnail url="https://lter.github.io/workshop-github/images/ignore/positron-04_ignore-unsaved.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://packagemain.tech/p/gitignore-everything-by-default">packagemain.tech</a> | <a href="https://news.ycombinator.com/item?id=49576258">hacker news</a></small></p><hr/><p>A "deny-all" strategy for .gitignore files involves using a wildcard to ignore all files and negation patterns to explicitly allow only essential files, such as source code, documentation, and module files. This approach ensures that only intended items are tracked in a version control system.</p><p>This method helps prevent accidental commits of local metadata, IDE-specific files, or sensitive environment variables. For debugging, the `git check-ignore -v` command can verify if a specific path is being excluded by the current rules.</p><p><img src="https://lter.github.io/workshop-github/images/ignore/positron-04_ignore-unsaved.png" /></p><hr/><small>7 Sep 2026, 00:44 UTC | #20313</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anubis Integrates WebAssembly for Proof-of-Work Checks</title>
-    <link href="https://anubis.techaro.lol/blog/2026/anubis-wasm/" rel="alternate" />
-    <id>https://anubis.techaro.lol/blog/2026/anubis-wasm/::v238</id>
-    <published>2026-09-06T20:42:00+00:00</published>
-    <updated>2026-09-06T20:42:00+00:00</updated>
-    <media:thumbnail url="https://runtimewire.com/og/anubis-webassembly-proof-of-work-xe-iaso.16x9.jpg?v=og2-1b68lr3" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://anubis.techaro.lol/blog/2026/anubis-wasm/">anubis.techaro.lol</a> | <a href="https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis">discussion</a> | <a href="https://news.ycombinator.com/item?id=49590611">hacker news</a></small></p><hr/><p>Anubis is integrating WebAssembly (WASM) to handle its proof-of-work (PoW) protection checks. Developed over a year and involving a Rust-based rewrite of parts of the codebase, the upcoming version will allow administrators to enable WASM-based PoW within bot rules and thresholds.</p><p>The implementation utilizes Rust code compiled to WebAssembly and supports hardware acceleration via SIMD on compatible browsers. This update is designed to improve the performance and compatibility of the PoW challenges used to mitigate bot and scraper activity.</p><p><img src="https://runtimewire.com/og/anubis-webassembly-proof-of-work-xe-iaso.16x9.jpg?v=og2-1b68lr3" /></p><hr/><small>6 Sep 2026, 23:49 UTC | #20310</small>]]></content>
-  </entry>
 </feed>
