@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-10T22:00:00+00:00</updated>
+  <updated>2026-09-11T13:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Andy Balaam Reflects on AI's Impact on Programmer Identity</title>
+    <link href="https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/" rel="alternate" />
+    <id>https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/::v239</id>
+    <published>2026-09-11T13:16:00+00:00</published>
+    <updated>2026-09-11T13:16:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQFXIdONg35CVQ/article-cover_image-shrink_600_2000/B4DZokmihsHYAQ-/0/1761550675334?e=2147483647&amp;v=beta&amp;t=s12EgvHGMfhJyqCgLB91t-GlCzgjymdGcl03WUaz99M" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/">artificialworlds.net</a> | <a href="https://lobste.rs/s/7guove/feeling_sad_about_ai">discussion</a></small></p><hr/><p>AI's rapid advancement has triggered a sense of sadness and lost professional identity for Andy Balaam. He views the industry's shift toward treating programming as a commodity as a fundamental lack of respect for the craft.</p><p>The fundamental cognitive skills and deep technical knowledge required for programming are expected to remain vital even in an AI-integrated future. Developers and learners are encouraged to continue mastering complex systems and code internals to remain useful in the evolving market.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQFXIdONg35CVQ/article-cover_image-shrink_600_2000/B4DZokmihsHYAQ-/0/1761550675334?e=2147483647&v=beta&t=s12EgvHGMfhJyqCgLB91t-GlCzgjymdGcl03WUaz99M" /></p><hr/><small>11 Sep 2026, 15:45 UTC | #20840</small>]]></content>
+  </entry>
   <entry>
     <title>Decorrelation Stretch Technique Reveals Faded Ancient Images</title>
     <link href="https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images" rel="alternate" />

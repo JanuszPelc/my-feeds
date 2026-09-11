@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T13:12:00+00:00</updated>
+  <updated>2026-09-11T13:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI and the Decline of Research Collaboration</title>
+    <link href="https://www.researchagenda.news/articles/the-waymo-effect.html" rel="alternate" />
+    <id>https://www.researchagenda.news/articles/the-waymo-effect.html::v239</id>
+    <published>2026-09-11T13:17:00+00:00</published>
+    <updated>2026-09-11T13:17:00+00:00</updated>
+    <media:thumbnail url="https://so-development.org/wp-content/uploads/2026/01/waymo-ai-1024x576.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.researchagenda.news/articles/the-waymo-effect.html">researchagenda.news</a> | <a href="https://news.ycombinator.com/item?id=49656496">hacker news</a></small></p><hr/><p>The "Waymo effect" describes how technologies that remove the friction of human interaction—such as the conversational "tax" of a taxi ride—are perceived as pure gains, despite the loss of unchosen social connections. In research, large language models (LLMs) act as frictionless collaborators that provide immediate, low-effort outputs without the cognitive struggle and debate inherent in human partnership. This process, termed "decollaboration," threatens the social fabric of the scientific community as researchers opt for efficient, solitary AI interactions over complex human-led discussions.</p><p>Systemic incentives, including tightening research budgets and a focus on rapid publication velocity, make decollaboration a rational economic choice. While AI agents increase individual productivity, reducing "desirable difficulties"—the cognitive effort required for deep thinking and rigorous argument—limits the generation of diverse, original ideas. To avoid "passenger-in-comfort" science, research leaders must prioritize funding for the human-centric social infrastructure and collaborative friction essential to scientific discovery.</p><p><img src="https://so-development.org/wp-content/uploads/2026/01/waymo-ai-1024x576.webp" /></p><hr/><small>11 Sep 2026, 15:51 UTC | #20846</small>]]></content>
+  </entry>
   <entry>
     <title>Hacker News Users Debate the Prevalence of AI-Related Content</title>
     <link href="https://news.ycombinator.com/item?id=49657850" rel="alternate" />
