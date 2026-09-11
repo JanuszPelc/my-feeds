@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T19:54:00+00:00</updated>
+  <updated>2026-09-10T23:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Python Soft-Deprecates re.match() in Favor of re.prefixmatch()</title>
+    <link href="https://hugovk.dev/blog/2026/soft-deprecating-re.match/" rel="alternate" />
+    <id>https://hugovk.dev/blog/2026/soft-deprecating-re.match/::v238</id>
+    <published>2026-09-10T23:13:00+00:00</published>
+    <updated>2026-09-10T23:13:00+00:00</updated>
+    <media:thumbnail url="https://pynative.com/wp-content/uploads/2021/02/python-regex-match_object.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hugovk.dev/blog/2026/soft-deprecating-re.match/">hugovk.dev</a> | <a href="https://docs.python.org/3.15/deprecations/">source</a> | <a href="https://lobste.rs/s/u7dr96/soft_deprecating_re_match">discussion</a></small></p><hr/><p>Python 3.15 soft-deprecates the `re.match()` function in favor of a new `re.prefixmatch()` API to provide more explicit semantics for its behavior. While `re.match()` remains available to maintain backwards compatibility for existing codebases, the change follows PEP 387 guidelines, which discourage the use of the older method for new development.</p><p>The introduction of `re.prefixmatch()` aims to clarify the function's implicit start-of-string anchoring, distinguishing it clearly from `re.search()`, which matches anywhere, and `re.fullmatch()`, which anchors to both the start and end of a string. Developers can use the Ruff linter to help identify and transition to the more explicit API within their projects.</p><p><img src="https://pynative.com/wp-content/uploads/2021/02/python-regex-match_object.jpg" /></p><hr/><small>11 Sep 2026, 06:27 UTC | #20797</small>]]></content>
+  </entry>
   <entry>
     <title>Declan Chidlow Explains His Custom HTML Boilerplate</title>
     <link href="https://vale.rocks/posts/html-boilerplate" rel="alternate" />
