@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-10T16:23:00+00:00</updated>
+  <updated>2026-09-10T19:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Meta's Muse AI Agent Reaches No. 2 in US App Store</title>
+    <link href="https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/::v238</id>
+    <published>2026-09-10T19:51:00+00:00</published>
+    <updated>2026-09-10T19:51:00+00:00</updated>
+    <media:thumbnail url="https://www.techbuzz.ai/cdn-cgi/image/width=1200,quality=85,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/large_file_830507936a.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/">techcrunch.com</a></small></p><hr/><p>Meta's AI agent, Muse, has reached the No. 2 position on the iOS App Store in the United States with over 83,000 downloads. While the app is climbing the iOS charts, its initial adoption rate is slower than previous Meta releases like Threads and competitors like ChatGPT.</p><p>On Google Play, the Android version of Muse currently ranks No. 338 in the Productivity category. The app's launch is part of Meta's strategic push into agentic AI, occurring amid competition from startups like Instinct and heightened scrutiny regarding user privacy.</p><p><img src="https://www.techbuzz.ai/cdn-cgi/image/width=1200,quality=85,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/large_file_830507936a.png" /></p><hr/><small>11 Sep 2026, 01:14 UTC | #20756</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Launches ChatGPT for Financial Services</title>
+    <link href="https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html::v238</id>
+    <published>2026-09-10T19:37:00+00:00</published>
+    <updated>2026-09-10T19:37:00+00:00</updated>
+    <media:thumbnail url="https://alpaca.markets/blog/content/images/2026/03/openai-Alpaca_v03.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html">cnbc.com</a> | <a href="https://openai.com/index/introducing-chatgpt-financial-services/">source</a> | <a href="https://news.ycombinator.com/item?id=49647281">hacker news</a></small></p><hr/><p>OpenAI has released ChatGPT for Financial Services, a specialized version of ChatGPT Work powered by the GPT-6 Astra model. Designed for investment bankers and equity researchers, the tool automates labor-intensive tasks such as company research, financial data analysis, and the generation of pitchbook presentations. The platform integrates native data access from providers like LSEG, Daloopa, and Pitchbook to facilitate streamlined workflows and auditable citations.</p><p>Developed in partnership with Morgan Stanley and Evercore, the product targets the foundational work typically performed by junior analysts and associates. While OpenAI positions the tool as a productivity enhancer similar to Microsoft Excel, the launch has prompted debate within Wall Street regarding the impact on the traditional apprenticeship model and the potential for "cognitive atrophy" in training the next generation of financiers.</p><p><img src="https://alpaca.markets/blog/content/images/2026/03/openai-Alpaca_v03.png" /></p><hr/><small>11 Sep 2026, 01:09 UTC | #20749</small>]]></content>
+  </entry>
   <entry>
     <title>Cognition Releases SWE-2 Coding Model</title>
     <link href="https://cognition.com/blog/swe-2" rel="alternate" />
