@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T14:25:00+00:00</updated>
+  <updated>2026-09-11T14:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Trump Administration to Lend $100 Million to Africell</title>
+    <link href="https://www.reuters.com/world/china/trump-administration-lend-100-million-africell-countering-huawei-africa-2026-09-11/" rel="alternate" />
+    <id>https://www.reuters.com/world/china/trump-administration-lend-100-million-africell-countering-huawei-africa-2026-09-11/::v239</id>
+    <published>2026-09-11T14:28:00+00:00</published>
+    <updated>2026-09-11T14:28:00+00:00</updated>
+    <media:thumbnail url="https://naija247news.com/wp-content/uploads/2026/09/64065C6A-DE23-4F2D-A5BA-FA1893EF926C-1392x928.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/china/trump-administration-lend-100-million-africell-countering-huawei-africa-2026-09-11/">reuters.com</a></small></p><hr/><p>The Trump administration is preparing a nearly $100 million loan for Africell, a U.S.-owned telecommunications firm. Facilitated through the Export-Import Bank, the funding aims to support investments in mobile network technology from American and allied suppliers.</p><p>This initiative is designed to counter the expansion of China's Huawei in Africa. By promoting alternative infrastructure, the U.S. seeks to reduce the region's reliance on Chinese-made telecommunications technology.</p><p><img src="https://naija247news.com/wp-content/uploads/2026/09/64065C6A-DE23-4F2D-A5BA-FA1893EF926C-1392x928.png" /></p><hr/><small>11 Sep 2026, 18:13 UTC | #20823</small>]]></content>
+  </entry>
   <entry>
     <title>Judge Dismisses Lawsuits Against LinkedIn Over Browser Extension Scanning</title>
     <link href="https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-11T10:27:00+00:00</updated>
+  <updated>2026-09-11T14:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Evergarden Color Scheme Inspired by Nature and The Minish Cap</title>
+    <link href="https://evergarden.moe/" rel="alternate" />
+    <id>https://evergarden.moe/::v239</id>
+    <published>2026-09-11T14:29:00+00:00</published>
+    <updated>2026-09-11T14:29:00+00:00</updated>
+    <media:thumbnail url="https://learn.microsoft.com/en-us/windows/terminal/images/campbell-color-scheme.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://evergarden.moe/">evergarden.moe</a> | <a href="https://lobste.rs/s/cegf7n/evergarden">discussion</a></small></p><hr/><p>Evergarden is a terminal color scheme inspired by lush forests, enchanted groves, and the art of The Legend of Zelda: The Minish Cap. It is designed for visual comfort during coding, writing, or terminal use.</p><p>The palette draws influence from the Everforest, Nord, and Catppuccin color schemes. The colors can be previewed in a terminal by executing a curl command.</p><p><img src="https://learn.microsoft.com/en-us/windows/terminal/images/campbell-color-scheme.png" /></p><hr/><small>11 Sep 2026, 18:17 UTC | #20861</small>]]></content>
+  </entry>
   <entry>
     <title>WebGPU Shader Can Freeze macOS via Untrusted Websites</title>
     <link href="https://auberon.xyz/blog/posts/deathray/" rel="alternate" />
