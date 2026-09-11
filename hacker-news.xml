@@ -1048,13 +1048,4 @@
     <media:thumbnail url="https://getnix.io/og-what-is-nix.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser">fzakaria.com</a> | <a href="https://lobste.rs/s/i9zp2x/any_nix_package_live_your_browser">discussion</a> | <a href="https://news.ycombinator.com/item?id=49583476">hacker news</a></small></p><hr/><p>Trynix allows users to execute Nix packages within a web browser by booting a Linux kernel in WebAssembly. The tool utilizes a Nix store in memory and a terminal emulator to provide a command-line interface for running binaries from the nixpkgs history directly in a browser tab.</p><p>The application achieves near-instant startup by using pre-booted VM snapshots and background pre-fetching. By leveraging binary caches that support CORS, such as GitHub Pages or Cachix, it allows users to run unlisted or custom store paths via a URL, enabling immediate testing of software versions or CI/CD artifacts.</p><p><img src="https://getnix.io/og-what-is-nix.png" /></p><hr/><small>6 Sep 2026, 11:05 UTC | #20280</small>]]></content>
   </entry>
-  <entry>
-    <title>uutils coreutils Introduces Compiler-Style Error Diagnostics</title>
-    <link href="https://uutils.org/blog/2026-08-error-diagnostics/" rel="alternate" />
-    <id>https://uutils.org/blog/2026-08-error-diagnostics/::v238</id>
-    <published>2026-09-06T00:55:00+00:00</published>
-    <updated>2026-09-06T00:55:00+00:00</updated>
-    <media:thumbnail url="https://i.gzn.jp/img/2026/06/03/coreutils-for-windows/00.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://uutils.org/blog/2026-08-error-diagnostics/">uutils.org</a> | <a href="https://lobste.rs/s/job3jy/pointing_at_error_compiler_style">discussion</a> | <a href="https://news.ycombinator.com/item?id=49535024">hacker news</a></small></p><hr/><p>uutils coreutils version 0.11.0 now features visual, compiler-style error reporting through the `ariadne` Rust crate. Rather than issuing single-line stderr messages, the tools use carets and source line echoes to highlight the specific character or sequence causing a parsing failure.</p><p>This functionality is currently implemented in 28 utilities, such as `tr`, `chmod`, `sort`, and `test`. The diagnostics provide contextual syntax guidance for complex argument types, including regular expressions and mode/format strings, facilitating easier debugging of command-line inputs.</p><p><img src="https://i.gzn.jp/img/2026/06/03/coreutils-for-windows/00.png" /></p><hr/><small>6 Sep 2026, 06:37 UTC | #20279</small>]]></content>
-  </entry>
 </feed>
