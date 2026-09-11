@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-10T19:36:00+00:00</updated>
+  <updated>2026-09-11T02:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Steam Requires Australian Users to Verify Age via Credit Card</title>
+    <link href="https://www.gamedeveloper.com/pc/report-steam-now-requires-australian-users-to-verify-their-age-with-credit-cards" rel="alternate" />
+    <id>https://www.gamedeveloper.com/pc/report-steam-now-requires-australian-users-to-verify-their-age-with-credit-cards::v238</id>
+    <published>2026-09-11T02:48:00+00:00</published>
+    <updated>2026-09-11T02:48:00+00:00</updated>
+    <media:thumbnail url="https://s3.amazonaws.com/www-itopvpn-com/blog/20251209/1765264794479435.png" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/pc/report-steam-now-requires-australian-users-to-verify-their-age-with-credit-cards">gamedeveloper.com</a></small></p><hr/><p>Steam now requires Australian users to verify their age using a valid Australian credit card to access R18+ rated games. This requirement is a response to the Age-Restricted Material App Distribution Services Code, which mandates age verification for mature-rated content and websites in Australia.</p><p>The implementation has faced criticism from users who report a lack of alternative verification methods, such as government IDs, passports, or PayPal. This has raised concerns that adults who rely solely on debit cards may be unable to access mature content on the platform.</p><p><img src="https://s3.amazonaws.com/www-itopvpn-com/blog/20251209/1765264794479435.png" /></p><hr/><small>11 Sep 2026, 08:12 UTC | #20799</small>]]></content>
+  </entry>
   <entry>
     <title>Xbox to Publish Kojima Productions' Physint After PlayStation Exit</title>
     <link href="https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project" rel="alternate" />
