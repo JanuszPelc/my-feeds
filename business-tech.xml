@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T22:12:00+00:00</updated>
+  <updated>2026-09-11T02:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Oracle Claims AI Will Accelerate SaaS Implementations</title>
+    <link href="https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736" rel="alternate" />
+    <id>https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736::v238</id>
+    <published>2026-09-11T02:44:00+00:00</published>
+    <updated>2026-09-11T02:44:00+00:00</updated>
+    <media:thumbnail url="https://www.oracle.com/a/ocom/img/yt-thumbnail-resmpwnokac.jpg" />
+    <content type="html"><![CDATA[<p><small>The Register AI/ML | <a href="https://www.theregister.com/software/2026/09/11/oracle-says-ai-will-save-it-from-the-saaspocalypse-not-bring-it-on/5295736">theregister.com</a> | <a href="https://www.oracle.com/news/announcement/q1fy27-earnings-release-2026-09-10/">source</a></small></p><hr/><p>Oracle Co-CEO Mike Sicilia stated that AI will act as an accelerator for the company's applications business rather than a replacement for packaged software. During the Q1 FY 2027 earnings call, Sicilia argued that AI agents will execute established workflows, shifting human roles toward oversight and exception management. The company expects to launch an "agentic AI accelerator" in October to compress SaaS deployment timelines from years to weeks.</p><p>Cloud revenue grew 60% year-over-year to $11.6 billion, while SaaS revenue increased 10%. Oracle reported strong demand for AI infrastructure, noting that GPU capacity renewals are being sold at a 20% premium. The company also added 850 MW of new datacenter capacity during the quarter.</p><p><img src="https://www.oracle.com/a/ocom/img/yt-thumbnail-resmpwnokac.jpg" /></p><hr/><small>11 Sep 2026, 07:45 UTC | #20788</small>]]></content>
+  </entry>
   <entry>
     <title>Pentagon Negotiating $5B Loan to AI Infrastructure Firm Fluidstack</title>
     <link href="https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0" rel="alternate" />
