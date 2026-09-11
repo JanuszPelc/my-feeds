@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-11T10:14:00+00:00</updated>
+  <updated>2026-09-11T10:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>T-Mobile Announces Availability and Deals for New Apple Lineup</title>
+    <link href="https://www.t-mobile.com/news/devices/iphone-18-pro-iphone-duo-apple-watch-release" rel="alternate" />
+    <id>https://www.t-mobile.com/news/devices/iphone-18-pro-iphone-duo-apple-watch-release::v239</id>
+    <published>2026-09-11T10:16:00+00:00</published>
+    <updated>2026-09-11T10:16:00+00:00</updated>
+    <media:thumbnail url="https://cdn.wccftech.com/wp-content/uploads/2025/11/iPhone-18-4.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.t-mobile.com/news/devices/iphone-18-pro-iphone-duo-apple-watch-release">t-mobile.com</a></small></p><hr/><p>T-Mobile and Metro by T-Mobile are launching Apple's latest hardware lineup, including the iPhone 18 Pro series, the foldable iPhone Duo, and Apple Watch Series 12, with pre-orders starting in mid-September and mid-October. The carrier is offering various trade-in incentives and a new 36-month installment plan to lower upfront costs for new and existing customers.</p><p>The rollout includes support for Apple's iPhone Handoff feature, which allows users to utilize a single phone number across two compatible iPhone models for a $5 monthly fee. The new hardware features the A20 Pro chip, upgraded 48MP Fusion cameras, and enhanced health-sensing capabilities in the Apple Watch models.</p><p><img src="https://cdn.wccftech.com/wp-content/uploads/2025/11/iPhone-18-4.jpg" /></p><hr/><small>11 Sep 2026, 13:02 UTC | #20796</small>]]></content>
+  </entry>
   <entry>
     <title>Ángela Karime Venegas Hernández Develops Acoustic Fire Extinguisher Using Sound Waves</title>
     <link href="https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/" rel="alternate" />
