@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T08:41:00+00:00</updated>
+  <updated>2026-09-11T10:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Texas Judge Finds TikTok Liable for Misleading Users Regarding Safety Standards</title>
+    <link href="https://www.click2houston.com/news/local/2026/09/10/judge-finds-tiktok-liable-for-lying-about-safety-standards-in-texas-lawsuit/" rel="alternate" />
+    <id>https://www.click2houston.com/news/local/2026/09/10/judge-finds-tiktok-liable-for-lying-about-safety-standards-in-texas-lawsuit/::v239</id>
+    <published>2026-09-11T10:03:00+00:00</published>
+    <updated>2026-09-11T10:03:00+00:00</updated>
+    <media:thumbnail url="https://www.baltimoresun.com/wp-content/uploads/2023/12/Abortion_Texas_Lawsuit_17157-2.jpg?w=1080" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.click2houston.com/news/local/2026/09/10/judge-finds-tiktok-liable-for-lying-about-safety-standards-in-texas-lawsuit/">click2houston.com</a></small></p><hr/><p>A U.S. District Judge has found TikTok liable for misleading users about its safety standards for minors. The lawsuit, brought by Texas Attorney General Ken Paxton, alleges that the platform falsely claimed to filter inappropriate and explicit material—such as nudity and drug use—while allowing such content to remain accessible to children even under "Restricted Mode."</p><p>The legal action stems from a January 2025 lawsuit involving violations of the Securing Children Online Through Parental Empowerment (SCOPE) Act. A trial is expected to be scheduled for next month to determine the penalties and relief the state will seek.</p><p><img src="https://www.baltimoresun.com/wp-content/uploads/2023/12/Abortion_Texas_Lawsuit_17157-2.jpg?w=1080" /></p><hr/><small>11 Sep 2026, 10:19 UTC | #20790</small>]]></content>
+  </entry>
   <entry>
     <title>Mastodon Server Disables Automated Signups to Combat Spam</title>
     <link href="https://tante.cc/2026/09/10/making-social-media-social/" rel="alternate" />
