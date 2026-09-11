@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T14:24:00+00:00</updated>
+  <updated>2026-09-11T14:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Judge Dismisses Lawsuits Against LinkedIn Over Browser Extension Scanning</title>
+    <link href="https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/" rel="alternate" />
+    <id>https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/::v239</id>
+    <published>2026-09-11T14:25:00+00:00</published>
+    <updated>2026-09-11T14:25:00+00:00</updated>
+    <media:thumbnail url="https://arnoldcontract.us/wp-content/uploads/2021/05/us-district-court-02.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/">arstechnica.com</a> | <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.467271/gov.uscourts.cand.467271.47.0.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=49651268">hacker news</a></small></p><hr/><p>A U.S. District Court judge has dismissed two class-action lawsuits against LinkedIn that accused the platform of scanning users' browser extensions to collect data. Judge Vince Chhabria ruled the plaintiffs failed to allege concrete harm, noting they did not claim that their specific extensions had transmitted private information to the service.</p><p>The litigation, stemming from the "BrowserGate" controversy, involved allegations that LinkedIn's practices constituted mass surveillance. LinkedIn defended the scanning as a necessary security measure to detect and prevent automated scraping and bot activity. Attorneys for the plaintiffs indicated they may appeal the ruling or pursue the claims in California state court.</p><p><img src="https://arnoldcontract.us/wp-content/uploads/2021/05/us-district-court-02.jpg" /></p><hr/><small>11 Sep 2026, 17:46 UTC | #20819</small>]]></content>
+  </entry>
   <entry>
     <title>Criticism of David Heinemeier Hansson's Omarchy Project and Open Source Funding Influence</title>
     <link href="https://tante.cc/2026/09/11/power-grab/" rel="alternate" />
