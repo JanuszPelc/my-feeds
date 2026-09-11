@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-11T17:51:00+00:00</updated>
+  <updated>2026-09-11T17:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Meta Modifies AI Prompting Following Privacy Concerns</title>
+    <link href="https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions" rel="alternate" />
+    <id>https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions::v239</id>
+    <published>2026-09-11T17:54:00+00:00</published>
+    <updated>2026-09-11T17:54:00+00:00</updated>
+    <media:thumbnail url="https://res.cloudinary.com/dbulfrlrz/images/w_1068,h_2014,c_scale/f_auto,q_auto/v1761574042/wp-pme/meta-privacy-center-object/meta-privacy-center-object.jpg?_i=AA" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions">theverge.com</a> | <a href="https://news.ycombinator.com/item?id=49660731">hacker news</a></small></p><hr/><p>Meta is modifying the prompts suggested by its AI chatbot after the system began asking invasive questions about users' children. A viral video demonstrated the AI requesting a child's age and a parent's home address by aggregating information from various social media posts. Meta stated the company "missed the mark" and has since fixed the issue.</p><p>The AI assistant is integrated across Facebook, Instagram, WhatsApp, and Messenger. This incident follows a previous controversy in July regarding the removal of a feature that allowed users to create AI deepfakes of other Instagram users.</p><p><img src="https://res.cloudinary.com/dbulfrlrz/images/w_1068,h_2014,c_scale/f_auto,q_auto/v1761574042/wp-pme/meta-privacy-center-object/meta-privacy-center-object.jpg?_i=AA" /></p><hr/><small>11 Sep 2026, 22:21 UTC | #20845</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Replaces US Agency Pilot With Discounted Usage-Based Deal</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-10/openai-gives-us-agencies-50-off-models-ending-1-per-year-deal" rel="alternate" />

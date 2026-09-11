@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-11T17:46:00+00:00</updated>
+  <updated>2026-09-11T18:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>EPA Proposes Limiting Public Input for Data Center Air Pollution Permits</title>
+    <link href="https://capitalbnews.org/data-centers-permit-rules-epa/" rel="alternate" />
+    <id>https://capitalbnews.org/data-centers-permit-rules-epa/::v239</id>
+    <published>2026-09-11T18:06:00+00:00</published>
+    <updated>2026-09-11T18:06:00+00:00</updated>
+    <media:thumbnail url="https://images.squarespace-cdn.com/content/v1/67755f4c56959136ce2c64a2/f3fed0d2-7b4b-494d-b93c-e31858c07313/NOX+.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://capitalbnews.org/data-centers-permit-rules-epa/">capitalbnews.org</a> | <a href="https://news.ycombinator.com/item?id=49662672">hacker news</a></small></p><hr/><p>The Environmental Protection Agency plans to eliminate federal requirements for public notice and comment periods for air-pollution permits for industrial facilities, including data centers and the power plants that serve them. The proposal also includes provisions that would allow developers to begin construction before permits are officially granted.</p><p>Opponents, including numerous advocacy groups and several states, argue the changes decrease transparency and could increase health and economic risks for communities in the rural South. The agency maintains the revisions are necessary to expedite permitting to support American economic development and the expansion of the AI industry.</p><p><img src="https://images.squarespace-cdn.com/content/v1/67755f4c56959136ce2c64a2/f3fed0d2-7b4b-494d-b93c-e31858c07313/NOX+.jpg" /></p><hr/><small>11 Sep 2026, 22:25 UTC | #20885</small>]]></content>
+  </entry>
   <entry>
     <title>Fields Medalists Issue Declaration on AI and Mathematical Research</title>
     <link href="https://mathandai.org/" rel="alternate" />
