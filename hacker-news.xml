@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-11T14:33:00+00:00</updated>
+  <updated>2026-09-11T14:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rust Parser Test File: Bastion of the Turbofish</title>
+    <link href="https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs" rel="alternate" />
+    <id>https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs::v239</id>
+    <published>2026-09-11T14:46:00+00:00</published>
+    <updated>2026-09-11T14:46:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs">github.com</a> | <a href="https://lobste.rs/s/b6oxoj/bastion_turbofish">discussion</a></small></p><hr/><p>The `bastion-of-the-turbofish.rs` file is a UI test case within the Rust programming language's compiler test suite. It is specifically designed to verify that the parser correctly handles the "turbofish" syntax, a pattern used to provide explicit type information during type inference.</p><p>Located in the `tests/ui/parser/` directory of the official Rust repository, the file is part of the automated testing infrastructure used to maintain compiler stability and prevent regressions in the parsing of complex syntactical expressions.</p><hr/><small>11 Sep 2026, 19:38 UTC | #20872</small>]]></content>
+  </entry>
   <entry>
     <title>PlanetScale Introduces Neki Sharded Postgres</title>
     <link href="https://planetscale.com/blog/introducing-neki" rel="alternate" />

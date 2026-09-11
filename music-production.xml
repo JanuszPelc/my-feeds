@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-11T13:26:00+00:00</updated>
+  <updated>2026-09-11T14:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Kevin Saunderson to Lead Free Roland 909 Day Workshop</title>
+    <link href="https://musictech.com/news/events/roland-909-day-free-live-workshop-kevin-saunderson/" rel="alternate" />
+    <id>https://musictech.com/news/events/roland-909-day-free-live-workshop-kevin-saunderson/::v239</id>
+    <published>2026-09-11T14:44:00+00:00</published>
+    <updated>2026-09-11T14:44:00+00:00</updated>
+    <media:thumbnail url="https://articles.roland.com/wp-content/uploads/2026/08/Original-Signal-5.png" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/events/roland-909-day-free-live-workshop-kevin-saunderson/">musictech.com</a> | <a href="https://www.submix.io/roland/tr-workshop-909-to-1000-with-kevin-saunderson">source</a></small></p><hr/><p>Roland is hosting a free workshop in Detroit to celebrate 909 Day. Led by techno pioneer Kevin Saunderson, the session will demonstrate sequencing, sound shaping, and performance techniques using the TR-909 and the TR-1000.</p><p>The event is available via YouTube or the Roland Cloud Academy livestream. Additionally, Roland is offering a discount on the TR-909 Software Rhythm Composer through September 30, 2026.</p><p><img src="https://articles.roland.com/wp-content/uploads/2026/08/Original-Signal-5.png" /></p><hr/><small>11 Sep 2026, 19:30 UTC | #20843</small>]]></content>
+  </entry>
   <entry>
     <title>GSi Updates Piano Studio to v1.1.0</title>
     <link href="https://www.kvraudio.com/news/gsi-updates-piano-studio-to-v1-1-0-68499?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68499" rel="alternate" />
