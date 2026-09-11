@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T18:58:00+00:00</updated>
+  <updated>2026-09-10T19:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Declan Chidlow Explains His Custom HTML Boilerplate</title>
+    <link href="https://vale.rocks/posts/html-boilerplate" rel="alternate" />
+    <id>https://vale.rocks/posts/html-boilerplate::v238</id>
+    <published>2026-09-10T19:54:00+00:00</published>
+    <updated>2026-09-10T19:54:00+00:00</updated>
+    <media:thumbnail url="https://regionoftech.com/_next/image?url=https://cdn.sanity.io/images/0ip744ju/production/aa4416c47c2e0a125ad6e0173f73cd856d106ccb-2752x1536.webp&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vale.rocks/posts/html-boilerplate">vale.rocks</a> | <a href="https://lobste.rs/s/6tcc4t/my_html_boilerplate">discussion</a></small></p><hr/><p>This opinionated HTML boilerplate serves as a standardized template for modern web development, incorporating essential tags for responsive design, SEO, and social media integration. The structure includes metadata for Open Graph, Progressive Web App (PWA) manifest links, and theme-related meta properties for color-scheme support.</p><p>A technical breakdown explains how tag placement influences page performance and accessibility. Key details include the use of WOFF2 fonts, SVG favicons, and specific viewport configurations to ensure consistent user experiences while avoiding common accessibility pitfalls.</p><p><img src="https://regionoftech.com/_next/image?url=https://cdn.sanity.io/images/0ip744ju/production/aa4416c47c2e0a125ad6e0173f73cd856d106ccb-2752x1536.webp&w=3840&q=75" /></p><hr/><small>11 Sep 2026, 02:08 UTC | #20785</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Report Details AI-Orchestrated Cyber Espionage and Model Misuse</title>
     <link href="https://www.anthropic.com/threat-intelligence-report-september-2026" rel="alternate" />

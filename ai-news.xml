@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-10T19:51:00+00:00</updated>
+  <updated>2026-09-10T21:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Pauses Pro Subscriptions Due to Astra Demand</title>
+    <link href="https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/::v238</id>
+    <published>2026-09-10T21:00:00+00:00</published>
+    <updated>2026-09-10T21:00:00+00:00</updated>
+    <media:thumbnail url="https://wpimg-wscn.awtmt.com/1f5da0af-b16f-412d-b171-3318cb6d5e11.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/">techcrunch.com</a> | <a href="https://x.com/thsottiaux/status/2098113585683808624">source</a> | <a href="https://news.ycombinator.com/item?id=49651075">hacker news</a></small></p><hr/><p>OpenAI has temporarily suspended new sign-ups for its $200-per-month Pro subscription tier following unprecedented demand for its Astra model. The company cited significant infrastructure strain caused by the surge in users, noting that the move is necessary to maintain service stability for current subscribers.</p><p>The decision, announced by product leader Thibault Sottiaux, aims to prioritize service quality for existing Pro members. Other service levels, including the API and lower-cost Plus and Go plans, remain available to new users.</p><p><img src="https://wpimg-wscn.awtmt.com/1f5da0af-b16f-412d-b171-3318cb6d5e11.png" /></p><hr/><small>11 Sep 2026, 02:12 UTC | #20764</small>]]></content>
+  </entry>
+  <entry>
+    <title>Anthropic Reports Large-Scale AI Distillation Campaigns by Chinese Companies</title>
+    <link href="https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/::v238</id>
+    <published>2026-09-10T20:58:00+00:00</published>
+    <updated>2026-09-10T20:58:00+00:00</updated>
+    <media:thumbnail url="https://img.bgo.one/news-image/ai_generated/2026-02/202602241823_Anthropic-accuses-chinese-ai-labs-of-distillation-attack_20260225_023047.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/">techcrunch.com</a> | <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">source</a> | <a href="https://news.ycombinator.com/item?id=49647300">hacker news</a></small></p><hr/><p>Anthropic's September 2026 threat intelligence report identifies significant distillation attacks carried out by Chinese AI firms, including Alibaba, Moonshot AI, and DeepSeek. These campaigns sought to extract Claude's "chain of thought" reasoning through approximately 200 million exchanges to train smaller, specialized models.</p><p>The Alibaba-linked campaign was the largest, accounting for 151 million exchanges targeted at producing training data for the Qwen model family. Anthropic also documented a Moonshot AI campaign involving requests for surveillance analysis, which the company suggested may be linked to the Chinese military.</p><p><img src="https://img.bgo.one/news-image/ai_generated/2026-02/202602241823_Anthropic-accuses-chinese-ai-labs-of-distillation-attack_20260225_023047.jpg" /></p><hr/><small>11 Sep 2026, 02:10 UTC | #20762</small>]]></content>
+  </entry>
   <entry>
     <title>Meta's Muse AI Agent Reaches No. 2 in US App Store</title>
     <link href="https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/" rel="alternate" />
