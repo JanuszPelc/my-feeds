@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-11T13:16:00+00:00</updated>
+  <updated>2026-09-11T13:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Music Theory for the 21st-Century Classroom Textbook Available</title>
+    <link href="https://musictheory.pugetsound.edu/mt21c/MusicTheory.html" rel="alternate" />
+    <id>https://musictheory.pugetsound.edu/mt21c/MusicTheory.html::v239</id>
+    <published>2026-09-11T13:23:00+00:00</published>
+    <updated>2026-09-11T13:23:00+00:00</updated>
+    <media:thumbnail url="https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,width=525,height=525,onerror=redirect/thumbitem/Music-Theory-Cheat-Sheet-Reference-Sheet-9591012-1735922269/750f-9591012-2.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://musictheory.pugetsound.edu/mt21c/MusicTheory.html">musictheory.pugetsound.edu</a> | <a href="https://news.ycombinator.com/item?id=49647134">hacker news</a></small></p><hr/><p>Robert Hutchinson's openly licensed, four-semester college textbook, "Music Theory for the 21st-Century Classroom," is organized into modules covering fundamental musical concepts. The curriculum encompasses pitch, notation, scales, intervals, triads, seventh chords, and harmonic progression.</p><p>The instructional material extends to melodic analysis, musical form, and various accompanimental textures. The resource includes lesson plans, practice exercises, and multimedia resources intended for classroom or independent study.</p><p><img src="https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,width=525,height=525,onerror=redirect/thumbitem/Music-Theory-Cheat-Sheet-Reference-Sheet-9591012-1735922269/750f-9591012-2.jpg" /></p><hr/><small>11 Sep 2026, 16:18 UTC | #20852</small>]]></content>
+  </entry>
   <entry>
     <title>Andy Balaam Reflects on AI's Impact on Programmer Identity</title>
     <link href="https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/" rel="alternate" />
