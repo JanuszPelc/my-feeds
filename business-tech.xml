@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T22:02:00+00:00</updated>
+  <updated>2026-09-10T22:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Pentagon Negotiating $5B Loan to AI Infrastructure Firm Fluidstack</title>
+    <link href="https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0::v238</id>
+    <published>2026-09-10T22:12:00+00:00</published>
+    <updated>2026-09-10T22:12:00+00:00</updated>
+    <media:thumbnail url="https://runtimewire.com/og/pentagon-fluidstack-5-billion-ai-infrastructure-loan-talks.16x9.jpg?v=og2-1w6copm" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/pentagon-in-talks-to-get-into-ai-infrastructure-funding-with-a-5-billion-loan-0367eeb0">wsj.com</a></small></p><hr/><p>The Pentagon is in talks to provide a $5 billion loan to Fluidstack, an AI infrastructure company, to bolster U.S. data-center supply chains and manufacturing capacity. The potential funding would be facilitated through the Office of Strategic Capital, an agency established to provide loans and guarantees for critical technology sectors.</p><p>Fluidstack is receiving advisory services for the loan application from Erebor Bank, an institution founded by Palmer Luckey. If approved, the transaction would represent the largest single loan issued by the Office of Strategic Capital to date.</p><p><img src="https://runtimewire.com/og/pentagon-fluidstack-5-billion-ai-infrastructure-loan-talks.16x9.jpg?v=og2-1w6copm" /></p><hr/><small>11 Sep 2026, 05:22 UTC | #20774</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft to Expand Data Center Capacity to 38 Gigawatts by 2032</title>
     <link href="https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute" rel="alternate" />
