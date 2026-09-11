@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T13:42:00+00:00</updated>
+  <updated>2026-09-11T14:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Criticism of David Heinemeier Hansson's Omarchy Project and Open Source Funding Influence</title>
+    <link href="https://tante.cc/2026/09/11/power-grab/" rel="alternate" />
+    <id>https://tante.cc/2026/09/11/power-grab/::v239</id>
+    <published>2026-09-11T14:24:00+00:00</published>
+    <updated>2026-09-11T14:24:00+00:00</updated>
+    <media:thumbnail url="https://customer-goifxnzhrq3d0d54.cloudflarestream.com/670637c2f96239effba20f2d8e2a4a59/thumbnails/thumbnail.jpg?time=124000ms" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://tante.cc/2026/09/11/power-grab/">tante.cc</a> | <a href="https://lobste.rs/s/be7tgu/power_grab">discussion</a> | <a href="https://news.ycombinator.com/item?id=49658869">hacker news</a></small></p><hr/><p>The Omarchy project, an Arch Linux distribution created by David Heinemeier Hansson (DHH), is criticized for using centralized funding to influence open-source development. The author alleges that DHH uses substantial donations, including $3 million from Digital Ocean, to support projects like the Hyprland window manager, which is associated with controversial and exclusionary political ideologies.</p><p>This concentration of financial power is presented as a risk to the diversity of the open-source ecosystem, potentially forcing developers to choose between financial stability and adherence to social justice or human rights. The text calls for community opposition to Omarchy and its corporate supporters to prevent the normalization of these political dynamics.</p><p><img src="https://customer-goifxnzhrq3d0d54.cloudflarestream.com/670637c2f96239effba20f2d8e2a4a59/thumbnails/thumbnail.jpg?time=124000ms" /></p><hr/><small>11 Sep 2026, 17:33 UTC | #20853</small>]]></content>
+  </entry>
   <entry>
     <title>Houthi Forces Seize Perim Island and Control Yemen's Red Sea Coast</title>
     <link href="https://www.bbc.com/news/live/cmd683p01eljt" rel="alternate" />
