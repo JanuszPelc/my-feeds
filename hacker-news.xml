@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-11T10:17:00+00:00</updated>
+  <updated>2026-09-11T10:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Jujutsu (jj) Version Control Usage and Experience</title>
+    <link href="https://laurmaedje.github.io/posts/jj/" rel="alternate" />
+    <id>https://laurmaedje.github.io/posts/jj/::v239</id>
+    <published>2026-09-11T10:22:00+00:00</published>
+    <updated>2026-09-11T10:22:00+00:00</updated>
+    <media:thumbnail url="https://guneycansanli.github.io/my-blog/assets/images/jj/jj-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://laurmaedje.github.io/posts/jj/">laurmaedje.github.io</a> | <a href="https://lobste.rs/s/nbmbxj/conversations_with_jj">discussion</a></small></p><hr/><p>The author shares a six-month experience using the Jujutsu (jj) version control system alongside Git, primarily to facilitate pull request history cleanup. The author highlights smooth commit editing, a built-in undo feature, and an intuitive CLI as major advantages of the tool.</p><p>Challenges include the complexity of the jj log command, branch management nuances when transitioning between Git and jj, and unintended side effects from automatic snapshots. A more robust GUI for viewing and splitting diffs is noted as a primary requirement for full adoption.</p><p><img src="https://guneycansanli.github.io/my-blog/assets/images/jj/jj-1.jpg" /></p><hr/><small>11 Sep 2026, 13:41 UTC | #20836</small>]]></content>
+  </entry>
   <entry>
     <title>Gleam Gathering 2027 Announced for London</title>
     <link href="https://gleamgathering.com/" rel="alternate" />

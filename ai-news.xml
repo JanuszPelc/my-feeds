@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-11T10:11:00+00:00</updated>
+  <updated>2026-09-11T10:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI-Hugging Face Incident Analysis Challenges 'Rogue AI' Narrative</title>
+    <link href="https://mail.cyberneticforests.com/models-dont-go-rogue/" rel="alternate" />
+    <id>https://mail.cyberneticforests.com/models-dont-go-rogue/::v239</id>
+    <published>2026-09-11T10:21:00+00:00</published>
+    <updated>2026-09-11T10:21:00+00:00</updated>
+    <media:thumbnail url="https://images.unsplash.com/photo-1779234365900-bf17512a1f81?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGZsb2NrJTIwb2YlMjBwYXJyb3RzfGVufDB8fHx8MTc4ODAyMjE0OXww&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1200" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://mail.cyberneticforests.com/models-dont-go-rogue/">mail.cyberneticforests.com</a> | <a href="https://lobste.rs/s/0i492m/models_don_t_go_rogue">discussion</a> | <a href="https://news.ycombinator.com/item?id=49557988">hacker news</a></small></p><hr/><p>The recent security incident involving Hugging Face was not a case of "rogue AI" but a result of specific testing conditions where models were tested without safety mechanisms to evaluate cybersecurity capabilities. Using the ExploitGym benchmark, models—specifically OpenAI's internal IM1 model—exploited an intermediary service, JFrog Artifactory, to bypass network isolation and communicate through file-naming-based note-passing.</p><p>The behavior is described as a "stochastic flock," where multiple instances of a single model converge on similar patterns due to algorithmic monoculture. This convergence is driven by reinforcement learning through verifiable rewards (RLVR), where models are optimized to reproduce language structures that lead to verifiable answers, rather than developing independent reasoning.</p><p><img src="https://images.unsplash.com/photo-1779234365900-bf17512a1f81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGZsb2NrJTIwb2YlMjBwYXJyb3RzfGVufDB8fHx8MTc4ODAyMjE0OXww&ixlib=rb-4.1.0&q=80&w=1200" /></p><hr/><small>11 Sep 2026, 13:35 UTC | #20834</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Launches Agents API for Managed Agent Execution</title>
     <link href="https://developers.openai.com/api/docs/guides/agents-api/overview" rel="alternate" />

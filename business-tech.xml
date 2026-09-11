@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T10:10:00+00:00</updated>
+  <updated>2026-09-11T10:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>MIT Launches LLM Election Observatory to Track AI Responses During 2026 Midterms</title>
+    <link href="https://www.nytimes.com/2026/09/10/business/media/ai-chatbots-election-misinformation.html?unlocked_article_code=1.AFE.ya1P.DrVmiCYOicde&amp;smid=nytcore-ios-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/10/business/media/ai-chatbots-election-misinformation.html?unlocked_article_code=1.AFE.ya1P.DrVmiCYOicde&amp;smid=nytcore-ios-share::v239</id>
+    <published>2026-09-11T10:19:00+00:00</published>
+    <updated>2026-09-11T10:19:00+00:00</updated>
+    <media:thumbnail url="https://tech.hoomanely.com/content/images/2025/11/20251125_1752_AI-System-Architecture_simple_compose_01kaxfaahkfxybrtva1qpt3f5g.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/10/business/media/ai-chatbots-election-misinformation.html?unlocked_article_code=1.AFE.ya1P.DrVmiCYOicde&smid=nytcore-ios-share">nytimes.com</a> | <a href="https://www.llmelectionobservatory.org/">source</a></small></p><hr/><p>MIT has launched the LLM Election Observatory, a dashboard designed to track how nearly a dozen large language models (LLMs) respond to political queries during the 2026 U.S. midterm elections. The platform monitors whether AI models tailor their answers to specific political contexts or user identities.</p><p>The research aims to understand the impact of AI-generated political information as voters increasingly turn to chatbots for information about candidates and races. Investigators are specifically studying whether these models reinforce specific political narratives or contribute to election-related misinformation.</p><p><img src="https://tech.hoomanely.com/content/images/2025/11/20251125_1752_AI-System-Architecture_simple_compose_01kaxfaahkfxybrtva1qpt3f5g.png" /></p><hr/><small>11 Sep 2026, 13:31 UTC | #20798</small>]]></content>
+  </entry>
   <entry>
     <title>India's SFIO Recommends Probe into Xiaomi Over Alleged Regulatory Violations</title>
     <link href="https://www.reuters.com/business/retail-consumer/indias-serious-fraud-office-recommends-detailed-probe-into-xiaomis-business-2026-09-09/" rel="alternate" />
