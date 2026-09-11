@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T13:24:00+00:00</updated>
+  <updated>2026-09-11T13:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Houthi Forces Seize Perim Island and Control Yemen's Red Sea Coast</title>
+    <link href="https://www.bbc.com/news/live/cmd683p01eljt" rel="alternate" />
+    <id>https://www.bbc.com/news/live/cmd683p01eljt::v239</id>
+    <published>2026-09-11T13:42:00+00:00</published>
+    <updated>2026-09-11T13:42:00+00:00</updated>
+    <media:thumbnail url="https://ichef.bbci.co.uk/news/480/cpsprodpb/4C8F/production/_132399591_yemen_gaza_640-nc-2x-nc.png.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.bbc.com/news/live/cmd683p01eljt">bbc.com</a> | <a href="https://news.ycombinator.com/item?id=49658299">hacker news</a></small></p><hr/><p>The Iran-backed Houthi movement has seized control of Yemen's Red Sea coast and the strategic Perim Island in the Bab al-Mandab Strait. This advance secures a position in one of the world's most critical maritime shipping lanes, which connects the Red Sea to the Indian Ocean.</p><p>The group has declared a naval blockade targeting Saudi-linked vessels while claiming other international shipping remains safe. This escalation has prompted Saudi Arabia to seek direct military assistance from the United States, which has stated it will provide intelligence and targeting support rather than direct combat intervention.</p><p><img src="https://ichef.bbci.co.uk/news/480/cpsprodpb/4C8F/production/_132399591_yemen_gaza_640-nc-2x-nc.png.webp" /></p><hr/><small>11 Sep 2026, 17:18 UTC | #20859</small>]]></content>
+  </entry>
+  <entry>
+    <title>Garry Tan Recommends No Action on AI Model Distillation</title>
+    <link href="https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html::v239</id>
+    <published>2026-09-11T13:28:00+00:00</published>
+    <updated>2026-09-11T13:28:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQHqprhuPj7rYw/article-cover_image-shrink_720_1280/B4DZyyTK48KwAI-/0/1772517896795?e=2147483647&amp;v=beta&amp;t=5OEfsT5GE7kPlvwarLPEsh3NajJs81gyWOtKE92jzHw" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html">cnbc.com</a></small></p><hr/><p>Y Combinator CEO Garry Tan has stated he would "do nothing" regarding the regulation of AI model distillation, a process where outputs from advanced models are used to train smaller ones. This stance follows accusations from companies like OpenAI and Anthropic that Chinese firms are using the practice to replicate proprietary technology. U.S. federal agencies, including the NSA and FBI, have also issued advisories regarding these distillation practices.</p><p>Tan argued that regulation should focus on maintaining a balance between open-weight and frontier models to ensure high-end models remain commercially viable. He also advocated for addressing immediate cybersecurity threats rather than theoretical existential risks, which he characterized as "science fiction."</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQHqprhuPj7rYw/article-cover_image-shrink_720_1280/B4DZyyTK48KwAI-/0/1772517896795?e=2147483647&v=beta&t=5OEfsT5GE7kPlvwarLPEsh3NajJs81gyWOtKE92jzHw" /></p><hr/><small>11 Sep 2026, 17:11 UTC | #20817</small>]]></content>
+  </entry>
   <entry>
     <title>TikTok Rejects Meta Ads Calling for Industry-Wide Settlement</title>
     <link href="https://www.axios.com/2026/09/11/tiktok-meta-ads-children-safety-settlement" rel="alternate" />
