@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-10T18:01:00+00:00</updated>
+  <updated>2026-09-10T18:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Anthropic Report Details AI-Orchestrated Cyber Espionage and Model Misuse</title>
+    <link href="https://www.anthropic.com/threat-intelligence-report-september-2026" rel="alternate" />
+    <id>https://www.anthropic.com/threat-intelligence-report-september-2026::v238</id>
+    <published>2026-09-10T18:58:00+00:00</published>
+    <updated>2026-09-10T18:58:00+00:00</updated>
+    <media:thumbnail url="https://www.bleepstatic.com/images/news/u/1220909/2025/November/diagram.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=49647300">hacker news</a></small></p><hr/><p>Anthropic's September 2026 Threat Intelligence report details the disruption of malicious operations using Claude models between December 2025 and August 2026. Threat actors transitioned from using AI as a chatbot to using it as an orchestrator for autonomous reconnaissance, exploitation, and data exfiltration via multi-agent frameworks. Documented harm areas include cyber and influence operations, surveillance, scams, biological misuse, and conventional weapons development.</p><p>The report identifies "Generative Threat Groups" (GTGs) comprising state-sponsored actors, criminals, and politically motivated individuals. Case study GTG-20006 describes a suspected Russian-nexus espionage campaign that used AI-driven workflows to automate infrastructure deployment and autonomously rebuild malware to evade detection. Targeted entities included Ukrainian and European government ministries, diplomatic missions, and drone technology manufacturers.</p><p><img src="https://www.bleepstatic.com/images/news/u/1220909/2025/November/diagram.jpg" /></p><hr/><small>11 Sep 2026, 00:35 UTC | #20744</small>]]></content>
+  </entry>
   <entry>
     <title>Jim Nielsen Labels Cable Box Following Social Media Post</title>
     <link href="https://blog.jim-nielsen.com/2026/hands-off-my-cables/" rel="alternate" />
