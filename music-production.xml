@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-11T10:29:00+00:00</updated>
+  <updated>2026-09-11T13:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Song Cage Releases Melody Rack MIDI Effect Plugin</title>
+    <link href="https://www.kvraudio.com/news/song-cage-releases-melody-rack---au-and-vst3-midi-effect-that-writes-chords-from-your-melody-68497?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68497" rel="alternate" />
+    <id>https://www.kvraudio.com/news/song-cage-releases-melody-rack---au-and-vst3-midi-effect-that-writes-chords-from-your-melody-68497?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68497::v239</id>
+    <published>2026-09-11T13:13:00+00:00</published>
+    <updated>2026-09-11T13:13:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/kvr-melody-rack.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/song-cage-releases-melody-rack---au-and-vst3-midi-effect-that-writes-chords-from-your-melody-68497?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68497">kvraudio.com</a> | <a href="https://songcage.com/melody-rack/">source</a></small></p><hr/><p>Song Cage has released Melody Rack, a MIDI effect plugin for macOS and Windows available in AU and VST3 formats. The plugin converts melodies—input via singing, playing, or MIDI—into MIDI data on a session grid. It utilizes a chain of 14 MIDI effects that function based on harmony rather than fixed scale settings, enabling the generation of chord progressions, arpeggios, and other musical variations directly from the input melody.</p><p>The 14-slot chain includes modules for chords, arpeggiation, motifs, and more, with the ability to reorder the effects. It maintains frame-level pitch information for MPE support and offers integration with the Song Cage songwriting application for lyric and arrangement assistance. Melody Rack is priced at $59, with a discounted rate of $39 for Song Cage license holders.</p><p><img src="https://static.kvraudio.com/i/b/kvr-melody-rack.jpg" /></p><hr/><small>11 Sep 2026, 15:09 UTC | #20828</small>]]></content>
+  </entry>
   <entry>
     <title>M Media Audio Releases West Coaster and Howdy Compressor Plugins</title>
     <link href="https://www.kvraudio.com/news/m-media-audio-releases-west-coaster-and-howdy-compressor-vst3-and-au-68491?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68491" rel="alternate" />
