@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-10T17:07:00+00:00</updated>
+  <updated>2026-09-11T02:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Phaseburn Releases Phaseburn One Public Beta</title>
+    <link href="https://www.kvraudio.com/news/phaseburn-releases-phaseburn-one-public-beta-pll-based-groove-synthesizer-and-effects-processor-vst3-au-and-clap-68488?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68488" rel="alternate" />
+    <id>https://www.kvraudio.com/news/phaseburn-releases-phaseburn-one-public-beta-pll-based-groove-synthesizer-and-effects-processor-vst3-au-and-clap-68488?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68488::v238</id>
+    <published>2026-09-11T02:58:00+00:00</published>
+    <updated>2026-09-11T02:58:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/osc-macro-bmkbxqkc_z1ubou5.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/phaseburn-releases-phaseburn-one-public-beta-pll-based-groove-synthesizer-and-effects-processor-vst3-au-and-clap-68488?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68488">kvraudio.com</a> | <a href="https://phaseburn.music/phaseburn-one">source</a></small></p><hr/><p>Phaseburn has released the public beta of Phaseburn One, a groove synthesizer and effects processor built around a phase-locked loop (PLL). Available for Windows and macOS in VST3, AU, and CLAP formats, the software allows the PLL core to function as a synthesizer voice or as an effect on external audio.</p><p>The sound engine includes a morph oscillator, a vector oscillator, and an internal sequencer, powered by a 64-bit DSP engine written in Rust. The plugin features a modular effects section with a free-routing patchbay for flexible signal processing. The public beta is available for free until October 15, 2026, after which the software will be available for €149.</p><p><img src="https://static.kvraudio.com/i/b/osc-macro-bmkbxqkc_z1ubou5.webp" /></p><hr/><small>11 Sep 2026, 09:03 UTC | #20805</small>]]></content>
+  </entry>
+  <entry>
+    <title>OA Labs Updates OA-Phosphor-1 to v1.2 with Rebuilt Interface and Stereo Widening</title>
+    <link href="https://www.kvraudio.com/news/oa-labs-updates-oa-phosphor-1-to-v1-2-with-rebuilt-interface-and-stereo-widening-vst3-and-au-68490?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68490" rel="alternate" />
+    <id>https://www.kvraudio.com/news/oa-labs-updates-oa-phosphor-1-to-v1-2-with-rebuilt-interface-and-stereo-widening-vst3-and-au-68490?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68490::v238</id>
+    <published>2026-09-11T02:57:00+00:00</published>
+    <updated>2026-09-11T02:57:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/1-2-release_hero_small.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/oa-labs-updates-oa-phosphor-1-to-v1-2-with-rebuilt-interface-and-stereo-widening-vst3-and-au-68490?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68490">kvraudio.com</a> | <a href="https://oa-labs.com/">source</a></small></p><hr/><p>Version 1.2 of OA Labs' free virtual analogue synthesizer, OA-Phosphor-1, is now available for Windows, macOS, and Linux. This update features a redesigned user interface, stereo widening, and per-voice analogue modelling.</p><p>The synthesizer's core feature is an "instability engine" that utilizes a Lorenz-based chaos generator to simulate parameter drift and jitter as the "AGE" control increases. The release also adds pulse width modulation to all waveforms and increases the factory preset count to 111.</p><p><img src="https://static.kvraudio.com/i/b/1-2-release_hero_small.jpg" /></p><hr/><small>11 Sep 2026, 09:00 UTC | #20804</small>]]></content>
+  </entry>
+  <entry>
+    <title>APU Software Updates Harmonic DJ to v1.2.0</title>
+    <link href="https://www.kvraudio.com/news/apu-software-updates-harmonic-dj-to-v1-2-0-releases-vst3-au-and-aax-versions-68493?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68493" rel="alternate" />
+    <id>https://www.kvraudio.com/news/apu-software-updates-harmonic-dj-to-v1-2-0-releases-vst3-au-and-aax-versions-68493?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68493::v238</id>
+    <published>2026-09-11T02:56:00+00:00</published>
+    <updated>2026-09-11T02:56:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/library.1789069022.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/apu-software-updates-harmonic-dj-to-v1-2-0-releases-vst3-au-and-aax-versions-68493?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68493">kvraudio.com</a> | <a href="https://apu.software/hdj/">source</a></small></p><hr/><p>APU Software has released version 1.2.0 of Harmonic DJ, which adds VST3, AU, AUv3, and AAX plugin formats. This update also introduces playlist import/export, keylocked mixes, an interactive Mix Map, and support for linking external recordings from SoundCloud, Mixcloud, and YouTube.</p><p>Interface improvements include macOS Finder tag support, system theme compatibility, and UI scaling. Additionally, the release enhances BPM detection, library browsing, and the responsiveness of transition profile selection within large libraries.</p><p><img src="https://static.kvraudio.com/i/b/library.1789069022.jpg" /></p><hr/><small>11 Sep 2026, 08:56 UTC | #20803</small>]]></content>
+  </entry>
   <entry>
     <title>23DSP Releases 23ArpDelay Multi-Tap Pitch Delay Plugin</title>
     <link href="https://www.kvraudio.com/news/23dsp-releases-23arpdelay---multi-tap-pitch-delay-plugin-vst3-au-and-lv2-68454?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68454" rel="alternate" />
