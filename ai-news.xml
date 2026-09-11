@@ -321,13 +321,4 @@
     <media:thumbnail url="https://miro.medium.com/v2/da:true/resize:fit:1000/1*295CiK-dWY3KC1l9mGq6cg.gif" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://openai.com/index/research-acceleration-view-inside-openai">openai.com</a> | <a href="https://news.ycombinator.com/item?id=49587217">hacker news</a></small></p><hr/><p>OpenAI has met its objective to deploy "automated research interns," which are AI agents capable of independently completing structured research tasks. By mid-August 2026, these agents were contributing 3.1 agent-workdays for every human workday across the company's research organization.</p><p>The shift toward agentic workflows has increased token expenditure, with the top 10% of researchers spending more than $7,000 per day. OpenAI intends to leverage these advancements to develop a fully automated AI researcher by March 2028.</p><p><img src="https://miro.medium.com/v2/da:true/resize:fit:1000/1*295CiK-dWY3KC1l9mGq6cg.gif" /></p><hr/><small>7 Sep 2026, 02:11 UTC | #20303</small>]]></content>
   </entry>
-  <entry>
-    <title>GPT-6 Astra Outperforms Fable 5.1 in Robotic Manipulation Benchmarks</title>
-    <link href="https://openai.robocurve.org/gpt-6-astra/" rel="alternate" />
-    <id>https://openai.robocurve.org/gpt-6-astra/::v238</id>
-    <published>2026-09-06T07:25:00+00:00</published>
-    <updated>2026-09-06T07:25:00+00:00</updated>
-    <media:thumbnail url="https://openai.robocurve.org/gpt-6-astra/video/bowl-astra-vs-fable51-cost-poster.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://openai.robocurve.org/gpt-6-astra/">openai.robocurve.org</a> | <a href="https://news.ycombinator.com/item?id=49582582">hacker news</a></small></p><hr/><p>In trials using YAM robotic arms, GPT-6 Astra achieved a 95% success rate in placing a red block into a bowl, significantly outperforming Claude Fable 5.1 (40%) and Fable 5 (5%). The task was completed more efficiently, with Astra averaging 2.5 minutes per run at a cost of $0.94, compared to Fable 5.1's 6.8 minutes and $2.12.</p><p>Performance parity occurred during more complex tasks, such as puzzle piece insertion, where Astra matched Fable 5.1 with a 10% success rate. Both models stalled at the same physical stage—reaching the target groove—before failing to complete the final insertion.</p><p><img src="https://openai.robocurve.org/gpt-6-astra/video/bowl-astra-vs-fable51-cost-poster.jpg" /></p><hr/><small>6 Sep 2026, 13:12 UTC | #20285</small>]]></content>
-  </entry>
 </feed>
