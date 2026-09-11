@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-11T02:51:00+00:00</updated>
+  <updated>2026-09-11T10:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Ángela Karime Venegas Hernández Develops Acoustic Fire Extinguisher Using Sound Waves</title>
+    <link href="https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/" rel="alternate" />
+    <id>https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/::v239</id>
+    <published>2026-09-11T10:14:00+00:00</published>
+    <updated>2026-09-11T10:14:00+00:00</updated>
+    <media:thumbnail url="https://thumbs.dreamstime.com/b/ai-video-cinematic-shot-futuristic-acoustic-fire-extinguisher-using-low-frequency-sound-waves-to-put-out-anvil-444623785.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/">upsocl.com</a> | <a href="https://news.ycombinator.com/item?id=49652237">hacker news</a></small></p><hr/><p>Ángela Karime Venegas Hernández, a 16-year-old student at CETIS 78 in Tamaulipas, Mexico, has created an acoustic fire extinguisher named "Vortex Tech." The device employs a 12-volt battery, a frequency generator, and a speaker to emit 30 pulses per second, using sound vibrations to displace oxygen from flames and extinguish fires within five to eight seconds.</p><p>The technology has been tested on wood, flammable liquids, cooking grease, and electronic equipment. The sound-based method is non-polluting, leaves no residue, and is safe for the operator. Hernández is scheduled to represent Mexico by presenting the invention at an international fair.</p><p><img src="https://thumbs.dreamstime.com/b/ai-video-cinematic-shot-futuristic-acoustic-fire-extinguisher-using-low-frequency-sound-waves-to-put-out-anvil-444623785.jpg" /></p><hr/><small>11 Sep 2026, 12:49 UTC | #20832</small>]]></content>
+  </entry>
   <entry>
     <title>JEP 544: Ahead-of-Time Code Compilation</title>
     <link href="https://openjdk.org/jeps/544" rel="alternate" />
