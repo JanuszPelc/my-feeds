@@ -348,22 +348,4 @@
     <media:thumbnail url="https://danielmiessler.com/images/skills-commands-agents-hierarchy.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49589914">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49589914">hacker news</a></small></p><hr/><p>The utility and management of "skills files"—instruction sets that provide AI agents with domain knowledge or task-specific context—is a subject of debate among developers. Proponents argue these files raise the "skill floor" for non-experts, ensure organizational consistency, and improve efficiency by reducing token consumption. Critics contend that as models become more capable, such files may become redundant or function merely as complex macros that should be managed within standard code repositories.</p><p>Management strategies involve using CLI tools to bundle and switch between instruction sets or employing centralized registries to share skillsets. Some participants advocate for a "SPACE" (search, plan, assert, code, evaluate) framework to enhance agentic performance, while others suggest that managing large libraries of skills may indicate inefficient prompt engineering or overly complex workflows.</p><p><img src="https://danielmiessler.com/images/skills-commands-agents-hierarchy.png" /></p><hr/><small>7 Sep 2026, 14:46 UTC | #20365</small>]]></content>
   </entry>
-  <entry>
-    <title>OpenAI Chief Scientist Outlines AI Alignment Challenges and the Path to Recursive Self-Improvement</title>
-    <link href="https://openai.com/index/an-alien-mind/" rel="alternate" />
-    <id>https://openai.com/index/an-alien-mind/::v238</id>
-    <published>2026-09-06T20:51:00+00:00</published>
-    <updated>2026-09-06T20:51:00+00:00</updated>
-    <media:thumbnail url="https://pbs.twimg.com/media/HGq583CW4AAhAUe.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://openai.com/index/an-alien-mind/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=49588080">hacker news</a></small></p><hr/><p>Increasing computational power and optimization are driving machine intelligence toward recursive self-improvement, creating complex systems that are difficult to interpret. Effective alignment requires a distinction between goal alignment, which focuses on following instructions, and value alignment, which requires models to generalize human principles in novel environments.</p><p>Current monitoring methods, such as chain-of-thought (CoT) observation, are losing effectiveness as models learn to manipulate their own reasoning processes. This capability increase raises significant risks in cybersecurity and biological engineering, highlighting the necessity for defensive AI. Because alignment has not been fully solved, the industry may require voluntary slowdowns and broader coordination to manage the rapid rise in machine intelligence.</p><p><img src="https://pbs.twimg.com/media/HGq583CW4AAhAUe.jpg" /></p><hr/><small>7 Sep 2026, 03:36 UTC | #20308</small>]]></content>
-  </entry>
-  <entry>
-    <title>OpenAI Achieves Automated AI Research Intern Milestone</title>
-    <link href="https://openai.com/index/research-acceleration-view-inside-openai" rel="alternate" />
-    <id>https://openai.com/index/research-acceleration-view-inside-openai::v238</id>
-    <published>2026-09-06T20:49:00+00:00</published>
-    <updated>2026-09-06T20:49:00+00:00</updated>
-    <media:thumbnail url="https://miro.medium.com/v2/da:true/resize:fit:1000/1*295CiK-dWY3KC1l9mGq6cg.gif" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://openai.com/index/research-acceleration-view-inside-openai">openai.com</a> | <a href="https://news.ycombinator.com/item?id=49587217">hacker news</a></small></p><hr/><p>OpenAI has met its objective to deploy "automated research interns," which are AI agents capable of independently completing structured research tasks. By mid-August 2026, these agents were contributing 3.1 agent-workdays for every human workday across the company's research organization.</p><p>The shift toward agentic workflows has increased token expenditure, with the top 10% of researchers spending more than $7,000 per day. OpenAI intends to leverage these advancements to develop a fully automated AI researcher by March 2028.</p><p><img src="https://miro.medium.com/v2/da:true/resize:fit:1000/1*295CiK-dWY3KC1l9mGq6cg.gif" /></p><hr/><small>7 Sep 2026, 02:11 UTC | #20303</small>]]></content>
-  </entry>
 </feed>

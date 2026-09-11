@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-11T17:47:00+00:00</updated>
+  <updated>2026-09-11T17:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Thomann Includes Synths and Drum Machines in Guitar Days Sale</title>
+    <link href="https://musictech.com/news/gear/thoman-guitar-days-sale-synths/" rel="alternate" />
+    <id>https://musictech.com/news/gear/thoman-guitar-days-sale-synths/::v239</id>
+    <published>2026-09-11T17:49:00+00:00</published>
+    <updated>2026-09-11T17:49:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2025/11/Cubase-15-hero@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/thoman-guitar-days-sale-synths/">musictech.com</a> | <a href="https://www.thomann.co.uk/social_guitar-days.html">source</a></small></p><hr/><p>The Guitar Days sale at Thomann includes discounts on various production tools, including synthesizers, drum machines, and audio interfaces. The promotion covers both physical hardware and digital software.</p><p>Hardware deals feature the Empress Effects ZOIA modular synth, the Flamma FC12 drum machine, and the Korg KR-11 rhythm machine. Software discounts include the Roland Cloud TR-909 and Steinberg Cubase Elements 15.</p><p><img src="https://musictech.com/wp-content/uploads/2025/11/Cubase-15-hero@2000x1500.jpg" /></p><hr/><small>11 Sep 2026, 21:00 UTC | #20854</small>]]></content>
+  </entry>
   <entry>
     <title>Flame Sound Announces Chimera Giveaway</title>
     <link href="https://bedroomproducersblog.com/2026/09/11/chimera-giveaway/" rel="alternate" />
