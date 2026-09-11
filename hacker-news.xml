@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-11T14:46:00+00:00</updated>
+  <updated>2026-09-11T14:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Oleksii Lytvynenko Sentenced to Four Years for Role in Conti Ransomware</title>
+    <link href="https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/" rel="alternate" />
+    <id>https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/::v239</id>
+    <published>2026-09-11T14:47:00+00:00</published>
+    <updated>2026-09-11T14:47:00+00:00</updated>
+    <media:thumbnail url="https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/09/ye-jinghan-T5roX1jajzU-unsplash.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/">bleepingcomputer.com</a> | <a href="https://www.justice.gov/opa/pr/ukrainian-national-sentenced-four-years-prison-wire-fraud-conspiracy-connection-conti">source</a></small></p><hr/><p>Ukrainian national Oleksii Oleksiyovych Lytvynenko has been sentenced to four years in prison for his involvement in the Conti ransomware gang. Lytvynenko, who pleaded guilty to conspiracy to commit wire fraud, acted as both an intruder and a developer, creating malware loaders and managing stolen data for several victims in the United States and overseas.</p><p>The Conti ransomware group, which emerged from the Ryuk cybercrime ring, targeted over 1,000 victims globally before its dissolution in 2022. The organization's operations caused significant international disruption, with the FBI estimating that Conti had collected over $150 million in ransom payments as of early 2022.</p><p><img src="https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/09/ye-jinghan-T5roX1jajzU-unsplash.jpg" /></p><hr/><small>11 Sep 2026, 19:50 UTC | #20831</small>]]></content>
+  </entry>
   <entry>
     <title>Rust Parser Test File: Bastion of the Turbofish</title>
     <link href="https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs" rel="alternate" />
