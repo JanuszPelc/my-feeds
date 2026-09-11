@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-10T17:11:00+00:00</updated>
+  <updated>2026-09-10T22:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Decorrelation Stretch Technique Reveals Faded Ancient Images</title>
+    <link href="https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images" rel="alternate" />
+    <id>https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images::v238</id>
+    <published>2026-09-10T22:00:00+00:00</published>
+    <updated>2026-09-10T22:00:00+00:00</updated>
+    <media:thumbnail url="https://images.stockcake.com/public/9/b/0/9b0e4a3f-d3ce-4811-b3be-1511d496025f/ancient-rock-art-stockcake.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images">spinoff.nasa.gov</a> | <a href="https://news.ycombinator.com/item?id=49645437">hacker news</a></small></p><hr/><p>Decorrelation stretch, an image processing technique developed at NASA’s Jet Propulsion Laboratory for satellite imagery, is being used to reveal faded ancient rock art and archaeological features. The method works by mapping colors to an expanded range, which increases contrast and makes subtle visual details visible in imagery that is otherwise difficult to see.</p><p>The Dstretch plug-in and mobile apps, developed by researcher Jon Harman, have helped uncover previously undocumented paintings in Cambodia, Norway, and Egypt. Beyond rock art, the technology is used for tracking volcanic plumes, identifying buried structures via aerial imagery, and enhancing tattoos on mummified remains.</p><p><img src="https://images.stockcake.com/public/9/b/0/9b0e4a3f-d3ce-4811-b3be-1511d496025f/ancient-rock-art-stockcake.jpg" /></p><hr/><small>11 Sep 2026, 04:10 UTC | #20792</small>]]></content>
+  </entry>
   <entry>
     <title>Spectre Collie Critiques Generative AI and its Impact on the Playdate Ecosystem</title>
     <link href="https://spectrecollie.com/2026/09/05/bad-vibes-coding/" rel="alternate" />

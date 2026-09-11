@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-10T21:36:00+00:00</updated>
+  <updated>2026-09-10T21:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>California Enacts Laws Restricting Chatbots and Addictive Social Media for Minors</title>
+    <link href="https://calmatters.org/economy/technology/2026/09/california-enacts-laws-restricting-chatbots-protecting-kids-online/" rel="alternate" />
+    <id>https://calmatters.org/economy/technology/2026/09/california-enacts-laws-restricting-chatbots-protecting-kids-online/::v238</id>
+    <published>2026-09-10T21:59:00+00:00</published>
+    <updated>2026-09-10T21:59:00+00:00</updated>
+    <media:thumbnail url="https://i0.wp.com/calmatters.org/wp-content/uploads/2026/09/091026-Teen-Phones-IS-CM.jpg?fit=1200%2C800&amp;ssl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://calmatters.org/economy/technology/2026/09/california-enacts-laws-restricting-chatbots-protecting-kids-online/">calmatters.org</a></small></p><hr/><p>Governor Gavin Newsom has signed a package of 13 bills designed to enhance online protections for children. The legislation will ban "addictive" social media features like infinite scroll and autoplay for users under 16 and impose new safety mandates for AI chatbots, including time limits, mandatory mental health resources, and parental notification requirements in cases of self-harm threats.</p><p>The laws follow heightened scrutiny over teen mental health and several incidents involving chatbot-related suicides. While supporters argue the measures address a mental health crisis, critics like the Electronic Frontier Foundation warn that broad definitions of "addictive features" could effectively ban social media for minors. Other included measures establish stricter age-verification requirements and a four-year moratorium on AI-powered chatbot toys for children under 16.</p><p><img src="https://i0.wp.com/calmatters.org/wp-content/uploads/2026/09/091026-Teen-Phones-IS-CM.jpg?fit=1200%2C800&ssl=1" /></p><hr/><small>11 Sep 2026, 04:06 UTC | #20763</small>]]></content>
+  </entry>
   <entry>
     <title>Mark Wahlberg to Discuss Investing and Entrepreneurship at TechCrunch Disrupt 2026</title>
     <link href="https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/" rel="alternate" />
