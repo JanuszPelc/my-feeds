@@ -921,22 +921,4 @@
     <media:thumbnail url="https://docs.snaplogic.com/img/snaps/snaps-core/sp-binary/snap-decompress/ex-decompress-bzip2-scheme.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/iczelia/bzip3">github.com</a> | <a href="https://news.ycombinator.com/item?id=49598291">hacker news</a></small></p><hr/><p>bzip3 is an open-source compression utility designed as a high-performance successor to BZip2. It utilizes an order-0 context mixing entropy coder and an optimized Burrows-Wheeler transform to achieve higher compression ratios and improved performance, particularly when handling text and source code.</p><p>The tool includes benchmarks comparing its compression efficiency and decompression speeds against LZMA, BZip2, and Zstandard. It is released under the LGPLv3 license and supports multiple architectures, including x86, ARM, and PPC64LE.</p><p><img src="https://docs.snaplogic.com/img/snaps/snaps-core/sp-binary/snap-decompress/ex-decompress-bzip2-scheme.png" /></p><hr/><small>7 Sep 2026, 17:56 UTC | #20384</small>]]></content>
   </entry>
-  <entry>
-    <title>GNU Guix Explains Defining Complex Service Configurations</title>
-    <link href="https://guix.gnu.org/blog/2026/demystifying-complex-configurations//" rel="alternate" />
-    <id>https://guix.gnu.org/blog/2026/demystifying-complex-configurations//::v238</id>
-    <published>2026-09-07T13:12:00+00:00</published>
-    <updated>2026-09-07T13:12:00+00:00</updated>
-    <media:thumbnail url="https://terminalroot.com.br/assets/img/gnu/gnu-guix/04.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://guix.gnu.org/blog/2026/demystifying-complex-configurations//">guix.gnu.org</a> | <a href="https://lobste.rs/s/awrzbh/demystifying_complex_configurations">discussion</a></small></p><hr/><p>Managing complex service configurations in GNU Guix and Guix Home involves using the (gnu services configuration) module to create Scheme bindings for service fields. Using the YAML-based Goimapnotify project as an example, the text demonstrates how to use the define-configuration and define-configuration/no-serialization macros to serialize Scheme records into external formats.</p><p>Technical implementation requires handling unhygienic macros and utilizing identifier prefixes to prevent naming collisions during expansion. The guide also explores G-expressions (gexp), which allow for the integration of packages and file-like objects into configuration fields by deferring evaluation until the build stage.</p><p><img src="https://terminalroot.com.br/assets/img/gnu/gnu-guix/04.png" /></p><hr/><small>7 Sep 2026, 17:51 UTC | #20385</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rich Hickey Discusses Hammock Driven Development</title>
-    <link href="https://youtu.be/f84n5oFoZBc" rel="alternate" />
-    <id>https://youtu.be/f84n5oFoZBc::v238</id>
-    <published>2026-09-07T13:10:00+00:00</published>
-    <updated>2026-09-07T13:10:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/MLDwbhuNvZo/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgSihZMA8=&amp;rs=AOn4CLDfjq4_tHTQMHNWIzjPq8EiWFTaGQ" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://youtu.be/f84n5oFoZBc">youtu.be</a> | <a href="https://www.youtube.com/watch?v=f84n5oFoZBc">source</a> | <a href="https://lobste.rs/s/0htvw0/hammock_driven_development_2010">discussion</a></small></p><hr/><p>This development philosophy prioritizes deep thinking and analysis over immediate implementation to prevent costly errors. Most significant software issues arise from misconceptions about the core problem rather than implementation defects. The approach advocates for explicitly identifying problems and assessing proposed solutions against technical constraints and tradeoffs before writing code.</p><p>Stepping away from the keyboard to engage in deliberate thought allows developers to avoid the high costs of rushing into feature development. Effective problem solving is framed as a skill practiced by researching existing solutions, articulating problems clearly, and maintaining a critical stance toward one's own design decisions.</p><p><img src="https://i.ytimg.com/vi/MLDwbhuNvZo/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgSihZMA8=&rs=AOn4CLDfjq4_tHTQMHNWIzjPq8EiWFTaGQ" /></p><hr/><small>7 Sep 2026, 17:37 UTC | #20382</small>]]></content>
-  </entry>
 </feed>

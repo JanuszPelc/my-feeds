@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-12T03:22:00+00:00</updated>
+  <updated>2026-09-12T07:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Clay Mathematics Institute Rejects OpenAI's Claim to Have Solved Navier-Stokes</title>
+    <link href="https://www.claymath.org/news/navier-stokes-announcement/" rel="alternate" />
+    <id>https://www.claymath.org/news/navier-stokes-announcement/::v239</id>
+    <published>2026-09-12T07:21:00+00:00</published>
+    <updated>2026-09-12T07:21:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E12AQETsXyKTNwMqg/article-cover_image-shrink_720_1280/B4EZn1Bv7gKYAI-/0/1760752504864?e=2147483647&amp;v=beta&amp;t=bkKWjkqWi0w9lUSxIHa2HqtTdspweTx5UxHrMRN8UNM" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.claymath.org/news/navier-stokes-announcement/">claymath.org</a> | <a href="https://news.ycombinator.com/item?id=49668706">hacker news</a></small></p><hr/><p>The Clay Mathematics Institute has declined to recognize OpenAI's claim that its AI models solved the Navier-Stokes Millennium Prize problem. While OpenAI asserted that 10,000 agents solved the 90-year-old problem in 88 hours, the Institute noted that the proof relies on mathematical frameworks that many experts exclude.</p><p>The Navier-Stokes problem is one of the seven Millennium Prize Problems. This disagreement highlights the growing debate over the validity of AI-generated mathematical proofs and the standards required for formal scientific certification.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E12AQETsXyKTNwMqg/article-cover_image-shrink_720_1280/B4EZn1Bv7gKYAI-/0/1760752504864?e=2147483647&v=beta&t=bkKWjkqWi0w9lUSxIHa2HqtTdspweTx5UxHrMRN8UNM" /></p><hr/><small>12 Sep 2026, 13:23 UTC | #20913</small>]]></content>
+  </entry>
   <entry>
     <title>Bodily Oddities Catalog Details Human Physical and Neurological Variations</title>
     <link href="https://vester.si/bodily-oddities/" rel="alternate" />
