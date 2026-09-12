@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
   <entry>
+    <title>Dr. Zoppa Releases AMI-Polychaos Generative MIDI Plugin</title>
+    <link href="https://www.kvraudio.com/news/dr-zoppa-releases-ami-polychaos---generative-midi-plugin-that-turns-one-held-note-into-four-voices-of-counterpoint-68505?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68505" rel="alternate" />
+    <id>https://www.kvraudio.com/news/dr-zoppa-releases-ami-polychaos---generative-midi-plugin-that-turns-one-held-note-into-four-voices-of-counterpoint-68505?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68505::v239</id>
+    <published>2026-09-12T12:05:00+00:00</published>
+    <updated>2026-09-12T12:05:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/kvr-ami-polychaos.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dr-zoppa-releases-ami-polychaos---generative-midi-plugin-that-turns-one-held-note-into-four-voices-of-counterpoint-68505?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68505">kvraudio.com</a> | <a href="https://www.drzoppa.com/soft">source</a></small></p><hr/><p>Dr. Zoppa has released AMI-Polychaos, a generative MIDI plugin for macOS available in Audio Unit and VST3 formats. The plugin generates four voices of counterpoint from a single held note or chord by applying chaotic maps to a single trajectory, ensuring the output remains harmonically related rather than producing independent random sequences.</p><p>Developed from algorithmic composition research at UNAM, the plugin produces MIDI data that can be routed into any external instrument. It belongs to the AMI-CMMAS series alongside the AMI-PLSYSTEMS and AMI-POLYMARKOV plugins. AMI-Polychaos is priced at $29 during its introductory period through October 30, 2026, and includes a 30-day free trial.</p><p><img src="https://static.kvraudio.com/i/b/kvr-ami-polychaos.png" /></p><hr/><small>12 Sep 2026, 16:57 UTC | #20911</small>]]></content>
+  </entry>
+  <entry>
     <title>Vitric Audio Updates Harmonic Multiband, Chamfer De-Esser, and Plinth</title>
     <link href="https://www.kvraudio.com/news/vitric-audio-updates-harmonic-multiband-chamfer-de-esser-and-plinth-68484?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68484" rel="alternate" />
     <id>https://www.kvraudio.com/news/vitric-audio-updates-harmonic-multiband-chamfer-de-esser-and-plinth-68484?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68484::v239</id>
@@ -787,23 +796,5 @@
     <updated>2026-09-07T17:05:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/cover-square.1788771568.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/audio-brewers-releases-ab-compressor-limiter---three-dimensional-dynamics-processor-for-any-speaker-array-68405?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68405">kvraudio.com</a> | <a href="https://www.audiobrewers.com/plugins/p/ab-compressor-limiter">source</a></small></p><hr/><p>The new ab Compressor | Limiter is a spatial dynamics processor designed for mono, stereo, and Ambisonics audio. It integrates compression, brickwall limiting, and harmonic saturation, allowing users to apply independent dynamics controls to various dimensional poles, including Front, Back, Left, Right, Top, and Bottom.</p><p>The desktop version supports Ambisonics signals from first through seventh order and is available for macOS and Windows in VST3, AU, and AAX formats. For mobile users, ab Compressor | Limiter X offers stereo processing on iOS as a standalone application or AUv3 plug-in.</p><p><img src="https://static.kvraudio.com/i/b/cover-square.1788771568.png" /></p><hr/><small>7 Sep 2026, 21:31 UTC | #20378</small>]]></content>
-  </entry>
-  <entry>
-    <title>MusicDevelopments Updates RapidComposer to v6.2 and Announces Autumn Sale</title>
-    <link href="https://www.kvraudio.com/news/musicdevelopments-updates-rapidcomposer-to-v6-2-and-announces-autumn-sale-68396?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68396" rel="alternate" />
-    <id>https://www.kvraudio.com/news/musicdevelopments-updates-rapidcomposer-to-v6-2-and-announces-autumn-sale-68396?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68396::v238</id>
-    <published>2026-09-07T17:03:00+00:00</published>
-    <updated>2026-09-07T17:03:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/neu.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/musicdevelopments-updates-rapidcomposer-to-v6-2-and-announces-autumn-sale-68396?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68396">kvraudio.com</a> | <a href="https://www.musicdevelopments.com/">source</a></small></p><hr/><p>RapidComposer v6.2 for Windows and macOS introduces a new Play Mode for the Virtual Keyboard in Live mode. This feature allows users to split the keyboard into left- and right-hand zones to control harmony and melodic phrases independently.</p><p>The update also includes Scene buttons for storing playback settings, one-click MIDI note conversion, and Mackie Control Universal support. A 40% discount is available through September 20 as part of the company's Autumn Sale.</p><p><img src="https://static.kvraudio.com/i/b/neu.jpg" /></p><hr/><small>7 Sep 2026, 21:03 UTC | #20371</small>]]></content>
-  </entry>
-  <entry>
-    <title>Roland Releases Melody Flip AI Melody-Generation Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/07/roland-melody-flip/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/07/roland-melody-flip/::v238</id>
-    <published>2026-09-07T17:02:00+00:00</published>
-    <updated>2026-09-07T17:02:00+00:00</updated>
-    <media:thumbnail url="https://mmagimg.speedgabia.com/2026/03/img-1773904702841-1049f83e552a11fe.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/07/roland-melody-flip/">bedroomproducersblog.com</a> | <a href="https://ebs.publicnow.com/view/1F0CDE822893BCAB71B53A271C2662E63CA274FB">source</a> | <a href="https://bedroomproducersblog.com/2026/09/07/roland-melody-flip/#respond">discussion</a></small></p><hr/><p>Roland Corporation has released Melody Flip, an AI-assisted melody-generation plugin designed for music producers working in digital audio workstations (DAWs). The tool functions as a creative partner by providing editable musical starting points—including melody, chord, bass, and drum ideas—to help users overcome creative blocks and develop original works.</p><p>Developed using research from Sony Computer Science Laboratories, the software features approximately 250 themed "Palettes" organized by genre. The plugin is compatible with macOS and Windows and is available through the Roland Cloud Manager, with support for exporting patterns in both audio and MIDI formats.</p><p><img src="https://mmagimg.speedgabia.com/2026/03/img-1773904702841-1049f83e552a11fe.jpg" /></p><hr/><small>7 Sep 2026, 20:51 UTC | #20372</small>]]></content>
   </entry>
 </feed>
