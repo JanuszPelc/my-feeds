@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-11T18:09:00+00:00</updated>
+  <updated>2026-09-12T15:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>xkcd Fonts Derived from Randall Munroe's Handwriting</title>
+    <link href="https://github.com/ipython/xkcd-font" rel="alternate" />
+    <id>https://github.com/ipython/xkcd-font::v239</id>
+    <published>2026-09-12T15:40:00+00:00</published>
+    <updated>2026-09-12T15:40:00+00:00</updated>
+    <media:thumbnail url="https://www.commercialusefont.com/font-glyph/toms-handwriting-handwriting.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/ipython/xkcd-font">github.com</a> | <a href="https://lobste.rs/s/o6rlho/xkcd_font_xkcd_font">discussion</a></small></p><hr/><p>Two typefaces based on the handwriting of xkcd creator Randall Munroe are available in this repository. The collection includes `xkcd Script`, a less uniform typeface designed to resemble a natural script, and a more legible, uniform version titled `xkcd`.</p><p>The `xkcd` font was originally used in the 2013 webcomic "The Pace of Modern Life." Both fonts are provided in TTF, WOFF, and OTF formats under a Creative Commons Attribution-NonCommercial 3.0 License.</p><p><img src="https://www.commercialusefont.com/font-glyph/toms-handwriting-handwriting.webp" /></p><hr/><small>12 Sep 2026, 18:51 UTC | #20942</small>]]></content>
+  </entry>
   <entry>
     <title>Roblox Announces AI Creation Tools and Standalone App Support</title>
     <link href="https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/" rel="alternate" />
