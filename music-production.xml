@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-11T23:23:00+00:00</updated>
+  <updated>2026-09-12T07:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>FRCTL Audio Releases GRN v4.0.0</title>
+    <link href="https://www.kvraudio.com/news/frctl-audio-releases-grn-v4-0-0---new-engine-gui-rework-per-grain-fx-and-more-68504?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68504" rel="alternate" />
+    <id>https://www.kvraudio.com/news/frctl-audio-releases-grn-v4-0-0---new-engine-gui-rework-per-grain-fx-and-more-68504?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68504::v239</id>
+    <published>2026-09-12T07:19:00+00:00</published>
+    <updated>2026-09-12T07:19:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/grn-v4.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/frctl-audio-releases-grn-v4-0-0---new-engine-gui-rework-per-grain-fx-and-more-68504?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68504">kvraudio.com</a> | <a href="https://frctlaudio.com/products/grn">source</a></small></p><hr/><p>FRCTL Audio has released GRN 4.0.0, a major update to its granular effect plugin featuring a new grain engine and a redesigned interface. The update increases the grain pool to 64 and introduces per-grain lowpass filters, individual drive stages, and a grain shape editor. It also includes a tempo-locked steps strip for creating rhythmic patterns and expanded randomization controls for grain parameters.</p><p>The plugin is available for Windows, macOS, and Linux in VST3, AU, and CLAP formats. Version 4 installs as a separate plugin alongside GRN 3 to ensure existing projects remain compatible, and the update is free for current owners. A 14-day trial and a free Lite version are also available.</p><p><img src="https://static.kvraudio.com/i/b/grn-v4.jpg" /></p><hr/><small>12 Sep 2026, 12:27 UTC | #20903</small>]]></content>
+  </entry>
   <entry>
     <title>neverfoundaudio Releases EEQ-8 Dynamic EQ and Updates VT-Mini</title>
     <link href="https://www.kvraudio.com/news/neverfoundaudio-releases-eeq-8-dynamic-eq-and-updates-vt-mini-to-v1-0-1-windows-vst3-68467?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68467" rel="alternate" />
