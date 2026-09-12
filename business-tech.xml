@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T23:28:00+00:00</updated>
+  <updated>2026-09-11T23:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>CFTC Launches Investigations into Polymarket for Potential Insider Trading</title>
+    <link href="https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/" rel="alternate" />
+    <id>https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/::v239</id>
+    <published>2026-09-11T23:30:00+00:00</published>
+    <updated>2026-09-11T23:30:00+00:00</updated>
+    <media:thumbnail url="https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/1/4/8/shutterstock_2766037417-c049756dad43572c.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/">wired.com</a></small></p><hr/><p>The Commodity Futures Trading Commission (CFTC) has launched at least three previously unreported investigations into potential insider trading on the Polymarket prediction market. These probes cover event contracts related to former President Joseph Biden's pardons, Iran-related market outcomes, and Google's "Year in Search" rankings.</p><p>These investigations follow significant reports of suspicious trading activity, including a $300,000 profit on pardon-related contracts and a $2.4 million gain on Iran-related markets. Federal authorities have previously arrested a US special forces officer and a Google engineer in connection with separate insider trading allegations involving prediction markets.</p><p><img src="https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/1/4/8/shutterstock_2766037417-c049756dad43572c.jpg" /></p><hr/><small>12 Sep 2026, 04:23 UTC | #20883</small>]]></content>
+  </entry>
   <entry>
     <title>Google Completes Talent Acquisition of AI Startup Mechanize</title>
     <link href="https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9" rel="alternate" />
