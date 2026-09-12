@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T23:34:00+00:00</updated>
+  <updated>2026-09-12T03:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google Search Implements `google.com/goto` Redirects for Organic Results</title>
+    <link href="https://www.autom.dev/blog/google-search-goto-links" rel="alternate" />
+    <id>https://www.autom.dev/blog/google-search-goto-links::v239</id>
+    <published>2026-09-12T03:15:00+00:00</published>
+    <updated>2026-09-12T03:15:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D22AQGTKggFU0ZPRQ/feedshare-shrink_800/B4DZzrJYSJGYAc-/0/1773471630774?e=2147483647&amp;v=beta&amp;t=gIfSihd2NqHw6fnAMwwfHBgM4TW5MNPcPg0go88kUj4" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.autom.dev/blog/google-search-goto-links">autom.dev</a> | <a href="https://news.ycombinator.com/item?id=49668386">hacker news</a></small></p><hr/><p>Google is migrating organic search result links to a `google.com/goto` redirect format, replacing direct destination URLs in the HTML. This change, increasingly prevalent in private or logged-out sessions, uses an opaque, encoded `url` parameter that requires clients to inspect the `Location` header to identify the target page.</p><p>This implementation aims to increase the resource cost of automated SERP harvesting by AI crawlers and SEO scrapers. By forcing clients to make additional requests to Google to resolve links, the update makes large-scale scraping slower and more detectable, complementing previous measures such as the removal of the `&amp;num=100` parameter and enhanced bot protection.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D22AQGTKggFU0ZPRQ/feedshare-shrink_800/B4DZzrJYSJGYAc-/0/1773471630774?e=2147483647&v=beta&t=gIfSihd2NqHw6fnAMwwfHBgM4TW5MNPcPg0go88kUj4" /></p><hr/><small>12 Sep 2026, 06:21 UTC | #20900</small>]]></content>
+  </entry>
   <entry>
     <title>US Senate Negotiators Debate 'Duty of Care' for AI Companies</title>
     <link href="https://www.reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11/" rel="alternate" />
