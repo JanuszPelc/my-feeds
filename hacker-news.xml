@@ -957,13 +957,4 @@
     <media:thumbnail url="https://clevertap.com/wp-content/uploads/2019/05/internationalization-vs-localization.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.kashyapsuhas.com/blog/i18n-l10n">kashyapsuhas.com</a> | <a href="https://lobste.rs/s/mqbqbz/internationalization_localization">discussion</a></small></p><hr/><p>Internationalization (i18n) provides the codebase architecture necessary to support localization (l10n), the process of adapting software for specific regions. Effective implementation requires avoiding hardcoded strings, utilizing localization functions, and allowing users to manually override interface settings to prevent forcing preferences.</p><p>Technical challenges include handling complex grammatical rules for plurals, managing variable text lengths in layouts, and supporting Right-to-Left (RTL) text. Software must also implement specific formatting for numbers, currencies, dates, and address structures to accommodate diverse global standards, such as varying date formats and name sequences.</p><p><img src="https://clevertap.com/wp-content/uploads/2019/05/internationalization-vs-localization.png" /></p><hr/><small>7 Sep 2026, 14:54 UTC | #20367</small>]]></content>
   </entry>
-  <entry>
-    <title>Shortest Responding IPv6 Addresses Identified</title>
-    <link href="https://ache.one/notes/vanity-ipv6" rel="alternate" />
-    <id>https://ache.one/notes/vanity-ipv6::v238</id>
-    <published>2026-09-07T10:54:00+00:00</published>
-    <updated>2026-09-07T10:54:00+00:00</updated>
-    <media:thumbnail url="https://dphfzu3i54bzu.cloudfront.net/media/2067/IPv6-Global-Unicast-Address-Breakdown.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ache.one/notes/vanity-ipv6">ache.one</a> | <a href="https://lobste.rs/s/vdalin/shortest_ipv6_addresses">discussion</a></small></p><hr/><p>An experiment was conducted to find the shortest possible responding IPv6 addresses within the global unicast 2000::/3 space. By using a shell script to ping addresses with the first 16-bit block populated and the rest replaced by the :: shorthand, the search targeted functional IPv6 equivalents of highly concise IPv4 addresses.</p><p>The scan identified several responsive addresses, such as 2409:: (APNIC), 2a09:: and 2a11:: (xTom), and 2600:: (Cogent). The results demonstrate that while many short addresses exist in the theoretical address space, only a small number are currently routed and active on the public internet.</p><p><img src="https://dphfzu3i54bzu.cloudfront.net/media/2067/IPv6-Global-Unicast-Address-Breakdown.png" /></p><hr/><small>7 Sep 2026, 14:08 UTC | #20362</small>]]></content>
-  </entry>
 </feed>
