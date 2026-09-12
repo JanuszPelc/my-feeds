@@ -966,13 +966,4 @@
     <media:thumbnail url="https://maps-brussels.com/img/0/brussels-transport-map.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://openbaarvervoerbelgie.be/">openbaarvervoerbelgie.be</a> | <a href="https://news.ycombinator.com/item?id=49595865">hacker news</a></small></p><hr/><p>An interactive live map provides real-time tracking for bus, tram, metro, and train services across Belgium. It aggregates data from De Lijn, STIB-MIVB, TEC, and NMBS, allowing users to monitor vehicle locations, stops, and departure delays.</p><p>The platform supports regional navigation, including dedicated views for Brussels, Antwerp, and various other provinces. By unifying data from multiple transport operators, the service provides a consolidated overview of the Belgian transit network.</p><p><img src="https://maps-brussels.com/img/0/brussels-transport-map.jpg" /></p><hr/><small>8 Sep 2026, 01:14 UTC | #20404</small>]]></content>
   </entry>
-  <entry>
-    <title>Lax Skyline Visualizes Surviving Buildings in Los Angeles</title>
-    <link href="https://lax-skyline.parcelscope.net/" rel="alternate" />
-    <id>https://lax-skyline.parcelscope.net/::v238</id>
-    <published>2026-09-07T18:53:00+00:00</published>
-    <updated>2026-09-07T18:53:00+00:00</updated>
-    <media:thumbnail url="https://maps-los-angeles.com/img/1200/los-angeles-assessor-map.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lax-skyline.parcelscope.net/">lax-skyline.parcelscope.net</a> | <a href="https://news.ycombinator.com/item?id=49601655">hacker news</a></small></p><hr/><p>This project uses individual boxes to represent every standing structure in Los Angeles, placing them on a map based on their year of construction. The visualization focuses solely on the surviving city, excluding any buildings that have been demolished over time.</p><p>Covering the period from 1880 to the present, the tool offers a chronological view of the city's architectural development. It provides a unique perspective on the evolution of the Los Angeles urban landscape by highlighting which structures remain today.</p><p><img src="https://maps-los-angeles.com/img/1200/los-angeles-assessor-map.jpg" /></p><hr/><small>8 Sep 2026, 00:08 UTC | #20402</small>]]></content>
-  </entry>
 </feed>
