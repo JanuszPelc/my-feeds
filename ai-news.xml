@@ -366,13 +366,4 @@
     <media:thumbnail url="https://militaryai.ai/wp-content/uploads/2025/10/aiii.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models">bloomberg.com</a></small></p><hr/><p>ByteDance is developing an AI model for real-time spatial video generation under the supervision of founder Zhang Yiming. The company aims to compete with spatial technologies from Meta and Alphabet, with a potential launch scheduled for as early as next month.</p><p>ByteDance's Seed research team is focusing on "world models" capable of 3D-aware and interactive video. This effort seeks to secure new growth engines for the company beyond its existing social media platforms.</p><p><img src="https://militaryai.ai/wp-content/uploads/2025/10/aiii.jpg" /></p><hr/><small>7 Sep 2026, 20:16 UTC | #20361</small>]]></content>
   </entry>
-  <entry>
-    <title>Managing AI Agent Skills Files</title>
-    <link href="https://news.ycombinator.com/item?id=49589914" rel="alternate" />
-    <id>https://news.ycombinator.com/item?id=49589914::v238</id>
-    <published>2026-09-07T11:02:00+00:00</published>
-    <updated>2026-09-07T11:02:00+00:00</updated>
-    <media:thumbnail url="https://danielmiessler.com/images/skills-commands-agents-hierarchy.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49589914">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49589914">hacker news</a></small></p><hr/><p>The utility and management of "skills files"—instruction sets that provide AI agents with domain knowledge or task-specific context—is a subject of debate among developers. Proponents argue these files raise the "skill floor" for non-experts, ensure organizational consistency, and improve efficiency by reducing token consumption. Critics contend that as models become more capable, such files may become redundant or function merely as complex macros that should be managed within standard code repositories.</p><p>Management strategies involve using CLI tools to bundle and switch between instruction sets or employing centralized registries to share skillsets. Some participants advocate for a "SPACE" (search, plan, assert, code, evaluate) framework to enhance agentic performance, while others suggest that managing large libraries of skills may indicate inefficient prompt engineering or overly complex workflows.</p><p><img src="https://danielmiessler.com/images/skills-commands-agents-hierarchy.png" /></p><hr/><small>7 Sep 2026, 14:46 UTC | #20365</small>]]></content>
-  </entry>
 </feed>
