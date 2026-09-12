@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-12T03:18:00+00:00</updated>
+  <updated>2026-09-12T07:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Polars and DuckDB Outperform Pandas in Medium Data Benchmarks</title>
+    <link href="https://eddie.codes/posts/pandas-should-go-extinct/" rel="alternate" />
+    <id>https://eddie.codes/posts/pandas-should-go-extinct/::v239</id>
+    <published>2026-09-12T07:24:00+00:00</published>
+    <updated>2026-09-12T07:24:00+00:00</updated>
+    <media:thumbnail url="https://eddie.codes/_astro/tools_comparison_gap.BGZ5Vh3N_Z1voFSC.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://eddie.codes/posts/pandas-should-go-extinct/">eddie.codes</a> | <a href="https://lobste.rs/s/imdwmj/pandas_should_go_extinct">discussion</a> | <a href="https://news.ycombinator.com/item?id=49668198">hacker news</a></small></p><hr/><p>The article argues that Pandas is ill-suited for "medium data" workloads—datasets approaching 100GB—because its eager execution and high memory overhead often force users toward complex distributed computing systems. The author suggests that modern, single-machine tools like Polars and DuckDB can bridge the gap between standard data analysis and large-scale distributed systems.</p><p>Benchmarks using the 1 Billion Row Challenge demonstrate that Polars and DuckDB are significantly faster and more memory-efficient than Pandas. While Pandas processes data sequentially and requires substantial RAM, Polars and DuckDB leverage lazy evaluation and multi-threading to provide performance levels much closer to highly optimized, hand-tuned implementations.</p><p><img src="https://eddie.codes/_astro/tools_comparison_gap.BGZ5Vh3N_Z1voFSC.webp" /></p><hr/><small>12 Sep 2026, 13:40 UTC | #20914</small>]]></content>
+  </entry>
   <entry>
     <title>GrapheneOS Messaging Version 13 Released</title>
     <link href="https://github.com/GrapheneOS/Messaging/releases/tag/13" rel="alternate" />
@@ -911,14 +920,5 @@
     <updated>2026-09-07T15:28:00+00:00</updated>
     <media:thumbnail url="https://descargarmoviemaker.net/wp-content/uploads/2017/03/descargar-windows-movie-maker-6-0-01.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker">techemails.com</a> | <a href="https://news.ycombinator.com/item?id=49599481">hacker news</a></small></p><hr/><p>Leaked internal Microsoft emails from January 2003 reveal Bill Gates' frustration with the usability of Windows and Microsoft's web properties. Gates describes a failed attempt to download and install Windows Movie Maker, citing slow website performance, confusing navigation, and an inefficient Windows Update process. He characterizes the installation experience as a "puzzle" and criticizes the clutter left in the system's program list.</p><p>The emails, surfaced during the Comes v. Microsoft litigation, show Microsoft executives discussing how to address fragmented user experiences across different product teams. The correspondence highlights internal discussions regarding whether marketing or engineering should take ownership of the end-to-end user journey for software distribution and updates.</p><p><img src="https://descargarmoviemaker.net/wp-content/uploads/2017/03/descargar-windows-movie-maker-6-0-01.jpg" /></p><hr/><small>7 Sep 2026, 19:22 UTC | #20390</small>]]></content>
-  </entry>
-  <entry>
-    <title>bzip3 Open-Source Compression Tool Developed as BZip2 Successor</title>
-    <link href="https://github.com/iczelia/bzip3" rel="alternate" />
-    <id>https://github.com/iczelia/bzip3::v238</id>
-    <published>2026-09-07T13:36:00+00:00</published>
-    <updated>2026-09-07T13:36:00+00:00</updated>
-    <media:thumbnail url="https://docs.snaplogic.com/img/snaps/snaps-core/sp-binary/snap-decompress/ex-decompress-bzip2-scheme.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/iczelia/bzip3">github.com</a> | <a href="https://news.ycombinator.com/item?id=49598291">hacker news</a></small></p><hr/><p>bzip3 is an open-source compression utility designed as a high-performance successor to BZip2. It utilizes an order-0 context mixing entropy coder and an optimized Burrows-Wheeler transform to achieve higher compression ratios and improved performance, particularly when handling text and source code.</p><p>The tool includes benchmarks comparing its compression efficiency and decompression speeds against LZMA, BZip2, and Zstandard. It is released under the LGPLv3 license and supports multiple architectures, including x86, ARM, and PPC64LE.</p><p><img src="https://docs.snaplogic.com/img/snaps/snaps-core/sp-binary/snap-decompress/ex-decompress-bzip2-scheme.png" /></p><hr/><small>7 Sep 2026, 17:56 UTC | #20384</small>]]></content>
   </entry>
 </feed>
