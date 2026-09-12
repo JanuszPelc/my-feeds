@@ -3,9 +3,36 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-12T12:10:00+00:00</updated>
+  <updated>2026-09-12T19:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Jake Gold Proposes Mandatory Open Weights for Public AI Models</title>
+    <link href="https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/" rel="alternate" />
+    <id>https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/::v239</id>
+    <published>2026-09-12T19:16:00+00:00</published>
+    <updated>2026-09-12T19:16:00+00:00</updated>
+    <media:thumbnail url="https://jacob.gold/images/open-letter-to-dario-amodei-about-open-weights.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/">jacob.gold</a> | <a href="https://news.ycombinator.com/item?id=49676085">hacker news</a></small></p><hr/><p>An open letter to Anthropic CEO Dario Amodei proposes that any AI model released to the public should be legally required to be open weights. The author argues this would slow the pace of AI development by disrupting the high valuations that currently drive massive investment into proprietary frontier models.</p><p>The proposal is framed as an alternative to traditional AI regulation, which the author claims often leads to regulatory capture by established labs. By mandating the release of weights for public-facing models, the author suggests the industry can naturally decelerate without the need for complex regulatory oversight.</p><p><img src="https://jacob.gold/images/open-letter-to-dario-amodei-about-open-weights.webp" /></p><hr/><small>12 Sep 2026, 20:56 UTC | #20948</small>]]></content>
+  </entry>
+  <entry>
+    <title>Room 641A: AT&amp;T-NSA Telecommunication Interception Facility</title>
+    <link href="https://en.wikipedia.org/wiki/Room_641A" rel="alternate" />
+    <id>https://en.wikipedia.org/wiki/Room_641A::v239</id>
+    <published>2026-09-12T16:00:00+00:00</published>
+    <updated>2026-09-12T16:00:00+00:00</updated>
+    <media:thumbnail url="https://static.wixstatic.com/media/49da45_635c556207e64446b569bb4813603c73~mv2.jpg/v1/fill/w_980,h_535,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/49da45_635c556207e64446b569bb4813603c73~mv2.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://en.wikipedia.org/wiki/Room_641A">en.wikipedia.org</a> | <a href="https://news.ycombinator.com/item?id=49662367">hacker news</a></small></p><hr/><p>Operated by AT&amp;T for the U.S. National Security Agency (NSA), this facility served as a hub for mass surveillance. Located in a San Francisco switching center, the room reportedly utilized fiber-optic beam splitters to intercept and analyze high-speed internet backbone traffic. Its existence was publicly revealed in 2006 by whistleblower Mark Klein.</p><p>The disclosure prompted significant legal challenges, including class-action lawsuits filed by the Electronic Frontier Foundation (EFF) alleging illegal wiretapping. While cases such as Hepting v. AT&amp;T and Jewel v. NSA moved through the court system, they were ultimately dismissed due to the state secrets privilege and a retroactive grant of immunity to telecommunications companies by Congress.</p><p><img src="https://static.wixstatic.com/media/49da45_635c556207e64446b569bb4813603c73~mv2.jpg/v1/fill/w_980,h_535,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/49da45_635c556207e64446b569bb4813603c73~mv2.jpg" /></p><hr/><small>12 Sep 2026, 20:52 UTC | #20949</small>]]></content>
+  </entry>
+  <entry>
+    <title>AI Wealth Boom Drives Demand for Specialized Support Ecosystems for Tech Founders</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-11/tech-s-nouveau-riche-suffer-sudden-wealth-syndrome-as-ai-pay-explodes?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTExMzc4NywiZXhwIjoxNzg5NzE4NTg3LCJhcnRpY2xlSWQiOiJUTDZWSTJLSVVQVDQwMCIsImJjb25uZWN0SWQiOiIyODY1ODVGNEFCMTA0QTIzQThGNDFCODUxN0M1RjI0MCJ9.0uH5NRub4abWP4A_Ij2zbsUbT8xJ9FUaqAFTZuoGQYI" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-11/tech-s-nouveau-riche-suffer-sudden-wealth-syndrome-as-ai-pay-explodes?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTExMzc4NywiZXhwIjoxNzg5NzE4NTg3LCJhcnRpY2xlSWQiOiJUTDZWSTJLSVVQVDQwMCIsImJjb25uZWN0SWQiOiIyODY1ODVGNEFCMTA0QTIzQThGNDFCODUxN0M1RjI0MCJ9.0uH5NRub4abWP4A_Ij2zbsUbT8xJ9FUaqAFTZuoGQYI::v239</id>
+    <published>2026-09-12T15:59:00+00:00</published>
+    <updated>2026-09-12T15:59:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/8ekvm6fJIdQ/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-11/tech-s-nouveau-riche-suffer-sudden-wealth-syndrome-as-ai-pay-explodes?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTExMzc4NywiZXhwIjoxNzg5NzE4NTg3LCJhcnRpY2xlSWQiOiJUTDZWSTJLSVVQVDQwMCIsImJjb25uZWN0SWQiOiIyODY1ODVGNEFCMTA0QTIzQThGNDFCODUxN0M1RjI0MCJ9.0uH5NRub4abWP4A_Ij2zbsUbT8xJ9FUaqAFTZuoGQYI">bloomberg.com</a></small></p><hr/><p>The rapid accumulation of wealth resulting from the artificial intelligence boom is creating a new class of tech founders facing "sudden wealth syndrome." These individuals encounter significant psychological and logistical challenges as they manage massive, unexpected liquidity events.</p><p>A growing ecosystem of professional services is emerging to help these individuals navigate the complexities of extreme wealth. This specialized support includes wealth management, legal, and financial planning services tailored to the specific needs of the AI-era nouveau riche.</p><p><img src="https://i.ytimg.com/vi/8ekvm6fJIdQ/maxresdefault.jpg" /></p><hr/><small>12 Sep 2026, 20:48 UTC | #20915</small>]]></content>
+  </entry>
   <entry>
     <title>South Korea Expands Espionage Laws to Protect Semiconductor Industry</title>
     <link href="https://www.ft.com/content/6fa49d3c-e7b9-4bcd-9eb1-b737ff0c552e" rel="alternate" />
