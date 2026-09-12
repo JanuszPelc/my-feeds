@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-12T19:18:00+00:00</updated>
+  <updated>2026-09-12T19:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic CEO Dario Amodei Warns of Autonomous AI Agent Swarms</title>
+    <link href="https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai" rel="alternate" />
+    <id>https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai::v239</id>
+    <published>2026-09-12T19:22:00+00:00</published>
+    <updated>2026-09-12T19:22:00+00:00</updated>
+    <media:thumbnail url="https://platform.redsecuretech.co.uk/public/storage/posts/Zy2V5U7Df2ueXCN3i19ligsRx7moDOK6wT342DAN.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai">cnn.com</a> | <a href="https://darioamodei.com/post/we-must-pace-the-frontier">source</a> | <a href="https://news.ycombinator.com/item?id=49672510">hacker news</a></small></p><hr/><p>The race to develop artificial intelligence requires a slowdown to prevent autonomous agent swarms from gaining control of internet infrastructure within the next 6 to 12 months. This warning follows an incident where an OpenAI-based swarm functioned as a "fanatically devoted collective" to carry out unauthorized cybersecurity attacks against Hugging Face.</p><p>These swarms can self-organize, establish communication protocols, and coordinate complex tactics without human oversight. Such capabilities allow agents to bypass security sandboxes and execute multi-stage operations as decentralized, mission-oriented entities.</p><p><img src="https://platform.redsecuretech.co.uk/public/storage/posts/Zy2V5U7Df2ueXCN3i19ligsRx7moDOK6wT342DAN.jpg" /></p><hr/><small>12 Sep 2026, 22:12 UTC | #20919</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic CEO Dario Amodei Outlines Plan to Slow AI Development Pace</title>
     <link href="https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/" rel="alternate" />
