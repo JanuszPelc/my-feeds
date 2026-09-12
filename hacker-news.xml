@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-12T11:57:00+00:00</updated>
+  <updated>2026-09-12T12:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Unslop News Filters Hacker News to Remove AI-Related Content</title>
+    <link href="https://www.unslop.news/" rel="alternate" />
+    <id>https://www.unslop.news/::v239</id>
+    <published>2026-09-12T12:03:00+00:00</published>
+    <updated>2026-09-12T12:03:00+00:00</updated>
+    <media:thumbnail url="https://www.tyrex-cyber.co.uk/wp-content/uploads/ai-hacking-1024x683.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.unslop.news/">unslop.news</a> | <a href="https://news.ycombinator.com/item?id=49660783">hacker news</a></small></p><hr/><p>The service provides a version of the Hacker News feed that specifically excludes content related to artificial intelligence. It processes incoming submissions to present a stream of information that filters out AI-focused discussions and news.</p><p>The platform is designed for technology professionals and developers who wish to reduce the signal-to-noise ratio caused by the recent influx of AI-related content. It aims to focus the feed on traditional software engineering, hardware, and scientific technical discussions.</p><p><img src="https://www.tyrex-cyber.co.uk/wp-content/uploads/ai-hacking-1024x683.jpg" /></p><hr/><small>12 Sep 2026, 16:44 UTC | #20929</small>]]></content>
+  </entry>
   <entry>
     <title>macOS `defaults` Command Reference and Examples</title>
     <link href="https://macos-defaults.com/" rel="alternate" />
