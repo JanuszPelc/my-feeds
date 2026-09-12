@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-12T19:21:00+00:00</updated>
+  <updated>2026-09-12T19:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Programming Language Features: Flow Typing, Borrow Checking, and Contract Programming</title>
+    <link href="https://prydt.xyz/blog/a-few-good-ideas-in-pl/" rel="alternate" />
+    <id>https://prydt.xyz/blog/a-few-good-ideas-in-pl/::v239</id>
+    <published>2026-09-12T19:26:00+00:00</published>
+    <updated>2026-09-12T19:26:00+00:00</updated>
+    <media:thumbnail url="https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/clone.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://prydt.xyz/blog/a-few-good-ideas-in-pl/">prydt.xyz</a> | <a href="https://lobste.rs/s/er0hfp/few_good_ideas_programming_languages">discussion</a> | <a href="https://news.ycombinator.com/item?id=49671972">hacker news</a></small></p><hr/><p>The article explores three specific programming language features: flow typing, borrow checking, and contract programming. It discusses how these mechanisms enhance developer experience and safety, highlighting implementations in Crystal, TypeScript, Rust, and the D programming language.</p><p>The author describes how flow typing and type narrowing allow compiled languages to provide a dynamic feel without significant runtime penalties. Borrow checking is presented as an elegant, zero-cost abstraction for preventing data races in Rust, while D's contract programming is analyzed through its use of assertions, enforcement, and class-level invariants to maintain program correctness.</p><p><img src="https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/clone.webp" /></p><hr/><small>12 Sep 2026, 22:30 UTC | #20953</small>]]></content>
+  </entry>
+  <entry>
+    <title>GnuPG Vulnerability Disclosure and the 2026 State of Security</title>
+    <link href="https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026" rel="alternate" />
+    <id>https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026::v239</id>
+    <published>2026-09-12T19:25:00+00:00</published>
+    <updated>2026-09-12T19:25:00+00:00</updated>
+    <media:thumbnail url="https://www.secuna.io/images/features/WhySecunaResponseDark.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026">media.ccc.de</a> | <a href="https://www.youtube.com/watch?v=qUBQqDMAShM">source</a> | <a href="https://lobste.rs/s/fcttpk/gpg_fail_aftermath_on_responsible">discussion</a></small></p><hr/><p>Lexi Groves details the discovery and disclosure of several vulnerabilities in GnuPG (GPG) throughout 2025, including memory corruption in the message parser and signature spoofing flaws. While some issues were patched, others remain unaddressed or were categorized by GnuPG developers as intentional "harmful" features.</p><p>The presentation includes live demonstrations of unpatched flaws and introduces novel vulnerabilities found within the GnuPG codebase. It also addresses the broader security landscape, including the implications of AI and Large Language Models for security researchers and developers.</p><p><img src="https://www.secuna.io/images/features/WhySecunaResponseDark.png" /></p><hr/><small>12 Sep 2026, 22:26 UTC | #20950</small>]]></content>
+  </entry>
   <entry>
     <title>OpenStreetMap Contribution Tutorial Using JOSM and Website Wizard Plugin</title>
     <link href="https://high5apps.github.io/josm-plugin-website-wizard/" rel="alternate" />
