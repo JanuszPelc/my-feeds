@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-12T07:21:00+00:00</updated>
+  <updated>2026-09-12T11:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Joel Auterson on the Impact of Generative AI on Creative Craft</title>
+    <link href="https://www.joelotter.com/posts/2026/09/make-it-anyway/" rel="alternate" />
+    <id>https://www.joelotter.com/posts/2026/09/make-it-anyway/::v239</id>
+    <published>2026-09-12T11:43:00+00:00</published>
+    <updated>2026-09-12T11:43:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4buorDsJ3yKF-z7UacyfhqICODZbL9TwUdo5ix2_EYlQ4vvkA-uxGG8KSVK6-E-ZYU_qahOtheRerorGOANtlclyfYnouoNbY6rHMfyuvUnE9VbDKM7pWmD1TP3VAhR7-LMyGuicFA_dY3vLEDB_7x-bSL39OnBFbKgTKmY4ao-p5HMweWsWVkYdYHu8/w1200-h630-p-k-no-nu/Insights+-+Billion+Hopes+-+Cognitive+Load+and+Burnout+in+AI+Assisted+Software+Engineering.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.joelotter.com/posts/2026/09/make-it-anyway/">joelotter.com</a> | <a href="https://news.ycombinator.com/item?id=49671329">hacker news</a></small></p><hr/><p>Generative AI presents significant psychological and professional challenges for programmers and game developers, according to an essay by Joel Auterson. He argues that the ease of generating code and tools through AI assistants can diminish a creator's sense of ownership and pride, potentially devaluing the satisfaction derived from manual mastery of a craft.</p><p>The piece explores the tension between using AI to achieve efficiency and pursuing difficult, manual development processes to preserve the joy of learning. Auterson concludes that continuing to build things personally—such as developing custom engines from scratch—remains a meaningful way to maintain creative purpose despite the shifting technological landscape.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4buorDsJ3yKF-z7UacyfhqICODZbL9TwUdo5ix2_EYlQ4vvkA-uxGG8KSVK6-E-ZYU_qahOtheRerorGOANtlclyfYnouoNbY6rHMfyuvUnE9VbDKM7pWmD1TP3VAhR7-LMyGuicFA_dY3vLEDB_7x-bSL39OnBFbKgTKmY4ao-p5HMweWsWVkYdYHu8/w1200-h630-p-k-no-nu/Insights+-+Billion+Hopes+-+Cognitive+Load+and+Burnout+in+AI+Assisted+Software+Engineering.png" /></p><hr/><small>12 Sep 2026, 14:18 UTC | #20916</small>]]></content>
+  </entry>
   <entry>
     <title>Clay Mathematics Institute Rejects OpenAI's Claim to Have Solved Navier-Stokes</title>
     <link href="https://www.claymath.org/news/navier-stokes-announcement/" rel="alternate" />
