@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T23:21:00+00:00</updated>
+  <updated>2026-09-11T23:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>UK GDP Grows 0.4% in July Driven by AI</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-11/ai-shows-tentative-signs-of-lifting-britain-out-of-its-slump" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-11/ai-shows-tentative-signs-of-lifting-britain-out-of-its-slump::v239</id>
+    <published>2026-09-11T23:26:00+00:00</published>
+    <updated>2026-09-11T23:26:00+00:00</updated>
+    <media:thumbnail url="https://www.economicshelp.org/wp-content/uploads/2025/12/gdp-monthly-growth-dec-25-e1765814984523-800x628.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-11/ai-shows-tentative-signs-of-lifting-britain-out-of-its-slump">bloomberg.com</a> | <a href="https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/july2026">source</a></small></p><hr/><p>The UK's economy grew 0.4% in July, surpassing economist expectations of a 0.1% expansion. The Office for National Statistics (ONS) attributed the growth spurt to significant contributions from the artificial intelligence and cloud computing sectors.</p><p>Services output increased by 0.6%, with computer programming specifically contributing 0.12 percentage points to the overall GDP growth following a 3.5% rise in output.</p><p><img src="https://www.economicshelp.org/wp-content/uploads/2025/12/gdp-monthly-growth-dec-25-e1765814984523-800x628.jpg" /></p><hr/><small>12 Sep 2026, 02:50 UTC | #20874</small>]]></content>
+  </entry>
   <entry>
     <title>TechCrunch Disrupt 2026 Exhibit Table Bookings Close September 18</title>
     <link href="https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/" rel="alternate" />
