@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-12T03:15:00+00:00</updated>
+  <updated>2026-09-12T03:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple Watch AI Features Face Scrutiny Over Eavesdropping Laws</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTE1NDQ5NCwiZXhwIjoxNzg5NzU5Mjk0LCJhcnRpY2xlSWQiOiJUTDRBMFJLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.qZQz2riYl4bRh-FpnvBbnSf5mcXDqWbO5s5Q9JoUYD0" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTE1NDQ5NCwiZXhwIjoxNzg5NzU5Mjk0LCJhcnRpY2xlSWQiOiJUTDRBMFJLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.qZQz2riYl4bRh-FpnvBbnSf5mcXDqWbO5s5Q9JoUYD0::v239</id>
+    <published>2026-09-12T03:19:00+00:00</published>
+    <updated>2026-09-12T03:19:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/card_img/2098493804672167940/fWdJ_sBb?format=webp&amp;name=medium" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTE1NDQ5NCwiZXhwIjoxNzg5NzU5Mjk0LCJhcnRpY2xlSWQiOiJUTDRBMFJLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.qZQz2riYl4bRh-FpnvBbnSf5mcXDqWbO5s5Q9JoUYD0">bloomberg.com</a></small></p><hr/><p>Siri Recap and Live Rewind, the "always-listening" AI features included with the Apple Watch Series 12 and Ultra 4, may conflict with existing eavesdropping laws. Legal experts argue that the continuous audio monitoring required for these tools could present legal risks for users, regardless of the privacy protections implemented by Apple.</p><p>The features use "Audio Intelligence" to process ambient sound, with Live Rewind specifically transcribing the last 15 seconds of a user's surroundings. The debate centers on whether such continuous transcription in various environments constitutes unauthorized interception of communications.</p><p><img src="https://pbs.twimg.com/card_img/2098493804672167940/fWdJ_sBb?format=webp&name=medium" /></p><hr/><small>12 Sep 2026, 07:59 UTC | #20893</small>]]></content>
+  </entry>
   <entry>
     <title>Google Search Implements `google.com/goto` Redirects for Organic Results</title>
     <link href="https://www.autom.dev/blog/google-search-goto-links" rel="alternate" />
