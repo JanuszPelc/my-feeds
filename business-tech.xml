@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-12T19:22:00+00:00</updated>
+  <updated>2026-09-12T19:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI Chatbots Challenge the US Legal System</title>
+    <link href="https://www.bloomberg.com/features/2026-ai-crime-legal-ikner-chatgpt/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODk3NjYxNSwiZXhwIjoxNzg5NTgxNDE1LCJhcnRpY2xlSWQiOiJUTDNENFFLSVAzSU4wMCIsImJjb25uZWN0SWQiOiIxQzU5RkM5NjZDRTU0N0QwOTc1RkRBNTFBRTY1N0ZENyJ9.-lZtbagSFrQqOnr2OmIkA0ipKU0AqLMqZlE0v01O3Z8" rel="alternate" />
+    <id>https://www.bloomberg.com/features/2026-ai-crime-legal-ikner-chatgpt/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODk3NjYxNSwiZXhwIjoxNzg5NTgxNDE1LCJhcnRpY2xlSWQiOiJUTDNENFFLSVAzSU4wMCIsImJjb25uZWN0SWQiOiIxQzU5RkM5NjZDRTU0N0QwOTc1RkRBNTFBRTY1N0ZENyJ9.-lZtbagSFrQqOnr2OmIkA0ipKU0AqLMqZlE0v01O3Z8::v239</id>
+    <published>2026-09-12T19:28:00+00:00</published>
+    <updated>2026-09-12T19:28:00+00:00</updated>
+    <media:thumbnail url="https://cssh.northeastern.edu/wp-content/uploads/2026/05/051926_MM_chatgpt_app_1400-640x640-c-default.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/features/2026-ai-crime-legal-ikner-chatgpt/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODk3NjYxNSwiZXhwIjoxNzg5NTgxNDE1LCJhcnRpY2xlSWQiOiJUTDNENFFLSVAzSU4wMCIsImJjb25uZWN0SWQiOiIxQzU5RkM5NjZDRTU0N0QwOTc1RkRBNTFBRTY1N0ZENyJ9.-lZtbagSFrQqOnr2OmIkA0ipKU0AqLMqZlE0v01O3Z8">bloomberg.com</a></small></p><hr/><p>The US justice system is struggling to adapt to generative artificial intelligence as these technologies appear in courtroom and criminal contexts. Chatbots are being used to provide unauthorized legal counsel, generate fraudulent evidence, and assist in the planning of criminal activities.</p><p>These incidents highlight significant legal gaps regarding liability for AI-driven actions. As these tools become more sophisticated, lawmakers and legal experts face the challenge of determining whether developers or users are responsible for the consequences of chatbot outputs.</p><p><img src="https://cssh.northeastern.edu/wp-content/uploads/2026/05/051926_MM_chatgpt_app_1400-640x640-c-default.jpg" /></p><hr/><small>12 Sep 2026, 23:36 UTC | #20931</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic CEO Dario Amodei Warns of Autonomous AI Agent Swarms</title>
     <link href="https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai" rel="alternate" />
