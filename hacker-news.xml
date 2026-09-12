@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-12T14:49:00+00:00</updated>
+  <updated>2026-09-12T15:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>AI Agent Use Cases Beyond Writing Code</title>
+    <link href="https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code" rel="alternate" />
+    <id>https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code::v239</id>
+    <published>2026-09-12T15:57:00+00:00</published>
+    <updated>2026-09-12T15:57:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQHxdb7k_-9ORA/feedshare-shrink_800/B56ZyzgoNpIYAg-/0/1772538217722?e=2147483647&amp;v=beta&amp;t=TXQ9dEpo3FHDMeOat25qwFykVZkMQ1FeknP3TiKgUjc" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code">elijahpotter.dev</a> | <a href="https://lobste.rs/s/ub8q3s/useful_things_agents_can_do_are_not">discussion</a></small></p><hr/><p>AI agents can perform various development tasks beyond writing source code, such as resolving merge conflicts in pull requests, identifying relevant issues in repositories, and diagnosing GitHub Actions failures. Specific prompt templates for the `pi` agent are provided to automate these maintenance and administrative processes.</p><p>These prompts are intended as inspiration for individual developer workflows rather than strict instructions. Automating routine tasks like fixing formatting errors or investigating CI/CD failures can reduce the administrative overhead involved in the development lifecycle.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQHxdb7k_-9ORA/feedshare-shrink_800/B56ZyzgoNpIYAg-/0/1772538217722?e=2147483647&v=beta&t=TXQ9dEpo3FHDMeOat25qwFykVZkMQ1FeknP3TiKgUjc" /></p><hr/><small>12 Sep 2026, 19:21 UTC | #20945</small>]]></content>
+  </entry>
   <entry>
     <title>buildprof Released to Profile Linux Software Builds</title>
     <link href="https://lalitm.com/post/buildprof/" rel="alternate" />
