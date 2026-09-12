@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T19:35:00+00:00</updated>
+  <updated>2026-09-11T19:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Moonshot AI Targets $2 Billion in Annualized Revenue</title>
+    <link href="https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/::v239</id>
+    <published>2026-09-11T19:36:00+00:00</published>
+    <updated>2026-09-11T19:36:00+00:00</updated>
+    <media:thumbnail url="https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-4.30.39-PM-1-1536x1283.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/">techcrunch.com</a> | <a href="https://www.bloomberg.com/news/articles/2026-09-11/china-ai-star-moonshot-eyes-2-billion-annualized-sales-in-2026">source</a></small></p><hr/><p>The developer of the Kimi model aims to reach $2 billion in annualized revenue by the end of 2026, doubling its reported revenue run rate from August. This growth is driven by the success of the Kimi K3 open-weight model, which currently generates hundreds of billions of tokens daily via OpenRouter.</p><p>Moonshot's revenue remains significantly lower than that of industry leaders OpenAI and Anthropic. The company is also facing accusations from Anthropic regarding a model distillation campaign used to collect millions of responses from Claude models to train its own systems.</p><p><img src="https://www.marktechpost.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-4.30.39-PM-1-1536x1283.png" /></p><hr/><small>12 Sep 2026, 00:41 UTC | #20873</small>]]></content>
+  </entry>
   <entry>
     <title>Frank Shaw to Step Down as Microsoft Chief Communications Officer</title>
     <link href="https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms" rel="alternate" />
