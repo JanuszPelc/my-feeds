@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-12T11:54:00+00:00</updated>
+  <updated>2026-09-12T11:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>macOS `defaults` Command Reference and Examples</title>
+    <link href="https://macos-defaults.com/" rel="alternate" />
+    <id>https://macos-defaults.com/::v239</id>
+    <published>2026-09-12T11:57:00+00:00</published>
+    <updated>2026-09-12T11:57:00+00:00</updated>
+    <media:thumbnail url="https://eshop.macsales.com/blog/wp-content/uploads/2021/09/Graphic-two-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://macos-defaults.com/">macos-defaults.com</a> | <a href="https://lobste.rs/s/n54ybt/list_macos_defaults_commands_with_demos">discussion</a> | <a href="https://news.ycombinator.com/item?id=49669001">hacker news</a></small></p><hr/><p>The `defaults` command-line interface allows users to manage and modify macOS configuration settings stored in system domains. This guide provides a structured list of commands for accessing and altering user preferences across various system components.</p><p>Many of the provided commands target "hidden" settings that are inaccessible through the standard macOS System Settings interface. The collection spans diverse areas including the Dock, Finder, Mission Control, and various input device behaviors.</p><p><img src="https://eshop.macsales.com/blog/wp-content/uploads/2021/09/Graphic-two-1.png" /></p><hr/><small>12 Sep 2026, 15:58 UTC | #20926</small>]]></content>
+  </entry>
   <entry>
     <title>C++ Spin-Lock Optimization</title>
     <link href="https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/" rel="alternate" />
