@@ -984,13 +984,4 @@
     <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/sony-ult-tower-speakers@2000x1500.jpg" />
     <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/all-you-need-to-know-sony-ult-tower-speakers-features-pricing-availability/">musictech.com</a> | <a href="https://www.sony.co.uk/store/speakers">source</a></small></p><hr/><p>Sony has announced the ULT TOWER MAX, ULT TOWER 7, and ULT TOWER 5 as part of its ULT POWER SOUND series. These speakers feature large circular woofers designed to increase low-frequency bass performance for use in partying, DJing, and karaoke.</p><p>The ULT TOWER MAX provides up to 2150 watts of output with three woofers, the ULT TOWER 7 offers 420 watts, and the ULT TOWER 5 provides 300 watts. The lineup includes four sound profiles—ULT1, ULT2, FLAT, and LIVE—and supports Auracast-enabled Party Chain synchronization between compatible devices.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/sony-ult-tower-speakers@2000x1500.jpg" /></p><hr/><small>7 Sep 2026, 14:00 UTC | #20329</small>]]></content>
   </entry>
-  <entry>
-    <title>Meziantou.Framework.PublicApiGenerator for .NET API Review</title>
-    <link href="https://csharpdigest.net/links/23176/rss" rel="alternate" />
-    <id>https://csharpdigest.net/links/23176/rss::v238</id>
-    <published>2026-09-07T08:10:00+00:00</published>
-    <updated>2026-09-07T08:10:00+00:00</updated>
-    <media:thumbnail url="https://www.meziantou.net/assets/exporter-html-example-th-w1600-h0.png?v=f8a9" />
-    <content type="html"><![CDATA[<p><small>C# Digest | <a href="https://csharpdigest.net/links/23176/rss">csharpdigest.net</a> | <a href="https://www.meziantou.net/generate-and-review-the-public-api-of-a-dotnet-library.htm">source</a></small></p><hr/><p>This tool generates compilable C# files that represent the public surface of a .NET assembly, allowing developers to review API changes through standard pull request diffs. By converting metadata into familiar C# syntax, it helps identify breaking changes in method signatures, attributes, or nullable annotations.</p><p>The generator supports multi-targeting by merging assemblies from various frameworks into a single output file using `#if` directives and accommodates modern C# features like union types. It can be integrated into CI pipelines via a .NET tool, an MSBuild task, or a library to validate that the public API remains consistent with an approved baseline.</p><p><img src="https://www.meziantou.net/assets/exporter-html-example-th-w1600-h0.png?v=f8a9" /></p><hr/><small>7 Sep 2026, 13:42 UTC | #20358</small>]]></content>
-  </entry>
 </feed>
