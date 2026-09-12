@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-12T11:43:00+00:00</updated>
+  <updated>2026-09-12T12:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>The Fallacy of Measuring Progress via Quantitative Output</title>
+    <link href="https://exple.tive.org/blarg/2026/09/10/the-wind-the-wind/" rel="alternate" />
+    <id>https://exple.tive.org/blarg/2026/09/10/the-wind-the-wind/::v239</id>
+    <published>2026-09-12T12:13:00+00:00</published>
+    <updated>2026-09-12T12:13:00+00:00</updated>
+    <media:thumbnail url="https://www.smartsheet.com/sites/default/files/styles/1300px/public/2021-08/IC-Construction-Project-Cost-Control-Sheet-Template.png?itok=9tQGAIdk" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://exple.tive.org/blarg/2026/09/10/the-wind-the-wind/">exple.tive.org</a> | <a href="https://lobste.rs/s/akchzn/wind_wind">discussion</a> | <a href="https://news.ycombinator.com/item?id=49650665">hacker news</a></small></p><hr/><p>The essay uses a metaphor involving nail counts in construction to critique the practice of using superficial, volume-based metrics to measure progress. This approach prioritizes measurable throughput over functional quality, often neglecting essential requirements like structural integrity or weatherproofing.</p><p>As the cost of these "nails" rises, the author suggests that management is shifting toward addressing actual user needs and quality. The piece concludes by observing a sense of emptiness in markets that prioritize quantity over utility.</p><p><img src="https://www.smartsheet.com/sites/default/files/styles/1300px/public/2021-08/IC-Construction-Project-Cost-Control-Sheet-Template.png?itok=9tQGAIdk" /></p><hr/><small>12 Sep 2026, 17:53 UTC | #20940</small>]]></content>
+  </entry>
   <entry>
     <title>Joel Auterson on the Impact of Generative AI on Creative Craft</title>
     <link href="https://www.joelotter.com/posts/2026/09/make-it-anyway/" rel="alternate" />

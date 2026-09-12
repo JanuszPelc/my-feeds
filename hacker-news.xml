@@ -3,9 +3,36 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-12T12:09:00+00:00</updated>
+  <updated>2026-09-12T14:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>buildprof Released to Profile Linux Software Builds</title>
+    <link href="https://lalitm.com/post/buildprof/" rel="alternate" />
+    <id>https://lalitm.com/post/buildprof/::v239</id>
+    <published>2026-09-12T14:49:00+00:00</published>
+    <updated>2026-09-12T14:49:00+00:00</updated>
+    <media:thumbnail url="https://lalitm.com/assets/buildprof/ripgrep-overview.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lalitm.com/post/buildprof/">lalitm.com</a> | <a href="https://lobste.rs/s/qsrjs2/i_made_build_profiler_understand_bun_s">discussion</a></small></p><hr/><p>Lalit Maganti has released buildprof, an open-source tracing tool that visualizes software build processes on Linux as a hierarchical timeline. The tool tracks all subprocesses, allowing developers to identify performance bottlenecks such as inefficient parallelism, repeated work, or long-running compiler and linker invocations.</p><p>Developed to investigate the performance gap between Bun's Zig and Rust builds, the tool revealed that Full Link-Time Optimization (LTO) in the linker was a primary contributor to the Zig build's duration. The analysis further indicated that the Rust implementation's multi-crate structure facilitated significantly more parallelism than the single, monolithic Zig module used in previous versions.</p><p><img src="https://lalitm.com/assets/buildprof/ripgrep-overview.png" /></p><hr/><small>12 Sep 2026, 18:01 UTC | #20933</small>]]></content>
+  </entry>
+  <entry>
+    <title>TurboCrypt Adopts Base84 for Cross-Platform File Name Compatibility</title>
+    <link href="https://00f.net/2026/09/09/base84/" rel="alternate" />
+    <id>https://00f.net/2026/09/09/base84/::v239</id>
+    <published>2026-09-12T14:39:00+00:00</published>
+    <updated>2026-09-12T14:39:00+00:00</updated>
+    <media:thumbnail url="https://www.partitionwizard.com/images/uploads/articles/2022/11/command-prompt-list-files/command-prompt-list-files-3.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://00f.net/2026/09/09/base84/">00f.net</a> | <a href="https://github.com/jedisct1/turbocrypt">source</a> | <a href="https://lobste.rs/s/bfiose/base84_deserves_place_file_names">discussion</a></small></p><hr/><p>TurboCrypt is transitioning from Base91 to Base84 encoding for its encrypted file and directory names to ensure compatibility with Windows. While Base91 is suitable for Unix and macOS, it contains characters that are illegal in Windows filenames.</p><p>The Base84 implementation uses an 84-character ASCII alphabet that avoids forbidden characters, dots, and Windows reserved device names like CON or NUL. This method provides approximately 25.2% expansion and ensures that encoded strings are portable across Linux, macOS, and Windows filesystems.</p><p><img src="https://www.partitionwizard.com/images/uploads/articles/2022/11/command-prompt-list-files/command-prompt-list-files-3.png" /></p><hr/><small>12 Sep 2026, 17:59 UTC | #20938</small>]]></content>
+  </entry>
+  <entry>
+    <title>DiffOS Aims to Meet GNU Free System Distribution Guidelines</title>
+    <link href="https://www.diffos.org/" rel="alternate" />
+    <id>https://www.diffos.org/::v239</id>
+    <published>2026-09-12T12:14:00+00:00</published>
+    <updated>2026-09-12T12:14:00+00:00</updated>
+    <media:thumbnail url="https://ubunlog.com/wp-content/uploads/2026/03/APTUI.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.diffos.org/">diffos.org</a> | <a href="https://lobste.rs/s/mfx8ja/diffos_is_for_freedom">discussion</a></small></p><hr/><p>Designed to meet the Free System Distribution Guidelines (FSDG), DiffOS is a Debian-based GNU/Linux distribution striving to become a recognized free operating system. The project follows an upstream-first policy, prioritizing the reuse of Debian binary packages and only modifying source code when required for freedom or branding concerns.</p><p>Stable package archives for Debian versions bullseye, bookworm, and trixie are available for architectures including amd64, arm64, ppc64el, and riscv64. Users can access container and cloud images, while installation and Live ISOs are currently in development.</p><p><img src="https://ubunlog.com/wp-content/uploads/2026/03/APTUI.webp" /></p><hr/><small>12 Sep 2026, 17:57 UTC | #20941</small>]]></content>
+  </entry>
   <entry>
     <title>Trail of Bits Operates Independent Auditor for Signal Automatic Key Verification</title>
     <link href="https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/" rel="alternate" />
