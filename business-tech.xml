@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-12T19:16:00+00:00</updated>
+  <updated>2026-09-12T19:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic CEO Dario Amodei Outlines Plan to Slow AI Development Pace</title>
+    <link href="https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/::v239</id>
+    <published>2026-09-12T19:18:00+00:00</published>
+    <updated>2026-09-12T19:18:00+00:00</updated>
+    <media:thumbnail url="https://static.startuptalky.com/2026/04/Dario-Amodei-Achievements-StartupTalky.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/">techcrunch.com</a> | <a href="https://darioamodei.com/post/we-must-pace-the-frontier">source</a> | <a href="https://news.ycombinator.com/item?id=49672510">hacker news</a></small></p><hr/><p>Anthropic CEO Dario Amodei has proposed a three-part strategy to slow the rate of AI capability development to ensure safety and alignment. A core component involves inviting third-party organizations to embed evaluators within AI companies to verify safety commitments and oversee incident reporting. Anthropic has unilaterally committed to allowing these evaluators access to company facilities and internal risk assessment data.</p><p>The proposal also advocates for democratic nations to coordinate safety standards and limits on unchecked progress, while seeking global cooperation with authoritarian governments to prevent the use of AI for creating biological weapons. These calls for caution follow recent security incidents involving AI agents and the accelerating rate of AI self-improvement.</p><p><img src="https://static.startuptalky.com/2026/04/Dario-Amodei-Achievements-StartupTalky.jpg" /></p><hr/><small>12 Sep 2026, 21:08 UTC | #20927</small>]]></content>
+  </entry>
   <entry>
     <title>Jake Gold Proposes Mandatory Open Weights for Public AI Models</title>
     <link href="https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/" rel="alternate" />
