@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-12T03:19:00+00:00</updated>
+  <updated>2026-09-12T03:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amazon Integrates Shopping Into Prime Video via X-Ray and Visual Search</title>
+    <link href="https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/::v239</id>
+    <published>2026-09-12T03:20:00+00:00</published>
+    <updated>2026-09-12T03:20:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/2.-Shop-the-Scene.png?w=680" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/">techcrunch.com</a> | <a href="https://press.aboutamazon.com/prime-video/2026/9/the-prime-video-shop-the-show-experience-introduces-new-features-and-expands-across-thousands-of-titles">source</a></small></p><hr/><p>Amazon is introducing new features to Prime Video to facilitate in-content shopping through the X-Ray interface and visual search technology. A new "Shop" tab in the X-Ray experience on Fire TV allows users to browse related products via the Amazon Shopping app, while a "Shop the Scene" feature uses Amazon Lens to identify clothing and home decor in video clips. Additionally, the "Shop the Show" second-screen experience is expanding its coverage from 1,300 to over 8,000 titles in the U.S.</p><p>These updates follow industry trends from competitors like YouTube, Peacock, and Disney, who are all integrating shoppable elements into streaming services to create additional revenue streams. While the "Shop the Scene" technology may offer approximations for custom or high-end items rather than exact matches, it aims to streamline the transition from viewing to purchasing.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/2.-Shop-the-Scene.png?w=680" /></p><hr/><small>12 Sep 2026, 08:51 UTC | #20895</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Watch AI Features Face Scrutiny Over Eavesdropping Laws</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTE1NDQ5NCwiZXhwIjoxNzg5NzU5Mjk0LCJhcnRpY2xlSWQiOiJUTDRBMFJLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.qZQz2riYl4bRh-FpnvBbnSf5mcXDqWbO5s5Q9JoUYD0" rel="alternate" />
