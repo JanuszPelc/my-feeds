@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T23:26:00+00:00</updated>
+  <updated>2026-09-11T23:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google Completes Talent Acquisition of AI Startup Mechanize</title>
+    <link href="https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9" rel="alternate" />
+    <id>https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9::v239</id>
+    <published>2026-09-11T23:28:00+00:00</published>
+    <updated>2026-09-11T23:28:00+00:00</updated>
+    <media:thumbnail url="https://blog.talentpickai.com/wp-content/uploads/2026/01/The-Future-of-AI-in-Talent-Acquisition.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9">businessinsider.com</a></small></p><hr/><p>Google has completed a talent acquisition of San Francisco-based startup Mechanize Inc, according to LinkedIn profiles of former employees. The deal is reportedly valued at over $1.5 billion.</p><p>Mechanize co-founder and former CEO Tamay Besiroglu has joined Google's DeepMind division as a research scientist. The transaction highlights the intensive competition and high valuations associated with securing specialized talent in the AI coding and agentic AI markets.</p><p><img src="https://blog.talentpickai.com/wp-content/uploads/2026/01/The-Future-of-AI-in-Talent-Acquisition.webp" /></p><hr/><small>12 Sep 2026, 03:26 UTC | #20879</small>]]></content>
+  </entry>
   <entry>
     <title>UK GDP Grows 0.4% in July Driven by AI</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-11/ai-shows-tentative-signs-of-lifting-britain-out-of-its-slump" rel="alternate" />
