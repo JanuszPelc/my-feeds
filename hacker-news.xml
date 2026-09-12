@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-12T12:06:00+00:00</updated>
+  <updated>2026-09-12T12:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Trail of Bits Operates Independent Auditor for Signal Automatic Key Verification</title>
+    <link href="https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/" rel="alternate" />
+    <id>https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/::v239</id>
+    <published>2026-09-12T12:09:00+00:00</published>
+    <updated>2026-09-12T12:09:00+00:00</updated>
+    <media:thumbnail url="https://cyberinsider.com/wp-content/uploads/2026/05/verified-1-1024x783.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/">blog.trailofbits.com</a> | <a href="https://lobste.rs/s/zjklvq/how_trail_bits_helps_verify_integrity">discussion</a></small></p><hr/><p>Trail of Bits operates an independent, open-source auditor for Signal’s Automatic Key Verification feature to prevent server-side key substitution attacks. The system uses key transparency to help users detect if a compromised server is providing fraudulent public keys to intercept encrypted communications.</p><p>The auditor maintains a local Merkle tree of the public key map and periodically signs the tree head to ensure global consistency. Signal clients require valid signatures from three independent auditors—Signal, Cloudflare, and Trail of Bits—to verify that the key log is well-formed and has not been manipulated by a malicious server.</p><p><img src="https://cyberinsider.com/wp-content/uploads/2026/05/verified-1-1024x783.jpeg" /></p><hr/><small>12 Sep 2026, 17:19 UTC | #20935</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Neural Engine Architecture Reverse-Engineered</title>
     <link href="https://eiln.github.io/posts/ane.html" rel="alternate" />
@@ -938,23 +947,5 @@
     <updated>2026-09-07T18:53:00+00:00</updated>
     <media:thumbnail url="https://maps-los-angeles.com/img/1200/los-angeles-assessor-map.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lax-skyline.parcelscope.net/">lax-skyline.parcelscope.net</a> | <a href="https://news.ycombinator.com/item?id=49601655">hacker news</a></small></p><hr/><p>This project uses individual boxes to represent every standing structure in Los Angeles, placing them on a map based on their year of construction. The visualization focuses solely on the surviving city, excluding any buildings that have been demolished over time.</p><p>Covering the period from 1880 to the present, the tool offers a chronological view of the city's architectural development. It provides a unique perspective on the evolution of the Los Angeles urban landscape by highlighting which structures remain today.</p><p><img src="https://maps-los-angeles.com/img/1200/los-angeles-assessor-map.jpg" /></p><hr/><small>8 Sep 2026, 00:08 UTC | #20402</small>]]></content>
-  </entry>
-  <entry>
-    <title>Xteink X3 Tiny E-Reader Encourages Micro-Reading</title>
-    <link href="https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/" rel="alternate" />
-    <id>https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/::v238</id>
-    <published>2026-09-07T17:13:00+00:00</published>
-    <updated>2026-09-07T17:13:00+00:00</updated>
-    <media:thumbnail url="https://media.goodereader.com/blog/uploads/images/2026/04/16215515/P1360427.JPG" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/">theatlantic.com</a> | <a href="https://www.xteink.com/products/xteink-x3">source</a> | <a href="https://news.ycombinator.com/item?id=49596629">hacker news</a></small></p><hr/><p>The Xteink X3 is a credit-card-sized, magnetic e-reader designed to attach to the back of smartphones. Despite its low price and lack of common features like a backlight or touch screen, the device has become a viral sensation by offering a "TikTokified" reading experience that makes it easy to consume small portions of text during short breaks.</p><p>While the manufacturer's software is frequently criticized for poor formatting, a community of developers has created open-source firmware to improve the user experience. The device's popularity reflects a niche market demand for simple, specialized hardware that serves as an alternative to the constant stimulation of smartphone social media feeds.</p><p><img src="https://media.goodereader.com/blog/uploads/images/2026/04/16215515/P1360427.JPG" /></p><hr/><small>7 Sep 2026, 22:48 UTC | #20400</small>]]></content>
-  </entry>
-  <entry>
-    <title>TypeScript Helpers for the Result Pattern</title>
-    <link href="https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern" rel="alternate" />
-    <id>https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern::v238</id>
-    <published>2026-09-07T17:11:00+00:00</published>
-    <updated>2026-09-07T17:11:00+00:00</updated>
-    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!MO8C!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/07a6b51c-61bf-4f96-a377-f2c4b16bf2d6_1995x3455.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://daviddalbusco.com/blog/tiny-utils-for-the-result-pattern">daviddalbusco.com</a> | <a href="https://lobste.rs/s/8csfoa/two_tiny_utils_for_result_pattern">discussion</a></small></p><hr/><p>Implementing the Rust-inspired `Result` pattern in TypeScript allows developers to handle errors as values rather than through `try/catch` blocks. Two helper functions, `tryCatch` and `safeExec`, facilitate this by wrapping asynchronous operations and existing `Result` types into a standardized `{ status, result, err }` object.</p><p>This approach promotes an architecture where service layers handle error catching, while presentation layers consume the resulting values. By standardizing error propagation, the pattern aims to reduce boilerplate and ensure that errors are explicitly managed rather than being accidentally ignored or causing unhandled exceptions in the UI.</p><p><img src="https://substackcdn.com/image/fetch/$s_!MO8C!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/07a6b51c-61bf-4f96-a377-f2c4b16bf2d6_1995x3455.png" /></p><hr/><small>7 Sep 2026, 22:32 UTC | #20399</small>]]></content>
   </entry>
 </feed>
