@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-12T15:57:00+00:00</updated>
+  <updated>2026-09-12T19:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>OpenStreetMap Contribution Tutorial Using JOSM and Website Wizard Plugin</title>
+    <link href="https://high5apps.github.io/josm-plugin-website-wizard/" rel="alternate" />
+    <id>https://high5apps.github.io/josm-plugin-website-wizard/::v239</id>
+    <published>2026-09-12T19:21:00+00:00</published>
+    <updated>2026-09-12T19:21:00+00:00</updated>
+    <media:thumbnail url="https://high5apps.github.io/josm-plugin-website-wizard/assets/images/blog-post/download-panel.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://high5apps.github.io/josm-plugin-website-wizard/">high5apps.github.io</a> | <a href="https://news.ycombinator.com/item?id=49674050">hacker news</a></small></p><hr/><p>Contributors can add website tags to entries within OpenStreetMap to facilitate the discovery of additional metadata, such as phone numbers and opening hours. This guide outlines how to use the JOSM editor and the Website Wizard plugin to identify local shops and amenities lacking web links and subsequently upload these corrections to the map.</p><p>The workflow involves downloading specific areas of interest, applying filters to locate entries missing website information, and utilizing a plugin to search for official URLs. Once verified, these updates are submitted via a changeset, contributing to the accuracy and completeness of the global open-source mapping database.</p><p><img src="https://high5apps.github.io/josm-plugin-website-wizard/assets/images/blog-post/download-panel.png" /></p><hr/><small>12 Sep 2026, 21:26 UTC | #20951</small>]]></content>
+  </entry>
   <entry>
     <title>AI Agent Use Cases Beyond Writing Code</title>
     <link href="https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code" rel="alternate" />
