@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-12T07:24:00+00:00</updated>
+  <updated>2026-09-12T11:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Lobsters Users Share Upcoming Weekend Plans</title>
+    <link href="https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend" rel="alternate" />
+    <id>https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend::v239</id>
+    <published>2026-09-12T11:52:00+00:00</published>
+    <updated>2026-09-12T11:52:00+00:00</updated>
+    <media:thumbnail url="https://www.widforss.no/_next/image?url=https://widforss.centracdn.net/client/dynamic/images/72711_e4d1354c59-1-hurtta-weekend-warrior-harness-ii-eco-ruby-full.jpg&amp;w=1440&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend">discussion</a></small></p><hr/><p>Community members detail a diverse array of activities planned for the upcoming weekend, ranging from household chores and social gatherings to reading literature. These responses provide a snapshot of the interests and routines of the community.</p><p><img src="https://www.widforss.no/_next/image?url=https://widforss.centracdn.net/client/dynamic/images/72711_e4d1354c59-1-hurtta-weekend-warrior-harness-ii-eco-ruby-full.jpg&w=1440&q=75" /></p><hr/><small>12 Sep 2026, 15:26 UTC | #20921</small>]]></content>
+  </entry>
+  <entry>
+    <title>hcker.news Provides Alternative Reader for Hacker News</title>
+    <link href="https://hcker.news/?ai=exclude" rel="alternate" />
+    <id>https://hcker.news/?ai=exclude::v239</id>
+    <published>2026-09-12T11:51:00+00:00</published>
+    <updated>2026-09-12T11:51:00+00:00</updated>
+    <media:thumbnail url="https://social.news.hada.io/topic/24604" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://hcker.news/?ai=exclude">hcker.news</a> | <a href="https://news.ycombinator.com/item?id=49659647">hacker news</a></small></p><hr/><p>hcker.news is a web-based alternative reader for Hacker News designed to provide a more customizable viewing experience. The platform features timeline feeds, advanced search, personalized filters, and various layout options to help users manage content and follow specific topics.</p><p>The application supports independent user accounts via passwords and passkeys, enabling the synchronization of user settings, themes, and filters across different devices. These features are intended to help readers filter noise and better track discussions compared to the standard Hacker News interface.</p><p><img src="https://social.news.hada.io/topic/24604" /></p><hr/><small>12 Sep 2026, 15:22 UTC | #20920</small>]]></content>
+  </entry>
   <entry>
     <title>Polars and DuckDB Outperform Pandas in Medium Data Benchmarks</title>
     <link href="https://eddie.codes/posts/pandas-should-go-extinct/" rel="alternate" />

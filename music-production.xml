@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-12T11:47:00+00:00</updated>
+  <updated>2026-09-12T11:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Golden DSP Silkbrush Reverb Giveaway</title>
+    <link href="https://bedroomproducersblog.com/2026/09/12/giveaway-golden-dsp-silkbrush-reverb/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/12/giveaway-golden-dsp-silkbrush-reverb/::v239</id>
+    <published>2026-09-12T11:50:00+00:00</published>
+    <updated>2026-09-12T11:50:00+00:00</updated>
+    <media:thumbnail url="https://www.pluginboutique.com/ckeditor_assets/pictures/39309/content_Swarm_Reverb_plugin_boutique.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/12/giveaway-golden-dsp-silkbrush-reverb/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/12/giveaway-golden-dsp-silkbrush-reverb/#comments">discussion</a></small></p><hr/><p>Five copies of Silkbrush Reverb are being given away by Golden DSP. The plugin is a ducking reverb for macOS and Windows that uses automated sidechaining to prevent the reverb from masking the dry signal.</p><p>To participate, users must answer the question located in the article's comments section. The Silkbrush Reverb plugin normally retails for $59.</p><p><img src="https://www.pluginboutique.com/ckeditor_assets/pictures/39309/content_Swarm_Reverb_plugin_boutique.jpg" /></p><hr/><small>12 Sep 2026, 15:18 UTC | #20905</small>]]></content>
+  </entry>
   <entry>
     <title>Wave Mastering Releases WIDENER Stereo Enhancement Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/09/12/wave-mastering-widener/" rel="alternate" />
