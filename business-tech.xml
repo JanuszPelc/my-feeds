@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T23:30:00+00:00</updated>
+  <updated>2026-09-11T23:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>James van Geelen Sells Citrini Research to SemiAnalysis</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-11/citrini-founder-who-shook-markets-sells-firm-plans-new-fund" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-11/citrini-founder-who-shook-markets-sells-firm-plans-new-fund::v239</id>
+    <published>2026-09-11T23:31:00+00:00</published>
+    <updated>2026-09-11T23:31:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!q5u2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/a1b4edc9-5593-4a0b-ae14-f4bd112bcad7_1600x1574.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-11/citrini-founder-who-shook-markets-sells-firm-plans-new-fund">bloomberg.com</a></small></p><hr/><p>James van Geelen has divested his independent investment-research firm, Citrini Research, to semiconductor and AI researcher SemiAnalysis. The financial terms of the sale were not disclosed.</p><p>Van Geelen plans to launch a new fund following the acquisition. The deal expands SemiAnalysis's presence in the specialized technology research market.</p><p><img src="https://substackcdn.com/image/fetch/$s_!q5u2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/a1b4edc9-5593-4a0b-ae14-f4bd112bcad7_1600x1574.png" /></p><hr/><small>12 Sep 2026, 04:45 UTC | #20884</small>]]></content>
+  </entry>
   <entry>
     <title>CFTC Launches Investigations into Polymarket for Potential Insider Trading</title>
     <link href="https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/" rel="alternate" />
