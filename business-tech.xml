@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-11T23:31:00+00:00</updated>
+  <updated>2026-09-11T23:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Senate Negotiators Debate 'Duty of Care' for AI Companies</title>
+    <link href="https://www.reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11/" rel="alternate" />
+    <id>https://www.reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11/::v239</id>
+    <published>2026-09-11T23:34:00+00:00</published>
+    <updated>2026-09-11T23:34:00+00:00</updated>
+    <media:thumbnail url="https://cdn-cabinet.ua.news/uploads/images/us_senate_ai_firms_duty_catastrophic_ris_1789154868706.webp?7849227" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11/">reuters.com</a></small></p><hr/><p>Senate negotiators are debating legislation that would impose a legal "duty of care" on artificial intelligence companies to mitigate major safety risks. The proposed framework would grant the government the authority to block the release of AI models deemed to pose significant or catastrophic threats to public safety.</p><p>The measure, reportedly led by Senators Thune, Cruz, and Klobuchar, would transition the industry from voluntary self-regulation to a mandatory legal standard for "frontier" models with highly advanced capabilities. The legislation may also include provisions designed to prevent states from enacting their own independent regulations regarding AI risks.</p><p><img src="https://cdn-cabinet.ua.news/uploads/images/us_senate_ai_firms_duty_catastrophic_ris_1789154868706.webp?7849227" /></p><hr/><small>12 Sep 2026, 05:27 UTC | #20886</small>]]></content>
+  </entry>
   <entry>
     <title>James van Geelen Sells Citrini Research to SemiAnalysis</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-11/citrini-founder-who-shook-markets-sells-firm-plans-new-fund" rel="alternate" />
