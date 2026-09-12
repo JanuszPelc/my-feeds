@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-12T11:46:00+00:00</updated>
+  <updated>2026-09-12T11:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Wave Mastering Releases WIDENER Stereo Enhancement Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/09/12/wave-mastering-widener/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/12/wave-mastering-widener/::v239</id>
+    <published>2026-09-12T11:47:00+00:00</published>
+    <updated>2026-09-12T11:47:00+00:00</updated>
+    <media:thumbnail url="https://professionalcomposers.com/wp-content/uploads/2020/07/Best-Stereo-Widener-VST-Plugins.png" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/12/wave-mastering-widener/">bedroomproducersblog.com</a></small></p><hr/><p>WIDENER is a stereo enhancement plugin for macOS and Windows released by Wave Mastering LTD. The tool is available at an introductory price of $29.99 through September 30th.</p><p>This software marks the first plugin release from developer Andy De Rosa.</p><p><img src="https://professionalcomposers.com/wp-content/uploads/2020/07/Best-Stereo-Widener-VST-Plugins.png" /></p><hr/><small>12 Sep 2026, 15:04 UTC | #20906</small>]]></content>
+  </entry>
   <entry>
     <title>13x.audio Releases Aurora Free 24-Band Dynamic EQ Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/09/12/13x-audio-aurora-eq/" rel="alternate" />
