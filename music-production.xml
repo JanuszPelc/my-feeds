@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-11T17:49:00+00:00</updated>
+  <updated>2026-09-11T19:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Gooey Audio Releases White Rhino Beat Masher</title>
+    <link href="https://www.kvraudio.com/news/gooey-releases-white-rhino-beat-masher-vst3-au-and-aax-68185?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68185" rel="alternate" />
+    <id>https://www.kvraudio.com/news/gooey-releases-white-rhino-beat-masher-vst3-au-and-aax-68185?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68185::v239</id>
+    <published>2026-09-11T19:01:00+00:00</published>
+    <updated>2026-09-11T19:01:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/whiterhino-01.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/gooey-releases-white-rhino-beat-masher-vst3-au-and-aax-68185?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68185">kvraudio.com</a> | <a href="https://gooeyaudio.com/plugins/white-rhino">source</a></small></p><hr/><p>White Rhino is a beat masher plugin that transforms audio samples into musical phrases and patterns. The tool features four selectable patterns and can generate one- or two-bar variations, and is available in VST3, AU, and AAX formats for macOS and Windows.</p><p>The plugin is being sold as a limited-time "collector's item" for $4.99. It is designed to facilitate rapid rhythmic experimentation and sound flipping.</p><p><img src="https://static.kvraudio.com/i/b/whiterhino-01.jpg" /></p><hr/><small>12 Sep 2026, 00:08 UTC | #20867</small>]]></content>
+  </entry>
   <entry>
     <title>Thomann Includes Synths and Drum Machines in Guitar Days Sale</title>
     <link href="https://musictech.com/news/gear/thoman-guitar-days-sale-synths/" rel="alternate" />
