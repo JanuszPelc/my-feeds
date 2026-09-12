@@ -993,40 +993,4 @@
     <media:thumbnail url="https://www.meziantou.net/assets/exporter-html-example-th-w1600-h0.png?v=f8a9" />
     <content type="html"><![CDATA[<p><small>C# Digest | <a href="https://csharpdigest.net/links/23176/rss">csharpdigest.net</a> | <a href="https://www.meziantou.net/generate-and-review-the-public-api-of-a-dotnet-library.htm">source</a></small></p><hr/><p>This tool generates compilable C# files that represent the public surface of a .NET assembly, allowing developers to review API changes through standard pull request diffs. By converting metadata into familiar C# syntax, it helps identify breaking changes in method signatures, attributes, or nullable annotations.</p><p>The generator supports multi-targeting by merging assemblies from various frameworks into a single output file using `#if` directives and accommodates modern C# features like union types. It can be integrated into CI pipelines via a .NET tool, an MSBuild task, or a library to validate that the public API remains consistent with an approved baseline.</p><p><img src="https://www.meziantou.net/assets/exporter-html-example-th-w1600-h0.png?v=f8a9" /></p><hr/><small>7 Sep 2026, 13:42 UTC | #20358</small>]]></content>
   </entry>
-  <entry>
-    <title>Signal Shingle Architecture for High-Performance ASP.NET Multi-Widget Sites</title>
-    <link href="https://csharpdigest.net/links/23175/rss" rel="alternate" />
-    <id>https://csharpdigest.net/links/23175/rss::v238</id>
-    <published>2026-09-07T08:09:00+00:00</published>
-    <updated>2026-09-07T08:09:00+00:00</updated>
-    <media:thumbnail url="https://cdn.sprukomarket.com/uploads/blog/2026-05-05/theme-preview-018-PSxb9empdK.webp" />
-    <content type="html"><![CDATA[<p><small>C# Digest | <a href="https://csharpdigest.net/links/23175/rss">csharpdigest.net</a> | <a href="https://mostlylucid.net/blog/signal-shingle-architecture">source</a></small></p><hr/><p>Designed for ASP.NET dashboards, this architecture aims to mitigate performance degradation caused by per-request data fan-out. It seeks to solve the scalability issues that arise when complex, multi-widget pages trigger multiple expensive database queries for every user request, which can destabilize the system under heavy concurrent load.</p><p>The approach utilizes a two-level caching system featuring a hydrated, generation-stamped page model and independently addressable HTML fragments called "shingles." By integrating SignalR for state signaling and HTMX for out-of-band updates, the design is intended to provide rapid, coherent widget updates while maintaining data consistency.</p><p><img src="https://cdn.sprukomarket.com/uploads/blog/2026-05-05/theme-preview-018-PSxb9empdK.webp" /></p><hr/><small>7 Sep 2026, 13:36 UTC | #20357</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nullable GUID Route Constraints in ASP.NET Core</title>
-    <link href="https://csharpdigest.net/links/23174/rss" rel="alternate" />
-    <id>https://csharpdigest.net/links/23174/rss::v238</id>
-    <published>2026-09-07T08:08:00+00:00</published>
-    <updated>2026-09-07T08:08:00+00:00</updated>
-    <media:thumbnail url="https://www.tektutorialshub.com/wp-content/uploads/2021/03/MapControllerRoute-API-in-ASP.NET-Core-Conventional-Routing.png" />
-    <content type="html"><![CDATA[<p><small>C# Digest | <a href="https://csharpdigest.net/links/23174/rss">csharpdigest.net</a> | <a href="https://sebnilsson.com/blog/nullable-guid-route-constraints-in-asp-net-core">source</a></small></p><hr/><p>ASP.NET Core provides built-in route constraints to validate and manage GUID parameters, including support for nullable or optional GUID values. These native capabilities allow developers to handle optional parameters directly within the routing engine.</p><p>Previously, custom constraints were required to ensure compatibility between ASP.NET MVC and Web API when dealing with nullable GUIDs. The unification of these programming models in ASP.NET Core has rendered these custom implementations unnecessary for modern applications.</p><p><img src="https://www.tektutorialshub.com/wp-content/uploads/2021/03/MapControllerRoute-API-in-ASP.NET-Core-Conventional-Routing.png" /></p><hr/><small>7 Sep 2026, 13:32 UTC | #20356</small>]]></content>
-  </entry>
-  <entry>
-    <title>System.Text.Json Challenges for C# 15 Union Types and Closed Hierarchies</title>
-    <link href="https://csharpdigest.net/links/23173/rss" rel="alternate" />
-    <id>https://csharpdigest.net/links/23173/rss::v238</id>
-    <published>2026-09-07T08:07:00+00:00</published>
-    <updated>2026-09-07T08:07:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQGjBnWoISP12Q/feedshare-shrink_1280/B56Z1vL4cjJ4AM-/0/1775686879263?e=2147483647&amp;v=beta&amp;t=awZMFZBoJgtkEu_KkMflSWgSvj3VUg87IHBv1BMLP84" />
-    <content type="html"><![CDATA[<p><small>C# Digest | <a href="https://csharpdigest.net/links/23173/rss">csharpdigest.net</a> | <a href="https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/">source</a></small></p><hr/><p>.NET 11 and C# 15 introduce union types and closed class hierarchies, but serializing and deserializing these structures with System.Text.Json presents technical challenges in the current preview. Difficulties include issues with polymorphic type inference for multi-level hierarchies and structural ambiguity during deserialization.</p><p>The InferClosedTypePolymorphism feature requires explicit [JsonDerivedType] annotations for complex hierarchies and imposes strict accessibility requirements on derived types. Additionally, union type deserialization faces ambiguity when multiple case types share the same JSON structure, necessitating custom type classifiers for resolution.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQGjBnWoISP12Q/feedshare-shrink_1280/B56Z1vL4cjJ4AM-/0/1775686879263?e=2147483647&v=beta&t=awZMFZBoJgtkEu_KkMflSWgSvj3VUg87IHBv1BMLP84" /></p><hr/><small>7 Sep 2026, 13:28 UTC | #20355</small>]]></content>
-  </entry>
-  <entry>
-    <title>Enforcing Coding Standards in AI-Generated .NET Code</title>
-    <link href="https://csharpdigest.net/links/23171/rss" rel="alternate" />
-    <id>https://csharpdigest.net/links/23171/rss::v238</id>
-    <published>2026-09-07T08:06:00+00:00</published>
-    <updated>2026-09-07T08:06:00+00:00</updated>
-    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*fbNI67snOv41sozfmLleyg.png" />
-    <content type="html"><![CDATA[<p><small>C# Digest | <a href="https://csharpdigest.net/links/23171/rss">csharpdigest.net</a> | <a href="https://antondevtips.com/blog/how-to-make-ai-write-high-quality-code-in-dotnet">source</a></small></p><hr/><p>Developers often struggle to ensure AI agents adhere to project standards when instructions are limited to conversational prompts. Transitioning coding rules from chat-based prompts into technical guardrails forces agents to resolve violations through compiler errors and static analysis during the development loop. This approach prevents rules from being lost in the context of long chat sessions.</p><p>Effective enforcement includes using Directory.Build.props to convert warnings into build errors and integrating analyzers such as Meziantou and Roslynator. Implementation also involves using .editorconfig for naming conventions, Central Package Management for dependency control, and a structured review workflow that utilizes specialized AI tools before final human inspection.</p><p><img src="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*fbNI67snOv41sozfmLleyg.png" /></p><hr/><small>7 Sep 2026, 13:23 UTC | #20354</small>]]></content>
-  </entry>
 </feed>
