@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-13T18:23:00+00:00</updated>
+  <updated>2026-09-13T21:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>A Regular Expression for the Luhn Algorithm</title>
+    <link href="https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/" rel="alternate" />
+    <id>https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/::v239</id>
+    <published>2026-09-13T21:09:00+00:00</published>
+    <updated>2026-09-13T21:09:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQFteqNt0ffymw/article-cover_image-shrink_720_1280/B4DZv23kTTIwAI-/0/1769373323387?e=2147483647&amp;v=beta&amp;t=_HgE9TaIyAQyh-y4HBlwO2GUTci6O2gcjLtbcankeRM" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/">abstractnonsense.xyz</a> | <a href="https://lobste.rs/s/8fqdvr/can_regex_match_valid_card_numbers">discussion</a></small></p><hr/><p>A Deterministic Finite Automaton (DFA) can be constructed to recognize the infinite language of numbers satisfying the Luhn check digit algorithm. This mathematical construction enables the derivation of a regular expression that validates the parity-based checksum used in credit card numbers.</p><p>Converting the DFA into a regular expression through the Brzozowski algebraic method causes a significant combinatorial explosion. The resulting regexes for even and odd-length strings reach lengths of approximately 32 million and 48 million characters, respectively.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQFteqNt0ffymw/article-cover_image-shrink_720_1280/B4DZv23kTTIwAI-/0/1769373323387?e=2147483647&v=beta&t=_HgE9TaIyAQyh-y4HBlwO2GUTci6O2gcjLtbcankeRM" /></p><hr/><small>13 Sep 2026, 23:13 UTC | #21010</small>]]></content>
+  </entry>
   <entry>
     <title>Apple's iPhone Duo to Mainstream Foldable Phones</title>
     <link href="https://www.bloomberg.com/news/newsletters/2026-09-13/apple-s-iphone-duo-will-make-foldable-phones-the-new-normal-apple-store-revamp-mtzvsb60?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTMwODY5OCwiZXhwIjoxNzg5OTEzNDk4LCJhcnRpY2xlSWQiOiJUTEIyVzFLR1pBSVcwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.dri64NdyRwgDiXaD_qtG-FaYE-GL5JknztlHxg_bD9I" rel="alternate" />
