@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-13T13:36:00+00:00</updated>
+  <updated>2026-09-13T14:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Vy Capital Holds 3.4% Stake in SpaceX</title>
+    <link href="https://www.ft.com/content/c765f312-e698-4d31-bf71-f64a656ad6f4" rel="alternate" />
+    <id>https://www.ft.com/content/c765f312-e698-4d31-bf71-f64a656ad6f4::v239</id>
+    <published>2026-09-13T14:32:00+00:00</published>
+    <updated>2026-09-13T14:32:00+00:00</updated>
+    <media:thumbnail url="https://brandsownedby.com/wp-content/uploads/2025/03/Who-Owns-SpaceX-major-shareholders.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/c765f312-e698-4d31-bf71-f64a656ad6f4">ft.com</a> | <a href="https://news.ycombinator.com/item?id=49681720">hacker news</a></small></p><hr/><p>Vy Capital holds a 3.4% stake in SpaceX, making the venture capital firm one of the rocket manufacturer's largest shareholders. The position is valued at approximately $40 billion.</p><p>The firm is also the largest outside investor in both BoringCo and Neuralink and committed $700 million toward the acquisition of Twitter.</p><p><img src="https://brandsownedby.com/wp-content/uploads/2025/03/Who-Owns-SpaceX-major-shareholders.png" /></p><hr/><small>13 Sep 2026, 18:16 UTC | #20970</small>]]></content>
+  </entry>
   <entry>
     <title>Flock Safety Worker Calls Police on Reporter Filming Public Camera Installation</title>
     <link href="https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/" rel="alternate" />
