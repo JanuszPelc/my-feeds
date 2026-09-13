@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-13T13:39:00+00:00</updated>
+  <updated>2026-09-13T14:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Revolut Confirms Data Breach via Fake Government Requests</title>
+    <link href="https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/::v239</id>
+    <published>2026-09-13T14:35:00+00:00</published>
+    <updated>2026-09-13T14:35:00+00:00</updated>
+    <media:thumbnail url="https://www.xcitium.com/blog/wp-content/uploads/2025/09/what-is-data-breach.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=49682087">hacker news</a></small></p><hr/><p>Revolut confirmed a data breach in which sensitive customer information was disclosed to an unauthorized third party following fraudulent requests sent from legitimate government agency email domains. The exposed data includes identity documents, contact information, and potentially verification selfies, account statements, and transaction histories.</p><p>The company stated that a limited number of customers were impacted and that customer funds and systems remain unaffected. The incident, which reportedly targeted high-net-worth individuals, occurs as Revolut expands its global banking footprint and evaluates a potential public listing.</p><p><img src="https://www.xcitium.com/blog/wp-content/uploads/2025/09/what-is-data-breach.png" /></p><hr/><small>13 Sep 2026, 19:04 UTC | #20993</small>]]></content>
+  </entry>
   <entry>
     <title>Litelm Provides Lightweight Model Routing and Message Translation</title>
     <link href="https://github.com/kennethwolters/litelm" rel="alternate" />
