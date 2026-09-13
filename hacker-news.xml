@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-13T06:01:00+00:00</updated>
+  <updated>2026-09-13T07:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>JetKVM Introduces JetKVM Mini and JetKVM Mini W</title>
+    <link href="https://jetkvm.com/blog/introducing-jetkvm-mini" rel="alternate" />
+    <id>https://jetkvm.com/blog/introducing-jetkvm-mini::v239</id>
+    <published>2026-09-13T07:50:00+00:00</published>
+    <updated>2026-09-13T07:50:00+00:00</updated>
+    <media:thumbnail url="https://jetkvm.com/blog/jetkvm-mini/angle.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jetkvm.com/blog/introducing-jetkvm-mini">jetkvm.com</a> | <a href="https://news.ycombinator.com/item?id=49681152">hacker news</a></small></p><hr/><p>The JetKVM Mini and Mini W are small-form-factor remote KVM devices. The wired Mini is priced at $39, while the wireless Mini W, which supports 2.4 and 5 GHz Wi-Fi, is priced at $42. Both units use an ESP32-P4X microcontroller for 1080p video capture and H.264 encoding streamed via WebRTC.</p><p>The hardware features an aluminum enclosure, a built-in status display, and an auxiliary USB port for extensions. The Mini W also includes Bluetooth LE for setup and support for Zigbee and Thread. Both models are scheduled for release on October 26, 2026, and will run open-source firmware.</p><p><img src="https://jetkvm.com/blog/jetkvm-mini/angle.webp" /></p><hr/><small>13 Sep 2026, 12:07 UTC | #20972</small>]]></content>
+  </entry>
+  <entry>
+    <title>iPhone 18 Pro Max U.S. Models to Use Qualcomm Modem Instead of Apple C2</title>
+    <link href="https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/" rel="alternate" />
+    <id>https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/::v239</id>
+    <published>2026-09-13T06:02:00+00:00</published>
+    <updated>2026-09-13T06:02:00+00:00</updated>
+    <media:thumbnail url="https://cdn.teknoticias.pt/uploads/2026/05/Apple-C2-1024x576.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/">macrumors.com</a> | <a href="https://www.apple.com/iphone-18-pro/specs/">source</a></small></p><hr/><p>Apple's updated technical specifications and iOS 27 code indicate that the iPhone 18 Pro Max will use a Qualcomm modem in the United States, while the iPhone 18 Pro and all international versions of the 18 Pro Max will feature Apple's custom C2 cellular modem.</p><p>The discrepancy is likely due to a Qualcomm supply agreement that runs through 2026. While the C2 modem is designed to provide improved energy efficiency and faster mmWave 5G performance, the U.S. iPhone 18 Pro Max is expected to rely on a Qualcomm Snapdragon chip to satisfy existing contractual obligations.</p><p><img src="https://cdn.teknoticias.pt/uploads/2026/05/Apple-C2-1024x576.jpg" /></p><hr/><small>13 Sep 2026, 12:01 UTC | #20965</small>]]></content>
+  </entry>
   <entry>
     <title>Heol 16-Bit Lisp System for Uxn Virtual Machine</title>
     <link href="https://wiki.xxiivv.com/site/heol.html" rel="alternate" />
