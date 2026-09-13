@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-13T00:35:00+00:00</updated>
+  <updated>2026-09-13T00:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Deepfake and AI-Generated Image Crimes Increase in England and Wales</title>
+    <link href="https://www.telegraph.co.uk/news/2026/09/12/ai-nude-images-children-police-england-wales-deepfake/" rel="alternate" />
+    <id>https://www.telegraph.co.uk/news/2026/09/12/ai-nude-images-children-police-england-wales-deepfake/::v239</id>
+    <published>2026-09-13T00:38:00+00:00</published>
+    <updated>2026-09-13T00:38:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.telegraph.co.uk/news/2026/09/12/ai-nude-images-children-police-england-wales-deepfake/">telegraph.co.uk</a></small></p><hr/><p>Twenty police forces in England and Wales have recorded 163 crimes involving keywords such as "AI-generated," "deepfake," and "nudify" as of July 2026. This represents a significant increase from the 10 crimes recorded in 2023.</p><p>The reported crimes involve the use of deepfake technology to create non-consensual imagery by digitally undressing women.</p><hr/><small>13 Sep 2026, 06:44 UTC | #20954</small>]]></content>
+  </entry>
   <entry>
     <title>Bending Spoons Drives Profitability Through Price Hikes and Restructuring</title>
     <link href="https://www.wsj.com/finance/investing/at-bending-spoons-the-numbers-are-the-real-mind-bender-43f10bee?st=tkdLYi&amp;reflink=article_copyURL_share" rel="alternate" />
