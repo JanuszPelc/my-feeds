@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-13T14:31:00+00:00</updated>
+  <updated>2026-09-13T14:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>CIA Releases 71 Declassified 9/11 President's Daily Briefs</title>
+    <link href="https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/" rel="alternate" />
+    <id>https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/::v239</id>
+    <published>2026-09-13T14:40:00+00:00</published>
+    <updated>2026-09-13T14:40:00+00:00</updated>
+    <media:thumbnail url="https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/20/9bdc3beb-bf52-4a9c-a2c3-703b0334084c/thumbnail/1200x630/87267e576b5f5eb904997aea03038ef1/ap25354015858774.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/">cia.gov</a> | <a href="https://news.ycombinator.com/item?id=49663054">hacker news</a></small></p><hr/><p>CIA Director John Ratcliffe has declassified 71 President's Daily Brief (PDB) products to commemorate the 25th anniversary of the September 11 terrorist attacks. The collection includes over 100 pages of intelligence analysis covering the period leading up to and immediately following the attacks.</p><p>The declassified documents trace the evolution of intelligence analysts' understanding of al-Qa'ida and Usama Bin Ladin's plotting. This release is part of a presidential transparency initiative and represents the agency's largest release of 9/11-related PDB products to date.</p><p><img src="https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/20/9bdc3beb-bf52-4a9c-a2c3-703b0334084c/thumbnail/1200x630/87267e576b5f5eb904997aea03038ef1/ap25354015858774.jpg" /></p><hr/><small>13 Sep 2026, 19:23 UTC | #20995</small>]]></content>
+  </entry>
   <entry>
     <title>The Challenge of Evaluating AI Agents in Specialized Domains</title>
     <link href="https://hyperbo.la/w/aligned-to-whom/" rel="alternate" />

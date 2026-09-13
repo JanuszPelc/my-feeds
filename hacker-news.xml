@@ -3,9 +3,36 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-13T14:35:00+00:00</updated>
+  <updated>2026-09-13T18:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Tesla Subdomain Triggers Automated Security Probes Against NTP Pool Servers</title>
+    <link href="https://dreamstation.systems/personal/tesla.html" rel="alternate" />
+    <id>https://dreamstation.systems/personal/tesla.html::v239</id>
+    <published>2026-09-13T18:04:00+00:00</published>
+    <updated>2026-09-13T18:04:00+00:00</updated>
+    <media:thumbnail url="https://secscanner.app/blog/subdomain-takeover-prevention/opengraph-image?18469a66a95665db" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://dreamstation.systems/personal/tesla.html">dreamstation.systems</a> | <a href="https://news.ycombinator.com/item?id=49686766">hacker news</a></small></p><hr/><p>A DNS configuration involving the `pool-ntp.tesla.com` subdomain is causing automated security scanners, including those from Assetnote, to target independent volunteer servers. Because the record CNAMEs to `pool.ntp.org`, asset discovery tools are mistakenly identifying various members of the NTP Pool as Tesla-owned infrastructure and attempting to execute exploit payloads against them.</p><p>This unintentional scanning has resulted in tens of thousands of requests containing payloads for vulnerabilities such as Log4Shell and SSRF. Affected server operators have reported the traffic and attempted to alert Tesla to the configuration error to prevent further scanning of unrelated third-party IPs.</p><p><img src="https://secscanner.app/blog/subdomain-takeover-prevention/opengraph-image?18469a66a95665db" /></p><hr/><small>13 Sep 2026, 19:27 UTC | #20992</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sorcery Uses Static Site Generation for Git Repository Viewing</title>
+    <link href="https://char.lt/blog/2026/09/sorcery-repo-viewer/" rel="alternate" />
+    <id>https://char.lt/blog/2026/09/sorcery-repo-viewer/::v239</id>
+    <published>2026-09-13T16:11:00+00:00</published>
+    <updated>2026-09-13T16:11:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:960/1*9oCe4dVG8NKrFIuRRbF89g.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://char.lt/blog/2026/09/sorcery-repo-viewer/">char.lt</a> | <a href="https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site">discussion</a></small></p><hr/><p>Sorcery is a lightweight Git repository viewer that adopts a static site generator approach to minimize server resource consumption. It pre-renders an overview, directory tree, and syntax-highlighted source code as static HTML files during repository updates, while using a client-side JavaScript Git client to fetch and render historical data directly from the `.git` directory.</p><p>To maintain a low footprint, Sorcery is strictly read-only and omits common forge features like issue tracking and user management. The tool optimizes performance for high-latency connections by offering a server-side route that delivers specific Git objects in a compact binary format, reducing the bandwidth requirements of traditional packfile fetches.</p><p><img src="https://miro.medium.com/v2/resize:fit:960/1*9oCe4dVG8NKrFIuRRbF89g.png" /></p><hr/><small>13 Sep 2026, 19:25 UTC | #20990</small>]]></content>
+  </entry>
+  <entry>
+    <title>The Interim Computer Museum Preserves Computing History Through Interactive Exhibits</title>
+    <link href="https://icm.museum/" rel="alternate" />
+    <id>https://icm.museum/::v239</id>
+    <published>2026-09-13T14:39:00+00:00</published>
+    <updated>2026-09-13T14:39:00+00:00</updated>
+    <media:thumbnail url="https://icm.museum/images/about1.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://icm.museum/">icm.museum</a> | <a href="https://news.ycombinator.com/item?id=49679459">hacker news</a></small></p><hr/><p>The Interim Computer Museum (ICM) is a 501(c)(3) non-profit organization that preserves computing history through interactive exhibits. These displays use vintage hardware with modern enhancements to provide hands-on experiences of technological evolution.</p><p>In partnership with SDF Public Access UNIX System, Inc., the museum relies on membership and donations to fund artifact preservation and community events. The organization focuses on bridging the gap between historical computing technology and the present day.</p><p><img src="https://icm.museum/images/about1.jpg" /></p><hr/><small>13 Sep 2026, 19:19 UTC | #20994</small>]]></content>
+  </entry>
   <entry>
     <title>Revolut Confirms Data Breach via Fake Government Requests</title>
     <link href="https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/" rel="alternate" />
