@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-12T19:26:00+00:00</updated>
+  <updated>2026-09-12T20:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Optimization of `clippy::nonstandard_macro_braces` Lint Increases Performance by 3133x</title>
+    <link href="https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/" rel="alternate" />
+    <id>https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/::v239</id>
+    <published>2026-09-12T20:30:00+00:00</published>
+    <updated>2026-09-12T20:30:00+00:00</updated>
+    <media:thumbnail url="https://byteiota.com/wp-content/uploads/2025/12/featured-image-160-800x400.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/">blog.goose.love</a> | <a href="https://github.com/rust-lang/rust-clippy/pull/16808">source</a> | <a href="https://lobste.rs/s/jtmyg2/optimizing_single_rust_clippy_lint_by">discussion</a></small></p><hr/><p>The `clippy::nonstandard_macro_braces` lint has been optimized by refactoring it from a post-expansion lint into a pre-expansion lint. The original implementation required checking hygiene data, performing string manipulation on source text, and locking the symbol interner for every expression in a codebase. This overhead previously caused the lint to consume up to 25% of Clippy's total execution time in some scenarios.</p><p>The refactor avoids expensive resource locks and complex calculations by identifying macro braces before expansion occurs. This method provides a 3133x speedup for the specific lint, significantly reducing the runtime impact that previously affected the entire compilation process.</p><p><img src="https://byteiota.com/wp-content/uploads/2025/12/featured-image-160-800x400.jpg" /></p><hr/><small>13 Sep 2026, 00:41 UTC | #20957</small>]]></content>
+  </entry>
+  <entry>
+    <title>Snap! Programming Language for Computer Science Study</title>
+    <link href="https://snap.berkeley.edu/" rel="alternate" />
+    <id>https://snap.berkeley.edu/::v239</id>
+    <published>2026-09-12T19:34:00+00:00</published>
+    <updated>2026-09-12T19:34:00+00:00</updated>
+    <media:thumbnail url="https://s4scoding.com/images/snap-machine-learning-custom-blocks.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://snap.berkeley.edu/">snap.berkeley.edu</a> | <a href="https://news.ycombinator.com/item?id=49662214">hacker news</a></small></p><hr/><p>This block-based language allows children and adults to engage in the study of computer science through a visual interface. Users can build custom blocks to extend the programming environment's capabilities.</p><p>An extension of Scratch developed at UC Berkeley, Snap! incorporates advanced features such as first-class lists, first-class procedures, and continuations to support rigorous computational learning.</p><p><img src="https://s4scoding.com/images/snap-machine-learning-custom-blocks.jpg" /></p><hr/><small>13 Sep 2026, 00:37 UTC | #20956</small>]]></content>
+  </entry>
   <entry>
     <title>Programming Language Features: Flow Typing, Borrow Checking, and Contract Programming</title>
     <link href="https://prydt.xyz/blog/a-few-good-ideas-in-pl/" rel="alternate" />
