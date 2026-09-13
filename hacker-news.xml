@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-12T20:30:00+00:00</updated>
+  <updated>2026-09-12T20:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Android NAT-T Keepalive Offload Bypasses VPN Lockdown</title>
+    <link href="https://supuk.ch/papers/android-natt-keepalive-vpn-bypass" rel="alternate" />
+    <id>https://supuk.ch/papers/android-natt-keepalive-vpn-bypass::v239</id>
+    <published>2026-09-12T20:36:00+00:00</published>
+    <updated>2026-09-12T20:36:00+00:00</updated>
+    <media:thumbnail url="https://images-cms.sonicwall.com/v3/assets/blt281ecbfc2563bf9b/blt8a198572cdb00603/68f56f9ae004534ac3adc64b/How-can-I-disable-enable-NAT-traversal-in-VPN-settings--kA1VN0000000MYV0A2-0EMVN00000EoFC4.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://supuk.ch/papers/android-natt-keepalive-vpn-bypass">supuk.ch</a> | <a href="https://news.ycombinator.com/item?id=49665502">hacker news</a></small></p><hr/><p>Using the `UdpEncapsulationSocket` API, applications can trigger periodic UDP/4500 packets that bypass Android's VPN lockdown settings. These Network Address Translation Traversal (NAT-T) keepalive packets are routed through the physical Wi-Fi or cellular interface, even when 'Block connections without VPN' is enabled.</p><p>This vulnerability affects over 91% of Android 12 and newer devices across multiple manufacturers. The issue arises because the framework hands keepalive requests to hardware offload paths without verifying the caller's current VPN policy, potentially exposing the device's real IP address and connection timing to external observers.</p><p><img src="https://images-cms.sonicwall.com/v3/assets/blt281ecbfc2563bf9b/blt8a198572cdb00603/68f56f9ae004534ac3adc64b/How-can-I-disable-enable-NAT-traversal-in-VPN-settings--kA1VN0000000MYV0A2-0EMVN00000EoFC4.png" /></p><hr/><small>13 Sep 2026, 02:15 UTC | #20960</small>]]></content>
+  </entry>
   <entry>
     <title>Optimization of `clippy::nonstandard_macro_braces` Lint Increases Performance by 3133x</title>
     <link href="https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/" rel="alternate" />
