@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-13T03:16:00+00:00</updated>
+  <updated>2026-09-13T07:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Trump Administration Pushes for Data Center Development on Public Lands</title>
+    <link href="https://washingtonsun.com/technology/data-centers-public-lands-trump" rel="alternate" />
+    <id>https://washingtonsun.com/technology/data-centers-public-lands-trump::v239</id>
+    <published>2026-09-13T07:54:00+00:00</published>
+    <updated>2026-09-13T07:54:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20rQ3Y.img?w=768&amp;h=542&amp;m=6" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://washingtonsun.com/technology/data-centers-public-lands-trump">washingtonsun.com</a> | <a href="https://www.whitehouse.gov/presidential-actions/2025/07/accelerating-federal-permitting-of-data-center-infrastructure/">source</a></small></p><hr/><p>The Trump administration is directing the Bureau of Land Management (BLM) to identify federal lands suitable for data center development to accelerate AI infrastructure growth. Following an executive order to streamline permitting, the Interior Department has instructed state directors to prioritize identifying suitable sites, despite ongoing staffing shortages and technical challenges within the BLM.</p><p>The initiative has faced criticism from environmental groups and former agency officials who argue the directive prioritizes the interests of technology corporations over public land management. Critics also point to significant agency vacancies and the lack of technical expertise required to conduct complex environmental reviews for the emerging technology sector.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20rQ3Y.img?w=768&h=542&m=6" /></p><hr/><small>13 Sep 2026, 13:04 UTC | #20968</small>]]></content>
+  </entry>
   <entry>
     <title>Automattic Confirms Matt Mullenweg's Return as CEO</title>
     <link href="https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/" rel="alternate" />
