@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-12T07:23:00+00:00</updated>
+  <updated>2026-09-12T19:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Hugging Face Launches Open Alignment Initiative</title>
+    <link href="https://x.com/clementdelangue" rel="alternate" />
+    <id>https://x.com/clementdelangue::v239</id>
+    <published>2026-09-12T19:31:00+00:00</published>
+    <updated>2026-09-12T19:31:00+00:00</updated>
+    <media:thumbnail url="https://cdn.thenewstack.io/media/2023/06/88073fbe-hf-flow-chart2-scaled.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/clementdelangue">x.com</a></small></p><hr/><p>Hugging Face has launched the Open Alignment Initiative, led by co-founder Thomas Wolf, to promote transparency in AI safety research. The initiative seeks to participate in "embedded evaluators" programs and argues that AI alignment should be an open, collaborative process rather than being managed exclusively behind closed doors by frontier laboratories.</p><p>The initiative's work focuses on safety, alignment, and cybersecurity specifically for open-weight models. It advocates for increased research and public transparency to ensure that AI alignment protocols and evaluation processes are not restricted to proprietary, closed-source developments.</p><p><img src="https://cdn.thenewstack.io/media/2023/06/88073fbe-hf-flow-chart2-scaled.jpg" /></p><hr/><small>13 Sep 2026, 00:14 UTC | #20936</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sam Altman Announces OpenAI Safety Commitments and GPT-6 Astra Rollout</title>
+    <link href="https://x.com/sama" rel="alternate" />
+    <id>https://x.com/sama::v239</id>
+    <published>2026-09-12T19:30:00+00:00</published>
+    <updated>2026-09-12T19:30:00+00:00</updated>
+    <media:thumbnail url="https://i.kym-cdn.com/photos/images/original/002/766/831/3ad.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/sama">x.com</a></small></p><hr/><p>OpenAI will implement independent third-party evaluators with employee-level access to its systems to verify safety measures and model alignment. The company is also rolling out GPT-6 Astra to Pro, Enterprise, and Business users and has reported that AI agents successfully solved the Navier-Stokes Millennium Prize Problem, a mathematical challenge unresolved for nearly 90 years.</p><p>The mathematical achievement has sparked debate regarding research attribution and collaboration between OpenAI and Anthropic researchers. Meanwhile, unprecedented demand for the Astra model has prompted OpenAI to consider a temporary pause on new Pro subscriptions to maintain service stability for existing customers.</p><p><img src="https://i.kym-cdn.com/photos/images/original/002/766/831/3ad.png" /></p><hr/><small>13 Sep 2026, 00:12 UTC | #20937</small>]]></content>
+  </entry>
   <entry>
     <title>AI Researchers Debate Recursive Self-Improvement</title>
     <link href="https://www.dwarkesh.com/p/john-beren-charlie" rel="alternate" />
