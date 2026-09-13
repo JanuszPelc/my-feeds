@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-13T20:09:00+00:00</updated>
+  <updated>2026-09-13T21:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Speaker Mike Johnson Says Congress Won't Lead AI Safety Regulation Efforts</title>
+    <link href="https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson" rel="alternate" />
+    <id>https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson::v239</id>
+    <published>2026-09-13T21:08:00+00:00</published>
+    <updated>2026-09-13T21:08:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*E_5lZ_bSsoQmTCbKhLl5Ng.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson">axios.com</a></small></p><hr/><p>House Speaker Mike Johnson (R-La.) stated that Congress will not lead the charge on regulating artificial intelligence safety, arguing that AI companies should instead take responsibility for ensuring the safety of their products.</p><p>The stance comes amid pressure from some members of Congress to convene and pass AI safeguards to mitigate potential risks. Johnson has offered no indication that the House will prioritize AI regulation before the upcoming election.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*E_5lZ_bSsoQmTCbKhLl5Ng.jpeg" /></p><hr/><small>13 Sep 2026, 22:51 UTC | #20984</small>]]></content>
+  </entry>
   <entry>
     <title>Mark Zuckerberg Emails Discuss Cambridge Analytica Data Practices</title>
     <link href="https://twitter.com/TechEmails/status/2099214399840059428" rel="alternate" />
