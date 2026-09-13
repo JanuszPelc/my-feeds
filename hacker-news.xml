@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-13T07:52:00+00:00</updated>
+  <updated>2026-09-13T08:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Homebrew Releases Version 7.0.0</title>
+    <link href="https://brew.sh/2026/09/13/homebrew-7.0.0/" rel="alternate" />
+    <id>https://brew.sh/2026/09/13/homebrew-7.0.0/::v239</id>
+    <published>2026-09-13T08:42:00+00:00</published>
+    <updated>2026-09-13T08:42:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/7l-6rz62j54/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://brew.sh/2026/09/13/homebrew-7.0.0/">brew.sh</a> | <a href="https://news.ycombinator.com/item?id=49681545">hacker news</a></small></p><hr/><p>Homebrew 7.0.0 introduces faster installation and upgrade processes by implementing higher concurrency during package preparation and downloads. This release features enhanced security through stricter sandboxing for formulae and casks, a built-in vulnerability advisory database, and a native macOS application.</p><p>The update ends support for macOS 10.15 and moves Intel-based Macs to Tier 3 support status. Additional improvements include new command-line diagnostics, expanded capabilities for `brew bundle`, and refined service management for macOS and Linux.</p><p><img src="https://i.ytimg.com/vi/7l-6rz62j54/maxresdefault.jpg" /></p><hr/><small>13 Sep 2026, 13:38 UTC | #20974</small>]]></content>
+  </entry>
   <entry>
     <title>Switching Version Control From Git to Fossil</title>
     <link href="https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html" rel="alternate" />
