@@ -3,9 +3,26 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-13T18:20:00+00:00</updated>
+  <updated>2026-09-13T20:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Mark Zuckerberg Emails Discuss Cambridge Analytica Data Practices</title>
+    <link href="https://twitter.com/TechEmails/status/2099214399840059428" rel="alternate" />
+    <id>https://twitter.com/TechEmails/status/2099214399840059428::v239</id>
+    <published>2026-09-13T20:09:00+00:00</published>
+    <updated>2026-09-13T20:09:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://twitter.com/TechEmails/status/2099214399840059428">twitter.com</a> | <a href="https://law.justia.com/cases/federal/district-courts/california/candce/5:2018cv01725/324152/258/">source</a> | <a href="https://news.ycombinator.com/item?id=49688157">hacker news</a></small></p><hr/><p>Internal Facebook emails from January 2017, surfaced through the In re Facebook, Inc. Securities Litigation, contain discussions between executives including Mark Zuckerberg regarding Cambridge Analytica's data-sharing activities. These communications provide insight into how Facebook leadership evaluated the firm's operations and data management practices.</p><p>The documents have sparked debate over whether Cambridge Analytica's methods were unique or if they mirrored standard political consulting practices used by other entities on the platform.</p><hr/><small>13 Sep 2026, 22:12 UTC | #21008</small>]]></content>
+  </entry>
+  <entry>
+    <title>Costco Limits Motor Oil Purchases Amid Global Shortage</title>
+    <link href="https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/" rel="alternate" />
+    <id>https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/::v239</id>
+    <published>2026-09-13T18:24:00+00:00</published>
+    <updated>2026-09-13T18:24:00+00:00</updated>
+    <media:thumbnail url="https://guessingheadlights.com/wp-content/uploads/2025/04/You-might-be-changing-your-oil-too-often.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/">guessingheadlights.com</a> | <a href="https://news.ycombinator.com/item?id=49686697">hacker news</a></small></p><hr/><p>Costco is restricting members to two units of Kirkland Signature full-synthetic motor oil every seven days. This rationing is accompanied by a significant price increase, with 10-quart cases rising to approximately $58 from historic prices in the mid-$30 range.</p><p>The supply crunch is attributed to a global shortage and the high cost of meeting modern engine certification requirements. Additionally, upstream petroleum refining trends—specifically the prioritization of transportation fuels—have impacted the availability of base stocks. The restrictions extend beyond house brands, with purchase limits also applied to third-party products like Mobil 1.</p><p><img src="https://guessingheadlights.com/wp-content/uploads/2025/04/You-might-be-changing-your-oil-too-often.jpg" /></p><hr/><small>13 Sep 2026, 22:09 UTC | #21009</small>]]></content>
+  </entry>
   <entry>
     <title>Barack Obama Calls for Democratic AI Safeguard Plan</title>
     <link href="https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/" rel="alternate" />
