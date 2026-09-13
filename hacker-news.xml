@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-13T18:08:00+00:00</updated>
+  <updated>2026-09-13T18:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Odin Programming Language Compared to Go</title>
+    <link href="https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/" rel="alternate" />
+    <id>https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/::v239</id>
+    <published>2026-09-13T18:18:00+00:00</published>
+    <updated>2026-09-13T18:18:00+00:00</updated>
+    <media:thumbnail url="https://ferdowsi.cloud/blog/wp-content/uploads/2025/10/what-is-the-go-programming-language.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/">rm4n0s.github.io</a> | <a href="https://lobste.rs/s/ytc27d/golang_developers_should_try_odin">discussion</a></small></p><hr/><p>Odin is a systems programming language that combines the simplicity of Golang with low-level control through manual memory management and array programming. It utilizes language directives and attributes to manage tasks typically handled by a garbage collector or a complex runtime, focusing on high-performance, data-oriented design.</p><p>The language implements error handling using unions and enums to create structured, traceable error trees. For concurrency and abstraction, Odin provides alternatives to Go's goroutines and interfaces by using manual threading models and struct-based composition to ensure explicit control over system resources.</p><p><img src="https://ferdowsi.cloud/blog/wp-content/uploads/2025/10/what-is-the-go-programming-language.webp" /></p><hr/><small>13 Sep 2026, 21:21 UTC | #21005</small>]]></content>
+  </entry>
+  <entry>
+    <title>Rust Stabilizes Never Type</title>
+    <link href="https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/" rel="alternate" />
+    <id>https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/::v239</id>
+    <published>2026-09-13T18:17:00+00:00</published>
+    <updated>2026-09-13T18:17:00+00:00</updated>
+    <media:thumbnail url="https://cdn.shopaccino.com/igmguru/articles/online-rust-compiler-2563048025691934_l.webp?v=548" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/">lwn.net</a> | <a href="https://lobste.rs/s/felv2m/stabilizing_rust_s_never_type">discussion</a> | <a href="https://news.ycombinator.com/item?id=49625056">hacker news</a></small></p><hr/><p>Rust is stabilizing its "never" type (`!`), which represents values that can never occur or functions that never return. The feature enables more efficient generic code by allowing the compiler to optimize away unreachable error branches in infallible conversions and simplifies type inference for expressions like infinite loops. As part of this update, the standard library's `Infallible` type will become a type alias for the never type.</p><p>The change introduces a breaking change in how the compiler handles type inference fallback, shifting the default from the unit type `()` to `!`. While this could impact several thousand crates, many have already been addressed through community patches or backports discovered using the `crater` tool. Developers can resolve potential compilation errors by explicitly specifying return types or updating to supported dependency versions.</p><p><img src="https://cdn.shopaccino.com/igmguru/articles/online-rust-compiler-2563048025691934_l.webp?v=548" /></p><hr/><small>13 Sep 2026, 21:18 UTC | #20999</small>]]></content>
+  </entry>
   <entry>
     <title>Switching from Arch Linux to GNU Guix</title>
     <link href="https://whhone.com/posts/switching-to-gnu-guix/" rel="alternate" />
