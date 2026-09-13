@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-13T18:10:00+00:00</updated>
+  <updated>2026-09-13T18:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Automakers Sell Driver Data to Third-Party Brokers</title>
+    <link href="https://www.theverge.com/column/994172/your-car-is-selling-your-data" rel="alternate" />
+    <id>https://www.theverge.com/column/994172/your-car-is-selling-your-data::v239</id>
+    <published>2026-09-13T18:13:00+00:00</published>
+    <updated>2026-09-13T18:13:00+00:00</updated>
+    <media:thumbnail url="https://gmauthority.com/blog/wp-content/uploads/2024/10/2019-Chevrolet-Corvette-C7-Grand-Sport-Coupe-Interior-Center-Screen-Display-Main-OnStar-Menu-1536x1024.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theverge.com/column/994172/your-car-is-selling-your-data">theverge.com</a> | <a href="https://www.ftc.gov/news-events/news/press-releases/2026/01/ftc-finalizes-order-settling-allegations-gm-onstar-collected-sold-geolocation-data-without-consumers">source</a> | <a href="https://news.ycombinator.com/item?id=49683953">hacker news</a></small></p><hr/><p>General Motors has received a five-year FTC ban on selling customer geolocation and driving behavior data to third-party brokers after being found to have collected information without adequate consumer consent. Research from the Mozilla Foundation and Consumer Reports suggests this practice is widespread across nearly all major automakers, with data collection often obscured by complex, overlapping privacy policies within vehicle systems and mobile apps.</p><p>Current legislative efforts like the DRIVER Act aim to grant vehicle owners more control over their information, but privacy advocates argue such measures do not prevent the initial excessive collection of data. With automakers heavily incentivized to monetize driver information, there is growing consumer demand for "disconnected" vehicles and more transparent data management.</p><p><img src="https://gmauthority.com/blog/wp-content/uploads/2024/10/2019-Chevrolet-Corvette-C7-Grand-Sport-Coupe-Interior-Center-Screen-Display-Main-OnStar-Menu-1536x1024.jpg" /></p><hr/><small>13 Sep 2026, 20:08 UTC | #21002</small>]]></content>
+  </entry>
   <entry>
     <title>Armin Ronacher Critiques AI Pacing and the P(doom) Debate</title>
     <link href="https://lucumr.pocoo.org/2026/9/12/pdoom/" rel="alternate" />
