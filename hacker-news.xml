@@ -975,22 +975,4 @@
     <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/59203795/original/50cb1c633c/1?v=1" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://bergie.iki.fi/blog/eupl/">bergie.iki.fi</a> | <a href="https://lobste.rs/s/4ntizu/i_changed_my_license_eupl">discussion</a> | <a href="https://news.ycombinator.com/item?id=49585161">hacker news</a></small></p><hr/><p>Henri Bergius has adopted the European Union Public License (EUPL) 1.2 as the default for his software projects. This move replaces previously used permissive MIT and LGPLv2 licenses with a strong copyleft model that closes the "SaaS loophole" by requiring reciprocity regardless of how the software is distributed.</p><p>The decision stems from a desire to ensure corporations cannot utilize open-source software without contributing improvements back to the community. Projects currently licensed under EUPL include reticulum-js and dacar, with a rewrite of the NoFlo Development Environment also slated for the new license.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/59203795/original/50cb1c633c/1?v=1" /></p><hr/><small>8 Sep 2026, 07:22 UTC | #20413</small>]]></content>
   </entry>
-  <entry>
-    <title>GEM for Linux Desktop Environment</title>
-    <link href="https://github.com/triglav-os/gem" rel="alternate" />
-    <id>https://github.com/triglav-os/gem::v238</id>
-    <published>2026-09-08T02:00:00+00:00</published>
-    <updated>2026-09-08T02:00:00+00:00</updated>
-    <media:thumbnail url="https://github.com/triglav-os/gem/raw/main/docs/images/screenshots/gem_desktop_2026_09_06.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/triglav-os/gem">github.com</a> | <a href="https://lobste.rs/s/5yga7r/gem_for_linux_provides_classic_graphical">discussion</a></small></p><hr/><p>GEM for Linux provides a classic graphical desktop environment including windows, menus, dialogs, a terminal, a calculator, and a clock. Applications share a display server that supports either a Rasta viewer or a native Linux framebuffer.</p><p>The project is built using GCC/G++, CMake, and SDL2, and supports development within Docker containers. It offers native Linux deployment via custom build packages and requires access to the Linux framebuffer and input devices for native operation.</p><p><img src="https://github.com/triglav-os/gem/raw/main/docs/images/screenshots/gem_desktop_2026_09_06.png" /></p><hr/><small>8 Sep 2026, 06:17 UTC | #20412</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jellyfin Releases Version 12.0</title>
-    <link href="https://jellyfin.org/posts/jellyfin-release-12.0/" rel="alternate" />
-    <id>https://jellyfin.org/posts/jellyfin-release-12.0/::v238</id>
-    <published>2026-09-08T01:57:00+00:00</published>
-    <updated>2026-09-08T01:57:00+00:00</updated>
-    <media:thumbnail url="https://jellyfin.org/assets/images/modern-ui-84f59788e646314ddda43d79c11c4b31.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jellyfin.org/posts/jellyfin-release-12.0/">jellyfin.org</a> | <a href="https://news.ycombinator.com/item?id=49604861">hacker news</a></small></p><hr/><p>Jellyfin has released version 12.0, which introduces significant database optimizations and expanded media support for books and comics. The update improves browsing performance for large playlists and collections, provides native metadata extraction for various book and comic formats, and extends the "alternate version" functionality from movies to television episodes.</p><p>The release makes the "Modern" web client layout the default and adopts a new versioning scheme. Because the update performs database migrations and data rewrites on the first boot, users are strongly advised to perform a manual backup before upgrading. Additionally, support for legacy client endpoints has been removed, and several third-party plugins may no longer function without updates.</p><p><img src="https://jellyfin.org/assets/images/modern-ui-84f59788e646314ddda43d79c11c4b31.png" /></p><hr/><small>8 Sep 2026, 05:06 UTC | #20409</small>]]></content>
-  </entry>
 </feed>

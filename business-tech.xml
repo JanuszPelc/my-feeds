@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-12T19:28:00+00:00</updated>
+  <updated>2026-09-12T20:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Miners Pivot to AI Data Centers, Undermining Trump's US Bitcoin Mining Plan</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-09/ai-boom-wrecks-trump-s-plan-for-made-in-america-bitcoin-mining" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-09/ai-boom-wrecks-trump-s-plan-for-made-in-america-bitcoin-mining::v239</id>
+    <published>2026-09-12T20:34:00+00:00</published>
+    <updated>2026-09-12T20:34:00+00:00</updated>
+    <media:thumbnail url="https://images.wsj.net/im-34308045/social" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-09/ai-boom-wrecks-trump-s-plan-for-made-in-america-bitcoin-mining">bloomberg.com</a></small></p><hr/><p>Bitcoin miners are converting facilities into AI data centers to capitalize on surging demand for computing power amid a prolonged downturn in the cryptocurrency market. This shift is disrupting efforts to establish the United States as a central hub for domestic Bitcoin mining.</p><p>The pivot allows operators to move from volatile crypto-asset revenues to more stable AI infrastructure services. This reallocation of energy and hardware complicates domestic policy goals intended to secure US leadership in the blockchain sector.</p><p><img src="https://images.wsj.net/im-34308045/social" /></p><hr/><small>13 Sep 2026, 02:02 UTC | #20944</small>]]></content>
+  </entry>
   <entry>
     <title>AI Chatbots Challenge the US Legal System</title>
     <link href="https://www.bloomberg.com/features/2026-ai-crime-legal-ikner-chatgpt/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODk3NjYxNSwiZXhwIjoxNzg5NTgxNDE1LCJhcnRpY2xlSWQiOiJUTDNENFFLSVAzSU4wMCIsImJjb25uZWN0SWQiOiIxQzU5RkM5NjZDRTU0N0QwOTc1RkRBNTFBRTY1N0ZENyJ9.-lZtbagSFrQqOnr2OmIkA0ipKU0AqLMqZlE0v01O3Z8" rel="alternate" />
