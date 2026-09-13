@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-13T08:48:00+00:00</updated>
+  <updated>2026-09-13T13:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Litelm Provides Lightweight Model Routing and Message Translation</title>
+    <link href="https://github.com/kennethwolters/litelm" rel="alternate" />
+    <id>https://github.com/kennethwolters/litelm::v239</id>
+    <published>2026-09-13T13:39:00+00:00</published>
+    <updated>2026-09-13T13:39:00+00:00</updated>
+    <media:thumbnail url="https://masterprompting.net/images/blog/ai-model-routing-litellm-openrouter-guide.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/kennethwolters/litelm">github.com</a> | <a href="https://news.ycombinator.com/item?id=49662767">hacker news</a></small></p><hr/><p>This Python library extracts the core routing and translation components from the LiteLLM package into a minimalist implementation. It removes the overhead of proxy servers, caching, and cost tracking, focusing instead on model routing, message translation, streaming, tool use, and embeddings. Because it mirrors the LiteLLM API, developers can transition to it by simply updating their import statements.</p><p>The library supports 19 providers, including OpenAI, Anthropic, and Groq, and relies on only two dependencies: `openai` and `httpx`. Currently in alpha, the project is intended for developers who require a low-overhead orchestration layer without the administrative features of a full-scale AI gateway, such as token counting or budgeting.</p><p><img src="https://masterprompting.net/images/blog/ai-model-routing-litellm-openrouter-guide.webp" /></p><hr/><small>13 Sep 2026, 16:40 UTC | #20985</small>]]></content>
+  </entry>
   <entry>
     <title>John Carmack Compares Programming Evolution to Martial Arts</title>
     <link href="https://twitter.com/ID_AA_Carmack/status/2098443262214230095" rel="alternate" />
@@ -919,23 +928,5 @@
     <updated>2026-09-08T18:43:00+00:00</updated>
     <media:thumbnail url="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/68e95d95ecae26885bafdfde_81805a2d45f087f2cc153168759f8bf015706b04-1920x1035.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/ayghri/i-have-adhd">github.com</a> | <a href="https://news.ycombinator.com/item?id=49610631">hacker news</a></small></p><hr/><p>The i-have-adhd plugin is a tool for coding assistants designed to produce highly scannable, action-oriented outputs. It enforces a strict structure by prioritizing immediate actions, using numbered steps, and eliminating conversational filler such as preambles or concluding pleasantries.</p><p>The plugin follows ten specific rules, including capping lists at five items and providing specific time estimates for tasks. It is intended to prevent AI models from obscuring solutions within lengthy explanations, facilitating a more efficient workflow for developers using tools like Claude Code.</p><p><img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/68e95d95ecae26885bafdfde_81805a2d45f087f2cc153168759f8bf015706b04-1920x1035.png" /></p><hr/><small>8 Sep 2026, 22:23 UTC | #20512</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sony Launches WH-1000XM4C, WH-CH730N, and WH-CH530 Headphones</title>
-    <link href="https://musictech.com/news/gear/sony-wireless-headphones-wh-1000xm4c/" rel="alternate" />
-    <id>https://musictech.com/news/gear/sony-wireless-headphones-wh-1000xm4c/::v238</id>
-    <published>2026-09-08T16:29:00+00:00</published>
-    <updated>2026-09-08T16:29:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Sonys-WH-1000XM4C-headphones-in-Lavender.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/sony-wireless-headphones-wh-1000xm4c/">musictech.com</a> | <a href="https://sony.mediaroom.com/2026-09-07-Sony-Electronics-Introduces-WH-1000XM4C-M4-2nd-Gen-Wireless-Noise-Cancelling-Headphones-and-Updates-Popular-Mid-and-Entry-Level-Wireless-Headphones-with-WH-CH730N-and-WH-CH530">source</a></small></p><hr/><p>Sony has announced three new wireless headphone models: the premium WH-1000XM4C, the mid-range WH-CH730N, and the entry-level WH-CH530. The WH-1000XM4C is a refreshed version of the original WH-1000XM4, incorporating updated sound tuning and a 27-hour battery life to meet EU compliance standards.</p><p>The mid-range WH-CH730N features ambient sound transparency and up to 75 hours of battery life. The budget-friendly WH-CH530 offers 55 hours of playback and improved microphone quality, though it does not include active noise cancellation.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Sonys-WH-1000XM4C-headphones-in-Lavender.jpg" /></p><hr/><small>8 Sep 2026, 20:52 UTC | #20470</small>]]></content>
-  </entry>
-  <entry>
-    <title>Qualcomm and Amazon Partner to Develop Custom AI Silicon for AWS Infrastructure</title>
-    <link href="https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html" rel="alternate" />
-    <id>https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html::v238</id>
-    <published>2026-09-08T16:26:00+00:00</published>
-    <updated>2026-09-08T16:26:00+00:00</updated>
-    <media:thumbnail url="https://techafricanews.com/wp-content/uploads/2026/04/aws-10.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html">cnbc.com</a> | <a href="https://www.prnewswire.com/news-releases/qualcomm-announces-multi-generational-product-collaboration-with-amazon-to-build-next-generation-ai-data-center-infrastructure-302871895.html">source</a></small></p><hr/><p>Qualcomm has entered a multi-generational collaboration with Amazon to develop customized silicon for Amazon Web Services (AWS) AI infrastructure. The partnership focuses on providing power-efficient processing and advanced optical connectivity solutions to support large-scale AI inference and high-bandwidth data center networks.</p><p>The agreement is part of Qualcomm's ongoing effort to diversify its business into the enterprise data center market. Following the announcement, Qualcomm's stock price saw a significant increase as the company expands its footprint beyond mobile processors into cloud infrastructure hardware.</p><p><img src="https://techafricanews.com/wp-content/uploads/2026/04/aws-10.png" /></p><hr/><small>8 Sep 2026, 20:47 UTC | #20452</small>]]></content>
   </entry>
 </feed>
