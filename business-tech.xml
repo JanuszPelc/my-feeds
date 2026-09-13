@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-13T14:33:00+00:00</updated>
+  <updated>2026-09-13T18:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Armin Ronacher Critiques AI Pacing and the P(doom) Debate</title>
+    <link href="https://lucumr.pocoo.org/2026/9/12/pdoom/" rel="alternate" />
+    <id>https://lucumr.pocoo.org/2026/9/12/pdoom/::v239</id>
+    <published>2026-09-13T18:10:00+00:00</published>
+    <updated>2026-09-13T18:10:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/HSDO4WbbgAAYgNJ?format=webp&amp;name=large" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lucumr.pocoo.org/2026/9/12/pdoom/">lucumr.pocoo.org</a> | <a href="https://news.ycombinator.com/item?id=49677450">hacker news</a></small></p><hr/><p>Armin Ronacher critiques Dario Amodei's proposal to "pace the frontier" of AI development, arguing that focusing on controlling capability growth through a few major corporations creates significant economic and geopolitical imbalances. While acknowledging the reality of AI-driven risks like cyberattacks and model poisoning, he contends that the current focus on closed-weight models is misdirected.</p><p>The author suggests that open-weight models provide a form of natural stabilization through proliferation, whereas the current landscape is characterized by regulatory failure and market distortions caused by heavily subsidized model providers. Ronacher concludes that the most likely impact of AI is not an extinction event, but rather a substantial increase in the economic and security costs for industries like software engineering.</p><p><img src="https://pbs.twimg.com/media/HSDO4WbbgAAYgNJ?format=webp&name=large" /></p><hr/><small>13 Sep 2026, 19:49 UTC | #20998</small>]]></content>
+  </entry>
+  <entry>
+    <title>Google's Ad Review Fails to Remove Deceptive iOS-Mimicry Advertisements</title>
+    <link href="https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads" rel="alternate" />
+    <id>https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads::v239</id>
+    <published>2026-09-13T18:09:00+00:00</published>
+    <updated>2026-09-13T18:09:00+00:00</updated>
+    <media:thumbnail url="https://www.atomic14.com/assets/article_images/2026-09-13/dodgy.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads">atomic14.com</a> | <a href="https://news.ycombinator.com/item?id=49686445">hacker news</a></small></p><hr/><p>Deceptive advertisements mimicking iOS system alerts are bypassing manual review processes at Google. Despite reports of ads claiming "iPhone Storage is Full" to induce user panic, reviewers have maintained that the content complies with platform policies, even when the ads use deceptive UI components and false claims to drive clicks.</p><p>Google's Gemini AI can identify these specific policy violations—including misleading design and non-functional interactive elements—in seconds. This discrepancy highlights potential failures in human-led enforcement or a conflict between automated detection and manual review outcomes.</p><p><img src="https://www.atomic14.com/assets/article_images/2026-09-13/dodgy.webp" /></p><hr/><small>13 Sep 2026, 19:45 UTC | #20997</small>]]></content>
+  </entry>
   <entry>
     <title>AITX, John Deere, and Planet Launch New AI Applications</title>
     <link href="https://aiweekly.co/issues/ai-is-getting-real-jobs-the-evidence-is-uneven" rel="alternate" />

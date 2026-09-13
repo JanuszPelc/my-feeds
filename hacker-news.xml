@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-13T18:04:00+00:00</updated>
+  <updated>2026-09-13T18:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Switching from Arch Linux to GNU Guix</title>
+    <link href="https://whhone.com/posts/switching-to-gnu-guix/" rel="alternate" />
+    <id>https://whhone.com/posts/switching-to-gnu-guix/::v239</id>
+    <published>2026-09-13T18:08:00+00:00</published>
+    <updated>2026-09-13T18:08:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8MnCiZMgOw7mYZM9wOkAuFBF0FiVKzagPmmwzUz01YB8Ys7K69U5usEc0xVAGfeCOXY-U9Ueuj8nVsJuQkFwXhwLs2wFuJKcCw890BP1UD3CZPZQzPNxz1ROot-2pzHPg0FJdO46unFcw_PhtbrWCvw1kh7ZcqYbNPOPgTfy7QJe1uGMMYw7LXmrXGpk/s1920/Zrzut+ekranu+z+2025-10-05+17-07-44.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://whhone.com/posts/switching-to-gnu-guix/">whhone.com</a> | <a href="https://lobste.rs/s/loapzc/switching_gnu_guix_beginner_s">discussion</a> | <a href="https://news.ycombinator.com/item?id=49686225">hacker news</a></small></p><hr/><p>The author migrated their home server from Arch Linux to GNU Guix to achieve a declarative and reproducible configuration managed entirely through code. The transition was motivated by the benefits of Guix's unified Guile Scheme configuration language, the Shepherd init system, and its strict adherence to free software principles compared to the complexity and documentation fragmentation encountered with NixOS.</p><p>Key advantages include managing both system and user environments via Git-tracked Scheme code, using `guix shell` for sandboxed isolation, and the flexibility of a full programming language for defining system services. Challenges such as a smaller package catalog and occasional slow builds when substitutes are unavailable are mitigated through custom package definitions, `guix import`, and strategic version pinning.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8MnCiZMgOw7mYZM9wOkAuFBF0FiVKzagPmmwzUz01YB8Ys7K69U5usEc0xVAGfeCOXY-U9Ueuj8nVsJuQkFwXhwLs2wFuJKcCw890BP1UD3CZPZQzPNxz1ROot-2pzHPg0FJdO46unFcw_PhtbrWCvw1kh7ZcqYbNPOPgTfy7QJe1uGMMYw7LXmrXGpk/s1920/Zrzut+ekranu+z+2025-10-05+17-07-44.png" /></p><hr/><small>13 Sep 2026, 19:41 UTC | #20996</small>]]></content>
+  </entry>
   <entry>
     <title>Tesla Subdomain Triggers Automated Security Probes Against NTP Pool Servers</title>
     <link href="https://dreamstation.systems/personal/tesla.html" rel="alternate" />
