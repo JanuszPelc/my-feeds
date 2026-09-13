@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-12T19:31:00+00:00</updated>
+  <updated>2026-09-13T00:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Real-SWE Benchmark Evaluates AI Models on Private Enterprise Codebases</title>
+    <link href="https://withspecific.com/benchmarks/real-swe" rel="alternate" />
+    <id>https://withspecific.com/benchmarks/real-swe::v239</id>
+    <published>2026-09-13T00:37:00+00:00</published>
+    <updated>2026-09-13T00:37:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/HBRvO1TaMAAO7LW.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://withspecific.com/benchmarks/real-swe">withspecific.com</a> | <a href="https://news.ycombinator.com/item?id=49676820">hacker news</a></small></p><hr/><p>Specific Labs has released Real-SWE, a benchmark that evaluates frontier AI models using tasks sourced from licensed, private production codebases. Unlike standard benchmarks that rely on public data, Real-SWE utilizes real-world engineering problems, such as calculating complex business taxes or managing cross-functional system changes, to test how agents handle proprietary code and company-specific patterns.</p><p>The benchmark measures model-and-harness combinations, revealing that most tasks currently remain difficult for frontier models, with many achieving resolution rates below 15%. In initial tests, Anthropic’s Fable 5.1 (via Claude Code) led the leaderboard with a 38.8% resolution rate, followed by OpenAI’s GPT-6 Astra at 33.8% and Google’s Gemini 3.8 Flash at 31.2%.</p><p><img src="https://pbs.twimg.com/media/HBRvO1TaMAAO7LW.jpg" /></p><hr/><small>13 Sep 2026, 05:56 UTC | #20966</small>]]></content>
+  </entry>
   <entry>
     <title>Hugging Face Launches Open Alignment Initiative</title>
     <link href="https://x.com/clementdelangue" rel="alternate" />
