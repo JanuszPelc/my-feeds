@@ -663,22 +663,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/thumbsquare.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/no-type-no-tag-beats-updates-contraflow-to-v1-2-0-for-windows-68443?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68443">kvraudio.com</a> | <a href="https://notypenotag.gumroad.com/contraflow">source</a></small></p><hr/><p>No Type No Tag Beats has released version 1.2.0 of Contraflow, a VST3 MIDI generator and instrument for Windows. The update features a redesigned workspace with a compact MIDI preview rack and enhanced musical generation for melody, chord, bass, riff, and performance roles.</p><p>Version 1.2.0 introduces more versatile phrasing and rhythmic variation in role generation, alongside refined MIDI import review tools. The update also adds instrument pitch tracking controls and an updated instrument browser for SF2 and VST3 instruments.</p><p><img src="https://static.kvraudio.com/i/b/thumbsquare.jpg" /></p><hr/><small>9 Sep 2026, 11:23 UTC | #20542</small>]]></content>
   </entry>
-  <entry>
-    <title>AethisDSP Releases Aethis 1.1.0 Guitar Amp Simulator</title>
-    <link href="https://www.kvraudio.com/news/aethisdsp-releases-aethis-1-1-0---neural-guitar-amp-sim-with-a-built-in-harmonizer-68442?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68442" rel="alternate" />
-    <id>https://www.kvraudio.com/news/aethisdsp-releases-aethis-1-1-0---neural-guitar-amp-sim-with-a-built-in-harmonizer-68442?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68442::v238</id>
-    <published>2026-09-08T23:41:00+00:00</published>
-    <updated>2026-09-08T23:41:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/04-aethis-pedals.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/aethisdsp-releases-aethis-1-1-0---neural-guitar-amp-sim-with-a-built-in-harmonizer-68442?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68442">kvraudio.com</a> | <a href="https://aethis.aethisdsp.com/">source</a></small></p><hr/><p>AethisDSP has released Aethis 1.1.0, a guitar amplifier simulator centered on neural amp modeling. The plugin integrates three amp models, cabinet simulation, a parametric EQ, a harmonizer, and a full set of pedals within a single interface.</p><p>The software is available for a $34.99 perpetual license and includes a 14-day free trial. It is compatible with Windows and Linux, though the Linux version is currently in beta and requires Vulkan drivers to function.</p><p><img src="https://static.kvraudio.com/i/b/04-aethis-pedals.jpg" /></p><hr/><small>9 Sep 2026, 05:08 UTC | #20527</small>]]></content>
-  </entry>
-  <entry>
-    <title>Embassy Studios Focuses on Acoustic Design and Collaborative Workflows</title>
-    <link href="https://musictech.com/features/interviews/inside-embassy-studios-where-the-rooms-become-part-of-the-signal-chain/" rel="alternate" />
-    <id>https://musictech.com/features/interviews/inside-embassy-studios-where-the-rooms-become-part-of-the-signal-chain/::v238</id>
-    <published>2026-09-08T23:36:00+00:00</published>
-    <updated>2026-09-08T23:36:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Embassy-Studios-Studio-A1-2-credit-press@1400x1050.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/features/interviews/inside-embassy-studios-where-the-rooms-become-part-of-the-signal-chain/">musictech.com</a></small></p><hr/><p>Embassy Studios in Manhattan is a creative production complex designed to facilitate in-person collaboration through a "record anywhere" approach. The facility uses Dante-enabled infrastructure to allow artists to move seamlessly between recording rooms, production spaces, and multimedia suites.</p><p>The studio treats the acoustic environment as a primary component of the signal chain, prioritizing room design alongside high-end gear like SSL consoles and Augspurger monitors. The facility includes a Dolby Atmos mix room, a podcast room, and flexible studio suites designed for diverse recording and production needs.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Embassy-Studios-Studio-A1-2-credit-press@1400x1050.jpg" /></p><hr/><small>9 Sep 2026, 04:39 UTC | #20514</small>]]></content>
-  </entry>
 </feed>
