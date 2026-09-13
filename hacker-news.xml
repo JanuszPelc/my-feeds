@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-12T20:36:00+00:00</updated>
+  <updated>2026-09-13T00:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Logo Programming Language Features and Design</title>
+    <link href="https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html" rel="alternate" />
+    <id>https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html::v239</id>
+    <published>2026-09-13T00:34:00+00:00</published>
+    <updated>2026-09-13T00:34:00+00:00</updated>
+    <media:thumbnail url="https://cdn.iconscout.com/icon-pack/facebook-twitter-mockup/free-programming-language-logos-24701.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html">el.media.mit.edu</a> | <a href="https://lobste.rs/s/oh5hqw/logo_programming_language">discussion</a> | <a href="https://news.ycombinator.com/item?id=49622406">hacker news</a></small></p><hr/><p>This Lisp-based dialect is designed as an educational tool, utilizing an interpreted implementation to provide immediate user feedback and descriptive error messages. Its modular architecture allows for the creation of complex procedures by combining existing primitives, enabling users to expand the language's vocabulary through custom definitions.</p><p>The language provides flexible data handling for words and lists, including automatic type conversion for arithmetic operations. Specialized implementations like MicroWorlds and StarLogo offer expanded capabilities such as multitasking and massively parallel processing.</p><p><img src="https://cdn.iconscout.com/icon-pack/facebook-twitter-mockup/free-programming-language-logos-24701.png" /></p><hr/><small>13 Sep 2026, 03:45 UTC | #20964</small>]]></content>
+  </entry>
   <entry>
     <title>Android NAT-T Keepalive Offload Bypasses VPN Lockdown</title>
     <link href="https://supuk.ch/papers/android-natt-keepalive-vpn-bypass" rel="alternate" />
