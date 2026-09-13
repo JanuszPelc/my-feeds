@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-12T12:13:00+00:00</updated>
+  <updated>2026-09-13T14:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>The Challenge of Evaluating AI Agents in Specialized Domains</title>
+    <link href="https://hyperbo.la/w/aligned-to-whom/" rel="alternate" />
+    <id>https://hyperbo.la/w/aligned-to-whom/::v239</id>
+    <published>2026-09-13T14:31:00+00:00</published>
+    <updated>2026-09-13T14:31:00+00:00</updated>
+    <media:thumbnail url="https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/aRiG8AqSM2tbNzbeg/ajxdmnxv2yornb9irj3n" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://hyperbo.la/w/aligned-to-whom/">hyperbo.la</a> | <a href="https://news.ycombinator.com/item?id=49679643">hacker news</a></small></p><hr/><p>Developers building AI agents face safety risks when operating in domains where they lack the expertise to judge model correctness. Relying on model priors in unfamiliar territory can lead to "slop"—suboptimal or incorrect outputs that non-experts mistakenly reward, thereby reinforcing undesirable model behaviors.</p><p>These misalignments are exacerbated in agentic workflows that require long-term coherence through stacked changes. Because the definition of a "permissible shortcut" depends on the specific values of the observer, the author argues that achieving AI alignment is an irreducible complexity.</p><p><img src="https://res.cloudinary.com/lesswrong-2-0/image/upload/f_auto,q_auto/v1/mirroredImages/aRiG8AqSM2tbNzbeg/ajxdmnxv2yornb9irj3n" /></p><hr/><small>13 Sep 2026, 18:03 UTC | #20991</small>]]></content>
+  </entry>
   <entry>
     <title>The Fallacy of Measuring Progress via Quantitative Output</title>
     <link href="https://exple.tive.org/blarg/2026/09/10/the-wind-the-wind/" rel="alternate" />
