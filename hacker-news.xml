@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-13T08:44:00+00:00</updated>
+  <updated>2026-09-13T08:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>VTech VZ200 Restoration and 1980s Home Computer History</title>
+    <link href="https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html" rel="alternate" />
+    <id>https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html::v239</id>
+    <published>2026-09-13T08:46:00+00:00</published>
+    <updated>2026-09-13T08:46:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html">oldvcr.blogspot.com</a> | <a href="https://lobste.rs/s/jwlzd3/dick_smith_vz200_without_dick_smith">discussion</a> | <a href="https://news.ycombinator.com/item?id=49679387">hacker news</a></small></p><hr/><p>The author plans to restore a VTech VZ200 computer by repairing the keyboard and video circuitry. The project involves implementing a USB serial port using custom Z80 assembly language to enable 57.6kbps data transfer.</p><p>The piece provides historical context for the 1980s home computer market, tracing the lineage of the VZ200 through Hong Kong-based VTech and EACA. It also details the legal disputes over system ROM copyrights involving Tandy Corporation and manufacturers of compatible machines like the Video Genie and PMC-80.</p><hr/><small>13 Sep 2026, 14:07 UTC | #20976</small>]]></content>
+  </entry>
   <entry>
     <title>Terminal Commands to Block macOS Update Notifications</title>
     <link href="https://zoey-on-github.github.io/blog/updates.html" rel="alternate" />
