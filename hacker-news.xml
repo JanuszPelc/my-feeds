@@ -957,31 +957,4 @@
     <media:thumbnail url="https://dgtlinfra.com/wp-content/uploads/2022/06/Top-10-Cloud-Service-Providers-Globally-in-2022-1536x953.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://crescentro.se/posts/euro-cloud-providers-2026/">crescentro.se</a> | <a href="https://lobste.rs/s/6licoy/state_european_cloud_providers_2026">discussion</a></small></p><hr/><p>An assessment of European cloud providers—including Hetzner, OVH, Scaleway, UpCloud, and Leafcloud—compared to American alternatives like Vultr and DigitalOcean. The evaluation examines pricing, CPU performance using Geekbench benchmarks, deployment ease, and billing models across various budget and high-performance tiers.</p><p>Results show significant discrepancies between advertised and actual hardware, such as differences in CPU architectures and performance. The review also identifies operational friction, including complex user interfaces, rigid subscription requirements, and inconsistent network performance.</p><p><img src="https://dgtlinfra.com/wp-content/uploads/2022/06/Top-10-Cloud-Service-Providers-Globally-in-2022-1536x953.jpg" /></p><hr/><small>8 Sep 2026, 10:43 UTC | #20431</small>]]></content>
   </entry>
-  <entry>
-    <title>TALA Layout Engine Becomes Open-Source</title>
-    <link href="https://d2lang.com/blog/tala-is-open-source/" rel="alternate" />
-    <id>https://d2lang.com/blog/tala-is-open-source/::v238</id>
-    <published>2026-09-08T05:16:00+00:00</published>
-    <updated>2026-09-08T05:16:00+00:00</updated>
-    <media:thumbnail url="https://ecosistemastartup.com/wp-content/uploads/2026/09/tala-d2-open-source-arquitectura-2048x1152.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://d2lang.com/blog/tala-is-open-source/">d2lang.com</a> | <a href="https://news.ycombinator.com/item?id=49604150">hacker news</a></small></p><hr/><p>TALA (Terrastruct's AutoLayout Algorithm) is now available under the MPL-2.0 open-source license. This orthogonal layout engine is optimized for software architecture diagrams, aiming to achieve aesthetic properties like symmetry and clustering to create whiteboard-style layouts, rather than the unidirectional flow patterns produced by DAG-based engines like Dagre or ELK.</p><p>The engine supports hybrid positioning, permitting users to specify fixed coordinates for certain nodes while TALA automatically handles the routing for the remaining elements. This capability is intended to facilitate agentic workflows by allowing AI models to handle 2D positioning while the engine manages complex connection routing. TALA is bundled with D2 v0.9.0.</p><p><img src="https://ecosistemastartup.com/wp-content/uploads/2026/09/tala-d2-open-source-arquitectura-2048x1152.jpg" /></p><hr/><small>8 Sep 2026, 08:38 UTC | #20420</small>]]></content>
-  </entry>
-  <entry>
-    <title>Hardening PowerDNS Recursor Images via Minimal Scratch Builds and Landlock</title>
-    <link href="https://www.grepular.com/Hardening_Container_Images" rel="alternate" />
-    <id>https://www.grepular.com/Hardening_Container_Images::v238</id>
-    <published>2026-09-08T05:14:00+00:00</published>
-    <updated>2026-09-08T05:14:00+00:00</updated>
-    <media:thumbnail url="https://www.devopsroles.com/wp-content/uploads/2026/05/Implementing-Advanced-Seccomp-Profiles-for-Production-Security.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.grepular.com/Hardening_Container_Images">grepular.com</a> | <a href="https://lobste.rs/s/8hz82r/hardening_container_images">discussion</a></small></p><hr/><p>This method transforms heavy, Debian-based PowerDNS Recursor images into minimal `scratch` containers by statically compiling binaries with Musl. Security is tightened through Landlock for filesystem and network sandboxing and custom seccomp profiles that restrict syscalls to a specific allowlist.</p><p>Automated CI/CD pipelines ensure images are rebuilt daily to incorporate security updates from upstream dependencies. The workflow further enhances security through SBOM and VEX generation for vulnerability management and Sigstore for image signing and provenance verification.</p><p><img src="https://www.devopsroles.com/wp-content/uploads/2026/05/Implementing-Advanced-Seccomp-Profiles-for-Production-Security.jpg" /></p><hr/><small>8 Sep 2026, 08:22 UTC | #20417</small>]]></content>
-  </entry>
-  <entry>
-    <title>Bedrock 2.0 Emacs Starter Kit Released</title>
-    <link href="https://lambdaland.org/posts/2026-09-06-bedrock-v2/" rel="alternate" />
-    <id>https://lambdaland.org/posts/2026-09-06-bedrock-v2/::v238</id>
-    <published>2026-09-08T05:12:00+00:00</published>
-    <updated>2026-09-08T05:12:00+00:00</updated>
-    <media:thumbnail url="https://emacs-china.org/uploads/default/original/3X/c/4/c4a08e19083280eba2fd8623d1e2f1adf2f034ee.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lambdaland.org/posts/2026-09-06-bedrock-v2/">lambdaland.org</a> | <a href="https://codeberg.org/ashton314/emacs-bedrock/">source</a> | <a href="https://lobste.rs/s/sukgeg/emacs_bedrock_2_0_released">discussion</a> | <a href="https://news.ycombinator.com/item?id=49602490">hacker news</a></small></p><hr/><p>Bedrock 2.0, a minimal Emacs starter kit, has been released. This major version requires Emacs 31 and breaks compatibility with Emacs 29. The kit provides a collection of improved default settings that users copy into `~/.emacs.d/` to serve as a foundation for custom configurations.</p><p>The update introduces lexical binding by default, automatic `use-package` installation for declared packages, and enhanced `tree-sitter` and `isearch` configurations. To ensure users maintain direct control over their setup, the kit does not support automatic upgrades, requiring users to manually merge changes from the new `main` branch.</p><p><img src="https://emacs-china.org/uploads/default/original/3X/c/4/c4a08e19083280eba2fd8623d1e2f1adf2f034ee.png" /></p><hr/><small>8 Sep 2026, 08:17 UTC | #20415</small>]]></content>
-  </entry>
 </feed>
