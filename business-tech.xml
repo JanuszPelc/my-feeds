@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-13T18:13:00+00:00</updated>
+  <updated>2026-09-13T18:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Barack Obama Calls for Democratic AI Safeguard Plan</title>
+    <link href="https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/::v239</id>
+    <published>2026-09-13T18:20:00+00:00</published>
+    <updated>2026-09-13T18:20:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1VQu9Z.img?w=1920&amp;h=1080&amp;m=4&amp;q=90" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/">techcrunch.com</a> | <a href="https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html">source</a></small></p><hr/><p>The former president has urged Democrats to make artificial intelligence a "central agenda" item, calling for a clear framework to address the technology's economic and safety risks. Speaking at a fundraising event, Obama emphasized the need for public conversation regarding rapid private-sector development while noting the potential for AI to accelerate fields like drug discovery.</p><p>The remarks come amid rising concerns regarding AI safety and calls from industry leaders like Anthropic CEO Dario Amodei to implement "pacing the frontier" measures, such as independent safety evaluations. While Democratic leadership has echoed the need for decisive action, political opposition has focused on maintaining American technological dominance while downplaying certain regulatory risks.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1VQu9Z.img?w=1920&h=1080&m=4&q=90" /></p><hr/><small>13 Sep 2026, 21:35 UTC | #20986</small>]]></content>
+  </entry>
   <entry>
     <title>Automakers Sell Driver Data to Third-Party Brokers</title>
     <link href="https://www.theverge.com/column/994172/your-car-is-selling-your-data" rel="alternate" />
