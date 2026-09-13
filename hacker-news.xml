@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-13T08:46:00+00:00</updated>
+  <updated>2026-09-13T08:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>John Carmack Compares Programming Evolution to Martial Arts</title>
+    <link href="https://twitter.com/ID_AA_Carmack/status/2098443262214230095" rel="alternate" />
+    <id>https://twitter.com/ID_AA_Carmack/status/2098443262214230095::v239</id>
+    <published>2026-09-13T08:48:00+00:00</published>
+    <updated>2026-09-13T08:48:00+00:00</updated>
+    <media:thumbnail url="https://m.media-amazon.com/images/I/81jcEtYqs5L._SL1500_.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://twitter.com/ID_AA_Carmack/status/2098443262214230095">twitter.com</a> | <a href="https://news.ycombinator.com/item?id=49677577">hacker news</a></small></p><hr/><p>The transition of martial arts from battlefield combat to structured sports provides a metaphor for the changing landscape of software development. As AI automates many coding tasks, manual, low-level programming is shifting from a practical necessity toward a niche, enthusiast-driven pursuit.</p><p>While acknowledging the value of the retro-computing scene for maintaining traditional skills, Carmack warns against becoming an "out of touch" practitioner of obsolete techniques. He encourages developers to adapt to modern technological shifts to remain competitive and relevant.</p><p><img src="https://m.media-amazon.com/images/I/81jcEtYqs5L._SL1500_.jpg" /></p><hr/><small>13 Sep 2026, 14:43 UTC | #20977</small>]]></content>
+  </entry>
   <entry>
     <title>VTech VZ200 Restoration and 1980s Home Computer History</title>
     <link href="https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html" rel="alternate" />
