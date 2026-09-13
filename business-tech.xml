@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-13T07:54:00+00:00</updated>
+  <updated>2026-09-13T13:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Flock Safety Worker Calls Police on Reporter Filming Public Camera Installation</title>
+    <link href="https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/" rel="alternate" />
+    <id>https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/::v239</id>
+    <published>2026-09-13T13:36:00+00:00</published>
+    <updated>2026-09-13T13:36:00+00:00</updated>
+    <media:thumbnail url="https://gray-investigatetv-prod.gtv-cdn.com/resizer/v2/GHOHFF4LFBAA3BOL6XUDKT3OLY.jpg?auth=6d212fdbc70fea89a75244435979182a719c0e15b018016d0653518bdc461013&amp;width=980&amp;height=551&amp;smart=true" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/">investigatetv.com</a> | <a href="https://news.ycombinator.com/item?id=49683853">hacker news</a></small></p><hr/><p>A Flock Safety technician called 911 to report being "harassed" by an investigative reporter while installing a public license plate reader in Milton, Georgia. The reporter, Brendan Keefe, was filming the installation in a public space when the technician summoned police, leading to a multi-unit police stop of the reporter's vehicle.</p><p>The incident is one of several documented cases this year where Flock Safety employees have called police on individuals filming their operations. The company continues to face significant scrutiny from privacy activists and community leaders concerning the deployment of its automated surveillance technology and its recent refusal to allow media attendance at its annual law enforcement conference.</p><p><img src="https://gray-investigatetv-prod.gtv-cdn.com/resizer/v2/GHOHFF4LFBAA3BOL6XUDKT3OLY.jpg?auth=6d212fdbc70fea89a75244435979182a719c0e15b018016d0653518bdc461013&width=980&height=551&smart=true" /></p><hr/><small>13 Sep 2026, 15:18 UTC | #20980</small>]]></content>
+  </entry>
   <entry>
     <title>Trump Administration Pushes for Data Center Development on Public Lands</title>
     <link href="https://washingtonsun.com/technology/data-centers-public-lands-trump" rel="alternate" />
