@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T12:08:00+00:00</updated>
+  <updated>2026-09-14T12:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>China's Ministry of State Security Warns of AI Risks to Political and Social Security</title>
+    <link href="https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9" rel="alternate" />
+    <id>https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9::v239</id>
+    <published>2026-09-14T12:20:00+00:00</published>
+    <updated>2026-09-14T12:20:00+00:00</updated>
+    <media:thumbnail url="https://www.datocms-assets.com/75231/1695040205-ai-pipeline-risks.png?fm=webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9">ft.com</a></small></p><hr/><p>China's Ministry of State Security has issued its first formal statement regarding artificial intelligence, warning that the technology poses significant risks to the nation's political and social security. The ministry specifically identified potential threats to cyber defenses as a primary concern in its assessment of rapid technological advancements.</p><p>The assessment, which identifies six major development risks, reflects Beijing's growing focus on how AI advancements might be leveraged by external actors to undermine domestic stability. This move comes as China seeks to play a leading role in global AI governance amid intensifying international strategic rivalry.</p><p><img src="https://www.datocms-assets.com/75231/1695040205-ai-pipeline-risks.png?fm=webp" /></p><hr/><small>14 Sep 2026, 17:29 UTC | #21051</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon, Microsoft, and Google Offer Financial Incentives to Communities for Data Center Support</title>
     <link href="https://www.theinformation.com/articles/amazon-microsoft-taking-communities-side-utilities" rel="alternate" />
