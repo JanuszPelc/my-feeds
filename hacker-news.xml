@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-14T00:18:00+00:00</updated>
+  <updated>2026-09-14T01:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>An Analysis of JPEG XL's Suitability for the Web</title>
+    <link href="https://giannirosato.com/blog/post/case-against-jxl" rel="alternate" />
+    <id>https://giannirosato.com/blog/post/case-against-jxl::v239</id>
+    <published>2026-09-14T01:19:00+00:00</published>
+    <updated>2026-09-14T01:19:00+00:00</updated>
+    <media:thumbnail url="https://winpoin.com/wp-content/uploads/2026/01/image-50.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://giannirosato.com/blog/post/case-against-jxl">giannirosato.com</a> | <a href="https://lobste.rs/s/e1lcnf/case_against_jpeg_xl">discussion</a> | <a href="https://news.ycombinator.com/item?id=49690554">hacker news</a></small></p><hr/><p>JPEG XL lacks specialized coding tools, such as deblocking filters and directional prediction, that allow competitors like AVIF to achieve higher efficiency. Its lossless compression advantages are marginal for typical Web content, and its recompression feature can lead to significantly higher decode times and increased exposure to "bomb" vulnerabilities on low-end devices.</p><p>Advocacy for JPEG XL is driven by a push for browser diversity and open standards following Google's previous decision to deprecate the format. However, its broad design—optimized for many use cases rather than the specific constraints of the Web—may prevent it from offering significant advantages in bandwidth, decoding speed, or security over WebP and AVIF.</p><p><img src="https://winpoin.com/wp-content/uploads/2026/01/image-50.png" /></p><hr/><small>14 Sep 2026, 08:49 UTC | #21035</small>]]></content>
+  </entry>
   <entry>
     <title>Creating a Custom Service in GNU Guix</title>
     <link href="https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html" rel="alternate" />

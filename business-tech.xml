@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T00:16:00+00:00</updated>
+  <updated>2026-09-14T01:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Signs $13.7 Billion Compute Deal with Rum Group</title>
+    <link href="https://www.theinformation.com/articles/anthropic-strikes-13-7-billion-compute-deal-trump-linked-rum-group" rel="alternate" />
+    <id>https://www.theinformation.com/articles/anthropic-strikes-13-7-billion-compute-deal-trump-linked-rum-group::v239</id>
+    <published>2026-09-14T01:41:00+00:00</published>
+    <updated>2026-09-14T01:41:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQFJdyNhAq70sg/feedshare-shrink_800/B56ZpukHd7I0Ag-/0/1762791553729?e=2147483647&amp;v=beta&amp;t=18DjBVqMMXywhE4KBiieY0QZBPSULH-F_VhcvNAyfbQ" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/anthropic-strikes-13-7-billion-compute-deal-trump-linked-rum-group">theinformation.com</a></small></p><hr/><p>Anthropic has entered a six-year, $13.7 billion contract to lease compute capacity from Rum Group. The agreement provides access to GPU infrastructure via a data center currently under development in Maysville, Georgia.</p><p>Rum Group is pivoting toward AI cloud services following its acquisition of Northern Data. While the contract provides a substantial revenue boost, the company has indicated it must raise significant capital to fulfill the obligation.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQFJdyNhAq70sg/feedshare-shrink_800/B56ZpukHd7I0Ag-/0/1762791553729?e=2147483647&v=beta&t=18DjBVqMMXywhE4KBiieY0QZBPSULH-F_VhcvNAyfbQ" /></p><hr/><small>14 Sep 2026, 08:51 UTC | #21015</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Reports Sustained Profitability and High Gross Margins</title>
     <link href="https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002" rel="alternate" />
