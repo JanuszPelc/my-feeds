@@ -312,13 +312,4 @@
     <media:thumbnail url="https://www.bangchak.co.th/storage/newsroom/everlasting-economy/2026/06/20260623-144804-1.webp" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/evanhub">x.com</a></small></p><hr/><p>There is a greater than 10% probability that artificial intelligence will cause human extinction within the next ten years, according to Anthropic's Alignment Science lead, Evan Hubinger. His assessment centers on the risks of recursive self-improvement and the emergence of superintelligence.</p><p>The warning follows the resignation of pretraining researcher Jacob Coxon. Hubinger noted that Anthropic lacks a definitive plan to ensure alignment for superintelligent systems and is not currently on a clear trajectory to achieve it.</p><p><img src="https://www.bangchak.co.th/storage/newsroom/everlasting-economy/2026/06/20260623-144804-1.webp" /></p><hr/><small>9 Sep 2026, 11:41 UTC | #20525</small>]]></content>
   </entry>
-  <entry>
-    <title>Qwen3.8 27B Quantization Benchmarks Demonstrate 4-bit Stability and 1-bit Collapse</title>
-    <link href="https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/" rel="alternate" />
-    <id>https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/::v238</id>
-    <published>2026-09-09T03:23:00+00:00</published>
-    <updated>2026-09-09T03:23:00+00:00</updated>
-    <media:thumbnail url="https://quesma.com/_astro/hf_unsloth_qwen38_27b_choices.OSlYkgGR_2lHFg.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/">quesma.com</a> | <a href="https://news.ycombinator.com/item?id=49611128">hacker news</a></small></p><hr/><p>Benchmarking Qwen3.8 27B quantizations reveals that 4-bit (`Q4_K_M`) models maintain performance levels nearly identical to the full `BF16` model on reasoning and coding tasks. Testing against Terminal-Bench 2.1, GPQA Diamond, and IFBench demonstrates that 4-bit precision preserves the model's logical capabilities and instruction-following accuracy.</p><p>Conversely, 1-bit quantization causes a total collapse in model performance, with results regressing to near random chance. While 2-bit models retain some limited utility, the results suggest that 4-bit quantization is the optimal threshold for utilizing large models on consumer hardware such as the RTX 4090.</p><p><img src="https://quesma.com/_astro/hf_unsloth_qwen38_27b_choices.OSlYkgGR_2lHFg.webp" /></p><hr/><small>9 Sep 2026, 10:52 UTC | #20540</small>]]></content>
-  </entry>
 </feed>

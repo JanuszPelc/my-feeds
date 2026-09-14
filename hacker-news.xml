@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-13T21:09:00+00:00</updated>
+  <updated>2026-09-14T00:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Programmers' Observed Dislike of the 'reduce' Function</title>
+    <link href="https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/" rel="alternate" />
+    <id>https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/::v239</id>
+    <published>2026-09-14T00:00:00+00:00</published>
+    <updated>2026-09-14T00:00:00+00:00</updated>
+    <media:thumbnail url="https://static.vecteezy.com/system/resources/previews/071/392/474/large_2x/server-room-programmer-coding-using-artificial-intelligence-to-enhance-operational-efficiency-and-reduce-downtime-worker-designs-and-implements-ai-driven-solutions-for-data-center-equipment-using-pc-photo.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/">evanhahn.com</a> | <a href="https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce">discussion</a></small></p><hr/><p>Evan Hahn observes that while `map` and `filter` are typically accepted in code reviews, the `reduce` function often receives criticism for being difficult to read. This suggests an anecdotal preference among developers for other functional programming patterns.</p><p>Possible reasons for this preference include reduced familiarity, readability issues, performance concerns, and the lack of syntactic elegance in languages like JavaScript, Python, and Swift compared to Clojure.</p><p><img src="https://static.vecteezy.com/system/resources/previews/071/392/474/large_2x/server-room-programmer-coding-using-artificial-intelligence-to-enhance-operational-efficiency-and-reduce-downtime-worker-designs-and-implements-ai-driven-solutions-for-data-center-equipment-using-pc-photo.jpg" /></p><hr/><small>14 Sep 2026, 03:30 UTC | #21020</small>]]></content>
+  </entry>
   <entry>
     <title>A Regular Expression for the Luhn Algorithm</title>
     <link href="https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/" rel="alternate" />
@@ -973,14 +982,5 @@
     <updated>2026-09-09T06:39:00+00:00</updated>
     <media:thumbnail url="https://cdn.rswebsols.com/wp-content/uploads/2025/12/Foldable-iPhone.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-09/apple-event-details-2-000-iphone-duo-apple-watch-series-12-recording-feature?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODkyNjc3OSwiZXhwIjoxNzg5NTMxNTc5LCJhcnRpY2xlSWQiOiJUTDJBRTFLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.aPv2WOdayT-dHgMEwgSmlY6vJOZzEflGX_csJZNWbXI">bloomberg.com</a></small></p><hr/><p>Apple is reportedly preparing to unveil its first foldable smartphone, potentially named the iPhone Duo, during an upcoming product event. The device is expected to start at $2,000 for the 256GB storage model, with sales potentially beginning as early as October.</p><p>The move marks Apple's entry into the foldable device market. The event is expected to be broad in scope, potentially including updates to other hardware products.</p><p><img src="https://cdn.rswebsols.com/wp-content/uploads/2025/12/Foldable-iPhone.jpg" /></p><hr/><small>9 Sep 2026, 12:00 UTC | #20530</small>]]></content>
-  </entry>
-  <entry>
-    <title>Microsoft Releases September 2026 Security Updates Addressing 972 Vulnerabilities</title>
-    <link href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/" rel="alternate" />
-    <id>https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/::v238</id>
-    <published>2026-09-09T03:21:00+00:00</published>
-    <updated>2026-09-09T03:21:00+00:00</updated>
-    <media:thumbnail url="https://www.duallayerit.com/wp-content/uploads/2025/09/DualLayerIT-Summary-Table-of-Vulnerabilities-Addressed-in-Patch-Tuesday-September-2025.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/">arstechnica.com</a> | <a href="https://msrc.microsoft.com/update-guide">source</a> | <a href="https://news.ycombinator.com/item?id=49405471">hacker news</a></small></p><hr/><p>Microsoft's September 2026 Patch Tuesday addressed 972 vulnerabilities, 112 of which are classified as critical. This represents a record-breaking monthly total for the company, following a trend of significant increases in the number of flaws addressed in previous months.</p><p>Security researchers characterize this surge in monthly patch volume as a "new normal" driven by the advancement of AI-assisted vulnerability discovery. While the scale of these updates is increasing across the software industry, experts note that a corresponding spike in actively exploited vulnerabilities has not yet been observed.</p><p><img src="https://www.duallayerit.com/wp-content/uploads/2025/09/DualLayerIT-Summary-Table-of-Vulnerabilities-Addressed-in-Patch-Tuesday-September-2025.png" /></p><hr/><small>9 Sep 2026, 10:39 UTC | #20522</small>]]></content>
   </entry>
 </feed>
