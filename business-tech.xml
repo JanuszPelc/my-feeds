@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T01:41:00+00:00</updated>
+  <updated>2026-09-14T01:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>National Security Agency to Undergo Major Restructuring and Form Five New Units</title>
+    <link href="https://www.washingtonpost.com/national-security/2026/09/13/national-security-agency-launches-historic-restructuring/" rel="alternate" />
+    <id>https://www.washingtonpost.com/national-security/2026/09/13/national-security-agency-launches-historic-restructuring/::v239</id>
+    <published>2026-09-14T01:56:00+00:00</published>
+    <updated>2026-09-14T01:56:00+00:00</updated>
+    <media:thumbnail url="https://www.overtdefense.com/wp-content/uploads/2023/10/NSAAI1.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.washingtonpost.com/national-security/2026/09/13/national-security-agency-launches-historic-restructuring/">washingtonpost.com</a></small></p><hr/><p>The most extensive internal restructuring in at least a decade is underway at the National Security Agency. Directed by General Joshua M. Rudd, the plan establishes five new mission centers focused on artificial intelligence, China, cybersecurity, combat support, and global intelligence.</p><p>This reorganization aims to accelerate intelligence delivery to the battlefield by replacing existing directorates with specialized units. The transition prioritizes technological innovation and speed over bureaucratic stability, with the agency targeting full operational capability of the new structure by January.</p><p><img src="https://www.overtdefense.com/wp-content/uploads/2023/10/NSAAI1.png" /></p><hr/><small>14 Sep 2026, 09:11 UTC | #21016</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Signs $13.7 Billion Compute Deal with Rum Group</title>
     <link href="https://www.theinformation.com/articles/anthropic-strikes-13-7-billion-compute-deal-trump-linked-rum-group" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-14T01:19:00+00:00</updated>
+  <updated>2026-09-14T01:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Provides Dimensional Drawings and Technical Specifications for Accessories</title>
+    <link href="https://developer.apple.com/accessories/dimensional-drawings/" rel="alternate" />
+    <id>https://developer.apple.com/accessories/dimensional-drawings/::v239</id>
+    <published>2026-09-14T01:44:00+00:00</published>
+    <updated>2026-09-14T01:44:00+00:00</updated>
+    <media:thumbnail url="https://www.uploadvr.com/content/images/size/w2560/format/webp/2025/10/IMG_0386.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://developer.apple.com/accessories/dimensional-drawings/">developer.apple.com</a> | <a href="https://news.ycombinator.com/item?id=49690174">hacker news</a></small></p><hr/><p>These resources provide accessory manufacturers with precise geometric blueprints and technical data. The documentation is intended to assist in the development of electronic accessories that connect to Apple products.</p><p>The specifications are designed for mechanical engineers and industrial designers to ensure physical compatibility and manufacturing precision. This information is a key component of Apple's hardware accessory ecosystem.</p><p><img src="https://www.uploadvr.com/content/images/size/w2560/format/webp/2025/10/IMG_0386.jpeg" /></p><hr/><small>14 Sep 2026, 09:07 UTC | #21037</small>]]></content>
+  </entry>
   <entry>
     <title>An Analysis of JPEG XL's Suitability for the Web</title>
     <link href="https://giannirosato.com/blog/post/case-against-jxl" rel="alternate" />
