@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-14T02:00:00+00:00</updated>
+  <updated>2026-09-14T06:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>discoDSP Releases Updates for Discovery Pro, OPL, Bliss, and ThrillMe</title>
+    <link href="https://www.kvraudio.com/news/discodsp-releases-discovery-pro-9-3-opl-3-1-synths-bliss-sampler-3-23-and-thrillme-compressor-3-13-68537?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68537" rel="alternate" />
+    <id>https://www.kvraudio.com/news/discodsp-releases-discovery-pro-9-3-opl-3-1-synths-bliss-sampler-3-23-and-thrillme-compressor-3-13-68537?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68537::v239</id>
+    <published>2026-09-14T06:02:00+00:00</published>
+    <updated>2026-09-14T06:02:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/thrillme3.1789366053.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/discodsp-releases-discovery-pro-9-3-opl-3-1-synths-bliss-sampler-3-23-and-thrillme-compressor-3-13-68537?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68537">kvraudio.com</a> | <a href="https://www.discodsp.com/">source</a></small></p><hr/><p>discoDSP has released updates for Discovery Pro 9.4, OPL 3.1, Bliss 3.23, and ThrillMe 3.13. Discovery Pro 9.4 adds support for Nord Sample Library files and a Wave Stereo Engine, while OPL 3.1 introduces an AN1x-style unison control and stereo output. Bliss 3.23 now includes sfArk and ReCycle REX import and export capabilities.</p><p>ThrillMe 3.13 adds five saturation and clipping circuits—Clean, Tape, Tube, Soft, and Clip—to its four-band compressor. Most of these updates are free to existing customers of the respective plugins, while ThrillMe 3.13 is included with the discoDSP FX Bundle.</p><p><img src="https://static.kvraudio.com/i/b/thrillme3.1789366053.webp" /></p><hr/><small>14 Sep 2026, 11:08 UTC | #21034</small>]]></content>
+  </entry>
   <entry>
     <title>RC MIX Releases RC RING and RC SNARE Snare Mixing Plugins</title>
     <link href="https://www.kvraudio.com/news/rc-mix-releases-rc-ring-and-rc-snare---snare-mixing-plugins-for-real-drums-68520?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68520" rel="alternate" />

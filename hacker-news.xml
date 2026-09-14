@@ -974,40 +974,4 @@
     <media:thumbnail url="https://rustfoundation.org/wp-content/uploads/2025/10/54827258067_095e3383c3_c.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/">rustls.dev</a> | <a href="https://lobste.rs/s/zffgb8/decade_rustls">discussion</a></small></p><hr/><p>The project has evolved from its initial 2016 commit to become a foundational security component in the Rust ecosystem. Major milestones achieved over the last decade include the implementation of QUIC support, FIPS certification, and post-quantum cryptography, with development accelerated by funding from the CNCF and ISRG.</p><p>Looking toward a stable 1.0 release, the upcoming 0.24 version will introduce external buffering for improved data performance, async-friendly session management via session types, and a "split mode" for full-duplex throughput. The update also reorganizes the CryptoProvider architecture to improve modularity and resolve feature unification issues.</p><p><img src="https://rustfoundation.org/wp-content/uploads/2025/10/54827258067_095e3383c3_c.jpg" /></p><hr/><small>9 Sep 2026, 15:13 UTC | #20574</small>]]></content>
   </entry>
-  <entry>
-    <title>Progress on Stabilizing the Rust Allocator Trait</title>
-    <link href="https://cetra3.github.io/blog/state-of-allocators-2026-part-2/" rel="alternate" />
-    <id>https://cetra3.github.io/blog/state-of-allocators-2026-part-2/::v238</id>
-    <published>2026-09-09T11:04:00+00:00</published>
-    <updated>2026-09-09T11:04:00+00:00</updated>
-    <media:thumbnail url="https://pranitha.dev/imgs/rust_allocators/jemalloc.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://cetra3.github.io/blog/state-of-allocators-2026-part-2/">cetra3.github.io</a> | <a href="https://lobste.rs/s/9tck4q/state_allocators_2026_6_months_later">discussion</a></small></p><hr/><p>Efforts to stabilize the `Allocator` trait in Rust are ongoing, aimed at enabling the use of custom memory allocators with standard types like `Box` and `Vec`. The current implementation focuses on a minimal API surface to serve as a foundation, with the long-term goal of supporting `dyn` compatibility for dynamic dispatch.</p><p>Technical hurdles involve preventing unsoundness during stack unwinding and maintaining `Pin` memory guarantees. Proposed solutions include an unsafe marker trait, `AllocatorClone`, to ensure that cloning an allocator does not compromise memory safety or invalidate pinned data.</p><p><img src="https://pranitha.dev/imgs/rust_allocators/jemalloc.png" /></p><hr/><small>9 Sep 2026, 14:48 UTC | #20569</small>]]></content>
-  </entry>
-  <entry>
-    <title>Claude AI Instruction to Change Button Color</title>
-    <link href="https://opusfived.dev/" rel="alternate" />
-    <id>https://opusfived.dev/::v238</id>
-    <published>2026-09-09T11:03:00+00:00</published>
-    <updated>2026-09-09T11:03:00+00:00</updated>
-    <media:thumbnail url="https://lh5.googleusercontent.com/vfjaZcX4sOEO3v69l6vd1z7d0s4lwll6vvXvdbrmReHNfTxRboFA8woWcNJELtu6vebvEw1C7VRR8YyQsYvDEuOqmK5LkIKQpCD-oGyHDzNJwNjYnosVKifWovSKcdDDWFSGOymWEOMESHBEYE3lWw" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://opusfived.dev/">opusfived.dev</a> | <a href="https://news.ycombinator.com/item?id=49623754">hacker news</a></small></p><hr/><p>The text provides a specific instruction to the Claude AI model to change the color of an "Add to Cart" button to blue. The command includes a strict constraint to prevent the AI from making any other changes to the surrounding code or user interface.</p><p>Such constrained prompting is designed to manage AI-driven development workflows by preventing unintended side effects in existing codebases while performing targeted UI updates.</p><p><img src="https://lh5.googleusercontent.com/vfjaZcX4sOEO3v69l6vd1z7d0s4lwll6vvXvdbrmReHNfTxRboFA8woWcNJELtu6vebvEw1C7VRR8YyQsYvDEuOqmK5LkIKQpCD-oGyHDzNJwNjYnosVKifWovSKcdDDWFSGOymWEOMESHBEYE3lWw" /></p><hr/><small>9 Sep 2026, 14:44 UTC | #20568</small>]]></content>
-  </entry>
-  <entry>
-    <title>Type Inference and Its Impact on Code Comprehension</title>
-    <link href="https://austinhenley.com/blog/typeinference.html" rel="alternate" />
-    <id>https://austinhenley.com/blog/typeinference.html::v238</id>
-    <published>2026-09-09T11:00:00+00:00</published>
-    <updated>2026-09-09T11:00:00+00:00</updated>
-    <media:thumbnail url="https://austinhenley.com/blog/images/golinteromittype.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://austinhenley.com/blog/typeinference.html">austinhenley.com</a> | <a href="https://lobste.rs/s/mfhss4/type_inference_has_usability_problems">discussion</a></small></p><hr/><p>Type inference allows programming languages to automatically detect variable types from expressions, a feature common in modern languages like Rust, Go, and Swift. While intended to reduce syntax redundancy, this mechanism can obscure specific data types, complicating code comprehension in environments that lack advanced IDE features.</p><p>The article argues that implicit typing increases cognitive load by requiring developers to manually verify or remember variable types. While proponents cite improved readability through reduced clutter, the author notes that tools like Visual Studio now often recommend explicit typing to improve clarity.</p><p><img src="https://austinhenley.com/blog/images/golinteromittype.png" /></p><hr/><small>9 Sep 2026, 14:14 UTC | #20565</small>]]></content>
-  </entry>
-  <entry>
-    <title>x86 Architecture Evolution: Transition to PM64-Only and PML5 Paging</title>
-    <link href="https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/" rel="alternate" />
-    <id>https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/::v238</id>
-    <published>2026-09-09T10:59:00+00:00</published>
-    <updated>2026-09-09T10:59:00+00:00</updated>
-    <media:thumbnail url="https://media.geeksforgeeks.org/wp-content/uploads/20210415170620/PagedSegmentation.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://inbox.sourceware.org/binutils/CAKSQd8XJVf3jq8boOJcOE_GzcNvcqMUHeW-whbw3uGnVE2iN_w@mail.gmail.com/">inbox.sourceware.org</a> | <a href="https://lobste.rs/s/1baq3m/x86_evolution_for_segmentation_paging">discussion</a> | <a href="https://news.ycombinator.com/item?id=49603091">hacker news</a></small></p><hr/><p>The x86 architecture is transitioning to a PM64-only, PML5-only model that eliminates legacy segmentation and older paging levels. Facilitated by technologies such as Intel's Flexible Return and Event Delivery (FRED) and Advanced Programmable Extensions (APX), this evolution aims to phase out Legacy and Compatibility modes.</p><p>Segmentation is evolving into an MSR-based mechanism, retaining FS and GS registers to function as simple register file entries. Paging is moving to an exclusive 5-level (PML5) structure, which supports massive page sizes—including 512 GiB and 256 TiB—and features an auto-identity mapping option.</p><p><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210415170620/PagedSegmentation.png" /></p><hr/><small>9 Sep 2026, 14:12 UTC | #20563</small>]]></content>
-  </entry>
 </feed>
