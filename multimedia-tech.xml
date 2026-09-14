@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-14T12:10:00+00:00</updated>
+  <updated>2026-09-14T13:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Polyarc Shuts Down After Nearly 12 Years</title>
+    <link href="https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down::v239</id>
+    <published>2026-09-14T13:30:00+00:00</published>
+    <updated>2026-09-14T13:30:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf9a90a0c04c4665a/6aa7f3ab84b4eae77490859f/Moss_Header.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down">gamedeveloper.com</a> | <a href="https://www.linkedin.com/posts/today-is-the-end-of-an-era-for-polyarc-share-7504247060351758337-zaR2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC54xM0B2bV3fEhtUY2SJ0SFeyBhv-MRMwU">source</a></small></p><hr/><p>Seattle-based VR studio Polyarc, the developer behind the Moss franchise, has announced its closure after nearly 12 years in operation. The studio confirmed it is winding down active development in a post on LinkedIn.</p><p>The shutdown follows significant downsizing in March 2026 due to financing challenges. While official layoff figures have not been released, a reverse recruiting tracker indicates approximately 30 staff members have been let go.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf9a90a0c04c4665a/6aa7f3ab84b4eae77490859f/Moss_Header.png?width=720&quality=80&disable=upscale" /></p><hr/><small>14 Sep 2026, 18:29 UTC | #21065</small>]]></content>
+  </entry>
   <entry>
     <title>KO_OP Confirms 13 Layoffs</title>
     <link href="https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs" rel="alternate" />
