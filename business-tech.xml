@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T17:53:00+00:00</updated>
+  <updated>2026-09-14T17:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Donald Trump Rejects Calls for AI Guardrails and Criticizes Anthropic CEO</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-14/trump-rejects-calls-for-ai-guardrails-blasts-anthropic-s-amodei" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-14/trump-rejects-calls-for-ai-guardrails-blasts-anthropic-s-amodei::v239</id>
+    <published>2026-09-14T17:55:00+00:00</published>
+    <updated>2026-09-14T17:55:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1WE7DC.img?w=1280&amp;h=720&amp;m=4&amp;q=98" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-14/trump-rejects-calls-for-ai-guardrails-blasts-anthropic-s-amodei">bloomberg.com</a> | <a href="https://truthsocial.com/@realDonaldTrump/117269745153543631">source</a></small></p><hr/><p>The President has dismissed the need for artificial intelligence safety regulations, specifically targeting Anthropic CEO Dario Amodei's recent appeals for a development slowdown. Trump argued that executive leadership provides the necessary oversight for the industry, rejecting the need for formal regulatory frameworks.</p><p>This stance follows calls from several prominent tech leaders, including executives from OpenAI and xAI, for increased safety measures to mitigate potential risks from rapid AI advancement. The exchange highlights the tension between proponents of aggressive development and those advocating for stringent government oversight.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1WE7DC.img?w=1280&h=720&m=4&q=98" /></p><hr/><small>14 Sep 2026, 21:33 UTC | #21073</small>]]></content>
+  </entry>
   <entry>
     <title>A Profile of Mark Zuckerberg</title>
     <link href="https://colossus.com/article/mark-zuckerberg-profile/" rel="alternate" />
