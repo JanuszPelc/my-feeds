@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-14T02:02:00+00:00</updated>
+  <updated>2026-09-14T02:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Hacker News September 2026 'What Are You Working On?' Discussion</title>
+    <link href="https://news.ycombinator.com/item?id=49686380" rel="alternate" />
+    <id>https://news.ycombinator.com/item?id=49686380::v239</id>
+    <published>2026-09-14T02:08:00+00:00</published>
+    <updated>2026-09-14T02:08:00+00:00</updated>
+    <media:thumbnail url="https://makerworld.bblmw.com/makerworld/model/US9578fc896826a/design/3f36c4ab93f21fbd.jpg?x-oss-process=image/resize,w_1200/ignore-error,1" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49686380">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49686380">hacker news</a></small></p><hr/><p>The September 2026 "What are you working on?" thread on Hacker News invites the community to showcase their current technical projects and curiosities. Participants share updates on a variety of software, hardware, and specialized tools they are developing.</p><p>ShopSpec is among the projects featured, offering a parametric furniture generator that automates woodworking tasks such as cut lists and sheet nesting. The tool includes a "value engineering" feature for material optimization and is currently offering an MCP connector in beta.</p><p><img src="https://makerworld.bblmw.com/makerworld/model/US9578fc896826a/design/3f36c4ab93f21fbd.jpg?x-oss-process=image/resize,w_1200/ignore-error,1" /></p><hr/><small>14 Sep 2026, 10:26 UTC | #21049</small>]]></content>
+  </entry>
   <entry>
     <title>Peter Henderson's 'Purely Functional Operating Systems' Paper Scan Shared</title>
     <link href="https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982" rel="alternate" />
