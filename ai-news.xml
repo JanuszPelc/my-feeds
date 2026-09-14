@@ -321,22 +321,4 @@
     <media:thumbnail url="https://quesma.com/_astro/hf_unsloth_qwen38_27b_choices.OSlYkgGR_2lHFg.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/">quesma.com</a> | <a href="https://news.ycombinator.com/item?id=49611128">hacker news</a></small></p><hr/><p>Benchmarking Qwen3.8 27B quantizations reveals that 4-bit (`Q4_K_M`) models maintain performance levels nearly identical to the full `BF16` model on reasoning and coding tasks. Testing against Terminal-Bench 2.1, GPQA Diamond, and IFBench demonstrates that 4-bit precision preserves the model's logical capabilities and instruction-following accuracy.</p><p>Conversely, 1-bit quantization causes a total collapse in model performance, with results regressing to near random chance. While 2-bit models retain some limited utility, the results suggest that 4-bit quantization is the optimal threshold for utilizing large models on consumer hardware such as the RTX 4090.</p><p><img src="https://quesma.com/_astro/hf_unsloth_qwen38_27b_choices.OSlYkgGR_2lHFg.webp" /></p><hr/><small>9 Sep 2026, 10:52 UTC | #20540</small>]]></content>
   </entry>
-  <entry>
-    <title>Deltafin Enables Running Kimi K3 on Apple Silicon via SSD Streaming</title>
-    <link href="https://github.com/argonautlabsai/deltafin" rel="alternate" />
-    <id>https://github.com/argonautlabsai/deltafin::v238</id>
-    <published>2026-09-09T02:13:00+00:00</published>
-    <updated>2026-09-09T02:13:00+00:00</updated>
-    <media:thumbnail url="https://i.gzn.jp/img/2026/07/17/kimi-k3/04.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/argonautlabsai/deltafin">github.com</a> | <a href="https://news.ycombinator.com/item?id=49616257">hacker news</a></small></p><hr/><p>Deltafin allows the 2.8-trillion-parameter Kimi K3 Mixture-of-Experts (MoE) model to run on Apple Silicon by streaming expert weights from external SSDs. Using ARGODRIVE storage technology, the implementation achieved a steady decode speed of approximately 1 token per second on an M5 Max MacBook Pro with 128 GB of RAM. Unlike methods that rely on model pruning or quantization to fit large models into local memory, Deltafin runs the full, unpruned Kimi K3 model to ensure the output matches the original release.</p><p>The project serves as a research experiment into pushing the limits of consumer hardware to host massive frontier models. Benchmarks indicate that increasing the number of drives improves throughput, with four drives reaching approximately 90% of the total bandwidth. While current prefill times are impacted by the need to re-read expert layers, the ability to run high-parameter models locally offers a potential path for self-hosting AI on consumer-grade setups rather than relying on large-scale cloud infrastructure.</p><p><img src="https://i.gzn.jp/img/2026/07/17/kimi-k3/04.png" /></p><hr/><small>9 Sep 2026, 10:37 UTC | #20539</small>]]></content>
-  </entry>
-  <entry>
-    <title>Data Improvements Drive Most AI Pretraining Progress</title>
-    <link href="https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data" rel="alternate" />
-    <id>https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data::v238</id>
-    <published>2026-09-09T02:11:00+00:00</published>
-    <updated>2026-09-09T02:11:00+00:00</updated>
-    <media:thumbnail url="https://arxiv.org/html/2604.15706v1/x7.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data">dwarkesh.com</a></small></p><hr/><p>Data improvements have contributed significantly more to AI pretraining efficiency than model architectural changes. At a 1e19 FLOPs compute budget, data enhancements yielded a 12.0x efficiency multiplier, compared to a 3.7x multiplier from model improvements.</p><p>While model innovations like FlashAttention and Mixture-of-Experts (MoE) are essential for enabling training stability at massive scales, the results suggest that current progress is primarily a function of data curation and volume. This underscores the potential impact of the "data wall" and the role of synthetic data in sustaining future development.</p><p><img src="https://arxiv.org/html/2604.15706v1/x7.png" /></p><hr/><small>9 Sep 2026, 09:15 UTC | #20520</small>]]></content>
-  </entry>
 </feed>
