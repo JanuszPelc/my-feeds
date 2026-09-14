@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T18:07:00+00:00</updated>
+  <updated>2026-09-14T18:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Uses Human Contractors to Review User ChatGPT Prompts</title>
+    <link href="https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/" rel="alternate" />
+    <id>https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/::v239</id>
+    <published>2026-09-14T18:11:00+00:00</published>
+    <updated>2026-09-14T18:11:00+00:00</updated>
+    <media:thumbnail url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/09/open-ai-permission.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=49697713">hacker news</a></small></p><hr/><p>OpenAI uses hundreds of human contractors to read and review real ChatGPT user prompts through an initiative known as "Project Lily." Reviewers summarize user intent and rate AI-generated responses on a seven-point scale to improve model accuracy, tone, and to mitigate issues like "sycophancy." While OpenAI employs a privacy filter to redact personal identifiers, sensitive details can still reach human reviewers.</p><p>This practice poses privacy risks for users who often share intimate personal details with the chatbot. Most ChatGPT users must proactively opt out of data usage for model improvement, as the feature is enabled by default. Human-in-the-loop review is a widespread industry practice, with companies like Anthropic and Google also utilizing human evaluators to refine AI model performance.</p><p><img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/09/open-ai-permission.png" /></p><hr/><small>14 Sep 2026, 23:38 UTC | #21093</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia and Booz Allen Hamilton Restrict Fable Use Over Data Retention Concerns</title>
     <link href="https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use" rel="alternate" />
