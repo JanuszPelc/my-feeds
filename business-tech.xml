@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Paul Graham on Making Startups Powerful</title>
+    <link href="https://paulgraham.com/powerful.html" rel="alternate" />
+    <id>https://paulgraham.com/powerful.html::v239</id>
+    <published>2026-09-13T21:19:00+00:00</published>
+    <updated>2026-09-13T21:19:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5610AQGq4FCZahKX-A/image-shrink_800/B56Zi.jeR3HkAk-/0/1755543627681?e=2147483647&amp;v=beta&amp;t=AT3SNK7AbTnZK9rpxfVLGz0iDTMGI0zwo25bVrNCdC8" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://paulgraham.com/powerful.html">paulgraham.com</a> | <a href="https://news.ycombinator.com/item?id=49684196">hacker news</a></small></p><hr/><p>Founders can achieve much higher valuations by focusing on increasing a company's structural "power" rather than pursuing incremental profit. This can be achieved by owning the customer relationship, creating platforms or app stores, inducing network effects, or "going full stack" to compete directly with one's own customers.</p><p>Other leverage points include offering extensible APIs, selling to early-stage companies to capture data and growth early, and adopting "long game" strategies such as open-sourcing software or being generous to build industry standards. These transformations are only viable if they ultimately provide significant additional value to the customer.</p><p><img src="https://media.licdn.com/dms/image/v2/D5610AQGq4FCZahKX-A/image-shrink_800/B56Zi.jeR3HkAk-/0/1755543627681?e=2147483647&v=beta&t=AT3SNK7AbTnZK9rpxfVLGz0iDTMGI0zwo25bVrNCdC8" /></p><hr/><small>14 Sep 2026, 03:05 UTC | #21018</small>]]></content>
+  </entry>
+  <entry>
     <title>Xi Jinping Proposes AI and Tech Cooperation for BRICS Nations</title>
     <link href="https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html" rel="alternate" />
     <id>https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html::v239</id>
