@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T18:11:00+00:00</updated>
+  <updated>2026-09-14T18:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Critique of Dario Amodei's 'We Must Pace the Frontier' Essay</title>
+    <link href="https://pop.rdi.sh/dario-please/" rel="alternate" />
+    <id>https://pop.rdi.sh/dario-please/::v239</id>
+    <published>2026-09-14T18:33:00+00:00</published>
+    <updated>2026-09-14T18:33:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/K7F6ohcBJus/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pop.rdi.sh/dario-please/">pop.rdi.sh</a> | <a href="https://darioamodei.com/post/we-must-pace-the-frontier">source</a> | <a href="https://news.ycombinator.com/item?id=49697893">hacker news</a></small></p><hr/><p>Anthropic CEO Dario Amodei’s "We Must Pace the Frontier" essay proposes slowing AI development to allow safety research to keep pace with model capabilities. This policy proposal includes regulating open-weight models and granting antitrust waivers to frontier labs, which critics argue are efforts to consolidate market power and gatekeep technology under the guise of safety and national security.</p><p>Warnings regarding AI-driven botnets and rapid reasoning self-improvement (RSI) are characterized as hyperbolic fear-mongering used to justify increased control. Additionally, the emphasis on China's potential AI lead is viewed as a tactic to evade independent, external regulatory oversight in favor of US-centric governance.</p><p><img src="https://i.ytimg.com/vi/K7F6ohcBJus/maxresdefault.jpg" /></p><hr/><small>14 Sep 2026, 23:53 UTC | #21128</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Uses Human Contractors to Review User ChatGPT Prompts</title>
     <link href="https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/" rel="alternate" />
