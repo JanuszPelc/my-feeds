@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T17:30:00+00:00</updated>
+  <updated>2026-09-14T17:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Netflix, Amazon, and YouTube Launch Streaming Access and Choice Alliance</title>
+    <link href="https://www.axios.com/2026/09/14/netflix-amazon-youtube-streaming-coalition" rel="alternate" />
+    <id>https://www.axios.com/2026/09/14/netflix-amazon-youtube-streaming-coalition::v239</id>
+    <published>2026-09-14T17:34:00+00:00</published>
+    <updated>2026-09-14T17:34:00+00:00</updated>
+    <media:thumbnail url="https://images.axios.com/cS1IHydht4Gd_f9dJO7XkFD7dng=/1920x1080/smart/2021/11/18/011338-1637198018276.jpg?w=2048" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/14/netflix-amazon-youtube-streaming-coalition">axios.com</a></small></p><hr/><p>Netflix, Amazon, and YouTube have formed the Streaming Access and Choice Alliance to advocate for technology-neutral policies. Led by the trade group TechNet, the coalition aims to represent the interests of major streaming providers in shaping digital policy and regulation.</p><p>The group intends to influence the legislative environment concerning content distribution and entertainment investment. By coordinating through TechNet, these services seek to shape rules that support the evolving streaming and video-on-demand market.</p><p><img src="https://images.axios.com/cS1IHydht4Gd_f9dJO7XkFD7dng=/1920x1080/smart/2021/11/18/011338-1637198018276.jpg?w=2048" /></p><hr/><small>14 Sep 2026, 20:36 UTC | #21063</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Publishes Humanist AI Code of Conduct Prioritizing Human Control</title>
     <link href="https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct" rel="alternate" />

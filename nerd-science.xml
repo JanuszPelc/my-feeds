@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-14T01:06:00+00:00</updated>
+  <updated>2026-09-14T17:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Reflections on Withdrawing from Digital Life and AI</title>
+    <link href="https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/" rel="alternate" />
+    <id>https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/::v239</id>
+    <published>2026-09-14T17:35:00+00:00</published>
+    <updated>2026-09-14T17:35:00+00:00</updated>
+    <media:thumbnail url="https://coregroupusa.com/wp-content/uploads/Could-tech-be-the-key-to-closing-the-retirement-saving-gap-5hAptg-1024x585.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/">daverupert.com</a> | <a href="https://lobste.rs/s/ede4z0/i_wish_you_best_offline">discussion</a></small></p><hr/><p>Salma Alam-Naylor has retired from developer relations and social media, while Chad Whitacre is leaving the tech industry to create zines. Additionally, programmer Brett Codes has announced his decision to stop using artificial intelligence in his work.</p><p>These departures highlight a range of motivations, including professional burnout, the search for lifestyle simplicity, and ideological opposition to the rapid scaling of AI. The moves reflect a tension between hyper-connected digital existence and the growing pursuit of an offline life.</p><p><img src="https://coregroupusa.com/wp-content/uploads/Could-tech-be-the-key-to-closing-the-retirement-saving-gap-5hAptg-1024x585.jpg" /></p><hr/><small>14 Sep 2026, 20:39 UTC | #21118</small>]]></content>
+  </entry>
   <entry>
     <title>Former EPA Officials Warn of Increased Health Risks from AI Data Center Expansion</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa" rel="alternate" />

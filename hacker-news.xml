@@ -849,22 +849,4 @@
     <media:thumbnail url="https://filiphand.github.io/static/images/how_cuda_executes/1.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/">developer.nvidia.com</a> | <a href="https://lobste.rs/s/mlqqpn/introducing_cuda_rust_two_tracks_for">discussion</a> | <a href="https://news.ycombinator.com/item?id=49618642">hacker news</a></small></p><hr/><p>Native Rust support for CUDA GPU kernels is arriving through two distinct tracks: SIMT and Tile. The SIMT track employs `cuda-oxide`, a custom `rustc` codegen backend that compiles kernels directly to PTX to provide low-level control. The Tile track utilizes `cutile-rs`, a higher-level model that operates on data sub-tensors, delegating architectural mapping and optimization to the Tile IR compiler.</p><p>These tracks aim to prevent common GPU concurrency and memory aliasing errors by catching them at compile time using Rust's ownership model. While the SIMT approach currently requires a nightly toolchain, the Tile track is available on stable Rust and is already being used in external projects like HuggingFace’s Grout.</p><p><img src="https://filiphand.github.io/static/images/how_cuda_executes/1.webp" /></p><hr/><small>10 Sep 2026, 03:17 UTC | #20658</small>]]></content>
   </entry>
-  <entry>
-    <title>Apple Increases Prices for Previous-Generation iPhone Models</title>
-    <link href="https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase" rel="alternate" />
-    <id>https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase::v238</id>
-    <published>2026-09-09T20:33:00+00:00</published>
-    <updated>2026-09-09T20:33:00+00:00</updated>
-    <media:thumbnail url="https://cdn.iphoneincanada.ca/wp-content/uploads/2017/12/apple_iphone_price_1_1513557410834.jpeg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase">theverge.com</a></small></p><hr/><p>Apple has raised the price of several older iPhone models by $100 following the announcement of the iPhone 18 Pro and iPhone Duo. The price increase affects the iPhone 16, iPhone 17E, iPhone 17, and the iPhone Air.</p><p>The iPhone 16 has increased from $699 to $799, while the iPhone 17 and iPhone Air models have also seen $100 hikes. These adjustments coincide with reports regarding the rising manufacturing costs of high-demand AI memory components.</p><p><img src="https://cdn.iphoneincanada.ca/wp-content/uploads/2017/12/apple_iphone_price_1_1513557410834.jpeg" /></p><hr/><small>10 Sep 2026, 02:45 UTC | #20618</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Sets September 14 Release for iOS 27 and Siri AI</title>
-    <link href="https://www.engadget.com/2254005/ios-27-with-siri-ai-will-be-available-on-september-14/" rel="alternate" />
-    <id>https://www.engadget.com/2254005/ios-27-with-siri-ai-will-be-available-on-september-14/::v238</id>
-    <published>2026-09-09T20:28:00+00:00</published>
-    <updated>2026-09-09T20:28:00+00:00</updated>
-    <media:thumbnail url="https://www.engadget.com/img/gallery/ios-27-with-siri-ai-will-be-available-on-september-14/intro-1788975661.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2254005/ios-27-with-siri-ai-will-be-available-on-september-14/">engadget.com</a> | <a href="https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/">source</a> | <a href="https://news.ycombinator.com/item?id=49630151">hacker news</a></small></p><hr/><p>Apple has announced that iOS 27, iPadOS 27, watchOS 27, and macOS 27 will be released on September 14. The update marks the public debut of Siri AI, an overhauled digital assistant that utilizes Google's Gemini models to perform complex, multi-step prompts and answer sophisticated questions.</p><p>Siri AI requires an iPhone 15 Pro or newer for support, with enhanced on-device processing capabilities available for the iPhone 17 series and M1-equipped iPads. In addition to the AI integration, the updates include refinements to the Liquid Glass design language, new child safety features, and various performance improvements across the operating systems.</p><p><img src="https://www.engadget.com/img/gallery/ios-27-with-siri-ai-will-be-available-on-september-14/intro-1788975661.jpg" /></p><hr/><small>10 Sep 2026, 02:11 UTC | #20622</small>]]></content>
-  </entry>
 </feed>
