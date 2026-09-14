@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T12:06:00+00:00</updated>
+  <updated>2026-09-14T12:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amazon, Microsoft, and Google Offer Financial Incentives to Communities for Data Center Support</title>
+    <link href="https://www.theinformation.com/articles/amazon-microsoft-taking-communities-side-utilities" rel="alternate" />
+    <id>https://www.theinformation.com/articles/amazon-microsoft-taking-communities-side-utilities::v239</id>
+    <published>2026-09-14T12:08:00+00:00</published>
+    <updated>2026-09-14T12:08:00+00:00</updated>
+    <media:thumbnail url="https://static.wixstatic.com/media/57c587_79f8ec0e8ddd488aa04bc05f21951f4f~mv2.jpg/v1/fill/w_980,h_490,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/57c587_79f8ec0e8ddd488aa04bc05f21951f4f~mv2.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/amazon-microsoft-taking-communities-side-utilities">theinformation.com</a></small></p><hr/><p>Amazon, Microsoft, Oracle, and Google are offering enhanced financial incentives to municipalities and regulators to secure approval for new AI data centers. These hyperscalers are increasingly committing to cover the full costs of power generation, transmission, and grid upgrades required for their facilities to prevent infrastructure expenses from being passed on to residential utility customers.</p><p>This strategy aims to mitigate growing local opposition to the energy and water demands of large-scale AI infrastructure. By adopting "community-first" initiatives and participating in consumer protection pledges, these firms seek to reduce political friction and address public concerns regarding rising electricity prices and utility rate increases.</p><p><img src="https://static.wixstatic.com/media/57c587_79f8ec0e8ddd488aa04bc05f21951f4f~mv2.jpg/v1/fill/w_980,h_490,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/57c587_79f8ec0e8ddd488aa04bc05f21951f4f~mv2.jpg" /></p><hr/><small>14 Sep 2026, 15:03 UTC | #21032</small>]]></content>
+  </entry>
   <entry>
     <title>XCancel Service Suspended Due to Legal Proceedings</title>
     <link href="https://xcancel.com/twitter" rel="alternate" />
