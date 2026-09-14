@@ -938,31 +938,4 @@
     <media:thumbnail url="https://www.sfdigital.co.uk/blog/wp-content/uploads/2025/09/ads-disapproved-due-to-malicious-software.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://xlii.space/eng/malicious-software-on-google-ads/">xlii.space</a> | <a href="https://news.ycombinator.com/item?id=49624856">hacker news</a></small></p><hr/><p>Google Ads suspended the developer of the RACE macOS terminal multiplexer, citing "Malicious software" and "Compromised Site" violations. Although the application and its website passed security checks from Google Safe Browsing, VirusTotal, and Google Search Console, the developer's initial appeals were rejected without specific technical feedback.</p><p>The developer attributed the suspension to a false positive caused by the application's legitimate management of background terminal processes. Following several failed appeals and increased visibility on Hacker News, the account was eventually reinstated without a formal explanation from Google regarding the error.</p><p><img src="https://www.sfdigital.co.uk/blog/wp-content/uploads/2025/09/ads-disapproved-due-to-malicious-software.png" /></p><hr/><small>9 Sep 2026, 18:41 UTC | #20606</small>]]></content>
   </entry>
-  <entry>
-    <title>Besxar Partners with SpaceX for Orbital Semiconductor Manufacturing</title>
-    <link href="https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/::v238</id>
-    <published>2026-09-09T13:43:00+00:00</published>
-    <updated>2026-09-09T13:43:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/sync/v2/D5627AQFoMpcVpU65bA/articleshare-shrink_800/B56Zoq76QdJkAI-/0/1761656941555?e=2147483647&amp;v=beta&amp;t=6tIlhvbyLbl6ig0ndYtWKs9ern-Cp2mTQAawMjR-6rs" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/">techcrunch.com</a> | <a href="https://www.besxar.com/media/besxar-signs-launch-agreement-with-spacex-to-pioneer-orbital-semiconductor-manufacturing">source</a></small></p><hr/><p>Besxar is developing an orbital semiconductor manufacturing platform using SpaceX's Falcon 9 rockets. By leveraging the vacuum of space, the startup aims to produce ultra-pure semiconductor precursors, bypassing the pressurized clean-room infrastructure required for terrestrial manufacturing.</p><p>Initial orbital test flights have yielded wafer samples with significantly lower particulate contamination than terrestrial counterparts. The company plans to scale production for components used in data centers, robotics, and electric vehicles as heavy-lift launch vehicles like Starship become operational.</p><p><img src="https://media.licdn.com/dms/image/sync/v2/D5627AQFoMpcVpU65bA/articleshare-shrink_800/B56Zoq76QdJkAI-/0/1761656941555?e=2147483647&v=beta&t=6tIlhvbyLbl6ig0ndYtWKs9ern-Cp2mTQAawMjR-6rs" /></p><hr/><small>9 Sep 2026, 17:42 UTC | #20555</small>]]></content>
-  </entry>
-  <entry>
-    <title>scc Code Counter Performance Optimized</title>
-    <link href="https://boyter.org/posts/did-i-just-get-buster-scrugged/" rel="alternate" />
-    <id>https://boyter.org/posts/did-i-just-get-buster-scrugged/::v238</id>
-    <published>2026-09-09T13:41:00+00:00</published>
-    <updated>2026-09-09T13:41:00+00:00</updated>
-    <media:thumbnail url="https://assets.seobotai.com/undefined/69bb43411b352ff267cad85e-1773893899396.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://boyter.org/posts/did-i-just-get-buster-scrugged/">boyter.org</a> | <a href="https://lobste.rs/s/biulze/sloc_cloc_code_did_i_just_get_buster">discussion</a></small></p><hr/><p>Benchmarking revealed that scc was significantly slower than the mezura code counter, prompting optimizations to address identified bottlenecks. The fixes addressed thread starvation in the processing pipeline and reduced excessive Linux system calls caused by Go's os.Open abstraction.</p><p>The optimization process utilized strace to conduct a black-box analysis of system calls to isolate inefficiencies. Additionally, the implementation of language-specific state machines, developed with the assistance of LLMs, yielded significantly higher performance than the previous generic implementation.</p><p><img src="https://assets.seobotai.com/undefined/69bb43411b352ff267cad85e-1773893899396.jpg" /></p><hr/><small>9 Sep 2026, 17:26 UTC | #20596</small>]]></content>
-  </entry>
-  <entry>
-    <title>Solaris Turnstiles for Mutex Management and Priority Inheritance</title>
-    <link href="https://rdmsr.github.io/writing/turnstiles/" rel="alternate" />
-    <id>https://rdmsr.github.io/writing/turnstiles/::v238</id>
-    <published>2026-09-09T13:36:00+00:00</published>
-    <updated>2026-09-09T13:36:00+00:00</updated>
-    <media:thumbnail url="https://horizons-cdn.hostinger.com/63d40f39-1edf-46a5-9190-2f9e2efbab13/untitled.394-JPl3F.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rdmsr.github.io/writing/turnstiles/">rdmsr.github.io</a> | <a href="https://lobste.rs/s/wrt9wm/solaris_turnstiles">discussion</a> | <a href="https://news.ycombinator.com/item?id=49624846">hacker news</a></small></p><hr/><p>Turnstiles facilitate efficient mutex management in the Solaris operating system by decoupling lock state from the mutex itself. This design enables fine-grained locking with minimal memory overhead and provides a mechanism for handling priority inversion. When a thread blocks, it donates a turnstile to the lock, allowing the kernel to track waiting threads and propagate priority through owner chains.</p><p>This mechanism enables multi-hop priority inheritance, allowing high-priority tasks to boost the priority of a chain of lower-priority threads. Beyond Solaris, similar implementations are found in the XNU kernel (macOS), FreeBSD, and the Go runtime's semaphore implementation.</p><p><img src="https://horizons-cdn.hostinger.com/63d40f39-1edf-46a5-9190-2f9e2efbab13/untitled.394-JPl3F.png" /></p><hr/><small>9 Sep 2026, 16:56 UTC | #20585</small>]]></content>
-  </entry>
 </feed>
