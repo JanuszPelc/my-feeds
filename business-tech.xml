@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T00:10:00+00:00</updated>
+  <updated>2026-09-14T00:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Reports Sustained Profitability and High Gross Margins</title>
+    <link href="https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002" rel="alternate" />
+    <id>https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002::v239</id>
+    <published>2026-09-14T00:16:00+00:00</published>
+    <updated>2026-09-14T00:16:00+00:00</updated>
+    <media:thumbnail url="https://aitoolsrecap.com/ArticleImages/anthropic-first-profit-2026-revenue-breakdown-1779426924.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002">ft.com</a></small></p><hr/><p>Anthropic has informed investors that it expects to be profitable for a second consecutive quarter, reporting gross margins exceeding 80% before accounting for training costs and partner revenue sharing.</p><p>The messaging is intended to ease concerns regarding cash burn as the company moves toward a potential initial public offering. This comes amid increasing scrutiny of the massive capital requirements needed to sustain frontier AI development.</p><p><img src="https://aitoolsrecap.com/ArticleImages/anthropic-first-profit-2026-revenue-breakdown-1779426924.jpg" /></p><hr/><small>14 Sep 2026, 07:19 UTC | #21013</small>]]></content>
+  </entry>
   <entry>
     <title>Signal Registration Without Phone Numbers via Zero-Knowledge Proofs</title>
     <link href="https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10" rel="alternate" />
