@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-14T13:30:00+00:00</updated>
+  <updated>2026-09-14T17:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Valve Announces Steam Frame Standalone VR Headset</title>
+    <link href="https://store.steampowered.com/hardware/steamframe" rel="alternate" />
+    <id>https://store.steampowered.com/hardware/steamframe::v239</id>
+    <published>2026-09-14T17:28:00+00:00</published>
+    <updated>2026-09-14T17:28:00+00:00</updated>
+    <media:thumbnail url="https://i.gadgets360cdn.com/large/steam_frames_unveiled_main_1763012042002.png?downsize=950:*" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://store.steampowered.com/hardware/steamframe">store.steampowered.com</a> | <a href="https://news.ycombinator.com/item?id=49700661">hacker news</a></small></p><hr/><p>The Steam Frame is a standalone VR headset from Valve, available in 256GB and 1TB configurations. The 256GB model is priced at $1,059, while the 1TB version is $1,299. The hardware includes 16GB of RAM, microSD expansion, and dual 2160 x 2160 LCD displays with refresh rates between 72Hz and 144Hz.</p><p>Built around the Qualcomm Snapdragon 8 Gen 3 processor, the headset is designed for both standalone use and PC VR connectivity. Each unit includes a copy of Half-Life: Alyx, and users can purchase additional accessory kits or power supplies to support different operating modes.</p><p><img src="https://i.gadgets360cdn.com/large/steam_frames_unveiled_main_1763012042002.png?downsize=950:*" /></p><hr/><small>14 Sep 2026, 20:04 UTC | #21114</small>]]></content>
+  </entry>
   <entry>
     <title>Polyarc Shuts Down After Nearly 12 Years</title>
     <link href="https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down" rel="alternate" />
@@ -77,14 +86,5 @@
     <updated>2026-09-09T20:35:00+00:00</updated>
     <media:thumbnail url="https://www.nomanssky.com/media/0rpnhmw5/nms-cosmos-book-cover.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.nomanssky.com/cosmos-update/">nomanssky.com</a> | <a href="https://news.ycombinator.com/item?id=49628493">hacker news</a></small></p><hr/><p>The Cosmos update (version 7.0) for No Man's Sky adds space station directorship, orbital construction, and deep-space outposts. Players can customize station interiors, build habitats in space, and salvage resources from derelict shipwrecks. New features also include an interactive star system map and the ability to fly directly to stars.</p><p>To celebrate the game's 10th anniversary, the update includes the "Our Journey Continues" expedition, which offers rewards like the Starbound v0.27 Multi-Tool and a vintage Sentinel Interceptor. Visual improvements include enhanced terrain tessellation and updated particle lighting, while new mechanics introduce galactic alliances and star system navigation.</p><p><img src="https://www.nomanssky.com/media/0rpnhmw5/nms-cosmos-book-cover.webp" /></p><hr/><small>10 Sep 2026, 03:02 UTC | #20657</small>]]></content>
-  </entry>
-  <entry>
-    <title>Mark Cerny and Geoff Keighley Launch Nova Games Foundation Fellowship Program</title>
-    <link href="https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program" rel="alternate" />
-    <id>https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program::v238</id>
-    <published>2026-09-09T20:01:00+00:00</published>
-    <updated>2026-09-09T20:01:00+00:00</updated>
-    <media:thumbnail url="https://static.wixstatic.com/media/f95046_871bb041e41847aca04a0d6da6e57e41~mv2.webp/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/f95046_871bb041e41847aca04a0d6da6e57e41~mv2.webp" />
-    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-launch-university-affiliated-fellowship-program">gamedeveloper.com</a> | <a href="https://www.gamefile.news/p/nova-games-foundation-mark-cerny-geoff-keighley">source</a></small></p><hr/><p>The Nova Games Foundation provides grants to emerging game designers through a university-affiliated fellowship program. Established by Mark Cerny and Geoff Keighley, the initiative awards $100,000 to 20 young developers annually, with select fellows eligible for up to $500,000 based on milestone achievement. These "no-strings-attached" funds allow recipients to retain full ownership of their projects without providing equity to the foundation.</p><p>In addition to funding, the foundation offers mentorship from industry leaders, including Josef Fares. This initiative follows the indefinite suspension of Keighley's previous "Future Class" program, which faced criticism for a perceived lack of practical support for emerging professionals. The first cohort of Nova fellows is scheduled for announcement in March 2027.</p><p><img src="https://static.wixstatic.com/media/f95046_871bb041e41847aca04a0d6da6e57e41~mv2.webp/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/f95046_871bb041e41847aca04a0d6da6e57e41~mv2.webp" /></p><hr/><small>10 Sep 2026, 01:15 UTC | #20632</small>]]></content>
   </entry>
 </feed>

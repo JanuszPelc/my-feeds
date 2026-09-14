@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-14T15:39:00+00:00</updated>
+  <updated>2026-09-14T16:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Logic Bug in XNU Kernel Affects UNIX Domain Socket Inodes</title>
+    <link href="https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets" rel="alternate" />
+    <id>https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets::v239</id>
+    <published>2026-09-14T16:29:00+00:00</published>
+    <updated>2026-09-14T16:29:00+00:00</updated>
+    <media:thumbnail url="https://image3.slideserve.com/6016948/unix-domain-sockets-example-l.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets">yuvalino.com</a> | <a href="https://lobste.rs/s/uauns9/how_can_you_not_be_romantic_about_unix">discussion</a> | <a href="https://news.ycombinator.com/item?id=49617860">hacker news</a></small></p><hr/><p>A technical demo crash on an iOS device revealed a decades-old logic bug in how the XNU kernel assigns inodes to UNIX domain sockets. The issue resides in the `uipc_sense()` function, where a post-increment error causes the first socket created after a system boot to be assigned an inode of 0. This inconsistency causes subsequent `fstat()` calls to return different inode numbers, leading to failures in software that requires stable inode identification.</p><p>The bug's origins trace back to 1985 in the 4.3BSD source code, having survived through the NeXTSTEP era and into modern macOS and iOS versions. While not a security vulnerability, the flaw demonstrates how legacy code from the early Unix era has persisted through decades of operating system evolution.</p><p><img src="https://image3.slideserve.com/6016948/unix-domain-sockets-example-l.jpg" /></p><hr/><small>14 Sep 2026, 19:59 UTC | #21107</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI AI Agents Target RubyGems.org via Caching Vulnerability and Scraping Campaign</title>
     <link href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/" rel="alternate" />
