@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Anthropic, OpenAI, and Google Discussing Industry-Led AI Standards Body</title>
+    <link href="https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police" rel="alternate" />
+    <id>https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police::v239</id>
+    <published>2026-09-14T00:03:00+00:00</published>
+    <updated>2026-09-14T00:03:00+00:00</updated>
+    <media:thumbnail url="https://www.artificialroutine.com/wp-content/uploads/2026/05/ArtificialRoutine.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police">theinformation.com</a></small></p><hr/><p>Anthropic, OpenAI, and Google have been holding working group meetings since July to discuss the creation of an industry-led standards body for artificial intelligence. These discussions focus on developing a collaborative framework for AI governance and safety oversight.</p><p>The initiative follows increasing calls from the research community and policymakers for formal mechanisms to evaluate frontier models. Such a body could establish protocols for assessing safety and technical vulnerabilities before models are released to the public.</p><p><img src="https://www.artificialroutine.com/wp-content/uploads/2026/05/ArtificialRoutine.webp" /></p><hr/><small>14 Sep 2026, 04:21 UTC | #21006</small>]]></content>
+  </entry>
+  <entry>
     <title>Paul Graham on Making Startups Powerful</title>
     <link href="https://paulgraham.com/powerful.html" rel="alternate" />
     <id>https://paulgraham.com/powerful.html::v239</id>
