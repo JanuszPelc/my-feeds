@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T13:32:00+00:00</updated>
+  <updated>2026-09-14T15:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nvidia Uses Financial Guarantees to Stimulate AI Infrastructure Demand</title>
+    <link href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai" rel="alternate" />
+    <id>https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai::v239</id>
+    <published>2026-09-14T15:31:00+00:00</published>
+    <updated>2026-09-14T15:31:00+00:00</updated>
+    <media:thumbnail url="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai/processed-images/1424/20260905_FBD002.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai">economist.com</a> | <a href="https://news.ycombinator.com/item?id=49673098">hacker news</a></small></p><hr/><p>Nvidia is increasingly using complex financial engineering to stimulate demand for its AI chips, moving beyond semiconductor sales into the role of an industry financier. The company has pledged billions in backstops for data center leases, promised to top up income for "neocloud" providers to lower their borrowing costs, and entered into massive partnerships with Wall Street firms to mobilize $500 billion for infrastructure. Through equity investments in AI startups and open-weight model developers, Nvidia aims to cultivate a robust ecosystem of customers independent of major tech giants.</p><p>This strategy serves as a defense against "hyperscalers" like Amazon and Google, which are developing proprietary silicon that threatens Nvidia’s market dominance. While these arrangements facilitate capital flow into the AI sector, they also expose Nvidia to significant contingent liabilities. Analysts warn that if AI demand growth slows or the resale value of specialized hardware declines, Nvidia's extensive financial guarantees could transform from growth engines into substantial balance-sheet risks.</p><p><img src="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai/processed-images/1424/20260905_FBD002.jpg" /></p><hr/><small>14 Sep 2026, 19:06 UTC | #20943</small>]]></content>
+  </entry>
   <entry>
     <title>European Commission to Propose EU Kids Act Setting Minimum Ages for Digital Platforms</title>
     <link href="https://www.politico.eu/article/eu-to-propose-new-legislation-on-minors-protection-on-thursday/" rel="alternate" />
@@ -982,41 +991,5 @@
     <updated>2026-09-09T21:44:00+00:00</updated>
     <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E12AQGXquVRBjX9Qg/article-cover_image-shrink_720_1280/B4EZ1243Q4GkAM-/0/1775816111927?e=2147483647&amp;v=beta&amp;t=V3KeVTj9NRX4DmVY46VxoyXoX1_3OR-4DJ3Yi97Hb5k" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/">techcrunch.com</a> | <a href="https://www.mass.gov/info-details/healey-driscoll-administration-statement-of-expectations-for-responsible-data-center-development-and-operations-in-massachusetts">source</a></small></p><hr/><p>Massachusetts Governor Maura Healey has issued an executive order requiring data center developers with peak electricity demand exceeding 25 megawatts to provide clean power or contribute to a ratepayer protection fund. The mandate requires facilities to meet state clean energy standards, with an emphasis on developers generating power on-site to mitigate the impact on local energy supplies.</p><p>This move aligns Massachusetts with recent regulatory actions in Texas and New York aimed at managing large-scale data center expansion. As public concern regarding energy and water usage grows, industry-aligned super PACs have begun launching advertising campaigns to influence voter sentiment ahead of upcoming midterm elections.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E12AQGXquVRBjX9Qg/article-cover_image-shrink_720_1280/B4EZ1243Q4GkAM-/0/1775816111927?e=2147483647&v=beta&t=V3KeVTj9NRX4DmVY46VxoyXoX1_3OR-4DJ3Yi97Hb5k" /></p><hr/><small>10 Sep 2026, 03:04 UTC | #20638</small>]]></content>
-  </entry>
-  <entry>
-    <title>Visa and Mastercard's Role in Card Networks</title>
-    <link href="https://tautology.town/2026/06/01/card-networks.html" rel="alternate" />
-    <id>https://tautology.town/2026/06/01/card-networks.html::v238</id>
-    <published>2026-09-09T19:14:00+00:00</published>
-    <updated>2026-09-09T19:14:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQFA3njALoIq1Q/feedshare-shrink_1280/B56Zvm34aVH4Ac-/0/1769104967640?e=2147483647&amp;v=beta&amp;t=14JHSXjCvl96idwjLkcCuQ-qDUQiwZpyaNlzSUd-Cr4" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://tautology.town/2026/06/01/card-networks.html">tautology.town</a> | <a href="https://news.ycombinator.com/item?id=49614280">hacker news</a></small></p><hr/><p>Card networks like Visa and Mastercard facilitate transactions by connecting cardholders and issuers with merchants and acquirers. They do not provide banking services, issue cards, or manage point-of-sale hardware; instead, they manage transaction message routing, coordinate the banking-level settlement of funds, set participation incentives through fee structures, and establish rules for dispute arbitration.</p><p>These networks act as adapters between global banking systems, enabling efficient international money movement through net settlement. The economic model relies on a merchant discount rate, which is divided into interchange fees for card issuers and network assessment fees for the networks. Additionally, networks provide formal arbitration services to resolve disputes when issuers and acquirers are unable to reach an agreement.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQFA3njALoIq1Q/feedshare-shrink_1280/B56Zvm34aVH4Ac-/0/1769104967640?e=2147483647&v=beta&t=14JHSXjCvl96idwjLkcCuQ-qDUQiwZpyaNlzSUd-Cr4" /></p><hr/><small>10 Sep 2026, 00:16 UTC | #20649</small>]]></content>
-  </entry>
-  <entry>
-    <title>Florida Attorney General Sues Netflix Over Alleged Deceptive Data Collection and Addictive Features</title>
-    <link href="https://www.politico.com/news/2026/09/09/florida-netflix-uthmeier-streaming-investigation-surveillance-01068660" rel="alternate" />
-    <id>https://www.politico.com/news/2026/09/09/florida-netflix-uthmeier-streaming-investigation-surveillance-01068660::v238</id>
-    <published>2026-09-09T19:11:00+00:00</published>
-    <updated>2026-09-09T19:11:00+00:00</updated>
-    <media:thumbnail url="https://ewscripps.brightspotcdn.com/dims4/default/2e450d4/2147483647/strip/true/crop/1280x720+0+40/resize/1280x720!/quality/90/?url=http://ewscripps-brightspot.s3.amazonaws.com/c6/8b/bd37dbbe4a649e155f2bb4fa534a/screenshot-2025-04-30-at-4-04-11-pm.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/09/09/florida-netflix-uthmeier-streaming-investigation-surveillance-01068660">politico.com</a></small></p><hr/><p>Florida Attorney General James Uthmeier has sued Netflix, alleging the company misleads parents by tracking and monetizing children's viewing data without consent. The lawsuit claims these actions violate consumer protection laws and occur even within promised ad-free service tiers.</p><p>The complaint also targets features designed to encourage binge-watching, which the state argues is harmful to child users. The legal action addresses allegations of deceptive data collection and the targeted exploitation of minors.</p><p><img src="https://ewscripps.brightspotcdn.com/dims4/default/2e450d4/2147483647/strip/true/crop/1280x720+0+40/resize/1280x720!/quality/90/?url=http://ewscripps-brightspot.s3.amazonaws.com/c6/8b/bd37dbbe4a649e155f2bb4fa534a/screenshot-2025-04-30-at-4-04-11-pm.jpg" /></p><hr/><small>10 Sep 2026, 00:05 UTC | #20594</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple CEO John Ternus Identifies iPhone as Primary AI Device</title>
-    <link href="https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/::v238</id>
-    <published>2026-09-09T18:56:00+00:00</published>
-    <updated>2026-09-09T18:56:00+00:00</updated>
-    <media:thumbnail url="https://img.iphonenews.cc/2025/07/20250709171123_0_5a4097.jpg" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/">techcrunch.com</a></small></p><hr/><p>Apple CEO John Ternus designated the iPhone as the company's central "intelligent personal hub" during the "Surprise and Shine" event. Instead of developing dedicated AI-specific hardware, Apple intends to leverage the iPhone's existing processors, sensors, and integrated software ecosystem to deliver AI capabilities.</p><p>Ternus positioned Apple's AI strategy around data privacy, stating that Apple Intelligence will prioritize on-device processing to ensure users maintain control over their personal information. This approach is intended to differentiate Apple's platform from competitors that rely more heavily on cloud-based data collection and storage.</p><p><img src="https://img.iphonenews.cc/2025/07/20250709171123_0_5a4097.jpg" /></p><hr/><small>9 Sep 2026, 22:57 UTC | #20600</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Releases Tool to Model AI's Potential Economic Impact</title>
-    <link href="https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy" rel="alternate" />
-    <id>https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy::v238</id>
-    <published>2026-09-09T18:55:00+00:00</published>
-    <updated>2026-09-09T18:55:00+00:00</updated>
-    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https://www-cdn.anthropic.com/images/4zrzovbb/website/ac265e6d4eab543df80fcad980ca1c8e5cc6bfd8-5937x6610.png&amp;w=3840&amp;q=75" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy">npr.org</a> | <a href="https://www.anthropic.com/institute/econ-scenarios">source</a> | <a href="https://news.ycombinator.com/item?id=49626373">hacker news</a></small></p><hr/><p>The Economic Scenario Explorer, an interactive tool released by Anthropic, models various ways artificial intelligence could influence the U.S. economy. The tool allows users to test assumptions regarding outcomes ranging from modest productivity gains to extreme scenarios involving rapid GDP growth and significant unemployment.</p><p>Model outputs are determined by variables such as technology capability, adoption speed, and labor market flexibility. While AI experts often anticipate rapid technological spread, economists are typically more conservative regarding the speed of economic integration.</p><p><img src="https://www.anthropic.com/_next/image?url=https://www-cdn.anthropic.com/images/4zrzovbb/website/ac265e6d4eab543df80fcad980ca1c8e5cc6bfd8-5937x6610.png&w=3840&q=75" /></p><hr/><small>9 Sep 2026, 22:55 UTC | #20583</small>]]></content>
   </entry>
 </feed>

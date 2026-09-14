@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-14T12:40:00+00:00</updated>
+  <updated>2026-09-14T15:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Helio Open-Source Music Sequencer Released</title>
+    <link href="https://bedroomproducersblog.com/2026/09/14/helio-music-sequencer/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/14/helio-music-sequencer/::v239</id>
+    <published>2026-09-14T15:38:00+00:00</published>
+    <updated>2026-09-14T15:38:00+00:00</updated>
+    <media:thumbnail url="https://tom-doerr.github.io/repo_posts/assets/helio_fm_helio_sequencer_20260108_150008_295_20260108_150023_e36c47.png" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/14/helio-music-sequencer/">bedroomproducersblog.com</a> | <a href="https://helio.fm/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/14/helio-music-sequencer/#respond">discussion</a></small></p><hr/><p>Helio is a free and open-source music sequencer designed for distraction-free composition. The software focuses on facilitating experimentation with microtonal temperaments and exotic scales, serving as a tool for sketching musical ideas rather than acting as a full-scale Digital Audio Workstation (DAW).</p><p>Targeted at hobbyist composers, indie artists, and game developers, Helio is available for desktop and mobile platforms. The software is distributed as a lightweight, portable executable with a disk footprint of less than 10 MB.</p><p><img src="https://tom-doerr.github.io/repo_posts/assets/helio_fm_helio_sequencer_20260108_150008_295_20260108_150023_e36c47.png" /></p><hr/><small>14 Sep 2026, 19:19 UTC | #21087</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sympiano Releases Free Piano-Modeling Reverb Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/09/14/sympiano-grand-piano/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/14/sympiano-grand-piano/::v239</id>
+    <published>2026-09-14T15:37:00+00:00</published>
+    <updated>2026-09-14T15:37:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/lzdGON9opdU/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/14/sympiano-grand-piano/">bedroomproducersblog.com</a> | <a href="https://www.sympiano.com/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/14/sympiano-grand-piano/#respond">discussion</a></small></p><hr/><p>Available in AU, VST3, and standalone formats for macOS and Windows, this free reverb plugin uses physical modeling to simulate the sympathetic resonance of 230 piano strings. It features two distinct models: Grand and Upright.</p><p>The plugin provides an organic way to apply piano-based acoustics to audio tracks. It serves as a specialized alternative to standard algorithmic or convolution reverbs for producers seeking unique, sympathetic resonance.</p><p><img src="https://i.ytimg.com/vi/lzdGON9opdU/maxresdefault.jpg" /></p><hr/><small>14 Sep 2026, 19:18 UTC | #21088</small>]]></content>
+  </entry>
+  <entry>
+    <title>Bedroom Producers Blog Offers Giveaway of Three Music Production Plugins</title>
+    <link href="https://bedroomproducersblog.com/2026/09/14/bpb-giveaway-chromabox/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/14/bpb-giveaway-chromabox/::v239</id>
+    <published>2026-09-14T15:32:00+00:00</published>
+    <updated>2026-09-14T15:32:00+00:00</updated>
+    <media:thumbnail url="https://thepluginaudio.com/wp-content/uploads/2025/product/4007-chromabox-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/14/bpb-giveaway-chromabox/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/14/bpb-giveaway-chromabox/#comments">discussion</a></small></p><hr/><p>The giveaway provides 5,000 free copies each of ChromaBox, Randomachine, and Analog Empire: Brass &amp; Winds. This software package includes plugins from W.A. Production, United Plugins, and MeldaProduction, obtainable through a single $0 checkout.</p><p>The distribution is intended as a community gift for the post-summer season. Availability is limited to the specified quantities for each individual plugin.</p><p><img src="https://thepluginaudio.com/wp-content/uploads/2025/product/4007-chromabox-1.jpg" /></p><hr/><small>14 Sep 2026, 19:08 UTC | #21089</small>]]></content>
+  </entry>
   <entry>
     <title>Sampleson Releases Backgrounds Sound Design Plugin</title>
     <link href="https://www.kvraudio.com/news/sampleson-releases-backgrounds---a-plugin-that-turns-words-into-atmospheres-68545?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68545" rel="alternate" />
@@ -680,32 +707,5 @@
     <updated>2026-09-09T20:04:00+00:00</updated>
     <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Soundcraft-Signature-Plus-22-hero-credit-press@2000x1500.jpg" />
     <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/reviews/studio-recording-gear/soundcraft-signature-plus-22-review/">musictech.com</a> | <a href="https://www.soundcraft.com/en/products/signature-plus-22">source</a></small></p><hr/><p>The Soundcraft Signature Plus 22 is an analogue mixing console featuring 22 inputs, including 14 mono channels with Ghost mic preamps and three stereo inputs. The unit includes a 4x4 USB-C 192 kHz interface for playback and features Lexicon-powered effects alongside one-knob compression on mono channels.</p><p>The mixer provides sweepable mid-range EQ, a dedicated "Listen" mix for engineer monitoring, and a "Mix &gt; Aux" rotary function for auxiliary routing. It is intended for use in small to medium venues, by mobile sound engineers, and for performing artists seeking an intuitive analogue workflow with high-visibility LED metering.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Soundcraft-Signature-Plus-22-hero-credit-press@2000x1500.jpg" /></p><hr/><small>10 Sep 2026, 01:16 UTC | #20631</small>]]></content>
-  </entry>
-  <entry>
-    <title>Witch Pig Releases Geminate Free Doubler Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/09/witch-pig-geminate/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/09/witch-pig-geminate/::v238</id>
-    <published>2026-09-09T19:08:00+00:00</published>
-    <updated>2026-09-09T19:08:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/4jXsMTWZTko/hqdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/09/witch-pig-geminate/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/09/witch-pig-geminate/#comments">discussion</a></small></p><hr/><p>Witch Pig has released Geminate, a free doubler and mimic effect plugin for macOS and Windows. The plugin creates a wider and fuller mix by applying randomized variations in loudness, delay, and pitch to single-tracked instruments, making them sound as if they were double-tracked.</p><p>Available in VST3 and Audio Unit formats, Geminate allows users to adjust the intensity of the randomization via controls for dynamics, timing, and pitch. This release joins other Witch Pig audio tools, including Apocalypsis and Angel Dust.</p><p><img src="https://i.ytimg.com/vi/4jXsMTWZTko/hqdefault.jpg" /></p><hr/><small>9 Sep 2026, 23:51 UTC | #20629</small>]]></content>
-  </entry>
-  <entry>
-    <title>Matari Audio Offers Discount on BUFFR 1.0 Retrospective Audio and MIDI Recorder</title>
-    <link href="https://bedroomproducersblog.com/2026/09/09/matari-audio-buffr-discount/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/09/matari-audio-buffr-discount/::v238</id>
-    <published>2026-09-09T19:05:00+00:00</published>
-    <updated>2026-09-09T19:05:00+00:00</updated>
-    <media:thumbnail url="https://www.service-public.pf/dcp/wp-content/uploads/sites/25/2026/05/Logo-Matarii-Raro-724x1024.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/09/matari-audio-buffr-discount/">bedroomproducersblog.com</a> | <a href="https://matari-audio.com/buffr">source</a></small></p><hr/><p>Matari Audio has released BUFFR 1.0, a retrospective audio and MIDI recorder plugin compatible with macOS, Windows, and Linux. The plugin maintains up to two hours of recent DAW audio, system audio, and MIDI data, enabling users to recover and drag performance recordings back into their projects.</p><p>BUFFR 1.0 is currently available at a launch price of $49, down from the standard $89. Applying the coupon code BPB during checkout further reduces the price to $44. This promotional pricing is available until September 22, 2026, at 17:00 UTC.</p><p><img src="https://www.service-public.pf/dcp/wp-content/uploads/sites/25/2026/05/Logo-Matarii-Raro-724x1024.jpg" /></p><hr/><small>9 Sep 2026, 23:44 UTC | #20627</small>]]></content>
-  </entry>
-  <entry>
-    <title>Polarity Music Releases Free Polarity-Recorder Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/09/polarity-music-recorder/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/09/polarity-music-recorder/::v238</id>
-    <published>2026-09-09T19:04:00+00:00</published>
-    <updated>2026-09-09T19:04:00+00:00</updated>
-    <media:thumbnail url="https://www.notta.ai/pictures/free-audio-recording-software-fixed-4.jpeg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/09/polarity-music-recorder/">bedroomproducersblog.com</a> | <a href="https://polarity.productions/polarity-recorder/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/09/polarity-music-recorder/#comments">discussion</a></small></p><hr/><p>This free background audio recorder for macOS, Windows, and Linux continuously captures the most recent 1 to 20 minutes of incoming audio. The plugin allows users to recover spontaneous performances or ideas and export them as WAV files.</p><p>Integrated editor tools allow for cropping, fading, normalization, reversing, and looping. The software is available in CLAP, VST3, AUv2, LV2, VST2, and standalone formats.</p><p><img src="https://www.notta.ai/pictures/free-audio-recording-software-fixed-4.jpeg" /></p><hr/><small>9 Sep 2026, 23:42 UTC | #20626</small>]]></content>
   </entry>
 </feed>
