@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-14T17:51:00+00:00</updated>
+  <updated>2026-09-14T18:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Andon Labs Releases Pion Autonomous Business Agent Platform</title>
+    <link href="https://andonlabs.com/blog/why-we-built-pion" rel="alternate" />
+    <id>https://andonlabs.com/blog/why-we-built-pion::v239</id>
+    <published>2026-09-14T18:03:00+00:00</published>
+    <updated>2026-09-14T18:03:00+00:00</updated>
+    <media:thumbnail url="https://oyysjktgsrfheemytotq.supabase.co/storage/v1/object/public/blog-images/blog/building-ai-org-chart-autonomous-agents-workflow/hero_81dce2e1.png?" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://andonlabs.com/blog/why-we-built-pion">andonlabs.com</a> | <a href="https://andonlabs.com/pion">source</a> | <a href="https://news.ycombinator.com/item?id=49700477">hacker news</a></small></p><hr/><p>Andon Labs has released Pion, a platform enabling AI agents to manage and operate businesses autonomously. The release follows research using Vending-Bench, a simulation for testing LLM business logic, and real-world pilots involving vending machines, retail stores, and cafes.</p><p>Pion is available as a research preview to monitor AI behavior during resource acquisition and identify risks like collusion or deceptive behavior. The platform aims to study model capabilities across diverse business domains to assess the safety implications of autonomous AI before widespread deployment.</p><p><img src="https://oyysjktgsrfheemytotq.supabase.co/storage/v1/object/public/blog-images/blog/building-ai-org-chart-autonomous-agents-workflow/hero_81dce2e1.png?" /></p><hr/><small>14 Sep 2026, 22:23 UTC | #21124</small>]]></content>
+  </entry>
+  <entry>
+    <title>Daydream Integrates Apple Intelligence for Visual and Siri-Based Fashion Shopping</title>
+    <link href="https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/::v239</id>
+    <published>2026-09-14T17:59:00+00:00</published>
+    <updated>2026-09-14T17:59:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Frame-12.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/">techcrunch.com</a></small></p><hr/><p>Daydream has introduced two new features for iPhone users that leverage Apple’s iOS 27 developer tools to streamline fashion discovery. The update enables users to shop directly from images in their camera roll by using Apple's image-context capabilities to identify clothing pieces and match them to Daydream's catalog of 3 million products. Additionally, users can conduct natural-language shopping searches via Siri without needing to open the Daydream app.</p><p>The visual search feature can identify specific items, such as sweaters or accessories, and match them to exact retailers or suggest alternatives if the original item is unavailable. The Siri integration supports personalized requests when users have configured a "Style Passport" containing their size, brand preferences, and budget. Daydream's long-term objective is to expand these capabilities into a comprehensive "shopping agent" that operates across various digital surfaces.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Frame-12.png?w=680" /></p><hr/><small>14 Sep 2026, 22:13 UTC | #21095</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Launches Major Software Updates Including Siri AI</title>
     <link href="https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/" rel="alternate" />
