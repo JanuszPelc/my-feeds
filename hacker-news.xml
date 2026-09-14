@@ -929,13 +929,4 @@
     <media:thumbnail url="https://cdn.rswebsols.com/wp-content/uploads/2025/12/Foldable-iPhone.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=49630964">hacker news</a></small></p><hr/><p>The new iPhone Duo is Apple's first foldable smartphone, featuring a 7.6-inch inner Super Retina XDR display with a nano-texture finish and a 5.4-inch outer display. It is powered by the A20 Pro chip and runs iOS 27, which includes reimagined interface elements and integrated Apple Intelligence and Siri AI capabilities.</p><p>Priced starting at $1,999, the device is available in star white and night sky and supports Apple Pencil via USB-C. Pre-orders are scheduled to begin October 16, 2026, with general availability arriving on October 23.</p><p><img src="https://cdn.rswebsols.com/wp-content/uploads/2025/12/Foldable-iPhone.jpg" /></p><hr/><small>9 Sep 2026, 19:42 UTC | #20616</small>]]></content>
   </entry>
-  <entry>
-    <title>Google Ads Suspends and Reinstates RACE Terminal Multiplexer Account</title>
-    <link href="https://xlii.space/eng/malicious-software-on-google-ads/" rel="alternate" />
-    <id>https://xlii.space/eng/malicious-software-on-google-ads/::v238</id>
-    <published>2026-09-09T13:52:00+00:00</published>
-    <updated>2026-09-09T13:52:00+00:00</updated>
-    <media:thumbnail url="https://www.sfdigital.co.uk/blog/wp-content/uploads/2025/09/ads-disapproved-due-to-malicious-software.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://xlii.space/eng/malicious-software-on-google-ads/">xlii.space</a> | <a href="https://news.ycombinator.com/item?id=49624856">hacker news</a></small></p><hr/><p>Google Ads suspended the developer of the RACE macOS terminal multiplexer, citing "Malicious software" and "Compromised Site" violations. Although the application and its website passed security checks from Google Safe Browsing, VirusTotal, and Google Search Console, the developer's initial appeals were rejected without specific technical feedback.</p><p>The developer attributed the suspension to a false positive caused by the application's legitimate management of background terminal processes. Following several failed appeals and increased visibility on Hacker News, the account was eventually reinstated without a formal explanation from Google regarding the error.</p><p><img src="https://www.sfdigital.co.uk/blog/wp-content/uploads/2025/09/ads-disapproved-due-to-malicious-software.png" /></p><hr/><small>9 Sep 2026, 18:41 UTC | #20606</small>]]></content>
-  </entry>
 </feed>

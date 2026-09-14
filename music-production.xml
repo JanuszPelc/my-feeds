@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-14T08:03:00+00:00</updated>
+  <updated>2026-09-14T08:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Morphulus Updates Spectrus to v1.6.0</title>
+    <link href="https://www.kvraudio.com/news/morphulus-updates-spectrus-to-v1-6-0---new-nam-loader-vintage-opto-phaser-2-amps-3-distortion-pedals-68526?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68526" rel="alternate" />
+    <id>https://www.kvraudio.com/news/morphulus-updates-spectrus-to-v1-6-0---new-nam-loader-vintage-opto-phaser-2-amps-3-distortion-pedals-68526?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68526::v239</id>
+    <published>2026-09-14T08:58:00+00:00</published>
+    <updated>2026-09-14T08:58:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/spectrus-1-6-0-thumbnail-ui.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/morphulus-updates-spectrus-to-v1-6-0---new-nam-loader-vintage-opto-phaser-2-amps-3-distortion-pedals-68526?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68526">kvraudio.com</a> | <a href="https://morphulus.com/">source</a></small></p><hr/><p>Morphulus has released version 1.6.0 of Spectrus, a modular multi-effect processor. This free update introduces a Neural Amp Modeler (NAM) capture player with 21 built-in captures, a vintage opto phaser, two new amplifiers (the Outlaw 100 and Praetor 50), and three new pedals (Woolly, Myth, and Tangerine).</p><p>The update expands the plugin's rack from four to eight slots, allowing for free-form routing and parallel buses. It also adds canvas zooming, per-slot balance controls, and new "Super Eco" and "Ultra Eco" quality tiers for amplifier models.</p><p><img src="https://static.kvraudio.com/i/b/spectrus-1-6-0-thumbnail-ui.jpg" /></p><hr/><small>14 Sep 2026, 13:59 UTC | #21039</small>]]></content>
+  </entry>
   <entry>
     <title>Heritage Audio Herchild 670N Compressor Review</title>
     <link href="https://musictech.com/reviews/studio-recording-gear/heritage-audio-herchild-670n-review/" rel="alternate" />
@@ -707,14 +716,5 @@
     <updated>2026-09-09T14:32:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/soundbox_insturments_01.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/audiomodern-updates-soundbox-to-v1-3-0---mpe-support-68458?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68458">kvraudio.com</a> | <a href="https://audiomodern.com/soundbox/">source</a></small></p><hr/><p>The latest update to the Soundbox virtual instrument platform adds full MIDI Polyphonic Expression (MPE) support and several engine improvements.</p><p>This customizable sampler is designed to allow users to create bespoke virtual instruments. The inclusion of MPE support expands the expressive control available to producers using compatible MIDI controllers.</p><p><img src="https://static.kvraudio.com/i/b/soundbox_insturments_01.png" /></p><hr/><small>9 Sep 2026, 19:38 UTC | #20570</small>]]></content>
-  </entry>
-  <entry>
-    <title>t4 Digital Studio Releases AlterVerb 53 Reverb Plugin</title>
-    <link href="https://www.kvraudio.com/news/t4-digital-studio-releases-alterverb-53-free-vst3-reverb-68457?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68457" rel="alternate" />
-    <id>https://www.kvraudio.com/news/t4-digital-studio-releases-alterverb-53-free-vst3-reverb-68457?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68457::v238</id>
-    <published>2026-09-09T13:51:00+00:00</published>
-    <updated>2026-09-09T13:51:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/alterverb53_kvr_png128.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/t4-digital-studio-releases-alterverb-53-free-vst3-reverb-68457?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68457">kvraudio.com</a> | <a href="https://t4digitalstudio.gumroad.com/l/alterverb">source</a></small></p><hr/><p>t4 Digital Studio has released AlterVerb 53, a VST3 reverb plugin for Windows designed for complex audio sources. The plugin aims to provide spatial depth, width, and detail while preserving the clarity and definition of the original signal.</p><p>Users have independent control over early reflections, reverb tails, room size, density, diffusion, damping, and modulation. The plugin also includes a Peak Smooth section to manage harsh high-frequency peaks and features a resizable interface with preset loading and saving capabilities.</p><p><img src="https://static.kvraudio.com/i/b/alterverb53_kvr_png128.png" /></p><hr/><small>9 Sep 2026, 18:37 UTC | #20571</small>]]></content>
   </entry>
 </feed>
