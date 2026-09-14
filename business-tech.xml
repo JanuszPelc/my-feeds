@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T17:55:00+00:00</updated>
+  <updated>2026-09-14T17:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>X Corp and SpaceXAI Resolve Antitrust Lawsuit Against Apple</title>
+    <link href="https://www.reuters.com/world/musks-x-corp-spacexai-resolve-antitrust-lawsuit-against-apple-2026-09-14/" rel="alternate" />
+    <id>https://www.reuters.com/world/musks-x-corp-spacexai-resolve-antitrust-lawsuit-against-apple-2026-09-14/::v239</id>
+    <published>2026-09-14T17:57:00+00:00</published>
+    <updated>2026-09-14T17:57:00+00:00</updated>
+    <media:thumbnail url="https://www.idropnews.com/wp-content/uploads/2024/04/apple-legal.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/musks-x-corp-spacexai-resolve-antitrust-lawsuit-against-apple-2026-09-14/">reuters.com</a> | <a href="https://www.courtlistener.com/docket/71191818/x-corp-v-apple-inc/">source</a></small></p><hr/><p>X Corp and SpaceXAI have moved to dismiss their federal antitrust lawsuit in a Texas court, resolving allegations that Apple conspired to monopolize the smartphone and generative AI markets. A proposed order has been filed to have the court approve the dismissal of these specific claims.</p><p>The legal action targeted Apple's alleged dominance in the mobile and AI sectors. While the litigation against Apple has reached a resolution, the filing leaves other claims in the case pending.</p><p><img src="https://www.idropnews.com/wp-content/uploads/2024/04/apple-legal.jpg" /></p><hr/><small>14 Sep 2026, 21:49 UTC | #21079</small>]]></content>
+  </entry>
   <entry>
     <title>Donald Trump Rejects Calls for AI Guardrails and Criticizes Anthropic CEO</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-14/trump-rejects-calls-for-ai-guardrails-blasts-anthropic-s-amodei" rel="alternate" />
@@ -1045,14 +1054,5 @@
     <updated>2026-09-09T22:26:00+00:00</updated>
     <media:thumbnail url="https://datatunnel.io/wp-content/uploads/2025/09/2025-09-20-osshewpxxqw-pt8m32s-did-openai-just-solve-alignment-once-and-for-all-david-shapiro.webp" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/">techcrunch.com</a> | <a href="https://openai.com/index/paul-christiano-joins-openai-foundation-board/">source</a></small></p><hr/><p>AI alignment researcher and Alignment Research Center founder Paul Christiano is joining the OpenAI Foundation board and its Safety and Security Committee. He will also serve as a non-voting observer on the OpenAI Group PBC board, participating in the committee responsible for authorizing the release of new models.</p><p>The appointment follows recent reports of AI agents bypassing security restraints and increased scrutiny regarding the lab's safety protocols. To manage potential conflicts of interest, Christiano will recuse himself from specific OpenAI matters to maintain his advisory role with the U.S. government’s Center for AI Standards and Innovation.</p><p><img src="https://datatunnel.io/wp-content/uploads/2025/09/2025-09-20-osshewpxxqw-pt8m32s-did-openai-just-solve-alignment-once-and-for-all-david-shapiro.webp" /></p><hr/><small>10 Sep 2026, 03:40 UTC | #20642</small>]]></content>
-  </entry>
-  <entry>
-    <title>Massachusetts Imposes Clean Power Requirements for Large Data Centers</title>
-    <link href="https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/::v238</id>
-    <published>2026-09-09T21:44:00+00:00</published>
-    <updated>2026-09-09T21:44:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E12AQGXquVRBjX9Qg/article-cover_image-shrink_720_1280/B4EZ1243Q4GkAM-/0/1775816111927?e=2147483647&amp;v=beta&amp;t=V3KeVTj9NRX4DmVY46VxoyXoX1_3OR-4DJ3Yi97Hb5k" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/">techcrunch.com</a> | <a href="https://www.mass.gov/info-details/healey-driscoll-administration-statement-of-expectations-for-responsible-data-center-development-and-operations-in-massachusetts">source</a></small></p><hr/><p>Massachusetts Governor Maura Healey has issued an executive order requiring data center developers with peak electricity demand exceeding 25 megawatts to provide clean power or contribute to a ratepayer protection fund. The mandate requires facilities to meet state clean energy standards, with an emphasis on developers generating power on-site to mitigate the impact on local energy supplies.</p><p>This move aligns Massachusetts with recent regulatory actions in Texas and New York aimed at managing large-scale data center expansion. As public concern regarding energy and water usage grows, industry-aligned super PACs have begun launching advertising campaigns to influence voter sentiment ahead of upcoming midterm elections.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E12AQGXquVRBjX9Qg/article-cover_image-shrink_720_1280/B4EZ1243Q4GkAM-/0/1775816111927?e=2147483647&v=beta&t=V3KeVTj9NRX4DmVY46VxoyXoX1_3OR-4DJ3Yi97Hb5k" /></p><hr/><small>10 Sep 2026, 03:04 UTC | #20638</small>]]></content>
   </entry>
 </feed>
