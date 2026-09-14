@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-14T12:18:00+00:00</updated>
+  <updated>2026-09-14T12:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Sampleson Releases Backgrounds Sound Design Plugin</title>
+    <link href="https://www.kvraudio.com/news/sampleson-releases-backgrounds---a-plugin-that-turns-words-into-atmospheres-68545?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68545" rel="alternate" />
+    <id>https://www.kvraudio.com/news/sampleson-releases-backgrounds---a-plugin-that-turns-words-into-atmospheres-68545?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68545::v239</id>
+    <published>2026-09-14T12:40:00+00:00</published>
+    <updated>2026-09-14T12:40:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/ui-backgrounds.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/sampleson-releases-backgrounds---a-plugin-that-turns-words-into-atmospheres-68545?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68545">kvraudio.com</a> | <a href="https://sampleson.com/backgrounds.html">source</a></small></p><hr/><p>Sampleson has released Backgrounds, a sound design plugin that generates evolving atmospheres from text-based keywords. The tool uses a Semantic Audio Retrieval model to map words to an array of audio cells, allowing users to create soundscapes by dragging keywords onto a canvas.</p><p>The plugin operates entirely on the user's local hardware, requiring no cloud connection or subscription. It is available for Mac and Windows as a standalone application or as VST3 and AU plugins and includes a built-in recorder for exporting audio as WAV files.</p><p><img src="https://static.kvraudio.com/i/b/ui-backgrounds.jpg" /></p><hr/><small>14 Sep 2026, 17:55 UTC | #21084</small>]]></content>
+  </entry>
   <entry>
     <title>Remi Blaze Releases Prismate Free Parametric EQ for macOS</title>
     <link href="https://www.kvraudio.com/news/remi-blaze-releases-prismate---free-parametric-eq-for-macos-vst3-and-au-68543?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68543" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T12:20:00+00:00</updated>
+  <updated>2026-09-14T12:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>China's Foreign Ministry Rejects AI Risk Warnings</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-14/china-rejects-ai-fearmongering-after-amodei-urges-slowdown" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-14/china-rejects-ai-fearmongering-after-amodei-urges-slowdown::v239</id>
+    <published>2026-09-14T12:21:00+00:00</published>
+    <updated>2026-09-14T12:21:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/673f0725df990f6c96bf18ea/69052f9d11c06e300b3385da_shutterstock_2652009067.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-14/china-rejects-ai-fearmongering-after-amodei-urges-slowdown">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=49698404">hacker news</a></small></p><hr/><p>China's Foreign Ministry has dismissed warnings regarding the risks of advanced artificial intelligence, characterizing such calls as "fearmongering, confrontation, and vicious competition." The response follows recent advocacy from prominent US technology executives for a slowdown in the development of increasingly advanced AI models.</p><p>The tension highlights a growing geopolitical divide concerning AI governance and the pace of innovation. While certain US industry leaders urge a cautious approach to mitigate potential risks, Beijing has characterized these calls as efforts to hinder competitive progress.</p><p><img src="https://cdn.prod.website-files.com/673f0725df990f6c96bf18ea/69052f9d11c06e300b3385da_shutterstock_2652009067.webp" /></p><hr/><small>14 Sep 2026, 17:51 UTC | #21052</small>]]></content>
+  </entry>
   <entry>
     <title>China's Ministry of State Security Warns of AI Risks to Political and Social Security</title>
     <link href="https://www.ft.com/content/8715d1c6-054d-4eab-bcad-147acebfd2a9" rel="alternate" />
