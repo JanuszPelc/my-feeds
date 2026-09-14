@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-14T00:02:00+00:00</updated>
+  <updated>2026-09-14T01:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Former EPA Officials Warn of Increased Health Risks from AI Data Center Expansion</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa" rel="alternate" />
+    <id>https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa::v239</id>
+    <published>2026-09-14T01:06:00+00:00</published>
+    <updated>2026-09-14T01:06:00+00:00</updated>
+    <media:thumbnail url="https://videous.cgtn.com/news/2025-11-19/The-environmental-impacts-of-AI-data-centers-1IpW9HJem5O/video/wu_1jacg3mad9g21kb81ehb1vrh1f5i25rq/wu_1jacg3mad9g21kb81ehb1vrh1f5i25rq.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa">theverge.com</a> | <a href="https://www.environmentalprotectionnetwork.org/new-report-ai-data-center-boom-poses-growing-health-risks-as-epa-other-federal-agencies-weaken-protections-against-harmful-pollution/">source</a></small></p><hr/><p>A report from the Environmental Protection Network (EPN) argues that the Trump administration is weakening environmental protections to expedite the construction of AI data centers. The group identifies 30 federal actions since early 2025 that increase pollution-related health risks, with 17 of those actions specifically targeting data center-related activities.</p><p>The EPN claims these regulatory rollbacks, including those affecting renewable energy and toxic chemical limits, contribute to a growing environmental footprint for generative AI. Research cited in the report suggests that AI-driven air pollution could result in 1,300 premature deaths and $20 billion in public health costs by 2028.</p><p><img src="https://videous.cgtn.com/news/2025-11-19/The-environmental-impacts-of-AI-data-centers-1IpW9HJem5O/video/wu_1jacg3mad9g21kb81ehb1vrh1f5i25rq/wu_1jacg3mad9g21kb81ehb1vrh1f5i25rq.jpg" /></p><hr/><small>14 Sep 2026, 08:22 UTC | #21014</small>]]></content>
+  </entry>
   <entry>
     <title>Bryan Cantrill Critiques AI Extinction Risk Claims</title>
     <link href="https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/" rel="alternate" />

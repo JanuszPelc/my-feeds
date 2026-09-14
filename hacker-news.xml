@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-14T00:00:00+00:00</updated>
+  <updated>2026-09-14T00:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Creating a Custom Service in GNU Guix</title>
+    <link href="https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html" rel="alternate" />
+    <id>https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html::v239</id>
+    <published>2026-09-14T00:18:00+00:00</published>
+    <updated>2026-09-14T00:18:00+00:00</updated>
+    <media:thumbnail url="https://hpc.guix.info/static/images/blog/diamond-container-development-chain.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html">aloysberger.com</a> | <a href="https://lobste.rs/s/f4arrs/writing_guix_service_from_scratch_as">discussion</a></small></p><hr/><p>This guide demonstrates how to create a custom service in the GNU Guix operating system, using the Caddy web server as a practical example. The process involves defining a service type, utilizing service extensions to manage system users and groups, and preparing the service for execution via the Shepherd daemon.</p><p>The author provides an in-depth look at Guix's declarative configuration model, specifically how the compose and extend procedures facilitate service composition. By examining the internal structure of service-type records, the tutorial explains how services can interact with existing system components like the account-service-type.</p><p><img src="https://hpc.guix.info/static/images/blog/diamond-container-development-chain.png" /></p><hr/><small>14 Sep 2026, 08:19 UTC | #21033</small>]]></content>
+  </entry>
   <entry>
     <title>Programmers' Observed Dislike of the 'reduce' Function</title>
     <link href="https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/" rel="alternate" />
