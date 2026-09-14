@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-12T15:40:00+00:00</updated>
+  <updated>2026-09-14T12:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>KO_OP Confirms 13 Layoffs</title>
+    <link href="https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs::v239</id>
+    <published>2026-09-14T12:10:00+00:00</published>
+    <updated>2026-09-14T12:10:00+00:00</updated>
+    <media:thumbnail url="https://thelogicalindian.com/wp-content/uploads/2026/05/plants-need-more-sunlight-2026-05-02T141416.335.jpg" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/worker-owned-studio-ko_op-confirms-layoffs">gamedeveloper.com</a> | <a href="https://bsky.app/profile/ko-op.com/post/3mv6eraifec2q">source</a></small></p><hr/><p>The worker-run indie studio behind *Goodbye Volcano High* and *Young Suns* has laid off 13 employees, including team leads and elected executives. The studio cited a shift in the gaming funding landscape and an inability to secure financing for new projects as the driving factors behind the decision.</p><p>The layoffs were made via a democratic process aimed at ensuring the studio's survival. KO_OP announced that profits from *Young Suns* will still be shared with the impacted team members and expressed an intention to rehire staff if the studio secures funding in the coming months.</p><p><img src="https://thelogicalindian.com/wp-content/uploads/2026/05/plants-need-more-sunlight-2026-05-02T141416.335.jpg" /></p><hr/><small>14 Sep 2026, 15:26 UTC | #21050</small>]]></content>
+  </entry>
   <entry>
     <title>xkcd Fonts Derived from Randall Munroe's Handwriting</title>
     <link href="https://github.com/ipython/xkcd-font" rel="alternate" />

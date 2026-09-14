@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-14T02:08:00+00:00</updated>
+  <updated>2026-09-14T12:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Mergiraf Syntax-Aware Git Merge Driver</title>
+    <link href="https://codeberg.org/mergiraf/mergiraf" rel="alternate" />
+    <id>https://codeberg.org/mergiraf/mergiraf::v239</id>
+    <published>2026-09-14T12:11:00+00:00</published>
+    <updated>2026-09-14T12:11:00+00:00</updated>
+    <media:thumbnail url="https://www.linuxlinks.com/wp-content/uploads/2026/02/mergiraf-commands.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codeberg.org/mergiraf/mergiraf">codeberg.org</a> | <a href="https://lobste.rs/s/gslcz7/mergiraf_syntax_aware_git_merge_driver">discussion</a></small></p><hr/><p>Mergiraf is a syntax-aware Git merge driver that resolves code conflicts by understanding the structure of programming languages. It currently supports a variety of formats, including Rust, Java, Python, MATLAB, and Scheme.</p><p>The tool is written in Rust and is intended to improve Git operations such as merging, rebasing, and cherry-picking. By using structural analysis rather than standard line-based heuristics, it aims to reduce conflicts in complex files.</p><p><img src="https://www.linuxlinks.com/wp-content/uploads/2026/02/mergiraf-commands.png" /></p><hr/><small>14 Sep 2026, 15:28 UTC | #21076</small>]]></content>
+  </entry>
   <entry>
     <title>Hacker News September 2026 'What Are You Working On?' Discussion</title>
     <link href="https://news.ycombinator.com/item?id=49686380" rel="alternate" />
