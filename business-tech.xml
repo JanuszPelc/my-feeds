@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Signal Registration Without Phone Numbers via Zero-Knowledge Proofs</title>
+    <link href="https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10" rel="alternate" />
+    <id>https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10::v239</id>
+    <published>2026-09-14T00:05:00+00:00</published>
+    <updated>2026-09-14T00:05:00+00:00</updated>
+    <media:thumbnail url="https://files.amberblocks.com/media/chnbzaa92ook5tnj/posts/pbkp6leb8dx5kedt/fmifjxfsjhocw0sgfa0wnocgqu4wys2z/https-filecoin98com-images-mo-hinh-zkp-tsr1ligt8jfu3wyz.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10">community.signalusers.org</a> | <a href="https://news.ycombinator.com/item?id=49689048">hacker news</a></small></p><hr/><p>Signal is reportedly developing a registration process that allows users to sign up without a phone number by utilizing zero-knowledge proofs (ZKP). This implementation, identified in Android source code, aims to decouple a user's identity from their service usage, such as group memberships or financial transactions.</p><p>The transition may involve a one-time fee to replace traditional phone number verification. Discussions among users suggest that without cooldown periods or similar restrictions, the feature could be exploited by spammers to create multiple accounts through rapid unlinking and re-registration.</p><p><img src="https://files.amberblocks.com/media/chnbzaa92ook5tnj/posts/pbkp6leb8dx5kedt/fmifjxfsjhocw0sgfa0wnocgqu4wys2z/https-filecoin98com-images-mo-hinh-zkp-tsr1ligt8jfu3wyz.png" /></p><hr/><small>14 Sep 2026, 05:38 UTC | #21024</small>]]></content>
+  </entry>
+  <entry>
     <title>Anthropic, OpenAI, and Google Discussing Industry-Led AI Standards Body</title>
     <link href="https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police" rel="alternate" />
     <id>https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police::v239</id>
