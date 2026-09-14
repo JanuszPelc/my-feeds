@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T18:04:00+00:00</updated>
+  <updated>2026-09-14T18:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nvidia and Booz Allen Hamilton Restrict Fable Use Over Data Retention Concerns</title>
+    <link href="https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use" rel="alternate" />
+    <id>https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use::v239</id>
+    <published>2026-09-14T18:07:00+00:00</published>
+    <updated>2026-09-14T18:07:00+00:00</updated>
+    <media:thumbnail url="https://www.developersdigest.tech/_next/image?url=/images/blog/fable-5-data-retention-enterprise-compliance/inline-1.webp&amp;w=1920&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/anthropic-data-fears-prompt-nvidia-palantir-booz-allen-restrict-model-use">theinformation.com</a></small></p><hr/><p>Nvidia and Booz Allen Hamilton have restricted their use of Anthropic's Fable due to a lack of Zero Data Retention (ZDR) assurances. Palantir has also declined to make Fable available via its own software suite.</p><p>These restrictions reflect rising enterprise concern that AI providers may use sensitive customer intellectual property to train models. The tension follows reports that Anthropic's Fable 5 includes a 30-day data retention mandate that may override existing ZDR agreements for enterprise API customers.</p><p><img src="https://www.developersdigest.tech/_next/image?url=/images/blog/fable-5-data-retention-enterprise-compliance/inline-1.webp&w=1920&q=75" /></p><hr/><small>14 Sep 2026, 22:59 UTC | #21085</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Urges UK to Implement Binding AI Safety Legislation</title>
     <link href="https://www.politico.eu/article/openai-uk-ai-artificial-intelligence-legislation-tom-duff-gordon/" rel="alternate" />
