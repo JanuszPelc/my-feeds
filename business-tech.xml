@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T03:22:00+00:00</updated>
+  <updated>2026-09-14T07:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Senate Republicans Release Final CLARITY Act Proposal</title>
+    <link href="https://ct.com/news/us-republicans-send-final-clarity-act-offer-to-democrats" rel="alternate" />
+    <id>https://ct.com/news/us-republicans-send-final-clarity-act-offer-to-democrats::v239</id>
+    <published>2026-09-14T07:34:00+00:00</published>
+    <updated>2026-09-14T07:34:00+00:00</updated>
+    <media:thumbnail url="https://s.yimg.com/lo/mysterio/api/ffd565ffa6f550f726f65291b547994298344d649f5e9a7810e9f55993d0b066/lightyear_networkapi/resizefill_w976;quality_80;format_webp/https://media.zenfs.com/en/cryptonews_us_711/1119fdb0f27fd2b9459fda64373e9f4e" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://ct.com/news/us-republicans-send-final-clarity-act-offer-to-democrats">ct.com</a> | <a href="https://www.lummis.senate.gov/press-releases/lummis-boozman-scott-release-final-clarity-act-text/">source</a></small></p><hr/><p>Senate Republicans have submitted a revised 635-page text of the CLARITY Act to Democrats, featuring significant new ethics restrictions for government officials' involvement with digital assets. The proposal, which reportedly has the support of President Trump, includes amendments to the Blockchain Regulatory Certainty Act (BRCA) and provisions regarding stablecoin yields to protect community bank deposits.</p><p>The revised ethics rules would require federal officials and their spouses to divest significant digital asset interests or place them in blind trusts, with violations subject to civil penalties. Additionally, the bill seeks to extend regulatory protections to cryptocurrency miners and validators, shielding them from being classified as money transmitters or financial institutions under the Bank Secrecy Act.</p><p><img src="https://s.yimg.com/lo/mysterio/api/ffd565ffa6f550f726f65291b547994298344d649f5e9a7810e9f55993d0b066/lightyear_networkapi/resizefill_w976;quality_80;format_webp/https://media.zenfs.com/en/cryptonews_us_711/1119fdb0f27fd2b9459fda64373e9f4e" /></p><hr/><small>14 Sep 2026, 13:01 UTC | #21029</small>]]></content>
+  </entry>
   <entry>
     <title>Samsung and SK Hynix Reject KEPCO's $18.7 Billion Power Prepayment Proposal</title>
     <link href="https://www.reuters.com/world/asia-pacific/samsung-sk-hynix-reject-kepcos-19-billion-power-prepayment-proposal-document-2026-09-14/" rel="alternate" />
