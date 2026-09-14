@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T07:34:00+00:00</updated>
+  <updated>2026-09-14T12:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>XCancel Service Suspended Due to Legal Proceedings</title>
+    <link href="https://xcancel.com/twitter" rel="alternate" />
+    <id>https://xcancel.com/twitter::v239</id>
+    <published>2026-09-14T12:06:00+00:00</published>
+    <updated>2026-09-14T12:06:00+00:00</updated>
+    <media:thumbnail url="https://recordoflaw.in/wp-content/uploads/2026/05/ChatGPT-Image-May-6-2026-11_09_16-PM.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://xcancel.com/twitter">xcancel.com</a> | <a href="https://news.ycombinator.com/item?id=49695459">hacker news</a></small></p><hr/><p>XCancel, an open-source service that allows users to view content from X (formerly Twitter) without an account, has suspended its operations indefinitely. The suspension is attributed to new developments in ongoing legal proceedings involving X Corp.</p><p>The shutdown follows similar cease-and-desist actions taken by X Corp against other X mirroring projects, such as Nitter. The XCancel team has stated they cannot release further details regarding the legal matter and has directed users back to the official X platform.</p><p><img src="https://recordoflaw.in/wp-content/uploads/2026/05/ChatGPT-Image-May-6-2026-11_09_16-PM.png" /></p><hr/><small>14 Sep 2026, 14:49 UTC | #21074</small>]]></content>
+  </entry>
   <entry>
     <title>Senate Republicans Release Final CLARITY Act Proposal</title>
     <link href="https://ct.com/news/us-republicans-send-final-clarity-act-offer-to-democrats" rel="alternate" />
