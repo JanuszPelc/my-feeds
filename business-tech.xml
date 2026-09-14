@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T12:21:00+00:00</updated>
+  <updated>2026-09-14T12:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>IFPI and Music Companies Agree to New Rules to Combat AI Streaming Fraud</title>
+    <link href="https://www.ft.com/content/c1f17709-7fc8-4afc-8ac9-38cd923f0064" rel="alternate" />
+    <id>https://www.ft.com/content/c1f17709-7fc8-4afc-8ac9-38cd923f0064::v239</id>
+    <published>2026-09-14T12:41:00+00:00</published>
+    <updated>2026-09-14T12:41:00+00:00</updated>
+    <media:thumbnail url="https://sawahsolutions.com/lap/wp-content/uploads/2026/02/image_2985470-1024x559.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/c1f17709-7fc8-4afc-8ac9-38cd923f0064">ft.com</a> | <a href="https://www.ifpi.org/music-companies-unite-in-new-commitment-to-combat-streaming-fraud-in-order-to-protect-artists-songwriters-and-fans/">source</a></small></p><hr/><p>Industry leaders from music companies and distribution services have agreed to new rules to combat AI-generated music fraud. These scams involve uploading vast quantities of AI-created tracks and using bots to artificially inflate play counts, which diverts royalty payments away from legitimate artists.</p><p>The initiative aims to protect the revenue of artists and songwriters by establishing defenses against automated, artificial listening activity. This move addresses increasing concerns regarding the ability of AI-generated content to manipulate streaming platforms and dilute royalty pools.</p><p><img src="https://sawahsolutions.com/lap/wp-content/uploads/2026/02/image_2985470-1024x559.jpg" /></p><hr/><small>14 Sep 2026, 18:11 UTC | #21053</small>]]></content>
+  </entry>
   <entry>
     <title>China's Foreign Ministry Rejects AI Risk Warnings</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-14/china-rejects-ai-fearmongering-after-amodei-urges-slowdown" rel="alternate" />
