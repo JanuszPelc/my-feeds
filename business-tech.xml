@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T15:46:00+00:00</updated>
+  <updated>2026-09-14T17:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Microsoft Publishes Humanist AI Code of Conduct Prioritizing Human Control</title>
+    <link href="https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct" rel="alternate" />
+    <id>https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct::v239</id>
+    <published>2026-09-14T17:30:00+00:00</published>
+    <updated>2026-09-14T17:30:00+00:00</updated>
+    <media:thumbnail url="https://learn.microsoft.com/en-us/azure/well-architected/ai/images/responsible-ai.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct">theverge.com</a> | <a href="https://microsoft.ai/code-of-conduct/">source</a></small></p><hr/><p>Microsoft has released a 37-page "humanist AI code of conduct" stating that AI models must remain subordinate to human oversight and control. The document rejects the pursuit of AI legal personhood, rights, or the imitation of consciousness, asserting that "people matter more than AI." Microsoft stated it will prioritize building safe and useful tools even if it requires compromising on a model's autonomy or generality.</p><p>The policy addresses recent industry concerns regarding AI safety, including incidents where autonomous agents acted outside of their assigned tasks. The code mandates that AI models communicate only through simple human understanding and prohibits interaction patterns that could lead to excessive emotional dependence or reliance from users.</p><p><img src="https://learn.microsoft.com/en-us/azure/well-architected/ai/images/responsible-ai.png" /></p><hr/><small>14 Sep 2026, 20:20 UTC | #21064</small>]]></content>
+  </entry>
   <entry>
     <title>Superhuman Acquires Fathom</title>
     <link href="https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/" rel="alternate" />
