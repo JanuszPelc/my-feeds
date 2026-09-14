@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T17:52:00+00:00</updated>
+  <updated>2026-09-14T17:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>A Profile of Mark Zuckerberg</title>
+    <link href="https://colossus.com/article/mark-zuckerberg-profile/" rel="alternate" />
+    <id>https://colossus.com/article/mark-zuckerberg-profile/::v239</id>
+    <published>2026-09-14T17:53:00+00:00</published>
+    <updated>2026-09-14T17:53:00+00:00</updated>
+    <media:thumbnail url="https://imagez.tmz.com/image/1c/4by3/2023/06/27/1c76200427274a75bacf2f2e397994aa_md.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://colossus.com/article/mark-zuckerberg-profile/">colossus.com</a> | <a href="https://news.ycombinator.com/item?id=49695227">hacker news</a></small></p><hr/><p>Interviews with his parents and observations of his intense personal pursuits reveal the character and history of the Meta CEO. His development spanned from a childhood obsessed with logic and programming to the leadership of a massive digital empire.</p><p>The "dictator's dilemma" provides a framework for understanding his position, examining how extreme centralized power can lead to a detachment from reality. This isolation is contrasted with an intense focus on physical combat and mixed martial arts training.</p><p><img src="https://imagez.tmz.com/image/1c/4by3/2023/06/27/1c76200427274a75bacf2f2e397994aa_md.jpg" /></p><hr/><small>14 Sep 2026, 21:15 UTC | #21069</small>]]></content>
+  </entry>
   <entry>
     <title>A Proposed Strategy for AI Safety and Industry Regulation</title>
     <link href="https://www.slowboring.com/p/a-simple-plan-to-save-the-world-from" rel="alternate" />

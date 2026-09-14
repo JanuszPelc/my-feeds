@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-14T17:28:00+00:00</updated>
+  <updated>2026-09-14T17:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Laurelyn McWills Discusses Integrating Emotional Connections into Game Systems</title>
+    <link href="https://www.youtube.com/watch?v=rysNCIMKflE" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=rysNCIMKflE::v239</id>
+    <published>2026-09-14T17:54:00+00:00</published>
+    <updated>2026-09-14T17:54:00+00:00</updated>
+    <media:thumbnail url="https://mobidictum.com/wp-content/uploads/2026/03/gdc_sessions-1024x683.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=rysNCIMKflE">youtube.com</a></small></p><hr/><p>Designing game systems to elicit specific player emotions allows developers to address fundamental human needs through core gameplay mechanics. Laurelyn McWills advocates for "experiential core loops" that connect psychological motivations—such as agency, mastery, or social connection—directly to systemic rewards and player interactions.</p><p>Using case studies from Full Spectrum Warrior and Free Realms, McWills demonstrates how systemic changes, such as mission-based rescue objectives and social-based leveling, can maintain immersion and reinforce emotional engagement. Her approach moves beyond traditional combat loops to create a tighter connection between player motivation and gameplay mechanics.</p><p><img src="https://mobidictum.com/wp-content/uploads/2026/03/gdc_sessions-1024x683.jpg" /></p><hr/><small>14 Sep 2026, 21:18 UTC | #21091</small>]]></content>
+  </entry>
   <entry>
     <title>Valve Announces Steam Frame Standalone VR Headset</title>
     <link href="https://store.steampowered.com/hardware/steamframe" rel="alternate" />
