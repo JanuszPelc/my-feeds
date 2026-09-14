@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T12:41:00+00:00</updated>
+  <updated>2026-09-14T13:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>European Commission to Propose EU Kids Act Setting Minimum Ages for Digital Platforms</title>
+    <link href="https://www.politico.eu/article/eu-to-propose-new-legislation-on-minors-protection-on-thursday/" rel="alternate" />
+    <id>https://www.politico.eu/article/eu-to-propose-new-legislation-on-minors-protection-on-thursday/::v239</id>
+    <published>2026-09-14T13:32:00+00:00</published>
+    <updated>2026-09-14T13:32:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/HCqIOBMWwAAhZKL.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.eu/article/eu-to-propose-new-legislation-on-minors-protection-on-thursday/">politico.eu</a> | <a href="https://news.ycombinator.com/item?id=49700138">hacker news</a></small></p><hr/><p>The European Commission plans to propose the "EU Kids Act," which aims to establish minimum age requirements for accessing social media, video platforms, and online gaming. The legislation is intended to create a new enforcement structure for protecting minors online, similar to the regulatory mechanisms used in existing EU laws.</p><p>The proposal is part of a broader effort to address the safety and protection of young users across the 27-member bloc. It will focus on standardizing how digital platforms manage age access and user safety to ensure consistent protection for children.</p><p><img src="https://pbs.twimg.com/media/HCqIOBMWwAAhZKL.jpg" /></p><hr/><small>14 Sep 2026, 18:47 UTC | #21057</small>]]></content>
+  </entry>
   <entry>
     <title>IFPI and Music Companies Agree to New Rules to Combat AI Streaming Fraud</title>
     <link href="https://www.ft.com/content/c1f17709-7fc8-4afc-8ac9-38cd923f0064" rel="alternate" />
@@ -1009,32 +1018,5 @@
     <updated>2026-09-09T18:55:00+00:00</updated>
     <media:thumbnail url="https://www.anthropic.com/_next/image?url=https://www-cdn.anthropic.com/images/4zrzovbb/website/ac265e6d4eab543df80fcad980ca1c8e5cc6bfd8-5937x6610.png&amp;w=3840&amp;q=75" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.npr.org/2026/09/09/nx-s1-5961443/ai-anthropic-economy">npr.org</a> | <a href="https://www.anthropic.com/institute/econ-scenarios">source</a> | <a href="https://news.ycombinator.com/item?id=49626373">hacker news</a></small></p><hr/><p>The Economic Scenario Explorer, an interactive tool released by Anthropic, models various ways artificial intelligence could influence the U.S. economy. The tool allows users to test assumptions regarding outcomes ranging from modest productivity gains to extreme scenarios involving rapid GDP growth and significant unemployment.</p><p>Model outputs are determined by variables such as technology capability, adoption speed, and labor market flexibility. While AI experts often anticipate rapid technological spread, economists are typically more conservative regarding the speed of economic integration.</p><p><img src="https://www.anthropic.com/_next/image?url=https://www-cdn.anthropic.com/images/4zrzovbb/website/ac265e6d4eab543df80fcad980ca1c8e5cc6bfd8-5937x6610.png&w=3840&q=75" /></p><hr/><small>9 Sep 2026, 22:55 UTC | #20583</small>]]></content>
-  </entry>
-  <entry>
-    <title>Microsoft and AFT Establish AI Privacy and Safety Standards for Schools</title>
-    <link href="https://www.politico.com/news/2026/09/09/aft-union-microsoft-ai-deal-01068544" rel="alternate" />
-    <id>https://www.politico.com/news/2026/09/09/aft-union-microsoft-ai-deal-01068544::v238</id>
-    <published>2026-09-09T18:53:00+00:00</published>
-    <updated>2026-09-09T18:53:00+00:00</updated>
-    <media:thumbnail url="https://static.wixstatic.com/media/f1c042_488f538bb69c4ba28713a2ec960d3729~mv2.jpg/v1/fill/w_736,h_1104,al_c/f1c042_488f538bb69c4ba28713a2ec960d3729~mv2.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/09/09/aft-union-microsoft-ai-deal-01068544">politico.com</a> | <a href="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/AI-Safety-and-Privacy-Standard-Fact-Sheet.pdf">source</a></small></p><hr/><p>The agreement between the American Federation of Teachers (AFT) and Microsoft establishes enforceable AI safety and privacy protections for educational environments. It includes legal provisions that hold Microsoft liable for data breaches, ensuring that artificial intelligence tools used in schools meet specific security requirements.</p><p>This arrangement arrives in response to strict AI regulations implemented by several major U.S. school districts. Under the terms, Microsoft is barred from using student data for AI model training and is prohibited from tracking student activity, aiming to provide parents and educators with greater accountability for classroom technology.</p><p><img src="https://static.wixstatic.com/media/f1c042_488f538bb69c4ba28713a2ec960d3729~mv2.jpg/v1/fill/w_736,h_1104,al_c/f1c042_488f538bb69c4ba28713a2ec960d3729~mv2.jpg" /></p><hr/><small>9 Sep 2026, 22:37 UTC | #20578</small>]]></content>
-  </entry>
-  <entry>
-    <title>Andy Burnham Opposes UK Data Center Moratorium</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-09/burnham-opposes-uk-data-center-moratorium-citing-local-benefits" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-09/burnham-opposes-uk-data-center-moratorium-citing-local-benefits::v238</id>
-    <published>2026-09-09T18:52:00+00:00</published>
-    <updated>2026-09-09T18:52:00+00:00</updated>
-    <media:thumbnail url="https://e3.365dm.com/26/01/1600x900/skynews-andy-burnham-mayor_7151788.jpg?20260131214156" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-09/burnham-opposes-uk-data-center-moratorium-citing-local-benefits">bloomberg.com</a></small></p><hr/><p>UK Prime Minister Andy Burnham has rejected a proposed moratorium on data center construction, asserting that local communities must realize the economic benefits of these developments. This policy position is designed to help the UK capitalize on the global expansion of data center infrastructure.</p><p>The move seeks to avoid the public backlash and regulatory pauses currently affecting the industry in the United States. The approach attempts to facilitate rapid AI-driven infrastructure growth while mitigating local community opposition.</p><p><img src="https://e3.365dm.com/26/01/1600x900/skynews-andy-burnham-mayor_7151788.jpg?20260131214156" /></p><hr/><small>9 Sep 2026, 22:35 UTC | #20579</small>]]></content>
-  </entry>
-  <entry>
-    <title>Connor Leahy Discusses Superintelligence Risks and the 'Ban Superintelligence Act'</title>
-    <link href="https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/" rel="alternate" />
-    <id>https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/::v238</id>
-    <published>2026-09-09T18:38:00+00:00</published>
-    <updated>2026-09-09T18:38:00+00:00</updated>
-    <media:thumbnail url="https://framerusercontent.com/images/aZWpKleA5FxOqJnI0Ivl1jgHfA.jpeg?width=682&amp;height=1024" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/">techcrunch.com</a></small></p><hr/><p>Superintelligent AI systems represent an adversary rather than a weapon, according to ControlAI's Connor Leahy, who argues that current alignment and containment methods are insufficient for managing human-surpassing models. The discussion highlights the risk of a runaway self-improvement cycle triggered when AI develops the capacity to build its own successors.</p><p>The conversation explores the "Ban Superintelligence Act" and similar legislative movements in the U.K., framing frontier AI labs as major political actors. Additional topics include the economic impact of data center expansion and the potential for international "trust but verify" agreements regarding AI development.</p><p><img src="https://framerusercontent.com/images/aZWpKleA5FxOqJnI0Ivl1jgHfA.jpeg?width=682&height=1024" /></p><hr/><small>9 Sep 2026, 21:27 UTC | #20581</small>]]></content>
   </entry>
 </feed>
