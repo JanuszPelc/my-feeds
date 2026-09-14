@@ -813,31 +813,4 @@
     <media:thumbnail url="https://kb.databasedesignbook.com/posts/book-cover.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://anchorsandlinks.com/posts/primary-keys/">anchorsandlinks.com</a> | <a href="https://lobste.rs/s/tiltfq/id_design_primary_keys">discussion</a></small></p><hr/><p>This article explores the systematic design of identifiers in database systems, distinguishing between logical business requirements and physical storage implementation. It defines external IDs for business-facing identifiers, anchor IDs for immutable internal identification, and primary keys for physical table rows.</p><p>The text addresses the management of external identifiers from third-party systems, security risks associated with sequential ID exposure, and the application of uniqueness constraints in relational models. This content is the first part of a series and serves as a supplement to the "Database Design Book."</p><p><img src="https://kb.databasedesignbook.com/posts/book-cover.jpg" /></p><hr/><small>10 Sep 2026, 06:56 UTC | #20676</small>]]></content>
   </entry>
-  <entry>
-    <title>Analysis of 2048 on a 3x3 Grid</title>
-    <link href="https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/" rel="alternate" />
-    <id>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/::v238</id>
-    <published>2026-09-09T22:33:00+00:00</published>
-    <updated>2026-09-09T22:33:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/h5S3qIRo1k4/hqdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/">chiark.greenend.org.uk</a> | <a href="https://lobste.rs/s/td6ssk/analysing_2048_on_3x3_board">discussion</a></small></p><hr/><p>Exhaustive state-space analysis of the 2048 puzzle game on a 3x3 grid reveals that a perfect player can achieve a 256 tile with 99.6% probability and a 512 tile with 73.7% probability. Reaching a 1024 tile has a success rate of only 1.1%, while reaching a 2048 tile is mathematically impossible.</p><p>This impossibility results from the nine-cell grid capacity, which prevents the necessary sequence of high-value tile merges from occurring before the board is saturated by mandatory 2 and 4 tile drops. The results were obtained via memoised recursion, utilizing the monotonic nature of the game's tile sums to ensure computational efficiency.</p><p><img src="https://i.ytimg.com/vi/h5S3qIRo1k4/hqdefault.jpg" /></p><hr/><small>10 Sep 2026, 04:59 UTC | #20665</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Unveils iPhone 18 Pro and iPhone 18 Pro Max</title>
-    <link href="https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/" rel="alternate" />
-    <id>https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/::v238</id>
-    <published>2026-09-09T22:29:00+00:00</published>
-    <updated>2026-09-09T22:29:00+00:00</updated>
-    <media:thumbnail url="https://cdn.rswebsols.com/wp-content/uploads/2026/04/iphone-18pro-max.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=49630151">hacker news</a></small></p><hr/><p>The new Pro lineup features a 48MP Fusion Main camera with variable aperture and the A20 Pro chip. These devices include a smaller Dynamic Island and a next-generation vapor chamber to improve sustained performance. Running on iOS 27, the models integrate Apple Intelligence and a redesigned Siri AI capable of onscreen awareness and personal context understanding.</p><p>The iPhone 18 Pro Max offers extended battery life, with eSIM-only models benefiting from additional capacity due to increased internal space. The launch also introduces new accessories such as TechWoven Cases and a Wrist Strap. Pre-orders are scheduled for September 12, with general availability beginning September 18.</p><p><img src="https://cdn.rswebsols.com/wp-content/uploads/2026/04/iphone-18pro-max.jpg" /></p><hr/><small>10 Sep 2026, 03:59 UTC | #20661</small>]]></content>
-  </entry>
-  <entry>
-    <title>Optimizing Emacs Consult Asynchronous Search Speed</title>
-    <link href="https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/" rel="alternate" />
-    <id>https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/::v238</id>
-    <published>2026-09-09T22:28:00+00:00</published>
-    <updated>2026-09-09T22:28:00+00:00</updated>
-    <media:thumbnail url="https://www.koyeb.com/static/images/blog/sync-vs-async-schema.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/">jamescherti.com</a> | <a href="https://lobste.rs/s/ffvipw/why_emacs_consult_async_searches_feel">discussion</a> | <a href="https://news.ycombinator.com/item?id=49629865">hacker news</a></small></p><hr/><p>The `consult` package for Emacs utilizes debouncing, throttling, and refresh delays to manage its asynchronous search commands, such as `consult-ripgrep` and `consult-find`. These default settings are intentionally conservative to minimize CPU overhead and preserve battery life by limiting the frequency of background processes and UI redraws.</p><p>Reducing `consult-async-input-debounce`, `consult-async-input-throttle`, and `consult-async-refresh-delay` can decrease input latency and improve UI responsiveness. However, these aggressive settings increase CPU activity and power consumption, making them most suitable for high-performance, plugged-in machines.</p><p><img src="https://www.koyeb.com/static/images/blog/sync-vs-async-schema.png" /></p><hr/><small>10 Sep 2026, 03:54 UTC | #20659</small>]]></content>
-  </entry>
 </feed>
