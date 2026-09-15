@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T15:11:00+00:00</updated>
+  <updated>2026-09-15T15:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Gates Foundation Pledges Over $1 Billion to Expand Global AI Access</title>
+    <link href="https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html::v239</id>
+    <published>2026-09-15T15:12:00+00:00</published>
+    <updated>2026-09-15T15:12:00+00:00</updated>
+    <media:thumbnail url="https://kpiasacademy.com/wp-content/uploads/2026/02/andhra_pradesh_gates_foundation_featured-768x768.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html">nytimes.com</a></small></p><hr/><p>The Gates Foundation has pledged at least $1 billion over the next two years to expand global access to artificial intelligence and mitigate social inequalities. The initiative aims to provide AI-powered tools to healthcare workers, farmers, and educators, specifically in the world's poorest and most underserved regions.</p><p>This funding follows warnings from Bill Gates that the technology could widen the divide between wealthy and developing nations if access remains concentrated. By targeting sectors like agriculture and public health, the foundation seeks to ensure the benefits of AI are more broadly distributed to address global disparities.</p><p><img src="https://kpiasacademy.com/wp-content/uploads/2026/02/andhra_pradesh_gates_foundation_featured-768x768.png" /></p><hr/><small>15 Sep 2026, 20:35 UTC | #21182</small>]]></content>
+  </entry>
   <entry>
     <title>Steve Hobbs Argues Video Games Can Serve as Geopolitical Soft Power</title>
     <link href="https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-" rel="alternate" />
