@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-14T23:51:00+00:00</updated>
+  <updated>2026-09-15T01:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>NVIDIA Rubin Platform Performance Improvements in Agentic Inference</title>
+    <link href="https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference" rel="alternate" />
+    <id>https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference::v239</id>
+    <published>2026-09-15T01:54:00+00:00</published>
+    <updated>2026-09-15T01:54:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!5DEG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1af2573-7cff-4c99-beab-d0040b3a38ab_2048x1131.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference">newsletter.semianalysis.com</a></small></p><hr/><p>SemiAnalysis reports that the Rubin NVL72 system achieves significantly higher efficiency in agentic inference workloads compared to the Blackwell platform. Benchmark testing via AgentX shows the system delivering up to seven times better token throughput per megawatt and up to 67 times higher performance per dollar in specific total cost of ownership (TCO) models.</p><p>These gains are largely attributed to a co-designed architecture spanning six products, including the Rubin GPU and Vera CPU. The architecture is specifically optimized for multi-turn, long-context workloads, providing significantly lower P90 end-to-end latency in high-throughput production environments than existing Blackwell configurations.</p><p><img src="https://substackcdn.com/image/fetch/$s_!5DEG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1af2573-7cff-4c99-beab-d0040b3a38ab_2048x1131.png" /></p><hr/><small>15 Sep 2026, 07:45 UTC | #21131</small>]]></content>
+  </entry>
   <entry>
     <title>Apple's Reported H1 2027 Product Roadmap Includes New iPhones and MacBooks</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-14/upcoming-apple-products-what-to-expect-in-late-2026-and-early-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTQxOTY2MywiZXhwIjoxNzkwMDI0NDYzLCJhcnRpY2xlSWQiOiJUTDg0SUdWVFRDWlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.hPgPAbpsHyrSUPNeJ0O-tUdvdetvp7Ou2gPOBbmgqK0&amp;leadSource=article-gifting" rel="alternate" />
