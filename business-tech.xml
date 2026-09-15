@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T20:45:00+00:00</updated>
+  <updated>2026-09-14T20:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Speaker Johnson Explores Congressional Role in AI Regulation</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-14/house-speaker-risks-trump-ire-on-any-ai-guardrail-legislation" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-14/house-speaker-risks-trump-ire-on-any-ai-guardrail-legislation::v239</id>
+    <published>2026-09-14T20:46:00+00:00</published>
+    <updated>2026-09-14T20:46:00+00:00</updated>
+    <media:thumbnail url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/1200/675/mike-johnson-2026-spending-bill-partial-shutdown-002.jpg?ve=1&amp;tl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-14/house-speaker-risks-trump-ire-on-any-ai-guardrail-legislation">bloomberg.com</a></small></p><hr/><p>House Speaker Mike Johnson has indicated that Congress may establish "guardrail" legislation for artificial intelligence and intends to meet with AI industry executives to discuss regulatory frameworks.</p><p>The move could create tension with President Donald Trump, who has expressed opposition to such regulations. The initiative follows warnings from within the tech industry regarding development speeds and occurs during a limited legislative window before the midterm elections.</p><p><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/1200/675/mike-johnson-2026-spending-bill-partial-shutdown-002.jpg?ve=1&tl=1" /></p><hr/><small>15 Sep 2026, 01:59 UTC | #21113</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Acquires Smartphone Camera Maker Glass Imaging for $300 Million</title>
     <link href="https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/" rel="alternate" />
