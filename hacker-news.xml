@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-15T13:15:00+00:00</updated>
+  <updated>2026-09-15T13:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Principles for Fast Tokio Applications</title>
+    <link href="https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/" rel="alternate" />
+    <id>https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/::v239</id>
+    <published>2026-09-15T13:23:00+00:00</published>
+    <updated>2026-09-15T13:23:00+00:00</updated>
+    <media:thumbnail url="https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/mini-redis-latency-distribution.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/">dial9-rs.github.io</a> | <a href="https://news.ycombinator.com/item?id=49698607">hacker news</a></small></p><hr/><p>Optimizing performance in Tokio-based asynchronous Rust applications requires balancing fairness and batching against contention and isolation. Developers should use metrics like schedule latency to distinguish actual performance bottlenecks from benign long polls that do not impact user-facing metrics.</p><p>Improving latency necessitates yielding more frequently to ensure connection fairness, whereas batching work amortizes the overhead of task spawning and runtime events. To avoid stalls, developers should minimize mutex contention, limit reliance on the global blocking pool, and isolate Tokio workers on dedicated CPU cores to prevent OS-level scheduling delays.</p><p><img src="https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/mini-redis-latency-distribution.png" /></p><hr/><small>15 Sep 2026, 18:48 UTC | #21221</small>]]></content>
+  </entry>
   <entry>
     <title>MediaTek Unveils Dimensity 9600 Pro and 9600M Smartphone Chips</title>
     <link href="https://www.reuters.com/business/media-telecom/mediatek-launches-new-mobile-chip-using-tsmcs-most-advanced-technology-2026-09-15/" rel="alternate" />
