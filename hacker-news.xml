@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-15T19:40:00+00:00</updated>
+  <updated>2026-09-15T19:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>AWS Facilities in Bahrain and UAE Remain Offline Following Iranian Drone Strikes</title>
+    <link href="https://www.wsj.com/world/middle-east/the-gulfs-ai-nightmare-came-courtesy-of-an-iranian-drone-3f313cb3?st=bKp1un&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/world/middle-east/the-gulfs-ai-nightmare-came-courtesy-of-an-iranian-drone-3f313cb3?st=bKp1un&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-09-15T19:43:00+00:00</published>
+    <updated>2026-09-15T19:43:00+00:00</updated>
+    <media:thumbnail url="https://e3.365dm.com/26/03/768x432/skynews-drone-strike-iran-bahrain_7178504.jpg?20260301073150" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/world/middle-east/the-gulfs-ai-nightmare-came-courtesy-of-an-iranian-drone-3f313cb3?st=bKp1un&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.reuters.com/world/middle-east/amazons-aws-is-unable-restore-access-bahrain-one-uae-cloud-data-zone-after-war-2026-09-15/">source</a></small></p><hr/><p>Amazon Web Services (AWS) has been unable to restore full access to its cloud-computing facilities in Bahrain and the United Arab Emirates for more than six months. The infrastructure sustained damage during Iranian drone strikes during a conflict in the region.</p><p>The ongoing disruption complicates multibillion-dollar regional efforts to establish the Gulf as a global hub for artificial intelligence. The affected sites include the me-south-1 region in Bahrain and an availability zone in the UAE's me-central-1 region.</p><p><img src="https://e3.365dm.com/26/03/768x432/skynews-drone-strike-iran-bahrain_7178504.jpg?20260301073150" /></p><hr/><small>15 Sep 2026, 22:37 UTC | #21206</small>]]></content>
+  </entry>
   <entry>
     <title>Capsule Enables Single-File Portable Web Apps Using HTML and SQLite</title>
     <link href="https://withcapsule.app/" rel="alternate" />

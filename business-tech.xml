@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T19:39:00+00:00</updated>
+  <updated>2026-09-15T19:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Elon Musk Urges AI Rivals and Chinese Companies to Conduct Peer-Review Safety Testing</title>
+    <link href="https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html::v239</id>
+    <published>2026-09-15T19:42:00+00:00</published>
+    <updated>2026-09-15T19:42:00+00:00</updated>
+    <media:thumbnail url="https://aigazine.com/image/1300/0/5chT2UlwC7oXhdRu4uIuCNmfWTmgBl5hsARGnVKR.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html">cnbc.com</a></small></p><hr/><p>Elon Musk has called for major artificial intelligence developers—including OpenAI, Anthropic, Google, Meta, and leading Chinese firms—to implement a "test harness" for mutual safety evaluation. Speaking at the All-in Summit, Musk argued that allowing competitors to review each other's models would more effectively identify potential risks than relying on internal testing alone.</p><p>The proposal follows mounting warnings from researchers and industry leaders regarding the existential risks of rapid AI development. However, the call for regulation faces opposition from the Trump administration, which has dismissed such fears as "hoaxes," and from those concerned that a slowdown in development could allow China to gain a strategic technological advantage.</p><p><img src="https://aigazine.com/image/1300/0/5chT2UlwC7oXhdRu4uIuCNmfWTmgBl5hsARGnVKR.png" /></p><hr/><small>15 Sep 2026, 22:35 UTC | #21201</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Launches Meta One Subscription Service Bundling AI and Premium Features</title>
     <link href="https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/" rel="alternate" />
