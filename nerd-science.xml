@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-15T01:53:00+00:00</updated>
+  <updated>2026-09-15T01:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>12 Distinct 4x4 Sudoku Solutions</title>
+    <link href="https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/" rel="alternate" />
+    <id>https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/::v239</id>
+    <published>2026-09-15T01:56:00+00:00</published>
+    <updated>2026-09-15T01:56:00+00:00</updated>
+    <media:thumbnail url="https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/Sudoku-for-Kids-4x4-Easy-Sudoku-Puzzles-with-Solutions-Printable-Editable-16039043-1775847931/750f-16039043-2.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/">baldino.dev</a> | <a href="https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool">discussion</a> | <a href="https://news.ycombinator.com/item?id=49695519">hacker news</a></small></p><hr/><p>A 4x4 Sudoku grid contains 288 total valid solutions, but only 12 are structurally distinct when digit permutations are considered equivalent. This distinction is based on the underlying arrangement of symbols rather than the specific digits used to fill the cells.</p><p>Using Python to perform brute-force enumeration and bitmasking to identify minimal subsets, the study also identifies 85,632 unique minimal Sudoku puzzles.</p><p><img src="https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/Sudoku-for-Kids-4x4-Easy-Sudoku-Puzzles-with-Solutions-Printable-Editable-16039043-1775847931/750f-16039043-2.jpg" /></p><hr/><small>15 Sep 2026, 08:23 UTC | #21145</small>]]></content>
+  </entry>
   <entry>
     <title>EuroBirdPortal Species Directory</title>
     <link href="https://www.eurobirdportal.org/ebp/en/" rel="alternate" />
