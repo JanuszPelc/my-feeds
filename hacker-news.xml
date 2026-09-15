@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-15T13:23:00+00:00</updated>
+  <updated>2026-09-15T19:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Internet Archive Addresses Wayback Machine Access Issues</title>
+    <link href="https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/" rel="alternate" />
+    <id>https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/::v239</id>
+    <published>2026-09-15T19:35:00+00:00</published>
+    <updated>2026-09-15T19:35:00+00:00</updated>
+    <media:thumbnail url="https://whoismcafee.com/wp-content/uploads/2025/10/Error-429-Too-Many-Requests.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/">blog.archive.org</a> | <a href="https://news.ycombinator.com/item?id=49716176">hacker news</a></small></p><hr/><p>Protections have been implemented on the Wayback Machine to mitigate high-volume automated traffic. These measures have caused some legitimate users to encounter HTTP 429 "Too Many Requests" errors.</p><p>The organization is working to better distinguish between abusive bots and human users to reduce false positives. Users who believe they have been blocked in error can email the archive with their operating system, browser, and IP address for review.</p><p><img src="https://whoismcafee.com/wp-content/uploads/2025/10/Error-429-Too-Many-Requests.jpg" /></p><hr/><small>15 Sep 2026, 21:42 UTC | #21237</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta Plans Deployment of MTIA 450 and MTIA 500 AI Chips</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-15/meta-touts-the-cost-saving-benefits-of-latest-in-house-ai-chips" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-15/meta-touts-the-cost-saving-benefits-of-latest-in-house-ai-chips::v239</id>
+    <published>2026-09-15T19:33:00+00:00</published>
+    <updated>2026-09-15T19:33:00+00:00</updated>
+    <media:thumbnail url="https://xpu.pub/wp-content/uploads/2026/03/mtia300-500-1.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-15/meta-touts-the-cost-saving-benefits-of-latest-in-house-ai-chips">bloomberg.com</a> | <a href="https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/">source</a></small></p><hr/><p>Meta plans to deploy its third-generation MTIA 450 custom AI chip in data centers during the first half of 2027. This will be followed by a broad rollout of the MTIA 500 model by the end of that year.</p><p>The custom silicon is designed to provide cost-saving benefits and optimized performance for Meta's AI workloads. This deployment is part of an ongoing strategy to develop in-house accelerators to power large-scale computing tasks.</p><p><img src="https://xpu.pub/wp-content/uploads/2026/03/mtia300-500-1.webp" /></p><hr/><small>15 Sep 2026, 21:36 UTC | #21194</small>]]></content>
+  </entry>
   <entry>
     <title>Principles for Fast Tokio Applications</title>
     <link href="https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T19:28:00+00:00</updated>
+  <updated>2026-09-15T19:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US DOJ Says Binance Users Relayed $1.5B for Iranian Oil</title>
+    <link href="https://www.wsj.com/finance/currencies/doj-says-binance-customers-used-crypto-exchange-to-funnel-iran-oil-money-d546b0a9?st=kr8LpY&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/finance/currencies/doj-says-binance-customers-used-crypto-exchange-to-funnel-iran-oil-money-d546b0a9?st=kr8LpY&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-09-15T19:32:00+00:00</published>
+    <updated>2026-09-15T19:32:00+00:00</updated>
+    <media:thumbnail url="https://coingape.com/wp-content/uploads/2026/04/senator_sends_letters_to_doj__treasury.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/finance/currencies/doj-says-binance-customers-used-crypto-exchange-to-funnel-iran-oil-money-d546b0a9?st=kr8LpY&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>The U.S. Department of Justice alleges that several companies used Binance to relay approximately $1.5 billion in payments for black-market Iranian oil purchased by Chinese buyers. Prosecutors claim the funds were funneled back to Iran through a series of interconnected digital wallets.</p><p>These allegations arrive amid increased regulatory scrutiny of cryptocurrency exchanges regarding their roles in sanctions evasion. While Binance has stated it has taken action to address the transactions in question, the scale of the alleged transfers highlights the challenges of monitoring illicit international trade within the digital asset ecosystem.</p><p><img src="https://coingape.com/wp-content/uploads/2026/04/senator_sends_letters_to_doj__treasury.webp" /></p><hr/><small>15 Sep 2026, 21:34 UTC | #21195</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Supports Third-Party Safety Evaluators in Bipartisan House Plan</title>
     <link href="https://www.politico.com/news/2026/09/15/openai-backs-bipartisan-house-plan-for-third-party-safety-assessments-01076588" rel="alternate" />
@@ -1000,14 +1009,5 @@
     <updated>2026-09-10T21:59:00+00:00</updated>
     <media:thumbnail url="https://i0.wp.com/calmatters.org/wp-content/uploads/2026/09/091026-Teen-Phones-IS-CM.jpg?fit=1200%2C800&amp;ssl=1" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://calmatters.org/economy/technology/2026/09/california-enacts-laws-restricting-chatbots-protecting-kids-online/">calmatters.org</a></small></p><hr/><p>Governor Gavin Newsom has signed a package of 13 bills designed to enhance online protections for children. The legislation will ban "addictive" social media features like infinite scroll and autoplay for users under 16 and impose new safety mandates for AI chatbots, including time limits, mandatory mental health resources, and parental notification requirements in cases of self-harm threats.</p><p>The laws follow heightened scrutiny over teen mental health and several incidents involving chatbot-related suicides. While supporters argue the measures address a mental health crisis, critics like the Electronic Frontier Foundation warn that broad definitions of "addictive features" could effectively ban social media for minors. Other included measures establish stricter age-verification requirements and a four-year moratorium on AI-powered chatbot toys for children under 16.</p><p><img src="https://i0.wp.com/calmatters.org/wp-content/uploads/2026/09/091026-Teen-Phones-IS-CM.jpg?fit=1200%2C800&ssl=1" /></p><hr/><small>11 Sep 2026, 04:06 UTC | #20763</small>]]></content>
-  </entry>
-  <entry>
-    <title>Mark Wahlberg to Discuss Investing and Entrepreneurship at TechCrunch Disrupt 2026</title>
-    <link href="https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/::v238</id>
-    <published>2026-09-10T21:36:00+00:00</published>
-    <updated>2026-09-10T21:36:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?w=680" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/">techcrunch.com</a> | <a href="https://techcrunch.com/events/techcrunch-disrupt/">source</a></small></p><hr/><p>Mark Wahlberg will join Bruce K. Lee, CEO of Keebeck Wealth Management, for a fireside chat at TechCrunch Disrupt 2026. The session will focus on Wahlberg's evolution from acting to business entrepreneurship and his shift toward institutional-level investing, specifically within the healthcare and wellness sectors.</p><p>The discussion will explore how Wahlberg leverages cultural capital to drive deal flow and the transition from intuitive entrepreneurial instincts to disciplined investment strategies. The event is scheduled for October 13-15 at San Francisco's Moscone West.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?w=680" /></p><hr/><small>11 Sep 2026, 02:37 UTC | #20768</small>]]></content>
   </entry>
 </feed>
