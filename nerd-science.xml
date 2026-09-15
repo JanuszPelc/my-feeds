@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-14T17:35:00+00:00</updated>
+  <updated>2026-09-15T01:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>EuroBirdPortal Species Directory</title>
+    <link href="https://www.eurobirdportal.org/ebp/en/" rel="alternate" />
+    <id>https://www.eurobirdportal.org/ebp/en/::v239</id>
+    <published>2026-09-15T01:53:00+00:00</published>
+    <updated>2026-09-15T01:53:00+00:00</updated>
+    <media:thumbnail url="https://thumbs.dreamstime.com/z/map-illustrating-bird-migration-routes-across-europe-depicted-map-illustrating-bird-migration-routes-across-europe-depicted-442214862.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.eurobirdportal.org/ebp/en/">eurobirdportal.org</a> | <a href="https://news.ycombinator.com/item?id=49693610">hacker news</a></small></p><hr/><p>The EuroBirdPortal provides a directory of various bird species, identifying them by both common and scientific names. The collection spans multiple groups, including quails, pheasants, ducks, geese, and swans.</p><p>The platform utilizes observations from 100,000 volunteer birdwatchers to map spatiotemporal patterns of bird distribution across Europe. These datasets help track bird movements and population trends throughout the continent.</p><p><img src="https://thumbs.dreamstime.com/z/map-illustrating-bird-migration-routes-across-europe-depicted-map-illustrating-bird-migration-routes-across-europe-depicted-442214862.jpg" /></p><hr/><small>15 Sep 2026, 07:12 UTC | #21142</small>]]></content>
+  </entry>
   <entry>
     <title>Reflections on Withdrawing from Digital Life and AI</title>
     <link href="https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/" rel="alternate" />
