@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T21:52:00+00:00</updated>
+  <updated>2026-09-14T21:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Donald Trump and Sam Altman Meet Privately at GOP Convention to Discuss AI</title>
+    <link href="https://www.ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations" rel="alternate" />
+    <id>https://www.ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations::v239</id>
+    <published>2026-09-14T21:53:00+00:00</published>
+    <updated>2026-09-14T21:53:00+00:00</updated>
+    <media:thumbnail url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/1200/675/sam-altman-fox-news-001.jpg?ve=1&amp;tl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations">ms.now</a></small></p><hr/><p>A private meeting between President Donald Trump and OpenAI CEO Sam Altman at the Republican midterm convention centered on the expanding power of artificial intelligence. This follows recent calls from industry leaders, including Altman and Anthropic’s Dario Amodei, for a slowdown in frontier AI development to ensure safety and alignment.</p><p>The meeting highlights a significant policy divide: while Altman and other executives advocate for a cautious approach to keep technology under human control, Trump has dismissed the need for AI guardrails, arguing that regulation could stifle innovation and harm the American economy.</p><p><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/1200/675/sam-altman-fox-news-001.jpg?ve=1&tl=1" /></p><hr/><small>15 Sep 2026, 03:21 UTC | #21116</small>]]></content>
+  </entry>
   <entry>
     <title>Jensen Huang and President Trump Discuss AI Development Pace in Live Call</title>
     <link href="https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/" rel="alternate" />
