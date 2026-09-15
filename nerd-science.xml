@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-15T01:56:00+00:00</updated>
+  <updated>2026-09-15T06:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>The Discovery and History of Papua New Guinea's Highland Tribes</title>
+    <link href="https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua" rel="alternate" />
+    <id>https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua::v239</id>
+    <published>2026-09-15T06:17:00+00:00</published>
+    <updated>2026-09-15T06:17:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!MbM7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc625b66f-1256-4500-b297-af3497ae2087_1258x1156.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua">notnottalmud.substack.com</a> | <a href="https://news.ycombinator.com/item?id=49708431">hacker news</a></small></p><hr/><p>In 1930, Australian explorers unexpectedly discovered massive, isolated populations living in the highlands of Papua New Guinea. These tribes had remained functionally cut off from the rest of the world for millennia, developing independent agricultural techniques and unique social organizations.</p><p>Western contact triggered profound cultural and economic shifts, such as the adoption of "big man" leadership models and economic hyperinflation caused by the mass introduction of shell-based currency. These historical encounters are documented in the book *First Contact: New Guinea's Highlanders Encounter the Outside World*.</p><p><img src="https://substackcdn.com/image/fetch/$s_!MbM7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc625b66f-1256-4500-b297-af3497ae2087_1258x1156.png" /></p><hr/><small>15 Sep 2026, 10:49 UTC | #21159</small>]]></content>
+  </entry>
   <entry>
     <title>12 Distinct 4x4 Sudoku Solutions</title>
     <link href="https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/" rel="alternate" />
@@ -167,14 +176,5 @@
     <updated>2026-09-10T16:14:00+00:00</updated>
     <media:thumbnail url="https://nextbigtechnology.com/wp-content/uploads/2025/12/software-development-methodologies.jpeg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://graybeard.ing/software-drives-people-insane/">graybeard.ing</a> | <a href="https://news.ycombinator.com/item?id=49646181">hacker news</a></small></p><hr/><p>The unique characteristics of software development—including high velocity, low physical friction for changes, and complex abstractions—often cause developers and managers to lose a sense of proportion. Because digital changes lack the visible costs of physical construction, they frequently accumulate hidden architectural and cognitive debt, triggering an unhealthy sense of urgency and a cycle of unnecessary iteration.</p><p>Complexity often serves to provide psychological rewards and social status, imbuing mundane tasks with a false sense of importance. An industry-wide obsession with velocity and continuous "pivoting" discourages the practice of leaving stable systems alone, ultimately leading to a state of permanent, unnecessary mutation.</p><p><img src="https://nextbigtechnology.com/wp-content/uploads/2025/12/software-development-methodologies.jpeg" /></p><hr/><small>10 Sep 2026, 20:19 UTC | #20758</small>]]></content>
-  </entry>
-  <entry>
-    <title>Bevy Community Faces Internal Tension Over New AI Usage Policy</title>
-    <link href="https://blog.fallible.net/it-breaks-a-village/" rel="alternate" />
-    <id>https://blog.fallible.net/it-breaks-a-village/::v238</id>
-    <published>2026-09-10T10:39:00+00:00</published>
-    <updated>2026-09-10T10:39:00+00:00</updated>
-    <media:thumbnail url="https://briansunter.com/og/projects/bevy-agent-b7da1377.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.fallible.net/it-breaks-a-village/">blog.fallible.net</a> | <a href="https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday">discussion</a></small></p><hr/><p>Recent changes to the Bevy game engine's AI usage policy have triggered social and cultural fragmentation within its community. While the engine has achieved significant technical milestones, the shift toward a more permissive LLM policy has resulted in a loss of trust in governance and a perceived influx of low-effort, AI-generated content in community sharing channels.</p><p>Tension has escalated between LLM enthusiasts and contributors who prioritize human-driven creative labor, leading to the emergence of "AI-sober" alternative spaces. The author argues that disruptive behavior and the inability to moderate "dunking" have caused a "ratchet effect," where the exodus of original community members leaves behind a space dominated by increasingly caustic norms.</p><p><img src="https://briansunter.com/og/projects/bevy-agent-b7da1377.png" /></p><hr/><small>10 Sep 2026, 14:10 UTC | #20705</small>]]></content>
   </entry>
 </feed>
