@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-15T14:43:00+00:00</updated>
+  <updated>2026-09-15T19:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Bulkhead CEO Discusses Studio's Hiring Stance on Crunch Culture</title>
+    <link href="https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media::v239</id>
+    <published>2026-09-15T19:50:00+00:00</published>
+    <updated>2026-09-15T19:50:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/GBPKjljWAAA4_fo.jpg" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media">gamedeveloper.com</a> | <a href="https://www.thegamebusiness.com/p/the-shooter-that-tencent-abandoned">source</a></small></p><hr/><p>Bulkhead CEO Joe Brammer has stated that the studio's hiring process includes reviewing social media accounts, noting that candidates who are vocal against crunch culture are often not hired. Brammer described the studio's environment as one centered on high-intensity work and expected overtime.</p><p>To compensate for intensive work periods, the studio provides financial incentives such as bonuses and shares, which Brammer claims can result in life-changing wealth for long-term employees. These comments come as the studio continues to navigate a culture of high-intensity work and periodic layoffs, having reduced its workforce by approximately 20 percent annually over the last six years.</p><p><img src="https://pbs.twimg.com/media/GBPKjljWAAA4_fo.jpg" /></p><hr/><small>15 Sep 2026, 23:17 UTC | #21219</small>]]></content>
+  </entry>
   <entry>
     <title>Superpose Launches AI-Powered Posing Guide for iOS</title>
     <link href="https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/" rel="alternate" />
