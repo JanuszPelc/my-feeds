@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-15T19:35:00+00:00</updated>
+  <updated>2026-09-15T19:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Capsule Enables Single-File Portable Web Apps Using HTML and SQLite</title>
+    <link href="https://withcapsule.app/" rel="alternate" />
+    <id>https://withcapsule.app/::v239</id>
+    <published>2026-09-15T19:40:00+00:00</published>
+    <updated>2026-09-15T19:40:00+00:00</updated>
+    <media:thumbnail url="https://1.bp.blogspot.com/-50CVMsVUqsI/U3vgcsJjJeI/AAAAAAAAACw/bCcrJVp4WBw/s1600/i5.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://withcapsule.app/">withcapsule.app</a> | <a href="https://news.ycombinator.com/item?id=49712278">hacker news</a></small></p><hr/><p>Capsule bundles a user interface, media assets, and a local SQLite database into a single, portable `.capsule` file. These self-contained containers allow for offline-first application usage and can be shared via standard file-transfer methods like email or AirDrop without the need for cloud accounts or internet connectivity.</p><p>Desktop support is available for macOS, Windows, and Linux, with iOS and Android compatibility in development. Users can construct or iterate on applications using direct AI prompts or MCP coding tools to modify features and schemas on the fly.</p><p><img src="https://1.bp.blogspot.com/-50CVMsVUqsI/U3vgcsJjJeI/AAAAAAAAACw/bCcrJVp4WBw/s1600/i5.png" /></p><hr/><small>15 Sep 2026, 22:20 UTC | #21240</small>]]></content>
+  </entry>
   <entry>
     <title>Internet Archive Addresses Wayback Machine Access Issues</title>
     <link href="https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/" rel="alternate" />
