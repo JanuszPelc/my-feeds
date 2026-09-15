@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-14T18:03:00+00:00</updated>
+  <updated>2026-09-14T18:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Apple Releases iOS 27 with Siri AI Overhaul</title>
+    <link href="https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update" rel="alternate" />
+    <id>https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update::v239</id>
+    <published>2026-09-14T18:34:00+00:00</published>
+    <updated>2026-09-14T18:34:00+00:00</updated>
+    <media:thumbnail url="https://static.tweaktown.com/news/1/1/110694_165561156_apple-plans-to-open-up-siri-rival-ai-assistants-in-ios-27-update_full.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update">theverge.com</a> | <a href="https://www.apple.com/os/ios/">source</a> | <a href="https://news.ycombinator.com/item?id=49700193">hacker news</a></small></p><hr/><p>Apple has begun rolling out iOS 27 alongside updates for iPadOS, watchOS, and visionOS. The primary feature of this release is a major AI-powered overhaul of Siri, which is currently available in beta for English-language devices, with support for several other languages expected to arrive in October.</p><p>Additional iOS 27 features include a Liquid Glass opacity slider for UI customization, updated icon designs, and new widget sizes. Other platform updates include Workout Buddy features for Apple Watch, faster external drive file transfers for iPad, and the ability to transform panoramas into immersive environments on visionOS.</p><p><img src="https://static.tweaktown.com/news/1/1/110694_165561156_apple-plans-to-open-up-siri-rival-ai-assistants-in-ios-27-update_full.jpg" /></p><hr/><small>15 Sep 2026, 00:18 UTC | #21102</small>]]></content>
+  </entry>
   <entry>
     <title>Andon Labs Releases Pion Autonomous Business Agent Platform</title>
     <link href="https://andonlabs.com/blog/why-we-built-pion" rel="alternate" />
