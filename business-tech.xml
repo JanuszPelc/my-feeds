@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T11:27:00+00:00</updated>
+  <updated>2026-09-15T12:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Air Force Secretary Confirms Deployment of Space Weapons</title>
+    <link href="https://www.bbc.com/news/articles/ck790xg41ygro" rel="alternate" />
+    <id>https://www.bbc.com/news/articles/ck790xg41ygro::v239</id>
+    <published>2026-09-15T12:40:00+00:00</published>
+    <updated>2026-09-15T12:40:00+00:00</updated>
+    <media:thumbnail url="https://www.spacefoundation.org/wp-content/uploads/2026/04/7P6A7695-scaled-e1776271946777.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.bbc.com/news/articles/ck790xg41ygro">bbc.com</a> | <a href="https://www.spaceforce.mil/News/Article-Display/Article/4601219/secaf-announces-on-orbit-space-control-weapons/">source</a> | <a href="https://news.ycombinator.com/item?id=49707473">hacker news</a></small></p><hr/><p>US Secretary of the Air Force Troy Meink has acknowledged the presence of "on-orbit space control weapons" designed to protect American forces from hostile actions in Earth's orbit. This statement marks the first time the United States has officially confirmed the deployment of such weaponry in space.</p><p>The disclosure follows increased scrutiny of military programs in Russia and China designed to disrupt satellite-based communication and navigation. While the specific technical capabilities and deployment timelines of these weapons remain undisclosed, military experts suggest the systems could involve electronic warfare platforms or kinetic interceptors. China has responded to the news by warning against a potential arms race in outer space.</p><p><img src="https://www.spacefoundation.org/wp-content/uploads/2026/04/7P6A7695-scaled-e1776271946777.jpg" /></p><hr/><small>15 Sep 2026, 16:14 UTC | #21207</small>]]></content>
+  </entry>
   <entry>
     <title>Bruce Schneier and Cindy Cohn Analyze the Evolution of Mass Surveillance</title>
     <link href="https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html" rel="alternate" />
