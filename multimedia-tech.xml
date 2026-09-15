@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-14T18:37:00+00:00</updated>
+  <updated>2026-09-15T14:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Superpose Launches AI-Powered Posing Guide for iOS</title>
+    <link href="https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/::v239</id>
+    <published>2026-09-15T14:43:00+00:00</published>
+    <updated>2026-09-15T14:43:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/PressKit_Superpose_Mobile.jpeg?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/">techcrunch.com</a> | <a href="https://www.superposelabs.ai/">source</a></small></p><hr/><p>Developed by former TikTok employees Melody Chu and Jing Liu, the iOS app Superpose uses generative AI to provide real-time posing guidance for photography. The application analyzes a user's photo or selfie to generate four AI-driven pose suggestions, allowing users to align themselves with those suggestions via a "match-pose" feature.</p><p>The startup has secured $2.2 million in funding from Khosla Ventures, Meitu, and OVTR VC. While many AI-driven photography tools focus on generating artificial backgrounds or fantastical environments, Superpose aims to improve natural portraiture by coaching users during the actual moment of capture.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/PressKit_Superpose_Mobile.jpeg?w=680" /></p><hr/><small>15 Sep 2026, 19:50 UTC | #21197</small>]]></content>
+  </entry>
   <entry>
     <title>Steam Frame VR Headset Pricing and Reservation Details Revealed</title>
     <link href="https://www.theshortcut.com/p/steam-frame-price-pre-order-and-release-date-revealed-and-you-can-reserve-yours-now" rel="alternate" />
@@ -95,14 +104,5 @@
     <updated>2026-09-11T02:48:00+00:00</updated>
     <media:thumbnail url="https://s3.amazonaws.com/www-itopvpn-com/blog/20251209/1765264794479435.png" />
     <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/pc/report-steam-now-requires-australian-users-to-verify-their-age-with-credit-cards">gamedeveloper.com</a></small></p><hr/><p>Steam now requires Australian users to verify their age using a valid Australian credit card to access R18+ rated games. This requirement is a response to the Age-Restricted Material App Distribution Services Code, which mandates age verification for mature-rated content and websites in Australia.</p><p>The implementation has faced criticism from users who report a lack of alternative verification methods, such as government IDs, passports, or PayPal. This has raised concerns that adults who rely solely on debit cards may be unable to access mature content on the platform.</p><p><img src="https://s3.amazonaws.com/www-itopvpn-com/blog/20251209/1765264794479435.png" /></p><hr/><small>11 Sep 2026, 08:12 UTC | #20799</small>]]></content>
-  </entry>
-  <entry>
-    <title>Xbox to Publish Kojima Productions' Physint After PlayStation Exit</title>
-    <link href="https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project" rel="alternate" />
-    <id>https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project::v238</id>
-    <published>2026-09-10T19:36:00+00:00</published>
-    <updated>2026-09-10T19:36:00+00:00</updated>
-    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt3a588ae5d1222998/6aa2d0d730e74303430a3414/New_Project(37).png?width=720&amp;quality=80&amp;disable=upscale" />
-    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project">gamedeveloper.com</a> | <a href="https://news.xbox.com/en-us/2026/09/09/xbox-and-kojima-productions-expand-partnership-to-publish-physint/">source</a></small></p><hr/><p>The espionage game Physint will be published by Xbox after PlayStation Studios rescinded its partnership with Kojima Productions. This new agreement also includes expanded collaboration across film and television to reach broader audiences.</p><p>Hideo Kojima sought a new partner for three months after receiving notice from PlayStation to cancel the project. Through this expanded partnership, Xbox will also support the studio's upcoming project, OD - Knock.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt3a588ae5d1222998/6aa2d0d730e74303430a3414/New_Project(37).png?width=720&quality=80&disable=upscale" /></p><hr/><small>11 Sep 2026, 00:53 UTC | #20755</small>]]></content>
   </entry>
 </feed>

@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T13:20:00+00:00</updated>
+  <updated>2026-09-15T14:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>TechCrunch Disrupt 2026 to Host Session on Scaling Prototypes to Production</title>
+    <link href="https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/::v239</id>
+    <published>2026-09-15T14:31:00+00:00</published>
+    <updated>2026-09-15T14:31:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-MacNeil-Sofman-Mackey-16x9-Dark.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/">techcrunch.com</a> | <a href="https://techcrunch.com/events/techcrunch-disrupt/">source</a></small></p><hr/><p>The "From Prototype to Production: Can It Scale in Reality?" session at TechCrunch Disrupt 2026 addresses the transition from experimental prototypes to reliable, large-scale deployment. Speakers John Mackey (MBRYONICS), Boris Sofman (Bedrock Robotics), and Adrian Macneil (Foxglove) will discuss scaling challenges regarding manufacturing, infrastructure, and reliability in space communications and autonomous systems.</p><p>The session is part of the Real World AI Stage at the conference, held October 13–15 at Moscone West in San Francisco. TechCrunch Disrupt 2026 brings together over 10,000 founders, investors, and operators to explore the intersection of digital and physical AI technologies.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-MacNeil-Sofman-Mackey-16x9-Dark.png?w=680" /></p><hr/><small>15 Sep 2026, 19:49 UTC | #21192</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple Bundles Apple TV and Apple Arcade with iCloud+ in Select Countries</title>
+    <link href="https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/" rel="alternate" />
+    <id>https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/::v239</id>
+    <published>2026-09-15T14:07:00+00:00</published>
+    <updated>2026-09-15T14:07:00+00:00</updated>
+    <media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-apple-arcade-icloud-plan.jpg?quality=82&amp;strip=all&amp;w=1600" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/">9to5mac.com</a> | <a href="https://www.apple.com/mz/newsroom/2026/09/icloud-plus-expands-to-include-apple-tv-and-apple-arcade/">source</a></small></p><hr/><p>Apple is including Apple TV and Apple Arcade subscriptions in iCloud+ plans at no extra cost in more than 100 countries. This expansion applies even to the 50 GB entry-level tier and is rolling out gradually through September 2026. The move aims to drive service growth in price-sensitive and smaller international markets.</p><p>Some markets will also receive an "Apple Music Select" tier, offering ad-free radio stations and a discounted upgrade path to full Apple Music plans. Additionally, Apple TV is expanding its reach to 59 new countries as part of this rollout, bringing its total availability to 170 countries.</p><p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-apple-arcade-icloud-plan.jpg?quality=82&strip=all&w=1600" /></p><hr/><small>15 Sep 2026, 19:47 UTC | #21178</small>]]></content>
+  </entry>
   <entry>
     <title>Bohemia Interactive Acquires Minority Stake in Enjoy Studio</title>
     <link href="https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio" rel="alternate" />
@@ -964,14 +982,5 @@
     <updated>2026-09-10T21:36:00+00:00</updated>
     <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?w=680" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/">techcrunch.com</a> | <a href="https://techcrunch.com/events/techcrunch-disrupt/">source</a></small></p><hr/><p>Mark Wahlberg will join Bruce K. Lee, CEO of Keebeck Wealth Management, for a fireside chat at TechCrunch Disrupt 2026. The session will focus on Wahlberg's evolution from acting to business entrepreneurship and his shift toward institutional-level investing, specifically within the healthcare and wellness sectors.</p><p>The discussion will explore how Wahlberg leverages cultural capital to drive deal flow and the transition from intuitive entrepreneurial instincts to disciplined investment strategies. The event is scheduled for October 13-15 at San Francisco's Moscone West.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?w=680" /></p><hr/><small>11 Sep 2026, 02:37 UTC | #20768</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Accuses Chinese AI Firms of Large-Scale Model Distillation</title>
-    <link href="https://www.wsj.com/tech/ai/chinese-ai-giants-accused-of-sending-millions-of-user-queries-to-u-s-models-768c9d26?st=mTqmU6&amp;reflink=article_copyURL_share" rel="alternate" />
-    <id>https://www.wsj.com/tech/ai/chinese-ai-giants-accused-of-sending-millions-of-user-queries-to-u-s-models-768c9d26?st=mTqmU6&amp;reflink=article_copyURL_share::v238</id>
-    <published>2026-09-10T19:38:00+00:00</published>
-    <updated>2026-09-10T19:38:00+00:00</updated>
-    <media:thumbnail url="https://sqmagazine.co.uk/wp-content/uploads/2026/02/anthropic-reports-ai-distillation-attacks-on-claude-ai-780x439.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/chinese-ai-giants-accused-of-sending-millions-of-user-queries-to-u-s-models-768c9d26?st=mTqmU6&reflink=article_copyURL_share">wsj.com</a> | <a href="https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks">source</a></small></p><hr/><p>Anthropic has identified large-scale "distillation" attacks by Chinese AI companies, including DeepSeek, Moonshot, and MiniMax, designed to clone its Claude models. The company reports that these firms used roughly 24,000 fraudulent accounts to funnel 16 million user queries through "transfer stations" located outside China to avoid detection and capture model reasoning capabilities.</p><p>Model distillation involves using the outputs of a high-performing AI to train a competitor's system, effectively transferring intellectual property through high-volume querying. These findings highlight the difficulty of protecting proprietary AI intelligence from sophisticated, industrial-scale extraction attempts.</p><p><img src="https://sqmagazine.co.uk/wp-content/uploads/2026/02/anthropic-reports-ai-distillation-attacks-on-claude-ai-780x439.jpg" /></p><hr/><small>11 Sep 2026, 01:11 UTC | #20778</small>]]></content>
   </entry>
 </feed>
