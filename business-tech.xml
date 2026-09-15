@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T20:46:00+00:00</updated>
+  <updated>2026-09-14T20:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI Collapses Software Development Costs, Shifting Focus to Product Engineering</title>
+    <link href="https://seldo.com/posts/we-are-all-product-engineers-now/" rel="alternate" />
+    <id>https://seldo.com/posts/we-are-all-product-engineers-now/::v239</id>
+    <published>2026-09-14T20:50:00+00:00</published>
+    <updated>2026-09-14T20:50:00+00:00</updated>
+    <media:thumbnail url="https://www.nitorinfotech.com/wp-content/uploads/2025/11/human-ai-collaboration-in-spec-driven-product-development-1024x860.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://seldo.com/posts/we-are-all-product-engineers-now/">seldo.com</a> | <a href="https://lobste.rs/s/agbpkq/we_are_all_product_engineers_now">discussion</a></small></p><hr/><p>AI is rapidly reducing the cost of the software development lifecycle, from code generation to maintenance and deployment. As agents increasingly automate these technical tasks, the focus of software engineering is shifting from manual coding toward "product engineering"—the process of defining user needs, determining what to build, and ensuring user delight.</p><p>While automation may displace junior roles centered on codified knowledge, the demand for software remains virtually infinite. This creates a new bottleneck at the requirement-definition stage, suggesting that the most durable skill for developers in the coming decade will be "product sense"—the ability to translate vague human desires into precise, usable software.</p><p><img src="https://www.nitorinfotech.com/wp-content/uploads/2025/11/human-ai-collaboration-in-spec-driven-product-development-1024x860.webp" /></p><hr/><small>15 Sep 2026, 02:43 UTC | #21135</small>]]></content>
+  </entry>
   <entry>
     <title>Speaker Johnson Explores Congressional Role in AI Regulation</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-14/house-speaker-risks-trump-ire-on-any-ai-guardrail-legislation" rel="alternate" />
