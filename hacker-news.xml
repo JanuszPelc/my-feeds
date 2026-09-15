@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-15T09:07:00+00:00</updated>
+  <updated>2026-09-15T09:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Linux From Scratch Project Overview</title>
+    <link href="https://www.linuxfromscratch.org/" rel="alternate" />
+    <id>https://www.linuxfromscratch.org/::v239</id>
+    <published>2026-09-15T09:09:00+00:00</published>
+    <updated>2026-09-15T09:09:00+00:00</updated>
+    <media:thumbnail url="https://www.linux.se/wp-content/uploads/2026/03/image-14.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.linuxfromscratch.org/">linuxfromscratch.org</a> | <a href="https://news.ycombinator.com/item?id=49707627">hacker news</a></small></p><hr/><p>Linux From Scratch (LFS) provides step-by-step instructions for building a custom Linux system entirely from source code. This foundational project supports various subprojects designed to automate builds, provide 32-bit support, or extend the system with additional software.</p><p>Specialized modules include Beyond Linux From Scratch (BLFS) for system expansion and Gaming Linux From Scratch (GLFS) for installing gaming software. The organization also maintains a repository of patches and a museum containing historical versions of the LFS and BLFS books.</p><p><img src="https://www.linux.se/wp-content/uploads/2026/03/image-14.png" /></p><hr/><small>15 Sep 2026, 12:56 UTC | #21180</small>]]></content>
+  </entry>
   <entry>
     <title>GNU Coreutils Rejected Feature Requests</title>
     <link href="https://www.gnu.org/software/coreutils/rejected_requests.html" rel="alternate" />
