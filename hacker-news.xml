@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-15T09:09:00+00:00</updated>
+  <updated>2026-09-15T09:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Noble Audio FoKus Artemis Review</title>
+    <link href="https://musictech.com/reviews/studio-recording-gear/noble-audio-fokus-artemis-review/" rel="alternate" />
+    <id>https://musictech.com/reviews/studio-recording-gear/noble-audio-fokus-artemis-review/::v239</id>
+    <published>2026-09-15T09:11:00+00:00</published>
+    <updated>2026-09-15T09:11:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Noble-Audio-FoKus-Artemis-hero-credit-press@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/reviews/studio-recording-gear/noble-audio-fokus-artemis-review/">musictech.com</a> | <a href="https://nobleaudio.com/products/artemis">source</a></small></p><hr/><p>The FoKus Artemis is a flagship wireless over-ear headphone from Noble Audio that utilizes a triple-driver hybrid system. It combines a 40mm dynamic driver, a 14.5mm planar magnetic driver, and a balanced-armature tweeter to handle different frequency ranges. The device supports high-resolution codecs including LDAC and aptX Lossless, and features active noise cancellation and Bluetooth 6.0.</p><p>The headphones include user-replaceable batteries, swappable magnetic cushions, and IP52 dust and water resistance. The audio profile is characterized by a wide soundstage and high technical accuracy, prioritizing clarity over heavy bass reinforcement. It also integrates Audiodo Personal Sound technology for customized hearing profiles via a dedicated app.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Noble-Audio-FoKus-Artemis-hero-credit-press@2000x1500.jpg" /></p><hr/><small>15 Sep 2026, 13:10 UTC | #21143</small>]]></content>
+  </entry>
   <entry>
     <title>Linux From Scratch Project Overview</title>
     <link href="https://www.linuxfromscratch.org/" rel="alternate" />
