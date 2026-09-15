@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-15T13:24:00+00:00</updated>
+  <updated>2026-09-15T19:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>TypeSafe AI Launches System One Models and Jev</title>
+    <link href="https://typesafe.ai/blog/introducing-system-one-models-and-jev" rel="alternate" />
+    <id>https://typesafe.ai/blog/introducing-system-one-models-and-jev::v239</id>
+    <published>2026-09-15T19:26:00+00:00</published>
+    <updated>2026-09-15T19:26:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">typesafe.ai</a> | <a href="https://news.ycombinator.com/item?id=49717558">hacker news</a></small></p><hr/><p>TypeSafe AI has introduced its "System One" models, starting with the early access release of Jev. Unlike traditional large language models optimized for conversational chat, Jev is built for high-speed, structured decision-making intended for direct software integration. The model utilizes a new architecture and a training method called Reinforcement Learning for Calibrated Decisions (RLCD) to provide type-safe, probabilistic outputs that eliminate the risk of string-based hallucinations.</p><p>Jev is designed to be significantly faster and more cost-effective than existing frontier LLMs, achieving end-to-end response times between 70ms and 500ms. By replacing sequential token generation with parallel sampling, the model provides calibrated confidence scores and structured values, making it suitable for real-time automated workflows, data processing, and embedding intelligence into programmatic logic.</p><hr/><small>15 Sep 2026, 20:58 UTC | #21233</small>]]></content>
+  </entry>
   <entry>
     <title>Agility Robotics Unveils Digit 5 Humanoid Robot</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-15/agility-robotics-unveils-humanoid-designed-to-work-safely-alongside-humans" rel="alternate" />
@@ -248,23 +256,5 @@
     <updated>2026-09-11T06:24:00+00:00</updated>
     <media:thumbnail url="https://runtimewire.com/og/codex-leak-labels-openai-astra-gpt-6-aeon.16x9.jpg?v=og2-bm57g3" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lucumr.pocoo.org/2026/9/7/astra-why/">lucumr.pocoo.org</a> | <a href="https://news.ycombinator.com/item?id=49654229">hacker news</a></small></p><hr/><p>GPT-6 Astra produces unreadable and inefficient code when applied to software engineering tasks. In attempts to automate development workflows, the model generated significant amounts of "slop" and utilized excessively complex, nested tool calls—such as using Python to invoke Node.js—instead of standard shell commands or patching tools.</p><p>This behavior suggests a training bias that rewards the completion of long-horizon goals while failing to penalize poor code quality. Consequently, the model frequently ignores standard indentation and relies on convoluted Python string manipulation to perform simple file edits.</p><p><img src="https://runtimewire.com/og/codex-leak-labels-openai-astra-gpt-6-aeon.16x9.jpg?v=og2-bm57g3" /></p><hr/><small>11 Sep 2026, 09:25 UTC | #20806</small>]]></content>
-  </entry>
-  <entry>
-    <title>OpenAI Pauses Pro Subscriptions Due to Astra Demand</title>
-    <link href="https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/::v238</id>
-    <published>2026-09-10T21:00:00+00:00</published>
-    <updated>2026-09-10T21:00:00+00:00</updated>
-    <media:thumbnail url="https://wpimg-wscn.awtmt.com/1f5da0af-b16f-412d-b171-3318cb6d5e11.png" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/">techcrunch.com</a> | <a href="https://x.com/thsottiaux/status/2098113585683808624">source</a> | <a href="https://news.ycombinator.com/item?id=49651075">hacker news</a></small></p><hr/><p>OpenAI has temporarily suspended new sign-ups for its $200-per-month Pro subscription tier following unprecedented demand for its Astra model. The company cited significant infrastructure strain caused by the surge in users, noting that the move is necessary to maintain service stability for current subscribers.</p><p>The decision, announced by product leader Thibault Sottiaux, aims to prioritize service quality for existing Pro members. Other service levels, including the API and lower-cost Plus and Go plans, remain available to new users.</p><p><img src="https://wpimg-wscn.awtmt.com/1f5da0af-b16f-412d-b171-3318cb6d5e11.png" /></p><hr/><small>11 Sep 2026, 02:12 UTC | #20764</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Reports Large-Scale AI Distillation Campaigns by Chinese Companies</title>
-    <link href="https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/::v238</id>
-    <published>2026-09-10T20:58:00+00:00</published>
-    <updated>2026-09-10T20:58:00+00:00</updated>
-    <media:thumbnail url="https://img.bgo.one/news-image/ai_generated/2026-02/202602241823_Anthropic-accuses-chinese-ai-labs-of-distillation-attack_20260225_023047.jpg" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/">techcrunch.com</a> | <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">source</a> | <a href="https://news.ycombinator.com/item?id=49647300">hacker news</a></small></p><hr/><p>Anthropic's September 2026 threat intelligence report identifies significant distillation attacks carried out by Chinese AI firms, including Alibaba, Moonshot AI, and DeepSeek. These campaigns sought to extract Claude's "chain of thought" reasoning through approximately 200 million exchanges to train smaller, specialized models.</p><p>The Alibaba-linked campaign was the largest, accounting for 151 million exchanges targeted at producing training data for the Qwen model family. Anthropic also documented a Moonshot AI campaign involving requests for surveillance analysis, which the company suggested may be linked to the Chinese military.</p><p><img src="https://img.bgo.one/news-image/ai_generated/2026-02/202602241823_Anthropic-accuses-chinese-ai-labs-of-distillation-attack_20260225_023047.jpg" /></p><hr/><small>11 Sep 2026, 02:10 UTC | #20762</small>]]></content>
   </entry>
 </feed>
