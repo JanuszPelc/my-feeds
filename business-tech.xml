@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T21:53:00+00:00</updated>
+  <updated>2026-09-15T09:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>CSS-Tricks Faces Uncertainty Under DigitalOcean Ownership</title>
+    <link href="https://vale.rocks/micros/20260915-0135" rel="alternate" />
+    <id>https://vale.rocks/micros/20260915-0135::v239</id>
+    <published>2026-09-15T09:16:00+00:00</published>
+    <updated>2026-09-15T09:16:00+00:00</updated>
+    <media:thumbnail url="https://cdn.hostadvice.com/2022/03/03-18-2022---cloud-hosting-provider-digitalocean-acquires-learning-website-css-tricks-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vale.rocks/micros/20260915-0135">vale.rocks</a> | <a href="https://lobste.rs/s/lgcmoo/css_tricks_limbo">discussion</a> | <a href="https://news.ycombinator.com/item?id=49708993">hacker news</a></small></p><hr/><p>The web development publication CSS-Tricks has entered another period of inactivity under its owner, DigitalOcean. Following a hiatus in 2023, the site was revitalized in mid-2024 under lead editor Geoff Graham, but it currently remains silent with no communication regarding its future.</p><p>This silence coincides with DigitalOcean’s $3 million pledge to the Omarchy project and the end of its monthly donations to GNOME and Flathub. This shift reflects a redirection of resources toward the Omarchy project, led by David Heinemeier Hansson, rather than toward CSS-Tricks or existing open-source infrastructure.</p><p><img src="https://cdn.hostadvice.com/2022/03/03-18-2022---cloud-hosting-provider-digitalocean-acquires-learning-website-css-tricks-1.png" /></p><hr/><small>15 Sep 2026, 14:03 UTC | #21188</small>]]></content>
+  </entry>
   <entry>
     <title>Donald Trump and Sam Altman Meet Privately at GOP Convention to Discuss AI</title>
     <link href="https://www.ms.now/news/trump-ai-altman-openai-dario-amodei-anthropic-regulations" rel="alternate" />

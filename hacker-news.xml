@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-15T09:14:00+00:00</updated>
+  <updated>2026-09-15T10:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ProRail Investigates Suspected Sabotage Linked to Major Dutch Rail Disruptions</title>
+    <link href="https://www.bbc.com/news/articles/c8ly49w9g1edo" rel="alternate" />
+    <id>https://www.bbc.com/news/articles/c8ly49w9g1edo::v239</id>
+    <published>2026-09-15T10:23:00+00:00</published>
+    <updated>2026-09-15T10:23:00+00:00</updated>
+    <media:thumbnail url="https://static01.nyt.com/images/2025/12/03/multimedia/03hybrid-attacks-01-lzhb/03hybrid-attacks-01-lzhb-superJumbo.jpg?quality=75&amp;auto=webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.bbc.com/news/articles/c8ly49w9g1edo">bbc.com</a> | <a href="https://www.prorail.nl/nieuws/sectiestoring-veroorzaakt-grote-hinder-voor-treinverkeer-in-midden--en-noord-nederland">source</a> | <a href="https://news.ycombinator.com/item?id=49710253">hacker news</a></small></p><hr/><p>ProRail, the Dutch railway infrastructure operator, has reported suspected sabotage following widespread rail disruptions across the central and northern Netherlands. Deliberately placed objects, including pipes and cables, were discovered at approximately 30 locations, causing significant delays and cancellations on routes serving Amsterdam, Utrecht, and Eindhoven.</p><p>The Dutch police, the national public prosecutor's office, and the intelligence agency AIVD are conducting a criminal investigation into the incidents. While the Farmers Defence Force (FDF) suggested that individuals might be involved in localized protests occurring on the same day as the national budget presentation (Prinsjesdag), authorities have not yet established a direct link between the protests and the rail disruption.</p><p><img src="https://static01.nyt.com/images/2025/12/03/multimedia/03hybrid-attacks-01-lzhb/03hybrid-attacks-01-lzhb-superJumbo.jpg?quality=75&auto=webp" /></p><hr/><small>15 Sep 2026, 14:08 UTC | #21187</small>]]></content>
+  </entry>
   <entry>
     <title>GDScript Features and Limitations Analyzed</title>
     <link href="https://azhdarchid.com/gdscript-good-bad-ugly/" rel="alternate" />
