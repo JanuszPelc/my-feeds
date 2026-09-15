@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-15T10:23:00+00:00</updated>
+  <updated>2026-09-15T12:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Fugleramme E-ink Frame Renders Detected Birds as 1800s Illustrations</title>
+    <link href="https://github.com/arnegiacomo/fugleramme" rel="alternate" />
+    <id>https://github.com/arnegiacomo/fugleramme::v239</id>
+    <published>2026-09-15T12:32:00+00:00</published>
+    <updated>2026-09-15T12:32:00+00:00</updated>
+    <media:thumbnail url="https://github.com/arnegiacomo/fugleramme/raw/main/docs/assets/hero.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/arnegiacomo/fugleramme">github.com</a> | <a href="https://news.ycombinator.com/item?id=49711544">hacker news</a></small></p><hr/><p>Fugleramme is an open-source Raspberry Pi project that uses real-time audio to detect bird species and displays them on an e-ink screen. It utilizes BirdNET-Go for local AI classification and matches the detected birds to curated, hand-cut 1800s-style naturalist illustrations.</p><p>The hardware setup typically requires a Raspberry Pi 5, an Inky Impression e-ink panel, and a microphone. Beyond the physical frame, the software can also function as a web-based kiosk. The project features over 800 illustrations from public-domain historical plates, covering hundreds of species.</p><p><img src="https://github.com/arnegiacomo/fugleramme/raw/main/docs/assets/hero.jpg" /></p><hr/><small>15 Sep 2026, 15:01 UTC | #21196</small>]]></content>
+  </entry>
   <entry>
     <title>ProRail Investigates Suspected Sabotage Linked to Major Dutch Rail Disruptions</title>
     <link href="https://www.bbc.com/news/articles/c8ly49w9g1edo" rel="alternate" />

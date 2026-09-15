@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-15T09:12:00+00:00</updated>
+  <updated>2026-09-15T11:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>BandLab Updates Mastering with Intensity Controls and New Presets</title>
+    <link href="https://musictech.com/news/music/bandlabs-mastering-capabilities-just-got-an-upgrade-heres-whats-new/" rel="alternate" />
+    <id>https://musictech.com/news/music/bandlabs-mastering-capabilities-just-got-an-upgrade-heres-whats-new/::v239</id>
+    <published>2026-09-15T11:30:00+00:00</published>
+    <updated>2026-09-15T11:30:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/BandLab-Mastering-hero@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/music/bandlabs-mastering-capabilities-just-got-an-upgrade-heres-whats-new/">musictech.com</a> | <a href="https://blog.bandlab.com/bandlab-mastering-preset-intensity-controls/">source</a></small></p><hr/><p>BandLab has updated its mastering capabilities to allow producers to adjust preset intensity across 11 levels. The update introduces four new Member-exclusive presets—Natural, Cinematic, Spatial, and Punch—created in collaboration with Grammy-winning engineers Mandy Parnell, Mike Tucci, and Maria Elisa Ayerbe.</p><p>Max-tier subscribers now have access to a three-band Mastering EQ for adjusting low, mid, and high frequencies before exporting tracks. These improvements aim to offer more granular control while maintaining the DAW's accessible, automated mastering workflow.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/BandLab-Mastering-hero@2000x1500.jpg" /></p><hr/><small>15 Sep 2026, 14:58 UTC | #21155</small>]]></content>
+  </entry>
+  <entry>
+    <title>Arturia Releases AudioFuse Studio Rev2 Audio Interface</title>
+    <link href="https://www.kvraudio.com/news/arturia-releases-audiofuse-studio-rev2---optimized-discretepro-preamps-and-upgraded-bluetooth-68560?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68560" rel="alternate" />
+    <id>https://www.kvraudio.com/news/arturia-releases-audiofuse-studio-rev2---optimized-discretepro-preamps-and-upgraded-bluetooth-68560?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68560::v239</id>
+    <published>2026-09-15T11:29:00+00:00</published>
+    <updated>2026-09-15T11:29:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/in-studio.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/arturia-releases-audiofuse-studio-rev2---optimized-discretepro-preamps-and-upgraded-bluetooth-68560?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68560">kvraudio.com</a> | <a href="https://www.arturia.com/products/audio/audiofuse-studio/overview">source</a></small></p><hr/><p>Arturia has released the AudioFuse Studio Rev2, an updated 18-in / 20-out desktop USB-C audio interface. The hardware revision features improved DiscretePro preamps with increased headroom and up to 78 dB of gain, alongside an upgraded Bluetooth receiver supporting AAC, aptX, aptX HD, and aptX Low Latency.</p><p>The interface supports 24-bit / 192 kHz recording and includes analog inserts on channels 1–4, an integrated RIAA phono stage, and digital expansion via ADAT and S/PDIF. The launch also includes a free update to the AudioFuse Control Center (version 2.5.0) for all existing AudioFuse users, adding features such as preset import/export and digital speaker monitoring.</p><p><img src="https://static.kvraudio.com/i/b/in-studio.webp" /></p><hr/><small>15 Sep 2026, 14:56 UTC | #21161</small>]]></content>
+  </entry>
+  <entry>
+    <title>Photosounder Updates SplineEQ to v1.3 for Mac and Windows</title>
+    <link href="https://www.kvraudio.com/news/photosounder-updates-splineeq-to-v1-3-for-mac-and-win-68549?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68549" rel="alternate" />
+    <id>https://www.kvraudio.com/news/photosounder-updates-splineeq-to-v1-3-for-mac-and-win-68549?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68549::v239</id>
+    <published>2026-09-15T11:28:00+00:00</published>
+    <updated>2026-09-15T11:28:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot_1446027248.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/photosounder-updates-splineeq-to-v1-3-for-mac-and-win-68549?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68549">kvraudio.com</a> | <a href="https://photosounder.com/splineeq/">source</a></small></p><hr/><p>The v1.3 update for SplineEQ adds an undo feature, support for the CLAP plugin format, and native Apple Silicon compatibility. The release also introduces a web-based version of the software.</p><p>Interface improvements include a resizable window supporting up to 4K resolution and enhanced visualization gradients. Graphical fidelity on Windows has been adjusted for gamma 2.2 screens, and users can now pan the visualization using the middle or right mouse buttons. The upgrade is provided free of charge.</p><p><img src="https://static.kvraudio.com/i/b/screenshot_1446027248.jpg" /></p><hr/><small>15 Sep 2026, 14:54 UTC | #21152</small>]]></content>
+  </entry>
   <entry>
     <title>Nick Hakim Discusses Musical Roots and Studio Gear on My Forever Studio Podcast</title>
     <link href="https://musictech.com/shows/podcasts/my-forever-studio/nick-hakim/" rel="alternate" />
