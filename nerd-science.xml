@@ -159,13 +159,4 @@
     <media:thumbnail url="https://briansunter.com/og/projects/bevy-agent-b7da1377.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.fallible.net/it-breaks-a-village/">blog.fallible.net</a> | <a href="https://lobste.rs/s/k99ryf/it_breaks_village_bevy_s_6th_birthday">discussion</a></small></p><hr/><p>Recent changes to the Bevy game engine's AI usage policy have triggered social and cultural fragmentation within its community. While the engine has achieved significant technical milestones, the shift toward a more permissive LLM policy has resulted in a loss of trust in governance and a perceived influx of low-effort, AI-generated content in community sharing channels.</p><p>Tension has escalated between LLM enthusiasts and contributors who prioritize human-driven creative labor, leading to the emergence of "AI-sober" alternative spaces. The author argues that disruptive behavior and the inability to moderate "dunking" have caused a "ratchet effect," where the exodus of original community members leaves behind a space dominated by increasingly caustic norms.</p><p><img src="https://briansunter.com/og/projects/bevy-agent-b7da1377.png" /></p><hr/><small>10 Sep 2026, 14:10 UTC | #20705</small>]]></content>
   </entry>
-  <entry>
-    <title>Relativity Park Simulator Scales Speed of Light to Walking Pace</title>
-    <link href="https://rivendell.dmitrybrant.com/relativity/" rel="alternate" />
-    <id>https://rivendell.dmitrybrant.com/relativity/::v238</id>
-    <published>2026-09-10T02:04:00+00:00</published>
-    <updated>2026-09-10T02:04:00+00:00</updated>
-    <media:thumbnail url="https://phyfundamentals.org/wp-content/uploads/2026/05/Relativistic-Velocity-Addition-2-1-e1778762899619.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://rivendell.dmitrybrant.com/relativity/">rivendell.dmitrybrant.com</a> | <a href="https://news.ycombinator.com/item?id=49637385">hacker news</a></small></p><hr/><p>An interactive WebGL 2 simulation scales the speed of light to 5 kilometers per hour, making relativistic effects observable at human-scale velocities.</p><p>The tool demonstrates special relativity principles including length contraction, time dilation, and Terrell rotation. It also visualizes the Doppler effect, showing blueshifting of objects ahead, redshifting of objects behind, and transverse Doppler effects during motion.</p><p><img src="https://phyfundamentals.org/wp-content/uploads/2026/05/Relativistic-Velocity-Addition-2-1-e1778762899619.webp" /></p><hr/><small>10 Sep 2026, 09:32 UTC | #20685</small>]]></content>
-  </entry>
 </feed>
