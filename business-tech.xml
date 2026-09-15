@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T19:48:00+00:00</updated>
+  <updated>2026-09-15T19:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Data Centers Projected to Exceed Germany and Japan in Natural Gas Consumption by 2035</title>
+    <link href="https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/::v239</id>
+    <published>2026-09-15T19:52:00+00:00</published>
+    <updated>2026-09-15T19:52:00+00:00</updated>
+    <media:thumbnail url="https://apppack-app-naturalgasintel-prod-publics3bucket-8jv5bxjtvpgq.s3.amazonaws.com/images/US-Data-Centers-and-Natural-Gas-P.width-900.format-webp.webp" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/">techcrunch.com</a></small></p><hr/><p>US data centers are projected to consume approximately 18 billion cubic feet of natural gas per day by 2035, a level that would exceed the combined consumption of Germany and Japan. According to a BloombergNEF report, this demand is driven by both onsite power generation from major tech firms and increased consumption from grid-connected facilities.</p><p>This surge in demand could lead to higher natural gas prices for industrial users and utility ratepayers. Furthermore, the increased consumption is expected to generate an additional 1 million metric tons of daily greenhouse gas emissions, representing roughly 12% of current total U.S. emissions.</p><p><img src="https://apppack-app-naturalgasintel-prod-publics3bucket-8jv5bxjtvpgq.s3.amazonaws.com/images/US-Data-Centers-and-Natural-Gas-P.width-900.format-webp.webp" /></p><hr/><small>15 Sep 2026, 23:34 UTC | #21222</small>]]></content>
+  </entry>
   <entry>
     <title>Israeli Minister Threatens to Strip Citizenship from 'NAZA' Directors</title>
     <link href="https://www.reutersconnect.com/item/israeli-minister-threatens-filmmakers-citizenship-over-gaza-documentary/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQ1ZNQzQ0NjcxMC1WSURFTw" rel="alternate" />
