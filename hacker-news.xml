@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-15T01:54:00+00:00</updated>
+  <updated>2026-09-15T09:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>GNU Coreutils Rejected Feature Requests</title>
+    <link href="https://www.gnu.org/software/coreutils/rejected_requests.html" rel="alternate" />
+    <id>https://www.gnu.org/software/coreutils/rejected_requests.html::v239</id>
+    <published>2026-09-15T09:07:00+00:00</published>
+    <updated>2026-09-15T09:07:00+00:00</updated>
+    <media:thumbnail url="https://cdn.slidesharecdn.com/ss_thumbnails/managingfeaturerequestsbacklog-150421071928-conversion-gate01-thumbnail.jpg?width=640&amp;height=640&amp;fit=bounds" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.gnu.org/software/coreutils/rejected_requests.html">gnu.org</a> | <a href="https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests">discussion</a></small></p><hr/><p>This documentation lists various feature requests for the GNU Coreutils suite that were rejected by project maintainers. For each requested utility modification—such as adding timestamps to `cat` or progress bars to `cp`—the article provides the specific technical or design-oriented reasoning for the decision.</p><p>Most rejections stem from the principle that the requested functionality is already adequately handled by other standard Unix tools like `awk`, `sed`, or `find`. By documenting these decisions, the project clarifies its scope and helps prevent the inclusion of redundant implementations that would increase maintenance burden or software complexity.</p><p><img src="https://cdn.slidesharecdn.com/ss_thumbnails/managingfeaturerequestsbacklog-150421071928-conversion-gate01-thumbnail.jpg?width=640&height=640&fit=bounds" /></p><hr/><small>15 Sep 2026, 12:22 UTC | #21170</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nix Binary Cache Requires Only Three Functions</title>
+    <link href="https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions" rel="alternate" />
+    <id>https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions::v239</id>
+    <published>2026-09-15T06:22:00+00:00</published>
+    <updated>2026-09-15T06:22:00+00:00</updated>
+    <media:thumbnail url="https://blog.linyinfeng.com/processed_images/s3-cache-flow.21e10ec345b958f6.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions">fzakaria.com</a> | <a href="https://lobste.rs/s/9zytkh/nix_store_is_three_functions">discussion</a></small></p><hr/><p>Implementing a Nix binary cache requires satisfying only three specific requests: serving `nix-cache-info`, providing `.narinfo` metadata, and delivering the compressed archive specified in that metadata. Because the Nix client validates the archive's integrity using the hash contained in the metadata rather than the transport itself, any medium capable of fulfilling these requests can act as a remote store.</p><p>This minimal interface allows for unconventional implementations using GitHub Pages, Git's object database, DNS TXT records, and the npm registry. While using npm provides versioning through dist-tags, it lacks incremental publishing, necessitating the re-upload of entire closures for each new version.</p><p><img src="https://blog.linyinfeng.com/processed_images/s3-cache-flow.21e10ec345b958f6.png" /></p><hr/><small>15 Sep 2026, 12:20 UTC | #21173</small>]]></content>
+  </entry>
   <entry>
     <title>NVIDIA Rubin Platform Performance Improvements in Agentic Inference</title>
     <link href="https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference" rel="alternate" />
