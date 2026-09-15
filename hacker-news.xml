@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-15T12:48:00+00:00</updated>
+  <updated>2026-09-15T13:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>JDK 27 Reaches General Availability</title>
+    <link href="https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/" rel="alternate" />
+    <id>https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/::v239</id>
+    <published>2026-09-15T13:14:00+00:00</published>
+    <updated>2026-09-15T13:14:00+00:00</updated>
+    <media:thumbnail url="https://gihyo.jp/assets/images/article/2022/07/java01/001.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/">mail.openjdk.org</a> | <a href="https://news.ycombinator.com/item?id=49712041">hacker news</a></small></p><hr/><p>The reference implementation of Java 27 is now available for production use. Following the August 20 release of the second Release Candidate (build 35), the version transitioned to general availability after no critical P1 bugs were reported.</p><p>This release features nine JDK Enhancement Proposals (JEPs), including making G1 the default garbage collector in all environments and adding post-quantum hybrid key exchange for TLS 1.3. Other significant updates include structured concurrency, compact object headers by default, and the twelfth incubator of the Vector API.</p><p><img src="https://gihyo.jp/assets/images/article/2022/07/java01/001.jpg" /></p><hr/><small>15 Sep 2026, 17:52 UTC | #21214</small>]]></content>
+  </entry>
+  <entry>
+    <title>Microsoft Issues Emergency Windows 11 Update to Fix Patch Tuesday Bugs</title>
+    <link href="https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues" rel="alternate" />
+    <id>https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues::v239</id>
+    <published>2026-09-15T12:49:00+00:00</published>
+    <updated>2026-09-15T12:49:00+00:00</updated>
+    <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blta143d85ca9229714/690d668abe897013489fd893/2409pt-figure-01.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues">theverge.com</a> | <a href="https://support.microsoft.com/en-us/servicing/os/windows-11/2026/09/kb5129194-windows-11-26h1-security-update">source</a></small></p><hr/><p>Microsoft has released an emergency out-of-band update to resolve bugs introduced by its massive September patch Tuesday release. The update addresses issues affecting Hyper-V-based Linux virtual machine folder shares, Remote Desktop Services sessions, and certain USB audio devices.</p><p>The fix is available for Windows 11 (versions 24H2, 25H2, and 26H1), Windows Server 2022 and 2025, and several older versions of Windows 10 and Server. This follows a recent trend of emergency out-of-band updates from Microsoft to address installation failures and performance issues encountered in previous monthly cycles.</p><p><img src="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blta143d85ca9229714/690d668abe897013489fd893/2409pt-figure-01.png" /></p><hr/><small>15 Sep 2026, 17:44 UTC | #21163</small>]]></content>
+  </entry>
   <entry>
     <title>Ubuntu 26.10 Completes Migration to Rust-based Core Utilities</title>
     <link href="https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete" rel="alternate" />
