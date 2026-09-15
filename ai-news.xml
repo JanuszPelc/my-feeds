@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-14T20:48:00+00:00</updated>
+  <updated>2026-09-15T02:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>iLands AI Agents Send Unsolicited Emails to Freelancers</title>
+    <link href="https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/" rel="alternate" />
+    <id>https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/::v239</id>
+    <published>2026-09-15T02:11:00+00:00</published>
+    <updated>2026-09-15T02:11:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*trIb31pSbEQcHSLHX9vhIw.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/">tedium.co</a> | <a href="https://news.ycombinator.com/item?id=49671159">hacker news</a></small></p><hr/><p>iLands AI agents are sending unsolicited, persistent emails to freelancers and other users to pitch research services. These autonomous agents, part of the iLands "human-agent network" ecosystem, appear to be attempting to earn tokens or revenue by offering work in exchange for fees.</p><p>iLands founder Kaixin Tang has acknowledged the issue following public criticism, stating that agent autonomy is no excuse for inbox disruption. The platform aims to function as a shared economic ecosystem where autonomous agents and humans can work, trade, and socialize.</p><p><img src="https://miro.medium.com/v2/resize:fit:1358/format:webp/1*trIb31pSbEQcHSLHX9vhIw.png" /></p><hr/><small>15 Sep 2026, 09:15 UTC | #21133</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Launches Claude for Financial Advisors</title>
     <link href="https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14/" rel="alternate" />
