@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T19:52:00+00:00</updated>
+  <updated>2026-09-15T19:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Universal Music Group Sues DistroKid Over Alleged AI-Generated Music Infringement</title>
+    <link href="https://www.musicbusinessworldwide.com/universal-music-group-sues-distrokid-ai-generated-slop/" rel="alternate" />
+    <id>https://www.musicbusinessworldwide.com/universal-music-group-sues-distrokid-ai-generated-slop/::v239</id>
+    <published>2026-09-15T19:53:00+00:00</published>
+    <updated>2026-09-15T19:53:00+00:00</updated>
+    <media:thumbnail url="https://onlyai.fm/media/images/content/news/news-hero-umg-and-udio-lawsuit-settlement-spurs-new-ai-music-platform-partnershi-1779084943749.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.musicbusinessworldwide.com/universal-music-group-sues-distrokid-ai-generated-slop/">musicbusinessworldwide.com</a> | <a href="https://www.musicbusinessworldwide.com/files/2026/09/Stamped-Complaint-UMG-DistroKid.pdf">source</a></small></p><hr/><p>Universal Music Group has filed a lawsuit against music distributor DistroKid, alleging deceptive trade practices and copyright infringement. The complaint claims DistroKid misleads the market by presenting AI-generated content as artist-backed releases, siphoning revenue and listeners away from legitimate creators through the mass upload of AI-generated "slop."</p><p>Filed in the U.S. District Court for the District of Delaware, the suit names 1,000 specific recordings and seeks statutory damages of up to $150,000 per work. UMG argues that DistroKid's alleged failure to police infringing tracks provides the distributor with an unfair competitive advantage while harming the broader music economy.</p><p><img src="https://onlyai.fm/media/images/content/news/news-hero-umg-and-udio-lawsuit-settlement-spurs-new-ai-music-platform-partnershi-1779084943749.webp" /></p><hr/><small>15 Sep 2026, 23:46 UTC | #21211</small>]]></content>
+  </entry>
   <entry>
     <title>US Data Centers Projected to Exceed Germany and Japan in Natural Gas Consumption by 2035</title>
     <link href="https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/" rel="alternate" />
