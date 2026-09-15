@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T15:12:00+00:00</updated>
+  <updated>2026-09-15T19:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Supports Third-Party Safety Evaluators in Bipartisan House Plan</title>
+    <link href="https://www.politico.com/news/2026/09/15/openai-backs-bipartisan-house-plan-for-third-party-safety-assessments-01076588" rel="alternate" />
+    <id>https://www.politico.com/news/2026/09/15/openai-backs-bipartisan-house-plan-for-third-party-safety-assessments-01076588::v239</id>
+    <published>2026-09-15T19:28:00+00:00</published>
+    <updated>2026-09-15T19:28:00+00:00</updated>
+    <media:thumbnail url="https://images.ctfassets.net/kftzwdyauwt9/7Hb0sKReWWWQBBmdJoPqw7/a643e2709eb3a78bcb8a4daa89b350c7/Desktop_Darkmode__1_.png?w=1920&amp;q=80&amp;fm=webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/09/15/openai-backs-bipartisan-house-plan-for-third-party-safety-assessments-01076588">politico.com</a></small></p><hr/><p>OpenAI supports a provision within the bipartisan FRONTIER Act, a legislative proposal in the U.S. House of Representatives. This measure would require leading AI developers to employ external evaluators to assess and ensure the safety of their models.</p><p>The proposal aims to establish a federal framework for AI safety through standardized testing, cybersecurity protections, and mandatory incident reporting. Such regulations would specifically target organizations developing high-capability frontier AI technologies.</p><p><img src="https://images.ctfassets.net/kftzwdyauwt9/7Hb0sKReWWWQBBmdJoPqw7/a643e2709eb3a78bcb8a4daa89b350c7/Desktop_Darkmode__1_.png?w=1920&q=80&fm=webp" /></p><hr/><small>15 Sep 2026, 21:15 UTC | #21189</small>]]></content>
+  </entry>
   <entry>
     <title>Gates Foundation Pledges Over $1 Billion to Expand Global AI Access</title>
     <link href="https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html" rel="alternate" />

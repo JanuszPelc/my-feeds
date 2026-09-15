@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-15T06:21:00+00:00</updated>
+  <updated>2026-09-15T19:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Forbrukerradet Report Explores Policy Roles in Promoting a Circular Economy</title>
+    <link href="https://www.forbrukerradet.no/short-life/" rel="alternate" />
+    <id>https://www.forbrukerradet.no/short-life/::v239</id>
+    <published>2026-09-15T19:30:00+00:00</published>
+    <updated>2026-09-15T19:30:00+00:00</updated>
+    <media:thumbnail url="https://thumbs.dreamstime.com/z/circular-economy-illustration-vector-showing-product-material-flow-white-background-arrows-product-life-cycle-67903356.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.forbrukerradet.no/short-life/">forbrukerradet.no</a> | <a href="https://storage02.forbrukerradet.no/media/2026/09/260915executive-summary-and-policy-recommendations.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=49710109">hacker news</a></small></p><hr/><p>A study from Forbrukerradet argues that consumer policy can facilitate a transition to a circular economy by making sustainable choices safer, easier, and more attractive. The findings suggest that such a shift can simultaneously strengthen consumer rights and increase societal resilience.</p><p>The report also notes that mitigating environmental issues like pollution and biodiversity loss can reduce consumer exposure to supply chain instability and price volatility. By implementing effective policy, circularity can become a more integrated part of consumer behavior.</p><p><img src="https://thumbs.dreamstime.com/z/circular-economy-illustration-vector-showing-product-material-flow-white-background-arrows-product-life-cycle-67903356.jpg" /></p><hr/><small>15 Sep 2026, 21:21 UTC | #21236</small>]]></content>
+  </entry>
   <entry>
     <title>Map Projection Transitions from Equal-Area to Mercator on Zoom</title>
     <link href="https://www.benjoffe.com/map" rel="alternate" />
