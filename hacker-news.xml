@@ -741,31 +741,4 @@
     <media:thumbnail url="https://jordivillar.com/_vercel/image?url=_astro%2Ffinal-single-thread.Bb-q5RET.png&amp;w=1920&amp;q=100" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jordivillar.com/blog/every-millisecond-counts">jordivillar.com</a> | <a href="https://lobste.rs/s/uiyfpl/every_millisecond_counts">discussion</a> | <a href="https://news.ycombinator.com/item?id=49629608">hacker news</a></small></p><hr/><p>This report details a series of incremental optimizations implemented to reduce ClickHouse query latency from 85 seconds to sub-second levels. It focuses on overcoming the performance bottlenecks inherent in using the `ReplacingMergeTree` engine and `FINAL` operations for managing large-scale, mutable event data.</p><p>Key improvements included shifting from time-based partitioning to a modulo-based strategy to increase merge parallelism, reordering sort keys to optimize granule filtering, and replacing nested views with flat query templates to reduce parsing and planning overhead. The author also describes the impact of precomputing columns at the application level and adjusting background merge settings to ensure more effective data deduplication.</p><p><img src="https://jordivillar.com/_vercel/image?url=_astro%2Ffinal-single-thread.Bb-q5RET.png&w=1920&q=100" /></p><hr/><small>10 Sep 2026, 13:43 UTC | #20712</small>]]></content>
   </entry>
-  <entry>
-    <title>Clankerfree Indexes Software Projects Excluding Generative AI</title>
-    <link href="https://clankerfree.org" rel="alternate" />
-    <id>https://clankerfree.org::v238</id>
-    <published>2026-09-10T06:21:00+00:00</published>
-    <updated>2026-09-10T06:21:00+00:00</updated>
-    <media:thumbnail url="https://theaitrack.com/wp-content/uploads/2024/10/Crossroad-Open-Source-AI-vs-Closed-Source-AI-Image-generated-by-AI-for-The-AI-Track.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://clankerfree.org">clankerfree.org</a> | <a href="https://lobste.rs/s/8mgfan/software_for_humans">discussion</a></small></p><hr/><p>Clankerfree is an index of software projects and hosting platforms that self-certify as being created without the use of generative AI or large language models (LLMs). The resource aims to identify software authored solely by humans, specifically excluding tools implemented via AI.</p><p>The directory includes hosting providers Codeberg and SourceHut, alongside software projects such as Alacritty, GIMP, LibreOffice, NetBSD, and Zig. To be listed, projects must be open-source, have authors who explicitly disclaim AI involvement, and show no verifiable evidence of AI-generated content.</p><p><img src="https://theaitrack.com/wp-content/uploads/2024/10/Crossroad-Open-Source-AI-vs-Closed-Source-AI-Image-generated-by-AI-for-The-AI-Track.jpg" /></p><hr/><small>10 Sep 2026, 11:40 UTC | #20541</small>]]></content>
-  </entry>
-  <entry>
-    <title>Automating Web Hosting from a Volatile IP via a Reverse Proxy</title>
-    <link href="https://blog.mro.name/2026/09/web-from-dial-up/" rel="alternate" />
-    <id>https://blog.mro.name/2026/09/web-from-dial-up/::v238</id>
-    <published>2026-09-10T06:20:00+00:00</published>
-    <updated>2026-09-10T06:20:00+00:00</updated>
-    <media:thumbnail url="https://shopmaychu.vn/wp-content/uploads/2022/11/dynamic-dns-la-gi-1.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.mro.name/2026/09/web-from-dial-up/">blog.mro.name</a> | <a href="https://lobste.rs/s/uhzuen/serving_web_from_volatile_dial_up_ip">discussion</a></small></p><hr/><p>A method for hosting web services on a server with a volatile IP address, such as a residential DSL connection, involves using a remote VPS as a reverse proxy. A local cron job monitors connectivity and, upon detecting an IP change, uses SSH and envsubst to update the proxy's configuration on the remote server and reload the service.</p><p>This approach bypasses the need for third-party Dynamic DNS (DDNS) services by allowing the host to proactively notify the remote proxy of network changes. The implementation relies on standard shell utilities and SSH to maintain persistent access to the local server.</p><p><img src="https://shopmaychu.vn/wp-content/uploads/2022/11/dynamic-dns-la-gi-1.png" /></p><hr/><small>10 Sep 2026, 11:19 UTC | #20697</small>]]></content>
-  </entry>
-  <entry>
-    <title>Microsoft Releases AI-Powered Dynamics 365 Migration Tool</title>
-    <link href="https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428" rel="alternate" />
-    <id>https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428::v238</id>
-    <published>2026-09-10T06:13:00+00:00</published>
-    <updated>2026-09-10T06:13:00+00:00</updated>
-    <media:thumbnail url="https://image.theregister.com/?imageId=5295433&amp;width=800" />
-    <content type="html"><![CDATA[<p><small>The Register AI/ML | <a href="https://www.theregister.com/software/2026/09/10/microsoft-goes-after-salesforce-and-erp-users-with-ai-powered-converter/5295428">theregister.com</a> | <a href="https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2026/09/09/accelerate-your-move-to-agentic-business-applications-with-dynamics-365-activate/">source</a></small></p><hr/><p>Microsoft has launched a public preview of Dynamics 365 Activate, a tool designed to automate the movement of business applications from legacy systems like Salesforce to the Dynamics 365 platform. The utility uses AI to analyze data, entities, and dependencies within existing CRM and ERP environments, providing implementation teams with a blueprint of required redesigns and customizations to reduce manual effort.</p><p>The tool aims to lower migration risks for partners and customers transitioning to agentic business applications. This initiative is part of Microsoft's broader strategy to expand its footprint in the CRM market, where it currently holds a significantly smaller share than Salesforce.</p><p><img src="https://image.theregister.com/?imageId=5295433&width=800" /></p><hr/><small>10 Sep 2026, 10:09 UTC | #20666</small>]]></content>
-  </entry>
 </feed>
