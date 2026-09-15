@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-14T20:50:00+00:00</updated>
+  <updated>2026-09-14T21:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Jensen Huang and President Trump Discuss AI Development Pace in Live Call</title>
+    <link href="https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/::v239</id>
+    <published>2026-09-14T21:52:00+00:00</published>
+    <updated>2026-09-14T21:52:00+00:00</updated>
+    <media:thumbnail url="https://www.hackdiversity.com/wp-content/uploads/2026/01/Nvidia-CEO-Jensen-Huang-talks-about-the-biggest-fear-everyone-has-about-AI-companies-From-our-point.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=49705286">hacker news</a></small></p><hr/><p>President Donald Trump dismissed calls from industry leaders to slow the pace of AI development during a live phone call at the All-In Summit. Trump characterized the movement for slower AI scaling as a potential effort by political actors or foreign entities to stifle American economic growth.</p><p>The conversation occurred amid rising public opposition to data center construction due to environmental and cost-of-living concerns. While some figures like Anthropic CEO Dario Amodei have advocated for more cautious AI development, Huang expressed a commitment to preventing an industry slowdown.</p><p><img src="https://www.hackdiversity.com/wp-content/uploads/2026/01/Nvidia-CEO-Jensen-Huang-talks-about-the-biggest-fear-everyone-has-about-AI-companies-From-our-point.png" /></p><hr/><small>15 Sep 2026, 02:56 UTC | #21123</small>]]></content>
+  </entry>
   <entry>
     <title>AI Collapses Software Development Costs, Shifting Focus to Product Engineering</title>
     <link href="https://seldo.com/posts/we-are-all-product-engineers-now/" rel="alternate" />
