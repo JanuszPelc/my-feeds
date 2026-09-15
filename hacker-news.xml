@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-14T16:29:00+00:00</updated>
+  <updated>2026-09-14T18:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Distributed Systems Classics: Influential Research Papers Compiled</title>
+    <link href="https://nvartolomei.com/dist-sys-classics/" rel="alternate" />
+    <id>https://nvartolomei.com/dist-sys-classics/::v239</id>
+    <published>2026-09-14T18:38:00+00:00</published>
+    <updated>2026-09-14T18:38:00+00:00</updated>
+    <media:thumbnail url="https://img.paragraph.com/cdn-cgi/image/format=auto,width=3840,quality=85/https://storage.googleapis.com/papyrus_images/48e7f54d923a79a6770aa087b6761547ec5c8dc681e0e983abc110d2502b8e1d.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://nvartolomei.com/dist-sys-classics/">nvartolomei.com</a> | <a href="https://news.ycombinator.com/item?id=49699158">hacker news</a></small></p><hr/><p>Influential research papers provide a foundational understanding of the field of distributed systems. The collection covers topics such as logical clocks, the Byzantine Generals Problem, distributed snapshots, consensus algorithms, and conflict-free replicated data types.</p><p>This selection includes landmark works by researchers like Leslie Lamport and Satoshi Nakamoto, spanning from 1978 to 2014. The list serves as a starting point for exploring the theoretical challenges and historical milestones of distributed computing.</p><p><img src="https://img.paragraph.com/cdn-cgi/image/format=auto,width=3840,quality=85/https://storage.googleapis.com/papyrus_images/48e7f54d923a79a6770aa087b6761547ec5c8dc681e0e983abc110d2502b8e1d.png" /></p><hr/><small>15 Sep 2026, 00:36 UTC | #21130</small>]]></content>
+  </entry>
   <entry>
     <title>Logic Bug in XNU Kernel Affects UNIX Domain Socket Inodes</title>
     <link href="https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets" rel="alternate" />
