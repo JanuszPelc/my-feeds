@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-14T18:34:00+00:00</updated>
+  <updated>2026-09-14T20:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Anthropic Launches Claude for Financial Advisors</title>
+    <link href="https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14/" rel="alternate" />
+    <id>https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14/::v239</id>
+    <published>2026-09-14T20:48:00+00:00</published>
+    <updated>2026-09-14T20:48:00+00:00</updated>
+    <media:thumbnail url="https://www.thetechoutlook.com/wp-content/uploads/2025/10/Claude-for-Financial-Services-Featuring-Excel-Add-In-New-Connectors-and-Pre-Built-Agent-Skills-X-Post.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/anthropic-targets-financial-advisers-with-new-claude-tool-2026-09-14/">reuters.com</a> | <a href="https://claude.com/blog/claude-for-financial-advisors">source</a></small></p><hr/><p>A new suite of specialized tools from Anthropic connects the Claude chatbot to investment analytics and wealth-management platforms. The release includes integrations with services from providers such as BlackRock, Addepar, and Charles Schwab.</p><p>The tools provide specialized skills intended to assist advisors with research, client preparation, and data analysis. Schwab Advisor Services is the first RIA custodian integrated into the new service.</p><p><img src="https://www.thetechoutlook.com/wp-content/uploads/2025/10/Claude-for-Financial-Services-Featuring-Excel-Add-In-New-Connectors-and-Pre-Built-Agent-Skills-X-Post.png" /></p><hr/><small>15 Sep 2026, 02:28 UTC | #21115</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Releases iOS 27 with Siri AI Overhaul</title>
     <link href="https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update" rel="alternate" />
