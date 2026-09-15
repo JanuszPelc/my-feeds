@@ -759,22 +759,4 @@
     <media:thumbnail url="https://blog.yuo.be/_astro/notepad-access-keys.bDxMvt02_Zk5pQf.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/">blog.yuo.be</a> | <a href="https://lobste.rs/s/ol8vsp/terrible_menu_bar_windows_11_notepad">discussion</a></small></p><hr/><p>The modern WinUI 3-based menu bar in Windows 11 Notepad exhibits several usability regressions compared to the legacy Win32 version. Reported issues include the inability to use click-and-drag gestures to activate menu items, broken keyboard navigation using arrow keys, and the failure of the F10 shortcut to focus the menu bar.</p><p>These problems are attributed to the underlying WinUI 3 MenuBar component rather than Notepad itself. Similar bugs regarding menu activation gestures have been documented in Microsoft's issue trackers for several years, with some users characterizing the missing functionality as a regression from previous Windows versions.</p><p><img src="https://blog.yuo.be/_astro/notepad-access-keys.bDxMvt02_Zk5pQf.webp" /></p><hr/><small>10 Sep 2026, 19:03 UTC | #20746</small>]]></content>
   </entry>
-  <entry>
-    <title>Fragmented Authentication Flows and Phishing Vulnerability</title>
-    <link href="https://maurycyz.com/misc/domains/" rel="alternate" />
-    <id>https://maurycyz.com/misc/domains/::v238</id>
-    <published>2026-09-10T15:15:00+00:00</published>
-    <updated>2026-09-10T15:15:00+00:00</updated>
-    <media:thumbnail url="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/02/image-44.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://maurycyz.com/misc/domains/">maurycyz.com</a> | <a href="https://lobste.rs/s/9szn91/rant_about_phishing_it_s_not_user_s_fault">discussion</a></small></p><hr/><p>Redirecting users through multiple subdomains and third-party providers makes legitimate login interfaces indistinguishable from phishing sites. This complexity, combined with frequent authentication pop-ups and token expirations, prevents users from effectively identifying suspicious URLs.</p><p>To mitigate these risks, organizations should utilize a single, well-recognized root domain for all internal and authentication services. Maintaining consistent subdomains and employing local redirects for external services helps establish better user identification habits and prevents social engineering.</p><p><img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/02/image-44.webp" /></p><hr/><small>10 Sep 2026, 18:32 UTC | #20739</small>]]></content>
-  </entry>
-  <entry>
-    <title>Xteink X4 Pro E-Reader Review</title>
-    <link href="https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/" rel="alternate" />
-    <id>https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/::v238</id>
-    <published>2026-09-10T15:06:00+00:00</published>
-    <updated>2026-09-10T15:06:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/P9jDyvEDELA/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/">abstractnonsense.xyz</a> | <a href="https://www.xteink.com/products/xteink-x4-pro-pocket-ereader">source</a> | <a href="https://lobste.rs/s/aiikt1/xteink_x4_pro_review">discussion</a></small></p><hr/><p>The Xteink X4 Pro is a MagSafe-compatible pocket e-reader featuring an E Ink touchscreen with adjustable color temperature, a microSD card slot, and an ESP32 microcontroller. It is designed to attach magnetically to the back of a smartphone for highly portable reading.</p><p>The device utilizes a pogo-pin adapter for power and data transfer instead of a standard USB-C port. While the stock firmware is limited, the device is unlocked and supports custom firmware like CrossPoint via the Web Serial API, which enables various third-party plugins and book transfer methods.</p><p><img src="https://i.ytimg.com/vi/P9jDyvEDELA/maxresdefault.jpg" /></p><hr/><small>10 Sep 2026, 18:30 UTC | #20741</small>]]></content>
-  </entry>
 </feed>

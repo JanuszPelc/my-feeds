@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-15T03:03:00+00:00</updated>
+  <updated>2026-09-15T12:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>On-Device vs. Datacenter Inference Constraints in Robotics</title>
+    <link href="https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device" rel="alternate" />
+    <id>https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device::v239</id>
+    <published>2026-09-15T12:34:00+00:00</published>
+    <updated>2026-09-15T12:34:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!GcBX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff71549d3-3441-4f43-bc7a-0f750caf6a58_2048x1110.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device">newsletter.semianalysis.com</a></small></p><hr/><p>Robotics inference is governed by real-time control latency and high upfront hardware costs, creating constraints that differ from the training-centric scaling seen in Large Language Models. While LLM sizes are generally optimized against training budgets and inference costs, robot model parameters are currently dictated by the compute and memory limits of onboard edge hardware or the latency requirements of datacenter offloading.</p><p>Future deployment is expected to follow a tiered approach where high-frequency servo and action loops remain onboard, while heavier planning layers are offloaded to the cloud. Efficiency modeling suggests that as robot fleets scale, utilizing shared datacenter GPUs may become more efficient in terms of semiconductor wafer and memory usage per robot than equipping every unit with dedicated high-performance edge silicon.</p><p><img src="https://substackcdn.com/image/fetch/$s_!GcBX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff71549d3-3441-4f43-bc7a-0f750caf6a58_2048x1110.png" /></p><hr/><small>15 Sep 2026, 15:15 UTC | #21147</small>]]></content>
+  </entry>
   <entry>
     <title>ML Engineer Expresses Skepticism Regarding LLM Scaling and Industry Moats</title>
     <link href="https://nemin.hu/llm-letter/index.html" rel="alternate" />
