@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-15T12:34:00+00:00</updated>
+  <updated>2026-09-15T12:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google Grants All Engineers Access to Anthropic's Claude</title>
+    <link href="https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9" rel="alternate" />
+    <id>https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9::v239</id>
+    <published>2026-09-15T12:35:00+00:00</published>
+    <updated>2026-09-15T12:35:00+00:00</updated>
+    <media:thumbnail url="https://i.insider.com/6a60e82bce52cb26b8392702?width=700" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9">businessinsider.com</a></small></p><hr/><p>Google's engineering workforce can now access Anthropic's Claude Opus 5 model via the company's internal development platform, Antigravity. Although Gemini remains the foundational model for internal projects, the inclusion of Claude is intended to assist with specialized use cases through per-user quotas.</p><p>This policy change acknowledges the intense competition in the AI coding tool market. Previously, access to third-party models like Claude was limited to select teams or high-priority projects, often causing frustration among engineers looking for alternative productivity tools.</p><p><img src="https://i.insider.com/6a60e82bce52cb26b8392702?width=700" /></p><hr/><small>15 Sep 2026, 15:31 UTC | #21149</small>]]></content>
+  </entry>
   <entry>
     <title>On-Device vs. Datacenter Inference Constraints in Robotics</title>
     <link href="https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device" rel="alternate" />
