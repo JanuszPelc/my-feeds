@@ -3,9 +3,36 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T19:42:00+00:00</updated>
+  <updated>2026-09-15T19:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Israeli Minister Threatens to Strip Citizenship from 'NAZA' Directors</title>
+    <link href="https://www.reutersconnect.com/item/israeli-minister-threatens-filmmakers-citizenship-over-gaza-documentary/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQ1ZNQzQ0NjcxMC1WSURFTw" rel="alternate" />
+    <id>https://www.reutersconnect.com/item/israeli-minister-threatens-filmmakers-citizenship-over-gaza-documentary/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQ1ZNQzQ0NjcxMC1WSURFTw::v239</id>
+    <published>2026-09-15T19:48:00+00:00</published>
+    <updated>2026-09-15T19:48:00+00:00</updated>
+    <media:thumbnail url="https://assets.citizen.digital/142460/conversions/Bem-Gvir-og_image.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.reutersconnect.com/item/israeli-minister-threatens-filmmakers-citizenship-over-gaza-documentary/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQ1ZNQzQ0NjcxMC1WSURFTw">reutersconnect.com</a> | <a href="https://news.ycombinator.com/item?id=49713468">hacker news</a></small></p><hr/><p>An Israeli minister has threatened to revoke the citizenship of filmmakers Yuval Abraham and Rachel Szor following the release of their documentary, 'NAZA'. The film, which won the Venice Special Jury Prize, focuses on civilian killings in Gaza.</p><p>The threat has triggered backlash from the filmmaking community, with over 1,500 industry professionals signing a petition in support of the directors. While some politicians have characterized the documentary as treasonous, the controversy has sparked debate regarding government interference in media and creative expression.</p><p><img src="https://assets.citizen.digital/142460/conversions/Bem-Gvir-og_image.webp" /></p><hr/><small>15 Sep 2026, 23:02 UTC | #21244</small>]]></content>
+  </entry>
+  <entry>
+    <title>DoorDash to Acquire Grubhub Campus Dining and Invest $125 Million in Wonder</title>
+    <link href="https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/::v239</id>
+    <published>2026-09-15T19:46:00+00:00</published>
+    <updated>2026-09-15T19:46:00+00:00</updated>
+    <media:thumbnail url="https://www.campusidnews.com/wp-content/uploads/2026/04/wonder-drone.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/">techcrunch.com</a> | <a href="https://ir.doordash.com/news/news-details/2026/DoorDash-and-Wonder-Announce-Strategic-Partnership/default.aspx">source</a></small></p><hr/><p>DoorDash is entering a $425 million strategic partnership with food technology company Wonder. The deal includes a $300 million acquisition of Wonder’s Grubhub Campus Dining business and a $125 million investment in Wonder’s Series D funding round.</p><p>The expansion is intended to bring Grubhub Campus Dining's service—which currently serves 450 universities—to venues like stadiums and hotels. This partnership supports Wonder's long-term ambition to develop a fully autonomous food system capable of planning, producing, and delivering personalized meals at scale.</p><p><img src="https://www.campusidnews.com/wp-content/uploads/2026/04/wonder-drone.webp" /></p><hr/><small>15 Sep 2026, 22:54 UTC | #21204</small>]]></content>
+  </entry>
+  <entry>
+    <title>Commerce Department Orders Kalshi to Remove AI Compute Price Tracker</title>
+    <link href="https://www.semafor.com/article/09/15/2026/commerce-dept-ordered-kalshi-to-take-down-ai-compute-futures-product" rel="alternate" />
+    <id>https://www.semafor.com/article/09/15/2026/commerce-dept-ordered-kalshi-to-take-down-ai-compute-futures-product::v239</id>
+    <published>2026-09-15T19:45:00+00:00</published>
+    <updated>2026-09-15T19:45:00+00:00</updated>
+    <media:thumbnail url="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b354b9c4-74fb-4768-9f70-abb453415300/image__1___1_.png?t=1784040589" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.semafor.com/article/09/15/2026/commerce-dept-ordered-kalshi-to-take-down-ai-compute-futures-product">semafor.com</a></small></p><hr/><p>The US Commerce Department ordered Kalshi to remove its AI-compute price tracking product, citing national security concerns. The product, an AI-compute future curve, allowed users to trade based on the projected rental costs of Nvidia chips, serving as a pricing benchmark for AI infrastructure.</p><p>Commerce also reportedly requested that the Commodity Futures Trading Commission freeze approvals for new compute-related contracts for 60 days. Market participants suggest the intervention may be intended to prevent potential manipulation in thinly traded markets that could impact the stability of AI-related stocks and debt markets.</p><p><img src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b354b9c4-74fb-4768-9f70-abb453415300/image__1___1_.png?t=1784040589" /></p><hr/><small>15 Sep 2026, 22:52 UTC | #21205</small>]]></content>
+  </entry>
   <entry>
     <title>Elon Musk Urges AI Rivals and Chinese Companies to Conduct Peer-Review Safety Testing</title>
     <link href="https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html" rel="alternate" />
