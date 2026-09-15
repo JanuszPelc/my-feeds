@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-14T18:38:00+00:00</updated>
+  <updated>2026-09-14T18:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Nvidia Announces RTX Pro 5500 Blackwell Workstation GPU with 84GB GDDR7</title>
+    <link href="https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs" rel="alternate" />
+    <id>https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs::v239</id>
+    <published>2026-09-14T18:40:00+00:00</published>
+    <updated>2026-09-14T18:40:00+00:00</updated>
+    <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/jKg43ZwahzWhLd9Bvp7rdQ.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs">tomshardware.com</a> | <a href="https://www.nvidia.com/en-us/products/workstations/professional-desktop-gpus/rtx-pro-5500/">source</a> | <a href="https://news.ycombinator.com/item?id=49702319">hacker news</a></small></p><hr/><p>Nvidia has introduced the RTX Pro 5500 Blackwell Workstation Edition, a professional graphics card designed to bridge the gap between the RTX Pro 5000 and the RTX Pro 6000. Utilizing the same GB202 silicon as the GeForce RTX 5090, the RTX Pro 5500 features 21,760 CUDA cores and 84GB of GDDR7 memory, providing significantly more capacity than the 32GB found on the consumer flagship.</p><p>The GPU achieves its 84GB capacity via a 448-bit memory interface and a clamshell configuration of 28 memory modules. While the increased VRAM is intended to support large-scale AI and professional 3D workflows, the memory is downclocked to 25 Gb/s, resulting in a bandwidth of 1,400 GB/s—approximately 22% lower than the GeForce RTX 5090.</p><p><img src="https://cdn.mos.cms.futurecdn.net/jKg43ZwahzWhLd9Bvp7rdQ.jpg" /></p><hr/><small>15 Sep 2026, 01:13 UTC | #21108</small>]]></content>
+  </entry>
   <entry>
     <title>Distributed Systems Classics: Influential Research Papers Compiled</title>
     <link href="https://nvartolomei.com/dist-sys-classics/" rel="alternate" />
