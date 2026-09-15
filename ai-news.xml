@@ -258,13 +258,4 @@
     <media:thumbnail url="https://assets.st-note.com/production/uploads/images/266022147/rectangle_large_type_2_9c8587f3a02b75e72ee51d9430cf471f.png?width=1280" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-10/anthropic-gives-eu-access-to-mythos-months-after-model-s-release">bloomberg.com</a></small></p><hr/><p>Anthropic has provided the European Union Agency for Cybersecurity (ENISA) with testing access to its Mythos 5 artificial intelligence model. This decision follows several months of negotiations that began in late May.</p><p>The access is part of the Project Glasswing initiative, which expands AI cybersecurity testing to various international partners. While ENISA has secured access to the Mythos 5 model, the agency does not yet have access to the Mythos 5.1 version.</p><p><img src="https://assets.st-note.com/production/uploads/images/266022147/rectangle_large_type_2_9c8587f3a02b75e72ee51d9430cf471f.png?width=1280" /></p><hr/><small>10 Sep 2026, 17:40 UTC | #20694</small>]]></content>
   </entry>
-  <entry>
-    <title>Users Report OpenAI Re-Enabling Model Training Opt-Out Settings</title>
-    <link href="https://news.ycombinator.com/item?id=49643556" rel="alternate" />
-    <id>https://news.ycombinator.com/item?id=49643556::v238</id>
-    <published>2026-09-10T13:40:00+00:00</published>
-    <updated>2026-09-10T13:40:00+00:00</updated>
-    <media:thumbnail url="https://blog.pcloud.com/wp-content/uploads/2026/01/2026-Ai-Opt-Out-2-983x1024.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49643556">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49643556">hacker news</a></small></p><hr/><p>Users report that OpenAI has been re-enabling the "allow training" setting for ChatGPT despite previous opt-outs. Some claims suggest that settings revert following software updates or the acceptance of new terms of service, potentially allowing private conversations to be used for model training without explicit, recurring consent.</p><p>The discussion addresses the difficulty of auditing data usage and whether current opt-out mechanisms function as permanent restrictions or temporary pauses. Participants also raised concerns that technical glitches or system updates might serve as a mechanism to override user privacy preferences.</p><p><img src="https://blog.pcloud.com/wp-content/uploads/2026/01/2026-Ai-Opt-Out-2-983x1024.png" /></p><hr/><small>10 Sep 2026, 16:13 UTC | #20730</small>]]></content>
-  </entry>
 </feed>

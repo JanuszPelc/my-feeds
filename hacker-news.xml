@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-15T09:11:00+00:00</updated>
+  <updated>2026-09-15T09:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>GDScript Features and Limitations Analyzed</title>
+    <link href="https://azhdarchid.com/gdscript-good-bad-ugly/" rel="alternate" />
+    <id>https://azhdarchid.com/gdscript-good-bad-ugly/::v239</id>
+    <published>2026-09-15T09:14:00+00:00</published>
+    <updated>2026-09-15T09:14:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/971799737/original/eca35cccbd/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://azhdarchid.com/gdscript-good-bad-ugly/">azhdarchid.com</a> | <a href="https://lobste.rs/s/q5dgu6/gdscript_good_bad_ugly_parts">discussion</a></small></p><hr/><p>Bruno Dias evaluates GDScript's effectiveness after porting a complex system from TypeScript to Godot. The analysis highlights the language's specialized design for game logic, including native vector types, a specialized standard library, and efficient memory management via reference counting and scene tree integration.</p><p>The author identifies significant drawbacks, particularly in its "underbaked" static typing system, which lacks support for union types, complex nested structures, and advanced type narrowing. Additional critiques include a "fussy" syntax, the absence of common programming constructs like the spread operator or destructuring assignment, and friction when applying functional programming patterns.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/971799737/original/eca35cccbd/1?v=1" /></p><hr/><small>15 Sep 2026, 13:43 UTC | #21183</small>]]></content>
+  </entry>
   <entry>
     <title>Noble Audio FoKus Artemis Review</title>
     <link href="https://musictech.com/reviews/studio-recording-gear/noble-audio-fokus-artemis-review/" rel="alternate" />
