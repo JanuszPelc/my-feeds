@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T12:46:00+00:00</updated>
+  <updated>2026-09-15T13:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amazon's India Quick Delivery Service Hits $1 Billion in Annualized Revenue</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-15/amazon-s-india-quick-commerce-push-hits-1-billion-milestone" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-15/amazon-s-india-quick-commerce-push-hits-1-billion-milestone::v239</id>
+    <published>2026-09-15T13:16:00+00:00</published>
+    <updated>2026-09-15T13:16:00+00:00</updated>
+    <media:thumbnail url="https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/AmazonNow-1789456015407.png?mode=fit&amp;crop=faces&amp;ar=16:9&amp;format=auto&amp;w=640&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-15/amazon-s-india-quick-commerce-push-hits-1-billion-milestone">bloomberg.com</a></small></p><hr/><p>Amazon's quick delivery service in India, Amazon Now, has reached $1 billion in annualized gross revenue. Since its launch in the summer of 2025, order volumes have doubled every quarter.</p><p>The achievement marks one of the fastest growth trajectories in Amazon India's history. This milestone underscores the company's expanding presence in the highly competitive Indian quick commerce market.</p><p><img src="https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/AmazonNow-1789456015407.png?mode=fit&crop=faces&ar=16:9&format=auto&w=640&q=75" /></p><hr/><small>15 Sep 2026, 18:09 UTC | #21165</small>]]></content>
+  </entry>
   <entry>
     <title>China Implements Stricter Exit-Entry Regulations to Secure Technology and State Secrets</title>
     <link href="https://www.ft.com/content/3f2b2172-0c1a-4708-aba2-559eb37eabc8?accessToken=zwAAAaE7rcwOkc8_KyFyDBpHCNOrolWes36ryAE.MEUCIF5TPf4Ilil-HKIyYENGadXcJURVK74jpV65dTibtulKAiEAvTwPW6Gbs7bPMNfGedXyGaLb9K1-GJfQWuO3M0Kp4GI&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902" rel="alternate" />

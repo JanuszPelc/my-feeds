@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-15T13:14:00+00:00</updated>
+  <updated>2026-09-15T13:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>MediaTek Unveils Dimensity 9600 Pro and 9600M Smartphone Chips</title>
+    <link href="https://www.reuters.com/business/media-telecom/mediatek-launches-new-mobile-chip-using-tsmcs-most-advanced-technology-2026-09-15/" rel="alternate" />
+    <id>https://www.reuters.com/business/media-telecom/mediatek-launches-new-mobile-chip-using-tsmcs-most-advanced-technology-2026-09-15/::v239</id>
+    <published>2026-09-15T13:15:00+00:00</published>
+    <updated>2026-09-15T13:15:00+00:00</updated>
+    <media:thumbnail url="https://cdn.wccftech.com/wp-content/uploads/2026/02/MediaTek-Dimensity-9600-1-1456x917.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/media-telecom/mediatek-launches-new-mobile-chip-using-tsmcs-most-advanced-technology-2026-09-15/">reuters.com</a> | <a href="https://www.mediatek.com/press-room/mediatek-dimensity-9600-pro-sets-new-standard-for-flagship-smartphone-chips">source</a></small></p><hr/><p>MediaTek has debuted the Dimensity 9600 Pro, its first smartphone system-on-a-chip (SoC) produced using TSMC's 2nm manufacturing process. The company also announced the Dimensity 9600M, a 3nm chipset featuring enhanced artificial intelligence performance.</p><p>The new chipsets are positioned to compete with Qualcomm in the premium mobile processor market. The deployment of 2nm technology represents a significant advancement in semiconductor manufacturing for flagship mobile devices.</p><p><img src="https://cdn.wccftech.com/wp-content/uploads/2026/02/MediaTek-Dimensity-9600-1-1456x917.jpg" /></p><hr/><small>15 Sep 2026, 18:07 UTC | #21166</small>]]></content>
+  </entry>
   <entry>
     <title>JDK 27 Reaches General Availability</title>
     <link href="https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/" rel="alternate" />
@@ -749,14 +758,5 @@
     <updated>2026-09-10T18:58:00+00:00</updated>
     <media:thumbnail url="https://www.bleepstatic.com/images/news/u/1220909/2025/November/diagram.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=49647300">hacker news</a></small></p><hr/><p>Anthropic's September 2026 Threat Intelligence report details the disruption of malicious operations using Claude models between December 2025 and August 2026. Threat actors transitioned from using AI as a chatbot to using it as an orchestrator for autonomous reconnaissance, exploitation, and data exfiltration via multi-agent frameworks. Documented harm areas include cyber and influence operations, surveillance, scams, biological misuse, and conventional weapons development.</p><p>The report identifies "Generative Threat Groups" (GTGs) comprising state-sponsored actors, criminals, and politically motivated individuals. Case study GTG-20006 describes a suspected Russian-nexus espionage campaign that used AI-driven workflows to automate infrastructure deployment and autonomously rebuild malware to evade detection. Targeted entities included Ukrainian and European government ministries, diplomatic missions, and drone technology manufacturers.</p><p><img src="https://www.bleepstatic.com/images/news/u/1220909/2025/November/diagram.jpg" /></p><hr/><small>11 Sep 2026, 00:35 UTC | #20744</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jim Nielsen Labels Cable Box Following Social Media Post</title>
-    <link href="https://blog.jim-nielsen.com/2026/hands-off-my-cables/" rel="alternate" />
-    <id>https://blog.jim-nielsen.com/2026/hands-off-my-cables/::v238</id>
-    <published>2026-09-10T18:01:00+00:00</published>
-    <updated>2026-09-10T18:01:00+00:00</updated>
-    <media:thumbnail url="https://cdn.jim-nielsen.com/blog/2026/cables.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.jim-nielsen.com/2026/hands-off-my-cables/">blog.jim-nielsen.com</a> | <a href="https://news.ycombinator.com/item?id=49645393">hacker news</a></small></p><hr/><p>A social media post by Tyler Gaw has inspired Jim Nielsen to label his family's technology cable box. This action follows the observation that cables often become necessary unexpectedly, even after being stored for many years.</p><p>A supply of miscellaneous technology cables provides practical utility for unforeseen technical requirements. The labeling of the "FAMILY TECHNO BOX" acts as a warning to prevent the accidental disposal of these items.</p><p><img src="https://cdn.jim-nielsen.com/blog/2026/cables.jpg" /></p><hr/><small>11 Sep 2026, 00:05 UTC | #20779</small>]]></content>
   </entry>
 </feed>
