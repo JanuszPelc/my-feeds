@@ -777,22 +777,4 @@
     <media:thumbnail url="https://www.windowslatest.com/wp-content/uploads/2024/10/Windows-Explorer-with-Windows-Media-Player-2048x1220.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683">devblogs.microsoft.com</a> | <a href="https://news.ycombinator.com/item?id=49640646">hacker news</a></small></p><hr/><p>The operating system selected initial user account pictures from a default directory using a one-pass random selection algorithm. This process relied on the `RtlRandomEx` random number generator, seeded with the value from `GetTickCount()`.</p><p>This reservoir sampling method increases efficiency by reducing file system calls and handles directory changes during execution more gracefully than a two-pass approach. A safety cap of 100 files was implemented to prevent performance issues in directories containing a very large number of images.</p><p><img src="https://www.windowslatest.com/wp-content/uploads/2024/10/Windows-Explorer-with-Windows-Media-Player-2048x1220.jpg" /></p><hr/><small>10 Sep 2026, 18:28 UTC | #20750</small>]]></content>
   </entry>
-  <entry>
-    <title>Microsoft Integrates Rust with MSVC via rustc_codegen_utc</title>
-    <link href="https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/" rel="alternate" />
-    <id>https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/::v238</id>
-    <published>2026-09-10T14:15:00+00:00</published>
-    <updated>2026-09-10T14:15:00+00:00</updated>
-    <media:thumbnail url="https://miro.medium.com/v2/da:true/resize:fit:1200/0*P-g1I64kaTloGR-z" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/">rustfoundation.org</a> | <a href="https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft">discussion</a> | <a href="https://news.ycombinator.com/item?id=49643546">hacker news</a></small></p><hr/><p>Microsoft has designated Rust as a Tier-1 language for internal development, alongside C++, C#, and TypeScript. The integration utilizes rustc_codegen_utc, a backend that connects the Rust compiler to the Microsoft Visual C++ (MSVC) ecosystem. This enables Rust to leverage Windows-native tooling, ABI compatibility, and advanced security and debugging features.</p><p>This move creates a unified code generation platform for both Rust and C++, facilitating seamless interoperability in hybrid projects. By utilizing the existing MSVC infrastructure, Microsoft aims to reduce engineering duplication and expand Rust's application to firmware, drivers, and kernel-level components.</p><p><img src="https://miro.medium.com/v2/da:true/resize:fit:1200/0*P-g1I64kaTloGR-z" /></p><hr/><small>10 Sep 2026, 17:05 UTC | #20719</small>]]></content>
-  </entry>
-  <entry>
-    <title>Shopify Migrates Mobile Apps from React Native to Native</title>
-    <link href="https://shopify.engineering/back-to-native" rel="alternate" />
-    <id>https://shopify.engineering/back-to-native::v238</id>
-    <published>2026-09-10T14:10:00+00:00</published>
-    <updated>2026-09-10T14:10:00+00:00</updated>
-    <media:thumbnail url="https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/llm-for-mobile-an-initial-roadmap-2.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://shopify.engineering/back-to-native">shopify.engineering</a> | <a href="https://news.ycombinator.com/item?id=49643982">hacker news</a></small></p><hr/><p>Shopify is transitioning its mobile applications from React Native to native Swift and Kotlin. This shift is driven by advancements in Large Language Models (LLMs), which allow AI agents to handle much of the implementation and translation work previously required to maintain platform parity between iOS and Android.</p><p>The company is using a custom AI system called Helix to execute a "greenfield" rebuild of its apps through iterative, human-verified checkpoints. While Shopify will continue to support key libraries like FlashList and sponsor React Native Skia through 2026, it is shifting toward an architecture optimized for both human and agentic development.</p><p><img src="https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/llm-for-mobile-an-initial-roadmap-2.png" /></p><hr/><small>10 Sep 2026, 16:43 UTC | #20735</small>]]></content>
-  </entry>
 </feed>
