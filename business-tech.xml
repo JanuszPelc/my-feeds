@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T09:16:00+00:00</updated>
+  <updated>2026-09-15T11:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Bruce Schneier and Cindy Cohn Analyze the Evolution of Mass Surveillance</title>
+    <link href="https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html" rel="alternate" />
+    <id>https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html::v239</id>
+    <published>2026-09-15T11:27:00+00:00</published>
+    <updated>2026-09-15T11:27:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html">schneier.com</a> | <a href="https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough">source</a> | <a href="https://news.ycombinator.com/item?id=49710883">hacker news</a></small></p><hr/><p>The essay argues that the post-9/11 era has seen a fundamental transition from targeted surveillance to mass data collection by both government agencies and private corporations. This surveillance ecosystem enables law enforcement and intelligence services to access vast amounts of personal information, frequently operating through a pipeline of private-sector data collection that bypasses traditional legal requirements for individualized suspicion or warrants.</p><p>Technological advancements in artificial intelligence and the widespread deployment of facial recognition and automated license plate readers have significantly expanded the scope and capability of these monitoring programs. The authors contend that this trend poses substantial risks to Fourth Amendment privacy protections and creates a chilling effect on First Amendment rights to assembly and anonymous speech.</p><hr/><small>15 Sep 2026, 14:34 UTC | #21191</small>]]></content>
+  </entry>
   <entry>
     <title>CSS-Tricks Faces Uncertainty Under DigitalOcean Ownership</title>
     <link href="https://vale.rocks/micros/20260915-0135" rel="alternate" />

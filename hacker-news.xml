@@ -768,13 +768,4 @@
     <media:thumbnail url="https://i.ytimg.com/vi/P9jDyvEDELA/maxresdefault.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/">abstractnonsense.xyz</a> | <a href="https://www.xteink.com/products/xteink-x4-pro-pocket-ereader">source</a> | <a href="https://lobste.rs/s/aiikt1/xteink_x4_pro_review">discussion</a></small></p><hr/><p>The Xteink X4 Pro is a MagSafe-compatible pocket e-reader featuring an E Ink touchscreen with adjustable color temperature, a microSD card slot, and an ESP32 microcontroller. It is designed to attach magnetically to the back of a smartphone for highly portable reading.</p><p>The device utilizes a pogo-pin adapter for power and data transfer instead of a standard USB-C port. While the stock firmware is limited, the device is unlocked and supports custom firmware like CrossPoint via the Web Serial API, which enables various third-party plugins and book transfer methods.</p><p><img src="https://i.ytimg.com/vi/P9jDyvEDELA/maxresdefault.jpg" /></p><hr/><small>10 Sep 2026, 18:30 UTC | #20741</small>]]></content>
   </entry>
-  <entry>
-    <title>Windows XP Initial User Picture Selection Algorithm</title>
-    <link href="https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683" rel="alternate" />
-    <id>https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683::v238</id>
-    <published>2026-09-10T14:24:00+00:00</published>
-    <updated>2026-09-10T14:24:00+00:00</updated>
-    <media:thumbnail url="https://www.windowslatest.com/wp-content/uploads/2024/10/Windows-Explorer-with-Windows-Media-Player-2048x1220.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683">devblogs.microsoft.com</a> | <a href="https://news.ycombinator.com/item?id=49640646">hacker news</a></small></p><hr/><p>The operating system selected initial user account pictures from a default directory using a one-pass random selection algorithm. This process relied on the `RtlRandomEx` random number generator, seeded with the value from `GetTickCount()`.</p><p>This reservoir sampling method increases efficiency by reducing file system calls and handles directory changes during execution more gracefully than a two-pass approach. A safety cap of 100 files was implemented to prevent performance issues in directories containing a very large number of images.</p><p><img src="https://www.windowslatest.com/wp-content/uploads/2024/10/Windows-Explorer-with-Windows-Media-Player-2048x1220.jpg" /></p><hr/><small>10 Sep 2026, 18:28 UTC | #20750</small>]]></content>
-  </entry>
 </feed>
