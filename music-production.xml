@@ -690,13 +690,4 @@
     <media:thumbnail url="https://aucdt.edu.gh/wp-content/uploads/2023/01/digital-audio-workstation.jpg" />
     <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/10/infinite-modular-workstation/">bedroomproducersblog.com</a> | <a href="https://n1m21n.github.io/Infinite/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/10/infinite-modular-workstation/#respond">discussion</a></small></p><hr/><p>Naman Soni has released Infinite, a free and open-source modular audiovisual workstation for macOS and Windows. The application integrates a node-based sound design environment with real-time 2D video compositing and procedural 3D tools. It includes a modular synthesizer rack with native AU and VST3 plugin hosting, all linked via a universal modulation graph.</p><p>The workstation utilizes GPU-based rendering for real-time video shaders and 3D physics simulations. Its architecture enables cross-domain modulation, allowing audio and visual parameters to interact seamlessly across a single canvas.</p><p><img src="https://aucdt.edu.gh/wp-content/uploads/2023/01/digital-audio-workstation.jpg" /></p><hr/><small>10 Sep 2026, 15:40 UTC | #20695</small>]]></content>
   </entry>
-  <entry>
-    <title>Fruitless Research Releases Clew Free Spring Reverb Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/10/fruitless-research-clew/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/10/fruitless-research-clew/::v238</id>
-    <published>2026-09-10T11:48:00+00:00</published>
-    <updated>2026-09-10T11:48:00+00:00</updated>
-    <media:thumbnail url="https://www.newaudioequipment.com/wp-content/uploads/2025/12/Spring-Store_grande.webp" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/10/fruitless-research-clew/">bedroomproducersblog.com</a> | <a href="https://fruitlessresearch.com/plugins/clew/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/10/fruitless-research-clew/#respond">discussion</a></small></p><hr/><p>The Clew plugin is a free software tool that emulates the physical properties of a spring reverb unit. It uses a model based on a wire coil and magnet to simulate the sound and mechanical behavior of traditional hardware.</p><p>Users can download the plugin directly from the Fruitless Research website. It is designed to provide authentic, physics-based spring reverb effects for digital music production workflows.</p><p><img src="https://www.newaudioequipment.com/wp-content/uploads/2025/12/Spring-Store_grande.webp" /></p><hr/><small>10 Sep 2026, 15:20 UTC | #20696</small>]]></content>
-  </entry>
 </feed>
