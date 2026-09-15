@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-14T18:31:00+00:00</updated>
+  <updated>2026-09-14T22:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>MSDplugins Releases Seventies Phase v5.3.0 for Windows</title>
+    <link href="https://www.kvraudio.com/news/msdplugins-updates-seventies-phase-to-v5-3-0-for-windows-68522?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68522" rel="alternate" />
+    <id>https://www.kvraudio.com/news/msdplugins-updates-seventies-phase-to-v5-3-0-for-windows-68522?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68522::v239</id>
+    <published>2026-09-14T22:02:00+00:00</published>
+    <updated>2026-09-14T22:02:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/cover.1786959151.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/msdplugins-updates-seventies-phase-to-v5-3-0-for-windows-68522?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68522">kvraudio.com</a> | <a href="https://pluginmaster3.gumroad.com/l/dfbtjl">source</a></small></p><hr/><p>MSDplugins has released version 5.3.0 of Seventies Phase, a ten-stage optical phaser plugin modeled on a 1975 pedal circuit. The update rescales the SPEED control to provide a slower sweep through the middle of the dial, addressing a previous issue where fast sweep rates were reached too early in the control's travel.</p><p>The plugin is available in VST3 and standalone formats for 64-bit Windows 10 and 11. It follows a pay-what-you-want pricing model starting at $5, and earlier versions remain available for download alongside the update.</p><p><img src="https://static.kvraudio.com/i/b/cover.1786959151.png" /></p><hr/><small>15 Sep 2026, 05:47 UTC | #21140</small>]]></content>
+  </entry>
   <entry>
     <title>CarbonDSP Releases Vellum Pro Algorithmic Reverb for Windows</title>
     <link href="https://www.kvraudio.com/news/carbondsp-releases-vellum-pro---advanced-studio-reverb-for-windows-68555?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68555" rel="alternate" />
