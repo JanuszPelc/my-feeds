@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T14:31:00+00:00</updated>
+  <updated>2026-09-15T15:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Steve Hobbs Argues Video Games Can Serve as Geopolitical Soft Power</title>
+    <link href="https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-::v239</id>
+    <published>2026-09-15T15:11:00+00:00</published>
+    <updated>2026-09-15T15:11:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt4a2142f8c94d8b53/6aa95641fd70e67eb0fc1345/gamessoftpower.jpg?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-">gamedeveloper.com</a></small></p><hr/><p>During PAX West and the Seattle Loves Indies and Creators Expo, Washington's Secretary of State Steve Hobbs proposed using video games as a "soft power" tool to influence global geopolitics. He argued that the medium can reach "hearts and minds" through cultural exchange, offering a non-coercive alternative to traditional military or economic "hard power."</p><p>This approach positions the gaming industry as a diplomatic asset for projecting democratic values. While some scholars warn that such cultural projection can resemble cultural imperialism, proponents suggest that robust creative economies allow democracies to compete for international influence through shared cultural engagement rather than conflict.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt4a2142f8c94d8b53/6aa95641fd70e67eb0fc1345/gamessoftpower.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>15 Sep 2026, 20:19 UTC | #21198</small>]]></content>
+  </entry>
   <entry>
     <title>TechCrunch Disrupt 2026 to Host Session on Scaling Prototypes to Production</title>
     <link href="https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/" rel="alternate" />
