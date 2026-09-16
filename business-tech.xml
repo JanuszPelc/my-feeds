@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T21:49:00+00:00</updated>
+  <updated>2026-09-15T21:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Bernie Sanders and Steve Bannon Call for AI Restrictions at Pro-Human Assembly</title>
+    <link href="https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html?unlocked_article_code=1.BVE.mt9g.fW2MONpQsanG&amp;smid=nytcore-android-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html?unlocked_article_code=1.BVE.mt9g.fW2MONpQsanG&amp;smid=nytcore-android-share::v239</id>
+    <published>2026-09-15T21:50:00+00:00</published>
+    <updated>2026-09-15T21:50:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/HCkVVFjawAAwGGe.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html?unlocked_article_code=1.BVE.mt9g.fW2MONpQsanG&smid=nytcore-android-share">nytimes.com</a> | <a href="https://prohumanassembly.org/">source</a></small></p><hr/><p>Bernie Sanders and Steve Bannon joined a diverse group of religious leaders, artists, and parents at the Future of Life Institute's Pro-Human Assembly in Washington, D.C., to advocate for tighter artificial intelligence regulations. Participants denounced the influence of major technology executives and called for stricter controls on AI development.</p><p>The assembly is part of the broader Pro-Human AI movement, which seeks to ensure human control over emerging technologies. The event highlighted an unusual ideological convergence between progressive and conservative figures regarding the potential societal risks of unregulated AI.</p><p><img src="https://pbs.twimg.com/media/HCkVVFjawAAwGGe.jpg" /></p><hr/><small>16 Sep 2026, 03:45 UTC | #21235</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia CEO Jensen Huang Dismisses Need for New AI Laws</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-15/nvidia-s-huang-says-ai-industry-doesn-t-need-any-new-laws" rel="alternate" />
