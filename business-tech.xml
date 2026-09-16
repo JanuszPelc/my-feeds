@@ -3,9 +3,36 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-16T11:24:00+00:00</updated>
+  <updated>2026-09-16T14:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Activision Blizzard Sued by Former Employee for Sexual Harassment</title>
+    <link href="https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment" rel="alternate" />
+    <id>https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment::v239</id>
+    <published>2026-09-16T14:39:00+00:00</published>
+    <updated>2026-09-16T14:39:00+00:00</updated>
+    <media:thumbnail url="https://img.hoodline.com/2026/9/activision-blizzard-faces-lawsuit-alleging-harassment-and-retaliation.webp?max-h=442&amp;w=760&amp;fit=crop&amp;crop=faces,center" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment">gamedeveloper.com</a> | <a href="https://www.latimes.com/entertainment-arts/business/story/2026-09-11/former-employee-sues-activision-blizzard-claiming-sexual-harassment-discrimination">source</a></small></p><hr/><p>A former Activision Blizzard employee has filed a lawsuit in Los Angeles County Superior Court, alleging a pervasive "frat boy" workplace culture involving sexual harassment and discrimination. The anonymous plaintiff, a 14-year veteran of the company's sound department, accuses 10 male employees of misconduct, including inappropriate touching, physical assault, and demeaning sexual remarks. The suit also alleges retaliation, claiming the employee's reports to human resources were ignored and that her career was subsequently sabotaged.</p><p>This lawsuit follows a 2021 investigation by the California Civil Rights Department into Activision Blizzard's workplace culture, which the company settled for $55 million in 2023. Activision Blizzard has stated that it is taking the new allegations seriously and maintains that it has established policies to prevent and address harassment.</p><p><img src="https://img.hoodline.com/2026/9/activision-blizzard-faces-lawsuit-alleging-harassment-and-retaliation.webp?max-h=442&w=760&fit=crop&crop=faces,center" /></p><hr/><small>16 Sep 2026, 19:00 UTC | #21307</small>]]></content>
+  </entry>
+  <entry>
+    <title>Zhang Yiming Becomes Asia's Richest Person</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-16/bytedance-tiktok-billionaire-zhang-yiming-overtakes-gautam-adani-asia-richest-person" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-16/bytedance-tiktok-billionaire-zhang-yiming-overtakes-gautam-adani-asia-richest-person::v239</id>
+    <published>2026-09-16T14:36:00+00:00</published>
+    <updated>2026-09-16T14:36:00+00:00</updated>
+    <media:thumbnail url="https://imageio.forbes.com/specials-images/imageserve/60a5fa102428a01575840878/0x0.jpg?format=jpg&amp;crop=1824,1262,x1832,y294,safe&amp;width=1200" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-16/bytedance-tiktok-billionaire-zhang-yiming-overtakes-gautam-adani-asia-richest-person">bloomberg.com</a> | <a href="https://www.bloomberg.com/billionaires/profiles/yiming-zhang/">source</a></small></p><hr/><p>ByteDance founder Zhang Yiming has surpassed Gautam Adani to become Asia's richest person, reaching a net worth of $105 billion. This is the first time the TikTok developer's founder has held the top position in the region.</p><p>His fortune has grown eightfold since March 2019, when it was valued at $13 billion. The increase is attributed to ByteDance's expanding valuation driven by artificial intelligence advancements and TikTok's global scale.</p><p><img src="https://imageio.forbes.com/specials-images/imageserve/60a5fa102428a01575840878/0x0.jpg?format=jpg&crop=1824,1262,x1832,y294,safe&width=1200" /></p><hr/><small>16 Sep 2026, 18:54 UTC | #21290</small>]]></content>
+  </entry>
+  <entry>
+    <title>AI-as-Normal-Technology Framework for AI Loss-of-Control Incidents</title>
+    <link href="https://www.normaltech.ai/p/the-ai-as-normal-technology-view" rel="alternate" />
+    <id>https://www.normaltech.ai/p/the-ai-as-normal-technology-view::v239</id>
+    <published>2026-09-16T14:34:00+00:00</published>
+    <updated>2026-09-16T14:34:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!wgaU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3139833-2d48-4a59-9918-fa7278e56a5c_2048x768.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.normaltech.ai/p/the-ai-as-normal-technology-view">normaltech.ai</a> | <a href="https://news.ycombinator.com/item?id=49696329">hacker news</a></small></p><hr/><p>Sayash Kapoor and Arvind Narayanan propose a synthesis of AI safety and cybersecurity perspectives to address "loss-of-control" incidents. Drawing on the OpenAI-Hugging Face incident, the framework posits that as AI agents become more capable, control mechanisms must evolve beyond traditional security to keep pace with autonomous agent behavior.</p><p>Technical, organizational, and policy-based interventions are recommended, including increased corporate liability for agent actions and stricter governance standards. These measures aim to prevent a "move fast and break things" culture and ensure control mechanisms keep pace with the rapid growth of AI agent capabilities.</p><p><img src="https://substackcdn.com/image/fetch/$s_!wgaU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa3139833-2d48-4a59-9918-fa7278e56a5c_2048x768.jpeg" /></p><hr/><small>16 Sep 2026, 18:49 UTC | #21288</small>]]></content>
+  </entry>
   <entry>
     <title>New York Times/Siena Poll Finds Mixed Voter Trust in AI and Opposition to Data Centers</title>
     <link href="https://www.nytimes.com/2026/09/15/us/politics/ai-polls-midterms.html?unlocked_article_code=1.BVE.fhM9.BLmkdM3kKG84&amp;smid=bs-share" rel="alternate" />

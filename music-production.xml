@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-16T11:19:00+00:00</updated>
+  <updated>2026-09-16T14:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Soundins Releases OmniPass Free All-Pass Filter Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/09/16/soundins-omnipass/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/16/soundins-omnipass/::v239</id>
+    <published>2026-09-16T14:42:00+00:00</published>
+    <updated>2026-09-16T14:42:00+00:00</updated>
+    <media:thumbnail url="https://www.cmuse.org/wp-content/uploads/2026/05/all-pass-filter-calculator-for-phase-and-delay.png" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/16/soundins-omnipass/">bedroomproducersblog.com</a> | <a href="https://soundins.com.ar/Plugins/OmniPass/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/16/soundins-omnipass/#respond">discussion</a></small></p><hr/><p>Soundins has released OmniPass, a free all-pass filter plugin compatible with macOS and Windows. The plugin generates frequency-dependent phase shifts while maintaining a flat magnitude response, allowing for phase manipulation without altering the volume or frequency balance of the signal.</p><p>Available in VST, VST3, AU, and AAX formats, OmniPass is intended for use in phase alignment and sound design. It offers a specialized method for adjusting signal phase within a digital audio workstation without the frequency-altering effects of a standard equalizer.</p><p><img src="https://www.cmuse.org/wp-content/uploads/2026/05/all-pass-filter-calculator-for-phase-and-delay.png" /></p><hr/><small>16 Sep 2026, 19:07 UTC | #21315</small>]]></content>
+  </entry>
+  <entry>
+    <title>Temecula DSP Releases QDV1 QuadraVerb Emulation</title>
+    <link href="https://bedroomproducersblog.com/2026/09/16/temecula-dsp-qdv1-quadraverb/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/16/temecula-dsp-qdv1-quadraverb/::v239</id>
+    <published>2026-09-16T14:40:00+00:00</published>
+    <updated>2026-09-16T14:40:00+00:00</updated>
+    <media:thumbnail url="https://img.audiofanzine.com/images/u/fr/news/cover/temecula-dsp-offre-mcv-i-81234.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/16/temecula-dsp-qdv1-quadraverb/">bedroomproducersblog.com</a> | <a href="https://www.temeculadsp.com/qdv1">source</a></small></p><hr/><p>Temecula DSP has released QDV1, a software emulation of the 1989 Alesis QuadraVerb. The plugin replicates all eight signal paths, the full set of factory algorithms, and 90 factory programs. It is designed to allow direct control over processing sections to prevent menu diving.</p><p>Available for macOS and Windows, the plugin provides a variety of effects such as reverb, delay, pitch shifting, chorus, and flange. It is currently offered at an introductory price of $75.</p><p><img src="https://img.audiofanzine.com/images/u/fr/news/cover/temecula-dsp-offre-mcv-i-81234.jpg" /></p><hr/><small>16 Sep 2026, 19:03 UTC | #21316</small>]]></content>
+  </entry>
+  <entry>
+    <title>Optopus Free Opto Compressor Available for Windows</title>
+    <link href="https://bedroomproducersblog.com/2026/09/16/optopus-compressor-windows/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/16/optopus-compressor-windows/::v239</id>
+    <published>2026-09-16T14:38:00+00:00</published>
+    <updated>2026-09-16T14:38:00+00:00</updated>
+    <media:thumbnail url="https://niviem.net/niviem_opt4.webp" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/16/optopus-compressor-windows/">bedroomproducersblog.com</a> | <a href="https://www.patreon.com/posts/optopus-smooth-151233135">source</a> | <a href="https://bedroomproducersblog.com/2026/09/16/optopus-compressor-windows/#respond">discussion</a></small></p><hr/><p>madBee ::audio has released Optopus, a free optical-style compressor with tube saturation for Windows. The plugin provides a digital model of classic electro-optical compression designed for smooth, musical dynamics processing within a digital audio workstation.</p><p>The plugin includes extended controls to shape the compression response, simulate circuit aging, and add harmonic warmth via optional tube-style saturation. It is designed as a lightweight tool for adding analog character to digital audio tracks.</p><p><img src="https://niviem.net/niviem_opt4.webp" /></p><hr/><small>16 Sep 2026, 18:59 UTC | #21317</small>]]></content>
+  </entry>
   <entry>
     <title>Beat Magazine #249 Includes Synthesizer V Studio Core Bundle</title>
     <link href="https://bedroomproducersblog.com/2026/09/16/beat-magazine-249/" rel="alternate" />
@@ -545,14 +572,5 @@
     <updated>2026-09-11T23:23:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/kvrthumb1200x630.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/neverfoundaudio-releases-eeq-8-dynamic-eq-and-updates-vt-mini-to-v1-0-1-windows-vst3-68467?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68467">kvraudio.com</a> | <a href="https://neverfoundaudio.com/">source</a></small></p><hr/><p>The EEQ-8 is an eight-band dynamic EQ for Windows supporting stereo, mid/side, and left/right modes. The VST3 plugin, which costs €23.99, includes three phase modes ranging from zero latency to linear phase.</p><p>The free VT-Mini vocal tuner has been updated to version 1.0.1, adding a custom scale mode, an options menu, and a new theme. While EEQ-8 is currently restricted to Windows, the developer plans to release a macOS version as a free update for existing owners.</p><p><img src="https://static.kvraudio.com/i/b/kvrthumb1200x630.png" /></p><hr/><small>12 Sep 2026, 01:59 UTC | #20880</small>]]></content>
-  </entry>
-  <entry>
-    <title>Gooey Audio Releases White Rhino Beat Masher</title>
-    <link href="https://www.kvraudio.com/news/gooey-releases-white-rhino-beat-masher-vst3-au-and-aax-68185?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68185" rel="alternate" />
-    <id>https://www.kvraudio.com/news/gooey-releases-white-rhino-beat-masher-vst3-au-and-aax-68185?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68185::v239</id>
-    <published>2026-09-11T19:01:00+00:00</published>
-    <updated>2026-09-11T19:01:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/whiterhino-01.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/gooey-releases-white-rhino-beat-masher-vst3-au-and-aax-68185?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68185">kvraudio.com</a> | <a href="https://gooeyaudio.com/plugins/white-rhino">source</a></small></p><hr/><p>White Rhino is a beat masher plugin that transforms audio samples into musical phrases and patterns. The tool features four selectable patterns and can generate one- or two-bar variations, and is available in VST3, AU, and AAX formats for macOS and Windows.</p><p>The plugin is being sold as a limited-time "collector's item" for $4.99. It is designed to facilitate rapid rhythmic experimentation and sound flipping.</p><p><img src="https://static.kvraudio.com/i/b/whiterhino-01.jpg" /></p><hr/><small>12 Sep 2026, 00:08 UTC | #20867</small>]]></content>
   </entry>
 </feed>

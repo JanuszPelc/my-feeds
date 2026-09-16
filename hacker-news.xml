@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-16T13:25:00+00:00</updated>
+  <updated>2026-09-16T14:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Linux and BSD Use Encouraged for Efficient Computing</title>
+    <link href="https://distrowatch.com/weekly.php?issue=20260914#qa" rel="alternate" />
+    <id>https://distrowatch.com/weekly.php?issue=20260914#qa::v239</id>
+    <published>2026-09-16T14:43:00+00:00</published>
+    <updated>2026-09-16T14:43:00+00:00</updated>
+    <media:thumbnail url="https://opensource.com/sites/default/files/uploads/tinycore.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://distrowatch.com/weekly.php?issue=20260914#qa">distrowatch.com</a> | <a href="https://lobste.rs/s/zwhnko/smallest_possible_linux_distribution">discussion</a></small></p><hr/><p>Linux and BSD operating systems are advocated as a means to improve computing efficiency and user experience. The discussion positions these platforms as lightweight alternatives to the heavy resource requirements of modern mainstream operating systems.</p><p>Minimalist distributions, such as Tiny Core Linux, are highlighted for their extremely low resource footprints. These systems are noted for their ability to revive legacy hardware and for providing highly specialized, low-overhead computing environments.</p><p><img src="https://opensource.com/sites/default/files/uploads/tinycore.jpg" /></p><hr/><small>16 Sep 2026, 19:13 UTC | #21360</small>]]></content>
+  </entry>
+  <entry>
+    <title>Chinese Hacking Firm ZRON Uses AI to Process Stolen Intelligence</title>
+    <link href="https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846?st=gfuSd9&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846?st=gfuSd9&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-09-16T14:35:00+00:00</published>
+    <updated>2026-09-16T14:35:00+00:00</updated>
+    <media:thumbnail url="https://www.insurancejournal.com/app/uploads/2023/08/chinese-hackers-in-troll-farm-429306215-bigstock-scaled.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846?st=gfuSd9&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Internal company materials indicate that the Chinese hacking-for-hire firm ZRON is selling stolen intelligence from foreign governments and using AI to make the data more accessible to police. The company's operations reportedly target nations such as Russia and Pakistan.</p><p>The use of AI allows the firm to transform large volumes of stolen information into digestible formats for law enforcement. This development highlights how private cyber espionage groups are increasingly using artificial intelligence to automate the intelligence-gathering and analysis lifecycle.</p><p><img src="https://www.insurancejournal.com/app/uploads/2023/08/chinese-hackers-in-troll-farm-429306215-bigstock-scaled.jpg" /></p><hr/><small>16 Sep 2026, 18:51 UTC | #21287</small>]]></content>
+  </entry>
   <entry>
     <title>Root Access Enables Forging Signed C2PA Metadata on Google Pixel 10</title>
     <link href="https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html" rel="alternate" />
