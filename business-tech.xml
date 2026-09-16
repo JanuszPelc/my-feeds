@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-16T19:03:00+00:00</updated>
+  <updated>2026-09-16T19:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Pentagon CTO Emil Michael Opposes Government Equity Stakes and New AI Regulations</title>
+    <link href="https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html::v239</id>
+    <published>2026-09-16T19:06:00+00:00</published>
+    <updated>2026-09-16T19:06:00+00:00</updated>
+    <media:thumbnail url="https://media.breitbart.com/media/2026/03/Emil-Michael-talks-about-AI-with-The-Alex-Marlow-Show-640x480.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html">cnbc.com</a> | <a href="https://www.cnbc.com/video/2026/09/16/watch-cnbcs-full-interview-with-department-of-defense-under-secretary-emil-michael.html">source</a></small></p><hr/><p>Department of Defense Chief Technology Officer Emil Michael has expressed opposition to the Trump administration seeking equity stakes or nationalization of artificial intelligence companies. Michael also signaled resistance to increased federal regulatory oversight for the AI sector, arguing that existing laws and product liability are sufficient to manage safety and risk concerns.</p><p>The administration has recently taken equity stakes in other industries, including Intel and U.S. Steel. Michael characterized calls for AI regulation and development slowdowns as a "coordinated campaign" intended to benefit established industry incumbents.</p><p><img src="https://media.breitbart.com/media/2026/03/Emil-Michael-talks-about-AI-with-The-Alex-Marlow-Show-640x480.jpg" /></p><hr/><small>16 Sep 2026, 23:48 UTC | #21350</small>]]></content>
+  </entry>
+  <entry>
+    <title>Judge Orders X and SpaceXAI to Disclose Apple Settlement Following Dropped Antitrust Claims</title>
+    <link href="https://www.politico.com/news/2026/09/15/elon-musk-antitrust-apple-openai-01078840" rel="alternate" />
+    <id>https://www.politico.com/news/2026/09/15/elon-musk-antitrust-apple-openai-01078840::v239</id>
+    <published>2026-09-16T19:04:00+00:00</published>
+    <updated>2026-09-16T19:04:00+00:00</updated>
+    <media:thumbnail url="https://cdn.theoutpost.ai/files/article_376929_Elon_Musk_Tesla_Space_X_x_AI_1760969524622_e6f2301bb3.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/09/15/elon-musk-antitrust-apple-openai-01078840">politico.com</a> | <a href="https://news.ycombinator.com/item?id=49721504">hacker news</a></small></p><hr/><p>A federal judge has ordered Elon Musk's companies, X Corp and SpaceXAI, to disclose any settlement agreements reached with Apple following their decision to drop antitrust claims against the company. The order was issued after OpenAI requested information regarding a purported agreement between Musk's companies and Apple.</p><p>The litigation, overseen by Judge Mark Pittman in Texas, involves allegations that Apple and OpenAI formed a partnership to restrict competition in the AI market. While the claims against Apple have been dismissed, the antitrust case against OpenAI remains active.</p><p><img src="https://cdn.theoutpost.ai/files/article_376929_Elon_Musk_Tesla_Space_X_x_AI_1760969524622_e6f2301bb3.jpg" /></p><hr/><small>16 Sep 2026, 23:45 UTC | #21351</small>]]></content>
+  </entry>
   <entry>
     <title>Security Experts Urge AI Labs to Prioritize Network Security Over Auditing</title>
     <link href="https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/" rel="alternate" />
@@ -1064,14 +1082,5 @@
     <updated>2026-09-12T03:15:00+00:00</updated>
     <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D22AQGTKggFU0ZPRQ/feedshare-shrink_800/B4DZzrJYSJGYAc-/0/1773471630774?e=2147483647&amp;v=beta&amp;t=gIfSihd2NqHw6fnAMwwfHBgM4TW5MNPcPg0go88kUj4" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.autom.dev/blog/google-search-goto-links">autom.dev</a> | <a href="https://news.ycombinator.com/item?id=49668386">hacker news</a></small></p><hr/><p>Google is migrating organic search result links to a `google.com/goto` redirect format, replacing direct destination URLs in the HTML. This change, increasingly prevalent in private or logged-out sessions, uses an opaque, encoded `url` parameter that requires clients to inspect the `Location` header to identify the target page.</p><p>This implementation aims to increase the resource cost of automated SERP harvesting by AI crawlers and SEO scrapers. By forcing clients to make additional requests to Google to resolve links, the update makes large-scale scraping slower and more detectable, complementing previous measures such as the removal of the `&amp;num=100` parameter and enhanced bot protection.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D22AQGTKggFU0ZPRQ/feedshare-shrink_800/B4DZzrJYSJGYAc-/0/1773471630774?e=2147483647&v=beta&t=gIfSihd2NqHw6fnAMwwfHBgM4TW5MNPcPg0go88kUj4" /></p><hr/><small>12 Sep 2026, 06:21 UTC | #20900</small>]]></content>
-  </entry>
-  <entry>
-    <title>US Senate Negotiators Debate 'Duty of Care' for AI Companies</title>
-    <link href="https://www.reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11/" rel="alternate" />
-    <id>https://www.reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11/::v239</id>
-    <published>2026-09-11T23:34:00+00:00</published>
-    <updated>2026-09-11T23:34:00+00:00</updated>
-    <media:thumbnail url="https://cdn-cabinet.ua.news/uploads/images/us_senate_ai_firms_duty_catastrophic_ris_1789154868706.webp?7849227" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11/">reuters.com</a></small></p><hr/><p>Senate negotiators are debating legislation that would impose a legal "duty of care" on artificial intelligence companies to mitigate major safety risks. The proposed framework would grant the government the authority to block the release of AI models deemed to pose significant or catastrophic threats to public safety.</p><p>The measure, reportedly led by Senators Thune, Cruz, and Klobuchar, would transition the industry from voluntary self-regulation to a mandatory legal standard for "frontier" models with highly advanced capabilities. The legislation may also include provisions designed to prevent states from enacting their own independent regulations regarding AI risks.</p><p><img src="https://cdn-cabinet.ua.news/uploads/images/us_senate_ai_firms_duty_catastrophic_ris_1789154868706.webp?7849227" /></p><hr/><small>12 Sep 2026, 05:27 UTC | #20886</small>]]></content>
   </entry>
 </feed>
