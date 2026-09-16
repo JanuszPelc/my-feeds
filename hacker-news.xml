@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-16T00:27:00+00:00</updated>
+  <updated>2026-09-16T02:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>dbt Labs Open-Sources dbt Charts Dashboard Language</title>
+    <link href="https://dbtcharts.com/blog/charts-built-for-chat/" rel="alternate" />
+    <id>https://dbtcharts.com/blog/charts-built-for-chat/::v239</id>
+    <published>2026-09-16T02:17:00+00:00</published>
+    <updated>2026-09-16T02:17:00+00:00</updated>
+    <media:thumbnail url="https://raw.githubusercontent.com/chartgpu/chartgpu/main/docs/assets/chart-gpu-demo.gif" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://dbtcharts.com/blog/charts-built-for-chat/">dbtcharts.com</a> | <a href="https://news.ycombinator.com/item?id=49704246">hacker news</a></small></p><hr/><p>dbt Labs has open-sourced dbt Charts, a declarative YAML language for defining interactive dashboards. The tool is optimized for AI-driven analytics, enabling agents to generate auditable, code-based visualizations that are stored in Git repositories, providing a governed alternative to both manual coding and rigid BI user interfaces.</p><p>The release includes a command-line interface for rendering charts to various formats like SVG and HTML, alongside a hosted platform in public beta for conversational analytics. By integrating directly with dbt, the system allows dashboard definitions to be version-controlled and validated through CI/CD alongside data transformations and models.</p><p><img src="https://raw.githubusercontent.com/chartgpu/chartgpu/main/docs/assets/chart-gpu-demo.gif" /></p><hr/><small>16 Sep 2026, 09:38 UTC | #21150</small>]]></content>
+  </entry>
   <entry>
     <title>OpenGL ES 3.0 Driver Developed for Apple M4 GPU</title>
     <link href="https://codyho.dev/blog/gpu-driver/" rel="alternate" />
