@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-16T10:38:00+00:00</updated>
+  <updated>2026-09-16T11:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Mistral and Mozilla Partner to Power Firefox Smart Window AI Assistant</title>
+    <link href="https://www.wsj.com/tech/ai/mistral-aims-to-grow-ai-consumer-base-through-mozilla-partnership-10038e0d?st=hp4xec&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/mistral-aims-to-grow-ai-consumer-base-through-mozilla-partnership-10038e0d?st=hp4xec&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-09-16T11:22:00+00:00</published>
+    <updated>2026-09-16T11:22:00+00:00</updated>
+    <media:thumbnail url="https://media.askvg.com/articles/images9/Change_Customize_Smart_Window_AI_Window_Settings_Mozilla_Firefox.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/mistral-aims-to-grow-ai-consumer-base-through-mozilla-partnership-10038e0d?st=hp4xec&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://blog.mozilla.org/en/firefox/mozilla-mistral-partnership/">source</a></small></p><hr/><p>Mistral is partnering with Mozilla to power the "Smart Window" AI browsing assistant in Firefox. The feature will be available in the United States, Canada, and France, with rollouts in the United Kingdom and Germany expected in 2026.</p><p>The collaboration aims to provide a privacy-focused, open-source alternative to the default AI ecosystems offered by major technology companies. The models are intended to be fine-tuned for regional languages and cultural contexts to provide more localized user experiences.</p><p><img src="https://media.askvg.com/articles/images9/Change_Customize_Smart_Window_AI_Window_Settings_Mozilla_Firefox.png" /></p><hr/><small>16 Sep 2026, 18:09 UTC | #21280</small>]]></content>
+  </entry>
+  <entry>
+    <title>Anthropic Signs First Australian Data Center Lease</title>
+    <link href="https://www.reuters.com/world/asia-pacific/anthropic-signs-first-australia-data-centre-agreement-2026-09-16/" rel="alternate" />
+    <id>https://www.reuters.com/world/asia-pacific/anthropic-signs-first-australia-data-centre-agreement-2026-09-16/::v239</id>
+    <published>2026-09-16T11:21:00+00:00</published>
+    <updated>2026-09-16T11:21:00+00:00</updated>
+    <media:thumbnail url="https://www.teslarati.com/wp-content/uploads/2026/05/spacex-xai-anthropic-colossus-1-scaled.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/anthropic-signs-first-australia-data-centre-agreement-2026-09-16/">reuters.com</a></small></p><hr/><p>The company has signed its first Australian data center lease for a planned 2.16GW campus. Located approximately 150 miles from Brisbane, the facility is expected to come online in 2027.</p><p>This massive capacity expansion is designed to meet the heavy computing demands of large-scale AI models. The project is set to utilize the region's renewable energy resources to power the site.</p><p><img src="https://www.teslarati.com/wp-content/uploads/2026/05/spacex-xai-anthropic-colossus-1-scaled.jpeg" /></p><hr/><small>16 Sep 2026, 18:06 UTC | #21279</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon Launches Alexa+ in India with Hindi Support</title>
     <link href="https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/" rel="alternate" />
