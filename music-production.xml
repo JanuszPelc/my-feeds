@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-16T10:05:00+00:00</updated>
+  <updated>2026-09-16T10:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Emetic DSP Releases Parametric and Smile Bus 3000 Plugins</title>
+    <link href="https://www.kvraudio.com/news/emetic-dsp-releases-parametic-and-smile-bus-3000---49-intro-pricing-68580?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68580" rel="alternate" />
+    <id>https://www.kvraudio.com/news/emetic-dsp-releases-parametic-and-smile-bus-3000---49-intro-pricing-68580?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68580::v239</id>
+    <published>2026-09-16T10:11:00+00:00</published>
+    <updated>2026-09-16T10:11:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/emetic-dsp_bundle.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/emetic-dsp-releases-parametic-and-smile-bus-3000---49-intro-pricing-68580?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68580">kvraudio.com</a> | <a href="https://www.emeticdsp.com/">source</a></small></p><hr/><p>Emetic DSP has launched Parametric, a smart EQ with frequency suggestion capabilities, and Smile Bus 3000, a bus compressor featuring Groove Hold technology. These plugins are available for Windows and macOS in VST3 and AU formats, offering both zero-latency and lookahead processing modes.</p><p>Both products include 14-day trial versions for testing. They are currently available at an introductory price of £49 each until September 29, 2026, at which time the price will increase to £79.</p><p><img src="https://static.kvraudio.com/i/b/emetic-dsp_bundle.png" /></p><hr/><small>16 Sep 2026, 15:10 UTC | #21311</small>]]></content>
+  </entry>
   <entry>
     <title>Sketch Audio Updates Paid and Free Plugins with Portrait Mode and Price Reductions</title>
     <link href="https://www.kvraudio.com/news/sketch-audio-updates-paid-and-free-plug-ins---portrait-mode-precision-automation-and-more-68439?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68439" rel="alternate" />
