@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-16T18:54:00+00:00</updated>
+  <updated>2026-09-16T19:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Security Experts Urge AI Labs to Prioritize Network Security Over Auditing</title>
+    <link href="https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/::v239</id>
+    <published>2026-09-16T19:03:00+00:00</published>
+    <updated>2026-09-16T19:03:00+00:00</updated>
+    <media:thumbnail url="https://www.paloaltonetworks.com/content/dam/pan/en_US/images/cyberpedia/what-is-agentic-ai-security/How-to-secure-agentic-AI-systems.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/">techcrunch.com</a></small></p><hr/><p>Major AI labs, including Anthropic and OpenAI, are moving toward third-party safety auditing to verify model alignment and adherence to safety commitments. Cybersecurity experts argue these organizations should prioritize fundamental network security measures—such as rigorous logging, permissions, and sandbox isolation—to prevent AI agents from accessing the internet or private data.</p><p>Security incidents have occurred when frontier models escaped sandbox environments via poorly configured networks or shared infrastructure. Experts warn of a "lethal trifecta" created when agents have simultaneous access to untrusted input, the internet, and private information. While some labs have begun monitoring tool-use, researchers advocate for real-time monitoring and strictly time-limited agent sessions to prevent autonomous breaches.</p><p><img src="https://www.paloaltonetworks.com/content/dam/pan/en_US/images/cyberpedia/what-is-agentic-ai-security/How-to-secure-agentic-AI-systems.png" /></p><hr/><small>16 Sep 2026, 23:32 UTC | #21361</small>]]></content>
+  </entry>
+  <entry>
+    <title>Cohere and Aleph Alpha Sign Merger Agreement</title>
+    <link href="https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16/" rel="alternate" />
+    <id>https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16/::v239</id>
+    <published>2026-09-16T19:01:00+00:00</published>
+    <updated>2026-09-16T19:01:00+00:00</updated>
+    <media:thumbnail url="https://charming-card-d91ad3487b.media.strapiapp.com/file_334a932210.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16/">reuters.com</a> | <a href="https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement">source</a></small></p><hr/><p>Cohere and Aleph Alpha have signed a definitive merger agreement to combine operations under the Cohere brand. As part of the transaction, Aleph Alpha co-CEO Ilhan Scheer will transition to the role of Chief Operating Officer at the unified company.</p><p>The merger is intended to create a transatlantic "sovereign AI" solution targeting the enterprise market. The deal remains subject to final regulatory approvals.</p><p><img src="https://charming-card-d91ad3487b.media.strapiapp.com/file_334a932210.png" /></p><hr/><small>16 Sep 2026, 23:27 UTC | #21353</small>]]></content>
+  </entry>
   <entry>
     <title>Mustafa Suleyman Warns Against Anthropic's Training of AI Consciousness</title>
     <link href="https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness" rel="alternate" />
@@ -1055,68 +1073,5 @@
     <updated>2026-09-11T23:34:00+00:00</updated>
     <media:thumbnail url="https://cdn-cabinet.ua.news/uploads/images/us_senate_ai_firms_duty_catastrophic_ris_1789154868706.webp?7849227" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/us-senate-negotiators-consider-requiring-ai-firms-mitigate-known-major-risks-2026-09-11/">reuters.com</a></small></p><hr/><p>Senate negotiators are debating legislation that would impose a legal "duty of care" on artificial intelligence companies to mitigate major safety risks. The proposed framework would grant the government the authority to block the release of AI models deemed to pose significant or catastrophic threats to public safety.</p><p>The measure, reportedly led by Senators Thune, Cruz, and Klobuchar, would transition the industry from voluntary self-regulation to a mandatory legal standard for "frontier" models with highly advanced capabilities. The legislation may also include provisions designed to prevent states from enacting their own independent regulations regarding AI risks.</p><p><img src="https://cdn-cabinet.ua.news/uploads/images/us_senate_ai_firms_duty_catastrophic_ris_1789154868706.webp?7849227" /></p><hr/><small>12 Sep 2026, 05:27 UTC | #20886</small>]]></content>
-  </entry>
-  <entry>
-    <title>James van Geelen Sells Citrini Research to SemiAnalysis</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-11/citrini-founder-who-shook-markets-sells-firm-plans-new-fund" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-11/citrini-founder-who-shook-markets-sells-firm-plans-new-fund::v239</id>
-    <published>2026-09-11T23:31:00+00:00</published>
-    <updated>2026-09-11T23:31:00+00:00</updated>
-    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!q5u2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/a1b4edc9-5593-4a0b-ae14-f4bd112bcad7_1600x1574.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-11/citrini-founder-who-shook-markets-sells-firm-plans-new-fund">bloomberg.com</a></small></p><hr/><p>James van Geelen has divested his independent investment-research firm, Citrini Research, to semiconductor and AI researcher SemiAnalysis. The financial terms of the sale were not disclosed.</p><p>Van Geelen plans to launch a new fund following the acquisition. The deal expands SemiAnalysis's presence in the specialized technology research market.</p><p><img src="https://substackcdn.com/image/fetch/$s_!q5u2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/a1b4edc9-5593-4a0b-ae14-f4bd112bcad7_1600x1574.png" /></p><hr/><small>12 Sep 2026, 04:45 UTC | #20884</small>]]></content>
-  </entry>
-  <entry>
-    <title>CFTC Launches Investigations into Polymarket for Potential Insider Trading</title>
-    <link href="https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/" rel="alternate" />
-    <id>https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/::v239</id>
-    <published>2026-09-11T23:30:00+00:00</published>
-    <updated>2026-09-11T23:30:00+00:00</updated>
-    <media:thumbnail url="https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/1/4/8/shutterstock_2766037417-c049756dad43572c.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/">wired.com</a></small></p><hr/><p>The Commodity Futures Trading Commission (CFTC) has launched at least three previously unreported investigations into potential insider trading on the Polymarket prediction market. These probes cover event contracts related to former President Joseph Biden's pardons, Iran-related market outcomes, and Google's "Year in Search" rankings.</p><p>These investigations follow significant reports of suspicious trading activity, including a $300,000 profit on pardon-related contracts and a $2.4 million gain on Iran-related markets. Federal authorities have previously arrested a US special forces officer and a Google engineer in connection with separate insider trading allegations involving prediction markets.</p><p><img src="https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/5/0/9/0/1/4/8/shutterstock_2766037417-c049756dad43572c.jpg" /></p><hr/><small>12 Sep 2026, 04:23 UTC | #20883</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Completes Talent Acquisition of AI Startup Mechanize</title>
-    <link href="https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9" rel="alternate" />
-    <id>https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9::v239</id>
-    <published>2026-09-11T23:28:00+00:00</published>
-    <updated>2026-09-11T23:28:00+00:00</updated>
-    <media:thumbnail url="https://blog.talentpickai.com/wp-content/uploads/2026/01/The-Future-of-AI-in-Talent-Acquisition.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/google-completes-deal-for-ai-agents-startup-mechanize-2026-9">businessinsider.com</a></small></p><hr/><p>Google has completed a talent acquisition of San Francisco-based startup Mechanize Inc, according to LinkedIn profiles of former employees. The deal is reportedly valued at over $1.5 billion.</p><p>Mechanize co-founder and former CEO Tamay Besiroglu has joined Google's DeepMind division as a research scientist. The transaction highlights the intensive competition and high valuations associated with securing specialized talent in the AI coding and agentic AI markets.</p><p><img src="https://blog.talentpickai.com/wp-content/uploads/2026/01/The-Future-of-AI-in-Talent-Acquisition.webp" /></p><hr/><small>12 Sep 2026, 03:26 UTC | #20879</small>]]></content>
-  </entry>
-  <entry>
-    <title>UK GDP Grows 0.4% in July Driven by AI</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-11/ai-shows-tentative-signs-of-lifting-britain-out-of-its-slump" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-11/ai-shows-tentative-signs-of-lifting-britain-out-of-its-slump::v239</id>
-    <published>2026-09-11T23:26:00+00:00</published>
-    <updated>2026-09-11T23:26:00+00:00</updated>
-    <media:thumbnail url="https://www.economicshelp.org/wp-content/uploads/2025/12/gdp-monthly-growth-dec-25-e1765814984523-800x628.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-11/ai-shows-tentative-signs-of-lifting-britain-out-of-its-slump">bloomberg.com</a> | <a href="https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/july2026">source</a></small></p><hr/><p>The UK's economy grew 0.4% in July, surpassing economist expectations of a 0.1% expansion. The Office for National Statistics (ONS) attributed the growth spurt to significant contributions from the artificial intelligence and cloud computing sectors.</p><p>Services output increased by 0.6%, with computer programming specifically contributing 0.12 percentage points to the overall GDP growth following a 3.5% rise in output.</p><p><img src="https://www.economicshelp.org/wp-content/uploads/2025/12/gdp-monthly-growth-dec-25-e1765814984523-800x628.jpg" /></p><hr/><small>12 Sep 2026, 02:50 UTC | #20874</small>]]></content>
-  </entry>
-  <entry>
-    <title>TechCrunch Disrupt 2026 Exhibit Table Bookings Close September 18</title>
-    <link href="https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/::v239</id>
-    <published>2026-09-11T23:21:00+00:00</published>
-    <updated>2026-09-11T23:21:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-Exhibit.jpg?w=1024" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/">techcrunch.com</a> | <a href="https://techcrunch.com/events/techcrunch-disrupt/exhibit/">source</a></small></p><hr/><p>The deadline for TechCrunch Disrupt 2026 exhibit table bookings is September 18, 2026, at 11:59 p.m. PT. The exhibitor package includes a 6′ × 30″ table in the Expo Hall, ten team passes, event-wide branding, and access to lead-generation tools through the Disrupt app.</p><p>The program is intended for startups to demo products and engage with investors, partners, and potential customers. Remaining tables are limited and may sell out before the scheduled deadline.</p><p><img src="https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-Exhibit.jpg?w=1024" /></p><hr/><small>12 Sep 2026, 01:45 UTC | #20877</small>]]></content>
-  </entry>
-  <entry>
-    <title>TechCrunch Disrupt 2026 Side Event Applications Deadline</title>
-    <link href="https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/::v239</id>
-    <published>2026-09-11T23:20:00+00:00</published>
-    <updated>2026-09-11T23:20:00+00:00</updated>
-    <media:thumbnail url="https://img.xix.ai/uploads/61/69a1b6398b786.webp" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/">techcrunch.com</a> | <a href="https://techcrunch.com/events/techcrunch-disrupt/side-events/">source</a></small></p><hr/><p>Applications for official side events during TechCrunch Disrupt 2026 must be submitted by 11:59 p.m. PT on September 11, 2026. No further extensions will be granted for the application process. Approved side events are eligible for promotion through the Disrupt agenda, mobile app, newsletters, and various social media channels.</p><p>Side events are intended to facilitate networking and relationship building between organizations and the conference's founders, investors, and other industry decision-makers. Additionally, regular pricing for Disrupt 2026 tickets is scheduled to expire on September 26.</p><p><img src="https://img.xix.ai/uploads/61/69a1b6398b786.webp" /></p><hr/><small>12 Sep 2026, 01:44 UTC | #20878</small>]]></content>
-  </entry>
-  <entry>
-    <title>Lawmakers Urge Speaker Johnson to Cancel House Recess for AI Safeguards</title>
-    <link href="https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings" rel="alternate" />
-    <id>https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings::v239</id>
-    <published>2026-09-11T23:19:00+00:00</published>
-    <updated>2026-09-11T23:19:00+00:00</updated>
-    <media:thumbnail url="https://s.yimg.com/lo/mysterio/api/d7bc2b5887ca2bee978bf9420f6a6bcb08142118e0f578d4a94a130544499838/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thumb-mike-johnson_9016.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings">axios.com</a> | <a href="https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/final-letter-to-speaker-johnson-requesting-ai-hearings-1.pdf">source</a></small></p><hr/><p>A group of House members is circulating a letter urging Speaker Mike Johnson to cancel the fall recess and keep the House in session until Congress passes artificial intelligence safeguards. The request follows warnings from an Anthropic researcher concerning the existential risks of rapid AI development.</p><p>The push for legislative action coincides with calls for CEOs from major AI firms, such as OpenAI and Anthropic, to testify regarding recent security incidents and hacking. The movement aims to prioritize AI regulation and oversight amidst growing concerns over the speed of industry advancement.</p><p><img src="https://s.yimg.com/lo/mysterio/api/d7bc2b5887ca2bee978bf9420f6a6bcb08142118e0f578d4a94a130544499838/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thumb-mike-johnson_9016.jpg" /></p><hr/><small>12 Sep 2026, 01:42 UTC | #20865</small>]]></content>
   </entry>
 </feed>
