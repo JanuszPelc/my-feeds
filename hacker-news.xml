@@ -759,22 +759,4 @@
     <media:thumbnail url="https://learn.microsoft.com/en-us/windows/terminal/images/campbell-color-scheme.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://evergarden.moe/">evergarden.moe</a> | <a href="https://lobste.rs/s/cegf7n/evergarden">discussion</a></small></p><hr/><p>Evergarden is a terminal color scheme inspired by lush forests, enchanted groves, and the art of The Legend of Zelda: The Minish Cap. It is designed for visual comfort during coding, writing, or terminal use.</p><p>The palette draws influence from the Everforest, Nord, and Catppuccin color schemes. The colors can be previewed in a terminal by executing a curl command.</p><p><img src="https://learn.microsoft.com/en-us/windows/terminal/images/campbell-color-scheme.png" /></p><hr/><small>11 Sep 2026, 18:17 UTC | #20861</small>]]></content>
   </entry>
-  <entry>
-    <title>WebGPU Shader Can Freeze macOS via Untrusted Websites</title>
-    <link href="https://auberon.xyz/blog/posts/deathray/" rel="alternate" />
-    <id>https://auberon.xyz/blog/posts/deathray/::v239</id>
-    <published>2026-09-11T10:27:00+00:00</published>
-    <updated>2026-09-11T10:27:00+00:00</updated>
-    <media:thumbnail url="https://uploads-us-west-2.insided.com/adobedme-en/attachment/12fcb92c-6940-4179-9cb3-e8fb5ee0b619.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://auberon.xyz/blog/posts/deathray/">auberon.xyz</a> | <a href="https://lobste.rs/s/l0sqnt/untrusted_site_can_freeze_mac_using">discussion</a> | <a href="https://news.ycombinator.com/item?id=49649124">hacker news</a></small></p><hr/><p>A WebGPU compute shader on an untrusted website can hang a Mac's graphics, rendering the desktop UI unresponsive and requiring a forced restart. The issue is reproducible in Chrome, Firefox, and Safari on macOS but does not affect other operating systems.</p><p>The exploit creates an infinite loop in a compute shader that causes a GPU pileup, preventing the WindowServer from responding and eventually triggering a kernel panic via a system watchdog. Apple has declined to classify this behavior as a security vulnerability, asserting that system hangs and crashes do not constitute security issues.</p><p><img src="https://uploads-us-west-2.insided.com/adobedme-en/attachment/12fcb92c-6940-4179-9cb3-e8fb5ee0b619.png" /></p><hr/><small>11 Sep 2026, 14:00 UTC | #20838</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jujutsu (jj) Version Control Usage and Experience</title>
-    <link href="https://laurmaedje.github.io/posts/jj/" rel="alternate" />
-    <id>https://laurmaedje.github.io/posts/jj/::v239</id>
-    <published>2026-09-11T10:22:00+00:00</published>
-    <updated>2026-09-11T10:22:00+00:00</updated>
-    <media:thumbnail url="https://guneycansanli.github.io/my-blog/assets/images/jj/jj-1.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://laurmaedje.github.io/posts/jj/">laurmaedje.github.io</a> | <a href="https://lobste.rs/s/nbmbxj/conversations_with_jj">discussion</a></small></p><hr/><p>The author shares a six-month experience using the Jujutsu (jj) version control system alongside Git, primarily to facilitate pull request history cleanup. The author highlights smooth commit editing, a built-in undo feature, and an intuitive CLI as major advantages of the tool.</p><p>Challenges include the complexity of the jj log command, branch management nuances when transitioning between Git and jj, and unintended side effects from automatic snapshots. A more robust GUI for viewing and splitting diffs is noted as a primary requirement for full adoption.</p><p><img src="https://guneycansanli.github.io/my-blog/assets/images/jj/jj-1.jpg" /></p><hr/><small>11 Sep 2026, 13:41 UTC | #20836</small>]]></content>
-  </entry>
 </feed>
