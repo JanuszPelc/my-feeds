@@ -759,22 +759,4 @@
     <updated>2026-09-11T14:46:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs">github.com</a> | <a href="https://lobste.rs/s/b6oxoj/bastion_turbofish">discussion</a></small></p><hr/><p>The `bastion-of-the-turbofish.rs` file is a UI test case within the Rust programming language's compiler test suite. It is specifically designed to verify that the parser correctly handles the "turbofish" syntax, a pattern used to provide explicit type information during type inference.</p><p>Located in the `tests/ui/parser/` directory of the official Rust repository, the file is part of the automated testing infrastructure used to maintain compiler stability and prevent regressions in the parsing of complex syntactical expressions.</p><hr/><small>11 Sep 2026, 19:38 UTC | #20872</small>]]></content>
   </entry>
-  <entry>
-    <title>PlanetScale Introduces Neki Sharded Postgres</title>
-    <link href="https://planetscale.com/blog/introducing-neki" rel="alternate" />
-    <id>https://planetscale.com/blog/introducing-neki::v239</id>
-    <published>2026-09-11T14:33:00+00:00</published>
-    <updated>2026-09-11T14:33:00+00:00</updated>
-    <media:thumbnail url="https://planetscale-images.imgix.net/assets/postgres-pgbouncer-connection-config-options-DubW9rwb.png?auto=compress,format" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://planetscale.com/blog/introducing-neki">planetscale.com</a> | <a href="https://news.ycombinator.com/item?id=49645686">hacker news</a></small></p><hr/><p>PlanetScale has launched Neki, a sharding solution designed to scale PostgreSQL databases across multiple machines. By using a router that implements the Postgres wire protocol, the system maintains compatibility with existing application drivers and ORMs. Each shard functions as a complete Postgres cluster, including a primary node and replicas distributed across availability zones.</p><p>The architecture incorporates Neki routers for distributed query planning, sidecars for enhanced connection pooling, and a control plane to coordinate online workflows like schema changes, version upgrades, and resharding. Users manage data distribution through a JSON-based data topology. The service is currently available in platform preview.</p><p><img src="https://planetscale-images.imgix.net/assets/postgres-pgbouncer-connection-config-options-DubW9rwb.png?auto=compress,format" /></p><hr/><small>11 Sep 2026, 18:34 UTC | #20862</small>]]></content>
-  </entry>
-  <entry>
-    <title>Evergarden Color Scheme Inspired by Nature and The Minish Cap</title>
-    <link href="https://evergarden.moe/" rel="alternate" />
-    <id>https://evergarden.moe/::v239</id>
-    <published>2026-09-11T14:29:00+00:00</published>
-    <updated>2026-09-11T14:29:00+00:00</updated>
-    <media:thumbnail url="https://learn.microsoft.com/en-us/windows/terminal/images/campbell-color-scheme.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://evergarden.moe/">evergarden.moe</a> | <a href="https://lobste.rs/s/cegf7n/evergarden">discussion</a></small></p><hr/><p>Evergarden is a terminal color scheme inspired by lush forests, enchanted groves, and the art of The Legend of Zelda: The Minish Cap. It is designed for visual comfort during coding, writing, or terminal use.</p><p>The palette draws influence from the Everforest, Nord, and Catppuccin color schemes. The colors can be previewed in a terminal by executing a curl command.</p><p><img src="https://learn.microsoft.com/en-us/windows/terminal/images/campbell-color-scheme.png" /></p><hr/><small>11 Sep 2026, 18:17 UTC | #20861</small>]]></content>
-  </entry>
 </feed>
