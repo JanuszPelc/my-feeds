@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-16T18:58:00+00:00</updated>
+  <updated>2026-09-16T19:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Build a Rocket Boy Reportedly Closing After Layoffs</title>
+    <link href="https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs::v239</id>
+    <published>2026-09-16T19:00:00+00:00</published>
+    <updated>2026-09-16T19:00:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltad9a86b88a6b7cb6/6aaabd265fc2cc420fdd6a0f/New_Project(41).png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs">gamedeveloper.com</a></small></p><hr/><p>The developer behind *MindsEye*, Build a Rocket Boy, is reportedly winding down operations. Following recent rounds of layoffs, staff members have announced their departures on social media, and reports indicate the studio may be closing permanently.</p><p>The studio's recent history has been marked by significant turmoil, including allegations of mismanagement, legal claims regarding labor practices, and protests over the use of surveillance software on work devices. Additionally, IOI Partners stepped down as the publisher for *MindsEye* earlier this year.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltad9a86b88a6b7cb6/6aaabd265fc2cc420fdd6a0f/New_Project(41).png?width=720&quality=80&disable=upscale" /></p><hr/><small>16 Sep 2026, 23:11 UTC | #21358</small>]]></content>
+  </entry>
   <entry>
     <title>AI-Generated Code Increases Strain on OSRS Wiki and RuneLite</title>
     <link href="https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development" rel="alternate" />
