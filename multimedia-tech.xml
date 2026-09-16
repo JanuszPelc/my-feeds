@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-16T17:11:00+00:00</updated>
+  <updated>2026-09-16T18:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>AI-Generated Code Increases Strain on OSRS Wiki and RuneLite</title>
+    <link href="https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development" rel="alternate" />
+    <id>https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development::v239</id>
+    <published>2026-09-16T18:58:00+00:00</published>
+    <updated>2026-09-16T18:58:00+00:00</updated>
+    <media:thumbnail url="https://oldschool.runescape.wiki/images/thumb/Plugin_Hub_Java_lines_of_code_per_month.png/1000px-Plugin_Hub_Java_lines_of_code_per_month.png?8f023" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development">oldschool.runescape.wiki</a> | <a href="https://lobste.rs/s/aml2pc/osrs_wiki_runelite_are_increasingly">discussion</a> | <a href="https://news.ycombinator.com/item?id=49729823">hacker news</a></small></p><hr/><p>A 100-fold increase in low-effort, AI-generated code submissions is overwhelming the volunteer review processes and infrastructure for the RuneLite Plugin Hub and the OSRS Wiki. These submissions frequently include functional "hallucinations" of game content or inefficient code that triggers excessive API requests and extreme bandwidth consumption.</p><p>The influx of automated tools creates significant operational burdens, requiring maintainers to spend considerable time auditing unverified code that is often poorly optimized for the community's APIs. This trend threatens the open, low-friction nature of these community-led projects, potentially necessitating the introduction of restrictive measures like API keys and CAPTCHAs to ensure system stability.</p><p><img src="https://oldschool.runescape.wiki/images/thumb/Plugin_Hub_Java_lines_of_code_per_month.png/1000px-Plugin_Hub_Java_lines_of_code_per_month.png?8f023" /></p><hr/><small>16 Sep 2026, 22:57 UTC | #21378</small>]]></content>
+  </entry>
   <entry>
     <title>Shinji Mikami to Receive AIAS Hall of Fame Award at 2026 DICE Awards</title>
     <link href="https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards" rel="alternate" />

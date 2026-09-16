@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-16T05:07:00+00:00</updated>
+  <updated>2026-09-16T18:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Ana Rodrigues Encourages Attendees to Provide Positive Feedback to Conference Speakers</title>
+    <link href="https://ohhelloana.blog/tell-the-speakers/" rel="alternate" />
+    <id>https://ohhelloana.blog/tell-the-speakers/::v239</id>
+    <published>2026-09-16T18:57:00+00:00</published>
+    <updated>2026-09-16T18:57:00+00:00</updated>
+    <media:thumbnail url="https://cdn.jotfor.ms/templates/screenshot/form-templates/networking-event-speaker-feedback-survey.png?w=1200&amp;v=684011701&amp;t=classic" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ohhelloana.blog/tell-the-speakers/">ohhelloana.blog</a> | <a href="https://news.ycombinator.com/item?id=49710903">hacker news</a></small></p><hr/><p>At conferences such as SmashingConf Freiburg, many attendees feel too intimidated to approach speakers, leaving presenters uncertain about the impact of their presentations. Facilitating direct conversations between audience members and speakers helps bridge this social gap and fosters connection.</p><p>Small, direct interactions provide essential validation for presenters who may otherwise lack social media engagement or real-time feedback. The piece advocates for a more communicative culture to support the confidence and well-being of those presenting in the tech community.</p><p><img src="https://cdn.jotfor.ms/templates/screenshot/form-templates/networking-event-speaker-feedback-survey.png?w=1200&v=684011701&t=classic" /></p><hr/><small>16 Sep 2026, 22:52 UTC | #21377</small>]]></content>
+  </entry>
   <entry>
     <title>HHMI Janelia and Google Research Map Complete Male Fruit Fly Brain</title>
     <link href="https://www.404media.co/a-digital-fly-brain-has-taken-over-the-internet/" rel="alternate" />
