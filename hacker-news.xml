@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-15T21:57:00+00:00</updated>
+  <updated>2026-09-16T00:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Meta Plans Fall Release of Camera-Free Smart Glasses</title>
+    <link href="https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns" rel="alternate" />
+    <id>https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns::v239</id>
+    <published>2026-09-16T00:23:00+00:00</published>
+    <updated>2026-09-16T00:23:00+00:00</updated>
+    <media:thumbnail url="https://the-gadgeteer.com/wp-content/uploads/2026/04/Even-Realities-G2-Smart-Glasses-800x600.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns">theinformation.com</a></small></p><hr/><p>Meta Platforms plans to release a camera-free pair of smart glasses, internally codenamed "Luna," this fall. The device is expected to feature six microphones to allow users to communicate with Meta's AI chatbot and Muse via voice.</p><p>The move toward camera-free hardware follows increasing privacy concerns regarding the recording capabilities of existing smart glasses. The new model is intended to appeal to privacy-conscious consumers and bystanders.</p><p><img src="https://the-gadgeteer.com/wp-content/uploads/2026/04/Even-Realities-G2-Smart-Glasses-800x600.png" /></p><hr/><small>16 Sep 2026, 05:53 UTC | #21245</small>]]></content>
+  </entry>
   <entry>
     <title>Baseten GitHub Token Exposed in Public Docker Image</title>
     <link href="https://www.strix.ai/blog/baseten-harbor-github-pat-takeover" rel="alternate" />
