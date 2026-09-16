@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-15T20:13:00+00:00</updated>
+  <updated>2026-09-15T20:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google Unveils Gemini 3.8 Live and Extended Thinking Models</title>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/" rel="alternate" />
+    <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/::v239</id>
+    <published>2026-09-15T20:14:00+00:00</published>
+    <updated>2026-09-15T20:14:00+00:00</updated>
+    <media:thumbnail url="https://images.moneycontrol.com/static-mcnews/2024/05/20240514172607_Gemini-Live.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=49715947">hacker news</a></small></p><hr/><p>These new dialogue models are designed for real-time, voice-based interaction, with 3.8 Live optimized for scale and cost efficiency and 3.8 Live Extended Thinking built for high-complexity, multi-step reasoning. The 3.8 Live version features visual grounding and support for 97 languages, while the Extended Thinking model provides simultaneous reasoning and verbalized progress narration to guide users through complex tasks.</p><p>Availability is rolling out via the Gemini API and Google AI Studio for developers, alongside private enterprise previews. The models incorporate SynthID watermarking for audio detection and support background tool execution during conversation. Integration is planned across Google Search, Workspace, and the Gemini app to facilitate more intuitive, collaborative task completion.</p><p><img src="https://images.moneycontrol.com/static-mcnews/2024/05/20240514172607_Gemini-Live.png" /></p><hr/><small>16 Sep 2026, 01:33 UTC | #21220</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Launches WhatsApp Business Tools MCP for AI Agents</title>
     <link href="https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/" rel="alternate" />
