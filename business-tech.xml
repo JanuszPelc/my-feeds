@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-16T02:56:00+00:00</updated>
+  <updated>2026-09-16T09:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Gujarat Police to Question Google Over 500,000 Fake Gmail IDs Linked to Bomb Hoaxes</title>
+    <link href="https://www.reuters.com/world/indian-police-query-google-over-500000-fake-gmail-ids-linked-bomb-hoax-2026-09-15/" rel="alternate" />
+    <id>https://www.reuters.com/world/indian-police-query-google-over-500000-fake-gmail-ids-linked-bomb-hoax-2026-09-15/::v239</id>
+    <published>2026-09-16T09:56:00+00:00</published>
+    <updated>2026-09-16T09:56:00+00:00</updated>
+    <media:thumbnail url="https://static.toiimg.com/thumb/msid-129109120,width-1280,height-720,imgsize-101708,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/indian-police-query-google-over-500000-fake-gmail-ids-linked-bomb-hoax-2026-09-15/">reuters.com</a></small></p><hr/><p>Gujarat police in India plan to question Google regarding its account safeguards after uncovering a criminal network that used over 500,000 fake Gmail IDs to send hoax bomb threats. The investigation revealed that these accounts have been used to target government offices, courts, and educational institutions since 2022.</p><p>Authorities have arrested two individuals and dismantled an interstate cyber-racket linked to the operation. The investigation focuses on whether a lack of preventative measures allowed the massive volume of fraudulent accounts to operate undetected for several years.</p><p><img src="https://static.toiimg.com/thumb/msid-129109120,width-1280,height-720,imgsize-101708,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg" /></p><hr/><small>16 Sep 2026, 12:44 UTC | #21263</small>]]></content>
+  </entry>
   <entry>
     <title>Cybersecurity Experts Report Exclusion from AI Safety Planning</title>
     <link href="https://www.nbcnews.com/tech/security/cybersecurity-experts-say-ai-giants-shutting-safety-plans-rcna597704" rel="alternate" />
