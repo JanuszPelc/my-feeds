@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-16T14:42:00+00:00</updated>
+  <updated>2026-09-16T14:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Joe Landers Releases Profligacy Korg Prophecy Emulator</title>
+    <link href="https://bedroomproducersblog.com/2026/09/16/profligacy-korg-prophecy/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/16/profligacy-korg-prophecy/::v239</id>
+    <published>2026-09-16T14:50:00+00:00</published>
+    <updated>2026-09-16T14:50:00+00:00</updated>
+    <media:thumbnail url="https://synthanatomy.com/wp-content/uploads/2026/09/Joe-Landers-Profligacy.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/16/profligacy-korg-prophecy/">bedroomproducersblog.com</a> | <a href="https://github.com/joelanders/profligacy/releases">source</a> | <a href="https://bedroomproducersblog.com/2026/09/16/profligacy-korg-prophecy/#respond">discussion</a></small></p><hr/><p>Joe Landers has released Profligacy, a free and open-source emulator of the Korg Prophecy synthesizer. Compatible with macOS and Windows, the software is designed to replicate the distinctive 1990s digital synthesis sounds of the original hardware.</p><p>The project is in an early development stage and is characterized as being somewhat unpolished. It provides producers a way to access vintage digital synthesis textures within a modern software environment.</p><p><img src="https://synthanatomy.com/wp-content/uploads/2026/09/Joe-Landers-Profligacy.jpg" /></p><hr/><small>16 Sep 2026, 19:38 UTC | #21314</small>]]></content>
+  </entry>
   <entry>
     <title>Soundins Releases OmniPass Free All-Pass Filter Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/09/16/soundins-omnipass/" rel="alternate" />
