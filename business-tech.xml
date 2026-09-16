@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T19:53:00+00:00</updated>
+  <updated>2026-09-15T19:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Notable AI Startups and Products That Have Shut Down or Pivoted</title>
+    <link href="https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/::v239</id>
+    <published>2026-09-15T19:57:00+00:00</published>
+    <updated>2026-09-15T19:57:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQEXDQAcyO7OlA/feedshare-shrink_800/B4EZreH0PBGcAg-/0/1764663184666?e=2147483647&amp;v=beta&amp;t=lPb0teaKmuTel75ypV4PLluMOjOaut23p5KbdkXw8kY" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/">techcrunch.com</a></small></p><hr/><p>The rapid expansion of generative AI has led to a growing number of failed ventures, with data from S&amp;P Global Market Intelligence suggesting roughly 42% of corporate AI initiatives are abandoned. Notable casualties include automation tool Relay, OpenAI's video platform Sora, and wearable hardware like the Humane AI Pin. These failures stem from diverse issues ranging from high operating costs and technical challenges to direct competition from established tech giants.</p><p>The "AI graveyard" includes both independent startups and major tech features, such as Apple's delayed Siri updates and Microsoft's controversial Recall feature. While some companies like Rabbit have pivoted to new hardware projects, others, like Notion Mail, are scheduled to shut down in late September after users shifted toward specialized AI agents. These outcomes highlight the difficulty of maintaining product-market fit in a landscape where platform incumbents increasingly integrate specialized AI features into their core ecosystems.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQEXDQAcyO7OlA/feedshare-shrink_800/B4EZreH0PBGcAg-/0/1764663184666?e=2147483647&v=beta&t=lPb0teaKmuTel75ypV4PLluMOjOaut23p5KbdkXw8kY" /></p><hr/><small>16 Sep 2026, 00:18 UTC | #21223</small>]]></content>
+  </entry>
   <entry>
     <title>Universal Music Group Sues DistroKid Over Alleged AI-Generated Music Infringement</title>
     <link href="https://www.musicbusinessworldwide.com/universal-music-group-sues-distrokid-ai-generated-slop/" rel="alternate" />
