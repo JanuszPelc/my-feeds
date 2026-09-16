@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-15T19:43:00+00:00</updated>
+  <updated>2026-09-15T21:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Baseten GitHub Token Exposed in Public Docker Image</title>
+    <link href="https://www.strix.ai/blog/baseten-harbor-github-pat-takeover" rel="alternate" />
+    <id>https://www.strix.ai/blog/baseten-harbor-github-pat-takeover::v239</id>
+    <published>2026-09-15T21:57:00+00:00</published>
+    <updated>2026-09-15T21:57:00+00:00</updated>
+    <media:thumbnail url="https://www.strix.ai/baseten-blog/token-match-redacted.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.strix.ai/blog/baseten-harbor-github-pat-takeover">strix.ai</a> | <a href="https://news.ycombinator.com/item?id=49716476">hacker news</a></small></p><hr/><p>An autonomous hacking agent discovered a live GitHub personal access token within a publicly accessible Baseten Harbor registry. The token was found in the build history of a Docker image and provided administrative and push access to Baseten’s core product, GitOps, and Homebrew repositories. The exposure resulted from using Docker build arguments to pass credentials, which inadvertently saved the token in the image's metadata.</p><p>Baseten's security team responded by privatizing the registry and rotating the compromised token. The incident underscores the risks of leaking secrets through container image metadata and the necessity of using BuildKit secret mounts to prevent credentials from persisting in image layers or build histories.</p><p><img src="https://www.strix.ai/baseten-blog/token-match-redacted.png" /></p><hr/><small>16 Sep 2026, 04:30 UTC | #21259</small>]]></content>
+  </entry>
   <entry>
     <title>AWS Facilities in Bahrain and UAE Remain Offline Following Iranian Drone Strikes</title>
     <link href="https://www.wsj.com/world/middle-east/the-gulfs-ai-nightmare-came-courtesy-of-an-iranian-drone-3f313cb3?st=bKp1un&amp;reflink=desktopwebshare_permalink" rel="alternate" />
