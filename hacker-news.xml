@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-16T10:09:00+00:00</updated>
+  <updated>2026-09-16T10:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rheinmetall Onboard API Documentation</title>
+    <link href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html" rel="alternate" />
+    <id>https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html::v239</id>
+    <published>2026-09-16T10:13:00+00:00</published>
+    <updated>2026-09-16T10:13:00+00:00</updated>
+    <media:thumbnail url="https://images.ft.com/v3/image/raw/https://d1e00ek4ebabms.cloudfront.net/production/2dd0a7a8-d1d1-4741-8997-feffddfd3950.jpg?source=next-article&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">rheinmetall.github.io</a> | <a href="https://news.ycombinator.com/item?id=49718928">hacker news</a></small></p><hr/><p>The onboardapi library and middleware facilitate communication between sensor systems and software components using a standardized data model. Built on the ddkit SDK and the Data Distribution Service (DDS) standard, the library utilizes a publish-subscribe architecture to provide reliable, low-latency data exchange.</p><p>Designed for the Battlesuite ecosystem, the library supports C++ with wrappers for Java, C#, .NET, and Python. It employs DDS XTypes and XCDR2 encoding to ensure backward compatibility across evolving software and hardware environments.</p><p><img src="https://images.ft.com/v3/image/raw/https://d1e00ek4ebabms.cloudfront.net/production/2dd0a7a8-d1d1-4741-8997-feffddfd3950.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1" /></p><hr/><small>16 Sep 2026, 15:38 UTC | #21323</small>]]></content>
+  </entry>
   <entry>
     <title>Evaluating MinIO Alternatives for Single-Node Local S3</title>
     <link href="https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/" rel="alternate" />
