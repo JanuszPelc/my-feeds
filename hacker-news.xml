@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-16T09:55:00+00:00</updated>
+  <updated>2026-09-16T10:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Evaluating MinIO Alternatives for Single-Node Local S3</title>
+    <link href="https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/" rel="alternate" />
+    <id>https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/::v239</id>
+    <published>2026-09-16T10:09:00+00:00</published>
+    <updated>2026-09-16T10:09:00+00:00</updated>
+    <media:thumbnail url="https://rmoff.net/images/2026/01/rustfs.excalidraw.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/">rmoff.net</a> | <a href="https://news.ycombinator.com/item?id=49709381">hacker news</a></small></p><hr/><p>The article evaluates various S3-compatible storage alternatives for use in single-node, local development environments, intended to replace MinIO. The comparison covers S3Proxy, RustFS, SeaweedFS, Zenko CloudServer, Garage, Apache Ozone, and Ceph Object Gateway.</p><p>Evaluations are based on ease of configuration, Docker support, and resource requirements. The findings indicate that while SeaweedFS and S3Proxy provide lightweight and easy-to-implement options, tools like Garage and Apache Ozone present significantly higher configuration complexity and greater resource demands.</p><p><img src="https://rmoff.net/images/2026/01/rustfs.excalidraw.png" /></p><hr/><small>16 Sep 2026, 14:16 UTC | #21309</small>]]></content>
+  </entry>
   <entry>
     <title>Ursula von der Leyen Proposes Associate EU Membership for Canada</title>
     <link href="https://www.bbc.com/news/articles/cjwyzrr9d3dko" rel="alternate" />
