@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-16T17:03:00+00:00</updated>
+  <updated>2026-09-16T17:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amazon Raises Minimum Hourly Pay for US Operations Workers to $20</title>
+    <link href="https://www.reuters.com/legal/litigation/amazon-raises-minimum-hourly-pay-by-1-20-us-operations-workers-2026-09-16/" rel="alternate" />
+    <id>https://www.reuters.com/legal/litigation/amazon-raises-minimum-hourly-pay-by-1-20-us-operations-workers-2026-09-16/::v239</id>
+    <published>2026-09-16T17:10:00+00:00</published>
+    <updated>2026-09-16T17:10:00+00:00</updated>
+    <media:thumbnail url="https://s.hdnux.com/photos/01/32/53/51/23771775/3/1200x0.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/amazon-raises-minimum-hourly-pay-by-1-20-us-operations-workers-2026-09-16/">reuters.com</a> | <a href="https://press.aboutamazon.com/2026/9/amazon-raises-minimum-starting-pay-for-full-time-core-operations-employees-to-20-hour-with-average-pay-reaching-nearly-24-hour-and-launches-grocery-discount-and-access-to-new-lifetime-banking-benefits-to-make-everyday-life-more-affordable">source</a></small></p><hr/><p>Amazon is increasing the minimum starting wage for eligible full-time U.S. operations workers by $1 per hour, bringing the rate to $20. This pay increase is part of a broader initiative to enhance compensation and provide additional benefits to frontline employees.</p><p>Under the new structure, average hourly pay for these roles will reach approximately $24. The company is also introducing new banking tools, grocery discounts, and other financial benefits designed to improve affordability for its workforce.</p><p><img src="https://s.hdnux.com/photos/01/32/53/51/23771775/3/1200x0.jpg" /></p><hr/><small>16 Sep 2026, 21:44 UTC | #21320</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI and Anthropic Staff React to AI Slowdown Proposals</title>
     <link href="https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3" rel="alternate" />

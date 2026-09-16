@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-16T17:08:00+00:00</updated>
+  <updated>2026-09-16T17:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>accSone Updates crusher-X to v12.20</title>
+    <link href="https://www.kvraudio.com/news/accsone-updates-crusher-x-to-v12-20-68594?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68594" rel="alternate" />
+    <id>https://www.kvraudio.com/news/accsone-updates-crusher-x-to-v12-20-68594?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68594::v239</id>
+    <published>2026-09-16T17:12:00+00:00</published>
+    <updated>2026-09-16T17:12:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/cx12poster.1789576944.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/accsone-updates-crusher-x-to-v12-20-68594?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68594">kvraudio.com</a> | <a href="https://accsone.com/crusherx/whatsnewincrusherx12">source</a></small></p><hr/><p>accSone has released a free update to its crusher-X granular synthesis plugin, version 12.20. The update introduces a Binaural Processor for 3D audio rendering on headphones, new pitch tracking modes for cleaner melodic alignment, and expanded audio support for FLAC and improved MP3 compatibility.</p><p>The update includes significant engine and UI optimizations to reduce CPU usage and improve responsiveness. It also features enhanced Apple Silicon support for macOS and provides command-line capabilities for the Windows standalone version to facilitate batch processing and headless rendering.</p><p><img src="https://static.kvraudio.com/i/b/cx12poster.1789576944.jpg" /></p><hr/><small>16 Sep 2026, 21:47 UTC | #21363</small>]]></content>
+  </entry>
   <entry>
     <title>Smart Audio Plugins Releases Timbral Box Parallel Harmonic Processor</title>
     <link href="https://www.kvraudio.com/news/smart-audio-plugins-releases-timbral-box-a-parallel-harmonic-processor-68592?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68592" rel="alternate" />
