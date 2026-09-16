@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-16T10:02:00+00:00</updated>
+  <updated>2026-09-16T10:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Sketch Audio Updates Paid and Free Plugins with Portrait Mode and Price Reductions</title>
+    <link href="https://www.kvraudio.com/news/sketch-audio-updates-paid-and-free-plug-ins---portrait-mode-precision-automation-and-more-68439?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68439" rel="alternate" />
+    <id>https://www.kvraudio.com/news/sketch-audio-updates-paid-and-free-plug-ins---portrait-mode-precision-automation-and-more-68439?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68439::v239</id>
+    <published>2026-09-16T10:05:00+00:00</published>
+    <updated>2026-09-16T10:05:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/portrait-mode-decorated.1788894913.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/sketch-audio-updates-paid-and-free-plug-ins---portrait-mode-precision-automation-and-more-68439?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68439">kvraudio.com</a> | <a href="https://sketchaudio.com/blog/whats-new-v2-1-0">source</a></small></p><hr/><p>Sketch Audio has released version 2.1.0 for its paid plugin suite and version 1.1.0 for its free plugins. The update introduces a portrait mode layout with iPhone support, scroll wheel support, and improved gesture handling on iOS. Additional enhancements include precise automation, repeatable bounces, and performance optimizations for both the user interface and DSP.</p><p>Several paid plugins have received price reductions in USD, while the free versions have gained new features including output gain and level matching. Users can access new installers via the Sketch Audio website, and the iOS update is available on the Apple App Store. All paid plugins include a two-week free trial.</p><p><img src="https://static.kvraudio.com/i/b/portrait-mode-decorated.1788894913.png" /></p><hr/><small>16 Sep 2026, 13:39 UTC | #21271</small>]]></content>
+  </entry>
+  <entry>
+    <title>RJ Labs Releases Forbidden DI Enhancer for Guitar</title>
+    <link href="https://www.kvraudio.com/news/rj-labs-releases-forbidden---free-di-enhancer-for-guitar-68579?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68579" rel="alternate" />
+    <id>https://www.kvraudio.com/news/rj-labs-releases-forbidden---free-di-enhancer-for-guitar-68579?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68579::v239</id>
+    <published>2026-09-16T10:04:00+00:00</published>
+    <updated>2026-09-16T10:04:00+00:00</updated>
+    <media:thumbnail url="https://static.wixstatic.com/media/8721ab_58722de0920a430f86a97aecef54eb95f002.jpg/v1/fill/w_3000,h_3000,al_c,q_90,enc_avif,quality_auto/8721ab_58722de0920a430f86a97aecef54eb95f002.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/rj-labs-releases-forbidden---free-di-enhancer-for-guitar-68579?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68579">kvraudio.com</a> | <a href="https://rjlabs.nl/forbidden">source</a></small></p><hr/><p>RJ Labs has released Forbidden, a free VST3 and AU plugin designed as a DI enhancer for guitarists. The software uses a specialized processing chain to add weight and clarity to guitar signals before they reach amp simulations.</p><p>The plugin features three tonal profile buttons, a Tame control to soften aggressive settings, and an updated GATE+ stage for improved noise control. It is available for Windows and macOS.</p><p><img src="https://static.wixstatic.com/media/8721ab_58722de0920a430f86a97aecef54eb95f002.jpg/v1/fill/w_3000,h_3000,al_c,q_90,enc_avif,quality_auto/8721ab_58722de0920a430f86a97aecef54eb95f002.jpg" /></p><hr/><small>16 Sep 2026, 13:38 UTC | #21289</small>]]></content>
+  </entry>
   <entry>
     <title>Omnitronic PM-404F DJ Mixer Review</title>
     <link href="https://musictech.com/reviews/dj/omnitronic-pm-404f-review/" rel="alternate" />
@@ -527,23 +545,5 @@
     <updated>2026-09-11T14:44:00+00:00</updated>
     <media:thumbnail url="https://articles.roland.com/wp-content/uploads/2026/08/Original-Signal-5.png" />
     <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/events/roland-909-day-free-live-workshop-kevin-saunderson/">musictech.com</a> | <a href="https://www.submix.io/roland/tr-workshop-909-to-1000-with-kevin-saunderson">source</a></small></p><hr/><p>Roland is hosting a free workshop in Detroit to celebrate 909 Day. Led by techno pioneer Kevin Saunderson, the session will demonstrate sequencing, sound shaping, and performance techniques using the TR-909 and the TR-1000.</p><p>The event is available via YouTube or the Roland Cloud Academy livestream. Additionally, Roland is offering a discount on the TR-909 Software Rhythm Composer through September 30, 2026.</p><p><img src="https://articles.roland.com/wp-content/uploads/2026/08/Original-Signal-5.png" /></p><hr/><small>11 Sep 2026, 19:30 UTC | #20843</small>]]></content>
-  </entry>
-  <entry>
-    <title>GSi Updates Piano Studio to v1.1.0</title>
-    <link href="https://www.kvraudio.com/news/gsi-updates-piano-studio-to-v1-1-0-68499?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68499" rel="alternate" />
-    <id>https://www.kvraudio.com/news/gsi-updates-piano-studio-to-v1-1-0-68499?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68499::v239</id>
-    <published>2026-09-11T13:26:00+00:00</published>
-    <updated>2026-09-11T13:26:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/pianostudio01.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/gsi-updates-piano-studio-to-v1-1-0-68499?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68499">kvraudio.com</a> | <a href="https://www.genuinesoundware.com/?a=showproduct&b=75">source</a></small></p><hr/><p>GSi has released version 1.1.0 of its physically modeled grand piano plugin, Piano Studio. The update enhances the core physical model to provide increased dynamic response, more stable tails, and reduced chorus-like transients during attack phases.</p><p>Additional improvements include refined microphone and preamplifier responses, a global output level control, and a new "Half Pedal" option to support continuous sustain via piano controllers. The release also features an enhanced MIDIFile viewer, a progress bar for WAV rendering, and stability fixes for the iPad version's EQ editor.</p><p><img src="https://static.kvraudio.com/i/b/pianostudio01.png" /></p><hr/><small>11 Sep 2026, 16:40 UTC | #20826</small>]]></content>
-  </entry>
-  <entry>
-    <title>Amplimood Releases Free Gazer FX Shoegaze Multi-Effect Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/11/amplimood-gazer-fx/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/11/amplimood-gazer-fx/::v239</id>
-    <published>2026-09-11T13:25:00+00:00</published>
-    <updated>2026-09-11T13:25:00+00:00</updated>
-    <media:thumbnail url="https://projectofnapskint.com/wp-content/uploads/2026/05/20260516STAR-GAZER-BUNDLE-1.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/11/amplimood-gazer-fx/">bedroomproducersblog.com</a> | <a href="https://amplimood.com/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/11/amplimood-gazer-fx/#respond">discussion</a></small></p><hr/><p>Gazer FX is a 64-bit multi-effect plugin designed for shoegaze music production. It is compatible with macOS and Windows in VST3 and AU formats, and requires an email signup for download.</p><p>The plugin provides various effects intended to create the atmospheric textures characteristic of the shoegaze genre within a digital audio workstation.</p><p><img src="https://projectofnapskint.com/wp-content/uploads/2026/05/20260516STAR-GAZER-BUNDLE-1.jpg" /></p><hr/><small>11 Sep 2026, 16:39 UTC | #20835</small>]]></content>
   </entry>
 </feed>
