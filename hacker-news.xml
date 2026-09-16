@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-16T17:06:00+00:00</updated>
+  <updated>2026-09-16T18:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>4B Model Produces Faster Postgres Query Plans via Reinforcement Learning</title>
+    <link href="https://rohanbansal.com/qorl" rel="alternate" />
+    <id>https://rohanbansal.com/qorl::v239</id>
+    <published>2026-09-16T18:51:00+00:00</published>
+    <updated>2026-09-16T18:51:00+00:00</updated>
+    <media:thumbnail url="https://www.devart.com/dbforge/postgresql/studio/images/what-is-execution-plan.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://rohanbansal.com/qorl">rohanbansal.com</a> | <a href="https://news.ycombinator.com/item?id=49731285">hacker news</a></small></p><hr/><p>A 4B parameter model fine-tuned with supervised fine-tuning and reinforcement learning can generate pg_hint_plan hints that produce faster PostgreSQL query plans than the default optimizer. In testing, the model achieved up to an 81% reduction in execution latency for complex, join-heavy queries.</p><p>The experiment utilized a distilled Qwen 3.8 model and an agentic harness to navigate the combinatorial search space of join orders and scan types. This approach is intended for heavy analytic workloads, where the computational overhead of model inference is offset by the performance gains of executing optimized query plans repeatedly.</p><p><img src="https://www.devart.com/dbforge/postgresql/studio/images/what-is-execution-plan.png" /></p><hr/><small>16 Sep 2026, 22:31 UTC | #21375</small>]]></content>
+  </entry>
+  <entry>
+    <title>GNOME 51 "A Coruña" Released</title>
+    <link href="https://release.gnome.org/51/" rel="alternate" />
+    <id>https://release.gnome.org/51/::v239</id>
+    <published>2026-09-16T18:06:00+00:00</published>
+    <updated>2026-09-16T18:06:00+00:00</updated>
+    <media:thumbnail url="https://release.gnome.org/3-6/users-activities-overview-screenshot.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://release.gnome.org/51/">release.gnome.org</a> | <a href="https://lobste.rs/s/gs10ad/introducing_gnome_51">discussion</a></small></p><hr/><p>This release introduces offline map support in the Maps app, visual signatures in the Papers document viewer, and a redesigned File Previewer.</p><p>Performance improvements include reworked frame scheduling for smoother animations and faster screen capture. Settings refinements include auto-rotation for accelerometer-enabled devices and automatic touchpad disabling when a mouse is connected; the update is expected to arrive in major Linux distributions in the coming weeks.</p><p><img src="https://release.gnome.org/3-6/users-activities-overview-screenshot.webp" /></p><hr/><small>16 Sep 2026, 22:27 UTC | #21376</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Announces iPhone 18 Pro, Foldable iPhone Duo, and New Apple Watch Models</title>
     <link href="https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event" rel="alternate" />
