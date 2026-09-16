@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-16T10:06:00+00:00</updated>
+  <updated>2026-09-16T10:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>NLnet Labs Implements Policy Requiring Human-Authored Code and Documentation</title>
+    <link href="https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/" rel="alternate" />
+    <id>https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/::v239</id>
+    <published>2026-09-16T10:33:00+00:00</published>
+    <updated>2026-09-16T10:33:00+00:00</updated>
+    <media:thumbnail url="https://langcopilot.com/images/2025/09-september/2025-09-17-llm-agents-explained-visual-guide-ai_63.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/">blog.nlnetlabs.nl</a> | <a href="https://lobste.rs/s/glywa4/maintaining_love_for_coding_time_ai">discussion</a></small></p><hr/><p>NLnet Labs has mandated that all code and documentation contributions must be authored by humans. The organization cites the rise of AI-generated pull requests and an influx of highly detailed but time-consuming bug reports from large language models as the primary drivers for this policy.</p><p>While AI-generated security reports are increasingly accurate, the volume of these reports has created a triage bottleneck for the organization's small development teams. Furthermore, the company argues that AI-driven contributors are often unable to provide the technical reasoning necessary to meet the rigorous design and maintenance standards required for critical internet infrastructure software.</p><p><img src="https://langcopilot.com/images/2025/09-september/2025-09-17-llm-agents-explained-visual-guide-ai_63.webp" /></p><hr/><small>16 Sep 2026, 16:22 UTC | #21333</small>]]></content>
+  </entry>
   <entry>
     <title>Debate in China Over Making English Language Instruction Optional</title>
     <link href="https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html?unlocked_article_code=1.BlE.SzOw.Gt4xJ8P-97HP&amp;smid=url-share" rel="alternate" />

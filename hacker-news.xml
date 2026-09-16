@@ -3,9 +3,81 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-16T10:13:00+00:00</updated>
+  <updated>2026-09-16T10:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Xteink X3 Display Artifacts Diagnosed and Fixed Using AI</title>
+    <link href="https://www.serpentine.com/posts/2026/x3-stripes/" rel="alternate" />
+    <id>https://www.serpentine.com/posts/2026/x3-stripes/::v239</id>
+    <published>2026-09-16T10:37:00+00:00</published>
+    <updated>2026-09-16T10:37:00+00:00</updated>
+    <media:thumbnail url="https://www.xteink.com/cdn/shop/files/683681775225043_.pic_hd.jpg?v=1775225136&amp;width=3840" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.serpentine.com/posts/2026/x3-stripes/">serpentine.com</a> | <a href="https://lobste.rs/s/w6aktj/how_my_e_reader_lost_its_stripes">discussion</a> | <a href="https://news.ycombinator.com/item?id=49699489">hacker news</a></small></p><hr/><p>Vertical stripes and grayscale errors on the Xteink X3 e-reader stem from bugs in the CrossPoint firmware and the Free-Ink SDK. An investigation using AI agents determined that the device's "nudge" waveform was not executing correctly, preventing the rendering of dark grey and causing visual artifacts.</p><p>The implementation of the XTH4 grayscale waveform, which uses a longer pulse sequence to produce four distinct shades, resolved the issue. This change eliminated the stripe patterns and restored text anti-aliasing by enabling the proper display of dark grey.</p><p><img src="https://www.xteink.com/cdn/shop/files/683681775225043_.pic_hd.jpg?v=1775225136&width=3840" /></p><hr/><small>16 Sep 2026, 16:43 UTC | #21337</small>]]></content>
+  </entry>
+  <entry>
+    <title>Analysis of LLM-Generated Code in F-Droid App Repositories</title>
+    <link href="https://tintotint.eu/whacky-corner/f-droid_slop/" rel="alternate" />
+    <id>https://tintotint.eu/whacky-corner/f-droid_slop/::v239</id>
+    <published>2026-09-16T10:36:00+00:00</published>
+    <updated>2026-09-16T10:36:00+00:00</updated>
+    <media:thumbnail url="https://www.microsoft.com/en-us/research/uploads/prod/2023/03/llm-augmenter-diagram-1536x1082.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://tintotint.eu/whacky-corner/f-droid_slop/">tintotint.eu</a> | <a href="https://lobste.rs/s/acwuxy/how_much_f_droid_is_llm_generated">discussion</a> | <a href="https://news.ycombinator.com/item?id=49710015">hacker news</a></small></p><hr/><p>An investigation into the prevalence of LLM-generated code, or "vibe-coding," within the F-Droid repository. The analysis evaluates 102 app updates from September 2026 using a three-tier system based on commit patterns, repository metadata, and the presence of agentic development tools.</p><p>Multiple applications are identified as "Mostly AI" due to indicators such as AI-authored commits and the use of automated development agents. The proliferation of these applications raises concerns regarding software quality and the long-term implications for human-centric open-source development.</p><p><img src="https://www.microsoft.com/en-us/research/uploads/prod/2023/03/llm-augmenter-diagram-1536x1082.png" /></p><hr/><small>16 Sep 2026, 16:37 UTC | #21336</small>]]></content>
+  </entry>
+  <entry>
+    <title>WebKit Opposes APIs to Trigger Web App Installation</title>
+    <link href="https://adactio.com/journal/22757" rel="alternate" />
+    <id>https://adactio.com/journal/22757::v239</id>
+    <published>2026-09-16T10:35:00+00:00</published>
+    <updated>2026-09-16T10:35:00+00:00</updated>
+    <media:thumbnail url="https://www.simicart.com/blog/wp-content/uploads/pwa-install-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://adactio.com/journal/22757">adactio.com</a> | <a href="https://lobste.rs/s/pgzlof/stalling_installing">discussion</a></small></p><hr/><p>WebKit is resisting the implementation of APIs that would allow web developers to trigger the installation flow for web apps. During a recent W3C Technical Architecture Group meeting, the organization argued that installation decisions should remain solely within the browser's control and expressed skepticism regarding user demand for such functionality.</p><p>The dispute highlights a fundamental disagreement over whether web app installation should be a browser-driven process or a developer-initiated user action. Proponents argue that a standardized API would resolve current usability hurdles and help web apps compete more effectively with native applications by providing a more visible and intuitive installation path.</p><p><img src="https://www.simicart.com/blog/wp-content/uploads/pwa-install-1.png" /></p><hr/><small>16 Sep 2026, 16:32 UTC | #21335</small>]]></content>
+  </entry>
+  <entry>
+    <title>.NET 11 Performance Improvements</title>
+    <link href="https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/" rel="alternate" />
+    <id>https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/::v239</id>
+    <published>2026-09-16T10:34:00+00:00</published>
+    <updated>2026-09-16T10:34:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D22AQHdUwEO8FIzSA/feedshare-shrink_1280/B4DZxnn8MlIoAc-/0/1771265049633?e=2147483647&amp;v=beta&amp;t=Wr-ndupHF8sGCBnbVlTsgLxzf90OzLBS8CDzcPxFyS0" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/">devblogs.microsoft.com</a> | <a href="https://lobste.rs/s/udwhz2/performance_improvements_net_11">discussion</a> | <a href="https://news.ycombinator.com/item?id=49711424">hacker news</a></small></p><hr/><p>.NET 11 introduces performance optimizations across the runtime and libraries to reduce execution overhead and memory allocations. Key updates include enhanced Just-In-Time (JIT) compilation via guarded devirtualization and expanded escape analysis for more efficient stack allocation.</p><p>Micro-benchmarks using BenchmarkDotNet demonstrate gains in instruction fusion, syscall reduction, and SIMD-accelerated array copies. The runtime utilizes Profile-Guided Optimization (PGO) and "guess and verify" patterns to optimize common execution paths while maintaining correctness during virtual call dispatch.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D22AQHdUwEO8FIzSA/feedshare-shrink_1280/B4DZxnn8MlIoAc-/0/1771265049633?e=2147483647&v=beta&t=Wr-ndupHF8sGCBnbVlTsgLxzf90OzLBS8CDzcPxFyS0" /></p><hr/><small>16 Sep 2026, 16:28 UTC | #21334</small>]]></content>
+  </entry>
+  <entry>
+    <title>Swift 6.4 Released</title>
+    <link href="https://www.swift.org/blog/swift-6.4-released/" rel="alternate" />
+    <id>https://www.swift.org/blog/swift-6.4-released/::v239</id>
+    <published>2026-09-16T10:32:00+00:00</published>
+    <updated>2026-09-16T10:32:00+00:00</updated>
+    <media:thumbnail url="https://global.discourse-cdn.com/swift/original/3X/6/0/6002f893e923525b11d8b07bcc04302852fc3055.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.swift.org/blog/swift-6.4-released/">swift.org</a> | <a href="https://lobste.rs/s/ptegb0/swift_6_4_released">discussion</a> | <a href="https://news.ycombinator.com/item?id=49714239">hacker news</a></small></p><hr/><p>Swift 6.4 introduces several significant updates, including the stable 1.0 release of the Subprocess library for cross-platform process interaction and the adoption of Swift Build as the default in Swift Package Manager. The update enhances interoperability through direct bridging between Swift's Span and C++20's std::span, as well as extended async and callback support for Swift/Java interop. Performance improvements also target WebAssembly via JavaScriptKit and expanded capabilities for Embedded Swift on microcontroller-class targets.</p><p>Developer-focused enhancements include more natural syntax for optional opaque and any types, source-level control over compiler warnings using the @diagnose attribute, and the ability to call asynchronous functions within defer blocks. The release also features improved debugging with more precise module tracking in LLDB, expanded IDE support through a new VS Code extension, and memory-safety optimizations such as new array types that allow iterating over non-copyable elements without overhead.</p><p><img src="https://global.discourse-cdn.com/swift/original/3X/6/0/6002f893e923525b11d8b07bcc04302852fc3055.png" /></p><hr/><small>16 Sep 2026, 16:18 UTC | #21332</small>]]></content>
+  </entry>
+  <entry>
+    <title>Repurposing an MF800 4G Hotspot into a Portable Texting Device</title>
+    <link href="https://bkovac.github.io/modem-thing/" rel="alternate" />
+    <id>https://bkovac.github.io/modem-thing/::v239</id>
+    <published>2026-09-16T10:29:00+00:00</published>
+    <updated>2026-09-16T10:29:00+00:00</updated>
+    <media:thumbnail url="https://bkovac.github.io/modem-thing/visual/img1.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://bkovac.github.io/modem-thing/">bkovac.github.io</a> | <a href="https://lobste.rs/s/klussk/converting_20_4g_wireless_hotspot_into">discussion</a> | <a href="https://news.ycombinator.com/item?id=49712102">hacker news</a></small></p><hr/><p>An inexpensive MF800 4G wireless hotspot is repurposed into a portable texting device by integrating a Clicks keyboard and a Sharp memory display. The system runs a Linux environment via OpenStick and requires a custom-designed adapter PCB to manage power and signal level conversion.</p><p>Hardware modifications include trimming the original PCB to fit within the keyboard housing and hand-wiring USB and SPI components. To improve visual quality, a custom Linux kernel driver was developed to implement dithering for the Sharp display's video and image output.</p><p><img src="https://bkovac.github.io/modem-thing/visual/img1.jpg" /></p><hr/><small>16 Sep 2026, 16:07 UTC | #21329</small>]]></content>
+  </entry>
+  <entry>
+    <title>Small Programming Tricks and Their Impact on Engineering Productivity</title>
+    <link href="https://will-keleher.com/posts/small-programming-tricks-matter/" rel="alternate" />
+    <id>https://will-keleher.com/posts/small-programming-tricks-matter/::v239</id>
+    <published>2026-09-16T10:27:00+00:00</published>
+    <updated>2026-09-16T10:27:00+00:00</updated>
+    <media:thumbnail url="https://www.usefulfunctions.co.uk/wp-content/uploads/2025/11/collaborative-development-with-pair-and-mob-programming-gqm.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://will-keleher.com/posts/small-programming-tricks-matter/">will-keleher.com</a> | <a href="https://lobste.rs/s/f65fy3/small_programming_tricks">discussion</a></small></p><hr/><p>High-leverage technical tricks—such as fuzzy searching in a terminal, specific Git commands, and SQL optimization techniques—can significantly boost engineering productivity. These nuggets of knowledge are easy to acquire and provide immediate efficiency gains across various development tasks.</p><p>Sharing these insights within an engineering team, such as through a daily Slack update, can foster continuous learning and collective improvement. This practice helps distribute knowledge about specialized tools, internal processes, and effective debugging workflows without overwhelming team members.</p><p><img src="https://www.usefulfunctions.co.uk/wp-content/uploads/2025/11/collaborative-development-with-pair-and-mob-programming-gqm.jpg" /></p><hr/><small>16 Sep 2026, 15:59 UTC | #21327</small>]]></content>
+  </entry>
+  <entry>
+    <title>GEFS File System Porting to OpenBSD</title>
+    <link href="https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2" rel="alternate" />
+    <id>https://marc.info/?l=openbsd-tech&amp;m=178948744271633&amp;w=2::v239</id>
+    <published>2026-09-16T10:26:00+00:00</published>
+    <updated>2026-09-16T10:26:00+00:00</updated>
+    <media:thumbnail url="https://www.linuxeasy.org/wp-content/uploads/2025/12/QFSView-Ubuntu-Linux.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://marc.info/?l=openbsd-tech&m=178948744271633&w=2">marc.info</a> | <a href="https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview">discussion</a> | <a href="https://news.ycombinator.com/item?id=49715590">hacker news</a></small></p><hr/><p>Ori Bernstein has released an early preview of GEFS, a crash-safe, snapshotting, copy-on-write filesystem originally developed for 9front, being ported to the OpenBSD kernel. The current implementation is unstable and prone to data loss during errors.</p><p>The filesystem currently comprises roughly 9,000 lines of kernel code. Future development focuses on establishing a consistent superblock write protocol, implementing full error handling, creating userspace management tools, and addressing POSIX and kernel-specific constraints.</p><p><img src="https://www.linuxeasy.org/wp-content/uploads/2025/12/QFSView-Ubuntu-Linux.webp" /></p><hr/><small>16 Sep 2026, 15:56 UTC | #21326</small>]]></content>
+  </entry>
   <entry>
     <title>Rheinmetall Onboard API Documentation</title>
     <link href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html" rel="alternate" />
