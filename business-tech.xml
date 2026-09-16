@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-15T21:48:00+00:00</updated>
+  <updated>2026-09-15T21:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nvidia CEO Jensen Huang Dismisses Need for New AI Laws</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-15/nvidia-s-huang-says-ai-industry-doesn-t-need-any-new-laws" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-15/nvidia-s-huang-says-ai-industry-doesn-t-need-any-new-laws::v239</id>
+    <published>2026-09-15T21:49:00+00:00</published>
+    <updated>2026-09-15T21:49:00+00:00</updated>
+    <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/xyBH6R5CfMPr3PQ7gz6Lcf.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-15/nvidia-s-huang-says-ai-industry-doesn-t-need-any-new-laws">bloomberg.com</a></small></p><hr/><p>At a Salesforce event, Jensen Huang argued that the artificial intelligence industry does not require new laws or regulatory frameworks to ensure safety. He stated that market mechanisms are sufficient to impose adequate constraints and characterized the perceived conflict between rapid development and safety as a "false choice."</p><p>The remarks come amid a broader debate over AI governance and political commentary regarding the necessity of regulatory oversight. Huang emphasized that while theoretical guardrails are acceptable, he does not support industry-wide pauses to address safety concerns.</p><p><img src="https://cdn.mos.cms.futurecdn.net/xyBH6R5CfMPr3PQ7gz6Lcf.jpg" /></p><hr/><small>16 Sep 2026, 03:23 UTC | #21232</small>]]></content>
+  </entry>
   <entry>
     <title>AI Data Center Expansion Triggers Environmental Justice Pushback in Industrial Cities</title>
     <link href="https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/" rel="alternate" />
