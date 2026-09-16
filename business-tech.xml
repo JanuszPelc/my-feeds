@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-16T00:24:00+00:00</updated>
+  <updated>2026-09-16T00:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI Regulation Bills Stalled in Congress Amid Partisan Disputes</title>
+    <link href="https://www.nytimes.com/2026/09/15/us/politics/congress-ai-regulation-bills.html?unlocked_article_code=1.BVE.Xlz7.PxshnLkDQ8sv&amp;smid=bs-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/15/us/politics/congress-ai-regulation-bills.html?unlocked_article_code=1.BVE.Xlz7.PxshnLkDQ8sv&amp;smid=bs-share::v239</id>
+    <published>2026-09-16T00:26:00+00:00</published>
+    <updated>2026-09-16T00:26:00+00:00</updated>
+    <media:thumbnail url="https://aicertswpcdn.blob.core.windows.net/newsportal/2026/06/congressional-ai-hearing.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/15/us/politics/congress-ai-regulation-bills.html?unlocked_article_code=1.BVE.Xlz7.PxshnLkDQ8sv&smid=bs-share">nytimes.com</a></small></p><hr/><p>US lawmakers have introduced numerous bills over the past two years to address potential artificial intelligence threats. These legislative efforts remain largely stalled due to persistent partisan divisions and the influence of industry lobbying.</p><p>The lack of federal consensus has led to a fragmented regulatory landscape, with individual states implementing their own rules while national oversight remains contested. Key areas of debate include AI safety, the environmental impact of data center construction, and protections for children against AI chatbots.</p><p><img src="https://aicertswpcdn.blob.core.windows.net/newsportal/2026/06/congressional-ai-hearing.jpg" /></p><hr/><small>16 Sep 2026, 06:58 UTC | #21248</small>]]></content>
+  </entry>
   <entry>
     <title>Matt Sheehan Discusses US-China AI Race and Export Controls</title>
     <link href="https://www.nytimes.com/2026/09/15/opinion/ezra-klein-podcast-matt-sheehan.html?unlocked_article_code=1.BVE.iOGp.xysboJ9Ytg6-&amp;smid=url-share" rel="alternate" />

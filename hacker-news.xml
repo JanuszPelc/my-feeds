@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-16T00:23:00+00:00</updated>
+  <updated>2026-09-16T00:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>OpenGL ES 3.0 Driver Developed for Apple M4 GPU</title>
+    <link href="https://codyho.dev/blog/gpu-driver/" rel="alternate" />
+    <id>https://codyho.dev/blog/gpu-driver/::v239</id>
+    <published>2026-09-16T00:27:00+00:00</published>
+    <updated>2026-09-16T00:27:00+00:00</updated>
+    <media:thumbnail url="https://ir.ozone.ru/s3/multimedia-1-x/9033689985.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://codyho.dev/blog/gpu-driver/">codyho.dev</a> | <a href="https://news.ycombinator.com/item?id=49717638">hacker news</a></small></p><hr/><p>Developers Cody Ho and Niklas Sheth have produced a functional OpenGL ES 3.0 compliant GPU driver for the Apple M4 Mac Mini and MacBook Neo. The project involved reverse engineering the AGX firmware ABI and user-space components in a clean-room manner using a custom hypervisor to capture hardware traces.</p><p>The development workflow leveraged LLM coding agents to deconstruct hardware traces and implement complex kernel and user-space logic. The driver enables high-performance rendering, such as running Minecraft at over 200 FPS, and establishes a foundation for future Vulkan support.</p><p><img src="https://ir.ozone.ru/s3/multimedia-1-x/9033689985.jpg" /></p><hr/><small>16 Sep 2026, 07:07 UTC | #21268</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Plans Fall Release of Camera-Free Smart Glasses</title>
     <link href="https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns" rel="alternate" />
