@@ -293,13 +293,4 @@
     <media:thumbnail url="https://developers.openai.com/images/api/agents-api/overview-1.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://developers.openai.com/api/docs/guides/agents-api/overview">developers.openai.com</a> | <a href="https://news.ycombinator.com/item?id=49649213">hacker news</a></small></p><hr/><p>OpenAI has introduced the Agents API, which provides access to the Codex harness through a managed interface. The API handles session orchestration, context compaction, and recovery, allowing applications to deploy agents that execute code, edit files, and connect to Model Context Protocol (MCP) servers within sandboxed environments.</p><p>The system is structured around four core components: agents, environments, sessions, and events. It supports both OpenAI-hosted and self-hosted sandboxes, offering capabilities such as subagent delegation, multi-agent orchestration, and durable sessions that maintain state across multiple interaction turns.</p><p><img src="https://developers.openai.com/images/api/agents-api/overview-1.webp" /></p><hr/><small>11 Sep 2026, 12:22 UTC | #20829</small>]]></content>
   </entry>
-  <entry>
-    <title>OpenAI Launches Data Agent in ChatGPT Work</title>
-    <link href="https://openai.com/index/put-data-to-work/" rel="alternate" />
-    <id>https://openai.com/index/put-data-to-work/::v239</id>
-    <published>2026-09-11T10:00:00+00:00</published>
-    <updated>2026-09-11T10:00:00+00:00</updated>
-    <media:thumbnail url="https://images.macrumors.com/article-new/2026/07/openai-chatgpt-work.jpg" />
-    <content type="html"><![CDATA[<p><small>Injected | <a href="https://openai.com/index/put-data-to-work/">openai.com</a></small></p><hr/><p>OpenAI has introduced a Data agent for ChatGPT Work to allow users to analyze company data and create interactive dashboards through natural language. The agent connects to various data sources, including Snowflake, Google BigQuery, and Databricks, and can leverage semantic layers and BI tools like Tableau or Power BI. It is capable of recommending business actions and sharing findings through Slack or email.</p><p>The tool aims to simplify data analysis for non-technical users by removing the need for manual queries or specialized analytics software. Enterprise administrators can maintain security by applying existing permission structures, including row and column-level restrictions. OpenAI currently uses these capabilities internally to support its product and go-to-market organizations.</p><p><img src="https://images.macrumors.com/article-new/2026/07/openai-chatgpt-work.jpg" /></p><hr/><small>11 Sep 2026, 10:05 UTC | #20814</small>]]></content>
-  </entry>
 </feed>

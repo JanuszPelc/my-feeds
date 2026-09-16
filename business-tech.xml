@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-16T01:21:00+00:00</updated>
+  <updated>2026-09-16T02:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Cybersecurity Experts Report Exclusion from AI Safety Planning</title>
+    <link href="https://www.nbcnews.com/tech/security/cybersecurity-experts-say-ai-giants-shutting-safety-plans-rcna597704" rel="alternate" />
+    <id>https://www.nbcnews.com/tech/security/cybersecurity-experts-say-ai-giants-shutting-safety-plans-rcna597704::v239</id>
+    <published>2026-09-16T02:56:00+00:00</published>
+    <updated>2026-09-16T02:56:00+00:00</updated>
+    <media:thumbnail url="https://blog.st.com/wp-content/uploads/2026/03/stm32cube-ai-studio-hero-1536x864.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nbcnews.com/tech/security/cybersecurity-experts-say-ai-giants-shutting-safety-plans-rcna597704">nbcnews.com</a></small></p><hr/><p>Cybersecurity experts are warning that major AI developers are failing to integrate fundamental security practices into their safety frameworks. Although industry leaders like OpenAI and Anthropic have advocated for slowing the pace of AI development to mitigate risks, experts argue that the planning for preventing large-scale cyberattacks lacks meaningful involvement from cybersecurity professionals.</p><p>This friction occurs as prominent figures such as Sam Altman and Dario Amodei call for increased oversight and the use of independent evaluators to monitor model capabilities. Specialists warn that without the deep integration of defensive security strategies, the potential for automated hacking campaigns or rogue AI agents remains an unaddressed risk.</p><p><img src="https://blog.st.com/wp-content/uploads/2026/03/stm32cube-ai-studio-hero-1536x864.jpg" /></p><hr/><small>16 Sep 2026, 10:04 UTC | #21255</small>]]></content>
+  </entry>
   <entry>
     <title>US Datacenter Moratoriums Cause Minimal Delay to Total Buildout</title>
     <link href="https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums" rel="alternate" />
@@ -1091,22 +1100,5 @@
     <updated>2026-09-11T10:10:00+00:00</updated>
     <media:thumbnail url="https://urbanacres.in/wp-content/uploads/2026/09/urban-acres-news-170801.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/retail-consumer/indias-serious-fraud-office-recommends-detailed-probe-into-xiaomis-business-2026-09-09/">reuters.com</a></small></p><hr/><p>India's Serious Fraud Office (SFIO) has recommended a detailed investigation into Xiaomi's Indian operations for alleged business model irregularities and violations of foreign investment laws. The recommendation, based on a memorandum, targets potential non-compliance with regulations governing investments from China.</p><p>The proposed inquiry intends to scrutinize the company's movement of funds, beneficial ownership, and whether its e-commerce arrangements with local sellers were conducted at arm's length. The investigation awaits formal approval from the Ministry of Corporate Affairs.</p><p><img src="https://urbanacres.in/wp-content/uploads/2026/09/urban-acres-news-170801.png" /></p><hr/><small>11 Sep 2026, 12:19 UTC | #20795</small>]]></content>
-  </entry>
-  <entry>
-    <title>Trump Rejects AI Extinction Warnings</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-11/trump-rejects-warnings-that-ai-may-lead-to-human-extinction" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-11/trump-rejects-warnings-that-ai-may-lead-to-human-extinction::v239</id>
-    <published>2026-09-11T10:07:00+00:00</published>
-    <updated>2026-09-14T00:10:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-11/trump-rejects-warnings-that-ai-may-lead-to-human-extinction">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=49689413">hacker news</a></small></p><hr/><p>President Donald Trump has dismissed warnings from artificial intelligence researchers that the technology could become uncontrollable and lead to human extinction. He asserted that the United States maintains a one-year lead over China in AI development and stated that the country would be in a "very bad position" if it failed to win the race.</p><p>The remarks highlight the tension between existential risk concerns raised by AI researchers and the geopolitical drive to ensure national security through technological dominance. Trump's priority remains focused on maintaining the U.S. competitive edge against China.</p><hr/><small>11 Sep 2026, 12:03 UTC | #20794</small>]]></content>
-  </entry>
-  <entry>
-    <title>Texas Judge Finds TikTok Liable for Misleading Users Regarding Safety Standards</title>
-    <link href="https://www.click2houston.com/news/local/2026/09/10/judge-finds-tiktok-liable-for-lying-about-safety-standards-in-texas-lawsuit/" rel="alternate" />
-    <id>https://www.click2houston.com/news/local/2026/09/10/judge-finds-tiktok-liable-for-lying-about-safety-standards-in-texas-lawsuit/::v239</id>
-    <published>2026-09-11T10:03:00+00:00</published>
-    <updated>2026-09-11T10:03:00+00:00</updated>
-    <media:thumbnail url="https://www.baltimoresun.com/wp-content/uploads/2023/12/Abortion_Texas_Lawsuit_17157-2.jpg?w=1080" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.click2houston.com/news/local/2026/09/10/judge-finds-tiktok-liable-for-lying-about-safety-standards-in-texas-lawsuit/">click2houston.com</a></small></p><hr/><p>A U.S. District Judge has found TikTok liable for misleading users about its safety standards for minors. The lawsuit, brought by Texas Attorney General Ken Paxton, alleges that the platform falsely claimed to filter inappropriate and explicit material—such as nudity and drug use—while allowing such content to remain accessible to children even under "Restricted Mode."</p><p>The legal action stems from a January 2025 lawsuit involving violations of the Securing Children Online Through Parental Empowerment (SCOPE) Act. A trial is expected to be scheduled for next month to determine the penalties and relief the state will seek.</p><p><img src="https://www.baltimoresun.com/wp-content/uploads/2023/12/Abortion_Texas_Lawsuit_17157-2.jpg?w=1080" /></p><hr/><small>11 Sep 2026, 10:19 UTC | #20790</small>]]></content>
   </entry>
 </feed>
