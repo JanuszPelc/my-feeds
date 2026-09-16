@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-16T17:05:00+00:00</updated>
+  <updated>2026-09-16T17:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Announces iPhone 18 Pro, Foldable iPhone Duo, and New Apple Watch Models</title>
+    <link href="https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event" rel="alternate" />
+    <id>https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event::v239</id>
+    <published>2026-09-16T17:06:00+00:00</published>
+    <updated>2026-09-16T17:06:00+00:00</updated>
+    <media:thumbnail url="https://legalunitedstates.com/wp-content/uploads/2026/04/Apple-foldable-iPhone.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event">daringfireball.net</a></small></p><hr/><p>The "Surprise and Shine" event introduced the iPhone 18 Pro, the foldable iPhone Duo, Apple Watch Series 12, Ultra 4, and AirPods 5. During the keynote, John Ternus presented a vision for the iPhone as an "intelligent personal hub" for the AI era, signaling a leadership transition from Tim Cook.</p><p>The iPhone 18 Pro features the A20 Pro SoC, a variable aperture for the main camera, and improved thermal management. The iPhone Duo includes a 7.6-inch inner display. Additionally, Apple debuted "Apple Reference Image," which uses Private Cloud Compute to verify sensor data for photo authenticity.</p><p><img src="https://legalunitedstates.com/wp-content/uploads/2026/04/Apple-foldable-iPhone.jpg" /></p><hr/><small>16 Sep 2026, 21:04 UTC | #21308</small>]]></content>
+  </entry>
   <entry>
     <title>Rogue Scholar Enables Digital Object Identifiers for Science Blogs</title>
     <link href="https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/" rel="alternate" />
