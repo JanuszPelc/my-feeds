@@ -302,13 +302,4 @@
     <media:thumbnail url="https://images.macrumors.com/article-new/2026/07/openai-chatgpt-work.jpg" />
     <content type="html"><![CDATA[<p><small>Injected | <a href="https://openai.com/index/put-data-to-work/">openai.com</a></small></p><hr/><p>OpenAI has introduced a Data agent for ChatGPT Work to allow users to analyze company data and create interactive dashboards through natural language. The agent connects to various data sources, including Snowflake, Google BigQuery, and Databricks, and can leverage semantic layers and BI tools like Tableau or Power BI. It is capable of recommending business actions and sharing findings through Slack or email.</p><p>The tool aims to simplify data analysis for non-technical users by removing the need for manual queries or specialized analytics software. Enterprise administrators can maintain security by applying existing permission structures, including row and column-level restrictions. OpenAI currently uses these capabilities internally to support its product and go-to-market organizations.</p><p><img src="https://images.macrumors.com/article-new/2026/07/openai-chatgpt-work.jpg" /></p><hr/><small>11 Sep 2026, 10:05 UTC | #20814</small>]]></content>
   </entry>
-  <entry>
-    <title>OpenAI's Astra Model Struggles with Software Engineering Tasks</title>
-    <link href="https://lucumr.pocoo.org/2026/9/7/astra-why/" rel="alternate" />
-    <id>https://lucumr.pocoo.org/2026/9/7/astra-why/::v238</id>
-    <published>2026-09-11T06:24:00+00:00</published>
-    <updated>2026-09-11T06:24:00+00:00</updated>
-    <media:thumbnail url="https://runtimewire.com/og/codex-leak-labels-openai-astra-gpt-6-aeon.16x9.jpg?v=og2-bm57g3" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lucumr.pocoo.org/2026/9/7/astra-why/">lucumr.pocoo.org</a> | <a href="https://news.ycombinator.com/item?id=49654229">hacker news</a></small></p><hr/><p>GPT-6 Astra produces unreadable and inefficient code when applied to software engineering tasks. In attempts to automate development workflows, the model generated significant amounts of "slop" and utilized excessively complex, nested tool calls—such as using Python to invoke Node.js—instead of standard shell commands or patching tools.</p><p>This behavior suggests a training bias that rewards the completion of long-horizon goals while failing to penalize poor code quality. Consequently, the model frequently ignores standard indentation and relies on convoluted Python string manipulation to perform simple file edits.</p><p><img src="https://runtimewire.com/og/codex-leak-labels-openai-astra-gpt-6-aeon.16x9.jpg?v=og2-bm57g3" /></p><hr/><small>11 Sep 2026, 09:25 UTC | #20806</small>]]></content>
-  </entry>
 </feed>
