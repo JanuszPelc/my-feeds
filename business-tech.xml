@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-16T16:59:00+00:00</updated>
+  <updated>2026-09-16T17:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI and Anthropic Staff React to AI Slowdown Proposals</title>
+    <link href="https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3" rel="alternate" />
+    <id>https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3::v239</id>
+    <published>2026-09-16T17:03:00+00:00</published>
+    <updated>2026-09-16T17:03:00+00:00</updated>
+    <media:thumbnail url="https://media.assettype.com/digitalterminal/2026-09-16/227oy6e7/AI-Rivals.png?w=1200&amp;auto=format,compress&amp;fit=max" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3">ft.com</a> | <a href="https://darioamodei.com/post/we-must-pace-the-frontier">source</a> | <a href="https://news.ycombinator.com/item?id=49672510">hacker news</a></small></p><hr/><p>Staff at OpenAI and Anthropic have reportedly felt blindsided by calls from leadership to slow the development of frontier AI models. Internal concerns have emerged that the proposed mechanism for safety verification—granting third-party evaluators permanent, employee-level access to internal systems—could compromise company security.</p><p>The tension follows an essay by Anthropic CEO Dario Amodei, "We Must Pace the Frontier," which advocates for a more cautious pace of AI capability growth. OpenAI CEO Sam Altman has publicly endorsed the initiative, committing OpenAI to match Anthropic's proposal to allow independent evaluators access to its systems.</p><p><img src="https://media.assettype.com/digitalterminal/2026-09-16/227oy6e7/AI-Rivals.png?w=1200&auto=format,compress&fit=max" /></p><hr/><small>16 Sep 2026, 20:38 UTC | #21305</small>]]></content>
+  </entry>
   <entry>
     <title>Russian Legislation Prevents Renewal of verygoodsoftwarenotvirus.ru Domain</title>
     <link href="https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/" rel="alternate" />

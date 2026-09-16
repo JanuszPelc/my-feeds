@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-16T14:52:00+00:00</updated>
+  <updated>2026-09-16T17:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rogue Scholar Enables Digital Object Identifiers for Science Blogs</title>
+    <link href="https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/" rel="alternate" />
+    <id>https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/::v239</id>
+    <published>2026-09-16T17:05:00+00:00</published>
+    <updated>2026-09-16T17:05:00+00:00</updated>
+    <media:thumbnail url="https://www.bibguru.com/blog/img/DOI-reference-700x348.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/">shkspr.mobi</a> | <a href="https://lobste.rs/s/lvld5b/how_get_doi_for_your_blog_posts">discussion</a></small></p><hr/><p>Assigning Digital Object Identifiers (DOIs) through Rogue Scholar allows bloggers to make their content uniquely citable in academic and scholarly literature. This process provides persistent, stable links that remain functional even if the hosting website's domain or URL structure changes.</p><p>The platform automates DOI minting by polling Atom and RSS feeds for new content, though older posts may require manual submission via an API. Implementing this system requires adopting Creative Commons Attribution licensing and involves navigating the centralized nature of DOI resolution services.</p><p><img src="https://www.bibguru.com/blog/img/DOI-reference-700x348.png" /></p><hr/><small>16 Sep 2026, 20:46 UTC | #21369</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple Developing Enterprise AI Servers Powered by M8 Ultra Chips</title>
+    <link href="https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech" rel="alternate" />
+    <id>https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech::v239</id>
+    <published>2026-09-16T17:02:00+00:00</published>
+    <updated>2026-09-16T17:02:00+00:00</updated>
+    <media:thumbnail url="https://www.macworld.com/wp-content/uploads/2026/07/MacStudioM4Max_05-1.jpg?quality=50&amp;strip=all" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech">theinformation.com</a></small></p><hr/><p>Apple is developing enterprise AI servers projected for a 2029 release. The systems are expected to utilize either two or four M8 Ultra chips and may integrate Nvidia's NVLink Fusion networking technology to facilitate high-speed interconnectivity.</p><p>This development signals a potential expansion into the data center market, leveraging custom silicon to compete in the AI infrastructure sector. Integrating specialized networking technology would address the high-bandwidth requirements necessary for large-scale AI model training and inference.</p><p><img src="https://www.macworld.com/wp-content/uploads/2026/07/MacStudioM4Max_05-1.jpg?quality=50&strip=all" /></p><hr/><small>16 Sep 2026, 20:36 UTC | #21302</small>]]></content>
+  </entry>
   <entry>
     <title>DiscoStarslayer Successfully Reverse-Engineers PlayStation 2 MechaCon Security Chip</title>
     <link href="https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip" rel="alternate" />

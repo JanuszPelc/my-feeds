@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-16T14:50:00+00:00</updated>
+  <updated>2026-09-16T17:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Arturia MiniFreak 5.0 Update Adds Sample and Wavetable Import</title>
+    <link href="https://musictech.com/news/music/arturia-minifreak-free-5-0-update-new-features/" rel="alternate" />
+    <id>https://musictech.com/news/music/arturia-minifreak-free-5-0-update-new-features/::v239</id>
+    <published>2026-09-16T17:04:00+00:00</published>
+    <updated>2026-09-16T17:04:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2025/12/arturia-minifreak-gotd-hero@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/music/arturia-minifreak-free-5-0-update-new-features/">musictech.com</a> | <a href="https://www.arturia.com/products/hardware-synths/minifreak/update">source</a></small></p><hr/><p>Arturia's latest firmware and software version for the MiniFreak series enables the import of custom samples and wavetables. This feature is available for both the MiniFreak hardware synthesizer and the MiniFreak V software.</p><p>The 5.0 release also introduces Factory Bank v5.0, which provides 23 new presets containing exclusive content. Furthermore, the update allows users to manage hardware content—including transferring, removing samples, and performing factory resets—directly through the MiniFreak V application.</p><p><img src="https://musictech.com/wp-content/uploads/2025/12/arturia-minifreak-gotd-hero@2000x1500.jpg" /></p><hr/><small>16 Sep 2026, 20:40 UTC | #21339</small>]]></content>
+  </entry>
   <entry>
     <title>Joe Landers Releases Profligacy Korg Prophecy Emulator</title>
     <link href="https://bedroomproducersblog.com/2026/09/16/profligacy-korg-prophecy/" rel="alternate" />
