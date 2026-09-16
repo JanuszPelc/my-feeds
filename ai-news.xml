@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-15T20:00:00+00:00</updated>
+  <updated>2026-09-15T20:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Meta Launches WhatsApp Business Tools MCP for AI Agents</title>
+    <link href="https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/::v239</id>
+    <published>2026-09-15T20:13:00+00:00</published>
+    <updated>2026-09-15T20:13:00+00:00</updated>
+    <media:thumbnail url="https://www.itsitio.com/mx/wp-content/uploads/sites/3/2025/11/Mexico-lidera-el-lanzamiento-mundial-de-la-inteligencia-artificial-en-WhatsApp-Business.webp" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/">techcrunch.com</a> | <a href="https://developers.facebook.com/blog/post/2026/09/15/meta-business-messaging-mcp-ai-agent/">source</a></small></p><hr/><p>Meta has introduced the WhatsApp Business Tools MCP, a Model Context Protocol server that enables AI agents—such as Claude, Cursor, and ChatGPT—to manage WhatsApp Business messaging. The server allows these agents to automate administrative tasks, including creating business accounts, verifying phone numbers, registering for the Cloud API, and managing messaging templates.</p><p>The tool is designed to streamline the onboarding process by allowing developers to use conversational interfaces rather than manually navigating between the Developer Console and Meta Business Manager. Additionally, the MCP server facilitates testing webhooks, troubleshooting errors, and monitoring compliance with Terms of Service and payment requirements.</p><p><img src="https://www.itsitio.com/mx/wp-content/uploads/sites/3/2025/11/Mexico-lidera-el-lanzamiento-mundial-de-la-inteligencia-artificial-en-WhatsApp-Business.webp" /></p><hr/><small>16 Sep 2026, 01:20 UTC | #21231</small>]]></content>
+  </entry>
   <entry>
     <title>Developers Use Claude Code Harness to Access Non-Anthropic Models</title>
     <link href="https://www.theinformation.com/articles/developers-find-ways-use-claude-code-without-anthropic-models" rel="alternate" />
