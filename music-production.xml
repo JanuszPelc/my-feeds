@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-15T19:54:00+00:00</updated>
+  <updated>2026-09-15T21:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Buchert Audio Releases Field Engine for macOS</title>
+    <link href="https://www.kvraudio.com/news/buchert-audio-releases-field-engine-for-macos-68565?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68565" rel="alternate" />
+    <id>https://www.kvraudio.com/news/buchert-audio-releases-field-engine-for-macos-68565?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68565::v239</id>
+    <published>2026-09-15T21:53:00+00:00</published>
+    <updated>2026-09-15T21:53:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/field-engine-kvr.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/buchert-audio-releases-field-engine-for-macos-68565?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68565">kvraudio.com</a> | <a href="https://buchertaudio.com/plugins/field-engine">source</a></small></p><hr/><p>Buchert Audio has released Field Engine, a visual control surface for spatial mixing. The tool allows users to position sounds and define their relationships within a mix through a shared visual field, focusing on perceptual depth and placement rather than traditional level and pan adjustments.</p><p>Available for macOS in AU, VST3, and AAX formats for €129, the package includes the Field Feed plugin for track control. Support for Windows VST3 is currently in development and is expected to be announced separately.</p><p><img src="https://static.kvraudio.com/i/b/field-engine-kvr.jpg" /></p><hr/><small>16 Sep 2026, 04:00 UTC | #21256</small>]]></content>
+  </entry>
   <entry>
     <title>Electro-Harmonix Releases Adrian Belew Echoflanger</title>
     <link href="https://www.kvraudio.com/news/electro-harmonix-releases-the-adrian-belew-echoflanger-68570?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68570" rel="alternate" />
