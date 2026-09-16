@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-15T20:03:00+00:00</updated>
+  <updated>2026-09-16T05:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>HHMI Janelia and Google Research Map Complete Male Fruit Fly Brain</title>
+    <link href="https://www.404media.co/a-digital-fly-brain-has-taken-over-the-internet/" rel="alternate" />
+    <id>https://www.404media.co/a-digital-fly-brain-has-taken-over-the-internet/::v239</id>
+    <published>2026-09-16T05:07:00+00:00</published>
+    <updated>2026-09-16T05:07:00+00:00</updated>
+    <media:thumbnail url="https://hms.harvard.edu/sites/default/files/styles/hms_hero_featured/public/2026-06/848+fruit+fly.jpg?itok=B_4z9Qnh" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.404media.co/a-digital-fly-brain-has-taken-over-the-internet/">404media.co</a> | <a href="https://male-cns.janelia.org/">source</a></small></p><hr/><p>HHMI Janelia Research Campus and Google Research have released MaleCNS v1.0, a complete map of the central nervous system of an adult male fruit fly. This connectome details the synaptic connections of more than 166,000 neurons, enabling researchers to conduct high-resolution comparisons of neural structures between sexes.</p><p>The digital brain has sparked social media trends where modders simulate neural activity in virtual environments like Minecraft and Doom. In a scientific context, the dataset is intended to facilitate research into motor control, sensory systems, and the fundamental mechanisms of neurobiology.</p><p><img src="https://hms.harvard.edu/sites/default/files/styles/hms_hero_featured/public/2026-06/848+fruit+fly.jpg?itok=B_4z9Qnh" /></p><hr/><small>16 Sep 2026, 11:09 UTC | #21258</small>]]></content>
+  </entry>
   <entry>
     <title>Visual Preference Surveys Suggest Widespread Public Preference for Traditional Architecture</title>
     <link href="https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture" rel="alternate" />
