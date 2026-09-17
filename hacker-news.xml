@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T10:49:00+00:00</updated>
+  <updated>2026-09-17T10:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Jake A. Smith Deprecates http_build_url PHP Polyfill</title>
+    <link href="https://jakeasmith.com/blog/http-build-url/" rel="alternate" />
+    <id>https://jakeasmith.com/blog/http-build-url/::v239</id>
+    <published>2026-09-17T10:52:00+00:00</published>
+    <updated>2026-09-17T10:52:00+00:00</updated>
+    <media:thumbnail url="https://jakeasmith.com/blog/http-build-url/1.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jakeasmith.com/blog/http-build-url/">jakeasmith.com</a> | <a href="https://news.ycombinator.com/item?id=49718773">hacker news</a></small></p><hr/><p>Jake A. Smith is deprecating the jakeasmith/http_build_url PHP package, a 174-line polyfill created in 2014 as a temporary fix for an AOL CMS migration. The library has recorded nearly 20 million installs on Packagist and is integrated into major platforms including WPML and Debian.</p><p>The retirement follows the arrival of a standards-compliant URI API in PHP 8.5 and the discovery of a bug that strips the letter "a" from certain URL paths. Smith opted for deprecation rather than transferring ownership to avoid the security risks associated with unvetted maintainers for widely-used packages.</p><p><img src="https://jakeasmith.com/blog/http-build-url/1.png" /></p><hr/><small>17 Sep 2026, 15:13 UTC | #21446</small>]]></content>
+  </entry>
   <entry>
     <title>Josh Bowman-Matthews Reflects on One Year of Sponsored Servo Development</title>
     <link href="https://servo.org/blog/2026/09/15/one-year-of-sponsorship/" rel="alternate" />

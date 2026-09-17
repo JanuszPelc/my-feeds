@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Minitap Accuses Google's Artemis Project of Reusing mobile-use Code Without Attribution</title>
+    <link href="https://www.minitap.ai/blog/i-expected-better-from-google" rel="alternate" />
+    <id>https://www.minitap.ai/blog/i-expected-better-from-google::v239</id>
+    <published>2026-09-17T10:53:00+00:00</published>
+    <updated>2026-09-17T10:53:00+00:00</updated>
+    <media:thumbnail url="https://cdn.sanity.io/images/5b5hto6c/production/8a4a9cd2ceb3a1679ca5033e6209fc7d558e81a0-1360x980.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.minitap.ai/blog/i-expected-better-from-google">minitap.ai</a> | <a href="https://lobste.rs/s/11uiiv/i_expected_better_from_google">discussion</a> | <a href="https://news.ycombinator.com/item?id=49668181">hacker news</a></small></p><hr/><p>Minitap claims that Google's Artemis project, an Android automation tool, incorporates code and instructions from Minitap's open-source `mobile-use` repository without proper attribution. The company alleges that specific implementations for device connection and agent prompts are identical to their own and that Minitap's contributor names were removed from the Artemis repository via a force push in August.</p><p>The dispute raises questions regarding the ethics of code reuse and the impact of such practices on the open-source community. Beyond the attribution claims, Minitap has reported discrepancies in how their benchmarking results are reflected on the AndroidWorld leaderboard and has opened a public issue on the Artemis repository to request formal credit.</p><p><img src="https://cdn.sanity.io/images/5b5hto6c/production/8a4a9cd2ceb3a1679ca5033e6209fc7d558e81a0-1360x980.png" /></p><hr/><small>17 Sep 2026, 15:16 UTC | #21447</small>]]></content>
+  </entry>
+  <entry>
     <title>Neovim Bitcoin Donation Remains Untouched Since 2023</title>
     <link href="https://news.ycombinator.com/item?id=49738879" rel="alternate" />
     <id>https://news.ycombinator.com/item?id=49738879::v239</id>
