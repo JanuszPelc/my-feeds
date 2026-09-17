@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T15:07:00+00:00</updated>
+  <updated>2026-09-17T15:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Huawei Chair Eric Xu Urges Faster AI Development in China</title>
+    <link href="https://www.ft.com/content/c1f4cacf-098a-4776-b76b-fb741ef36fa6" rel="alternate" />
+    <id>https://www.ft.com/content/c1f4cacf-098a-4776-b76b-fb741ef36fa6::v239</id>
+    <published>2026-09-17T15:14:00+00:00</published>
+    <updated>2026-09-17T15:14:00+00:00</updated>
+    <media:thumbnail url="https://hw-server.com/wp-content/uploads/2026/05/huawei-ai-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/c1f4cacf-098a-4776-b76b-fb741ef36fa6">ft.com</a></small></p><hr/><p>He has called on Chinese AI researchers to accelerate the pace of development to better identify and understand the potential risks of artificial intelligence. Xu argues that increasing development speed is essential to "see the dangers" inherent in the technology.</p><p>This position contrasts with recent calls from Silicon Valley for a slowdown in AI advancement. Advocates for a pause argue that rapid development poses significant existential risks that require more cautious management.</p><p><img src="https://hw-server.com/wp-content/uploads/2026/05/huawei-ai-1.jpg" /></p><hr/><small>17 Sep 2026, 18:57 UTC | #21423</small>]]></content>
+  </entry>
   <entry>
     <title>AI's Impact on Cybersecurity and Engineering Culture</title>
     <link href="https://www.netmeister.org/blog/everybodys-lost-their-minds.html" rel="alternate" />

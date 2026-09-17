@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T15:11:00+00:00</updated>
+  <updated>2026-09-17T15:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>UN Fact-Finding Mission Finds US Likely Committed War Crimes in Iran School Strike</title>
+    <link href="https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack" rel="alternate" />
+    <id>https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack::v239</id>
+    <published>2026-09-17T15:17:00+00:00</published>
+    <updated>2026-09-17T15:17:00+00:00</updated>
+    <media:thumbnail url="https://i.guim.co.uk/img/media/a1b4b940b10574c3de468d64d91a033c77d6be21/0_0_6000_4000/master/6000.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack">theguardian.com</a> | <a href="https://news.ycombinator.com/item?id=49739018">hacker news</a></small></p><hr/><p>A UN fact-finding mission has determined there are reasonable grounds to believe the United States committed war crimes by launching indiscriminate attacks on an Iranian school and a sports facility. The report specifically details a strike on the Shajareh Tayyebeh primary school that killed 120 children, attributing the incident to a failure to verify outdated targeting intelligence.</p><p>The mission also accused Iranian authorities of crimes against humanity during a deadly crackdown on anti-government protests. These findings, which address the conduct of both the United States and Iran during recent hostilities, are to be submitted to the UN Human Rights Council in Geneva.</p><p><img src="https://i.guim.co.uk/img/media/a1b4b940b10574c3de468d64d91a033c77d6be21/0_0_6000_4000/master/6000.jpg?width=445&dpr=1&s=none&crop=none" /></p><hr/><small>17 Sep 2026, 19:10 UTC | #21474</small>]]></content>
+  </entry>
   <entry>
     <title>Valen Language Project Aims for Seamless Rust Interop and Generics</title>
     <link href="https://verdagon.dev/blog/golden-spike-reviving-vale-valen" rel="alternate" />
