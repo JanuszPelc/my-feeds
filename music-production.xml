@@ -600,49 +600,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/kvr-ami-polychaos.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dr-zoppa-releases-ami-polychaos---generative-midi-plugin-that-turns-one-held-note-into-four-voices-of-counterpoint-68505?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68505">kvraudio.com</a> | <a href="https://www.drzoppa.com/soft">source</a></small></p><hr/><p>Dr. Zoppa has released AMI-Polychaos, a generative MIDI plugin for macOS available in Audio Unit and VST3 formats. The plugin generates four voices of counterpoint from a single held note or chord by applying chaotic maps to a single trajectory, ensuring the output remains harmonically related rather than producing independent random sequences.</p><p>Developed from algorithmic composition research at UNAM, the plugin produces MIDI data that can be routed into any external instrument. It belongs to the AMI-CMMAS series alongside the AMI-PLSYSTEMS and AMI-POLYMARKOV plugins. AMI-Polychaos is priced at $29 during its introductory period through October 30, 2026, and includes a 30-day free trial.</p><p><img src="https://static.kvraudio.com/i/b/kvr-ami-polychaos.png" /></p><hr/><small>12 Sep 2026, 16:57 UTC | #20911</small>]]></content>
   </entry>
-  <entry>
-    <title>Vitric Audio Updates Harmonic Multiband, Chamfer De-Esser, and Plinth</title>
-    <link href="https://www.kvraudio.com/news/vitric-audio-updates-harmonic-multiband-chamfer-de-esser-and-plinth-68484?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68484" rel="alternate" />
-    <id>https://www.kvraudio.com/news/vitric-audio-updates-harmonic-multiband-chamfer-de-esser-and-plinth-68484?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68484::v239</id>
-    <published>2026-09-12T12:02:00+00:00</published>
-    <updated>2026-09-12T12:02:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/vitric-harmonic-multiband-2-1-0.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/vitric-audio-updates-harmonic-multiband-chamfer-de-esser-and-plinth-68484?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68484">kvraudio.com</a> | <a href="https://vitricaudio.com/">source</a></small></p><hr/><p>Software updates for Harmonic Multiband Compressor (v2.1.0), Chamfer De-Esser (v0.2.0), and Plinth Subharmonic Synthesizer (v0.2.0) are available for Windows and macOS. The releases provide more precise value editing and clearer visual feedback for managing dynamics, vocal sibilance, and subharmonic content.</p><p>Harmonic Multiband now includes exact crossover-frequency entry and improved upward processing displays. Chamfer De-Esser features refined band and threshold editing alongside improved "Listen" operations, while Plinth adds explicit status indicators and refined detection adjustments. Discounted pricing is available for all three plugins through September 30, 2026.</p><p><img src="https://static.kvraudio.com/i/b/vitric-harmonic-multiband-2-1-0.jpg" /></p><hr/><small>12 Sep 2026, 16:40 UTC | #20912</small>]]></content>
-  </entry>
-  <entry>
-    <title>Gazillion Industries Releases Skruu and Triple OG Audio Effects</title>
-    <link href="https://www.kvraudio.com/news/gazillion-industries-releases-skruu-and-triple-og-for-macos-and-windows-68465?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68465" rel="alternate" />
-    <id>https://www.kvraudio.com/news/gazillion-industries-releases-skruu-and-triple-og-for-macos-and-windows-68465?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68465::v239</id>
-    <published>2026-09-12T12:01:00+00:00</published>
-    <updated>2026-09-12T12:01:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/skruu-light.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/gazillion-industries-releases-skruu-and-triple-og-for-macos-and-windows-68465?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68465">kvraudio.com</a> | <a href="https://gazillionindustries.com/">source</a></small></p><hr/><p>These new plugins for macOS and Windows allow users to manipulate drums, samples, and tape-style movement. Skruu features independent pitch and time-stretching with elastic controls, while Triple OG emulates cassette tape characteristics and transport-style movement.</p><p>Priced at $29 USD each, both effects feature resizable interfaces. Skruu includes sixteen movement shapes and four sampling grades, while Triple OG offers parameters for tape aging, hiss, and drive, alongside "catch" and "bend" transport controls.</p><p><img src="https://static.kvraudio.com/i/b/skruu-light.jpg" /></p><hr/><small>12 Sep 2026, 16:37 UTC | #20910</small>]]></content>
-  </entry>
-  <entry>
-    <title>Golden DSP Silkbrush Reverb Giveaway</title>
-    <link href="https://bedroomproducersblog.com/2026/09/12/giveaway-golden-dsp-silkbrush-reverb/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/12/giveaway-golden-dsp-silkbrush-reverb/::v239</id>
-    <published>2026-09-12T11:50:00+00:00</published>
-    <updated>2026-09-12T11:50:00+00:00</updated>
-    <media:thumbnail url="https://www.pluginboutique.com/ckeditor_assets/pictures/39309/content_Swarm_Reverb_plugin_boutique.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/12/giveaway-golden-dsp-silkbrush-reverb/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/12/giveaway-golden-dsp-silkbrush-reverb/#comments">discussion</a></small></p><hr/><p>Five copies of Silkbrush Reverb are being given away by Golden DSP. The plugin is a ducking reverb for macOS and Windows that uses automated sidechaining to prevent the reverb from masking the dry signal.</p><p>To participate, users must answer the question located in the article's comments section. The Silkbrush Reverb plugin normally retails for $59.</p><p><img src="https://www.pluginboutique.com/ckeditor_assets/pictures/39309/content_Swarm_Reverb_plugin_boutique.jpg" /></p><hr/><small>12 Sep 2026, 15:18 UTC | #20905</small>]]></content>
-  </entry>
-  <entry>
-    <title>Wave Mastering Releases WIDENER Stereo Enhancement Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/12/wave-mastering-widener/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/12/wave-mastering-widener/::v239</id>
-    <published>2026-09-12T11:47:00+00:00</published>
-    <updated>2026-09-12T11:47:00+00:00</updated>
-    <media:thumbnail url="https://professionalcomposers.com/wp-content/uploads/2020/07/Best-Stereo-Widener-VST-Plugins.png" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/12/wave-mastering-widener/">bedroomproducersblog.com</a></small></p><hr/><p>WIDENER is a stereo enhancement plugin for macOS and Windows released by Wave Mastering LTD. The tool is available at an introductory price of $29.99 through September 30th.</p><p>This software marks the first plugin release from developer Andy De Rosa.</p><p><img src="https://professionalcomposers.com/wp-content/uploads/2020/07/Best-Stereo-Widener-VST-Plugins.png" /></p><hr/><small>12 Sep 2026, 15:04 UTC | #20906</small>]]></content>
-  </entry>
-  <entry>
-    <title>13x.audio Releases Aurora Free 24-Band Dynamic EQ Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/12/13x-audio-aurora-eq/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/12/13x-audio-aurora-eq/::v239</id>
-    <published>2026-09-12T11:46:00+00:00</published>
-    <updated>2026-09-12T11:46:00+00:00</updated>
-    <media:thumbnail url="https://blogger.googleusercontent.com/img/a/AVvXsEgR6gyxdVLF6S3djbMSe4H0blMoet0k14ePf9cLP_pS7bn3zJO8SqyqV36KuJ1wVHqmmSnkC3CaRbfRf1Ma5Dqf17hCwYYSgjyx8jTzFL_yNWuVjBVhfPe7EXR1JnjSDPcYfNGEQrYRHeMCBDDTZBx5EbY7rYHWTXM4OnrEzdjbCeXu21tUY1A4vTRif0B9=w635-h332" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/12/13x-audio-aurora-eq/">bedroomproducersblog.com</a> | <a href="https://13x.audio/products/aurora">source</a> | <a href="https://bedroomproducersblog.com/2026/09/12/13x-audio-aurora-eq/#respond">discussion</a></small></p><hr/><p>13x.audio has released Aurora, a free 24-band dynamic parametric EQ plugin compatible with macOS, Windows, and Linux. The plugin features a live spectrum for manual shaping, per-band dynamics, mid/side processing, three phase modes, and a "Smart Ops" assistant for one-click frequency cleanup.</p><p>Aurora is provided as a full-featured plugin rather than a trial or lite edition, and it does not require a license key. The release enters a market increasingly populated by dynamic EQ tools developed through efficient modern coding workflows.</p><p><img src="https://blogger.googleusercontent.com/img/a/AVvXsEgR6gyxdVLF6S3djbMSe4H0blMoet0k14ePf9cLP_pS7bn3zJO8SqyqV36KuJ1wVHqmmSnkC3CaRbfRf1Ma5Dqf17hCwYYSgjyx8jTzFL_yNWuVjBVhfPe7EXR1JnjSDPcYfNGEQrYRHeMCBDDTZBx5EbY7rYHWTXM4OnrEzdjbCeXu21tUY1A4vTRif0B9=w635-h332" /></p><hr/><small>12 Sep 2026, 14:52 UTC | #20907</small>]]></content>
-  </entry>
 </feed>

@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T05:03:00+00:00</updated>
+  <updated>2026-09-17T05:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Sam Altman, Jensen Huang, and Tim Cook Expected at White House State Dinner for Xi Jinping</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTU5OTc1MCwiZXhwIjoxNzkwMjA0NTUwLCJhcnRpY2xlSWQiOiJUTEg4VENUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI1QUY5RjI5QkFCREI0RERFQUIyRTcwNzU0RERFRTQwNSJ9.G6VlnipsOMOaDwmrVNt8gCYPGKiMde8AgB5MgldHFDM" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTU5OTc1MCwiZXhwIjoxNzkwMjA0NTUwLCJhcnRpY2xlSWQiOiJUTEg4VENUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI1QUY5RjI5QkFCREI0RERFQUIyRTcwNzU0RERFRTQwNSJ9.G6VlnipsOMOaDwmrVNt8gCYPGKiMde8AgB5MgldHFDM::v239</id>
+    <published>2026-09-17T05:15:00+00:00</published>
+    <updated>2026-09-17T05:15:00+00:00</updated>
+    <media:thumbnail url="https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1778759215-trump-asiste-cena-banquete-estatal-ofrecida-presidente-xi-jinping-china.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTU5OTc1MCwiZXhwIjoxNzkwMjA0NTUwLCJhcnRpY2xlSWQiOiJUTEg4VENUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI1QUY5RjI5QkFCREI0RERFQUIyRTcwNzU0RERFRTQwNSJ9.G6VlnipsOMOaDwmrVNt8gCYPGKiMde8AgB5MgldHFDM">bloomberg.com</a></small></p><hr/><p>OpenAI CEO Sam Altman, Nvidia CEO Jensen Huang, and Apple Executive Chairman Tim Cook are expected to attend a White House state dinner for Chinese President Xi Jinping next week. The event is scheduled as part of President Donald Trump's hosting of the Chinese leader during his visit to Washington.</p><p>The gathering of executives from the AI and semiconductor industries highlights the intersection of technology and international diplomacy. Such summits underscore the strategic importance of US-China relations regarding trade and the regulation of emerging technologies.</p><p><img src="https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1778759215-trump-asiste-cena-banquete-estatal-ofrecida-presidente-xi-jinping-china.jpg" /></p><hr/><small>17 Sep 2026, 12:00 UTC | #21398</small>]]></content>
+  </entry>
   <entry>
     <title>US Judge Orders Google to Make Ad Tech Tools Interoperable</title>
     <link href="https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html?unlocked_article_code=1.B1E.SsQr.T6FLVlhWlHp9&amp;smid=url-share" rel="alternate" />

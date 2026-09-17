@@ -940,40 +940,4 @@
     <media:thumbnail url="https://www.tyrex-cyber.co.uk/wp-content/uploads/ai-hacking-1024x683.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.unslop.news/">unslop.news</a> | <a href="https://news.ycombinator.com/item?id=49660783">hacker news</a></small></p><hr/><p>The service provides a version of the Hacker News feed that specifically excludes content related to artificial intelligence. It processes incoming submissions to present a stream of information that filters out AI-focused discussions and news.</p><p>The platform is designed for technology professionals and developers who wish to reduce the signal-to-noise ratio caused by the recent influx of AI-related content. It aims to focus the feed on traditional software engineering, hardware, and scientific technical discussions.</p><p><img src="https://www.tyrex-cyber.co.uk/wp-content/uploads/ai-hacking-1024x683.jpg" /></p><hr/><small>12 Sep 2026, 16:44 UTC | #20929</small>]]></content>
   </entry>
-  <entry>
-    <title>macOS `defaults` Command Reference and Examples</title>
-    <link href="https://macos-defaults.com/" rel="alternate" />
-    <id>https://macos-defaults.com/::v239</id>
-    <published>2026-09-12T11:57:00+00:00</published>
-    <updated>2026-09-12T11:57:00+00:00</updated>
-    <media:thumbnail url="https://eshop.macsales.com/blog/wp-content/uploads/2021/09/Graphic-two-1.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://macos-defaults.com/">macos-defaults.com</a> | <a href="https://lobste.rs/s/n54ybt/list_macos_defaults_commands_with_demos">discussion</a> | <a href="https://news.ycombinator.com/item?id=49669001">hacker news</a></small></p><hr/><p>The `defaults` command-line interface allows users to manage and modify macOS configuration settings stored in system domains. This guide provides a structured list of commands for accessing and altering user preferences across various system components.</p><p>Many of the provided commands target "hidden" settings that are inaccessible through the standard macOS System Settings interface. The collection spans diverse areas including the Dock, Finder, Mission Control, and various input device behaviors.</p><p><img src="https://eshop.macsales.com/blog/wp-content/uploads/2021/09/Graphic-two-1.png" /></p><hr/><small>12 Sep 2026, 15:58 UTC | #20926</small>]]></content>
-  </entry>
-  <entry>
-    <title>C++ Spin-Lock Optimization</title>
-    <link href="https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/" rel="alternate" />
-    <id>https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/::v239</id>
-    <published>2026-09-12T11:54:00+00:00</published>
-    <updated>2026-09-12T11:54:00+00:00</updated>
-    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!WK_e!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https://substack-post-media.s3.amazonaws.com/public/images/e860e064-eb09-463f-98ea-b68698dc2a9a_1537x901.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/">david.alvarezrosa.com</a> | <a href="https://lobste.rs/s/khpkda/optimizing_spin_lock">discussion</a> | <a href="https://news.ycombinator.com/item?id=49598792">hacker news</a></small></p><hr/><p>Iterative optimizations for a C++ spin-lock transform a naive atomic exchange loop into a highly efficient implementation. The process involves transitioning to acquire-release memory ordering, applying the test-and-test-and-set pattern, and implementing exponential backoff via the `_mm_pause` instruction.</p><p>Under thread contention, the final version is 5.7x faster and consumes 5.4x less energy than the naive approach. These improvements significantly reduce L1-d cache misses and branch mispredictions by mitigating cache line invalidation and optimizing processor wait states.</p><p><img src="https://substackcdn.com/image/fetch/$s_!WK_e!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https://substack-post-media.s3.amazonaws.com/public/images/e860e064-eb09-463f-98ea-b68698dc2a9a_1537x901.png" /></p><hr/><small>12 Sep 2026, 15:41 UTC | #20923</small>]]></content>
-  </entry>
-  <entry>
-    <title>Lobsters Users Share Upcoming Weekend Plans</title>
-    <link href="https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend" rel="alternate" />
-    <id>https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend::v239</id>
-    <published>2026-09-12T11:52:00+00:00</published>
-    <updated>2026-09-12T11:52:00+00:00</updated>
-    <media:thumbnail url="https://www.widforss.no/_next/image?url=https://widforss.centracdn.net/client/dynamic/images/72711_e4d1354c59-1-hurtta-weekend-warrior-harness-ii-eco-ruby-full.jpg&amp;w=1440&amp;q=75" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend">discussion</a></small></p><hr/><p>Community members detail a diverse array of activities planned for the upcoming weekend, ranging from household chores and social gatherings to reading literature. These responses provide a snapshot of the interests and routines of the community.</p><p><img src="https://www.widforss.no/_next/image?url=https://widforss.centracdn.net/client/dynamic/images/72711_e4d1354c59-1-hurtta-weekend-warrior-harness-ii-eco-ruby-full.jpg&w=1440&q=75" /></p><hr/><small>12 Sep 2026, 15:26 UTC | #20921</small>]]></content>
-  </entry>
-  <entry>
-    <title>hcker.news Provides Alternative Reader for Hacker News</title>
-    <link href="https://hcker.news/?ai=exclude" rel="alternate" />
-    <id>https://hcker.news/?ai=exclude::v239</id>
-    <published>2026-09-12T11:51:00+00:00</published>
-    <updated>2026-09-12T11:51:00+00:00</updated>
-    <media:thumbnail url="https://social.news.hada.io/topic/24604" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://hcker.news/?ai=exclude">hcker.news</a> | <a href="https://news.ycombinator.com/item?id=49659647">hacker news</a></small></p><hr/><p>hcker.news is a web-based alternative reader for Hacker News designed to provide a more customizable viewing experience. The platform features timeline feeds, advanced search, personalized filters, and various layout options to help users manage content and follow specific topics.</p><p>The application supports independent user accounts via passwords and passkeys, enabling the synchronization of user settings, themes, and filters across different devices. These features are intended to help readers filter noise and better track discussions compared to the standard Hacker News interface.</p><p><img src="https://social.news.hada.io/topic/24604" /></p><hr/><small>12 Sep 2026, 15:22 UTC | #20920</small>]]></content>
-  </entry>
 </feed>
