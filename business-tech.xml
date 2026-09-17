@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T05:21:00+00:00</updated>
+  <updated>2026-09-17T05:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Australia Monitors Canada's Pursuit of Deeper EU Relations</title>
+    <link href="https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html" rel="alternate" />
+    <id>https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html::v239</id>
+    <published>2026-09-17T05:23:00+00:00</published>
+    <updated>2026-09-17T05:23:00+00:00</updated>
+    <media:thumbnail url="https://www.cde.ual.es/wp-content/uploads/2022/12/canada-eu.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html">independent.co.uk</a> | <a href="https://news.ycombinator.com/item?id=49734171">hacker news</a></small></p><hr/><p>Australian Trade Minister Don Farrell has indicated that the country is monitoring Canada's attempts to forge a "unique alliance" with the European Union. This follows reports that Canadian Prime Minister Mark Carney is seeking closer ties with the bloc to diversify trade amid escalating disputes with the United States.</p><p>The proposed cooperation encompasses sectors such as AI, energy, defense, and critical minerals. While Australia and the EU entered a free trade agreement in March 2026, officials suggest that further arrangements may be necessary to navigate a global environment increasingly defined by protectionism.</p><p><img src="https://www.cde.ual.es/wp-content/uploads/2022/12/canada-eu.png" /></p><hr/><small>17 Sep 2026, 12:56 UTC | #21428</small>]]></content>
+  </entry>
   <entry>
     <title>Google, Nvidia, and Emerald AI Launch AI Energy Management Alliance</title>
     <link href="https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers" rel="alternate" />
