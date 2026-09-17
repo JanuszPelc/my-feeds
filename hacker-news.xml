@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T18:11:00+00:00</updated>
+  <updated>2026-09-17T20:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Bend Programming Language Uses Formal Proofs to Prevent AI Coding Errors</title>
+    <link href="https://bend-lang.com/" rel="alternate" />
+    <id>https://bend-lang.com/::v239</id>
+    <published>2026-09-17T20:37:00+00:00</published>
+    <updated>2026-09-17T20:37:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://bend-lang.com/">bend-lang.com</a> | <a href="https://news.ycombinator.com/item?id=49746163">hacker news</a></small></p><hr/><p>Bend is a high-performance programming language that uses formal proofs to ensure AI-generated code adheres to specific constraints. Through its BendTT affine dependent type theory, developers can define "laws" that the compiler verifies as mathematical theorems, effectively blocking logic errors that would otherwise be introduced by AI agents during code generation.</p><p>The language offers Python-like syntax and is designed for massive parallelism, capable of running on both CPUs and GPUs through the BendRT runtime. This approach aims to bridge the gap between natural language intent and executable code, providing a fast and verifiable way to build applications in an AI-centric development environment.</p><hr/><small>17 Sep 2026, 23:52 UTC | #21506</small>]]></content>
+  </entry>
   <entry>
     <title>Rust Developers and Crate Owners Targeted in Malware Campaign</title>
     <link href="https://blog.rust-lang.org/2026/09/17/targeted-attacks/" rel="alternate" />
