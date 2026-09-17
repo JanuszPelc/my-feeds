@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T03:36:00+00:00</updated>
+  <updated>2026-09-17T03:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>C++26 Makes Trivial Infinite Loops Well-Defined</title>
+    <link href="https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops" rel="alternate" />
+    <id>https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops::v239</id>
+    <published>2026-09-17T03:38:00+00:00</published>
+    <updated>2026-09-17T03:38:00+00:00</updated>
+    <media:thumbnail url="https://makerworld.bblmw.com/makerworld/model/US8bd95022a43b34/design/801d6b95a325d320.jpg?x-oss-process=image/resize,w_1200/ignore-error,1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops">sandordargo.com</a> | <a href="https://open-std.org/jtc1/sc22/wg21/docs/papers/2024/p2809r3.html">source</a> | <a href="https://lobste.rs/s/uvrata/c_26_trivial_infinite_loops_are_no_longer">discussion</a></small></p><hr/><p>C++26 changes the status of trivial infinite loops, such as `while (true);`, from undefined behavior to well-defined behavior via proposal P2809R3. Previously, compilers were permitted to assume these loops would eventually terminate, which allowed them to optimize the loops away entirely. This behavior caused significant issues in embedded and kernel programming, where empty loops are often used to halt a system after a fatal error.</p><p>The standard defines a trivial infinite loop as a trivially empty iteration statement with a constant expression that evaluates to true. Under the new rules, these loops are treated as a call to `std::this_thread::yield()` to ensure forward progress. Because the proposal was also accepted as a defect report, implementations may apply this fix to earlier C++ modes as well.</p><p><img src="https://makerworld.bblmw.com/makerworld/model/US8bd95022a43b34/design/801d6b95a325d320.jpg?x-oss-process=image/resize,w_1200/ignore-error,1" /></p><hr/><small>17 Sep 2026, 09:28 UTC | #21410</small>]]></content>
+  </entry>
   <entry>
     <title>Technical Challenges of Building a Rust LSP</title>
     <link href="https://rust-glancer.github.io/blog/why-lsp-is-hard/" rel="alternate" />
