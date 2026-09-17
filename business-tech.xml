@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T18:23:00+00:00</updated>
+  <updated>2026-09-17T18:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>SpaceX Explores Purchasing Startup Data to Train AI Models</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-17/spacex-discusses-buying-data-for-ai-models-from-failed-startups" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-17/spacex-discusses-buying-data-for-ai-models-from-failed-startups::v239</id>
+    <published>2026-09-17T18:26:00+00:00</published>
+    <updated>2026-09-17T18:26:00+00:00</updated>
+    <media:thumbnail url="https://asset.peoplematters.in/images/7c3b1fcb-5028-45e4-8d45-057fe714f5cd.png?w=640&amp;dpr=2&amp;auto=format" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-17/spacex-discusses-buying-data-for-ai-models-from-failed-startups">bloomberg.com</a></small></p><hr/><p>SpaceX is considering the acquisition of customer and operational data from defunct or struggling startups to serve as a cost-effective training source for its artificial intelligence models. Internal discussions focus on securing these non-public datasets to improve model performance and reduce development costs.</p><p>This strategy targets a burgeoning market for specialized data liquidation, where communication archives and operational logs are repurposed to enhance AI reasoning and domain-specific knowledge. By acquiring the assets of liquidated companies, developers can access structured, high-quality information for reinforcement learning that is otherwise difficult to source.</p><p><img src="https://asset.peoplematters.in/images/7c3b1fcb-5028-45e4-8d45-057fe714f5cd.png?w=640&dpr=2&auto=format" /></p><hr/><small>17 Sep 2026, 23:23 UTC | #21460</small>]]></content>
+  </entry>
   <entry>
     <title>Nexperia and Tata Electronics Partner for Chip Production in India</title>
     <link href="https://www.reuters.com/world/china/nexperia-says-it-will-partner-with-tata-chip-production-packaging-india-2026-09-17/" rel="alternate" />
