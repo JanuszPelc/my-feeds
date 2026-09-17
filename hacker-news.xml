@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T16:26:00+00:00</updated>
+  <updated>2026-09-17T16:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Cloudflare Worker Error on Skywriter.blue</title>
+    <link href="https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q" rel="alternate" />
+    <id>https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q::v239</id>
+    <published>2026-09-17T16:32:00+00:00</published>
+    <updated>2026-09-17T16:32:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q">skywriter.blue</a> | <a href="https://news.ycombinator.com/item?id=49737985">hacker news</a></small></p><hr/><p>A Cloudflare Worker encountered a rendering exception while attempting to serve a page on skywriter.blue. The incident occurred on September 17, 2026, and was identified as Error 1101.</p><p>The error page provides a unique Cloudflare Ray ID (a3cb00c35f45a6de) for debugging. The page advises the website owner to check their Workers logs to investigate the cause of the failure.</p><hr/><small>17 Sep 2026, 20:58 UTC | #21485</small>]]></content>
+  </entry>
   <entry>
     <title>Hister: Self-Hosted Search Engine for Visited Pages and Local Files</title>
     <link href="https://github.com/asciimoo/hister" rel="alternate" />
