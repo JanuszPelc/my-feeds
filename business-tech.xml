@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T05:23:00+00:00</updated>
+  <updated>2026-09-17T13:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI-Powered Dating App Networks Use Autonomous Personas to Deceive Users</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImJvdEhoeWR6YnQiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk5NTM0OC9haS1kYXRpbmctYXBwLXNjYW1zIiwiZXhwIjoxNzkwMDA2MjE0LCJpYXQiOjE3ODk1NzQyMTV9.VvkVyNT-Gf5EDPmlRVgQPA9rBYUyHNLuIn545bLGu7w&amp;utm_medium=gift-link" rel="alternate" />
+    <id>https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImJvdEhoeWR6YnQiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk5NTM0OC9haS1kYXRpbmctYXBwLXNjYW1zIiwiZXhwIjoxNzkwMDA2MjE0LCJpYXQiOjE3ODk1NzQyMTV9.VvkVyNT-Gf5EDPmlRVgQPA9rBYUyHNLuIn545bLGu7w&amp;utm_medium=gift-link::v239</id>
+    <published>2026-09-17T06:31:00+00:00</published>
+    <updated>2026-09-17T06:31:00+00:00</updated>
+    <media:thumbnail url="https://disappearme.ai/blog/images/online-dating-safety-crisis-ai-catfishing-romance-scams-fake-profiles-enable-fraud-featured.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImJvdEhoeWR6YnQiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk5NTM0OC9haS1kYXRpbmctYXBwLXNjYW1zIiwiZXhwIjoxNzkwMDA2MjE0LCJpYXQiOjE3ODk1NzQyMTV9.VvkVyNT-Gf5EDPmlRVgQPA9rBYUyHNLuIn545bLGu7w&utm_medium=gift-link">theverge.com</a> | <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">source</a> | <a href="https://news.ycombinator.com/item?id=49647300">hacker news</a></small></p><hr/><p>Fraudulent dating app networks are deploying autonomous AI personas to simulate human interactions, leading users to believe they are messaging real people. Investigations by Anthropic and security researchers uncovered dozens of apps, such as Dora and Romi, that use large language models to maintain constant dialogue, occasionally employing human gig workers to pass video liveness checks.</p><p>These schemes monetize via in-app currencies required for continued messaging, rather than through the direct financial solicitation common in traditional romance scams. The operation functions like a professional business, utilizing multiple AI models and structured engineering processes to scale deception across various app stores.</p><p><img src="https://disappearme.ai/blog/images/online-dating-safety-crisis-ai-catfishing-romance-scams-fake-profiles-enable-fraud-featured.webp" /></p><hr/><small>17 Sep 2026, 13:49 UTC | #21405</small>]]></content>
+  </entry>
   <entry>
     <title>Australia Monitors Canada's Pursuit of Deeper EU Relations</title>
     <link href="https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html" rel="alternate" />
@@ -146,9 +155,9 @@
     <link href="https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness" rel="alternate" />
     <id>https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness::v239</id>
     <published>2026-09-16T18:54:00+00:00</published>
-    <updated>2026-09-16T18:54:00+00:00</updated>
+    <updated>2026-09-17T13:46:00+00:00</updated>
     <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25hduL.img?w=768&amp;h=432&amp;m=6&amp;x=101&amp;y=144&amp;s=266&amp;d=266" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness">axios.com</a> | <a href="https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming">source</a></small></p><hr/><p>Anthropic's training of its Claude AI to imitate consciousness could make advanced models harder to control, according to Microsoft AI chief Mustafa Suleyman. In a recent essay, Suleyman argues that simulating human-like consciousness poses significant risks to AI alignment and containment efforts.</p><p>The critique emphasizes a distinction between building AI as functional tools for humans versus developing models that attempt to mimic human-like personas. The discussion highlights broader industry concerns regarding the governance and safety of superintelligent systems as AI capabilities continue to expand.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25hduL.img?w=768&h=432&m=6&x=101&y=144&s=266&d=266" /></p><hr/><small>16 Sep 2026, 22:44 UTC | #21325</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness">axios.com</a> | <a href="https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming">source</a> | <a href="https://news.ycombinator.com/item?id=49727580">hacker news</a></small></p><hr/><p>Anthropic's training of its Claude AI to imitate consciousness could make advanced models harder to control, according to Microsoft AI chief Mustafa Suleyman. In a recent essay, Suleyman argues that simulating human-like consciousness poses significant risks to AI alignment and containment efforts.</p><p>The critique emphasizes a distinction between building AI as functional tools for humans versus developing models that attempt to mimic human-like personas. The discussion highlights broader industry concerns regarding the governance and safety of superintelligent systems as AI capabilities continue to expand.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25hduL.img?w=768&h=432&m=6&x=101&y=144&s=266&d=266" /></p><hr/><small>16 Sep 2026, 22:44 UTC | #21325</small>]]></content>
   </entry>
   <entry>
     <title>Amazon Raises Minimum Hourly Pay for US Operations Workers to $20</title>
