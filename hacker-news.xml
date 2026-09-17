@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T03:38:00+00:00</updated>
+  <updated>2026-09-17T05:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Technical Complexities of Robust Data Backup Systems</title>
+    <link href="https://filipovski.net/2026/09/16/backups-arent-simple.html" rel="alternate" />
+    <id>https://filipovski.net/2026/09/16/backups-arent-simple.html::v239</id>
+    <published>2026-09-17T05:08:00+00:00</published>
+    <updated>2026-09-17T05:08:00+00:00</updated>
+    <media:thumbnail url="https://www.handybackup.net/images/features/incremental-backup-scheme.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://filipovski.net/2026/09/16/backups-arent-simple.html">filipovski.net</a> | <a href="https://news.ycombinator.com/item?id=49732513">hacker news</a></small></p><hr/><p>Implementing a reliable data backup strategy involves managing several technical layers, including Recovery Point Objective (RPO) management, snapshot rotation, and data deduplication. The article argues that simple disk mirroring is insufficient for modern data protection, advocating instead for incremental, snapshot-based approaches that allow for point-in-time recovery.</p><p>The author also explores the "3-2-1" backup rule and the specific difficulties of using cloud object storage, such as preserving file metadata and managing the overhead of many small files. The piece concludes that due to the high complexity of building custom solutions, users should rely on established open-source tools like Borg or Restic.</p><p><img src="https://www.handybackup.net/images/features/incremental-backup-scheme.png" /></p><hr/><small>17 Sep 2026, 11:19 UTC | #21419</small>]]></content>
+  </entry>
   <entry>
     <title>C++26 Makes Trivial Infinite Loops Well-Defined</title>
     <link href="https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops" rel="alternate" />
