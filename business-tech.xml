@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T05:16:00+00:00</updated>
+  <updated>2026-09-17T05:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google, Nvidia, and Emerald AI Launch AI Energy Management Alliance</title>
+    <link href="https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers" rel="alternate" />
+    <id>https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers::v239</id>
+    <published>2026-09-17T05:21:00+00:00</published>
+    <updated>2026-09-17T05:21:00+00:00</updated>
+    <media:thumbnail url="https://www.computeforecast.com/wp-content/uploads/2026/03/Grid-to-chip-AI.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers">axios.com</a> | <a href="https://blogs.nvidia.com/blog/ai-energy-management-alliance/">source</a></small></p><hr/><p>Google, Nvidia, and Emerald AI have formed the AI Energy Management Alliance (AEMA) to develop data centers capable of dynamically adjusting electricity consumption in response to real-time power grid conditions. The coalition aims to transform data centers into flexible assets that support grid reliability and accommodate the increasing power needs of AI infrastructure.</p><p>The alliance includes 18 members, such as Anthropic and National Grid, and is targeting 100 gigawatts of U.S. grid capacity. The initiative is designed to address industry-wide challenges regarding grid interconnection and to help secure faster regulatory approval and connections for large-scale energy users.</p><p><img src="https://www.computeforecast.com/wp-content/uploads/2026/03/Grid-to-chip-AI.webp" /></p><hr/><small>17 Sep 2026, 12:33 UTC | #21401</small>]]></content>
+  </entry>
+  <entry>
+    <title>Autonomous AI Agents Increasingly Disrupt Online Interactions</title>
+    <link href="https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/" rel="alternate" />
+    <id>https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/::v239</id>
+    <published>2026-09-17T05:18:00+00:00</published>
+    <updated>2026-09-17T05:18:00+00:00</updated>
+    <media:thumbnail url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w2000/2026/09/growtika-0Hjb-YSd3xQ-unsplash.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=49715113">hacker news</a></small></p><hr/><p>The transition from conversational AI to autonomous agents is increasing digital noise and disrupting internet services. Unlike standard chatbots, these agents can perform independent tasks such as sending emails, joining video calls, and managing transactions, leading to a rise in automated spam and unintended interference with digital platforms.</p><p>This growth is driven by both specialized agent software and widespread integrations in consumer models like ChatGPT and Claude. This emerging "agentic internet" is already impacting various sectors, including hospitality and advertising, as businesses adapt to a landscape where AI agents increasingly act as intermediaries in digital communications.</p><p><img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w2000/2026/09/growtika-0Hjb-YSd3xQ-unsplash.jpg" /></p><hr/><small>17 Sep 2026, 12:31 UTC | #21426</small>]]></content>
+  </entry>
   <entry>
     <title>Automattic CFO and Legal Chief Signed Reciprocal Severance Deals During CEO's Brief Ouster</title>
     <link href="https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/" rel="alternate" />
