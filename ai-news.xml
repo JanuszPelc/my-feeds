@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-16T17:17:00+00:00</updated>
+  <updated>2026-09-16T20:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Xiaomi Provides Live Training Metrics for MiMo-v2.6 RL Models</title>
+    <link href="https://mimo.xiaomi.com/rl/" rel="alternate" />
+    <id>https://mimo.xiaomi.com/rl/::v239</id>
+    <published>2026-09-16T20:17:00+00:00</published>
+    <updated>2026-09-16T20:17:00+00:00</updated>
+    <media:thumbnail url="https://help.apiyi.com/wp-content/uploads/2026/03/xiaomi-mimo-v2-pro-omni-hunter-alpha-api-guide-id-image-0.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mimo.xiaomi.com/rl/">mimo.xiaomi.com</a> | <a href="https://news.ycombinator.com/item?id=49732270">hacker news</a></small></p><hr/><p>The MiMo-v2.6 RL dashboard provides real-time training metrics for Xiaomi's MiMo-v2.6-Pro and MiMo-v2.6-Flash reinforcement learning models. The data is streamed directly from the active trainer's logs.</p><p>This live monitoring enables the tracking of model convergence and performance throughout the reinforcement learning training process.</p><p><img src="https://help.apiyi.com/wp-content/uploads/2026/03/xiaomi-mimo-v2-pro-omni-hunter-alpha-api-guide-id-image-0.png" /></p><hr/><small>17 Sep 2026, 02:12 UTC | #21387</small>]]></content>
+  </entry>
   <entry>
     <title>Google Launches MCP Server for Google Home</title>
     <link href="https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/" rel="alternate" />
