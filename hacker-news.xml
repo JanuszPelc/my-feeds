@@ -904,40 +904,4 @@
     <media:thumbnail url="https://www.partitionwizard.com/images/uploads/articles/2022/11/command-prompt-list-files/command-prompt-list-files-3.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://00f.net/2026/09/09/base84/">00f.net</a> | <a href="https://github.com/jedisct1/turbocrypt">source</a> | <a href="https://lobste.rs/s/bfiose/base84_deserves_place_file_names">discussion</a></small></p><hr/><p>TurboCrypt is transitioning from Base91 to Base84 encoding for its encrypted file and directory names to ensure compatibility with Windows. While Base91 is suitable for Unix and macOS, it contains characters that are illegal in Windows filenames.</p><p>The Base84 implementation uses an 84-character ASCII alphabet that avoids forbidden characters, dots, and Windows reserved device names like CON or NUL. This method provides approximately 25.2% expansion and ensures that encoded strings are portable across Linux, macOS, and Windows filesystems.</p><p><img src="https://www.partitionwizard.com/images/uploads/articles/2022/11/command-prompt-list-files/command-prompt-list-files-3.png" /></p><hr/><small>12 Sep 2026, 17:59 UTC | #20938</small>]]></content>
   </entry>
-  <entry>
-    <title>DiffOS Aims to Meet GNU Free System Distribution Guidelines</title>
-    <link href="https://www.diffos.org/" rel="alternate" />
-    <id>https://www.diffos.org/::v239</id>
-    <published>2026-09-12T12:14:00+00:00</published>
-    <updated>2026-09-12T12:14:00+00:00</updated>
-    <media:thumbnail url="https://ubunlog.com/wp-content/uploads/2026/03/APTUI.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.diffos.org/">diffos.org</a> | <a href="https://lobste.rs/s/mfx8ja/diffos_is_for_freedom">discussion</a></small></p><hr/><p>Designed to meet the Free System Distribution Guidelines (FSDG), DiffOS is a Debian-based GNU/Linux distribution striving to become a recognized free operating system. The project follows an upstream-first policy, prioritizing the reuse of Debian binary packages and only modifying source code when required for freedom or branding concerns.</p><p>Stable package archives for Debian versions bullseye, bookworm, and trixie are available for architectures including amd64, arm64, ppc64el, and riscv64. Users can access container and cloud images, while installation and Live ISOs are currently in development.</p><p><img src="https://ubunlog.com/wp-content/uploads/2026/03/APTUI.webp" /></p><hr/><small>12 Sep 2026, 17:57 UTC | #20941</small>]]></content>
-  </entry>
-  <entry>
-    <title>Trail of Bits Operates Independent Auditor for Signal Automatic Key Verification</title>
-    <link href="https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/" rel="alternate" />
-    <id>https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/::v239</id>
-    <published>2026-09-12T12:09:00+00:00</published>
-    <updated>2026-09-12T12:09:00+00:00</updated>
-    <media:thumbnail url="https://cyberinsider.com/wp-content/uploads/2026/05/verified-1-1024x783.jpeg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/">blog.trailofbits.com</a> | <a href="https://lobste.rs/s/zjklvq/how_trail_bits_helps_verify_integrity">discussion</a></small></p><hr/><p>Trail of Bits operates an independent, open-source auditor for Signal’s Automatic Key Verification feature to prevent server-side key substitution attacks. The system uses key transparency to help users detect if a compromised server is providing fraudulent public keys to intercept encrypted communications.</p><p>The auditor maintains a local Merkle tree of the public key map and periodically signs the tree head to ensure global consistency. Signal clients require valid signatures from three independent auditors—Signal, Cloudflare, and Trail of Bits—to verify that the key log is well-formed and has not been manipulated by a malicious server.</p><p><img src="https://cyberinsider.com/wp-content/uploads/2026/05/verified-1-1024x783.jpeg" /></p><hr/><small>12 Sep 2026, 17:19 UTC | #20935</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Neural Engine Architecture Reverse-Engineered</title>
-    <link href="https://eiln.github.io/posts/ane.html" rel="alternate" />
-    <id>https://eiln.github.io/posts/ane.html::v239</id>
-    <published>2026-09-12T12:06:00+00:00</published>
-    <updated>2026-09-12T12:06:00+00:00</updated>
-    <media:thumbnail url="https://neuronad.com/wp-content/uploads/2026/03/Snimek-obrazovky-2026-03-03-v-19.18.54-1024x827.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://eiln.github.io/posts/ane.html">eiln.github.io</a> | <a href="https://news.ycombinator.com/item?id=49670032">hacker news</a></small></p><hr/><p>This technical investigation reverse-engineers the architecture of Apple's Neural Engine (ANE), specifically the M1 implementation. It details the 16 compute cores, the internal structure of the multiply-accumulate (MAC) units, and the implementation of nonlinear activation functions through 33-entry piecewise-linear lookup tables.</p><p>The analysis examines how Apple's early hardware design decisions reflected CNN-era workloads and how they have since shifted to support transformer-based models. It also notes a transition in Apple's architectural strategy, where newer M5 silicon integrates NPU functions directly into the GPU to optimize for large language model performance.</p><p><img src="https://neuronad.com/wp-content/uploads/2026/03/Snimek-obrazovky-2026-03-03-v-19.18.54-1024x827.jpg" /></p><hr/><small>12 Sep 2026, 17:02 UTC | #20932</small>]]></content>
-  </entry>
-  <entry>
-    <title>Unslop News Filters Hacker News to Remove AI-Related Content</title>
-    <link href="https://www.unslop.news/" rel="alternate" />
-    <id>https://www.unslop.news/::v239</id>
-    <published>2026-09-12T12:03:00+00:00</published>
-    <updated>2026-09-12T12:03:00+00:00</updated>
-    <media:thumbnail url="https://www.tyrex-cyber.co.uk/wp-content/uploads/ai-hacking-1024x683.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.unslop.news/">unslop.news</a> | <a href="https://news.ycombinator.com/item?id=49660783">hacker news</a></small></p><hr/><p>The service provides a version of the Hacker News feed that specifically excludes content related to artificial intelligence. It processes incoming submissions to present a stream of information that filters out AI-focused discussions and news.</p><p>The platform is designed for technology professionals and developers who wish to reduce the signal-to-noise ratio caused by the recent influx of AI-related content. It aims to focus the feed on traditional software engineering, hardware, and scientific technical discussions.</p><p><img src="https://www.tyrex-cyber.co.uk/wp-content/uploads/ai-hacking-1024x683.jpg" /></p><hr/><small>12 Sep 2026, 16:44 UTC | #20929</small>]]></content>
-  </entry>
 </feed>
