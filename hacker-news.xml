@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T11:00:00+00:00</updated>
+  <updated>2026-09-17T13:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>.tar.gz Files Cannot Be Concatenated Using Cat</title>
+    <link href="https://alexwlchan.net/2026/cat-confusion/" rel="alternate" />
+    <id>https://alexwlchan.net/2026/cat-confusion/::v239</id>
+    <published>2026-09-17T13:36:00+00:00</published>
+    <updated>2026-09-17T13:36:00+00:00</updated>
+    <media:thumbnail url="https://www.justgeek.fr/wp-content/uploads/2026/02/extraction-fichier-tar-gz-terminal-linux.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://alexwlchan.net/2026/cat-confusion/">alexwlchan.net</a> | <a href="https://lobste.rs/s/lox1su/why_tar_gz_files_can_t_be_combined_with_cat">discussion</a> | <a href="https://news.ycombinator.com/item?id=49509686">hacker news</a></small></p><hr/><p>The inclusion of an end-of-file (EOF) marker in the tar format prevents users from successfully concatenating .tar.gz archives using the `cat` command. While gzip is a stream compressor that allows concatenated members to be read as a single continuous stream, tar readers stop at the first EOF marker—consisting of zeroed blocks—and ignore any subsequent data.</p><p>This behavior is a legacy of tar's design for sequential access on magnetic tape. To correctly combine multiple compressed archives, the individual members must be extracted and then written into a new, single archive to ensure a single, valid EOF marker is placed at the end.</p><p><img src="https://www.justgeek.fr/wp-content/uploads/2026/02/extraction-fichier-tar-gz-terminal-linux.webp" /></p><hr/><small>17 Sep 2026, 17:12 UTC | #21462</small>]]></content>
+  </entry>
+  <entry>
+    <title>macOS 27 Golden Gate: Mandatory AI and End of Intel Support</title>
+    <link href="https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/" rel="alternate" />
+    <id>https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/::v239</id>
+    <published>2026-09-17T13:35:00+00:00</published>
+    <updated>2026-09-17T13:35:00+00:00</updated>
+    <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/golden-gate-wallpaper.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/">arstechnica.com</a> | <a href="https://www.apple.com/os/macos/">source</a> | <a href="https://news.ycombinator.com/item?id=49732036">hacker news</a></small></p><hr/><p>macOS 27 Golden Gate integrates Apple Intelligence as a mandatory system component, making generative AI features a core part of the operating system that cannot be disabled. This release also marks the end of support for all Intel-based Macs, requiring an Apple M1 chip or newer to function.</p><p>The update includes upgraded Siri capabilities, with advanced voice and dictation features requiring M3-family processors and at least 12GB of RAM. Additionally, the mandatory inclusion of large language models significantly increases the installation's disk space footprint compared to previous versions.</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/golden-gate-wallpaper.jpg" /></p><hr/><small>17 Sep 2026, 17:08 UTC | #21415</small>]]></content>
+  </entry>
   <entry>
     <title>Fujitsu Announces Next-Generation FUJITSU-MONAKA Arm-Based CPU</title>
     <link href="https://global.fujitsu/en-global/pr/news/2026/09/14-02" rel="alternate" />
