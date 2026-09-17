@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-16T19:00:00+00:00</updated>
+  <updated>2026-09-17T10:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Heart Machine Lays Off Majority of Staff Following Loss of Project Funding</title>
+    <link href="https://www.gamedeveloper.com/business/hyper-light-drifter-developer-heart-machine-has-laid-off-the-majority-of-staff" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/hyper-light-drifter-developer-heart-machine-has-laid-off-the-majority-of-staff::v239</id>
+    <published>2026-09-17T10:46:00+00:00</published>
+    <updated>2026-09-17T10:46:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt5525e9a21436823c/6aabb0d3a934835f7c0ef207/Heart_Header.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/hyper-light-drifter-developer-heart-machine-has-laid-off-the-majority-of-staff">gamedeveloper.com</a> | <a href="https://www.linkedin.com/posts/alx-preston-a6729262_i-have-very-difficult-news-today-we-had-activity-7506048787061043200-O5tY">source</a></small></p><hr/><p>Indie studio Heart Machine has laid off most of its employees after a publisher withdrew funding for an unannounced title. Founder Alex Preston stated that the loss of this key income leaves the studio's future survival uncertain.</p><p>This follows several previous rounds of layoffs at the studio in late 2024 and 2025. The company had previously hoped that the release of *Hyper Light Breaker* would provide stability, but the game was cut loose during its early access phase.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt5525e9a21436823c/6aabb0d3a934835f7c0ef207/Heart_Header.png?width=720&quality=80&disable=upscale" /></p><hr/><small>17 Sep 2026, 14:33 UTC | #21411</small>]]></content>
+  </entry>
   <entry>
     <title>Build a Rocket Boy Reportedly Closing After Layoffs</title>
     <link href="https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs" rel="alternate" />
