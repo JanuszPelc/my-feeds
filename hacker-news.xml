@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T01:04:00+00:00</updated>
+  <updated>2026-09-17T03:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Technical Challenges of Building a Rust LSP</title>
+    <link href="https://rust-glancer.github.io/blog/why-lsp-is-hard/" rel="alternate" />
+    <id>https://rust-glancer.github.io/blog/why-lsp-is-hard/::v239</id>
+    <published>2026-09-17T03:36:00+00:00</published>
+    <updated>2026-09-17T03:36:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rust-glancer.github.io/blog/why-lsp-is-hard/">rust-glancer.github.io</a> | <a href="https://lobste.rs/s/q35pnm/why_building_rust_lsp_is_hard">discussion</a></small></p><hr/><p>Implementing a Language Server Protocol (LSP) for Rust involves significant architectural hurdles, primarily the requirement to provide useful developer feedback from incomplete or partial code states. The process requires managing a virtual file system to synchronize unsaved editor edits with the filesystem and orchestrating complex concurrency models to handle overlapping, asynchronous queries without serving stale data.</p><p>The author compares different strategies for managing codebase state, specifically contrasting the lazy, incremental computation model used by rust-analyzer with the eager, filesystem-backed indexing approach of Rust Glancer. The discussion covers the various levels of semantic analysis required for modern IDE features, ranging from basic AST/CST parsing to the heavy computational requirements of inlay hints and global reference searching.</p><hr/><small>17 Sep 2026, 09:12 UTC | #21408</small>]]></content>
+  </entry>
+  <entry>
+    <title>AWS Unable to Restore Certain Data in Middle East After Iranian Drone Strikes</title>
+    <link href="https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d" rel="alternate" />
+    <id>https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d::v239</id>
+    <published>2026-09-17T03:35:00+00:00</published>
+    <updated>2026-09-17T03:35:00+00:00</updated>
+    <media:thumbnail url="https://cdn.credaily.com/uploads/2026/03/CRE_Daily_Breif_Image_9092621405.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d">wsj.com</a> | <a href="https://health.aws.amazon.com/health/status">source</a> | <a href="https://news.ycombinator.com/item?id=49719249">hacker news</a></small></p><hr/><p>Amazon Web Services (AWS) has announced it is unable to restore certain data that was stored exclusively in data centers across Bahrain and one availability zone in the United Arab Emirates. The loss follows Iranian drone strikes in the spring that damaged the regional infrastructure. This is the first indication that data stored solely in these specific locations may be permanently unrecoverable.</p><p>The physical destruction of the hardware housing the exclusive data sets has prevented recovery efforts. The incident underscores the significant risks that kinetic military actions pose to cloud infrastructure and the critical importance of regional data redundancy for organizations operating in conflict-prone areas.</p><p><img src="https://cdn.credaily.com/uploads/2026/03/CRE_Daily_Breif_Image_9092621405.webp" /></p><hr/><small>17 Sep 2026, 09:09 UTC | #21388</small>]]></content>
+  </entry>
   <entry>
     <title>Snap Shares Specifications and Hands-On Details for SPECS AR Glasses</title>
     <link href="https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTYwMjIwNywiZXhwIjoxNzkwMjA3MDA3LCJhcnRpY2xlSWQiOiJUTEhEUVRSS1YyVkEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.01o6l00ip_iJzqQmR0520mnqygcxPcF_eob6DVrcJnc&amp;leadSource=article-gifting" rel="alternate" />
