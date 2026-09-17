@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T05:56:00+00:00</updated>
+  <updated>2026-09-17T10:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Josh Bowman-Matthews Reflects on One Year of Sponsored Servo Development</title>
+    <link href="https://servo.org/blog/2026/09/15/one-year-of-sponsorship/" rel="alternate" />
+    <id>https://servo.org/blog/2026/09/15/one-year-of-sponsorship/::v239</id>
+    <published>2026-09-17T10:49:00+00:00</published>
+    <updated>2026-09-17T10:49:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://servo.org/blog/2026/09/15/one-year-of-sponsorship/">servo.org</a> | <a href="https://news.ycombinator.com/item?id=49737849">hacker news</a></small></p><hr/><p>Josh Bowman-Matthews has completed one year of part-time work on the Servo project, funded by monthly donations through OpenCollective and GitHub Sponsors. His work focused on improving the contributor experience by reviewing 1,150 pull requests, nominating eight new maintainers, and filing over 100 issues to assist new contributors.</p><p>Technical efforts included stabilizing intermittent test failures, supporting a large-scale rewrite of the JavaScript engine integration, and updating documentation for experimental features and borrow hazards. This role aims to improve project accessibility and streamline the maintenance process for the open-source web engine.</p><hr/><small>17 Sep 2026, 14:49 UTC | #21444</small>]]></content>
+  </entry>
   <entry>
     <title>Huawei to Launch Ascend 960 AI Chips in 2027</title>
     <link href="https://www.reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17/" rel="alternate" />
@@ -903,23 +911,5 @@
     <updated>2026-09-12T15:57:00+00:00</updated>
     <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQHxdb7k_-9ORA/feedshare-shrink_800/B56ZyzgoNpIYAg-/0/1772538217722?e=2147483647&amp;v=beta&amp;t=TXQ9dEpo3FHDMeOat25qwFykVZkMQ1FeknP3TiKgUjc" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code">elijahpotter.dev</a> | <a href="https://lobste.rs/s/ub8q3s/useful_things_agents_can_do_are_not">discussion</a></small></p><hr/><p>AI agents can perform various development tasks beyond writing source code, such as resolving merge conflicts in pull requests, identifying relevant issues in repositories, and diagnosing GitHub Actions failures. Specific prompt templates for the `pi` agent are provided to automate these maintenance and administrative processes.</p><p>These prompts are intended as inspiration for individual developer workflows rather than strict instructions. Automating routine tasks like fixing formatting errors or investigating CI/CD failures can reduce the administrative overhead involved in the development lifecycle.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQHxdb7k_-9ORA/feedshare-shrink_800/B56ZyzgoNpIYAg-/0/1772538217722?e=2147483647&v=beta&t=TXQ9dEpo3FHDMeOat25qwFykVZkMQ1FeknP3TiKgUjc" /></p><hr/><small>12 Sep 2026, 19:21 UTC | #20945</small>]]></content>
-  </entry>
-  <entry>
-    <title>buildprof Released to Profile Linux Software Builds</title>
-    <link href="https://lalitm.com/post/buildprof/" rel="alternate" />
-    <id>https://lalitm.com/post/buildprof/::v239</id>
-    <published>2026-09-12T14:49:00+00:00</published>
-    <updated>2026-09-12T14:49:00+00:00</updated>
-    <media:thumbnail url="https://lalitm.com/assets/buildprof/ripgrep-overview.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lalitm.com/post/buildprof/">lalitm.com</a> | <a href="https://lobste.rs/s/qsrjs2/i_made_build_profiler_understand_bun_s">discussion</a></small></p><hr/><p>Lalit Maganti has released buildprof, an open-source tracing tool that visualizes software build processes on Linux as a hierarchical timeline. The tool tracks all subprocesses, allowing developers to identify performance bottlenecks such as inefficient parallelism, repeated work, or long-running compiler and linker invocations.</p><p>Developed to investigate the performance gap between Bun's Zig and Rust builds, the tool revealed that Full Link-Time Optimization (LTO) in the linker was a primary contributor to the Zig build's duration. The analysis further indicated that the Rust implementation's multi-crate structure facilitated significantly more parallelism than the single, monolithic Zig module used in previous versions.</p><p><img src="https://lalitm.com/assets/buildprof/ripgrep-overview.png" /></p><hr/><small>12 Sep 2026, 18:01 UTC | #20933</small>]]></content>
-  </entry>
-  <entry>
-    <title>TurboCrypt Adopts Base84 for Cross-Platform File Name Compatibility</title>
-    <link href="https://00f.net/2026/09/09/base84/" rel="alternate" />
-    <id>https://00f.net/2026/09/09/base84/::v239</id>
-    <published>2026-09-12T14:39:00+00:00</published>
-    <updated>2026-09-12T14:39:00+00:00</updated>
-    <media:thumbnail url="https://www.partitionwizard.com/images/uploads/articles/2022/11/command-prompt-list-files/command-prompt-list-files-3.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://00f.net/2026/09/09/base84/">00f.net</a> | <a href="https://github.com/jedisct1/turbocrypt">source</a> | <a href="https://lobste.rs/s/bfiose/base84_deserves_place_file_names">discussion</a></small></p><hr/><p>TurboCrypt is transitioning from Base91 to Base84 encoding for its encrypted file and directory names to ensure compatibility with Windows. While Base91 is suitable for Unix and macOS, it contains characters that are illegal in Windows filenames.</p><p>The Base84 implementation uses an 84-character ASCII alphabet that avoids forbidden characters, dots, and Windows reserved device names like CON or NUL. This method provides approximately 25.2% expansion and ensures that encoded strings are portable across Linux, macOS, and Windows filesystems.</p><p><img src="https://www.partitionwizard.com/images/uploads/articles/2022/11/command-prompt-list-files/command-prompt-list-files-3.png" /></p><hr/><small>12 Sep 2026, 17:59 UTC | #20938</small>]]></content>
   </entry>
 </feed>
