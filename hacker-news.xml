@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T05:12:00+00:00</updated>
+  <updated>2026-09-17T05:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Huawei to Launch Ascend 960 AI Chips in 2027</title>
+    <link href="https://www.reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17/" rel="alternate" />
+    <id>https://www.reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17/::v239</id>
+    <published>2026-09-17T05:56:00+00:00</published>
+    <updated>2026-09-17T05:56:00+00:00</updated>
+    <media:thumbnail url="https://www.huaweicentral.com/wp-content/uploads/2025/09/Ascend-roadmap.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17/">reuters.com</a></small></p><hr/><p>Huawei plans to launch the Ascend 960DT AI chip in the first quarter of 2027 and the 960PR in the third quarter. The company intends to utilize its proprietary UnifiedBus technology to power these next-generation, large-scale AI computing systems.</p><p>The semiconductor rollout is part of an accelerated roadmap designed to enhance Huawei's AI computing capabilities. The development of the 960 series aims to provide high-performance computing alternatives for large-scale clusters amid ongoing international restrictions on advanced semiconductor technology.</p><p><img src="https://www.huaweicentral.com/wp-content/uploads/2025/09/Ascend-roadmap.jpg" /></p><hr/><small>17 Sep 2026, 13:12 UTC | #21403</small>]]></content>
+  </entry>
+  <entry>
+    <title>US Strategic Petroleum Reserve Salt Cavern Engineering</title>
+    <link href="https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve" rel="alternate" />
+    <id>https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve::v239</id>
+    <published>2026-09-17T05:25:00+00:00</published>
+    <updated>2026-09-17T05:25:00+00:00</updated>
+    <media:thumbnail url="https://thumbs.dreamstime.com/b/vast-empty-caverns-strategic-petroleum-reserve-showing-low-levels-echoing-drips-indicating-limited-buffers-show-crude-429725233.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve">johnjwang.com</a> | <a href="https://news.ycombinator.com/item?id=49719596">hacker news</a></small></p><hr/><p>The reserve's storage relies on massive underground salt caverns along the Gulf Coast to hold approximately 714 million barrels of crude oil. These caverns are created by injecting water into salt domes to dissolve the salt, creating high-capacity, cylindrical spaces that are naturally impermeable and self-sealing.</p><p>This method provides a cost-effective and secure alternative to surface tanks, offering protection against aerial attacks and reducing fire risks. However, the process requires careful management of brine disposal and addresses the potential expansion of caverns during repeated water injection and oil withdrawal cycles.</p><p><img src="https://thumbs.dreamstime.com/b/vast-empty-caverns-strategic-petroleum-reserve-showing-low-levels-echoing-drips-indicating-limited-buffers-show-crude-429725233.jpg" /></p><hr/><small>17 Sep 2026, 13:10 UTC | #21429</small>]]></content>
+  </entry>
   <entry>
     <title>Reversing the Pseudo-Random Number Generator in Factorio</title>
     <link href="https://gegell.github.io/posts/factorio-rng/" rel="alternate" />
