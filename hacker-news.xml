@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T00:59:00+00:00</updated>
+  <updated>2026-09-17T01:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Unicode 18.0.0 Adds 13,007 Characters and Three New Scripts</title>
+    <link href="https://www.unicode.org/versions/Unicode18.0.0/" rel="alternate" />
+    <id>https://www.unicode.org/versions/Unicode18.0.0/::v239</id>
+    <published>2026-09-17T01:02:00+00:00</published>
+    <updated>2026-09-17T01:02:00+00:00</updated>
+    <media:thumbnail url="https://image-cdn.hypb.st/https://hypebeast.com/image/2026/07/15/unicode-18-adds-cracking-face-meteor-and-more-emoji-2.jpg?q=90&amp;w=800&amp;cbr=1&amp;fit=max" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.unicode.org/versions/Unicode18.0.0/">unicode.org</a> | <a href="https://lobste.rs/s/sh6yeo/unicode_18_0_0">discussion</a></small></p><hr/><p>Unicode Standard Version 18.0.0 adds 13,007 new characters, bringing the total repertoire to 172,808. The release introduces three new scripts: Proto-Cuneiform (numerals), Jurchen, and Seal.</p><p>The update synchronizes updates to several Unicode Technical Standards, including emoji behavior, security mechanisms, and link detection. New character blocks include the Bengali Supplement, Archaic Cuneiform Numerals, and Musical Symbols Supplement.</p><p><img src="https://image-cdn.hypb.st/https://hypebeast.com/image/2026/07/15/unicode-18-adds-cracking-face-meteor-and-more-emoji-2.jpg?q=90&w=800&cbr=1&fit=max" /></p><hr/><small>17 Sep 2026, 07:14 UTC | #21407</small>]]></content>
+  </entry>
   <entry>
     <title>Snap Unveils New AI, Enterprise, and Connectivity Features for Specs Smart Glasses</title>
     <link href="https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/" rel="alternate" />
