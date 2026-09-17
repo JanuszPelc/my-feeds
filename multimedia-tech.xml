@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-17T10:46:00+00:00</updated>
+  <updated>2026-09-17T15:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Rockstar Games Unveils Grand Theft Auto VI Soundtrack</title>
+    <link href="https://musictech.com/news/music/gta-vi-soundtrack-revealed/" rel="alternate" />
+    <id>https://musictech.com/news/music/gta-vi-soundtrack-revealed/::v239</id>
+    <published>2026-09-17T15:32:00+00:00</published>
+    <updated>2026-09-17T15:32:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Travis-Scott-Fred-Again-PinkPantheress-GTA-VI-hero@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/music/gta-vi-soundtrack-revealed/">musictech.com</a> | <a href="https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19">source</a></small></p><hr/><p>Rockstar Games and Atlantic Records have announced the official soundtrack for Grand Theft Auto VI, titled Grand Theft Auto VI: The Album. Scheduled for release on November 19, 2026, to coincide with the game's launch, the compilation features 34 tracks from artists including Travis Scott, Fred again.., PinkPantheress, Yung Lean, Morgan Wallen, and Keith Richards.</p><p>Six singles are available ahead of the full release, including a track by Travis Scott produced by Guy-Manuel de Homem-Christo and a solo offering from Keith Richards. Pre-orders for the album are currently open for various vinyl and CD formats, which will include exclusive artwork and retail-specific packaging designs.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Travis-Scott-Fred-Again-PinkPantheress-GTA-VI-hero@2000x1500.jpg" /></p><hr/><small>17 Sep 2026, 19:39 UTC | #21443</small>]]></content>
+  </entry>
   <entry>
     <title>Heart Machine Lays Off Majority of Staff Following Loss of Project Funding</title>
     <link href="https://www.gamedeveloper.com/business/hyper-light-drifter-developer-heart-machine-has-laid-off-the-majority-of-staff" rel="alternate" />

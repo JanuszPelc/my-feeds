@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-17T15:26:00+00:00</updated>
+  <updated>2026-09-17T15:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>BITCOS Layout Improves Ternary LLM Compression and Inference Efficiency</title>
+    <link href="https://arxiv.org/abs/2609.16338" rel="alternate" />
+    <id>https://arxiv.org/abs/2609.16338::v239</id>
+    <published>2026-09-17T15:34:00+00:00</published>
+    <updated>2026-09-17T15:34:00+00:00</updated>
+    <media:thumbnail url="https://arxiv.org/html/2602.07374v2/ternarylm_architecture_centered.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arxiv.org/abs/2609.16338">arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=49732931">hacker news</a></small></p><hr/><p>This distribution-adaptive layout optimizes the storage of ternary Large Language Models (LLMs) by exploiting high zero densities in weight distributions. While ternary models—using weights from $\{-1, 0, +1\}$—typically require approximately 1.585 bits per weight, the method uses a presence bitmap and a compacted sign vector to achieve a bit-width of $2 - z$ per weight, where $z$ is the zero density. This approach allows models to reach compression levels as low as 1.485 bits per weight, outperforming standard five-trit packing.</p><p>The layout is optimized for efficient unpacking on modern processors and GPUs, including AVX-512, AVX2, and Intel Xe2. Real-world tests show that the method can increase matrix-vector multiplication throughput by up to $1.28\times$. End-to-end inference testing across various platforms demonstrated decode throughput improvements of up to $1.18\times$ on CPUs and $1.27\times$ on GPUs.</p><p><img src="https://arxiv.org/html/2602.07374v2/ternarylm_architecture_centered.jpg" /></p><hr/><small>17 Sep 2026, 19:44 UTC | #21477</small>]]></content>
+  </entry>
   <entry>
     <title>Martin Fowler Critiques LLM Interaction and Anthropomorphism</title>
     <link href="https://martinfowler.com/articles/2026-dont-like-llms.html" rel="alternate" />
@@ -355,23 +364,5 @@
     <updated>2026-09-13T00:37:00+00:00</updated>
     <media:thumbnail url="https://pbs.twimg.com/media/HBRvO1TaMAAO7LW.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://withspecific.com/benchmarks/real-swe">withspecific.com</a> | <a href="https://news.ycombinator.com/item?id=49676820">hacker news</a></small></p><hr/><p>Specific Labs has released Real-SWE, a benchmark that evaluates frontier AI models using tasks sourced from licensed, private production codebases. Unlike standard benchmarks that rely on public data, Real-SWE utilizes real-world engineering problems, such as calculating complex business taxes or managing cross-functional system changes, to test how agents handle proprietary code and company-specific patterns.</p><p>The benchmark measures model-and-harness combinations, revealing that most tasks currently remain difficult for frontier models, with many achieving resolution rates below 15%. In initial tests, Anthropic’s Fable 5.1 (via Claude Code) led the leaderboard with a 38.8% resolution rate, followed by OpenAI’s GPT-6 Astra at 33.8% and Google’s Gemini 3.8 Flash at 31.2%.</p><p><img src="https://pbs.twimg.com/media/HBRvO1TaMAAO7LW.jpg" /></p><hr/><small>13 Sep 2026, 05:56 UTC | #20966</small>]]></content>
-  </entry>
-  <entry>
-    <title>Hugging Face Launches Open Alignment Initiative</title>
-    <link href="https://x.com/clementdelangue" rel="alternate" />
-    <id>https://x.com/clementdelangue::v239</id>
-    <published>2026-09-12T19:31:00+00:00</published>
-    <updated>2026-09-12T19:31:00+00:00</updated>
-    <media:thumbnail url="https://cdn.thenewstack.io/media/2023/06/88073fbe-hf-flow-chart2-scaled.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/clementdelangue">x.com</a></small></p><hr/><p>Hugging Face has launched the Open Alignment Initiative, led by co-founder Thomas Wolf, to promote transparency in AI safety research. The initiative seeks to participate in "embedded evaluators" programs and argues that AI alignment should be an open, collaborative process rather than being managed exclusively behind closed doors by frontier laboratories.</p><p>The initiative's work focuses on safety, alignment, and cybersecurity specifically for open-weight models. It advocates for increased research and public transparency to ensure that AI alignment protocols and evaluation processes are not restricted to proprietary, closed-source developments.</p><p><img src="https://cdn.thenewstack.io/media/2023/06/88073fbe-hf-flow-chart2-scaled.jpg" /></p><hr/><small>13 Sep 2026, 00:14 UTC | #20936</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sam Altman Announces OpenAI Safety Commitments and GPT-6 Astra Rollout</title>
-    <link href="https://x.com/sama" rel="alternate" />
-    <id>https://x.com/sama::v239</id>
-    <published>2026-09-12T19:30:00+00:00</published>
-    <updated>2026-09-12T19:30:00+00:00</updated>
-    <media:thumbnail url="https://i.kym-cdn.com/photos/images/original/002/766/831/3ad.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/sama">x.com</a></small></p><hr/><p>OpenAI will implement independent third-party evaluators with employee-level access to its systems to verify safety measures and model alignment. The company is also rolling out GPT-6 Astra to Pro, Enterprise, and Business users and has reported that AI agents successfully solved the Navier-Stokes Millennium Prize Problem, a mathematical challenge unresolved for nearly 90 years.</p><p>The mathematical achievement has sparked debate regarding research attribution and collaboration between OpenAI and Anthropic researchers. Meanwhile, unprecedented demand for the Astra model has prompted OpenAI to consider a temporary pause on new Pro subscriptions to maintain service stability for existing customers.</p><p><img src="https://i.kym-cdn.com/photos/images/original/002/766/831/3ad.png" /></p><hr/><small>13 Sep 2026, 00:12 UTC | #20937</small>]]></content>
   </entry>
 </feed>
