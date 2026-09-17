@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-16T18:51:00+00:00</updated>
+  <updated>2026-09-17T00:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Snap Unveils New AI, Enterprise, and Connectivity Features for Specs Smart Glasses</title>
+    <link href="https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/::v239</id>
+    <published>2026-09-17T00:59:00+00:00</published>
+    <updated>2026-09-17T00:59:00+00:00</updated>
+    <media:thumbnail url="https://images.ctfassets.net/fdtlyqzgdb9e/5knVbVAyrXlx2hevoXurZY/bb58fe8ff31efadec91ef4923f0c4bb4/Snapdragon.png?fm=webp&amp;q=40" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/">techcrunch.com</a> | <a href="https://newsroom.snap.com/making-computing-more-human-with-specs">source</a></small></p><hr/><p>New features and services for the Specs smart glasses aim to expand the device's utility and justify its $2,200 price point. Key announcements include "Specs Intelligence," an anticipatory AI system designed to work across Snap devices and user hardware like iPhones and Macs, and "Specs for Enterprise," which targets IT professionals through partnerships with companies like Salesforce and Nvidia. Additionally, the company announced a cellular-enabled charging case through Verizon and new entertainment integrations with Spotify and HBO Max.</p><p>These updates follow a polarizing initial debut that saw significant online criticism regarding the glasses' high cost and bulky design. To broaden adoption, Snap is also launching a basketball-themed AR app with the NBA and WNBA. The company plans to host a Specs pop-up in Los Angeles this October, with device shipments expected to begin later this fall.</p><p><img src="https://images.ctfassets.net/fdtlyqzgdb9e/5knVbVAyrXlx2hevoXurZY/bb58fe8ff31efadec91ef4923f0c4bb4/Snapdragon.png?fm=webp&q=40" /></p><hr/><small>17 Sep 2026, 06:09 UTC | #21390</small>]]></content>
+  </entry>
   <entry>
     <title>4B Model Produces Faster Postgres Query Plans via Reinforcement Learning</title>
     <link href="https://rohanbansal.com/qorl" rel="alternate" />
