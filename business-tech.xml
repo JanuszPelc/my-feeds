@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T13:46:00+00:00</updated>
+  <updated>2026-09-17T15:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI's Impact on Cybersecurity and Engineering Culture</title>
+    <link href="https://www.netmeister.org/blog/everybodys-lost-their-minds.html" rel="alternate" />
+    <id>https://www.netmeister.org/blog/everybodys-lost-their-minds.html::v239</id>
+    <published>2026-09-17T15:07:00+00:00</published>
+    <updated>2026-09-17T15:07:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQHsmZpiVXgKUA/article-cover_image-shrink_720_1280/B56Z27bPckHAAI-/0/1776965979902?e=2147483647&amp;v=beta&amp;t=iyrGFus5YSUns63EyTNYKVkLO8oRmaBwI-0YAv7CqsA" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.netmeister.org/blog/everybodys-lost-their-minds.html">netmeister.org</a> | <a href="https://lobste.rs/s/rok1za/everybody_s_lost_their_minds">discussion</a> | <a href="https://news.ycombinator.com/item?id=49735721">hacker news</a></small></p><hr/><p>The article argues that current AI industry trends prioritize high-cost vulnerability research using frontier models over fundamental security needs like improved software patching and asset management. It also critiques the environmental impact of data center expansion and the concentration of AI power within a few corporations.</p><p>The author warns of a "de-skilling" effect where engineers become increasingly dependent on agentic AI tools, potentially leading to a culture of "rubber-stamping" AI-generated code. This trend risks creating opaque, complex systems that are significantly more difficult for humans to debug and maintain.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQHsmZpiVXgKUA/article-cover_image-shrink_720_1280/B56Z27bPckHAAI-/0/1776965979902?e=2147483647&v=beta&t=iyrGFus5YSUns63EyTNYKVkLO8oRmaBwI-0YAv7CqsA" /></p><hr/><small>17 Sep 2026, 18:38 UTC | #21467</small>]]></content>
+  </entry>
   <entry>
     <title>Democrats More Likely Than Republicans to Express Concern Over AI</title>
     <link href="https://www.pewresearch.org/short-reads/2026/09/16/democrats-are-now-more-worried-than-republicans-about-ai-and-its-impact-on-jobs/" rel="alternate" />
