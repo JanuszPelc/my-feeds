@@ -914,13 +914,4 @@
     <media:thumbnail url="https://social.news.hada.io/topic/24604" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://hcker.news/?ai=exclude">hcker.news</a> | <a href="https://news.ycombinator.com/item?id=49659647">hacker news</a></small></p><hr/><p>hcker.news is a web-based alternative reader for Hacker News designed to provide a more customizable viewing experience. The platform features timeline feeds, advanced search, personalized filters, and various layout options to help users manage content and follow specific topics.</p><p>The application supports independent user accounts via passwords and passkeys, enabling the synchronization of user settings, themes, and filters across different devices. These features are intended to help readers filter noise and better track discussions compared to the standard Hacker News interface.</p><p><img src="https://social.news.hada.io/topic/24604" /></p><hr/><small>12 Sep 2026, 15:22 UTC | #20920</small>]]></content>
   </entry>
-  <entry>
-    <title>Polars and DuckDB Outperform Pandas in Medium Data Benchmarks</title>
-    <link href="https://eddie.codes/posts/pandas-should-go-extinct/" rel="alternate" />
-    <id>https://eddie.codes/posts/pandas-should-go-extinct/::v239</id>
-    <published>2026-09-12T07:24:00+00:00</published>
-    <updated>2026-09-12T07:24:00+00:00</updated>
-    <media:thumbnail url="https://eddie.codes/_astro/tools_comparison_gap.BGZ5Vh3N_Z1voFSC.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://eddie.codes/posts/pandas-should-go-extinct/">eddie.codes</a> | <a href="https://lobste.rs/s/imdwmj/pandas_should_go_extinct">discussion</a> | <a href="https://news.ycombinator.com/item?id=49668198">hacker news</a></small></p><hr/><p>The article argues that Pandas is ill-suited for "medium data" workloads—datasets approaching 100GB—because its eager execution and high memory overhead often force users toward complex distributed computing systems. The author suggests that modern, single-machine tools like Polars and DuckDB can bridge the gap between standard data analysis and large-scale distributed systems.</p><p>Benchmarks using the 1 Billion Row Challenge demonstrate that Polars and DuckDB are significantly faster and more memory-efficient than Pandas. While Pandas processes data sequentially and requires substantial RAM, Polars and DuckDB leverage lazy evaluation and multi-threading to provide performance levels much closer to highly optimized, hand-tuned implementations.</p><p><img src="https://eddie.codes/_astro/tools_comparison_gap.BGZ5Vh3N_Z1voFSC.webp" /></p><hr/><small>12 Sep 2026, 13:40 UTC | #20914</small>]]></content>
-  </entry>
 </feed>
