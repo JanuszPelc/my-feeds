@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T18:17:00+00:00</updated>
+  <updated>2026-09-17T18:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nexperia and Tata Electronics Partner for Chip Production in India</title>
+    <link href="https://www.reuters.com/world/china/nexperia-says-it-will-partner-with-tata-chip-production-packaging-india-2026-09-17/" rel="alternate" />
+    <id>https://www.reuters.com/world/china/nexperia-says-it-will-partner-with-tata-chip-production-packaging-india-2026-09-17/::v239</id>
+    <published>2026-09-17T18:23:00+00:00</published>
+    <updated>2026-09-17T18:23:00+00:00</updated>
+    <media:thumbnail url="https://mirrikh.com/wp-content/uploads/2026/04/img-Tata-semiconductor-plant-in-Dholera-2.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/china/nexperia-says-it-will-partner-with-tata-chip-production-packaging-india-2026-09-17/">reuters.com</a> | <a href="https://www.nexperia.com/about/news-events/press-releases/Nexperia-and-Tata-Electronics-announce-strategic-partnership-across-semiconductor-manufacturing-technology-and-innovation">source</a></small></p><hr/><p>Nexperia and Tata Electronics have entered a partnership to manufacture and package semiconductor chips in India. The collaboration will encompass wafer fabrication, semiconductor assembly and testing, and technology innovation.</p><p>The agreement follows Nexperia's separation from its Chinese parent company, Wingtech. The partnership is intended to bolster supply chain resilience and support the growth of the semiconductor ecosystem in India.</p><p><img src="https://mirrikh.com/wp-content/uploads/2026/04/img-Tata-semiconductor-plant-in-Dholera-2.jpg" /></p><hr/><small>17 Sep 2026, 23:05 UTC | #21458</small>]]></content>
+  </entry>
+  <entry>
+    <title>White House Weighs US Incubator for Cybersecurity Research Startups</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-17/white-house-weighs-us-incubator-for-cyber-research-startups" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-17/white-house-weighs-us-incubator-for-cyber-research-startups::v239</id>
+    <published>2026-09-17T18:22:00+00:00</published>
+    <updated>2026-09-17T18:22:00+00:00</updated>
+    <media:thumbnail url="https://govciomediaresearch.imgix.net/wp-content/uploads/2025/09/090925cairncross.jpg?w=980&amp;fit=max&amp;auto=format&amp;cs=adobergb1998&amp;auto=compress" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-17/white-house-weighs-us-incubator-for-cyber-research-startups">bloomberg.com</a></small></p><hr/><p>The White House's Office of the National Cyber Director is drafting an executive order to establish a government-led incubator for cybersecurity research. The Trump administration is weighing a plan to invest in research and support the creation of startups focused on developing new security tools.</p><p>The incubator would focus on spinning out companies dedicated to cybersecurity innovation. This initiative aims to strengthen the domestic technology sector by fostering a specialized ecosystem for security-focused startups.</p><p><img src="https://govciomediaresearch.imgix.net/wp-content/uploads/2025/09/090925cairncross.jpg?w=980&fit=max&auto=format&cs=adobergb1998&auto=compress" /></p><hr/><small>17 Sep 2026, 23:02 UTC | #21452</small>]]></content>
+  </entry>
   <entry>
     <title>FCA Conducts Raids on Illegal Peer-to-Peer Crypto Trading Sites in London</title>
     <link href="https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs" rel="alternate" />
