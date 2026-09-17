@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T16:32:00+00:00</updated>
+  <updated>2026-09-17T18:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rust Developers and Crate Owners Targeted in Malware Campaign</title>
+    <link href="https://blog.rust-lang.org/2026/09/17/targeted-attacks/" rel="alternate" />
+    <id>https://blog.rust-lang.org/2026/09/17/targeted-attacks/::v239</id>
+    <published>2026-09-17T18:11:00+00:00</published>
+    <updated>2026-09-17T18:11:00+00:00</updated>
+    <media:thumbnail url="https://coderlegion.com/bgcover-meta-img?postid=5605" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.rust-lang.org/2026/09/17/targeted-attacks/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent">discussion</a> | <a href="https://news.ycombinator.com/item?id=49744514">hacker news</a></small></p><hr/><p>An ongoing campaign is targeting Rust language members and owners of popular crates to compromise devices and accounts for the purpose of publishing malware. Attackers establish legitimate-looking company profiles and LinkedIn presences to facilitate fraudulent video calls. During these calls, targets are manipulated into installing malicious software, such as purported audio codecs, or executing commands via the clipboard.</p><p>To mitigate these risks, developers are encouraged to remain skeptical of unsolicited professional outreach and to use trusted, self-hosted communication platforms for video calls. Security experts recommend enabling multi-factor authentication (MFA) and monitoring account activity for any unauthorized login attempts.</p><p><img src="https://coderlegion.com/bgcover-meta-img?postid=5605" /></p><hr/><small>17 Sep 2026, 21:30 UTC | #21488</small>]]></content>
+  </entry>
   <entry>
     <title>Cloudflare Worker Error on Skywriter.blue</title>
     <link href="https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q" rel="alternate" />

@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T15:28:00+00:00</updated>
+  <updated>2026-09-17T16:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>King Charles III Hosts AI Leaders to Discuss Technology Risks</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind::v239</id>
+    <published>2026-09-17T16:34:00+00:00</published>
+    <updated>2026-09-17T16:34:00+00:00</updated>
+    <media:thumbnail url="https://aicertswpcdn.blob.core.windows.net/newsportal/2026/02/global-ai-summit-networking.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind">bloomberg.com</a> | <a href="https://www.royal.uk/news-and-activity/2026-09-17/the-king-convenes-tech-leaders-for-ai-summit-in-scotland">source</a></small></p><hr/><p>King Charles III hosted prominent artificial intelligence executives, including Nvidia's Jensen Huang, Google DeepMind's Demis Hassabis, and OpenAI CFO Sarah Friar, at a summit in Scotland to discuss the deployment and risks of AI technology. The meeting brought together industry leaders, government ministers, and civil society representatives to address the future of AI development.</p><p>During the discussions, Jensen Huang called for the implementation of AI safety tests to mitigate potential harms. The summit emphasized the need for ensuring that artificial intelligence remains firmly in the service of humanity as it continues to advance.</p><p><img src="https://aicertswpcdn.blob.core.windows.net/newsportal/2026/02/global-ai-summit-networking.jpg" /></p><hr/><small>17 Sep 2026, 21:17 UTC | #21439</small>]]></content>
+  </entry>
+  <entry>
+    <title>Lucid and Bolt to Deploy 25,000 Robotaxis in Europe</title>
+    <link href="https://www.ft.com/content/cf9b5143-0ab7-4c14-a5e4-baa8d78bb3cd" rel="alternate" />
+    <id>https://www.ft.com/content/cf9b5143-0ab7-4c14-a5e4-baa8d78bb3cd::v239</id>
+    <published>2026-09-17T16:33:00+00:00</published>
+    <updated>2026-09-17T16:33:00+00:00</updated>
+    <media:thumbnail url="https://vfuturemedia.com/wp-content/uploads/2026/01/lucid-nuro-uber-robotaxi-ces-2026.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/cf9b5143-0ab7-4c14-a5e4-baa8d78bb3cd">ft.com</a> | <a href="https://www.prnewswire.com/news-releases/lucid-and-bolt-partner-to-develop-and-deploy-autonomous-mobility-at-scale-across-europe-302881372.html">source</a></small></p><hr/><p>Lucid and Bolt have signed an agreement to deploy at least 25,000 autonomous robotaxis across Europe. The fleet, expected to launch as early as 2028, will be built on Lucid's upcoming affordable electric vehicle platform.</p><p>The partnership combines Lucid's software-defined vehicle platform with Bolt's European mobility data and operating infrastructure. The vehicles are expected to utilize NVIDIA's Hyperion technology for autonomous driving functionality.</p><p><img src="https://vfuturemedia.com/wp-content/uploads/2026/01/lucid-nuro-uber-robotaxi-ces-2026.jpg" /></p><hr/><small>17 Sep 2026, 21:15 UTC | #21440</small>]]></content>
+  </entry>
   <entry>
     <title>DoorDash and Uber Expand Costco Delivery Partnerships in the US</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-17/doordash-uber-expand-costco-delivery-partnership-in-the-us" rel="alternate" />
