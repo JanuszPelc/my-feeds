@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T01:02:00+00:00</updated>
+  <updated>2026-09-17T01:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Snap Shares Specifications and Hands-On Details for SPECS AR Glasses</title>
+    <link href="https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTYwMjIwNywiZXhwIjoxNzkwMjA3MDA3LCJhcnRpY2xlSWQiOiJUTEhEUVRSS1YyVkEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.01o6l00ip_iJzqQmR0520mnqygcxPcF_eob6DVrcJnc&amp;leadSource=article-gifting" rel="alternate" />
+    <id>https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTYwMjIwNywiZXhwIjoxNzkwMjA3MDA3LCJhcnRpY2xlSWQiOiJUTEhEUVRSS1YyVkEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.01o6l00ip_iJzqQmR0520mnqygcxPcF_eob6DVrcJnc&amp;leadSource=article-gifting::v239</id>
+    <published>2026-09-17T01:04:00+00:00</published>
+    <updated>2026-09-17T01:04:00+00:00</updated>
+    <media:thumbnail url="https://www.techjuice.pk/wp-content/uploads/2026/01/snap-launches-specs-inc-to-release-consumer-ar-glasses-in-2026-techjuice-215597-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTYwMjIwNywiZXhwIjoxNzkwMjA3MDA3LCJhcnRpY2xlSWQiOiJUTEhEUVRSS1YyVkEwMCIsImJjb25uZWN0SWQiOiJDOTYyQ0UxOUMyOTc0NDBGQkMyNEQxQkQ2RDQ4MjczNSJ9.01o6l00ip_iJzqQmR0520mnqygcxPcF_eob6DVrcJnc&leadSource=article-gifting">bloomberg.com</a> | <a href="https://investor.snap.com/news/news-details/2026/Snap-Inc--Debuts-SPECS-Augmented-Reality-Glasses-to-Make-Computing-More-Human/default.aspx">source</a></small></p><hr/><p>Snap's SPECS augmented reality glasses feature a fully untethered, standalone design with an integrated display and a 51-degree field of view. Utilizing Snapdragon processors, the device is intended to be more capable than existing AI glasses and Meta's top-end eyewear, functioning without the need for a tethered compute pack.</p><p>Priced at $2,195, the glasses are expected to ship in the United States, United Kingdom, and France in late 2026. While early hands-on impressions highlight effective navigation and improved comfort, the hardware design involves certain compromises to maintain the device's self-contained form factor.</p><p><img src="https://www.techjuice.pk/wp-content/uploads/2026/01/snap-launches-specs-inc-to-release-consumer-ar-glasses-in-2026-techjuice-215597-1.jpg" /></p><hr/><small>17 Sep 2026, 07:40 UTC | #21385</small>]]></content>
+  </entry>
   <entry>
     <title>Unicode 18.0.0 Adds 13,007 Characters and Three New Scripts</title>
     <link href="https://www.unicode.org/versions/Unicode18.0.0/" rel="alternate" />
