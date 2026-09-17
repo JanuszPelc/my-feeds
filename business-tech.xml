@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T16:34:00+00:00</updated>
+  <updated>2026-09-17T18:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>FCA Conducts Raids on Illegal Peer-to-Peer Crypto Trading Sites in London</title>
+    <link href="https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs" rel="alternate" />
+    <id>https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs::v239</id>
+    <published>2026-09-17T18:17:00+00:00</published>
+    <updated>2026-09-17T18:17:00+00:00</updated>
+    <media:thumbnail url="https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Feeb17cfd9d06f0cacc79776020c4a1165af9af36-2142x1258.png%3Frect%3D0%2C27%2C2142%2C1205%26w%3D1920%26h%3D1080%26auto%3Dformat&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs">coindesk.com</a> | <a href="https://www.fca.org.uk/news/press-releases/fca-and-partners-continues-crackdown-illegal-crypto-trading">source</a></small></p><hr/><p>The Financial Conduct Authority (FCA), alongside HM Revenue &amp; Customs and the Metropolitan Police, has issued cease-and-desist letters to three London-based peer-to-peer (P2P) crypto trading operations. The regulator stated that these businesses are operating illegally without registration, thereby bypassing controls designed to detect and prevent money laundering.</p><p>These actions occur as the United Kingdom prepares to implement its full cryptoasset regulatory framework on October 25, 2027. The upcoming regime will cover activities including the issuance of qualifying stablecoins, the operation of crypto exchanges, and the provision of staking services.</p><p><img src="https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Feeb17cfd9d06f0cacc79776020c4a1165af9af36-2142x1258.png%3Frect%3D0%2C27%2C2142%2C1205%26w%3D1920%26h%3D1080%26auto%3Dformat&w=3840&q=75" /></p><hr/><small>17 Sep 2026, 22:42 UTC | #21453</small>]]></content>
+  </entry>
   <entry>
     <title>King Charles III Hosts AI Leaders to Discuss Technology Risks</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind" rel="alternate" />

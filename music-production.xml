@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-17T16:31:00+00:00</updated>
+  <updated>2026-09-17T18:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Gazillion Industries Releases F(ilter) 12 and Beefy Plugins</title>
+    <link href="https://www.kvraudio.com/news/gazillion-industries-releases-f-ilter-12-and-beefy-for-macos-and-windows-68531?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68531" rel="alternate" />
+    <id>https://www.kvraudio.com/news/gazillion-industries-releases-f-ilter-12-and-beefy-for-macos-and-windows-68531?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68531::v239</id>
+    <published>2026-09-17T18:18:00+00:00</published>
+    <updated>2026-09-17T18:18:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/f12-light.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/gazillion-industries-releases-f-ilter-12-and-beefy-for-macos-and-windows-68531?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68531">kvraudio.com</a> | <a href="https://gazillionindustries.com/">source</a></small></p><hr/><p>Gazillion Industries has launched two audio effects, F(ilter) 12 and Beefy, priced at $49 and $19 respectively. These plugins are available for macOS and Windows in VST3, AU, and standalone formats, providing lo-fi filtering and saturation/loudness enhancement.</p><p>F(ilter) 12 includes sample rate and bit-depth reduction, five filter shapes, and an adaptive correction stage called AURA. Beefy offers controls for weight, color, and input level, with options for soft clipping or limiting to manage output peaks.</p><p><img src="https://static.kvraudio.com/i/b/f12-light.jpg" /></p><hr/><small>17 Sep 2026, 22:44 UTC | #21469</small>]]></content>
+  </entry>
   <entry>
     <title>Sintelab Releases XF Comp Free VST3 Compression Assistant</title>
     <link href="https://www.kvraudio.com/news/sintelab-releases-xf-comp---free-intelligent-vst3-compression-assistant-for-windows-68595?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68595" rel="alternate" />
