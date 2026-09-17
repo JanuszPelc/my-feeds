@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-16T23:01:00+00:00</updated>
+  <updated>2026-09-17T11:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>PhotonDSP Releases GammaDelay and WideEngine VST3 Plugins</title>
+    <link href="https://www.kvraudio.com/news/photondsp-releases-gammadelay-and-wideengine-vst3-windows-68593?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68593" rel="alternate" />
+    <id>https://www.kvraudio.com/news/photondsp-releases-gammadelay-and-wideengine-vst3-windows-68593?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68593::v239</id>
+    <published>2026-09-17T11:01:00+00:00</published>
+    <updated>2026-09-17T11:01:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/2-items.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/photondsp-releases-gammadelay-and-wideengine-vst3-windows-68593?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68593">kvraudio.com</a> | <a href="https://photondsp.com/">source</a></small></p><hr/><p>GammaDelay and WideEngine are new VST3 audio effect plugins for Windows 64-bit from PhotonDSP. GammaDelay integrates spectral unmasking and tape simulation, while WideEngine provides five-band stereo widening and psychoacoustic processing.</p><p>GammaDelay's UNMASK system uses 32 ERB-like detectors to dynamically attenuate conflicting frequency regions. WideEngine includes tools such as asymmetric harmonics, comb filtering, and phase decorrelation to enhance or create stereo images.</p><p><img src="https://static.kvraudio.com/i/b/2-items.png" /></p><hr/><small>17 Sep 2026, 16:17 UTC | #21457</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ivosight Updates Soundop to Version 2.4 for Windows</title>
+    <link href="https://www.kvraudio.com/news/ivosight-updates-soundop-to-version-2-4-for-windows-68603?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68603" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ivosight-updates-soundop-to-version-2-4-for-windows-68603?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68603::v239</id>
+    <published>2026-09-17T10:58:00+00:00</published>
+    <updated>2026-09-17T10:58:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/soundop-left.1789616071.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ivosight-updates-soundop-to-version-2-4-for-windows-68603?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68603">kvraudio.com</a> | <a href="https://ivosight.com/soundop/version-history/">source</a></small></p><hr/><p>Ivosight has released version 2.4 of Soundop, a professional audio application for Windows designed for recording, editing, mixing, and mastering. This update introduces a refined user interface, an improved editor layout, and enhanced audio playback performance for better responsiveness during CPU-intensive tasks.</p><p>Key updates include a new transport bar, configurable mixer and track header controls, and direct clip automation editing within the timeline. The release also integrates several features from version 2.3.1, such as pitch bend support for audio files and automatic clip ducking.</p><p><img src="https://static.kvraudio.com/i/b/soundop-left.1789616071.png" /></p><hr/><small>17 Sep 2026, 16:07 UTC | #21450</small>]]></content>
+  </entry>
   <entry>
     <title>Budget Synthesizers Under $250 Compared</title>
     <link href="https://musictech.com/guides/buyers-guide/best-budget-synthesizers-under-250/" rel="alternate" />
