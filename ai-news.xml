@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-17T15:34:00+00:00</updated>
+  <updated>2026-09-17T18:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Staff Expect to Solve the Hodge Conjecture Soon</title>
+    <link href="https://www.theinformation.com/articles/openai-close-solving-another-millennium-prize-math-problem" rel="alternate" />
+    <id>https://www.theinformation.com/articles/openai-close-solving-another-millennium-prize-math-problem::v239</id>
+    <published>2026-09-17T18:13:00+00:00</published>
+    <updated>2026-09-17T18:13:00+00:00</updated>
+    <media:thumbnail url="https://blog.ccino.org/p/openai-ai-disproves-erdos-conjecture-math-2026/imgs/ai-math-autonomy-comparison.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/openai-close-solving-another-millennium-prize-math-problem">theinformation.com</a></small></p><hr/><p>OpenAI staff expect the company's AI models to solve the Hodge Conjecture, a Millennium Prize Problem, in the near future. This follows the company's recent presentation of an AI-generated solution to the Navier-Stokes equations.</p><p>OpenAI's pursuit of mathematical breakthroughs has previously drawn criticism from the mathematical community, including accusations that the firm attempted to claim credit for solving extremely difficult problems. The Hodge Conjecture is one of the seven major unsolved problems identified by the Clay Mathematics Institute.</p><p><img src="https://blog.ccino.org/p/openai-ai-disproves-erdos-conjecture-math-2026/imgs/ai-math-autonomy-comparison.png" /></p><hr/><small>17 Sep 2026, 22:06 UTC | #21448</small>]]></content>
+  </entry>
   <entry>
     <title>BITCOS Layout Improves Ternary LLM Compression and Inference Efficiency</title>
     <link href="https://arxiv.org/abs/2609.16338" rel="alternate" />
