@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T13:36:00+00:00</updated>
+  <updated>2026-09-17T13:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Zed Launches Delta Public Beta</title>
+    <link href="https://zed.dev/blog/delta-public-beta" rel="alternate" />
+    <id>https://zed.dev/blog/delta-public-beta::v239</id>
+    <published>2026-09-17T13:39:00+00:00</published>
+    <updated>2026-09-17T13:39:00+00:00</updated>
+    <media:thumbnail url="https://images.zed.dev/blog/delta-public-beta/demo-poster.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://zed.dev/blog/delta-public-beta">zed.dev</a> | <a href="https://lobste.rs/s/c5xrht/replacing_pull_requests_with_delta">discussion</a> | <a href="https://news.ycombinator.com/item?id=49727245">hacker news</a></small></p><hr/><p>Zed has released the public beta of Delta, a multiplayer coding environment optimized for working with AI agents. The platform uses DeltaDB, an incremental versioning system that records code edits and agent conversations alongside changes, to transition from traditional pull request workflows to a thread-based collaboration model.</p><p>Delta allows developers to invite teammates into agentic workstreams where they can explore code changes in isolated worktrees that preserve the context of the agent's decisions. While compatible with Git, the platform is designed to facilitate "continuous engineering" by consolidating implementation, review, and merging within a single, synchronized workspace.</p><p><img src="https://images.zed.dev/blog/delta-public-beta/demo-poster.webp" /></p><hr/><small>17 Sep 2026, 17:29 UTC | #21463</small>]]></content>
+  </entry>
   <entry>
     <title>.tar.gz Files Cannot Be Concatenated Using Cat</title>
     <link href="https://alexwlchan.net/2026/cat-confusion/" rel="alternate" />
