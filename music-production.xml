@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-17T15:33:00+00:00</updated>
+  <updated>2026-09-17T16:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Multiband Compression: Definition and Use Cases</title>
+    <link href="https://musictech.com/glossary/multiband-compression/" rel="alternate" />
+    <id>https://musictech.com/glossary/multiband-compression/::v239</id>
+    <published>2026-09-17T16:27:00+00:00</published>
+    <updated>2026-09-17T16:27:00+00:00</updated>
+    <media:thumbnail url="https://www.sonible.com/wp-content/uploads/2022/08/Compression-02-2.png" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/glossary/multiband-compression/">musictech.com</a></small></p><hr/><p>Multiband compressors divide an audio signal into several frequency bands—typically three to five—and apply independent compression settings to each before recombining them. This approach allows for targeted dynamic control of specific frequency ranges, such as the low end, without affecting the rest of the spectrum or causing audible pumping.</p><p>The technique is widely used in mixing and mastering to provide cohesion and tonal balance, functioning similarly to a broad-brushed equalizer. It is particularly effective when managing complex signals like full drum kits or synths where different frequency ranges require distinct dynamic responses.</p><p><img src="https://www.sonible.com/wp-content/uploads/2022/08/Compression-02-2.png" /></p><hr/><small>17 Sep 2026, 20:31 UTC | #21449</small>]]></content>
+  </entry>
   <entry>
     <title>Understanding LUFS and Loudness Measurement in Music Production</title>
     <link href="https://musictech.com/glossary/lufs/" rel="alternate" />
@@ -617,14 +626,5 @@
     <updated>2026-09-13T14:38:00+00:00</updated>
     <media:thumbnail url="https://www.guitarcha.com/wp-content/uploads/2026/1/1769014420/walrus-audio-lore-reverse-soundscape-generator-black-edition.webp" />
     <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/13/vas-reverse-reverb/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/13/vas-reverse-reverb/#comments">discussion</a></small></p><hr/><p>Vandeta Audio Software has released VAS Reverse Reverb, a free, tempo-synced plugin for macOS and Windows that generates reverse reverb swells and risers. The tool is designed to create atmospheric transitions and builds by transforming single audio segments into rhythmic swells.</p><p>Users can import one-shot samples or capture audio directly from a track to produce time-stretched builds. These generated risers rise from silence and are timed to land precisely on a specific musical bar within a project.</p><p><img src="https://www.guitarcha.com/wp-content/uploads/2026/1/1769014420/walrus-audio-lore-reverse-soundscape-generator-black-edition.webp" /></p><hr/><small>13 Sep 2026, 19:17 UTC | #20982</small>]]></content>
-  </entry>
-  <entry>
-    <title>Venomode Updates Pivot to v1.7.0</title>
-    <link href="https://www.kvraudio.com/news/venomode-updates-pivot-to-v1-7-0-68518?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68518" rel="alternate" />
-    <id>https://www.kvraudio.com/news/venomode-updates-pivot-to-v1-7-0-68518?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68518::v239</id>
-    <published>2026-09-12T20:32:00+00:00</published>
-    <updated>2026-09-12T20:32:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/pivot_backdrop.webp" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/venomode-updates-pivot-to-v1-7-0-68518?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68518">kvraudio.com</a> | <a href="https://venomode.com/plugins/pivot">source</a></small></p><hr/><p>Venomode has released version 1.7.0 of its Pivot tilt EQ plugin. This update introduces a redesigned "vintage" interface option alongside the existing modern vector interface.</p><p>The new interface is fully scalable and includes support for Retina displays. This update is provided to existing users at no additional cost.</p><p><img src="https://static.kvraudio.com/i/b/pivot_backdrop.webp" /></p><hr/><small>13 Sep 2026, 00:52 UTC | #20955</small>]]></content>
   </entry>
 </feed>
