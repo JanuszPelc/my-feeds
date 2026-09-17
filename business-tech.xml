@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T03:32:00+00:00</updated>
+  <updated>2026-09-17T03:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Zuckerberg, Huang, and Musk Stall Proposed AI Regulatory Plan</title>
+    <link href="https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567?st=fVSiVP&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567?st=fVSiVP&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-09-17T03:39:00+00:00</published>
+    <updated>2026-09-17T03:39:00+00:00</updated>
+    <media:thumbnail url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/1200/675/trump-ai-race.jpg?ve=1&amp;tl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567?st=fVSiVP&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Mark Zuckerberg, Jensen Huang, and Elon Musk recently spoke with Donald Trump to successfully stall a proposed AI regulatory framework. The plan, proposed by Google DeepMind CEO Demis Hassabis, aimed to create an industry-funded watchdog to oversee frontier model releases and assess safety risks in sectors like cybersecurity and biology.</p><p>White House officials have been meeting nearly every day in recent months to map out potential AI guardrails. Hassabis's framework was modeled after the Financial Industry Regulatory Authority (FINRA) and suggested that frontier labs submit models for testing up to 30 days before public deployment.</p><p><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/1200/675/trump-ai-race.jpg?ve=1&tl=1" /></p><hr/><small>17 Sep 2026, 10:14 UTC | #21391</small>]]></content>
+  </entry>
   <entry>
     <title>TechCrunch Disrupt 2026 Session Explores Hiring AI Agents for Startup Teams</title>
     <link href="https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/" rel="alternate" />
