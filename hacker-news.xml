@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T05:08:00+00:00</updated>
+  <updated>2026-09-17T05:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Reversing the Pseudo-Random Number Generator in Factorio</title>
+    <link href="https://gegell.github.io/posts/factorio-rng/" rel="alternate" />
+    <id>https://gegell.github.io/posts/factorio-rng/::v239</id>
+    <published>2026-09-17T05:12:00+00:00</published>
+    <updated>2026-09-17T05:12:00+00:00</updated>
+    <media:thumbnail url="https://www.exitlag.com/blog/wp-content/uploads/2025/07/Factorio-Calculator-5.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://gegell.github.io/posts/factorio-rng/">gegell.github.io</a> | <a href="https://lobste.rs/s/phbfog/reversing_factorio_s_rng">discussion</a> | <a href="https://news.ycombinator.com/item?id=49674451">hacker news</a></small></p><hr/><p>This article analyzes the pseudo-random number generator (PRNG) implementation in the game Factorio. By decompiling the game binary using tools like Ghidra and Binary Ninja, the author confirms the use of the taus88 algorithm, which is composed of three linear feedback shift registers (LFSRs) XORed together.</p><p>The investigation explores how the mathematical properties of LFSRs—specifically their linearity within a Galois field—render the generator predictable if its internal state is known. The author demonstrates that this deterministic nature allows for the prediction of in-game random events, such as item quality rolls, by synchronizing a local simulation with the game's state.</p><p><img src="https://www.exitlag.com/blog/wp-content/uploads/2025/07/Factorio-Calculator-5.webp" /></p><hr/><small>17 Sep 2026, 11:41 UTC | #21422</small>]]></content>
+  </entry>
+  <entry>
+    <title>Learning Programming in the Age of LLMs</title>
+    <link href="https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/" rel="alternate" />
+    <id>https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/::v239</id>
+    <published>2026-09-17T05:11:00+00:00</published>
+    <updated>2026-09-17T05:11:00+00:00</updated>
+    <media:thumbnail url="https://bizweb.dktcdn.net/100/580/651/products/61vpfhohohl-1754409901560.jpg?v=1773797278030" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/">blog.ploeh.dk</a> | <a href="https://news.ycombinator.com/item?id=49723873">hacker news</a></small></p><hr/><p>This essay examines the implications of using Large Language Models (LLMs) for programming education, specifically the risk of developers building complex systems they do not fully understand. It addresses the concern that AI assistance can mask a lack of foundational competence, creating a gap between functional software output and a programmer's actual ability to troubleshoot or own the underlying logic.</p><p>The author advocates for a "falsifiable" approach to AI usage, suggesting that developers should focus on asking questions with easily verifiable answers to maintain control over the learning process. The piece also discusses the potential for AI to disrupt knowledge-work employment and the limits of human cognitive capacity to keep pace with rapid technological acceleration.</p><p><img src="https://bizweb.dktcdn.net/100/580/651/products/61vpfhohohl-1754409901560.jpg?v=1773797278030" /></p><hr/><small>17 Sep 2026, 11:38 UTC | #21421</small>]]></content>
+  </entry>
   <entry>
     <title>The Technical Complexities of Robust Data Backup Systems</title>
     <link href="https://filipovski.net/2026/09/16/backups-arent-simple.html" rel="alternate" />
