@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T03:39:00+00:00</updated>
+  <updated>2026-09-17T05:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Judge Orders Google to Make Ad Tech Tools Interoperable</title>
+    <link href="https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html?unlocked_article_code=1.B1E.SsQr.T6FLVlhWlHp9&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html?unlocked_article_code=1.B1E.SsQr.T6FLVlhWlHp9&amp;smid=url-share::v239</id>
+    <published>2026-09-17T05:03:00+00:00</published>
+    <updated>2026-09-17T05:03:00+00:00</updated>
+    <media:thumbnail url="https://tempmail.email/content/images/size/w2000/2025/11/2028356087.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html?unlocked_article_code=1.B1E.SsQr.T6FLVlhWlHp9&smid=url-share">nytimes.com</a> | <a href="https://www.courtlistener.com/docket/66753787/united-states-v-google-llc/">source</a></small></p><hr/><p>A US judge has ordered Google to make its advertising technology tools interoperable with competitors and to share ad auction data. The ruling also mandates the appointment of an internal monitor to oversee the company's compliance.</p><p>The decision falls short of the full breakup of Google's advertising business that the US government had sought. While the measures are intended to increase competition in the digital ad market, they allow the company's core business operations to remain largely intact.</p><p><img src="https://tempmail.email/content/images/size/w2000/2025/11/2028356087.png" /></p><hr/><small>17 Sep 2026, 10:31 UTC | #21392</small>]]></content>
+  </entry>
   <entry>
     <title>Zuckerberg, Huang, and Musk Stall Proposed AI Regulatory Plan</title>
     <link href="https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567?st=fVSiVP&amp;reflink=desktopwebshare_permalink" rel="alternate" />
