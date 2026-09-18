@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-18T08:24:00+00:00</updated>
+  <updated>2026-09-18T09:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>FiiO Releases FT15 Planar Headphones</title>
+    <link href="https://musictech.com/news/gear/fiio-ft-15-headphones/" rel="alternate" />
+    <id>https://musictech.com/news/gear/fiio-ft-15-headphones/::v239</id>
+    <published>2026-09-18T09:53:00+00:00</published>
+    <updated>2026-09-18T09:53:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/FiiO-1@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/fiio-ft-15-headphones/">musictech.com</a> | <a href="https://www.fiio.com/FT15">source</a></small></p><hr/><p>FiiO has released the FT15, planar over-ear headphones featuring 101mm drivers and an 800-nanometer diamond-coated diaphragm. The ultra-thin diaphragm is designed to provide an instant response and a refined sonic foundation.</p><p>The headphones feature North American FAS-grade black walnut earcups and a carbon fiber headband, resulting in a total weight of 425 grams. They are priced at $499.99, £499, and €499.99.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/FiiO-1@2000x1500.jpg" /></p><hr/><small>18 Sep 2026, 14:07 UTC | #21544</small>]]></content>
+  </entry>
   <entry>
     <title>Resharp Uses Extended Regular Expressions for High-Speed Text Categorization</title>
     <link href="https://iev.ee/blog/categorize-everything-all-at-once/" rel="alternate" />
