@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-17T22:37:00+00:00</updated>
+  <updated>2026-09-17T23:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Anthropic Redesigns Claude Projects for Agentic Workflows</title>
+    <link href="https://claude.com/blog/projects-redesigned" rel="alternate" />
+    <id>https://claude.com/blog/projects-redesigned::v239</id>
+    <published>2026-09-17T23:27:00+00:00</published>
+    <updated>2026-09-17T23:27:00+00:00</updated>
+    <media:thumbnail url="https://pasqualepillitteri.it/uploads/img/news/claude-code-desktop-redesign-parallel-agents.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://claude.com/blog/projects-redesigned">claude.com</a></small></p><hr/><p>Anthropic is redesigning its "Projects" feature to support agentic workflows through a conversation-based interface. The new system uses a central coordinator to manage multiple parallel threads, which are individual Claude Code cloud sessions, allowing the AI to scope complex requests, delegate subtasks, and automate technical workflows such as running tests and opening pull requests.</p><p>Projects now feature a shared memory layer that retains context, decisions, and communication styles across all project threads to reduce the need for manual prompting. The update is currently in beta for select Claude Pro and Max subscribers using cloud sessions in Claude Code, with a planned rollout to all Claude, Team, and Enterprise plans. Local execution for projects is expected to be released in a future update.</p><p><img src="https://pasqualepillitteri.it/uploads/img/news/claude-code-desktop-redesign-parallel-agents.png" /></p><hr/><small>18 Sep 2026, 05:23 UTC | #21494</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Launches Astra for Law</title>
     <link href="https://openai.com/index/astra-for-law" rel="alternate" />
