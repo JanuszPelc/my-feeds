@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T21:24:00+00:00</updated>
+  <updated>2026-09-17T22:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>FAA Awards Air Space Intelligence $875 Million Contract for AI Airspace Management</title>
+    <link href="https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/::v239</id>
+    <published>2026-09-17T22:16:00+00:00</published>
+    <updated>2026-09-17T22:16:00+00:00</updated>
+    <media:thumbnail url="https://cdn.completeaitraining.com/news_images/faa-prepares-to-award-ai-air-traffic-management-contract-to-air-space-intelligen_2026-06-14.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/">techcrunch.com</a> | <a href="https://www.faa.gov/newsroom/modern-skies-trumps-transportation-secretary-sean-p-duffy-selects-air-space-intelligence">source</a> | <a href="https://news.ycombinator.com/item?id=49748387">hacker news</a></small></p><hr/><p>The $875 million "Smart" (Strategic Management of Airspace, Routes and Trajectories) program, developed by Air Space Intelligence, uses AI to streamline air traffic operations. This cloud-based platform is designed to analyze weather, airline schedules, and airport capacity to predict traffic flows and identify potential flight conflicts before they occur.</p><p>The 12-year contract will feature an initial rollout in the Washington, D.C., metropolitan area before expanding to other regions. This initiative is part of a broader federal effort to modernize aging air traffic infrastructure and address persistent national air traffic controller shortages.</p><p><img src="https://cdn.completeaitraining.com/news_images/faa-prepares-to-award-ai-air-traffic-management-contract-to-air-space-intelligen_2026-06-14.jpg" /></p><hr/><small>18 Sep 2026, 03:26 UTC | #21492</small>]]></content>
+  </entry>
   <entry>
     <title>Andrew Ng Dismisses AI Extinction Risks as Science Fiction</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-17/ai-pioneer-andrew-ng-calls-extinction-fears-science-fiction" rel="alternate" />
@@ -1218,14 +1227,5 @@
     <updated>2026-09-13T07:54:00+00:00</updated>
     <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20rQ3Y.img?w=768&amp;h=542&amp;m=6" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://washingtonsun.com/technology/data-centers-public-lands-trump">washingtonsun.com</a> | <a href="https://www.whitehouse.gov/presidential-actions/2025/07/accelerating-federal-permitting-of-data-center-infrastructure/">source</a></small></p><hr/><p>The Trump administration is directing the Bureau of Land Management (BLM) to identify federal lands suitable for data center development to accelerate AI infrastructure growth. Following an executive order to streamline permitting, the Interior Department has instructed state directors to prioritize identifying suitable sites, despite ongoing staffing shortages and technical challenges within the BLM.</p><p>The initiative has faced criticism from environmental groups and former agency officials who argue the directive prioritizes the interests of technology corporations over public land management. Critics also point to significant agency vacancies and the lack of technical expertise required to conduct complex environmental reviews for the emerging technology sector.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20rQ3Y.img?w=768&h=542&m=6" /></p><hr/><small>13 Sep 2026, 13:04 UTC | #20968</small>]]></content>
-  </entry>
-  <entry>
-    <title>Automattic Confirms Matt Mullenweg's Return as CEO</title>
-    <link href="https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/::v239</id>
-    <published>2026-09-13T03:16:00+00:00</published>
-    <updated>2026-09-13T03:16:00+00:00</updated>
-    <media:thumbnail url="https://www.techi.com/wp-content/uploads/2025/10/20251020-Automattic-CEO-calls-Tumblr-his-biggest-failure-so-far-techi@2x--984x492.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=49678469">hacker news</a></small></p><hr/><p>Matt Mullenweg has resumed his role as Chairman and CEO of Automattic after a recent attempt by the company's board to remove him. The board had previously placed Mullenweg on a paid leave of absence and appointed Chief Financial Officer Mark Davies as interim CEO, triggering a period of leadership uncertainty and internal power struggles.</p><p>The leadership transition follows a period of tension during which Mullenweg reportedly contested the board's decision via company communication channels. While Automattic now reports that Mullenweg has the full support of the board, the company's internal governance and board composition remain subject to ongoing speculation.</p><p><img src="https://www.techi.com/wp-content/uploads/2025/10/20251020-Automattic-CEO-calls-Tumblr-his-biggest-failure-so-far-techi@2x--984x492.webp" /></p><hr/><small>13 Sep 2026, 10:21 UTC | #20963</small>]]></content>
   </entry>
 </feed>
