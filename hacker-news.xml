@@ -3,9 +3,54 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-18T13:18:00+00:00</updated>
+  <updated>2026-09-18T14:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Cloudflare Quick Tunnels Enable Local Application Exposure via CLI</title>
+    <link href="https://try.cloudflare.com/" rel="alternate" />
+    <id>https://try.cloudflare.com/::v239</id>
+    <published>2026-09-18T14:19:00+00:00</published>
+    <updated>2026-09-18T14:19:00+00:00</updated>
+    <media:thumbnail url="https://www.wetch.co.jp/note/wp-content/uploads/2026/06/cloudflare-tunnel-webhook-flow.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://try.cloudflare.com/">try.cloudflare.com</a> | <a href="https://news.ycombinator.com/item?id=49754785">hacker news</a></small></p><hr/><p>Cloudflare Quick Tunnels allow developers to expose local web servers and APIs to the internet using a single command. By running the `cloudflared` CLI, users can create a secure ingress with automatic HTTPS and DDoS protection without requiring an account or configuration files. The tool generates a temporary `trycloudflare.com` URL, enabling quick sharing for design reviews or automated testing.</p><p>The service routes traffic through Cloudflare's global edge network to provide fast and reliable connections worldwide. This approach enhances security by default, as it avoids the need to open ports on the local machine. It serves as a lightweight solution for rapid prototyping and testing before moving services to permanent infrastructure.</p><p><img src="https://www.wetch.co.jp/note/wp-content/uploads/2026/06/cloudflare-tunnel-webhook-flow.png" /></p><hr/><small>18 Sep 2026, 18:06 UTC | #21603</small>]]></content>
+  </entry>
+  <entry>
+    <title>XApp Project Promotes Cross-Desktop Linux Applications</title>
+    <link href="https://xapp-project.org/" rel="alternate" />
+    <id>https://xapp-project.org/::v239</id>
+    <published>2026-09-18T13:34:00+00:00</published>
+    <updated>2026-09-18T13:34:00+00:00</updated>
+    <media:thumbnail url="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/Linux-Mint-New-Apps.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://xapp-project.org/">xapp-project.org</a> | <a href="https://lobste.rs/s/zeeat3/xapp_apps_work_everywhere">discussion</a></small></p><hr/><p>The project provides open-source software designed to operate seamlessly across different Linux distributions and desktop environments. It includes a variety of tools such as calendars, system snapshots, and network file transfer utilities, alongside components for desktop integration like login settings and system status indicators.</p><p>To combat desktop fragmentation, XApp maintains libraries that ensure GTK applications behave and look consistent regardless of the specific desktop being used. This approach supports both end-user applications and the underlying system components that shape the overall user experience.</p><p><img src="https://www.omgubuntu.co.uk/wp-content/uploads/2026/09/Linux-Mint-New-Apps.webp" /></p><hr/><small>18 Sep 2026, 18:02 UTC | #21606</small>]]></content>
+  </entry>
+  <entry>
+    <title>Verus: An Automated Program Verifier for Rust</title>
+    <link href="https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus" rel="alternate" />
+    <id>https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus::v239</id>
+    <published>2026-09-18T13:33:00+00:00</published>
+    <updated>2026-09-18T13:33:00+00:00</updated>
+    <media:thumbnail url="https://cdn.amazon.science/dims4/default/6a7388d/2147483647/strip/true/crop/1991x1216+0+0/resize/1748x1068!/quality/90/?url=https://amzn-science-production-science.s3.us-east-1.amazonaws.com/science/92/7b/a73bca424c789392d75c4576dc85/vcpu-spec.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus">amazon.science</a> | <a href="https://lobste.rs/s/yyijiq/developing_provably_correct_rust_code">discussion</a> | <a href="https://news.ycombinator.com/item?id=49700153">hacker news</a></small></p><hr/><p>Verus is an open-source, automated program verifier for the Rust programming language. It allows developers to embed formal mathematical specifications directly within Rust source files, enabling mechanical checks to ensure code behavior matches intended logic across all possible inputs. This approach provides stronger guarantees of correctness and security than standard type systems or traditional testing.</p><p>The tool uses Rust-like syntax for preconditions and postconditions, allowing proofs to remain synchronized with the codebase and providing fast, interactive feedback via solvers. Amazon uses Verus to verify critical infrastructure components like the Nitro Isolation Engine and Firecracker. The tool is also utilized by various open-source projects for tasks such as validating security certificates and verifying memory management systems.</p><p><img src="https://cdn.amazon.science/dims4/default/6a7388d/2147483647/strip/true/crop/1991x1216+0+0/resize/1748x1068!/quality/90/?url=https://amzn-science-production-science.s3.us-east-1.amazonaws.com/science/92/7b/a73bca424c789392d75c4576dc85/vcpu-spec.png" /></p><hr/><small>18 Sep 2026, 17:58 UTC | #21605</small>]]></content>
+  </entry>
+  <entry>
+    <title>W3C Style Guide for Online Hypertext</title>
+    <link href="https://www.w3.org/Provider/Style/" rel="alternate" />
+    <id>https://www.w3.org/Provider/Style/::v239</id>
+    <published>2026-09-18T13:32:00+00:00</published>
+    <updated>2026-09-18T13:32:00+00:00</updated>
+    <media:thumbnail url="https://blog.accessify.app/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-09-at-2.11.25-PM-1.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.w3.org/Provider/Style/">w3.org</a> | <a href="https://lobste.rs/s/7ehqzv/style_guide_for_online_hypertext_1992">discussion</a></small></p><hr/><p>The W3C Style Guide for Online Hypertext outlines foundational principles for constructing effective hypertext databases on the World Wide Web. It establishes guidelines for document structure, linking conventions, server administrator etiquette, and general readability.</p><p>Dating back to the early 1990s, the guide addresses early web concepts including the "webmaster" convention and the requirement for persistent, non-changing URIs. It provides recommendations on document size, device independence, and the use of standard HTML to ensure content remains accessible across various interfaces.</p><p><img src="https://blog.accessify.app/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-09-at-2.11.25-PM-1.jpeg" /></p><hr/><small>18 Sep 2026, 17:54 UTC | #21604</small>]]></content>
+  </entry>
+  <entry>
+    <title>Six Earplugs for Hearing Protection at Gigs and Festivals Compared</title>
+    <link href="https://musictech.com/guides/buyers-guide/best-earplugs-hearing-protection-at-gigs-and-festivals/" rel="alternate" />
+    <id>https://musictech.com/guides/buyers-guide/best-earplugs-hearing-protection-at-gigs-and-festivals/::v239</id>
+    <published>2026-09-18T13:31:00+00:00</published>
+    <updated>2026-09-18T13:31:00+00:00</updated>
+    <media:thumbnail url="https://elovita.co.uk/cdn/shop/files/3m-e-a-r-ultrafit-plus-earplugs-pvc-yellow.jpg?v=1772918158" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/guides/buyers-guide/best-earplugs-hearing-protection-at-gigs-and-festivals/">musictech.com</a></small></p><hr/><p>High-fidelity earplug brands like Vibes, Loop, and Minuendo offer alternatives to foam plugs for protecting hearing at loud music events. These products provide noise reduction ranging from 9 dB to 31 dB while maintaining sound quality for a more balanced listening experience.</p><p>Options include adjustable models with impedance sliders, such as Loop and dBud, and medical-grade silicone earplugs like Earasers for professional use. While brands like Eargasm offer aesthetic variations for festivals, others like Minuendo provide premium packaging and magnetic components for ease of use.</p><p><img src="https://elovita.co.uk/cdn/shop/files/3m-e-a-r-ultrafit-plus-earplugs-pvc-yellow.jpg?v=1772918158" /></p><hr/><small>18 Sep 2026, 17:51 UTC | #21593</small>]]></content>
+  </entry>
   <entry>
     <title>Emulating x86-TSO Memory Models on ARM</title>
     <link href="https://fex-emu.com/Scourge-of-emulation/" rel="alternate" />
@@ -928,23 +973,5 @@
     <updated>2026-09-13T18:17:00+00:00</updated>
     <media:thumbnail url="https://cdn.shopaccino.com/igmguru/articles/online-rust-compiler-2563048025691934_l.webp?v=548" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/">lwn.net</a> | <a href="https://lobste.rs/s/felv2m/stabilizing_rust_s_never_type">discussion</a> | <a href="https://news.ycombinator.com/item?id=49625056">hacker news</a></small></p><hr/><p>Rust is stabilizing its "never" type (`!`), which represents values that can never occur or functions that never return. The feature enables more efficient generic code by allowing the compiler to optimize away unreachable error branches in infallible conversions and simplifies type inference for expressions like infinite loops. As part of this update, the standard library's `Infallible` type will become a type alias for the never type.</p><p>The change introduces a breaking change in how the compiler handles type inference fallback, shifting the default from the unit type `()` to `!`. While this could impact several thousand crates, many have already been addressed through community patches or backports discovered using the `crater` tool. Developers can resolve potential compilation errors by explicitly specifying return types or updating to supported dependency versions.</p><p><img src="https://cdn.shopaccino.com/igmguru/articles/online-rust-compiler-2563048025691934_l.webp?v=548" /></p><hr/><small>13 Sep 2026, 21:18 UTC | #20999</small>]]></content>
-  </entry>
-  <entry>
-    <title>Switching from Arch Linux to GNU Guix</title>
-    <link href="https://whhone.com/posts/switching-to-gnu-guix/" rel="alternate" />
-    <id>https://whhone.com/posts/switching-to-gnu-guix/::v239</id>
-    <published>2026-09-13T18:08:00+00:00</published>
-    <updated>2026-09-13T18:08:00+00:00</updated>
-    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8MnCiZMgOw7mYZM9wOkAuFBF0FiVKzagPmmwzUz01YB8Ys7K69U5usEc0xVAGfeCOXY-U9Ueuj8nVsJuQkFwXhwLs2wFuJKcCw890BP1UD3CZPZQzPNxz1ROot-2pzHPg0FJdO46unFcw_PhtbrWCvw1kh7ZcqYbNPOPgTfy7QJe1uGMMYw7LXmrXGpk/s1920/Zrzut+ekranu+z+2025-10-05+17-07-44.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://whhone.com/posts/switching-to-gnu-guix/">whhone.com</a> | <a href="https://lobste.rs/s/loapzc/switching_gnu_guix_beginner_s">discussion</a> | <a href="https://news.ycombinator.com/item?id=49686225">hacker news</a></small></p><hr/><p>The author migrated their home server from Arch Linux to GNU Guix to achieve a declarative and reproducible configuration managed entirely through code. The transition was motivated by the benefits of Guix's unified Guile Scheme configuration language, the Shepherd init system, and its strict adherence to free software principles compared to the complexity and documentation fragmentation encountered with NixOS.</p><p>Key advantages include managing both system and user environments via Git-tracked Scheme code, using `guix shell` for sandboxed isolation, and the flexibility of a full programming language for defining system services. Challenges such as a smaller package catalog and occasional slow builds when substitutes are unavailable are mitigated through custom package definitions, `guix import`, and strategic version pinning.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8MnCiZMgOw7mYZM9wOkAuFBF0FiVKzagPmmwzUz01YB8Ys7K69U5usEc0xVAGfeCOXY-U9Ueuj8nVsJuQkFwXhwLs2wFuJKcCw890BP1UD3CZPZQzPNxz1ROot-2pzHPg0FJdO46unFcw_PhtbrWCvw1kh7ZcqYbNPOPgTfy7QJe1uGMMYw7LXmrXGpk/s1920/Zrzut+ekranu+z+2025-10-05+17-07-44.png" /></p><hr/><small>13 Sep 2026, 19:41 UTC | #20996</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tesla Subdomain Triggers Automated Security Probes Against NTP Pool Servers</title>
-    <link href="https://dreamstation.systems/personal/tesla.html" rel="alternate" />
-    <id>https://dreamstation.systems/personal/tesla.html::v239</id>
-    <published>2026-09-13T18:04:00+00:00</published>
-    <updated>2026-09-13T18:04:00+00:00</updated>
-    <media:thumbnail url="https://secscanner.app/blog/subdomain-takeover-prevention/opengraph-image?18469a66a95665db" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://dreamstation.systems/personal/tesla.html">dreamstation.systems</a> | <a href="https://news.ycombinator.com/item?id=49686766">hacker news</a></small></p><hr/><p>A DNS configuration involving the `pool-ntp.tesla.com` subdomain is causing automated security scanners, including those from Assetnote, to target independent volunteer servers. Because the record CNAMEs to `pool.ntp.org`, asset discovery tools are mistakenly identifying various members of the NTP Pool as Tesla-owned infrastructure and attempting to execute exploit payloads against them.</p><p>This unintentional scanning has resulted in tens of thousands of requests containing payloads for vulnerabilities such as Log4Shell and SSRF. Affected server operators have reported the traffic and attempted to alert Tesla to the configuration error to prevent further scanning of unrelated third-party IPs.</p><p><img src="https://secscanner.app/blog/subdomain-takeover-prevention/opengraph-image?18469a66a95665db" /></p><hr/><small>13 Sep 2026, 19:27 UTC | #20992</small>]]></content>
   </entry>
 </feed>

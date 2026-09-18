@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-18T13:25:00+00:00</updated>
+  <updated>2026-09-18T13:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Anthropic Establishes Bay Area Wet Lab for Biology Research</title>
+    <link href="https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/" rel="alternate" />
+    <id>https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/::v239</id>
+    <published>2026-09-18T13:29:00+00:00</published>
+    <updated>2026-09-18T13:29:00+00:00</updated>
+    <media:thumbnail url="https://newlabcloud.com/wp-content/uploads/2026/04/Lab-in-the-Loop.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=49752272">hacker news</a></small></p><hr/><p>The company has established a physical wet lab in the San Francisco Bay Area to conduct biological experiments. This expansion into drug science focuses on research for rare and currently "undruggable" diseases, following the company's $400 million acquisition of Coefficient Bio.</p><p>The initiative aims to validate AI models through physical testing to bridge the gap between digital simulations and laboratory reality. By integrating AI with wet lab operations, the company seeks to significantly accelerate traditional drug development and R&amp;D timelines.</p><p><img src="https://newlabcloud.com/wp-content/uploads/2026/04/Lab-in-the-Loop.jpg" /></p><hr/><small>18 Sep 2026, 17:46 UTC | #21554</small>]]></content>
+  </entry>
   <entry>
     <title>Caius Shares Weekend Plans and Career Dilemma</title>
     <link href="https://lobste.rs/s/e1xglz/what_are_you_doing_this_weekend" rel="alternate" />
