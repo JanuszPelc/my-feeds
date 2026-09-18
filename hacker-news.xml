@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-18T14:28:00+00:00</updated>
+  <updated>2026-09-18T14:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>KDE Celebrates 30th Anniversary with AI-Native Desktop Proposal</title>
+    <link href="https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282" rel="alternate" />
+    <id>https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282::v239</id>
+    <published>2026-09-18T14:38:00+00:00</published>
+    <updated>2026-09-18T14:38:00+00:00</updated>
+    <media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/836619518id28087gol.jpg" />
+    <content type="html"><![CDATA[<p><small>The Register AI/ML | <a href="https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282">theregister.com</a> | <a href="https://conf.kde.org/event/11/contributions/314/">source</a></small></p><hr/><p>At the Akademy conference in Graz, Austria, celebrating KDE's 30th anniversary, contributors Eva Brucherseifer and Jan Muehlig proposed an "AI-native" desktop environment. The concept, titled "Kadai," involves an encrypted, vendor-agnostic personal kernel that would compile the Plasma interface specifically for each user's requirements and habits.</p><p>This approach intends to treat AI as core infrastructure rather than a secondary feature, a concept that may polarize the open-source community. The proposal has already drawn comparisons to the Resonant Computing Manifesto and has ignited debate regarding the role of artificial intelligence in desktop computing.</p><p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/836619518id28087gol.jpg" /></p><hr/><small>18 Sep 2026, 19:38 UTC | #21579</small>]]></content>
+  </entry>
   <entry>
     <title>C++20 Changes u8 String Literal Type to char8_t</title>
     <link href="https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/" rel="alternate" />
