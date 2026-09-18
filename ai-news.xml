@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-17T23:27:00+00:00</updated>
+  <updated>2026-09-18T08:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Meta Launches Muse AI Agent Mac App</title>
+    <link href="https://www.theverge.com/tech/997332/metas-muse-ai-agent-now-has-a-mac-app" rel="alternate" />
+    <id>https://www.theverge.com/tech/997332/metas-muse-ai-agent-now-has-a-mac-app::v239</id>
+    <published>2026-09-18T08:20:00+00:00</published>
+    <updated>2026-09-18T08:20:00+00:00</updated>
+    <media:thumbnail url="https://winbuzzer.com/wp-content/uploads/2026/07/Meta-AI-Muse-Image.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/997332/metas-muse-ai-agent-now-has-a-mac-app">theverge.com</a> | <a href="https://ai.meta.com/muse/download/">source</a></small></p><hr/><p>Meta's Muse AI agent is now available as a Mac application, expanding from its original availability on iOS, Android, and the web. The desktop agent is designed to automate tasks such as organizing files, filling out forms, and managing various productivity workflows.</p><p>The agent integrates with system services like Messages, Calendar, and Notes to retrieve and manage information. This release follows the agent's initial launch earlier this month as part of Meta's ongoing AI ecosystem expansion.</p><p><img src="https://winbuzzer.com/wp-content/uploads/2026/07/Meta-AI-Muse-Image.jpg" /></p><hr/><small>18 Sep 2026, 12:20 UTC | #21531</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Redesigns Claude Projects for Agentic Workflows</title>
     <link href="https://claude.com/blog/projects-redesigned" rel="alternate" />
