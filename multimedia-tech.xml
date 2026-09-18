@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-17T20:55:00+00:00</updated>
+  <updated>2026-09-18T13:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Typst 0.15 Adds Variable Font Support, MathML, and Bundle Output</title>
+    <link href="https://lwn.net/Articles/1092993/" rel="alternate" />
+    <id>https://lwn.net/Articles/1092993/::v239</id>
+    <published>2026-09-18T13:15:00+00:00</published>
+    <updated>2026-09-18T13:15:00+00:00</updated>
+    <media:thumbnail url="https://forum.affinity.serif.com/uploads/monthly_2024_04/EmbeddedFonts.png.cbf4a9b6d4231b373a8ce456e26c989f.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lwn.net/Articles/1092993/">lwn.net</a> | <a href="https://typst.app/blog/2026/typst-0.15/">source</a> | <a href="https://lobste.rs/s/j4oyxa/typst_makes_big_strides">discussion</a></small></p><hr/><p>Typst version 0.15 introduces several significant capabilities, including support for variable fonts that allow continuous weight and style adjustments. It also includes experimental MathML support for HTML exports, a "bundle" feature for generating multiple interlinked output files from a single source, and the ability to manage multiple bibliographies within one document.</p><p>The update also expands support for PDF standards, allowing users to target multiple accessibility and archival standards simultaneously. While these features enhance Typst's utility for scientific and technical publishing, its widespread adoption as a LaTeX replacement faces challenges due to the entrenched reliance on legacy formats in academic and professional publishing workflows.</p><p><img src="https://forum.affinity.serif.com/uploads/monthly_2024_04/EmbeddedFonts.png.cbf4a9b6d4231b373a8ce456e26c989f.png" /></p><hr/><small>18 Sep 2026, 16:22 UTC | #21587</small>]]></content>
+  </entry>
   <entry>
     <title>Unreal Fest Chicago 2026 Announced</title>
     <link href="https://www.gamedeveloper.com/events/unreal-fest" rel="alternate" />
