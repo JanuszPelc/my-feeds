@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-18T14:26:00+00:00</updated>
+  <updated>2026-09-18T15:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Abhishek Fatehpuria to Discuss Financial Consumer Trends at TechCrunch Disrupt 2026</title>
+    <link href="https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/::v239</id>
+    <published>2026-09-18T15:36:00+00:00</published>
+    <updated>2026-09-18T15:36:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Abhishek-Fatehpuria_1-Speaker-16x9-Dark.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/">techcrunch.com</a></small></p><hr/><p>Abhishek Fatehpuria, Robinhood’s Vice President of Product Management for Brokerage, will discuss "Winning the Modern Financial Consumer" at TechCrunch Disrupt 2026. The session will explore the transition of fintech services from specialized trading applications to integrated financial ecosystems that include banking, credit, cryptocurrency, and prediction markets.</p><p>The discussion will address the technical and product challenges of scaling complex services, such as AI-powered "agentic trading" and international expansion, while maintaining intuitive user experiences. Robinhood's recent growth in banking deposits and prediction market volume serves as a backdrop for these industry-wide shifts.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Abhishek-Fatehpuria_1-Speaker-16x9-Dark.png?w=680" /></p><hr/><small>18 Sep 2026, 20:11 UTC | #21581</small>]]></content>
+  </entry>
+  <entry>
+    <title>German Court Rules Meta Liable for Fake Ads on Instagram and Facebook</title>
+    <link href="https://www.reuters.com/legal/litigation/german-court-rules-meta-liable-fake-ads-instagram-facebook-2026-09-17/" rel="alternate" />
+    <id>https://www.reuters.com/legal/litigation/german-court-rules-meta-liable-fake-ads-instagram-facebook-2026-09-17/::v239</id>
+    <published>2026-09-18T15:34:00+00:00</published>
+    <updated>2026-09-18T15:34:00+00:00</updated>
+    <media:thumbnail url="https://images.prismic.io/favfly2/Z_zoOOvxEdbNPAIq_Meta_Ads-GigBanner-FavFly.png?auto=format,compress&amp;rect=0,0,1620,910&amp;w=2048&amp;fit=max" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/german-court-rules-meta-liable-fake-ads-instagram-facebook-2026-09-17/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=49741044">hacker news</a></small></p><hr/><p>A German court has ruled that Meta is liable for fraudulent advertisements posted by third parties on its Instagram and Facebook platforms. The court has ordered the company to remove the fraudulent content and pay damages to the affected parties.</p><p>The decision by the Frankfurt Regional Court establishes legal responsibility for social media platforms regarding deceptive third-party advertising. This ruling may influence how major technology companies moderate content to prevent financial scams and misinformation on their services.</p><p><img src="https://images.prismic.io/favfly2/Z_zoOOvxEdbNPAIq_Meta_Ads-GigBanner-FavFly.png?auto=format,compress&rect=0,0,1620,910&w=2048&fit=max" /></p><hr/><small>18 Sep 2026, 20:07 UTC | #21569</small>]]></content>
+  </entry>
   <entry>
     <title>SK hynix Launches SK hynix Ventures in Silicon Valley</title>
     <link href="https://www.koreaherald.com/article/10878747" rel="alternate" />
@@ -1219,13 +1237,5 @@
     <updated>2026-09-13T21:08:00+00:00</updated>
     <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*E_5lZ_bSsoQmTCbKhLl5Ng.jpeg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson">axios.com</a></small></p><hr/><p>House Speaker Mike Johnson (R-La.) stated that Congress will not lead the charge on regulating artificial intelligence safety, arguing that AI companies should instead take responsibility for ensuring the safety of their products.</p><p>The stance comes amid pressure from some members of Congress to convene and pass AI safeguards to mitigate potential risks. Johnson has offered no indication that the House will prioritize AI regulation before the upcoming election.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*E_5lZ_bSsoQmTCbKhLl5Ng.jpeg" /></p><hr/><small>13 Sep 2026, 22:51 UTC | #20984</small>]]></content>
-  </entry>
-  <entry>
-    <title>Mark Zuckerberg Emails Discuss Cambridge Analytica Data Practices</title>
-    <link href="https://twitter.com/TechEmails/status/2099214399840059428" rel="alternate" />
-    <id>https://twitter.com/TechEmails/status/2099214399840059428::v239</id>
-    <published>2026-09-13T20:09:00+00:00</published>
-    <updated>2026-09-13T20:09:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://twitter.com/TechEmails/status/2099214399840059428">twitter.com</a> | <a href="https://law.justia.com/cases/federal/district-courts/california/candce/5:2018cv01725/324152/258/">source</a> | <a href="https://news.ycombinator.com/item?id=49688157">hacker news</a></small></p><hr/><p>Internal Facebook emails from January 2017, surfaced through the In re Facebook, Inc. Securities Litigation, contain discussions between executives including Mark Zuckerberg regarding Cambridge Analytica's data-sharing activities. These communications provide insight into how Facebook leadership evaluated the firm's operations and data management practices.</p><p>The documents have sparked debate over whether Cambridge Analytica's methods were unique or if they mirrored standard political consulting practices used by other entities on the platform.</p><hr/><small>13 Sep 2026, 22:12 UTC | #21008</small>]]></content>
   </entry>
 </feed>

@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-18T15:32:00+00:00</updated>
+  <updated>2026-09-18T15:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Internet Phone Book Returns to Stock and Opens Submissions for Second Issue</title>
+    <link href="https://internetphonebook.net/" rel="alternate" />
+    <id>https://internetphonebook.net/::v239</id>
+    <published>2026-09-18T15:37:00+00:00</published>
+    <updated>2026-09-18T15:37:00+00:00</updated>
+    <media:thumbnail url="https://polytechnic.co.uk/media/images/internetphonebook-cover.width-1200.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://internetphonebook.net/">internetphonebook.net</a> | <a href="https://lobste.rs/s/xr7p0k/internet_phone_book">discussion</a></small></p><hr/><p>The Internet Phone Book, an annual publication exploring the "poetic web" through essays and a directory of personal websites, has returned to stock and is accepting submissions for its second issue.</p><p>The directory features hundreds of designers, developers, writers, curators, and educators. A global tour includes scheduled appearances at various festivals and galleries in cities including Ljubljana, Athens, and London through 2026.</p><p><img src="https://polytechnic.co.uk/media/images/internetphonebook-cover.width-1200.jpg" /></p><hr/><small>18 Sep 2026, 20:15 UTC | #21621</small>]]></content>
+  </entry>
   <entry>
     <title>Why Mutable and Immutable Types Are Not Subtypes</title>
     <link href="https://crumbles.blog/posts/2026-09-17-immutable-mutable.html" rel="alternate" />
