@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T22:16:00+00:00</updated>
+  <updated>2026-09-17T22:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Releases Metrics for Measuring AI Development Pace</title>
+    <link href="https://www.anthropic.com/institute/measuring-pace-of-ai-development" rel="alternate" />
+    <id>https://www.anthropic.com/institute/measuring-pace-of-ai-development::v239</id>
+    <published>2026-09-17T22:36:00+00:00</published>
+    <updated>2026-09-17T22:36:00+00:00</updated>
+    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F31704b297a9350f392f143ea078561f36cd14908-1920x1230.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/institute/measuring-pace-of-ai-development">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=49746369">hacker news</a></small></p><hr/><p>Anthropic has introduced a framework to track the progression of frontier AI development through three specific metrics: the level of AI-led research and development, the oversight capabilities for autonomous AI agents, and the allocation of compute resources toward safety. Data from August 2026 shows that Claude "leads" 26% of Anthropic's R&amp;D tasks, while 6% of AI R&amp;D compute is dedicated to safety.</p><p>These measurements are intended to provide visibility to governments and third-party auditors regarding the speed of AI capability growth and the effectiveness of safety safeguards. Anthropic intends to integrate independent, third-party evaluators who will have access to internal processes and data comparable to the company's own risk assessment teams.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F31704b297a9350f392f143ea078561f36cd14908-1920x1230.png&w=3840&q=75" /></p><hr/><small>18 Sep 2026, 04:01 UTC | #21490</small>]]></content>
+  </entry>
   <entry>
     <title>FAA Awards Air Space Intelligence $875 Million Contract for AI Airspace Management</title>
     <link href="https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/" rel="alternate" />
