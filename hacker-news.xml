@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T20:37:00+00:00</updated>
+  <updated>2026-09-17T20:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Wax Motor Mechanism and Applications</title>
+    <link href="https://en.wikipedia.org/wiki/Wax_motor" rel="alternate" />
+    <id>https://en.wikipedia.org/wiki/Wax_motor::v239</id>
+    <published>2026-09-17T20:49:00+00:00</published>
+    <updated>2026-09-17T20:49:00+00:00</updated>
+    <media:thumbnail url="https://d5z0fzovnqnjp.cloudfront.net/73adb9ddd6d5b0df23a56779a7d272f9.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://en.wikipedia.org/wiki/Wax_motor">en.wikipedia.org</a> | <a href="https://news.ycombinator.com/item?id=49726007">hacker news</a></small></p><hr/><p>These linear actuators convert thermal energy into mechanical energy by exploiting the volume expansion of wax during its phase change. A typical device consists of an enclosed volume of wax, a plunger to convert hydraulic force into mechanical output, and both a heat source and a heat sink.</p><p>These actuators can operate passively by matching wax melting points to ambient temperature ranges and provide significant hydraulic force. They are utilized in aerospace controls, HVAC thermostatic valves, washing machine door locks, and greenhouse ventilation systems.</p><p><img src="https://d5z0fzovnqnjp.cloudfront.net/73adb9ddd6d5b0df23a56779a7d272f9.jpg" /></p><hr/><small>18 Sep 2026, 01:37 UTC | #21520</small>]]></content>
+  </entry>
   <entry>
     <title>Bend Programming Language Uses Formal Proofs to Prevent AI Coding Errors</title>
     <link href="https://bend-lang.com/" rel="alternate" />
