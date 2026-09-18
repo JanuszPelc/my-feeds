@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-17T22:47:00+00:00</updated>
+  <updated>2026-09-18T02:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Crocus Soundware Releases Liminal micro: Bamboo Winds for Kontakt</title>
+    <link href="https://www.kvraudio.com/news/crocus-soundware-releases-liminal-micro-bamboo-winds-for-kontakt-68623?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68623" rel="alternate" />
+    <id>https://www.kvraudio.com/news/crocus-soundware-releases-liminal-micro-bamboo-winds-for-kontakt-68623?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68623::v239</id>
+    <published>2026-09-18T02:52:00+00:00</published>
+    <updated>2026-09-18T02:52:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/topimage_product_bamboowinds.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/crocus-soundware-releases-liminal-micro-bamboo-winds-for-kontakt-68623?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68623">kvraudio.com</a> | <a href="https://crocussoundware.com/Product_BambooWinds.html">source</a></small></p><hr/><p>This Kontakt sample library features transverse bamboo flute recordings with aleatoric, evolving articulations. The collection includes solo and ensemble performances across 832 samples, allowing for layering and blending through a color-coded interface.</p><p>The library requires the full version of Kontakt 6.7 or higher and consists of 1.65 GB of uncompressed data. It is available at an introductory price of $15 through October 17, 2026.</p><p><img src="https://static.kvraudio.com/i/b/topimage_product_bamboowinds.png" /></p><hr/><small>18 Sep 2026, 09:13 UTC | #21543</small>]]></content>
+  </entry>
   <entry>
     <title>Analog Obsession Releases ToneShaper Free Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/09/17/analog-obsession-toneshaper/" rel="alternate" />

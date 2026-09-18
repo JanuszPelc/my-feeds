@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-18T00:01:00+00:00</updated>
+  <updated>2026-09-18T02:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Judge Denies OpenAI's Bid to Access SpaceXAI-Apple Settlement</title>
+    <link href="https://www.politico.com/news/2026/09/18/court-shuts-down-openai-bid" rel="alternate" />
+    <id>https://www.politico.com/news/2026/09/18/court-shuts-down-openai-bid::v239</id>
+    <published>2026-09-18T02:51:00+00:00</published>
+    <updated>2026-09-18T02:51:00+00:00</updated>
+    <media:thumbnail url="https://aigazine.com/uploads/xvo4s44sfDuePTHCBpccSB1TJ5BXuNvK1bqGrEkv.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/09/18/court-shuts-down-openai-bid">politico.com</a> | <a href="https://www.courtlistener.com/docket/71191818/x-corp-v-apple-inc/">source</a></small></p><hr/><p>A federal judge has refused to force the disclosure of a confidential settlement between Apple and SpaceXAI. The motion was part of an antitrust lawsuit filed by Elon Musk's companies against competitors in the artificial intelligence market.</p><p>Judge Mark Pittman ruled the requested documents are irrelevant to the litigation. The decision preserves the privacy of the settlement terms between Apple and SpaceXAI.</p><p><img src="https://aigazine.com/uploads/xvo4s44sfDuePTHCBpccSB1TJ5BXuNvK1bqGrEkv.png" /></p><hr/><small>18 Sep 2026, 09:10 UTC | #21522</small>]]></content>
+  </entry>
   <entry>
     <title>Satire Proposes the Development of a "Shit Machine"</title>
     <link href="https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine" rel="alternate" />
