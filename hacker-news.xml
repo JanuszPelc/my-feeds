@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-18T02:48:00+00:00</updated>
+  <updated>2026-09-18T02:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>jemalloc 5.4.0 Released</title>
+    <link href="https://github.com/jemalloc/jemalloc/releases/tag/5.4.0" rel="alternate" />
+    <id>https://github.com/jemalloc/jemalloc/releases/tag/5.4.0::v239</id>
+    <published>2026-09-18T02:55:00+00:00</published>
+    <updated>2026-09-18T02:55:00+00:00</updated>
+    <media:thumbnail url="https://d1eipm3vz40hy0.cloudfront.net/images/AMER/Technical+debt+management/techincal-debt-types-optimized.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/jemalloc/jemalloc/releases/tag/5.4.0">github.com</a> | <a href="https://lobste.rs/s/eiqamo/jemalloc_5_4_0_release">discussion</a> | <a href="https://news.ycombinator.com/item?id=49750152">hacker news</a></small></p><hr/><p>jemalloc version 5.4.0 has been released, featuring over 160 commits focused on technical debt reduction, refactoring, and bug fixes. The update introduces the EXTENT_ALLOC_FLAG_PINNED flag for custom extent-allocation hooks to mark non-reclaimable mappings and provides new mallctl interfaces to report pinned-memory usage. It also includes C++ optimizations for new operators and improved alignment for human-readable and JSON malloc statistics.</p><p>The release introduces incompatible changes to the tcache fill and retention policy, which now adapts to observed demand instead of using fixed refill/flush targets. Other significant updates include the introduction of an OS abstraction layer to handle platform-dependent I/O and synchronization, modularization of the front end, and several portability improvements for macOS and GCC 16.</p><p><img src="https://d1eipm3vz40hy0.cloudfront.net/images/AMER/Technical+debt+management/techincal-debt-types-optimized.png" /></p><hr/><small>18 Sep 2026, 09:33 UTC | #21545</small>]]></content>
+  </entry>
   <entry>
     <title>Hacktron Researchers Compromise OpenAI Internal Repositories</title>
     <link href="https://www.hacktron.ai/blog/hacking-openai" rel="alternate" />
