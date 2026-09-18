@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-18T14:27:00+00:00</updated>
+  <updated>2026-09-18T14:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Shane Audio Updates 44 Plugins to v1.6</title>
+    <link href="https://www.kvraudio.com/news/shane-audio-updates-44-plugins-to-v1-6-68640?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68640" rel="alternate" />
+    <id>https://www.kvraudio.com/news/shane-audio-updates-44-plugins-to-v1-6-68640?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68640::v239</id>
+    <published>2026-09-18T14:34:00+00:00</published>
+    <updated>2026-09-18T14:34:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/shane-moogybass.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/shane-audio-updates-44-plugins-to-v1-6-68640?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68640">kvraudio.com</a> | <a href="https://shane4453.github.io/shaneaudio/updates.html">source</a></small></p><hr/><p>Shane Audio has released v1.6 of its 44-plugin suite for macOS and Windows, available to existing owners at no cost. Key updates include rebuilt detectors for Shane FET and Shane Multi, new modes and tube models for Shane EQ, reduced latency for Shane EP, and improved harmonic modeling for Shane TubeComp and Shane Dist.</p><p>Refinements include fixed timing for Shane BusComp, bug fixes for Shane Autotune, and tuned presets for Shane 60. A 30% discount is available on all bundles, including the $149 Everything Bundle, through September 30, 2026.</p><p><img src="https://static.kvraudio.com/i/b/shane-moogybass.jpg" /></p><hr/><small>18 Sep 2026, 19:18 UTC | #21575</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ocean Swift Updates DevOcean Modular to v1.2</title>
+    <link href="https://www.kvraudio.com/news/ocean-swift-updates-devocean-modular-to-v1-2-68637?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68637" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ocean-swift-updates-devocean-modular-to-v1-2-68637?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68637::v239</id>
+    <published>2026-09-18T14:33:00+00:00</published>
+    <updated>2026-09-18T14:33:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/devocean-modular-screenshot.1784132634.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ocean-swift-updates-devocean-modular-to-v1-2-68637?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68637">kvraudio.com</a> | <a href="https://oceanswift.net/product/devocean/">source</a></small></p><hr/><p>Ocean Swift has released version 1.2 of DevOcean Modular, a standalone modular synthesis and sound design platform. This update introduces thirty-five new modules, including a MIDI effects section—featuring tools like a Chord Generator and Humanizer—that operates on note data rather than audio. Additionally, several functions such as compression, limiting, and various envelopes have been unbundled from larger modules into dedicated, single-purpose modules to simplify patching.</p><p>The update also improves the Capsule Manager with enhanced skinning, font options, and XY/sample views for custom patch front panels. Performance optimizations have been made to the undo system, browser, and canvas polling. The release is accompanied by new tutorials and factory content.</p><p><img src="https://static.kvraudio.com/i/b/devocean-modular-screenshot.1784132634.png" /></p><hr/><small>18 Sep 2026, 19:16 UTC | #21576</small>]]></content>
+  </entry>
   <entry>
     <title>MeterPlugs Updates Perception AB to Version 1.5 with Immersive Support</title>
     <link href="https://www.kvraudio.com/news/meterplugs-updates-perception-ab-to-v1-5---adds-atmos-support-30-off-68630?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68630" rel="alternate" />
