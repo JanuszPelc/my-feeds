@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-18T17:18:00+00:00</updated>
+  <updated>2026-09-18T17:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Proposes AI Safety Coordination and Automattic Boardroom Dispute</title>
+    <link href="https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/" rel="alternate" />
+    <id>https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/::v239</id>
+    <published>2026-09-18T17:24:00+00:00</published>
+    <updated>2026-09-18T17:24:00+00:00</updated>
+    <media:thumbnail url="https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/matt-mulllenweg-ousted-391.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/">techcrunch.com</a></small></p><hr/><p>Anthropic CEO Dario Amodei has proposed a plan to "pace the frontier" of AI development through independent safety evaluators and coordination among AI labs in democratic nations. This follows a 33-hour boardroom dispute at Automattic, which saw founder Matt Mullenweg briefly removed from his role as CEO.</p><p>The discussion also covers May Mobility's $1.4 billion SPAC deal for robotaxi expansion and DoorDash's $425 million investment in food automation company Wonder. These developments highlight broader trends in AI regulation, corporate governance, and automated logistics.</p><p><img src="https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/matt-mulllenweg-ousted-391.jpg" /></p><hr/><small>18 Sep 2026, 22:19 UTC | #21601</small>]]></content>
+  </entry>
   <entry>
     <title>Nader Khalil and Sydney Sykes to Discuss Open vs. Closed AI at TechCrunch Disrupt 2026</title>
     <link href="https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/" rel="alternate" />
