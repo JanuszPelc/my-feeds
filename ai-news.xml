@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-17T20:51:00+00:00</updated>
+  <updated>2026-09-17T21:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>PrismML Releases Ternary Bonsai 2 27B</title>
+    <link href="https://prismml.com/news/bonsai-2-27b" rel="alternate" />
+    <id>https://prismml.com/news/bonsai-2-27b::v239</id>
+    <published>2026-09-17T21:14:00+00:00</published>
+    <updated>2026-09-17T21:14:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/6aac504ec0cef3807f35bcba_2%2027B%20ID.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://prismml.com/news/bonsai-2-27b">prismml.com</a> | <a href="https://news.ycombinator.com/item?id=49746618">hacker news</a></small></p><hr/><p>PrismML has released Ternary Bonsai 2 27B, a compressed multimodal model based on Qwen3.8 27B. Using ternary weights with FP16 scaling, the model achieves a 5.9GB footprint—approximately one-ninth the size of the full-precision version—while retaining 98.2% of the original's aggregate benchmark performance.</p><p>The model supports a 262K-token context window and multimodal text-and-image inputs. It is optimized for local deployment on NVIDIA GPUs and Apple devices, targeting high-throughput applications such as coding agents, private document analysis, and multimodal debugging.</p><p><img src="https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/6aac504ec0cef3807f35bcba_2%2027B%20ID.png" /></p><hr/><small>18 Sep 2026, 02:32 UTC | #21523</small>]]></content>
+  </entry>
   <entry>
     <title>AI-Based Monitoring Emerges to Combat Rogue Autonomous Agents</title>
     <link href="https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/" rel="alternate" />

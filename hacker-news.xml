@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-17T20:49:00+00:00</updated>
+  <updated>2026-09-17T21:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Flock ALPR Cameras Contain Security Vulnerabilities and Hard-Coded Credentials</title>
+    <link href="https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/" rel="alternate" />
+    <id>https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/::v239</id>
+    <published>2026-09-17T21:22:00+00:00</published>
+    <updated>2026-09-17T21:22:00+00:00</updated>
+    <media:thumbnail url="https://www.findarticles.com/wp-content/uploads/2026/02/flock_safety_alpr_edited_1771877046.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/">micahflee.com</a> | <a href="https://data.ddosecrets.org/Flock%20ALPR%20camera/">source</a> | <a href="https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security">discussion</a> | <a href="https://news.ycombinator.com/item?id=49733836">hacker news</a></small></p><hr/><p>Flock ALPR cameras contain critical security vulnerabilities, including the use of obsolete, unsupported software. The devices run end-of-life Android 8.1 and an outdated Linux kernel, leaving them susceptible to known exploits that can grant full device control or root access.</p><p>A dataset released by DDoSecrets revealed hard-coded API keys in the firmware that allow for the retrieval of Auth0 credentials for any Flock camera using its MAC address. This flaw potentially permits unauthorized access to the company's backend infrastructure. Analysis of the device logs also allowed for the physical identification of the camera's location in Wauwatosa, Wisconsin.</p><p><img src="https://www.findarticles.com/wp-content/uploads/2026/02/flock_safety_alpr_edited_1771877046.png" /></p><hr/><small>18 Sep 2026, 02:36 UTC | #21524</small>]]></content>
+  </entry>
   <entry>
     <title>Wax Motor Mechanism and Applications</title>
     <link href="https://en.wikipedia.org/wiki/Wax_motor" rel="alternate" />
