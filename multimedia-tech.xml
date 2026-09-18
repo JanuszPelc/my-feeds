@@ -3,9 +3,36 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-17T18:24:00+00:00</updated>
+  <updated>2026-09-17T20:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Unreal Fest Chicago 2026 Announced</title>
+    <link href="https://www.gamedeveloper.com/events/unreal-fest" rel="alternate" />
+    <id>https://www.gamedeveloper.com/events/unreal-fest::v239</id>
+    <published>2026-09-17T20:55:00+00:00</published>
+    <updated>2026-09-17T20:55:00+00:00</updated>
+    <media:thumbnail url="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-epic/events/EPICGAMES_NATIVE_VOW3d9a.png" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/events/unreal-fest">gamedeveloper.com</a> | <a href="https://www.unrealengine.com/events/unreal-fest-chicago-2026">source</a></small></p><hr/><p>Unreal Fest Chicago 2026 is planned as a conference for developers and creators using Unreal Engine and real-time 3D technologies. The event is expected to feature showcases of innovative projects and presentations regarding new features and technology updates within the Epic Games ecosystem.</p><p>The summit is designed to serve diverse industries, including game development, virtual production, architecture, automotive, and simulation. It aims to bring the real-time 3D community together to explore upcoming advancements and technological innovations.</p><p><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-epic/events/EPICGAMES_NATIVE_VOW3d9a.png" /></p><hr/><small>18 Sep 2026, 02:04 UTC | #21516</small>]]></content>
+  </entry>
+  <entry>
+    <title>SLICE: Seattle Loves Indie Creators Expo Scheduled for September 2026</title>
+    <link href="https://www.gamedeveloper.com/events/slice" rel="alternate" />
+    <id>https://www.gamedeveloper.com/events/slice::v239</id>
+    <published>2026-09-17T20:54:00+00:00</published>
+    <updated>2026-09-17T20:54:00+00:00</updated>
+    <media:thumbnail url="https://chequered.ink/wp-content/uploads/2026/05/Impact_Indie_Games_2026.jpg" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/events/slice">gamedeveloper.com</a> | <a href="https://seattleslice.org/">source</a></small></p><hr/><p>This one-day event in Seattle, Washington, is designed to provide practical tools and strategic insights for indie game developers. The program will feature panels, microtalks, and roundtables aimed at both emerging creators and established studios.</p><p>The expo aims to facilitate networking between local and international industry professionals. Discussion topics will include funding, marketing, and team-building.</p><p><img src="https://chequered.ink/wp-content/uploads/2026/05/Impact_Indie_Games_2026.jpg" /></p><hr/><small>18 Sep 2026, 02:02 UTC | #21515</small>]]></content>
+  </entry>
+  <entry>
+    <title>Tokyo Game Show 2026 to Expand to Five-Day Format</title>
+    <link href="https://www.gamedeveloper.com/events/tokyo-game-show-tgs-" rel="alternate" />
+    <id>https://www.gamedeveloper.com/events/tokyo-game-show-tgs-::v239</id>
+    <published>2026-09-17T20:53:00+00:00</published>
+    <updated>2026-09-17T20:53:00+00:00</updated>
+    <media:thumbnail url="https://finalweapon.net/wp-content/uploads/2025/09/Tokyo-Game-Show-2026.webp" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/events/tokyo-game-show-tgs-">gamedeveloper.com</a> | <a href="https://tgs.cesa.or.jp/2026/en">source</a></small></p><hr/><p>Tokyo Game Show 2026 will be held in Chiba City, Japan, from September 17 to September 21. The event is expanding to a five-day schedule, marking the longest duration in the show's history.</p><p>The increased timeframe is intended to accommodate a larger scale of gameplay and attendee engagement. The event serves as a global platform for players and industry professionals to connect and experience upcoming gaming developments and technologies.</p><p><img src="https://finalweapon.net/wp-content/uploads/2025/09/Tokyo-Game-Show-2026.webp" /></p><hr/><small>18 Sep 2026, 02:00 UTC | #21513</small>]]></content>
+  </entry>
   <entry>
     <title>Take-Two CEO Strauss Zelnick on GTA VI Marketing Strategy</title>
     <link href="https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs-to-be-marketed-aggressively-despite-global-brand-awareness" rel="alternate" />

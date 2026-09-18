@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T20:46:00+00:00</updated>
+  <updated>2026-09-17T20:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Global Public Sentiment on AI's Impact on Jobs and Inequality</title>
+    <link href="https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/" rel="alternate" />
+    <id>https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/::v239</id>
+    <published>2026-09-17T20:50:00+00:00</published>
+    <updated>2026-09-17T20:50:00+00:00</updated>
+    <media:thumbnail url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=640" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/">pewresearch.org</a></small></p><hr/><p>A Pew Research Center study of 42,151 people across 36 countries reveals that in 34 of the 37 nations surveyed, more people expect artificial intelligence to cause job loss than job growth. This skepticism is most pronounced in high-income countries like Australia, South Korea, and the United States, where approximately 70% of adults anticipate job losses over the next 20 years.</p><p>The research also indicates that many respondents believe AI will exacerbate economic inequality by widening the gap between the wealthy and the poor. Additionally, concern regarding AI-driven job loss is increasingly common among young adults aged 18 to 34 in several high- and middle-income nations, including Canada, France, and India.</p><p><img src="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=640" /></p><hr/><small>18 Sep 2026, 01:52 UTC | #21476</small>]]></content>
+  </entry>
   <entry>
     <title>United Nations and Google Launch UN System Data Commons for AI Accessibility</title>
     <link href="https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/" rel="alternate" />
