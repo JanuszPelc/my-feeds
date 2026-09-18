@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-18T12:17:00+00:00</updated>
+  <updated>2026-09-18T13:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>AZPEX Audio Releases Regent Free Clipper Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/09/18/azpex-audio-regent-clipper/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/18/azpex-audio-regent-clipper/::v239</id>
+    <published>2026-09-18T13:24:00+00:00</published>
+    <updated>2026-09-18T13:24:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/gui.1762432434.png" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/18/azpex-audio-regent-clipper/">bedroomproducersblog.com</a> | <a href="https://azpexaudio.com/products/regent/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/18/azpex-audio-regent-clipper/#respond">discussion</a></small></p><hr/><p>AZPEX Audio has launched Regent, a free clipper plugin for Windows and macOS in VST3 and AU formats. The software is designed for peak shaping and harmonic saturation, offering three clipping modes and Antiderivative Antialiasing (ADAA) technology.</p><p>Regent's signal flow separates input drive, clipping curves, output trim, and dry/wet blending into independent stages. It supports oversampling at 1x, 2x, 4x, and 8x rates to minimize aliasing and includes integrated metering.</p><p><img src="https://static.kvraudio.com/i/b/gui.1762432434.png" /></p><hr/><small>18 Sep 2026, 17:25 UTC | #21584</small>]]></content>
+  </entry>
+  <entry>
+    <title>Playhead Software Converts Natural Language into Custom DSP Chains</title>
+    <link href="https://bedroomproducersblog.com/2026/09/18/playhead-custom-effects/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/18/playhead-custom-effects/::v239</id>
+    <published>2026-09-18T13:23:00+00:00</published>
+    <updated>2026-09-18T13:23:00+00:00</updated>
+    <media:thumbnail url="https://mayubeatz.com/cdn/shop/files/Mastering_Chains.png?v=1772209893&amp;width=2000" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/18/playhead-custom-effects/">bedroomproducersblog.com</a> | <a href="https://playhead.fm/">source</a></small></p><hr/><p>Playhead is a music production tool that transforms natural language descriptions into editable digital signal processing (DSP) chains. By entering prompts such as "give these drums some funky vintage mojo," the software assembles customized "Treatments" using a built-in collection of effects including compressors, reverbs, chorus, saturation, and EQ.</p><p>The software aims to bridge the gap between an artist's sonic vision and technical execution by automating the assembly of mixing chains. Scheduled for a 2026 release, Playhead is engineered for low latency and minimal memory consumption to ensure compatibility with large-scale, complex DAW projects.</p><p><img src="https://mayubeatz.com/cdn/shop/files/Mastering_Chains.png?v=1772209893&width=2000" /></p><hr/><small>18 Sep 2026, 17:23 UTC | #21583</small>]]></content>
+  </entry>
+  <entry>
+    <title>Two Legs, Five Arms Generative Drum Machine Released for macOS</title>
+    <link href="https://bedroomproducersblog.com/2026/09/18/two-legs-five-arms/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/18/two-legs-five-arms/::v239</id>
+    <published>2026-09-18T13:22:00+00:00</published>
+    <updated>2026-09-18T13:22:00+00:00</updated>
+    <media:thumbnail url="https://pub-e93d5c9fdf134c89830082377f6df465.r2.dev/2025/01/Generative-AI-edited.webp" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/18/two-legs-five-arms/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/18/two-legs-five-arms/#respond">discussion</a></small></p><hr/><p>François Pé has released Two Legs, Five Arms, a free generative drum machine and AU MIDI effect for macOS. The plugin outputs General MIDI drum notes intended for use with drum instruments in a Digital Audio Workstation (DAW) rather than generating audio directly.</p><p>The software provides generative rhythmic patterns as an AU MIDI effect. This release follows the developer's previous release of the Euclid3an Arp, a tool designed for creating polyrhythmic arpeggios.</p><p><img src="https://pub-e93d5c9fdf134c89830082377f6df465.r2.dev/2025/01/Generative-AI-edited.webp" /></p><hr/><small>18 Sep 2026, 17:22 UTC | #21582</small>]]></content>
+  </entry>
   <entry>
     <title>RiverFlux Audio Releases PHIXER Free Phase Correction Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/09/18/riverflux-phixer/" rel="alternate" />

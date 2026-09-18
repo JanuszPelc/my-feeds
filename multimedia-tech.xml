@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-18T13:15:00+00:00</updated>
+  <updated>2026-09-18T13:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>King Workers Set to Strike Over Collective Agreement Dispute</title>
+    <link href="https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall" rel="alternate" />
+    <id>https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall::v239</id>
+    <published>2026-09-18T13:21:00+00:00</published>
+    <updated>2026-09-18T13:21:00+00:00</updated>
+    <media:thumbnail url="https://znetwork.org/wp-content/uploads/2025/10/workers-unite-strike-labour.jpg" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/production/king-workers-call-strike-after-collective-agreement-negotiations-stall">gamedeveloper.com</a> | <a href="https://www.unionen.se/en/news/unionen-gives-notice-industrial-action-king">source</a></small></p><hr/><p>Union workers at King, the developer of Candy Crush, are scheduled to strike on September 25, 2026, if negotiations for a collective agreement fail. The Swedish trade union Unionen, representing a large proportion of the workforce, submitted the strike notice after more than a year of failed discussions.</p><p>Other Swedish trade unions, including Naturvetarna and DIK, have announced sympathy strikes in support of the action. King's management maintains that current employment terms are competitive and has declined to enter into a collective bargaining agreement.</p><p><img src="https://znetwork.org/wp-content/uploads/2025/10/workers-unite-strike-labour.jpg" /></p><hr/><small>18 Sep 2026, 17:19 UTC | #21563</small>]]></content>
+  </entry>
   <entry>
     <title>Typst 0.15 Adds Variable Font Support, MathML, and Bundle Output</title>
     <link href="https://lwn.net/Articles/1092993/" rel="alternate" />
