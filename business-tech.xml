@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-18T08:21:00+00:00</updated>
+  <updated>2026-09-18T12:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Chinese Chipmaker CXMT Plans Expansion into Flash Memory</title>
+    <link href="https://www.reuters.com/world/asia-pacific/chinas-cxmt-eyes-flash-memory-push-amid-global-shortage-firm-take-samsung-ymtc-2026-09-18/" rel="alternate" />
+    <id>https://www.reuters.com/world/asia-pacific/chinas-cxmt-eyes-flash-memory-push-amid-global-shortage-firm-take-samsung-ymtc-2026-09-18/::v239</id>
+    <published>2026-09-18T12:16:00+00:00</published>
+    <updated>2026-09-18T12:16:00+00:00</updated>
+    <media:thumbnail url="https://www.silicon.co.uk/wp-content/uploads/2025/10/The-LPDDR5-memory-chip-from-Chinese-chipmaker-CXMT.-Image-credit-CXMT.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/chinas-cxmt-eyes-flash-memory-push-amid-global-shortage-firm-take-samsung-ymtc-2026-09-18/">reuters.com</a></small></p><hr/><p>Moving into the flash memory market would allow the DRAM manufacturer to compete directly with Samsung Electronics and domestic rival YMTC. This strategic shift is driven by a global memory shortage fueled by the rapid expansion of artificial intelligence.</p><p>Entering the NAND flash sector would enable the company to diversify its product offerings and capture increased demand for storage solutions in AI-driven data centers and consumer electronics.</p><p><img src="https://www.silicon.co.uk/wp-content/uploads/2025/10/The-LPDDR5-memory-chip-from-Chinese-chipmaker-CXMT.-Image-credit-CXMT.jpg" /></p><hr/><small>18 Sep 2026, 15:40 UTC | #21540</small>]]></content>
+  </entry>
   <entry>
     <title>Apple to Launch Apple Pay in India via Axis Bank Cards</title>
     <link href="https://www.reuters.com/world/india/apple-pay-eyes-india-rollout-with-axis-bank-sources-say-2026-09-18/" rel="alternate" />
