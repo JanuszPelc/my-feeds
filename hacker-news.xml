@@ -911,30 +911,4 @@
     <media:thumbnail url="https://masterprompting.net/images/blog/ai-model-routing-litellm-openrouter-guide.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/kennethwolters/litelm">github.com</a> | <a href="https://news.ycombinator.com/item?id=49662767">hacker news</a></small></p><hr/><p>This Python library extracts the core routing and translation components from the LiteLLM package into a minimalist implementation. It removes the overhead of proxy servers, caching, and cost tracking, focusing instead on model routing, message translation, streaming, tool use, and embeddings. Because it mirrors the LiteLLM API, developers can transition to it by simply updating their import statements.</p><p>The library supports 19 providers, including OpenAI, Anthropic, and Groq, and relies on only two dependencies: `openai` and `httpx`. Currently in alpha, the project is intended for developers who require a low-overhead orchestration layer without the administrative features of a full-scale AI gateway, such as token counting or budgeting.</p><p><img src="https://masterprompting.net/images/blog/ai-model-routing-litellm-openrouter-guide.webp" /></p><hr/><small>13 Sep 2026, 16:40 UTC | #20985</small>]]></content>
   </entry>
-  <entry>
-    <title>John Carmack Compares Programming Evolution to Martial Arts</title>
-    <link href="https://twitter.com/ID_AA_Carmack/status/2098443262214230095" rel="alternate" />
-    <id>https://twitter.com/ID_AA_Carmack/status/2098443262214230095::v239</id>
-    <published>2026-09-13T08:48:00+00:00</published>
-    <updated>2026-09-13T08:48:00+00:00</updated>
-    <media:thumbnail url="https://m.media-amazon.com/images/I/81jcEtYqs5L._SL1500_.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://twitter.com/ID_AA_Carmack/status/2098443262214230095">twitter.com</a> | <a href="https://news.ycombinator.com/item?id=49677577">hacker news</a></small></p><hr/><p>The transition of martial arts from battlefield combat to structured sports provides a metaphor for the changing landscape of software development. As AI automates many coding tasks, manual, low-level programming is shifting from a practical necessity toward a niche, enthusiast-driven pursuit.</p><p>While acknowledging the value of the retro-computing scene for maintaining traditional skills, Carmack warns against becoming an "out of touch" practitioner of obsolete techniques. He encourages developers to adapt to modern technological shifts to remain competitive and relevant.</p><p><img src="https://m.media-amazon.com/images/I/81jcEtYqs5L._SL1500_.jpg" /></p><hr/><small>13 Sep 2026, 14:43 UTC | #20977</small>]]></content>
-  </entry>
-  <entry>
-    <title>VTech VZ200 Restoration and 1980s Home Computer History</title>
-    <link href="https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html" rel="alternate" />
-    <id>https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html::v239</id>
-    <published>2026-09-13T08:46:00+00:00</published>
-    <updated>2026-09-13T08:46:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html">oldvcr.blogspot.com</a> | <a href="https://lobste.rs/s/jwlzd3/dick_smith_vz200_without_dick_smith">discussion</a> | <a href="https://news.ycombinator.com/item?id=49679387">hacker news</a></small></p><hr/><p>The author plans to restore a VTech VZ200 computer by repairing the keyboard and video circuitry. The project involves implementing a USB serial port using custom Z80 assembly language to enable 57.6kbps data transfer.</p><p>The piece provides historical context for the 1980s home computer market, tracing the lineage of the VZ200 through Hong Kong-based VTech and EACA. It also details the legal disputes over system ROM copyrights involving Tandy Corporation and manufacturers of compatible machines like the Video Genie and PMC-80.</p><hr/><small>13 Sep 2026, 14:07 UTC | #20976</small>]]></content>
-  </entry>
-  <entry>
-    <title>Terminal Commands to Block macOS Update Notifications</title>
-    <link href="https://zoey-on-github.github.io/blog/updates.html" rel="alternate" />
-    <id>https://zoey-on-github.github.io/blog/updates.html::v239</id>
-    <published>2026-09-13T08:44:00+00:00</published>
-    <updated>2026-09-13T08:44:00+00:00</updated>
-    <media:thumbnail url="https://cdn.osxdaily.com/wp-content/uploads/2025/03/disable-automatic-software-updates-macos.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://zoey-on-github.github.io/blog/updates.html">zoey-on-github.github.io</a> | <a href="https://lobste.rs/s/betbip/better_way_blocking_macos_updates">discussion</a></small></p><hr/><p>Modifying MobileAsset system defaults via terminal can block macOS update notifications. The method involves changing the MobileAssetAssetAudience and redirecting the MobileAssetServerURL to an invalid catalog to suppress system prompts.</p><p>Applying these changes requires restarting the mobileassetd and betaenrollmentd processes. Specific commands are provided to both implement the block and revert the settings to restore standard update functionality.</p><p><img src="https://cdn.osxdaily.com/wp-content/uploads/2025/03/disable-automatic-software-updates-macos.jpg" /></p><hr/><small>13 Sep 2026, 13:54 UTC | #20975</small>]]></content>
-  </entry>
 </feed>
