@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T22:36:00+00:00</updated>
+  <updated>2026-09-18T00:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Satire Proposes the Development of a "Shit Machine"</title>
+    <link href="https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine" rel="alternate" />
+    <id>https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine::v239</id>
+    <published>2026-09-18T00:01:00+00:00</published>
+    <updated>2026-09-18T00:01:00+00:00</updated>
+    <media:thumbnail url="https://cdn1.epicgames.com/ue/product/Screenshot/ScreenShot9522004-1920x1080-4a5de26aab68dd2c084b0dcf2b104bce.jpg?resize=1&amp;w=1920" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine">mcsweeneys.net</a> | <a href="https://lobste.rs/s/vzql1n/we_must_create_shit_machine">discussion</a> | <a href="https://news.ycombinator.com/item?id=49729409">hacker news</a></small></p><hr/><p>A satirical essay proposes the creation of a "Shit Machine," a device designed to rain feces from the sky to address various human needs. The fictional technology utilizes airborne particles to aggregate into coherent-seeming waste through an unexplained scientific process.</p><p>The piece critiques Big Tech industry trends, specifically mocking subscription-based consumer protections, the expansion of product ecosystems, and the application of unmonitored technology to complex global issues. It envisions a future requiring "Shit-umbrellas" and "Shit Dams" to manage the resulting deluge.</p><p><img src="https://cdn1.epicgames.com/ue/product/Screenshot/ScreenShot9522004-1920x1080-4a5de26aab68dd2c084b0dcf2b104bce.jpg?resize=1&w=1920" /></p><hr/><small>18 Sep 2026, 06:10 UTC | #21533</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Releases Metrics for Measuring AI Development Pace</title>
     <link href="https://www.anthropic.com/institute/measuring-pace-of-ai-development" rel="alternate" />
