@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T20:43:00+00:00</updated>
+  <updated>2026-09-17T20:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Microsoft Executive Describes AI Scraping as 'Theft' in Unredacted Lawsuit Filings</title>
+    <link href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/::v239</id>
+    <published>2026-09-17T20:44:00+00:00</published>
+    <updated>2026-09-17T20:44:00+00:00</updated>
+    <media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/18140038001/1a011a56-9140-44ff-b912-402d72317742/01722069-739c-410f-94e2-9546b95ce09f/3840x2160/match/image.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/">techcrunch.com</a> | <a href="https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation/">source</a> | <a href="https://news.ycombinator.com/item?id=49748529">hacker news</a></small></p><hr/><p>Unredacted filings in The New York Times’ lawsuit against OpenAI and Microsoft reveal internal communications where executives characterized AI training practices. A Microsoft executive described AI scraping as "the largest theft of labor in human history," while OpenAI leadership called their products an "existential threat" to publishers. The documents also detail methods allegedly used to bypass paywalls and strip copyright notices from training datasets.</p><p>The unsealed material notes that Microsoft Copilot reduced click-through rates for The New York Times domain by as much as 93% compared to traditional search. The filings also reveal the massive scale of data usage, including datasets containing millions of documents from news organizations. These findings challenge the "fair use" defense by illustrating the direct competitive and economic impact of AI models on their content sources.</p><p><img src="https://cf-images.us-east-1.prod.boltdns.net/v1/static/18140038001/1a011a56-9140-44ff-b912-402d72317742/01722069-739c-410f-94e2-9546b95ce09f/3840x2160/match/image.jpg" /></p><hr/><small>18 Sep 2026, 00:56 UTC | #21478</small>]]></content>
+  </entry>
   <entry>
     <title>Bay Area Tech Layoffs Affect Over 14,500 Workers as Engineer Demand Declines</title>
     <link href="https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near" rel="alternate" />
