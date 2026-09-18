@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-18T14:38:00+00:00</updated>
+  <updated>2026-09-18T15:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Why Mutable and Immutable Types Are Not Subtypes</title>
+    <link href="https://crumbles.blog/posts/2026-09-17-immutable-mutable.html" rel="alternate" />
+    <id>https://crumbles.blog/posts/2026-09-17-immutable-mutable.html::v239</id>
+    <published>2026-09-18T15:32:00+00:00</published>
+    <updated>2026-09-18T15:32:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQGitFbSMViHgw/feedshare-shrink_800/B56Zxng3yiIAAg-/0/1771263196667?e=2147483647&amp;v=beta&amp;t=mtd1GxRUSy6Zr_YGw4y2w8asQzdTZ82q2KufR0I11JM" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://crumbles.blog/posts/2026-09-17-immutable-mutable.html">crumbles.blog</a> | <a href="https://lobste.rs/s/lzhzsx/faq_why_isn_t_mutable_subtype_immutable">discussion</a></small></p><hr/><p>Mutable and immutable types cannot share a subtype relationship without violating the Liskov Substitution Principle. An immutable type cannot be substituted for a mutable one because it lacks mutation operations, and a mutable type cannot be substituted for an immutable one because it fails to uphold the guarantee of value stability required for operations like hash consing.</p><p>Languages accommodate these distinct types through ad hoc polymorphism, such as type classes, interfaces, or traits in statically typed systems. In dynamic languages, duck typing is commonly used to allow different types to respond to similar operations, though this can complicate reasoning about type safety and data flow.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQGitFbSMViHgw/feedshare-shrink_800/B56Zxng3yiIAAg-/0/1771263196667?e=2147483647&v=beta&t=mtd1GxRUSy6Zr_YGw4y2w8asQzdTZ82q2KufR0I11JM" /></p><hr/><small>18 Sep 2026, 19:54 UTC | #21619</small>]]></content>
+  </entry>
   <entry>
     <title>KDE Celebrates 30th Anniversary with AI-Native Desktop Proposal</title>
     <link href="https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282" rel="alternate" />
