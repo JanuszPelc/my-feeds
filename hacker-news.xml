@@ -946,22 +946,4 @@
     <media:thumbnail url="https://i.ytimg.com/vi/7l-6rz62j54/maxresdefault.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://brew.sh/2026/09/13/homebrew-7.0.0/">brew.sh</a> | <a href="https://news.ycombinator.com/item?id=49681545">hacker news</a></small></p><hr/><p>Homebrew 7.0.0 introduces faster installation and upgrade processes by implementing higher concurrency during package preparation and downloads. This release features enhanced security through stricter sandboxing for formulae and casks, a built-in vulnerability advisory database, and a native macOS application.</p><p>The update ends support for macOS 10.15 and moves Intel-based Macs to Tier 3 support status. Additional improvements include new command-line diagnostics, expanded capabilities for `brew bundle`, and refined service management for macOS and Linux.</p><p><img src="https://i.ytimg.com/vi/7l-6rz62j54/maxresdefault.jpg" /></p><hr/><small>13 Sep 2026, 13:38 UTC | #20974</small>]]></content>
   </entry>
-  <entry>
-    <title>Switching Version Control From Git to Fossil</title>
-    <link href="https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html" rel="alternate" />
-    <id>https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html::v239</id>
-    <published>2026-09-13T07:52:00+00:00</published>
-    <updated>2026-09-13T07:52:00+00:00</updated>
-    <media:thumbnail url="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210401194608/GIT-WorkFlow.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html">lucio.albenga.es</a> | <a href="https://lobste.rs/s/pomjkm/from_git_fossil_2025">discussion</a> | <a href="https://news.ycombinator.com/item?id=49649864">hacker news</a></small></p><hr/><p>Transitioning from Git to the Fossil version control system offers advantages such as efficiency, a built-in web server, wiki, and ticket tracking. The system's design simplifies workflows by omitting a staging area and facilitating easier self-hosting.</p><p>The guide provides instructions for installing Fossil and migrating existing Git repositories using the fossil import command. It also covers fundamental operations including status checks, file management, branching, and utilizing the built-in web interface.</p><p><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210401194608/GIT-WorkFlow.png" /></p><hr/><small>13 Sep 2026, 12:41 UTC | #20973</small>]]></content>
-  </entry>
-  <entry>
-    <title>JetKVM Introduces JetKVM Mini and JetKVM Mini W</title>
-    <link href="https://jetkvm.com/blog/introducing-jetkvm-mini" rel="alternate" />
-    <id>https://jetkvm.com/blog/introducing-jetkvm-mini::v239</id>
-    <published>2026-09-13T07:50:00+00:00</published>
-    <updated>2026-09-13T07:50:00+00:00</updated>
-    <media:thumbnail url="https://jetkvm.com/blog/jetkvm-mini/angle.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jetkvm.com/blog/introducing-jetkvm-mini">jetkvm.com</a> | <a href="https://news.ycombinator.com/item?id=49681152">hacker news</a></small></p><hr/><p>The JetKVM Mini and Mini W are small-form-factor remote KVM devices. The wired Mini is priced at $39, while the wireless Mini W, which supports 2.4 and 5 GHz Wi-Fi, is priced at $42. Both units use an ESP32-P4X microcontroller for 1080p video capture and H.264 encoding streamed via WebRTC.</p><p>The hardware features an aluminum enclosure, a built-in status display, and an auxiliary USB port for extensions. The Mini W also includes Bluetooth LE for setup and support for Zigbee and Thread. Both models are scheduled for release on October 26, 2026, and will run open-source firmware.</p><p><img src="https://jetkvm.com/blog/jetkvm-mini/angle.webp" /></p><hr/><small>13 Sep 2026, 12:07 UTC | #20972</small>]]></content>
-  </entry>
 </feed>
