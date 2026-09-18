@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-18T12:07:00+00:00</updated>
+  <updated>2026-09-18T12:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Bend 2 Criticized for Neglecting Established Formal Verification Methods</title>
+    <link href="https://blog.liampwll.com/posts/bend_vibe_coding/" rel="alternate" />
+    <id>https://blog.liampwll.com/posts/bend_vibe_coding/::v239</id>
+    <published>2026-09-18T12:11:00+00:00</published>
+    <updated>2026-09-18T12:11:00+00:00</updated>
+    <media:thumbnail url="https://www.atbender.com/_next/image?url=/blog/starcraft-vibe-coding.jpg&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.liampwll.com/posts/bend_vibe_coding/">blog.liampwll.com</a> | <a href="https://news.ycombinator.com/item?id=49753179">hacker news</a></small></p><hr/><p>Bend 2 is a programming language designed to verify AI-generated code through the use of laws and proofs. The article argues that Bend's approach is inefficient and redundant, as it fails to incorporate established formal verification methods used in languages like SPARK, resulting in significantly more verbose code and proofs.</p><p>This approach is characterized as the "vibe-coding trap," where AI-assisted development enables the construction of complex systems without the developer realizing that more efficient, industry-standard solutions already exist. This can lead to the creation of redundant technologies that overlook decades of established formal verification research.</p><p><img src="https://www.atbender.com/_next/image?url=/blog/starcraft-vibe-coding.jpg&w=3840&q=75" /></p><hr/><small>18 Sep 2026, 14:58 UTC | #21578</small>]]></content>
+  </entry>
   <entry>
     <title>Challenges of Passkey Adoption for Individual Users</title>
     <link href="https://hawksley.dev/blog/i-dont-like-passkeys" rel="alternate" />
@@ -928,14 +937,5 @@
     <updated>2026-09-13T16:11:00+00:00</updated>
     <media:thumbnail url="https://miro.medium.com/v2/resize:fit:960/1*9oCe4dVG8NKrFIuRRbF89g.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://char.lt/blog/2026/09/sorcery-repo-viewer/">char.lt</a> | <a href="https://lobste.rs/s/6syfar/what_if_my_git_host_were_static_site">discussion</a></small></p><hr/><p>Sorcery is a lightweight Git repository viewer that adopts a static site generator approach to minimize server resource consumption. It pre-renders an overview, directory tree, and syntax-highlighted source code as static HTML files during repository updates, while using a client-side JavaScript Git client to fetch and render historical data directly from the `.git` directory.</p><p>To maintain a low footprint, Sorcery is strictly read-only and omits common forge features like issue tracking and user management. The tool optimizes performance for high-latency connections by offering a server-side route that delivers specific Git objects in a compact binary format, reducing the bandwidth requirements of traditional packfile fetches.</p><p><img src="https://miro.medium.com/v2/resize:fit:960/1*9oCe4dVG8NKrFIuRRbF89g.png" /></p><hr/><small>13 Sep 2026, 19:25 UTC | #20990</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Interim Computer Museum Preserves Computing History Through Interactive Exhibits</title>
-    <link href="https://icm.museum/" rel="alternate" />
-    <id>https://icm.museum/::v239</id>
-    <published>2026-09-13T14:39:00+00:00</published>
-    <updated>2026-09-13T14:39:00+00:00</updated>
-    <media:thumbnail url="https://icm.museum/images/about1.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://icm.museum/">icm.museum</a> | <a href="https://news.ycombinator.com/item?id=49679459">hacker news</a></small></p><hr/><p>The Interim Computer Museum (ICM) is a 501(c)(3) non-profit organization that preserves computing history through interactive exhibits. These displays use vintage hardware with modern enhancements to provide hands-on experiences of technological evolution.</p><p>In partnership with SDF Public Access UNIX System, Inc., the museum relies on membership and donations to fund artifact preservation and community events. The organization focuses on bridging the gap between historical computing technology and the present day.</p><p><img src="https://icm.museum/images/about1.jpg" /></p><hr/><small>13 Sep 2026, 19:19 UTC | #20994</small>]]></content>
   </entry>
 </feed>
