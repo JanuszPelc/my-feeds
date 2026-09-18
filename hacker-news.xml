@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-18T02:55:00+00:00</updated>
+  <updated>2026-09-18T08:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Researchers Breach OpenAI GitHub Monorepo Using Specialized AI Models</title>
+    <link href="https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883?st=Jfx6Z1" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883?st=Jfx6Z1::v239</id>
+    <published>2026-09-18T08:18:00+00:00</published>
+    <updated>2026-09-18T08:18:00+00:00</updated>
+    <media:thumbnail url="https://www.news4hackers.com/wp-content/uploads/2026/03/OpenAI-Introduces-Bug-Bounty-Program-for-Safety-and-Security-Vulnerabilities.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883?st=Jfx6Z1">wsj.com</a></small></p><hr/><p>Security researchers participating in an OpenAI bug bounty program successfully accessed the company's internal GitHub "monorepo," exposing internal code systems. The breach was executed using specialized cybersecurity versions of the Anthropic Claude Opus 4.8 and Opus 5 AI models.</p><p>The incident underscores the rising threat of automated cyberattacks and the potential for advanced AI models to be leveraged in sophisticated exploits targeting secure development environments.</p><p><img src="https://www.news4hackers.com/wp-content/uploads/2026/03/OpenAI-Introduces-Bug-Bounty-Program-for-Safety-and-Security-Vulnerabilities.jpg" /></p><hr/><small>18 Sep 2026, 11:55 UTC | #21530</small>]]></content>
+  </entry>
   <entry>
     <title>jemalloc 5.4.0 Released</title>
     <link href="https://github.com/jemalloc/jemalloc/releases/tag/5.4.0" rel="alternate" />
