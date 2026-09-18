@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-17T20:44:00+00:00</updated>
+  <updated>2026-09-17T20:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>United Nations and Google Launch UN System Data Commons for AI Accessibility</title>
+    <link href="https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/::v239</id>
+    <published>2026-09-17T20:46:00+00:00</published>
+    <updated>2026-09-17T20:46:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/undata-update.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/">source</a></small></p><hr/><p>The United Nations has launched the UN System Data Commons in partnership with Google to make global statistical datasets more accessible to AI systems. Built on Google’s open-source Data Commons platform, the system uses the Model Context Protocol (MCP) to allow AI agents to query UN agency data through natural-language prompts. The initiative aims to host 80% of the UN system’s statistical datasets on the platform by 2027.</p><p>This initiative addresses reliability issues in generative AI, following a UNICEF study that found major large language models averaged only 21.2% accuracy when answering questions about global development indicators. By enabling AI agents to connect directly to authoritative sources and trace data back to its original UN source, the system aims to mitigate inaccurate or "hedged" AI responses. Google.org provided $2 million in capacity-building funding to support the platform’s core infrastructure.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/undata-update.jpg" /></p><hr/><small>18 Sep 2026, 01:10 UTC | #21482</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Executive Describes AI Scraping as 'Theft' in Unredacted Lawsuit Filings</title>
     <link href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/" rel="alternate" />
