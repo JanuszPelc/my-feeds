@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-18T00:03:00+00:00</updated>
+  <updated>2026-09-18T08:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Perceived Stagnation in Technological Innovation and Culture</title>
+    <link href="https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech" rel="alternate" />
+    <id>https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech::v239</id>
+    <published>2026-09-18T08:15:00+00:00</published>
+    <updated>2026-09-18T08:15:00+00:00</updated>
+    <media:thumbnail url="https://sballiance.net.au/wp-content/uploads/bb-plugin/cache/ai-panorama.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech">lobste.rs</a> | <a href="https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech">discussion</a></small></p><hr/><p>A sense of decline in technological novelty and excitement is observed compared to the previous two decades. Contributors to this sentiment include repetitive software updates, the longevity of consumer electronics, the rise of AI-driven "slop" in software stacks, and increasing political polarization within tech communities.</p><p>The piece concludes with an inquiry into which aspects of the modern technology landscape still generate genuine enthusiasm. It invites readers to identify specific projects, upcoming developments, or technologies that remain compelling and worth following.</p><p><img src="https://sballiance.net.au/wp-content/uploads/bb-plugin/cache/ai-panorama.jpg" /></p><hr/><small>18 Sep 2026, 11:27 UTC | #21560</small>]]></content>
+  </entry>
   <entry>
     <title>Terence Tao's Response to the Fields Medalists' AI Declaration</title>
     <link href="https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/" rel="alternate" />
