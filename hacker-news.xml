@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-18T08:18:00+00:00</updated>
+  <updated>2026-09-18T08:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Resharp Uses Extended Regular Expressions for High-Speed Text Categorization</title>
+    <link href="https://iev.ee/blog/categorize-everything-all-at-once/" rel="alternate" />
+    <id>https://iev.ee/blog/categorize-everything-all-at-once/::v239</id>
+    <published>2026-09-18T08:24:00+00:00</published>
+    <updated>2026-09-18T08:24:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/814526284/original/e8789cbecb/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://iev.ee/blog/categorize-everything-all-at-once/">iev.ee</a> | <a href="https://lobste.rs/s/7d6sh9/labeled_matches_why_is_this_not_every">discussion</a></small></p><hr/><p>Resharp utilizes extended regular expressions (RE#) to perform high-speed text categorization and named entity recognition (NER) by compiling patterns into deterministic finite automata (DFA) state machines. This method enables 100% accurate, deterministic matching for regular languages—such as dates and currency—using intersection and complement operators.</p><p>This approach significantly outperforms neural-network-based models like spaCy, achieving throughputs of up to 1.92 GB/s. Complex, multi-part patterns, such as those for the full Gregorian calendar, are simplified into efficient state machines through the use of symbolic derivatives and lazy compilation.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/814526284/original/e8789cbecb/1?v=1" /></p><hr/><small>18 Sep 2026, 13:02 UTC | #21565</small>]]></content>
+  </entry>
   <entry>
     <title>Researchers Breach OpenAI GitHub Monorepo Using Specialized AI Models</title>
     <link href="https://www.wsj.com/tech/ai/hackers-used-anthropics-claude-to-break-into-openai-b40ba883?st=Jfx6Z1" rel="alternate" />

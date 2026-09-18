@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-18T08:19:00+00:00</updated>
+  <updated>2026-09-18T08:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Våld Labs Opens Kurare Public Beta for macOS and Windows</title>
+    <link href="https://www.kvraudio.com/news/vald-labs-opens-kurare-public-beta---kuramoto-swarm-synthesizer-with-generative-sequencing-for-macos-and-windows-vst3-and-au-68631?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68631" rel="alternate" />
+    <id>https://www.kvraudio.com/news/vald-labs-opens-kurare-public-beta---kuramoto-swarm-synthesizer-with-generative-sequencing-for-macos-and-windows-vst3-and-au-68631?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68631::v239</id>
+    <published>2026-09-18T08:23:00+00:00</published>
+    <updated>2026-09-18T08:23:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/synth-ezgif-com-gif-maker-1.gif" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/vald-labs-opens-kurare-public-beta---kuramoto-swarm-synthesizer-with-generative-sequencing-for-macos-and-windows-vst3-and-au-68631?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68631">kvraudio.com</a> | <a href="https://valdlabs.com/kurare">source</a></small></p><hr/><p>Våld Labs has released the public beta for Kurare, a 16-voice polyphonic swarm synthesizer for macOS and Windows (VST3 and AU). The plugin uses the Kuramoto model of collective synchronization, employing two swarms of up to 32 coupled oscillators per note to generate textures ranging from fused tones to drifting sound clouds.</p><p>The synthesizer features a generative sequencer with seven algorithms and a deterministic engine that ensures bit-identical audio across different machines. The plugin is currently free during its beta period, and an iOS version is planned for future testing.</p><p><img src="https://static.kvraudio.com/i/b/synth-ezgif-com-gif-maker-1.gif" /></p><hr/><small>18 Sep 2026, 12:58 UTC | #21547</small>]]></content>
+  </entry>
   <entry>
     <title>Sound Magic Releases Supreme Drums London</title>
     <link href="https://www.kvraudio.com/news/sound-magic-releases-supreme-drums-london---hybrid-modelling-drum-kits-for-british-rock-and-pop-68613?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68613" rel="alternate" />
