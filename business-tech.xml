@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-18T17:16:00+00:00</updated>
+  <updated>2026-09-18T17:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nader Khalil and Sydney Sykes to Discuss Open vs. Closed AI at TechCrunch Disrupt 2026</title>
+    <link href="https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/::v239</id>
+    <published>2026-09-18T17:18:00+00:00</published>
+    <updated>2026-09-18T17:18:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sykes-Khalil-16x9-Dark.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/">techcrunch.com</a> | <a href="https://techcrunch.com/events/techcrunch-disrupt/agenda/">source</a></small></p><hr/><p>The upcoming session at TechCrunch Disrupt 2026 focuses on the strategic trade-offs between open and proprietary AI models. Led by Nvidia's Nader Khalil and Sydney Sykes, the discussion will examine how these model choices impact startup costs, infrastructure, margins, and competitive differentiation.</p><p>The talk addresses a hybrid reality where developers often combine open and proprietary models to balance capability with data control. It is designed to help founders, investors, and business leaders evaluate whether owning more of the AI stack provides long-term defensibility or creates significant maintenance and infrastructure burdens.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sykes-Khalil-16x9-Dark.png?w=680" /></p><hr/><small>18 Sep 2026, 20:47 UTC | #21591</small>]]></content>
+  </entry>
   <entry>
     <title>The Risks of Using LLMs Without Critical Human Oversight</title>
     <link href="https://danluu.com/brain-off/" rel="alternate" />

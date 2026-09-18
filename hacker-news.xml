@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-18T15:37:00+00:00</updated>
+  <updated>2026-09-18T17:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Wild and Mold Linker Performance Comparison</title>
+    <link href="https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html" rel="alternate" />
+    <id>https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html::v239</id>
+    <published>2026-09-18T17:19:00+00:00</published>
+    <updated>2026-09-18T17:19:00+00:00</updated>
+    <media:thumbnail url="https://www.phoronix.net/image.php?id=2026&amp;image=wild_09" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html">davidlattimore.github.io</a> | <a href="https://lobste.rs/s/gjjizm/benchmarking_wild_vs_mold">discussion</a></small></p><hr/><p>Recent benchmarks show the Mold linker outperforming the Wild linker, a reversal of earlier benchmarks where Wild appeared faster. This discrepancy arises from differing benchmark configurations, including the use of `tmpfs` versus `ext4` filesystems and variations in how processes are forked and how output files are handled.</p><p>Wild's performance currently benefits from using `tmpfs` and lacks certain OS-specific optimizations like `fallocate` and hugepage mapping used by Mold. While Wild is expected to implement these optimizations in future releases, current results also suggest that Wild's performance scales significantly with higher thread counts on many-core systems.</p><p><img src="https://www.phoronix.net/image.php?id=2026&image=wild_09" /></p><hr/><small>18 Sep 2026, 20:52 UTC | #21624</small>]]></content>
+  </entry>
   <entry>
     <title>Internet Phone Book Returns to Stock and Opens Submissions for Second Issue</title>
     <link href="https://internetphonebook.net/" rel="alternate" />
