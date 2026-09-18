@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-18T13:24:00+00:00</updated>
+  <updated>2026-09-18T14:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>MeterPlugs Updates Perception AB to Version 1.5 with Immersive Support</title>
+    <link href="https://www.kvraudio.com/news/meterplugs-updates-perception-ab-to-v1-5---adds-atmos-support-30-off-68630?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68630" rel="alternate" />
+    <id>https://www.kvraudio.com/news/meterplugs-updates-perception-ab-to-v1-5---adds-atmos-support-30-off-68630?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68630::v239</id>
+    <published>2026-09-18T14:27:00+00:00</published>
+    <updated>2026-09-18T14:27:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/perception-ab-1-5-2x.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/meterplugs-updates-perception-ab-to-v1-5---adds-atmos-support-30-off-68630?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68630">kvraudio.com</a> | <a href="https://www.meterplugs.com/pr/library/2026/09/18MeterPlugs-Releases-Perception-AB-1-5">source</a></small></p><hr/><p>MeterPlugs has released version 1.5 of its Perception AB plugin, adding support for immersive channel layouts up to 7.1.4 and Dolby Atmos workflows. The update includes optimizations for Pro Tools, WaveLab, and Logic, and allows the plugin to be utilized on object tracks as well as the bed.</p><p>Key improvements include an Auto Match Level toggle for maintaining loudness compensation during mix changes, a "Pair All" button for session-wide instance pairing, and FX bypass hotkeys. Version 1.5 is a free update for existing owners and is available in AAX, AU, and VST formats.</p><p><img src="https://static.kvraudio.com/i/b/perception-ab-1-5-2x.png" /></p><hr/><small>18 Sep 2026, 18:28 UTC | #21566</small>]]></content>
+  </entry>
   <entry>
     <title>AZPEX Audio Releases Regent Free Clipper Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/09/18/azpex-audio-regent-clipper/" rel="alternate" />
@@ -815,14 +824,5 @@
     <updated>2026-09-14T00:10:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/thenatan-tvhs---sc-1.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/thenatan-releases-tvhs-tape-and-crt-tv-emulator-for-mac-and-win-68517?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68517">kvraudio.com</a> | <a href="https://www.thenatan.store/p/tvhs-tape-crt-tv-emulator-plugin/">source</a></small></p><hr/><p>The TVHS plugin for macOS and Windows emulates the physics of VHS decks and CRT televisions. It utilizes filtered noise for pitch drift and a Poisson process for random dropouts to prevent repetitive looping. The software also reproduces video-side artifacts, such as head-switching glitches and CRT flyback whine, using 10 convolution impulse responses.</p><p>The plugin includes 11 independently bypassable effects and 60 factory presets. It is compatible with VST, VST3, and AU formats and features native support for Apple Silicon. The software is priced at $49, with a 72-hour introductory price of $9.50.</p><p><img src="https://static.kvraudio.com/i/b/thenatan-tvhs---sc-1.png" /></p><hr/><small>14 Sep 2026, 05:52 UTC | #21025</small>]]></content>
-  </entry>
-  <entry>
-    <title>SKR4CH Releases Free Browser-Based Waveform Designer</title>
-    <link href="https://bedroomproducersblog.com/2026/09/13/skr4ch-waveform-designer/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/13/skr4ch-waveform-designer/::v239</id>
-    <published>2026-09-13T18:12:00+00:00</published>
-    <updated>2026-09-13T18:12:00+00:00</updated>
-    <media:thumbnail url="https://emd.readthedocs.io/en/v0.6.1/_images/sphx_glr_emd_tutorial_03_cycle_04_waveform_013.png" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/13/skr4ch-waveform-designer/">bedroomproducersblog.com</a> | <a href="https://skr4ch.com/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/13/skr4ch-waveform-designer/#respond">discussion</a></small></p><hr/><p>SKR4CH is a free, browser-based tool for designing single-cycle waveforms, wavetable frame sets, and sustained samples. The editor allows users to create custom oscillator and sample source material directly in a web browser to complement synthesis and sampling workflows.</p><p>The tool enables the creation of bespoke, evolving timbres by allowing users to move beyond standard oscillator shapes. Because it is web-based, it provides an accessible way to design audio assets without the need for local software installation.</p><p><img src="https://emd.readthedocs.io/en/v0.6.1/_images/sphx_glr_emd_tutorial_03_cycle_04_waveform_013.png" /></p><hr/><small>13 Sep 2026, 20:05 UTC | #20981</small>]]></content>
   </entry>
 </feed>

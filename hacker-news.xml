@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-18T14:19:00+00:00</updated>
+  <updated>2026-09-18T14:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>C++20 Changes u8 String Literal Type to char8_t</title>
+    <link href="https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/" rel="alternate" />
+    <id>https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/::v239</id>
+    <published>2026-09-18T14:28:00+00:00</published>
+    <updated>2026-09-18T14:28:00+00:00</updated>
+    <media:thumbnail url="https://giodicanio.com/wp-content/uploads/2026/09/cpp_cpp20_u8_char8_t_bug.png?w=1024" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/">giodicanio.com</a> | <a href="https://lobste.rs/s/ltjgvl/c_20_s_u8_char8_t_backward_compatibility">discussion</a></small></p><hr/><p>In C++20, `u8` string literals were redefined from `const char[]` to `const char8_t[]`, breaking backward compatibility with C++17. This modification causes compilation errors in existing codebases that attempt to pass `u8` literals to functions expecting `const char*` parameters.</p><p>To mitigate these issues, some coding standards, including Google's, recommend avoiding the `u8` prefix entirely. This precaution helps avoid type mismatches and accommodates anticipated semantic shifts in the C++23 standard.</p><p><img src="https://giodicanio.com/wp-content/uploads/2026/09/cpp_cpp20_u8_char8_t_bug.png?w=1024" /></p><hr/><small>18 Sep 2026, 18:35 UTC | #21609</small>]]></content>
+  </entry>
   <entry>
     <title>Cloudflare Quick Tunnels Enable Local Application Exposure via CLI</title>
     <link href="https://try.cloudflare.com/" rel="alternate" />
@@ -937,41 +946,5 @@
     <updated>2026-09-13T21:09:00+00:00</updated>
     <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQFteqNt0ffymw/article-cover_image-shrink_720_1280/B4DZv23kTTIwAI-/0/1769373323387?e=2147483647&amp;v=beta&amp;t=_HgE9TaIyAQyh-y4HBlwO2GUTci6O2gcjLtbcankeRM" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/">abstractnonsense.xyz</a> | <a href="https://lobste.rs/s/8fqdvr/can_regex_match_valid_card_numbers">discussion</a></small></p><hr/><p>A Deterministic Finite Automaton (DFA) can be constructed to recognize the infinite language of numbers satisfying the Luhn check digit algorithm. This mathematical construction enables the derivation of a regular expression that validates the parity-based checksum used in credit card numbers.</p><p>Converting the DFA into a regular expression through the Brzozowski algebraic method causes a significant combinatorial explosion. The resulting regexes for even and odd-length strings reach lengths of approximately 32 million and 48 million characters, respectively.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQFteqNt0ffymw/article-cover_image-shrink_720_1280/B4DZv23kTTIwAI-/0/1769373323387?e=2147483647&v=beta&t=_HgE9TaIyAQyh-y4HBlwO2GUTci6O2gcjLtbcankeRM" /></p><hr/><small>13 Sep 2026, 23:13 UTC | #21010</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple's iPhone Duo to Mainstream Foldable Phones</title>
-    <link href="https://www.bloomberg.com/news/newsletters/2026-09-13/apple-s-iphone-duo-will-make-foldable-phones-the-new-normal-apple-store-revamp-mtzvsb60?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTMwODY5OCwiZXhwIjoxNzg5OTEzNDk4LCJhcnRpY2xlSWQiOiJUTEIyVzFLR1pBSVcwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.dri64NdyRwgDiXaD_qtG-FaYE-GL5JknztlHxg_bD9I" rel="alternate" />
-    <id>https://www.bloomberg.com/news/newsletters/2026-09-13/apple-s-iphone-duo-will-make-foldable-phones-the-new-normal-apple-store-revamp-mtzvsb60?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTMwODY5OCwiZXhwIjoxNzg5OTEzNDk4LCJhcnRpY2xlSWQiOiJUTEIyVzFLR1pBSVcwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.dri64NdyRwgDiXaD_qtG-FaYE-GL5JknztlHxg_bD9I::v239</id>
-    <published>2026-09-13T18:23:00+00:00</published>
-    <updated>2026-09-13T18:23:00+00:00</updated>
-    <media:thumbnail url="https://cdn.shopify.com/s/files/1/0482/3957/5208/files/iPhone_fold_2026_Dimensions-_3_4.webp?v=1766078258" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/newsletters/2026-09-13/apple-s-iphone-duo-will-make-foldable-phones-the-new-normal-apple-store-revamp-mtzvsb60?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTMwODY5OCwiZXhwIjoxNzg5OTEzNDk4LCJhcnRpY2xlSWQiOiJUTEIyVzFLR1pBSVcwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.dri64NdyRwgDiXaD_qtG-FaYE-GL5JknztlHxg_bD9I">bloomberg.com</a> | <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/">source</a> | <a href="https://news.ycombinator.com/item?id=49630964">hacker news</a></small></p><hr/><p>Apple's iPhone Duo is expected to bring foldable smartphones into the mainstream, mirroring the market impact of the original iPhone. In addition to the foldable device, the company is reportedly planning to launch game controllers under the Beats brand and is preparing a revamp of its retail stores.</p><p>The iPhone Duo is anticipated to be a historic product for the company. These developments reflect a broader strategy to expand Apple's ecosystem through new hardware categories and significant changes to its physical retail presence.</p><p><img src="https://cdn.shopify.com/s/files/1/0482/3957/5208/files/iPhone_fold_2026_Dimensions-_3_4.webp?v=1766078258" /></p><hr/><small>13 Sep 2026, 22:02 UTC | #20979</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Origin of the x86 ud2 Instruction Name</title>
-    <link href="https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689" rel="alternate" />
-    <id>https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689::v239</id>
-    <published>2026-09-13T18:21:00+00:00</published>
-    <updated>2026-09-13T18:21:00+00:00</updated>
-    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/467125379/original/6f7a01b82c/1702249368?v=1" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689">devblogs.microsoft.com</a> | <a href="https://news.ycombinator.com/item?id=49683262">hacker news</a></small></p><hr/><p>The ud2 instruction is an architecturally undefined x86 instruction designed to trigger an "invalid opcode" exception. Compilers use it to mark unreachable code, ensuring that if execution flow erroneously reaches such a point, the program crashes immediately rather than executing unintended instructions.</p><p>The instruction's name is a result of the retroactive naming of previous, unofficial methods used to trigger the exception. Developers previously relied on the 0F FF and 0F B9 byte sequences to force invalid opcodes; as Intel formalized these behaviors, the 0F FF and 0F B9 sequences were designated ud0 and ud1, respectively, leaving ud2 as the standard, parameter-free instruction.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/467125379/original/6f7a01b82c/1702249368?v=1" /></p><hr/><small>13 Sep 2026, 21:39 UTC | #21007</small>]]></content>
-  </entry>
-  <entry>
-    <title>Odin Programming Language Compared to Go</title>
-    <link href="https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/" rel="alternate" />
-    <id>https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/::v239</id>
-    <published>2026-09-13T18:18:00+00:00</published>
-    <updated>2026-09-13T18:18:00+00:00</updated>
-    <media:thumbnail url="https://ferdowsi.cloud/blog/wp-content/uploads/2025/10/what-is-the-go-programming-language.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/">rm4n0s.github.io</a> | <a href="https://lobste.rs/s/ytc27d/golang_developers_should_try_odin">discussion</a></small></p><hr/><p>Odin is a systems programming language that combines the simplicity of Golang with low-level control through manual memory management and array programming. It utilizes language directives and attributes to manage tasks typically handled by a garbage collector or a complex runtime, focusing on high-performance, data-oriented design.</p><p>The language implements error handling using unions and enums to create structured, traceable error trees. For concurrency and abstraction, Odin provides alternatives to Go's goroutines and interfaces by using manual threading models and struct-based composition to ensure explicit control over system resources.</p><p><img src="https://ferdowsi.cloud/blog/wp-content/uploads/2025/10/what-is-the-go-programming-language.webp" /></p><hr/><small>13 Sep 2026, 21:21 UTC | #21005</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rust Stabilizes Never Type</title>
-    <link href="https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/" rel="alternate" />
-    <id>https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/::v239</id>
-    <published>2026-09-13T18:17:00+00:00</published>
-    <updated>2026-09-13T18:17:00+00:00</updated>
-    <media:thumbnail url="https://cdn.shopaccino.com/igmguru/articles/online-rust-compiler-2563048025691934_l.webp?v=548" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/">lwn.net</a> | <a href="https://lobste.rs/s/felv2m/stabilizing_rust_s_never_type">discussion</a> | <a href="https://news.ycombinator.com/item?id=49625056">hacker news</a></small></p><hr/><p>Rust is stabilizing its "never" type (`!`), which represents values that can never occur or functions that never return. The feature enables more efficient generic code by allowing the compiler to optimize away unreachable error branches in infallible conversions and simplifies type inference for expressions like infinite loops. As part of this update, the standard library's `Infallible` type will become a type alias for the never type.</p><p>The change introduces a breaking change in how the compiler handles type inference fallback, shifting the default from the unit type `()` to `!`. While this could impact several thousand crates, many have already been addressed through community patches or backports discovered using the `crater` tool. Developers can resolve potential compilation errors by explicitly specifying return types or updating to supported dependency versions.</p><p><img src="https://cdn.shopaccino.com/igmguru/articles/online-rust-compiler-2563048025691934_l.webp?v=548" /></p><hr/><small>13 Sep 2026, 21:18 UTC | #20999</small>]]></content>
   </entry>
 </feed>
