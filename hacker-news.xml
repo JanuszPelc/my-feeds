@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-18T09:53:00+00:00</updated>
+  <updated>2026-09-18T12:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Challenges of Passkey Adoption for Individual Users</title>
+    <link href="https://hawksley.dev/blog/i-dont-like-passkeys" rel="alternate" />
+    <id>https://hawksley.dev/blog/i-dont-like-passkeys::v239</id>
+    <published>2026-09-18T12:07:00+00:00</published>
+    <updated>2026-09-18T12:07:00+00:00</updated>
+    <media:thumbnail url="https://hawksley.dev/blog/i-dont-like-passkeys/google-skip-password.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://hawksley.dev/blog/i-dont-like-passkeys">hawksley.dev</a> | <a href="https://news.ycombinator.com/item?id=49753211">hacker news</a></small></p><hr/><p>Passkeys offer robust protection against phishing and data breaches via asymmetric cryptography, making them highly effective for corporate environments. For individual users, however, the technology introduces risks such as permanent account lockout from lost devices, heavy dependency on centralized providers like Apple or Google, and limited interoperability between hardware keys and third-party password managers.</p><p>The authentication ecosystem remains fragmented, with inconsistent user experiences for third-party tools and unreliability in cross-device login methods. Utilizing unique passwords stored in third-party managers paired with independent TOTP applications currently provides more user control and flexibility than the evolving passkey landscape.</p><p><img src="https://hawksley.dev/blog/i-dont-like-passkeys/google-skip-password.png" /></p><hr/><small>18 Sep 2026, 14:34 UTC | #21574</small>]]></content>
+  </entry>
   <entry>
     <title>FiiO Releases FT15 Planar Headphones</title>
     <link href="https://musictech.com/news/gear/fiio-ft-15-headphones/" rel="alternate" />
@@ -928,14 +937,5 @@
     <updated>2026-09-13T14:39:00+00:00</updated>
     <media:thumbnail url="https://icm.museum/images/about1.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://icm.museum/">icm.museum</a> | <a href="https://news.ycombinator.com/item?id=49679459">hacker news</a></small></p><hr/><p>The Interim Computer Museum (ICM) is a 501(c)(3) non-profit organization that preserves computing history through interactive exhibits. These displays use vintage hardware with modern enhancements to provide hands-on experiences of technological evolution.</p><p>In partnership with SDF Public Access UNIX System, Inc., the museum relies on membership and donations to fund artifact preservation and community events. The organization focuses on bridging the gap between historical computing technology and the present day.</p><p><img src="https://icm.museum/images/about1.jpg" /></p><hr/><small>13 Sep 2026, 19:19 UTC | #20994</small>]]></content>
-  </entry>
-  <entry>
-    <title>Revolut Confirms Data Breach via Fake Government Requests</title>
-    <link href="https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/::v239</id>
-    <published>2026-09-13T14:35:00+00:00</published>
-    <updated>2026-09-13T14:35:00+00:00</updated>
-    <media:thumbnail url="https://www.xcitium.com/blog/wp-content/uploads/2025/09/what-is-data-breach.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=49682087">hacker news</a></small></p><hr/><p>Revolut confirmed a data breach in which sensitive customer information was disclosed to an unauthorized third party following fraudulent requests sent from legitimate government agency email domains. The exposed data includes identity documents, contact information, and potentially verification selfies, account statements, and transaction histories.</p><p>The company stated that a limited number of customers were impacted and that customer funds and systems remain unaffected. The incident, which reportedly targeted high-net-worth individuals, occurs as Revolut expands its global banking footprint and evaluates a potential public listing.</p><p><img src="https://www.xcitium.com/blog/wp-content/uploads/2025/09/what-is-data-breach.png" /></p><hr/><small>13 Sep 2026, 19:04 UTC | #20993</small>]]></content>
   </entry>
 </feed>
