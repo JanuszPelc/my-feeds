@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-18T17:24:00+00:00</updated>
+  <updated>2026-09-18T21:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Disney Appoints Karandeep Anand as Its First Chief Technology Officer</title>
+    <link href="https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/::v239</id>
+    <published>2026-09-18T21:03:00+00:00</published>
+    <updated>2026-09-18T21:03:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?w=1024" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/">techcrunch.com</a> | <a href="https://www.businesswire.com/news/home/20260918458816/en/The-Walt-Disney-Company-Names-Karandeep-Anand-to-Newly-Created-Role-of-Chief-Technology-Officer">source</a></small></p><hr/><p>Disney has appointed Karandeep Anand, the former CEO of Character.AI, as its first Chief Technology Officer. The appointment, which is expected to take effect in October, aims to strengthen the company's technological focus under CEO Josh D'Amaro. As part of the transition, several members of Character.AI's technical team are expected to join Disney.</p><p>The move follows a period of legal tension between Disney and Character.AI, including a 2025 cease and desist letter accusing the startup of infringing on copyrighted characters. The hiring signals Disney's intent to accelerate its adoption and development of new technologies.</p><p><img src="https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?w=1024" /></p><hr/><small>18 Sep 2026, 23:05 UTC | #21610</small>]]></content>
+  </entry>
+  <entry>
+    <title>Gavin Newsom Issues Executive Order to Strengthen AI Safety and Security Oversight</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-18/newsom-pitches-ai-kill-switch-extra-oversight-in-california" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-18/newsom-pitches-ai-kill-switch-extra-oversight-in-california::v239</id>
+    <published>2026-09-18T21:02:00+00:00</published>
+    <updated>2026-09-18T21:02:00+00:00</updated>
+    <media:thumbnail url="https://static.wixstatic.com/media/ca2bb1_99e1d3445d05436fb3ffbcbf1daed644~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ca2bb1_99e1d3445d05436fb3ffbcbf1daed644~mv2.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-18/newsom-pitches-ai-kill-switch-extra-oversight-in-california">bloomberg.com</a> | <a href="https://www.gov.ca.gov/2026/09/18/governor-newsom-issues-executive-order-to-accelerate-independent-oversight-and-advance-the-creation-of-an-ai-kill-switch/">source</a></small></p><hr/><p>California Governor Gavin Newsom has issued an executive order to convene a working group of experts to develop a guide for reinforcing the state's artificial intelligence safety and security laws. The group is tasked with delivering its recommendations within two months, exploring measures to increase oversight and potentially implementing an "AI kill switch" to mitigate technological risks.</p><p>This directive aims to accelerate the implementation of recently signed AI laws and address the risks associated with AI development within both the private sector and state government. The move follows previous legislative efforts to regulate the technology and seeks to establish robust safety frameworks as artificial intelligence deployment expands.</p><p><img src="https://static.wixstatic.com/media/ca2bb1_99e1d3445d05436fb3ffbcbf1daed644~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ca2bb1_99e1d3445d05436fb3ffbcbf1daed644~mv2.jpg" /></p><hr/><small>18 Sep 2026, 23:04 UTC | #21594</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Proposes AI Safety Coordination and Automattic Boardroom Dispute</title>
     <link href="https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/" rel="alternate" />
