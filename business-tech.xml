@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-18T21:14:00+00:00</updated>
+  <updated>2026-09-18T21:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AMI Labs and World Labs Maintain Secrecy Over World Model Product Plans</title>
+    <link href="https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/::v239</id>
+    <published>2026-09-18T21:15:00+00:00</published>
+    <updated>2026-09-18T21:15:00+00:00</updated>
+    <media:thumbnail url="https://arxiv.org/html/2606.04130v1/figs/latact_worldmodel.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/">techcrunch.com</a></small></p><hr/><p>Leading world model companies, including Yann LeCun’s AMI Labs and Fei-Fei Li’s World Labs, are maintaining strict secrecy regarding their product roadmaps and commercialization timelines. Although these labs are developing AI to automate spatial intelligence for applications in robotics and interactive video, executives have stated they are currently in a research-and-building phase and will not disclose specific product plans.</p><p>This lack of transparency extends to specialized suppliers like Physicl, which reports that its clients have not disclosed how their data is being utilized. This strategic silence may be intended to delay competition from major AI labs as the commercial landscape for spatial intelligence begins to coalesce.</p><p><img src="https://arxiv.org/html/2606.04130v1/figs/latact_worldmodel.png" /></p><hr/><small>19 Sep 2026, 01:21 UTC | #21623</small>]]></content>
+  </entry>
   <entry>
     <title>AI-Assisted Intelligence Error Nearly Triggered US-China Conflict</title>
     <link href="https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship" rel="alternate" />

@@ -965,13 +965,4 @@
     <media:thumbnail url="https://www.uploadvr.com/content/images/size/w2560/format/webp/2025/10/IMG_0386.jpeg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://developer.apple.com/accessories/dimensional-drawings/">developer.apple.com</a> | <a href="https://news.ycombinator.com/item?id=49690174">hacker news</a></small></p><hr/><p>These resources provide accessory manufacturers with precise geometric blueprints and technical data. The documentation is intended to assist in the development of electronic accessories that connect to Apple products.</p><p>The specifications are designed for mechanical engineers and industrial designers to ensure physical compatibility and manufacturing precision. This information is a key component of Apple's hardware accessory ecosystem.</p><p><img src="https://www.uploadvr.com/content/images/size/w2560/format/webp/2025/10/IMG_0386.jpeg" /></p><hr/><small>14 Sep 2026, 09:07 UTC | #21037</small>]]></content>
   </entry>
-  <entry>
-    <title>An Analysis of JPEG XL's Suitability for the Web</title>
-    <link href="https://giannirosato.com/blog/post/case-against-jxl" rel="alternate" />
-    <id>https://giannirosato.com/blog/post/case-against-jxl::v239</id>
-    <published>2026-09-14T01:19:00+00:00</published>
-    <updated>2026-09-14T01:19:00+00:00</updated>
-    <media:thumbnail url="https://winpoin.com/wp-content/uploads/2026/01/image-50.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://giannirosato.com/blog/post/case-against-jxl">giannirosato.com</a> | <a href="https://lobste.rs/s/e1lcnf/case_against_jpeg_xl">discussion</a> | <a href="https://news.ycombinator.com/item?id=49690554">hacker news</a></small></p><hr/><p>JPEG XL lacks specialized coding tools, such as deblocking filters and directional prediction, that allow competitors like AVIF to achieve higher efficiency. Its lossless compression advantages are marginal for typical Web content, and its recompression feature can lead to significantly higher decode times and increased exposure to "bomb" vulnerabilities on low-end devices.</p><p>Advocacy for JPEG XL is driven by a push for browser diversity and open standards following Google's previous decision to deprecate the format. However, its broad design—optimized for many use cases rather than the specific constraints of the Web—may prevent it from offering significant advantages in bandwidth, decoding speed, or security over WebP and AVIF.</p><p><img src="https://winpoin.com/wp-content/uploads/2026/01/image-50.png" /></p><hr/><small>14 Sep 2026, 08:49 UTC | #21035</small>]]></content>
-  </entry>
 </feed>
