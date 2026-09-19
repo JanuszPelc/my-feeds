@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-19T01:01:00+00:00</updated>
+  <updated>2026-09-19T01:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Infillion Acquires Foursquare</title>
+    <link href="https://www.axios.com/2026/09/18/infillion-acquires-foursquare-location-data" rel="alternate" />
+    <id>https://www.axios.com/2026/09/18/infillion-acquires-foursquare-location-data::v239</id>
+    <published>2026-09-19T01:04:00+00:00</published>
+    <updated>2026-09-19T01:04:00+00:00</updated>
+    <media:thumbnail url="https://images.axios.com/OSAmsv4Fd8b90ZLIk4T9NuFiudg=/1920x1080/smart/2024/04/10/173445-1712770485790.jpg?w=3840" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/18/infillion-acquires-foursquare-location-data">axios.com</a></small></p><hr/><p>Infillion is acquiring the entirety of location data company Foursquare, which will continue to operate as an independent brand. The acquisition was confirmed by Foursquare founder and executive chairman Rob Emrich.</p><p>Foursquare will continue to sell its data to various clients, including those utilizing competing advertising platforms.</p><p><img src="https://images.axios.com/OSAmsv4Fd8b90ZLIk4T9NuFiudg=/1920x1080/smart/2024/04/10/173445-1712770485790.jpg?w=3840" /></p><hr/><small>19 Sep 2026, 06:59 UTC | #21645</small>]]></content>
+  </entry>
   <entry>
     <title>India Mandates Spam Report Sharing from Caller ID Apps to Telecom Operators</title>
     <link href="https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/" rel="alternate" />
