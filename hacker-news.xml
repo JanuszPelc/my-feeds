@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-18T22:17:00+00:00</updated>
+  <updated>2026-09-19T01:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Minimal Phone 2 Announced with Physical QWERTY Keyboard</title>
+    <link href="https://minimalcompany.com/" rel="alternate" />
+    <id>https://minimalcompany.com/::v239</id>
+    <published>2026-09-19T01:44:00+00:00</published>
+    <updated>2026-09-19T01:44:00+00:00</updated>
+    <media:thumbnail url="https://cdn.seattlebubbles.com/2025/12/IMG_7161_preview-1.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://minimalcompany.com/">minimalcompany.com</a> | <a href="https://minimalcompany.com/products/minimal-phone-2">source</a> | <a href="https://news.ycombinator.com/item?id=49749369">hacker news</a></small></p><hr/><p>Minimal Company has announced the Minimal Phone 2, a compact smartphone featuring a physical, backlit QWERTY keyboard and an aluminum unibody. The device runs a full version of Android, offering out-of-the-box compatibility with Google Play Services, while also providing an official de-Googled ROM for privacy-conscious users.</p><p>The device is scheduled to ship in December 2026 with prices starting at $599. Notable hardware specifications include a 50 MP rear camera, a programmable hardware switch, a 3.5 mm headphone jack, and an LED notification indicator.</p><p><img src="https://cdn.seattlebubbles.com/2025/12/IMG_7161_preview-1.jpeg" /></p><hr/><small>19 Sep 2026, 09:19 UTC | #21659</small>]]></content>
+  </entry>
   <entry>
     <title>Cloudflare Reclaims 100TB of RAM via Mathematical and Rust Optimizations</title>
     <link href="https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/" rel="alternate" />

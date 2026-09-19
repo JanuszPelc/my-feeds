@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-18T13:29:00+00:00</updated>
+  <updated>2026-09-19T01:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Leopardus tilcayo Identified as New Cat Species in Bolivia</title>
+    <link href="https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years" rel="alternate" />
+    <id>https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years::v239</id>
+    <published>2026-09-19T01:45:00+00:00</published>
+    <updated>2026-09-19T01:45:00+00:00</updated>
+    <media:thumbnail url="https://cdn-cabinet.ua.news/uploads/images/new_wild_cat_species_leopardus_tilcayo_b_1789713236098.webp?7883806" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years">nationalgeographic.com</a> | <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(26)01110-3">source</a> | <a href="https://news.ycombinator.com/item?id=49744704">hacker news</a></small></p><hr/><p>Researchers have identified a new species of wild cat, Leopardus tilcayo, in the Yungas forest of Bolivia. The findings, published in the journal Current Biology, mark the first new cat species discovered in more than 100 years. Genomic analysis indicates that the feline diverged from the Leopardus tigrinus lineage approximately 1.4 million years ago.</p><p>This discovery demonstrates how genomic analysis can reveal species that are visually indistinguishable, a method researchers hope to use to find more hidden cat species worldwide. These findings have significant conservation implications, as the identification of distinct species often necessitates more targeted and urgent protection strategies for localized populations.</p><p><img src="https://cdn-cabinet.ua.news/uploads/images/new_wild_cat_species_leopardus_tilcayo_b_1789713236098.webp?7883806" /></p><hr/><small>19 Sep 2026, 09:23 UTC | #21660</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Establishes Bay Area Wet Lab for Biology Research</title>
     <link href="https://www.reuters.com/world/anthropic-quietly-sets-up-biology-lab-it-ramps-ai-drug-program-2026-09-18/" rel="alternate" />
