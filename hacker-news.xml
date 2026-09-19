@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-19T12:17:00+00:00</updated>
+  <updated>2026-09-19T12:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Secret Life of Circuits Book Now Available</title>
+    <link href="https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here" rel="alternate" />
+    <id>https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here::v239</id>
+    <published>2026-09-19T12:21:00+00:00</published>
+    <updated>2026-09-19T12:21:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!oRkZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F391700b7-a444-4e83-97cb-4b182d5094b9_2000x1334.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here">blog.coredump.cx</a> | <a href="https://nostarch.com/secret-life-of-circuits">source</a> | <a href="https://lobste.rs/s/sn8voe/secret_life_circuits_is_here">discussion</a> | <a href="https://news.ycombinator.com/item?id=49720143">hacker news</a></small></p><hr/><p>Michal Zalewski's book, The Secret Life of Circuits, is now available for order through No Starch Press and retailers including Amazon and Barnes &amp; Noble. The text focuses on practical electronic circuit design, emphasizing physics and modern problem-solving rather than purely theoretical mathematics or historical study.</p><p>The hardcover edition features nearly 300 full-color illustrations and diagrams. While the publisher is currently shipping direct orders, third-party retailers like Amazon are expected to fulfill orders in October.</p><p><img src="https://substackcdn.com/image/fetch/$s_!oRkZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F391700b7-a444-4e83-97cb-4b182d5094b9_2000x1334.jpeg" /></p><hr/><small>19 Sep 2026, 16:24 UTC | #21685</small>]]></content>
+  </entry>
   <entry>
     <title>Sudo and OpenDoas Implement Session Start Time to Secure Timestamp Files</title>
     <link href="https://π.duncano.de/sudo-doas-timestamp-files" rel="alternate" />
