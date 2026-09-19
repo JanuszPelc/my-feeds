@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-19T09:21:00+00:00</updated>
+  <updated>2026-09-19T13:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>OpenLoco Releases Version 26.09</title>
+    <link href="https://openloco.io/news/2026/09/openloco-v26.09.html" rel="alternate" />
+    <id>https://openloco.io/news/2026/09/openloco-v26.09.html::v239</id>
+    <published>2026-09-19T13:46:00+00:00</published>
+    <updated>2026-09-19T13:46:00+00:00</updated>
+    <media:thumbnail url="https://openloco.io/assets/img/25.09/rdstatl3.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://openloco.io/news/2026/09/openloco-v26.09.html">openloco.io</a> | <a href="https://lobste.rs/s/c0ei1a/openloco_version_26_09">discussion</a></small></p><hr/><p>OpenLoco version 26.09 introduces a significant content update via its Open Graphics sub-project, focusing on the North American Expansion. This release adds dozens of new assets, including various locomotives, passenger cars, buses, and station objects, while also reworking sprites and models for several existing vehicles.</p><p>The update also brings quality-of-life improvements such as dimension tooltips for building tools and enhanced Linux support through new data directory locations and an AppImage build. Additional changes include a toolbar rework to prepare for widescreen layout support and various bug fixes related to signal placement and scenario exploits.</p><p><img src="https://openloco.io/assets/img/25.09/rdstatl3.png" /></p><hr/><small>19 Sep 2026, 18:18 UTC | #21693</small>]]></content>
+  </entry>
   <entry>
     <title>Using Specific Design Styles to Create Diverse AI-Generated Event Posters</title>
     <link href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html" rel="alternate" />
@@ -194,14 +203,5 @@
     <updated>2026-09-14T18:36:00+00:00</updated>
     <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0031.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/994267/steam-frame-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjVxUTRYR3pEbkMiLCJwIjoiL3RlY2gvOTk0MjY3L3N0ZWFtLWZyYW1lLXJldmlldyIsImV4cCI6MTc4OTgzNzg0NywiaWF0IjoxNzg5NDA1ODQ4fQ.AvNzVQPpuoQDf5HH3Y2PRC8AD6H66aZ7Pnu26NWxfr0&utm_medium=gift-link">theverge.com</a> | <a href="https://store.steampowered.com/sale/steamframe">source</a> | <a href="https://news.ycombinator.com/item?id=49700366">hacker news</a></small></p><hr/><p>Priced at $1,059, the Steam Frame is a lightweight, wearable spatial computer designed for gaming. It uses a Snapdragon 8 Gen 3 chip to stream games from a desktop PC, play standalone VR titles, and run select Windows applications via emulation.</p><p>While the headset is remarkably comfortable and offers high-resolution visuals, it currently functions as an experimental device prone to software crashes and system instability. Additionally, the hardware provides a relatively short battery life of one to two hours.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268694_Steam_Frame_KMcClellan_0031.jpg?quality=90&strip=all&crop=0,0,100,100" /></p><hr/><small>15 Sep 2026, 00:31 UTC | #21101</small>]]></content>
-  </entry>
-  <entry>
-    <title>Valve Announces Steam Frame VR Headset Pricing</title>
-    <link href="https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059" rel="alternate" />
-    <id>https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059::v239</id>
-    <published>2026-09-14T18:09:00+00:00</published>
-    <updated>2026-09-14T18:09:00+00:00</updated>
-    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltef401f4ad7c19c3a/6aa836dc490d64fbcb86d21b/SteamFrameFeatured.jpg?width=720&amp;quality=80&amp;disable=upscale" />
-    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059">gamedeveloper.com</a> | <a href="https://store.steampowered.com/hardware/steamframe">source</a> | <a href="https://news.ycombinator.com/item?id=49700661">hacker news</a></small></p><hr/><p>Valve's Steam Frame VR headset will retail for $1,059 for the 256GB model and $1,200 for the 1TB model. The device supports standalone operation via SteamOS or tethered use with a computer. Additional accessories include a $29 standalone power supply and a $59 ergonomic kit.</p><p>The pricing is influenced by a computer memory shortage driven by increased demand from AI firms. Unlike competitors like Meta, Valve is not subsidizing hardware costs to drive software sales. Developers can acquire device kits through the Steam Partner dashboard.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltef401f4ad7c19c3a/6aa836dc490d64fbcb86d21b/SteamFrameFeatured.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>14 Sep 2026, 23:21 UTC | #21106</small>]]></content>
   </entry>
 </feed>
