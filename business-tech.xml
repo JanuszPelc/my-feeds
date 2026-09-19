@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-19T09:23:00+00:00</updated>
+  <updated>2026-09-19T13:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Country Code Top-Level Domains and State Dissolution</title>
+    <link href="https://astrid.tech/2022/04/05/0/dead-tlds/" rel="alternate" />
+    <id>https://astrid.tech/2022/04/05/0/dead-tlds/::v239</id>
+    <published>2026-09-19T13:50:00+00:00</published>
+    <updated>2026-09-19T13:50:00+00:00</updated>
+    <media:thumbnail url="https://storage.googleapis.com/dopingcloud/blog/en/2022/04/Country-Domains.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://astrid.tech/2022/04/05/0/dead-tlds/">astrid.tech</a> | <a href="https://lobste.rs/s/q75kgo/what_happens_tlds_when_their_country">discussion</a></small></p><hr/><p>This article examines the fate of country code top-level domains (ccTLDs) during significant geopolitical shifts, such as state dissolution, annexation, or government changes. Historical examples including the collapse of the Soviet Union (.su), the breakup of Yugoslavia (.yu), and the reunification of Germany (.dd) show that domains may be terminated, transferred to successor states, or left in administrative limbo.</p><p>The outcome of a TLD's existence is tied to ICANN and IANA's recognition of a territory's governmental authority. The author suggests that modern geopolitical tensions in regions like Taiwan, Ukraine, and Hong Kong may result in TLD changes, where domain control serves as a tool for political recognition or the erasure of sovereignty.</p><p><img src="https://storage.googleapis.com/dopingcloud/blog/en/2022/04/Country-Domains.png" /></p><hr/><small>19 Sep 2026, 18:37 UTC | #21695</small>]]></content>
+  </entry>
   <entry>
     <title>Wopke Hoekstra Rejects EU-wide Digital Services Tax Pending Global Multilateral Agreement</title>
     <link href="https://www.ft.com/content/e5a76494-71df-4ee0-a85f-b28f2c94ded6" rel="alternate" />
@@ -1138,14 +1147,5 @@
     <updated>2026-09-14T20:45:00+00:00</updated>
     <media:thumbnail url="https://images.financialexpressdigital.com/2026/05/openaiphone.jpg?w=1600" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/">techcrunch.com</a> | <a href="https://www.wsj.com/tech/openai-buys-startup-developing-smartphone-camera-63590370">source</a></small></p><hr/><p>OpenAI has acquired Glass Imaging, a startup specializing in smartphone camera technology, in a deal worth over $300 million. Founded by former Apple engineers, the Los Altos-based company uses neural networks to optimize image quality at the moment of capture, aiming to overcome physical sensor size constraints in mobile devices.</p><p>The acquisition aligns with rumors that OpenAI is developing its own hardware ecosystem, including smartphones, earbuds, and AI companion devices. Glass Imaging's leadership includes the team that developed Apple's Portrait Mode, signaling a strategic move to integrate advanced computational photography into OpenAI's hardware ambitions.</p><p><img src="https://images.financialexpressdigital.com/2026/05/openaiphone.jpg?w=1600" /></p><hr/><small>15 Sep 2026, 01:46 UTC | #21119</small>]]></content>
-  </entry>
-  <entry>
-    <title>Critique of Dario Amodei's 'We Must Pace the Frontier' Essay</title>
-    <link href="https://pop.rdi.sh/dario-please/" rel="alternate" />
-    <id>https://pop.rdi.sh/dario-please/::v239</id>
-    <published>2026-09-14T18:33:00+00:00</published>
-    <updated>2026-09-14T18:33:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/K7F6ohcBJus/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pop.rdi.sh/dario-please/">pop.rdi.sh</a> | <a href="https://darioamodei.com/post/we-must-pace-the-frontier">source</a> | <a href="https://news.ycombinator.com/item?id=49697893">hacker news</a></small></p><hr/><p>Anthropic CEO Dario Amodei’s "We Must Pace the Frontier" essay proposes slowing AI development to allow safety research to keep pace with model capabilities. This policy proposal includes regulating open-weight models and granting antitrust waivers to frontier labs, which critics argue are efforts to consolidate market power and gatekeep technology under the guise of safety and national security.</p><p>Warnings regarding AI-driven botnets and rapid reasoning self-improvement (RSI) are characterized as hyperbolic fear-mongering used to justify increased control. Additionally, the emphasis on China's potential AI lead is viewed as a tactic to evade independent, external regulatory oversight in favor of US-centric governance.</p><p><img src="https://i.ytimg.com/vi/K7F6ohcBJus/maxresdefault.jpg" /></p><hr/><small>14 Sep 2026, 23:53 UTC | #21128</small>]]></content>
   </entry>
 </feed>

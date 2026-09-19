@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-19T10:49:00+00:00</updated>
+  <updated>2026-09-19T13:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Grant Sanderson Advocates for Elevating the Status of Motivated Explanations in Mathematics</title>
+    <link href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/" rel="alternate" />
+    <id>https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/::v239</id>
+    <published>2026-09-19T13:49:00+00:00</published>
+    <updated>2026-09-19T13:49:00+00:00</updated>
+    <media:thumbnail url="https://terrytao.wordpress.com/wp-content/uploads/2026/09/image-1.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/">terrytao.wordpress.com</a> | <a href="https://news.ycombinator.com/item?id=49763928">hacker news</a></small></p><hr/><p>Mathematical communities should grant academic credit to "motivated explanations"—works aimed at fostering human understanding and intuition—on par with formal proofs. As AI becomes capable of generating proofs, the human capacity for providing context and intuitive reasoning becomes increasingly vital. These explanations focus on why a theorem is posed and its relationship to the surrounding mathematical landscape, rather than merely proving its veracity.</p><p>Treating "open exposition problems"—proven results that lack clear human understanding—as serious research objectives could help correct public misconceptions regarding the indispensability of mathematicians. Potential shifts to achieve this include adjusting PhD requirements, establishing dedicated journals for mathematical clarity, and creating formal awards for excellence in mathematical exposition.</p><p><img src="https://terrytao.wordpress.com/wp-content/uploads/2026/09/image-1.png" /></p><hr/><small>19 Sep 2026, 18:32 UTC | #21694</small>]]></content>
+  </entry>
   <entry>
     <title>Writing While Learning to Bridge Knowledge Gaps</title>
     <link href="https://purplesyringa.moe/blog/write-while-learning/" rel="alternate" />
