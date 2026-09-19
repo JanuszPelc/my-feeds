@@ -825,13 +825,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/soryno-tape-free.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/pinzu-releases-soryno-tape-free---tape-saturation-plug-in-for-windows-68521?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68521">kvraudio.com</a> | <a href="https://booth.pm/ja/items/8837676">source</a></small></p><hr/><p>Pinzu has launched a free VST3 tape saturation plugin for Windows 10 and 11, called SORYNO TAPE Free. The software provides real-time visual feedback via a dynamic transfer curve that illustrates saturation levels, a tape tone curve, and an aliasing readout.</p><p>The plugin features controls for drive, saturation type (Tape, Tube, or Transformer), mix, and an auto-gain function. A professional "Pro" version is currently in development, which is expected to include features such as tape speed, bias, wow and flutter, and Mid/Side processing.</p><p><img src="https://static.kvraudio.com/i/b/soryno-tape-free.png" /></p><hr/><small>14 Sep 2026, 09:31 UTC | #21041</small>]]></content>
   </entry>
-  <entry>
-    <title>Hermann Seib Updates VSTHost to v1.58 with ARM64 and CLAP Support</title>
-    <link href="https://www.kvraudio.com/news/hermann-seib-updates-vsthost-to-v1-58---arm64-and-clap-support-68525?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68525" rel="alternate" />
-    <id>https://www.kvraudio.com/news/hermann-seib-updates-vsthost-to-v1-58---arm64-and-clap-support-68525?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68525::v239</id>
-    <published>2026-09-14T01:45:00+00:00</published>
-    <updated>2026-09-14T01:45:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/vsthost.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/hermann-seib-updates-vsthost-to-v1-58---arm64-and-clap-support-68525?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68525">kvraudio.com</a> | <a href="https://www.hermannseib.com/english/vsthost.htm">source</a></small></p><hr/><p>Hermann Seib has released version 1.58 of VSTHost, a free Windows application used for hosting VST, VST3, and CLAP plugins. This update introduces native ARM64 support for Windows on ARM and adds compatibility for the CLAP plugin format.</p><p>The update also includes significant improvements to VST3 functionality alongside various bug fixes and performance enhancements for both 32-bit and 64-bit environments.</p><p><img src="https://static.kvraudio.com/i/b/vsthost.jpg" /></p><hr/><small>14 Sep 2026, 09:09 UTC | #21040</small>]]></content>
-  </entry>
 </feed>
