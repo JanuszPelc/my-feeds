@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-19T15:47:00+00:00</updated>
+  <updated>2026-09-19T16:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>The Rationalist Subculture and AI Safety Discourse</title>
+    <link href="https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/" rel="alternate" />
+    <id>https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/::v239</id>
+    <published>2026-09-19T16:12:00+00:00</published>
+    <updated>2026-09-19T16:12:00+00:00</updated>
+    <media:thumbnail url="https://images.financialexpressdigital.com/2026/09/jacob-coxon-anthropic-ai.jpg?w=1024" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/">iankduncan.com</a> | <a href="https://news.ycombinator.com/item?id=49746654">hacker news</a></small></p><hr/><p>The influence of the rationalist subculture—a community of thinkers and developers including figures like Eliezer Yudkowsky—extends to the global debate on AI safety and existential risk. Following the resignation of researcher Jacob Coxon from Anthropic, the movement's impact is traced from early philosophical essays and fanfiction to its current role in Silicon Valley and major AI laboratories.</p><p>Social and professional networks within this group are heavily integrated into the institutions seeking public trust for AI regulation. This interconnectedness links the community's unique rituals, social ties, and intellectual methods directly to the contemporary debate over whether artificial intelligence poses a threat to human survival.</p><p><img src="https://images.financialexpressdigital.com/2026/09/jacob-coxon-anthropic-ai.jpg?w=1024" /></p><hr/><small>19 Sep 2026, 21:36 UTC | #21701</small>]]></content>
+  </entry>
   <entry>
     <title>Discerning Fact from Fiction in AI Safety Discussions</title>
     <link href="https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/" rel="alternate" />
