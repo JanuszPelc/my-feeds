@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-18T21:04:00+00:00</updated>
+  <updated>2026-09-18T21:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>SonicModeler Updates Syntropy to v2.4</title>
+    <link href="https://www.kvraudio.com/news/sonicmodeler-updates-syntropy-to-v2-4-with-more-expressive-sound-and-390-presets-68605?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68605" rel="alternate" />
+    <id>https://www.kvraudio.com/news/sonicmodeler-updates-syntropy-to-v2-4-with-more-expressive-sound-and-390-presets-68605?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68605::v239</id>
+    <published>2026-09-18T21:18:00+00:00</published>
+    <updated>2026-09-18T21:18:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/1.1784626176.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/sonicmodeler-updates-syntropy-to-v2-4-with-more-expressive-sound-and-390-presets-68605?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68605">kvraudio.com</a> | <a href="https://www.sonicmodeler.com/">source</a></small></p><hr/><p>SonicModeler has updated its Syntropy synthesizer to version 2.4 for Windows and macOS, introducing 390 presets and expanded synthesis capabilities. The update adds per-preset random phase and pitch jitter for organic oscillator movement and enables the integration of generated sound with WAV files and live audio input.</p><p>The release includes an "FX Band" feature for frequency-specific effect processing, reorderable effect chains, and tempo-synchronized delay. Interface improvements include adjustable UI zoom, syntax-color themes, and a compact view setting for managing multiple plugin instances.</p><p><img src="https://static.kvraudio.com/i/b/1.1784626176.png" /></p><hr/><small>19 Sep 2026, 02:15 UTC | #21640</small>]]></content>
+  </entry>
+  <entry>
+    <title>Impetus Software Releases Impetus DAW Control Surface for MPE Keyboards</title>
+    <link href="https://www.kvraudio.com/news/impetus-software-releases-impetus---turn-an-mpe-keyboard-into-a-daw-control-surface-68645?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68645" rel="alternate" />
+    <id>https://www.kvraudio.com/news/impetus-software-releases-impetus---turn-an-mpe-keyboard-into-a-daw-control-surface-68645?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68645::v239</id>
+    <published>2026-09-18T21:17:00+00:00</published>
+    <updated>2026-09-18T21:17:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/01_main_window.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/impetus-software-releases-impetus---turn-an-mpe-keyboard-into-a-daw-control-surface-68645?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68645">kvraudio.com</a> | <a href="https://impetus.software/">source</a></small></p><hr/><p>Impetus Software has released Impetus, a macOS application that converts MPE-capable keyboards into DAW control surfaces. The software maps the Y-axis slide gesture of MPE controllers to eight bankable mixer faders, and allows modifier keys to switch those faders to pan, solo, mute, and record arm.</p><p>By utilizing HUI and Mackie Control protocols, the application functions as a dedicated control surface within DAWs like Ableton Live, Logic Pro, and Pro Tools. Supported hardware includes the ROLI Seaboard series and Keith McMillen Instruments K-Board Pro 4. The software is available for $99, with a 14-day free trial offered for macOS 13 or later on Apple Silicon.</p><p><img src="https://static.kvraudio.com/i/b/01_main_window.png" /></p><hr/><small>19 Sep 2026, 02:14 UTC | #21639</small>]]></content>
+  </entry>
   <entry>
     <title>Authentic Soundware Releases Space Age Strings for Kontakt</title>
     <link href="https://www.kvraudio.com/news/authentic-soundware-release-space-age-strings-for-kontakt-68597?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68597" rel="alternate" />
