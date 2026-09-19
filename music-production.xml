@@ -699,40 +699,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/kellyclarksynthscreenshot4.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dawjunkie-releases-kelly-clarksynth-for-windows-and-macos-68548?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68548">kvraudio.com</a> | <a href="https://dawjunkie.com/op/kelly-clarksynth/">source</a></small></p><hr/><p>DAWJunkie has released Kelly Clarksynth, a free virtual instrument plugin available for Windows and macOS. The synthesizer uses vocal samples as primary sound sources, allowing users to manipulate the texture and character of the human voice through a standard synthesis workflow.</p><p>The plugin includes a melodic arpeggiator, built-in effects, and a factory preset library containing pads, leads, and atmospheric textures. It is compatible with VST3, AU, and AAX plugin formats.</p><p><img src="https://static.kvraudio.com/i/b/kellyclarksynthscreenshot4.jpg" /></p><hr/><small>14 Sep 2026, 20:21 UTC | #21080</small>]]></content>
   </entry>
-  <entry>
-    <title>Spongefork Releases ShadowTag 2.1 Update for macOS</title>
-    <link href="https://www.kvraudio.com/news/spongefork-updates-shadowtag-to-v2-1---adds-project-wide-metadata-find-and-replace-and-mxf-support-for-macos-68513?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68513" rel="alternate" />
-    <id>https://www.kvraudio.com/news/spongefork-updates-shadowtag-to-v2-1---adds-project-wide-metadata-find-and-replace-and-mxf-support-for-macos-68513?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68513::v239</id>
-    <published>2026-09-14T15:44:00+00:00</published>
-    <updated>2026-09-14T15:44:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/06_shadowtag.1789222492.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/spongefork-updates-shadowtag-to-v2-1---adds-project-wide-metadata-find-and-replace-and-mxf-support-for-macos-68513?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68513">kvraudio.com</a> | <a href="https://spongefork.com/shadowtag">source</a></small></p><hr/><p>Spongefork has released ShadowTag 2.1, an update to its audio metadata editor for macOS. The update introduces project-wide find and replace functionality for various metadata fields, read-only MXF support via Apple's Pro Video Formats, and performance optimizations for loading large playlists and saving tags to large MP4 and M4A files.</p><p>While core features such as full-text search and audio analysis remain free, a $99 "Pro" version is available that enables metadata writing, batch audio conversion, and CSV export. The update also includes UI improvements, such as a draggable media preview divider and a dedicated UCS renaming dialog.</p><p><img src="https://static.kvraudio.com/i/b/06_shadowtag.1789222492.png" /></p><hr/><small>14 Sep 2026, 19:51 UTC | #21071</small>]]></content>
-  </entry>
-  <entry>
-    <title>Helio Open-Source Music Sequencer Released</title>
-    <link href="https://bedroomproducersblog.com/2026/09/14/helio-music-sequencer/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/14/helio-music-sequencer/::v239</id>
-    <published>2026-09-14T15:38:00+00:00</published>
-    <updated>2026-09-14T15:38:00+00:00</updated>
-    <media:thumbnail url="https://tom-doerr.github.io/repo_posts/assets/helio_fm_helio_sequencer_20260108_150008_295_20260108_150023_e36c47.png" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/14/helio-music-sequencer/">bedroomproducersblog.com</a> | <a href="https://helio.fm/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/14/helio-music-sequencer/#respond">discussion</a></small></p><hr/><p>Helio is a free and open-source music sequencer designed for distraction-free composition. The software focuses on facilitating experimentation with microtonal temperaments and exotic scales, serving as a tool for sketching musical ideas rather than acting as a full-scale Digital Audio Workstation (DAW).</p><p>Targeted at hobbyist composers, indie artists, and game developers, Helio is available for desktop and mobile platforms. The software is distributed as a lightweight, portable executable with a disk footprint of less than 10 MB.</p><p><img src="https://tom-doerr.github.io/repo_posts/assets/helio_fm_helio_sequencer_20260108_150008_295_20260108_150023_e36c47.png" /></p><hr/><small>14 Sep 2026, 19:19 UTC | #21087</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sympiano Releases Free Piano-Modeling Reverb Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/14/sympiano-grand-piano/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/14/sympiano-grand-piano/::v239</id>
-    <published>2026-09-14T15:37:00+00:00</published>
-    <updated>2026-09-14T15:37:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/lzdGON9opdU/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/14/sympiano-grand-piano/">bedroomproducersblog.com</a> | <a href="https://www.sympiano.com/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/14/sympiano-grand-piano/#respond">discussion</a></small></p><hr/><p>Available in AU, VST3, and standalone formats for macOS and Windows, this free reverb plugin uses physical modeling to simulate the sympathetic resonance of 230 piano strings. It features two distinct models: Grand and Upright.</p><p>The plugin provides an organic way to apply piano-based acoustics to audio tracks. It serves as a specialized alternative to standard algorithmic or convolution reverbs for producers seeking unique, sympathetic resonance.</p><p><img src="https://i.ytimg.com/vi/lzdGON9opdU/maxresdefault.jpg" /></p><hr/><small>14 Sep 2026, 19:18 UTC | #21088</small>]]></content>
-  </entry>
-  <entry>
-    <title>Bedroom Producers Blog Offers Giveaway of Three Music Production Plugins</title>
-    <link href="https://bedroomproducersblog.com/2026/09/14/bpb-giveaway-chromabox/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/14/bpb-giveaway-chromabox/::v239</id>
-    <published>2026-09-14T15:32:00+00:00</published>
-    <updated>2026-09-14T15:32:00+00:00</updated>
-    <media:thumbnail url="https://thepluginaudio.com/wp-content/uploads/2025/product/4007-chromabox-1.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/14/bpb-giveaway-chromabox/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/14/bpb-giveaway-chromabox/#comments">discussion</a></small></p><hr/><p>The giveaway provides 5,000 free copies each of ChromaBox, Randomachine, and Analog Empire: Brass &amp; Winds. This software package includes plugins from W.A. Production, United Plugins, and MeldaProduction, obtainable through a single $0 checkout.</p><p>The distribution is intended as a community gift for the post-summer season. Availability is limited to the specified quantities for each individual plugin.</p><p><img src="https://thepluginaudio.com/wp-content/uploads/2025/product/4007-chromabox-1.jpg" /></p><hr/><small>14 Sep 2026, 19:08 UTC | #21089</small>]]></content>
-  </entry>
 </feed>

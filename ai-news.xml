@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-19T10:47:00+00:00</updated>
+  <updated>2026-09-19T12:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>GPT-6 Astra Decodes Unsolved WWI German Radio Cipher</title>
+    <link href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio" rel="alternate" />
+    <id>https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio::v239</id>
+    <published>2026-09-19T12:14:00+00:00</published>
+    <updated>2026-09-19T12:14:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!HCMH!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio">prinzai.com</a> | <a href="https://lobste.rs/s/ywnsld/gpt_6_astra_solves_wwi_german_radio_cipher">discussion</a> | <a href="https://news.ycombinator.com/item?id=49763987">hacker news</a></small></p><hr/><p>GPT-6 Astra has successfully decrypted a German ADFGVX radio message from World War I that had previously remained unsolved. Using the encryption key "TRUPPENVERSCHIEBUNG," the model decoded a transmission sent on November 27, 1918, which describes an English cruiser's arrival in Sevastopol and the movement of an Allied squadron.</p><p>The model's findings were verified against historical British naval logs for the HMS Canterbury, confirming the accuracy of the decoded text. This achievement demonstrates the model's ability to apply complex cryptographic analysis to historical data, resolving puzzles that have challenged human codebreakers for decades.</p><p><img src="https://substackcdn.com/image/fetch/$s_!HCMH!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg" /></p><hr/><small>19 Sep 2026, 15:40 UTC | #21678</small>]]></content>
+  </entry>
   <entry>
     <title>Laya Multilingual Open-Source Decision Engine Released</title>
     <link href="https://laya.convaiinnovations.com/" rel="alternate" />
