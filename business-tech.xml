@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-19T01:04:00+00:00</updated>
+  <updated>2026-09-19T01:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Considers Releasing New AI Model Ahead of IPO</title>
+    <link href="https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/" rel="alternate" />
+    <id>https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/::v239</id>
+    <published>2026-09-19T01:05:00+00:00</published>
+    <updated>2026-09-19T01:05:00+00:00</updated>
+    <media:thumbnail url="https://sqmagazine.co.uk/wp-content/uploads/2025/08/arr-breakdown-openai-vs-anthropic.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/">reuters.com</a></small></p><hr/><p>Anthropic is weighing the rollout of a new artificial intelligence model to maintain competitiveness against OpenAI's recent product momentum. This strategic move is expected to occur before the company's anticipated initial public offering.</p><p>The potential release follows the launch of OpenAI's GPT-6 Astra and comes despite previous calls from Anthropic CEO Dario Amodei for the industry to slow down AI development. The move underscores the intensifying race for market dominance in the frontier AI sector.</p><p><img src="https://sqmagazine.co.uk/wp-content/uploads/2025/08/arr-breakdown-openai-vs-anthropic.webp" /></p><hr/><small>19 Sep 2026, 07:31 UTC | #21647</small>]]></content>
+  </entry>
   <entry>
     <title>Infillion Acquires Foursquare</title>
     <link href="https://www.axios.com/2026/09/18/infillion-acquires-foursquare-location-data" rel="alternate" />
