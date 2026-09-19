@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-18T21:45:00+00:00</updated>
+  <updated>2026-09-19T00:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>AI Actress Tilly Norwood Experiences Glitches During Press Tour</title>
+    <link href="https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/::v239</id>
+    <published>2026-09-19T00:13:00+00:00</published>
+    <updated>2026-09-19T00:13:00+00:00</updated>
+    <media:thumbnail url="https://d.ibtimes.co.uk/en/full/1774058/ai-actress-tilly-norwood.png?w=736&amp;f=f1d0c0919f4d7f38566bcf05c312f056" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/">techcrunch.com</a></small></p><hr/><p>Tilly Norwood, an AI-generated actress created by Particle6 Group, is experiencing technical malfunctions during its debut press tour. During a recorded interview with Piers Morgan and actor Tom Conti, the AI abruptly spoke Chinese for several seconds while discussing the digital twins used in the production of the film *Misaligned*.</p><p>The malfunctions occurred during a series of 75 simultaneous interviews intended to promote the film. The erratic behavior has led to speculation that the production company may be intentionally utilizing technical glitches to generate publicity and controversy.</p><p><img src="https://d.ibtimes.co.uk/en/full/1774058/ai-actress-tilly-norwood.png?w=736&f=f1d0c0919f4d7f38566bcf05c312f056" /></p><hr/><small>19 Sep 2026, 05:16 UTC | #21650</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic to Embed Accenture Staff for AI Safety Evaluation</title>
     <link href="https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/" rel="alternate" />
