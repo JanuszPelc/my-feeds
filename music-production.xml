@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-19T12:20:00+00:00</updated>
+  <updated>2026-09-19T13:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Bitlantis Updates Kveik MIDI Step Sequencer to v1.3</title>
+    <link href="https://www.kvraudio.com/news/bitlantis-updates-kveik-midi-step-sequencer-to-v1-3-with-arp-mode-and-bidirectional-daw-parameters-vst3-and-au-68589?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68589" rel="alternate" />
+    <id>https://www.kvraudio.com/news/bitlantis-updates-kveik-midi-step-sequencer-to-v1-3-with-arp-mode-and-bidirectional-daw-parameters-vst3-and-au-68589?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68589::v239</id>
+    <published>2026-09-19T13:43:00+00:00</published>
+    <updated>2026-09-19T13:43:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/news1-3.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/bitlantis-updates-kveik-midi-step-sequencer-to-v1-3-with-arp-mode-and-bidirectional-daw-parameters-vst3-and-au-68589?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68589">kvraudio.com</a> | <a href="https://kveik.ch/changelog.php">source</a></small></p><hr/><p>Bitlantis has released Kveik version 1.3, which introduces a per-track ARP mode to the MIDI step sequencer plugin. The mode allows tracks to distribute chord notes across steps using 30 different patterns driven by MIDI input, test chords, or other Kveik tracks.</p><p>The update also implements bidirectional DAW parameter automation for 1,041 controls, allowing for control and automation between the plugin and the host. Additional changes include MIDI export options for stems and sums, an eraser tool for the step grid, and various bug fixes for macOS and Windows.</p><p><img src="https://static.kvraudio.com/i/b/news1-3.jpg" /></p><hr/><small>19 Sep 2026, 17:18 UTC | #21682</small>]]></content>
+  </entry>
   <entry>
     <title>UnitedPlugins Offers FireMaximizer for Free</title>
     <link href="https://bedroomproducersblog.com/2026/09/19/unitedplugins-firemaximizer-free/" rel="alternate" />
