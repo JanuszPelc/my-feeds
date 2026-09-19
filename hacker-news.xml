@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-19T01:44:00+00:00</updated>
+  <updated>2026-09-19T06:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Awesome-tunneling Repository Curates Tunneling Software Alternatives</title>
+    <link href="https://github.com/anderspitman/awesome-tunneling" rel="alternate" />
+    <id>https://github.com/anderspitman/awesome-tunneling::v239</id>
+    <published>2026-09-19T06:55:00+00:00</published>
+    <updated>2026-09-19T06:55:00+00:00</updated>
+    <media:thumbnail url="https://tom-doerr.github.io/repo_posts/assets/anderspitman_awesome_tunneling_20260214_042941_818_20260214_043040_81e4b0.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/anderspitman/awesome-tunneling">github.com</a> | <a href="https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling">discussion</a></small></p><hr/><p>This collection of software and services assists self-hosters and developers in exposing local webservers via public domain names with automatic HTTPS. The tools are designed to function even when the host is behind a NAT or other restricted network.</p><p>The list compares various implementations, including SSH-based solutions like Pinggy and tuns.sh, and WireGuard-based services like Hoppy. It categorizes tools by features such as protocol support (HTTP, TCP, UDP), automatic Let's Encrypt integration, and custom domain management.</p><p><img src="https://tom-doerr.github.io/repo_posts/assets/anderspitman_awesome_tunneling_20260214_042941_818_20260214_043040_81e4b0.png" /></p><hr/><small>19 Sep 2026, 12:09 UTC | #21666</small>]]></content>
+  </entry>
   <entry>
     <title>Minimal Phone 2 Announced with Physical QWERTY Keyboard</title>
     <link href="https://minimalcompany.com/" rel="alternate" />
@@ -946,14 +955,5 @@
     <updated>2026-09-14T12:15:00+00:00</updated>
     <media:thumbnail url="https://a6mzero.com/static/images/board-cropped.jpeg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/">a6mzero.com</a> | <a href="https://lobste.rs/s/yedfbj/this_pcb_is_brought_you_by_fable_5">discussion</a> | <a href="https://news.ycombinator.com/item?id=49695689">hacker news</a></small></p><hr/><p>A designer used the Fable 5 AI to autonomously design a functional RP2350-based development board with a 1.54-inch E-ink display. The workflow involved describing hardware requirements in plain English, resolving design rule checking (DRC) errors and component package mismatches, and managing the manufacturing process via JLCPCB.</p><p>The resulting board was fully operational, demonstrating that AI can successfully execute complex tasks such as PCB routing and component selection. While such tools enable rapid prototyping and lower the barrier to hardware creation, they shift the human role toward high-level abstraction, potentially altering the traditional learning and troubleshooting experience of manual design.</p><p><img src="https://a6mzero.com/static/images/board-cropped.jpeg" /></p><hr/><small>14 Sep 2026, 16:06 UTC | #21083</small>]]></content>
-  </entry>
-  <entry>
-    <title>Mergiraf Syntax-Aware Git Merge Driver</title>
-    <link href="https://codeberg.org/mergiraf/mergiraf" rel="alternate" />
-    <id>https://codeberg.org/mergiraf/mergiraf::v239</id>
-    <published>2026-09-14T12:11:00+00:00</published>
-    <updated>2026-09-14T12:11:00+00:00</updated>
-    <media:thumbnail url="https://www.linuxlinks.com/wp-content/uploads/2026/02/mergiraf-commands.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codeberg.org/mergiraf/mergiraf">codeberg.org</a> | <a href="https://lobste.rs/s/gslcz7/mergiraf_syntax_aware_git_merge_driver">discussion</a></small></p><hr/><p>Mergiraf is a syntax-aware Git merge driver that resolves code conflicts by understanding the structure of programming languages. It currently supports a variety of formats, including Rust, Java, Python, MATLAB, and Scheme.</p><p>The tool is written in Rust and is intended to improve Git operations such as merging, rebasing, and cherry-picking. By using structural analysis rather than standard line-based heuristics, it aims to reduce conflicts in complex files.</p><p><img src="https://www.linuxlinks.com/wp-content/uploads/2026/02/mergiraf-commands.png" /></p><hr/><small>14 Sep 2026, 15:28 UTC | #21076</small>]]></content>
   </entry>
 </feed>
