@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-18T21:12:00+00:00</updated>
+  <updated>2026-09-18T21:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Mistral and European AI Startups Accuse US Rivals of Using Safety Concerns to Entrench Dominance</title>
+    <link href="https://www.reuters.com/business/europes-ai-firms-playing-catch-up-challenge-us-calls-slowdown-2026-09-18/" rel="alternate" />
+    <id>https://www.reuters.com/business/europes-ai-firms-playing-catch-up-challenge-us-calls-slowdown-2026-09-18/::v239</id>
+    <published>2026-09-18T21:13:00+00:00</published>
+    <updated>2026-09-18T21:13:00+00:00</updated>
+    <media:thumbnail url="https://www.aiplusinfo.com/wp-content/uploads/2026/02/Mistral-Voxtral-Rivals-AI-Translation-Giants.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/europes-ai-firms-playing-catch-up-challenge-us-calls-slowdown-2026-09-18/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=49758027">hacker news</a></small></p><hr/><p>Mistral AI and other European AI startups have accused US competitors of leveraging AI safety concerns to entrench their market dominance. These firms have rejected calls from companies like Anthropic to slow the development of frontier models, viewing such proposals as efforts to hinder European competition during a period when the region is struggling to catch up.</p><p>This confrontation highlights an ongoing debate over whether strict safety standards function as essential guardrails or as a form of regulatory capture intended to protect established incumbents. The dispute emphasizes the tension between ensuring model safety and maintaining an open, competitive global AI market.</p><p><img src="https://www.aiplusinfo.com/wp-content/uploads/2026/02/Mistral-Voxtral-Rivals-AI-Translation-Giants.jpg" /></p><hr/><small>19 Sep 2026, 00:42 UTC | #21608</small>]]></content>
+  </entry>
   <entry>
     <title>South Korea Increases Data Breach Fines to 10% of Annual Revenue</title>
     <link href="https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899" rel="alternate" />
