@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-18T17:34:00+00:00</updated>
+  <updated>2026-09-18T21:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Anthropic to Embed Accenture Staff for AI Safety Evaluation</title>
+    <link href="https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/::v239</id>
+    <published>2026-09-18T21:45:00+00:00</published>
+    <updated>2026-09-18T21:45:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/">techcrunch.com</a> | <a href="https://www.anthropic.com/news/accenture-embedded-evaluation">source</a></small></p><hr/><p>Accenture's AI division, Faculty, will perform red-teaming and alignment assessments directly inside Anthropic as part of a new safety evaluation program. The two companies plan to invest at least $1 billion over the next five years to implement these third-party model audits.</p><p>This approach follows CEO Dario Amodei's plan to integrate external monitors into AI labs to provide verifiable accountability for model behavior. While research into AI safety is typically led by non-profits like METR, Anthropic is opting for Accenture due to its enterprise deployment experience and functional independence.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024" /></p><hr/><small>19 Sep 2026, 02:55 UTC | #21630</small>]]></content>
+  </entry>
   <entry>
     <title>Google Expands CC AI Agent for Household Management</title>
     <link href="https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/" rel="alternate" />
