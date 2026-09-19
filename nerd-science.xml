@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-19T02:48:00+00:00</updated>
+  <updated>2026-09-19T05:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Stanford Medicine Researchers Identify Human Brain as Two Separate Organs</title>
+    <link href="https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html" rel="alternate" />
+    <id>https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html::v239</id>
+    <published>2026-09-19T05:49:00+00:00</published>
+    <updated>2026-09-19T05:49:00+00:00</updated>
+    <media:thumbnail url="https://o.quizlet.com/AMtVftn3CSWcaXiT2tDiRA_b.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html">med.stanford.edu</a> | <a href="https://www.nature.com/articles/s41593-026-02433-7">source</a> | <a href="https://news.ycombinator.com/item?id=49763697">hacker news</a></small></p><hr/><p>The human brain is composed of two distinct organs that evolved independently over hundreds of millions of years, according to research from Stanford Medicine. This discovery challenges the established model that the brain is a single, continuous organ. Instead, the study shows that two separate neural ectoderm progenitors contribute to the developing brain: one forming the forebrain and midbrain, while the other generates the hindbrain.</p><p>These findings offer new pathways for studying and treating neurological diseases. Recognizing the distinct developmental origins of these regions may allow for more targeted medical approaches for conditions that affect specific areas, such as the brain stem.</p><p><img src="https://o.quizlet.com/AMtVftn3CSWcaXiT2tDiRA_b.png" /></p><hr/><small>19 Sep 2026, 10:40 UTC | #21663</small>]]></content>
+  </entry>
   <entry>
     <title>Dan Abramov Uses AI Agents to Obtain a Lean Proof of Conway's Conjecture</title>
     <link href="https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/" rel="alternate" />
