@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-19T12:09:00+00:00</updated>
+  <updated>2026-09-19T12:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Vale Offers Code-Like Linting for Prose</title>
+    <link href="https://vale.sh" rel="alternate" />
+    <id>https://vale.sh::v239</id>
+    <published>2026-09-19T12:11:00+00:00</published>
+    <updated>2026-09-19T12:11:00+00:00</updated>
+    <media:thumbnail url="https://www.draftview.app/tools-proselint.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vale.sh">vale.sh</a> | <a href="https://lobste.rs/s/anvcfz/vale_code_like_linting_for_prose">discussion</a></small></p><hr/><p>Vale is an open-source command-line tool that applies linting rules to prose. It enables users to convert style guides, terminology, and house voices into automated checks that run within text editors and alongside code.</p><p>The tool supports various markup formats, including Markdown, HTML, and AsciiDoc, and can extract prose from code comments using tree-sitter grammars. Developed in Go for high performance, it is distributed through several registries, including Homebrew, npm, and PyPI.</p><p><img src="https://www.draftview.app/tools-proselint.webp" /></p><hr/><small>19 Sep 2026, 15:26 UTC | #21677</small>]]></content>
+  </entry>
   <entry>
     <title>Joel Spolsky on "Architecture Astronauts"</title>
     <link href="https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/" rel="alternate" />
