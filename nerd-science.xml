@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-19T01:45:00+00:00</updated>
+  <updated>2026-09-19T02:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Dan Abramov Uses AI Agents to Obtain a Lean Proof of Conway's Conjecture</title>
+    <link href="https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/" rel="alternate" />
+    <id>https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/::v239</id>
+    <published>2026-09-19T02:48:00+00:00</published>
+    <updated>2026-09-19T02:48:00+00:00</updated>
+    <media:thumbnail url="https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/conway.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/">overreacted.io</a> | <a href="https://news.ycombinator.com/item?id=49755024">hacker news</a></small></p><hr/><p>Using a multi-agent AI workflow, Dan Abramov has obtained a Lean formalization of John Conway's refinement conjecture regarding omnific integers. The methodology involved a specialized system of LLM agents—including roles for project management, mathematical research, and skepticism—designed to move past AI hallucinations toward structured mathematical proofs.</p><p>The resulting proof has passed mechanical verification via the Palomar registry and has undergone initial review by experts in the field. This approach highlights a potential pathway for agentic reasoning systems to solve and formalize complex problems within the surreal number system.</p><p><img src="https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/conway.jpg" /></p><hr/><small>19 Sep 2026, 10:02 UTC | #21661</small>]]></content>
+  </entry>
   <entry>
     <title>Leopardus tilcayo Identified as New Cat Species in Bolivia</title>
     <link href="https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years" rel="alternate" />
