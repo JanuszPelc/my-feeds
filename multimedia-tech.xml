@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-19T13:46:00+00:00</updated>
+  <updated>2026-09-19T16:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>OpenGOAL Project Offers Native x86-64 Port of Jak and Daxter Trilogy</title>
+    <link href="https://opengoal.dev/" rel="alternate" />
+    <id>https://opengoal.dev/::v239</id>
+    <published>2026-09-19T16:15:00+00:00</published>
+    <updated>2026-09-19T16:15:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/IoNNqod2qow/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEEgTCh_MA8=&amp;rs=AOn4CLAV_PX11kBW6tW-WR_8rD_eBJEcrw" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://opengoal.dev/">opengoal.dev</a> | <a href="https://lobste.rs/s/xfeuet/reviving_language_brought_us_jak_daxter">discussion</a></small></p><hr/><p>This initiative utilizes a native x86-64 architecture rather than emulation to provide improved performance, accuracy, and compatibility for the original trilogy. By rebuilding the games to mimic the original GOAL programming language, the port ensures gameplay accuracy and compatibility with modern hardware.</p><p>The project maintains the original visual and gameplay experience while introducing modern accessibility and quality-of-life features. Because the games are decompiled, the codebase supports extensive modding and provides a foundation for community-created content and technical study of the original game architecture.</p><p><img src="https://i.ytimg.com/vi/IoNNqod2qow/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEEgTCh_MA8=&rs=AOn4CLAV_PX11kBW6tW-WR_8rD_eBJEcrw" /></p><hr/><small>19 Sep 2026, 21:52 UTC | #21703</small>]]></content>
+  </entry>
   <entry>
     <title>OpenLoco Releases Version 26.09</title>
     <link href="https://openloco.io/news/2026/09/openloco-v26.09.html" rel="alternate" />
