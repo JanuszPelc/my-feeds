@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-19T12:11:00+00:00</updated>
+  <updated>2026-09-19T12:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Sudo and OpenDoas Implement Session Start Time to Secure Timestamp Files</title>
+    <link href="https://π.duncano.de/sudo-doas-timestamp-files" rel="alternate" />
+    <id>https://π.duncano.de/sudo-doas-timestamp-files::v239</id>
+    <published>2026-09-19T12:17:00+00:00</published>
+    <updated>2026-09-19T12:17:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/HAKKV94WcAETzJ-.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://π.duncano.de/sudo-doas-timestamp-files">π.duncano.de</a> | <a href="https://xn--1xa.duncano.de/sudo-doas-timestamp-files">source</a> | <a href="https://lobste.rs/s/9njxl2/sudo_opendoas_timestamp_files_2020">discussion</a></small></p><hr/><p>To prevent TTY and PPID reuse attacks, OpenDoas incorporates a session leader's start time into its authentication timestamps. This security mechanism was later adopted by sudo in version 1.8.22 to address vulnerabilities where attackers could use clone(2) to replicate the process identifiers of previously authenticated sessions.</p><p>By leveraging a monotonic clock, the fix ensures that authentication is strictly bound to a unique session state that cannot be replicated without a system reboot. This architectural change provides a cross-platform defense against session-based authentication hijacking in command-line elevation tools.</p><p><img src="https://pbs.twimg.com/media/HAKKV94WcAETzJ-.png" /></p><hr/><small>19 Sep 2026, 16:07 UTC | #21683</small>]]></content>
+  </entry>
   <entry>
     <title>Vale Offers Code-Like Linting for Prose</title>
     <link href="https://vale.sh" rel="alternate" />
