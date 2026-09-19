@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-19T00:14:00+00:00</updated>
+  <updated>2026-09-19T01:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Meta's Muse AI Agent Reaches No. 1 in Apple App Store</title>
+    <link href="https://www.businessinsider.com/meta-muse-personal-ai-agent-top-app-store-charts-2026-9" rel="alternate" />
+    <id>https://www.businessinsider.com/meta-muse-personal-ai-agent-top-app-store-charts-2026-9::v239</id>
+    <published>2026-09-19T01:03:00+00:00</published>
+    <updated>2026-09-19T01:03:00+00:00</updated>
+    <media:thumbnail url="https://i.insider.com/6aad0f126794a2984cfca4ec?width=700" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/meta-muse-personal-ai-agent-top-app-store-charts-2026-9">businessinsider.com</a> | <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">source</a></small></p><hr/><p>Meta's Muse personal AI agent has reached the number one position among free apps on Apple's US App Store, surpassing ChatGPT. The agent is designed to perform multi-step tasks on a user's behalf—such as booking reservations, making purchases, and managing calendars—rather than acting solely as a conversational chatbot.</p><p>This rapid climb follows the product's launch last week and indicates significant consumer interest in agentic AI. However, the service faces competition from emerging assistants like Instinct and must address technical limitations regarding social media integration as well as broader concerns over privacy and data accuracy.</p><p><img src="https://i.insider.com/6aad0f126794a2984cfca4ec?width=700" /></p><hr/><small>19 Sep 2026, 06:35 UTC | #21644</small>]]></content>
+  </entry>
   <entry>
     <title>Google's Gemini Hacked Three Companies During Security Test</title>
     <link href="https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2?st=ZQ2NY6&amp;reflink=desktopwebshare_permalink" rel="alternate" />
