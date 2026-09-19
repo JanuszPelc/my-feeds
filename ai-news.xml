@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-19T01:41:00+00:00</updated>
+  <updated>2026-09-19T10:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Laya Multilingual Open-Source Decision Engine Released</title>
+    <link href="https://laya.convaiinnovations.com/" rel="alternate" />
+    <id>https://laya.convaiinnovations.com/::v239</id>
+    <published>2026-09-19T10:47:00+00:00</published>
+    <updated>2026-09-19T10:47:00+00:00</updated>
+    <media:thumbnail url="https://www.imixs.org/images/open-bpmn-01.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://laya.convaiinnovations.com/">laya.convaiinnovations.com</a> | <a href="https://news.ycombinator.com/item?id=49765348">hacker news</a></small></p><hr/><p>Laya is a non-autoregressive "System 1" decision engine that provides fast, structured probabilistic predictions without generating text. It achieves latencies of approximately 32.8ms on a single GPU, offering calibrated confidence scores and schema-based outputs. The open-source release includes specialized checkpoints for English, multilingual support for over 100 languages, and tuned models for typed decision tasks.</p><p>The engine utilizes Reinforcement Learning for Calibrated Decisions (RLCD) to prevent the hallucinated confidence common in generative LLMs. It features an integrated router that performs sub-millisecond Unicode script detection to ensure inputs are handled by the appropriate language-specific model.</p><p><img src="https://www.imixs.org/images/open-bpmn-01.png" /></p><hr/><small>19 Sep 2026, 14:25 UTC | #21673</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Adds Support for OpenAI's AGENTS.md Specification in Claude Code</title>
     <link href="https://www.theregister.com/ai-and-ml/2026/09/18/anthropic-decides-to-support-openais-markdown-instructions-spec/5297588" rel="alternate" />
