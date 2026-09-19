@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-19T12:21:00+00:00</updated>
+  <updated>2026-09-19T15:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Petlibro Unveils Granary 2 Series with AI Pet Recognition and Food Tracking</title>
+    <link href="https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/::v239</id>
+    <published>2026-09-19T15:48:00+00:00</published>
+    <updated>2026-09-19T15:48:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Petlibro-Granary2.png?w=532" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/">techcrunch.com</a> | <a href="https://petlibro.com/products/granary-2-series">source</a></small></p><hr/><p>Petlibro has launched the Granary 2 series of automatic pet feeders, which incorporate integrated scales and AI-powered pet recognition. The product lineup—consisting of the Granary 2, Vision, Vision Duo, and Granary 2 X—ranges in price from $129.99 to $249.99. By measuring food both when dispensed and when remaining in the bowl, the feeders can provide detailed data on consumption habits, including eating speed and duration.</p><p>The Vision and Vision Duo models feature a 1080p camera with night vision capable of identifying up to 10 individual pets, facilitating customized portioning for multi-pet households. Although the devices include two-way audio and a backup battery, certain advanced monitoring and video features are restricted to Petlibro Care or Video Cloud subscription plans.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Petlibro-Granary2.png?w=532" /></p><hr/><small>19 Sep 2026, 20:15 UTC | #21679</small>]]></content>
+  </entry>
   <entry>
     <title>The Secret Life of Circuits Book Now Available</title>
     <link href="https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here" rel="alternate" />
