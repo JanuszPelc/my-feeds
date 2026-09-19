@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-19T13:50:00+00:00</updated>
+  <updated>2026-09-19T15:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI Regulation and the Enforcement of Antitrust Laws</title>
+    <link href="https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree" rel="alternate" />
+    <id>https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree::v239</id>
+    <published>2026-09-19T15:45:00+00:00</published>
+    <updated>2026-09-19T15:45:00+00:00</updated>
+    <media:thumbnail url="https://www.blockchain-council.org/_next/image/?url=/blog-media/posts/gIPVvSIN-g0b/regulation-and-ethics-of-ai-crypto-trading.jpg&amp;w=1920&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree">thebignewsletter.com</a> | <a href="https://lobste.rs/s/blmlco/ai_is_elite_crime_spree">discussion</a> | <a href="https://news.ycombinator.com/item?id=49755590">hacker news</a></small></p><hr/><p>Demands for new AI regulation overlook the failure to enforce existing antitrust, consumer protection, and cybersecurity laws against dominant technology firms. The author contends that rather than needing new regulatory agencies, the focus should be on applying current legal standards to large AI companies that currently operate with perceived impunity due to political and judicial inaction.</p><p>This lack of accountability is driven by legislative inertia in Congress and a judicial trend of refusing to impose meaningful remedies in monopoly and market power cases. The current discourse surrounding AI safety is presented as a symptom of a broader systemic failure to hold powerful economic actors accountable to the rule of law.</p><p><img src="https://www.blockchain-council.org/_next/image/?url=/blog-media/posts/gIPVvSIN-g0b/regulation-and-ethics-of-ai-crypto-trading.jpg&w=1920&q=75" /></p><hr/><small>19 Sep 2026, 18:54 UTC | #21696</small>]]></content>
+  </entry>
+  <entry>
+    <title>India's Software Services Exports Grow as AI Drives Shift to High-Value Work</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says::v239</id>
+    <published>2026-09-19T13:51:00+00:00</published>
+    <updated>2026-09-19T13:51:00+00:00</updated>
+    <media:thumbnail url="https://www.justacademy.co/storage2/news_image/1774270613_news_image.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says">bloomberg.com</a> | <a href="https://think.ing.com/articles/why-ai-matters-for-india-and-the-philippines/">source</a></small></p><hr/><p>India's software services exports have risen to approximately 5.2% of GDP, up from 3.3% prior to the pandemic. The IT industry is transitioning toward higher-value work as artificial intelligence reshapes traditional outsourcing models.</p><p>This shift occurs despite concerns that generative AI could automate routine tasks typically outsourced to low-cost markets. Rather than shrinking, the sector is undergoing a structural transformation in the composition of its services and employment patterns.</p><p><img src="https://www.justacademy.co/storage2/news_image/1774270613_news_image.jpg" /></p><hr/><small>19 Sep 2026, 18:49 UTC | #21664</small>]]></content>
+  </entry>
   <entry>
     <title>Country Code Top-Level Domains and State Dissolution</title>
     <link href="https://astrid.tech/2022/04/05/0/dead-tlds/" rel="alternate" />
