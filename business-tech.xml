@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-18T21:16:00+00:00</updated>
+  <updated>2026-09-18T22:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Eric Bailey Advocates for Cooperative Ownership Model for CSS-Tricks</title>
+    <link href="https://ericwbailey.website/published/css-tricks-could-be-a-co-op/" rel="alternate" />
+    <id>https://ericwbailey.website/published/css-tricks-could-be-a-co-op/::v239</id>
+    <published>2026-09-18T22:12:00+00:00</published>
+    <updated>2026-09-18T22:12:00+00:00</updated>
+    <media:thumbnail url="https://cdn.hostadvice.com/2022/03/03-18-2022---cloud-hosting-provider-digitalocean-acquires-learning-website-css-tricks-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ericwbailey.website/published/css-tricks-could-be-a-co-op/">ericwbailey.website</a> | <a href="https://lobste.rs/s/bcfzlc/css_tricks_could_be_co_op">discussion</a></small></p><hr/><p>A proposal suggests transitioning CSS-Tricks to a cooperative ownership model to protect its role as vital technical knowledge infrastructure. The argument contends that the current corporate ownership under DigitalOcean poses a risk to the site's longevity as business priorities shift away from frontend educational content.</p><p>By removing the primary motivation of profit-driven growth, a cooperative could prioritize the long-term preservation and cultivation of web development expertise. This model is presented as a way to safeguard essential educational resources from the unpredictable strategic decisions of large technology corporations.</p><p><img src="https://cdn.hostadvice.com/2022/03/03-18-2022---cloud-hosting-provider-digitalocean-acquires-learning-website-css-tricks-1.png" /></p><hr/><small>19 Sep 2026, 03:20 UTC | #21654</small>]]></content>
+  </entry>
   <entry>
     <title>Virginia Governor Establishes AI Task Force and Data Center Accountability Framework</title>
     <link href="https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force" rel="alternate" />
@@ -1246,14 +1255,5 @@
     <updated>2026-09-14T03:22:00+00:00</updated>
     <media:thumbnail url="https://elchapuzasinformatico.com/wp-content/uploads/2026/01/Samsung-SK-Hynix-y-Micron-piden-explicaciones-a-sus-socios-para-saber-a-donde-van-a-parar-sus-chips-de-memoria.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/samsung-sk-hynix-reject-kepcos-19-billion-power-prepayment-proposal-document-2026-09-14/">reuters.com</a></small></p><hr/><p>Samsung Electronics and SK Hynix have declined a proposal from Korea Electric Power Corp (KEPCO) to make an upfront payment of roughly $18.7 billion (25 trillion won) for electricity. KEPCO intended to use the advance funds to finance the construction of power grids required for new semiconductor technology clusters.</p><p>The semiconductor giants cited uncertainty regarding long-term global chip demand as the reason for the refusal. The proposed scheme would have required the two companies to pay five years of electricity bills in advance to assist the utility in financing its infrastructure development.</p><p><img src="https://elchapuzasinformatico.com/wp-content/uploads/2026/01/Samsung-SK-Hynix-y-Micron-piden-explicaciones-a-sus-socios-para-saber-a-donde-van-a-parar-sus-chips-de-memoria.jpg" /></p><hr/><small>14 Sep 2026, 10:31 UTC | #21021</small>]]></content>
-  </entry>
-  <entry>
-    <title>SoftBank Secures $11.87 Billion Loan to Fund OpenAI Investment</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-14/softbank-gets-upsized-11-9-billion-loan-in-openai-funding-push" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-14/softbank-gets-upsized-11-9-billion-loan-in-openai-funding-push::v239</id>
-    <published>2026-09-14T03:07:00+00:00</published>
-    <updated>2026-09-14T03:07:00+00:00</updated>
-    <media:thumbnail url="https://www.allaboutai.com/wp-content/uploads/2025/12/SoftBank-has-fully-funded-40-billion-investment-in-OpenAI.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-14/softbank-gets-upsized-11-9-billion-loan-in-openai-funding-push">bloomberg.com</a></small></p><hr/><p>A two-year loan facility, which exceeds an initial $10 billion target, secured $11.87 billion in commitments from approximately 20 banks. The funds are intended to support SoftBank's investment in OpenAI.</p><p>The increased financing supports SoftBank's strategic focus on the artificial intelligence sector. This follows recent efforts to manage significant debt, including the planned repayment of a $40 billion bridge loan.</p><p><img src="https://www.allaboutai.com/wp-content/uploads/2025/12/SoftBank-has-fully-funded-40-billion-investment-in-OpenAI.webp" /></p><hr/><small>14 Sep 2026, 10:29 UTC | #21019</small>]]></content>
   </entry>
 </feed>
