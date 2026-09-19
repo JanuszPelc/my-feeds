@@ -938,13 +938,4 @@
     <media:thumbnail url="https://www.myamericannurse.com/wp-content/uploads/2014/07/Poster-sample-1.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking">lobste.rs</a> | <a href="https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking">discussion</a></small></p><hr/><p>Moron Lab's 2010 post on Urbit and functional programming explores message loops and the importance of stable technical standards. The author has applied these patterns to develop applications with purely functional cores.</p><p>Rich Hickey's presentations, "Simple Made Easy" and "The Value of Values," are also highlighted. They address the conceptual distinctions between simplicity and complexity, and between value-oriented and place-oriented programming.</p><p><img src="https://www.myamericannurse.com/wp-content/uploads/2014/07/Poster-sample-1.jpg" /></p><hr/><small>14 Sep 2026, 18:52 UTC | #21109</small>]]></content>
   </entry>
-  <entry>
-    <title>Programming as a Creative Process and the Importance of Community</title>
-    <link href="https://www.youtube.com/watch?v=pOAj3mor8y8" rel="alternate" />
-    <id>https://www.youtube.com/watch?v=pOAj3mor8y8::v239</id>
-    <published>2026-09-14T13:29:00+00:00</published>
-    <updated>2026-09-14T13:29:00+00:00</updated>
-    <media:thumbnail url="https://www.prismnews.com/_next/image?url=https://azmbcanwixwqvviqqqol.supabase.co/storage/v1/object/public/images/ai-generated/article-1771719651355-1771719651355.png&amp;w=1920&amp;q=75" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=pOAj3mor8y8">youtube.com</a> | <a href="https://lobste.rs/s/gud12o/why_am_i_still_programming">discussion</a></small></p><hr/><p>Rising burnout in the tech industry is driving many open-source maintainers to step away from their projects. Beyond being a purely logical task, programming is a creative process defined by personal taste and a continuous series of technical trade-offs.</p><p>Developing software requires more than just producing code; it requires the cultivation of communities of practice. Events like RustConf foster the social connections and human engagement necessary to sustain healthy, high-quality technical ecosystems.</p><p><img src="https://www.prismnews.com/_next/image?url=https://azmbcanwixwqvviqqqol.supabase.co/storage/v1/object/public/images/ai-generated/article-1771719651355-1771719651355.png&w=1920&q=75" /></p><hr/><small>14 Sep 2026, 18:16 UTC | #21105</small>]]></content>
-  </entry>
 </feed>
