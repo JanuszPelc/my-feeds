@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-19T13:49:00+00:00</updated>
+  <updated>2026-09-19T15:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>SpaceX Raptor Engine Design Evolution</title>
+    <link href="https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor" rel="alternate" />
+    <id>https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor::v239</id>
+    <published>2026-09-19T15:52:00+00:00</published>
+    <updated>2026-09-19T15:52:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!9e2j!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1f6e92c-d878-4ac2-9239-814c1cafd31d_595x616.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor">construction-physics.com</a> | <a href="https://news.ycombinator.com/item?id=49746626">hacker news</a></small></p><hr/><p>SpaceX’s Raptor engine has evolved from the complex, heavily plumbed Raptor 1 to the streamlined Raptor 3, which delivers approximately 35% more thrust. The engine utilizes a full-flow staged combustion (FFSC) cycle, employing two preburners to create fuel-rich and oxidizer-rich streams that drive turbopumps before entering the main combustion chamber.</p><p>Analysis of the design evolution suggests that the engine's streamlining is achieved by consolidating fluid lines into a common umbilical and simplifying the external architecture. This engineering progression is intended to increase reliability and facilitate the rapid production and reuse required for the Starship launch system.</p><p><img src="https://substackcdn.com/image/fetch/$s_!9e2j!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1f6e92c-d878-4ac2-9239-814c1cafd31d_595x616.png" /></p><hr/><small>19 Sep 2026, 20:53 UTC | #21699</small>]]></content>
+  </entry>
   <entry>
     <title>Grant Sanderson Advocates for Elevating the Status of Motivated Explanations in Mathematics</title>
     <link href="https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/" rel="alternate" />
