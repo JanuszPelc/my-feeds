@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-19T00:16:00+00:00</updated>
+  <updated>2026-09-19T01:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>India Mandates Spam Report Sharing from Caller ID Apps to Telecom Operators</title>
+    <link href="https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/::v239</id>
+    <published>2026-09-19T01:01:00+00:00</published>
+    <updated>2026-09-19T01:01:00+00:00</updated>
+    <media:thumbnail url="https://res.cloudinary.com/dmmrz1ymi/images/f_auto,q_auto/v1766854250/CNAP-vs-Truecaller/CNAP-vs-Truecaller.webp?_i=AA" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/">techcrunch.com</a> | <a href="https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2311989">source</a></small></p><hr/><p>The Telecom Regulatory Authority of India (TRAI) has amended rules requiring caller ID and call-management apps to share user-flagged spam reports with telecom operators via a blockchain-based platform. This initiative is intended to integrate community-sourced spam data into the telecom industry's enforcement infrastructure to better combat large-scale fraudulent communications.</p><p>Truecaller has criticized the mandate as "anti-competitive," arguing the requirement facilitates a one-way transfer of commercially valuable user data from apps to telecom providers. The updated regulations also introduce new oversight for AI-powered and automated calls, requiring companies using artificial or prerecorded voices to declare their use and associated phone numbers to operators in advance.</p><p><img src="https://res.cloudinary.com/dmmrz1ymi/images/f_auto,q_auto/v1766854250/CNAP-vs-Truecaller/CNAP-vs-Truecaller.webp?_i=AA" /></p><hr/><small>19 Sep 2026, 06:11 UTC | #21648</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Expects $278 Billion in Negative Free Cash Flow Through 2030</title>
+    <link href="https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?accessToken=zwAAAaC26G0Nkc9gEdBh7uNBk9Ozt47kFV9TjA.MEQCIH_NhYE7F9hUSDoVhMKWDXlRF3xgIMstpfyu8BV8VlnFAiACGmurmMmekLhQHY7niCRm6LhfPNxOctJGSelJuguE6A&amp;sharetype=gift&amp;token=f3b46a30-cbcd-4e56-840e-e33d4eaeb5a7" rel="alternate" />
+    <id>https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?accessToken=zwAAAaC26G0Nkc9gEdBh7uNBk9Ozt47kFV9TjA.MEQCIH_NhYE7F9hUSDoVhMKWDXlRF3xgIMstpfyu8BV8VlnFAiACGmurmMmekLhQHY7niCRm6LhfPNxOctJGSelJuguE6A&amp;sharetype=gift&amp;token=f3b46a30-cbcd-4e56-840e-e33d4eaeb5a7::v239</id>
+    <published>2026-09-19T00:17:00+00:00</published>
+    <updated>2026-09-19T00:17:00+00:00</updated>
+    <media:thumbnail url="https://dmxvlyap9srmn.cloudfront.net/article/pictures/8ccd5b1d-964c-4691-b993-66d5b595d0b7.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?accessToken=zwAAAaC26G0Nkc9gEdBh7uNBk9Ozt47kFV9TjA.MEQCIH_NhYE7F9hUSDoVhMKWDXlRF3xgIMstpfyu8BV8VlnFAiACGmurmMmekLhQHY7niCRm6LhfPNxOctJGSelJuguE6A&sharetype=gift&token=f3b46a30-cbcd-4e56-840e-e33d4eaeb5a7">ft.com</a></small></p><hr/><p>OpenAI expects to accumulate $278 billion in negative free cash flow between 2026 and 2030, according to leaked financial projections. The company also anticipates significant revenue growth, projecting its annual income to rise from $36 billion this year to $350 billion by 2030.</p><p>The massive cash burn is attributed to heavy investments in AI infrastructure and increasing market price pressures. The financial details were reportedly shared as part of a major computing deal.</p><p><img src="https://dmxvlyap9srmn.cloudfront.net/article/pictures/8ccd5b1d-964c-4691-b993-66d5b595d0b7.png" /></p><hr/><small>19 Sep 2026, 06:09 UTC | #21642</small>]]></content>
+  </entry>
   <entry>
     <title>Maven AI Overreliance Linked to Fatal Strike on Iranian School</title>
     <link href="https://bloomberg.com/graphics/2026-iran-school-attack/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTc2NTUyNywiZXhwIjoxNzkwMzcwMzI3LCJhcnRpY2xlSWQiOiJUTEtWT01LR1pBSlgwMCIsImJjb25uZWN0SWQiOiJFQzUzMkU0NDM2OTc0ODRGOTJGOUY3MTdGQ0QzQUZBQiJ9.cevRBXkqlYKUN284O24VJs1DEdiK9NxSfe6mkcAyPEI" rel="alternate" />
