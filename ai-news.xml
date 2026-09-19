@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-19T12:14:00+00:00</updated>
+  <updated>2026-09-19T13:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Nandakishor M Releases RL Agent Open-Source Decision Model</title>
+    <link href="https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me" rel="alternate" />
+    <id>https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me::v239</id>
+    <published>2026-09-19T13:42:00+00:00</published>
+    <updated>2026-09-19T13:42:00+00:00</updated>
+    <media:thumbnail url="https://static.wixstatic.com/media/5e32ed_0721ae4fad67413aabf482714db6a83a~mv2.png/v1/fill/w_980,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/5e32ed_0721ae4fad67413aabf482714db6a83a~mv2.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me">dev.to</a> | <a href="https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision">discussion</a></small></p><hr/><p>Nandakishor M has released RL Agent, an open-source, non-autoregressive decision model designed for "System 1" tasks like intent detection and sentiment scoring. The 421M-parameter model uses a ModernBERT-large backbone and Reinforcement Learning for Calibrated Decisions (RLCD) to output structured JSON probabilities. It achieves sub-40ms latency on a GPU.</p><p>This release is positioned as a faster, open-source alternative to TypeSafe AI's Jev, which uses a similar non-autoregressive architecture. The technical overview covers the mathematical implementation of strictly proper scoring rules for calibration and an Act/Escalate head that manages when to automate a decision versus escalating to a human.</p><p><img src="https://static.wixstatic.com/media/5e32ed_0721ae4fad67413aabf482714db6a83a~mv2.png/v1/fill/w_980,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/5e32ed_0721ae4fad67413aabf482714db6a83a~mv2.png" /></p><hr/><small>19 Sep 2026, 17:06 UTC | #21690</small>]]></content>
+  </entry>
   <entry>
     <title>GPT-6 Astra Decodes Unsolved WWI German Radio Cipher</title>
     <link href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio" rel="alternate" />
