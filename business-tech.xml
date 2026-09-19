@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-19T02:46:00+00:00</updated>
+  <updated>2026-09-19T09:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Wopke Hoekstra Rejects EU-wide Digital Services Tax Pending Global Multilateral Agreement</title>
+    <link href="https://www.ft.com/content/e5a76494-71df-4ee0-a85f-b28f2c94ded6" rel="alternate" />
+    <id>https://www.ft.com/content/e5a76494-71df-4ee0-a85f-b28f2c94ded6::v239</id>
+    <published>2026-09-19T09:23:00+00:00</published>
+    <updated>2026-09-19T09:23:00+00:00</updated>
+    <media:thumbnail url="https://www.euractiv.com/content/uploads/sites/2/2026/02/Hoekstra-1182x788.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/e5a76494-71df-4ee0-a85f-b28f2c94ded6">ft.com</a></small></p><hr/><p>European Commissioner Wopke Hoekstra has rejected calls for an EU-wide digital services tax, asserting that such measures should only be pursued after all global taxation possibilities are exhausted. This stance comes in response to increasing pressure from member states, including France, to implement regional levies on large technology firms.</p><p>The decision signals a commitment to a multilateral approach to taxing the digital economy, intended to prevent tax fragmentation within the European Union. This strategy relies on international cooperation to create unified rules for multinational digital enterprises rather than individual regional mandates.</p><p><img src="https://www.euractiv.com/content/uploads/sites/2/2026/02/Hoekstra-1182x788.jpg" /></p><hr/><small>19 Sep 2026, 13:02 UTC | #21657</small>]]></content>
+  </entry>
   <entry>
     <title>Flock Safety Offers Voluntary Employee Buyouts</title>
     <link href="https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/" rel="alternate" />
