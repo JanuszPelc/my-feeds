@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-18T21:18:00+00:00</updated>
+  <updated>2026-09-19T06:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Inear Display Releases Danaides v2.0 for Windows and macOS</title>
+    <link href="https://www.kvraudio.com/news/inear-display-releases-danaides-sequenced-sound-mangler-v2-0-win-and-mac-vst3-and-au-68650?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68650" rel="alternate" />
+    <id>https://www.kvraudio.com/news/inear-display-releases-danaides-sequenced-sound-mangler-v2-0-win-and-mac-vst3-and-au-68650?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68650::v239</id>
+    <published>2026-09-19T06:53:00+00:00</published>
+    <updated>2026-09-19T06:53:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/danaides.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/inear-display-releases-danaides-sequenced-sound-mangler-v2-0-win-and-mac-vst3-and-au-68650?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68650">kvraudio.com</a> | <a href="https://ineardisplay.com/plugins/danaides/">source</a></small></p><hr/><p>Inear Display has released version 2.0 of Danaides, a sequenced sound mangler plugin for Windows and macOS. The update includes a completely rewritten audio engine and user interface to ensure compatibility with modern operating systems.</p><p>Version 2.0 breaks backward compatibility with the original 2013 release to establish a new software base. The plugin is available through a pay-what-you-want pricing model.</p><p><img src="https://static.kvraudio.com/i/b/danaides.png" /></p><hr/><small>19 Sep 2026, 11:55 UTC | #21662</small>]]></content>
+  </entry>
   <entry>
     <title>SonicModeler Updates Syntropy to v2.4</title>
     <link href="https://www.kvraudio.com/news/sonicmodeler-updates-syntropy-to-v2-4-with-more-expressive-sound-and-390-presets-68605?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68605" rel="alternate" />
