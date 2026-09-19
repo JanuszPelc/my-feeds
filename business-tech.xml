@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-18T21:03:00+00:00</updated>
+  <updated>2026-09-18T21:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>South Korea Increases Data Breach Fines to 10% of Annual Revenue</title>
+    <link href="https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899" rel="alternate" />
+    <id>https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899::v239</id>
+    <published>2026-09-18T21:12:00+00:00</published>
+    <updated>2026-09-18T21:12:00+00:00</updated>
+    <media:thumbnail url="https://image.koreajoongangdaily.com/12802245.webp?imageId=12802245&amp;width=960&amp;height=548&amp;format=jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899">koreajoongangdaily.com</a> | <a href="https://news.ycombinator.com/item?id=49759466">hacker news</a></small></p><hr/><p>South Korea's Personal Information Protection Commission (PIPC) is increasing the maximum fine for major negligent data leaks to 10% of a company's annual revenue. Under the revised Personal Information Protection Act, companies found to have leaked the personal data of 10 million or more individuals through intent or gross negligence will be subject to these higher penalties.</p><p>The updated regulations include a "potential data breach notification system" that requires companies to notify users within 72 hours if there is a high risk of exposure, even if a breach is not yet fully confirmed. Additionally, companies can receive up to a 40% reduction in fines if they can demonstrate proactive investment in data protection infrastructure or effective, rapid response to a breach.</p><p><img src="https://image.koreajoongangdaily.com/12802245.webp?imageId=12802245&width=960&height=548&format=jpg" /></p><hr/><small>19 Sep 2026, 00:19 UTC | #21646</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sony Music and Universal Music Group Sue Suno Over Model v6 Training</title>
+    <link href="https://variety.com/2026/music/news/sony-music-universal-music-sue-suno-label-backed-model-1236866921/" rel="alternate" />
+    <id>https://variety.com/2026/music/news/sony-music-universal-music-sue-suno-label-backed-model-1236866921/::v239</id>
+    <published>2026-09-18T21:11:00+00:00</published>
+    <updated>2026-09-18T21:11:00+00:00</updated>
+    <media:thumbnail url="https://www.musicbusinessworldwide.com/files/2025/01/Suno.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://variety.com/2026/music/news/sony-music-universal-music-sue-suno-label-backed-model-1236866921/">variety.com</a></small></p><hr/><p>Sony Music Entertainment and Universal Music Group have filed a 45-page lawsuit in a Massachusetts federal court against AI music-generation company Suno. The complaint alleges that Suno’s "v6" models infringe on copyrighted works by training on outputs from its previous models, a practice the plaintiffs characterize as "laundering" copyright infringement.</p><p>This legal action marks a continuation of the music industry's efforts to hold generative AI companies accountable for the unauthorized use of sound recordings in model training. Suno has not yet issued a comment regarding the new allegations.</p><p><img src="https://www.musicbusinessworldwide.com/files/2025/01/Suno.png" /></p><hr/><small>19 Sep 2026, 00:15 UTC | #21602</small>]]></content>
+  </entry>
   <entry>
     <title>Disney Appoints Karandeep Anand as Its First Chief Technology Officer</title>
     <link href="https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/" rel="alternate" />
@@ -1219,23 +1237,5 @@
     <updated>2026-09-14T01:41:00+00:00</updated>
     <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQFJdyNhAq70sg/feedshare-shrink_800/B56ZpukHd7I0Ag-/0/1762791553729?e=2147483647&amp;v=beta&amp;t=18DjBVqMMXywhE4KBiieY0QZBPSULH-F_VhcvNAyfbQ" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/anthropic-strikes-13-7-billion-compute-deal-trump-linked-rum-group">theinformation.com</a></small></p><hr/><p>Anthropic has entered a six-year, $13.7 billion contract to lease compute capacity from Rum Group. The agreement provides access to GPU infrastructure via a data center currently under development in Maysville, Georgia.</p><p>Rum Group is pivoting toward AI cloud services following its acquisition of Northern Data. While the contract provides a substantial revenue boost, the company has indicated it must raise significant capital to fulfill the obligation.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQFJdyNhAq70sg/feedshare-shrink_800/B56ZpukHd7I0Ag-/0/1762791553729?e=2147483647&v=beta&t=18DjBVqMMXywhE4KBiieY0QZBPSULH-F_VhcvNAyfbQ" /></p><hr/><small>14 Sep 2026, 08:51 UTC | #21015</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Reports Sustained Profitability and High Gross Margins</title>
-    <link href="https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002" rel="alternate" />
-    <id>https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002::v239</id>
-    <published>2026-09-14T00:16:00+00:00</published>
-    <updated>2026-09-14T00:16:00+00:00</updated>
-    <media:thumbnail url="https://aitoolsrecap.com/ArticleImages/anthropic-first-profit-2026-revenue-breakdown-1779426924.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002">ft.com</a></small></p><hr/><p>Anthropic has informed investors that it expects to be profitable for a second consecutive quarter, reporting gross margins exceeding 80% before accounting for training costs and partner revenue sharing.</p><p>The messaging is intended to ease concerns regarding cash burn as the company moves toward a potential initial public offering. This comes amid increasing scrutiny of the massive capital requirements needed to sustain frontier AI development.</p><p><img src="https://aitoolsrecap.com/ArticleImages/anthropic-first-profit-2026-revenue-breakdown-1779426924.jpg" /></p><hr/><small>14 Sep 2026, 07:19 UTC | #21013</small>]]></content>
-  </entry>
-  <entry>
-    <title>Signal Registration Without Phone Numbers via Zero-Knowledge Proofs</title>
-    <link href="https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10" rel="alternate" />
-    <id>https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10::v239</id>
-    <published>2026-09-14T00:05:00+00:00</published>
-    <updated>2026-09-14T00:05:00+00:00</updated>
-    <media:thumbnail url="https://files.amberblocks.com/media/chnbzaa92ook5tnj/posts/pbkp6leb8dx5kedt/fmifjxfsjhocw0sgfa0wnocgqu4wys2z/https-filecoin98com-images-mo-hinh-zkp-tsr1ligt8jfu3wyz.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10">community.signalusers.org</a> | <a href="https://news.ycombinator.com/item?id=49689048">hacker news</a></small></p><hr/><p>Signal is reportedly developing a registration process that allows users to sign up without a phone number by utilizing zero-knowledge proofs (ZKP). This implementation, identified in Android source code, aims to decouple a user's identity from their service usage, such as group memberships or financial transactions.</p><p>The transition may involve a one-time fee to replace traditional phone number verification. Discussions among users suggest that without cooldown periods or similar restrictions, the feature could be exploited by spammers to create multiple accounts through rapid unlinking and re-registration.</p><p><img src="https://files.amberblocks.com/media/chnbzaa92ook5tnj/posts/pbkp6leb8dx5kedt/fmifjxfsjhocw0sgfa0wnocgqu4wys2z/https-filecoin98com-images-mo-hinh-zkp-tsr1ligt8jfu3wyz.png" /></p><hr/><small>14 Sep 2026, 05:38 UTC | #21024</small>]]></content>
   </entry>
 </feed>
