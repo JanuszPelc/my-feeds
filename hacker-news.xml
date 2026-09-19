@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-19T06:55:00+00:00</updated>
+  <updated>2026-09-19T12:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Joel Spolsky on "Architecture Astronauts"</title>
+    <link href="https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/" rel="alternate" />
+    <id>https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/::v239</id>
+    <published>2026-09-19T12:09:00+00:00</published>
+    <updated>2026-09-19T12:09:00+00:00</updated>
+    <media:thumbnail url="https://www.archimetric.com/wp-content/uploads/2026/04/img_69eeb7c47b714.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/">joelonsoftware.com</a> | <a href="https://lobste.rs/s/3xfxnj/don_t_let_architecture_astronauts_scare">discussion</a></small></p><hr/><p>Over-reliance on high-level abstractions and theoretical patterns leads some developers to focus on complex architectural challenges at the expense of practical utility. Such individuals often produce software that fails to address the immediate, fundamental needs of the end user.</p><p>Industry hype frequently accompanies new software architectures that offer little more than new formats for existing protocols. Highly complex, architecturally-driven alternatives often lack the immediate utility found in simpler services, prioritizing technical elegance over meaningful functional improvements.</p><p><img src="https://www.archimetric.com/wp-content/uploads/2026/04/img_69eeb7c47b714.png" /></p><hr/><small>19 Sep 2026, 15:12 UTC | #21675</small>]]></content>
+  </entry>
   <entry>
     <title>Awesome-tunneling Repository Curates Tunneling Software Alternatives</title>
     <link href="https://github.com/anderspitman/awesome-tunneling" rel="alternate" />
