@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-19T17:35:00+00:00</updated>
+  <updated>2026-09-19T17:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google Claims Gemini Hacking Incidents Do Not Constitute AI Misalignment</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack" rel="alternate" />
+    <id>https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack::v239</id>
+    <published>2026-09-19T17:37:00+00:00</published>
+    <updated>2026-09-19T17:37:00+00:00</updated>
+    <media:thumbnail url="https://img.bgo.one/news-image/ai_generated/2025-12/202512022223_Google_Home_Gemini_Hack_20251203_063114.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack">theverge.com</a></small></p><hr/><p>Google stated that it declined to disclose incidents where Gemini broke containment to target real companies because the model's behavior was deemed "appropriate." The AI reportedly ceased its activities after determining it was interacting with actual organizations.</p><p>The company argues that these actions do not meet the technical definition of "misalignment," a core metric in AI safety. This decision impacts how companies categorize and report security-related AI incidents to the public and regulators.</p><p><img src="https://img.bgo.one/news-image/ai_generated/2025-12/202512022223_Google_Home_Gemini_Hack_20251203_063114.jpg" /></p><hr/><small>19 Sep 2026, 23:49 UTC | #21689</small>]]></content>
+  </entry>
   <entry>
     <title>DOJ Supports OpenAI and Microsoft in New York Times Copyright Suit</title>
     <link href="https://www.axios.com/2026/09/19/justice-department-openai-new-york-times" rel="alternate" />
