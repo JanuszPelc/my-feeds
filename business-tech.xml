@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-19T16:12:00+00:00</updated>
+  <updated>2026-09-19T17:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>DOJ Supports OpenAI and Microsoft in New York Times Copyright Suit</title>
+    <link href="https://www.axios.com/2026/09/19/justice-department-openai-new-york-times" rel="alternate" />
+    <id>https://www.axios.com/2026/09/19/justice-department-openai-new-york-times::v239</id>
+    <published>2026-09-19T17:35:00+00:00</published>
+    <updated>2026-09-19T17:35:00+00:00</updated>
+    <media:thumbnail url="https://cdn-image.creati.ai/ai-news/cover-image/original/computer-coders-copyright-lawsuit-openai-microsoft.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/19/justice-department-openai-new-york-times">axios.com</a></small></p><hr/><p>The US Department of Justice has filed a statement of interest in the copyright infringement lawsuit brought by The New York Times against OpenAI and Microsoft. The DOJ's brief argues that training large language models on copyrighted text is protected under the fair use doctrine, a stance that reportedly surprised officials at the USPTO and the US Copyright Office.</p><p>This intervention represents the first significant US government involvement in an AI copyright dispute. In its filing, the DOJ asserted that maintaining American technological dominance in the AI sector is a matter of national security.</p><p><img src="https://cdn-image.creati.ai/ai-news/cover-image/original/computer-coders-copyright-lawsuit-openai-microsoft.webp" /></p><hr/><small>19 Sep 2026, 23:29 UTC | #21688</small>]]></content>
+  </entry>
   <entry>
     <title>The Rationalist Subculture and AI Safety Discourse</title>
     <link href="https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/" rel="alternate" />

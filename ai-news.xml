@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
   <entry>
+    <title>Jev AI Model Performance Tested via 2048</title>
+    <link href="https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb" rel="alternate" />
+    <id>https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb::v239</id>
+    <published>2026-09-19T17:36:00+00:00</published>
+    <updated>2026-09-19T17:36:00+00:00</updated>
+    <media:thumbnail url="https://minigamesville.com/wp-content/uploads/2025/08/2048-Game-Online.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb">gist.github.com</a> | <a href="https://lobste.rs/s/hmkk2c/kicking_tires_on_jev_typesafe_s_system_one">discussion</a></small></p><hr/><p>jev (version 1.13.0) was tested on its ability to play 2048 using four distinct prompting strategies. These strategies ranged from providing only the current board state to providing full game rules, strategic tips, and the projected board states and scores for every possible move.</p><p>Performance improved significantly as the complexity of the input increased. Providing the model with rules, strategic tips, and the predicted outcomes of each move resulted in a median score of 2,494 and a best tile of 512, significantly outperforming models provided with only the board state.</p><p><img src="https://minigamesville.com/wp-content/uploads/2025/08/2048-Game-Online.webp" /></p><hr/><small>19 Sep 2026, 23:35 UTC | #21707</small>]]></content>
+  </entry>
+  <entry>
     <title>Study Evaluates Impact of Coding Agent Harness Components on Performance</title>
     <link href="https://arxiv.org/abs/2609.20804" rel="alternate" />
     <id>https://arxiv.org/abs/2609.20804::v239</id>
