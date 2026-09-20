@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-20T16:07:00+00:00</updated>
+  <updated>2026-09-20T17:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>US EPA Repeals Limits on Power Plant Greenhouse Gas Emissions</title>
+    <link href="https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution" rel="alternate" />
+    <id>https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution::v239</id>
+    <published>2026-09-20T17:42:00+00:00</published>
+    <updated>2026-09-20T17:42:00+00:00</updated>
+    <media:thumbnail url="https://cdn.catf.us/wp-content/uploads/2024/02/29165917/power-plant-coal-scaled-e1709244105825-2048x1075.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://text.hrw.org/news/2026/09/17/us-revokes-limits-on-power-plants-climate-pollution">text.hrw.org</a> | <a href="https://www.epa.gov/newsreleases/epa-finalizes-repeal-2024-power-plant-regulations-delivering-300-billion-savings">source</a> | <a href="https://news.ycombinator.com/item?id=49777841">hacker news</a></small></p><hr/><p>The United States Environmental Protection Agency (EPA) has repealed the 2024 Carbon Pollution Standards, which required existing coal plants and new gas plants to capture 90 percent of carbon emissions or shut down by 2039. The agency also proposed removing all remaining greenhouse gas emissions requirements for the power plant sector. The EPA cited approximately $370 million in regulatory savings for businesses as a justification for the repeal.</p><p>The 2024 standards were projected to reduce carbon pollution by 1.38 billion metric tons through 2047 and prevent thousands of asthma attacks and deaths by 2035. This decision follows the agency's 2025 revocation of the 2009 finding that greenhouse gases endanger public health, a ruling that had previously provided the legal foundation for federal regulation of these emissions.</p><p><img src="https://cdn.catf.us/wp-content/uploads/2024/02/29165917/power-plant-coal-scaled-e1709244105825-2048x1075.jpg" /></p><hr/><small>20 Sep 2026, 21:38 UTC | #21767</small>]]></content>
+  </entry>
   <entry>
     <title>LLMs Replicate the Mechanisms of Psychic Cold Reading</title>
     <link href="https://softwarecrisis.dev/letters/llmentalist/" rel="alternate" />
