@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-19T17:49:00+00:00</updated>
+  <updated>2026-09-19T23:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Red Blob Games Analyzes 'A' vs. 'An' Usage Exceptions</title>
+    <link href="https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/" rel="alternate" />
+    <id>https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/::v239</id>
+    <published>2026-09-19T23:53:00+00:00</published>
+    <updated>2026-09-19T23:53:00+00:00</updated>
+    <media:thumbnail url="https://www.redblobgames.com/x/2635-a-vs-an/blog/level-2f.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/">redblobgames.com</a> | <a href="https://news.ycombinator.com/item?id=49769944">hacker news</a></small></p><hr/><p>The selection of the English indefinite articles "a" and "an" is determined by the following word's spoken sound rather than its written first letter. This phonetic distinction is critical for procedural text generation to prevent errors such as "an unicorn" or "a hour."</p><p>An analysis of over 32,000 words using the cmudict dataset revealed only 129 exceptions where spelling and phonetic sound do not align for article selection. This finding demonstrates the high consistency of English phonetic rules in determining correct article usage.</p><p><img src="https://www.redblobgames.com/x/2635-a-vs-an/blog/level-2f.png" /></p><hr/><small>20 Sep 2026, 07:59 UTC | #21723</small>]]></content>
+  </entry>
   <entry>
     <title>Erich Grunewald Argues Against Using AI for Substantive Writing</title>
     <link href="https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai" rel="alternate" />
