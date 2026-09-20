@@ -186,13 +186,4 @@
     <media:thumbnail url="https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/Sudoku-for-Kids-4x4-Easy-Sudoku-Puzzles-with-Solutions-Printable-Editable-16039043-1775847931/750f-16039043-2.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/">baldino.dev</a> | <a href="https://lobste.rs/s/ccnirb/there_are_only_twelve_4x4_sudokus_cool">discussion</a> | <a href="https://news.ycombinator.com/item?id=49695519">hacker news</a></small></p><hr/><p>A 4x4 Sudoku grid contains 288 total valid solutions, but only 12 are structurally distinct when digit permutations are considered equivalent. This distinction is based on the underlying arrangement of symbols rather than the specific digits used to fill the cells.</p><p>Using Python to perform brute-force enumeration and bitmasking to identify minimal subsets, the study also identifies 85,632 unique minimal Sudoku puzzles.</p><p><img src="https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/Sudoku-for-Kids-4x4-Easy-Sudoku-Puzzles-with-Solutions-Printable-Editable-16039043-1775847931/750f-16039043-2.jpg" /></p><hr/><small>15 Sep 2026, 08:23 UTC | #21145</small>]]></content>
   </entry>
-  <entry>
-    <title>EuroBirdPortal Species Directory</title>
-    <link href="https://www.eurobirdportal.org/ebp/en/" rel="alternate" />
-    <id>https://www.eurobirdportal.org/ebp/en/::v239</id>
-    <published>2026-09-15T01:53:00+00:00</published>
-    <updated>2026-09-15T01:53:00+00:00</updated>
-    <media:thumbnail url="https://thumbs.dreamstime.com/z/map-illustrating-bird-migration-routes-across-europe-depicted-map-illustrating-bird-migration-routes-across-europe-depicted-442214862.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.eurobirdportal.org/ebp/en/">eurobirdportal.org</a> | <a href="https://news.ycombinator.com/item?id=49693610">hacker news</a></small></p><hr/><p>The EuroBirdPortal provides a directory of various bird species, identifying them by both common and scientific names. The collection spans multiple groups, including quails, pheasants, ducks, geese, and swans.</p><p>The platform utilizes observations from 100,000 volunteer birdwatchers to map spatiotemporal patterns of bird distribution across Europe. These datasets help track bird movements and population trends throughout the continent.</p><p><img src="https://thumbs.dreamstime.com/z/map-illustrating-bird-migration-routes-across-europe-depicted-map-illustrating-bird-migration-routes-across-europe-depicted-442214862.jpg" /></p><hr/><small>15 Sep 2026, 07:12 UTC | #21142</small>]]></content>
-  </entry>
 </feed>
