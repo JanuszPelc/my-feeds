@@ -919,13 +919,4 @@
     <media:thumbnail url="https://the-gadgeteer.com/wp-content/uploads/2026/04/Even-Realities-G2-Smart-Glasses-800x600.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns">theinformation.com</a></small></p><hr/><p>Meta Platforms plans to release a camera-free pair of smart glasses, internally codenamed "Luna," this fall. The device is expected to feature six microphones to allow users to communicate with Meta's AI chatbot and Muse via voice.</p><p>The move toward camera-free hardware follows increasing privacy concerns regarding the recording capabilities of existing smart glasses. The new model is intended to appeal to privacy-conscious consumers and bystanders.</p><p><img src="https://the-gadgeteer.com/wp-content/uploads/2026/04/Even-Realities-G2-Smart-Glasses-800x600.png" /></p><hr/><small>16 Sep 2026, 05:53 UTC | #21245</small>]]></content>
   </entry>
-  <entry>
-    <title>Baseten GitHub Token Exposed in Public Docker Image</title>
-    <link href="https://www.strix.ai/blog/baseten-harbor-github-pat-takeover" rel="alternate" />
-    <id>https://www.strix.ai/blog/baseten-harbor-github-pat-takeover::v239</id>
-    <published>2026-09-15T21:57:00+00:00</published>
-    <updated>2026-09-15T21:57:00+00:00</updated>
-    <media:thumbnail url="https://www.strix.ai/baseten-blog/token-match-redacted.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.strix.ai/blog/baseten-harbor-github-pat-takeover">strix.ai</a> | <a href="https://news.ycombinator.com/item?id=49716476">hacker news</a></small></p><hr/><p>An autonomous hacking agent discovered a live GitHub personal access token within a publicly accessible Baseten Harbor registry. The token was found in the build history of a Docker image and provided administrative and push access to Baseten’s core product, GitOps, and Homebrew repositories. The exposure resulted from using Docker build arguments to pass credentials, which inadvertently saved the token in the image's metadata.</p><p>Baseten's security team responded by privatizing the registry and rotating the compromised token. The incident underscores the risks of leaking secrets through container image metadata and the necessity of using BuildKit secret mounts to prevent credentials from persisting in image layers or build histories.</p><p><img src="https://www.strix.ai/baseten-blog/token-match-redacted.png" /></p><hr/><small>16 Sep 2026, 04:30 UTC | #21259</small>]]></content>
-  </entry>
 </feed>

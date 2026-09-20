@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-20T17:44:00+00:00</updated>
+  <updated>2026-09-20T17:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple's AI Strategy Signals Upcoming Smart Home Hub</title>
+    <link href="https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTkxMzEyOCwiZXhwIjoxNzkwNTE3OTI4LCJhcnRpY2xlSWQiOiJUTE8xSzFOM04wOTMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.bwDgdcsumu74i6R9UysnUwPKIWKcRVlLuyNpT_Z2_J0" rel="alternate" />
+    <id>https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTkxMzEyOCwiZXhwIjoxNzkwNTE3OTI4LCJhcnRpY2xlSWQiOiJUTE8xSzFOM04wOTMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.bwDgdcsumu74i6R9UysnUwPKIWKcRVlLuyNpT_Z2_J0::v239</id>
+    <published>2026-09-20T17:46:00+00:00</published>
+    <updated>2026-09-20T17:46:00+00:00</updated>
+    <media:thumbnail url="https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTkxMzEyOCwiZXhwIjoxNzkwNTE3OTI4LCJhcnRpY2xlSWQiOiJUTE8xSzFOM04wOTMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.bwDgdcsumu74i6R9UysnUwPKIWKcRVlLuyNpT_Z2_J0">bloomberg.com</a></small></p><hr/><p>The company's "intelligent personal hub" strategy is expanding beyond the iPhone to include potential smart home hardware driven by a revamped, conversational Siri AI. This expansion coincides with organizational changes, including job cuts and management reviews within the Apple Fitness+ service.</p><p>A projected home hub is expected to feature a display and facial recognition to provide personalized user assistance. Additionally, Apple is reportedly nearing an imminent launch of Apple Pay in India and continuing AI-integrated development for the iPhone Duo.</p><p><img src="https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg" /></p><hr/><small>20 Sep 2026, 22:04 UTC | #21742</small>]]></content>
+  </entry>
   <entry>
     <title>Sherline Products to Wind Down Manufacturing Operations</title>
     <link href="https://toolguyd.com/sherline-tools-shutting-down-usa-production/" rel="alternate" />
@@ -1013,14 +1022,5 @@
     <updated>2026-09-16T00:24:00+00:00</updated>
     <media:thumbnail url="https://4sysops.com/wp-content/uploads/2025/09/The-EU-is-only-a-bystander-in-the-global-AI-race.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/15/opinion/ezra-klein-podcast-matt-sheehan.html?unlocked_article_code=1.BVE.iOGp.xysboJ9Ytg6-&smid=url-share">nytimes.com</a> | <a href="https://podcasts.apple.com/us/podcast/the-but-china-dilemma-driving-the-a-i-race/id1548604447?i=1000789743497">source</a></small></p><hr/><p>The competition between the United States and China in artificial intelligence involves complex technical and political dynamics. Key topics include the role of model distillation and the strategic effects of US semiconductor export controls.</p><p>Hardware access and regulatory frameworks influence the trajectory of global AI development and international relations. The discussion explores how these elements shape strategic competition and technological capabilities.</p><p><img src="https://4sysops.com/wp-content/uploads/2025/09/The-EU-is-only-a-bystander-in-the-global-AI-race.png" /></p><hr/><small>16 Sep 2026, 06:42 UTC | #21246</small>]]></content>
-  </entry>
-  <entry>
-    <title>Pulley to Shut Down, Carta to Help Transition Customers</title>
-    <link href="https://www.businessinsider.com/pulley-shuts-down-carta-helps-transition-customers-2026-9" rel="alternate" />
-    <id>https://www.businessinsider.com/pulley-shuts-down-carta-helps-transition-customers-2026-9::v239</id>
-    <published>2026-09-15T21:52:00+00:00</published>
-    <updated>2026-09-15T21:52:00+00:00</updated>
-    <media:thumbnail url="https://assets.seobotai.com/undefined/694f262212e0ddc12500d661-1766800564333.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/pulley-shuts-down-carta-helps-transition-customers-2026-9">businessinsider.com</a></small></p><hr/><p>The cap table management startup Pulley will cease operations on December 8. The company, which raised over $50 million from investors including Stripe and General Catalyst, is winding down its seven-year operation.</p><p>Rival competitor Carta has agreed to assist Pulley's customers with the transition. Under a limited-time promotion, migrating customers can maintain their current Pulley pricing for the first year and receive credits for any unused portions of their Pulley subscriptions.</p><p><img src="https://assets.seobotai.com/undefined/694f262212e0ddc12500d661-1766800564333.jpg" /></p><hr/><small>16 Sep 2026, 03:58 UTC | #21234</small>]]></content>
   </entry>
 </feed>
