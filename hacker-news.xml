@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-20T10:52:00+00:00</updated>
+  <updated>2026-09-20T15:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Software Sandboxing Syscall Policy Framework</title>
+    <link href="https://blog.emilua.org/2025/01/12/software-sandboxing-basics/" rel="alternate" />
+    <id>https://blog.emilua.org/2025/01/12/software-sandboxing-basics/::v239</id>
+    <published>2026-09-20T15:19:00+00:00</published>
+    <updated>2026-09-20T15:19:00+00:00</updated>
+    <media:thumbnail url="https://www.easefilter.com/images/sandbox-architecture.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.emilua.org/2025/01/12/software-sandboxing-basics/">blog.emilua.org</a> | <a href="https://lobste.rs/s/brptxb/software_sandboxing_basics_2025">discussion</a></small></p><hr/><p>Software sandboxing is structured through defined system call (syscall) policy groups that categorize operations such as basic I/O, filesystem access, and networking. These policies are designed for unprivileged users to restrict application permissions using mechanisms like seccomp or landlock, reducing overhead by excluding rarely used or fingerprinting-prone syscalls.</p><p>The policy design draws inspiration from OpenBSD's pledge promises and systemd seccomp filter sets. This modular categorization facilitates granular security controls while maintaining compatibility for various environments, including emulation layers like Wine.</p><p><img src="https://www.easefilter.com/images/sandbox-architecture.jpg" /></p><hr/><small>20 Sep 2026, 18:22 UTC | #21752</small>]]></content>
+  </entry>
   <entry>
     <title>The Jujutsu (jj) Ecosystem: Commands, Configuration, and Tools</title>
     <link href="https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/" rel="alternate" />
