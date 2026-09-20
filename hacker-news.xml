@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-19T20:44:00+00:00</updated>
+  <updated>2026-09-19T22:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Base Browser Project Develops AI-Free Firefox Fork</title>
+    <link href="https://sarahjamielewis.com/log/2026/future-of-web-browsers.html" rel="alternate" />
+    <id>https://sarahjamielewis.com/log/2026/future-of-web-browsers.html::v239</id>
+    <published>2026-09-19T22:28:00+00:00</published>
+    <updated>2026-09-19T22:28:00+00:00</updated>
+    <media:thumbnail url="https://hackread.com/wp-content/uploads/2025/11/update-firefox-patch-cve-2025-13016-vulnerability.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sarahjamielewis.com/log/2026/future-of-web-browsers.html">sarahjamielewis.com</a> | <a href="https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers">discussion</a> | <a href="https://news.ycombinator.com/item?id=49771008">hacker news</a></small></p><hr/><p>The Base Browser Project is developing a hard fork of Firefox, based on version 153 ESR, that uses extensive patches to permanently remove user-hostile features, such as AI integrations, from the codebase. Rather than simply disabling these features, the project's approach is to delete the code entirely to prevent a shift toward a browser environment built for third-party AI agents.</p><p>Hosted on Codeberg, the project aims to establish a collaborative, community-maintained foundation for the web that prioritizes user control over commercial interests. However, the author notes that maintaining such a project faces significant challenges regarding the long-term funding and developer effort required to compete with established organizations like Mozilla.</p><p><img src="https://hackread.com/wp-content/uploads/2025/11/update-firefox-patch-cve-2025-13016-vulnerability.jpg" /></p><hr/><small>20 Sep 2026, 05:06 UTC | #21718</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Accelerates Jalapeño AI Chip Design Using LLMs</title>
     <link href="https://spectrum.ieee.org/llms-for-chip-design" rel="alternate" />
