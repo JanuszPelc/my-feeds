@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-20T10:58:00+00:00</updated>
+  <updated>2026-09-20T15:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Ad Collector Links External Website Activity to ChatGPT Accounts</title>
+    <link href="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/" rel="alternate" />
+    <id>https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/::v239</id>
+    <published>2026-09-20T15:21:00+00:00</published>
+    <updated>2026-09-20T15:21:00+00:00</updated>
+    <media:thumbnail url="https://storage.ghost.io/c/b8/53/b853e3d4-3186-409d-9c7f-7da931a60431/content/images/2026/09/Screenshot-2026-09-20-at-5.00.35---PM.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/">buchodi.com</a> | <a href="https://news.ycombinator.com/item?id=49776729">hacker news</a></small></p><hr/><p>OpenAI's measurement pixel utilizes a cross-site cookie, __obi, to associate user activity on third-party websites with specific ChatGPT accounts. By installing this code, advertisers enable OpenAI to track browsing habits, product searches, and purchase behaviors on external domains and link them back to individual users.</p><p>The mechanism employs a SameSite=none configuration, allowing the identifier to persist even when users are browsing anonymously or are logged out of ChatGPT. While much of the harvested data is hashed, such as emails and phone numbers, the system also scrapes unhashed information including location details and URL paths, potentially connecting sensitive web activity to individual users.</p><p><img src="https://storage.ghost.io/c/b8/53/b853e3d4-3186-409d-9c7f-7da931a60431/content/images/2026/09/Screenshot-2026-09-20-at-5.00.35---PM.png" /></p><hr/><small>20 Sep 2026, 18:36 UTC | #21755</small>]]></content>
+  </entry>
   <entry>
     <title>Google and Tech Industry Influence AI Chatbot Safety Legislation</title>
     <link href="https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google" rel="alternate" />
