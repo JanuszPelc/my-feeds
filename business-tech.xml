@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-19T17:37:00+00:00</updated>
+  <updated>2026-09-19T17:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>DraftKings Uses AI to Target Bettors Most Likely to Lose</title>
+    <link href="https://www.nytimes.com/2026/09/19/business/draftkings-ai.html?unlocked_article_code=1.CVE.9v0l.IfNa4oho1eM4&amp;smid=bs-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/19/business/draftkings-ai.html?unlocked_article_code=1.CVE.9v0l.IfNa4oho1eM4&amp;smid=bs-share::v239</id>
+    <published>2026-09-19T17:46:00+00:00</published>
+    <updated>2026-09-19T17:46:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25jpvI.img?w=768&amp;h=432&amp;m=6" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/19/business/draftkings-ai.html?unlocked_article_code=1.CVE.9v0l.IfNa4oho1eM4&smid=bs-share">nytimes.com</a></small></p><hr/><p>DraftKings uses machine learning to identify bettors most likely to incur losses and targets them with promotional incentives to encourage continued gambling. While the company employs data science to optimize revenue from these segments, former employees report that predictive models designed to identify and flag gambling addiction risks have been suppressed or shelved.</p><p>The prioritization of revenue-maximizing AI over harm-reduction technology highlights the ethical and regulatory complexities of using predictive analytics in the gambling industry. These findings raise concerns about whether data-driven marketing strategies exploit behavioral patterns in vulnerable users to increase profitability.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25jpvI.img?w=768&h=432&m=6" /></p><hr/><small>20 Sep 2026, 00:48 UTC | #21692</small>]]></content>
+  </entry>
   <entry>
     <title>Google Claims Gemini Hacking Incidents Do Not Constitute AI Misalignment</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack" rel="alternate" />
