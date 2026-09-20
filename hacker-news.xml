@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-19T23:55:00+00:00</updated>
+  <updated>2026-09-19T23:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>SVE2 Match Instruction Accelerates simdjson on ARM Processors</title>
+    <link href="https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/" rel="alternate" />
+    <id>https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/::v239</id>
+    <published>2026-09-19T23:57:00+00:00</published>
+    <updated>2026-09-19T23:57:00+00:00</updated>
+    <media:thumbnail url="https://simdjson.com/wp-content/uploads/2026/04/Whisk_89917bbbd29c53e90ed415750e84eb3edr.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/">lemire.me</a> | <a href="https://lobste.rs/s/1auq61/faster_json_parsing_with_sve2_on_arm">discussion</a></small></p><hr/><p>The `simdjson` library achieves increased JSON indexing throughput on modern ARM processors through the use of the SVE2 `match` instruction. This instruction enables efficient character classification by replacing multiple NEON instructions with a single operation. Benchmarks on AWS Graviton 4 and 5 processors indicate indexing speedups of 3% to 9% over traditional NEON-based implementations.</p><p>The optimization, contributed by ARM engineer Madhurendra Purbay, is being integrated into the `simdjson` library. The performance gains are specific to hardware supporting SVE2, such as the Neoverse V2 and V3 architectures, and are currently unavailable on Apple silicon or older Graviton chips. Current builds require specific compiler flags to enable the SVE2 code path.</p><p><img src="https://simdjson.com/wp-content/uploads/2026/04/Whisk_89917bbbd29c53e90ed415750e84eb3edr.jpeg" /></p><hr/><small>20 Sep 2026, 08:41 UTC | #21725</small>]]></content>
+  </entry>
   <entry>
     <title>Jens Axboe Proposes Thread Identity Handoff for io_uring</title>
     <link href="https://lwn.net/SubscriberLink/1094303/50affb2e7bd3e698/" rel="alternate" />
