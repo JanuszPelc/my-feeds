@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-20T06:17:00+00:00</updated>
+  <updated>2026-09-20T10:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI Training Practices Threaten Open Source and Creative Commons</title>
+    <link href="https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/" rel="alternate" />
+    <id>https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/::v239</id>
+    <published>2026-09-20T10:08:00+00:00</published>
+    <updated>2026-09-20T10:08:00+00:00</updated>
+    <media:thumbnail url="https://www.insightsonindia.com/wp-content/uploads/2025/12/Generative-AI-Copyright-1024x576.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/">chesterwisniewski.com</a> | <a href="https://news.ycombinator.com/item?id=49774329">hacker news</a></small></p><hr/><p>Generative AI models consume online data without adhering to copyright or licensing requirements, undermining the social contract of digital openness. This practice creates risks for creators, such as being implicated in the use of stolen work, increased exposure to security vulnerabilities in shared code, and an influx of AI-generated "slop" that complicates code maintenance.</p><p>The shift from information sharing as a communal benefit to a personal liability for authors and developers could trigger a "digital dark age." Without new frameworks to protect intellectual labor and prevent the consolidation of power by large-scale AI entities, the foundational openness that enables modern cloud and internet services is at risk.</p><p><img src="https://www.insightsonindia.com/wp-content/uploads/2025/12/Generative-AI-Copyright-1024x576.jpg" /></p><hr/><small>20 Sep 2026, 14:07 UTC | #21738</small>]]></content>
+  </entry>
   <entry>
     <title>Spain Blocks Access to Archive.today Domains and Mirrors</title>
     <link href="https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors" rel="alternate" />
@@ -1139,14 +1148,5 @@
     <updated>2026-09-15T14:31:00+00:00</updated>
     <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-MacNeil-Sofman-Mackey-16x9-Dark.png?w=680" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/">techcrunch.com</a> | <a href="https://techcrunch.com/events/techcrunch-disrupt/">source</a></small></p><hr/><p>The "From Prototype to Production: Can It Scale in Reality?" session at TechCrunch Disrupt 2026 addresses the transition from experimental prototypes to reliable, large-scale deployment. Speakers John Mackey (MBRYONICS), Boris Sofman (Bedrock Robotics), and Adrian Macneil (Foxglove) will discuss scaling challenges regarding manufacturing, infrastructure, and reliability in space communications and autonomous systems.</p><p>The session is part of the Real World AI Stage at the conference, held October 13–15 at Moscone West in San Francisco. TechCrunch Disrupt 2026 brings together over 10,000 founders, investors, and operators to explore the intersection of digital and physical AI technologies.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-MacNeil-Sofman-Mackey-16x9-Dark.png?w=680" /></p><hr/><small>15 Sep 2026, 19:49 UTC | #21192</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Bundles Apple TV and Apple Arcade with iCloud+ in Select Countries</title>
-    <link href="https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/" rel="alternate" />
-    <id>https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/::v239</id>
-    <published>2026-09-15T14:07:00+00:00</published>
-    <updated>2026-09-15T14:07:00+00:00</updated>
-    <media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-apple-arcade-icloud-plan.jpg?quality=82&amp;strip=all&amp;w=1600" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5mac.com/2026/09/15/icloud-apple-tv-arcade-included-select-countries/">9to5mac.com</a> | <a href="https://www.apple.com/mz/newsroom/2026/09/icloud-plus-expands-to-include-apple-tv-and-apple-arcade/">source</a></small></p><hr/><p>Apple is including Apple TV and Apple Arcade subscriptions in iCloud+ plans at no extra cost in more than 100 countries. This expansion applies even to the 50 GB entry-level tier and is rolling out gradually through September 2026. The move aims to drive service growth in price-sensitive and smaller international markets.</p><p>Some markets will also receive an "Apple Music Select" tier, offering ad-free radio stations and a discounted upgrade path to full Apple Music plans. Additionally, Apple TV is expanding its reach to 59 new countries as part of this rollout, bringing its total availability to 170 countries.</p><p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-apple-arcade-icloud-plan.jpg?quality=82&strip=all&w=1600" /></p><hr/><small>15 Sep 2026, 19:47 UTC | #21178</small>]]></content>
   </entry>
 </feed>
