@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-19T19:58:00+00:00</updated>
+  <updated>2026-09-19T23:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI Kill Switch Legislation Faces Technical Implementation Challenges</title>
+    <link href="https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html?unlocked_article_code=1.CVE.rpX7.JmRRyyhR-A_2&amp;smid=nytcore-ios-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html?unlocked_article_code=1.CVE.rpX7.JmRRyyhR-A_2&amp;smid=nytcore-ios-share::v239</id>
+    <published>2026-09-19T23:51:00+00:00</published>
+    <updated>2026-09-19T23:51:00+00:00</updated>
+    <media:thumbnail url="https://www.miniorange.com/blog/assets/2026/the-4-layer-of-an-ai-kill.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html?unlocked_article_code=1.CVE.rpX7.JmRRyyhR-A_2&smid=nytcore-ios-share">nytimes.com</a></small></p><hr/><p>Implementing "kill switch" mechanisms to shut down rogue artificial intelligence systems is more technically difficult than current legislative proposals suggest, according to experts. While lawmakers have proposed methods to power down AI models, researchers caution that advanced systems might be able to actively dismantle or bypass these safeguards.</p><p>The discussion stems from bipartisan efforts in Congress to establish emergency shutdown authorities for advanced AI. Technical experts highlight that the decentralized nature of AI infrastructure makes finding a single, centralized "plug" to pull highly impractical for enforcing mandatory shutdown orders.</p><p><img src="https://www.miniorange.com/blog/assets/2026/the-4-layer-of-an-ai-kill.webp" /></p><hr/><small>20 Sep 2026, 06:52 UTC | #21708</small>]]></content>
+  </entry>
   <entry>
     <title>Trump Proposes Rebranding AI and Establishing an 'AI Force'</title>
     <link href="https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/" rel="alternate" />
