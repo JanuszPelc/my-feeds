@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-20T11:55:00+00:00</updated>
+  <updated>2026-09-20T12:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Hakuna Audio Releases Free Hakunizer One-Knob Enhancer</title>
+    <link href="https://bedroomproducersblog.com/2026/09/20/hakuna-audio-hakunizer/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/20/hakuna-audio-hakunizer/::v239</id>
+    <published>2026-09-20T12:09:00+00:00</published>
+    <updated>2026-09-20T12:09:00+00:00</updated>
+    <media:thumbnail url="https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/4444f8ce-cdc5-4230-8686-47e1e3d22a11/7+Awesome+AI-Powered+Audio+Production+Plugins.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/20/hakuna-audio-hakunizer/">bedroomproducersblog.com</a> | <a href="https://hakunaaudio.com/plugins/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/20/hakuna-audio-hakunizer/#respond">discussion</a></small></p><hr/><p>Hakuna Audio has released Hakunizer, a free one-knob enhancer plugin for macOS and Windows. The tool provides rapid audio enhancement via a single control and is compatible with VST3, CLAP, and Audio Unit formats.</p><p>The plugin's workflow is designed for simplicity, drawing comparisons to Image-Line's Soundgoodizer. It is compatible with Windows 10/11 and macOS 10.13 or later.</p><p><img src="https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/4444f8ce-cdc5-4230-8686-47e1e3d22a11/7+Awesome+AI-Powered+Audio+Production+Plugins.jpg" /></p><hr/><small>20 Sep 2026, 17:21 UTC | #21733</small>]]></content>
+  </entry>
   <entry>
     <title>ModeAudio Releases Quiet Piano Ambient Loops</title>
     <link href="https://bedroomproducersblog.com/2026/09/20/modeaudio-quiet-piano-ambient-loops/" rel="alternate" />
