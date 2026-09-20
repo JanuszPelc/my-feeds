@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-19T23:53:00+00:00</updated>
+  <updated>2026-09-20T06:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Clinicians Raise Concerns Over Medical AI Adoption Beyond Diagnostics</title>
+    <link href="https://www.ft.com/content/34319b00-f874-4119-aa28-8376d81e7190?accessToken=zwAAAaCzYrGnkc80MZsA-HRBGdOqKIN22B5xkA.MEUCIQDh5MyIZd4xQHpDt7lRWd_jRW8UVw0M6HVUaEFNZGGiyAIgNfC4GoPUJ52cIsx9jKfagefYGmp615EBL0zBHCHDLs8&amp;sharetype=gift&amp;token=16a91402-8400-4a83-acb8-176a14b47ba2&amp;syn-25a6b1a6=1" rel="alternate" />
+    <id>https://www.ft.com/content/34319b00-f874-4119-aa28-8376d81e7190?accessToken=zwAAAaCzYrGnkc80MZsA-HRBGdOqKIN22B5xkA.MEUCIQDh5MyIZd4xQHpDt7lRWd_jRW8UVw0M6HVUaEFNZGGiyAIgNfC4GoPUJ52cIsx9jKfagefYGmp615EBL0zBHCHDLs8&amp;sharetype=gift&amp;token=16a91402-8400-4a83-acb8-176a14b47ba2&amp;syn-25a6b1a6=1::v239</id>
+    <published>2026-09-20T06:19:00+00:00</published>
+    <updated>2026-09-20T06:19:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQGbX381Ki9LLA/feedshare-shrink_800/B56Zt_VXdbJAAg-/0/1767367866944?e=2147483647&amp;v=beta&amp;t=rkrrKpR9BVVzb9xW5bJ3zE4u25SepsAjuBj-KBxyusc" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/34319b00-f874-4119-aa28-8376d81e7190?accessToken=zwAAAaCzYrGnkc80MZsA-HRBGdOqKIN22B5xkA.MEUCIQDh5MyIZd4xQHpDt7lRWd_jRW8UVw0M6HVUaEFNZGGiyAIgNfC4GoPUJ52cIsx9jKfagefYGmp615EBL0zBHCHDLs8&sharetype=gift&token=16a91402-8400-4a83-acb8-176a14b47ba2&syn-25a6b1a6=1">ft.com</a></small></p><hr/><p>Clinicians are expressing concern regarding the adoption of medical artificial intelligence in clinical workflows outside of diagnostics and medical imaging. Despite rapid technological advancements, there is a significant lack of robust clinical and performance data to prove the effectiveness of these tools in improving real-world patient care.</p><p>The disconnect between technological capability and clinical utility remains a barrier to widespread implementation. While automated sepsis detection systems aim to streamline routine monitoring, their impact on actual health outcomes lacks broad, verifiable evidence in many medical settings.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQGbX381Ki9LLA/feedshare-shrink_800/B56Zt_VXdbJAAg-/0/1767367866944?e=2147483647&v=beta&t=rkrrKpR9BVVzb9xW5bJ3zE4u25SepsAjuBj-KBxyusc" /></p><hr/><small>20 Sep 2026, 13:12 UTC | #21722</small>]]></content>
+  </entry>
   <entry>
     <title>Red Blob Games Analyzes 'A' vs. 'An' Usage Exceptions</title>
     <link href="https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/" rel="alternate" />
