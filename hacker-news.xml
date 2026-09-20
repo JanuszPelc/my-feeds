@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-20T16:05:00+00:00</updated>
+  <updated>2026-09-20T17:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Samsung to Double HBM4 Production Next Year</title>
+    <link href="https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say" rel="alternate" />
+    <id>https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say::v239</id>
+    <published>2026-09-20T17:39:00+00:00</published>
+    <updated>2026-09-20T17:39:00+00:00</updated>
+    <media:thumbnail url="https://wimg.sedaily.com/news/cms/2026/09/20/rcv.YNA.20260318.PYH2026031803840001300_P1.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say">en.sedaily.com</a> | <a href="https://news.ycombinator.com/item?id=49778029">hacker news</a></small></p><hr/><p>Samsung Electronics plans to more than double its HBM4 and HBM4E high-bandwidth memory output next year, targeting a monthly production scale of 250,000 wafers. This would represent a 40% increase from the 180,000 wafers per month estimated for 2026, with HBM4-family products expected to make up 80% of the company's total HBM shipment mix.</p><p>To support the production ramp-up, Samsung is increasing its demand for glass carriers—essential for preventing wafer warping during the thinning process—by 2.5 times, from 20,000 to 50,000 sheets per month. The production expansion follows the company's start of mass-production for HBM4 in early 2026 and the delivery of 12-layer HBM4E samples to customers such as Nvidia.</p><p><img src="https://wimg.sedaily.com/news/cms/2026/09/20/rcv.YNA.20260318.PYH2026031803840001300_P1.jpg" /></p><hr/><small>20 Sep 2026, 20:26 UTC | #21763</small>]]></content>
+  </entry>
+  <entry>
+    <title>Tim Hentenaar Maintains Active Motif UI Toolkit Fork</title>
+    <link href="https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/" rel="alternate" />
+    <id>https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/::v239</id>
+    <published>2026-09-20T17:14:00+00:00</published>
+    <updated>2026-09-20T17:14:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/">osnews.com</a> | <a href="https://github.com/thentenaar/motif">source</a> | <a href="https://lobste.rs/s/xrnbcn/actively_maintained_updated_motif_fork">discussion</a> | <a href="https://news.ycombinator.com/item?id=49425542">hacker news</a></small></p><hr/><p>Tim Hentenaar has launched an active fork of the Motif UI toolkit to sustain the legacy X11 software ecosystem. The project was created following the stagnation of the original Motif project on Sourceforge, which has lacked administrative activity and official bug tracking for several years.</p><p>The fork incorporates various historical fixes from upstream and Gentoo alongside new improvements. Having released five updates since its inception, the project aims to support a niche community of users and developers dedicated to maintaining classic UNIX-based desktop environments.</p><hr/><small>20 Sep 2026, 20:23 UTC | #21764</small>]]></content>
+  </entry>
   <entry>
     <title>Lambda MicroEgg Supports Alpha-Aware Binders and Miller Patterns</title>
     <link href="https://www.philipzucker.com/lambda_miller_egg/" rel="alternate" />
