@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-19T16:15:00+00:00</updated>
+  <updated>2026-09-20T10:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>CleanShot 5 Settings Redesign Criticized for Reduced Usability</title>
+    <link href="https://unsung.aresluna.org/cleanshots-bulldozed-settings/" rel="alternate" />
+    <id>https://unsung.aresluna.org/cleanshots-bulldozed-settings/::v239</id>
+    <published>2026-09-20T10:56:00+00:00</published>
+    <updated>2026-09-20T10:56:00+00:00</updated>
+    <media:thumbnail url="https://c.clc2l.com/c/screenshot/i/c/l/cleanshot-x-GnvuiY.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://unsung.aresluna.org/cleanshots-bulldozed-settings/">unsung.aresluna.org</a> | <a href="https://lobste.rs/s/adploh/cleanshot_s_bulldozed_settings">discussion</a></small></p><hr/><p>The version 5 update of CleanShot has significantly degraded the usability of its settings interface. By attempting to mirror the design language of macOS Ventura and Sequoia, the software has lost the intuitive "shape coding" and efficient layout present in version 4.</p><p>Issues identified include a cumbersome two-pane layout, difficult-to-read right-aligned controls, and reduced clicking precision due to narrower interface elements. The design sacrifices functional scannability and accessibility in favor of a modern, system-consistent aesthetic.</p><p><img src="https://c.clc2l.com/c/screenshot/i/c/l/cleanshot-x-GnvuiY.jpg" /></p><hr/><small>20 Sep 2026, 15:56 UTC | #21746</small>]]></content>
+  </entry>
   <entry>
     <title>OpenGOAL Project Offers Native x86-64 Port of Jak and Daxter Trilogy</title>
     <link href="https://opengoal.dev/" rel="alternate" />

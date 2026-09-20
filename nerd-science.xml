@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-20T06:22:00+00:00</updated>
+  <updated>2026-09-20T10:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Jens Egholm Pedersen Argues Modern Science is Open Source Software</title>
+    <link href="https://jepedersen.dk/blog/202505_research/" rel="alternate" />
+    <id>https://jepedersen.dk/blog/202505_research/::v239</id>
+    <published>2026-09-20T10:55:00+00:00</published>
+    <updated>2026-09-20T10:55:00+00:00</updated>
+    <media:thumbnail url="https://arxiv.org/html/2601.02066v4/images/RQ4_reproducibility.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jepedersen.dk/blog/202505_research/">jepedersen.dk</a> | <a href="https://news.ycombinator.com/item?id=49762687">hacker news</a></small></p><hr/><p>Jens Egholm Pedersen argues that modern computational science is effectively synonymous with open source software. He contends that for scientific results to be truly testable and systematic, the underlying software must be open, modifiable, and reproducible, allowing researchers to verify and build upon existing models.</p><p>The essay highlights the risks of software-driven errors in research, noting that bugs can lead to significant retractions and stalled scientific progress. Pedersen envisions a future where scientific software is developed through global, collaborative communities and calls for academic institutions to formally recognize and value software contributions.</p><p><img src="https://arxiv.org/html/2601.02066v4/images/RQ4_reproducibility.png" /></p><hr/><small>20 Sep 2026, 15:52 UTC | #21745</small>]]></content>
+  </entry>
   <entry>
     <title>Poul-Henning Kamp on the Origins of 'Bikeshedding' in the FreeBSD Project</title>
     <link href="https://phk.freebsd.dk/sagas/bikeshed/" rel="alternate" />
