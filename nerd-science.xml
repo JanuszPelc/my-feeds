@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-19T17:39:00+00:00</updated>
+  <updated>2026-09-19T17:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Erich Grunewald Argues Against Using AI for Substantive Writing</title>
+    <link href="https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai" rel="alternate" />
+    <id>https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai::v239</id>
+    <published>2026-09-19T17:49:00+00:00</published>
+    <updated>2026-09-19T17:49:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!IqI1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa02c7b29-f1f8-43f9-95c4-6a2c9480e681_730x523.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai">erichgrunewald.substack.com</a> | <a href="https://news.ycombinator.com/item?id=49767937">hacker news</a></small></p><hr/><p>Using AI to generate substantive text intended to convey ideas, arguments, or analysis undermines the cognitive thinking process. The act of writing is essential to developing coherent thoughts, and AI-generated prose often contains subtle, hard-to-detect inaccuracies and informational vagueness.</p><p>While AI is suitable for auxiliary tasks like research, brainstorming, and data analysis, delegating the actual writing task is discouraged. Presenting AI-generated prose as human-written violates the implicit contract of trust between an author and a reader.</p><p><img src="https://substackcdn.com/image/fetch/$s_!IqI1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa02c7b29-f1f8-43f9-95c4-6a2c9480e681_730x523.png" /></p><hr/><small>20 Sep 2026, 01:02 UTC | #21710</small>]]></content>
+  </entry>
   <entry>
     <title>Warez Explores the Infrastructure and Aesthetics of Digital Piracy</title>
     <link href="https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157" rel="alternate" />

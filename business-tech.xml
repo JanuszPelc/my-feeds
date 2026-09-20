@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-19T17:46:00+00:00</updated>
+  <updated>2026-09-19T19:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Trump Proposes Rebranding AI and Establishing an 'AI Force'</title>
+    <link href="https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/::v239</id>
+    <published>2026-09-19T19:58:00+00:00</published>
+    <updated>2026-09-19T19:58:00+00:00</updated>
+    <media:thumbnail url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/1200/675/trump-ai-race.jpg?ve=1&amp;tl=1" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/">techcrunch.com</a></small></p><hr/><p>Donald Trump has proposed rebranding artificial intelligence with names such as "Superior Intelligence" or "Supreme Intelligence" and announced plans to establish an "AI Force." He characterized recent AI safety concerns as political hoaxes and indicated he intends to appoint an "AI Czar" to oversee the industry.</p><p>These statements come amid an escalating debate over AI safety and the potential risks of rapid technological development. While some industry leaders have dismissed claims of an impending slowdown, critics and researchers continue to argue for increased regulation and safeguards.</p><p><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/1200/675/trump-ai-race.jpg?ve=1&tl=1" /></p><hr/><small>20 Sep 2026, 01:08 UTC | #21698</small>]]></content>
+  </entry>
   <entry>
     <title>DraftKings Uses AI to Target Bettors Most Likely to Lose</title>
     <link href="https://www.nytimes.com/2026/09/19/business/draftkings-ai.html?unlocked_article_code=1.CVE.9v0l.IfNa4oho1eM4&amp;smid=bs-share" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-19T17:33:00+00:00</updated>
+  <updated>2026-09-19T17:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>LispBM Offers Concurrent Lisp for Microcontrollers</title>
+    <link href="https://www.lispbm.com/" rel="alternate" />
+    <id>https://www.lispbm.com/::v239</id>
+    <published>2026-09-19T17:50:00+00:00</published>
+    <updated>2026-09-19T17:50:00+00:00</updated>
+    <media:thumbnail url="https://www.lispbm.com/images/platforms/esp32c3.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.lispbm.com/">lispbm.com</a> | <a href="https://lobste.rs/s/upvrzs/lispbm_concurrent_lisp_for">discussion</a> | <a href="https://news.ycombinator.com/item?id=49733523">hacker news</a></small></p><hr/><p>Utilizing concurrency and message passing models inspired by Erlang, this Lisp implementation is designed for microcontroller environments. It features pattern matching and process monitoring to facilitate embedded development.</p><p>Developers can test the language via a WebAssembly-based REPL or access documentation and source code on GitHub. The project supports platforms such as ESP32 and STM32.</p><p><img src="https://www.lispbm.com/images/platforms/esp32c3.jpg" /></p><hr/><small>20 Sep 2026, 01:06 UTC | #21711</small>]]></content>
+  </entry>
   <entry>
     <title>Ledger Donjon Researchers Demonstrate Laser Fault Injection Attack on Raspberry Pi RP2350</title>
     <link href="https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/" rel="alternate" />
