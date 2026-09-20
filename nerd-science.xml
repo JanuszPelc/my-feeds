@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-20T11:57:00+00:00</updated>
+  <updated>2026-09-20T16:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>LLMs Replicate the Mechanisms of Psychic Cold Reading</title>
+    <link href="https://softwarecrisis.dev/letters/llmentalist/" rel="alternate" />
+    <id>https://softwarecrisis.dev/letters/llmentalist/::v239</id>
+    <published>2026-09-20T16:07:00+00:00</published>
+    <updated>2026-09-20T16:07:00+00:00</updated>
+    <media:thumbnail url="https://media.assettype.com/analyticsinsight/2026-04-24/qohmbg4y/he-Evolution-of-Chat-Based-AI-in-the-Era-of-Data.jpg?w=1200&amp;ar=40:21&amp;auto=format,compress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://softwarecrisis.dev/letters/llmentalist/">softwarecrisis.dev</a> | <a href="https://news.ycombinator.com/item?id=49775104">hacker news</a></small></p><hr/><p>Chat-based large language models (LLMs) create an "intelligence illusion" by employing mechanisms similar to those used in psychic "cold reading." Rather than possessing inherent reasoning, these models generate statistically plausible but generic responses that trigger subjective validation, leading users to perceive specific, personal meaning in the output.</p><p>This phenomenon utilizes the Forer effect, where vague "validation statements" are interpreted as accurate personal descriptions. User predisposition to believe in AI intelligence amplifies this effect, as individuals tend to overlook errors and prioritize coincidental successes, reinforcing the illusion of machine consciousness.</p><p><img src="https://media.assettype.com/analyticsinsight/2026-04-24/qohmbg4y/he-Evolution-of-Chat-Based-AI-in-the-Era-of-Data.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100" /></p><hr/><small>20 Sep 2026, 20:09 UTC | #21762</small>]]></content>
+  </entry>
   <entry>
     <title>Prioritizing Output Over Perfection in Programming and Writing</title>
     <link href="https://www.seangoedecke.com/grit-your-teeth-and-ship-it/" rel="alternate" />
@@ -185,14 +194,5 @@
     <updated>2026-09-16T05:07:00+00:00</updated>
     <media:thumbnail url="https://hms.harvard.edu/sites/default/files/styles/hms_hero_featured/public/2026-06/848+fruit+fly.jpg?itok=B_4z9Qnh" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.404media.co/a-digital-fly-brain-has-taken-over-the-internet/">404media.co</a> | <a href="https://male-cns.janelia.org/">source</a></small></p><hr/><p>HHMI Janelia Research Campus and Google Research have released MaleCNS v1.0, a complete map of the central nervous system of an adult male fruit fly. This connectome details the synaptic connections of more than 166,000 neurons, enabling researchers to conduct high-resolution comparisons of neural structures between sexes.</p><p>The digital brain has sparked social media trends where modders simulate neural activity in virtual environments like Minecraft and Doom. In a scientific context, the dataset is intended to facilitate research into motor control, sensory systems, and the fundamental mechanisms of neurobiology.</p><p><img src="https://hms.harvard.edu/sites/default/files/styles/hms_hero_featured/public/2026-06/848+fruit+fly.jpg?itok=B_4z9Qnh" /></p><hr/><small>16 Sep 2026, 11:09 UTC | #21258</small>]]></content>
-  </entry>
-  <entry>
-    <title>Visual Preference Surveys Suggest Widespread Public Preference for Traditional Architecture</title>
-    <link href="https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture" rel="alternate" />
-    <id>https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture::v239</id>
-    <published>2026-09-15T20:03:00+00:00</published>
-    <updated>2026-09-15T20:03:00+00:00</updated>
-    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!8Od6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73453123-77be-41e4-a28c-101424dcd765_2560x1707.jpeg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture">worksinprogress.news</a> | <a href="https://news.ycombinator.com/item?id=49697496">hacker news</a></small></p><hr/><p>Visual preference surveys conducted in several countries, including the United Kingdom, the United States, Canada, and Chile, consistently indicate that a majority of the public prefers traditional architectural styles over modernist designs. These studies often show support for traditional facades and human-scaled, walkable urbanism in the range of 60% to 85%, suggesting a broad public preference for certain aesthetic and structural patterns over unornamented modernism.</p><p>Research also highlights a notable divergence between the aesthetic tastes of architectural professionals and those of the general population. Furthermore, findings suggest that these preferences for traditional architecture are remarkably consistent across different demographics, remaining largely unaffected by age, gender, nationality, or political affiliation.</p><p><img src="https://substackcdn.com/image/fetch/$s_!8Od6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73453123-77be-41e4-a28c-101424dcd765_2560x1707.jpeg" /></p><hr/><small>16 Sep 2026, 01:05 UTC | #21251</small>]]></content>
   </entry>
 </feed>
