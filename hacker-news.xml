@@ -920,31 +920,4 @@
     <media:thumbnail url="https://gihyo.jp/assets/images/article/2022/07/java01/001.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/">mail.openjdk.org</a> | <a href="https://news.ycombinator.com/item?id=49712041">hacker news</a></small></p><hr/><p>The reference implementation of Java 27 is now available for production use. Following the August 20 release of the second Release Candidate (build 35), the version transitioned to general availability after no critical P1 bugs were reported.</p><p>This release features nine JDK Enhancement Proposals (JEPs), including making G1 the default garbage collector in all environments and adding post-quantum hybrid key exchange for TLS 1.3. Other significant updates include structured concurrency, compact object headers by default, and the twelfth incubator of the Vector API.</p><p><img src="https://gihyo.jp/assets/images/article/2022/07/java01/001.jpg" /></p><hr/><small>15 Sep 2026, 17:52 UTC | #21214</small>]]></content>
   </entry>
-  <entry>
-    <title>Microsoft Issues Emergency Windows 11 Update to Fix Patch Tuesday Bugs</title>
-    <link href="https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues" rel="alternate" />
-    <id>https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues::v239</id>
-    <published>2026-09-15T12:49:00+00:00</published>
-    <updated>2026-09-15T12:49:00+00:00</updated>
-    <media:thumbnail url="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blta143d85ca9229714/690d668abe897013489fd893/2409pt-figure-01.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues">theverge.com</a> | <a href="https://support.microsoft.com/en-us/servicing/os/windows-11/2026/09/kb5129194-windows-11-26h1-security-update">source</a></small></p><hr/><p>Microsoft has released an emergency out-of-band update to resolve bugs introduced by its massive September patch Tuesday release. The update addresses issues affecting Hyper-V-based Linux virtual machine folder shares, Remote Desktop Services sessions, and certain USB audio devices.</p><p>The fix is available for Windows 11 (versions 24H2, 25H2, and 26H1), Windows Server 2022 and 2025, and several older versions of Windows 10 and Server. This follows a recent trend of emergency out-of-band updates from Microsoft to address installation failures and performance issues encountered in previous monthly cycles.</p><p><img src="https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blta143d85ca9229714/690d668abe897013489fd893/2409pt-figure-01.png" /></p><hr/><small>15 Sep 2026, 17:44 UTC | #21163</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ubuntu 26.10 Completes Migration to Rust-based Core Utilities</title>
-    <link href="https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete" rel="alternate" />
-    <id>https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete::v239</id>
-    <published>2026-09-15T12:48:00+00:00</published>
-    <updated>2026-09-15T12:48:00+00:00</updated>
-    <media:thumbnail url="https://pbs.twimg.com/media/HGinJ7uXgAAZZL-.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete">omgubuntu.co.uk</a> | <a href="https://documentation.ubuntu.com/release-notes/26.10/">source</a> | <a href="https://news.ycombinator.com/item?id=49696697">hacker news</a></small></p><hr/><p>Ubuntu 26.10 "Stonking Stingray" is set to ship with a complete suite of Rust-based core utilities, including commands such as `ls`, `cat`, `chmod`, `du`, `cp`, `mv`, and `rm`. These specific commands were previously excluded from the `uutils` versions used in Ubuntu 26.04 due to security concerns identified during audits.</p><p>The transition is part of a broader effort by Canonical to "oxidise" the operating system by replacing foundational C-based software with memory-safe Rust alternatives. To support this ecosystem, Canonical provides €40,000 annually to the Trifecta Tech Foundation to fund Rust software development.</p><p><img src="https://pbs.twimg.com/media/HGinJ7uXgAAZZL-.jpg" /></p><hr/><small>15 Sep 2026, 17:31 UTC | #21212</small>]]></content>
-  </entry>
-  <entry>
-    <title>Fugleramme E-ink Frame Renders Detected Birds as 1800s Illustrations</title>
-    <link href="https://github.com/arnegiacomo/fugleramme" rel="alternate" />
-    <id>https://github.com/arnegiacomo/fugleramme::v239</id>
-    <published>2026-09-15T12:32:00+00:00</published>
-    <updated>2026-09-15T12:32:00+00:00</updated>
-    <media:thumbnail url="https://github.com/arnegiacomo/fugleramme/raw/main/docs/assets/hero.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/arnegiacomo/fugleramme">github.com</a> | <a href="https://news.ycombinator.com/item?id=49711544">hacker news</a></small></p><hr/><p>Fugleramme is an open-source Raspberry Pi project that uses real-time audio to detect bird species and displays them on an e-ink screen. It utilizes BirdNET-Go for local AI classification and matches the detected birds to curated, hand-cut 1800s-style naturalist illustrations.</p><p>The hardware setup typically requires a Raspberry Pi 5, an Inky Impression e-ink panel, and a microphone. Beyond the physical frame, the software can also function as a web-based kiosk. The project features over 800 illustrations from public-domain historical plates, covering hundreds of species.</p><p><img src="https://github.com/arnegiacomo/fugleramme/raw/main/docs/assets/hero.jpg" /></p><hr/><small>15 Sep 2026, 15:01 UTC | #21196</small>]]></content>
-  </entry>
 </feed>

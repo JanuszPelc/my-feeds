@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-19T22:43:00+00:00</updated>
+  <updated>2026-09-20T05:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Alibaba Damo Academy Releases Damo Radar Medical AI Model</title>
+    <link href="https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions" rel="alternate" />
+    <id>https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions::v239</id>
+    <published>2026-09-20T05:31:00+00:00</published>
+    <updated>2026-09-20T05:31:00+00:00</updated>
+    <media:thumbnail url="https://cms-image.pandaily.com/0_c69981258b.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions">scmp.com</a> | <a href="https://www.science.org/doi/10.1126/science.aec6129">source</a> | <a href="https://news.ycombinator.com/item?id=49761840">hacker news</a></small></p><hr/><p>Alibaba Group Holding’s Damo Academy has open-sourced Damo Radar, a vision-language model capable of identifying nearly 150 abdominal conditions, including various cancers, from contrast-enhanced CT scans. The model analyzes 18 different abdominal organs by learning from large-scale datasets of CT scans paired with clinical reports.</p><p>Testing showed the model achieved an average area under the curve (AUC) of 0.913 across 146 clinical findings. According to research published in Science, the model functions as an expert-level generalist tool that can increase the diagnostic sensitivity of radiologists by approximately 10%.</p><p><img src="https://cms-image.pandaily.com/0_c69981258b.png" /></p><hr/><small>20 Sep 2026, 12:38 UTC | #21721</small>]]></content>
+  </entry>
   <entry>
     <title>Codex Astra Leads LLM Benchmark for StarCraft: Brood War</title>
     <link href="https://bw.swerdlow.dev/report" rel="alternate" />
@@ -454,32 +463,5 @@
     <updated>2026-09-15T13:17:00+00:00</updated>
     <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQHnPi0gh6xWCw/feedshare-shrink_800/B4EZyB8s3KJsAg-/0/1771706699779?e=2147483647&amp;v=beta&amp;t=WlFe5NjRIhk0JYQyCtwkNwAkg7px2xCFoTHo--Hsdes" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/">techcrunch.com</a></small></p><hr/><p>Founded by Rune Kvist and Rajiv Dattani, the startup has closed a $40 million Series A led by Ribbit Capital to provide third-party certification for AI agents. The company's AIUC-1 standard utilizes a suite of 5,000 tests to validate models against hazards such as hallucinations, jailbreaks, and data leaks.</p><p>Modeled after the SOC 2 cybersecurity standard, the service provides detailed reports to help regulated industries—including banks and hospitals—assess the reliability of autonomous agents. Current customers include Cursor, Lovable, Harvey, and ElevenLabs.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQHnPi0gh6xWCw/feedshare-shrink_800/B4EZyB8s3KJsAg-/0/1771706699779?e=2147483647&v=beta&t=WlFe5NjRIhk0JYQyCtwkNwAkg7px2xCFoTHo--Hsdes" /></p><hr/><small>15 Sep 2026, 18:12 UTC | #21181</small>]]></content>
-  </entry>
-  <entry>
-    <title>Salesforce and Nvidia Launch Koa Reasoning Model</title>
-    <link href="https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/::v239</id>
-    <published>2026-09-15T12:44:00+00:00</published>
-    <updated>2026-09-15T12:44:00+00:00</updated>
-    <media:thumbnail url="https://goodtech.com.ua/wp-content/uploads/2026/03/1d2768724ca23586ecadb8b10af2d68f-scaled.jpg" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/">techcrunch.com</a> | <a href="https://www.salesforce.com/agentforce/koa/">source</a></small></p><hr/><p>Koa is a specialized AI reasoning model designed for enterprise sales, marketing, and customer support tasks. Built on Nvidia’s open-weight Nemotron foundation, the model is integrated into the Agentforce platform to execute complex, multi-step workflows. The developers used synthetic data for post-training to ensure no actual customer information was ingested during development.</p><p>The model serves as a cost-effective and secure alternative to proprietary frontier models by optimizing token efficiency for specific business functions. By focusing on domain-specific reasoning, Koa allows companies to maintain data sovereignty within the Salesforce ecosystem. While Salesforce maintains partnerships for general reasoning via ClaudeForce, Koa enables more specialized, cost-effective agentic workflows.</p><p><img src="https://goodtech.com.ua/wp-content/uploads/2026/03/1d2768724ca23586ecadb8b10af2d68f-scaled.jpg" /></p><hr/><small>15 Sep 2026, 17:11 UTC | #21174</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Grants All Engineers Access to Anthropic's Claude</title>
-    <link href="https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9" rel="alternate" />
-    <id>https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9::v239</id>
-    <published>2026-09-15T12:35:00+00:00</published>
-    <updated>2026-09-15T12:35:00+00:00</updated>
-    <media:thumbnail url="https://i.insider.com/6a60e82bce52cb26b8392702?width=700" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/google-finally-lets-all-engineers-use-anthropics-claude-2026-9">businessinsider.com</a></small></p><hr/><p>Google's engineering workforce can now access Anthropic's Claude Opus 5 model via the company's internal development platform, Antigravity. Although Gemini remains the foundational model for internal projects, the inclusion of Claude is intended to assist with specialized use cases through per-user quotas.</p><p>This policy change acknowledges the intense competition in the AI coding tool market. Previously, access to third-party models like Claude was limited to select teams or high-priority projects, often causing frustration among engineers looking for alternative productivity tools.</p><p><img src="https://i.insider.com/6a60e82bce52cb26b8392702?width=700" /></p><hr/><small>15 Sep 2026, 15:31 UTC | #21149</small>]]></content>
-  </entry>
-  <entry>
-    <title>On-Device vs. Datacenter Inference Constraints in Robotics</title>
-    <link href="https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device" rel="alternate" />
-    <id>https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device::v239</id>
-    <published>2026-09-15T12:34:00+00:00</published>
-    <updated>2026-09-15T12:34:00+00:00</updated>
-    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!GcBX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff71549d3-3441-4f43-bc7a-0f750caf6a58_2048x1110.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://newsletter.semianalysis.com/p/a-brain-too-big-to-carry-on-device">newsletter.semianalysis.com</a></small></p><hr/><p>Robotics inference is governed by real-time control latency and high upfront hardware costs, creating constraints that differ from the training-centric scaling seen in Large Language Models. While LLM sizes are generally optimized against training budgets and inference costs, robot model parameters are currently dictated by the compute and memory limits of onboard edge hardware or the latency requirements of datacenter offloading.</p><p>Future deployment is expected to follow a tiered approach where high-frequency servo and action loops remain onboard, while heavier planning layers are offloaded to the cloud. Efficiency modeling suggests that as robot fleets scale, utilizing shared datacenter GPUs may become more efficient in terms of semiconductor wafer and memory usage per robot than equipping every unit with dedicated high-performance edge silicon.</p><p><img src="https://substackcdn.com/image/fetch/$s_!GcBX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff71549d3-3441-4f43-bc7a-0f750caf6a58_2048x1110.png" /></p><hr/><small>15 Sep 2026, 15:15 UTC | #21147</small>]]></content>
   </entry>
 </feed>
