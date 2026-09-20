@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-20T06:19:00+00:00</updated>
+  <updated>2026-09-20T06:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Poul-Henning Kamp on the Origins of 'Bikeshedding' in the FreeBSD Project</title>
+    <link href="https://phk.freebsd.dk/sagas/bikeshed/" rel="alternate" />
+    <id>https://phk.freebsd.dk/sagas/bikeshed/::v239</id>
+    <published>2026-09-20T06:22:00+00:00</published>
+    <updated>2026-09-20T06:22:00+00:00</updated>
+    <media:thumbnail url="https://www.garden.eco/img/image7_shed-organization-ideas_hang-bicycles-to-save-space.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://phk.freebsd.dk/sagas/bikeshed/">phk.freebsd.dk</a> | <a href="https://lobste.rs/s/9myagn/bikeshed_email_phks_bikeshed">discussion</a></small></p><hr/><p>Poul-Henning Kamp describes how a 1999 FreeBSD mailing list debate over the `sleep(1)` function led to the coining of the term "bikeshedding." The term refers to a phenomenon where technical groups focus disproportionate energy on trivial, easily understood details while overlooking complex and significant issues.</p><p>The essay links this behavior to Parkinson's Law and explores the psychological drivers behind such debates, including the human desire to leave a personal mark on a project. Kamp also discusses the implications for open-source management, suggesting that "parting ways" can be a more effective resolution to strategic conflicts than persistent, unproductive debate.</p><p><img src="https://www.garden.eco/img/image7_shed-organization-ideas_hang-bicycles-to-save-space.jpg" /></p><hr/><small>20 Sep 2026, 13:32 UTC | #21737</small>]]></content>
+  </entry>
   <entry>
     <title>Clinicians Raise Concerns Over Medical AI Adoption Beyond Diagnostics</title>
     <link href="https://www.ft.com/content/34319b00-f874-4119-aa28-8376d81e7190?accessToken=zwAAAaCzYrGnkc80MZsA-HRBGdOqKIN22B5xkA.MEUCIQDh5MyIZd4xQHpDt7lRWd_jRW8UVw0M6HVUaEFNZGGiyAIgNfC4GoPUJ52cIsx9jKfagefYGmp615EBL0zBHCHDLs8&amp;sharetype=gift&amp;token=16a91402-8400-4a83-acb8-176a14b47ba2&amp;syn-25a6b1a6=1" rel="alternate" />

@@ -902,13 +902,4 @@
     <media:thumbnail url="https://xpu.pub/wp-content/uploads/2026/03/mtia300-500-1.webp" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-15/meta-touts-the-cost-saving-benefits-of-latest-in-house-ai-chips">bloomberg.com</a> | <a href="https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/">source</a></small></p><hr/><p>Meta plans to deploy its third-generation MTIA 450 custom AI chip in data centers during the first half of 2027. This will be followed by a broad rollout of the MTIA 500 model by the end of that year.</p><p>The custom silicon is designed to provide cost-saving benefits and optimized performance for Meta's AI workloads. This deployment is part of an ongoing strategy to develop in-house accelerators to power large-scale computing tasks.</p><p><img src="https://xpu.pub/wp-content/uploads/2026/03/mtia300-500-1.webp" /></p><hr/><small>15 Sep 2026, 21:36 UTC | #21194</small>]]></content>
   </entry>
-  <entry>
-    <title>Principles for Fast Tokio Applications</title>
-    <link href="https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/" rel="alternate" />
-    <id>https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/::v239</id>
-    <published>2026-09-15T13:23:00+00:00</published>
-    <updated>2026-09-15T13:23:00+00:00</updated>
-    <media:thumbnail url="https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/mini-redis-latency-distribution.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/">dial9-rs.github.io</a> | <a href="https://news.ycombinator.com/item?id=49698607">hacker news</a></small></p><hr/><p>Optimizing performance in Tokio-based asynchronous Rust applications requires balancing fairness and batching against contention and isolation. Developers should use metrics like schedule latency to distinguish actual performance bottlenecks from benign long polls that do not impact user-facing metrics.</p><p>Improving latency necessitates yielding more frequently to ensure connection fairness, whereas batching work amortizes the overhead of task spawning and runtime events. To avoid stalls, developers should minimize mutex contention, limit reliance on the global blocking pool, and isolate Tokio workers on dedicated CPU cores to prevent OS-level scheduling delays.</p><p><img src="https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/mini-redis-latency-distribution.png" /></p><hr/><small>15 Sep 2026, 18:48 UTC | #21221</small>]]></content>
-  </entry>
 </feed>
