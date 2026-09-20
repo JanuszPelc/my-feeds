@@ -956,22 +956,4 @@
     <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Noble-Audio-FoKus-Artemis-hero-credit-press@2000x1500.jpg" />
     <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/reviews/studio-recording-gear/noble-audio-fokus-artemis-review/">musictech.com</a> | <a href="https://nobleaudio.com/products/artemis">source</a></small></p><hr/><p>The FoKus Artemis is a flagship wireless over-ear headphone from Noble Audio that utilizes a triple-driver hybrid system. It combines a 40mm dynamic driver, a 14.5mm planar magnetic driver, and a balanced-armature tweeter to handle different frequency ranges. The device supports high-resolution codecs including LDAC and aptX Lossless, and features active noise cancellation and Bluetooth 6.0.</p><p>The headphones include user-replaceable batteries, swappable magnetic cushions, and IP52 dust and water resistance. The audio profile is characterized by a wide soundstage and high technical accuracy, prioritizing clarity over heavy bass reinforcement. It also integrates Audiodo Personal Sound technology for customized hearing profiles via a dedicated app.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Noble-Audio-FoKus-Artemis-hero-credit-press@2000x1500.jpg" /></p><hr/><small>15 Sep 2026, 13:10 UTC | #21143</small>]]></content>
   </entry>
-  <entry>
-    <title>Linux From Scratch Project Overview</title>
-    <link href="https://www.linuxfromscratch.org/" rel="alternate" />
-    <id>https://www.linuxfromscratch.org/::v239</id>
-    <published>2026-09-15T09:09:00+00:00</published>
-    <updated>2026-09-15T09:09:00+00:00</updated>
-    <media:thumbnail url="https://www.linux.se/wp-content/uploads/2026/03/image-14.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.linuxfromscratch.org/">linuxfromscratch.org</a> | <a href="https://news.ycombinator.com/item?id=49707627">hacker news</a></small></p><hr/><p>Linux From Scratch (LFS) provides step-by-step instructions for building a custom Linux system entirely from source code. This foundational project supports various subprojects designed to automate builds, provide 32-bit support, or extend the system with additional software.</p><p>Specialized modules include Beyond Linux From Scratch (BLFS) for system expansion and Gaming Linux From Scratch (GLFS) for installing gaming software. The organization also maintains a repository of patches and a museum containing historical versions of the LFS and BLFS books.</p><p><img src="https://www.linux.se/wp-content/uploads/2026/03/image-14.png" /></p><hr/><small>15 Sep 2026, 12:56 UTC | #21180</small>]]></content>
-  </entry>
-  <entry>
-    <title>GNU Coreutils Rejected Feature Requests</title>
-    <link href="https://www.gnu.org/software/coreutils/rejected_requests.html" rel="alternate" />
-    <id>https://www.gnu.org/software/coreutils/rejected_requests.html::v239</id>
-    <published>2026-09-15T09:07:00+00:00</published>
-    <updated>2026-09-15T09:07:00+00:00</updated>
-    <media:thumbnail url="https://cdn.slidesharecdn.com/ss_thumbnails/managingfeaturerequestsbacklog-150421071928-conversion-gate01-thumbnail.jpg?width=640&amp;height=640&amp;fit=bounds" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.gnu.org/software/coreutils/rejected_requests.html">gnu.org</a> | <a href="https://lobste.rs/s/zbcua4/coreutils_rejected_feature_requests">discussion</a></small></p><hr/><p>This documentation lists various feature requests for the GNU Coreutils suite that were rejected by project maintainers. For each requested utility modification—such as adding timestamps to `cat` or progress bars to `cp`—the article provides the specific technical or design-oriented reasoning for the decision.</p><p>Most rejections stem from the principle that the requested functionality is already adequately handled by other standard Unix tools like `awk`, `sed`, or `find`. By documenting these decisions, the project clarifies its scope and helps prevent the inclusion of redundant implementations that would increase maintenance burden or software complexity.</p><p><img src="https://cdn.slidesharecdn.com/ss_thumbnails/managingfeaturerequestsbacklog-150421071928-conversion-gate01-thumbnail.jpg?width=640&height=640&fit=bounds" /></p><hr/><small>15 Sep 2026, 12:22 UTC | #21170</small>]]></content>
-  </entry>
 </feed>
