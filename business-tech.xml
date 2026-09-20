@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-20T15:21:00+00:00</updated>
+  <updated>2026-09-20T15:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Raspberry Pi CEO Eben Upton on AI, Edge Computing, and Coding</title>
+    <link href="https://www.ft.com/content/07acddb2-9a2f-4646-b7dd-2cb4ebe0257d?accessToken=zwAAAaC9FjYzkc8HrN2ymi9GRtO33Sy06-AlfQ.MEUCIFEFxFsEFOEm_KGXE40NhvZ_Kuh6iBZmHgWHaw9PcqVvAiEAu_PqkZvXpzVQbHprwh1YPjLRetwgMor7fdy1GDIOFzw&amp;sharetype=gift&amp;token=39883fb1-24b5-4e54-a4f3-c233c4157099" rel="alternate" />
+    <id>https://www.ft.com/content/07acddb2-9a2f-4646-b7dd-2cb4ebe0257d?accessToken=zwAAAaC9FjYzkc8HrN2ymi9GRtO33Sy06-AlfQ.MEUCIFEFxFsEFOEm_KGXE40NhvZ_Kuh6iBZmHgWHaw9PcqVvAiEAu_PqkZvXpzVQbHprwh1YPjLRetwgMor7fdy1GDIOFzw&amp;sharetype=gift&amp;token=39883fb1-24b5-4e54-a4f3-c233c4157099::v239</id>
+    <published>2026-09-20T15:25:00+00:00</published>
+    <updated>2026-09-20T15:25:00+00:00</updated>
+    <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/6208197855001/21b8522b-f27f-4dbc-a732-c3d5388120d9/1d12d406-b22b-47a7-9465-415ee987cb48/1280x720/match/image.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/07acddb2-9a2f-4646-b7dd-2cb4ebe0257d?accessToken=zwAAAaC9FjYzkc8HrN2ymi9GRtO33Sy06-AlfQ.MEUCIFEFxFsEFOEm_KGXE40NhvZ_Kuh6iBZmHgWHaw9PcqVvAiEAu_PqkZvXpzVQbHprwh1YPjLRetwgMor7fdy1GDIOFzw&sharetype=gift&token=39883fb1-24b5-4e54-a4f3-c233c4157099">ft.com</a></small></p><hr/><p>Raspberry Pi CEO Eben Upton discusses how artificial intelligence is driving demand for edge computing hardware and expresses skepticism toward certain AI evangelists. He characterizes coding as a modern form of literacy and addresses geopolitical risks associated with rapid technological advancement.</p><p>The interview examines the company's response to the AI-driven shift toward edge-based computing and the specialized hardware requirements of the sector. Upton also explores the broader economic and societal implications of the AI revolution and its impact on technical education and the workforce.</p><p><img src="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/6208197855001/21b8522b-f27f-4dbc-a732-c3d5388120d9/1d12d406-b22b-47a7-9465-415ee987cb48/1280x720/match/image.jpg" /></p><hr/><small>20 Sep 2026, 19:21 UTC | #21731</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Ad Collector Links External Website Activity to ChatGPT Accounts</title>
     <link href="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/" rel="alternate" />
