@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-20T17:39:00+00:00</updated>
+  <updated>2026-09-20T18:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Vocci Launches AI-Powered Note-Taking Ring</title>
+    <link href="https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/::v239</id>
+    <published>2026-09-20T18:33:00+00:00</published>
+    <updated>2026-09-20T18:33:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Ring-charging-case.jpg?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/">techcrunch.com</a> | <a href="https://vocci.ai/">source</a></small></p><hr/><p>Vocci has launched an AI-powered smart ring designed for meeting note-taking. The device, which weighs under 6 grams and has a titanium-coated finish, allows users to record audio via a button and then generates transcripts, highlights, and summaries through a companion app.</p><p>The product is priced at $249 and offers up to eight hours of recording on a single charge. While it demonstrates strong transcription capabilities in noisy settings, the device faces criticism for its software's redundant interface, limited integration with other apps, and the privacy implications of its discreet form factor.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Ring-charging-case.jpg?w=680" /></p><hr/><small>20 Sep 2026, 23:40 UTC | #21756</small>]]></content>
+  </entry>
   <entry>
     <title>Samsung to Double HBM4 Production Next Year</title>
     <link href="https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say" rel="alternate" />
