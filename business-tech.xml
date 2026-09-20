@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-19T23:51:00+00:00</updated>
+  <updated>2026-09-20T03:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Gavin Newsom Signs Law Penalizing Undisclosed Influencer Political Ads</title>
+    <link href="https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html?unlocked_article_code=1.CVE.Deu4.e3uZQO5XHVDZ&amp;smid=bs-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html?unlocked_article_code=1.CVE.Deu4.e3uZQO5XHVDZ&amp;smid=bs-share::v239</id>
+    <published>2026-09-20T03:06:00+00:00</published>
+    <updated>2026-09-20T03:06:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1THy85.img?w=768&amp;h=512&amp;m=6&amp;x=498&amp;y=92&amp;s=112&amp;d=112" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html?unlocked_article_code=1.CVE.Deu4.e3uZQO5XHVDZ&smid=bs-share">nytimes.com</a></small></p><hr/><p>California's new legislation imposes fines of up to $5,000 per post on creators who fail to disclose paid political sponsorships. The law requires influencers to clearly identify the payor when posting compensated content that supports or opposes a candidate or ballot measure.</p><p>This measure is part of a broader legislative package focused on election security and social media regulation. It seeks to increase transparency as political campaigns increasingly use influencers to reach voters on digital platforms.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1THy85.img?w=768&h=512&m=6&x=498&y=92&s=112&d=112" /></p><hr/><small>20 Sep 2026, 10:13 UTC | #21713</small>]]></content>
+  </entry>
   <entry>
     <title>AI Kill Switch Legislation Faces Technical Implementation Challenges</title>
     <link href="https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html?unlocked_article_code=1.CVE.rpX7.JmRRyyhR-A_2&amp;smid=nytcore-ios-share" rel="alternate" />
