@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-20T10:12:00+00:00</updated>
+  <updated>2026-09-20T10:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Jujutsu (jj) Ecosystem: Commands, Configuration, and Tools</title>
+    <link href="https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/" rel="alternate" />
+    <id>https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/::v239</id>
+    <published>2026-09-20T10:52:00+00:00</published>
+    <updated>2026-09-20T10:52:00+00:00</updated>
+    <media:thumbnail url="https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/arrange.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/">andre.arko.net</a> | <a href="https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem">discussion</a></small></p><hr/><p>The Jujutsu (jj) version control system ecosystem is evolving through new core commands, advanced configuration options, and expanding third-party tooling. Recent core additions like `jj run`, `jj converge`, and `jj arrange` automate complex workflows that previously required external scripts or manual Git processes.</p><p>Beyond core functionality, the ecosystem features custom subcommand aliases and integrations with forges including GitHub, Radicle, and Tangled. Several dedicated graphical user interfaces, such as `gg`, `JayJay`, and `lightjj`, have also been developed to support the unique Jujutsu workflow.</p><p><img src="https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/arrange.png" /></p><hr/><small>20 Sep 2026, 15:27 UTC | #21743</small>]]></content>
+  </entry>
   <entry>
     <title>Unit Testing as a Code Protection Mechanism</title>
     <link href="https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html" rel="alternate" />
