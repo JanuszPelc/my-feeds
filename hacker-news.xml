@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-19T20:42:00+00:00</updated>
+  <updated>2026-09-19T20:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>OpenAI Accelerates Jalapeño AI Chip Design Using LLMs</title>
+    <link href="https://spectrum.ieee.org/llms-for-chip-design" rel="alternate" />
+    <id>https://spectrum.ieee.org/llms-for-chip-design::v239</id>
+    <published>2026-09-19T20:44:00+00:00</published>
+    <updated>2026-09-19T20:44:00+00:00</updated>
+    <media:thumbnail url="https://spectrum.ieee.org/media-library/wires-and-lights-inside-of-a-server-rack.jpg?id=67770478&amp;width=980" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://spectrum.ieee.org/llms-for-chip-design">spectrum.ieee.org</a> | <a href="https://openai.com/index/jalapeno-first-results/">source</a> | <a href="https://news.ycombinator.com/item?id=49761432">hacker news</a></small></p><hr/><p>OpenAI's first custom AI accelerator chip, Jalapeño, was designed using large language models to significantly accelerate the hardware development timeline. The chip delivers up to 13.4 petaflops of 4-bit compute and 232 gigabytes of memory, claiming a 3.6x reduction in end-to-end latency compared to Nvidia’s GB300. The design progressed from initial architecture concept to first silicon in under 20 months, with only nine months between RTL creation and tape-out.</p><p>The project involved a partnership with Broadcom for physical design and implementation, while OpenAI focused on end-to-end system design. Engineers utilized high-level synthesis tools like XLS to allow LLMs to assist with software-like programming tasks, facilitating rapid iteration. OpenAI intends to apply these AI-driven design methodologies to future commercial models, such as the Astra series.</p><p><img src="https://spectrum.ieee.org/media-library/wires-and-lights-inside-of-a-server-rack.jpg?id=67770478&width=980" /></p><hr/><small>20 Sep 2026, 03:56 UTC | #21714</small>]]></content>
+  </entry>
   <entry>
     <title>PlanetScale Introduces TIN Full-Text Search Extension for Postgres</title>
     <link href="https://planetscale.com/blog/introducing-tin" rel="alternate" />
