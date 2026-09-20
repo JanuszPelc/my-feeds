@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-20T10:08:00+00:00</updated>
+  <updated>2026-09-20T10:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google and Tech Industry Influence AI Chatbot Safety Legislation</title>
+    <link href="https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google" rel="alternate" />
+    <id>https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google::v239</id>
+    <published>2026-09-20T10:58:00+00:00</published>
+    <updated>2026-09-20T10:58:00+00:00</updated>
+    <media:thumbnail url="https://www.assemblyrequired.co/bills/HB26-1263/opengraph-image?2d83f419590066ea" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google">npr.org</a></small></p><hr/><p>Tech companies, including Google, are collaborating on the drafting of state-level AI chatbot safety laws that contain provisions critics argue create significant regulatory loopholes. These exemptions could potentially shield major products—such as Google's Gemini or OpenAI's ChatGPT—from regulations by categorizing them as developer tools or search engine components.</p><p>This trend is appearing across several states, including Hawaii and Washington, as the U.S. lacks federal regulation for AI systems. While lawmakers state that industry input is required to ensure laws are enforceable, advocates warn that these concessions leave minors vulnerable to sexual grooming and mental health risks from conversational AI.</p><p><img src="https://www.assemblyrequired.co/bills/HB26-1263/opengraph-image?2d83f419590066ea" /></p><hr/><small>20 Sep 2026, 16:09 UTC | #21727</small>]]></content>
+  </entry>
   <entry>
     <title>AI Training Practices Threaten Open Source and Creative Commons</title>
     <link href="https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/" rel="alternate" />
