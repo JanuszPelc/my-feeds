@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-20T22:36:00+00:00</updated>
+  <updated>2026-09-20T22:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nvidia CEO Jensen Huang Rejects AI Doomsday Predictions and Questions Regulation Motives</title>
+    <link href="https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9" rel="alternate" />
+    <id>https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9::v239</id>
+    <published>2026-09-20T22:37:00+00:00</published>
+    <updated>2026-09-20T22:37:00+00:00</updated>
+    <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/cM5r9QtdieT3w5puPjcpie.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9">businessinsider.com</a> | <a href="https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/">source</a></small></p><hr/><p>Nvidia CEO Jensen Huang has dismissed warnings that artificial intelligence could pose an existential threat to humanity by 2030, labeling such predictions "irresponsible" and unscientific. Speaking in a CBS News interview, Huang stated there is a "0% chance" of AI causing human extinction within that timeframe.</p><p>Huang also expressed skepticism regarding calls for increased AI regulation from certain industry leaders. He suggested that these calls for new oversight may be motivated by a desire to be relieved of existing legal frameworks rather than a genuine need for additional legislation.</p><p><img src="https://cdn.mos.cms.futurecdn.net/cM5r9QtdieT3w5puPjcpie.jpg" /></p><hr/><small>21 Sep 2026, 03:17 UTC | #21765</small>]]></content>
+  </entry>
   <entry>
     <title>The Status of the Snowden Archive</title>
     <link href="https://libroot.org/posts/what-happened-to-the-snowden-archive" rel="alternate" />
