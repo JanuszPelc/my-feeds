@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-20T22:14:00+00:00</updated>
+  <updated>2026-09-20T23:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Boris Cherny Outlines Six-Step Iterative Problem-Solving Framework</title>
+    <link href="https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html" rel="alternate" />
+    <id>https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html::v239</id>
+    <published>2026-09-20T23:18:00+00:00</published>
+    <updated>2026-09-20T23:18:00+00:00</updated>
+    <media:thumbnail url="https://codex.danielvaughan.com/sketchnotes/articles/2026-04-27-codex-cli-scored-improvement-loops-eval-driven-iterative-problem-solving.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html">borischerny.com</a> | <a href="https://news.ycombinator.com/item?id=49777467">hacker news</a></small></p><hr/><p>Boris Cherny, a software engineer at Anthropic and creator of Claude Code, describes a six-step iterative framework for addressing complex problems and building products. The process involves gathering information, defining problems and goals, establishing clear approaches, and acting with urgency while continuously updating assumptions as new data emerges.</p><p>Failure modes typically stem from poor problem definition and excessive complexity. Cherny advocates for a cycle of rapid feedback and error correction, viewing mistakes as essential tools for refining solutions and achieving clarity.</p><p><img src="https://codex.danielvaughan.com/sketchnotes/articles/2026-04-27-codex-cli-scored-improvement-loops-eval-driven-iterative-problem-solving.png" /></p><hr/><small>21 Sep 2026, 06:43 UTC | #21787</small>]]></content>
+  </entry>
   <entry>
     <title>Elizabeth Warren Introduces Legislation to Ban Private Equity Ownership of Medical Practices</title>
     <link href="https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/" rel="alternate" />
