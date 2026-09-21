@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T12:38:00+00:00</updated>
+  <updated>2026-09-21T12:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Ireland's DPC Fines Google €403 Million for Location Data Violations</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-21/google-fined-by-irish-watchdog-for-location-data-rule-breach" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-21/google-fined-by-irish-watchdog-for-location-data-rule-breach::v239</id>
+    <published>2026-09-21T12:39:00+00:00</published>
+    <updated>2026-09-21T12:39:00+00:00</updated>
+    <media:thumbnail url="https://www.rte.ie/images/001ed5c4-800.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-21/google-fined-by-irish-watchdog-for-location-data-rule-breach">bloomberg.com</a></small></p><hr/><p>The Irish regulator has imposed a €403 million penalty on Google for breaching rules related to user location data processing. Prompted by complaints from European consumer rights groups, the investigation found violations in how the company manages location history and web and app activity.</p><p>Google is required to bring its data processing operations into compliance within six months. This enforcement action is part of ongoing regulatory scrutiny regarding the privacy and data management practices of major technology firms in the European Union.</p><p><img src="https://www.rte.ie/images/001ed5c4-800.jpg" /></p><hr/><small>21 Sep 2026, 17:30 UTC | #21808</small>]]></content>
+  </entry>
   <entry>
     <title>Chinese Economists Warn AI Focus Neglects Broader Economic Crisis</title>
     <link href="https://www.nytimes.com/2026/09/20/business/china-ai-economy.html?unlocked_article_code=1.ClE.VlD5.L4sh7OSlTHGP&amp;smid=bs-share" rel="alternate" />
