@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T12:39:00+00:00</updated>
+  <updated>2026-09-21T12:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Regulatory Ban Proposed for AI Recursive Self-Improvement</title>
+    <link href="https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html?unlocked_article_code=1.ClE.2zU3.OSoWTScKTDjj&amp;smid=nytcore-ios-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html?unlocked_article_code=1.ClE.2zU3.OSoWTScKTDjj&amp;smid=nytcore-ios-share::v239</id>
+    <published>2026-09-21T12:41:00+00:00</published>
+    <updated>2026-09-21T12:41:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQHIJdbziHxS4w/article-cover_image-shrink_720_1280/B4DZ5Oh2adJoAQ-/0/1779433959888?e=2147483647&amp;v=beta&amp;t=ESdF8fgMIGOApvazpiu-Tr_b2ZHO0k4pBRhokxpE7sY" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html?unlocked_article_code=1.ClE.2zU3.OSoWTScKTDjj&smid=nytcore-ios-share">nytimes.com</a></small></p><hr/><p>A regulatory ban on Recursive Self-Improvement (RSI) is proposed to mitigate risks from unchecked autonomous acceleration in artificial intelligence. Drivers for this intervention include intensifying industry competition, potential hacking incidents, and widespread warnings regarding existential risks.</p><p>The article highlights a widening gap between the AI experiences of general users and the high-stakes, experimental developments occurring at the technological frontier.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQHIJdbziHxS4w/article-cover_image-shrink_720_1280/B4DZ5Oh2adJoAQ-/0/1779433959888?e=2147483647&v=beta&t=ESdF8fgMIGOApvazpiu-Tr_b2ZHO0k4pBRhokxpE7sY" /></p><hr/><small>21 Sep 2026, 17:48 UTC | #21809</small>]]></content>
+  </entry>
   <entry>
     <title>Ireland's DPC Fines Google €403 Million for Location Data Violations</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-21/google-fined-by-irish-watchdog-for-location-data-rule-breach" rel="alternate" />

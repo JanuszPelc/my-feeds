@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T12:36:00+00:00</updated>
+  <updated>2026-09-21T12:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Evolution of Graphical User Interface Design</title>
+    <link href="https://www.youtube.com/watch?v=dpIuNUn0PZc" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=dpIuNUn0PZc::v239</id>
+    <published>2026-09-21T12:42:00+00:00</published>
+    <updated>2026-09-21T12:42:00+00:00</updated>
+    <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/archive/images/gui/guitimeline.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=dpIuNUn0PZc">youtube.com</a> | <a href="https://lobste.rs/s/8gy9fa/why_do_computers_look_like_this_anyway">discussion</a></small></p><hr/><p>Mid-century innovations such as the trackball and Ivan Sutherland's Sketchpad laid the groundwork for the Graphical User Interface (GUI). Douglas Engelbart’s 1968 "Mother of All Demos" significantly advanced the field by demonstrating the mouse, hyperlinks, and word processing, while subsequent work at Xerox PARC through Smalltalk and the desktop metaphor established the framework for modern computing.</p><p>The implementation of the "WIMP" (Windows, Icons, Menu, Pointer) model replaced text-based command interfaces with a skeuomorphic representation of a physical workspace. While research at MIT and Xerox PARC provided the fundamental technology, the commercialization of these ideas by companies like Apple moved the interface into the consumer mainstream. This shift transitioned computers from specialized mathematical tools into intuitive, personal devices.</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/archive/images/gui/guitimeline.jpg" /></p><hr/><small>21 Sep 2026, 17:52 UTC | #21872</small>]]></content>
+  </entry>
   <entry>
     <title>Fast Hash Functions Exhibit Significant Collision Weaknesses Under AI Analysis</title>
     <link href="https://thomasahle.com/blog/adversarial-examples-for-hashes/" rel="alternate" />
