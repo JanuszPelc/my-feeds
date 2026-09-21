@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-20T22:37:00+00:00</updated>
+  <updated>2026-09-20T23:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>China's AI Rollout Faces Social and Political Friction</title>
+    <link href="https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/?gift=NBdGSmKfDQzLc1B6N1F-gTsc0qnBczYFJgiJgeRC__c&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share" rel="alternate" />
+    <id>https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/?gift=NBdGSmKfDQzLc1B6N1F-gTsc0qnBczYFJgiJgeRC__c&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share::v239</id>
+    <published>2026-09-20T23:16:00+00:00</published>
+    <updated>2026-09-20T23:16:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2176sr.img?w=2048&amp;h=1365&amp;m=4&amp;q=81" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/?gift=NBdGSmKfDQzLc1B6N1F-gTsc0qnBczYFJgiJgeRC__c&utm_source=copy-link&utm_medium=social&utm_campaign=share">theatlantic.com</a></small></p><hr/><p>China is aggressively integrating AI into its economy and society to achieve global dominance by 2035. This rapid deployment has triggered significant social anxiety among workers who fear being "distilled"—a term used when employer data is used to train AI models that may eventually replace human staff. Consequently, the Chinese government faces a political dilemma: pursuing technological supremacy while managing the risks of mass job displacement and social unrest.</p><p>Implementation efforts have seen mixed results, ranging from ineffective "all-in-one" hardware solutions to security concerns regarding autonomous AI agents. Legal challenges are also emerging, such as a recent Hangzhou court ruling that protected a worker unlawfully dismissed due to AI replacement. As Beijing attempts to mandate AI adoption, it must balance the drive for productivity with the need for social stability and political legitimacy.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2176sr.img?w=2048&h=1365&m=4&q=81" /></p><hr/><small>21 Sep 2026, 06:29 UTC | #21770</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia CEO Jensen Huang Rejects AI Doomsday Predictions and Questions Regulation Motives</title>
     <link href="https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9" rel="alternate" />
