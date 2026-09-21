@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-20T23:26:00+00:00</updated>
+  <updated>2026-09-21T10:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ZuckOff App Detects Camera Glasses via Bluetooth</title>
+    <link href="https://zuckoff.app/" rel="alternate" />
+    <id>https://zuckoff.app/::v239</id>
+    <published>2026-09-21T10:34:00+00:00</published>
+    <updated>2026-09-21T10:34:00+00:00</updated>
+    <media:thumbnail url="https://c138.hongcdn.com/uploads-rx/2601/ai-glasses-!j.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://zuckoff.app/">zuckoff.app</a> | <a href="https://news.ycombinator.com/item?id=49785429">hacker news</a></small></p><hr/><p>ZuckOff is an iPhone application that identifies camera-equipped smart glasses—including Ray-Ban Meta, Oakley Meta, and Snap Spectacles—by scanning for their specific Bluetooth manufacturer signatures. The tool operates without an account and keeps all data on the device, utilizing iOS features like Home Screen widgets, Live Activities, and background alerts to notify users of nearby hardware.</p><p>While the app provides proximity estimates based on signal strength and allows users to export device logs as CSV files, it has specific limitations. It cannot confirm if a device is actively recording video, identify the direction of the wearer, or guarantee that a silent device is not recording.</p><p><img src="https://c138.hongcdn.com/uploads-rx/2601/ai-glasses-!j.webp" /></p><hr/><small>21 Sep 2026, 11:49 UTC | #21813</small>]]></content>
+  </entry>
   <entry>
     <title>Sunil Pai Explains the 'Senior Engineer Death Spiral'</title>
     <link href="https://sunilpai.dev/posts/the-senior-engineer-death-spiral/" rel="alternate" />
