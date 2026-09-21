@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-21T14:27:00+00:00</updated>
+  <updated>2026-09-21T17:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Distinguishing Relation Algebra from Relational Algebra</title>
+    <link href="https://remy.wang/blog/ra-ra.html" rel="alternate" />
+    <id>https://remy.wang/blog/ra-ra.html::v239</id>
+    <published>2026-09-21T17:02:00+00:00</published>
+    <updated>2026-09-21T17:02:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/990540013/original/6f2cb9b93a/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://remy.wang/blog/ra-ra.html">remy.wang</a> | <a href="https://lobste.rs/s/t5fquc/relation_algebra_is_not_relational">discussion</a> | <a href="https://news.ycombinator.com/item?id=49770846">hacker news</a></small></p><hr/><p>The article clarifies the distinction between "relation algebra," a mathematical structure used in logic and formal methods, and "relational algebra," the foundational theory for relational database systems. Although the terms are often confused due to their similar names, they possess different origins and levels of expressive power.</p><p>While relational algebra is equivalent to a specific fragment of first-order logic, relation algebra is equivalent to first-order logic restricted to three variables. The author notes that the Prela query language is a recent example of a language based on relation algebra.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/990540013/original/6f2cb9b93a/1?v=1" /></p><hr/><small>21 Sep 2026, 21:42 UTC | #21895</small>]]></content>
+  </entry>
   <entry>
     <title>Algorithmic Recommendation's Impact on Human Attention</title>
     <link href="https://alicegg.tech/2026/09/21/attention" rel="alternate" />
