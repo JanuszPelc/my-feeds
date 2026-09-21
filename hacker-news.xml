@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T14:35:00+00:00</updated>
+  <updated>2026-09-21T16:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Google Opens Pre-orders for Googlebook AI-Native Laptops</title>
+    <link href="https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/::v239</id>
+    <published>2026-09-21T16:17:00+00:00</published>
+    <updated>2026-09-21T16:17:00+00:00</updated>
+    <media:thumbnail url="https://indiathisweek.in/wp-content/uploads/2026/05/google-book.webp" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/">techcrunch.com</a> | <a href="https://googlebook.google/">source</a></small></p><hr/><p>Starting at $899, the new hardware line runs on Android OS and integrates Gemini AI into the core desktop experience. Key features include an AI-powered "Magic Cursor" for interacting with on-screen content and "Rambler," a tool for cleaning up dictated text.</p><p>The devices aim to succeed the Chromebook in the K-12 education sector, where approximately 50 million Chromebooks are currently in use. Manufactured by partners including Acer, ASUS, Dell, HP, and Lenovo, the laptops will feature up to 2.8K OLED displays and include 12 months of Google AI Pro.</p><p><img src="https://indiathisweek.in/wp-content/uploads/2026/05/google-book.webp" /></p><hr/><small>21 Sep 2026, 19:54 UTC | #21841</small>]]></content>
+  </entry>
   <entry>
     <title>Review of Is Parallel Programming Hard, And, If So, What Can You Do About It?</title>
     <link href="https://ahelwer.ca/post/2026-09-21-concurrency-textbook/" rel="alternate" />
