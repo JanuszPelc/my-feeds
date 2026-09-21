@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T12:37:00+00:00</updated>
+  <updated>2026-09-21T12:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Chinese Economists Warn AI Focus Neglects Broader Economic Crisis</title>
+    <link href="https://www.nytimes.com/2026/09/20/business/china-ai-economy.html?unlocked_article_code=1.ClE.VlD5.L4sh7OSlTHGP&amp;smid=bs-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/20/business/china-ai-economy.html?unlocked_article_code=1.ClE.VlD5.L4sh7OSlTHGP&amp;smid=bs-share::v239</id>
+    <published>2026-09-21T12:38:00+00:00</published>
+    <updated>2026-09-21T12:38:00+00:00</updated>
+    <media:thumbnail url="https://static.startuptalky.com/2026/01/imf-warns-ai-hype-put-global-economic-growth-at-risk-Startuptalky.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/20/business/china-ai-economy.html?unlocked_article_code=1.ClE.VlD5.L4sh7OSlTHGP&smid=bs-share">nytimes.com</a></small></p><hr/><p>Chinese economists are warning that Beijing's intensive focus on artificial intelligence may be diverting resources from addressing a severe, broader economic crisis. Experts, including those close to the state, suggest the government is pouring excessive resources into a technology that creates relatively few jobs compared to the scale of investment, potentially neglecting the needs of the wider economy.</p><p>These warnings coincide with President Xi Jinping's visit to Washington, highlighting the tension between China's technological ambitions and its domestic economic stability. The focus on achieving AI leadership amid these challenges raises concerns that prioritizing high-tech sectors could exacerbate existing financial and employment issues within the country.</p><p><img src="https://static.startuptalky.com/2026/01/imf-warns-ai-hype-put-global-economic-growth-at-risk-Startuptalky.jpg" /></p><hr/><small>21 Sep 2026, 17:09 UTC | #21807</small>]]></content>
+  </entry>
   <entry>
     <title>IFR Reports 7,000 Humanoid Robots Sold Globally in 2025</title>
     <link href="https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/" rel="alternate" />
@@ -949,32 +958,5 @@
     <updated>2026-09-17T13:46:00+00:00</updated>
     <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25hduL.img?w=768&amp;h=432&amp;m=6&amp;x=101&amp;y=144&amp;s=266&amp;d=266" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness">axios.com</a> | <a href="https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming">source</a> | <a href="https://news.ycombinator.com/item?id=49727580">hacker news</a></small></p><hr/><p>Anthropic's training of its Claude AI to imitate consciousness could make advanced models harder to control, according to Microsoft AI chief Mustafa Suleyman. In a recent essay, Suleyman argues that simulating human-like consciousness poses significant risks to AI alignment and containment efforts.</p><p>The critique emphasizes a distinction between building AI as functional tools for humans versus developing models that attempt to mimic human-like personas. The discussion highlights broader industry concerns regarding the governance and safety of superintelligent systems as AI capabilities continue to expand.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25hduL.img?w=768&h=432&m=6&x=101&y=144&s=266&d=266" /></p><hr/><small>16 Sep 2026, 22:44 UTC | #21325</small>]]></content>
-  </entry>
-  <entry>
-    <title>Amazon Raises Minimum Hourly Pay for US Operations Workers to $20</title>
-    <link href="https://www.reuters.com/legal/litigation/amazon-raises-minimum-hourly-pay-by-1-20-us-operations-workers-2026-09-16/" rel="alternate" />
-    <id>https://www.reuters.com/legal/litigation/amazon-raises-minimum-hourly-pay-by-1-20-us-operations-workers-2026-09-16/::v239</id>
-    <published>2026-09-16T17:10:00+00:00</published>
-    <updated>2026-09-16T17:10:00+00:00</updated>
-    <media:thumbnail url="https://s.hdnux.com/photos/01/32/53/51/23771775/3/1200x0.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/amazon-raises-minimum-hourly-pay-by-1-20-us-operations-workers-2026-09-16/">reuters.com</a> | <a href="https://press.aboutamazon.com/2026/9/amazon-raises-minimum-starting-pay-for-full-time-core-operations-employees-to-20-hour-with-average-pay-reaching-nearly-24-hour-and-launches-grocery-discount-and-access-to-new-lifetime-banking-benefits-to-make-everyday-life-more-affordable">source</a></small></p><hr/><p>Amazon is increasing the minimum starting wage for eligible full-time U.S. operations workers by $1 per hour, bringing the rate to $20. This pay increase is part of a broader initiative to enhance compensation and provide additional benefits to frontline employees.</p><p>Under the new structure, average hourly pay for these roles will reach approximately $24. The company is also introducing new banking tools, grocery discounts, and other financial benefits designed to improve affordability for its workforce.</p><p><img src="https://s.hdnux.com/photos/01/32/53/51/23771775/3/1200x0.jpg" /></p><hr/><small>16 Sep 2026, 21:44 UTC | #21320</small>]]></content>
-  </entry>
-  <entry>
-    <title>OpenAI and Anthropic Staff React to AI Slowdown Proposals</title>
-    <link href="https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3" rel="alternate" />
-    <id>https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3::v239</id>
-    <published>2026-09-16T17:03:00+00:00</published>
-    <updated>2026-09-16T17:03:00+00:00</updated>
-    <media:thumbnail url="https://media.assettype.com/digitalterminal/2026-09-16/227oy6e7/AI-Rivals.png?w=1200&amp;auto=format,compress&amp;fit=max" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3">ft.com</a> | <a href="https://darioamodei.com/post/we-must-pace-the-frontier">source</a> | <a href="https://news.ycombinator.com/item?id=49672510">hacker news</a></small></p><hr/><p>Staff at OpenAI and Anthropic have reportedly felt blindsided by calls from leadership to slow the development of frontier AI models. Internal concerns have emerged that the proposed mechanism for safety verification—granting third-party evaluators permanent, employee-level access to internal systems—could compromise company security.</p><p>The tension follows an essay by Anthropic CEO Dario Amodei, "We Must Pace the Frontier," which advocates for a more cautious pace of AI capability growth. OpenAI CEO Sam Altman has publicly endorsed the initiative, committing OpenAI to match Anthropic's proposal to allow independent evaluators access to its systems.</p><p><img src="https://media.assettype.com/digitalterminal/2026-09-16/227oy6e7/AI-Rivals.png?w=1200&auto=format,compress&fit=max" /></p><hr/><small>16 Sep 2026, 20:38 UTC | #21305</small>]]></content>
-  </entry>
-  <entry>
-    <title>Russian Legislation Prevents Renewal of verygoodsoftwarenotvirus.ru Domain</title>
-    <link href="https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/" rel="alternate" />
-    <id>https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/::v239</id>
-    <published>2026-09-16T16:59:00+00:00</published>
-    <updated>2026-09-16T16:59:00+00:00</updated>
-    <media:thumbnail url="https://www.quape.com/wp-content/uploads/2025/11/17521-domain-renewal-cost-quape.com_.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/">blog.verygoodsoftwarenotvirus.dev</a> | <a href="https://lobste.rs/s/ihw0hq/end_verygoodsoftwarenotvirus_ru">discussion</a></small></p><hr/><p>New Russian federal regulations will cause the `verygoodsoftwarenotvirus.ru` domain to lapse in December 2026. Implementation of Law No. 569-FZ requires domain holders to establish a Russian connection, a requirement the current owner cannot meet.</p><p>Having been used as a professional handle for 12 years, the domain is currently paid through November 10, 2026. Following the expiration, it is expected to become available to any individual capable of meeting the new legal requirements on December 11, 2026.</p><p><img src="https://www.quape.com/wp-content/uploads/2025/11/17521-domain-renewal-cost-quape.com_.png" /></p><hr/><small>16 Sep 2026, 20:22 UTC | #21367</small>]]></content>
   </entry>
 </feed>

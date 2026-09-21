@@ -366,40 +366,4 @@
     <media:thumbnail url="https://help.apiyi.com/wp-content/uploads/2026/03/xiaomi-mimo-v2-pro-omni-hunter-alpha-api-guide-id-image-0.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mimo.xiaomi.com/rl/">mimo.xiaomi.com</a> | <a href="https://news.ycombinator.com/item?id=49732270">hacker news</a></small></p><hr/><p>The MiMo-v2.6 RL dashboard provides real-time training metrics for Xiaomi's MiMo-v2.6-Pro and MiMo-v2.6-Flash reinforcement learning models. The data is streamed directly from the active trainer's logs.</p><p>This live monitoring enables the tracking of model convergence and performance throughout the reinforcement learning training process.</p><p><img src="https://help.apiyi.com/wp-content/uploads/2026/03/xiaomi-mimo-v2-pro-omni-hunter-alpha-api-guide-id-image-0.png" /></p><hr/><small>17 Sep 2026, 02:12 UTC | #21387</small>]]></content>
   </entry>
-  <entry>
-    <title>Google Launches MCP Server for Google Home</title>
-    <link href="https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/::v239</id>
-    <published>2026-09-16T17:17:00+00:00</published>
-    <updated>2026-09-16T17:17:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQHVjKr63pjOsg/article-cover_image-shrink_720_1280/B56Zg6MIFNG0AQ-/0/1753322915033?e=2147483647&amp;v=beta&amp;t=D0TMgPQ8HTwosGo7k1kPQ9keyaZqn77fhulO7dnxVj0" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/">techcrunch.com</a></small></p><hr/><p>Google has launched early access to a Model Context Protocol (MCP) server for the Google Home ecosystem, allowing AI agents like ChatGPT, Claude, and Google Antigravity to control smart home devices. Using natural language, these agents can manage connected hardware, monitor smart home activity, and review camera summaries.</p><p>Access is initially limited to U.S. subscribers of the Google Home Premium Advanced tier ($20/month). The integration supports Nest products and Matter-compatible hardware, requiring users to set up a Google Cloud project and configure MCP details for their chosen agent.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQHVjKr63pjOsg/article-cover_image-shrink_720_1280/B56Zg6MIFNG0AQ-/0/1753322915033?e=2147483647&v=beta&t=D0TMgPQ8HTwosGo7k1kPQ9keyaZqn77fhulO7dnxVj0" /></p><hr/><small>16 Sep 2026, 22:23 UTC | #21357</small>]]></content>
-  </entry>
-  <entry>
-    <title>Canada and Germany to Provide $300 Million to LawZero for Safe AI Research</title>
-    <link href="https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/" rel="alternate" />
-    <id>https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/::v239</id>
-    <published>2026-09-16T17:16:00+00:00</published>
-    <updated>2026-09-16T17:16:00+00:00</updated>
-    <media:thumbnail url="https://www.theglobeandmail.com/resizer/v2/SW4FYTHRR5BSBJXQKKHWNB6KGA.JPG?auth=d0084478c1aad0e7546adcf797fbda53e8bfd80d9f03d301f9201f65262c7220&amp;width=600&amp;quality=80" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theglobeandmail.com/business/article-yoshua-bengio-lawzero-receives-300-million-from-canada-germany/">theglobeandmail.com</a></small></p><hr/><p>Canada and Germany are providing up to $300 million in grant funding to LawZero, a Montreal-based non-profit founded by Yoshua Bengio. The funds are intended for hiring staff and covering computational costs to develop "Scientist AI," a system designed to avoid the deceptive and harmful behaviors found in current models by eschewing traditional reinforcement learning.</p><p>LawZero aims to develop AI guardrails that act as monitors to prevent autonomous agents from taking harmful actions. The organization's leadership suggests that this international collaboration allows "middle powers" to play a significant role in global AI governance alongside the United States and China.</p><p><img src="https://www.theglobeandmail.com/resizer/v2/SW4FYTHRR5BSBJXQKKHWNB6KGA.JPG?auth=d0084478c1aad0e7546adcf797fbda53e8bfd80d9f03d301f9201f65262c7220&width=600&quality=80" /></p><hr/><small>16 Sep 2026, 22:20 UTC | #21322</small>]]></content>
-  </entry>
-  <entry>
-    <title>Shane Legg Launches DeepMind Institute to Explore AGI Deployment</title>
-    <link href="https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e" rel="alternate" />
-    <id>https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e::v239</id>
-    <published>2026-09-16T17:14:00+00:00</published>
-    <updated>2026-09-16T17:14:00+00:00</updated>
-    <media:thumbnail url="https://the-decoder.de/wp-content/uploads/2025/12/shane_legg_deepmind_podcast_screenshot-scaled.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e">ft.com</a> | <a href="https://institute.deepmind.com/essays/introducing-the-deepmind-institute/">source</a></small></p><hr/><p>Cofounder of Google DeepMind Shane Legg has established a new institute dedicated to studying the deployment and societal implications of Artificial General Intelligence (AGI). The organization intends to provide foresight and grounded examination to help navigate the transition into a new era of intelligence.</p><p>The move comes amid increasing industry calls for a slowdown in AI development to ensure safety protocols keep pace with technical progress. Legg's work aims to address the complexities of AGI to help manage its impact on humanity.</p><p><img src="https://the-decoder.de/wp-content/uploads/2025/12/shane_legg_deepmind_podcast_screenshot-scaled.png" /></p><hr/><small>16 Sep 2026, 22:04 UTC | #21321</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Unifies Claude Chat and Cowork in a Single Interface</title>
-    <link href="https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/::v239</id>
-    <published>2026-09-16T17:09:00+00:00</published>
-    <updated>2026-09-16T17:09:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?w=680" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/">techcrunch.com</a> | <a href="https://claude.com/blog/cowork-is-now-claude">source</a> | <a href="https://news.ycombinator.com/item?id=49729412">hacker news</a></small></p><hr/><p>Anthropic is merging its Claude chat and Cowork interfaces into a unified workspace, allowing users to access chat, Cowork, and Artifacts from a single window. The new design automatically routes requests to the appropriate tool, eliminating the need for users to manually switch between different tabs for different tasks.</p><p>The update also introduces new capabilities for creating, editing, and presenting documents and slides, with support for exporting files to PDF or PowerPoint. These features are rolling out first to Pro and Max subscribers across web, desktop, and mobile platforms, with plans to extend the rollout to free and team tiers in the coming weeks.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?w=680" /></p><hr/><small>16 Sep 2026, 21:32 UTC | #21345</small>]]></content>
-  </entry>
 </feed>

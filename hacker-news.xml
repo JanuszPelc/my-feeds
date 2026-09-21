@@ -854,31 +854,4 @@
     <media:thumbnail url="https://release.gnome.org/3-6/users-activities-overview-screenshot.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://release.gnome.org/51/">release.gnome.org</a> | <a href="https://lobste.rs/s/gs10ad/introducing_gnome_51">discussion</a></small></p><hr/><p>This release introduces offline map support in the Maps app, visual signatures in the Papers document viewer, and a redesigned File Previewer.</p><p>Performance improvements include reworked frame scheduling for smoother animations and faster screen capture. Settings refinements include auto-rotation for accelerometer-enabled devices and automatic touchpad disabling when a mouse is connected; the update is expected to arrive in major Linux distributions in the coming weeks.</p><p><img src="https://release.gnome.org/3-6/users-activities-overview-screenshot.webp" /></p><hr/><small>16 Sep 2026, 22:27 UTC | #21376</small>]]></content>
   </entry>
-  <entry>
-    <title>Apple Announces iPhone 18 Pro, Foldable iPhone Duo, and New Apple Watch Models</title>
-    <link href="https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event" rel="alternate" />
-    <id>https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event::v239</id>
-    <published>2026-09-16T17:06:00+00:00</published>
-    <updated>2026-09-16T17:06:00+00:00</updated>
-    <media:thumbnail url="https://legalunitedstates.com/wp-content/uploads/2026/04/Apple-foldable-iPhone.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event">daringfireball.net</a></small></p><hr/><p>The "Surprise and Shine" event introduced the iPhone 18 Pro, the foldable iPhone Duo, Apple Watch Series 12, Ultra 4, and AirPods 5. During the keynote, John Ternus presented a vision for the iPhone as an "intelligent personal hub" for the AI era, signaling a leadership transition from Tim Cook.</p><p>The iPhone 18 Pro features the A20 Pro SoC, a variable aperture for the main camera, and improved thermal management. The iPhone Duo includes a 7.6-inch inner display. Additionally, Apple debuted "Apple Reference Image," which uses Private Cloud Compute to verify sensor data for photo authenticity.</p><p><img src="https://legalunitedstates.com/wp-content/uploads/2026/04/Apple-foldable-iPhone.jpg" /></p><hr/><small>16 Sep 2026, 21:04 UTC | #21308</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rogue Scholar Enables Digital Object Identifiers for Science Blogs</title>
-    <link href="https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/" rel="alternate" />
-    <id>https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/::v239</id>
-    <published>2026-09-16T17:05:00+00:00</published>
-    <updated>2026-09-16T17:05:00+00:00</updated>
-    <media:thumbnail url="https://www.bibguru.com/blog/img/DOI-reference-700x348.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/">shkspr.mobi</a> | <a href="https://lobste.rs/s/lvld5b/how_get_doi_for_your_blog_posts">discussion</a></small></p><hr/><p>Assigning Digital Object Identifiers (DOIs) through Rogue Scholar allows bloggers to make their content uniquely citable in academic and scholarly literature. This process provides persistent, stable links that remain functional even if the hosting website's domain or URL structure changes.</p><p>The platform automates DOI minting by polling Atom and RSS feeds for new content, though older posts may require manual submission via an API. Implementing this system requires adopting Creative Commons Attribution licensing and involves navigating the centralized nature of DOI resolution services.</p><p><img src="https://www.bibguru.com/blog/img/DOI-reference-700x348.png" /></p><hr/><small>16 Sep 2026, 20:46 UTC | #21369</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Developing Enterprise AI Servers Powered by M8 Ultra Chips</title>
-    <link href="https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech" rel="alternate" />
-    <id>https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech::v239</id>
-    <published>2026-09-16T17:02:00+00:00</published>
-    <updated>2026-09-16T17:02:00+00:00</updated>
-    <media:thumbnail url="https://www.macworld.com/wp-content/uploads/2026/07/MacStudioM4Max_05-1.jpg?quality=50&amp;strip=all" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech">theinformation.com</a></small></p><hr/><p>Apple is developing enterprise AI servers projected for a 2029 release. The systems are expected to utilize either two or four M8 Ultra chips and may integrate Nvidia's NVLink Fusion networking technology to facilitate high-speed interconnectivity.</p><p>This development signals a potential expansion into the data center market, leveraging custom silicon to compete in the AI infrastructure sector. Integrating specialized networking technology would address the high-bandwidth requirements necessary for large-scale AI model training and inference.</p><p><img src="https://www.macworld.com/wp-content/uploads/2026/07/MacStudioM4Max_05-1.jpg?quality=50&strip=all" /></p><hr/><small>16 Sep 2026, 20:36 UTC | #21302</small>]]></content>
-  </entry>
 </feed>

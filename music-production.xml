@@ -537,49 +537,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/1000013832.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/pontaku-audio-updates-chronoform-to-v1-4-with-sample-accurate-automation-and-step-time-68563?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68563">kvraudio.com</a> | <a href="https://payhip.com/b/NlfzE">source</a></small></p><hr/><p>Version 1.4 of Pontaku Audio's Chronoform, a varispeed processor for sound design, introduces sample-accurate automation for playback rate in VST3 and CLAP formats. The update also includes a "Step Time" feature that generates stepped pitch movements reminiscent of classic video game sound effects.</p><p>The release features a redesigned user interface and reorganized parameter layouts. Version 1.4.1 further optimizes performance by reducing CPU and memory usage, introduces light and dark UI themes, and provides several stability improvements.</p><p><img src="https://static.kvraudio.com/i/b/1000013832.jpg" /></p><hr/><small>17 Sep 2026, 00:03 UTC | #21382</small>]]></content>
   </entry>
-  <entry>
-    <title>Pitch and Frequency: A Guide for Music Producers</title>
-    <link href="https://musictech.com/tutorials/tips/whats-the-relationship-between-pitch-and-frequency-a-beginners-guide-for-music-producers/" rel="alternate" />
-    <id>https://musictech.com/tutorials/tips/whats-the-relationship-between-pitch-and-frequency-a-beginners-guide-for-music-producers/::v239</id>
-    <published>2026-09-16T17:15:00+00:00</published>
-    <updated>2026-09-16T17:15:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2025/04/sirma-vocal-recording@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/tutorials/tips/whats-the-relationship-between-pitch-and-frequency-a-beginners-guide-for-music-producers/">musictech.com</a></small></p><hr/><p>This guide explains the distinction between pitch, the perceptual labeling of musical notes, and frequency, the mathematical measurement of sound wave vibration in Hertz. It covers how single-frequency sources like sine waves differ from complex sounds composed of a fundamental frequency and multiple overtones or harmonics.</p><p>Understanding these relationships helps producers manage tuning deviations using cents and make informed EQ decisions. The article details how harmonics contribute to timbre and warns against excessive filtering that may strip a sound of its sonic character.</p><p><img src="https://musictech.com/wp-content/uploads/2025/04/sirma-vocal-recording@2000x1500.jpg" /></p><hr/><small>16 Sep 2026, 22:05 UTC | #21347</small>]]></content>
-  </entry>
-  <entry>
-    <title>accSone Updates crusher-X to v12.20</title>
-    <link href="https://www.kvraudio.com/news/accsone-updates-crusher-x-to-v12-20-68594?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68594" rel="alternate" />
-    <id>https://www.kvraudio.com/news/accsone-updates-crusher-x-to-v12-20-68594?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68594::v239</id>
-    <published>2026-09-16T17:12:00+00:00</published>
-    <updated>2026-09-16T17:12:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/cx12poster.1789576944.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/accsone-updates-crusher-x-to-v12-20-68594?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68594">kvraudio.com</a> | <a href="https://accsone.com/crusherx/whatsnewincrusherx12">source</a></small></p><hr/><p>accSone has released a free update to its crusher-X granular synthesis plugin, version 12.20. The update introduces a Binaural Processor for 3D audio rendering on headphones, new pitch tracking modes for cleaner melodic alignment, and expanded audio support for FLAC and improved MP3 compatibility.</p><p>The update includes significant engine and UI optimizations to reduce CPU usage and improve responsiveness. It also features enhanced Apple Silicon support for macOS and provides command-line capabilities for the Windows standalone version to facilitate batch processing and headless rendering.</p><p><img src="https://static.kvraudio.com/i/b/cx12poster.1789576944.jpg" /></p><hr/><small>16 Sep 2026, 21:47 UTC | #21363</small>]]></content>
-  </entry>
-  <entry>
-    <title>Smart Audio Plugins Releases Timbral Box Parallel Harmonic Processor</title>
-    <link href="https://www.kvraudio.com/news/smart-audio-plugins-releases-timbral-box-a-parallel-harmonic-processor-68592?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68592" rel="alternate" />
-    <id>https://www.kvraudio.com/news/smart-audio-plugins-releases-timbral-box-a-parallel-harmonic-processor-68592?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68592::v239</id>
-    <published>2026-09-16T17:08:00+00:00</published>
-    <updated>2026-09-16T17:08:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/timbralbox_5_studio_16x9.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/smart-audio-plugins-releases-timbral-box-a-parallel-harmonic-processor-68592?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68592">kvraudio.com</a> | <a href="https://smartaudioplugins.com/timbral-box.html">source</a></small></p><hr/><p>Smart Audio Plugins has released Timbral Box, a parallel harmonic processor for mixing and mastering. The plugin applies harmonic saturation in parallel to the original signal, allowing for increased presence and spectral rebalancing without compromising transients or the instrument's original character.</p><p>The plugin includes bass, mid, and high processors with two saturation modes, a parallel compressor, and a transformer stage modeled on 1970s hardware. It is compatible with macOS and Windows in VST3, AU, and AAX formats, with a promotional launch price available until September 30, 2026.</p><p><img src="https://static.kvraudio.com/i/b/timbralbox_5_studio_16x9.jpg" /></p><hr/><small>16 Sep 2026, 21:07 UTC | #21364</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nopia Semi-Modular Synthesizer Open for Pre-orders</title>
-    <link href="https://musictech.com/news/gear/nopia-open-now-for-pre-orders/" rel="alternate" />
-    <id>https://musictech.com/news/gear/nopia-open-now-for-pre-orders/::v239</id>
-    <published>2026-09-16T17:07:00+00:00</published>
-    <updated>2026-09-16T17:07:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Nopia-hero-2@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/nopia-open-now-for-pre-orders/">musictech.com</a> | <a href="https://www.kickstarter.com/projects/nopia-mk1/nopia-a-semi-modular-harmony-generator">source</a></small></p><hr/><p>Nopia, a semi-modular MIDI chord generator and synthesizer by designers Martin Grieco and Rocio Gal, has opened for pre-orders via Kickstarter. The instrument features a single-octave chord builder keyboard with a 12-button tonal selector to facilitate playing within specific key centers. It also includes a hybrid multitimbral sound engine, a five-step effects chain, and a multitouch strum plate for expressive gestures.</p><p>The Kickstarter campaign has surpassed its $50,000 goal, raising more than $1.4 million to date. Pre-orders for the Nopia MK1 are currently available at a discounted price of $699, down from the $899 MSRP. The creators estimate that the first production batch will be fulfilled by May 2027.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Nopia-hero-2@2000x1500.jpg" /></p><hr/><small>16 Sep 2026, 21:05 UTC | #21338</small>]]></content>
-  </entry>
-  <entry>
-    <title>Arturia MiniFreak 5.0 Update Adds Sample and Wavetable Import</title>
-    <link href="https://musictech.com/news/music/arturia-minifreak-free-5-0-update-new-features/" rel="alternate" />
-    <id>https://musictech.com/news/music/arturia-minifreak-free-5-0-update-new-features/::v239</id>
-    <published>2026-09-16T17:04:00+00:00</published>
-    <updated>2026-09-16T17:04:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2025/12/arturia-minifreak-gotd-hero@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/music/arturia-minifreak-free-5-0-update-new-features/">musictech.com</a> | <a href="https://www.arturia.com/products/hardware-synths/minifreak/update">source</a></small></p><hr/><p>Arturia's latest firmware and software version for the MiniFreak series enables the import of custom samples and wavetables. This feature is available for both the MiniFreak hardware synthesizer and the MiniFreak V software.</p><p>The 5.0 release also introduces Factory Bank v5.0, which provides 23 new presets containing exclusive content. Furthermore, the update allows users to manage hardware content—including transferring, removing samples, and performing factory resets—directly through the MiniFreak V application.</p><p><img src="https://musictech.com/wp-content/uploads/2025/12/arturia-minifreak-gotd-hero@2000x1500.jpg" /></p><hr/><small>16 Sep 2026, 20:40 UTC | #21339</small>]]></content>
-  </entry>
 </feed>
