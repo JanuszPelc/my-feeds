@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-20T22:33:00+00:00</updated>
+  <updated>2026-09-21T07:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Model Context Protocol Argued to be Obsolete as LLMs Improve Autonomy</title>
+    <link href="https://maharship.com/blog/why-mcp-was-always-a-bad-idea/" rel="alternate" />
+    <id>https://maharship.com/blog/why-mcp-was-always-a-bad-idea/::v239</id>
+    <published>2026-09-21T07:19:00+00:00</published>
+    <updated>2026-09-21T07:19:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQHnS9XWgX3UXg/article-cover_image-shrink_720_1280/B56ZtWJPkeJoAI-/0/1766676828535?e=2147483647&amp;v=beta&amp;t=SGDHmI66Is4C91f1wWLQksYTwmQcNAtaCMRVXt954Go" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://maharship.com/blog/why-mcp-was-always-a-bad-idea/">maharship.com</a> | <a href="https://news.ycombinator.com/item?id=49779329">hacker news</a></small></p><hr/><p>The Model Context Protocol (MCP), introduced by Anthropic in 2024 to facilitate connections between AI agents and external data, is losing its necessity as large language models (LLMs) become more autonomous. The author argues that as models evolve to execute code and interact directly with APIs and Command Line Interfaces (CLIs), the specialized abstraction layer provided by MCP becomes redundant.</p><p>Beyond the rising intelligence of models, the article highlights "context bloat"—where multiple tool schemas from various MCP servers overwhelm the model's context window—as a significant drawback. The author suggests that instead of relying on MCP, the industry should standardize agent-to-server communication through existing HTTP protocols and specialized headers, such as Accept: text/markdown.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQHnS9XWgX3UXg/article-cover_image-shrink_720_1280/B56ZtWJPkeJoAI-/0/1766676828535?e=2147483647&v=beta&t=SGDHmI66Is4C91f1wWLQksYTwmQcNAtaCMRVXt954Go" /></p><hr/><small>21 Sep 2026, 11:32 UTC | #21811</small>]]></content>
+  </entry>
   <entry>
     <title>AX: Open-Source Runtime for Large-Scale Agentic Workloads</title>
     <link href="https://agentexecutor.io" rel="alternate" />
@@ -374,23 +383,5 @@
     <updated>2026-09-16T17:09:00+00:00</updated>
     <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?w=680" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/">techcrunch.com</a> | <a href="https://claude.com/blog/cowork-is-now-claude">source</a> | <a href="https://news.ycombinator.com/item?id=49729412">hacker news</a></small></p><hr/><p>Anthropic is merging its Claude chat and Cowork interfaces into a unified workspace, allowing users to access chat, Cowork, and Artifacts from a single window. The new design automatically routes requests to the appropriate tool, eliminating the need for users to manually switch between different tabs for different tasks.</p><p>The update also introduces new capabilities for creating, editing, and presenting documents and slides, with support for exporting files to PDF or PowerPoint. These features are rolling out first to Pro and Max subscribers across web, desktop, and mobile platforms, with plans to extend the rollout to free and team tiers in the coming weeks.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?w=680" /></p><hr/><small>16 Sep 2026, 21:32 UTC | #21345</small>]]></content>
-  </entry>
-  <entry>
-    <title>Mistral and Mozilla Partner to Power Firefox Smart Window AI Assistant</title>
-    <link href="https://www.wsj.com/tech/ai/mistral-aims-to-grow-ai-consumer-base-through-mozilla-partnership-10038e0d?st=hp4xec&amp;reflink=desktopwebshare_permalink" rel="alternate" />
-    <id>https://www.wsj.com/tech/ai/mistral-aims-to-grow-ai-consumer-base-through-mozilla-partnership-10038e0d?st=hp4xec&amp;reflink=desktopwebshare_permalink::v239</id>
-    <published>2026-09-16T11:22:00+00:00</published>
-    <updated>2026-09-16T11:22:00+00:00</updated>
-    <media:thumbnail url="https://media.askvg.com/articles/images9/Change_Customize_Smart_Window_AI_Window_Settings_Mozilla_Firefox.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/mistral-aims-to-grow-ai-consumer-base-through-mozilla-partnership-10038e0d?st=hp4xec&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://blog.mozilla.org/en/firefox/mozilla-mistral-partnership/">source</a></small></p><hr/><p>Mistral is partnering with Mozilla to power the "Smart Window" AI browsing assistant in Firefox. The feature will be available in the United States, Canada, and France, with rollouts in the United Kingdom and Germany expected in 2026.</p><p>The collaboration aims to provide a privacy-focused, open-source alternative to the default AI ecosystems offered by major technology companies. The models are intended to be fine-tuned for regional languages and cultural contexts to provide more localized user experiences.</p><p><img src="https://media.askvg.com/articles/images9/Change_Customize_Smart_Window_AI_Window_Settings_Mozilla_Firefox.png" /></p><hr/><small>16 Sep 2026, 18:09 UTC | #21280</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Signs First Australian Data Center Lease</title>
-    <link href="https://www.reuters.com/world/asia-pacific/anthropic-signs-first-australia-data-centre-agreement-2026-09-16/" rel="alternate" />
-    <id>https://www.reuters.com/world/asia-pacific/anthropic-signs-first-australia-data-centre-agreement-2026-09-16/::v239</id>
-    <published>2026-09-16T11:21:00+00:00</published>
-    <updated>2026-09-16T11:21:00+00:00</updated>
-    <media:thumbnail url="https://www.teslarati.com/wp-content/uploads/2026/05/spacex-xai-anthropic-colossus-1-scaled.jpeg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/anthropic-signs-first-australia-data-centre-agreement-2026-09-16/">reuters.com</a></small></p><hr/><p>The company has signed its first Australian data center lease for a planned 2.16GW campus. Located approximately 150 miles from Brisbane, the facility is expected to come online in 2027.</p><p>This massive capacity expansion is designed to meet the heavy computing demands of large-scale AI models. The project is set to utilize the region's renewable energy resources to power the site.</p><p><img src="https://www.teslarati.com/wp-content/uploads/2026/05/spacex-xai-anthropic-colossus-1-scaled.jpeg" /></p><hr/><small>16 Sep 2026, 18:06 UTC | #21279</small>]]></content>
   </entry>
 </feed>
