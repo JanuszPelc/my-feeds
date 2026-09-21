@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-21T17:04:00+00:00</updated>
+  <updated>2026-09-21T17:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Heretic Removes Censorship from Language Models</title>
+    <link href="https://heretic-project.org/" rel="alternate" />
+    <id>https://heretic-project.org/::v239</id>
+    <published>2026-09-21T17:07:00+00:00</published>
+    <updated>2026-09-21T17:07:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQGqrospiOz2Ww/feedshare-shrink_800/B56Zzo9VbjJkAc-/0/1773434919230?e=2147483647&amp;v=beta&amp;t=znIu5ptytXrW5-DPiY8bUZnjwKqM_JS3GvxKOUECyn8" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://heretic-project.org/">heretic-project.org</a> | <a href="https://news.ycombinator.com/item?id=49783101">hacker news</a></small></p><hr/><p>Heretic is a free software project under the GNU Affero General Public License that removes restrictions and censorship from large language models. The tool ensures models follow user instructions without built-in refusals or safety constraints.</p><p>The project employs "abliteration" techniques to modify open-weight models, enabling more direct control over AI behavior. This capability is primarily intended for users running local models who wish to bypass pre-programmed instruction-following limitations.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQGqrospiOz2Ww/feedshare-shrink_800/B56Zzo9VbjJkAc-/0/1773434919230?e=2147483647&v=beta&t=znIu5ptytXrW5-DPiY8bUZnjwKqM_JS3GvxKOUECyn8" /></p><hr/><small>21 Sep 2026, 22:28 UTC | #21898</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Developing Features to Counter Grok Bot and Meta's Muse</title>
     <link href="https://www.theinformation.com/articles/openai-develops-features-counter-grok-bot-mulls-response-metas-muse" rel="alternate" />
