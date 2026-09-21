@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-21T07:19:00+00:00</updated>
+  <updated>2026-09-21T10:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Jared Palmer Releases Kev Decision Models Based on Qwen3.5</title>
+    <link href="https://github.com/jaredpalmer/kev/tree/main" rel="alternate" />
+    <id>https://github.com/jaredpalmer/kev/tree/main::v239</id>
+    <published>2026-09-21T10:54:00+00:00</published>
+    <updated>2026-09-21T10:54:00+00:00</updated>
+    <media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl_4b_8b_text_instruct.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/jaredpalmer/kev/tree/main">github.com</a> | <a href="https://github.com/jaredpalmer/kev">source</a> | <a href="https://news.ycombinator.com/item?id=49783999">hacker news</a></small></p><hr/><p>Jared Palmer has released Kev, an open-source family of small decision models built on top of Qwen3.5. The models, available in 0.8B, 4B, and 9B parameter sizes, are designed to answer multiple "typed questions"—such as yes/no, multiple-choice, or rating scales—from a single input text in a single forward pass. The system returns calibrated probabilities for each answer rather than just a single label.</p><p>The models are compatible with TypeSafe's System One API, allowing developers to use existing Python SDKs with their local Kev server. The project includes training code, evaluation data, and a web playground. The models are optimized to run on CUDA and Apple Silicon, with the larger variants capable of fitting on a 32 GB Mac using bf16 precision.</p><p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl_4b_8b_text_instruct.jpg" /></p><hr/><small>21 Sep 2026, 14:22 UTC | #21836</small>]]></content>
+  </entry>
   <entry>
     <title>Model Context Protocol Argued to be Obsolete as LLMs Improve Autonomy</title>
     <link href="https://maharship.com/blog/why-mcp-was-always-a-bad-idea/" rel="alternate" />

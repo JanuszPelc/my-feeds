@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T10:50:00+00:00</updated>
+  <updated>2026-09-21T10:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Cloudflare 520 Error: Web Server Returns Unknown Error</title>
+    <link href="https://outdata.net/blog/260803" rel="alternate" />
+    <id>https://outdata.net/blog/260803::v239</id>
+    <published>2026-09-21T10:55:00+00:00</published>
+    <updated>2026-09-21T10:55:00+00:00</updated>
+    <media:thumbnail url="https://howhttpworks.com/og/WyI1MjAgV2ViIFNlcnZlciBSZXR1cm5lZCBhbiBVbmtub3duIEVycm9yIiwiQ2xvdWRmbGFyZS1zcGVjaWZpYyBlcnJvciB3aGVuIHRoZSBvcmlnaW4gc2VydmVyIHJldHVybnMgYW4gdW5leHBlY3RlZCByZXNwb25zZS4gTGVhcm4gYWJvdXQgNTIwIGVycm9ycyBhbmQuLi4iLCJIVFRQIFN0YXR1cyBDb2RlcyIsInYyIl0/status-codes-520.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://outdata.net/blog/260803">outdata.net</a> | <a href="https://lobste.rs/s/qupohm/deterministic_core_non_deterministic">discussion</a> | <a href="https://news.ycombinator.com/item?id=49782220">hacker news</a></small></p><hr/><p>The Cloudflare 520 error occurs when an origin web server returns an unknown response to the Cloudflare cache, disrupting communication between the cache and the server.</p><p>Visitors are advised to wait several minutes before retrying their request. Website owners are encouraged to collect error logs from their origin server and submit them to Cloudflare support, along with the specific Ray ID associated with the error.</p><p><img src="https://howhttpworks.com/og/WyI1MjAgV2ViIFNlcnZlciBSZXR1cm5lZCBhbiBVbmtub3duIEVycm9yIiwiQ2xvdWRmbGFyZS1zcGVjaWZpYyBlcnJvciB3aGVuIHRoZSBvcmlnaW4gc2VydmVyIHJldHVybnMgYW4gdW5leHBlY3RlZCByZXNwb25zZS4gTGVhcm4gYWJvdXQgNTIwIGVycm9ycyBhbmQuLi4iLCJIVFRQIFN0YXR1cyBDb2RlcyIsInYyIl0/status-codes-520.png" /></p><hr/><small>21 Sep 2026, 14:28 UTC | #21837</small>]]></content>
+  </entry>
   <entry>
     <title>Vim's UserGettingBored Autocmd Explained</title>
     <link href="https://evanhahn.com/usergettingbored-vim/" rel="alternate" />
