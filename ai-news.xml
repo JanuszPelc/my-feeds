@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-21T10:54:00+00:00</updated>
+  <updated>2026-09-21T11:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>mini-AGI: A Continual Learning Byte-Level Language Model for 8GB VRAM</title>
+    <link href="https://github.com/volotat/mini-AGI/" rel="alternate" />
+    <id>https://github.com/volotat/mini-AGI/::v239</id>
+    <published>2026-09-21T11:32:00+00:00</published>
+    <updated>2026-09-21T11:32:00+00:00</updated>
+    <media:thumbnail url="https://github.com/volotat/mini-AGI/raw/main/assets/dashboard.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/volotat/mini-AGI/">github.com</a> | <a href="https://news.ycombinator.com/item?id=49783133">hacker news</a></small></p><hr/><p>mini-AGI is an experimental, byte-level language model designed for continual learning on consumer hardware. It employs a paging mechanism to store weights on disk, allowing the model's capacity to be bounded by available disk space rather than VRAM. This architecture enables the model to learn from continuous data streams on a single 8GB GPU while avoiding catastrophic forgetting.</p><p>The model utilizes an adaptive depth mechanism and expert routing to optimize computation. To mitigate forgetting, the project uses a specialized training strategy where the model's "trunk" is trained at a lower learning rate than the individual experts. Though currently a toy-level experiment, it provides a framework for users to train evolving, personal models on local hardware.</p><p><img src="https://github.com/volotat/mini-AGI/raw/main/assets/dashboard.png" /></p><hr/><small>21 Sep 2026, 15:38 UTC | #21849</small>]]></content>
+  </entry>
   <entry>
     <title>Jared Palmer Releases Kev Decision Models Based on Qwen3.5</title>
     <link href="https://github.com/jaredpalmer/kev/tree/main" rel="alternate" />
