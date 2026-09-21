@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T10:39:00+00:00</updated>
+  <updated>2026-09-21T10:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Disney+ Updates Subscriber Agreement to Allow Ads in Ad-Free Tiers</title>
+    <link href="https://consumerrights.wiki/w/Disney%2B_ad_policy_change" rel="alternate" />
+    <id>https://consumerrights.wiki/w/Disney%2B_ad_policy_change::v239</id>
+    <published>2026-09-21T10:51:00+00:00</published>
+    <updated>2026-09-21T10:51:00+00:00</updated>
+    <media:thumbnail url="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2022/12/IMG_63151.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://consumerrights.wiki/w/Disney%2B_ad_policy_change">consumerrights.wiki</a> | <a href="https://www.disneyplus.com/legal/subscriber-agreement">source</a> | <a href="https://news.ycombinator.com/item?id=49784336">hacker news</a></small></p><hr/><p>Disney+ updated its Subscriber Agreement in January 2025 to permit advertisements across all subscription tiers, including those marketed as "ad-free." These exceptions include ads required by streaming rights, live or linear content, special events, and promotional or branded content.</p><p>The modification applies to Premium, Basic, and Bundle subscriptions, binding existing subscribers through updated terms and conditions. In September 2026, Disney clarified to German subscribers that advertisements may be placed before and after content in Standard and Premium tiers.</p><p><img src="https://whatsondisneyplus.b-cdn.net/wp-content/uploads/2022/12/IMG_63151.jpg" /></p><hr/><small>21 Sep 2026, 14:01 UTC | #21831</small>]]></content>
+  </entry>
   <entry>
     <title>White House and Anthropic Dispute Over AI Model Export Controls</title>
     <link href="https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212" rel="alternate" />
