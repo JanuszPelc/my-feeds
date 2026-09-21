@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T10:55:00+00:00</updated>
+  <updated>2026-09-21T11:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Creating a Blog on the Gemini Protocol</title>
+    <link href="https://brennan.day/creating-a-blog-in-gemini/" rel="alternate" />
+    <id>https://brennan.day/creating-a-blog-in-gemini/::v239</id>
+    <published>2026-09-21T11:25:00+00:00</published>
+    <updated>2026-09-21T11:25:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://brennan.day/creating-a-blog-in-gemini/">brennan.day</a> | <a href="https://lobste.rs/s/qxzjqt/creating_blog_gemini">discussion</a></small></p><hr/><p>Setting up a "capsule" on the Gemini protocol involves using Gemtext and following specific structural conventions for organizing chronological posts, known as "gemlogs." Hosting options include specialized services like SmolPub and Gemcities, as well as self-hosting a dedicated server.</p><p>The protocol provides a minimalist, text-based environment that bypasses the complexity of JavaScript and the prevalence of generative AI content. Users can implement site interactivity via CGI scripting and manage persistent session state through the use of TLS client certificates.</p><hr/><small>21 Sep 2026, 14:46 UTC | #21840</small>]]></content>
+  </entry>
   <entry>
     <title>Cloudflare 520 Error: Web Server Returns Unknown Error</title>
     <link href="https://outdata.net/blog/260803" rel="alternate" />
@@ -827,32 +835,5 @@
     <updated>2026-09-16T17:02:00+00:00</updated>
     <media:thumbnail url="https://www.macworld.com/wp-content/uploads/2026/07/MacStudioM4Max_05-1.jpg?quality=50&amp;strip=all" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech">theinformation.com</a></small></p><hr/><p>Apple is developing enterprise AI servers projected for a 2029 release. The systems are expected to utilize either two or four M8 Ultra chips and may integrate Nvidia's NVLink Fusion networking technology to facilitate high-speed interconnectivity.</p><p>This development signals a potential expansion into the data center market, leveraging custom silicon to compete in the AI infrastructure sector. Integrating specialized networking technology would address the high-bandwidth requirements necessary for large-scale AI model training and inference.</p><p><img src="https://www.macworld.com/wp-content/uploads/2026/07/MacStudioM4Max_05-1.jpg?quality=50&strip=all" /></p><hr/><small>16 Sep 2026, 20:36 UTC | #21302</small>]]></content>
-  </entry>
-  <entry>
-    <title>DiscoStarslayer Successfully Reverse-Engineers PlayStation 2 MechaCon Security Chip</title>
-    <link href="https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip" rel="alternate" />
-    <id>https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip::v239</id>
-    <published>2026-09-16T14:52:00+00:00</published>
-    <updated>2026-09-16T14:52:00+00:00</updated>
-    <media:thumbnail url="https://8bitplus.co.uk/wp-content/uploads/2022/11/nggallery_import/PS2_Modchip_Installation-3-e1667463292832.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip">tomshardware.com</a> | <a href="https://news.ycombinator.com/item?id=49725356">hacker news</a></small></p><hr/><p>Enthusiast DiscoStarslayer has successfully reverse-engineered and dumped the CXP102064 MechaCon security chip used in the original "PS2 Fat" PlayStation 2. The four-year project involved chemical decapping to access the chip's internal firmware and security keys.</p><p>This milestone is expected to benefit hardware preservation, console repair, and software emulation projects. Accessing these technical details allows for more accurate hardware simulation and facilitates the long-term maintenance of legacy consoles.</p><p><img src="https://8bitplus.co.uk/wp-content/uploads/2022/11/nggallery_import/PS2_Modchip_Installation-3-e1667463292832.jpg" /></p><hr/><small>16 Sep 2026, 19:44 UTC | #21362</small>]]></content>
-  </entry>
-  <entry>
-    <title>Linux and BSD Use Encouraged for Efficient Computing</title>
-    <link href="https://distrowatch.com/weekly.php?issue=20260914#qa" rel="alternate" />
-    <id>https://distrowatch.com/weekly.php?issue=20260914#qa::v239</id>
-    <published>2026-09-16T14:43:00+00:00</published>
-    <updated>2026-09-16T14:43:00+00:00</updated>
-    <media:thumbnail url="https://opensource.com/sites/default/files/uploads/tinycore.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://distrowatch.com/weekly.php?issue=20260914#qa">distrowatch.com</a> | <a href="https://lobste.rs/s/zwhnko/smallest_possible_linux_distribution">discussion</a></small></p><hr/><p>Linux and BSD operating systems are advocated as a means to improve computing efficiency and user experience. The discussion positions these platforms as lightweight alternatives to the heavy resource requirements of modern mainstream operating systems.</p><p>Minimalist distributions, such as Tiny Core Linux, are highlighted for their extremely low resource footprints. These systems are noted for their ability to revive legacy hardware and for providing highly specialized, low-overhead computing environments.</p><p><img src="https://opensource.com/sites/default/files/uploads/tinycore.jpg" /></p><hr/><small>16 Sep 2026, 19:13 UTC | #21360</small>]]></content>
-  </entry>
-  <entry>
-    <title>Chinese Hacking Firm ZRON Uses AI to Process Stolen Intelligence</title>
-    <link href="https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846?st=gfuSd9&amp;reflink=desktopwebshare_permalink" rel="alternate" />
-    <id>https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846?st=gfuSd9&amp;reflink=desktopwebshare_permalink::v239</id>
-    <published>2026-09-16T14:35:00+00:00</published>
-    <updated>2026-09-16T14:35:00+00:00</updated>
-    <media:thumbnail url="https://www.insurancejournal.com/app/uploads/2023/08/chinese-hackers-in-troll-farm-429306215-bigstock-scaled.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/how-a-chinese-hacking-firm-tapped-ai-to-supercharge-cyber-spying-b577c846?st=gfuSd9&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Internal company materials indicate that the Chinese hacking-for-hire firm ZRON is selling stolen intelligence from foreign governments and using AI to make the data more accessible to police. The company's operations reportedly target nations such as Russia and Pakistan.</p><p>The use of AI allows the firm to transform large volumes of stolen information into digestible formats for law enforcement. This development highlights how private cyber espionage groups are increasingly using artificial intelligence to automate the intelligence-gathering and analysis lifecycle.</p><p><img src="https://www.insurancejournal.com/app/uploads/2023/08/chinese-hackers-in-troll-farm-429306215-bigstock-scaled.jpg" /></p><hr/><small>16 Sep 2026, 18:51 UTC | #21287</small>]]></content>
   </entry>
 </feed>

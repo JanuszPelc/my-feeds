@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-21T10:45:00+00:00</updated>
+  <updated>2026-09-21T10:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>OVNI Audio Releases Orbit Binaural Plugin and Supernova 0.4.0 Visual Synth</title>
+    <link href="https://www.kvraudio.com/news/ovni-audio-releases-orbit-and-supernova-0-4-0---free-open-source-binaural-movement-plug-in-and-audio-reactive-visual-synth-68647?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68647" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ovni-audio-releases-orbit-and-supernova-0-4-0---free-open-source-binaural-movement-plug-in-and-audio-reactive-visual-synth-68647?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68647::v239</id>
+    <published>2026-09-21T10:56:00+00:00</published>
+    <updated>2026-09-21T10:56:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/orbit-ui.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ovni-audio-releases-orbit-and-supernova-0-4-0---free-open-source-binaural-movement-plug-in-and-audio-reactive-visual-synth-68647?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68647">kvraudio.com</a> | <a href="https://ovniaudio.com/">source</a></small></p><hr/><p>OVNI Audio has released Orbit, a binaural movement plugin, and Supernova 0.4.0, an audio-reactive visual synth. Orbit, available for macOS and Windows, allows users to place sounds in a 3D space using HRIR spatialization and Doppler effects. Supernova 0.4.0 is a macOS-exclusive plugin and standalone app that generates GPU-based particle clouds that react to audio input.</p><p>Both plugins are free and open-source under the GNU AGPLv3 license. Orbit features a radar-style interface for 3D positioning and controls for chaos, width, and room characteristics. Supernova 0.4.0 introduces cross-dissolves between images in its particle sequences and includes improvements to clip exporting and loop points.</p><p><img src="https://static.kvraudio.com/i/b/orbit-ui.jpg" /></p><hr/><small>21 Sep 2026, 14:42 UTC | #21802</small>]]></content>
+  </entry>
   <entry>
     <title>Sendy Audio Apollo Pro Review: Comfortable Planar Magnetic Headphones</title>
     <link href="https://musictech.com/reviews/studio-recording-gear/sendy-audio-apollo-pro-review/" rel="alternate" />
@@ -572,41 +581,5 @@
     <updated>2026-09-16T17:04:00+00:00</updated>
     <media:thumbnail url="https://musictech.com/wp-content/uploads/2025/12/arturia-minifreak-gotd-hero@2000x1500.jpg" />
     <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/music/arturia-minifreak-free-5-0-update-new-features/">musictech.com</a> | <a href="https://www.arturia.com/products/hardware-synths/minifreak/update">source</a></small></p><hr/><p>Arturia's latest firmware and software version for the MiniFreak series enables the import of custom samples and wavetables. This feature is available for both the MiniFreak hardware synthesizer and the MiniFreak V software.</p><p>The 5.0 release also introduces Factory Bank v5.0, which provides 23 new presets containing exclusive content. Furthermore, the update allows users to manage hardware content—including transferring, removing samples, and performing factory resets—directly through the MiniFreak V application.</p><p><img src="https://musictech.com/wp-content/uploads/2025/12/arturia-minifreak-gotd-hero@2000x1500.jpg" /></p><hr/><small>16 Sep 2026, 20:40 UTC | #21339</small>]]></content>
-  </entry>
-  <entry>
-    <title>Joe Landers Releases Profligacy Korg Prophecy Emulator</title>
-    <link href="https://bedroomproducersblog.com/2026/09/16/profligacy-korg-prophecy/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/16/profligacy-korg-prophecy/::v239</id>
-    <published>2026-09-16T14:50:00+00:00</published>
-    <updated>2026-09-16T14:50:00+00:00</updated>
-    <media:thumbnail url="https://synthanatomy.com/wp-content/uploads/2026/09/Joe-Landers-Profligacy.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/16/profligacy-korg-prophecy/">bedroomproducersblog.com</a> | <a href="https://github.com/joelanders/profligacy/releases">source</a> | <a href="https://bedroomproducersblog.com/2026/09/16/profligacy-korg-prophecy/#respond">discussion</a></small></p><hr/><p>Joe Landers has released Profligacy, a free and open-source emulator of the Korg Prophecy synthesizer. Compatible with macOS and Windows, the software is designed to replicate the distinctive 1990s digital synthesis sounds of the original hardware.</p><p>The project is in an early development stage and is characterized as being somewhat unpolished. It provides producers a way to access vintage digital synthesis textures within a modern software environment.</p><p><img src="https://synthanatomy.com/wp-content/uploads/2026/09/Joe-Landers-Profligacy.jpg" /></p><hr/><small>16 Sep 2026, 19:38 UTC | #21314</small>]]></content>
-  </entry>
-  <entry>
-    <title>Soundins Releases OmniPass Free All-Pass Filter Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/16/soundins-omnipass/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/16/soundins-omnipass/::v239</id>
-    <published>2026-09-16T14:42:00+00:00</published>
-    <updated>2026-09-16T14:42:00+00:00</updated>
-    <media:thumbnail url="https://www.cmuse.org/wp-content/uploads/2026/05/all-pass-filter-calculator-for-phase-and-delay.png" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/16/soundins-omnipass/">bedroomproducersblog.com</a> | <a href="https://soundins.com.ar/Plugins/OmniPass/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/16/soundins-omnipass/#respond">discussion</a></small></p><hr/><p>Soundins has released OmniPass, a free all-pass filter plugin compatible with macOS and Windows. The plugin generates frequency-dependent phase shifts while maintaining a flat magnitude response, allowing for phase manipulation without altering the volume or frequency balance of the signal.</p><p>Available in VST, VST3, AU, and AAX formats, OmniPass is intended for use in phase alignment and sound design. It offers a specialized method for adjusting signal phase within a digital audio workstation without the frequency-altering effects of a standard equalizer.</p><p><img src="https://www.cmuse.org/wp-content/uploads/2026/05/all-pass-filter-calculator-for-phase-and-delay.png" /></p><hr/><small>16 Sep 2026, 19:07 UTC | #21315</small>]]></content>
-  </entry>
-  <entry>
-    <title>Temecula DSP Releases QDV1 QuadraVerb Emulation</title>
-    <link href="https://bedroomproducersblog.com/2026/09/16/temecula-dsp-qdv1-quadraverb/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/16/temecula-dsp-qdv1-quadraverb/::v239</id>
-    <published>2026-09-16T14:40:00+00:00</published>
-    <updated>2026-09-16T14:40:00+00:00</updated>
-    <media:thumbnail url="https://img.audiofanzine.com/images/u/fr/news/cover/temecula-dsp-offre-mcv-i-81234.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/16/temecula-dsp-qdv1-quadraverb/">bedroomproducersblog.com</a> | <a href="https://www.temeculadsp.com/qdv1">source</a></small></p><hr/><p>Temecula DSP has released QDV1, a software emulation of the 1989 Alesis QuadraVerb. The plugin replicates all eight signal paths, the full set of factory algorithms, and 90 factory programs. It is designed to allow direct control over processing sections to prevent menu diving.</p><p>Available for macOS and Windows, the plugin provides a variety of effects such as reverb, delay, pitch shifting, chorus, and flange. It is currently offered at an introductory price of $75.</p><p><img src="https://img.audiofanzine.com/images/u/fr/news/cover/temecula-dsp-offre-mcv-i-81234.jpg" /></p><hr/><small>16 Sep 2026, 19:03 UTC | #21316</small>]]></content>
-  </entry>
-  <entry>
-    <title>Optopus Free Opto Compressor Available for Windows</title>
-    <link href="https://bedroomproducersblog.com/2026/09/16/optopus-compressor-windows/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/16/optopus-compressor-windows/::v239</id>
-    <published>2026-09-16T14:38:00+00:00</published>
-    <updated>2026-09-16T14:38:00+00:00</updated>
-    <media:thumbnail url="https://niviem.net/niviem_opt4.webp" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/16/optopus-compressor-windows/">bedroomproducersblog.com</a> | <a href="https://www.patreon.com/posts/optopus-smooth-151233135">source</a> | <a href="https://bedroomproducersblog.com/2026/09/16/optopus-compressor-windows/#respond">discussion</a></small></p><hr/><p>madBee ::audio has released Optopus, a free optical-style compressor with tube saturation for Windows. The plugin provides a digital model of classic electro-optical compression designed for smooth, musical dynamics processing within a digital audio workstation.</p><p>The plugin includes extended controls to shape the compression response, simulate circuit aging, and add harmonic warmth via optional tube-style saturation. It is designed as a lightweight tool for adding analog character to digital audio tracks.</p><p><img src="https://niviem.net/niviem_opt4.webp" /></p><hr/><small>16 Sep 2026, 18:59 UTC | #21317</small>]]></content>
   </entry>
 </feed>
