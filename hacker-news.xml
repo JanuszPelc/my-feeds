@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-20T19:00:00+00:00</updated>
+  <updated>2026-09-20T22:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Quarkdown Markdown Typesetting System with Turing-complete Extensibility</title>
+    <link href="https://github.com/iamgio/quarkdown" rel="alternate" />
+    <id>https://github.com/iamgio/quarkdown::v239</id>
+    <published>2026-09-20T22:39:00+00:00</published>
+    <updated>2026-09-20T22:39:00+00:00</updated>
+    <media:thumbnail url="https://shapes.inc/api/public/avatar/turingcomplete" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/iamgio/quarkdown">github.com</a> | <a href="https://lobste.rs/s/wryj2p/quarkdown_turing_complete_markdown">discussion</a></small></p><hr/><p>Quarkdown is a Markdown-based typesetting system that compiles a single source into academic papers, books, interactive presentations, or static websites. It extends CommonMark and GitHub Flavored Markdown with Turing-complete functions and variables, enabling dynamic content through a standard library that supports layout builders, math, and control flow.</p><p>Supported output targets include HTML, PDF, and plain text. The tool provides a command-line interface with live preview functionality and offers editor extensions for VS Code and IntelliJ IDEA.</p><p><img src="https://shapes.inc/api/public/avatar/turingcomplete" /></p><hr/><small>21 Sep 2026, 05:03 UTC | #21782</small>]]></content>
+  </entry>
   <entry>
     <title>Notion Implements CRDTs for Conflict-Free Collaborative Editing</title>
     <link href="https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts" rel="alternate" />
