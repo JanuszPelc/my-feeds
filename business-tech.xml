@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T16:34:00+00:00</updated>
+  <updated>2026-09-21T17:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Tabby Uses AI to Automate Bookkeeping for Small Businesses</title>
+    <link href="https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/::v239</id>
+    <published>2026-09-21T17:05:00+00:00</published>
+    <updated>2026-09-21T17:05:00+00:00</updated>
+    <media:thumbnail url="https://appsumo2-cdn.appsumo.com/media/deals/images/tabby-as-Header-Tabby-16_9.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/">techcrunch.com</a></small></p><hr/><p>Tabby provides an AI-powered bookkeeping interface designed to automate financial management for small businesses and solopreneurs. By integrating live account data via Plaid, the service generates real-time profit and loss statements and aims to eliminate much of the manual work associated with traditional accounting software.</p><p>Founded by former accountant Ahad Ali, the startup currently serves 5,500 users and generates $100,000 in annual recurring revenue. The seven-person team is in the process of raising $1 million in pre-seed funding and is preparing to launch Tabby Talk, a natural language interface for the product.</p><p><img src="https://appsumo2-cdn.appsumo.com/media/deals/images/tabby-as-Header-Tabby-16_9.png" /></p><hr/><small>21 Sep 2026, 22:02 UTC | #21864</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple's Shift Toward an AI-Centric Ecosystem Under CEO John Ternus</title>
+    <link href="https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone" rel="alternate" />
+    <id>https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone::v239</id>
+    <published>2026-09-21T17:03:00+00:00</published>
+    <updated>2026-09-21T17:03:00+00:00</updated>
+    <media:thumbnail url="https://images.etnownews.com/thumb/msid-153424411,updatedat-1768013529223,width-800,height-450,resizemode-4/153424411.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone">theverge.com</a></small></p><hr/><p>Under new CEO John Ternus, Apple is pivoting its ecosystem toward an "intelligent personal hub" to anchor its product strategy. This transition, occurring alongside the launch of the foldable iPhone Duo, aims to place AI at the center of the company's hardware and software integration.</p><p>Expected product expansions over the next 18 months include smart home hubs with dedicated operating systems, smart glasses, and camera-equipped AirPods. This roadmap coincides with a shift toward a more decisive management style under Ternus, departing from the collaborative decision-making approach of former CEO Tim Cook.</p><p><img src="https://images.etnownews.com/thumb/msid-153424411,updatedat-1768013529223,width-800,height-450,resizemode-4/153424411.jpg" /></p><hr/><small>21 Sep 2026, 21:57 UTC | #21846</small>]]></content>
+  </entry>
   <entry>
     <title>Scott Bessent Blames OpenAI Management for Hugging Face Hacking Incident</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame" rel="alternate" />
