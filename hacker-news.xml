@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T17:22:00+00:00</updated>
+  <updated>2026-09-21T18:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rift Tiling Window Manager for macOS</title>
+    <link href="https://github.com/acsandmann/rift/" rel="alternate" />
+    <id>https://github.com/acsandmann/rift/::v239</id>
+    <published>2026-09-21T18:04:00+00:00</published>
+    <updated>2026-09-21T18:04:00+00:00</updated>
+    <media:thumbnail url="https://img.bgo.one/news-image/202510120714_Rift_macOS_Tiling_Window_Manager_Community_Discussion_1.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/acsandmann/rift/">github.com</a> | <a href="https://lobste.rs/s/bcbuqk/rift_tiling_window_manager_for_macos">discussion</a></small></p><hr/><p>Rift provides a tiling window management system for macOS, focusing on performance and user experience. It features mouse-follow focus, trackpad gesture support for workspace switching, and performant animations. The software does not require disabling System Integrity Protection (SIP) and supports the macOS "Displays have separate Spaces" feature.</p><p>Developed in Rust, Rift is a fork of `glide-wm` that has diverged to utilize undocumented macOS APIs for improved efficiency. It includes a Mach port-based IPC mechanism to facilitate communication with third-party applications like Sketchybar and supports hot-reloadable configurations.</p><p><img src="https://img.bgo.one/news-image/202510120714_Rift_macOS_Tiling_Window_Manager_Community_Discussion_1.jpg" /></p><hr/><small>21 Sep 2026, 23:26 UTC | #21902</small>]]></content>
+  </entry>
   <entry>
     <title>Carson Gross Proposes Markdown as Source Code for Agentic Coding</title>
     <link href="https://htmx.org/essays/markdown-in-src/" rel="alternate" />

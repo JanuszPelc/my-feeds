@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T17:05:00+00:00</updated>
+  <updated>2026-09-21T17:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>European Commission Proposes Energy and Water Efficiency Labels for Data Centers</title>
+    <link href="https://www.reuters.com/business/environment/eu-require-data-centres-disclose-energy-water-efficiency-2026-09-21/" rel="alternate" />
+    <id>https://www.reuters.com/business/environment/eu-require-data-centres-disclose-energy-water-efficiency-2026-09-21/::v239</id>
+    <published>2026-09-21T17:57:00+00:00</published>
+    <updated>2026-09-21T17:57:00+00:00</updated>
+    <media:thumbnail url="https://pat.ie/wp-content/uploads/2026/01/Data-Centre-Energy-Efficiency-Advice-Ireland-PAT-Group-800x480.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/environment/eu-require-data-centres-disclose-energy-water-efficiency-2026-09-21/">reuters.com</a> | <a href="https://energy.ec.europa.eu/topics/energy-efficiency/energy-efficiency-targets-directive-and-rules/energy-efficiency-directive/energy-performance-data-centres_en">source</a></small></p><hr/><p>The European Commission has proposed new regulations requiring data centers with a capacity of 500 kilowatts or more to disclose their energy and water efficiency. This mandate would utilize a standardized, EU-designed labeling system to increase transparency regarding the resource consumption of large-scale computing facilities.</p><p>The move is intended to address environmental concerns regarding the significant resource footprint of the rapidly expanding data center industry. The initiative aims to encourage more sustainable practices as the region manages the environmental impacts associated with growing digital infrastructure.</p><p><img src="https://pat.ie/wp-content/uploads/2026/01/Data-Centre-Energy-Efficiency-Advice-Ireland-PAT-Group-800x480.jpg" /></p><hr/><small>21 Sep 2026, 23:21 UTC | #21863</small>]]></content>
+  </entry>
   <entry>
     <title>Tabby Uses AI to Automate Bookkeeping for Small Businesses</title>
     <link href="https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/" rel="alternate" />
