@@ -3,9 +3,36 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T12:31:00+00:00</updated>
+  <updated>2026-09-21T12:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Fast Hash Functions Exhibit Significant Collision Weaknesses Under AI Analysis</title>
+    <link href="https://thomasahle.com/blog/adversarial-examples-for-hashes/" rel="alternate" />
+    <id>https://thomasahle.com/blog/adversarial-examples-for-hashes/::v239</id>
+    <published>2026-09-21T12:36:00+00:00</published>
+    <updated>2026-09-21T12:36:00+00:00</updated>
+    <media:thumbnail url="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220706102035/Collision-in-Hashing.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://thomasahle.com/blog/adversarial-examples-for-hashes/">thomasahle.com</a> | <a href="https://lobste.rs/s/lmmuu3/adversarial_examples_for_fast_hash">discussion</a> | <a href="https://news.ycombinator.com/item?id=49784402">hacker news</a></small></p><hr/><p>Many popular non-cryptographic hash functions, including xxHash and MurmurHash, are susceptible to adversarial inputs that trigger high collision rates. Using AI-driven analysis, researchers found that many of these hashes perform significantly worse—sometimes by as much as 20 bits—than their expected collision bounds when encountering specific data patterns.</p><p>The findings indicate that provably secure hashes, such as ChainHash, can match the performance of heuristic-based alternatives on modern hardware. This suggests that the traditional trade-off between execution speed and provable collision resistance may be unnecessary, particularly as AI makes it easier to exploit vulnerabilities in previously obscure implementations.</p><p><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220706102035/Collision-in-Hashing.png" /></p><hr/><small>21 Sep 2026, 16:22 UTC | #21856</small>]]></content>
+  </entry>
+  <entry>
+    <title>jev-leftpad Package Uses TypeSafe AI for String Padding</title>
+    <link href="https://github.com/f/jev-leftpad" rel="alternate" />
+    <id>https://github.com/f/jev-leftpad::v239</id>
+    <published>2026-09-21T12:35:00+00:00</published>
+    <updated>2026-09-21T12:35:00+00:00</updated>
+    <media:thumbnail url="https://www.ox.security/wp-content/uploads/2026/02/NPM-1.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/f/jev-leftpad">github.com</a> | <a href="https://news.ycombinator.com/item?id=49784706">hacker news</a></small></p><hr/><p>This Node.js package leverages TypeSafe AI's Jev model to perform string left-padding. Requiring a `TYPESAFE_API_KEY` and Node.js 20 or newer, the library uses the `@typesafe-ai/sdk` to execute model calls rather than utilizing native string methods.</p><p>Designed as a satirical alternative to the standard JavaScript `padStart()` function, the package is intentionally inefficient and limited to adding between 0 and 10 spaces. The documentation warns that the tool can be costly and prone to errors, advising against its use in any production environment.</p><p><img src="https://www.ox.security/wp-content/uploads/2026/02/NPM-1.jpeg" /></p><hr/><small>21 Sep 2026, 16:16 UTC | #21855</small>]]></content>
+  </entry>
+  <entry>
+    <title>iPhone 18 Pro and Pro Max Feature Variable Aperture and Screw-In Battery Trays</title>
+    <link href="https://www.ifixit.com/News/119329/inside-the-tiny-unfixable-eye-iphone-18-pro-and-pro-max-teardown" rel="alternate" />
+    <id>https://www.ifixit.com/News/119329/inside-the-tiny-unfixable-eye-iphone-18-pro-and-pro-max-teardown::v239</id>
+    <published>2026-09-21T12:34:00+00:00</published>
+    <updated>2026-09-21T12:34:00+00:00</updated>
+    <media:thumbnail url="https://valkyrie.cdn.ifixit.com/media/2026/09/20112936/iPhone-18-TD_78.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ifixit.com/News/119329/inside-the-tiny-unfixable-eye-iphone-18-pro-and-pro-max-teardown">ifixit.com</a> | <a href="https://news.ycombinator.com/item?id=49784931">hacker news</a></small></p><hr/><p>The iPhone 18 Pro and Pro Max introduce a mechanical variable aperture camera system using six magnetically actuated polymer blades. While the camera module is modular and relatively easy to access, the high precision of the mechanism makes individual component repairs nearly impossible, likely necessitating full assembly replacements. The devices also utilize a screw-in battery tray and electrically releasable adhesive, though they maintain a front-entry architecture that requires screen removal to access the battery.</p><p>Internally, the redesigned A20 Pro chip is positioned on the exterior of the logic board sandwich to improve thermal management via a new vapor chamber. During teardowns, the plastic display frames on several units cracked or pulled away from the assembly, complicating screen repairs. The variable aperture provides adjustable light intake from ƒ/1.48 to ƒ/4.0, though depth-of-field effects are constrained by the sensor's physical dimensions.</p><p><img src="https://valkyrie.cdn.ifixit.com/media/2026/09/20112936/iPhone-18-TD_78.jpg" /></p><hr/><small>21 Sep 2026, 16:12 UTC | #21799</small>]]></content>
+  </entry>
   <entry>
     <title>Marginalia Search Index Compression via Zigzag Delta Encoding and Byte-Plane Reshuffling</title>
     <link href="https://lobste.rs/s/fyngrv/what_are_you_doing_this_week" rel="alternate" />
