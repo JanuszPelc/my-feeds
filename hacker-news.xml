@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T10:34:00+00:00</updated>
+  <updated>2026-09-21T10:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple iPhone 18 Pro Camera Receives 172 DXOMARK Score</title>
+    <link href="https://www.dxomark.com/apple-iphone-18-pro-camera-test/" rel="alternate" />
+    <id>https://www.dxomark.com/apple-iphone-18-pro-camera-test/::v239</id>
+    <published>2026-09-21T10:40:00+00:00</published>
+    <updated>2026-09-21T10:40:00+00:00</updated>
+    <media:thumbnail url="https://www.dxomark.com/wp-content/uploads/medias/post-194000/iPhone-18-Pro-Max.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.dxomark.com/apple-iphone-18-pro-camera-test/">dxomark.com</a> | <a href="https://news.ycombinator.com/item?id=49771218">hacker news</a></small></p><hr/><p>DXOMARK's camera evaluation of the Apple iPhone 18 Pro resulted in an overall score of 172, placing it second to the Huawei Pura 80 Ultra. The assessment highlights the device's 48 MP primary sensor with variable aperture, excellent video stabilization, and strong performance in low-light and high-dynamic-range scenarios.</p><p>Limitations identified include lower detail in long-range telephoto shots and occasional white balance inaccuracies. While the portrait mode delivers natural skin tones and bokeh, the device's long-distance zoom and fine subject segmentation performance trail some of its flagship competitors.</p><p><img src="https://www.dxomark.com/wp-content/uploads/medias/post-194000/iPhone-18-Pro-Max.png" /></p><hr/><small>21 Sep 2026, 12:42 UTC | #21820</small>]]></content>
+  </entry>
   <entry>
     <title>ZuckOff App Detects Camera Glasses via Bluetooth</title>
     <link href="https://zuckoff.app/" rel="alternate" />

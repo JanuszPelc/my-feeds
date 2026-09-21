@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T10:37:00+00:00</updated>
+  <updated>2026-09-21T10:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>White House and Anthropic Dispute Over AI Model Export Controls</title>
+    <link href="https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212" rel="alternate" />
+    <id>https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212::v239</id>
+    <published>2026-09-21T10:39:00+00:00</published>
+    <updated>2026-09-21T10:39:00+00:00</updated>
+    <media:thumbnail url="https://thesheffieldpress.com/uploads/white-house-anthropic-discuss-ai-policy-as-trump-expresses-u-8c6868-og.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212">politico.com</a> | <a href="https://news.ycombinator.com/item?id=49782916">hacker news</a></small></p><hr/><p>The U.S. Commerce Department engaged in a 19-day standoff with Anthropic in June 2026, ordering the company to disable its Fable 5 and Mythos 5 AI models. Secretary Howard Lutnick issued the directive citing national security concerns that the models—particularly Fable 5 due to its advanced cybersecurity capabilities—could be utilized by foreign military intelligence in countries such as China and Russia.</p><p>Anthropic disabled both models for all users after finding it impossible to implement the government's requested selective access. The standoff ended in late June 2026 when the administration partially restored Mythos 5 for vetted U.S. critical infrastructure, followed by a total withdrawal of export controls on June 30 after Anthropic met government-mandated commitments.</p><p><img src="https://thesheffieldpress.com/uploads/white-house-anthropic-discuss-ai-policy-as-trump-expresses-u-8c6868-og.webp" /></p><hr/><small>21 Sep 2026, 12:39 UTC | #21784</small>]]></content>
+  </entry>
   <entry>
     <title>US DoD to Order 60,000 Drones from Nine Startups Prohibiting Chinese Parts</title>
     <link href="https://www.theinformation.com/articles/drone-startups-backed-eric-schmidt-trump-family-win-pentagons-latest-competition" rel="alternate" />
