@@ -159,22 +159,4 @@
     <media:thumbnail url="https://frvr.com/wp-content/uploads/2026/09/ps5-linux-lead-leavs.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/">frvr.com</a> | <a href="https://x.com/theflow0/status/2099987019954831744">source</a> | <a href="https://news.ycombinator.com/item?id=49727627">hacker news</a></small></p><hr/><p>Developer and hacker Andy 'TheFlow0' Nguyen has announced his departure from the PlayStation 5 modding scene and the end of his work on the PS5 Linux project. Nguyen cited the rise of "vibe-coders"—individuals using large language models to submit code they do not understand—as a primary reason for leaving the open-source community.</p><p>The developer had previously planned to expand support to the PS5 Pro by 2027. The decision follows an incident in which AI-assisted users identified and reported a critical hypervisor bug to Sony for a bounty, a move that Nguyen argues compromises the future of console modification and the security of the modding community.</p><p><img src="https://frvr.com/wp-content/uploads/2026/09/ps5-linux-lead-leavs.jpg" /></p><hr/><small>16 Sep 2026, 18:32 UTC | #21355</small>]]></content>
   </entry>
-  <entry>
-    <title>Ink &amp; Switch Introduces Playbook Programmable Notebook</title>
-    <link href="https://www.youtube.com/watch?v=GurWDZ8ENpA" rel="alternate" />
-    <id>https://www.youtube.com/watch?v=GurWDZ8ENpA::v239</id>
-    <published>2026-09-16T10:30:00+00:00</published>
-    <updated>2026-09-16T10:30:00+00:00</updated>
-    <media:thumbnail url="https://m.media-amazon.com/images/I/61vIjEDUt1L._AC_SL1000_.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=GurWDZ8ENpA">youtube.com</a> | <a href="https://lobste.rs/s/6gro0u/playbook_programmable_paper_notebook">discussion</a></small></p><hr/><p>Ink &amp; Switch has unveiled Playbook, a project within its programmable ink track designed to create a digital notebook that combines the feel of paper with software dynamism. The system uses "material physics" and gestural inputs, allowing users to program and manipulate digital ink directly through touch and pen interactions rather than traditional text-based coding.</p><p>Designed to support the early stages of the creative process, Playbook prioritizes a "blank page" experience by replacing traditional UI menus with transient, gesture-based controls. The interface aims to avoid the high latency and ambiguity of AI-driven tools, focusing instead on immediate, tactile feedback that mimics the spontaneity of physical paper.</p><p><img src="https://m.media-amazon.com/images/I/61vIjEDUt1L._AC_SL1000_.jpg" /></p><hr/><small>16 Sep 2026, 16:11 UTC | #21330</small>]]></content>
-  </entry>
-  <entry>
-    <title>Veloren Technical Implementation: ECS, Voxel Storage, and Procedural Generation</title>
-    <link href="https://blog.jsbarretto.com/post/veloren" rel="alternate" />
-    <id>https://blog.jsbarretto.com/post/veloren::v239</id>
-    <published>2026-09-16T10:28:00+00:00</published>
-    <updated>2026-09-16T10:28:00+00:00</updated>
-    <media:thumbnail url="https://blog.jsbarretto.com/img/veloren6.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.jsbarretto.com/post/veloren">blog.jsbarretto.com</a> | <a href="https://lobste.rs/s/zutlqt/some_things_veloren_does_differently">discussion</a> | <a href="https://news.ycombinator.com/item?id=49719699">hacker news</a></small></p><hr/><p>The architecture utilizes an Entity Component System (ECS) to facilitate high-concurrency multiplayer environments and a custom "chonks" data structure to optimize voxel storage and random access. World generation is driven by physically-based hydraulic erosion and low-resolution pre-generation, allowing for features such as continuous river systems and extended view distances.</p><p>A real-time simulation system (RTSim) enables the engine to track NPC movement, faction dynamics, and economic shifts even when players are not in the vicinity. The engine also employs a unified controller system that ensures players and NPCs interact with the physics engine using identical movement logic.</p><p><img src="https://blog.jsbarretto.com/img/veloren6.webp" /></p><hr/><small>16 Sep 2026, 16:02 UTC | #21328</small>]]></content>
-  </entry>
 </feed>
