@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-20T18:41:00+00:00</updated>
+  <updated>2026-09-21T01:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Never Found Releases MG-Mini Free MIDI Grabber</title>
+    <link href="https://www.kvraudio.com/news/never-found-releases-mg-mini---free-midi-grabber-for-windows-vst3-68659?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68659" rel="alternate" />
+    <id>https://www.kvraudio.com/news/never-found-releases-mg-mini---free-midi-grabber-for-windows-vst3-68659?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68659::v239</id>
+    <published>2026-09-21T01:03:00+00:00</published>
+    <updated>2026-09-21T01:03:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/mg-mini-screenshot-stack.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/never-found-releases-mg-mini---free-midi-grabber-for-windows-vst3-68659?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68659">kvraudio.com</a> | <a href="https://neverfoundaudio.com/mg-mini">source</a></small></p><hr/><p>Never Found has released MG-Mini, a free MIDI grabber for Windows available as a VST3 plugin or standalone application. The tool converts live audio playback or uploaded audio files into MIDI notes that can be dragged directly onto a DAW timeline.</p><p>The plugin features two detection modes: Single Line for monophonic audio and Full Stack for polyphonic chords. MG-Mini is permanently free for Never Found newsletter subscribers and requires no internet connection or activation to operate.</p><p><img src="https://static.kvraudio.com/i/b/mg-mini-screenshot-stack.png" /></p><hr/><small>21 Sep 2026, 08:43 UTC | #21796</small>]]></content>
+  </entry>
   <entry>
     <title>Pfundstein Audio Plugins Releases Tiefkraft Virtual Bass Guitar Collection</title>
     <link href="https://www.kvraudio.com/news/pfundstein-audio-plugins-releases-tiefkraft-a-virtual-bass-guitar-collection-68656?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68656" rel="alternate" />
