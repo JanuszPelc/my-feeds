@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-20T23:16:00+00:00</updated>
+  <updated>2026-09-21T01:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Proposes AI Incident Notification Mechanism to China</title>
+    <link href="https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32" rel="alternate" />
+    <id>https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32::v239</id>
+    <published>2026-09-21T01:46:00+00:00</published>
+    <updated>2026-09-21T01:46:00+00:00</updated>
+    <media:thumbnail url="https://asiatimes.com/wp-content/uploads/2025/11/US-China-AI.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32">ft.com</a></small></p><hr/><p>US Treasury Secretary Scott Bessent has proposed an artificial intelligence incident notification mechanism to China to address potential national security concerns. The proposal was made during meetings in New York between Bessent and Chinese Vice Premier He Lifeng.</p><p>Both sides have also agreed to establish an AI dialogue. This agreement is intended to facilitate communication ahead of a planned summit between President Donald Trump and President Xi Jinping.</p><p><img src="https://asiatimes.com/wp-content/uploads/2025/11/US-China-AI.jpg" /></p><hr/><small>21 Sep 2026, 08:58 UTC | #21777</small>]]></content>
+  </entry>
   <entry>
     <title>China's AI Rollout Faces Social and Political Friction</title>
     <link href="https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/?gift=NBdGSmKfDQzLc1B6N1F-gTsc0qnBczYFJgiJgeRC__c&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share" rel="alternate" />

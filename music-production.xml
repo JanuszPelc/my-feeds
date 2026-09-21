@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-21T01:03:00+00:00</updated>
+  <updated>2026-09-21T01:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Pinzu Releases SORYNO Clip VST3 Clipper</title>
+    <link href="https://www.kvraudio.com/news/pinzu-releases-soryno-clip---free-clipper-plug-in-for-windows-vst3-68663?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68663" rel="alternate" />
+    <id>https://www.kvraudio.com/news/pinzu-releases-soryno-clip---free-clipper-plug-in-for-windows-vst3-68663?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68663::v239</id>
+    <published>2026-09-21T01:50:00+00:00</published>
+    <updated>2026-09-21T01:50:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/soryno-clip.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/pinzu-releases-soryno-clip---free-clipper-plug-in-for-windows-vst3-68663?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68663">kvraudio.com</a> | <a href="https://pinzu.tech/audio/products/clip/">source</a></small></p><hr/><p>SORYNO Clip is a free VST3 clipper plug-in for Windows that uses a waveform view and dynamic transfer curve to visually track removed signal components. The interface illustrates the exact portions of the audio being clipped as the drive level is raised.</p><p>The plugin offers drive control up to +24 dB, adjustable ceiling levels, and three shaping modes: Hard, Soft, and Round. It also includes an auto-gain function for loudness consistency, parallel clipping via a mix control, and up to 2x oversampling to manage overshoot.</p><p><img src="https://static.kvraudio.com/i/b/soryno-clip.png" /></p><hr/><small>21 Sep 2026, 09:02 UTC | #21797</small>]]></content>
+  </entry>
   <entry>
     <title>Never Found Releases MG-Mini Free MIDI Grabber</title>
     <link href="https://www.kvraudio.com/news/never-found-releases-mg-mini---free-midi-grabber-for-windows-vst3-68659?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68659" rel="alternate" />
