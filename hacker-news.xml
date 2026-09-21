@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-20T18:33:00+00:00</updated>
+  <updated>2026-09-20T19:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Notion Implements CRDTs for Conflict-Free Collaborative Editing</title>
+    <link href="https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts" rel="alternate" />
+    <id>https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts::v239</id>
+    <published>2026-09-20T19:00:00+00:00</published>
+    <updated>2026-09-20T19:00:00+00:00</updated>
+    <media:thumbnail url="https://media2.dev.to/dynamic/image/width=800,height=,fit=scale-down,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fmp1mg52quc3abz4kqsb.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts">notion.com</a> | <a href="https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing">discussion</a> | <a href="https://news.ycombinator.com/item?id=49764987">hacker news</a></small></p><hr/><p>Notion has implemented a system based on Conflict-free Replicated Data Types (CRDTs) to manage concurrent editing within its block-based document model. Moving away from a "last write wins" approach, the architecture uses a Replicated Growable Array (RGA) structure to ensure that simultaneous edits from multiple users are merged deterministically without losing data.</p><p>The implementation supports rich text formatting by applying the Peritext algorithm for annotations such as bolding and hyperlinking. To maintain consistency when users split or move text across different blocks, Notion utilizes a hierarchical system of text slices, text instances, and search labels, allowing the system to locate and apply updates to the correct target fragments even as the document structure changes.</p><p><img src="https://media2.dev.to/dynamic/image/width=800,height=,fit=scale-down,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fmp1mg52quc3abz4kqsb.png" /></p><hr/><small>21 Sep 2026, 00:38 UTC | #21772</small>]]></content>
+  </entry>
   <entry>
     <title>Vocci Launches AI-Powered Note-Taking Ring</title>
     <link href="https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/" rel="alternate" />
@@ -909,23 +918,5 @@
     <updated>2026-09-16T02:17:00+00:00</updated>
     <media:thumbnail url="https://raw.githubusercontent.com/chartgpu/chartgpu/main/docs/assets/chart-gpu-demo.gif" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://dbtcharts.com/blog/charts-built-for-chat/">dbtcharts.com</a> | <a href="https://news.ycombinator.com/item?id=49704246">hacker news</a></small></p><hr/><p>dbt Labs has open-sourced dbt Charts, a declarative YAML language for defining interactive dashboards. The tool is optimized for AI-driven analytics, enabling agents to generate auditable, code-based visualizations that are stored in Git repositories, providing a governed alternative to both manual coding and rigid BI user interfaces.</p><p>The release includes a command-line interface for rendering charts to various formats like SVG and HTML, alongside a hosted platform in public beta for conversational analytics. By integrating directly with dbt, the system allows dashboard definitions to be version-controlled and validated through CI/CD alongside data transformations and models.</p><p><img src="https://raw.githubusercontent.com/chartgpu/chartgpu/main/docs/assets/chart-gpu-demo.gif" /></p><hr/><small>16 Sep 2026, 09:38 UTC | #21150</small>]]></content>
-  </entry>
-  <entry>
-    <title>OpenGL ES 3.0 Driver Developed for Apple M4 GPU</title>
-    <link href="https://codyho.dev/blog/gpu-driver/" rel="alternate" />
-    <id>https://codyho.dev/blog/gpu-driver/::v239</id>
-    <published>2026-09-16T00:27:00+00:00</published>
-    <updated>2026-09-16T00:27:00+00:00</updated>
-    <media:thumbnail url="https://ir.ozone.ru/s3/multimedia-1-x/9033689985.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://codyho.dev/blog/gpu-driver/">codyho.dev</a> | <a href="https://news.ycombinator.com/item?id=49717638">hacker news</a></small></p><hr/><p>Developers Cody Ho and Niklas Sheth have produced a functional OpenGL ES 3.0 compliant GPU driver for the Apple M4 Mac Mini and MacBook Neo. The project involved reverse engineering the AGX firmware ABI and user-space components in a clean-room manner using a custom hypervisor to capture hardware traces.</p><p>The development workflow leveraged LLM coding agents to deconstruct hardware traces and implement complex kernel and user-space logic. The driver enables high-performance rendering, such as running Minecraft at over 200 FPS, and establishes a foundation for future Vulkan support.</p><p><img src="https://ir.ozone.ru/s3/multimedia-1-x/9033689985.jpg" /></p><hr/><small>16 Sep 2026, 07:07 UTC | #21268</small>]]></content>
-  </entry>
-  <entry>
-    <title>Meta Plans Fall Release of Camera-Free Smart Glasses</title>
-    <link href="https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns" rel="alternate" />
-    <id>https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns::v239</id>
-    <published>2026-09-16T00:23:00+00:00</published>
-    <updated>2026-09-16T00:23:00+00:00</updated>
-    <media:thumbnail url="https://the-gadgeteer.com/wp-content/uploads/2026/04/Even-Realities-G2-Smart-Glasses-800x600.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/meta-launch-camera-free-smart-glasses-amid-mounting-privacy-concerns">theinformation.com</a></small></p><hr/><p>Meta Platforms plans to release a camera-free pair of smart glasses, internally codenamed "Luna," this fall. The device is expected to feature six microphones to allow users to communicate with Meta's AI chatbot and Muse via voice.</p><p>The move toward camera-free hardware follows increasing privacy concerns regarding the recording capabilities of existing smart glasses. The new model is intended to appeal to privacy-conscious consumers and bystanders.</p><p><img src="https://the-gadgeteer.com/wp-content/uploads/2026/04/Even-Realities-G2-Smart-Glasses-800x600.png" /></p><hr/><small>16 Sep 2026, 05:53 UTC | #21245</small>]]></content>
   </entry>
 </feed>
