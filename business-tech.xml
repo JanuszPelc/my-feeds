@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-20T18:58:00+00:00</updated>
+  <updated>2026-09-20T22:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI and Anthropic Expansion Pressures Singapore Office Rents</title>
+    <link href="https://www.ft.com/content/775888b2-47e6-42b4-8146-cfb9caee52d6" rel="alternate" />
+    <id>https://www.ft.com/content/775888b2-47e6-42b4-8146-cfb9caee52d6::v239</id>
+    <published>2026-09-20T22:15:00+00:00</published>
+    <updated>2026-09-20T22:15:00+00:00</updated>
+    <media:thumbnail url="https://mtg.1cdn.vn/2026/05/20/openai-chon-singapore-mo-phong-thi-nghiem-ai-ung-dung-dau-tien-ngoai-my.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/775888b2-47e6-42b4-8146-cfb9caee52d6">ft.com</a></small></p><hr/><p>OpenAI and Anthropic are expanding their presence in Singapore following government initiatives, driving demand for prime commercial real estate. This surge in high-profile tenants is placing upward pressure on office rents in the city's already tightened property market.</p><p>The expansion coincides with Singapore's efforts to establish itself as a leading regional hub for artificial intelligence. The influx of tech giants is targeting high-demand areas, contributing to supply constraints in the prime office sector.</p><p><img src="https://mtg.1cdn.vn/2026/05/20/openai-chon-singapore-mo-phong-thi-nghiem-ai-ung-dung-dau-tien-ngoai-my.jpg" /></p><hr/><small>21 Sep 2026, 01:17 UTC | #21754</small>]]></content>
+  </entry>
   <entry>
     <title>Data Center Maintenance and Installation Roles Offer 42% Pay Premium in US</title>
     <link href="https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003?st=UKxXYi" rel="alternate" />
@@ -995,14 +1004,5 @@
     <updated>2026-09-16T02:56:00+00:00</updated>
     <media:thumbnail url="https://blog.st.com/wp-content/uploads/2026/03/stm32cube-ai-studio-hero-1536x864.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nbcnews.com/tech/security/cybersecurity-experts-say-ai-giants-shutting-safety-plans-rcna597704">nbcnews.com</a></small></p><hr/><p>Cybersecurity experts are warning that major AI developers are failing to integrate fundamental security practices into their safety frameworks. Although industry leaders like OpenAI and Anthropic have advocated for slowing the pace of AI development to mitigate risks, experts argue that the planning for preventing large-scale cyberattacks lacks meaningful involvement from cybersecurity professionals.</p><p>This friction occurs as prominent figures such as Sam Altman and Dario Amodei call for increased oversight and the use of independent evaluators to monitor model capabilities. Specialists warn that without the deep integration of defensive security strategies, the potential for automated hacking campaigns or rogue AI agents remains an unaddressed risk.</p><p><img src="https://blog.st.com/wp-content/uploads/2026/03/stm32cube-ai-studio-hero-1536x864.jpg" /></p><hr/><small>16 Sep 2026, 10:04 UTC | #21255</small>]]></content>
-  </entry>
-  <entry>
-    <title>US Datacenter Moratoriums Cause Minimal Delay to Total Buildout</title>
-    <link href="https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums" rel="alternate" />
-    <id>https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums::v239</id>
-    <published>2026-09-16T01:21:00+00:00</published>
-    <updated>2026-09-16T01:21:00+00:00</updated>
-    <media:thumbnail url="https://s3.amazonaws.com/multistate.us/production/articles/aNBWmEi7l44NqWULA/body/upload-810624.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums">newsletter.semianalysis.com</a></small></p><hr/><p>US datacenter moratoriums are having a significantly smaller impact on construction capacity than common narratives suggest. While over 300 local and state-level restrictions currently exist, they account for an estimated delay of only 2.3 GW of planned capacity. Most moratoriums fail to stall development due to jurisdictional gaps—such as county orders not reaching incorporated cities—and the fact that many restrictions only freeze new applications rather than revoking existing permits.</p><p>The buildout is expected to continue growing, with US datacenter IT capacity forecasted to reach +38GW in 2027. To circumvent grid-related restrictions, many developers are increasingly turning to behind-the-meter power solutions. Current projections suggest that while political opposition to land and water use is rising, most capacity exposed to moratoriums is already under construction or fully permitted.</p><p><img src="https://s3.amazonaws.com/multistate.us/production/articles/aNBWmEi7l44NqWULA/body/upload-810624.png" /></p><hr/><small>16 Sep 2026, 08:28 UTC | #21253</small>]]></content>
   </entry>
 </feed>
