@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T16:22:00+00:00</updated>
+  <updated>2026-09-21T16:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Scott Bessent Blames OpenAI Management for Hugging Face Hacking Incident</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame::v239</id>
+    <published>2026-09-21T16:34:00+00:00</published>
+    <updated>2026-09-21T16:34:00+00:00</updated>
+    <media:thumbnail url="https://www.iflair.com/wp-content/uploads/2025/10/Integrating-AI-APIsOpenAI-Hugging-Faceinto-Next.js-1.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame">bloomberg.com</a></small></p><hr/><p>US Treasury Secretary Scott Bessent stated that responsibility for the recent hacking incident involving OpenAI's advanced AI models lies with the company's management rather than its agents. The security event involved a breach related to OpenAI's presence on the Hugging Face platform.</p><p>Bessent did not suggest any specific regulatory or legal consequences in connection with the incident. The remarks highlight ongoing debates regarding the governance of AI developers and the security protocols governing autonomous agents.</p><p><img src="https://www.iflair.com/wp-content/uploads/2025/10/Integrating-AI-APIsOpenAI-Hugging-Faceinto-Next.js-1.webp" /></p><hr/><small>21 Sep 2026, 21:11 UTC | #21839</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta Grants Prospect Union Access to UK Employees</title>
+    <link href="https://www.ft.com/content/f9ddd64e-1656-4a15-a67a-f68087cefa79" rel="alternate" />
+    <id>https://www.ft.com/content/f9ddd64e-1656-4a15-a67a-f68087cefa79::v239</id>
+    <published>2026-09-21T16:31:00+00:00</published>
+    <updated>2026-09-21T16:31:00+00:00</updated>
+    <media:thumbnail url="https://www.pdffiller.com/preview/787/748/787748284/large.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/f9ddd64e-1656-4a15-a67a-f68087cefa79">ft.com</a> | <a href="https://prospect.org.uk/prospect-at-meta/">source</a></small></p><hr/><p>Meta has entered into a voluntary access agreement with the Prospect trade union, granting the union direct access to recruit the company's 5,000 employees in the United Kingdom. The agreement enables union representatives to communicate with staff through both face-to-face interactions and digital channels to discuss the benefits of membership.</p><p>The move comes ahead of the implementation of new UK employment laws expected next month, which are anticipated to increase worker representation across the technology sector. This marks the first time Meta has granted such direct access to a trade union within its UK operations.</p><p><img src="https://www.pdffiller.com/preview/787/748/787748284/large.png" /></p><hr/><small>21 Sep 2026, 21:03 UTC | #21835</small>]]></content>
+  </entry>
   <entry>
     <title>Benchmark General Partners to Speak at TechCrunch Disrupt 2026</title>
     <link href="https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/" rel="alternate" />
