@@ -847,49 +847,4 @@
     <media:thumbnail url="https://devstreetblog.dev/wp-content/uploads/2025/10/two-person-got-log-masked.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.manganin.dev/blog/reinventing-issue-tracking/">blog.manganin.dev</a> | <a href="https://lobste.rs/s/4tb4nk/reinventing_issue_tracking_local_first">discussion</a></small></p><hr/><p>Manganin's issue tracking system uses a separate "sister repo" to store data in a Git-native, local-first format. This design avoids the complexities of SQL databases and the ergonomic issues of Git's internal ref system by storing issues as transparent files accessible via the command line.</p><p>This architecture allows for easy management of issue churn and avoids the need for frequent rebasing in the main repository. Furthermore, the issue data can be cloned independently, ensuring that users do not need to download tracking information when only the source code is required.</p><p><img src="https://devstreetblog.dev/wp-content/uploads/2025/10/two-person-got-log-masked.png" /></p><hr/><small>16 Sep 2026, 17:13 UTC | #21343</small>]]></content>
   </entry>
-  <entry>
-    <title>Trail of Bits Challenges 1Password's AI Patching Benchmark</title>
-    <link href="https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/" rel="alternate" />
-    <id>https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/::v239</id>
-    <published>2026-09-16T10:45:00+00:00</published>
-    <updated>2026-09-16T10:45:00+00:00</updated>
-    <media:thumbnail url="https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/1password-image1_hu_34d317e989dba7a7.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/">blog.trailofbits.com</a> | <a href="https://lobste.rs/s/qx8dxe/1password_s_ai_patching_benchmark_is">discussion</a> | <a href="https://news.ycombinator.com/item?id=49711157">hacker news</a></small></p><hr/><p>1Password's reported 26% success rate for AI-generated vulnerability patches is skewed by flawed experimental methodology, according to an analysis by Trail of Bits. The critique identifies several biases, including the selection of complex vulnerabilities, the use of prompts instructing agents to apply incorrect fixes, and the omission of testing in over a third of the trials. Re-analysis of the original data suggests that when agents are permitted to test their work and are given correct instructions, the success rate for blocking exploits reaches 86%.</p><p>To improve agent-assisted security workflows, Trail of Bits is releasing two new agent skills: post-patch-validation for automated fix verification and review-walkthrough to aid human engineers in code reviews. The firm's comparative data also shows that human developers fail to fully resolve a vulnerability in approximately 12.5% of their initial attempts during security assessments.</p><p><img src="https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/1password-image1_hu_34d317e989dba7a7.webp" /></p><hr/><small>16 Sep 2026, 17:09 UTC | #21342</small>]]></content>
-  </entry>
-  <entry>
-    <title>Xteink X3 Display Artifacts Diagnosed and Fixed Using AI</title>
-    <link href="https://www.serpentine.com/posts/2026/x3-stripes/" rel="alternate" />
-    <id>https://www.serpentine.com/posts/2026/x3-stripes/::v239</id>
-    <published>2026-09-16T10:37:00+00:00</published>
-    <updated>2026-09-16T10:37:00+00:00</updated>
-    <media:thumbnail url="https://www.xteink.com/cdn/shop/files/683681775225043_.pic_hd.jpg?v=1775225136&amp;width=3840" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.serpentine.com/posts/2026/x3-stripes/">serpentine.com</a> | <a href="https://lobste.rs/s/w6aktj/how_my_e_reader_lost_its_stripes">discussion</a> | <a href="https://news.ycombinator.com/item?id=49699489">hacker news</a></small></p><hr/><p>Vertical stripes and grayscale errors on the Xteink X3 e-reader stem from bugs in the CrossPoint firmware and the Free-Ink SDK. An investigation using AI agents determined that the device's "nudge" waveform was not executing correctly, preventing the rendering of dark grey and causing visual artifacts.</p><p>The implementation of the XTH4 grayscale waveform, which uses a longer pulse sequence to produce four distinct shades, resolved the issue. This change eliminated the stripe patterns and restored text anti-aliasing by enabling the proper display of dark grey.</p><p><img src="https://www.xteink.com/cdn/shop/files/683681775225043_.pic_hd.jpg?v=1775225136&width=3840" /></p><hr/><small>16 Sep 2026, 16:43 UTC | #21337</small>]]></content>
-  </entry>
-  <entry>
-    <title>Analysis of LLM-Generated Code in F-Droid App Repositories</title>
-    <link href="https://tintotint.eu/whacky-corner/f-droid_slop/" rel="alternate" />
-    <id>https://tintotint.eu/whacky-corner/f-droid_slop/::v239</id>
-    <published>2026-09-16T10:36:00+00:00</published>
-    <updated>2026-09-16T10:36:00+00:00</updated>
-    <media:thumbnail url="https://www.microsoft.com/en-us/research/uploads/prod/2023/03/llm-augmenter-diagram-1536x1082.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://tintotint.eu/whacky-corner/f-droid_slop/">tintotint.eu</a> | <a href="https://lobste.rs/s/acwuxy/how_much_f_droid_is_llm_generated">discussion</a> | <a href="https://news.ycombinator.com/item?id=49710015">hacker news</a></small></p><hr/><p>An investigation into the prevalence of LLM-generated code, or "vibe-coding," within the F-Droid repository. The analysis evaluates 102 app updates from September 2026 using a three-tier system based on commit patterns, repository metadata, and the presence of agentic development tools.</p><p>Multiple applications are identified as "Mostly AI" due to indicators such as AI-authored commits and the use of automated development agents. The proliferation of these applications raises concerns regarding software quality and the long-term implications for human-centric open-source development.</p><p><img src="https://www.microsoft.com/en-us/research/uploads/prod/2023/03/llm-augmenter-diagram-1536x1082.png" /></p><hr/><small>16 Sep 2026, 16:37 UTC | #21336</small>]]></content>
-  </entry>
-  <entry>
-    <title>WebKit Opposes APIs to Trigger Web App Installation</title>
-    <link href="https://adactio.com/journal/22757" rel="alternate" />
-    <id>https://adactio.com/journal/22757::v239</id>
-    <published>2026-09-16T10:35:00+00:00</published>
-    <updated>2026-09-16T10:35:00+00:00</updated>
-    <media:thumbnail url="https://www.simicart.com/blog/wp-content/uploads/pwa-install-1.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://adactio.com/journal/22757">adactio.com</a> | <a href="https://lobste.rs/s/pgzlof/stalling_installing">discussion</a></small></p><hr/><p>WebKit is resisting the implementation of APIs that would allow web developers to trigger the installation flow for web apps. During a recent W3C Technical Architecture Group meeting, the organization argued that installation decisions should remain solely within the browser's control and expressed skepticism regarding user demand for such functionality.</p><p>The dispute highlights a fundamental disagreement over whether web app installation should be a browser-driven process or a developer-initiated user action. Proponents argue that a standardized API would resolve current usability hurdles and help web apps compete more effectively with native applications by providing a more visible and intuitive installation path.</p><p><img src="https://www.simicart.com/blog/wp-content/uploads/pwa-install-1.png" /></p><hr/><small>16 Sep 2026, 16:32 UTC | #21335</small>]]></content>
-  </entry>
-  <entry>
-    <title>.NET 11 Performance Improvements</title>
-    <link href="https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/" rel="alternate" />
-    <id>https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/::v239</id>
-    <published>2026-09-16T10:34:00+00:00</published>
-    <updated>2026-09-16T10:34:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D22AQHdUwEO8FIzSA/feedshare-shrink_1280/B4DZxnn8MlIoAc-/0/1771265049633?e=2147483647&amp;v=beta&amp;t=Wr-ndupHF8sGCBnbVlTsgLxzf90OzLBS8CDzcPxFyS0" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/">devblogs.microsoft.com</a> | <a href="https://lobste.rs/s/udwhz2/performance_improvements_net_11">discussion</a> | <a href="https://news.ycombinator.com/item?id=49711424">hacker news</a></small></p><hr/><p>.NET 11 introduces performance optimizations across the runtime and libraries to reduce execution overhead and memory allocations. Key updates include enhanced Just-In-Time (JIT) compilation via guarded devirtualization and expanded escape analysis for more efficient stack allocation.</p><p>Micro-benchmarks using BenchmarkDotNet demonstrate gains in instruction fusion, syscall reduction, and SIMD-accelerated array copies. The runtime utilizes Profile-Guided Optimization (PGO) and "guess and verify" patterns to optimize common execution paths while maintaining correctness during virtual call dispatch.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D22AQHdUwEO8FIzSA/feedshare-shrink_1280/B4DZxnn8MlIoAc-/0/1771265049633?e=2147483647&v=beta&t=Wr-ndupHF8sGCBnbVlTsgLxzf90OzLBS8CDzcPxFyS0" /></p><hr/><small>16 Sep 2026, 16:28 UTC | #21334</small>]]></content>
-  </entry>
 </feed>
