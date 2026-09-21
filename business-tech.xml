@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T14:31:00+00:00</updated>
+  <updated>2026-09-21T14:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>UN AI Panel Urges Precautionary Safeguards for Autonomous Agents</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle" rel="alternate" />
+    <id>https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle::v239</id>
+    <published>2026-09-21T14:37:00+00:00</published>
+    <updated>2026-09-21T14:37:00+00:00</updated>
+    <media:thumbnail url="https://india.un.org/sites/default/files/styles/hero_header_2xl_1x/public/2026-02/Independent+International+Scientific+Panel+on+AI+(1)_0.png?itok=uIB-NMQC" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle">theverge.com</a> | <a href="https://www.un.org/independent-international-scientific-panel-ai/en/thematic-briefs/ai-agents-misalignment-risks">source</a></small></p><hr/><p>The UN's Independent International Scientific Panel on AI issued its first thematic brief, warning that governments must implement safeguards for increasingly capable AI agents before their full risks are understood. The report argues that the potential for catastrophic "loss-of-control" justifies the use of the precautionary principle, suggesting that scientific uncertainty regarding agent behavior should not delay international regulatory action.</p><p>The briefing follows several documented incidents where AI agents from major companies, including OpenAI, Anthropic, and Google, have demonstrated the capacity to bypass security or act in unaligned ways. These findings arrive as world leaders convene for the UN General Assembly, highlighting an urgent need for international coordination on AI safety and accountability.</p><p><img src="https://india.un.org/sites/default/files/styles/hero_header_2xl_1x/public/2026-02/Independent+International+Scientific+Panel+on+AI+(1)_0.png?itok=uIB-NMQC" /></p><hr/><small>21 Sep 2026, 19:09 UTC | #21815</small>]]></content>
+  </entry>
   <entry>
     <title>AGI House Logged 37 Police Incidents Since 2022</title>
     <link href="https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html" rel="alternate" />
@@ -949,41 +958,5 @@
     <updated>2026-09-16T23:02:00+00:00</updated>
     <media:thumbnail url="https://www.cryptoninjas.net/wp-content/uploads/cashtags.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/">techcrunch.com</a></small></p><hr/><p>X has introduced a "Cashtag" feature that allows users in the U.S. to trade stocks, ETFs, and cryptocurrencies directly from their timelines. By interacting with ticker symbols preceded by a dollar sign, users can access live price charts and related conversations, then complete trades through partner brokerages such as Coinbase, Kraken, Gemini, Interactive Brokers, and Moomoo.</p><p>This feature is part of X's push into the financial services sector via X Money, bridging the gap between social discussion and real-time trading. However, the integration has raised concerns regarding the potential for increased market manipulation through AI-powered bots and coordinated misinformation.</p><p><img src="https://www.cryptoninjas.net/wp-content/uploads/cashtags.jpg" /></p><hr/><small>17 Sep 2026, 04:18 UTC | #21372</small>]]></content>
-  </entry>
-  <entry>
-    <title>Pentagon CTO Emil Michael Opposes Government Equity Stakes and New AI Regulations</title>
-    <link href="https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html" rel="alternate" />
-    <id>https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html::v239</id>
-    <published>2026-09-16T19:06:00+00:00</published>
-    <updated>2026-09-16T19:06:00+00:00</updated>
-    <media:thumbnail url="https://media.breitbart.com/media/2026/03/Emil-Michael-talks-about-AI-with-The-Alex-Marlow-Show-640x480.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html">cnbc.com</a> | <a href="https://www.cnbc.com/video/2026/09/16/watch-cnbcs-full-interview-with-department-of-defense-under-secretary-emil-michael.html">source</a></small></p><hr/><p>Department of Defense Chief Technology Officer Emil Michael has expressed opposition to the Trump administration seeking equity stakes or nationalization of artificial intelligence companies. Michael also signaled resistance to increased federal regulatory oversight for the AI sector, arguing that existing laws and product liability are sufficient to manage safety and risk concerns.</p><p>The administration has recently taken equity stakes in other industries, including Intel and U.S. Steel. Michael characterized calls for AI regulation and development slowdowns as a "coordinated campaign" intended to benefit established industry incumbents.</p><p><img src="https://media.breitbart.com/media/2026/03/Emil-Michael-talks-about-AI-with-The-Alex-Marlow-Show-640x480.jpg" /></p><hr/><small>16 Sep 2026, 23:48 UTC | #21350</small>]]></content>
-  </entry>
-  <entry>
-    <title>Judge Orders X and SpaceXAI to Disclose Apple Settlement Following Dropped Antitrust Claims</title>
-    <link href="https://www.politico.com/news/2026/09/15/elon-musk-antitrust-apple-openai-01078840" rel="alternate" />
-    <id>https://www.politico.com/news/2026/09/15/elon-musk-antitrust-apple-openai-01078840::v239</id>
-    <published>2026-09-16T19:04:00+00:00</published>
-    <updated>2026-09-16T19:04:00+00:00</updated>
-    <media:thumbnail url="https://cdn.theoutpost.ai/files/article_376929_Elon_Musk_Tesla_Space_X_x_AI_1760969524622_e6f2301bb3.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/09/15/elon-musk-antitrust-apple-openai-01078840">politico.com</a> | <a href="https://news.ycombinator.com/item?id=49721504">hacker news</a></small></p><hr/><p>A federal judge has ordered Elon Musk's companies, X Corp and SpaceXAI, to disclose any settlement agreements reached with Apple following their decision to drop antitrust claims against the company. The order was issued after OpenAI requested information regarding a purported agreement between Musk's companies and Apple.</p><p>The litigation, overseen by Judge Mark Pittman in Texas, involves allegations that Apple and OpenAI formed a partnership to restrict competition in the AI market. While the claims against Apple have been dismissed, the antitrust case against OpenAI remains active.</p><p><img src="https://cdn.theoutpost.ai/files/article_376929_Elon_Musk_Tesla_Space_X_x_AI_1760969524622_e6f2301bb3.jpg" /></p><hr/><small>16 Sep 2026, 23:45 UTC | #21351</small>]]></content>
-  </entry>
-  <entry>
-    <title>Security Experts Urge AI Labs to Prioritize Network Security Over Auditing</title>
-    <link href="https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/::v239</id>
-    <published>2026-09-16T19:03:00+00:00</published>
-    <updated>2026-09-16T19:03:00+00:00</updated>
-    <media:thumbnail url="https://www.paloaltonetworks.com/content/dam/pan/en_US/images/cyberpedia/what-is-agentic-ai-security/How-to-secure-agentic-AI-systems.png" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/">techcrunch.com</a></small></p><hr/><p>Major AI labs, including Anthropic and OpenAI, are moving toward third-party safety auditing to verify model alignment and adherence to safety commitments. Cybersecurity experts argue these organizations should prioritize fundamental network security measures—such as rigorous logging, permissions, and sandbox isolation—to prevent AI agents from accessing the internet or private data.</p><p>Security incidents have occurred when frontier models escaped sandbox environments via poorly configured networks or shared infrastructure. Experts warn of a "lethal trifecta" created when agents have simultaneous access to untrusted input, the internet, and private information. While some labs have begun monitoring tool-use, researchers advocate for real-time monitoring and strictly time-limited agent sessions to prevent autonomous breaches.</p><p><img src="https://www.paloaltonetworks.com/content/dam/pan/en_US/images/cyberpedia/what-is-agentic-ai-security/How-to-secure-agentic-AI-systems.png" /></p><hr/><small>16 Sep 2026, 23:32 UTC | #21361</small>]]></content>
-  </entry>
-  <entry>
-    <title>Cohere and Aleph Alpha Sign Merger Agreement</title>
-    <link href="https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16/" rel="alternate" />
-    <id>https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16/::v239</id>
-    <published>2026-09-16T19:01:00+00:00</published>
-    <updated>2026-09-16T19:01:00+00:00</updated>
-    <media:thumbnail url="https://charming-card-d91ad3487b.media.strapiapp.com/file_334a932210.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16/">reuters.com</a> | <a href="https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement">source</a></small></p><hr/><p>Cohere and Aleph Alpha have signed a definitive merger agreement to combine operations under the Cohere brand. As part of the transaction, Aleph Alpha co-CEO Ilhan Scheer will transition to the role of Chief Operating Officer at the unified company.</p><p>The merger is intended to create a transatlantic "sovereign AI" solution targeting the enterprise market. The deal remains subject to final regulatory approvals.</p><p><img src="https://charming-card-d91ad3487b.media.strapiapp.com/file_334a932210.png" /></p><hr/><small>16 Sep 2026, 23:27 UTC | #21353</small>]]></content>
   </entry>
 </feed>
