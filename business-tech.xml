@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T14:37:00+00:00</updated>
+  <updated>2026-09-21T14:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Fairshake to Launch $30M Campaign Against Sherrod Brown in Ohio Senate Race</title>
+    <link href="https://www.nytimes.com/2026/09/21/us/politics/crypto-sherrod-brown-ohio-senate-race.html?unlocked_article_code=1.C1E.Pw_Q.ajUUUp6NE4cM&amp;smid=url-share/" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/21/us/politics/crypto-sherrod-brown-ohio-senate-race.html?unlocked_article_code=1.C1E.Pw_Q.ajUUUp6NE4cM&amp;smid=url-share/::v239</id>
+    <published>2026-09-21T14:38:00+00:00</published>
+    <updated>2026-09-21T14:38:00+00:00</updated>
+    <media:thumbnail url="https://s.yimg.com/ny/api/res/1.2/KgZ07PZdjX7eb_nW6B8kZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/video.wlwt.hearstnews.com/6d16daa6ea8e4a5c6f1af85a5a744cc4" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/21/us/politics/crypto-sherrod-brown-ohio-senate-race.html?unlocked_article_code=1.C1E.Pw_Q.ajUUUp6NE4cM&smid=url-share/">nytimes.com</a></small></p><hr/><p>Fairshake, a cryptocurrency industry super PAC, plans to launch a $30 million advertising and mail campaign targeting former Democratic Senator Sherrod Brown in the Ohio Senate race. This spending surge follows the recent failure of the Clarity Act, a major legislative attempt to regulate digital assets.</p><p>The move highlights the aggressive political engagement of the crypto industry following legislative setbacks. Fairshake entered the 2026 midterm cycle with approximately $193 million in funding, signaling the significant scale of the industry's influence in upcoming U.S. elections.</p><p><img src="https://s.yimg.com/ny/api/res/1.2/KgZ07PZdjX7eb_nW6B8kZA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/video.wlwt.hearstnews.com/6d16daa6ea8e4a5c6f1af85a5a744cc4" /></p><hr/><small>21 Sep 2026, 19:22 UTC | #21819</small>]]></content>
+  </entry>
   <entry>
     <title>UN AI Panel Urges Precautionary Safeguards for Autonomous Agents</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle" rel="alternate" />
