@@ -946,13 +946,4 @@
     <media:thumbnail url="https://rmoff.net/images/2026/01/rustfs.excalidraw.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/">rmoff.net</a> | <a href="https://news.ycombinator.com/item?id=49709381">hacker news</a></small></p><hr/><p>The article evaluates various S3-compatible storage alternatives for use in single-node, local development environments, intended to replace MinIO. The comparison covers S3Proxy, RustFS, SeaweedFS, Zenko CloudServer, Garage, Apache Ozone, and Ceph Object Gateway.</p><p>Evaluations are based on ease of configuration, Docker support, and resource requirements. The findings indicate that while SeaweedFS and S3Proxy provide lightweight and easy-to-implement options, tools like Garage and Apache Ozone present significantly higher configuration complexity and greater resource demands.</p><p><img src="https://rmoff.net/images/2026/01/rustfs.excalidraw.png" /></p><hr/><small>16 Sep 2026, 14:16 UTC | #21309</small>]]></content>
   </entry>
-  <entry>
-    <title>Ursula von der Leyen Proposes Associate EU Membership for Canada</title>
-    <link href="https://www.bbc.com/news/articles/cjwyzrr9d3dko" rel="alternate" />
-    <id>https://www.bbc.com/news/articles/cjwyzrr9d3dko::v239</id>
-    <published>2026-09-16T09:55:00+00:00</published>
-    <updated>2026-09-16T09:55:00+00:00</updated>
-    <media:thumbnail url="https://worldwiretimes.com/wp-content/uploads/2025/09/1200x675_cmsv2_b3393c94-afde-5b9a-9246-d1e66f849a83-9458490.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.bbc.com/news/articles/cjwyzrr9d3dko">bbc.com</a> | <a href="https://commission.europa.eu/strategy-and-policy/state-union_en">source</a> | <a href="https://news.ycombinator.com/item?id=49724141">hacker news</a></small></p><hr/><p>European Commission President Ursula von der Leyen has called for Canada to become the European Union's first "associate member," aiming to deepen cooperation in sectors including artificial intelligence, defense, energy, and economic security. The proposal was delivered during her annual State of the Union address in Strasbourg.</p><p>The initiative is intended to bolster democratic alliances and secure supply chains as Canada faces intensifying trade tensions with the United States. While the legal framework for such membership does not currently exist, the proposal seeks to address growing fractures in the international rules-based system.</p><p><img src="https://worldwiretimes.com/wp-content/uploads/2025/09/1200x675_cmsv2_b3393c94-afde-5b9a-9246-d1e66f849a83-9458490.jpg" /></p><hr/><small>16 Sep 2026, 12:29 UTC | #21296</small>]]></content>
-  </entry>
 </feed>
