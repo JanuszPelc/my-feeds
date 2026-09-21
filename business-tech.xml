@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T07:15:00+00:00</updated>
+  <updated>2026-09-21T10:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US DoD to Order 60,000 Drones from Nine Startups Prohibiting Chinese Parts</title>
+    <link href="https://www.theinformation.com/articles/drone-startups-backed-eric-schmidt-trump-family-win-pentagons-latest-competition" rel="alternate" />
+    <id>https://www.theinformation.com/articles/drone-startups-backed-eric-schmidt-trump-family-win-pentagons-latest-competition::v239</id>
+    <published>2026-09-21T10:37:00+00:00</published>
+    <updated>2026-09-21T10:37:00+00:00</updated>
+    <media:thumbnail url="https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_537,w_822/689529" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/drone-startups-backed-eric-schmidt-trump-family-win-pentagons-latest-competition">theinformation.com</a></small></p><hr/><p>The US Department of Defense is awarding orders for 60,000 drones to nine startups, including Eric Schmidt-backed Perennial. The competition mandates that all drones must be free of any components manufactured in China.</p><p>This procurement initiative aims to secure domestic supply chains and reduce military reliance on foreign-sourced technology. The scale of the order is part of a broader effort to mass-produce low-cost, autonomous aerial systems for modern battlefield needs.</p><p><img src="https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_537,w_822/689529" /></p><hr/><small>21 Sep 2026, 12:18 UTC | #21783</small>]]></content>
+  </entry>
   <entry>
     <title>Sun Microsystems' Operational and Business Failures</title>
     <link href="https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/" rel="alternate" />
