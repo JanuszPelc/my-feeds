@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-20T23:22:00+00:00</updated>
+  <updated>2026-09-20T23:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Cathode Ray Tubes' Impact on Pixel Art Visuals</title>
+    <link href="https://datagubbe.se/crt/" rel="alternate" />
+    <id>https://datagubbe.se/crt/::v239</id>
+    <published>2026-09-20T23:24:00+00:00</published>
+    <updated>2026-09-20T23:24:00+00:00</updated>
+    <media:thumbnail url="https://datagubbe.se/crt/rpg_compare.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://datagubbe.se/crt/">datagubbe.se</a> | <a href="https://news.ycombinator.com/item?id=49768336">hacker news</a></small></p><hr/><p>Cathode Ray Tubes (CRTs) alter pixel art through scanlines and color bleeding, which soften edges and blend colors to simulate higher resolution and depth. These physical properties interact with artistic techniques like dithering and anti-aliasing to help circumvent the memory and color limitations of 8-bit and 16-bit hardware.</p><p>Visual clarity is determined by signal quality, ranging from low-fidelity composite video to high-fidelity RGB SCART. The interplay between a system's output and a screen's physical properties was a critical factor in the aesthetic evolution of early digital graphics.</p><p><img src="https://datagubbe.se/crt/rpg_compare.png" /></p><hr/><small>21 Sep 2026, 07:34 UTC | #21790</small>]]></content>
+  </entry>
   <entry>
     <title>Using Non-Breaking Spaces in Test Method Names</title>
     <link href="https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names" rel="alternate" />
