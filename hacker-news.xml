@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T18:04:00+00:00</updated>
+  <updated>2026-09-21T18:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Bypassing CGNAT for Self-Hosting via WireGuard Tunnel</title>
+    <link href="https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/" rel="alternate" />
+    <id>https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/::v239</id>
+    <published>2026-09-21T18:07:00+00:00</published>
+    <updated>2026-09-21T18:07:00+00:00</updated>
+    <media:thumbnail url="https://developerinsider.co/content/images/size/w1200/2026/02/bypass-cgnat-using-wireguard-on-a-vps-for-full-remote-homelab-access.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/">david.alvarezrosa.com</a> | <a href="https://lobste.rs/s/sus08k/self_hosting_behind_cgnat">discussion</a> | <a href="https://news.ycombinator.com/item?id=49785760">hacker news</a></small></p><hr/><p>Carrier-Grade NAT (CGNAT) prevents traditional port forwarding by sharing a single public IP among multiple users. This article describes a method to overcome this restriction by using a Virtual Private Server (VPS) as a bridge to establish a bidirectional WireGuard tunnel to a local homelab.</p><p>The configuration utilizes iptables on the VPS to forward all incoming traffic to the homelab while preserving original client IP addresses. To improve resilience, the author recommends using automated reboots, backup entry points such as Cloudflare Tunnels, and WireGuard's persistent keepalive functionality.</p><p><img src="https://developerinsider.co/content/images/size/w1200/2026/02/bypass-cgnat-using-wireguard-on-a-vps-for-full-remote-homelab-access.webp" /></p><hr/><small>21 Sep 2026, 23:45 UTC | #21904</small>]]></content>
+  </entry>
+  <entry>
+    <title>ShinyHunters Hijacks Cl0p Ransomware Leak Site</title>
+    <link href="https://therecord.media/shinyhunters-clop-cyberattack-website" rel="alternate" />
+    <id>https://therecord.media/shinyhunters-clop-cyberattack-website::v239</id>
+    <published>2026-09-21T18:06:00+00:00</published>
+    <updated>2026-09-21T18:06:00+00:00</updated>
+    <media:thumbnail url="https://atos.net/wp-content/uploads/2025/12/Security-Dive-Blog-Cl0p-Ransomware-Group-activity-data-leaks-from-GoAnywhere-MFT-website-sizeable-list-of-allegedly-compromised-companies.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://therecord.media/shinyhunters-clop-cyberattack-website">therecord.media</a></small></p><hr/><p>The ShinyHunters extortion group has taken control of the Cl0p ransomware gang's dark web leak site, defacing the page to issue an eight-figure extortion demand. The attackers have threatened to release Cl0p's historical victim records, including payment amounts and the specific Bitcoin addresses used for ransoms.</p><p>The takeover is reportedly a retaliation for Cl0p's unauthorized use of an Oracle E-Business Suite vulnerability. ShinyHunters has demanded a public apology from Cl0p and stated that the ransom amount will increase every 24 hours if their requirements are not met.</p><p><img src="https://atos.net/wp-content/uploads/2025/12/Security-Dive-Blog-Cl0p-Ransomware-Group-activity-data-leaks-from-GoAnywhere-MFT-website-sizeable-list-of-allegedly-compromised-companies.jpg" /></p><hr/><small>21 Sep 2026, 23:40 UTC | #21865</small>]]></content>
+  </entry>
   <entry>
     <title>Rift Tiling Window Manager for macOS</title>
     <link href="https://github.com/acsandmann/rift/" rel="alternate" />
