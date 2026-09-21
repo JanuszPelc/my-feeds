@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T11:29:00+00:00</updated>
+  <updated>2026-09-21T11:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Big Tech Uses Residual Value Guarantees for AI Infrastructure Spending</title>
+    <link href="https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?accessToken=zwAAAaDAZaodkc9_Ea-uxONAVNOmW4c_Nkf1Yw.MEUCIQDOOpxrDEP8euvKKekUwVhn13ZCYpoDldsLS1MYB7NUfwIgTt3ex7Q8-kzCxQV3stLnVHXGbKQUdKBIbc7jMY9ETBQ&amp;sharetype=gift&amp;token=1178d641-a340-4962-89e1-5a4d7305d3e2" rel="alternate" />
+    <id>https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?accessToken=zwAAAaDAZaodkc9_Ea-uxONAVNOmW4c_Nkf1Yw.MEUCIQDOOpxrDEP8euvKKekUwVhn13ZCYpoDldsLS1MYB7NUfwIgTt3ex7Q8-kzCxQV3stLnVHXGbKQUdKBIbc7jMY9ETBQ&amp;sharetype=gift&amp;token=1178d641-a340-4962-89e1-5a4d7305d3e2::v239</id>
+    <published>2026-09-21T11:33:00+00:00</published>
+    <updated>2026-09-21T11:33:00+00:00</updated>
+    <media:thumbnail url="https://www.iqxbusiness.com/wp-content/uploads/2023/11/Residual-Value.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?accessToken=zwAAAaDAZaodkc9_Ea-uxONAVNOmW4c_Nkf1Yw.MEUCIQDOOpxrDEP8euvKKekUwVhn13ZCYpoDldsLS1MYB7NUfwIgTt3ex7Q8-kzCxQV3stLnVHXGbKQUdKBIbc7jMY9ETBQ&sharetype=gift&token=1178d641-a340-4962-89e1-5a4d7305d3e2">ft.com</a></small></p><hr/><p>Large technology companies are increasingly employing residual value guarantees to manage AI-related expenditures off-balance sheet. This financial mechanism allows semiconductor manufacturers like Nvidia and Broadcom to facilitate massive hardware orders by leveraging the high credit ratings of tech giants to secure more favorable financing terms.</p><p>This strategy enables the rapid scaling of AI infrastructure while allowing companies to optimize their capital allocation and financial reporting. By providing these guarantees, tech firms are converting their corporate credit strength into liquidity for the specialized hardware required for the artificial intelligence expansion.</p><p><img src="https://www.iqxbusiness.com/wp-content/uploads/2023/11/Residual-Value.jpg" /></p><hr/><small>21 Sep 2026, 15:50 UTC | #21798</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon Blocks Meta's Muse AI Agent From Shopping</title>
     <link href="https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/" rel="alternate" />
