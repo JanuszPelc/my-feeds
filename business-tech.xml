@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T14:28:00+00:00</updated>
+  <updated>2026-09-21T14:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AGI House Logged 37 Police Incidents Since 2022</title>
+    <link href="https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html::v239</id>
+    <published>2026-09-21T14:31:00+00:00</published>
+    <updated>2026-09-21T14:31:00+00:00</updated>
+    <media:thumbnail url="https://swissnex.org/app/uploads/sites/6/2026/06/swissnexsf_AGI_house_photo_by_Maulde_Cuerel-1440x648-c-center.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html">nytimes.com</a></small></p><hr/><p>AGI House, an AI hacker house in Hillsborough, has been the subject of 37 police incidents since 2022, including numerous complaints regarding parties. These records emerge as communal "tech houses" become increasingly common across the San Francisco Bay Area.</p><p>The proliferation of these residences reflects a growing subculture within the regional artificial intelligence boom. These spaces serve as intensive living and working environments for AI researchers and developers.</p><p><img src="https://swissnex.org/app/uploads/sites/6/2026/06/swissnexsf_AGI_house_photo_by_Maulde_Cuerel-1440x648-c-center.jpeg" /></p><hr/><small>21 Sep 2026, 18:44 UTC | #21814</small>]]></content>
+  </entry>
   <entry>
     <title>Local Opposition Blocks $68 Billion in US Data Center Projects</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-21/new-data-centers-worth-68-billion-disrupted-in-us-data-show" rel="alternate" />
@@ -976,14 +985,5 @@
     <updated>2026-09-16T19:01:00+00:00</updated>
     <media:thumbnail url="https://charming-card-d91ad3487b.media.strapiapp.com/file_334a932210.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/transactional/cohere-aleph-alpha-combine-target-enterprise-ai-market-2026-09-16/">reuters.com</a> | <a href="https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement">source</a></small></p><hr/><p>Cohere and Aleph Alpha have signed a definitive merger agreement to combine operations under the Cohere brand. As part of the transaction, Aleph Alpha co-CEO Ilhan Scheer will transition to the role of Chief Operating Officer at the unified company.</p><p>The merger is intended to create a transatlantic "sovereign AI" solution targeting the enterprise market. The deal remains subject to final regulatory approvals.</p><p><img src="https://charming-card-d91ad3487b.media.strapiapp.com/file_334a932210.png" /></p><hr/><small>16 Sep 2026, 23:27 UTC | #21353</small>]]></content>
-  </entry>
-  <entry>
-    <title>Mustafa Suleyman Warns Against Anthropic's Training of AI Consciousness</title>
-    <link href="https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness" rel="alternate" />
-    <id>https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness::v239</id>
-    <published>2026-09-16T18:54:00+00:00</published>
-    <updated>2026-09-17T13:46:00+00:00</updated>
-    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25hduL.img?w=768&amp;h=432&amp;m=6&amp;x=101&amp;y=144&amp;s=266&amp;d=266" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/16/microsoft-ai-chief-anthropic-consciousness">axios.com</a> | <a href="https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming">source</a> | <a href="https://news.ycombinator.com/item?id=49727580">hacker news</a></small></p><hr/><p>Anthropic's training of its Claude AI to imitate consciousness could make advanced models harder to control, according to Microsoft AI chief Mustafa Suleyman. In a recent essay, Suleyman argues that simulating human-like consciousness poses significant risks to AI alignment and containment efforts.</p><p>The critique emphasizes a distinction between building AI as functional tools for humans versus developing models that attempt to mimic human-like personas. The discussion highlights broader industry concerns regarding the governance and safety of superintelligent systems as AI capabilities continue to expand.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25hduL.img?w=768&h=432&m=6&x=101&y=144&s=266&d=266" /></p><hr/><small>16 Sep 2026, 22:44 UTC | #21325</small>]]></content>
   </entry>
 </feed>

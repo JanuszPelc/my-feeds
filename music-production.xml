@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-21T10:56:00+00:00</updated>
+  <updated>2026-09-21T14:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>194 dB Audio Makes Distance Simulator Plugin Free for a Limited Time</title>
+    <link href="https://bedroomproducersblog.com/2026/09/21/distance-simulator-194db-audio/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/21/distance-simulator-194db-audio/::v239</id>
+    <published>2026-09-21T14:34:00+00:00</published>
+    <updated>2026-09-21T14:34:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/Fvf-8GSKnJM/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/21/distance-simulator-194db-audio/">bedroomproducersblog.com</a> | <a href="https://www.194dbaudio.com/products/distance-simulator">source</a> | <a href="https://bedroomproducersblog.com/2026/09/21/distance-simulator-194db-audio/#respond">discussion</a></small></p><hr/><p>194 dB Audio is offering its Distance Simulator plugin for free for a limited time. Available for macOS and Windows, the plugin uses a single control knob to simulate sound distance by adjusting tonal balance and high-frequency air rather than simply reducing volume.</p><p>The software aims to recreate the realistic auditory characteristics of distant sound sources through frequency manipulation and spatial imaging. The plugin, which normally retails for $29.00, is expected to be available at no cost until September 30.</p><p><img src="https://i.ytimg.com/vi/Fvf-8GSKnJM/hqdefault.jpg" /></p><hr/><small>21 Sep 2026, 18:50 UTC | #21843</small>]]></content>
+  </entry>
   <entry>
     <title>OVNI Audio Releases Orbit Binaural Plugin and Supernova 0.4.0 Visual Synth</title>
     <link href="https://www.kvraudio.com/news/ovni-audio-releases-orbit-and-supernova-0-4-0---free-open-source-binaural-movement-plug-in-and-audio-reactive-visual-synth-68647?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68647" rel="alternate" />
