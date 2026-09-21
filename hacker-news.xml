@@ -928,22 +928,4 @@
     <media:thumbnail url="https://www.linuxeasy.org/wp-content/uploads/2025/12/QFSView-Ubuntu-Linux.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://marc.info/?l=openbsd-tech&m=178948744271633&w=2">marc.info</a> | <a href="https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview">discussion</a> | <a href="https://news.ycombinator.com/item?id=49715590">hacker news</a></small></p><hr/><p>Ori Bernstein has released an early preview of GEFS, a crash-safe, snapshotting, copy-on-write filesystem originally developed for 9front, being ported to the OpenBSD kernel. The current implementation is unstable and prone to data loss during errors.</p><p>The filesystem currently comprises roughly 9,000 lines of kernel code. Future development focuses on establishing a consistent superblock write protocol, implementing full error handling, creating userspace management tools, and addressing POSIX and kernel-specific constraints.</p><p><img src="https://www.linuxeasy.org/wp-content/uploads/2025/12/QFSView-Ubuntu-Linux.webp" /></p><hr/><small>16 Sep 2026, 15:56 UTC | #21326</small>]]></content>
   </entry>
-  <entry>
-    <title>Rheinmetall Onboard API Documentation</title>
-    <link href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html" rel="alternate" />
-    <id>https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html::v239</id>
-    <published>2026-09-16T10:13:00+00:00</published>
-    <updated>2026-09-16T10:13:00+00:00</updated>
-    <media:thumbnail url="https://images.ft.com/v3/image/raw/https://d1e00ek4ebabms.cloudfront.net/production/2dd0a7a8-d1d1-4741-8997-feffddfd3950.jpg?source=next-article&amp;fit=scale-down&amp;quality=highest&amp;width=700&amp;dpr=1" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html">rheinmetall.github.io</a> | <a href="https://news.ycombinator.com/item?id=49718928">hacker news</a></small></p><hr/><p>The onboardapi library and middleware facilitate communication between sensor systems and software components using a standardized data model. Built on the ddkit SDK and the Data Distribution Service (DDS) standard, the library utilizes a publish-subscribe architecture to provide reliable, low-latency data exchange.</p><p>Designed for the Battlesuite ecosystem, the library supports C++ with wrappers for Java, C#, .NET, and Python. It employs DDS XTypes and XCDR2 encoding to ensure backward compatibility across evolving software and hardware environments.</p><p><img src="https://images.ft.com/v3/image/raw/https://d1e00ek4ebabms.cloudfront.net/production/2dd0a7a8-d1d1-4741-8997-feffddfd3950.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1" /></p><hr/><small>16 Sep 2026, 15:38 UTC | #21323</small>]]></content>
-  </entry>
-  <entry>
-    <title>Evaluating MinIO Alternatives for Single-Node Local S3</title>
-    <link href="https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/" rel="alternate" />
-    <id>https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/::v239</id>
-    <published>2026-09-16T10:09:00+00:00</published>
-    <updated>2026-09-16T10:09:00+00:00</updated>
-    <media:thumbnail url="https://rmoff.net/images/2026/01/rustfs.excalidraw.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/">rmoff.net</a> | <a href="https://news.ycombinator.com/item?id=49709381">hacker news</a></small></p><hr/><p>The article evaluates various S3-compatible storage alternatives for use in single-node, local development environments, intended to replace MinIO. The comparison covers S3Proxy, RustFS, SeaweedFS, Zenko CloudServer, Garage, Apache Ozone, and Ceph Object Gateway.</p><p>Evaluations are based on ease of configuration, Docker support, and resource requirements. The findings indicate that while SeaweedFS and S3Proxy provide lightweight and easy-to-implement options, tools like Garage and Apache Ozone present significantly higher configuration complexity and greater resource demands.</p><p><img src="https://rmoff.net/images/2026/01/rustfs.excalidraw.png" /></p><hr/><small>16 Sep 2026, 14:16 UTC | #21309</small>]]></content>
-  </entry>
 </feed>

@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T01:46:00+00:00</updated>
+  <updated>2026-09-21T03:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>One-Person AI Startups in China Surge as Young People Seek New Employment</title>
+    <link href="https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3?st=QK6QcH&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3?st=QK6QcH&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-09-21T03:06:00+00:00</published>
+    <updated>2026-09-21T03:06:00+00:00</updated>
+    <media:thumbnail url="https://opentools.ai/_next/image?url=https://imagedelivery.net/FCiXvK7dG4mSm_W_033WNA/e232c073-7d9c-4e8f-a89d-77cd996c1c00/contentbanner&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/business/entrepreneurship/burned-out-and-unemployed-young-people-in-china-are-launching-ai-startups-c5ebcdc3?st=QK6QcH&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>More than 7 million solo ventures were registered in China in 2025, marking a 42% increase from the previous year. Many of these businesses, which frequently utilize artificial intelligence, are being established by young people attempting to navigate a difficult domestic job market.</p><p>The growth is supported by recent revisions to China's Company Law, which allow individuals to invest in multiple one-person limited liability companies. While these tools offer an escape from traditional employment, these entrepreneurs face a brutal and highly saturated market.</p><p><img src="https://opentools.ai/_next/image?url=https://imagedelivery.net/FCiXvK7dG4mSm_W_033WNA/e232c073-7d9c-4e8f-a89d-77cd996c1c00/contentbanner&w=3840&q=75" /></p><hr/><small>21 Sep 2026, 10:13 UTC | #21778</small>]]></content>
+  </entry>
   <entry>
     <title>US Proposes AI Incident Notification Mechanism to China</title>
     <link href="https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32" rel="alternate" />
@@ -1003,14 +1012,5 @@
     <updated>2026-09-16T10:33:00+00:00</updated>
     <media:thumbnail url="https://langcopilot.com/images/2025/09-september/2025-09-17-llm-agents-explained-visual-guide-ai_63.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/">blog.nlnetlabs.nl</a> | <a href="https://lobste.rs/s/glywa4/maintaining_love_for_coding_time_ai">discussion</a></small></p><hr/><p>NLnet Labs has mandated that all code and documentation contributions must be authored by humans. The organization cites the rise of AI-generated pull requests and an influx of highly detailed but time-consuming bug reports from large language models as the primary drivers for this policy.</p><p>While AI-generated security reports are increasingly accurate, the volume of these reports has created a triage bottleneck for the organization's small development teams. Furthermore, the company argues that AI-driven contributors are often unable to provide the technical reasoning necessary to meet the rigorous design and maintenance standards required for critical internet infrastructure software.</p><p><img src="https://langcopilot.com/images/2025/09-september/2025-09-17-llm-agents-explained-visual-guide-ai_63.webp" /></p><hr/><small>16 Sep 2026, 16:22 UTC | #21333</small>]]></content>
-  </entry>
-  <entry>
-    <title>Debate in China Over Making English Language Instruction Optional</title>
-    <link href="https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html?unlocked_article_code=1.BlE.SzOw.Gt4xJ8P-97HP&amp;smid=url-share" rel="alternate" />
-    <id>https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html?unlocked_article_code=1.BlE.SzOw.Gt4xJ8P-97HP&amp;smid=url-share::v239</id>
-    <published>2026-09-16T10:06:00+00:00</published>
-    <updated>2026-09-16T10:06:00+00:00</updated>
-    <media:thumbnail url="https://image5.sixthtone.com/image/5/64/702.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html?unlocked_article_code=1.BlE.SzOw.Gt4xJ8P-97HP&smid=url-share">nytimes.com</a></small></p><hr/><p>A math teacher's social media post has ignited a debate in China regarding whether English language instruction should be made optional in schools. The movement toward making English an elective is being fueled by the increasing accuracy of AI translation tools and a cultural pushback against perceived Western dominance.</p><p>The discussion reflects a growing tension between maintaining global communication skills and the perceived diminishing necessity of foreign language mastery. As machine translation technology advances, policymakers and parents are weighing the value of bilingual education against the goal of reducing student academic burdens.</p><p><img src="https://image5.sixthtone.com/image/5/64/702.jpg" /></p><hr/><small>16 Sep 2026, 13:57 UTC | #21269</small>]]></content>
   </entry>
 </feed>
