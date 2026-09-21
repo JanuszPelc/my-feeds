@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T16:30:00+00:00</updated>
+  <updated>2026-09-21T17:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Carson Gross Proposes Markdown as Source Code for Agentic Coding</title>
+    <link href="https://htmx.org/essays/markdown-in-src/" rel="alternate" />
+    <id>https://htmx.org/essays/markdown-in-src/::v239</id>
+    <published>2026-09-21T17:22:00+00:00</published>
+    <updated>2026-09-21T17:22:00+00:00</updated>
+    <media:thumbnail url="https://www.altova.com/blog/images/compare-3-files-diffdog.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://htmx.org/essays/markdown-in-src/">htmx.org</a> | <a href="https://lobste.rs/s/xooho4/markdown_src">discussion</a></small></p><hr/><p>Carson Gross argues that Markdown is evolving from documentation into a form of source code within agentic coding workflows. He proposes that developers should check Markdown files—describing architectural and implementation intent—into a `/src/md` directory alongside the generated code. This practice aims to capture the "intent" that is currently lost during ephemeral LLM prompting sessions.</p><p>This proposed convention emphasizes locality, ensuring that the logic and reasoning behind a module are stored near the code for both human and AI consumption. In this workflow, Markdown serves as a specification, while the generated code and tests function as the implementation and automated verification of that specification.</p><p><img src="https://www.altova.com/blog/images/compare-3-files-diffdog.png" /></p><hr/><small>21 Sep 2026, 22:49 UTC | #21899</small>]]></content>
+  </entry>
   <entry>
     <title>MediaTek Introduces Dimensity CX C10 Max SoC for Googlebook Devices</title>
     <link href="https://www.tomshardware.com/pc-components/cpus/mediateks-next-gen-dimensity-cx-c10-max-will-power-new-googlebook-initiative-3nm-soc-has-similar-specs-to-kompanio-ultra-in-chromebook-plus-devices-despite-claims-of-elevating-computing-portfolio" rel="alternate" />
