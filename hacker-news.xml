@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-20T22:39:00+00:00</updated>
+  <updated>2026-09-20T22:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Scott Jenson Discusses Stagnation of Desktop UX Design</title>
+    <link href="https://www.youtube.com/watch?v=V7AfAcQwLW0" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=V7AfAcQwLW0::v239</id>
+    <published>2026-09-20T22:41:00+00:00</published>
+    <updated>2026-09-20T22:41:00+00:00</updated>
+    <media:thumbnail url="https://discuss-cdn.kde.org/uploads/default/original/1X/a25519d8b97012edf525491aaa53b6cd59c4fc09.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=V7AfAcQwLW0">youtube.com</a> | <a href="https://lobste.rs/s/vpvdlw/are_we_really_going_use_same_desktop_ux">discussion</a> | <a href="https://news.ycombinator.com/item?id=49771982">hacker news</a></small></p><hr/><p>Desktop user experience (UX) design has remained largely unchanged for two decades, failing to evolve in the same way as mobile computing, according to UX designer Scott Jenson. He observes that the Linux community has historically relied on Apple and Microsoft to lead research and pilot new paradigms, but as these companies pivot toward mobile-centric ecosystems and hardware lock-in, the desktop interface risks being left behind. Jenson asserts that while mobile has dominated social media and gaming, the desktop remains essential for productivity and requires proactive, experimental leadership to move beyond legacy interaction models.</p><p>The discussion critiques the common conflation of User Interface (UI) and User Experience (UX), advocating for a layered design framework that encompasses style, structure, and strategy. Jenson suggests that to modernize the desktop, designers must look beyond aesthetics to address the underlying technological constraints and "historical cruft" inherent in legacy systems. He encourages the open-source community to transition from a role of passive maintenance to actively prototyping the next generation of desktop interaction.</p><p><img src="https://discuss-cdn.kde.org/uploads/default/original/1X/a25519d8b97012edf525491aaa53b6cd59c4fc09.png" /></p><hr/><small>21 Sep 2026, 05:54 UTC | #21785</small>]]></content>
+  </entry>
   <entry>
     <title>Quarkdown Markdown Typesetting System with Turing-complete Extensibility</title>
     <link href="https://github.com/iamgio/quarkdown" rel="alternate" />
