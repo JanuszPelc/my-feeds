@@ -857,12 +857,4 @@
     <media:thumbnail url="https://coderlegion.com/bgcover-meta-img?postid=5605" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.rust-lang.org/2026/09/17/targeted-attacks/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/uz30ed/be_alert_targeted_attacks_on_prominent">discussion</a> | <a href="https://news.ycombinator.com/item?id=49744514">hacker news</a></small></p><hr/><p>An ongoing campaign is targeting Rust language members and owners of popular crates to compromise devices and accounts for the purpose of publishing malware. Attackers establish legitimate-looking company profiles and LinkedIn presences to facilitate fraudulent video calls. During these calls, targets are manipulated into installing malicious software, such as purported audio codecs, or executing commands via the clipboard.</p><p>To mitigate these risks, developers are encouraged to remain skeptical of unsolicited professional outreach and to use trusted, self-hosted communication platforms for video calls. Security experts recommend enabling multi-factor authentication (MFA) and monitoring account activity for any unauthorized login attempts.</p><p><img src="https://coderlegion.com/bgcover-meta-img?postid=5605" /></p><hr/><small>17 Sep 2026, 21:30 UTC | #21488</small>]]></content>
   </entry>
-  <entry>
-    <title>Cloudflare Worker Error on Skywriter.blue</title>
-    <link href="https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q" rel="alternate" />
-    <id>https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q::v239</id>
-    <published>2026-09-17T16:32:00+00:00</published>
-    <updated>2026-09-17T16:32:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q">skywriter.blue</a> | <a href="https://news.ycombinator.com/item?id=49737985">hacker news</a></small></p><hr/><p>A Cloudflare Worker encountered a rendering exception while attempting to serve a page on skywriter.blue. The incident occurred on September 17, 2026, and was identified as Error 1101.</p><p>The error page provides a unique Cloudflare Ray ID (a3cb00c35f45a6de) for debugging. The page advises the website owner to check their Workers logs to investigate the cause of the failure.</p><hr/><small>17 Sep 2026, 20:58 UTC | #21485</small>]]></content>
-  </entry>
 </feed>
