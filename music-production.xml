@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-22T18:28:00+00:00</updated>
+  <updated>2026-09-22T19:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>RiverFlux Audio Releases BITLAYER Multiband Bitcrusher</title>
+    <link href="https://bedroomproducersblog.com/2026/09/22/riverflux-audio-bitlayer/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/22/riverflux-audio-bitlayer/::v239</id>
+    <published>2026-09-22T19:36:00+00:00</published>
+    <updated>2026-09-22T19:36:00+00:00</updated>
+    <media:thumbnail url="https://getplugins.io/wp-content/uploads/2025/07/Flux-Audio-–-Evo-Series-Windows1.png" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/22/riverflux-audio-bitlayer/">bedroomproducersblog.com</a> | <a href="https://riverfluxaudio.gumroad.com/l/BITLAYER">source</a> | <a href="https://bedroomproducersblog.com/2026/09/22/riverflux-audio-bitlayer/#comments">discussion</a></small></p><hr/><p>RiverFlux Audio has released BITLAYER, a free multiband bitcrusher available for macOS, Windows, and Linux. The plugin features eight independent layers that allow users to apply digital degradation—including bit-depth reduction, sample-rate reduction, and jitter—to specific frequency ranges within a single signal.</p><p>Each layer provides individual control over effect order, mid/side routing, and gain. The plugin includes dedicated tonal and transient modes, enabling users to process sustained sounds and sharp attacks differently to achieve precise, frequency-aware digital destruction.</p><p><img src="https://getplugins.io/wp-content/uploads/2025/07/Flux-Audio-–-Evo-Series-Windows1.png" /></p><hr/><small>22 Sep 2026, 23:21 UTC | #22006</small>]]></content>
+  </entry>
   <entry>
     <title>Nikolozi Updates Mela to v7.15 for macOS and iOS</title>
     <link href="https://www.kvraudio.com/news/nikolozi-updates-mela-to-v7-15-for-macos-and-ios-68689?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68689" rel="alternate" />
