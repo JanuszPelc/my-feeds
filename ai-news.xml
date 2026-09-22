@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-22T02:16:00+00:00</updated>
+  <updated>2026-09-22T03:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Alibaba Plans 5 Trillion to 10 Trillion Parameter AI Model and New Chip</title>
+    <link href="https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/" rel="alternate" />
+    <id>https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/::v239</id>
+    <published>2026-09-22T03:31:00+00:00</published>
+    <updated>2026-09-22T03:31:00+00:00</updated>
+    <media:thumbnail url="https://cdn.robinhood.com/static_content/mwphzyq69oso/en-US/assets/files/4lly0FpVqgZrRhqvqdiOii_1_2024-04-17-ai-capabilities-site.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/">reuters.com</a></small></p><hr/><p>Alibaba Group plans to train a new artificial intelligence model with between 5 trillion and 10 trillion parameters. This initiative is part of a broader strategic push encompassing new AI models, custom silicon, and data center infrastructure.</p><p>Alongside the model development, the company is rolling out a new AI chip and aims to reach 20 gigawatts of data center capacity by 2032. These advancements are intended to position Alibaba in direct competition with industry leaders like OpenAI and Google DeepMind.</p><p><img src="https://cdn.robinhood.com/static_content/mwphzyq69oso/en-US/assets/files/4lly0FpVqgZrRhqvqdiOii_1_2024-04-17-ai-capabilities-site.png" /></p><hr/><small>22 Sep 2026, 10:46 UTC | #21912</small>]]></content>
+  </entry>
   <entry>
     <title>Xiaomi's MiMo-V2.6-Pro Tops Artificial Analysis Intelligence Index for Open-Weight Models</title>
     <link href="https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-model-in-the-world-alongside-cheaper-v2-6-flash" rel="alternate" />
@@ -401,14 +410,5 @@
     <updated>2026-09-17T15:16:00+00:00</updated>
     <media:thumbnail url="https://pronnel.com/assets/img/ai-calling/left-outbound-inbound-1.webp" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/">techcrunch.com</a></small></p><hr/><p>Instinct and Meta’s Muse AI agents have added the ability to make outbound phone calls to businesses. Instinct’s "Concierge" feature is designed for high-touch tasks like booking restaurants, managing medical cancellations, and resolving billing issues; it is currently rolling out to early access users. Meta has expanded its Muse beta to allow outbound calls to U.S. businesses, initially prioritizing users who requested the feature.</p><p>This rollout brings several competing AI assistants into feature parity for phone communication. These updates follow significant recent growth for both platforms, including Instinct's reported $10 billion valuation talks and Muse's rapid adoption, which recently saw the Muse app reach the number two spot in U.S. app charts.</p><p><img src="https://pronnel.com/assets/img/ai-calling/left-outbound-inbound-1.webp" /></p><hr/><small>17 Sep 2026, 19:02 UTC | #21438</small>]]></content>
-  </entry>
-  <entry>
-    <title>Unsloth Releases Software Update Featuring Multi-User Support and AMD Hardware Compatibility</title>
-    <link href="https://unsloth.ai/docs/new/changelog#docker--multiuser--amd-support" rel="alternate" />
-    <id>https://unsloth.ai/docs/new/changelog#docker--multiuser--amd-support::v239</id>
-    <published>2026-09-17T10:59:00+00:00</published>
-    <updated>2026-09-17T10:59:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/fBRgw5dyBd4/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Unsloth Changelog | <a href="https://unsloth.ai/docs/new/changelog#docker--multiuser--amd-support">unsloth.ai</a></small></p><hr/><p>Unsloth has released an update featuring multi-user accounts with isolation, an updated Docker image supporting NVIDIA and AMD hardware, and RDNA1 and RDNA2 compatibility. The release also includes ARM64 Windows CUDA support and FP8/INT8 diffusion inference, which is designed to achieve twice the speed of previous inference processes.</p><p>Additional enhancements include expanded MLX capabilities for video input, improved GRPO support for Qwen3.5, and enhanced chat responsiveness. Security is also bolstered through tool-call validation and the introduction of OS-level tool sandboxing on supported Linux and macOS systems.</p><p><img src="https://i.ytimg.com/vi/fBRgw5dyBd4/maxresdefault.jpg" /></p><hr/><small>17 Sep 2026, 16:09 UTC | #21454</small>]]></content>
   </entry>
 </feed>

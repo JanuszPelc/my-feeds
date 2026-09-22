@@ -968,22 +968,4 @@
     <media:thumbnail url="https://www.infodefensa.com/images/showid/7757191" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.bbc.com/news/articles/cwly7vkke4jxo">bbc.com</a> | <a href="https://news.ycombinator.com/item?id=49740507">hacker news</a></small></p><hr/><p>Canadian Prime Minister Mark Carney has expressed support for a proposal from European Commission President Ursula von der Leyen to grant Canada "associate member" status in the European Union. This framework would facilitate deeper cooperation in defense, energy security, and critical minerals without granting Canada full membership in the bloc.</p><p>US President Donald Trump has criticized the idea, threatening tariffs on Europe if the alliance is considered a "hostile act." Implementing the status would require approval from all 27 EU member states and would involve defining a new relationship that does not currently exist within the EU framework.</p><p><img src="https://www.infodefensa.com/images/showid/7757191" /></p><hr/><small>17 Sep 2026, 16:42 UTC | #21459</small>]]></content>
   </entry>
-  <entry>
-    <title>Minitap Accuses Google's Artemis Project of Reusing mobile-use Code Without Attribution</title>
-    <link href="https://www.minitap.ai/blog/i-expected-better-from-google" rel="alternate" />
-    <id>https://www.minitap.ai/blog/i-expected-better-from-google::v239</id>
-    <published>2026-09-17T10:53:00+00:00</published>
-    <updated>2026-09-17T10:53:00+00:00</updated>
-    <media:thumbnail url="https://cdn.sanity.io/images/5b5hto6c/production/8a4a9cd2ceb3a1679ca5033e6209fc7d558e81a0-1360x980.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.minitap.ai/blog/i-expected-better-from-google">minitap.ai</a> | <a href="https://lobste.rs/s/11uiiv/i_expected_better_from_google">discussion</a> | <a href="https://news.ycombinator.com/item?id=49668181">hacker news</a></small></p><hr/><p>Minitap claims that Google's Artemis project, an Android automation tool, incorporates code and instructions from Minitap's open-source `mobile-use` repository without proper attribution. The company alleges that specific implementations for device connection and agent prompts are identical to their own and that Minitap's contributor names were removed from the Artemis repository via a force push in August.</p><p>The dispute raises questions regarding the ethics of code reuse and the impact of such practices on the open-source community. Beyond the attribution claims, Minitap has reported discrepancies in how their benchmarking results are reflected on the AndroidWorld leaderboard and has opened a public issue on the Artemis repository to request formal credit.</p><p><img src="https://cdn.sanity.io/images/5b5hto6c/production/8a4a9cd2ceb3a1679ca5033e6209fc7d558e81a0-1360x980.png" /></p><hr/><small>17 Sep 2026, 15:16 UTC | #21447</small>]]></content>
-  </entry>
-  <entry>
-    <title>Neovim Bitcoin Donation Remains Untouched Since 2023</title>
-    <link href="https://news.ycombinator.com/item?id=49738879" rel="alternate" />
-    <id>https://news.ycombinator.com/item?id=49738879::v239</id>
-    <published>2026-09-17T10:45:00+00:00</published>
-    <updated>2026-09-17T10:45:00+00:00</updated>
-    <media:thumbnail url="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/09/some-screenshots-of-neovim-with-its-logo-in-the-center.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49738879">news.ycombinator.com</a> | <a href="https://opencollective.com/neovim">source</a> | <a href="https://news.ycombinator.com/item?id=49738879">hacker news</a></small></p><hr/><p>A 10 Bitcoin donation, valued at approximately $800,000, has remained untouched in Neovim's wallet since 2023. The project's funds are managed by OpenCollective, a 501(c)(6) organization in the United States.</p><p>The situation highlights the tax implications for non-profit organizations holding large cryptocurrency amounts and the technical difficulties of managing private keys, including the potential use of Shamir's Secret Sharing or social recovery wallets.</p><p><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/09/some-screenshots-of-neovim-with-its-logo-in-the-center.jpg" /></p><hr/><small>17 Sep 2026, 14:11 UTC | #21435</small>]]></content>
-  </entry>
 </feed>

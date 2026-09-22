@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T03:26:00+00:00</updated>
+  <updated>2026-09-22T05:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Git 2.56 and Potential Transition to Git 3.0</title>
+    <link href="https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/" rel="alternate" />
+    <id>https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/::v239</id>
+    <published>2026-09-22T05:24:00+00:00</published>
+    <updated>2026-09-22T05:24:00+00:00</updated>
+    <media:thumbnail url="https://cms.paralleldevs.com/sites/default/files/2024-01/release-tag.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/">lwn.net</a> | <a href="https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0">discussion</a> | <a href="https://news.ycombinator.com/item?id=49794736">hacker news</a></small></p><hr/><p>Git 2.56 is expected to arrive around late September 2026, introducing features such as an experimental `git history drop` subcommand, new subcommands for `git refs`, and improved `git status` and `git branch` behavior. While 2.56 provides usability improvements and bug fixes, it also serves as a precursor to a much more significant planned release: Git 3.0.</p><p>The transition to Git 3.0 is anticipated to include several major, non-backward-compatible changes. These include a default shift from the SHA-1 to the SHA-256 hash function for object identification, the adoption of the "reftable" mechanism for more efficient reference storage, a move to strictly lowercase object IDs, and a requirement for a Rust compiler to build the project.</p><p><img src="https://cms.paralleldevs.com/sites/default/files/2024-01/release-tag.png" /></p><hr/><small>22 Sep 2026, 10:51 UTC | #21934</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ju! Ju! Tsu! Tutorial for Jujutsu Version Control System</title>
+    <link href="https://arialdo.codeberg.page/ju-ju-tsu/" rel="alternate" />
+    <id>https://arialdo.codeberg.page/ju-ju-tsu/::v239</id>
+    <published>2026-09-22T03:28:00+00:00</published>
+    <updated>2026-09-22T03:28:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/1009726553/original/27229e8968/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arialdo.codeberg.page/ju-ju-tsu/">arialdo.codeberg.page</a> | <a href="https://lobste.rs/s/d4wq0w/ju_ju_tsu">discussion</a></small></p><hr/><p>"Ju! Ju! Tsu!" is a tutorial for the Jujutsu (jj) Git-compatible version control system. It aims to provide a lean, practical, and incremental learning path that allows users to begin using the tool immediately.</p><p>The author, Arialdo, emphasizes that the book is human-authored and not AI-generated. The guide is available in HTML and PDF formats and focuses on command-driven learning and terminal output.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/1009726553/original/27229e8968/1?v=1" /></p><hr/><small>22 Sep 2026, 10:44 UTC | #21933</small>]]></content>
+  </entry>
   <entry>
     <title>Alibaba's T-Head Unveils Zhenwu V900 AI Accelerator</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032" rel="alternate" />
@@ -873,31 +891,5 @@
     <updated>2026-09-17T13:35:00+00:00</updated>
     <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/golden-gate-wallpaper.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/">arstechnica.com</a> | <a href="https://www.apple.com/os/macos/">source</a> | <a href="https://news.ycombinator.com/item?id=49732036">hacker news</a></small></p><hr/><p>macOS 27 Golden Gate integrates Apple Intelligence as a mandatory system component, making generative AI features a core part of the operating system that cannot be disabled. This release also marks the end of support for all Intel-based Macs, requiring an Apple M1 chip or newer to function.</p><p>The update includes upgraded Siri capabilities, with advanced voice and dictation features requiring M3-family processors and at least 12GB of RAM. Additionally, the mandatory inclusion of large language models significantly increases the installation's disk space footprint compared to previous versions.</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2026/08/golden-gate-wallpaper.jpg" /></p><hr/><small>17 Sep 2026, 17:08 UTC | #21415</small>]]></content>
-  </entry>
-  <entry>
-    <title>Fujitsu Announces Next-Generation FUJITSU-MONAKA Arm-Based CPU</title>
-    <link href="https://global.fujitsu/en-global/pr/news/2026/09/14-02" rel="alternate" />
-    <id>https://global.fujitsu/en-global/pr/news/2026/09/14-02::v239</id>
-    <published>2026-09-17T11:00:00+00:00</published>
-    <updated>2026-09-17T11:00:00+00:00</updated>
-    <media:thumbnail url="https://www.techpowerup.com/img/CJ9p2RTOMImXjkbK.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://global.fujitsu/en-global/pr/news/2026/09/14-02">global.fujitsu</a> | <a href="https://news.ycombinator.com/item?id=49715813">hacker news</a></small></p><hr/><p>Fujitsu will begin global sales of its FUJITSU-MONAKA, a next-generation 144-core Arm-based CPU, in November 2026. The processor is designed to facilitate AI inference in air-cooled data centers and will be offered as a standalone product for cloud and server vendors, as well as through the dedicated Fujitsu MONAKA Server.</p><p>The chip utilizes 2nm technology with a 3D-stacked architecture that pairs a 2nm core die with 5nm SRAM and I/O dies. This design aims to provide high-performance, energy-efficient computing for facilities unable to support liquid-cooled GPU racks, serving as a technological successor to the architecture used in the Fugaku supercomputer.</p><p><img src="https://www.techpowerup.com/img/CJ9p2RTOMImXjkbK.jpg" /></p><hr/><small>17 Sep 2026, 16:13 UTC | #21455</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jake A. Smith Deprecates http_build_url PHP Polyfill</title>
-    <link href="https://jakeasmith.com/blog/http-build-url/" rel="alternate" />
-    <id>https://jakeasmith.com/blog/http-build-url/::v239</id>
-    <published>2026-09-17T10:52:00+00:00</published>
-    <updated>2026-09-17T10:52:00+00:00</updated>
-    <media:thumbnail url="https://jakeasmith.com/blog/http-build-url/1.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jakeasmith.com/blog/http-build-url/">jakeasmith.com</a> | <a href="https://news.ycombinator.com/item?id=49718773">hacker news</a></small></p><hr/><p>Jake A. Smith is deprecating the jakeasmith/http_build_url PHP package, a 174-line polyfill created in 2014 as a temporary fix for an AOL CMS migration. The library has recorded nearly 20 million installs on Packagist and is integrated into major platforms including WPML and Debian.</p><p>The retirement follows the arrival of a standards-compliant URI API in PHP 8.5 and the discovery of a bug that strips the letter "a" from certain URL paths. Smith opted for deprecation rather than transferring ownership to avoid the security risks associated with unvetted maintainers for widely-used packages.</p><p><img src="https://jakeasmith.com/blog/http-build-url/1.png" /></p><hr/><small>17 Sep 2026, 15:13 UTC | #21446</small>]]></content>
-  </entry>
-  <entry>
-    <title>Josh Bowman-Matthews Reflects on One Year of Sponsored Servo Development</title>
-    <link href="https://servo.org/blog/2026/09/15/one-year-of-sponsorship/" rel="alternate" />
-    <id>https://servo.org/blog/2026/09/15/one-year-of-sponsorship/::v239</id>
-    <published>2026-09-17T10:49:00+00:00</published>
-    <updated>2026-09-17T10:49:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://servo.org/blog/2026/09/15/one-year-of-sponsorship/">servo.org</a> | <a href="https://news.ycombinator.com/item?id=49737849">hacker news</a></small></p><hr/><p>Josh Bowman-Matthews has completed one year of part-time work on the Servo project, funded by monthly donations through OpenCollective and GitHub Sponsors. His work focused on improving the contributor experience by reviewing 1,150 pull requests, nominating eight new maintainers, and filing over 100 issues to assist new contributors.</p><p>Technical efforts included stabilizing intermittent test failures, supporting a large-scale rewrite of the JavaScript engine integration, and updating documentation for experimental features and borrow hazards. This role aims to improve project accessibility and streamline the maintenance process for the open-source web engine.</p><hr/><small>17 Sep 2026, 14:49 UTC | #21444</small>]]></content>
   </entry>
 </feed>
