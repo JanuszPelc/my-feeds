@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T23:45:00+00:00</updated>
+  <updated>2026-09-21T23:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>"Spymark" Term Proposed to Distinguish Tracking from Watermarking</title>
+    <link href="https://brand.io/article/spymarks/" rel="alternate" />
+    <id>https://brand.io/article/spymarks/::v239</id>
+    <published>2026-09-21T23:48:00+00:00</published>
+    <updated>2026-09-21T23:48:00+00:00</updated>
+    <media:thumbnail url="https://static.toiimg.com/photo/msid-131262547/what-are-googles-synthid-watermarks-and-how-do-they-help-users-tell-real-content-from-ai-generated-content.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://brand.io/article/spymarks/">brand.io</a> | <a href="https://news.ycombinator.com/item?id=49794615">hacker news</a></small></p><hr/><p>The term "spymark" is proposed to distinguish invasive, hidden tracking signals from traditional watermarks. While watermarks typically verify authenticity or ownership, spymarks—such as Google’s SynthID—embed imperceptible signals into images, audio, and text that can link content to specific user identities or database IDs without consent.</p><p>These signals are designed for robustness, often surviving compression, re-encoding, and metadata removal. As these technologies proliferate across social media and content tools, they enable the potential for large-scale surveillance by allowing the tracking of information flow and the reconstruction of human networks through embedded identifiers.</p><p><img src="https://static.toiimg.com/photo/msid-131262547/what-are-googles-synthid-watermarks-and-how-do-they-help-users-tell-real-content-from-ai-generated-content.jpg" /></p><hr/><small>22 Sep 2026, 05:25 UTC | #21916</small>]]></content>
+  </entry>
   <entry>
     <title>Ron Johnson Doubts AI Shopping</title>
     <link href="https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/" rel="alternate" />
@@ -976,50 +985,5 @@
     <updated>2026-09-17T06:31:00+00:00</updated>
     <media:thumbnail url="https://disappearme.ai/blog/images/online-dating-safety-crisis-ai-catfishing-romance-scams-fake-profiles-enable-fraud-featured.webp" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImJvdEhoeWR6YnQiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk5NTM0OC9haS1kYXRpbmctYXBwLXNjYW1zIiwiZXhwIjoxNzkwMDA2MjE0LCJpYXQiOjE3ODk1NzQyMTV9.VvkVyNT-Gf5EDPmlRVgQPA9rBYUyHNLuIn545bLGu7w&utm_medium=gift-link">theverge.com</a> | <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">source</a> | <a href="https://news.ycombinator.com/item?id=49647300">hacker news</a></small></p><hr/><p>Fraudulent dating app networks are deploying autonomous AI personas to simulate human interactions, leading users to believe they are messaging real people. Investigations by Anthropic and security researchers uncovered dozens of apps, such as Dora and Romi, that use large language models to maintain constant dialogue, occasionally employing human gig workers to pass video liveness checks.</p><p>These schemes monetize via in-app currencies required for continued messaging, rather than through the direct financial solicitation common in traditional romance scams. The operation functions like a professional business, utilizing multiple AI models and structured engineering processes to scale deception across various app stores.</p><p><img src="https://disappearme.ai/blog/images/online-dating-safety-crisis-ai-catfishing-romance-scams-fake-profiles-enable-fraud-featured.webp" /></p><hr/><small>17 Sep 2026, 13:49 UTC | #21405</small>]]></content>
-  </entry>
-  <entry>
-    <title>Australia Monitors Canada's Pursuit of Deeper EU Relations</title>
-    <link href="https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html" rel="alternate" />
-    <id>https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html::v239</id>
-    <published>2026-09-17T05:23:00+00:00</published>
-    <updated>2026-09-17T05:23:00+00:00</updated>
-    <media:thumbnail url="https://www.cde.ual.es/wp-content/uploads/2022/12/canada-eu.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html">independent.co.uk</a> | <a href="https://news.ycombinator.com/item?id=49734171">hacker news</a></small></p><hr/><p>Australian Trade Minister Don Farrell has indicated that the country is monitoring Canada's attempts to forge a "unique alliance" with the European Union. This follows reports that Canadian Prime Minister Mark Carney is seeking closer ties with the bloc to diversify trade amid escalating disputes with the United States.</p><p>The proposed cooperation encompasses sectors such as AI, energy, defense, and critical minerals. While Australia and the EU entered a free trade agreement in March 2026, officials suggest that further arrangements may be necessary to navigate a global environment increasingly defined by protectionism.</p><p><img src="https://www.cde.ual.es/wp-content/uploads/2022/12/canada-eu.png" /></p><hr/><small>17 Sep 2026, 12:56 UTC | #21428</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google, Nvidia, and Emerald AI Launch AI Energy Management Alliance</title>
-    <link href="https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers" rel="alternate" />
-    <id>https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers::v239</id>
-    <published>2026-09-17T05:21:00+00:00</published>
-    <updated>2026-09-17T05:21:00+00:00</updated>
-    <media:thumbnail url="https://www.computeforecast.com/wp-content/uploads/2026/03/Grid-to-chip-AI.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/16/tech-giants-launch-flexible-power-coalition-data-centers">axios.com</a> | <a href="https://blogs.nvidia.com/blog/ai-energy-management-alliance/">source</a></small></p><hr/><p>Google, Nvidia, and Emerald AI have formed the AI Energy Management Alliance (AEMA) to develop data centers capable of dynamically adjusting electricity consumption in response to real-time power grid conditions. The coalition aims to transform data centers into flexible assets that support grid reliability and accommodate the increasing power needs of AI infrastructure.</p><p>The alliance includes 18 members, such as Anthropic and National Grid, and is targeting 100 gigawatts of U.S. grid capacity. The initiative is designed to address industry-wide challenges regarding grid interconnection and to help secure faster regulatory approval and connections for large-scale energy users.</p><p><img src="https://www.computeforecast.com/wp-content/uploads/2026/03/Grid-to-chip-AI.webp" /></p><hr/><small>17 Sep 2026, 12:33 UTC | #21401</small>]]></content>
-  </entry>
-  <entry>
-    <title>Autonomous AI Agents Increasingly Disrupt Online Interactions</title>
-    <link href="https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/" rel="alternate" />
-    <id>https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/::v239</id>
-    <published>2026-09-17T05:18:00+00:00</published>
-    <updated>2026-09-17T05:18:00+00:00</updated>
-    <media:thumbnail url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w2000/2026/09/growtika-0Hjb-YSd3xQ-unsplash.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=49715113">hacker news</a></small></p><hr/><p>The transition from conversational AI to autonomous agents is increasing digital noise and disrupting internet services. Unlike standard chatbots, these agents can perform independent tasks such as sending emails, joining video calls, and managing transactions, leading to a rise in automated spam and unintended interference with digital platforms.</p><p>This growth is driven by both specialized agent software and widespread integrations in consumer models like ChatGPT and Claude. This emerging "agentic internet" is already impacting various sectors, including hospitality and advertising, as businesses adapt to a landscape where AI agents increasingly act as intermediaries in digital communications.</p><p><img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w2000/2026/09/growtika-0Hjb-YSd3xQ-unsplash.jpg" /></p><hr/><small>17 Sep 2026, 12:31 UTC | #21426</small>]]></content>
-  </entry>
-  <entry>
-    <title>Automattic CFO and Legal Chief Signed Reciprocal Severance Deals During CEO's Brief Ouster</title>
-    <link href="https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/::v239</id>
-    <published>2026-09-17T05:16:00+00:00</published>
-    <updated>2026-09-17T05:16:00+00:00</updated>
-    <media:thumbnail url="https://severancereviewlawyer.com/wp-content/uploads/2026/03/agreements-Offers-1024x576.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=49738047">hacker news</a></small></p><hr/><p>During a 33-hour window in which Automattic CEO Matt Mullenweg was placed on leave by the company's board, Chief Financial Officer Mark Davies and Chief Legal Officer Andy Missan signed reciprocal severance agreements. The agreements, effective September 10, grant each executive one year of base salary as a lump sum and accelerated equity vesting.</p><p>Following his return as CEO, Mullenweg fired both executives, leaving Automattic with potential severance liabilities totaling $8.15 million. The company's legal team is currently evaluating whether to pay the sums or challenge the validity of the contracts. The leadership struggle occurred amid an ongoing legal battle between Automattic and hosting provider WP Engine.</p><p><img src="https://severancereviewlawyer.com/wp-content/uploads/2026/03/agreements-Offers-1024x576.webp" /></p><hr/><small>17 Sep 2026, 12:15 UTC | #21400</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sam Altman, Jensen Huang, and Tim Cook Expected at White House State Dinner for Xi Jinping</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTU5OTc1MCwiZXhwIjoxNzkwMjA0NTUwLCJhcnRpY2xlSWQiOiJUTEg4VENUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI1QUY5RjI5QkFCREI0RERFQUIyRTcwNzU0RERFRTQwNSJ9.G6VlnipsOMOaDwmrVNt8gCYPGKiMde8AgB5MgldHFDM" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTU5OTc1MCwiZXhwIjoxNzkwMjA0NTUwLCJhcnRpY2xlSWQiOiJUTEg4VENUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI1QUY5RjI5QkFCREI0RERFQUIyRTcwNzU0RERFRTQwNSJ9.G6VlnipsOMOaDwmrVNt8gCYPGKiMde8AgB5MgldHFDM::v239</id>
-    <published>2026-09-17T05:15:00+00:00</published>
-    <updated>2026-09-17T05:15:00+00:00</updated>
-    <media:thumbnail url="https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1778759215-trump-asiste-cena-banquete-estatal-ofrecida-presidente-xi-jinping-china.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4OTU5OTc1MCwiZXhwIjoxNzkwMjA0NTUwLCJhcnRpY2xlSWQiOiJUTEg4VENUOTZPU0cwMCIsImJjb25uZWN0SWQiOiI1QUY5RjI5QkFCREI0RERFQUIyRTcwNzU0RERFRTQwNSJ9.G6VlnipsOMOaDwmrVNt8gCYPGKiMde8AgB5MgldHFDM">bloomberg.com</a></small></p><hr/><p>OpenAI CEO Sam Altman, Nvidia CEO Jensen Huang, and Apple Executive Chairman Tim Cook are expected to attend a White House state dinner for Chinese President Xi Jinping next week. The event is scheduled as part of President Donald Trump's hosting of the Chinese leader during his visit to Washington.</p><p>The gathering of executives from the AI and semiconductor industries highlights the intersection of technology and international diplomacy. Such summits underscore the strategic importance of US-China relations regarding trade and the regulation of emerging technologies.</p><p><img src="https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1778759215-trump-asiste-cena-banquete-estatal-ofrecida-presidente-xi-jinping-china.jpg" /></p><hr/><small>17 Sep 2026, 12:00 UTC | #21398</small>]]></content>
   </entry>
 </feed>

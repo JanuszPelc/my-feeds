@@ -882,31 +882,4 @@
     <media:thumbnail url="https://www.huaweicentral.com/wp-content/uploads/2025/09/Ascend-roadmap.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17/">reuters.com</a></small></p><hr/><p>Huawei plans to launch the Ascend 960DT AI chip in the first quarter of 2027 and the 960PR in the third quarter. The company intends to utilize its proprietary UnifiedBus technology to power these next-generation, large-scale AI computing systems.</p><p>The semiconductor rollout is part of an accelerated roadmap designed to enhance Huawei's AI computing capabilities. The development of the 960 series aims to provide high-performance computing alternatives for large-scale clusters amid ongoing international restrictions on advanced semiconductor technology.</p><p><img src="https://www.huaweicentral.com/wp-content/uploads/2025/09/Ascend-roadmap.jpg" /></p><hr/><small>17 Sep 2026, 13:12 UTC | #21403</small>]]></content>
   </entry>
-  <entry>
-    <title>US Strategic Petroleum Reserve Salt Cavern Engineering</title>
-    <link href="https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve" rel="alternate" />
-    <id>https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve::v239</id>
-    <published>2026-09-17T05:25:00+00:00</published>
-    <updated>2026-09-17T05:25:00+00:00</updated>
-    <media:thumbnail url="https://thumbs.dreamstime.com/b/vast-empty-caverns-strategic-petroleum-reserve-showing-low-levels-echoing-drips-indicating-limited-buffers-show-crude-429725233.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve">johnjwang.com</a> | <a href="https://news.ycombinator.com/item?id=49719596">hacker news</a></small></p><hr/><p>The reserve's storage relies on massive underground salt caverns along the Gulf Coast to hold approximately 714 million barrels of crude oil. These caverns are created by injecting water into salt domes to dissolve the salt, creating high-capacity, cylindrical spaces that are naturally impermeable and self-sealing.</p><p>This method provides a cost-effective and secure alternative to surface tanks, offering protection against aerial attacks and reducing fire risks. However, the process requires careful management of brine disposal and addresses the potential expansion of caverns during repeated water injection and oil withdrawal cycles.</p><p><img src="https://thumbs.dreamstime.com/b/vast-empty-caverns-strategic-petroleum-reserve-showing-low-levels-echoing-drips-indicating-limited-buffers-show-crude-429725233.jpg" /></p><hr/><small>17 Sep 2026, 13:10 UTC | #21429</small>]]></content>
-  </entry>
-  <entry>
-    <title>Reversing the Pseudo-Random Number Generator in Factorio</title>
-    <link href="https://gegell.github.io/posts/factorio-rng/" rel="alternate" />
-    <id>https://gegell.github.io/posts/factorio-rng/::v239</id>
-    <published>2026-09-17T05:12:00+00:00</published>
-    <updated>2026-09-17T05:12:00+00:00</updated>
-    <media:thumbnail url="https://www.exitlag.com/blog/wp-content/uploads/2025/07/Factorio-Calculator-5.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://gegell.github.io/posts/factorio-rng/">gegell.github.io</a> | <a href="https://lobste.rs/s/phbfog/reversing_factorio_s_rng">discussion</a> | <a href="https://news.ycombinator.com/item?id=49674451">hacker news</a></small></p><hr/><p>This article analyzes the pseudo-random number generator (PRNG) implementation in the game Factorio. By decompiling the game binary using tools like Ghidra and Binary Ninja, the author confirms the use of the taus88 algorithm, which is composed of three linear feedback shift registers (LFSRs) XORed together.</p><p>The investigation explores how the mathematical properties of LFSRs—specifically their linearity within a Galois field—render the generator predictable if its internal state is known. The author demonstrates that this deterministic nature allows for the prediction of in-game random events, such as item quality rolls, by synchronizing a local simulation with the game's state.</p><p><img src="https://www.exitlag.com/blog/wp-content/uploads/2025/07/Factorio-Calculator-5.webp" /></p><hr/><small>17 Sep 2026, 11:41 UTC | #21422</small>]]></content>
-  </entry>
-  <entry>
-    <title>Learning Programming in the Age of LLMs</title>
-    <link href="https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/" rel="alternate" />
-    <id>https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/::v239</id>
-    <published>2026-09-17T05:11:00+00:00</published>
-    <updated>2026-09-17T05:11:00+00:00</updated>
-    <media:thumbnail url="https://bizweb.dktcdn.net/100/580/651/products/61vpfhohohl-1754409901560.jpg?v=1773797278030" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/">blog.ploeh.dk</a> | <a href="https://news.ycombinator.com/item?id=49723873">hacker news</a></small></p><hr/><p>This essay examines the implications of using Large Language Models (LLMs) for programming education, specifically the risk of developers building complex systems they do not fully understand. It addresses the concern that AI assistance can mask a lack of foundational competence, creating a gap between functional software output and a programmer's actual ability to troubleshoot or own the underlying logic.</p><p>The author advocates for a "falsifiable" approach to AI usage, suggesting that developers should focus on asking questions with easily verifiable answers to maintain control over the learning process. The piece also discusses the potential for AI to disrupt knowledge-work employment and the limits of human cognitive capacity to keep pace with rapid technological acceleration.</p><p><img src="https://bizweb.dktcdn.net/100/580/651/products/61vpfhohohl-1754409901560.jpg?v=1773797278030" /></p><hr/><small>17 Sep 2026, 11:38 UTC | #21421</small>]]></content>
-  </entry>
 </feed>
