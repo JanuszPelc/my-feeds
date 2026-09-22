@@ -873,13 +873,4 @@
     <updated>2026-09-17T10:49:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://servo.org/blog/2026/09/15/one-year-of-sponsorship/">servo.org</a> | <a href="https://news.ycombinator.com/item?id=49737849">hacker news</a></small></p><hr/><p>Josh Bowman-Matthews has completed one year of part-time work on the Servo project, funded by monthly donations through OpenCollective and GitHub Sponsors. His work focused on improving the contributor experience by reviewing 1,150 pull requests, nominating eight new maintainers, and filing over 100 issues to assist new contributors.</p><p>Technical efforts included stabilizing intermittent test failures, supporting a large-scale rewrite of the JavaScript engine integration, and updating documentation for experimental features and borrow hazards. This role aims to improve project accessibility and streamline the maintenance process for the open-source web engine.</p><hr/><small>17 Sep 2026, 14:49 UTC | #21444</small>]]></content>
   </entry>
-  <entry>
-    <title>Huawei to Launch Ascend 960 AI Chips in 2027</title>
-    <link href="https://www.reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17/" rel="alternate" />
-    <id>https://www.reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17/::v239</id>
-    <published>2026-09-17T05:56:00+00:00</published>
-    <updated>2026-09-17T05:56:00+00:00</updated>
-    <media:thumbnail url="https://www.huaweicentral.com/wp-content/uploads/2025/09/Ascend-roadmap.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/chinas-huawei-launch-two-new-ai-chips-2027-2026-09-17/">reuters.com</a></small></p><hr/><p>Huawei plans to launch the Ascend 960DT AI chip in the first quarter of 2027 and the 960PR in the third quarter. The company intends to utilize its proprietary UnifiedBus technology to power these next-generation, large-scale AI computing systems.</p><p>The semiconductor rollout is part of an accelerated roadmap designed to enhance Huawei's AI computing capabilities. The development of the 960 series aims to provide high-performance computing alternatives for large-scale clusters amid ongoing international restrictions on advanced semiconductor technology.</p><p><img src="https://www.huaweicentral.com/wp-content/uploads/2025/09/Ascend-roadmap.jpg" /></p><hr/><small>17 Sep 2026, 13:12 UTC | #21403</small>]]></content>
-  </entry>
 </feed>

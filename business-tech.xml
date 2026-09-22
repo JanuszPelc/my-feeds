@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T23:48:00+00:00</updated>
+  <updated>2026-09-21T23:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>British Columbia Sues OpenAI Over Mass Shooting Safety Allegations</title>
+    <link href="https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568::v239</id>
+    <published>2026-09-21T23:49:00+00:00</published>
+    <updated>2026-09-21T23:49:00+00:00</updated>
+    <media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/593482582001/3b679622-ee20-407d-b7b7-dae1fee8238c/96402cd0-8779-4bee-aea5-9b9595b50d28/1920x1080/match/image.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568">wsj.com</a> | <a href="https://dockets.justia.com/docket/california/candce/3:2025cv05495/452129">source</a></small></p><hr/><p>British Columbia has filed a lawsuit against OpenAI, alleging the company failed to notify law enforcement of a mass school shooting suspect's activity on ChatGPT. The province claims that although the suspect's account was banned for safety violations, OpenAI did not alert authorities to the potential threat prior to the Tumbler Ridge shooting.</p><p>The legal action, filed in the U.S. District Court for the Northern District of California, names CEO Sam Altman as an individual defendant. The suit focuses on allegations of negligence and the responsibility of AI providers to report violent behavior to police to prevent real-world harm.</p><p><img src="https://cf-images.us-east-1.prod.boltdns.net/v1/static/593482582001/3b679622-ee20-407d-b7b7-dae1fee8238c/96402cd0-8779-4bee-aea5-9b9595b50d28/1920x1080/match/image.jpg" /></p><hr/><small>22 Sep 2026, 06:00 UTC | #21901</small>]]></content>
+  </entry>
   <entry>
     <title>"Spymark" Term Proposed to Distinguish Tracking from Watermarking</title>
     <link href="https://brand.io/article/spymarks/" rel="alternate" />
