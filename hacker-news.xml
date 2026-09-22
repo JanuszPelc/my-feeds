@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T19:31:00+00:00</updated>
+  <updated>2026-09-22T19:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Raspberry Pi Firmware Restricts Pi 5 RAM Upgrades</title>
+    <link href="https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/" rel="alternate" />
+    <id>https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/::v239</id>
+    <published>2026-09-22T19:33:00+00:00</published>
+    <updated>2026-09-22T19:33:00+00:00</updated>
+    <media:thumbnail url="https://thepihut.com/cdn/shop/articles/How_to_update_the_Firmware_on_your_Raspberry_Pi_5_e50dc6ee-67fe-4cef-8736-4b76ae4f5017.jpg?v=1745508056&amp;width=1000" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/">jeffgeerling.com</a> | <a href="https://lobste.rs/s/5ybneq/raspberry_pi_locks_down_pi_5_ram_upgrades">discussion</a></small></p><hr/><p>Raspberry Pi has implemented firmware updates for the Raspberry Pi 5 that prevent users from swapping or upgrading RAM chips. This restriction aims to stop resellers from installing uncertified or unreliable memory components into low-capacity boards to sell them as higher-capacity models.</p><p>While the move addresses technical risks like improper memory timings and overheating caused by non-standard components, it significantly limits hardware repairability and the ability to perform manual upgrades. Users can bypass these restrictions by running older firmware versions released prior to late 2024, though this may limit access to other recent updates.</p><p><img src="https://thepihut.com/cdn/shop/articles/How_to_update_the_Firmware_on_your_Raspberry_Pi_5_e50dc6ee-67fe-4cef-8736-4b76ae4f5017.jpg?v=1745508056&width=1000" /></p><hr/><small>22 Sep 2026, 22:59 UTC | #22022</small>]]></content>
+  </entry>
   <entry>
     <title>The Viability of Using Stock macOS UI</title>
     <link href="https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html" rel="alternate" />

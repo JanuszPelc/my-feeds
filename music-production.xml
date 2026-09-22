@@ -582,22 +582,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/topimage_product_bamboowinds.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/crocus-soundware-releases-liminal-micro-bamboo-winds-for-kontakt-68623?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68623">kvraudio.com</a> | <a href="https://crocussoundware.com/Product_BambooWinds.html">source</a></small></p><hr/><p>This Kontakt sample library features transverse bamboo flute recordings with aleatoric, evolving articulations. The collection includes solo and ensemble performances across 832 samples, allowing for layering and blending through a color-coded interface.</p><p>The library requires the full version of Kontakt 6.7 or higher and consists of 1.65 GB of uncompressed data. It is available at an introductory price of $15 through October 17, 2026.</p><p><img src="https://static.kvraudio.com/i/b/topimage_product_bamboowinds.png" /></p><hr/><small>18 Sep 2026, 09:13 UTC | #21543</small>]]></content>
   </entry>
-  <entry>
-    <title>Analog Obsession Releases ToneShaper Free Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/17/analog-obsession-toneshaper/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/17/analog-obsession-toneshaper/::v239</id>
-    <published>2026-09-17T22:47:00+00:00</published>
-    <updated>2026-09-17T22:47:00+00:00</updated>
-    <media:thumbnail url="https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/edd61156-c857-4fe5-bfa2-6d01b74842ed/Rare+Herp.jpg?format=2500w" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/17/analog-obsession-toneshaper/">bedroomproducersblog.com</a> | <a href="https://www.patreon.com/analogobsession/posts/toneshaper-169700744">source</a> | <a href="https://bedroomproducersblog.com/2026/09/17/analog-obsession-toneshaper/#comments">discussion</a></small></p><hr/><p>ToneShaper is a free passive tone and body control plugin from Analog Obsession, available for macOS and Windows. The plugin utilizes a passive design that results in a 20dB gain loss, which is compensated for via an integrated clean boost.</p><p>The tool avoids non-linear elements to prevent coloring the signal with harmonic distortion. It is intended for users seeking to adjust tonal balance and body without adding extra saturation.</p><p><img src="https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/edd61156-c857-4fe5-bfa2-6d01b74842ed/Rare+Herp.jpg?format=2500w" /></p><hr/><small>18 Sep 2026, 04:43 UTC | #21529</small>]]></content>
-  </entry>
-  <entry>
-    <title>Joe Landers Releases Gearmulator MD / MM Emulator</title>
-    <link href="https://bedroomproducersblog.com/2026/09/17/elektron-gearmulator/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/17/elektron-gearmulator/::v239</id>
-    <published>2026-09-17T22:46:00+00:00</published>
-    <updated>2026-09-17T22:46:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/NmfE5xljYRU/hqdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/17/elektron-gearmulator/">bedroomproducersblog.com</a> | <a href="https://github.com/joelanders/gearmulator-md-mm">source</a> | <a href="https://bedroomproducersblog.com/2026/09/17/elektron-gearmulator/#respond">discussion</a></small></p><hr/><p>Joe Landers has released Gearmulator MD / MM, a free and open-source software that emulates the Elektron Machinedrum and Monomachine. The application is compatible with macOS and Windows.</p><p>The tool allows users to experience the specific sequencing and sound design capabilities of these classic Elektron hardware units within a digital desktop environment.</p><p><img src="https://i.ytimg.com/vi/NmfE5xljYRU/hqdefault.jpg" /></p><hr/><small>18 Sep 2026, 04:39 UTC | #21528</small>]]></content>
-  </entry>
 </feed>
