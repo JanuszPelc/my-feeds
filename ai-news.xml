@@ -393,13 +393,4 @@
     <media:thumbnail url="https://s10251.pcdn.co/wp-content/uploads/2025/08/2025-Alan-D-Thompson-OpenAI-Models-Rev-1-1024x576.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://openai.com/index/astra-for-law">openai.com</a> | <a href="https://news.ycombinator.com/item?id=49745940">hacker news</a></small></p><hr/><p>OpenAI has launched Astra for Law, a specialized configuration of the GPT-6 Astra model designed for legal professional workflows. The system integrates a dedicated legal search index covering over 230 million URLs—including statutes, case law, and regulations—with custom instructions for legal analysis and writing.</p><p>Initially available to select law firms, the tool aims to assist with fact-finding and argument development. The system includes workflow tools and specialized plugins to facilitate the application of AI reasoning within legal practice.</p><p><img src="https://s10251.pcdn.co/wp-content/uploads/2025/08/2025-Alan-D-Thompson-OpenAI-Models-Rev-1-1024x576.png" /></p><hr/><small>18 Sep 2026, 04:13 UTC | #21489</small>]]></content>
   </entry>
-  <entry>
-    <title>PrismML Releases Ternary Bonsai 2 27B</title>
-    <link href="https://prismml.com/news/bonsai-2-27b" rel="alternate" />
-    <id>https://prismml.com/news/bonsai-2-27b::v239</id>
-    <published>2026-09-17T21:14:00+00:00</published>
-    <updated>2026-09-17T21:14:00+00:00</updated>
-    <media:thumbnail url="https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/6aac504ec0cef3807f35bcba_2%2027B%20ID.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://prismml.com/news/bonsai-2-27b">prismml.com</a> | <a href="https://news.ycombinator.com/item?id=49746618">hacker news</a></small></p><hr/><p>PrismML has released Ternary Bonsai 2 27B, a compressed multimodal model based on Qwen3.8 27B. Using ternary weights with FP16 scaling, the model achieves a 5.9GB footprint—approximately one-ninth the size of the full-precision version—while retaining 98.2% of the original's aggregate benchmark performance.</p><p>The model supports a 262K-token context window and multimodal text-and-image inputs. It is optimized for local deployment on NVIDIA GPUs and Apple devices, targeting high-throughput applications such as coding agents, private document analysis, and multimodal debugging.</p><p><img src="https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/6aac504ec0cef3807f35bcba_2%2027B%20ID.png" /></p><hr/><small>18 Sep 2026, 02:32 UTC | #21523</small>]]></content>
-  </entry>
 </feed>
