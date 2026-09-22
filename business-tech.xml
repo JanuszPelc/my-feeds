@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T22:34:00+00:00</updated>
+  <updated>2026-09-21T22:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Harvey and Other Startups Embrace Open-Weight Models to Reduce Reliance on Frontier Labs</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on-anthropic-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDAxMDkwMiwiZXhwIjoxNzkwNjE1NzAyLCJhcnRpY2xlSWQiOiJUTFEyMFpOM04wQTMwMCIsImJjb25uZWN0SWQiOiI5MDI3MkIwQzRFRjQ0MkUxOUZCQkFBRTdBODJGMjM3NSJ9.i7tIzBBJutWRddw95G5V52NMXfBwhYa2v52uZC8eJ-g" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on-anthropic-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDAxMDkwMiwiZXhwIjoxNzkwNjE1NzAyLCJhcnRpY2xlSWQiOiJUTFEyMFpOM04wQTMwMCIsImJjb25uZWN0SWQiOiI5MDI3MkIwQzRFRjQ0MkUxOUZCQkFBRTdBODJGMjM3NSJ9.i7tIzBBJutWRddw95G5V52NMXfBwhYa2v52uZC8eJ-g::v239</id>
+    <published>2026-09-21T22:37:00+00:00</published>
+    <updated>2026-09-21T22:37:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQbl_TgWwSQ6E2PjxHwIkaxd2tobkNnEuTaEmMzBh6s3u9AKiw04-4uLklfk4ffiqdjyCHDVjk9hxxX7PX1DuhSfdh9ctqJ39QnmlqQgTzXFoZrf9PKTAQ785Cmxo-Ek9SEnyo6HFROG4XhGmsjOYWma_SDhVFejU51e0pFyvQeqe1E8yFrL3ZgeGJHcjC/w1200-h630-p-k-no-nu/Open+Model+vs+Open+Weight+vs+Open+Source.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on-anthropic-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDAxMDkwMiwiZXhwIjoxNzkwNjE1NzAyLCJhcnRpY2xlSWQiOiJUTFEyMFpOM04wQTMwMCIsImJjb25uZWN0SWQiOiI5MDI3MkIwQzRFRjQ0MkUxOUZCQkFBRTdBODJGMjM3NSJ9.i7tIzBBJutWRddw95G5V52NMXfBwhYa2v52uZC8eJ-g">bloomberg.com</a></small></p><hr/><p>Startups including Harvey, Abridge, Ramp, and Rogo are increasingly adopting open-weight models or training proprietary versions to decrease dependence on expensive frontier labs like OpenAI and Anthropic. This shift aims to mitigate soaring AI costs while enabling more specialized model performance for specific industry needs.</p><p>The legal startup Harvey has already implemented this strategy with its Tenet model, which is based on Moonshot AI's Kimi K3. The model is designed to improve cost-efficiency and reasoning capabilities for complex, long-horizon legal tasks.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQbl_TgWwSQ6E2PjxHwIkaxd2tobkNnEuTaEmMzBh6s3u9AKiw04-4uLklfk4ffiqdjyCHDVjk9hxxX7PX1DuhSfdh9ctqJ39QnmlqQgTzXFoZrf9PKTAQ785Cmxo-Ek9SEnyo6HFROG4XhGmsjOYWma_SDhVFejU51e0pFyvQeqe1E8yFrL3ZgeGJHcjC/w1200-h630-p-k-no-nu/Open+Model+vs+Open+Weight+vs+Open+Source.png" /></p><hr/><small>22 Sep 2026, 03:57 UTC | #21894</small>]]></content>
+  </entry>
   <entry>
     <title>Gavin Newsom Signs Seven Bills Regulating California Data Centers</title>
     <link href="https://www.reuters.com/legal/litigation/california-governor-signs-broad-data-center-oversight-bill-package-2026-09-21/" rel="alternate" />
