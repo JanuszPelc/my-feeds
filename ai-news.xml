@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-22T03:31:00+00:00</updated>
+  <updated>2026-09-22T07:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Tencent Launches Hy Image 3.5 Preview</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-22/tencent-releases-ai-image-model-to-catch-bytedance-alibaba" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-22/tencent-releases-ai-image-model-to-catch-bytedance-alibaba::v239</id>
+    <published>2026-09-22T07:31:00+00:00</published>
+    <updated>2026-09-22T07:31:00+00:00</updated>
+    <media:thumbnail url="https://cms-image.pandaily.com/1/article1_69f026a363.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-22/tencent-releases-ai-image-model-to-catch-bytedance-alibaba">bloomberg.com</a></small></p><hr/><p>Tencent has released its Hy Image 3.5 Preview model, an image-generation tool aimed at competing with ByteDance’s Seedream 5.0 Pro and Alibaba. Internal testing indicates the model's performance is on par with ByteDance's Seedream 5.0 Pro.</p><p>The model supports text-to-image and image-to-image generation, allows for up to 20 reference images, and supports 4K resolution output. It is being integrated across Tencent products, including the Yuanbao chatbot and various design and film-editing tools.</p><p><img src="https://cms-image.pandaily.com/1/article1_69f026a363.png" /></p><hr/><small>22 Sep 2026, 11:44 UTC | #21914</small>]]></content>
+  </entry>
   <entry>
     <title>Alibaba Plans 5 Trillion to 10 Trillion Parameter AI Model and New Chip</title>
     <link href="https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/" rel="alternate" />

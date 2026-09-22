@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T07:29:00+00:00</updated>
+  <updated>2026-09-22T07:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Linear Optimizes CI Pipeline to Scale with AI-Driven Development</title>
+    <link href="https://linear.app/now/ci-bottleneck-reworked" rel="alternate" />
+    <id>https://linear.app/now/ci-bottleneck-reworked::v239</id>
+    <published>2026-09-22T07:32:00+00:00</published>
+    <updated>2026-09-22T07:32:00+00:00</updated>
+    <media:thumbnail url="https://images.tely.ai/telyai/dccghfwq-the-central-node-represents-azure-dev-ops-while-the-branches-show-its-key-features-and-tools-each-branch-highlights-how-these-components-contribute-to-improving-team-efficiency-and-productivity.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://linear.app/now/ci-bottleneck-reworked">linear.app</a> | <a href="https://news.ycombinator.com/item?id=49792067">hacker news</a></small></p><hr/><p>Linear overhauled its Continuous Integration (CI) infrastructure to address bottlenecks caused by a massive increase in code volume from AI-driven development. By optimizing the system, the company reduced pull request wait times from over six minutes to roughly five minutes and halved the machine time required per test, even as their test suite quadrupled.</p><p>Key optimizations included migrating to faster third-party runners, streamlining change-detection jobs, and reducing redundant dependency installations. The company also achieved significant gains through Vitest module state caching, which allowed for more efficient test execution by reducing redundant module registry rebuilds.</p><p><img src="https://images.tely.ai/telyai/dccghfwq-the-central-node-represents-azure-dev-ops-while-the-branches-show-its-key-features-and-tools-each-branch-highlights-how-these-components-contribute-to-improving-team-efficiency-and-productivity.webp" /></p><hr/><small>22 Sep 2026, 11:47 UTC | #21941</small>]]></content>
+  </entry>
   <entry>
     <title>The Origin of Java's 0xCAFEBABE Magic Number</title>
     <link href="https://www.artima.com/insidejvm/whyCAFEBABE.html" rel="alternate" />
