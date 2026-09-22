@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-22T16:34:00+00:00</updated>
+  <updated>2026-09-22T16:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>China Investigates DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic</title>
+    <link href="https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic" rel="alternate" />
+    <id>https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic::v239</id>
+    <published>2026-09-22T16:38:00+00:00</published>
+    <updated>2026-09-22T16:38:00+00:00</updated>
+    <media:thumbnail url="https://apicms.thestar.com.my/uploads/images/2026/01/27/3741229.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic">theinformation.com</a></small></p><hr/><p>China's Cyberspace Administration is investigating AI companies DeepSeek and Moonshot AI following allegations that they leaked sensitive user data to Anthropic. Anthropic claims these companies have been routing customer prompts through its Claude models to harvest reasoning traces for training their own artificial intelligence models.</p><p>The investigation reportedly includes questioning staff at the affected companies. The data being funneled through Claude allegedly includes highly sensitive information, such as military and defense-related credentials, highlighting intensifying scrutiny over data security and intellectual property in the global AI sector.</p><p><img src="https://apicms.thestar.com.my/uploads/images/2026/01/27/3741229.jpg" /></p><hr/><small>22 Sep 2026, 18:53 UTC | #21942</small>]]></content>
+  </entry>
   <entry>
     <title>Data &amp; Society Report Explores Drivers of Data Center Construction Opposition</title>
     <link href="https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/" rel="alternate" />
