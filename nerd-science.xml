@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-21T17:02:00+00:00</updated>
+  <updated>2026-09-21T22:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Colin Breck Critiques the Proliferation of AI-Generated Writing</title>
+    <link href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/" rel="alternate" />
+    <id>https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/::v239</id>
+    <published>2026-09-21T22:31:00+00:00</published>
+    <updated>2026-09-21T22:31:00+00:00</updated>
+    <media:thumbnail url="https://storage.ghost.io/c/d3/13/d313bae5-6633-4ef2-8565-d9e72c1a5da1/content/images/size/w2000/2026/09/i-dont-want-to-read-what-you-didnt-write.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/">blog.colinbreck.com</a> | <a href="https://news.ycombinator.com/item?id=49794330">hacker news</a></small></p><hr/><p>Colin Breck argues that using AI to generate professional and personal communication—such as design documents, pull request summaries, and personal messages—often results in unreadable, context-less text that fails to engage readers. He contends that while AI can be a powerful tool for technical tasks like fact-checking and citation, using it to replace the act of thinking and writing strips communication of the nuance and vulnerability essential for human connection.</p><p>The essay highlights a "context gap" where the prompter understands the output's intent, but the recipient is left to parse machine-generated summaries without background knowledge. Referencing research on reader aversion to AI-written content, Breck suggests that as AI usage increases, the ability to write with a distinct, idiosyncratic human voice will become a vital asset in maintaining meaningful discourse and intellectual depth.</p><p><img src="https://storage.ghost.io/c/d3/13/d313bae5-6633-4ef2-8565-d9e72c1a5da1/content/images/size/w2000/2026/09/i-dont-want-to-read-what-you-didnt-write.jpg" /></p><hr/><small>22 Sep 2026, 01:56 UTC | #21908</small>]]></content>
+  </entry>
   <entry>
     <title>Distinguishing Relation Algebra from Relational Algebra</title>
     <link href="https://remy.wang/blog/ra-ra.html" rel="alternate" />

@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-21T20:35:00+00:00</updated>
+  <updated>2026-09-21T20:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Leit Audio Releases UnClip Audio Restoration Plugin</title>
+    <link href="https://www.kvraudio.com/news/leit-audio-releases-unclip---free-automatic-clipping-restoration-plugin-vst3-and-au-68669?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68669" rel="alternate" />
+    <id>https://www.kvraudio.com/news/leit-audio-releases-unclip---free-automatic-clipping-restoration-plugin-vst3-and-au-68669?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68669::v239</id>
+    <published>2026-09-21T20:49:00+00:00</published>
+    <updated>2026-09-21T20:49:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/unclip-banner-m.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/leit-audio-releases-unclip---free-automatic-clipping-restoration-plugin-vst3-and-au-68669?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68669">kvraudio.com</a> | <a href="https://leitaudio.com/unclip">source</a></small></p><hr/><p>Leit Audio has released UnClip, a free automatic restoration plugin available in VST3 and AU formats. The tool reconstructs waveform segments damaged by hard digital clipping by analyzing the context of the surrounding clean audio to create a plausible continuation of the signal.</p><p>The plugin can identify clipping patterns even in audio that has been subsequently attenuated. It features a single output control for up to 24 dB of attenuation and supports mono and stereo operation with latency-matched bypass.</p><p><img src="https://static.kvraudio.com/i/b/unclip-banner-m.png" /></p><hr/><small>22 Sep 2026, 01:53 UTC | #21891</small>]]></content>
+  </entry>
+  <entry>
+    <title>SillyDevices Releases Digitron Modular Synthesizer for iOS</title>
+    <link href="https://www.kvraudio.com/news/sillydevices-releases-digitron-modular-synthesizer-for-ios-with-auv3-midi-and-pocket-operator-sync-68638?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68638" rel="alternate" />
+    <id>https://www.kvraudio.com/news/sillydevices-releases-digitron-modular-synthesizer-for-ios-with-auv3-midi-and-pocket-operator-sync-68638?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68638::v239</id>
+    <published>2026-09-21T20:48:00+00:00</published>
+    <updated>2026-09-21T20:48:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/2.1789459772.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/sillydevices-releases-digitron-modular-synthesizer-for-ios-with-auv3-midi-and-pocket-operator-sync-68638?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68638">kvraudio.com</a> | <a href="https://digitron.cc/">source</a></small></p><hr/><p>SillyDevices has released Digitron, a virtual analog and modular synthesizer, for iOS. The application features modular-style patching and an 8-track sequencer designed to synchronize with Teenage Engineering Pocket Operator hardware. It includes 16-step sequencing with parameter locks, pattern chaining, and per-step control over pitch, velocity, gate length, and probability.</p><p>The app supports Audio Unit v3 (AUv3) for integration within other iOS music production applications and includes MIDI support for external keyboards and controllers. Additional features include track and master effects, XY controls, a mixer, and a built-in audio recorder and editor. Digitron is available as a free download, with a $10 Pro version available on the App Store and Google Play.</p><p><img src="https://static.kvraudio.com/i/b/2.1789459772.jpg" /></p><hr/><small>22 Sep 2026, 01:51 UTC | #21892</small>]]></content>
+  </entry>
   <entry>
     <title>AudioPrism 2.0 Features Offline GPU Stem Separation and Piano Training</title>
     <link href="https://www.kvraudio.com/news/audioprism-launches-on-kvr-marketplace-offline-gpu-stem-separation-midi-export-and-the-keyprism-piano-trainer-68676?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68676" rel="alternate" />
