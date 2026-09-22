@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T18:30:00+00:00</updated>
+  <updated>2026-09-22T19:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Viability of Using Stock macOS UI</title>
+    <link href="https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html" rel="alternate" />
+    <id>https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html::v239</id>
+    <published>2026-09-22T19:31:00+00:00</published>
+    <updated>2026-09-22T19:31:00+00:00</updated>
+    <media:thumbnail url="https://b3133761.smushcdn.com/3133761/wp-content/uploads/2025/06/macos-26-liquid-glass-1-1024x576.webp?lossy=1&amp;strip=1&amp;webp=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html">inessential.com</a> | <a href="https://lobste.rs/s/vvg9ue/about_wraps_it_up_for_stock_mac_ui">discussion</a></small></p><hr/><p>The traditional arguments for using stock macOS UI—user familiarity and reduced developer effort—are losing their effectiveness. Many successful applications now utilize custom interfaces to achieve specific design goals, and implementing recent macOS updates like "Liquid Glass" can actually increase the workload for developers who adhere strictly to system components.</p><p>Users appear largely indifferent to whether an app's interface is stock or custom, prioritizing application functionality over design consistency with the operating system. This shift suggests that as Apple's design direction evolves, developers may find more efficiency and aesthetic success by opting for custom UI solutions rather than strictly following standard system guidelines.</p><p><img src="https://b3133761.smushcdn.com/3133761/wp-content/uploads/2025/06/macos-26-liquid-glass-1-1024x576.webp?lossy=1&strip=1&webp=1" /></p><hr/><small>22 Sep 2026, 22:45 UTC | #22021</small>]]></content>
+  </entry>
   <entry>
     <title>Unsloth Adds Qwen-Image-2.1 Support and Custom Agent Skills</title>
     <link href="https://unsloth.ai/docs/new/changelog#qwen-image-2.1--skills" rel="alternate" />

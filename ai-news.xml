@@ -384,13 +384,4 @@
     <media:thumbnail url="https://pasqualepillitteri.it/uploads/img/news/claude-code-desktop-redesign-parallel-agents.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://claude.com/blog/projects-redesigned">claude.com</a></small></p><hr/><p>Anthropic is redesigning its "Projects" feature to support agentic workflows through a conversation-based interface. The new system uses a central coordinator to manage multiple parallel threads, which are individual Claude Code cloud sessions, allowing the AI to scope complex requests, delegate subtasks, and automate technical workflows such as running tests and opening pull requests.</p><p>Projects now feature a shared memory layer that retains context, decisions, and communication styles across all project threads to reduce the need for manual prompting. The update is currently in beta for select Claude Pro and Max subscribers using cloud sessions in Claude Code, with a planned rollout to all Claude, Team, and Enterprise plans. Local execution for projects is expected to be released in a future update.</p><p><img src="https://pasqualepillitteri.it/uploads/img/news/claude-code-desktop-redesign-parallel-agents.png" /></p><hr/><small>18 Sep 2026, 05:23 UTC | #21494</small>]]></content>
   </entry>
-  <entry>
-    <title>OpenAI Launches Astra for Law</title>
-    <link href="https://openai.com/index/astra-for-law" rel="alternate" />
-    <id>https://openai.com/index/astra-for-law::v239</id>
-    <published>2026-09-17T22:37:00+00:00</published>
-    <updated>2026-09-17T22:37:00+00:00</updated>
-    <media:thumbnail url="https://s10251.pcdn.co/wp-content/uploads/2025/08/2025-Alan-D-Thompson-OpenAI-Models-Rev-1-1024x576.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://openai.com/index/astra-for-law">openai.com</a> | <a href="https://news.ycombinator.com/item?id=49745940">hacker news</a></small></p><hr/><p>OpenAI has launched Astra for Law, a specialized configuration of the GPT-6 Astra model designed for legal professional workflows. The system integrates a dedicated legal search index covering over 230 million URLs—including statutes, case law, and regulations—with custom instructions for legal analysis and writing.</p><p>Initially available to select law firms, the tool aims to assist with fact-finding and argument development. The system includes workflow tools and specialized plugins to facilitate the application of AI reasoning within legal practice.</p><p><img src="https://s10251.pcdn.co/wp-content/uploads/2025/08/2025-Alan-D-Thompson-OpenAI-Models-Rev-1-1024x576.png" /></p><hr/><small>18 Sep 2026, 04:13 UTC | #21489</small>]]></content>
-  </entry>
 </feed>
