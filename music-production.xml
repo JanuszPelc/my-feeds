@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-22T08:01:00+00:00</updated>
+  <updated>2026-09-22T12:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>ToneCraft Releases AI Guitar Multi-Effects Plugin</title>
+    <link href="https://www.kvraudio.com/news/tonecraft-releases-ai-guitar-multi-effects-plugin-for-windows-and-macos-vst3-and-au-68682?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68682" rel="alternate" />
+    <id>https://www.kvraudio.com/news/tonecraft-releases-ai-guitar-multi-effects-plugin-for-windows-and-macos-vst3-and-au-68682?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68682::v239</id>
+    <published>2026-09-22T12:16:00+00:00</published>
+    <updated>2026-09-22T12:16:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/tonecraft_plugin_kvr_256c.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/tonecraft-releases-ai-guitar-multi-effects-plugin-for-windows-and-macos-vst3-and-au-68682?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68682">kvraudio.com</a> | <a href="https://www.tonecraft.tech/">source</a></small></p><hr/><p>ToneCraft has released version 1.0.5 of its AI-powered guitar multi-effects plugin for Windows and macOS. The software incorporates overdrive, distortion, EQ, chorus, delay, and reverb, alongside AI-driven tools for tone generation.</p><p>Users can generate editable settings through "Text to Tone" using natural language descriptions or via "Audio to Tone" by uploading reference guitar stems. The plugin is available in VST3 and AU formats and requires a free ToneCraft account to download and use.</p><p><img src="https://static.kvraudio.com/i/b/tonecraft_plugin_kvr_256c.png" /></p><hr/><small>22 Sep 2026, 15:10 UTC | #21937</small>]]></content>
+  </entry>
+  <entry>
+    <title>VNL Works Updates YeetzMeter to v1.3.2</title>
+    <link href="https://www.kvraudio.com/news/vnl-works-updates-yeetzmeter-free-stereo-waveform-and-peak-meter-to-v1-3-2-68681?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68681" rel="alternate" />
+    <id>https://www.kvraudio.com/news/vnl-works-updates-yeetzmeter-free-stereo-waveform-and-peak-meter-to-v1-3-2-68681?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68681::v239</id>
+    <published>2026-09-22T12:15:00+00:00</published>
+    <updated>2026-09-22T12:15:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/yeetzmeter-interface.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/vnl-works-updates-yeetzmeter-free-stereo-waveform-and-peak-meter-to-v1-3-2-68681?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68681">kvraudio.com</a> | <a href="https://vnlaccount.gumroad.com/l/yeetzmeter">source</a></small></p><hr/><p>The YeetzMeter VST3 plugin has been updated to version 1.3.2, providing a free stereo waveform visualizer and input peak meter for macOS and Windows. The tool is intended for use on tracks, buses, and master channels to monitor rhythm, frequency balance, and peaks.</p><p>New features include DAW-synced waveform displays with 4, 8, 16, and 32-beat views, a click-to-pause waveform inspection mode, and an independent sample-peak meter with a level scale extending to +6 dBFS. The plugin operates with zero added audio latency and does not require an activation key.</p><p><img src="https://static.kvraudio.com/i/b/yeetzmeter-interface.png" /></p><hr/><small>22 Sep 2026, 15:09 UTC | #21938</small>]]></content>
+  </entry>
   <entry>
     <title>UNIIQU3 Discusses Debut Album and Jersey Club Origins on My Forever Studio Podcast</title>
     <link href="https://musictech.com/shows/podcasts/my-forever-studio/uniiqu3/" rel="alternate" />
