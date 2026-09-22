@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-22T14:39:00+00:00</updated>
+  <updated>2026-09-22T18:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Xbox Lays Off 268 Employees and Divests Undead Labs</title>
+    <link href="https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment::v239</id>
+    <published>2026-09-22T18:06:00+00:00</published>
+    <updated>2026-09-22T18:06:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA221TsB.img?w=768&amp;h=432&amp;m=6" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment">gamedeveloper.com</a> | <a href="https://news.xbox.com/en-us/2026/09/22/continuing-our-reset/">source</a> | <a href="https://news.ycombinator.com/item?id=49801799">hacker news</a></small></p><hr/><p>Xbox has laid off 268 employees across Halo Studios, first-party teams, and management as part of a restructuring aimed at cutting 3,200 roles. Undead Labs has transitioned out of the Xbox ecosystem to a new publisher, though State of Decay 3 is slated to release on Game Pass.</p><p>The reorganization includes shifting the next Halo title's development to Activision, housing Obsidian under Bethesda, and merging Playground Games with Turn 10. Concurrently, Ninja Theory is facing potential closure following failed agreements, while Xbox remains in consultation regarding the future of Arkane.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA221TsB.img?w=768&h=432&m=6" /></p><hr/><small>22 Sep 2026, 19:48 UTC | #21969</small>]]></content>
+  </entry>
   <entry>
     <title>Rockstar Games Issues Updated Modding Guidelines Ahead of Grand Theft Auto VI Release</title>
     <link href="https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down" rel="alternate" />

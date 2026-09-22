@@ -3,9 +3,35 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T12:21:00+00:00</updated>
+  <updated>2026-09-22T18:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Programming Language Design Recommendations</title>
+    <link href="https://blog.veritates.love/design-it-right" rel="alternate" />
+    <id>https://blog.veritates.love/design-it-right::v239</id>
+    <published>2026-09-22T18:08:00+00:00</published>
+    <updated>2026-09-22T18:08:00+00:00</updated>
+    <media:thumbnail url="https://resources.jetbrains.com/help/img/idea/2025.1/go_show_documentation_in_parameter_info_on.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.veritates.love/design-it-right">blog.veritates.love</a> | <a href="https://lobste.rs/s/fdgccx/design_your_programming_languages_right">discussion</a></small></p><hr/><p>Designing new programming languages requires addressing specific usability and ecosystem compatibility concerns. Key recommendations include implementing indented multiline strings, ensuring predictable relative file paths, and adopting recognizable file extensions to assist IDE syntax highlighting. The author also suggests supporting trailing commas and using sigils for keywords to facilitate extensible syntax.</p><p>Additional complexities involve managing code consistency across software versions, distinguishing between development and production environments, and providing built-in file-watching for build systems. Proactively addressing these structural and tooling requirements can prevent long-term technical debt and improve integration with developer-focused utilities like search and debugging tools.</p><p><img src="https://resources.jetbrains.com/help/img/idea/2025.1/go_show_documentation_in_parameter_info_on.png" /></p><hr/><small>22 Sep 2026, 19:53 UTC | #21997</small>]]></content>
+  </entry>
+  <entry>
+    <title>Aaron Edsinger to Demo Hello Robot's Stretch 4 at TechCrunch Disrupt 2026</title>
+    <link href="https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/::v239</id>
+    <published>2026-09-22T18:07:00+00:00</published>
+    <updated>2026-09-22T18:07:00+00:00</updated>
+    <media:thumbnail url="https://images.squarespace-cdn.com/content/v1/65789f5bc31b3c64091939a3/ef88e444-d6d4-43e6-bb11-74bea220362e/SE3+Purchase+Page+(8).jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/">techcrunch.com</a> | <a href="https://hello-robot.com/stretch-4/">source</a></small></p><hr/><p>Hello Robot CEO Aaron Edsinger will perform a live demonstration of the Stretch 4 home-assistance robot during TechCrunch Disrupt 2026. The session on the Real World AI Stage will showcase the robot's ability to navigate human environments and perform practical tasks, such as assisting individuals with mobility impairments.</p><p>The Stretch 4 is a compact, wheeled robot featuring a telescoping arm and sensors designed for safe human-robot interaction. While much of the robotics industry focuses on humanoid models, Hello Robot emphasizes practical utility; the company has already reported that the first production run of the Stretch 4 is sold out.</p><p><img src="https://images.squarespace-cdn.com/content/v1/65789f5bc31b3c64091939a3/ef88e444-d6d4-43e6-bb11-74bea220362e/SE3+Purchase+Page+(8).jpg" /></p><hr/><small>22 Sep 2026, 19:50 UTC | #21968</small>]]></content>
+  </entry>
+  <entry>
+    <title>Cisco Talos Releases CAIRN Framework to Track AI-Integrated Malware</title>
+    <link href="https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/" rel="alternate" />
+    <id>https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/::v239</id>
+    <published>2026-09-22T18:03:00+00:00</published>
+    <updated>2026-09-22T18:03:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/">wired.com</a> | <a href="https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/">source</a></small></p><hr/><p>Cisco Talos researchers have released CAIRN, an open-source framework designed to classify and track malware that integrates large language models (LLMs). The tool identifies specific AI-driven signatures, allowing security professionals to map connections between different malware families. Using CAIRN, researchers identified CLOSEDQUORUM, a Windows-based malware that operates with a fully autonomous command-and-control system by polling multiple LLMs—including DeepSeek, Qwen, Mistral, and Google Gemini—to reach a consensus on its next actions.</p><p>This discovery highlights a shift toward operationalized AI in cyberattacks, where malware can function without human input by leveraging the intelligence of backend AI services. While previous examples like LAMEHUG demonstrated AI-driven commands, CLOSEDQUORUM represents a more advanced stage of autonomy. The ability to track these "AI fingerprints" provides a critical early signal for defenders as attackers move toward increasingly complex and diverse automated campaigns.</p><hr/><small>22 Sep 2026, 19:42 UTC | #21948</small>]]></content>
+  </entry>
   <entry>
     <title>Cloudflare Python Workers Reach General Availability</title>
     <link href="https://blog.cloudflare.com/python-workers-ga/" rel="alternate" />

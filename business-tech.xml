@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-22T16:42:00+00:00</updated>
+  <updated>2026-09-22T18:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>TechCrunch Disrupt 2026 Reopens Exhibitor Bookings</title>
+    <link href="https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/::v239</id>
+    <published>2026-09-22T18:05:00+00:00</published>
+    <updated>2026-09-22T18:05:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/48843734913_c4bf4836ee_k.jpg?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/">techcrunch.com</a> | <a href="https://techcrunch.com/events/techcrunch-disrupt/exhibit/">source</a></small></p><hr/><p>TechCrunch Disrupt 2026 has reopened its exhibitor program, providing startups a final opportunity to secure exhibit tables in the Expo Hall. The deadline for bookings is September 30 at 11:59 p.m. PT.</p><p>The event will take place October 13-15 at Moscone West in San Francisco, attracting an audience of over 10,000 founders, investors, and tech leaders. The $12,500 exhibit package includes a branded table, 10 team passes, and access to lead-generation tools via the event's mobile app.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/48843734913_c4bf4836ee_k.jpg?w=680" /></p><hr/><small>22 Sep 2026, 19:46 UTC | #21963</small>]]></content>
+  </entry>
+  <entry>
+    <title>Cognex to Acquire RealSense for $600 Million</title>
+    <link href="https://www.calcalistech.com/ctechnews/article/s1tqir19fl" rel="alternate" />
+    <id>https://www.calcalistech.com/ctechnews/article/s1tqir19fl::v239</id>
+    <published>2026-09-22T18:02:00+00:00</published>
+    <updated>2026-09-22T18:02:00+00:00</updated>
+    <media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/ryHBn3k5fe/ryHBn3k5fe_0_0_1600_1200_0_x-large.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.calcalistech.com/ctechnews/article/s1tqir19fl">calcalistech.com</a> | <a href="https://investor.cognex.com/news/news-details/2026/Cognex-to-Acquire-RealSense-Expanding-Machine-Vision-Leadership-into-High-Growth-Robotic-Perception-Market/default.aspx">source</a></small></p><hr/><p>The robotics and computer vision company RealSense, a spin-off from Intel, is being acquired by Cognex in a deal valued at approximately $600 million. The transaction includes $500 million in cash and significant employee retention incentives. This move aims to integrate RealSense's 3D depth-sensing technology into Cognex's product suite to target the growing robotic perception and Physical AI markets.</p><p>The acquisition, expected to close in the fourth quarter of 2026, will establish RealSense’s Israeli operations as a Cognex development center. As part of the transaction, RealSense's facial authentication business will be spun off into a separate, independent entity before the deal is finalized.</p><p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/22/ryHBn3k5fe/ryHBn3k5fe_0_0_1600_1200_0_x-large.jpg" /></p><hr/><small>22 Sep 2026, 19:40 UTC | #21944</small>]]></content>
+  </entry>
   <entry>
     <title>DoorDash to Pay $131.5 Million to Settle NYC Driver Pay Investigation</title>
     <link href="https://www.wsj.com/business/doordash-to-pay-131-5-million-to-resolve-nyc-investigation-into-minimum-pay-law-compliance-8237c60e?st=Du3Cyn&amp;reflink=desktopwebshare_permalink" rel="alternate" />
