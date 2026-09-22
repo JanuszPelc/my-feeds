@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-21T19:01:00+00:00</updated>
+  <updated>2026-09-21T20:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Bungie Outlines Plans to Restore Vaulted Destiny 2 Content and Continue Destiny Development</title>
+    <link href="https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future" rel="alternate" />
+    <id>https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future::v239</id>
+    <published>2026-09-21T20:31:00+00:00</published>
+    <updated>2026-09-21T20:31:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt15d6933a15a9ff6a/66aa5be1739577a06419fddc/Destiny_Header.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future">gamedeveloper.com</a> | <a href="https://www.bungie.net/7/en/News/Article/nextchapterofbungie">source</a></small></p><hr/><p>The studio is returning to active development on the Destiny franchise and plans to make previously removed content playable again in Destiny 2. This decision follows a previous announcement that active development for the title would conclude in June 2026.</p><p>This strategy aims to rebuild player trust following significant layoffs and organizational restructuring. Additionally, Bungie intends to evolve the direction of its upcoming title, Marathon, by emphasizing combat and player agency.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt15d6933a15a9ff6a/66aa5be1739577a06419fddc/Destiny_Header.png?width=720&quality=80&disable=upscale" /></p><hr/><small>22 Sep 2026, 01:38 UTC | #21890</small>]]></content>
+  </entry>
   <entry>
     <title>Marvel's Wolverine Allegedly Censored for LGBTQ+ Content in Certain Regions</title>
     <link href="https://www.gamedeveloper.com/console/sony-appears-to-censor-lgbtq-content-marvel-s-wolverine-for-some-regions" rel="alternate" />
