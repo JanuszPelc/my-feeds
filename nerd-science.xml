@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-21T22:31:00+00:00</updated>
+  <updated>2026-09-22T12:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>AI Usage Impacts Software Maintainability and Developer Mastery</title>
+    <link href="https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/" rel="alternate" />
+    <id>https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/::v239</id>
+    <published>2026-09-22T12:12:00+00:00</published>
+    <updated>2026-09-22T12:12:00+00:00</updated>
+    <media:thumbnail url="https://www.qodo.ai/wp-content/uploads/2025/11/image1-1.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/">alexn.org</a> | <a href="https://news.ycombinator.com/item?id=49799965">hacker news</a></small></p><hr/><p>Reliance on AI for coding tasks poses long-term risks to software maintainability and developer expertise. Because current models lack the feedback loops necessary to understand architectural consequences, they struggle to produce truly reusable or clarifying code. This delegation of responsibility prevents developers from learning from errors, which is essential for achieving professional mastery.</p><p>Large language models currently struggle with the nuanced art of functional abstraction, often resulting in code that is difficult to understand or evolve. The author predicts a future where companies may adopt "NO-AI" policies as a competitive advantage to ensure higher code quality and avoid the accumulation of technical debt in AI-generated projects.</p><p><img src="https://www.qodo.ai/wp-content/uploads/2025/11/image1-1.png" /></p><hr/><small>22 Sep 2026, 14:48 UTC | #21967</small>]]></content>
+  </entry>
   <entry>
     <title>Colin Breck Critiques the Proliferation of AI-Generated Writing</title>
     <link href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/" rel="alternate" />
