@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T23:49:00+00:00</updated>
+  <updated>2026-09-22T07:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple Seeks OpenAI Hardware R&amp;D Access and Forensic Review in Trade Secret Case</title>
+    <link href="https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/" rel="alternate" />
+    <id>https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/::v239</id>
+    <published>2026-09-22T07:33:00+00:00</published>
+    <updated>2026-09-22T07:33:00+00:00</updated>
+    <media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&amp;strip=all&amp;w=1600" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/">9to5mac.com</a></small></p><hr/><p>Apple has requested court permission to have its own experts review forensic images and access OpenAI’s hardware research and development documents in an ongoing trade secret misappropriation lawsuit. The company alleges critical flaws in existing forensic analyses and seeks documentation on OpenAI's battery, power management, and metal finish development to verify claims of independent innovation.</p><p>OpenAI has opposed these requests, characterizing them as overbroad attempts to "snoop on a competitor." The legal dispute stems from allegations that former Apple employees misappropriated confidential information, such as circuit schematics, during their transition to OpenAI.</p><p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&w=1600" /></p><hr/><small>22 Sep 2026, 12:01 UTC | #21915</small>]]></content>
+  </entry>
   <entry>
     <title>British Columbia Sues OpenAI Over Mass Shooting Safety Allegations</title>
     <link href="https://www.wsj.com/tech/ai/british-columbia-sues-openai-alleging-chatgpt-aided-mass-school-shooting-aac66568" rel="alternate" />
