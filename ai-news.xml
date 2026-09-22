@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-21T23:56:00+00:00</updated>
+  <updated>2026-09-22T00:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Shopify to Enable Meta's Muse AI Agent to Complete Purchases via Shop Pay</title>
+    <link href="https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0?st=eNbeXX&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0?st=eNbeXX&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-09-22T00:02:00+00:00</published>
+    <updated>2026-09-22T00:02:00+00:00</updated>
+    <media:thumbnail url="https://cdn.shopify.com/b/shopify-brochure2-assets/aeb59a2199908ace79abbe7da910d166.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0?st=eNbeXX&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">source</a></small></p><hr/><p>Shopify plans to integrate Meta's personal AI agent, Muse, with its Shop Pay one-tap checkout service. This integration will allow the AI agent to complete purchases on behalf of users at Shopify-powered stores.</p><p>The collaboration enables Muse to transition from a product discovery assistant to a transactional agent capable of managing payments. This development is part of a broader shift toward "agentic" commerce, where AI agents are integrated into e-commerce platforms to execute end-to-end transactions.</p><p><img src="https://cdn.shopify.com/b/shopify-brochure2-assets/aeb59a2199908ace79abbe7da910d166.png" /></p><hr/><small>22 Sep 2026, 08:54 UTC | #21928</small>]]></content>
+  </entry>
   <entry>
     <title>Shopify to Integrate Meta's Muse for AI-Driven Checkout</title>
     <link href="https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0" rel="alternate" />
