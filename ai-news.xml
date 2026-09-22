@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-22T18:01:00+00:00</updated>
+  <updated>2026-09-22T18:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>AstroForge Developing AI Control Stack for Autonomous Spacecraft</title>
+    <link href="https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/::v239</id>
+    <published>2026-09-22T18:16:00+00:00</published>
+    <updated>2026-09-22T18:16:00+00:00</updated>
+    <media:thumbnail url="https://htek.dev/images/articles/7-layer-ai-governance-stack/hero-og.webp" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/">techcrunch.com</a> | <a href="https://www.astroforge.com/solo">source</a></small></p><hr/><p>AstroForge is developing "Solo," a transformer-based AI control stack designed to enable autonomous operation for its asteroid mining spacecraft. The system aims to allow vehicles to independently resolve technical anomalies and manage flight tasks, addressing communication latency and the high costs associated with maintaining global ground-based antenna networks.</p><p>The company intends to run Solo in "shadow mode" aboard its DeepSpace-2 vehicle in late 2026 to validate its performance before a full deployment. A dedicated mission, Autonomy-1, is scheduled for 2027 on a Stoke Space launch vehicle and is expected to support NASA-backed scientific observations.</p><p><img src="https://htek.dev/images/articles/7-layer-ai-governance-stack/hero-og.webp" /></p><hr/><small>22 Sep 2026, 20:28 UTC | #21973</small>]]></content>
+  </entry>
+  <entry>
+    <title>Intrinsic Open-Sources Intrinsic Core Robotics Infrastructure</title>
+    <link href="https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/" rel="alternate" />
+    <id>https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/::v239</id>
+    <published>2026-09-22T18:11:00+00:00</published>
+    <updated>2026-09-22T18:11:00+00:00</updated>
+    <media:thumbnail url="https://www.therobotreport.com/wp-content/uploads/2026/06/intrinsic-featured.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/">siliconangle.com</a> | <a href="https://www.intrinsic.ai/blog/posts/introducing-intrinsic-core">source</a></small></p><hr/><p>Alphabet’s robotics unit has released the core components of its industrial robotics platform, Intrinsic Core, under an Apache 2.0 license. Announced at ROSCon 2026, the software provides a ROS-compatible environment with modular capabilities for real-time control, pose estimation, motion planning, and grasp planning to support physical AI development.</p><p>The release aims to lower technical barriers by providing a reusable foundational software layer, allowing developers to avoid rebuilding control systems for each new machine. The company also introduced the Open Machine Tending Solution, a customizable reference design for automating CNC machine tending intended to help smaller fabricators adopt automation.</p><p><img src="https://www.therobotreport.com/wp-content/uploads/2026/06/intrinsic-featured.jpg" /></p><hr/><small>22 Sep 2026, 20:17 UTC | #21953</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Introduces GPT-6 Sol and Luna Models</title>
     <link href="https://openai.com/index/introducing-gpt-6-sol-and-luna/" rel="alternate" />
