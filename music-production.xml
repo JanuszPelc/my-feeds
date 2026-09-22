@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-22T18:14:00+00:00</updated>
+  <updated>2026-09-22T18:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Nikolozi Updates Mela to v7.15 for macOS and iOS</title>
+    <link href="https://www.kvraudio.com/news/nikolozi-updates-mela-to-v7-15-for-macos-and-ios-68689?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68689" rel="alternate" />
+    <id>https://www.kvraudio.com/news/nikolozi-updates-mela-to-v7-15-for-macos-and-ios-68689?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68689::v239</id>
+    <published>2026-09-22T18:28:00+00:00</published>
+    <updated>2026-09-22T18:28:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/mela_715_promo_image.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/nikolozi-updates-mela-to-v7-15-for-macos-and-ios-68689?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68689">kvraudio.com</a> | <a href="https://nikolozi.com/mela/changelog/7.15/">source</a></small></p><hr/><p>Nikolozi has released version 7.15 of Mela, a modular AUv3 plug-in for iOS and macOS. The update introduces the Time Scrub module, an audio delay that allows users to jump to any point within a tempo-synced buffer using a Position parameter. This functionality enables playback speed manipulation, including slowing, speeding up, or reversing audio.</p><p>Additional refinements include improvements to the Musical Keyboard, enhanced modulation accuracy for Mod Steps, and the transition of the Pitch-to-Amp and Matrix modules from the "Mela Lab" section to the main Audio Processor and Signal Router categories. The release also adds new factory patches, such as "Time Origami" and "Tape Stop," to demonstrate the capabilities of the new module.</p><p><img src="https://static.kvraudio.com/i/b/mela_715_promo_image.png" /></p><hr/><small>22 Sep 2026, 21:42 UTC | #21995</small>]]></content>
+  </entry>
   <entry>
     <title>TMPLT Sounds Offers Free Drum Sample Packs</title>
     <link href="https://bedroomproducersblog.com/2026/09/22/tmplt-sounds-drum-packs/" rel="alternate" />

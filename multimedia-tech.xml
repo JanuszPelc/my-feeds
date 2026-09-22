@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-22T18:21:00+00:00</updated>
+  <updated>2026-09-22T18:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Battlestate Games Launches Publishing Arm for Niche and Hardcore Games</title>
+    <link href="https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm::v239</id>
+    <published>2026-09-22T18:26:00+00:00</published>
+    <updated>2026-09-22T18:26:00+00:00</updated>
+    <media:thumbnail url="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/escape-from-tarkov-roadmap-developer-interview-high-ready-low-ready-stance-tactical-extraction-fps-1140x641.jpg" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm">gamedeveloper.com</a> | <a href="https://gamesbeat.com/battlestate-games-launches-publishing-arm-for-hardcore-titles/">source</a></small></p><hr/><p>The creator of Escape from Tarkov has established a new publishing division intended to support "hardcore" and "risky" indie projects. COO Nikita Buyanov stated the initiative aims to leverage the studio's established audience to help niche developers break through, acting more as an experimental support system than a traditional marketing firm.</p><p>The new division has already received over 100 pitches, with several games identified as potential candidates for support. The company intends to prioritize unique, high-potential prototypes and experimental gameplay over projects driven solely by immediate financial returns.</p><p><img src="https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/06/escape-from-tarkov-roadmap-developer-interview-high-ready-low-ready-stance-tactical-extraction-fps-1140x641.jpg" /></p><hr/><small>22 Sep 2026, 21:38 UTC | #21992</small>]]></content>
+  </entry>
   <entry>
     <title>Nex Playground Secures $150 Million to Fuel Global Expansion</title>
     <link href="https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis" rel="alternate" />
