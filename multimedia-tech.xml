@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-21T20:31:00+00:00</updated>
+  <updated>2026-09-22T00:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Matt Greer Develops Eridin for GBA and PC Using Unified Codebase</title>
+    <link href="https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/" rel="alternate" />
+    <id>https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/::v239</id>
+    <published>2026-09-22T00:00:00+00:00</published>
+    <updated>2026-09-22T00:00:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/mBoPNIIaL5c/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/">mattgreer.dev</a> | <a href="https://lobste.rs/s/xvkvhh/making_game_for_gba_pc_from_same_codebase">discussion</a></small></p><hr/><p>Eridin, a fantasy turn-based strategy game, is being developed for both the Nintendo Game Boy Advance (GBA) e-reader and PC to mitigate manufacturing risks. This dual-platform target addresses the difficulty of producing the high-precision dot-strip cards required for reliable e-reader scanning.</p><p>The engine uses a single C codebase with an abstraction layer for platform-specific assets, employing DevKitPro and libtonc for GBA and SDL2 for PC. While the PC version maintains the 240x160 GBA resolution, it features subpixel scrolling and uncapped framerates for smoother visual performance.</p><p><img src="https://i.ytimg.com/vi/mBoPNIIaL5c/maxresdefault.jpg" /></p><hr/><small>22 Sep 2026, 08:37 UTC | #21926</small>]]></content>
+  </entry>
   <entry>
     <title>Bungie Outlines Plans to Restore Vaulted Destiny 2 Content and Continue Destiny Development</title>
     <link href="https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future" rel="alternate" />
