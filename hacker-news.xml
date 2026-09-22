@@ -865,13 +865,4 @@
     <updated>2026-09-17T16:32:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q">skywriter.blue</a> | <a href="https://news.ycombinator.com/item?id=49737985">hacker news</a></small></p><hr/><p>A Cloudflare Worker encountered a rendering exception while attempting to serve a page on skywriter.blue. The incident occurred on September 17, 2026, and was identified as Error 1101.</p><p>The error page provides a unique Cloudflare Ray ID (a3cb00c35f45a6de) for debugging. The page advises the website owner to check their Workers logs to investigate the cause of the failure.</p><hr/><small>17 Sep 2026, 20:58 UTC | #21485</small>]]></content>
   </entry>
-  <entry>
-    <title>Hister: Self-Hosted Search Engine for Visited Pages and Local Files</title>
-    <link href="https://github.com/asciimoo/hister" rel="alternate" />
-    <id>https://github.com/asciimoo/hister::v239</id>
-    <published>2026-09-17T16:26:00+00:00</published>
-    <updated>2026-09-17T16:26:00+00:00</updated>
-    <media:thumbnail url="https://themenonlab.blog/images/soulsearch/ss-settings-git.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/asciimoo/hister">github.com</a> | <a href="https://news.ycombinator.com/item?id=49743097">hacker news</a></small></p><hr/><p>Hister is a privacy-focused, self-hosted search engine that indexes the full text of a user's visited web pages and local files. It enables information retrieval through a web interface, a terminal user interface (TUI), or an AI assistant via the Model Context Protocol (MCP).</p><p>The tool indexes content automatically via Firefox or Chrome extensions and allows for the import of browser history and local directories. It supports complex queries using field filters and wildcards and offers optional semantic search through configurable embedding endpoints.</p><p><img src="https://themenonlab.blog/images/soulsearch/ss-settings-git.jpg" /></p><hr/><small>17 Sep 2026, 20:16 UTC | #21481</small>]]></content>
-  </entry>
 </feed>

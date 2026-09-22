@@ -591,22 +591,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/f12-light.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/gazillion-industries-releases-f-ilter-12-and-beefy-for-macos-and-windows-68531?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68531">kvraudio.com</a> | <a href="https://gazillionindustries.com/">source</a></small></p><hr/><p>Gazillion Industries has launched two audio effects, F(ilter) 12 and Beefy, priced at $49 and $19 respectively. These plugins are available for macOS and Windows in VST3, AU, and standalone formats, providing lo-fi filtering and saturation/loudness enhancement.</p><p>F(ilter) 12 includes sample rate and bit-depth reduction, five filter shapes, and an adaptive correction stage called AURA. Beefy offers controls for weight, color, and input level, with options for soft clipping or limiting to manage output peaks.</p><p><img src="https://static.kvraudio.com/i/b/f12-light.jpg" /></p><hr/><small>17 Sep 2026, 22:44 UTC | #21469</small>]]></content>
   </entry>
-  <entry>
-    <title>Sintelab Releases XF Comp Free VST3 Compression Assistant</title>
-    <link href="https://www.kvraudio.com/news/sintelab-releases-xf-comp---free-intelligent-vst3-compression-assistant-for-windows-68595?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68595" rel="alternate" />
-    <id>https://www.kvraudio.com/news/sintelab-releases-xf-comp---free-intelligent-vst3-compression-assistant-for-windows-68595?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68595::v239</id>
-    <published>2026-09-17T16:31:00+00:00</published>
-    <updated>2026-09-17T16:31:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/xf-comp-interface.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/sintelab-releases-xf-comp---free-intelligent-vst3-compression-assistant-for-windows-68595?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68595">kvraudio.com</a> | <a href="https://www.sintelab.com/xf-comp/">source</a></small></p><hr/><p>Sintelab has released XF Comp, a free VST3 compression assistant for Windows. The plugin analyzes WAV and FLAC files to suggest initial settings for threshold, ratio, attack, release, and knee based on the selected audio source: Voice, Drums, Bass, or Synth.</p><p>Users receive explanations for the suggested settings and practical mixing tips. The plugin also displays signal metrics such as Peak, RMS, Crest Factor, Dynamic Range, Transients, Compression State, and Clipping to assist in manual adjustments.</p><p><img src="https://static.kvraudio.com/i/b/xf-comp-interface.png" /></p><hr/><small>17 Sep 2026, 20:53 UTC | #21451</small>]]></content>
-  </entry>
-  <entry>
-    <title>Multiband Compression: Definition and Use Cases</title>
-    <link href="https://musictech.com/glossary/multiband-compression/" rel="alternate" />
-    <id>https://musictech.com/glossary/multiband-compression/::v239</id>
-    <published>2026-09-17T16:27:00+00:00</published>
-    <updated>2026-09-17T16:27:00+00:00</updated>
-    <media:thumbnail url="https://www.sonible.com/wp-content/uploads/2022/08/Compression-02-2.png" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/glossary/multiband-compression/">musictech.com</a></small></p><hr/><p>Multiband compressors divide an audio signal into several frequency bands—typically three to five—and apply independent compression settings to each before recombining them. This approach allows for targeted dynamic control of specific frequency ranges, such as the low end, without affecting the rest of the spectrum or causing audible pumping.</p><p>The technique is widely used in mixing and mastering to provide cohesion and tonal balance, functioning similarly to a broad-brushed equalizer. It is particularly effective when managing complex signals like full drum kits or synths where different frequency ranges require distinct dynamic responses.</p><p><img src="https://www.sonible.com/wp-content/uploads/2022/08/Compression-02-2.png" /></p><hr/><small>17 Sep 2026, 20:31 UTC | #21449</small>]]></content>
-  </entry>
 </feed>
