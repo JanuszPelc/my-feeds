@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T22:39:00+00:00</updated>
+  <updated>2026-09-21T23:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Meta's Muse AI Assistant Has Zero-Day Vulnerability</title>
+    <link href="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/" rel="alternate" />
+    <id>https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/::v239</id>
+    <published>2026-09-21T23:50:00+00:00</published>
+    <updated>2026-09-21T23:50:00+00:00</updated>
+    <media:thumbnail url="https://heimdalsecurity.com/blog/wp-content/uploads/Zero-Day-Vulnerability-Timeline.png.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/">arstechnica.com</a> | <a href="https://news.ycombinator.com/item?id=49794666">hacker news</a></small></p><hr/><p>A zero-day vulnerability in Meta's Muse AI assistant allows local applications and terminal commands to hijack a user's account. By redirecting transcription traffic from Meta's servers to an attacker-controlled endpoint, malicious code can intercept the authentication tokens used to control the assistant.</p><p>Security researcher Patrick Wardle found that the flaw is enabled by design decisions allowing apps to modify undocumented settings, such as dictation endpoints. While Meta has publicly emphasized its security-first design for Muse, the vulnerability has already prompted Amazon to block the agent to prevent unauthorized purchases.</p><p><img src="https://heimdalsecurity.com/blog/wp-content/uploads/Zero-Day-Vulnerability-Timeline.png.jpg" /></p><hr/><small>22 Sep 2026, 06:14 UTC | #21903</small>]]></content>
+  </entry>
   <entry>
     <title>Transformer Explainer Visualizes Transformer Model Architecture</title>
     <link href="https://poloclub.github.io/transformer-explainer/" rel="alternate" />
