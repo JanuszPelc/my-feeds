@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T23:58:00+00:00</updated>
+  <updated>2026-09-22T03:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Alibaba's T-Head Unveils Zhenwu V900 AI Accelerator</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032::v239</id>
+    <published>2026-09-22T03:26:00+00:00</published>
+    <updated>2026-09-22T03:26:00+00:00</updated>
+    <media:thumbnail url="https://chinabizinsider.com/content/images/size/w1200/2026/05/20260520130315.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032">bloomberg.com</a> | <a href="https://www.alibabacloud.com/blog/alibaba-unveils-new-ai-chip-flagship-model-and-rebuilt-cloud-stack-ai-for-agentic-era_603151">source</a></small></p><hr/><p>Alibaba's T-Head has released the Zhenwu V900, an AI accelerator designed to compete with Nvidia. The chip reportedly delivers triple the performance of its predecessor and is capable of scaling to clusters of up to 500,000 units.</p><p>This launch is part of a larger infrastructure push to reach 20GW of data center capacity by 2032. The new hardware is intended to bolster Alibaba's cloud services and support large-scale AI modeling and workloads.</p><p><img src="https://chinabizinsider.com/content/images/size/w1200/2026/05/20260520130315.png" /></p><hr/><small>22 Sep 2026, 10:28 UTC | #21911</small>]]></content>
+  </entry>
   <entry>
     <title>Evocation: A New Self-Bootstrapping Forth Dialect</title>
     <link href="https://code.irenes.space/evocation/tree/README.txt" rel="alternate" />
