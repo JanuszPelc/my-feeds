@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T07:32:00+00:00</updated>
+  <updated>2026-09-22T12:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Fearless SIMD 1.0 Released</title>
+    <link href="https://linebender.org/blog/fearless-simd-1-0/" rel="alternate" />
+    <id>https://linebender.org/blog/fearless-simd-1-0/::v239</id>
+    <published>2026-09-22T12:18:00+00:00</published>
+    <updated>2026-09-22T12:18:00+00:00</updated>
+    <media:thumbnail url="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/3X/0/b/0b8043b3233eea43cc3b027bc96b234706216826.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://linebender.org/blog/fearless-simd-1-0/">linebender.org</a> | <a href="https://lobste.rs/s/wx3qsm/fearless_simd_v1_0_is_here">discussion</a></small></p><hr/><p>Fearless SIMD, a Rust crate for single instruction, multiple data (SIMD) operations, has released version 1.0. The library provides memory-safe portable SIMD abstractions, autovectorization, and hardware-native vector size support, allowing developers to access platform-specific intrinsics without manual `unsafe` code.</p><p>The release includes the `fearless_simd_macros` v0.1 crate, which introduces a `#[simd]` macro to simplify function multiversioning. Currently utilized by over a thousand Rust projects, the library will receive three years of security updates for the v1.0 release.</p><p><img src="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/3X/0/b/0b8043b3233eea43cc3b027bc96b234706216826.jpeg" /></p><hr/><small>22 Sep 2026, 15:24 UTC | #21964</small>]]></content>
+  </entry>
   <entry>
     <title>Linear Optimizes CI Pipeline to Scale with AI-Driven Development</title>
     <link href="https://linear.app/now/ci-bottleneck-reworked" rel="alternate" />
@@ -855,23 +864,5 @@
     <updated>2026-09-17T16:26:00+00:00</updated>
     <media:thumbnail url="https://themenonlab.blog/images/soulsearch/ss-settings-git.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/asciimoo/hister">github.com</a> | <a href="https://news.ycombinator.com/item?id=49743097">hacker news</a></small></p><hr/><p>Hister is a privacy-focused, self-hosted search engine that indexes the full text of a user's visited web pages and local files. It enables information retrieval through a web interface, a terminal user interface (TUI), or an AI assistant via the Model Context Protocol (MCP).</p><p>The tool indexes content automatically via Firefox or Chrome extensions and allows for the import of browser history and local directories. It supports complex queries using field filters and wildcards and offers optional semantic search through configurable embedding endpoints.</p><p><img src="https://themenonlab.blog/images/soulsearch/ss-settings-git.jpg" /></p><hr/><small>17 Sep 2026, 20:16 UTC | #21481</small>]]></content>
-  </entry>
-  <entry>
-    <title>UN Fact-Finding Mission Finds US Likely Committed War Crimes in Iran School Strike</title>
-    <link href="https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack" rel="alternate" />
-    <id>https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack::v239</id>
-    <published>2026-09-17T15:17:00+00:00</published>
-    <updated>2026-09-17T15:17:00+00:00</updated>
-    <media:thumbnail url="https://i.guim.co.uk/img/media/a1b4b940b10574c3de468d64d91a033c77d6be21/0_0_6000_4000/master/6000.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack">theguardian.com</a> | <a href="https://news.ycombinator.com/item?id=49739018">hacker news</a></small></p><hr/><p>A UN fact-finding mission has determined there are reasonable grounds to believe the United States committed war crimes by launching indiscriminate attacks on an Iranian school and a sports facility. The report specifically details a strike on the Shajareh Tayyebeh primary school that killed 120 children, attributing the incident to a failure to verify outdated targeting intelligence.</p><p>The mission also accused Iranian authorities of crimes against humanity during a deadly crackdown on anti-government protests. These findings, which address the conduct of both the United States and Iran during recent hostilities, are to be submitted to the UN Human Rights Council in Geneva.</p><p><img src="https://i.guim.co.uk/img/media/a1b4b940b10574c3de468d64d91a033c77d6be21/0_0_6000_4000/master/6000.jpg?width=445&dpr=1&s=none&crop=none" /></p><hr/><small>17 Sep 2026, 19:10 UTC | #21474</small>]]></content>
-  </entry>
-  <entry>
-    <title>Valen Language Project Aims for Seamless Rust Interop and Generics</title>
-    <link href="https://verdagon.dev/blog/golden-spike-reviving-vale-valen" rel="alternate" />
-    <id>https://verdagon.dev/blog/golden-spike-reviving-vale-valen::v239</id>
-    <published>2026-09-17T15:11:00+00:00</published>
-    <updated>2026-09-17T15:11:00+00:00</updated>
-    <media:thumbnail url="https://kruschecompany.com/wp-content/uploads/2023/11/Infographic-showing-common-areas-of-use-of-the-Rust-programming-languages-1536x864.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://verdagon.dev/blog/golden-spike-reviving-vale-valen">verdagon.dev</a> | <a href="https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n">discussion</a> | <a href="https://news.ycombinator.com/item?id=49742169">hacker news</a></small></p><hr/><p>Evan Ovadia is developing Valen, a programming language derived from his existing language, Vale. The project's primary objective is to achieve seamless interoperability with Rust by enabling cross-language generics, a capability currently limited by the constraints of the C ABI. This feature would allow Valen to interact with Rust's generic systems and allow Rust to call back into Valen code while maintaining type information.</p><p>To facilitate this, the Valen compiler is intended to lazily generate corresponding Rust function signatures within its own Abstract Syntax Tree (AST). This design seeks to bypass the challenges posed by Rust's lack of a stable ABI, aiming to support memory safety and performance across the language boundary. The project is currently in an experimental development phase.</p><p><img src="https://kruschecompany.com/wp-content/uploads/2023/11/Infographic-showing-common-areas-of-use-of-the-Rust-programming-languages-1536x864.png" /></p><hr/><small>17 Sep 2026, 18:40 UTC | #21468</small>]]></content>
   </entry>
 </feed>
