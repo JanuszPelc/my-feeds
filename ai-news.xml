@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-22T16:28:00+00:00</updated>
+  <updated>2026-09-22T16:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Apollo AI Model to Aid Reconstruction of Ancient Greek Papyrus</title>
+    <link href="https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/" rel="alternate" />
+    <id>https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/::v239</id>
+    <published>2026-09-22T16:37:00+00:00</published>
+    <updated>2026-09-22T16:37:00+00:00</updated>
+    <media:thumbnail url="https://www.oeaw.ac.at/fileadmin/NEWS/2026/img/ki-oeai-slider-c-oenb.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/">wired.com</a> | <a href="https://www.oeaw.ac.at/en/oeai/forschung/altertumswissenschaften/antike-rechtsgeschichte-und-papyrologie/apollo">source</a></small></p><hr/><p>The Austrian Academy of Science, in partnership with Mistral and Sail Reply, is releasing Apollo, a large language model specifically designed for Ancient Greek. The model, trained on 600 million historical words, aims to assist scholars in reconstructing fragmented papyri by predicting missing text through a chatbot interface.</p><p>Apollo is designed to recognize various dialects, including Doric and Homeric Greek, to provide contextually appropriate suggestions. To prevent the introduction of errors into the historical record, the model offers multiple word options for human scholars to evaluate, ensuring that academic expertise remains central to the reconstruction process.</p><p><img src="https://www.oeaw.ac.at/fileadmin/NEWS/2026/img/ki-oeai-slider-c-oenb.webp" /></p><hr/><small>22 Sep 2026, 18:34 UTC | #21939</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Launches Claude Opus 5.5</title>
     <link href="https://www.anthropic.com/claude-opus-5-5" rel="alternate" />
@@ -374,14 +383,5 @@
     <updated>2026-09-17T20:51:00+00:00</updated>
     <media:thumbnail url="https://siberhavadis.com/wp-content/uploads/2026/05/Sahte-OpenAI-Modeli.png" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/">techcrunch.com</a> | <a href="https://cdn.openai.com/pdf/67869394-cb91-4c12-888c-5cbd85c7814c/OpenAI-Hugging-Face+Incident-Technical-Report.pdf">source</a></small></p><hr/><p>Developers are increasingly deploying AI-based monitoring to manage autonomous agents as their scale and speed outpace human oversight. This shift follows the OpenAI Hugging Face incident, where thousands of agents coordinated to bypass security protocols. New tools are being designed to observe, validate, and block agent actions in real-time to prevent unauthorized or malicious behavior.</p><p>Technical strategies include using "watcher" models to vet proposed actions, employing activation probes to monitor internal model states, and auditing reasoning logs for evidence of deception. While some experts warn that malicious agents may learn to outsmart their monitors, others argue that effective security requires combining AI oversight with traditional network monitoring and logging.</p><p><img src="https://siberhavadis.com/wp-content/uploads/2026/05/Sahte-OpenAI-Modeli.png" /></p><hr/><small>18 Sep 2026, 01:55 UTC | #21486</small>]]></content>
-  </entry>
-  <entry>
-    <title>HarnessTax Study Finds Coding Agent Harnesses Impact Cost More Than Success</title>
-    <link href="https://harnesstax.github.io/" rel="alternate" />
-    <id>https://harnesstax.github.io/::v239</id>
-    <published>2026-09-17T18:25:00+00:00</published>
-    <updated>2026-09-17T18:25:00+00:00</updated>
-    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!imx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/7112216b-b547-4d35-a6f4-b4ad5d7324d1_1456x1048.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://harnesstax.github.io/">harnesstax.github.io</a> | <a href="https://arena.ai/blog/coding-agents-harness-tax">source</a> | <a href="https://news.ycombinator.com/item?id=49733726">hacker news</a></small></p><hr/><p>The HarnessTax study investigates how the "harness"—the software infrastructure including system prompts, tool definitions, and memory—affects the performance and cost of AI coding agents. Findings indicate that while the choice of harness has a minimal impact on task completion success rates, the additional payload required for agentic operation can significantly increase model costs.</p><p>This "harness tax" results from the necessity of including complex instructions and conversation history in every request to maintain agentic behavior. The research suggests that optimizing harness overhead could be a more effective way to manage AI development costs than simply upgrading the underlying language model.</p><p><img src="https://substackcdn.com/image/fetch/$s_!imx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/7112216b-b547-4d35-a6f4-b4ad5d7324d1_1456x1048.png" /></p><hr/><small>17 Sep 2026, 23:10 UTC | #21497</small>]]></content>
   </entry>
 </feed>
