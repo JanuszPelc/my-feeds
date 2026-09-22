@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-22T12:16:00+00:00</updated>
+  <updated>2026-09-22T16:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>LEWITT Releases LW6 Wireless Studio Headphones</title>
+    <link href="https://musictech.com/news/gear/lewitt-lw6-wireless-studio-headphones/" rel="alternate" />
+    <id>https://musictech.com/news/gear/lewitt-lw6-wireless-studio-headphones/::v239</id>
+    <published>2026-09-22T16:35:00+00:00</published>
+    <updated>2026-09-22T16:35:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/LEWITT-1@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/lewitt-lw6-wireless-studio-headphones/">musictech.com</a> | <a href="https://www.lewitt-audio.com/lw6">source</a></small></p><hr/><p>The brand's first pair of professional-grade wireless monitoring headphones, the LW6, is designed for studio mixing and mastering. Utilizing RealSound ultra-wideband (UWB) technology via a dedicated transmitter, they deliver uncompressed audio with ultra-low latency of under 6ms.</p><p>The closed-back model includes onboard DSP with a five-band parametric EQ, virtual studio monitor simulation, and monitoring functions like loudness protection. They offer 21 hours of battery life, support rapid charging, and include Bluetooth for casual listening.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/LEWITT-1@2000x1500.jpg" /></p><hr/><small>22 Sep 2026, 18:17 UTC | #21955</small>]]></content>
+  </entry>
   <entry>
     <title>ToneCraft Releases AI Guitar Multi-Effects Plugin</title>
     <link href="https://www.kvraudio.com/news/tonecraft-releases-ai-guitar-multi-effects-plugin-for-windows-and-macos-vst3-and-au-68682?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68682" rel="alternate" />
@@ -581,14 +590,5 @@
     <updated>2026-09-17T18:27:00+00:00</updated>
     <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Roland-1@2000x1500.jpg" />
     <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/industry/rolands-flagship-store-and-first-ever-standalone-us-retail-space-is-opening-in-new-york-city-this-october/">musictech.com</a> | <a href="https://www.roland.com/us/roland-stores/new_york_city/">source</a></small></p><hr/><p>Roland Corporation will open its first standalone U.S. flagship store in New York City this October. The 9,000-square-foot space will showcase products from Roland, BOSS, and Drum Workshop, including dedicated showrooms for pianos, drums, guitars, and Roland Cloud software.</p><p>The venue will feature the "BOSS Cavern" for immersive audio experiences and an exhibit highlighting the history of the TR-808 Rhythm Composer. Additional amenities include educational workshops and "Roland Soundscapes," an AI-powered system that adapts the environment to movement, time of day, and weather.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Roland-1@2000x1500.jpg" /></p><hr/><small>17 Sep 2026, 23:25 UTC | #21470</small>]]></content>
-  </entry>
-  <entry>
-    <title>Gazillion Industries Releases F(ilter) 12 and Beefy Plugins</title>
-    <link href="https://www.kvraudio.com/news/gazillion-industries-releases-f-ilter-12-and-beefy-for-macos-and-windows-68531?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68531" rel="alternate" />
-    <id>https://www.kvraudio.com/news/gazillion-industries-releases-f-ilter-12-and-beefy-for-macos-and-windows-68531?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68531::v239</id>
-    <published>2026-09-17T18:18:00+00:00</published>
-    <updated>2026-09-17T18:18:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/f12-light.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/gazillion-industries-releases-f-ilter-12-and-beefy-for-macos-and-windows-68531?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68531">kvraudio.com</a> | <a href="https://gazillionindustries.com/">source</a></small></p><hr/><p>Gazillion Industries has launched two audio effects, F(ilter) 12 and Beefy, priced at $49 and $19 respectively. These plugins are available for macOS and Windows in VST3, AU, and standalone formats, providing lo-fi filtering and saturation/loudness enhancement.</p><p>F(ilter) 12 includes sample rate and bit-depth reduction, five filter shapes, and an adaptive correction stage called AURA. Beefy offers controls for weight, color, and input level, with options for soft clipping or limiting to manage output peaks.</p><p><img src="https://static.kvraudio.com/i/b/f12-light.jpg" /></p><hr/><small>17 Sep 2026, 22:44 UTC | #21469</small>]]></content>
   </entry>
 </feed>
