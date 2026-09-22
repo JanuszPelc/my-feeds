@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-22T14:31:00+00:00</updated>
+  <updated>2026-09-22T14:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>UK's AI Safety Institute Staff Face Burnout and Stress</title>
+    <link href="https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7" rel="alternate" />
+    <id>https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7::v239</id>
+    <published>2026-09-22T14:37:00+00:00</published>
+    <updated>2026-09-22T14:37:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQE5BhBlthpDtw/feedshare-shrink_800/B56ZvEKeaVJEAg-/0/1768522641961?e=2147483647&amp;v=beta&amp;t=fZAbilZnMhY3O1oDD6z9BU0x2oHPamHy26-wrA-n444" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7">ft.com</a></small></p><hr/><p>Multiple employees at the UK's AI Safety Institute (AISI) have been signed off work due to stress. The burnout is reportedly driven by aggressive model release schedules and anxieties regarding the societal risks of frontier artificial intelligence.</p><p>Top researchers at OpenAI, Anthropic, and Google DeepMind are also reporting significant levels of burnout and stress. This trend highlights a growing mental health crisis within the leading institutions responsible for developing powerful AI models.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQE5BhBlthpDtw/feedshare-shrink_800/B56ZvEKeaVJEAg-/0/1768522641961?e=2147483647&v=beta&t=fZAbilZnMhY3O1oDD6z9BU0x2oHPamHy26-wrA-n444" /></p><hr/><small>22 Sep 2026, 17:39 UTC | #21935</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Integrates Service Promos into iOS Settings</title>
     <link href="https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy" rel="alternate" />

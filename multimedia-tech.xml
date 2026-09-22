@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-22T00:00:00+00:00</updated>
+  <updated>2026-09-22T14:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Rockstar Games Issues Updated Modding Guidelines Ahead of Grand Theft Auto VI Release</title>
+    <link href="https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down" rel="alternate" />
+    <id>https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down::v239</id>
+    <published>2026-09-22T14:39:00+00:00</published>
+    <updated>2026-09-22T14:39:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltfc3e2c968d67cd06/6ab27759fc43822973907454/GTA_Mod.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down">gamedeveloper.com</a> | <a href="https://www.rockstargames.com/community-resources/mod-guidelines">source</a></small></p><hr/><p>Rockstar Games has updated its modding rules for its entire catalog, including Grand Theft Auto V and Red Dead Redemption II, in anticipation of the upcoming Grand Theft Auto VI. The guidelines prohibit modders from mixing assets, characters, or storylines between different Rockstar titles and forbid modifications to the games' established continuity.</p><p>Monetization is restricted to the studio's official Creator Platform, with strict prohibitions against real-money gambling, loot boxes, and cryptocurrency. The rules also forbid the use of unauthorized third-party intellectual property, voiceover recordings, and real-world likenesses.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltfc3e2c968d67cd06/6ab27759fc43822973907454/GTA_Mod.png?width=720&quality=80&disable=upscale" /></p><hr/><small>22 Sep 2026, 17:43 UTC | #21949</small>]]></content>
+  </entry>
   <entry>
     <title>Matt Greer Develops Eridin for GBA and PC Using Unified Codebase</title>
     <link href="https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/" rel="alternate" />
