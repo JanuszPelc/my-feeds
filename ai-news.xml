@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-22T18:16:00+00:00</updated>
+  <updated>2026-09-22T19:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>SpaceXAI's Grok Bot Surpasses 400,000 Weekly Users</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-22/spacexai-s-grok-bot-agent-tops-400-000-users-after-first-month" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-22/spacexai-s-grok-bot-agent-tops-400-000-users-after-first-month::v239</id>
+    <published>2026-09-22T19:37:00+00:00</published>
+    <updated>2026-09-22T19:37:00+00:00</updated>
+    <media:thumbnail url="https://seoprofy.com/wp-content/uploads/2026/01/3-grok-ai-usage-statistics.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-22/spacexai-s-grok-bot-agent-tops-400-000-users-after-first-month">bloomberg.com</a></small></p><hr/><p>SpaceXAI's Grok Bot AI agent reached 418,000 weekly users as of September 14, 2026, a 24% increase from the previous week. The milestone follows approximately one month of availability since the bot's mid-August launch.</p><p>The user growth data was disclosed during a presentation in London. The surge in active users follows the initial release and expansion of the AI agent.</p><p><img src="https://seoprofy.com/wp-content/uploads/2026/01/3-grok-ai-usage-statistics.jpg" /></p><hr/><small>22 Sep 2026, 23:34 UTC | #21981</small>]]></content>
+  </entry>
   <entry>
     <title>AstroForge Developing AI Control Stack for Autonomous Spacecraft</title>
     <link href="https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/" rel="alternate" />
@@ -374,14 +383,5 @@
     <updated>2026-09-18T08:20:00+00:00</updated>
     <media:thumbnail url="https://winbuzzer.com/wp-content/uploads/2026/07/Meta-AI-Muse-Image.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/997332/metas-muse-ai-agent-now-has-a-mac-app">theverge.com</a> | <a href="https://ai.meta.com/muse/download/">source</a></small></p><hr/><p>Meta's Muse AI agent is now available as a Mac application, expanding from its original availability on iOS, Android, and the web. The desktop agent is designed to automate tasks such as organizing files, filling out forms, and managing various productivity workflows.</p><p>The agent integrates with system services like Messages, Calendar, and Notes to retrieve and manage information. This release follows the agent's initial launch earlier this month as part of Meta's ongoing AI ecosystem expansion.</p><p><img src="https://winbuzzer.com/wp-content/uploads/2026/07/Meta-AI-Muse-Image.jpg" /></p><hr/><small>18 Sep 2026, 12:20 UTC | #21531</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Redesigns Claude Projects for Agentic Workflows</title>
-    <link href="https://claude.com/blog/projects-redesigned" rel="alternate" />
-    <id>https://claude.com/blog/projects-redesigned::v239</id>
-    <published>2026-09-17T23:27:00+00:00</published>
-    <updated>2026-09-17T23:27:00+00:00</updated>
-    <media:thumbnail url="https://pasqualepillitteri.it/uploads/img/news/claude-code-desktop-redesign-parallel-agents.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://claude.com/blog/projects-redesigned">claude.com</a></small></p><hr/><p>Anthropic is redesigning its "Projects" feature to support agentic workflows through a conversation-based interface. The new system uses a central coordinator to manage multiple parallel threads, which are individual Claude Code cloud sessions, allowing the AI to scope complex requests, delegate subtasks, and automate technical workflows such as running tests and opening pull requests.</p><p>Projects now feature a shared memory layer that retains context, decisions, and communication styles across all project threads to reduce the need for manual prompting. The update is currently in beta for select Claude Pro and Max subscribers using cloud sessions in Claude Code, with a planned rollout to all Claude, Team, and Enterprise plans. Local execution for projects is expected to be released in a future update.</p><p><img src="https://pasqualepillitteri.it/uploads/img/news/claude-code-desktop-redesign-parallel-agents.png" /></p><hr/><small>18 Sep 2026, 05:23 UTC | #21494</small>]]></content>
   </entry>
 </feed>
