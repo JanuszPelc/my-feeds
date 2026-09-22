@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-22T00:02:00+00:00</updated>
+  <updated>2026-09-22T02:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Xiaomi's MiMo-V2.6-Pro Tops Artificial Analysis Intelligence Index for Open-Weight Models</title>
+    <link href="https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-model-in-the-world-alongside-cheaper-v2-6-flash" rel="alternate" />
+    <id>https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-model-in-the-world-alongside-cheaper-v2-6-flash::v239</id>
+    <published>2026-09-22T02:16:00+00:00</published>
+    <updated>2026-09-22T02:16:00+00:00</updated>
+    <media:thumbnail url="https://help.apiyi.com/wp-content/uploads/2026/03/xiaomi-mimo-v2-pro-omni-hunter-alpha-api-guide-en-image-1.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-model-in-the-world-alongside-cheaper-v2-6-flash">venturebeat.com</a> | <a href="https://artificialanalysis.ai/models/mimo-v2-6-pro">source</a> | <a href="https://news.ycombinator.com/item?id=49796660">hacker news</a></small></p><hr/><p>Xiaomi's MiMo-V2.6-Pro is the highest-scoring open-weight model on the Artificial Analysis Intelligence Index. It ties with Grok 4.7 (xHigh) and has surpassed GLM-5.3 (max) in recent benchmarking assessments.</p><p>Its performance places the model ahead of proprietary systems such as Google's Gemini 3.8 Flash and xAI's Grok 4.6. This achievement underscores the narrowing gap between high-performing open-weight AI models and closed-source competitors.</p><p><img src="https://help.apiyi.com/wp-content/uploads/2026/03/xiaomi-mimo-v2-pro-omni-hunter-alpha-api-guide-en-image-1.png" /></p><hr/><small>22 Sep 2026, 09:20 UTC | #21910</small>]]></content>
+  </entry>
   <entry>
     <title>Shopify to Enable Meta's Muse AI Agent to Complete Purchases via Shop Pay</title>
     <link href="https://www.wsj.com/tech/shopify-to-use-metas-muse-for-agentic-checkout-d23947c0?st=eNbeXX&amp;reflink=desktopwebshare_permalink" rel="alternate" />
