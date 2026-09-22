@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T18:24:00+00:00</updated>
+  <updated>2026-09-22T18:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Unsloth Adds Qwen-Image-2.1 Support and Custom Agent Skills</title>
+    <link href="https://unsloth.ai/docs/new/changelog#qwen-image-2.1--skills" rel="alternate" />
+    <id>https://unsloth.ai/docs/new/changelog#qwen-image-2.1--skills::v239</id>
+    <published>2026-09-22T18:30:00+00:00</published>
+    <updated>2026-09-22T18:30:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQFMSnkiH3yJSg/feedshare-shrink_800/B56ZueDJWVLMAg-/0/1767883184315?e=2147483647&amp;v=beta&amp;t=6AWiN6G7CSuD_FKugwgbNM4VnBEU7ZS6czFnRszBb1A" />
+    <content type="html"><![CDATA[<p><small>Unsloth Changelog | <a href="https://unsloth.ai/docs/new/changelog#qwen-image-2.1--skills">unsloth.ai</a></small></p><hr/><p>Support for Qwen-Image-2.1 and custom "Agent Skills" for task-specific model execution is now available in the latest Unsloth release. The update also doubles reasoning block rendering speeds to 60 FPS, improves chat and project management via draggable interfaces, and enables vision models to see images returned by MCP tools.</p><p>Technical improvements include more reliable training and export functions, as well as expanded hardware support through a native ARM64 installer for Ubuntu and a new AMD ROCm Docker image. These changes are intended to streamline the local training and execution experience for users.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQFMSnkiH3yJSg/feedshare-shrink_800/B56ZueDJWVLMAg-/0/1767883184315?e=2147483647&v=beta&t=6AWiN6G7CSuD_FKugwgbNM4VnBEU7ZS6czFnRszBb1A" /></p><hr/><small>22 Sep 2026, 21:54 UTC | #21996</small>]]></content>
+  </entry>
   <entry>
     <title>Beats 360 Headphones Review</title>
     <link href="https://www.theverge.com/tech/998566/beats-360-headphones-review" rel="alternate" />
