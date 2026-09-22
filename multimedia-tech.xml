@@ -3,9 +3,27 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-22T18:06:00+00:00</updated>
+  <updated>2026-09-22T18:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Nex Playground Secures $150 Million to Fuel Global Expansion</title>
+    <link href="https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis::v239</id>
+    <published>2026-09-22T18:21:00+00:00</published>
+    <updated>2026-09-22T18:21:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt4e19b25900906821/6ab131c52474c54ccb8cb3ba/Nex_Header.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis">gamedeveloper.com</a> | <a href="https://www.businesswire.com/news/home/20260917649594/en/Nex-Raises-Over-$150-Million-to-Take-Nex-Playground-Business-Global">source</a></small></p><hr/><p>Nex Playground is expanding its motion-controlled, family-focused console into international markets including Canada, the United Kingdom, and Germany. The company has secured $150 million in equity and debt financing to accelerate this global rollout and support its subscription-based software ecosystem.</p><p>To combat component shortages and tariffs, Nex is diversifying manufacturing across China and Mexico to increase supply chain agility. The platform reports an 80 percent subscription attach rate and aims to expand its software library by porting and optimizing legacy motion-controlled titles.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt4e19b25900906821/6ab131c52474c54ccb8cb3ba/Nex_Header.png?width=720&quality=80&disable=upscale" /></p><hr/><small>22 Sep 2026, 20:46 UTC | #21970</small>]]></content>
+  </entry>
+  <entry>
+    <title>Adobe Premiere Launches on Android</title>
+    <link href="https://www.wired.com/story/adobe-premiere-now-on-android/" rel="alternate" />
+    <id>https://www.wired.com/story/adobe-premiere-now-on-android/::v239</id>
+    <published>2026-09-22T18:19:00+00:00</published>
+    <updated>2026-09-22T18:19:00+00:00</updated>
+    <media:thumbnail url="https://www.absolutegeeks.com/wp-content/uploads/2026/05/HA3SyMwbHHcGLoSL7qb9ph-1536x673.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/adobe-premiere-now-on-android/">wired.com</a> | <a href="https://blog.adobe.com/en/publish/2026/09/22/adobe-premiere-expands-android-fast-powerful-easy-mobile-video-editing">source</a></small></p><hr/><p>Adobe has released its redesigned Premiere mobile video-editing app for Android, replacing Premiere Rush. The application is optimized for a wide range of devices, including Android foldables, and offers both a simplified editor and a multi-track timeline for granular editing.</p><p>The app includes AI-driven tools such as Enhance Audio and Firefly-powered Generative Fill, though certain features require a subscription to replenish generative credits. While the app is free to use without a Creative Cloud subscription, it requires a minimum of 5 GB of RAM and Android 13 or later. Features such as cross-device editing continuity are currently in development.</p><p><img src="https://www.absolutegeeks.com/wp-content/uploads/2026/05/HA3SyMwbHHcGLoSL7qb9ph-1536x673.jpg" /></p><hr/><small>22 Sep 2026, 20:42 UTC | #21958</small>]]></content>
+  </entry>
   <entry>
     <title>Xbox Lays Off 268 Employees and Divests Undead Labs</title>
     <link href="https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment" rel="alternate" />
@@ -131,32 +149,5 @@
     <updated>2026-09-18T13:15:00+00:00</updated>
     <media:thumbnail url="https://forum.affinity.serif.com/uploads/monthly_2024_04/EmbeddedFonts.png.cbf4a9b6d4231b373a8ce456e26c989f.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lwn.net/Articles/1092993/">lwn.net</a> | <a href="https://typst.app/blog/2026/typst-0.15/">source</a> | <a href="https://lobste.rs/s/j4oyxa/typst_makes_big_strides">discussion</a></small></p><hr/><p>Typst version 0.15 introduces several significant capabilities, including support for variable fonts that allow continuous weight and style adjustments. It also includes experimental MathML support for HTML exports, a "bundle" feature for generating multiple interlinked output files from a single source, and the ability to manage multiple bibliographies within one document.</p><p>The update also expands support for PDF standards, allowing users to target multiple accessibility and archival standards simultaneously. While these features enhance Typst's utility for scientific and technical publishing, its widespread adoption as a LaTeX replacement faces challenges due to the entrenched reliance on legacy formats in academic and professional publishing workflows.</p><p><img src="https://forum.affinity.serif.com/uploads/monthly_2024_04/EmbeddedFonts.png.cbf4a9b6d4231b373a8ce456e26c989f.png" /></p><hr/><small>18 Sep 2026, 16:22 UTC | #21587</small>]]></content>
-  </entry>
-  <entry>
-    <title>Unreal Fest Chicago 2026 Announced</title>
-    <link href="https://www.gamedeveloper.com/events/unreal-fest" rel="alternate" />
-    <id>https://www.gamedeveloper.com/events/unreal-fest::v239</id>
-    <published>2026-09-17T20:55:00+00:00</published>
-    <updated>2026-09-17T20:55:00+00:00</updated>
-    <media:thumbnail url="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-epic/events/EPICGAMES_NATIVE_VOW3d9a.png" />
-    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/events/unreal-fest">gamedeveloper.com</a> | <a href="https://www.unrealengine.com/events/unreal-fest-chicago-2026">source</a></small></p><hr/><p>Unreal Fest Chicago 2026 is planned as a conference for developers and creators using Unreal Engine and real-time 3D technologies. The event is expected to feature showcases of innovative projects and presentations regarding new features and technology updates within the Epic Games ecosystem.</p><p>The summit is designed to serve diverse industries, including game development, virtual production, architecture, automotive, and simulation. It aims to bring the real-time 3D community together to explore upcoming advancements and technological innovations.</p><p><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-epic/events/EPICGAMES_NATIVE_VOW3d9a.png" /></p><hr/><small>18 Sep 2026, 02:04 UTC | #21516</small>]]></content>
-  </entry>
-  <entry>
-    <title>SLICE: Seattle Loves Indie Creators Expo Scheduled for September 2026</title>
-    <link href="https://www.gamedeveloper.com/events/slice" rel="alternate" />
-    <id>https://www.gamedeveloper.com/events/slice::v239</id>
-    <published>2026-09-17T20:54:00+00:00</published>
-    <updated>2026-09-17T20:54:00+00:00</updated>
-    <media:thumbnail url="https://chequered.ink/wp-content/uploads/2026/05/Impact_Indie_Games_2026.jpg" />
-    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/events/slice">gamedeveloper.com</a> | <a href="https://seattleslice.org/">source</a></small></p><hr/><p>This one-day event in Seattle, Washington, is designed to provide practical tools and strategic insights for indie game developers. The program will feature panels, microtalks, and roundtables aimed at both emerging creators and established studios.</p><p>The expo aims to facilitate networking between local and international industry professionals. Discussion topics will include funding, marketing, and team-building.</p><p><img src="https://chequered.ink/wp-content/uploads/2026/05/Impact_Indie_Games_2026.jpg" /></p><hr/><small>18 Sep 2026, 02:02 UTC | #21515</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tokyo Game Show 2026 to Expand to Five-Day Format</title>
-    <link href="https://www.gamedeveloper.com/events/tokyo-game-show-tgs-" rel="alternate" />
-    <id>https://www.gamedeveloper.com/events/tokyo-game-show-tgs-::v239</id>
-    <published>2026-09-17T20:53:00+00:00</published>
-    <updated>2026-09-17T20:53:00+00:00</updated>
-    <media:thumbnail url="https://finalweapon.net/wp-content/uploads/2025/09/Tokyo-Game-Show-2026.webp" />
-    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/events/tokyo-game-show-tgs-">gamedeveloper.com</a> | <a href="https://tgs.cesa.or.jp/2026/en">source</a></small></p><hr/><p>Tokyo Game Show 2026 will be held in Chiba City, Japan, from September 17 to September 21. The event is expanding to a five-day schedule, marking the longest duration in the show's history.</p><p>The increased timeframe is intended to accommodate a larger scale of gameplay and attendee engagement. The event serves as a global platform for players and industry professionals to connect and experience upcoming gaming developments and technologies.</p><p><img src="https://finalweapon.net/wp-content/uploads/2025/09/Tokyo-Game-Show-2026.webp" /></p><hr/><small>18 Sep 2026, 02:00 UTC | #21513</small>]]></content>
   </entry>
 </feed>

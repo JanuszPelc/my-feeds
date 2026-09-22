@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T18:08:00+00:00</updated>
+  <updated>2026-09-22T18:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Meta's Muse AI Exports 6.8 GB of Internal Filesystem Data via Prompt</title>
+    <link href="https://mouse.dev/blog/muse-runtime-export/" rel="alternate" />
+    <id>https://mouse.dev/blog/muse-runtime-export/::v239</id>
+    <published>2026-09-22T18:22:00+00:00</published>
+    <updated>2026-09-22T18:22:00+00:00</updated>
+    <media:thumbnail url="https://mouse.dev/img/blog/muse/memory-diagram.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mouse.dev/blog/muse-runtime-export/">mouse.dev</a> | <a href="https://news.ycombinator.com/item?id=49802871">hacker news</a></small></p><hr/><p>A researcher discovered that Meta's Muse AI agent can be prompted to archive and export its entire assigned Linux environment to a user-controlled Google Drive. The resulting 6.8 GB unpacked archive contained the root filesystem, internal documentation, integration code, agent logs, and SSH keys.</p><p>Meta's bug bounty program classified the researcher's report as "Not Applicable." The export revealed an internal architecture featuring an experimental "Home Link" hardware integration, various "skill" directories for third-party services, and a memory system that uses Markdown files and background processes to track user preferences.</p><p><img src="https://mouse.dev/img/blog/muse/memory-diagram.webp" /></p><hr/><small>22 Sep 2026, 20:49 UTC | #22008</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple Restricts New Photographic Styles Camera Features to iPhone 18 Pro and iPhone Duo</title>
+    <link href="https://www.macrumors.com/2026/09/22/apple-backtracks-camera-feature-compatibility/" rel="alternate" />
+    <id>https://www.macrumors.com/2026/09/22/apple-backtracks-camera-feature-compatibility/::v239</id>
+    <published>2026-09-22T18:18:00+00:00</published>
+    <updated>2026-09-22T18:18:00+00:00</updated>
+    <media:thumbnail url="https://photo.znews.vn/Uploaded/yqdlcqrwq/2026_05_13/03813052026_apple_iphone_18_pro.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.macrumors.com/2026/09/22/apple-backtracks-camera-feature-compatibility/">macrumors.com</a> | <a href="https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/">source</a> | <a href="https://news.ycombinator.com/item?id=49630151">hacker news</a></small></p><hr/><p>Apple has updated the availability requirements for its new Texture and Grain controls within Photographic Styles. While earlier press releases and user guides indicated these features would be available on older devices supporting the latest Photographic Styles generation—including the iPhone 16 and 17 series—revised documentation restricts the functionality to iPhone 18 Pro models and the iPhone Duo.</p><p>The shift follows changes to Apple's iOS 27 User Guide and official newsroom announcements. These controls allow users to modify the texture and grain of a photograph while preserving natural skin tones, but the updated guidelines confirm they are limited to the newest hardware iterations.</p><p><img src="https://photo.znews.vn/Uploaded/yqdlcqrwq/2026_05_13/03813052026_apple_iphone_18_pro.jpg" /></p><hr/><small>22 Sep 2026, 20:40 UTC | #21956</small>]]></content>
+  </entry>
   <entry>
     <title>Programming Language Design Recommendations</title>
     <link href="https://blog.veritates.love/design-it-right" rel="alternate" />
@@ -856,22 +874,5 @@
     <updated>2026-09-17T21:22:00+00:00</updated>
     <media:thumbnail url="https://www.findarticles.com/wp-content/uploads/2026/02/flock_safety_alpr_edited_1771877046.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/">micahflee.com</a> | <a href="https://data.ddosecrets.org/Flock%20ALPR%20camera/">source</a> | <a href="https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security">discussion</a> | <a href="https://news.ycombinator.com/item?id=49733836">hacker news</a></small></p><hr/><p>Flock ALPR cameras contain critical security vulnerabilities, including the use of obsolete, unsupported software. The devices run end-of-life Android 8.1 and an outdated Linux kernel, leaving them susceptible to known exploits that can grant full device control or root access.</p><p>A dataset released by DDoSecrets revealed hard-coded API keys in the firmware that allow for the retrieval of Auth0 credentials for any Flock camera using its MAC address. This flaw potentially permits unauthorized access to the company's backend infrastructure. Analysis of the device logs also allowed for the physical identification of the camera's location in Wauwatosa, Wisconsin.</p><p><img src="https://www.findarticles.com/wp-content/uploads/2026/02/flock_safety_alpr_edited_1771877046.png" /></p><hr/><small>18 Sep 2026, 02:36 UTC | #21524</small>]]></content>
-  </entry>
-  <entry>
-    <title>Wax Motor Mechanism and Applications</title>
-    <link href="https://en.wikipedia.org/wiki/Wax_motor" rel="alternate" />
-    <id>https://en.wikipedia.org/wiki/Wax_motor::v239</id>
-    <published>2026-09-17T20:49:00+00:00</published>
-    <updated>2026-09-17T20:49:00+00:00</updated>
-    <media:thumbnail url="https://d5z0fzovnqnjp.cloudfront.net/73adb9ddd6d5b0df23a56779a7d272f9.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://en.wikipedia.org/wiki/Wax_motor">en.wikipedia.org</a> | <a href="https://news.ycombinator.com/item?id=49726007">hacker news</a></small></p><hr/><p>These linear actuators convert thermal energy into mechanical energy by exploiting the volume expansion of wax during its phase change. A typical device consists of an enclosed volume of wax, a plunger to convert hydraulic force into mechanical output, and both a heat source and a heat sink.</p><p>These actuators can operate passively by matching wax melting points to ambient temperature ranges and provide significant hydraulic force. They are utilized in aerospace controls, HVAC thermostatic valves, washing machine door locks, and greenhouse ventilation systems.</p><p><img src="https://d5z0fzovnqnjp.cloudfront.net/73adb9ddd6d5b0df23a56779a7d272f9.jpg" /></p><hr/><small>18 Sep 2026, 01:37 UTC | #21520</small>]]></content>
-  </entry>
-  <entry>
-    <title>Bend Programming Language Uses Formal Proofs to Prevent AI Coding Errors</title>
-    <link href="https://bend-lang.com/" rel="alternate" />
-    <id>https://bend-lang.com/::v239</id>
-    <published>2026-09-17T20:37:00+00:00</published>
-    <updated>2026-09-17T20:37:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://bend-lang.com/">bend-lang.com</a> | <a href="https://news.ycombinator.com/item?id=49746163">hacker news</a></small></p><hr/><p>Bend is a high-performance programming language that uses formal proofs to ensure AI-generated code adheres to specific constraints. Through its BendTT affine dependent type theory, developers can define "laws" that the compiler verifies as mathematical theorems, effectively blocking logic errors that would otherwise be introduced by AI agents during code generation.</p><p>The language offers Python-like syntax and is designed for massive parallelism, capable of running on both CPUs and GPUs through the BendRT runtime. This approach aims to bridge the gap between natural language intent and executable code, providing a fast and verifiable way to build applications in an AI-centric development environment.</p><hr/><small>17 Sep 2026, 23:52 UTC | #21506</small>]]></content>
   </entry>
 </feed>

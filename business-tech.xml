@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-22T18:15:00+00:00</updated>
+  <updated>2026-09-22T18:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Xi Jinping Unlikely to Bring Corporate Executives to Trump Summit</title>
+    <link href="https://www.wsj.com/world/china/trump-summit-with-xi-unlikely-to-include-chinese-ceos-7a9e90dd?st=uiCeWn&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/world/china/trump-summit-with-xi-unlikely-to-include-chinese-ceos-7a9e90dd?st=uiCeWn&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-09-22T18:20:00+00:00</published>
+    <updated>2026-09-22T18:20:00+00:00</updated>
+    <media:thumbnail url="https://www.mediaite.com/wp-content/uploads/2026/05/Beaming-Trump-Stoked-As-Xi-Jinping-Shouts-Out-MAGA-During-Live-Global-Event.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/world/china/trump-summit-with-xi-unlikely-to-include-chinese-ceos-7a9e90dd?st=uiCeWn&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>The Chinese leader is expected to arrive in Washington for his summit with Donald Trump without a significant delegation of business leaders. Although industry officials had anticipated Chinese executives would join high-level discussions, expectations for major commercial agreements during the visit have faded.</p><p>A planned state dinner is expected to include major American technology executives, such as leaders from OpenAI, Nvidia, and Microsoft. The summit takes place as Washington and Beijing work to manage complex tensions involving artificial intelligence, semiconductors, and trade policy.</p><p><img src="https://www.mediaite.com/wp-content/uploads/2026/05/Beaming-Trump-Stoked-As-Xi-Jinping-Shouts-Out-MAGA-During-Live-Global-Event.jpg" /></p><hr/><small>22 Sep 2026, 20:44 UTC | #21961</small>]]></content>
+  </entry>
   <entry>
     <title>TechCrunch Disrupt 2026 to Feature Five AI Safety Sessions</title>
     <link href="https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/" rel="alternate" />
@@ -958,41 +967,5 @@
     <updated>2026-09-17T21:24:00+00:00</updated>
     <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Xgn0B.img?w=1280&amp;h=720&amp;m=4&amp;q=100" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-17/ai-pioneer-andrew-ng-calls-extinction-fears-science-fiction">bloomberg.com</a></small></p><hr/><p>AI pioneer Andrew Ng has dismissed warnings from researchers at major AI model makers regarding the existential risks of artificial intelligence, characterizing the claims as "much more science fiction than science." He suggests the recent surge of concern regarding catastrophic AI outcomes is a "wave of PR" likely intended to shape the landscape of AI regulation.</p><p>Emphasizing hypothetical, high-consequence risks may lead to restrictive regulatory frameworks that favor dominant technology firms by creating barriers to entry for open-source developers. This focus could also divert attention from using AI to mitigate established global risks such as climate change and pandemics.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Xgn0B.img?w=1280&h=720&m=4&q=100" /></p><hr/><small>18 Sep 2026, 03:12 UTC | #21483</small>]]></content>
-  </entry>
-  <entry>
-    <title>Global Public Sentiment on AI's Impact on Jobs and Inequality</title>
-    <link href="https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/" rel="alternate" />
-    <id>https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/::v239</id>
-    <published>2026-09-17T20:50:00+00:00</published>
-    <updated>2026-09-17T20:50:00+00:00</updated>
-    <media:thumbnail url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=640" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/">pewresearch.org</a></small></p><hr/><p>A Pew Research Center study of 42,151 people across 36 countries reveals that in 34 of the 37 nations surveyed, more people expect artificial intelligence to cause job loss than job growth. This skepticism is most pronounced in high-income countries like Australia, South Korea, and the United States, where approximately 70% of adults anticipate job losses over the next 20 years.</p><p>The research also indicates that many respondents believe AI will exacerbate economic inequality by widening the gap between the wealthy and the poor. Additionally, concern regarding AI-driven job loss is increasingly common among young adults aged 18 to 34 in several high- and middle-income nations, including Canada, France, and India.</p><p><img src="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/09/PG_26.09.17_GlobalViewsOfAI_featured@2x.png?w=640" /></p><hr/><small>18 Sep 2026, 01:52 UTC | #21476</small>]]></content>
-  </entry>
-  <entry>
-    <title>United Nations and Google Launch UN System Data Commons for AI Accessibility</title>
-    <link href="https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/::v239</id>
-    <published>2026-09-17T20:46:00+00:00</published>
-    <updated>2026-09-17T20:46:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/undata-update.jpg" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/">source</a></small></p><hr/><p>The United Nations has launched the UN System Data Commons in partnership with Google to make global statistical datasets more accessible to AI systems. Built on Google’s open-source Data Commons platform, the system uses the Model Context Protocol (MCP) to allow AI agents to query UN agency data through natural-language prompts. The initiative aims to host 80% of the UN system’s statistical datasets on the platform by 2027.</p><p>This initiative addresses reliability issues in generative AI, following a UNICEF study that found major large language models averaged only 21.2% accuracy when answering questions about global development indicators. By enabling AI agents to connect directly to authoritative sources and trace data back to its original UN source, the system aims to mitigate inaccurate or "hedged" AI responses. Google.org provided $2 million in capacity-building funding to support the platform’s core infrastructure.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/undata-update.jpg" /></p><hr/><small>18 Sep 2026, 01:10 UTC | #21482</small>]]></content>
-  </entry>
-  <entry>
-    <title>Microsoft Executive Describes AI Scraping as 'Theft' in Unredacted Lawsuit Filings</title>
-    <link href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/::v239</id>
-    <published>2026-09-17T20:44:00+00:00</published>
-    <updated>2026-09-17T20:44:00+00:00</updated>
-    <media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/18140038001/1a011a56-9140-44ff-b912-402d72317742/01722069-739c-410f-94e2-9546b95ce09f/3840x2160/match/image.jpg" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/">techcrunch.com</a> | <a href="https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation/">source</a> | <a href="https://news.ycombinator.com/item?id=49748529">hacker news</a></small></p><hr/><p>Unredacted filings in The New York Times’ lawsuit against OpenAI and Microsoft reveal internal communications where executives characterized AI training practices. A Microsoft executive described AI scraping as "the largest theft of labor in human history," while OpenAI leadership called their products an "existential threat" to publishers. The documents also detail methods allegedly used to bypass paywalls and strip copyright notices from training datasets.</p><p>The unsealed material notes that Microsoft Copilot reduced click-through rates for The New York Times domain by as much as 93% compared to traditional search. The filings also reveal the massive scale of data usage, including datasets containing millions of documents from news organizations. These findings challenge the "fair use" defense by illustrating the direct competitive and economic impact of AI models on their content sources.</p><p><img src="https://cf-images.us-east-1.prod.boltdns.net/v1/static/18140038001/1a011a56-9140-44ff-b912-402d72317742/01722069-739c-410f-94e2-9546b95ce09f/3840x2160/match/image.jpg" /></p><hr/><small>18 Sep 2026, 00:56 UTC | #21478</small>]]></content>
-  </entry>
-  <entry>
-    <title>Bay Area Tech Layoffs Affect Over 14,500 Workers as Engineer Demand Declines</title>
-    <link href="https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near" rel="alternate" />
-    <id>https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near::v239</id>
-    <published>2026-09-17T20:43:00+00:00</published>
-    <updated>2026-09-17T20:43:00+00:00</updated>
-    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20kgmH.img?w=768&amp;h=726&amp;m=6" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near">bloomberg.com</a></small></p><hr/><p>More than 14,500 layoff notices were filed for workers in the Bay Area during the 12-month period ending in June. This contraction in the labor market is accompanied by a 42% decrease in demand for software engineers in the region compared to 2022 levels.</p><p>The surge in wealth generated by the artificial intelligence sector, highlighted by upcoming IPOs from companies like OpenAI and Anthropic, contrasts with the broader job instability in the city. While AI-driven prosperity grows, the wider employment landscape for tech professionals faces significant uncertainty.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20kgmH.img?w=768&h=726&m=6" /></p><hr/><small>18 Sep 2026, 00:31 UTC | #21466</small>]]></content>
   </entry>
 </feed>
