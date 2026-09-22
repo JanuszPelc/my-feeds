@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-22T16:38:00+00:00</updated>
+  <updated>2026-09-22T16:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>DoorDash to Pay $131.5 Million to Settle NYC Driver Pay Investigation</title>
+    <link href="https://www.wsj.com/business/doordash-to-pay-131-5-million-to-resolve-nyc-investigation-into-minimum-pay-law-compliance-8237c60e?st=Du3Cyn&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/business/doordash-to-pay-131-5-million-to-resolve-nyc-investigation-into-minimum-pay-law-compliance-8237c60e?st=Du3Cyn&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-09-22T16:42:00+00:00</published>
+    <updated>2026-09-22T16:42:00+00:00</updated>
+    <media:thumbnail url="https://i.insider.com/69737759e1ba468a96aa93f6?width=1200&amp;format=jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/business/doordash-to-pay-131-5-million-to-resolve-nyc-investigation-into-minimum-pay-law-compliance-8237c60e?st=Du3Cyn&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>The settlement of $131.5 million concludes a New York City investigation into DoorDash's compliance with a 2023 law requiring minimum pay for food-delivery workers. According to the Department of Consumer and Worker Protection (DCWP), the company underpaid or failed to pay approximately 264,000 workers due to issues with delayed compensation and the calculation of on-call time.</p><p>The agreement includes fines and back-pay to address the underpayments and mandates stricter monitoring of the company's payment methods. These requirements are intended to ensure consistent adherence to city regulations regarding driver compensation and the timeliness of payments.</p><p><img src="https://i.insider.com/69737759e1ba468a96aa93f6?width=1200&format=jpeg" /></p><hr/><small>22 Sep 2026, 19:16 UTC | #21946</small>]]></content>
+  </entry>
+  <entry>
+    <title>DeepSeek and Moonshot to Brief UN Security Council on AI Risks</title>
+    <link href="https://www.reuters.com/world/asia-pacific/deepseek-brief-un-security-council-ai-this-week-sources-say-2026-09-22/" rel="alternate" />
+    <id>https://www.reuters.com/world/asia-pacific/deepseek-brief-un-security-council-ai-this-week-sources-say-2026-09-22/::v239</id>
+    <published>2026-09-22T16:41:00+00:00</published>
+    <updated>2026-09-22T16:41:00+00:00</updated>
+    <media:thumbnail url="https://event.unitar.org/sites/default/files/styles/ems_large_event_picture/public/product/UN71136327.jpg?itok=WnXE8s1i" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/deepseek-brief-un-security-council-ai-this-week-sources-say-2026-09-22/">reuters.com</a></small></p><hr/><p>Chinese AI startups DeepSeek and Moonshot are scheduled to brief the United Nations Security Council this week regarding the risks artificial intelligence poses to international security. These briefings will occur during the high-level week of the United Nations General Assembly.</p><p>The meetings aim to address global concerns regarding AI governance and the management of emerging technological threats. Other industry leaders, including executives from OpenAI and Anthropic, are also expected to participate in discussions concerning AI safety and regulation.</p><p><img src="https://event.unitar.org/sites/default/files/styles/ems_large_event_picture/public/product/UN71136327.jpg?itok=WnXE8s1i" /></p><hr/><small>22 Sep 2026, 19:14 UTC | #21943</small>]]></content>
+  </entry>
   <entry>
     <title>China Investigates DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic</title>
     <link href="https://www.theinformation.com/articles/china-probes-deepseek-moonshot-potential-data-leaks-anthropic" rel="alternate" />

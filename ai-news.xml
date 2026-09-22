@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-22T16:37:00+00:00</updated>
+  <updated>2026-09-22T18:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Introduces GPT-6 Sol and Luna Models</title>
+    <link href="https://openai.com/index/introducing-gpt-6-sol-and-luna/" rel="alternate" />
+    <id>https://openai.com/index/introducing-gpt-6-sol-and-luna/::v239</id>
+    <published>2026-09-22T18:01:00+00:00</published>
+    <updated>2026-09-22T18:01:00+00:00</updated>
+    <media:thumbnail url="https://image.pcrookie.com/2026/07/GPT-5.6-ChatGPT--SolTerraLuna2026_2516DAE3/gpt-5-6-sol-terra-luna-comparison.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://openai.com/index/introducing-gpt-6-sol-and-luna/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=49805509">hacker news</a></small></p><hr/><p>OpenAI has expanded its GPT-6 family with the release of Sol and Luna, two models designed to provide high-level intelligence at a significantly lower cost than the flagship Astra model. These models focus on delivering high performance in professional workflows, coding, factuality, and computer use.</p><p>The release includes a 50% reduction in API pricing for Sol and Luna compared to previous GPT-5.6 rates. These models are available now in ChatGPT Work, Codex, and the OpenAI API, with improved capabilities in complex software engineering and automated business workflows.</p><p><img src="https://image.pcrookie.com/2026/07/GPT-5.6-ChatGPT--SolTerraLuna2026_2516DAE3/gpt-5-6-sol-terra-luna-comparison.png" /></p><hr/><small>22 Sep 2026, 19:25 UTC | #22001</small>]]></content>
+  </entry>
   <entry>
     <title>Apollo AI Model to Aid Reconstruction of Ancient Greek Papyrus</title>
     <link href="https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/" rel="alternate" />
