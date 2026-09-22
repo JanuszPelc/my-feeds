@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-22T18:20:00+00:00</updated>
+  <updated>2026-09-22T18:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Military Modifies AI Combat Targeting Following Iran School Strike</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-22/us-military-modifies-ai-combat-targeting-after-iran-minab-school-strike?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDA4MDYyNCwiZXhwIjoxNzkwNjg1NDI0LCJhcnRpY2xlSWQiOiJUTFJNUUNOM04wOUwwMCIsImJjb25uZWN0SWQiOiI3RUQyQkMyREM0OEQ0RTMyQjgzNzQ5MTVDRjJDMUZEMCJ9.KOl5-QsNqn-f2FKY9khbJrwxPPvPrqU0y5e4LmmIJDQ" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-22/us-military-modifies-ai-combat-targeting-after-iran-minab-school-strike?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDA4MDYyNCwiZXhwIjoxNzkwNjg1NDI0LCJhcnRpY2xlSWQiOiJUTFJNUUNOM04wOUwwMCIsImJjb25uZWN0SWQiOiI3RUQyQkMyREM0OEQ0RTMyQjgzNzQ5MTVDRjJDMUZEMCJ9.KOl5-QsNqn-f2FKY9khbJrwxPPvPrqU0y5e4LmmIJDQ::v239</id>
+    <published>2026-09-22T18:23:00+00:00</published>
+    <updated>2026-09-22T18:23:00+00:00</updated>
+    <media:thumbnail url="https://img.36krcdn.com/hsossms/20260323/v2_4add33283d8246afbb02d15867763e13@5888275_oswg535483oswg1021oswg580_img_000?x-oss-process=image/format,jpg/interlace,1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-22/us-military-modifies-ai-combat-targeting-after-iran-minab-school-strike?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDA4MDYyNCwiZXhwIjoxNzkwNjg1NDI0LCJhcnRpY2xlSWQiOiJUTFJNUUNOM04wOUwwMCIsImJjb25uZWN0SWQiOiI3RUQyQkMyREM0OEQ0RTMyQjgzNzQ5MTVDRjJDMUZEMCJ9.KOl5-QsNqn-f2FKY9khbJrwxPPvPrqU0y5e4LmmIJDQ">bloomberg.com</a></small></p><hr/><p>US Central Command has modified its combat targeting processes and upgraded Palantir's Maven AI system following a deadly strike on a school in Minab, Iran. The changes include more rigorous target vetting and the integration of open-source data feeds intended to better track civilian movements.</p><p>The updates follow concerns that reliance on automated intelligence may have contributed to the incident. Investigations into the strike indicated that the Maven Smart System, designed to accelerate the military's "kill chain," may have been provided with outdated or inconsistent intelligence during the operation.</p><p><img src="https://img.36krcdn.com/hsossms/20260323/v2_4add33283d8246afbb02d15867763e13@5888275_oswg535483oswg1021oswg580_img_000?x-oss-process=image/format,jpg/interlace,1" /></p><hr/><small>22 Sep 2026, 21:09 UTC | #21960</small>]]></content>
+  </entry>
   <entry>
     <title>Xi Jinping Unlikely to Bring Corporate Executives to Trump Summit</title>
     <link href="https://www.wsj.com/world/china/trump-summit-with-xi-unlikely-to-include-chinese-ceos-7a9e90dd?st=uiCeWn&amp;reflink=desktopwebshare_permalink" rel="alternate" />
