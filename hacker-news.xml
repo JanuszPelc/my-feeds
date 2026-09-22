@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T23:50:00+00:00</updated>
+  <updated>2026-09-21T23:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Evocation: A New Self-Bootstrapping Forth Dialect</title>
+    <link href="https://code.irenes.space/evocation/tree/README.txt" rel="alternate" />
+    <id>https://code.irenes.space/evocation/tree/README.txt::v239</id>
+    <published>2026-09-21T23:58:00+00:00</published>
+    <updated>2026-09-21T23:58:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQEEGhr-9Es_-g/feedshare-shrink_800/B4EZvmvRhIJAAg-/0/1769102711134?e=2147483647&amp;v=beta&amp;t=Hxxny2Sel40SWto4Rd48K83F_WAxo1ZXpuSCNHupBsg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://code.irenes.space/evocation/tree/README.txt">code.irenes.space</a> | <a href="https://code.irenes.space/evocation">source</a> | <a href="https://lobste.rs/s/kpegs1/evocation_call_forth_blue_green_flame">discussion</a></small></p><hr/><p>Evocation is a new dialect of the Forth programming language developed by Irenes. It is a self-hosting, self-bootstrapping compiler targeting the amd64 architecture, designed to serve as a platform for experimenting with parse theory, type theory, and database structures.</p><p>Its unique bootstrapping mechanism allows the compiler to generate a commented hex dump of itself from high-level source code, enabling auditors to verify the provenance of every byte in the resulting binary. The implementation avoids the use of differentiable neural networks and utilizes a "log" for memory management rather than traditional deallocation methods.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQEEGhr-9Es_-g/feedshare-shrink_800/B4EZvmvRhIJAAg-/0/1769102711134?e=2147483647&v=beta&t=Hxxny2Sel40SWto4Rd48K83F_WAxo1ZXpuSCNHupBsg" /></p><hr/><small>22 Sep 2026, 08:19 UTC | #21923</small>]]></content>
+  </entry>
   <entry>
     <title>Meta's Muse AI Assistant Has Zero-Day Vulnerability</title>
     <link href="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/" rel="alternate" />
