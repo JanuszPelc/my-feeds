@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-21T17:23:00+00:00</updated>
+  <updated>2026-09-21T20:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Establishes Advisory Group on Mathematics and AI</title>
+    <link href="https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/::v239</id>
+    <published>2026-09-21T20:16:00+00:00</published>
+    <updated>2026-09-21T20:16:00+00:00</updated>
+    <media:thumbnail url="https://deepsense.ai/wp-content/uploads/2025/12/16-2-1024x768.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/">techcrunch.com</a> | <a href="https://openai.com/index/advisory-group-on-mathematics-and-ai/">source</a> | <a href="https://news.ycombinator.com/item?id=49790389">hacker news</a></small></p><hr/><p>OpenAI has launched the Advisory Group on Mathematics and Artificial Intelligence, hosted at the Institute for Advanced Study. The group is intended to serve as a bridge to the mathematical community, allowing researchers to provide input on the review and communication of the company's emerging mathematical discoveries.</p><p>This initiative follows OpenAI's claims that its internal models have resolved more than 100 open mathematical problems, including the Navier-Stokes Millennium Prize problem. The formation of the group comes amid criticism from prominent mathematicians who argue that the rapid pace of AI-generated solutions may threaten the integrity of established intellectual work.</p><p><img src="https://deepsense.ai/wp-content/uploads/2025/12/16-2-1024x768.png" /></p><hr/><small>22 Sep 2026, 01:24 UTC | #21889</small>]]></content>
+  </entry>
   <entry>
     <title>xAI Releases Grok 4.7</title>
     <link href="https://x.ai/news/grok-4-7" rel="alternate" />

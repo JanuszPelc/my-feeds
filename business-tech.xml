@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T19:23:00+00:00</updated>
+  <updated>2026-09-21T19:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI and Anthropic Negotiated Model Stress-Testing Deal</title>
+    <link href="https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai" rel="alternate" />
+    <id>https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai::v239</id>
+    <published>2026-09-21T19:28:00+00:00</published>
+    <updated>2026-09-21T19:28:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!gYyO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/9cc7b94d-86bf-4b98-b174-6168f0ad4f27_684x723.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai">theinformation.com</a></small></p><hr/><p>OpenAI was negotiating a legally binding agreement with Anthropic to conduct mutual stress-testing of their respective AI models. These discussions were underway before a series of cybersecurity incidents involving OpenAI's technology.</p><p>This potential collaboration is occurring as OpenAI reevaluates its safety strategies in response to concerns from employees and other stakeholders regarding the risks posed by its AI models.</p><p><img src="https://substackcdn.com/image/fetch/$s_!gYyO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/9cc7b94d-86bf-4b98-b174-6168f0ad4f27_684x723.png" /></p><hr/><small>22 Sep 2026, 01:22 UTC | #21879</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Urges US to Lead Global AI Safety Standards Development</title>
     <link href="https://www.axios.com/2026/09/21/openai-ai-safety-standards-us-china" rel="alternate" />
