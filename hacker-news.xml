@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T18:07:00+00:00</updated>
+  <updated>2026-09-21T19:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Managing Apple Intelligence Features on Mac</title>
+    <link href="https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac" rel="alternate" />
+    <id>https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac::v239</id>
+    <published>2026-09-21T19:24:00+00:00</published>
+    <updated>2026-09-21T19:24:00+00:00</updated>
+    <media:thumbnail url="https://cdn.iphoneincanada.ca/wp-content/uploads/2026/06/apple-intelligence-siri-release-date-768x433.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac">support.apple.com</a> | <a href="https://news.ycombinator.com/item?id=49790409">hacker news</a></small></p><hr/><p>macOS users can disable or restrict various Apple Intelligence capabilities through System Settings. This includes reverting Siri AI (Beta) to the classic Siri and turning off summarization for Messages, Email, and Notifications.</p><p>Controls also extend to personalized smart replies, voicemail suggestions, and writing prompts in the Journal app. Users can also utilize Screen Time to restrict access to these features for children.</p><p><img src="https://cdn.iphoneincanada.ca/wp-content/uploads/2026/06/apple-intelligence-siri-release-date-768x433.jpg" /></p><hr/><small>22 Sep 2026, 00:44 UTC | #21907</small>]]></content>
+  </entry>
   <entry>
     <title>Bypassing CGNAT for Self-Hosting via WireGuard Tunnel</title>
     <link href="https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/" rel="alternate" />
