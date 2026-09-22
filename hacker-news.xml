@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T22:35:00+00:00</updated>
+  <updated>2026-09-21T22:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Transformer Explainer Visualizes Transformer Model Architecture</title>
+    <link href="https://poloclub.github.io/transformer-explainer/" rel="alternate" />
+    <id>https://poloclub.github.io/transformer-explainer/::v239</id>
+    <published>2026-09-21T22:39:00+00:00</published>
+    <updated>2026-09-21T22:39:00+00:00</updated>
+    <media:thumbnail url="https://poloclub.github.io/transformer-explainer/article_assets/embedding.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://poloclub.github.io/transformer-explainer/">poloclub.github.io</a> | <a href="https://news.ycombinator.com/item?id=49792342">hacker news</a></small></p><hr/><p>Transformer Explainer is an interactive visualization tool that decomposes the architecture of Transformer-based models, such as GPT-2, into digestible components. It walks through the sequence of tokenization, embedding, multi-head self-attention, and multilayer perceptron (MLP) layers to illustrate how large language models generate text through next-token prediction.</p><p>By utilizing the GPT-2 (small) model, the tool provides a detailed look at how tokens are transformed into numerical vectors and how attention mechanisms capture semantic relationships between words. The interactive approach is designed to make the complex mathematical foundations of modern artificial intelligence accessible to non-experts.</p><p><img src="https://poloclub.github.io/transformer-explainer/article_assets/embedding.png" /></p><hr/><small>22 Sep 2026, 04:20 UTC | #21913</small>]]></content>
+  </entry>
   <entry>
     <title>Named and Optional Arguments in Rust</title>
     <link href="https://botahamec.dev/named-optional-args" rel="alternate" />
