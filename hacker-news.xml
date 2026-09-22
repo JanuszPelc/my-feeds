@@ -874,22 +874,4 @@
     <media:thumbnail url="https://kruschecompany.com/wp-content/uploads/2023/11/Infographic-showing-common-areas-of-use-of-the-Rust-programming-languages-1536x864.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://verdagon.dev/blog/golden-spike-reviving-vale-valen">verdagon.dev</a> | <a href="https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n">discussion</a> | <a href="https://news.ycombinator.com/item?id=49742169">hacker news</a></small></p><hr/><p>Evan Ovadia is developing Valen, a programming language derived from his existing language, Vale. The project's primary objective is to achieve seamless interoperability with Rust by enabling cross-language generics, a capability currently limited by the constraints of the C ABI. This feature would allow Valen to interact with Rust's generic systems and allow Rust to call back into Valen code while maintaining type information.</p><p>To facilitate this, the Valen compiler is intended to lazily generate corresponding Rust function signatures within its own Abstract Syntax Tree (AST). This design seeks to bypass the challenges posed by Rust's lack of a stable ABI, aiming to support memory safety and performance across the language boundary. The project is currently in an experimental development phase.</p><p><img src="https://kruschecompany.com/wp-content/uploads/2023/11/Infographic-showing-common-areas-of-use-of-the-Rust-programming-languages-1536x864.png" /></p><hr/><small>17 Sep 2026, 18:40 UTC | #21468</small>]]></content>
   </entry>
-  <entry>
-    <title>Chaos Computer Club Opens Call for Participation for 40C3</title>
-    <link href="https://events.ccc.de/en/2026/09/12/40c3-model-citizens/" rel="alternate" />
-    <id>https://events.ccc.de/en/2026/09/12/40c3-model-citizens/::v239</id>
-    <published>2026-09-17T13:46:00+00:00</published>
-    <updated>2026-09-17T13:46:00+00:00</updated>
-    <media:thumbnail url="https://events.ccc.de/media/37c3-53598978540.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://events.ccc.de/en/2026/09/12/40c3-model-citizens/">events.ccc.de</a> | <a href="https://news.ycombinator.com/item?id=49737787">hacker news</a></small></p><hr/><p>The Chaos Computer Club (CCC) has announced the 40th Chaos Communication Congress (40C3), scheduled for December 27–30, 2026, in Hamburg. The event is currently accepting submissions for lecture content, musical performances, art installations, and punk/anarchic performances under the theme "Model Citizens."</p><p>Following a move to the Hamburg Exhibition halls, the non-commercial, volunteer-led congress expects to host over 16,000 visitors. The programming aims to explore new models for society and civil liberties through a collaborative, community-driven platform.</p><p><img src="https://events.ccc.de/media/37c3-53598978540.webp" /></p><hr/><small>17 Sep 2026, 18:35 UTC | #21472</small>]]></content>
-  </entry>
-  <entry>
-    <title>Zed Launches Delta Public Beta</title>
-    <link href="https://zed.dev/blog/delta-public-beta" rel="alternate" />
-    <id>https://zed.dev/blog/delta-public-beta::v239</id>
-    <published>2026-09-17T13:39:00+00:00</published>
-    <updated>2026-09-17T13:39:00+00:00</updated>
-    <media:thumbnail url="https://images.zed.dev/blog/delta-public-beta/demo-poster.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://zed.dev/blog/delta-public-beta">zed.dev</a> | <a href="https://lobste.rs/s/c5xrht/replacing_pull_requests_with_delta">discussion</a> | <a href="https://news.ycombinator.com/item?id=49727245">hacker news</a></small></p><hr/><p>Zed has released the public beta of Delta, a multiplayer coding environment optimized for working with AI agents. The platform uses DeltaDB, an incremental versioning system that records code edits and agent conversations alongside changes, to transition from traditional pull request workflows to a thread-based collaboration model.</p><p>Delta allows developers to invite teammates into agentic workstreams where they can explore code changes in isolated worktrees that preserve the context of the agent's decisions. While compatible with Git, the platform is designed to facilitate "continuous engineering" by consolidating implementation, review, and merging within a single, synchronized workspace.</p><p><img src="https://images.zed.dev/blog/delta-public-beta/demo-poster.webp" /></p><hr/><small>17 Sep 2026, 17:29 UTC | #21463</small>]]></content>
-  </entry>
 </feed>
