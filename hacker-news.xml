@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T12:18:00+00:00</updated>
+  <updated>2026-09-22T12:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Cloudflare Python Workers Reach General Availability</title>
+    <link href="https://blog.cloudflare.com/python-workers-ga/" rel="alternate" />
+    <id>https://blog.cloudflare.com/python-workers-ga/::v239</id>
+    <published>2026-09-22T12:21:00+00:00</published>
+    <updated>2026-09-22T12:21:00+00:00</updated>
+    <media:thumbnail url="https://blog.cloudflare.com/_image?href=https%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01M2V34B98AFHX986KP70WF54Y.01M2V34CGNFYXX59FZ2MPKEKWK.png&amp;w=715&amp;h=325&amp;f=webp&amp;fit=cover&amp;position=center" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.cloudflare.com/python-workers-ga/">blog.cloudflare.com</a> | <a href="https://news.ycombinator.com/item?id=49787142">hacker news</a></small></p><hr/><p>Cloudflare's Python Workers have reached general availability, integrating Python as a first-class language within the Cloudflare Developer Platform. This release provides native support for Cloudflare's ecosystem—including Workers AI, R2, D1, and Durable Objects—eliminating the need for manual JavaScript type conversions when interacting with platform bindings.</p><p>The platform now supports popular web frameworks like FastAPI, Django, and Flask through built-in ASGI and WSGI connectors. Furthermore, custom socket system call implementations allow database drivers for PostgreSQL and MySQL to connect via Hyperdrive, and updated networking support enables AI orchestration libraries like langchain and openai to run natively.</p><p><img src="https://blog.cloudflare.com/_image?href=https%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01M2V34B98AFHX986KP70WF54Y.01M2V34CGNFYXX59FZ2MPKEKWK.png&w=715&h=325&f=webp&fit=cover&position=center" /></p><hr/><small>22 Sep 2026, 16:10 UTC | #21979</small>]]></content>
+  </entry>
   <entry>
     <title>Fearless SIMD 1.0 Released</title>
     <link href="https://linebender.org/blog/fearless-simd-1-0/" rel="alternate" />
