@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-21T20:16:00+00:00</updated>
+  <updated>2026-09-21T22:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Meta's Muse AI App Surpasses 900,000 Downloads in First Six Days</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews::v239</id>
+    <published>2026-09-21T22:32:00+00:00</published>
+    <updated>2026-09-21T22:32:00+00:00</updated>
+    <media:thumbnail url="https://m.media-amazon.com/images/S/aplus-media-library-service-media/8e502a0e-714a-410e-856a-1c4ed62ce98a.__CR0,0,600,450_PT0_SX600_V1___.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews">bloomberg.com</a></small></p><hr/><p>The new AI agent, Muse, reached over 902,000 downloads in the six days following its September 8 launch, outperforming Meta AI's 773,000 downloads in the same period.</p><p>This rapid adoption coincided with a more than 12% increase in Meta Platforms Inc. stock. Data from Sensor Tower indicates the app has moved to the top of several mobile app charts.</p><p><img src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/8e502a0e-714a-410e-856a-1c4ed62ce98a.__CR0,0,600,450_PT0_SX600_V1___.jpg" /></p><hr/><small>22 Sep 2026, 02:09 UTC | #21884</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Establishes Advisory Group on Mathematics and AI</title>
     <link href="https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/" rel="alternate" />
