@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-21T19:28:00+00:00</updated>
+  <updated>2026-09-21T22:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Gavin Newsom Signs Seven Bills Regulating California Data Centers</title>
+    <link href="https://www.reuters.com/legal/litigation/california-governor-signs-broad-data-center-oversight-bill-package-2026-09-21/" rel="alternate" />
+    <id>https://www.reuters.com/legal/litigation/california-governor-signs-broad-data-center-oversight-bill-package-2026-09-21/::v239</id>
+    <published>2026-09-21T22:34:00+00:00</published>
+    <updated>2026-09-21T22:34:00+00:00</updated>
+    <media:thumbnail url="https://aicertswpcdn.blob.core.windows.net/newsportal/2026/01/california-data-center-at-sunset.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/california-governor-signs-broad-data-center-oversight-bill-package-2026-09-21/">reuters.com</a> | <a href="https://www.gov.ca.gov/2026/09/21/governor-newsom-signs-most-comprehensive-data-center-laws-in-the-nation-providing-communities-more-control-on-water-electricity-and-land-use/">source</a></small></p><hr/><p>California Governor Gavin Newsom has signed a package of seven bills aimed at regulating the state's growing data center industry. The new laws mandate reporting for electricity and water consumption and grant local municipalities increased oversight regarding land use and facility development.</p><p>These measures aim to provide communities with greater control over the resource demands of high-density computing infrastructure. The legislation focuses on enhancing transparency and managing the impact of data centers on California's utility and land resources.</p><p><img src="https://aicertswpcdn.blob.core.windows.net/newsportal/2026/01/california-data-center-at-sunset.jpg" /></p><hr/><small>22 Sep 2026, 02:22 UTC | #21886</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI and Anthropic Negotiated Model Stress-Testing Deal</title>
     <link href="https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai" rel="alternate" />

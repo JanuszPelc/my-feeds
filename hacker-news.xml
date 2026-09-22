@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-21T19:24:00+00:00</updated>
+  <updated>2026-09-21T22:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Named and Optional Arguments in Rust</title>
+    <link href="https://botahamec.dev/named-optional-args" rel="alternate" />
+    <id>https://botahamec.dev/named-optional-args::v239</id>
+    <published>2026-09-21T22:35:00+00:00</published>
+    <updated>2026-09-21T22:35:00+00:00</updated>
+    <media:thumbnail url="https://electronicsreference.com/wp-content/uploads/2023/02/Rust-function-parameters-and-arguments.gif" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://botahamec.dev/named-optional-args">botahamec.dev</a> | <a href="https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome">discussion</a></small></p><hr/><p>The article examines the absence of named and optional arguments in Rust, comparing its approach to other languages like Dart, C#, and TypeScript. It highlights how Rust's current reliance on the `Default` trait or multiple function overloads can lead to increased verbosity and programmer error.</p><p>The text evaluates several potential language improvements, including structural records, default field values, and a "public arguments" proposal. These features aim to improve ergonomics for functions with many parameters or complex constructor requirements.</p><p><img src="https://electronicsreference.com/wp-content/uploads/2023/02/Rust-function-parameters-and-arguments.gif" /></p><hr/><small>22 Sep 2026, 02:24 UTC | #21909</small>]]></content>
+  </entry>
   <entry>
     <title>Managing Apple Intelligence Features on Mac</title>
     <link href="https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac" rel="alternate" />
