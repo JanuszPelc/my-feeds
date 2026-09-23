@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-22T19:38:00+00:00</updated>
+  <updated>2026-09-22T19:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>23DSP Releases Time Terrarium Delay Plugin</title>
+    <link href="https://www.kvraudio.com/news/23dsp-releases-time-terrarium-68686?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68686" rel="alternate" />
+    <id>https://www.kvraudio.com/news/23dsp-releases-time-terrarium-68686?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68686::v239</id>
+    <published>2026-09-22T19:43:00+00:00</published>
+    <updated>2026-09-22T19:43:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/time-terrarium-four-seasons.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/23dsp-releases-time-terrarium-68686?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68686">kvraudio.com</a> | <a href="https://23dsp.com/products/time-terrarium/">source</a></small></p><hr/><p>23DSP has released Time Terrarium, a delay plug-in for Windows, macOS, and Linux in VST3, AU, and LV2 formats. The plugin uses a visual interface where four corner "habitats" contain different echo types—including tape, shimmer, reverse, and granular delays—and a central orb routes the incoming signal between them.</p><p>Priced at €19, the software features signal migration between habitats, orbital movement patterns, a "Seal" function for recirculating echoes without new input, and a built-in reverb called Bloom. The current version, 0.9.0-rc1, is a release candidate compatible with Intel and Apple Silicon.</p><p><img src="https://static.kvraudio.com/i/b/time-terrarium-four-seasons.jpg" /></p><hr/><small>23 Sep 2026, 00:16 UTC | #22017</small>]]></content>
+  </entry>
   <entry>
     <title>Kuassa Updates Amplifikation 360 to v1.4.0</title>
     <link href="https://www.kvraudio.com/news/kuassa-updates-amplifikation-360-to-v1-4-0---nam-a2-support-and-spring-reverb-fix-68687?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68687" rel="alternate" />
