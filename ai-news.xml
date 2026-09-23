@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-23T16:19:00+00:00</updated>
+  <updated>2026-09-23T16:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>DrivingBench Benchmark Evaluates Frontier Models Driving a Real Car</title>
+    <link href="https://drivingbench.com/" rel="alternate" />
+    <id>https://drivingbench.com/::v239</id>
+    <published>2026-09-23T16:24:00+00:00</published>
+    <updated>2026-09-23T16:24:00+00:00</updated>
+    <media:thumbnail url="https://platform.cstatic-images.com/in/v2/stock_photos/ec866336-e96d-4557-9ec1-4b3aba2db4fe/abcf167f-2f14-4963-b29e-8dbbf69bb784.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://drivingbench.com/">drivingbench.com</a> | <a href="https://news.ycombinator.com/item?id=49817404">hacker news</a></small></p><hr/><p>DrivingBench is a benchmark that evaluates the ability of frontier language models to control a real vehicle. The system provides models with access to the steering, accelerator, and brakes of a Toyota Corolla to navigate a fixed cone course. Progress is measured by the distance maintained along the course centerline, total distance traveled, and time to completion.</p><p>For safety, the vehicle's speed is capped at 8 mph and a human supervisor is always present in the driver's seat. The researchers have open-sourced the driving harness and evaluation traces to support continued study of AI-controlled physical hardware.</p><p><img src="https://platform.cstatic-images.com/in/v2/stock_photos/ec866336-e96d-4557-9ec1-4b3aba2db4fe/abcf167f-2f14-4963-b29e-8dbbf69bb784.png" /></p><hr/><small>23 Sep 2026, 20:58 UTC | #22131</small>]]></content>
+  </entry>
   <entry>
     <title>YouTube Music Adds AI-Powered Conversational and Podcast Discovery Features</title>
     <link href="https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/" rel="alternate" />

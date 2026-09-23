@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-23T16:21:00+00:00</updated>
+  <updated>2026-09-23T16:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Sony Music Group Joins Alliance for Responsible Innovation in the Arts &amp; Media</title>
+    <link href="https://variety.com/2026/music/news/sony-music-group-joins-ai-content-coalition-ariam-1236873137/" rel="alternate" />
+    <id>https://variety.com/2026/music/news/sony-music-group-joins-ai-content-coalition-ariam-1236873137/::v239</id>
+    <published>2026-09-23T16:23:00+00:00</published>
+    <updated>2026-09-23T16:23:00+00:00</updated>
+    <media:thumbnail url="https://storage.googleapis.com/strapi-blog/assets/uploads/tmppot58gou_91fba6f7ca/tmppot58gou_91fba6f7ca.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://variety.com/2026/music/news/sony-music-group-joins-ai-content-coalition-ariam-1236873137/">variety.com</a></small></p><hr/><p>Sony Music Group is the first music company to join the Alliance for Responsible Innovation in the Arts &amp; Media (ARIAM), a coalition advocating for the ethical use of generative AI in creative industries. The group, which includes members such as Disney, Adobe, and the BBC, focuses on establishing licensing frameworks that protect human artistry and ensure creators benefit from technological advancement.</p><p>This membership follows significant legal activity by Sony Music, including recent copyright infringement lawsuits against AI companies Suno and Anthropic. While the company has pursued litigation to protect its intellectual property, it has also participated in industry-wide initiatives, such as a recent funding round for Stability AI.</p><p><img src="https://storage.googleapis.com/strapi-blog/assets/uploads/tmppot58gou_91fba6f7ca/tmppot58gou_91fba6f7ca.jpg" /></p><hr/><small>23 Sep 2026, 20:55 UTC | #22086</small>]]></content>
+  </entry>
   <entry>
     <title>Waymo Launches Transit Rewards Program in San Francisco Bay Area</title>
     <link href="https://waymo.com/blog/2026/09/transit-rewards/" rel="alternate" />
