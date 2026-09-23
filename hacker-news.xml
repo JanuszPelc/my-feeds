@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-23T05:04:00+00:00</updated>
+  <updated>2026-09-23T05:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>SAML Design Flaws and the Case for Deprecation</title>
+    <link href="https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/" rel="alternate" />
+    <id>https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/::v239</id>
+    <published>2026-09-23T05:11:00+00:00</published>
+    <updated>2026-09-23T05:11:00+00:00</updated>
+    <media:thumbnail url="https://blogs.jsmon.sh/content/images/2026/04/image-14.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/">blog.trailofbits.com</a> | <a href="https://news.ycombinator.com/item?id=49806335">hacker news</a></small></p><hr/><p>SAML is an XML-based authentication protocol facing significant security challenges due to its inherent complexity and design flaws. Its reliance on XML makes implementations vulnerable to several attack classes, including XML Signature Wrapping (XSW), canonicalization errors, and parser differentials.</p><p>The transition toward modern, transport-aware protocols like OpenID Connect (OIDC) highlights SAML's "kitchen-sink" design and lack of alignment with contemporary web standards. The protocol's complexity and historical baggage suggest it is a candidate for deprecation in favor of more streamlined and secure authentication frameworks.</p><p><img src="https://blogs.jsmon.sh/content/images/2026/04/image-14.png" /></p><hr/><small>23 Sep 2026, 11:49 UTC | #22067</small>]]></content>
+  </entry>
+  <entry>
+    <title>AMD Zen 5 RDSEED Bug Causes Non-Random Zero Returns</title>
+    <link href="https://board.flatassembler.net/topic.php?t=24261" rel="alternate" />
+    <id>https://board.flatassembler.net/topic.php?t=24261::v239</id>
+    <published>2026-09-23T05:09:00+00:00</published>
+    <updated>2026-09-23T05:09:00+00:00</updated>
+    <media:thumbnail url="https://journaldev.nyc3.cdn.digitaloceanspaces.com/2012/10/generate-random-number-in-java.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://board.flatassembler.net/topic.php?t=24261">board.flatassembler.net</a> | <a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7055.html">source</a> | <a href="https://news.ycombinator.com/item?id=49798204">hacker news</a></small></p><hr/><p>The AMD Zen 5 architecture contains a hardware bug in the RDSEED instruction that causes the random number generator to return zero at an inconsistent rate. This flaw can incorrectly signal a successful operation even when the entropy is not truly random, potentially resulting in predictable cryptographic keys.</p><p>The vulnerability, cataloged as CVE-2025-62626, was addressed via security bulletin AMD-SB-7055. While testers have observed the issue in various software environments, AMD has confirmed the flaw and noted that microcode updates are required to maintain hardware randomness integrity.</p><p><img src="https://journaldev.nyc3.cdn.digitaloceanspaces.com/2012/10/generate-random-number-in-java.png" /></p><hr/><small>23 Sep 2026, 11:45 UTC | #22066</small>]]></content>
+  </entry>
   <entry>
     <title>Learning Serious Text Editors Requires Significant Time and Effort</title>
     <link href="https://utcc.utoronto.ca/~cks/space/blog/tech/EditorsAreACommitment" rel="alternate" />
