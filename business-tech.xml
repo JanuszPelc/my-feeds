@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-23T05:00:00+00:00</updated>
+  <updated>2026-09-23T05:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Major Banks Warn of Risks in Agentic Commerce</title>
+    <link href="https://gizmodo.com/big-banks-say-theyre-uneasy-about-people-shopping-via-ai-agents-2000815443" rel="alternate" />
+    <id>https://gizmodo.com/big-banks-say-theyre-uneasy-about-people-shopping-via-ai-agents-2000815443::v239</id>
+    <published>2026-09-23T05:06:00+00:00</published>
+    <updated>2026-09-23T05:06:00+00:00</updated>
+    <media:thumbnail url="https://eu-central-1-enterprise-euc1.graphassets.com/AAg7wOEyuSfq2w8Bzgd1Xz/cml53rfr900wv07wd929a36gk" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://gizmodo.com/big-banks-say-theyre-uneasy-about-people-shopping-via-ai-agents-2000815443">gizmodo.com</a> | <a href="https://newsroom.bankofamerica.com/content/dam/newsroom/docs/2026/Principles%20Paper%20-%20Final.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=49811556">hacker news</a></small></p><hr/><p>Six major global banks, including Bank of America and Capital One, have issued a report warning that "agentic commerce"—the use of AI agents to automate online shopping—poses risks to transparency, safety, privacy, consumer choice, and interoperability. As these agents gain more autonomy, the banks expressed concerns that they may lack the oversight necessary to act solely in a consumer's best interest.</p><p>The report notes that AI agents might prioritize products based on commissions or lower token costs rather than consumer preference, and warns of an increased potential for scams, fraud, and data breaches. While the consortium believes agentic commerce could become a mainstream transaction method, they emphasized that industry standards and consumer protections currently lag behind the rapid development of the technology.</p><p><img src="https://eu-central-1-enterprise-euc1.graphassets.com/AAg7wOEyuSfq2w8Bzgd1Xz/cml53rfr900wv07wd929a36gk" /></p><hr/><small>23 Sep 2026, 11:21 UTC | #22037</small>]]></content>
+  </entry>
   <entry>
     <title>Kyriakos Mitsotakis Discusses AI Regulation and Greece's Economic Recovery</title>
     <link href="https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/" rel="alternate" />
