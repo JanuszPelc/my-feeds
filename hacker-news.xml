@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-23T12:22:00+00:00</updated>
+  <updated>2026-09-23T14:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Radicle Discloses Critical Network Protocol Vulnerabilities</title>
+    <link href="https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html" rel="alternate" />
+    <id>https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html::v239</id>
+    <published>2026-09-23T14:36:00+00:00</published>
+    <updated>2026-09-23T14:36:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/941410906/original/4c8ccfd0b7/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html">radicle.dev</a> | <a href="https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability">discussion</a></small></p><hr/><p>Radicle has disclosed two critical security vulnerabilities in its network protocol affecting all released versions. The flaws permit attackers to read data in transit due to a lack of encryption and allow for peer impersonation through broken connection handshakes.</p><p>Users are advised to stop using private repositories over the network and rotate any exposed credentials until a fix is released. A planned major update will resolve the issues by migrating to the iroh networking stack, a change that will be backward-incompatible and will result in a network partition between upgraded and non-upgraded nodes.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/941410906/original/4c8ccfd0b7/1?v=1" /></p><hr/><small>23 Sep 2026, 18:04 UTC | #22108</small>]]></content>
+  </entry>
   <entry>
     <title>Parsing JSON Without Intermediate ASTs</title>
     <link href="https://arthi-chaud.github.io/posts/json-ir/" rel="alternate" />
