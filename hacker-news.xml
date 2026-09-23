@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T21:13:00+00:00</updated>
+  <updated>2026-09-22T23:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>FoxDev Studio Provides 64-bit Runtime and IDE for Visual FoxPro 9</title>
+    <link href="https://foxscript.org/" rel="alternate" />
+    <id>https://foxscript.org/::v239</id>
+    <published>2026-09-22T23:33:00+00:00</published>
+    <updated>2026-09-22T23:33:00+00:00</updated>
+    <media:thumbnail url="https://foxscript.org/screenshots/solution.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://foxscript.org/">foxscript.org</a> | <a href="https://news.ycombinator.com/item?id=49808023">hacker news</a></small></p><hr/><p>FoxDev Studio provides a 64-bit runtime and integrated development environment (IDE) for legacy Visual FoxPro 9 applications, allowing users to run existing projects without code rewrites or data conversion. The system utilizes a Rust-based bytecode interpreter compiled to WebAssembly and employs a fiber-based execution model to support non-blocking operations within the application.</p><p>The platform overcomes 32-bit architectural limitations to support datasets exceeding two gigabytes and maintains compatibility with legacy .fll libraries through a specialized 32-bit bridge. The ecosystem includes an IDE with an integrated debugger and linter, alongside FoxScript, an extension that adds modern language features such as lambdas and native HTTP server capabilities.</p><p><img src="https://foxscript.org/screenshots/solution.png" /></p><hr/><small>23 Sep 2026, 06:28 UTC | #22045</small>]]></content>
+  </entry>
   <entry>
     <title>ShinyHunters Claims Breach of FBI Systems and Theft of Employee Data</title>
     <link href="https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/" rel="alternate" />
