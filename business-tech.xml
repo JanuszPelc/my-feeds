@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-23T16:15:00+00:00</updated>
+  <updated>2026-09-23T16:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Waymo Launches Transit Rewards Program in San Francisco Bay Area</title>
+    <link href="https://waymo.com/blog/2026/09/transit-rewards/" rel="alternate" />
+    <id>https://waymo.com/blog/2026/09/transit-rewards/::v239</id>
+    <published>2026-09-23T16:21:00+00:00</published>
+    <updated>2026-09-23T16:21:00+00:00</updated>
+    <media:thumbnail url="https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/img_be0a7429_comp_006_cc.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://waymo.com/blog/2026/09/transit-rewards/">waymo.com</a> | <a href="https://news.ycombinator.com/item?id=49811065">hacker news</a></small></p><hr/><p>Riders in the San Francisco Bay Area can receive $2.85 in Waymo Cash when they pair a Waymo ride with a public transit trip within a two-hour window. To qualify, users must link a Visa card in the Waymo app. The program will initially be available to Waymo employees before a public rollout in the coming weeks.</p><p>The initiative applies to all 27 Bay Area transit agencies that support contactless Visa tap-to-pay. Waymo also announced a partnership with Caltrain to lease 40 dedicated station parking spaces for staged vehicles, a move intended to facilitate seamless multimodal transfers.</p><p><img src="https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/img_be0a7429_comp_006_cc.jpg?q=49&fit=crop&w=825&dpr=2" /></p><hr/><small>23 Sep 2026, 20:40 UTC | #22128</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Increases Sponsored Instagram Posts for ChatGPT</title>
     <link href="https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9" rel="alternate" />

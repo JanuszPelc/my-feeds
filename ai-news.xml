@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-23T16:13:00+00:00</updated>
+  <updated>2026-09-23T16:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>YouTube Music Adds AI-Powered Conversational and Podcast Discovery Features</title>
+    <link href="https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/::v239</id>
+    <published>2026-09-23T16:19:00+00:00</published>
+    <updated>2026-09-23T16:19:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/made-on-youtube-2026-ask-music.max-700x3000.format-webp.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/">techcrunch.com</a> | <a href="https://blog.youtube/news-and-events/made-on-youtube-music-new-discovery-features/">source</a></small></p><hr/><p>YouTube is adding new AI-powered features to YouTube Music to enhance music and podcast discovery. Announced at the "Made On YouTube" event, the updates include "Ask Music," a conversational tool that allows users to query the 300-million-song catalog using natural language, and "Your Podcast Lineup," an AI-generated audio guide that provides spoken previews of recommended podcast shows.</p><p>"Ask Music" enables users to create custom queues or ask specific questions about musical history and session musicians. "Your Podcast Lineup" is designed to assist listeners with podcast discovery by providing weekly, personalized spoken summaries of recommended episodes. Both features are expected to roll out soon to YouTube Music and YouTube Premium subscribers worldwide.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/made-on-youtube-2026-ask-music.max-700x3000.format-webp.png?w=680" /></p><hr/><small>23 Sep 2026, 20:35 UTC | #22106</small>]]></content>
+  </entry>
   <entry>
     <title>YouTube Expands Studio App with AI Creator Tools</title>
     <link href="https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/" rel="alternate" />
