@@ -519,22 +519,4 @@
     <media:thumbnail url="https://pub-e93d5c9fdf134c89830082377f6df465.r2.dev/2025/01/Generative-AI-edited.webp" />
     <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/18/two-legs-five-arms/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/18/two-legs-five-arms/#respond">discussion</a></small></p><hr/><p>François Pé has released Two Legs, Five Arms, a free generative drum machine and AU MIDI effect for macOS. The plugin outputs General MIDI drum notes intended for use with drum instruments in a Digital Audio Workstation (DAW) rather than generating audio directly.</p><p>The software provides generative rhythmic patterns as an AU MIDI effect. This release follows the developer's previous release of the Euclid3an Arp, a tool designed for creating polyrhythmic arpeggios.</p><p><img src="https://pub-e93d5c9fdf134c89830082377f6df465.r2.dev/2025/01/Generative-AI-edited.webp" /></p><hr/><small>18 Sep 2026, 17:22 UTC | #21582</small>]]></content>
   </entry>
-  <entry>
-    <title>RiverFlux Audio Releases PHIXER Free Phase Correction Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/18/riverflux-phixer/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/18/riverflux-phixer/::v239</id>
-    <published>2026-09-18T12:17:00+00:00</published>
-    <updated>2026-09-18T12:17:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/peswbZA2PNw/hqdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/18/riverflux-phixer/">bedroomproducersblog.com</a> | <a href="https://riverfluxaudio.gumroad.com/l/phixer">source</a> | <a href="https://bedroomproducersblog.com/2026/09/18/riverflux-phixer/#respond">discussion</a></small></p><hr/><p>RiverFlux Audio has released PHIXER, a free stereo phase correction plugin designed for macOS, Windows, and Linux. The tool is intended to reduce stereo phase cancellation and restore low-frequency energy in audio signals—such as basslines and synthesizers—that may lose weight when summed to mono.</p><p>PHIXER utilizes Coherence-Guided Spectral Phase Correction to apply adaptive phase rotation to stereo channels. It is available through Gumroad under a name-your-price model where users can select €0, and is compatible with VST3, CLAP, and AU formats.</p><p><img src="https://i.ytimg.com/vi/peswbZA2PNw/hqdefault.jpg" /></p><hr/><small>18 Sep 2026, 15:42 UTC | #21555</small>]]></content>
-  </entry>
-  <entry>
-    <title>Clarum Audio AntiBleed Now Available for Windows</title>
-    <link href="https://www.kvraudio.com/news/clarum-audio-antibleed-now-available-on-windows-vst3-68588?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68588" rel="alternate" />
-    <id>https://www.kvraudio.com/news/clarum-audio-antibleed-now-available-on-windows-vst3-68588?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68588::v239</id>
-    <published>2026-09-18T12:15:00+00:00</published>
-    <updated>2026-09-18T12:15:00+00:00</updated>
-    <media:thumbnail url="https://plugins.audio/__og-image__/image/products/clarum-audio/antibleed/og.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/clarum-audio-antibleed-now-available-on-windows-vst3-68588?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68588">kvraudio.com</a> | <a href="https://clarumaudio.com/">source</a></small></p><hr/><p>AntiBleed, an intelligent mic bleed automixer, is now available for Windows in VST3 format. Designed for multi-microphone podcast and interview recordings, the tool attenuates inactive microphones in real time while keeping active ones open.</p><p>The plugin supports up to 16 channels with zero latency and manages levels by sharing data between instances. Priced at $69, it is also compatible with macOS in VST3 and AU formats.</p><p><img src="https://plugins.audio/__og-image__/image/products/clarum-audio/antibleed/og.png" /></p><hr/><small>18 Sep 2026, 15:15 UTC | #21577</small>]]></content>
-  </entry>
 </feed>

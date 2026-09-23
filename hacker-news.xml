@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-23T05:11:00+00:00</updated>
+  <updated>2026-09-23T07:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Jev-style Decision Logic Implemented in Python</title>
+    <link href="https://www.nobodywho.ai/posts/jev-in-25-lines/" rel="alternate" />
+    <id>https://www.nobodywho.ai/posts/jev-in-25-lines/::v239</id>
+    <published>2026-09-23T07:27:00+00:00</published>
+    <updated>2026-09-23T07:27:00+00:00</updated>
+    <media:thumbnail url="https://www.marktechpost.com/wp-content/uploads/2026/09/blog111-1-1.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.nobodywho.ai/posts/jev-in-25-lines/">nobodywho.ai</a> | <a href="https://news.ycombinator.com/item?id=49812769">hacker news</a></small></p><hr/><p>A 25-line Python script mimics the behavior of decision-only "System One" models like TypeSafe AI's Jev. Using `llama-cpp-python` and `numpy`, the script loads a GGUF model and extracts logit probabilities for predefined labels to enable fast, local classification.</p><p>The implementation distinguishes simple local probability extraction from sophisticated production models that utilize synthetic data and Reinforcement Learning for Calibrated Decisions (RLCD) to achieve calibrated outputs.</p><p><img src="https://www.marktechpost.com/wp-content/uploads/2026/09/blog111-1-1.png" /></p><hr/><small>23 Sep 2026, 12:38 UTC | #22074</small>]]></content>
+  </entry>
   <entry>
     <title>SAML Design Flaws and the Case for Deprecation</title>
     <link href="https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/" rel="alternate" />
@@ -910,14 +919,5 @@
     <updated>2026-09-18T13:18:00+00:00</updated>
     <media:thumbnail url="https://louis.co.nz/assets/img/x86tso/abstract-machine.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fex-emu.com/Scourge-of-emulation/">fex-emu.com</a> | <a href="https://news.ycombinator.com/item?id=49750094">hacker news</a></small></p><hr/><p>Emulating the x86 Total Store Ordering (TSO) memory model on ARM’s weak memory ordering architecture creates significant performance overhead for emulation layers. The fundamental conflict between x86’s strict coherency requirements and ARM’s relaxed ordering necessitates the use of costly load-acquire and store-release instructions to ensure software behaves as expected on the target hardware.</p><p>Newer architectural extensions, specifically ARM's LRCPC (Release Consistency processor consistent) and Apple's dedicated hardware TSO mode, provide high-performance solutions for this problem. While unaligned memory accesses and older ARMv8.0-a implementations caused substantial slowdowns, these modern hardware features allow for a much more efficient transition between the two memory models.</p><p><img src="https://louis.co.nz/assets/img/x86tso/abstract-machine.png" /></p><hr/><small>18 Sep 2026, 17:02 UTC | #21597</small>]]></content>
-  </entry>
-  <entry>
-    <title>ZCode Silently Uploads Complete Git History and Workspace to Cloud</title>
-    <link href="https://tokenstead.ai/guides/zcode-silent-git-history-upload" rel="alternate" />
-    <id>https://tokenstead.ai/guides/zcode-silent-git-history-upload::v239</id>
-    <published>2026-09-18T12:20:00+00:00</published>
-    <updated>2026-09-18T12:20:00+00:00</updated>
-    <media:thumbnail url="https://origin2.cdn.componentsource.com/sites/default/files/styles/social/public/images/news/img_934366.png?itok=yEpzJTPx" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://tokenstead.ai/guides/zcode-silent-git-history-upload">tokenstead.ai</a> | <a href="https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/">source</a> | <a href="https://news.ycombinator.com/item?id=49752422">hacker news</a></small></p><hr/><p>Reverse-engineering of ZCode, an AI coding application from Z.ai, has revealed that the software silently packages and uploads entire user workspaces and full `.git` histories to Alibaba Cloud. The data, which encompasses LFS assets, reflogs, and global configurations, is encrypted using a symmetric key wrapped with an RSA public key that only Z.ai's server can decrypt.</p><p>The investigation indicates that the application's user-facing privacy settings do not prevent these uploads, as the process is executed via a host-level sidecar rather than the AI agent itself. Because the upload includes the complete Git lineage, it can transmit sensitive information such as deleted API keys and unpushed branch data.</p><p><img src="https://origin2.cdn.componentsource.com/sites/default/files/styles/social/public/images/news/img_934366.png?itok=yEpzJTPx" /></p><hr/><small>18 Sep 2026, 16:05 UTC | #21590</small>]]></content>
   </entry>
 </feed>
