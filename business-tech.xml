@@ -7,6 +7,33 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Spotify Launches Taste Profile Feature for U.S. Subscribers</title>
+    <link href="https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/::v239</id>
+    <published>2026-09-23T14:41:00+00:00</published>
+    <updated>2026-09-23T14:41:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/spotify-taste-profile2.jpg?w=474" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/">techcrunch.com</a> | <a href="https://support.spotify.com/us/article/your-taste-profile/">source</a></small></p><hr/><p>Spotify has begun rolling out "Taste Profile" to Premium subscribers in the United States. This AI-driven tool enables users to view and edit how the platform interprets their tastes across music, podcasts, and audiobooks. Users can utilize natural language commands to adjust recommendations, such as requesting more genre variety or changing the overall mood of their feed.</p><p>The feature, which was previously in beta in New Zealand, allows users to influence key algorithmic elements like Discover Weekly and Spotify Wrapped. By enabling users to explicitly request shifts in content or exclude specific audio types, such as sleep sounds or children's music, Spotify aims to ensure recommendations better align with a user's changing habits.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/spotify-taste-profile2.jpg?w=474" /></p><hr/><small>23 Sep 2026, 18:22 UTC | #22077</small>]]></content>
+  </entry>
+  <entry>
+    <title>Chris Hughes Proposes Office of AI Supervision</title>
+    <link href="https://www.ft.com/content/58be9a1b-345c-4026-a738-989b72858c4f" rel="alternate" />
+    <id>https://www.ft.com/content/58be9a1b-345c-4026-a738-989b72858c4f::v239</id>
+    <published>2026-09-23T14:39:00+00:00</published>
+    <updated>2026-09-23T14:39:00+00:00</updated>
+    <media:thumbnail url="https://thetalake.com/wp-content/uploads/2026/03/AI-supervision-Cutting-false-positives-the-right-way-1-1340x638.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/58be9a1b-345c-4026-a738-989b72858c4f">ft.com</a></small></p><hr/><p>Facebook co-founder Chris Hughes has proposed the establishment of an "Office of AI Supervision" to oversee frontier AI laboratories. The plan involves embedding oversight teams directly within these labs for three-year terms, a measure designed to prevent regulatory capture and ensure supervision evolves alongside rapid industry changes.</p><p>This proposed framework seeks to balance technological innovation with potential societal risks. By utilizing fixed-term embedded teams, the model aims to provide a flexible, real-time oversight mechanism that can adapt more effectively than traditional, static legislative frameworks.</p><p><img src="https://thetalake.com/wp-content/uploads/2026/03/AI-supervision-Cutting-false-positives-the-right-way-1-1340x638.png" /></p><hr/><small>23 Sep 2026, 18:20 UTC | #22064</small>]]></content>
+  </entry>
+  <entry>
+    <title>Gallup Survey Finds Global AI Sentiment Is Predominantly Positive</title>
+    <link href="https://www.nytimes.com/2026/09/23/world/ai-gallup-poll.html?unlocked_article_code=1.DVE.YqAd.JnPw-sQidvkd&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/23/world/ai-gallup-poll.html?unlocked_article_code=1.DVE.YqAd.JnPw-sQidvkd&amp;smid=url-share::v239</id>
+    <published>2026-09-23T14:38:00+00:00</published>
+    <updated>2026-09-23T14:38:00+00:00</updated>
+    <media:thumbnail url="https://images.squarespace-cdn.com/content/v1/5b79011d266c077298791201/0eb82dbc-8d55-46ef-8819-9d3d9b355e6c/DataReportal+20251013+Digital+2026+Global+Overview+Report+129.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/23/world/ai-gallup-poll.html?unlocked_article_code=1.DVE.YqAd.JnPw-sQidvkd&smid=url-share">nytimes.com</a> | <a href="https://news.gallup.com/poll/714593/optimism-globally-widespread-despite-uneven.aspx">source</a></small></p><hr/><p>A Gallup poll conducted across 37 countries found that positive sentiment toward artificial intelligence outweighs negative sentiment in 34 of those nations. Most respondents expressed curiosity or excitement about the technology rather than fear or worry.</p><p>Optimism varies significantly by region, with over 90% of respondents in China and 66% in Nigeria stating that AI will improve daily life. In contrast, countries such as the United States and Italy report higher levels of concern regarding the technology's impact.</p><p><img src="https://images.squarespace-cdn.com/content/v1/5b79011d266c077298791201/0eb82dbc-8d55-46ef-8819-9d3d9b355e6c/DataReportal+20251013+Digital+2026+Global+Overview+Report+129.png" /></p><hr/><small>23 Sep 2026, 18:19 UTC | #22065</small>]]></content>
+  </entry>
+  <entry>
     <title>Anthropic Disrupts Beijing-Aligned AI Operation Targeting Tibetan Diaspora</title>
     <link href="https://www.wsj.com/opinion/beijing-turns-ai-against-tibetans-worldwide-a95c6132?st=ybtPN4&amp;reflink=desktopwebshare_permalink" rel="alternate" />
     <id>https://www.wsj.com/opinion/beijing-turns-ai-against-tibetans-worldwide-a95c6132?st=ybtPN4&amp;reflink=desktopwebshare_permalink::v239</id>
