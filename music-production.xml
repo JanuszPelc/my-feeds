@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-23T07:34:00+00:00</updated>
+  <updated>2026-09-23T08:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>James Hype Reveals 16-Deck DJ Setup</title>
+    <link href="https://musictech.com/news/music/james-hype-16-deck-dj-set-up-rig/" rel="alternate" />
+    <id>https://musictech.com/news/music/james-hype-16-deck-dj-set-up-rig/::v239</id>
+    <published>2026-09-23T08:56:00+00:00</published>
+    <updated>2026-09-23T08:56:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2025/02/James-Hype-new@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/music/james-hype-16-deck-dj-set-up-rig/">musictech.com</a></small></p><hr/><p>The 16-deck setup unveiled by DJ James Hype is designed to push the technical boundaries of live performance. The rig consists of a square arrangement of four tables, each holding four decks, and utilizes four mixers to aggregate the audio from all sixteen players.</p><p>Rather than simply playing 16 tracks simultaneously, the project explores complex hardware integration and networking challenges. Hype is currently in the testing phase to determine the limits of the configuration and how to navigate the expansive physical workspace during a live set.</p><p><img src="https://musictech.com/wp-content/uploads/2025/02/James-Hype-new@2000x1500.jpg" /></p><hr/><small>23 Sep 2026, 14:02 UTC | #22051</small>]]></content>
+  </entry>
+  <entry>
+    <title>Reyes Amps Updates Triode Plugin to Version 2</title>
+    <link href="https://www.kvraudio.com/news/reyes-amps-updates-triode-to-v2---adds-reverb-tremolo-and-boost-plus-two-free-plugins-68655?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68655" rel="alternate" />
+    <id>https://www.kvraudio.com/news/reyes-amps-updates-triode-to-v2---adds-reverb-tremolo-and-boost-plus-two-free-plugins-68655?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68655::v239</id>
+    <published>2026-09-23T08:50:00+00:00</published>
+    <updated>2026-09-23T08:50:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/triode2kvr2.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/reyes-amps-updates-triode-to-v2---adds-reverb-tremolo-and-boost-plus-two-free-plugins-68655?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68655">kvraudio.com</a> | <a href="https://reyes-amps.com/product/triode/">source</a></small></p><hr/><p>Reyes Amps has updated its Triode plugin, a component model of a 1959 Harmony H303 guitar amplifier, to version 2. The update introduces atmospheric reverb, a vintage-style tremolo, and a treble boost to the original single-ended tube amp emulation.</p><p>The plugin simulates the character of a low-watt amp utilizing 12SQ7 triode and 50L6 pentode stages. The update is accompanied by the release of two free companion plugins: Reyes 303, a single-control version of the amp, and Kill Filter, a DJ-style high-pass/low-pass filter.</p><p><img src="https://static.kvraudio.com/i/b/triode2kvr2.jpg" /></p><hr/><small>23 Sep 2026, 14:01 UTC | #22050</small>]]></content>
+  </entry>
   <entry>
     <title>Arvital Audio Updates AudioRoute to v1.2.2 with Per-App Level Faders</title>
     <link href="https://www.kvraudio.com/news/arvital-audio-updates-audioroute-to-v1-2-2---level-fader-for-each-captured-app-68684?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68684" rel="alternate" />
