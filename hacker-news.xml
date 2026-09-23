@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-23T10:36:00+00:00</updated>
+  <updated>2026-09-23T11:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>GitHub Wiki Use Critiqued as Documentation Anti-pattern</title>
+    <link href="https://michaelheap.com/github-wiki-is-an-antipattern/" rel="alternate" />
+    <id>https://michaelheap.com/github-wiki-is-an-antipattern/::v239</id>
+    <published>2026-09-23T11:49:00+00:00</published>
+    <updated>2026-09-23T11:49:00+00:00</updated>
+    <media:thumbnail url="https://docs.github.com/assets/cb-137701/images/help/repository/os-repo-with-topics.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://michaelheap.com/github-wiki-is-an-antipattern/">michaelheap.com</a> | <a href="https://lobste.rs/s/d339rn/github_wiki_is_anti_pattern">discussion</a> | <a href="https://news.ycombinator.com/item?id=49815484">hacker news</a></small></p><hr/><p>Maintaining project documentation in a `/docs` folder within a repository is presented as a superior alternative to using GitHub's built-in wiki feature. Using a dedicated directory allows documentation to be versioned alongside the codebase, enabling peer reviews through standard pull request workflows and automated linting via GitHub Actions.</p><p>The author recommends using GitHub Pages to host the documentation and treating the wiki as a simple redirection tool. This approach ensures that documentation remains accessible locally when a repository is cloned and supports professional tooling and branding.</p><p><img src="https://docs.github.com/assets/cb-137701/images/help/repository/os-repo-with-topics.png" /></p><hr/><small>23 Sep 2026, 15:27 UTC | #22093</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nospace Software Automates Spacebar Input</title>
+    <link href="https://levmiseri.com/nospace" rel="alternate" />
+    <id>https://levmiseri.com/nospace::v239</id>
+    <published>2026-09-23T10:44:00+00:00</published>
+    <updated>2026-09-23T10:44:00+00:00</updated>
+    <media:thumbnail url="https://carapace-sh.github.io/carapace/development/vhs/nospace/out/nospace.fish.gif" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://levmiseri.com/nospace">levmiseri.com</a> | <a href="https://github.com/riesvile/nospace">source</a> | <a href="https://lobste.rs/s/ayyuqc/jev_powered_autocorrection">discussion</a></small></p><hr/><p>Nospace automates space insertion to allow users to type text without manually using the spacebar. This utility enables a continuous typing stream by handling space placement automatically.</p><p>Developed by riesvile and hosted on GitHub, the project supports experimentation with alternative keyboarding workflows.</p><p><img src="https://carapace-sh.github.io/carapace/development/vhs/nospace/out/nospace.fish.gif" /></p><hr/><small>23 Sep 2026, 15:25 UTC | #22102</small>]]></content>
+  </entry>
   <entry>
     <title>The Strategic Risks of Abandoning Scientific Linux</title>
     <link href="https://blog.melashri.net/posts/scientific-linux-mistake/" rel="alternate" />
@@ -847,14 +865,5 @@
     <updated>2026-09-18T15:37:00+00:00</updated>
     <media:thumbnail url="https://polytechnic.co.uk/media/images/internetphonebook-cover.width-1200.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://internetphonebook.net/">internetphonebook.net</a> | <a href="https://lobste.rs/s/xr7p0k/internet_phone_book">discussion</a></small></p><hr/><p>The Internet Phone Book, an annual publication exploring the "poetic web" through essays and a directory of personal websites, has returned to stock and is accepting submissions for its second issue.</p><p>The directory features hundreds of designers, developers, writers, curators, and educators. A global tour includes scheduled appearances at various festivals and galleries in cities including Ljubljana, Athens, and London through 2026.</p><p><img src="https://polytechnic.co.uk/media/images/internetphonebook-cover.width-1200.jpg" /></p><hr/><small>18 Sep 2026, 20:15 UTC | #21621</small>]]></content>
-  </entry>
-  <entry>
-    <title>Why Mutable and Immutable Types Are Not Subtypes</title>
-    <link href="https://crumbles.blog/posts/2026-09-17-immutable-mutable.html" rel="alternate" />
-    <id>https://crumbles.blog/posts/2026-09-17-immutable-mutable.html::v239</id>
-    <published>2026-09-18T15:32:00+00:00</published>
-    <updated>2026-09-18T15:32:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQGitFbSMViHgw/feedshare-shrink_800/B56Zxng3yiIAAg-/0/1771263196667?e=2147483647&amp;v=beta&amp;t=mtd1GxRUSy6Zr_YGw4y2w8asQzdTZ82q2KufR0I11JM" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://crumbles.blog/posts/2026-09-17-immutable-mutable.html">crumbles.blog</a> | <a href="https://lobste.rs/s/lzhzsx/faq_why_isn_t_mutable_subtype_immutable">discussion</a></small></p><hr/><p>Mutable and immutable types cannot share a subtype relationship without violating the Liskov Substitution Principle. An immutable type cannot be substituted for a mutable one because it lacks mutation operations, and a mutable type cannot be substituted for an immutable one because it fails to uphold the guarantee of value stability required for operations like hash consing.</p><p>Languages accommodate these distinct types through ad hoc polymorphism, such as type classes, interfaces, or traits in statically typed systems. In dynamic languages, duck typing is commonly used to allow different types to respond to similar operations, though this can complicate reasoning about type safety and data flow.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQGitFbSMViHgw/feedshare-shrink_800/B56Zxng3yiIAAg-/0/1771263196667?e=2147483647&v=beta&t=mtd1GxRUSy6Zr_YGw4y2w8asQzdTZ82q2KufR0I11JM" /></p><hr/><small>18 Sep 2026, 19:54 UTC | #21619</small>]]></content>
   </entry>
 </feed>

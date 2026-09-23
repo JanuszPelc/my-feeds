@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-23T08:56:00+00:00</updated>
+  <updated>2026-09-23T10:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Rockheyday Releases Balance 9 Parametric Equalizer</title>
+    <link href="https://www.kvraudio.com/news/rockheyday-releases-balance-9---mastering-parametric-equalizer-vst3-and-au-68697?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68697" rel="alternate" />
+    <id>https://www.kvraudio.com/news/rockheyday-releases-balance-9---mastering-parametric-equalizer-vst3-and-au-68697?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68697::v239</id>
+    <published>2026-09-23T10:43:00+00:00</published>
+    <updated>2026-09-23T10:43:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/balance9a.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/rockheyday-releases-balance-9---mastering-parametric-equalizer-vst3-and-au-68697?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68697">kvraudio.com</a> | <a href="https://rockheyday.gumroad.com/l/balance9">source</a></small></p><hr/><p>Balance 9 is a 9-band parametric equalizer designed for surgical tonal balancing and critical listening. The plugin provides zero-latency, minimum-phase IIR processing and features a node-based workflow with draggable EQ nodes, an isolated solo auditioning mode, and a dual-layer spectrum analyzer.</p><p>The plugin includes an "L-Curve" function, which uses a three-filter network based on ISO 226 curves to compensate for psychoacoustic changes in hearing at low listening levels. It is available for Windows and macOS in VST3 and AU formats for $24.99.</p><p><img src="https://static.kvraudio.com/i/b/balance9a.png" /></p><hr/><small>23 Sep 2026, 15:21 UTC | #22056</small>]]></content>
+  </entry>
+  <entry>
+    <title>Windows-G Releases E-ChorusFX700 Free Chorus Plugin</title>
+    <link href="https://www.kvraudio.com/news/windows-g-releases-e-chorusfx700-vst3---free-chorus-plugin-68696?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68696" rel="alternate" />
+    <id>https://www.kvraudio.com/news/windows-g-releases-e-chorusfx700-vst3---free-chorus-plugin-68696?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68696::v239</id>
+    <published>2026-09-23T10:42:00+00:00</published>
+    <updated>2026-09-23T10:42:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/e-chorusfx700_vst3_2x.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/windows-g-releases-e-chorusfx700-vst3---free-chorus-plugin-68696?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68696">kvraudio.com</a> | <a href="https://windowsg.gumroad.com/l/chorusfx700vst3">source</a></small></p><hr/><p>Windows-G has released E-ChorusFX700, a free VST3 chorus plugin for Windows. The software is designed to add modulation, depth, and width to audio tracks and mixes.</p><p>The plugin features sine and triangle LFO shapes with controls for depth, rate, and stereo width. It includes independent dry and wet sliders, high-pass and low-pass filters for the wet signal, and 12 built-in presets. Additionally, the interface supports high-DPI scaling and a UI zoom feature.</p><p><img src="https://static.kvraudio.com/i/b/e-chorusfx700_vst3_2x.png" /></p><hr/><small>23 Sep 2026, 15:20 UTC | #22052</small>]]></content>
+  </entry>
+  <entry>
+    <title>YBK Audio Releases Instrument Player for Windows</title>
+    <link href="https://www.kvraudio.com/news/ybk-audio-releases-instrument-player---standalone-windows-vst3-player-with-always-on-midi-capture-free-until-october-19-68678?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68678" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ybk-audio-releases-instrument-player---standalone-windows-vst3-player-with-always-on-midi-capture-free-until-october-19-68678?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68678::v239</id>
+    <published>2026-09-23T10:39:00+00:00</published>
+    <updated>2026-09-23T10:39:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/instrument-player-deal-graphic-6.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ybk-audio-releases-instrument-player---standalone-windows-vst3-player-with-always-on-midi-capture-free-until-october-19-68678?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68678">kvraudio.com</a> | <a href="https://ybkaudio.com/">source</a></small></p><hr/><p>YBK Audio has launched Instrument Player, a standalone Windows application that allows users to play VST3 instruments without a Digital Audio Workstation (DAW). The software features an always-on MIDI capture function that records the last five minutes of performance, an integrated piano-roll editor with quantization, and the ability to chain VST3 effects after the instrument.</p><p>Users can export recorded MIDI sequences as standard .mid files for use in other production software. The application is available for free through October 19, 2026, after which it will transition to a one-time purchase price of $10.</p><p><img src="https://static.kvraudio.com/i/b/instrument-player-deal-graphic-6.png" /></p><hr/><small>23 Sep 2026, 15:18 UTC | #22053</small>]]></content>
+  </entry>
   <entry>
     <title>James Hype Reveals 16-Deck DJ Setup</title>
     <link href="https://musictech.com/news/music/james-hype-16-deck-dj-set-up-rig/" rel="alternate" />

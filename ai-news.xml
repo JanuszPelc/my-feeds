@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-23T05:02:00+00:00</updated>
+  <updated>2026-09-23T12:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Claude Code AGENTS.md Support Requires Enabled Telemetry</title>
+    <link href="https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/" rel="alternate" />
+    <id>https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/::v239</id>
+    <published>2026-09-23T12:16:00+00:00</published>
+    <updated>2026-09-23T12:16:00+00:00</updated>
+    <media:thumbnail url="https://gihyo.jp/assets/images/article/2026/02/get-started-claude-code-07/agent-teams.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/">blog.szypowi.cz</a> | <a href="https://github.com/anthropics/claude-code/issues/95690">source</a> | <a href="https://news.ycombinator.com/item?id=49814947">hacker news</a></small></p><hr/><p>Claude Code's implementation of `AGENTS.md` support is gated by a remote feature flag that requires telemetry to be enabled. When telemetry or non-essential traffic is disabled, the tool fails to load the local `AGENTS.md` file silently, even though the file is stored directly in the project directory.</p><p>This behavior occurs because the `agents-md` plugin relies on a server-side switch to activate the feature. To bypass this restriction, users can create a `CLAUDE.md` file in the same directory and use an `@` import to explicitly load the `AGENTS.md` file.</p><p><img src="https://gihyo.jp/assets/images/article/2026/02/get-started-claude-code-07/agent-teams.jpg" /></p><hr/><small>23 Sep 2026, 15:31 UTC | #22101</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic and OpenEvidence Partner to Provide Medical AI to Developing Nations</title>
     <link href="https://www.reuters.com/legal/litigation/anthropic-openevidence-partner-bring-medical-ai-worldwide-2026-09-22/" rel="alternate" />
