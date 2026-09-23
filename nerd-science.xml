@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-23T12:34:00+00:00</updated>
+  <updated>2026-09-23T15:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Portobello Police Station Clock Mechanism Inspected</title>
+    <link href="https://pointinthecloud.com/2026-04-11-211700.html" rel="alternate" />
+    <id>https://pointinthecloud.com/2026-04-11-211700.html::v239</id>
+    <published>2026-09-23T15:29:00+00:00</published>
+    <updated>2026-09-23T15:29:00+00:00</updated>
+    <media:thumbnail url="https://pointinthecloud.com/media/PXL_20260411_150433725-3.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pointinthecloud.com/2026-04-11-211700.html">pointinthecloud.com</a> | <a href="https://news.ycombinator.com/item?id=49817469">hacker news</a></small></p><hr/><p>A volunteer visited the nineteenth-century Portobello Police Station to inspect its clock tower mechanism. The building, which was recently acquired by the community group Action Porty, requires technical assistance to adjust the time on its three clock faces.</p><p>Constructed in 1877, the structure has served as a municipal hall, library, and police station. Following its acquisition for community ownership, the building is being renovated into a community hub, with volunteers working to restore original features and address the modified electric clock mechanism.</p><p><img src="https://pointinthecloud.com/media/PXL_20260411_150433725-3.jpg" /></p><hr/><small>23 Sep 2026, 19:01 UTC | #22122</small>]]></content>
+  </entry>
   <entry>
     <title>Surgeon Discusses Mental Health Challenges and Structural Stressors in Medicine</title>
     <link href="https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/" rel="alternate" />
