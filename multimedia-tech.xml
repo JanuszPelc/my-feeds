@@ -132,13 +132,4 @@
     <media:thumbnail url="https://john.hartnup.uk/images/poster-ugly-collage.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">john.hartnup.uk</a> | <a href="https://news.ycombinator.com/item?id=49764791">hacker news</a></small></p><hr/><p>Generic AI prompts for event posters often produce repetitive and predictable "twee" aesthetics. By instructing models like ChatGPT to utilize specific design languages—such as Bauhaus, Memphis, or Japanese minimalism—users can bypass default stylistic templates to generate significantly more varied and visually striking layouts.</p><p>The experimentation demonstrates that providing precise aesthetic descriptors helps move AI-generated content away from common "craft fair" motifs toward more curated and professional-looking designs. The article also suggests that leveraging models capable of generating editable formats like HTML or SVG can provide even more control for professional designers.</p><p><img src="https://john.hartnup.uk/images/poster-ugly-collage.webp" /></p><hr/><small>19 Sep 2026, 12:11 UTC | #21665</small>]]></content>
   </entry>
-  <entry>
-    <title>ARM's Peter Hodges Discusses Collaboration with Developers on Neural Technology</title>
-    <link href="https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges" rel="alternate" />
-    <id>https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges::v239</id>
-    <published>2026-09-18T14:39:00+00:00</published>
-    <updated>2026-09-18T14:39:00+00:00</updated>
-    <media:thumbnail url="https://newsroom.arm.com/wp-content/uploads/2026/03/Image-7-2048x1536.jpeg" />
-    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/art/how-toolmakers-like-arm-work-with-devs-ft-peter-hodges">gamedeveloper.com</a></small></p><hr/><p>Peter Hodges, ARM's director for ecosystem strategy for developer platforms, discusses collaborating with developers to optimize ARM's Neural Technology. The discussion highlights how these features enable mobile game developers to perform faster lighting baking and deploy more light sources through integrations like Unreal Engine's Megalights.</p><p>The interview examines the importance of tool design in the game development process and how hardware toolmakers assist software creators. The collaboration focuses on integrating AI-powered rendering and neural graphics into existing workflows to improve mobile game production.</p><p><img src="https://newsroom.arm.com/wp-content/uploads/2026/03/Image-7-2048x1536.jpeg" /></p><hr/><small>18 Sep 2026, 19:50 UTC | #21580</small>]]></content>
-  </entry>
 </feed>

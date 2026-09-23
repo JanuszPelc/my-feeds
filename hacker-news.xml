@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-23T07:27:00+00:00</updated>
+  <updated>2026-09-23T10:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Strategic Risks of Abandoning Scientific Linux</title>
+    <link href="https://blog.melashri.net/posts/scientific-linux-mistake/" rel="alternate" />
+    <id>https://blog.melashri.net/posts/scientific-linux-mistake/::v239</id>
+    <published>2026-09-23T10:36:00+00:00</published>
+    <updated>2026-09-23T10:36:00+00:00</updated>
+    <media:thumbnail url="https://www.softzone.es/app/uploads-softzone.es/2025/08/Debian-interfaz.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.melashri.net/posts/scientific-linux-mistake/">blog.melashri.net</a> | <a href="https://lobste.rs/s/qysrps/abandoning_scientific_linux_was_mistake">discussion</a> | <a href="https://news.ycombinator.com/item?id=49813286">hacker news</a></small></p><hr/><p>The author argues that CERN and Fermilab's decision to retire Scientific Linux in favor of CentOS was a strategic error because it eliminated the institutional capability to maintain an independent, RHEL-compatible operating system. While intended to reduce redundant engineering efforts, the move removed the "option value" provided by an independent distribution—the ability to maintain a credible, independent alternative if upstream providers like Red Hat changed their development models or licensing.</p><p>The utility of such independence became evident when Red Hat's pivot to CentOS Stream forced large-scale users to seek alternatives like AlmaLinux. Furthermore, CERN's planned migration of over 2,200 accelerator control systems to Debian 13 by 2026 highlights the importance of distribution portability in ensuring long-term hardware compatibility that newer RHEL versions may no longer support.</p><p><img src="https://www.softzone.es/app/uploads-softzone.es/2025/08/Debian-interfaz.png" /></p><hr/><small>23 Sep 2026, 14:48 UTC | #22092</small>]]></content>
+  </entry>
   <entry>
     <title>Jev-style Decision Logic Implemented in Python</title>
     <link href="https://www.nobodywho.ai/posts/jev-in-25-lines/" rel="alternate" />
@@ -847,14 +856,5 @@
     <updated>2026-09-18T15:32:00+00:00</updated>
     <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQGitFbSMViHgw/feedshare-shrink_800/B56Zxng3yiIAAg-/0/1771263196667?e=2147483647&amp;v=beta&amp;t=mtd1GxRUSy6Zr_YGw4y2w8asQzdTZ82q2KufR0I11JM" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://crumbles.blog/posts/2026-09-17-immutable-mutable.html">crumbles.blog</a> | <a href="https://lobste.rs/s/lzhzsx/faq_why_isn_t_mutable_subtype_immutable">discussion</a></small></p><hr/><p>Mutable and immutable types cannot share a subtype relationship without violating the Liskov Substitution Principle. An immutable type cannot be substituted for a mutable one because it lacks mutation operations, and a mutable type cannot be substituted for an immutable one because it fails to uphold the guarantee of value stability required for operations like hash consing.</p><p>Languages accommodate these distinct types through ad hoc polymorphism, such as type classes, interfaces, or traits in statically typed systems. In dynamic languages, duck typing is commonly used to allow different types to respond to similar operations, though this can complicate reasoning about type safety and data flow.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQGitFbSMViHgw/feedshare-shrink_800/B56Zxng3yiIAAg-/0/1771263196667?e=2147483647&v=beta&t=mtd1GxRUSy6Zr_YGw4y2w8asQzdTZ82q2KufR0I11JM" /></p><hr/><small>18 Sep 2026, 19:54 UTC | #21619</small>]]></content>
-  </entry>
-  <entry>
-    <title>KDE Celebrates 30th Anniversary with AI-Native Desktop Proposal</title>
-    <link href="https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282" rel="alternate" />
-    <id>https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282::v239</id>
-    <published>2026-09-18T14:38:00+00:00</published>
-    <updated>2026-09-18T14:38:00+00:00</updated>
-    <media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/836619518id28087gol.jpg" />
-    <content type="html"><![CDATA[<p><small>The Register AI/ML | <a href="https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282">theregister.com</a> | <a href="https://conf.kde.org/event/11/contributions/314/">source</a></small></p><hr/><p>At the Akademy conference in Graz, Austria, celebrating KDE's 30th anniversary, contributors Eva Brucherseifer and Jan Muehlig proposed an "AI-native" desktop environment. The concept, titled "Kadai," involves an encrypted, vendor-agnostic personal kernel that would compile the Plasma interface specifically for each user's requirements and habits.</p><p>This approach intends to treat AI as core infrastructure rather than a secondary feature, a concept that may polarize the open-source community. The proposal has already drawn comparisons to the Resonant Computing Manifesto and has ignited debate regarding the role of artificial intelligence in desktop computing.</p><p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/836619518id28087gol.jpg" /></p><hr/><small>18 Sep 2026, 19:38 UTC | #21579</small>]]></content>
   </entry>
 </feed>
