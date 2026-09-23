@@ -3,9 +3,36 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-23T12:16:00+00:00</updated>
+  <updated>2026-09-23T16:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>YouTube Expands Studio App with AI Creator Tools</title>
+    <link href="https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/::v239</id>
+    <published>2026-09-23T16:13:00+00:00</published>
+    <updated>2026-09-23T16:13:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2025/09/youtube-studio.jpeg?w=1024" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/">techcrunch.com</a> | <a href="https://blog.google/products-and-platforms/products/youtube/made-on-youtube-updates-2026/">source</a></small></p><hr/><p>At its Made on YouTube event, the platform introduced several AI-driven capabilities to the Studio app designed to assist with video analysis and audience growth. These updates include the expansion of the "Ask Studio" AI Q&amp;A feature to mobile devices, AI-generated feedback for video drafts regarding pacing and structure, and a new research feed for identifying trending content.</p><p>The platform is also launching tools for generating thumbnails and titles based on a creator's specific style, alongside a dynamic thumbnail feature for testing different versions across audience segments. YouTube also plans to introduce automated thumbnail monitoring and A/B testing for video opening hooks in the near future.</p><p><img src="https://techcrunch.com/wp-content/uploads/2025/09/youtube-studio.jpeg?w=1024" /></p><hr/><small>23 Sep 2026, 19:47 UTC | #22096</small>]]></content>
+  </entry>
+  <entry>
+    <title>YouTube Introduces AI-Powered Custom Feeds</title>
+    <link href="https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/::v239</id>
+    <published>2026-09-23T16:11:00+00:00</published>
+    <updated>2026-09-23T16:11:00+00:00</updated>
+    <media:thumbnail url="https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/05/YouTube-Custom-feed.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/">techcrunch.com</a> | <a href="https://blog.youtube/news-and-events/made-on-youtube-viewer-custom-feeds-shopping-tools/">source</a></small></p><hr/><p>YouTube is launching "custom feeds," a feature that allows users to generate personalized video recommendation streams by providing text prompts. Powered by Google's Gemini AI, the tool enables users to describe specific interests, moods, or viewing goals—such as "relaxing commentary to unwind"—to create a dedicated feed pinned to the top of their homepage.</p><p>The update will roll out on web and mobile starting next month and will function as a supplement to the platform's existing main recommendation feed. This move aligns YouTube with other platforms like Bluesky, Threads, and Spotify, which have recently introduced AI-driven or prompt-based tools to help users curate their content discovery.</p><p><img src="https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/05/YouTube-Custom-feed.jpg" /></p><hr/><small>23 Sep 2026, 19:43 UTC | #22094</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Provides Daybreak AI Cyber Defense Tools to Ukraine</title>
+    <link href="https://www.bbc.com/news/articles/c90kly26d7pzo" rel="alternate" />
+    <id>https://www.bbc.com/news/articles/c90kly26d7pzo::v239</id>
+    <published>2026-09-23T16:10:00+00:00</published>
+    <updated>2026-09-23T16:10:00+00:00</updated>
+    <media:thumbnail url="https://www.mobigyaan.com/wp-content/uploads/2026/05/OpenAI-Daybreak-AI-platform-cyber-defenders.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bbc.com/news/articles/c90kly26d7pzo">bbc.com</a> | <a href="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/">source</a></small></p><hr/><p>The Ukrainian government will receive free access to OpenAI's Daybreak AI cyber defense system and the GPT-5.6 Sol model. These tools aim to protect critical civilian infrastructure, such as hospitals and power plants, from digital attacks.</p><p>The deployment highlights the dual-use nature of frontier AI models, which can assist defenders in identifying vulnerabilities while also enabling offensive operations. This initiative coincides with ongoing discussions at the UN General Assembly regarding the regulation and impact of high-level AI technology in global conflicts.</p><p><img src="https://www.mobigyaan.com/wp-content/uploads/2026/05/OpenAI-Daybreak-AI-platform-cyber-defenders.jpg" /></p><hr/><small>23 Sep 2026, 19:41 UTC | #22075</small>]]></content>
+  </entry>
   <entry>
     <title>Claude Code AGENTS.md Support Requires Enabled Telemetry</title>
     <link href="https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/" rel="alternate" />
