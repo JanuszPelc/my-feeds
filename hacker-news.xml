@@ -857,22 +857,4 @@
     <media:thumbnail url="https://www.gamingonlinux.com/uploads/articles/tagline_images/836619518id28087gol.jpg" />
     <content type="html"><![CDATA[<p><small>The Register AI/ML | <a href="https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282">theregister.com</a> | <a href="https://conf.kde.org/event/11/contributions/314/">source</a></small></p><hr/><p>At the Akademy conference in Graz, Austria, celebrating KDE's 30th anniversary, contributors Eva Brucherseifer and Jan Muehlig proposed an "AI-native" desktop environment. The concept, titled "Kadai," involves an encrypted, vendor-agnostic personal kernel that would compile the Plasma interface specifically for each user's requirements and habits.</p><p>This approach intends to treat AI as core infrastructure rather than a secondary feature, a concept that may polarize the open-source community. The proposal has already drawn comparisons to the Resonant Computing Manifesto and has ignited debate regarding the role of artificial intelligence in desktop computing.</p><p><img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/836619518id28087gol.jpg" /></p><hr/><small>18 Sep 2026, 19:38 UTC | #21579</small>]]></content>
   </entry>
-  <entry>
-    <title>C++20 Changes u8 String Literal Type to char8_t</title>
-    <link href="https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/" rel="alternate" />
-    <id>https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/::v239</id>
-    <published>2026-09-18T14:28:00+00:00</published>
-    <updated>2026-09-18T14:28:00+00:00</updated>
-    <media:thumbnail url="https://giodicanio.com/wp-content/uploads/2026/09/cpp_cpp20_u8_char8_t_bug.png?w=1024" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/">giodicanio.com</a> | <a href="https://lobste.rs/s/ltjgvl/c_20_s_u8_char8_t_backward_compatibility">discussion</a></small></p><hr/><p>In C++20, `u8` string literals were redefined from `const char[]` to `const char8_t[]`, breaking backward compatibility with C++17. This modification causes compilation errors in existing codebases that attempt to pass `u8` literals to functions expecting `const char*` parameters.</p><p>To mitigate these issues, some coding standards, including Google's, recommend avoiding the `u8` prefix entirely. This precaution helps avoid type mismatches and accommodates anticipated semantic shifts in the C++23 standard.</p><p><img src="https://giodicanio.com/wp-content/uploads/2026/09/cpp_cpp20_u8_char8_t_bug.png?w=1024" /></p><hr/><small>18 Sep 2026, 18:35 UTC | #21609</small>]]></content>
-  </entry>
-  <entry>
-    <title>Cloudflare Quick Tunnels Enable Local Application Exposure via CLI</title>
-    <link href="https://try.cloudflare.com/" rel="alternate" />
-    <id>https://try.cloudflare.com/::v239</id>
-    <published>2026-09-18T14:19:00+00:00</published>
-    <updated>2026-09-18T14:19:00+00:00</updated>
-    <media:thumbnail url="https://www.wetch.co.jp/note/wp-content/uploads/2026/06/cloudflare-tunnel-webhook-flow.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://try.cloudflare.com/">try.cloudflare.com</a> | <a href="https://news.ycombinator.com/item?id=49754785">hacker news</a></small></p><hr/><p>Cloudflare Quick Tunnels allow developers to expose local web servers and APIs to the internet using a single command. By running the `cloudflared` CLI, users can create a secure ingress with automatic HTTPS and DDoS protection without requiring an account or configuration files. The tool generates a temporary `trycloudflare.com` URL, enabling quick sharing for design reviews or automated testing.</p><p>The service routes traffic through Cloudflare's global edge network to provide fast and reliable connections worldwide. This approach enhances security by default, as it avoids the need to open ports on the local machine. It serves as a lightweight solution for rapid prototyping and testing before moving services to permanent infrastructure.</p><p><img src="https://www.wetch.co.jp/note/wp-content/uploads/2026/06/cloudflare-tunnel-webhook-flow.png" /></p><hr/><small>18 Sep 2026, 18:06 UTC | #21603</small>]]></content>
-  </entry>
 </feed>

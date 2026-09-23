@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-23T05:13:00+00:00</updated>
+  <updated>2026-09-23T10:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Project Nexus Tests Solar Panels Over California Irrigation Canals</title>
+    <link href="https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals" rel="alternate" />
+    <id>https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals::v239</id>
+    <published>2026-09-23T10:32:00+00:00</published>
+    <updated>2026-09-23T10:32:00+00:00</updated>
+    <media:thumbnail url="https://cdn.kqed.org/wp-content/uploads/sites/35/2026/09/260904-ClimateSolutionsSolarCanal-27-BL-KQED.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals">kqed.org</a> | <a href="https://news.ycombinator.com/item?id=49796379">hacker news</a></small></p><hr/><p>A pilot initiative involving Solar AquaGrid, the Turlock Irrigation District, and UC Merced is testing the installation of solar panels over California's irrigation canals. This approach aims to expand renewable energy capacity while reducing water loss caused by evaporation through the use of shade.</p><p>Beyond power and water conservation, the shade may reduce maintenance requirements by limiting algal and weed growth. Scaling the technology remains complicated by issues like stakeholder coordination, infrastructure costs, and space limitations in urbanized environments.</p><p><img src="https://cdn.kqed.org/wp-content/uploads/sites/35/2026/09/260904-ClimateSolutionsSolarCanal-27-BL-KQED.jpg" /></p><hr/><small>23 Sep 2026, 14:24 UTC | #22087</small>]]></content>
+  </entry>
   <entry>
     <title>Emily M. Bender and Nanna Inie Propose Alternatives to Anthropomorphizing AI Language</title>
     <link href="https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/" rel="alternate" />
