@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>FAA Halts East Coast Flights After Fiber-Optic Cable Cut</title>
+    <link href="https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/" rel="alternate" />
+    <id>https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/::v239</id>
+    <published>2026-09-23T12:30:00+00:00</published>
+    <updated>2026-09-23T12:30:00+00:00</updated>
+    <media:thumbnail url="https://cdn.abcotvs.com/dip/images/17883550_092525-kabc-7oys-fiber-line-cuts-vid.jpg?w=1600" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=49791509">hacker news</a></small></p><hr/><p>The Federal Aviation Administration (FAA) has temporarily halted flights at several major East Coast airports, including Newark Liberty, Philadelphia, and Teterboro, due to air traffic control communication failures. The disruption was triggered when construction crews in New Jersey accidentally severed a secondary fiber-optic backup line following the failure of a primary communications circuit.</p><p>The outage has resulted in thousands of flight delays and cancellations across the Northeast corridor. Impacted airlines have begun issuing travel waivers as technicians work to restore critical communication infrastructure.</p><p><img src="https://cdn.abcotvs.com/dip/images/17883550_092525-kabc-7oys-fiber-line-cuts-vid.jpg?w=1600" /></p><hr/><small>23 Sep 2026, 17:12 UTC | #22112</small>]]></content>
+  </entry>
+  <entry>
     <title>NADI and SPRIND Launch €40M AI Chip Design Challenge</title>
     <link href="https://www.reuters.com/business/german-dutch-strategic-innovation-agencies-collaborate-ai-chip-design-2026-09-23/" rel="alternate" />
     <id>https://www.reuters.com/business/german-dutch-strategic-innovation-agencies-collaborate-ai-chip-design-2026-09-23/::v239</id>
