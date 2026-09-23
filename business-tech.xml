@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-23T07:28:00+00:00</updated>
+  <updated>2026-09-23T07:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>China's SASAC Surveys Broadcom Switch Usage in State Data Centers</title>
+    <link href="https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1" rel="alternate" />
+    <id>https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1::v239</id>
+    <published>2026-09-23T07:29:00+00:00</published>
+    <updated>2026-09-23T07:29:00+00:00</updated>
+    <media:thumbnail url="https://www.servethehome.com/wp-content/uploads/2025/11/Broadcom-PEX90144-in-Dell-PowerEdge-XE7745-Chassis-at-SC25-Large.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/b97dde39-7813-4a51-8176-3699e2a468b1">ft.com</a></small></p><hr/><p>China’s State-owned Assets Supervision and Administration Commission (SASAC) is surveying the deployment of Broadcom switches in state-backed data centers. The initiative aims to support domestic semiconductor manufacturers and decrease reliance on foreign hardware for the country's artificial intelligence infrastructure.</p><p>This action is part of a larger strategic drive to secure indigenous technology supply chains. By assessing the prevalence of foreign-made networking equipment, Beijing intends to accelerate the transition toward domestic alternatives within its critical computing infrastructure.</p><p><img src="https://www.servethehome.com/wp-content/uploads/2025/11/Broadcom-PEX90144-in-Dell-PowerEdge-XE7745-Chassis-at-SC25-Large.jpeg" /></p><hr/><small>23 Sep 2026, 13:11 UTC | #22046</small>]]></content>
+  </entry>
   <entry>
     <title>US Rebukes Australia's Proposed Digital Duty-of-Care Plan</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-23/us-rebukes-australia-for-plan-to-target-social-media-algorithms" rel="alternate" />
@@ -1021,14 +1030,5 @@
     <updated>2026-09-18T14:24:00+00:00</updated>
     <media:thumbnail url="https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg%3Frect%3D0%2C180%2C3449%2C1940%26w%3D1920%26h%3D1080%26auto%3Dformat&amp;w=3840&amp;q=75" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says">coindesk.com</a> | <a href="https://home.treasury.gov/news/press-releases/sb0632/">source</a></small></p><hr/><p>The U.S. Treasury's Office of Foreign Assets Control (OFAC) has targeted Tehran-based cryptocurrency exchange BitBank and software developer Pishtaz Simorgh Electronic Trade Company in a new sanctions action. The agency claims the exchange facilitated hundreds of millions of dollars in Bitcoin transfers to the Islamic Revolutionary Guard Corps (IRGC) and handled fees collected by the Hormuz Safe Marine Services Authority for vessel passage through the Strait of Hormuz.</p><p>These designations, part of the "Operation Economic Outcast" campaign, freeze BitBank's assets in U.S. jurisdiction and expose foreign firms to secondary sanctions if they facilitate BitBank transactions. Notably, this enforcement action did not include any specific cryptocurrency wallet addresses.</p><p><img src="https://www.coindesk.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fs3y3vcno%2Fproduction%2Fea6e0ec4cd84026d0707ce39424079748bd5f9fb-3449x2300.jpg%3Frect%3D0%2C180%2C3449%2C1940%26w%3D1920%26h%3D1080%26auto%3Dformat&w=3840&q=75" /></p><hr/><small>18 Sep 2026, 18:21 UTC | #21556</small>]]></content>
-  </entry>
-  <entry>
-    <title>Paris Prosecutors Open Criminal Probe into Smart Glasses Sexual Harassment</title>
-    <link href="https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/" rel="alternate" />
-    <id>https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/::v239</id>
-    <published>2026-09-18T13:17:00+00:00</published>
-    <updated>2026-09-18T13:17:00+00:00</updated>
-    <media:thumbnail url="https://ijr.com/discover/paris-prosecutors-probe-smart-glasses-harassment-3cc997fd/opengraph-image-1xo4yj?25b8a90c78f68980" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/technology/french-prosecutors-regulators-step-up-scrutiny-smart-glasses-2026-09-18/">reuters.com</a></small></p><hr/><p>Paris prosecutors have launched a criminal investigation into suspected sexual harassment involving the use of smart glasses to film women in public without their consent. The probe follows a social media trend where individuals record women on the street and post the resulting footage online.</p><p>French data protection authorities have also received complaints regarding the devices. The move comes amid increasing global scrutiny from regulators and privacy watchdogs concerning the privacy implications and potential for abuse of wearable recording technology.</p><p><img src="https://ijr.com/discover/paris-prosecutors-probe-smart-glasses-harassment-3cc997fd/opengraph-image-1xo4yj?25b8a90c78f68980" /></p><hr/><small>18 Sep 2026, 16:58 UTC | #21553</small>]]></content>
   </entry>
 </feed>
