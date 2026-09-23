@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-22T21:14:00+00:00</updated>
+  <updated>2026-09-22T23:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>The Declining Cost of Machine Learning Inference</title>
+    <link href="https://jyn.dev/tokens-too-cheap-to-meter/" rel="alternate" />
+    <id>https://jyn.dev/tokens-too-cheap-to-meter/::v239</id>
+    <published>2026-09-22T23:31:00+00:00</published>
+    <updated>2026-09-22T23:31:00+00:00</updated>
+    <media:thumbnail url="https://aadhunik.ai/blog/wp-content/uploads/2026/05/DeepSeek-pricing-Deepseek-vs-GPT-5.5-683x1024.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jyn.dev/tokens-too-cheap-to-meter/">jyn.dev</a> | <a href="https://lobste.rs/s/n4vfwm/tokens_too_cheap_meter">discussion</a> | <a href="https://news.ycombinator.com/item?id=49803198">hacker news</a></small></p><hr/><p>The cost of machine learning inference is decreasing by several orders of magnitude annually, driven by exponential gains in GPU energy efficiency, architectural shifts like Mixture-of-Experts, and optimized inference engines. These improvements, alongside models like Mamba that significantly reduce memory requirements, suggest that AI will soon become ubiquitous as foundational computing infrastructure.</p><p>As token costs plummet, the author argues that the limiting factor for AI usage will shift from token volume to model quality and access. This trend may eventually make the cost of running AI models cheaper than traditional computing tools, enabling the seamless integration of AI into standard software workflows and development pipelines.</p><p><img src="https://aadhunik.ai/blog/wp-content/uploads/2026/05/DeepSeek-pricing-Deepseek-vs-GPT-5.5-683x1024.webp" /></p><hr/><small>23 Sep 2026, 06:13 UTC | #22044</small>]]></content>
+  </entry>
+  <entry>
+    <title>Rabbit Announces OS3 Agentic Operating System</title>
+    <link href="https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/" rel="alternate" />
+    <id>https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/::v239</id>
+    <published>2026-09-22T23:30:00+00:00</published>
+    <updated>2026-09-22T23:30:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQG8MDHEqVeGaA/article-cover_image-shrink_720_1280/B56Z3sZGEVIsAI-/0/1777787503361?e=2147483647&amp;v=beta&amp;t=MwOBooxYWUM_ysg_QyjSflCPBSH0Hp20FZXuG-vQ3hA" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/">wired.com</a> | <a href="https://www.rabbit.tech/newsroom/rabbitos-3-launch">source</a></small></p><hr/><p>Rabbit has launched OS3, an "agentic operating system" that executes digital tasks across desktop, mobile, and messaging apps like Telegram or iMessage. Using a local agent node installed on Windows, Mac, or Linux, the system allows users to delegate actions—such as managing spreadsheets or responding to Slack messages—via a continuous chat interface.</p><p>The release marks a strategic shift for Rabbit from dedicated hardware toward software, with the company expressing no plans for an R2 device and instead targeting a "Cyberdeck" release in the coming months. The platform uses a "Bring Your Own Key" model, which avoids monthly subscriptions by allowing users to connect their own API keys from providers like OpenAI or Anthropic.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQG8MDHEqVeGaA/article-cover_image-shrink_720_1280/B56Z3sZGEVIsAI-/0/1777787503361?e=2147483647&v=beta&t=MwOBooxYWUM_ysg_QyjSflCPBSH0Hp20FZXuG-vQ3hA" /></p><hr/><small>23 Sep 2026, 06:07 UTC | #22023</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI's Potential Competition with TypeSafe's Jev Model</title>
     <link href="https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/" rel="alternate" />
