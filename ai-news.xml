@@ -402,22 +402,4 @@
     <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/ncnWgq78YSo.png?w=680" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/">techcrunch.com</a> | <a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/">source</a> | <a href="https://news.ycombinator.com/item?id=49745728">hacker news</a></small></p><hr/><p>Google has introduced a new version of its CC AI agent designed to help families coordinate household tasks. The agent works across email, calendars, and chats to manage logistics like meal planning, shopping lists, and school-related activities such as signing permission slips.</p><p>The update allows up to six family members to share specific data—such as doctor appointments or sports schedules—with the agent to automate scheduling. Currently available to U.S. users aged 18 and up with personal Gmail accounts, the tool runs on an isolated cloud environment powered by Gemini and the Antigravity agentic harness.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/ncnWgq78YSo.png?w=680" /></p><hr/><small>18 Sep 2026, 22:45 UTC | #21607</small>]]></content>
   </entry>
-  <entry>
-    <title>Using LLMs as Writing Copyeditors to Preserve Personal Voice</title>
-    <link href="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/" rel="alternate" />
-    <id>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/::v239</id>
-    <published>2026-09-18T09:51:00+00:00</published>
-    <updated>2026-09-18T09:51:00+00:00</updated>
-    <media:thumbnail url="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/workshop.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/">sockpuppet.org</a> | <a href="https://news.ycombinator.com/item?id=49747070">hacker news</a></small></p><hr/><p>To preserve a unique human voice when using Large Language Models (LLMs), writers should employ them as copyeditors rather than ghostwriters. This method requires two strict rules: refusing to adopt any specific phrasing suggested by the AI and ignoring the model's tendency toward excessive praise, which can lead to the uncritical acceptance of poor structural or stylistic choices.</p><p>Instead of using AI to generate prose, the author suggests using it to identify mechanical flaws like passive voice, redundant adverbs, and structural inconsistencies. By using targeted editing prompts and custom-built workshopping tools, writers can outsource the tedious task of technical review while maintaining total control over their narrative and vocabulary.</p><p><img src="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/workshop.jpg" /></p><hr/><small>18 Sep 2026, 13:45 UTC | #21570</small>]]></content>
-  </entry>
-  <entry>
-    <title>NOT JEV Enables Local Decision Model Testing in Browsers</title>
-    <link href="https://openjev.com/" rel="alternate" />
-    <id>https://openjev.com/::v239</id>
-    <published>2026-09-18T09:43:00+00:00</published>
-    <updated>2026-09-18T09:43:00+00:00</updated>
-    <media:thumbnail url="https://www.betterclaw.io/img/blog/openclaw-local-model-not-working-decision-tree.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://openjev.com/">openjev.com</a> | <a href="https://news.ycombinator.com/item?id=49752041">hacker news</a></small></p><hr/><p>An experimental web-based tool allows users to run decision models locally in their browsers using their own GPU. The platform compares two methods for acquiring choice probabilities: reading model logits directly or generating probability distributions as JSON text. It utilizes quantized GGUF models, including Qwen and MiniCPM, through the wllama library.</p><p>The experiment tests whether private, client-side models can approximate the performance of hosted decision services like TypeSafe’s Jev. By executing models on the user's hardware, the system ensures that all data remains private and never leaves the browser. Users can compare different model sizes, from 0.6B to 4B parameters, to measure the impact of quantization and model scale on accuracy and inference speed.</p><p><img src="https://www.betterclaw.io/img/blog/openclaw-local-model-not-working-decision-tree.jpg" /></p><hr/><small>18 Sep 2026, 13:06 UTC | #21564</small>]]></content>
-  </entry>
 </feed>
