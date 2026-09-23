@@ -546,31 +546,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/arche-1-2-0.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dystopian-waves-updates-watcher-to-v1-4-0-and-expands-macos-and-au-support-across-its-plugins-68604?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68604">kvraudio.com</a> | <a href="https://dystopianwaves.gumroad.com/">source</a></small></p><hr/><p>Dystopian Waves has updated its Watcher audio and MIDI capture tool to version 1.4.0, adding system audio recording and audio-to-MIDI conversion via the Basic Pitch model. The update also introduces improved navigation, enhanced "Good Takes" marking, and various UI and engine refinements.</p><p>The company has also expanded macOS and Audio Unit (AU) support for several products, including Auren Pro, Celium II, Noesis, and Arche. These updates include the addition of DAW Transport Sync and AU MIDI FX versions to improve workflow integration for Logic Pro and other DAW users.</p><p><img src="https://static.kvraudio.com/i/b/arche-1-2-0.png" /></p><hr/><small>18 Sep 2026, 14:51 UTC | #21567</small>]]></content>
   </entry>
-  <entry>
-    <title>Limited Edition Audio Releases VoxSplit Pro for macOS</title>
-    <link href="https://www.kvraudio.com/news/limited-edition-audio-releases-voxsplit-pro-for-dialogue-separation-and-cleanup-on-macos-vst3-and-aax-68627?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68627" rel="alternate" />
-    <id>https://www.kvraudio.com/news/limited-edition-audio-releases-voxsplit-pro-for-dialogue-separation-and-cleanup-on-macos-vst3-and-aax-68627?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68627::v239</id>
-    <published>2026-09-18T09:56:00+00:00</published>
-    <updated>2026-09-18T09:56:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/voxsplit-pro-interface-v1-8-1.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/limited-edition-audio-releases-voxsplit-pro-for-dialogue-separation-and-cleanup-on-macos-vst3-and-aax-68627?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68627">kvraudio.com</a> | <a href="https://limitededitionaudio.com/product">source</a></small></p><hr/><p>This utility separates two overlapping voices from a single recording and reduces non-dialogue background noise. It is available as an AAX plugin for Pro Tools, a VST3 plugin, or a standalone application, with support for both Apple Silicon and Intel architectures.</p><p>Developed by sound designer Frédéric Le Louët, the tool is intended to assist dialogue editors with tasks like ADR preparation by isolating individual performances within overlapping speech. All audio processing occurs locally on the machine, and the software includes Standard, Precision, and Rescue processing modes.</p><p><img src="https://static.kvraudio.com/i/b/voxsplit-pro-interface-v1-8-1.png" /></p><hr/><small>18 Sep 2026, 14:30 UTC | #21546</small>]]></content>
-  </entry>
-  <entry>
-    <title>Initial Audio Updates Difro Melody AI to v1.2.0</title>
-    <link href="https://www.kvraudio.com/news/initial-audio-updates-difro-melody-ai-to-v1-2-0-68635?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68635" rel="alternate" />
-    <id>https://www.kvraudio.com/news/initial-audio-updates-difro-melody-ai-to-v1-2-0-68635?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68635::v239</id>
-    <published>2026-09-18T09:54:00+00:00</published>
-    <updated>2026-09-18T09:54:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/difroskin1.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/initial-audio-updates-difro-melody-ai-to-v1-2-0-68635?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68635">kvraudio.com</a> | <a href="https://initialaudio.com/difro-melody-ai/">source</a></small></p><hr/><p>Version 1.2.0 of the Difro AI MIDI generator introduces post-generation modifiers, such as Gate, Arp, and Rhythm, which apply algorithmic effects to generated musical notes.</p><p>User interface improvements include MIDI files that save key and scale data in the filename, expanded note lasso functionality via modifier keys, and improved velocity editing. The plugin manager also now supports multiple folders and includes bulk add/remove controls for the instrument picker.</p><p><img src="https://static.kvraudio.com/i/b/difroskin1.png" /></p><hr/><small>18 Sep 2026, 14:09 UTC | #21549</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sugar Bytes Releases Transfigure for iPad</title>
-    <link href="https://www.kvraudio.com/news/sugar-bytes-releases-transfigure-for-ipad-68610?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68610" rel="alternate" />
-    <id>https://www.kvraudio.com/news/sugar-bytes-releases-transfigure-for-ipad-68610?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68610::v239</id>
-    <published>2026-09-18T09:52:00+00:00</published>
-    <updated>2026-09-18T09:52:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/product.1789635957.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/sugar-bytes-releases-transfigure-for-ipad-68610?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68610">kvraudio.com</a> | <a href="https://sugar-bytes.de/en/transfigure-ipad">source</a></small></p><hr/><p>Sugar Bytes has released Transfigure for iPad, which functions as both a standalone application and an Audio Unit (AUv3) plugin. The software is designed for sound redesign using spectral manipulation, resynthesis, and an XY pad for real-time parameter modulation.</p><p>Available for iOS 17 or later, the app is free to download with an optional in-app purchase of $24.99 (29.99€) to unlock full features. Paid features include AUv3 support, iCloud preset synchronization, and session restoration.</p><p><img src="https://static.kvraudio.com/i/b/product.1789635957.jpg" /></p><hr/><small>18 Sep 2026, 13:56 UTC | #21542</small>]]></content>
-  </entry>
 </feed>

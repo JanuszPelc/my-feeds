@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-23T01:11:00+00:00</updated>
+  <updated>2026-09-23T05:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Kyriakos Mitsotakis Discusses AI Regulation and Greece's Economic Recovery</title>
+    <link href="https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/::v239</id>
+    <published>2026-09-23T05:00:00+00:00</published>
+    <updated>2026-09-23T05:00:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Mitsotakis2.jpg?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/">techcrunch.com</a></small></p><hr/><p>Greek Prime Minister Kyriakos Mitsotakis addressed the rapid advancement of artificial intelligence and Greece's economic stabilization during a recent trip to San Francisco. He highlighted the country's significant debt reduction, improved creditworthiness, and heavy investment in digital infrastructure, including a new supercomputer in Lavrio intended to power scientific research.</p><p>Mitsotakis expressed concern that social regulations may struggle to keep pace with AI development, specifically regarding its impact on children and the labor market. He also voiced support for calls from frontier AI labs to slow development and warned that the speed of technological evolution may exceed society's capacity to prepare for widespread job displacement.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Mitsotakis2.jpg?w=680" /></p><hr/><small>23 Sep 2026, 10:05 UTC | #22039</small>]]></content>
+  </entry>
   <entry>
     <title>Discord Rolls Out Revised Age Verification Policy</title>
     <link href="https://www.engadget.com/2265924/discord-rolls-out-its-revised-age-verification-policy/" rel="alternate" />
