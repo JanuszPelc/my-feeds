@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-23T10:32:00+00:00</updated>
+  <updated>2026-09-23T12:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Surgeon Discusses Mental Health Challenges and Structural Stressors in Medicine</title>
+    <link href="https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/" rel="alternate" />
+    <id>https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/::v239</id>
+    <published>2026-09-23T12:34:00+00:00</published>
+    <updated>2026-09-23T12:34:00+00:00</updated>
+    <media:thumbnail url="https://www.psychiatrist.com/wp-content/uploads/2025/12/JCP_risk-suicide-healthcare-worker.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/">drericlevi.pages.dev</a> | <a href="https://news.ycombinator.com/item?id=49814159">hacker news</a></small></p><hr/><p>A surgeon reflects on the mental health challenges prevalent in the medical profession, including burnout, depression, and anxiety. He identifies three systemic factors contributing to these struggles: the loss of control over clinical autonomy and daily schedules, the erosion of social and professional support systems, and the loss of professional meaning resulting from the industrialization of healthcare.</p><p>The essay is prompted by the suicide of Brisbane gastroenterologist Dr. Andrew Bryant. The author argues that modern healthcare's focus on productivity metrics and administrative efficiency has transformed medicine from a purposeful vocation into a commodity-driven industry, creating an environment that contributes to clinician exhaustion and psychological distress.</p><p><img src="https://www.psychiatrist.com/wp-content/uploads/2025/12/JCP_risk-suicide-healthcare-worker.jpg" /></p><hr/><small>23 Sep 2026, 17:35 UTC | #22114</small>]]></content>
+  </entry>
   <entry>
     <title>Project Nexus Tests Solar Panels Over California Irrigation Canals</title>
     <link href="https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals" rel="alternate" />
