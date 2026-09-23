@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-23T11:49:00+00:00</updated>
+  <updated>2026-09-23T12:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Parsing JSON Without Intermediate ASTs</title>
+    <link href="https://arthi-chaud.github.io/posts/json-ir/" rel="alternate" />
+    <id>https://arthi-chaud.github.io/posts/json-ir/::v239</id>
+    <published>2026-09-23T12:22:00+00:00</published>
+    <updated>2026-09-23T12:22:00+00:00</updated>
+    <media:thumbnail url="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/02/zed-json-error.png?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arthi-chaud.github.io/posts/json-ir/">arthi-chaud.github.io</a> | <a href="https://lobste.rs/s/ehpn7n/parsing_json_objects_without">discussion</a></small></p><hr/><p>Parsing JSON objects in Haskell without an intermediate representation (IR) or Abstract Syntax Tree (AST) is possible through the use of partially-initialised data. This technique employs `undefined` for fields in the target data structure and uses a bitset to track which fields are populated during parsing to ensure all required data is present.</p><p>Bypassing the IR minimizes memory allocation and computational overhead, significantly accelerating deserialisation. Benchmarks demonstrate that this approach can be approximately three times faster than the standard `aeson` library, though it requires non-strict data types and increased implementation complexity.</p><p><img src="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/02/zed-json-error.png?q=70&fit=crop&w=825&dpr=1" /></p><hr/><small>23 Sep 2026, 15:56 UTC | #22105</small>]]></content>
+  </entry>
   <entry>
     <title>GitHub Wiki Use Critiqued as Documentation Anti-pattern</title>
     <link href="https://michaelheap.com/github-wiki-is-an-antipattern/" rel="alternate" />
@@ -856,14 +865,5 @@
     <updated>2026-09-18T17:19:00+00:00</updated>
     <media:thumbnail url="https://www.phoronix.net/image.php?id=2026&amp;image=wild_09" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html">davidlattimore.github.io</a> | <a href="https://lobste.rs/s/gjjizm/benchmarking_wild_vs_mold">discussion</a></small></p><hr/><p>Recent benchmarks show the Mold linker outperforming the Wild linker, a reversal of earlier benchmarks where Wild appeared faster. This discrepancy arises from differing benchmark configurations, including the use of `tmpfs` versus `ext4` filesystems and variations in how processes are forked and how output files are handled.</p><p>Wild's performance currently benefits from using `tmpfs` and lacks certain OS-specific optimizations like `fallocate` and hugepage mapping used by Mold. While Wild is expected to implement these optimizations in future releases, current results also suggest that Wild's performance scales significantly with higher thread counts on many-core systems.</p><p><img src="https://www.phoronix.net/image.php?id=2026&image=wild_09" /></p><hr/><small>18 Sep 2026, 20:52 UTC | #21624</small>]]></content>
-  </entry>
-  <entry>
-    <title>Internet Phone Book Returns to Stock and Opens Submissions for Second Issue</title>
-    <link href="https://internetphonebook.net/" rel="alternate" />
-    <id>https://internetphonebook.net/::v239</id>
-    <published>2026-09-18T15:37:00+00:00</published>
-    <updated>2026-09-18T15:37:00+00:00</updated>
-    <media:thumbnail url="https://polytechnic.co.uk/media/images/internetphonebook-cover.width-1200.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://internetphonebook.net/">internetphonebook.net</a> | <a href="https://lobste.rs/s/xr7p0k/internet_phone_book">discussion</a></small></p><hr/><p>The Internet Phone Book, an annual publication exploring the "poetic web" through essays and a directory of personal websites, has returned to stock and is accepting submissions for its second issue.</p><p>The directory features hundreds of designers, developers, writers, curators, and educators. A global tour includes scheduled appearances at various festivals and galleries in cities including Ljubljana, Athens, and London through 2026.</p><p><img src="https://polytechnic.co.uk/media/images/internetphonebook-cover.width-1200.jpg" /></p><hr/><small>18 Sep 2026, 20:15 UTC | #21621</small>]]></content>
   </entry>
 </feed>

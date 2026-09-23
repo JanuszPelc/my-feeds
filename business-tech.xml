@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-23T10:29:00+00:00</updated>
+  <updated>2026-09-23T12:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>NADI and SPRIND Launch €40M AI Chip Design Challenge</title>
+    <link href="https://www.reuters.com/business/german-dutch-strategic-innovation-agencies-collaborate-ai-chip-design-2026-09-23/" rel="alternate" />
+    <id>https://www.reuters.com/business/german-dutch-strategic-innovation-agencies-collaborate-ai-chip-design-2026-09-23/::v239</id>
+    <published>2026-09-23T12:18:00+00:00</published>
+    <updated>2026-09-23T12:18:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/german-dutch-strategic-innovation-agencies-collaborate-ai-chip-design-2026-09-23/">reuters.com</a></small></p><hr/><p>NADI and Germany’s SPRIND have launched a €40 million joint program to accelerate semiconductor design using artificial intelligence. The 20-month initiative will fund small teams working to develop chips for AI training and inference while significantly reducing development cycles.</p><p>The collaboration aims to strengthen Europe's strategic semiconductor capabilities and shorten chip development timelines from years to weeks. By funding radical innovations in pan-European chip design, the agencies seek to bolster the continent's technological autonomy.</p><hr/><small>23 Sep 2026, 15:48 UTC | #22049</small>]]></content>
+  </entry>
   <entry>
     <title>Jordan Petridis Proposes Ban on LLM-Generated Contributions to GNOME</title>
     <link href="https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/" rel="alternate" />
@@ -985,23 +993,5 @@
     <updated>2026-09-18T17:16:00+00:00</updated>
     <media:thumbnail url="https://cdn.analyticsvidhya.com/wp-content/uploads/2026/01/image4-5.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://danluu.com/brain-off/">danluu.com</a> | <a href="https://lobste.rs/s/dd6if1/there_s_no_point_at_which_turning_your">discussion</a> | <a href="https://news.ycombinator.com/item?id=49757178">hacker news</a></small></p><hr/><p>Using Large Language Models (LLMs) for tasks without critical review, a practice described as "brain-off" usage, fails to provide long-term value to employees and often results in substandard software. Acting as a "meat proxy" by assuming AI output is correct prevents workers from identifying errors and building the expertise required for complex work.</p><p>As LLMs advance, companies are likely to replace human-in-the-loop processes with fully automated loops to minimize costs. To remain essential, workers must focus on high-level tasks—such as architectural design and complex decision-making—that require the human judgment necessary to navigate edge cases and out-of-distribution problems.</p><p><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2026/01/image4-5.webp" /></p><hr/><small>18 Sep 2026, 20:34 UTC | #21622</small>]]></content>
-  </entry>
-  <entry>
-    <title>MiHoYo Wins $112,000 Lawsuit Over AI Voice Cloning of Genshin Impact Characters</title>
-    <link href="https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters" rel="alternate" />
-    <id>https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters::v239</id>
-    <published>2026-09-18T15:38:00+00:00</published>
-    <updated>2026-09-18T15:38:00+00:00</updated>
-    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta59a50703bd13d19/6aad554ee6306adc1858a9f2/68150888-d9bb-43d1-bf07-ec32e6ed8fb8.jpg?width=720&amp;quality=80&amp;disable=upscale" />
-    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/mihoyo-awarded-112-000-by-chinese-court-after-ai-voice-service-dupes-genshin-impact-characters">gamedeveloper.com</a></small></p><hr/><p>A Shanghai court has ordered an unnamed generative AI developer to pay ¥750,000 (approximately $112,000) to MiHoYo for the unauthorized reproduction and sale of Genshin Impact character voices. The defendant used generative AI to clone 63 characters and used game assets, such as images and animations, to market the voice packs.</p><p>The ruling is China's first case involving "unfair competition" regarding the use of AI to recreate copyrighted voiceover work. It establishes a legal precedent for how courts may assess the use of generative AI to replicate the audio and visual likenesses of video game characters.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta59a50703bd13d19/6aad554ee6306adc1858a9f2/68150888-d9bb-43d1-bf07-ec32e6ed8fb8.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>18 Sep 2026, 20:27 UTC | #21589</small>]]></content>
-  </entry>
-  <entry>
-    <title>Abhishek Fatehpuria to Discuss Financial Consumer Trends at TechCrunch Disrupt 2026</title>
-    <link href="https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/::v239</id>
-    <published>2026-09-18T15:36:00+00:00</published>
-    <updated>2026-09-18T15:36:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Abhishek-Fatehpuria_1-Speaker-16x9-Dark.png?w=680" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/">techcrunch.com</a></small></p><hr/><p>Abhishek Fatehpuria, Robinhood’s Vice President of Product Management for Brokerage, will discuss "Winning the Modern Financial Consumer" at TechCrunch Disrupt 2026. The session will explore the transition of fintech services from specialized trading applications to integrated financial ecosystems that include banking, credit, cryptocurrency, and prediction markets.</p><p>The discussion will address the technical and product challenges of scaling complex services, such as AI-powered "agentic trading" and international expansion, while maintaining intuitive user experiences. Robinhood's recent growth in banking deposits and prediction market volume serves as a backdrop for these industry-wide shifts.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Abhishek-Fatehpuria_1-Speaker-16x9-Dark.png?w=680" /></p><hr/><small>18 Sep 2026, 20:11 UTC | #21581</small>]]></content>
   </entry>
 </feed>

@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-23T10:43:00+00:00</updated>
+  <updated>2026-09-23T12:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Scaler Music Releases Scaler EQ Pro</title>
+    <link href="https://www.kvraudio.com/news/scaler-music-releases-scaler-eq-pro-vst3-au-and-aax-68683?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68683" rel="alternate" />
+    <id>https://www.kvraudio.com/news/scaler-music-releases-scaler-eq-pro-vst3-au-and-aax-68683?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68683::v239</id>
+    <published>2026-09-23T12:21:00+00:00</published>
+    <updated>2026-09-23T12:21:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/seqpro-hero-small.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/scaler-music-releases-scaler-eq-pro-vst3-au-and-aax-68683?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68683">kvraudio.com</a> | <a href="https://scalermusic.com/products/scaler-eq-pro/">source</a></small></p><hr/><p>Scaler Music has released Scaler EQ Pro, an evolution of its patented musical equalizer. The plugin features key-aware Harmonic Peak filters that can boost in-key frequencies or cut out-of-key ones, alongside new bass and high-frequency compressors and a MIDI-controlled Live Band.</p><p>Available in VST3, AU, and AAX formats for macOS and Windows, the plugin includes Magic Shelf mid-side processing, dynamic EQ for all bands, and automated audio key detection.</p><p><img src="https://static.kvraudio.com/i/b/seqpro-hero-small.png" /></p><hr/><small>23 Sep 2026, 15:53 UTC | #22060</small>]]></content>
+  </entry>
+  <entry>
+    <title>Soniccouture Releases The Attic 3 Synth Collection</title>
+    <link href="https://www.kvraudio.com/news/soniccouture-release-the-attic-3---24-rare-synths-for-kontakt-player-68701?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68701" rel="alternate" />
+    <id>https://www.kvraudio.com/news/soniccouture-release-the-attic-3---24-rare-synths-for-kontakt-player-68701?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68701::v239</id>
+    <published>2026-09-23T12:20:00+00:00</published>
+    <updated>2026-09-23T12:20:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/voyetra-1x.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/soniccouture-release-the-attic-3---24-rare-synths-for-kontakt-player-68701?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68701">kvraudio.com</a> | <a href="https://www.soniccouture.com/en/products/34-new/g47-the-attic-3/">source</a></small></p><hr/><p>Soniccouture has released The Attic 3, a collection of 24 rare vintage synthesizers for Kontakt Player. The library features instruments such as the Yamaha CS-15, Casio CZ-101, and EMS Synthi AKS, using sampled keys combined with modeled filters and envelopes to emulate vintage character.</p><p>The 24GB library contains 600 presets and is compatible with the free version of Kontakt Player. Pricing is set at an introductory $175 until October 6, 2026, with a standard price of $250 and a $79 upgrade option for users of The Attic 1 or 2.</p><p><img src="https://static.kvraudio.com/i/b/voyetra-1x.jpg" /></p><hr/><small>23 Sep 2026, 15:51 UTC | #22061</small>]]></content>
+  </entry>
+  <entry>
+    <title>Minimal Instruments Releases nagi Plugin Builder for macOS, Windows, and Linux</title>
+    <link href="https://www.kvraudio.com/news/minimal-instruments-releases-nagi-plugin-builder-for-macos-windows-and-linux-68698?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68698" rel="alternate" />
+    <id>https://www.kvraudio.com/news/minimal-instruments-releases-nagi-plugin-builder-for-macos-windows-and-linux-68698?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68698::v239</id>
+    <published>2026-09-23T12:19:00+00:00</published>
+    <updated>2026-09-23T12:19:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/-2026-09-23-171015-.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/minimal-instruments-releases-nagi-plugin-builder-for-macos-windows-and-linux-68698?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68698">kvraudio.com</a> | <a href="https://nagi.minimal-instruments.com/">source</a></small></p><hr/><p>Minimal Instruments has released nagi, a desktop application for macOS, Windows, and Linux that lets users design, audition, and build VST3 and CLAP audio plugins. The software uses a node-based editor for no-code development and a Faust DSP editor for manual coding.</p><p>The tool features an interface designer for custom GUI layouts, an instant audio preview, and a local AI assistant for drafting DSP and interface designs. While the application is free to use, an optional "nagi Pro" version is planned as a one-time $99 purchase after the beta phase.</p><p><img src="https://static.kvraudio.com/i/b/-2026-09-23-171015-.png" /></p><hr/><small>23 Sep 2026, 15:50 UTC | #22055</small>]]></content>
+  </entry>
   <entry>
     <title>Rockheyday Releases Balance 9 Parametric Equalizer</title>
     <link href="https://www.kvraudio.com/news/rockheyday-releases-balance-9---mastering-parametric-equalizer-vst3-and-au-68697?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68697" rel="alternate" />
