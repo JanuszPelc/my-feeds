@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-22T23:24:00+00:00</updated>
+  <updated>2026-09-23T01:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Discord Rolls Out Revised Age Verification Policy</title>
+    <link href="https://www.engadget.com/2265924/discord-rolls-out-its-revised-age-verification-policy/" rel="alternate" />
+    <id>https://www.engadget.com/2265924/discord-rolls-out-its-revised-age-verification-policy/::v239</id>
+    <published>2026-09-23T01:11:00+00:00</published>
+    <updated>2026-09-23T01:11:00+00:00</updated>
+    <media:thumbnail url="https://www.nogentech.org/wp-content/uploads/2026/02/Discord-Adds-Age-Verification-For-Teen-Safety-780x470.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2265924/discord-rolls-out-its-revised-age-verification-policy/">engadget.com</a> | <a href="https://discord.com/blog/safer-for-teens-same-discord-for-adults">source</a> | <a href="https://news.ycombinator.com/item?id=49805677">hacker news</a></small></p><hr/><p>Discord is implementing an automated age verification system that sorts users into Adult, Teen, or Unconfirmed categories based on account history and activity levels. Most users are expected to be correctly classified through these automated markers without needing to submit identification.</p><p>Users in the Unconfirmed category can verify their age through ID scans, video selfies, or third-party authentication via Apple, Google, or credit cards. Accounts categorized as teens will face safety restrictions, including a mandatory message request inbox for non-friends and limited access to sensitive or adult-only content and servers.</p><p><img src="https://www.nogentech.org/wp-content/uploads/2026/02/Discord-Adds-Age-Verification-For-Teen-Safety-780x470.webp" /></p><hr/><small>23 Sep 2026, 08:23 UTC | #22028</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft to Provide DARPA On-Site Access to Quantum Hardware at New Maryland Research Center</title>
     <link href="https://www.reuters.com/business/microsoft-give-darpa-hands-on-access-to-quantum-system-new-maryland-site-2026-09-22/" rel="alternate" />
@@ -994,14 +1003,5 @@
     <updated>2026-09-18T12:16:00+00:00</updated>
     <media:thumbnail url="https://www.silicon.co.uk/wp-content/uploads/2025/10/The-LPDDR5-memory-chip-from-Chinese-chipmaker-CXMT.-Image-credit-CXMT.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/chinas-cxmt-eyes-flash-memory-push-amid-global-shortage-firm-take-samsung-ymtc-2026-09-18/">reuters.com</a></small></p><hr/><p>Moving into the flash memory market would allow the DRAM manufacturer to compete directly with Samsung Electronics and domestic rival YMTC. This strategic shift is driven by a global memory shortage fueled by the rapid expansion of artificial intelligence.</p><p>Entering the NAND flash sector would enable the company to diversify its product offerings and capture increased demand for storage solutions in AI-driven data centers and consumer electronics.</p><p><img src="https://www.silicon.co.uk/wp-content/uploads/2025/10/The-LPDDR5-memory-chip-from-Chinese-chipmaker-CXMT.-Image-credit-CXMT.jpg" /></p><hr/><small>18 Sep 2026, 15:40 UTC | #21540</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple to Launch Apple Pay in India via Axis Bank Cards</title>
-    <link href="https://www.reuters.com/world/india/apple-pay-eyes-india-rollout-with-axis-bank-sources-say-2026-09-18/" rel="alternate" />
-    <id>https://www.reuters.com/world/india/apple-pay-eyes-india-rollout-with-axis-bank-sources-say-2026-09-18/::v239</id>
-    <published>2026-09-18T08:21:00+00:00</published>
-    <updated>2026-09-18T08:21:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQHvGEW7PU5Zbw/feedshare-shrink_1280/B56Zz_DJi.JwAM-/0/1773805541835?e=2147483647&amp;v=beta&amp;t=7smQoH-lErDz4RTWmdYc_U4vHsH1a6AzIX2kTy8td5c" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/india/apple-pay-eyes-india-rollout-with-axis-bank-sources-say-2026-09-18/">reuters.com</a></small></p><hr/><p>Apple is expected to launch Apple Pay in India next month, starting with support for Axis Bank credit cards. This move marks the expansion of Apple's digital wallet services into the Indian market.</p><p>Axis Bank is the country's fourth-largest credit card issuer. In addition to the initial rollout, Apple is reportedly in ongoing discussions with HDFC Bank and ICICI Bank to further expand the service's availability in the region.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQHvGEW7PU5Zbw/feedshare-shrink_1280/B56Zz_DJi.JwAM-/0/1773805541835?e=2147483647&v=beta&t=7smQoH-lErDz4RTWmdYc_U4vHsH1a6AzIX2kTy8td5c" /></p><hr/><small>18 Sep 2026, 12:36 UTC | #21532</small>]]></content>
   </entry>
 </feed>

@@ -420,13 +420,4 @@
     <media:thumbnail url="https://www.betterclaw.io/img/blog/openclaw-local-model-not-working-decision-tree.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://openjev.com/">openjev.com</a> | <a href="https://news.ycombinator.com/item?id=49752041">hacker news</a></small></p><hr/><p>An experimental web-based tool allows users to run decision models locally in their browsers using their own GPU. The platform compares two methods for acquiring choice probabilities: reading model logits directly or generating probability distributions as JSON text. It utilizes quantized GGUF models, including Qwen and MiniCPM, through the wllama library.</p><p>The experiment tests whether private, client-side models can approximate the performance of hosted decision services like TypeSafe’s Jev. By executing models on the user's hardware, the system ensures that all data remains private and never leaves the browser. Users can compare different model sizes, from 0.6B to 4B parameters, to measure the impact of quantization and model scale on accuracy and inference speed.</p><p><img src="https://www.betterclaw.io/img/blog/openclaw-local-model-not-working-decision-tree.jpg" /></p><hr/><small>18 Sep 2026, 13:06 UTC | #21564</small>]]></content>
   </entry>
-  <entry>
-    <title>Meta Launches Muse AI Agent Mac App</title>
-    <link href="https://www.theverge.com/tech/997332/metas-muse-ai-agent-now-has-a-mac-app" rel="alternate" />
-    <id>https://www.theverge.com/tech/997332/metas-muse-ai-agent-now-has-a-mac-app::v239</id>
-    <published>2026-09-18T08:20:00+00:00</published>
-    <updated>2026-09-18T08:20:00+00:00</updated>
-    <media:thumbnail url="https://winbuzzer.com/wp-content/uploads/2026/07/Meta-AI-Muse-Image.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/997332/metas-muse-ai-agent-now-has-a-mac-app">theverge.com</a> | <a href="https://ai.meta.com/muse/download/">source</a></small></p><hr/><p>Meta's Muse AI agent is now available as a Mac application, expanding from its original availability on iOS, Android, and the web. The desktop agent is designed to automate tasks such as organizing files, filling out forms, and managing various productivity workflows.</p><p>The agent integrates with system services like Messages, Calendar, and Notes to retrieve and manage information. This release follows the agent's initial launch earlier this month as part of Meta's ongoing AI ecosystem expansion.</p><p><img src="https://winbuzzer.com/wp-content/uploads/2026/07/Meta-AI-Muse-Image.jpg" /></p><hr/><small>18 Sep 2026, 12:20 UTC | #21531</small>]]></content>
-  </entry>
 </feed>
