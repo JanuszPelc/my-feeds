@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-22T22:02:00+00:00</updated>
+  <updated>2026-09-22T23:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>TechCrunch Founder Summit 2026 Agenda Revealed</title>
+    <link href="https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/::v239</id>
+    <published>2026-09-22T23:22:00+00:00</published>
+    <updated>2026-09-22T23:22:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/">techcrunch.com</a> | <a href="https://techcrunch.com/events/techcrunch-founder-summit-2026/agenda/">source</a></small></p><hr/><p>Scheduled for November 4 at the SoWa Power Station in Boston, the event focuses on the mechanics of startup scaling. Sessions will cover fundraising, hiring, AI-native business strategies, and the evolution of CEO leadership.</p><p>The agenda includes speakers from Sequoia, NEA, Bessemer Venture Partners, and TDK Ventures. Topics include navigating investment terms, validating product-market fit, and building companies outside of major tech hubs.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?w=680" /></p><hr/><small>23 Sep 2026, 04:25 UTC | #22025</small>]]></content>
+  </entry>
   <entry>
     <title>TikTok USDS Joins Lantern Child Safety Initiative</title>
     <link href="https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/" rel="alternate" />
