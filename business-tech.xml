@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Prioritizing Systemic Changes Over Incident Details in Postmortems</title>
+    <link href="https://michaelheap.com/i-dont-want-the-details/" rel="alternate" />
+    <id>https://michaelheap.com/i-dont-want-the-details/::v239</id>
+    <published>2026-09-23T14:43:00+00:00</published>
+    <updated>2026-09-23T14:43:00+00:00</updated>
+    <media:thumbnail url="https://pmstudycircle.com/wp-content/uploads/2026/03/Premortem-vs-Postmortem-comparison-infographic.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://michaelheap.com/i-dont-want-the-details/">michaelheap.com</a> | <a href="https://news.ycombinator.com/item?id=49815466">hacker news</a></small></p><hr/><p>Organizations often fail to implement meaningful changes after incidents because they focus on reconstructing a timeline of reasonable decisions made by competent people. This approach frequently results in explanations that foster empathy for individuals but leave underlying systemic flaws unaddressed.</p><p>To drive real change, leaders should focus on what structural modifications will prevent a similar class of failure from occurring again. Lasting improvements require implementing processes that change outcomes even if the same situation recurs, rather than relying on organizational folklore such as promises to communicate better or be more careful.</p><p><img src="https://pmstudycircle.com/wp-content/uploads/2026/03/Premortem-vs-Postmortem-comparison-infographic.png" /></p><hr/><small>23 Sep 2026, 18:41 UTC | #22120</small>]]></content>
+  </entry>
+  <entry>
     <title>Spotify Launches Taste Profile Feature for U.S. Subscribers</title>
     <link href="https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/" rel="alternate" />
     <id>https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/::v239</id>
