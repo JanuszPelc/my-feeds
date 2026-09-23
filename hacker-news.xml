@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T21:07:00+00:00</updated>
+  <updated>2026-09-22T21:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Plain-Text Files Face Growing Obsolescence Risks</title>
+    <link href="https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49" rel="alternate" />
+    <id>https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49::v239</id>
+    <published>2026-09-22T21:11:00+00:00</published>
+    <updated>2026-09-22T21:11:00+00:00</updated>
+    <media:thumbnail url="https://iboysoft.com/images/en-wiki/plain-text/plain-text.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49">paste.sr.ht</a> | <a href="https://lobste.rs/s/ph1g2v/plain_text_files_are_at_risk">discussion</a></small></p><hr/><p>Plain-text files serve as a universal, interoperable data interface for information ranging from simple notes to critical system configurations. While once a standard for general computing, usage is declining as mobile ecosystems favor proprietary, app-centric formats over the traditional filesystem.</p><p>Software engineers, the remaining core user base, are increasingly adopting LLM-driven development tools that favor chat-based interactions and web-based diff reviews over manual local editing. This transition threatens the long-term maintenance of plain-text software and the stability of the universal data standards they sustain.</p><p><img src="https://iboysoft.com/images/en-wiki/plain-text/plain-text.jpg" /></p><hr/><small>23 Sep 2026, 02:13 UTC | #22030</small>]]></content>
+  </entry>
   <entry>
     <title>No Sloptober Challenge Prompts Abstention from LLM-Based Tools</title>
     <link href="https://no-sloptober.com/" rel="alternate" />

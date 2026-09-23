@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Donald Trump Rejects Global AI Regulation in UN Speech</title>
+    <link href="https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db" rel="alternate" />
+    <id>https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db::v239</id>
+    <published>2026-09-22T21:10:00+00:00</published>
+    <updated>2026-09-22T21:10:00+00:00</updated>
+    <media:thumbnail url="https://media.cnn.com/api/v1/images/stellar/prod/2025-09-23t150419z-431107609-rc2rxgafv1i8-rtrmadp-3-un-assembly-trump.JPG?c=original&amp;q=w_1041,c_fill" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db">ft.com</a></small></p><hr/><p>During a speech at the United Nations General Assembly, Donald Trump rejected what he termed a "globalist scheme" to regulate artificial intelligence. He asserted that the United States currently maintains a significant lead in AI innovation over China and other nations and stated his intent to maintain that advantage.</p><p>His remarks highlight a potential shift toward prioritizing domestic technological competition over international regulatory frameworks. This stance underscores the growing tension between efforts to establish global AI governance and the drive for national technological supremacy.</p><p><img src="https://media.cnn.com/api/v1/images/stellar/prod/2025-09-23t150419z-431107609-rc2rxgafv1i8-rtrmadp-3-un-assembly-trump.JPG?c=original&q=w_1041,c_fill" /></p><hr/><small>23 Sep 2026, 02:09 UTC | #22004</small>]]></content>
+  </entry>
+  <entry>
     <title>OpenAI to Allow Third-Party Safety Evaluations During Model Development</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-22/openai-to-let-outside-groups-evaluate-ai-models-at-earlier-phase" rel="alternate" />
     <id>https://www.bloomberg.com/news/articles/2026-09-22/openai-to-let-outside-groups-evaluate-ai-models-at-earlier-phase::v239</id>
