@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T19:41:00+00:00</updated>
+  <updated>2026-09-22T20:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Qualcomm Unveils Snapdragon 8 Elite Gen 6 Smartphone Chips</title>
+    <link href="https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/::v239</id>
+    <published>2026-09-22T20:01:00+00:00</published>
+    <updated>2026-09-22T20:01:00+00:00</updated>
+    <media:thumbnail url="https://www.notebookcheck.pl/fileadmin/Notebooks/News/_nc5/Snadpragon-8-Elite-Gen-6-early-kv.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/">techcrunch.com</a> | <a href="https://www.qualcomm.com/news/releases/2026/09/snapdragon-leads-the-agentic-ai-age-with-two-of-the-world-s-fast">source</a></small></p><hr/><p>The company introduced the Snapdragon 8 Elite Gen 6 and Snapdragon 8 Elite Extreme Gen 6 processors at its annual Snapdragon Summit, emphasizing on-device AI functionality. These chips include a sensing hub for running 200-million-parameter models locally, and the high-end Extreme version can run a 30-billion-parameter mixture-of-experts (MoE) model.</p><p>The hardware supports advanced camera features such as 8K 60fps video and the Advanced Professional Video (APV) codec, alongside AI-driven audio tools like "voice bubble" noise isolation. Motorola announced the Motorola Signature 27 smartphone, which will be powered by the Extreme Gen 6 chipset and is slated for release later this year.</p><p><img src="https://www.notebookcheck.pl/fileadmin/Notebooks/News/_nc5/Snadpragon-8-Elite-Gen-6-early-kv.jpg" /></p><hr/><small>23 Sep 2026, 01:05 UTC | #22009</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Develops Screenless Health and Fitness Tracker</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-22/apple-is-developing-new-fitness-tracker-aimed-at-rivaling-whoop" rel="alternate" />
