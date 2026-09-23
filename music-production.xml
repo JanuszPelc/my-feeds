@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-22T19:43:00+00:00</updated>
+  <updated>2026-09-22T21:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Sidechain Compression: Definition and Applications</title>
+    <link href="https://musictech.com/glossary/sidechain-compression/" rel="alternate" />
+    <id>https://musictech.com/glossary/sidechain-compression/::v239</id>
+    <published>2026-09-22T21:55:00+00:00</published>
+    <updated>2026-09-22T21:55:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/sidechain-compression-hero-compvca@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/glossary/sidechain-compression/">musictech.com</a></small></p><hr/><p>Sidechain compression is a music production technique in which an external audio signal triggers a compressor to modulate the volume of a separate signal. This allows one sound, such as a kick drum, to dynamically control the level of another instrument, like a bassline, to prevent frequency masking or create rhythmic effects.</p><p>Developed by Douglas Shearer to create de-essing by increasing sensitivity to sibilant frequencies, the technique is now a standard tool in audio engineering. It is commonly used to reduce microphone bleed, manage reverb tails, and produce the rhythmic "pumping" effect characteristic of French House music.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/sidechain-compression-hero-compvca@2000x1500.jpg" /></p><hr/><small>23 Sep 2026, 03:04 UTC | #22018</small>]]></content>
+  </entry>
   <entry>
     <title>23DSP Releases Time Terrarium Delay Plugin</title>
     <link href="https://www.kvraudio.com/news/23dsp-releases-time-terrarium-68686?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68686" rel="alternate" />
@@ -581,32 +590,5 @@
     <updated>2026-09-18T08:19:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/sdl5.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/sound-magic-releases-supreme-drums-london---hybrid-modelling-drum-kits-for-british-rock-and-pop-68613?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68613">kvraudio.com</a> | <a href="https://neovst.com/product/supreme-drums-london/">source</a></small></p><hr/><p>Sound Magic has released Supreme Drums London, a hybrid modeling drum kit collection designed for British rock and pop. The library includes 15 complete kits and more than 96 individual drums and cymbals, distilled from a 326 GB original sample set into a 2.2 GB collection.</p><p>The kits were recorded in various UK studios to capture the specific character of classic rock. The software is compatible with macOS and Windows and supports VST3 and AU formats.</p><p><img src="https://static.kvraudio.com/i/b/sdl5.jpg" /></p><hr/><small>18 Sep 2026, 12:07 UTC | #21550</small>]]></content>
-  </entry>
-  <entry>
-    <title>ROLLA Audio Releases ROLLA Jungle and Drum-and-Bass ROMpler</title>
-    <link href="https://www.kvraudio.com/news/rolla-audio-releases-rolla---jungle-drum-and-bass-rompler-early-access-vst3-and-au-68621?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68621" rel="alternate" />
-    <id>https://www.kvraudio.com/news/rolla-audio-releases-rolla---jungle-drum-and-bass-rompler-early-access-vst3-and-au-68621?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68621::v239</id>
-    <published>2026-09-18T02:58:00+00:00</published>
-    <updated>2026-09-18T02:58:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/rolla-0-1-1-optics-roller.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/rolla-audio-releases-rolla---jungle-drum-and-bass-rompler-early-access-vst3-and-au-68621?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68621">kvraudio.com</a> | <a href="https://rollaaudio.com/">source</a></small></p><hr/><p>ROLLA is a ROMpler instrument specifically designed for jungle and drum-and-bass production. Available in VST3 and AU formats, the plugin features a built-in "Roller" function that generates editable, step-sequenced rolling basslines that can be exported as MIDI.</p><p>Available in early access for $79, the software includes 246 factory presets, including Reese basses, neuro, dub stabs, and chopped breaks. It supports macOS 15 (Apple silicon) and Windows 11, though it is not yet verified for FL Studio and does not support Intel-based Macs.</p><p><img src="https://static.kvraudio.com/i/b/rolla-0-1-1-optics-roller.png" /></p><hr/><small>18 Sep 2026, 09:53 UTC | #21551</small>]]></content>
-  </entry>
-  <entry>
-    <title>Biswas Audio Releases AMS Mastering Console</title>
-    <link href="https://www.kvraudio.com/news/biswas-audio-releases-ams-mastering-console-standalone-and-plugin-68628?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68628" rel="alternate" />
-    <id>https://www.kvraudio.com/news/biswas-audio-releases-ams-mastering-console-standalone-and-plugin-68628?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68628::v239</id>
-    <published>2026-09-18T02:56:00+00:00</published>
-    <updated>2026-09-18T02:56:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/fuseone1.1789684343.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/biswas-audio-releases-ams-mastering-console-standalone-and-plugin-68628?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68628">kvraudio.com</a> | <a href="https://www.biswasaudio.com/">source</a></small></p><hr/><p>AMS Mastering Console is a mastering environment released by Biswas Audio in both standalone and plugin versions. The standalone version uses the AMS Connector plugin to route audio from a DAW into a dedicated application, while the plugin version allows for direct processing on the master bus within a DAW.</p><p>The suite features a processing rack with modules including a 7-band EQ, bus compressor, tape saturator, and a FuseOne integrated processor, alongside an analysis tool for monitoring loudness, dynamics, and stereo behavior. The plugin is available for macOS and Windows for $19, and the standalone macOS version is priced at $1.</p><p><img src="https://static.kvraudio.com/i/b/fuseone1.1789684343.jpg" /></p><hr/><small>18 Sep 2026, 09:36 UTC | #21548</small>]]></content>
-  </entry>
-  <entry>
-    <title>Crocus Soundware Releases Liminal micro: Bamboo Winds for Kontakt</title>
-    <link href="https://www.kvraudio.com/news/crocus-soundware-releases-liminal-micro-bamboo-winds-for-kontakt-68623?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68623" rel="alternate" />
-    <id>https://www.kvraudio.com/news/crocus-soundware-releases-liminal-micro-bamboo-winds-for-kontakt-68623?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68623::v239</id>
-    <published>2026-09-18T02:52:00+00:00</published>
-    <updated>2026-09-18T02:52:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/topimage_product_bamboowinds.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/crocus-soundware-releases-liminal-micro-bamboo-winds-for-kontakt-68623?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68623">kvraudio.com</a> | <a href="https://crocussoundware.com/Product_BambooWinds.html">source</a></small></p><hr/><p>This Kontakt sample library features transverse bamboo flute recordings with aleatoric, evolving articulations. The collection includes solo and ensemble performances across 832 samples, allowing for layering and blending through a color-coded interface.</p><p>The library requires the full version of Kontakt 6.7 or higher and consists of 1.65 GB of uncompressed data. It is available at an introductory price of $15 through October 17, 2026.</p><p><img src="https://static.kvraudio.com/i/b/topimage_product_bamboowinds.png" /></p><hr/><small>18 Sep 2026, 09:13 UTC | #21543</small>]]></content>
   </entry>
 </feed>
