@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T21:11:00+00:00</updated>
+  <updated>2026-09-22T21:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ShinyHunters Claims Breach of FBI Systems and Theft of Employee Data</title>
+    <link href="https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/" rel="alternate" />
+    <id>https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/::v239</id>
+    <published>2026-09-22T21:13:00+00:00</published>
+    <updated>2026-09-22T21:13:00+00:00</updated>
+    <media:thumbnail url="https://denizhalil.com/wp-content/uploads/2026/06/Oracle-PeopleSoft-Zero-Day-Vulnerability-Exploitation-CVE-2026-35273.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=49805278">hacker news</a></small></p><hr/><p>The hacking group ShinyHunters claims to have breached FBI systems through a zero-day exploit in Oracle PeopleSoft, allegedly stealing between two and three terabytes of data. The group asserts the theft includes personally identifiable information (PII) and protected health information (PHI) for all current, former, and prospective FBI employees and applicants, including names, home addresses, and phone numbers.</p><p>The intrusion reportedly targeted AWS GovCloud servers, and the group defaced the FBI jobs website as part of the operation. While ShinyHunters stated the motivation is "coercion" rather than financial extortion, the potential exposure of sensitive agent and spouse data presents significant national security and physical safety risks.</p><p><img src="https://denizhalil.com/wp-content/uploads/2026/06/Oracle-PeopleSoft-Zero-Day-Vulnerability-Exploitation-CVE-2026-35273.png" /></p><hr/><small>23 Sep 2026, 02:31 UTC | #22003</small>]]></content>
+  </entry>
   <entry>
     <title>Plain-Text Files Face Growing Obsolescence Risks</title>
     <link href="https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49" rel="alternate" />
