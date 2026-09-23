@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-23T18:13:00+00:00</updated>
+  <updated>2026-09-23T18:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Implementing the First Futamura Projection via Partial Evaluation</title>
+    <link href="https://blog.veitheller.de/A_First_Futamura_Projection.html" rel="alternate" />
+    <id>https://blog.veitheller.de/A_First_Futamura_Projection.html::v239</id>
+    <published>2026-09-23T18:24:00+00:00</published>
+    <updated>2026-09-23T18:24:00+00:00</updated>
+    <media:thumbnail url="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3708560/3508873766b608ccce19252e8c7deda48be58bfd/ss_3508873766b608ccce19252e8c7deda48be58bfd.1920x1080.jpg?t=1752566163" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.veitheller.de/A_First_Futamura_Projection.html">blog.veitheller.de</a> | <a href="https://lobste.rs/s/uahccr/first_futamura_projection">discussion</a></small></p><hr/><p>The first Futamura projection is demonstrated by converting a Brainfuck-to-Carp compiler into an interpreter and using a partial evaluator to specialize it into a new program. The implementation utilizes the Carp programming language to distinguish between static code components known at compile time and dynamic components determined at runtime.</p><p>This process results in a residual program consisting of the remaining runtime operations after all statically knowable logic has been evaluated. The method provides a mechanism for transforming general-purpose interpreters into efficient specialized compilers without requiring manual instruction translation.</p><p><img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3708560/3508873766b608ccce19252e8c7deda48be58bfd/ss_3508873766b608ccce19252e8c7deda48be58bfd.1920x1080.jpg?t=1752566163" /></p><hr/><small>23 Sep 2026, 22:30 UTC | #22138</small>]]></content>
+  </entry>
   <entry>
     <title>Rust's Miri Tooling May Leak Secrets via GitHub Actions Caches</title>
     <link href="https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/" rel="alternate" />
@@ -883,14 +892,5 @@
     <updated>2026-09-19T01:44:00+00:00</updated>
     <media:thumbnail url="https://cdn.seattlebubbles.com/2025/12/IMG_7161_preview-1.jpeg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://minimalcompany.com/">minimalcompany.com</a> | <a href="https://minimalcompany.com/products/minimal-phone-2">source</a> | <a href="https://news.ycombinator.com/item?id=49749369">hacker news</a></small></p><hr/><p>Minimal Company has announced the Minimal Phone 2, a compact smartphone featuring a physical, backlit QWERTY keyboard and an aluminum unibody. The device runs a full version of Android, offering out-of-the-box compatibility with Google Play Services, while also providing an official de-Googled ROM for privacy-conscious users.</p><p>The device is scheduled to ship in December 2026 with prices starting at $599. Notable hardware specifications include a 50 MP rear camera, a programmable hardware switch, a 3.5 mm headphone jack, and an LED notification indicator.</p><p><img src="https://cdn.seattlebubbles.com/2025/12/IMG_7161_preview-1.jpeg" /></p><hr/><small>19 Sep 2026, 09:19 UTC | #21659</small>]]></content>
-  </entry>
-  <entry>
-    <title>Cloudflare Reclaims 100TB of RAM via Mathematical and Rust Optimizations</title>
-    <link href="https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/" rel="alternate" />
-    <id>https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/::v239</id>
-    <published>2026-09-18T22:17:00+00:00</published>
-    <updated>2026-09-18T22:17:00+00:00</updated>
-    <media:thumbnail url="https://cdn.image.st-hatena.com/image/scale/52876a66792aa6990f3de45b5fb19da828ac4a8d/backend=imagemagick;version=1;width=1300/https://cdn-ak.f.st-hatena.com/images/fotolife/k/kiririmode/20251228/20251228171435_original.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/">blog.cloudflare.com</a> | <a href="https://news.ycombinator.com/item?id=49758580">hacker news</a></small></p><hr/><p>By optimizing the memory footprint of its Pingora-based backend router, Cloudflare has reclaimed over 100TB of RAM across its global network. The optimization targeted the Ketama consistent hashing implementation, which was consuming excessive memory to manage the large number of virtual nodes required for balanced workload distribution.</p><p>These efficiency gains were achieved through mathematical refinements to hash distribution and low-level Rust programming. By using raw byte arrays instead of standard structs, engineers were able to bypass memory alignment constraints, significantly reducing the size of the data structures used for the system's hash rings.</p><p><img src="https://cdn.image.st-hatena.com/image/scale/52876a66792aa6990f3de45b5fb19da828ac4a8d/backend=imagemagick;version=1;width=1300/https://cdn-ak.f.st-hatena.com/images/fotolife/k/kiririmode/20251228/20251228171435_original.png" /></p><hr/><small>19 Sep 2026, 04:13 UTC | #21655</small>]]></content>
   </entry>
 </feed>
