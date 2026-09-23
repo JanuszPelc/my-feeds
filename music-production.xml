@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-22T21:55:00+00:00</updated>
+  <updated>2026-09-22T23:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Best Digital Audio Workstations for Various Music Production Workflows</title>
+    <link href="https://musictech.com/guides/buyers-guide/best-daw-music-producers-in-all-genres-styles-workflows/" rel="alternate" />
+    <id>https://musictech.com/guides/buyers-guide/best-daw-music-producers-in-all-genres-styles-workflows/::v239</id>
+    <published>2026-09-22T23:01:00+00:00</published>
+    <updated>2026-09-22T23:01:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2024/06/Audio-engineer-working-on-music-crdeit-gorodenkoff-Getty@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/guides/buyers-guide/best-daw-music-producers-in-all-genres-styles-workflows/">musictech.com</a></small></p><hr/><p>Leading Digital Audio Workstations (DAWs) are categorized by specific musical applications, such as beatmaking, sound design, and cinematic scoring. Ableton Live 12 is identified as the premier all-around choice due to its versatility in both studio and live performance environments.</p><p>Other specialized options include BandLab for mobile production, Tracktion Waveform for free-tier functionality, and FL Studio for sampling-intensive workflows. The selection also features AI-integrated software like RipX DAW and modular design tools like Reason 14.</p><p><img src="https://musictech.com/wp-content/uploads/2024/06/Audio-engineer-working-on-music-crdeit-gorodenkoff-Getty@2000x1500.jpg" /></p><hr/><small>23 Sep 2026, 04:08 UTC | #22034</small>]]></content>
+  </entry>
   <entry>
     <title>Sidechain Compression: Definition and Applications</title>
     <link href="https://musictech.com/glossary/sidechain-compression/" rel="alternate" />
