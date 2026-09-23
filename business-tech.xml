@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-22T21:59:00+00:00</updated>
+  <updated>2026-09-22T22:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>TikTok USDS Joins Lantern Child Safety Initiative</title>
+    <link href="https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/::v239</id>
+    <published>2026-09-22T22:02:00+00:00</published>
+    <updated>2026-09-22T22:02:00+00:00</updated>
+    <media:thumbnail url="https://c8.alamy.com/comp/3DC2TB4/december-19-2025-canada-in-this-photo-illustration-the-tiktok-usds-us-data-security-logo-seen-displayed-on-a-smartphone-screen-and-the-bytedance-logo-in-the-background-credit-image-thomas-fullersopa-images-via-zuma-press-wire-editorial-usage-only!-not-for-commercial-usage!-3DC2TB4.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/">techcrunch.com</a> | <a href="https://newsroom.tiktok.com/announcement-from-the-new-tiktok-usds-joint-venture-llc?lang=en">source</a></small></p><hr/><p>TikTok USDS Joint Venture has joined Lantern, a cross-platform child safety initiative led by the Tech Coalition. The program enables participating companies—including Google, Meta, and Microsoft—to share signals of harmful behavior, allowing for the identification of bad actors as they move between different digital platforms.</p><p>The company is also committing $2 million to the National Center for Missing and Exploited Children (NCMEC) to modernize its CyberTipline. This investment supports a $10 million, three-year project to deploy advanced automation and analysis tools designed to accelerate the detection and reporting of child sexual abuse material to law enforcement.</p><p><img src="https://c8.alamy.com/comp/3DC2TB4/december-19-2025-canada-in-this-photo-illustration-the-tiktok-usds-us-data-security-logo-seen-displayed-on-a-smartphone-screen-and-the-bytedance-logo-in-the-background-credit-image-thomas-fullersopa-images-via-zuma-press-wire-editorial-usage-only!-not-for-commercial-usage!-3DC2TB4.jpg" /></p><hr/><small>23 Sep 2026, 03:53 UTC | #22012</small>]]></content>
+  </entry>
   <entry>
     <title>San Francisco Sues Trump Media &amp; Technology Over Truth Social API</title>
     <link href="https://www.nytimes.com/2026/09/22/us/san-francisco-lawsuit-truth-social-early-access.html?unlocked_article_code=1.DFE.wYXn.7BsJ9OpzKGtS&amp;smid=nytcore-android-share" rel="alternate" />
