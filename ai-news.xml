@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-23T18:22:00+00:00</updated>
+  <updated>2026-09-23T19:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google Launches Gemini 3.8 Flash and Flash-Lite TTS Models</title>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/" rel="alternate" />
+    <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/::v239</id>
+    <published>2026-09-23T19:57:00+00:00</published>
+    <updated>2026-09-23T19:57:00+00:00</updated>
+    <media:thumbnail url="https://indianews.in/wp-content/uploads/2025/12/google-gemini-3-flash.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=49817615">hacker news</a></small></p><hr/><p>Google has released Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, new expressive audio generation models. The Flash TTS model allows for custom character voice creation through natural language prompts and granular, line-by-line performance direction. The Flash-Lite TTS model is designed for high-volume, cost-efficient applications, such as dubbing and conversational voice agents.</p><p>The models support over 100 languages and feature capabilities like voice replication from 30-second samples, multi-speaker scene staging, and conversational interjections. To ensure transparency and security, Google is implementing SynthID watermarking and requiring consent verification for all voice replication.</p><p><img src="https://indianews.in/wp-content/uploads/2025/12/google-gemini-3-flash.jpg" /></p><hr/><small>23 Sep 2026, 23:07 UTC | #22110</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Adds Voice-Based Agentic Features to ChatGPT Mobile App</title>
     <link href="https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/" rel="alternate" />
