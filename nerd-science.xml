@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-22T12:12:00+00:00</updated>
+  <updated>2026-09-23T05:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Emily M. Bender and Nanna Inie Propose Alternatives to Anthropomorphizing AI Language</title>
+    <link href="https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/" rel="alternate" />
+    <id>https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/::v239</id>
+    <published>2026-09-23T05:13:00+00:00</published>
+    <updated>2026-09-23T05:13:00+00:00</updated>
+    <media:thumbnail url="https://cdn.createvision.ai/templates/community/community-anthropomorphizing-llms-10841.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/">buttondown.com</a> | <a href="https://lobste.rs/s/oqipmz/how_talk_about_ai_without_adding">discussion</a></small></p><hr/><p>Emily M. Bender and Nanna Inie propose replacing anthropomorphic AI terminology with functional, technical descriptions to clarify machine capabilities. They categorize problematic language related to cognition, emotion, and agency, offering substitutes such as "probabilistic automation" for "artificial intelligence" and "undesirable output" for "hallucination."</p><p>This approach seeks to reassert human agency and prevent metaphors from obscuring how automated systems actually function. By shifting away from language that implies software has emotions or cognitive states, the authors aim to facilitate more accurate technical and social debates.</p><p><img src="https://cdn.createvision.ai/templates/community/community-anthropomorphizing-llms-10841.jpg" /></p><hr/><small>23 Sep 2026, 12:05 UTC | #22069</small>]]></content>
+  </entry>
   <entry>
     <title>AI Usage Impacts Software Maintainability and Developer Mastery</title>
     <link href="https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/" rel="alternate" />
