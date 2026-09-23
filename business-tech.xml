@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-23T16:13:00+00:00</updated>
+  <updated>2026-09-23T16:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Increases Sponsored Instagram Posts for ChatGPT</title>
+    <link href="https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9" rel="alternate" />
+    <id>https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9::v239</id>
+    <published>2026-09-23T16:15:00+00:00</published>
+    <updated>2026-09-23T16:15:00+00:00</updated>
+    <media:thumbnail url="https://images.ctfassets.net/kftzwdyauwt9/73QmMtFD4PrKmQkzxO5ErF/2c226c43ba3658e8dab69b1299aa0ebf/OAI_Ad_Blog_Inline-AdMock2_16x9__1_.png?w=3840&amp;q=90&amp;fm=webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9">businessinsider.com</a> | <a href="https://news.ycombinator.com/item?id=49815127">hacker news</a></small></p><hr/><p>OpenAI has significantly scaled its influencer marketing on Instagram to drive user acquisition for ChatGPT. According to data from HypeAuditor, sponsored posts grew from 61 in June to 122 in July, and reached 141 by August.</p><p>This expansion in creator-based advertising coincides with heightened scrutiny regarding AI safety and security. The push for new users via social media reflects a broader trend of major AI labs using influencer partnerships to reach mainstream audiences and manage brand reputation.</p><p><img src="https://images.ctfassets.net/kftzwdyauwt9/73QmMtFD4PrKmQkzxO5ErF/2c226c43ba3658e8dab69b1299aa0ebf/OAI_Ad_Blog_Inline-AdMock2_16x9__1_.png?w=3840&q=90&fm=webp" /></p><hr/><small>23 Sep 2026, 20:15 UTC | #22078</small>]]></content>
+  </entry>
   <entry>
     <title>TechCrunch Disrupt 2026 Ticket Savings Expiring September 25</title>
     <link href="https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/" rel="alternate" />
