@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T20:01:00+00:00</updated>
+  <updated>2026-09-22T21:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>No Sloptober Challenge Prompts Abstention from LLM-Based Tools</title>
+    <link href="https://no-sloptober.com/" rel="alternate" />
+    <id>https://no-sloptober.com/::v239</id>
+    <published>2026-09-22T21:07:00+00:00</published>
+    <updated>2026-09-22T21:07:00+00:00</updated>
+    <media:thumbnail url="https://no-sloptober.com/images/no-sloptober-final-transparent.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://no-sloptober.com/">no-sloptober.com</a> | <a href="https://lobste.rs/s/hburvt/no_sloptober">discussion</a> | <a href="https://news.ycombinator.com/item?id=49808096">hacker news</a></small></p><hr/><p>This challenge encourages individuals to abstain from using large language model (LLM) tools throughout the month of October. Framed as a "mental fast," the initiative aims to help developers preserve manual technical skills, avoid the "meat proxy" phenomenon of merely relaying AI-generated content, and cultivate a more nuanced understanding of automated tools.</p><p>Participants are encouraged to replace AI assistance with activities such as learning new programming languages, practicing code katas, or building independent projects to maintain a sense of flow and craft. The movement emphasizes that maintaining the cognitive friction inherent in manual problem-solving is essential for effective learning and helps mitigate risks like code bloat and security vulnerabilities.</p><p><img src="https://no-sloptober.com/images/no-sloptober-final-transparent.png" /></p><hr/><small>23 Sep 2026, 01:38 UTC | #22029</small>]]></content>
+  </entry>
   <entry>
     <title>Qualcomm Unveils Snapdragon 8 Elite Gen 6 Smartphone Chips</title>
     <link href="https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/" rel="alternate" />
