@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-23T15:26:00+00:00</updated>
+  <updated>2026-09-23T16:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>KDE Community Calls for Ban on Generative AI in Plasma</title>
+    <link href="https://kdeforpeople.com" rel="alternate" />
+    <id>https://kdeforpeople.com::v239</id>
+    <published>2026-09-23T16:09:00+00:00</published>
+    <updated>2026-09-23T16:09:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQHUhkzJoiLsVg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1700511727766?e=2147483647&amp;v=beta&amp;t=J4PrJBmqjjdMumM31QekbaYZXQwHK9pzoTncvLb38MI" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kdeforpeople.com">kdeforpeople.com</a> | <a href="https://lobste.rs/s/b39503/kde_for_people">discussion</a></small></p><hr/><p>A community of KDE users and contributors is urging the KDE Project to implement a ban on generative AI within the Plasma Desktop and its components. The group argues that the technology undermines code review, compromises user privacy, and introduces human rights concerns that current proposals fail to adequately address.</p><p>The proposed restrictions would cover AI-generated outputs in code, assets, merge request descriptions, issues, and translations. Supporters state the ban is necessary to maintain developer trust and to align the project's development practices with the ethical goals of KDE Eco.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQHUhkzJoiLsVg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1700511727766?e=2147483647&v=beta&t=J4PrJBmqjjdMumM31QekbaYZXQwHK9pzoTncvLb38MI" /></p><hr/><small>23 Sep 2026, 19:27 UTC | #22118</small>]]></content>
+  </entry>
+  <entry>
+    <title>Digital Signatures Proposed for Mesh Networks as Alternative to Encryption</title>
+    <link href="https://andanti.no/blog/SignedMesh.html" rel="alternate" />
+    <id>https://andanti.no/blog/SignedMesh.html::v239</id>
+    <published>2026-09-23T15:33:00+00:00</published>
+    <updated>2026-09-23T15:33:00+00:00</updated>
+    <media:thumbnail url="https://www.intechopen.com/media/chapter/66938/media/F3.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://andanti.no/blog/SignedMesh.html">andanti.no</a> | <a href="https://lobste.rs/s/r3ydgj/i_want_my_mesh_networks_be_signed_not">discussion</a></small></p><hr/><p>Mesh network protocols could use digital signatures for sender authentication while maintaining cleartext message transmissions. This approach aims to facilitate use within amateur radio bands, where total encryption is often prohibited but verifying the identity of transmitters is necessary for regulatory compliance and network management.</p><p>The design offers benefits like increased network transparency and easier filtering of unauthorized users, but faces challenges including higher bandwidth overhead for signatures, potential loss of privacy, and the need for a Public Key Infrastructure (PKI) to manage authentication.</p><p><img src="https://www.intechopen.com/media/chapter/66938/media/F3.png" /></p><hr/><small>23 Sep 2026, 19:24 UTC | #22124</small>]]></content>
+  </entry>
   <entry>
     <title>Loris Cro Outlines the Zig Programming Language Journey</title>
     <link href="https://kristoff.it/blog/the-zig-journey/" rel="alternate" />
