@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-22T19:33:00+00:00</updated>
+  <updated>2026-09-22T19:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Develops Screenless Health and Fitness Tracker</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-22/apple-is-developing-new-fitness-tracker-aimed-at-rivaling-whoop" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-22/apple-is-developing-new-fitness-tracker-aimed-at-rivaling-whoop::v239</id>
+    <published>2026-09-22T19:41:00+00:00</published>
+    <updated>2026-09-22T19:41:00+00:00</updated>
+    <media:thumbnail url="https://cdn.shopify.com/s/files/1/0869/7154/7913/files/WHOOP_16.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-22/apple-is-developing-new-fitness-tracker-aimed-at-rivaling-whoop">bloomberg.com</a></small></p><hr/><p>Prototypes are currently in development for a screenless wearable designed to compete with Whoop Inc.’s wrist-worn devices. This initiative is part of a larger effort to expand the company's wearable technology and rethink its smartwatch lineup.</p><p>Top executives support the initiative, but a final decision regarding a commercial release has not been made. The development follows growing market interest in screen-free, data-focused fitness bands.</p><p><img src="https://cdn.shopify.com/s/files/1/0869/7154/7913/files/WHOOP_16.jpg" /></p><hr/><small>22 Sep 2026, 23:59 UTC | #21986</small>]]></content>
+  </entry>
   <entry>
     <title>Raspberry Pi Firmware Restricts Pi 5 RAM Upgrades</title>
     <link href="https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/" rel="alternate" />
