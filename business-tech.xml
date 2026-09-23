@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>San Francisco Sues Trump Media &amp; Technology Over Truth Social API</title>
+    <link href="https://www.nytimes.com/2026/09/22/us/san-francisco-lawsuit-truth-social-early-access.html?unlocked_article_code=1.DFE.wYXn.7BsJ9OpzKGtS&amp;smid=nytcore-android-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/22/us/san-francisco-lawsuit-truth-social-early-access.html?unlocked_article_code=1.DFE.wYXn.7BsJ9OpzKGtS&amp;smid=nytcore-android-share::v239</id>
+    <published>2026-09-22T21:59:00+00:00</published>
+    <updated>2026-09-22T21:59:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/_E6Ee90vzvY/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/22/us/san-francisco-lawsuit-truth-social-early-access.html?unlocked_article_code=1.DFE.wYXn.7BsJ9OpzKGtS&smid=nytcore-android-share">nytimes.com</a> | <a href="https://www.sf.gov/news-sf-city-attorney-sues-truth-social-for-enabling-insider-trading-by-selling-early-access-to-trump-posts">source</a></small></p><hr/><p>San Francisco has filed a lawsuit against Trump Media &amp; Technology Group, alleging that its Truth API service facilitates insider trading and violates California's Unfair Competition Law. The City Attorney's office claims the service, which can cost up to $100,000 per month, grants wealthy subscribers early access to Donald Trump's posts, potentially allowing them to manipulate markets before information is public.</p><p>The litigation seeks to block the sale of priority access to posts from high-level officials, which officials argue creates an unfair advantage for Wall Street traders. The lawsuit further contends that such early access could violate federal ethics laws by monetizing nonpublic information.</p><p><img src="https://i.ytimg.com/vi/_E6Ee90vzvY/maxresdefault.jpg" /></p><hr/><small>23 Sep 2026, 03:38 UTC | #22011</small>]]></content>
+  </entry>
+  <entry>
     <title>Donald Trump Rejects Global AI Regulation in UN Speech</title>
     <link href="https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db" rel="alternate" />
     <id>https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db::v239</id>
