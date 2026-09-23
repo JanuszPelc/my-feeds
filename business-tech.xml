@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-23T18:19:00+00:00</updated>
+  <updated>2026-09-23T19:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>DoorDash's Campaign Spending Against Zohran Mamdani Precedes $131.5 Million Settlement</title>
+    <link href="https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/" rel="alternate" />
+    <id>https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/::v239</id>
+    <published>2026-09-23T19:56:00+00:00</published>
+    <updated>2026-09-23T19:56:00+00:00</updated>
+    <media:thumbnail url="https://static.deltiasgaming.com/2026/09/NYC-Mayor-Mamdani-Announces-DoorDash-Will-Pay-131.5-Million-in-Fines-in-Settlement.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/">theintercept.com</a> | <a href="https://news.ycombinator.com/item?id=49821608">hacker news</a></small></p><hr/><p>DoorDash spent approximately $1.4 million during the 2025 mayoral election cycle to oppose Zohran Mamdani, who later oversaw a historic $131.5 million settlement with the company. The settlement, resulting from an investigation by the NYC Department of Consumer and Worker Protection, aims to provide restitution to 264,000 underpaid delivery workers.</p><p>DoorDash's political contributions primarily supported super PACs such as Fix the City and Local Economies Forward NY to fund campaigns against Mamdani and in favor of Andrew Cuomo. The final settlement agreement includes $115 million for worker restitution and $16 million in civil penalties and fines.</p><p><img src="https://static.deltiasgaming.com/2026/09/NYC-Mayor-Mamdani-Announces-DoorDash-Will-Pay-131.5-Million-in-Fines-in-Settlement.jpg" /></p><hr/><small>23 Sep 2026, 22:49 UTC | #22139</small>]]></content>
+  </entry>
+  <entry>
+    <title>Jensen Huang Discusses AI's Economic and Industry Outlook</title>
+    <link href="https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&amp;smid=url-share::v239</id>
+    <published>2026-09-23T18:25:00+00:00</published>
+    <updated>2026-09-23T18:25:00+00:00</updated>
+    <media:thumbnail url="https://singjupost.com/wp-content/uploads/2026/02/Jensen-Huangs-Interview-@-Cisco-AI-Summit-2026-.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&smid=url-share">nytimes.com</a></small></p><hr/><p>Nvidia CEO Jensen Huang argues that artificial intelligence will create more jobs than it eliminates, countering doomsday predictions of mass unemployment. He contends that AI will increase productivity and expand professional roles, particularly within software engineering, rather than simply replacing human labor.</p><p>The conversation also addresses the strategic implications of Chinese open-source models, the Hugging Face acquisition, and the ongoing debate regarding AI safety and regulation. Huang's perspective highlights how hardware leaders are navigating the economic and geopolitical shifts driven by the expansion of AI infrastructure.</p><p><img src="https://singjupost.com/wp-content/uploads/2026/02/Jensen-Huangs-Interview-@-Cisco-AI-Summit-2026-.jpg" /></p><hr/><small>23 Sep 2026, 22:45 UTC | #22107</small>]]></content>
+  </entry>
   <entry>
     <title>Seattle City Council Passes Bill to Ban Surveillance Grocery Pricing</title>
     <link href="https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/" rel="alternate" />
