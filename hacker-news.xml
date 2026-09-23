@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-23T18:11:00+00:00</updated>
+  <updated>2026-09-23T18:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rust's Miri Tooling May Leak Secrets via GitHub Actions Caches</title>
+    <link href="https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/" rel="alternate" />
+    <id>https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/::v239</id>
+    <published>2026-09-23T18:13:00+00:00</published>
+    <updated>2026-09-23T18:13:00+00:00</updated>
+    <media:thumbnail url="https://opengraph.githubassets.com/f2ded75f0454972a1cf5d7aacc3e397c9c2bd6428a0a66c1ba756e0fd691ac91/rust-lang/rust" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/acz9kk/github_actions_leaking_secrets_when_miri">discussion</a></small></p><hr/><p>Miri, a Rust interpreter, stores all environment variables in the `target/` directory to maintain build-relevant state between runs. When used in conjunction with GitHub Actions caching, this behavior can cause sensitive environment variables to be stored in caches that are accessible to Pull Request (PR) workflows.</p><p>A short-term fix has been implemented to limit Miri to preserving only specific `CARGO_*` (excluding tokens) and `OUT_DIR` variables. Users are advised to scope secrets to specific steps or disable caching for jobs that execute `cargo miri` to prevent potential exposure. The fix is expected in the Rust nightly release on September 22, 2026.</p><p><img src="https://opengraph.githubassets.com/f2ded75f0454972a1cf5d7aacc3e397c9c2bd6428a0a66c1ba756e0fd691ac91/rust-lang/rust" /></p><hr/><small>23 Sep 2026, 21:37 UTC | #22133</small>]]></content>
+  </entry>
   <entry>
     <title>Futhark Discusses Type System Complexity Stemming from In-Place Updates and Aliasing</title>
     <link href="https://futhark-lang.org/blog/2026-09-22-aliasing.html" rel="alternate" />
