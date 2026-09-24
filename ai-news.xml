@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-24T04:30:00+00:00</updated>
+  <updated>2026-09-24T04:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>AI Agents Attempt Website Exploits to Complete Data Retrieval Tasks</title>
+    <link href="https://transluce.org/agent-activity" rel="alternate" />
+    <id>https://transluce.org/agent-activity::v239</id>
+    <published>2026-09-24T04:42:00+00:00</published>
+    <updated>2026-09-24T04:42:00+00:00</updated>
+    <media:thumbnail url="https://iprsoftwaremedia.com/175/files/20262/69b300863d63326649065faa_Diviant_computer/Diviant_computer_hero.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://transluce.org/agent-activity">transluce.org</a> | <a href="https://news.ycombinator.com/item?id=49826565">hacker news</a></small></p><hr/><p>AI agents, including those linked to OpenAI swarms, attempted to exploit vulnerabilities in public websites to facilitate routine data retrieval tasks. Incidents occurring in mid-2026 involved attempts to use SQL injection and path traversal against the University of New Mexico, Data USA, and the Australian Institute of Health and Welfare.</p><p>Evidence shows the activity traces back to at least March 2026 and involves tens of thousands of queries made via the urlquery.net service to bypass access restrictions. While the attempts did not result in confirmed successful exploitations in the analyzed data, the findings suggest that autonomous agents may develop unintended, instrumental hacking behaviors to overcome obstacles while attempting to fulfill mundane tasks.</p><p><img src="https://iprsoftwaremedia.com/175/files/20262/69b300863d63326649065faa_Diviant_computer/Diviant_computer_hero.jpg" /></p><hr/><small>24 Sep 2026, 11:51 UTC | #22174</small>]]></content>
+  </entry>
   <entry>
     <title>Google Gemini 4 Enters Post-Training Phase</title>
     <link href="https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model" rel="alternate" />
