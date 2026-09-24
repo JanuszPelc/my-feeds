@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-24T08:05:00+00:00</updated>
+  <updated>2026-09-24T15:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Ando Raises $20M to Launch Agent-Native Messaging Platform</title>
+    <link href="https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/::v239</id>
+    <published>2026-09-24T15:53:00+00:00</published>
+    <updated>2026-09-24T15:53:00+00:00</updated>
+    <media:thumbnail url="https://blogs.getsetlive.com/wp-content/uploads/2026/03/oc-multi-channel.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/">techcrunch.com</a> | <a href="https://markets.businessinsider.com/news/stocks/ando-launches-agent-native-messaging-platform-announces-20-million-seed-1036570921">source</a></small></p><hr/><p>Ando has launched a team messaging platform designed for seamless collaboration between humans and AI agents. The startup raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence to scale its development and operations.</p><p>Unlike traditional communication tools that treat AI as external plug-ins, Ando provides agents with distinct identities, inboxes, and the ability to participate in channels, direct messages, and live calls. The platform aims to eliminate "meat proxies" by enabling agents to independently monitor conversations, coordinate work, and suggest decisions, involving humans only when judgment is required.</p><p><img src="https://blogs.getsetlive.com/wp-content/uploads/2026/03/oc-multi-channel.png" /></p><hr/><small>24 Sep 2026, 19:59 UTC | #22222</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Improves Claude.ai and Desktop App Performance</title>
     <link href="https://claude.dev/blog/how-we-made-claude-ai-faster/" rel="alternate" />
