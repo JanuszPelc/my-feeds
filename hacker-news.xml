@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-24T15:44:00+00:00</updated>
+  <updated>2026-09-24T17:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rust Emulates Named Arguments and Overloading Using Existing Language Features</title>
+    <link href="https://corrode.dev/blog/named-arguments-at-home/" rel="alternate" />
+    <id>https://corrode.dev/blog/named-arguments-at-home/::v239</id>
+    <published>2026-09-24T17:05:00+00:00</published>
+    <updated>2026-09-24T17:05:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*kp1si0uhtmwww0OzH11c5A.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://corrode.dev/blog/named-arguments-at-home/">corrode.dev</a> | <a href="https://lobste.rs/s/4cbau4/we_have_named_arguments_at_home">discussion</a></small></p><hr/><p>Matthias Endler argues that Rust does not require new syntax for features like named arguments, optional parameters, or function overloading. By utilizing existing constructs such as structs, enums, the Option type, and the Default trait, developers can achieve significant ergonomic improvements without introducing complex new calling conventions or runtime semantics.</p><p>The article provides practical patterns for common requirements, including using argument structs for clarity, the builder pattern for complex configurations, and traits like Into to provide multiple input types. These approaches allow for safer, more documented APIs while staying within the boundaries of the existing type system and syntax.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*kp1si0uhtmwww0OzH11c5A.png" /></p><hr/><small>24 Sep 2026, 20:31 UTC | #22260</small>]]></content>
+  </entry>
+  <entry>
+    <title>Samsung Firmware Update Causes Power Failures in Bespoke AI Refrigerators</title>
+    <link href="https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/" rel="alternate" />
+    <id>https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/::v239</id>
+    <published>2026-09-24T16:00:00+00:00</published>
+    <updated>2026-09-24T16:00:00+00:00</updated>
+    <media:thumbnail url="https://techedt.gumlet.io/wp-content/uploads/2026/05/Samsung-expands-AI-features-for-Bespoke-refrigerators-with-a-major-software-update.jpg?compress=true" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/">arstechnica.com</a> | <a href="https://news.ycombinator.com/item?id=49829960">hacker news</a></small></p><hr/><p>A faulty Samsung SmartThings firmware update has caused several Bespoke AI refrigerators to lose power and screen functionality. The error, which occurred during a software test on September 22, 2026, has primarily affected users in South Korea shortly before the Chuseok holiday.</p><p>The disruption has caused widespread food spoilage and raised concerns regarding the potential loss of temperature-sensitive items like medication. Samsung has halted the update rollout and is working on emergency repairs, with the company aiming to resolve the malfunctions by September 24.</p><p><img src="https://techedt.gumlet.io/wp-content/uploads/2026/05/Samsung-expands-AI-features-for-Bespoke-refrigerators-with-a-major-software-update.jpg?compress=true" /></p><hr/><small>24 Sep 2026, 20:25 UTC | #22266</small>]]></content>
+  </entry>
   <entry>
     <title>OrgWebAlchemy Library Parses Org-mode to HTML in Guile Scheme</title>
     <link href="https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html" rel="alternate" />
