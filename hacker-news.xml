@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-24T17:05:00+00:00</updated>
+  <updated>2026-09-24T20:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ansi2html XSS Vulnerability Enables SourceHut Account Takeover</title>
+    <link href="https://blog.arusekk.pl/posts/srht-account-takeover/" rel="alternate" />
+    <id>https://blog.arusekk.pl/posts/srht-account-takeover/::v239</id>
+    <published>2026-09-24T20:39:00+00:00</published>
+    <updated>2026-09-24T20:39:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/642adcaf364024654c71df23/69e17a65f6500490dc6ce8b4_b8a6520b.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.arusekk.pl/posts/srht-account-takeover/">blog.arusekk.pl</a> | <a href="https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build">discussion</a> | <a href="https://news.ycombinator.com/item?id=49835996">hacker news</a></small></p><hr/><p>An XSS vulnerability in the `ansi2html` library (CVE-2026-92973) allows attackers to execute arbitrary JavaScript by injecting malicious ANSI escape sequences into build logs. By using OSC 8 hyperlinks, an attacker can trigger a payload when a user views an affected build log, potentially leading to account takeover on SourceHut by capturing CSRF tokens or exploiting deploy keys.</p><p>The vulnerability affects `ansi2html` versions 1.7.0 through 1.9.3. The issue has been addressed in version 1.9.4, and SourceHut has implemented additional output sanitization on its `builds.sr.ht` service to mitigate the risk.</p><p><img src="https://cdn.prod.website-files.com/642adcaf364024654c71df23/69e17a65f6500490dc6ce8b4_b8a6520b.png" /></p><hr/><small>24 Sep 2026, 23:48 UTC | #22278</small>]]></content>
+  </entry>
   <entry>
     <title>Rust Emulates Named Arguments and Overloading Using Existing Language Features</title>
     <link href="https://corrode.dev/blog/named-arguments-at-home/" rel="alternate" />
