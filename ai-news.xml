@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-23T23:47:00+00:00</updated>
+  <updated>2026-09-24T01:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Meta Unveils New Capabilities for Muse AI Agent</title>
+    <link href="https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/::v239</id>
+    <published>2026-09-24T01:14:00+00:00</published>
+    <updated>2026-09-24T01:14:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/muse-figure.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/">techcrunch.com</a> | <a href="https://www.meta.com/blog/meta-connect-2026-everything-we-announced/">source</a></small></p><hr/><p>Meta has announced several new capabilities for its Muse personal AI agent during the Connect 2026 keynote. These updates include the Muse Realtime Avatar for video-based communication, integration with smart glasses for voice-commanded assistance, and expanded functionality to perform desktop tasks on macOS.</p><p>The agent will eventually receive its own email address to handle background workflows and will integrate with a wide range of retail and productivity services, such as Shopify, PayPal, and Notion. Meta is also facilitating a third-party developer ecosystem through the introduction of specialized "connectors."</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/muse-figure.png?w=680" /></p><hr/><small>24 Sep 2026, 06:25 UTC | #22157</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta Connect 2026 Keynote Highlights AI Agents and Smart Glasses</title>
+    <link href="https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/" rel="alternate" />
+    <id>https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/::v239</id>
+    <published>2026-09-24T00:48:00+00:00</published>
+    <updated>2026-09-24T00:48:00+00:00</updated>
+    <media:thumbnail url="https://bitcoinworld.co.in/wp-content/uploads/meta-connect-2025-ai-glasses.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/">engadget.com</a> | <a href="https://www.meta.com/connect/">source</a></small></p><hr/><p>Meta CEO Mark Zuckerberg showcased new AI agent capabilities and discussed the evolution of personal superintelligence during the Meta Connect 2026 keynote. The event featured updates on Meta's smart glasses, virtual reality hardware, and the "Muse" AI agent.</p><p>The presentations detailed Meta's strategy to integrate generative AI into wearable devices, including audio-only glasses and mixed-reality headsets. The company framed these advancements as tools for enhancing individual creativity and invention through personal AI.</p><p><img src="https://bitcoinworld.co.in/wp-content/uploads/meta-connect-2025-ai-glasses.jpg" /></p><hr/><small>24 Sep 2026, 06:21 UTC | #22142</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Connect 2026 Opening Keynote Livestream</title>
     <link href="https://www.youtube.com/watch?v=w9RyNj0ukWo" rel="alternate" />

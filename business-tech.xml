@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-23T22:23:00+00:00</updated>
+  <updated>2026-09-24T00:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Claims Apple's ChatGPT Integration Underperformed</title>
+    <link href="https://www.ft.com/content/256c4b36-a6c8-49ee-aa15-81cb089b2ced" rel="alternate" />
+    <id>https://www.ft.com/content/256c4b36-a6c8-49ee-aa15-81cb089b2ced::v239</id>
+    <published>2026-09-24T00:49:00+00:00</published>
+    <updated>2026-09-24T00:49:00+00:00</updated>
+    <media:thumbnail url="https://nation.ai/wp-content/uploads/2026/01/apple-and-openai-ai-partnership-strategies-and-decisions.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/256c4b36-a6c8-49ee-aa15-81cb089b2ced">ft.com</a></small></p><hr/><p>Court documents reveal that the ChatGPT integration within Apple Intelligence "dramatically underperformed" following its 2024 launch on iPhones. This performance failure has reportedly contributed to the unraveling of the partnership between OpenAI and Apple.</p><p>Following these integration challenges, Apple has moved toward incorporating Google-powered technology for Siri's AI capabilities. This shift represents a strategic pivot in Apple's approach to intelligence features across its device ecosystem.</p><p><img src="https://nation.ai/wp-content/uploads/2026/01/apple-and-openai-ai-partnership-strategies-and-decisions.jpg" /></p><hr/><small>24 Sep 2026, 06:23 UTC | #22146</small>]]></content>
+  </entry>
   <entry>
     <title>Sam Altman and Dario Amodei Call for Global AI Cooperation at UN Security Council</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-23/altman-amodei-call-for-global-cooperation-on-ai-to-boost-safety" rel="alternate" />
