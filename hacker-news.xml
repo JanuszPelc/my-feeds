@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-24T04:20:00+00:00</updated>
+  <updated>2026-09-24T04:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Qualcomm Announces Snapdragon Sound Elite Gen 2 for AI Audio Wearables</title>
+    <link href="https://9to5google.com/2026/09/23/qualcomm-announces-snapdragon-sound-elite-gen-2/" rel="alternate" />
+    <id>https://9to5google.com/2026/09/23/qualcomm-announces-snapdragon-sound-elite-gen-2/::v239</id>
+    <published>2026-09-24T04:31:00+00:00</published>
+    <updated>2026-09-24T04:31:00+00:00</updated>
+    <media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-2.jpg?quality=82&amp;strip=all&amp;w=1400" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5google.com/2026/09/23/qualcomm-announces-snapdragon-sound-elite-gen-2/">9to5google.com</a> | <a href="https://www.qualcomm.com/news/releases/2026/09/snapdragon-sound-elite-gen-2-advances-intelligent-audio-wearable">source</a></small></p><hr/><p>The Snapdragon Sound Elite Gen 2 is a new chipset designed specifically for "hearables," including earbuds, headphones, and audio glasses. The SoC offers up to twice the on-device AI performance with a 40% reduction in power consumption compared to previous iterations. It also integrates Wi-Fi 6E support, aptX and XPAN connectivity, and advanced active noise cancellation (ANC) based on Qualcomm’s fifth-generation protocol.</p><p>The platform is built to support increasingly sophisticated AI tasks, such as contextual image recognition for camera-equipped wearables. By enabling more powerful local and cloud-based AI, the chipset is intended to power multimodal devices and Android XR hardware that require seamless, low-latency AI interactions.</p><p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-2.jpg?quality=82&strip=all&w=1400" /></p><hr/><small>24 Sep 2026, 11:14 UTC | #22172</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Announces Feature Updates and International Expansion for Ray-Ban Display Smart Glasses</title>
     <link href="https://www.engadget.com/2267220/meta-ray-ban-display-getting-feature-updates-including-holographic-avatar-support/" rel="alternate" />
