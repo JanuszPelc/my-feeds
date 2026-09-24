@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-24T01:16:00+00:00</updated>
+  <updated>2026-09-24T01:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Meta Launches $1,299 Meta VR Glasses</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-23/meta-launches-1-299-vr-headset-that-look-like-glasses-to-rival-apple-vision-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNjkzMywiZXhwIjoxNzkwODExNzMzLCJhcnRpY2xlSWQiOiJUTFRUVFFUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.O48oNB5GQxLcjJMLr0eOicrcAS1pgJpVFI3zstudznU" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-23/meta-launches-1-299-vr-headset-that-look-like-glasses-to-rival-apple-vision-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNjkzMywiZXhwIjoxNzkwODExNzMzLCJhcnRpY2xlSWQiOiJUTFRUVFFUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.O48oNB5GQxLcjJMLr0eOicrcAS1pgJpVFI3zstudznU::v239</id>
+    <published>2026-09-24T01:17:00+00:00</published>
+    <updated>2026-09-24T01:17:00+00:00</updated>
+    <media:thumbnail url="https://glassalmanac.com/wp-content/uploads/2025/11/17732-meta-reveals-display-equipped-glasses-in-2025-why-buyers-should-care.jpg.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-23/meta-launches-1-299-vr-headset-that-look-like-glasses-to-rival-apple-vision-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNjkzMywiZXhwIjoxNzkwODExNzMzLCJhcnRpY2xlSWQiOiJUTFRUVFFUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.O48oNB5GQxLcjJMLr0eOicrcAS1pgJpVFI3zstudznU">bloomberg.com</a> | <a href="https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/">source</a></small></p><hr/><p>Meta Platforms Inc. has released Meta VR Glasses, a $1,299 headset designed to resemble traditional eyewear. The device utilizes an external compute pack containing the processor, battery, and cooling fan, which can be clipped to a user's clothing or placed on a surface to keep the headset lightweight.</p><p>The product is positioned to compete with Apple's Vision Pro by offering a more affordable and compact alternative. By offloading heavy computing components to an external unit, Meta aims to improve wearer comfort and steer its virtual-reality product line toward profitability.</p><p><img src="https://glassalmanac.com/wp-content/uploads/2025/11/17732-meta-reveals-display-equipped-glasses-in-2025-why-buyers-should-care.jpg.png" /></p><hr/><small>24 Sep 2026, 06:59 UTC | #22150</small>]]></content>
+  </entry>
   <entry>
     <title>Meta to Bring FDA-Cleared Hearing Enhancement to Smart Glasses</title>
     <link href="https://www.engadget.com/2267211/meta-brings-fda-cleared-hearing-enhancement-to-its-smart-glasses/" rel="alternate" />
@@ -937,14 +946,5 @@
     <updated>2026-09-19T12:09:00+00:00</updated>
     <media:thumbnail url="https://www.archimetric.com/wp-content/uploads/2026/04/img_69eeb7c47b714.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/">joelonsoftware.com</a> | <a href="https://lobste.rs/s/3xfxnj/don_t_let_architecture_astronauts_scare">discussion</a></small></p><hr/><p>Over-reliance on high-level abstractions and theoretical patterns leads some developers to focus on complex architectural challenges at the expense of practical utility. Such individuals often produce software that fails to address the immediate, fundamental needs of the end user.</p><p>Industry hype frequently accompanies new software architectures that offer little more than new formats for existing protocols. Highly complex, architecturally-driven alternatives often lack the immediate utility found in simpler services, prioritizing technical elegance over meaningful functional improvements.</p><p><img src="https://www.archimetric.com/wp-content/uploads/2026/04/img_69eeb7c47b714.png" /></p><hr/><small>19 Sep 2026, 15:12 UTC | #21675</small>]]></content>
-  </entry>
-  <entry>
-    <title>Awesome-tunneling Repository Curates Tunneling Software Alternatives</title>
-    <link href="https://github.com/anderspitman/awesome-tunneling" rel="alternate" />
-    <id>https://github.com/anderspitman/awesome-tunneling::v239</id>
-    <published>2026-09-19T06:55:00+00:00</published>
-    <updated>2026-09-19T06:55:00+00:00</updated>
-    <media:thumbnail url="https://tom-doerr.github.io/repo_posts/assets/anderspitman_awesome_tunneling_20260214_042941_818_20260214_043040_81e4b0.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/anderspitman/awesome-tunneling">github.com</a> | <a href="https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling">discussion</a></small></p><hr/><p>This collection of software and services assists self-hosters and developers in exposing local webservers via public domain names with automatic HTTPS. The tools are designed to function even when the host is behind a NAT or other restricted network.</p><p>The list compares various implementations, including SSH-based solutions like Pinggy and tuns.sh, and WireGuard-based services like Hoppy. It categorizes tools by features such as protocol support (HTTP, TCP, UDP), automatic Let's Encrypt integration, and custom domain management.</p><p><img src="https://tom-doerr.github.io/repo_posts/assets/anderspitman_awesome_tunneling_20260214_042941_818_20260214_043040_81e4b0.png" /></p><hr/><small>19 Sep 2026, 12:09 UTC | #21666</small>]]></content>
   </entry>
 </feed>
