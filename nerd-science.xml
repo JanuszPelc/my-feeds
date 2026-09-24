@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-24T04:48:00+00:00</updated>
+  <updated>2026-09-24T11:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Dan Cîmpianu Advocates Building an Obsidian Second Brain to Counteract AI Unreliability</title>
+    <link href="https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/" rel="alternate" />
+    <id>https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/::v239</id>
+    <published>2026-09-24T11:35:00+00:00</published>
+    <updated>2026-09-24T11:35:00+00:00</updated>
+    <media:thumbnail url="https://camo.githubusercontent.com/a01644f53c468f91bb5a99041c144277b68a25d2e7f333b74272e046de0db0bc/68747470733a2f2f617661746172732e6d64732e79616e6465782e6e65742f693f69643d353438323134363239626530623564643461333561323432666363643230353261383136323562652d343435323334372d696d616765732d7468756d6273266e3d3133" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/">jadarma.github.io</a> | <a href="https://lobste.rs/s/xg8zbk/clankers_made_me_build_second_brain">discussion</a></small></p><hr/><p>The rise of "AI slop"—inaccurate or hallucinated information from large language models—necessitates a robust Personal Knowledge Management (PKM) system to maintain individual expertise. Maintaining a personal knowledge base of verified technical snippets and thoughts serves as a defense against the increasing unreliability of AI-generated responses and search engine results.</p><p>Using Obsidian to create a local, offline "second brain" allows for the preservation of a reliable source of truth. This approach focuses on the importance of "not delegating understanding," ensuring that knowledge is synthesized through writing rather than outsourced to generative AI tools.</p><p><img src="https://camo.githubusercontent.com/a01644f53c468f91bb5a99041c144277b68a25d2e7f333b74272e046de0db0bc/68747470733a2f2f617661746172732e6d64732e79616e6465782e6e65742f693f69643d353438323134363239626530623564643461333561323432666363643230353261383136323562652d343435323334372d696d616765732d7468756d6273266e3d3133" /></p><hr/><small>24 Sep 2026, 14:40 UTC | #22220</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI's Navier-Stokes Solution Faces Criticism Over Problem Formulation</title>
     <link href="https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/" rel="alternate" />
