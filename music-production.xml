@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-24T11:43:00+00:00</updated>
+  <updated>2026-09-24T11:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Q-Audio Releases Stem Separator Pro for Windows</title>
+    <link href="https://www.kvraudio.com/news/q-audio-releases-stem-separator-pro-application-for-windows-68710?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68710" rel="alternate" />
+    <id>https://www.kvraudio.com/news/q-audio-releases-stem-separator-pro-application-for-windows-68710?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68710::v239</id>
+    <published>2026-09-24T11:49:00+00:00</published>
+    <updated>2026-09-24T11:49:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/stemseparatorpro.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/q-audio-releases-stem-separator-pro-application-for-windows-68710?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68710">kvraudio.com</a> | <a href="https://www.q-audio.eu/shop/apps/product/stem-separator-pro">source</a></small></p><hr/><p>Q-Audio has released Stem Separator Pro for Windows, an offline AI application for music stem separation. Powered by Meta AI's Demucs engine, the tool splits audio tracks into four or six individual stems, including vocals, drums, bass, guitar, and piano.</p><p>Designed for music producers and audio engineers, the software supports batch processing, real-time waveform playback, and exports to WAV, FLAC, or MP3. It is distributed as donationware and operates locally without the need for cloud services or subscriptions.</p><p><img src="https://static.kvraudio.com/i/b/stemseparatorpro.png" /></p><hr/><small>24 Sep 2026, 16:45 UTC | #22227</small>]]></content>
+  </entry>
   <entry>
     <title>Rick Rubin on Jay-Z's Spontaneous Songwriting Process</title>
     <link href="https://musictech.com/news/music/jay-z-rick-rubin-99-problems-writing-process/" rel="alternate" />
@@ -500,14 +509,5 @@
     <updated>2026-09-20T11:54:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/time_machine.jpg" />
     <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/20/safari-audio-time-machine-free/">bedroomproducersblog.com</a> | <a href="https://safariaudio.com/pages/ujam-september-giveaway">source</a> | <a href="https://bedroomproducersblog.com/2026/09/20/safari-audio-time-machine-free/#respond">discussion</a></small></p><hr/><p>Safari Audio and UJAM have launched a collaboration offering the Time Machine plugin for free to UJAM users for a limited time. The plugin, which normally retails for $49, provides vintage audio character by emulating the sonic textures of the 1950s, 1960s, 1970s, and 1980s.</p><p>To achieve these era-specific tones, the plugin utilizes a combination of filtering, saturation, compression, and lo-fi noise. While the promotion is time-limited, Safari Audio has not yet announced an official expiration date for the giveaway.</p><p><img src="https://static.kvraudio.com/i/b/time_machine.jpg" /></p><hr/><small>20 Sep 2026, 16:54 UTC | #21735</small>]]></content>
-  </entry>
-  <entry>
-    <title>Thenatan Releases GRRR Growl Designer Engine</title>
-    <link href="https://www.kvraudio.com/news/thenatan-releases-grrr-growl-designer-engine-for-mac-and-win-68651?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68651" rel="alternate" />
-    <id>https://www.kvraudio.com/news/thenatan-releases-grrr-growl-designer-engine-for-mac-and-win-68651?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68651::v239</id>
-    <published>2026-09-19T16:35:00+00:00</published>
-    <updated>2026-09-19T16:35:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/thenatan-grrr---sc--1.webp" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/thenatan-releases-grrr-growl-designer-engine-for-mac-and-win-68651?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68651">kvraudio.com</a> | <a href="https://www.thenatan.store/p/grrr-growl-designer/">source</a></small></p><hr/><p>The GRRR Growl Designer Engine is a beat-reactive audio plugin for macOS and Windows that uses a beat-detector to drive four processing engines—TRASH, TALK, WUB, and SCREECH—in sync with incoming transients. This approach allows users to transform 808s, vocals, or loops into complex growling textures by modulating the signal based on transients rather than static envelopes.</p><p>Available in VST, VST3, and AU formats, including native Apple Silicon, the plugin includes over 20 factory presets. It is priced at $49, with a 72-hour introductory price of $12.</p><p><img src="https://static.kvraudio.com/i/b/thenatan-grrr---sc--1.webp" /></p><hr/><small>19 Sep 2026, 21:54 UTC | #21687</small>]]></content>
   </entry>
 </feed>
