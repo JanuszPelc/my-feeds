@@ -893,13 +893,4 @@
     <media:thumbnail url="https://tom-doerr.github.io/repo_posts/assets/anderspitman_awesome_tunneling_20260214_042941_818_20260214_043040_81e4b0.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/anderspitman/awesome-tunneling">github.com</a> | <a href="https://lobste.rs/s/myuake/awesome_tunneling_list_tunneling">discussion</a></small></p><hr/><p>This collection of software and services assists self-hosters and developers in exposing local webservers via public domain names with automatic HTTPS. The tools are designed to function even when the host is behind a NAT or other restricted network.</p><p>The list compares various implementations, including SSH-based solutions like Pinggy and tuns.sh, and WireGuard-based services like Hoppy. It categorizes tools by features such as protocol support (HTTP, TCP, UDP), automatic Let's Encrypt integration, and custom domain management.</p><p><img src="https://tom-doerr.github.io/repo_posts/assets/anderspitman_awesome_tunneling_20260214_042941_818_20260214_043040_81e4b0.png" /></p><hr/><small>19 Sep 2026, 12:09 UTC | #21666</small>]]></content>
   </entry>
-  <entry>
-    <title>Minimal Phone 2 Announced with Physical QWERTY Keyboard</title>
-    <link href="https://minimalcompany.com/" rel="alternate" />
-    <id>https://minimalcompany.com/::v239</id>
-    <published>2026-09-19T01:44:00+00:00</published>
-    <updated>2026-09-19T01:44:00+00:00</updated>
-    <media:thumbnail url="https://cdn.seattlebubbles.com/2025/12/IMG_7161_preview-1.jpeg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://minimalcompany.com/">minimalcompany.com</a> | <a href="https://minimalcompany.com/products/minimal-phone-2">source</a> | <a href="https://news.ycombinator.com/item?id=49749369">hacker news</a></small></p><hr/><p>Minimal Company has announced the Minimal Phone 2, a compact smartphone featuring a physical, backlit QWERTY keyboard and an aluminum unibody. The device runs a full version of Android, offering out-of-the-box compatibility with Google Play Services, while also providing an official de-Googled ROM for privacy-conscious users.</p><p>The device is scheduled to ship in December 2026 with prices starting at $599. Notable hardware specifications include a 50 MP rear camera, a programmable hardware switch, a 3.5 mm headphone jack, and an LED notification indicator.</p><p><img src="https://cdn.seattlebubbles.com/2025/12/IMG_7161_preview-1.jpeg" /></p><hr/><small>19 Sep 2026, 09:19 UTC | #21659</small>]]></content>
-  </entry>
 </feed>
