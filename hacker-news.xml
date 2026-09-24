@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-23T20:05:00+00:00</updated>
+  <updated>2026-09-23T22:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Mike Pall Explains Why C Compilers Struggle with Interpreter Loops</title>
+    <link href="https://web.archive.org/web/20180603053407/http://article.gmane.org/gmane.comp.lang.lua.general/75426" rel="alternate" />
+    <id>https://web.archive.org/web/20180603053407/http://article.gmane.org/gmane.comp.lang.lua.general/75426::v239</id>
+    <published>2026-09-23T22:20:00+00:00</published>
+    <updated>2026-09-23T22:20:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/958701206/original/a8bce821e4/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://web.archive.org/web/20180603053407/http://article.gmane.org/gmane.comp.lang.lua.general/75426">web.archive.org</a> | <a href="https://lua-users.org/lists/lua-l/2011-02/msg00742.html">source</a> | <a href="https://lobste.rs/s/v4bdwl/re_suggestions_on_implementing">discussion</a></small></p><hr/><p>Mike Pall explains why C compilers struggle to optimize interpreter main loops, noting that they often fail to handle the complex control-flow graphs inherent in switch-based dispatch. Key issues include "diamond-shaped" control flow that disrupts register allocation, the inability to distinguish between fast and slow paths, and the failure of standard heuristics when managing hundreds of slow paths.</p><p>In contrast, Pall suggests that hand-written assembly can achieve significantly better performance through fixed register assignments, isolating slow paths to preserve instruction cache density, and pre-decoding operands. These strategies allow interpreters like LuaJIT to bypass the limitations of general-purpose compilers to achieve high execution efficiency.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/958701206/original/a8bce821e4/1?v=1" /></p><hr/><small>24 Sep 2026, 03:51 UTC | #22170</small>]]></content>
+  </entry>
   <entry>
     <title>Inko Introduces Sandboxing API</title>
     <link href="https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/" rel="alternate" />
