@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-22T18:26:00+00:00</updated>
+  <updated>2026-09-24T17:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Bastardica Tool Enables Font Mixing and Transformation</title>
+    <link href="https://bastardica.mitpit.com" rel="alternate" />
+    <id>https://bastardica.mitpit.com::v239</id>
+    <published>2026-09-24T17:14:00+00:00</published>
+    <updated>2026-09-24T17:14:00+00:00</updated>
+    <media:thumbnail url="https://www.cufonfonts.com/images/2497/bastard-font-large-preview.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://bastardica.mitpit.com">bastardica.mitpit.com</a> | <a href="https://news.ycombinator.com/item?id=49823738">hacker news</a></small></p><hr/><p>Bastardica is a web tool for creating customized fonts by mixing, stretching, or squishing source typefaces. It utilizes OpenType's `liga` contextual substitution across all scripts to swap glyphs, allowing users to create "bastard" fonts where characters from a mix-in font replace those in a base font. All font processing is performed locally in the browser via Pyodide and fontTools, ensuring source fonts are never uploaded to a server.</p><p>The tool generates standard OpenType files compatible with design software and web browsers. Users can adjust glyph alignment using Y-offset and scale effects, and can minimize glyph collisions when mixing multiple fonts by using prime numbers for character strides. Because mixing fonts produces derivative works, users must verify the licensing of their source fonts for commercial use.</p><p><img src="https://www.cufonfonts.com/images/2497/bastard-font-large-preview.png" /></p><hr/><small>24 Sep 2026, 21:21 UTC | #22272</small>]]></content>
+  </entry>
   <entry>
     <title>Battlestate Games Launches Publishing Arm for Niche and Hardcore Games</title>
     <link href="https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm" rel="alternate" />
