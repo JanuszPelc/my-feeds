@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-24T15:39:00+00:00</updated>
+  <updated>2026-09-24T15:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>nClear Releases Free Gluon Bus Compressor</title>
+    <link href="https://bedroomproducersblog.com/2026/09/24/nclear-gluon-bus-compressor/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/24/nclear-gluon-bus-compressor/::v239</id>
+    <published>2026-09-24T15:43:00+00:00</published>
+    <updated>2026-09-24T15:43:00+00:00</updated>
+    <media:thumbnail url="https://www.vibostrings.com/wp-content/uploads/2025/12/1764669616/universal-audio-ssl-4000-g-bus-compressor-plug-in-1764669618.webp" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/24/nclear-gluon-bus-compressor/">bedroomproducersblog.com</a> | <a href="https://plugins.nclear.pro/plugins/gluon.html">source</a> | <a href="https://bedroomproducersblog.com/2026/09/24/nclear-gluon-bus-compressor/#respond">discussion</a></small></p><hr/><p>nClear Audio has released Gluon, a free bus compressor compatible with macOS, Windows, and Linux. The plugin offers classic bus compression, independent output processing, and a "MakeUp Learn" function.</p><p>Users can manage and control multiple instances of the plugin using Gluon Map. This release follows nClear's previous free releases, VocRide and Sibalance.</p><p><img src="https://www.vibostrings.com/wp-content/uploads/2025/12/1764669616/universal-audio-ssl-4000-g-bus-compressor-plug-in-1764669618.webp" /></p><hr/><small>24 Sep 2026, 19:00 UTC | #22217</small>]]></content>
+  </entry>
   <entry>
     <title>Box Of Rules Releases Box Of Synths Beta</title>
     <link href="https://bedroomproducersblog.com/2026/09/24/box-of-synths-beta/" rel="alternate" />

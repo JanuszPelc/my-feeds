@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-24T15:27:00+00:00</updated>
+  <updated>2026-09-24T15:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>OrgWebAlchemy Library Parses Org-mode to HTML in Guile Scheme</title>
+    <link href="https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html" rel="alternate" />
+    <id>https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html::v239</id>
+    <published>2026-09-24T15:44:00+00:00</published>
+    <updated>2026-09-24T15:44:00+00:00</updated>
+    <media:thumbnail url="https://web.dev/static/articles/client-side-rendering-of-html-and-interactivity/image/a-screenshot-parsing-ht-f2443fe1b1888_720.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jointhefreeworld.org/blog/articles/lisps/parsing-expression-grammar-lisp-org-convert-to-html/index.html">jointhefreeworld.org</a> | <a href="https://lobste.rs/s/2uzmg2/parsing_expression_grammar_vs_regexes">discussion</a></small></p><hr/><p>OrgWebAlchemy is a Guile Scheme library that uses Parsing Expression Grammars (PEG) to parse Org-mode documents into an Abstract Syntax Tree (AST). Leveraging the `(ice-9 peg)` module, the library converts Org markup into SXML and then renders it to HTML, enabling Org file exports without the Emacs editor.</p><p>The library handles complex structures including nested lists, tables, and various code blocks. The project is licensed under the GNU LGPL v3 and is planned for future packaging in GNU Guix as `guile-orgwebalchemy`.</p><p><img src="https://web.dev/static/articles/client-side-rendering-of-html-and-interactivity/image/a-screenshot-parsing-ht-f2443fe1b1888_720.png" /></p><hr/><small>24 Sep 2026, 19:03 UTC | #22250</small>]]></content>
+  </entry>
   <entry>
     <title>F-Droid Releases 2.0 Update with Redesigned Interface</title>
     <link href="https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html" rel="alternate" />
