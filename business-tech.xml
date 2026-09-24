@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T05:46:00+00:00</updated>
+  <updated>2026-09-24T06:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Tower Semiconductor to Invest $4 Billion in Japan for Optical Chip Hub</title>
+    <link href="https://asia.nikkei.com/business/tech/semiconductors/israeli-foundry-tower-semiconductor-to-make-japan-main-hub-for-optical-chips" rel="alternate" />
+    <id>https://asia.nikkei.com/business/tech/semiconductors/israeli-foundry-tower-semiconductor-to-make-japan-main-hub-for-optical-chips::v239</id>
+    <published>2026-09-24T06:06:00+00:00</published>
+    <updated>2026-09-24T06:06:00+00:00</updated>
+    <media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F0%2F2%2F8%2F13128202-1-eng-GB%2F31c9e026b3d4-20260917N-Tower-Semiconductor-plant.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=780" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://asia.nikkei.com/business/tech/semiconductors/israeli-foundry-tower-semiconductor-to-make-japan-main-hub-for-optical-chips">asia.nikkei.com</a> | <a href="https://towersemi.com/2026/07/14/07142026/">source</a></small></p><hr/><p>Tower Semiconductor plans to establish its largest production hub for optical communications semiconductors in Japan through a $4 billion investment, according to CEO Russell Ellwanger. The expansion is intended to meet the increasing demand for optical chip technology used in AI server infrastructure.</p><p>The investment positions Japan as a primary manufacturing base for the company’s optical products, supplementing its existing facilities in Israel and the United States. This strategic move targets the growing requirement for high-speed communication components within global data center networks.</p><p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F2%2F0%2F2%2F8%2F13128202-1-eng-GB%2F31c9e026b3d4-20260917N-Tower-Semiconductor-plant.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=780" /></p><hr/><small>24 Sep 2026, 13:08 UTC | #22181</small>]]></content>
+  </entry>
   <entry>
     <title>FSSAI Initiates Penal Action Against Major E-commerce Platforms</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-23/amazon-swiggy-among-firms-facing-india-food-regulator-s-action" rel="alternate" />
