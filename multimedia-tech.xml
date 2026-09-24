@@ -105,13 +105,4 @@
     <media:thumbnail url="https://c.clc2l.com/c/screenshot/i/c/l/cleanshot-x-GnvuiY.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://unsung.aresluna.org/cleanshots-bulldozed-settings/">unsung.aresluna.org</a> | <a href="https://lobste.rs/s/adploh/cleanshot_s_bulldozed_settings">discussion</a></small></p><hr/><p>The version 5 update of CleanShot has significantly degraded the usability of its settings interface. By attempting to mirror the design language of macOS Ventura and Sequoia, the software has lost the intuitive "shape coding" and efficient layout present in version 4.</p><p>Issues identified include a cumbersome two-pane layout, difficult-to-read right-aligned controls, and reduced clicking precision due to narrower interface elements. The design sacrifices functional scannability and accessibility in favor of a modern, system-consistent aesthetic.</p><p><img src="https://c.clc2l.com/c/screenshot/i/c/l/cleanshot-x-GnvuiY.jpg" /></p><hr/><small>20 Sep 2026, 15:56 UTC | #21746</small>]]></content>
   </entry>
-  <entry>
-    <title>OpenGOAL Project Offers Native x86-64 Port of Jak and Daxter Trilogy</title>
-    <link href="https://opengoal.dev/" rel="alternate" />
-    <id>https://opengoal.dev/::v239</id>
-    <published>2026-09-19T16:15:00+00:00</published>
-    <updated>2026-09-19T16:15:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/IoNNqod2qow/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEEgTCh_MA8=&amp;rs=AOn4CLAV_PX11kBW6tW-WR_8rD_eBJEcrw" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://opengoal.dev/">opengoal.dev</a> | <a href="https://lobste.rs/s/xfeuet/reviving_language_brought_us_jak_daxter">discussion</a></small></p><hr/><p>This initiative utilizes a native x86-64 architecture rather than emulation to provide improved performance, accuracy, and compatibility for the original trilogy. By rebuilding the games to mimic the original GOAL programming language, the port ensures gameplay accuracy and compatibility with modern hardware.</p><p>The project maintains the original visual and gameplay experience while introducing modern accessibility and quality-of-life features. Because the games are decompiled, the codebase supports extensive modding and provides a foundation for community-created content and technical study of the original game architecture.</p><p><img src="https://i.ytimg.com/vi/IoNNqod2qow/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEEgTCh_MA8=&rs=AOn4CLAV_PX11kBW6tW-WR_8rD_eBJEcrw" /></p><hr/><small>19 Sep 2026, 21:52 UTC | #21703</small>]]></content>
-  </entry>
 </feed>
