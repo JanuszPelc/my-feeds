@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-23T23:45:00+00:00</updated>
+  <updated>2026-09-24T00:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Meta Unveils Muse Charm AI Wearable</title>
+    <link href="https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/::v239</id>
+    <published>2026-09-24T00:47:00+00:00</published>
+    <updated>2026-09-24T00:47:00+00:00</updated>
+    <media:thumbnail url="https://www.unite.ai/wp-content/uploads/2026/09/meta-unveils-muse-charm-keychain-device-ai-agent.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/">techcrunch.com</a> | <a href="https://www.meta.com/muse-charm/">source</a> | <a href="https://news.ycombinator.com/item?id=49825341">hacker news</a></small></p><hr/><p>Meta has announced Muse Charm, a keychain-style wearable designed to interface with its Muse AI agent. Revealed at Meta Connect 2026, the palm-sized device features a small screen displaying a digital avatar named "Jolly" and a fingerprint sensor for quick voice interaction.</p><p>The gadget offers a way to access Meta's AI agent without a smartphone or smart glasses. The company expects the device to be ready for shipment during the December holiday season.</p><p><img src="https://www.unite.ai/wp-content/uploads/2026/09/meta-unveils-muse-charm-keychain-device-ai-agent.jpg" /></p><hr/><small>24 Sep 2026, 06:01 UTC | #22154</small>]]></content>
+  </entry>
+  <entry>
+    <title>Microsoft Unveils Surface Pro 12-inch and Surface Laptop 13-inch with Snapdragon X2 Plus</title>
+    <link href="https://www.windowscentral.com/hardware/surface/microsoft-unveils-new-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2-plus-brighter-screens-and-5g-options-heres-a-first-look" rel="alternate" />
+    <id>https://www.windowscentral.com/hardware/surface/microsoft-unveils-new-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2-plus-brighter-screens-and-5g-options-heres-a-first-look::v239</id>
+    <published>2026-09-23T23:46:00+00:00</published>
+    <updated>2026-09-23T23:46:00+00:00</updated>
+    <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/bgKBTDRZr7ngCbZ7x3Tb8F.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.windowscentral.com/hardware/surface/microsoft-unveils-new-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2-plus-brighter-screens-and-5g-options-heres-a-first-look">windowscentral.com</a> | <a href="https://blogs.windows.com/devices/2026/09/23/introducing-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2/">source</a></small></p><hr/><p>Microsoft has announced refreshed Surface Pro 12-inch and Surface Laptop 13-inch models powered by the Snapdragon X2 Plus processor. The updates include brighter 500-nit displays, increased battery life, and a new black colorway.</p><p>The Surface Pro 12-inch will offer optional 5G connectivity for commercial customers and include the new AI-powered Microsoft Ink Canvas app. Both devices and a redesigned Surface Mouse with haptic feedback are expected to be available starting October 13.</p><p><img src="https://cdn.mos.cms.futurecdn.net/bgKBTDRZr7ngCbZ7x3Tb8F.jpg" /></p><hr/><small>24 Sep 2026, 05:55 UTC | #22145</small>]]></content>
+  </entry>
   <entry>
     <title>BGP Hijack Targets Softaculous and Virtualizor</title>
     <link href="https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/" rel="alternate" />
