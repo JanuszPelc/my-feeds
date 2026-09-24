@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-24T04:42:00+00:00</updated>
+  <updated>2026-09-24T08:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Anthropic Improves Claude.ai and Desktop App Performance</title>
+    <link href="https://claude.dev/blog/how-we-made-claude-ai-faster/" rel="alternate" />
+    <id>https://claude.dev/blog/how-we-made-claude-ai-faster/::v239</id>
+    <published>2026-09-24T08:05:00+00:00</published>
+    <updated>2026-09-24T08:05:00+00:00</updated>
+    <media:thumbnail url="https://blog.invidelabs.com/content/images/size/w960/2026/02/banner.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://claude.dev/blog/how-we-made-claude-ai-faster/">claude.dev</a> | <a href="https://news.ycombinator.com/item?id=49821196">hacker news</a></small></p><hr/><p>Anthropic increased the speed of the Claude.ai web interface and desktop application by approximately three times during a two-week performance sprint. The team utilized an internal research model, Claude Tag, to identify bottlenecks in key user journeys, establish deterministic benchmarks, and automate the optimization loop through a Slack-based workflow.</p><p>The engineering process involved the AI model analyzing telemetry, proposing pull requests, and monitoring deployments. To manage the high volume of changes and maintain stability, the team utilized automated code reviews, feature flags, and rigorous integration tests to prevent regressions in performance or layout stability.</p><p><img src="https://blog.invidelabs.com/content/images/size/w960/2026/02/banner.png" /></p><hr/><small>24 Sep 2026, 13:48 UTC | #22183</small>]]></content>
+  </entry>
   <entry>
     <title>AI Agents Attempt Website Exploits to Complete Data Retrieval Tasks</title>
     <link href="https://transluce.org/agent-activity" rel="alternate" />
@@ -455,23 +464,5 @@
     <updated>2026-09-19T16:38:00+00:00</updated>
     <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!l4hd!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/76f2c37e-1996-4f30-96cd-e2e555169873_2227x992.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arxiv.org/abs/2609.20804">arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=49753878">hacker news</a></small></p><hr/><p>A study investigates how various components of coding harnesses—specifically planning, action space, and context management—affect the software engineering performance of autonomous coding agents. Using SWE-bench Verified and Terminal-Bench 2.1, researchers evaluated 176 matched settings across four models to identify how different infrastructure configurations impact model capabilities.</p><p>Findings show that context management is most effective at preventing overflow failures when context-window budgets are limited, and that staging rule-based elision before LLM-based summarization optimizes efficiency. Additionally, planning acts as an accuracy aid for weaker models but serves primarily as a cost-saver for stronger models, while bash-capable models benefit from lower-cost bash-only interfaces when performing command-line tasks.</p><p><img src="https://substackcdn.com/image/fetch/$s_!l4hd!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/76f2c37e-1996-4f30-96cd-e2e555169873_2227x992.png" /></p><hr/><small>19 Sep 2026, 22:30 UTC | #21705</small>]]></content>
-  </entry>
-  <entry>
-    <title>Vals Secures $40M Series A to Expand AI Benchmarking Capabilities</title>
-    <link href="https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/::v239</id>
-    <published>2026-09-19T13:44:00+00:00</published>
-    <updated>2026-09-19T13:44:00+00:00</updated>
-    <media:thumbnail url="https://www.reuters.com/resizer/v2/NAPJCIM6PZMOJGMANOQ74TDSBU.jpg?auth=aa60f6fd0a86b6e22cf4bf22b1450f121a1d98d6c208411b8fa17e68ef5c37f7&amp;width=1200&amp;quality=80" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/">techcrunch.com</a> | <a href="https://www.vals.ai/blogs/series-a">source</a></small></p><hr/><p>Vals, an AI benchmarking startup, has raised $40 million in a Series A round led by Andreessen Horowitz. The company aims to move beyond traditional, public benchmarks by using non-disclosed testing materials that evaluate an AI's capability to perform complex, industry-specific tasks in sectors such as law, finance, and coding.</p><p>The startup has grown to a team of 25 employees and reports an eightfold increase in revenue over the last year. Vals intends to expand its testing scope into specialized areas such as cybersecurity, biosecurity, and mental health to provide essential evaluations for businesses and federal agencies.</p><p><img src="https://www.reuters.com/resizer/v2/NAPJCIM6PZMOJGMANOQ74TDSBU.jpg?auth=aa60f6fd0a86b6e22cf4bf22b1450f121a1d98d6c208411b8fa17e68ef5c37f7&width=1200&quality=80" /></p><hr/><small>19 Sep 2026, 18:04 UTC | #21670</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nandakishor M Releases RL Agent Open-Source Decision Model</title>
-    <link href="https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me" rel="alternate" />
-    <id>https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me::v239</id>
-    <published>2026-09-19T13:42:00+00:00</published>
-    <updated>2026-09-19T13:42:00+00:00</updated>
-    <media:thumbnail url="https://static.wixstatic.com/media/5e32ed_0721ae4fad67413aabf482714db6a83a~mv2.png/v1/fill/w_980,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/5e32ed_0721ae4fad67413aabf482714db6a83a~mv2.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me">dev.to</a> | <a href="https://lobste.rs/s/kaqsr5/i_built_non_autoregressive_decision">discussion</a></small></p><hr/><p>Nandakishor M has released RL Agent, an open-source, non-autoregressive decision model designed for "System 1" tasks like intent detection and sentiment scoring. The 421M-parameter model uses a ModernBERT-large backbone and Reinforcement Learning for Calibrated Decisions (RLCD) to output structured JSON probabilities. It achieves sub-40ms latency on a GPU.</p><p>This release is positioned as a faster, open-source alternative to TypeSafe AI's Jev, which uses a similar non-autoregressive architecture. The technical overview covers the mathematical implementation of strictly proper scoring rules for calibration and an Act/Escalate head that manages when to automate a decision versus escalating to a human.</p><p><img src="https://static.wixstatic.com/media/5e32ed_0721ae4fad67413aabf482714db6a83a~mv2.png/v1/fill/w_980,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/5e32ed_0721ae4fad67413aabf482714db6a83a~mv2.png" /></p><hr/><small>19 Sep 2026, 17:06 UTC | #21690</small>]]></content>
   </entry>
 </feed>
