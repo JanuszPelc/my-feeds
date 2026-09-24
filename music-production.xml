@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-24T08:01:00+00:00</updated>
+  <updated>2026-09-24T11:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Rick Rubin on Jay-Z's Spontaneous Songwriting Process</title>
+    <link href="https://musictech.com/news/music/jay-z-rick-rubin-99-problems-writing-process/" rel="alternate" />
+    <id>https://musictech.com/news/music/jay-z-rick-rubin-99-problems-writing-process/::v239</id>
+    <published>2026-09-24T11:43:00+00:00</published>
+    <updated>2026-09-24T11:43:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Rick-Rubin-Jay-Z-hero@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/music/jay-z-rick-rubin-99-problems-writing-process/">musictech.com</a> | <a href="https://podcasts.happyscribe.com/the-diary-of-a-ceo-with-steven-bartlett/rick-rubin-what-jay-z-did-in-30-minutes-left-me-speechless">source</a></small></p><hr/><p>Producer Rick Rubin revealed that Jay-Z composed the lyrics for "99 Problems" entirely in his head without writing them down. In an interview on *Diary of a CEO*, Rubin explained that the rapper spent approximately 30 minutes listening to the beat before recording the first verse, relying on mental composition rather than traditional notation.</p><p>The discussion highlights Jay-Z's ability to maintain specific cadences and lyrical structures through memory and repetition. Rubin also detailed his practice of using meditation to foster spiritual connection during recording sessions with artists such as Johnny Cash and the Red Hot Chili Peppers.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Rick-Rubin-Jay-Z-hero@2000x1500.jpg" /></p><hr/><small>24 Sep 2026, 15:52 UTC | #22196</small>]]></content>
+  </entry>
   <entry>
     <title>Five Hi-Fi Listening Bars in Los Angeles</title>
     <link href="https://musictech.com/features/hi-fi-bars-los-angeles/" rel="alternate" />
@@ -509,23 +518,5 @@
     <updated>2026-09-19T16:10:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/granularbreaker-2.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/nextale-audio-releases-granularbreaker---granular-synthesis-meets-brick-breaker-physics-vst3-and-au-68649?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68649">kvraudio.com</a> | <a href="https://www.nextale-audio.com/granularbreaker">source</a></small></p><hr/><p>NEXTALE Audio has released GranularBreaker, a virtual instrument that integrates granular synthesis with brick-breaker game mechanics. The plugin uses a physics engine where balls bounce through a user-designed grid of bricks, triggering spatialized grains from samples upon collision. It is available for Windows and macOS in VST3, AU, and standalone formats.</p><p>Features include various game modes such as a sample-accurate step sequencer and a marble drop mode, alongside MIDI output for external synthesis control. The instrument supports quantization to a DAW's grid, custom impulse responses, and a full FX chain including filters, bitcrusher, and spatial audio. A free demo with limited playfield dimensions and ball counts is available for testing.</p><p><img src="https://static.kvraudio.com/i/b/granularbreaker-2.png" /></p><hr/><small>19 Sep 2026, 21:19 UTC | #21686</small>]]></content>
-  </entry>
-  <entry>
-    <title>AngelicVibes Releases Maximillion Free Multi-Effect Plugin</title>
-    <link href="https://www.kvraudio.com/news/angelicvibes-releases-maximillion---free-vst3-au-plugin-68654?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68654" rel="alternate" />
-    <id>https://www.kvraudio.com/news/angelicvibes-releases-maximillion---free-vst3-au-plugin-68654?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68654::v239</id>
-    <published>2026-09-19T15:50:00+00:00</published>
-    <updated>2026-09-19T15:50:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/maximillion_ui_1.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/angelicvibes-releases-maximillion---free-vst3-au-plugin-68654?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68654">kvraudio.com</a> | <a href="https://www.angelicvibes.com/maximillion/">source</a></small></p><hr/><p>AngelicVibes has released Maximillion, a free multi-effect plugin available in VST3 and AU formats for macOS and Windows. As the third entry in the AV Essentials FX series, the plugin is designed to add energy, punch, and loudness to audio sources such as drums, bass, and vocals.</p><p>The plugin provides three distinct processing types: an aggressive maximizer using compression and saturation, an adaptive compression and limiting mode with high-end boost, and a VCA-style compression mode. Users can manipulate settings like attack, sustain, and saturation to transition from subtle warmth to aggressive, crushed sounds.</p><p><img src="https://static.kvraudio.com/i/b/maximillion_ui_1.png" /></p><hr/><small>19 Sep 2026, 20:38 UTC | #21680</small>]]></content>
-  </entry>
-  <entry>
-    <title>blepfx Releases Spectra Spectral Morphing Plugin</title>
-    <link href="https://www.kvraudio.com/news/blepfx-releases-spectra---spectral-morphing-plugin-vst3-au-and-clap-68653?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68653" rel="alternate" />
-    <id>https://www.kvraudio.com/news/blepfx-releases-spectra---spectral-morphing-plugin-vst3-au-and-clap-68653?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68653::v239</id>
-    <published>2026-09-19T15:49:00+00:00</published>
-    <updated>2026-09-19T15:49:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/ui.1789818936.webp" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/blepfx-releases-spectra---spectral-morphing-plugin-vst3-au-and-clap-68653?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68653">kvraudio.com</a> | <a href="https://fx.amee.ee/plugin/spectra/">source</a></small></p><hr/><p>Spectra is a spectral morphing and envelope transfer plugin designed to blend two audio signals by combining their envelopes and harmonics. It utilizes four distinct algorithms—Linear, Hilbert, LPC, and IIR—to create unique textures and timbres.</p><p>The software is available for $25 in VST3, AU, and CLAP formats for macOS, Windows, and Linux. It features a four-octave formant shifter, a tilt filter, envelope freeze, and controls for smoothing and smearing frequency and time.</p><p><img src="https://static.kvraudio.com/i/b/ui.1789818936.webp" /></p><hr/><small>19 Sep 2026, 20:37 UTC | #21681</small>]]></content>
   </entry>
 </feed>
