@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-24T04:29:00+00:00</updated>
+  <updated>2026-09-24T04:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google Gemini 4 Enters Post-Training Phase</title>
+    <link href="https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model" rel="alternate" />
+    <id>https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model::v239</id>
+    <published>2026-09-24T04:30:00+00:00</published>
+    <updated>2026-09-24T04:30:00+00:00</updated>
+    <media:thumbnail url="https://leadorigin.com/wp-content/uploads/2023/11/google-gemini-ai-model-1-1024x506.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model">theinformation.com</a></small></p><hr/><p>Google DeepMind’s flagship AI model, Gemini 4, has entered the post-training phase of development. Senior Vice President Koray Kavukcuoglu stated that the model is undergoing refinement to ensure reliability and is expected to be released before the end of the year.</p><p>Post-training involves fine-tuning a base model to achieve stable and predictable behavior across various tasks. This stage is a critical step in preparing frontier-scale AI for deployment and real-world application.</p><p><img src="https://leadorigin.com/wp-content/uploads/2023/11/google-gemini-ai-model-1-1024x506.png" /></p><hr/><small>24 Sep 2026, 10:59 UTC | #22171</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Releases MentalHealthBench to Evaluate AI in Mental Health Conversations</title>
     <link href="https://openai.com/index/introducing-mentalhealthbench/" rel="alternate" />
@@ -464,14 +473,5 @@
     <updated>2026-09-19T12:14:00+00:00</updated>
     <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!HCMH!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio">prinzai.com</a> | <a href="https://lobste.rs/s/ywnsld/gpt_6_astra_solves_wwi_german_radio_cipher">discussion</a> | <a href="https://news.ycombinator.com/item?id=49763987">hacker news</a></small></p><hr/><p>GPT-6 Astra has successfully decrypted a German ADFGVX radio message from World War I that had previously remained unsolved. Using the encryption key "TRUPPENVERSCHIEBUNG," the model decoded a transmission sent on November 27, 1918, which describes an English cruiser's arrival in Sevastopol and the movement of an Allied squadron.</p><p>The model's findings were verified against historical British naval logs for the HMS Canterbury, confirming the accuracy of the decoded text. This achievement demonstrates the model's ability to apply complex cryptographic analysis to historical data, resolving puzzles that have challenged human codebreakers for decades.</p><p><img src="https://substackcdn.com/image/fetch/$s_!HCMH!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/87457f63-da00-40a0-a43a-5ef48f6e1364_1080x1146.jpeg" /></p><hr/><small>19 Sep 2026, 15:40 UTC | #21678</small>]]></content>
-  </entry>
-  <entry>
-    <title>Laya Multilingual Open-Source Decision Engine Released</title>
-    <link href="https://laya.convaiinnovations.com/" rel="alternate" />
-    <id>https://laya.convaiinnovations.com/::v239</id>
-    <published>2026-09-19T10:47:00+00:00</published>
-    <updated>2026-09-19T10:47:00+00:00</updated>
-    <media:thumbnail url="https://www.imixs.org/images/open-bpmn-01.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://laya.convaiinnovations.com/">laya.convaiinnovations.com</a> | <a href="https://news.ycombinator.com/item?id=49765348">hacker news</a></small></p><hr/><p>Laya is a non-autoregressive "System 1" decision engine that provides fast, structured probabilistic predictions without generating text. It achieves latencies of approximately 32.8ms on a single GPU, offering calibrated confidence scores and schema-based outputs. The open-source release includes specialized checkpoints for English, multilingual support for over 100 languages, and tuned models for typed decision tasks.</p><p>The engine utilizes Reinforcement Learning for Calibrated Decisions (RLCD) to prevent the hallucinated confidence common in generative LLMs. It features an integrated router that performs sub-millisecond Unicode script detection to ensure inputs are handled by the appropriate language-specific model.</p><p><img src="https://www.imixs.org/images/open-bpmn-01.png" /></p><hr/><small>19 Sep 2026, 14:25 UTC | #21673</small>]]></content>
   </entry>
 </feed>
