@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-24T01:17:00+00:00</updated>
+  <updated>2026-09-24T04:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Story of Mel: A Piece of Computer Programming Folklore</title>
+    <link href="https://users.cs.utah.edu/~elb/folklore/mel.html" rel="alternate" />
+    <id>https://users.cs.utah.edu/~elb/folklore/mel.html::v239</id>
+    <published>2026-09-24T04:10:00+00:00</published>
+    <updated>2026-09-24T04:10:00+00:00</updated>
+    <media:thumbnail url="https://ed-thelen.org/comp-hist/LGP-30-VS-Flash-.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://users.cs.utah.edu/~elb/folklore/mel.html">users.cs.utah.edu</a> | <a href="https://lobste.rs/s/wf4wid/story_mel">discussion</a></small></p><hr/><p>A 1983 USENET post by Ed Nather chronicles the programming exploits of a colleague named Mel, who specialized in writing raw machine code for drum-memory computers. Mel achieved extreme performance optimizations by manually timing instruction addresses to align with the physical rotation of the storage drum, bypassing compilers and assemblers to ensure instructions were available to the read head exactly when needed.</p><p>The narrative has become an iconic piece of computer folklore, illustrating the technical landscape before the advent of modern high-level programming languages and top-down design. The text highlights Mel's technical mastery and an anecdote in which his refusal to implement a requested 'cheat' mode for a blackjack program resulted in a bug that inadvertently caused the game to win every time a specific switch was activated.</p><p><img src="https://ed-thelen.org/comp-hist/LGP-30-VS-Flash-.jpg" /></p><hr/><small>24 Sep 2026, 07:40 UTC | #22185</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Launches $1,299 Meta VR Glasses</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-23/meta-launches-1-299-vr-headset-that-look-like-glasses-to-rival-apple-vision-pro?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNjkzMywiZXhwIjoxNzkwODExNzMzLCJhcnRpY2xlSWQiOiJUTFRUVFFUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.O48oNB5GQxLcjJMLr0eOicrcAS1pgJpVFI3zstudznU" rel="alternate" />
