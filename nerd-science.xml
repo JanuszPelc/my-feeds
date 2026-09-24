@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-23T18:07:00+00:00</updated>
+  <updated>2026-09-24T01:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Hacker News Political Bias and Moderation Analysis</title>
+    <link href="https://drewdevault.com/blog/Why-is-HN-like-that/" rel="alternate" />
+    <id>https://drewdevault.com/blog/Why-is-HN-like-that/::v239</id>
+    <published>2026-09-24T01:19:00+00:00</published>
+    <updated>2026-09-24T01:19:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://drewdevault.com/blog/Why-is-HN-like-that/">drewdevault.com</a> | <a href="https://news.ycombinator.com/item?id=49817280">hacker news</a></small></p><hr/><p>The link aggregator Hacker News exhibits a pronounced political bias and moderation style that favors libertarian and pro-capitalist viewpoints. The author argues that both manual flagging and automated systems are used to suppress progressive discourse and criticism of figures like Elon Musk, effectively silencing specific political viewpoints within the community.</p><p>These cultural tendencies are linked to the ideological leanings and professional networks of Y Combinator’s leadership and its associated ecosystem. The analysis traces the forum's social environment to the political affiliations and business interests of prominent figures such as Paul Graham, Sam Altman, and Garry Tan.</p><hr/><small>24 Sep 2026, 07:19 UTC | #22184</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic's Claude AI Discovers Novel Enzyme System</title>
     <link href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system" rel="alternate" />
