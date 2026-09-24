@@ -947,40 +947,4 @@
     <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Petlibro-Granary2.png?w=532" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/">techcrunch.com</a> | <a href="https://petlibro.com/products/granary-2-series">source</a></small></p><hr/><p>Petlibro has launched the Granary 2 series of automatic pet feeders, which incorporate integrated scales and AI-powered pet recognition. The product lineup—consisting of the Granary 2, Vision, Vision Duo, and Granary 2 X—ranges in price from $129.99 to $249.99. By measuring food both when dispensed and when remaining in the bowl, the feeders can provide detailed data on consumption habits, including eating speed and duration.</p><p>The Vision and Vision Duo models feature a 1080p camera with night vision capable of identifying up to 10 individual pets, facilitating customized portioning for multi-pet households. Although the devices include two-way audio and a backup battery, certain advanced monitoring and video features are restricted to Petlibro Care or Video Cloud subscription plans.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Petlibro-Granary2.png?w=532" /></p><hr/><small>19 Sep 2026, 20:15 UTC | #21679</small>]]></content>
   </entry>
-  <entry>
-    <title>The Secret Life of Circuits Book Now Available</title>
-    <link href="https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here" rel="alternate" />
-    <id>https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here::v239</id>
-    <published>2026-09-19T12:21:00+00:00</published>
-    <updated>2026-09-19T12:21:00+00:00</updated>
-    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!oRkZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F391700b7-a444-4e83-97cb-4b182d5094b9_2000x1334.jpeg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here">blog.coredump.cx</a> | <a href="https://nostarch.com/secret-life-of-circuits">source</a> | <a href="https://lobste.rs/s/sn8voe/secret_life_circuits_is_here">discussion</a> | <a href="https://news.ycombinator.com/item?id=49720143">hacker news</a></small></p><hr/><p>Michal Zalewski's book, The Secret Life of Circuits, is now available for order through No Starch Press and retailers including Amazon and Barnes &amp; Noble. The text focuses on practical electronic circuit design, emphasizing physics and modern problem-solving rather than purely theoretical mathematics or historical study.</p><p>The hardcover edition features nearly 300 full-color illustrations and diagrams. While the publisher is currently shipping direct orders, third-party retailers like Amazon are expected to fulfill orders in October.</p><p><img src="https://substackcdn.com/image/fetch/$s_!oRkZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F391700b7-a444-4e83-97cb-4b182d5094b9_2000x1334.jpeg" /></p><hr/><small>19 Sep 2026, 16:24 UTC | #21685</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sudo and OpenDoas Implement Session Start Time to Secure Timestamp Files</title>
-    <link href="https://π.duncano.de/sudo-doas-timestamp-files" rel="alternate" />
-    <id>https://π.duncano.de/sudo-doas-timestamp-files::v239</id>
-    <published>2026-09-19T12:17:00+00:00</published>
-    <updated>2026-09-19T12:17:00+00:00</updated>
-    <media:thumbnail url="https://pbs.twimg.com/media/HAKKV94WcAETzJ-.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://π.duncano.de/sudo-doas-timestamp-files">π.duncano.de</a> | <a href="https://xn--1xa.duncano.de/sudo-doas-timestamp-files">source</a> | <a href="https://lobste.rs/s/9njxl2/sudo_opendoas_timestamp_files_2020">discussion</a></small></p><hr/><p>To prevent TTY and PPID reuse attacks, OpenDoas incorporates a session leader's start time into its authentication timestamps. This security mechanism was later adopted by sudo in version 1.8.22 to address vulnerabilities where attackers could use clone(2) to replicate the process identifiers of previously authenticated sessions.</p><p>By leveraging a monotonic clock, the fix ensures that authentication is strictly bound to a unique session state that cannot be replicated without a system reboot. This architectural change provides a cross-platform defense against session-based authentication hijacking in command-line elevation tools.</p><p><img src="https://pbs.twimg.com/media/HAKKV94WcAETzJ-.png" /></p><hr/><small>19 Sep 2026, 16:07 UTC | #21683</small>]]></content>
-  </entry>
-  <entry>
-    <title>Vale Offers Code-Like Linting for Prose</title>
-    <link href="https://vale.sh" rel="alternate" />
-    <id>https://vale.sh::v239</id>
-    <published>2026-09-19T12:11:00+00:00</published>
-    <updated>2026-09-19T12:11:00+00:00</updated>
-    <media:thumbnail url="https://www.draftview.app/tools-proselint.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vale.sh">vale.sh</a> | <a href="https://lobste.rs/s/anvcfz/vale_code_like_linting_for_prose">discussion</a></small></p><hr/><p>Vale is an open-source command-line tool that applies linting rules to prose. It enables users to convert style guides, terminology, and house voices into automated checks that run within text editors and alongside code.</p><p>The tool supports various markup formats, including Markdown, HTML, and AsciiDoc, and can extract prose from code comments using tree-sitter grammars. Developed in Go for high performance, it is distributed through several registries, including Homebrew, npm, and PyPI.</p><p><img src="https://www.draftview.app/tools-proselint.webp" /></p><hr/><small>19 Sep 2026, 15:26 UTC | #21677</small>]]></content>
-  </entry>
-  <entry>
-    <title>Joel Spolsky on "Architecture Astronauts"</title>
-    <link href="https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/" rel="alternate" />
-    <id>https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/::v239</id>
-    <published>2026-09-19T12:09:00+00:00</published>
-    <updated>2026-09-19T12:09:00+00:00</updated>
-    <media:thumbnail url="https://www.archimetric.com/wp-content/uploads/2026/04/img_69eeb7c47b714.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/">joelonsoftware.com</a> | <a href="https://lobste.rs/s/3xfxnj/don_t_let_architecture_astronauts_scare">discussion</a></small></p><hr/><p>Over-reliance on high-level abstractions and theoretical patterns leads some developers to focus on complex architectural challenges at the expense of practical utility. Such individuals often produce software that fails to address the immediate, fundamental needs of the end user.</p><p>Industry hype frequently accompanies new software architectures that offer little more than new formats for existing protocols. Highly complex, architecturally-driven alternatives often lack the immediate utility found in simpler services, prioritizing technical elegance over meaningful functional improvements.</p><p><img src="https://www.archimetric.com/wp-content/uploads/2026/04/img_69eeb7c47b714.png" /></p><hr/><small>19 Sep 2026, 15:12 UTC | #21675</small>]]></content>
-  </entry>
 </feed>

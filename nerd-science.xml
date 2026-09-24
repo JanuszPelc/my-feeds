@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-24T01:19:00+00:00</updated>
+  <updated>2026-09-24T04:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>OpenAI's Navier-Stokes Solution Faces Criticism Over Problem Formulation</title>
+    <link href="https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/" rel="alternate" />
+    <id>https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/::v239</id>
+    <published>2026-09-24T04:48:00+00:00</published>
+    <updated>2026-09-24T04:48:00+00:00</updated>
+    <media:thumbnail url="https://cdn-images-1.medium.com/max/800/1*mcYRN-fAopnbvPhRKSBQFQ.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/">scientificamerican.com</a> | <a href="https://openai.com/index/navier-stokes-solution/">source</a> | <a href="https://lobste.rs/s/wiuzrg/did_openai_solve_wrong_navier_stokes">discussion</a> | <a href="https://news.ycombinator.com/item?id=49613262">hacker news</a></small></p><hr/><p>OpenAI recently claimed to have solved the Navier-Stokes problem, one of the Millennium Prize problems, using an internal large language model. However, mathematicians argue the solution only addresses a specific variant involving an external force, failing to solve the fundamental question of whether fluid flows can "blow up" naturally without such external influences.</p><p>Recent research suggests that OpenAI's method may not extend to the unforced version of the problem, potentially limiting its mathematical significance. The controversy underscores a distinction between AI's capacity to find explicit solutions within vast search spaces and its current struggle to develop new mathematical theory.</p><p><img src="https://cdn-images-1.medium.com/max/800/1*mcYRN-fAopnbvPhRKSBQFQ.png" /></p><hr/><small>24 Sep 2026, 12:24 UTC | #22205</small>]]></content>
+  </entry>
   <entry>
     <title>Hacker News Political Bias and Moderation Analysis</title>
     <link href="https://drewdevault.com/blog/Why-is-HN-like-that/" rel="alternate" />
