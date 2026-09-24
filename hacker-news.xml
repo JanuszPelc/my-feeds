@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-23T18:24:00+00:00</updated>
+  <updated>2026-09-23T20:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Inko Introduces Sandboxing API</title>
+    <link href="https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/" rel="alternate" />
+    <id>https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/::v239</id>
+    <published>2026-09-23T20:05:00+00:00</published>
+    <updated>2026-09-23T20:05:00+00:00</updated>
+    <media:thumbnail url="https://www.docker.com/app/uploads/2026/04/image9-1640x549.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/">yorickpeterse.com</a> | <a href="https://lobste.rs/s/zji8bf/sandboxing_with_minimal_effort">discussion</a></small></p><hr/><p>The Inko programming language has introduced a new sandboxing API designed to restrict application capabilities, such as file system and network access, with minimal code changes. The API provides a cross-platform abstraction that leverages OS-specific security primitives, including Landlock on Linux and `sandbox_init` on macOS.</p><p>While the API simplifies security implementation on Linux and macOS, it faces architectural challenges on FreeBSD. Because the Capsicum framework requires developers to manage resource access before entering a sandbox, the API effectively acts as a no-op on FreeBSD unless the application's structure is significantly modified to accommodate the framework's requirements.</p><p><img src="https://www.docker.com/app/uploads/2026/04/image9-1640x549.png" /></p><hr/><small>24 Sep 2026, 01:39 UTC | #22159</small>]]></content>
+  </entry>
   <entry>
     <title>Implementing the First Futamura Projection via Partial Evaluation</title>
     <link href="https://blog.veitheller.de/A_First_Futamura_Projection.html" rel="alternate" />
