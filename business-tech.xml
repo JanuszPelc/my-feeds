@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T04:24:00+00:00</updated>
+  <updated>2026-09-24T04:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Flock Camera Systems Face Congressional Scrutiny Over Privacy and Security Concerns</title>
+    <link href="https://www.nextgov.com/emerging-tech/2026/09/flock-camera-systems-receive-bipartisan-scrutiny-senators/416178/" rel="alternate" />
+    <id>https://www.nextgov.com/emerging-tech/2026/09/flock-camera-systems-receive-bipartisan-scrutiny-senators/416178/::v239</id>
+    <published>2026-09-24T04:25:00+00:00</published>
+    <updated>2026-09-24T04:25:00+00:00</updated>
+    <media:thumbnail url="https://cdn.nextgov.com/media/img/cd/2026/09/23/GettyImages_2295044775/860x394.jpg?1790202250" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nextgov.com/emerging-tech/2026/09/flock-camera-systems-receive-bipartisan-scrutiny-senators/416178/">nextgov.com</a> | <a href="https://www.judiciary.senate.gov/committee-activity/hearings/always-watching-flocks-nationwide-ai-surveillance-network">source</a></small></p><hr/><p>The Senate Judiciary Subcommittee on Crime and Counterterrorism has criticized Flock and other automatic license plate reader (ALPR) systems, arguing they enable warrantless searches and lack sufficient cybersecurity protections. Lawmakers and witnesses raised concerns regarding the potential misuse of data to track individuals seeking reproductive healthcare or to assist in immigration enforcement.</p><p>Proposed solutions include the implementation of federal data privacy laws and requirements for warrants to access historical location data. In response to recent scrutiny, Flock has implemented new guardrails, such as requiring users to provide case numbers and justifications when performing database searches.</p><p><img src="https://cdn.nextgov.com/media/img/cd/2026/09/23/GettyImages_2295044775/860x394.jpg?1790202250" /></p><hr/><small>24 Sep 2026, 09:36 UTC | #22164</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Introduces Opt-Out for AI Training on Smart Glasses Visual Data</title>
     <link href="https://www.engadget.com/2267227/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/" rel="alternate" />
@@ -1029,14 +1038,5 @@
     <updated>2026-09-19T13:50:00+00:00</updated>
     <media:thumbnail url="https://storage.googleapis.com/dopingcloud/blog/en/2022/04/Country-Domains.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://astrid.tech/2022/04/05/0/dead-tlds/">astrid.tech</a> | <a href="https://lobste.rs/s/q75kgo/what_happens_tlds_when_their_country">discussion</a></small></p><hr/><p>This article examines the fate of country code top-level domains (ccTLDs) during significant geopolitical shifts, such as state dissolution, annexation, or government changes. Historical examples including the collapse of the Soviet Union (.su), the breakup of Yugoslavia (.yu), and the reunification of Germany (.dd) show that domains may be terminated, transferred to successor states, or left in administrative limbo.</p><p>The outcome of a TLD's existence is tied to ICANN and IANA's recognition of a territory's governmental authority. The author suggests that modern geopolitical tensions in regions like Taiwan, Ukraine, and Hong Kong may result in TLD changes, where domain control serves as a tool for political recognition or the erasure of sovereignty.</p><p><img src="https://storage.googleapis.com/dopingcloud/blog/en/2022/04/Country-Domains.png" /></p><hr/><small>19 Sep 2026, 18:37 UTC | #21695</small>]]></content>
-  </entry>
-  <entry>
-    <title>Wopke Hoekstra Rejects EU-wide Digital Services Tax Pending Global Multilateral Agreement</title>
-    <link href="https://www.ft.com/content/e5a76494-71df-4ee0-a85f-b28f2c94ded6" rel="alternate" />
-    <id>https://www.ft.com/content/e5a76494-71df-4ee0-a85f-b28f2c94ded6::v239</id>
-    <published>2026-09-19T09:23:00+00:00</published>
-    <updated>2026-09-19T09:23:00+00:00</updated>
-    <media:thumbnail url="https://www.euractiv.com/content/uploads/sites/2/2026/02/Hoekstra-1182x788.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/e5a76494-71df-4ee0-a85f-b28f2c94ded6">ft.com</a></small></p><hr/><p>European Commissioner Wopke Hoekstra has rejected calls for an EU-wide digital services tax, asserting that such measures should only be pursued after all global taxation possibilities are exhausted. This stance comes in response to increasing pressure from member states, including France, to implement regional levies on large technology firms.</p><p>The decision signals a commitment to a multilateral approach to taxing the digital economy, intended to prevent tax fragmentation within the European Union. This strategy relies on international cooperation to create unified rules for multinational digital enterprises rather than individual regional mandates.</p><p><img src="https://www.euractiv.com/content/uploads/sites/2/2026/02/Hoekstra-1182x788.jpg" /></p><hr/><small>19 Sep 2026, 13:02 UTC | #21657</small>]]></content>
   </entry>
 </feed>
