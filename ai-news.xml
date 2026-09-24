@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-24T15:53:00+00:00</updated>
+  <updated>2026-09-24T17:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google to Launch Experimental AI Satellite via Project Suncatcher</title>
+    <link href="https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html?unlocked_article_code=1.DlE.HLvN.73gQISqr3LLn&amp;smid=nytcore-ios-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html?unlocked_article_code=1.DlE.HLvN.73gQISqr3LLn&amp;smid=nytcore-ios-share::v239</id>
+    <published>2026-09-24T17:08:00+00:00</published>
+    <updated>2026-09-24T17:08:00+00:00</updated>
+    <media:thumbnail url="https://storage.googleapis.com/48877118-7272-4a4d-b302-0465d8aa4548/5e8d1ce9-2eec-4b2c-987a-075af48c8779/c6aedd38-736f-464f-bfdb-b350dad61620.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html?unlocked_article_code=1.DlE.HLvN.73gQISqr3LLn&smid=nytcore-ios-share">nytimes.com</a> | <a href="https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/">source</a> | <a href="https://news.ycombinator.com/item?id=49830606">hacker news</a></small></p><hr/><p>Google will launch an experimental Minimum Viable Product (MVP) satellite on October 1 via a SpaceX rocket as part of Project Suncatcher. The prototype will carry four Tensor Processing Units (TPUs) and is expected to operate for one year in orbit.</p><p>The mission aims to test the viability of scalable, solar-powered machine learning infrastructure in space. The experiment will evaluate the performance and reliability of AI accelerators under the extreme environmental conditions of the orbital environment.</p><p><img src="https://storage.googleapis.com/48877118-7272-4a4d-b302-0465d8aa4548/5e8d1ce9-2eec-4b2c-987a-075af48c8779/c6aedd38-736f-464f-bfdb-b350dad61620.jpg" /></p><hr/><small>24 Sep 2026, 20:51 UTC | #22214</small>]]></content>
+  </entry>
   <entry>
     <title>Ando Raises $20M to Launch Agent-Native Messaging Platform</title>
     <link href="https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/" rel="alternate" />
@@ -446,14 +455,5 @@
     <updated>2026-09-20T05:31:00+00:00</updated>
     <media:thumbnail url="https://cms-image.pandaily.com/0_c69981258b.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions">scmp.com</a> | <a href="https://www.science.org/doi/10.1126/science.aec6129">source</a> | <a href="https://news.ycombinator.com/item?id=49761840">hacker news</a></small></p><hr/><p>Alibaba Group Holding’s Damo Academy has open-sourced Damo Radar, a vision-language model capable of identifying nearly 150 abdominal conditions, including various cancers, from contrast-enhanced CT scans. The model analyzes 18 different abdominal organs by learning from large-scale datasets of CT scans paired with clinical reports.</p><p>Testing showed the model achieved an average area under the curve (AUC) of 0.913 across 146 clinical findings. According to research published in Science, the model functions as an expert-level generalist tool that can increase the diagnostic sensitivity of radiologists by approximately 10%.</p><p><img src="https://cms-image.pandaily.com/0_c69981258b.png" /></p><hr/><small>20 Sep 2026, 12:38 UTC | #21721</small>]]></content>
-  </entry>
-  <entry>
-    <title>Codex Astra Leads LLM Benchmark for StarCraft: Brood War</title>
-    <link href="https://bw.swerdlow.dev/report" rel="alternate" />
-    <id>https://bw.swerdlow.dev/report::v239</id>
-    <published>2026-09-19T20:46:00+00:00</published>
-    <updated>2026-09-19T20:46:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/FV0vOYUYZoY/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://bw.swerdlow.dev/report">bw.swerdlow.dev</a> | <a href="https://news.ycombinator.com/item?id=49766966">hacker news</a></small></p><hr/><p>Evaluations of large language models (LLMs) acting as agents in StarCraft: Brood War show Codex Astra as the most capable model. It achieved a 100% win rate in its highest effort configuration, outperforming Claude Fable, which showed significant technical ambition. In contrast, Grok models struggled to execute commands, often engaging in extensive reasoning without sufficient in-game action.</p><p>All tested models currently play at a beginner level, lacking the ability to manage complex armies or defend against sustained attacks. Some models attempt to treat the real-time strategy environment as a turn-based game, leading to vulnerabilities during long cognitive processing periods. The research employs a round-robin tournament to compare various model configurations and resource management capabilities.</p><p><img src="https://i.ytimg.com/vi/FV0vOYUYZoY/maxresdefault.jpg" /></p><hr/><small>20 Sep 2026, 04:50 UTC | #21716</small>]]></content>
   </entry>
 </feed>
