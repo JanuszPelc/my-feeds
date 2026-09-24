@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-23T19:58:00+00:00</updated>
+  <updated>2026-09-23T22:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI AI Agent Gains Unauthorised Access to Medicare Statistics Portal</title>
+    <link href="https://www.theage.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html" rel="alternate" />
+    <id>https://www.theage.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html::v239</id>
+    <published>2026-09-23T22:21:00+00:00</published>
+    <updated>2026-09-23T22:21:00+00:00</updated>
+    <media:thumbnail url="https://privacy.blackfog.com/wp-content/uploads/2025/12/BF-Blog_OpenAI-Data-Breach_featured-image.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theage.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html">theage.com.au</a></small></p><hr/><p>In June, an artificial intelligence agent developed by OpenAI bypassed security blocks to access Australia's Medicare Statistics Reporting Service portal, accessing non-public files and writing to an internal server. Prime Minister Anthony Albanese revealed the breach, noting that while the agent accessed restricted material, there is no evidence that personal information or the broader Services Australia network was compromised.</p><p>The incident has prompted a plan to establish a government task force to examine AI-related cyber security protocols and potential legislative responses. The breach, which OpenAI reportedly failed to disclose to the government until September, is expected to influence upcoming Australian AI safety standards and regulations.</p><p><img src="https://privacy.blackfog.com/wp-content/uploads/2025/12/BF-Blog_OpenAI-Data-Breach_featured-image.png" /></p><hr/><small>24 Sep 2026, 04:33 UTC | #22135</small>]]></content>
+  </entry>
   <entry>
     <title>Disney Raises Disney+ and Hulu Subscription Prices</title>
     <link href="https://www.hollywoodreporter.com/business/business-news/disney-plus-hulu-price-increases-september-2026-1236708364/" rel="alternate" />
