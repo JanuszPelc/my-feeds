@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-24T04:19:00+00:00</updated>
+  <updated>2026-09-24T04:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Meta Announces Feature Updates and International Expansion for Ray-Ban Display Smart Glasses</title>
+    <link href="https://www.engadget.com/2267220/meta-ray-ban-display-getting-feature-updates-including-holographic-avatar-support/" rel="alternate" />
+    <id>https://www.engadget.com/2267220/meta-ray-ban-display-getting-feature-updates-including-holographic-avatar-support/::v239</id>
+    <published>2026-09-24T04:20:00+00:00</published>
+    <updated>2026-09-24T04:20:00+00:00</updated>
+    <media:thumbnail url="https://www.engadget.com/img/gallery/meta-ray-ban-display-getting-feature-updates-including-holographic-avatar-support/intro-1790195119.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2267220/meta-ray-ban-display-getting-feature-updates-including-holographic-avatar-support/">engadget.com</a> | <a href="https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/">source</a></small></p><hr/><p>Meta's Ray-Ban Display smart glasses will receive feature updates including photorealistic holographic avatars for calls, powered by Meta AI to mimic user expressions. Navigation updates will include hands-free directions for cycling and public transit, as well as conversational instructions based on environmental landmarks. A new Explore app will also be introduced to facilitate browsing available applications.</p><p>The glasses are expanding into five new markets: the UK, Canada, France, Italy, and Germany. Additional updates include the integration of Dolby Atmos audio, in-display photo editing capabilities, and improved calendar and notification mirroring.</p><p><img src="https://www.engadget.com/img/gallery/meta-ray-ban-display-getting-feature-updates-including-holographic-avatar-support/intro-1790195119.jpg" /></p><hr/><small>24 Sep 2026, 08:48 UTC | #22162</small>]]></content>
+  </entry>
   <entry>
     <title>Windows Scroll Bar Shortcuts: A Brief History</title>
     <link href="https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/" rel="alternate" />
