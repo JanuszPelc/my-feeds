@@ -7,6 +7,24 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>UTAW Releases 2026 Tech Workers' Inquiry on Generative AI's Workplace Impact</title>
+    <link href="https://techworkersinquiry.org/ai/" rel="alternate" />
+    <id>https://techworkersinquiry.org/ai/::v239</id>
+    <published>2026-09-24T17:42:00+00:00</published>
+    <updated>2026-09-24T17:42:00+00:00</updated>
+    <media:thumbnail url="https://trendfeedr.com/wp-content/uploads/reports/og_images/ai-workers_image_og.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://techworkersinquiry.org/ai/">techworkersinquiry.org</a> | <a href="https://lobste.rs/s/uxvwlo/ai_workers_inquiry_2026">discussion</a> | <a href="https://news.ycombinator.com/item?id=49834235">hacker news</a></small></p><hr/><p>The UTAW Tech Workers’ Inquiry 2026 report examines how generative AI is reshaping the tech sector from the perspective of those building, deploying, and managing the technology. The report argues that AI deployment often intensifies work, increases employee monitoring, and leads to deskilling or the erosion of junior roles. It contends that the most significant workplace issues arise from how employers control and measure AI use rather than the technical limitations of the models themselves.</p><p>To address these concerns, the inquiry proposes the creation of a statutory regulatory authority for AI at work with the power to investigate and sanction employers. Other recommendations include granting workers the legal right to refuse AI tools without penalty, mandating meaningful consultation before deployment, and protecting junior career pathways from AI-driven replacement. The report also calls for greater transparency regarding the environmental and social costs of AI systems.</p><p><img src="https://trendfeedr.com/wp-content/uploads/reports/og_images/ai-workers_image_og.jpg" /></p><hr/><small>24 Sep 2026, 22:02 UTC | #22277</small>]]></content>
+  </entry>
+  <entry>
+    <title>White House Memo Targets Effective Altruism and Anthropic CEO Dario Amodei</title>
+    <link href="https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei" rel="alternate" />
+    <id>https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei::v239</id>
+    <published>2026-09-24T17:16:00+00:00</published>
+    <updated>2026-09-24T17:16:00+00:00</updated>
+    <media:thumbnail url="https://pdf.stafforini.com/muehlhauser-2022-effective-altruism-as.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/24/trump-anthropic-ai-doomerism-dario-amodei">axios.com</a> | <a href="https://news.ycombinator.com/item?id=49829312">hacker news</a></small></p><hr/><p>A recent White House memo describes the effective altruism movement as a "fringe, dangerous cult" responsible for creating an "AI-doom pipeline." The document identifies Anthropic CEO Dario Amodei as a core figurehead within the movement and a prominent proponent of AI "doomerism."</p><p>This development reflects an effort by President Trump's allies to combat philosophies that prioritize existential risks to humanity over the acceleration of AI technology. The targeting of Amodei underscores the increasing politicization of AI safety and regulatory debates.</p><p><img src="https://pdf.stafforini.com/muehlhauser-2022-effective-altruism-as.png" /></p><hr/><small>24 Sep 2026, 21:55 UTC | #22229</small>]]></content>
+  </entry>
+  <entry>
     <title>Amazon to Build $100 Million Robotics Manufacturing Facility in Indiana</title>
     <link href="https://www.wsj.com/tech/amazon-to-expand-robot-making-capacity-with-new-100-million-indiana-hub-87fce322?st=BayjT8&amp;reflink=desktopwebshare_permalink" rel="alternate" />
     <id>https://www.wsj.com/tech/amazon-to-expand-robot-making-capacity-with-new-100-million-indiana-hub-87fce322?st=BayjT8&amp;reflink=desktopwebshare_permalink::v239</id>
