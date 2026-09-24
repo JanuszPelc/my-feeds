@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-23T23:41:00+00:00</updated>
+  <updated>2026-09-23T23:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>BGP Hijack Targets Softaculous and Virtualizor</title>
+    <link href="https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/" rel="alternate" />
+    <id>https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/::v239</id>
+    <published>2026-09-23T23:45:00+00:00</published>
+    <updated>2026-09-23T23:45:00+00:00</updated>
+    <media:thumbnail url="https://www.hawkhost.com/kb/images/cpanel/softaculous-option.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.apnic.net/2026/09/22/latest-bgp-hijack-targets-hosting-software-vendor/">blog.apnic.net</a> | <a href="https://www.virtualizor.com/blog/security-incident-bgp-hijacking/">source</a> | <a href="https://lobste.rs/s/eqme8i/latest_bgp_hijack_targets_hosting">discussion</a> | <a href="https://news.ycombinator.com/item?id=49814940">hacker news</a></small></p><hr/><p>In August 2026, a Border Gateway Protocol (BGP) hijack targeted Softaculous Ltd—the developer of Virtualizor—to distribute malicious software updates. Attackers announced a more specific 162.55.80.0/24 prefix within Hetzner Online's (AS24940) address space, using a forged AS path to maintain RPKI validity. This allowed the adversary to intercept certificate validation traffic, obtain valid TLS certificates, and deliver a compromised Virtualizor update to a subset of users.</p><p>The incident illustrates how widespread BGP hijacks can bypass Multi-Perspective Issuance Corroboration (MPIC) by providing a controlled quorum of validation viewpoints to Certificate Authorities. To mitigate such risks, experts suggest that networks use strict Route Origin Authorizations (ROAs) that match the `maxLength` attribute to the actual routed prefix, rather than allowing overly broad prefixes.</p><p><img src="https://www.hawkhost.com/kb/images/cpanel/softaculous-option.png" /></p><hr/><small>24 Sep 2026, 05:41 UTC | #22177</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Introduces Camera-Free Ray-Ban Meta Audio AI Glasses</title>
     <link href="https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/" rel="alternate" />
