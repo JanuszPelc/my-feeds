@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T11:56:00+00:00</updated>
+  <updated>2026-09-24T15:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple Restricts Advanced Data Protection in the UK Following Encryption Dispute</title>
+    <link href="https://macanorak.com/two-tier-encryption-in-the-uk/" rel="alternate" />
+    <id>https://macanorak.com/two-tier-encryption-in-the-uk/::v239</id>
+    <published>2026-09-24T15:34:00+00:00</published>
+    <updated>2026-09-24T15:34:00+00:00</updated>
+    <media:thumbnail url="https://macanorak.com/content/images/size/w1200/2026/09/Two-Tier-Encrypyion-Cover-Image.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://macanorak.com/two-tier-encryption-in-the-uk/">macanorak.com</a> | <a href="https://news.ycombinator.com/item?id=49828731">hacker news</a></small></p><hr/><p>Apple has implemented a two-tier encryption system for iCloud users in the United Kingdom following a dispute with the UK government. While existing users who enabled Advanced Data Protection (ADP) retain end-to-end encryption for various sensitive data categories, Apple has prevented new UK users from activating the feature. This follows a reported Technical Capability Notice issued under the Investigatory Powers Act 2016, which requested that Apple ensure the technical capability to access encrypted data.</p><p>The decision stems from Apple's refusal to implement a "master key" or backdoor, maintaining its policy that weakening encryption for one purpose compromises all users. The dispute has led to legal challenges in the Investigatory Powers Tribunal and prompted U.S. lawmakers to criticize the use of secret orders that potentially impact global technology standards. The current arrangement creates a security disparity for UK residents based on whether they opted into ADP before the restriction.</p><p><img src="https://macanorak.com/content/images/size/w1200/2026/09/Two-Tier-Encrypyion-Cover-Image.png" /></p><hr/><small>24 Sep 2026, 18:08 UTC | #22249</small>]]></content>
+  </entry>
+  <entry>
+    <title>AI Benchmarking Services Identify Salary Discrepancies</title>
+    <link href="https://www.wsj.com/lifestyle/careers/the-invisible-way-companies-are-using-ai-to-set-salaries-ad3f74a8?st=qyqV2p&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/lifestyle/careers/the-invisible-way-companies-are-using-ai-to-set-salaries-ad3f74a8?st=qyqV2p&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-09-24T15:31:00+00:00</published>
+    <updated>2026-09-24T15:31:00+00:00</updated>
+    <media:thumbnail url="https://isupportworldwide.com/wp-content/uploads/2026/02/OFFSHO2.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/lifestyle/careers/the-invisible-way-companies-are-using-ai-to-set-salaries-ad3f74a8?st=qyqV2p&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Employers are increasingly utilizing these tools to aggregate public job listings and payroll data to identify compensation gaps. Such services allow companies to pinpoint which employees are being paid too much or too little relative to current market rates.</p><p>This real-time data collection provides a more dynamic alternative to traditional, annual salary surveys. This capability allows organizations to better manage pay equity and align compensation with shifting market trends.</p><p><img src="https://isupportworldwide.com/wp-content/uploads/2026/02/OFFSHO2.jpg" /></p><hr/><small>24 Sep 2026, 17:59 UTC | #22197</small>]]></content>
+  </entry>
   <entry>
     <title>Western Leaders Seek Global AI Supervisory Regime</title>
     <link href="https://www.wsj.com/tech/ai/the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-821396d3?st=NSDYQu&amp;reflink=desktopwebshare_permalink" rel="alternate" />
@@ -1029,14 +1047,5 @@
     <updated>2026-09-19T19:58:00+00:00</updated>
     <media:thumbnail url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/1200/675/trump-ai-race.jpg?ve=1&amp;tl=1" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/">techcrunch.com</a></small></p><hr/><p>Donald Trump has proposed rebranding artificial intelligence with names such as "Superior Intelligence" or "Supreme Intelligence" and announced plans to establish an "AI Force." He characterized recent AI safety concerns as political hoaxes and indicated he intends to appoint an "AI Czar" to oversee the industry.</p><p>These statements come amid an escalating debate over AI safety and the potential risks of rapid technological development. While some industry leaders have dismissed claims of an impending slowdown, critics and researchers continue to argue for increased regulation and safeguards.</p><p><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/1200/675/trump-ai-race.jpg?ve=1&tl=1" /></p><hr/><small>20 Sep 2026, 01:08 UTC | #21698</small>]]></content>
-  </entry>
-  <entry>
-    <title>DraftKings Uses AI to Target Bettors Most Likely to Lose</title>
-    <link href="https://www.nytimes.com/2026/09/19/business/draftkings-ai.html?unlocked_article_code=1.CVE.9v0l.IfNa4oho1eM4&amp;smid=bs-share" rel="alternate" />
-    <id>https://www.nytimes.com/2026/09/19/business/draftkings-ai.html?unlocked_article_code=1.CVE.9v0l.IfNa4oho1eM4&amp;smid=bs-share::v239</id>
-    <published>2026-09-19T17:46:00+00:00</published>
-    <updated>2026-09-19T17:46:00+00:00</updated>
-    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25jpvI.img?w=768&amp;h=432&amp;m=6" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/19/business/draftkings-ai.html?unlocked_article_code=1.CVE.9v0l.IfNa4oho1eM4&smid=bs-share">nytimes.com</a></small></p><hr/><p>DraftKings uses machine learning to identify bettors most likely to incur losses and targets them with promotional incentives to encourage continued gambling. While the company employs data science to optimize revenue from these segments, former employees report that predictive models designed to identify and flag gambling addiction risks have been suppressed or shelved.</p><p>The prioritization of revenue-maximizing AI over harm-reduction technology highlights the ethical and regulatory complexities of using predictive analytics in the gambling industry. These findings raise concerns about whether data-driven marketing strategies exploit behavioral patterns in vulnerable users to increase profitability.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25jpvI.img?w=768&h=432&m=6" /></p><hr/><small>20 Sep 2026, 00:48 UTC | #21692</small>]]></content>
   </entry>
 </feed>

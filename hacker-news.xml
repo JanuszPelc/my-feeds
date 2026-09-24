@@ -938,13 +938,4 @@
     <media:thumbnail url="https://brix365.com/en/help/ecm/full-text-search-1.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://planetscale.com/blog/introducing-tin">planetscale.com</a> | <a href="https://news.ycombinator.com/item?id=49766611">hacker news</a></small></p><hr/><p>TIN (Text INdex) is a high-performance full-text search extension for Postgres and Neki databases. It supports Boolean, phrase, and span queries, as well as fuzzy, wildcard, and regular-expression matching. The extension is currently available as a general availability (GA) release.</p><p>The tool utilizes Postgres `ctid` values as document identifiers to enable vectorized operations and minimize the overhead of mapping separate identifier systems. Performance benchmarks indicate that TIN provides significantly higher throughput and lower latency than existing solutions like ParadeDB and pg_textsearch, particularly during concurrent read and write workloads.</p><p><img src="https://brix365.com/en/help/ecm/full-text-search-1.png" /></p><hr/><small>20 Sep 2026, 03:10 UTC | #21712</small>]]></content>
   </entry>
-  <entry>
-    <title>LispBM Offers Concurrent Lisp for Microcontrollers</title>
-    <link href="https://www.lispbm.com/" rel="alternate" />
-    <id>https://www.lispbm.com/::v239</id>
-    <published>2026-09-19T17:50:00+00:00</published>
-    <updated>2026-09-19T17:50:00+00:00</updated>
-    <media:thumbnail url="https://www.lispbm.com/images/platforms/esp32c3.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.lispbm.com/">lispbm.com</a> | <a href="https://lobste.rs/s/upvrzs/lispbm_concurrent_lisp_for">discussion</a> | <a href="https://news.ycombinator.com/item?id=49733523">hacker news</a></small></p><hr/><p>Utilizing concurrency and message passing models inspired by Erlang, this Lisp implementation is designed for microcontroller environments. It features pattern matching and process monitoring to facilitate embedded development.</p><p>Developers can test the language via a WebAssembly-based REPL or access documentation and source code on GitHub. The project supports platforms such as ESP32 and STM32.</p><p><img src="https://www.lispbm.com/images/platforms/esp32c3.jpg" /></p><hr/><small>20 Sep 2026, 01:06 UTC | #21711</small>]]></content>
-  </entry>
 </feed>
