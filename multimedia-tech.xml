@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-24T17:14:00+00:00</updated>
+  <updated>2026-09-24T17:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Google Photos Launches AI-Powered Virtual Closet Feature</title>
+    <link href="https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/::v239</id>
+    <published>2026-09-24T17:45:00+00:00</published>
+    <updated>2026-09-24T17:45:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/google-photos-closet2.jpg?w=645" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/">techcrunch.com</a> | <a href="https://blog.google/products-and-platforms/products/photos/google-photos-wardrobe-feature/">source</a></small></p><hr/><p>This feature, available to Android and iOS users in the U.S., Brazil, and India, uses artificial intelligence to scan photos and catalog clothing into a digital wardrobe. Users can then filter items by category and mix and match outfits within the app.</p><p>The rollout includes several other updates, such as the Gemini Spark prompt-based photo editing tool and an upgraded Markup tool for redacting sensitive information. Google has stated that clothing data used for the feature is not shared with third-party retailers.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/google-photos-closet2.jpg?w=645" /></p><hr/><small>24 Sep 2026, 22:20 UTC | #22247</small>]]></content>
+  </entry>
   <entry>
     <title>Bastardica Tool Enables Font Mixing and Transformation</title>
     <link href="https://bastardica.mitpit.com" rel="alternate" />
