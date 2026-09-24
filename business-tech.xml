@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T04:25:00+00:00</updated>
+  <updated>2026-09-24T05:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>FSSAI Initiates Penal Action Against Major E-commerce Platforms</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-23/amazon-swiggy-among-firms-facing-india-food-regulator-s-action" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-23/amazon-swiggy-among-firms-facing-india-food-regulator-s-action::v239</id>
+    <published>2026-09-24T05:46:00+00:00</published>
+    <updated>2026-09-24T05:46:00+00:00</updated>
+    <media:thumbnail url="https://data1.ibtimes.co.in/en/full/834491/govt-sends-fresh-notices-food-companiesfinds-lotte-choco-pies-100-vegetarian-claim-be.png?h=450&amp;l=50&amp;t=40" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-23/amazon-swiggy-among-firms-facing-india-food-regulator-s-action">bloomberg.com</a></small></p><hr/><p>India's Food Safety and Standards Authority (FSSAI) has launched penal proceedings against several major online retailers and quick-commerce platforms, including Amazon, Flipkart India, Swiggy Instamart, Bigbasket, and Zepto. The regulator's action is based on allegations of misbranding, misleading claims, and the sale of prohibited or poisonous food products.</p><p>The crackdown stems from findings of regulatory non-compliance, specifically involving products such as Happilo Premium Date Bites. This move marks an increase in government oversight within India's digital food and grocery marketplaces.</p><p><img src="https://data1.ibtimes.co.in/en/full/834491/govt-sends-fresh-notices-food-companiesfinds-lotte-choco-pies-100-vegetarian-claim-be.png?h=450&l=50&t=40" /></p><hr/><small>24 Sep 2026, 12:51 UTC | #22178</small>]]></content>
+  </entry>
+  <entry>
+    <title>Cisco's Jeetu Patel Discusses AI Infrastructure Deals and Competition</title>
+    <link href="https://www.ft.com/content/ade21fa5-3610-48ad-8699-d96afbe85e86" rel="alternate" />
+    <id>https://www.ft.com/content/ade21fa5-3610-48ad-8699-d96afbe85e86::v239</id>
+    <published>2026-09-24T05:42:00+00:00</published>
+    <updated>2026-09-24T05:42:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/_5N4JGVEf5c/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/ade21fa5-3610-48ad-8699-d96afbe85e86">ft.com</a></small></p><hr/><p>Cisco President and CPO Jeetu Patel discusses the company's multi-billion dollar networking deals aimed at powering AI infrastructure. He addresses the complex relationship with partners like Nvidia, which involves navigating both strategic collaboration and market competition within the AI sector.</p><p>The conversation explores Cisco's strategy to capitalize on a major enterprise hardware refresh cycle driven by artificial intelligence. Patel also examines the technological risks associated with rapid AI deployment and how Cisco intends to secure the massive scale of infrastructure required for these new workloads.</p><p><img src="https://i.ytimg.com/vi/_5N4JGVEf5c/maxresdefault.jpg" /></p><hr/><small>24 Sep 2026, 12:50 UTC | #22179</small>]]></content>
+  </entry>
   <entry>
     <title>Flock Camera Systems Face Congressional Scrutiny Over Privacy and Security Concerns</title>
     <link href="https://www.nextgov.com/emerging-tech/2026/09/flock-camera-systems-receive-bipartisan-scrutiny-senators/416178/" rel="alternate" />
