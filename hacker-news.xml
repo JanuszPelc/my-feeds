@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-24T04:31:00+00:00</updated>
+  <updated>2026-09-24T11:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Analysis of VSCode's Remote-SSH Agent Architecture and Security</title>
+    <link href="https://fly.io/blog/vscode-ssh-wtf/" rel="alternate" />
+    <id>https://fly.io/blog/vscode-ssh-wtf/::v239</id>
+    <published>2026-09-24T11:38:00+00:00</published>
+    <updated>2026-09-24T11:38:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/cOopQQIL8JU/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fly.io/blog/vscode-ssh-wtf/">fly.io</a> | <a href="https://news.ycombinator.com/item?id=49822555">hacker news</a></small></p><hr/><p>Thomas Ptacek critiques the security architecture of Visual Studio Code's Remote-SSH extension, noting that it operates differently than lightweight remote editing protocols like Emacs' Tramp. VSCode installs a standalone agent and Node.js binary on the remote machine via SSH, granting the process the ability to traverse the filesystem, edit files, and execute shell processes.</p><p>This implementation is highlighted as a potential risk for developers using remote servers, particularly as the rise of LLM-driven coding agents increases the demand for isolated, transient execution environments. The ability of the VSCode agent to persist and execute processes may compromise the security boundaries intended for remote development sessions.</p><p><img src="https://i.ytimg.com/vi/cOopQQIL8JU/maxresdefault.jpg" /></p><hr/><small>24 Sep 2026, 15:01 UTC | #22224</small>]]></content>
+  </entry>
   <entry>
     <title>Qualcomm Announces Snapdragon Sound Elite Gen 2 for AI Audio Wearables</title>
     <link href="https://9to5google.com/2026/09/23/qualcomm-announces-snapdragon-sound-elite-gen-2/" rel="alternate" />
