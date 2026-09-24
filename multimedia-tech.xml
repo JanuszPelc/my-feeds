@@ -123,13 +123,4 @@
     <media:thumbnail url="https://openloco.io/assets/img/25.09/rdstatl3.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://openloco.io/news/2026/09/openloco-v26.09.html">openloco.io</a> | <a href="https://lobste.rs/s/c0ei1a/openloco_version_26_09">discussion</a></small></p><hr/><p>OpenLoco version 26.09 introduces a significant content update via its Open Graphics sub-project, focusing on the North American Expansion. This release adds dozens of new assets, including various locomotives, passenger cars, buses, and station objects, while also reworking sprites and models for several existing vehicles.</p><p>The update also brings quality-of-life improvements such as dimension tooltips for building tools and enhanced Linux support through new data directory locations and an AppImage build. Additional changes include a toolbar rework to prepare for widescreen layout support and various bug fixes related to signal placement and scenario exploits.</p><p><img src="https://openloco.io/assets/img/25.09/rdstatl3.png" /></p><hr/><small>19 Sep 2026, 18:18 UTC | #21693</small>]]></content>
   </entry>
-  <entry>
-    <title>Using Specific Design Styles to Create Diverse AI-Generated Event Posters</title>
-    <link href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html" rel="alternate" />
-    <id>https://john.hartnup.uk/2026/06/07/ai-event-posters.html::v239</id>
-    <published>2026-09-19T09:21:00+00:00</published>
-    <updated>2026-09-19T09:21:00+00:00</updated>
-    <media:thumbnail url="https://john.hartnup.uk/images/poster-ugly-collage.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">john.hartnup.uk</a> | <a href="https://news.ycombinator.com/item?id=49764791">hacker news</a></small></p><hr/><p>Generic AI prompts for event posters often produce repetitive and predictable "twee" aesthetics. By instructing models like ChatGPT to utilize specific design languages—such as Bauhaus, Memphis, or Japanese minimalism—users can bypass default stylistic templates to generate significantly more varied and visually striking layouts.</p><p>The experimentation demonstrates that providing precise aesthetic descriptors helps move AI-generated content away from common "craft fair" motifs toward more curated and professional-looking designs. The article also suggests that leveraging models capable of generating editable formats like HTML or SVG can provide even more control for professional designers.</p><p><img src="https://john.hartnup.uk/images/poster-ugly-collage.webp" /></p><hr/><small>19 Sep 2026, 12:11 UTC | #21665</small>]]></content>
-  </entry>
 </feed>
