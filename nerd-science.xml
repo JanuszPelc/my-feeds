@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-24T11:35:00+00:00</updated>
+  <updated>2026-09-24T11:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Evan Meagher on the Risks of Over-Relying on Metaphors</title>
+    <link href="https://evnm.substack.com/p/beware-overreliance-on-metaphor" rel="alternate" />
+    <id>https://evnm.substack.com/p/beware-overreliance-on-metaphor::v239</id>
+    <published>2026-09-24T11:45:00+00:00</published>
+    <updated>2026-09-24T11:45:00+00:00</updated>
+    <media:thumbnail url="https://idiominsider.com/wp-content/uploads/2025/05/metaphors-for-your-brain.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://evnm.substack.com/p/beware-overreliance-on-metaphor">evnm.substack.com</a> | <a href="https://lobste.rs/s/vmd3gy/beware_overreliance_on_metaphor">discussion</a></small></p><hr/><p>Evan Meagher argues that while metaphors facilitate conceptual understanding, over-reliance on them can lead to circularity and incomplete models. He critiques the common comparison of the brain to a computer, noting that metaphors serve as simplified maps that inevitably obscure the actual complexity of the biological territory.</p><p>The essay traces the progression of brain-related metaphors, from 17th-century clockwork and hydraulic models to contemporary computational theories. Meagher posits that the current computational model may be as partial an understanding as the technological metaphors of previous centuries.</p><p><img src="https://idiominsider.com/wp-content/uploads/2025/05/metaphors-for-your-brain.jpg" /></p><hr/><small>24 Sep 2026, 16:07 UTC | #22237</small>]]></content>
+  </entry>
   <entry>
     <title>Dan Cîmpianu Advocates Building an Obsidian Second Brain to Counteract AI Unreliability</title>
     <link href="https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/" rel="alternate" />
