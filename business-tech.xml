@@ -3,9 +3,36 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T15:34:00+00:00</updated>
+  <updated>2026-09-24T15:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Conversations Instant Messaging Client Becomes Free via F-Droid</title>
+    <link href="https://gultsch.de/posts/breaking-up-with-google-play/" rel="alternate" />
+    <id>https://gultsch.de/posts/breaking-up-with-google-play/::v239</id>
+    <published>2026-09-24T15:40:00+00:00</published>
+    <updated>2026-09-24T15:40:00+00:00</updated>
+    <media:thumbnail url="https://gultsch.de/posts/conversations_revenue.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://gultsch.de/posts/breaking-up-with-google-play/">gultsch.de</a> | <a href="https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why">discussion</a> | <a href="https://news.ycombinator.com/item?id=49831430">hacker news</a></small></p><hr/><p>Conversations, a federated instant messaging client for Android, is transitioning to a free distribution model by shifting its primary platform from the Google Play Store to F-Droid. This concludes the app's twelve-year history as a paid product on the Google Play Store.</p><p>The decision follows persistent issues with Google Play’s app review delays, arbitrary rejections, and lack of direct human support. The developer's revenue model has shifted from Play Store sales to institutional grants from organizations such as NLnet and the European Commission.</p><p><img src="https://gultsch.de/posts/conversations_revenue.png" /></p><hr/><small>24 Sep 2026, 18:41 UTC | #22243</small>]]></content>
+  </entry>
+  <entry>
+    <title>TechNet Challenges Proposed $103,265 H-1B Visa Application Fee</title>
+    <link href="https://www.wsj.com/politics/policy/tech-industry-calls-on-trump-administration-to-withdraw-new-h-1b-visa-fee-dcf918f8?st=sA44Gd&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/politics/policy/tech-industry-calls-on-trump-administration-to-withdraw-new-h-1b-visa-fee-dcf918f8?st=sA44Gd&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-09-24T15:37:00+00:00</published>
+    <updated>2026-09-24T15:37:00+00:00</updated>
+    <media:thumbnail url="https://static.wixstatic.com/media/c2aabf_985519cee1d14ecd93a082b322d02bad~mv2.jpg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/c2aabf_985519cee1d14ecd93a082b322d02bad~mv2.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/politics/policy/tech-industry-calls-on-trump-administration-to-withdraw-new-h-1b-visa-fee-dcf918f8?st=sA44Gd&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.federalregister.gov/documents/2026/08/25/2026-17324/fee-for-certain-h-1b-petitions">source</a></small></p><hr/><p>TechNet has filed a formal comment with the U.S. Department of Homeland Security (DHS) to protest a proposal to charge $103,265 for most new H-1B visa applications. The technology industry group is calling on the administration to withdraw the rule, which would significantly increase costs for hiring highly skilled foreign professionals.</p><p>The proposed fee would apply to all cap-subject H-1B petitions, including those eligible for advanced degree exemptions, and would be required at the time of filing. The charge would be levied in addition to all other existing application fees and payments.</p><p><img src="https://static.wixstatic.com/media/c2aabf_985519cee1d14ecd93a082b322d02bad~mv2.jpg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/c2aabf_985519cee1d14ecd93a082b322d02bad~mv2.jpg" /></p><hr/><small>24 Sep 2026, 18:36 UTC | #22201</small>]]></content>
+  </entry>
+  <entry>
+    <title>Tencent Launches TenPayGo Payment App for International Visitors to China</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-24/tencent-offers-payment-app-for-visitors-to-china-to-rival-ant" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-24/tencent-offers-payment-app-for-visitors-to-china-to-rival-ant::v239</id>
+    <published>2026-09-24T15:35:00+00:00</published>
+    <updated>2026-09-24T15:35:00+00:00</updated>
+    <media:thumbnail url="https://image.winudf.com/v2/image1/Y29tLnRlbmNlbnQud3hwYWlfc2NyZWVuXzJfMTc4MjkxODkxM18wOTc/screen-2.jpg?fakeurl=1&amp;type=.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-24/tencent-offers-payment-app-for-visitors-to-china-to-rival-ant">bloomberg.com</a></small></p><hr/><p>Tencent Holdings Ltd. has launched TenPayGo, a standalone mobile payment application designed for international travelers visiting China. The app enables users to pay tens of millions of merchants within the WeChat Pay network using Visa, Mastercard, and Apple Pay, bypassing the need for a local Chinese phone number or bank account.</p><p>The launch aims to capture China's growing inbound tourism market and directly challenges rival Ant Group. This expansion of digital services comes ahead of the 2026 APEC summit in Shenzhen to simplify transactions for overseas visitors.</p><p><img src="https://image.winudf.com/v2/image1/Y29tLnRlbmNlbnQud3hwYWlfc2NyZWVuXzJfMTc4MjkxODkxM18wOTc/screen-2.jpg?fakeurl=1&type=.jpg" /></p><hr/><small>24 Sep 2026, 18:31 UTC | #22199</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Restricts Advanced Data Protection in the UK Following Encryption Dispute</title>
     <link href="https://macanorak.com/two-tier-encryption-in-the-uk/" rel="alternate" />

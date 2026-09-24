@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-24T12:26:00+00:00</updated>
+  <updated>2026-09-24T15:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Box Of Rules Releases Box Of Synths Beta</title>
+    <link href="https://bedroomproducersblog.com/2026/09/24/box-of-synths-beta/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/24/box-of-synths-beta/::v239</id>
+    <published>2026-09-24T15:39:00+00:00</published>
+    <updated>2026-09-24T15:39:00+00:00</updated>
+    <media:thumbnail url="https://synthanatomy.com/wp-content/uploads/2026/06/Sonic-Charge-PhenoType-Synplant-2-Synth.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/24/box-of-synths-beta/">bedroomproducersblog.com</a> | <a href="https://boxofsynths.com/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/24/box-of-synths-beta/#respond">discussion</a></small></p><hr/><p>Box Of Rules has released the beta version of Box Of Synths, a free synthesizer plugin that generates editable audio patches from written text descriptions.</p><p>The software is currently in a closed beta phase, and new account registrations are temporarily disabled. This project follows the developer's previous releases, Picking Fingers and Box Of Bass.</p><p><img src="https://synthanatomy.com/wp-content/uploads/2026/06/Sonic-Charge-PhenoType-Synplant-2-Synth.jpg" /></p><hr/><small>24 Sep 2026, 18:40 UTC | #22218</small>]]></content>
+  </entry>
+  <entry>
+    <title>Soundpaint 5.0 Update Includes Built-in Sample Editor</title>
+    <link href="https://www.kvraudio.com/news/soundpaint-5-0-released---new-built-in-sample-editor-68712?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68712" rel="alternate" />
+    <id>https://www.kvraudio.com/news/soundpaint-5-0-released---new-built-in-sample-editor-68712?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68712::v239</id>
+    <published>2026-09-24T15:38:00+00:00</published>
+    <updated>2026-09-24T15:38:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/soundpaint_ui.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/soundpaint-5-0-released---new-built-in-sample-editor-68712?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68712">kvraudio.com</a> | <a href="https://soundpaint.com/">source</a></small></p><hr/><p>This version for macOS and Windows introduces "Brush," a built-in sample editor, alongside a new arpeggiator capable of 2000 steps. The release also includes new racks such as Micro Tune and Round Robin, and several new effect modules like transient and limiter controls.</p><p>The update also features an optional looper engine designed to emulate a vintage recording studio with five parallel tape machines. Other enhancements include improved performance, stability, and a more intuitive user account and downloader interface.</p><p><img src="https://static.kvraudio.com/i/b/soundpaint_ui.jpg" /></p><hr/><small>24 Sep 2026, 18:38 UTC | #22212</small>]]></content>
+  </entry>
   <entry>
     <title>Exo Audio Releases COLOR One-Knob Harmonizer</title>
     <link href="https://bedroomproducersblog.com/2026/09/24/exo-audio-color/" rel="alternate" />
