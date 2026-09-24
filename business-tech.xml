@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T00:49:00+00:00</updated>
+  <updated>2026-09-24T04:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Trump Administration Targets AI and Data Center Critics as Potential Foreign Agents</title>
+    <link href="https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign" rel="alternate" />
+    <id>https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign::v239</id>
+    <published>2026-09-24T04:18:00+00:00</published>
+    <updated>2026-09-24T04:18:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!HqSQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F597f5afa-4bae-4a2a-aa5b-48f84d0525e7_8161x5441.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign">kenklippenstein.com</a> | <a href="https://news.ycombinator.com/item?id=49824686">hacker news</a></small></p><hr/><p>The Trump administration and the Department of Justice have signaled that public opposition to artificial intelligence and the expansion of data centers may be investigated as foreign influence operations. This follows social media posts from President Trump and formal requests from Congressional leaders to investigate whether domestic protesters are acting as unregistered agents for foreign powers.</p><p>This scrutiny coincides with significant domestic resistance to AI infrastructure, with Gallup polling indicating that 71% of Americans oppose building data centers in their local areas. The administration has warned that public demonstrations deemed to further foreign goals could face criminal liability under the Foreign Agents Registration Act (FARA).</p><p><img src="https://substackcdn.com/image/fetch/$s_!HqSQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F597f5afa-4bae-4a2a-aa5b-48f84d0525e7_8161x5441.jpeg" /></p><hr/><small>24 Sep 2026, 08:30 UTC | #22187</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Claims Apple's ChatGPT Integration Underperformed</title>
     <link href="https://www.ft.com/content/256c4b36-a6c8-49ee-aa15-81cb089b2ced" rel="alternate" />
