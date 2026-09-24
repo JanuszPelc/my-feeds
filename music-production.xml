@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-24T11:55:00+00:00</updated>
+  <updated>2026-09-24T12:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Exo Audio Releases COLOR One-Knob Harmonizer</title>
+    <link href="https://bedroomproducersblog.com/2026/09/24/exo-audio-color/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/24/exo-audio-color/::v239</id>
+    <published>2026-09-24T12:26:00+00:00</published>
+    <updated>2026-09-24T12:26:00+00:00</updated>
+    <media:thumbnail url="https://routenote.com/blog/wp-content/uploads/2023/12/BLEASS-Voices-–-up-your-vocal-game-with-this-vocal-harmonizer-RouteNote-Blog.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/24/exo-audio-color/">bedroomproducersblog.com</a> | <a href="https://exoaudio.com/plugins/color">source</a> | <a href="https://bedroomproducersblog.com/2026/09/24/exo-audio-color/#comments">discussion</a></small></p><hr/><p>Exo Audio has released COLOR, a free one-knob harmonizer plugin for macOS and Windows. The software supports VST3 and AU formats, enabling users to apply harmonies to audio tracks by selecting a musical key and adjusting a single control.</p><p>The plugin facilitates the addition of harmonic layers to vocals or instrument tracks. It functions by pitch-shifting input signals in real time to align with the chosen key.</p><p><img src="https://routenote.com/blog/wp-content/uploads/2023/12/BLEASS-Voices-–-up-your-vocal-game-with-this-vocal-harmonizer-RouteNote-Blog.jpg" /></p><hr/><small>24 Sep 2026, 17:36 UTC | #22219</small>]]></content>
+  </entry>
   <entry>
     <title>Detune iOS App Teaches Synthesis and Music Theory via Interactive Lessons</title>
     <link href="https://www.kvraudio.com/news/detune-ios-app-that-teaches-synthesis-and-music-theory-by-ear-68639?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68639" rel="alternate" />
