@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-25T01:06:00+00:00</updated>
+  <updated>2026-09-25T01:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Massachusetts Gaming Commission to Investigate AI Use by Betting Companies</title>
+    <link href="https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html?unlocked_article_code=1.DlE.5Ayg.3f3R9qmq3YiM&amp;smid=bs-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html?unlocked_article_code=1.DlE.5Ayg.3f3R9qmq3YiM&amp;smid=bs-share::v239</id>
+    <published>2026-09-25T01:41:00+00:00</published>
+    <updated>2026-09-25T01:41:00+00:00</updated>
+    <media:thumbnail url="https://media.dotesports.com/wp-content/uploads/2025/08/draftkings-wrigley-field.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html?unlocked_article_code=1.DlE.5Ayg.3f3R9qmq3YiM&smid=bs-share">nytimes.com</a></small></p><hr/><p>The Massachusetts Gaming Commission will evaluate how DraftKings and other licensed betting companies in the state deploy artificial intelligence. This decision follows a New York Times investigation into the industry's use of the technology.</p><p>The review will focus on whether AI tools are being used to increase gambling addiction or to target customers with promotions based on personal data. Massachusetts law prohibits the use of automated systems that are reasonably expected to make gambling more addictive.</p><p><img src="https://media.dotesports.com/wp-content/uploads/2025/08/draftkings-wrigley-field.jpg" /></p><hr/><small>25 Sep 2026, 08:55 UTC | #22290</small>]]></content>
+  </entry>
   <entry>
     <title>Blue Cross Blue Shield Claims AI-Driven Hospital Billing Caused $1B in Extra Costs</title>
     <link href="https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html?unlocked_article_code=1.DlE.PFlH.ftkxDtVPfZyg&amp;smid=nytcore-android-share" rel="alternate" />
