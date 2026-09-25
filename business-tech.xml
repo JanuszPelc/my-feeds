@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T19:27:00+00:00</updated>
+  <updated>2026-09-24T20:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amazon Adds Multichannel Management for eBay, Shopify, TikTok, and Walmart to Seller Central</title>
+    <link href="https://www.geekwire.com/2026/amazon-will-let-sellers-manage-walmart-ebay-shopify-and-tiktok-sales-from-their-amazon-dashboards/" rel="alternate" />
+    <id>https://www.geekwire.com/2026/amazon-will-let-sellers-manage-walmart-ebay-shopify-and-tiktok-sales-from-their-amazon-dashboards/::v239</id>
+    <published>2026-09-24T20:41:00+00:00</published>
+    <updated>2026-09-24T20:41:00+00:00</updated>
+    <media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/09/mary-beth-2026.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.geekwire.com/2026/amazon-will-let-sellers-manage-walmart-ebay-shopify-and-tiktok-sales-from-their-amazon-dashboards/">geekwire.com</a> | <a href="https://www.aboutamazon.com/news/small-business/amazon-seller-central-multichannel-selling-tools">source</a></small></p><hr/><p>Amazon is introducing multichannel selling tools to its Seller Central dashboard, allowing merchants to manage sales for eBay, Shopify, TikTok, and Walmart from a single interface. The feature, which is rolling out gradually to U.S. sellers at no extra cost, will initially enable users to link accounts, import listings, and view and fulfill orders across different platforms.</p><p>The move aims to streamline workflows for the 95% of Amazon sellers who already operate across multiple sales channels. While the integration places Amazon in direct competition with specialized multichannel software providers like Rithum, the company has stated that data from these rival platforms will be restricted to the specific seller and will not be used to inform Amazon's own retail business or product development.</p><p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/09/mary-beth-2026.jpg" /></p><hr/><small>25 Sep 2026, 00:01 UTC | #22245</small>]]></content>
+  </entry>
   <entry>
     <title>Natalie Francis Named Managing Director of Massive Entertainment</title>
     <link href="https://www.gamedeveloper.com/business/former-avalanche-studios-chief-natalie-francis-joins-massive-entertainment-as-managing-director" rel="alternate" />
@@ -1155,14 +1164,5 @@
     <updated>2026-09-20T03:06:00+00:00</updated>
     <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1THy85.img?w=768&amp;h=512&amp;m=6&amp;x=498&amp;y=92&amp;s=112&amp;d=112" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html?unlocked_article_code=1.CVE.Deu4.e3uZQO5XHVDZ&smid=bs-share">nytimes.com</a></small></p><hr/><p>California's new legislation imposes fines of up to $5,000 per post on creators who fail to disclose paid political sponsorships. The law requires influencers to clearly identify the payor when posting compensated content that supports or opposes a candidate or ballot measure.</p><p>This measure is part of a broader legislative package focused on election security and social media regulation. It seeks to increase transparency as political campaigns increasingly use influencers to reach voters on digital platforms.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1THy85.img?w=768&h=512&m=6&x=498&y=92&s=112&d=112" /></p><hr/><small>20 Sep 2026, 10:13 UTC | #21713</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI Kill Switch Legislation Faces Technical Implementation Challenges</title>
-    <link href="https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html?unlocked_article_code=1.CVE.rpX7.JmRRyyhR-A_2&amp;smid=nytcore-ios-share" rel="alternate" />
-    <id>https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html?unlocked_article_code=1.CVE.rpX7.JmRRyyhR-A_2&amp;smid=nytcore-ios-share::v239</id>
-    <published>2026-09-19T23:51:00+00:00</published>
-    <updated>2026-09-19T23:51:00+00:00</updated>
-    <media:thumbnail url="https://www.miniorange.com/blog/assets/2026/the-4-layer-of-an-ai-kill.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html?unlocked_article_code=1.CVE.rpX7.JmRRyyhR-A_2&smid=nytcore-ios-share">nytimes.com</a></small></p><hr/><p>Implementing "kill switch" mechanisms to shut down rogue artificial intelligence systems is more technically difficult than current legislative proposals suggest, according to experts. While lawmakers have proposed methods to power down AI models, researchers caution that advanced systems might be able to actively dismantle or bypass these safeguards.</p><p>The discussion stems from bipartisan efforts in Congress to establish emergency shutdown authorities for advanced AI. Technical experts highlight that the decentralized nature of AI infrastructure makes finding a single, centralized "plug" to pull highly impractical for enforcing mandatory shutdown orders.</p><p><img src="https://www.miniorange.com/blog/assets/2026/the-4-layer-of-an-ai-kill.webp" /></p><hr/><small>20 Sep 2026, 06:52 UTC | #21708</small>]]></content>
   </entry>
 </feed>
