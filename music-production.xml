@@ -3,9 +3,72 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-25T14:18:00+00:00</updated>
+  <updated>2026-09-25T14:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Mixed In Key Releases Wingman 3.0 Plugin</title>
+    <link href="https://www.kvraudio.com/news/mixed-in-key-releases-wingman-3-0-chord-generator-plugin-68722?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68722" rel="alternate" />
+    <id>https://www.kvraudio.com/news/mixed-in-key-releases-wingman-3-0-chord-generator-plugin-68722?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68722::v239</id>
+    <published>2026-09-25T14:47:00+00:00</published>
+    <updated>2026-09-25T14:47:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/wingman-3-ui.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/mixed-in-key-releases-wingman-3-0-chord-generator-plugin-68722?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68722">kvraudio.com</a> | <a href="https://mixedinkey.com/wingman/press-release-version-3-0/">source</a></small></p><hr/><p>Mixed In Key has released Wingman 3.0, a plugin that analyzes audio from a Digital Audio Workstation (DAW) to suggest complementary chord progressions, bass lines, guitar parts, and drums.</p><p>The update introduces genre-specific drum sounds, vintage and modern guitar performances, and advanced chord editing. It is available for macOS and Windows in VST3, AU, and AAX formats for $49, with free updates for existing owners.</p><p><img src="https://static.kvraudio.com/i/b/wingman-3-ui.png" /></p><hr/><small>25 Sep 2026, 20:16 UTC | #22331</small>]]></content>
+  </entry>
+  <entry>
+    <title>Unusable Engineering Releases Residual Breakdown Distortion Plugin</title>
+    <link href="https://www.kvraudio.com/news/unusable-engineering-releases-residual-breakdown-distortion-plugin-vst3-and-au-68725?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68725" rel="alternate" />
+    <id>https://www.kvraudio.com/news/unusable-engineering-releases-residual-breakdown-distortion-plugin-vst3-and-au-68725?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68725::v239</id>
+    <published>2026-09-25T14:44:00+00:00</published>
+    <updated>2026-09-25T14:44:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/residual-guitar.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/unusable-engineering-releases-residual-breakdown-distortion-plugin-vst3-and-au-68725?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68725">kvraudio.com</a> | <a href="https://www.unusable.net/effects/residual-breakdown/">source</a></small></p><hr/><p>Available for macOS and Windows in VST3 and AU formats, Residual Breakdown is a distortion plugin based on a three-transistor fuzz circuit. The effect features unstable self-oscillation that can be quantized using MTS-ESP support.</p><p>The plugin's signal path consists of tilt EQ, fuzz, a 2-band parametric EQ, and a tube-style limiter. Users can sequence various distortion and EQ states through an integrated eight-slot sequencer. The tool is priced at €29 and is also included in the Emulated Effects and Full Suite v2.</p><p><img src="https://static.kvraudio.com/i/b/residual-guitar.jpg" /></p><hr/><small>25 Sep 2026, 20:15 UTC | #22326</small>]]></content>
+  </entry>
+  <entry>
+    <title>Autodafe Updates Vintage Emulator Studio to v0.9.289.2</title>
+    <link href="https://www.kvraudio.com/news/autodafe-updates-vintage-emulator-studio-ves-to-v0-9-289-2-68726?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68726" rel="alternate" />
+    <id>https://www.kvraudio.com/news/autodafe-updates-vintage-emulator-studio-ves-to-v0-9-289-2-68726?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68726::v239</id>
+    <published>2026-09-25T14:42:00+00:00</published>
+    <updated>2026-09-25T14:42:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/ves_screens_small.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/autodafe-updates-vintage-emulator-studio-ves-to-v0-9-289-2-68726?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68726">kvraudio.com</a> | <a href="https://www.autodafe.net/vintage-emulator-studio.html">source</a></small></p><hr/><p>Autodafe has released version 0.9.289.2 of Vintage Emulator Studio (VES), a maintenance update for the MAME-based virtual instrument environment. The update primarily addresses audio latency, CPU usage, and the stability of plugin state save and restore functions.</p><p>New features include a MIDI Panic Button and a Background Color setting, alongside fixes for MIDI instability and video rendering efficiency. Because the software lacks an automatic updater, users must manually download the new version from their Autodafe accounts.</p><p><img src="https://static.kvraudio.com/i/b/ves_screens_small.png" /></p><hr/><small>25 Sep 2026, 20:13 UTC | #22327</small>]]></content>
+  </entry>
+  <entry>
+    <title>ILIO Releases Free Sines Demo Pack for Omnisphere 3</title>
+    <link href="https://bedroomproducersblog.com/2026/09/25/ilio-sines-presets/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/25/ilio-sines-presets/::v239</id>
+    <published>2026-09-25T14:31:00+00:00</published>
+    <updated>2026-09-25T14:31:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/KVOzqMW_gEA/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/25/ilio-sines-presets/">bedroomproducersblog.com</a> | <a href="https://www.ilio.com/sines-demo">source</a> | <a href="https://bedroomproducersblog.com/2026/09/25/ilio-sines-presets/#respond">discussion</a></small></p><hr/><p>A free 10-patch demo of the Sines Mini Pack for Omnisphere 3 is available from ILIO and producer LifeStyleDidIt, marking their first Omnisphere collaboration. The collection features sounds specifically designed for R&amp;B and Trap Soul music production.</p><p>The full $19 edition contains 44 patches and seven Multis, which include original samples recorded by LifeStyleDidIt. The library offers separate downloads optimized for both Omnisphere 2 and Omnisphere 3.</p><p><img src="https://i.ytimg.com/vi/KVOzqMW_gEA/maxresdefault.jpg" /></p><hr/><small>25 Sep 2026, 20:09 UTC | #22374</small>]]></content>
+  </entry>
+  <entry>
+    <title>Thenatan DIAL Plugin Available Free for 72 Hours</title>
+    <link href="https://bedroomproducersblog.com/2026/09/25/thenatan-dial-radio-free/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/25/thenatan-dial-radio-free/::v239</id>
+    <published>2026-09-25T14:30:00+00:00</published>
+    <updated>2026-09-25T14:30:00+00:00</updated>
+    <media:thumbnail url="https://musicsoftwaredeals.com/wp-content/uploads/2026/05/ad8766ad26c22f3ebfe875696d16a6fa310520261780192081.png" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/25/thenatan-dial-radio-free/">bedroomproducersblog.com</a> | <a href="https://www.thenatan.store/p/dial-lofi-radio-plugin/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/25/thenatan-dial-radio-free/#comments">discussion</a></small></p><hr/><p>Thenatan is offering its DIAL radio signal designer plugin for free for a 72-hour period. The plugin allows users to emulate vintage radio tuning, including static, crackle, and signal drift.</p><p>Compatible with macOS and Windows, the plugin supports VST, VST3, and Audio Unit formats. It features four radio models, AM/FM bands, and 64 presets.</p><p><img src="https://musicsoftwaredeals.com/wp-content/uploads/2026/05/ad8766ad26c22f3ebfe875696d16a6fa310520261780192081.png" /></p><hr/><small>25 Sep 2026, 20:05 UTC | #22373</small>]]></content>
+  </entry>
+  <entry>
+    <title>Parallel Minds Releases Atavism Spectral Effect Plug-in</title>
+    <link href="https://www.kvraudio.com/news/parallel-minds-releases-atavism---spectral-effect-plug-in-that-makes-a-pad-out-of-the-track-itself-vst3-and-au-68727?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68727" rel="alternate" />
+    <id>https://www.kvraudio.com/news/parallel-minds-releases-atavism---spectral-effect-plug-in-that-makes-a-pad-out-of-the-track-itself-vst3-and-au-68727?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68727::v239</id>
+    <published>2026-09-25T14:27:00+00:00</published>
+    <updated>2026-09-25T14:27:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/atavism-1-window-on-plate-1600x900.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/parallel-minds-releases-atavism---spectral-effect-plug-in-that-makes-a-pad-out-of-the-track-itself-vst3-and-au-68727?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68727">kvraudio.com</a> | <a href="https://parallel-minds.studio/products/atavism">source</a></small></p><hr/><p>Parallel Minds has released Atavism, a spectral effect plug-in for macOS and Windows. The software uses spectral processing to transform audio tracks into harmonic pads by isolating sustained notes and filtering out percussive transients.</p><p>Designed primarily for music for picture, the plugin allows composers to generate ambient beds from existing audio cues through a single-knob interface. It includes pulsation and shimmer controls and features a low-latency "Short mode" for live performance applications.</p><p><img src="https://static.kvraudio.com/i/b/atavism-1-window-on-plate-1600x900.jpg" /></p><hr/><small>25 Sep 2026, 19:51 UTC | #22328</small>]]></content>
+  </entry>
+  <entry>
+    <title>Rue Blose Releases Free Oppressor Multiband and Spectral Sidechain Compressor</title>
+    <link href="https://bedroomproducersblog.com/2026/09/25/rue-blose-oppressor/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/25/rue-blose-oppressor/::v239</id>
+    <published>2026-09-25T14:26:00+00:00</published>
+    <updated>2026-09-25T14:26:00+00:00</updated>
+    <media:thumbnail url="https://5piecemusic.com/wp-content/uploads/2019/03/sidechain-compression.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/25/rue-blose-oppressor/">bedroomproducersblog.com</a> | <a href="https://rueblose.gumroad.com/l/oppressor">source</a> | <a href="https://bedroomproducersblog.com/2026/09/25/rue-blose-oppressor/#comments">discussion</a></small></p><hr/><p>This free multiband and spectral sidechain compressor for macOS and Windows allows producers to resolve frequency clashes by ducking only the specific frequency ranges of a target track that overlap with a trigger signal. This method avoids reducing the entire signal's volume, allowing for more precise control over mix elements like kick drums and basslines.</p><p>The plugin offers two distinct processing engines: a zero-latency multiband sidechain mode and a higher-latency spectral sidechain mode. It is intended for common mixing tasks such as carving space for a kick drum within an 808 bassline or managing harsh resonances on a bus.</p><p><img src="https://5piecemusic.com/wp-content/uploads/2019/03/sidechain-compression.jpg" /></p><hr/><small>25 Sep 2026, 19:50 UTC | #22370</small>]]></content>
+  </entry>
   <entry>
     <title>FunkyKatAudio Releases FKA AutoWah v2.5.4 with MainStage Compatibility</title>
     <link href="https://www.kvraudio.com/news/funkykataudio-updates-fka-autowah-to-v2-5-4-with-mainstage-compatibility-68606?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68606" rel="alternate" />
