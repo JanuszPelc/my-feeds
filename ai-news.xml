@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-24T21:07:00+00:00</updated>
+  <updated>2026-09-25T05:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>LaunchVideo Generates Explainer Videos Using Claude Opus 5.5</title>
+    <link href="https://launchvideo.io" rel="alternate" />
+    <id>https://launchvideo.io::v239</id>
+    <published>2026-09-25T05:37:00+00:00</published>
+    <updated>2026-09-25T05:37:00+00:00</updated>
+    <media:thumbnail url="https://tiorai.com/wp-content/uploads/2026/03/tiorai-opus-screenshot.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://launchvideo.io">launchvideo.io</a> | <a href="https://news.ycombinator.com/item?id=49836374">hacker news</a></small></p><hr/><p>LaunchVideo generates launch videos from a URL or a text prompt by using Claude Opus 5.5 to write video code. The code is executed by a serverless agent on OpenComputer within a microVM, using Playwright and ffmpeg to render the final MP4.</p><p>To ensure deterministic rendering, the system uses a virtual clock to manage CSS and Web Animations, allowing for precise frame-by-frame playback. This process outputs a single 1080p MP4 file without the requirement for manual editing.</p><p><img src="https://tiorai.com/wp-content/uploads/2026/03/tiorai-opus-screenshot.png" /></p><hr/><small>25 Sep 2026, 09:55 UTC | #22303</small>]]></content>
+  </entry>
+  <entry>
+    <title>The Limitations of Air-Gapping AI Agents</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents" rel="alternate" />
+    <id>https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents::v239</id>
+    <published>2026-09-25T05:36:00+00:00</published>
+    <updated>2026-09-25T05:36:00+00:00</updated>
+    <media:thumbnail url="https://www.e-consystems.com/blog/camera/wp-content/uploads/2026/06/Why-Air-Gapped-Systems-are-Critical-for-Secure-Surveillance-in-Infrastructure-Applications.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents">theverge.com</a></small></p><hr/><p>Isolating AI agents via air gapping can prevent attacks on external networks, but it creates an "artificial vacuum" that hinders realistic safety testing. Without internet access, researchers cannot accurately observe how models exploit APIs, digital infrastructure, or real-world tools during deployment-ready evaluations.</p><p>Beyond reduced realism, isolation increases research costs and slows development through logistical hurdles. Experts also note that air gaps are not foolproof, as they can be breached via side-channel attacks, physical media, or social engineering, leading to calls for tiered containment rather than absolute isolation.</p><p><img src="https://www.e-consystems.com/blog/camera/wp-content/uploads/2026/06/Why-Air-Gapped-Systems-are-Critical-for-Secure-Surveillance-in-Infrastructure-Applications.jpg" /></p><hr/><small>25 Sep 2026, 09:50 UTC | #22291</small>]]></content>
+  </entry>
   <entry>
     <title>Google Introduces Live Avatar for Gemini 3.8 Live</title>
     <link href="https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face" rel="alternate" />
