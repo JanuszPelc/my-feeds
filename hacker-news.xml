@@ -947,22 +947,4 @@
     <media:thumbnail url="https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/arrange.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/">andre.arko.net</a> | <a href="https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem">discussion</a></small></p><hr/><p>The Jujutsu (jj) version control system ecosystem is evolving through new core commands, advanced configuration options, and expanding third-party tooling. Recent core additions like `jj run`, `jj converge`, and `jj arrange` automate complex workflows that previously required external scripts or manual Git processes.</p><p>Beyond core functionality, the ecosystem features custom subcommand aliases and integrations with forges including GitHub, Radicle, and Tangled. Several dedicated graphical user interfaces, such as `gg`, `JayJay`, and `lightjj`, have also been developed to support the unique Jujutsu workflow.</p><p><img src="https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/arrange.png" /></p><hr/><small>20 Sep 2026, 15:27 UTC | #21743</small>]]></content>
   </entry>
-  <entry>
-    <title>Unit Testing as a Code Protection Mechanism</title>
-    <link href="https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html" rel="alternate" />
-    <id>https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html::v239</id>
-    <published>2026-09-20T10:12:00+00:00</published>
-    <updated>2026-09-20T10:12:00+00:00</updated>
-    <media:thumbnail url="https://uploads-ssl.webflow.com/60380e12c35a520886d5782f/635ffd1e38a81b51d2ba8db7_TestingTable.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yosefk.com/blog/unit-tests-mark-territory-more-than-squash-bugs.html">yosefk.com</a> | <a href="https://lobste.rs/s/mkv2pl/unit_tests_mark_territory_more_than">discussion</a></small></p><hr/><p>Rather than discovering complex bugs, unit testing serves primarily as a mechanism to prevent unintended code alterations in environments of shared ownership and high-velocity change. Most critical errors arise from component interactions or require vast input distributions, making them difficult for the narrow, hardcoded inputs of unit tests to detect.</p><p>The proliferation of unit testing correlates with the mainstream adoption of distributed version control systems and continuous integration. While hardware engineering prioritizes bug elimination through randomized and integration testing, software development often prioritizes velocity, using unit tests as a social and technical guardrail to maintain code structure amidst constant modification.</p><p><img src="https://uploads-ssl.webflow.com/60380e12c35a520886d5782f/635ffd1e38a81b51d2ba8db7_TestingTable.png" /></p><hr/><small>20 Sep 2026, 14:36 UTC | #21741</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Engineer Factors RSA-896 Using Claude</title>
-    <link href="https://saweis.net/posts/rsa-896.html" rel="alternate" />
-    <id>https://saweis.net/posts/rsa-896.html::v239</id>
-    <published>2026-09-20T10:11:00+00:00</published>
-    <updated>2026-09-20T10:11:00+00:00</updated>
-    <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/949680731/original/fa33625960/1?v=1" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://saweis.net/posts/rsa-896.html">saweis.net</a> | <a href="https://news.ycombinator.com/item?id=49771966">hacker news</a></small></p><hr/><p>Anthropic engineer Stephen A. Weis has factored the 896-bit RSA challenge number, RSA-896, using the Claude AI model. By adapting open-source code to run on 2,048 GPUs, the computation completed 30 GPU-years of work in approximately 10 days.</p><p>This achievement establishes a new public record for AI-assisted cryptography, surpassing the previous 829-bit record set in 2020. The success highlights the utility of large language models in optimizing intensive computational tasks and orchestrating distributed hardware for complex mathematical problems.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/949680731/original/fa33625960/1?v=1" /></p><hr/><small>20 Sep 2026, 14:32 UTC | #21740</small>]]></content>
-  </entry>
 </feed>

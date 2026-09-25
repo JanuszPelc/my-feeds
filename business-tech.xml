@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-25T01:41:00+00:00</updated>
+  <updated>2026-09-25T05:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Robert O'Callahan Resigns From Google Citing AI Safety Concerns</title>
+    <link href="https://robert.ocallahan.org/2026/09/goodbye-google.html" rel="alternate" />
+    <id>https://robert.ocallahan.org/2026/09/goodbye-google.html::v239</id>
+    <published>2026-09-25T05:52:00+00:00</published>
+    <updated>2026-09-25T05:52:00+00:00</updated>
+    <media:thumbnail url="https://uploads-kickresume-com.s3.amazonaws.com/editor-uploads/2023/03/20/simple-resignation-email.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://robert.ocallahan.org/2026/09/goodbye-google.html">robert.ocallahan.org</a> | <a href="https://lobste.rs/s/sxlf4a/goodbye_google">discussion</a> | <a href="https://news.ycombinator.com/item?id=49840314">hacker news</a></small></p><hr/><p>Robert O'Callahan has announced his resignation from Google, stating that his work on hardware chip design tools inadvertently accelerates AI development at a pace he considers irresponsible. Because Google lacks alternative engineering teams in New Zealand that do not focus on AI acceleration, O'Callahan stated he could not remain with the company while addressing his ethical concerns.</p><p>O'Callahan cited concerns regarding the rapid pace of AI development, specifically mentioning the potential for existential risks, social disruption, and cognitive surrender. He intends to continue maintaining the Pernosco and rr debugging tools and plans to investigate how AI agents use debugging tools.</p><p><img src="https://uploads-kickresume-com.s3.amazonaws.com/editor-uploads/2023/03/20/simple-resignation-email.png" /></p><hr/><small>25 Sep 2026, 10:14 UTC | #22305</small>]]></content>
+  </entry>
   <entry>
     <title>Massachusetts Gaming Commission to Investigate AI Use by Betting Companies</title>
     <link href="https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html?unlocked_article_code=1.DlE.5Ayg.3f3R9qmq3YiM&amp;smid=bs-share" rel="alternate" />
@@ -1218,14 +1227,5 @@
     <updated>2026-09-20T10:58:00+00:00</updated>
     <media:thumbnail url="https://www.assemblyrequired.co/bills/HB26-1263/opengraph-image?2d83f419590066ea" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google">npr.org</a></small></p><hr/><p>Tech companies, including Google, are collaborating on the drafting of state-level AI chatbot safety laws that contain provisions critics argue create significant regulatory loopholes. These exemptions could potentially shield major products—such as Google's Gemini or OpenAI's ChatGPT—from regulations by categorizing them as developer tools or search engine components.</p><p>This trend is appearing across several states, including Hawaii and Washington, as the U.S. lacks federal regulation for AI systems. While lawmakers state that industry input is required to ensure laws are enforceable, advocates warn that these concessions leave minors vulnerable to sexual grooming and mental health risks from conversational AI.</p><p><img src="https://www.assemblyrequired.co/bills/HB26-1263/opengraph-image?2d83f419590066ea" /></p><hr/><small>20 Sep 2026, 16:09 UTC | #21727</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI Training Practices Threaten Open Source and Creative Commons</title>
-    <link href="https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/" rel="alternate" />
-    <id>https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/::v239</id>
-    <published>2026-09-20T10:08:00+00:00</published>
-    <updated>2026-09-20T10:08:00+00:00</updated>
-    <media:thumbnail url="https://www.insightsonindia.com/wp-content/uploads/2025/12/Generative-AI-Copyright-1024x576.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/">chesterwisniewski.com</a> | <a href="https://news.ycombinator.com/item?id=49774329">hacker news</a></small></p><hr/><p>Generative AI models consume online data without adhering to copyright or licensing requirements, undermining the social contract of digital openness. This practice creates risks for creators, such as being implicated in the use of stolen work, increased exposure to security vulnerabilities in shared code, and an influx of AI-generated "slop" that complicates code maintenance.</p><p>The shift from information sharing as a communal benefit to a personal liability for authors and developers could trigger a "digital dark age." Without new frameworks to protect intellectual labor and prevent the consolidation of power by large-scale AI entities, the foundational openness that enables modern cloud and internet services is at risk.</p><p><img src="https://www.insightsonindia.com/wp-content/uploads/2025/12/Generative-AI-Copyright-1024x576.jpg" /></p><hr/><small>20 Sep 2026, 14:07 UTC | #21738</small>]]></content>
   </entry>
 </feed>
