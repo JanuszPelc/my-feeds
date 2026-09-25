@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-25T05:58:00+00:00</updated>
+  <updated>2026-09-25T06:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Copland OS Emulated in Web Browser</title>
+    <link href="https://www.pagetable.com/300" rel="alternate" />
+    <id>https://www.pagetable.com/300::v239</id>
+    <published>2026-09-25T06:01:00+00:00</published>
+    <updated>2026-09-25T06:01:00+00:00</updated>
+    <media:thumbnail url="https://images.inkl.com/s3/article/lead_image/22899562/FbWed2Vzyu92sQaATokDPF-1280-80.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.pagetable.com/300">pagetable.com</a> | <a href="https://lobste.rs/s/56bnwm/apple_copland_d11e4_emulator_your">discussion</a> | <a href="https://news.ycombinator.com/item?id=49791125">hacker news</a></small></p><hr/><p>The unreleased Apple Copland operating system (build D11E4) is available for emulation in web browsers through an improved version of DingusPPC. This WebAssembly port incorporates eleven specific patches required to successfully boot the system, which has historically been notoriously difficult to run on real hardware.</p><p>Originally intended to replace System 7 with a microkernel architecture, Copland was cancelled following Apple's acquisition of NeXT. The browser-based environment allows users to run applications such as GXSlidemaster and Eric's Solitaire using a keyboard and mouse.</p><p><img src="https://images.inkl.com/s3/article/lead_image/22899562/FbWed2Vzyu92sQaATokDPF-1280-80.jpg" /></p><hr/><small>25 Sep 2026, 12:10 UTC | #22311</small>]]></content>
+  </entry>
   <entry>
     <title>Amutable Systems Introduces tine Build System</title>
     <link href="https://amutable.com/blog/tine-build-system" rel="alternate" />
