@@ -483,13 +483,4 @@
     <media:thumbnail url="https://porady-dzialkowe.pl/wp-content/uploads/2025/09/Ksiazka-a-Tiktok-2.jpg" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/">techcrunch.com</a> | <a href="https://www.scrolled.eu/en">source</a></small></p><hr/><p>ScrollEd is developing an application that converts textbooks and PDFs into a vertical, short-form video feed similar to TikTok. The AI-driven platform generates video, audio, and text content alongside interactive quizzes, allowing users to navigate topics through swiping actions to encourage deeper engagement.</p><p>The Palo Alto-based startup plans to launch its consumer business at TechCrunch Disrupt, utilizing a freemium model. While individual learners can access a free feed, ScrollEd is targeting corporate training programs and educational institutions with paid licenses that provide data on student engagement and lesson progress.</p><p><img src="https://porady-dzialkowe.pl/wp-content/uploads/2025/09/Ksiazka-a-Tiktok-2.jpg" /></p><hr/><small>20 Sep 2026, 23:06 UTC | #21753</small>]]></content>
   </entry>
-  <entry>
-    <title>Pirate Face Provides Decentralized Infrastructure for AI Model Permanence</title>
-    <link href="https://pirateface.co/" rel="alternate" />
-    <id>https://pirateface.co/::v239</id>
-    <published>2026-09-20T15:17:00+00:00</published>
-    <updated>2026-09-20T15:17:00+00:00</updated>
-    <media:thumbnail url="https://images.wondershare.com/edrawmax/templates/network-diagram-for-p2p.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pirateface.co/">pirateface.co</a> | <a href="https://news.ycombinator.com/item?id=49776699">hacker news</a></small></p><hr/><p>Pirate Face is a decentralized infrastructure designed to ensure the long-term availability of open-source AI models. The service mirrors models from Hugging Face as checksum-verified torrents, creating a peer-to-peer swarm that keeps models accessible even if their original centralized hosts are removed.</p><p>To ensure file integrity, the platform uses SHA-256 hashes to verify that downloaded weights match the official Hugging Face versions. The project is also developing a drop-in API that will allow developers to redirect existing machine learning pipelines to the Pirate Face endpoint without requiring code changes.</p><p><img src="https://images.wondershare.com/edrawmax/templates/network-diagram-for-p2p.png" /></p><hr/><small>20 Sep 2026, 17:36 UTC | #21751</small>]]></content>
-  </entry>
 </feed>
