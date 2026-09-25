@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-25T06:05:00+00:00</updated>
+  <updated>2026-09-25T11:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Impact of LLMs and 'Vibecoding' on Low-Level Programming</title>
+    <link href="https://purplesyringa.moe/blog/grieving-the-loss-of-details/" rel="alternate" />
+    <id>https://purplesyringa.moe/blog/grieving-the-loss-of-details/::v239</id>
+    <published>2026-09-25T11:30:00+00:00</published>
+    <updated>2026-09-25T11:30:00+00:00</updated>
+    <media:thumbnail url="https://purplesyringa.moe/blog/grieving-the-loss-of-details/tron-legacy.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://purplesyringa.moe/blog/grieving-the-loss-of-details/">purplesyringa.moe</a> | <a href="https://lobste.rs/s/jmlnak/grieving_loss_details">discussion</a></small></p><hr/><p>The rise of Large Language Models (LLMs) and an industry-wide shift toward "vibecoding" is diminishing the necessity of low-level, detail-oriented programming. As AI automation handles micro-optimizations and complex code analysis, the software industry is increasingly prioritizing high-level architectural design over the granular machine-level expertise required for performance-critical software.</p><p>This transition creates economic and professional instability for developers whose cognitive strengths lie in bottom-up comprehension and hardware-specific optimization. As software development moves toward greater abstraction, specialized roles focused on the nuances of machine code and low-level implementation face declining professional value.</p><p><img src="https://purplesyringa.moe/blog/grieving-the-loss-of-details/tron-legacy.webp" /></p><hr/><small>25 Sep 2026, 14:55 UTC | #22319</small>]]></content>
+  </entry>
   <entry>
     <title>Chinese Local Governments Subsidize AI Video Production to Grow Industry</title>
     <link href="https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/" rel="alternate" />

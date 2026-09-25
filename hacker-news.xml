@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-25T08:04:00+00:00</updated>
+  <updated>2026-09-25T08:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>FreeBSD Launches Desktop AMIs for Amazon EC2</title>
+    <link href="https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html" rel="alternate" />
+    <id>https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html::v239</id>
+    <published>2026-09-25T08:08:00+00:00</published>
+    <updated>2026-09-25T08:08:00+00:00</updated>
+    <media:thumbnail url="https://www.daemonology.net/blog/ec2-desktop.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html">daemonology.net</a> | <a href="https://lobste.rs/s/ufor73/launching_freebsd_ec2_desktop_amis">discussion</a></small></p><hr/><p>FreeBSD has released Desktop Amazon Machine Images (AMIs) for Amazon EC2, featuring a pre-configured graphical user interface. These images include the KDE desktop environment, Chromium, and LibreOffice, and can be accessed via the Remote Desktop Protocol (RDP).</p><p>The AMIs support both UFS and ZFS root filesystems and are compatible with the AWS Free Tier. Support is currently limited to x86_64 architectures, with arm64 support not yet available. Users are responsible for the underlying EC2 infrastructure costs.</p><p><img src="https://www.daemonology.net/blog/ec2-desktop.png" /></p><hr/><small>25 Sep 2026, 14:51 UTC | #22325</small>]]></content>
+  </entry>
   <entry>
     <title>Omnibin FUSE Filesystem Provides On-Demand Access to All Nixpkgs Binaries</title>
     <link href="https://fzakaria.com/2026/09/24/every-package-is-already-installed" rel="alternate" />
