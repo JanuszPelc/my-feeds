@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-25T13:24:00+00:00</updated>
+  <updated>2026-09-25T14:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>FunkyKatAudio Releases FKA AutoWah v2.5.4 with MainStage Compatibility</title>
+    <link href="https://www.kvraudio.com/news/funkykataudio-updates-fka-autowah-to-v2-5-4-with-mainstage-compatibility-68606?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68606" rel="alternate" />
+    <id>https://www.kvraudio.com/news/funkykataudio-updates-fka-autowah-to-v2-5-4-with-mainstage-compatibility-68606?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68606::v239</id>
+    <published>2026-09-25T14:18:00+00:00</published>
+    <updated>2026-09-25T14:18:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/dynamic-mode-optimized.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/funkykataudio-updates-fka-autowah-to-v2-5-4-with-mainstage-compatibility-68606?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68606">kvraudio.com</a> | <a href="https://funkykataudio.com/fka-autowah">source</a></small></p><hr/><p>FunkyKatAudio has released version 2.5.4 of its FKA AutoWah plugin for macOS and Windows. This update improves Audio Unit compatibility with Apple MainStage and enhances DAW automation and parameter exposure.</p><p>The release also includes fixes for plugin state saving and recall, updates to the 14-day trial experience, and general stability improvements. FKA AutoWah is available in VST3, AU, and Standalone formats, with an upcoming AUv3 version for iPad currently in development.</p><p><img src="https://static.kvraudio.com/i/b/dynamic-mode-optimized.jpg" /></p><hr/><small>25 Sep 2026, 19:32 UTC | #22322</small>]]></content>
+  </entry>
+  <entry>
+    <title>Dynamic Instruments Releases SID - Grooving Sidechain</title>
+    <link href="https://www.kvraudio.com/news/dynamic-instruments-releases-sid---grooving-sidechain-vst3-and-au-68721?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68721" rel="alternate" />
+    <id>https://www.kvraudio.com/news/dynamic-instruments-releases-sid---grooving-sidechain-vst3-and-au-68721?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68721::v239</id>
+    <published>2026-09-25T14:12:00+00:00</published>
+    <updated>2026-09-25T14:12:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/32291b18-c317-4164-83d4-2e0b692488bc.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dynamic-instruments-releases-sid---grooving-sidechain-vst3-and-au-68721?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68721">kvraudio.com</a> | <a href="https://www.dyninstruments.com/products/sid-grooving-sidechain">source</a></small></p><hr/><p>SID - Grooving Sidechain is a new sidechain plugin from Dynamic Instruments, compatible with VST3 and AU formats. The tool enables evolving rhythmic patterns across one, two, or four bars by allowing users to assign independent depth and length to each beat, distinguishing it from traditional sidechain tools that repeat a single, static ducking movement.</p><p>The plugin includes a custom curve editor for shaping ducking envelopes, alongside controls for groove variation, synced rate, and parallel processing. It is available for Windows and macOS, with a free trial and an introductory price of $19.99.</p><p><img src="https://static.kvraudio.com/i/b/32291b18-c317-4164-83d4-2e0b692488bc.png" /></p><hr/><small>25 Sep 2026, 19:29 UTC | #22323</small>]]></content>
+  </entry>
   <entry>
     <title>Ocean Swift Launches Wave Editor Standalone Audio Editor</title>
     <link href="https://www.kvraudio.com/news/ocean-swift-launches-wave-editor-standalone-audio-editor-68728?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68728" rel="alternate" />

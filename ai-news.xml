@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-25T05:37:00+00:00</updated>
+  <updated>2026-09-25T13:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Microsoft Unveils Copilot Super App Featuring Chat, Coding, and Autopilot</title>
+    <link href="https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InU4bW1jR3ZjYWsiLCJwIjoiL25ld3MvMTAwMDUzMi9taWNyb3NvZnQtY29waWxvdC1zdXBlci1hcHAtY2hhdC1jb2RpbmctYXV0b3BpbG90IiwiZXhwIjoxNzkwNzY5NjU0LCJpYXQiOjE3OTAzMzc2NTR9.KN3P1sn7AgHa-sfRBRy4EC22AO-ZfzzeIe-P0jtw-VM&amp;utm_medium=gift-link" rel="alternate" />
+    <id>https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InU4bW1jR3ZjYWsiLCJwIjoiL25ld3MvMTAwMDUzMi9taWNyb3NvZnQtY29waWxvdC1zdXBlci1hcHAtY2hhdC1jb2RpbmctYXV0b3BpbG90IiwiZXhwIjoxNzkwNzY5NjU0LCJpYXQiOjE3OTAzMzc2NTR9.KN3P1sn7AgHa-sfRBRy4EC22AO-ZfzzeIe-P0jtw-VM&amp;utm_medium=gift-link::v239</id>
+    <published>2026-09-25T13:26:00+00:00</published>
+    <updated>2026-09-25T13:26:00+00:00</updated>
+    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copilot-Code.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InU4bW1jR3ZjYWsiLCJwIjoiL25ld3MvMTAwMDUzMi9taWNyb3NvZnQtY29waWxvdC1zdXBlci1hcHAtY2hhdC1jb2RpbmctYXV0b3BpbG90IiwiZXhwIjoxNzkwNzY5NjU0LCJpYXQiOjE3OTAzMzc2NTR9.KN3P1sn7AgHa-sfRBRy4EC22AO-ZfzzeIe-P0jtw-VM&utm_medium=gift-link">theverge.com</a> | <a href="https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/">source</a></small></p><hr/><p>Microsoft has launched a redesigned Copilot "super app" that consolidates chat, coding, and autonomous agents into a single interface. The app is organized into three tabs: Home, which merges Copilot Chat and Cowork; Code, which allows users to build and host sandboxed internal apps using GitHub Copilot technology; and Autopilot, an always-on digital assistant rebranded from Scout.</p><p>Autopilot operates via a dedicated cloud instance to perform continuous tasks such as monitoring Teams channels or executing recurring workflows. To manage the costs of these agentic capabilities, Microsoft is introducing usage-based billing for the Code and Autopilot sections, while offering a standard subscription for integrated Copilot features within Microsoft 365.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copilot-Code.png?quality=90&strip=all&crop=0,0,100,100" /></p><hr/><small>25 Sep 2026, 19:17 UTC | #22314</small>]]></content>
+  </entry>
   <entry>
     <title>LaunchVideo Generates Explainer Videos Using Claude Opus 5.5</title>
     <link href="https://launchvideo.io" rel="alternate" />
