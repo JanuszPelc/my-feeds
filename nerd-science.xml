@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-24T11:45:00+00:00</updated>
+  <updated>2026-09-24T20:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Evolutionary Trade-offs Between Organ Regeneration and Cancer Risk</title>
+    <link href="https://dynomight.substack.com/p/liver" rel="alternate" />
+    <id>https://dynomight.substack.com/p/liver::v239</id>
+    <published>2026-09-24T20:55:00+00:00</published>
+    <updated>2026-09-24T20:55:00+00:00</updated>
+    <media:thumbnail url="https://i.pinimg.com/originals/03/48/d6/0348d69ffa9d96a127542d09cfb98bb6.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://dynomight.substack.com/p/liver">dynomight.substack.com</a> | <a href="https://news.ycombinator.com/item?id=49832938">hacker news</a></small></p><hr/><p>A speculative theory links organ regeneration capacity to cancer risk, suggesting that evolution accepts a "cancer tax" for highly regenerative organs like the liver. In contrast, organs like the brain and heart prioritize structural stability and protection against uncontrolled cell growth, resulting in limited regenerative abilities.</p><p>This mechanism is further influenced by structural complexity, as seen in the delicate, high-surface-area geometry of the lungs which limits repair capacity despite high environmental exposure. The theory posits that evolutionary tuning balances the necessity of repair and environmental defense against the inherent risk of oncogenesis.</p><p><img src="https://i.pinimg.com/originals/03/48/d6/0348d69ffa9d96a127542d09cfb98bb6.jpg" /></p><hr/><small>25 Sep 2026, 02:03 UTC | #22289</small>]]></content>
+  </entry>
   <entry>
     <title>Evan Meagher on the Risks of Over-Relying on Metaphors</title>
     <link href="https://evnm.substack.com/p/beware-overreliance-on-metaphor" rel="alternate" />
