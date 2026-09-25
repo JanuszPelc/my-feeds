@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T20:41:00+00:00</updated>
+  <updated>2026-09-24T20:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>White House Asks OpenAI and Anthropic to Delay UK AI Safety Testing</title>
+    <link href="https://www.politico.com/news/2026/09/24/white-house-asks-openai-and-anthropic-to-hold-new-models-from-uk-testers-until-u-s-review-01091769" rel="alternate" />
+    <id>https://www.politico.com/news/2026/09/24/white-house-asks-openai-and-anthropic-to-hold-new-models-from-uk-testers-until-u-s-review-01091769::v239</id>
+    <published>2026-09-24T20:44:00+00:00</published>
+    <updated>2026-09-24T20:44:00+00:00</updated>
+    <media:thumbnail url="https://wallstmemes.com/wp-content/uploads/2026/06/ChatGPT-1536x864.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/09/24/white-house-asks-openai-and-anthropic-to-hold-new-models-from-uk-testers-until-u-s-review-01091769">politico.com</a></small></p><hr/><p>The White House has requested that OpenAI and Anthropic withhold their latest artificial intelligence models from the United Kingdom's AI Safety Institute (AISI) until the U.S. government completes its own reviews. Reports indicate that Anthropic has already agreed to the request.</p><p>This move highlights growing tension between international regulatory collaboration and U.S. oversight of frontier AI technology. The request follows broader efforts by Washington to establish frameworks for the voluntary submission and evaluation of advanced models before their public release.</p><p><img src="https://wallstmemes.com/wp-content/uploads/2026/06/ChatGPT-1536x864.png" /></p><hr/><small>25 Sep 2026, 00:31 UTC | #22248</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon Adds Multichannel Management for eBay, Shopify, TikTok, and Walmart to Seller Central</title>
     <link href="https://www.geekwire.com/2026/amazon-will-let-sellers-manage-walmart-ebay-shopify-and-tiktok-sales-from-their-amazon-dashboards/" rel="alternate" />
