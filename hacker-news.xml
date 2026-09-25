@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-25T13:27:00+00:00</updated>
+  <updated>2026-09-25T16:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Redox OS August 2026 Development Update</title>
+    <link href="https://www.redox-os.org/news/this-month-260831/" rel="alternate" />
+    <id>https://www.redox-os.org/news/this-month-260831/::v239</id>
+    <published>2026-09-25T16:02:00+00:00</published>
+    <updated>2026-09-25T16:02:00+00:00</updated>
+    <media:thumbnail url="https://www.redox-os.org/img/bench/ring-comparison.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.redox-os.org/news/this-month-260831/">redox-os.org</a> | <a href="https://lobste.rs/s/kc8t26/this_month_redox_august_2026">discussion</a></small></p><hr/><p>Redox OS introduced several architectural and performance improvements in August 2026, including "Redox Rings," an I/O API modeled after Linux's io_uring that provides up to 15x performance gains for NVMe and filesystem I/O. The update also brings initial NUMA-based memory management, ARM64 multi-core support, and a kernel fix that reduced GCC compilation times from ten hours to 30 minutes. Furthermore, the project confirmed working QEMU support for both server and desktop environments.</p><p>Additional advancements include process priority support in the scheduler, enhanced security via namespace-managed file access, and improved UEFI compatibility. The update also enables dual-boot installations from Linux and introduces kernel binary size profiling to assist in reducing memory usage.</p><p><img src="https://www.redox-os.org/img/bench/ring-comparison.png" /></p><hr/><small>25 Sep 2026, 21:21 UTC | #22382</small>]]></content>
+  </entry>
   <entry>
     <title>Mac Mini M6 Achieves Stable 600MHz Pentium II Emulation in 86Box</title>
     <link href="https://nyaa.sh/reviews/mac-mini-m6-emulation" rel="alternate" />

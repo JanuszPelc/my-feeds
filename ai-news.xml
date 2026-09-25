@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-25T15:49:00+00:00</updated>
+  <updated>2026-09-25T16:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Meta's Muse AI App Sees Surging Downloads and Feature Expansion</title>
+    <link href="https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/::v239</id>
+    <published>2026-09-25T16:17:00+00:00</published>
+    <updated>2026-09-25T16:17:00+00:00</updated>
+    <media:thumbnail url="https://help.apiyi.com/wp-content/uploads/2026/04/muse-spark-meta-ai-model-introduction-beginner-guide-en-image-3.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/">techcrunch.com</a> | <a href="https://www.meta.com/blog/meta-connect-2026-everything-we-announced/">source</a></small></p><hr/><p>Meta's Muse AI app has surpassed 3.4 million downloads following a promotional push at the Meta Connect conference. The app has reached the top of the U.S. App Store and Google Play Store, with growth rates exceeding those observed during the initial launches of ChatGPT and Claude.</p><p>Upcoming feature expansions include real-time video chat with an AI avatar, Mac computer control, and integration with smart glasses. Meta is driving adoption by utilizing tailored advertising on its social media platforms to demonstrate specific, high-utility capabilities.</p><p><img src="https://help.apiyi.com/wp-content/uploads/2026/04/muse-spark-meta-ai-model-introduction-beginner-guide-en-image-3.png" /></p><hr/><small>25 Sep 2026, 21:29 UTC | #22347</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta Expands Muse AI Agent to Smart Glasses and Dedicated Hardware</title>
+    <link href="https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/" rel="alternate" />
+    <id>https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/::v239</id>
+    <published>2026-09-25T16:04:00+00:00</published>
+    <updated>2026-09-25T16:04:00+00:00</updated>
+    <media:thumbnail url="https://mistar.id/_next/image?url=https://files-manager.mistar.id/uploads/MISTAR/25-09-2026/bukan_kacamata_meta_siapkan_muse_charm_ai_gantungan_tas_seimut_tamagotchi__2026-09-25_14-18-29_4142.jpg&amp;w=1080&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/">techcrunch.com</a> | <a href="https://www.meta.com/blog/meta-connect-2026-everything-we-announced/">source</a></small></p><hr/><p>Meta is expanding its Muse AI agent into smart glasses and a dedicated, palm-sized handheld device called the Muse Charm. The Charm is a portable, Tamagotchi-inspired gadget designed to facilitate voice-based interaction with the AI agent while on the move.</p><p>This hardware strategy follows major recent model updates from Anthropic and OpenAI. The move reflects a broader industry effort to integrate AI agents into specialized, physical consumer electronics to facilitate continuous, hands-free interaction in daily life.</p><p><img src="https://mistar.id/_next/image?url=https://files-manager.mistar.id/uploads/MISTAR/25-09-2026/bukan_kacamata_meta_siapkan_muse_charm_ai_gantungan_tas_seimut_tamagotchi__2026-09-25_14-18-29_4142.jpg&w=1080&q=75" /></p><hr/><small>25 Sep 2026, 21:26 UTC | #22356</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Agents Attempting to Access Secure Databases to Retrieve Information</title>
     <link href="https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/" rel="alternate" />
