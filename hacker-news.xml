@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-25T13:08:00+00:00</updated>
+  <updated>2026-09-25T13:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Go Introduces Platform-Independent SIMD API</title>
+    <link href="https://go.dev/blog/simd-experiment" rel="alternate" />
+    <id>https://go.dev/blog/simd-experiment::v239</id>
+    <published>2026-09-25T13:11:00+00:00</published>
+    <updated>2026-09-25T13:11:00+00:00</updated>
+    <media:thumbnail url="https://image.slidesharecdn.com/simdprogrammingintroduction-161010040931/95/simd-programming-introduction-13-638.jpg?cb=1485013313" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://go.dev/blog/simd-experiment">go.dev</a> | <a href="https://news.ycombinator.com/item?id=49843269">hacker news</a></small></p><hr/><p>Go 1.27 introduces an experimental, platform-agnostic SIMD package that enables high-performance vector operations without requiring architecture-specific assembly. The `simd` package abstracts hardware variations in vector sizes, masking, and instruction sets, allowing developers to write portable, "write-once" vectorized code.</p><p>Enabled via the `GOEXPERIMENT=simd` build flag, the package currently supports AVX, AVX2, and AVX512 on amd64, NEON on arm64, and Wasm's SIMD instructions. It achieves cross-platform compatibility by using the intersection of supported operations and providing efficient emulation for features unavailable on certain architectures.</p><p><img src="https://image.slidesharecdn.com/simdprogrammingintroduction-161010040931/95/simd-programming-introduction-13-638.jpg?cb=1485013313" /></p><hr/><small>25 Sep 2026, 17:47 UTC | #22351</small>]]></content>
+  </entry>
   <entry>
     <title>Espressif ESP32-S31 Supports Linux via RISC-V MMU</title>
     <link href="https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/" rel="alternate" />
@@ -983,14 +992,5 @@
     <updated>2026-09-20T18:33:00+00:00</updated>
     <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Ring-charging-case.jpg?w=680" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/">techcrunch.com</a> | <a href="https://vocci.ai/">source</a></small></p><hr/><p>Vocci has launched an AI-powered smart ring designed for meeting note-taking. The device, which weighs under 6 grams and has a titanium-coated finish, allows users to record audio via a button and then generates transcripts, highlights, and summaries through a companion app.</p><p>The product is priced at $249 and offers up to eight hours of recording on a single charge. While it demonstrates strong transcription capabilities in noisy settings, the device faces criticism for its software's redundant interface, limited integration with other apps, and the privacy implications of its discreet form factor.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Ring-charging-case.jpg?w=680" /></p><hr/><small>20 Sep 2026, 23:40 UTC | #21756</small>]]></content>
-  </entry>
-  <entry>
-    <title>Samsung to Double HBM4 Production Next Year</title>
-    <link href="https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say" rel="alternate" />
-    <id>https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say::v239</id>
-    <published>2026-09-20T17:39:00+00:00</published>
-    <updated>2026-09-20T17:39:00+00:00</updated>
-    <media:thumbnail url="https://wimg.sedaily.com/news/cms/2026/09/20/rcv.YNA.20260318.PYH2026031803840001300_P1.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say">en.sedaily.com</a> | <a href="https://news.ycombinator.com/item?id=49778029">hacker news</a></small></p><hr/><p>Samsung Electronics plans to more than double its HBM4 and HBM4E high-bandwidth memory output next year, targeting a monthly production scale of 250,000 wafers. This would represent a 40% increase from the 180,000 wafers per month estimated for 2026, with HBM4-family products expected to make up 80% of the company's total HBM shipment mix.</p><p>To support the production ramp-up, Samsung is increasing its demand for glass carriers—essential for preventing wafer warping during the thinning process—by 2.5 times, from 20,000 to 50,000 sheets per month. The production expansion follows the company's start of mass-production for HBM4 in early 2026 and the delivery of 12-layer HBM4E samples to customers such as Nvidia.</p><p><img src="https://wimg.sedaily.com/news/cms/2026/09/20/rcv.YNA.20260318.PYH2026031803840001300_P1.jpg" /></p><hr/><small>20 Sep 2026, 20:26 UTC | #21763</small>]]></content>
   </entry>
 </feed>
