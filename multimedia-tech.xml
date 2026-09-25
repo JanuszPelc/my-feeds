@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-24T17:45:00+00:00</updated>
+  <updated>2026-09-24T21:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Meta Announces AI-Powered Tools for Creating Horizon Games</title>
+    <link href="https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games" rel="alternate" />
+    <id>https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games::v239</id>
+    <published>2026-09-24T21:01:00+00:00</published>
+    <updated>2026-09-24T21:01:00+00:00</updated>
+    <media:thumbnail url="https://stylistme.com/wp-content/uploads/2022/10/Meta-Horizon-Worlds-export-3D.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games">theverge.com</a> | <a href="https://developers.meta.com/blog/meta-connect-recap-horizon-create-and-horizon-studio/">source</a></small></p><hr/><p>Meta has announced Horizon Create and Horizon Studio, two new AI-powered development tools that allow users to build 2D and 3D games using text prompts. Horizon Create operates as a mobile app, while Horizon Studio is a web-based tool that provides more granular design controls.</p><p>To increase reach, Meta intends to host playable versions of these games directly within Facebook and Instagram feeds. This initiative reflects a strategic pivot toward mobile platforms and follows similar AI-assisted development trends in the gaming industry, most notably from Roblox.</p><p><img src="https://stylistme.com/wp-content/uploads/2022/10/Meta-Horizon-Worlds-export-3D.png" /></p><hr/><small>25 Sep 2026, 03:25 UTC | #22271</small>]]></content>
+  </entry>
   <entry>
     <title>Google Photos Launches AI-Powered Virtual Closet Feature</title>
     <link href="https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/" rel="alternate" />
