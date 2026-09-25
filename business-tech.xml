@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T21:06:00+00:00</updated>
+  <updated>2026-09-24T21:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Signs $11.6 Billion Cloud Services Deal with Akamai</title>
+    <link href="https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/" rel="alternate" />
+    <id>https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/::v239</id>
+    <published>2026-09-24T21:21:00+00:00</published>
+    <updated>2026-09-24T21:21:00+00:00</updated>
+    <media:thumbnail url="https://jnzbohshyskcshyjftrn.supabase.co/storage/v1/object/public/content-images/articles/anthropic-akamai-1-8-billion-7-year-cloud-deal-may-2026/infographic-compute-stack-1778386401832.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/">reuters.com</a> | <a href="https://www.akamai.com/newsroom/press-release/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand">source</a></small></p><hr/><p>Anthropic has committed $11.6 billion over seven years to Akamai Technologies for cloud services to support increasing computing demands for its AI workloads.</p><p>The contract includes an option to acquire up to a 5% stake in Akamai and allows for a potential $9 billion expansion. Akamai shares surged more than 17% in after-hours trading following the news.</p><p><img src="https://jnzbohshyskcshyjftrn.supabase.co/storage/v1/object/public/content-images/articles/anthropic-akamai-1-8-billion-7-year-cloud-deal-may-2026/infographic-compute-stack-1778386401832.webp" /></p><hr/><small>25 Sep 2026, 04:33 UTC | #22276</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Reorganizes Communications Function Under Brad Smith</title>
     <link href="https://www.geekwire.com/2026/internal-memos-microsoft-shakes-up-communications-as-nadella-makes-a-push-to-build-in-public/" rel="alternate" />
