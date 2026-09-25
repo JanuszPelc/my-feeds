@@ -966,13 +966,4 @@
     <media:thumbnail url="https://c138.hongcdn.com/uploads-rx/2601/ai-glasses-!j.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://zuckoff.app/">zuckoff.app</a> | <a href="https://news.ycombinator.com/item?id=49785429">hacker news</a></small></p><hr/><p>ZuckOff is an iPhone application that identifies camera-equipped smart glasses—including Ray-Ban Meta, Oakley Meta, and Snap Spectacles—by scanning for their specific Bluetooth manufacturer signatures. The tool operates without an account and keeps all data on the device, utilizing iOS features like Home Screen widgets, Live Activities, and background alerts to notify users of nearby hardware.</p><p>While the app provides proximity estimates based on signal strength and allows users to export device logs as CSV files, it has specific limitations. It cannot confirm if a device is actively recording video, identify the direction of the wearer, or guarantee that a silent device is not recording.</p><p><img src="https://c138.hongcdn.com/uploads-rx/2601/ai-glasses-!j.webp" /></p><hr/><small>21 Sep 2026, 11:49 UTC | #21813</small>]]></content>
   </entry>
-  <entry>
-    <title>Sunil Pai Explains the 'Senior Engineer Death Spiral'</title>
-    <link href="https://sunilpai.dev/posts/the-senior-engineer-death-spiral/" rel="alternate" />
-    <id>https://sunilpai.dev/posts/the-senior-engineer-death-spiral/::v239</id>
-    <published>2026-09-20T23:26:00+00:00</published>
-    <updated>2026-09-20T23:26:00+00:00</updated>
-    <media:thumbnail url="https://sunilpai.dev/_astro/senior-engineer-death-spiral.BObau-Zy_1oRjvd.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://sunilpai.dev/posts/the-senior-engineer-death-spiral/">sunilpai.dev</a> | <a href="https://news.ycombinator.com/item?id=49776130">hacker news</a></small></p><hr/><p>The "senior engineer death spiral" describes a failure pattern where engineers in new or promoted roles attempt to combat imposter syndrome by working excessive hours in isolation. This cycle of over-ambition and lack of visibility often leads to burnout, strained professional relationships, and job loss.</p><p>To avoid this spiral, the author suggests shifting from an outcome-based mindset to one focused on momentum and reliability. By "dropping a level" to focus on supporting teammates through small, consistent tasks, engineers can rebuild professional trust and develop the stamina required for long-term career success.</p><p><img src="https://sunilpai.dev/_astro/senior-engineer-death-spiral.BObau-Zy_1oRjvd.webp" /></p><hr/><small>21 Sep 2026, 07:47 UTC | #21791</small>]]></content>
-  </entry>
 </feed>
