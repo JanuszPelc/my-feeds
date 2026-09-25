@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-25T08:01:00+00:00</updated>
+  <updated>2026-09-25T08:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>LOFI Monster Studio Releases MonsterDMX for Ableton Live</title>
+    <link href="https://www.kvraudio.com/news/lofi-monster-studio-releases-monsterdmx---free-dmx-lighting-control-for-ableton-live-68719?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68719" rel="alternate" />
+    <id>https://www.kvraudio.com/news/lofi-monster-studio-releases-monsterdmx---free-dmx-lighting-control-for-ableton-live-68719?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68719::v239</id>
+    <published>2026-09-25T08:06:00+00:00</published>
+    <updated>2026-09-25T08:06:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/monsterdmx_hero.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/lofi-monster-studio-releases-monsterdmx---free-dmx-lighting-control-for-ableton-live-68719?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68719">kvraudio.com</a> | <a href="https://lofimonster.com/products/monsterdmx">source</a></small></p><hr/><p>MonsterDMX is a free Max for Live device that enables DMX stage lighting control directly within Ableton Live. It allows users to drive up to two DMX fixtures with independent RGB(W) color control, a master dimmer, and an instant blackout switch without the need for external lighting software.</p><p>The tool includes an integrated audio follower for brightness modulation based on track audio, along with four FX modes: strobe, jump, gradual, and pulse. All parameters are MIDI-mappable and automatable. It is compatible with Windows 10/11 and requires a uDMX USB-DMX interface, but does not currently support macOS.</p><p><img src="https://static.kvraudio.com/i/b/monsterdmx_hero.png" /></p><hr/><small>25 Sep 2026, 14:31 UTC | #22324</small>]]></content>
+  </entry>
   <entry>
     <title>Ableton CEO Gerhard Behles Discusses Company Independence and Community</title>
     <link href="https://musictech.com/features/interviews/ableton-ceo-gerhard-behles-interview/" rel="alternate" />
