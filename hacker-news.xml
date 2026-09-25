@@ -947,13 +947,4 @@
     <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/949680731/original/fa33625960/1?v=1" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://saweis.net/posts/rsa-896.html">saweis.net</a> | <a href="https://news.ycombinator.com/item?id=49771966">hacker news</a></small></p><hr/><p>Anthropic engineer Stephen A. Weis has factored the 896-bit RSA challenge number, RSA-896, using the Claude AI model. By adapting open-source code to run on 2,048 GPUs, the computation completed 30 GPU-years of work in approximately 10 days.</p><p>This achievement establishes a new public record for AI-assisted cryptography, surpassing the previous 829-bit record set in 2020. The success highlights the utility of large language models in optimizing intensive computational tasks and orchestrating distributed hardware for complex mathematical problems.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/949680731/original/fa33625960/1?v=1" /></p><hr/><small>20 Sep 2026, 14:32 UTC | #21740</small>]]></content>
   </entry>
-  <entry>
-    <title>OONI Probe Measures Internet Censorship and Network Performance</title>
-    <link href="https://ooni.org/install" rel="alternate" />
-    <id>https://ooni.org/install::v239</id>
-    <published>2026-09-20T06:20:00+00:00</published>
-    <updated>2026-09-20T06:20:00+00:00</updated>
-    <media:thumbnail url="https://ooni.org/post/2025-iran-censorship-womens-rights/images/image3.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ooni.org/install">ooni.org</a> | <a href="https://news.ycombinator.com/item?id=49769676">hacker news</a></small></p><hr/><p>This open-source tool detects and measures internet censorship and network interference. It enables users to identify blocked websites and messaging applications, such as WhatsApp or Telegram, and measure network speed using NDT testing developed with M-Lab.</p><p>Users can install the software on desktop or mobile platforms to contribute data to an open dataset of global internet censorship. The tool also helps verify whether circumvention tools are functioning correctly on a specific network.</p><p><img src="https://ooni.org/post/2025-iran-censorship-womens-rights/images/image3.png" /></p><hr/><small>20 Sep 2026, 13:16 UTC | #21736</small>]]></content>
-  </entry>
 </feed>
