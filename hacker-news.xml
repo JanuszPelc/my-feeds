@@ -974,13 +974,4 @@
     <media:thumbnail url="https://www.philipzucker.com/assets/thinegraphxyyx.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.philipzucker.com/lambda_miller_egg/">philipzucker.com</a> | <a href="https://lobste.rs/s/o6vyfj/lambda_microegg">discussion</a></small></p><hr/><p>Lambda MicroEgg is an e-graph implementation released by Philip Zucker that supports alpha-aware binders and Miller patterns. It features an s-expression-based frontend and enables higher-order pattern matching and capture-avoiding substitution.</p><p>The tool employs "thinnings" encoded within 32-bit identifiers to track variable context, allowing alpha-equivalent terms to share memory through hash-consing. This approach currently limits the implementation to seven free variables by storing context information in bits stolen from the 32-bit identifier.</p><p><img src="https://www.philipzucker.com/assets/thinegraphxyyx.jpg" /></p><hr/><small>20 Sep 2026, 19:45 UTC | #21761</small>]]></content>
   </entry>
-  <entry>
-    <title>Software Sandboxing Syscall Policy Framework</title>
-    <link href="https://blog.emilua.org/2025/01/12/software-sandboxing-basics/" rel="alternate" />
-    <id>https://blog.emilua.org/2025/01/12/software-sandboxing-basics/::v239</id>
-    <published>2026-09-20T15:19:00+00:00</published>
-    <updated>2026-09-20T15:19:00+00:00</updated>
-    <media:thumbnail url="https://www.easefilter.com/images/sandbox-architecture.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.emilua.org/2025/01/12/software-sandboxing-basics/">blog.emilua.org</a> | <a href="https://lobste.rs/s/brptxb/software_sandboxing_basics_2025">discussion</a></small></p><hr/><p>Software sandboxing is structured through defined system call (syscall) policy groups that categorize operations such as basic I/O, filesystem access, and networking. These policies are designed for unprivileged users to restrict application permissions using mechanisms like seccomp or landlock, reducing overhead by excluding rarely used or fingerprinting-prone syscalls.</p><p>The policy design draws inspiration from OpenBSD's pledge promises and systemd seccomp filter sets. This modular categorization facilitates granular security controls while maintaining compatibility for various environments, including emulation layers like Wine.</p><p><img src="https://www.easefilter.com/images/sandbox-architecture.jpg" /></p><hr/><small>20 Sep 2026, 18:22 UTC | #21752</small>]]></content>
-  </entry>
 </feed>
