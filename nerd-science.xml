@@ -194,13 +194,4 @@
     <media:thumbnail url="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Software_3.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.seangoedecke.com/grit-your-teeth-and-ship-it/">seangoedecke.com</a> | <a href="https://lobste.rs/s/pdulza/grit_your_teeth_ship_it">discussion</a></small></p><hr/><p>The article explores the disconnect between high-level skill and the ability to actually complete and release work. It argues that perfectionism in programming and writing often prevents professionals from being productive, as their refined taste makes them overly critical of their own imperfect outputs.</p><p>To mitigate this, the author recommends adopting a momentum-based approach that prioritizes regular shipping over the pursuit of flawless perfection. By producing a high volume of work, creators can better navigate the feedback loop and achieve greater long-term success than through sporadic, highly-polished efforts.</p><p><img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Software_3.png" /></p><hr/><small>20 Sep 2026, 17:09 UTC | #21749</small>]]></content>
   </entry>
-  <entry>
-    <title>Jens Egholm Pedersen Argues Modern Science is Open Source Software</title>
-    <link href="https://jepedersen.dk/blog/202505_research/" rel="alternate" />
-    <id>https://jepedersen.dk/blog/202505_research/::v239</id>
-    <published>2026-09-20T10:55:00+00:00</published>
-    <updated>2026-09-20T10:55:00+00:00</updated>
-    <media:thumbnail url="https://arxiv.org/html/2601.02066v4/images/RQ4_reproducibility.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jepedersen.dk/blog/202505_research/">jepedersen.dk</a> | <a href="https://news.ycombinator.com/item?id=49762687">hacker news</a></small></p><hr/><p>Jens Egholm Pedersen argues that modern computational science is effectively synonymous with open source software. He contends that for scientific results to be truly testable and systematic, the underlying software must be open, modifiable, and reproducible, allowing researchers to verify and build upon existing models.</p><p>The essay highlights the risks of software-driven errors in research, noting that bugs can lead to significant retractions and stalled scientific progress. Pedersen envisions a future where scientific software is developed through global, collaborative communities and calls for academic institutions to formally recognize and value software contributions.</p><p><img src="https://arxiv.org/html/2601.02066v4/images/RQ4_reproducibility.png" /></p><hr/><small>20 Sep 2026, 15:52 UTC | #21745</small>]]></content>
-  </entry>
 </feed>

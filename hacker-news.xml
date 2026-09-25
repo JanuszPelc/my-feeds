@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-25T05:56:00+00:00</updated>
+  <updated>2026-09-25T05:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Amutable Systems Introduces tine Build System</title>
+    <link href="https://amutable.com/blog/tine-build-system" rel="alternate" />
+    <id>https://amutable.com/blog/tine-build-system::v239</id>
+    <published>2026-09-25T05:58:00+00:00</published>
+    <updated>2026-09-25T05:58:00+00:00</updated>
+    <media:thumbnail url="https://storage.googleapis.com/blink-451505.firebasestorage.app/screenshots/web-based-linux-os-builder-iso-generator-ie6gfjy9.sites.blink.new-1755984440010.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://amutable.com/blog/tine-build-system">amutable.com</a> | <a href="https://github.com/amutable-systems/tine">source</a> | <a href="https://lobste.rs/s/c3t81d/from_thin_air_bootable_images_tine_build">discussion</a> | <a href="https://news.ycombinator.com/item?id=49830265">hacker news</a></small></p><hr/><p>tine is a Buck2-based build system designed to create bootable operating system images, systemd sysext images, and software components such as Rust crates and Go modules. It prioritizes bitwise reproducibility and hermeticity, requiring only git, Python 3, and user namespaces to bootstrap a self-contained build environment.</p><p>The system supports monorepo-based iteration by pinning all input dependencies and using Starlark for flexible, function-oriented configuration. It features integrated support for generating CycloneDX-standard SBOMs and is compatible with security scanning tools like Syft, Grype, and Trivy.</p><p><img src="https://storage.googleapis.com/blink-451505.firebasestorage.app/screenshots/web-based-linux-os-builder-iso-generator-ie6gfjy9.sites.blink.new-1755984440010.webp" /></p><hr/><small>25 Sep 2026, 11:06 UTC | #22308</small>]]></content>
+  </entry>
   <entry>
     <title>File-Notification Systems Leak User Data Across Linux, Android, Windows, and macOS</title>
     <link href="https://inoti.fyi/" rel="alternate" />
@@ -946,14 +955,5 @@
     <updated>2026-09-20T15:19:00+00:00</updated>
     <media:thumbnail url="https://www.easefilter.com/images/sandbox-architecture.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.emilua.org/2025/01/12/software-sandboxing-basics/">blog.emilua.org</a> | <a href="https://lobste.rs/s/brptxb/software_sandboxing_basics_2025">discussion</a></small></p><hr/><p>Software sandboxing is structured through defined system call (syscall) policy groups that categorize operations such as basic I/O, filesystem access, and networking. These policies are designed for unprivileged users to restrict application permissions using mechanisms like seccomp or landlock, reducing overhead by excluding rarely used or fingerprinting-prone syscalls.</p><p>The policy design draws inspiration from OpenBSD's pledge promises and systemd seccomp filter sets. This modular categorization facilitates granular security controls while maintaining compatibility for various environments, including emulation layers like Wine.</p><p><img src="https://www.easefilter.com/images/sandbox-architecture.jpg" /></p><hr/><small>20 Sep 2026, 18:22 UTC | #21752</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Jujutsu (jj) Ecosystem: Commands, Configuration, and Tools</title>
-    <link href="https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/" rel="alternate" />
-    <id>https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/::v239</id>
-    <published>2026-09-20T10:52:00+00:00</published>
-    <updated>2026-09-20T10:52:00+00:00</updated>
-    <media:thumbnail url="https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/arrange.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/">andre.arko.net</a> | <a href="https://lobste.rs/s/xgdt4u/beyond_jj_config_tools_ecosystem">discussion</a></small></p><hr/><p>The Jujutsu (jj) version control system ecosystem is evolving through new core commands, advanced configuration options, and expanding third-party tooling. Recent core additions like `jj run`, `jj converge`, and `jj arrange` automate complex workflows that previously required external scripts or manual Git processes.</p><p>Beyond core functionality, the ecosystem features custom subcommand aliases and integrations with forges including GitHub, Radicle, and Tangled. Several dedicated graphical user interfaces, such as `gg`, `JayJay`, and `lightjj`, have also been developed to support the unique Jujutsu workflow.</p><p><img src="https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/arrange.png" /></p><hr/><small>20 Sep 2026, 15:27 UTC | #21743</small>]]></content>
   </entry>
 </feed>
