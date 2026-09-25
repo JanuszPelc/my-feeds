@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-25T09:43:00+00:00</updated>
+  <updated>2026-09-25T11:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Paranoia-Sans Typeface Automatically Redacts Conspiracy Terms</title>
+    <link href="https://github.com/flegfleg/Paranoia-Sans" rel="alternate" />
+    <id>https://github.com/flegfleg/Paranoia-Sans::v239</id>
+    <published>2026-09-25T11:33:00+00:00</published>
+    <updated>2026-09-25T11:33:00+00:00</updated>
+    <media:thumbnail url="https://librairiesanstitre.com/cdn/shop/files/d2814683-1726-42da-9948-0d93bdd593e5.jpg?v=1772043854&amp;width=1445" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/flegfleg/Paranoia-Sans">github.com</a> | <a href="https://lobste.rs/s/uc2ovf/paranoia_sans_conspiratorial_typeface">discussion</a></small></p><hr/><p>This typeface uses OpenType ligatures to automatically redact terms associated with conspiracy theories. By replacing keywords like "5G" with a black box graphic, the font simulates the visual appearance of redacted documents.</p><p>Developed by Florian Egermann and based on Courier Prime Sans, the project serves as a satirical exploration of the visual aesthetics of conspiracy myths. The open-source typeface aims to mirror the absurdity of the subjects it redacts through its automated functionality.</p><p><img src="https://librairiesanstitre.com/cdn/shop/files/d2814683-1726-42da-9948-0d93bdd593e5.jpg?v=1772043854&width=1445" /></p><hr/><small>25 Sep 2026, 15:49 UTC | #22334</small>]]></content>
+  </entry>
   <entry>
     <title>King Signs Collective Bargaining Agreement with Swedish Unions</title>
     <link href="https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers" rel="alternate" />
