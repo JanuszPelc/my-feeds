@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-25T18:34:00+00:00</updated>
+  <updated>2026-09-25T18:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Astra and Claude Opus 5 Decode Unsolved Enigma Messages</title>
+    <link href="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/::v239</id>
+    <published>2026-09-25T18:35:00+00:00</published>
+    <updated>2026-09-25T18:35:00+00:00</updated>
+    <media:thumbnail url="https://img.biggo.com/3stw_BjlOYCmkUjJdrITal0yJSq42WRswq6_p3kKyIE/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA1LzIwMjYwNTE5MTkzM19LYXJwYXRoeV9qb2luc19BbnRocm9waWNfcHJlLXRyYWluaW5nX3RlYW1fMjAyNjA1MjBfMDM0NjE1LmpwZw.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/">techcrunch.com</a></small></p><hr/><p>OpenAI’s Astra model and Anthropic’s Claude Opus 5 have deciphered two previously unsolved Enigma messages. Developer Carter Leffen used Astra to recover the plaintext of a message that had remained unbroken since 2005, while researcher Jack Willis used Claude Opus 5 to crack a different historical code.</p><p>Cryptologist Frode Weirerud validated the results, highlighting the models' ability to perform archival research and simulate machine mechanics. These findings demonstrate advanced reasoning capabilities that could significantly accelerate cryptanalysis, with only seven unsolved Enigma messages remaining.</p><p><img src="https://img.biggo.com/3stw_BjlOYCmkUjJdrITal0yJSq42WRswq6_p3kKyIE/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA1LzIwMjYwNTE5MTkzM19LYXJwYXRoeV9qb2luc19BbnRocm9waWNfcHJlLXRyYWluaW5nX3RlYW1fMjAyNjA1MjBfMDM0NjE1LmpwZw.jpg" /></p><hr/><small>25 Sep 2026, 22:33 UTC | #22350</small>]]></content>
+  </entry>
   <entry>
     <title>Ollaya Launches Local Runtime for Decision Models</title>
     <link href="https://ollaya.dev/" rel="alternate" />
@@ -518,14 +527,5 @@
     <updated>2026-09-21T07:19:00+00:00</updated>
     <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQHnS9XWgX3UXg/article-cover_image-shrink_720_1280/B56ZtWJPkeJoAI-/0/1766676828535?e=2147483647&amp;v=beta&amp;t=SGDHmI66Is4C91f1wWLQksYTwmQcNAtaCMRVXt954Go" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://maharship.com/blog/why-mcp-was-always-a-bad-idea/">maharship.com</a> | <a href="https://news.ycombinator.com/item?id=49779329">hacker news</a></small></p><hr/><p>The Model Context Protocol (MCP), introduced by Anthropic in 2024 to facilitate connections between AI agents and external data, is losing its necessity as large language models (LLMs) become more autonomous. The author argues that as models evolve to execute code and interact directly with APIs and Command Line Interfaces (CLIs), the specialized abstraction layer provided by MCP becomes redundant.</p><p>Beyond the rising intelligence of models, the article highlights "context bloat"—where multiple tool schemas from various MCP servers overwhelm the model's context window—as a significant drawback. The author suggests that instead of relying on MCP, the industry should standardize agent-to-server communication through existing HTTP protocols and specialized headers, such as Accept: text/markdown.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQHnS9XWgX3UXg/article-cover_image-shrink_720_1280/B56ZtWJPkeJoAI-/0/1766676828535?e=2147483647&v=beta&t=SGDHmI66Is4C91f1wWLQksYTwmQcNAtaCMRVXt954Go" /></p><hr/><small>21 Sep 2026, 11:32 UTC | #21811</small>]]></content>
-  </entry>
-  <entry>
-    <title>AX: Open-Source Runtime for Large-Scale Agentic Workloads</title>
-    <link href="https://agentexecutor.io" rel="alternate" />
-    <id>https://agentexecutor.io::v239</id>
-    <published>2026-09-20T22:33:00+00:00</published>
-    <updated>2026-09-20T22:33:00+00:00</updated>
-    <media:thumbnail url="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/dd8c13f6-55ac-4b77-82f3-f2c2bfffecbc_2000x1509.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://agentexecutor.io">agentexecutor.io</a> | <a href="https://cloud.google.com/blog/products/ai-machine-learning/agent-executor-googles-distributed-agent-runtime/">source</a> | <a href="https://news.ycombinator.com/item?id=49780797">hacker news</a></small></p><hr/><p>This open-source, declarative runtime is built to orchestrate and scale AI agent workloads. Utilizing the Agent Substrate, it treats tasks as lightweight, stateful actors, enabling the execution of billions of concurrent agent sessions per cluster. The system manages the unique requirements of agentic execution, including sub-second suspension and resumption of idle agents, secure sandboxing, and efficient resource multiplexing.</p><p>The platform integrates generative AI to allow users to provision complex development environments through natural language descriptions. It supports diverse workloads, including interactive coding agents, Jupyter notebooks, and headless browser testing, targeting both application developers and AI researchers.</p><p><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/dd8c13f6-55ac-4b77-82f3-f2c2bfffecbc_2000x1509.png" /></p><hr/><small>21 Sep 2026, 01:21 UTC | #21774</small>]]></content>
   </entry>
 </feed>
