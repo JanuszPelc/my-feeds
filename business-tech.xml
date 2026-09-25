@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T20:57:00+00:00</updated>
+  <updated>2026-09-24T21:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Federal Reserve Unveils Stablecoin Regulatory Proposals</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-24/fed-unveils-more-stablecoin-plans-as-regulators-embrace-crypto" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-24/fed-unveils-more-stablecoin-plans-as-regulators-embrace-crypto::v239</id>
+    <published>2026-09-24T21:03:00+00:00</published>
+    <updated>2026-09-24T21:03:00+00:00</updated>
+    <media:thumbnail url="https://braxtontulin.com/wp-content/uploads/2026/03/genius-act-framework-structure-diagram.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-24/fed-unveils-more-stablecoin-plans-as-regulators-embrace-crypto">bloomberg.com</a> | <a href="https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm">source</a></small></p><hr/><p>The agency has introduced proposals to establish a regulatory framework for payment stablecoin issuers under the GENIUS Act. The measures include requirements for issuers to fully back their tokens with permissible reserve assets, such as short-term Treasury bills and other high-quality liquid assets.</p><p>The initiative focuses on setting capital standards and reserve-asset limits for Board-supervised entities. These proposals represent a significant step in the broader effort to integrate digital asset regulation into the U.S. financial system.</p><p><img src="https://braxtontulin.com/wp-content/uploads/2026/03/genius-act-framework-structure-diagram.png" /></p><hr/><small>25 Sep 2026, 03:41 UTC | #22270</small>]]></content>
+  </entry>
   <entry>
     <title>United States Intervenes in Challenge Against EU's €120M Fine on X</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-24/us-seeks-to-join-musk-in-court-fight-with-eu-over-x-fine" rel="alternate" />
