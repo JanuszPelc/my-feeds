@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-24T21:05:00+00:00</updated>
+  <updated>2026-09-24T21:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Agent-Shell 0.78 Adds Persistent Prompts and Agent Steering</title>
+    <link href="https://xenodium.com/agent-shell-0-78-updates" rel="alternate" />
+    <id>https://xenodium.com/agent-shell-0-78-updates::v239</id>
+    <published>2026-09-24T21:23:00+00:00</published>
+    <updated>2026-09-24T21:23:00+00:00</updated>
+    <media:thumbnail url="https://xenodium.github.io/images/agent-shell-0-5-improvements/picker.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://xenodium.com/agent-shell-0-78-updates">xenodium.com</a> | <a href="https://lobste.rs/s/ujn9jm/agent_shell_0_78_updates">discussion</a></small></p><hr/><p>Agent-shell, an Emacs mode for interacting with AI agents via the Agent Client Protocol (ACP), has released version 0.78. This update introduces persistent, writeable prompts that allow users to queue commands while an agent is processing a turn, alongside "steering" capabilities to course-correct in-flight agent interactions.</p><p>The release adds support for Google's Antigravity and Qoder CLI agents and introduces drag-and-drop functionality for files and images. Additional improvements include an optional cumulative token cost indicator, enhanced slash command completion, and refined search and table rendering within the Emacs interface.</p><p><img src="https://xenodium.github.io/images/agent-shell-0-5-improvements/picker.png" /></p><hr/><small>25 Sep 2026, 05:25 UTC | #22296</small>]]></content>
+  </entry>
   <entry>
     <title>Toyota Developing Electric and Hybrid Versions of Next-Generation Corolla</title>
     <link href="https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/" rel="alternate" />
@@ -937,14 +946,5 @@
     <updated>2026-09-20T06:20:00+00:00</updated>
     <media:thumbnail url="https://ooni.org/post/2025-iran-censorship-womens-rights/images/image3.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ooni.org/install">ooni.org</a> | <a href="https://news.ycombinator.com/item?id=49769676">hacker news</a></small></p><hr/><p>This open-source tool detects and measures internet censorship and network interference. It enables users to identify blocked websites and messaging applications, such as WhatsApp or Telegram, and measure network speed using NDT testing developed with M-Lab.</p><p>Users can install the software on desktop or mobile platforms to contribute data to an open dataset of global internet censorship. The tool also helps verify whether circumvention tools are functioning correctly on a specific network.</p><p><img src="https://ooni.org/post/2025-iran-censorship-womens-rights/images/image3.png" /></p><hr/><small>20 Sep 2026, 13:16 UTC | #21736</small>]]></content>
-  </entry>
-  <entry>
-    <title>CXMT Enters Mass Production for Fifth-Generation Memory Platform</title>
-    <link href="https://www.reuters.com/world/asia-pacific/chinas-cxmt-says-new-memory-chip-platform-enters-mass-production-2026-09-20/" rel="alternate" />
-    <id>https://www.reuters.com/world/asia-pacific/chinas-cxmt-says-new-memory-chip-platform-enters-mass-production-2026-09-20/::v239</id>
-    <published>2026-09-20T05:21:00+00:00</published>
-    <updated>2026-09-20T05:21:00+00:00</updated>
-    <media:thumbnail url="https://cdn.videocardz.com/1/2025/11/CXMT-1.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/chinas-cxmt-says-new-memory-chip-platform-enters-mass-production-2026-09-20/">reuters.com</a> | <a href="https://www.cxmt.com/en/news/info_19.html">source</a></small></p><hr/><p>CXMT has commenced mass production of its fifth-generation technology platform. The rollout includes the unveiling of two new 24Gb LPDDR5X mobile memory products specifically designed for smartphones.</p><p>This manufacturing milestone is intended to strengthen CXMT's position in the global DRAM market, positioning the company as a competitor to major industry leaders such as Samsung, SK hynix, and Micron.</p><p><img src="https://cdn.videocardz.com/1/2025/11/CXMT-1.jpg" /></p><hr/><small>20 Sep 2026, 12:25 UTC | #21720</small>]]></content>
   </entry>
 </feed>
