@@ -975,22 +975,4 @@
     <media:thumbnail url="https://sunilpai.dev/_astro/senior-engineer-death-spiral.BObau-Zy_1oRjvd.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://sunilpai.dev/posts/the-senior-engineer-death-spiral/">sunilpai.dev</a> | <a href="https://news.ycombinator.com/item?id=49776130">hacker news</a></small></p><hr/><p>The "senior engineer death spiral" describes a failure pattern where engineers in new or promoted roles attempt to combat imposter syndrome by working excessive hours in isolation. This cycle of over-ambition and lack of visibility often leads to burnout, strained professional relationships, and job loss.</p><p>To avoid this spiral, the author suggests shifting from an outcome-based mindset to one focused on momentum and reliability. By "dropping a level" to focus on supporting teammates through small, consistent tasks, engineers can rebuild professional trust and develop the stamina required for long-term career success.</p><p><img src="https://sunilpai.dev/_astro/senior-engineer-death-spiral.BObau-Zy_1oRjvd.webp" /></p><hr/><small>21 Sep 2026, 07:47 UTC | #21791</small>]]></content>
   </entry>
-  <entry>
-    <title>Cathode Ray Tubes' Impact on Pixel Art Visuals</title>
-    <link href="https://datagubbe.se/crt/" rel="alternate" />
-    <id>https://datagubbe.se/crt/::v239</id>
-    <published>2026-09-20T23:24:00+00:00</published>
-    <updated>2026-09-20T23:24:00+00:00</updated>
-    <media:thumbnail url="https://datagubbe.se/crt/rpg_compare.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://datagubbe.se/crt/">datagubbe.se</a> | <a href="https://news.ycombinator.com/item?id=49768336">hacker news</a></small></p><hr/><p>Cathode Ray Tubes (CRTs) alter pixel art through scanlines and color bleeding, which soften edges and blend colors to simulate higher resolution and depth. These physical properties interact with artistic techniques like dithering and anti-aliasing to help circumvent the memory and color limitations of 8-bit and 16-bit hardware.</p><p>Visual clarity is determined by signal quality, ranging from low-fidelity composite video to high-fidelity RGB SCART. The interplay between a system's output and a screen's physical properties was a critical factor in the aesthetic evolution of early digital graphics.</p><p><img src="https://datagubbe.se/crt/rpg_compare.png" /></p><hr/><small>21 Sep 2026, 07:34 UTC | #21790</small>]]></content>
-  </entry>
-  <entry>
-    <title>Using Non-Breaking Spaces in Test Method Names</title>
-    <link href="https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names" rel="alternate" />
-    <id>https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names::v239</id>
-    <published>2026-09-20T23:22:00+00:00</published>
-    <updated>2026-09-20T23:22:00+00:00</updated>
-    <media:thumbnail url="https://uploads-us-west-2.insided.com/adobedme-en/attachment/444589iED999863FE35F5DE.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://mnapoli.fr/using-non-breakable-spaces-in-test-method-names">mnapoli.fr</a> | <a href="https://lobste.rs/s/bvsaiy/using_non_breakable_spaces_test_method">discussion</a></small></p><hr/><p>By incorporating non-breaking spaces into PHP test method names, developers can write code identifiers that read like natural-language sentences. This technique avoids the clutter of camelCase or snake_case by leveraging the language's ability to interpret these special characters as valid syntax, significantly improving the readability of test assertions.</p><p>While this approach improves clarity during code reviews, it can challenge the principle of least astonishment for new contributors or those in open-source environments. The author suggests this practice is most effective within small, private teams where coding standards can be easily communicated and maintained through consensus.</p><p><img src="https://uploads-us-west-2.insided.com/adobedme-en/attachment/444589iED999863FE35F5DE.png" /></p><hr/><small>21 Sep 2026, 07:11 UTC | #21789</small>]]></content>
-  </entry>
 </feed>
