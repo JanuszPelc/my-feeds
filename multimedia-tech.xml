@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-25T11:33:00+00:00</updated>
+  <updated>2026-09-25T14:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Wube Software Releases 3D Printable Factorio Models</title>
+    <link href="https://factorio.com/blog/post/fff-447" rel="alternate" />
+    <id>https://factorio.com/blog/post/fff-447::v239</id>
+    <published>2026-09-25T14:50:00+00:00</published>
+    <updated>2026-09-25T14:50:00+00:00</updated>
+    <media:thumbnail url="https://cdn.factorio.com/assets/blog-sync/fff-447-assets-diorama.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://factorio.com/blog/post/fff-447">factorio.com</a> | <a href="https://news.ycombinator.com/item?id=49845133">hacker news</a></small></p><hr/><p>Wube Software has released a collection of 247 STL files featuring 65 different 3D models of Factorio entities for fans to print. Developed in collaboration with Prusa Research, the set includes transport belts, machines, enemies, and other early-game elements designed for both push-fit assembly and high-clearance printing.</p><p>Instead of selling limited physical collector's items, the developers opted to distribute the digital files for free to encourage community creativity and provide wider accessibility. The models are specifically optimized for FDM printing, with versions designed to minimize the need for support structures.</p><p><img src="https://cdn.factorio.com/assets/blog-sync/fff-447-assets-diorama.jpg" /></p><hr/><small>25 Sep 2026, 20:33 UTC | #22376</small>]]></content>
+  </entry>
   <entry>
     <title>Paranoia-Sans Typeface Automatically Redacts Conspiracy Terms</title>
     <link href="https://github.com/flegfleg/Paranoia-Sans" rel="alternate" />
