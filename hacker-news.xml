@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-24T22:20:00+00:00</updated>
+  <updated>2026-09-25T01:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>GitHub Delays Removal of Malicious Software Impersonating Easy Data Transform</title>
+    <link href="https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/" rel="alternate" />
+    <id>https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/::v239</id>
+    <published>2026-09-25T01:08:00+00:00</published>
+    <updated>2026-09-25T01:08:00+00:00</updated>
+    <media:thumbnail url="https://successfulsoftware.net/wp-content/uploads/2026/09/github.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/">successfulsoftware.net</a> | <a href="https://news.ycombinator.com/item?id=49832406">hacker news</a></small></p><hr/><p>The malicious repository used the product's name and logo to distribute an installer containing malware. This installer included a custom background image intended to persuade users to bypass security warnings.</p><p>After 23 days of silence from GitHub support, the page was removed shortly after the story reached the front page of Hacker News. The author argues that the platform's moderation response time appears to be influenced by public visibility.</p><p><img src="https://successfulsoftware.net/wp-content/uploads/2026/09/github.png" /></p><hr/><small>25 Sep 2026, 08:42 UTC | #22301</small>]]></content>
+  </entry>
   <entry>
     <title>Whiteboard Launches Open-Source IDE for Human-Agent Software Design</title>
     <link href="https://github.com/devdotfast/whiteboard" rel="alternate" />
