@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T20:46:00+00:00</updated>
+  <updated>2026-09-24T20:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nintendo Wins $4.5 Million in Lawsuit Against Switch Piracy Moderator</title>
+    <link href="https://aftermath.site/nintendo-switch-archbox-pirate-lawsuit/" rel="alternate" />
+    <id>https://aftermath.site/nintendo-switch-archbox-pirate-lawsuit/::v239</id>
+    <published>2026-09-24T20:47:00+00:00</published>
+    <updated>2026-09-24T20:47:00+00:00</updated>
+    <media:thumbnail url="https://torrentfreak.com/images/finaljudgment.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://aftermath.site/nintendo-switch-archbox-pirate-lawsuit/">aftermath.site</a> | <a href="https://www.courtlistener.com/docket/68901470/nintendo-of-america-inc-v-williams/">source</a></small></p><hr/><p>Nintendo of America has been awarded $4.5 million in damages in a lawsuit against Reddit moderator James Williams, who allegedly operated online shops distributing pirated Nintendo Switch games. The Washington court issued a default judgment after Williams failed to respond to the legal action. The ruling also mandates the permanent closure of the online storefronts used to distribute the unauthorized software.</p><p>The litigation, which began in June 2024, targeted the "Archbox" persona and the illegal distribution of large game libraries via the /r/SwitchPirates subreddit. This victory is part of a broader legal campaign by Nintendo to curb piracy, which includes lawsuits against modded hardware companies and recent European court rulings against circumvention devices.</p><p><img src="https://torrentfreak.com/images/finaljudgment.png" /></p><hr/><small>25 Sep 2026, 01:27 UTC | #22256</small>]]></content>
+  </entry>
   <entry>
     <title>NSA Spending Billions to Test AI Models</title>
     <link href="https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models" rel="alternate" />
