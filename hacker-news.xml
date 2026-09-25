@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-25T13:11:00+00:00</updated>
+  <updated>2026-09-25T13:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>git-bug: Distributed, Offline-First Bug Tracker Integrated in Git</title>
+    <link href="https://github.com/git-bug/git-bug" rel="alternate" />
+    <id>https://github.com/git-bug/git-bug::v239</id>
+    <published>2026-09-25T13:23:00+00:00</published>
+    <updated>2026-09-25T13:23:00+00:00</updated>
+    <media:thumbnail url="https://github.com/git-bug/git-bug/raw/trunk/doc/assets/native-workflow.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/git-bug/git-bug">github.com</a> | <a href="https://news.ycombinator.com/item?id=49843174">hacker news</a></small></p><hr/><p>git-bug is a distributed, offline-first bug tracker that integrates directly with Git repositories. By leveraging standard Git remotes, users can collaborate on issues, comments, and status updates using git push and git pull commands, allowing for issue management without a centralized hosting service.</p><p>The tool provides multiple interfaces, including a command-line interface (CLI), an interactive terminal UI, and a local Web UI powered by a GraphQL API. It also features bridges to import and export data from major platforms such as GitHub, GitLab, Jira, and Launchpad.</p><p><img src="https://github.com/git-bug/git-bug/raw/trunk/doc/assets/native-workflow.png" /></p><hr/><small>25 Sep 2026, 18:57 UTC | #22361</small>]]></content>
+  </entry>
   <entry>
     <title>Go Introduces Platform-Independent SIMD API</title>
     <link href="https://go.dev/blog/simd-experiment" rel="alternate" />
@@ -974,14 +983,5 @@
     <updated>2026-09-20T22:39:00+00:00</updated>
     <media:thumbnail url="https://shapes.inc/api/public/avatar/turingcomplete" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/iamgio/quarkdown">github.com</a> | <a href="https://lobste.rs/s/wryj2p/quarkdown_turing_complete_markdown">discussion</a></small></p><hr/><p>Quarkdown is a Markdown-based typesetting system that compiles a single source into academic papers, books, interactive presentations, or static websites. It extends CommonMark and GitHub Flavored Markdown with Turing-complete functions and variables, enabling dynamic content through a standard library that supports layout builders, math, and control flow.</p><p>Supported output targets include HTML, PDF, and plain text. The tool provides a command-line interface with live preview functionality and offers editor extensions for VS Code and IntelliJ IDEA.</p><p><img src="https://shapes.inc/api/public/avatar/turingcomplete" /></p><hr/><small>21 Sep 2026, 05:03 UTC | #21782</small>]]></content>
-  </entry>
-  <entry>
-    <title>Notion Implements CRDTs for Conflict-Free Collaborative Editing</title>
-    <link href="https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts" rel="alternate" />
-    <id>https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts::v239</id>
-    <published>2026-09-20T19:00:00+00:00</published>
-    <updated>2026-09-20T19:00:00+00:00</updated>
-    <media:thumbnail url="https://media2.dev.to/dynamic/image/width=800,height=,fit=scale-down,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fmp1mg52quc3abz4kqsb.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts">notion.com</a> | <a href="https://lobste.rs/s/ppfyza/how_notion_handles_concurrent_editing">discussion</a> | <a href="https://news.ycombinator.com/item?id=49764987">hacker news</a></small></p><hr/><p>Notion has implemented a system based on Conflict-free Replicated Data Types (CRDTs) to manage concurrent editing within its block-based document model. Moving away from a "last write wins" approach, the architecture uses a Replicated Growable Array (RGA) structure to ensure that simultaneous edits from multiple users are merged deterministically without losing data.</p><p>The implementation supports rich text formatting by applying the Peritext algorithm for annotations such as bolding and hyperlinking. To maintain consistency when users split or move text across different blocks, Notion utilizes a hierarchical system of text slices, text instances, and search labels, allowing the system to locate and apply updates to the correct target fragments even as the document structure changes.</p><p><img src="https://media2.dev.to/dynamic/image/width=800,height=,fit=scale-down,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fmp1mg52quc3abz4kqsb.png" /></p><hr/><small>21 Sep 2026, 00:38 UTC | #21772</small>]]></content>
   </entry>
 </feed>
