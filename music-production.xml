@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-25T08:06:00+00:00</updated>
+  <updated>2026-09-25T13:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Polyend Unveils Loop Looper and Multi-Effects Pedal</title>
+    <link href="https://musictech.com/news/gear/polyend-loop/" rel="alternate" />
+    <id>https://musictech.com/news/gear/polyend-loop/::v239</id>
+    <published>2026-09-25T13:06:00+00:00</published>
+    <updated>2026-09-25T13:06:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Polyend-Loop-1@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/polyend-loop/">musictech.com</a> | <a href="https://polyend.com/loop/">source</a></small></p><hr/><p>The device combines a looper, drum machine, and multi-effects station. It features four mono/stereo loop tracks, a four-track sample-based drum machine with over 500 kits, and more than 100 onboard effects.</p><p>The hardware includes a "scenes" feature to store up to 1,000 song sections, such as verses or choruses, with tempo and effect data. It supports instrument, line, and microphone inputs, microSD storage, and both TRS and USB MIDI. The pedal is available for preorder at $599 / €599, with shipping expected to begin in October 2026.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Polyend-Loop-1@2000x1500.jpg" /></p><hr/><small>25 Sep 2026, 16:35 UTC | #22312</small>]]></content>
+  </entry>
+  <entry>
+    <title>ABYZOR Releases Free Local AI Module for Genesis</title>
+    <link href="https://www.kvraudio.com/news/abyzor-updates-genesis-with-free-ai-module---unlimited-local-ai-for-midi-68717?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68717" rel="alternate" />
+    <id>https://www.kvraudio.com/news/abyzor-updates-genesis-with-free-ai-module---unlimited-local-ai-for-midi-68717?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68717::v239</id>
+    <published>2026-09-25T13:05:00+00:00</published>
+    <updated>2026-09-25T13:05:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/tinyfied.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/abyzor-updates-genesis-with-free-ai-module---unlimited-local-ai-for-midi-68717?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68717">kvraudio.com</a> | <a href="https://abyzor.space/midi-ai/">source</a></small></p><hr/><p>ABYZOR has released a free beta AI module for its Genesis MIDI generator plugin, enabling local, unlimited AI-powered MIDI transformations. Running directly on a computer's CPU or GPU, the module allows users to remix pitches, preserve grooves, or transform specific musical sections of existing MIDI patterns without requiring a subscription or internet connection.</p><p>The module is intended to serve as a shared foundation for the ABYZOR ecosystem, with planned integration for ABYZOR Variations in the future. Users can generate and compare multiple AI interpretations of existing MIDI data to explore different musical directions while maintaining the original rhythmic or melodic character.</p><p><img src="https://static.kvraudio.com/i/b/tinyfied.png" /></p><hr/><small>25 Sep 2026, 16:33 UTC | #22329</small>]]></content>
+  </entry>
   <entry>
     <title>LOFI Monster Studio Releases MonsterDMX for Ableton Live</title>
     <link href="https://www.kvraudio.com/news/lofi-monster-studio-releases-monsterdmx---free-dmx-lighting-control-for-ableton-live-68719?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68719" rel="alternate" />

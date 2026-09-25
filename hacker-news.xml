@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-25T13:02:00+00:00</updated>
+  <updated>2026-09-25T13:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Espressif ESP32-S31 Supports Linux via RISC-V MMU</title>
+    <link href="https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/" rel="alternate" />
+    <id>https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/::v239</id>
+    <published>2026-09-25T13:08:00+00:00</published>
+    <updated>2026-09-25T13:08:00+00:00</updated>
+    <media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/esp32-s31-featured.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/">xda-developers.com</a> | <a href="https://www.espressif.com/en/news/ESP32_S31_Release">source</a> | <a href="https://news.ycombinator.com/item?id=49828969">hacker news</a></small></p><hr/><p>Espressif's ESP32-S31 microcontroller integrates a Gigabit Ethernet MAC, USB 2.0 High-Speed host, and SD card interfaces, positioning it closer to a single-board computer than standard microcontrollers. The chip includes a hardware-level MMU supporting Sv32 page-table address translation and three privilege modes, which allows it to run Linux natively.</p><p>While capable of running a Linux terminal, the S31's 64MB maximum PSRAM and lack of a dedicated GPU or NPU limit it to command-line or basic graphical interfaces rather than full desktop environments. The SoC also features Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios, offering significant connectivity for embedded Linux applications.</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/esp32-s31-featured.jpg?q=49&fit=crop&w=825&dpr=2" /></p><hr/><small>25 Sep 2026, 16:43 UTC | #22346</small>]]></content>
+  </entry>
+  <entry>
+    <title>Tailscale Details Performance and Memory Optimizations</title>
+    <link href="https://tailscale.com/blog/making-tailscale-faster" rel="alternate" />
+    <id>https://tailscale.com/blog/making-tailscale-faster::v239</id>
+    <published>2026-09-25T13:07:00+00:00</published>
+    <updated>2026-09-25T13:07:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQGF_VtLDb2y4w/feedshare-shrink_800/B56ZqRguZ1JYAg-/0/1763377870237?e=2147483647&amp;v=beta&amp;t=lt_Vg1J3-RpZAssDB0BcLF-jZOqkMQkaCGeOGVGnKRI" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://tailscale.com/blog/making-tailscale-faster">tailscale.com</a> | <a href="https://news.ycombinator.com/item?id=49819880">hacker news</a></small></p><hr/><p>Tailscale is implementing several performance improvements to enhance throughput and reduce latency across its data plane. Key updates include a multi-queue system for subnet routers, app connectors, and exit nodes to better utilize CPU cores, as well as memory optimizations for small packets on Linux and Android. The company also aims to accelerate connection startup times through netmap caching, which allows devices to establish peer connections using locally stored network maps before contacting the control plane.</p><p>These optimizations, including the use of Linux's writev for reduced memory copies, are being rolled out in phases through v1.104 and beyond in late 2026. The improvements are targeted at performance-sensitive workloads such as continuous integration, remote development, and heavy telemetry. Additionally, Tailscale is exploring the development of native performance monitoring and diagnostic tooling to help users troubleshoot network paths.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQGF_VtLDb2y4w/feedshare-shrink_800/B56ZqRguZ1JYAg-/0/1763377870237?e=2147483647&v=beta&t=lt_Vg1J3-RpZAssDB0BcLF-jZOqkMQkaCGeOGVGnKRI" /></p><hr/><small>25 Sep 2026, 16:39 UTC | #22345</small>]]></content>
+  </entry>
   <entry>
     <title>Amiga Display Screens and Graphics Hardware Primer</title>
     <link href="https://www.datagubbe.se/amscr/" rel="alternate" />
