@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T21:03:00+00:00</updated>
+  <updated>2026-09-24T21:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Microsoft Reorganizes Communications Function Under Brad Smith</title>
+    <link href="https://www.geekwire.com/2026/internal-memos-microsoft-shakes-up-communications-as-nadella-makes-a-push-to-build-in-public/" rel="alternate" />
+    <id>https://www.geekwire.com/2026/internal-memos-microsoft-shakes-up-communications-as-nadella-makes-a-push-to-build-in-public/::v239</id>
+    <published>2026-09-24T21:06:00+00:00</published>
+    <updated>2026-09-24T21:06:00+00:00</updated>
+    <media:thumbnail url="https://files.vgtimes.com/si/post_141978_en.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.geekwire.com/2026/internal-memos-microsoft-shakes-up-communications-as-nadella-makes-a-push-to-build-in-public/">geekwire.com</a></small></p><hr/><p>Microsoft is moving its communications department from the marketing group to the corporate, external, and legal affairs organization led by Vice Chair and President Brad Smith. Brent Colburn will serve as the interim communications leader following Frank X. Shaw's announcement that he will transition to an advisory role through the end of the year.</p><p>CEO Satya Nadella's reorganization aims to adopt a "build in public" model, encouraging employees like engineers and partners to serve as part of the company's public voice. This strategy is intended to navigate a fragmented media landscape and mirrors the more informal, direct communication styles used by AI-focused startups and research labs.</p><p><img src="https://files.vgtimes.com/si/post_141978_en.jpg" /></p><hr/><small>25 Sep 2026, 04:02 UTC | #22268</small>]]></content>
+  </entry>
   <entry>
     <title>Federal Reserve Unveils Stablecoin Regulatory Proposals</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-24/fed-unveils-more-stablecoin-plans-as-regulators-embrace-crypto" rel="alternate" />
