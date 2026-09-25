@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Appeals Court Upholds Pentagon Designation of Anthropic as Supply Chain Risk</title>
+    <link href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html::v239</id>
+    <published>2026-09-25T18:40:00+00:00</published>
+    <updated>2026-09-25T18:40:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20wbBJ.img?w=2000&amp;h=1333&amp;m=4&amp;q=93" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">cnbc.com</a> | <a href="https://media.cadc.uscourts.gov/orders/docs/2026/04-26-1049LDSN3.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=49845977">hacker news</a></small></p><hr/><p>A D.C. appeals court has affirmed the Department of Defense's decision to designate Anthropic as a supply chain risk. The 2-1 ruling rejects the AI company's claims that the Pentagon's ban on its Claude models was arbitrary and unconstitutional, maintaining restrictions that prohibit the U.S. military and its contractors from using the technology.</p><p>The decision follows failed negotiations regarding the integration of Claude into military information systems. While a San Francisco federal judge previously invalidated one of the administration's designations, this ruling upholds a second designation, complicating Anthropic's legal efforts to overturn the blacklisting.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20wbBJ.img?w=2000&h=1333&m=4&q=93" /></p><hr/><small>25 Sep 2026, 23:04 UTC | #22343</small>]]></content>
+  </entry>
+  <entry>
     <title>Tesla Optimus Production Increases to Several Hundred Units Per Week Amid Manufacturing Challenges</title>
     <link href="https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins" rel="alternate" />
     <id>https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins::v239</id>

@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-24T20:55:00+00:00</updated>
+  <updated>2026-09-25T18:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Glyph Lefkowitz Re-evaluates the Relationship Between Open Source Maintainers and Users</title>
+    <link href="https://blog.glyph.im/2026/09/who-is-open-source-about.html" rel="alternate" />
+    <id>https://blog.glyph.im/2026/09/who-is-open-source-about.html::v239</id>
+    <published>2026-09-25T18:41:00+00:00</published>
+    <updated>2026-09-25T18:41:00+00:00</updated>
+    <media:thumbnail url="https://odishanewsinsight.com/wp-content/uploads/2026/02/Open-Source-Philosophy-1536x1024.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.glyph.im/2026/09/who-is-open-source-about.html">blog.glyph.im</a> | <a href="https://lobste.rs/s/5gqorv/who_is_open_source_about">discussion</a> | <a href="https://news.ycombinator.com/item?id=49841824">hacker news</a></small></p><hr/><p>Glyph Lefkowitz challenges the notion that open source is a one-sided gift, arguing instead that it is an implicit exchange of value between maintainers and users. The piece asserts that this relationship is more complex than simple charity, involving subtle social and economic transactions that establish long-term obligations.</p><p>The author explores several drivers for open source participation, including reputation, technological influence, skill development, and the outsourcing of maintenance. The essay also addresses the ethical implications of this trust, specifically regarding the responsibility maintainers hold over the security and integrity of the code they distribute.</p><p><img src="https://odishanewsinsight.com/wp-content/uploads/2026/02/Open-Source-Philosophy-1536x1024.jpg" /></p><hr/><small>25 Sep 2026, 23:07 UTC | #22388</small>]]></content>
+  </entry>
   <entry>
     <title>Evolutionary Trade-offs Between Organ Regeneration and Cancer Risk</title>
     <link href="https://dynomight.substack.com/p/liver" rel="alternate" />
