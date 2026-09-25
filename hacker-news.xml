@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-24T20:39:00+00:00</updated>
+  <updated>2026-09-24T20:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Meta Announces $1,300 Lightweight VR Glasses</title>
+    <link href="https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300::v239</id>
+    <published>2026-09-24T20:43:00+00:00</published>
+    <updated>2026-09-24T20:43:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blted9de507d3c4c379/6ab54cf24dba8124c746e551/New_Project(46).png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300">gamedeveloper.com</a> | <a href="https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/">source</a></small></p><hr/><p>Meta has announced its "Meta VR Glasses," a lightweight wearable weighing approximately 100 grams designed for use as a personal cinema, workspace, and gaming console. The device operates without external controllers, instead using hand tracking and passthrough technology via an optical tether connected to a puck that handles compute, battery, and storage.</p><p>Slated for a Spring 2027 release, the hardware will feature upcoming titles such as Phoenix Wright Ace Attorney: Dual Destinies VR, Tetris Effect: Mixed Realities, and Beat Saber: Flux. The launch comes as Meta's Reality Labs division continues to report heavy financial losses while pushing for wider adoption of its hardware ecosystem.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blted9de507d3c4c379/6ab54cf24dba8124c746e551/New_Project(46).png?width=720&quality=80&disable=upscale" /></p><hr/><small>25 Sep 2026, 00:17 UTC | #22263</small>]]></content>
+  </entry>
   <entry>
     <title>ansi2html XSS Vulnerability Enables SourceHut Account Takeover</title>
     <link href="https://blog.arusekk.pl/posts/srht-account-takeover/" rel="alternate" />
