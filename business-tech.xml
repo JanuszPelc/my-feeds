@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T21:21:00+00:00</updated>
+  <updated>2026-09-25T00:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Databricks Acquires Row Zero to Expand Genie AI Capabilities</title>
+    <link href="https://www.axios.com/pro/enterprise-software-deals/2026/09/24/databricks-row-zero-agentic" rel="alternate" />
+    <id>https://www.axios.com/pro/enterprise-software-deals/2026/09/24/databricks-row-zero-agentic::v239</id>
+    <published>2026-09-25T00:06:00+00:00</published>
+    <updated>2026-09-25T00:06:00+00:00</updated>
+    <media:thumbnail url="https://cdn.sanity.io/images/2w8agf2t/production/d80ae2c7c37d7c40e8ecb8e4b85b41ec35881e9f-2100x1570.jpg?w=1600&amp;q=85&amp;fit=max&amp;auto=format" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/pro/enterprise-software-deals/2026/09/24/databricks-row-zero-agentic">axios.com</a> | <a href="https://www.databricks.com/company/newsroom/press-releases/databricks-acquires-row-zero-bringing-live-governed-spreadsheets">source</a></small></p><hr/><p>Databricks has acquired cloud-based spreadsheet startup Row Zero to bolster its AI assistant, Genie. The move integrates a grid-based interface into the Databricks platform, enabling users to perform data modeling and analysis within a familiar spreadsheet environment.</p><p>Row Zero, which raised $10 million in seed funding led by IA Ventures last year, specializes in scalable spreadsheets designed for enterprise datasets. This integration is intended to provide business users with a governed, auditable way to interact with data via Genie's AI-driven workflows.</p><p><img src="https://cdn.sanity.io/images/2w8agf2t/production/d80ae2c7c37d7c40e8ecb8e4b85b41ec35881e9f-2100x1570.jpg?w=1600&q=85&fit=max&auto=format" /></p><hr/><small>25 Sep 2026, 07:14 UTC | #22285</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Signs $11.6 Billion Cloud Services Deal with Akamai</title>
     <link href="https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/" rel="alternate" />
