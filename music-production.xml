@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-25T15:32:00+00:00</updated>
+  <updated>2026-09-25T16:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Filmic Gaze Releases Field Four Four-Track Recorder</title>
+    <link href="https://www.kvraudio.com/news/filmic-gaze-releases-field-four-a-free-four-track-recorder-for-windows-68737?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68737" rel="alternate" />
+    <id>https://www.kvraudio.com/news/filmic-gaze-releases-field-four-a-free-four-track-recorder-for-windows-68737?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68737::v239</id>
+    <published>2026-09-25T16:19:00+00:00</published>
+    <updated>2026-09-25T16:19:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/01-recording-four-track-1920x1080-kvr.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/filmic-gaze-releases-field-four-a-free-four-track-recorder-for-windows-68737?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68737">kvraudio.com</a> | <a href="https://fieldfour.filmicgaze.com/">source</a></small></p><hr/><p>Inspired by classic TASCAM Portastudio hardware, this free Windows software enables recording four continuous mono tracks. The tool supports overdubbing, punch-in/out, same-reel bounce, and mono or stereo mixing to a new reel.</p><p>The application features built-in reverse, vari-speed (0.5x–2x), and a fixed tape switch. It exports individual tracks as 48 kHz, 32-bit-float WAV files, while finished mixes are available in 24-bit WAV or 320 kbps MP3. The software is available through the Microsoft Store for x64 Windows 10 (build 19041 or later).</p><p><img src="https://static.kvraudio.com/i/b/01-recording-four-track-1920x1080-kvr.jpg" /></p><hr/><small>25 Sep 2026, 21:46 UTC | #22364</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Music to Livestream Head Trip Festival</title>
     <link href="https://musictech.com/news/events/apple-music-is-livestreaming-the-upcoming-head-trip-festival/" rel="alternate" />
