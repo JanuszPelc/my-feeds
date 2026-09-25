@@ -3,7 +3,7 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-25T15:51:00+00:00</updated>
+  <updated>2026-09-25T22:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
@@ -470,9 +470,9 @@
     <link href="https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&amp;smid=url-share" rel="alternate" />
     <id>https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&amp;smid=url-share::v239</id>
     <published>2026-09-23T18:25:00+00:00</published>
-    <updated>2026-09-23T18:25:00+00:00</updated>
+    <updated>2026-09-25T22:50:00+00:00</updated>
     <media:thumbnail url="https://singjupost.com/wp-content/uploads/2026/02/Jensen-Huangs-Interview-@-Cisco-AI-Summit-2026-.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&smid=url-share">nytimes.com</a></small></p><hr/><p>Nvidia CEO Jensen Huang argues that artificial intelligence will create more jobs than it eliminates, countering doomsday predictions of mass unemployment. He contends that AI will increase productivity and expand professional roles, particularly within software engineering, rather than simply replacing human labor.</p><p>The conversation also addresses the strategic implications of Chinese open-source models, the Hugging Face acquisition, and the ongoing debate regarding AI safety and regulation. Huang's perspective highlights how hardware leaders are navigating the economic and geopolitical shifts driven by the expansion of AI infrastructure.</p><p><img src="https://singjupost.com/wp-content/uploads/2026/02/Jensen-Huangs-Interview-@-Cisco-AI-Summit-2026-.jpg" /></p><hr/><small>23 Sep 2026, 22:45 UTC | #22107</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&smid=url-share">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=49847421">hacker news</a></small></p><hr/><p>Nvidia CEO Jensen Huang argues that artificial intelligence will create more jobs than it eliminates, countering doomsday predictions of mass unemployment. He contends that AI will increase productivity and expand professional roles, particularly within software engineering, rather than simply replacing human labor.</p><p>The conversation also addresses the strategic implications of Chinese open-source models, the Hugging Face acquisition, and the ongoing debate regarding AI safety and regulation. Huang's perspective highlights how hardware leaders are navigating the economic and geopolitical shifts driven by the expansion of AI infrastructure.</p><p><img src="https://singjupost.com/wp-content/uploads/2026/02/Jensen-Huangs-Interview-@-Cisco-AI-Summit-2026-.jpg" /></p><hr/><small>23 Sep 2026, 22:45 UTC | #22107</small>]]></content>
   </entry>
   <entry>
     <title>Seattle City Council Passes Bill to Ban Surveillance Grocery Pricing</title>
@@ -1201,22 +1201,5 @@
     <updated>2026-09-20T23:16:00+00:00</updated>
     <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2176sr.img?w=2048&amp;h=1365&amp;m=4&amp;q=81" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/?gift=NBdGSmKfDQzLc1B6N1F-gTsc0qnBczYFJgiJgeRC__c&utm_source=copy-link&utm_medium=social&utm_campaign=share">theatlantic.com</a></small></p><hr/><p>China is aggressively integrating AI into its economy and society to achieve global dominance by 2035. This rapid deployment has triggered significant social anxiety among workers who fear being "distilled"—a term used when employer data is used to train AI models that may eventually replace human staff. Consequently, the Chinese government faces a political dilemma: pursuing technological supremacy while managing the risks of mass job displacement and social unrest.</p><p>Implementation efforts have seen mixed results, ranging from ineffective "all-in-one" hardware solutions to security concerns regarding autonomous AI agents. Legal challenges are also emerging, such as a recent Hangzhou court ruling that protected a worker unlawfully dismissed due to AI replacement. As Beijing attempts to mandate AI adoption, it must balance the drive for productivity with the need for social stability and political legitimacy.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2176sr.img?w=2048&h=1365&m=4&q=81" /></p><hr/><small>21 Sep 2026, 06:29 UTC | #21770</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nvidia CEO Jensen Huang Rejects AI Doomsday Predictions and Questions Regulation Motives</title>
-    <link href="https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9" rel="alternate" />
-    <id>https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9::v239</id>
-    <published>2026-09-20T22:37:00+00:00</published>
-    <updated>2026-09-20T22:37:00+00:00</updated>
-    <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/cM5r9QtdieT3w5puPjcpie.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9">businessinsider.com</a> | <a href="https://www.cbsnews.com/news/jensen-huang-nvidia-rejects-ai-extinction-warnings/">source</a></small></p><hr/><p>Nvidia CEO Jensen Huang has dismissed warnings that artificial intelligence could pose an existential threat to humanity by 2030, labeling such predictions "irresponsible" and unscientific. Speaking in a CBS News interview, Huang stated there is a "0% chance" of AI causing human extinction within that timeframe.</p><p>Huang also expressed skepticism regarding calls for increased AI regulation from certain industry leaders. He suggested that these calls for new oversight may be motivated by a desire to be relieved of existing legal frameworks rather than a genuine need for additional legislation.</p><p><img src="https://cdn.mos.cms.futurecdn.net/cM5r9QtdieT3w5puPjcpie.jpg" /></p><hr/><small>21 Sep 2026, 03:17 UTC | #21765</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Status of the Snowden Archive</title>
-    <link href="https://libroot.org/posts/what-happened-to-the-snowden-archive" rel="alternate" />
-    <id>https://libroot.org/posts/what-happened-to-the-snowden-archive::v239</id>
-    <published>2026-09-20T22:36:00+00:00</published>
-    <updated>2026-09-20T22:36:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://libroot.org/posts/what-happened-to-the-snowden-archive">libroot.org</a> | <a href="https://news.ycombinator.com/item?id=49780820">hacker news</a></small></p><hr/><p>Major intelligence revelations from the Edward Snowden leaks effectively ceased in May 2019 after *The Intercept* released its final batch of documents. This investigation tracks the initial distribution of the archive to outlets such as *The Guardian* and *Der Spiegel*, detailing the impact of government D-Notices and the destruction of journalistic hardware by newsrooms.</p><p>Although journalists such as Laura Poitras and Glenn Greenwald claim that substantial, unreported material remains in various hands, no new documents have been published for several years. The piece explores the convergence of editorial shifts, security concerns, and the relationship between major media outlets and state surveillance agencies.</p><hr/><small>21 Sep 2026, 02:02 UTC | #21776</small>]]></content>
   </entry>
 </feed>
