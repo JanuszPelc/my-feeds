@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-25T06:04:00+00:00</updated>
+  <updated>2026-09-25T06:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Chinese Local Governments Subsidize AI Video Production to Grow Industry</title>
+    <link href="https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/" rel="alternate" />
+    <id>https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/::v239</id>
+    <published>2026-09-25T06:05:00+00:00</published>
+    <updated>2026-09-25T06:05:00+00:00</updated>
+    <media:thumbnail url="https://obrazki.ai/cdn-cgi/image/width=1200,quality=85,format=auto,fit=scale-down/nb/film-crew--ai-tech--movie-incentives--streaming-wars" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/">reuters.com</a></small></p><hr/><p>Chinese local governments are offering subsidies, such as computing vouchers, rent waivers, and dedicated funding, to lure AI filmmakers as part of a national push to establish an AI video industry. These incentives aim to capitalize on the significant cost advantages of AI-generated content compared to traditional film production.</p><p>In hubs like Shenzhen, government support including cheap rent and computing resources is intended to create a highly competitive ecosystem for the burgeoning AI-generated content sector. These measures represent a strategic effort to integrate artificial intelligence into the broader creative media landscape.</p><p><img src="https://obrazki.ai/cdn-cgi/image/width=1200,quality=85,format=auto,fit=scale-down/nb/film-crew--ai-tech--movie-incentives--streaming-wars" /></p><hr/><small>25 Sep 2026, 12:44 UTC | #22297</small>]]></content>
+  </entry>
   <entry>
     <title>Center for Land Economics Recommends Land Value Tax Over California Billionaire Wealth Tax</title>
     <link href="https://blog.landeconomics.org/p/california-is-chasing-wealth-that" rel="alternate" />
