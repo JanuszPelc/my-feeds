@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-25T06:01:00+00:00</updated>
+  <updated>2026-09-25T08:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Omnibin FUSE Filesystem Provides On-Demand Access to All Nixpkgs Binaries</title>
+    <link href="https://fzakaria.com/2026/09/24/every-package-is-already-installed" rel="alternate" />
+    <id>https://fzakaria.com/2026/09/24/every-package-is-already-installed::v239</id>
+    <published>2026-09-25T08:04:00+00:00</published>
+    <updated>2026-09-25T08:04:00+00:00</updated>
+    <media:thumbnail url="https://securityonline.info/wp-content/uploads/2026/03/FUSE_structure.svg_-1024x775.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://fzakaria.com/2026/09/24/every-package-is-already-installed">fzakaria.com</a> | <a href="https://github.com/fzakaria/omnibin">source</a> | <a href="https://lobste.rs/s/wqzbpw/every_package_is_already_installed">discussion</a> | <a href="https://news.ycombinator.com/item?id=49840207">hacker news</a></small></p><hr/><p>Omnibin is a FUSE filesystem that mounts every binary published in Nixpkgs to the user's `$PATH`. By utilizing metadata from `cache.nixpkgs.org`, it provides an index of all available packages, allowing users to access any version of a binary without local installation or compilation. The filesystem lazily fetches and unpacks the necessary Nix NARs from the cache only when a file is actually accessed.</p><p>To mitigate performance issues from large directory trees, the tool includes a CLI and an index for efficient querying. It is designed to work with NixOS, Docker/OCI containers, and via `nix run`, offering a way to provide comprehensive, on-demand environments for developers and AI agents.</p><p><img src="https://securityonline.info/wp-content/uploads/2026/03/FUSE_structure.svg_-1024x775.png" /></p><hr/><small>25 Sep 2026, 13:58 UTC | #22317</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Copland OS Emulated in Web Browser</title>
     <link href="https://www.pagetable.com/300" rel="alternate" />
