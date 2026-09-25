@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T20:47:00+00:00</updated>
+  <updated>2026-09-24T20:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>A24, Sony, and The New York Times Company Express Interest in Acquiring Letterboxd</title>
+    <link href="https://www.nytimes.com/2026/09/24/business/media/letterboxd-sale-sony-a24-nyt.html?unlocked_article_code=1.DlE.p-P8.iqgKy3PC4zrE&amp;smid=re-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/24/business/media/letterboxd-sale-sony-a24-nyt.html?unlocked_article_code=1.DlE.p-P8.iqgKy3PC4zrE&amp;smid=re-share::v239</id>
+    <published>2026-09-24T20:49:00+00:00</published>
+    <updated>2026-09-24T20:49:00+00:00</updated>
+    <media:thumbnail url="https://cdn.25gramos.com/wp-content/uploads/2025/10/a24-convierte-letterboxd-en-una-experiencia-fisica-25gramos-3.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/24/business/media/letterboxd-sale-sony-a24-nyt.html?unlocked_article_code=1.DlE.p-P8.iqgKy3PC4zrE&smid=re-share">nytimes.com</a></small></p><hr/><p>A24, Sony Pictures, and The New York Times Company have expressed interest in acquiring Letterboxd, a social platform for film discovery and tracking. The company currently has 30 million users and is expected to be valued at over $300 million.</p><p>This potential acquisition highlights the value of niche social networks with highly engaged communities and specialized audience data. A sale to a major entertainment entity could integrate Letterboxd's film-focused social ecosystem into broader media or streaming services.</p><p><img src="https://cdn.25gramos.com/wp-content/uploads/2025/10/a24-convierte-letterboxd-en-una-experiencia-fisica-25gramos-3.webp" /></p><hr/><small>25 Sep 2026, 01:41 UTC | #22258</small>]]></content>
+  </entry>
   <entry>
     <title>Nintendo Wins $4.5 Million in Lawsuit Against Switch Piracy Moderator</title>
     <link href="https://aftermath.site/nintendo-switch-archbox-pirate-lawsuit/" rel="alternate" />

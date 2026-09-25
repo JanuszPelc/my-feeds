@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-24T20:43:00+00:00</updated>
+  <updated>2026-09-24T20:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Katamari Architecture: The Impact of LLM Agents on Codebase Composition</title>
+    <link href="https://nove.dev/blog/katamari-architecture/" rel="alternate" />
+    <id>https://nove.dev/blog/katamari-architecture/::v239</id>
+    <published>2026-09-24T20:52:00+00:00</published>
+    <updated>2026-09-24T20:52:00+00:00</updated>
+    <media:thumbnail url="https://www.microsoft.com/en-us/research/uploads/prod/2023/03/llm-augmenter-diagram-1536x1082.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nove.dev/blog/katamari-architecture/">nove.dev</a> | <a href="https://lobste.rs/s/f0buwg/katamari_architecture">discussion</a></small></p><hr/><p>Katamari architecture describes a trend in LLM-driven development where software accumulates features and code without regard for structural composition. Much like the mechanics of the video game Katamari Damacy, LLM agents tend to append code to existing systems to satisfy immediate prompts rather than integrating new logic into a cohesive, designed structure.</p><p>This process intensifies the "Big Ball of Mud" effect by rapidly increasing codebase volume while decreasing developer visibility and cognitive engagement. To combat this, potential solutions include requiring the manual rewriting of LLM-generated code to ensure human maintainability and understanding.</p><p><img src="https://www.microsoft.com/en-us/research/uploads/prod/2023/03/llm-augmenter-diagram-1536x1082.png" /></p><hr/><small>25 Sep 2026, 01:46 UTC | #22288</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Announces $1,300 Lightweight VR Glasses</title>
     <link href="https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that-weight-about-100-grams-and-cost-1-300" rel="alternate" />
