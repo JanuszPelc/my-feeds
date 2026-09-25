@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-24T20:44:00+00:00</updated>
+  <updated>2026-09-24T20:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>NSA Spending Billions to Test AI Models</title>
+    <link href="https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models" rel="alternate" />
+    <id>https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models::v239</id>
+    <published>2026-09-24T20:46:00+00:00</published>
+    <updated>2026-09-24T20:46:00+00:00</updated>
+    <media:thumbnail url="https://capwolf.com/wp-content/uploads/2026/04/nsa-uses-advanced-ai-despite-pentagon-security-warnings.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models">washingtonsun.com</a></small></p><hr/><p>Classified estimates indicate that the National Security Agency is spending billions of dollars in taxpayer funds this year to evaluate and test advanced artificial intelligence models. The high cost is largely driven by the massive computing power required for testing and the highly competitive salaries necessary to attract top AI engineers.</p><p><img src="https://capwolf.com/wp-content/uploads/2026/04/nsa-uses-advanced-ai-despite-pentagon-security-warnings.jpeg" /></p><hr/><small>25 Sep 2026, 00:47 UTC | #22254</small>]]></content>
+  </entry>
   <entry>
     <title>White House Asks OpenAI and Anthropic to Delay UK AI Safety Testing</title>
     <link href="https://www.politico.com/news/2026/09/24/white-house-asks-openai-and-anthropic-to-hold-new-models-from-uk-testers-until-u-s-review-01091769" rel="alternate" />
