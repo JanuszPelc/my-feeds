@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-25T05:34:00+00:00</updated>
+  <updated>2026-09-25T05:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>File-Notification Systems Leak User Data Across Linux, Android, Windows, and macOS</title>
+    <link href="https://inoti.fyi/" rel="alternate" />
+    <id>https://inoti.fyi/::v239</id>
+    <published>2026-09-25T05:56:00+00:00</published>
+    <updated>2026-09-25T05:56:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/ea-BWDODRqo/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://inoti.fyi/">inoti.fyi</a> | <a href="https://inoti.fyi/pubs/file-notification-attacks.pdf">source</a> | <a href="https://lobste.rs/s/x6yjrc/file_notification_attacks_side_channel">discussion</a> | <a href="https://news.ycombinator.com/item?id=49835649">hacker news</a></small></p><hr/><p>Researchers have demonstrated that file-notification subsystems on Linux, Android, Windows, and macOS are vulnerable to side-channel attacks that leak sensitive user data. By monitoring file change notifications, unprivileged users can reconstruct keystroke timing on Linux, observe the arrival and deletion of media on Android, and identify visited websites on Windows, often without needing direct read permissions for the target files.</p><p>The vulnerabilities arise from how different operating systems manage notification scopes and permission checks. Linux's inotify allows bypassing file restrictions by watching parent directories, while Android's FileObserver can bypass FUSE-based sandboxing. On Windows, the ReadDirectoryChangesW API can expose system-wide file paths from the root directory. While some mitigations have been implemented in the Linux kernel, these issues present ongoing privacy risks.</p><p><img src="https://i.ytimg.com/vi/ea-BWDODRqo/maxresdefault.jpg" /></p><hr/><small>25 Sep 2026, 10:38 UTC | #22307</small>]]></content>
+  </entry>
   <entry>
     <title>Lobsters User Script Renames 'vibecoding' Tag to 'llms'</title>
     <link href="https://greasyfork.org/en/scripts?by=1646191" rel="alternate" />

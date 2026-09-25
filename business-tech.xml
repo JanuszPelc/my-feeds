@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-25T05:52:00+00:00</updated>
+  <updated>2026-09-25T05:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Unlisted's September 2026 Ghost Jobs Report Finds 28.3% of Postings Over 90 Days Old</title>
+    <link href="https://unlisted.careers/ghost-jobs/report/2026-09" rel="alternate" />
+    <id>https://unlisted.careers/ghost-jobs/report/2026-09::v239</id>
+    <published>2026-09-25T05:54:00+00:00</published>
+    <updated>2026-09-25T05:54:00+00:00</updated>
+    <media:thumbnail url="https://blog.fastapply.co/images/ghost-jobs-how-to-spot-fake-job-postings-2026/ghost-jobs-warning-signs.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://unlisted.careers/ghost-jobs/report/2026-09">unlisted.careers</a> | <a href="https://news.ycombinator.com/item?id=49818698">hacker news</a></small></p><hr/><p>Unlisted's September 2026 Ghost Jobs Report finds that 28.3% of analyzed job postings with available dates—totaling 163,057 positions—have been active for more than 90 days. The study, which analyzed 607,050 postings from 15 applicant tracking systems, identified a median posting age of 36 days.</p><p>Hospitality shows the highest proportion of stale postings at 43.9%, while healthcare has the lowest at 19.7%. Among tracking systems, Lever-hosted boards show a 48.2% share of postings exceeding 90 days, compared to 17.2% on Workday.</p><p><img src="https://blog.fastapply.co/images/ghost-jobs-how-to-spot-fake-job-postings-2026/ghost-jobs-warning-signs.jpg" /></p><hr/><small>25 Sep 2026, 10:32 UTC | #22191</small>]]></content>
+  </entry>
   <entry>
     <title>Robert O'Callahan Resigns From Google Citing AI Safety Concerns</title>
     <link href="https://robert.ocallahan.org/2026/09/goodbye-google.html" rel="alternate" />
