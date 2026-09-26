@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-26T01:09:00+00:00</updated>
+  <updated>2026-09-26T02:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>NetBSD Disklabels: Structure and Modification</title>
+    <link href="https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html" rel="alternate" />
+    <id>https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html::v239</id>
+    <published>2026-09-26T02:15:00+00:00</published>
+    <updated>2026-09-26T02:15:00+00:00</updated>
+    <media:thumbnail url="https://movq.de/blog/postings/2026-09-25/0/bine-initial.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html">movq.de</a> | <a href="https://lobste.rs/s/qknavp/netbsd_playing_with_disklabels">discussion</a></small></p><hr/><p>This investigation explores the internal structure of NetBSD disklabels, which store disk geometry and partition tables. By analyzing the physical disk via a virtual machine, the author identifies the disklabel's location at the second sector and breaks down its metadata, including drive types, geometry, and hardware parameters.</p><p>The technical deep-dive includes a demonstration of the XOR-based checksum calculation and a practical exercise in manually injecting a new partition into the hex dump. This method allows for the direct modification of partition entries and the subsequent verification of results using the `disklabel` utility.</p><p><img src="https://movq.de/blog/postings/2026-09-25/0/bine-initial.png" /></p><hr/><small>26 Sep 2026, 10:02 UTC | #22417</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Showcases Audio-Only Smart Glasses and Hearing Assistive Wearables</title>
     <link href="https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-25T18:55:00+00:00</updated>
+  <updated>2026-09-26T01:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Amit Sahai Argues for Increased Human Oversight of AI-Driven Scientific Breakthroughs</title>
+    <link href="https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/" rel="alternate" />
+    <id>https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/::v239</id>
+    <published>2026-09-26T01:42:00+00:00</published>
+    <updated>2026-09-26T01:42:00+00:00</updated>
+    <media:thumbnail url="https://cdn.ainvest.com/aigc/hxcmp/images/compress-qwen_generated_1762457316313.jpg.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/">terrytao.wordpress.com</a> | <a href="https://lobste.rs/s/gt2jle/we_re_gonna_need_lot_more_mathematicians">discussion</a> | <a href="https://news.ycombinator.com/item?id=49852717">hacker news</a></small></p><hr/><p>As AI systems accelerate the pace of mathematical and scientific discovery, society faces an increasing "understanding gap." To prevent a future where decisions of immense consequence—such as the implementation of radical new technologies like fusion power—are made based on logic that no human can follow, Amit Sahai calls for the creation of a "deployable intellectual reserve" of researchers capable of verifying and interpreting AI-generated breakthroughs.</p><p>This mission requires a reimagined role for scientific experts, focusing on the responsibility of understanding the models, uncertainties, and safety implications of AI-produced ideas. Maintaining human agency requires that society invest in the capacity to grasp the complex reasoning and evidence behind AI-driven solutions, ensuring humans remain active participants in technological and scientific progress.</p><p><img src="https://cdn.ainvest.com/aigc/hxcmp/images/compress-qwen_generated_1762457316313.jpg.png" /></p><hr/><small>26 Sep 2026, 09:59 UTC | #22416</small>]]></content>
+  </entry>
   <entry>
     <title>Gen Alpha Uses 'That's So AI' as a Slang Term for Inauthenticity</title>
     <link href="https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us" rel="alternate" />
