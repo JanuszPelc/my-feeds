@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-25T22:26:00+00:00</updated>
+  <updated>2026-09-25T23:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Why Plan Modes are Becoming an Obsolete Abstraction for AI Coding Workflows</title>
+    <link href="https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html" rel="alternate" />
+    <id>https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html::v239</id>
+    <published>2026-09-25T23:15:00+00:00</published>
+    <updated>2026-09-25T23:15:00+00:00</updated>
+    <media:thumbnail url="https://codex.danielvaughan.com/sketchnotes/articles/2026-04-08-plan-mode-mechanics.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html">aymannadeem.com</a> | <a href="https://news.ycombinator.com/item?id=49840054">hacker news</a></small></p><hr/><p>Plan modes—distinct, sequential stages in AI coding workflows where users create a specification before implementation—are becoming obsolete. This conclusion stems from the failure of Nuanced, a coding application designed to formalize planning as a persistent and structured artifact.</p><p>As AI models improve in context awareness and reasoning, they increasingly automate the decisions previously documented in human-authored specifications. This shift suggests that development with AI agents is transitioning from a linear "plan-then-build" workflow toward an iterative loop of continuous reasoning, action, and adjustment.</p><p><img src="https://codex.danielvaughan.com/sketchnotes/articles/2026-04-08-plan-mode-mechanics.png" /></p><hr/><small>26 Sep 2026, 04:52 UTC | #22406</small>]]></content>
+  </entry>
   <entry>
     <title>LLM Intelligence and API Cost Comparison Tool</title>
     <link href="https://bestmodelforyourbudget.terrydjony.com/" rel="alternate" />
