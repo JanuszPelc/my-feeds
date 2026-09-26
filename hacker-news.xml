@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-25T23:17:00+00:00</updated>
+  <updated>2026-09-26T01:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Meta Showcases Audio-Only Smart Glasses and Hearing Assistive Wearables</title>
+    <link href="https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/::v239</id>
+    <published>2026-09-26T01:09:00+00:00</published>
+    <updated>2026-09-26T01:09:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/P1110285.jpg?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/">techcrunch.com</a> | <a href="https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/">source</a></small></p><hr/><p>At Meta Connect 2026, the company highlighted its expanding smart glasses lineup, specifically showcasing camera-free, audio-only glasses designed to address privacy concerns. These lightweight frames incorporate six microphones and integrate with Meta’s "Muse" personal AI agent, which enables hands-free task management and voice-based interaction with digital avatars.</p><p>The showcase also included specialized smart glasses designed for the hearing impaired, which aim to provide affordable sound amplification at a $150 price point. These devices offer adjustable audio modes, such as focused or omnidirectional amplification, as Meta attempts to expand its wearable presence into functional accessibility and consumer lifestyle markets.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/P1110285.jpg?w=680" /></p><hr/><small>26 Sep 2026, 06:16 UTC | #22403</small>]]></content>
+  </entry>
   <entry>
     <title>Cameron Wagenius Sentenced to 70 Months for AT&amp;T and Verizon Extortions</title>
     <link href="https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/" rel="alternate" />
