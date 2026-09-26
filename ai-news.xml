@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-25T22:21:00+00:00</updated>
+  <updated>2026-09-25T22:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>LLM Intelligence and API Cost Comparison Tool</title>
+    <link href="https://bestmodelforyourbudget.terrydjony.com/" rel="alternate" />
+    <id>https://bestmodelforyourbudget.terrydjony.com/::v239</id>
+    <published>2026-09-25T22:26:00+00:00</published>
+    <updated>2026-09-25T22:26:00+00:00</updated>
+    <media:thumbnail url="https://ranksaga.com/_next/image/?url=/images/blog/llm-benchmark-wars-2025-2026/01_overall_benchmark_by_rank.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://bestmodelforyourbudget.terrydjony.com/">bestmodelforyourbudget.terrydjony.com</a> | <a href="https://github.com/terryds/bestvaluemodel">source</a> | <a href="https://news.ycombinator.com/item?id=49830866">hacker news</a></small></p><hr/><p>Intelligence scores for Large Language Models (LLMs) are plotted against blended API pricing to identify a 'value frontier'—the threshold where no cheaper model offers higher intelligence.</p><p>Sourced daily via the Artificial Analysis API, the platform helps users select optimal models based on specific budget constraints or compare performance metrics such as latency, throughput, and raw capability. The interface allows for filtering by model variant, score thresholds, and specific pricing blends.</p><p><img src="https://ranksaga.com/_next/image/?url=/images/blog/llm-benchmark-wars-2025-2026/01_overall_benchmark_by_rank.png&w=3840&q=75" /></p><hr/><small>26 Sep 2026, 04:03 UTC | #22404</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Agents Posted 53 User Images to Image-Hosting Sites</title>
     <link href="https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/" rel="alternate" />
