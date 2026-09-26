@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-26T16:35:00+00:00</updated>
+  <updated>2026-09-26T16:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Fedora Community Debates Replacing LibreOffice with Collabora Office</title>
+    <link href="https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office" rel="alternate" />
+    <id>https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office::v239</id>
+    <published>2026-09-26T16:40:00+00:00</published>
+    <updated>2026-09-26T16:40:00+00:00</updated>
+    <media:thumbnail url="https://linuxiac.com/wp-content/uploads/2025/11/callbora-office-suite-app.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office">phoronix.com</a> | <a href="https://discussion.fedoraproject.org/t/suggestion-retire-libreoffice-ship-collabora-as-the-default-office-suite-out-of-the-box/202428">source</a> | <a href="https://lobste.rs/s/mitm2h/suggestion_replace_libreoffice_with">discussion</a></small></p><hr/><p>Fedora community members are discussing a suggestion to replace LibreOffice with Collabora Office as the default office suite in the Fedora distribution. The proposal is primarily driven by user feedback regarding the aging user interface of LibreOffice.</p><p>Critics of the idea point to concerns over Collabora's licensing, its primary distribution via Flatpak, and its relationship to paid online services. Other community members suggest that Fedora should instead ship with no default office suite, allowing users to choose their own software. No formal proposal has been submitted to the Fedora Engineering Steering Committee (FESCo) to formalize these changes.</p><p><img src="https://linuxiac.com/wp-content/uploads/2025/11/callbora-office-suite-app.jpg" /></p><hr/><small>26 Sep 2026, 23:59 UTC | #22460</small>]]></content>
+  </entry>
   <entry>
     <title>A Developer's Reflection on AI Coding Dependency</title>
     <link href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html" rel="alternate" />
@@ -858,23 +867,5 @@
     <updated>2026-09-22T03:26:00+00:00</updated>
     <media:thumbnail url="https://chinabizinsider.com/content/images/size/w1200/2026/05/20260520130315.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032">bloomberg.com</a> | <a href="https://www.alibabacloud.com/blog/alibaba-unveils-new-ai-chip-flagship-model-and-rebuilt-cloud-stack-ai-for-agentic-era_603151">source</a></small></p><hr/><p>Alibaba's T-Head has released the Zhenwu V900, an AI accelerator designed to compete with Nvidia. The chip reportedly delivers triple the performance of its predecessor and is capable of scaling to clusters of up to 500,000 units.</p><p>This launch is part of a larger infrastructure push to reach 20GW of data center capacity by 2032. The new hardware is intended to bolster Alibaba's cloud services and support large-scale AI modeling and workloads.</p><p><img src="https://chinabizinsider.com/content/images/size/w1200/2026/05/20260520130315.png" /></p><hr/><small>22 Sep 2026, 10:28 UTC | #21911</small>]]></content>
-  </entry>
-  <entry>
-    <title>Evocation: A New Self-Bootstrapping Forth Dialect</title>
-    <link href="https://code.irenes.space/evocation/tree/README.txt" rel="alternate" />
-    <id>https://code.irenes.space/evocation/tree/README.txt::v239</id>
-    <published>2026-09-21T23:58:00+00:00</published>
-    <updated>2026-09-21T23:58:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQEEGhr-9Es_-g/feedshare-shrink_800/B4EZvmvRhIJAAg-/0/1769102711134?e=2147483647&amp;v=beta&amp;t=Hxxny2Sel40SWto4Rd48K83F_WAxo1ZXpuSCNHupBsg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://code.irenes.space/evocation/tree/README.txt">code.irenes.space</a> | <a href="https://code.irenes.space/evocation">source</a> | <a href="https://lobste.rs/s/kpegs1/evocation_call_forth_blue_green_flame">discussion</a></small></p><hr/><p>Evocation is a new dialect of the Forth programming language developed by Irenes. It is a self-hosting, self-bootstrapping compiler targeting the amd64 architecture, designed to serve as a platform for experimenting with parse theory, type theory, and database structures.</p><p>Its unique bootstrapping mechanism allows the compiler to generate a commented hex dump of itself from high-level source code, enabling auditors to verify the provenance of every byte in the resulting binary. The implementation avoids the use of differentiable neural networks and utilizes a "log" for memory management rather than traditional deallocation methods.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQEEGhr-9Es_-g/feedshare-shrink_800/B4EZvmvRhIJAAg-/0/1769102711134?e=2147483647&v=beta&t=Hxxny2Sel40SWto4Rd48K83F_WAxo1ZXpuSCNHupBsg" /></p><hr/><small>22 Sep 2026, 08:19 UTC | #21923</small>]]></content>
-  </entry>
-  <entry>
-    <title>Meta's Muse AI Assistant Has Zero-Day Vulnerability</title>
-    <link href="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/" rel="alternate" />
-    <id>https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/::v239</id>
-    <published>2026-09-21T23:50:00+00:00</published>
-    <updated>2026-09-21T23:50:00+00:00</updated>
-    <media:thumbnail url="https://heimdalsecurity.com/blog/wp-content/uploads/Zero-Day-Vulnerability-Timeline.png.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/">arstechnica.com</a> | <a href="https://news.ycombinator.com/item?id=49794666">hacker news</a></small></p><hr/><p>A zero-day vulnerability in Meta's Muse AI assistant allows local applications and terminal commands to hijack a user's account. By redirecting transcription traffic from Meta's servers to an attacker-controlled endpoint, malicious code can intercept the authentication tokens used to control the assistant.</p><p>Security researcher Patrick Wardle found that the flaw is enabled by design decisions allowing apps to modify undocumented settings, such as dictation endpoints. While Meta has publicly emphasized its security-first design for Muse, the vulnerability has already prompted Amazon to block the agent to prevent unauthorized purchases.</p><p><img src="https://heimdalsecurity.com/blog/wp-content/uploads/Zero-Day-Vulnerability-Timeline.png.jpg" /></p><hr/><small>22 Sep 2026, 06:14 UTC | #21903</small>]]></content>
   </entry>
 </feed>
