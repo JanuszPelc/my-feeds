@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-26T09:00:00+00:00</updated>
+  <updated>2026-09-26T11:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Tupos Audio Releases Tupos MPE FM Synthesizer</title>
+    <link href="https://www.kvraudio.com/news/tupos-audio-releases-tupos-mpe-fm-for-macos-and-windows-vst3-and-au-68749?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68749" rel="alternate" />
+    <id>https://www.kvraudio.com/news/tupos-audio-releases-tupos-mpe-fm-for-macos-and-windows-vst3-and-au-68749?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68749::v239</id>
+    <published>2026-09-26T11:10:00+00:00</published>
+    <updated>2026-09-26T11:10:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/arp.1790414727.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/tupos-audio-releases-tupos-mpe-fm-for-macos-and-windows-vst3-and-au-68749?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68749">kvraudio.com</a> | <a href="https://tuposaudio.com/products/mpe-fm">source</a></small></p><hr/><p>Tupos Audio has released Tupos MPE FM, a polyphonic FM synthesizer for macOS and Windows available in VST3, AU, and standalone formats. The instrument features a design that allows direct modulation assignment of sources such as pressure, slide, and velocity to knobs, eliminating the need for a separate modulation matrix.</p><p>The synthesizer includes 2-, 4-, and 6-operator FM engines and provides MPE support for independent per-note control of pitch, pressure, and slide. Additional features include an arpeggiator, a step sequencer, eight effect slots, and Bluetooth MIDI support on macOS. An iOS/iPadOS version is planned for a later release.</p><p><img src="https://static.kvraudio.com/i/b/arp.1790414727.jpg" /></p><hr/><small>26 Sep 2026, 16:09 UTC | #22434</small>]]></content>
+  </entry>
+  <entry>
+    <title>Dystopian Waves Releases NEUON – Cepstral Morph</title>
+    <link href="https://www.kvraudio.com/news/dystopian-waves-releases-neuon-cepstral-morph---spectral-sound-morphing-and-cross-synthesis-vst3-and-au-68746?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68746" rel="alternate" />
+    <id>https://www.kvraudio.com/news/dystopian-waves-releases-neuon-cepstral-morph---spectral-sound-morphing-and-cross-synthesis-vst3-and-au-68746?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68746::v239</id>
+    <published>2026-09-26T11:09:00+00:00</published>
+    <updated>2026-09-26T11:09:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/neuon-tn.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dystopian-waves-releases-neuon-cepstral-morph---spectral-sound-morphing-and-cross-synthesis-vst3-and-au-68746?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68746">kvraudio.com</a> | <a href="https://dystopianwaves.gumroad.com/l/pneuon">source</a></small></p><hr/><p>This sound morphing plugin from Dystopian Waves enables users to combine the spectral character and texture of two different sounds to create hybrid audio. Utilizing two distinct engines—a Cepstral Morpher and a Filterbank Vocoder—the tool facilitates spectral morphing and cross-synthesis for applications ranging from robotic vocals to rhythmic effects.</p><p>The plugin provides frequency-selective morphing through an interactive spectral visualizer, allowing users to target specific parts of the frequency spectrum. It also includes four tempo-synchronized LFOs, adjustable FFT sizes, and formant shifting. The software is available for Windows (VST3) and macOS (VST3 and AU).</p><p><img src="https://static.kvraudio.com/i/b/neuon-tn.jpg" /></p><hr/><small>26 Sep 2026, 16:07 UTC | #22431</small>]]></content>
+  </entry>
   <entry>
     <title>Audio Voltage Releases Cinematic Treatments for Omnisphere 3</title>
     <link href="https://www.kvraudio.com/news/audio-voltage-releases-cinematic-treatments-for-omnisphere-3-68748?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68748" rel="alternate" />
