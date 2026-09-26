@@ -868,13 +868,4 @@
     <media:thumbnail url="https://img.bgo.one/news-image/202510120714_Rift_macOS_Tiling_Window_Manager_Community_Discussion_1.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/acsandmann/rift/">github.com</a> | <a href="https://lobste.rs/s/bcbuqk/rift_tiling_window_manager_for_macos">discussion</a></small></p><hr/><p>Rift provides a tiling window management system for macOS, focusing on performance and user experience. It features mouse-follow focus, trackpad gesture support for workspace switching, and performant animations. The software does not require disabling System Integrity Protection (SIP) and supports the macOS "Displays have separate Spaces" feature.</p><p>Developed in Rust, Rift is a fork of `glide-wm` that has diverged to utilize undocumented macOS APIs for improved efficiency. It includes a Mach port-based IPC mechanism to facilitate communication with third-party applications like Sketchybar and supports hot-reloadable configurations.</p><p><img src="https://img.bgo.one/news-image/202510120714_Rift_macOS_Tiling_Window_Manager_Community_Discussion_1.jpg" /></p><hr/><small>21 Sep 2026, 23:26 UTC | #21902</small>]]></content>
   </entry>
-  <entry>
-    <title>Carson Gross Proposes Markdown as Source Code for Agentic Coding</title>
-    <link href="https://htmx.org/essays/markdown-in-src/" rel="alternate" />
-    <id>https://htmx.org/essays/markdown-in-src/::v239</id>
-    <published>2026-09-21T17:22:00+00:00</published>
-    <updated>2026-09-21T17:22:00+00:00</updated>
-    <media:thumbnail url="https://www.altova.com/blog/images/compare-3-files-diffdog.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://htmx.org/essays/markdown-in-src/">htmx.org</a> | <a href="https://lobste.rs/s/xooho4/markdown_src">discussion</a></small></p><hr/><p>Carson Gross argues that Markdown is evolving from documentation into a form of source code within agentic coding workflows. He proposes that developers should check Markdown files—describing architectural and implementation intent—into a `/src/md` directory alongside the generated code. This practice aims to capture the "intent" that is currently lost during ephemeral LLM prompting sessions.</p><p>This proposed convention emphasizes locality, ensuring that the logic and reasoning behind a module are stored near the code for both human and AI consumption. In this workflow, Markdown serves as a specification, while the generated code and tests function as the implementation and automated verification of that specification.</p><p><img src="https://www.altova.com/blog/images/compare-3-files-diffdog.png" /></p><hr/><small>21 Sep 2026, 22:49 UTC | #21899</small>]]></content>
-  </entry>
 </feed>

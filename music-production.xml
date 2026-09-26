@@ -690,13 +690,4 @@
     <media:thumbnail url="https://musictech.com/wp-content/uploads/2023/09/Mixing-Desk@2000x1500.jpg" />
     <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/glossary/gain-staging/">musictech.com</a></small></p><hr/><p>Gain staging is the practice of optimizing signal levels at each stage of a recording chain to maximize signal quality and minimize unwanted noise and distortion. By managing amplification and attenuation throughout the signal flow, producers can maintain a clean, strong signal from the initial input to the final output.</p><p>In modern DAW environments, this involves managing levels from the interface's preamps and AD converters through to internal software plugins. Maintaining proper levels prevents digital clipping and ensures that the channel faders are used primarily for balancing the final mix rather than signal compensation.</p><p><img src="https://musictech.com/wp-content/uploads/2023/09/Mixing-Desk@2000x1500.jpg" /></p><hr/><small>21 Sep 2026, 23:22 UTC | #21877</small>]]></content>
   </entry>
-  <entry>
-    <title>Phantom Power (48V) Explained</title>
-    <link href="https://musictech.com/glossary/phantom-power-48v/" rel="alternate" />
-    <id>https://musictech.com/glossary/phantom-power-48v/::v239</id>
-    <published>2026-09-21T17:18:00+00:00</published>
-    <updated>2026-09-21T17:18:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2023/07/Ohma-mic-hero@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/glossary/phantom-power-48v/">musictech.com</a></small></p><hr/><p>Phantom power is a 48V DC supply transmitted through a microphone cable from a preamp to power condenser microphones. This voltage charges the metal plates within a microphone's capsule, allowing the device to convert sound waves into electrical signals by varying the capacitance between the plates.</p><p>Most audio interfaces and mixing consoles are capable of providing this power. To prevent damage to line-level equipment such as synthesizers or effect processors, users should avoid connecting them directly to XLR inputs with phantom power enabled and should instead use a DI box to block the voltage.</p><p><img src="https://musictech.com/wp-content/uploads/2023/07/Ohma-mic-hero@2000x1500.jpg" /></p><hr/><small>21 Sep 2026, 22:29 UTC | #21870</small>]]></content>
-  </entry>
 </feed>
