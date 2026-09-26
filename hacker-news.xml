@@ -3,9 +3,35 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-25T18:36:00+00:00</updated>
+  <updated>2026-09-25T18:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>First Principles Thinking in the Era of Agentic AI Development</title>
+    <link href="https://sunilsadasivan.com/writing/first-principles-thinking/" rel="alternate" />
+    <id>https://sunilsadasivan.com/writing/first-principles-thinking/::v239</id>
+    <published>2026-09-25T18:51:00+00:00</published>
+    <updated>2026-09-25T18:51:00+00:00</updated>
+    <media:thumbnail url="https://assets.website-files.com/5f6e202c72c71024f95ace21/6499ce634951aea67dc3ffc5_first-principles-thinking-infographics.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://sunilsadasivan.com/writing/first-principles-thinking/">sunilsadasivan.com</a> | <a href="https://news.ycombinator.com/item?id=49844736">hacker news</a></small></p><hr/><p>The article argues that senior engineers risk a period of stagnation—referred to as a "death spiral"—when accumulated experience prevents them from approaching new technical paradigms with a fresh perspective. To counter this, the author advocates for first principles thinking, which involves deconstructing complex problems into their most fundamental truths rather than relying on analogies or historical technical constraints.</p><p>This mental framework is presented as essential for navigating the shift toward agentic AI development. By setting aside existing biases and focusing on small, rapid learning loops, engineers can maintain momentum and effectively integrate AI agents into their development workflows.</p><p><img src="https://assets.website-files.com/5f6e202c72c71024f95ace21/6499ce634951aea67dc3ffc5_first-principles-thinking-infographics.webp" /></p><hr/><small>26 Sep 2026, 00:06 UTC | #22394</small>]]></content>
+  </entry>
+  <entry>
+    <title>Koi.rest Virtual Koi Pond Launched via AI Assistance</title>
+    <link href="https://koi.rest" rel="alternate" />
+    <id>https://koi.rest::v239</id>
+    <published>2026-09-25T18:50:00+00:00</published>
+    <updated>2026-09-25T18:50:00+00:00</updated>
+    <media:thumbnail url="https://koi.rest/img/koi-pond-optimized.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://koi.rest">koi.rest</a> | <a href="https://news.ycombinator.com/item?id=49837006">hacker news</a></small></p><hr/><p>Developer Paul has launched koi.rest, a virtual koi pond website designed as a quiet, meditative space for users to watch fish. The project was built using AI assistance to overcome the developer's lack of JavaScript proficiency.</p><p>The site functions as a personal project intended to offer a calm corner of the internet for people to watch fish together. The creator utilized AI to bypass technical barriers that had previously prevented the idea from being implemented.</p><p><img src="https://koi.rest/img/koi-pond-optimized.png" /></p><hr/><small>26 Sep 2026, 00:02 UTC | #22393</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ink &amp; Switch Explores the Future of Tools for Thought</title>
+    <link href="https://www.inkandswitch.com/" rel="alternate" />
+    <id>https://www.inkandswitch.com/::v239</id>
+    <published>2026-09-25T18:49:00+00:00</published>
+    <updated>2026-09-25T18:49:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.inkandswitch.com/">inkandswitch.com</a> | <a href="https://news.ycombinator.com/item?id=49842270">hacker news</a></small></p><hr/><p>Ink &amp; Switch is an independent research lab developing computing systems designed to amplify human intelligence and facilitate collaborative thinking. Research efforts focus on four core themes: local-first software, malleable software, programmable ink, and universal version control.</p><p>The lab's portfolio includes research projects like Ambsheets and Patchwork, alongside production-ready tools such as the Automerge library and Allume digital workspace. These initiatives explore how decentralized architectures and highly customizable environments can improve data ownership and creative workflows.</p><hr/><small>25 Sep 2026, 23:58 UTC | #22392</small>]]></content>
+  </entry>
   <entry>
     <title>UpGuard Research Finds 16,000 Supabase Databases Exposing Sensitive Data</title>
     <link href="https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/" rel="alternate" />
