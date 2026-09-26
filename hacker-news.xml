@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-26T05:43:00+00:00</updated>
+  <updated>2026-09-26T11:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The State of SIMD in Rust 2026</title>
+    <link href="https://shnatsel.github.io/state-of-simd-rust-2026/" rel="alternate" />
+    <id>https://shnatsel.github.io/state-of-simd-rust-2026/::v239</id>
+    <published>2026-09-26T11:08:00+00:00</published>
+    <updated>2026-09-26T11:08:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQEi18ZXx2fjeg/feedshare-shrink_800/B56ZqXAAfEJYAg-/0/1763469955883?e=2147483647&amp;v=beta&amp;t=a1Hrz9mxuNJELPxI50KLuabZ_Tk0-0aB4CdThlt_u2U" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://shnatsel.github.io/state-of-simd-rust-2026/">shnatsel.github.io</a> | <a href="https://lobste.rs/s/iotaty/state_simd_rust_2026">discussion</a></small></p><hr/><p>Single Instruction, Multiple Data (SIMD) implementation in the Rust programming language is categorized into three primary approaches: automatic vectorization, portable SIMD abstractions, and platform-specific intrinsics. Development in the ecosystem focuses on bridging the gap between high-level code and hardware-specific instruction sets like AVX, NEON, and WebAssembly SIMD through various abstraction layers.</p><p>Ecosystem libraries such as `std::simd`, `fearless_simd`, `wide`, `pulp`, and `macerator` differ in their support for multiversioning, generic element types, and hardware-width vectors. Technical challenges persist regarding floating-point precision and the availability of high-performance, accurate trigonometric functions in current SIMD crates.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQEi18ZXx2fjeg/feedshare-shrink_800/B56ZqXAAfEJYAg-/0/1763469955883?e=2147483647&v=beta&t=a1Hrz9mxuNJELPxI50KLuabZ_Tk0-0aB4CdThlt_u2U" /></p><hr/><small>26 Sep 2026, 15:39 UTC | #22436</small>]]></content>
+  </entry>
   <entry>
     <title>LLVM Project Remembers Johannes Doerfert</title>
     <link href="https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/" rel="alternate" />
