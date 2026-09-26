@@ -949,13 +949,4 @@
     <media:thumbnail url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ddd7/12191816/9a2cb6fa5ab1/entropy-27-00606-g001.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/fyngrv/what_are_you_doing_this_week">lobste.rs</a> | <a href="https://lobste.rs/s/fyngrv/what_are_you_doing_this_week">discussion</a></small></p><hr/><p>A developer is implementing a new compression scheme for the Marginalia Search index to significantly reduce its disk footprint. The method uses zigzag delta encoding followed by byte-plane reshuffling to create highly predictable data patterns for LZ4 compression.</p><p>This technique is expected to achieve approximately 70% compression, potentially saving 4 TB of disk space. While the byte-plane reshuffling creates suboptimal L1 cache access patterns, the resulting reduction in disk I/O is anticipated to provide a net performance gain.</p><p><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ddd7/12191816/9a2cb6fa5ab1/entropy-27-00606-g001.jpg" /></p><hr/><small>21 Sep 2026, 15:55 UTC | #21851</small>]]></content>
   </entry>
-  <entry>
-    <title>Kev Quirk Implements CSS :visited Styling for Links</title>
-    <link href="https://kevquirk.com/do-you-use-visited-on-links" rel="alternate" />
-    <id>https://kevquirk.com/do-you-use-visited-on-links::v239</id>
-    <published>2026-09-21T11:43:00+00:00</published>
-    <updated>2026-09-21T11:43:00+00:00</updated>
-    <media:thumbnail url="https://kevquirk.com/content/images/do-you-use-visited-on-links/visited-links.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kevquirk.com/do-you-use-visited-on-links">kevquirk.com</a> | <a href="https://lobste.rs/s/34xsdg/do_you_use_visited_on_links">discussion</a></small></p><hr/><p>Kev Quirk has implemented the CSS `:visited` pseudo-class on his website to visually distinguish between visited and unvisited links. This change is intended to help users, particularly those using RSS readers like Miniflux, identify which links they have already clicked within a post.</p><p>The implementation is achieved with a simple CSS rule that defines a different color for the `:visited` state. While many websites do not differentiate between link states, Quirk suggests that providing this visual feedback improves user navigation and overall experience.</p><p><img src="https://kevquirk.com/content/images/do-you-use-visited-on-links/visited-links.webp" /></p><hr/><small>21 Sep 2026, 15:53 UTC | #21850</small>]]></content>
-  </entry>
 </feed>
