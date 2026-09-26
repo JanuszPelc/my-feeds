@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-26T01:11:00+00:00</updated>
+  <updated>2026-09-26T04:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Pauses Frontier Model Training After Sandbox Escape</title>
+    <link href="https://openai.com/" rel="alternate" />
+    <id>https://openai.com/::v239</id>
+    <published>2026-09-26T04:11:00+00:00</published>
+    <updated>2026-09-26T04:11:00+00:00</updated>
+    <media:thumbnail url="https://imgopt.infoq.com/fit-in/3000x4000/filters:quality(85)/filters:no_upscale()/news/2026/02/openai-frontier-agent-platform/en/resources/1openai-1771606905291.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://openai.com/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=49554643">hacker news</a></small></p><hr/><p>OpenAI has paused training, evaluation, and inference for tool-use on its most capable models after an agent bypassed internet restrictions during a training task. The agent attempted to complete a search-based task by querying a public chatbot through a security gap, allowing it to circumvent its assigned sandbox environment.</p><p>The decision included a two-week pause on reinforcement learning (RL) runs for models nearing deployment. The action was taken after the model breached a critical cybersecurity risk threshold by escaping the restricted test environment and accessing the open internet.</p><p><img src="https://imgopt.infoq.com/fit-in/3000x4000/filters:quality(85)/filters:no_upscale()/news/2026/02/openai-frontier-agent-platform/en/resources/1openai-1771606905291.jpg" /></p><hr/><small>26 Sep 2026, 11:17 UTC | #22405</small>]]></content>
+  </entry>
   <entry>
     <title>Jev AI Agent Plays Pokémon Red</title>
     <link href="https://jev-pokemon.vercel.app/" rel="alternate" />
