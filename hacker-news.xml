@@ -1001,22 +1001,4 @@
     <media:thumbnail url="https://assets.stoicsoft.com/template-guides/servercompass/goatcounter/09-open-application-browser.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vincent.bernat.ch/en/blog/2026-goatcounter">vincent.bernat.ch</a> | <a href="https://lobste.rs/s/1xxu7n/bot_free_self_hosted_analytics_with">discussion</a></small></p><hr/><p>Bot and AI scraper traffic is filtered using GoatCounter on NixOS by requiring user interaction to register web hits. The setup uses a JavaScript client that listens for events like `mousemove` or `keydown`, alongside a CSS `:hover` fallback for non-JavaScript browsers. To prevent data loss, a local proxy on the web servers buffers hits for batch transmission.</p><p>The infrastructure relies on Colmena and systemd-nspawn containers for isolation. Custom NixOS modules manage container orchestration, secrets, and persistent SQLite storage via bind mounts. This configuration successfully reduced the author's reported daily visitors from 2,000 bots to fewer than 200 human users.</p><p><img src="https://assets.stoicsoft.com/template-guides/servercompass/goatcounter/09-open-application-browser.png" /></p><hr/><small>21 Sep 2026, 13:54 UTC | #21817</small>]]></content>
   </entry>
-  <entry>
-    <title>Apple iPhone 18 Pro Camera Receives 172 DXOMARK Score</title>
-    <link href="https://www.dxomark.com/apple-iphone-18-pro-camera-test/" rel="alternate" />
-    <id>https://www.dxomark.com/apple-iphone-18-pro-camera-test/::v239</id>
-    <published>2026-09-21T10:40:00+00:00</published>
-    <updated>2026-09-21T10:40:00+00:00</updated>
-    <media:thumbnail url="https://www.dxomark.com/wp-content/uploads/medias/post-194000/iPhone-18-Pro-Max.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.dxomark.com/apple-iphone-18-pro-camera-test/">dxomark.com</a> | <a href="https://news.ycombinator.com/item?id=49771218">hacker news</a></small></p><hr/><p>DXOMARK's camera evaluation of the Apple iPhone 18 Pro resulted in an overall score of 172, placing it second to the Huawei Pura 80 Ultra. The assessment highlights the device's 48 MP primary sensor with variable aperture, excellent video stabilization, and strong performance in low-light and high-dynamic-range scenarios.</p><p>Limitations identified include lower detail in long-range telephoto shots and occasional white balance inaccuracies. While the portrait mode delivers natural skin tones and bokeh, the device's long-distance zoom and fine subject segmentation performance trail some of its flagship competitors.</p><p><img src="https://www.dxomark.com/wp-content/uploads/medias/post-194000/iPhone-18-Pro-Max.png" /></p><hr/><small>21 Sep 2026, 12:42 UTC | #21820</small>]]></content>
-  </entry>
-  <entry>
-    <title>ZuckOff App Detects Camera Glasses via Bluetooth</title>
-    <link href="https://zuckoff.app/" rel="alternate" />
-    <id>https://zuckoff.app/::v239</id>
-    <published>2026-09-21T10:34:00+00:00</published>
-    <updated>2026-09-21T10:34:00+00:00</updated>
-    <media:thumbnail url="https://c138.hongcdn.com/uploads-rx/2601/ai-glasses-!j.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://zuckoff.app/">zuckoff.app</a> | <a href="https://news.ycombinator.com/item?id=49785429">hacker news</a></small></p><hr/><p>ZuckOff is an iPhone application that identifies camera-equipped smart glasses—including Ray-Ban Meta, Oakley Meta, and Snap Spectacles—by scanning for their specific Bluetooth manufacturer signatures. The tool operates without an account and keeps all data on the device, utilizing iOS features like Home Screen widgets, Live Activities, and background alerts to notify users of nearby hardware.</p><p>While the app provides proximity estimates based on signal strength and allows users to export device logs as CSV files, it has specific limitations. It cannot confirm if a device is actively recording video, identify the direction of the wearer, or guarantee that a silent device is not recording.</p><p><img src="https://c138.hongcdn.com/uploads-rx/2601/ai-glasses-!j.webp" /></p><hr/><small>21 Sep 2026, 11:49 UTC | #21813</small>]]></content>
-  </entry>
 </feed>
