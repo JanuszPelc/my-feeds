@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-26T11:08:00+00:00</updated>
+  <updated>2026-09-26T11:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Origin Story of Apple's Cards App</title>
+    <link href="https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story" rel="alternate" />
+    <id>https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story::v239</id>
+    <published>2026-09-26T11:13:00+00:00</published>
+    <updated>2026-09-26T11:13:00+00:00</updated>
+    <media:thumbnail url="https://photos5.appleinsider.com/gallery/51774-102633-Dirty-card-xl.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story">lexontech.org</a> | <a href="https://news.ycombinator.com/item?id=49854693">hacker news</a></small></p><hr/><p>Apple's 2011 "Cards" app, which allowed users to send custom-designed physical greeting cards via iPhone, was a Steve Jobs-initiated project codenamed "Speed Racer." The service required complex logistics to support high-quality production, including letterpress printing on 100 percent cotton paper and the implementation of invisible UV-traceable barcodes to facilitate package tracking without visible markings on envelopes.</p><p>Production was marked by significant technical challenges, such as difficulties getting ink to adhere to the cotton stock and the need for intensive manual processing to handle unadulterated envelopes. Despite high-volume forecasts and extensive development effort, the app saw limited growth and was eventually discontinued in 2013.</p><p><img src="https://photos5.appleinsider.com/gallery/51774-102633-Dirty-card-xl.jpg" /></p><hr/><small>26 Sep 2026, 16:39 UTC | #22442</small>]]></content>
+  </entry>
   <entry>
     <title>The State of SIMD in Rust 2026</title>
     <link href="https://shnatsel.github.io/state-of-simd-rust-2026/" rel="alternate" />
@@ -858,32 +867,5 @@
     <updated>2026-09-21T17:22:00+00:00</updated>
     <media:thumbnail url="https://www.altova.com/blog/images/compare-3-files-diffdog.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://htmx.org/essays/markdown-in-src/">htmx.org</a> | <a href="https://lobste.rs/s/xooho4/markdown_src">discussion</a></small></p><hr/><p>Carson Gross argues that Markdown is evolving from documentation into a form of source code within agentic coding workflows. He proposes that developers should check Markdown files—describing architectural and implementation intent—into a `/src/md` directory alongside the generated code. This practice aims to capture the "intent" that is currently lost during ephemeral LLM prompting sessions.</p><p>This proposed convention emphasizes locality, ensuring that the logic and reasoning behind a module are stored near the code for both human and AI consumption. In this workflow, Markdown serves as a specification, while the generated code and tests function as the implementation and automated verification of that specification.</p><p><img src="https://www.altova.com/blog/images/compare-3-files-diffdog.png" /></p><hr/><small>21 Sep 2026, 22:49 UTC | #21899</small>]]></content>
-  </entry>
-  <entry>
-    <title>MediaTek Introduces Dimensity CX C10 Max SoC for Googlebook Devices</title>
-    <link href="https://www.tomshardware.com/pc-components/cpus/mediateks-next-gen-dimensity-cx-c10-max-will-power-new-googlebook-initiative-3nm-soc-has-similar-specs-to-kompanio-ultra-in-chromebook-plus-devices-despite-claims-of-elevating-computing-portfolio" rel="alternate" />
-    <id>https://www.tomshardware.com/pc-components/cpus/mediateks-next-gen-dimensity-cx-c10-max-will-power-new-googlebook-initiative-3nm-soc-has-similar-specs-to-kompanio-ultra-in-chromebook-plus-devices-despite-claims-of-elevating-computing-portfolio::v239</id>
-    <published>2026-09-21T16:30:00+00:00</published>
-    <updated>2026-09-21T16:30:00+00:00</updated>
-    <media:thumbnail url="https://pics.computerbase.de/1/2/4/6/4/2-b6ca2155dabd68e9/7-1080.b3c9182a.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.tomshardware.com/pc-components/cpus/mediateks-next-gen-dimensity-cx-c10-max-will-power-new-googlebook-initiative-3nm-soc-has-similar-specs-to-kompanio-ultra-in-chromebook-plus-devices-despite-claims-of-elevating-computing-portfolio">tomshardware.com</a> | <a href="https://www.prnewswire.com/news-releases/mediatek-dimensity-cx-c10-max-offers-flagship-performance-to-a-new-era-of-ai-first-laptops-302884197.html">source</a></small></p><hr/><p>The Dimensity CX C10 Max, the flagship SoC for MediaTek's new Dimensity Compute Experiences (CX) family, features an all-performance-core design on TSMC's 3nm process. This chipset includes eight CPU cores, 11 GPU cores, and an NPU 890 capable of 55 TOPS of AI performance. It is intended to power Google's upcoming "Googlebook" flagship laptop initiative.</p><p>The processor is positioned between MediaTek's RTX Spark and Kompanio series. While MediaTek has not explicitly confirmed that the chip is exclusive to the Googlebook platform, the product's launch aligns with the start of sales for the new laptop category.</p><p><img src="https://pics.computerbase.de/1/2/4/6/4/2-b6ca2155dabd68e9/7-1080.b3c9182a.jpg" /></p><hr/><small>21 Sep 2026, 20:49 UTC | #21826</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Mac Studio M5 Ultra Review: High Performance and Increased Pricing</title>
-    <link href="https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/" rel="alternate" />
-    <id>https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/::v239</id>
-    <published>2026-09-21T16:26:00+00:00</published>
-    <updated>2026-09-21T16:26:00+00:00</updated>
-    <media:thumbnail url="https://www.engadget.com/img/gallery/apple-mac-studio-m5-ultra-review-huge-ai-and-graphics-power-at-a-huge-premium/intro-1789819755.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/">engadget.com</a> | <a href="https://www.apple.com/mac-studio/">source</a> | <a href="https://news.ycombinator.com/item?id=49433316">hacker news</a></small></p><hr/><p>Featuring the M5 Ultra chip, the Mac Studio offers significant increases in CPU, GPU, and neural engine performance for AI developers and high-end media professionals. The system supports up to 512GB of unified memory and incorporates Thunderbolt 5 ports. Due to rising memory costs, the base price for the M5 Ultra model has increased to $5,500.</p><p>Performance gains relative to the M5 Max version are often insufficient to justify the higher price tag for many users. While the M5 Ultra excels in intensive workflows like real-time 8K video playback and running large-scale local AI models, the machine is best suited for specialized power users where extreme compute speed and memory bandwidth are essential.</p><p><img src="https://www.engadget.com/img/gallery/apple-mac-studio-m5-ultra-review-huge-ai-and-graphics-power-at-a-huge-premium/intro-1789819755.jpg" /></p><hr/><small>21 Sep 2026, 20:38 UTC | #21830</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Mac mini (Late 2026) Review: Increased Performance Offset by Higher Pricing</title>
-    <link href="https://www.tomshardware.com/desktops/mini-pcs/apple-mac-mini-late-2026-review" rel="alternate" />
-    <id>https://www.tomshardware.com/desktops/mini-pcs/apple-mac-mini-late-2026-review::v239</id>
-    <published>2026-09-21T16:25:00+00:00</published>
-    <updated>2026-09-21T16:25:00+00:00</updated>
-    <media:thumbnail url="https://photos5.appleinsider.com/gallery/61689-127595-macministoragem4-xl.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.tomshardware.com/desktops/mini-pcs/apple-mac-mini-late-2026-review">tomshardware.com</a> | <a href="https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/">source</a> | <a href="https://news.ycombinator.com/item?id=49433450">hacker news</a></small></p><hr/><p>The Apple Mac mini (Late 2026) delivers significant generational performance improvements in single- and multi-threaded tasks and storage speeds over the previous M4 model. However, the starting price has risen from $599 to $899, a hike attributed to the rising cost of components required to support artificial intelligence demands.</p><p>While the updated hardware provides enhanced versatility through M6 and M5 Pro chip options, the increased expense of memory and storage upgrades reduces the machine's overall value proposition.</p><p><img src="https://photos5.appleinsider.com/gallery/61689-127595-macministoragem4-xl.jpg" /></p><hr/><small>21 Sep 2026, 20:36 UTC | #21824</small>]]></content>
   </entry>
 </feed>
