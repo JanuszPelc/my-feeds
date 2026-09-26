@@ -966,13 +966,4 @@
     <updated>2026-09-21T11:25:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://brennan.day/creating-a-blog-in-gemini/">brennan.day</a> | <a href="https://lobste.rs/s/qxzjqt/creating_blog_gemini">discussion</a></small></p><hr/><p>Setting up a "capsule" on the Gemini protocol involves using Gemtext and following specific structural conventions for organizing chronological posts, known as "gemlogs." Hosting options include specialized services like SmolPub and Gemcities, as well as self-hosting a dedicated server.</p><p>The protocol provides a minimalist, text-based environment that bypasses the complexity of JavaScript and the prevalence of generative AI content. Users can implement site interactivity via CGI scripting and manage persistent session state through the use of TLS client certificates.</p><hr/><small>21 Sep 2026, 14:46 UTC | #21840</small>]]></content>
   </entry>
-  <entry>
-    <title>Cloudflare 520 Error: Web Server Returns Unknown Error</title>
-    <link href="https://outdata.net/blog/260803" rel="alternate" />
-    <id>https://outdata.net/blog/260803::v239</id>
-    <published>2026-09-21T10:55:00+00:00</published>
-    <updated>2026-09-21T10:55:00+00:00</updated>
-    <media:thumbnail url="https://howhttpworks.com/og/WyI1MjAgV2ViIFNlcnZlciBSZXR1cm5lZCBhbiBVbmtub3duIEVycm9yIiwiQ2xvdWRmbGFyZS1zcGVjaWZpYyBlcnJvciB3aGVuIHRoZSBvcmlnaW4gc2VydmVyIHJldHVybnMgYW4gdW5leHBlY3RlZCByZXNwb25zZS4gTGVhcm4gYWJvdXQgNTIwIGVycm9ycyBhbmQuLi4iLCJIVFRQIFN0YXR1cyBDb2RlcyIsInYyIl0/status-codes-520.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://outdata.net/blog/260803">outdata.net</a> | <a href="https://lobste.rs/s/qupohm/deterministic_core_non_deterministic">discussion</a> | <a href="https://news.ycombinator.com/item?id=49782220">hacker news</a></small></p><hr/><p>The Cloudflare 520 error occurs when an origin web server returns an unknown response to the Cloudflare cache, disrupting communication between the cache and the server.</p><p>Visitors are advised to wait several minutes before retrying their request. Website owners are encouraged to collect error logs from their origin server and submit them to Cloudflare support, along with the specific Ray ID associated with the error.</p><p><img src="https://howhttpworks.com/og/WyI1MjAgV2ViIFNlcnZlciBSZXR1cm5lZCBhbiBVbmtub3duIEVycm9yIiwiQ2xvdWRmbGFyZS1zcGVjaWZpYyBlcnJvciB3aGVuIHRoZSBvcmlnaW4gc2VydmVyIHJldHVybnMgYW4gdW5leHBlY3RlZCByZXNwb25zZS4gTGVhcm4gYWJvdXQgNTIwIGVycm9ycyBhbmQuLi4iLCJIVFRQIFN0YXR1cyBDb2RlcyIsInYyIl0/status-codes-520.png" /></p><hr/><small>21 Sep 2026, 14:28 UTC | #21837</small>]]></content>
-  </entry>
 </feed>
