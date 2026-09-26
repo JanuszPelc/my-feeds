@@ -3,7 +3,7 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-26T01:14:00+00:00</updated>
+  <updated>2026-09-26T07:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
@@ -83,9 +83,9 @@
     <link href="https://www.reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25/" rel="alternate" />
     <id>https://www.reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25/::v239</id>
     <published>2026-09-25T19:17:00+00:00</published>
-    <updated>2026-09-25T19:17:00+00:00</updated>
+    <updated>2026-09-26T07:54:00+00:00</updated>
     <media:thumbnail url="https://media.tag24.de/951x634/0/l/0lz8zqlh18472abqyljnaz8ijq982g3y.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25/">reuters.com</a> | <a href="https://nmdoj.gov/press-release/new-mexico-department-of-justice-wins-landmark-verdict-against-meta/">source</a></small></p><hr/><p>A jury in Santa Fe has found Meta Platforms liable for misleading residents in a legal case linked to the Cambridge Analytica scandal. The verdict covers claims regarding third-party data sharing, content moderation, and other consumer-facing practices.</p><p>The litigation was brought by the State of New Mexico under the Unfair Practices Act. It focused on the transparency of Meta's disclosures regarding user data access and usage by external parties.</p><p><img src="https://media.tag24.de/951x634/0/l/0lz8zqlh18472abqyljnaz8ijq982g3y.jpg" /></p><hr/><small>26 Sep 2026, 01:11 UTC | #22354</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25/">reuters.com</a> | <a href="https://nmdoj.gov/press-release/new-mexico-department-of-justice-wins-landmark-verdict-against-meta/">source</a> | <a href="https://news.ycombinator.com/item?id=49852302">hacker news</a></small></p><hr/><p>A jury in Santa Fe has found Meta Platforms liable for misleading residents in a legal case linked to the Cambridge Analytica scandal. The verdict covers claims regarding third-party data sharing, content moderation, and other consumer-facing practices.</p><p>The litigation was brought by the State of New Mexico under the Unfair Practices Act. It focused on the transparency of Meta's disclosures regarding user data access and usage by external parties.</p><p><img src="https://media.tag24.de/951x634/0/l/0lz8zqlh18472abqyljnaz8ijq982g3y.jpg" /></p><hr/><small>26 Sep 2026, 01:11 UTC | #22354</small>]]></content>
   </entry>
   <entry>
     <title>Donald Trump Rules Out Scott Bessent as AI Czar</title>
