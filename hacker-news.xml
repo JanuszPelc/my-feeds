@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-26T16:21:00+00:00</updated>
+  <updated>2026-09-26T16:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>NixOS Migration Prompted by Nixpkgs Deprecation of Intel Mac Support</title>
+    <link href="https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend" rel="alternate" />
+    <id>https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend::v239</id>
+    <published>2026-09-26T16:27:00+00:00</published>
+    <updated>2026-09-26T16:27:00+00:00</updated>
+    <media:thumbnail url="https://applech2.com/wp-content/uploads/2025/11/Blender-5-end-support-Intel-features-3.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend">discussion</a></small></p><hr/><p>A user is migrating their setup from macOS to NixOS on a 2018 MacBook Pro. The move follows the decision to end Nixpkgs support for x86_64-darwin in upcoming releases due to Apple's platform deprecation.</p><p>Weekend plans include supporting a local artist's open studio event and watching a film with their son.</p><p><img src="https://applech2.com/wp-content/uploads/2025/11/Blender-5-end-support-Intel-features-3.webp" /></p><hr/><small>26 Sep 2026, 20:50 UTC | #22455</small>]]></content>
+  </entry>
   <entry>
     <title>PipePipe Open-Source Android App Offers YouTube Enhancements</title>
     <link href="https://github.com/InfinityLoop1308/PipePipe" rel="alternate" />
