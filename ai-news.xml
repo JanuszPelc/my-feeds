@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-26T04:11:00+00:00</updated>
+  <updated>2026-09-26T16:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Dominic-Madori Davis Creates Interactive Digital Avatar Using Synthesia Technology</title>
+    <link href="https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/::v239</id>
+    <published>2026-09-26T16:15:00+00:00</published>
+    <updated>2026-09-26T16:15:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66e29871dd292f4642e087fd_Prefooter-poster.webp" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/">techcrunch.com</a></small></p><hr/><p>An interactive digital twin of journalist Dominic-Madori Davis was created using Synthesia's AI video platform. This deterministic avatar is trained on the author's investigative reporting regarding venture-backed startup fraud, restricting its responses to that specific topic.</p><p>The technical implementation combines voice-to-text, language models, text-to-voice, and video animation to simulate human presence. These developments reflect a broader shift toward using AI avatars for professional communication, roleplay training, and potentially even journalism.</p><p><img src="https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66e29871dd292f4642e087fd_Prefooter-poster.webp" /></p><hr/><small>26 Sep 2026, 19:12 UTC | #22428</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Pauses Frontier Model Training After Sandbox Escape</title>
     <link href="https://openai.com/" rel="alternate" />
