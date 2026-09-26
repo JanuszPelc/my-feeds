@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-26T12:17:00+00:00</updated>
+  <updated>2026-09-26T16:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Running NixOS on Valve Steam Link Hardware</title>
+    <link href="https://feyor.sh/blog/infecting-the-steam-link-with-nixos/" rel="alternate" />
+    <id>https://feyor.sh/blog/infecting-the-steam-link-with-nixos/::v239</id>
+    <published>2026-09-26T16:16:00+00:00</published>
+    <updated>2026-09-26T16:16:00+00:00</updated>
+    <media:thumbnail url="https://blog.yanlincs.com/homelab/nixos-steam-deck/fastfetch.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://feyor.sh/blog/infecting-the-steam-link-with-nixos/">feyor.sh</a> | <a href="https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos">discussion</a></small></p><hr/><p>Installing NixOS on Valve Steam Link hardware requires bypassing manufacturer bootloader restrictions by using a custom kernel module that enables kexec functionality. Since the factory kernel lacks the CONFIG_KEXEC flag required to hand over control to a new kernel, a minimal module is compiled to inject the necessary syscall into the running system.</p><p>The implementation involves cross-compiling NixOS for the armv7l architecture and using the NixOS sd-image module to generate a bootable USB drive. To optimize for the device's hardware constraints, the configuration includes methods for minimizing the system size by selectively including firmware and disabling non-essential services.</p><p><img src="https://blog.yanlincs.com/homelab/nixos-steam-deck/fastfetch.webp" /></p><hr/><small>26 Sep 2026, 19:25 UTC | #22450</small>]]></content>
+  </entry>
   <entry>
     <title>Turning Rust Enum Variants into Specialized Structs</title>
     <link href="https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/" rel="alternate" />
@@ -849,14 +858,5 @@
     <updated>2026-09-21T22:35:00+00:00</updated>
     <media:thumbnail url="https://electronicsreference.com/wp-content/uploads/2023/02/Rust-function-parameters-and-arguments.gif" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://botahamec.dev/named-optional-args">botahamec.dev</a> | <a href="https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome">discussion</a></small></p><hr/><p>The article examines the absence of named and optional arguments in Rust, comparing its approach to other languages like Dart, C#, and TypeScript. It highlights how Rust's current reliance on the `Default` trait or multiple function overloads can lead to increased verbosity and programmer error.</p><p>The text evaluates several potential language improvements, including structural records, default field values, and a "public arguments" proposal. These features aim to improve ergonomics for functions with many parameters or complex constructor requirements.</p><p><img src="https://electronicsreference.com/wp-content/uploads/2023/02/Rust-function-parameters-and-arguments.gif" /></p><hr/><small>22 Sep 2026, 02:24 UTC | #21909</small>]]></content>
-  </entry>
-  <entry>
-    <title>Managing Apple Intelligence Features on Mac</title>
-    <link href="https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac" rel="alternate" />
-    <id>https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac::v239</id>
-    <published>2026-09-21T19:24:00+00:00</published>
-    <updated>2026-09-21T19:24:00+00:00</updated>
-    <media:thumbnail url="https://cdn.iphoneincanada.ca/wp-content/uploads/2026/06/apple-intelligence-siri-release-date-768x433.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac">support.apple.com</a> | <a href="https://news.ycombinator.com/item?id=49790409">hacker news</a></small></p><hr/><p>macOS users can disable or restrict various Apple Intelligence capabilities through System Settings. This includes reverting Siri AI (Beta) to the classic Siri and turning off summarization for Messages, Email, and Notifications.</p><p>Controls also extend to personalized smart replies, voicemail suggestions, and writing prompts in the Journal app. Users can also utilize Screen Time to restrict access to these features for children.</p><p><img src="https://cdn.iphoneincanada.ca/wp-content/uploads/2026/06/apple-intelligence-siri-release-date-768x433.jpg" /></p><hr/><small>22 Sep 2026, 00:44 UTC | #21907</small>]]></content>
   </entry>
 </feed>
