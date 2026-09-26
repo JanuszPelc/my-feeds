@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-26T07:54:00+00:00</updated>
+  <updated>2026-09-26T08:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google DeepMind Researchers Launch AI Startups Focused on LLM Alternatives</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-25/google-deepmind-exodus-sparks-vc-frenzy-for-ai-s-next-big-thing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDM5NDkwMiwiZXhwIjoxNzkwOTk5NzAyLCJhcnRpY2xlSWQiOiJUTFgwWUlUOTZPU00wMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.SWMT3POM1BM2Uw-13yrvdfMrUh_tjhFccGGue5OhJUE" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-25/google-deepmind-exodus-sparks-vc-frenzy-for-ai-s-next-big-thing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDM5NDkwMiwiZXhwIjoxNzkwOTk5NzAyLCJhcnRpY2xlSWQiOiJUTFgwWUlUOTZPU00wMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.SWMT3POM1BM2Uw-13yrvdfMrUh_tjhFccGGue5OhJUE::v239</id>
+    <published>2026-09-26T08:25:00+00:00</published>
+    <updated>2026-09-26T08:25:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQFjK5D9BHGPTA/feedshare-shrink_800/B4EZ0oa7zaG4Ac-/0/1774499642892?e=2147483647&amp;v=beta&amp;t=27o728-j2gb1POmCMXtH39uZweAY3HnFp_gOfO17I1w" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-25/google-deepmind-exodus-sparks-vc-frenzy-for-ai-s-next-big-thing?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDM5NDkwMiwiZXhwIjoxNzkwOTk5NzAyLCJhcnRpY2xlSWQiOiJUTFgwWUlUOTZPU00wMCIsImJjb25uZWN0SWQiOiIwNEFGQkMxQkYyMTA0NUVEODg3MzQxQkQwQzIyNzRBMCJ9.SWMT3POM1BM2Uw-13yrvdfMrUh_tjhFccGGue5OhJUE">bloomberg.com</a></small></p><hr/><p>A wave of Google DeepMind researchers and alumni are leaving the company to establish startups focused on developing artificial intelligence architectures that serve as alternatives to Large Language Models (LLMs). During a recent gathering in London, a group of 15 former and current employees discussed methods for securing capital to fund these new ventures.</p><p>The movement of specialized talent is generating significant interest among venture capitalists looking for the next major breakthrough in the AI industry. These entrepreneurs are positioning themselves to lead a transition away from current LLM-centric development toward new computational paradigms.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQFjK5D9BHGPTA/feedshare-shrink_800/B4EZ0oa7zaG4Ac-/0/1774499642892?e=2147483647&v=beta&t=27o728-j2gb1POmCMXtH39uZweAY3HnFp_gOfO17I1w" /></p><hr/><small>26 Sep 2026, 13:46 UTC | #22412</small>]]></content>
+  </entry>
   <entry>
     <title>Russian Strikes on Ukrainian Data Centers Disrupt Internet for 100,000 Kyiv Residents</title>
     <link href="https://www.ft.com/content/7fbecb15-c396-49d2-8cab-1518809a7b2b" rel="alternate" />
