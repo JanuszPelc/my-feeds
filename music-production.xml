@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-25T18:43:00+00:00</updated>
+  <updated>2026-09-26T09:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Audio Voltage Releases Cinematic Treatments for Omnisphere 3</title>
+    <link href="https://www.kvraudio.com/news/audio-voltage-releases-cinematic-treatments-for-omnisphere-3-68748?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68748" rel="alternate" />
+    <id>https://www.kvraudio.com/news/audio-voltage-releases-cinematic-treatments-for-omnisphere-3-68748?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68748::v239</id>
+    <published>2026-09-26T09:00:00+00:00</published>
+    <updated>2026-09-26T09:00:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/cinematic-treatments-portfolio-grid.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/audio-voltage-releases-cinematic-treatments-for-omnisphere-3-68748?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68748">kvraudio.com</a> | <a href="https://audiovoltage.com/products/sound-design/cinematic-treatments/">source</a></small></p><hr/><p>Cinematic Treatments is a new collection of 100 FX Rack presets for Spectrasonics Omnisphere 3 and its FX plug-in. The set comprises 20 presets each across five categories: Enormous Spaces, Resonating Materials, Ruined Atmospheres, Spectral Landscapes, and Impossible Worlds.</p><p>The presets are fully editable and can be used to process external instruments, voices, or recordings within a DAW via the included FX plug-in. The collection is available for an introductory price of $19 until October 15, 2026, after which the price will increase to its regular $29.</p><p><img src="https://static.kvraudio.com/i/b/cinematic-treatments-portfolio-grid.webp" /></p><hr/><small>26 Sep 2026, 14:49 UTC | #22430</small>]]></content>
+  </entry>
   <entry>
     <title>Synchro Arts Releases VocAlign 7</title>
     <link href="https://www.kvraudio.com/news/synchro-arts-releases-vocalign-7-with-new-multi-track-vocal-workflow-68738?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68738" rel="alternate" />

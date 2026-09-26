@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-26T02:54:00+00:00</updated>
+  <updated>2026-09-26T11:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Jeff Atwood Reflects on the Social Value of Technical Communities</title>
+    <link href="https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/" rel="alternate" />
+    <id>https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/::v239</id>
+    <published>2026-09-26T11:03:00+00:00</published>
+    <updated>2026-09-26T11:03:00+00:00</updated>
+    <media:thumbnail url="https://sherwoodnews.imgix.net/2026-01-07-stack-overflow1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/">blog.codinghorror.com</a> | <a href="https://lobste.rs/s/p3iq7v/if_we_do_not_stop_help_each_other_what_do_we">discussion</a> | <a href="https://news.ycombinator.com/item?id=49853955">hacker news</a></small></p><hr/><p>Large Language Models (LLMs) provide technical answers but lack the empathy and community connection inherent in human-driven platforms like Stack Overflow. Using a reader's account of finding support from strangers during a military crisis in the Philippines, the piece highlights how human-led interactions provide emotional significance that automated tools cannot replicate.</p><p>The essay warns against the "hollowing out" of online learning communities as AI tools become more prevalent. It suggests that prioritizing automated responses over human interaction risks losing the social bonds and mutual support systems essential to collective learning and human belonging.</p><p><img src="https://sherwoodnews.imgix.net/2026-01-07-stack-overflow1.png" /></p><hr/><small>26 Sep 2026, 14:52 UTC | #22427</small>]]></content>
+  </entry>
   <entry>
     <title>The Holographic Principle and Gravity</title>
     <link href="https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/" rel="alternate" />

@@ -895,13 +895,4 @@
     <media:thumbnail url="https://indiathisweek.in/wp-content/uploads/2026/05/google-book.webp" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/">techcrunch.com</a> | <a href="https://googlebook.google/">source</a></small></p><hr/><p>Starting at $899, the new hardware line runs on Android OS and integrates Gemini AI into the core desktop experience. Key features include an AI-powered "Magic Cursor" for interacting with on-screen content and "Rambler," a tool for cleaning up dictated text.</p><p>The devices aim to succeed the Chromebook in the K-12 education sector, where approximately 50 million Chromebooks are currently in use. Manufactured by partners including Acer, ASUS, Dell, HP, and Lenovo, the laptops will feature up to 2.8K OLED displays and include 12 months of Google AI Pro.</p><p><img src="https://indiathisweek.in/wp-content/uploads/2026/05/google-book.webp" /></p><hr/><small>21 Sep 2026, 19:54 UTC | #21841</small>]]></content>
   </entry>
-  <entry>
-    <title>Review of Is Parallel Programming Hard, And, If So, What Can You Do About It?</title>
-    <link href="https://ahelwer.ca/post/2026-09-21-concurrency-textbook/" rel="alternate" />
-    <id>https://ahelwer.ca/post/2026-09-21-concurrency-textbook/::v239</id>
-    <published>2026-09-21T14:35:00+00:00</published>
-    <updated>2026-09-21T14:35:00+00:00</updated>
-    <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/978731225/original/5114d5cb46/1?v=1" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ahelwer.ca/post/2026-09-21-concurrency-textbook/">ahelwer.ca</a> | <a href="https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html">source</a> | <a href="https://lobste.rs/s/73ei6g/textbook_review_is_parallel_programming">discussion</a></small></p><hr/><p>A review of Paul E. McKenney's free online textbook, Is Parallel Programming Hard, And, If So, What Can You Do About It?, which addresses the complexities of concurrent programming. The material covers essential hardware-related topics, including CPU architecture, cache-line ownership, and the MESI protocol.</p><p>The text examines how compiler optimizations and CPU execution can cause non-intuitive behaviors, such as load/store tearing and memory reordering. The reviewer highlights the book's strength in explaining low-level hardware interactions and its depth in addressing memory ordering and atomic operations.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/978731225/original/5114d5cb46/1?v=1" /></p><hr/><small>21 Sep 2026, 18:54 UTC | #21880</small>]]></content>
-  </entry>
 </feed>
