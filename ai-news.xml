@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-25T18:42:00+00:00</updated>
+  <updated>2026-09-25T21:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Meta Opens Early Access for New Muse AI Features</title>
+    <link href="https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/::v239</id>
+    <published>2026-09-25T21:11:00+00:00</published>
+    <updated>2026-09-25T21:11:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/">techcrunch.com</a> | <a href="https://ai.meta.com/muse/">source</a> | <a href="https://news.ycombinator.com/item?id=49615537">hacker news</a></small></p><hr/><p>Users can now request entry into Meta's early access program for its Muse AI agent. Registration is available through a prompt in the app or via a specific link shared on the Muse X account.</p><p>Previewed features include a video-chat-capable digital avatar, expanded shopping integrations, and a Mac application that can perform desktop tasks. Meta also plans to integrate Muse into its AI-powered glasses to facilitate voice-activated control.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024" /></p><hr/><small>26 Sep 2026, 01:46 UTC | #22378</small>]]></content>
+  </entry>
   <entry>
     <title>Meta's Muse AI Agent Competes with Recent OpenAI and Anthropic Model Releases</title>
     <link href="https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/" rel="alternate" />
