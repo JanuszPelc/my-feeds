@@ -158,13 +158,4 @@
     <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/990540013/original/6f2cb9b93a/1?v=1" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://remy.wang/blog/ra-ra.html">remy.wang</a> | <a href="https://lobste.rs/s/t5fquc/relation_algebra_is_not_relational">discussion</a> | <a href="https://news.ycombinator.com/item?id=49770846">hacker news</a></small></p><hr/><p>The article clarifies the distinction between "relation algebra," a mathematical structure used in logic and formal methods, and "relational algebra," the foundational theory for relational database systems. Although the terms are often confused due to their similar names, they possess different origins and levels of expressive power.</p><p>While relational algebra is equivalent to a specific fragment of first-order logic, relation algebra is equivalent to first-order logic restricted to three variables. The author notes that the Prela query language is a recent example of a language based on relation algebra.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/990540013/original/6f2cb9b93a/1?v=1" /></p><hr/><small>21 Sep 2026, 21:42 UTC | #21895</small>]]></content>
   </entry>
-  <entry>
-    <title>Algorithmic Recommendation's Impact on Human Attention</title>
-    <link href="https://alicegg.tech/2026/09/21/attention" rel="alternate" />
-    <id>https://alicegg.tech/2026/09/21/attention::v239</id>
-    <published>2026-09-21T14:27:00+00:00</published>
-    <updated>2026-09-21T14:27:00+00:00</updated>
-    <media:thumbnail url="https://alicegg.tech/assets/2026-09-21-attention/tetris.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://alicegg.tech/2026/09/21/attention">alicegg.tech</a> | <a href="https://news.ycombinator.com/item?id=49787726">hacker news</a></small></p><hr/><p>Platforms like YouTube and Spotify use recommendation algorithms to hijack user attention, creating a "Tetris effect" where cognitive patterns are shaped by curated content optimized for engagement. This process shifts digital interaction from intentionality toward passive consumption of algorithmic "slop" and manipulated social feeds.</p><p>Reclaiming cognitive agency requires a return to an "intentional internet" via tools like RSS feeds, bookmarks, and blogs. This approach prioritizes slower, more deliberate consumption over the infinite, algorithmically-driven content streams characteristic of modern web ecosystems.</p><p><img src="https://alicegg.tech/assets/2026-09-21-attention/tetris.jpg" /></p><hr/><small>21 Sep 2026, 18:10 UTC | #21873</small>]]></content>
-  </entry>
 </feed>
