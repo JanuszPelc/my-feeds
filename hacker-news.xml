@@ -886,22 +886,4 @@
     <media:thumbnail url="https://photos5.appleinsider.com/gallery/61689-127595-macministoragem4-xl.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.tomshardware.com/desktops/mini-pcs/apple-mac-mini-late-2026-review">tomshardware.com</a> | <a href="https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/">source</a> | <a href="https://news.ycombinator.com/item?id=49433450">hacker news</a></small></p><hr/><p>The Apple Mac mini (Late 2026) delivers significant generational performance improvements in single- and multi-threaded tasks and storage speeds over the previous M4 model. However, the starting price has risen from $599 to $899, a hike attributed to the rising cost of components required to support artificial intelligence demands.</p><p>While the updated hardware provides enhanced versatility through M6 and M5 Pro chip options, the increased expense of memory and storage upgrades reduces the machine's overall value proposition.</p><p><img src="https://photos5.appleinsider.com/gallery/61689-127595-macministoragem4-xl.jpg" /></p><hr/><small>21 Sep 2026, 20:36 UTC | #21824</small>]]></content>
   </entry>
-  <entry>
-    <title>Squalk Forum and Chat Built on Nostr</title>
-    <link href="https://github.com/dtonon/squalk" rel="alternate" />
-    <id>https://github.com/dtonon/squalk::v239</id>
-    <published>2026-09-21T16:24:00+00:00</published>
-    <updated>2026-09-21T16:24:00+00:00</updated>
-    <media:thumbnail url="https://nostrord.com/assets/img/nostrord-app.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/dtonon/squalk">github.com</a> | <a href="https://lobste.rs/s/haq46t/squalk_old_school_forum_engine_built_on">discussion</a></small></p><hr/><p>Built on the Nostr protocol, this forum and chat application utilizes NIP-29 for group management and NIP-7D for forum threads. The software supports a "simple" mode for single-forum setups and a "full" mode for multiple rooms, providing a dedicated chat sidebar for real-time interaction within each forum.</p><p>Developed with SvelteKit, the project supports both static and server-side rendering (SSR) to enable crawlable HTML and optimized performance. To function, the application requires a Nostr relay supporting NIP-29 and a Blossom server for handling media uploads.</p><p><img src="https://nostrord.com/assets/img/nostrord-app.png" /></p><hr/><small>21 Sep 2026, 20:21 UTC | #21887</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Opens Pre-orders for Googlebook AI-Native Laptops</title>
-    <link href="https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/::v239</id>
-    <published>2026-09-21T16:17:00+00:00</published>
-    <updated>2026-09-21T16:17:00+00:00</updated>
-    <media:thumbnail url="https://indiathisweek.in/wp-content/uploads/2026/05/google-book.webp" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/">techcrunch.com</a> | <a href="https://googlebook.google/">source</a></small></p><hr/><p>Starting at $899, the new hardware line runs on Android OS and integrates Gemini AI into the core desktop experience. Key features include an AI-powered "Magic Cursor" for interacting with on-screen content and "Rambler," a tool for cleaning up dictated text.</p><p>The devices aim to succeed the Chromebook in the K-12 education sector, where approximately 50 million Chromebooks are currently in use. Manufactured by partners including Acer, ASUS, Dell, HP, and Lenovo, the laptops will feature up to 2.8K OLED displays and include 12 months of Google AI Pro.</p><p><img src="https://indiathisweek.in/wp-content/uploads/2026/05/google-book.webp" /></p><hr/><small>21 Sep 2026, 19:54 UTC | #21841</small>]]></content>
-  </entry>
 </feed>
