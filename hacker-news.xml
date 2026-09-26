@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-25T18:51:00+00:00</updated>
+  <updated>2026-09-25T23:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Cameron Wagenius Sentenced to 70 Months for AT&amp;T and Verizon Extortions</title>
+    <link href="https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/" rel="alternate" />
+    <id>https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/::v239</id>
+    <published>2026-09-25T23:17:00+00:00</published>
+    <updated>2026-09-25T23:17:00+00:00</updated>
+    <media:thumbnail url="https://krebsonsecurity.com/wp-content/uploads/2024/12/camwagenius-selfie.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/">krebsonsecurity.com</a> | <a href="https://www.justice.gov/opa/pr/former-us-soldier-sentenced-hacking-and-extortion-scheme-exposed-sensitive-data-us">source</a></small></p><hr/><p>Cameron John Wagenius, a former U.S. Army soldier, was sentenced to 70 months in federal prison for hacking into telecommunications companies and stealing call and text metadata for over 100 million AT&amp;T customers. Operating under the alias "Kiberphant0m," Wagenius exploited misconfigured Snowflake cloud storage accounts to access data and attempted to extort companies by threatening to release stolen information.</p><p>The extortion scheme included threats to release alleged communication logs of high-profile political figures and schematics stolen from the National Security Agency. While awaiting sentencing, Wagenius allegedly used AI tools to research security vulnerabilities and escape methods within the Bureau of Prisons.</p><p><img src="https://krebsonsecurity.com/wp-content/uploads/2024/12/camwagenius-selfie.png" /></p><hr/><small>26 Sep 2026, 06:04 UTC | #22389</small>]]></content>
+  </entry>
   <entry>
     <title>First Principles Thinking in the Era of Agentic AI Development</title>
     <link href="https://sunilsadasivan.com/writing/first-principles-thinking/" rel="alternate" />

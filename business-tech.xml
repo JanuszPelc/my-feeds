@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-25T23:13:00+00:00</updated>
+  <updated>2026-09-25T23:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>TikTok Settles Alabama Lawsuit Over Social Media Addiction Claims</title>
+    <link href="https://www.reuters.com/world/us/tiktok-settles-with-alabama-ahead-first-state-trial-over-claims-teen-harms-2026-09-25/" rel="alternate" />
+    <id>https://www.reuters.com/world/us/tiktok-settles-with-alabama-ahead-first-state-trial-over-claims-teen-harms-2026-09-25/::v239</id>
+    <published>2026-09-25T23:16:00+00:00</published>
+    <updated>2026-09-25T23:16:00+00:00</updated>
+    <media:thumbnail url="https://www.beingguru.com/wp-content/uploads/2026/01/TikTok-Joins-Snap-in-Settlement-Over-Social-Media-Addiction-Claims-758x426.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/us/tiktok-settles-with-alabama-ahead-first-state-trial-over-claims-teen-harms-2026-09-25/">reuters.com</a> | <a href="https://www.alabamaag.gov/attorney-general-marshall-announces-historic-multi-million-dollar-settlement-with-tiktok/">source</a></small></p><hr/><p>TikTok and ByteDance have reached a settlement with Alabama to resolve allegations that the platform's design contributes to social media addiction and harms teenagers. Under the agreement, the state will receive a minimum of $100 million, with the potential for up to $300 million if specific conditions are met.</p><p>The settlement avoids a trial in Alabama, which was scheduled to be the first-of-its-kind state case regarding social media addiction. In addition to the financial terms, TikTok has agreed to implement several new user protection measures and safety features for children.</p><p><img src="https://www.beingguru.com/wp-content/uploads/2026/01/TikTok-Joins-Snap-in-Settlement-Over-Social-Media-Addiction-Claims-758x426.jpg" /></p><hr/><small>26 Sep 2026, 06:03 UTC | #22390</small>]]></content>
+  </entry>
   <entry>
     <title>FTC Chairman Andrew Ferguson Rejects AI Agent Autonomy, Citing Developer Liability</title>
     <link href="https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/" rel="alternate" />
