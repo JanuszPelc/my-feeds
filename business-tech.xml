@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-26T16:32:00+00:00</updated>
+  <updated>2026-09-26T16:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Automattic CEO Matt Mullenweg Rebuilds Board After Failed Ouster Attempt</title>
+    <link href="https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/::v239</id>
+    <published>2026-09-26T16:33:00+00:00</published>
+    <updated>2026-09-26T16:33:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-bling-watch.jpg?w=680" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=49857572">hacker news</a></small></p><hr/><p>Automattic's CEO has appointed a new board of directors following a failed attempt by the company's previous directors to remove him from office. The new group, which Mullenweg announced to employees, includes science fiction author Hugh Howey, author Amy Chan, and co-founders of the defunct social app IRL, Henry Khachatryan and Krutal Desai.</p><p>The leadership change follows a governance struggle in which Mullenweg, who holds 84% of the company's voting shares, ousted the directors involved in the attempt to place him on leave. Several high-level executives and board members, including former CFO Mark Davies and founding CEO Toni Schneider, have departed. This reshuffle occurs as Automattic continues its legal dispute with hosting provider WP Engine over trademark and open-source contribution issues.</p><p><img src="https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-bling-watch.jpg?w=680" /></p><hr/><small>26 Sep 2026, 22:35 UTC | #22439</small>]]></content>
+  </entry>
   <entry>
     <title>Nu Holdings Discusses Potential Acquisition of Monzo for Up to £10bn</title>
     <link href="https://www.ft.com/content/e375ba2b-8033-426a-aa63-0f22dd06e689" rel="alternate" />
@@ -1156,14 +1165,5 @@
     <updated>2026-09-21T22:37:00+00:00</updated>
     <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQbl_TgWwSQ6E2PjxHwIkaxd2tobkNnEuTaEmMzBh6s3u9AKiw04-4uLklfk4ffiqdjyCHDVjk9hxxX7PX1DuhSfdh9ctqJ39QnmlqQgTzXFoZrf9PKTAQ785Cmxo-Ek9SEnyo6HFROG4XhGmsjOYWma_SDhVFejU51e0pFyvQeqe1E8yFrL3ZgeGJHcjC/w1200-h630-p-k-no-nu/Open+Model+vs+Open+Weight+vs+Open+Source.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on-anthropic-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDAxMDkwMiwiZXhwIjoxNzkwNjE1NzAyLCJhcnRpY2xlSWQiOiJUTFEyMFpOM04wQTMwMCIsImJjb25uZWN0SWQiOiI5MDI3MkIwQzRFRjQ0MkUxOUZCQkFBRTdBODJGMjM3NSJ9.i7tIzBBJutWRddw95G5V52NMXfBwhYa2v52uZC8eJ-g">bloomberg.com</a></small></p><hr/><p>Startups including Harvey, Abridge, Ramp, and Rogo are increasingly adopting open-weight models or training proprietary versions to decrease dependence on expensive frontier labs like OpenAI and Anthropic. This shift aims to mitigate soaring AI costs while enabling more specialized model performance for specific industry needs.</p><p>The legal startup Harvey has already implemented this strategy with its Tenet model, which is based on Moonshot AI's Kimi K3. The model is designed to improve cost-efficiency and reasoning capabilities for complex, long-horizon legal tasks.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQbl_TgWwSQ6E2PjxHwIkaxd2tobkNnEuTaEmMzBh6s3u9AKiw04-4uLklfk4ffiqdjyCHDVjk9hxxX7PX1DuhSfdh9ctqJ39QnmlqQgTzXFoZrf9PKTAQ785Cmxo-Ek9SEnyo6HFROG4XhGmsjOYWma_SDhVFejU51e0pFyvQeqe1E8yFrL3ZgeGJHcjC/w1200-h630-p-k-no-nu/Open+Model+vs+Open+Weight+vs+Open+Source.png" /></p><hr/><small>22 Sep 2026, 03:57 UTC | #21894</small>]]></content>
-  </entry>
-  <entry>
-    <title>Gavin Newsom Signs Seven Bills Regulating California Data Centers</title>
-    <link href="https://www.reuters.com/legal/litigation/california-governor-signs-broad-data-center-oversight-bill-package-2026-09-21/" rel="alternate" />
-    <id>https://www.reuters.com/legal/litigation/california-governor-signs-broad-data-center-oversight-bill-package-2026-09-21/::v239</id>
-    <published>2026-09-21T22:34:00+00:00</published>
-    <updated>2026-09-21T22:34:00+00:00</updated>
-    <media:thumbnail url="https://aicertswpcdn.blob.core.windows.net/newsportal/2026/01/california-data-center-at-sunset.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/california-governor-signs-broad-data-center-oversight-bill-package-2026-09-21/">reuters.com</a> | <a href="https://www.gov.ca.gov/2026/09/21/governor-newsom-signs-most-comprehensive-data-center-laws-in-the-nation-providing-communities-more-control-on-water-electricity-and-land-use/">source</a></small></p><hr/><p>California Governor Gavin Newsom has signed a package of seven bills aimed at regulating the state's growing data center industry. The new laws mandate reporting for electricity and water consumption and grant local municipalities increased oversight regarding land use and facility development.</p><p>These measures aim to provide communities with greater control over the resource demands of high-density computing infrastructure. The legislation focuses on enhancing transparency and managing the impact of data centers on California's utility and land resources.</p><p><img src="https://aicertswpcdn.blob.core.windows.net/newsportal/2026/01/california-data-center-at-sunset.jpg" /></p><hr/><small>22 Sep 2026, 02:22 UTC | #21886</small>]]></content>
   </entry>
 </feed>
