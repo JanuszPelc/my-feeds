@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-26T16:26:00+00:00</updated>
+  <updated>2026-09-26T16:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>The Erosion of the Open Source Social Contract in the Age of AI</title>
+    <link href="https://celphase.com/3mwe774jgrk2p" rel="alternate" />
+    <id>https://celphase.com/3mwe774jgrk2p::v239</id>
+    <published>2026-09-26T16:29:00+00:00</published>
+    <updated>2026-09-26T16:29:00+00:00</updated>
+    <media:thumbnail url="https://cdn.sanity.io/images/4jfayhvz/production/0811b8d8fe4ae81aa02c592f17fa29beb524dbc6-2520x945.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://celphase.com/3mwe774jgrk2p">celphase.com</a> | <a href="https://lobste.rs/s/7qs6gj/he_who_does_not_code_neither_shall_he_eat">discussion</a></small></p><hr/><p>Open source maintainers face increasing exhaustion as a surge of low-quality, AI-generated pull requests overwhelms uncompensated volunteer labor. This influx is driving a shift away from the traditional "open source for everyone" philosophy toward a model that prioritizes the needs and rules of active contributors over passive consumers.</p><p>The article outlines four distinct stances regarding AI in the ecosystem, highlighting a growing rift between non-contributing users and developers. This tension is transforming the open source social contract into a stricter meritocracy where software utility and influence are increasingly reserved for those who actively participate in the development process.</p><p><img src="https://cdn.sanity.io/images/4jfayhvz/production/0811b8d8fe4ae81aa02c592f17fa29beb524dbc6-2520x945.jpg" /></p><hr/><small>26 Sep 2026, 21:14 UTC | #22456</small>]]></content>
+  </entry>
   <entry>
     <title>Walmart CEO John Furner Pledges No Personalized Pricing Based on Identity</title>
     <link href="https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd" rel="alternate" />
