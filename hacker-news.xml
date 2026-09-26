@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-26T12:15:00+00:00</updated>
+  <updated>2026-09-26T12:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Turning Rust Enum Variants into Specialized Structs</title>
+    <link href="https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/" rel="alternate" />
+    <id>https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/::v239</id>
+    <published>2026-09-26T12:17:00+00:00</published>
+    <updated>2026-09-26T12:17:00+00:00</updated>
+    <media:thumbnail url="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/jetbrains-rust-functions-preview.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/">schneems.com</a> | <a href="https://lobste.rs/s/tasulj/type_stronger_than_sum_its_components">discussion</a></small></p><hr/><p>Decomposing enums into individual, dedicated structs for each variant allows for more precise function signatures in Rust. Using std::path::Component as an example, this pattern enables developers to require a specific variant—such as a NormalComponent—rather than a broad enum, leveraging the type system to enforce logic at compile-time.</p><p>This technique manages the complexities of path manipulation, such as distinguishing between lexical and physical paths or handling Windows-specific syntax. By using specialized types for components like ParentDir, developers can use the compiler to ensure that operations like directory traversal are only performed when the input data is contextually valid.</p><p><img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/jetbrains-rust-functions-preview.jpg" /></p><hr/><small>26 Sep 2026, 18:31 UTC | #22449</small>]]></content>
+  </entry>
   <entry>
     <title>Go Concurrency Distilled Mini-Book Explains Concurrency in Go</title>
     <link href="https://antonz.org/go-concurrency-distilled/" rel="alternate" />
