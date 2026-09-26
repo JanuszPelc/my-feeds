@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-26T16:27:00+00:00</updated>
+  <updated>2026-09-26T16:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>A Developer's Reflection on AI Coding Dependency</title>
+    <link href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html" rel="alternate" />
+    <id>https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html::v239</id>
+    <published>2026-09-26T16:35:00+00:00</published>
+    <updated>2026-09-26T16:35:00+00:00</updated>
+    <media:thumbnail url="https://kalinga.ai/wp-content/uploads/2026/05/ai-coding-dependency-hidden-costs-developers.jpg-1024x683.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html">blog.bustikiller.com</a> | <a href="https://news.ycombinator.com/item?id=49855018">hacker news</a></small></p><hr/><p>A developer's reliance on AI coding agents in a professional setting led to a loss of fundamental understanding of the codebase and a decline in code quality. While the tools initially increased speed, the transition to "AI shepherding"—generating and committing code via agents rather than writing it manually—resulted in mental exhaustion and the inability to effectively perform code reviews.</p><p>Over-reliance on generative AI creates a risk of professional complacency, where developers lose the ability to justify technical decisions or defend their work during peer reviews. Returning to manual programming and Test-Driven Development (TDD) restores technical proficiency and ensures engineers remain capable of troubleshooting production incidents without the mediation of AI.</p><p><img src="https://kalinga.ai/wp-content/uploads/2026/05/ai-coding-dependency-hidden-costs-developers.jpg-1024x683.png" /></p><hr/><small>26 Sep 2026, 22:50 UTC | #22458</small>]]></content>
+  </entry>
   <entry>
     <title>NixOS Migration Prompted by Nixpkgs Deprecation of Intel Mac Support</title>
     <link href="https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend" rel="alternate" />
@@ -867,23 +876,5 @@
     <updated>2026-09-21T23:50:00+00:00</updated>
     <media:thumbnail url="https://heimdalsecurity.com/blog/wp-content/uploads/Zero-Day-Vulnerability-Timeline.png.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/">arstechnica.com</a> | <a href="https://news.ycombinator.com/item?id=49794666">hacker news</a></small></p><hr/><p>A zero-day vulnerability in Meta's Muse AI assistant allows local applications and terminal commands to hijack a user's account. By redirecting transcription traffic from Meta's servers to an attacker-controlled endpoint, malicious code can intercept the authentication tokens used to control the assistant.</p><p>Security researcher Patrick Wardle found that the flaw is enabled by design decisions allowing apps to modify undocumented settings, such as dictation endpoints. While Meta has publicly emphasized its security-first design for Muse, the vulnerability has already prompted Amazon to block the agent to prevent unauthorized purchases.</p><p><img src="https://heimdalsecurity.com/blog/wp-content/uploads/Zero-Day-Vulnerability-Timeline.png.jpg" /></p><hr/><small>22 Sep 2026, 06:14 UTC | #21903</small>]]></content>
-  </entry>
-  <entry>
-    <title>Transformer Explainer Visualizes Transformer Model Architecture</title>
-    <link href="https://poloclub.github.io/transformer-explainer/" rel="alternate" />
-    <id>https://poloclub.github.io/transformer-explainer/::v239</id>
-    <published>2026-09-21T22:39:00+00:00</published>
-    <updated>2026-09-21T22:39:00+00:00</updated>
-    <media:thumbnail url="https://poloclub.github.io/transformer-explainer/article_assets/embedding.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://poloclub.github.io/transformer-explainer/">poloclub.github.io</a> | <a href="https://news.ycombinator.com/item?id=49792342">hacker news</a></small></p><hr/><p>Transformer Explainer is an interactive visualization tool that decomposes the architecture of Transformer-based models, such as GPT-2, into digestible components. It walks through the sequence of tokenization, embedding, multi-head self-attention, and multilayer perceptron (MLP) layers to illustrate how large language models generate text through next-token prediction.</p><p>By utilizing the GPT-2 (small) model, the tool provides a detailed look at how tokens are transformed into numerical vectors and how attention mechanisms capture semantic relationships between words. The interactive approach is designed to make the complex mathematical foundations of modern artificial intelligence accessible to non-experts.</p><p><img src="https://poloclub.github.io/transformer-explainer/article_assets/embedding.png" /></p><hr/><small>22 Sep 2026, 04:20 UTC | #21913</small>]]></content>
-  </entry>
-  <entry>
-    <title>Named and Optional Arguments in Rust</title>
-    <link href="https://botahamec.dev/named-optional-args" rel="alternate" />
-    <id>https://botahamec.dev/named-optional-args::v239</id>
-    <published>2026-09-21T22:35:00+00:00</published>
-    <updated>2026-09-21T22:35:00+00:00</updated>
-    <media:thumbnail url="https://electronicsreference.com/wp-content/uploads/2023/02/Rust-function-parameters-and-arguments.gif" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://botahamec.dev/named-optional-args">botahamec.dev</a> | <a href="https://lobste.rs/s/xlbphk/named_optional_arguments_are_awesome">discussion</a></small></p><hr/><p>The article examines the absence of named and optional arguments in Rust, comparing its approach to other languages like Dart, C#, and TypeScript. It highlights how Rust's current reliance on the `Default` trait or multiple function overloads can lead to increased verbosity and programmer error.</p><p>The text evaluates several potential language improvements, including structural records, default field values, and a "public arguments" proposal. These features aim to improve ergonomics for functions with many parameters or complex constructor requirements.</p><p><img src="https://electronicsreference.com/wp-content/uploads/2023/02/Rust-function-parameters-and-arguments.gif" /></p><hr/><small>22 Sep 2026, 02:24 UTC | #21909</small>]]></content>
   </entry>
 </feed>
