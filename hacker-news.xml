@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-26T16:16:00+00:00</updated>
+  <updated>2026-09-26T16:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Avoiding Side Effects in If Clauses</title>
+    <link href="https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html" rel="alternate" />
+    <id>https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html::v239</id>
+    <published>2026-09-26T16:19:00+00:00</published>
+    <updated>2026-09-26T16:19:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/LbRZXcRGSCQ/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html">teamten.com</a> | <a href="https://lobste.rs/s/buroqq/keep_if_clauses_side_effect_free">discussion</a></small></p><hr/><p>Restricting if statements to testing conditions without executing code as side effects improves logic clarity. Embedding state-modifying methods within a conditional expression can obscure a method's intent and cause developers to overlook critical actions while skimming code.</p><p>Short-circuit evaluation is an unsuitable mechanism for managing side-effect-inducing calls within a conditional. Using explicit variables to separate state-changing actions from logical checks provides greater clarity and prevents common logic errors.</p><p><img src="https://i.ytimg.com/vi/LbRZXcRGSCQ/maxresdefault.jpg" /></p><hr/><small>26 Sep 2026, 19:40 UTC | #22452</small>]]></content>
+  </entry>
   <entry>
     <title>Running NixOS on Valve Steam Link Hardware</title>
     <link href="https://feyor.sh/blog/infecting-the-steam-link-with-nixos/" rel="alternate" />

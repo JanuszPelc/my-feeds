@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-26T11:11:00+00:00</updated>
+  <updated>2026-09-26T16:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>DJW Audio Releases Lustre True-Stereo Algorithmic Reverb for macOS</title>
+    <link href="https://www.kvraudio.com/news/djw-audio-releases-lustre-true-stereo-algorithmic-reverb-for-macos-vst3-au-and-aax-68736?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68736" rel="alternate" />
+    <id>https://www.kvraudio.com/news/djw-audio-releases-lustre-true-stereo-algorithmic-reverb-for-macos-vst3-au-and-aax-68736?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68736::v239</id>
+    <published>2026-09-26T16:18:00+00:00</published>
+    <updated>2026-09-26T16:18:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/lustre-interface-0-4-1.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/djw-audio-releases-lustre-true-stereo-algorithmic-reverb-for-macos-vst3-au-and-aax-68736?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68736">kvraudio.com</a> | <a href="https://djwaudio.co/#lustre">source</a></small></p><hr/><p>DJW Audio has released Lustre, a true-stereo algorithmic reverb plugin for macOS in VST3, AU, and AAX formats. The software utilizes an original algorithmic engine rather than impulse responses and provides seven algorithm families, including Halls, Plates, and Chambers. It is compatible with both Intel and Apple Silicon architectures.</p><p>The plugin features sixteen automatable faders for controlling parameters such as decay time, size, pre-delay, and diffusion. Lustre is currently priced at £149 and is available with a 14-day trial version.</p><p><img src="https://static.kvraudio.com/i/b/lustre-interface-0-4-1.png" /></p><hr/><small>26 Sep 2026, 19:37 UTC | #22429</small>]]></content>
+  </entry>
   <entry>
     <title>Desert Moon Audio Launches with 15 Analog-Inspired Plugins</title>
     <link href="https://www.kvraudio.com/news/desert-moon-audio-launches-with-15-analog-inspired-plugins-vst3-au-and-aax-68747?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68747" rel="alternate" />
