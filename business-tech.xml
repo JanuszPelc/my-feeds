@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>DAWO Initiative Targets Digital Autonomy for Dutch Government</title>
+    <link href="https://www.dawo.community/en/" rel="alternate" />
+    <id>https://www.dawo.community/en/::v239</id>
+    <published>2026-09-26T04:12:00+00:00</published>
+    <updated>2026-09-26T04:12:00+00:00</updated>
+    <media:thumbnail url="https://members.dawo.community/web/image/1054" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.dawo.community/en/">dawo.community</a> | <a href="https://news.ycombinator.com/item?id=49841563">hacker news</a></small></p><hr/><p>DAWO (Digitaal Autonome Werkomgeving Overheid) is an initiative to develop a NixOS-based digital workspace for the Dutch government. The project seeks to increase digital sovereignty and reduce reliance on proprietary US-based software suites by utilizing an open-source, immutable operating system.</p><p>The initiative focuses on five core objectives: digital autonomy, collaboration, security, innovation, and verifiability. Pilot programs are currently underway in several Dutch municipalities to test the workspace's suitability for administrative, office, and collaborative public sector workflows.</p><p><img src="https://members.dawo.community/web/image/1054" /></p><hr/><small>26 Sep 2026, 11:41 UTC | #22309</small>]]></content>
+  </entry>
+  <entry>
     <title>AI's Impact on Computing Challenges Traditional Operating System Models</title>
     <link href="https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/" rel="alternate" />
     <id>https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/::v239</id>
@@ -1228,14 +1237,5 @@
     <updated>2026-09-21T12:37:00+00:00</updated>
     <media:thumbnail url="https://ctorobotics.com/wp-content/uploads/2025/11/AsB.webp" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/technology/humanoid-robot-sales-tally-hit-7000-globally-last-year-2026-09-21/">reuters.com</a> | <a href="https://ifr.org/worldrobotics/report-2025">source</a></small></p><hr/><p>Approximately 7,000 autonomous humanoid robots were sold worldwide in 2025 for industrial and professional service use, according to data compiled by the International Federation of Robotics (IFR).</p><p>A significant portion of these sales was driven by research purposes rather than immediate productive applications in commercial or industrial environments.</p><p><img src="https://ctorobotics.com/wp-content/uploads/2025/11/AsB.webp" /></p><hr/><small>21 Sep 2026, 16:36 UTC | #21800</small>]]></content>
-  </entry>
-  <entry>
-    <title>Big Tech Uses Residual Value Guarantees for AI Infrastructure Spending</title>
-    <link href="https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?accessToken=zwAAAaDAZaodkc9_Ea-uxONAVNOmW4c_Nkf1Yw.MEUCIQDOOpxrDEP8euvKKekUwVhn13ZCYpoDldsLS1MYB7NUfwIgTt3ex7Q8-kzCxQV3stLnVHXGbKQUdKBIbc7jMY9ETBQ&amp;sharetype=gift&amp;token=1178d641-a340-4962-89e1-5a4d7305d3e2" rel="alternate" />
-    <id>https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?accessToken=zwAAAaDAZaodkc9_Ea-uxONAVNOmW4c_Nkf1Yw.MEUCIQDOOpxrDEP8euvKKekUwVhn13ZCYpoDldsLS1MYB7NUfwIgTt3ex7Q8-kzCxQV3stLnVHXGbKQUdKBIbc7jMY9ETBQ&amp;sharetype=gift&amp;token=1178d641-a340-4962-89e1-5a4d7305d3e2::v239</id>
-    <published>2026-09-21T11:33:00+00:00</published>
-    <updated>2026-09-21T11:33:00+00:00</updated>
-    <media:thumbnail url="https://www.iqxbusiness.com/wp-content/uploads/2023/11/Residual-Value.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?accessToken=zwAAAaDAZaodkc9_Ea-uxONAVNOmW4c_Nkf1Yw.MEUCIQDOOpxrDEP8euvKKekUwVhn13ZCYpoDldsLS1MYB7NUfwIgTt3ex7Q8-kzCxQV3stLnVHXGbKQUdKBIbc7jMY9ETBQ&sharetype=gift&token=1178d641-a340-4962-89e1-5a4d7305d3e2">ft.com</a></small></p><hr/><p>Large technology companies are increasingly employing residual value guarantees to manage AI-related expenditures off-balance sheet. This financial mechanism allows semiconductor manufacturers like Nvidia and Broadcom to facilitate massive hardware orders by leveraging the high credit ratings of tech giants to secure more favorable financing terms.</p><p>This strategy enables the rapid scaling of AI infrastructure while allowing companies to optimize their capital allocation and financial reporting. By providing these guarantees, tech firms are converting their corporate credit strength into liquidity for the specialized hardware required for the artificial intelligence expansion.</p><p><img src="https://www.iqxbusiness.com/wp-content/uploads/2023/11/Residual-Value.jpg" /></p><hr/><small>21 Sep 2026, 15:50 UTC | #21798</small>]]></content>
   </entry>
 </feed>
