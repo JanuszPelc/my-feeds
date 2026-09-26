@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-26T16:18:00+00:00</updated>
+  <updated>2026-09-26T16:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Benjamin Guerrero Releases ResoPlate and Updates Sympiano</title>
+    <link href="https://www.kvraudio.com/news/benjamin-guerrero-releases-resoplate-physically-modeled-plate-reverb-and-updates-sympiano-to-v1-0-7-68752?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68752" rel="alternate" />
+    <id>https://www.kvraudio.com/news/benjamin-guerrero-releases-resoplate-physically-modeled-plate-reverb-and-updates-sympiano-to-v1-0-7-68752?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68752::v239</id>
+    <published>2026-09-26T16:23:00+00:00</published>
+    <updated>2026-09-26T16:23:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/resoplate.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/benjamin-guerrero-releases-resoplate-physically-modeled-plate-reverb-and-updates-sympiano-to-v1-0-7-68752?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68752">kvraudio.com</a> | <a href="https://resoaudio.com/resoplate/">source</a></small></p><hr/><p>Benjamin Guerrero has released ResoPlate, a physically modeled plate reverb plugin, and updated the free Sympiano plugin to version 1.0.7. ResoPlate uses real-time physics-based modeling of metal plates instead of impulse responses, allowing for dynamic retuning of resonance by changing plate materials or dimensions.</p><p>ResoPlate is available for macOS and Windows with an introductory price of $39 until October 31, 2026. The plugin supports VST3 and Audio Unit formats and includes features such as sidechain input with an envelope follower, pitch bend control, and six distinct metal types.</p><p><img src="https://static.kvraudio.com/i/b/resoplate.png" /></p><hr/><small>26 Sep 2026, 20:22 UTC | #22438</small>]]></content>
+  </entry>
+  <entry>
+    <title>xGG Releases Magic ACX Audiobook Audio Processor and Analyzer</title>
+    <link href="https://www.kvraudio.com/news/xgg-releases-magic-acx---realtime-audiobook-audio-processor-and-analyzer-for-windows-vst3-68750?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68750" rel="alternate" />
+    <id>https://www.kvraudio.com/news/xgg-releases-magic-acx---realtime-audiobook-audio-processor-and-analyzer-for-windows-vst3-68750?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68750::v239</id>
+    <published>2026-09-26T16:22:00+00:00</published>
+    <updated>2026-09-26T16:22:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/acxvst400.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/xgg-releases-magic-acx---realtime-audiobook-audio-processor-and-analyzer-for-windows-vst3-68750?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68750">kvraudio.com</a> | <a href="https://ko-fi.com/s/0aadb32f48">source</a></small></p><hr/><p>Designed for audiobook production, Magic ACX is a Windows VST3 audio processor and analyzer that consolidates several processing and monitoring tools. The plugin integrates noise reduction, RMS and peak control, and real-time analysis for noise floor, peak, and RMS levels to help users meet ACX submission requirements.</p><p>The software streamlines workflows by bringing multiple general-purpose plugins and analysis tools into a single interface. It features real-time analysis metering and an ACX status indicator for monitoring audio measurements directly within a digital audio workstation. The plugin is available for $10.</p><p><img src="https://static.kvraudio.com/i/b/acxvst400.jpg" /></p><hr/><small>26 Sep 2026, 20:21 UTC | #22433</small>]]></content>
+  </entry>
   <entry>
     <title>DJW Audio Releases Lustre True-Stereo Algorithmic Reverb for macOS</title>
     <link href="https://www.kvraudio.com/news/djw-audio-releases-lustre-true-stereo-algorithmic-reverb-for-macos-vst3-au-and-aax-68736?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68736" rel="alternate" />
