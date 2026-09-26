@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-26T16:30:00+00:00</updated>
+  <updated>2026-09-26T16:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nu Holdings Discusses Potential Acquisition of Monzo for Up to £10bn</title>
+    <link href="https://www.ft.com/content/e375ba2b-8033-426a-aa63-0f22dd06e689" rel="alternate" />
+    <id>https://www.ft.com/content/e375ba2b-8033-426a-aa63-0f22dd06e689::v239</id>
+    <published>2026-09-26T16:32:00+00:00</published>
+    <updated>2026-09-26T16:32:00+00:00</updated>
+    <media:thumbnail url="https://www.digitaltalks.org/wp-content/uploads/2024/03/Monzo.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/e375ba2b-8033-426a-aa63-0f22dd06e689">ft.com</a></small></p><hr/><p>Monzo is in early-stage talks to be acquired by Nu Holdings, the parent company of Brazilian fintech Nubank. A potential transaction could value the UK-based digital bank at between £8 billion and £10 billion.</p><p>Monzo is also discussing the sale of a 15% stake to private equity firms. These negotiations occur as the company evaluates different strategic paths for its capital structure.</p><p><img src="https://www.digitaltalks.org/wp-content/uploads/2024/03/Monzo.jpg" /></p><hr/><small>26 Sep 2026, 22:12 UTC | #22432</small>]]></content>
+  </entry>
   <entry>
     <title>United States and China Establish 'Super Intelligence Dialogue' and AI Incident Hotline</title>
     <link href="https://www.axios.com/2026/09/26/us-china-ai-si-deal" rel="alternate" />
