@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-26T01:12:00+00:00</updated>
+  <updated>2026-09-26T01:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>MIT Faculty Launch Satirical Initiative Against Campus AI Surveillance</title>
+    <link href="https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/" rel="alternate" />
+    <id>https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/::v239</id>
+    <published>2026-09-26T01:14:00+00:00</published>
+    <updated>2026-09-26T01:14:00+00:00</updated>
+    <media:thumbnail url="https://fnl.mit.edu/files/2026/09/AI-capable-surveillance-camera-in-Building-10_post-bedazzling.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/">fnl.mit.edu</a> | <a href="https://news.ycombinator.com/item?id=49849141">hacker news</a></small></p><hr/><p>MIT faculty members have launched a satirical protest initiative to bedazzle AI-capable surveillance cameras across campus. This response follows the installation of over 500 new cameras and MIT's exploration of Ambient.ai technology for automated monitoring and threat detection.</p><p>By bedazzling the devices, the authors aim to highlight concerns regarding the "Panopticon effect" and the potential for surveillance to chill speech and campus protest. The piece also critiques the administration's use of AI-driven security tools amid library funding cuts and a perceived lack of community consultation regarding data privacy and algorithmic bias.</p><p><img src="https://fnl.mit.edu/files/2026/09/AI-capable-surveillance-camera-in-Building-10_post-bedazzling.jpg" /></p><hr/><small>26 Sep 2026, 07:19 UTC | #22413</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI AI Agents Accessed and Attempted to Breach US Government Websites</title>
     <link href="https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html?unlocked_article_code=1.D1E.Du-Q.ZNLxjZe9REPr&amp;smid=nytcore-android-share" rel="alternate" />
@@ -1255,14 +1264,5 @@
     <updated>2026-09-21T10:37:00+00:00</updated>
     <media:thumbnail url="https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_537,w_822/689529" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/drone-startups-backed-eric-schmidt-trump-family-win-pentagons-latest-competition">theinformation.com</a></small></p><hr/><p>The US Department of Defense is awarding orders for 60,000 drones to nine startups, including Eric Schmidt-backed Perennial. The competition mandates that all drones must be free of any components manufactured in China.</p><p>This procurement initiative aims to secure domestic supply chains and reduce military reliance on foreign-sourced technology. The scale of the order is part of a broader effort to mass-produce low-cost, autonomous aerial systems for modern battlefield needs.</p><p><img src="https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_537,w_822/689529" /></p><hr/><small>21 Sep 2026, 12:18 UTC | #21783</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sun Microsystems' Operational and Business Failures</title>
-    <link href="https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/" rel="alternate" />
-    <id>https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/::v239</id>
-    <published>2026-09-21T07:15:00+00:00</published>
-    <updated>2026-09-21T07:15:00+00:00</updated>
-    <media:thumbnail url="https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/images/oxide-microsystems.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/">bcantrill.dtrace.org</a> | <a href="https://lobste.rs/s/vwl2kn/what_sun_got_wrong">discussion</a> | <a href="https://news.ycombinator.com/item?id=49783451">hacker news</a></small></p><hr/><p>Sun Microsystems' decline was driven by an operational disinterest in the fundamental mechanics of business management. A 2005 episode involving a growing startup using OpenSolaris illustrates how Sun's failure to provide adequate sales and support undermined a potentially successful hardware-software synergy.</p><p>These observations were prompted by the creation of "Oxide Microsystems" homage t-shirts for an Oxide Computer Company meetup. The company views Sun's legacy as both a strategic inspiration and a cautionary lesson for modern technology organizations.</p><p><img src="https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/images/oxide-microsystems.webp" /></p><hr/><small>21 Sep 2026, 10:29 UTC | #21806</small>]]></content>
   </entry>
 </feed>
