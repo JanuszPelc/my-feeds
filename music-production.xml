@@ -681,13 +681,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/kvr_image_done.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/audioprism-launches-on-kvr-marketplace-offline-gpu-stem-separation-midi-export-and-the-keyprism-piano-trainer-68676?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68676">kvraudio.com</a> | <a href="https://www.kvraudio.com/product/audioprism-by-audioprism">source</a></small></p><hr/><p>AudioPrism 2.0 for Windows has launched on the KVR Marketplace, providing offline audio stem separation and MIDI export. Utilizing the Demucs algorithm, the software isolates vocals, drums, bass, guitar, and piano from local files, using NVIDIA CUDA/RTX GPUs for local processing.</p><p>The software includes KeyPrism, a piano trainer that features falling-note displays, variable playback speeds, and a scored game mode. Separated audio stems can be exported as MIDI clips for use in digital audio workstations. The application is priced at $79.99, with a promotional price of $59.99 available through October 31.</p><p><img src="https://static.kvraudio.com/i/b/kvr_image_done.jpg" /></p><hr/><small>22 Sep 2026, 01:39 UTC | #21893</small>]]></content>
   </entry>
-  <entry>
-    <title>Gain Staging in Audio Production</title>
-    <link href="https://musictech.com/glossary/gain-staging/" rel="alternate" />
-    <id>https://musictech.com/glossary/gain-staging/::v239</id>
-    <published>2026-09-21T18:03:00+00:00</published>
-    <updated>2026-09-21T18:03:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2023/09/Mixing-Desk@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/glossary/gain-staging/">musictech.com</a></small></p><hr/><p>Gain staging is the practice of optimizing signal levels at each stage of a recording chain to maximize signal quality and minimize unwanted noise and distortion. By managing amplification and attenuation throughout the signal flow, producers can maintain a clean, strong signal from the initial input to the final output.</p><p>In modern DAW environments, this involves managing levels from the interface's preamps and AD converters through to internal software plugins. Maintaining proper levels prevents digital clipping and ensures that the channel faders are used primarily for balancing the final mix rather than signal compensation.</p><p><img src="https://musictech.com/wp-content/uploads/2023/09/Mixing-Desk@2000x1500.jpg" /></p><hr/><small>21 Sep 2026, 23:22 UTC | #21877</small>]]></content>
-  </entry>
 </feed>
