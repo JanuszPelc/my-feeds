@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-25T18:41:00+00:00</updated>
+  <updated>2026-09-25T18:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Gen Alpha Uses 'That's So AI' as a Slang Term for Inauthenticity</title>
+    <link href="https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us" rel="alternate" />
+    <id>https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us::v239</id>
+    <published>2026-09-25T18:55:00+00:00</published>
+    <updated>2026-09-25T18:55:00+00:00</updated>
+    <media:thumbnail url="https://i.abcnewsfe.com/a/767b1a9f-b078-494a-8415-ede288b42f9d/231120_gma3_gen_alpha_hpMain_16x9.jpg?w=992" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us">theguardian.com</a> | <a href="https://news.ycombinator.com/item?id=49829650">hacker news</a></small></p><hr/><p>The phrase "That's so AI" is emerging as a slang insult among Gen Alpha to describe things that are inauthentic, deceptive, or of dubious value. This usage targets the superficiality of AI-generated "slop"—content that appears convincing but lacks true substance.</p><p>This linguistic trend extends to real-world objects and social behaviors, including knock-off merchandise and exaggerated claims. By equating the technology with "bullshit," younger generations use the term to categorize and dismiss anything they perceive as lacking genuine quality.</p><p><img src="https://i.abcnewsfe.com/a/767b1a9f-b078-494a-8415-ede288b42f9d/231120_gma3_gen_alpha_hpMain_16x9.jpg?w=992" /></p><hr/><small>26 Sep 2026, 00:22 UTC | #22395</small>]]></content>
+  </entry>
   <entry>
     <title>Glyph Lefkowitz Re-evaluates the Relationship Between Open Source Maintainers and Users</title>
     <link href="https://blog.glyph.im/2026/09/who-is-open-source-about.html" rel="alternate" />
