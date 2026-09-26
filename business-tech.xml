@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-26T16:33:00+00:00</updated>
+  <updated>2026-09-26T16:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Major Social Media Platforms Reject Paid Ads for Alex Gibney's 'Musk' Documentary</title>
+    <link href="https://www.hollywoodreporter.com/business/digital/elon-musk-documentary-trailer-rejected-tiktok-youtube-1236710259/" rel="alternate" />
+    <id>https://www.hollywoodreporter.com/business/digital/elon-musk-documentary-trailer-rejected-tiktok-youtube-1236710259/::v239</id>
+    <published>2026-09-26T16:36:00+00:00</published>
+    <updated>2026-09-26T16:36:00+00:00</updated>
+    <media:thumbnail url="https://www.jalopnik.com/img/gallery/elon-musk-could-legally-help-struggling-tsa-agents-get-paid-with-this-one-weird-trick/l-intro-1774559802.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.hollywoodreporter.com/business/digital/elon-musk-documentary-trailer-rejected-tiktok-youtube-1236710259/">hollywoodreporter.com</a> | <a href="https://news.ycombinator.com/item?id=49857536">hacker news</a></small></p><hr/><p>Bleecker Street, the distributor of Alex Gibney’s upcoming four-hour documentary *Musk*, is unable to run paid advertisements for the film's trailer on YouTube, TikTok, and Meta. The platforms have declined the ads citing policies against "political content" due to the inclusion of 2024 election references and footage of a political rally.</p><p>Bleecker Street is appealing the decisions, though Meta has already rejected its petition. X, owned by Elon Musk, has declined to engage on the film or accept advertising for any of Bleecker Street’s upcoming projects. The distribution difficulties arrive as the film, which explores Musk's influence on media and communication, prepares for a theatrical release on October 9.</p><p><img src="https://www.jalopnik.com/img/gallery/elon-musk-could-legally-help-struggling-tsa-agents-get-paid-with-this-one-weird-trick/l-intro-1774559802.jpg" /></p><hr/><small>26 Sep 2026, 23:13 UTC | #22440</small>]]></content>
+  </entry>
   <entry>
     <title>Automattic CEO Matt Mullenweg Rebuilds Board After Failed Ouster Attempt</title>
     <link href="https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/" rel="alternate" />
