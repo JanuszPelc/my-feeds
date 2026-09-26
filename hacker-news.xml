@@ -975,30 +975,4 @@
     <media:thumbnail url="https://howhttpworks.com/og/WyI1MjAgV2ViIFNlcnZlciBSZXR1cm5lZCBhbiBVbmtub3duIEVycm9yIiwiQ2xvdWRmbGFyZS1zcGVjaWZpYyBlcnJvciB3aGVuIHRoZSBvcmlnaW4gc2VydmVyIHJldHVybnMgYW4gdW5leHBlY3RlZCByZXNwb25zZS4gTGVhcm4gYWJvdXQgNTIwIGVycm9ycyBhbmQuLi4iLCJIVFRQIFN0YXR1cyBDb2RlcyIsInYyIl0/status-codes-520.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://outdata.net/blog/260803">outdata.net</a> | <a href="https://lobste.rs/s/qupohm/deterministic_core_non_deterministic">discussion</a> | <a href="https://news.ycombinator.com/item?id=49782220">hacker news</a></small></p><hr/><p>The Cloudflare 520 error occurs when an origin web server returns an unknown response to the Cloudflare cache, disrupting communication between the cache and the server.</p><p>Visitors are advised to wait several minutes before retrying their request. Website owners are encouraged to collect error logs from their origin server and submit them to Cloudflare support, along with the specific Ray ID associated with the error.</p><p><img src="https://howhttpworks.com/og/WyI1MjAgV2ViIFNlcnZlciBSZXR1cm5lZCBhbiBVbmtub3duIEVycm9yIiwiQ2xvdWRmbGFyZS1zcGVjaWZpYyBlcnJvciB3aGVuIHRoZSBvcmlnaW4gc2VydmVyIHJldHVybnMgYW4gdW5leHBlY3RlZCByZXNwb25zZS4gTGVhcm4gYWJvdXQgNTIwIGVycm9ycyBhbmQuLi4iLCJIVFRQIFN0YXR1cyBDb2RlcyIsInYyIl0/status-codes-520.png" /></p><hr/><small>21 Sep 2026, 14:28 UTC | #21837</small>]]></content>
   </entry>
-  <entry>
-    <title>Vim's UserGettingBored Autocmd Explained</title>
-    <link href="https://evanhahn.com/usergettingbored-vim/" rel="alternate" />
-    <id>https://evanhahn.com/usergettingbored-vim/::v239</id>
-    <published>2026-09-21T10:50:00+00:00</published>
-    <updated>2026-09-21T10:50:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://evanhahn.com/usergettingbored-vim/">evanhahn.com</a> | <a href="https://lobste.rs/s/hbipbf/vim_s_usergettingbored_autocmd">discussion</a> | <a href="https://news.ycombinator.com/item?id=49414891">hacker news</a></small></p><hr/><p>Vim's documentation contains a joke autocmd titled `UserGettingBored`, which claims to trigger when a user presses the same key 42 times. Despite appearing in the documentation for Vim, Neovim, and Vim Classic, the event is non-functional and triggers a "no such group or event" error if called.</p><p>The description for the joke has evolved since its introduction in 2000, shifting from a joke about CTRL-C to the current version in 2013. While the native event remains a placeholder, an unofficial plugin named `ugbi` was released in 2022 that implements the trigger to display a picture of Samuel L. Jackson.</p><hr/><small>21 Sep 2026, 13:58 UTC | #21823</small>]]></content>
-  </entry>
-  <entry>
-    <title>Hacktron AI Identifies HEIF Heist Vulnerability Class Targeting Image Decoders</title>
-    <link href="https://heif-heist.com" rel="alternate" />
-    <id>https://heif-heist.com::v239</id>
-    <published>2026-09-21T10:49:00+00:00</published>
-    <updated>2026-09-21T10:49:00+00:00</updated>
-    <media:thumbnail url="https://www.netsolutions.com/wp-content/uploads/2024/12/Remote-code-execution.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://heif-heist.com">heif-heist.com</a> | <a href="https://lobste.rs/s/qpbblx/heif_heist">discussion</a> | <a href="https://news.ycombinator.com/item?id=49754253">hacker news</a></small></p><hr/><p>Hacktron AI has identified "HEIF Heist," a class of vulnerabilities targeting services that decode HEIF, HEIC, or AVIF images. By exploiting native C/C++ parsers such as libheif and libde265, attackers can bypass application-level defenses to trigger memory corruption, data exfiltration, or remote code execution (RCE). These vulnerabilities reside in the underlying image-processing stack often bundled via higher-level libraries like ImageMagick or Sharp.</p><p>The research demonstrates that attackers can fingerprint specific library versions through crafted file uploads to launch tailored exploits. Hacktron notes that using AI tools can significantly reduce the time required to develop exploits for these vulnerabilities. To mitigate risks, users should update to libheif version 1.23.2 or later and consider isolating image-processing tasks within hardened, ephemeral sandboxes.</p><p><img src="https://www.netsolutions.com/wp-content/uploads/2024/12/Remote-code-execution.webp" /></p><hr/><small>21 Sep 2026, 13:57 UTC | #21818</small>]]></content>
-  </entry>
-  <entry>
-    <title>GoatCounter Web Analytics Deployed on NixOS with Bot Filtering</title>
-    <link href="https://vincent.bernat.ch/en/blog/2026-goatcounter" rel="alternate" />
-    <id>https://vincent.bernat.ch/en/blog/2026-goatcounter::v239</id>
-    <published>2026-09-21T10:48:00+00:00</published>
-    <updated>2026-09-21T10:48:00+00:00</updated>
-    <media:thumbnail url="https://assets.stoicsoft.com/template-guides/servercompass/goatcounter/09-open-application-browser.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vincent.bernat.ch/en/blog/2026-goatcounter">vincent.bernat.ch</a> | <a href="https://lobste.rs/s/1xxu7n/bot_free_self_hosted_analytics_with">discussion</a></small></p><hr/><p>Bot and AI scraper traffic is filtered using GoatCounter on NixOS by requiring user interaction to register web hits. The setup uses a JavaScript client that listens for events like `mousemove` or `keydown`, alongside a CSS `:hover` fallback for non-JavaScript browsers. To prevent data loss, a local proxy on the web servers buffers hits for batch transmission.</p><p>The infrastructure relies on Colmena and systemd-nspawn containers for isolation. Custom NixOS modules manage container orchestration, secrets, and persistent SQLite storage via bind mounts. This configuration successfully reduced the author's reported daily visitors from 2,000 bots to fewer than 200 human users.</p><p><img src="https://assets.stoicsoft.com/template-guides/servercompass/goatcounter/09-open-application-browser.png" /></p><hr/><small>21 Sep 2026, 13:54 UTC | #21817</small>]]></content>
-  </entry>
 </feed>
