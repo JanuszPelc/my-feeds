@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-26T11:13:00+00:00</updated>
+  <updated>2026-09-26T11:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Nuclear Power Plant Maintains AmigaOS Emulator for Control Rod Monitoring</title>
+    <link href="https://news.ycombinator.com/item?id=49848955" rel="alternate" />
+    <id>https://news.ycombinator.com/item?id=49848955::v239</id>
+    <published>2026-09-26T11:15:00+00:00</published>
+    <updated>2026-09-26T11:15:00+00:00</updated>
+    <media:thumbnail url="https://image3.slideserve.com/6645227/reactor-and-control-rod-design-l.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49848955">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49848955">hacker news</a></small></p><hr/><p>A Windows NT 4.0 system running an AmigaOS emulator was used by a nuclear power plant to monitor control rod status. This configuration persisted until at least 2007 because the original software was written for AmigaOS in the 1980s, and updating the system would have required a costly and time-consuming regulatory re-certification.</p><p>The setup required direct hardware access provided by Windows NT 4.0, a feature lost in later operating system versions. Because the manufacturer of the emulation software had gone out of business, the facility maintained the legacy setup by sourcing spare parts from eBay to ensure continued operation.</p><p><img src="https://image3.slideserve.com/6645227/reactor-and-control-rod-design-l.jpg" /></p><hr/><small>26 Sep 2026, 17:06 UTC | #22444</small>]]></content>
+  </entry>
   <entry>
     <title>The Origin Story of Apple's Cards App</title>
     <link href="https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story" rel="alternate" />
