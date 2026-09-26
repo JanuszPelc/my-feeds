@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-26T16:19:00+00:00</updated>
+  <updated>2026-09-26T16:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>PipePipe Open-Source Android App Offers YouTube Enhancements</title>
+    <link href="https://github.com/InfinityLoop1308/PipePipe" rel="alternate" />
+    <id>https://github.com/InfinityLoop1308/PipePipe::v239</id>
+    <published>2026-09-26T16:21:00+00:00</published>
+    <updated>2026-09-26T16:21:00+00:00</updated>
+    <media:thumbnail url="https://raw.githubusercontent.com/TeamNewPipe/NewPipe/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/InfinityLoop1308/PipePipe">github.com</a> | <a href="https://news.ycombinator.com/item?id=49842764">hacker news</a></small></p><hr/><p>PipePipe is an open-source Android application and a hard fork of NewPipe that provides expanded features for browsing YouTube and other services. It incorporates SponsorBlock to skip sponsored segments and ReturnYouTubeDislike to restore visibility of video dislikes.</p><p>Developed as an independent project since 2022, PipePipe supports AV1 and VP9 codecs, danmaku-style live chat overlays, and background playback. The application also includes advanced filtering to block YouTube Shorts and paid videos, alongside enhanced playlist management and playback controls.</p><p><img src="https://raw.githubusercontent.com/TeamNewPipe/NewPipe/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04.png" /></p><hr/><small>26 Sep 2026, 20:03 UTC | #22453</small>]]></content>
+  </entry>
   <entry>
     <title>Avoiding Side Effects in If Clauses</title>
     <link href="https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html" rel="alternate" />
