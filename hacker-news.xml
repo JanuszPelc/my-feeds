@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-26T17:55:00+00:00</updated>
+  <updated>2026-09-27T00:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Minimalist Web Development Advocates Use of Native HTML and CSS</title>
+    <link href="https://modernmotherfuckingwebsite.dreamstation.systems/" rel="alternate" />
+    <id>https://modernmotherfuckingwebsite.dreamstation.systems/::v239</id>
+    <published>2026-09-27T00:05:00+00:00</published>
+    <updated>2026-09-27T00:05:00+00:00</updated>
+    <media:thumbnail url="https://htmlsave.com/blog/wp-content/uploads/2026/03/htmlsave-simple-way-to-host-snippets-scaled.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://modernmotherfuckingwebsite.dreamstation.systems/">modernmotherfuckingwebsite.dreamstation.systems</a> | <a href="https://lobste.rs/s/zoproh/this_is_modern_motherfucking_website">discussion</a> | <a href="https://news.ycombinator.com/item?id=49831834">hacker news</a></small></p><hr/><p>Over-engineering websites with heavy JavaScript frameworks and complex build pipelines can be avoided by leveraging native browser features. Core requirements—including accessibility landmarks, structured data, social media cards, and performance optimizations—are achievable through standard HTML and CSS without additional dependencies.</p><p>As a sequel to the original "motherfuckingwebsite.com," the text emphasizes the utility of platform-native features like speculation rules, `&lt;dialog&gt;` elements, and next-generation image formats. The author advocates for a "start with HTML" methodology to ensure sites remain performant, accessible, and maintainable.</p><p><img src="https://htmlsave.com/blog/wp-content/uploads/2026/03/htmlsave-simple-way-to-host-snippets-scaled.jpg" /></p><hr/><small>27 Sep 2026, 03:10 UTC | #22465</small>]]></content>
+  </entry>
   <entry>
     <title>Implementation of Tagged Template Literal Pun in Helicone SDK</title>
     <link href="https://shukla.io/blog/2026-09/pun.html" rel="alternate" />
