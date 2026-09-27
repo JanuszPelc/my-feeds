@@ -474,13 +474,4 @@
     <media:thumbnail url="https://www.oeaw.ac.at/fileadmin/NEWS/2026/img/ki-oeai-slider-c-oenb.webp" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/">wired.com</a> | <a href="https://www.oeaw.ac.at/en/oeai/forschung/altertumswissenschaften/antike-rechtsgeschichte-und-papyrologie/apollo">source</a></small></p><hr/><p>The Austrian Academy of Science, in partnership with Mistral and Sail Reply, is releasing Apollo, a large language model specifically designed for Ancient Greek. The model, trained on 600 million historical words, aims to assist scholars in reconstructing fragmented papyri by predicting missing text through a chatbot interface.</p><p>Apollo is designed to recognize various dialects, including Doric and Homeric Greek, to provide contextually appropriate suggestions. To prevent the introduction of errors into the historical record, the model offers multiple word options for human scholars to evaluate, ensuring that academic expertise remains central to the reconstruction process.</p><p><img src="https://www.oeaw.ac.at/fileadmin/NEWS/2026/img/ki-oeai-slider-c-oenb.webp" /></p><hr/><small>22 Sep 2026, 18:34 UTC | #21939</small>]]></content>
   </entry>
-  <entry>
-    <title>Anthropic Launches Claude Opus 5.5</title>
-    <link href="https://www.anthropic.com/claude-opus-5-5" rel="alternate" />
-    <id>https://www.anthropic.com/claude-opus-5-5::v239</id>
-    <published>2026-09-22T16:28:00+00:00</published>
-    <updated>2026-09-22T16:28:00+00:00</updated>
-    <media:thumbnail url="https://openclawnews.tech/wp-content/uploads/2026/04/2026-04-17_anthropic-claude-opus-4-7-mythos-model-2026_featured.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.anthropic.com/claude-opus-5-5">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=49803863">hacker news</a></small></p><hr/><p>Claude Opus 5.5 delivers substantial performance gains in agentic coding, computer use, and knowledge work, outperforming both Opus 5 and Claude Fable 5.1. It is 40% more cost-effective and 30% faster than its predecessor, Opus 5, and features significantly lower costs for cache reads.</p><p>The release includes enhanced safety alignment and specialized safeguards for biological and cybersecurity applications. Anthropic plans to release Claude Sonnet 5.5 and Claude Haiku 5.5 in the coming weeks.</p><p><img src="https://openclawnews.tech/wp-content/uploads/2026/04/2026-04-17_anthropic-claude-opus-4-7-mythos-model-2026_featured.webp" /></p><hr/><small>22 Sep 2026, 17:46 UTC | #21988</small>]]></content>
-  </entry>
 </feed>
