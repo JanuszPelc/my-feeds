@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T17:35:00+00:00</updated>
+  <updated>2026-09-27T20:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Reevaluates Vision Pro Development as Meta Focuses on VR Glasses</title>
+    <link href="https://www.bloomberg.com/news/newsletters/2026-09-27/meta-s-vr-glasses-are-exactly-what-the-apple-vision-pro-should-have-been-mujvy8q6?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDUxODQwNywiZXhwIjoxNzkxMTIzMjA3LCJhcnRpY2xlSWQiOiJUTTEwODFLSVVQUzYwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.51604_0p7AaiKq26lUSYAGTpczPCTFIvnKI7SLUCyv8" rel="alternate" />
+    <id>https://www.bloomberg.com/news/newsletters/2026-09-27/meta-s-vr-glasses-are-exactly-what-the-apple-vision-pro-should-have-been-mujvy8q6?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDUxODQwNywiZXhwIjoxNzkxMTIzMjA3LCJhcnRpY2xlSWQiOiJUTTEwODFLSVVQUzYwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.51604_0p7AaiKq26lUSYAGTpczPCTFIvnKI7SLUCyv8::v239</id>
+    <published>2026-09-27T20:15:00+00:00</published>
+    <updated>2026-09-27T20:15:00+00:00</updated>
+    <media:thumbnail url="https://glassalmanac.com/wp-content/uploads/2025/10/91197-vision-pro-revamp-shelved-in-2025-apple-prioritizes-meta-style-smart-glasses.jpg.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/newsletters/2026-09-27/meta-s-vr-glasses-are-exactly-what-the-apple-vision-pro-should-have-been-mujvy8q6?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDUxODQwNywiZXhwIjoxNzkxMTIzMjA3LCJhcnRpY2xlSWQiOiJUTTEwODFLSVVQUzYwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.51604_0p7AaiKq26lUSYAGTpczPCTFIvnKI7SLUCyv8">bloomberg.com</a></small></p><hr/><p>Apple's Vision Pro development is reportedly facing uncertainty, with internal work on a revamped headset described as being on "life support." Sources suggest that Meta's direction with its VR glasses aligns more closely with the hardware trajectory that analysts believe the Vision Pro line should have pursued.</p><p>The company is currently evaluating its long-term spatial computing strategy, with reports indicating a shift in focus toward lighter, AI-integrated smart glasses. While an updated Vision Pro featuring a more powerful chip may still be released, the development of a lighter, more affordable version of the headset has reportedly been deprioritized.</p><p><img src="https://glassalmanac.com/wp-content/uploads/2025/10/91197-vision-pro-revamp-shelved-in-2025-apple-prioritizes-meta-style-smart-glasses.jpg.png" /></p><hr/><small>27 Sep 2026, 22:06 UTC | #22493</small>]]></content>
+  </entry>
   <entry>
     <title>postmarketOS Rebrands as Nura</title>
     <link href="https://nura.eco/blog/2026/09/27/nura-rename/" rel="alternate" />
