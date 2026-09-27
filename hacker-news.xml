@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T06:26:00+00:00</updated>
+  <updated>2026-09-27T06:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Deploying GNU Guix Images on Linode</title>
+    <link href="https://dthompson.us/posts/deploying-guix-images-on-linode.html" rel="alternate" />
+    <id>https://dthompson.us/posts/deploying-guix-images-on-linode.html::v239</id>
+    <published>2026-09-27T06:29:00+00:00</published>
+    <updated>2026-09-27T06:29:00+00:00</updated>
+    <media:thumbnail url="https://habrastorage.org/getpro/habr/upload_files/563/df6/63f/563df663fb869cc6c08460b73e608cc5.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dthompson.us/posts/deploying-guix-images-on-linode.html">dthompson.us</a> | <a href="https://lobste.rs/s/mf2lic/deploying_guix_images_on_linode">discussion</a></small></p><hr/><p>A custom method for deploying GNU Guix system images directly on Linode cloud instances avoids the standard practice of bootstrapping from a Debian image. This approach uses a bootable MBR-raw disk image configured to handle Linode-specific requirements, including virtual disk mounting, automatic filesystem resizing, and specific bootloader installation for the target environment.</p><p>The implementation requires specific Guile configuration and a shell script to create and compress the image for upload. To avoid kernel panics during the initial boot, Linode's boot settings must be manually adjusted to use GRUB 2 and to disable filesystem and boot helper switches.</p><p><img src="https://habrastorage.org/getpro/habr/upload_files/563/df6/63f/563df663fb869cc6c08460b73e608cc5.png" /></p><hr/><small>27 Sep 2026, 11:59 UTC | #22485</small>]]></content>
+  </entry>
   <entry>
     <title>Intel 8087 Tangent Algorithm Implementation Details</title>
     <link href="https://www.righto.com/2026/09/8087-tangent-cordic.html" rel="alternate" />
