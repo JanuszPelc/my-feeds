@@ -447,22 +447,4 @@
     <media:thumbnail url="https://seoprofy.com/wp-content/uploads/2026/01/3-grok-ai-usage-statistics.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-22/spacexai-s-grok-bot-agent-tops-400-000-users-after-first-month">bloomberg.com</a></small></p><hr/><p>SpaceXAI's Grok Bot AI agent reached 418,000 weekly users as of September 14, 2026, a 24% increase from the previous week. The milestone follows approximately one month of availability since the bot's mid-August launch.</p><p>The user growth data was disclosed during a presentation in London. The surge in active users follows the initial release and expansion of the AI agent.</p><p><img src="https://seoprofy.com/wp-content/uploads/2026/01/3-grok-ai-usage-statistics.jpg" /></p><hr/><small>22 Sep 2026, 23:34 UTC | #21981</small>]]></content>
   </entry>
-  <entry>
-    <title>AstroForge Developing AI Control Stack for Autonomous Spacecraft</title>
-    <link href="https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/::v239</id>
-    <published>2026-09-22T18:16:00+00:00</published>
-    <updated>2026-09-22T18:16:00+00:00</updated>
-    <media:thumbnail url="https://htek.dev/images/articles/7-layer-ai-governance-stack/hero-og.webp" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/">techcrunch.com</a> | <a href="https://www.astroforge.com/solo">source</a></small></p><hr/><p>AstroForge is developing "Solo," a transformer-based AI control stack designed to enable autonomous operation for its asteroid mining spacecraft. The system aims to allow vehicles to independently resolve technical anomalies and manage flight tasks, addressing communication latency and the high costs associated with maintaining global ground-based antenna networks.</p><p>The company intends to run Solo in "shadow mode" aboard its DeepSpace-2 vehicle in late 2026 to validate its performance before a full deployment. A dedicated mission, Autonomy-1, is scheduled for 2027 on a Stoke Space launch vehicle and is expected to support NASA-backed scientific observations.</p><p><img src="https://htek.dev/images/articles/7-layer-ai-governance-stack/hero-og.webp" /></p><hr/><small>22 Sep 2026, 20:28 UTC | #21973</small>]]></content>
-  </entry>
-  <entry>
-    <title>Intrinsic Open-Sources Intrinsic Core Robotics Infrastructure</title>
-    <link href="https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/" rel="alternate" />
-    <id>https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/::v239</id>
-    <published>2026-09-22T18:11:00+00:00</published>
-    <updated>2026-09-22T18:11:00+00:00</updated>
-    <media:thumbnail url="https://www.therobotreport.com/wp-content/uploads/2026/06/intrinsic-featured.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://siliconangle.com/2026/09/22/googles-robotics-unit-intrinsic-open-sources-its-foundational-infrastructure-for-intelligent-robots/">siliconangle.com</a> | <a href="https://www.intrinsic.ai/blog/posts/introducing-intrinsic-core">source</a></small></p><hr/><p>Alphabet’s robotics unit has released the core components of its industrial robotics platform, Intrinsic Core, under an Apache 2.0 license. Announced at ROSCon 2026, the software provides a ROS-compatible environment with modular capabilities for real-time control, pose estimation, motion planning, and grasp planning to support physical AI development.</p><p>The release aims to lower technical barriers by providing a reusable foundational software layer, allowing developers to avoid rebuilding control systems for each new machine. The company also introduced the Open Machine Tending Solution, a customizable reference design for automating CNC machine tending intended to help smaller fabricators adopt automation.</p><p><img src="https://www.therobotreport.com/wp-content/uploads/2026/06/intrinsic-featured.jpg" /></p><hr/><small>22 Sep 2026, 20:17 UTC | #21953</small>]]></content>
-  </entry>
 </feed>
