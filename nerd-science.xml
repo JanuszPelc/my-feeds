@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-27T14:45:00+00:00</updated>
+  <updated>2026-09-27T14:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>NeoVim's Persistent Undo and the Concept of Software Duty of Care</title>
+    <link href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/" rel="alternate" />
+    <id>https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/::v239</id>
+    <published>2026-09-27T14:50:00+00:00</published>
+    <updated>2026-09-27T14:50:00+00:00</updated>
+    <media:thumbnail url="https://echasnovski.com/blog/2024-08-01-remove-padding-around-neovim-instance/demo.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/">unsung.aresluna.org</a> | <a href="https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users">discussion</a> | <a href="https://news.ycombinator.com/item?id=49867067">hacker news</a></small></p><hr/><p>The article examines a critique by computer scientist David Chisnall regarding NeoVim's handling of persistent undo files. Chisnall argues that while Vim maintains undo history across versions, NeoVim’s decision to replace legacy undo files with a new format effectively deleted existing user data, representing a failure in a software developer's duty of care.</p><p>The discussion draws on Jef Raskin’s "Humane Interface" laws, specifically the principle that computers should not harm a user's work or allow it to come to harm through inaction. The essay reflects on how software design decisions regarding data preservation can significantly impact user trust and the long-term relationship between humans and technology.</p><p><img src="https://echasnovski.com/blog/2024-08-01-remove-padding-around-neovim-instance/demo.png" /></p><hr/><small>27 Sep 2026, 17:48 UTC | #22497</small>]]></content>
+  </entry>
   <entry>
     <title>Alan Kay Discusses Shannon's Noisy Channel Theorem</title>
     <link href="https://www.youtube.com/watch?v=Cjntrqhn8pk" rel="alternate" />

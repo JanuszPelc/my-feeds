@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T14:47:00+00:00</updated>
+  <updated>2026-09-27T14:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Expressing Reachability Properties in TLA+</title>
+    <link href="https://ahelwer.ca/post/2026-09-26-reachability/" rel="alternate" />
+    <id>https://ahelwer.ca/post/2026-09-26-reachability/::v239</id>
+    <published>2026-09-27T14:51:00+00:00</published>
+    <updated>2026-09-27T14:51:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/65d609edcc331dd0e4eb519b/69613a87a9788a2299decbe3_50b72e1e.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ahelwer.ca/post/2026-09-26-reachability/">ahelwer.ca</a> | <a href="https://lobste.rs/s/8pjbtj/can_we_have_reachability_properties_tla">discussion</a></small></p><hr/><p>Reachability properties, which determine if a state is accessible from any point in a system's execution, can be expressed within TLA⁺'s linear-time logic using machine-closed fairness assumptions. This technique allows branching-time logic concepts, like the possibility of an action, to be framed within TLA⁺'s existing semantics.</p><p>Implementing a backward reachability pass in the TLC model checker would allow for automated verification of these properties by traversing the state graph in reverse. This approach can be applied to verify distributed system properties, such as the eventual consistency of replicated data types.</p><p><img src="https://cdn.prod.website-files.com/65d609edcc331dd0e4eb519b/69613a87a9788a2299decbe3_50b72e1e.png" /></p><hr/><small>27 Sep 2026, 17:50 UTC | #22504</small>]]></content>
+  </entry>
   <entry>
     <title>LuaRocks.org Resolves Remote Code Execution Vulnerability</title>
     <link href="https://luarocks.org/security-incident-september-2026" rel="alternate" />
