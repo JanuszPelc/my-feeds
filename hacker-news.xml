@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T00:07:00+00:00</updated>
+  <updated>2026-09-27T01:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>systemd v262 Reworks NvPCR Anchoring Design</title>
+    <link href="https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/" rel="alternate" />
+    <id>https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/::v239</id>
+    <published>2026-09-27T01:33:00+00:00</published>
+    <updated>2026-09-27T01:33:00+00:00</updated>
+    <media:thumbnail url="https://ae01.alicdn.com/kf/Sfc3d4e599e47446baffc4f64d060a430i.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/">katexochen.aro.bz</a> | <a href="https://lobste.rs/s/ya3cl7/understanding_nvpcrs_systemd_v262">discussion</a></small></p><hr/><p>The systemd v262 release implements a reworked anchoring design for Non-Volatile Platform Configuration Registers (NvPCRs) to prevent measurement forgery after a runtime compromise. Previously, these registers were secured by a random secret stored on disk, which an attacker could potentially recover or replace by booting a different OS. The updated mechanism provides a more secure way to anchor these additional, PCR-like registers within the TPM's non-volatile memory.</p><p>NvPCRs provide additional measurement slots for events that are too unpredictable or "noisy" for standard hardware PCRs, such as user login events. By leveraging TPM NV indices with extendable attributes and policy-based authorization, systemd can maintain stable, attestable measurement logs. This prevents the instability of local secrets or remote attestation quotes that would otherwise break when legitimate system changes, such as kernel updates, alter standard PCR values.</p><p><img src="https://ae01.alicdn.com/kf/Sfc3d4e599e47446baffc4f64d060a430i.jpg" /></p><hr/><small>27 Sep 2026, 06:52 UTC | #22476</small>]]></content>
+  </entry>
   <entry>
     <title>Applying 'Parse, don't validate' in Rust</title>
     <link href="https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/" rel="alternate" />
