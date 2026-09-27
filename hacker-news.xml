@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T14:43:00+00:00</updated>
+  <updated>2026-09-27T14:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>LuaRocks.org Resolves Remote Code Execution Vulnerability</title>
+    <link href="https://luarocks.org/security-incident-september-2026" rel="alternate" />
+    <id>https://luarocks.org/security-incident-september-2026::v239</id>
+    <published>2026-09-27T14:47:00+00:00</published>
+    <updated>2026-09-27T14:47:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:840/1*c-kj4sOzwc-ipDgGWISDYQ.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://luarocks.org/security-incident-september-2026">luarocks.org</a> | <a href="https://lobste.rs/s/apoyxs/luarocks_security_incident_september">discussion</a></small></p><hr/><p>Attackers exploited a remote code execution vulnerability in LuaRocks.org between July 9 and August 20, 2026, by uploading malicious LuaJIT bytecode within rockspecs. The vulnerability allowed arbitrary code execution on the server and has since been patched, with the site moved to a new, secured environment.</p><p>The breach resulted in the exposure of user email addresses, bcrypt password hashes, API keys, and two-factor authentication secrets. While LuaRocks found no evidence that existing packages were modified, users are advised to reset passwords, regenerate API keys, and re-configure 2FA. Anyone who installed the packages `bcrcewon`, `7e0b94029db0`, or `7e0b9402f9c8` should consider their systems compromised.</p><p><img src="https://miro.medium.com/v2/resize:fit:840/1*c-kj4sOzwc-ipDgGWISDYQ.png" /></p><hr/><small>27 Sep 2026, 17:00 UTC | #22496</small>]]></content>
+  </entry>
   <entry>
     <title>Ten Code Snippets That Influenced the Author's Perspective on Programming</title>
     <link href="https://pixelambacht.nl/2026/ten-lines-of-code/" rel="alternate" />
