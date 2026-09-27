@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-27T01:38:00+00:00</updated>
+  <updated>2026-09-27T06:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Unsealed Briefs in Authors' Lawsuit Against OpenAI Allege Knowledge of Copyright Infringement</title>
+    <link href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/" rel="alternate" />
+    <id>https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/::v239</id>
+    <published>2026-09-27T06:20:00+00:00</published>
+    <updated>2026-09-27T06:20:00+00:00</updated>
+    <media:thumbnail url="https://theenterpriseworld.com/wp-content/uploads/2025/12/TEW-Disney-Commits-1-Billion-to-OpenAI-in-Landmark-Deal-to-Bring-Iconic-Characters-to-Generative-AI-Source-piracymonitor.org_.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/">authorsguild.org</a> | <a href="https://news.ycombinator.com/item?id=49863864">hacker news</a></small></p><hr/><p>Legal filings in the ongoing litigation against OpenAI and Microsoft claim that executives were aware their AI models were trained on copyrighted books obtained from pirated sources. The documents suggest that officials knew of the use of the website LibGen as early as 2019 and that internal communications viewed the displacement of human writers as "acceptable economic disruption."</p><p>The briefs describe "Project Clear," an alleged initiative by OpenAI to delete LibGen files to avoid public scrutiny of their training sets. The lawsuit, which includes high-profile authors like John Grisham, argues that these practices constitute mass piracy that poses an existential threat to human authorship.</p><p><img src="https://theenterpriseworld.com/wp-content/uploads/2025/12/TEW-Disney-Commits-1-Billion-to-OpenAI-in-Landmark-Deal-to-Bring-Iconic-Characters-to-Generative-AI-Source-piracymonitor.org_.jpg" /></p><hr/><small>27 Sep 2026, 10:26 UTC | #22480</small>]]></content>
+  </entry>
   <entry>
     <title>Critique of the 'AI is Just a Tool' Rhetoric</title>
     <link href="https://brettcodes.com/ai-is-not-just-a-tool/" rel="alternate" />
