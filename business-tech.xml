@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-27T01:31:00+00:00</updated>
+  <updated>2026-09-27T01:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Critique of the 'AI is Just a Tool' Rhetoric</title>
+    <link href="https://brettcodes.com/ai-is-not-just-a-tool/" rel="alternate" />
+    <id>https://brettcodes.com/ai-is-not-just-a-tool/::v239</id>
+    <published>2026-09-27T01:38:00+00:00</published>
+    <updated>2026-09-27T01:38:00+00:00</updated>
+    <media:thumbnail url="https://javcamposz.github.io/assets/img/llm_prompt.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://brettcodes.com/ai-is-not-just-a-tool/">brettcodes.com</a> | <a href="https://lobste.rs/s/1ub0m3/ai_is_not_just_tool">discussion</a></small></p><hr/><p>Characterizing Large Language Models (LLMs) as "just a tool" is a misleading simplification that trivializes technological complexity. This rhetoric minimizes the environmental and economic costs of the AI industry and shields companies from responsibility for the risks inherent in their probabilistic products.</p><p>Unlike deterministic tools like power drills or text editors, AI is an industry tied to massive data center expansion and complex commercial ecosystems. This framing prevents meaningful debate regarding the potential societal harms and the true nature of the AI-driven economy.</p><p><img src="https://javcamposz.github.io/assets/img/llm_prompt.png" /></p><hr/><small>27 Sep 2026, 08:45 UTC | #22479</small>]]></content>
+  </entry>
   <entry>
     <title>Google Tests Direct Flipkart Purchases via Gemini in India</title>
     <link href="https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/" rel="alternate" />
