@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T06:23:00+00:00</updated>
+  <updated>2026-09-27T06:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Intel 8087 Tangent Algorithm Implementation Details</title>
+    <link href="https://www.righto.com/2026/09/8087-tangent-cordic.html" rel="alternate" />
+    <id>https://www.righto.com/2026/09/8087-tangent-cordic.html::v239</id>
+    <published>2026-09-27T06:26:00+00:00</published>
+    <updated>2026-09-27T06:26:00+00:00</updated>
+    <media:thumbnail url="https://www.allaboutcircuits.com/uploads/articles/Fig3m5222017.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.righto.com/2026/09/8087-tangent-cordic.html">righto.com</a> | <a href="https://lobste.rs/s/5soxba/reverse_engineering_vintage_intel_8087_s">discussion</a> | <a href="https://news.ycombinator.com/item?id=49858676">hacker news</a></small></p><hr/><p>The 8087 floating-point coprocessor uses a hybrid algorithm to compute the tangent function (FPTAN) with high speed and 64-bit accuracy. The approach combines the CORDIC algorithm for initial angle reduction with a Padé approximant—a rational polynomial—to compute the remaining small angle.</p><p>Through microscopic analysis of the chip's circuitry and microcode ROM, the process was identified as a three-stage sequence: pseudo-division to generate CORDIC decision bits, calculating a rational approximation, and pseudo-multiplication to perform rotations. This specific implementation avoids slow division operations, enabling significantly faster computation than the 8086 microprocessor.</p><p><img src="https://www.allaboutcircuits.com/uploads/articles/Fig3m5222017.png" /></p><hr/><small>27 Sep 2026, 11:41 UTC | #22484</small>]]></content>
+  </entry>
   <entry>
     <title>Custom SVG Tree Layout for Wide Hierarchies</title>
     <link href="https://lonami.dev/blog/tree-node-positioning/" rel="alternate" />
