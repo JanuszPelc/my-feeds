@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-27T20:13:00+00:00</updated>
+  <updated>2026-09-27T20:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Saturday Night Live Parodies Anthropic CEO Dario Amodei</title>
+    <link href="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/::v239</id>
+    <published>2026-09-27T20:14:00+00:00</published>
+    <updated>2026-09-27T20:14:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?w=1024" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/">techcrunch.com</a> | <a href="https://www.youtube.com/watch?v=-Nvne3LzBls">source</a> | <a href="https://news.ycombinator.com/item?id=49592375">hacker news</a></small></p><hr/><p>Weekend Update featured a sketch of the Anthropic CEO, satirizing recent industry warnings about the existential risks of artificial intelligence.</p><p>Cast member Jane Wickline portrayed Amodei as a bumbling figure with split personalities, including a darker, more ominous side. The segment addressed themes of AI safety, the rapid pace of development, and the potential for the technology to be used as a weapon.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?w=1024" /></p><hr/><small>27 Sep 2026, 21:32 UTC | #22501</small>]]></content>
+  </entry>
   <entry>
     <title>Google's AI Overviews Shift Toward Conversational Responses</title>
     <link href="https://sancho.bearblog.dev/google-weird/" rel="alternate" />
