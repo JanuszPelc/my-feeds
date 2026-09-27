@@ -483,13 +483,4 @@
     <media:thumbnail url="https://www.cascadepbs.org/content/images/size/w2000/format/webp/2025/11/c09f5549-bdb6-405b-9af2-c5bcf31d32ec.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.cryptocellar.org/bgac/the-mvueh-break.html">cryptocellar.org</a> | <a href="https://news.ycombinator.com/item?id=49801324">hacker news</a></small></p><hr/><p>GPT-6 Astra has independently decrypted the German Army Enigma message MVUEH, an 82-letter ciphertext from July 10, 1941, that had remained unsolved since 2005. The model achieved the break by developing custom Enigma simulator and Bombe software in Python and C++ and identifying the repeated place name "ROSENOW" as a crib.</p><p>The decryption revealed that transcription errors and an infrequent left-hand wheel turnover had previously prevented a solution. The task was completed in two days, during which the AI demonstrated advanced research capabilities by identifying and referencing specific radio-message volumes in the German Bundesarchiv.</p><p><img src="https://www.cascadepbs.org/content/images/size/w2000/format/webp/2025/11/c09f5549-bdb6-405b-9af2-c5bcf31d32ec.jpg" /></p><hr/><small>22 Sep 2026, 16:45 UTC | #21983</small>]]></content>
   </entry>
-  <entry>
-    <title>Tencent Launches Hy Image 3.5 Preview</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-22/tencent-releases-ai-image-model-to-catch-bytedance-alibaba" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-22/tencent-releases-ai-image-model-to-catch-bytedance-alibaba::v239</id>
-    <published>2026-09-22T07:31:00+00:00</published>
-    <updated>2026-09-22T07:31:00+00:00</updated>
-    <media:thumbnail url="https://cms-image.pandaily.com/1/article1_69f026a363.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-22/tencent-releases-ai-image-model-to-catch-bytedance-alibaba">bloomberg.com</a></small></p><hr/><p>Tencent has released its Hy Image 3.5 Preview model, an image-generation tool aimed at competing with ByteDance’s Seedream 5.0 Pro and Alibaba. Internal testing indicates the model's performance is on par with ByteDance's Seedream 5.0 Pro.</p><p>The model supports text-to-image and image-to-image generation, allows for up to 20 reference images, and supports 4K resolution output. It is being integrated across Tencent products, including the Yuanbao chatbot and various design and film-editing tools.</p><p><img src="https://cms-image.pandaily.com/1/article1_69f026a363.png" /></p><hr/><small>22 Sep 2026, 11:44 UTC | #21914</small>]]></content>
-  </entry>
 </feed>
