@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-26T17:51:00+00:00</updated>
+  <updated>2026-09-26T17:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Implementation of Tagged Template Literal Pun in Helicone SDK</title>
+    <link href="https://shukla.io/blog/2026-09/pun.html" rel="alternate" />
+    <id>https://shukla.io/blog/2026-09/pun.html::v239</id>
+    <published>2026-09-26T17:55:00+00:00</published>
+    <updated>2026-09-26T17:55:00+00:00</updated>
+    <media:thumbnail url="https://ai-sdk.dev/og/docs?title=Helicone&amp;description=Helicone+Provider+for+the+AI+SDK" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://shukla.io/blog/2026-09/pun.html">shukla.io</a> | <a href="https://github.com/Helicone/helicone">source</a> | <a href="https://lobste.rs/s/rtcnc8/javascript_pun_tagged_template_literal">discussion</a></small></p><hr/><p>The article explains a programming "pun" implemented in the Helicone SDK using JavaScript's tagged template literals. By combining ${...} interpolation with JavaScript's object shorthand, the prompt tag function enables a {{ key }} syntax that the SDK parses for observability while remaining valid JavaScript code.</p><p>This feature was developed through a collaboration between Nishant Shukla and the Helicone team to improve prompt management. It demonstrates how a language's grammar can be leveraged to create domain-specific syntax within a general-purpose programming language.</p><p><img src="https://ai-sdk.dev/og/docs?title=Helicone&description=Helicone+Provider+for+the+AI+SDK" /></p><hr/><small>27 Sep 2026, 01:24 UTC | #22463</small>]]></content>
+  </entry>
+  <entry>
+    <title>Reladraw: A Text-Based Diagramming Language with Relative Positioning</title>
+    <link href="https://github.com/reladraw/reladraw" rel="alternate" />
+    <id>https://github.com/reladraw/reladraw::v239</id>
+    <published>2026-09-26T17:54:00+00:00</published>
+    <updated>2026-09-26T17:54:00+00:00</updated>
+    <media:thumbnail url="https://uploads-ssl.webflow.com/6308b9e1771b56be92fe7491/641873c631076ea3b4f46f1f_uml-class-diagram.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/reladraw/reladraw">github.com</a> | <a href="https://news.ycombinator.com/item?id=49858513">hacker news</a></small></p><hr/><p>Reladraw is a text-based diagramming language that defines layouts through relative positioning statements—such as "above-left of"—rather than using absolute coordinates or automatic layout algorithms. The engine resolves these statements by calculating the tightest arrangement of elements based on specified minimum distances, ensuring a deterministic and predictable rendering.</p><p>Optimized for AI agents, the language allows models to modify diagrams by editing text-based instructions rather than managing pixel coordinates or interpreting emergent auto-layouts. Currently in version 0.5.0, the project includes a TypeScript-based parser, resolver, and SVG renderer, with an agent skill available for integration into various coding environments.</p><p><img src="https://uploads-ssl.webflow.com/6308b9e1771b56be92fe7491/641873c631076ea3b4f46f1f_uml-class-diagram.png" /></p><hr/><small>27 Sep 2026, 01:19 UTC | #22462</small>]]></content>
+  </entry>
   <entry>
     <title>Bitget Reports $387 Million Security Breach Linked to North Korean Hackers</title>
     <link href="https://fortune.com/2026/09/25/north-korea-bitget-387-million-crypto-attack/" rel="alternate" />
