@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T00:05:00+00:00</updated>
+  <updated>2026-09-27T00:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Applying 'Parse, don't validate' in Rust</title>
+    <link href="https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/" rel="alternate" />
+    <id>https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/::v239</id>
+    <published>2026-09-27T00:07:00+00:00</published>
+    <updated>2026-09-27T00:07:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:807/1*89_K8m4a_L8Nq8lroN4XPw.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/">eli.thegreenplace.net</a> | <a href="https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate">discussion</a></small></p><hr/><p>By leveraging the type system to transform data into more restrictive types, the "Parse, don't validate" idiom in Rust ensures that invariants are encoded directly into data structures. This approach eliminates the need for repeated runtime checks by proving data validity through the type itself.</p><p>Examples of this pattern include the use of `NonEmpty` collections to manage non-empty requirements, type refinement in `rust-analyzer` for absolute paths, and memory-optimized `NonZero` types. Additionally, the `serde` crate utilizes this principle during JSON deserialization to enforce data integrity.</p><p><img src="https://miro.medium.com/v2/resize:fit:807/1*89_K8m4a_L8Nq8lroN4XPw.png" /></p><hr/><small>27 Sep 2026, 03:26 UTC | #22466</small>]]></content>
+  </entry>
   <entry>
     <title>Minimalist Web Development Advocates Use of Native HTML and CSS</title>
     <link href="https://modernmotherfuckingwebsite.dreamstation.systems/" rel="alternate" />
@@ -885,23 +894,5 @@
     <updated>2026-09-22T05:24:00+00:00</updated>
     <media:thumbnail url="https://cms.paralleldevs.com/sites/default/files/2024-01/release-tag.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/">lwn.net</a> | <a href="https://lobste.rs/s/liey8q/looking_forward_git_2_56_3_0">discussion</a> | <a href="https://news.ycombinator.com/item?id=49794736">hacker news</a></small></p><hr/><p>Git 2.56 is expected to arrive around late September 2026, introducing features such as an experimental `git history drop` subcommand, new subcommands for `git refs`, and improved `git status` and `git branch` behavior. While 2.56 provides usability improvements and bug fixes, it also serves as a precursor to a much more significant planned release: Git 3.0.</p><p>The transition to Git 3.0 is anticipated to include several major, non-backward-compatible changes. These include a default shift from the SHA-1 to the SHA-256 hash function for object identification, the adoption of the "reftable" mechanism for more efficient reference storage, a move to strictly lowercase object IDs, and a requirement for a Rust compiler to build the project.</p><p><img src="https://cms.paralleldevs.com/sites/default/files/2024-01/release-tag.png" /></p><hr/><small>22 Sep 2026, 10:51 UTC | #21934</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ju! Ju! Tsu! Tutorial for Jujutsu Version Control System</title>
-    <link href="https://arialdo.codeberg.page/ju-ju-tsu/" rel="alternate" />
-    <id>https://arialdo.codeberg.page/ju-ju-tsu/::v239</id>
-    <published>2026-09-22T03:28:00+00:00</published>
-    <updated>2026-09-22T03:28:00+00:00</updated>
-    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/1009726553/original/27229e8968/1?v=1" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arialdo.codeberg.page/ju-ju-tsu/">arialdo.codeberg.page</a> | <a href="https://lobste.rs/s/d4wq0w/ju_ju_tsu">discussion</a></small></p><hr/><p>"Ju! Ju! Tsu!" is a tutorial for the Jujutsu (jj) Git-compatible version control system. It aims to provide a lean, practical, and incremental learning path that allows users to begin using the tool immediately.</p><p>The author, Arialdo, emphasizes that the book is human-authored and not AI-generated. The guide is available in HTML and PDF formats and focuses on command-driven learning and terminal output.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/1009726553/original/27229e8968/1?v=1" /></p><hr/><small>22 Sep 2026, 10:44 UTC | #21933</small>]]></content>
-  </entry>
-  <entry>
-    <title>Alibaba's T-Head Unveils Zhenwu V900 AI Accelerator</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032::v239</id>
-    <published>2026-09-22T03:26:00+00:00</published>
-    <updated>2026-09-22T03:26:00+00:00</updated>
-    <media:thumbnail url="https://chinabizinsider.com/content/images/size/w1200/2026/05/20260520130315.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-22/alibaba-unveils-ai-chip-to-drive-20gw-of-data-centers-by-2032">bloomberg.com</a> | <a href="https://www.alibabacloud.com/blog/alibaba-unveils-new-ai-chip-flagship-model-and-rebuilt-cloud-stack-ai-for-agentic-era_603151">source</a></small></p><hr/><p>Alibaba's T-Head has released the Zhenwu V900, an AI accelerator designed to compete with Nvidia. The chip reportedly delivers triple the performance of its predecessor and is capable of scaling to clusters of up to 500,000 units.</p><p>This launch is part of a larger infrastructure push to reach 20GW of data center capacity by 2032. The new hardware is intended to bolster Alibaba's cloud services and support large-scale AI modeling and workloads.</p><p><img src="https://chinabizinsider.com/content/images/size/w1200/2026/05/20260520130315.png" /></p><hr/><small>22 Sep 2026, 10:28 UTC | #21911</small>]]></content>
   </entry>
 </feed>
