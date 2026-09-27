@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T01:34:00+00:00</updated>
+  <updated>2026-09-27T06:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Custom SVG Tree Layout for Wide Hierarchies</title>
+    <link href="https://lonami.dev/blog/tree-node-positioning/" rel="alternate" />
+    <id>https://lonami.dev/blog/tree-node-positioning/::v239</id>
+    <published>2026-09-27T06:23:00+00:00</published>
+    <updated>2026-09-27T06:23:00+00:00</updated>
+    <media:thumbnail url="https://www.syncfusion.com/blogs/wp-content/uploads/2023/08/Creating-a-hierarichical-tree-with-multiple-parents-using-Angular-Diagram-library.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lonami.dev/blog/tree-node-positioning/">lonami.dev</a> | <a href="https://lobste.rs/s/9ry4yi/reinventing_wheel_draw_wide_tree">discussion</a></small></p><hr/><p>A custom SVG-based tree layout algorithm addresses the excessive horizontal growth common in standard D3.js hierarchy visualizations. The implementation uses a recursive layout engine to organize nodes into columns, rows, and a specialized "stair" type, optimizing the use of limited screen space for large datasets.</p><p>The technical approach includes using English letter frequencies for data generation and employing SVG paths for "step" connections. The algorithm implements occlusion-avoidance logic for links and a "stair" mode that staggers leaf nodes to further reduce diagram width.</p><p><img src="https://www.syncfusion.com/blogs/wp-content/uploads/2023/08/Creating-a-hierarichical-tree-with-multiple-parents-using-Angular-Diagram-library.png" /></p><hr/><small>27 Sep 2026, 11:24 UTC | #22483</small>]]></content>
+  </entry>
   <entry>
     <title>Google Threat Intelligence Group Finds AI Model Access for Sale on Dark Web</title>
     <link href="https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32" rel="alternate" />
