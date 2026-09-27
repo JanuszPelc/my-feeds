@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T06:29:00+00:00</updated>
+  <updated>2026-09-27T06:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Floci Provides Local Emulation for AWS, Azure, GCP, and OCI</title>
+    <link href="https://floci.io" rel="alternate" />
+    <id>https://floci.io::v239</id>
+    <published>2026-09-27T06:34:00+00:00</published>
+    <updated>2026-09-27T06:34:00+00:00</updated>
+    <media:thumbnail url="https://teamcopilot.ai/blog/cloud-ai-agents-vs-local-ai-agents-which-is-better-for-privacy-cost-and-latency-cover.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://floci.io">floci.io</a> | <a href="https://news.ycombinator.com/item?id=49854416">hacker news</a></small></p><hr/><p>Floci provides standalone, MIT-licensed binaries that emulate services from AWS, Azure, GCP, and OCI locally. These emulators allow developers to run infrastructure components, such as S3, Lambda, and DynamoDB, without requiring authentication tokens or cloud accounts.</p><p>The toolset is designed for AI-assisted development, providing a secure, credential-free sandbox where coding agents can verify code against real engines rather than mocks. Floci includes a unified CLI and a visual dashboard to manage and inspect resources across all four supported cloud providers.</p><p><img src="https://teamcopilot.ai/blog/cloud-ai-agents-vs-local-ai-agents-which-is-better-for-privacy-cost-and-latency-cover.png" /></p><hr/><small>27 Sep 2026, 13:01 UTC | #22487</small>]]></content>
+  </entry>
   <entry>
     <title>Deploying GNU Guix Images on Linode</title>
     <link href="https://dthompson.us/posts/deploying-guix-images-on-linode.html" rel="alternate" />
