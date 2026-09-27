@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-26T16:40:00+00:00</updated>
+  <updated>2026-09-26T17:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Bitget Reports $387 Million Security Breach Linked to North Korean Hackers</title>
+    <link href="https://fortune.com/2026/09/25/north-korea-bitget-387-million-crypto-attack/" rel="alternate" />
+    <id>https://fortune.com/2026/09/25/north-korea-bitget-387-million-crypto-attack/::v239</id>
+    <published>2026-09-26T17:51:00+00:00</published>
+    <updated>2026-09-26T17:51:00+00:00</updated>
+    <media:thumbnail url="https://www.livebitcoinnews.com/wp-content/uploads/2025/10/North-Korean-Hackers-Use-New-EtherHiding-for-Crypto-Hacks.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://fortune.com/2026/09/25/north-korea-bitget-387-million-crypto-attack/">fortune.com</a></small></p><hr/><p>A security breach at Bitget has resulted in the loss of more than $387 million, marking the largest cryptocurrency hack of the year to date. CEO Gracy Chen stated the exchange suspects North Korean attackers exploited a backend system to trick internal approval mechanisms into authorizing fraudulent withdrawals. The breach targeted the exchange's hot and warm wallets, while its self-custodial Bitget Wallet remained unaffected.</p><p>Bitget has paused withdrawals and partnered with Mandiant and SlowMist to investigate the incident. The exchange is offering a recovery-bounty program of up to 5% for successfully recovered funds and confirmed its user protection fund, valued at $464 million, is sufficient to cover the estimated losses. This attack follows a significant surge in crypto theft attributed to North Korean groups, which reportedly stole $2 billion in 2025.</p><p><img src="https://www.livebitcoinnews.com/wp-content/uploads/2025/10/North-Korean-Hackers-Use-New-EtherHiding-for-Crypto-Hacks.png" /></p><hr/><small>27 Sep 2026, 00:55 UTC | #22445</small>]]></content>
+  </entry>
   <entry>
     <title>Fedora Community Debates Replacing LibreOffice with Collabora Office</title>
     <link href="https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office" rel="alternate" />
