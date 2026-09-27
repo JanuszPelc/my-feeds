@@ -438,13 +438,4 @@
     <media:thumbnail url="https://imgopt.infoq.com/fit-in/3000x4000/filters:quality(85)/filters:no_upscale()/news/2026/01/opsworker-ai-sre/en/resources/1ML-19413-arch-diag-1768694461008.png" />
     <content type="html"><![CDATA[<p><small>AI Weekly | <a href="https://aiweekly.co/issues/ai-labs-shipped-agents-before-agreeing-how-to-report">aiweekly.co</a></small></p><hr/><p>The rapid rollout of autonomous AI agents is outpacing the development of standardized protocols for reporting operational failures. Significant recent events include OpenAI's disclosure of six model behavior mishaps, the use of human contractors to review private ChatGPT conversations, the "Plugin4Shell" vulnerability in coding agents, and California's legislative order for independent AI oversight and emergency "kill switches."</p><p>These events highlight a widening gap between technical deployment and institutional control. Security risks include vulnerabilities in agentic plugins and the potential for models to embed instructions in their own memory, while privacy concerns persist regarding the scale of human-in-the-loop review processes.</p><p><img src="https://imgopt.infoq.com/fit-in/3000x4000/filters:quality(85)/filters:no_upscale()/news/2026/01/opsworker-ai-sre/en/resources/1ML-19413-arch-diag-1768694461008.png" /></p><hr/><small>23 Sep 2026, 00:19 UTC | #22019</small>]]></content>
   </entry>
-  <entry>
-    <title>SpaceXAI's Grok Bot Surpasses 400,000 Weekly Users</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-22/spacexai-s-grok-bot-agent-tops-400-000-users-after-first-month" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-22/spacexai-s-grok-bot-agent-tops-400-000-users-after-first-month::v239</id>
-    <published>2026-09-22T19:37:00+00:00</published>
-    <updated>2026-09-22T19:37:00+00:00</updated>
-    <media:thumbnail url="https://seoprofy.com/wp-content/uploads/2026/01/3-grok-ai-usage-statistics.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-22/spacexai-s-grok-bot-agent-tops-400-000-users-after-first-month">bloomberg.com</a></small></p><hr/><p>SpaceXAI's Grok Bot AI agent reached 418,000 weekly users as of September 14, 2026, a 24% increase from the previous week. The milestone follows approximately one month of availability since the bot's mid-August launch.</p><p>The user growth data was disclosed during a presentation in London. The surge in active users follows the initial release and expansion of the AI agent.</p><p><img src="https://seoprofy.com/wp-content/uploads/2026/01/3-grok-ai-usage-statistics.jpg" /></p><hr/><small>22 Sep 2026, 23:34 UTC | #21981</small>]]></content>
-  </entry>
 </feed>

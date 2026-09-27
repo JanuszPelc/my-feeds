@@ -896,22 +896,4 @@
     <media:thumbnail url="https://www.notebookcheck.pl/fileadmin/Notebooks/News/_nc5/Snadpragon-8-Elite-Gen-6-early-kv.jpg" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/">techcrunch.com</a> | <a href="https://www.qualcomm.com/news/releases/2026/09/snapdragon-leads-the-agentic-ai-age-with-two-of-the-world-s-fast">source</a></small></p><hr/><p>The company introduced the Snapdragon 8 Elite Gen 6 and Snapdragon 8 Elite Extreme Gen 6 processors at its annual Snapdragon Summit, emphasizing on-device AI functionality. These chips include a sensing hub for running 200-million-parameter models locally, and the high-end Extreme version can run a 30-billion-parameter mixture-of-experts (MoE) model.</p><p>The hardware supports advanced camera features such as 8K 60fps video and the Advanced Professional Video (APV) codec, alongside AI-driven audio tools like "voice bubble" noise isolation. Motorola announced the Motorola Signature 27 smartphone, which will be powered by the Extreme Gen 6 chipset and is slated for release later this year.</p><p><img src="https://www.notebookcheck.pl/fileadmin/Notebooks/News/_nc5/Snadpragon-8-Elite-Gen-6-early-kv.jpg" /></p><hr/><small>23 Sep 2026, 01:05 UTC | #22009</small>]]></content>
   </entry>
-  <entry>
-    <title>Apple Develops Screenless Health and Fitness Tracker</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-22/apple-is-developing-new-fitness-tracker-aimed-at-rivaling-whoop" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-22/apple-is-developing-new-fitness-tracker-aimed-at-rivaling-whoop::v239</id>
-    <published>2026-09-22T19:41:00+00:00</published>
-    <updated>2026-09-22T19:41:00+00:00</updated>
-    <media:thumbnail url="https://cdn.shopify.com/s/files/1/0869/7154/7913/files/WHOOP_16.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-22/apple-is-developing-new-fitness-tracker-aimed-at-rivaling-whoop">bloomberg.com</a></small></p><hr/><p>Prototypes are currently in development for a screenless wearable designed to compete with Whoop Inc.’s wrist-worn devices. This initiative is part of a larger effort to expand the company's wearable technology and rethink its smartwatch lineup.</p><p>Top executives support the initiative, but a final decision regarding a commercial release has not been made. The development follows growing market interest in screen-free, data-focused fitness bands.</p><p><img src="https://cdn.shopify.com/s/files/1/0869/7154/7913/files/WHOOP_16.jpg" /></p><hr/><small>22 Sep 2026, 23:59 UTC | #21986</small>]]></content>
-  </entry>
-  <entry>
-    <title>Raspberry Pi Firmware Restricts Pi 5 RAM Upgrades</title>
-    <link href="https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/" rel="alternate" />
-    <id>https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/::v239</id>
-    <published>2026-09-22T19:33:00+00:00</published>
-    <updated>2026-09-22T19:33:00+00:00</updated>
-    <media:thumbnail url="https://thepihut.com/cdn/shop/articles/How_to_update_the_Firmware_on_your_Raspberry_Pi_5_e50dc6ee-67fe-4cef-8736-4b76ae4f5017.jpg?v=1745508056&amp;width=1000" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/">jeffgeerling.com</a> | <a href="https://lobste.rs/s/5ybneq/raspberry_pi_locks_down_pi_5_ram_upgrades">discussion</a></small></p><hr/><p>Raspberry Pi has implemented firmware updates for the Raspberry Pi 5 that prevent users from swapping or upgrading RAM chips. This restriction aims to stop resellers from installing uncertified or unreliable memory components into low-capacity boards to sell them as higher-capacity models.</p><p>While the move addresses technical risks like improper memory timings and overheating caused by non-standard components, it significantly limits hardware repairability and the ability to perform manual upgrades. Users can bypass these restrictions by running older firmware versions released prior to late 2024, though this may limit access to other recent updates.</p><p><img src="https://thepihut.com/cdn/shop/articles/How_to_update_the_Firmware_on_your_Raspberry_Pi_5_e50dc6ee-67fe-4cef-8736-4b76ae4f5017.jpg?v=1745508056&width=1000" /></p><hr/><small>22 Sep 2026, 22:59 UTC | #22022</small>]]></content>
-  </entry>
 </feed>

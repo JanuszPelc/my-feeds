@@ -600,22 +600,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/time-terrarium-four-seasons.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/23dsp-releases-time-terrarium-68686?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68686">kvraudio.com</a> | <a href="https://23dsp.com/products/time-terrarium/">source</a></small></p><hr/><p>23DSP has released Time Terrarium, a delay plug-in for Windows, macOS, and Linux in VST3, AU, and LV2 formats. The plugin uses a visual interface where four corner "habitats" contain different echo types—including tape, shimmer, reverse, and granular delays—and a central orb routes the incoming signal between them.</p><p>Priced at €19, the software features signal migration between habitats, orbital movement patterns, a "Seal" function for recirculating echoes without new input, and a built-in reverb called Bloom. The current version, 0.9.0-rc1, is a release candidate compatible with Intel and Apple Silicon.</p><p><img src="https://static.kvraudio.com/i/b/time-terrarium-four-seasons.jpg" /></p><hr/><small>23 Sep 2026, 00:16 UTC | #22017</small>]]></content>
   </entry>
-  <entry>
-    <title>Kuassa Updates Amplifikation 360 to v1.4.0</title>
-    <link href="https://www.kvraudio.com/news/kuassa-updates-amplifikation-360-to-v1-4-0---nam-a2-support-and-spring-reverb-fix-68687?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68687" rel="alternate" />
-    <id>https://www.kvraudio.com/news/kuassa-updates-amplifikation-360-to-v1-4-0---nam-a2-support-and-spring-reverb-fix-68687?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68687::v239</id>
-    <published>2026-09-22T19:38:00+00:00</published>
-    <updated>2026-09-22T19:38:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/amplifikation-360-1-4-0-feed-square-update-banner-01.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/kuassa-updates-amplifikation-360-to-v1-4-0---nam-a2-support-and-spring-reverb-fix-68687?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68687">kvraudio.com</a> | <a href="https://www.kuassa.com/amplifikation-360-v1-4-0-is-here-nam-a2-more/">source</a></small></p><hr/><p>Kuassa has released version 1.4.0 of Amplifikation 360, which adds support for the Neural Amp Modeler (NAM) A2 format and fixes an issue with the Spring Reverb module.</p><p>The update also raises the minimum supported macOS version to 10.15 or later.</p><p><img src="https://static.kvraudio.com/i/b/amplifikation-360-1-4-0-feed-square-update-banner-01.jpg" /></p><hr/><small>22 Sep 2026, 23:36 UTC | #22014</small>]]></content>
-  </entry>
-  <entry>
-    <title>RiverFlux Audio Releases BITLAYER Multiband Bitcrusher</title>
-    <link href="https://bedroomproducersblog.com/2026/09/22/riverflux-audio-bitlayer/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/22/riverflux-audio-bitlayer/::v239</id>
-    <published>2026-09-22T19:36:00+00:00</published>
-    <updated>2026-09-22T19:36:00+00:00</updated>
-    <media:thumbnail url="https://getplugins.io/wp-content/uploads/2025/07/Flux-Audio-–-Evo-Series-Windows1.png" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/22/riverflux-audio-bitlayer/">bedroomproducersblog.com</a> | <a href="https://riverfluxaudio.gumroad.com/l/BITLAYER">source</a> | <a href="https://bedroomproducersblog.com/2026/09/22/riverflux-audio-bitlayer/#comments">discussion</a></small></p><hr/><p>RiverFlux Audio has released BITLAYER, a free multiband bitcrusher available for macOS, Windows, and Linux. The plugin features eight independent layers that allow users to apply digital degradation—including bit-depth reduction, sample-rate reduction, and jitter—to specific frequency ranges within a single signal.</p><p>Each layer provides individual control over effect order, mid/side routing, and gain. The plugin includes dedicated tonal and transient modes, enabling users to process sustained sounds and sharp attacks differently to achieve precise, frequency-aware digital destruction.</p><p><img src="https://getplugins.io/wp-content/uploads/2025/07/Flux-Audio-–-Evo-Series-Windows1.png" /></p><hr/><small>22 Sep 2026, 23:21 UTC | #22006</small>]]></content>
-  </entry>
 </feed>
