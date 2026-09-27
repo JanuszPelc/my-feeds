@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T15:30:00+00:00</updated>
+  <updated>2026-09-27T17:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>postmarketOS Rebrands as Nura</title>
+    <link href="https://nura.eco/blog/2026/09/27/nura-rename/" rel="alternate" />
+    <id>https://nura.eco/blog/2026/09/27/nura-rename/::v239</id>
+    <published>2026-09-27T17:35:00+00:00</published>
+    <updated>2026-09-27T17:35:00+00:00</updated>
+    <media:thumbnail url="https://nura.eco/static/img/2026-09/stickers.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nura.eco/blog/2026/09/27/nura-rename/">nura.eco</a> | <a href="https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura">discussion</a> | <a href="https://news.ycombinator.com/item?id=49867553">hacker news</a></small></p><hr/><p>The operating system formerly known as postmarketOS has officially rebranded as Nura. The name change follows a 18-month community selection process intended to improve pronunciation, ease of recall, and the project's ability to secure trademarks.</p><p>The name "Nura" is an abbreviation of "Nuraghe," referring to ancient, stable stone structures in Sardinia. The rebrand includes the adoption of the nura.eco domain and minor graphical updates to the project's logo.</p><p><img src="https://nura.eco/static/img/2026-09/stickers.jpg" /></p><hr/><small>27 Sep 2026, 20:39 UTC | #22511</small>]]></content>
+  </entry>
   <entry>
     <title>p5.js Introduces Compute Shader Support via WebGPU</title>
     <link href="https://www.davepagurek.com/blog/p5-compute-shaders/" rel="alternate" />
