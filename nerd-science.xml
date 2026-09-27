@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-27T14:50:00+00:00</updated>
+  <updated>2026-09-27T17:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Two New Species of Photosynthetic Amoebae Discovered in North Carolina</title>
+    <link href="https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html::v239</id>
+    <published>2026-09-27T17:37:00+00:00</published>
+    <updated>2026-09-27T17:37:00+00:00</updated>
+    <media:thumbnail url="https://static01.nyt.com/images/2026/09/03/00SCI-NEWSPECIES-PAULINELLA-81139-cover/00SCI-NEWSPECIES-PAULINELLA-81139-cover-facebookJumbo.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html">nytimes.com</a> | <a href="https://onlinelibrary.wiley.com/doi/10.1111/jpy.70230">source</a> | <a href="https://news.ycombinator.com/item?id=49866951">hacker news</a></small></p><hr/><p>Researchers have identified two new species of Paulinella, a genus of photosynthetic amoeboid protists, in the brackish waters of North Carolina. The species, Paulinella marae and Paulinella murrayi, expand the known diversity of the genus and provide data on the evolution of primary plastid endosymbiosis.</p><p>The discovery offers a rare opportunity to observe the evolutionary mechanisms by which cells acquire photosynthetic organelles. Studying these organisms may yield vital information regarding the origins of complex life and eukaryotic evolution.</p><p><img src="https://static01.nyt.com/images/2026/09/03/00SCI-NEWSPECIES-PAULINELLA-81139-cover/00SCI-NEWSPECIES-PAULINELLA-81139-cover-facebookJumbo.jpg" /></p><hr/><small>27 Sep 2026, 20:56 UTC | #22517</small>]]></content>
+  </entry>
   <entry>
     <title>NeoVim's Persistent Undo and the Concept of Software Duty of Care</title>
     <link href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/" rel="alternate" />
