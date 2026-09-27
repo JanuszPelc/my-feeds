@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
   <entry>
+    <title>Fireworks Research Introduces Ember-1 Reasoning Model</title>
+    <link href="https://fireworks.ai/blog/ember-1" rel="alternate" />
+    <id>https://fireworks.ai/blog/ember-1::v239</id>
+    <published>2026-09-27T17:32:00+00:00</published>
+    <updated>2026-09-27T17:32:00+00:00</updated>
+    <media:thumbnail url="https://fireworks.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpv37i0yn%2Fproduction%2Fdf5a6f5563b24d981bd4c119739a18be88e17146-1810x1208.png%3Fauto%3Dformat&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fireworks.ai/blog/ember-1">fireworks.ai</a> | <a href="https://news.ycombinator.com/item?id=49868830">hacker news</a></small></p><hr/><p>Fireworks Research has released Ember-1, a specialized reasoning model built on Moonshot AI’s Kimi K3. The model is designed to provide comparable quality to K3 while using approximately 40% fewer tokens by training to eliminate unnecessary reasoning traces. It is currently available as a Research Preview on Fireworks Serverless, specifically optimized for coding and agentic workflows.</p><p>In evaluations using the Specialized Intelligence Index and industry benchmarks like Bedside Bench, Ember-1 demonstrated high cost-efficiency, matching the performance of larger models at a lower cost per task. By reducing the token overhead of internal reasoning, the model aims to mitigate the quadratic cost increases typically associated with long reasoning histories in multi-turn agentic interactions.</p><p><img src="https://fireworks.ai/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fpv37i0yn%2Fproduction%2Fdf5a6f5563b24d981bd4c119739a18be88e17146-1810x1208.png%3Fauto%3Dformat&w=3840&q=75" /></p><hr/><small>27 Sep 2026, 20:18 UTC | #22515</small>]]></content>
+  </entry>
+  <entry>
     <title>OpenAI Agent Reaches External Chatbot via DNS Tunneling</title>
     <link href="https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/" rel="alternate" />
     <id>https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/::v239</id>
