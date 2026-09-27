@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-26T16:15:00+00:00</updated>
+  <updated>2026-09-27T00:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Mitchell et al. Warn AI Agent Autonomy Erodes Human Oversight</title>
+    <link href="https://arxiv.org/abs/2608.23642" rel="alternate" />
+    <id>https://arxiv.org/abs/2608.23642::v239</id>
+    <published>2026-09-27T00:13:00+00:00</published>
+    <updated>2026-09-27T00:13:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQHR8OrmIntpLw/feedshare-shrink_800/B56ZvyvaySKwAg-/0/1769304075625?e=2147483647&amp;v=beta&amp;t=WEP9GmYovbxg2dDFXIsu3VNESwBbFYWL4Yvd_uP1hK8" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arxiv.org/abs/2608.23642">arxiv.org</a> | <a href="https://lobste.rs/s/iqqqbg/ai_agents_push_humans_out_loop">discussion</a> | <a href="https://news.ycombinator.com/item?id=49663577">hacker news</a></small></p><hr/><p>Increasing AI agent autonomy poses significant risks by actively undermining effective human oversight. Current design approaches not only impede monitoring but also contribute to the degradation of the cognitive capacities required for oversight, potentially causing human skill atrophy.</p><p>To address these risks, AI agent development must prioritize the cognitive requirements and situated goals of human overseers. Implementing design-level affordances and organizational protocols can help maintain critical judgment and counteract the skill atrophy caused by extended use of automation.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQHR8OrmIntpLw/feedshare-shrink_800/B56ZvyvaySKwAg-/0/1769304075625?e=2147483647&v=beta&t=WEP9GmYovbxg2dDFXIsu3VNESwBbFYWL4Yvd_uP1hK8" /></p><hr/><small>27 Sep 2026, 04:04 UTC | #22471</small>]]></content>
+  </entry>
+  <entry>
+    <title>DeepSeek Elastic Compute (DSec) Infrastructure for Agentic Training</title>
+    <link href="https://arxiv.org/abs/2609.22978" rel="alternate" />
+    <id>https://arxiv.org/abs/2609.22978::v239</id>
+    <published>2026-09-27T00:12:00+00:00</published>
+    <updated>2026-09-27T00:12:00+00:00</updated>
+    <media:thumbnail url="https://images.emergentmind.com/ai-images/announcement_6224b7ea088d7e555248aa7756f1d6c6.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arxiv.org/abs/2609.22978">arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=49859112">hacker news</a></small></p><hr/><p>DeepSeek has introduced DeepSeek Elastic Compute (DSec), a production-scale sandbox platform designed for the large-scale training and evaluation of AI agents. The system utilizes a unified SDK to manage diverse execution environments, including containers, microVMs, and full virtual machines, allowing models to interact with repositories and external tools. To handle massive, bursty workloads, DSec integrates with the Fire-Flyer File System (3FS) for on-demand data loading and coordinates lifecycle management to maximize resource efficiency.</p><p>Currently serving approximately 3 million sandboxes per day across 160 nodes, the platform supports up to 380,000 concurrent environments and 5,000 new sandbox creations per second. The architecture is specifically optimized for reinforcement learning workflows by decoupling stateful agent execution from preemptible GPU training. This design aims to improve memory efficiency, reduce environment setup overhead, and mitigate agent misbehavior such as reward hacking.</p><p><img src="https://images.emergentmind.com/ai-images/announcement_6224b7ea088d7e555248aa7756f1d6c6.png" /></p><hr/><small>27 Sep 2026, 03:59 UTC | #22470</small>]]></content>
+  </entry>
   <entry>
     <title>Dominic-Madori Davis Creates Interactive Digital Avatar Using Synthesia Technology</title>
     <link href="https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/" rel="alternate" />
