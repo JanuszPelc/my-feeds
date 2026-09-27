@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T06:37:00+00:00</updated>
+  <updated>2026-09-27T06:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>FLIP Fluid Simulation on Flip-Dot Display</title>
+    <link href="https://mitxela.com/projects/flipflip" rel="alternate" />
+    <id>https://mitxela.com/projects/flipflip::v239</id>
+    <published>2026-09-27T06:39:00+00:00</published>
+    <updated>2026-09-27T06:39:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/DaV_tlBpIdc/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mitxela.com/projects/flipflip">mitxela.com</a> | <a href="https://news.ycombinator.com/item?id=49854219">hacker news</a></small></p><hr/><p>A custom installation runs a Fluid Implicit Particle (FLIP) simulation on an electromechanical flip-dot display. Built for the EMF2026 festival, the project repurposes salvaged flip-dot panels to create a large-scale, audible simulation, bypassing the high costs and slow refresh rates associated with commercial displays.</p><p>The hardware implementation utilizes custom-designed PCBs with H-bridge driver chips and shift registers to enable faster scanning of the dot matrix. This design allows for more rapid updates and provides the mechanical noise characteristic of electromechanical displays, complementing the fluid simulation's motion.</p><p><img src="https://i.ytimg.com/vi/DaV_tlBpIdc/hqdefault.jpg" /></p><hr/><small>27 Sep 2026, 13:52 UTC | #22489</small>]]></content>
+  </entry>
   <entry>
     <title>Tuning a Server to Reduce Benchmarking Noise</title>
     <link href="https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/" rel="alternate" />
