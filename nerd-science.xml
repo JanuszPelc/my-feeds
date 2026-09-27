@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-27T06:31:00+00:00</updated>
+  <updated>2026-09-27T06:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Japan Tightens Permanent Residency Requirements for Foreigners</title>
+    <link href="https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt" rel="alternate" />
+    <id>https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt::v239</id>
+    <published>2026-09-27T06:41:00+00:00</published>
+    <updated>2026-09-27T06:41:00+00:00</updated>
+    <media:thumbnail url="https://www.aljazeera.com/wp-content/uploads/2026/09/Sarah-in-front-of-immigration-office-1790311096.jpeg?w=770&amp;resize=770%2C864&amp;quality=80" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt">aljazeera.com</a> | <a href="https://news.ycombinator.com/item?id=49858810">hacker news</a></small></p><hr/><p>Japan is implementing stricter permanent residency requirements starting October 1, 2026, with some provisions applied retroactively to applications submitted since April. Applicants must demonstrate Japanese-language proficiency, possess a pension fund equivalent to 30 years of payouts, and show an annual household income that exceeds the Japanese average.</p><p>These changes reflect a shift toward a more selective immigration policy amid a shrinking domestic workforce and rising public opposition to migration. The Immigration Services Agency stated the new standards are intended to ensure that foreign residents can live independently and do not become a financial burden on the state.</p><p><img src="https://www.aljazeera.com/wp-content/uploads/2026/09/Sarah-in-front-of-immigration-office-1790311096.jpeg?w=770&resize=770%2C864&quality=80" /></p><hr/><small>27 Sep 2026, 15:01 UTC | #22492</small>]]></content>
+  </entry>
   <entry>
     <title>Investigation Into Inaccurate Reported Land Area of Yemen</title>
     <link href="https://theborys.substack.com/p/what-is-the-size-of-yemen" rel="alternate" />
