@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T06:34:00+00:00</updated>
+  <updated>2026-09-27T06:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Tuning a Server to Reduce Benchmarking Noise</title>
+    <link href="https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/" rel="alternate" />
+    <id>https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/::v239</id>
+    <published>2026-09-27T06:37:00+00:00</published>
+    <updated>2026-09-27T06:37:00+00:00</updated>
+    <media:thumbnail url="https://david.alvarezrosa.com/images/lstopo-laptop.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/">david.alvarezrosa.com</a> | <a href="https://lobste.rs/s/fejuat/tuning_server_for_benchmarking">discussion</a></small></p><hr/><p>Software benchmarks often suffer from measurement noise that can obscure subtle performance improvements, making results non-deterministic. By systematically tuning a machine—specifically through CPU core pinning, employing the performance frequency governor, disabling hyperthreading, and turning off turbo boost—the coefficient of variation can be reduced from approximately 3% to 0.26%.</p><p>This approach prioritizes measurement consistency and repeatability over peak execution speed. While these adjustments are essential for creating a stable environment to isolate software performance changes, production-grade systems typically prioritize maximum throughput and latency by keeping features like turbo boost and hyperthreading active.</p><p><img src="https://david.alvarezrosa.com/images/lstopo-laptop.png" /></p><hr/><small>27 Sep 2026, 13:38 UTC | #22488</small>]]></content>
+  </entry>
   <entry>
     <title>Floci Provides Local Emulation for AWS, Azure, GCP, and OCI</title>
     <link href="https://floci.io" rel="alternate" />
