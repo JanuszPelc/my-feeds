@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-27T16:21:00+00:00</updated>
+  <updated>2026-09-27T16:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Libelula Audio Releases Ultiverb Free Algorithmic Reverb Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/09/27/libelula-audio-ultiverb/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/27/libelula-audio-ultiverb/::v239</id>
+    <published>2026-09-27T16:22:00+00:00</published>
+    <updated>2026-09-27T16:22:00+00:00</updated>
+    <media:thumbnail url="https://static.wixstatic.com/media/963184_6dd67f66bc79481fb2cd9cffabda1169~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/963184_6dd67f66bc79481fb2cd9cffabda1169~mv2.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/27/libelula-audio-ultiverb/">bedroomproducersblog.com</a> | <a href="https://libelula-audio.com/en/plugins/ultiverb/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/27/libelula-audio-ultiverb/#respond">discussion</a></small></p><hr/><p>Libelula Audio has released Ultiverb, a free algorithmic reverb plugin for Windows. The VST3 plugin features flexible spatial processing, stereo movement, and an analog-inspired character.</p><p>Ultiverb includes five reverb types and supports multi-band decay and ducking functionality. The plugin is intended for music production, mixing, and mastering workflows.</p><p><img src="https://static.wixstatic.com/media/963184_6dd67f66bc79481fb2cd9cffabda1169~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/963184_6dd67f66bc79481fb2cd9cffabda1169~mv2.jpg" /></p><hr/><small>27 Sep 2026, 19:17 UTC | #22490</small>]]></content>
+  </entry>
   <entry>
     <title>NoiseAsh Heater V2 Available Free via Audio Plugin Deals</title>
     <link href="https://bedroomproducersblog.com/2026/09/27/noiseash-heater-free/" rel="alternate" />
