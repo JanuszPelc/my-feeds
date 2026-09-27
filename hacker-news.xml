@@ -869,31 +869,4 @@
     <media:thumbnail url="https://foxscript.org/screenshots/solution.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://foxscript.org/">foxscript.org</a> | <a href="https://news.ycombinator.com/item?id=49808023">hacker news</a></small></p><hr/><p>FoxDev Studio provides a 64-bit runtime and integrated development environment (IDE) for legacy Visual FoxPro 9 applications, allowing users to run existing projects without code rewrites or data conversion. The system utilizes a Rust-based bytecode interpreter compiled to WebAssembly and employs a fiber-based execution model to support non-blocking operations within the application.</p><p>The platform overcomes 32-bit architectural limitations to support datasets exceeding two gigabytes and maintains compatibility with legacy .fll libraries through a specialized 32-bit bridge. The ecosystem includes an IDE with an integrated debugger and linter, alongside FoxScript, an extension that adds modern language features such as lambdas and native HTTP server capabilities.</p><p><img src="https://foxscript.org/screenshots/solution.png" /></p><hr/><small>23 Sep 2026, 06:28 UTC | #22045</small>]]></content>
   </entry>
-  <entry>
-    <title>ShinyHunters Claims Breach of FBI Systems and Theft of Employee Data</title>
-    <link href="https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/" rel="alternate" />
-    <id>https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/::v239</id>
-    <published>2026-09-22T21:13:00+00:00</published>
-    <updated>2026-09-22T21:13:00+00:00</updated>
-    <media:thumbnail url="https://denizhalil.com/wp-content/uploads/2026/06/Oracle-PeopleSoft-Zero-Day-Vulnerability-Exploitation-CVE-2026-35273.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=49805278">hacker news</a></small></p><hr/><p>The hacking group ShinyHunters claims to have breached FBI systems through a zero-day exploit in Oracle PeopleSoft, allegedly stealing between two and three terabytes of data. The group asserts the theft includes personally identifiable information (PII) and protected health information (PHI) for all current, former, and prospective FBI employees and applicants, including names, home addresses, and phone numbers.</p><p>The intrusion reportedly targeted AWS GovCloud servers, and the group defaced the FBI jobs website as part of the operation. While ShinyHunters stated the motivation is "coercion" rather than financial extortion, the potential exposure of sensitive agent and spouse data presents significant national security and physical safety risks.</p><p><img src="https://denizhalil.com/wp-content/uploads/2026/06/Oracle-PeopleSoft-Zero-Day-Vulnerability-Exploitation-CVE-2026-35273.png" /></p><hr/><small>23 Sep 2026, 02:31 UTC | #22003</small>]]></content>
-  </entry>
-  <entry>
-    <title>Plain-Text Files Face Growing Obsolescence Risks</title>
-    <link href="https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49" rel="alternate" />
-    <id>https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49::v239</id>
-    <published>2026-09-22T21:11:00+00:00</published>
-    <updated>2026-09-22T21:11:00+00:00</updated>
-    <media:thumbnail url="https://iboysoft.com/images/en-wiki/plain-text/plain-text.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49">paste.sr.ht</a> | <a href="https://lobste.rs/s/ph1g2v/plain_text_files_are_at_risk">discussion</a></small></p><hr/><p>Plain-text files serve as a universal, interoperable data interface for information ranging from simple notes to critical system configurations. While once a standard for general computing, usage is declining as mobile ecosystems favor proprietary, app-centric formats over the traditional filesystem.</p><p>Software engineers, the remaining core user base, are increasingly adopting LLM-driven development tools that favor chat-based interactions and web-based diff reviews over manual local editing. This transition threatens the long-term maintenance of plain-text software and the stability of the universal data standards they sustain.</p><p><img src="https://iboysoft.com/images/en-wiki/plain-text/plain-text.jpg" /></p><hr/><small>23 Sep 2026, 02:13 UTC | #22030</small>]]></content>
-  </entry>
-  <entry>
-    <title>No Sloptober Challenge Prompts Abstention from LLM-Based Tools</title>
-    <link href="https://no-sloptober.com/" rel="alternate" />
-    <id>https://no-sloptober.com/::v239</id>
-    <published>2026-09-22T21:07:00+00:00</published>
-    <updated>2026-09-22T21:07:00+00:00</updated>
-    <media:thumbnail url="https://no-sloptober.com/images/no-sloptober-final-transparent.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://no-sloptober.com/">no-sloptober.com</a> | <a href="https://lobste.rs/s/hburvt/no_sloptober">discussion</a> | <a href="https://news.ycombinator.com/item?id=49808096">hacker news</a></small></p><hr/><p>This challenge encourages individuals to abstain from using large language model (LLM) tools throughout the month of October. Framed as a "mental fast," the initiative aims to help developers preserve manual technical skills, avoid the "meat proxy" phenomenon of merely relaying AI-generated content, and cultivate a more nuanced understanding of automated tools.</p><p>Participants are encouraged to replace AI assistance with activities such as learning new programming languages, practicing code katas, or building independent projects to maintain a sense of flow and craft. The movement emphasizes that maintaining the cognitive friction inherent in manual problem-solving is essential for effective learning and helps mitigate risks like code bloat and security vulnerabilities.</p><p><img src="https://no-sloptober.com/images/no-sloptober-final-transparent.png" /></p><hr/><small>23 Sep 2026, 01:38 UTC | #22029</small>]]></content>
-  </entry>
 </feed>
