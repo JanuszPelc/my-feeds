@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-27T06:20:00+00:00</updated>
+  <updated>2026-09-27T06:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Effective Altruism Influences Anthropic's Approach to AI Safety</title>
+    <link href="https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05?st=6WvYkF" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05?st=6WvYkF::v239</id>
+    <published>2026-09-27T06:35:00+00:00</published>
+    <updated>2026-09-27T06:35:00+00:00</updated>
+    <media:thumbnail url="https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/hbk94cp5hbzybaydjvab" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/ai-safety-effective-altruism-anthropic-164b9d05?st=6WvYkF">wsj.com</a></small></p><hr/><p>Effective altruism and its focus on the existential risk of artificial intelligence have significantly influenced the safety mission at Anthropic. The movement's concerns regarding the potential for AI to threaten human existence have shaped the company's core development and safety priorities.</p><p>The focus on catastrophic risk has reportedly influenced the personal contingency plans of some early Anthropic employees. Certain staff members have considered purchasing remote land in the United States as a potential refuge in the event that AI development leads to global catastrophe.</p><p><img src="https://res.cloudinary.com/lesswrong-2-0/image/upload/c_fill,ar_1.91,g_auto/SocialPreview/hbk94cp5hbzybaydjvab" /></p><hr/><small>27 Sep 2026, 13:14 UTC | #22475</small>]]></content>
+  </entry>
   <entry>
     <title>Unsealed Briefs in Authors' Lawsuit Against OpenAI Allege Knowledge of Copyright Infringement</title>
     <link href="https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/" rel="alternate" />
