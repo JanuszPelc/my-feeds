@@ -573,13 +573,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/open_v1_ui.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/kern-audio-releases-open---algorithmic-reverb-that-listens-to-the-dry-signal-vst3-and-au-68693?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68693">kvraudio.com</a> | <a href="https://kernaudio.io/open">source</a></small></p><hr/><p>KERN Audio has released Open, an algorithmic reverb plugin for macOS and Windows in VST3, AU, and standalone formats. The plugin analyzes the input signal across 40 ERB bands to shape the reverb tail band by band, adapting the reverb to the frequency spectrum of the source.</p><p>The plugin provides three character modes—ROOM, HALL, and CLOUD—alongside features like freeze, reverse tail, and sidechain ducking. Open is priced at $29, or it is included in the KERN bundle for $69 until October 5, 2026.</p><p><img src="https://static.kvraudio.com/i/b/open_v1_ui.jpg" /></p><hr/><small>23 Sep 2026, 13:31 UTC | #22080</small>]]></content>
   </entry>
-  <entry>
-    <title>Best Digital Audio Workstations for Various Music Production Workflows</title>
-    <link href="https://musictech.com/guides/buyers-guide/best-daw-music-producers-in-all-genres-styles-workflows/" rel="alternate" />
-    <id>https://musictech.com/guides/buyers-guide/best-daw-music-producers-in-all-genres-styles-workflows/::v239</id>
-    <published>2026-09-22T23:01:00+00:00</published>
-    <updated>2026-09-22T23:01:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2024/06/Audio-engineer-working-on-music-crdeit-gorodenkoff-Getty@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/guides/buyers-guide/best-daw-music-producers-in-all-genres-styles-workflows/">musictech.com</a></small></p><hr/><p>Leading Digital Audio Workstations (DAWs) are categorized by specific musical applications, such as beatmaking, sound design, and cinematic scoring. Ableton Live 12 is identified as the premier all-around choice due to its versatility in both studio and live performance environments.</p><p>Other specialized options include BandLab for mobile production, Tracktion Waveform for free-tier functionality, and FL Studio for sampling-intensive workflows. The selection also features AI-integrated software like RipX DAW and modular design tools like Reason 14.</p><p><img src="https://musictech.com/wp-content/uploads/2024/06/Audio-engineer-working-on-music-crdeit-gorodenkoff-Getty@2000x1500.jpg" /></p><hr/><small>23 Sep 2026, 04:08 UTC | #22034</small>]]></content>
-  </entry>
 </feed>
