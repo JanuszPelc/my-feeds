@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-27T20:14:00+00:00</updated>
+  <updated>2026-09-27T20:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Trump to Host Anthropic CEO Dario Amodei for Private White House Dinner</title>
+    <link href="https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite" rel="alternate" />
+    <id>https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite::v239</id>
+    <published>2026-09-27T20:16:00+00:00</published>
+    <updated>2026-09-27T20:16:00+00:00</updated>
+    <media:thumbnail url="https://media.wired.com/photos/6a3b1efdfb31b3da3e9adc12/191:100/w_1280,c_limit/politics_white_house_anthropic_dario_amodei.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite">axios.com</a></small></p><hr/><p>President Trump plans to host Anthropic CEO Dario Amodei for a private White House dinner this Sunday. The personal invitation signals a thawing of relations between the administration and the AI company.</p><p>The meeting follows Amodei's notable absence from a recent state dinner for Chinese President Xi Jinping, which included leaders from OpenAI, Meta, and Google. The rapprochement comes after public friction between Trump and Amodei regarding calls to slow AI development to maintain a competitive edge over China.</p><p><img src="https://media.wired.com/photos/6a3b1efdfb31b3da3e9adc12/191:100/w_1280,c_limit/politics_white_house_anthropic_dario_amodei.jpg" /></p><hr/><small>27 Sep 2026, 22:44 UTC | #22498</small>]]></content>
+  </entry>
   <entry>
     <title>Saturday Night Live Parodies Anthropic CEO Dario Amodei</title>
     <link href="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/" rel="alternate" />
