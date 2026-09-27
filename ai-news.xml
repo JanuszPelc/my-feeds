@@ -483,13 +483,4 @@
     <media:thumbnail url="https://openclawnews.tech/wp-content/uploads/2026/04/2026-04-17_anthropic-claude-opus-4-7-mythos-model-2026_featured.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.anthropic.com/claude-opus-5-5">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=49803863">hacker news</a></small></p><hr/><p>Claude Opus 5.5 delivers substantial performance gains in agentic coding, computer use, and knowledge work, outperforming both Opus 5 and Claude Fable 5.1. It is 40% more cost-effective and 30% faster than its predecessor, Opus 5, and features significantly lower costs for cache reads.</p><p>The release includes enhanced safety alignment and specialized safeguards for biological and cybersecurity applications. Anthropic plans to release Claude Sonnet 5.5 and Claude Haiku 5.5 in the coming weeks.</p><p><img src="https://openclawnews.tech/wp-content/uploads/2026/04/2026-04-17_anthropic-claude-opus-4-7-mythos-model-2026_featured.webp" /></p><hr/><small>22 Sep 2026, 17:46 UTC | #21988</small>]]></content>
   </entry>
-  <entry>
-    <title>GPT-6 Astra Breaks Unsolved 1941 Enigma Message</title>
-    <link href="https://www.cryptocellar.org/bgac/the-mvueh-break.html" rel="alternate" />
-    <id>https://www.cryptocellar.org/bgac/the-mvueh-break.html::v239</id>
-    <published>2026-09-22T14:33:00+00:00</published>
-    <updated>2026-09-22T14:33:00+00:00</updated>
-    <media:thumbnail url="https://www.cascadepbs.org/content/images/size/w2000/format/webp/2025/11/c09f5549-bdb6-405b-9af2-c5bcf31d32ec.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.cryptocellar.org/bgac/the-mvueh-break.html">cryptocellar.org</a> | <a href="https://news.ycombinator.com/item?id=49801324">hacker news</a></small></p><hr/><p>GPT-6 Astra has independently decrypted the German Army Enigma message MVUEH, an 82-letter ciphertext from July 10, 1941, that had remained unsolved since 2005. The model achieved the break by developing custom Enigma simulator and Bombe software in Python and C++ and identifying the repeated place name "ROSENOW" as a crib.</p><p>The decryption revealed that transcription errors and an infrequent left-hand wheel turnover had previously prevented a solution. The task was completed in two days, during which the AI demonstrated advanced research capabilities by identifying and referencing specific radio-message volumes in the German Bundesarchiv.</p><p><img src="https://www.cascadepbs.org/content/images/size/w2000/format/webp/2025/11/c09f5549-bdb6-405b-9af2-c5bcf31d32ec.jpg" /></p><hr/><small>22 Sep 2026, 16:45 UTC | #21983</small>]]></content>
-  </entry>
 </feed>
