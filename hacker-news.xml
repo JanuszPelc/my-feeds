@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T01:33:00+00:00</updated>
+  <updated>2026-09-27T01:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Google Threat Intelligence Group Finds AI Model Access for Sale on Dark Web</title>
+    <link href="https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32" rel="alternate" />
+    <id>https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32::v239</id>
+    <published>2026-09-27T01:34:00+00:00</published>
+    <updated>2026-09-27T01:34:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/68d2b2115be9da4fe9f06358/698c380264a5e7782b5c5d9a_CYJAX+2.0+Social+Media+Posts-20.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32">ft.com</a> | <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-threat-intelligence-group-report/">source</a></small></p><hr/><p>Google Threat Intelligence Group researchers have identified dark web marketplaces selling access to AI models from OpenAI, Anthropic, and Google at discounts of up to 97 percent. Known as "LLM-jacking," these attacks involve the unauthorized resale of access to expensive corporate AI resources.</p><p>These illicit sales allow threat actors to leverage high-cost large language model (LLM) capabilities without incurring the actual service costs. The discovery signals an expanding threat landscape targeting the specialized computational and API-based infrastructure used by AI-integrated enterprises.</p><p><img src="https://cdn.prod.website-files.com/68d2b2115be9da4fe9f06358/698c380264a5e7782b5c5d9a_CYJAX+2.0+Social+Media+Posts-20.png" /></p><hr/><small>27 Sep 2026, 07:24 UTC | #22461</small>]]></content>
+  </entry>
   <entry>
     <title>systemd v262 Reworks NvPCR Anchoring Design</title>
     <link href="https://katexochen.aro.bz/posts/systemd-v262-nvpcrs/" rel="alternate" />
