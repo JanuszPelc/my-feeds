@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-25T16:03:00+00:00</updated>
+  <updated>2026-09-28T02:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Rustunit Removes Swift Package Dependencies from Bevy iOS Crates</title>
+    <link href="https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/" rel="alternate" />
+    <id>https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/::v239</id>
+    <published>2026-09-28T02:11:00+00:00</published>
+    <updated>2026-09-28T02:11:00+00:00</updated>
+    <media:thumbnail url="https://www.icoderzsolutions.com/blog/wp-content/uploads/2023/10/Swift-vs-Objective-C.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/">rustunit.com</a> | <a href="https://lobste.rs/s/nmksyw/dropping_swift_entirely_from_our_bevy_ios">discussion</a></small></p><hr/><p>Rustunit has updated its `bevy_ios_*` crates to replace manual Swift package dependencies with direct `objc2` bindings. This allows developers to install necessary iOS functionality, such as safe area insets and user notifications, using only `cargo add`, removing the requirement for the Swift Package Manager (SPM).</p><p>This transition simplifies version management between Rust crates and SPM packages and enables builds for the iOS simulator. While most functionality now uses the Objective-C runtime via `objc2`, `bevy_ios_iap` utilizes a minimal, statically linked Swift shim to accommodate the Swift-only StoreKit 2 API.</p><p><img src="https://www.icoderzsolutions.com/blog/wp-content/uploads/2023/10/Swift-vs-Objective-C.webp" /></p><hr/><small>28 Sep 2026, 05:27 UTC | #22531</small>]]></content>
+  </entry>
   <entry>
     <title>Sam Carlisle Discusses Co-development and Outsourcing in the Game Industry</title>
     <link href="https://www.youtube.com/watch?v=4DCIZ2DNQ0k" rel="alternate" />

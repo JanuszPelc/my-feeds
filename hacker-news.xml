@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T20:38:00+00:00</updated>
+  <updated>2026-09-28T02:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Replacing the Battery in Old Rechargeable Bike Lights</title>
+    <link href="https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/" rel="alternate" />
+    <id>https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/::v239</id>
+    <published>2026-09-28T02:10:00+00:00</published>
+    <updated>2026-09-28T02:10:00+00:00</updated>
+    <media:thumbnail url="https://jvns.ca/images/pcb.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/">jvns.ca</a> | <a href="https://news.ycombinator.com/item?id=49866515">hacker news</a></small></p><hr/><p>A pair of ten-year-old rechargeable bike lights were restored by replacing their depleted lithium-ion batteries. The repair involved opening the silicone housing, desoldering components at a makerspace, and installing new LIR2477 button cells.</p><p>The project cost approximately $20 CAD for replacement batteries and silicone glue. An LLM was used to identify the correct battery model, and the final assembly required manual gluing and clamping.</p><p><img src="https://jvns.ca/images/pcb.png" /></p><hr/><small>28 Sep 2026, 05:24 UTC | #22530</small>]]></content>
+  </entry>
   <entry>
     <title>The Limits of Replacing Human Code Reviewers with AI Agents</title>
     <link href="https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/" rel="alternate" />
@@ -868,14 +877,5 @@
     <updated>2026-09-23T07:27:00+00:00</updated>
     <media:thumbnail url="https://www.marktechpost.com/wp-content/uploads/2026/09/blog111-1-1.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.nobodywho.ai/posts/jev-in-25-lines/">nobodywho.ai</a> | <a href="https://news.ycombinator.com/item?id=49812769">hacker news</a></small></p><hr/><p>A 25-line Python script mimics the behavior of decision-only "System One" models like TypeSafe AI's Jev. Using `llama-cpp-python` and `numpy`, the script loads a GGUF model and extracts logit probabilities for predefined labels to enable fast, local classification.</p><p>The implementation distinguishes simple local probability extraction from sophisticated production models that utilize synthetic data and Reinforcement Learning for Calibrated Decisions (RLCD) to achieve calibrated outputs.</p><p><img src="https://www.marktechpost.com/wp-content/uploads/2026/09/blog111-1-1.png" /></p><hr/><small>23 Sep 2026, 12:38 UTC | #22074</small>]]></content>
-  </entry>
-  <entry>
-    <title>SAML Design Flaws and the Case for Deprecation</title>
-    <link href="https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/" rel="alternate" />
-    <id>https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/::v239</id>
-    <published>2026-09-23T05:11:00+00:00</published>
-    <updated>2026-09-23T05:11:00+00:00</updated>
-    <media:thumbnail url="https://blogs.jsmon.sh/content/images/2026/04/image-14.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/">blog.trailofbits.com</a> | <a href="https://news.ycombinator.com/item?id=49806335">hacker news</a></small></p><hr/><p>SAML is an XML-based authentication protocol facing significant security challenges due to its inherent complexity and design flaws. Its reliance on XML makes implementations vulnerable to several attack classes, including XML Signature Wrapping (XSW), canonicalization errors, and parser differentials.</p><p>The transition toward modern, transport-aware protocols like OpenID Connect (OIDC) highlights SAML's "kitchen-sink" design and lack of alignment with contemporary web standards. The protocol's complexity and historical baggage suggest it is a candidate for deprecation in favor of more streamlined and secure authentication frameworks.</p><p><img src="https://blogs.jsmon.sh/content/images/2026/04/image-14.png" /></p><hr/><small>23 Sep 2026, 11:49 UTC | #22067</small>]]></content>
   </entry>
 </feed>
