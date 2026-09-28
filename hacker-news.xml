@@ -878,22 +878,4 @@
     <media:thumbnail url="https://blogs.jsmon.sh/content/images/2026/04/image-14.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/">blog.trailofbits.com</a> | <a href="https://news.ycombinator.com/item?id=49806335">hacker news</a></small></p><hr/><p>SAML is an XML-based authentication protocol facing significant security challenges due to its inherent complexity and design flaws. Its reliance on XML makes implementations vulnerable to several attack classes, including XML Signature Wrapping (XSW), canonicalization errors, and parser differentials.</p><p>The transition toward modern, transport-aware protocols like OpenID Connect (OIDC) highlights SAML's "kitchen-sink" design and lack of alignment with contemporary web standards. The protocol's complexity and historical baggage suggest it is a candidate for deprecation in favor of more streamlined and secure authentication frameworks.</p><p><img src="https://blogs.jsmon.sh/content/images/2026/04/image-14.png" /></p><hr/><small>23 Sep 2026, 11:49 UTC | #22067</small>]]></content>
   </entry>
-  <entry>
-    <title>AMD Zen 5 RDSEED Bug Causes Non-Random Zero Returns</title>
-    <link href="https://board.flatassembler.net/topic.php?t=24261" rel="alternate" />
-    <id>https://board.flatassembler.net/topic.php?t=24261::v239</id>
-    <published>2026-09-23T05:09:00+00:00</published>
-    <updated>2026-09-23T05:09:00+00:00</updated>
-    <media:thumbnail url="https://journaldev.nyc3.cdn.digitaloceanspaces.com/2012/10/generate-random-number-in-java.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://board.flatassembler.net/topic.php?t=24261">board.flatassembler.net</a> | <a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7055.html">source</a> | <a href="https://news.ycombinator.com/item?id=49798204">hacker news</a></small></p><hr/><p>The AMD Zen 5 architecture contains a hardware bug in the RDSEED instruction that causes the random number generator to return zero at an inconsistent rate. This flaw can incorrectly signal a successful operation even when the entropy is not truly random, potentially resulting in predictable cryptographic keys.</p><p>The vulnerability, cataloged as CVE-2025-62626, was addressed via security bulletin AMD-SB-7055. While testers have observed the issue in various software environments, AMD has confirmed the flaw and noted that microcode updates are required to maintain hardware randomness integrity.</p><p><img src="https://journaldev.nyc3.cdn.digitaloceanspaces.com/2012/10/generate-random-number-in-java.png" /></p><hr/><small>23 Sep 2026, 11:45 UTC | #22066</small>]]></content>
-  </entry>
-  <entry>
-    <title>Learning Serious Text Editors Requires Significant Time and Effort</title>
-    <link href="https://utcc.utoronto.ca/~cks/space/blog/tech/EditorsAreACommitment" rel="alternate" />
-    <id>https://utcc.utoronto.ca/~cks/space/blog/tech/EditorsAreACommitment::v239</id>
-    <published>2026-09-23T05:04:00+00:00</published>
-    <updated>2026-09-23T05:04:00+00:00</updated>
-    <media:thumbnail url="https://thumbnails.odycdn.com/card/s:1280:720/quality:85/plain/https://spee.ch/6/49a4980fdb5d7941.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://utcc.utoronto.ca/~cks/space/blog/tech/EditorsAreACommitment">utcc.utoronto.ca</a> | <a href="https://lobste.rs/s/2kfsi1/serious_editors_are_commitment_at_least">discussion</a></small></p><hr/><p>Mastering tools like GNU Emacs or Vim requires a substantial investment of time and effort. Because these editors offer complex extensibility and unique interaction models, achieving true fluency is a significant project rather than a simple skill acquisition.</p><p>Switching between editors often necessitates relearning workflows and duplicating established configurations. While basic `vi` knowledge is recommended for Unix sysadmins, the steep learning curve of new software suggests that users should stick with a functional editor once they have found one that works.</p><p><img src="https://thumbnails.odycdn.com/card/s:1280:720/quality:85/plain/https://spee.ch/6/49a4980fdb5d7941.jpg" /></p><hr/><small>23 Sep 2026, 11:02 UTC | #22059</small>]]></content>
-  </entry>
 </feed>
