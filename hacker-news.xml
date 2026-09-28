@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T20:20:00+00:00</updated>
+  <updated>2026-09-27T20:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Lofi Cities Features Pixel-Art Cityscapes and Live Browser-Generated Music</title>
+    <link href="https://loficities.com/" rel="alternate" />
+    <id>https://loficities.com/::v239</id>
+    <published>2026-09-27T20:24:00+00:00</published>
+    <updated>2026-09-27T20:24:00+00:00</updated>
+    <media:thumbnail url="https://images.nightcafe.studio/galleries/S3g0iKYy3b9UvayK1FPK/a_sprawling_retro_pixel_art--1--acxgb.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://loficities.com/">loficities.com</a> | <a href="https://news.ycombinator.com/item?id=49869574">hacker news</a></small></p><hr/><p>Lofi Cities is a free web application that pairs animated pixel-art city nightscapes with real-time lofi music generated in-browser using the Web Audio API. The application features multiple global cities, including Tokyo and New York, each providing unique landmarks, ambient sounds, and controllable weather effects.</p><p>The music is synthesized on the fly without samples to ensure an endless, non-repeating stream. Users can access additional features like a city-specific chat, Pomodoro and sleep timers, and an OBS-compatible mode for use as a streaming background.</p><p><img src="https://images.nightcafe.studio/galleries/S3g0iKYy3b9UvayK1FPK/a_sprawling_retro_pixel_art--1--acxgb.jpg" /></p><hr/><small>28 Sep 2026, 01:26 UTC | #22524</small>]]></content>
+  </entry>
   <entry>
     <title>iPod Classic Earbud Remote Support Enabled via Mikey Chip Reverse Engineering</title>
     <link href="https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/" rel="alternate" />
