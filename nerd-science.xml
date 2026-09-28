@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-28T09:16:00+00:00</updated>
+  <updated>2026-09-28T18:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>This American Life Examines Intergenerational Communication</title>
+    <link href="https://www.thisamericanlife.org/897/transcript" rel="alternate" />
+    <id>https://www.thisamericanlife.org/897/transcript::v239</id>
+    <published>2026-09-28T18:09:00+00:00</published>
+    <updated>2026-09-28T18:09:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.thisamericanlife.org/897/transcript">thisamericanlife.org</a> | <a href="https://news.ycombinator.com/item?id=49879697">hacker news</a></small></p><hr/><p>Middle schoolers restricted from mainstream social media have used Spotify's podcast comment sections as a clandestine group chat, leading NPR producers to mistake their unique digital communication for automated bot activity. This phenomenon highlights a gap in how different generations interpret online social interaction and digital communication norms.</p><p>Family dynamics and historical grievances also reflect these generational divides, including a daughter's attempt to reconcile with her mother following a contentious wedding speech. These narratives explore the social and emotional challenges of bridging communication gaps between different age groups.</p><hr/><small>28 Sep 2026, 21:00 UTC | #22636</small>]]></content>
+  </entry>
   <entry>
     <title>SpaceX Starship Targeting First Orbital Flight on September 28</title>
     <link href="https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live" rel="alternate" />
