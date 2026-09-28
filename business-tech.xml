@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-28T14:00:00+00:00</updated>
+  <updated>2026-09-28T14:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>ASML CEO Christophe Fouquet on Company Monopoly, AI, and Export Bans</title>
+    <link href="https://www.ft.com/content/bc0385ea-17d9-4d28-a79b-acba04b394e1" rel="alternate" />
+    <id>https://www.ft.com/content/bc0385ea-17d9-4d28-a79b-acba04b394e1::v239</id>
+    <published>2026-09-28T14:04:00+00:00</published>
+    <updated>2026-09-28T14:04:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/bc0385ea-17d9-4d28-a79b-acba04b394e1">ft.com</a></small></p><hr/><p>ASML holds a monopoly over the extreme ultraviolet (EUV) lithography machines required for manufacturing the world's most advanced semiconductors. CEO Christophe Fouquet discussed the company's 42-year history, a supply chain comprising 2,000 companies, and the impact of US export bans on its operations.</p><p>The discussion addressed ASML's role in the AI-driven semiconductor market and the geopolitical tensions impacting technology trade. Fouquet outlined how international export restrictions and complex manufacturing requirements influence the global supply of high-performance computing hardware.</p><hr/><small>28 Sep 2026, 17:28 UTC | #22557</small>]]></content>
+  </entry>
   <entry>
     <title>Uber Removes Branding from Uber Safari Vehicles in Kenya</title>
     <link href="https://www.wsj.com/business/hospitality/uber-kenya-safari-630e8bd7?st=5Q1hEd&amp;reflink=desktopwebshare_permalink" rel="alternate" />
