@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-28T05:03:00+00:00</updated>
+  <updated>2026-09-28T05:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>InnerMost47 Releases OBSIDIAN Neural v3.2.0 as Free and Open Source</title>
+    <link href="https://www.kvraudio.com/news/innermost47-updates-obsidian-neural-to-v3-2-0---now-free-and-open-source-modulators-and-self-hosted-gpu-server-68766?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68766" rel="alternate" />
+    <id>https://www.kvraudio.com/news/innermost47-updates-obsidian-neural-to-v3-2-0---now-free-and-open-source-modulators-and-self-hosted-gpu-server-68766?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68766::v239</id>
+    <published>2026-09-28T05:15:00+00:00</published>
+    <updated>2026-09-28T05:15:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/tracks.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/innermost47-updates-obsidian-neural-to-v3-2-0---now-free-and-open-source-modulators-and-self-hosted-gpu-server-68766?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68766">kvraudio.com</a> | <a href="https://github.com/innermost47/ai-dj/releases">source</a></small></p><hr/><p>InnerMost47 has released version 3.2.0 of OBSIDIAN Neural, a generative AI sampler designed for live performance. The update transitions the plugin to a fully free and open-source model under the GNU AGPL v3.0 license, enabling entirely offline CPU execution without the need for subscriptions or accounts.</p><p>The update introduces eight independent modulators per track for automated parameter control and 18 built-in presets for the glitch sequencer. Additionally, users can opt to run nine specialized AI engines via an optional, self-hosted GPU server compatible with NVIDIA and Apple Silicon hardware.</p><p><img src="https://static.kvraudio.com/i/b/tracks.png" /></p><hr/><small>28 Sep 2026, 12:18 UTC | #22569</small>]]></content>
+  </entry>
+  <entry>
+    <title>A2D Sound Releases Squeeze Plugin</title>
+    <link href="https://www.kvraudio.com/news/a2d-sound-releases-squeeze---single-engine-replacement-for-the-processing-chain-vst3-and-au-68768?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68768" rel="alternate" />
+    <id>https://www.kvraudio.com/news/a2d-sound-releases-squeeze---single-engine-replacement-for-the-processing-chain-vst3-and-au-68768?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68768::v239</id>
+    <published>2026-09-28T05:14:00+00:00</published>
+    <updated>2026-09-28T05:14:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/squeeze-gui.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/a2d-sound-releases-squeeze---single-engine-replacement-for-the-processing-chain-vst3-and-au-68768?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68768">kvraudio.com</a> | <a href="https://www.a2dsound.com/squeeze">source</a></small></p><hr/><p>Squeeze is a VST3 and AU plugin that integrates saturation, compression, EQ, clipping, limiting, transient shaping, and width into a single engine. The tool uses a "Learn" function to analyze source material and automatically builds a processing chain in one phase-coherent pass.</p><p>Available for macOS and Windows, the plugin provides 27 source types and three pre-calibrated configurations: Clean, Warm, and Aggressive. It utilizes deterministic crest-factor and dynamics-based analysis instead of AI and is intended for signal enhancement rather than resonance removal. The plugin is currently priced at $49.</p><p><img src="https://static.kvraudio.com/i/b/squeeze-gui.jpg" /></p><hr/><small>28 Sep 2026, 12:15 UTC | #22568</small>]]></content>
+  </entry>
   <entry>
     <title>sonicLAB Updates PolyNodes to v2.3</title>
     <link href="https://www.kvraudio.com/news/soniclab-updates-polynodes-to-v2-3-68775?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68775" rel="alternate" />
@@ -527,50 +545,5 @@
     <updated>2026-09-23T12:37:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/clearroom-app-live.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/clearroom-released---room-and-headphone-calibration-for-macos-vst3-and-au-68702?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68702">kvraudio.com</a> | <a href="https://clearroom.studio/">source</a></small></p><hr/><p>Clearroom version 1.0 is a room and headphone calibration application for macOS, providing VST3 and AU plugins as well as a system-wide audio driver. The software profiles acoustic environments via measurement microphones and includes 782 pre-profiled headphone models to perform magnitude-based correction toward targets such as the Harman curve.</p><p>The software is compatible with both Apple Silicon and Intel-based Macs and introduces no latency when operating at 48 kHz. It is available as a $165 one-time purchase for a single license usable on two machines, with a 14-day trial available from the developer.</p><p><img src="https://static.kvraudio.com/i/b/clearroom-app-live.png" /></p><hr/><small>23 Sep 2026, 18:00 UTC | #22103</small>]]></content>
-  </entry>
-  <entry>
-    <title>Vitric Audio Offers Colonnade Delay Free for a Limited Time</title>
-    <link href="https://bedroomproducersblog.com/2026/09/23/colonnade-delay-free/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/23/colonnade-delay-free/::v239</id>
-    <published>2026-09-23T12:26:00+00:00</published>
-    <updated>2026-09-23T12:26:00+00:00</updated>
-    <media:thumbnail url="https://cdn.prod.website-files.com/68efa70811edd8e5af30a90d/6920605543d91798e03de955_Voxengo+Tempo+Delay.webp" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/23/colonnade-delay-free/">bedroomproducersblog.com</a> | <a href="https://vitricaudio.com/colonnade-delay">source</a> | <a href="https://bedroomproducersblog.com/2026/09/23/colonnade-delay-free/#respond">discussion</a></small></p><hr/><p>Vitric Audio is offering its Colonnade Delay plugin for free to Bedroom Producers Blog readers until September 30. The software is compatible with Windows and macOS and is normally priced at $35.</p><p>The plugin utilizes a dual-engine architecture featuring four modes: Studio, Tape, Bucket, and Ghost. It provides per-engine controls and flexible routing to allow users to manipulate delay depth and timing.</p><p><img src="https://cdn.prod.website-files.com/68efa70811edd8e5af30a90d/6920605543d91798e03de955_Voxengo+Tempo+Delay.webp" /></p><hr/><small>23 Sep 2026, 16:51 UTC | #22071</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tone Empire Offers OptoRED Optical Compressor for Free</title>
-    <link href="https://bedroomproducersblog.com/2026/09/23/tone-empire-optored-free/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/23/tone-empire-optored-free/::v239</id>
-    <published>2026-09-23T12:25:00+00:00</published>
-    <updated>2026-09-23T12:25:00+00:00</updated>
-    <media:thumbnail url="https://plugins.audio/__og-image__/image/products/tone-empire/optored/og.png" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/23/tone-empire-optored-free/">bedroomproducersblog.com</a> | <a href="https://tone-empire.com/shop/optored/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/23/tone-empire-optored-free/#comments">discussion</a></small></p><hr/><p>Tone Empire is providing its OptoRED optical compressor for free for a limited time. Applying the discount code TONEFAMOPTO at checkout reduces the $79 retail price to zero, allowing users to add the plugin to their accounts.</p><p>OptoRED models classic American optical compression for smooth, artifact-free gain riding on vocals, bass, drums, and busses. The plugin includes a lo-cut filter, sidechain control, autogain, and a wet/dry mix for parallel processing.</p><p><img src="https://plugins.audio/__og-image__/image/products/tone-empire/optored/og.png" /></p><hr/><small>23 Sep 2026, 16:33 UTC | #22072</small>]]></content>
-  </entry>
-  <entry>
-    <title>Scaler Music Releases Scaler EQ Pro</title>
-    <link href="https://www.kvraudio.com/news/scaler-music-releases-scaler-eq-pro-vst3-au-and-aax-68683?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68683" rel="alternate" />
-    <id>https://www.kvraudio.com/news/scaler-music-releases-scaler-eq-pro-vst3-au-and-aax-68683?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68683::v239</id>
-    <published>2026-09-23T12:21:00+00:00</published>
-    <updated>2026-09-23T12:21:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/seqpro-hero-small.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/scaler-music-releases-scaler-eq-pro-vst3-au-and-aax-68683?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68683">kvraudio.com</a> | <a href="https://scalermusic.com/products/scaler-eq-pro/">source</a></small></p><hr/><p>Scaler Music has released Scaler EQ Pro, an evolution of its patented musical equalizer. The plugin features key-aware Harmonic Peak filters that can boost in-key frequencies or cut out-of-key ones, alongside new bass and high-frequency compressors and a MIDI-controlled Live Band.</p><p>Available in VST3, AU, and AAX formats for macOS and Windows, the plugin includes Magic Shelf mid-side processing, dynamic EQ for all bands, and automated audio key detection.</p><p><img src="https://static.kvraudio.com/i/b/seqpro-hero-small.png" /></p><hr/><small>23 Sep 2026, 15:53 UTC | #22060</small>]]></content>
-  </entry>
-  <entry>
-    <title>Soniccouture Releases The Attic 3 Synth Collection</title>
-    <link href="https://www.kvraudio.com/news/soniccouture-release-the-attic-3---24-rare-synths-for-kontakt-player-68701?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68701" rel="alternate" />
-    <id>https://www.kvraudio.com/news/soniccouture-release-the-attic-3---24-rare-synths-for-kontakt-player-68701?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68701::v239</id>
-    <published>2026-09-23T12:20:00+00:00</published>
-    <updated>2026-09-23T12:20:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/voyetra-1x.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/soniccouture-release-the-attic-3---24-rare-synths-for-kontakt-player-68701?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68701">kvraudio.com</a> | <a href="https://www.soniccouture.com/en/products/34-new/g47-the-attic-3/">source</a></small></p><hr/><p>Soniccouture has released The Attic 3, a collection of 24 rare vintage synthesizers for Kontakt Player. The library features instruments such as the Yamaha CS-15, Casio CZ-101, and EMS Synthi AKS, using sampled keys combined with modeled filters and envelopes to emulate vintage character.</p><p>The 24GB library contains 600 presets and is compatible with the free version of Kontakt Player. Pricing is set at an introductory $175 until October 6, 2026, with a standard price of $250 and a $79 upgrade option for users of The Attic 1 or 2.</p><p><img src="https://static.kvraudio.com/i/b/voyetra-1x.jpg" /></p><hr/><small>23 Sep 2026, 15:51 UTC | #22061</small>]]></content>
-  </entry>
-  <entry>
-    <title>Minimal Instruments Releases nagi Plugin Builder for macOS, Windows, and Linux</title>
-    <link href="https://www.kvraudio.com/news/minimal-instruments-releases-nagi-plugin-builder-for-macos-windows-and-linux-68698?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68698" rel="alternate" />
-    <id>https://www.kvraudio.com/news/minimal-instruments-releases-nagi-plugin-builder-for-macos-windows-and-linux-68698?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68698::v239</id>
-    <published>2026-09-23T12:19:00+00:00</published>
-    <updated>2026-09-23T12:19:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/-2026-09-23-171015-.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/minimal-instruments-releases-nagi-plugin-builder-for-macos-windows-and-linux-68698?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68698">kvraudio.com</a> | <a href="https://nagi.minimal-instruments.com/">source</a></small></p><hr/><p>Minimal Instruments has released nagi, a desktop application for macOS, Windows, and Linux that lets users design, audition, and build VST3 and CLAP audio plugins. The software uses a node-based editor for no-code development and a Faust DSP editor for manual coding.</p><p>The tool features an interface designer for custom GUI layouts, an instant audio preview, and a local AI assistant for drafting DSP and interface designs. While the application is free to use, an optional "nagi Pro" version is planned as a one-time $99 purchase after the beta phase.</p><p><img src="https://static.kvraudio.com/i/b/-2026-09-23-171015-.png" /></p><hr/><small>23 Sep 2026, 15:50 UTC | #22055</small>]]></content>
   </entry>
 </feed>

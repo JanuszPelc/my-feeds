@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-28T05:02:00+00:00</updated>
+  <updated>2026-09-28T07:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Video Player Developed for Pharmacy LED Cross</title>
+    <link href="https://hugoarnal.com/blog/rickroll-pharmacy-cross/" rel="alternate" />
+    <id>https://hugoarnal.com/blog/rickroll-pharmacy-cross/::v239</id>
+    <published>2026-09-28T07:53:00+00:00</published>
+    <updated>2026-09-28T07:53:00+00:00</updated>
+    <media:thumbnail url="https://hugoarnal.com/blog/rickroll-pharmacy-cross/pharmacy-cross.gif" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hugoarnal.com/blog/rickroll-pharmacy-cross/">hugoarnal.com</a> | <a href="https://lobste.rs/s/6p91by/rickrolling_with_pharmacy_cross">discussion</a></small></p><hr/><p>A developer has created a video player for pharmacy LED crosses by reverse-engineering the hardware and utilizing a custom C++ library. The system uses FFmpeg to extract video frames, which are then converted into 24x24 monochrome bitmaps via a Python script for transmission to the LED display.</p><p>The project was developed during a hackathon at Epitech Lyon, inspired by a previous reverse-engineering video by French YouTuber Sylvqin. The software is currently used as a permanent digital display at the Epitech Lyon Hub.</p><p><img src="https://hugoarnal.com/blog/rickroll-pharmacy-cross/pharmacy-cross.gif" /></p><hr/><small>28 Sep 2026, 12:28 UTC | #22565</small>]]></content>
+  </entry>
+  <entry>
+    <title>Fakecloud Provides Open-Source Local AWS Emulator for Integration Testing</title>
+    <link href="https://fakecloud.dev/" rel="alternate" />
+    <id>https://fakecloud.dev/::v239</id>
+    <published>2026-09-28T05:12:00+00:00</published>
+    <updated>2026-09-28T05:12:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fakecloud.dev/">fakecloud.dev</a> | <a href="https://news.ycombinator.com/item?id=49856885">hacker news</a></small></p><hr/><p>Fakecloud is a local AWS cloud emulator designed for integration testing and development. It supports 105 AWS services and over 7,500 operations, claiming 100% conformance to Smithy models. The tool runs as a single binary or Docker image and does not require an AWS account, authentication tokens, or a paid subscription to access core functionalities.</p><p>Unlike LocalStack Community, fakecloud provides first-party SDKs in TypeScript, Python, Go, PHP, Java, and Rust to allow developers to inspect service states and manage asynchronous behaviors during tests. The tool is designed for a low-footprint, zero-friction local workflow, supporting complex cross-service interactions without requiring an internet connection.</p><hr/><small>28 Sep 2026, 12:07 UTC | #22564</small>]]></content>
+  </entry>
   <entry>
     <title>Citrix Confirms Active Exploitation of Two NetScaler RCE Zero-Days</title>
     <link href="https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/" rel="alternate" />
@@ -859,14 +876,5 @@
     <updated>2026-09-23T14:36:00+00:00</updated>
     <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/941410906/original/4c8ccfd0b7/1?v=1" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html">radicle.dev</a> | <a href="https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability">discussion</a></small></p><hr/><p>Radicle has disclosed two critical security vulnerabilities in its network protocol affecting all released versions. The flaws permit attackers to read data in transit due to a lack of encryption and allow for peer impersonation through broken connection handshakes.</p><p>Users are advised to stop using private repositories over the network and rotate any exposed credentials until a fix is released. A planned major update will resolve the issues by migrating to the iroh networking stack, a change that will be backward-incompatible and will result in a network partition between upgraded and non-upgraded nodes.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/941410906/original/4c8ccfd0b7/1?v=1" /></p><hr/><small>23 Sep 2026, 18:04 UTC | #22108</small>]]></content>
-  </entry>
-  <entry>
-    <title>Parsing JSON Without Intermediate ASTs</title>
-    <link href="https://arthi-chaud.github.io/posts/json-ir/" rel="alternate" />
-    <id>https://arthi-chaud.github.io/posts/json-ir/::v239</id>
-    <published>2026-09-23T12:22:00+00:00</published>
-    <updated>2026-09-23T12:22:00+00:00</updated>
-    <media:thumbnail url="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/02/zed-json-error.png?q=70&amp;fit=crop&amp;w=825&amp;dpr=1" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arthi-chaud.github.io/posts/json-ir/">arthi-chaud.github.io</a> | <a href="https://lobste.rs/s/ehpn7n/parsing_json_objects_without">discussion</a></small></p><hr/><p>Parsing JSON objects in Haskell without an intermediate representation (IR) or Abstract Syntax Tree (AST) is possible through the use of partially-initialised data. This technique employs `undefined` for fields in the target data structure and uses a bitset to track which fields are populated during parsing to ensure all required data is present.</p><p>Bypassing the IR minimizes memory allocation and computational overhead, significantly accelerating deserialisation. Benchmarks demonstrate that this approach can be approximately three times faster than the standard `aeson` library, though it requires non-strict data types and increased implementation complexity.</p><p><img src="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/02/zed-json-error.png?q=70&fit=crop&w=825&dpr=1" /></p><hr/><small>23 Sep 2026, 15:56 UTC | #22105</small>]]></content>
   </entry>
 </feed>
