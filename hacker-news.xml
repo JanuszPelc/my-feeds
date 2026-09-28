@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-28T17:57:00+00:00</updated>
+  <updated>2026-09-28T18:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>DetectifAI Develops On-Device Deepfake Audio Detection Technology</title>
+    <link href="https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/::v239</id>
+    <published>2026-09-28T18:02:00+00:00</published>
+    <updated>2026-09-28T18:02:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/635e632477408d12d1811a64/6979f187f7bd9c0676e64c49_best-ai-deepfake-detection-tools.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/">techcrunch.com</a> | <a href="https://detectif.ai/">source</a></small></p><hr/><p>DetectifAI, a San Francisco-based startup, is developing compact AI models designed to run locally on smartphone operating systems to detect deepfake audio during live calls and voice messages. The company's software development kit (SDK) enables real-time verification without audio leaving the device, distinguishing it from cloud-based detection services. The startup currently handles over 100,000 calls monthly for financial institutions in India to provide speaker verification and deepfake detection.</p><p>Founded by Tarini Padmanabhuni, the company targets two revenue streams: licensing technology to phone manufacturers to become a standard operating system feature and providing services to businesses and fraud-prevention firms. DetectifAI has secured seed funding from investors Josh Constine and Manohar Kamath and is a participant in the TechCrunch Startup Battlefield competition.</p><p><img src="https://cdn.prod.website-files.com/635e632477408d12d1811a64/6979f187f7bd9c0676e64c49_best-ai-deepfake-detection-tools.jpg" /></p><hr/><small>28 Sep 2026, 20:15 UTC | #22610</small>]]></content>
+  </entry>
   <entry>
     <title>Syncing the Rust GCC Backend Repository</title>
     <link href="https://blog.guillaume-gomez.fr/articles/2026-09-22+Syncing+Rust+GCC+backend+or+how+to+test+Murphy%27s+law" rel="alternate" />
@@ -854,14 +863,5 @@
     <updated>2026-09-23T22:20:00+00:00</updated>
     <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/958701206/original/a8bce821e4/1?v=1" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://web.archive.org/web/20180603053407/http://article.gmane.org/gmane.comp.lang.lua.general/75426">web.archive.org</a> | <a href="https://lua-users.org/lists/lua-l/2011-02/msg00742.html">source</a> | <a href="https://lobste.rs/s/v4bdwl/re_suggestions_on_implementing">discussion</a></small></p><hr/><p>Mike Pall explains why C compilers struggle to optimize interpreter main loops, noting that they often fail to handle the complex control-flow graphs inherent in switch-based dispatch. Key issues include "diamond-shaped" control flow that disrupts register allocation, the inability to distinguish between fast and slow paths, and the failure of standard heuristics when managing hundreds of slow paths.</p><p>In contrast, Pall suggests that hand-written assembly can achieve significantly better performance through fixed register assignments, isolating slow paths to preserve instruction cache density, and pre-decoding operands. These strategies allow interpreters like LuaJIT to bypass the limitations of general-purpose compilers to achieve high execution efficiency.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/958701206/original/a8bce821e4/1?v=1" /></p><hr/><small>24 Sep 2026, 03:51 UTC | #22170</small>]]></content>
-  </entry>
-  <entry>
-    <title>Inko Introduces Sandboxing API</title>
-    <link href="https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/" rel="alternate" />
-    <id>https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/::v239</id>
-    <published>2026-09-23T20:05:00+00:00</published>
-    <updated>2026-09-23T20:05:00+00:00</updated>
-    <media:thumbnail url="https://www.docker.com/app/uploads/2026/04/image9-1640x549.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/">yorickpeterse.com</a> | <a href="https://lobste.rs/s/zji8bf/sandboxing_with_minimal_effort">discussion</a></small></p><hr/><p>The Inko programming language has introduced a new sandboxing API designed to restrict application capabilities, such as file system and network access, with minimal code changes. The API provides a cross-platform abstraction that leverages OS-specific security primitives, including Landlock on Linux and `sandbox_init` on macOS.</p><p>While the API simplifies security implementation on Linux and macOS, it faces architectural challenges on FreeBSD. Because the Capsicum framework requires developers to manage resource access before entering a sandbox, the API effectively acts as a no-op on FreeBSD unless the application's structure is significantly modified to accommodate the framework's requirements.</p><p><img src="https://www.docker.com/app/uploads/2026/04/image9-1640x549.png" /></p><hr/><small>24 Sep 2026, 01:39 UTC | #22159</small>]]></content>
   </entry>
 </feed>
