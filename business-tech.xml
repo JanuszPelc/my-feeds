@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-28T11:48:00+00:00</updated>
+  <updated>2026-09-28T13:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Vanguard International Semiconductor Considers Second Singapore Plant Following Initial Facility Sell-out</title>
+    <link href="https://asia.nikkei.com/business/tech/semiconductors/tsmc-affiliate-already-eyes-expansion-as-first-singapore-plant-sells-out" rel="alternate" />
+    <id>https://asia.nikkei.com/business/tech/semiconductors/tsmc-affiliate-already-eyes-expansion-as-first-singapore-plant-sells-out::v239</id>
+    <published>2026-09-28T13:54:00+00:00</published>
+    <updated>2026-09-28T13:54:00+00:00</updated>
+    <media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F7%2F4%2F6%2F13236471-1-eng-GB%2F107488506add-c.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=780" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://asia.nikkei.com/business/tech/semiconductors/tsmc-affiliate-already-eyes-expansion-as-first-singapore-plant-sells-out">asia.nikkei.com</a></small></p><hr/><p>Vanguard International Semiconductor (VIS) has inaugurated its first advanced chipmaking plant in Singapore through its joint venture, VisionPower Semiconductor Manufacturing Company (VSMC). The facility's capacity is reportedly already sold out, driven by intense demand for components required for AI infrastructure.</p><p>The VSMC plant is a joint venture between VIS and NXP Semiconductors, targeting high-performance computing, automotive, and industrial applications. Due to the rapid absorption of capacity at the new site, the company is already evaluating the possibility of developing a second manufacturing facility in the region.</p><p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F7%2F4%2F6%2F13236471-1-eng-GB%2F107488506add-c.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=780" /></p><hr/><small>28 Sep 2026, 16:12 UTC | #22541</small>]]></content>
+  </entry>
   <entry>
     <title>Pro-Data Center Event in Washington D.C. Highlights Growing Infrastructure Tensions</title>
     <link href="https://www.washingtonsun.com/national/ai-bros-are-partying-data-center" rel="alternate" />
@@ -940,14 +949,5 @@
     <updated>2026-09-23T16:21:00+00:00</updated>
     <media:thumbnail url="https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/img_be0a7429_comp_006_cc.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://waymo.com/blog/2026/09/transit-rewards/">waymo.com</a> | <a href="https://news.ycombinator.com/item?id=49811065">hacker news</a></small></p><hr/><p>Riders in the San Francisco Bay Area can receive $2.85 in Waymo Cash when they pair a Waymo ride with a public transit trip within a two-hour window. To qualify, users must link a Visa card in the Waymo app. The program will initially be available to Waymo employees before a public rollout in the coming weeks.</p><p>The initiative applies to all 27 Bay Area transit agencies that support contactless Visa tap-to-pay. Waymo also announced a partnership with Caltrain to lease 40 dedicated station parking spaces for staged vehicles, a move intended to facilitate seamless multimodal transfers.</p><p><img src="https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2025/01/img_be0a7429_comp_006_cc.jpg?q=49&fit=crop&w=825&dpr=2" /></p><hr/><small>23 Sep 2026, 20:40 UTC | #22128</small>]]></content>
-  </entry>
-  <entry>
-    <title>OpenAI Increases Sponsored Instagram Posts for ChatGPT</title>
-    <link href="https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9" rel="alternate" />
-    <id>https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9::v239</id>
-    <published>2026-09-23T16:15:00+00:00</published>
-    <updated>2026-09-23T16:15:00+00:00</updated>
-    <media:thumbnail url="https://images.ctfassets.net/kftzwdyauwt9/73QmMtFD4PrKmQkzxO5ErF/2c226c43ba3658e8dab69b1299aa0ebf/OAI_Ad_Blog_Inline-AdMock2_16x9__1_.png?w=3840&amp;q=90&amp;fm=webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9">businessinsider.com</a> | <a href="https://news.ycombinator.com/item?id=49815127">hacker news</a></small></p><hr/><p>OpenAI has significantly scaled its influencer marketing on Instagram to drive user acquisition for ChatGPT. According to data from HypeAuditor, sponsored posts grew from 61 in June to 122 in July, and reached 141 by August.</p><p>This expansion in creator-based advertising coincides with heightened scrutiny regarding AI safety and security. The push for new users via social media reflects a broader trend of major AI labs using influencer partnerships to reach mainstream audiences and manage brand reputation.</p><p><img src="https://images.ctfassets.net/kftzwdyauwt9/73QmMtFD4PrKmQkzxO5ErF/2c226c43ba3658e8dab69b1299aa0ebf/OAI_Ad_Blog_Inline-AdMock2_16x9__1_.png?w=3840&q=90&fm=webp" /></p><hr/><small>23 Sep 2026, 20:15 UTC | #22078</small>]]></content>
   </entry>
 </feed>
