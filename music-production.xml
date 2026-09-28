@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-27T16:22:00+00:00</updated>
+  <updated>2026-09-28T04:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Audiofier Releases Overflow Sound-Design Instrument for Kontakt</title>
+    <link href="https://www.kvraudio.com/news/audiofier-releases-overflow-cinematic-sound-design-instrument-for-kontakt-68755?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68755" rel="alternate" />
+    <id>https://www.kvraudio.com/news/audiofier-releases-overflow-cinematic-sound-design-instrument-for-kontakt-68755?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68755::v239</id>
+    <published>2026-09-28T04:47:00+00:00</published>
+    <updated>2026-09-28T04:47:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/overflow-gui--main-page.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/audiofier-releases-overflow-cinematic-sound-design-instrument-for-kontakt-68755?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68755">kvraudio.com</a> | <a href="https://www.audiofier.co.uk/overflow/">source</a></small></p><hr/><p>Audiofier has released Overflow, a cinematic sound-design instrument for Kontakt built from organic source material. The library utilizes a three-layer architecture consisting of 32 main sources and 81 processed sources categorized as Longs, Ekoes, and Shorts.</p><p>The instrument features various modulation and stereo processing tools, including Pan LFO, pitch drift, and 33 convolution impulses. It also includes a randomization system for generating new layer combinations and an ECO mode designed to reduce CPU requirements.</p><p><img src="https://static.kvraudio.com/i/b/overflow-gui--main-page.jpg" /></p><hr/><small>28 Sep 2026, 09:05 UTC | #22539</small>]]></content>
+  </entry>
+  <entry>
+    <title>Kaizen DSP Releases Choroboros Chorus and Modulation Plugin for macOS</title>
+    <link href="https://www.kvraudio.com/news/kaizen-dsp-releases-choroboros-for-macos-with-17-sound-cores-and-custom-engine-building-68757?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68757" rel="alternate" />
+    <id>https://www.kvraudio.com/news/kaizen-dsp-releases-choroboros-for-macos-with-17-sound-cores-and-custom-engine-building-68757?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68757::v239</id>
+    <published>2026-09-28T04:46:00+00:00</published>
+    <updated>2026-09-28T04:46:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/green-on.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/kaizen-dsp-releases-choroboros-for-macos-with-17-sound-cores-and-custom-engine-building-68757?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68757">kvraudio.com</a> | <a href="https://kaizendsp.com/choroboros">source</a></small></p><hr/><p>Kaizen DSP has released the commercial version of Choroboros, a chorus and modulation plugin for macOS. Version 1.0.5 features 17 sound cores and five prebuilt engines—Green, Blue, Red, Purple, and Black—offering textures from vintage character to experimental modulation. The release also includes a "Create" workspace, allowing users to build custom engines and visual interfaces.</p><p>The plugin supports VST3, AU, AAX, and standalone formats for both Apple Silicon and Intel-based Macs. Users can access the Green and Purple engines for free, or use a 30-day trial to access the full feature set and the $49.99 full license. While currently limited to macOS, the company plans to release versions for Windows and Linux.</p><p><img src="https://static.kvraudio.com/i/b/green-on.webp" /></p><hr/><small>28 Sep 2026, 09:04 UTC | #22538</small>]]></content>
+  </entry>
   <entry>
     <title>Libelula Audio Releases Ultiverb Free Algorithmic Reverb Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/09/27/libelula-audio-ultiverb/" rel="alternate" />
@@ -536,14 +554,5 @@
     <updated>2026-09-23T10:39:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/instrument-player-deal-graphic-6.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ybk-audio-releases-instrument-player---standalone-windows-vst3-player-with-always-on-midi-capture-free-until-october-19-68678?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68678">kvraudio.com</a> | <a href="https://ybkaudio.com/">source</a></small></p><hr/><p>YBK Audio has launched Instrument Player, a standalone Windows application that allows users to play VST3 instruments without a Digital Audio Workstation (DAW). The software features an always-on MIDI capture function that records the last five minutes of performance, an integrated piano-roll editor with quantization, and the ability to chain VST3 effects after the instrument.</p><p>Users can export recorded MIDI sequences as standard .mid files for use in other production software. The application is available for free through October 19, 2026, after which it will transition to a one-time purchase price of $10.</p><p><img src="https://static.kvraudio.com/i/b/instrument-player-deal-graphic-6.png" /></p><hr/><small>23 Sep 2026, 15:18 UTC | #22053</small>]]></content>
-  </entry>
-  <entry>
-    <title>James Hype Reveals 16-Deck DJ Setup</title>
-    <link href="https://musictech.com/news/music/james-hype-16-deck-dj-set-up-rig/" rel="alternate" />
-    <id>https://musictech.com/news/music/james-hype-16-deck-dj-set-up-rig/::v239</id>
-    <published>2026-09-23T08:56:00+00:00</published>
-    <updated>2026-09-23T08:56:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2025/02/James-Hype-new@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/music/james-hype-16-deck-dj-set-up-rig/">musictech.com</a></small></p><hr/><p>The 16-deck setup unveiled by DJ James Hype is designed to push the technical boundaries of live performance. The rig consists of a square arrangement of four tables, each holding four decks, and utilizes four mixers to aggregate the audio from all sixteen players.</p><p>Rather than simply playing 16 tracks simultaneously, the project explores complex hardware integration and networking challenges. Hype is currently in the testing phase to determine the limits of the configuration and how to navigate the expansive physical workspace during a live set.</p><p><img src="https://musictech.com/wp-content/uploads/2025/02/James-Hype-new@2000x1500.jpg" /></p><hr/><small>23 Sep 2026, 14:02 UTC | #22051</small>]]></content>
   </entry>
 </feed>
