@@ -878,13 +878,4 @@
     <media:thumbnail url="https://docs.github.com/assets/cb-137701/images/help/repository/os-repo-with-topics.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://michaelheap.com/github-wiki-is-an-antipattern/">michaelheap.com</a> | <a href="https://lobste.rs/s/d339rn/github_wiki_is_anti_pattern">discussion</a> | <a href="https://news.ycombinator.com/item?id=49815484">hacker news</a></small></p><hr/><p>Maintaining project documentation in a `/docs` folder within a repository is presented as a superior alternative to using GitHub's built-in wiki feature. Using a dedicated directory allows documentation to be versioned alongside the codebase, enabling peer reviews through standard pull request workflows and automated linting via GitHub Actions.</p><p>The author recommends using GitHub Pages to host the documentation and treating the wiki as a simple redirection tool. This approach ensures that documentation remains accessible locally when a repository is cloned and supports professional tooling and branding.</p><p><img src="https://docs.github.com/assets/cb-137701/images/help/repository/os-repo-with-topics.png" /></p><hr/><small>23 Sep 2026, 15:27 UTC | #22093</small>]]></content>
   </entry>
-  <entry>
-    <title>Nospace Software Automates Spacebar Input</title>
-    <link href="https://levmiseri.com/nospace" rel="alternate" />
-    <id>https://levmiseri.com/nospace::v239</id>
-    <published>2026-09-23T10:44:00+00:00</published>
-    <updated>2026-09-23T10:44:00+00:00</updated>
-    <media:thumbnail url="https://carapace-sh.github.io/carapace/development/vhs/nospace/out/nospace.fish.gif" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://levmiseri.com/nospace">levmiseri.com</a> | <a href="https://github.com/riesvile/nospace">source</a> | <a href="https://lobste.rs/s/ayyuqc/jev_powered_autocorrection">discussion</a></small></p><hr/><p>Nospace automates space insertion to allow users to type text without manually using the spacebar. This utility enables a continuous typing stream by handling space placement automatically.</p><p>Developed by riesvile and hosted on GitHub, the project supports experimentation with alternative keyboarding workflows.</p><p><img src="https://carapace-sh.github.io/carapace/development/vhs/nospace/out/nospace.fish.gif" /></p><hr/><small>23 Sep 2026, 15:25 UTC | #22102</small>]]></content>
-  </entry>
 </feed>
