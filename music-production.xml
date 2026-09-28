@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-28T18:13:00+00:00</updated>
+  <updated>2026-09-28T18:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Ross Audio Updates Substance Bass Processor to v1.0.4</title>
+    <link href="https://www.kvraudio.com/news/ross-audio-updates-substance-bass-processor-for-windows-and-linux-to-v1-0-4-68789?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68789" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ross-audio-updates-substance-bass-processor-for-windows-and-linux-to-v1-0-4-68789?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68789::v239</id>
+    <published>2026-09-28T18:28:00+00:00</published>
+    <updated>2026-09-28T18:28:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/substance-1-0-4-kvr-1280x720.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ross-audio-updates-substance-bass-processor-for-windows-and-linux-to-v1-0-4-68789?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68789">kvraudio.com</a> | <a href="https://misterrickross.com/substance/en/">source</a></small></p><hr/><p>Ross Audio has released version 1.0.4 of Substance, a bass processor for Windows and Linux available as a VST3 plugin or standalone application. The update improves the Linux standalone version by providing a dedicated application icon and an uninstaller.</p><p>The software includes a "Learn My Bass" feature to analyze an instrument's response and offers five distinct processing engines. Substance Pro is available for $59, and a macOS version is currently on the development roadmap.</p><p><img src="https://static.kvraudio.com/i/b/substance-1-0-4-kvr-1280x720.png" /></p><hr/><small>28 Sep 2026, 23:26 UTC | #22641</small>]]></content>
+  </entry>
   <entry>
     <title>killihu Releases GraphEQ for Ableton Live</title>
     <link href="https://www.kvraudio.com/news/killihu-releases-grapheq-for-ableton-live-68788?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68788" rel="alternate" />
