@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-28T03:51:00+00:00</updated>
+  <updated>2026-09-28T04:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Expert Asterisk in Technical Communication</title>
+    <link href="https://nedbatchelder.com/blog/202609/expert_asterisks" rel="alternate" />
+    <id>https://nedbatchelder.com/blog/202609/expert_asterisks::v239</id>
+    <published>2026-09-28T04:53:00+00:00</published>
+    <updated>2026-09-28T04:53:00+00:00</updated>
+    <media:thumbnail url="https://i.pinimg.com/originals/70/46/fe/7046fed5bc625439bcf6a6c408724e60.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nedbatchelder.com/blog/202609/expert_asterisks">nedbatchelder.com</a> | <a href="https://lobste.rs/s/0knxvq/expert_asterisks">discussion</a></small></p><hr/><p>This communication pattern involves experts providing esoteric or overly detailed facts that are irrelevant to a beginner's immediate needs. Such "asterisks" act as technical footnotes that can distract novices and cause them to lose track of their original questions.</p><p>In technical discussions, these tangents can lead to cluttered exchanges where multiple experts offer complex, "little-traveled" alternatives. Effective teaching requires addressing the learner's specific context and language rather than providing an exhaustive list of technical options the beginner is not yet prepared to navigate.</p><p><img src="https://i.pinimg.com/originals/70/46/fe/7046fed5bc625439bcf6a6c408724e60.jpg" /></p><hr/><small>28 Sep 2026, 09:26 UTC | #22542</small>]]></content>
+  </entry>
   <entry>
     <title>Limits of AI Expertise in Assessing Existential Risks</title>
     <link href="https://bcantrill.dtrace.org/2026/09/27/fools-expertise/" rel="alternate" />
