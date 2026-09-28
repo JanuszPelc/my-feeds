@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-28T02:06:00+00:00</updated>
+  <updated>2026-09-28T02:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Ursula von der Leyen Addresses AI Policy Gaps and EU AI Act Enforcement Challenges</title>
+    <link href="https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html?unlocked_article_code=1.EVE.pIjx.cWi1OAuTAjxQ&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html?unlocked_article_code=1.EVE.pIjx.cWi1OAuTAjxQ&amp;smid=url-share::v239</id>
+    <published>2026-09-28T02:07:00+00:00</published>
+    <updated>2026-09-28T02:07:00+00:00</updated>
+    <media:thumbnail url="https://webp.br.cdn.pxr.nl/news/2025/10/04/10ebbf40baa5676c4e8000badc677cae58c0e249.jpg?width=1200" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html?unlocked_article_code=1.EVE.pIjx.cWi1OAuTAjxQ&smid=url-share">nytimes.com</a></small></p><hr/><p>Ursula von der Leyen, President of the European Commission, held a meeting with senior officials to address the global policy vacuum created by the rapid advancement of artificial intelligence. The talks addressed enforcement delays within the EU AI Act and the tension between promoting AI innovation and managing its associated risks.</p><p>As the enforcement of certain EU AI Act provisions began in August 2026, regulators have encountered difficulties in maintaining effective oversight. This gap illustrates the broader challenge of establishing stable international policy as the speed of AI development continues to outstrip regulatory capabilities.</p><p><img src="https://webp.br.cdn.pxr.nl/news/2025/10/04/10ebbf40baa5676c4e8000badc677cae58c0e249.jpg?width=1200" /></p><hr/><small>28 Sep 2026, 04:59 UTC | #22519</small>]]></content>
+  </entry>
   <entry>
     <title>Eric Gullichsen Claims $1 Billion in Unclaimed NVIDIA Stock</title>
     <link href="https://colo.to/nvidia-stock-narrative.html" rel="alternate" />
