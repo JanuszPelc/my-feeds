@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-27T20:18:00+00:00</updated>
+  <updated>2026-09-27T20:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>iPod Classic Earbud Remote Support Enabled via Mikey Chip Reverse Engineering</title>
+    <link href="https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/" rel="alternate" />
+    <id>https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/::v239</id>
+    <published>2026-09-27T20:20:00+00:00</published>
+    <updated>2026-09-27T20:20:00+00:00</updated>
+    <media:thumbnail url="https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/ipod-classic-rockbox-inline-remote-earbuds.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/">terminalbytes.com</a> | <a href="https://lobste.rs/s/czoeax/reverse_engineering_ipod_classic_s">discussion</a></small></p><hr/><p>The "Mikey" chip, an undocumented controller within the iPod Classic, has been reverse engineered to support inline earbud remote buttons within the Rockbox custom firmware. The implementation enables play/pause and volume controls via the physical buttons on wired Apple accessories.</p><p>The research discovered a hardware-driven latency where the chip's event engine enters a low-power state after five seconds of inactivity, causing button release events to be reported up to 1.8 seconds late. A driver for this functionality is currently under review for upstream inclusion in the Rockbox codebase.</p><p><img src="https://terminalbytes.com/reverse-engineering-ipod-classic-mikey-chip/ipod-classic-rockbox-inline-remote-earbuds.jpg" /></p><hr/><small>28 Sep 2026, 00:13 UTC | #22521</small>]]></content>
+  </entry>
   <entry>
     <title>Using Custom Domains to Decouple Go Code from Git Hosting Providers</title>
     <link href="https://iain.rocks/blog/dont-couple-your-go-code-to-github" rel="alternate" />
