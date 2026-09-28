@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-28T02:07:00+00:00</updated>
+  <updated>2026-09-28T03:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Open Models Surge in US Earnings Calls and AI Workloads</title>
+    <link href="https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd" rel="alternate" />
+    <id>https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd::v239</id>
+    <published>2026-09-28T03:52:00+00:00</published>
+    <updated>2026-09-28T03:52:00+00:00</updated>
+    <media:thumbnail url="https://simg.baai.ac.cn/hub-detail/e3e2d1174fda9de8774963102b13e5381765344011325.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd">ft.com</a></small></p><hr/><p>Enterprise adoption of open-weight AI models is rising rapidly, with mentions in US earnings calls increasing sixfold year-over-year. Data from Vercel indicates that open models accounted for 56% of token volume in August, while AT&amp;T reports they represent 40% of its AI workloads.</p><p>This trend reflects a move away from exclusive reliance on providers like OpenAI and Anthropic. The adoption of Chinese-developed alternatives indicates a diversifying global market as businesses seek more flexible or cost-effective AI infrastructure.</p><p><img src="https://simg.baai.ac.cn/hub-detail/e3e2d1174fda9de8774963102b13e5381765344011325.webp" /></p><hr/><small>28 Sep 2026, 07:28 UTC | #22522</small>]]></content>
+  </entry>
   <entry>
     <title>Ursula von der Leyen Addresses AI Policy Gaps and EU AI Act Enforcement Challenges</title>
     <link href="https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html?unlocked_article_code=1.EVE.pIjx.cWi1OAuTAjxQ&amp;smid=url-share" rel="alternate" />
