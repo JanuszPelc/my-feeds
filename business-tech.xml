@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-27T20:17:00+00:00</updated>
+  <updated>2026-09-27T20:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Jaan Tallinn: Anthropic Investor and AI Safety Advocate</title>
+    <link href="https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181?st=cB1SVM&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181?st=cB1SVM&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-09-27T20:21:00+00:00</published>
+    <updated>2026-09-27T20:21:00+00:00</updated>
+    <media:thumbnail url="https://i.gzn.jp/img/2026/02/13/anthropic-30-billion-series-g-funding/02_m.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181?st=cB1SVM&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Having led Anthropic's $124 million Series A in 2021, this prominent investor has spent over a decade championing AI safety. He has donated approximately $170 million toward initiatives aimed at mitigating the existential risks posed by advanced artificial intelligence.</p><p>The profile examines Tallinn's warnings about the potential dangers of a global race to develop transformative technology and his background as a developer for Skype. It also highlights his personal interest in hip-hop dancing.</p><p><img src="https://i.gzn.jp/img/2026/02/13/anthropic-30-billion-series-g-funding/02_m.png" /></p><hr/><small>28 Sep 2026, 00:59 UTC | #22507</small>]]></content>
+  </entry>
   <entry>
     <title>China May Allow Alibaba and ByteDance to Purchase Nvidia RTX Pro 5500 Chips</title>
     <link href="https://www.theinformation.com/articles/china-weighs-allowing-purchases-new-nvidia-chips-bytedance-alibaba" rel="alternate" />
