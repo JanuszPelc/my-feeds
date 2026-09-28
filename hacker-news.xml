@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-28T02:10:00+00:00</updated>
+  <updated>2026-09-28T03:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Self-Hosting Websites via Tor Hidden Services</title>
+    <link href="https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/" rel="alternate" />
+    <id>https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/::v239</id>
+    <published>2026-09-28T03:55:00+00:00</published>
+    <updated>2026-09-28T03:55:00+00:00</updated>
+    <media:thumbnail url="https://appscross.com/wp-content/uploads/2024/05/torc.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/">david.alvarezrosa.com</a> | <a href="https://news.ycombinator.com/item?id=49870295">hacker news</a></small></p><hr/><p>Hosting a website as a Tor hidden service provides access via a .onion address, which relies on public-key derivation rather than DNS or exposed IP addresses. Configuration involves mapping a hidden service to a local port in the torrc file and setting up an Nginx server block to listen on that port.</p><p>To ensure absolute links function correctly, a secondary site build is required where the .onion address serves as the base URL. An automated pipeline can manage this by building both the clearnet and Tor versions of the site and rsyncing them to their respective web roots.</p><p><img src="https://appscross.com/wp-content/uploads/2024/05/torc.png" /></p><hr/><small>28 Sep 2026, 08:18 UTC | #22535</small>]]></content>
+  </entry>
   <entry>
     <title>Replacing the Battery in Old Rechargeable Bike Lights</title>
     <link href="https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/" rel="alternate" />
