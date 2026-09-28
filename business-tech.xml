@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-28T18:15:00+00:00</updated>
+  <updated>2026-09-28T18:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Florida Attorney General Seeks Emergency Injunction Against OpenAI and ChatGPT</title>
+    <link href="https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier" rel="alternate" />
+    <id>https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier::v239</id>
+    <published>2026-09-28T18:17:00+00:00</published>
+    <updated>2026-09-28T18:17:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/28/florida-openai-chatgpt-injunction-uthmeier">axios.com</a> | <a href="https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-temporary-injunction-against-openai-and-its-ceo">source</a></small></p><hr/><p>Florida Attorney General James Uthmeier has filed an emergency injunction against OpenAI, asserting the company lacks the capacity to adequately self-regulate its technology. The legal action cites concerns over inadequate safeguards for minors and broader AI safety failures.</p><p>This filing is an escalation of a June lawsuit brought by the state against the company and CEO Sam Altman. The litigation highlights a growing tension between state-level efforts to restrict AI development and the current absence of established federal regulatory frameworks.</p><hr/><small>28 Sep 2026, 21:52 UTC | #22607</small>]]></content>
+  </entry>
   <entry>
     <title>Cal Newport Urges Congressional Investigation into OpenAI and Anthropic</title>
     <link href="https://calnewport.com/its-time-to-investigate-the-ai-labs/" rel="alternate" />
