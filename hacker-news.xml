@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-28T16:12:00+00:00</updated>
+  <updated>2026-09-28T17:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Windows 11½ Parody Site Mocks Modern Software Trends</title>
+    <link href="https://definitelynotwindows.com/" rel="alternate" />
+    <id>https://definitelynotwindows.com/::v239</id>
+    <published>2026-09-28T17:52:00+00:00</published>
+    <updated>2026-09-28T17:52:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://definitelynotwindows.com/">definitelynotwindows.com</a> | <a href="https://news.ycombinator.com/item?id=49881747">hacker news</a></small></p><hr/><p>Windows 11½ is a parody website that simulates an operating system to satirize modern software trends, including subscription models, AI integration, intrusive advertisements, and storage notifications. It is a non-functional experience designed for humor and commentary.</p><p>The project is an independent creation with no affiliation to Microsoft Corporation. It uses browser storage to track site engagement via an anonymous visitor counter.</p><hr/><small>28 Sep 2026, 19:15 UTC | #22628</small>]]></content>
+  </entry>
   <entry>
     <title>AI-Driven Development and the Erosion of Engineering Knowledge</title>
     <link href="https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/" rel="alternate" />
