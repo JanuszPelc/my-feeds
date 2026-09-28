@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-28T03:55:00+00:00</updated>
+  <updated>2026-09-28T04:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Lisp Syntax and the Cognitive Basis of Readability</title>
+    <link href="https://paultm.nl/paren-thesis" rel="alternate" />
+    <id>https://paultm.nl/paren-thesis::v239</id>
+    <published>2026-09-28T04:45:00+00:00</published>
+    <updated>2026-09-28T04:45:00+00:00</updated>
+    <media:thumbnail url="https://www.cadtutor.net/tutorials/autolisp/quick_start/qs-101.gif" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://paultm.nl/paren-thesis">paultm.nl</a> | <a href="https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read">discussion</a></small></p><hr/><p>Lisp's parenthesis-heavy notation is often perceived as more difficult to read than C-style languages due to fundamental aspects of human perception. The author argues that this challenge is rooted in cognitive processes rather than just a lack of familiarity with the syntax.</p><p>The text applies Gestalt laws—specifically proximity, closure, and symmetry—to demonstrate how delimiter placement and spacing affect visual grouping and scanning efficiency. It also details how deep nesting taxes the "mental stack" of short-term memory and how mismatches between reading order and evaluation order increase cognitive load.</p><p><img src="https://www.cadtutor.net/tutorials/autolisp/quick_start/qs-101.gif" /></p><hr/><small>28 Sep 2026, 08:37 UTC | #22537</small>]]></content>
+  </entry>
   <entry>
     <title>Self-Hosting Websites via Tor Hidden Services</title>
     <link href="https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/" rel="alternate" />
