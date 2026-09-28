@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-28T05:15:00+00:00</updated>
+  <updated>2026-09-28T10:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Tunary Instruments Opens Mac Beta for Tunary Creator</title>
+    <link href="https://www.kvraudio.com/news/tunary-instruments-opens-tunary-creator-mac-beta-68760?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68760" rel="alternate" />
+    <id>https://www.kvraudio.com/news/tunary-instruments-opens-tunary-creator-mac-beta-68760?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68760::v239</id>
+    <published>2026-09-28T10:07:00+00:00</published>
+    <updated>2026-09-28T10:07:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/gen-current.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/tunary-instruments-opens-tunary-creator-mac-beta-68760?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68760">kvraudio.com</a> | <a href="https://creator.tunaryinstruments.com/">source</a></small></p><hr/><p>Tunary Instruments has released the Mac beta for Tunary Creator, a web-based tool for designing audio plugins without coding. Users can build synthesizers, self-generating instruments, and audio effects by connecting modular blocks, shaping modulation, and creating custom faceplates.</p><p>The Mac beta supports Apple Silicon and Intel-based Macs running macOS 11 or later, utilizing Audio Unit and VST3 plugin formats. New beta accounts receive 300 free credits to unlock creations, add MIDI output, or include custom artwork. While this beta version focuses on development, the company intends to add features for selling custom creations in a future update.</p><p><img src="https://static.kvraudio.com/i/b/gen-current.png" /></p><hr/><small>28 Sep 2026, 15:09 UTC | #22594</small>]]></content>
+  </entry>
+  <entry>
+    <title>Bitlantis Updates Kveik MIDI Step Sequencer to v1.4</title>
+    <link href="https://www.kvraudio.com/news/bitlantis-updates-kveik-midi-step-sequencer-to-v1-4-with-cc-sequencing-per-parameter-loops-and-a-standalone-app-68773?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68773" rel="alternate" />
+    <id>https://www.kvraudio.com/news/bitlantis-updates-kveik-midi-step-sequencer-to-v1-4-with-cc-sequencing-per-parameter-loops-and-a-standalone-app-68773?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68773::v239</id>
+    <published>2026-09-28T10:06:00+00:00</published>
+    <updated>2026-09-28T10:06:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/kvrnews1-4.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/bitlantis-updates-kveik-midi-step-sequencer-to-v1-4-with-cc-sequencing-per-parameter-loops-and-a-standalone-app-68773?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68773">kvraudio.com</a> | <a href="https://kveik.ch/">source</a></small></p><hr/><p>Bitlantis has released version 1.4 of its Kveik MIDI step sequencer, adding CC sequencing, per-parameter loops, and a standalone application for macOS and Windows. The update allows users to send MIDI controller values through multiple independent curves and set custom loop ranges for individual parameters.</p><p>Other enhancements include a 'HOLD' feature for continuous note playback, expanded MIDI import support for various drum maps, and a compact layout mode. Kveik is priced at $49 for macOS and Windows, and the v1.4 update is free for existing users.</p><p><img src="https://static.kvraudio.com/i/b/kvrnews1-4.jpg" /></p><hr/><small>28 Sep 2026, 15:08 UTC | #22551</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sojus Records Updates Ensoniq SD-1/32 Emulation to v1.0.2</title>
+    <link href="https://www.kvraudio.com/news/sojus-records-updates-ensoniq-sd-1-32-vst3-au-emulation-to-v1-0-2-68779?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68779" rel="alternate" />
+    <id>https://www.kvraudio.com/news/sojus-records-updates-ensoniq-sd-1-32-vst3-au-emulation-to-v1-0-2-68779?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68779::v239</id>
+    <published>2026-09-28T10:04:00+00:00</published>
+    <updated>2026-09-28T10:04:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/sd-1news.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/sojus-records-updates-ensoniq-sd-1-32-vst3-au-emulation-to-v1-0-2-68779?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68779">kvraudio.com</a> | <a href="https://www.sojusrecords.com/news/ensoniq-sd-1-32-vst-emulation-free">source</a></small></p><hr/><p>Sojus Records has released version 1.0.2 of its free, open-source Ensoniq SD-1/32 VST3/AU emulation. This update introduces VST automation for any slider or button on the interface and enables the internal sequencer to synchronize with DAW transport and BPM.</p><p>The software utilizes MAME-based cycle-accurate hardware emulation to recreate the original synthesizer's architecture, effects, and workflow rather than relying on simple sampling. Users must provide their own original hardware ROM files for the plugin to function.</p><p><img src="https://static.kvraudio.com/i/b/sd-1news.webp" /></p><hr/><small>28 Sep 2026, 15:06 UTC | #22547</small>]]></content>
+  </entry>
   <entry>
     <title>InnerMost47 Releases OBSIDIAN Neural v3.2.0 as Free and Open Source</title>
     <link href="https://www.kvraudio.com/news/innermost47-updates-obsidian-neural-to-v3-2-0---now-free-and-open-source-modulators-and-self-hosted-gpu-server-68766?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68766" rel="alternate" />
@@ -518,14 +545,5 @@
     <updated>2026-09-23T16:14:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/atmospheres-2-gui.webp" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/zak-sound-releases-atmospheres-2---free-reverb-with-text-prompts-vst3-au-and-aax-68688?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68688">kvraudio.com</a> | <a href="https://zaksound.com/atmospheres-2">source</a></small></p><hr/><p>ZAK Sound has released Atmospheres 2, a free reverb plugin for macOS, Windows, and Linux. The software allows users to generate custom reverberation textures and spatial environments by entering descriptive text prompts.</p><p>The plugin incorporates technology from Deep Waters 2 and operates entirely offline, requiring no account registration or internet connection. It is available in VST3, AU, and AAX formats, with mobile versions also available for iOS and iPadOS.</p><p><img src="https://static.kvraudio.com/i/b/atmospheres-2-gui.webp" /></p><hr/><small>23 Sep 2026, 19:48 UTC | #22097</small>]]></content>
-  </entry>
-  <entry>
-    <title>CRQL Releases CRUMPETS Cepstral Formant Shifting Plugin</title>
-    <link href="https://www.kvraudio.com/news/crql-releases-crumpets---cepstral-formant-shifting-plugin-vst3-clap-au-68703?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68703" rel="alternate" />
-    <id>https://www.kvraudio.com/news/crql-releases-crumpets---cepstral-formant-shifting-plugin-vst3-clap-au-68703?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68703::v239</id>
-    <published>2026-09-23T15:32:00+00:00</published>
-    <updated>2026-09-23T15:32:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/crumpets_interface.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/crql-releases-crumpets---cepstral-formant-shifting-plugin-vst3-clap-au-68703?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68703">kvraudio.com</a> | <a href="https://crql.works/crumpets">source</a></small></p><hr/><p>CRQL has released CRUMPETS, an audio plugin that uses a cepstral approach for formant shifting and cepstral gating. By processing audio in the cepstrum domain, the plugin separates the formant and harmonic components of a signal.</p><p>Available in VST3, CLAP, and AU formats for macOS, Windows, and Linux, the plugin costs £13. It features mid/side formant shifting, a cepstral gate for harmonic content, and control via MIDI or monophonic fundamental tracking.</p><p><img src="https://static.kvraudio.com/i/b/crumpets_interface.png" /></p><hr/><small>23 Sep 2026, 19:20 UTC | #22089</small>]]></content>
   </entry>
 </feed>

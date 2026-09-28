@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-28T07:53:00+00:00</updated>
+  <updated>2026-09-28T11:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Redirecting PS5 RTMP Streams via DNS Spoofing</title>
+    <link href="https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/" rel="alternate" />
+    <id>https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/::v239</id>
+    <published>2026-09-28T11:46:00+00:00</published>
+    <updated>2026-09-28T11:46:00+00:00</updated>
+    <media:thumbnail url="https://www.trendmicro.com/content/dam/trendmicro/global/en/what-is/spoofing/what-is-spoofing-attack.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/">yashgarg.dev</a> | <a href="https://lobste.rs/s/8oyww7/hijacking_ps5_s_rtmp_stream">discussion</a></small></p><hr/><p>This technical walkthrough describes a method to intercept PlayStation 5 RTMP streams using DNS spoofing to bypass the need for hardware capture cards. By configuring dnsmasq to resolve Twitch ingest hostnames to a local IP, the console's broadcast can be redirected to an nginx-rtmp server on a host computer. This allows for low-latency gameplay capture and streaming via software like OBS or mpv.</p><p>The setup relies on configuring a router to provide custom DNS settings via DHCP to the console. The method specifically targets subdomains of contribute.live-video.net to circumvent RTMPS certificate requirements and YouTube API check failures. The author has released the implementation as an open-source tool on GitHub.</p><p><img src="https://www.trendmicro.com/content/dam/trendmicro/global/en/what-is/spoofing/what-is-spoofing-attack.webp" /></p><hr/><small>28 Sep 2026, 15:17 UTC | #22589</small>]]></content>
+  </entry>
+  <entry>
+    <title>Parley Enables Federated Chat via Standard IRC Clients</title>
+    <link href="https://git.mills.io/prologic/parley" rel="alternate" />
+    <id>https://git.mills.io/prologic/parley::v239</id>
+    <published>2026-09-28T10:31:00+00:00</published>
+    <updated>2026-09-28T10:31:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://git.mills.io/prologic/parley">git.mills.io</a> | <a href="https://news.ycombinator.com/item?id=49875913">hacker news</a></small></p><hr/><p>This decentralized, federated chat network allows communication through standard IRC clients like irssi or WeeChat without requiring plugins. DNS SRV records and well-known identity documents facilitate instance discovery, enabling peers to exchange signed HTTPS messages and form an automatic mesh network.</p><p>Users are identified by email-style addresses, with support for both global, replicated channels and local, instance-only channels. Persistent, searchable chat history syncs across clients, and moderation is managed via blocklists rather than centralized channel ownership. The project is currently in a working proof-of-concept stage.</p><hr/><small>28 Sep 2026, 15:15 UTC | #22602</small>]]></content>
+  </entry>
   <entry>
     <title>Video Player Developed for Pharmacy LED Cross</title>
     <link href="https://hugoarnal.com/blog/rickroll-pharmacy-cross/" rel="alternate" />
@@ -858,14 +875,5 @@
     <updated>2026-09-23T15:33:00+00:00</updated>
     <media:thumbnail url="https://www.intechopen.com/media/chapter/66938/media/F3.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://andanti.no/blog/SignedMesh.html">andanti.no</a> | <a href="https://lobste.rs/s/r3ydgj/i_want_my_mesh_networks_be_signed_not">discussion</a></small></p><hr/><p>Mesh network protocols could use digital signatures for sender authentication while maintaining cleartext message transmissions. This approach aims to facilitate use within amateur radio bands, where total encryption is often prohibited but verifying the identity of transmitters is necessary for regulatory compliance and network management.</p><p>The design offers benefits like increased network transparency and easier filtering of unauthorized users, but faces challenges including higher bandwidth overhead for signatures, potential loss of privacy, and the need for a Public Key Infrastructure (PKI) to manage authentication.</p><p><img src="https://www.intechopen.com/media/chapter/66938/media/F3.png" /></p><hr/><small>23 Sep 2026, 19:24 UTC | #22124</small>]]></content>
-  </entry>
-  <entry>
-    <title>Loris Cro Outlines the Zig Programming Language Journey</title>
-    <link href="https://kristoff.it/blog/the-zig-journey/" rel="alternate" />
-    <id>https://kristoff.it/blog/the-zig-journey/::v239</id>
-    <published>2026-09-23T15:26:00+00:00</published>
-    <updated>2026-09-23T15:26:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/OFfqnFrjVYE/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kristoff.it/blog/the-zig-journey/">kristoff.it</a> | <a href="https://lobste.rs/s/5xxm0v/zig_journey">discussion</a></small></p><hr/><p>Loris Cro, VP of Community at the Zig Software Foundation, outlines a three-tiered approach for developers using the Zig programming language. The framework suggests that newcomers should prioritize understanding target systems over high-level frameworks, intermediate users should focus on designing code behavior and dependency management, and advanced users should aim for full functional completeness and project ownership.</p><p>The advice, shared during a speech at Zigtoberfest, advocates for a systems programming philosophy that emphasizes direct control over hardware and dependencies. This approach is designed to help developers transcend high-level abstractions and become more effective engineers by maintaining a deep understanding of the underlying machine.</p><p><img src="https://i.ytimg.com/vi/OFfqnFrjVYE/maxresdefault.jpg" /></p><hr/><small>23 Sep 2026, 18:44 UTC | #22115</small>]]></content>
   </entry>
 </feed>
