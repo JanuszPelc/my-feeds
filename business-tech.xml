@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-28T10:03:00+00:00</updated>
+  <updated>2026-09-28T11:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Pro-Data Center Event in Washington D.C. Highlights Growing Infrastructure Tensions</title>
+    <link href="https://www.washingtonsun.com/national/ai-bros-are-partying-data-center" rel="alternate" />
+    <id>https://www.washingtonsun.com/national/ai-bros-are-partying-data-center::v239</id>
+    <published>2026-09-28T11:48:00+00:00</published>
+    <updated>2026-09-28T11:48:00+00:00</updated>
+    <media:thumbnail url="https://static.washingtonsun.com/dims4/default/b84e418/2147483647/strip/true/crop/6240x4160+0+0/resize/2000x1333!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1f%2Ff7%2F3af52f214edf9e4bd1a9d00e6a72%2Fposters.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.washingtonsun.com/national/ai-bros-are-partying-data-center">washingtonsun.com</a></small></p><hr/><p>Hundreds of tech executives, engineers, and policymakers attended "Data After Dark," a pro-data center celebration held at PubKey in Washington D.C. Organized by figures from libertarian and conservative spaces, the event was intended to counter growing local and political opposition to the expansion of data center infrastructure.</p><p>Speakers at the gathering advocated for rapid technological development and global competitiveness, while protesters interrupted the event to raise concerns about environmental impacts and AI-related risks. The event underscored the intensifying social and political friction surrounding the physical footprint of the digital economy.</p><p><img src="https://static.washingtonsun.com/dims4/default/b84e418/2147483647/strip/true/crop/6240x4160+0+0/resize/2000x1333!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1f%2Ff7%2F3af52f214edf9e4bd1a9d00e6a72%2Fposters.jpeg" /></p><hr/><small>28 Sep 2026, 15:47 UTC | #22540</small>]]></content>
+  </entry>
+  <entry>
+    <title>Bae Kyung-hoon Drives South Korea's National AI Integration</title>
+    <link href="https://www.ft.com/content/2c5e6862-65b6-4569-8c03-464e686ea88e?accessToken=zwAAAaDhYp8Bkc8sXmhiZbZFadOMA0ZOaG6ojg.MEQCIE-YTZhEZ3QfvDYycE_KNw2U5e2PLJ2sSUUB8KHB3D-wAiAB98RAEoQ0qRmtEjTgcwETuTVXkwStdrpzxYuVsDU5Vg&amp;sharetype=gift&amp;token=63f0039a-07e7-448a-838a-ba83bb78e597" rel="alternate" />
+    <id>https://www.ft.com/content/2c5e6862-65b6-4569-8c03-464e686ea88e?accessToken=zwAAAaDhYp8Bkc8sXmhiZbZFadOMA0ZOaG6ojg.MEQCIE-YTZhEZ3QfvDYycE_KNw2U5e2PLJ2sSUUB8KHB3D-wAiAB98RAEoQ0qRmtEjTgcwETuTVXkwStdrpzxYuVsDU5Vg&amp;sharetype=gift&amp;token=63f0039a-07e7-448a-838a-ba83bb78e597::v239</id>
+    <published>2026-09-28T11:47:00+00:00</published>
+    <updated>2026-09-28T11:47:00+00:00</updated>
+    <media:thumbnail url="https://www.thenews.com.pk/assets/uploads/2026-05-24/1403643_032016_updates.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/2c5e6862-65b6-4569-8c03-464e686ea88e?accessToken=zwAAAaDhYp8Bkc8sXmhiZbZFadOMA0ZOaG6ojg.MEQCIE-YTZhEZ3QfvDYycE_KNw2U5e2PLJ2sSUUB8KHB3D-wAiAB98RAEoQ0qRmtEjTgcwETuTVXkwStdrpzxYuVsDU5Vg&sharetype=gift&token=63f0039a-07e7-448a-838a-ba83bb78e597">ft.com</a></small></p><hr/><p>South Korean Deputy Prime Minister Bae Kyung-hoon is spearheading large-scale, state-funded programs to integrate artificial intelligence into the country's core infrastructure. A former AI researcher, Bae advocates for the technology to be treated as a fundamental utility, similar to electricity, to ensure nationwide adoption across all sectors.</p><p>This aggressive push for AI ubiquity takes place alongside growing concerns regarding the potential catastrophic risks of rapid technological deployment. His initiatives reflect South Korea's strategic ambition to lead in the global AI race through massive public investment and centralized policy direction.</p><p><img src="https://www.thenews.com.pk/assets/uploads/2026-05-24/1403643_032016_updates.jpg" /></p><hr/><small>28 Sep 2026, 15:44 UTC | #22536</small>]]></content>
+  </entry>
   <entry>
     <title>Cloudflare CEO Matthew Prince Discusses AI-Driven Web Traffic and New Monetization Models</title>
     <link href="https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising" rel="alternate" />
