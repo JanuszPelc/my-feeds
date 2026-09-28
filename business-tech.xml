@@ -1004,13 +1004,4 @@
     <updated>2026-09-23T12:18:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/german-dutch-strategic-innovation-agencies-collaborate-ai-chip-design-2026-09-23/">reuters.com</a></small></p><hr/><p>NADI and Germany’s SPRIND have launched a €40 million joint program to accelerate semiconductor design using artificial intelligence. The 20-month initiative will fund small teams working to develop chips for AI training and inference while significantly reducing development cycles.</p><p>The collaboration aims to strengthen Europe's strategic semiconductor capabilities and shorten chip development timelines from years to weeks. By funding radical innovations in pan-European chip design, the agencies seek to bolster the continent's technological autonomy.</p><hr/><small>23 Sep 2026, 15:48 UTC | #22049</small>]]></content>
   </entry>
-  <entry>
-    <title>Jordan Petridis Proposes Ban on LLM-Generated Contributions to GNOME</title>
-    <link href="https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/" rel="alternate" />
-    <id>https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/::v239</id>
-    <published>2026-09-23T10:29:00+00:00</published>
-    <updated>2026-09-25T15:51:00+00:00</updated>
-    <media:thumbnail url="https://extensions.gnome.org/extension-data/screenshots/screenshot_8840.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/">blogs.gnome.org</a> | <a href="https://lobste.rs/s/kras1h/gnome_llm_policy_i_want">discussion</a> | <a href="https://news.ycombinator.com/item?id=49845406">hacker news</a></small></p><hr/><p>Jordan Petridis proposes a strict policy for the GNOME Project that would prohibit the use of Large Language Models (LLMs) to create or modify any content submitted to or hosted on GNOME infrastructure. The proposal argues that such policies should serve to shape social norms and protect the human-centric, collaborative nature of open-source communities rather than just regulating technical workflows.</p><p>The piece highlights risks associated with AI-generated code, including the potential for human contributors to be relegated to unpaid labor for corporate AI training or review. Petridis argues that prioritizing the social and human aspects of software creation is essential for maintaining an attractive and sustainable community for future developers.</p><p><img src="https://extensions.gnome.org/extension-data/screenshots/screenshot_8840.png" /></p><hr/><small>23 Sep 2026, 14:04 UTC | #22079</small>]]></content>
-  </entry>
 </feed>

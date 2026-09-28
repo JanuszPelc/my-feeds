@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-28T04:45:00+00:00</updated>
+  <updated>2026-09-28T05:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Citrix Confirms Active Exploitation of Two NetScaler RCE Zero-Days</title>
+    <link href="https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/" rel="alternate" />
+    <id>https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/::v239</id>
+    <published>2026-09-28T05:02:00+00:00</published>
+    <updated>2026-09-28T05:02:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQGV70FPKRKpQA/feedshare-shrink_800/B56Z1HLrSMJIAc-/0/1775015736991?e=2147483647&amp;v=beta&amp;t=ianBGa5k1mJG7I0gvLg7cWuxGEfpLN6cPLSkb7I6sFI" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/">bleepingcomputer.com</a> | <a href="https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697096">source</a></small></p><hr/><p>Citrix has confirmed that two critical remote code execution (RCE) vulnerabilities, CVE-2026-88771 and CVE-2026-88772, are being actively exploited in the wild. Affecting NetScaler ADC and NetScaler Gateway appliances, these flaws allow unauthenticated attackers to execute arbitrary commands or cause denial-of-service conditions. Both vulnerabilities carry a severity score of 9.5.</p><p>Security updates addressing these flaws, alongside six other vulnerabilities, are available via security bulletin CTX697096. The disclosure follows reports that national cybersecurity agencies and IT providers had been privately warning organizations about the zero-day exploits. Administrators are urged to upgrade affected appliances to prevent attackers from using these edge devices to gain access to internal networks.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQGV70FPKRKpQA/feedshare-shrink_800/B56Z1HLrSMJIAc-/0/1775015736991?e=2147483647&v=beta&t=ianBGa5k1mJG7I0gvLg7cWuxGEfpLN6cPLSkb7I6sFI" /></p><hr/><small>28 Sep 2026, 10:29 UTC | #22526</small>]]></content>
+  </entry>
   <entry>
     <title>Lisp Syntax and the Cognitive Basis of Readability</title>
     <link href="https://paultm.nl/paren-thesis" rel="alternate" />
@@ -877,14 +886,5 @@
     <updated>2026-09-23T10:44:00+00:00</updated>
     <media:thumbnail url="https://carapace-sh.github.io/carapace/development/vhs/nospace/out/nospace.fish.gif" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://levmiseri.com/nospace">levmiseri.com</a> | <a href="https://github.com/riesvile/nospace">source</a> | <a href="https://lobste.rs/s/ayyuqc/jev_powered_autocorrection">discussion</a></small></p><hr/><p>Nospace automates space insertion to allow users to type text without manually using the spacebar. This utility enables a continuous typing stream by handling space placement automatically.</p><p>Developed by riesvile and hosted on GitHub, the project supports experimentation with alternative keyboarding workflows.</p><p><img src="https://carapace-sh.github.io/carapace/development/vhs/nospace/out/nospace.fish.gif" /></p><hr/><small>23 Sep 2026, 15:25 UTC | #22102</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Strategic Risks of Abandoning Scientific Linux</title>
-    <link href="https://blog.melashri.net/posts/scientific-linux-mistake/" rel="alternate" />
-    <id>https://blog.melashri.net/posts/scientific-linux-mistake/::v239</id>
-    <published>2026-09-23T10:36:00+00:00</published>
-    <updated>2026-09-23T10:36:00+00:00</updated>
-    <media:thumbnail url="https://www.softzone.es/app/uploads-softzone.es/2025/08/Debian-interfaz.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.melashri.net/posts/scientific-linux-mistake/">blog.melashri.net</a> | <a href="https://lobste.rs/s/qysrps/abandoning_scientific_linux_was_mistake">discussion</a> | <a href="https://news.ycombinator.com/item?id=49813286">hacker news</a></small></p><hr/><p>The author argues that CERN and Fermilab's decision to retire Scientific Linux in favor of CentOS was a strategic error because it eliminated the institutional capability to maintain an independent, RHEL-compatible operating system. While intended to reduce redundant engineering efforts, the move removed the "option value" provided by an independent distribution—the ability to maintain a credible, independent alternative if upstream providers like Red Hat changed their development models or licensing.</p><p>The utility of such independence became evident when Red Hat's pivot to CentOS Stream forced large-scale users to seek alternatives like AlmaLinux. Furthermore, CERN's planned migration of over 2,200 accelerator control systems to Debian 13 by 2026 highlights the importance of distribution portability in ensuring long-term hardware compatibility that newer RHEL versions may no longer support.</p><p><img src="https://www.softzone.es/app/uploads-softzone.es/2025/08/Debian-interfaz.png" /></p><hr/><small>23 Sep 2026, 14:48 UTC | #22092</small>]]></content>
   </entry>
 </feed>
