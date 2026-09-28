@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-28T14:04:00+00:00</updated>
+  <updated>2026-09-28T16:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Blackstone, OpenAI, and Unions Launch American Infrastructure Alliance</title>
+    <link href="https://www.axios.com/2026/09/28/ai-industry-unions-data-centers" rel="alternate" />
+    <id>https://www.axios.com/2026/09/28/ai-industry-unions-data-centers::v239</id>
+    <published>2026-09-28T16:21:00+00:00</published>
+    <updated>2026-09-28T16:21:00+00:00</updated>
+    <media:thumbnail url="https://images.squarespace-cdn.com/content/v1/67a109524fb9565aabbaac4e/d4a170eb-61b5-495d-b5e0-a12089507147/25-045-UFI_Infra+Week+2026_Main+Brand+Graphic+with+Dates.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/28/ai-industry-unions-data-centers">axios.com</a></small></p><hr/><p>Blackstone, OpenAI, QTS, SoftBank, and major U.S. unions have formed the American Infrastructure Alliance to establish data center standards by 2027. The multimillion-dollar coalition intends to partner with state and local officials to create guardrails for responsible data center growth across seven key states.</p><p>The alliance aims to address the ongoing debate over the expansion of data center infrastructure. It includes support from labor organizations, such as the International Brotherhood of Electrical Workers (IBEW).</p><p><img src="https://images.squarespace-cdn.com/content/v1/67a109524fb9565aabbaac4e/d4a170eb-61b5-495d-b5e0-a12089507147/25-045-UFI_Infra+Week+2026_Main+Brand+Graphic+with+Dates.png" /></p><hr/><small>28 Sep 2026, 18:31 UTC | #22562</small>]]></content>
+  </entry>
   <entry>
     <title>ASML CEO Christophe Fouquet on Company Monopoly, AI, and Export Bans</title>
     <link href="https://www.ft.com/content/bc0385ea-17d9-4d28-a79b-acba04b394e1" rel="alternate" />
@@ -921,23 +930,5 @@
     <updated>2026-09-23T19:56:00+00:00</updated>
     <media:thumbnail url="https://static.deltiasgaming.com/2026/09/NYC-Mayor-Mamdani-Announces-DoorDash-Will-Pay-131.5-Million-in-Fines-in-Settlement.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/">theintercept.com</a> | <a href="https://news.ycombinator.com/item?id=49821608">hacker news</a></small></p><hr/><p>DoorDash spent approximately $1.4 million during the 2025 mayoral election cycle to oppose Zohran Mamdani, who later oversaw a historic $131.5 million settlement with the company. The settlement, resulting from an investigation by the NYC Department of Consumer and Worker Protection, aims to provide restitution to 264,000 underpaid delivery workers.</p><p>DoorDash's political contributions primarily supported super PACs such as Fix the City and Local Economies Forward NY to fund campaigns against Mamdani and in favor of Andrew Cuomo. The final settlement agreement includes $115 million for worker restitution and $16 million in civil penalties and fines.</p><p><img src="https://static.deltiasgaming.com/2026/09/NYC-Mayor-Mamdani-Announces-DoorDash-Will-Pay-131.5-Million-in-Fines-in-Settlement.jpg" /></p><hr/><small>23 Sep 2026, 22:49 UTC | #22139</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jensen Huang Discusses AI's Economic and Industry Outlook</title>
-    <link href="https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&amp;smid=url-share" rel="alternate" />
-    <id>https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&amp;smid=url-share::v239</id>
-    <published>2026-09-23T18:25:00+00:00</published>
-    <updated>2026-09-25T22:50:00+00:00</updated>
-    <media:thumbnail url="https://singjupost.com/wp-content/uploads/2026/02/Jensen-Huangs-Interview-@-Cisco-AI-Summit-2026-.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html?unlocked_article_code=1.DVE.XHWL.rvGLo4dRGLlK&smid=url-share">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=49847421">hacker news</a></small></p><hr/><p>Nvidia CEO Jensen Huang argues that artificial intelligence will create more jobs than it eliminates, countering doomsday predictions of mass unemployment. He contends that AI will increase productivity and expand professional roles, particularly within software engineering, rather than simply replacing human labor.</p><p>The conversation also addresses the strategic implications of Chinese open-source models, the Hugging Face acquisition, and the ongoing debate regarding AI safety and regulation. Huang's perspective highlights how hardware leaders are navigating the economic and geopolitical shifts driven by the expansion of AI infrastructure.</p><p><img src="https://singjupost.com/wp-content/uploads/2026/02/Jensen-Huangs-Interview-@-Cisco-AI-Summit-2026-.jpg" /></p><hr/><small>23 Sep 2026, 22:45 UTC | #22107</small>]]></content>
-  </entry>
-  <entry>
-    <title>Seattle City Council Passes Bill to Ban Surveillance Grocery Pricing</title>
-    <link href="https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/" rel="alternate" />
-    <id>https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/::v239</id>
-    <published>2026-09-23T18:19:00+00:00</published>
-    <updated>2026-09-23T18:19:00+00:00</updated>
-    <media:thumbnail url="https://pbs.twimg.com/media/HHkHiV0X0AU7C80.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/">advocacy.consumerreports.org</a> | <a href="https://seattle.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=17368">source</a> | <a href="https://news.ycombinator.com/item?id=49816374">hacker news</a></small></p><hr/><p>The Fair Pricing and Transparency Act (CB 121267) would prohibit retailers from using personal data—such as web-browsing history, real-time location, or income inferences—to set different prices for the same grocery items. If signed by the Mayor, Seattle will become the first U.S. city to ban "surveillance pricing" at the municipal level. The legislation also requires increased transparency regarding discounts and places limitations on how consumers can be profiled.</p><p>This legislative action follows investigations by Consumer Reports into the data-driven pricing tactics used by companies like Kroger and Instacart. While several U.S. states, including Maryland and Connecticut, have passed similar laws, this ordinance specifically addresses the use of personal data and algorithmic profiling for essential goods.</p><p><img src="https://pbs.twimg.com/media/HHkHiV0X0AU7C80.jpg" /></p><hr/><small>23 Sep 2026, 22:04 UTC | #22136</small>]]></content>
   </entry>
 </feed>
