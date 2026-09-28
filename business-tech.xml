@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-28T17:59:00+00:00</updated>
+  <updated>2026-09-28T18:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Cal Newport Urges Congressional Investigation into OpenAI and Anthropic</title>
+    <link href="https://calnewport.com/its-time-to-investigate-the-ai-labs/" rel="alternate" />
+    <id>https://calnewport.com/its-time-to-investigate-the-ai-labs/::v239</id>
+    <published>2026-09-28T18:15:00+00:00</published>
+    <updated>2026-09-28T18:15:00+00:00</updated>
+    <media:thumbnail url="https://ironcorelabs.com/cdn-cgi/image/metadata=copyright,format=auto,onerror=redirect,quality=100,fit=scale-down/images/blog/openai-anthropic-data-retention.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://calnewport.com/its-time-to-investigate-the-ai-labs/">calnewport.com</a> | <a href="https://lobste.rs/s/ir1emf/it_s_time_investigate_ai_labs">discussion</a> | <a href="https://news.ycombinator.com/item?id=49883471">hacker news</a></small></p><hr/><p>Cal Newport argues that Congress should launch a public fact-finding mission into the research practices of leading AI labs, specifically OpenAI and Anthropic. He contends that recent public messaging and experimental conduct from these frontier labs warrant scrutiny to ensure technological development remains accountable to public interest and safety.</p><p>Newport's proposal focuses on three specific areas: isolating high-risk AI systems from generalized technology discussions, auditing internal safety protocols following reports of unauthorized autonomous agent activity, and examining the influence of "apocalyptic" ideologies on corporate decision-making. He asserts that private companies should not be permitted to unilaterally dictate the societal perception and regulatory pace of artificial intelligence development.</p><p><img src="https://ironcorelabs.com/cdn-cgi/image/metadata=copyright,format=auto,onerror=redirect,quality=100,fit=scale-down/images/blog/openai-anthropic-data-retention.jpg" /></p><hr/><small>28 Sep 2026, 21:26 UTC | #22634</small>]]></content>
+  </entry>
+  <entry>
+    <title>AI Research Leaders Call for Oversight of Self-Improving Systems</title>
+    <link href="https://www.wsj.com/tech/ai/top-ai-researchers-call-for-urgent-oversight-of-self-improving-systems-49bae9b4?st=W99TtM&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/top-ai-researchers-call-for-urgent-oversight-of-self-improving-systems-49bae9b4?st=W99TtM&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-09-28T18:11:00+00:00</published>
+    <updated>2026-09-28T18:11:00+00:00</updated>
+    <media:thumbnail url="https://www.blockchain-council.org/blog-media/posts/7fd3137znk5j/Self-35c81ff0.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/top-ai-researchers-call-for-urgent-oversight-of-self-improving-systems-49bae9b4?st=W99TtM&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.pacingthefrontier.com/">source</a></small></p><hr/><p>Leaders at OpenAI, Anthropic, Microsoft, and Meta warn that AI systems may soon self-improve at speeds that outpace human oversight, potentially leading to an "intelligence explosion." The group is calling for the development of technical and governance frameworks to monitor and manage the risks associated with automated AI research.</p><p>The call is organized under the "Pacing the Frontier" initiative, which has gathered signatures from over 1,000 employees at major AI laboratories. The movement urges the U.S. government to support international efforts to create tools capable of deliberately pacing the advancement of frontier AI models.</p><p><img src="https://www.blockchain-council.org/blog-media/posts/7fd3137znk5j/Self-35c81ff0.webp" /></p><hr/><small>28 Sep 2026, 21:19 UTC | #22600</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Launches Meta Enterprise Platform and Appoints Chirantan Desai to Lead</title>
     <link href="https://www.wsj.com/tech/ai/meta-seeks-payoff-from-ai-spending-with-new-push-for-business-customers-8b9ca5bc?st=GGaGqm&amp;reflink=desktopwebshare_permalink" rel="alternate" />

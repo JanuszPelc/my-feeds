@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-28T18:09:00+00:00</updated>
+  <updated>2026-09-28T18:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>SpaceX Launches Starship into Orbit, Deploying 26 Starlink Satellites</title>
+    <link href="https://apnews.com/article/spacex-starship-orbit-262d3c58d56bf7a525b49115d6c5dfe8" rel="alternate" />
+    <id>https://apnews.com/article/spacex-starship-orbit-262d3c58d56bf7a525b49115d6c5dfe8::v239</id>
+    <published>2026-09-28T18:10:00+00:00</published>
+    <updated>2026-09-28T18:10:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://apnews.com/article/spacex-starship-orbit-262d3c58d56bf7a525b49115d6c5dfe8">apnews.com</a> | <a href="https://www.spacex.com/launches/starship-flight-14">source</a> | <a href="https://news.ycombinator.com/item?id=49873646">hacker news</a></small></p><hr/><p>The Starship rocket has completed its first orbital flight, successfully releasing 26 advanced Starlink satellites. This achievement validates the vehicle's ability to maintain stable trajectories and manage payload deployment in orbit.</p><p>The spacecraft aims to complete six full revolutions around Earth to demonstrate readiness for NASA's Artemis moon program. These satellites are expected to significantly increase the Starlink network's capacity and user speeds.</p><hr/><small>28 Sep 2026, 21:17 UTC | #22595</small>]]></content>
+  </entry>
   <entry>
     <title>This American Life Examines Intergenerational Communication</title>
     <link href="https://www.thisamericanlife.org/897/transcript" rel="alternate" />

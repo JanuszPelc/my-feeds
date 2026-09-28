@@ -3,9 +3,26 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-28T17:56:00+00:00</updated>
+  <updated>2026-09-28T18:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>killihu Releases GraphEQ for Ableton Live</title>
+    <link href="https://www.kvraudio.com/news/killihu-releases-grapheq-for-ableton-live-68788?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68788" rel="alternate" />
+    <id>https://www.kvraudio.com/news/killihu-releases-grapheq-for-ableton-live-68788?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68788::v239</id>
+    <published>2026-09-28T18:13:00+00:00</published>
+    <updated>2026-09-28T18:13:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/kvr-grapheq.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/killihu-releases-grapheq-for-ableton-live-68788?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68788">kvraudio.com</a> | <a href="https://killihu.com/grapheq/">source</a></small></p><hr/><p>killihu has released GraphEQ, a 31-band stereo graphic equalizer for Ableton Live. The plugin offers independent gain control at every ISO standard 1/3-octave center frequency from 20 Hz to 20 kHz, along with shared bandwidth control and high and low pass filters with selectable slopes up to 96 dB/octave.</p><p>The interface uses color-coded faders that follow a frequency-based progression to aid usability. An "Adaptive EQ" feature emulates classic analog behavior by narrowing the Q factor as boost or cut amounts increase to maintain consistent output levels.</p><p><img src="https://static.kvraudio.com/i/b/kvr-grapheq.png" /></p><hr/><small>28 Sep 2026, 21:22 UTC | #22619</small>]]></content>
+  </entry>
+  <entry>
+    <title>Developer sd88me Enables VST2 Plugin Support on Akai MPC Standalone</title>
+    <link href="https://bedroomproducersblog.com/2026/09/28/akai-mpc-vst2/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/09/28/akai-mpc-vst2/::v239</id>
+    <published>2026-09-28T18:12:00+00:00</published>
+    <updated>2026-09-28T18:12:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/28/akai-mpc-vst2/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/28/akai-mpc-vst2/#respond">discussion</a></small></p><hr/><p>An open-source project allows native VST2 plugins to run on Akai MPC OS standalone hardware. This functionality is available for first-generation units, such as the MPC Live, MPC One, MPC X, MPC Key, and MPC Force.</p><p>The workaround addresses a limitation of the proprietary MPC OS, which previously restricted users to built-in tools when in standalone mode. By enabling Linux-based VST2 plugins to run directly on the hardware, the project expands the capabilities of the standalone production workflow.</p><hr/><small>28 Sep 2026, 21:20 UTC | #22618</small>]]></content>
+  </entry>
   <entry>
     <title>Interaktiv Audio Updates Interaktiv Tap and Releases Interaktiv Bridge</title>
     <link href="https://www.kvraudio.com/news/interaktiv-audio-updates-interaktiv-tap-multi-touch-ipad-instrument-to-v1-3-and-releases-interaktiv-bridge-for-windows-68783?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68783" rel="alternate" />
