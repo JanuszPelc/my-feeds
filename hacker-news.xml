@@ -775,22 +775,4 @@
     <media:thumbnail url="https://xenodium.github.io/images/agent-shell-0-5-improvements/picker.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://xenodium.com/agent-shell-0-78-updates">xenodium.com</a> | <a href="https://lobste.rs/s/ujn9jm/agent_shell_0_78_updates">discussion</a></small></p><hr/><p>Agent-shell, an Emacs mode for interacting with AI agents via the Agent Client Protocol (ACP), has released version 0.78. This update introduces persistent, writeable prompts that allow users to queue commands while an agent is processing a turn, alongside "steering" capabilities to course-correct in-flight agent interactions.</p><p>The release adds support for Google's Antigravity and Qoder CLI agents and introduces drag-and-drop functionality for files and images. Additional improvements include an optional cumulative token cost indicator, enhanced slash command completion, and refined search and table rendering within the Emacs interface.</p><p><img src="https://xenodium.github.io/images/agent-shell-0-5-improvements/picker.png" /></p><hr/><small>25 Sep 2026, 05:25 UTC | #22296</small>]]></content>
   </entry>
-  <entry>
-    <title>Toyota Developing Electric and Hybrid Versions of Next-Generation Corolla</title>
-    <link href="https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/" rel="alternate" />
-    <id>https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/::v239</id>
-    <published>2026-09-24T21:05:00+00:00</published>
-    <updated>2026-09-24T21:05:00+00:00</updated>
-    <media:thumbnail url="https://electrek.co/wp-content/uploads/sites/3/2026/09/Toyota-Corolla-EV-launch.jpeg?quality=82&amp;strip=all&amp;w=1400" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/">electrek.co</a> | <a href="https://news.ycombinator.com/item?id=49823568">hacker news</a></small></p><hr/><p>Toyota intends to launch electric, plug-in hybrid, and hybrid versions of the next-generation Corolla alongside standard internal combustion engines. These vehicles, expected to debut in 2027 as 2028 model year cars, are planned to utilize a modified TNGA-C platform to accommodate multiple powertrains.</p><p>The electric models are anticipated to offer at least 250 miles of range in single- or dual-motor configurations. Estimated pricing for the EV and plug-in hybrid variants is approximately $30,000, while gas and hybrid models are expected to start between $25,000 and $27,000.</p><p><img src="https://electrek.co/wp-content/uploads/sites/3/2026/09/Toyota-Corolla-EV-launch.jpeg?quality=82&strip=all&w=1400" /></p><hr/><small>25 Sep 2026, 03:48 UTC | #22294</small>]]></content>
-  </entry>
-  <entry>
-    <title>37signals to Prioritize AI Agents Over Manual Code Writing</title>
-    <link href="https://www.youtube.com/watch?v=vDjW_dRyKXY" rel="alternate" />
-    <id>https://www.youtube.com/watch?v=vDjW_dRyKXY::v239</id>
-    <published>2026-09-24T20:59:00+00:00</published>
-    <updated>2026-09-24T20:59:00+00:00</updated>
-    <media:thumbnail url="https://rubyonrails.org/assets/world/2026/images/ras/ras-photo-1.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.youtube.com/watch?v=vDjW_dRyKXY">youtube.com</a> | <a href="https://news.ycombinator.com/item?id=49817680">hacker news</a></small></p><hr/><p>During the Rails World 2026 opening keynote, David Heinemeier Hansson announced that 37signals is transitioning away from manual code writing as its standard development practice. The company plans to treat handwritten code as an exceptional state, instead relying on AI agents to handle much of the implementation, configuration, and routine coding tasks.</p><p>This shift is driven by the rapid evolution of agentic AI, which the speaker suggests can increase programmer productivity by several orders of magnitude. Hansson compares the current era of AI to the introduction of photography in the 19th century, noting that technological disruptions often force professionals to pivot toward higher-level creative or strategic domains rather than purely mechanical tasks.</p><p><img src="https://rubyonrails.org/assets/world/2026/images/ras/ras-photo-1.jpg" /></p><hr/><small>25 Sep 2026, 03:01 UTC | #22292</small>]]></content>
-  </entry>
 </feed>
