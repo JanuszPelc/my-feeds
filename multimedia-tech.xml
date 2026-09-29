@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-29T16:32:00+00:00</updated>
+  <updated>2026-09-29T16:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Mikael Kasurinen Explains Decision to Avoid Yellow Paint in Control Resonant</title>
+    <link href="https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-" rel="alternate" />
+    <id>https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-::v239</id>
+    <published>2026-09-29T16:41:00+00:00</published>
+    <updated>2026-09-29T16:41:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt01b430440364975c/6abbee3afee74b147ec005d2/controlcityfeatured.jpg?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-">gamedeveloper.com</a> | <a href="https://www.youtube.com/watch?v=C4jDcYrPZGk">source</a></small></p><hr/><p>Following the launch of Remedy Entertainment's Control Resonant, director Mikael Kasurinen explained the studio's decision to eschew common visual shorthand for player guidance in favor of organic environmental cues. This design choice aims to enhance player agency, ensuring players feel they have discovered paths themselves rather than following dictated routes. In the game's gravity-shifting Manhattan, navigation is guided by subtle elements like wind and rain direction instead of explicit color-coded markers.</p><p>The choice addresses industry-wide debate over "handholding" mechanics intended to reduce player frustration. Kasurinen argues that excessive signposting can disrupt the horror-inspired theme of interpreting an unknowable reality. By relying on environmental subtlety, the developers aim to make navigation an active part of the player experience.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt01b430440364975c/6abbee3afee74b147ec005d2/controlcityfeatured.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>29 Sep 2026, 20:43 UTC | #22726</small>]]></content>
+  </entry>
   <entry>
     <title>Embark Studios Executive Discusses Burnout Caused by Arc Raiders Live Service Demands</title>
     <link href="https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout" rel="alternate" />
