@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-28T14:05:00+00:00</updated>
+  <updated>2026-09-29T16:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Embark Studios Executive Discusses Burnout Caused by Arc Raiders Live Service Demands</title>
+    <link href="https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout" rel="alternate" />
+    <id>https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout::v239</id>
+    <published>2026-09-29T16:32:00+00:00</published>
+    <updated>2026-09-29T16:32:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltaf56080e8948be9a/6aabc4cce6ac84edd3172ca7/Arc_Header.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout">gamedeveloper.com</a></small></p><hr/><p>Aleksander Grøndal, Executive Producer at Embark Studios, stated that the high content demands of the live service game Arc Raiders led to widespread employee burnout. To address the tension between player expectations and workforce capacity, the studio moved away from a monthly update schedule to prioritize quality and long-term sustainability.</p><p>The shift follows a period where developers struggled to balance rapid content production with the heavy maintenance required for a live-service title. Grøndal emphasized that creating frameworks for work-life balance is essential to retaining the creative talent necessary for the game's long-term success.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltaf56080e8948be9a/6aabc4cce6ac84edd3172ca7/Arc_Header.png?width=720&quality=80&disable=upscale" /></p><hr/><small>29 Sep 2026, 19:35 UTC | #22711</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft CEO Satya Nadella Calls Xbox Layoffs 'Streamlining'</title>
     <link href="https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years" rel="alternate" />
