@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-29T15:37:00+00:00</updated>
+  <updated>2026-09-29T16:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Motif Central Provides Programming Resources for Motif and X11</title>
+    <link href="https://motif-central.org/" rel="alternate" />
+    <id>https://motif-central.org/::v239</id>
+    <published>2026-09-29T16:35:00+00:00</published>
+    <updated>2026-09-29T16:35:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://motif-central.org/">motif-central.org</a> | <a href="https://lobste.rs/s/otexs4/motifcentral_all_things_motif_xt_xlib">discussion</a></small></p><hr/><p>Motif Central provides documentation and tutorials for the Motif, Xt, Xlib, and X11 programming stacks. It offers instructions for building applications, features widget galleries, and explains the interaction between different layers of the X programming stack.</p><p>The website acts as a repository for programming references, historical documentation, and examples related to the X Window System. It also contains information regarding software maintenance and preservation efforts for these toolkits.</p><hr/><small>29 Sep 2026, 19:51 UTC | #22755</small>]]></content>
+  </entry>
   <entry>
     <title>Implementing Arc Downcasting in Rust Using Pin and Self-Referential Structs</title>
     <link href="https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/" rel="alternate" />
