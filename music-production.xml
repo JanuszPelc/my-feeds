@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-29T09:10:00+00:00</updated>
+  <updated>2026-09-29T09:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Hazel Mills Discusses Ideal Studio and New Album on My Forever Studio Podcast</title>
+    <link href="https://musictech.com/shows/hazel-mills/" rel="alternate" />
+    <id>https://musictech.com/shows/hazel-mills/::v239</id>
+    <published>2026-09-29T09:13:00+00:00</published>
+    <updated>2026-09-29T09:13:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/hazel-mills-mfs@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/shows/hazel-mills/">musictech.com</a></small></p><hr/><p>Musician and songwriter Hazel Mills describes her ideal creative workspace and career trajectory on the My Forever Studio podcast. She details a fantasy studio located in a remote Norwegian landscape and explains how she balances session work for artists like Kylie Minogue with her own solo projects.</p><p>The conversation covers her interest in prepared piano and provides a glimpse into her upcoming "dystopian dance music" album. Hosted by Chris Barker and Will Betts, the series explores the essential tools and environments artists choose for their dream studio setups.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/hazel-mills-mfs@2000x1500.jpg" /></p><hr/><small>29 Sep 2026, 13:08 UTC | #22676</small>]]></content>
+  </entry>
+  <entry>
+    <title>Dr. Zoppa Releases Windows Versions of AMI-POLYCHAOS, AMI-PLSYSTEMS, and AMI-POLYMARKOV</title>
+    <link href="https://www.kvraudio.com/news/dr-zoppa-releases-ami-polychaos-ami-plsystems-and-ami-polymarkov-for-windows-vst3-68799?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68799" rel="alternate" />
+    <id>https://www.kvraudio.com/news/dr-zoppa-releases-ami-polychaos-ami-plsystems-and-ami-polymarkov-for-windows-vst3-68799?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68799::v239</id>
+    <published>2026-09-29T09:12:00+00:00</published>
+    <updated>2026-09-29T09:12:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/kvr-ami-polymarkov-1-5-1.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dr-zoppa-releases-ami-polychaos-ami-plsystems-and-ami-polymarkov-for-windows-vst3-68799?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68799">kvraudio.com</a> | <a href="https://www.drzoppa.com/soft">source</a></small></p><hr/><p>Dr. Zoppa has released Windows VST3 versions of the AMI-CMMAS series, comprising the generative MIDI plugins AMI-POLYCHAOS, AMI-PLSYSTEMS, and AMI-POLYMARKOV. Previously exclusive to macOS, these 64-bit plugins are now compatible with Windows 10 and 11.</p><p>The plugins utilize algorithmic methods—including chaotic trajectories, L-systems, and Markov chains—to transform held chords into four-voice polyphonic MIDI sequences. They can be routed into any MIDI-capable host instrument and are available for individual purchase or as a bundle, with 30-day trials provided.</p><p><img src="https://static.kvraudio.com/i/b/kvr-ami-polymarkov-1-5-1.png" /></p><hr/><small>29 Sep 2026, 13:06 UTC | #22675</small>]]></content>
+  </entry>
   <entry>
     <title>NINZYA Works Updates NINZYA Converter VST3 with Expanded DAW Compatibility</title>
     <link href="https://www.kvraudio.com/news/ninzya-works-updates-ninzya-converter-vst3-with-broader-daw-compatibility-68790?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68790" rel="alternate" />

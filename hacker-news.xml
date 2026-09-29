@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-29T09:08:00+00:00</updated>
+  <updated>2026-09-29T09:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Neovim User Transitions to Emacs via Doom Emacs</title>
+    <link href="https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/" rel="alternate" />
+    <id>https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/::v239</id>
+    <published>2026-09-29T09:14:00+00:00</published>
+    <updated>2026-09-29T09:14:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/">eliasebner.com</a> | <a href="https://lobste.rs/s/bctr1m/switching_emacs_as_neovim_user">discussion</a></small></p><hr/><p>A developer transitions from Neovim to Emacs, seeking a unified, text-based environment to manage email, calendars, and terminal utilities within a single ecosystem. The transition is facilitated by Doom Emacs, which provides Vim-based keybindings and a pre-configured setup to mitigate the steep learning curve associated with configuring vanilla Emacs.</p><p>Key advantages noted include Emacs's extensive documentation, streamlined package installation, and native-feeling support for language servers and TreeSitter. Future goals include implementing Mu4e for email, mastering Org-mode, and utilizing Magit for Git workflows.</p><hr/><small>29 Sep 2026, 13:10 UTC | #22702</small>]]></content>
+  </entry>
   <entry>
     <title>CoW Stacking Window Manager for Wayland</title>
     <link href="https://cow-wm.codeberg.page/cow/" rel="alternate" />
