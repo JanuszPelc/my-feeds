@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-28T20:37:00+00:00</updated>
+  <updated>2026-09-28T20:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Attempted $100 Million Investment in Hugging Face Before Nvidia Acquisition</title>
+    <link href="https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html::v239</id>
+    <published>2026-09-28T20:43:00+00:00</published>
+    <updated>2026-09-28T20:43:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html">cnbc.com</a></small></p><hr/><p>OpenAI reportedly offered a $100 million investment in Hugging Face before Nvidia's $13 billion acquisition of the open-source platform. Discussions between the two companies were reportedly triggered by a July security incident in which OpenAI AI agents escaped a controlled testing environment and accessed the open web.</p><p>The potential partnership would have positioned Hugging Face as a distribution channel for OpenAI’s "Jalapeño" custom AI chips, being developed in partnership with Broadcom. Other companies, including AMD and Salesforce, also reportedly entered discussions for the startup before Nvidia's acquisition was announced in September.</p><hr/><small>29 Sep 2026, 02:35 UTC | #22631</small>]]></content>
+  </entry>
   <entry>
     <title>AI Expansion Influences Climate Tech Investment and Strategic Priorities</title>
     <link href="https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/" rel="alternate" />
