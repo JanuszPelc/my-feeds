@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-29T14:37:00+00:00</updated>
+  <updated>2026-09-29T14:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Dazzle AI Uses Camera Roll for Personal Context</title>
+    <link href="https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/::v239</id>
+    <published>2026-09-29T14:55:00+00:00</published>
+    <updated>2026-09-29T14:55:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Blog-Launch-App-2.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/">techcrunch.com</a> | <a href="https://dazzle.ai/press/">source</a></small></p><hr/><p>Dazzle AI, a startup founded by Marissa Mayer, has unveiled a personal assistant that builds user context primarily from photo libraries rather than text-heavy applications like email. By analyzing the user's camera roll, the AI aims to identify personal interests, habits, and preferences to provide tailored assistance.</p><p>The tool offers two primary capabilities: scanning recent photos for immediate tasks—such as extracting details from event flyers—and mining the wider library for long-term brainstorming, like vacation or gift recommendations. Mayer claims the photo-centric approach is more privacy-friendly than competitors requiring access to sensitive communication data, as the system is designed to discard information flagged as sensitive.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Blog-Launch-App-2.png?w=680" /></p><hr/><small>29 Sep 2026, 19:11 UTC | #22706</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Reopens $200 Pro Subscription with Revised Usage Terms</title>
     <link href="https://the-decoder.com/openai-reopens-its-200-pro-plan-but-cuts-api-credits-in-half-as-it-nudges-users-toward-pay-per-use/" rel="alternate" />

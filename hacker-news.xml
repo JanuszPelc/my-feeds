@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-29T14:51:00+00:00</updated>
+  <updated>2026-09-29T15:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Implementing Arc Downcasting in Rust Using Pin and Self-Referential Structs</title>
+    <link href="https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/" rel="alternate" />
+    <id>https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/::v239</id>
+    <published>2026-09-29T15:37:00+00:00</published>
+    <updated>2026-09-29T15:37:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/gx-VV-Ht8RA/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/">wolfgirl.dev</a> | <a href="https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust">discussion</a></small></p><hr/><p>Implementing a self-referential struct with `Pin` allows for downcasting `Arc&lt;T&gt;` values into specialized types without the cost of cloning. This technique ensures memory address stability, enabling a wrapper to provide zero-copy access to internal data while adhering to Rust's ownership and lifetime rules.</p><p>This pattern overcomes the difficulty of deriving specialized type access from an `Arc&lt;T&gt;` variant without triggering expensive re-allocations or lifetime errors. By leveraging the `Deref` trait and `Pin` guarantees, the proposed `PinRef` structure maintains a pointer to the contents of the `Arc`, facilitating high-performance, read-only access for concurrent cache implementations.</p><p><img src="https://i.ytimg.com/vi/gx-VV-Ht8RA/maxresdefault.jpg" /></p><hr/><small>29 Sep 2026, 19:14 UTC | #22737</small>]]></content>
+  </entry>
   <entry>
     <title>Aho-Corasick Algorithm Construction and Mechanics</title>
     <link href="https://compiler.club/aho-corasick/" rel="alternate" />
