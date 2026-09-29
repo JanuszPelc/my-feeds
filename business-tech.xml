@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-28T22:00:00+00:00</updated>
+  <updated>2026-09-28T22:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>LG WebOS App Store Disables Access When Telemetry Is Blocked</title>
+    <link href="https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/" rel="alternate" />
+    <id>https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/::v239</id>
+    <published>2026-09-28T22:05:00+00:00</published>
+    <updated>2026-09-28T22:05:00+00:00</updated>
+    <media:thumbnail url="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/lg-tv-3.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/">fabricati-diem.inform.social</a> | <a href="https://lobste.rs/s/fcj31p/deshittification_part_2_bypassing_app">discussion</a> | <a href="https://news.ycombinator.com/item?id=49883797">hacker news</a></small></p><hr/><p>LG's webOS operating system triggers artificial errors when users block telemetry and advertising domains at the network level. Blocking domains like `wiselg.com` causes the Content Store to display error E5.48.XV, preventing app management despite the TV maintaining functional internet connectivity for other services.</p><p>This behavior may violate GDPR Article 7(4) by using service availability to force consent for data collection. Further research identifies a "Cold-Boot Consent Trap," where the OS reportedly sends TCP RST packets to terminate third-party app connections if telemetry cannot be reached during system boot.</p><p><img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/03/lg-tv-3.jpg?q=49&fit=crop&w=825&dpr=2" /></p><hr/><small>29 Sep 2026, 03:58 UTC | #22665</small>]]></content>
+  </entry>
   <entry>
     <title>AMD to Acquire World Labs for $8.2 Billion</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-fei-fei-li-s-world-labs-ai-startup-for-8-2-billion" rel="alternate" />
