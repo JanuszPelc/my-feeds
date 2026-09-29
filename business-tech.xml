@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-28T20:35:00+00:00</updated>
+  <updated>2026-09-28T20:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI Expansion Influences Climate Tech Investment and Strategic Priorities</title>
+    <link href="https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/::v239</id>
+    <published>2026-09-28T20:37:00+00:00</published>
+    <updated>2026-09-28T20:37:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/">techcrunch.com</a></small></p><hr/><p>Climate tech startups are increasingly pivoting their business models toward the energy demands of the AI boom to secure venture capital. This shift is driving significant investment into sectors such as grid infrastructure, dispatchable energy, and the built environment to support data center construction.</p><p>While total venture deal value for climate tech has reached multi-year highs, some industry leaders argue the AI-centric focus distracts from other critical carbon-reduction sectors. Additionally, the energy needs of data centers have sparked debate regarding the environmental impact of building new natural gas power plants.</p><hr/><small>29 Sep 2026, 01:44 UTC | #22654</small>]]></content>
+  </entry>
   <entry>
     <title>XCancel Service Suspended Due to Legal Proceedings</title>
     <link href="https://twitter.com/AliAbunimah/status/2103890594137309425" rel="alternate" />
