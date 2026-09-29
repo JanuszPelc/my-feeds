@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T14:35:00+00:00</updated>
+  <updated>2026-09-29T14:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>X Blocks Nearly 500 Accounts in Turkey Following Court Orders</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-29/x-blocks-nearly-500-accounts-in-turkey-following-court-orders" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-29/x-blocks-nearly-500-accounts-in-turkey-following-court-orders::v239</id>
+    <published>2026-09-29T14:40:00+00:00</published>
+    <updated>2026-09-29T14:40:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-29/x-blocks-nearly-500-accounts-in-turkey-following-court-orders">bloomberg.com</a></small></p><hr/><p>Nearly 500 accounts belonging to journalists, academics, and economists in Turkey have been made inaccessible over the past week following court orders. The restrictions were implemented by X in response to specific judicial mandates.</p><p>Censorship monitor EngelliWeb reported the mass suspension of these profiles. The move highlights ongoing legal and regulatory pressures from Turkish authorities regarding social media content and accessibility.</p><hr/><small>29 Sep 2026, 18:02 UTC | #22689</small>]]></content>
+  </entry>
   <entry>
     <title>Pope Leo XIV Criticizes Jensen Huang Over AI Safety Risks</title>
     <link href="https://www.ft.com/content/5c627794-766b-49db-ab96-7532731e7084" rel="alternate" />
