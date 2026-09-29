@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-29T01:06:00+00:00</updated>
+  <updated>2026-09-29T03:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Instinct Founder Noah Shinn Details Personal AI Agent Strategy</title>
+    <link href="https://colossus.com/episode/instinct-the-personal-agent/" rel="alternate" />
+    <id>https://colossus.com/episode/instinct-the-personal-agent/::v239</id>
+    <published>2026-09-29T03:16:00+00:00</published>
+    <updated>2026-09-29T03:16:00+00:00</updated>
+    <media:thumbnail url="https://bigr.io/wp-content/uploads/2026/04/Voice-Agents-Persona-Card_Noah.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://colossus.com/episode/instinct-the-personal-agent/">colossus.com</a></small></p><hr/><p>Noah Shinn outlines the company's approach to building a personal AI agent, including its business model, privacy frameworks, and security protocols. The conversation explores the computational infrastructure required for scaling and the challenges of competing with Big Tech.</p><p>Shinn addresses the challenge of building user trust for agent-led financial transactions and the technical demands of managing massive compute resources. He also highlights the trend of software interfaces consolidating into single, multifunctional AI agents.</p><p><img src="https://bigr.io/wp-content/uploads/2026/04/Voice-Agents-Persona-Card_Noah.png" /></p><hr/><small>29 Sep 2026, 10:25 UTC | #22663</small>]]></content>
+  </entry>
   <entry>
     <title>MicroLLM Lab Enables In-Browser Benchmarking for Small Language Models</title>
     <link href="https://stateofutopia.com/experiments/microllmlab/" rel="alternate" />
