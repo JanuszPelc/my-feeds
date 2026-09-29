@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-29T11:18:00+00:00</updated>
+  <updated>2026-09-29T11:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Automated Testing Strategies for a Single-Page Application Using Playwright</title>
+    <link href="https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa" rel="alternate" />
+    <id>https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa::v239</id>
+    <published>2026-09-29T11:20:00+00:00</published>
+    <updated>2026-09-29T11:20:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa">reecoute.fr</a> | <a href="https://lobste.rs/s/vlywx2/my_experience_writing_automated_tests">discussion</a></small></p><hr/><p>This end-to-end testing approach for a React-based single-page application (SPA) uses Playwright to execute full user journeys in a real web browser. By testing the application as a complete unit, the methodology validates complex, real-world interactions between client-side JavaScript and backend services rather than relying on isolated unit tests.</p><p>The strategy incorporates global mocks for third-party services like Stripe and S3, relies on unique test data generation to avoid database state conflicts, and uses parallel execution to minimize runtimes. Reliability is managed through Playwright’s retry mechanisms and custom logic to ensure React components are fully hydrated before automated interactions occur.</p><hr/><small>29 Sep 2026, 14:42 UTC | #22712</small>]]></content>
+  </entry>
   <entry>
     <title>TimeLord Generates Seeds for Improbable Python Random Sequences</title>
     <link href="https://github.com/frazerpearce/TimeLord" rel="alternate" />
