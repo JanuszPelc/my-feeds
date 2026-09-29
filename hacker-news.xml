@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-29T11:20:00+00:00</updated>
+  <updated>2026-09-29T14:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>macOS 27 Golden Gate Faces UI and Stability Issues</title>
+    <link href="https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/" rel="alternate" />
+    <id>https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/::v239</id>
+    <published>2026-09-29T14:33:00+00:00</published>
+    <updated>2026-09-29T14:33:00+00:00</updated>
+    <media:thumbnail url="https://www.squareorbits.com/img/sJmFpjjnhf-1460.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/">squareorbits.com</a> | <a href="https://news.ycombinator.com/item?id=49894005">hacker news</a></small></p><hr/><p>Users have reported various bugs in macOS 27 Golden Gate, including UI misalignment, inconsistent iconography, and system instability. Specific issues include unresponsive search bars, broken window controls, and system-wide crashes triggered by using the eyedropper tool in the Colors window.</p><p>While the release features "Liquid Glass" design updates and Siri AI integration, architectural changes have reportedly broken some third-party menu bar applications. Users also identified the persistence of outdated assets from previous software versions and inconsistent visual feedback in system menus.</p><p><img src="https://www.squareorbits.com/img/sJmFpjjnhf-1460.jpeg" /></p><hr/><small>29 Sep 2026, 17:00 UTC | #22724</small>]]></content>
+  </entry>
   <entry>
     <title>Automated Testing Strategies for a Single-Page Application Using Playwright</title>
     <link href="https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa" rel="alternate" />

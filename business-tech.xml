@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T12:44:00+00:00</updated>
+  <updated>2026-09-29T12:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google Appeals EU Mandates to Open Android to Rival AI Bots</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots::v239</id>
+    <published>2026-09-29T12:45:00+00:00</published>
+    <updated>2026-09-29T12:45:00+00:00</updated>
+    <media:thumbnail url="https://d.techtimes.com/en/full/468342/android-ai-presented-android-xr.png?w=836&amp;f=34e2e97ebdfedea0c7a825c89b87b936" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-29/google-fights-eu-attempt-to-prise-open-android-to-rival-ai-bots">bloomberg.com</a></small></p><hr/><p>Google is appealing European Commission mandates at the EU General Court that would require the company to open its Android operating system to rival artificial intelligence services. The challenge targets orders issued under the Digital Markets Act (DMA) intended to facilitate access for AI competitors and search engine rivals.</p><p>Google contends that the requirements threaten user privacy and security. This legal dispute is part of a wider regulatory effort by the European Union to curb the dominance of major technology platforms by mandating platform interoperability.</p><p><img src="https://d.techtimes.com/en/full/468342/android-ai-presented-android-xr.png?w=836&f=34e2e97ebdfedea0c7a825c89b87b936" /></p><hr/><small>29 Sep 2026, 16:55 UTC | #22681</small>]]></content>
+  </entry>
   <entry>
     <title>Delhi Reduces Electricity Loss from 50 Percent to 5 Percent</title>
     <link href="https://spectrum.ieee.org/delhi-electricity-loss" rel="alternate" />
