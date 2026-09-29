@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T11:46:00+00:00</updated>
+  <updated>2026-09-29T12:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Delhi Reduces Electricity Loss from 50 Percent to 5 Percent</title>
+    <link href="https://spectrum.ieee.org/delhi-electricity-loss" rel="alternate" />
+    <id>https://spectrum.ieee.org/delhi-electricity-loss::v239</id>
+    <published>2026-09-29T12:44:00+00:00</published>
+    <updated>2026-09-29T12:44:00+00:00</updated>
+    <media:thumbnail url="https://images.nativeplanet.com/img/2026/04/delhipowercutonapril272026-1777252265.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://spectrum.ieee.org/delhi-electricity-loss">spectrum.ieee.org</a> | <a href="https://news.ycombinator.com/item?id=49892245">hacker news</a></small></p><hr/><p>Delhi’s power distribution system has transformed from a highly inefficient network with over 50% electricity loss in 2002 to a modern system with 5% to 6% loss in 2026. This overhaul has increased grid reliability from 70% to over 99.9%, bringing the city's performance in line with European standards and supporting an expanding electric vehicle infrastructure.</p><p>The shift was enabled by the Electricity Act of 2003, which unbundled state oversight and permitted the privatization of distribution to companies like Tata Power and BSES. Technical solutions, including digital meters, SCADA monitoring, and underground cabling, were implemented alongside administrative reforms to address electricity theft and systemic billing corruption.</p><p><img src="https://images.nativeplanet.com/img/2026/04/delhipowercutonapril272026-1777252265.jpg" /></p><hr/><small>29 Sep 2026, 16:40 UTC | #22722</small>]]></content>
+  </entry>
   <entry>
     <title>Independent Advisers Resign from Meta-Led Anti-Terrorism Consortium</title>
     <link href="https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/" rel="alternate" />
