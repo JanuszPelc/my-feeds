@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T11:45:00+00:00</updated>
+  <updated>2026-09-29T11:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Independent Advisers Resign from Meta-Led Anti-Terrorism Consortium</title>
+    <link href="https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/" rel="alternate" />
+    <id>https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/::v239</id>
+    <published>2026-09-29T11:46:00+00:00</published>
+    <updated>2026-09-29T11:46:00+00:00</updated>
+    <media:thumbnail url="https://media.wired.com/photos/6ab6f908b0c5fe562dde1152/master/w_2560,c_limit/business_global_antiterrorism_advisors_resign.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/">wired.com</a></small></p><hr/><p>Six of the nine independent experts on the advisory board of the Global Internet Forum to Counter Terrorism (GIFCT) have stepped down. The group's departure follows a decision by the consortium—which includes Meta and other major tech firms—to restructure the committee in a way that would limit its ability to scrutinize Big Tech's effectiveness in curbing online terrorism.</p><p>The proposed changes would transition the advisory body into a "community" and restrict its mandate from evaluating the consortium's governance or performance. The move comes as platforms face mounting challenges regarding AI-generated extremist content and political investigations into online content moderation.</p><p><img src="https://media.wired.com/photos/6ab6f908b0c5fe562dde1152/master/w_2560,c_limit/business_global_antiterrorism_advisors_resign.jpg" /></p><hr/><small>29 Sep 2026, 15:58 UTC | #22679</small>]]></content>
+  </entry>
   <entry>
     <title>The Netherlands Develops NixOS-Based Software Ecosystem for Digital Sovereignty</title>
     <link href="https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027" rel="alternate" />
@@ -878,50 +887,5 @@
     <updated>2026-09-24T17:07:00+00:00</updated>
     <media:thumbnail url="https://www.journaldugeek.com/app/uploads/2025/10/amazon-vulcan.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/amazon-to-expand-robot-making-capacity-with-new-100-million-indiana-hub-87fce322?st=BayjT8&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://press.aboutamazon.com/job-creation-and-investment/2026/9/amazon-to-create-300-high-paying-jobs-at-new-advanced-manufacturing-facility-in-greenwood-indiana">source</a></small></p><hr/><p>Amazon's planned $100 million investment in a new robotics manufacturing facility in Greenwood, Indiana, is expected to be operational by 2028. The facility is set to create 300 skilled manufacturing and engineering jobs.</p><p>The plant will produce automation technology for the company's fulfillment and robotics network. Amazon currently utilizes robots in over 300 facilities to manage package sorting and movement, which assists with 75% of its total orders.</p><p><img src="https://www.journaldugeek.com/app/uploads/2025/10/amazon-vulcan.jpg" /></p><hr/><small>24 Sep 2026, 20:48 UTC | #22215</small>]]></content>
-  </entry>
-  <entry>
-    <title>Shield AI, Waabi, and General Motors to Discuss High-Stakes AI at TechCrunch Disrupt 2026</title>
-    <link href="https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/::v239</id>
-    <published>2026-09-24T15:58:00+00:00</published>
-    <updated>2026-09-24T15:58:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Urtasun-Michael-Taylor_16x9-Dark.png?w=680" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/">techcrunch.com</a> | <a href="https://techcrunch.com/events/techcrunch-disrupt/">source</a></small></p><hr/><p>At TechCrunch Disrupt 2026, executives from Shield AI, Waabi, and General Motors will discuss the deployment of artificial intelligence in high-stakes physical environments—such as aircraft, autonomous vehicles, and industrial robots—where system errors can cause significant real-world consequences. The session, titled "Building AI Systems When Failure Is Not an Option," features speakers Nathan Michael, Raquel Urtasun, and Mikell Taylor.</p><p>The panel will address safety culture, testing and validation methodologies, regulatory hurdles, and the establishment of user trust. This session is part of the event's new "Real World AI Stage," which focuses on the integration of AI into physical systems and hardware.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Urtasun-Michael-Taylor_16x9-Dark.png?w=680" /></p><hr/><small>24 Sep 2026, 20:18 UTC | #22230</small>]]></content>
-  </entry>
-  <entry>
-    <title>Zach Yadegari to Discuss Cal AI Growth at TechCrunch Disrupt 2026</title>
-    <link href="https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/::v239</id>
-    <published>2026-09-24T15:52:00+00:00</published>
-    <updated>2026-09-24T15:52:00+00:00</updated>
-    <media:thumbnail url="https://pbs.twimg.com/media/HCanH7vboAAS5B0.jpg" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/">techcrunch.com</a></small></p><hr/><p>Zach Yadegari, co-founder of the AI nutrition app Cal AI, will participate in a fireside chat at TechCrunch Disrupt 2026. He will discuss how the app achieved 15 million downloads and $30 million in annual revenue prior to its acquisition by MyFitnessPal.</p><p>The session, titled “How to Create Viral Growth and Capitalize On It,” will focus on managing product pressure during rapid scaling and converting breakout attention into long-term company building. The event is scheduled for October 13–15 at Moscone West in San Francisco.</p><p><img src="https://pbs.twimg.com/media/HCanH7vboAAS5B0.jpg" /></p><hr/><small>24 Sep 2026, 19:55 UTC | #22223</small>]]></content>
-  </entry>
-  <entry>
-    <title>Oracle Cites Force Majeure to Delay Payments on New Mexico Data Center</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center::v239</id>
-    <published>2026-09-24T15:50:00+00:00</published>
-    <updated>2026-09-24T15:50:00+00:00</updated>
-    <media:thumbnail url="https://files.tradersunion.com/images/regional-news/custom-by-date/2026/09/24/small/3477536_768.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=49830037">hacker news</a></small></p><hr/><p>Oracle Corp. has notified Blue Owl of a force majeure event to potentially defer payment obligations for the 2.45GW "Project Jupiter" facility. The maneuver is designed to shield the company from expenses if the site fails to meet its 2028 launch target.</p><p>The massive project has been subject to significant opposition and various regulatory setbacks. This development adds new complexity to the development of the high-capacity facility.</p><p><img src="https://files.tradersunion.com/images/regional-news/custom-by-date/2026/09/24/small/3477536_768.jpg" /></p><hr/><small>24 Sep 2026, 19:51 UTC | #22207</small>]]></content>
-  </entry>
-  <entry>
-    <title>ASML Reports Zero Sales in Europe for 2026</title>
-    <link href="https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand" rel="alternate" />
-    <id>https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand::v239</id>
-    <published>2026-09-24T15:49:00+00:00</published>
-    <updated>2026-09-24T15:49:00+00:00</updated>
-    <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand">tomshardware.com</a></small></p><hr/><p>ASML, the world's only supplier of EUV lithography systems, reported zero sales in Europe for 2026, following a decline from 5% of revenue in 2024 and 1% in 2025. The company attributes this lack of regional sales to the absence of new semiconductor fabrication plants being built in Europe.</p><p>The company is urging European Union authorities to implement policies that stimulate demand for locally produced chips. While the United States, China, and India are actively courting ASML to establish manufacturing capabilities, the firm warns that Europe risks losing its position in the global semiconductor supply chain.</p><p><img src="https://cdn.mos.cms.futurecdn.net/EGXamcWxVuFiTc6pCbeE25.jpg" /></p><hr/><small>24 Sep 2026, 19:48 UTC | #22208</small>]]></content>
-  </entry>
-  <entry>
-    <title>TechCrunch Disrupt 2026 Ticket Savings End September 25</title>
-    <link href="https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/::v239</id>
-    <published>2026-09-24T15:47:00+00:00</published>
-    <updated>2026-09-24T15:47:00+00:00</updated>
-    <media:thumbnail url="https://ai4chat-files.s3.amazonaws.com/images/image_1780078728825.jpg" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/">techcrunch.com</a> | <a href="https://techcrunch.com/events/techcrunch-disrupt/">source</a></small></p><hr/><p>Registration for TechCrunch Disrupt 2026 includes discounts of up to $200 if purchased before the September 25 deadline. The event is scheduled for October 13-15 at San Francisco’s Moscone West.</p><p>The conference features sessions and breakouts focused on practical business challenges, including AI product pricing, fundraising, and talent acquisition. Attendees can engage with leaders from organizations such as Anthropic, OpenAI, and Rivian through roundtables and interactive discussions.</p><p><img src="https://ai4chat-files.s3.amazonaws.com/images/image_1780078728825.jpg" /></p><hr/><small>24 Sep 2026, 19:21 UTC | #22216</small>]]></content>
   </entry>
 </feed>
