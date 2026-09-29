@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-28T20:31:00+00:00</updated>
+  <updated>2026-09-28T20:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Andrew Kelley Reviews Zig's Progress and Roadmap</title>
+    <link href="https://www.youtube.com/watch?v=zwi5b5xSsKA" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=zwi5b5xSsKA::v239</id>
+    <published>2026-09-28T20:41:00+00:00</published>
+    <updated>2026-09-28T20:41:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=zwi5b5xSsKA">youtube.com</a> | <a href="https://lobste.rs/s/okds3e/state_tagged_union_address_by_andrew">discussion</a></small></p><hr/><p>Andrew Kelley’s State of the Tagged Union address reviews Zig’s development progress, including its self-hosted compiler, shipped x86 backend, C translation work, language specification, and ongoing ARM64 backend development. He also outlines the Zig Software Foundation’s small-team, flat-hierarchy model and its focus on achieving more with fewer resources.</p><p>The presentation profiles contributors and projects across the Zig ecosystem, including River, an LLVM bitcode writer, an LLDB fork with Zig support, community events, and decentralized package management. It also discusses the foundation’s funding model, flexible contractor arrangements, no-on-call approach, and planned work that remains in development.</p><hr/><small>29 Sep 2026, 02:20 UTC | #22661</small>]]></content>
+  </entry>
   <entry>
     <title>Marginalia Search Index Rewrite in C++ Under Consideration</title>
     <link href="https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week" rel="alternate" />
