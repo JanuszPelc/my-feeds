@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T05:15:00+00:00</updated>
+  <updated>2026-09-29T09:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Atlassian CEO Mike Cannon-Brookes Discusses AI's Impact on Enterprise Software</title>
+    <link href="https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira" rel="alternate" />
+    <id>https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira::v239</id>
+    <published>2026-09-29T09:17:00+00:00</published>
+    <updated>2026-09-29T09:17:00+00:00</updated>
+    <media:thumbnail url="https://atlassian.weareyard.com/wp-content/uploads/sites/7/2024/05/107082681-1656526492762-gettyimages-1368299218-_dsc0965-scaled.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira">theverge.com</a></small></p><hr/><p>Atlassian CEO Mike Cannon-Brookes argues against the "SaaSpocalypse" theory, which posits that generative AI will dismantle the SaaS industry by automating software creation or making existing tools redundant. Cannon-Brookes contends that AI will instead increase the speed and reliability of business processes, allowing human workers to focus on higher-level judgment and complex decision-making.</p><p>Comparing the transition to the rise of mobile banking, Cannon-Brookes suggests that technology often evolves the purpose of a service rather than eliminating it entirely. He notes that Atlassian is proactively restructuring its workforce and product development, including the Rovo platform, to integrate AI into organizational workflows while maintaining the need for human oversight.</p><p><img src="https://atlassian.weareyard.com/wp-content/uploads/sites/7/2024/05/107082681-1656526492762-gettyimages-1368299218-_dsc0965-scaled.jpeg" /></p><hr/><small>29 Sep 2026, 13:35 UTC | #22669</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Apologizes for Breaching Australian Government Websites</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-29/openai-to-establish-australian-taskforce-on-ai-cyber-risk" rel="alternate" />

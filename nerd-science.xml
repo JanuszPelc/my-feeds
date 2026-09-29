@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-28T18:10:00+00:00</updated>
+  <updated>2026-09-29T11:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>The Decline of American Social Hosting and Face-to-Face Interaction</title>
+    <link href="https://www.derekthompson.org/p/the-death-of-the-american-host" rel="alternate" />
+    <id>https://www.derekthompson.org/p/the-death-of-the-american-host::v239</id>
+    <published>2026-09-29T11:15:00+00:00</published>
+    <updated>2026-09-29T11:15:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!Hczb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefc21223-6d44-45bb-84be-7a80c50acc8a_2014x1332.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.derekthompson.org/p/the-death-of-the-american-host">derekthompson.org</a> | <a href="https://news.ycombinator.com/item?id=49891295">hacker news</a></small></p><hr/><p>Americans' engagement in social hosting has plummeted, with the share of individuals hosting monthly dinner parties dropping from 42% in 1975 to 12% in 2026. Recent data also shows double-digit declines in various community-oriented activities, including volunteering, attending sporting events, and playing cards, reflecting a broader trend of decreasing face-to-face interaction over the last 30 years.</p><p>The shift is attributed to several sociological and economic factors: the increased logistical labor of hosting in dual-earner households, a surge in time dedicated to intensive parenting, and a decline in close friendships among specific demographics. Furthermore, the rise of personalized digital entertainment provides a low-effort alternative to social engagement, making human presence feel less central to modern leisure.</p><p><img src="https://substackcdn.com/image/fetch/$s_!Hczb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefc21223-6d44-45bb-84be-7a80c50acc8a_2014x1332.png" /></p><hr/><small>29 Sep 2026, 13:38 UTC | #22703</small>]]></content>
+  </entry>
   <entry>
     <title>SpaceX Launches Starship into Orbit, Deploying 26 Starlink Satellites</title>
     <link href="https://apnews.com/article/spacex-starship-orbit-262d3c58d56bf7a525b49115d6c5dfe8" rel="alternate" />
