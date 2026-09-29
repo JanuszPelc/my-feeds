@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T02:01:00+00:00</updated>
+  <updated>2026-09-29T02:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>California Grape Growers Face Surplus as Wine Demand Drops</title>
+    <link href="https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops" rel="alternate" />
+    <id>https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops::v239</id>
+    <published>2026-09-29T02:03:00+00:00</published>
+    <updated>2026-09-29T02:03:00+00:00</updated>
+    <media:thumbnail url="https://cdn.kqed.org/wp-content/uploads/sites/10/2026/09/AP-WINE.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops">kqed.org</a> | <a href="https://news.ycombinator.com/item?id=49883539">hacker news</a></small></p><hr/><p>California wine grape growers are facing a significant surplus as domestic and global wine consumption declines. Over the last five years, U.S. wine sales have dropped by more than 20%, leading farmers to remove approximately 25% of the state's vineyards from production. Many growers are currently facing uncontracted crops, forcing them to sell at a loss for syrup production or leave fruit to rot on the vines.</p><p>Shifting consumer habits, including an aging baby boomer market and younger generations opting for alternatives like spirits and cannabis, drive the decline. High production costs in the U.S. compared to international competitors like Argentina and Australia further limit export potential. The downturn also impacts regional economies and field labor, particularly in productive regions like Lodi.</p><p><img src="https://cdn.kqed.org/wp-content/uploads/sites/10/2026/09/AP-WINE.jpg" /></p><hr/><small>29 Sep 2026, 09:55 UTC | #22680</small>]]></content>
+  </entry>
   <entry>
     <title>Google to Phase Out ChromeOS Updates in 2034</title>
     <link href="https://www.tomshardware.com/laptops/google-confirms-chromeos-phase-out-in-2034-10-year-support-lifetime-cut-short-for-some-devices-company-says-it-will-support-transition-to-googlebook-os" rel="alternate" />
