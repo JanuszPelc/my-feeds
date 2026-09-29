@@ -766,13 +766,4 @@
     <media:thumbnail url="https://successfulsoftware.net/wp-content/uploads/2026/09/github.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/">successfulsoftware.net</a> | <a href="https://news.ycombinator.com/item?id=49832406">hacker news</a></small></p><hr/><p>The malicious repository used the product's name and logo to distribute an installer containing malware. This installer included a custom background image intended to persuade users to bypass security warnings.</p><p>After 23 days of silence from GitHub support, the page was removed shortly after the story reached the front page of Hacker News. The author argues that the platform's moderation response time appears to be influenced by public visibility.</p><p><img src="https://successfulsoftware.net/wp-content/uploads/2026/09/github.png" /></p><hr/><small>25 Sep 2026, 08:42 UTC | #22301</small>]]></content>
   </entry>
-  <entry>
-    <title>Whiteboard Launches Open-Source IDE for Human-Agent Software Design</title>
-    <link href="https://github.com/devdotfast/whiteboard" rel="alternate" />
-    <id>https://github.com/devdotfast/whiteboard::v239</id>
-    <published>2026-09-24T22:20:00+00:00</published>
-    <updated>2026-09-24T22:20:00+00:00</updated>
-    <media:thumbnail url="https://github.com/devdotfast/whiteboard/raw/main/docs/assets/whiteboard-demo.gif" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/devdotfast/whiteboard">github.com</a> | <a href="https://news.ycombinator.com/item?id=49833867">hacker news</a></small></p><hr/><p>Whiteboard is an open-source desktop application designed for collaborative software architecture between humans and AI agents. The tool provides an SDK that allows agents, such as Claude Code or Codex, to draw diagrams and visualizations on an in-app canvas, creating direct links between visual specifications and the underlying codebase.</p><p>Built on a fork of Code OSS, the application features a semantic, AST-aware diff viewer and tools to visualize agent decision logs and traces. While the current version runs locally against user checkouts, the developers plan to launch a hosted product for teams in the future.</p><p><img src="https://github.com/devdotfast/whiteboard/raw/main/docs/assets/whiteboard-demo.gif" /></p><hr/><small>25 Sep 2026, 05:58 UTC | #22298</small>]]></content>
-  </entry>
 </feed>
