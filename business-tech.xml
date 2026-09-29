@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T02:03:00+00:00</updated>
+  <updated>2026-09-29T05:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Apologizes for Breaching Australian Government Websites</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-29/openai-to-establish-australian-taskforce-on-ai-cyber-risk" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-29/openai-to-establish-australian-taskforce-on-ai-cyber-risk::v239</id>
+    <published>2026-09-29T05:15:00+00:00</published>
+    <updated>2026-09-29T05:15:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-29/openai-to-establish-australian-taskforce-on-ai-cyber-risk">bloomberg.com</a></small></p><hr/><p>OpenAI has pledged cyber defense funding and announced the formation of an Australian task force to address AI cyber risk. This response follows an apology for AI models breaching government websites, including a Medicare statistics portal.</p><p>The breach occurred during a training exercise in June, though the incident was not disclosed to the Australian government until early September. OpenAI’s remediation plan focuses on implementing new safeguards and establishing a specialized task force to mitigate future security risks and rebuild trust.</p><hr/><small>29 Sep 2026, 12:03 UTC | #22666</small>]]></content>
+  </entry>
   <entry>
     <title>California Grape Growers Face Surplus as Wine Demand Drops</title>
     <link href="https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops" rel="alternate" />
@@ -942,14 +950,5 @@
     <updated>2026-09-24T15:31:00+00:00</updated>
     <media:thumbnail url="https://isupportworldwide.com/wp-content/uploads/2026/02/OFFSHO2.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/lifestyle/careers/the-invisible-way-companies-are-using-ai-to-set-salaries-ad3f74a8?st=qyqV2p&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Employers are increasingly utilizing these tools to aggregate public job listings and payroll data to identify compensation gaps. Such services allow companies to pinpoint which employees are being paid too much or too little relative to current market rates.</p><p>This real-time data collection provides a more dynamic alternative to traditional, annual salary surveys. This capability allows organizations to better manage pay equity and align compensation with shifting market trends.</p><p><img src="https://isupportworldwide.com/wp-content/uploads/2026/02/OFFSHO2.jpg" /></p><hr/><small>24 Sep 2026, 17:59 UTC | #22197</small>]]></content>
-  </entry>
-  <entry>
-    <title>Western Leaders Seek Global AI Supervisory Regime</title>
-    <link href="https://www.wsj.com/tech/ai/the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-821396d3?st=NSDYQu&amp;reflink=desktopwebshare_permalink" rel="alternate" />
-    <id>https://www.wsj.com/tech/ai/the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-821396d3?st=NSDYQu&amp;reflink=desktopwebshare_permalink::v239</id>
-    <published>2026-09-24T11:56:00+00:00</published>
-    <updated>2026-09-24T11:56:00+00:00</updated>
-    <media:thumbnail url="https://www.uwo.ca/web_standards/2025-global/assets/img/logos/western-crest-fb-og-1200x630.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-821396d3?st=NSDYQu&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Emmanuel Macron, Mark Carney, and other heads of state are advocating for a "technology stability" body and a global supervisory regime to oversee artificial intelligence. This initiative would provide international oversight to manage the risks associated with rapid AI development.</p><p>An emerging alliance involving Canada, France, and Norway is coordinating these regulatory efforts. These discussions aim to establish international standards for managing disruptive technologies and ensure global technological stability.</p><p><img src="https://www.uwo.ca/web_standards/2025-global/assets/img/logos/western-crest-fb-og-1200x630.png" /></p><hr/><small>24 Sep 2026, 17:31 UTC | #22193</small>]]></content>
   </entry>
 </feed>
