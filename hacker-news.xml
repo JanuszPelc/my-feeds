@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-29T14:33:00+00:00</updated>
+  <updated>2026-09-29T14:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Aho-Corasick Algorithm Construction and Mechanics</title>
+    <link href="https://compiler.club/aho-corasick/" rel="alternate" />
+    <id>https://compiler.club/aho-corasick/::v239</id>
+    <published>2026-09-29T14:51:00+00:00</published>
+    <updated>2026-09-29T14:51:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://compiler.club/aho-corasick/">compiler.club</a> | <a href="https://cr.yp.to/bib/1975/aho.pdf">source</a> | <a href="https://lobste.rs/s/s0x5nd/aho_corasick_algorithm">discussion</a></small></p><hr/><p>The Aho-Corasick algorithm enables simultaneous multi-pattern matching within a sequence by constructing a finite state automaton from a trie. It utilizes suffix links to navigate the automaton upon transition failure and output links to identify overlapping pattern matches.</p><p>Construction is performed via a breadth-first traversal to compute suffix and output links. These links allow the trie to be determinized into a deterministic finite automaton (DFA), which provides efficient transitions during the pattern-matching process.</p><hr/><small>29 Sep 2026, 18:41 UTC | #22745</small>]]></content>
+  </entry>
   <entry>
     <title>macOS 27 Golden Gate Faces UI and Stability Issues</title>
     <link href="https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/" rel="alternate" />
