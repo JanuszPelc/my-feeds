@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-28T20:26:00+00:00</updated>
+  <updated>2026-09-28T20:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>XCancel Service Suspended Due to Legal Proceedings</title>
+    <link href="https://twitter.com/AliAbunimah/status/2103890594137309425" rel="alternate" />
+    <id>https://twitter.com/AliAbunimah/status/2103890594137309425::v239</id>
+    <published>2026-09-28T20:35:00+00:00</published>
+    <updated>2026-09-28T20:35:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/928697238/original/7f5670fe3f/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://twitter.com/AliAbunimah/status/2103890594137309425">twitter.com</a> | <a href="https://x.com/AliAbunimah/status/2103890594137309425">source</a> | <a href="https://news.ycombinator.com/item?id=49879645">hacker news</a></small></p><hr/><p>XCancel has suspended its services indefinitely following recent developments in ongoing legal proceedings. The announcement did not disclose specific details regarding the nature of the litigation.</p><p>Users seeking content previously available through the service are directed to the original platform on X. The project organizers expressed gratitude to the community for their trust in the XCancel project.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/928697238/original/7f5670fe3f/1?v=1" /></p><hr/><small>29 Sep 2026, 01:32 UTC | #22660</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia CEO Jensen Huang Calls AI Model Distillation 'Competition'</title>
     <link href="https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html" rel="alternate" />
