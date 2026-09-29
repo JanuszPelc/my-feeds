@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-28T20:41:00+00:00</updated>
+  <updated>2026-09-29T01:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Nothing Unveils Headphone (1) Pro with Metropolis Studios Collaboration</title>
+    <link href="https://musictech.com/news/gear/nothing-headphone-1-pro-price-features/" rel="alternate" />
+    <id>https://musictech.com/news/gear/nothing-headphone-1-pro-price-features/::v239</id>
+    <published>2026-09-29T01:01:00+00:00</published>
+    <updated>2026-09-29T01:01:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/nothing-headphone-1-pro-hero2@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/nothing-headphone-1-pro-price-features/">musictech.com</a> | <a href="https://us.nothing.tech/products/headphone-1-pro">source</a></small></p><hr/><p>Nothing has released the Headphone (1) Pro, a high-fidelity over-ear headphone priced at $399 and available starting September 29, 2026. The device utilizes a triple-driver architecture—consisting of a 40mm dynamic bass driver, a precision dynamic driver, and a Treble xMEMS driver—to deliver high-resolution audio up to 24-bit/192kHz via USB-C. It also includes 46dB of Adaptive Active Noise Cancellation supported by a 10-microphone system.</p><p>Designed with music professionals in mind, the headphones include a dedicated "Flat EQ" hardware switch for neutral monitoring and spatial audio with head tracking. A collaboration with Metropolis Studios provides specialized presets, including a "Studio B" emulation and various genre-specific EQ profiles. The headphones offer up to 68 hours of battery life with ANC disabled and are compatible with iOS, Android, macOS, Windows, and Linux.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/nothing-headphone-1-pro-hero2@2000x1500.jpg" /></p><hr/><small>29 Sep 2026, 06:08 UTC | #22658</small>]]></content>
+  </entry>
   <entry>
     <title>Andrew Kelley Reviews Zig's Progress and Roadmap</title>
     <link href="https://www.youtube.com/watch?v=zwi5b5xSsKA" rel="alternate" />

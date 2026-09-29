@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-28T23:41:00+00:00</updated>
+  <updated>2026-09-29T00:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Claude Sonnet 5.5 Ranks Second on Artificial Analysis Intelligence Index</title>
+    <link href="https://artificialanalysis.ai/articles/claude-sonnet-5-5" rel="alternate" />
+    <id>https://artificialanalysis.ai/articles/claude-sonnet-5-5::v239</id>
+    <published>2026-09-29T00:33:00+00:00</published>
+    <updated>2026-09-29T00:33:00+00:00</updated>
+    <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/4ee8b656f06fc33eac9422d33feacc6c89ddd8b7-2342x2007.png?w=1200&amp;auto=format" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://artificialanalysis.ai/articles/claude-sonnet-5-5">artificialanalysis.ai</a> | <a href="https://www.anthropic.com/claude-sonnet-5-5">source</a> | <a href="https://news.ycombinator.com/item?id=49881850">hacker news</a></small></p><hr/><p>Scoring 56 on the Artificial Analysis Intelligence Index, Claude Sonnet 5.5 ranks second behind Opus 5.5. The model reaches parity with Opus 5.5 in agentic terminal use and knowledge work benchmarks, including a 64% score on Terminal-Bench 4.0.</p><p>To achieve these results, the model uses approximately 193,000 output tokens per task, the highest usage measured in the index. While pricing remains identical to Sonnet 5, the model lags behind Opus 5.5 in factual knowledge and scientific reasoning benchmarks.</p><p><img src="https://cdn.sanity.io/images/6vfeftx9/articles/4ee8b656f06fc33eac9422d33feacc6c89ddd8b7-2342x2007.png?w=1200&auto=format" /></p><hr/><small>29 Sep 2026, 06:06 UTC | #22645</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Scraps Astra 6.1 Model Release Due to Safety Concerns</title>
     <link href="https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/" rel="alternate" />
