@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-29T09:13:00+00:00</updated>
+  <updated>2026-09-29T09:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Leit Audio Releases Widelay Free Stereo Delay Plugin</title>
+    <link href="https://www.kvraudio.com/news/leit-audio-releases-widelay-free-stereo-delay-that-spreads-echoes-outward-vst3-and-au-68739?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68739" rel="alternate" />
+    <id>https://www.kvraudio.com/news/leit-audio-releases-widelay-free-stereo-delay-that-spreads-echoes-outward-vst3-and-au-68739?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68739::v239</id>
+    <published>2026-09-29T09:16:00+00:00</published>
+    <updated>2026-09-29T09:16:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/widelay-banner-m.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/leit-audio-releases-widelay-free-stereo-delay-that-spreads-echoes-outward-vst3-and-au-68739?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68739">kvraudio.com</a> | <a href="https://leitaudio.com/widelay/">source</a></small></p><hr/><p>Leit Audio has released Widelay, a free stereo delay plugin for VST3, AU, and Linux formats. The plugin expands the stereo width of echoes by spreading repeats progressively outward across the stereo field, rather than simply receding into the background.</p><p>The software features controls for delay, time, and mix, and supports tempo synchronization for 14 note values. While it offers mono-to-stereo and stereo-to-stereo operation, the time-offset method used to create widening makes the echoes not mono-compatible.</p><p><img src="https://static.kvraudio.com/i/b/widelay-banner-m.png" /></p><hr/><small>29 Sep 2026, 13:23 UTC | #22673</small>]]></content>
+  </entry>
+  <entry>
+    <title>BeRoTracker Adds Linux and macOS Support in Version 1.00.2026.09.29</title>
+    <link href="https://www.kvraudio.com/news/benjamin-rosseaux-updates-berotracker-to-v1-00-2026-09-29-68796?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68796" rel="alternate" />
+    <id>https://www.kvraudio.com/news/benjamin-rosseaux-updates-berotracker-to-v1-00-2026-09-29-68796?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68796::v239</id>
+    <published>2026-09-29T09:15:00+00:00</published>
+    <updated>2026-09-29T09:15:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot1.1790564356.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/benjamin-rosseaux-updates-berotracker-to-v1-00-2026-09-29-68796?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68796">kvraudio.com</a> | <a href="https://www.berotracker.com/">source</a></small></p><hr/><p>Benjamin Rosseaux has updated BeRoTracker to version 1.00.2026.09.29, expanding availability to include Linux and macOS (Apple Silicon) builds alongside the existing Windows version. The update introduces a Vulkan-based interface with adaptive sizing, VST3 and CLAP plugin support, and various audio backends including ALSA, PipeWire, and CoreAudio.</p><p>This keyboard-driven music tracker, which follows the Impulse Tracker tradition, now features 256 channels, an OPL3 synthesis engine, and expanded support for AdLib/FM and MIDI file formats. It remains a portable application that can be run directly from a ZIP archive without installation.</p><p><img src="https://static.kvraudio.com/i/b/screenshot1.1790564356.png" /></p><hr/><small>29 Sep 2026, 13:21 UTC | #22674</small>]]></content>
+  </entry>
   <entry>
     <title>Hazel Mills Discusses Ideal Studio and New Album on My Forever Studio Podcast</title>
     <link href="https://musictech.com/shows/hazel-mills/" rel="alternate" />
