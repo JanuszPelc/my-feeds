@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T01:09:00+00:00</updated>
+  <updated>2026-09-29T01:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Brand Mentions in Reddit Knife Subreddits Show High Concentration in Buying Threads</title>
+    <link href="https://www.petervijeh.com/projects/reddit-astroturf" rel="alternate" />
+    <id>https://www.petervijeh.com/projects/reddit-astroturf::v239</id>
+    <published>2026-09-29T01:15:00+00:00</published>
+    <updated>2026-09-29T01:15:00+00:00</updated>
+    <media:thumbnail url="https://www.petervijeh.com/reddit-astroturf/redcmts-pricing.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.petervijeh.com/projects/reddit-astroturf">petervijeh.com</a> | <a href="https://news.ycombinator.com/item?id=49877678">hacker news</a></small></p><hr/><p>A subset of 49 accounts is responsible for 11.3% of brand mentions in "what should I buy" threads across six Reddit knife subreddits, a rate significantly higher than the 7.9% predicted by chance. The concentration of recommendations in these threads was evaluated using a corpus of over 50,000 comments.</p><p>The accounts involved do not show the typical indicators of professional astroturfing, such as recent account creation or highly specialized posting histories. The data remains consistent with both highly motivated brand enthusiasts and sophisticated, aged-account paid campaigns.</p><p><img src="https://www.petervijeh.com/reddit-astroturf/redcmts-pricing.jpg" /></p><hr/><small>29 Sep 2026, 08:45 UTC | #22678</small>]]></content>
+  </entry>
   <entry>
     <title>Senate Report Links Tether's USDT to Iran's Shadow Banking and Terrorism Financing</title>
     <link href="https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094" rel="alternate" />
