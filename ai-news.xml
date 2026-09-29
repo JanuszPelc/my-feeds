@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-29T17:26:00+00:00</updated>
+  <updated>2026-09-29T17:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Unveils Workspace Suite Featuring Space and Pages</title>
+    <link href="https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/::v239</id>
+    <published>2026-09-29T17:47:00+00:00</published>
+    <updated>2026-09-29T17:47:00+00:00</updated>
+    <media:thumbnail url="https://liora.io/app/uploads/sites/9/2026/03/openai-gpt5-integration-excel-cover.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/">techcrunch.com</a> | <a href="https://openai.com/index/devday-2026-recap/">source</a> | <a href="https://news.ycombinator.com/item?id=49896600">hacker news</a></small></p><hr/><p>At its DevDay 2026 conference, OpenAI introduced a collection of productivity tools aimed at workplace collaboration. The lineup features "Space," a shared workspace for humans and AI "Dots" agents, "Pages," a collaborative word processor, and a presentation tool for creating slides through conversational prompts.</p><p>These tools signal a strategic shift for OpenAI as it transitions from a Microsoft partner toward direct competition in the enterprise software market. By embedding AI agents into specialized environments for document creation, research, and presentation, the company is positioning itself to challenge the market dominance of Microsoft Office and Google Workspace.</p><p><img src="https://liora.io/app/uploads/sites/9/2026/03/openai-gpt5-integration-excel-cover.jpg" /></p><hr/><small>29 Sep 2026, 22:57 UTC | #22738</small>]]></content>
+  </entry>
   <entry>
     <title>Wabi Pivots to Messaging Experience with Wabi 2.0</title>
     <link href="https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/" rel="alternate" />
