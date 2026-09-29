@@ -632,13 +632,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/soundpaint_ui.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/soundpaint-5-0-released---new-built-in-sample-editor-68712?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68712">kvraudio.com</a> | <a href="https://soundpaint.com/">source</a></small></p><hr/><p>This version for macOS and Windows introduces "Brush," a built-in sample editor, alongside a new arpeggiator capable of 2000 steps. The release also includes new racks such as Micro Tune and Round Robin, and several new effect modules like transient and limiter controls.</p><p>The update also features an optional looper engine designed to emulate a vintage recording studio with five parallel tape machines. Other enhancements include improved performance, stability, and a more intuitive user account and downloader interface.</p><p><img src="https://static.kvraudio.com/i/b/soundpaint_ui.jpg" /></p><hr/><small>24 Sep 2026, 18:38 UTC | #22212</small>]]></content>
   </entry>
-  <entry>
-    <title>Exo Audio Releases COLOR One-Knob Harmonizer</title>
-    <link href="https://bedroomproducersblog.com/2026/09/24/exo-audio-color/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/24/exo-audio-color/::v239</id>
-    <published>2026-09-24T12:26:00+00:00</published>
-    <updated>2026-09-24T12:26:00+00:00</updated>
-    <media:thumbnail url="https://routenote.com/blog/wp-content/uploads/2023/12/BLEASS-Voices-–-up-your-vocal-game-with-this-vocal-harmonizer-RouteNote-Blog.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/24/exo-audio-color/">bedroomproducersblog.com</a> | <a href="https://exoaudio.com/plugins/color">source</a> | <a href="https://bedroomproducersblog.com/2026/09/24/exo-audio-color/#comments">discussion</a></small></p><hr/><p>Exo Audio has released COLOR, a free one-knob harmonizer plugin for macOS and Windows. The software supports VST3 and AU formats, enabling users to apply harmonies to audio tracks by selecting a musical key and adjusting a single control.</p><p>The plugin facilitates the addition of harmonic layers to vocals or instrument tracks. It functions by pitch-shifting input signals in real time to align with the chosen key.</p><p><img src="https://routenote.com/blog/wp-content/uploads/2023/12/BLEASS-Voices-–-up-your-vocal-game-with-this-vocal-harmonizer-RouteNote-Blog.jpg" /></p><hr/><small>24 Sep 2026, 17:36 UTC | #22219</small>]]></content>
-  </entry>
 </feed>
