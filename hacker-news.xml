@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-28T20:27:00+00:00</updated>
+  <updated>2026-09-28T20:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Marginalia Search Index Rewrite in C++ Under Consideration</title>
+    <link href="https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week" rel="alternate" />
+    <id>https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week::v239</id>
+    <published>2026-09-28T20:31:00+00:00</published>
+    <updated>2026-09-28T20:31:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week">lobste.rs</a> | <a href="https://lobste.rs/s/hgmgp2/what_are_you_doing_this_week">discussion</a></small></p><hr/><p>The developer of the Marginalia Search engine is considering transitioning the indexing component from Java to C++. This move aims to achieve greater control over memory layouts and to reduce the performance overhead caused by Java's Foreign Function and Memory (FFM) API.</p><p>The decision is motivated by the priority of index performance in web search, where it is as critical as recall. The developer anticipates the transition will be manageable because the code is relatively small and the existing test suites are expected to translate to the new implementation.</p><hr/><small>29 Sep 2026, 00:39 UTC | #22653</small>]]></content>
+  </entry>
   <entry>
     <title>HardenedBSD Issues August and September 2026 Status Report</title>
     <link href="https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report" rel="alternate" />
