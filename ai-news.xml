@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-28T18:29:00+00:00</updated>
+  <updated>2026-09-28T20:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Firelex Releases Jeff: Fast Zero-Shot Classification Models</title>
+    <link href="https://github.com/firelex/jeff" rel="alternate" />
+    <id>https://github.com/firelex/jeff::v239</id>
+    <published>2026-09-28T20:24:00+00:00</published>
+    <updated>2026-09-28T20:24:00+00:00</updated>
+    <media:thumbnail url="https://github.com/firelex/jeff/raw/main/assets/benchmarks.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/firelex/jeff">github.com</a> | <a href="https://news.ycombinator.com/item?id=49883844">hacker news</a></small></p><hr/><p>Jeff is a set of small, fast decision models fine-tuned from Qwen3.5 and Gemma 4 for zero-shot classification. By describing a situation and a list of options in plain text, users can receive calibrated probabilities for each option in a single forward pass without generating text. The models are highly efficient, achieving decision latencies of approximately 22–28 ms on an RTX PRO 6000 or Apple M4 Max.</p><p>The models, available in 0.8B and 2B parameter sizes, are intended for direct integration into application code for tasks such as intent detection, moderation, or voice commands. They were trained exclusively on local hardware using synthetic data. While optimized for high-speed, "System 1" style classification, they can be fine-tuned on specific datasets to significantly increase accuracy for specialized use cases.</p><p><img src="https://github.com/firelex/jeff/raw/main/assets/benchmarks.png" /></p><hr/><small>28 Sep 2026, 23:58 UTC | #22647</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Tests Human Callers for Muse AI Agent</title>
     <link href="https://aiweekly.co/issues/meta-tested-human-callers-behind-its-ai-phone-agent" rel="alternate" />
@@ -413,14 +422,5 @@
     <updated>2026-09-24T00:48:00+00:00</updated>
     <media:thumbnail url="https://bitcoinworld.co.in/wp-content/uploads/meta-connect-2025-ai-glasses.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/">engadget.com</a> | <a href="https://www.meta.com/connect/">source</a></small></p><hr/><p>Meta CEO Mark Zuckerberg showcased new AI agent capabilities and discussed the evolution of personal superintelligence during the Meta Connect 2026 keynote. The event featured updates on Meta's smart glasses, virtual reality hardware, and the "Muse" AI agent.</p><p>The presentations detailed Meta's strategy to integrate generative AI into wearable devices, including audio-only glasses and mixed-reality headsets. The company framed these advancements as tools for enhancing individual creativity and invention through personal AI.</p><p><img src="https://bitcoinworld.co.in/wp-content/uploads/meta-connect-2025-ai-glasses.jpg" /></p><hr/><small>24 Sep 2026, 06:21 UTC | #22142</small>]]></content>
-  </entry>
-  <entry>
-    <title>Meta Connect 2026 Opening Keynote Livestream</title>
-    <link href="https://www.youtube.com/watch?v=w9RyNj0ukWo" rel="alternate" />
-    <id>https://www.youtube.com/watch?v=w9RyNj0ukWo::v239</id>
-    <published>2026-09-23T23:47:00+00:00</published>
-    <updated>2026-09-23T23:47:00+00:00</updated>
-    <media:thumbnail url="https://f.ptcdn.info/238/089/000/mfovy3wwo4WFXS5g8SP-o.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.youtube.com/watch?v=w9RyNj0ukWo">youtube.com</a> | <a href="https://www.meta.com/connect/">source</a></small></p><hr/><p>Meta has launched a livestream for its Meta Connect 2026 opening keynote. The session focuses on advancements in artificial intelligence, smart glasses, and virtual reality technology.</p><p>The event, which includes a keynote by CEO Mark Zuckerberg, is expected to outline the company's roadmap for AI and mixed reality hardware. The two-day conference also includes specialized sessions for developers and business partners.</p><p><img src="https://f.ptcdn.info/238/089/000/mfovy3wwo4WFXS5g8SP-o.png" /></p><hr/><small>24 Sep 2026, 05:57 UTC | #22143</small>]]></content>
   </entry>
 </feed>
