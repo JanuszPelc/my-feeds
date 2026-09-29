@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-29T01:01:00+00:00</updated>
+  <updated>2026-09-29T09:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>CoW Stacking Window Manager for Wayland</title>
+    <link href="https://cow-wm.codeberg.page/cow/" rel="alternate" />
+    <id>https://cow-wm.codeberg.page/cow/::v239</id>
+    <published>2026-09-29T09:08:00+00:00</published>
+    <updated>2026-09-29T09:08:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://cow-wm.codeberg.page/cow/">cow-wm.codeberg.page</a> | <a href="https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland">discussion</a></small></p><hr/><p>Utilizing River as its compositor, this Wayland-based stacking window manager aims to replicate the aesthetic of 1990s software such as FVWM and MWM. It provides extensive customization through command-based configuration, customizable server-side decorations, and native menu support.</p><p>Developed in C and hosted on Codeberg, the project includes IPC scripting and an internal domain-specific language for filtering. Following the release of version 0.3 in September 2026, development is currently progressing toward version 0.4.</p><hr/><small>29 Sep 2026, 12:16 UTC | #22691</small>]]></content>
+  </entry>
   <entry>
     <title>Nothing Unveils Headphone (1) Pro with Metropolis Studios Collaboration</title>
     <link href="https://musictech.com/news/gear/nothing-headphone-1-pro-price-features/" rel="alternate" />
