@@ -3,9 +3,26 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-28T22:05:00+00:00</updated>
+  <updated>2026-09-29T01:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Samsung to Invest $1 Billion in Helix Digital Infrastructure</title>
+    <link href="https://www.wsj.com/tech/ai/samsung-commits-1-billion-to-ai-infrastructure-firm-backed-by-kkr-nvidia-d1039c57" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/samsung-commits-1-billion-to-ai-infrastructure-firm-backed-by-kkr-nvidia-d1039c57::v239</id>
+    <published>2026-09-29T01:08:00+00:00</published>
+    <updated>2026-09-29T01:08:00+00:00</updated>
+    <media:thumbnail url="https://theenergymag.com/api/watermark?src=https://backend.theenergymag.com/wp-content/uploads/2026/06/Helix.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/samsung-commits-1-billion-to-ai-infrastructure-firm-backed-by-kkr-nvidia-d1039c57">wsj.com</a> | <a href="https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix">source</a></small></p><hr/><p>Samsung has committed $1 billion to Helix Digital Infrastructure, an AI infrastructure firm established in June by a KKR-led consortium including Nvidia. The investment adds to the $10 billion the company has already secured to meet the growing infrastructure requirements of hyperscalers.</p><p>Helix intends to leverage Samsung's capabilities to support the development of AI infrastructure at scale. The commitment reflects the significant capital being directed toward the physical and digital foundations required for global AI expansion.</p><p><img src="https://theenergymag.com/api/watermark?src=https://backend.theenergymag.com/wp-content/uploads/2026/06/Helix.jpg" /></p><hr/><small>29 Sep 2026, 07:14 UTC | #22651</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ro Khanna Proposes AI Safety Bill Banning Recursive Self-Improving Technology</title>
+    <link href="https://www.cnbc.com/2026/09/28/khanna-ai-safety-bill.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/28/khanna-ai-safety-bill.html::v239</id>
+    <published>2026-09-29T01:07:00+00:00</published>
+    <updated>2026-09-29T01:07:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/28/khanna-ai-safety-bill.html">cnbc.com</a></small></p><hr/><p>Rep. Ro Khanna is introducing the "Human Control Over AI Act," a legislative proposal that would ban models capable of recursive self-improvement or the autonomous modification of core objectives until federal safeguards are established. The bill introduces strict liability standards and criminal penalties for employees who disable safety systems or deploy unauthorized models, and it includes provisions for "crimes against humanity" regarding AI-driven destruction of civilian populations.</p><p>The proposed agency would oversee frontier AI labs through a licensing system, mandatory audits, and the integration of independent auditors within research facilities. Security standards would encompass air gaps, kill switches, and sandbox testing environments, while the agency would also regulate the advanced chips used by frontier labs and implement export controls to prevent adversaries from developing dangerous AI technologies.</p><hr/><small>29 Sep 2026, 07:12 UTC | #22652</small>]]></content>
+  </entry>
   <entry>
     <title>LG WebOS App Store Disables Access When Telemetry Is Blocked</title>
     <link href="https://fabricati-diem.inform.social/post/deshittification-as-a-service-part2-bypassing-the-app-store-gatekeeper/" rel="alternate" />
