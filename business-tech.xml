@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T01:08:00+00:00</updated>
+  <updated>2026-09-29T01:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Senate Report Links Tether's USDT to Iran's Shadow Banking and Terrorism Financing</title>
+    <link href="https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094" rel="alternate" />
+    <id>https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094::v239</id>
+    <published>2026-09-29T01:09:00+00:00</published>
+    <updated>2026-09-29T01:09:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094">theblock.co</a> | <a href="https://www.hsgac.senate.gov/wp-content/uploads/2026-09-28-Crypto-and-Irans-Shadow-Banking-Network.pdf">source</a></small></p><hr/><p>A Senate report led by Senator Richard Blumenthal alleges that Tether's USDT stablecoin is a central component of Iran's shadow banking system. Blockchain analysis of 846 sanctioned Iranian wallets revealed that 84% transacted primarily in USDT, and 87% of 757 wallets linked to terrorism financing predominantly used the asset.</p><p>The 28-page report, "Tethered to Terrorism: Crypto &amp; Iran's Shadow Banking Network," claims Tether has failed to adequately block wallets associated with Iranian exchanges and terrorist organizations. These findings have prompted calls for investigations by the U.S. Attorney General and the Treasury Secretary into potential violations of sanctions and banking laws.</p><hr/><small>29 Sep 2026, 07:26 UTC | #22656</small>]]></content>
+  </entry>
   <entry>
     <title>Samsung to Invest $1 Billion in Helix Digital Infrastructure</title>
     <link href="https://www.wsj.com/tech/ai/samsung-commits-1-billion-to-ai-infrastructure-firm-backed-by-kkr-nvidia-d1039c57" rel="alternate" />
