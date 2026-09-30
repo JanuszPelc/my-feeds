@@ -3,7 +3,7 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T20:23:00+00:00</updated>
+  <updated>2026-09-30T23:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
@@ -327,9 +327,9 @@
     <link href="https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/" rel="alternate" />
     <id>https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/::v239</id>
     <published>2026-09-29T16:57:00+00:00</published>
-    <updated>2026-09-29T16:57:00+00:00</updated>
+    <updated>2026-09-30T23:45:00+00:00</updated>
     <media:thumbnail url="https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/white-house-rolls-out-global-ai-initiatives-image_large-5-a-30834.jpg" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/">techcrunch.com</a> | <a href="https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-streamlines-access-to-government-services-through-america-gov/">source</a></small></p><hr/><p>President Donald Trump has announced the launch of America.gov, an AI chatbot designed to act as a single digital entry point for US government services. Google is a partner in the initiative, utilizing its Gemini AI model to help citizens navigate federal websites and regulations.</p><p>The initiative aims to streamline access to information on topics like taxes, visas, and social benefits, but concerns remain regarding the potential for AI hallucinations. Errors in the chatbot's guidance could lead to significant real-world consequences, including missed deadlines or denied benefits for users.</p><p><img src="https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/white-house-rolls-out-global-ai-initiatives-image_large-5-a-30834.jpg" /></p><hr/><small>29 Sep 2026, 22:05 UTC | #22725</small>]]></content>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/">techcrunch.com</a> | <a href="https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-streamlines-access-to-government-services-through-america-gov/">source</a> | <a href="https://news.ycombinator.com/item?id=49893509">hacker news</a></small></p><hr/><p>President Donald Trump has announced the launch of America.gov, an AI chatbot designed to act as a single digital entry point for US government services. Google is a partner in the initiative, utilizing its Gemini AI model to help citizens navigate federal websites and regulations.</p><p>The initiative aims to streamline access to information on topics like taxes, visas, and social benefits, but concerns remain regarding the potential for AI hallucinations. Errors in the chatbot's guidance could lead to significant real-world consequences, including missed deadlines or denied benefits for users.</p><p><img src="https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/white-house-rolls-out-global-ai-initiatives-image_large-5-a-30834.jpg" /></p><hr/><small>29 Sep 2026, 22:05 UTC | #22725</small>]]></content>
   </entry>
   <entry>
     <title>OpenAI Annual Recurring Revenue Nears $70 Billion</title>
