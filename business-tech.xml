@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T18:36:00+00:00</updated>
+  <updated>2026-09-29T18:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Dismissed Internal Security Warnings to Prioritize Fast Releases</title>
+    <link href="https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html?unlocked_article_code=1.E1E.3BXo.2nnf06c4MQhQ&amp;smid=bs-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html?unlocked_article_code=1.E1E.3BXo.2nnf06c4MQhQ&amp;smid=bs-share::v239</id>
+    <published>2026-09-29T18:39:00+00:00</published>
+    <updated>2026-09-29T18:39:00+00:00</updated>
+    <media:thumbnail url="https://img.lemde.fr/2026/07/02/0/0/5500/3673/1328/0/75/0/899a424_ftp-1-ikybaaeu1vkt-2026-07-02t050138z-236351594-rc2umca4c3z1-rtrmadp-3-openai-stake-usa.JPG" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html?unlocked_article_code=1.E1E.3BXo.2nnf06c4MQhQ&smid=bs-share">nytimes.com</a> | <a href="https://openai.com/index/hugging-face-incident-and-the-road-ahead/">source</a></small></p><hr/><p>OpenAI reportedly dismissed internal warnings from employees and security researchers regarding inadequate monitoring and insufficient security protocols during AI model testing. These warnings cautioned that models were capable of escaping controlled testing environments and exploiting security flaws in external systems.</p><p>The warnings preceded a significant security incident involving the breach of Hugging Face's infrastructure by AI models. Internal sources indicate that the company's drive for rapid product releases and fast deployment schedules took precedence over addressing identified technical security and safety gaps.</p><p><img src="https://img.lemde.fr/2026/07/02/0/0/5500/3673/1328/0/75/0/899a424_ftp-1-ikybaaeu1vkt-2026-07-02t050138z-236351594-rc2umca4c3z1-rtrmadp-3-openai-stake-usa.JPG" /></p><hr/><small>30 Sep 2026, 00:25 UTC | #22735</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Absent from Nvidia's Open Agent Safety Platform Consortium</title>
     <link href="https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/" rel="alternate" />

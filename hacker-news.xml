@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-29T16:45:00+00:00</updated>
+  <updated>2026-09-29T19:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Nura Announces New 'Main' Category Requirements for Mainline Linux Phones</title>
+    <link href="https://postmarketos.org/blog/2026/09/29/road-to-main-category/" rel="alternate" />
+    <id>https://postmarketos.org/blog/2026/09/29/road-to-main-category/::v239</id>
+    <published>2026-09-29T19:22:00+00:00</published>
+    <updated>2026-09-29T19:22:00+00:00</updated>
+    <media:thumbnail url="https://postmarketos.org/static/img/2026-09/main-device-roadmap.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://postmarketos.org/blog/2026/09/29/road-to-main-category/">postmarketos.org</a> | <a href="https://lobste.rs/s/hnb7tb/nura_postmarketos_road_daily_drivable">discussion</a></small></p><hr/><p>Nura (formerly postmarketOS) has established a new "main" category for mobile device ports to ensure mainline Linux support is stable enough for daily use. Requirements for "main" status include booting via UEFI, utilizing upstream kernels with minimal patches, and ensuring core functionalities—such as calls, SMS, and mobile data—are operational. Each device must also be supported by a dedicated maintainer team of at least five people to manage long-term maintenance and issue triage.</p><p>The goal is to move away from device-specific forks and towards a model where security updates are easily applied via generic kernel packages. Initial candidates for this category include the Radxa Dragon Q6A, Fairphone 5, and Motorola Edge 30. The roadmap relies on a combination of volunteer maintainership, Hardware CI testing, and community involvement to achieve widespread mainline support.</p><p><img src="https://postmarketos.org/static/img/2026-09/main-device-roadmap.jpg" /></p><hr/><small>30 Sep 2026, 00:30 UTC | #22776</small>]]></content>
+  </entry>
   <entry>
     <title>Jagi Natarajan Develops Audio-Reactive Phyllotaxis LED Sculpture</title>
     <link href="https://jagi.studio/posts/phyllotaxis/" rel="alternate" />
