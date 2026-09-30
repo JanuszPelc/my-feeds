@@ -3,9 +3,43 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T16:33:00+00:00</updated>
+  <updated>2026-09-30T20:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Bain &amp; Company Report: AI Industry Needs $6 Trillion in Annual Revenue by 2031</title>
+    <link href="https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/" rel="alternate" />
+    <id>https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/::v239</id>
+    <published>2026-09-30T20:14:00+00:00</published>
+    <updated>2026-09-30T20:14:00+00:00</updated>
+    <media:thumbnail url="https://img.bgstatic.com/spider-data/bd03a6afbc6f21aa775fd062a425742b1780457624270.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/">thenationalnews.com</a> | <a href="https://www.bain.com/insights/new-innovation-is-required-to-fund-ais-6-trillion-buildout-technology-report-2026/">source</a> | <a href="https://news.ycombinator.com/item?id=49898952">hacker news</a></small></p><hr/><p>Bain &amp; Company's 7th Global Technology Report argues that the artificial intelligence industry must generate $6 trillion in annual revenue by 2031 to justify the massive capital expenditures required for global data center expansion. The report projects that new product development in sectors such as search, advertising, autonomy, and physical AI will contribute approximately $4.2 trillion toward this goal.</p><p>With AI infrastructure spending expected to reach $1.5 trillion annually by 2031, the industry faces significant pressure to unlock value through enterprise productivity and consumer services. Continued growth depends on overcoming critical bottlenecks in power grid capacity, semiconductor supply chains, and the availability of a highly skilled technical workforce.</p><p><img src="https://img.bgstatic.com/spider-data/bd03a6afbc6f21aa775fd062a425742b1780457624270.png" /></p><hr/><small>30 Sep 2026, 21:45 UTC | #22898</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta Disputes Claims That Muse AI Read Private Messages Without Permission</title>
+    <link href="https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/::v239</id>
+    <published>2026-09-30T20:13:00+00:00</published>
+    <updated>2026-09-30T20:13:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/">techcrunch.com</a> | <a href="https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202">source</a> | <a href="https://news.ycombinator.com/item?id=49808565">hacker news</a></small></p><hr/><p>Meta is refuting claims from journalist Jason Aten that its Muse AI agent accessed private messages without user authorization. Aten reported that the agent read his messages even when Full Disk Access was disabled, suggesting it may have been reading text from incoming macOS notifications. Meta executives deny the possibility, maintaining that the Messages integration requires explicit, multi-step opt-in through macOS system settings that cannot be bypassed by software bugs.</p><p>The dispute occurs amid heightened scrutiny of Meta's data privacy practices and consumer trust in its AI products. The company is also investigating a separate claim that Muse mishandled a Facebook Marketplace task, which allegedly led to the accidental disclosure of a user's home address.</p><hr/><small>30 Sep 2026, 21:40 UTC | #22868</small>]]></content>
+  </entry>
+  <entry>
+    <title>FTC Expands Investigation Into Anthropic, OpenAI, and Frontier AI Labs</title>
+    <link href="https://nypost.com/2026/09/30/us-news/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models/" rel="alternate" />
+    <id>https://nypost.com/2026/09/30/us-news/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models/::v239</id>
+    <published>2026-09-30T20:09:00+00:00</published>
+    <updated>2026-09-30T20:09:00+00:00</updated>
+    <media:thumbnail url="https://static.bittime.com/cms-static/upload/Open_AI_vs_Anthropic_Persaingan_Model_AI_di_Dunia_Perusahaan_f1178983ca.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://nypost.com/2026/09/30/us-news/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models/">nypost.com</a></small></p><hr/><p>The Federal Trade Commission (FTC) is expanding an investigation into frontier AI developers, including Anthropic and OpenAI, to determine if their technologies pose risks to consumers. The agency plans to issue formal demands for information and compel testimony from executives at these and other leading AI research labs.</p><p>The probe aims to uncover the potential dangers inherent in advanced "super-intelligence" models. This action aligns with recent regulatory efforts to address AI accuracy, objectivity, and the safety implications of large-scale AI deployment.</p><p><img src="https://static.bittime.com/cms-static/upload/Open_AI_vs_Anthropic_Persaingan_Model_AI_di_Dunia_Perusahaan_f1178983ca.png" /></p><hr/><small>30 Sep 2026, 21:33 UTC | #22849</small>]]></content>
+  </entry>
+  <entry>
+    <title>Amazon to Expand Smart Glasses Deployment for Delivery Drivers</title>
+    <link href="https://www.bloomberg.com/opinion/articles/2026-09-30/amazon-drivers-smart-glasses-are-going-to-be-an-image-problem?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc2ODU0NiwiZXhwIjoxNzkxMzczMzQ2LCJhcnRpY2xlSWQiOiJUTTY5NDRLSUpIOFYwMCIsImJjb25uZWN0SWQiOiI4Q0NEMDRGNjgxQTM0NUVGQTY2RjZGRUFDNTRCMjhCNiJ9.Qdbc5xSph7zK8PxxNfqqv5_es3N1SvHMGsVpEQGLrsI" rel="alternate" />
+    <id>https://www.bloomberg.com/opinion/articles/2026-09-30/amazon-drivers-smart-glasses-are-going-to-be-an-image-problem?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc2ODU0NiwiZXhwIjoxNzkxMzczMzQ2LCJhcnRpY2xlSWQiOiJUTTY5NDRLSUpIOFYwMCIsImJjb25uZWN0SWQiOiI4Q0NEMDRGNjgxQTM0NUVGQTY2RjZGRUFDNTRCMjhCNiJ9.Qdbc5xSph7zK8PxxNfqqv5_es3N1SvHMGsVpEQGLrsI::v239</id>
+    <published>2026-09-30T20:08:00+00:00</published>
+    <updated>2026-09-30T20:08:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/opinion/articles/2026-09-30/amazon-drivers-smart-glasses-are-going-to-be-an-image-problem?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc2ODU0NiwiZXhwIjoxNzkxMzczMzQ2LCJhcnRpY2xlSWQiOiJUTTY5NDRLSUpIOFYwMCIsImJjb25uZWN0SWQiOiI4Q0NEMDRGNjgxQTM0NUVGQTY2RjZGRUFDNTRCMjhCNiJ9.Qdbc5xSph7zK8PxxNfqqv5_es3N1SvHMGsVpEQGLrsI">bloomberg.com</a> | <a href="https://press.aboutamazon.com/2026/9/amazon-invests-another-1-9-billion-in-the-delivery-service-partner-program-with-new-safety-initiatives-and-ai-powered-technology">source</a></small></p><hr/><p>Amazon plans to expand its smart glasses deployment to 5,000 drivers in 2026, with the goal of reaching over 20,000 devices by 2027. The wearable technology captures static images to provide data for the company's AI-powered mapping platform.</p><p>The devices are intended to provide drivers with hands-free navigation and delivery instructions. This expansion has raised concerns regarding increased driver surveillance and the potential implications for public privacy.</p><hr/><small>30 Sep 2026, 21:31 UTC | #22844</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Faces Scrutiny Over AI Data-Scraping and Executive Accountability</title>
     <link href="https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/" rel="alternate" />
