@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T20:20:00+00:00</updated>
+  <updated>2026-09-30T20:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Reddit to End RSS Feeds and Public API Access</title>
+    <link href="https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/::v239</id>
+    <published>2026-09-30T20:21:00+00:00</published>
+    <updated>2026-09-30T20:21:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=49912499">hacker news</a></small></p><hr/><p>Support for RSS feeds will end on November 13, followed by the shutdown of public API access in March 2027. Reddit cited large-scale scraping and automated abuse by AI bots as the primary driver for these changes.</p><p>The transition occurs as Reddit expands its non-advertising revenue through AI licensing deals for user-generated content. The decisions will affect researchers, social listening tools, and AI assistants, while the removal of RSS will impact third-party news readers and certain moderator workflows.</p><hr/><small>30 Sep 2026, 22:48 UTC | #22878</small>]]></content>
+  </entry>
   <entry>
     <title>Economic Challenges Facing Consumer AI</title>
     <link href="https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/" rel="alternate" />
