@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-29T19:27:00+00:00</updated>
+  <updated>2026-09-29T20:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Integrates App Discovery and Autonomous Agents via ChatGPT</title>
+    <link href="https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/::v239</id>
+    <published>2026-09-29T20:17:00+00:00</published>
+    <updated>2026-09-29T20:17:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/">techcrunch.com</a> | <a href="https://openai.com/index/devday-2026-recap/">source</a> | <a href="https://news.ycombinator.com/item?id=49896600">hacker news</a></small></p><hr/><p>OpenAI has announced a series of features at Dev Day aimed at transforming ChatGPT into a platform for software discovery and direct execution, challenging the traditional app store model. Key updates include interactive app panels within chat interfaces, an enterprise marketplace with over 30 partners like Adobe and Salesforce, and a "Sign in with ChatGPT" function that allows users to carry their AI usage allowances to third-party services.</p><p>The ecosystem is bolstered by the introduction of "Dots," autonomous AI agents capable of navigating the web and using connected applications to execute tasks on behalf of users. This evolution positions ChatGPT as a central interface where software is summoned through conversational intent or proactive agentic actions, reducing the need for manual application switching.</p><hr/><small>30 Sep 2026, 01:24 UTC | #22759</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Announces Decisions API Powered by Luna Model</title>
     <link href="https://thenewstack.io/openai-decision-api-luna/" rel="alternate" />
