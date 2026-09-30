@@ -3,9 +3,26 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T10:04:00+00:00</updated>
+  <updated>2026-09-30T13:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Airbnb Adds AI Search and Social Features</title>
+    <link href="https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/::v239</id>
+    <published>2026-09-30T13:01:00+00:00</published>
+    <updated>2026-09-30T13:01:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/en-US-AIFeatures-AIHighlights.jpeg?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/">techcrunch.com</a> | <a href="https://news.airbnb.com/airbnb-2026-fall-update">source</a></small></p><hr/><p>Airbnb's fall update introduces AI-powered search via text and voice prompts, which utilizes dynamic filters and AI-generated summaries to help users compare properties. The company is also expanding on-the-ground services in limited locations, including laundry, baby gear rental, and ski or boat rentals, alongside expanded grocery delivery options.</p><p>New social features allow travelers to view their connections' past or upcoming trips on a map, with users having the option to opt out of sharing. Additionally, Airbnb is developing neighborhood pages based on guest reviews to assist travelers with local dining and activity discovery.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/en-US-AIFeatures-AIHighlights.jpeg?w=680" /></p><hr/><small>30 Sep 2026, 17:15 UTC | #22825</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta Claims AI Data Center Tax Credits via Experimental Classifications</title>
+    <link href="https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html::v239</id>
+    <published>2026-09-30T12:57:00+00:00</published>
+    <updated>2026-09-30T12:57:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html">nytimes.com</a> | <a href="https://news.ycombinator.com/item?id=49907711">hacker news</a></small></p><hr/><p>The company is securing tax credits for artificial intelligence data center construction by designating facilities as experimental. This approach also allows for the write-off of Nvidia chip supplies as research expenses.</p><p>Mark Zuckerberg has told investors that AI investments are accelerating Meta's core business functions. These tax strategies allow the firm to reduce federal tax obligations as it expands its infrastructure.</p><hr/><small>30 Sep 2026, 17:08 UTC | #22810</small>]]></content>
+  </entry>
   <entry>
     <title>Steve Jobs Outlines Reasons for Excluding Adobe Flash from Apple Mobile Devices</title>
     <link href="https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/" rel="alternate" />
