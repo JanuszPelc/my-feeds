@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-30T10:02:00+00:00</updated>
+  <updated>2026-09-30T12:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Differences Between foldl and foldr in Haskell</title>
+    <link href="https://blog.haskell.org/foldl-and-foldr/" rel="alternate" />
+    <id>https://blog.haskell.org/foldl-and-foldr/::v239</id>
+    <published>2026-09-30T12:48:00+00:00</published>
+    <updated>2026-09-30T12:48:00+00:00</updated>
+    <media:thumbnail url="https://raw.githubusercontent.com/COMP1100-PAL/comp1100-pal.github.io/master/_posts/2020-04-27-foldl-vs-foldr.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.haskell.org/foldl-and-foldr/">blog.haskell.org</a> | <a href="https://lobste.rs/s/irijoi/differences_between_foldl_foldr">discussion</a></small></p><hr/><p>Haskell's `foldl` and `foldr` functions differ in associativity despite both traversing lists from left to right. While both traverse lists from the left, `foldl` is left-associative and `foldr` is right-associative, which fundamentally changes their behavior in lazy evaluation environments.</p><p>In lazy evaluation, `foldl` can lead to linear space complexity by building large, nested thunks, whereas the strict version `foldl'` is recommended for constant-space accumulation. In contrast, `foldr` can facilitate streaming and allow for processing infinite lists when the combining function is lazy in its second argument.</p><p><img src="https://raw.githubusercontent.com/COMP1100-PAL/comp1100-pal.github.io/master/_posts/2020-04-27-foldl-vs-foldr.png" /></p><hr/><small>30 Sep 2026, 16:00 UTC | #22846</small>]]></content>
+  </entry>
   <entry>
     <title>ESP-SDR Enables Raw IQ Capture on Espressif ESP32 Microcontrollers</title>
     <link href="https://espargos.net/espsdr/" rel="alternate" />

@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T10:01:00+00:00</updated>
+  <updated>2026-09-30T10:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Steve Jobs Outlines Reasons for Excluding Adobe Flash from Apple Mobile Devices</title>
+    <link href="https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/" rel="alternate" />
+    <id>https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/::v239</id>
+    <published>2026-09-30T10:04:00+00:00</published>
+    <updated>2026-09-30T10:04:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://web.archive.org/web/20100501010616/http://www.apple.com/hotnews/thoughts-on-flash/">web.archive.org</a> | <a href="https://www.apple.com/hotnews/thoughts-on-flash/">source</a> | <a href="https://lobste.rs/s/t8bsws/thoughts_on_flash_2010">discussion</a></small></p><hr/><p>Apple's decision to exclude Adobe Flash from iPhone, iPod, and iPad devices is driven by technical and strategic considerations rather than business motives, according to Steve Jobs. The company contends that Flash is a proprietary, closed system, whereas Apple prioritizes open web standards such as HTML5, CSS, and JavaScript.</p><p>The letter identifies security vulnerabilities, high battery consumption from software-based video decoding, and lack of touch-optimized interfaces as primary technical drawbacks. Additionally, Apple asserts that reliance on third-party software layers prevents developers from immediately utilizing the latest platform-specific hardware innovations.</p><hr/><small>30 Sep 2026, 15:57 UTC | #22859</small>]]></content>
+  </entry>
   <entry>
     <title>The AGI Chronicles Excerpt Details Sam Altman and Dario Amodei Feud</title>
     <link href="https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/?gift=NBdGSmKfDQzLc1B6N1F-gR86rCuc-uApZuhS700CyK8&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share" rel="alternate" />
@@ -935,14 +943,5 @@
     <updated>2026-09-25T18:40:00+00:00</updated>
     <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20wbBJ.img?w=2000&amp;h=1333&amp;m=4&amp;q=93" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html">cnbc.com</a> | <a href="https://media.cadc.uscourts.gov/orders/docs/2026/04-26-1049LDSN3.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=49845977">hacker news</a></small></p><hr/><p>A D.C. appeals court has affirmed the Department of Defense's decision to designate Anthropic as a supply chain risk. The 2-1 ruling rejects the AI company's claims that the Pentagon's ban on its Claude models was arbitrary and unconstitutional, maintaining restrictions that prohibit the U.S. military and its contractors from using the technology.</p><p>The decision follows failed negotiations regarding the integration of Claude into military information systems. While a San Francisco federal judge previously invalidated one of the administration's designations, this ruling upholds a second designation, complicating Anthropic's legal efforts to overturn the blacklisting.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20wbBJ.img?w=2000&h=1333&m=4&q=93" /></p><hr/><small>25 Sep 2026, 23:04 UTC | #22343</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tesla Optimus Production Increases to Several Hundred Units Per Week Amid Manufacturing Challenges</title>
-    <link href="https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins" rel="alternate" />
-    <id>https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins::v239</id>
-    <published>2026-09-25T15:50:00+00:00</published>
-    <updated>2026-09-25T15:50:00+00:00</updated>
-    <media:thumbnail url="https://images.yybcdn.com/sites/98500/98930/1778627310912962871767244800.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/teslas-optimus-hits-snags-hands-suppliers-scale-up-begins">theinformation.com</a></small></p><hr/><p>Tesla has increased weekly production of its Optimus humanoid robot to several hundred units, marking a significant scale-up in manufacturing volume. However, the company is facing technical and logistical hurdles involving the production of robotic hands, automation equipment, and various supplier constraints.</p><p>These bottlenecks impact the timeline for achieving higher-volume targets, including the company's goal to reach a production rate of 1,000 units per week by late 2026.</p><p><img src="https://images.yybcdn.com/sites/98500/98930/1778627310912962871767244800.jpg" /></p><hr/><small>25 Sep 2026, 21:18 UTC | #22318</small>]]></content>
   </entry>
 </feed>
