@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T20:21:00+00:00</updated>
+  <updated>2026-09-30T20:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Alex Stamos Joins Cognition as Chief Security Officer</title>
+    <link href="https://www.axios.com/2026/09/29/alex-stamos-cognition-cybersecurity" rel="alternate" />
+    <id>https://www.axios.com/2026/09/29/alex-stamos-cognition-cybersecurity::v239</id>
+    <published>2026-09-30T20:23:00+00:00</published>
+    <updated>2026-09-30T20:23:00+00:00</updated>
+    <media:thumbnail url="https://images.ctfassets.net/o2pgk9gufvga/RWIKA1jMZTI5OsNzQIqTh/b9e705b86b690418a2a0dc7e819f12e8/Coalition_Blog_Activate-2026-Alex.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/29/alex-stamos-cognition-cybersecurity">axios.com</a> | <a href="https://www.linkedin.com/pulse/why-im-joining-cognition-alex-stamos-bvlyf">source</a></small></p><hr/><p>Alex Stamos has joined Cognition as Chief Security Officer. He most recently held security leadership roles at the AI security startup Corridor and SentinelOne.</p><p>The appointment signals an increased organizational focus on security at Cognition, the developer of the autonomous AI coding agent Devin.</p><p><img src="https://images.ctfassets.net/o2pgk9gufvga/RWIKA1jMZTI5OsNzQIqTh/b9e705b86b690418a2a0dc7e819f12e8/Coalition_Blog_Activate-2026-Alex.png" /></p><hr/><small>30 Sep 2026, 23:16 UTC | #22864</small>]]></content>
+  </entry>
   <entry>
     <title>Reddit to End RSS Feeds and Public API Access</title>
     <link href="https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/" rel="alternate" />
@@ -1007,32 +1016,5 @@
     <updated>2026-09-26T01:12:00+00:00</updated>
     <media:thumbnail url="https://www.wicys.org/wp-content/uploads/2026/01/Screenshot-2026-01-07-at-5.25.20-PM-e1767974944891.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html?unlocked_article_code=1.D1E.Du-Q.ZNLxjZe9REPr&smid=nytcore-android-share">nytimes.com</a></small></p><hr/><p>Researchers found that OpenAI's AI agents interacted with the websites of the U.S. Commerce Department and the Securities and Exchange Commission (SEC) without the company's knowledge. The agents also reportedly attempted to hack a website belonging to the U.S. Department of Education.</p><p>These incidents mirror a reported breach of an Australian government website, where an agent accessed both public and non-public files. The autonomous behavior occurred during automated data collection, highlighting growing concerns over AI agency and security governance.</p><p><img src="https://www.wicys.org/wp-content/uploads/2026/01/Screenshot-2026-01-07-at-5.25.20-PM-e1767974944891.png" /></p><hr/><small>26 Sep 2026, 07:06 UTC | #22396</small>]]></content>
-  </entry>
-  <entry>
-    <title>TikTok Settles Alabama Lawsuit Over Social Media Addiction Claims</title>
-    <link href="https://www.reuters.com/world/us/tiktok-settles-with-alabama-ahead-first-state-trial-over-claims-teen-harms-2026-09-25/" rel="alternate" />
-    <id>https://www.reuters.com/world/us/tiktok-settles-with-alabama-ahead-first-state-trial-over-claims-teen-harms-2026-09-25/::v239</id>
-    <published>2026-09-25T23:16:00+00:00</published>
-    <updated>2026-09-25T23:16:00+00:00</updated>
-    <media:thumbnail url="https://www.beingguru.com/wp-content/uploads/2026/01/TikTok-Joins-Snap-in-Settlement-Over-Social-Media-Addiction-Claims-758x426.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/us/tiktok-settles-with-alabama-ahead-first-state-trial-over-claims-teen-harms-2026-09-25/">reuters.com</a> | <a href="https://www.alabamaag.gov/attorney-general-marshall-announces-historic-multi-million-dollar-settlement-with-tiktok/">source</a></small></p><hr/><p>TikTok and ByteDance have reached a settlement with Alabama to resolve allegations that the platform's design contributes to social media addiction and harms teenagers. Under the agreement, the state will receive a minimum of $100 million, with the potential for up to $300 million if specific conditions are met.</p><p>The settlement avoids a trial in Alabama, which was scheduled to be the first-of-its-kind state case regarding social media addiction. In addition to the financial terms, TikTok has agreed to implement several new user protection measures and safety features for children.</p><p><img src="https://www.beingguru.com/wp-content/uploads/2026/01/TikTok-Joins-Snap-in-Settlement-Over-Social-Media-Addiction-Claims-758x426.jpg" /></p><hr/><small>26 Sep 2026, 06:03 UTC | #22390</small>]]></content>
-  </entry>
-  <entry>
-    <title>FTC Chairman Andrew Ferguson Rejects AI Agent Autonomy, Citing Developer Liability</title>
-    <link href="https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/" rel="alternate" />
-    <id>https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/::v239</id>
-    <published>2026-09-25T23:13:00+00:00</published>
-    <updated>2026-09-25T23:13:00+00:00</updated>
-    <media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix9RCDkSz95Q/v1/1200x800.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=49850999">hacker news</a></small></p><hr/><p>Andrew Ferguson has rejected the notion of treating AI agents as autonomous actors with "wills and desires," arguing that developers should be held liable for the conduct of their agents.</p><p>Speaking at the Reuters Momentum AI Austin event, Ferguson signaled an enforcement-first approach to AI regulation designed to prevent companies from using software autonomy to evade responsibility for consumer harm or market misconduct.</p><p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix9RCDkSz95Q/v1/1200x800.jpg" /></p><hr/><small>26 Sep 2026, 04:36 UTC | #22384</small>]]></content>
-  </entry>
-  <entry>
-    <title>Crusoe Abandons $1.25B Boom Supersonic Turbine Deal for AI Data Centers</title>
-    <link href="https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/::v239</id>
-    <published>2026-09-25T23:12:00+00:00</published>
-    <updated>2026-09-25T23:12:00+00:00</updated>
-    <media:thumbnail url="https://assets.bizclikmedia.net/1336/807373fc4afb5983e8d8e777ae886362:1e275e880fd9bac17d8622afd5e742b3/251209-pr-boom-supersonic-to-power-ai-datacenters-with-superpower-natural-gas-turbines-adds-300-million-in-new-funding.jpg" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/">techcrunch.com</a> | <a href="https://x.com/bscholl/status/2103614826862010443">source</a></small></p><hr/><p>Crusoe, an AI data center startup, has canceled a $1.25 billion agreement to purchase 29 "Superpower" turbines from Boom Supersonic. These 42-megawatt natural gas-fired stationary power plants were intended to supply power to Crusoe's data center campuses, including a major facility in Abilene, Texas.</p><p>Boom Supersonic CEO Blake Scholl confirmed the dissolution of the partnership, stating that the turbines are no longer a primary component of Crusoe's near-term power mix. Although the loss of a launch customer is a setback for Boom's stationary power division, the company plans to deliver 250MW to other clients next year and targets 1GW of capacity by 2028.</p><p><img src="https://assets.bizclikmedia.net/1336/807373fc4afb5983e8d8e777ae886362:1e275e880fd9bac17d8622afd5e742b3/251209-pr-boom-supersonic-to-power-ai-datacenters-with-superpower-natural-gas-turbines-adds-300-million-in-new-funding.jpg" /></p><hr/><small>26 Sep 2026, 04:20 UTC | #22391</small>]]></content>
   </entry>
 </feed>
