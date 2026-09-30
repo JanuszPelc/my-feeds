@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-29T17:53:00+00:00</updated>
+  <updated>2026-09-29T21:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Valve to Transition Steam's Discounts and Events Tab to Personalized Algorithms</title>
+    <link href="https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven" rel="alternate" />
+    <id>https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven::v239</id>
+    <published>2026-09-29T21:31:00+00:00</published>
+    <updated>2026-09-29T21:31:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt91768c3aee8ad175/69b1932cfd0e3ca077f3f689/Steam_Header.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven">gamedeveloper.com</a> | <a href="https://steamcommunity.com/groups/steamworks/announcements/detail/676258795703240952">source</a></small></p><hr/><p>Valve is transitioning Steam's "Discounts and Events" tab from a manual, calendar-based system to an algorithm-driven recommendation engine. This shift aims to increase game discoverability by presenting personalized content tailored to individual users. Preliminary testing showed the personalized model displayed ten times more games daily, which increased store page visits, wishlists, and cart additions.</p><p>The transition is expected to reach full implementation by early 2027, following a current pause on new manual curated placements. The change is intended to benefit smaller developers by reducing the need for manual scheduling or direct curation by Valve staff. Industry feedback suggests the shift can drive significant traffic to niche titles that previously had minimal visibility on the curated page.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt91768c3aee8ad175/69b1932cfd0e3ca077f3f689/Steam_Header.png?width=720&quality=80&disable=upscale" /></p><hr/><small>30 Sep 2026, 02:41 UTC | #22764</small>]]></content>
+  </entry>
   <entry>
     <title>Naughty Dog to Develop New The Last of Us Projects</title>
     <link href="https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-" rel="alternate" />
