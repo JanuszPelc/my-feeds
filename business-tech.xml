@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T16:00:00+00:00</updated>
+  <updated>2026-09-30T16:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Bill Draper, Silicon Valley Venture Capitalist, Dies at 98</title>
+    <link href="https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html::v239</id>
+    <published>2026-09-30T16:01:00+00:00</published>
+    <updated>2026-09-30T16:01:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html">nytimes.com</a></small></p><hr/><p>Bill Draper, a pioneering Silicon Valley venture capitalist, died on September 8 at age 98. He began investing in the early 1960s, before the Santa Clara Valley was established as a hub for microchips.</p><p>His investment portfolio included successful stakes in companies such as Activision, Skype, and Qume. His work helped shape the foundation of the regional technology investment landscape.</p><hr/><small>30 Sep 2026, 18:14 UTC | #22817</small>]]></content>
+  </entry>
   <entry>
     <title>U.S. Postal Inspectors Seize Website Selling Millions of Counterfeit Postage Labels</title>
     <link href="https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/" rel="alternate" />
