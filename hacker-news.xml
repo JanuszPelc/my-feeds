@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-29T22:44:00+00:00</updated>
+  <updated>2026-09-29T22:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Edward Lee Discusses Deterministic Concurrency at ICFP 2026</title>
+    <link href="https://www.youtube.com/watch?v=25x0UuSCKuU" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=25x0UuSCKuU::v239</id>
+    <published>2026-09-29T22:49:00+00:00</published>
+    <updated>2026-09-29T22:49:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=25x0UuSCKuU">youtube.com</a> | <a href="https://lobste.rs/s/wuiaba/deterministic_concurrency">discussion</a> | <a href="https://news.ycombinator.com/item?id=49851795">hacker news</a></small></p><hr/><p>Edward Lee argues that determinism is a property of a system's model rather than its physical realization. He critiques the traditional real-time systems approach of analyzing the unpredictable behavior of physical hardware, proposing instead that engineering should focus on building physical systems that strictly adhere to well-defined, deterministic models of computation.</p><p>Deterministic models offer advantages in testability, verification, and predictability, contrasting with the non-determinism inherent in common concurrency frameworks like threads and actor models. Lee introduces the "reactor" model of computation and the Lingua Franca coordination language as tools for achieving deterministic concurrency in distributed cyber-physical systems.</p><hr/><small>30 Sep 2026, 04:11 UTC | #22787</small>]]></content>
+  </entry>
+  <entry>
+    <title>FunSQL Explains Data-Oriented vs. Syntax-Oriented SQL Query Builders</title>
+    <link href="https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders" rel="alternate" />
+    <id>https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders::v239</id>
+    <published>2026-09-29T22:48:00+00:00</published>
+    <updated>2026-09-29T22:48:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1400/1*AS7dRrqkM7TRxWIuqDN8_Q.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders">mechanicalrabbit.github.io</a> | <a href="https://lobste.rs/s/zknqct/two_kinds_sql_query_builders">discussion</a></small></p><hr/><p>The article distinguishes between two types of SQL query builders: data-oriented and syntax-oriented. Data-oriented builders—such as FunSQL, EF/LINQ, and dbplyr—treat pipeline nodes as sequential data processing steps, meaning the order of operations directly determines the query's output. Conversely, syntax-oriented builders—such as Active Record and Laravel—treat nodes as components for constructing a SQL syntax tree, making the order of assembly irrelevant to the final query.</p><p>Syntax-oriented builders are easier to implement but inherit the rigid clause order and grammatical limitations of SQL. Data-oriented builders attempt to represent complex data transformations through query nesting and SQL pushdown, though they may struggle to support the full breadth of SQL's specialized features. FunSQL is designed specifically to expose the complete expressive power of SQL, including recursive queries and lateral joins, by focusing on data processing semantics rather than syntax-driven construction.</p><p><img src="https://miro.medium.com/v2/resize:fit:1400/1*AS7dRrqkM7TRxWIuqDN8_Q.jpeg" /></p><hr/><small>30 Sep 2026, 04:02 UTC | #22786</small>]]></content>
+  </entry>
   <entry>
     <title>Deser: An Experimental Rust Serialization Library</title>
     <link href="https://lucumr.pocoo.org/2026/9/29/deser/" rel="alternate" />
