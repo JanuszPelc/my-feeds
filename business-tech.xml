@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T23:39:00+00:00</updated>
+  <updated>2026-09-30T02:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amazon Ads Unveils Amazon Ads Agent and Full-Funnel Campaigns</title>
+    <link href="https://digiday.com/media-buying/at-its-flagship-unboxed-conference-amazon-ads-collapses-buying-silos-as-ai-takes-a-bigger-role-in-media-decisions/" rel="alternate" />
+    <id>https://digiday.com/media-buying/at-its-flagship-unboxed-conference-amazon-ads-collapses-buying-silos-as-ai-takes-a-bigger-role-in-media-decisions/::v239</id>
+    <published>2026-09-30T02:11:00+00:00</published>
+    <updated>2026-09-30T02:11:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://digiday.com/media-buying/at-its-flagship-unboxed-conference-amazon-ads-collapses-buying-silos-as-ai-takes-a-bigger-role-in-media-decisions/">digiday.com</a> | <a href="https://www.amazonadvertisingevents.com/unboxed2026">source</a></small></p><hr/><p>At its unBoxed conference, Amazon Ads introduced a new unified platform called Amazon Ads Agent to consolidate its advertising workflows. The rollout includes Full-Funnel Campaigns, which merges sponsored, display, video, and streaming TV ads into a single AI-driven flow, and DVA+, which consolidates programmatic buying. These updates shift more tactical control—including targeting and budget optimization—from manual user intervention to automated models.</p><p>This transition toward "agentic" advertising aims to simplify complex tasks for smaller advertisers while maintaining advanced controls for enterprise users. However, the increased reliance on automation has sparked questions regarding transparency and the ability to audit automated decisions. This shift occurs as the company continues to navigate regulatory scrutiny and legal challenges regarding its auction mechanics and price transparency.</p><hr/><small>30 Sep 2026, 06:30 UTC | #22772</small>]]></content>
+  </entry>
   <entry>
     <title>US Appeals Court Upholds Thomson Reuters' AI Copyright Ruling Against Ross Intelligence</title>
     <link href="https://www.reuters.com/business/media-telecom/us-appeals-court-upholds-thomson-reuters-landmark-win-ai-training-lawsuit-2026-09-29/" rel="alternate" />
