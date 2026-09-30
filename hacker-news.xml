@@ -770,40 +770,4 @@
     <media:thumbnail url="https://github.com/git-bug/git-bug/raw/trunk/doc/assets/native-workflow.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/git-bug/git-bug">github.com</a> | <a href="https://news.ycombinator.com/item?id=49843174">hacker news</a></small></p><hr/><p>git-bug is a distributed, offline-first bug tracker that integrates directly with Git repositories. By leveraging standard Git remotes, users can collaborate on issues, comments, and status updates using git push and git pull commands, allowing for issue management without a centralized hosting service.</p><p>The tool provides multiple interfaces, including a command-line interface (CLI), an interactive terminal UI, and a local Web UI powered by a GraphQL API. It also features bridges to import and export data from major platforms such as GitHub, GitLab, Jira, and Launchpad.</p><p><img src="https://github.com/git-bug/git-bug/raw/trunk/doc/assets/native-workflow.png" /></p><hr/><small>25 Sep 2026, 18:57 UTC | #22361</small>]]></content>
   </entry>
-  <entry>
-    <title>Go Introduces Platform-Independent SIMD API</title>
-    <link href="https://go.dev/blog/simd-experiment" rel="alternate" />
-    <id>https://go.dev/blog/simd-experiment::v239</id>
-    <published>2026-09-25T13:11:00+00:00</published>
-    <updated>2026-09-25T13:11:00+00:00</updated>
-    <media:thumbnail url="https://image.slidesharecdn.com/simdprogrammingintroduction-161010040931/95/simd-programming-introduction-13-638.jpg?cb=1485013313" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://go.dev/blog/simd-experiment">go.dev</a> | <a href="https://news.ycombinator.com/item?id=49843269">hacker news</a></small></p><hr/><p>Go 1.27 introduces an experimental, platform-agnostic SIMD package that enables high-performance vector operations without requiring architecture-specific assembly. The `simd` package abstracts hardware variations in vector sizes, masking, and instruction sets, allowing developers to write portable, "write-once" vectorized code.</p><p>Enabled via the `GOEXPERIMENT=simd` build flag, the package currently supports AVX, AVX2, and AVX512 on amd64, NEON on arm64, and Wasm's SIMD instructions. It achieves cross-platform compatibility by using the intersection of supported operations and providing efficient emulation for features unavailable on certain architectures.</p><p><img src="https://image.slidesharecdn.com/simdprogrammingintroduction-161010040931/95/simd-programming-introduction-13-638.jpg?cb=1485013313" /></p><hr/><small>25 Sep 2026, 17:47 UTC | #22351</small>]]></content>
-  </entry>
-  <entry>
-    <title>Espressif ESP32-S31 Supports Linux via RISC-V MMU</title>
-    <link href="https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/" rel="alternate" />
-    <id>https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/::v239</id>
-    <published>2026-09-25T13:08:00+00:00</published>
-    <updated>2026-09-25T13:08:00+00:00</updated>
-    <media:thumbnail url="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/esp32-s31-featured.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/">xda-developers.com</a> | <a href="https://www.espressif.com/en/news/ESP32_S31_Release">source</a> | <a href="https://news.ycombinator.com/item?id=49828969">hacker news</a></small></p><hr/><p>Espressif's ESP32-S31 microcontroller integrates a Gigabit Ethernet MAC, USB 2.0 High-Speed host, and SD card interfaces, positioning it closer to a single-board computer than standard microcontrollers. The chip includes a hardware-level MMU supporting Sv32 page-table address translation and three privilege modes, which allows it to run Linux natively.</p><p>While capable of running a Linux terminal, the S31's 64MB maximum PSRAM and lack of a dedicated GPU or NPU limit it to command-line or basic graphical interfaces rather than full desktop environments. The SoC also features Wi-Fi 6, Bluetooth 5.4, and 802.15.4 radios, offering significant connectivity for embedded Linux applications.</p><p><img src="https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/07/esp32-s31-featured.jpg?q=49&fit=crop&w=825&dpr=2" /></p><hr/><small>25 Sep 2026, 16:43 UTC | #22346</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tailscale Details Performance and Memory Optimizations</title>
-    <link href="https://tailscale.com/blog/making-tailscale-faster" rel="alternate" />
-    <id>https://tailscale.com/blog/making-tailscale-faster::v239</id>
-    <published>2026-09-25T13:07:00+00:00</published>
-    <updated>2026-09-25T13:07:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQGF_VtLDb2y4w/feedshare-shrink_800/B56ZqRguZ1JYAg-/0/1763377870237?e=2147483647&amp;v=beta&amp;t=lt_Vg1J3-RpZAssDB0BcLF-jZOqkMQkaCGeOGVGnKRI" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://tailscale.com/blog/making-tailscale-faster">tailscale.com</a> | <a href="https://news.ycombinator.com/item?id=49819880">hacker news</a></small></p><hr/><p>Tailscale is implementing several performance improvements to enhance throughput and reduce latency across its data plane. Key updates include a multi-queue system for subnet routers, app connectors, and exit nodes to better utilize CPU cores, as well as memory optimizations for small packets on Linux and Android. The company also aims to accelerate connection startup times through netmap caching, which allows devices to establish peer connections using locally stored network maps before contacting the control plane.</p><p>These optimizations, including the use of Linux's writev for reduced memory copies, are being rolled out in phases through v1.104 and beyond in late 2026. The improvements are targeted at performance-sensitive workloads such as continuous integration, remote development, and heavy telemetry. Additionally, Tailscale is exploring the development of native performance monitoring and diagnostic tooling to help users troubleshoot network paths.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQGF_VtLDb2y4w/feedshare-shrink_800/B56ZqRguZ1JYAg-/0/1763377870237?e=2147483647&v=beta&t=lt_Vg1J3-RpZAssDB0BcLF-jZOqkMQkaCGeOGVGnKRI" /></p><hr/><small>25 Sep 2026, 16:39 UTC | #22345</small>]]></content>
-  </entry>
-  <entry>
-    <title>Amiga Display Screens and Graphics Hardware Primer</title>
-    <link href="https://www.datagubbe.se/amscr/" rel="alternate" />
-    <id>https://www.datagubbe.se/amscr/::v239</id>
-    <published>2026-09-25T13:02:00+00:00</published>
-    <updated>2026-09-25T13:02:00+00:00</updated>
-    <media:thumbnail url="https://www.datagubbe.se/amscr/pix/typicalscreen.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.datagubbe.se/amscr/">datagubbe.se</a> | <a href="https://lobste.rs/s/dsungs/amiga_screens_primer">discussion</a> | <a href="https://news.ycombinator.com/item?id=49841309">hacker news</a></small></p><hr/><p>Amiga graphics chipsets (OCS, ECS, and AGA) manage "screens" as distinct display areas with unique resolutions and color depths. This system utilizes bitplanes in a planar graphics arrangement to increase color depth and allows for multiple simultaneous, overlapping screens with independent color palettes.</p><p>Capabilities include "screen dragging" for multitasking, "copper gradients" generated by the co-processor, and "dual playfields" for transparent layer overlapping. These features enabled the Amiga to produce advanced visual effects and support multitasking efficiency within the constraints of limited system memory.</p><p><img src="https://www.datagubbe.se/amscr/pix/typicalscreen.png" /></p><hr/><small>25 Sep 2026, 16:16 UTC | #22340</small>]]></content>
-  </entry>
 </feed>

@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-30T08:01:00+00:00</updated>
+  <updated>2026-09-30T08:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Space Now Provides Real-time 3D Solar System Visualization</title>
+    <link href="https://space.bl2.net/" rel="alternate" />
+    <id>https://space.bl2.net/::v239</id>
+    <published>2026-09-30T08:07:00+00:00</published>
+    <updated>2026-09-30T08:07:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://space.bl2.net/">space.bl2.net</a> | <a href="https://news.ycombinator.com/item?id=49898778">hacker news</a></small></p><hr/><p>Space Now is a web-based, real-time 3D visualization tool that renders the solar system at real scale. The application incorporates data for over 500,000 asteroids and more than 35,000 satellites and spacecraft to simulate planetary and orbital movements.</p><p>The application uses WebGL2 for rendering and processes orbit propagation in web workers using data from CelesTrak and JPL. Navigation is managed via keyboard and mouse inputs, allowing users to fly between various planets, moons, and celestial bodies.</p><hr/><small>30 Sep 2026, 13:15 UTC | #22833</small>]]></content>
+  </entry>
   <entry>
     <title>The History of the 'Intuitive Interface' Quote</title>
     <link href="https://www.greenend.org.uk/rjk/misc/nipple.html" rel="alternate" />
