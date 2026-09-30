@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T13:01:00+00:00</updated>
+  <updated>2026-09-30T16:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>U.S. Postal Inspectors Seize Website Selling Millions of Counterfeit Postage Labels</title>
+    <link href="https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/" rel="alternate" />
+    <id>https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/::v239</id>
+    <published>2026-09-30T16:00:00+00:00</published>
+    <updated>2026-09-30T16:00:00+00:00</updated>
+    <media:thumbnail url="https://postaltimes.com/wp-content/uploads/2026/04/fake-label.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/">postalemployeenetwork.com</a> | <a href="https://www.justice.gov/usao-sdfl/pr/pakistani-national-charged-defrauding-us-postal-service-over-100-million-selling">source</a> | <a href="https://news.ycombinator.com/item?id=49899090">hacker news</a></small></p><hr/><p>Federal authorities have seized the domain LabelsBank.com and indicted Faheem Akram, a Pakistani national, for allegedly operating a website that sold over 5 million counterfeit U.S. Postal Service (USPS) postage labels. The scheme reportedly charged users a flat rate of approximately $2 per label regardless of package weight or destination, resulting in an estimated $126 million in losses for the Postal Service.</p><p>Akram faces charges including conspiracy to defraud the United States, making and selling counterfeit postage, and wire fraud. Investigators identified more than 5,000 customers who used the platform to bypass legitimate USPS shipping rates by using the discounted, fraudulent labels.</p><p><img src="https://postaltimes.com/wp-content/uploads/2026/04/fake-label.jpg" /></p><hr/><small>30 Sep 2026, 17:57 UTC | #22875</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI and Anthropic-Aligned Super PACs Spend $55.7M in US Midterms</title>
+    <link href="https://www.nytimes.com/interactive/2026/09/29/us/politics/ai-super-pac-money-midterm-elections.html?unlocked_article_code=1.E1E.qSgK._VetSNj95usz" rel="alternate" />
+    <id>https://www.nytimes.com/interactive/2026/09/29/us/politics/ai-super-pac-money-midterm-elections.html?unlocked_article_code=1.E1E.qSgK._VetSNj95usz::v239</id>
+    <published>2026-09-30T15:55:00+00:00</published>
+    <updated>2026-09-30T15:55:00+00:00</updated>
+    <media:thumbnail url="https://techscurrent.com/wp-content/uploads/2026/06/ai-data-center-unsplash-2048x1178.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/interactive/2026/09/29/us/politics/ai-super-pac-money-midterm-elections.html?unlocked_article_code=1.E1E.qSgK._VetSNj95usz">nytimes.com</a></small></p><hr/><p>Super PACs aligned with OpenAI and Anthropic have spent $55.7 million on the 2026 US midterm elections to date. An analysis of 95 campaign advertisements found that none of the ads referenced data centers, and only a minority explicitly mentioned artificial intelligence.</p><p>The scale of spending highlights the significant financial influence major AI developers are exerting in political contests that could determine congressional control and technology policy. Despite the heavy investment, the advertising messaging has largely avoided direct discussion of AI or its underlying physical infrastructure.</p><p><img src="https://techscurrent.com/wp-content/uploads/2026/06/ai-data-center-unsplash-2048x1178.jpg" /></p><hr/><small>30 Sep 2026, 17:42 UTC | #22815</small>]]></content>
+  </entry>
   <entry>
     <title>Airbnb Adds AI Search and Social Features</title>
     <link href="https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/" rel="alternate" />

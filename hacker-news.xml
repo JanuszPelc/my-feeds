@@ -7,6 +7,24 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>NASA Explores Return to Flight for SR-71A Blackbird</title>
+    <link href="https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart" rel="alternate" />
+    <id>https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart::v239</id>
+    <published>2026-09-30T15:59:00+00:00</published>
+    <updated>2026-09-30T15:59:00+00:00</updated>
+    <media:thumbnail url="https://aviationweek.com/sites/default/files/styles/crop_freeform/public/inline-images/BLACKBIRD-2_NASA.jpg?itok=6zNR3LyU" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart">aviationweek.com</a> | <a href="https://news.ycombinator.com/item?id=49890733">hacker news</a></small></p><hr/><p>Agency officials have reportedly approached retired test engineers and specialists with job offers to assist in reactivating the SR-71A Blackbird (Tail No. 844). The aircraft was recently moved from its outdoor display at the Armstrong Flight Research Center into a hangar, prompting speculation regarding a mission to return the plane to the air.</p><p>Reactivating the 59-year-old airframe presents significant logistical hurdles, including the need for specialized ground equipment and the restoration of a supply chain for unique materials like JP-7 fuel. While NASA Administrator Jared Isaacman has discussed rebuilding the agency's X-plane fleet, the agency has not officially confirmed the specific return-to-flight project.</p><p><img src="https://aviationweek.com/sites/default/files/styles/crop_freeform/public/inline-images/BLACKBIRD-2_NASA.jpg?itok=6zNR3LyU" /></p><hr/><small>30 Sep 2026, 17:52 UTC | #22874</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple to Launch Smart Home Hub and HomePod Mini Refresh in October</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home::v239</id>
+    <published>2026-09-30T15:56:00+00:00</published>
+    <updated>2026-09-30T15:56:00+00:00</updated>
+    <media:thumbnail url="https://zeerawireless.com/cdn/shop/articles/HomeHub_With_display_bc3bd1a0-98fd-4493-85d8-31b25db54f92.jpg?v=1771180301&amp;width=1200" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home">bloomberg.com</a></small></p><hr/><p>Apple is scheduled to expand its smart home lineup on October 13 with the launch of a 6-inch smart home hub and a refreshed HomePod mini. The new hub is expected to feature a design inspired by the iMac G4.</p><p>This expansion marks a strategic push into the smart home market, a sector where the company has had a long-delayed entry. The new hardware is intended to serve as a central control interface for the Apple Home ecosystem.</p><p><img src="https://zeerawireless.com/cdn/shop/articles/HomeHub_With_display_bc3bd1a0-98fd-4493-85d8-31b25db54f92.jpg?v=1771180301&width=1200" /></p><hr/><small>30 Sep 2026, 17:44 UTC | #22816</small>]]></content>
+  </entry>
+  <entry>
     <title>Machtiani Advocates for Using Email and the Shell to Manage AI Agents</title>
     <link href="https://www.machtiani.chat/blogs/the-shell" rel="alternate" />
     <id>https://www.machtiani.chat/blogs/the-shell::v239</id>
