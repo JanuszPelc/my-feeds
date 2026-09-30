@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-09-30T02:30:00+00:00</updated>
+  <updated>2026-09-30T02:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>SubverseLab Releases Kubbe and Kaset Plugins</title>
+    <link href="https://www.kvraudio.com/news/subverselab-releases-kubbe-and-kaset---free-for-first-1-000-producers-68804?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68804" rel="alternate" />
+    <id>https://www.kvraudio.com/news/subverselab-releases-kubbe-and-kaset---free-for-first-1-000-producers-68804?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68804::v239</id>
+    <published>2026-09-30T02:34:00+00:00</published>
+    <updated>2026-09-30T02:34:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/kubbe_decay_display_4x5.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/subverselab-releases-kubbe-and-kaset---free-for-first-1-000-producers-68804?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68804">kvraudio.com</a> | <a href="https://subverselab.com/launch">source</a></small></p><hr/><p>SubverseLab has launched its first two audio plugins, Kubbe and Kaset, for macOS and Windows. Kubbe is an algorithmic reverb featuring three modes—Hammam, Cistern, and Valley—while Kaset provides cassette tape coloration with selectable dub generations and tape types.</p><p>The first 1,000 producers can download both plugins for free starting October 1, 2026, via the SubverseLab website. After this promotion, the plugins will be available for $9 each or $15 as a bundle.</p><p><img src="https://static.kvraudio.com/i/b/kubbe_decay_display_4x5.jpg" /></p><hr/><small>30 Sep 2026, 09:18 UTC | #22806</small>]]></content>
+  </entry>
+  <entry>
+    <title>ISOREK Updates Gates Plugin to v1.3.5</title>
+    <link href="https://www.kvraudio.com/news/isorek-updates-gates-to-v1-3-5---faster-midi-kit-setup-68812?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68812" rel="alternate" />
+    <id>https://www.kvraudio.com/news/isorek-updates-gates-to-v1-3-5---faster-midi-kit-setup-68812?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68812::v239</id>
+    <published>2026-09-30T02:33:00+00:00</published>
+    <updated>2026-09-30T02:33:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/isorek-gates-interface.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/isorek-updates-gates-to-v1-3-5---faster-midi-kit-setup-68812?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68812">kvraudio.com</a> | <a href="https://isorek.com/gates/">source</a></small></p><hr/><p>The update introduces faster MIDI kit setup and a favorite kit option for new instances, allowing users to set preferred configurations that load automatically. This release also includes built-in device profiles and custom mappings to support General MIDI, drum machines, and samplers.</p><p>Users can chain patterns into sections and shape grooves using parameters like Speed, Humanize, Drift, and Chaos. MIDI data can be exported to a DAW as individual rows, chain slots, or complete sections. The plugin is available for free on Windows, macOS, and Linux, with a $29.00 option to remove periodic license reminders.</p><p><img src="https://static.kvraudio.com/i/b/isorek-gates-interface.png" /></p><hr/><small>30 Sep 2026, 09:14 UTC | #22805</small>]]></content>
+  </entry>
   <entry>
     <title>Signal Tools Co. Releases Pro Knob Rack and Pro Knob Series</title>
     <link href="https://www.kvraudio.com/news/signal-tools-co-releases-pro-knob-rack---free-10-bay-host-68814?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68814" rel="alternate" />
