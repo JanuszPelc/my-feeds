@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T16:21:00+00:00</updated>
+  <updated>2026-09-30T16:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>DoorDash Expands into Apparel and Footwear Through New Retail Partnerships</title>
+    <link href="https://www.wsj.com/business/retail/doordash-reaches-deals-to-sell-more-shoes-and-clothing-0c69088f?st=znc4wz&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/business/retail/doordash-reaches-deals-to-sell-more-shoes-and-clothing-0c69088f?st=znc4wz&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-09-30T16:24:00+00:00</published>
+    <updated>2026-09-30T16:24:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/business/retail/doordash-reaches-deals-to-sell-more-shoes-and-clothing-0c69088f?st=znc4wz&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://about.doordash.com/en-us/news/doordash-partners-with-macys-to-power-same-day-shopping-nationwide-just-in-time-for-the-holiday">source</a></small></p><hr/><p>Retailers including Macy's, Anthropologie, and Timberland are bringing apparel and footwear to the DoorDash marketplace. Customers can now browse and purchase clothing directly through the app for two-hour delivery.</p><p>This expansion aims to diversify revenue streams beyond food delivery by entering the on-demand retail market. By integrating major fashion brands into its existing logistics network, the company seeks to capitalize on consumer demand for rapid, local fulfillment of non-grocery goods.</p><hr/><small>30 Sep 2026, 20:15 UTC | #22841</small>]]></content>
+  </entry>
   <entry>
     <title>Google Pilots Payments to Publishers for AI Content Contributions</title>
     <link href="https://www.theinformation.com/articles/google-paying-100-digital-publishers-ai-overviews" rel="alternate" />

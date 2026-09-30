@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-30T16:15:00+00:00</updated>
+  <updated>2026-09-30T16:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>DoorDash Unveils AI Ordering Agent for Apple Messages and B2B API</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-30/doordash-unveils-text-to-order-ai-agent-that-works-with-apple-s-imessage" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-30/doordash-unveils-text-to-order-ai-agent-that-works-with-apple-s-imessage::v239</id>
+    <published>2026-09-30T16:23:00+00:00</published>
+    <updated>2026-09-30T16:23:00+00:00</updated>
+    <media:thumbnail url="https://incbusiness.in/wp-content/uploads/2026/06/apple-launches-poke-ai-agent-Startuptalky.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-30/doordash-unveils-text-to-order-ai-agent-that-works-with-apple-s-imessage">bloomberg.com</a> | <a href="https://marketchameleon.com/PressReleases/i/2383265/DASH/doordash-brings-office-ordering-to-the-ai">source</a></small></p><hr/><p>DoorDash has introduced an artificial intelligence agent capable of processing food orders directly within Apple’s Messages app. The company is also opening US waitlists for a B2B API that enables digital assistants, such as Slack bots, to execute bulk orders for users.</p><p>The B2B functionality aims to streamline workplace dining by allowing users to coordinate group orders through communication platforms. This development integrates DoorDash’s logistics into both personal and professional AI-driven messaging workflows.</p><p><img src="https://incbusiness.in/wp-content/uploads/2026/06/apple-launches-poke-ai-agent-Startuptalky.jpg" /></p><hr/><small>30 Sep 2026, 20:14 UTC | #22836</small>]]></content>
+  </entry>
   <entry>
     <title>PostHog Releases Jeeves Reasoning Model</title>
     <link href="https://github.com/PostHog/jeeves" rel="alternate" />
