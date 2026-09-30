@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T20:15:00+00:00</updated>
+  <updated>2026-09-30T20:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Economic Challenges Facing Consumer AI</title>
+    <link href="https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/::v239</id>
+    <published>2026-09-30T20:20:00+00:00</published>
+    <updated>2026-09-30T20:20:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!dlCM!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1edf2a25-55c4-4eb8-810a-bb5ebc4cdd92_2000x3139.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/">techcrunch.com</a></small></p><hr/><p>High operating costs and low consumer subscription rates pose significant challenges for the consumer AI market. While interest in agentic assistants like Meta's Muse and OpenAI's Dots is increasing, data shows only 2.2% of consumers currently pay for AI services, making it difficult to reach a break-even point through traditional subscription models.</p><p>To mitigate these costs, AI developers are increasingly pivoting toward enterprise-focused revenue models. Strategies to achieve profitability include targeting business-to-business contracts, leveraging personalized advertising, or taking a percentage of transactions facilitated by AI agents.</p><p><img src="https://substackcdn.com/image/fetch/$s_!dlCM!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1edf2a25-55c4-4eb8-810a-bb5ebc4cdd92_2000x3139.png" /></p><hr/><small>30 Sep 2026, 22:34 UTC | #22877</small>]]></content>
+  </entry>
   <entry>
     <title>MI5 Issues Espionage Alert to UK Universities Regarding Chinese Research Institute</title>
     <link href="https://www.ft.com/content/f71120fb-266f-42fb-8042-dbeccfd9cf0c" rel="alternate" />
