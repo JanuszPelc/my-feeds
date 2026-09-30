@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-29T17:47:00+00:00</updated>
+  <updated>2026-09-29T18:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI DevDay 2026 Keynote to Unveil New Capabilities and Launches</title>
+    <link href="https://www.youtube.com/watch?v=Fls_onRviPM" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=Fls_onRviPM::v239</id>
+    <published>2026-09-29T18:38:00+00:00</published>
+    <updated>2026-09-29T18:38:00+00:00</updated>
+    <media:thumbnail url="https://gagadget.com/media/post_big2/0e59cb60-253b-11f1-bead-575ecd80aef8.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.youtube.com/watch?v=Fls_onRviPM">youtube.com</a></small></p><hr/><p>OpenAI's DevDay 2026 keynote will feature Sam Altman, Romain Huet, Tejal Patwardhan, and Holly Li. The event is expected to unveil over 20 new launches, debut new capabilities, and provide live demonstrations of OpenAI's latest technologies.</p><p>The livestreamed keynote serves as a primary update for the developer community and the broader AI ecosystem. It provides a platform for showcasing new tools and model advancements intended for practical application and integration.</p><p><img src="https://gagadget.com/media/post_big2/0e59cb60-253b-11f1-bead-575ecd80aef8.webp" /></p><hr/><small>30 Sep 2026, 00:06 UTC | #22727</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Unveils Workspace Suite Featuring Space and Pages</title>
     <link href="https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/" rel="alternate" />
