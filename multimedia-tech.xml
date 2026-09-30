@@ -69,13 +69,4 @@
     <media:thumbnail url="https://www.icoderzsolutions.com/blog/wp-content/uploads/2023/10/Swift-vs-Objective-C.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/">rustunit.com</a> | <a href="https://lobste.rs/s/nmksyw/dropping_swift_entirely_from_our_bevy_ios">discussion</a></small></p><hr/><p>Rustunit has updated its `bevy_ios_*` crates to replace manual Swift package dependencies with direct `objc2` bindings. This allows developers to install necessary iOS functionality, such as safe area insets and user notifications, using only `cargo add`, removing the requirement for the Swift Package Manager (SPM).</p><p>This transition simplifies version management between Rust crates and SPM packages and enables builds for the iOS simulator. While most functionality now uses the Objective-C runtime via `objc2`, `bevy_ios_iap` utilizes a minimal, statically linked Swift shim to accommodate the Swift-only StoreKit 2 API.</p><p><img src="https://www.icoderzsolutions.com/blog/wp-content/uploads/2023/10/Swift-vs-Objective-C.webp" /></p><hr/><small>28 Sep 2026, 05:27 UTC | #22531</small>]]></content>
   </entry>
-  <entry>
-    <title>Sam Carlisle Discusses Co-development and Outsourcing in the Game Industry</title>
-    <link href="https://www.youtube.com/watch?v=4DCIZ2DNQ0k" rel="alternate" />
-    <id>https://www.youtube.com/watch?v=4DCIZ2DNQ0k::v239</id>
-    <published>2026-09-25T16:03:00+00:00</published>
-    <updated>2026-09-25T16:03:00+00:00</updated>
-    <media:thumbnail url="https://i1.ytimg.com/vi/4DCIZ2DNQ0k/hqdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=4DCIZ2DNQ0k">youtube.com</a></small></p><hr/><p>Co-development differs from traditional outsourcing in how external partners integrate into a studio's workflow. While traditional outsourcing typically operates on a "time and materials" basis for specific assets, co-development involves partners working directly within a studio's engine and version control systems, granting them greater ownership of the production process.</p><p>This model enables studios to scale production and absorb economic volatility while protecting core internal teams from layoffs. Successful external collaboration depends heavily on prioritizing transparent communication and personal relationships over technical ability alone.</p><p><img src="https://i1.ytimg.com/vi/4DCIZ2DNQ0k/hqdefault.jpg" /></p><hr/><small>25 Sep 2026, 21:23 UTC | #22344</small>]]></content>
-  </entry>
 </feed>
