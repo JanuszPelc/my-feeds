@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T16:01:00+00:00</updated>
+  <updated>2026-09-30T16:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Ivan Chen Appointed CEO of BandLab Technologies</title>
+    <link href="https://musictech.com/news/industry/bandlab-technologies-ceo-ivan-chen/" rel="alternate" />
+    <id>https://musictech.com/news/industry/bandlab-technologies-ceo-ivan-chen/::v239</id>
+    <published>2026-09-30T16:09:00+00:00</published>
+    <updated>2026-09-30T16:09:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/meng-ru-kuok-ivan-chen-blt@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/industry/bandlab-technologies-ceo-ivan-chen/">musictech.com</a></small></p><hr/><p>Effective October 1, 2026, Ivan Chen will assume the role of CEO at BandLab Technologies, as co-founder Meng Ru Kuok transitions to executive chairman. Chen has previously served as the company's chief operating officer and president.</p><p>The leadership change is intended to drive global growth across the company's brands, which include BandLab, Cakewalk, ReverbNation, Airbit, and Aiode. Kuok will continue to lead the parent organization, Caldecott Music Group, as its CEO.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/meng-ru-kuok-ivan-chen-blt@2000x1500.jpg" /></p><hr/><small>30 Sep 2026, 19:03 UTC | #22843</small>]]></content>
+  </entry>
   <entry>
     <title>Bill Draper, Silicon Valley Venture Capitalist, Dies at 98</title>
     <link href="https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html" rel="alternate" />

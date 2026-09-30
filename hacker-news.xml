@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Turbo Haskell Compiler Targets JVM via GraalVM</title>
+    <link href="https://comonad.com/reader/2026/turbo-haskell/" rel="alternate" />
+    <id>https://comonad.com/reader/2026/turbo-haskell/::v239</id>
+    <published>2026-09-30T16:10:00+00:00</published>
+    <updated>2026-09-30T16:10:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://comonad.com/reader/2026/turbo-haskell/">comonad.com</a> | <a href="https://lobste.rs/s/j7kltq/turbo_haskell">discussion</a> | <a href="https://news.ycombinator.com/item?id=49908742">hacker news</a></small></p><hr/><p>Turbo Haskell Compiler (THC) is a new implementation of Haskell that runs on the JVM using the Truffle and GraalVM frameworks. It consumes GHC Core as input, allowing it to leverage GHC's parsing, typechecking, and desugaring stages while providing JIT or AOT compilation via GraalVM's Native Image.</p><p>The compiler supports advanced language features such as Template Haskell and Linear Haskell, and provides polyglot FFI to integrate Python, Ruby, R, and JavaScript libraries. Technical optimizations include specialized tail-call handling via code transformations and SIMD support using the JDK Vector API.</p><hr/><small>30 Sep 2026, 19:04 UTC | #22876</small>]]></content>
+  </entry>
+  <entry>
     <title>NASA Explores Return to Flight for SR-71A Blackbird</title>
     <link href="https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart" rel="alternate" />
     <id>https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart::v239</id>
@@ -776,14 +784,5 @@
     <updated>2026-09-25T23:17:00+00:00</updated>
     <media:thumbnail url="https://krebsonsecurity.com/wp-content/uploads/2024/12/camwagenius-selfie.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/">krebsonsecurity.com</a> | <a href="https://www.justice.gov/opa/pr/former-us-soldier-sentenced-hacking-and-extortion-scheme-exposed-sensitive-data-us">source</a></small></p><hr/><p>Cameron John Wagenius, a former U.S. Army soldier, was sentenced to 70 months in federal prison for hacking into telecommunications companies and stealing call and text metadata for over 100 million AT&amp;T customers. Operating under the alias "Kiberphant0m," Wagenius exploited misconfigured Snowflake cloud storage accounts to access data and attempted to extort companies by threatening to release stolen information.</p><p>The extortion scheme included threats to release alleged communication logs of high-profile political figures and schematics stolen from the National Security Agency. While awaiting sentencing, Wagenius allegedly used AI tools to research security vulnerabilities and escape methods within the Bureau of Prisons.</p><p><img src="https://krebsonsecurity.com/wp-content/uploads/2024/12/camwagenius-selfie.png" /></p><hr/><small>26 Sep 2026, 06:04 UTC | #22389</small>]]></content>
-  </entry>
-  <entry>
-    <title>First Principles Thinking in the Era of Agentic AI Development</title>
-    <link href="https://sunilsadasivan.com/writing/first-principles-thinking/" rel="alternate" />
-    <id>https://sunilsadasivan.com/writing/first-principles-thinking/::v239</id>
-    <published>2026-09-25T18:51:00+00:00</published>
-    <updated>2026-09-25T18:51:00+00:00</updated>
-    <media:thumbnail url="https://assets.website-files.com/5f6e202c72c71024f95ace21/6499ce634951aea67dc3ffc5_first-principles-thinking-infographics.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://sunilsadasivan.com/writing/first-principles-thinking/">sunilsadasivan.com</a> | <a href="https://news.ycombinator.com/item?id=49844736">hacker news</a></small></p><hr/><p>The article argues that senior engineers risk a period of stagnation—referred to as a "death spiral"—when accumulated experience prevents them from approaching new technical paradigms with a fresh perspective. To counter this, the author advocates for first principles thinking, which involves deconstructing complex problems into their most fundamental truths rather than relying on analogies or historical technical constraints.</p><p>This mental framework is presented as essential for navigating the shift toward agentic AI development. By setting aside existing biases and focusing on small, rapid learning loops, engineers can maintain momentum and effectively integrate AI agents into their development workflows.</p><p><img src="https://assets.website-files.com/5f6e202c72c71024f95ace21/6499ce634951aea67dc3ffc5_first-principles-thinking-infographics.webp" /></p><hr/><small>26 Sep 2026, 00:06 UTC | #22394</small>]]></content>
   </entry>
 </feed>
