@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-30T02:37:00+00:00</updated>
+  <updated>2026-09-30T02:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Tcl/Tk 9.1 Development and Feature Roadmap</title>
+    <link href="https://www.tcl-lang.org/software/tcltk/9.1.html" rel="alternate" />
+    <id>https://www.tcl-lang.org/software/tcltk/9.1.html::v239</id>
+    <published>2026-09-30T02:42:00+00:00</published>
+    <updated>2026-09-30T02:42:00+00:00</updated>
+    <media:thumbnail url="https://www.tcl-lang.org/images/Tcl9.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.tcl-lang.org/software/tcltk/9.1.html">tcl-lang.org</a> | <a href="https://news.ycombinator.com/item?id=49896712">hacker news</a></small></p><hr/><p>Tcl/Tk 9.1.0 is currently in development with a target stable release date in September 2026. This iteration aims to expand the feature set and interfaces established in the Tcl/Tk 9.0 foundation.</p><p>Key Tcl updates include new commands for Unicode normalization, monotonic clocks, and list filtering, alongside expanded options for the `subst` and `switch` commands. Tk improvements focus on accessibility via screen reader support, initial support for bidirectional text and right-to-left languages, and the introduction of the `ttk::toggleswitch` widget.</p><p><img src="https://www.tcl-lang.org/images/Tcl9.png" /></p><hr/><small>30 Sep 2026, 10:28 UTC | #22814</small>]]></content>
+  </entry>
   <entry>
     <title>OnePlus Vulnerability Chain Enables Root Access from Untrusted Apps</title>
     <link href="https://blog.nns.ee/2026/09/24/oneplus-root/" rel="alternate" />
