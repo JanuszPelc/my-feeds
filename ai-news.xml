@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-30T07:55:00+00:00</updated>
+  <updated>2026-09-30T08:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Solving LLM Hallucination via Reinforcement Learning for Calibrated Decisions</title>
+    <link href="https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/" rel="alternate" />
+    <id>https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/::v239</id>
+    <published>2026-09-30T08:04:00+00:00</published>
+    <updated>2026-09-30T08:04:00+00:00</updated>
+    <media:thumbnail url="https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/mitigating-llm-hallucination-via-behaviorally-calibrated-reinforcement-learning-4.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/">robw.fyi</a> | <a href="https://lobste.rs/s/kolgwk/how_solve_hallucination_with_rlcd">discussion</a></small></p><hr/><p>LLMs often generate confidence scores as linguistic patterns rather than mathematical measurements, a phenomenon that contributes to hallucinations. Reinforcement Learning for Calibrated Decisions (RLCD) mitigates this by training models to output probability distributions that align with actual empirical outcomes. This ensures that a model's stated certainty reflects its true likelihood of being correct.</p><p>Calibrated probabilities allow model outputs to be integrated into mathematical frameworks like the Kelly criterion to calculate optimal risk. While closed-source models may struggle to adapt their calibration to specific new domains, users can post-train open-source models like Laya with RLCD to create reliable, mathematical control signals for automated or autonomous systems.</p><p><img src="https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/mitigating-llm-hallucination-via-behaviorally-calibrated-reinforcement-learning-4.png" /></p><hr/><small>30 Sep 2026, 12:50 UTC | #22829</small>]]></content>
+  </entry>
   <entry>
     <title>DeepSeek and Huawei Partner to Develop Ascend Chip Programming Tools</title>
     <link href="https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/" rel="alternate" />
