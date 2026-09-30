@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-30T08:04:00+00:00</updated>
+  <updated>2026-09-30T08:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>ModelScope and MoArk Compete to Become China's Open-Source AI Hub</title>
+    <link href="https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/" rel="alternate" />
+    <id>https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/::v239</id>
+    <published>2026-09-30T08:08:00+00:00</published>
+    <updated>2026-09-30T08:08:00+00:00</updated>
+    <media:thumbnail url="https://moark.ai/docs/assets/images/select-api.overseas-94ead9fd81445a0df26852c2b4862a8f.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/">restofworld.org</a></small></p><hr/><p>To bypass regulatory blocks and mitigate the risk of U.S. sanctions, Alibaba’s ModelScope and OSChina’s MoArk are building a domestic open-source AI ecosystem. These platforms aim to provide self-reliant alternatives to the U.S.-based Hugging Face, ensuring Chinese developers have stable access to tools and models even if international services are restricted.</p><p>While Hugging Face hosts over 3 million models, Chinese platforms host significantly fewer, with ModelScope reporting 170,000 and MoArk supporting 20,000. To bridge this gap, developers are optimizing models for Chinese-made chips and hosting hackathons to attract users away from global platforms like GitHub and Hugging Face.</p><p><img src="https://moark.ai/docs/assets/images/select-api.overseas-94ead9fd81445a0df26852c2b4862a8f.png" /></p><hr/><small>30 Sep 2026, 13:34 UTC | #22798</small>]]></content>
+  </entry>
   <entry>
     <title>Solving LLM Hallucination via Reinforcement Learning for Calibrated Decisions</title>
     <link href="https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/" rel="alternate" />
@@ -523,14 +532,5 @@
     <updated>2026-09-25T15:02:00+00:00</updated>
     <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Mirhoseini-Goldie-16x9-Dark.png?w=680" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/">techcrunch.com</a> | <a href="https://www.prnewswire.com/news-releases/ricursive-intelligence-raises-300-million-series-a-at-4-billion-valuation-to-accelerate-ai-driven-semiconductor-design-302670061.html">source</a></small></p><hr/><p>Ricursive Intelligence, founded by former Google and Anthropic researchers Anna Goldie and Azalia Mirhoseini, is developing AI systems to automate and accelerate the semiconductor design process. The startup aims to reduce chip development cycles from years to weeks by creating self-improving AI that learns from each design iteration. The company has raised $335 million, including a $300 million Series A, at a $4 billion valuation with participation from investors including Nvidia.</p><p>The founders previously co-led Google's AlphaChip project, which used AI to generate chip layouts in hours rather than months. By closing the loop between AI model training and hardware development, Ricursive Intelligence seeks to address hardware bottlenecks and enable the creation of more efficient, specialized architectures for next-generation AI models.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Mirhoseini-Goldie-16x9-Dark.png?w=680" /></p><hr/><small>25 Sep 2026, 20:35 UTC | #22333</small>]]></content>
-  </entry>
-  <entry>
-    <title>Microsoft Unveils Copilot Super App Featuring Chat, Coding, and Autopilot</title>
-    <link href="https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InU4bW1jR3ZjYWsiLCJwIjoiL25ld3MvMTAwMDUzMi9taWNyb3NvZnQtY29waWxvdC1zdXBlci1hcHAtY2hhdC1jb2RpbmctYXV0b3BpbG90IiwiZXhwIjoxNzkwNzY5NjU0LCJpYXQiOjE3OTAzMzc2NTR9.KN3P1sn7AgHa-sfRBRy4EC22AO-ZfzzeIe-P0jtw-VM&amp;utm_medium=gift-link" rel="alternate" />
-    <id>https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InU4bW1jR3ZjYWsiLCJwIjoiL25ld3MvMTAwMDUzMi9taWNyb3NvZnQtY29waWxvdC1zdXBlci1hcHAtY2hhdC1jb2RpbmctYXV0b3BpbG90IiwiZXhwIjoxNzkwNzY5NjU0LCJpYXQiOjE3OTAzMzc2NTR9.KN3P1sn7AgHa-sfRBRy4EC22AO-ZfzzeIe-P0jtw-VM&amp;utm_medium=gift-link::v239</id>
-    <published>2026-09-25T13:26:00+00:00</published>
-    <updated>2026-09-25T13:26:00+00:00</updated>
-    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copilot-Code.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InU4bW1jR3ZjYWsiLCJwIjoiL25ld3MvMTAwMDUzMi9taWNyb3NvZnQtY29waWxvdC1zdXBlci1hcHAtY2hhdC1jb2RpbmctYXV0b3BpbG90IiwiZXhwIjoxNzkwNzY5NjU0LCJpYXQiOjE3OTAzMzc2NTR9.KN3P1sn7AgHa-sfRBRy4EC22AO-ZfzzeIe-P0jtw-VM&utm_medium=gift-link">theverge.com</a> | <a href="https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/">source</a></small></p><hr/><p>Microsoft has launched a redesigned Copilot "super app" that consolidates chat, coding, and autonomous agents into a single interface. The app is organized into three tabs: Home, which merges Copilot Chat and Cowork; Code, which allows users to build and host sandboxed internal apps using GitHub Copilot technology; and Autopilot, an always-on digital assistant rebranded from Scout.</p><p>Autopilot operates via a dedicated cloud instance to perform continuous tasks such as monitoring Teams channels or executing recurring workflows. To manage the costs of these agentic capabilities, Microsoft is introducing usage-based billing for the Code and Autopilot sections, while offering a standard subscription for integrated Copilot features within Microsoft 365.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copilot-Code.png?quality=90&strip=all&crop=0,0,100,100" /></p><hr/><small>25 Sep 2026, 19:17 UTC | #22314</small>]]></content>
   </entry>
 </feed>

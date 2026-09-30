@@ -752,22 +752,4 @@
     <media:thumbnail url="https://www.redox-os.org/img/bench/ring-comparison.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.redox-os.org/news/this-month-260831/">redox-os.org</a> | <a href="https://lobste.rs/s/kc8t26/this_month_redox_august_2026">discussion</a></small></p><hr/><p>Redox OS introduced several architectural and performance improvements in August 2026, including "Redox Rings," an I/O API modeled after Linux's io_uring that provides up to 15x performance gains for NVMe and filesystem I/O. The update also brings initial NUMA-based memory management, ARM64 multi-core support, and a kernel fix that reduced GCC compilation times from ten hours to 30 minutes. Furthermore, the project confirmed working QEMU support for both server and desktop environments.</p><p>Additional advancements include process priority support in the scheduler, enhanced security via namespace-managed file access, and improved UEFI compatibility. The update also enables dual-boot installations from Linux and introduces kernel binary size profiling to assist in reducing memory usage.</p><p><img src="https://www.redox-os.org/img/bench/ring-comparison.png" /></p><hr/><small>25 Sep 2026, 21:21 UTC | #22382</small>]]></content>
   </entry>
-  <entry>
-    <title>Mac Mini M6 Achieves Stable 600MHz Pentium II Emulation in 86Box</title>
-    <link href="https://nyaa.sh/reviews/mac-mini-m6-emulation" rel="alternate" />
-    <id>https://nyaa.sh/reviews/mac-mini-m6-emulation::v239</id>
-    <published>2026-09-25T13:27:00+00:00</published>
-    <updated>2026-09-25T13:27:00+00:00</updated>
-    <media:thumbnail url="https://nyaa.sh/images/m6_86box_650mhz_p2_cb2000.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://nyaa.sh/reviews/mac-mini-m6-emulation">nyaa.sh</a> | <a href="https://news.ycombinator.com/item?id=49841285">hacker news</a></small></p><hr/><p>The Mac Mini M6 achieves a stable 600MHz Pentium II emulation in 86Box 6.0, maintaining 100% emulation speed and uninterrupted audio. This performance represents a 20% increase in the stable emulated clock ceiling over the Mac Mini M4, which is limited to 500MHz in the same configuration.</p><p>The testing environment utilizes Windows 98 SE and an emulated Voodoo 3 graphics card. Because 86Box's hardware-level emulation relies heavily on single-threaded performance for CPU, chipset, and bus timing, the M6's high single-core clock speeds directly enable these higher achievable emulated frequencies.</p><p><img src="https://nyaa.sh/images/m6_86box_650mhz_p2_cb2000.webp" /></p><hr/><small>25 Sep 2026, 19:20 UTC | #22367</small>]]></content>
-  </entry>
-  <entry>
-    <title>git-bug: Distributed, Offline-First Bug Tracker Integrated in Git</title>
-    <link href="https://github.com/git-bug/git-bug" rel="alternate" />
-    <id>https://github.com/git-bug/git-bug::v239</id>
-    <published>2026-09-25T13:23:00+00:00</published>
-    <updated>2026-09-25T13:23:00+00:00</updated>
-    <media:thumbnail url="https://github.com/git-bug/git-bug/raw/trunk/doc/assets/native-workflow.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/git-bug/git-bug">github.com</a> | <a href="https://news.ycombinator.com/item?id=49843174">hacker news</a></small></p><hr/><p>git-bug is a distributed, offline-first bug tracker that integrates directly with Git repositories. By leveraging standard Git remotes, users can collaborate on issues, comments, and status updates using git push and git pull commands, allowing for issue management without a centralized hosting service.</p><p>The tool provides multiple interfaces, including a command-line interface (CLI), an interactive terminal UI, and a local Web UI powered by a GraphQL API. It also features bridges to import and export data from major platforms such as GitHub, GitLab, Jira, and Launchpad.</p><p><img src="https://github.com/git-bug/git-bug/raw/trunk/doc/assets/native-workflow.png" /></p><hr/><small>25 Sep 2026, 18:57 UTC | #22361</small>]]></content>
-  </entry>
 </feed>
