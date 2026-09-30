@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-09-29T21:31:00+00:00</updated>
+  <updated>2026-09-30T16:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Factorio Quality Upcycling: Mathematical Model and Calculator</title>
+    <link href="https://exyr.org/2026/solving-factorio-quality/" rel="alternate" />
+    <id>https://exyr.org/2026/solving-factorio-quality/::v239</id>
+    <published>2026-09-30T16:22:00+00:00</published>
+    <updated>2026-09-30T16:22:00+00:00</updated>
+    <media:thumbnail url="https://exyr.org/2026/solving-factorio-quality/wiki-modules.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://exyr.org/2026/solving-factorio-quality/">exyr.org</a> | <a href="https://news.ycombinator.com/item?id=49887343">hacker news</a></small></p><hr/><p>Mathematical modeling using transition matrices and linear equations allows for the calculation of quality transitions in the *Factorio: Space Age* expansion. This approach specifically addresses "washing" (pure recycling loops) and "upcycling" (crafting-recycling cycles) to predict how items move through different quality tiers.</p><p>An online calculator tool is provided to help players forecast resource consumption and output rates for high-quality items. The model incorporates variables such as module probabilities, recycling ingredient returns, and recipe productivity bonuses.</p><p><img src="https://exyr.org/2026/solving-factorio-quality/wiki-modules.png" /></p><hr/><small>30 Sep 2026, 20:02 UTC | #22890</small>]]></content>
+  </entry>
   <entry>
     <title>Valve to Transition Steam's Discounts and Events Tab to Personalized Algorithms</title>
     <link href="https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven" rel="alternate" />

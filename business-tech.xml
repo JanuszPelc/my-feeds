@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T16:09:00+00:00</updated>
+  <updated>2026-09-30T16:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google Pilots Payments to Publishers for AI Content Contributions</title>
+    <link href="https://www.theinformation.com/articles/google-paying-100-digital-publishers-ai-overviews" rel="alternate" />
+    <id>https://www.theinformation.com/articles/google-paying-100-digital-publishers-ai-overviews::v239</id>
+    <published>2026-09-30T16:21:00+00:00</published>
+    <updated>2026-09-30T16:21:00+00:00</updated>
+    <media:thumbnail url="https://cdn1.editorialge.com/wp-content/uploads/2026/06/impact_google_ai_overviews.jpg.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/google-paying-100-digital-publishers-ai-overviews">theinformation.com</a></small></p><hr/><p>Google is running a pilot program that pays approximately 100 digital publishers based on how much of their content is used to generate AI-powered answers. These responses are integrated into Google products including AI Overviews, AI Mode, and Gemini, with payout amounts varying significantly based on the scale of the contribution.</p><p>The initiative is reportedly managed via Google Search Console, which allows publishers to track their specific contributions to AI-generated results. This move comes as publishers seek new revenue models to offset potential traffic losses caused by AI-driven search interfaces.</p><p><img src="https://cdn1.editorialge.com/wp-content/uploads/2026/06/impact_google_ai_overviews.jpg.webp" /></p><hr/><small>30 Sep 2026, 19:59 UTC | #22837</small>]]></content>
+  </entry>
+  <entry>
+    <title>Tinder Launches Group Hangouts Feature</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-30/tinder-launches-group-hangouts-feature-to-take-the-pressure-off-first-dates" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-30/tinder-launches-group-hangouts-feature-to-take-the-pressure-off-first-dates::v239</id>
+    <published>2026-09-30T16:20:00+00:00</published>
+    <updated>2026-09-30T16:20:00+00:00</updated>
+    <media:thumbnail url="https://www.easyrest.com/wp-content/uploads/2026/03/word-image-10090-1.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-30/tinder-launches-group-hangouts-feature-to-take-the-pressure-off-first-dates">bloomberg.com</a> | <a href="https://www.help.tinder.com/hc/en-us/articles/46714669437453-Group-Hangouts">source</a></small></p><hr/><p>Tinder is rolling out a "Group Hangouts" feature in select U.S. markets, allowing users to form groups of three to 15 people for shared activities. The feature is designed to reduce the social pressure typically associated with traditional one-on-one first dates.</p><p>The initiative aims to re-engage younger users who have become increasingly jaded with conventional dating app dynamics. By facilitating group-based social interactions, Tinder is attempting to expand its utility from strictly romantic matching toward broader social connection.</p><p><img src="https://www.easyrest.com/wp-content/uploads/2026/03/word-image-10090-1.jpeg" /></p><hr/><small>30 Sep 2026, 19:57 UTC | #22831</small>]]></content>
+  </entry>
   <entry>
     <title>Ivan Chen Appointed CEO of BandLab Technologies</title>
     <link href="https://musictech.com/news/industry/bandlab-technologies-ceo-ivan-chen/" rel="alternate" />
