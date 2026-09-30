@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T20:01:00+00:00</updated>
+  <updated>2026-09-29T20:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Explores AI Consciousness in Summits with Religious Leaders</title>
+    <link href="https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html?unlocked_article_code=1.E1E.Nl5Q.naa1TDu367ff&amp;smid=bs-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html?unlocked_article_code=1.E1E.Nl5Q.naa1TDu367ff&amp;smid=bs-share::v239</id>
+    <published>2026-09-29T20:20:00+00:00</published>
+    <updated>2026-09-29T20:20:00+00:00</updated>
+    <media:thumbnail url="https://www.thedefensenews.com/postimages/91d948a4892dae15f45739f7ab9ce07c.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html?unlocked_article_code=1.E1E.Nl5Q.naa1TDu367ff&smid=bs-share">nytimes.com</a></small></p><hr/><p>Anthropic co-founder Christopher Olah and religious and philosophical leaders have held summits to investigate the potential for consciousness in the Claude AI model. While researchers have identified internal AI states that functionally mirror human emotions, Olah stated that the company cannot definitively confirm if AI models are conscious.</p><p>The discussions focus on the moral frameworks required for AI development and the spiritual implications of advanced artificial intelligence. These summits are part of an effort to incorporate religious and philosophical perspectives into the ethical governance and social oversight of AI technology.</p><p><img src="https://www.thedefensenews.com/postimages/91d948a4892dae15f45739f7ab9ce07c.jpg" /></p><hr/><small>30 Sep 2026, 02:24 UTC | #22754</small>]]></content>
+  </entry>
   <entry>
     <title>Tymon Smektala Joins Bloober Team’s Broken Mirror Games as Executive Director</title>
     <link href="https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games" rel="alternate" />
