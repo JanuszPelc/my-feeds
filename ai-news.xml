@@ -497,31 +497,4 @@
     <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/">techcrunch.com</a> | <a href="https://ai.meta.com/muse/">source</a> | <a href="https://news.ycombinator.com/item?id=49615537">hacker news</a></small></p><hr/><p>Users can now request entry into Meta's early access program for its Muse AI agent. Registration is available through a prompt in the app or via a specific link shared on the Muse X account.</p><p>Previewed features include a video-chat-capable digital avatar, expanded shopping integrations, and a Mac application that can perform desktop tasks. Meta also plans to integrate Muse into its AI-powered glasses to facilitate voice-activated control.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024" /></p><hr/><small>26 Sep 2026, 01:46 UTC | #22378</small>]]></content>
   </entry>
-  <entry>
-    <title>Meta's Muse AI Agent Competes with Recent OpenAI and Anthropic Model Releases</title>
-    <link href="https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/" rel="alternate" />
-    <id>https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/::v239</id>
-    <published>2026-09-25T18:42:00+00:00</published>
-    <updated>2026-09-25T18:42:00+00:00</updated>
-    <media:thumbnail url="https://cdn.neowin.com/news/images/uploaded/2026/06/1782230011_meta_glasses_by_kylie_case_story.webp" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/">techcrunch.com</a></small></p><hr/><p>Meta's Muse personal AI agent is reportedly outpacing early ChatGPT engagement and is slated for expansion into smart glasses and a specialized wearable device. The TechCrunch Equity podcast discusses this consumer strategy alongside recent model updates from Anthropic and OpenAI.</p><p>The episode also covers a16z's launch of the Horowitz Andreessen Academy, Oura's $2.2 billion IPO, and Ema's $77 million funding round for automating enterprise workflows with AI agents. The discussion explores the intersection of AI technology, hardware, and the shifting landscape for startups.</p><p><img src="https://cdn.neowin.com/news/images/uploaded/2026/06/1782230011_meta_glasses_by_kylie_case_story.webp" /></p><hr/><small>25 Sep 2026, 23:38 UTC | #22355</small>]]></content>
-  </entry>
-  <entry>
-    <title>Astra and Claude Opus 5 Decode Unsolved Enigma Messages</title>
-    <link href="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/::v239</id>
-    <published>2026-09-25T18:35:00+00:00</published>
-    <updated>2026-09-25T18:35:00+00:00</updated>
-    <media:thumbnail url="https://img.biggo.com/3stw_BjlOYCmkUjJdrITal0yJSq42WRswq6_p3kKyIE/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA1LzIwMjYwNTE5MTkzM19LYXJwYXRoeV9qb2luc19BbnRocm9waWNfcHJlLXRyYWluaW5nX3RlYW1fMjAyNjA1MjBfMDM0NjE1LmpwZw.jpg" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/">techcrunch.com</a></small></p><hr/><p>OpenAI’s Astra model and Anthropic’s Claude Opus 5 have deciphered two previously unsolved Enigma messages. Developer Carter Leffen used Astra to recover the plaintext of a message that had remained unbroken since 2005, while researcher Jack Willis used Claude Opus 5 to crack a different historical code.</p><p>Cryptologist Frode Weirerud validated the results, highlighting the models' ability to perform archival research and simulate machine mechanics. These findings demonstrate advanced reasoning capabilities that could significantly accelerate cryptanalysis, with only seven unsolved Enigma messages remaining.</p><p><img src="https://img.biggo.com/3stw_BjlOYCmkUjJdrITal0yJSq42WRswq6_p3kKyIE/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA1LzIwMjYwNTE5MTkzM19LYXJwYXRoeV9qb2luc19BbnRocm9waWNfcHJlLXRyYWluaW5nX3RlYW1fMjAyNjA1MjBfMDM0NjE1LmpwZw.jpg" /></p><hr/><small>25 Sep 2026, 22:33 UTC | #22350</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ollaya Launches Local Runtime for Decision Models</title>
-    <link href="https://ollaya.dev/" rel="alternate" />
-    <id>https://ollaya.dev/::v239</id>
-    <published>2026-09-25T18:34:00+00:00</published>
-    <updated>2026-09-25T18:34:00+00:00</updated>
-    <media:thumbnail url="https://airoads.org/img/course/ch13-open-source-llm-runtime-decision-en.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ollaya.dev/">ollaya.dev</a> | <a href="https://news.ycombinator.com/item?id=49848269">hacker news</a></small></p><hr/><p>Ollaya is an open-source framework that allows users to run specialized decision models locally on macOS, Windows, Linux, and Docker. Unlike traditional generative models that use autoregressive token-by-token generation, these models execute in a single forward pass to provide typed, calibrated answers in milliseconds.</p><p>The platform is compatible with the TypeSafe API and Python SDK. It supports NVIDIA GPU acceleration and focuses on data privacy by enabling the local scoring of sensitive data, such as customer emails and messages, directly on the user's own hardware.</p><p><img src="https://airoads.org/img/course/ch13-open-source-llm-runtime-decision-en.webp" /></p><hr/><small>25 Sep 2026, 22:20 UTC | #22386</small>]]></content>
-  </entry>
 </feed>
