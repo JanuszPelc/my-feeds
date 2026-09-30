@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-30T07:56:00+00:00</updated>
+  <updated>2026-09-30T08:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Clifford Stoll's The Cuckoo's Egg Details Hunt for a Cyber Spy</title>
+    <link href="https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)" rel="alternate" />
+    <id>https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)::v239</id>
+    <published>2026-09-30T08:49:00+00:00</published>
+    <updated>2026-09-30T08:49:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)">en.wikipedia.org</a> | <a href="https://lobste.rs/s/nicozi/cuckoo_s_egg">discussion</a></small></p><hr/><p>This 1989 book provides a first-person account of an investigation into an unauthorized user at Lawrence Berkeley National Laboratory. The author traces the hacker, Markus Hess, from a minor accounting error to an espionage operation in West Germany that was selling information to the KGB.</p><p>The work is a seminal account in cybersecurity history, documenting one of the first major instances of international computer espionage. It details early investigative tactics, including the use of honeypots and the manual tracing of telephone connections to uncover a hacker's physical location.</p><hr/><small>30 Sep 2026, 14:04 UTC | #22842</small>]]></content>
+  </entry>
   <entry>
     <title>Advanced C Optimization Techniques for Playdate</title>
     <link href="https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011" rel="alternate" />
