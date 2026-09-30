@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-30T02:42:00+00:00</updated>
+  <updated>2026-09-30T07:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>OpenBSD Developers Reject uutils Coreutils Port</title>
+    <link href="https://www.mail-archive.com/ports%40openbsd.org/msg143892.html" rel="alternate" />
+    <id>https://www.mail-archive.com/ports%40openbsd.org/msg143892.html::v239</id>
+    <published>2026-09-30T07:48:00+00:00</published>
+    <updated>2026-09-30T07:48:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.mail-archive.com/ports%40openbsd.org/msg143892.html">mail-archive.com</a> | <a href="https://lobste.rs/s/vmmq7g/openbsd_s_ports_tree_keeps_gpl_coreutils">discussion</a></small></p><hr/><p>OpenBSD developers have rejected a proposal to include uutils, a Rust-based reimplementation of GNU coreutils, in the OpenBSD ports collection. The proposal sought to install the utilities as alternatives to existing GNU ports by using g-prefixed command names, such as gcat and gls, to avoid package conflicts.</p><p>Opponents, including founder Theo de Raadt, argued that introducing command-line tools with subtle behavioral differences could break user scripts and command pipelines. The debate also highlighted concerns regarding the integration of Rust-based software into the OpenBSD ecosystem.</p><hr/><small>30 Sep 2026, 10:57 UTC | #22809</small>]]></content>
+  </entry>
   <entry>
     <title>Tcl/Tk 9.1 Development and Feature Roadmap</title>
     <link href="https://www.tcl-lang.org/software/tcltk/9.1.html" rel="alternate" />

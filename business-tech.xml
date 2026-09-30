@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T02:36:00+00:00</updated>
+  <updated>2026-09-30T03:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Appoints Tino Cuéllar as Chief Global Affairs Officer</title>
+    <link href="https://missionlocal.org/2026/09/mariano-florentino-cuellar-supreme-court-carnegie-anthropic-ai/" rel="alternate" />
+    <id>https://missionlocal.org/2026/09/mariano-florentino-cuellar-supreme-court-carnegie-anthropic-ai/::v239</id>
+    <published>2026-09-30T03:46:00+00:00</published>
+    <updated>2026-09-30T03:46:00+00:00</updated>
+    <media:thumbnail url="https://i0.wp.com/missionlocal.org/wp-content/uploads/2026/09/Mariano-Florentino_Cuellar.jpg?resize=480%2C640&amp;ssl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://missionlocal.org/2026/09/mariano-florentino-cuellar-supreme-court-carnegie-anthropic-ai/">missionlocal.org</a> | <a href="https://www.anthropic.com/news/tino-cuellar">source</a></small></p><hr/><p>Mariano-Florentino "Tino" Cuéllar has joined Anthropic as the company's first Chief Global Affairs Officer. A former California Supreme Court justice and former president of the Carnegie Endowment for International Peace, Cuéllar is tasked with managing global policy, strategic international engagement, and government relations as the company navigates increasing regulatory scrutiny.</p><p>His appointment signals a move toward institutionalized diplomacy as frontier AI labs face complex legal and social challenges. Cuéllar's background in public law and international affairs is intended to help the company manage relationships with governments and address concerns regarding AI safety and its impact on democratic governance.</p><p><img src="https://i0.wp.com/missionlocal.org/wp-content/uploads/2026/09/Mariano-Florentino_Cuellar.jpg?resize=480%2C640&ssl=1" /></p><hr/><small>30 Sep 2026, 10:56 UTC | #22788</small>]]></content>
+  </entry>
   <entry>
     <title>Travis Kalanick Re-enters Silicon Valley with AI and Robotics Startup Atoms</title>
     <link href="https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/" rel="alternate" />
