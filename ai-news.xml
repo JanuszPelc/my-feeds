@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-30T08:08:00+00:00</updated>
+  <updated>2026-09-30T09:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Pi Integrates Model Context Protocol</title>
+    <link href="https://earendil.com/posts/you-said-no-mcp/" rel="alternate" />
+    <id>https://earendil.com/posts/you-said-no-mcp/::v239</id>
+    <published>2026-09-30T09:56:00+00:00</published>
+    <updated>2026-09-30T09:56:00+00:00</updated>
+    <media:thumbnail url="https://docs.spring.io/spring-ai/reference/_images/mcp/java-mcp-client-architecture.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://earendil.com/posts/you-said-no-mcp/">earendil.com</a> | <a href="https://news.ycombinator.com/item?id=49906637">hacker news</a></small></p><hr/><p>Pi has integrated Model Context Protocol (MCP) into its core, reversing a previous decision to avoid the protocol. The integration aims to improve tool discovery and metadata management, allowing the platform to better support advanced LLM capabilities such as deferred tool loading and varying reasoning levels.</p><p>The update also includes Codemode, a JavaScript-based sandbox that orchestrates and coordinates complex tool calls. This feature enables agents to execute sequences of tools and use JavaScript to combine their outputs, such as piping data from a task management service into a classification model for automated analysis.</p><p><img src="https://docs.spring.io/spring-ai/reference/_images/mcp/java-mcp-client-architecture.jpg" /></p><hr/><small>30 Sep 2026, 14:32 UTC | #22845</small>]]></content>
+  </entry>
   <entry>
     <title>ModelScope and MoArk Compete to Become China's Open-Source AI Hub</title>
     <link href="https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/" rel="alternate" />
