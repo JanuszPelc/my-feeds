@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T02:22:00+00:00</updated>
+  <updated>2026-09-30T02:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Travis Kalanick Re-enters Silicon Valley with AI and Robotics Startup Atoms</title>
+    <link href="https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/" rel="alternate" />
+    <id>https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/::v239</id>
+    <published>2026-09-30T02:36:00+00:00</published>
+    <updated>2026-09-30T02:36:00+00:00</updated>
+    <media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/09/KAL_Travis-Kalanick-Startup-Fest_also-Social-thumbnail.jpg?format=webp&amp;w=1440&amp;quality=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/">fortune.com</a> | <a href="https://a16z.com/travis-is-back/">source</a></small></p><hr/><p>Travis Kalanick, the former CEO of Uber, is re-emerging in the tech industry with Atoms, an industrial AI and robotics startup. The company recently secured $1.7 billion in funding led by Andreessen Horowitz, marking Kalanick’s first major venture since his 2017 ouster from Uber.</p><p>His return reflects a significant cultural shift in Silicon Valley, where a new generation of founders and investors has embraced his aggressive, high-growth leadership style. While his tenure at Uber was defined by numerous scandals and allegations of a toxic work culture, his latest venture aims to use advanced intelligence to digitize and automate physical-world industries.</p><p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/09/KAL_Travis-Kalanick-Startup-Fest_also-Social-thumbnail.jpg?format=webp&w=1440&quality=75" /></p><hr/><small>30 Sep 2026, 09:30 UTC | #22782</small>]]></content>
+  </entry>
   <entry>
     <title>Bill Gates Discusses AI Regulation and Employment Impacts</title>
     <link href="https://www.nytimes.com/2026/09/29/opinion/ezra-klein-podcast-bill-gates.html?unlocked_article_code=1.E1E._RE1.5q4j8Ds1se8H&amp;smid=url-share" rel="alternate" />

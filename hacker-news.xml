@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-30T02:14:00+00:00</updated>
+  <updated>2026-09-30T02:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>OnePlus Vulnerability Chain Enables Root Access from Untrusted Apps</title>
+    <link href="https://blog.nns.ee/2026/09/24/oneplus-root/" rel="alternate" />
+    <id>https://blog.nns.ee/2026/09/24/oneplus-root/::v239</id>
+    <published>2026-09-30T02:37:00+00:00</published>
+    <updated>2026-09-30T02:37:00+00:00</updated>
+    <media:thumbnail url="https://blog.nns.ee/img/2026-09-24-oneplus-root/olc-doshell.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.nns.ee/2026/09/24/oneplus-root/">blog.nns.ee</a> | <a href="https://lobste.rs/s/a5rcxy/getting_root_on_oneplus_15_from_untrusted">discussion</a></small></p><hr/><p>A security researcher has demonstrated a vulnerability chain in OxygenOS that allows an untrusted app with no special permissions to gain full root access on OnePlus 15 devices. The exploit leverages a command injection in the AtlasService telemetry component to execute commands within the dumpstate SELinux domain, which then uses a vendor HAL to spawn a shell with unrestricted Linux capabilities.</p><p>OnePlus has confirmed the vulnerability affecting various OnePlus and OPPO devices and is rolling out patches. The issue has been addressed in OxygenOS version 16.0.10.500(EX01) and several other maintenance branches.</p><p><img src="https://blog.nns.ee/img/2026-09-24-oneplus-root/olc-doshell.png" /></p><hr/><small>30 Sep 2026, 09:33 UTC | #22807</small>]]></content>
+  </entry>
   <entry>
     <title>Relapse-Exploit Released for PS5 Firmware 7.00 to 13.60</title>
     <link href="https://github.com/ntfargo/Relapse-Exploit" rel="alternate" />
