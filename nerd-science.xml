@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-29T11:15:00+00:00</updated>
+  <updated>2026-09-29T23:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Pragmatic Anthropomorphism in AI Interaction</title>
+    <link href="https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/" rel="alternate" />
+    <id>https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/::v239</id>
+    <published>2026-09-29T23:33:00+00:00</published>
+    <updated>2026-09-29T23:33:00+00:00</updated>
+    <media:thumbnail url="https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/anabrus-simplex-dithered.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/">blog.lmorchard.com</a> | <a href="https://lobste.rs/s/yidvju/pragmatic_anthropomorphism_how_talk">discussion</a></small></p><hr/><p>Treating Large Language Models (LLMs) as competent collaborators, rather than debating their sentience, facilitates more effective interaction through "pragmatic anthropomorphism." This technique uses specific conversational registers to navigate a model's latent space, steering it toward professional and technical reasoning rather than superficial or defensive responses.</p><p>Anthropic research indicates that LLMs exhibit "functional emotions," where internal representations of emotional concepts causally influence behavior. Adopting a collegial tone serves as an operational method to steer models into the high-quality, academic, or technical domains of their training data.</p><p><img src="https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/anabrus-simplex-dithered.png" /></p><hr/><small>30 Sep 2026, 04:54 UTC | #22789</small>]]></content>
+  </entry>
   <entry>
     <title>The Decline of American Social Hosting and Face-to-Face Interaction</title>
     <link href="https://www.derekthompson.org/p/the-death-of-the-american-host" rel="alternate" />
