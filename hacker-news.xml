@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-30T02:12:00+00:00</updated>
+  <updated>2026-09-30T02:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Relapse-Exploit Released for PS5 Firmware 7.00 to 13.60</title>
+    <link href="https://github.com/ntfargo/Relapse-Exploit" rel="alternate" />
+    <id>https://github.com/ntfargo/Relapse-Exploit::v239</id>
+    <published>2026-09-30T02:14:00+00:00</published>
+    <updated>2026-09-30T02:14:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/ntfargo/Relapse-Exploit">github.com</a> | <a href="https://news.ycombinator.com/item?id=49895304">hacker news</a></small></p><hr/><p>The Relapse-Exploit is an exploit chain designed for PlayStation 5 consoles running firmware versions 7.00 through 13.60. It employs a WebKit browser stage—utilizing JSC info leaks and a structured clone object pool mismatch to corrupt a typedarray—and a kernel stage that uses an aio_multi_wait use-after-free race condition to establish kernel read/write access.</p><p>The exploit is non-persistent, meaning it must be re-run manually after every system reboot. Users can initiate the process via a specific DNS configuration or through a hosted web interface. Execution may cause system instability, such as kernel panics or console hangs, which require a hardware reboot.</p><hr/><small>30 Sep 2026, 06:50 UTC | #22799</small>]]></content>
+  </entry>
   <entry>
     <title>Critique of DHH's Vision for AI-Driven Software Development</title>
     <link href="https://jardo.dev/hardly-promethean" rel="alternate" />
