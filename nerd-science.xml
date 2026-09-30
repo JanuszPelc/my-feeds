@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-30T08:07:00+00:00</updated>
+  <updated>2026-09-30T09:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Green Mountain Power's Virtual Power Plant Uses Home Batteries to Support Vermont's Grid</title>
+    <link href="https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms" rel="alternate" />
+    <id>https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms::v239</id>
+    <published>2026-09-30T09:59:00+00:00</published>
+    <updated>2026-09-30T09:59:00+00:00</updated>
+    <media:thumbnail url="https://74600e88.delivery.rocketcdn.me/wp-content/uploads/2026/05/virtual-power-plants-explained-comparison.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms">bbc.com</a> | <a href="https://greenmountainpower.com/rebates-programs/home-energy-storage/energy-storage/">source</a> | <a href="https://news.ycombinator.com/item?id=49897993">hacker news</a></small></p><hr/><p>Green Mountain Power's virtual power plant (VPP) has become Vermont's largest power source by aggregating over 5,500 home battery systems. This network provides backup electricity during storms and reduces the need for fossil fuel-powered peaker plants by managing grid demand through software.</p><p>By incorporating consumer assets like rooftop solar and home batteries, VPPs create a decentralized and resilient energy model. While the program has saved customers millions in electricity costs, widespread national adoption faces challenges like outdated utility incentive structures and the technical complexities of integrating electric vehicle batteries.</p><p><img src="https://74600e88.delivery.rocketcdn.me/wp-content/uploads/2026/05/virtual-power-plants-explained-comparison.jpg" /></p><hr/><small>30 Sep 2026, 15:20 UTC | #22854</small>]]></content>
+  </entry>
   <entry>
     <title>Space Now Provides Real-time 3D Solar System Visualization</title>
     <link href="https://space.bl2.net/" rel="alternate" />

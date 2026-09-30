@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T07:54:00+00:00</updated>
+  <updated>2026-09-30T09:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Goldman Sachs Reports $500B in AI-Related Debt Issuance in 2026</title>
+    <link href="https://www.ft.com/content/00f94018-e658-4545-b16e-1bc00e19b754?accessToken=zwAAAaDtcUGnkc8A-UAY5lhFRdOxbhvADhm3VA.MEUCIQCk0bvA9uQKrZlCp0GL9rve9wmoj8dfFyGXr-MWPq79DgIgZ_ivYBzDusi7FrEOPvdrc3_AdCYz-nZwGh_SwtenXfg&amp;sharetype=gift&amp;token=5d7943ea-853a-4ae6-bcd8-a428a5f975a7&amp;syn-25a6b1a6=1" rel="alternate" />
+    <id>https://www.ft.com/content/00f94018-e658-4545-b16e-1bc00e19b754?accessToken=zwAAAaDtcUGnkc8A-UAY5lhFRdOxbhvADhm3VA.MEUCIQCk0bvA9uQKrZlCp0GL9rve9wmoj8dfFyGXr-MWPq79DgIgZ_ivYBzDusi7FrEOPvdrc3_AdCYz-nZwGh_SwtenXfg&amp;sharetype=gift&amp;token=5d7943ea-853a-4ae6-bcd8-a428a5f975a7&amp;syn-25a6b1a6=1::v239</id>
+    <published>2026-09-30T09:58:00+00:00</published>
+    <updated>2026-09-30T09:58:00+00:00</updated>
+    <media:thumbnail url="https://am.gs.com/cms-assets/gsam-app/images/chart-graph/english/2025/tmt-ai-issuance-corporate-bond-market.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/00f94018-e658-4545-b16e-1bc00e19b754?accessToken=zwAAAaDtcUGnkc8A-UAY5lhFRdOxbhvADhm3VA.MEUCIQCk0bvA9uQKrZlCp0GL9rve9wmoj8dfFyGXr-MWPq79DgIgZ_ivYBzDusi7FrEOPvdrc3_AdCYz-nZwGh_SwtenXfg&sharetype=gift&token=5d7943ea-853a-4ae6-bcd8-a428a5f975a7&syn-25a6b1a6=1">ft.com</a> | <a href="https://www.goldmansachs.com/insights/goldman-sachs-exchanges/how-ai-debt-is-reshaping-the-credit-market">source</a></small></p><hr/><p>Investors have provided roughly $500 billion in financing to AI-linked groups so far in 2026. Driven by the massive infrastructure needs of hyperscalers, this surge in debt issuance is expanding beyond US markets into the euro and Canadian dollar.</p><p>This volume represents approximately 18 percent of all US investment-grade supply and is driving capital into private markets. This scale of borrowing is reshaping global credit markets, impacting bond yields and investor portfolios.</p><p><img src="https://am.gs.com/cms-assets/gsam-app/images/chart-graph/english/2025/tmt-ai-issuance-corporate-bond-market.png" /></p><hr/><small>30 Sep 2026, 15:15 UTC | #22802</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Pay Launches in India with Axis Bank Support</title>
     <link href="https://economictimes.indiatimes.com/magazines/panache/apple-pay-launches-in-india-iphone-xr-and-later-supported-apple-pay-vp-jennifer-bailey-on-why-now/articleshow/134571017.cms" rel="alternate" />
