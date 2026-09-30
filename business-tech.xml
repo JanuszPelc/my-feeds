@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T20:14:00+00:00</updated>
+  <updated>2026-09-30T20:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>MI5 Issues Espionage Alert to UK Universities Regarding Chinese Research Institute</title>
+    <link href="https://www.ft.com/content/f71120fb-266f-42fb-8042-dbeccfd9cf0c" rel="alternate" />
+    <id>https://www.ft.com/content/f71120fb-266f-42fb-8042-dbeccfd9cf0c::v239</id>
+    <published>2026-09-30T20:15:00+00:00</published>
+    <updated>2026-09-30T20:15:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/f71120fb-266f-42fb-8042-dbeccfd9cf0c">ft.com</a> | <a href="https://www.mi5.gov.uk/sites/default/files/2026-09/30+September-+Espionage+Alert+-+PUBLICATION+VERSION_0.pdf">source</a></small></p><hr/><p>The security service has advised UK universities to terminate collaborations with the China General Technology Research Institute (CGTRI), citing "very strong ties" between the institute and Chinese intelligence. The agency noted that CGTRI has been involved in funding various artificial intelligence research projects.</p><p>The alert follows findings that more than 100 UK-based academics have participated in projects funded by the organization. MI5 urged academic institutions and researchers to review their compliance with the National Security Act 2023 to avoid potentially assisting foreign intelligence services.</p><hr/><small>30 Sep 2026, 22:00 UTC | #22853</small>]]></content>
+  </entry>
   <entry>
     <title>Bain &amp; Company Report: AI Industry Needs $6 Trillion in Annual Revenue by 2031</title>
     <link href="https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/" rel="alternate" />

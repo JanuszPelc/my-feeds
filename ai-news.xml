@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-30T20:05:00+00:00</updated>
+  <updated>2026-09-30T20:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Instagram Adds AI-Powered Assistant to Edits App</title>
+    <link href="https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/" rel="alternate" />
+    <id>https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/::v239</id>
+    <published>2026-09-30T20:16:00+00:00</published>
+    <updated>2026-09-30T20:16:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/instagram-edits-ai.png?w=680" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/">techcrunch.com</a></small></p><hr/><p>Instagram's Edits app has introduced a conversational AI assistant that provides creators with personalized, metrics-driven insights. The tool analyzes account performance—including views, retention, and likes—alongside trending data to surface actionable patterns, focusing on analytics rather than performing creative editing tasks.</p><p>This strategy differs from competitors like YouTube, which is developing AI tools that are expected to assist with the actual editing process. Access to the assistant is subject to usage limits, with increased capacity available through Meta One subscriptions.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/instagram-edits-ai.png?w=680" /></p><hr/><small>30 Sep 2026, 22:03 UTC | #22852</small>]]></content>
+  </entry>
   <entry>
     <title>Google Announces Gemini 4 Argon AI Model</title>
     <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/" rel="alternate" />
