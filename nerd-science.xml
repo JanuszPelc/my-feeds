@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-30T09:59:00+00:00</updated>
+  <updated>2026-09-30T12:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>IARC Study Estimates Infections Cause One in Eight Global Cancer Cases</title>
+    <link href="https://www.cbc.ca/lite/story/9.7361622" rel="alternate" />
+    <id>https://www.cbc.ca/lite/story/9.7361622::v239</id>
+    <published>2026-09-30T12:54:00+00:00</published>
+    <updated>2026-09-30T12:54:00+00:00</updated>
+    <media:thumbnail url="https://s.yimg.com/lo/mysterio/api/e2112acf87aaeb54c0c5166a5d053e8de73ab3ebefe3567af7cb2a8f6dbda8b3/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https://media.zenfs.com/en/scientific_american_754/200cf96142b36ca0988ae976150413d4.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.cbc.ca/lite/story/9.7361622">cbc.ca</a> | <a href="https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(26)00307-4/fulltext">source</a> | <a href="https://news.ycombinator.com/item?id=49892120">hacker news</a></small></p><hr/><p>An International Agency for Research on Cancer (IARC) study published in The Lancet Oncology estimates that infectious agents caused 2.3 million new cancer cases in 2024, accounting for 12% of all global diagnoses. The highest number of cases was attributed to the Helicobacter pylori bacterium (760,000 cases), followed closely by human papillomavirus (HPV), which caused nearly 750,000 cases.</p><p>The research identified new links between infections and 16 additional types of cancer, including contributions from the Epstein-Barr virus and Merkel cell polyomavirus. The findings highlight global health disparities, as high-income countries with robust vaccination and screening programs have significantly lower infection-driven cancer rates than lower-resourced regions.</p><p><img src="https://s.yimg.com/lo/mysterio/api/e2112acf87aaeb54c0c5166a5d053e8de73ab3ebefe3567af7cb2a8f6dbda8b3/lightyear_networkapi/resizefill_w960;quality_80;format_webp/https://media.zenfs.com/en/scientific_american_754/200cf96142b36ca0988ae976150413d4.png" /></p><hr/><small>30 Sep 2026, 16:43 UTC | #22865</small>]]></content>
+  </entry>
   <entry>
     <title>Green Mountain Power's Virtual Power Plant Uses Home Batteries to Support Vermont's Grid</title>
     <link href="https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms" rel="alternate" />
