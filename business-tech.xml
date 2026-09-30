@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T03:46:00+00:00</updated>
+  <updated>2026-09-30T07:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple Pay Launches in India with Axis Bank Support</title>
+    <link href="https://economictimes.indiatimes.com/magazines/panache/apple-pay-launches-in-india-iphone-xr-and-later-supported-apple-pay-vp-jennifer-bailey-on-why-now/articleshow/134571017.cms" rel="alternate" />
+    <id>https://economictimes.indiatimes.com/magazines/panache/apple-pay-launches-in-india-iphone-xr-and-later-supported-apple-pay-vp-jennifer-bailey-on-why-now/articleshow/134571017.cms::v239</id>
+    <published>2026-09-30T07:54:00+00:00</published>
+    <updated>2026-09-30T07:54:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://economictimes.indiatimes.com/magazines/panache/apple-pay-launches-in-india-iphone-xr-and-later-supported-apple-pay-vp-jennifer-bailey-on-why-now/articleshow/134571017.cms">economictimes.indiatimes.com</a> | <a href="https://www.apple.com/in/newsroom/2026/09/apple-pay-launches-in-india/">source</a></small></p><hr/><p>Apple has introduced its contactless payment service to the Indian market, initially supporting Axis Bank-issued Visa and Mastercard credit cards. The service is available on iPhone, iPad, and Apple Watch, with support for Mac expected to follow in the future. Users can complete transactions at NFC-enabled terminals, within apps, and on websites.</p><p>Apple positions the service as a complement to India's established UPI ecosystem rather than a replacement. The launch is driven by the expansion of NFC-enabled payment infrastructure and recent regulatory frameworks from the Reserve Bank of India that support biometric authentication for digital transactions.</p><hr/><small>30 Sep 2026, 12:03 UTC | #22790</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Appoints Tino Cuéllar as Chief Global Affairs Officer</title>
     <link href="https://missionlocal.org/2026/09/mariano-florentino-cuellar-supreme-court-carnegie-anthropic-ai/" rel="alternate" />

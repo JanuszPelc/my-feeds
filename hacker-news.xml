@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-30T07:52:00+00:00</updated>
+  <updated>2026-09-30T07:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Advanced C Optimization Techniques for Playdate</title>
+    <link href="https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011" rel="alternate" />
+    <id>https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011::v239</id>
+    <published>2026-09-30T07:56:00+00:00</published>
+    <updated>2026-09-30T07:56:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/939510175/original/0c6a515db8/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011">devforum.play.date</a> | <a href="https://lobste.rs/s/zyzrlh/dirty_optimization_secrets_c_for">discussion</a></small></p><hr/><p>This article outlines several low-level C programming techniques to maximize performance on Playdate hardware. It focuses on optimization strategies for demanding software such as emulators, 3D renderers, and large-scale simulations. Key methods include managing the limited instruction cache, using custom linker maps to organize code sections, and utilizing Tightly-Coupled Memory (TCM) for faster data and instruction access.</p><p>The author provides specific techniques for manual code relocation into the ITCM region and addresses performance variations caused by cache misalignment and branch prediction table collisions. The guide includes practical implementation details, such as using the `nm` tool to inspect symbols and applying specific memory alignment attributes to mitigate unpredictable performance fluctuations.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/939510175/original/0c6a515db8/1?v=1" /></p><hr/><small>30 Sep 2026, 12:08 UTC | #22824</small>]]></content>
+  </entry>
   <entry>
     <title>Sujith Jay Nair Outlines Framework for Staff Engineers to 'Invent Work' on Platform Teams</title>
     <link href="https://sujithjay.com/inventing-work" rel="alternate" />
