@@ -87,13 +87,4 @@
     <media:thumbnail url="https://cdn.factorio.com/assets/blog-sync/fff-447-assets-diorama.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://factorio.com/blog/post/fff-447">factorio.com</a> | <a href="https://news.ycombinator.com/item?id=49845133">hacker news</a></small></p><hr/><p>Wube Software has released a collection of 247 STL files featuring 65 different 3D models of Factorio entities for fans to print. Developed in collaboration with Prusa Research, the set includes transport belts, machines, enemies, and other early-game elements designed for both push-fit assembly and high-clearance printing.</p><p>Instead of selling limited physical collector's items, the developers opted to distribute the digital files for free to encourage community creativity and provide wider accessibility. The models are specifically optimized for FDM printing, with versions designed to minimize the need for support structures.</p><p><img src="https://cdn.factorio.com/assets/blog-sync/fff-447-assets-diorama.jpg" /></p><hr/><small>25 Sep 2026, 20:33 UTC | #22376</small>]]></content>
   </entry>
-  <entry>
-    <title>Paranoia-Sans Typeface Automatically Redacts Conspiracy Terms</title>
-    <link href="https://github.com/flegfleg/Paranoia-Sans" rel="alternate" />
-    <id>https://github.com/flegfleg/Paranoia-Sans::v239</id>
-    <published>2026-09-25T11:33:00+00:00</published>
-    <updated>2026-09-25T11:33:00+00:00</updated>
-    <media:thumbnail url="https://librairiesanstitre.com/cdn/shop/files/d2814683-1726-42da-9948-0d93bdd593e5.jpg?v=1772043854&amp;width=1445" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/flegfleg/Paranoia-Sans">github.com</a> | <a href="https://lobste.rs/s/uc2ovf/paranoia_sans_conspiratorial_typeface">discussion</a></small></p><hr/><p>This typeface uses OpenType ligatures to automatically redact terms associated with conspiracy theories. By replacing keywords like "5G" with a black box graphic, the font simulates the visual appearance of redacted documents.</p><p>Developed by Florian Egermann and based on Courier Prime Sans, the project serves as a satirical exploration of the visual aesthetics of conspiracy myths. The open-source typeface aims to mirror the absurdity of the subjects it redacts through its automated functionality.</p><p><img src="https://librairiesanstitre.com/cdn/shop/files/d2814683-1726-42da-9948-0d93bdd593e5.jpg?v=1772043854&width=1445" /></p><hr/><small>25 Sep 2026, 15:49 UTC | #22334</small>]]></content>
-  </entry>
 </feed>

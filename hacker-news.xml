@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-30T07:48:00+00:00</updated>
+  <updated>2026-09-30T07:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Sujith Jay Nair Outlines Framework for Staff Engineers to 'Invent Work' on Platform Teams</title>
+    <link href="https://sujithjay.com/inventing-work" rel="alternate" />
+    <id>https://sujithjay.com/inventing-work::v239</id>
+    <published>2026-09-30T07:52:00+00:00</published>
+    <updated>2026-09-30T07:52:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://sujithjay.com/inventing-work">sujithjay.com</a> | <a href="https://news.ycombinator.com/item?id=49878857">hacker news</a></small></p><hr/><p>Platform engineering teams often lack product managers or formal roadmaps, requiring engineers to proactively identify high-value tasks to increase system value. Work discovery can be driven by signals from four directions: system performance (crashes, cost, and toil), user behavior (continuous discovery, overloaded use-cases, and prototypes), organizational needs (OKRs, management patterns, and migration debris), and industry trends (descriptive writing and market lag).</p><p>These signals vary in reliability and timing, ranging from lagging indicators like system crashes to leading indicators like overloaded use-cases and industry trends. By evaluating the strength and direction of these signals, staff engineers can move beyond reactionary maintenance toward strategic development that anticipates user needs and industry shifts.</p><hr/><small>30 Sep 2026, 11:45 UTC | #22821</small>]]></content>
+  </entry>
   <entry>
     <title>OpenBSD Developers Reject uutils Coreutils Port</title>
     <link href="https://www.mail-archive.com/ports%40openbsd.org/msg143892.html" rel="alternate" />
