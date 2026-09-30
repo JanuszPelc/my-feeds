@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-29T19:22:00+00:00</updated>
+  <updated>2026-09-29T22:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Deser: An Experimental Rust Serialization Library</title>
+    <link href="https://lucumr.pocoo.org/2026/9/29/deser/" rel="alternate" />
+    <id>https://lucumr.pocoo.org/2026/9/29/deser/::v239</id>
+    <published>2026-09-29T22:44:00+00:00</published>
+    <updated>2026-09-29T22:44:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/HF4srN-WgAA8bR_.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lucumr.pocoo.org/2026/9/29/deser/">lucumr.pocoo.org</a> | <a href="https://lobste.rs/s/hxmtyv/deser_rethinking_rust_serialization">discussion</a> | <a href="https://news.ycombinator.com/item?id=49901149">hacker news</a></small></p><hr/><p>Deser is an experimental Rust serialization library designed to overcome architectural limitations found in the Serde library. While Serde is type-driven and uses stack recursion, Deser utilizes a format-driven architecture inspired by miniserde, using a heap-allocated driver and sinks to manage state. This design prevents stack overflows and enables suspendable, asynchronous deserialization, allowing data to be parsed as a stream.</p><p>The library aims to resolve issues such as information loss during buffering in enums, difficulties with non-self-describing formats, and complex adapter composition. Deser supports formats including JSON, YAML, TOML, and XML, and provides a "layers" middleware system for features like error path tracking and validation. While designed as a potential drop-in replacement for certain use cases, the project currently prioritizes extensibility and completeness.</p><p><img src="https://pbs.twimg.com/media/HF4srN-WgAA8bR_.jpg" /></p><hr/><small>30 Sep 2026, 03:42 UTC | #22784</small>]]></content>
+  </entry>
   <entry>
     <title>Nura Announces New 'Main' Category Requirements for Mainline Linux Phones</title>
     <link href="https://postmarketos.org/blog/2026/09/29/road-to-main-category/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T22:40:00+00:00</updated>
+  <updated>2026-09-29T22:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Trump and Tech Leaders Sign 'Morally Binding' AI Agreement</title>
+    <link href="https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html::v239</id>
+    <published>2026-09-29T22:43:00+00:00</published>
+    <updated>2026-09-29T22:43:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1MY9sT.img?w=768&amp;h=432&amp;m=6&amp;x=443&amp;y=128&amp;s=166&amp;d=166" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html">cnbc.com</a> | <a href="https://news.ycombinator.com/item?id=49899432">hacker news</a></small></p><hr/><p>President Donald Trump has signed a "morally binding" accord with major technology executives intended to guide the development of artificial intelligence. Described by Speaker Mike Johnson as a voluntary statement of principles, the agreement follows a White House luncheon and includes discussions on a proposed 10-person committee to oversee the industry.</p><p>The meeting included high-level leaders from Nvidia, Tesla, Meta, Google, Amazon, Microsoft, and Anthropic. This development follows increased scrutiny regarding AI safety and unauthorized model behaviors, highlighted by OpenAI's recent decision to postpone the release of its GPT-6.1 Astra model for safety reviews.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1MY9sT.img?w=768&h=432&m=6&x=443&y=128&s=166&d=166" /></p><hr/><small>30 Sep 2026, 03:38 UTC | #22761</small>]]></content>
+  </entry>
   <entry>
     <title>xAI's Acquisition of Dot.com Sparks Speculation Over OpenAI's Dots Launch</title>
     <link href="https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/" rel="alternate" />
