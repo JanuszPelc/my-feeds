@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-29T19:23:00+00:00</updated>
+  <updated>2026-09-29T19:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Announces Decisions API Powered by Luna Model</title>
+    <link href="https://thenewstack.io/openai-decision-api-luna/" rel="alternate" />
+    <id>https://thenewstack.io/openai-decision-api-luna/::v239</id>
+    <published>2026-09-29T19:27:00+00:00</published>
+    <updated>2026-09-29T19:27:00+00:00</updated>
+    <media:thumbnail url="https://kie.ai/cdn-cgi/image/width=960,fit=scale-down,quality=85,format=webp/https://static.aiquickdraw.com/tools/example/1782552112209_Qif5DyPn.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://thenewstack.io/openai-decision-api-luna/">thenewstack.io</a> | <a href="https://openai.com/index/devday-2026-recap/">source</a> | <a href="https://news.ycombinator.com/item?id=49896600">hacker news</a></small></p><hr/><p>The new Decisions API, built on the Luna model, returns a set of predefined answers paired with confidence scores rather than conversational text. Optimized for speed, the API can deliver results in approximately 150 milliseconds, making it suitable for tasks such as content classification, request routing, and selecting agentic actions.</p><p>Currently in limited preview, the service serves as a middle ground between prompting large language models and training dedicated, small-scale classifiers. Although it provides more efficient and structured outputs than standard chat models, specific details regarding pricing and constraints on candidate answers remain undisclosed.</p><p><img src="https://kie.ai/cdn-cgi/image/width=960,fit=scale-down,quality=85,format=webp/https://static.aiquickdraw.com/tools/example/1782552112209_Qif5DyPn.webp" /></p><hr/><small>30 Sep 2026, 01:05 UTC | #22740</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Unveils ChatGPT Space and Integration for Slack and Microsoft Teams</title>
+    <link href="https://www.engadget.com/2272248/chatgpt-space-for-work/" rel="alternate" />
+    <id>https://www.engadget.com/2272248/chatgpt-space-for-work/::v239</id>
+    <published>2026-09-29T19:26:00+00:00</published>
+    <updated>2026-09-29T19:26:00+00:00</updated>
+    <media:thumbnail url="https://www.engadget.com/img/gallery/chatgpt-space-for-work/intro-1790702303.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2272248/chatgpt-space-for-work/">engadget.com</a> | <a href="https://openai.com/index/devday-2026-recap/">source</a> | <a href="https://news.ycombinator.com/item?id=49896600">hacker news</a></small></p><hr/><p>OpenAI has introduced ChatGPT Space, a collaborative hub that enables human users, teammates, and personal AI agents known as "Dots" to interact with a shared pool of files and information. The company is also expanding ChatGPT's reach by integrating it into Slack and Microsoft Teams, allowing Business and Enterprise users to invoke the chatbot within channels and threads to complete tasks like generating presentation slides.</p><p>The rollout includes several upcoming features, such as "Pages" for collaborative document creation and a meeting plugin capable of generating summaries and action items. To support enterprise security, OpenAI is implementing its "Private Intelligence" system to ensure that uploaded files and conversations remain protected while being used within these shared spaces.</p><p><img src="https://www.engadget.com/img/gallery/chatgpt-space-for-work/intro-1790702303.jpg" /></p><hr/><small>30 Sep 2026, 01:04 UTC | #22741</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Introduces $500 Pro Subscription and GPT-6.1 Sol Model</title>
     <link href="https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/" rel="alternate" />

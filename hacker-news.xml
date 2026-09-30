@@ -766,13 +766,4 @@
     <media:thumbnail url="https://i.ytimg.com/vi/9OqITIHXJcI/maxresdefault.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://greasyfork.org/en/scripts?by=1646191">greasyfork.org</a> | <a href="https://greasyfork.org/en/scripts/597063-lobsters-rename-vibecoding-to-llms">source</a> | <a href="https://lobste.rs/s/68n22g/lobsters_rename_vibecoding_llms">discussion</a></small></p><hr/><p>This Greasemonkey utility modifies the Lobsters platform by changing the visual display of the "vibecoding" tag to "llms".</p><p>Distributed via Greasy Fork, the script is intended for users with browser-based script management extensions and facilitates UI adjustments for specific community tags.</p><p><img src="https://i.ytimg.com/vi/9OqITIHXJcI/maxresdefault.jpg" /></p><hr/><small>25 Sep 2026, 09:01 UTC | #22302</small>]]></content>
   </entry>
-  <entry>
-    <title>GitHub Delays Removal of Malicious Software Impersonating Easy Data Transform</title>
-    <link href="https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/" rel="alternate" />
-    <id>https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/::v239</id>
-    <published>2026-09-25T01:08:00+00:00</published>
-    <updated>2026-09-25T01:08:00+00:00</updated>
-    <media:thumbnail url="https://successfulsoftware.net/wp-content/uploads/2026/09/github.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/">successfulsoftware.net</a> | <a href="https://news.ycombinator.com/item?id=49832406">hacker news</a></small></p><hr/><p>The malicious repository used the product's name and logo to distribute an installer containing malware. This installer included a custom background image intended to persuade users to bypass security warnings.</p><p>After 23 days of silence from GitHub support, the page was removed shortly after the story reached the front page of Hacker News. The author argues that the platform's moderation response time appears to be influenced by public visibility.</p><p><img src="https://successfulsoftware.net/wp-content/uploads/2026/09/github.png" /></p><hr/><small>25 Sep 2026, 08:42 UTC | #22301</small>]]></content>
-  </entry>
 </feed>

@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T18:39:00+00:00</updated>
+  <updated>2026-09-29T20:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Tymon Smektala Joins Bloober Team’s Broken Mirror Games as Executive Director</title>
+    <link href="https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games::v239</id>
+    <published>2026-09-29T20:01:00+00:00</published>
+    <updated>2026-09-29T20:01:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta00d41b73bb5a961/6abc09edf337fa1580c0ad70/brokenmirrorgamesfeatured.jpg?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games">gamedeveloper.com</a> | <a href="https://www.linkedin.com/posts/tymon-smektala-4205534_maybe-youve-seen-the-news-already-but-i-share-7510686906867945473-DcfP">source</a></small></p><hr/><p>Tymon Smektala, formerly Techland's franchise director, has joined Bloober Team as executive director for its horror imprint, Broken Mirror Games. Smektala will oversee the creative direction and portfolio for the co-development label, collaborating with external studios to deliver new horror-focused titles.</p><p>Smektala brings 13 years of experience from Techland, where he managed franchises including Dead Island and Dying Light. His current focus involves supporting the development of Saw: Genesis and Onyx: The Dark Grip while scouting for new horror projects and creative partnerships.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta00d41b73bb5a961/6abc09edf337fa1580c0ad70/brokenmirrorgamesfeatured.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>30 Sep 2026, 01:10 UTC | #22757</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Dismissed Internal Security Warnings to Prioritize Fast Releases</title>
     <link href="https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html?unlocked_article_code=1.E1E.3BXo.2nnf06c4MQhQ&amp;smid=bs-share" rel="alternate" />
@@ -879,14 +888,5 @@
     <updated>2026-09-25T01:41:00+00:00</updated>
     <media:thumbnail url="https://media.dotesports.com/wp-content/uploads/2025/08/draftkings-wrigley-field.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html?unlocked_article_code=1.DlE.5Ayg.3f3R9qmq3YiM&smid=bs-share">nytimes.com</a></small></p><hr/><p>The Massachusetts Gaming Commission will evaluate how DraftKings and other licensed betting companies in the state deploy artificial intelligence. This decision follows a New York Times investigation into the industry's use of the technology.</p><p>The review will focus on whether AI tools are being used to increase gambling addiction or to target customers with promotions based on personal data. Massachusetts law prohibits the use of automated systems that are reasonably expected to make gambling more addictive.</p><p><img src="https://media.dotesports.com/wp-content/uploads/2025/08/draftkings-wrigley-field.jpg" /></p><hr/><small>25 Sep 2026, 08:55 UTC | #22290</small>]]></content>
-  </entry>
-  <entry>
-    <title>Blue Cross Blue Shield Claims AI-Driven Hospital Billing Caused $1B in Extra Costs</title>
-    <link href="https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html?unlocked_article_code=1.DlE.PFlH.ftkxDtVPfZyg&amp;smid=nytcore-android-share" rel="alternate" />
-    <id>https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html?unlocked_article_code=1.DlE.PFlH.ftkxDtVPfZyg&amp;smid=nytcore-android-share::v239</id>
-    <published>2026-09-25T01:06:00+00:00</published>
-    <updated>2026-09-25T01:06:00+00:00</updated>
-    <media:thumbnail url="https://vegavid.com/cms/images/blogs/2026/04/top-benefits-of-ai-in-medical-billing.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html?unlocked_article_code=1.DlE.PFlH.ftkxDtVPfZyg&smid=nytcore-android-share">nytimes.com</a> | <a href="https://www.bcbs.com/about-us/association-news/new-bcbsa-research-on-ai-hospital-billing-driving-higher-health-care-costs">source</a></small></p><hr/><p>Blue Cross Blue Shield Association (BCBSA) reports that AI-driven medical coding tools used by hospitals contributed nearly $1 billion in additional healthcare expenses between 2024 and 2025. These tools scan patient documentation, such as electronic health records and physician notes, to identify additional diagnoses or higher-severity coding combinations that increase claim complexity and reimbursement amounts.</p><p>This financial impact is intensifying the feud between insurers and healthcare providers over medical care payments. Insurers argue that AI-assisted coding increases costs without providing additional clinical value, whereas hospitals maintain that such tools are necessary for accurate compensation for complex care and to offset insurer-led cost-containment measures.</p><p><img src="https://vegavid.com/cms/images/blogs/2026/04/top-benefits-of-ai-in-medical-billing.webp" /></p><hr/><small>25 Sep 2026, 08:14 UTC | #22287</small>]]></content>
   </entry>
 </feed>
