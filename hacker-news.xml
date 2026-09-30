@@ -7,6 +7,23 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Aaron Allen Introduces Hanami Web Framework Series</title>
+    <link href="https://aaronmallen.me/writing/hanami-why-introductions" rel="alternate" />
+    <id>https://aaronmallen.me/writing/hanami-why-introductions::v239</id>
+    <published>2026-09-30T16:16:00+00:00</published>
+    <updated>2026-09-30T16:16:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://aaronmallen.me/writing/hanami-why-introductions">aaronmallen.me</a> | <a href="https://lobste.rs/s/bag41j/hanami_why_introductions">discussion</a></small></p><hr/><p>Hanami maintainer Aaron Allen is launching a series to explain the architecture and utility of the Hanami web framework for Ruby. The framework employs modular abstractions, specifically Actions, Relations, Repos, and Operations, to provide an alternative to the patterns used in Ruby on Rails by emphasizing single-purpose components and explicit dependency injection.</p><p>The upcoming series will explore technical implementations such as dependency injection via `dry-system` and input validation using `dry-types`. While the framework's design reduces dependency risks through high modularity, the author notes that developers may encounter a smaller ecosystem of pre-built solutions compared to more established frameworks.</p><hr/><small>30 Sep 2026, 19:27 UTC | #22888</small>]]></content>
+  </entry>
+  <entry>
+    <title>Samsung Galaxy Tab S12 Ultra Review</title>
+    <link href="https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review/" rel="alternate" />
+    <id>https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review/::v239</id>
+    <published>2026-09-30T16:13:00+00:00</published>
+    <updated>2026-09-30T16:13:00+00:00</updated>
+    <media:thumbnail url="https://www.engadget.com/img/gallery/samsung-galaxy-s12-ultra-review-the-apex-android-tablet/intro-1790708907.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review/">engadget.com</a></small></p><hr/><p>The Samsung Galaxy Tab S12 Ultra is a premium 14.6-inch Android tablet featuring a high-brightness OLED display and the MediaTek Dimensity 9500 chipset. Starting at $1,400, the device includes a stylus and supports Samsung's DeX mode for a desktop-like interface, positioning it as a high-end alternative to the iPad Pro.</p><p>While the tablet offers impressive battery life and a slim design, its single USB-C port and high price tag remain significant drawbacks. It is designed to serve as a laptop replacement for productivity-focused users, though essential accessories like the Pro Keyboard must be purchased separately.</p><p><img src="https://www.engadget.com/img/gallery/samsung-galaxy-s12-ultra-review-the-apex-android-tablet/intro-1790708907.jpg" /></p><hr/><small>30 Sep 2026, 19:17 UTC | #22828</small>]]></content>
+  </entry>
+  <entry>
     <title>Turbo Haskell Compiler Targets JVM via GraalVM</title>
     <link href="https://comonad.com/reader/2026/turbo-haskell/" rel="alternate" />
     <id>https://comonad.com/reader/2026/turbo-haskell/::v239</id>

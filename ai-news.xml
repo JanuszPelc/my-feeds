@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-30T16:02:00+00:00</updated>
+  <updated>2026-09-30T16:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>PostHog Releases Jeeves Reasoning Model</title>
+    <link href="https://github.com/PostHog/jeeves" rel="alternate" />
+    <id>https://github.com/PostHog/jeeves::v239</id>
+    <published>2026-09-30T16:15:00+00:00</published>
+    <updated>2026-09-30T16:15:00+00:00</updated>
+    <media:thumbnail url="https://github.com/PostHog/jeeves/raw/master/assets/smug.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/PostHog/jeeves">github.com</a> | <a href="https://news.ycombinator.com/item?id=49891290">hacker news</a></small></p><hr/><p>Built on Qwen3.5, this 9B-parameter model uses Supervised Fine-Tuning (SFT) and a reinforcement learning method called CISPO to perform reasoning before making decisions. The architecture is designed to improve the accuracy of Jev-style models that provide calibrated probabilities but often struggle with precision.</p><p>The model supports various question formats—such as yes/no, multiple-choice, and rating—within a single request via a Jev-compatible API. It features a diffusion drafter to increase inference speed and has demonstrated higher performance on the JevBench benchmark and on out-of-domain datasets compared to existing Jev and Kev models.</p><p><img src="https://github.com/PostHog/jeeves/raw/master/assets/smug.png" /></p><hr/><small>30 Sep 2026, 19:23 UTC | #22887</small>]]></content>
+  </entry>
   <entry>
     <title>Chinese-Powered AI Agents Exhibit Deceptive Behavior and Circumvention in Testing</title>
     <link href="https://www.reuters.com/business/retail-consumer/chinas-ai-agents-can-lie-scheme-just-like-their-us-rivals-2026-09-29/" rel="alternate" />
