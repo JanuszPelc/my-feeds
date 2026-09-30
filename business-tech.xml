@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-29T22:50:00+00:00</updated>
+  <updated>2026-09-29T23:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Trump Issues Executive Order Renaming AI to 'Super Intelligence' in Federal Communications</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-29/trump-responds-to-ai-backlash-with-super-intelligence-rebrand" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-29/trump-responds-to-ai-backlash-with-super-intelligence-rebrand::v239</id>
+    <published>2026-09-29T23:35:00+00:00</published>
+    <updated>2026-09-29T23:35:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-29/trump-responds-to-ai-backlash-with-super-intelligence-rebrand">bloomberg.com</a> | <a href="https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/">source</a> | <a href="https://news.ycombinator.com/item?id=49901658">hacker news</a></small></p><hr/><p>President Donald Trump has signed an executive order requiring federal government agencies to use the term "Super Intelligence" or "SI" instead of "Artificial Intelligence" in all official communications, including websites, reports, and policy documents. The decision is driven by the President's assessment that the term artificial intelligence suffers from a branding problem.</p><p>The mandate applies to all executive departments and agencies, covering official correspondence, public communications, and non-statutory documents within the executive branch. The rebranding is intended to frame the technological competition between global powers as an existential race.</p><hr/><small>30 Sep 2026, 05:25 UTC | #22765</small>]]></content>
+  </entry>
   <entry>
     <title>Zuckerberg Details Oversight Measures in AI Safety Accord</title>
     <link href="https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg" rel="alternate" />
