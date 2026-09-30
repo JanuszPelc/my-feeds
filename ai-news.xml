@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-29T23:31:00+00:00</updated>
+  <updated>2026-09-29T23:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Anthropic Analysis Finds GLM-5.3 Lacks Robust Cyber Safeguards</title>
+    <link href="https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities" rel="alternate" />
+    <id>https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities::v239</id>
+    <published>2026-09-29T23:36:00+00:00</published>
+    <updated>2026-09-29T23:36:00+00:00</updated>
+    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fa1b61c7da2c400ab84425e105837fc1f346a4339-1280x1576.webp&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=49897075">hacker news</a></small></p><hr/><p>Zhipu AI's GLM-5.3 model demonstrates significant capabilities for autonomously developing end-to-end cyber exploits, including the ability to chain novel vulnerabilities. Unlike Anthropic's Claude models, which restrict such capabilities to vetted users through strict safeguards, GLM-5.3's protections can be bypassed between 64% and 100% of the time using techniques like deceptive prompting or "abliteration."</p><p>Researchers found that an "abliterated" version of the model maintains high performance in exploit development while losing almost all refusal behavior. These findings align with NIST's Center for AI Standards and Innovation (CAISI) assessment, which described GLM-5.3 as the most cyber-capable open-weight model released to date.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fa1b61c7da2c400ab84425e105837fc1f346a4339-1280x1576.webp&w=3840&q=75" /></p><hr/><small>30 Sep 2026, 05:39 UTC | #22768</small>]]></content>
+  </entry>
   <entry>
     <title>America.gov AI Chatbot Features Minecraft "End Poem" Easter Egg</title>
     <link href="https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/" rel="alternate" />
@@ -506,23 +515,5 @@
     <updated>2026-09-25T13:26:00+00:00</updated>
     <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copilot-Code.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InU4bW1jR3ZjYWsiLCJwIjoiL25ld3MvMTAwMDUzMi9taWNyb3NvZnQtY29waWxvdC1zdXBlci1hcHAtY2hhdC1jb2RpbmctYXV0b3BpbG90IiwiZXhwIjoxNzkwNzY5NjU0LCJpYXQiOjE3OTAzMzc2NTR9.KN3P1sn7AgHa-sfRBRy4EC22AO-ZfzzeIe-P0jtw-VM&utm_medium=gift-link">theverge.com</a> | <a href="https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/">source</a></small></p><hr/><p>Microsoft has launched a redesigned Copilot "super app" that consolidates chat, coding, and autonomous agents into a single interface. The app is organized into three tabs: Home, which merges Copilot Chat and Cowork; Code, which allows users to build and host sandboxed internal apps using GitHub Copilot technology; and Autopilot, an always-on digital assistant rebranded from Scout.</p><p>Autopilot operates via a dedicated cloud instance to perform continuous tasks such as monitoring Teams channels or executing recurring workflows. To manage the costs of these agentic capabilities, Microsoft is introducing usage-based billing for the Code and Autopilot sections, while offering a standard subscription for integrated Copilot features within Microsoft 365.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copilot-Code.png?quality=90&strip=all&crop=0,0,100,100" /></p><hr/><small>25 Sep 2026, 19:17 UTC | #22314</small>]]></content>
-  </entry>
-  <entry>
-    <title>LaunchVideo Generates Explainer Videos Using Claude Opus 5.5</title>
-    <link href="https://launchvideo.io" rel="alternate" />
-    <id>https://launchvideo.io::v239</id>
-    <published>2026-09-25T05:37:00+00:00</published>
-    <updated>2026-09-25T05:37:00+00:00</updated>
-    <media:thumbnail url="https://tiorai.com/wp-content/uploads/2026/03/tiorai-opus-screenshot.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://launchvideo.io">launchvideo.io</a> | <a href="https://news.ycombinator.com/item?id=49836374">hacker news</a></small></p><hr/><p>LaunchVideo generates launch videos from a URL or a text prompt by using Claude Opus 5.5 to write video code. The code is executed by a serverless agent on OpenComputer within a microVM, using Playwright and ffmpeg to render the final MP4.</p><p>To ensure deterministic rendering, the system uses a virtual clock to manage CSS and Web Animations, allowing for precise frame-by-frame playback. This process outputs a single 1080p MP4 file without the requirement for manual editing.</p><p><img src="https://tiorai.com/wp-content/uploads/2026/03/tiorai-opus-screenshot.png" /></p><hr/><small>25 Sep 2026, 09:55 UTC | #22303</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Limitations of Air-Gapping AI Agents</title>
-    <link href="https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents" rel="alternate" />
-    <id>https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents::v239</id>
-    <published>2026-09-25T05:36:00+00:00</published>
-    <updated>2026-09-25T05:36:00+00:00</updated>
-    <media:thumbnail url="https://www.e-consystems.com/blog/camera/wp-content/uploads/2026/06/Why-Air-Gapped-Systems-are-Critical-for-Secure-Surveillance-in-Infrastructure-Applications.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents">theverge.com</a></small></p><hr/><p>Isolating AI agents via air gapping can prevent attacks on external networks, but it creates an "artificial vacuum" that hinders realistic safety testing. Without internet access, researchers cannot accurately observe how models exploit APIs, digital infrastructure, or real-world tools during deployment-ready evaluations.</p><p>Beyond reduced realism, isolation increases research costs and slows development through logistical hurdles. Experts also note that air gaps are not foolproof, as they can be breached via side-channel attacks, physical media, or social engineering, leading to calls for tiered containment rather than absolute isolation.</p><p><img src="https://www.e-consystems.com/blog/camera/wp-content/uploads/2026/06/Why-Air-Gapped-Systems-are-Critical-for-Secure-Surveillance-in-Infrastructure-Applications.jpg" /></p><hr/><small>25 Sep 2026, 09:50 UTC | #22291</small>]]></content>
   </entry>
 </feed>
