@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-01T10:22:00+00:00</updated>
+  <updated>2026-10-01T13:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Data Centers Refuse to Disclose Water and Electricity Usage</title>
+    <link href="https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use" rel="alternate" />
+    <id>https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use::v239</id>
+    <published>2026-10-01T13:33:00+00:00</published>
+    <updated>2026-10-01T13:33:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use">nltimes.nl</a> | <a href="https://www.lighthousereports.com/investigation/data-centre-silence/">source</a> | <a href="https://news.ycombinator.com/item?id=49907057">hacker news</a></small></p><hr/><p>Most data centers in Europe withhold information regarding their environmental impact. In the Netherlands, fewer than 25% of large facilities publish electricity and drinking water usage data, despite the European Energy Efficiency Directive requiring such reporting for sites with at least 500 kW capacity.</p><p>Growing cloud and AI services have significantly increased power and water demands. In the Netherlands, data center electricity usage has nearly doubled in five years to 4.6% of the national total, and consumption is projected to reach 15% of the national total by 2030.</p><hr/><small>1 Oct 2026, 18:42 UTC | #23006</small>]]></content>
+  </entry>
   <entry>
     <title>Modular Industrial Dashboards in European Museums</title>
     <link href="https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/" rel="alternate" />

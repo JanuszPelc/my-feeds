@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-01T09:02:00+00:00</updated>
+  <updated>2026-10-01T16:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Cloudflare Releases Clef and Clef-flash Decision Models</title>
+    <link href="https://blog.cloudflare.com/clef-decision-models/" rel="alternate" />
+    <id>https://blog.cloudflare.com/clef-decision-models/::v239</id>
+    <published>2026-10-01T16:19:00+00:00</published>
+    <updated>2026-10-01T16:19:00+00:00</updated>
+    <media:thumbnail url="https://blog.cloudflare.com/_image?href=https%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01M3W09VBACVT4420YA2SDXZE8.01M3W09YK4NRJQNV2S8HMMCQF0.png&amp;w=715&amp;h=294&amp;f=webp&amp;fit=cover&amp;position=center" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.cloudflare.com/clef-decision-models/">blog.cloudflare.com</a> | <a href="https://news.ycombinator.com/item?id=49923692">hacker news</a></small></p><hr/><p>Clef and Clef-flash are open-source decision models designed for high-speed classification and structured output. Hosted on Workers AI, they are optimized for low latency using edge GPUs and are compatible with the Jev API. Both models are available under an Apache 2.0 license.</p><p>The models feature a vision encoder for image classification and a 64k context window. Cloudflare is also debuting a reinforcement learning (RL) platform that allows users to fine-tune the models for specific enterprise workflows.</p><p><img src="https://blog.cloudflare.com/_image?href=https%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01M3W09VBACVT4420YA2SDXZE8.01M3W09YK4NRJQNV2S8HMMCQF0.png&w=715&h=294&f=webp&fit=cover&position=center" /></p><hr/><small>1 Oct 2026, 18:45 UTC | #23005</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Releases Claude for Government</title>
     <link href="https://claude.com/blog/claude-for-government-is-now-generally-available" rel="alternate" />
