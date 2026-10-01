@@ -3,9 +3,17 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-01T16:29:00+00:00</updated>
+  <updated>2026-10-01T16:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Klein Soundworks Releases Free Plug-in Bench Standalone Host</title>
+    <link href="https://bedroomproducersblog.com/2026/10/01/klein-soundworks-plug-in-bench/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/01/klein-soundworks-plug-in-bench/::v239</id>
+    <published>2026-10-01T16:34:00+00:00</published>
+    <updated>2026-10-01T16:34:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/01/klein-soundworks-plug-in-bench/">bedroomproducersblog.com</a> | <a href="https://www.kleinsoundworks.com/products/plug-in-bench">source</a> | <a href="https://bedroomproducersblog.com/2026/10/01/klein-soundworks-plug-in-bench/#respond">discussion</a></small></p><hr/><p>The utility functions as a standalone host for testing VST3 and AU plugins, enabling users to load and verify audio software without opening a full Digital Audio Workstation (DAW).</p><p>Targeted at indie developers, the tool provides a lightweight, dedicated environment to simplify the testing and debugging process for new audio plugins.</p><hr/><small>1 Oct 2026, 20:35 UTC | #22990</small>]]></content>
+  </entry>
   <entry>
     <title>Audio Plugin Deals Launches October Mega Bundle</title>
     <link href="https://bedroomproducersblog.com/2026/10/01/october-mega-bundle/" rel="alternate" />

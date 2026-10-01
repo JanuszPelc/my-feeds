@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T16:30:00+00:00</updated>
+  <updated>2026-10-01T16:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Magnet Forensics Develops Tool to Bypass iPhone Inactivity Reboot</title>
+    <link href="https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/" rel="alternate" />
+    <id>https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/::v239</id>
+    <published>2026-10-01T16:36:00+00:00</published>
+    <updated>2026-10-01T16:36:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=49922278">hacker news</a></small></p><hr/><p>Magnet Forensics, the company behind the GrayKey forensic tool, has developed technology that reportedly allows law enforcement to bypass Apple's iPhone inactivity reboot feature. The new tools, GrayKey Preserve and Evidence Preservation Mode, aim to keep iPhones in the "After First Unlock" (AFU) state, ensuring that sensitive data remains accessible even if the device would otherwise trigger an automatic reboot to protect its security.</p><p>Apple implemented the inactivity reboot to move devices from a vulnerable state into a more secure "Before First Unlock" (BFU) state after 72 hours of idleness. Researchers suggest Magnet's solution may work by manipulating the system clock to "stop time" or by disabling the specific software tasks that trigger automatic reboots and data expiration.</p><hr/><small>1 Oct 2026, 20:43 UTC | #23019</small>]]></content>
+  </entry>
+  <entry>
+    <title>Amazon Launches New Kindle Lineup with Aluminum Models and Page-Turning Accessories</title>
+    <link href="https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh" rel="alternate" />
+    <id>https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh::v239</id>
+    <published>2026-10-01T16:32:00+00:00</published>
+    <updated>2026-10-01T16:32:00+00:00</updated>
+    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011550.jpg?quality=90&amp;strip=all&amp;crop=0,0.0058706117177465,100,99.988258776565" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh">theverge.com</a></small></p><hr/><p>Amazon has launched a refreshed Kindle lineup, including updates to the base Kindle, Kindle Paperwhite, and Kindle Colorsoft. The models are 1mm thinner, 30% faster at opening books, and feature power buttons relocated to the right edge. Higher-end Signature Editions for the Paperwhite and Colorsoft now offer aluminum finishes, 32GB of storage, and compatibility with magnetic accessories via pogo pins.</p><p>The hardware features flush-to-bezel displays and user-replaceable batteries to meet EU regulations. New accessories include a $79.99 folio case that adds physical page-turning buttons and the $34.99 Kindle Click Bluetooth remote.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011550.jpg?quality=90&strip=all&crop=0,0.0058706117177465,100,99.988258776565" /></p><hr/><small>1 Oct 2026, 20:32 UTC | #22965</small>]]></content>
+  </entry>
   <entry>
     <title>turbopuffer Redesigns Storage Architecture for Version 3</title>
     <link href="https://turbopuffer.com/blog/rip-vector-database" rel="alternate" />
