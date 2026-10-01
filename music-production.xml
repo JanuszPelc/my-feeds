@@ -3,9 +3,17 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-01T16:40:00+00:00</updated>
+  <updated>2026-10-01T19:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Hivetune Releases ENS-86 Free BBD Chorus Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/::v239</id>
+    <published>2026-10-01T19:36:00+00:00</published>
+    <updated>2026-10-01T19:36:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/#respond">discussion</a></small></p><hr/><p>Hivetune has released ENS-86, a free chorus plugin for macOS and Windows. The software emulates the sound of 1980s-era BBD (Bucket Brigade Device) technology found in vintage polyphonic synthesizers.</p><p>The plugin offers high-quality analog-modeled sound design and includes a dry/wet control for easy mixing within audio production workflows.</p><hr/><small>1 Oct 2026, 21:31 UTC | #22988</small>]]></content>
+  </entry>
   <entry>
     <title>Hell Yes Loop Lab Releases Little Room Guitar Amp Plugin</title>
     <link href="https://www.kvraudio.com/news/hell-yes-loop-lab-releases-little-room---fictional-vintage-guitar-amp-plugin-vst3-and-au-68842?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68842" rel="alternate" />
