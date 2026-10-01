@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T16:36:00+00:00</updated>
+  <updated>2026-10-01T19:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Earendil Releases Pi 1.0 Agent Harness</title>
+    <link href="https://earendil.com/posts/pi-1-0/" rel="alternate" />
+    <id>https://earendil.com/posts/pi-1-0/::v239</id>
+    <published>2026-10-01T19:34:00+00:00</published>
+    <updated>2026-10-01T19:34:00+00:00</updated>
+    <media:thumbnail url="https://addyosmani.com/assets/images/harness-anatomy.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://earendil.com/posts/pi-1-0/">earendil.com</a> | <a href="https://news.ycombinator.com/item?id=49926069">hacker news</a></small></p><hr/><p>Earendil has released Pi 1.0, an extensible agent harness focused on minimalism and robustness. The update introduces native support for the Model Context Protocol (MCP), support for non-LLM models, extension support for virtual models, and deferred tool loading. Other improvements include cache warming for Anthropic models, mid-conversation system messages, and a new TUI theme.</p><p>The release also introduces Pi Durable, an experimental package for building long-running agentic applications. While Pi is designed for terminal-based use, Pi Durable aims to enable users to interact with AI intelligence across various surfaces and for extended, long-running tasks.</p><p><img src="https://addyosmani.com/assets/images/harness-anatomy.jpeg" /></p><hr/><small>1 Oct 2026, 21:07 UTC | #23020</small>]]></content>
+  </entry>
   <entry>
     <title>Magnet Forensics Develops Tool to Bypass iPhone Inactivity Reboot</title>
     <link href="https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/" rel="alternate" />
