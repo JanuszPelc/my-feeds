@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-01T19:41:00+00:00</updated>
+  <updated>2026-10-01T19:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Ends Enterprise Discounts Once Usage Limits Are Reached</title>
+    <link href="https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending" rel="alternate" />
+    <id>https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending::v239</id>
+    <published>2026-10-01T19:47:00+00:00</published>
+    <updated>2026-10-01T19:47:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/68e95d943ddc6fbcf1d6b2df_83d5d9d1b69f1847c4ee9c196b81ecb3b1494785-2400x1674.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending">theinformation.com</a></small></p><hr/><p>Enterprise customers will no longer receive approximately 15% discounts once they reach their contracted token limits. This policy forces companies that exceed their allotted usage to either renegotiate their contracts or revert to standard pricing.</p><p>This approach creates an opening for competitors like OpenAI, which reportedly provides a one-to-two-month grace period for customers to renegotiate terms after reaching consumption limits. The strategy highlights the intensifying competition for enterprise AI spending as providers attempt to maximize revenue from high-volume users.</p><p><img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/68e95d943ddc6fbcf1d6b2df_83d5d9d1b69f1847c4ee9c196b81ecb3b1494785-2400x1674.png" /></p><hr/><small>1 Oct 2026, 23:12 UTC | #22985</small>]]></content>
+  </entry>
   <entry>
     <title>Donald Trump Discusses Iran, AI, and Media in 2026 TIME Interview</title>
     <link href="https://time.com/article/2026/10/01/donald-trump-2026-interview-transcript/" rel="alternate" />
