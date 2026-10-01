@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-01T08:49:00+00:00</updated>
+  <updated>2026-10-01T08:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>YOLO Model Created to Detect Performative LinkedIn Posts</title>
+    <link href="https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/" rel="alternate" />
+    <id>https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/::v239</id>
+    <published>2026-10-01T08:56:00+00:00</published>
+    <updated>2026-10-01T08:56:00+00:00</updated>
+    <media:thumbnail url="https://hereticpleb.vercel.app/_astro/pointing_finger_thingy.Nb9aSVlx_ei9E3.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/">hereticpleb.vercel.app</a> | <a href="https://news.ycombinator.com/item?id=49904314">hacker news</a></small></p><hr/><p>The article critiques the culture of performative productivity on LinkedIn, specifically the prevalence of low-effort computer vision projects intended to simulate technical expertise. To demonstrate the ease of producing such content, the author develops a YOLOv8-based object detection model trained to identify these repetitive and non-substantive posts.</p><p>The technical implementation involved a rapid workflow of custom data scraping, annotation via Roboflow, and training a YOLOv8n model in approximately 90 minutes. The project serves as a critique of a platform environment that rewards the appearance of skill and professional "vision" rather than genuine technical proficiency or continuous improvement.</p><p><img src="https://hereticpleb.vercel.app/_astro/pointing_finger_thingy.Nb9aSVlx_ei9E3.webp" /></p><hr/><small>1 Oct 2026, 12:31 UTC | #22958</small>]]></content>
+  </entry>
   <entry>
     <title>Tencent to Lease 100,000 AI Chips from Oracle in $7 Billion Deal</title>
     <link href="https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9" rel="alternate" />
