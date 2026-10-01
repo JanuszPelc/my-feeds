@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T06:07:00+00:00</updated>
+  <updated>2026-10-01T06:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Comparing Typeclasses and Modules</title>
+    <link href="https://sm2n.ca/articles/typeclasses-vs-modules/" rel="alternate" />
+    <id>https://sm2n.ca/articles/typeclasses-vs-modules/::v239</id>
+    <published>2026-10-01T06:11:00+00:00</published>
+    <updated>2026-10-01T06:11:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sm2n.ca/articles/typeclasses-vs-modules/">sm2n.ca</a> | <a href="https://lobste.rs/s/crlwst/typeclasses_vs_modules">discussion</a></small></p><hr/><p>Typeclasses provide ad-hoc polymorphism, enabling operator overloading and type-based dispatch to allow the same identifiers to be reused across different types. Modules provide modular abstraction through encapsulation, information hiding, and dependency injection, allowing for the recursive decomposition of programs into manageable components.</p><p>While these constructs can sometimes be used to emulate one another, they serve different architectural purposes: typeclasses facilitate "programming in the small" by managing localized logic, whereas modules facilitate "programming in the large" through high-level structural organization. The article examines how these mechanisms are implemented in languages such as Haskell, OCaml, Rust, and Elixir, arguing that robust modular abstraction is often more critical for software quality than ad-hoc polymorphism.</p><hr/><small>1 Oct 2026, 11:07 UTC | #22950</small>]]></content>
+  </entry>
   <entry>
     <title>Open Source Projects Face Decision on AI-Generated Contributions</title>
     <link href="https://ploum.net/2026-10-01-pascal_wager.html" rel="alternate" />
@@ -815,23 +823,5 @@
     <updated>2026-09-26T11:15:00+00:00</updated>
     <media:thumbnail url="https://image3.slideserve.com/6645227/reactor-and-control-rod-design-l.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49848955">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49848955">hacker news</a></small></p><hr/><p>A Windows NT 4.0 system running an AmigaOS emulator was used by a nuclear power plant to monitor control rod status. This configuration persisted until at least 2007 because the original software was written for AmigaOS in the 1980s, and updating the system would have required a costly and time-consuming regulatory re-certification.</p><p>The setup required direct hardware access provided by Windows NT 4.0, a feature lost in later operating system versions. Because the manufacturer of the emulation software had gone out of business, the facility maintained the legacy setup by sourcing spare parts from eBay to ensure continued operation.</p><p><img src="https://image3.slideserve.com/6645227/reactor-and-control-rod-design-l.jpg" /></p><hr/><small>26 Sep 2026, 17:06 UTC | #22444</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Origin Story of Apple's Cards App</title>
-    <link href="https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story" rel="alternate" />
-    <id>https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story::v239</id>
-    <published>2026-09-26T11:13:00+00:00</published>
-    <updated>2026-09-26T11:13:00+00:00</updated>
-    <media:thumbnail url="https://photos5.appleinsider.com/gallery/51774-102633-Dirty-card-xl.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story">lexontech.org</a> | <a href="https://news.ycombinator.com/item?id=49854693">hacker news</a></small></p><hr/><p>Apple's 2011 "Cards" app, which allowed users to send custom-designed physical greeting cards via iPhone, was a Steve Jobs-initiated project codenamed "Speed Racer." The service required complex logistics to support high-quality production, including letterpress printing on 100 percent cotton paper and the implementation of invisible UV-traceable barcodes to facilitate package tracking without visible markings on envelopes.</p><p>Production was marked by significant technical challenges, such as difficulties getting ink to adhere to the cotton stock and the need for intensive manual processing to handle unadulterated envelopes. Despite high-volume forecasts and extensive development effort, the app saw limited growth and was eventually discontinued in 2013.</p><p><img src="https://photos5.appleinsider.com/gallery/51774-102633-Dirty-card-xl.jpg" /></p><hr/><small>26 Sep 2026, 16:39 UTC | #22442</small>]]></content>
-  </entry>
-  <entry>
-    <title>The State of SIMD in Rust 2026</title>
-    <link href="https://shnatsel.github.io/state-of-simd-rust-2026/" rel="alternate" />
-    <id>https://shnatsel.github.io/state-of-simd-rust-2026/::v239</id>
-    <published>2026-09-26T11:08:00+00:00</published>
-    <updated>2026-09-26T11:08:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQEi18ZXx2fjeg/feedshare-shrink_800/B56ZqXAAfEJYAg-/0/1763469955883?e=2147483647&amp;v=beta&amp;t=a1Hrz9mxuNJELPxI50KLuabZ_Tk0-0aB4CdThlt_u2U" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://shnatsel.github.io/state-of-simd-rust-2026/">shnatsel.github.io</a> | <a href="https://lobste.rs/s/iotaty/state_simd_rust_2026">discussion</a></small></p><hr/><p>Single Instruction, Multiple Data (SIMD) implementation in the Rust programming language is categorized into three primary approaches: automatic vectorization, portable SIMD abstractions, and platform-specific intrinsics. Development in the ecosystem focuses on bridging the gap between high-level code and hardware-specific instruction sets like AVX, NEON, and WebAssembly SIMD through various abstraction layers.</p><p>Ecosystem libraries such as `std::simd`, `fearless_simd`, `wide`, `pulp`, and `macerator` differ in their support for multiversioning, generic element types, and hardware-width vectors. Technical challenges persist regarding floating-point precision and the availability of high-performance, accurate trigonometric functions in current SIMD crates.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQEi18ZXx2fjeg/feedshare-shrink_800/B56ZqXAAfEJYAg-/0/1763469955883?e=2147483647&v=beta&t=a1Hrz9mxuNJELPxI50KLuabZ_Tk0-0aB4CdThlt_u2U" /></p><hr/><small>26 Sep 2026, 15:39 UTC | #22436</small>]]></content>
   </entry>
 </feed>
