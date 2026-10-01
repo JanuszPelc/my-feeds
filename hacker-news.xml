@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-09-30T22:07:00+00:00</updated>
+  <updated>2026-09-30T22:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Testing Rane SL 3 Linux Kernel Module Support via GNU Guix</title>
+    <link href="https://mit.teil.space/rane-sl3.html" rel="alternate" />
+    <id>https://mit.teil.space/rane-sl3.html::v239</id>
+    <published>2026-09-30T22:10:00+00:00</published>
+    <updated>2026-09-30T22:10:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://mit.teil.space/rane-sl3.html">mit.teil.space</a> | <a href="https://lobste.rs/s/qjnmeg/no_cost_audio_upgrade_for_my_workstation">discussion</a></small></p><hr/><p>Gabriel Wicki demonstrates a method for testing the `snd-rane-sl3` Linux kernel module using GNU Guix and QEMU. By creating a minimal operating system template and utilizing USB passthrough, the developer can run a virtual machine to verify driver functionality without reconfiguring a primary workstation.</p><p>The procedure confirms that the kernel recognizes the Rane SL 3 hardware and that ALSA utilities can correctly access the device for audio playback. This workflow facilitates rapid, iterative testing of kernel-level code before it is merged into official software repositories.</p><hr/><small>1 Oct 2026, 02:51 UTC | #22915</small>]]></content>
+  </entry>
   <entry>
     <title>EDG C/C++ Compiler Project Open-Sourced</title>
     <link href="https://github.com/edgcpp/compiler" rel="alternate" />
