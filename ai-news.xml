@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-09-30T22:13:00+00:00</updated>
+  <updated>2026-10-01T00:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google DeepMind's Gemini 4 Argon Matches GPT-6 Astra on Intelligence Index</title>
+    <link href="https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs" rel="alternate" />
+    <id>https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs::v239</id>
+    <published>2026-10-01T00:36:00+00:00</published>
+    <updated>2026-10-01T00:36:00+00:00</updated>
+    <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/22ec7dcfcd650f94c75488df4e18620b96d59425-2440x2160.png?w=1200&amp;auto=format" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs">artificialanalysis.ai</a> | <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/">source</a> | <a href="https://news.ycombinator.com/item?id=49913571">hacker news</a></small></p><hr/><p>Google DeepMind's Gemini 4 Argon has matched GPT-6 Astra's score of 53 on the Artificial Analysis Intelligence Index. The model features enhanced reasoning and agentic capabilities, a 1M token context window, and a 15% hallucination rate, the lowest among leading models in its performance tier.</p><p>The model is currently in a limited rollout to selected users and is not yet available to the general public. Pricing includes an initial 50% promotional discount, with standard rates set at $4 per 1M input tokens and $20 per 1M output tokens.</p><p><img src="https://cdn.sanity.io/images/6vfeftx9/articles/22ec7dcfcd650f94c75488df4e18620b96d59425-2440x2160.png?w=1200&auto=format" /></p><hr/><small>1 Oct 2026, 07:43 UTC | #22909</small>]]></content>
+  </entry>
   <entry>
     <title>Google's Gemini 4 Argon Faces Internal Skepticism Over Coding Capabilities</title>
     <link href="https://www.bloomberg.com/news/articles/2026-09-30/google-grapples-with-employee-skepticism-about-new-gemini-model?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDgwNTU0NiwiZXhwIjoxNzkxNDEwMzQ2LCJhcnRpY2xlSWQiOiJUTTRNM0lLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJYTENRT1MxQTNQNU9FVkZKUUVTQlNVVU5HVzRPV1NIMiJ9.ZcUfBhNnvuR8AZd8Uo4RO4LePmNKZ7sq7KOfVQYKv6I" rel="alternate" />
