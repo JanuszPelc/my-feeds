@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T19:34:00+00:00</updated>
+  <updated>2026-10-01T19:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>WSL Containers Now Generally Available</title>
+    <link href="https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/" rel="alternate" />
+    <id>https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/::v239</id>
+    <published>2026-10-01T19:43:00+00:00</published>
+    <updated>2026-10-01T19:43:00+00:00</updated>
+    <media:thumbnail url="https://blogs.windows.com/wp-content/uploads/sites/3/2026/09/cowsay-1024x475.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/">blogs.windows.com</a> | <a href="https://lobste.rs/s/8ckgq8/wsl_containers_are_now_generally">discussion</a> | <a href="https://news.ycombinator.com/item?id=49897042">hacker news</a></small></p><hr/><p>Microsoft has announced the general availability of WSL containers, introducing the `wslc.exe` command-line interface and a new API for running Linux containers on Windows. This update allows developers to build, run, and deploy containers directly within the Windows Subsystem for Linux, streamlining local development for AI and cloud-native applications.</p><p>The release includes enterprise management features such as Microsoft Intune controls for registry allow lists and security monitoring through Microsoft Defender for Endpoint. Microsoft’s roadmap for the feature includes upcoming support for Docker Compose and continued performance optimizations for cross-OS file access and networking.</p><p><img src="https://blogs.windows.com/wp-content/uploads/sites/3/2026/09/cowsay-1024x475.png" /></p><hr/><small>1 Oct 2026, 22:37 UTC | #23022</small>]]></content>
+  </entry>
   <entry>
     <title>Earendil Releases Pi 1.0 Agent Harness</title>
     <link href="https://earendil.com/posts/pi-1-0/" rel="alternate" />
