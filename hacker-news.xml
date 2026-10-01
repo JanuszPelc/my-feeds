@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T06:11:00+00:00</updated>
+  <updated>2026-10-01T08:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>IANA Explains Changes to example.com Content and Structure</title>
+    <link href="https://www.oliverdunk.com/2026/09/30/iana-reply" rel="alternate" />
+    <id>https://www.oliverdunk.com/2026/09/30/iana-reply::v239</id>
+    <published>2026-10-01T08:48:00+00:00</published>
+    <updated>2026-10-01T08:48:00+00:00</updated>
+    <media:thumbnail url="https://www.ionos.co.uk/digitalguide/fileadmin/DigitalGuide/Screenshots_2021/UK-types-of-domains.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.oliverdunk.com/2026/09/30/iana-reply">oliverdunk.com</a> | <a href="https://lobste.rs/s/qgd17n/iana_s_email_about_why_example_com_changed">discussion</a> | <a href="https://news.ycombinator.com/item?id=49915060">hacker news</a></small></p><hr/><p>IANA has modified the content and structure of example.com to reduce bandwidth consumption. Because the domain attracts significant automated traffic, the site now serves a minimal base page and utilizes a separate JavaScript file for additional content, ensuring most bots do not fetch unnecessary data.</p><p>The domain is reserved for use in documentation and illustrative examples rather than as a general-purpose testing endpoint. IANA maintains the service as a courtesy to support technical documentation requirements while minimizing the resource impact of incidental traffic.</p><p><img src="https://www.ionos.co.uk/digitalguide/fileadmin/DigitalGuide/Screenshots_2021/UK-types-of-domains.png" /></p><hr/><small>1 Oct 2026, 11:50 UTC | #22940</small>]]></content>
+  </entry>
   <entry>
     <title>Comparing Typeclasses and Modules</title>
     <link href="https://sm2n.ca/articles/typeclasses-vs-modules/" rel="alternate" />
