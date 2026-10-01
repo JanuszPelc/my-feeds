@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>The Evolution of the Bloomberg Terminal</title>
+    <link href="https://spectrum.ieee.org/bloomberg-terminal" rel="alternate" />
+    <id>https://spectrum.ieee.org/bloomberg-terminal::v239</id>
+    <published>2026-09-30T20:32:00+00:00</published>
+    <updated>2026-09-30T20:32:00+00:00</updated>
+    <media:thumbnail url="https://spectrum.ieee.org/media-library/color-photo-of-a-white-man-in-a-business-suit-posing-in-front-of-a-computer-with-office-workers-in-the-background.jpg?id=67857167&amp;width=980" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://spectrum.ieee.org/bloomberg-terminal">spectrum.ieee.org</a> | <a href="https://news.ycombinator.com/item?id=49909583">hacker news</a></small></p><hr/><p>Michael Bloomberg founded Innovative Market Systems in 1981, which later became Bloomberg LP. The company's initial product, the Market Master terminal, provided real-time bond pricing and quantitative analysis for clients like Merrill Lynch through a proprietary, closed-network system. This specialized hardware-based service has since expanded into a comprehensive data, news, and communication platform.</p><p>The terminal's distinctive color-coded keyboard and specialized hardware once defined the professional trader's workspace and are now featured in collections like the Smithsonian Institution. As the financial industry transitioned from dedicated workstations to web-based software and mobile applications, the Bloomberg Terminal evolved from a hardware-centric product into an integrated digital ecosystem.</p><p><img src="https://spectrum.ieee.org/media-library/color-photo-of-a-white-man-in-a-business-suit-posing-in-front-of-a-computer-with-office-workers-in-the-background.jpg?id=67857167&width=980" /></p><hr/><small>1 Oct 2026, 00:47 UTC | #22908</small>]]></content>
+  </entry>
+  <entry>
     <title>Alex Stamos Joins Cognition as Chief Security Officer</title>
     <link href="https://www.axios.com/2026/09/29/alex-stamos-cognition-cybersecurity" rel="alternate" />
     <id>https://www.axios.com/2026/09/29/alex-stamos-cognition-cybersecurity::v239</id>
