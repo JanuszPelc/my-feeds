@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T23:45:00+00:00</updated>
+  <updated>2026-09-30T23:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Tech CEOs Questioned Anthropic CEO Dario Amodei Over AI Risk Warnings</title>
+    <link href="https://www.wsj.com/tech/ai/tech-ceos-privately-questioned-amodei-for-sounding-ai-alarm-bells-aaa47df3" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/tech-ceos-privately-questioned-amodei-for-sounding-ai-alarm-bells-aaa47df3::v239</id>
+    <published>2026-09-30T23:46:00+00:00</published>
+    <updated>2026-09-30T23:46:00+00:00</updated>
+    <media:thumbnail url="https://cdn-image.creati.ai/ai-news/cover-image/original/anthropic-ceo-dario-amodei-meets-white-house-chief-of-staff-claude-mythos-pentagon.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/tech-ceos-privately-questioned-amodei-for-sounding-ai-alarm-bells-aaa47df3">wsj.com</a></small></p><hr/><p>During a White House luncheon, tech executives—including Nvidia's Jensen Huang—privately challenged Anthropic CEO Dario Amodei about his public warnings regarding the capabilities and risks of advanced AI models. Amodei defended his stance, asserting that transparency regarding the technology's potential impact is essential.</p><p>The confrontation highlights a growing divide in the industry between those prioritizing rapid technological progress and those calling for increased oversight. Amodei has been a leading voice for "pacing the frontier," arguing that the rate of AI capability gains should be deliberately slowed to allow safety, alignment, and governance research to keep pace.</p><p><img src="https://cdn-image.creati.ai/ai-news/cover-image/original/anthropic-ceo-dario-amodei-meets-white-house-chief-of-staff-claude-mythos-pentagon.webp" /></p><hr/><small>1 Oct 2026, 05:25 UTC | #22902</small>]]></content>
+  </entry>
   <entry>
     <title>Factory and Cognition Trade Accusations Over High-Profile Executive Hire</title>
     <link href="https://www.businessinsider.com/ai-coding-rivals-factory-and-cognition-feud-over-top-hire-2026-9" rel="alternate" />
