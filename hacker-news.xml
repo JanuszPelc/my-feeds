@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T06:03:00+00:00</updated>
+  <updated>2026-10-01T06:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Open Source Projects Face Decision on AI-Generated Contributions</title>
+    <link href="https://ploum.net/2026-10-01-pascal_wager.html" rel="alternate" />
+    <id>https://ploum.net/2026-10-01-pascal_wager.html::v239</id>
+    <published>2026-10-01T06:07:00+00:00</published>
+    <updated>2026-10-01T06:07:00+00:00</updated>
+    <media:thumbnail url="https://media.assettype.com/analyticsinsight/2026-03-13/u8ygwvw6/Open-Source-vs-Proprietary-AI.jpg?w=1024&amp;auto=format,compress&amp;fit=max" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ploum.net/2026-10-01-pascal_wager.html">ploum.net</a> | <a href="https://lobste.rs/s/hbjy0b/ai_pascal_s_wager">discussion</a> | <a href="https://news.ycombinator.com/item?id=49915338">hacker news</a></small></p><hr/><p>Open source maintainers must decide whether to accept or reject AI-generated contributions, as attempting to adopt a neutral, middle-ground policy is argued to be unsustainable. The author suggests that such ambiguity leads to an inevitable influx of low-quality, LLM-generated code that compromises a project's ability to maintain human-verifiable and understandable codebases.</p><p>Applying the logic of Pascal's Wager, the article argues that the long-term risks of AI adoption—including increased dependency on proprietary tools, potential licensing conflicts, and the erosion of human architectural understanding—outweigh the immediate benefits of increased contribution volume. The author concludes that the most pragmatic course for maintainers is to strictly refuse AI-generated contributions to ensure long-term project control and integrity.</p><p><img src="https://media.assettype.com/analyticsinsight/2026-03-13/u8ygwvw6/Open-Source-vs-Proprietary-AI.jpg?w=1024&auto=format,compress&fit=max" /></p><hr/><small>1 Oct 2026, 10:42 UTC | #22947</small>]]></content>
+  </entry>
   <entry>
     <title>Reviving Multimedia in Valve's "The Final Hours of Portal 2" E-book</title>
     <link href="https://nikolan.net/posts/portal2/" rel="alternate" />
