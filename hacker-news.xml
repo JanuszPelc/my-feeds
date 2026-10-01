@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T11:00:00+00:00</updated>
+  <updated>2026-10-01T13:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rust 1.99.0 Released</title>
+    <link href="https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/" rel="alternate" />
+    <id>https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/::v239</id>
+    <published>2026-10-01T13:09:00+00:00</published>
+    <updated>2026-10-01T13:09:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/dfvxvs/announcing_rust_1_99_0">discussion</a> | <a href="https://news.ycombinator.com/item?id=49920917">hacker news</a></small></p><hr/><p>`extern "C"` variadic functions are now stabilized, enabling the definition of functions with a variable number of arguments compatible with the C ABI. The update also adds methods for retrieving size and alignment information from raw pointers through `Layout::for_value_raw`, `mem::size_of_val_raw`, and `mem::align_of_val_raw`.</p><p>Documentation for `Box::leak` has been updated to discourage deallocating memory after the initial leak to avoid conflicts with compiler optimizations and upcoming custom allocator features. Other stabilized APIs include `Vec::into_parts`, `String::from_utf8_lossy_owned`, and `VecDeque::retain_back`.</p><hr/><small>1 Oct 2026, 16:24 UTC | #22980</small>]]></content>
+  </entry>
   <entry>
     <title>StreetComplete Coordinates iOS Port Development</title>
     <link href="https://github.com/streetcomplete/StreetComplete/issues/5421" rel="alternate" />
@@ -778,41 +786,5 @@
     <updated>2026-09-26T16:35:00+00:00</updated>
     <media:thumbnail url="https://kalinga.ai/wp-content/uploads/2026/05/ai-coding-dependency-hidden-costs-developers.jpg-1024x683.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html">blog.bustikiller.com</a> | <a href="https://news.ycombinator.com/item?id=49855018">hacker news</a></small></p><hr/><p>A developer's reliance on AI coding agents in a professional setting led to a loss of fundamental understanding of the codebase and a decline in code quality. While the tools initially increased speed, the transition to "AI shepherding"—generating and committing code via agents rather than writing it manually—resulted in mental exhaustion and the inability to effectively perform code reviews.</p><p>Over-reliance on generative AI creates a risk of professional complacency, where developers lose the ability to justify technical decisions or defend their work during peer reviews. Returning to manual programming and Test-Driven Development (TDD) restores technical proficiency and ensures engineers remain capable of troubleshooting production incidents without the mediation of AI.</p><p><img src="https://kalinga.ai/wp-content/uploads/2026/05/ai-coding-dependency-hidden-costs-developers.jpg-1024x683.png" /></p><hr/><small>26 Sep 2026, 22:50 UTC | #22458</small>]]></content>
-  </entry>
-  <entry>
-    <title>NixOS Migration Prompted by Nixpkgs Deprecation of Intel Mac Support</title>
-    <link href="https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend" rel="alternate" />
-    <id>https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend::v239</id>
-    <published>2026-09-26T16:27:00+00:00</published>
-    <updated>2026-09-26T16:27:00+00:00</updated>
-    <media:thumbnail url="https://applech2.com/wp-content/uploads/2025/11/Blender-5-end-support-Intel-features-3.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/bubfjf/what_are_you_doing_this_weekend">discussion</a></small></p><hr/><p>A user is migrating their setup from macOS to NixOS on a 2018 MacBook Pro. The move follows the decision to end Nixpkgs support for x86_64-darwin in upcoming releases due to Apple's platform deprecation.</p><p>Weekend plans include supporting a local artist's open studio event and watching a film with their son.</p><p><img src="https://applech2.com/wp-content/uploads/2025/11/Blender-5-end-support-Intel-features-3.webp" /></p><hr/><small>26 Sep 2026, 20:50 UTC | #22455</small>]]></content>
-  </entry>
-  <entry>
-    <title>PipePipe Open-Source Android App Offers YouTube Enhancements</title>
-    <link href="https://github.com/InfinityLoop1308/PipePipe" rel="alternate" />
-    <id>https://github.com/InfinityLoop1308/PipePipe::v239</id>
-    <published>2026-09-26T16:21:00+00:00</published>
-    <updated>2026-09-26T16:21:00+00:00</updated>
-    <media:thumbnail url="https://raw.githubusercontent.com/TeamNewPipe/NewPipe/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/InfinityLoop1308/PipePipe">github.com</a> | <a href="https://news.ycombinator.com/item?id=49842764">hacker news</a></small></p><hr/><p>PipePipe is an open-source Android application and a hard fork of NewPipe that provides expanded features for browsing YouTube and other services. It incorporates SponsorBlock to skip sponsored segments and ReturnYouTubeDislike to restore visibility of video dislikes.</p><p>Developed as an independent project since 2022, PipePipe supports AV1 and VP9 codecs, danmaku-style live chat overlays, and background playback. The application also includes advanced filtering to block YouTube Shorts and paid videos, alongside enhanced playlist management and playback controls.</p><p><img src="https://raw.githubusercontent.com/TeamNewPipe/NewPipe/master/fastlane/metadata/android/en-US/images/phoneScreenshots/04.png" /></p><hr/><small>26 Sep 2026, 20:03 UTC | #22453</small>]]></content>
-  </entry>
-  <entry>
-    <title>Avoiding Side Effects in If Clauses</title>
-    <link href="https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html" rel="alternate" />
-    <id>https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html::v239</id>
-    <published>2026-09-26T16:19:00+00:00</published>
-    <updated>2026-09-26T16:19:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/LbRZXcRGSCQ/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html">teamten.com</a> | <a href="https://lobste.rs/s/buroqq/keep_if_clauses_side_effect_free">discussion</a></small></p><hr/><p>Restricting if statements to testing conditions without executing code as side effects improves logic clarity. Embedding state-modifying methods within a conditional expression can obscure a method's intent and cause developers to overlook critical actions while skimming code.</p><p>Short-circuit evaluation is an unsuitable mechanism for managing side-effect-inducing calls within a conditional. Using explicit variables to separate state-changing actions from logical checks provides greater clarity and prevents common logic errors.</p><p><img src="https://i.ytimg.com/vi/LbRZXcRGSCQ/maxresdefault.jpg" /></p><hr/><small>26 Sep 2026, 19:40 UTC | #22452</small>]]></content>
-  </entry>
-  <entry>
-    <title>Running NixOS on Valve Steam Link Hardware</title>
-    <link href="https://feyor.sh/blog/infecting-the-steam-link-with-nixos/" rel="alternate" />
-    <id>https://feyor.sh/blog/infecting-the-steam-link-with-nixos/::v239</id>
-    <published>2026-09-26T16:16:00+00:00</published>
-    <updated>2026-09-26T16:16:00+00:00</updated>
-    <media:thumbnail url="https://blog.yanlincs.com/homelab/nixos-steam-deck/fastfetch.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://feyor.sh/blog/infecting-the-steam-link-with-nixos/">feyor.sh</a> | <a href="https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos">discussion</a></small></p><hr/><p>Installing NixOS on Valve Steam Link hardware requires bypassing manufacturer bootloader restrictions by using a custom kernel module that enables kexec functionality. Since the factory kernel lacks the CONFIG_KEXEC flag required to hand over control to a new kernel, a minimal module is compiled to inject the necessary syscall into the running system.</p><p>The implementation involves cross-compiling NixOS for the armv7l architecture and using the NixOS sd-image module to generate a bootable USB drive. To optimize for the device's hardware constraints, the configuration includes methods for minimizing the system size by selectively including firmware and disabling non-essential services.</p><p><img src="https://blog.yanlincs.com/homelab/nixos-steam-deck/fastfetch.webp" /></p><hr/><small>26 Sep 2026, 19:25 UTC | #22450</small>]]></content>
   </entry>
 </feed>
