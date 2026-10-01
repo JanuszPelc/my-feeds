@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-30T12:54:00+00:00</updated>
+  <updated>2026-09-30T23:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Manuel Darcemont Reflects on Technological Displacement and Career Continuity</title>
+    <link href="https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/" rel="alternate" />
+    <id>https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/::v239</id>
+    <published>2026-09-30T23:51:00+00:00</published>
+    <updated>2026-09-30T23:51:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/">manuel.darcemont.fr</a> | <a href="https://news.ycombinator.com/item?id=49908394">hacker news</a></small></p><hr/><p>Technology shifts the specific tools required for a job, but the underlying purpose of many professions often remains constant. Current anxieties regarding AI in software development are compared to the historical transition from horse-based labor to automotive mechanics.</p><p>A family's transition from farriers to mechanics illustrates how professional identity can be maintained by focusing on a vocation's core intent rather than its technical execution. This perspective frames technological revolutions as shifts in methodology rather than a fundamental loss of human purpose.</p><hr/><small>1 Oct 2026, 06:54 UTC | #22927</small>]]></content>
+  </entry>
   <entry>
     <title>IARC Study Estimates Infections Cause One in Eight Global Cancer Cases</title>
     <link href="https://www.cbc.ca/lite/story/9.7361622" rel="alternate" />
