@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-01T00:11:00+00:00</updated>
+  <updated>2026-10-01T03:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amazon Signs 20-Year Nuclear Power Deal with Constellation Energy</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-09-30/amazon-nuclear-deal-to-help-expand-constellation-s-maryland-site" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-09-30/amazon-nuclear-deal-to-help-expand-constellation-s-maryland-site::v239</id>
+    <published>2026-10-01T03:16:00+00:00</published>
+    <updated>2026-10-01T03:16:00+00:00</updated>
+    <media:thumbnail url="https://backend.theenergymag.com/wp-content/uploads/2026/09/constellation-and-amazon-sign-20-year-ppa-for-190-mw-of-nuclear-power-at-calvert-cliffs-1790801411452.webp?wm=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-30/amazon-nuclear-deal-to-help-expand-constellation-s-maryland-site">bloomberg.com</a> | <a href="https://www.constellationenergy.com/news/2026/09/constellation-and-amazon-announce-20-year-power-purchase-agreement-at-calvert-cliffs.html">source</a></small></p><hr/><p>Amazon has entered a 20-year agreement to purchase 690 megawatts of power from Constellation Energy. The deal includes a 190-megawatt capacity uprate at the Calvert Cliffs nuclear plant in Maryland, supporting over $3 billion in infrastructure investments.</p><p>The arrangement includes a retail supply component to support Amazon's operations within the 13-state PJM market. This deal provides low-carbon energy to meet the increasing power demands of the company's data center and AI infrastructure.</p><p><img src="https://backend.theenergymag.com/wp-content/uploads/2026/09/constellation-and-amazon-sign-20-year-ppa-for-190-mw-of-nuclear-power-at-calvert-cliffs-1790801411452.webp?wm=1" /></p><hr/><small>1 Oct 2026, 10:20 UTC | #22916</small>]]></content>
+  </entry>
   <entry>
     <title>California Governor Gavin Newsom Signs No Robo Bosses Act</title>
     <link href="https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-09-30T23:51:00+00:00</updated>
+  <updated>2026-10-01T02:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Iron Technology and the Bronze Age Collapse</title>
+    <link href="https://www.worksinprogress.news/p/why-really-caused-the-bronze-age" rel="alternate" />
+    <id>https://www.worksinprogress.news/p/why-really-caused-the-bronze-age::v239</id>
+    <published>2026-10-01T02:20:00+00:00</published>
+    <updated>2026-10-01T02:20:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!4KAw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85eee633-a1ba-429c-a7f9-46c7ee97b3b8_1024x409.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.worksinprogress.news/p/why-really-caused-the-bronze-age">worksinprogress.news</a> | <a href="https://news.ycombinator.com/item?id=49890732">hacker news</a></small></p><hr/><p>The transition from bronze to iron technology was a primary driver of the Bronze Age collapse around 1200 BC. While centralized empires maintained dominance by controlling long-distance tin trade routes, the ability to produce iron locally using bloomery furnaces decentralized access to military tools. This shift fundamentally undermined the political and military monopolies previously held by large, bureaucratically complex states.</p><p>Traditional explanations for the collapse often cite droughts, famines, or invasions, but the shift to iron explains why large empires failed to re-emerge for centuries. The widespread availability of iron allowed even peripheral communities to equip effective fighting forces, preventing the re-consolidation of political power into massive imperial structures.</p><p><img src="https://substackcdn.com/image/fetch/$s_!4KAw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85eee633-a1ba-429c-a7f9-46c7ee97b3b8_1024x409.jpeg" /></p><hr/><small>1 Oct 2026, 10:18 UTC | #22944</small>]]></content>
+  </entry>
   <entry>
     <title>Manuel Darcemont Reflects on Technological Displacement and Career Continuity</title>
     <link href="https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/" rel="alternate" />

@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T02:18:00+00:00</updated>
+  <updated>2026-10-01T06:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Reviving Multimedia in Valve's "The Final Hours of Portal 2" E-book</title>
+    <link href="https://nikolan.net/posts/portal2/" rel="alternate" />
+    <id>https://nikolan.net/posts/portal2/::v239</id>
+    <published>2026-10-01T06:03:00+00:00</published>
+    <updated>2026-10-01T06:03:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nikolan.net/posts/portal2/">nikolan.net</a> | <a href="https://lobste.rs/s/lzlkbr/reviving_valve_s_15_year_old_e_book">discussion</a></small></p><hr/><p>The technical restoration of interactive elements in "The Final Hours of Portal 2," a legacy e-book documenting the development of Valve's Portal 2, addresses broken multimedia content. Many embedded videos, 3D visualizations, music tracks, and interactive polls in the original digital book became non-functional due to the discontinuation of Adobe Flash APIs and the expiration of hosted web services.</p><p>The project involved decompiling SWF files using JPEXS Free Flash Decompiler and recovering audio and video via yt-dlp. By extracting assets from an iOS version of the book found in a digital archive and implementing custom local playback logic, several interactive features were successfully restored.</p><hr/><small>1 Oct 2026, 10:23 UTC | #22945</small>]]></content>
+  </entry>
   <entry>
     <title>Signal Updates Backup Features with Cross-Platform Support and Storage Optimization</title>
     <link href="https://signal.org/blog/backup-improvements/" rel="alternate" />
