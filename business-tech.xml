@@ -3,9 +3,26 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-01T19:47:00+00:00</updated>
+  <updated>2026-10-01T19:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Dismisses Three Safety Researchers for Alleged Information Leaks</title>
+    <link href="https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/::v239</id>
+    <published>2026-10-01T19:49:00+00:00</published>
+    <updated>2026-10-01T19:49:00+00:00</updated>
+    <media:thumbnail url="https://aistartupsnews.com/assets/img/openai-staff-member-resigns-over-concerns-of-research-bias-1600.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/">techcrunch.com</a> | <a href="https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528">source</a> | <a href="https://news.ycombinator.com/item?id=49923737">hacker news</a></small></p><hr/><p>OpenAI has dismissed three researchers from its safety team after an internal investigation found they mishandled sensitive company information. The researchers allegedly shared confidential data with a third-party AI safety organization, violating internal procedures and security policies regarding the handling of proprietary information.</p><p>The departures occur amid reports that OpenAI executives have deprioritized employee warnings regarding safety and security protocols. This internal friction follows several recent security incidents involving AI agents and the company's recent decision to scrap the development of the GPT-6.1 Astra model due to safety concerns.</p><p><img src="https://aistartupsnews.com/assets/img/openai-staff-member-resigns-over-concerns-of-research-bias-1600.jpg" /></p><hr/><small>1 Oct 2026, 23:27 UTC | #23007</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ryan Roslansky to Leave Microsoft Leadership</title>
+    <link href="https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving" rel="alternate" />
+    <id>https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving::v239</id>
+    <published>2026-10-01T19:48:00+00:00</published>
+    <updated>2026-10-01T19:48:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving">theverge.com</a> | <a href="https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/">source</a></small></p><hr/><p>Ryan Roslansky, the former CEO of LinkedIn who recently assumed leadership of Microsoft's Office and Teams divisions, is departing the company after 18 years. His exit triggers a leadership reshuffle that moves the Office and Teams organizations to Charles Lamanna within Microsoft’s Copilot, Agents, and Platform (CAP) organization.</p><p>Roslansky stated his decision was driven by a desire to remain in the Bay Area rather than relocating to Microsoft's headquarters in Redmond. The reorganization occurs as Microsoft continues to restructure its productivity and AI-focused divisions.</p><hr/><small>1 Oct 2026, 23:26 UTC | #22986</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Ends Enterprise Discounts Once Usage Limits Are Reached</title>
     <link href="https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending" rel="alternate" />
