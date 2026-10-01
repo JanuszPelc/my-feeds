@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>European Commission Proposes EU KIDS Act to Regulate Online Safety for Children</title>
+    <link href="https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en" rel="alternate" />
+    <id>https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en::v239</id>
+    <published>2026-10-01T13:22:00+00:00</published>
+    <updated>2026-10-01T13:22:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en">commission.europa.eu</a> | <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1890">source</a> | <a href="https://lobste.rs/s/bbi3w9/eu_kids_act">discussion</a> | <a href="https://news.ycombinator.com/item?id=49920205">hacker news</a></small></p><hr/><p>The European Commission has proposed the EU KIDS Act, a regulatory framework intended to protect minors from addictive and harmful online environments. The proposal introduces age-based social media restrictions: prohibiting access for children under 13, requiring parental management and time limits for those aged 13 to 14, and allowing independent accounts for users 15 and older. It also mandates "safety by design" features, such as default private profiles and restrictions on addictive mechanics like infinite scrolling and push notifications during sleeping hours.</p><p>The legislation would shift the burden of proof to online platforms, requiring them to demonstrate that their services are designed with the wellbeing of minors in mind. The proposal also targets AI companions, requiring them to be turned off by default and prohibiting features that foster emotional dependency in children. The text must now be examined and negotiated by the European Parliament and the Council before it can become law.</p><hr/><small>1 Oct 2026, 17:55 UTC | #22999</small>]]></content>
+  </entry>
+  <entry>
     <title>Google and Range Media Launch 100 Zeros Production Venture</title>
     <link href="https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html?unlocked_article_code=1.FFE.6cVi.x55cp16d-jbK&amp;smid=url-share" rel="alternate" />
     <id>https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html?unlocked_article_code=1.FFE.6cVi.x55cp16d-jbK&amp;smid=url-share::v239</id>
