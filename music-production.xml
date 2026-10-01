@@ -3,9 +3,54 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-01T09:04:00+00:00</updated>
+  <updated>2026-10-01T10:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Wavefold Labs Releases Gaussian Blur Granular Reverb Plugin</title>
+    <link href="https://www.kvraudio.com/news/wavefold-labs-releases-gaussian-blur---a-granular-bloom-reverb-vst3-and-au-68824?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68824" rel="alternate" />
+    <id>https://www.kvraudio.com/news/wavefold-labs-releases-gaussian-blur---a-granular-bloom-reverb-vst3-and-au-68824?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68824::v239</id>
+    <published>2026-10-01T10:12:00+00:00</published>
+    <updated>2026-10-01T10:12:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/gaussian-blur-shot-1.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/wavefold-labs-releases-gaussian-blur---a-granular-bloom-reverb-vst3-and-au-68824?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68824">kvraudio.com</a> | <a href="https://wavefoldlabs.com/products/gaussian-blur">source</a></small></p><hr/><p>Wavefold Labs has released Gaussian Blur, a bloom reverb plugin for VST3 and AU formats on macOS, Windows, and Linux. The software splits incoming audio into overlapping grains and feeds them into a plate-style reverb tail.</p><p>The plugin features a bloom curve that controls grain intensity timing, supporting tempo synchronization and durations up to five seconds. Additional controls include grain size, direction, shimmer, and a recirculate function that allows grains to pass through the processing multiple times.</p><p><img src="https://static.kvraudio.com/i/b/gaussian-blur-shot-1.png" /></p><hr/><small>1 Oct 2026, 13:47 UTC | #22937</small>]]></content>
+  </entry>
+  <entry>
+    <title>Mastering The Mix Releases Carbon Q Connected EQ Plugin</title>
+    <link href="https://www.kvraudio.com/news/mastering-the-mix-releases-carbon-q---connected-eq-plugin-vst3-au-and-aax-68823?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68823" rel="alternate" />
+    <id>https://www.kvraudio.com/news/mastering-the-mix-releases-carbon-q---connected-eq-plugin-vst3-au-and-aax-68823?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68823::v239</id>
+    <published>2026-10-01T10:11:00+00:00</published>
+    <updated>2026-10-01T10:11:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/carbon-q-hero.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/mastering-the-mix-releases-carbon-q---connected-eq-plugin-vst3-au-and-aax-68823?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68823">kvraudio.com</a> | <a href="https://www.masteringthemix.com/products/carbon-q">source</a></small></p><hr/><p>Mastering The Mix has released Carbon Q, an EQ and volume balancer designed to work across an entire audio session on macOS and Windows. The plugin utilizes a connected architecture where a central MIX instance interacts with individual agents on vocal, music, drum, and bass channels to manage both tonal and volume balance across the session.</p><p>Key features include Smart Presets derived from reference mixes, local stem separation for analysis, and real-time level matching to ensure EQ moves do not affect perceived loudness. Carbon Q is available in VST3, AU, and AAX formats for $80 and includes a 15-day free trial.</p><p><img src="https://static.kvraudio.com/i/b/carbon-q-hero.jpg" /></p><hr/><small>1 Oct 2026, 13:46 UTC | #22938</small>]]></content>
+  </entry>
+  <entry>
+    <title>discoDSP Releases Updates for Discovery Pro, OPL, Corona, Bliss, and Retromulator</title>
+    <link href="https://www.kvraudio.com/news/discodsp-releases-discovery-pro-9-5-opl-3-2-corona-7-1-synths-bliss-sampler-3-26-retromulator-1-9-68831?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68831" rel="alternate" />
+    <id>https://www.kvraudio.com/news/discodsp-releases-discovery-pro-9-5-opl-3-2-corona-7-1-synths-bliss-sampler-3-26-retromulator-1-9-68831?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68831::v239</id>
+    <published>2026-10-01T10:10:00+00:00</published>
+    <updated>2026-10-01T10:10:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/discoverypro9.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/discodsp-releases-discovery-pro-9-5-opl-3-2-corona-7-1-synths-bliss-sampler-3-26-retromulator-1-9-68831?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68831">kvraudio.com</a> | <a href="https://www.discodsp.com/news/">source</a></small></p><hr/><p>discoDSP has released software updates for Discovery Pro 9.5, OPL 3.2, Corona 7.1, Bliss 3.26, and Retromulator 1.9. These updates introduce new synthesizer features, instrument libraries, and performance optimizations across the developer's product line.</p><p>Discovery Pro 9.5 includes a rebuilt Nordic filter based on the Nord Lead 2X and enhanced sequencer tools. OPL 3.2 adds support for Yamaha-style algorithm editing and extensive new instrument banks, while Retromulator 1.9 adds an Oberheim Matrix-1000 model. Most version updates are provided at no additional cost to existing customers.</p><p><img src="https://static.kvraudio.com/i/b/discoverypro9.webp" /></p><hr/><small>1 Oct 2026, 13:45 UTC | #22931</small>]]></content>
+  </entry>
+  <entry>
+    <title>tokyomeltdown Releases EQ Mirror Analysis Plugin</title>
+    <link href="https://www.kvraudio.com/news/tokyomeltdown-releases-eq-mirror---a-plugin-pair-that-shows-the-curve-an-eq-is-actually-applying-mac-au-vst3-and-aax-68832?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68832" rel="alternate" />
+    <id>https://www.kvraudio.com/news/tokyomeltdown-releases-eq-mirror---a-plugin-pair-that-shows-the-curve-an-eq-is-actually-applying-mac-au-vst3-and-aax-68832?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68832::v239</id>
+    <published>2026-10-01T10:09:00+00:00</published>
+    <updated>2026-10-01T10:09:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/eqmirror-cover.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/tokyomeltdown-releases-eq-mirror---a-plugin-pair-that-shows-the-curve-an-eq-is-actually-applying-mac-au-vst3-and-aax-68832?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68832">kvraudio.com</a> | <a href="https://tokyomeltdown.github.io/eq-mirror/">source</a></small></p><hr/><p>tokyomeltdown has released EQ Mirror, an analysis plugin for macOS available in AU, VST3, and AAX formats. The plugin pair measures and visualizes the actual frequency response an EQ applies to audio in real time by comparing signals before and after the EQ, automatically aligning the signals to avoid the need for manual sidechain routing.</p><p>Designed for engineers working with analog-style EQs where control markings may not reflect the actual output, the tool displays real-time curves based on the actual programme material being played. The plugin does not alter the audio or introduce latency and provides visual indicators for non-linearities such as distortion. It is available for $18 for macOS 12 or later.</p><p><img src="https://static.kvraudio.com/i/b/eqmirror-cover.png" /></p><hr/><small>1 Oct 2026, 13:43 UTC | #22932</small>]]></content>
+  </entry>
+  <entry>
+    <title>SampleRoll Releases FLTR Playable Filter Plugin</title>
+    <link href="https://www.kvraudio.com/news/sampleroll-releases-fltr-playable-filter-that-morphs-from-analog-models-to-spectral-chords-vst3-and-au-68826?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68826" rel="alternate" />
+    <id>https://www.kvraudio.com/news/sampleroll-releases-fltr-playable-filter-that-morphs-from-analog-models-to-spectral-chords-vst3-and-au-68826?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68826::v239</id>
+    <published>2026-10-01T10:08:00+00:00</published>
+    <updated>2026-10-01T10:08:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/thumb.1790811280.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/sampleroll-releases-fltr-playable-filter-that-morphs-from-analog-models-to-spectral-chords-vst3-and-au-68826?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68826">kvraudio.com</a> | <a href="https://sampleroll.com/fltr">source</a></small></p><hr/><p>This playable filter plugin for VST3, Audio Unit, and standalone formats utilizes an XY-style display for gesture-based control of cutoff and resonance instead of traditional rotary knobs. It includes nine distinct filter modes, ranging from analog-modeled ladder and SEM filters to spectral engines capable of reshaping audio into chords or harmonies.</p><p>The software features an integrated arpeggiator, a drag-and-drop modulation system, and A/B morphing for tempo-synced transitions between sound states. Additional functionality includes MIDI control for key and root notes, alongside multiple saturation and drive options. The plugin is available at an introductory price of $29 for macOS and Windows.</p><p><img src="https://static.kvraudio.com/i/b/thumb.1790811280.png" /></p><hr/><small>1 Oct 2026, 13:42 UTC | #22933</small>]]></content>
+  </entry>
   <entry>
     <title>Xeni-Audio Updates Palimpsest to v1.1.0 Adding PalimpsestFx and PalimpsestNotes</title>
     <link href="https://www.kvraudio.com/news/xeni-audio-updates-palimpsest-to-v1-1-0---adds-palimpsestfx-and-palimpsestnotes-68825?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68825" rel="alternate" />
