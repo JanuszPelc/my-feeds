@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-09-30T23:46:00+00:00</updated>
+  <updated>2026-09-30T23:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Greg Brockman to Halt Second $25 Million Donation to Leading the Future</title>
+    <link href="https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html?unlocked_article_code=1.FFE.e3i6.y9pbdNHBVc3E&amp;smid=bs-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html?unlocked_article_code=1.FFE.e3i6.y9pbdNHBVc3E&amp;smid=bs-share::v239</id>
+    <published>2026-09-30T23:49:00+00:00</published>
+    <updated>2026-09-30T23:49:00+00:00</updated>
+    <media:thumbnail url="https://gizmodo.com/app/uploads/2026/02/greg-brockman-jan-2026-1200x675.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html?unlocked_article_code=1.FFE.e3i6.y9pbdNHBVc3E&smid=bs-share">nytimes.com</a></small></p><hr/><p>OpenAI President and co-founder Greg Brockman has informed employees that he will not fulfill a planned second $25 million donation to the super PAC Leading the Future. He reportedly characterized the political organization as a "distraction" for the company.</p><p>The decision follows internal pressure and concerns raised by OpenAI employees regarding the company's perceived links to the PAC. The super PAC had previously expected a total of $50 million in contributions from Brockman after he provided the first $25 million in 2025.</p><p><img src="https://gizmodo.com/app/uploads/2026/02/greg-brockman-jan-2026-1200x675.jpg" /></p><hr/><small>1 Oct 2026, 06:34 UTC | #22905</small>]]></content>
+  </entry>
   <entry>
     <title>Tech CEOs Questioned Anthropic CEO Dario Amodei Over AI Risk Warnings</title>
     <link href="https://www.wsj.com/tech/ai/tech-ceos-privately-questioned-amodei-for-sounding-ai-alarm-bells-aaa47df3" rel="alternate" />
