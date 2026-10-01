@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-01T19:40:00+00:00</updated>
+  <updated>2026-10-01T19:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Graphite Research Identifies Distinctive Linguistic Tells in Frontier AI Models</title>
+    <link href="https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/::v239</id>
+    <published>2026-10-01T19:45:00+00:00</published>
+    <updated>2026-10-01T19:45:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/">techcrunch.com</a> | <a href="https://graphite.io/five-percent/research/ai-tells-opus-5-5-update">source</a></small></p><hr/><p>A study by the marketing firm Graphite has identified 13,000 phrases that appear significantly more frequently in AI-generated text than in human writing. While frontier models are successfully reducing once-obvious markers like em-dashes, they are instead developing new, model-specific linguistic patterns that serve as tells.</p><p>Claude Opus 5.5 frequently uses phrases such as "this matters" and "dependable," while OpenAI's Astra relies on "corrective framing" and hedging language like "may provide." While some models are approaching human-like word distributions, others are drifting further away, suggesting that distinctive AI signatures remain a persistent feature of large language models.</p><hr/><small>1 Oct 2026, 22:54 UTC | #23004</small>]]></content>
+  </entry>
   <entry>
     <title>AWS Releases Strands Decider 2B Open-Source Decision Model</title>
     <link href="https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/" rel="alternate" />
