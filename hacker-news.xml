@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T01:28:00+00:00</updated>
+  <updated>2026-10-01T02:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Signal Updates Backup Features with Cross-Platform Support and Storage Optimization</title>
+    <link href="https://signal.org/blog/backup-improvements/" rel="alternate" />
+    <id>https://signal.org/blog/backup-improvements/::v239</id>
+    <published>2026-10-01T02:18:00+00:00</published>
+    <updated>2026-10-01T02:18:00+00:00</updated>
+    <media:thumbnail url="https://signal.org/blog/images/backup-improvements-header.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://signal.org/blog/backup-improvements/">signal.org</a> | <a href="https://lobste.rs/s/rhkwg1/back_backups_year_review">discussion</a></small></p><hr/><p>Signal has implemented cross-platform support for on-device backups across iOS, Android, and desktop platforms. The update includes media offloading to optimize local storage and an attachment backfill mechanism that enables linked devices to retrieve missing media files from a primary device.</p><p>A paid subscription provides up to 100GB of end-to-end encrypted cloud storage, while the free tier limits media history to the last 45 days. For hosted backups, Signal utilizes Trusted Execution Environments to incorporate forward secrecy into its cryptographic key management.</p><p><img src="https://signal.org/blog/images/backup-improvements-header.png" /></p><hr/><small>1 Oct 2026, 09:49 UTC | #22941</small>]]></content>
+  </entry>
   <entry>
     <title>Debian Upgrades Rsync to 3.5.0 to Resolve 33 CVEs</title>
     <link href="https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33" rel="alternate" />
