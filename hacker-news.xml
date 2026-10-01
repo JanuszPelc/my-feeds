@@ -815,13 +815,4 @@
     <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*ee8oDKrs3gDBitdLwaZBLg.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://antonz.org/go-concurrency-distilled/">antonz.org</a> | <a href="https://lobste.rs/s/rucvky/go_concurrency_distilled">discussion</a></small></p><hr/><p>This interactive mini-book provides an overview of concurrency in the Go programming language. It covers goroutines, channels, select statements, pipelines, context, and synchronization primitives such as mutexes and semaphores.</p><p>The guide includes interactive coding examples that allow readers to experiment with the implementation details directly. It is designed as a technical refresher for experienced developers and is noted for being entirely AI-free.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*ee8oDKrs3gDBitdLwaZBLg.png" /></p><hr/><small>26 Sep 2026, 18:15 UTC | #22446</small>]]></content>
   </entry>
-  <entry>
-    <title>Nuclear Power Plant Maintains AmigaOS Emulator for Control Rod Monitoring</title>
-    <link href="https://news.ycombinator.com/item?id=49848955" rel="alternate" />
-    <id>https://news.ycombinator.com/item?id=49848955::v239</id>
-    <published>2026-09-26T11:15:00+00:00</published>
-    <updated>2026-09-26T11:15:00+00:00</updated>
-    <media:thumbnail url="https://image3.slideserve.com/6645227/reactor-and-control-rod-design-l.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49848955">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49848955">hacker news</a></small></p><hr/><p>A Windows NT 4.0 system running an AmigaOS emulator was used by a nuclear power plant to monitor control rod status. This configuration persisted until at least 2007 because the original software was written for AmigaOS in the 1980s, and updating the system would have required a costly and time-consuming regulatory re-certification.</p><p>The setup required direct hardware access provided by Windows NT 4.0, a feature lost in later operating system versions. Because the manufacturer of the emulation software had gone out of business, the facility maintained the legacy setup by sourcing spare parts from eBay to ensure continued operation.</p><p><img src="https://image3.slideserve.com/6645227/reactor-and-control-rod-design-l.jpg" /></p><hr/><small>26 Sep 2026, 17:06 UTC | #22444</small>]]></content>
-  </entry>
 </feed>
