@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T13:21:00+00:00</updated>
+  <updated>2026-10-01T13:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>wgsl-rs Reaches Beta Release</title>
+    <link href="https://renderling.xyz/articles/wgsl-rs-beta-release.html" rel="alternate" />
+    <id>https://renderling.xyz/articles/wgsl-rs-beta-release.html::v239</id>
+    <published>2026-10-01T13:31:00+00:00</published>
+    <updated>2026-10-01T13:31:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://renderling.xyz/articles/wgsl-rs-beta-release.html">renderling.xyz</a> | <a href="https://lobste.rs/s/enijty/rust_wgsl_transpiler_wgsl_rs_released">discussion</a></small></p><hr/><p>The `wgsl-rs` crate has released its 0.1.0-beta version on crates.io, addressing several semantic discrepancies between Rust and WGSL. Technical updates include resolving operator precedence mismatches, implementing a post-monomorphization pass to handle vector equality, and adding a literal-suffix anchoring pass to ensure accurate type inference. The release also introduces runtime `wgpu` linkage from the intermediate representation and improved binding visibility through transitive call-graph analysis.</p><p>The library enables developers to share type definitions between Rust and WGSL, allowing for CPU-side unit testing of shader code. `wgsl-rs` is currently utilized by the `gpui-ce` project. Future development goals for the project include porting the `crabslab` and `craballoc` crates from Rust-GPU and implementing an Entity Component System (ECS) designed to run on the GPU.</p><hr/><small>1 Oct 2026, 18:25 UTC | #23003</small>]]></content>
+  </entry>
+  <entry>
+    <title>Legato Launches AI-Powered Hearing Glasses</title>
+    <link href="https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/::v239</id>
+    <published>2026-10-01T13:28:00+00:00</published>
+    <updated>2026-10-01T13:28:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/">techcrunch.com</a> | <a href="https://www.legatohearing.com/">source</a></small></p><hr/><p>Legato has released Legato Frames, AI-powered eyewear designed for adults with up to moderate hearing loss. Starting at $999, the glasses use a dual-speaker system to distinguish and amplify voices while reducing background noise via an open-ear design that performs all processing on-device without cameras.</p><p>The 34-gram frames offer 10–12 hours of battery life, support prescription lenses, and include Bluetooth streaming. The startup is making the devices available through its website and select U.S. eye care providers, where they are eligible for vision insurance coverage.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680" /></p><hr/><small>1 Oct 2026, 18:13 UTC | #22964</small>]]></content>
+  </entry>
   <entry>
     <title>Netlify Replaces V8 Isolates with Firecracker MicroVMs for Edge Functions</title>
     <link href="https://www.netlify.com/blog/edge-functions-firecracker-microvms/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-01T10:07:00+00:00</updated>
+  <updated>2026-10-01T13:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>OpenDLSS-NR Reimplements NVIDIA DLSS 5 Neural Rendering in Vulkan</title>
+    <link href="https://github.com/maanHimself/OpenDLSS-NR" rel="alternate" />
+    <id>https://github.com/maanHimself/OpenDLSS-NR::v239</id>
+    <published>2026-10-01T13:30:00+00:00</published>
+    <updated>2026-10-01T13:30:00+00:00</updated>
+    <media:thumbnail url="https://github.com/maanHimself/OpenDLSS-NR/raw/main/docs/images/cowboy-gramps-nr-on.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/maanHimself/OpenDLSS-NR">github.com</a> | <a href="https://news.ycombinator.com/item?id=49906100">hacker news</a></small></p><hr/><p>OpenDLSS-NR is a Vulkan-based reimplementation of NVIDIA's DLSS 5 Neural Rendering network, designed to be bit-exact to the original. The implementation utilizes a 71-block Swin/ViT network running in FP8 on tensor cores, with intermediates matching the original byte for byte across all 75 block boundaries.</p><p>The project includes a WebGPU implementation for browsers and a demo utilizing the Filament renderer. Users must provide their own proprietary model weights to run the implementation on Windows machines equipped with NVIDIA Ada architecture GPUs or newer.</p><p><img src="https://github.com/maanHimself/OpenDLSS-NR/raw/main/docs/images/cowboy-gramps-nr-on.jpg" /></p><hr/><small>1 Oct 2026, 18:21 UTC | #23002</small>]]></content>
+  </entry>
   <entry>
     <title>Xbox CEO Asha Sharma Denies Sale Rumors Amid Restructuring</title>
     <link href="https://www.nytimes.com/2026/09/30/arts/xbox-microsoft-asha-sharma.html?unlocked_article_code=1.FFE.3j4o.dae9CYU4odK1&amp;smid=url-share" rel="alternate" />
