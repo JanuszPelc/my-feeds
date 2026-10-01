@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-01T16:21:00+00:00</updated>
+  <updated>2026-10-01T16:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>David Vélez and Nubank's Expansion into the United States</title>
+    <link href="https://colossus.com/article/david-velez-nubank/" rel="alternate" />
+    <id>https://colossus.com/article/david-velez-nubank/::v239</id>
+    <published>2026-10-01T16:27:00+00:00</published>
+    <updated>2026-10-01T16:27:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://colossus.com/article/david-velez-nubank/">colossus.com</a></small></p><hr/><p>Nubank, which serves over 140 million customers across Latin America, is targeting the United States for its first market expansion outside the region. The company has reached a valuation of over $60 billion and reported quarterly revenues of nearly $6 billion.</p><p>This move represents a strategic attempt by founder David Vélez to scale the company's disruptive, low-fee model onto the global stage. The expansion follows Nubank's success in challenging established banking oligopolies in Brazil, Mexico, and Colombia.</p><hr/><small>1 Oct 2026, 20:09 UTC | #22966</small>]]></content>
+  </entry>
   <entry>
     <title>Micron Sues YMTC Alleging Theft of NAND Technology and Engineer Poaching</title>
     <link href="https://www.tomshardware.com/pc-components/ssds/micron-lawsuit-claims-chinese-memory-maker-ymtc-poached-its-engineers-then-sued-it-using-its-own-stolen-tech-ex-employees-hid-roles-on-linkedin-patented-micron-tech-and-won-a-german-injunction" rel="alternate" />

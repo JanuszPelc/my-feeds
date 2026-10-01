@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T16:25:00+00:00</updated>
+  <updated>2026-10-01T16:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>turbopuffer Redesigns Storage Architecture for Version 3</title>
+    <link href="https://turbopuffer.com/blog/rip-vector-database" rel="alternate" />
+    <id>https://turbopuffer.com/blog/rip-vector-database::v239</id>
+    <published>2026-10-01T16:30:00+00:00</published>
+    <updated>2026-10-01T16:30:00+00:00</updated>
+    <media:thumbnail url="https://tooldirectory.ai/_next/image?url=https://striking-kindness-e0d93214bb.media.strapiapp.com/turbopuffer_c32b618f27.png&amp;w=1536&amp;q=80" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://turbopuffer.com/blog/rip-vector-database">turbopuffer.com</a> | <a href="https://news.ycombinator.com/item?id=49923466">hacker news</a></small></p><hr/><p>turbopuffer is transitioning from a vector-primary storage architecture to a new system where Approximate Nearest Neighbor (ANN) indices act as secondary indices. This architectural shift, part of the version 3 rollout, aims to resolve current limitations in storage and write amplification and to improve query vectorization for non-vector searches, such as aggregations and SQL-style operations.</p><p>The current design, which keys documents by their ANN address, constrains data block sizes to small cluster sizes, limiting CPU efficiency and SIMD utilization. While the new architecture has successfully passed continuous integration tests, development continues as the team works toward achieving performance parity with existing production systems.</p><p><img src="https://tooldirectory.ai/_next/image?url=https://striking-kindness-e0d93214bb.media.strapiapp.com/turbopuffer_c32b618f27.png&w=1536&q=80" /></p><hr/><small>1 Oct 2026, 20:15 UTC | #23016</small>]]></content>
+  </entry>
   <entry>
     <title>Reducing Cognitive Load in AI Code Reviews through Terminology Alignment</title>
     <link href="https://amoffat.github.io/blog/cognitive-load.html" rel="alternate" />
