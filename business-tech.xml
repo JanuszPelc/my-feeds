@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-01T06:09:00+00:00</updated>
+  <updated>2026-10-01T08:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Tencent to Lease 100,000 AI Chips from Oracle in $7 Billion Deal</title>
+    <link href="https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9" rel="alternate" />
+    <id>https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9::v239</id>
+    <published>2026-10-01T08:49:00+00:00</published>
+    <updated>2026-10-01T08:49:00+00:00</updated>
+    <media:thumbnail url="https://infinityturbine.com/images/data-center-chip-life-vs-lease-life-by-infinity-turbine.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9">ft.com</a></small></p><hr/><p>Tencent has signed a five-year, approximately $7 billion deal to lease 100,000 advanced AI chips from Oracle. The agreement provides access to high-end computing power through data centers in Southeast Asia, helping the company secure hardware that is currently unavailable in China.</p><p>The massive infrastructure lease is intended to bolster Tencent's artificial intelligence capabilities as it competes with rivals ByteDance and Alibaba. The deal highlights the strategic efforts by major Chinese technology firms to secure critical processing power amidst intensifying US export restrictions on advanced semiconductors.</p><p><img src="https://infinityturbine.com/images/data-center-chip-life-vs-lease-life-by-infinity-turbine.png" /></p><hr/><small>1 Oct 2026, 12:04 UTC | #22919</small>]]></content>
+  </entry>
   <entry>
     <title>Google Researchers Warn of AI Risks to Children in Schools</title>
     <link href="https://www.wsj.com/tech/ai/google-ai-gemini-education-schools-1ec0972a?st=iw7cXj&amp;reflink=desktopwebshare_permalink" rel="alternate" />
