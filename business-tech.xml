@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-01T08:56:00+00:00</updated>
+  <updated>2026-10-01T09:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google, Apple, and Amazon Outpace European Companies in Meetings with EU Officials</title>
+    <link href="https://www.ft.com/content/817f40f7-d4ac-43ee-beaf-12cfac08c621?accessToken=zwAAAaGOJ_IMkdOBf0D31KxD7tO-rxLPrAjGIQE.MEQCIHyyO0qR6b9ACpprarTcyyAwsspsOC940rQTXh3hfUXTAiBi4Fg1jdx-8OWRatJYjNuo5LCySJ6FOMiF6VOyQ_gw8g&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902" rel="alternate" />
+    <id>https://www.ft.com/content/817f40f7-d4ac-43ee-beaf-12cfac08c621?accessToken=zwAAAaGOJ_IMkdOBf0D31KxD7tO-rxLPrAjGIQE.MEQCIHyyO0qR6b9ACpprarTcyyAwsspsOC940rQTXh3hfUXTAiBi4Fg1jdx-8OWRatJYjNuo5LCySJ6FOMiF6VOyQ_gw8g&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902::v239</id>
+    <published>2026-10-01T09:01:00+00:00</published>
+    <updated>2026-10-01T09:01:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/817f40f7-d4ac-43ee-beaf-12cfac08c621?accessToken=zwAAAaGOJ_IMkdOBf0D31KxD7tO-rxLPrAjGIQE.MEQCIHyyO0qR6b9ACpprarTcyyAwsspsOC940rQTXh3hfUXTAiBi4Fg1jdx-8OWRatJYjNuo5LCySJ6FOMiF6VOyQ_gw8g&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902">ft.com</a></small></p><hr/><p>Data from European Union transparency registers indicates that Google, Apple, and Amazon each maintain more meetings with Commission and Parliament officials than any single European company. These US-based corporations utilize their access to advocate against proposed digital regulations.</p><p>The findings reveal significant lobbying disparities between American tech giants and local European competitors. This pattern reflects ongoing efforts by major platforms to influence the evolution of EU digital policy.</p><hr/><small>1 Oct 2026, 12:47 UTC | #22924</small>]]></content>
+  </entry>
   <entry>
     <title>YOLO Model Created to Detect Performative LinkedIn Posts</title>
     <link href="https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/" rel="alternate" />
