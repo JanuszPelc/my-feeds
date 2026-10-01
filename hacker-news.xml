@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T13:31:00+00:00</updated>
+  <updated>2026-10-01T16:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Reducing Cognitive Load in AI Code Reviews through Terminology Alignment</title>
+    <link href="https://amoffat.github.io/blog/cognitive-load.html" rel="alternate" />
+    <id>https://amoffat.github.io/blog/cognitive-load.html::v239</id>
+    <published>2026-10-01T16:25:00+00:00</published>
+    <updated>2026-10-01T16:25:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQFpBukao9sADw/feedshare-shrink_800/B4EZ0k6.yIJcAc-/0/1774440934978?e=2147483647&amp;v=beta&amp;t=PQoBxnFjk69OB-YIL6MZsc0YGJ6vo7Jxt7mupbbQDMQ" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://amoffat.github.io/blog/cognitive-load.html">amoffat.github.io</a> | <a href="https://lobste.rs/s/iwvjr0/reducing_cognitive_load_ai_changes">discussion</a></small></p><hr/><p>Developers can reduce the mental overhead of reviewing AI-generated code by synchronizing LLM terminology with their own established naming conventions. This technique involves using a specific prompt to identify unconventional terms and mapping them to preferred alternatives across the source code and documentation.</p><p>This process mitigates the accumulation of cognitive load caused by unfamiliar semantic mappings in large, complex updates. Aligning the AI's language with a developer's existing mental model makes the code more intuitive and significantly easier to review.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQFpBukao9sADw/feedshare-shrink_800/B4EZ0k6.yIJcAc-/0/1774440934978?e=2147483647&v=beta&t=PQoBxnFjk69OB-YIL6MZsc0YGJ6vo7Jxt7mupbbQDMQ" /></p><hr/><small>1 Oct 2026, 19:56 UTC | #23015</small>]]></content>
+  </entry>
   <entry>
     <title>wgsl-rs Reaches Beta Release</title>
     <link href="https://renderling.xyz/articles/wgsl-rs-beta-release.html" rel="alternate" />
