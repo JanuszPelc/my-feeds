@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-01T10:20:00+00:00</updated>
+  <updated>2026-10-01T10:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Modular Industrial Dashboards in European Museums</title>
+    <link href="https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/" rel="alternate" />
+    <id>https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/::v239</id>
+    <published>2026-10-01T10:22:00+00:00</published>
+    <updated>2026-10-01T10:22:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/">unsung.aresluna.org</a> | <a href="https://news.ycombinator.com/item?id=49912792">hacker news</a></small></p><hr/><p>Analog control systems used for air traffic and power plant monitoring are featured in several German and Polish museum exhibits. These modular dashboards have largely been superseded by digital software.</p><p>The collection highlights the tactile design of obsolete interfaces, such as mechanical counters, status lights, and manual switches. The displays demonstrate the physical nature of human-machine interaction before the advent of digital pixels.</p><hr/><small>1 Oct 2026, 14:34 UTC | #22973</small>]]></content>
+  </entry>
   <entry>
     <title>Complex Traveling Waves in the Brain Support Cognitive Tasks</title>
     <link href="https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/" rel="alternate" />
