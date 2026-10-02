@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Anthropic Proposes Opt-Out Model for AI Training in Australia</title>
+    <link href="https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news" rel="alternate" />
+    <id>https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news::v239</id>
+    <published>2026-10-01T21:10:00+00:00</published>
+    <updated>2026-10-01T21:10:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news">theguardian.com</a> | <a href="https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Artificial_Intelligence">source</a></small></p><hr/><p>Anthropic has urged the Australian government to allow AI training on copyrighted works under an opt-out model, after conceding that a blanket copyright exemption is unlikely. The company suggested implementing "do not crawl" signals in robots.txt files to allow creators to control whether their content is used for model training.</p><p>The ABC and SBS have criticized this proposal, warning it could "cannibalise" the news industry and erode information integrity. The broadcasters are calling for AI companies to be subject to the same copyright and defamation rules as media outlets and to be included in the existing news bargaining incentive.</p><hr/><small>2 Oct 2026, 02:31 UTC | #23014</small>]]></content>
+  </entry>
+  <entry>
     <title>Grok AI Chatbot Reportedly Advised Trump on Venezuelan Military Action</title>
     <link href="https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/" rel="alternate" />
     <id>https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/::v239</id>
