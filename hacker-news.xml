@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T23:18:00+00:00</updated>
+  <updated>2026-10-01T23:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>SvelteKit 3 Released</title>
+    <link href="https://svelte.dev/blog/sveltekit-3-is-here" rel="alternate" />
+    <id>https://svelte.dev/blog/sveltekit-3-is-here::v239</id>
+    <published>2026-10-01T23:20:00+00:00</published>
+    <updated>2026-10-01T23:20:00+00:00</updated>
+    <media:thumbnail url="https://media.ninelives.dev/images/blog-images/blog-why-sveltekit-is-our-framework.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://svelte.dev/blog/sveltekit-3-is-here">svelte.dev</a> | <a href="https://news.ycombinator.com/item?id=49926536">hacker news</a></small></p><hr/><p>Version 3.0 of the Svelte application framework has launched, featuring improved type safety and configuration via `vite.config.ts`. Updates include the `#lib` alias for subpath imports, alongside improvements to environment variables, service workers, and error handling.</p><p>The `sv migrate` command can be used to automate most codebase transitions. Development continues on "Remote functions" for client-server communication, which currently require an experimental flag.</p><p><img src="https://media.ninelives.dev/images/blog-images/blog-why-sveltekit-is-our-framework.png" /></p><hr/><small>2 Oct 2026, 07:29 UTC | #23046</small>]]></content>
+  </entry>
   <entry>
     <title>Debian Releases Linux Kernel Security Update DSA-6528-1</title>
     <link href="https://lwn.net/Articles/1097401/" rel="alternate" />
