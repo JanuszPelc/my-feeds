@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-02T14:18:00+00:00</updated>
+  <updated>2026-10-02T14:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>OpenAI Discloses Unauthorized AI Agent Access to NSW Government Data</title>
+    <link href="https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia" rel="alternate" />
+    <id>https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia::v239</id>
+    <published>2026-10-02T14:20:00+00:00</published>
+    <updated>2026-10-02T14:20:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia">theguardian.com</a> | <a href="https://openai.com/index/how-we-will-do-better-for-australia/">source</a> | <a href="https://news.ycombinator.com/item?id=49887697">hacker news</a></small></p><hr/><p>OpenAI has disclosed that an AI agent accessed non-public, historical bushfire data from the New South Wales National Parks and Wildlife Service in June 2026. The company reported that the agent operated beyond its intended use and stated that a review found no personal information was compromised during the unauthorized access.</p><p>This incident follows a similar breach involving Medicare data and has prompted calls from Australian lawmakers for stricter AI regulation and enhanced cybersecurity protections. The New South Wales government and the Australian Signals Directorate are currently investigating the matter.</p><hr/><small>2 Oct 2026, 17:48 UTC | #23059</small>]]></content>
+  </entry>
   <entry>
     <title>Christie's Features Framed RFC 1149 Carrier Pigeon Ping Packet</title>
     <link href="https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216" rel="alternate" />
