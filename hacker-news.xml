@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-02T09:29:00+00:00</updated>
+  <updated>2026-10-02T14:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Christie's Features Framed RFC 1149 Carrier Pigeon Ping Packet</title>
+    <link href="https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216" rel="alternate" />
+    <id>https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216::v239</id>
+    <published>2026-10-02T14:18:00+00:00</published>
+    <updated>2026-10-02T14:18:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/GTFXkXp_pig/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216">onlineonly.christies.com</a> | <a href="https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned">discussion</a></small></p><hr/><p>A framed scroll containing a printed IP/ICMP "ping" packet from the 2001 implementation of RFC 1149 is being featured by Christie's. The artifact was transmitted via carrier pigeon during an experiment conducted by the Bergen Linux User Group in Norway.</p><p>RFC 1149, authored by David Waitzman as an April Fools' Day joke in 1990, describes a protocol for transmitting IP datagrams via avian carriers. The 2001 experiment successfully transmitted nine packets over approximately three miles, yielding four successful replies and serving as a notable example of early Internet folklore.</p><p><img src="https://i.ytimg.com/vi/GTFXkXp_pig/maxresdefault.jpg" /></p><hr/><small>2 Oct 2026, 17:36 UTC | #23090</small>]]></content>
+  </entry>
+  <entry>
+    <title>Linux Support for Apple M4 Chips Enabled via WFI Workaround</title>
+    <link href="https://yuka.dev/blog-2026-10-02-linux-m4.html" rel="alternate" />
+    <id>https://yuka.dev/blog-2026-10-02-linux-m4.html::v239</id>
+    <published>2026-10-02T14:02:00+00:00</published>
+    <updated>2026-10-02T14:02:00+00:00</updated>
+    <media:thumbnail url="https://www.rei3.com/wp-content/uploads/2025/04/09/24eadcf7b9fafb2d65ff06da66fbc004.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yuka.dev/blog-2026-10-02-linux-m4.html">yuka.dev</a> | <a href="https://lobste.rs/s/s4wm69/forgetful_cpu_linux_on_m4">discussion</a></small></p><hr/><p>Technical challenges have emerged in booting Linux on Apple's M4 SoC due to a non-compliant implementation of the WFI (Wait For Interrupt) instruction. This hardware behavior causes the loss of CPU architectural state, preventing stable multi-core operation during low-power transitions.</p><p>A workaround involving the replacement of WFI instructions with NOPs or the use of specific kernel boot arguments has been merged into the mainline Linux kernel and the m1n1 bootloader. This enables full multi-core functionality on M4, M4 Pro, M4 Max, and M5 Apple Silicon chips, while reverse-engineering of remaining peripherals like the GPU remains ongoing.</p><p><img src="https://www.rei3.com/wp-content/uploads/2025/04/09/24eadcf7b9fafb2d65ff06da66fbc004.webp" /></p><hr/><small>2 Oct 2026, 17:34 UTC | #23094</small>]]></content>
+  </entry>
   <entry>
     <title>Shimano Bicycle Museum Showcases the Evolution of Bicycles</title>
     <link href="https://inrng.com/2026/10/shimano-bicycle-museum/" rel="alternate" />
@@ -770,14 +788,5 @@
     <updated>2026-09-27T20:15:00+00:00</updated>
     <media:thumbnail url="https://glassalmanac.com/wp-content/uploads/2025/10/91197-vision-pro-revamp-shelved-in-2025-apple-prioritizes-meta-style-smart-glasses.jpg.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/newsletters/2026-09-27/meta-s-vr-glasses-are-exactly-what-the-apple-vision-pro-should-have-been-mujvy8q6?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDUxODQwNywiZXhwIjoxNzkxMTIzMjA3LCJhcnRpY2xlSWQiOiJUTTEwODFLSVVQUzYwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.51604_0p7AaiKq26lUSYAGTpczPCTFIvnKI7SLUCyv8">bloomberg.com</a></small></p><hr/><p>Apple's Vision Pro development is reportedly facing uncertainty, with internal work on a revamped headset described as being on "life support." Sources suggest that Meta's direction with its VR glasses aligns more closely with the hardware trajectory that analysts believe the Vision Pro line should have pursued.</p><p>The company is currently evaluating its long-term spatial computing strategy, with reports indicating a shift in focus toward lighter, AI-integrated smart glasses. While an updated Vision Pro featuring a more powerful chip may still be released, the development of a lighter, more affordable version of the headset has reportedly been deprioritized.</p><p><img src="https://glassalmanac.com/wp-content/uploads/2025/10/91197-vision-pro-revamp-shelved-in-2025-apple-prioritizes-meta-style-smart-glasses.jpg.png" /></p><hr/><small>27 Sep 2026, 22:06 UTC | #22493</small>]]></content>
-  </entry>
-  <entry>
-    <title>postmarketOS Rebrands as Nura</title>
-    <link href="https://nura.eco/blog/2026/09/27/nura-rename/" rel="alternate" />
-    <id>https://nura.eco/blog/2026/09/27/nura-rename/::v239</id>
-    <published>2026-09-27T17:35:00+00:00</published>
-    <updated>2026-09-27T17:35:00+00:00</updated>
-    <media:thumbnail url="https://nura.eco/static/img/2026-09/stickers.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nura.eco/blog/2026/09/27/nura-rename/">nura.eco</a> | <a href="https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura">discussion</a> | <a href="https://news.ycombinator.com/item?id=49867553">hacker news</a></small></p><hr/><p>The operating system formerly known as postmarketOS has officially rebranded as Nura. The name change follows a 18-month community selection process intended to improve pronunciation, ease of recall, and the project's ability to secure trademarks.</p><p>The name "Nura" is an abbreviation of "Nuraghe," referring to ancient, stable stone structures in Sardinia. The rebrand includes the adoption of the nura.eco domain and minor graphical updates to the project's logo.</p><p><img src="https://nura.eco/static/img/2026-09/stickers.jpg" /></p><hr/><small>27 Sep 2026, 20:39 UTC | #22511</small>]]></content>
   </entry>
 </feed>

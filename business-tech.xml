@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-02T11:10:00+00:00</updated>
+  <updated>2026-10-02T11:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amazon Pledges $1 Billion to Support Data Center Communities</title>
+    <link href="https://www.geekwire.com/2026/amazon-pledges-1b-to-data-center-communities-warns-that-local-opposition-threatens-u-s-ai-lead/" rel="alternate" />
+    <id>https://www.geekwire.com/2026/amazon-pledges-1b-to-data-center-communities-warns-that-local-opposition-threatens-u-s-ai-lead/::v239</id>
+    <published>2026-10-02T11:46:00+00:00</published>
+    <updated>2026-10-02T11:46:00+00:00</updated>
+    <media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/10/Garman-Keynote-10-1260x840.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.geekwire.com/2026/amazon-pledges-1b-to-data-center-communities-warns-that-local-opposition-threatens-u-s-ai-lead/">geekwire.com</a> | <a href="https://www.aboutamazon.com/news/company-news/amazon-data-centers-built-together">source</a></small></p><hr/><p>Through its 'Built Together' initiative, AWS is committing $1 billion over five years to the U.S. regions hosting its data centers. The program will fund community college endowments, vocational training, and energy-efficiency upgrades for local homes and schools.</p><p>AWS CEO Matt Garman framed the move as a response to local opposition and misinformation, which he claims could threaten U.S. leadership in the AI race. The company's commitment also includes publishing annual energy and water usage metrics and ensuring that facility operations do not cause local electricity rate hikes.</p><p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/10/Garman-Keynote-10-1260x840.jpg" /></p><hr/><small>2 Oct 2026, 17:30 UTC | #23058</small>]]></content>
+  </entry>
   <entry>
     <title>California Man Charged with Smuggling Over $300 Million in Restricted Nvidia Chips to China</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china" rel="alternate" />
