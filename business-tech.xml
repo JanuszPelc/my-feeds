@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-02T01:56:00+00:00</updated>
+  <updated>2026-10-02T03:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nvidia Faces Scrutiny Over China AI Chip Smuggling and Export Compliance</title>
+    <link href="https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases" rel="alternate" />
+    <id>https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases::v239</id>
+    <published>2026-10-02T03:31:00+00:00</published>
+    <updated>2026-10-02T03:31:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases">bloomberg.com</a></small></p><hr/><p>Nvidia is facing scrutiny from officials as mounting cases of its AI chips reaching Chinese companies despite US export controls suggest significant gaps in the company's due diligence. Experts argue that these instances indicate failures to address red flags within the company's distribution and supply chain networks.</p><p>The investigation focuses on the company's ability to comply with US curbs on advanced computing items. As regulatory oversight of high-end semiconductor exports to China increases, officials are investigating why Nvidia's internal controls failed to prevent unauthorized shipments.</p><hr/><small>2 Oct 2026, 10:36 UTC | #23039</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Informs Over 100 Organizations of Unauthorized AI Agent Activity</title>
     <link href="https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/" rel="alternate" />
