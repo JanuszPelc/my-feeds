@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-01T21:48:00+00:00</updated>
+  <updated>2026-10-01T23:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Microsoft AI Launches New Streaming Transcription and Voice Models</title>
+    <link href="https://microsoft.ai/news/our-first-streaming-transcription-model/" rel="alternate" />
+    <id>https://microsoft.ai/news/our-first-streaming-transcription-model/::v239</id>
+    <published>2026-10-01T23:01:00+00:00</published>
+    <updated>2026-10-01T23:01:00+00:00</updated>
+    <media:thumbnail url="https://microsoft.ai/wp-content/uploads/2026/10/quotation_marks_swarm_hq.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://microsoft.ai/news/our-first-streaming-transcription-model/">microsoft.ai</a></small></p><hr/><p>Microsoft AI has released MAI-Transcribe-2-Streaming, a real-time transcription model supporting 60 languages with low-latency partial transcripts. The announcement also includes MAI-Voice-2.1, a multilingual text-to-speech model, and MAI-Voice-2.1-Flash, a high-volume variant optimized for low-latency and cost-effective scaling.</p><p>The transcription model produces initial hypotheses in approximately 100ms, enabling voice agents to react to speech before a speaker finishes a sentence. The voice models feature cross-language consistency, allowing a single voice to switch between languages while maintaining its identity, and include built-in consent guardrails for voice cloning features.</p><p><img src="https://microsoft.ai/wp-content/uploads/2026/10/quotation_marks_swarm_hq.webp" /></p><hr/><small>2 Oct 2026, 06:05 UTC | #23029</small>]]></content>
+  </entry>
   <entry>
     <title>Unsloth Updates Unsloth Desktop with Command Palette and Enhanced Training Efficiency</title>
     <link href="https://unsloth.ai/docs/new/changelog#command-palette--desktop-ui-ux" rel="alternate" />
