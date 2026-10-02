@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-02T17:05:00+00:00</updated>
+  <updated>2026-10-02T19:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Introduces Pass Designer for Apple Wallet</title>
+    <link href="https://developer.apple.com/pass-designer/" rel="alternate" />
+    <id>https://developer.apple.com/pass-designer/::v239</id>
+    <published>2026-10-02T19:07:00+00:00</published>
+    <updated>2026-10-02T19:07:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://developer.apple.com/pass-designer/">developer.apple.com</a> | <a href="https://news.ycombinator.com/item?id=49937276">hacker news</a></small></p><hr/><p>Pass Designer is a macOS application used to design and preview Apple Wallet passes. The tool provides real-time rendering for iPhone and Apple Watch, performs data validation to identify errors, and utilizes semantic tags to enable integration with Siri, Maps, and Calendar.</p><p>Users can utilize Apple-provided templates or custom branding assets to create personalized designs. The software is available in beta for macOS 27 or later and includes functionality to generate backward-compatible pass structures for older devices.</p><hr/><small>2 Oct 2026, 21:54 UTC | #23116</small>]]></content>
+  </entry>
   <entry>
     <title>Loewe Unveils Neo Portable Speaker with Ambient Lighting</title>
     <link href="https://musictech.com/news/gear/loewe-neo/" rel="alternate" />
