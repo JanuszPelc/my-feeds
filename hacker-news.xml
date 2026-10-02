@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-02T09:27:00+00:00</updated>
+  <updated>2026-10-02T09:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Shimano Bicycle Museum Showcases the Evolution of Bicycles</title>
+    <link href="https://inrng.com/2026/10/shimano-bicycle-museum/" rel="alternate" />
+    <id>https://inrng.com/2026/10/shimano-bicycle-museum/::v239</id>
+    <published>2026-10-02T09:29:00+00:00</published>
+    <updated>2026-10-02T09:29:00+00:00</updated>
+    <media:thumbnail url="https://inrng.com/medias/images/shimanobikemuseum1.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://inrng.com/2026/10/shimano-bicycle-museum/">inrng.com</a> | <a href="https://bikemuse.jp/en/">source</a> | <a href="https://news.ycombinator.com/item?id=49930047">hacker news</a></small></p><hr/><p>The Shimano Bicycle Museum in Sakai, Japan, showcases the mechanical evolution of the bicycle, from early hobby horses to modern racing equipment. The exhibits emphasize technical development and the societal context of cycling rather than the corporate history of Shimano.</p><p>The museum provides accessible exhibits for close inspection of components like the Dura-Ace groupset and includes hands-on displays comparing the weight of steel, aluminum, and titanium. A library and a research archive of primary source materials are also available on the top floor.</p><p><img src="https://inrng.com/medias/images/shimanobikemuseum1.jpg" /></p><hr/><small>2 Oct 2026, 15:31 UTC | #23078</small>]]></content>
+  </entry>
   <entry>
     <title>Valen Implements Memory Safety Across Rust Boundary</title>
     <link href="https://verdagon.dev/blog/boundary-memory-safety" rel="alternate" />
@@ -770,14 +779,5 @@
     <updated>2026-09-27T17:35:00+00:00</updated>
     <media:thumbnail url="https://nura.eco/static/img/2026-09/stickers.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nura.eco/blog/2026/09/27/nura-rename/">nura.eco</a> | <a href="https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura">discussion</a> | <a href="https://news.ycombinator.com/item?id=49867553">hacker news</a></small></p><hr/><p>The operating system formerly known as postmarketOS has officially rebranded as Nura. The name change follows a 18-month community selection process intended to improve pronunciation, ease of recall, and the project's ability to secure trademarks.</p><p>The name "Nura" is an abbreviation of "Nuraghe," referring to ancient, stable stone structures in Sardinia. The rebrand includes the adoption of the nura.eco domain and minor graphical updates to the project's logo.</p><p><img src="https://nura.eco/static/img/2026-09/stickers.jpg" /></p><hr/><small>27 Sep 2026, 20:39 UTC | #22511</small>]]></content>
-  </entry>
-  <entry>
-    <title>p5.js Introduces Compute Shader Support via WebGPU</title>
-    <link href="https://www.davepagurek.com/blog/p5-compute-shaders/" rel="alternate" />
-    <id>https://www.davepagurek.com/blog/p5-compute-shaders/::v239</id>
-    <published>2026-09-27T15:30:00+00:00</published>
-    <updated>2026-09-27T15:30:00+00:00</updated>
-    <media:thumbnail url="https://static.media.ccc.de/media/conferences/lgm/2026/110664-4ac0ffae-6f56-5334-a3db-d488fe925387_preview.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.davepagurek.com/blog/p5-compute-shaders/">davepagurek.com</a> | <a href="https://lobste.rs/s/zsdlcz/teaching_gpu_programming_p5_js_now_with">discussion</a></small></p><hr/><p>The library is implementing compute shader support via WebGPU to facilitate GPU programming education. This approach uses "scaffolded learning" to abstract the complexities of low-level graphics APIs, allowing students to experiment with parallel programming before mastering the full shader pipeline.</p><p>Through p5.strands, the update provides a simplified API for managing data flow and vertex manipulation. By leveraging WebGPU storage buffers and instance ID functionality, users can implement complex particle systems and animations using standard JavaScript-like syntax.</p><p><img src="https://static.media.ccc.de/media/conferences/lgm/2026/110664-4ac0ffae-6f56-5334-a3db-d488fe925387_preview.jpg" /></p><hr/><small>27 Sep 2026, 18:36 UTC | #22509</small>]]></content>
   </entry>
 </feed>
