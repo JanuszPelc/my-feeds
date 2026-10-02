@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-02T04:56:00+00:00</updated>
+  <updated>2026-10-02T08:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Hacker News October 2026 Hiring Thread</title>
+    <link href="https://news.ycombinator.com/item?id=49922569" rel="alternate" />
+    <id>https://news.ycombinator.com/item?id=49922569::v239</id>
+    <published>2026-10-02T08:12:00+00:00</published>
+    <updated>2026-10-02T08:12:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49922569">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49922569">hacker news</a></small></p><hr/><p>Companies list open positions in this monthly forum, which requires specifying location, remote work availability, and company operations. To maintain direct engagement, recruiting firms and job boards are prohibited from posting, and only active hiring managers may participate.</p><p>External tools and aggregators are provided to help users search the compiled job data. A companion thread is also linked for individuals seeking employment to present their qualifications.</p><hr/><small>2 Oct 2026, 14:12 UTC | #23068</small>]]></content>
+  </entry>
   <entry>
     <title>arXiv Implements New Submission Rate Limits</title>
     <link href="https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/" rel="alternate" />

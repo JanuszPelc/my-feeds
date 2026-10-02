@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-02T08:10:00+00:00</updated>
+  <updated>2026-10-02T09:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rust's Generic Const Arguments Feature Family Detailed</title>
+    <link href="https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/" rel="alternate" />
+    <id>https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/::v239</id>
+    <published>2026-10-02T09:21:00+00:00</published>
+    <updated>2026-10-02T09:21:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/6jcvdn/generic_const_args_you">discussion</a></small></p><hr/><p>The Rust Const Generics Project Group has introduced a family of features called "Generic Const Arguments" (GCA) intended to replace the existing `generic_const_exprs` feature. GCA enables the use of more complex expressions involving generic parameters within Const Generics, primarily through the use of a `gca!` macro to distinguish these expressions from standard const arguments.</p><p>The feature set includes capabilities such as `gca_adts` for constructing ADTs, arrays, and tuples, and `gca_const_items` for incorporating const items into the type system. While current implementation requires explicit macro calls to manage semantic and ergonomic complexities, the project group is exploring "macroless" alternatives to improve the developer experience. None of these features have reached the stage of stabilization or formal RFC proposal.</p><hr/><small>2 Oct 2026, 14:17 UTC | #23069</small>]]></content>
+  </entry>
   <entry>
     <title>Branch Target Reuse Attack Exploits Stale Branch Prediction in JIT Engines</title>
     <link href="https://www.vusec.net/projects/btr/" rel="alternate" />
