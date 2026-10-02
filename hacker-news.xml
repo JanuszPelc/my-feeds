@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-02T09:21:00+00:00</updated>
+  <updated>2026-10-02T09:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Erlang VM Stdin EOF Limitation Workaround</title>
+    <link href="https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend" rel="alternate" />
+    <id>https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend::v239</id>
+    <published>2026-10-02T09:23:00+00:00</published>
+    <updated>2026-10-02T09:23:00+00:00</updated>
+    <media:thumbnail url="https://opengraph.githubassets.com/6278a123b340e86c98e7c8620548b0946b86fbb27df481ac9421e06783325047/erlang/otp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend">discussion</a></small></p><hr/><p>A limitation in the Erlang VM prevents the closing of `stdin` for started child processes, making it impossible to signal an End-of-File (EOF) to programs like `exiftool` or `magick`. This failure to signal EOF causes child processes to wait for input until they hit a timeout, leading to application crashes.</p><p>A shell script wrapper can resolve this by reading a specific number of bytes from `stdin` before executing the target program, which ensures the pipe is closed correctly. This workaround addresses an Erlang OTP GitHub issue that remains unresolved despite being marked as completed.</p><p><img src="https://opengraph.githubassets.com/6278a123b340e86c98e7c8620548b0946b86fbb27df481ac9421e06783325047/erlang/otp" /></p><hr/><small>2 Oct 2026, 14:41 UTC | #23070</small>]]></content>
+  </entry>
   <entry>
     <title>Rust's Generic Const Arguments Feature Family Detailed</title>
     <link href="https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/" rel="alternate" />
@@ -770,23 +779,5 @@
     <updated>2026-09-27T14:47:00+00:00</updated>
     <media:thumbnail url="https://miro.medium.com/v2/resize:fit:840/1*c-kj4sOzwc-ipDgGWISDYQ.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://luarocks.org/security-incident-september-2026">luarocks.org</a> | <a href="https://lobste.rs/s/apoyxs/luarocks_security_incident_september">discussion</a></small></p><hr/><p>Attackers exploited a remote code execution vulnerability in LuaRocks.org between July 9 and August 20, 2026, by uploading malicious LuaJIT bytecode within rockspecs. The vulnerability allowed arbitrary code execution on the server and has since been patched, with the site moved to a new, secured environment.</p><p>The breach resulted in the exposure of user email addresses, bcrypt password hashes, API keys, and two-factor authentication secrets. While LuaRocks found no evidence that existing packages were modified, users are advised to reset passwords, regenerate API keys, and re-configure 2FA. Anyone who installed the packages `bcrcewon`, `7e0b94029db0`, or `7e0b9402f9c8` should consider their systems compromised.</p><p><img src="https://miro.medium.com/v2/resize:fit:840/1*c-kj4sOzwc-ipDgGWISDYQ.png" /></p><hr/><small>27 Sep 2026, 17:00 UTC | #22496</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ten Code Snippets That Influenced the Author's Perspective on Programming</title>
-    <link href="https://pixelambacht.nl/2026/ten-lines-of-code/" rel="alternate" />
-    <id>https://pixelambacht.nl/2026/ten-lines-of-code/::v239</id>
-    <published>2026-09-27T14:43:00+00:00</published>
-    <updated>2026-09-27T14:43:00+00:00</updated>
-    <media:thumbnail url="https://thumbs.dreamstime.com/b/retro-computer-setup-crt-monitor-displaying-green-code-surrounded-floppy-disks-vintage-keyboard-evoking-s-s-retro-425104289.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://pixelambacht.nl/2026/ten-lines-of-code/">pixelambacht.nl</a> | <a href="https://lobste.rs/s/fpk9gq/ten_lines_code_changed_my_world">discussion</a> | <a href="https://news.ycombinator.com/item?id=49866534">hacker news</a></small></p><hr/><p>Roel Nieskens shares ten specific lines of code that have held personal significance throughout his experience with programming. The selection includes snippets in BASIC, JavaScript, 6502 assembly, batch script, CSS, Pascal, and Linux commands. These lines range from fundamental "Hello World" greetings to complex examples like self-modifying machine code and creative CSS animations.</p><p>The essay explores the emotional and technical impact of different coding eras and paradigms, from the novelty of early home computing to the practicalities of modern web development. The list encompasses technical breakthroughs, humorous industry jokes, and the realization of the power inherent in low-level memory manipulation.</p><p><img src="https://thumbs.dreamstime.com/b/retro-computer-setup-crt-monitor-displaying-green-code-surrounded-floppy-disks-vintage-keyboard-evoking-s-s-retro-425104289.jpg" /></p><hr/><small>27 Sep 2026, 16:20 UTC | #22500</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ten Indicators of Slop UI</title>
-    <link href="https://hereticpleb.vercel.app/blog/10-tells-of-slop" rel="alternate" />
-    <id>https://hereticpleb.vercel.app/blog/10-tells-of-slop::v239</id>
-    <published>2026-09-27T14:42:00+00:00</published>
-    <updated>2026-09-27T14:42:00+00:00</updated>
-    <media:thumbnail url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dxh077ljcocai21hmavg.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://hereticpleb.vercel.app/blog/10-tells-of-slop">hereticpleb.vercel.app</a> | <a href="https://news.ycombinator.com/item?id=49867038">hacker news</a></small></p><hr/><p>This article outlines the specific characteristics used to identify "slop UI," a term for low-quality or generic user interfaces generated by AI. These include excessive gradients, "rainbow vomit" color palettes, redundant pulsing badges, overused "fingernail" cards, and pervasive emoji use.</p><p>These interfaces are described as "vibe-coded" design, relying on superficial patterns in training data rather than purposeful design. Consequences include misaligned elements, generic typography, redundant text inherited from chat contexts, and the use of hyperbolic marketing language like "seamless" or "unleash."</p><p><img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dxh077ljcocai21hmavg.png" /></p><hr/><small>27 Sep 2026, 16:07 UTC | #22499</small>]]></content>
   </entry>
 </feed>
