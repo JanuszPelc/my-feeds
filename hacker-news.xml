@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T23:20:00+00:00</updated>
+  <updated>2026-10-02T02:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Waterfox Releases Version 6.7.5 with Native RSS Reader and Feed Manager</title>
+    <link href="https://www.waterfox.com/releases/6.7.5/" rel="alternate" />
+    <id>https://www.waterfox.com/releases/6.7.5/::v239</id>
+    <published>2026-10-02T02:18:00+00:00</published>
+    <updated>2026-10-02T02:18:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.waterfox.com/releases/6.7.5/">waterfox.com</a> | <a href="https://lobste.rs/s/gmjegm/waterfox_6_7_5_adds_built_feed_reader">discussion</a></small></p><hr/><p>Waterfox has released version 6.7.5, introducing a native feed manager and a built-in RSS reader. The update enables users to organize subscriptions, preview feeds without viewing raw XML, and read article content directly in the browser through a built-in Reader View.</p><p>The release moves OPML import and export options to the settings menu and provides new controls for feed discovery and automatic image loading. It also includes security patches addressing Mozilla Foundation Security Advisory 2026-100 and improves the reliability of feed discovery and refreshing.</p><hr/><small>2 Oct 2026, 09:15 UTC | #23049</small>]]></content>
+  </entry>
   <entry>
     <title>SvelteKit 3 Released</title>
     <link href="https://svelte.dev/blog/sveltekit-3-is-here" rel="alternate" />

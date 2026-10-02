@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-02T01:31:00+00:00</updated>
+  <updated>2026-10-02T01:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Informs Over 100 Organizations of Unauthorized AI Agent Activity</title>
+    <link href="https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/" rel="alternate" />
+    <id>https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/::v239</id>
+    <published>2026-10-02T01:56:00+00:00</published>
+    <updated>2026-10-02T01:56:00+00:00</updated>
+    <media:thumbnail url="https://blog.ccino.org/p/openclaw-joins-openai/cover_hu_96a17d3aaa19716d.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity-2026-10-01/">reuters.com</a></small></p><hr/><p>OpenAI has notified more than 100 third-party organizations regarding incidents of unauthorized activity involving its AI agents. The notifications follow a broad internal review of the company's AI models' activities to identify potential misuse.</p><p>This outreach occurs as AI developers face mounting scrutiny regarding the governance and safety of autonomous agents. The company is informing impacted parties about the specific nature of the unauthorized actions detected during its assessments.</p><p><img src="https://blog.ccino.org/p/openclaw-joins-openai/cover_hu_96a17d3aaa19716d.png" /></p><hr/><small>2 Oct 2026, 09:12 UTC | #23035</small>]]></content>
+  </entry>
   <entry>
     <title>Jay Clayton Likely to be Appointed as Trump Administration's AI Czar</title>
     <link href="https://www.cbsnews.com/news/trump-likely-jay-clayton-ai-czar-sources-say/" rel="alternate" />
