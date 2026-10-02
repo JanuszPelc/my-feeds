@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-01T19:55:00+00:00</updated>
+  <updated>2026-10-01T20:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Strymon Introduces La Brea Analog Tape Saturation Pedal</title>
+    <link href="https://www.kvraudio.com/news/strymon-introduces-la-brea-analog-tape-saturation-pedal-68848?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68848" rel="alternate" />
+    <id>https://www.kvraudio.com/news/strymon-introduces-la-brea-analog-tape-saturation-pedal-68848?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68848::v239</id>
+    <published>2026-10-01T20:02:00+00:00</published>
+    <updated>2026-10-01T20:02:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/labrea_press_topdown_trans_site-1326x2048.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/strymon-introduces-la-brea-analog-tape-saturation-pedal-68848?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68848">kvraudio.com</a> | <a href="https://www.strymon.net/product/la-brea/">source</a></small></p><hr/><p>La Brea is an all-analog tape saturation pedal providing gain ranges from mild breakup to borderline fuzz. It features multi-stage saturation, natural tape-style compression, and a fully variable, phase-aligned dry signal path to maintain clarity.</p><p>Part of Strymon's Series A analog line, the pedal's development was inspired by research related to the company's Deco pedal. The unit operates at 24 volts for increased headroom and includes a three-position Shift switch for tonal shaping.</p><p><img src="https://static.kvraudio.com/i/b/labrea_press_topdown_trans_site-1326x2048.jpg" /></p><hr/><small>2 Oct 2026, 00:55 UTC | #23017</small>]]></content>
+  </entry>
   <entry>
     <title>Audio Modeling Releases Camelot v2.5.4 Update</title>
     <link href="https://www.kvraudio.com/news/audio-modeling-updates-camelot-to-v2-5-4-68847?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68847" rel="alternate" />
