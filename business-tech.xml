@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-02T19:12:00+00:00</updated>
+  <updated>2026-10-02T19:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>IBM Integrates Red Hat Brand and Workforce</title>
+    <link href="https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml" rel="alternate" />
+    <id>https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml::v239</id>
+    <published>2026-10-02T19:16:00+00:00</published>
+    <updated>2026-10-02T19:16:00+00:00</updated>
+    <media:thumbnail url="https://techrights.org/i/2026/10/last-redhat.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml">techrights.org</a> | <a href="https://news.ycombinator.com/item?id=49923056">hacker news</a></small></p><hr/><p>IBM is systematically dissolving the Red Hat brand and its distinct corporate culture through a process of direct integration. Employees are being reassigned to IBM roles, and the subsidiary's focus has reportedly shifted from substantive Linux development toward content designed to bolster share prices.</p><p>This restructuring follows similar workforce reductions at other IBM-owned companies like Nordcloud. The process is framed as part of a pattern of IBM acquiring software companies and subsequently phasing them out.</p><p><img src="https://techrights.org/i/2026/10/last-redhat.png" /></p><hr/><small>2 Oct 2026, 23:30 UTC | #23119</small>]]></content>
+  </entry>
   <entry>
     <title>White House Rebrands Artificial Intelligence as 'Super Intelligence'</title>
     <link href="https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/" rel="alternate" />
