@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-02T17:01:00+00:00</updated>
+  <updated>2026-10-02T17:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Loewe Unveils Neo Portable Speaker with Ambient Lighting</title>
+    <link href="https://musictech.com/news/gear/loewe-neo/" rel="alternate" />
+    <id>https://musictech.com/news/gear/loewe-neo/::v239</id>
+    <published>2026-10-02T17:05:00+00:00</published>
+    <updated>2026-10-02T17:05:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Loewe-Neo@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/loewe-neo/">musictech.com</a> | <a href="https://www.loewe.tv/">source</a></small></p><hr/><p>Loewe has introduced the neo, a high-end portable speaker featuring an IP67-rated water and dust-proof chassis. The device is driven by 50 watts of power and utilizes dual passive bass radiators, alongside integrated ambient lighting that can be adjusted via a light strip or a companion app. The app also enables users to customize sound presets and light settings.</p><p>The speaker is offered in aluminum silver, aluminum black, and champagne. It includes a premium felt hardcase and a detachable leather strap for enhanced portability. Pre-orders for the neo are scheduled to begin on November 20, 2026.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Loewe-Neo@2000x1500.jpg" /></p><hr/><small>2 Oct 2026, 21:05 UTC | #23091</small>]]></content>
+  </entry>
   <entry>
     <title>Outis Generates Fake Bounce Emails to Combat Spam</title>
     <link href="https://github.com/dtonon/outis" rel="alternate" />

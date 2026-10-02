@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-02T16:58:00+00:00</updated>
+  <updated>2026-10-02T17:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Microsoft Azure and Amazon Web Services Face Potential EU Gatekeeper Designation</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-02/microsoft-amazon-cloud-arms-set-to-face-deeper-scrutiny-under-eu-s-tech-rules" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-02/microsoft-amazon-cloud-arms-set-to-face-deeper-scrutiny-under-eu-s-tech-rules::v239</id>
+    <published>2026-10-02T17:04:00+00:00</published>
+    <updated>2026-10-02T17:04:00+00:00</updated>
+    <media:thumbnail url="https://media.xenospectrum.com/large_eu_dma_cloud_designation_brussels_c0da5f8724.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-02/microsoft-amazon-cloud-arms-set-to-face-deeper-scrutiny-under-eu-s-tech-rules">bloomberg.com</a> | <a href="https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should">source</a></small></p><hr/><p>The European Commission has reached a preliminary view that Microsoft Corp.’s Azure and Amazon Web Services (AWS) should be designated as "gatekeepers" under the Digital Markets Act (DMA). This decision follows investigations into whether the cloud computing providers meet the regulatory criteria for designation under the EU's technology rules.</p><p>The move marks the first instance of the DMA being applied to cloud infrastructure. If finalized, the companies will have six months to comply with DMA regulations or risk fines of up to 10% of their global annual turnover.</p><p><img src="https://media.xenospectrum.com/large_eu_dma_cloud_designation_brussels_c0da5f8724.webp" /></p><hr/><small>2 Oct 2026, 21:03 UTC | #23067</small>]]></content>
+  </entry>
   <entry>
     <title>Pope Leo XIV Distinguishes Human Art from AI-Generated Content</title>
     <link href="https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/" rel="alternate" />
