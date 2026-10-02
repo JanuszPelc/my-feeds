@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-01T19:45:00+00:00</updated>
+  <updated>2026-10-01T19:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI Launches Virtual Try-On and Favorites Features for ChatGPT Shopping</title>
+    <link href="https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/::v239</id>
+    <published>2026-10-01T19:59:00+00:00</published>
+    <updated>2026-10-01T19:59:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Favorites.jpg?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/">techcrunch.com</a></small></p><hr/><p>Users can now use ChatGPT to virtually try on clothing and accessories by uploading photos, a feature powered by the ChatGPT Images 2.5 model for enhanced textures and lighting. Additionally, a new "Favorites" function allows users to save discovered products to a dedicated Library for later use.</p><p>This expansion positions OpenAI in the fashion discovery market, targeting users who rely on Pinterest or Google for style inspiration. The move reflects a shift in OpenAI's retail strategy, prioritizing visual discovery over earlier, less successful attempts at instant in-app checkouts.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Favorites.jpg?w=680" /></p><hr/><small>2 Oct 2026, 00:37 UTC | #23013</small>]]></content>
+  </entry>
   <entry>
     <title>Graphite Research Identifies Distinctive Linguistic Tells in Frontier AI Models</title>
     <link href="https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/" rel="alternate" />
