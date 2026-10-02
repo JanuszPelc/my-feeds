@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-02T09:09:00+00:00</updated>
+  <updated>2026-10-02T11:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>DAWJunkie Releases VerbJunkie and Convolute Reverb Plugins</title>
+    <link href="https://www.kvraudio.com/news/dawjunkie-releases-verbjunkie-and-free-convolute-reverb-for-macos-and-windows-68862?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68862" rel="alternate" />
+    <id>https://www.kvraudio.com/news/dawjunkie-releases-verbjunkie-and-free-convolute-reverb-for-macos-and-windows-68862?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68862::v239</id>
+    <published>2026-10-02T11:09:00+00:00</published>
+    <updated>2026-10-02T11:09:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/2-new-reverbs.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dawjunkie-releases-verbjunkie-and-free-convolute-reverb-for-macos-and-windows-68862?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68862">kvraudio.com</a></small></p><hr/><p>VerbJunkie is a stereo reverb processor that combines convolution and algorithmic engines with rhythmic movement, while the free Convolute plugin offers a streamlined convolution reverb experience. Both are available for macOS and Windows in VST2, VST3, AU, and AAX formats.</p><p>VerbJunkie is priced at $39, with an introductory rate of $9.95, and includes dozens of presets for vocals and instruments. Convolute allows users to load custom impulse responses to create personalized reverb spaces.</p><p><img src="https://static.kvraudio.com/i/b/2-new-reverbs.jpg" /></p><hr/><small>2 Oct 2026, 16:26 UTC | #23060</small>]]></content>
+  </entry>
   <entry>
     <title>AudioBrain Releases MixBrain V3 with Prompt-Driven Mixing for macOS</title>
     <link href="https://www.kvraudio.com/news/audiobrain-releases-mixbrain-v3---prompt-driven-master-and-node-mixing-system-for-macos-68861?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68861" rel="alternate" />
@@ -742,23 +751,5 @@
     <updated>2026-09-28T04:46:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/green-on.webp" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/kaizen-dsp-releases-choroboros-for-macos-with-17-sound-cores-and-custom-engine-building-68757?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68757">kvraudio.com</a> | <a href="https://kaizendsp.com/choroboros">source</a></small></p><hr/><p>Kaizen DSP has released the commercial version of Choroboros, a chorus and modulation plugin for macOS. Version 1.0.5 features 17 sound cores and five prebuilt engines—Green, Blue, Red, Purple, and Black—offering textures from vintage character to experimental modulation. The release also includes a "Create" workspace, allowing users to build custom engines and visual interfaces.</p><p>The plugin supports VST3, AU, AAX, and standalone formats for both Apple Silicon and Intel-based Macs. Users can access the Green and Purple engines for free, or use a 30-day trial to access the full feature set and the $49.99 full license. While currently limited to macOS, the company plans to release versions for Windows and Linux.</p><p><img src="https://static.kvraudio.com/i/b/green-on.webp" /></p><hr/><small>28 Sep 2026, 09:04 UTC | #22538</small>]]></content>
-  </entry>
-  <entry>
-    <title>Libelula Audio Releases Ultiverb Free Algorithmic Reverb Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/09/27/libelula-audio-ultiverb/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/27/libelula-audio-ultiverb/::v239</id>
-    <published>2026-09-27T16:22:00+00:00</published>
-    <updated>2026-09-27T16:22:00+00:00</updated>
-    <media:thumbnail url="https://static.wixstatic.com/media/963184_6dd67f66bc79481fb2cd9cffabda1169~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/963184_6dd67f66bc79481fb2cd9cffabda1169~mv2.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/27/libelula-audio-ultiverb/">bedroomproducersblog.com</a> | <a href="https://libelula-audio.com/en/plugins/ultiverb/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/27/libelula-audio-ultiverb/#respond">discussion</a></small></p><hr/><p>Libelula Audio has released Ultiverb, a free algorithmic reverb plugin for Windows. The VST3 plugin features flexible spatial processing, stereo movement, and an analog-inspired character.</p><p>Ultiverb includes five reverb types and supports multi-band decay and ducking functionality. The plugin is intended for music production, mixing, and mastering workflows.</p><p><img src="https://static.wixstatic.com/media/963184_6dd67f66bc79481fb2cd9cffabda1169~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/963184_6dd67f66bc79481fb2cd9cffabda1169~mv2.jpg" /></p><hr/><small>27 Sep 2026, 19:17 UTC | #22490</small>]]></content>
-  </entry>
-  <entry>
-    <title>NoiseAsh Heater V2 Available Free via Audio Plugin Deals</title>
-    <link href="https://bedroomproducersblog.com/2026/09/27/noiseash-heater-free/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/27/noiseash-heater-free/::v239</id>
-    <published>2026-09-27T16:21:00+00:00</published>
-    <updated>2026-09-27T16:21:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/bF3PZTQzEFk/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/27/noiseash-heater-free/">bedroomproducersblog.com</a> | <a href="https://audioplugin.deals/product/heater-v2-by-noiseash/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/27/noiseash-heater-free/#comments">discussion</a></small></p><hr/><p>Audio Plugin Deals is offering a limited-time free download of NoiseAsh's Heater V2, an analog-style saturation and tone-shaping plugin. Valued at $129, the software provides vintage tube saturation, two EQ models (EQ1A and Solid), and a stereo widener.</p><p>The plugin is compatible with macOS and Windows in VST3, AU, and AAX formats and includes native Apple Silicon support. This promotion allows users to obtain the full-priced software at no cost through the Audio Plugin Deals platform.</p><p><img src="https://i.ytimg.com/vi/bF3PZTQzEFk/maxresdefault.jpg" /></p><hr/><small>27 Sep 2026, 19:06 UTC | #22491</small>]]></content>
   </entry>
 </feed>
