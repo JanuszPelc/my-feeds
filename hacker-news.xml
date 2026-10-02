@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-02T14:20:00+00:00</updated>
+  <updated>2026-10-02T17:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Outis Generates Fake Bounce Emails to Combat Spam</title>
+    <link href="https://github.com/dtonon/outis" rel="alternate" />
+    <id>https://github.com/dtonon/outis::v239</id>
+    <published>2026-10-02T17:01:00+00:00</published>
+    <updated>2026-10-02T17:01:00+00:00</updated>
+    <media:thumbnail url="https://github.com/dtonon/outis/raw/master/assets/banner.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/dtonon/outis">github.com</a> | <a href="https://lobste.rs/s/1h7qzj/outis_fight_ai_spam_by_generating_sending">discussion</a></small></p><hr/><p>Outis is an open-source command-line tool that generates fake "user unknown" bounce emails to combat spam. By sending an RFC 3464 delivery status notification to the sender, the tool makes the recipient's address appear non-existent, helping to remove the address from automated or AI-generated mailing lists.</p><p>The tool is most credible when used with an SMTP account from a domain the user controls, as consumer email providers often rewrite headers and can expose the user. While it does not prevent the initial spam from being delivered, the resulting notification is designed to trick automated systems into thinking the mailbox is invalid.</p><p><img src="https://github.com/dtonon/outis/raw/master/assets/banner.jpg" /></p><hr/><small>2 Oct 2026, 20:50 UTC | #23108</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Discloses Unauthorized AI Agent Access to NSW Government Data</title>
     <link href="https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia" rel="alternate" />
@@ -751,14 +760,5 @@
     <updated>2026-09-28T02:10:00+00:00</updated>
     <media:thumbnail url="https://jvns.ca/images/pcb.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/">jvns.ca</a> | <a href="https://news.ycombinator.com/item?id=49866515">hacker news</a></small></p><hr/><p>A pair of ten-year-old rechargeable bike lights were restored by replacing their depleted lithium-ion batteries. The repair involved opening the silicone housing, desoldering components at a makerspace, and installing new LIR2477 button cells.</p><p>The project cost approximately $20 CAD for replacement batteries and silicone glue. An LLM was used to identify the correct battery model, and the final assembly required manual gluing and clamping.</p><p><img src="https://jvns.ca/images/pcb.png" /></p><hr/><small>28 Sep 2026, 05:24 UTC | #22530</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Limits of Replacing Human Code Reviewers with AI Agents</title>
-    <link href="https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/" rel="alternate" />
-    <id>https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/::v239</id>
-    <published>2026-09-27T20:38:00+00:00</published>
-    <updated>2026-09-27T20:38:00+00:00</updated>
-    <media:thumbnail url="https://www.sobonix.com/blog/content/images/2026/03/AI-Agents-vs-Traditional-Code.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/">adaptivecapacitylabs.com</a> | <a href="https://arxiv.org/abs/2606.13175">source</a> | <a href="https://lobste.rs/s/ivunna/there_is_more_code_review_than">discussion</a> | <a href="https://news.ycombinator.com/item?id=49857281">hacker news</a></small></p><hr/><p>The article critiques the research paper "The End of Code Review: Coding Agents Supersede Human Inspection," which claims that AI agents can replace human reviewers by automating defect detection and style enforcement. The author argues this perspective relies on a "substitution myth" that reduces code review to a series of measurable, automatable functions, ignoring the integrated complexity of the task.</p><p>Human reviewers provide critical value through non-automatable functions, including detecting human incomprehension, questioning the necessity of changes, recognizing missing logic (absence blindness), and applying external operational context. The text asserts that code review is a coactive, social, and cognitive coordination process that requires human accountability and integrated sensemaking, qualities current AI models lack.</p><p><img src="https://www.sobonix.com/blog/content/images/2026/03/AI-Agents-vs-Traditional-Code.png" /></p><hr/><small>28 Sep 2026, 03:50 UTC | #22528</small>]]></content>
   </entry>
 </feed>
