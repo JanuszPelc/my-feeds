@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-02T00:31:00+00:00</updated>
+  <updated>2026-10-02T09:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Singapore's FirstDate Pilot Uses Gale-Shapley Algorithm to Match Public Officers</title>
+    <link href="https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works" rel="alternate" />
+    <id>https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works::v239</id>
+    <published>2026-10-02T09:33:00+00:00</published>
+    <updated>2026-10-02T09:33:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!g2hS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6da96f2-5327-4b47-9832-9e9bf0ee3093_2400x1860.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works">singapore-samizdat.com</a> | <a href="https://firstdate.sandbox.gov.sg/">source</a> | <a href="https://news.ycombinator.com/item?id=49929113">hacker news</a></small></p><hr/><p>GovTech has launched a pilot dating service for Singaporean public officers aged 21 to 35. The platform uses Singpass for identity verification and employs the Gale-Shapley Stable Marriage Algorithm to facilitate matchmaking in programmatic cycles. Users are required to complete an extensive questionnaire covering lifestyle, values, and communication styles to determine their ranked preferences.</p><p>Critics argue that applying the Gale-Shapley algorithm to romance may fail to address the core complexities of modern dating. The model prioritizes mathematical stability—ensuring participants do not prefer other assigned partners—over emotional or holistic compatibility. Furthermore, the reliance on self-reported data and the existence of non-participating "outside options" may undermine the algorithm's effectiveness in a real-world social context.</p><p><img src="https://substackcdn.com/image/fetch/$s_!g2hS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6da96f2-5327-4b47-9832-9e9bf0ee3093_2400x1860.png" /></p><hr/><small>2 Oct 2026, 16:08 UTC | #23085</small>]]></content>
+  </entry>
   <entry>
     <title>Pew Research Center Survey Finds Growing Global Concern That Social Media Harms Democracy</title>
     <link href="https://www.pewresearch.org/global/2026/10/01/across-the-globe-people-increasingly-say-social-media-is-harming-democracy/" rel="alternate" />
