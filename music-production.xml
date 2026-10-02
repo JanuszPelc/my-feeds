@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-01T19:36:00+00:00</updated>
+  <updated>2026-10-01T19:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Audio Modeling Releases Camelot v2.5.4 Update</title>
+    <link href="https://www.kvraudio.com/news/audio-modeling-updates-camelot-to-v2-5-4-68847?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68847" rel="alternate" />
+    <id>https://www.kvraudio.com/news/audio-modeling-updates-camelot-to-v2-5-4-68847?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68847::v239</id>
+    <published>2026-10-01T19:55:00+00:00</published>
+    <updated>2026-10-01T19:55:00+00:00</updated>
+    <media:thumbnail url="https://www.inpin.fun/wp-content/uploads/2025/10/1759356209-Audio_Modeling_Camelot.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/audio-modeling-updates-camelot-to-v2-5-4-68847?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68847">kvraudio.com</a> | <a href="https://marketing.audiomodeling.com/r/2586c802c4abd8b2783206bb3">source</a></small></p><hr/><p>Audio Modeling has released version 2.5.4 of its Camelot software, introducing improvements to MIDI Clock synchronization and live workflow. The update optimizes MIDI message delivery to external devices during scene recall and adds automatic song reloading when audio hardware is changed or reconnected.</p><p>The release also addresses MIDI CC accuracy, sustain pedal behavior, and audio glitches occurring with multiple MIDI devices. Additionally, the update includes fixes for timeline playback, metronome behavior, and stability improvements for Windows and iOS.</p><p><img src="https://www.inpin.fun/wp-content/uploads/2025/10/1759356209-Audio_Modeling_Camelot.webp" /></p><hr/><small>2 Oct 2026, 00:10 UTC | #23012</small>]]></content>
+  </entry>
   <entry>
     <title>Hivetune Releases ENS-86 Free BBD Chorus Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/" rel="alternate" />
