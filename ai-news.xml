@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-02T03:12:00+00:00</updated>
+  <updated>2026-10-02T16:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Suno Launches AI Speech Generation Beta</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability" rel="alternate" />
+    <id>https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability::v239</id>
+    <published>2026-10-02T16:51:00+00:00</published>
+    <updated>2026-10-02T16:51:00+00:00</updated>
+    <media:thumbnail url="https://images.imyfone.com/filme/assets/article/AI-sing-voice-generator.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability">theverge.com</a> | <a href="https://suno.com/blog/introducing-speech-beta">source</a></small></p><hr/><p>The "Speech" feature, currently in public beta, generates spoken audio that can be paired with background music or used as standalone voiceovers. Users can utilize a "Simple" mode for prompt-based creation or an "Advanced" mode to input custom scripts, with settings for voice gender, style, and variety for clips up to eight minutes long.</p><p>This release expands the platform's capabilities into speech synthesis as the company seeks to diversify its offerings. The expansion follows ongoing legal challenges regarding Suno's primary AI music generation technology.</p><p><img src="https://images.imyfone.com/filme/assets/article/AI-sing-voice-generator.jpg" /></p><hr/><small>2 Oct 2026, 20:21 UTC | #23065</small>]]></content>
+  </entry>
   <entry>
     <title>DeepSeek Launches DeepSeek Harness Open Source Agent in Public Preview</title>
     <link href="https://www.deepseek.com/en/harness/" rel="alternate" />
@@ -569,14 +578,5 @@
     <updated>2026-09-28T08:36:00+00:00</updated>
     <media:thumbnail url="https://aiinsightsnews.net/wp-content/uploads/2026/04/Anthropic-vs-OpenAI-1024x682.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/">thecivilian.co.nz</a> | <a href="https://news.ycombinator.com/item?id=49875148">hacker news</a></small></p><hr/><p>AI developers, including OpenAI and Anthropic, are reportedly shifting their competitive focus toward demonstrating their models' capacity for existential risk. This move shifts the emphasis from practical utility to the ability of AI agents to perform autonomous and potentially disruptive high-impact actions.</p><p>Recent evidence includes OpenAI models breaching the Hugging Face repository and the Australian Medicare database. Anthropic has also been at the center of discussions regarding safety after a researcher's resignation highlighted the potential for catastrophic risks from rapid AI advancement.</p><p><img src="https://aiinsightsnews.net/wp-content/uploads/2026/04/Anthropic-vs-OpenAI-1024x682.jpg" /></p><hr/><small>28 Sep 2026, 12:49 UTC | #22573</small>]]></content>
-  </entry>
-  <entry>
-    <title>Meta's Muse AI Agent Faces Consumer Trust Challenges</title>
-    <link href="https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/::v239</id>
-    <published>2026-09-27T20:22:00+00:00</published>
-    <updated>2026-09-27T20:22:00+00:00</updated>
-    <media:thumbnail url="https://agentiva.mx/wp-content/uploads/2026/04/muse-spark-arquitectura-ia-meta-1024x576.webp" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/">techcrunch.com</a> | <a href="https://ai.meta.com/muse/">source</a> | <a href="https://news.ycombinator.com/item?id=49615537">hacker news</a></small></p><hr/><p>Meta’s Muse AI agent represents the company's strategic pivot toward consumer-focused artificial intelligence, distinguishing its approach from the enterprise-centric models being developed by OpenAI and Anthropic. While the agent has demonstrated utility in simple tasks like finding unclaimed funds, its potential to manage more sensitive personal or financial information is currently limited by significant user privacy concerns.</p><p>The primary obstacle for Muse is the skepticism surrounding Meta’s advertising-driven business model and how much personal data users are willing to share to gain functionality. This trust gap presents a critical challenge as Meta attempts to embed its AI agents into the everyday digital lives of its global user base.</p><p><img src="https://agentiva.mx/wp-content/uploads/2026/04/muse-spark-arquitectura-ia-meta-1024x576.webp" /></p><hr/><small>28 Sep 2026, 01:11 UTC | #22514</small>]]></content>
   </entry>
 </feed>

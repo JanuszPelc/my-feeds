@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-02T09:33:00+00:00</updated>
+  <updated>2026-10-02T16:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Opus 5.5 Discovers New 1615 Dodo Eyewitness Record</title>
+    <link href="https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness" rel="alternate" />
+    <id>https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness::v239</id>
+    <published>2026-10-02T16:55:00+00:00</published>
+    <updated>2026-10-02T16:55:00+00:00</updated>
+    <media:thumbnail url="https://c8.alamy.com/comp/F7P56H/colour-woodblock-print-depicting-a-dutch-ship-of-the-dutch-east-india-F7P56H.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness">resobscura.substack.com</a> | <a href="https://news.ycombinator.com/item?id=49926917">hacker news</a></small></p><hr/><p>Using Claude Opus 5.5, researcher Benjamin Breen identified a previously unnoticed 1615 Dutch East India Company (VOC) ship's log that provides an eyewitness account of dodos on Mauritius. The research utilized an embedding model for semantic search within the GLOBALISE archive to process millions of historical records across multiple languages.</p><p>Frontier AI models can function as "digital sheep counters," scanning massive datasets to locate specific evidence within large archival corpora. While these models excel at finding relevant passages in multilingual sources, they currently lack the capability to independently formulate research questions or evaluate the historical significance of their findings.</p><p><img src="https://c8.alamy.com/comp/F7P56H/colour-woodblock-print-depicting-a-dutch-ship-of-the-dutch-east-india-F7P56H.jpg" /></p><hr/><small>2 Oct 2026, 20:34 UTC | #23106</small>]]></content>
+  </entry>
   <entry>
     <title>Singapore's FirstDate Pilot Uses Gale-Shapley Algorithm to Match Public Officers</title>
     <link href="https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works" rel="alternate" />
