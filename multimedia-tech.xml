@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-01T13:30:00+00:00</updated>
+  <updated>2026-10-01T19:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Sony Introduces QSSR AI Upscaling for Standard PS5</title>
+    <link href="https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr" rel="alternate" />
+    <id>https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr::v239</id>
+    <published>2026-10-01T19:56:00+00:00</published>
+    <updated>2026-10-01T19:56:00+00:00</updated>
+    <media:thumbnail url="https://cdn.videocardz.com/1/2026/10/Marvels-Wolverine-Quick-Spectral-Super-Resolution-QSSR-850x478.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr">theverge.com</a> | <a href="https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/">source</a></small></p><hr/><p>Sony is launching Quick Spectral Super Resolution (QSSR), a new AI upscaling technology for the standard PlayStation 5. Developed through Project Amethyst in collaboration with AMD, QSSR is designed for hardware lacking the dedicated machine learning silicon found in the PS5 Pro.</p><p>The technology is intended as a drop-in replacement for titles already supporting PlayStation Spectral Super Resolution (PSSR), requiring minimal developer tuning. Marvel's Wolverine and Ghost of Yōtei are the first games to feature the technology via software updates.</p><p><img src="https://cdn.videocardz.com/1/2026/10/Marvels-Wolverine-Quick-Spectral-Super-Resolution-QSSR-850x478.webp" /></p><hr/><small>2 Oct 2026, 00:22 UTC | #22996</small>]]></content>
+  </entry>
   <entry>
     <title>OpenDLSS-NR Reimplements NVIDIA DLSS 5 Neural Rendering in Vulkan</title>
     <link href="https://github.com/maanHimself/OpenDLSS-NR" rel="alternate" />
