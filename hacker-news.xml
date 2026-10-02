@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T20:06:00+00:00</updated>
+  <updated>2026-10-01T21:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Cloudflare Launches K2 Serverless Event Streams in Public Beta</title>
+    <link href="https://blog.cloudflare.com/cloudflare-k2-streams/" rel="alternate" />
+    <id>https://blog.cloudflare.com/cloudflare-k2-streams/::v239</id>
+    <published>2026-10-01T21:58:00+00:00</published>
+    <updated>2026-10-01T21:58:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.cloudflare.com/cloudflare-k2-streams/">blog.cloudflare.com</a> | <a href="https://news.ycombinator.com/item?id=49921923">hacker news</a></small></p><hr/><p>Cloudflare has launched K2, a serverless event streaming service, in public beta. Built on top of R2 object storage, K2 provides a durable, partitioned log that decouples data producers from consumers, allowing independent readers to consume events at their own pace with long-term retention.</p><p>The service is designed for high-scale data movement and fan-out consumption, distinguishing it from Cloudflare's existing Queues and Basin Pipelines services. Currently available to Workers Paid subscribers, the roadmap for K2 includes future features such as Apache Kafka client support, key-based ordering, and increased write parallelism.</p><hr/><small>2 Oct 2026, 05:25 UTC | #23042</small>]]></content>
+  </entry>
   <entry>
     <title>Pidgin Releases 3.0 Alpha 3</title>
     <link href="https://discourse.imfreedom.org/t/pidgin-3-0-alpha-3-2-97-0-has-been-released/436" rel="alternate" />
