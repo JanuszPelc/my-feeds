@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-02T14:25:00+00:00</updated>
+  <updated>2026-10-02T14:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>RiverFlux Audio Releases Relic Plugin Collection</title>
+    <link href="https://bedroomproducersblog.com/2026/10/02/riverflux-audio-relic/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/02/riverflux-audio-relic/::v239</id>
+    <published>2026-10-02T14:27:00+00:00</published>
+    <updated>2026-10-02T14:27:00+00:00</updated>
+    <media:thumbnail url="https://media.uaudio.com/assetlibrary/a/n/analog_classics_2024_hero_@2x_1.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/02/riverflux-audio-relic/">bedroomproducersblog.com</a> | <a href="https://riverfluxaudio.com/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/02/riverflux-audio-relic/#comments">discussion</a></small></p><hr/><p>RiverFlux Audio has released Relic, a collection of 12 analog-style plugins including compressors, equalizers, and tape effects. The software is compatible with macOS, Windows, and Linux in VST3, AU, and CLAP formats.</p><p>The release commemorates the developer reaching 6,000 downloads. The plugins are available on Gumroad via a pay-what-you-want model to help fund the developers' ongoing work on a DAW project.</p><p><img src="https://media.uaudio.com/assetlibrary/a/n/analog_classics_2024_hero_@2x_1.jpg" /></p><hr/><small>2 Oct 2026, 19:36 UTC | #23082</small>]]></content>
+  </entry>
   <entry>
     <title>Plugin Boutique Offers Moog MF-109S Saturator as Gift with Purchase</title>
     <link href="https://bedroomproducersblog.com/2026/10/02/moog-mf-109s-saturator-free/" rel="alternate" />
