@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-02T19:08:00+00:00</updated>
+  <updated>2026-10-02T19:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>White House Rebrands Artificial Intelligence as 'Super Intelligence'</title>
+    <link href="https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/" rel="alternate" />
+    <id>https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/::v239</id>
+    <published>2026-10-02T19:12:00+00:00</published>
+    <updated>2026-10-02T19:12:00+00:00</updated>
+    <media:thumbnail url="https://i.pcmag.com/imagery/articles/026bCea00rXknyxh2lM2oUl-1.fit_lim.v1765549867.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/">techcrunch.com</a> | <a href="https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/">source</a> | <a href="https://news.ycombinator.com/item?id=49901658">hacker news</a></small></p><hr/><p>The White House has rebranded artificial intelligence as "super intelligence" (SI) through an executive order and secured an AI safety pledge from leaders of major tech firms, including Meta, Amazon, and Anthropic. The order mandates that federal agencies use the new terminology and explores whether the term should supersede existing legal definitions of AI.</p><p>This rebranding coincides with the development of more personified AI avatars by companies such as Meta and OpenAI. These regulatory shifts are occurring alongside changes in consumer AI economics and the current state of the startup IPO market.</p><p><img src="https://i.pcmag.com/imagery/articles/026bCea00rXknyxh2lM2oUl-1.fit_lim.v1765549867.jpg" /></p><hr/><small>2 Oct 2026, 22:59 UTC | #23097</small>]]></content>
+  </entry>
+  <entry>
+    <title>Hans Anders Halts Sales of Ray-Ban Meta Glasses in Netherlands and Belgium</title>
+    <link href="https://www.reuters.com/sustainability/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns-2026-10-02/" rel="alternate" />
+    <id>https://www.reuters.com/sustainability/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns-2026-10-02/::v239</id>
+    <published>2026-10-02T19:11:00+00:00</published>
+    <updated>2026-10-02T19:11:00+00:00</updated>
+    <media:thumbnail url="https://www.gamerevolution.com/wp-content/uploads/sites/2/2026/03/Meta-Smart-Glasses.jpg?w=1024" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/sustainability/dutch-eyewear-chain-hans-anders-halts-sale-meta-glasses-citing-privacy-concerns-2026-10-02/">reuters.com</a></small></p><hr/><p>A major Dutch eyewear retailer, Hans Anders, has suspended sales of Meta's Ray-Ban smart glasses in the Netherlands and Belgium. The company cited mounting privacy concerns regarding the device's integrated technology as the reason for the decision.</p><p>The suspension is expected to remain in effect for an indefinite period. The move reflects escalating scrutiny over the data privacy implications of camera-equipped AI wearables.</p><p><img src="https://www.gamerevolution.com/wp-content/uploads/sites/2/2026/03/Meta-Smart-Glasses.jpg?w=1024" /></p><hr/><small>2 Oct 2026, 22:56 UTC | #23089</small>]]></content>
+  </entry>
   <entry>
     <title>Slovenian .si Domain Registrations Surge Following Trump's 'Super Intelligence' Proposal</title>
     <link href="https://www.bbc.com/news/articles/cqx2z23xj555o" rel="alternate" />
