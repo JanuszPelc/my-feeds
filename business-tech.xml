@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-01T23:46:00+00:00</updated>
+  <updated>2026-10-02T01:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Jay Clayton Likely to be Appointed as Trump Administration's AI Czar</title>
+    <link href="https://www.cbsnews.com/news/trump-likely-jay-clayton-ai-czar-sources-say/" rel="alternate" />
+    <id>https://www.cbsnews.com/news/trump-likely-jay-clayton-ai-czar-sources-say/::v239</id>
+    <published>2026-10-02T01:31:00+00:00</published>
+    <updated>2026-10-02T01:31:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25pe2N.img?w=768&amp;h=512&amp;m=6&amp;x=478&amp;y=172&amp;s=121&amp;d=121" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cbsnews.com/news/trump-likely-jay-clayton-ai-czar-sources-say/">cbsnews.com</a></small></p><hr/><p>The White House is expected to name Jay Clayton as its AI czar, with discussions reportedly exploring whether he would also retain his role as director of national intelligence. A final decision is anticipated from the President shortly.</p><p>This move follows the President's recent announcement of an "AI Force" intended to oversee artificial intelligence development and risk management. White House officials have stated that formal personnel announcements will come directly from the President, characterizing current reports as speculation.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25pe2N.img?w=768&h=512&m=6&x=478&y=172&s=121&d=121" /></p><hr/><small>2 Oct 2026, 08:36 UTC | #23034</small>]]></content>
+  </entry>
   <entry>
     <title>California Attorney General Issues Investigative Subpoena to OpenAI</title>
     <link href="https://www.reuters.com/legal/litigation/california-attorney-general-issues-investigative-subpoena-openai-2026-10-01/" rel="alternate" />
