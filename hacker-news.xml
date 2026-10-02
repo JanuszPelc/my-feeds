@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-01T21:58:00+00:00</updated>
+  <updated>2026-10-01T23:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Debian Releases Linux Kernel Security Update DSA-6528-1</title>
+    <link href="https://lwn.net/Articles/1097401/" rel="alternate" />
+    <id>https://lwn.net/Articles/1097401/::v239</id>
+    <published>2026-10-01T23:18:00+00:00</published>
+    <updated>2026-10-01T23:18:00+00:00</updated>
+    <media:thumbnail url="https://blogs.npav.net/media/magefan_blog/Group_1000007514.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lwn.net/Articles/1097401/">lwn.net</a> | <a href="https://security-tracker.debian.org/tracker/DSA-6528-1">source</a> | <a href="https://news.ycombinator.com/item?id=49928121">hacker news</a></small></p><hr/><p>Debian has issued security advisory DSA-6528-1 to address numerous vulnerabilities in the Linux kernel. These flaws could potentially lead to privilege escalation, denial of service, or information leaks.</p><p>The updates are available for the Debian stable (trixie) distribution, where the issues have been fixed in version 6.12.111-1. Users are encouraged to upgrade their linux packages to mitigate the security risks associated with the listed CVEs.</p><p><img src="https://blogs.npav.net/media/magefan_blog/Group_1000007514.png" /></p><hr/><small>2 Oct 2026, 06:45 UTC | #23045</small>]]></content>
+  </entry>
   <entry>
     <title>Cloudflare Launches K2 Serverless Event Streams in Public Beta</title>
     <link href="https://blog.cloudflare.com/cloudflare-k2-streams/" rel="alternate" />
@@ -746,50 +755,5 @@
     <updated>2026-09-27T06:45:00+00:00</updated>
     <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgslbgarcdEUUkIJWtO6Hzy1tHhrkARR5gWxsFPfsPk02zgLqPXsCoxkEIHa4ymkDB3aF-21KS9F0f4ScH9KVz-iN9GJ6yyTDC4rh8AaPG2QiCbZXDUNkRnRYLl8YDcuC8FsX9mkm-A9sb5s9V86UyC3A_I1Ai19idZYTgW1g8ZBLvwYirK97hZSw/s1369/webcam.jpeg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html">allanrbo.blogspot.com</a> | <a href="https://news.ycombinator.com/item?id=49853175">hacker news</a></small></p><hr/><p>LLM token log probabilities enable structured, probabilistic classification for text and multimodal models. By restricting model output to a single token and requesting top log probabilities for predefined choices, the technique allows for extracting precise statistical data for conditions described in plain text.</p><p>The implementation uses Python and OpenCV to process live webcam frames, integrating with both llama.cpp and OpenAI APIs. When running on local hardware such as an RTX 3090, the system achieves approximately one frame per second for analyzing scene properties like lighting levels and object presence.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgslbgarcdEUUkIJWtO6Hzy1tHhrkARR5gWxsFPfsPk02zgLqPXsCoxkEIHa4ymkDB3aF-21KS9F0f4ScH9KVz-iN9GJ6yyTDC4rh8AaPG2QiCbZXDUNkRnRYLl8YDcuC8FsX9mkm-A9sb5s9V86UyC3A_I1Ai19idZYTgW1g8ZBLvwYirK97hZSw/s1369/webcam.jpeg" /></p><hr/><small>27 Sep 2026, 15:39 UTC | #22495</small>]]></content>
-  </entry>
-  <entry>
-    <title>drawgent Connects AI Coding Agents to Excalidraw Whiteboards</title>
-    <link href="https://tangled.org/yanndegat.tngl.sh/drawgent" rel="alternate" />
-    <id>https://tangled.org/yanndegat.tngl.sh/drawgent::v239</id>
-    <published>2026-09-27T06:44:00+00:00</published>
-    <updated>2026-09-27T06:44:00+00:00</updated>
-    <media:thumbnail url="https://tangled.org/yanndegat.tngl.sh/drawgent/raw/main/docs/overview.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://tangled.org/yanndegat.tngl.sh/drawgent">tangled.org</a> | <a href="https://news.ycombinator.com/item?id=49857729">hacker news</a></small></p><hr/><p>drawgent integrates AI coding agents—including Claude Code, Codex, and opencode—with a live Excalidraw whiteboard. Users can direct the agent to create, modify, or inspect diagrams through chat commands or by placing `AGENT:` notes directly on the canvas.</p><p>The tool uses the Model Context Protocol (MCP) to enable bidirectional linking between diagram elements and specific lines of source code. This connectivity allows for a "build" workflow where visual changes to a diagram can be translated into code updates. The resulting `.excalidraw` files are designed for version control within Git repositories.</p><p><img src="https://tangled.org/yanndegat.tngl.sh/drawgent/raw/main/docs/overview.png" /></p><hr/><small>27 Sep 2026, 15:36 UTC | #22494</small>]]></content>
-  </entry>
-  <entry>
-    <title>FLIP Fluid Simulation on Flip-Dot Display</title>
-    <link href="https://mitxela.com/projects/flipflip" rel="alternate" />
-    <id>https://mitxela.com/projects/flipflip::v239</id>
-    <published>2026-09-27T06:39:00+00:00</published>
-    <updated>2026-09-27T06:39:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/DaV_tlBpIdc/hqdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mitxela.com/projects/flipflip">mitxela.com</a> | <a href="https://news.ycombinator.com/item?id=49854219">hacker news</a></small></p><hr/><p>A custom installation runs a Fluid Implicit Particle (FLIP) simulation on an electromechanical flip-dot display. Built for the EMF2026 festival, the project repurposes salvaged flip-dot panels to create a large-scale, audible simulation, bypassing the high costs and slow refresh rates associated with commercial displays.</p><p>The hardware implementation utilizes custom-designed PCBs with H-bridge driver chips and shift registers to enable faster scanning of the dot matrix. This design allows for more rapid updates and provides the mechanical noise characteristic of electromechanical displays, complementing the fluid simulation's motion.</p><p><img src="https://i.ytimg.com/vi/DaV_tlBpIdc/hqdefault.jpg" /></p><hr/><small>27 Sep 2026, 13:52 UTC | #22489</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tuning a Server to Reduce Benchmarking Noise</title>
-    <link href="https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/" rel="alternate" />
-    <id>https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/::v239</id>
-    <published>2026-09-27T06:37:00+00:00</published>
-    <updated>2026-09-27T06:37:00+00:00</updated>
-    <media:thumbnail url="https://david.alvarezrosa.com/images/lstopo-laptop.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/">david.alvarezrosa.com</a> | <a href="https://lobste.rs/s/fejuat/tuning_server_for_benchmarking">discussion</a></small></p><hr/><p>Software benchmarks often suffer from measurement noise that can obscure subtle performance improvements, making results non-deterministic. By systematically tuning a machine—specifically through CPU core pinning, employing the performance frequency governor, disabling hyperthreading, and turning off turbo boost—the coefficient of variation can be reduced from approximately 3% to 0.26%.</p><p>This approach prioritizes measurement consistency and repeatability over peak execution speed. While these adjustments are essential for creating a stable environment to isolate software performance changes, production-grade systems typically prioritize maximum throughput and latency by keeping features like turbo boost and hyperthreading active.</p><p><img src="https://david.alvarezrosa.com/images/lstopo-laptop.png" /></p><hr/><small>27 Sep 2026, 13:38 UTC | #22488</small>]]></content>
-  </entry>
-  <entry>
-    <title>Floci Provides Local Emulation for AWS, Azure, GCP, and OCI</title>
-    <link href="https://floci.io" rel="alternate" />
-    <id>https://floci.io::v239</id>
-    <published>2026-09-27T06:34:00+00:00</published>
-    <updated>2026-09-27T06:34:00+00:00</updated>
-    <media:thumbnail url="https://teamcopilot.ai/blog/cloud-ai-agents-vs-local-ai-agents-which-is-better-for-privacy-cost-and-latency-cover.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://floci.io">floci.io</a> | <a href="https://news.ycombinator.com/item?id=49854416">hacker news</a></small></p><hr/><p>Floci provides standalone, MIT-licensed binaries that emulate services from AWS, Azure, GCP, and OCI locally. These emulators allow developers to run infrastructure components, such as S3, Lambda, and DynamoDB, without requiring authentication tokens or cloud accounts.</p><p>The toolset is designed for AI-assisted development, providing a secure, credential-free sandbox where coding agents can verify code against real engines rather than mocks. Floci includes a unified CLI and a visual dashboard to manage and inspect resources across all four supported cloud providers.</p><p><img src="https://teamcopilot.ai/blog/cloud-ai-agents-vs-local-ai-agents-which-is-better-for-privacy-cost-and-latency-cover.png" /></p><hr/><small>27 Sep 2026, 13:01 UTC | #22487</small>]]></content>
-  </entry>
-  <entry>
-    <title>Deploying GNU Guix Images on Linode</title>
-    <link href="https://dthompson.us/posts/deploying-guix-images-on-linode.html" rel="alternate" />
-    <id>https://dthompson.us/posts/deploying-guix-images-on-linode.html::v239</id>
-    <published>2026-09-27T06:29:00+00:00</published>
-    <updated>2026-09-27T06:29:00+00:00</updated>
-    <media:thumbnail url="https://habrastorage.org/getpro/habr/upload_files/563/df6/63f/563df663fb869cc6c08460b73e608cc5.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dthompson.us/posts/deploying-guix-images-on-linode.html">dthompson.us</a> | <a href="https://lobste.rs/s/mf2lic/deploying_guix_images_on_linode">discussion</a></small></p><hr/><p>A custom method for deploying GNU Guix system images directly on Linode cloud instances avoids the standard practice of bootstrapping from a Debian image. This approach uses a bootable MBR-raw disk image configured to handle Linode-specific requirements, including virtual disk mounting, automatic filesystem resizing, and specific bootloader installation for the target environment.</p><p>The implementation requires specific Guile configuration and a shell script to create and compress the image for upload. To avoid kernel panics during the initial boot, Linode's boot settings must be manually adjusted to use GRUB 2 and to disable filesystem and boot helper switches.</p><p><img src="https://habrastorage.org/getpro/habr/upload_files/563/df6/63f/563df663fb869cc6c08460b73e608cc5.png" /></p><hr/><small>27 Sep 2026, 11:59 UTC | #22485</small>]]></content>
   </entry>
 </feed>
