@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-02T09:23:00+00:00</updated>
+  <updated>2026-10-02T09:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Valen Implements Memory Safety Across Rust Boundary</title>
+    <link href="https://verdagon.dev/blog/boundary-memory-safety" rel="alternate" />
+    <id>https://verdagon.dev/blog/boundary-memory-safety::v239</id>
+    <published>2026-10-02T09:27:00+00:00</published>
+    <updated>2026-10-02T09:27:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQEq66KA0M1Jnw/article-cover_image-shrink_600_2000/B56ZxVqWeyK4AQ-/0/1770963695402?e=2147483647&amp;v=beta&amp;t=08YjnI_JlWThWL1r4a4I2jXH97UxKi8jzWQJyimE9Fg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://verdagon.dev/blog/boundary-memory-safety">verdagon.dev</a> | <a href="https://lobste.rs/s/ajtnc6/second_golden_spike_memory_safety_across">discussion</a></small></p><hr/><p>The Valen programming language has developed a prototype that maintains memory safety when calling Rust functions. By implementing "group borrowing," the language provides a more flexible alternative to Rust's "shared-xor-mutable" model, allowing multiple mutable references to the same object.</p><p>This approach utilizes "temporary uniqueness" to preserve LLVM noalias optimizations, ensuring that the increased flexibility does not compromise performance. The mechanism enables Valen to safely mutate Rust objects, bridging the gap between different memory-safety paradigms.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQEq66KA0M1Jnw/article-cover_image-shrink_600_2000/B56ZxVqWeyK4AQ-/0/1770963695402?e=2147483647&v=beta&t=08YjnI_JlWThWL1r4a4I2jXH97UxKi8jzWQJyimE9Fg" /></p><hr/><small>2 Oct 2026, 15:01 UTC | #23074</small>]]></content>
+  </entry>
+  <entry>
+    <title>Connected Vehicle Study Reveals Extensive Third-Party Data Tracking</title>
+    <link href="https://automatictransmission.khoury.northeastern.edu/index.html" rel="alternate" />
+    <id>https://automatictransmission.khoury.northeastern.edu/index.html::v239</id>
+    <published>2026-10-02T09:26:00+00:00</published>
+    <updated>2026-10-02T09:26:00+00:00</updated>
+    <media:thumbnail url="https://automatictransmission.khoury.northeastern.edu/images/test-facility.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://automatictransmission.khoury.northeastern.edu/index.html">automatictransmission.khoury.northeastern.edu</a> | <a href="https://dl.acm.org/doi/10.1145/3777912.3839795">source</a> | <a href="https://news.ycombinator.com/item?id=49926628">hacker news</a></small></p><hr/><p>Researchers at Northeastern University and Consumer Reports have identified frequent transmission of sensitive data from connected vehicles and their companion apps to third-party advertisers and trackers. An analysis of 21 vehicles and 30 mobile apps found that 19 vehicles contacted third-party domains via Wi-Fi, and several apps sent personally identifiable information, including VINs and precise locations, to tracking companies.</p><p>Companion apps can approximately double a vehicle's exposure to advertising and tracking domains. The research highlights a gap between manufacturer privacy disclosures and actual data-sharing practices, noting that consumers lack significant control over their information once it leaves the device.</p><p><img src="https://automatictransmission.khoury.northeastern.edu/images/test-facility.png" /></p><hr/><small>2 Oct 2026, 14:58 UTC | #23073</small>]]></content>
+  </entry>
   <entry>
     <title>Erlang VM Stdin EOF Limitation Workaround</title>
     <link href="https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend" rel="alternate" />
@@ -761,23 +779,5 @@
     <updated>2026-09-27T15:30:00+00:00</updated>
     <media:thumbnail url="https://static.media.ccc.de/media/conferences/lgm/2026/110664-4ac0ffae-6f56-5334-a3db-d488fe925387_preview.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.davepagurek.com/blog/p5-compute-shaders/">davepagurek.com</a> | <a href="https://lobste.rs/s/zsdlcz/teaching_gpu_programming_p5_js_now_with">discussion</a></small></p><hr/><p>The library is implementing compute shader support via WebGPU to facilitate GPU programming education. This approach uses "scaffolded learning" to abstract the complexities of low-level graphics APIs, allowing students to experiment with parallel programming before mastering the full shader pipeline.</p><p>Through p5.strands, the update provides a simplified API for managing data flow and vertex manipulation. By leveraging WebGPU storage buffers and instance ID functionality, users can implement complex particle systems and animations using standard JavaScript-like syntax.</p><p><img src="https://static.media.ccc.de/media/conferences/lgm/2026/110664-4ac0ffae-6f56-5334-a3db-d488fe925387_preview.jpg" /></p><hr/><small>27 Sep 2026, 18:36 UTC | #22509</small>]]></content>
-  </entry>
-  <entry>
-    <title>Expressing Reachability Properties in TLA+</title>
-    <link href="https://ahelwer.ca/post/2026-09-26-reachability/" rel="alternate" />
-    <id>https://ahelwer.ca/post/2026-09-26-reachability/::v239</id>
-    <published>2026-09-27T14:51:00+00:00</published>
-    <updated>2026-09-30T17:21:00+00:00</updated>
-    <media:thumbnail url="https://cdn.prod.website-files.com/65d609edcc331dd0e4eb519b/69613a87a9788a2299decbe3_50b72e1e.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ahelwer.ca/post/2026-09-26-reachability/">ahelwer.ca</a> | <a href="https://lobste.rs/s/8pjbtj/can_we_have_reachability_properties_tla">discussion</a> | <a href="https://news.ycombinator.com/item?id=49909056">hacker news</a></small></p><hr/><p>Reachability properties, which determine if a state is accessible from any point in a system's execution, can be expressed within TLA⁺'s linear-time logic using machine-closed fairness assumptions. This technique allows branching-time logic concepts, like the possibility of an action, to be framed within TLA⁺'s existing semantics.</p><p>Implementing a backward reachability pass in the TLC model checker would allow for automated verification of these properties by traversing the state graph in reverse. This approach can be applied to verify distributed system properties, such as the eventual consistency of replicated data types.</p><p><img src="https://cdn.prod.website-files.com/65d609edcc331dd0e4eb519b/69613a87a9788a2299decbe3_50b72e1e.png" /></p><hr/><small>27 Sep 2026, 17:50 UTC | #22504</small>]]></content>
-  </entry>
-  <entry>
-    <title>LuaRocks.org Resolves Remote Code Execution Vulnerability</title>
-    <link href="https://luarocks.org/security-incident-september-2026" rel="alternate" />
-    <id>https://luarocks.org/security-incident-september-2026::v239</id>
-    <published>2026-09-27T14:47:00+00:00</published>
-    <updated>2026-09-27T14:47:00+00:00</updated>
-    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:840/1*c-kj4sOzwc-ipDgGWISDYQ.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://luarocks.org/security-incident-september-2026">luarocks.org</a> | <a href="https://lobste.rs/s/apoyxs/luarocks_security_incident_september">discussion</a></small></p><hr/><p>Attackers exploited a remote code execution vulnerability in LuaRocks.org between July 9 and August 20, 2026, by uploading malicious LuaJIT bytecode within rockspecs. The vulnerability allowed arbitrary code execution on the server and has since been patched, with the site moved to a new, secured environment.</p><p>The breach resulted in the exposure of user email addresses, bcrypt password hashes, API keys, and two-factor authentication secrets. While LuaRocks found no evidence that existing packages were modified, users are advised to reset passwords, regenerate API keys, and re-configure 2FA. Anyone who installed the packages `bcrcewon`, `7e0b94029db0`, or `7e0b9402f9c8` should consider their systems compromised.</p><p><img src="https://miro.medium.com/v2/resize:fit:840/1*c-kj4sOzwc-ipDgGWISDYQ.png" /></p><hr/><small>27 Sep 2026, 17:00 UTC | #22496</small>]]></content>
   </entry>
 </feed>

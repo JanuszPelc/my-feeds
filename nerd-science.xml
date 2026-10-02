@@ -205,22 +205,4 @@
     <media:thumbnail url="https://static01.nyt.com/images/2026/09/03/00SCI-NEWSPECIES-PAULINELLA-81139-cover/00SCI-NEWSPECIES-PAULINELLA-81139-cover-facebookJumbo.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html">nytimes.com</a> | <a href="https://onlinelibrary.wiley.com/doi/10.1111/jpy.70230">source</a> | <a href="https://news.ycombinator.com/item?id=49866951">hacker news</a></small></p><hr/><p>Researchers have identified two new species of Paulinella, a genus of photosynthetic amoeboid protists, in the brackish waters of North Carolina. The species, Paulinella marae and Paulinella murrayi, expand the known diversity of the genus and provide data on the evolution of primary plastid endosymbiosis.</p><p>The discovery offers a rare opportunity to observe the evolutionary mechanisms by which cells acquire photosynthetic organelles. Studying these organisms may yield vital information regarding the origins of complex life and eukaryotic evolution.</p><p><img src="https://static01.nyt.com/images/2026/09/03/00SCI-NEWSPECIES-PAULINELLA-81139-cover/00SCI-NEWSPECIES-PAULINELLA-81139-cover-facebookJumbo.jpg" /></p><hr/><small>27 Sep 2026, 20:56 UTC | #22517</small>]]></content>
   </entry>
-  <entry>
-    <title>NeoVim's Persistent Undo and the Concept of Software Duty of Care</title>
-    <link href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/" rel="alternate" />
-    <id>https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/::v239</id>
-    <published>2026-09-27T14:50:00+00:00</published>
-    <updated>2026-09-27T14:50:00+00:00</updated>
-    <media:thumbnail url="https://echasnovski.com/blog/2024-08-01-remove-padding-around-neovim-instance/demo.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/">unsung.aresluna.org</a> | <a href="https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users">discussion</a> | <a href="https://news.ycombinator.com/item?id=49867067">hacker news</a></small></p><hr/><p>The article examines a critique by computer scientist David Chisnall regarding NeoVim's handling of persistent undo files. Chisnall argues that while Vim maintains undo history across versions, NeoVim’s decision to replace legacy undo files with a new format effectively deleted existing user data, representing a failure in a software developer's duty of care.</p><p>The discussion draws on Jef Raskin’s "Humane Interface" laws, specifically the principle that computers should not harm a user's work or allow it to come to harm through inaction. The essay reflects on how software design decisions regarding data preservation can significantly impact user trust and the long-term relationship between humans and technology.</p><p><img src="https://echasnovski.com/blog/2024-08-01-remove-padding-around-neovim-instance/demo.png" /></p><hr/><small>27 Sep 2026, 17:48 UTC | #22497</small>]]></content>
-  </entry>
-  <entry>
-    <title>Alan Kay Discusses Shannon's Noisy Channel Theorem</title>
-    <link href="https://www.youtube.com/watch?v=Cjntrqhn8pk" rel="alternate" />
-    <id>https://www.youtube.com/watch?v=Cjntrqhn8pk::v239</id>
-    <published>2026-09-27T14:45:00+00:00</published>
-    <updated>2026-09-27T14:45:00+00:00</updated>
-    <media:thumbnail url="https://pbs.twimg.com/profile_images/791277670676004864/UbuL-6Yi.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.youtube.com/watch?v=Cjntrqhn8pk">youtube.com</a> | <a href="https://news.ycombinator.com/item?id=49848295">hacker news</a></small></p><hr/><p>During a live stream, Alan Kay discussed Claude Shannon's theorem regarding noisy channels while experiencing a significant audio delay. The technical issue caused his voice to loop back to him, creating a persistent echo that he noted was being "rerouted to Mars and back."</p><p>This accidental audio feedback loop served as a real-time demonstration of the communication challenges addressed by Shannon's mathematical work. The incident occurred as Kay was prepared to discuss how his early encounters with Simula influenced his development of object-oriented programming concepts.</p><p><img src="https://pbs.twimg.com/profile_images/791277670676004864/UbuL-6Yi.jpg" /></p><hr/><small>27 Sep 2026, 16:48 UTC | #22503</small>]]></content>
-  </entry>
 </feed>
