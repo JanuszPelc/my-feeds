@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-02T05:15:00+00:00</updated>
+  <updated>2026-10-02T08:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Branch Target Reuse Attack Exploits Stale Branch Prediction in JIT Engines</title>
+    <link href="https://www.vusec.net/projects/btr/" rel="alternate" />
+    <id>https://www.vusec.net/projects/btr/::v239</id>
+    <published>2026-10-02T08:10:00+00:00</published>
+    <updated>2026-10-02T08:10:00+00:00</updated>
+    <media:thumbnail url="https://www.vusec.net/wp-content/uploads/2026/09/btr_overview.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.vusec.net/projects/btr/">vusec.net</a> | <a href="https://lobste.rs/s/y3ppje/branch_target_reuse_spectre_v2_attacks">discussion</a></small></p><hr/><p>Branch Target Reuse (BTR) is a Spectre-v2 attack that exploits stale indirect branch prediction entries in just-in-time (JIT) compilers. The vulnerability occurs when a CPU uses outdated branch targets from deallocated code to speculatively execute instructions in newly allocated code at the same memory address. This creates a speculative execute-after-free primitive that can bypass software hardening and facilitate control-flow hijacking in environments including the Linux kernel, Oracle GraalVM, and Firefox's SpiderMonkey engine.</p><p>Demonstrations of the exploit include bypassing Linux's constant-blinding and leaking sensitive data, such as root password hashes, from the kernel. While hardware features like Indirect Branch Predictor Barrier (IBPB) can mitigate the risk, software-level updates are required to secure systems. The Linux kernel and Oracle have already released mitigations, while Mozilla is prioritizing site isolation to limit the potential impact.</p><p><img src="https://www.vusec.net/wp-content/uploads/2026/09/btr_overview.png" /></p><hr/><small>2 Oct 2026, 13:45 UTC | #23066</small>]]></content>
+  </entry>
   <entry>
     <title>Tigris Data Replaces FoundationDB-Based Message Queue with Kafka</title>
     <link href="https://www.tigrisdata.com/blog/quick-fdb-kafka/" rel="alternate" />
