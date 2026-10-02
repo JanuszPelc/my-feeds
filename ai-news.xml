@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-01T23:01:00+00:00</updated>
+  <updated>2026-10-02T03:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>DeepSeek Launches DeepSeek Harness Open Source Agent in Public Preview</title>
+    <link href="https://www.deepseek.com/en/harness/" rel="alternate" />
+    <id>https://www.deepseek.com/en/harness/::v239</id>
+    <published>2026-10-02T03:12:00+00:00</published>
+    <updated>2026-10-02T03:12:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.deepseek.com/en/harness/">deepseek.com</a> | <a href="https://news.ycombinator.com/item?id=49929489">hacker news</a></small></p><hr/><p>DeepSeek has released DeepSeek Harness, an open-source agent application, into public preview. Built on the Cordis plugin architecture, the tool is designed to automate tasks such as data analysis, document drafting, software debugging, and running background scripts. It is available as a desktop application or through a web interface via Node.js.</p><p>The platform utilizes a composable plugin system that allows users to extend the agent's functionality through a "Creator mode" or by installing existing plugins. It includes developer-oriented features such as execution trace inspection for troubleshooting tool calls and the ability to schedule recurring tasks.</p><hr/><small>2 Oct 2026, 09:42 UTC | #23053</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft AI Launches New Streaming Transcription and Voice Models</title>
     <link href="https://microsoft.ai/news/our-first-streaming-transcription-model/" rel="alternate" />
