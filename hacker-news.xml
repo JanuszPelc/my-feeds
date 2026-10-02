@@ -792,22 +792,4 @@
     <media:thumbnail url="https://habrastorage.org/getpro/habr/upload_files/563/df6/63f/563df663fb869cc6c08460b73e608cc5.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dthompson.us/posts/deploying-guix-images-on-linode.html">dthompson.us</a> | <a href="https://lobste.rs/s/mf2lic/deploying_guix_images_on_linode">discussion</a></small></p><hr/><p>A custom method for deploying GNU Guix system images directly on Linode cloud instances avoids the standard practice of bootstrapping from a Debian image. This approach uses a bootable MBR-raw disk image configured to handle Linode-specific requirements, including virtual disk mounting, automatic filesystem resizing, and specific bootloader installation for the target environment.</p><p>The implementation requires specific Guile configuration and a shell script to create and compress the image for upload. To avoid kernel panics during the initial boot, Linode's boot settings must be manually adjusted to use GRUB 2 and to disable filesystem and boot helper switches.</p><p><img src="https://habrastorage.org/getpro/habr/upload_files/563/df6/63f/563df663fb869cc6c08460b73e608cc5.png" /></p><hr/><small>27 Sep 2026, 11:59 UTC | #22485</small>]]></content>
   </entry>
-  <entry>
-    <title>Intel 8087 Tangent Algorithm Implementation Details</title>
-    <link href="https://www.righto.com/2026/09/8087-tangent-cordic.html" rel="alternate" />
-    <id>https://www.righto.com/2026/09/8087-tangent-cordic.html::v239</id>
-    <published>2026-09-27T06:26:00+00:00</published>
-    <updated>2026-09-27T06:26:00+00:00</updated>
-    <media:thumbnail url="https://www.allaboutcircuits.com/uploads/articles/Fig3m5222017.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.righto.com/2026/09/8087-tangent-cordic.html">righto.com</a> | <a href="https://lobste.rs/s/5soxba/reverse_engineering_vintage_intel_8087_s">discussion</a> | <a href="https://news.ycombinator.com/item?id=49858676">hacker news</a></small></p><hr/><p>The 8087 floating-point coprocessor uses a hybrid algorithm to compute the tangent function (FPTAN) with high speed and 64-bit accuracy. The approach combines the CORDIC algorithm for initial angle reduction with a Padé approximant—a rational polynomial—to compute the remaining small angle.</p><p>Through microscopic analysis of the chip's circuitry and microcode ROM, the process was identified as a three-stage sequence: pseudo-division to generate CORDIC decision bits, calculating a rational approximation, and pseudo-multiplication to perform rotations. This specific implementation avoids slow division operations, enabling significantly faster computation than the 8086 microprocessor.</p><p><img src="https://www.allaboutcircuits.com/uploads/articles/Fig3m5222017.png" /></p><hr/><small>27 Sep 2026, 11:41 UTC | #22484</small>]]></content>
-  </entry>
-  <entry>
-    <title>Custom SVG Tree Layout for Wide Hierarchies</title>
-    <link href="https://lonami.dev/blog/tree-node-positioning/" rel="alternate" />
-    <id>https://lonami.dev/blog/tree-node-positioning/::v239</id>
-    <published>2026-09-27T06:23:00+00:00</published>
-    <updated>2026-09-27T06:23:00+00:00</updated>
-    <media:thumbnail url="https://www.syncfusion.com/blogs/wp-content/uploads/2023/08/Creating-a-hierarichical-tree-with-multiple-parents-using-Angular-Diagram-library.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lonami.dev/blog/tree-node-positioning/">lonami.dev</a> | <a href="https://lobste.rs/s/9ry4yi/reinventing_wheel_draw_wide_tree">discussion</a></small></p><hr/><p>A custom SVG-based tree layout algorithm addresses the excessive horizontal growth common in standard D3.js hierarchy visualizations. The implementation uses a recursive layout engine to organize nodes into columns, rows, and a specialized "stair" type, optimizing the use of limited screen space for large datasets.</p><p>The technical approach includes using English letter frequencies for data generation and employing SVG paths for "step" connections. The algorithm implements occlusion-avoidance logic for links and a "stair" mode that staggers leaf nodes to further reduce diagram width.</p><p><img src="https://www.syncfusion.com/blogs/wp-content/uploads/2023/08/Creating-a-hierarichical-tree-with-multiple-parents-using-Angular-Diagram-library.png" /></p><hr/><small>27 Sep 2026, 11:24 UTC | #22483</small>]]></content>
-  </entry>
 </feed>
