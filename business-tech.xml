@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Generative AI Disrupts Web Development Education</title>
+    <link href="https://molily.de/web-dev-education/" rel="alternate" />
+    <id>https://molily.de/web-dev-education/::v239</id>
+    <published>2026-10-01T21:13:00+00:00</published>
+    <updated>2026-10-01T21:13:00+00:00</updated>
+    <media:thumbnail url="https://marhaba.qa/wp-content/uploads/2025/03/AI-Education.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://molily.de/web-dev-education/">molily.de</a> | <a href="https://lobste.rs/s/td9dxd/death_web_development_education">discussion</a> | <a href="https://news.ycombinator.com/item?id=49927100">hacker news</a></small></p><hr/><p>Generative AI is undermining the economic viability of web development education, with creators reporting a sharp decline in revenue and engagement. As large language models scrape high-quality instructional content to provide automated responses, many independent educators and technical authors find their business models unsustainable.</p><p>This shift discourages the production of new, high-quality technical content and reduces opportunities for human-led collaboration. The trend moves away from democratized, community-based learning toward a centralized model where AI models commodify the specialized labor and expertise of subject matter experts.</p><p><img src="https://marhaba.qa/wp-content/uploads/2025/03/AI-Education.jpg" /></p><hr/><small>2 Oct 2026, 03:41 UTC | #23038</small>]]></content>
+  </entry>
+  <entry>
     <title>DoorDash Withdraws Support for Bill Restricting D.C. Taxing Authority</title>
     <link href="https://www.washingtonsun.com/metro/doordash-apology-gop-bill-dc" rel="alternate" />
     <id>https://www.washingtonsun.com/metro/doordash-apology-gop-bill-dc::v239</id>
