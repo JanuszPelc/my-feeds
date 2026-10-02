@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-02T16:59:00+00:00</updated>
+  <updated>2026-10-02T19:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>W. A. Production Releases Asymo Reverb Plugin</title>
+    <link href="https://www.kvraudio.com/news/w-a-production-releases-asymo-reverb-dynamic-spatial-reverb-vst3-au-and-aax-68872?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68872" rel="alternate" />
+    <id>https://www.kvraudio.com/news/w-a-production-releases-asymo-reverb-dynamic-spatial-reverb-vst3-au-and-aax-68872?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68872::v239</id>
+    <published>2026-10-02T19:10:00+00:00</published>
+    <updated>2026-10-02T19:10:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/asymo-reverb_1920x1080.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/w-a-production-releases-asymo-reverb-dynamic-spatial-reverb-vst3-au-and-aax-68872?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68872">kvraudio.com</a> | <a href="https://www.waproduction.com/plugins/view/asymo-reverb">source</a></small></p><hr/><p>W. A. Production has released Asymo Reverb, a dynamic spatial reverb plugin for macOS and Windows supporting VST3, AU, and AAX formats. The plugin utilizes interactive geometry warping and a real-time room rotation engine to allow users to reshape and animate acoustic environments while maintaining pitch and phase stability.</p><p>Technical features include adjustable per-node virtual wall boundaries, input ducking for transient clarity, and frequency-shaping filters. The plugin is priced at $49.90, with an introductory price of $14.90 available through October 22, 2026.</p><p><img src="https://static.kvraudio.com/i/b/asymo-reverb_1920x1080.png" /></p><hr/><small>2 Oct 2026, 22:13 UTC | #23111</small>]]></content>
+  </entry>
   <entry>
     <title>Blue Cat Audio Releases Free Amp 2.0 and Freeware Updates</title>
     <link href="https://www.kvraudio.com/news/blue-cat-audio-releases-free-amp-2-0-and-updates-all-free-plug-ins-68870?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68870" rel="alternate" />

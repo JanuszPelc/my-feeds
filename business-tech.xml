@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-02T17:07:00+00:00</updated>
+  <updated>2026-10-02T19:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Slovenian .si Domain Registrations Surge Following Trump's 'Super Intelligence' Proposal</title>
+    <link href="https://www.bbc.com/news/articles/cqx2z23xj555o" rel="alternate" />
+    <id>https://www.bbc.com/news/articles/cqx2z23xj555o::v239</id>
+    <published>2026-10-02T19:08:00+00:00</published>
+    <updated>2026-10-02T19:08:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bbc.com/news/articles/cqx2z23xj555o">bbc.com</a> | <a href="https://news.ycombinator.com/item?id=49935122">hacker news</a></small></p><hr/><p>Slovenian .si domain registrations surged to 44,000 in September, a more than 2,100% increase from fewer than 2,000 in August. The rise follows US President Donald Trump's proposal to rename "Artificial Intelligence" (AI) to "Super Intelligence" (SI), which shares the same initials as the Slovenian top-level domain.</p><p>The increase is driven by speculative domain registration, where individuals purchase addresses in the hope of reselling them for profit. This follows a US executive order requiring government agencies to adopt "SI" in official correspondence, reports, and communications.</p><hr/><small>2 Oct 2026, 22:10 UTC | #23077</small>]]></content>
+  </entry>
   <entry>
     <title>Broadcom Amasses $60 Billion to Finance AI Chips for Anthropic and Others</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-02/broadcom-starts-amassing-60-billion-to-fund-chips-for-anthropic" rel="alternate" />
