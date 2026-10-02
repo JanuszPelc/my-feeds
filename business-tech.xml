@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-02T11:46:00+00:00</updated>
+  <updated>2026-10-02T14:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Federal Judge Blocks Utah's Anti-VPN Provisions</title>
+    <link href="https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility" rel="alternate" />
+    <id>https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility::v239</id>
+    <published>2026-10-02T14:23:00+00:00</published>
+    <updated>2026-10-02T14:23:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility">eff.org</a> | <a href="https://www.govinfo.gov/app/details/USCOURTS-utd-2_26-cv-00340/USCOURTS-utd-2_26-cv-00340-0">source</a> | <a href="https://news.ycombinator.com/item?id=49927754">hacker news</a></small></p><hr/><p>A federal judge has issued a preliminary injunction against Utah's SB 73, blocking provisions that would have required adult websites to block VPN users or identify the true physical location of visitors using masking tools. The court ruled that the mandate is likely unconstitutional because it requires websites to achieve a level of geolocation perfection that is technically impossible, thereby imposing strict liability for failure to identify every user.</p><p>The ruling follows legal challenges from the Electronic Frontier Foundation and Aylo, the parent company of major adult platforms, who argued that the mandate would require pervasive surveillance of all internet users to ensure compliance. Because VPNs mask true IP addresses, websites cannot reliably distinguish between a Utah resident and a non-resident, potentially forcing platforms to implement unreliable detection heuristics or block all VPN traffic.</p><hr/><small>2 Oct 2026, 19:09 UTC | #23101</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon Pledges $1 Billion to Support Data Center Communities</title>
     <link href="https://www.geekwire.com/2026/amazon-pledges-1b-to-data-center-communities-warns-that-local-opposition-threatens-u-s-ai-lead/" rel="alternate" />
