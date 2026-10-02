@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-02T03:31:00+00:00</updated>
+  <updated>2026-10-02T04:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>arXiv Implements New Submission Rate Limits</title>
+    <link href="https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/" rel="alternate" />
+    <id>https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/::v239</id>
+    <published>2026-10-02T04:56:00+00:00</published>
+    <updated>2026-10-02T04:56:00+00:00</updated>
+    <media:thumbnail url="https://i0.wp.com/blog.arxiv.org/wp-content/uploads/2026/10/arXiv-Monthly-Submissions-September-2026.png?resize=1024%2C642&amp;ssl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/">blog.arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=49926512">hacker news</a></small></p><hr/><p>arXiv is implementing an updated rate-limiting policy for all submitters and categories, effective October 1, 2026. The update restricts authors to a maximum of two submissions per calendar month and a limit of three active submissions at any one time. This measure aims to distribute volunteer moderator time more equitably and protect the repository from an influx of inappropriate submissions.</p><p>The decision follows a sharp increase in submission volume, which reached a record 40,363 in September 2026. Advanced AI tools have been identified as a driver for this surge, specifically contributing to an increase in "thin" papers, "salami" papers, and low-quality, AI-generated content. The policy serves as a stopgap while the repository develops improved moderation tools and procedures to address the changing research landscape.</p><p><img src="https://i0.wp.com/blog.arxiv.org/wp-content/uploads/2026/10/arXiv-Monthly-Submissions-September-2026.png?resize=1024%2C642&ssl=1" /></p><hr/><small>2 Oct 2026, 12:02 UTC | #23040</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Faces Scrutiny Over China AI Chip Smuggling and Export Compliance</title>
     <link href="https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases" rel="alternate" />
