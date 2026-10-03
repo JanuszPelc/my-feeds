@@ -603,13 +603,4 @@
     <updated>2026-09-28T11:49:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Unsloth Changelog | <a href="https://unsloth.ai/docs/new/changelog#laya-decision-models--library">unsloth.ai</a></small></p><hr/><p>Unsloth has introduced support for decision models, including the Laya engine, and launched a unified Library for managing media, files, and chats. The update also features a new document viewer for various file formats, a desktop Skills Editor, and ModelScope support for model downloads.</p><p>Performance improvements include significantly faster image and video generation, with LTX-2.3 clips seeing a 4.5x speed increase. The release also brings Apple Silicon optimizations such as batched serving and TurboQuant KV cache, and provides more granular control over GPU allocation.</p><hr/><small>28 Sep 2026, 15:48 UTC | #22601</small>]]></content>
   </entry>
-  <entry>
-    <title>LibreOffice Excludes Generative AI from Default Installation</title>
-    <link href="https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/" rel="alternate" />
-    <id>https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/::v239</id>
-    <published>2026-09-28T09:59:00+00:00</published>
-    <updated>2026-09-28T09:59:00+00:00</updated>
-    <media:thumbnail url="https://blog.documentfoundation.org/wp-content/uploads/2026/09/LO-no-forced-AI-new.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/">blog.documentfoundation.org</a> | <a href="https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature">discussion</a> | <a href="https://news.ycombinator.com/item?id=49553350">hacker news</a></small></p><hr/><p>LibreOffice will not include generative artificial intelligence in its default installation, stating that current technology fails to meet the project's strict integration requirements. To be supported, AI features must allow user-controlled execution, prohibit unauthorized data transmission, include no telemetry, avoid single-provider lock-in, and maintain Open Document Format (ODF) compliance.</p><p>Users can currently access AI capabilities via third-party extensions that connect to local models or compatible API endpoints. The Document Foundation's decision is driven by its non-profit mission, which prioritizes user data sovereignty and privacy over the subscription and data-monetization models used by competing office suites.</p><p><img src="https://blog.documentfoundation.org/wp-content/uploads/2026/09/LO-no-forced-AI-new.png" /></p><hr/><small>28 Sep 2026, 13:24 UTC | #22561</small>]]></content>
-  </entry>
 </feed>
