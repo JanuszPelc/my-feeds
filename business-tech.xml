@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-02T22:32:00+00:00</updated>
+  <updated>2026-10-03T00:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amazon to Stop Using Nondisclosure Agreements for Data Center Projects</title>
+    <link href="https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/" rel="alternate" />
+    <id>https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/::v239</id>
+    <published>2026-10-03T00:51:00+00:00</published>
+    <updated>2026-10-03T00:51:00+00:00</updated>
+    <media:thumbnail url="https://www.minnpost.com/wp-content/uploads/2025/08/AP25219611138875-2000x1123.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/">wired.com</a> | <a href="https://www.aboutamazon.com/news/company-news/amazon-data-centers-built-together">source</a></small></p><hr/><p>Amazon will no longer use nondisclosure agreements (NDAs) in its arrangements with local government agencies for data center developments. Alongside this policy change, the company has pledged $1 billion over the next five years to support the communities hosting these facilities through workforce training, community college programs, and energy efficiency upgrades.</p><p>The decision follows mounting legislative and public pressure regarding the transparency of data center operations, specifically their impact on local energy and water resources. Several U.S. states and bipartisan lawmakers have sought to ban such agreements to ensure greater public oversight as the infrastructure expansion required for the AI sector continues.</p><p><img src="https://www.minnpost.com/wp-content/uploads/2025/08/AP25219611138875-2000x1123.jpg" /></p><hr/><small>3 Oct 2026, 06:32 UTC | #23120</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Dismisses Employees Hired from Virtue AI</title>
     <link href="https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai" rel="alternate" />
