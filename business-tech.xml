@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-03T00:53:00+00:00</updated>
+  <updated>2026-10-03T02:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Federal Judge Rules Flock ALPR Search Constitutes Unconstitutional Mass Surveillance</title>
+    <link href="https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/" rel="alternate" />
+    <id>https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/::v239</id>
+    <published>2026-10-03T02:44:00+00:00</published>
+    <updated>2026-10-03T02:44:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/">404media.co</a> | <a href="https://storage.courtlistener.com/recap/gov.uscourts.oknd.76981/gov.uscourts.oknd.76981.62.0.pdf?ref=404media.co">source</a> | <a href="https://news.ycombinator.com/item?id=49938815">hacker news</a></small></p><hr/><p>A federal judge in Oklahoma has ruled that a police officer's warrantless search of a vehicle's location history via Flock’s automated license plate reader (ALPR) system violated the Fourth Amendment. Characterizing the nationwide network as a form of "indiscriminate mass surveillance," Judge Sara Hill held that the search intruded on a driver's reasonable expectation of privacy regarding their physical movements.</p><p>The decision, which resulted in the suppression of evidence in a drug trafficking case, marks one of the first times a federal court has found Flock searches to be unconstitutional. While the ruling does not set a binding precedent, it challenges previous legal arguments that tracking vehicles in public does not violate privacy rights. Flock Safety has indicated it will appeal the decision.</p><hr/><small>3 Oct 2026, 08:50 UTC | #23129</small>]]></content>
+  </entry>
   <entry>
     <title>David Robinson Resigns From OpenAI</title>
     <link href="https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10" rel="alternate" />

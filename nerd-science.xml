@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-02T16:55:00+00:00</updated>
+  <updated>2026-10-03T02:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Loss of Cell Identity Model Proposed as Driver of Aging</title>
+    <link href="https://erictopol.substack.com/p/loss-of-cell-identity-drives-human" rel="alternate" />
+    <id>https://erictopol.substack.com/p/loss-of-cell-identity-drives-human::v239</id>
+    <published>2026-10-03T02:45:00+00:00</published>
+    <updated>2026-10-03T02:45:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!LqrI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d3a86d3-2be9-494d-af02-d0f8d8bf0360_1672x941.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://erictopol.substack.com/p/loss-of-cell-identity-drives-human">erictopol.substack.com</a> | <a href="https://news.ycombinator.com/item?id=49926411">hacker news</a></small></p><hr/><p>New research in Nature and Cell proposes that human aging is driven by the loss of cellular identity rather than solely by cumulative molecular damage. This process, known as "decanalization," involves the erosion of the epigenetic structures—specifically the Polycomb repressive complex 2 (PRC2)—that maintain a cell's specialized functional state. This instability leads to "mesenchymal drift," a process where cells transition into a fibroblast-like state, contributing to systemic inflammation and fibrous scarring.</p><p>This cellular drift is linked to the progression of age-related diseases, such as Alzheimer’s and atherosclerosis. Potential interventions to mitigate or reverse this process include partial epigenetic reprogramming via Yamanaka factors, the use of lithium to preserve neuronal identity, and the metabolic regulation of epigenetic architecture through caloric restriction.</p><p><img src="https://substackcdn.com/image/fetch/$s_!LqrI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d3a86d3-2be9-494d-af02-d0f8d8bf0360_1672x941.png" /></p><hr/><small>3 Oct 2026, 08:57 UTC | #23145</small>]]></content>
+  </entry>
   <entry>
     <title>Opus 5.5 Discovers New 1615 Dodo Eyewitness Record</title>
     <link href="https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness" rel="alternate" />
