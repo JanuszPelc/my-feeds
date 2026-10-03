@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-03T13:33:00+00:00</updated>
+  <updated>2026-10-03T14:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>U.S. Sanctions Disrupt Daily Life of ICC Judge Kimberly Prost</title>
+    <link href="https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost" rel="alternate" />
+    <id>https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost::v239</id>
+    <published>2026-10-03T14:03:00+00:00</published>
+    <updated>2026-10-03T14:03:00+00:00</updated>
+    <media:thumbnail url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5250x3615+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F8a%2F18a07f2b4b03ad943ddbb3cb4b52%2Fgettyimages-2296121876.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost">npr.org</a> | <a href="https://news.ycombinator.com/item?id=49935867">hacker news</a></small></p><hr/><p>Canadian International Criminal Court (ICC) judge Kimberly Prost is facing significant disruptions to her daily life due to U.S. sanctions, including the loss of access to digital services from companies like Google and Amazon and the cancellation of her credit cards. These measures stem from a U.S. executive order targeting ICC officials involved in investigations concerning the conflicts in Afghanistan and Gaza.</p><p>The sanctions are part of a broader confrontation between the Trump administration and the ICC, with nine judges currently under U.S. penalties. Prost and other ICC officials are challenging the legality of these measures in a U.S. federal court, arguing the sanctions represent an attempt to influence judicial independence.</p><p><img src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5250x3615+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F8a%2F18a07f2b4b03ad943ddbb3cb4b52%2Fgettyimages-2296121876.jpg" /></p><hr/><small>3 Oct 2026, 20:31 UTC | #23176</small>]]></content>
+  </entry>
   <entry>
     <title>Chinese Fabs Acquired 343 DUVi Lithography Tools by Early 2026</title>
     <link href="https://www.scmp.com/" rel="alternate" />
@@ -1094,14 +1103,5 @@
     <updated>2026-09-28T20:35:00+00:00</updated>
     <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/928697238/original/7f5670fe3f/1?v=1" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://twitter.com/AliAbunimah/status/2103890594137309425">twitter.com</a> | <a href="https://x.com/AliAbunimah/status/2103890594137309425">source</a> | <a href="https://news.ycombinator.com/item?id=49879645">hacker news</a></small></p><hr/><p>XCancel has suspended its services indefinitely following recent developments in ongoing legal proceedings. The announcement did not disclose specific details regarding the nature of the litigation.</p><p>Users seeking content previously available through the service are directed to the original platform on X. The project organizers expressed gratitude to the community for their trust in the XCancel project.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/928697238/original/7f5670fe3f/1?v=1" /></p><hr/><small>29 Sep 2026, 01:32 UTC | #22660</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nvidia CEO Jensen Huang Calls AI Model Distillation 'Competition'</title>
-    <link href="https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html" rel="alternate" />
-    <id>https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html::v239</id>
-    <published>2026-09-28T20:26:00+00:00</published>
-    <updated>2026-09-28T20:26:00+00:00</updated>
-    <media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108368785-17906060011790605998-48662325125-1080pnbcnews.jpg?v=1790606000&amp;w=750&amp;h=422&amp;vtcrop=y" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html">cnbc.com</a> | <a href="https://news.ycombinator.com/item?id=49879032">hacker news</a></small></p><hr/><p>Nvidia CEO Jensen Huang has characterized AI model distillation—the process of training models using the outputs of other models—as a form of competition. This stance directly challenges recent assertions from U.S. officials, including Treasury Secretary Scott Bessent, who has described the practice as "theft" and threatened sanctions against companies using it to extract capabilities from American-made models.</p><p>The debate highlights growing geopolitical tensions between the U.S. and China regarding AI supremacy. U.S. agencies, including the Cybersecurity and Infrastructure Security Agency, have accused Chinese companies of conducting large-scale distillation campaigns, and AI developer Anthropic has specifically alleged that Alibaba and DeepSeek are engaging in "illicit distillation." China has rejected these accusations.</p><p><img src="https://image.cnbcfm.com/api/v1/image/108368785-17906060011790605998-48662325125-1080pnbcnews.jpg?v=1790606000&w=750&h=422&vtcrop=y" /></p><hr/><small>29 Sep 2026, 00:15 UTC | #22620</small>]]></content>
   </entry>
 </feed>

@@ -551,22 +551,4 @@
     <updated>2026-09-28T20:42:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-28/manus-expands-ai-tools-in-renewed-push-into-agent-market">bloomberg.com</a> | <a href="https://manus.im/blog/introducing-manus-2-0">source</a></small></p><hr/><p>Manus, a Chinese artificial intelligence startup, has introduced Manus 2.0 and Cue, a standalone application for personal agents. The Cue platform provides agents with independent digital infrastructure, including their own email, phone number, digital wallet, and virtual computer.</p><p>This release is part of a strategic effort to capture more of the expanding AI agent market. By equipping agents with functional communication and financial tools, Manus is moving toward providing fully autonomous digital entities capable of interacting with the web and managing tasks independently.</p><hr/><small>29 Sep 2026, 02:21 UTC | #22629</small>]]></content>
   </entry>
-  <entry>
-    <title>Shopify Enables Browser-Based AI Agents to Complete Purchases</title>
-    <link href="https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/::v239</id>
-    <published>2026-09-28T20:30:00+00:00</published>
-    <updated>2026-09-28T20:30:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/webmcp-shopify.jpeg?w=680" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/">techcrunch.com</a> | <a href="https://shopify.dev/changelog/posts/webmcp-support-for-checkout">source</a></small></p><hr/><p>Shopify's expansion of Web Model Context Protocol (WebMCP) support now includes its checkout process, allowing browser-based AI agents to finalize transactions on merchant sites. These agents can use new tools to inspect checkout screens, modify shipping or delivery options, and submit orders once the buyer provides authorization.</p><p>This functionality moves agent capabilities beyond simple product searching and cart management into the final stages of the purchase funnel. The update leverages Shopify's Universal Commerce Protocol (UCP) to provide structured APIs for agents operating directly in the user's browser, including existing partners like Meta's Muse and Instinct.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/webmcp-shopify.jpeg?w=680" /></p><hr/><small>29 Sep 2026, 00:36 UTC | #22632</small>]]></content>
-  </entry>
-  <entry>
-    <title>Firelex Releases Jeff: Fast Zero-Shot Classification Models</title>
-    <link href="https://github.com/firelex/jeff" rel="alternate" />
-    <id>https://github.com/firelex/jeff::v239</id>
-    <published>2026-09-28T20:24:00+00:00</published>
-    <updated>2026-09-28T20:24:00+00:00</updated>
-    <media:thumbnail url="https://github.com/firelex/jeff/raw/main/assets/benchmarks.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/firelex/jeff">github.com</a> | <a href="https://news.ycombinator.com/item?id=49883844">hacker news</a></small></p><hr/><p>Jeff is a set of small, fast decision models fine-tuned from Qwen3.5 and Gemma 4 for zero-shot classification. By describing a situation and a list of options in plain text, users can receive calibrated probabilities for each option in a single forward pass without generating text. The models are highly efficient, achieving decision latencies of approximately 22–28 ms on an RTX PRO 6000 or Apple M4 Max.</p><p>The models, available in 0.8B and 2B parameter sizes, are intended for direct integration into application code for tasks such as intent detection, moderation, or voice commands. They were trained exclusively on local hardware using synthetic data. While optimized for high-speed, "System 1" style classification, they can be fine-tuned on specific datasets to significantly increase accuracy for specialized use cases.</p><p><img src="https://github.com/firelex/jeff/raw/main/assets/benchmarks.png" /></p><hr/><small>28 Sep 2026, 23:58 UTC | #22647</small>]]></content>
-  </entry>
 </feed>
