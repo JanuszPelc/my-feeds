@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-03T02:47:00+00:00</updated>
+  <updated>2026-10-03T13:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Social Reality in China</title>
+    <link href="https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china" rel="alternate" />
+    <id>https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china::v239</id>
+    <published>2026-10-03T13:39:00+00:00</published>
+    <updated>2026-10-03T13:39:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/mPoHcCU8t9M/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china">lesswrong.com</a> | <a href="https://news.ycombinator.com/item?id=49932402">hacker news</a></small></p><hr/><p>China's social reality is characterized by an intricate and cynical theory of power dynamics. The social structures and interpersonal maneuvering described are compared to the themes found in Robert Greene's *48 Laws of Power*, with the author suggesting these patterns are rooted in Chinese philosophy.</p><p>The essay examines how these perceptions of power and social maneuvering influence interpersonal and societal interactions. It provides an inquiry into the underlying philosophies that shape the social fabric and the perceived reality of life within China.</p><p><img src="https://i.ytimg.com/vi/mPoHcCU8t9M/maxresdefault.jpg" /></p><hr/><small>3 Oct 2026, 18:09 UTC | #23172</small>]]></content>
+  </entry>
   <entry>
     <title>An Anecdote on Accelerometer Debugging and the Dunning-Kruger Effect</title>
     <link href="https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect" rel="alternate" />
@@ -186,13 +195,5 @@
     <published>2026-09-28T18:10:00+00:00</published>
     <updated>2026-09-28T18:10:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://apnews.com/article/spacex-starship-orbit-262d3c58d56bf7a525b49115d6c5dfe8">apnews.com</a> | <a href="https://www.spacex.com/launches/starship-flight-14">source</a> | <a href="https://news.ycombinator.com/item?id=49873646">hacker news</a></small></p><hr/><p>The Starship rocket has completed its first orbital flight, successfully releasing 26 advanced Starlink satellites. This achievement validates the vehicle's ability to maintain stable trajectories and manage payload deployment in orbit.</p><p>The spacecraft aims to complete six full revolutions around Earth to demonstrate readiness for NASA's Artemis moon program. These satellites are expected to significantly increase the Starlink network's capacity and user speeds.</p><hr/><small>28 Sep 2026, 21:17 UTC | #22595</small>]]></content>
-  </entry>
-  <entry>
-    <title>This American Life Examines Intergenerational Communication</title>
-    <link href="https://www.thisamericanlife.org/897/transcript" rel="alternate" />
-    <id>https://www.thisamericanlife.org/897/transcript::v239</id>
-    <published>2026-09-28T18:09:00+00:00</published>
-    <updated>2026-09-28T18:09:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.thisamericanlife.org/897/transcript">thisamericanlife.org</a> | <a href="https://news.ycombinator.com/item?id=49879697">hacker news</a></small></p><hr/><p>Middle schoolers restricted from mainstream social media have used Spotify's podcast comment sections as a clandestine group chat, leading NPR producers to mistake their unique digital communication for automated bot activity. This phenomenon highlights a gap in how different generations interpret online social interaction and digital communication norms.</p><p>Family dynamics and historical grievances also reflect these generational divides, including a daughter's attempt to reconcile with her mother following a contentious wedding speech. These narratives explore the social and emotional challenges of bridging communication gaps between different age groups.</p><hr/><small>28 Sep 2026, 21:00 UTC | #22636</small>]]></content>
   </entry>
 </feed>
