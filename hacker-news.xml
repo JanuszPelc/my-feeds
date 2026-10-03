@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-02T22:20:00+00:00</updated>
+  <updated>2026-10-02T22:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Futhark Introduces #[cpu_function] Attribute for Mixed CPU and GPU Execution</title>
+    <link href="https://futhark-lang.org/blog/2026-10-02-cpu_function.html" rel="alternate" />
+    <id>https://futhark-lang.org/blog/2026-10-02-cpu_function.html::v239</id>
+    <published>2026-10-02T22:23:00+00:00</published>
+    <updated>2026-10-02T22:23:00+00:00</updated>
+    <media:thumbnail url="https://data.embeddedcomputing.com/uploads/resize/1256/756/external/data.embeddedcomputing.com/uploads/articles/wp/345439017/54176dc2ec16c-Vivante-Sept-Fig1.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://futhark-lang.org/blog/2026-10-02-cpu_function.html">futhark-lang.org</a> | <a href="https://lobste.rs/s/8f5elm/keeping_futhark_off_gpu">discussion</a></small></p><hr/><p>The Futhark programming language has introduced a #[cpu_function] attribute to allow specific functions to run on the CPU within GPU-accelerated programs. This feature addresses performance bottlenecks caused by inherently sequential algorithms, such as graph coloring, which perform poorly when executed on GPU hardware. The attribute ensures that a function's body and its internal arrays are managed in CPU memory, with the final result being copied back to GPU memory to maintain compatibility with subsequent parallel tasks.</p><p>This implementation provides a practical workaround for Futhark's current compilation model, which typically allocates all arrays to a single memory space—usually GPU memory—when using a GPU backend. By enabling efficient CPU-based execution for sequential logic, the language can better handle complex pre-processing steps for highly parallelizable numerical computations. The development team envisions a future where the compiler automatically manages data placement between CPU and GPU memory based on usage patterns.</p><p><img src="https://data.embeddedcomputing.com/uploads/resize/1256/756/external/data.embeddedcomputing.com/uploads/articles/wp/345439017/54176dc2ec16c-Vivante-Sept-Fig1.jpg" /></p><hr/><small>3 Oct 2026, 02:08 UTC | #23130</small>]]></content>
+  </entry>
   <entry>
     <title>Malicious Git Post-Checkout Hook Used in Social Engineering Attack</title>
     <link href="https://frankwiles.com/posts/i-got-targeted/" rel="alternate" />
@@ -810,14 +819,5 @@
     <updated>2026-09-28T03:55:00+00:00</updated>
     <media:thumbnail url="https://appscross.com/wp-content/uploads/2024/05/torc.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/">david.alvarezrosa.com</a> | <a href="https://news.ycombinator.com/item?id=49870295">hacker news</a></small></p><hr/><p>Hosting a website as a Tor hidden service provides access via a .onion address, which relies on public-key derivation rather than DNS or exposed IP addresses. Configuration involves mapping a hidden service to a local port in the torrc file and setting up an Nginx server block to listen on that port.</p><p>To ensure absolute links function correctly, a secondary site build is required where the .onion address serves as the base URL. An automated pipeline can manage this by building both the clearnet and Tor versions of the site and rsyncing them to their respective web roots.</p><p><img src="https://appscross.com/wp-content/uploads/2024/05/torc.png" /></p><hr/><small>28 Sep 2026, 08:18 UTC | #22535</small>]]></content>
-  </entry>
-  <entry>
-    <title>Replacing the Battery in Old Rechargeable Bike Lights</title>
-    <link href="https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/" rel="alternate" />
-    <id>https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/::v239</id>
-    <published>2026-09-28T02:10:00+00:00</published>
-    <updated>2026-09-28T02:10:00+00:00</updated>
-    <media:thumbnail url="https://jvns.ca/images/pcb.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/">jvns.ca</a> | <a href="https://news.ycombinator.com/item?id=49866515">hacker news</a></small></p><hr/><p>A pair of ten-year-old rechargeable bike lights were restored by replacing their depleted lithium-ion batteries. The repair involved opening the silicone housing, desoldering components at a makerspace, and installing new LIR2477 button cells.</p><p>The project cost approximately $20 CAD for replacement batteries and silicone glue. An LLM was used to identify the correct battery model, and the final assembly required manual gluing and clamping.</p><p><img src="https://jvns.ca/images/pcb.png" /></p><hr/><small>28 Sep 2026, 05:24 UTC | #22530</small>]]></content>
   </entry>
 </feed>
