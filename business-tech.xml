@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-02T19:16:00+00:00</updated>
+  <updated>2026-10-02T21:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>SpaceX's AI Unit Discusses Leasing Computing Capacity to Microsoft</title>
+    <link href="https://www.theinformation.com/articles/spacexs-ai-unit-turned-ai-cloud-firm" rel="alternate" />
+    <id>https://www.theinformation.com/articles/spacexs-ai-unit-turned-ai-cloud-firm::v239</id>
+    <published>2026-10-02T21:12:00+00:00</published>
+    <updated>2026-10-02T21:12:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/spacexs-ai-unit-turned-ai-cloud-firm">theinformation.com</a></small></p><hr/><p>Discussions held over the summer regarding the sale of computing capacity to Microsoft signal a pivot into the "neocloud" business. The unit aims to provide specialized infrastructure to satisfy the massive resource demands of large-scale AI developers.</p><p>This transition follows initial reluctance from Elon Musk regarding the cloud-leasing model. Other major industry players, including Google and Anthropic, have also sought the unit's computing power to address tightening hardware supply.</p><hr/><small>3 Oct 2026, 00:49 UTC | #23095</small>]]></content>
+  </entry>
   <entry>
     <title>IBM Integrates Red Hat Brand and Workforce</title>
     <link href="https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml" rel="alternate" />
