@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-03T16:35:00+00:00</updated>
+  <updated>2026-10-03T16:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>LLMs Enable a New Era of Programming Language Exploration</title>
+    <link href="https://kirancodes.me/posts/log-end-of-pl.html" rel="alternate" />
+    <id>https://kirancodes.me/posts/log-end-of-pl.html::v239</id>
+    <published>2026-10-03T16:38:00+00:00</published>
+    <updated>2026-10-03T16:38:00+00:00</updated>
+    <media:thumbnail url="https://dl.acm.org/cms/10.1145/3788731.3788734/asset/3af80a75-62c8-4c26-a9fe-ef4734d90f67/assets/images/large/image1.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kirancodes.me/posts/log-end-of-pl.html">kirancodes.me</a> | <a href="https://lobste.rs/s/1rmsib/era_programming_languages_exploration">discussion</a></small></p><hr/><p>Large Language Models (LLMs) are poised to catalyze a new era of programming language (PL) exploration rather than rendering the field obsolete. This shift involves leveraging AI to automate tedious research tasks, including formal verification, semantic generation, and the testing of theoretical counterfactuals, moving the field away from purely human-centric code production.</p><p>This capability enables high-velocity iteration on language constructs, type systems, and formal semantics. By automating the "craft" of manual implementation, researchers can tackle complex problems, such as verifying program behavior at the binary level, at a pace previously impossible for human-driven processes.</p><p><img src="https://dl.acm.org/cms/10.1145/3788731.3788734/asset/3af80a75-62c8-4c26-a9fe-ef4734d90f67/assets/images/large/image1.jpg" /></p><hr/><small>3 Oct 2026, 23:15 UTC | #23185</small>]]></content>
+  </entry>
   <entry>
     <title>Implementation and Architecture of the Cyclone Scheme Compiler</title>
     <link href="https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017" rel="alternate" />
