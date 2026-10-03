@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-03T02:44:00+00:00</updated>
+  <updated>2026-10-03T05:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>TSMC Explores Texas Expansion and Potential Partnership with Elon Musk's Terafab</title>
+    <link href="https://www.culpium.com/p/exclusive-tsmc-exploring-plans-to" rel="alternate" />
+    <id>https://www.culpium.com/p/exclusive-tsmc-exploring-plans-to::v239</id>
+    <published>2026-10-03T05:31:00+00:00</published>
+    <updated>2026-10-03T05:31:00+00:00</updated>
+    <media:thumbnail url="https://mobitekno.com/wp-content/uploads/2026/03/Terafab-02.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.culpium.com/p/exclusive-tsmc-exploring-plans-to">culpium.com</a></small></p><hr/><p>TSMC is evaluating a manufacturing presence in Texas, potentially partnering with Elon Musk's Terafab project. The chip venture could serve as an anchor client for a new semiconductor facility in the state.</p><p>This expansion would complement the company's existing manufacturing investments in Arizona. The move would increase TSMC's production footprint within the United States.</p><p><img src="https://mobitekno.com/wp-content/uploads/2026/03/Terafab-02.webp" /></p><hr/><small>3 Oct 2026, 12:46 UTC | #23138</small>]]></content>
+  </entry>
   <entry>
     <title>Federal Judge Rules Flock ALPR Search Constitutes Unconstitutional Mass Surveillance</title>
     <link href="https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/" rel="alternate" />
