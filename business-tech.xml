@@ -7,6 +7,22 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Amazon Web Services Discontinues Use of NDAs for Data Center Projects with Government Agencies</title>
+    <link href="https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/::v239</id>
+    <published>2026-10-03T18:44:00+00:00</published>
+    <updated>2026-10-03T18:44:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/">techcrunch.com</a> | <a href="https://www.aboutamazon.com/news/company-news/amazon-data-centers-built-together">source</a></small></p><hr/><p>Amazon Web Services (AWS) has announced that it will no longer use nondisclosure agreements (NDAs) in its dealings with government agencies regarding data center development projects. The decision is intended to increase transparency and combat growing political and community backlash against the construction of data centers in the United States.</p><p>The move addresses concerns regarding the environmental and infrastructural impact of data centers, specifically related to water usage, electricity rates, and carbon emissions. To foster community relations, Amazon reported that it has contributed more than $1 billion to the areas where it maintains a significant data center presence over the past three years.</p><hr/><small>3 Oct 2026, 23:49 UTC | #23175</small>]]></content>
+  </entry>
+  <entry>
+    <title>Kagi to Open-Source Orion for Linux and Windows</title>
+    <link href="https://blog.kagi.com/update-orion-linux-windows" rel="alternate" />
+    <id>https://blog.kagi.com/update-orion-linux-windows::v239</id>
+    <published>2026-10-03T18:09:00+00:00</published>
+    <updated>2026-10-03T18:09:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.kagi.com/update-orion-linux-windows">blog.kagi.com</a> | <a href="https://lobste.rs/s/xruas8/update_on_orion_for_linux_windows">discussion</a> | <a href="https://news.ycombinator.com/item?id=49941447">hacker news</a></small></p><hr/><p>Kagi is ending direct development of the Orion browser for Linux and Windows to focus resources on Orion for macOS and iOS. The company will open-source the code for both the Linux and Windows versions to enable community-led maintenance and long-term stewardship.</p><p>Linux Beta users will stop receiving updates from Kagi after October 2, 2026. The planned late-2026 launch of Orion for Windows will no longer be an official Kagi product, but the codebase will be released for community-driven development.</p><hr/><small>3 Oct 2026, 23:47 UTC | #23188</small>]]></content>
+  </entry>
+  <entry>
     <title>YouTube Prioritizes Original Content in Shorts Recommendations</title>
     <link href="https://9to5google.com/2026/10/02/youtube-wont-recommend-unoriginal-shorts/" rel="alternate" />
     <id>https://9to5google.com/2026/10/02/youtube-wont-recommend-unoriginal-shorts/::v239</id>
