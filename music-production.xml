@@ -769,22 +769,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/squeeze-gui.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/a2d-sound-releases-squeeze---single-engine-replacement-for-the-processing-chain-vst3-and-au-68768?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68768">kvraudio.com</a> | <a href="https://www.a2dsound.com/squeeze">source</a></small></p><hr/><p>Squeeze is a VST3 and AU plugin that integrates saturation, compression, EQ, clipping, limiting, transient shaping, and width into a single engine. The tool uses a "Learn" function to analyze source material and automatically builds a processing chain in one phase-coherent pass.</p><p>Available for macOS and Windows, the plugin provides 27 source types and three pre-calibrated configurations: Clean, Warm, and Aggressive. It utilizes deterministic crest-factor and dynamics-based analysis instead of AI and is intended for signal enhancement rather than resonance removal. The plugin is currently priced at $49.</p><p><img src="https://static.kvraudio.com/i/b/squeeze-gui.jpg" /></p><hr/><small>28 Sep 2026, 12:15 UTC | #22568</small>]]></content>
   </entry>
-  <entry>
-    <title>sonicLAB Updates PolyNodes to v2.3</title>
-    <link href="https://www.kvraudio.com/news/soniclab-updates-polynodes-to-v2-3-68775?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68775" rel="alternate" />
-    <id>https://www.kvraudio.com/news/soniclab-updates-polynodes-to-v2-3-68775?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68775::v239</id>
-    <published>2026-09-28T05:03:00+00:00</published>
-    <updated>2026-09-28T05:03:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/polynodesv23.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/soniclab-updates-polynodes-to-v2-3-68775?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68775">kvraudio.com</a> | <a href="https://www.sonic-lab.com/polynodes">source</a></small></p><hr/><p>sonicLAB has released version 2.3 of its PolyNodes generative audio synthesis platform and PolyNodesRemote DAW plugin. The update introduces direct audio routing from PolyNodes to the PolyNodesRemote plugin and into host DAW tracks.</p><p>This version improves the workflow between the standalone application and the DAW by allowing parameter automation and audio signals to be managed from a single interface. Additionally, a new DAW Sync switch enables control of transport functions, such as start, stop, and playhead position, directly from the DAW.</p><p><img src="https://static.kvraudio.com/i/b/polynodesv23.jpg" /></p><hr/><small>28 Sep 2026, 10:33 UTC | #22556</small>]]></content>
-  </entry>
-  <entry>
-    <title>Beehives &amp; Blood Updates 1SHOT Plugin to v1.1.0</title>
-    <link href="https://www.kvraudio.com/news/beehives-and-blood-updates-1shot-to-v1-1-0-vst3-au-68769?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68769" rel="alternate" />
-    <id>https://www.kvraudio.com/news/beehives-and-blood-updates-1shot-to-v1-1-0-vst3-au-68769?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68769::v239</id>
-    <published>2026-09-28T05:00:00+00:00</published>
-    <updated>2026-09-28T05:00:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/beehivesandblood_1shot_v1-1-0_interface.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/beehives-and-blood-updates-1shot-to-v1-1-0-vst3-au-68769?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68769">kvraudio.com</a> | <a href="https://beehivesandblood.com/">source</a></small></p><hr/><p>Beehives &amp; Blood has released version 1.1.0 of its 1SHOT sample layering instrument. This update introduces "WHIP," a fifth sample slot that plays audio in reverse, expanding the plugin's original four-slot architecture.</p><p>Version 1.1.0 also includes custom file naming for exports, additional export options, and a more efficient workflow. The plugin is available for macOS and Windows in VST3 and AU formats.</p><p><img src="https://static.kvraudio.com/i/b/beehivesandblood_1shot_v1-1-0_interface.jpg" /></p><hr/><small>28 Sep 2026, 10:12 UTC | #22548</small>]]></content>
-  </entry>
 </feed>
