@@ -3,9 +3,17 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-03T09:34:00+00:00</updated>
+  <updated>2026-10-03T09:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Polarity - MEQ Spectral Matching Plugin Released</title>
+    <link href="https://bedroomproducersblog.com/2026/10/03/polarity-meq-dynamic/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/03/polarity-meq-dynamic/::v239</id>
+    <published>2026-10-03T09:40:00+00:00</published>
+    <updated>2026-10-03T09:40:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/03/polarity-meq-dynamic/">bedroomproducersblog.com</a> | <a href="https://polarity.productions/polarity-meq/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/03/polarity-meq-dynamic/#respond">discussion</a></small></p><hr/><p>This free spectral matching equalizer for macOS, Windows, and Linux aligns the tone, dynamics, and width of a target signal to a reference. It features Mid/Side spectral matching and allows users to export EQ curves for use in Bitwig Convolution.</p><p>Available in VST3, CLAP, and LV2 formats as well as a standalone application, the tool is designed for spectral carving and achieving tonal consistency through dynamic processing.</p><hr/><small>3 Oct 2026, 14:52 UTC | #23149</small>]]></content>
+  </entry>
   <entry>
     <title>Soundins Releases PhaXer Free Stereo Phase Correction Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/10/03/soundins-phaxer-free/" rel="alternate" />
