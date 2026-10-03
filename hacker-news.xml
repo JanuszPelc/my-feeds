@@ -883,12 +883,4 @@
     <updated>2026-09-28T17:57:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.guillaume-gomez.fr/articles/2026-09-22+Syncing+Rust+GCC+backend+or+how+to+test+Murphy%27s+law">blog.guillaume-gomez.fr</a> | <a href="https://lobste.rs/s/hy7ckt/syncing_rust_gcc_backend_how_test_murphy_s">discussion</a></small></p><hr/><p>The article chronicles the technical difficulties encountered during a two-month effort to synchronize the `rustc_codegen_gcc` repository with the main Rust compiler repository. Using the `git subtree` method, the author navigated multiple obstacles, including licensing conflicts, CI infrastructure errors, package dependency mismatches, and CI caching bugs.</p><p>While the process was complex, the effort resulted in improvements to Rust's CI infrastructure and the discovery of several underlying system bugs. These complications have prompted plans to migrate from `git subtree` to a different synchronization tool.</p><hr/><small>28 Sep 2026, 19:34 UTC | #22621</small>]]></content>
   </entry>
-  <entry>
-    <title>Windows 11½ Parody Site Mocks Modern Software Trends</title>
-    <link href="https://definitelynotwindows.com/" rel="alternate" />
-    <id>https://definitelynotwindows.com/::v239</id>
-    <published>2026-09-28T17:52:00+00:00</published>
-    <updated>2026-09-28T17:52:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://definitelynotwindows.com/">definitelynotwindows.com</a> | <a href="https://news.ycombinator.com/item?id=49881747">hacker news</a></small></p><hr/><p>Windows 11½ is a parody website that simulates an operating system to satirize modern software trends, including subscription models, AI integration, intrusive advertisements, and storage notifications. It is a non-functional experience designed for humor and commentary.</p><p>The project is an independent creation with no affiliation to Microsoft Corporation. It uses browser storage to track site engagement via an anonymous visitor counter.</p><hr/><small>28 Sep 2026, 19:15 UTC | #22628</small>]]></content>
-  </entry>
 </feed>
