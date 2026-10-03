@@ -811,12 +811,4 @@
     <media:thumbnail url="https://hugoarnal.com/blog/rickroll-pharmacy-cross/pharmacy-cross.gif" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hugoarnal.com/blog/rickroll-pharmacy-cross/">hugoarnal.com</a> | <a href="https://lobste.rs/s/6p91by/rickrolling_with_pharmacy_cross">discussion</a></small></p><hr/><p>A developer has created a video player for pharmacy LED crosses by reverse-engineering the hardware and utilizing a custom C++ library. The system uses FFmpeg to extract video frames, which are then converted into 24x24 monochrome bitmaps via a Python script for transmission to the LED display.</p><p>The project was developed during a hackathon at Epitech Lyon, inspired by a previous reverse-engineering video by French YouTuber Sylvqin. The software is currently used as a permanent digital display at the Epitech Lyon Hub.</p><p><img src="https://hugoarnal.com/blog/rickroll-pharmacy-cross/pharmacy-cross.gif" /></p><hr/><small>28 Sep 2026, 12:28 UTC | #22565</small>]]></content>
   </entry>
-  <entry>
-    <title>Fakecloud Provides Open-Source Local AWS Emulator for Integration Testing</title>
-    <link href="https://fakecloud.dev/" rel="alternate" />
-    <id>https://fakecloud.dev/::v239</id>
-    <published>2026-09-28T05:12:00+00:00</published>
-    <updated>2026-09-28T05:12:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fakecloud.dev/">fakecloud.dev</a> | <a href="https://news.ycombinator.com/item?id=49856885">hacker news</a></small></p><hr/><p>Fakecloud is a local AWS cloud emulator designed for integration testing and development. It supports 105 AWS services and over 7,500 operations, claiming 100% conformance to Smithy models. The tool runs as a single binary or Docker image and does not require an AWS account, authentication tokens, or a paid subscription to access core functionalities.</p><p>Unlike LocalStack Community, fakecloud provides first-party SDKs in TypeScript, Python, Go, PHP, Java, and Rust to allow developers to inspect service states and manage asynchronous behaviors during tests. The tool is designed for a low-footprint, zero-friction local workflow, supporting complex cross-service interactions without requiring an internet connection.</p><hr/><small>28 Sep 2026, 12:07 UTC | #22564</small>]]></content>
-  </entry>
 </feed>
