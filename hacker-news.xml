@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-03T09:44:00+00:00</updated>
+  <updated>2026-10-03T09:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>JetBrains Introduces JetBrains Air for Agentic Software Development</title>
+    <link href="https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/" rel="alternate" />
+    <id>https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/::v239</id>
+    <published>2026-10-03T09:46:00+00:00</published>
+    <updated>2026-10-03T09:46:00+00:00</updated>
+    <media:thumbnail url="https://shot.huntscreens.com/d9aee66e-9329-4a75-b9e9-b437a6f17d02.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/">blog.jetbrains.com</a> | <a href="https://lobste.rs/s/p1yw6k/jetbrains_air_building_system_products">discussion</a> | <a href="https://news.ycombinator.com/item?id=49799287">hacker news</a></small></p><hr/><p>JetBrains has introduced JetBrains Air, an open ecosystem of products designed to manage agentic software development across individual, team, and organizational levels. The system features tools for orchestrating agents within JetBrains IDEs, coordinating collaborative workflows via Air Teams, and providing organizational oversight through Air Governance. By leveraging the Agent Client Protocol (ACP), the platform supports a multi-vendor environment that integrates various AI models and agents alongside JetBrains' own coding agent, Junie.</p><p>The initiative targets the infrastructure gap created by rapid AI adoption, where organizations struggle with fragmented context, rising verification costs, and the need for clear accountability. JetBrains Air seeks to provide the necessary governance and shared context to manage the shift from simple code generation to the more complex task of verifying and owning agent-produced software.</p><p><img src="https://shot.huntscreens.com/d9aee66e-9329-4a75-b9e9-b437a6f17d02.webp" /></p><hr/><small>3 Oct 2026, 16:02 UTC | #23163</small>]]></content>
+  </entry>
   <entry>
     <title>Rust for CPython Project Integration Roadmap</title>
     <link href="https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/" rel="alternate" />
