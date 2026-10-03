@@ -3,7 +3,7 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-03T14:11:00+00:00</updated>
+  <updated>2026-10-03T21:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
@@ -80,9 +80,9 @@
     <link href="https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10" rel="alternate" />
     <id>https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10::v239</id>
     <published>2026-10-03T00:53:00+00:00</published>
-    <updated>2026-10-03T00:53:00+00:00</updated>
+    <updated>2026-10-03T21:48:00+00:00</updated>
     <media:thumbnail url="https://i.insider.com/6ac034faeb7225411267de13?width=700" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10">businessinsider.com</a></small></p><hr/><p>David Robinson, a leader on OpenAI's Safety Systems team, has resigned from the company. Robinson previously led policy planning and contributed to safety transparency efforts, including the development of system cards that provide information about AI models.</p><p>His departure occurs amid ongoing scrutiny of OpenAI's safety practices and staffing. The company recently dismissed three researchers for violating policies regarding the handling of sensitive information, and safety head Johannes Heidecke left the company earlier this year.</p><p><img src="https://i.insider.com/6ac034faeb7225411267de13?width=700" /></p><hr/><small>3 Oct 2026, 06:57 UTC | #23124</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/safety-leader-david-robinson-resigns-from-openai-2026-10">businessinsider.com</a> | <a href="https://news.ycombinator.com/item?id=49944227">hacker news</a></small></p><hr/><p>David Robinson, a leader on OpenAI's Safety Systems team, has resigned from the company. Robinson previously led policy planning and contributed to safety transparency efforts, including the development of system cards that provide information about AI models.</p><p>His departure occurs amid ongoing scrutiny of OpenAI's safety practices and staffing. The company recently dismissed three researchers for violating policies regarding the handling of sensitive information, and safety head Johannes Heidecke left the company earlier this year.</p><p><img src="https://i.insider.com/6ac034faeb7225411267de13?width=700" /></p><hr/><small>3 Oct 2026, 06:57 UTC | #23124</small>]]></content>
   </entry>
   <entry>
     <title>Amazon to Stop Using Nondisclosure Agreements for Data Center Projects</title>
