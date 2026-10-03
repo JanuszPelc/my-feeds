@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-03T10:44:00+00:00</updated>
+  <updated>2026-10-03T14:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>AI Agents Now Available Through Text Messaging</title>
+    <link href="https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/::v239</id>
+    <published>2026-10-03T14:01:00+00:00</published>
+    <updated>2026-10-03T14:01:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/CaddyAI.png?w=507" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/">techcrunch.com</a></small></p><hr/><p>AI agents are increasingly being integrated into messaging platforms like iMessage, WhatsApp, and SMS, allowing users to execute tasks without downloading separate applications. These assistants can access calendars, emails, and other services to manage schedules, conduct research, and perform various errands.</p><p>Available options range from general-purpose assistants to niche services for family management, travel, and professional workflows. Some advanced agents are now utilizing dedicated phone numbers and email addresses to handle autonomous communications on a user's behalf.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/CaddyAI.png?w=507" /></p><hr/><small>3 Oct 2026, 19:05 UTC | #23160</small>]]></content>
+  </entry>
   <entry>
     <title>Aleph Alpha Releases Kolibri Open-Weight MoE Model</title>
     <link href="https://tej.as/blog/aleph-alpha-kolibri" rel="alternate" />
