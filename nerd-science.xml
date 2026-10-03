@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-03T02:45:00+00:00</updated>
+  <updated>2026-10-03T02:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>An Anecdote on Accelerometer Debugging and the Dunning-Kruger Effect</title>
+    <link href="https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect" rel="alternate" />
+    <id>https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect::v239</id>
+    <published>2026-10-03T02:47:00+00:00</published>
+    <updated>2026-10-03T02:47:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://write.as/tmcb/thrust-vs-steer-or-yet-another-anecdotal-case-of-the-dunning-kruger-effect">write.as</a> | <a href="https://lobste.rs/s/kp2tg8/thrust_vs_steer_yet_another_anecdotal">discussion</a></small></p><hr/><p>The author describes a 14-hour troubleshooting error involving an accelerometer's orientation mapping. After using an LLM to validate a sensor orientation issue and applying a software patch, the author's test results were successful, only for the author to later realize the error was due to flawed testing methodology rather than a hardware fault.</p><p>The narrative illustrates the Dunning-Kruger effect, highlighting how overconfidence in technical problem-solving can lead to significant wasted effort. The account emphasizes the necessity of accounting for specific sequence-of-events requirements when validating sensor data in complex applications.</p><hr/><small>3 Oct 2026, 10:28 UTC | #23148</small>]]></content>
+  </entry>
   <entry>
     <title>Loss of Cell Identity Model Proposed as Driver of Aging</title>
     <link href="https://erictopol.substack.com/p/loss-of-cell-identity-drives-human" rel="alternate" />
