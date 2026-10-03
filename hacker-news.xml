@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-02T22:33:00+00:00</updated>
+  <updated>2026-10-02T22:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Confirms iPhone 18 Pro Max Cellular Failures on AT&amp;T</title>
+    <link href="https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/" rel="alternate" />
+    <id>https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/::v239</id>
+    <published>2026-10-02T22:35:00+00:00</published>
+    <updated>2026-10-02T22:35:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/">9to5mac.com</a></small></p><hr/><p>Apple has confirmed that a small number of iPhone 18 Pro Max devices on the AT&amp;T network are experiencing cellular service failures. While a software update is being released to address the issue, devices that have already lost service will require hardware replacement.</p><p>The connectivity issues impact calls, text messaging, and data, though Wi-Fi functionality remains unaffected. While AT&amp;T has recommended an update to iOS 27.0.1, some users report that the software update may not resolve the problem for all affected devices.</p><hr/><small>3 Oct 2026, 04:43 UTC | #23117</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Launches Muse Gadgets Open-Source Project and Muse Home Link</title>
     <link href="https://www.engadget.com/2276312/meta-muse-gadgets-open-source-smart-home-link/" rel="alternate" />
@@ -819,14 +827,5 @@
     <updated>2026-09-28T05:02:00+00:00</updated>
     <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQGV70FPKRKpQA/feedshare-shrink_800/B56Z1HLrSMJIAc-/0/1775015736991?e=2147483647&amp;v=beta&amp;t=ianBGa5k1mJG7I0gvLg7cWuxGEfpLN6cPLSkb7I6sFI" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/">bleepingcomputer.com</a> | <a href="https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697096">source</a></small></p><hr/><p>Citrix has confirmed that two critical remote code execution (RCE) vulnerabilities, CVE-2026-88771 and CVE-2026-88772, are being actively exploited in the wild. Affecting NetScaler ADC and NetScaler Gateway appliances, these flaws allow unauthenticated attackers to execute arbitrary commands or cause denial-of-service conditions. Both vulnerabilities carry a severity score of 9.5.</p><p>Security updates addressing these flaws, alongside six other vulnerabilities, are available via security bulletin CTX697096. The disclosure follows reports that national cybersecurity agencies and IT providers had been privately warning organizations about the zero-day exploits. Administrators are urged to upgrade affected appliances to prevent attackers from using these edge devices to gain access to internal networks.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQGV70FPKRKpQA/feedshare-shrink_800/B56Z1HLrSMJIAc-/0/1775015736991?e=2147483647&v=beta&t=ianBGa5k1mJG7I0gvLg7cWuxGEfpLN6cPLSkb7I6sFI" /></p><hr/><small>28 Sep 2026, 10:29 UTC | #22526</small>]]></content>
-  </entry>
-  <entry>
-    <title>Lisp Syntax and the Cognitive Basis of Readability</title>
-    <link href="https://paultm.nl/paren-thesis" rel="alternate" />
-    <id>https://paultm.nl/paren-thesis::v239</id>
-    <published>2026-09-28T04:45:00+00:00</published>
-    <updated>2026-09-28T04:45:00+00:00</updated>
-    <media:thumbnail url="https://www.cadtutor.net/tutorials/autolisp/quick_start/qs-101.gif" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://paultm.nl/paren-thesis">paultm.nl</a> | <a href="https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read">discussion</a></small></p><hr/><p>Lisp's parenthesis-heavy notation is often perceived as more difficult to read than C-style languages due to fundamental aspects of human perception. The author argues that this challenge is rooted in cognitive processes rather than just a lack of familiarity with the syntax.</p><p>The text applies Gestalt laws—specifically proximity, closure, and symmetry—to demonstrate how delimiter placement and spacing affect visual grouping and scanning efficiency. It also details how deep nesting taxes the "mental stack" of short-term memory and how mismatches between reading order and evaluation order increase cognitive load.</p><p><img src="https://www.cadtutor.net/tutorials/autolisp/quick_start/qs-101.gif" /></p><hr/><small>28 Sep 2026, 08:37 UTC | #22537</small>]]></content>
   </entry>
 </feed>

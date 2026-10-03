@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-02T22:28:00+00:00</updated>
+  <updated>2026-10-02T22:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>AI Models Simulate Oil Painting Using Code and Physics-Based Simulations</title>
+    <link href="https://stillwet.art/" rel="alternate" />
+    <id>https://stillwet.art/::v239</id>
+    <published>2026-10-02T22:36:00+00:00</published>
+    <updated>2026-10-02T22:36:00+00:00</updated>
+    <media:thumbnail url="https://stillwet.art/img/r16-b3-mid.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://stillwet.art/">stillwet.art</a> | <a href="https://news.ycombinator.com/item?id=49928566">hacker news</a></small></p><hr/><p>The Stillwet project explores AI agents acting as painters within a physics-based simulation of oil paint on linen. Rather than using generative image models, these agents write code to interact with virtual tools, including bristle brushes, wet paint, and layered glazes.</p><p>The experiments involve models such as Claude and Gemini attempting to emulate the styles of artists like Edward Hopper and Caspar David Friedrich. Observations include emergent behaviors such as a recurring preference for "dusk" lighting and instances where different models independently produced similar compositions.</p><p><img src="https://stillwet.art/img/r16-b3-mid.jpg" /></p><hr/><small>3 Oct 2026, 04:47 UTC | #23134</small>]]></content>
+  </entry>
   <entry>
     <title>Nerial to Enter 'Hibernation Mode' and Lay Off Staff</title>
     <link href="https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers" rel="alternate" />
