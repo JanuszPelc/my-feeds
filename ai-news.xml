@@ -594,12 +594,4 @@
     <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2025/09/gem-sharing-gemini.jpg?w=680" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/">techcrunch.com</a></small></p><hr/><p>Starting November 17, 2026, Google will automatically migrate existing user-created "Gems"—custom AI assistants—into a new "Skills" format. This transition is intended to allow these assistants to be used across various AI tasks rather than being restricted to standalone, specialized sessions.</p><p>Users will trigger these skills by entering a forward slash (/) command within a task thread. This shift toward integrated capabilities reflects a broader industry trend moving away from separate, customized chatbot personas and toward all-in-one AI agents.</p><p><img src="https://techcrunch.com/wp-content/uploads/2025/09/gem-sharing-gemini.jpg?w=680" /></p><hr/><small>28 Sep 2026, 22:46 UTC | #22622</small>]]></content>
   </entry>
-  <entry>
-    <title>Glyph Lefkowitz Proposes Design Improvements for Serious AI Products</title>
-    <link href="https://blog.glyph.im/2026/09/serious-ai-product.html" rel="alternate" />
-    <id>https://blog.glyph.im/2026/09/serious-ai-product.html::v239</id>
-    <published>2026-09-28T18:14:00+00:00</published>
-    <updated>2026-09-28T18:14:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.glyph.im/2026/09/serious-ai-product.html">blog.glyph.im</a> | <a href="https://lobste.rs/s/q2rymh/what_would_serious_ai_product_look_like">discussion</a> | <a href="https://news.ycombinator.com/item?id=49876148">hacker news</a></small></p><hr/><p>Current AI chatbot interfaces fail to address the inherent unreliability of Large Language Models (LLMs). Most existing products treat errors as legal liabilities to be disclosed in disclaimers rather than technical hurdles to be solved via the user interface, which encourages users to skip critical verification steps.</p><p>Serious AI tools for research and development require features such as mandatory claim-verification workflows, the prioritization of raw citations over summarized text, the removal of conversational apologies, and increased transparency regarding context window usage and model reproducibility.</p><hr/><small>28 Sep 2026, 21:24 UTC | #22630</small>]]></content>
-  </entry>
 </feed>
