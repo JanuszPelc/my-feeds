@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>YouTube Prioritizes Original Content in Shorts Recommendations</title>
+    <link href="https://9to5google.com/2026/10/02/youtube-wont-recommend-unoriginal-shorts/" rel="alternate" />
+    <id>https://9to5google.com/2026/10/02/youtube-wont-recommend-unoriginal-shorts/::v239</id>
+    <published>2026-10-03T16:36:00+00:00</published>
+    <updated>2026-10-03T16:36:00+00:00</updated>
+    <media:thumbnail url="https://metricool.com/wp-content/uploads/to-plan-a-youtube-short.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5google.com/2026/10/02/youtube-wont-recommend-unoriginal-shorts/">9to5google.com</a> | <a href="https://support.google.com/youtube/blog/470890423/prioritizing-original-content-on-shorts?hl=en">source</a></small></p><hr/><p>YouTube is updating its Shorts recommendation system to prioritize original content and reduce the reach of videos re-uploaded from other creators without significant modification. The change is intended to curb "clipper" accounts that capture views by simply cutting portions of long-form videos or stealing content from established channels.</p><p>While the policy targets blatant content theft, the exact technical threshold for what constitutes "adding value" remains undefined. It is also unclear how this update will affect YouTube's own AI-powered remixing tools, which allow users to repurpose content from other channels.</p><p><img src="https://metricool.com/wp-content/uploads/to-plan-a-youtube-short.jpg" /></p><hr/><small>3 Oct 2026, 23:00 UTC | #23164</small>]]></content>
+  </entry>
+  <entry>
     <title>Nabu Casa Renames Home Assistant Cloud to Home Assistant Link</title>
     <link href="https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/" rel="alternate" />
     <id>https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/::v239</id>
