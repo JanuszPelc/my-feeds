@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-03T13:39:00+00:00</updated>
+  <updated>2026-10-03T14:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Harvard's Nuclear Proximity Methodology Critiqued for Linking Proximity to Cancer Mortality</title>
+    <link href="https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer" rel="alternate" />
+    <id>https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer::v239</id>
+    <published>2026-10-03T14:12:00+00:00</published>
+    <updated>2026-10-03T14:12:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer">breakthroughjournal.org</a> | <a href="https://news.ycombinator.com/item?id=49940219">hacker news</a></small></p><hr/><p>Authors Deric Tilson and Adam Stein argue that recent research from the Harvard T.H. Chan School of Public Health uses a flawed "proximity score" methodology that incorrectly links living near nuclear power plants to increased cancer mortality. Replicating the analysis shows that the approach assigns cancer risks to various landmarks, including Costco warehouses and major league sports venues, based on geographic proximity rather than actual radiation exposure.</p><p>The methodology fails to distinguish between geographic proximity and actual radiation dose, noting that most residents near nuclear facilities receive no measurable radiation. Such approaches capture statistical noise and create false correlations, potentially leading to misguided public health narratives and policies.</p><hr/><small>3 Oct 2026, 21:35 UTC | #23181</small>]]></content>
+  </entry>
   <entry>
     <title>Social Reality in China</title>
     <link href="https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-03T14:08:00+00:00</updated>
+  <updated>2026-10-03T14:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nabu Casa Renames Home Assistant Cloud to Home Assistant Link</title>
+    <link href="https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/" rel="alternate" />
+    <id>https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/::v239</id>
+    <published>2026-10-03T14:11:00+00:00</published>
+    <updated>2026-10-03T14:11:00+00:00</updated>
+    <media:thumbnail url="https://www.home-assistant.io/images/blog/2026-10-big-tech-ruined-the-cloud-so-were-renaming-ours/art.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/">home-assistant.io</a> | <a href="https://news.ycombinator.com/item?id=49934228">hacker news</a></small></p><hr/><p>Nabu Casa is rebranding its subscription service, Home Assistant Cloud, to Home Assistant Link to emphasize privacy and the service's optional nature. The subscription provides features such as remote access, voice processing, and cloud backups while ensuring that core smart home functionality remains entirely local and operational without an internet connection.</p><p>The rebranding aims to distinguish the service from large-scale cloud providers that rely on data harvesting and service lock-in. Nabu Casa states that user data remains encrypted with user-held keys and that subscription profits primarily fund the Open Home Foundation to support the Home Assistant ecosystem. The name change is expected to be finalized in the December 2026.12 release.</p><p><img src="https://www.home-assistant.io/images/blog/2026-10-big-tech-ruined-the-cloud-so-were-renaming-ours/art.webp" /></p><hr/><small>3 Oct 2026, 21:31 UTC | #23180</small>]]></content>
+  </entry>
   <entry>
     <title>Supabase Acquires Turso to Support Agentic AI Infrastructure</title>
     <link href="https://supabase.com/blog/supabase-is-acquiring-turso" rel="alternate" />
