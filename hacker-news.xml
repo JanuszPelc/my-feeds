@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-03T09:46:00+00:00</updated>
+  <updated>2026-10-03T12:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Two-Stack Sliding-Window Aggregation Algorithm Explained</title>
+    <link href="https://orlp.net/blog/two-stack-sliding-window-aggregation/" rel="alternate" />
+    <id>https://orlp.net/blog/two-stack-sliding-window-aggregation/::v239</id>
+    <published>2026-10-03T12:40:00+00:00</published>
+    <updated>2026-10-03T12:40:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQG63u-kr3CzmQ/article-cover_image-shrink_720_1280/B56Zs63X06J4AU-/0/1766219154643?e=2147483647&amp;v=beta&amp;t=yikfq7BUSfUYdHJo4BTEhYqofoEqR3gUj8K_vX8619c" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://orlp.net/blog/two-stack-sliding-window-aggregation/">orlp.net</a> | <a href="https://lobste.rs/s/49glor/two_stack_sliding_window_aggregation">discussion</a></small></p><hr/><p>The article details a two-stack algorithm for performing sliding-window aggregation with associative operators that lack an inverse, such as minimum, maximum, or approximate unique counts. By maintaining two stacks—one for entering elements and another for cumulative aggregates of exiting elements—the algorithm achieves amortized O(1) time complexity for each operation.</p><p>This approach offers a simpler alternative to worst-case O(1) algorithms while providing significant benefits for floating-point arithmetic and data integrity. It prevents the indefinite propagation of NaN or infinity values by isolating their impact to specific windows and helps mitigate long-term floating-point error accumulation.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQG63u-kr3CzmQ/article-cover_image-shrink_720_1280/B56Zs63X06J4AU-/0/1766219154643?e=2147483647&v=beta&t=yikfq7BUSfUYdHJo4BTEhYqofoEqR3gUj8K_vX8619c" /></p><hr/><small>3 Oct 2026, 16:21 UTC | #23166</small>]]></content>
+  </entry>
   <entry>
     <title>JetBrains Introduces JetBrains Air for Agentic Software Development</title>
     <link href="https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/" rel="alternate" />
@@ -863,14 +872,5 @@
     <published>2026-09-28T17:52:00+00:00</published>
     <updated>2026-09-28T17:52:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://definitelynotwindows.com/">definitelynotwindows.com</a> | <a href="https://news.ycombinator.com/item?id=49881747">hacker news</a></small></p><hr/><p>Windows 11½ is a parody website that simulates an operating system to satirize modern software trends, including subscription models, AI integration, intrusive advertisements, and storage notifications. It is a non-functional experience designed for humor and commentary.</p><p>The project is an independent creation with no affiliation to Microsoft Corporation. It uses browser storage to track site engagement via an anonymous visitor counter.</p><hr/><small>28 Sep 2026, 19:15 UTC | #22628</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI-Driven Development and the Erosion of Engineering Knowledge</title>
-    <link href="https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/" rel="alternate" />
-    <id>https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/::v239</id>
-    <published>2026-09-28T16:12:00+00:00</published>
-    <updated>2026-09-28T16:12:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQGTJGeXxx4CWA/article-cover_image-shrink_720_1280/B56ZuVjrk1JEAI-/0/1767740720212?e=2147483647&amp;v=beta&amp;t=u2Jer2K8RmDoS8YvoVVoL2aaWrniRd8y9KPjP0lE4vQ" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/">ssp.sh</a> | <a href="https://news.ycombinator.com/item?id=49880312">hacker news</a></small></p><hr/><p>The increasing reliance on Large Language Models (LLMs) to generate software specifications, code, and tests is eroding the human understanding of system architecture and design intent. As development teams prioritize rapid deployment, there is a growing trend of using AI to produce outputs without the deep comprehension required to manage complex, integrated software systems.</p><p>This shift towards a "button-pushing" development model poses significant long-term risks to software maintainability. Without active human orchestration and a strong grasp of architectural fundamentals, the speed of AI-assisted coding is undermined by the increasing difficulty of debugging and managing systems that lack human-driven design intent.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQGTJGeXxx4CWA/article-cover_image-shrink_720_1280/B56ZuVjrk1JEAI-/0/1767740720212?e=2147483647&v=beta&t=u2Jer2K8RmDoS8YvoVVoL2aaWrniRd8y9KPjP0lE4vQ" /></p><hr/><small>28 Sep 2026, 17:36 UTC | #22615</small>]]></content>
   </entry>
 </feed>
