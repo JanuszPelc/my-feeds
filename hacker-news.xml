@@ -3,9 +3,25 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-03T02:51:00+00:00</updated>
+  <updated>2026-10-03T04:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Tracking List Reversal Order in OCaml via Types</title>
+    <link href="https://grim.cargocut.org/a/rev-list.html" rel="alternate" />
+    <id>https://grim.cargocut.org/a/rev-list.html::v239</id>
+    <published>2026-10-03T04:51:00+00:00</published>
+    <updated>2026-10-03T04:51:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://grim.cargocut.org/a/rev-list.html">grim.cargocut.org</a> | <a href="https://lobste.rs/s/eqemtu/lists_keep_track_their_reversal">discussion</a></small></p><hr/><p>OCaml types can be designed to track whether a list is in its original or reversed order, preventing errors caused by the common practice of prepending elements for performance and forgetting to call `List.rev`. These type-level invariants maintain the construction order of elements throughout various transformations.</p><p>Implementation strategies include a by-construction approach using Generalized Algebraic Data Types (GADTs) and a constraint-based approach using phantom types and polymorphic variants. The GADT approach provides strict enforcement via a custom API but incurs performance overhead through extra traversals, while the phantom type approach offers a lightweight method for tagging standard lists.</p><hr/><small>3 Oct 2026, 12:33 UTC | #23155</small>]]></content>
+  </entry>
+  <entry>
+    <title>Greg Kroah-Hartman Discusses LLM Impact on Linux Kernel Security</title>
+    <link href="https://www.youtube.com/watch?v=NnV_cWeoo5Q" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=NnV_cWeoo5Q::v239</id>
+    <published>2026-10-03T04:50:00+00:00</published>
+    <updated>2026-10-03T04:50:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.youtube.com/watch?v=NnV_cWeoo5Q">youtube.com</a> | <a href="https://news.ycombinator.com/item?id=49929391">hacker news</a></small></p><hr/><p>Recent claims regarding the ability of Large Language Models (LLMs) to uncover widespread Linux kernel vulnerabilities have been significantly overstated. While AI tools can identify legitimate security bugs, many identified issues are non-security bugs, duplicates of existing fixes, or previously resolved vulnerabilities.</p><p>The primary security concern is the shrinking window between vulnerability disclosure and active exploitation, compounded by the ability of LLMs to chain minor bugs into complex exploits. To mitigate these risks, developers are encouraged to adopt these tools for proactive bug discovery and to accelerate software patching and deployment cycles.</p><hr/><small>3 Oct 2026, 12:28 UTC | #23154</small>]]></content>
+  </entry>
   <entry>
     <title>Klassik Recreates KDE 3 Desktop Experience for Plasma 6</title>
     <link href="https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/" rel="alternate" />
