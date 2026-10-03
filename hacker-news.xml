@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-03T00:49:00+00:00</updated>
+  <updated>2026-10-03T02:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Google Donates gVisor Project to CNCF</title>
+    <link href="https://gvisor.dev/blog/2026/10/02/gvisor-cncf/" rel="alternate" />
+    <id>https://gvisor.dev/blog/2026/10/02/gvisor-cncf/::v239</id>
+    <published>2026-10-03T02:42:00+00:00</published>
+    <updated>2026-10-03T02:42:00+00:00</updated>
+    <media:thumbnail url="https://gvisor.dev/assets/images/2026-10-02-gvisor-cncf/cover.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://gvisor.dev/blog/2026/10/02/gvisor-cncf/">gvisor.dev</a> | <a href="https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf">discussion</a></small></p><hr/><p>Google is donating the gVisor sandboxed container runtime project, including its name and trademarks, to the Cloud Native Computing Foundation (CNCF). Following its acceptance by the CNCF, the project is transitioning into "Sandbox" status and is expected to move toward "Incubation" status as its governance model shifts to an organization-based voting system.</p><p>The move aims to increase adoption by resolving governance risks and enabling the upstreaming of performance-improving Linux kernel patches. Companies including Ant Group, Modal, and Tines have committed to the new maintainer model, while existing contributors like OpenAI, Tencent, and NVIDIA are expected to continue their ongoing contributions.</p><p><img src="https://gvisor.dev/assets/images/2026-10-02-gvisor-cncf/cover.jpeg" /></p><hr/><small>3 Oct 2026, 08:28 UTC | #23143</small>]]></content>
+  </entry>
   <entry>
     <title>SequenceHash and SequenceMAC Introduced for Secure Multihashing</title>
     <link href="https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/" rel="alternate" />
