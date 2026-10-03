@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-02T22:27:00+00:00</updated>
+  <updated>2026-10-03T02:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>DwarfStar 4 Enables Local Inference of Frontier AI Models</title>
+    <link href="https://dwarfstar.sh/" rel="alternate" />
+    <id>https://dwarfstar.sh/::v239</id>
+    <published>2026-10-03T02:50:00+00:00</published>
+    <updated>2026-10-03T02:50:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://dwarfstar.sh/">dwarfstar.sh</a> | <a href="https://news.ycombinator.com/item?id=49936575">hacker news</a></small></p><hr/><p>The engine supports large-scale frontier models—including DeepSeek V4 and V4.1, GLM 5.x, and Qwen3.8 Flash Next—on high-memory local hardware. It employs asymmetric 2-bit quantization to make massive mixture-of-experts (MoE) architectures compatible with Mac (Metal), CUDA, and ROCm-enabled systems.</p><p>Developed by Salvatore Sanfilippo, the tool provides a CLI, an OpenAI-compatible HTTP API, and a native agent for persistent sessions. It also features an SSD-backed KV cache that saves prompt prefixes to disk, allowing users to resume long-context tasks without re-computing the initial prompt.</p><hr/><small>3 Oct 2026, 11:19 UTC | #23151</small>]]></content>
+  </entry>
   <entry>
     <title>TypeSafe AI's Jev Model Achieves High Adoption and Throughput</title>
     <link href="https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d" rel="alternate" />
