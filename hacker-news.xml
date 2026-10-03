@@ -820,13 +820,4 @@
     <updated>2026-09-28T10:31:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://git.mills.io/prologic/parley">git.mills.io</a> | <a href="https://news.ycombinator.com/item?id=49875913">hacker news</a></small></p><hr/><p>This decentralized, federated chat network allows communication through standard IRC clients like irssi or WeeChat without requiring plugins. DNS SRV records and well-known identity documents facilitate instance discovery, enabling peers to exchange signed HTTPS messages and form an automatic mesh network.</p><p>Users are identified by email-style addresses, with support for both global, replicated channels and local, instance-only channels. Persistent, searchable chat history syncs across clients, and moderation is managed via blocklists rather than centralized channel ownership. The project is currently in a working proof-of-concept stage.</p><hr/><small>28 Sep 2026, 15:15 UTC | #22602</small>]]></content>
   </entry>
-  <entry>
-    <title>Video Player Developed for Pharmacy LED Cross</title>
-    <link href="https://hugoarnal.com/blog/rickroll-pharmacy-cross/" rel="alternate" />
-    <id>https://hugoarnal.com/blog/rickroll-pharmacy-cross/::v239</id>
-    <published>2026-09-28T07:53:00+00:00</published>
-    <updated>2026-09-28T07:53:00+00:00</updated>
-    <media:thumbnail url="https://hugoarnal.com/blog/rickroll-pharmacy-cross/pharmacy-cross.gif" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hugoarnal.com/blog/rickroll-pharmacy-cross/">hugoarnal.com</a> | <a href="https://lobste.rs/s/6p91by/rickrolling_with_pharmacy_cross">discussion</a></small></p><hr/><p>A developer has created a video player for pharmacy LED crosses by reverse-engineering the hardware and utilizing a custom C++ library. The system uses FFmpeg to extract video frames, which are then converted into 24x24 monochrome bitmaps via a Python script for transmission to the LED display.</p><p>The project was developed during a hackathon at Epitech Lyon, inspired by a previous reverse-engineering video by French YouTuber Sylvqin. The software is currently used as a permanent digital display at the Epitech Lyon Hub.</p><p><img src="https://hugoarnal.com/blog/rickroll-pharmacy-cross/pharmacy-cross.gif" /></p><hr/><small>28 Sep 2026, 12:28 UTC | #22565</small>]]></content>
-  </entry>
 </feed>
