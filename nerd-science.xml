@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-03T14:12:00+00:00</updated>
+  <updated>2026-10-03T16:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>AI's Impact on Technical Craft and Industry Purpose</title>
+    <link href="https://mondobe.com/ai-makes-me-sad" rel="alternate" />
+    <id>https://mondobe.com/ai-makes-me-sad::v239</id>
+    <published>2026-10-03T16:34:00+00:00</published>
+    <updated>2026-10-03T16:34:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mondobe.com/ai-makes-me-sad">mondobe.com</a> | <a href="https://news.ycombinator.com/item?id=49934487">hacker news</a></small></p><hr/><p>Rapid advancements in artificial intelligence are contributing to a loss of professional craft and a decoupling of industry growth from consumer utility. Many current "AI startups" face potential obsolescence through advanced prompting, and massive capital expenditure has yet to yield significant improvements in everyday software.</p><p>The proliferation of AI-generated content on social media and the erosion of human-centric digital spaces characterize the current digital landscape. A market correction or "bubble burst" may facilitate the rebuilding of more meaningful, human-centered technical institutions.</p><hr/><small>3 Oct 2026, 22:14 UTC | #23183</small>]]></content>
+  </entry>
   <entry>
     <title>Harvard's Nuclear Proximity Methodology Critiqued for Linking Proximity to Cancer Mortality</title>
     <link href="https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer" rel="alternate" />
