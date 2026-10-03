@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-03T05:31:00+00:00</updated>
+  <updated>2026-10-03T05:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nebius Acquires AI Startup Inferize</title>
+    <link href="https://www.calcalistech.com/ctechnews/article/byzggtiqgx" rel="alternate" />
+    <id>https://www.calcalistech.com/ctechnews/article/byzggtiqgx::v239</id>
+    <published>2026-10-03T05:46:00+00:00</published>
+    <updated>2026-10-03T05:46:00+00:00</updated>
+    <media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/01/Hyw01ai9Gg/Hyw01ai9Gg_0_0_1280_854_0_x-large.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.calcalistech.com/ctechnews/article/byzggtiqgx">calcalistech.com</a> | <a href="https://nebius.com/newsroom/nebius-acquires-inferize-to-strengthen-nebius-token-factorys-production-inference-stack">source</a></small></p><hr/><p>Nebius has completed the acquisition of the Israeli AI startup Inferize in a deal estimated to be worth between $100 million and $150 million. Founded by former Granulate executives, Inferize specializes in technology designed to reduce idle GPU capacity by aligning AI inference scaling more closely with fluctuating demand.</p><p>The acquisition aims to integrate Inferize's optimization tools into the Nebius Token Factory to mitigate inefficiencies like "cold starts" during model loading. This move is part of a strategic effort by Nebius to build a comprehensive software layer around its expanding AI cloud infrastructure.</p><p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/01/Hyw01ai9Gg/Hyw01ai9Gg_0_0_1280_854_0_x-large.jpg" /></p><hr/><small>3 Oct 2026, 12:57 UTC | #23140</small>]]></content>
+  </entry>
   <entry>
     <title>TSMC Explores Texas Expansion and Potential Partnership with Elon Musk's Terafab</title>
     <link href="https://www.culpium.com/p/exclusive-tsmc-exploring-plans-to" rel="alternate" />
