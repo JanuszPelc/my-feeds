@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-03T05:46:00+00:00</updated>
+  <updated>2026-10-03T13:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Chinese Fabs Acquired 343 DUVi Lithography Tools by Early 2026</title>
+    <link href="https://www.scmp.com/" rel="alternate" />
+    <id>https://www.scmp.com/::v239</id>
+    <published>2026-10-03T13:33:00+00:00</published>
+    <updated>2026-10-03T13:33:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.scmp.com/">scmp.com</a> | <a href="https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban">source</a> | <a href="https://news.ycombinator.com/item?id=49761840">hacker news</a></small></p><hr/><p>An estimated 343 immersion deep ultraviolet (DUVi) lithography tools were acquired by Chinese-owned fabrication plants by early 2026. According to a report by the Center for Technology &amp; Statecraft (CTS), approximately 270 of these machines are manufactured by ASML.</p><p>While DUVi technology is less advanced than extreme ultraviolet (EUV) systems, it can be adapted to manufacture 7-nanometer logic chips and High Bandwidth Memory (HBM) used in AI processors. This accumulation of lithography equipment has prompted recommendations for stricter or complete export bans on such technology.</p><hr/><small>3 Oct 2026, 16:56 UTC | #23146</small>]]></content>
+  </entry>
   <entry>
     <title>Nebius Acquires AI Startup Inferize</title>
     <link href="https://www.calcalistech.com/ctechnews/article/byzggtiqgx" rel="alternate" />
