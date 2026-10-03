@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-02T22:29:00+00:00</updated>
+  <updated>2026-10-02T22:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Meta Dismisses Employees Hired from Virtue AI</title>
+    <link href="https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai" rel="alternate" />
+    <id>https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai::v239</id>
+    <published>2026-10-02T22:32:00+00:00</published>
+    <updated>2026-10-02T22:32:00+00:00</updated>
+    <media:thumbnail url="https://altt.in/wp-content/uploads/2025/10/meta-ai-layoffs-strategy.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai">semafor.com</a></small></p><hr/><p>Meta is releasing employees it recruited from the AI safety startup Virtue AI, four months after they joined the company in June. Meta spokesperson Andy Stone cited clashing work styles for the decision.</p><p>The departures occur as Meta shapes its AI and AI safety strategy amid increased regulatory scrutiny in Washington. The departing group includes Virtue AI co-founders Bo Li, Dawn Song, and Sanmi Koyejo. Meta's Superintelligence Labs remains focused on AI safety, alignment, and frontier risk.</p><p><img src="https://altt.in/wp-content/uploads/2025/10/meta-ai-layoffs-strategy.jpeg" /></p><hr/><small>3 Oct 2026, 03:39 UTC | #23109</small>]]></content>
+  </entry>
   <entry>
     <title>US Army to Establish Autonomous Systems Command</title>
     <link href="https://www.axios.com/2026/10/02/army-autonomy-command-hegseth-agincourt" rel="alternate" />
