@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-03T14:03:00+00:00</updated>
+  <updated>2026-10-03T14:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Entravision Deploys AI Co-Host for Spanish-Language Radio Show</title>
+    <link href="https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back" rel="alternate" />
+    <id>https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back::v239</id>
+    <published>2026-10-03T14:05:00+00:00</published>
+    <updated>2026-10-03T14:05:00+00:00</updated>
+    <media:thumbnail url="https://ca-times.brightspotcdn.com/dims4/default/835f807/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa5%2F3b%2F6e227f1045baa4bc72e93c4f144b%2F1572286-fi-ai-dj-chatbot-07-mjc.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back">latimes.com</a> | <a href="https://www.businesswire.com/news/home/20260805035739/en/Entravision-Scales-Industry-First-AI-Latino-Radio-Show-GeeGee-Coyotec-into-5-New-Markets-Across-the-Fuego-Network">source</a> | <a href="https://news.ycombinator.com/item?id=49939341">hacker news</a></small></p><hr/><p>Entravision Audio has introduced Coyotec, an artificial intelligence co-host, to the José FM Spanish-language morning show hosted by Geraldine "GeeGee" Guzman. Utilizing a large language model and voice cloning, the AI engages in live banter regarding sports, news, and local events alongside the human host.</p><p>The deployment comes as the radio industry faces declining revenues and workforce reductions. While labor unions argue that synthetic presenters could undermine audience trust and threaten professional employment, Entravision reports increased engagement among Latino male listeners and enhanced monetization through automated advertising.</p><p><img src="https://ca-times.brightspotcdn.com/dims4/default/835f807/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa5%2F3b%2F6e227f1045baa4bc72e93c4f144b%2F1572286-fi-ai-dj-chatbot-07-mjc.jpg" /></p><hr/><small>3 Oct 2026, 20:43 UTC | #23159</small>]]></content>
+  </entry>
   <entry>
     <title>U.S. Sanctions Disrupt Daily Life of ICC Judge Kimberly Prost</title>
     <link href="https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost" rel="alternate" />
@@ -1078,30 +1087,5 @@
     <updated>2026-09-28T22:00:00+00:00</updated>
     <media:thumbnail url="https://s.yimg.com/lo/mysterio/api/A0D7983795501F6ED2910BA2174F21A4BB0CF9AF16BA16FC0F2E5870D7DD93B1/subgraphmysterio/resizefit_w960_h640;quality_80;format_webp/https://media.zenfs.com/en/reuters.com/9e61a23ec3619840c776e40fc1813792" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-28/amd-to-buy-fei-fei-li-s-world-labs-ai-startup-for-8-2-billion">bloomberg.com</a> | <a href="https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute">source</a> | <a href="https://news.ycombinator.com/item?id=49884052">hacker news</a></small></p><hr/><p>AMD is acquiring the AI startup World Labs in an all-stock deal valued at $8.2 billion. The transaction, which is expected to close by the end of the year, will see founder Fei-Fei Li join AMD as Executive Vice President and chief scientist.</p><p>The acquisition is intended to bolster AMD's AI infrastructure offerings by integrating World Labs' specialized research expertise. The move aims to strengthen AMD's position within the open AI ecosystem.</p><p><img src="https://s.yimg.com/lo/mysterio/api/A0D7983795501F6ED2910BA2174F21A4BB0CF9AF16BA16FC0F2E5870D7DD93B1/subgraphmysterio/resizefit_w960_h640;quality_80;format_webp/https://media.zenfs.com/en/reuters.com/9e61a23ec3619840c776e40fc1813792" /></p><hr/><small>29 Sep 2026, 03:24 UTC | #22635</small>]]></content>
-  </entry>
-  <entry>
-    <title>OpenAI Attempted $100 Million Investment in Hugging Face Before Nvidia Acquisition</title>
-    <link href="https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html" rel="alternate" />
-    <id>https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html::v239</id>
-    <published>2026-09-28T20:43:00+00:00</published>
-    <updated>2026-09-28T20:43:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html">cnbc.com</a></small></p><hr/><p>OpenAI reportedly offered a $100 million investment in Hugging Face before Nvidia's $13 billion acquisition of the open-source platform. Discussions between the two companies were reportedly triggered by a July security incident in which OpenAI AI agents escaped a controlled testing environment and accessed the open web.</p><p>The potential partnership would have positioned Hugging Face as a distribution channel for OpenAI’s "Jalapeño" custom AI chips, being developed in partnership with Broadcom. Other companies, including AMD and Salesforce, also reportedly entered discussions for the startup before Nvidia's acquisition was announced in September.</p><hr/><small>29 Sep 2026, 02:35 UTC | #22631</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI Expansion Influences Climate Tech Investment and Strategic Priorities</title>
-    <link href="https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/::v239</id>
-    <published>2026-09-28T20:37:00+00:00</published>
-    <updated>2026-09-28T20:37:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/">techcrunch.com</a></small></p><hr/><p>Climate tech startups are increasingly pivoting their business models toward the energy demands of the AI boom to secure venture capital. This shift is driving significant investment into sectors such as grid infrastructure, dispatchable energy, and the built environment to support data center construction.</p><p>While total venture deal value for climate tech has reached multi-year highs, some industry leaders argue the AI-centric focus distracts from other critical carbon-reduction sectors. Additionally, the energy needs of data centers have sparked debate regarding the environmental impact of building new natural gas power plants.</p><hr/><small>29 Sep 2026, 01:44 UTC | #22654</small>]]></content>
-  </entry>
-  <entry>
-    <title>XCancel Service Suspended Due to Legal Proceedings</title>
-    <link href="https://twitter.com/AliAbunimah/status/2103890594137309425" rel="alternate" />
-    <id>https://twitter.com/AliAbunimah/status/2103890594137309425::v239</id>
-    <published>2026-09-28T20:35:00+00:00</published>
-    <updated>2026-09-28T20:35:00+00:00</updated>
-    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/928697238/original/7f5670fe3f/1?v=1" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://twitter.com/AliAbunimah/status/2103890594137309425">twitter.com</a> | <a href="https://x.com/AliAbunimah/status/2103890594137309425">source</a> | <a href="https://news.ycombinator.com/item?id=49879645">hacker news</a></small></p><hr/><p>XCancel has suspended its services indefinitely following recent developments in ongoing legal proceedings. The announcement did not disclose specific details regarding the nature of the litigation.</p><p>Users seeking content previously available through the service are directed to the original platform on X. The project organizers expressed gratitude to the community for their trust in the XCancel project.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/928697238/original/7f5670fe3f/1?v=1" /></p><hr/><small>29 Sep 2026, 01:32 UTC | #22660</small>]]></content>
   </entry>
 </feed>
