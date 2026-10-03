@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-03T06:02:00+00:00</updated>
+  <updated>2026-10-03T09:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rust for CPython Project Integration Roadmap</title>
+    <link href="https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/" rel="alternate" />
+    <id>https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/::v239</id>
+    <published>2026-10-03T09:44:00+00:00</published>
+    <updated>2026-10-03T09:44:00+00:00</updated>
+    <media:thumbnail url="https://blog.python.org/_astro/david.C2A7MwHE_ZzK8Eu.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/">blog.python.org</a> | <a href="https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit">discussion</a></small></p><hr/><p>David Hewitt presented the "Rust for CPython" project's roadmap at the Python Language Summit 2026, outlining an incremental integration of Rust into the CPython codebase. The proposal includes an optional Rust-based `zlib` module in Python 3.16 (October 2027), expanded module support by Python 3.17 (October 2028), and the possibility of requiring Rust for CPython builds by Python 3.18 in 2029.</p><p>The initiative aims to mitigate "type-crash" issues through Rust's memory safety features. Success depends on developer acceptance of the proposed API, maintaining performance benchmarks, and ensuring cross-platform support. Implementation challenges include managing external dependencies via vendoring and addressing the need for Rust expertise among core developers.</p><p><img src="https://blog.python.org/_astro/david.C2A7MwHE_ZzK8Eu.webp" /></p><hr/><small>3 Oct 2026, 15:37 UTC | #23162</small>]]></content>
+  </entry>
   <entry>
     <title>GitHub Adds Accessibility Tab to Repository Landing Pages</title>
     <link href="https://ericwbailey.website/published/github-repository-landing-pages-now-show-an-accessibility-tab-if-provided/" rel="alternate" />
