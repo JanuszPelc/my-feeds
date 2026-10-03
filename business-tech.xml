@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-02T21:12:00+00:00</updated>
+  <updated>2026-10-02T22:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Stability AI Shifts Focus to Music Tools Following $76 Million Funding Round</title>
+    <link href="https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/::v239</id>
+    <published>2026-10-02T22:25:00+00:00</published>
+    <updated>2026-10-02T22:25:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/">techcrunch.com</a> | <a href="https://www.theinformation.com/articles/sean-parker-spreads-gospel-ai-music">source</a></small></p><hr/><p>The company is repositioning its strategy toward music professionals following a $76 million Series B funding round. Backed by Sony, Warner, and Universal, Stability AI has released audio models and music-editing software capable of generating instrumental tracks or snippets from text prompts.</p><p>This strategic direction, led by Sean Parker and CEO Prem Akkaraju, follows a period of internal restructuring and the departure of founder Emad Mostaque. Upcoming updates are expected to allow users to guide audio generation by humming melodies or beatboxing drum patterns.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024" /></p><hr/><small>3 Oct 2026, 02:23 UTC | #23113</small>]]></content>
+  </entry>
   <entry>
     <title>SpaceX's AI Unit Discusses Leasing Computing Capacity to Microsoft</title>
     <link href="https://www.theinformation.com/articles/spacexs-ai-unit-turned-ai-cloud-firm" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-02T22:21:00+00:00</updated>
+  <updated>2026-10-02T22:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>ChatGPT Sites Feature Enables Website and App Creation</title>
+    <link href="https://chatgpt.com/features/sites/" rel="alternate" />
+    <id>https://chatgpt.com/features/sites/::v239</id>
+    <published>2026-10-02T22:26:00+00:00</published>
+    <updated>2026-10-02T22:26:00+00:00</updated>
+    <media:thumbnail url="https://shot.huntscreens.com/6580ac6e-d75e-447e-a909-ffb3a985479b_large.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://chatgpt.com/features/sites/">chatgpt.com</a> | <a href="https://news.ycombinator.com/item?id=49927747">hacker news</a></small></p><hr/><p>ChatGPT Sites allows users to develop, refine, and publish websites, applications, and games through conversational prompting. Users can iterate on designs by describing requirements, adding visual references, or building from existing projects.</p><p>The platform provides hosting capabilities, including custom domain support and "Sign in with ChatGPT" to allow visitors to save their progress. It also supports collaborative workspace editing and controlled integration with connected tools.</p><p><img src="https://shot.huntscreens.com/6580ac6e-d75e-447e-a909-ffb3a985479b_large.webp" /></p><hr/><small>3 Oct 2026, 02:25 UTC | #23132</small>]]></content>
+  </entry>
   <entry>
     <title>Tavus Unveils Griffin Human Interaction Model</title>
     <link href="https://x.com/tavus" rel="alternate" />
