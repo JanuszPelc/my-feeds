@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-02T19:15:00+00:00</updated>
+  <updated>2026-10-02T19:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Emacs-Inspired Regex DSL for JavaScript and TypeScript</title>
+    <link href="https://rahuljuliato.com/posts/emacs-rx-in-typescript" rel="alternate" />
+    <id>https://rahuljuliato.com/posts/emacs-rx-in-typescript::v239</id>
+    <published>2026-10-02T19:21:00+00:00</published>
+    <updated>2026-10-02T19:21:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rahuljuliato.com/posts/emacs-rx-in-typescript">rahuljuliato.com</a> | <a href="https://lobste.rs/s/3hdied/readable_regular_expressions_for">discussion</a></small></p><hr/><p>A Domain-Specific Language (DSL) for JavaScript and TypeScript enables the creation of readable regular expressions by modeling them as a tree of named, composable forms, a technique inspired by the Emacs `rx` macro. This approach simplifies the maintenance of complex patterns, such as Semantic Versioning strings, by replacing opaque, single-line regex literals with structured code.</p><p>The implementation utilizes a custom `RxNode` structure to manage literals, character sets, and sequences, automating much of the escaping and grouping logic. It supports named capturing groups, greedy and lazy repetitions, and provides a `raw` function to integrate existing regular expressions into the DSL structure.</p><hr/><small>3 Oct 2026, 00:17 UTC | #23123</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Tightens macOS Full Disk Access Controls Due to AI Agent Risks</title>
     <link href="https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/" rel="alternate" />
