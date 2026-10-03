@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-02T22:35:00+00:00</updated>
+  <updated>2026-10-03T00:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>SequenceHash and SequenceMAC Introduced for Secure Multihashing</title>
+    <link href="https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/" rel="alternate" />
+    <id>https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/::v239</id>
+    <published>2026-10-03T00:49:00+00:00</published>
+    <updated>2026-10-03T00:49:00+00:00</updated>
+    <media:thumbnail url="https://www.itarian.com/blog/wp-content/uploads/2025/07/what-is-hashing.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/">blog.trailofbits.com</a> | <a href="https://c2sp.org/sequencehash">source</a> | <a href="https://lobste.rs/s/llnale/sequencehash_multihashing_for_rest_us">discussion</a> | <a href="https://news.ycombinator.com/item?id=49933587">hacker news</a></small></p><hr/><p>Trail of Bits has introduced SequenceHash and SequenceMAC, cryptographic constructions designed for secure multihashing across various hash functions. These tools prevent vulnerabilities caused by ambiguous input encoding and length-extension attacks, which occur when multiple data inputs are concatenated before being hashed. Unlike NIST’s TupleHash, which is tied to Keccak, SequenceHash is hash-agnostic and supports algorithms such as the SHA2 family and BLAKE.</p><p>The constructions use a double-hash architecture and a 128-bit length-suffix encoding to ensure semantic distinction between inputs and provide resistance to length-extension. SequenceMAC offers a keyed variant with built-in customization strings for domain separation and protection against key pseudocollisions. Implementations are available in Rust, Go, and Python, and the specification is part of the Community Cryptography Specification Project (C2SP).</p><p><img src="https://www.itarian.com/blog/wp-content/uploads/2025/07/what-is-hashing.png" /></p><hr/><small>3 Oct 2026, 06:19 UTC | #23141</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nvidia Announces 64GB DGX Spark Mini PC</title>
+    <link href="https://www.pcmag.com/news/facing-memory-crunch-nvidia-creates-64gb-rtx-spark-it-still-costs-4999" rel="alternate" />
+    <id>https://www.pcmag.com/news/facing-memory-crunch-nvidia-creates-64gb-rtx-spark-it-still-costs-4999::v239</id>
+    <published>2026-10-03T00:48:00+00:00</published>
+    <updated>2026-10-03T00:48:00+00:00</updated>
+    <media:thumbnail url="https://dasroot.net/posts/2025/10/nvidia-dgx-spark/cover.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.pcmag.com/news/facing-memory-crunch-nvidia-creates-64gb-rtx-spark-it-still-costs-4999">pcmag.com</a> | <a href="https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/">source</a> | <a href="https://news.ycombinator.com/item?id=49933234">hacker news</a></small></p><hr/><p>Nvidia is launching a 64GB configuration of its DGX Spark mini PC on October 23, starting at $4,999. Featuring the GB10 Grace Blackwell Superchip, the device is designed to run AI models locally and supports up to 100 billion parameters.</p><p>The release follows a period of memory shortages that has forced Nvidia to increase prices for the original 128GB model. While the new configuration offers half the memory capacity of the 128GB version, its starting price is $1,000 higher than the original launch price for the larger capacity model.</p><p><img src="https://dasroot.net/posts/2025/10/nvidia-dgx-spark/cover.jpg" /></p><hr/><small>3 Oct 2026, 06:15 UTC | #23118</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Confirms iPhone 18 Pro Max Cellular Failures on AT&amp;T</title>
     <link href="https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/" rel="alternate" />
