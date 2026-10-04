@@ -3,9 +3,25 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-04T00:25:00+00:00</updated>
+  <updated>2026-10-04T00:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Bob Cringely Passes Away</title>
+    <link href="https://news.ycombinator.com/item?id=49949438" rel="alternate" />
+    <id>https://news.ycombinator.com/item?id=49949438::v239</id>
+    <published>2026-10-04T00:51:00+00:00</published>
+    <updated>2026-10-04T00:51:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49949438">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49949438">hacker news</a></small></p><hr/><p>Mark Stevens, the technology columnist known by the pseudonym Bob Cringely, has passed away. He was an early employee at Apple and is widely recognized for his work on the PBS documentary "Triumph of the Nerds."</p><p>Stevens was a prominent chronicler of the computer industry and Silicon Valley, most notably through his long-running "Notes From the Field" column in InfoWorld.</p><hr/><small>4 Oct 2026, 03:49 UTC | #23196</small>]]></content>
+  </entry>
+  <entry>
+    <title>Bryan Cantrill Discusses Oxide Computer Company's Relationship with Rust</title>
+    <link href="https://www.youtube.com/watch?v=3kbPyuAtk7g" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=3kbPyuAtk7g::v239</id>
+    <published>2026-10-04T00:28:00+00:00</published>
+    <updated>2026-10-04T00:28:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=3kbPyuAtk7g">youtube.com</a> | <a href="https://lobste.rs/s/hfq43j/rust_sickness_health">discussion</a></small></p><hr/><p>Following a professional shift from Node.js to Rust, CTO Bryan Cantrill co-founded Oxide Computer Company in 2019. The language's emphasis on rigor and expressive error handling motivated the decision to build a company centered on an end-to-end Rust software stack for rack-scale machines.</p><p>Utilizing Rust across multiple system layers—from low-level operating systems to high-level APIs—presents unique technical challenges and performance benefits. Oxide's hardware and software architecture is fundamentally shaped by the language's ownership model and performance characteristics.</p><hr/><small>4 Oct 2026, 03:44 UTC | #23197</small>]]></content>
+  </entry>
   <entry>
     <title>Nolan Lawson Analyzes Developer Resistance to Using Native Web Platform APIs</title>
     <link href="https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/" rel="alternate" />
