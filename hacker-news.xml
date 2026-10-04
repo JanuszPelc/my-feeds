@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-04T13:01:00+00:00</updated>
+  <updated>2026-10-04T13:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Grubby Static Site Generator Builds Websites for Git Repositories</title>
+    <link href="https://git.btxx.org/grubby" rel="alternate" />
+    <id>https://git.btxx.org/grubby::v239</id>
+    <published>2026-10-04T13:03:00+00:00</published>
+    <updated>2026-10-04T13:03:00+00:00</updated>
+    <media:thumbnail url="https://devpractical.com/public/2022/static-site-generator.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://git.btxx.org/grubby">git.btxx.org</a> | <a href="https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git">discussion</a></small></p><hr/><p>Grubby is a Ruby-based static site generator that turns Git repositories into browsable websites and generates a repository index. It requires Git, Ruby 3.0 or later, and Kramdown, with configuration primarily handled through `_config.yml`.</p><p>The guide describes deploying Grubby on shared hosting through Git hooks, using a `post-update` hook to rebuild repository pages after changes. It supports repository files and README content but does not generate pages for individual commits, branches, or other detailed Git history.</p><p><img src="https://devpractical.com/public/2022/static-site-generator.png" /></p><hr/><small>4 Oct 2026, 17:53 UTC | #23229</small>]]></content>
+  </entry>
   <entry>
     <title>Jamie Tanna Recommends Renovate for Dependency Updates</title>
     <link href="https://www.jvt.me/posts/2024/04/12/use-renovate/" rel="alternate" />
