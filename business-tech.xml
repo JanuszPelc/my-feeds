@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-04T15:23:00+00:00</updated>
+  <updated>2026-10-04T15:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>SaaS Business Models Evolving into Model Harnesses</title>
+    <link href="https://blog.sshh.io/p/the-harness-is-the-company" rel="alternate" />
+    <id>https://blog.sshh.io/p/the-harness-is-the-company::v239</id>
+    <published>2026-10-04T15:46:00+00:00</published>
+    <updated>2026-10-04T15:46:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!DMig!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8cf3fdf-c311-47d0-b42d-f75864c4dd68_1620x897.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.sshh.io/p/the-harness-is-the-company">blog.sshh.io</a> | <a href="https://news.ycombinator.com/item?id=49938616">hacker news</a></small></p><hr/><p>SaaS businesses are transitioning into "harnesses"—the infrastructure, context, and interfaces that wrap around stateless large language models (LLMs). This shift transforms workflows from direct human execution to a model where humans orchestrate and review the outputs of proactive background agents, effectively turning the organization into a management layer for AI.</p><p>Competitive differentiation in this model relies on the quality of the "harness," specifically how a company integrates domain expertise, proprietary data, and human "taste-holders" into automated loops. This evolution is expected to reshape organizational structures, requiring companies to maintain control over high-level decision-making to prevent their services from being commoditized by fully automated third-party harnesses.</p><p><img src="https://substackcdn.com/image/fetch/$s_!DMig!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8cf3fdf-c311-47d0-b42d-f75864c4dd68_1620x897.png" /></p><hr/><small>4 Oct 2026, 20:11 UTC | #23235</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Chief AI Officer Alexandr Wang Drives Success of Muse AI Agent</title>
     <link href="https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659?st=ba2ZAz&amp;reflink=desktopwebshare_permalink" rel="alternate" />
@@ -929,14 +938,5 @@
     <updated>2026-09-29T20:20:00+00:00</updated>
     <media:thumbnail url="https://www.thedefensenews.com/postimages/91d948a4892dae15f45739f7ab9ce07c.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html?unlocked_article_code=1.E1E.Nl5Q.naa1TDu367ff&smid=bs-share">nytimes.com</a></small></p><hr/><p>Anthropic co-founder Christopher Olah and religious and philosophical leaders have held summits to investigate the potential for consciousness in the Claude AI model. While researchers have identified internal AI states that functionally mirror human emotions, Olah stated that the company cannot definitively confirm if AI models are conscious.</p><p>The discussions focus on the moral frameworks required for AI development and the spiritual implications of advanced artificial intelligence. These summits are part of an effort to incorporate religious and philosophical perspectives into the ethical governance and social oversight of AI technology.</p><p><img src="https://www.thedefensenews.com/postimages/91d948a4892dae15f45739f7ab9ce07c.jpg" /></p><hr/><small>30 Sep 2026, 02:24 UTC | #22754</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tymon Smektala Joins Bloober Team’s Broken Mirror Games as Executive Director</title>
-    <link href="https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games" rel="alternate" />
-    <id>https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games::v239</id>
-    <published>2026-09-29T20:01:00+00:00</published>
-    <updated>2026-09-29T20:01:00+00:00</updated>
-    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta00d41b73bb5a961/6abc09edf337fa1580c0ad70/brokenmirrorgamesfeatured.jpg?width=720&amp;quality=80&amp;disable=upscale" />
-    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games">gamedeveloper.com</a> | <a href="https://www.linkedin.com/posts/tymon-smektala-4205534_maybe-youve-seen-the-news-already-but-i-share-7510686906867945473-DcfP">source</a></small></p><hr/><p>Tymon Smektala, formerly Techland's franchise director, has joined Bloober Team as executive director for its horror imprint, Broken Mirror Games. Smektala will oversee the creative direction and portfolio for the co-development label, collaborating with external studios to deliver new horror-focused titles.</p><p>Smektala brings 13 years of experience from Techland, where he managed franchises including Dead Island and Dying Light. His current focus involves supporting the development of Saw: Genesis and Onyx: The Dark Grip while scouting for new horror projects and creative partnerships.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta00d41b73bb5a961/6abc09edf337fa1580c0ad70/brokenmirrorgamesfeatured.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>30 Sep 2026, 01:10 UTC | #22757</small>]]></content>
   </entry>
 </feed>
