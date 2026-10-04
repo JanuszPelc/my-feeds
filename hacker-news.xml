@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-04T06:07:00+00:00</updated>
+  <updated>2026-10-04T12:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>C++ Bitwise Operations and Undefined Behavior in Enums</title>
+    <link href="https://dryperspective.github.io/posts/complement-of-true/" rel="alternate" />
+    <id>https://dryperspective.github.io/posts/complement-of-true/::v239</id>
+    <published>2026-10-04T12:31:00+00:00</published>
+    <updated>2026-10-04T12:31:00+00:00</updated>
+    <media:thumbnail url="https://www.learnpick.in/files/pptimages/445/549ad92a301123912d47eaacf23c4c58-12.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dryperspective.github.io/posts/complement-of-true/">dryperspective.github.io</a> | <a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/p4313r1.html">source</a> | <a href="https://lobste.rs/s/4bzoft/complement_true_is_true_except_when_it_s">discussion</a></small></p><hr/><p>The article examines how C++ integral promotion and boolean conversion can cause unexpected results when performing bitwise operations on enums, particularly those with a `bool` underlying type. It details a case where the bitwise complement of `true` evaluates to `true` and identifies a conformance bug in the GCC compiler regarding unscoped enums without fixed underlying types.</p><p>Focusing on the P4313R1 standards proposal for enum bitmask operations, the author warns that such operations can lead to undefined behavior if a result falls outside an unscoped enum's defined value range. The piece proposes using a C++ concept to detect "unfixed" enums to help developers implement safer bitmask operations.</p><p><img src="https://www.learnpick.in/files/pptimages/445/549ad92a301123912d47eaacf23c4c58-12.jpg" /></p><hr/><small>4 Oct 2026, 15:47 UTC | #23222</small>]]></content>
+  </entry>
   <entry>
     <title>Implementing a Rust Driver for the GDEH0154D67 E-paper Display</title>
     <link href="https://sgt.hootr.club/blog/driving-gdeh0154d67-with-rust/" rel="alternate" />
@@ -895,14 +904,5 @@
     <published>2026-09-29T16:35:00+00:00</published>
     <updated>2026-09-29T16:35:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://motif-central.org/">motif-central.org</a> | <a href="https://lobste.rs/s/otexs4/motifcentral_all_things_motif_xt_xlib">discussion</a></small></p><hr/><p>Motif Central provides documentation and tutorials for the Motif, Xt, Xlib, and X11 programming stacks. It offers instructions for building applications, features widget galleries, and explains the interaction between different layers of the X programming stack.</p><p>The website acts as a repository for programming references, historical documentation, and examples related to the X Window System. It also contains information regarding software maintenance and preservation efforts for these toolkits.</p><hr/><small>29 Sep 2026, 19:51 UTC | #22755</small>]]></content>
-  </entry>
-  <entry>
-    <title>Implementing Arc Downcasting in Rust Using Pin and Self-Referential Structs</title>
-    <link href="https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/" rel="alternate" />
-    <id>https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/::v239</id>
-    <published>2026-09-29T15:37:00+00:00</published>
-    <updated>2026-09-29T15:37:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/gx-VV-Ht8RA/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/">wolfgirl.dev</a> | <a href="https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust">discussion</a></small></p><hr/><p>Implementing a self-referential struct with `Pin` allows for downcasting `Arc&lt;T&gt;` values into specialized types without the cost of cloning. This technique ensures memory address stability, enabling a wrapper to provide zero-copy access to internal data while adhering to Rust's ownership and lifetime rules.</p><p>This pattern overcomes the difficulty of deriving specialized type access from an `Arc&lt;T&gt;` variant without triggering expensive re-allocations or lifetime errors. By leveraging the `Deref` trait and `Pin` guarantees, the proposed `PinRef` structure maintains a pointer to the contents of the `Arc`, facilitating high-performance, read-only access for concurrent cache implementations.</p><p><img src="https://i.ytimg.com/vi/gx-VV-Ht8RA/maxresdefault.jpg" /></p><hr/><small>29 Sep 2026, 19:14 UTC | #22737</small>]]></content>
   </entry>
 </feed>
