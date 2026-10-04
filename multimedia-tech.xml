@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-04T15:51:00+00:00</updated>
+  <updated>2026-10-04T15:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>ldraw-nova Uses AI Agents to Generate LEGO Models</title>
+    <link href="https://github.com/anteloc/ldraw-nova" rel="alternate" />
+    <id>https://github.com/anteloc/ldraw-nova::v239</id>
+    <published>2026-10-04T15:53:00+00:00</published>
+    <updated>2026-10-04T15:53:00+00:00</updated>
+    <media:thumbnail url="https://github.com/anteloc/ldraw-nova/raw/master/img/ldraw-nova-yt-thumb.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/anteloc/ldraw-nova">github.com</a> | <a href="https://news.ycombinator.com/item?id=49937916">hacker news</a></small></p><hr/><p>AI agents in ldraw-nova generate buildable LEGO models in the LDraw assembly language by producing Python-based generator scripts. This approach circumvents the spatial reasoning limitations typical of LLMs, resulting in LDraw source code, 3D/VR-ready views, and Blender-compatible .glb files.</p><p>Optimized for high-end models like Claude Opus 5.5 and Astra, the tool includes features for collision detection, headless rendering, and semantic part searching via jev-rerank. It supports immersive VR viewing on Meta Quest 3 and is deployed using Docker.</p><p><img src="https://github.com/anteloc/ldraw-nova/raw/master/img/ldraw-nova-yt-thumb.jpg" /></p><hr/><small>4 Oct 2026, 20:59 UTC | #23240</small>]]></content>
+  </entry>
   <entry>
     <title>Cities: Skylines 2 Lacks Visual Realism and Urban Detail</title>
     <link href="https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2" rel="alternate" />
