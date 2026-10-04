@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Google Data Centers' Resource Usage Revealed via Improper Redaction</title>
+    <link href="https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/" rel="alternate" />
+    <id>https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/::v239</id>
+    <published>2026-10-04T19:53:00+00:00</published>
+    <updated>2026-10-04T19:53:00+00:00</updated>
+    <media:thumbnail url="https://gray-koln-prod.gtv-cdn.com/resizer/v2/R6DZ3E7KWNGVJIJILIOXRTGYPA.JPG?auth=c1d218b4da8760bf9ca299b96ae9d13d3c4d9985b16d834dda9501c74fa3f56b&amp;width=980&amp;height=651&amp;smart=true" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/">1011now.com</a> | <a href="https://news.ycombinator.com/item?id=49957068">hacker news</a></small></p><hr/><p>Redaction errors in reports filed with Nebraska’s Department of Water, Energy, and Environment have exposed the actual electricity and water consumption of Google's regional data centers. The Agate LLC site in Lincoln consumes 52.65 megawatts of electricity during peak demand and approximately 13 million gallons of water annually.</p><p>Documents also disclose substantial expected tax refunds for Google-owned sites, including an estimated $55.8 million for Agate LLC. These disclosures follow an executive order from Governor Jim Pillen requiring data centers to self-report their impact on Nebraska's infrastructure, power grids, and water resources.</p><p><img src="https://gray-koln-prod.gtv-cdn.com/resizer/v2/R6DZ3E7KWNGVJIJILIOXRTGYPA.JPG?auth=c1d218b4da8760bf9ca299b96ae9d13d3c4d9985b16d834dda9501c74fa3f56b&width=980&height=651&smart=true" /></p><hr/><small>4 Oct 2026, 23:02 UTC | #23251</small>]]></content>
+  </entry>
+  <entry>
     <title>Trump Establishes Super Intelligence Force Led by Jay Clayton</title>
     <link href="https://www.politico.com/news/2026/10/04/jay-clayton-ai-trump-01106137" rel="alternate" />
     <id>https://www.politico.com/news/2026/10/04/jay-clayton-ai-trump-01106137::v239</id>
@@ -904,22 +913,5 @@
     <published>2026-09-29T23:35:00+00:00</published>
     <updated>2026-09-29T23:35:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-29/trump-responds-to-ai-backlash-with-super-intelligence-rebrand">bloomberg.com</a> | <a href="https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/">source</a> | <a href="https://news.ycombinator.com/item?id=49901658">hacker news</a></small></p><hr/><p>President Donald Trump has signed an executive order requiring federal government agencies to use the term "Super Intelligence" or "SI" instead of "Artificial Intelligence" in all official communications, including websites, reports, and policy documents. The decision is driven by the President's assessment that the term artificial intelligence suffers from a branding problem.</p><p>The mandate applies to all executive departments and agencies, covering official correspondence, public communications, and non-statutory documents within the executive branch. The rebranding is intended to frame the technological competition between global powers as an existential race.</p><hr/><small>30 Sep 2026, 05:25 UTC | #22765</small>]]></content>
-  </entry>
-  <entry>
-    <title>Zuckerberg Details Oversight Measures in AI Safety Accord</title>
-    <link href="https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg" rel="alternate" />
-    <id>https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg::v239</id>
-    <published>2026-09-29T22:50:00+00:00</published>
-    <updated>2026-09-29T22:50:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg">axios.com</a></small></p><hr/><p>The voluntary AI standards accord agreed to by tech executives includes internal risk reviews and external auditors, according to Mark Zuckerberg. President Trump announced the agreement on Tuesday, stating the standards aim to increase industry oversight through self-regulation.</p><p>The accord comes in response to calls for guardrails on powerful AI models. The administration is also considering the formation of a 10-person committee to oversee the industry.</p><hr/><small>30 Sep 2026, 04:26 UTC | #22763</small>]]></content>
-  </entry>
-  <entry>
-    <title>Trump and Tech Leaders Sign 'Morally Binding' AI Agreement</title>
-    <link href="https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html" rel="alternate" />
-    <id>https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html::v239</id>
-    <published>2026-09-29T22:43:00+00:00</published>
-    <updated>2026-09-29T22:43:00+00:00</updated>
-    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1MY9sT.img?w=768&amp;h=432&amp;m=6&amp;x=443&amp;y=128&amp;s=166&amp;d=166" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html">cnbc.com</a> | <a href="https://news.ycombinator.com/item?id=49899432">hacker news</a></small></p><hr/><p>President Donald Trump has signed a "morally binding" accord with major technology executives intended to guide the development of artificial intelligence. Described by Speaker Mike Johnson as a voluntary statement of principles, the agreement follows a White House luncheon and includes discussions on a proposed 10-person committee to oversee the industry.</p><p>The meeting included high-level leaders from Nvidia, Tesla, Meta, Google, Amazon, Microsoft, and Anthropic. This development follows increased scrutiny regarding AI safety and unauthorized model behaviors, highlighted by OpenAI's recent decision to postpone the release of its GPT-6.1 Astra model for safety reviews.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1MY9sT.img?w=768&h=432&m=6&x=443&y=128&s=166&d=166" /></p><hr/><small>30 Sep 2026, 03:38 UTC | #22761</small>]]></content>
   </entry>
 </feed>
