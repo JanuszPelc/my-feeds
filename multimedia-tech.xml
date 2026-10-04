@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-04T08:41:00+00:00</updated>
+  <updated>2026-10-04T15:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Cities: Skylines 2 Lacks Visual Realism and Urban Detail</title>
+    <link href="https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2" rel="alternate" />
+    <id>https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2::v239</id>
+    <published>2026-10-04T15:51:00+00:00</published>
+    <updated>2026-10-04T15:51:00+00:00</updated>
+    <media:thumbnail url="https://www.radical-elements.com/storage/templates/large/files/cities-1-6ac0d6fcae5f6.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2">radical-elements.com</a> | <a href="https://news.ycombinator.com/item?id=49945323">hacker news</a></small></p><hr/><p>The article argues that Cities: Skylines 2 suffers from a lack of visual "soul" caused by sterile, overly clean environments and rigid, geometric terrain transitions. The author contends that the absence of urban grit—such as stairs, trash, or weathered textures—prevents the simulation from achieving the organic complexity and atmosphere found in real-world cities.</p><p>The critique suggests that these aesthetic shortcomings force players to rely on statistical menus to identify urban conditions rather than reading the character of the landscape through direct observation. The author argues that incorporating more varied, "lived-in" details would enhance environmental storytelling and player immersion.</p><p><img src="https://www.radical-elements.com/storage/templates/large/files/cities-1-6ac0d6fcae5f6.jpg" /></p><hr/><small>4 Oct 2026, 20:42 UTC | #23238</small>]]></content>
+  </entry>
   <entry>
     <title>PasRISCV RISC-V Emulator Enables In-Game Linux for SEEDS</title>
     <link href="https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/" rel="alternate" />

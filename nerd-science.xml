@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-04T12:55:00+00:00</updated>
+  <updated>2026-10-04T15:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Ukraine Deploys Distributed Renewables to Increase Energy Resilience Against Infrastructure Attacks</title>
+    <link href="https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/" rel="alternate" />
+    <id>https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/::v239</id>
+    <published>2026-10-04T15:50:00+00:00</published>
+    <updated>2026-10-04T15:50:00+00:00</updated>
+    <media:thumbnail url="https://energytransition.org/wp-content/uploads/2026/09/caspar-rae-vu3pOspbvN0-unsplash-1024x640.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/">energytransition.org</a> | <a href="https://news.ycombinator.com/item?id=49951881">hacker news</a></small></p><hr/><p>Ukraine is rapidly adopting distributed renewable energy technologies, such as small-scale solar arrays and battery storage, to mitigate the impact of Russian strikes on the country's centralized power grid. In frontline regions like Mykolaiv, solar-powered systems are being used to maintain essential services, including desalination and water pumping, ensuring that residential areas retain access to drinking water even when the main electrical infrastructure is offline.</p><p>This security-driven transition shifts the focus from large, vulnerable thermal and hydro plants toward decentralized, flexible generation assets that are harder to target and quicker to repair. While the rapid rollout of solar and storage is being driven by immediate survival needs, it also aligns with Ukraine's long-term goals to modernize its energy sector and meet European Union climate standards.</p><p><img src="https://energytransition.org/wp-content/uploads/2026/09/caspar-rae-vu3pOspbvN0-unsplash-1024x640.jpg" /></p><hr/><small>4 Oct 2026, 20:38 UTC | #23237</small>]]></content>
+  </entry>
   <entry>
     <title>Ben Stolovitz Explains Why He Delayed Becoming an EMT</title>
     <link href="https://ben.stolovitz.com/posts/reasons-not-emt-ranked/" rel="alternate" />
