@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-04T06:01:00+00:00</updated>
+  <updated>2026-10-04T12:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Ben Stolovitz Explains Why He Delayed Becoming an EMT</title>
+    <link href="https://ben.stolovitz.com/posts/reasons-not-emt-ranked/" rel="alternate" />
+    <id>https://ben.stolovitz.com/posts/reasons-not-emt-ranked/::v239</id>
+    <published>2026-10-04T12:55:00+00:00</published>
+    <updated>2026-10-04T12:55:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ben.stolovitz.com/posts/reasons-not-emt-ranked/">ben.stolovitz.com</a> | <a href="https://news.ycombinator.com/item?id=49947631">hacker news</a></small></p><hr/><p>Software engineer Ben Stolovitz recounts the 21 reasons he postponed EMT training before completing a 28-day Wilderness EMT course in 2024. His concerns included the time and cost, EMS workplace culture, fitting in, uncertainty about ambulance work, and having no immediate use for the credential.</p><p>The essay argues that the underlying obstacle was fear of entering an unfamiliar field and possibly enjoying it enough to disrupt his career. Stolovitz describes EMT training as useful even without a plan to work full time in emergency medicine, while noting that certification alone does not replace on-the-job experience.</p><hr/><small>4 Oct 2026, 16:08 UTC | #23224</small>]]></content>
+  </entry>
   <entry>
     <title>Stephen Wolfram on the Future of Pure Math Research in the Age of AI</title>
     <link href="https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-04T12:31:00+00:00</updated>
+  <updated>2026-10-04T12:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>OpenAI Details Jalapeño Inference Accelerator in Richard Ho Interview</title>
+    <link href="https://morethanmoore.substack.com/p/interview-with-richard-ho-openai" rel="alternate" />
+    <id>https://morethanmoore.substack.com/p/interview-with-richard-ho-openai::v239</id>
+    <published>2026-10-04T12:54:00+00:00</published>
+    <updated>2026-10-04T12:54:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!Nery!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7367eb12-7c67-4eff-9502-be0d997e514f_800x809.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://morethanmoore.substack.com/p/interview-with-richard-ho-openai">morethanmoore.substack.com</a> | <a href="https://openai.com/index/jalapeno-first-results/">source</a></small></p><hr/><p>OpenAI hardware chief Richard Ho discusses Jalapeño, the company’s custom inference accelerator developed with Broadcom and Celestica. The chip uses 216 GiB of HBM4, reaches 27 EFLOP/s in a 2,048-accelerator system, and showed higher performance per watt and lower latency than Nvidia’s GB200 and GB300 in reported tests.</p><p>The interview covers Jalapeño’s homogeneous architecture, OpenAI models’ role in chip design and kernel optimization, the team’s history across D. E. Shaw Research and Google TPU, and the challenges of rapidly changing AI workloads, memory supply, and hardware-software co-design.</p><p><img src="https://substackcdn.com/image/fetch/$s_!Nery!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7367eb12-7c67-4eff-9502-be0d997e514f_800x809.png" /></p><hr/><small>4 Oct 2026, 16:05 UTC | #23210</small>]]></content>
+  </entry>
   <entry>
     <title>C++ Bitwise Operations and Undefined Behavior in Enums</title>
     <link href="https://dryperspective.github.io/posts/complement-of-true/" rel="alternate" />
