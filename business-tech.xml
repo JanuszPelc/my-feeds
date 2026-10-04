@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-04T05:47:00+00:00</updated>
+  <updated>2026-10-04T06:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Yann LeCun Dismisses AI Existential Risk Concerns and Criticizes Anthropic CEO Dario Amodei</title>
+    <link href="https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/" rel="alternate" />
+    <id>https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/::v239</id>
+    <published>2026-10-04T06:03:00+00:00</published>
+    <updated>2026-10-04T06:03:00+00:00</updated>
+    <media:thumbnail url="https://img.lemde.fr/2025/12/04/0/0/6000/4000/1992/0/75/0/7f821eb_upload-1-xkxtaxcpdrjk-000-36xc667.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/">fortune.com</a> | <a href="https://news.ycombinator.com/item?id=49946228">hacker news</a></small></p><hr/><p>Yann LeCun dismissed concerns that artificial intelligence poses an existential threat to humanity, characterizing recent "rogue" AI incidents as preventable design errors rather than evidence of catastrophe. He described Anthropic CEO Dario Amodei's warnings regarding AI's potential for destruction as "deluded," attributing such viewpoints to the influence of the Effective Altruism movement.</p><p>LeCun suggested that the current push for AI safety regulation may serve as a form of "regulatory capture" intended to protect dominant incumbents from smaller competitors. He is currently focused on AMI Labs, a startup developing "world models" via Joint Embedding Predictive Architecture (JEPA) for industrial and physical-world applications like robotics.</p><p><img src="https://img.lemde.fr/2025/12/04/0/0/6000/4000/1992/0/75/0/7f821eb_upload-1-xkxtaxcpdrjk-000-36xc667.jpg" /></p><hr/><small>4 Oct 2026, 13:22 UTC | #23215</small>]]></content>
+  </entry>
   <entry>
     <title>Google to Defend £1.2B UK Class Action Lawsuit Over Play Store Charges</title>
     <link href="https://www.ft.com/content/25272ffd-fd7e-4a69-97b3-cfcb3f98e646" rel="alternate" />
