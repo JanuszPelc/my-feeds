@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-03T22:10:00+00:00</updated>
+  <updated>2026-10-03T22:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rust Upstream Maintenance Report (August–September 2026)</title>
+    <link href="https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html" rel="alternate" />
+    <id>https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html::v239</id>
+    <published>2026-10-03T22:12:00+00:00</published>
+    <updated>2026-10-03T22:12:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*ZI1eIxwJdYNb4cdgijsg1A.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html">kobzol.github.io</a> | <a href="https://lobste.rs/s/cdkmaf/upstream_rust_maintenance_report">discussion</a></small></p><hr/><p>This report details open-source maintenance activities conducted for the Rust toolchain by a Sovereign Tech Fellow. Key efforts focused on reducing the size of the `target` directory by stabilizing the `-Cembed-metadata=no` flag, which can reduce disk usage by 5-35%, and investigating compiler performance through arena allocation and parser optimizations.</p><p>Performance experiments regarding the parser's token representation showed mixed results, with a flat token structure showing promise for lexing but regressing in certain macro expansion scenarios. Additional work addressed string escaping speed, LTO application for Cranelift, and the overhead associated with parser snapshotting.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*ZI1eIxwJdYNb4cdgijsg1A.png" /></p><hr/><small>4 Oct 2026, 01:15 UTC | #23192</small>]]></content>
+  </entry>
   <entry>
     <title>Cloudflare Announces OHTTP Gateway for Privacy-Preserving Traffic</title>
     <link href="https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/" rel="alternate" />

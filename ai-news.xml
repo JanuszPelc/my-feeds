@@ -525,13 +525,4 @@
     <media:thumbnail url="https://bigr.io/wp-content/uploads/2026/04/Voice-Agents-Persona-Card_Noah.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://colossus.com/episode/instinct-the-personal-agent/">colossus.com</a></small></p><hr/><p>Noah Shinn outlines the company's approach to building a personal AI agent, including its business model, privacy frameworks, and security protocols. The conversation explores the computational infrastructure required for scaling and the challenges of competing with Big Tech.</p><p>Shinn addresses the challenge of building user trust for agent-led financial transactions and the technical demands of managing massive compute resources. He also highlights the trend of software interfaces consolidating into single, multifunctional AI agents.</p><p><img src="https://bigr.io/wp-content/uploads/2026/04/Voice-Agents-Persona-Card_Noah.png" /></p><hr/><small>29 Sep 2026, 10:25 UTC | #22663</small>]]></content>
   </entry>
-  <entry>
-    <title>MicroLLM Lab Enables In-Browser Benchmarking for Small Language Models</title>
-    <link href="https://stateofutopia.com/experiments/microllmlab/" rel="alternate" />
-    <id>https://stateofutopia.com/experiments/microllmlab/::v239</id>
-    <published>2026-09-29T01:06:00+00:00</published>
-    <updated>2026-09-29T01:06:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQFp7ag6JJ980g/article-cover_image-shrink_720_1280/B56Zph.1EmHIAI-/0/1762580454408?e=2147483647&amp;v=beta&amp;t=LNbGkoVzDH688JCi1cg_vaE8rl4Iq9ju660uvapv7yI" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://stateofutopia.com/experiments/microllmlab/">stateofutopia.com</a> | <a href="https://github.com/robss2020/microllm-lab">source</a> | <a href="https://news.ycombinator.com/item?id=49882781">hacker news</a></small></p><hr/><p>MicroLLM Lab is a browser-based benchmarking tool for small language models (SLMs) that utilizes WebGPU for hardware-accelerated execution. It evaluates model performance by measuring sustained tokens per second and accuracy via objective tests, such as regex or exact token matching.</p><p>The tool runs entirely on the client's local hardware, ensuring 100% privacy and zero server costs. It provides a lightweight method for comparing the speed and accuracy of various tiny models directly within a web browser without requiring user accounts.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQFp7ag6JJ980g/article-cover_image-shrink_720_1280/B56Zph.1EmHIAI-/0/1762580454408?e=2147483647&v=beta&t=LNbGkoVzDH688JCi1cg_vaE8rl4Iq9ju660uvapv7yI" /></p><hr/><small>29 Sep 2026, 07:00 UTC | #22670</small>]]></content>
-  </entry>
 </feed>
