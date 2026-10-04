@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-03T21:48:00+00:00</updated>
+  <updated>2026-10-04T00:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Default Hard Budget Caps Needed for Usage-Based Services</title>
+    <link href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/" rel="alternate" />
+    <id>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/::v239</id>
+    <published>2026-10-04T00:21:00+00:00</published>
+    <updated>2026-10-04T00:21:00+00:00</updated>
+    <media:thumbnail url="https://d1.awsstatic.com/AWSCostManagement/Budgets/aws-budgets-dashboard.78c5043d079d87a7d3cd7cb9939b81c6c17fbcd4.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/">simonwillison.net</a> | <a href="https://news.ycombinator.com/item?id=49949235">hacker news</a></small></p><hr/><p>Pay-by-usage services and APIs should implement hard budget caps by default, which automatically terminate services once a spending limit is reached. This mechanism is intended to prevent massive, unexpected bills caused by runaway AI agents or rogue automated services that "soft" warning-only limits may fail to stop in time.</p><p>Cloud providers including Google Cloud and AWS have introduced similar cost-management features, such as Google Cloud's "Spend Caps" and AWS's new spending limits. The author argues that these hard limits should be the industry standard, requiring users to explicitly opt-in to an uncapped billing model to avoid service interruptions.</p><p><img src="https://d1.awsstatic.com/AWSCostManagement/Budgets/aws-budgets-dashboard.78c5043d079d87a7d3cd7cb9939b81c6c17fbcd4.png" /></p><hr/><small>4 Oct 2026, 02:20 UTC | #23193</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon Web Services Discontinues Use of NDAs for Data Center Projects with Government Agencies</title>
     <link href="https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/" rel="alternate" />
