@@ -546,49 +546,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot-2026-09-27-at-22-38-05.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/3digitsamples-releases-synthsys---hybrid-synthesizer-for-macos-au-and-vst3-68777?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68777">kvraudio.com</a> | <a href="https://3digitsamples.com/products/synthsys">source</a></small></p><hr/><p>3DigitSamples has released SynthSYS, a hybrid synthesizer for macOS in AU, VST3, and standalone formats. The instrument features four oscillators with six selectable engine types—virtual analogue, wavetable, 6-operator FM, sample and granular, ROM, and noise—and a semi-modular effects section that utilizes a patchbay-style routing system.</p><p>The synthesizer includes a "presets in parts" feature, allowing users to independently load core sounds, effects, motion, matrix, macros, or arpeggios. It also incorporates a 32-slot modulation matrix and a generative sequencer. SynthSYS is priced at an introductory £129, and a Windows version is planned for a future release.</p><p><img src="https://static.kvraudio.com/i/b/screenshot-2026-09-27-at-22-38-05.png" /></p><hr/><small>29 Sep 2026, 15:13 UTC | #22684</small>]]></content>
   </entry>
-  <entry>
-    <title>Leit Audio Releases Widelay Free Stereo Delay Plugin</title>
-    <link href="https://www.kvraudio.com/news/leit-audio-releases-widelay-free-stereo-delay-that-spreads-echoes-outward-vst3-and-au-68739?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68739" rel="alternate" />
-    <id>https://www.kvraudio.com/news/leit-audio-releases-widelay-free-stereo-delay-that-spreads-echoes-outward-vst3-and-au-68739?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68739::v239</id>
-    <published>2026-09-29T09:16:00+00:00</published>
-    <updated>2026-09-29T09:16:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/widelay-banner-m.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/leit-audio-releases-widelay-free-stereo-delay-that-spreads-echoes-outward-vst3-and-au-68739?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68739">kvraudio.com</a> | <a href="https://leitaudio.com/widelay/">source</a></small></p><hr/><p>Leit Audio has released Widelay, a free stereo delay plugin for VST3, AU, and Linux formats. The plugin expands the stereo width of echoes by spreading repeats progressively outward across the stereo field, rather than simply receding into the background.</p><p>The software features controls for delay, time, and mix, and supports tempo synchronization for 14 note values. While it offers mono-to-stereo and stereo-to-stereo operation, the time-offset method used to create widening makes the echoes not mono-compatible.</p><p><img src="https://static.kvraudio.com/i/b/widelay-banner-m.png" /></p><hr/><small>29 Sep 2026, 13:23 UTC | #22673</small>]]></content>
-  </entry>
-  <entry>
-    <title>BeRoTracker Adds Linux and macOS Support in Version 1.00.2026.09.29</title>
-    <link href="https://www.kvraudio.com/news/benjamin-rosseaux-updates-berotracker-to-v1-00-2026-09-29-68796?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68796" rel="alternate" />
-    <id>https://www.kvraudio.com/news/benjamin-rosseaux-updates-berotracker-to-v1-00-2026-09-29-68796?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68796::v239</id>
-    <published>2026-09-29T09:15:00+00:00</published>
-    <updated>2026-09-29T09:15:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot1.1790564356.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/benjamin-rosseaux-updates-berotracker-to-v1-00-2026-09-29-68796?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68796">kvraudio.com</a> | <a href="https://www.berotracker.com/">source</a></small></p><hr/><p>Benjamin Rosseaux has updated BeRoTracker to version 1.00.2026.09.29, expanding availability to include Linux and macOS (Apple Silicon) builds alongside the existing Windows version. The update introduces a Vulkan-based interface with adaptive sizing, VST3 and CLAP plugin support, and various audio backends including ALSA, PipeWire, and CoreAudio.</p><p>This keyboard-driven music tracker, which follows the Impulse Tracker tradition, now features 256 channels, an OPL3 synthesis engine, and expanded support for AdLib/FM and MIDI file formats. It remains a portable application that can be run directly from a ZIP archive without installation.</p><p><img src="https://static.kvraudio.com/i/b/screenshot1.1790564356.png" /></p><hr/><small>29 Sep 2026, 13:21 UTC | #22674</small>]]></content>
-  </entry>
-  <entry>
-    <title>Hazel Mills Discusses Ideal Studio and New Album on My Forever Studio Podcast</title>
-    <link href="https://musictech.com/shows/hazel-mills/" rel="alternate" />
-    <id>https://musictech.com/shows/hazel-mills/::v239</id>
-    <published>2026-09-29T09:13:00+00:00</published>
-    <updated>2026-09-29T09:13:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/hazel-mills-mfs@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/shows/hazel-mills/">musictech.com</a></small></p><hr/><p>Musician and songwriter Hazel Mills describes her ideal creative workspace and career trajectory on the My Forever Studio podcast. She details a fantasy studio located in a remote Norwegian landscape and explains how she balances session work for artists like Kylie Minogue with her own solo projects.</p><p>The conversation covers her interest in prepared piano and provides a glimpse into her upcoming "dystopian dance music" album. Hosted by Chris Barker and Will Betts, the series explores the essential tools and environments artists choose for their dream studio setups.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/hazel-mills-mfs@2000x1500.jpg" /></p><hr/><small>29 Sep 2026, 13:08 UTC | #22676</small>]]></content>
-  </entry>
-  <entry>
-    <title>Dr. Zoppa Releases Windows Versions of AMI-POLYCHAOS, AMI-PLSYSTEMS, and AMI-POLYMARKOV</title>
-    <link href="https://www.kvraudio.com/news/dr-zoppa-releases-ami-polychaos-ami-plsystems-and-ami-polymarkov-for-windows-vst3-68799?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68799" rel="alternate" />
-    <id>https://www.kvraudio.com/news/dr-zoppa-releases-ami-polychaos-ami-plsystems-and-ami-polymarkov-for-windows-vst3-68799?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68799::v239</id>
-    <published>2026-09-29T09:12:00+00:00</published>
-    <updated>2026-09-29T09:12:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/kvr-ami-polymarkov-1-5-1.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dr-zoppa-releases-ami-polychaos-ami-plsystems-and-ami-polymarkov-for-windows-vst3-68799?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68799">kvraudio.com</a> | <a href="https://www.drzoppa.com/soft">source</a></small></p><hr/><p>Dr. Zoppa has released Windows VST3 versions of the AMI-CMMAS series, comprising the generative MIDI plugins AMI-POLYCHAOS, AMI-PLSYSTEMS, and AMI-POLYMARKOV. Previously exclusive to macOS, these 64-bit plugins are now compatible with Windows 10 and 11.</p><p>The plugins utilize algorithmic methods—including chaotic trajectories, L-systems, and Markov chains—to transform held chords into four-voice polyphonic MIDI sequences. They can be routed into any MIDI-capable host instrument and are available for individual purchase or as a bundle, with 30-day trials provided.</p><p><img src="https://static.kvraudio.com/i/b/kvr-ami-polymarkov-1-5-1.png" /></p><hr/><small>29 Sep 2026, 13:06 UTC | #22675</small>]]></content>
-  </entry>
-  <entry>
-    <title>NINZYA Works Updates NINZYA Converter VST3 with Expanded DAW Compatibility</title>
-    <link href="https://www.kvraudio.com/news/ninzya-works-updates-ninzya-converter-vst3-with-broader-daw-compatibility-68790?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68790" rel="alternate" />
-    <id>https://www.kvraudio.com/news/ninzya-works-updates-ninzya-converter-vst3-with-broader-daw-compatibility-68790?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68790::v239</id>
-    <published>2026-09-29T09:10:00+00:00</published>
-    <updated>2026-09-29T09:10:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/ninja-ab-screenshot-add-sections.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ninzya-works-updates-ninzya-converter-vst3-with-broader-daw-compatibility-68790?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68790">kvraudio.com</a> | <a href="https://ninzyaworks.org/#ninzya-converter">source</a></small></p><hr/><p>The NINZYA Converter VST3 update now includes support for Image-Line FL Studio, REAPER, and Universal Audio LUNA. This utility allows third-party VST3 plug-in windows to transition into a minimal "Ghost" state, reducing screen clutter while keeping the plugins accessible.</p><p>The update also includes the free NINZYA Converter VST3 Lite and the new NINZYA Folder VST. While macOS versions are available now, development for Windows and AU formats is currently in progress.</p><p><img src="https://static.kvraudio.com/i/b/ninja-ab-screenshot-add-sections.png" /></p><hr/><small>29 Sep 2026, 12:51 UTC | #22671</small>]]></content>
-  </entry>
 </feed>
