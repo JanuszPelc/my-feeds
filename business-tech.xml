@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-04T06:05:00+00:00</updated>
+  <updated>2026-10-04T15:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Meta Chief AI Officer Alexandr Wang Drives Success of Muse AI Agent</title>
+    <link href="https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659?st=ba2ZAz&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659?st=ba2ZAz&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-10-04T15:23:00+00:00</published>
+    <updated>2026-10-04T15:23:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/sfAbxNsxTJc/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659?st=ba2ZAz&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Alexandr Wang, Meta's first Gen Z senior executive and Chief AI Officer, has spearheaded the development and promotion of the Muse AI agent, significantly bolstering the company's standing in the artificial intelligence market.</p><p>His leadership and the rapid success of Muse have reportedly caused internal friction among Meta's senior leadership.</p><p><img src="https://i.ytimg.com/vi/sfAbxNsxTJc/maxresdefault.jpg" /></p><hr/><small>4 Oct 2026, 19:09 UTC | #23214</small>]]></content>
+  </entry>
   <entry>
     <title>Universities Re-evaluate Assessment and Data Policies Amid Generative AI Integration</title>
     <link href="https://aiweekly.co/issues/universities-cannot-grade-their-way-out-of-ai" rel="alternate" />
