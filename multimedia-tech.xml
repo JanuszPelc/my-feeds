@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-04T00:55:00+00:00</updated>
+  <updated>2026-10-04T08:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>PasRISCV RISC-V Emulator Enables In-Game Linux for SEEDS</title>
+    <link href="https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/" rel="alternate" />
+    <id>https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/::v239</id>
+    <published>2026-10-04T08:41:00+00:00</published>
+    <updated>2026-10-04T08:41:00+00:00</updated>
+    <media:thumbnail url="https://againstallodds.games/images/blog/riscv64.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/">againstallodds.games</a> | <a href="https://lobste.rs/s/rsx2a6/our_risc_v_emulator_pasriscv">discussion</a> | <a href="https://news.ycombinator.com/item?id=49931993">hacker news</a></small></p><hr/><p>PasRISCV is an open-source RISC-V 64-bit emulator written in Object Pascal that provides a fully emulated Alpine Linux system for the game SEEDS. The system simulates a complete virtual machine—including CPU, memory, and I/O—allowing native Linux binaries to run on a host machine.</p><p>The emulator features a hybrid CPU model using an interpreter and a tracing JIT compiler for x86-64 hosts and supports RVA23 and SMP. Integration is handled via Linux Virtual Sockets (vsock) to facilitate high-speed communication between the game engine and the guest system.</p><p><img src="https://againstallodds.games/images/blog/riscv64.webp" /></p><hr/><small>4 Oct 2026, 15:29 UTC | #23219</small>]]></content>
+  </entry>
   <entry>
     <title>Timur Kristóf Details AMDGPU Driver Enhancements for Legacy AMD GPUs</title>
     <link href="https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU" rel="alternate" />
