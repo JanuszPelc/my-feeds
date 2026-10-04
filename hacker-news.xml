@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-03T16:38:00+00:00</updated>
+  <updated>2026-10-03T18:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ShinyHunters Member Saif al-Din Khader Detained in Jordan</title>
+    <link href="https://www.reuters.com/world/middle-east/key-shinyhunters-hacker-detained-jordan-is-cooperating-sources-say-2026-10-03/" rel="alternate" />
+    <id>https://www.reuters.com/world/middle-east/key-shinyhunters-hacker-detained-jordan-is-cooperating-sources-say-2026-10-03/::v239</id>
+    <published>2026-10-03T18:45:00+00:00</published>
+    <updated>2026-10-03T18:45:00+00:00</updated>
+    <media:thumbnail url="https://cdn.allaboutcookies.org/filters:quality(100)/images/2026/05/12/shinyhunters_hacking_message.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/middle-east/key-shinyhunters-hacker-detained-jordan-is-cooperating-sources-say-2026-10-03/">reuters.com</a></small></p><hr/><p>Saif al-Din Khader, a key member of the ShinyHunters hacking group known as “Rey,” has been detained in Jordan. Khader is reportedly cooperating with the FBI to identify other hackers involved in the group's breach of sensitive FBI employee data.</p><p>The ShinyHunters group has claimed to have stolen data pertaining to every FBI employee. This arrest follows a series of recent international law enforcement efforts to disrupt the group, including a recent arrest of a suspected member in the Netherlands.</p><p><img src="https://cdn.allaboutcookies.org/filters:quality(100)/images/2026/05/12/shinyhunters_hacking_message.png" /></p><hr/><small>4 Oct 2026, 00:01 UTC | #23170</small>]]></content>
+  </entry>
   <entry>
     <title>LLMs Enable a New Era of Programming Language Exploration</title>
     <link href="https://kirancodes.me/posts/log-end-of-pl.html" rel="alternate" />
