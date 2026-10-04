@@ -519,22 +519,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/blox-delay-thumb.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/pine-dsp-releases-blox-delay---repeat-ricochet-and-diffuse-vst3-au-and-aax-68801?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68801">kvraudio.com</a> | <a href="https://pinedsp.com/blox-delay">source</a></small></p><hr/><p>Pine DSP has released Blox Delay, a three-mode delay plugin for macOS and Windows. The plugin offers Normal, Ping Pong, and Diffuse modes, with the Diffuse mode featuring a "Wash" setting to transform repeats into dense, reverb-like tails through modulated diffusion.</p><p>Functional features include advanced ducking controls with dedicated depth, threshold, attack, and release parameters, as well as high-pass and low-pass filters within the feedback loop. The plugin is available in VST3, AU, and AAX formats and is priced at $19.</p><p><img src="https://static.kvraudio.com/i/b/blox-delay-thumb.jpg" /></p><hr/><small>29 Sep 2026, 19:49 UTC | #22715</small>]]></content>
   </entry>
-  <entry>
-    <title>Xilentch Releases Free StereoiXer Multiband Spatial Image Processor</title>
-    <link href="https://bedroomproducersblog.com/2026/09/29/xilentch-stereoixer/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/29/xilentch-stereoixer/::v239</id>
-    <published>2026-09-29T11:48:00+00:00</published>
-    <updated>2026-09-29T11:48:00+00:00</updated>
-    <media:thumbnail url="https://images.equipboard.com/uploads/item_image/image/1103066/plugin-alliance-thx-spatial-creator-01-xl.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/29/xilentch-stereoixer/">bedroomproducersblog.com</a> | <a href="https://www.patreon.com/Xilentch/posts/stereoixer-more-169696502">source</a> | <a href="https://bedroomproducersblog.com/2026/09/29/xilentch-stereoixer/#respond">discussion</a></small></p><hr/><p>Xilentch has released StereoiXer, a free multiband spatial image processor for macOS and Windows. The plugin is available in AU, VST3, and AAX formats and utilizes an architecture derived from the developer's XM Series mastering bundle.</p><p>The tool allows for precise 3D soundstage manipulation through its adjustable multi-band architecture. It is designed to enhance the depth and width of audio mixes with high precision.</p><p><img src="https://images.equipboard.com/uploads/item_image/image/1103066/plugin-alliance-thx-spatial-creator-01-xl.jpg" /></p><hr/><small>29 Sep 2026, 16:11 UTC | #22698</small>]]></content>
-  </entry>
-  <entry>
-    <title>AV -Ylänne Releases Finnish Forest Percussion for Decent Sampler</title>
-    <link href="https://bedroomproducersblog.com/2026/09/29/finnish-forest-percussion-decent-sampler/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/29/finnish-forest-percussion-decent-sampler/::v239</id>
-    <published>2026-09-29T11:47:00+00:00</published>
-    <updated>2026-09-29T11:47:00+00:00</updated>
-    <media:thumbnail url="https://static.wixstatic.com/media/75835c_97a95efb94ce472e8f525a44d1612136~mv2.jpg/v1/fill/w_2500,h_1530,al_c/75835c_97a95efb94ce472e8f525a44d1612136~mv2.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/29/finnish-forest-percussion-decent-sampler/">bedroomproducersblog.com</a> | <a href="https://joonasylanne.gumroad.com/l/FinnishForestPercussion">source</a> | <a href="https://bedroomproducersblog.com/2026/09/29/finnish-forest-percussion-decent-sampler/#respond">discussion</a></small></p><hr/><p>AV -Ylänne has released Finnish Forest Percussion, a free organic percussion library designed for Decent Sampler. The collection features percussion sounds recorded in the Finnish forest using natural materials like wood and stone.</p><p>Recorded at 96 kHz, the samples maintain high audio quality when pitched down. The instrument is available for free download via Gumroad, with an option to provide donations to the developer.</p><p><img src="https://static.wixstatic.com/media/75835c_97a95efb94ce472e8f525a44d1612136~mv2.jpg/v1/fill/w_2500,h_1530,al_c/75835c_97a95efb94ce472e8f525a44d1612136~mv2.jpg" /></p><hr/><small>29 Sep 2026, 16:10 UTC | #22699</small>]]></content>
-  </entry>
 </feed>

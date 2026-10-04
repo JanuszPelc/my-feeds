@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-03T14:06:00+00:00</updated>
+  <updated>2026-10-04T01:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Operator Memory Proposes Documentation-Based Approach for AI Agents</title>
+    <link href="https://liao.gg/blog/agents-dont-need-memory" rel="alternate" />
+    <id>https://liao.gg/blog/agents-dont-need-memory::v239</id>
+    <published>2026-10-04T01:51:00+00:00</published>
+    <updated>2026-10-04T01:51:00+00:00</updated>
+    <media:thumbnail url="https://liao.gg/images/blog/agents-dont-need-memory/tangled-800.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://liao.gg/blog/agents-dont-need-memory">liao.gg</a> | <a href="https://news.ycombinator.com/item?id=49945933">hacker news</a></small></p><hr/><p>AI agent "memory" plugins often rely on RAG-based vector databases to retrieve conversation snippets, a method providing limited semantic context, low auditability, and difficulty keeping pace with evolving codebases. This architecture prioritizes increasing data capture and retrieval accuracy rather than addressing the requirement for structured, persistent project documentation.</p><p>A "prompt, consult, build, update" workflow allows agents to maintain a Markdown-based "brain" of instructions, specifications, and research. The open-source Operator Memory tool implements this model, enabling agents to read and update human-readable files to maintain context across sessions without the need for embedding-based retrieval.</p><p><img src="https://liao.gg/images/blog/agents-dont-need-memory/tangled-800.jpg" /></p><hr/><small>4 Oct 2026, 11:51 UTC | #23213</small>]]></content>
+  </entry>
   <entry>
     <title>Wagtail Developer Experiments with GLM 5.3 Flash for One Month</title>
     <link href="https://wagtail.org/blog/one-month-on-glm-53-flash/" rel="alternate" />
