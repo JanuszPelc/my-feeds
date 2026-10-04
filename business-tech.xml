@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-04T00:21:00+00:00</updated>
+  <updated>2026-10-04T01:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>White House Forms 'Super Intelligence Force' AI Task Force</title>
+    <link href="https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?st=biS7e8" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?st=biS7e8::v239</id>
+    <published>2026-10-04T01:45:00+00:00</published>
+    <updated>2026-10-04T01:45:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?st=biS7e8">wsj.com</a></small></p><hr/><p>The White House has established the "Super Intelligence Force," a task force chaired by Director of National Intelligence Jay Clayton, to assess the risks and opportunities of artificial intelligence. The group is expected to submit a report on the technology's impact within 120 days.</p><p>The initiative follows mounting public and industry concerns regarding AI development. The resulting report is intended to provide recommendations for federal government oversight and responsibility regarding the technology.</p><hr/><small>4 Oct 2026, 07:09 UTC | #23190</small>]]></content>
+  </entry>
   <entry>
     <title>Default Hard Budget Caps Needed for Usage-Based Services</title>
     <link href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/" rel="alternate" />
