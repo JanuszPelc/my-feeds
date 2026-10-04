@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-04T12:57:00+00:00</updated>
+  <updated>2026-10-04T13:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Jamie Tanna Recommends Renovate for Dependency Updates</title>
+    <link href="https://www.jvt.me/posts/2024/04/12/use-renovate/" rel="alternate" />
+    <id>https://www.jvt.me/posts/2024/04/12/use-renovate/::v239</id>
+    <published>2026-10-04T13:01:00+00:00</published>
+    <updated>2026-10-04T13:01:00+00:00</updated>
+    <media:thumbnail url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n3j7l65qmehdt8klvy0k.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.jvt.me/posts/2024/04/12/use-renovate/">jvt.me</a> | <a href="https://lobste.rs/s/kt0yxd/why_i_recommend_renovate_over_any_other">discussion</a></small></p><hr/><p>Jamie Tanna argues that Renovate is the strongest dependency-update tool he has used, citing its configurability, shareable presets, sensible defaults, package-manager coverage, grouping controls, custom managers, command-line mode, Dependency Dashboard, open-source model, and documentation.</p><p>The article compares Renovate with Dependabot and Snyk through practical experience across repositories and ecosystems. It explains how teams can standardize configuration, reduce pull-request noise, manage nonstandard version references, gate major updates, self-host for internal registries, or use Mend’s hosted service.</p><p><img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n3j7l65qmehdt8klvy0k.png" /></p><hr/><small>4 Oct 2026, 17:21 UTC | #23228</small>]]></content>
+  </entry>
+  <entry>
+    <title>Cloudflare Opens Artifacts Beta and Launches AI-Agent Git Platform Competition</title>
+    <link href="https://blog.cloudflare.com/next-git-platform-on-cloudflare/" rel="alternate" />
+    <id>https://blog.cloudflare.com/next-git-platform-on-cloudflare/::v239</id>
+    <published>2026-10-04T13:00:00+00:00</published>
+    <updated>2026-10-04T13:00:00+00:00</updated>
+    <media:thumbnail url="https://blog.cloudflare.com/_image?href=https%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01M3SQC6HRKEPPV90RWXN9CTKR.png&amp;w=715&amp;h=396&amp;f=webp&amp;fit=cover&amp;position=center" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.cloudflare.com/next-git-platform-on-cloudflare/">blog.cloudflare.com</a> | <a href="https://www.cloudflare.com/git-competition/">source</a> | <a href="https://news.ycombinator.com/item?id=49947051">hacker news</a></small></p><hr/><p>Cloudflare has placed its Git-compatible Artifacts versioned filesystem into open beta and is inviting developers to build a Git platform for coordinating large numbers of software agents on Workers and Artifacts. The competition focuses on concurrent agent work, code review, merge conflicts, repositories, and developer workflows.</p><p>New Artifacts capabilities include Workers deployment, programmable repository management, event subscriptions, U.S. or EU data jurisdiction controls, and usage metrics. Submissions require a demo video, permissively licensed source code, and run instructions by October 14, 2026; the first-place team will receive $25,000 in Cloudflare credits, while billing for Artifacts usage is scheduled to begin October 15.</p><p><img src="https://blog.cloudflare.com/_image?href=https%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01M3SQC6HRKEPPV90RWXN9CTKR.png&w=715&h=396&f=webp&fit=cover&position=center" /></p><hr/><small>4 Oct 2026, 17:17 UTC | #23226</small>]]></content>
+  </entry>
   <entry>
     <title>FTL Introduces a Userspace OS Architecture for Cloud Containers</title>
     <link href="https://ftl-os.org/" rel="alternate" />
