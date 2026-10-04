@@ -220,13 +220,4 @@
     <updated>2026-09-30T02:39:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49893157">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49893157">hacker news</a></small></p><hr/><p>A Hacker News discussion thread features community members sharing their current reading lists and book recommendations. The exchange covers multiple genres, including science fiction, systems theory, and Westerns.</p><p>Participants highlight works such as Donella Meadows's *Thinking In Systems*, Ted Chiang's *Stories of Your Life and Others*, and Hugh Howey's *Silo* series. Other mentioned titles include Larry McMurtry's *Lonesome Dove* and Dienw Neb[0]'s *null: $cat /dev/null_*.</p><hr/><small>30 Sep 2026, 09:48 UTC | #22808</small>]]></content>
   </entry>
-  <entry>
-    <title>Pragmatic Anthropomorphism in AI Interaction</title>
-    <link href="https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/" rel="alternate" />
-    <id>https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/::v239</id>
-    <published>2026-09-29T23:33:00+00:00</published>
-    <updated>2026-09-29T23:33:00+00:00</updated>
-    <media:thumbnail url="https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/anabrus-simplex-dithered.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/">blog.lmorchard.com</a> | <a href="https://lobste.rs/s/yidvju/pragmatic_anthropomorphism_how_talk">discussion</a></small></p><hr/><p>Treating Large Language Models (LLMs) as competent collaborators, rather than debating their sentience, facilitates more effective interaction through "pragmatic anthropomorphism." This technique uses specific conversational registers to navigate a model's latent space, steering it toward professional and technical reasoning rather than superficial or defensive responses.</p><p>Anthropic research indicates that LLMs exhibit "functional emotions," where internal representations of emotional concepts causally influence behavior. Adopting a collegial tone serves as an operational method to steer models into the high-quality, academic, or technical domains of their training data.</p><p><img src="https://blog.lmorchard.com/2026/09/27/pragmatic-anthropomorphism/anabrus-simplex-dithered.png" /></p><hr/><small>30 Sep 2026, 04:54 UTC | #22789</small>]]></content>
-  </entry>
 </feed>
