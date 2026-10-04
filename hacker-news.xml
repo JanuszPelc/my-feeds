@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-04T12:54:00+00:00</updated>
+  <updated>2026-10-04T12:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>FTL Introduces a Userspace OS Architecture for Cloud Containers</title>
+    <link href="https://ftl-os.org/" rel="alternate" />
+    <id>https://ftl-os.org/::v239</id>
+    <published>2026-10-04T12:57:00+00:00</published>
+    <updated>2026-10-04T12:57:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQFbR-L_Wqc2VQ/article-cover_image-shrink_720_1280/B4DZ3EImqtGcAI-/0/1777112093180?e=2147483647&amp;v=beta&amp;t=OPhgjMZ8tU6mYwArQ8Y-r3xsnlPvH8rE06tmsz6yQsE" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ftl-os.org/">ftl-os.org</a> | <a href="https://seiya.me/blog/introducing-ftl">source</a> | <a href="https://news.ycombinator.com/item?id=49944912">hacker news</a></small></p><hr/><p>FTL is a cloud-focused operating system that runs a userspace OS inside each container, with a minimal kernel interface providing hardware-based isolation. It supports Linux binaries, and its developers report running a Rust HTTP server on FTL without requiring bare-metal machines.</p><p>The design treats the OS as a library implementing processes, virtual filesystems, and networking, aiming to combine microkernel flexibility with monolithic-kernel performance. Async Rust support has been released, while filesystem support, Node.js and Go compatibility, container images, SMP, and 64-bit Arm support remain planned.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQFbR-L_Wqc2VQ/article-cover_image-shrink_720_1280/B4DZ3EImqtGcAI-/0/1777112093180?e=2147483647&v=beta&t=OPhgjMZ8tU6mYwArQ8Y-r3xsnlPvH8rE06tmsz6yQsE" /></p><hr/><small>4 Oct 2026, 16:41 UTC | #23225</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Details Jalapeño Inference Accelerator in Richard Ho Interview</title>
     <link href="https://morethanmoore.substack.com/p/interview-with-richard-ho-openai" rel="alternate" />
@@ -905,13 +914,5 @@
     <updated>2026-09-29T16:45:00+00:00</updated>
     <media:thumbnail url="https://jagi.studio/images/art/phyllotaxis_1.jpeg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jagi.studio/posts/phyllotaxis/">jagi.studio</a> | <a href="https://news.ycombinator.com/item?id=49880411">hacker news</a></small></p><hr/><p>An audio-reactive LED sculpture has been created based on the phyllotaxis patterns found in nature. The design uses Voronoi tessellation to generate a cellular matrix of addressable LEDs, which are diffused through mulberry paper to achieve an organic aesthetic.</p><p>The system utilizes an STM32 microcontroller and an I2S microphone for real-time audio analysis and frequency splitting. A second iteration implements an ESP32 running Rust-based firmware, featuring a WebAssembly backend that allows users to upload custom sketches via a local web interface.</p><p><img src="https://jagi.studio/images/art/phyllotaxis_1.jpeg" /></p><hr/><small>29 Sep 2026, 21:24 UTC | #22762</small>]]></content>
-  </entry>
-  <entry>
-    <title>Motif Central Provides Programming Resources for Motif and X11</title>
-    <link href="https://motif-central.org/" rel="alternate" />
-    <id>https://motif-central.org/::v239</id>
-    <published>2026-09-29T16:35:00+00:00</published>
-    <updated>2026-09-29T16:35:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://motif-central.org/">motif-central.org</a> | <a href="https://lobste.rs/s/otexs4/motifcentral_all_things_motif_xt_xlib">discussion</a></small></p><hr/><p>Motif Central provides documentation and tutorials for the Motif, Xt, Xlib, and X11 programming stacks. It offers instructions for building applications, features widget galleries, and explains the interaction between different layers of the X programming stack.</p><p>The website acts as a repository for programming references, historical documentation, and examples related to the X Window System. It also contains information regarding software maintenance and preservation efforts for these toolkits.</p><hr/><small>29 Sep 2026, 19:51 UTC | #22755</small>]]></content>
   </entry>
 </feed>
