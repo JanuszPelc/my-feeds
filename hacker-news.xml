@@ -942,13 +942,4 @@
     <updated>2026-09-30T02:09:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html">nnethercote.github.io</a> | <a href="https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026">discussion</a></small></p><hr/><p>The Rust compiler achieved a 4.57% mean wall-time reduction between late July and late September 2026, with 555 of 629 benchmarks showing improvements. Updates included upgrading to LLVM 23, enabling Profile-Guided Optimization (PGO) for Clippy, and the enablement of the Polonius Alpha borrow checker and the new trait solver on Nightly.</p><p>Technical optimizations included improved CFG traversal for dataflow analyses, specialization graph handling, and adjusted liveness computations. Future work includes a compiler performance optimization project at Hexcat.</p><hr/><small>30 Sep 2026, 06:13 UTC | #22795</small>]]></content>
   </entry>
-  <entry>
-    <title>jBin Binary Schema Language and Code Generator</title>
-    <link href="https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually/" rel="alternate" />
-    <id>https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually/::v239</id>
-    <published>2026-09-29T23:38:00+00:00</published>
-    <updated>2026-09-29T23:38:00+00:00</updated>
-    <media:thumbnail url="https://img.sabae.cc/data/2062/f5b55026-433e-4782-b887-8562071d88d6.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hereticpleb.vercel.app/blog/packing-binary-is-fun-actually/">hereticpleb.vercel.app</a> | <a href="https://github.com/PranavDesai-Git/jbin">source</a> | <a href="https://lobste.rs/s/uawtno/packing_binary_is_fun_actually">discussion</a> | <a href="https://news.ycombinator.com/item?id=49872541">hacker news</a></small></p><hr/><p>Pranav Desai has developed jBin, a schema-based binary packing system and code generator that can reduce JSON payload sizes by up to 80%. The tool uses a custom schema language to encode field numbers, data types, and lengths into a compact binary format, minimizing the data required for transmission.</p><p>The implementation is written in C++ and features a complete compiler pipeline, including a lexer, parser, abstract syntax tree (AST), and semantic analyzer. The system utilizes variable-length integers (varints) and bit-packing techniques to efficiently encode field metadata within the binary stream.</p><p><img src="https://img.sabae.cc/data/2062/f5b55026-433e-4782-b887-8562071d88d6.jpg" /></p><hr/><small>30 Sep 2026, 05:56 UTC | #22794</small>]]></content>
-  </entry>
 </feed>
