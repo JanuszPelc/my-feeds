@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-04T19:43:00+00:00</updated>
+  <updated>2026-10-04T19:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>John Ternus to Lead Apple Design as MacBook Pro Gets OLED Touch-Screen</title>
+    <link href="https://www.bloomberg.com/news/newsletters/2026-10-04/apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTEyNDAyOSwiZXhwIjoxNzkxNzI4ODI5LCJhcnRpY2xlSWQiOiJUTURZVzFWVFRDWkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.IMplehb6VmR_olZW0pY5ppJms0Vi5W1Zfu04Y36cvSI" rel="alternate" />
+    <id>https://www.bloomberg.com/news/newsletters/2026-10-04/apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTEyNDAyOSwiZXhwIjoxNzkxNzI4ODI5LCJhcnRpY2xlSWQiOiJUTURZVzFWVFRDWkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.IMplehb6VmR_olZW0pY5ppJms0Vi5W1Zfu04Y36cvSI::v239</id>
+    <published>2026-10-04T19:49:00+00:00</published>
+    <updated>2026-10-04T19:49:00+00:00</updated>
+    <media:thumbnail url="https://assets.techrepublic.com/uploads/2026/02/unnamed-14.jpg?w=512" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/newsletters/2026-10-04/apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTEyNDAyOSwiZXhwIjoxNzkxNzI4ODI5LCJhcnRpY2xlSWQiOiJUTURZVzFWVFRDWkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.IMplehb6VmR_olZW0pY5ppJms0Vi5W1Zfu04Y36cvSI">bloomberg.com</a></small></p><hr/><p>Apple's John Ternus is increasingly overseeing the company's hardware and software design work, effectively assuming a larger leadership role within the design studio. The upcoming redesigned MacBook Pro lineup is expected to feature OLED touch-screen technology and a significantly lighter chassis.</p><p>The weight reduction will reportedly be achieved by reengineering the laptop's interior, which involves miniaturizing internal components and rearranging parts. This overhaul represents a major shift in the MacBook Pro's physical architecture and display technology.</p><p><img src="https://assets.techrepublic.com/uploads/2026/02/unnamed-14.jpg?w=512" /></p><hr/><small>4 Oct 2026, 22:37 UTC | #23223</small>]]></content>
+  </entry>
   <entry>
     <title>RemoveMacAI Disables Apple Intelligence and Reclaims Storage on macOS 27</title>
     <link href="https://github.com/omlahore/RemoveMacAI" rel="alternate" />
