@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-03T22:12:00+00:00</updated>
+  <updated>2026-10-04T00:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Nolan Lawson Analyzes Developer Resistance to Using Native Web Platform APIs</title>
+    <link href="https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/" rel="alternate" />
+    <id>https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/::v239</id>
+    <published>2026-10-04T00:25:00+00:00</published>
+    <updated>2026-10-04T00:25:00+00:00</updated>
+    <media:thumbnail url="https://nolanlawson.com/media/2026/10/dragndrop.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/">nolanlawson.com</a> | <a href="https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform">discussion</a></small></p><hr/><p>Developers frequently opt to build custom solutions using JavaScript libraries rather than utilizing built-in browser APIs, despite the performance and accessibility advantages of native platform features. This trend is driven by historical browser fragmentation, the familiarity of the npm ecosystem, and the extensive documentation often provided by third-party libraries compared to native web standards.</p><p>Beyond practical utility, the author suggests that building custom components provides a sense of ownership and acts as a powerful learning mechanism for mastering complex underlying technologies. The essay also speculates on the influence of AI, noting that Large Language Models could either streamline development by selecting optimal platform APIs or exacerbate over-engineering by generating redundant, non-idiomatic code.</p><p><img src="https://nolanlawson.com/media/2026/10/dragndrop.png" /></p><hr/><small>4 Oct 2026, 03:28 UTC | #23195</small>]]></content>
+  </entry>
   <entry>
     <title>Rust Upstream Maintenance Report (August–September 2026)</title>
     <link href="https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html" rel="alternate" />
