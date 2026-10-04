@@ -905,12 +905,4 @@
     <media:thumbnail url="https://i.ytimg.com/vi/gx-VV-Ht8RA/maxresdefault.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/">wolfgirl.dev</a> | <a href="https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust">discussion</a></small></p><hr/><p>Implementing a self-referential struct with `Pin` allows for downcasting `Arc&lt;T&gt;` values into specialized types without the cost of cloning. This technique ensures memory address stability, enabling a wrapper to provide zero-copy access to internal data while adhering to Rust's ownership and lifetime rules.</p><p>This pattern overcomes the difficulty of deriving specialized type access from an `Arc&lt;T&gt;` variant without triggering expensive re-allocations or lifetime errors. By leveraging the `Deref` trait and `Pin` guarantees, the proposed `PinRef` structure maintains a pointer to the contents of the `Arc`, facilitating high-performance, read-only access for concurrent cache implementations.</p><p><img src="https://i.ytimg.com/vi/gx-VV-Ht8RA/maxresdefault.jpg" /></p><hr/><small>29 Sep 2026, 19:14 UTC | #22737</small>]]></content>
   </entry>
-  <entry>
-    <title>Aho-Corasick Algorithm Construction and Mechanics</title>
-    <link href="https://compiler.club/aho-corasick/" rel="alternate" />
-    <id>https://compiler.club/aho-corasick/::v239</id>
-    <published>2026-09-29T14:51:00+00:00</published>
-    <updated>2026-09-29T14:51:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://compiler.club/aho-corasick/">compiler.club</a> | <a href="https://cr.yp.to/bib/1975/aho.pdf">source</a> | <a href="https://lobste.rs/s/s0x5nd/aho_corasick_algorithm">discussion</a></small></p><hr/><p>The Aho-Corasick algorithm enables simultaneous multi-pattern matching within a sequence by constructing a finite state automaton from a trie. It utilizes suffix links to navigate the automaton upon transition failure and output links to identify overlapping pattern matches.</p><p>Construction is performed via a breadth-first traversal to compute suffix and output links. These links allow the trie to be determinized into a deterministic finite automaton (DFA), which provides efficient transitions during the pattern-matching process.</p><hr/><small>29 Sep 2026, 18:41 UTC | #22745</small>]]></content>
-  </entry>
 </feed>
