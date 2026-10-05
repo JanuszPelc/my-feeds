@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-04T20:11:00+00:00</updated>
+  <updated>2026-10-04T21:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>BinRange Uses Ultra-Wideband Radio to Track Trash Bins</title>
+    <link href="https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/" rel="alternate" />
+    <id>https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/::v239</id>
+    <published>2026-10-04T21:10:00+00:00</published>
+    <updated>2026-10-04T21:10:00+00:00</updated>
+    <media:thumbnail url="https://sjg.io/binrange/tagged-bins-installation.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/">sjg.io</a> | <a href="https://news.ycombinator.com/item?id=49947472">hacker news</a></small></p><hr/><p>BinRange utilizes Ultra-Wideband (UWB) radio technology to monitor whether household trash bins have been moved for collection. The system employs a fixed radio anchor and battery-powered tags that communicate via MQTT to Home Assistant, providing precise distance measurements that avoid the inaccuracies of Bluetooth RSSI methods.</p><p>The implementation includes custom firmware with accelerometer-based wake-up routines to maximize battery life and 3D-printed enclosures for the hardware. The system also supports wireless, signed firmware updates via Bluetooth, allowing for remote maintenance of the bin-mounted tags.</p><p><img src="https://sjg.io/binrange/tagged-bins-installation.webp" /></p><hr/><small>5 Oct 2026, 04:26 UTC | #23260</small>]]></content>
+  </entry>
+  <entry>
+    <title>SCM Provides Local-First AI Search for Media on macOS</title>
+    <link href="https://github.com/allenv0/SCM" rel="alternate" />
+    <id>https://github.com/allenv0/SCM::v239</id>
+    <published>2026-10-04T21:09:00+00:00</published>
+    <updated>2026-10-04T21:09:00+00:00</updated>
+    <media:thumbnail url="https://github.com/allenv0/SCM/raw/main/Asset/scm-vhs.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/allenv0/SCM">github.com</a> | <a href="https://news.ycombinator.com/item?id=49952111">hacker news</a></small></p><hr/><p>This open-source macOS application enables AI-powered searching through local photo and video libraries. It utilizes vision models such as CLIP and SigLIP for visual similarity, Tesseract for OCR, and Whisper for audio transcription to allow searches for specific scenes, on-screen text, and spoken dialogue.</p><p>The application operates entirely offline to maintain privacy, performing all inference on the host Mac. It includes automated video scene segmentation, content-based file deduplication, and an opt-in LLM mode for conversational queries using extracted media transcripts and metadata.</p><p><img src="https://github.com/allenv0/SCM/raw/main/Asset/scm-vhs.png" /></p><hr/><small>5 Oct 2026, 04:23 UTC | #23259</small>]]></content>
+  </entry>
   <entry>
     <title>Self-Hosted HTTP Tunnels Using OpenSSH and Nginx</title>
     <link href="https://vincent.bernat.ch/en/blog/2026-http-over-ssh" rel="alternate" />
