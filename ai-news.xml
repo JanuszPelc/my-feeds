@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-04T05:11:00+00:00</updated>
+  <updated>2026-10-05T05:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Reflection AI Set to Release First Open-Weight Model</title>
+    <link href="https://www.axios.com/2026/10/04/reflection-open-weight-ai" rel="alternate" />
+    <id>https://www.axios.com/2026/10/04/reflection-open-weight-ai::v239</id>
+    <published>2026-10-05T05:12:00+00:00</published>
+    <updated>2026-10-05T05:12:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/04/reflection-open-weight-ai">axios.com</a></small></p><hr/><p>Nvidia-backed startup Reflection AI is preparing to launch its first open-weight AI model this month, intended to rival leading Chinese models from DeepSeek and Alibaba. This release is part of a trend of Western companies introducing open-weight alternatives to compete with established international AI providers.</p><p>Founded by former Google DeepMind researchers, the startup's new system is expected to provide a more accessible alternative to proprietary frontier models. The model's arrival could potentially lower development costs for organizations building large-scale AI applications.</p><hr/><small>5 Oct 2026, 10:44 UTC | #23258</small>]]></content>
+  </entry>
   <entry>
     <title>Google Restructures Gemini Model Access Tiers</title>
     <link href="https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/" rel="alternate" />
