@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-05T11:19:00+00:00</updated>
+  <updated>2026-10-05T12:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Factor Programming Language Overview</title>
+    <link href="https://re.factorcode.org/2026/10/factor-overview.html" rel="alternate" />
+    <id>https://re.factorcode.org/2026/10/factor-overview.html::v239</id>
+    <published>2026-10-05T12:12:00+00:00</published>
+    <updated>2026-10-05T12:12:00+00:00</updated>
+    <media:thumbnail url="https://vectree.fsn1.your-objectstorage.com/og/c/execution-model-of-stack-based-programming-languages-like-postscript-and-forth.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://re.factorcode.org/2026/10/factor-overview.html">re.factorcode.org</a> | <a href="https://lobste.rs/s/bwtzhy/factor_overview">discussion</a></small></p><hr/><p>Factor is a stack-based, concatenative programming language featuring dynamic types, macros, and garbage collection. Code-forward examples demonstrate the language's syntax, control flow, and core libraries.</p><p>Core concepts including stack shuffling, word definitions, quotations, and arithmetic are detailed. The material is designed for developers transitioning from traditional programming to stack-oriented paradigms.</p><p><img src="https://vectree.fsn1.your-objectstorage.com/og/c/execution-model-of-stack-based-programming-languages-like-postscript-and-forth.jpg" /></p><hr/><small>5 Oct 2026, 15:25 UTC | #23310</small>]]></content>
+  </entry>
+  <entry>
+    <title>Podman Rootless Configuration for Docker Compose</title>
+    <link href="https://elou.world/en/tutorial/podman-docker-compose" rel="alternate" />
+    <id>https://elou.world/en/tutorial/podman-docker-compose::v239</id>
+    <published>2026-10-05T11:22:00+00:00</published>
+    <updated>2026-10-05T11:22:00+00:00</updated>
+    <media:thumbnail url="https://media.datacamp.com/cms/b308523027202a31c253ec22f1add609.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://elou.world/en/tutorial/podman-docker-compose">elou.world</a> | <a href="https://lobste.rs/s/tpxwfe/using_docker_compose_with_podman">discussion</a></small></p><hr/><p>Podman can interact with Docker-compatible tools like docker-compose by exposing a UNIX-domain socket that mimics the Docker API. By enabling the podman.socket through systemd and configuring the DOCKER_HOST environment variable to point to the user's Podman socket, users can manage rootless containers using standard Docker Compose commands.</p><p>To maintain container persistence after logout, users can enable user lingering via loginctl. The workflow also includes using podman mount for direct filesystem access within running containers and podman unshare to manage file permissions through user namespaces.</p><p><img src="https://media.datacamp.com/cms/b308523027202a31c253ec22f1add609.png" /></p><hr/><small>5 Oct 2026, 15:23 UTC | #23322</small>]]></content>
+  </entry>
   <entry>
     <title>Cloudflare Launches Web Search API in Beta</title>
     <link href="https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/" rel="alternate" />

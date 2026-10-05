@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-05T09:40:00+00:00</updated>
+  <updated>2026-10-05T11:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Chinese Token Resellers Establish Gray Market for Anthropic's Claude</title>
+    <link href="https://www.theinformation.com/articles/chinas-token-resellers-create-anthropic-gray-market" rel="alternate" />
+    <id>https://www.theinformation.com/articles/chinas-token-resellers-create-anthropic-gray-market::v239</id>
+    <published>2026-10-05T11:21:00+00:00</published>
+    <updated>2026-10-05T11:21:00+00:00</updated>
+    <media:thumbnail url="https://fastgptplus.com/posts/zh/china-claude-api-access/img/pricing.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/chinas-token-resellers-create-anthropic-gray-market">theinformation.com</a></small></p><hr/><p>Resellers in Beijing's Haidian District are operating a gray market to provide Chinese users with access to Anthropic's Claude AI. These operators use accumulated identities and USDT-funded cards to obtain accounts, which are then routed through proxies to bypass geographic restrictions.</p><p>This underground market offers API access at prices significantly lower than official rates, potentially helping developers circumvent regional blocks. Such activities present ongoing challenges for AI companies attempting to enforce service availability and prevent unauthorized third-party access.</p><p><img src="https://fastgptplus.com/posts/zh/china-claude-api-access/img/pricing.png" /></p><hr/><small>5 Oct 2026, 15:19 UTC | #23268</small>]]></content>
+  </entry>
   <entry>
     <title>Sam Altman Warns Against Attributing Religious Force to AI Models</title>
     <link href="https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models" rel="alternate" />
