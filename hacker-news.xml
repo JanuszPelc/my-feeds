@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-05T14:23:00+00:00</updated>
+  <updated>2026-10-05T14:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Mold 3.0.0 Released with Rust Rewrite</title>
+    <link href="https://github.com/rui314/mold/releases/tag/v3.0.0" rel="alternate" />
+    <id>https://github.com/rui314/mold/releases/tag/v3.0.0::v239</id>
+    <published>2026-10-05T14:27:00+00:00</published>
+    <updated>2026-10-05T14:27:00+00:00</updated>
+    <media:thumbnail url="https://i.programmerhumor.io/2026/01/3bdbabe67e22df7176ee8fa2f570ee50849e6b788f5f5a762c15cfa616b563c7.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/rui314/mold/releases/tag/v3.0.0">github.com</a> | <a href="https://lobste.rs/s/9srb4r/mold_3_0_0_released">discussion</a> | <a href="https://news.ycombinator.com/item?id=49963385">hacker news</a></small></p><hr/><p>Mold 3.0.0 is the first major release of the high-speed linker rewritten from C++ to Rust. The release aims to close compatibility gaps with GNU ld, specifically regarding linker script support, to facilitate adoption as a default linker in Linux distributions. It is intended to be a drop-in replacement for version 2.42.1, maintaining existing command-line options and performance.</p><p>The transition to Rust increases safety by using bounds-checked memory access to handle corrupted input files, preventing segmentation faults. The build system has moved from CMake to Cargo, and the project no longer depends on oneTBB, instead statically linking mimalloc.</p><p><img src="https://i.programmerhumor.io/2026/01/3bdbabe67e22df7176ee8fa2f570ee50849e6b788f5f5a762c15cfa616b563c7.png" /></p><hr/><small>5 Oct 2026, 17:39 UTC | #23335</small>]]></content>
+  </entry>
   <entry>
     <title>Building a GTK Application in Haskell Using libadwaita</title>
     <link href="https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/" rel="alternate" />
