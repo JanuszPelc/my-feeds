@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-05T08:15:00+00:00</updated>
+  <updated>2026-10-05T09:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>The Crow Hill Company Releases Pedal Bass</title>
+    <link href="https://bedroomproducersblog.com/2026/10/05/crow-hill-pedal-bass/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/05/crow-hill-pedal-bass/::v239</id>
+    <published>2026-10-05T09:37:00+00:00</published>
+    <updated>2026-10-05T09:37:00+00:00</updated>
+    <media:thumbnail url="https://thecrowhillcompany.com/wp-content/uploads/2026/02/TCHC_T_kxEaR_VTICKB_Blog_Video.webp" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/05/crow-hill-pedal-bass/">bedroomproducersblog.com</a> | <a href="https://thecrowhillcompany.com/pedal-bass/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/05/crow-hill-pedal-bass/#respond">discussion</a></small></p><hr/><p>The Crow Hill Company has released Pedal Bass, the latest free installment in its Vaults instrument series. The library provides electric organ samples featuring a full pedalled bass range, characterized by a fat, sine-heavy tone and a rich middle range.</p><p>The instrument's sounds were recorded using a vintage Hammond organ coupled with a Leslie amplifier cabinet. Pedal Bass is designed for use specifically within the company's proprietary Vaults plugin.</p><p><img src="https://thecrowhillcompany.com/wp-content/uploads/2026/02/TCHC_T_kxEaR_VTICKB_Blog_Video.webp" /></p><hr/><small>5 Oct 2026, 12:53 UTC | #23269</small>]]></content>
+  </entry>
   <entry>
     <title>Asylum Audio Releases The Asylum Boards of Audio Free Edition</title>
     <link href="https://www.kvraudio.com/news/asylum-audio-releases-the-asylum-boards-of-audio-free-edition-for-windows-and-macos-vst3-and-au-68867?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68867" rel="alternate" />
@@ -509,23 +518,5 @@
     <published>2026-09-30T13:02:00+00:00</published>
     <updated>2026-09-30T13:02:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/30/audija-oscope-2-free/">bedroomproducersblog.com</a> | <a href="https://audija.com/OScope">source</a> | <a href="https://bedroomproducersblog.com/2026/09/30/audija-oscope-2-free/#respond">discussion</a></small></p><hr/><p>Audija has released OScope 2, an updated oscilloscope and spectral analysis plugin for macOS and Windows. The free edition provides beat-grid-synced waveform, spectrum, spectrogram, stereo, and loudness analysis.</p><p>The full version adds multitrack analysis, track summing, and spectral collision highlighting. This release expands the capabilities of the original OScope released in 2023.</p><hr/><small>30 Sep 2026, 17:16 UTC | #22835</small>]]></content>
-  </entry>
-  <entry>
-    <title>GamesSoundCon 2026 to Feature Prominent Game Composers and Sound Designers</title>
-    <link href="https://musictech.com/news/events/gamessoundcon-2026/" rel="alternate" />
-    <id>https://musictech.com/news/events/gamessoundcon-2026/::v239</id>
-    <published>2026-09-30T13:00:00+00:00</published>
-    <updated>2026-09-30T13:00:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Music-producer-Getty@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/events/gamessoundcon-2026/">musictech.com</a> | <a href="https://www.gamesoundcon.com/">source</a></small></p><hr/><p>GamesSoundCon 2026 is a hybrid event scheduled for October 20–21 at the Marriott Burbank Convention Center. The conference will feature industry professionals including Inon Zur, Jesper Kyd, and Jason Graves, with sessions focusing on creating iconic franchise themes and the implementation of adaptive music.</p><p>Technical programming includes discussions on field recording for *Battlefield 6* and the use of adaptive music in *Ghosts of Yotei*. The event will also address the integration of artificial intelligence in audio production and the practical implications of the SAG-AFTRA agreement for game developers.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Music-producer-Getty@2000x1500.jpg" /></p><hr/><small>30 Sep 2026, 17:14 UTC | #22826</small>]]></content>
-  </entry>
-  <entry>
-    <title>Arturia Releases Pigments Play Free Software Synthesizer</title>
-    <link href="https://musictech.com/news/gear/arturia-pigments-play/" rel="alternate" />
-    <id>https://musictech.com/news/gear/arturia-pigments-play/::v239</id>
-    <published>2026-09-30T12:53:00+00:00</published>
-    <updated>2026-09-30T12:53:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/Youtube-Brand-3.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/arturia-pigments-play/">musictech.com</a> | <a href="https://www.arturia.com/products/software-instruments/pigments/free">source</a></small></p><hr/><p>Arturia has released Pigments Play, a free, condensed version of its flagship Pigments software synthesizer. The instrument includes over 100 presets for genres such as pop, R&amp;B, and ambient, and features six synthesis methods: modal, granular, wavetable, sample, harmonic, and virtual analog.</p><p>The plugin supports 50 filter modes and 20 effects and can be used standalone or within a Digital Audio Workstation (DAW). An integrated Sound Store offers over 200 additional premium presets for purchase.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/Youtube-Brand-3.jpg" /></p><hr/><small>30 Sep 2026, 16:39 UTC | #22822</small>]]></content>
   </entry>
 </feed>

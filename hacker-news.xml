@@ -909,31 +909,4 @@
     <updated>2026-09-30T13:03:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.machtiani.chat/blogs/the-shell">machtiani.chat</a> | <a href="https://lobste.rs/s/joqdsi/shell_email">discussion</a></small></p><hr/><p>Machtiani proposes using email and the terminal shell as interfaces for managing multiple AI agents asynchronously. The author argues that email's distributed and asynchronous nature allows for flexible coordination across different sessions and platforms, offering a decentralized alternative to proprietary, cloud-based agent applications.</p><p>The methodology employs a lightweight supervisor that utilizes an iterative instruction loop to interact with various agents installed on a local computer. This approach aims to provide a terminal-centric workflow for managing complex, multi-agent tasks while maintaining interoperability via the shell.</p><hr/><small>30 Sep 2026, 17:19 UTC | #22871</small>]]></content>
   </entry>
-  <entry>
-    <title>Backblaze Reports Q2 2026 Hard Drive Failure Rates</title>
-    <link href="https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/" rel="alternate" />
-    <id>https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/::v239</id>
-    <published>2026-09-30T12:55:00+00:00</published>
-    <updated>2026-09-30T12:55:00+00:00</updated>
-    <media:thumbnail url="https://www.backblaze.com/blog/wp-content/uploads/2026/09/Q2-2026-Drive-Stats-Blog-Header-1440x820-1-1024x583.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/">backblaze.com</a> | <a href="https://news.ycombinator.com/item?id=49893002">hacker news</a></small></p><hr/><p>Backblaze reported an annualized failure rate (AFR) of 1.73% for its fleet of 354,415 hard drives during the second quarter of 2026. This figure represents the highest quarterly AFR recorded in recent periods for the monitored collection.</p><p>Several Seagate models recorded zero failures during the quarter, while low-count or older models, such as the Seagate ST10000NM0086, showed outlier failure rates as high as 9.33%. The report also notes a growing trend in deployment towards high-capacity drives, with models exceeding 20TB comprising over 25% of the dataset.</p><p><img src="https://www.backblaze.com/blog/wp-content/uploads/2026/09/Q2-2026-Drive-Stats-Blog-Header-1440x820-1-1024x583.png" /></p><hr/><small>30 Sep 2026, 16:50 UTC | #22866</small>]]></content>
-  </entry>
-  <entry>
-    <title>Technics Releases EAH-A1000 Flagship Wireless Headphones</title>
-    <link href="https://musictech.com/news/gear/technics-eah-a1000/" rel="alternate" />
-    <id>https://musictech.com/news/gear/technics-eah-a1000/::v239</id>
-    <published>2026-09-30T12:52:00+00:00</published>
-    <updated>2026-09-30T12:52:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/09/A1000_immersivecut_main_KV.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/technics-eah-a1000/">musictech.com</a> | <a href="https://us.technics.com/products/noise-cancelling-headphones-a1000">source</a></small></p><hr/><p>Technics has introduced the EAH-A1000, a flagship wireless over-ear headphone featuring 40mm drivers with magnetic fluid technology for precise sound reproduction. The headphones also implement Symmetrical Surround Technology (SST) Edge, a design element adapted from Technics' speaker models to minimize distortion.</p><p>The device includes adaptive noise cancellation using four microphones per side and supports high-fidelity audio via LDAC and USB. It offers 45 hours of playback and is available in Black and Platinum Greige, with a retail price of $449, £399, or €449.</p><p><img src="https://musictech.com/wp-content/uploads/2026/09/A1000_immersivecut_main_KV.jpg" /></p><hr/><small>30 Sep 2026, 16:38 UTC | #22820</small>]]></content>
-  </entry>
-  <entry>
-    <title>Differences Between foldl and foldr in Haskell</title>
-    <link href="https://blog.haskell.org/foldl-and-foldr/" rel="alternate" />
-    <id>https://blog.haskell.org/foldl-and-foldr/::v239</id>
-    <published>2026-09-30T12:48:00+00:00</published>
-    <updated>2026-09-30T12:48:00+00:00</updated>
-    <media:thumbnail url="https://raw.githubusercontent.com/COMP1100-PAL/comp1100-pal.github.io/master/_posts/2020-04-27-foldl-vs-foldr.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.haskell.org/foldl-and-foldr/">blog.haskell.org</a> | <a href="https://lobste.rs/s/irijoi/differences_between_foldl_foldr">discussion</a></small></p><hr/><p>Haskell's `foldl` and `foldr` functions differ in associativity despite both traversing lists from left to right. While both traverse lists from the left, `foldl` is left-associative and `foldr` is right-associative, which fundamentally changes their behavior in lazy evaluation environments.</p><p>In lazy evaluation, `foldl` can lead to linear space complexity by building large, nested thunks, whereas the strict version `foldl'` is recommended for constant-space accumulation. In contrast, `foldr` can facilitate streaming and allow for processing infinite lists when the combining function is lazy in its second argument.</p><p><img src="https://raw.githubusercontent.com/COMP1100-PAL/comp1100-pal.github.io/master/_posts/2020-04-27-foldl-vs-foldr.png" /></p><hr/><small>30 Sep 2026, 16:00 UTC | #22846</small>]]></content>
-  </entry>
 </feed>
