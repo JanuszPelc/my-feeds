@@ -909,12 +909,4 @@
     <updated>2026-09-30T10:02:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://espargos.net/espsdr/">espargos.net</a> | <a href="https://lobste.rs/s/werm2e/espargos_esp_sdr_raw_iq_capture_with">discussion</a> | <a href="https://news.ycombinator.com/item?id=49882348">hacker news</a></small></p><hr/><p>ESP-SDR utilizes an undocumented feature in Espressif's ESP32 microcontrollers to capture raw IQ baseband samples by bypassing the chip's fixed-function Wi-Fi and Bluetooth modems. By tapping into the internal ADC/DAC signal chain, the firmware enables the chips to act as low-cost software-defined radio (SDR) platforms for signals in the 2.4 GHz band (and 5 GHz for the ESP32-C5) without requiring external hardware.</p><p>Supported chips include the ESP32-S3, ESP32-C3, and ESP32-C6, with sample rates reaching up to 80 MSa/s. The project includes a web-based spectrum viewer and an upcoming SoapySDR driver for integration with applications like GNU Radio and gqrx. This capability allows for the monitoring and localization of arbitrary signals, such as Bluetooth and Zigbee, across the supported frequencies.</p><hr/><small>30 Sep 2026, 15:38 UTC | #22855</small>]]></content>
   </entry>
-  <entry>
-    <title>Clifford Stoll's The Cuckoo's Egg Details Hunt for a Cyber Spy</title>
-    <link href="https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)" rel="alternate" />
-    <id>https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)::v239</id>
-    <published>2026-09-30T08:49:00+00:00</published>
-    <updated>2026-09-30T08:49:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)">en.wikipedia.org</a> | <a href="https://lobste.rs/s/nicozi/cuckoo_s_egg">discussion</a></small></p><hr/><p>This 1989 book provides a first-person account of an investigation into an unauthorized user at Lawrence Berkeley National Laboratory. The author traces the hacker, Markus Hess, from a minor accounting error to an espionage operation in West Germany that was selling information to the KGB.</p><p>The work is a seminal account in cybersecurity history, documenting one of the first major instances of international computer espionage. It details early investigative tactics, including the use of honeypots and the manual tracing of telephone connections to uncover a hacker's physical location.</p><hr/><small>30 Sep 2026, 14:04 UTC | #22842</small>]]></content>
-  </entry>
 </feed>
