@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-04T20:35:00+00:00</updated>
+  <updated>2026-10-05T08:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Tippett Studios Animation Archive Available on Internet Archive</title>
+    <link href="https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/" rel="alternate" />
+    <id>https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/::v239</id>
+    <published>2026-10-05T08:13:00+00:00</published>
+    <updated>2026-10-05T08:13:00+00:00</updated>
+    <media:thumbnail url="https://spaces.filmstories.co.uk/uploads/2026/10/tippettarchive-800x568.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/">filmstories.co.uk</a> | <a href="https://archive.org/details/tippett-archive">source</a> | <a href="https://news.ycombinator.com/item?id=49957812">hacker news</a></small></p><hr/><p>An anonymous donor has released a digital archive of Tippett Studios' animation and special effects materials on the Internet Archive. The collection, acquired at an auction following the studio's closure, consists of 90 digitized CD-ROMs containing high-resolution assets, test clips, and interviews.</p><p>The archive includes production materials from major films such as Star Wars, RoboCop, and Starship Troopers. The .ISO image files contain behind-the-scenes imagery and CGI creature tests that were previously unavailable online in high resolution.</p><p><img src="https://spaces.filmstories.co.uk/uploads/2026/10/tippettarchive-800x568.jpeg" /></p><hr/><small>5 Oct 2026, 11:55 UTC | #23298</small>]]></content>
+  </entry>
   <entry>
     <title>Jagex Announces New RuneScape MMORPG Built in Unreal Engine</title>
     <link href="https://play.runescape.com/4" rel="alternate" />
