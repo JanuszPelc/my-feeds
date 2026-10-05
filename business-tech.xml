@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-05T14:39:00+00:00</updated>
+  <updated>2026-10-05T14:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Technology Billionaires Gain $845 Billion in 2026 via AI Valuation Surge</title>
+    <link href="https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year" rel="alternate" />
+    <id>https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year::v239</id>
+    <published>2026-10-05T14:42:00+00:00</published>
+    <updated>2026-10-05T14:42:00+00:00</updated>
+    <media:thumbnail url="https://cdn.luxatic.com/wp-content/uploads/2012/03/bloomberg-billionaire-index.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year">bloomberg.com</a> | <a href="https://www.bloomberg.com/news/articles/2026-10-05/bloomberg-billionaires-index-ai-boom-puts-musk-zuckerberg-in-top-10-of-ranking">source</a></small></p><hr/><p>Technology billionaires have gained $845 billion in wealth through the first nine months of 2026, driven by a massive surge in artificial intelligence valuations. This represents the largest nine-month wealth increase ever recorded for the Bloomberg Billionaires Index.</p><p>In contrast, billionaires whose fortunes originate outside of the technology sector saw a combined loss of $62 billion during the same period. The AI-driven boom has significantly altered global rankings, placing several prominent tech figures in the top 10.</p><p><img src="https://cdn.luxatic.com/wp-content/uploads/2012/03/bloomberg-billionaire-index.jpg" /></p><hr/><small>5 Oct 2026, 19:09 UTC | #23300</small>]]></content>
+  </entry>
   <entry>
     <title>Sam Altman Discusses OpenAI's 'Dots' Product and AI Safety Regulation</title>
     <link href="https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-2" rel="alternate" />
