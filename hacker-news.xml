@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-05T08:14:00+00:00</updated>
+  <updated>2026-10-05T09:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Flirt Incremental Review Tool Becomes Open-Source</title>
+    <link href="https://blog.buenzli.dev/flirt-is-open-source/" rel="alternate" />
+    <id>https://blog.buenzli.dev/flirt-is-open-source/::v239</id>
+    <published>2026-10-05T09:35:00+00:00</published>
+    <updated>2026-10-05T09:35:00+00:00</updated>
+    <media:thumbnail url="https://cdnimg.co/fb15615b-0f37-49bd-a9d4-77a55413d4c8/screenshots/b9b4dce9-71a6-4f6a-8b17-70ef3b3a3a6d/open-source-sites-codeberg-homepage.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.buenzli.dev/flirt-is-open-source/">blog.buenzli.dev</a> | <a href="https://codeberg.org/flirt/flirt">source</a> | <a href="https://lobste.rs/s/9iztqv/flirt_is_now_open_source">discussion</a></small></p><hr/><p>The Flirt incremental review tool is now an open-source project hosted on Codeberg. Community discussions regarding the software are being held on Zulip.</p><p>The developer has noted that the tool is not yet ready for general use due to existing bugs and missing features. Future development plans include the creation of a Forgejo-backend to facilitate internal testing.</p><p><img src="https://cdnimg.co/fb15615b-0f37-49bd-a9d4-77a55413d4c8/screenshots/b9b4dce9-71a6-4f6a-8b17-70ef3b3a3a6d/open-source-sites-codeberg-homepage.jpg" /></p><hr/><small>5 Oct 2026, 12:38 UTC | #23285</small>]]></content>
+  </entry>
   <entry>
     <title>CedarDB Ports Original Doom to SQL</title>
     <link href="https://cedardb.com/blog/sqldoom/" rel="alternate" />
