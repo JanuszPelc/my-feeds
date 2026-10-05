@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-04T15:53:00+00:00</updated>
+  <updated>2026-10-04T20:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Jagex Announces New RuneScape MMORPG Built in Unreal Engine</title>
+    <link href="https://play.runescape.com/4" rel="alternate" />
+    <id>https://play.runescape.com/4::v239</id>
+    <published>2026-10-04T20:35:00+00:00</published>
+    <updated>2026-10-04T20:35:00+00:00</updated>
+    <media:thumbnail url="https://cdn2.unrealengine.com/unreal-engine-education-python-6030-1920x1080-637f35c70d1c.jpg?resize=1&amp;w=1920" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://play.runescape.com/4">play.runescape.com</a> | <a href="https://news.ycombinator.com/item?id=49949588">hacker news</a></small></p><hr/><p>Jagex has announced a new RuneScape MMORPG, currently known by the working title "RS4." Developed in Unreal Engine, the project is intended as an independent experience that will exist alongside existing RuneScape and Dragonwilds titles rather than replacing them.</p><p>The game is set in Gielinor during the Sixth Age and will begin in the Ashenfall region. While the project is in early development and several years from release, Jagex intends to utilize a community-driven development model to shape the game.</p><p><img src="https://cdn2.unrealengine.com/unreal-engine-education-python-6030-1920x1080-637f35c70d1c.jpg?resize=1&w=1920" /></p><hr/><small>5 Oct 2026, 02:06 UTC | #23255</small>]]></content>
+  </entry>
   <entry>
     <title>ldraw-nova Uses AI Agents to Generate LEGO Models</title>
     <link href="https://github.com/anteloc/ldraw-nova" rel="alternate" />

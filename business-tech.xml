@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-04T20:22:00+00:00</updated>
+  <updated>2026-10-04T20:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple and Google Lobby for Age-Verification Laws That Shield App Stores from Lawsuits</title>
+    <link href="https://www.politico.com/news/2026/10/04/apple-googlestates-app-stores-lawsuits-01105892" rel="alternate" />
+    <id>https://www.politico.com/news/2026/10/04/apple-googlestates-app-stores-lawsuits-01105892::v239</id>
+    <published>2026-10-04T20:34:00+00:00</published>
+    <updated>2026-10-04T20:34:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/10/04/apple-googlestates-app-stores-lawsuits-01105892">politico.com</a></small></p><hr/><p>Apple and Google are lobbying state lawmakers to adopt kids' online safety laws that incorporate self-attested age checks and prohibit private lawsuits related to age-verification compliance.</p><p>Meta is supporting legislative versions that shift the responsibility of age verification to app stores rather than individual social media platforms. These competing efforts highlight a divide between operating system providers and app developers over who should be held liable for verifying the age of users.</p><hr/><small>5 Oct 2026, 02:03 UTC | #23232</small>]]></content>
+  </entry>
   <entry>
     <title>Trump Rebrands AI as "Super Intelligence" and Hosts Leaders for Non-Binding Safety Accord</title>
     <link href="https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/" rel="alternate" />
