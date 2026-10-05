@@ -342,13 +342,4 @@
     <media:thumbnail url="https://pic1.zhimg.com/v2-37c0e4d3310c4e248a2c6b87a15275b2_r.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://insufferable.dev/posts/the-ai-race-just-got-awkward/">insufferable.dev</a> | <a href="https://www.deepseek.com/en/news/deepseek-v4-1-flash/">source</a> | <a href="https://news.ycombinator.com/item?id=49910553">hacker news</a></small></p><hr/><p>Architectural advancements such as Multi-Head Latent Attention (MLA) and Compressed Sparse Attention (CSA) have drastically reduced the KV cache footprint for long-context models, with DeepSeek-V4.1-Flash reaching 890 bytes per token. These innovations significantly minimize the VRAM requirements needed to serve long-session contexts.</p><p>Western AI companies, including Anthropic and OpenAI, have adopted these optimizations in their recent model releases. This adoption is reflected in lower pricing for cache-read operations in models like Claude Opus 5.5 and GPT-6.1 Sol, reducing the overall cost of long-context inference.</p><p><img src="https://pic1.zhimg.com/v2-37c0e4d3310c4e248a2c6b87a15275b2_r.jpg" /></p><hr/><small>30 Sep 2026, 17:26 UTC | #22870</small>]]></content>
   </entry>
-  <entry>
-    <title>Pi Integrates Model Context Protocol</title>
-    <link href="https://earendil.com/posts/you-said-no-mcp/" rel="alternate" />
-    <id>https://earendil.com/posts/you-said-no-mcp/::v239</id>
-    <published>2026-09-30T09:56:00+00:00</published>
-    <updated>2026-09-30T09:56:00+00:00</updated>
-    <media:thumbnail url="https://docs.spring.io/spring-ai/reference/_images/mcp/java-mcp-client-architecture.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://earendil.com/posts/you-said-no-mcp/">earendil.com</a> | <a href="https://news.ycombinator.com/item?id=49906637">hacker news</a></small></p><hr/><p>Pi has integrated Model Context Protocol (MCP) into its core, reversing a previous decision to avoid the protocol. The integration aims to improve tool discovery and metadata management, allowing the platform to better support advanced LLM capabilities such as deferred tool loading and varying reasoning levels.</p><p>The update also includes Codemode, a JavaScript-based sandbox that orchestrates and coordinates complex tool calls. This feature enables agents to execute sequences of tools and use JavaScript to combine their outputs, such as piping data from a task management service into a classification model for automated analysis.</p><p><img src="https://docs.spring.io/spring-ai/reference/_images/mcp/java-mcp-client-architecture.jpg" /></p><hr/><small>30 Sep 2026, 14:32 UTC | #22845</small>]]></content>
-  </entry>
 </feed>
