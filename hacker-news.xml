@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-05T14:27:00+00:00</updated>
+  <updated>2026-10-05T18:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Gleam Updates Erlang Compilation to Use Abstract Forms</title>
+    <link href="https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/" rel="alternate" />
+    <id>https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/::v239</id>
+    <published>2026-10-05T18:04:00+00:00</published>
+    <updated>2026-10-05T18:04:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/">gleam.run</a> | <a href="https://github.com/gleam-lang/gleam/releases/tag/v1.19.0">source</a> | <a href="https://lobste.rs/s/2svplr/gleam_doesn_t_compile_erlang_source">discussion</a> | <a href="https://news.ycombinator.com/item?id=49968654">hacker news</a></small></p><hr/><p>Gleam version 1.19.0 replaces its Erlang source code generator with a new system that outputs Erlang abstract forms. This shift to an intermediate representation significantly reduces build times and provides more accurate location metadata in BEAM stacktraces.</p><p>Beyond Erlang, the update optimizes JavaScript compilation by flattening pattern matching and improving short list literal handling. The release also introduces TypeScript API overloads to preserve type information, expands language server functionality, and improves error messaging for common syntax errors.</p><hr/><small>5 Oct 2026, 20:51 UTC | #23354</small>]]></content>
+  </entry>
   <entry>
     <title>Mold 3.0.0 Released with Rust Rewrite</title>
     <link href="https://github.com/rui314/mold/releases/tag/v3.0.0" rel="alternate" />

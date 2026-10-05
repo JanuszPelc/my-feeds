@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-05T17:59:00+00:00</updated>
+  <updated>2026-10-05T18:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>UB DSP Releases Filter Blender Plugin</title>
+    <link href="https://www.kvraudio.com/news/ub-dsp-releases-filter-blender---three-analog-style-filters-blended-on-a-triangle-aax-au-clap-and-vst3-68906?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68906" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ub-dsp-releases-filter-blender---three-analog-style-filters-blended-on-a-triangle-aax-au-clap-and-vst3-68906?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68906::v239</id>
+    <published>2026-10-05T18:03:00+00:00</published>
+    <updated>2026-10-05T18:03:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/box-image-filter-blender-1280x720.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ub-dsp-releases-filter-blender---three-analog-style-filters-blended-on-a-triangle-aax-au-clap-and-vst3-68906?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68906">kvraudio.com</a> | <a href="https://ubdsp.com/filter-blender">source</a></small></p><hr/><p>UB DSP has released Filter Blender, an audio plugin that blends three analog-style filters via a triangular interface. Each corner of the triangle can host one of 12 modeled circuits, with a central dot used to adjust the blending weights and characteristics.</p><p>The software includes additional effects such as a comb filter, phaser, and ring modulator, and features a motion recorder to capture automated parameter changes. It supports macOS, Windows, and Linux in AAX, AU, CLAP, and VST3 formats.</p><p><img src="https://static.kvraudio.com/i/b/box-image-filter-blender-1280x720.webp" /></p><hr/><small>5 Oct 2026, 20:50 UTC | #23337</small>]]></content>
+  </entry>
+  <entry>
+    <title>KarmaStation Makes KarmaKick Kick Drum Synth Free</title>
+    <link href="https://www.kvraudio.com/news/karmastation-karmakick-kick-drum-synth-for-macos-and-windows-is-now-free-vst3-and-au-68895?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68895" rel="alternate" />
+    <id>https://www.kvraudio.com/news/karmastation-karmakick-kick-drum-synth-for-macos-and-windows-is-now-free-vst3-and-au-68895?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68895::v239</id>
+    <published>2026-10-05T18:02:00+00:00</published>
+    <updated>2026-10-05T18:02:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/karmakick_main_full_1280x720.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/karmastation-karmakick-kick-drum-synth-for-macos-and-windows-is-now-free-vst3-and-au-68895?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68895">kvraudio.com</a> | <a href="https://karmastation.gumroad.com/l/karmakick">source</a></small></p><hr/><p>KarmaStation has transitioned its KarmaKick kick drum synthesizer to a "pay-what-you-want" model with no minimum price, allowing users to download it for free. The plugin is compatible with macOS and Windows and is available in VST3, Audio Unit, and standalone formats.</p><p>Rather than using samples, KarmaKick uses synthesis to generate sounds, featuring controls for pitch drop, amp decay, drive, click, and compression. It includes four waveforms—sine, triangle, FM, and warp—as well as six factory presets for various genres, and the standalone version includes a built-in step sequencer.</p><p><img src="https://static.kvraudio.com/i/b/karmakick_main_full_1280x720.jpg" /></p><hr/><small>5 Oct 2026, 20:49 UTC | #23331</small>]]></content>
+  </entry>
   <entry>
     <title>23DSP Releases 23Bloom Harmonic Enhancer and Loudness Expander</title>
     <link href="https://www.kvraudio.com/news/23dsp-releases-23bloom---harmonic-enhancer-and-loudness-expander-for-windows-macos-and-linux-68899?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68899" rel="alternate" />

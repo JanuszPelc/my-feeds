@@ -3,7 +3,7 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-05T14:50:00+00:00</updated>
+  <updated>2026-10-05T20:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
@@ -72,8 +72,8 @@
     <link href="https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/" rel="alternate" />
     <id>https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/::v239</id>
     <published>2026-10-05T13:10:00+00:00</published>
-    <updated>2026-10-05T13:10:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/">reuters.com</a> | <a href="https://www.qualcomm.com/news/releases/2026/10/huawei-and-qualcomm-announce-broad-patent-license-agreement">source</a></small></p><hr/><p>Huawei Technologies has entered into a multi-year, broad patent licensing agreement with Qualcomm covering artificial intelligence, 5G, computing, and networking technologies. The deal includes cross-licenses for both companies' patent portfolios and involves Qualcomm's purchase of certain Huawei U.S. patents in the compute, AI, and networking sectors.</p><p>This agreement marks Huawei's first 5G licensing deal with Qualcomm. The partnership aims to facilitate technological progress in mobile communications and related industries by providing mutual access to essential patent portfolios.</p><hr/><small>5 Oct 2026, 17:02 UTC | #23284</small>]]></content>
+    <updated>2026-10-05T20:55:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/">reuters.com</a> | <a href="https://www.qualcomm.com/news/releases/2026/10/huawei-and-qualcomm-announce-broad-patent-license-agreement">source</a> | <a href="https://news.ycombinator.com/item?id=49961861">hacker news</a></small></p><hr/><p>Huawei Technologies has entered into a multi-year, broad patent licensing agreement with Qualcomm covering artificial intelligence, 5G, computing, and networking technologies. The deal includes cross-licenses for both companies' patent portfolios and involves Qualcomm's purchase of certain Huawei U.S. patents in the compute, AI, and networking sectors.</p><p>This agreement marks Huawei's first 5G licensing deal with Qualcomm. The partnership aims to facilitate technological progress in mobile communications and related industries by providing mutual access to essential patent portfolios.</p><hr/><small>5 Oct 2026, 17:02 UTC | #23284</small>]]></content>
   </entry>
   <entry>
     <title>Chinese Token Resellers Establish Gray Market for Anthropic's Claude</title>
