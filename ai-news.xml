@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-05T13:13:00+00:00</updated>
+  <updated>2026-10-05T14:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>OpenAI to Test Visual Ads in ChatGPT During Image Generation</title>
+    <link href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/" rel="alternate" />
+    <id>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/::v239</id>
+    <published>2026-10-05T14:28:00+00:00</published>
+    <updated>2026-10-05T14:28:00+00:00</updated>
+    <media:thumbnail url="https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/">bleepingcomputer.com</a> | <a href="https://openai.com/index/new-chatgpt-ads-format-and-measurement/">source</a></small></p><hr/><p>OpenAI is introducing a new advertising format for ChatGPT that will display visual ads while users generate images. Starting later this month in the U.S., these ads will be clearly labeled and visually distinct from the generated content to ensure they do not influence the AI's responses.</p><p>To support this expansion, OpenAI is integrating measurement and attribution tools from partners such as AppsFlyer, LiveRamp, and Hightouch to track conversions. The company is also implementing brand suitability safeguards through DoubleVerify and Integral Ad Science to prevent ads from appearing in sensitive or unsuitable conversations.</p><p><img src="https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg" /></p><hr/><small>5 Oct 2026, 17:54 UTC | #23290</small>]]></content>
+  </entry>
   <entry>
     <title>Safeworld Raises $12M to Test Safety of Generative AI Robots</title>
     <link href="https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/" rel="alternate" />
