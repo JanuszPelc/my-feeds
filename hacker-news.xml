@@ -907,13 +907,4 @@
     <updated>2026-09-30T07:48:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.mail-archive.com/ports%40openbsd.org/msg143892.html">mail-archive.com</a> | <a href="https://lobste.rs/s/vmmq7g/openbsd_s_ports_tree_keeps_gpl_coreutils">discussion</a></small></p><hr/><p>OpenBSD developers have rejected a proposal to include uutils, a Rust-based reimplementation of GNU coreutils, in the OpenBSD ports collection. The proposal sought to install the utilities as alternatives to existing GNU ports by using g-prefixed command names, such as gcat and gls, to avoid package conflicts.</p><p>Opponents, including founder Theo de Raadt, argued that introducing command-line tools with subtle behavioral differences could break user scripts and command pipelines. The debate also highlighted concerns regarding the integration of Rust-based software into the OpenBSD ecosystem.</p><hr/><small>30 Sep 2026, 10:57 UTC | #22809</small>]]></content>
   </entry>
-  <entry>
-    <title>Tcl/Tk 9.1 Development and Feature Roadmap</title>
-    <link href="https://www.tcl-lang.org/software/tcltk/9.1.html" rel="alternate" />
-    <id>https://www.tcl-lang.org/software/tcltk/9.1.html::v239</id>
-    <published>2026-09-30T02:42:00+00:00</published>
-    <updated>2026-09-30T02:42:00+00:00</updated>
-    <media:thumbnail url="https://www.tcl-lang.org/images/Tcl9.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.tcl-lang.org/software/tcltk/9.1.html">tcl-lang.org</a> | <a href="https://news.ycombinator.com/item?id=49896712">hacker news</a></small></p><hr/><p>Tcl/Tk 9.1.0 is currently in development with a target stable release date in September 2026. This iteration aims to expand the feature set and interfaces established in the Tcl/Tk 9.0 foundation.</p><p>Key Tcl updates include new commands for Unicode normalization, monotonic clocks, and list filtering, alongside expanded options for the `subst` and `switch` commands. Tk improvements focus on accessibility via screen reader support, initial support for bidirectional text and right-to-left languages, and the introduction of the `ttk::toggleswitch` widget.</p><p><img src="https://www.tcl-lang.org/images/Tcl9.png" /></p><hr/><small>30 Sep 2026, 10:28 UTC | #22814</small>]]></content>
-  </entry>
 </feed>
