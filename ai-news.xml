@@ -351,30 +351,4 @@
     <media:thumbnail url="https://docs.spring.io/spring-ai/reference/_images/mcp/java-mcp-client-architecture.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://earendil.com/posts/you-said-no-mcp/">earendil.com</a> | <a href="https://news.ycombinator.com/item?id=49906637">hacker news</a></small></p><hr/><p>Pi has integrated Model Context Protocol (MCP) into its core, reversing a previous decision to avoid the protocol. The integration aims to improve tool discovery and metadata management, allowing the platform to better support advanced LLM capabilities such as deferred tool loading and varying reasoning levels.</p><p>The update also includes Codemode, a JavaScript-based sandbox that orchestrates and coordinates complex tool calls. This feature enables agents to execute sequences of tools and use JavaScript to combine their outputs, such as piping data from a task management service into a classification model for automated analysis.</p><p><img src="https://docs.spring.io/spring-ai/reference/_images/mcp/java-mcp-client-architecture.jpg" /></p><hr/><small>30 Sep 2026, 14:32 UTC | #22845</small>]]></content>
   </entry>
-  <entry>
-    <title>ModelScope and MoArk Compete to Become China's Open-Source AI Hub</title>
-    <link href="https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/" rel="alternate" />
-    <id>https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/::v239</id>
-    <published>2026-09-30T08:08:00+00:00</published>
-    <updated>2026-09-30T08:08:00+00:00</updated>
-    <media:thumbnail url="https://moark.ai/docs/assets/images/select-api.overseas-94ead9fd81445a0df26852c2b4862a8f.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/">restofworld.org</a></small></p><hr/><p>To bypass regulatory blocks and mitigate the risk of U.S. sanctions, Alibaba’s ModelScope and OSChina’s MoArk are building a domestic open-source AI ecosystem. These platforms aim to provide self-reliant alternatives to the U.S.-based Hugging Face, ensuring Chinese developers have stable access to tools and models even if international services are restricted.</p><p>While Hugging Face hosts over 3 million models, Chinese platforms host significantly fewer, with ModelScope reporting 170,000 and MoArk supporting 20,000. To bridge this gap, developers are optimizing models for Chinese-made chips and hosting hackathons to attract users away from global platforms like GitHub and Hugging Face.</p><p><img src="https://moark.ai/docs/assets/images/select-api.overseas-94ead9fd81445a0df26852c2b4862a8f.png" /></p><hr/><small>30 Sep 2026, 13:34 UTC | #22798</small>]]></content>
-  </entry>
-  <entry>
-    <title>Solving LLM Hallucination via Reinforcement Learning for Calibrated Decisions</title>
-    <link href="https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/" rel="alternate" />
-    <id>https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/::v239</id>
-    <published>2026-09-30T08:04:00+00:00</published>
-    <updated>2026-09-30T08:04:00+00:00</updated>
-    <media:thumbnail url="https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/mitigating-llm-hallucination-via-behaviorally-calibrated-reinforcement-learning-4.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.robw.fyi/2026/09/28/how-to-solve-hallucination/">robw.fyi</a> | <a href="https://lobste.rs/s/kolgwk/how_solve_hallucination_with_rlcd">discussion</a></small></p><hr/><p>LLMs often generate confidence scores as linguistic patterns rather than mathematical measurements, a phenomenon that contributes to hallucinations. Reinforcement Learning for Calibrated Decisions (RLCD) mitigates this by training models to output probability distributions that align with actual empirical outcomes. This ensures that a model's stated certainty reflects its true likelihood of being correct.</p><p>Calibrated probabilities allow model outputs to be integrated into mathematical frameworks like the Kelly criterion to calculate optimal risk. While closed-source models may struggle to adapt their calibration to specific new domains, users can post-train open-source models like Laya with RLCD to create reliable, mathematical control signals for automated or autonomous systems.</p><p><img src="https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/mitigating-llm-hallucination-via-behaviorally-calibrated-reinforcement-learning-4.png" /></p><hr/><small>30 Sep 2026, 12:50 UTC | #22829</small>]]></content>
-  </entry>
-  <entry>
-    <title>DeepSeek and Huawei Partner to Develop Ascend Chip Programming Tools</title>
-    <link href="https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/" rel="alternate" />
-    <id>https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/::v239</id>
-    <published>2026-09-30T07:55:00+00:00</published>
-    <updated>2026-09-30T07:55:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/deepseek-partners-with-huawei-develop-chip-programming-tools-reducing-reliance-2026-09-30/">reuters.com</a></small></p><hr/><p>DeepSeek has partnered with Huawei Technologies to develop programming tools for Huawei's Ascend chips. The collaboration includes the open-sourcing of TileLang, a high-level programming language designed to serve as a CUDA alternative, alongside various compute and communication libraries for the Ascend platform.</p><p>The initiative aims to provide developers with efficient, high-performance tools to utilize Huawei's AI hardware. This partnership reflects a broader effort within the Chinese technology sector to establish independent software ecosystems and reduce reliance on NVIDIA's infrastructure.</p><hr/><small>30 Sep 2026, 12:05 UTC | #22791</small>]]></content>
-  </entry>
 </feed>

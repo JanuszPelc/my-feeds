@@ -917,13 +917,4 @@
     <updated>2026-09-30T08:49:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)">en.wikipedia.org</a> | <a href="https://lobste.rs/s/nicozi/cuckoo_s_egg">discussion</a></small></p><hr/><p>This 1989 book provides a first-person account of an investigation into an unauthorized user at Lawrence Berkeley National Laboratory. The author traces the hacker, Markus Hess, from a minor accounting error to an espionage operation in West Germany that was selling information to the KGB.</p><p>The work is a seminal account in cybersecurity history, documenting one of the first major instances of international computer espionage. It details early investigative tactics, including the use of honeypots and the manual tracing of telephone connections to uncover a hacker's physical location.</p><hr/><small>30 Sep 2026, 14:04 UTC | #22842</small>]]></content>
   </entry>
-  <entry>
-    <title>Advanced C Optimization Techniques for Playdate</title>
-    <link href="https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011" rel="alternate" />
-    <id>https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011::v239</id>
-    <published>2026-09-30T07:56:00+00:00</published>
-    <updated>2026-09-30T07:56:00+00:00</updated>
-    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/939510175/original/0c6a515db8/1?v=1" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011">devforum.play.date</a> | <a href="https://lobste.rs/s/zyzrlh/dirty_optimization_secrets_c_for">discussion</a></small></p><hr/><p>This article outlines several low-level C programming techniques to maximize performance on Playdate hardware. It focuses on optimization strategies for demanding software such as emulators, 3D renderers, and large-scale simulations. Key methods include managing the limited instruction cache, using custom linker maps to organize code sections, and utilizing Tightly-Coupled Memory (TCM) for faster data and instruction access.</p><p>The author provides specific techniques for manual code relocation into the ITCM region and addresses performance variations caused by cache misalignment and branch prediction table collisions. The guide includes practical implementation details, such as using the `nm` tool to inspect symbols and applying specific memory alignment attributes to mitigate unpredictable performance fluctuations.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/939510175/original/0c6a515db8/1?v=1" /></p><hr/><small>30 Sep 2026, 12:08 UTC | #22824</small>]]></content>
-  </entry>
 </feed>
