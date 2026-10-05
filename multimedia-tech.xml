@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-05T19:30:00+00:00</updated>
+  <updated>2026-10-05T19:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Chernin Entertainment to Adapt The Finals and ARC Raiders for TV and Film</title>
+    <link href="https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer::v239</id>
+    <published>2026-10-05T19:35:00+00:00</published>
+    <updated>2026-10-05T19:35:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltaf56080e8948be9a/6aabc4cce6ac84edd3172ca7/Arc_Header.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer">gamedeveloper.com</a> | <a href="https://variety.com/2026/tv/news/arc-raiders-the-finals-tv-series-movies-chernin-1236899094/">source</a></small></p><hr/><p>The production company Chernin Entertainment is set to develop television and film adaptations for Embark Studios' titles *The Finals* and *ARC Raiders*. These upcoming projects will expand the reach of the free-to-play multiplayer shooter and the extraction game.</p><p>*ARC Raiders* has sold 14 million copies and won Best Multiplayer Game at the 2025 Game Awards. Chernin Entertainment is a production company known for its work on *The Backrooms*.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltaf56080e8948be9a/6aabc4cce6ac84edd3172ca7/Arc_Header.png?width=720&quality=80&disable=upscale" /></p><hr/><small>5 Oct 2026, 23:37 UTC | #23356</small>]]></content>
+  </entry>
   <entry>
     <title>Reverse Engineering NovaLogic's Comanche Terrain Maps</title>
     <link href="https://pikuma.com/blog/comanche-maps-reverse-engineering" rel="alternate" />

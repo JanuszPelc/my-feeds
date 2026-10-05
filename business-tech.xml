@@ -7,6 +7,23 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Pentagon Ceases Use of Anthropic AI Tools</title>
+    <link href="https://www.bbc.com/news/articles/c5j9x9pr0240o" rel="alternate" />
+    <id>https://www.bbc.com/news/articles/c5j9x9pr0240o::v239</id>
+    <published>2026-10-05T19:33:00+00:00</published>
+    <updated>2026-10-05T19:33:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1WU6AZ.img?w=1200&amp;h=738&amp;m=4&amp;q=64" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bbc.com/news/articles/c5j9x9pr0240o">bbc.com</a> | <a href="https://news.ycombinator.com/item?id=49969929">hacker news</a></small></p><hr/><p>The US Department of Defense has officially stopped using Anthropic's AI products, months after the company was designated a national security supply chain risk. The designation was issued after Anthropic refused Pentagon requests to remove safety guardrails from its Claude models to allow for unimpeded military and intelligence use.</p><p>Despite earlier directives to phase out the technology, sources indicate Claude's models were used for intelligence and data analysis via the Palantir-operated Maven Smart System as recently as last week. The Pentagon has since pivoted toward other AI providers, including OpenAI, Google, and xAI.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1WU6AZ.img?w=1200&h=738&m=4&q=64" /></p><hr/><small>5 Oct 2026, 23:35 UTC | #23344</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI to Implement Text Watermarking for EU AI Act Compliance</title>
+    <link href="https://openai.com/index/eu-text-provenance" rel="alternate" />
+    <id>https://openai.com/index/eu-text-provenance::v239</id>
+    <published>2026-10-05T19:32:00+00:00</published>
+    <updated>2026-10-05T19:32:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://openai.com/index/eu-text-provenance">openai.com</a> | <a href="https://news.ycombinator.com/item?id=49966293">hacker news</a></small></p><hr/><p>OpenAI plans to introduce text watermarking for ChatGPT and Codex users in the EU to comply with the EU AI Act. API customers globally can opt in to text watermarking for select models.</p><p>This measure addresses regulatory requirements for identifying AI-generated text in the European market. It is part of OpenAI's broader efforts to increase content provenance and transparency.</p><hr/><small>5 Oct 2026, 23:32 UTC | #23345</small>]]></content>
+  </entry>
+  <entry>
     <title>Meta, TikTok, and X Challenge UK Regulator Over Online Safety Data Demands</title>
     <link href="https://www.reuters.com/legal/litigation/meta-tiktok-x-challenge-uk-watchdog-over-online-safety-data-demands-2026-10-05/" rel="alternate" />
     <id>https://www.reuters.com/legal/litigation/meta-tiktok-x-challenge-uk-watchdog-over-online-safety-data-demands-2026-10-05/::v239</id>

@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-05T19:31:00+00:00</updated>
+  <updated>2026-10-05T21:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>AI Agents Identify Two Room-Temperature Magnetic Semiconductor Candidates</title>
+    <link href="https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors" rel="alternate" />
+    <id>https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors::v239</id>
+    <published>2026-10-05T21:01:00+00:00</published>
+    <updated>2026-10-05T21:01:00+00:00</updated>
+    <media:thumbnail url="https://jksus.org/content/185/2025/37/11/img/JKSUS-37-10352025-g21.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors">vals.ai</a> | <a href="https://news.ycombinator.com/item?id=49970667">hacker news</a></small></p><hr/><p>Research using AI agents has identified two potential Luttinger-compensated (LC) semiconductor candidates for next-generation spintronic memory. These materials are predicted to maintain zero net magnetism while allowing for spin sorting across significant energy windows at room temperature. The candidates include a newly designed compound, YBaMnFeO₅, and an existing material from 1999, KV[Cr(CN)₆].</p><p>Luttinger-compensated magnets combine the benefits of ferromagnets and antiferromagnets, offering high-speed switching and high packing density without the interference of macroscopic magnetic fields. While YBaMnFeO₅ may face synthesis challenges due to its required atomic arrangement, KV[Cr(CN)₆] shows significant promise because it has already been synthesized and exhibits magnetic stability above room temperature.</p><p><img src="https://jksus.org/content/185/2025/37/11/img/JKSUS-37-10352025-g21.png" /></p><hr/><small>5 Oct 2026, 23:40 UTC | #23374</small>]]></content>
+  </entry>
   <entry>
     <title>Nolla Health Pilots AI-Driven Acne Diagnosis and Prescriptions in Utah</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-05/nolla-health-ai-can-now-prescribe-acne-drugs-in-utah-without-doctors?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTIxNjEzOSwiZXhwIjoxNzkxODIwOTM5LCJhcnRpY2xlSWQiOiJUTUZMODVLSVAzS00wMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.crHEdlDbj7Dx78MJpxZ7nHnh7NmskJmIYVmdbeyomfE" rel="alternate" />
