@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-04T20:34:00+00:00</updated>
+  <updated>2026-10-04T21:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Sam Altman Highlights Regulatory Divide Between OpenAI and Anthropic</title>
+    <link href="https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217" rel="alternate" />
+    <id>https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217::v239</id>
+    <published>2026-10-04T21:56:00+00:00</published>
+    <updated>2026-10-04T21:56:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217">politico.com</a></small></p><hr/><p>OpenAI CEO Sam Altman stated that his company and rival Anthropic maintain fundamentally different worldviews regarding artificial intelligence regulation. During an interview with Politico's Decoded, Altman argued that the benefits of AI technology justify the acceptance of certain risks, including the possibility of "some bad things happening."</p><p>The remarks highlight a significant split in the AI industry, as Anthropic is widely viewed as a strong proponent of stringent regulatory frameworks. In contrast, Altman's position favors broad public access to powerful AI tools over concentrating control within a limited number of development entities.</p><hr/><small>5 Oct 2026, 05:00 UTC | #23247</small>]]></content>
+  </entry>
   <entry>
     <title>Apple and Google Lobby for Age-Verification Laws That Shield App Stores from Lawsuits</title>
     <link href="https://www.politico.com/news/2026/10/04/apple-googlestates-app-stores-lawsuits-01105892" rel="alternate" />
