@@ -927,13 +927,4 @@
     <updated>2026-09-30T22:10:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://mit.teil.space/rane-sl3.html">mit.teil.space</a> | <a href="https://lobste.rs/s/qjnmeg/no_cost_audio_upgrade_for_my_workstation">discussion</a></small></p><hr/><p>Gabriel Wicki demonstrates a method for testing the `snd-rane-sl3` Linux kernel module using GNU Guix and QEMU. By creating a minimal operating system template and utilizing USB passthrough, the developer can run a virtual machine to verify driver functionality without reconfiguring a primary workstation.</p><p>The procedure confirms that the kernel recognizes the Rane SL 3 hardware and that ALSA utilities can correctly access the device for audio playback. This workflow facilitates rapid, iterative testing of kernel-level code before it is merged into official software repositories.</p><hr/><small>1 Oct 2026, 02:51 UTC | #22915</small>]]></content>
   </entry>
-  <entry>
-    <title>EDG C/C++ Compiler Project Open-Sourced</title>
-    <link href="https://github.com/edgcpp/compiler" rel="alternate" />
-    <id>https://github.com/edgcpp/compiler::v239</id>
-    <published>2026-09-30T22:07:00+00:00</published>
-    <updated>2026-09-30T22:07:00+00:00</updated>
-    <media:thumbnail url="https://www.phoronix.net/image.php?id=2026&amp;image=edgcpp_med" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/edgcpp/compiler">github.com</a> | <a href="https://lobste.rs/s/nwdxko/edg_c_c_compiler_project">discussion</a> | <a href="https://news.ycombinator.com/item?id=49915484">hacker news</a></small></p><hr/><p>The EDG C/C++ front end has been released as an open-source project hosted on GitHub. It is designed for high parsing compatibility with Clang, GCC, and MSVC, ensuring source code consistency across compilers while offering high configurability for integration into various C and C++ oriented products.</p><p>The repository includes C and C++ generating back ends, a prelinker for automatic template instantiation, and utilities for name demangling and intermediate language inspection. The transition to an open-source model is supported by the C++ Alliance to facilitate community-driven development and contributions.</p><p><img src="https://www.phoronix.net/image.php?id=2026&image=edgcpp_med" /></p><hr/><small>1 Oct 2026, 02:34 UTC | #22913</small>]]></content>
-  </entry>
 </feed>
