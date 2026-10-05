@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-05T09:38:00+00:00</updated>
+  <updated>2026-10-05T09:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Sam Altman Warns Against Attributing Religious Force to AI Models</title>
+    <link href="https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models" rel="alternate" />
+    <id>https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models::v239</id>
+    <published>2026-10-05T09:40:00+00:00</published>
+    <updated>2026-10-05T09:40:00+00:00</updated>
+    <media:thumbnail url="https://futurism.com/wp-content/uploads/2026/05/sam-altman-frontier-ai-models-favors.jpg?quality=85&amp;w=1250" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models">axios.com</a> | <a href="https://x.com/sama/status/2106388373221118198">source</a></small></p><hr/><p>OpenAI CEO Sam Altman has labeled the attribution of religious force or the surrender of human judgment to AI models as a "real safety issue." He expressed significant discomfort with the practice of ascribing spiritual significance to artificial intelligence.</p><p>The remarks are interpreted as a critique of Anthropic, which has been engaging with religious leaders to discuss the potential "soul" of AI. The tension underscores broader debates regarding the societal and psychological implications of how humans interact with advanced AI systems.</p><p><img src="https://futurism.com/wp-content/uploads/2026/05/sam-altman-frontier-ai-models-favors.jpg?quality=85&w=1250" /></p><hr/><small>5 Oct 2026, 13:13 UTC | #23266</small>]]></content>
+  </entry>
   <entry>
     <title>A3SA Proposes Encryption for ATSC 3.0 Over-the-Air Broadcasts</title>
     <link href="https://place.reeseric.ci/writings/2026-10-04/" rel="alternate" />
@@ -862,14 +871,5 @@
     <updated>2026-09-30T15:55:00+00:00</updated>
     <media:thumbnail url="https://techscurrent.com/wp-content/uploads/2026/06/ai-data-center-unsplash-2048x1178.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/interactive/2026/09/29/us/politics/ai-super-pac-money-midterm-elections.html?unlocked_article_code=1.E1E.qSgK._VetSNj95usz">nytimes.com</a></small></p><hr/><p>Super PACs aligned with OpenAI and Anthropic have spent $55.7 million on the 2026 US midterm elections to date. An analysis of 95 campaign advertisements found that none of the ads referenced data centers, and only a minority explicitly mentioned artificial intelligence.</p><p>The scale of spending highlights the significant financial influence major AI developers are exerting in political contests that could determine congressional control and technology policy. Despite the heavy investment, the advertising messaging has largely avoided direct discussion of AI or its underlying physical infrastructure.</p><p><img src="https://techscurrent.com/wp-content/uploads/2026/06/ai-data-center-unsplash-2048x1178.jpg" /></p><hr/><small>30 Sep 2026, 17:42 UTC | #22815</small>]]></content>
-  </entry>
-  <entry>
-    <title>Airbnb Adds AI Search and Social Features</title>
-    <link href="https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/::v239</id>
-    <published>2026-09-30T13:01:00+00:00</published>
-    <updated>2026-09-30T13:01:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/en-US-AIFeatures-AIHighlights.jpeg?w=680" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/">techcrunch.com</a> | <a href="https://news.airbnb.com/airbnb-2026-fall-update">source</a></small></p><hr/><p>Airbnb's fall update introduces AI-powered search via text and voice prompts, which utilizes dynamic filters and AI-generated summaries to help users compare properties. The company is also expanding on-the-ground services in limited locations, including laundry, baby gear rental, and ski or boat rentals, alongside expanded grocery delivery options.</p><p>New social features allow travelers to view their connections' past or upcoming trips on a map, with users having the option to opt out of sharing. Additionally, Airbnb is developing neighborhood pages based on guest reviews to assist travelers with local dining and activity discovery.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/en-US-AIFeatures-AIHighlights.jpeg?w=680" /></p><hr/><small>30 Sep 2026, 17:15 UTC | #22825</small>]]></content>
   </entry>
 </feed>

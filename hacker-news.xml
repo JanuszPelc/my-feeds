@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-05T09:35:00+00:00</updated>
+  <updated>2026-10-05T10:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Migrating from Deno to Node.js</title>
+    <link href="https://dbushell.com/2026/10/03/deno-to-node/" rel="alternate" />
+    <id>https://dbushell.com/2026/10/03/deno-to-node/::v239</id>
+    <published>2026-10-05T10:02:00+00:00</published>
+    <updated>2026-10-05T10:02:00+00:00</updated>
+    <media:thumbnail url="https://www.thenodebook.com/images/runtime-platform/typescript-compile-cache/type-stripping-step-book-v2.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dbushell.com/2026/10/03/deno-to-node/">dbushell.com</a> | <a href="https://lobste.rs/s/a9kwzv/friendship_ended_with_deno_now_node_is_my">discussion</a></small></p><hr/><p>The author details a migration of a development workflow and a static site generator from the Deno runtime to Node.js v26.10.0. Key changes included replacing Deno's native APIs with Node's `node:fs` and `node:path` modules and utilizing Hono's Node adapter for HTTP functionality.</p><p>This transition yielded a 15% increase in build speeds. The author attributes the return to Node.js to its improved ECMAScript support, native TypeScript type-stripping capabilities, and perceived technical stability compared to recent experiences with Deno.</p><p><img src="https://www.thenodebook.com/images/runtime-platform/typescript-compile-cache/type-stripping-step-book-v2.png" /></p><hr/><small>5 Oct 2026, 13:15 UTC | #23302</small>]]></content>
+  </entry>
   <entry>
     <title>Flirt Incremental Review Tool Becomes Open-Source</title>
     <link href="https://blog.buenzli.dev/flirt-is-open-source/" rel="alternate" />
@@ -900,13 +909,5 @@
     <updated>2026-09-30T15:56:00+00:00</updated>
     <media:thumbnail url="https://zeerawireless.com/cdn/shop/articles/HomeHub_With_display_bc3bd1a0-98fd-4493-85d8-31b25db54f92.jpg?v=1771180301&amp;width=1200" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home">bloomberg.com</a></small></p><hr/><p>Apple is scheduled to expand its smart home lineup on October 13 with the launch of a 6-inch smart home hub and a refreshed HomePod mini. The new hub is expected to feature a design inspired by the iMac G4.</p><p>This expansion marks a strategic push into the smart home market, a sector where the company has had a long-delayed entry. The new hardware is intended to serve as a central control interface for the Apple Home ecosystem.</p><p><img src="https://zeerawireless.com/cdn/shop/articles/HomeHub_With_display_bc3bd1a0-98fd-4493-85d8-31b25db54f92.jpg?v=1771180301&width=1200" /></p><hr/><small>30 Sep 2026, 17:44 UTC | #22816</small>]]></content>
-  </entry>
-  <entry>
-    <title>Machtiani Advocates for Using Email and the Shell to Manage AI Agents</title>
-    <link href="https://www.machtiani.chat/blogs/the-shell" rel="alternate" />
-    <id>https://www.machtiani.chat/blogs/the-shell::v239</id>
-    <published>2026-09-30T13:03:00+00:00</published>
-    <updated>2026-09-30T13:03:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.machtiani.chat/blogs/the-shell">machtiani.chat</a> | <a href="https://lobste.rs/s/joqdsi/shell_email">discussion</a></small></p><hr/><p>Machtiani proposes using email and the terminal shell as interfaces for managing multiple AI agents asynchronously. The author argues that email's distributed and asynchronous nature allows for flexible coordination across different sessions and platforms, offering a decentralized alternative to proprietary, cloud-based agent applications.</p><p>The methodology employs a lightweight supervisor that utilizes an iterative instruction loop to interact with various agents installed on a local computer. This approach aims to provide a terminal-centric workflow for managing complex, multi-agent tasks while maintaining interoperability via the shell.</p><hr/><small>30 Sep 2026, 17:19 UTC | #22871</small>]]></content>
   </entry>
 </feed>
