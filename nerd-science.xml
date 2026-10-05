@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-05T02:32:00+00:00</updated>
+  <updated>2026-10-05T14:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Regulatory Delays Impede Deployment of New Mosquito Control Technologies</title>
+    <link href="https://worksinprogress.co/issue/mosquitoes-are-a-choice/" rel="alternate" />
+    <id>https://worksinprogress.co/issue/mosquitoes-are-a-choice/::v239</id>
+    <published>2026-10-05T14:37:00+00:00</published>
+    <updated>2026-10-05T14:37:00+00:00</updated>
+    <media:thumbnail url="https://worksinprogress.co/.netlify/images?url=https%3A%2F%2Fassets.worksinprogress.co%2Fwp-content%2Fuploads%2F2026%2F09%2FIssue-26_Wolbachia-mating.jpg&amp;w=2500&amp;h=2335&amp;q=65&amp;fit=cover" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://worksinprogress.co/issue/mosquitoes-are-a-choice/">worksinprogress.co</a> | <a href="https://news.ycombinator.com/item?id=49956290">hacker news</a></small></p><hr/><p>New technologies, such as genetic engineering and Wolbachia-based biocontrol, aim to suppress mosquito populations and mitigate the resurgence of mosquito-borne diseases in the United States. These methods, including Oxitec's self-limiting genetic modifications and MosquitoMate's bacteria-infected insects, are designed to reduce disease vectors with minimal environmental footprint.</p><p>Implementation is largely hindered by a dated regulatory framework that creates jurisdictional uncertainty among the FDA, USDA, and EPA. While non-GMO biological methods have achieved some commercial successes, many genetically modified solutions remain caught in protracted review processes and public opposition.</p><p><img src="https://worksinprogress.co/.netlify/images?url=https%3A%2F%2Fassets.worksinprogress.co%2Fwp-content%2Fuploads%2F2026%2F09%2FIssue-26_Wolbachia-mating.jpg&w=2500&h=2335&q=65&fit=cover" /></p><hr/><small>5 Oct 2026, 18:29 UTC | #23353</small>]]></content>
+  </entry>
   <entry>
     <title>Irkutsk Lab Worker Dies of Suspected Plague, Prompting Observation of Nearly 200 People</title>
     <link href="https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857" rel="alternate" />

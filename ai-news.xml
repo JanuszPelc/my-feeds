@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-05T14:28:00+00:00</updated>
+  <updated>2026-10-05T14:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Carli Michelle Heller Arrested for Alleged Violent Threats in Claude AI Chat</title>
+    <link href="https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html" rel="alternate" />
+    <id>https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html::v239</id>
+    <published>2026-10-05T14:36:00+00:00</published>
+    <updated>2026-10-05T14:36:00+00:00</updated>
+    <media:thumbnail url="https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-25-image-20.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html">techspot.com</a> | <a href="https://swfl.io/2026/09/30/woman-arrested-after-ai-threat-against-lee-county-sheriffs-office-investigators">source</a> | <a href="https://news.ycombinator.com/item?id=49961057">hacker news</a></small></p><hr/><p>A Florida resident faces felony charges after allegedly using Anthropic's Claude AI to express plans to attack the Lee County Sheriff's Office. Heller, who described using the chatbot as a personal diary, was flagged by the AI's safety systems, which prompted a human reviewer to report the messages to law enforcement.</p><p>The arrest highlights the growing legal and regulatory scrutiny regarding the responsibility of AI developers to report potential real-world violence. It comes as several major AI companies face lawsuits concerning their roles in preventing or managing harmful user-generated content.</p><p><img src="https://www.techspot.com/images2/news/bigimage/2026/06/2026-06-25-image-20.jpg" /></p><hr/><small>5 Oct 2026, 18:25 UTC | #23352</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI to Test Visual Ads in ChatGPT During Image Generation</title>
     <link href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/" rel="alternate" />
