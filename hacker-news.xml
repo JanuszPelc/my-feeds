@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-04T21:10:00+00:00</updated>
+  <updated>2026-10-05T01:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Formula 1 Drivers Express Frustration Over Bahrain Grand Prix Software Glitch</title>
+    <link href="https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/" rel="alternate" />
+    <id>https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/::v239</id>
+    <published>2026-10-05T01:55:00+00:00</published>
+    <updated>2026-10-05T01:55:00+00:00</updated>
+    <media:thumbnail url="https://www.racefans.net/wp-content/uploads/2024/03/racefansdotnet-24-03-02-15-03-07-7-23-saturday-sahkir-2024.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/">motorsport.com</a> | <a href="https://news.ycombinator.com/item?id=49959869">hacker news</a></small></p><hr/><p>A software glitch during the 2026 Bahrain Grand Prix in Malaysia left multiple cars unable to accelerate during the formation lap. The technical failure caused a sudden loss of electrical power in several vehicles, resulting in a 40-minute race delay.</p><p>The FIA identified the cause as a software bug triggered by a combination of low engine speeds, low grip, and specific track layout elements in wet conditions. The governing body has launched a full investigation and released an emergency software patch to address the power unit malfunction.</p><p><img src="https://www.racefans.net/wp-content/uploads/2024/03/racefansdotnet-24-03-02-15-03-07-7-23-saturday-sahkir-2024.jpg" /></p><hr/><small>5 Oct 2026, 05:17 UTC | #23262</small>]]></content>
+  </entry>
   <entry>
     <title>BinRange Uses Ultra-Wideband Radio to Track Trash Bins</title>
     <link href="https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/" rel="alternate" />
