@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-05T13:11:00+00:00</updated>
+  <updated>2026-10-05T14:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Former Groq Engineers Sue Over $20B Nvidia Acqui-hire Deal</title>
+    <link href="https://www.ft.com/content/93ee425d-9ac7-4543-8cc9-fef2e0670787" rel="alternate" />
+    <id>https://www.ft.com/content/93ee425d-9ac7-4543-8cc9-fef2e0670787::v239</id>
+    <published>2026-10-05T14:29:00+00:00</published>
+    <updated>2026-10-05T14:29:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/93ee425d-9ac7-4543-8cc9-fef2e0670787">ft.com</a></small></p><hr/><p>Former engineers of AI startup Groq have filed a lawsuit in Delaware, alleging that a $20 billion "non-exclusive" acqui-hire deal with Nvidia in 2025 short-changed employees. The plaintiffs claim they were excluded from the transaction's financial benefits despite holding shares in the startup.</p><p>The legal dispute focuses on the structure and terms of the Nvidia arrangement. The lawsuit examines whether the transaction's characterization as a non-exclusive deal effectively deprived the company's employees of their rightful compensation.</p><hr/><small>5 Oct 2026, 18:08 UTC | #23292</small>]]></content>
+  </entry>
   <entry>
     <title>Internet Watch Foundation Reports Surge in AI-Generated Child Sexual Abuse Material</title>
     <link href="https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material" rel="alternate" />
