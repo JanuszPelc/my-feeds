@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-05T18:04:00+00:00</updated>
+  <updated>2026-10-05T19:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Async Rust Concurrency and Scheduler Complexity</title>
+    <link href="https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/" rel="alternate" />
+    <id>https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/::v239</id>
+    <published>2026-10-05T19:26:00+00:00</published>
+    <updated>2026-10-05T19:26:00+00:00</updated>
+    <media:thumbnail url="https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/images/dithers/bingo_dithered.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/">herecomesthemoon.net</a> | <a href="https://lobste.rs/s/okk4bg/async_rust_where_does_scheduler_live">discussion</a></small></p><hr/><p>Technical challenges in asynchronous programming include function coloring, cancellation safety, and the requirement for external runtimes. These problems arise from the design requirement to maintain zero-cost abstractions while accommodating diverse execution environments, from embedded devices to high-concurrency servers.</p><p>Concurrency complexity is fundamental to all concurrent systems, as even thread-based models rely on an underlying scheduler, such as the operating system kernel. Opting for specialized executors rather than a single default runtime provides hardware-specific performance at the cost of increased developer-facing complexity.</p><p><img src="https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/images/dithers/bingo_dithered.png" /></p><hr/><small>5 Oct 2026, 22:30 UTC | #23370</small>]]></content>
+  </entry>
   <entry>
     <title>Gleam Updates Erlang Compilation to Use Abstract Forms</title>
     <link href="https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/" rel="alternate" />
