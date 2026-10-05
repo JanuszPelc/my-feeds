@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-05T14:42:00+00:00</updated>
+  <updated>2026-10-05T14:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple Tightens macOS Full Disk Access Controls to Mitigate AI Agent Risks</title>
+    <link href="https://stratechery.com/2026/apple-and-a-hackers-future/" rel="alternate" />
+    <id>https://stratechery.com/2026/apple-and-a-hackers-future/::v239</id>
+    <published>2026-10-05T14:49:00+00:00</published>
+    <updated>2026-10-05T14:49:00+00:00</updated>
+    <media:thumbnail url="https://bitcoinversus.tech/wp-content/uploads/2026/10/wide_cinematic_tech_illustration_scene_a_close_up.png?w=1024" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://stratechery.com/2026/apple-and-a-hackers-future/">stratechery.com</a> | <a href="https://news.ycombinator.com/item?id=49962857">hacker news</a></small></p><hr/><p>A macOS vulnerability (CVE-2026-65400) in the screen-sharing service allows attackers to gain root access and install crypto-miners. In a recent incident, an AI agent running via Claude Code detected the compromise on a Mac Mini, alerted the user, and provided the diagnostic data necessary to identify the window of exploitation.</p><p>This incident highlights a growing tension between Apple’s security protocols—such as the Transparency, Consent, and Control (TCC) subsystem—and the operational needs of autonomous AI agents. Apple intends to implement stricter user-authorization requirements for Full Disk Access to mitigate the risk of agents accessing sensitive personal data, a move that may create friction for users of automated or headless systems.</p><p><img src="https://bitcoinversus.tech/wp-content/uploads/2026/10/wide_cinematic_tech_illustration_scene_a_close_up.png?w=1024" /></p><hr/><small>5 Oct 2026, 19:37 UTC | #23360</small>]]></content>
+  </entry>
   <entry>
     <title>Technology Billionaires Gain $845 Billion in 2026 via AI Valuation Surge</title>
     <link href="https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year" rel="alternate" />
