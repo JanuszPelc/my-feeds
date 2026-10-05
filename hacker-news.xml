@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-05T13:03:00+00:00</updated>
+  <updated>2026-10-05T13:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Vulnerabilities in Apple iCloud Enable Spoofing of Arbitrary Identities</title>
+    <link href="https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/" rel="alternate" />
+    <id>https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/::v239</id>
+    <published>2026-10-05T13:08:00+00:00</published>
+    <updated>2026-10-05T13:08:00+00:00</updated>
+    <media:thumbnail url="https://sec-consult.com/fileadmin/_processed_/7/5/csm_sec-consult-c-apple-cloud_521843d6e5.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/">sec-consult.com</a> | <a href="https://lobste.rs/s/jpwrmk/from_anyone_icloud_com_spoofing">discussion</a></small></p><hr/><p>Researchers at the SEC Consult Vulnerability Lab have identified two "header smuggling" flaws in Apple's email infrastructure. These vulnerabilities allow attackers to impersonate any @icloud.com address while successfully passing SPF, DKIM, and DMARC authentication. The issue arises from parsing discrepancies between different internal SMTP servers used within Apple's email delivery pipeline.</p><p>The attack exploits differences in how SMTP implementations interpret carriage return (\r) characters and line breaks. By manipulating these characters, an attacker can present a legitimate address to pass authentication while delivering a spoofed "From" header to the recipient. Because DKIM cryptographic signatures are applied after the message has undergone normalization by the internal infrastructure, the fraudulent emails appear as authentic and verified.</p><p><img src="https://sec-consult.com/fileadmin/_processed_/7/5/csm_sec-consult-c-apple-cloud_521843d6e5.png" /></p><hr/><small>5 Oct 2026, 16:22 UTC | #23336</small>]]></content>
+  </entry>
   <entry>
     <title>GrapheneOS May Skip Pixel 11 Support Due to Missing MTE Hardware</title>
     <link href="https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped" rel="alternate" />
@@ -900,38 +909,5 @@
     <updated>2026-09-30T22:07:00+00:00</updated>
     <media:thumbnail url="https://www.phoronix.net/image.php?id=2026&amp;image=edgcpp_med" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/edgcpp/compiler">github.com</a> | <a href="https://lobste.rs/s/nwdxko/edg_c_c_compiler_project">discussion</a> | <a href="https://news.ycombinator.com/item?id=49915484">hacker news</a></small></p><hr/><p>The EDG C/C++ front end has been released as an open-source project hosted on GitHub. It is designed for high parsing compatibility with Clang, GCC, and MSVC, ensuring source code consistency across compilers while offering high configurability for integration into various C and C++ oriented products.</p><p>The repository includes C and C++ generating back ends, a prelinker for automatic template instantiation, and utilities for name demangling and intermediate language inspection. The transition to an open-source model is supported by the C++ Alliance to facilitate community-driven development and contributions.</p><p><img src="https://www.phoronix.net/image.php?id=2026&image=edgcpp_med" /></p><hr/><small>1 Oct 2026, 02:34 UTC | #22913</small>]]></content>
-  </entry>
-  <entry>
-    <title>Amazon Unveils New Fire TV Stick 4K and Plans Alexa+ Hub Upgrades</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-30/amazon-debuts-new-fire-tv-stick-4k-with-sleeker-remote-control" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-30/amazon-debuts-new-fire-tv-stick-4k-with-sleeker-remote-control::v239</id>
-    <published>2026-09-30T16:25:00+00:00</published>
-    <updated>2026-09-30T16:25:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-30/amazon-debuts-new-fire-tv-stick-4k-with-sleeker-remote-control">bloomberg.com</a> | <a href="https://www.aboutamazon.com/news/devices/fire-tv-stick-4k-new-remote">source</a></small></p><hr/><p>Amazon has announced a refreshed Fire TV Stick 4K, featuring a slimmer design and improved performance. The new streaming device is priced at $60 and includes a redesigned remote control.</p><p>This release accompanies a simplification of the company's Fire TV Stick lineup. Additionally, Amazon plans to roll out upgraded Alexa+ living room hub features in November.</p><hr/><small>30 Sep 2026, 20:28 UTC | #22840</small>]]></content>
-  </entry>
-  <entry>
-    <title>Aaron Allen Introduces Hanami Web Framework Series</title>
-    <link href="https://aaronmallen.me/writing/hanami-why-introductions" rel="alternate" />
-    <id>https://aaronmallen.me/writing/hanami-why-introductions::v239</id>
-    <published>2026-09-30T16:16:00+00:00</published>
-    <updated>2026-09-30T16:16:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://aaronmallen.me/writing/hanami-why-introductions">aaronmallen.me</a> | <a href="https://lobste.rs/s/bag41j/hanami_why_introductions">discussion</a></small></p><hr/><p>Hanami maintainer Aaron Allen is launching a series to explain the architecture and utility of the Hanami web framework for Ruby. The framework employs modular abstractions, specifically Actions, Relations, Repos, and Operations, to provide an alternative to the patterns used in Ruby on Rails by emphasizing single-purpose components and explicit dependency injection.</p><p>The upcoming series will explore technical implementations such as dependency injection via `dry-system` and input validation using `dry-types`. While the framework's design reduces dependency risks through high modularity, the author notes that developers may encounter a smaller ecosystem of pre-built solutions compared to more established frameworks.</p><hr/><small>30 Sep 2026, 19:27 UTC | #22888</small>]]></content>
-  </entry>
-  <entry>
-    <title>Samsung Galaxy Tab S12 Ultra Review</title>
-    <link href="https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review/" rel="alternate" />
-    <id>https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review/::v239</id>
-    <published>2026-09-30T16:13:00+00:00</published>
-    <updated>2026-09-30T16:13:00+00:00</updated>
-    <media:thumbnail url="https://www.engadget.com/img/gallery/samsung-galaxy-s12-ultra-review-the-apex-android-tablet/intro-1790708907.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2272526/samsung-galaxy-tab-s12-ultra-review/">engadget.com</a></small></p><hr/><p>The Samsung Galaxy Tab S12 Ultra is a premium 14.6-inch Android tablet featuring a high-brightness OLED display and the MediaTek Dimensity 9500 chipset. Starting at $1,400, the device includes a stylus and supports Samsung's DeX mode for a desktop-like interface, positioning it as a high-end alternative to the iPad Pro.</p><p>While the tablet offers impressive battery life and a slim design, its single USB-C port and high price tag remain significant drawbacks. It is designed to serve as a laptop replacement for productivity-focused users, though essential accessories like the Pro Keyboard must be purchased separately.</p><p><img src="https://www.engadget.com/img/gallery/samsung-galaxy-s12-ultra-review-the-apex-android-tablet/intro-1790708907.jpg" /></p><hr/><small>30 Sep 2026, 19:17 UTC | #22828</small>]]></content>
-  </entry>
-  <entry>
-    <title>Turbo Haskell Compiler Targets JVM via GraalVM</title>
-    <link href="https://comonad.com/reader/2026/turbo-haskell/" rel="alternate" />
-    <id>https://comonad.com/reader/2026/turbo-haskell/::v239</id>
-    <published>2026-09-30T16:10:00+00:00</published>
-    <updated>2026-09-30T16:10:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://comonad.com/reader/2026/turbo-haskell/">comonad.com</a> | <a href="https://lobste.rs/s/j7kltq/turbo_haskell">discussion</a> | <a href="https://news.ycombinator.com/item?id=49908742">hacker news</a></small></p><hr/><p>Turbo Haskell Compiler (THC) is a new implementation of Haskell that runs on the JVM using the Truffle and GraalVM frameworks. It consumes GHC Core as input, allowing it to leverage GHC's parsing, typechecking, and desugaring stages while providing JIT or AOT compilation via GraalVM's Native Image.</p><p>The compiler supports advanced language features such as Template Haskell and Linear Haskell, and provides polyglot FFI to integrate Python, Ruby, R, and JavaScript libraries. Technical optimizations include specialized tail-call handling via code transformations and SIMD support using the JDK Vector API.</p><hr/><small>30 Sep 2026, 19:04 UTC | #22876</small>]]></content>
   </entry>
 </feed>

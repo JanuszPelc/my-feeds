@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-05T05:12:00+00:00</updated>
+  <updated>2026-10-05T13:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>CoreWeave Launches Physical AI Field Engineering to Address Data Gaps in Physical AI</title>
+    <link href="https://read.getsuperintel.com/p/the-most-common-failure-isn-t-a-bad-model-coreweave-s-richard-ahlfeld-on-physical-ai" rel="alternate" />
+    <id>https://read.getsuperintel.com/p/the-most-common-failure-isn-t-a-bad-model-coreweave-s-richard-ahlfeld-on-physical-ai::v239</id>
+    <published>2026-10-05T13:06:00+00:00</published>
+    <updated>2026-10-05T13:06:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E12AQErEKhH8TkQAA/article-cover_image-shrink_720_1280/B4EZ3bP2AKHcAM-/0/1777499863528?e=2147483647&amp;v=beta&amp;t=p7r7HN7eCBsH1sf-hJ3z-GMkrdc13c7a9C3RfYI4HoQ" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://read.getsuperintel.com/p/the-most-common-failure-isn-t-a-bad-model-coreweave-s-richard-ahlfeld-on-physical-ai">read.getsuperintel.com</a> | <a href="https://www.coreweave.com/news/coreweave-launches-physical-ai-field-engineering-to-turn-proprietary-data-into-production-ai">source</a></small></p><hr/><p>CoreWeave's Physical AI Field Engineering service embeds engineers within customer teams to develop models using proprietary data from the automotive, aerospace, and robotics sectors. The initiative, which utilizes expertise from CoreWeave's acquisition of Monolith, aims to address the primary cause of physical AI failure: training sets that lack critical, real-world edge cases rather than insufficient model architecture or compute.</p><p>The service differentiates between using synthetic data for predictable physics—such as lighting and geometry—and performing physical tests for complex materials or unpredictable human behavior. The long-term objective is to transition from custom engineering deployments to repeatable, customer-led workflows where organizations retain ownership of their trained models and data.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E12AQErEKhH8TkQAA/article-cover_image-shrink_720_1280/B4EZ3bP2AKHcAM-/0/1777499863528?e=2147483647&v=beta&t=p7r7HN7eCBsH1sf-hJ3z-GMkrdc13c7a9C3RfYI4HoQ" /></p><hr/><small>5 Oct 2026, 16:16 UTC | #23273</small>]]></content>
+  </entry>
   <entry>
     <title>Reflection AI Set to Release First Open-Weight Model</title>
     <link href="https://www.axios.com/2026/10/04/reflection-open-weight-ai" rel="alternate" />
@@ -304,32 +313,5 @@
     <updated>2026-09-30T16:32:00+00:00</updated>
     <media:thumbnail url="https://image.theregister.com/?imageId=5300222&amp;width=800" />
     <content type="html"><![CDATA[<p><small>The Register AI/ML | <a href="https://www.theregister.com/ai-and-ml/2026/09/30/show-colleagues-how-much-you-care-by-sending-an-ai-avatar-to-your-google-meet-call/5300205">theregister.com</a> | <a href="https://meettwins-site.vercel.app/">source</a></small></p><hr/><p>MeetTwins is an AI assistant currently in beta development that is designed to attend Google Meet calls on behalf of its users. Built using Sarvam AI models and Simli digital twin avatars, the tool relays approved information to meeting participants and provides the operator with summarized meeting notes via email.</p><p>The assistant is intended for tasks such as status updates, student schedule management, and routine client check-ins. To prevent misinformation, the tool is programmed to refer unscripted questions to the human user rather than improvising, and meeting participants can remove the bot from a session by typing "/stop" in the chat.</p><p><img src="https://image.theregister.com/?imageId=5300222&width=800" /></p><hr/><small>30 Sep 2026, 21:12 UTC | #22863</small>]]></content>
-  </entry>
-  <entry>
-    <title>Instinct Introduces Human-Curated Product Recommendations Amid User Backlash</title>
-    <link href="https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/::v239</id>
-    <published>2026-09-30T16:29:00+00:00</published>
-    <updated>2026-09-30T16:29:00+00:00</updated>
-    <media:thumbnail url="https://store.webkul.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/e/webkul-odoo-ai-driven-product-recommendation-ai-recommended-products_1.png" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/">techcrunch.com</a></small></p><hr/><p>Instinct has launched "Instinct Selections," a feature that provides personalized product and service suggestions by partnering with human experts like chefs, designers, and travel guides. While the company aims to differentiate its suggestions from standard AI outputs through "human taste," some users have criticized the feature for pushing unsolicited recommendations for items—such as travel gear and clothing—based on their private email data and upcoming trips.</p><p>The rollout follows a $1 billion Series C funding round that valued the AI startup at $10 billion. While the feature could provide new revenue streams through affiliate marketing or commerce, the perceived intrusive nature of the notifications has raised concerns regarding user experience and potential spam.</p><p><img src="https://store.webkul.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/e/webkul-odoo-ai-driven-product-recommendation-ai-recommended-products_1.png" /></p><hr/><small>30 Sep 2026, 21:07 UTC | #22862</small>]]></content>
-  </entry>
-  <entry>
-    <title>DoorDash Unveils AI Ordering Agent for Apple Messages and B2B API</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-30/doordash-unveils-text-to-order-ai-agent-that-works-with-apple-s-imessage" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-30/doordash-unveils-text-to-order-ai-agent-that-works-with-apple-s-imessage::v239</id>
-    <published>2026-09-30T16:23:00+00:00</published>
-    <updated>2026-09-30T16:23:00+00:00</updated>
-    <media:thumbnail url="https://incbusiness.in/wp-content/uploads/2026/06/apple-launches-poke-ai-agent-Startuptalky.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-30/doordash-unveils-text-to-order-ai-agent-that-works-with-apple-s-imessage">bloomberg.com</a> | <a href="https://marketchameleon.com/PressReleases/i/2383265/DASH/doordash-brings-office-ordering-to-the-ai">source</a></small></p><hr/><p>DoorDash has introduced an artificial intelligence agent capable of processing food orders directly within Apple’s Messages app. The company is also opening US waitlists for a B2B API that enables digital assistants, such as Slack bots, to execute bulk orders for users.</p><p>The B2B functionality aims to streamline workplace dining by allowing users to coordinate group orders through communication platforms. This development integrates DoorDash’s logistics into both personal and professional AI-driven messaging workflows.</p><p><img src="https://incbusiness.in/wp-content/uploads/2026/06/apple-launches-poke-ai-agent-Startuptalky.jpg" /></p><hr/><small>30 Sep 2026, 20:14 UTC | #22836</small>]]></content>
-  </entry>
-  <entry>
-    <title>PostHog Releases Jeeves Reasoning Model</title>
-    <link href="https://github.com/PostHog/jeeves" rel="alternate" />
-    <id>https://github.com/PostHog/jeeves::v239</id>
-    <published>2026-09-30T16:15:00+00:00</published>
-    <updated>2026-09-30T16:15:00+00:00</updated>
-    <media:thumbnail url="https://github.com/PostHog/jeeves/raw/master/assets/smug.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/PostHog/jeeves">github.com</a> | <a href="https://news.ycombinator.com/item?id=49891290">hacker news</a></small></p><hr/><p>Built on Qwen3.5, this 9B-parameter model uses Supervised Fine-Tuning (SFT) and a reinforcement learning method called CISPO to perform reasoning before making decisions. The architecture is designed to improve the accuracy of Jev-style models that provide calibrated probabilities but often struggle with precision.</p><p>The model supports various question formats—such as yes/no, multiple-choice, and rating—within a single request via a Jev-compatible API. It features a diffusion drafter to increase inference speed and has demonstrated higher performance on the JevBench benchmark and on out-of-domain datasets compared to existing Jev and Kev models.</p><p><img src="https://github.com/PostHog/jeeves/raw/master/assets/smug.png" /></p><hr/><small>30 Sep 2026, 19:23 UTC | #22887</small>]]></content>
   </entry>
 </feed>

@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-05T12:13:00+00:00</updated>
+  <updated>2026-10-05T13:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Arturia AudioFuse Studio Rev2 Review</title>
+    <link href="https://www.kvraudio.com/news/-68837?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68837" rel="alternate" />
+    <id>https://www.kvraudio.com/news/-68837?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68837::v239</id>
+    <published>2026-10-05T13:07:00+00:00</published>
+    <updated>2026-10-05T13:07:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/artboard4.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/-68837?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68837">kvraudio.com</a> | <a href="https://www.arturia.com/products/audio/audiofuse-studio/overview">source</a></small></p><hr/><p>The Arturia AudioFuse Studio Rev2 is a desktop audio interface designed to function as a central hub for studio monitoring and hardware integration. This updated edition features DiscretePRO preamps with increased headroom (up to +18 dBu) and a wider gain range, alongside a Bluetooth receiver supporting AAC and aptX codecs.</p><p>The interface serves as a monitoring controller with dual speaker outputs, independent headphone mixes, and a talkback microphone. While priced higher than some rack-mounted alternatives, the unit is optimized for producers requiring integrated tactile control and flexible routing for external synthesizers and outboard gear.</p><p><img src="https://static.kvraudio.com/i/b/artboard4.jpg" /></p><hr/><small>5 Oct 2026, 16:17 UTC | #23294</small>]]></content>
+  </entry>
   <entry>
     <title>AudioScout v1.1 Adds Pro Tools, Nuendo, and REAPER Workflows</title>
     <link href="https://www.kvraudio.com/news/prosound-updates-audioscout-to-v1-1-with-pro-tools-nuendo-and-reaper-workflows-68893?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68893" rel="alternate" />
@@ -511,23 +520,5 @@
     <updated>2026-09-30T20:10:00+00:00</updated>
     <media:thumbnail url="https://openlivemixingsystem.org/mixer.png" />
     <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/30/airwindows-consolex3/">bedroomproducersblog.com</a> | <a href="https://www.airwindows.com/consolex3/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/30/airwindows-consolex3/#respond">discussion</a></small></p><hr/><p>Airwindows has released ConsoleX3, an open-source mixing console system compatible with macOS, Windows, and Linux. The software features an adaptive interface with both GUI and No-GUI versions and allows users to switch between Channel and Buss modes within a single plugin instance.</p><p>The system incorporates several new plugins, including Rockstar2, BezEQ4, and Weave, which are integrated into the software but may not be available as standalone entities. This release follows the developer's move toward implementing custom graphical interfaces for their plugins, diverging from the minimal text-based designs used in many previous Airwindows releases.</p><p><img src="https://openlivemixingsystem.org/mixer.png" /></p><hr/><small>30 Sep 2026, 21:35 UTC | #22882</small>]]></content>
-  </entry>
-  <entry>
-    <title>NEXTALE Audio Updates GranularBreaker to Version 1.1.0</title>
-    <link href="https://www.kvraudio.com/news/nextale-audio-updates-granularbreaker---version-1-1-0-68815?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68815" rel="alternate" />
-    <id>https://www.kvraudio.com/news/nextale-audio-updates-granularbreaker---version-1-1-0-68815?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68815::v239</id>
-    <published>2026-09-30T16:27:00+00:00</published>
-    <updated>2026-09-30T16:27:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/gbupdate.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/nextale-audio-updates-granularbreaker---version-1-1-0-68815?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68815">kvraudio.com</a> | <a href="https://www.nextale-audio.com/granularbreaker">source</a></small></p><hr/><p>NEXTALE Audio has released version 1.1.0 of GranularBreaker, a granular synthesizer that uses brick-breaker physics to trigger audio grains from user-imported samples and impulse responses.</p><p>The update introduces a step sequencer, three LFOs, MIDI output, and several audio effects including spatial audio, reverb, and bitcrusher. The software is available for Windows and macOS in VST3, AU, and standalone formats, with a free unlimited demo available.</p><p><img src="https://static.kvraudio.com/i/b/gbupdate.png" /></p><hr/><small>30 Sep 2026, 20:33 UTC | #22856</small>]]></content>
-  </entry>
-  <entry>
-    <title>13x Audio Updates Aurora EQ with Delta Monitoring and Auto Gain</title>
-    <link href="https://www.kvraudio.com/news/13x-audio-updates-aurora-to-v1-5-with-delta-monitoring-auto-gain-and-multi-instance-editing-68818?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68818" rel="alternate" />
-    <id>https://www.kvraudio.com/news/13x-audio-updates-aurora-to-v1-5-with-delta-monitoring-auto-gain-and-multi-instance-editing-68818?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68818::v239</id>
-    <published>2026-09-30T16:04:00+00:00</published>
-    <updated>2026-09-30T16:04:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/aurora-1-5-main-full.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/13x-audio-updates-aurora-to-v1-5-with-delta-monitoring-auto-gain-and-multi-instance-editing-68818?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68818">kvraudio.com</a> | <a href="https://13x.audio/products/aurora">source</a></small></p><hr/><p>13x Audio has released version 1.5 of Aurora, its free 24-band dynamic EQ for Windows, macOS, and Linux. The update introduces a Delta mode that plays only the signal removed by the EQ, an auto gain option for fair level comparisons, and an instance overview for managing multiple plugin instances within a project.</p><p>Additionally, the update includes a redesigned interface, a new De-harsh stage for whole-signal processing, and various bug fixes. Aurora remains a free tool supporting VST3, CLAP, AU, and LV2 formats across all major operating systems.</p><p><img src="https://static.kvraudio.com/i/b/aurora-1-5-main-full.png" /></p><hr/><small>30 Sep 2026, 18:18 UTC | #22838</small>]]></content>
   </entry>
 </feed>
