@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
   <entry>
+    <title>HackerRank Releases Chakra AI Interviewer</title>
+    <link href="https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/::v239</id>
+    <published>2026-10-05T19:23:00+00:00</published>
+    <updated>2026-10-05T19:23:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/hackerrank-chakra-assessment.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/">techcrunch.com</a> | <a href="https://www.hackerrank.com/chakra">source</a></small></p><hr/><p>HackerRank is making its Chakra AI agent generally available to customers starting Monday, following a beta period that included more than 500,000 interviews. The agent monitors candidates as they work through real-world coding tasks in a live canvas, assessing their critical thinking and "AI fluency"—the ability to effectively use AI to solve problems—rather than just the final code output.</p><p>The platform aims to consolidate the standard multi-round hiring process into a single interview session and has reportedly reduced suspicious-activity flags by up to 80% during testing. While the company argues that AI can provide more consistent and less biased evaluation rubrics, the use of automated tools in hiring remains a focal point for regulators concerned with algorithmic bias.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/hackerrank-chakra-assessment.jpg" /></p><hr/><small>5 Oct 2026, 21:55 UTC | #23346</small>]]></content>
+  </entry>
+  <entry>
     <title>Cohere Launches North 2 Enterprise Agent Platform Update</title>
     <link href="https://venturebeat.com/orchestration/coheres-north-2-puts-ai-agents-on-a-budget-and-gives-them-a-memory" rel="alternate" />
     <id>https://venturebeat.com/orchestration/coheres-north-2-puts-ai-agents-on-a-budget-and-gives-them-a-memory::v239</id>

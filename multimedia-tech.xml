@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-05T18:07:00+00:00</updated>
+  <updated>2026-10-05T19:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Ninja Theory Faces Layoffs After Failed Xbox Spin-off</title>
+    <link href="https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox::v239</id>
+    <published>2026-10-05T19:24:00+00:00</published>
+    <updated>2026-10-05T19:24:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt08fd428b64a8edaf/6ac3cb061cfa733f1aa10aba/senuasteam.jpg?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox">gamedeveloper.com</a></small></p><hr/><p>Ninja Theory has begun laying off staff following unsuccessful attempts to spin off from Xbox. Employees have reported redundancies on LinkedIn, spanning roles such as technical sound design, performance capture, and gameplay programming.</p><p>The studio was identified as a candidate for divestiture during an Xbox organizational restructuring. While Undead Labs successfully completed a spinoff from Microsoft, attempts to find a buyer for Ninja Theory have reportedly failed despite efforts to generate interest through new project reveals.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt08fd428b64a8edaf/6ac3cb061cfa733f1aa10aba/senuasteam.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>5 Oct 2026, 21:56 UTC | #23347</small>]]></content>
+  </entry>
   <entry>
     <title>Harvey Smith and Ben Horne Discuss the Viability of Immersive Sims</title>
     <link href="https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne" rel="alternate" />
