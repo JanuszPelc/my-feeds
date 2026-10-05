@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-05T01:55:00+00:00</updated>
+  <updated>2026-10-05T02:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Refinement E-Graphs and Inequality Union Finds</title>
+    <link href="https://www.philipzucker.com/refinement_egraph/" rel="alternate" />
+    <id>https://www.philipzucker.com/refinement_egraph/::v239</id>
+    <published>2026-10-05T02:24:00+00:00</published>
+    <updated>2026-10-05T02:24:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.philipzucker.com/refinement_egraph/">philipzucker.com</a> | <a href="https://lobste.rs/s/9bufek/refinement_e_graphs">discussion</a></small></p><hr/><p>Refinement e-graphs extend the standard e-graph framework by incorporating a `&lt;=` (less-than-or-equal) relation alongside the native equality operator. This allows for the representation of unidirectional refinement rewrites, such as transitioning from an abstract program specification to a concrete machine implementation, and modeling "don't care" semantics in digital circuits. The architecture relies on the combination of inequality union finds and hash cons.</p><p>A Python prototype based on Max Willsey’s microegg is provided to demonstrate the practical application of refinement closure, e-matching, and extraction. The implementation accounts for function variance, including monotonic and contravariant arguments, to manage how inequality relations propagate through complex term structures during the refinement process.</p><hr/><small>5 Oct 2026, 05:29 UTC | #23261</small>]]></content>
+  </entry>
   <entry>
     <title>Formula 1 Drivers Express Frustration Over Bahrain Grand Prix Software Glitch</title>
     <link href="https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/" rel="alternate" />
