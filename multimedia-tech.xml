@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-05T19:24:00+00:00</updated>
+  <updated>2026-10-05T19:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Reverse Engineering NovaLogic's Comanche Terrain Maps</title>
+    <link href="https://pikuma.com/blog/comanche-maps-reverse-engineering" rel="alternate" />
+    <id>https://pikuma.com/blog/comanche-maps-reverse-engineering::v239</id>
+    <published>2026-10-05T19:30:00+00:00</published>
+    <updated>2026-10-05T19:30:00+00:00</updated>
+    <media:thumbnail url="https://pikuma.com/images/blog/comanche-maps-reverse-engineering/campos-de-cima-da-serra.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://pikuma.com/blog/comanche-maps-reverse-engineering">pikuma.com</a> | <a href="https://lobste.rs/s/qcafwq/reverse_engineering_comanche_terrain">discussion</a></small></p><hr/><p>The terrain map files for the 1992 game Comanche: Maximum Overkill consist of 1024×1024 heightmaps and color maps used for Voxel Space rendering. These assets are stored in .DTA files that must be decoded to reconstruct the landscape data.</p><p>The files are modified PCX images featuring a 128-byte custom header and run-length encoding (RLE) compression. The technical process involves writing an ANSI C program to decode the pixel data and hidden 256-color palettes into standard BMP images.</p><p><img src="https://pikuma.com/images/blog/comanche-maps-reverse-engineering/campos-de-cima-da-serra.jpg" /></p><hr/><small>5 Oct 2026, 22:48 UTC | #23373</small>]]></content>
+  </entry>
   <entry>
     <title>Ninja Theory Faces Layoffs After Failed Xbox Spin-off</title>
     <link href="https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox" rel="alternate" />
