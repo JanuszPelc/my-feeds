@@ -3,9 +3,17 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-05T14:46:00+00:00</updated>
+  <updated>2026-10-05T17:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Rapid Flow Offers Free True AB Referencing Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/05/rapid-flow-true-ab/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/05/rapid-flow-true-ab/::v239</id>
+    <published>2026-10-05T17:03:00+00:00</published>
+    <updated>2026-10-05T17:03:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/05/rapid-flow-true-ab/">bedroomproducersblog.com</a> | <a href="https://www.rapidflow.shop/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/05/rapid-flow-true-ab/#respond">discussion</a></small></p><hr/><p>Rapid Flow is providing its True AB Referencing software for free to celebrate its fourth anniversary. To receive a full, perpetual license for the $39 plugin, users must subscribe to the developer's newsletter.</p><p>The tool allows producers to compare mixes against reference tracks through loudness matching and frequency analysis. It also features speaker modeling for playback in various environments, such as cars, clubs, and mobile devices.</p><hr/><small>5 Oct 2026, 20:11 UTC | #23327</small>]]></content>
+  </entry>
   <entry>
     <title>Justin Trieger Releases Essential Six Free Sample-Based Instrument</title>
     <link href="https://bedroomproducersblog.com/2026/10/05/essential-six/" rel="alternate" />
@@ -556,31 +564,5 @@
     <updated>2026-10-01T01:30:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/eyepiece-ui.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ovni-audio-updates-telescope-to-v0-2-and-releases-eyepiece-v0-1---free-mac-project-reader-68822?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68822">kvraudio.com</a> | <a href="https://buttondown.com/ovniaudio/archive/eyepiece-is-out-and-telescope-02/">source</a></small></p><hr/><p>Eyepiece v0.1 is a free, closed-source macOS application that converts DAW project files—including Ableton Live, Logic, GarageBand, and FL Studio—into text snapshots for AI analysis. The tool identifies tracks, clips, and plugin settings locally without requiring internet access or transmitting data to external servers.</p><p>Telescope has been updated to version 0.2, resolving DAW stalling issues and adding a light theme, improved UI contrast, and enhanced reference track comparison. While Eyepiece is exclusive to macOS, Telescope is open-source (AGPLv3) and compatible with both macOS and Windows.</p><p><img src="https://static.kvraudio.com/i/b/eyepiece-ui.jpg" /></p><hr/><small>1 Oct 2026, 09:10 UTC | #22939</small>]]></content>
-  </entry>
-  <entry>
-    <title>SampleScience Offers RC 909 Pro Drum Plugin for Free</title>
-    <link href="https://bedroomproducersblog.com/2026/09/30/samplescience-rc909-pro-free/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/30/samplescience-rc909-pro-free/::v239</id>
-    <published>2026-09-30T20:12:00+00:00</published>
-    <updated>2026-09-30T20:12:00+00:00</updated>
-    <media:thumbnail url="https://cdn.rekkerd.org/wp-content/uploads/2023/08/SampleScience-RC909-Pro.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/30/samplescience-rc909-pro-free/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/09/30/samplescience-rc909-pro-free/#comments">discussion</a></small></p><hr/><p>The RC 909 Pro drum module plugin is being offered as a free download by SampleScience for a limited time. The software, an emulation of the TR-909 drum machine, is available for macOS and Windows. Users can obtain the plugin, which typically retails for $30.00, by using the code FREE 909DRUMS through October 31st.</p><p>The plugin includes 19 drum kit variations, including versions processed through tape machines, vintage computers, and video game consoles such as the NES and Sega Genesis. It supports VST, VST3, and Audio Units formats and allows for adjustments to drum parameters, decay, and sound routing.</p><p><img src="https://cdn.rekkerd.org/wp-content/uploads/2023/08/SampleScience-RC909-Pro.jpg" /></p><hr/><small>30 Sep 2026, 21:38 UTC | #22884</small>]]></content>
-  </entry>
-  <entry>
-    <title>Pizza Bagel Plugins Releases Schmear Vocal Widener</title>
-    <link href="https://bedroomproducersblog.com/2026/09/30/pizza-bagel-plugins-schmear/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/30/pizza-bagel-plugins-schmear/::v239</id>
-    <published>2026-09-30T20:11:00+00:00</published>
-    <updated>2026-09-30T20:11:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/30/pizza-bagel-plugins-schmear/">bedroomproducersblog.com</a> | <a href="https://pizzabagelplugins.com/plugins/schmear/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/30/pizza-bagel-plugins-schmear/#respond">discussion</a></small></p><hr/><p>The Schmear vocal widener is a new plugin from Pizza Bagel Plugins, compatible with macOS and Windows. Founded by producer Justin Gammella, the company is offering the tool for free as a launch promotion, though it typically retails for $19.</p><p>To obtain the software, users must complete a $0 checkout on the manufacturer's website to register a license to their account. Schmear is part of a plugin suite that also includes JJG Vocals and Salt.</p><hr/><small>30 Sep 2026, 21:36 UTC | #22883</small>]]></content>
-  </entry>
-  <entry>
-    <title>Airwindows Releases ConsoleX3 Open-Source Mixing System</title>
-    <link href="https://bedroomproducersblog.com/2026/09/30/airwindows-consolex3/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/09/30/airwindows-consolex3/::v239</id>
-    <published>2026-09-30T20:10:00+00:00</published>
-    <updated>2026-09-30T20:10:00+00:00</updated>
-    <media:thumbnail url="https://openlivemixingsystem.org/mixer.png" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/09/30/airwindows-consolex3/">bedroomproducersblog.com</a> | <a href="https://www.airwindows.com/consolex3/">source</a> | <a href="https://bedroomproducersblog.com/2026/09/30/airwindows-consolex3/#respond">discussion</a></small></p><hr/><p>Airwindows has released ConsoleX3, an open-source mixing console system compatible with macOS, Windows, and Linux. The software features an adaptive interface with both GUI and No-GUI versions and allows users to switch between Channel and Buss modes within a single plugin instance.</p><p>The system incorporates several new plugins, including Rockstar2, BezEQ4, and Weave, which are integrated into the software but may not be available as standalone entities. This release follows the developer's move toward implementing custom graphical interfaces for their plugins, diverging from the minimal text-based designs used in many previous Airwindows releases.</p><p><img src="https://openlivemixingsystem.org/mixer.png" /></p><hr/><small>30 Sep 2026, 21:35 UTC | #22882</small>]]></content>
   </entry>
 </feed>

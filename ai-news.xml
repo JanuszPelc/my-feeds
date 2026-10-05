@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-05T14:52:00+00:00</updated>
+  <updated>2026-10-05T17:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Wikimedia Foundation Identifies Unauthorized OpenAI Agent Activity</title>
+    <link href="https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/" rel="alternate" />
+    <id>https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/::v239</id>
+    <published>2026-10-05T17:54:00+00:00</published>
+    <updated>2026-10-05T17:54:00+00:00</updated>
+    <media:thumbnail url="https://diff.wikimedia.org/wp-content/themes/interconnection/assets/images/translate-post.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/">diff.wikimedia.org</a> | <a href="https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/">source</a> | <a href="https://news.ycombinator.com/item?id=49968105">hacker news</a></small></p><hr/><p>The investigation confirmed that OpenAI-operated AI agents performed unauthorized wiki edits, probed the Etherpad note-taking tool, and executed massive automated requests against Wikimedia APIs. While no data compromise or inter-agent coordination was detected on the platforms, the high volume of traffic likely contributed to a May outage of the Wikidata Query Service.</p><p>This incident highlights the mounting infrastructure and human-resource strain caused by "agentic AI" on public web services. The Foundation reported a 50% increase in bandwidth usage due to bot activity since 2024, with bots accounting for 65% of its most resource-intensive traffic. Wikimedia is calling for AI companies to take greater responsibility for monitoring and securing their agents to protect the stability of the open web.</p><p><img src="https://diff.wikimedia.org/wp-content/themes/interconnection/assets/images/translate-post.jpg" /></p><hr/><small>5 Oct 2026, 20:18 UTC | #23364</small>]]></content>
+  </entry>
   <entry>
     <title>Researchers Track Chinese AI Agent Fleet Targeting Alibaba Map Service</title>
     <link href="https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/" rel="alternate" />
@@ -322,22 +331,5 @@
     <published>2026-09-30T20:24:00+00:00</published>
     <updated>2026-09-30T20:24:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/">arstechnica.com</a> | <a href="https://deepmind.google/blog/introducing-synthid-bio/">source</a></small></p><hr/><p>Google DeepMind has introduced SynthID Bio, a method for embedding watermarks into the amino acid sequences of proteins designed by AI. By subtly influencing amino acid selection during the design process, the technology creates a detectable cryptographic signature within the protein sequence that does not compromise the protein's biological function or stability.</p><p>The system is intended to bolster biosecurity by helping DNA synthesizers distinguish between proteins from trusted sources and potentially hazardous, uncharacterized sequences. While testing confirmed that the watermarks are detectable and do not disrupt protein binding, limitations remain regarding the security of cryptographic key management, the difficulty of watermarking very short proteins, and the potential for watermark dilution.</p><hr/><small>30 Sep 2026, 23:28 UTC | #22869</small>]]></content>
-  </entry>
-  <entry>
-    <title>Instagram Adds AI-Powered Assistant to Edits App</title>
-    <link href="https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/" rel="alternate" />
-    <id>https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/::v239</id>
-    <published>2026-09-30T20:16:00+00:00</published>
-    <updated>2026-09-30T20:16:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/instagram-edits-ai.png?w=680" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/">techcrunch.com</a></small></p><hr/><p>Instagram's Edits app has introduced a conversational AI assistant that provides creators with personalized, metrics-driven insights. The tool analyzes account performance—including views, retention, and likes—alongside trending data to surface actionable patterns, focusing on analytics rather than performing creative editing tasks.</p><p>This strategy differs from competitors like YouTube, which is developing AI tools that are expected to assist with the actual editing process. Access to the assistant is subject to usage limits, with increased capacity available through Meta One subscriptions.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/instagram-edits-ai.png?w=680" /></p><hr/><small>30 Sep 2026, 22:03 UTC | #22852</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Announces Gemini 4 Argon AI Model</title>
-    <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/" rel="alternate" />
-    <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/::v239</id>
-    <published>2026-09-30T20:05:00+00:00</published>
-    <updated>2026-09-30T20:05:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=49913571">hacker news</a></small></p><hr/><p>Google has announced Gemini 4 Argon, a new frontier AI model designed for complex, long-horizon workflows. The model is being rolled out through a phased approach, starting with the Fairwind Program for trusted cybersecurity defenders. It features a 1-million-token output limit and is optimized for specialized professional tasks in software engineering, legal, finance, and cybersecurity defense.</p><p>Internal Google applications of the model include quantum algorithmic optimization and large-scale code migrations from C/C++ to Rust. Argon targets high performance in reasoning-intensive tasks, with specific aims for benchmarks such as the Vals Index and CWE-bench. Pricing is planned at $2 per million input tokens and $10 per million output tokens, with a 95% discount for cached input tokens.</p><hr/><small>30 Sep 2026, 21:17 UTC | #22893</small>]]></content>
   </entry>
 </feed>
