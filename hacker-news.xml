@@ -925,29 +925,4 @@
     <media:thumbnail url="https://blog.nns.ee/img/2026-09-24-oneplus-root/olc-doshell.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.nns.ee/2026/09/24/oneplus-root/">blog.nns.ee</a> | <a href="https://lobste.rs/s/a5rcxy/getting_root_on_oneplus_15_from_untrusted">discussion</a></small></p><hr/><p>A security researcher has demonstrated a vulnerability chain in OxygenOS that allows an untrusted app with no special permissions to gain full root access on OnePlus 15 devices. The exploit leverages a command injection in the AtlasService telemetry component to execute commands within the dumpstate SELinux domain, which then uses a vendor HAL to spawn a shell with unrestricted Linux capabilities.</p><p>OnePlus has confirmed the vulnerability affecting various OnePlus and OPPO devices and is rolling out patches. The issue has been addressed in OxygenOS version 16.0.10.500(EX01) and several other maintenance branches.</p><p><img src="https://blog.nns.ee/img/2026-09-24-oneplus-root/olc-doshell.png" /></p><hr/><small>30 Sep 2026, 09:33 UTC | #22807</small>]]></content>
   </entry>
-  <entry>
-    <title>Relapse-Exploit Released for PS5 Firmware 7.00 to 13.60</title>
-    <link href="https://github.com/ntfargo/Relapse-Exploit" rel="alternate" />
-    <id>https://github.com/ntfargo/Relapse-Exploit::v239</id>
-    <published>2026-09-30T02:14:00+00:00</published>
-    <updated>2026-09-30T02:14:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/ntfargo/Relapse-Exploit">github.com</a> | <a href="https://news.ycombinator.com/item?id=49895304">hacker news</a></small></p><hr/><p>The Relapse-Exploit is an exploit chain designed for PlayStation 5 consoles running firmware versions 7.00 through 13.60. It employs a WebKit browser stage—utilizing JSC info leaks and a structured clone object pool mismatch to corrupt a typedarray—and a kernel stage that uses an aio_multi_wait use-after-free race condition to establish kernel read/write access.</p><p>The exploit is non-persistent, meaning it must be re-run manually after every system reboot. Users can initiate the process via a specific DNS configuration or through a hosted web interface. Execution may cause system instability, such as kernel panics or console hangs, which require a hardware reboot.</p><hr/><small>30 Sep 2026, 06:50 UTC | #22799</small>]]></content>
-  </entry>
-  <entry>
-    <title>Critique of DHH's Vision for AI-Driven Software Development</title>
-    <link href="https://jardo.dev/hardly-promethean" rel="alternate" />
-    <id>https://jardo.dev/hardly-promethean::v239</id>
-    <published>2026-09-30T02:12:00+00:00</published>
-    <updated>2026-09-30T02:12:00+00:00</updated>
-    <media:thumbnail url="https://kalinga.ai/wp-content/uploads/2026/04/llm-knowledge-base-architecture-andrej-karpathy.jpg-1024x572.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jardo.dev/hardly-promethean">jardo.dev</a> | <a href="https://lobste.rs/s/dcrwg8/hardly_promethean">discussion</a></small></p><hr/><p>The article critiques David Heinemeier Hansson's (DHH) vision that AI agents will make developing native applications and high-performance backends so inexpensive that the nature of web development will fundamentally change. The author argues that reducing the cost of writing code merely shifts the development bottleneck toward maintenance, debugging, and human coordination.</p><p>This shift creates new constraints in the software lifecycle, such as the difficulty of maintaining non-deterministic AI-generated code. The piece suggests that while AI increases coding velocity, it does not address the scarcity of original ideas or the increasing complexity of managing large-scale, asynchronous agent-driven development.</p><p><img src="https://kalinga.ai/wp-content/uploads/2026/04/llm-knowledge-base-architecture-andrej-karpathy.jpg-1024x572.png" /></p><hr/><small>30 Sep 2026, 06:34 UTC | #22797</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rust Compiler Performance Progress Report for September 2026</title>
-    <link href="https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html" rel="alternate" />
-    <id>https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html::v239</id>
-    <published>2026-09-30T02:09:00+00:00</published>
-    <updated>2026-09-30T02:09:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html">nnethercote.github.io</a> | <a href="https://lobste.rs/s/odrfgk/how_speed_up_rust_compiler_september_2026">discussion</a></small></p><hr/><p>The Rust compiler achieved a 4.57% mean wall-time reduction between late July and late September 2026, with 555 of 629 benchmarks showing improvements. Updates included upgrading to LLVM 23, enabling Profile-Guided Optimization (PGO) for Clippy, and the enablement of the Polonius Alpha borrow checker and the new trait solver on Nightly.</p><p>Technical optimizations included improved CFG traversal for dataflow analyses, specialization graph handling, and adjusted liveness computations. Future work includes a compiler performance optimization project at Hexcat.</p><hr/><small>30 Sep 2026, 06:13 UTC | #22795</small>]]></content>
-  </entry>
 </feed>
