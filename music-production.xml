@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-05T05:16:00+00:00</updated>
+  <updated>2026-10-05T08:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Asylum Audio Releases The Asylum Boards of Audio Free Edition</title>
+    <link href="https://www.kvraudio.com/news/asylum-audio-releases-the-asylum-boards-of-audio-free-edition-for-windows-and-macos-vst3-and-au-68867?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68867" rel="alternate" />
+    <id>https://www.kvraudio.com/news/asylum-audio-releases-the-asylum-boards-of-audio-free-edition-for-windows-and-macos-vst3-and-au-68867?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68867::v239</id>
+    <published>2026-10-05T08:15:00+00:00</published>
+    <updated>2026-10-05T08:15:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/board-of-audio-screen.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/asylum-audio-releases-the-asylum-boards-of-audio-free-edition-for-windows-and-macos-vst3-and-au-68867?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68867">kvraudio.com</a> | <a href="https://www.the-asylum.com/products/the-asylum-boards-of-audio">source</a></small></p><hr/><p>Asylum Audio has released The Asylum Boards of Audio – Free Edition, a free ROM-style virtual instrument for Windows and macOS in VST3 and AU formats. The plugin emulates weathered, lo-fi textures inspired by the atmosphere of old educational films and unstable tape machines. This release includes 20 factory programs covering pads, keys, basses, woodwinds, and atmospheric textures.</p><p>The instrument features eight principal controls to manipulate deterioration, static, and acoustic isolation through effects such as tape bias, saturation, and wow and flutter. A more comprehensive "Complete Edition" is currently in development, which is expected to include virtual analogue oscillators, a field-recording layer, and expanded modulation capabilities.</p><p><img src="https://static.kvraudio.com/i/b/board-of-audio-screen.jpg" /></p><hr/><small>5 Oct 2026, 12:12 UTC | #23277</small>]]></content>
+  </entry>
   <entry>
     <title>ivoschi Updates MidiBro 2 to Version 2.1</title>
     <link href="https://www.kvraudio.com/news/ivoschi-updates-midibro-2-to-v2-1---adds-rhythm-transform-linux-version-and-improved-midi-output-68866?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68866" rel="alternate" />
