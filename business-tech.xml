@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-05T20:55:00+00:00</updated>
+  <updated>2026-10-05T21:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>CFTC Proposes Framework for Leveraged Retail Crypto Trading</title>
+    <link href="https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701" rel="alternate" />
+    <id>https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701::v239</id>
+    <published>2026-10-05T21:02:00+00:00</published>
+    <updated>2026-10-05T21:02:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701">theblock.co</a></small></p><hr/><p>The Commodity Futures Trading Commission (CFTC) has proposed a federal framework that would allow crypto exchanges to offer leveraged and margined spot trading to retail customers. This proposal introduces a new "crypto asset market" exchange category, intended to create a regulatory pathway for these activities without requiring new legislation from Congress.</p><p>The framework seeks to bring segments of the spot crypto market under federal oversight through new registration requirements for exchanges. However, the CFTC noted that it lacks the authority to mandate that all crypto trading occur on CFTC-regulated platforms without additional action from Congress.</p><hr/><small>5 Oct 2026, 23:55 UTC | #23343</small>]]></content>
+  </entry>
   <entry>
     <title>Pentagon Ceases Use of Anthropic AI Tools</title>
     <link href="https://www.bbc.com/news/articles/c5j9x9pr0240o" rel="alternate" />
@@ -802,32 +810,5 @@
     <published>2026-10-01T00:11:00+00:00</published>
     <updated>2026-10-01T00:11:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/09/30/california-gavin-newsom-ai-ban.html">cnbc.com</a> | <a href="https://sd05.senate.ca.gov/news/newsom-signs-mcnerneys-no-robo-bosses-act-2026-requiring-human-oversight-ai-workplace">source</a></small></p><hr/><p>California Governor Gavin Newsom has signed SB 947, the "No Robo Bosses Act," prohibiting employers from relying exclusively on artificial intelligence to fire or discipline workers. Under the new law, any disciplinary or termination decisions based primarily on AI output must be corroborated by a human reviewer using supplementary information, such as managerial evaluations and personnel files. Additionally, affected employees must receive written notice detailing the AI's role, the data used in the decision, and a human point of contact for further explanation.</p><p>The legislation, authored by State Senator Jerry McNerney, was modified to remove previous notification requirements and gig worker protections to secure the governor's signature. The act follows a series of recent AI-related executive orders and regulatory frameworks aimed at managing the social and economic impacts of automated management. While similar legislation has been proposed in states like New York and Illinois, California's law establishes a highly specific oversight framework for workplace AI use.</p><hr/><small>1 Oct 2026, 07:21 UTC | #22907</small>]]></content>
-  </entry>
-  <entry>
-    <title>Greg Brockman to Halt Second $25 Million Donation to Leading the Future</title>
-    <link href="https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html?unlocked_article_code=1.FFE.e3i6.y9pbdNHBVc3E&amp;smid=bs-share" rel="alternate" />
-    <id>https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html?unlocked_article_code=1.FFE.e3i6.y9pbdNHBVc3E&amp;smid=bs-share::v239</id>
-    <published>2026-09-30T23:49:00+00:00</published>
-    <updated>2026-09-30T23:49:00+00:00</updated>
-    <media:thumbnail url="https://gizmodo.com/app/uploads/2026/02/greg-brockman-jan-2026-1200x675.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html?unlocked_article_code=1.FFE.e3i6.y9pbdNHBVc3E&smid=bs-share">nytimes.com</a></small></p><hr/><p>OpenAI President and co-founder Greg Brockman has informed employees that he will not fulfill a planned second $25 million donation to the super PAC Leading the Future. He reportedly characterized the political organization as a "distraction" for the company.</p><p>The decision follows internal pressure and concerns raised by OpenAI employees regarding the company's perceived links to the PAC. The super PAC had previously expected a total of $50 million in contributions from Brockman after he provided the first $25 million in 2025.</p><p><img src="https://gizmodo.com/app/uploads/2026/02/greg-brockman-jan-2026-1200x675.jpg" /></p><hr/><small>1 Oct 2026, 06:34 UTC | #22905</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tech CEOs Questioned Anthropic CEO Dario Amodei Over AI Risk Warnings</title>
-    <link href="https://www.wsj.com/tech/ai/tech-ceos-privately-questioned-amodei-for-sounding-ai-alarm-bells-aaa47df3" rel="alternate" />
-    <id>https://www.wsj.com/tech/ai/tech-ceos-privately-questioned-amodei-for-sounding-ai-alarm-bells-aaa47df3::v239</id>
-    <published>2026-09-30T23:46:00+00:00</published>
-    <updated>2026-09-30T23:46:00+00:00</updated>
-    <media:thumbnail url="https://cdn-image.creati.ai/ai-news/cover-image/original/anthropic-ceo-dario-amodei-meets-white-house-chief-of-staff-claude-mythos-pentagon.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/tech-ceos-privately-questioned-amodei-for-sounding-ai-alarm-bells-aaa47df3">wsj.com</a></small></p><hr/><p>During a White House luncheon, tech executives—including Nvidia's Jensen Huang—privately challenged Anthropic CEO Dario Amodei about his public warnings regarding the capabilities and risks of advanced AI models. Amodei defended his stance, asserting that transparency regarding the technology's potential impact is essential.</p><p>The confrontation highlights a growing divide in the industry between those prioritizing rapid technological progress and those calling for increased oversight. Amodei has been a leading voice for "pacing the frontier," arguing that the rate of AI capability gains should be deliberately slowed to allow safety, alignment, and governance research to keep pace.</p><p><img src="https://cdn-image.creati.ai/ai-news/cover-image/original/anthropic-ceo-dario-amodei-meets-white-house-chief-of-staff-claude-mythos-pentagon.webp" /></p><hr/><small>1 Oct 2026, 05:25 UTC | #22902</small>]]></content>
-  </entry>
-  <entry>
-    <title>Factory and Cognition Trade Accusations Over High-Profile Executive Hire</title>
-    <link href="https://www.businessinsider.com/ai-coding-rivals-factory-and-cognition-feud-over-top-hire-2026-9" rel="alternate" />
-    <id>https://www.businessinsider.com/ai-coding-rivals-factory-and-cognition-feud-over-top-hire-2026-9::v239</id>
-    <published>2026-09-30T23:45:00+00:00</published>
-    <updated>2026-09-30T23:45:00+00:00</updated>
-    <media:thumbnail url="https://i.insider.com/6abd6ad5265e3f8e338f9383?width=700" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/ai-coding-rivals-factory-and-cognition-feud-over-top-hire-2026-9">businessinsider.com</a></small></p><hr/><p>Factory CEO Matan Grinberg and Cognition CEO Scott Wu are engaged in a public dispute after advisor Chris Degnan joined Cognition as Chief Revenue Officer. Grinberg alleged that Degnan shared confidential information while serving on the Factory board and claimed Cognition employees staged fake interviews to gather competitive intelligence.</p><p>The dispute occurs amid high-stakes competition in the AI coding agent market, following massive funding rounds that valued Factory at $5 billion and Cognition at $48 billion. The conflict has drawn public commentary from Khosla Ventures partners regarding the ethics of executive recruitment during competitive advisory roles.</p><p><img src="https://i.insider.com/6abd6ad5265e3f8e338f9383?width=700" /></p><hr/><small>1 Oct 2026, 05:10 UTC | #22901</small>]]></content>
   </entry>
 </feed>
