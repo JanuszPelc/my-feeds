@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-05T05:08:00+00:00</updated>
+  <updated>2026-10-05T05:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>2B Played Music Adds Full AAX Support to Entire Plugin Catalog</title>
+    <link href="https://www.kvraudio.com/news/2b-played-music-announces-full-aax-support-across-entire-plugin-catalog-68874?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68874" rel="alternate" />
+    <id>https://www.kvraudio.com/news/2b-played-music-announces-full-aax-support-across-entire-plugin-catalog-68874?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68874::v239</id>
+    <published>2026-10-05T05:11:00+00:00</published>
+    <updated>2026-10-05T05:11:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/2bplayedmusic2048x2048_26.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/2b-played-music-announces-full-aax-support-across-entire-plugin-catalog-68874?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68874">kvraudio.com</a> | <a href="https://2bplayed.com/">source</a></small></p><hr/><p>2B Played Music has added full AAX support to its entire plugin catalog, enabling compatibility with Avid Pro Tools on both Windows and macOS. This update applies to the company's main plugin range, the Classics collection, and the QFX One Series, while maintaining existing VST3 and Audio Unit support.</p><p>To mark the expansion, 2B Played Music is offering a 30% discount on individual plugins through October 11, 2026. The company also noted that Studio Pass subscription payments are returned to customers as Studio Credit, which can be used toward the purchase of perpetual plugin licenses.</p><p><img src="https://static.kvraudio.com/i/b/2bplayedmusic2048x2048_26.png" /></p><hr/><small>5 Oct 2026, 10:26 UTC | #23282</small>]]></content>
+  </entry>
+  <entry>
+    <title>Aqua Node Releases VirtualDX7 v5.0 FM Synthesizer for Android, Windows, and macOS</title>
+    <link href="https://www.kvraudio.com/news/aqua-node-releases-virtualdx7-v5-0---free-dx7-for-android-windows-and-macos-vst3-and-au-68880?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68880" rel="alternate" />
+    <id>https://www.kvraudio.com/news/aqua-node-releases-virtualdx7-v5-0---free-dx7-for-android-windows-and-macos-vst3-and-au-68880?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68880::v239</id>
+    <published>2026-10-05T05:10:00+00:00</published>
+    <updated>2026-10-05T05:10:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/1000582512.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/aqua-node-releases-virtualdx7-v5-0---free-dx7-for-android-windows-and-macos-vst3-and-au-68880?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68880">kvraudio.com</a> | <a href="https://github.com/aquanodemusic/aquanode-plugins/releases">source</a></small></p><hr/><p>Aqua Node has released VirtualDX7 v5.0, a free and open-source 6-operator FM synthesizer for Windows, macOS, and Android. The software allows users to load original DX7 mkI firmware ROM files or use a custom JUCE-based native engine to emulate the classic hardware sound.</p><p>The update introduces visualizers for envelope parameters to aid patch creation and enables real-time parameter modulation for live sound adjustments. It also features an integrated effects section with chorus, phaser, delay, and reverb, as well as MTS-ESP microtuning support and SysEx preset compatibility.</p><p><img src="https://static.kvraudio.com/i/b/1000582512.png" /></p><hr/><small>5 Oct 2026, 10:25 UTC | #23280</small>]]></content>
+  </entry>
   <entry>
     <title>Thenatan Releases DJFX DJ Transition Effects Plugin</title>
     <link href="https://www.kvraudio.com/news/thenatan-releases-djfx---15-pad-dj-transition-effects-plugin-for-mac-and-win-68876?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68876" rel="alternate" />
