@@ -3,9 +3,26 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-05T11:21:00+00:00</updated>
+  <updated>2026-10-05T13:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Internet Watch Foundation Reports Surge in AI-Generated Child Sexual Abuse Material</title>
+    <link href="https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material" rel="alternate" />
+    <id>https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material::v239</id>
+    <published>2026-10-05T13:11:00+00:00</published>
+    <updated>2026-10-05T13:11:00+00:00</updated>
+    <media:thumbnail url="https://www.iwf.org.uk/media/0lmkosup/news-blog-image-nca-parents-guide-02-01.png?width=1154&amp;height=812&amp;format=webp&amp;quality=95&amp;v=1dd0ab849d8fb40" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material">theguardian.com</a> | <a href="https://www.iwf.org.uk/news-media/news/more-ai-generated-child-sexual-abuse-images-found-in-the-first-six-months-of-2026-than-all-of-2025-iwf-warns/">source</a></small></p><hr/><p>The Internet Watch Foundation (IWF) reports that the volume of AI-generated child sexual abuse material (CSAM) investigated in the first half of 2026 has already exceeded the total recorded for all of 2025. Analysts identified 6,310 illegal AI images, representing a 40% increase over the previous year's total.</p><p>The findings have prompted calls from the IWF and parliamentarians for binding legislation to require tech companies to implement "safety by design" in their AI models. Although UK law already criminalizes the creation and distribution of such imagery, the rise in highly realistic AI-generated content is driving pressure for new statutory regulations to address emerging threats.</p><p><img src="https://www.iwf.org.uk/media/0lmkosup/news-blog-image-nca-parents-guide-02-01.png?width=1154&height=812&format=webp&quality=95&v=1dd0ab849d8fb40" /></p><hr/><small>5 Oct 2026, 17:04 UTC | #23287</small>]]></content>
+  </entry>
+  <entry>
+    <title>Huawei and Qualcomm Sign Multi-Year Patent Licensing Deal</title>
+    <link href="https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/" rel="alternate" />
+    <id>https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/::v239</id>
+    <published>2026-10-05T13:10:00+00:00</published>
+    <updated>2026-10-05T13:10:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/">reuters.com</a> | <a href="https://www.qualcomm.com/news/releases/2026/10/huawei-and-qualcomm-announce-broad-patent-license-agreement">source</a></small></p><hr/><p>Huawei Technologies has entered into a multi-year, broad patent licensing agreement with Qualcomm covering artificial intelligence, 5G, computing, and networking technologies. The deal includes cross-licenses for both companies' patent portfolios and involves Qualcomm's purchase of certain Huawei U.S. patents in the compute, AI, and networking sectors.</p><p>This agreement marks Huawei's first 5G licensing deal with Qualcomm. The partnership aims to facilitate technological progress in mobile communications and related industries by providing mutual access to essential patent portfolios.</p><hr/><small>5 Oct 2026, 17:02 UTC | #23284</small>]]></content>
+  </entry>
   <entry>
     <title>Chinese Token Resellers Establish Gray Market for Anthropic's Claude</title>
     <link href="https://www.theinformation.com/articles/chinas-token-resellers-create-anthropic-gray-market" rel="alternate" />

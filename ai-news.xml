@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-05T13:06:00+00:00</updated>
+  <updated>2026-10-05T13:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Safeworld Raises $12M to Test Safety of Generative AI Robots</title>
+    <link href="https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/::v239</id>
+    <published>2026-10-05T13:13:00+00:00</published>
+    <updated>2026-10-05T13:13:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/">techcrunch.com</a> | <a href="https://www.safeworld.ai/">source</a></small></p><hr/><p>Safeworld has emerged from stealth with over $12 million in seed funding to develop simulation-based safety testing for robots powered by generative AI. The company uses high-fidelity digital environments to evaluate how robotic control systems respond to unpredictable human behaviors, such as tripping, falling, or navigating around blind corners.</p><p>Founded by Carnegie Mellon University professor Ding Zhao, Kyle Wong, and Simo Rachidi, the startup aims to provide third-party validation for robot manufacturers. By testing edge cases in virtual environments before physical deployment, Safeworld intends to help establish industry safety standards for robots operating in unstructured environments like factories and homes.</p><hr/><small>5 Oct 2026, 17:08 UTC | #23303</small>]]></content>
+  </entry>
   <entry>
     <title>CoreWeave Launches Physical AI Field Engineering to Address Data Gaps in Physical AI</title>
     <link href="https://read.getsuperintel.com/p/the-most-common-failure-isn-t-a-bad-model-coreweave-s-richard-ahlfeld-on-physical-ai" rel="alternate" />
