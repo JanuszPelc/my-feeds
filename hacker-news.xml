@@ -911,20 +911,4 @@
     <media:thumbnail url="https://api.devtutorial.io/uploads/2026-01-07/695e762029b59.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33">lobste.rs</a> | <a href="https://lists.debian.org/debian-security-announce/2026/msg00440.html">source</a> | <a href="https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33">discussion</a></small></p><hr/><p>Debian has upgraded the rsync package in its trixie-security repositories to version 3.5.0. Rather than backporting individual patches, developers opted for a major version bump to address 33 distinct CVEs, concluding that this approach presents a lower overall risk to the system.</p><p>The update introduces several security-focused behavioral changes, including stricter symlink resolution to prevent following untrusted paths and enhanced certificate verification for rsync-ssl. Other modifications include restricted command execution in rrsync and refined access control and parsing logic within rsyncd.</p><p><img src="https://api.devtutorial.io/uploads/2026-01-07/695e762029b59.png" /></p><hr/><small>1 Oct 2026, 08:49 UTC | #22935</small>]]></content>
   </entry>
-  <entry>
-    <title>Generative Testing and Oracles for Finding Regular Expression Bugs</title>
-    <link href="https://matklad.github.io/2026/09/19/finding-bugs.html" rel="alternate" />
-    <id>https://matklad.github.io/2026/09/19/finding-bugs.html::v239</id>
-    <published>2026-09-30T22:16:00+00:00</published>
-    <updated>2026-09-30T22:16:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://matklad.github.io/2026/09/19/finding-bugs.html">matklad.github.io</a> | <a href="https://lobste.rs/s/2r2sg8/finding_bugs">discussion</a> | <a href="https://news.ycombinator.com/item?id=49769450">hacker news</a></small></p><hr/><p>A custom fuzzer using the `regex_lite` crate as an oracle identified multiple bugs in an older version of the Rust `regex` crate. This method demonstrates how comparing outputs between different implementations can uncover errors in regular expression engines.</p><p>The technique involves generating randomized regex patterns and input strings by weighting features such as alternation, repetition, and wildcards. To maximize performance, the approach prioritizes small, complex examples over large inputs and utilizes memory reuse across iterations.</p><hr/><small>1 Oct 2026, 04:01 UTC | #22918</small>]]></content>
-  </entry>
-  <entry>
-    <title>Testing Rane SL 3 Linux Kernel Module Support via GNU Guix</title>
-    <link href="https://mit.teil.space/rane-sl3.html" rel="alternate" />
-    <id>https://mit.teil.space/rane-sl3.html::v239</id>
-    <published>2026-09-30T22:10:00+00:00</published>
-    <updated>2026-09-30T22:10:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://mit.teil.space/rane-sl3.html">mit.teil.space</a> | <a href="https://lobste.rs/s/qjnmeg/no_cost_audio_upgrade_for_my_workstation">discussion</a></small></p><hr/><p>Gabriel Wicki demonstrates a method for testing the `snd-rane-sl3` Linux kernel module using GNU Guix and QEMU. By creating a minimal operating system template and utilizing USB passthrough, the developer can run a virtual machine to verify driver functionality without reconfiguring a primary workstation.</p><p>The procedure confirms that the kernel recognizes the Rane SL 3 hardware and that ALSA utilities can correctly access the device for audio playback. This workflow facilitates rapid, iterative testing of kernel-level code before it is merged into official software repositories.</p><hr/><small>1 Oct 2026, 02:51 UTC | #22915</small>]]></content>
-  </entry>
 </feed>
