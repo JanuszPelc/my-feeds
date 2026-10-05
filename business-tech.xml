@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-05T14:49:00+00:00</updated>
+  <updated>2026-10-05T14:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Businesses Struggle to Forecast AI Spending Due to Unpredictable Token Usage</title>
+    <link href="https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a?st=1trc2u&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a?st=1trc2u&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-10-05T14:50:00+00:00</published>
+    <updated>2026-10-05T14:50:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a?st=1trc2u&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>A survey of approximately 400 businesses reveals that only 11% are capable of forecasting their AI spending. Furthermore, a study of over 6,800 tasks shows that lower-priced AI models actually cost more than higher-priced models in 32% of cases, driven by unpredictable token consumption.</p><p>Because AI pricing is tied to token usage—the number of data chunks a model processes—costs fluctuate based on the specific requirements of each task. This unpredictability makes it difficult for organizations to maintain budget certainty or optimize costs through simple price-per-token comparisons.</p><hr/><small>5 Oct 2026, 19:50 UTC | #23305</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Tightens macOS Full Disk Access Controls to Mitigate AI Agent Risks</title>
     <link href="https://stratechery.com/2026/apple-and-a-hackers-future/" rel="alternate" />
