@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-05T05:09:00+00:00</updated>
+  <updated>2026-10-05T08:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Danish Central Person Register Reports Data Breach Affecting 8.8 Million Citizens</title>
+    <link href="https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger" rel="alternate" />
+    <id>https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger::v239</id>
+    <published>2026-10-05T08:10:00+00:00</published>
+    <updated>2026-10-05T08:10:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger">cpr.dk</a> | <a href="https://news.ycombinator.com/item?id=49962012">hacker news</a></small></p><hr/><p>The Danish Central Person Register (CPR) has reported a security incident involving unauthorized access to the personal data of approximately 8.8 million citizens. The breach occurred through the misuse of legitimate system access held by a Danish company, exposing sensitive information such as names, addresses, and CPR numbers.</p><p>Individuals protected by name and address restrictions were not affected by the breach. The CPR administration has revoked the company's access and is working with specialists, law enforcement, and the Danish Data Protection Agency to investigate the incident.</p><hr/><small>5 Oct 2026, 11:25 UTC | #23293</small>]]></content>
+  </entry>
   <entry>
     <title>racoon2 IKE Daemon Receives IPv6 and NAT Traversal Enhancements</title>
     <link href="https://blog.netbsd.org/tnf/entry/gsoc2026_racoon2" rel="alternate" />

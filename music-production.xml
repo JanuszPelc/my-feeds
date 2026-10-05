@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-05T05:11:00+00:00</updated>
+  <updated>2026-10-05T05:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>ivoschi Updates MidiBro 2 to Version 2.1</title>
+    <link href="https://www.kvraudio.com/news/ivoschi-updates-midibro-2-to-v2-1---adds-rhythm-transform-linux-version-and-improved-midi-output-68866?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68866" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ivoschi-updates-midibro-2-to-v2-1---adds-rhythm-transform-linux-version-and-improved-midi-output-68866?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68866::v239</id>
+    <published>2026-10-05T05:16:00+00:00</published>
+    <updated>2026-10-05T05:16:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/midibro_standalone_v2-1.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ivoschi-updates-midibro-2-to-v2-1---adds-rhythm-transform-linux-version-and-improved-midi-output-68866?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68866">kvraudio.com</a> | <a href="https://midibro.de/">source</a></small></p><hr/><p>ivoschi has released version 2.1 of MidiBro 2, adding Linux support and a new Rhythm Transform tool to the MIDI file management plugin. This update introduces a .deb installer for Ubuntu 24.04 or newer, a tool for applying various rhythmic styles to drum files, and the ability to preview files through external MIDI output devices.</p><p>The release also includes improved groove controls for individual notes, a "Mirror" method for pitch variations, and automated multitrack splitting in the MIDIStack feature. Version 2.1 is a free update for existing owners, while new licenses are available for $45.</p><p><img src="https://static.kvraudio.com/i/b/midibro_standalone_v2-1.png" /></p><hr/><small>5 Oct 2026, 11:22 UTC | #23296</small>]]></content>
+  </entry>
   <entry>
     <title>2B Played Music Adds Full AAX Support to Entire Plugin Catalog</title>
     <link href="https://www.kvraudio.com/news/2b-played-music-announces-full-aax-support-across-entire-plugin-catalog-68874?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68874" rel="alternate" />
