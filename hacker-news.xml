@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-05T12:12:00+00:00</updated>
+  <updated>2026-10-05T13:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>GrapheneOS May Skip Pixel 11 Support Due to Missing MTE Hardware</title>
+    <link href="https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped" rel="alternate" />
+    <id>https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped::v239</id>
+    <published>2026-10-05T13:03:00+00:00</published>
+    <updated>2026-10-05T13:03:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped">discuss.grapheneos.org</a> | <a href="https://news.ycombinator.com/item?id=49964303">hacker news</a></small></p><hr/><p>GrapheneOS developers have indicated that the Pixel 11 series may be excluded from official support because it lacks Memory Tagging Extension (MTE) hardware support. This security feature is a requirement for the project's hardened memory allocator, and current assessments suggest MTE is missing from the device's hardware, firmware, and software layers.</p><p>The potential decision follows attempts by the team to develop a partial port of the operating system. While developers are currently testing newly discovered MTE support to determine its impact, a failure to meet established security standards may lead the project to shift its focus toward upcoming Motorola hardware.</p><hr/><small>5 Oct 2026, 15:43 UTC | #23325</small>]]></content>
+  </entry>
   <entry>
     <title>Factor Programming Language Overview</title>
     <link href="https://re.factorcode.org/2026/10/factor-overview.html" rel="alternate" />
@@ -925,23 +933,5 @@
     <published>2026-09-30T16:10:00+00:00</published>
     <updated>2026-09-30T16:10:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://comonad.com/reader/2026/turbo-haskell/">comonad.com</a> | <a href="https://lobste.rs/s/j7kltq/turbo_haskell">discussion</a> | <a href="https://news.ycombinator.com/item?id=49908742">hacker news</a></small></p><hr/><p>Turbo Haskell Compiler (THC) is a new implementation of Haskell that runs on the JVM using the Truffle and GraalVM frameworks. It consumes GHC Core as input, allowing it to leverage GHC's parsing, typechecking, and desugaring stages while providing JIT or AOT compilation via GraalVM's Native Image.</p><p>The compiler supports advanced language features such as Template Haskell and Linear Haskell, and provides polyglot FFI to integrate Python, Ruby, R, and JavaScript libraries. Technical optimizations include specialized tail-call handling via code transformations and SIMD support using the JDK Vector API.</p><hr/><small>30 Sep 2026, 19:04 UTC | #22876</small>]]></content>
-  </entry>
-  <entry>
-    <title>NASA Explores Return to Flight for SR-71A Blackbird</title>
-    <link href="https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart" rel="alternate" />
-    <id>https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart::v239</id>
-    <published>2026-09-30T15:59:00+00:00</published>
-    <updated>2026-09-30T15:59:00+00:00</updated>
-    <media:thumbnail url="https://aviationweek.com/sites/default/files/styles/crop_freeform/public/inline-images/BLACKBIRD-2_NASA.jpg?itok=6zNR3LyU" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart">aviationweek.com</a> | <a href="https://news.ycombinator.com/item?id=49890733">hacker news</a></small></p><hr/><p>Agency officials have reportedly approached retired test engineers and specialists with job offers to assist in reactivating the SR-71A Blackbird (Tail No. 844). The aircraft was recently moved from its outdoor display at the Armstrong Flight Research Center into a hangar, prompting speculation regarding a mission to return the plane to the air.</p><p>Reactivating the 59-year-old airframe presents significant logistical hurdles, including the need for specialized ground equipment and the restoration of a supply chain for unique materials like JP-7 fuel. While NASA Administrator Jared Isaacman has discussed rebuilding the agency's X-plane fleet, the agency has not officially confirmed the specific return-to-flight project.</p><p><img src="https://aviationweek.com/sites/default/files/styles/crop_freeform/public/inline-images/BLACKBIRD-2_NASA.jpg?itok=6zNR3LyU" /></p><hr/><small>30 Sep 2026, 17:52 UTC | #22874</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple to Launch Smart Home Hub and HomePod Mini Refresh in October</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home::v239</id>
-    <published>2026-09-30T15:56:00+00:00</published>
-    <updated>2026-09-30T15:56:00+00:00</updated>
-    <media:thumbnail url="https://zeerawireless.com/cdn/shop/articles/HomeHub_With_display_bc3bd1a0-98fd-4493-85d8-31b25db54f92.jpg?v=1771180301&amp;width=1200" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home">bloomberg.com</a></small></p><hr/><p>Apple is scheduled to expand its smart home lineup on October 13 with the launch of a 6-inch smart home hub and a refreshed HomePod mini. The new hub is expected to feature a design inspired by the iMac G4.</p><p>This expansion marks a strategic push into the smart home market, a sector where the company has had a long-delayed entry. The new hardware is intended to serve as a central control interface for the Apple Home ecosystem.</p><p><img src="https://zeerawireless.com/cdn/shop/articles/HomeHub_With_display_bc3bd1a0-98fd-4493-85d8-31b25db54f92.jpg?v=1771180301&width=1200" /></p><hr/><small>30 Sep 2026, 17:44 UTC | #22816</small>]]></content>
   </entry>
 </feed>
