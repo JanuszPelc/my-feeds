@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-06T02:41:00+00:00</updated>
+  <updated>2026-10-06T03:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Revesby Audio Updates Altered Matter Effects to v1.0.3</title>
+    <link href="https://www.kvraudio.com/news/revesby-audio-updates-free-altered-matter-effects-to-v1-0-3-68922?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68922" rel="alternate" />
+    <id>https://www.kvraudio.com/news/revesby-audio-updates-free-altered-matter-effects-to-v1-0-3-68922?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68922::v239</id>
+    <published>2026-10-06T03:43:00+00:00</published>
+    <updated>2026-10-06T03:43:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/altered-matter-1-0-3-hero-20261006-1000px.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/revesby-audio-updates-free-altered-matter-effects-to-v1-0-3-68922?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68922">kvraudio.com</a> | <a href="https://revesbyaudio.com/">source</a></small></p><hr/><p>The version 1.0.3 update for Revesby Audio's Altered Matter collection adds macOS support for the Resin, Lacquer, and Facet effects. This release provides AU and VST3 formats via universal binaries compatible with both Apple Silicon and Intel-based systems.</p><p>The update includes redesigned user interfaces, enhanced screen readouts, and specific functional refinements, such as expanded groove duration selections in Lacquer and improved bend controls in Facet. All plugins in the collection remain free of charge and do not require user registration.</p><p><img src="https://static.kvraudio.com/i/b/altered-matter-1-0-3-hero-20261006-1000px.jpg" /></p><hr/><small>6 Oct 2026, 08:56 UTC | #23390</small>]]></content>
+  </entry>
   <entry>
     <title>Carbonated Audio Releases FOAM Tempo-Synced Ducking Reverb for macOS</title>
     <link href="https://www.kvraudio.com/news/carbonated-audio-releases-foam---tempo-synced-ducking-reverb-for-macos-vst3-au-aax-68921?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68921" rel="alternate" />
@@ -627,14 +636,5 @@
     <updated>2026-10-01T09:03:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/riffer_4_ui_001.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/audiomodern-releases-riffer-4-68833?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68833">kvraudio.com</a> | <a href="https://audiomodern.com/shop/plugins/riffer-4/">source</a></small></p><hr/><p>Riffer 4 is an upgraded MIDI sequencer from Audiomodern that features five specialized generation engines. These engines are designed to produce melodies, hooks, basslines, arpeggios, and sequences with varying musical characters.</p><p>The plugin allows users to select any key or scale and provides controls for note range, density, timing, and feel. It also supports direct note editing and MIDI export for use in external music production environments.</p><p><img src="https://static.kvraudio.com/i/b/riffer_4_ui_001.png" /></p><hr/><small>1 Oct 2026, 13:14 UTC | #22930</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jun Murakami Releases Synth81Z FM Synthesizer</title>
-    <link href="https://www.kvraudio.com/news/jun-murakami-releases-synth81z---four-operator-fm-synthesizer-inspired-by-yamaha-tx81z-68806?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68806" rel="alternate" />
-    <id>https://www.kvraudio.com/news/jun-murakami-releases-synth81z---four-operator-fm-synthesizer-inspired-by-yamaha-tx81z-68806?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68806::v239</id>
-    <published>2026-10-01T08:50:00+00:00</published>
-    <updated>2026-10-01T08:50:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/synth81z_ui.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/jun-murakami-releases-synth81z---four-operator-fm-synthesizer-inspired-by-yamaha-tx81z-68806?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68806">kvraudio.com</a> | <a href="https://jun-murakami.web.app/synth81z">source</a></small></p><hr/><p>Jun Murakami has released Synth81Z, a four-operator FM software synthesizer modeled after the Yamaha TX81Z. The plugin emulates the YM2414 (OPZ) chip's phase resolution, waveform characteristics, and the analog output stage of the original hardware.</p><p>The software supports up to 32-voice polyphony, an eight-part performance mode for multitimbral setups, and a 12-effect rack. It includes MIDI SysEx support for voice and preset management, over 360 factory presets, and a WebAssembly version for use in web browsers.</p><p><img src="https://static.kvraudio.com/i/b/synth81z_ui.jpg" /></p><hr/><small>1 Oct 2026, 12:06 UTC | #22929</small>]]></content>
   </entry>
 </feed>

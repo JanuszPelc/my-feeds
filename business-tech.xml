@@ -801,22 +801,4 @@
     <updated>2026-10-01T09:01:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/817f40f7-d4ac-43ee-beaf-12cfac08c621?accessToken=zwAAAaGOJ_IMkdOBf0D31KxD7tO-rxLPrAjGIQE.MEQCIHyyO0qR6b9ACpprarTcyyAwsspsOC940rQTXh3hfUXTAiBi4Fg1jdx-8OWRatJYjNuo5LCySJ6FOMiF6VOyQ_gw8g&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902">ft.com</a></small></p><hr/><p>Data from European Union transparency registers indicates that Google, Apple, and Amazon each maintain more meetings with Commission and Parliament officials than any single European company. These US-based corporations utilize their access to advocate against proposed digital regulations.</p><p>The findings reveal significant lobbying disparities between American tech giants and local European competitors. This pattern reflects ongoing efforts by major platforms to influence the evolution of EU digital policy.</p><hr/><small>1 Oct 2026, 12:47 UTC | #22924</small>]]></content>
   </entry>
-  <entry>
-    <title>YOLO Model Created to Detect Performative LinkedIn Posts</title>
-    <link href="https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/" rel="alternate" />
-    <id>https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/::v239</id>
-    <published>2026-10-01T08:56:00+00:00</published>
-    <updated>2026-10-01T08:56:00+00:00</updated>
-    <media:thumbnail url="https://hereticpleb.vercel.app/_astro/pointing_finger_thingy.Nb9aSVlx_ei9E3.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/">hereticpleb.vercel.app</a> | <a href="https://news.ycombinator.com/item?id=49904314">hacker news</a></small></p><hr/><p>The article critiques the culture of performative productivity on LinkedIn, specifically the prevalence of low-effort computer vision projects intended to simulate technical expertise. To demonstrate the ease of producing such content, the author develops a YOLOv8-based object detection model trained to identify these repetitive and non-substantive posts.</p><p>The technical implementation involved a rapid workflow of custom data scraping, annotation via Roboflow, and training a YOLOv8n model in approximately 90 minutes. The project serves as a critique of a platform environment that rewards the appearance of skill and professional "vision" rather than genuine technical proficiency or continuous improvement.</p><p><img src="https://hereticpleb.vercel.app/_astro/pointing_finger_thingy.Nb9aSVlx_ei9E3.webp" /></p><hr/><small>1 Oct 2026, 12:31 UTC | #22958</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tencent to Lease 100,000 AI Chips from Oracle in $7 Billion Deal</title>
-    <link href="https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9" rel="alternate" />
-    <id>https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9::v239</id>
-    <published>2026-10-01T08:49:00+00:00</published>
-    <updated>2026-10-01T08:49:00+00:00</updated>
-    <media:thumbnail url="https://infinityturbine.com/images/data-center-chip-life-vs-lease-life-by-infinity-turbine.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9">ft.com</a></small></p><hr/><p>Tencent has signed a five-year, approximately $7 billion deal to lease 100,000 advanced AI chips from Oracle. The agreement provides access to high-end computing power through data centers in Southeast Asia, helping the company secure hardware that is currently unavailable in China.</p><p>The massive infrastructure lease is intended to bolster Tencent's artificial intelligence capabilities as it competes with rivals ByteDance and Alibaba. The deal highlights the strategic efforts by major Chinese technology firms to secure critical processing power amidst intensifying US export restrictions on advanced semiconductors.</p><p><img src="https://infinityturbine.com/images/data-center-chip-life-vs-lease-life-by-infinity-turbine.png" /></p><hr/><small>1 Oct 2026, 12:04 UTC | #22919</small>]]></content>
-  </entry>
 </feed>
