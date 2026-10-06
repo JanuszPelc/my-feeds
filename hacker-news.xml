@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-06T18:32:00+00:00</updated>
+  <updated>2026-10-06T20:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>IT Contractor Stole Over 30 MacBooks</title>
+    <link href="https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/" rel="alternate" />
+    <id>https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/::v239</id>
+    <published>2026-10-06T20:17:00+00:00</published>
+    <updated>2026-10-06T20:17:00+00:00</updated>
+    <media:thumbnail url="https://blog.pipetogrep.org/images/laptop_thief1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/">blog.pipetogrep.org</a> | <a href="https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief">discussion</a></small></p><hr/><p>An IT contractor stole more than 30 MacBooks over a year-long scheme to resell the devices. The theft was identified through inventory discrepancies, suspicious Apple repair requests, and unauthorized MDM enrollment notifications originating from Russia, China, and Kazakhstan.</p><p>The contractor used spoofed shipping labels and personal Apple accounts to hide the theft and replace stolen devices with personal property. The scheme also involved a separate theft from a Department of Defense contractor, which ultimately led to an FBI investigation and the contractor's termination.</p><p><img src="https://blog.pipetogrep.org/images/laptop_thief1.png" /></p><hr/><small>6 Oct 2026, 23:22 UTC | #23492</small>]]></content>
+  </entry>
+  <entry>
+    <title>Gentoo Maintainer Declares Last Rites for Chromium Package</title>
+    <link href="https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/" rel="alternate" />
+    <id>https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/::v239</id>
+    <published>2026-10-06T18:37:00+00:00</published>
+    <updated>2026-10-06T18:37:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/">lwn.net</a> | <a href="https://bugs.gentoo.org/show_bug.cgi?id=982204">source</a> | <a href="https://lobste.rs/s/fpcicg/last_rites_for_gentoo_s_chromium_package">discussion</a></small></p><hr/><p>Gentoo maintainer Sam James has announced the intent to stop maintaining the Chromium package, a process in Gentoo known as "last rites." The decision stems from the extreme difficulty of managing the package, which is complicated by Chromium's complex build system, its rapid release cycle, and the increasing complexity of its dependencies, including Rust and Go.</p><p>The package will be masked in Gentoo's ebuild repository to prevent users from accidentally installing unmaintained versions. While community members have attempted to provide updated ebuilds via third-party overlays, maintainers noted that the heavy labor required to test various `USE` flags and resolve upstream build failures makes sustainable volunteer maintenance unfeasible.</p><hr/><small>6 Oct 2026, 23:20 UTC | #23496</small>]]></content>
+  </entry>
   <entry>
     <title>The Longevity and Utility of Plain Text in Computing</title>
     <link href="https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/" rel="alternate" />
@@ -890,23 +907,5 @@
     <published>2026-10-02T02:18:00+00:00</published>
     <updated>2026-10-02T02:18:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.waterfox.com/releases/6.7.5/">waterfox.com</a> | <a href="https://lobste.rs/s/gmjegm/waterfox_6_7_5_adds_built_feed_reader">discussion</a></small></p><hr/><p>Waterfox has released version 6.7.5, introducing a native feed manager and a built-in RSS reader. The update enables users to organize subscriptions, preview feeds without viewing raw XML, and read article content directly in the browser through a built-in Reader View.</p><p>The release moves OPML import and export options to the settings menu and provides new controls for feed discovery and automatic image loading. It also includes security patches addressing Mozilla Foundation Security Advisory 2026-100 and improves the reliability of feed discovery and refreshing.</p><hr/><small>2 Oct 2026, 09:15 UTC | #23049</small>]]></content>
-  </entry>
-  <entry>
-    <title>SvelteKit 3 Released</title>
-    <link href="https://svelte.dev/blog/sveltekit-3-is-here" rel="alternate" />
-    <id>https://svelte.dev/blog/sveltekit-3-is-here::v239</id>
-    <published>2026-10-01T23:20:00+00:00</published>
-    <updated>2026-10-01T23:20:00+00:00</updated>
-    <media:thumbnail url="https://media.ninelives.dev/images/blog-images/blog-why-sveltekit-is-our-framework.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://svelte.dev/blog/sveltekit-3-is-here">svelte.dev</a> | <a href="https://news.ycombinator.com/item?id=49926536">hacker news</a></small></p><hr/><p>Version 3.0 of the Svelte application framework has launched, featuring improved type safety and configuration via `vite.config.ts`. Updates include the `#lib` alias for subpath imports, alongside improvements to environment variables, service workers, and error handling.</p><p>The `sv migrate` command can be used to automate most codebase transitions. Development continues on "Remote functions" for client-server communication, which currently require an experimental flag.</p><p><img src="https://media.ninelives.dev/images/blog-images/blog-why-sveltekit-is-our-framework.png" /></p><hr/><small>2 Oct 2026, 07:29 UTC | #23046</small>]]></content>
-  </entry>
-  <entry>
-    <title>Debian Releases Linux Kernel Security Update DSA-6528-1</title>
-    <link href="https://lwn.net/Articles/1097401/" rel="alternate" />
-    <id>https://lwn.net/Articles/1097401/::v239</id>
-    <published>2026-10-01T23:18:00+00:00</published>
-    <updated>2026-10-01T23:18:00+00:00</updated>
-    <media:thumbnail url="https://blogs.npav.net/media/magefan_blog/Group_1000007514.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lwn.net/Articles/1097401/">lwn.net</a> | <a href="https://security-tracker.debian.org/tracker/DSA-6528-1">source</a> | <a href="https://news.ycombinator.com/item?id=49928121">hacker news</a></small></p><hr/><p>Debian has issued security advisory DSA-6528-1 to address numerous vulnerabilities in the Linux kernel. These flaws could potentially lead to privilege escalation, denial of service, or information leaks.</p><p>The updates are available for the Debian stable (trixie) distribution, where the issues have been fixed in version 6.12.111-1. Users are encouraged to upgrade their linux packages to mitigate the security risks associated with the listed CVEs.</p><p><img src="https://blogs.npav.net/media/magefan_blog/Group_1000007514.png" /></p><hr/><small>2 Oct 2026, 06:45 UTC | #23045</small>]]></content>
   </entry>
 </feed>
