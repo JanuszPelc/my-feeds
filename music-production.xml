@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-06T15:51:00+00:00</updated>
+  <updated>2026-10-06T18:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>sonicLAB Releases SPATAI v3 with MCP Support</title>
+    <link href="https://www.kvraudio.com/news/soniclab-releases-spatai-v3-68928?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68928" rel="alternate" />
+    <id>https://www.kvraudio.com/news/soniclab-releases-spatai-v3-68928?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68928::v239</id>
+    <published>2026-10-06T18:31:00+00:00</published>
+    <updated>2026-10-06T18:31:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/spatv3jpeg.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/soniclab-releases-spatai-v3-68928?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68928">kvraudio.com</a> | <a href="https://www.sonic-lab.com/spatai">source</a></small></p><hr/><p>sonicLAB has released SPATAI v3, a utility software that leverages Large Language Models (LLMs) to automate the movement of sound objects within virtual 3D acoustic environments. The software translates text prompts into real-time movement data in Cartesian or polar coordinates, which is then transmitted to compatible 3D audio spatialization software.</p><p>The v3 update introduces Model Context Protocol (MCP) support, enabling direct operation via Claude Desktop or ChatGPT through a dedicated MCP server. This allows users to refine spatial motion via persistent chat history without requiring additional cloud LLM tokens. Compatible destinations include Amadeus Acoustics, IRCAM Spat, L-acoustics, and YamahaAFC.</p><p><img src="https://static.kvraudio.com/i/b/spatv3jpeg.jpg" /></p><hr/><small>6 Oct 2026, 21:52 UTC | #23464</small>]]></content>
+  </entry>
   <entry>
     <title>Granvia Releases FantaDrop Loop Sequencer Plugin</title>
     <link href="https://www.kvraudio.com/news/granvia-releases-fantadrop---drop-building-loop-sequencer-plugin-with-built-in-bass-synth-68875?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68875" rel="alternate" />
