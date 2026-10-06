@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-05T19:35:00+00:00</updated>
+  <updated>2026-10-06T15:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Blackbird Interactive and Secret Mode Case Study: Scaling Escape the Backrooms</title>
+    <link href="https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave" rel="alternate" />
+    <id>https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave::v239</id>
+    <published>2026-10-06T15:07:00+00:00</published>
+    <updated>2026-10-06T15:07:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt6b0e02a1ca615f6b/6ac50cb9db91d718576c4723/backroomscodevfeatured.jpg?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave">gamedeveloper.com</a></small></p><hr/><p>The partnership with solo developer Fancy aimed to transition Escape the Backrooms from early access to a multi-platform release. The co-development focused on scaling production through the implementation of automated build pipelines, refactoring networking layers for console-compatible matchmaking, and preparing builds for PlayStation, Xbox, and Switch 2.</p><p>Transitioning the project required converting an undocumented solo codebase into a professional production environment with standardized architecture and formal documentation. Following the 1.0 Steam release, the game's peak concurrent players increased from 16,500 to over 48,000, supported by the addition of new features like a cross-platform cosmetic system.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt6b0e02a1ca615f6b/6ac50cb9db91d718576c4723/backroomscodevfeatured.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>6 Oct 2026, 20:29 UTC | #23448</small>]]></content>
+  </entry>
   <entry>
     <title>Chernin Entertainment to Adapt The Finals and ARC Raiders for TV and Film</title>
     <link href="https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer" rel="alternate" />

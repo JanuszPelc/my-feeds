@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-06T14:45:00+00:00</updated>
+  <updated>2026-10-06T15:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>AnalogFX Releases LARYNX Analogue Synthesizer</title>
+    <link href="https://musictech.com/news/gear/the-larynx-a-new-feature-packed-hard-synth-from-analogfx-is-available-now/" rel="alternate" />
+    <id>https://musictech.com/news/gear/the-larynx-a-new-feature-packed-hard-synth-from-analogfx-is-available-now/::v239</id>
+    <published>2026-10-06T15:22:00+00:00</published>
+    <updated>2026-10-06T15:22:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/LARYNX-2@2000X1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/the-larynx-a-new-feature-packed-hard-synth-from-analogfx-is-available-now/">musictech.com</a> | <a href="https://www.analogfx.com/products/larynx/">source</a></small></p><hr/><p>AnalogFX has launched the LARYNX, a 37-key performance-focused analogue synthesizer inspired by the Synton Syrinx. The instrument features an aftertouch keyboard, extensive real-time modulation, and a unique triple-filter formant architecture designed to produce speech-like timbres.</p><p>Built on the SER-2020 architecture, the LARYNX utilizes two CEM3340-based VCOs, a sub-oscillator, and a noise generator. It also includes a 16-step sequencer, an arpeggiator, and a five-voice oscillator chord mode, with an initial production run limited to 50 units.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/LARYNX-2@2000X1500.jpg" /></p><hr/><small>6 Oct 2026, 20:31 UTC | #23450</small>]]></content>
+  </entry>
   <entry>
     <title>Temecula DSP Releases Nibbi Free Sampler Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/10/06/temecula-dsp-nibbi/" rel="alternate" />

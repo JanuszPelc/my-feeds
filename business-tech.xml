@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-06T14:12:00+00:00</updated>
+  <updated>2026-10-06T14:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Asos Shares Fall Following Customer Hack Notifications</title>
+    <link href="https://www.ft.com/content/eab7052d-6640-4928-a128-8df73455ba0a" rel="alternate" />
+    <id>https://www.ft.com/content/eab7052d-6640-4928-a128-8df73455ba0a::v239</id>
+    <published>2026-10-06T14:46:00+00:00</published>
+    <updated>2026-10-06T14:46:00+00:00</updated>
+    <media:thumbnail url="https://latestnewsandupdates.com/wp-content/uploads/2026/10/ASOS-HACKED-notifies-users-and-threatens-to-publish-data-what-768x422.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/eab7052d-6640-4928-a128-8df73455ba0a">ft.com</a></small></p><hr/><p>Shares of UK retailer Asos dropped more than 10% after customers received mobile app notifications claiming the company's Snowflake instance has been fully compromised. The notifications, which threatened to leak data unless the company engaged with the hackers, have prompted an investigation by Asos.</p><p>The messages were delivered via direct push notifications to app users, alleging a breach of the company's cloud-based data infrastructure. The incident has caused immediate market volatility for the FTSE 250 retailer.</p><p><img src="https://latestnewsandupdates.com/wp-content/uploads/2026/10/ASOS-HACKED-notifies-users-and-threatens-to-publish-data-what-768x422.jpg" /></p><hr/><small>6 Oct 2026, 20:23 UTC | #23429</small>]]></content>
+  </entry>
   <entry>
     <title>Companies Switch to Open-Weight AI Models to Manage Rising Costs</title>
     <link href="https://aiweekly.co/issues/ai-got-too-expensive-so-companies-are-moving-to-cheaper" rel="alternate" />
