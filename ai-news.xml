@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-05T21:25:00+00:00</updated>
+  <updated>2026-10-05T22:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Reflection AI Releases Beam Open-Weight AI Model</title>
+    <link href="https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs" rel="alternate" />
+    <id>https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs::v239</id>
+    <published>2026-10-05T22:56:00+00:00</published>
+    <updated>2026-10-05T22:56:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQbl_TgWwSQ6E2PjxHwIkaxd2tobkNnEuTaEmMzBh6s3u9AKiw04-4uLklfk4ffiqdjyCHDVjk9hxxX7PX1DuhSfdh9ctqJ39QnmlqQgTzXFoZrf9PKTAQ785Cmxo-Ek9SEnyo6HFROG4XhGmsjOYWma_SDhVFejU51e0pFyvQeqe1E8yFrL3ZgeGJHcjC/w641-h351-rw/Open+Model+vs+Open+Weight+vs+Open+Source.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.semafor.com/article/10/05/2026/reflection-ai-unveils-an-open-source-answer-to-chinese-labs">semafor.com</a> | <a href="https://reflection.ai/blog/introducing-beam">source</a> | <a href="https://news.ycombinator.com/item?id=49969183">hacker news</a></small></p><hr/><p>Beam is an open-weight model designed for coding, reasoning, and agentic workloads. The model is intended to rival the performance of Chinese models such as Alibaba's Qwen 3.8-Max and Z.ai's GLM-5.2, while requiring three to four times less computing power for reasoning tasks than comparable open models.</p><p>The launch seeks to provide a Western alternative for organizations requiring sovereign AI that avoids reliance on Chinese technology. This comes amid concerns from US and UK evaluators that certain Chinese models could potentially assist in uncovering software vulnerabilities.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQbl_TgWwSQ6E2PjxHwIkaxd2tobkNnEuTaEmMzBh6s3u9AKiw04-4uLklfk4ffiqdjyCHDVjk9hxxX7PX1DuhSfdh9ctqJ39QnmlqQgTzXFoZrf9PKTAQ785Cmxo-Ek9SEnyo6HFROG4XhGmsjOYWma_SDhVFejU51e0pFyvQeqe1E8yFrL3ZgeGJHcjC/w641-h351-rw/Open+Model+vs+Open+Weight+vs+Open+Source.png" /></p><hr/><small>6 Oct 2026, 02:30 UTC | #23361</small>]]></content>
+  </entry>
   <entry>
     <title>Reflection AI Unveils Beam Open-Weight AI Model</title>
     <link href="https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/" rel="alternate" />
