@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-05T23:05:00+00:00</updated>
+  <updated>2026-10-05T23:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Example.com Implements Multi-Language Support in Recent Redesign</title>
+    <link href="https://www.debugbear.com/blog/example-dot-com-redesign-history" rel="alternate" />
+    <id>https://www.debugbear.com/blog/example-dot-com-redesign-history::v239</id>
+    <published>2026-10-05T23:10:00+00:00</published>
+    <updated>2026-10-05T23:10:00+00:00</updated>
+    <media:thumbnail url="https://www.debugbear.com/dimg/3fcf95b7dbb16b31bb844bc5db74cb5e.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.debugbear.com/blog/example-dot-com-redesign-history">debugbear.com</a> | <a href="https://news.ycombinator.com/item?id=49971921">hacker news</a></small></p><hr/><p>Example.com recently implemented a redesign featuring JavaScript-driven multi-language support. The site cycles through several languages using a character-by-character opacity transition to reduce bandwidth demands by serving non-essential content through a separate, non-fetched JavaScript file.</p><p>This update marks a significant milestone in the domain's 20-year history, which includes transitions from static HTML and table layouts to modern CDN-fronted infrastructure via Cloudflare. The timeline encompasses shifts in server headers, messaging changes, and infrastructure migrations from Apache to EdgeCast and Cloudflare.</p><p><img src="https://www.debugbear.com/dimg/3fcf95b7dbb16b31bb844bc5db74cb5e.png" /></p><hr/><small>6 Oct 2026, 05:47 UTC | #23387</small>]]></content>
+  </entry>
   <entry>
     <title>Flatten SF Tool Calculates Optimized Routes in San Francisco</title>
     <link href="https://flattensf.com/" rel="alternate" />
