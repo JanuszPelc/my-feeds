@@ -3,9 +3,17 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-06T13:50:00+00:00</updated>
+  <updated>2026-10-06T14:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>KERN Audio Adds AAX Support to All Six Plugins</title>
+    <link href="https://www.kvraudio.com/news/kern-audio-adds-aax-to-all-six-plugins-pro-tools-macos-and-windows-68715?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68715" rel="alternate" />
+    <id>https://www.kvraudio.com/news/kern-audio-adds-aax-to-all-six-plugins-pro-tools-macos-and-windows-68715?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68715::v239</id>
+    <published>2026-10-06T14:08:00+00:00</published>
+    <updated>2026-10-06T14:08:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/kern-audio-adds-aax-to-all-six-plugins-pro-tools-macos-and-windows-68715?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68715">kvraudio.com</a> | <a href="https://kernaudio.io/changelog">source</a></small></p><hr/><p>KERN Audio has updated its entire six-plugin lineup to include AAX support for Pro Tools on macOS and Windows. The updates for Smooth, Warm, Wide, Push, Open, and Check allow users to run the software in AAX alongside existing VST3, AU, and standalone formats.</p><p>The release also introduces usability improvements, including fine-grained knob control using the Shift key and mouse wheel, improved Depth readouts in Smooth, and clearer frequency labels. Existing users can download the updates for free, while the five paid plugins are priced at $29 each or available in a bundle.</p><hr/><small>6 Oct 2026, 19:22 UTC | #23440</small>]]></content>
+  </entry>
   <entry>
     <title>Marula Music Releases Spek Saturation Plugin</title>
     <link href="https://www.kvraudio.com/news/marula-music-releases-spek---saturation-and-perceived-loudness-enhancement-68927?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68927" rel="alternate" />

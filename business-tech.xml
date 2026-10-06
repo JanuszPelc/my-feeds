@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-06T13:52:00+00:00</updated>
+  <updated>2026-10-06T13:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>China Struggles to Recruit Foreign AI Researchers</title>
+    <link href="https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html::v239</id>
+    <published>2026-10-06T13:57:00+00:00</published>
+    <updated>2026-10-06T13:57:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html">nytimes.com</a> | <a href="https://carnegieendowment.org/features/whos-ahead-in-the-global-ai-talent-race">source</a> | <a href="https://news.ycombinator.com/item?id=49932666">hacker news</a></small></p><hr/><p>China is facing difficulties attracting international AI talent despite the rapid expansion of its domestic semiconductor and artificial intelligence sectors. A study by Carnegie China indicates that while the country has become a leading global hub—hosting approximately 41% of the world's elite AI researchers in 2025—it struggles with bidirectional talent movement. Data shows that for every 30 Chinese AI researchers currently residing in the United States, only one foreign researcher has made the opposite journey to China.</p><p>Based on research from NeurIPS 2025 authors, the study highlights a significant shift in the global AI landscape, with China's share of elite researchers surpassing that of the United States. While China's domestic ecosystem has become increasingly successful at retaining its own researchers, it has not yet matched the United States' ability to attract a diverse, international scientific workforce.</p><hr/><small>6 Oct 2026, 19:09 UTC | #23427</small>]]></content>
+  </entry>
   <entry>
     <title>Google Secures 3.6 GW Power Agreement with Constellation Energy</title>
     <link href="https://www.reuters.com/business/energy/google-enters-massive-36-gw-power-deal-with-constellation-energy-2026-10-06/" rel="alternate" />

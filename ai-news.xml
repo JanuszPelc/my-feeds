@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-06T13:16:00+00:00</updated>
+  <updated>2026-10-06T14:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Pinterest Introduces AI-Powered "Beauty Guides" to Convert Inspiration Pins into Salon Action Plans</title>
+    <link href="https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/::v239</id>
+    <published>2026-10-06T14:02:00+00:00</published>
+    <updated>2026-10-06T14:02:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?w=1024" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/">techcrunch.com</a></small></p><hr/><p>Pinterest has launched "Beauty Guides," an AI-powered feature that converts beauty-related Pins into practical instructions for salon appointments. Using "Pinterest Intelligence" technology, the tool translates visual inspiration—such as specific hairstyles or nail shapes—into professional terminology like "balayage" or "almond nails" to facilitate communication with stylists.</p><p>The guides provide users with estimated service durations, projected cost ranges, and long-term maintenance requirements for their selected looks. The initial rollout covers Pins related to hair color, hairstyles, nail shape, and nail finishes.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?w=1024" /></p><hr/><small>6 Oct 2026, 19:19 UTC | #23438</small>]]></content>
+  </entry>
   <entry>
     <title>Mistral AI Launches Mistral Large 4 Public Preview</title>
     <link href="https://docs.mistral.ai/models/mistral-large-4-0" rel="alternate" />
