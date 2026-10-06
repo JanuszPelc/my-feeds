@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
   <entry>
+    <title>Reflection AI Unveils Beam Open-Weight AI Model</title>
+    <link href="https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/::v239</id>
+    <published>2026-10-05T21:04:00+00:00</published>
+    <updated>2026-10-05T21:04:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQFU7dzJR_Z2lQ/article-cover_image-shrink_720_1280/B56ZzXJLiCIcAI-/0/1773136044009?e=2147483647&amp;v=beta&amp;t=ifFhajFwGXUdnmc793pBsMHD_ioDZ0UBV2bB4dErJNU" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/">techcrunch.com</a> | <a href="https://reflection.ai/blog/introducing-beam">source</a> | <a href="https://news.ycombinator.com/item?id=49969183">hacker news</a></small></p><hr/><p>Reflection AI has unveiled Beam, an open-weight, text-only mixture-of-experts model designed for reasoning, coding, and agentic tasks. The 501-billion-parameter model features 23 billion active parameters and a 1-million-token context window. Reflection claims Beam matches the performance of leading Chinese open models, such as Z.ai’s GLM-5.2, on reasoning benchmarks while utilizing 3-4x less inference compute.</p><p>The startup, founded by former Google DeepMind researchers, has raised approximately $4.7 billion to compete with closed labs and large open-model providers. Reflection aims to serve enterprises and sovereign nations through its "AI factory" concept, which allows institutions to train models on proprietary data. The company plans to release Beam's weights and full technical documentation later this month.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQFU7dzJR_Z2lQ/article-cover_image-shrink_720_1280/B56ZzXJLiCIcAI-/0/1773136044009?e=2147483647&v=beta&t=ifFhajFwGXUdnmc793pBsMHD_ioDZ0UBV2bB4dErJNU" /></p><hr/><small>6 Oct 2026, 00:40 UTC | #23363</small>]]></content>
+  </entry>
+  <entry>
     <title>Instinct AI Agent Expands to Group Chats Supporting Non-Users</title>
     <link href="https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/" rel="alternate" />
     <id>https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/::v239</id>
@@ -322,14 +331,5 @@
     <updated>2026-10-01T09:02:00+00:00</updated>
     <media:thumbnail url="https://www.intelligentliving.co/wp-content/uploads/2026/02/The-Evolution-of-Claude-Opus-4-6-and-Global-AI-Ethics.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://claude.com/blog/claude-for-government-is-now-generally-available">claude.com</a></small></p><hr/><p>Anthropic has launched general availability for Claude for Government, providing federal and state agencies with Claude's coding and agentic capabilities. The platform operates within a FedRAMP High authorized environment to ensure compliance with public sector security and regulatory requirements.</p><p>Administrative controls include department-level spending caps, single sign-on integration, and audit logs to support the agency ATO process. Early access to Claude Code CLI and Claude for Microsoft 365 is also being rolled out through this environment.</p><p><img src="https://www.intelligentliving.co/wp-content/uploads/2026/02/The-Evolution-of-Claude-Opus-4-6-and-Global-AI-Ethics.jpg" /></p><hr/><small>1 Oct 2026, 13:12 UTC | #22923</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google DeepMind's Gemini 4 Argon Matches GPT-6 Astra on Intelligence Index</title>
-    <link href="https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs" rel="alternate" />
-    <id>https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs::v239</id>
-    <published>2026-10-01T00:36:00+00:00</published>
-    <updated>2026-10-01T00:36:00+00:00</updated>
-    <media:thumbnail url="https://cdn.sanity.io/images/6vfeftx9/articles/22ec7dcfcd650f94c75488df4e18620b96d59425-2440x2160.png?w=1200&amp;auto=format" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs">artificialanalysis.ai</a> | <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/">source</a> | <a href="https://news.ycombinator.com/item?id=49913571">hacker news</a></small></p><hr/><p>Google DeepMind's Gemini 4 Argon has matched GPT-6 Astra's score of 53 on the Artificial Analysis Intelligence Index. The model features enhanced reasoning and agentic capabilities, a 1M token context window, and a 15% hallucination rate, the lowest among leading models in its performance tier.</p><p>The model is currently in a limited rollout to selected users and is not yet available to the general public. Pricing includes an initial 50% promotional discount, with standard rates set at $4 per 1M input tokens and $20 per 1M output tokens.</p><p><img src="https://cdn.sanity.io/images/6vfeftx9/articles/22ec7dcfcd650f94c75488df4e18620b96d59425-2440x2160.png?w=1200&auto=format" /></p><hr/><small>1 Oct 2026, 07:43 UTC | #22909</small>]]></content>
   </entry>
 </feed>
