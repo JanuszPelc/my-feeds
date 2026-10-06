@@ -3,9 +3,26 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-06T16:37:00+00:00</updated>
+  <updated>2026-10-06T20:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Hark Releases Hark Pro AI Personal Assistant</title>
+    <link href="https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/::v239</id>
+    <published>2026-10-06T20:22:00+00:00</published>
+    <updated>2026-10-06T20:22:00+00:00</updated>
+    <media:thumbnail url="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/22aeb7240195461.694dee8b829bc.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/">techcrunch.com</a> | <a href="https://hark.com/">source</a></small></p><hr/><p>Hark has launched Hark Pro, an AI assistant designed to perform digital tasks through direct computer use. The interface includes a chat dialog and "panels" that proactively suggest actions like managing expenses or booking travel. The company intends for the software to function as an operating system for AI-driven computing.</p><p>To build trust, the platform visually displays the agent's web navigation during task execution. Hark is positioning its service as a privacy-focused alternative to established AI developers, aiming to prioritize task utility over data profiling. The company also plans to release an AI-native hardware device in 2027.</p><p><img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/22aeb7240195461.694dee8b829bc.png" /></p><hr/><small>6 Oct 2026, 23:43 UTC | #23467</small>]]></content>
+  </entry>
+  <entry>
+    <title>Google DeepMind Releases EmbeddingGemma 2 Multimodal Embedding Model</title>
+    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/" rel="alternate" />
+    <id>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/::v239</id>
+    <published>2026-10-06T20:19:00+00:00</published>
+    <updated>2026-10-06T20:19:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/">blog.google</a> | <a href="https://news.ycombinator.com/item?id=49980487">hacker news</a></small></p><hr/><p>Google DeepMind has released EmbeddingGemma 2, a 740-million-parameter multimodal embedding model designed for on-device inference. Built on the Gemma 4 architecture and released under an Apache 2.0 license, the model unifies text, code, images, video, and audio into a single shared embedding space. It features an 8K token context window and utilizes Matryoshka Representation Learning (MRL) to allow for dynamic vector truncation, reducing storage and memory requirements for local databases.</p><p>Optimized for resource-constrained edge hardware, the full multimodal model requires approximately 567MB of active RAM on high-end mobile devices. This capability enables developers to implement privacy-first, offline retrieval-augmented generation (RAG) and semantic search directly on consumer hardware. The model weights are available on Hugging Face and Kaggle for use with various deployment frameworks, including LiteRT and MediaPipe.</p><hr/><small>6 Oct 2026, 23:38 UTC | #23457</small>]]></content>
+  </entry>
   <entry>
     <title>Mirror Particle Develops Foundation Model to Predict Human Behavior</title>
     <link href="https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/" rel="alternate" />
