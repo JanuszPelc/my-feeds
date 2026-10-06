@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-05T19:25:00+00:00</updated>
+  <updated>2026-10-05T23:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>IrisOrbit Releases PolyArp MIDI Arpeggiator</title>
+    <link href="https://www.kvraudio.com/news/irisorbit-introduces-polyarp-two-independent-arpeggios-from-one-chord-68909?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68909" rel="alternate" />
+    <id>https://www.kvraudio.com/news/irisorbit-introduces-polyarp-two-independent-arpeggios-from-one-chord-68909?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68909::v239</id>
+    <published>2026-10-05T23:32:00+00:00</published>
+    <updated>2026-10-05T23:32:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/polyarp-approved-render-kvr.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/irisorbit-introduces-polyarp-two-independent-arpeggios-from-one-chord-68909?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68909">kvraudio.com</a> | <a href="https://irisorbit.io/polyarp/">source</a></small></p><hr/><p>IrisOrbit has released PolyArp, a MIDI arpeggiator that splits a single held chord into two independently controlled parts. Users can assign different rhythms, rates, octave ranges, and MIDI output channels to each part, enabling the creation of complex polyphonic textures from a single input.</p><p>PolyArp is available for macOS, Windows, and Linux in VST3, AU MIDI FX, and LV2 formats, and can run as a standalone application. It includes features for custom pattern drawing, phrasing control via humanization and articulation, and MIDI mapping for live performance. A 7-day trial is available, with a full license priced at $15/€15.</p><p><img src="https://static.kvraudio.com/i/b/polyarp-approved-render-kvr.jpg" /></p><hr/><small>6 Oct 2026, 06:57 UTC | #23394</small>]]></content>
+  </entry>
+  <entry>
+    <title>Polecat Plugins Updates Polecat Blur to Version 1.2.1 with MPE Support</title>
+    <link href="https://www.kvraudio.com/news/polecat-plugins-updates-polecat-blur-to-v1-2-1-with-mpe-support-68914?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68914" rel="alternate" />
+    <id>https://www.kvraudio.com/news/polecat-plugins-updates-polecat-blur-to-v1-2-1-with-mpe-support-68914?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68914::v239</id>
+    <published>2026-10-05T23:31:00+00:00</published>
+    <updated>2026-10-05T23:31:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/polecat-blur-1-2.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/polecat-plugins-updates-polecat-blur-to-v1-2-1-with-mpe-support-68914?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68914">kvraudio.com</a> | <a href="https://polecatplugins.com/polecat-blur">source</a></small></p><hr/><p>Polecat Plugins has released version 1.2.1 of its Polecat Blur plugin, adding MIDI Polyphonic Expression (MPE) support. This update enables MPE-compatible controllers to provide individual pitch bend, pressure, and CC74 control for each note.</p><p>The update also features significant CPU optimizations designed to increase polyphony and accommodate larger, more complex projects. A fresh fourteen-day trial is now available to all users, including those who have previously tried the software. The plugin is priced at £129 and is compatible with Windows and Apple Silicon Macs.</p><p><img src="https://static.kvraudio.com/i/b/polecat-blur-1-2.png" /></p><hr/><small>6 Oct 2026, 06:51 UTC | #23393</small>]]></content>
+  </entry>
+  <entry>
+    <title>Våld Labs Releases Tresse 1.3.0 and Opens Ravik Beta</title>
+    <link href="https://www.kvraudio.com/news/vald-labs-releases-tresse-1-3-0-ios-and-desktop-and-opens-ravik-beta-for-ios-and-desktop-68917?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68917" rel="alternate" />
+    <id>https://www.kvraudio.com/news/vald-labs-releases-tresse-1-3-0-ios-and-desktop-and-opens-ravik-beta-for-ios-and-desktop-68917?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68917::v239</id>
+    <published>2026-10-05T23:30:00+00:00</published>
+    <updated>2026-10-05T23:30:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/slide-16_9---3.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/vald-labs-releases-tresse-1-3-0-ios-and-desktop-and-opens-ravik-beta-for-ios-and-desktop-68917?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68917">kvraudio.com</a> | <a href="https://valdlabs.com/">source</a></small></p><hr/><p>The polyphonic synthesizer Tresse has expanded to iPhone and iPad with the release of version 1.3.0, which also includes updated desktop versions for macOS and Windows. Simultaneously, the generative drum synthesizer Ravik has entered public beta for macOS, Windows, and iOS.</p><p>Tresse features 39 synthesis engines, including granular and physical modeling, and introduces polymetric generative sequencers. Ravik 0.2.1 utilizes 47 synthesis engines to drive its eight-voice generative rhythmic system.</p><p><img src="https://static.kvraudio.com/i/b/slide-16_9---3.jpg" /></p><hr/><small>6 Oct 2026, 06:48 UTC | #23392</small>]]></content>
+  </entry>
   <entry>
     <title>Astra Creative Audio Releases Four New Equalizer Plugins</title>
     <link href="https://www.kvraudio.com/news/astra-creative-audio-releases-a-pre-eq-a-channel-eq-a-program-eq-and-a-500-equaliser-plug-ins-68888?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68888" rel="alternate" />
