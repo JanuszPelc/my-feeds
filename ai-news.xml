@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-06T02:44:00+00:00</updated>
+  <updated>2026-10-06T13:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Mistral AI Launches Mistral Large 4 Public Preview</title>
+    <link href="https://docs.mistral.ai/models/mistral-large-4-0" rel="alternate" />
+    <id>https://docs.mistral.ai/models/mistral-large-4-0::v239</id>
+    <published>2026-10-06T13:16:00+00:00</published>
+    <updated>2026-10-06T13:16:00+00:00</updated>
+    <media:thumbnail url="https://futureagi.com/images/blog/monthly-compare/2026-03/fig-1-convergence.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://docs.mistral.ai/models/mistral-large-4-0">docs.mistral.ai</a> | <a href="https://news.ycombinator.com/item?id=49977979">hacker news</a></small></p><hr/><p>Mistral AI has released a public preview of Mistral Large 4, an open-weight multimodal model utilizing a Mixture-of-Experts architecture. The model features 1.05 trillion total parameters—with 49 billion active parameters—and a 1.6 billion parameter vision encoder. It supports a 1-million-token context window and provides capabilities such as structured outputs, function calling, and document Q&amp;A.</p><p>Developer features include support for batching, agents, and various built-in tools to facilitate complex workflows. The model is priced at $0.68 per million input tokens, $0.07 per million cached input tokens, and $2.09 per million output tokens.</p><p><img src="https://futureagi.com/images/blog/monthly-compare/2026-03/fig-1-convergence.webp" /></p><hr/><small>6 Oct 2026, 14:28 UTC | #23435</small>]]></content>
+  </entry>
   <entry>
     <title>Dust Enables Transformer Pretraining Without Backpropagation</title>
     <link href="https://qlabs.sh/research/dust" rel="alternate" />
