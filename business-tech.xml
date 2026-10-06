@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-06T14:46:00+00:00</updated>
+  <updated>2026-10-06T16:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anduril Secures $2.9 Billion Navy Contract for Submarine Component Manufacturing</title>
+    <link href="https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html::v239</id>
+    <published>2026-10-06T16:02:00+00:00</published>
+    <updated>2026-10-06T16:02:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html">cnbc.com</a></small></p><hr/><p>Anduril Industries has secured a contract worth up to $2.9 billion from the U.S. Navy to manufacture components for Virginia-class submarines. The company plans to invest $3.7 billion in a new 2 million-square-foot shipyard at Sparrows Point, Maryland, which is slated to begin operations in 2030 and create approximately 3,100 jobs. Additional manufacturing for components like torpedo tubes is planned for a facility in Orange County, California.</p><p>The expansion marks a significant strategic shift for the defense technology firm from autonomous drones into conventional maritime manufacturing and large-scale shipbuilding. This move follows the recent appointment of co-founder Palmer Luckey to Project Meridian, a Pentagon task force established to develop capabilities for future U.S. military conflicts.</p><hr/><small>6 Oct 2026, 21:39 UTC | #23445</small>]]></content>
+  </entry>
   <entry>
     <title>Asos Shares Fall Following Customer Hack Notifications</title>
     <link href="https://www.ft.com/content/eab7052d-6640-4928-a128-8df73455ba0a" rel="alternate" />
