@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-05T22:55:00+00:00</updated>
+  <updated>2026-10-05T23:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>An Argument Against the Use of Effect Systems in Haskell</title>
+    <link href="https://burningwitness.github.io/blog/posts/against-effect-systems/" rel="alternate" />
+    <id>https://burningwitness.github.io/blog/posts/against-effect-systems/::v239</id>
+    <published>2026-10-05T23:00:00+00:00</published>
+    <updated>2026-10-05T23:00:00+00:00</updated>
+    <media:thumbnail url="https://scispace.com/figures/figure-1-parametric-effect-monad-and-subeffecting-classes-31sgj3zs.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://burningwitness.github.io/blog/posts/against-effect-systems/">burningwitness.github.io</a> | <a href="https://lobste.rs/s/okq4dm/you_don_t_need_effect_system">discussion</a></small></p><hr/><p>Complex effect systems in Haskell are often unnecessary for common development tasks like dependency injection, mocking, and error handling. Through a case study of a codebase rewrite, the author demonstrates how these requirements can be met using plain IO, explicit argument passing, and the "handle pattern" to manage side effects and resource lifecycles.</p><p>A custom "early return" mechanism is implemented using type-safe exceptions to avoid the verbosity of certain error-handling patterns. Further details address module organization, the management of duplicate effects, and the implementation of resource tracking within the IO monad.</p><p><img src="https://scispace.com/figures/figure-1-parametric-effect-monad-and-subeffecting-classes-31sgj3zs.png" /></p><hr/><small>6 Oct 2026, 02:47 UTC | #23380</small>]]></content>
+  </entry>
+  <entry>
+    <title>Monocypher Adds Multi-threaded Argon2 Support via Segmented API</title>
+    <link href="https://lobste.rs/s/nvkrb9/what_are_you_doing_this_week" rel="alternate" />
+    <id>https://lobste.rs/s/nvkrb9/what_are_you_doing_this_week::v239</id>
+    <published>2026-10-05T22:59:00+00:00</published>
+    <updated>2026-10-05T22:59:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/nvkrb9/what_are_you_doing_this_week">lobste.rs</a> | <a href="https://lobste.rs/s/nvkrb9/what_are_you_doing_this_week">discussion</a></small></p><hr/><p>The Argon2 hashing function in the Monocypher library is being updated with multi-thread support through a new segmented API consisting of `init()`, `segment()`, and `final()` stages. This approach allows users to manage parallelism using any threading API, which preserves the library's requirement for zero external dependencies and pure portable C99.</p><p>This architecture ensures compatibility across diverse environments without mandating specific threading libraries like pthreads. Following the current single-threaded implementation of this segmented structure, the developer plans to provide updated documentation and production-ready code examples.</p><hr/><small>6 Oct 2026, 02:43 UTC | #23379</small>]]></content>
+  </entry>
   <entry>
     <title>Nix and Home Manager Setup on Steam Frame</title>
     <link href="https://johns.codes/blog/nix-on-steam-frame" rel="alternate" />
