@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-06T13:39:00+00:00</updated>
+  <updated>2026-10-06T13:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AMD to Substantially Increase Chip Supply in 2027</title>
+    <link href="https://www.reuters.com/world/asia-pacific/amd-plans-substantially-increase-supply-2027-ceo-says-2026-10-06/" rel="alternate" />
+    <id>https://www.reuters.com/world/asia-pacific/amd-plans-substantially-increase-supply-2027-ceo-says-2026-10-06/::v239</id>
+    <published>2026-10-06T13:42:00+00:00</published>
+    <updated>2026-10-06T13:42:00+00:00</updated>
+    <media:thumbnail url="https://www.lowyat.net/wp-content/uploads/2022/11/AMD-Radeon-RX-7000-Series-Tech-Day-Launch-Lisa-Su-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/amd-plans-substantially-increase-supply-2027-ceo-says-2026-10-06/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=49976566">hacker news</a></small></p><hr/><p>AMD aims to significantly expand its semiconductor output by 2027 to meet the rising global demand for artificial intelligence processors. CEO Lisa Su has identified a need for increased advanced wafer capacity and is coordinating with manufacturing partners, including Foxconn and TSMC, to facilitate this growth.</p><p>This move is part of a strategic scaling of production intended to continue through 2026. The expansion is designed to support the surge in demand for both CPUs and GPUs used in high-performance AI computing environments.</p><p><img src="https://www.lowyat.net/wp-content/uploads/2022/11/AMD-Radeon-RX-7000-Series-Tech-Day-Launch-Lisa-Su-1.jpg" /></p><hr/><small>6 Oct 2026, 17:44 UTC | #23415</small>]]></content>
+  </entry>
   <entry>
     <title>South Korea to Split AI Development into Frontier Model and Industrial Tracks</title>
     <link href="https://www.koreaherald.com/article/10893306" rel="alternate" />
