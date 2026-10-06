@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-06T03:49:00+00:00</updated>
+  <updated>2026-10-06T08:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Kaelin Ellis Discusses Studio Gear and Production on My Forever Studio Podcast</title>
+    <link href="https://musictech.com/shows/podcasts/my-forever-studio/kaelin-ellis/" rel="alternate" />
+    <id>https://musictech.com/shows/podcasts/my-forever-studio/kaelin-ellis/::v239</id>
+    <published>2026-10-06T08:14:00+00:00</published>
+    <updated>2026-10-06T08:14:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/kaelin-ellis-press-hero-mfs@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/shows/podcasts/my-forever-studio/kaelin-ellis/">musictech.com</a></small></p><hr/><p>Producer Kaelin Ellis discusses his studio setup, production techniques, and upcoming 11th studio album, GOVERNER, on the My Forever Studio podcast. The conversation explores how video games and various instruments have influenced his musical development and sound.</p><p>Ellis has provided production for artists including Vince Staples, Kaytranada, and Tycho. In the podcast format, guests select a limited number of items to build a dream "forever studio" space under specific constraints.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/kaelin-ellis-press-hero-mfs@2000x1500.jpg" /></p><hr/><small>6 Oct 2026, 13:05 UTC | #23399</small>]]></content>
+  </entry>
   <entry>
     <title>Mad House Audio Updates ACID-O, Tape Echo, PERC-O, and VERB-O to v1.0.1</title>
     <link href="https://www.kvraudio.com/news/mad-house-audio-updates-acid-o-tape-echo-perc-o-and-verb-o-to-v1-0-1-68907?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68907" rel="alternate" />
