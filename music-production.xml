@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-06T13:29:00+00:00</updated>
+  <updated>2026-10-06T13:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>SubverseLab Releases Five New Audio Plugins</title>
+    <link href="https://www.kvraudio.com/news/subverselab-releases-koro-yanki-hava-tutkal-and-mihenk-vst3-and-au-68919?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68919" rel="alternate" />
+    <id>https://www.kvraudio.com/news/subverselab-releases-koro-yanki-hava-tutkal-and-mihenk-vst3-and-au-68919?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68919::v239</id>
+    <published>2026-10-06T13:30:00+00:00</published>
+    <updated>2026-10-06T13:30:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/aile_7_16x9.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/subverselab-releases-koro-yanki-hava-tutkal-and-mihenk-vst3-and-au-68919?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68919">kvraudio.com</a> | <a href="https://subverselab.com/launch2">source</a></small></p><hr/><p>SubverseLab has expanded its software suite with the release of Koro, Yanki, Hava, Tutkal, and Mihenk, joining existing products Kubbe and Kaset. The new collection includes a vocal harmonizer, a tempo-synced tape echo, an exciter, a compressor, and a mastering application/plugin.</p><p>The plugins are available in VST3 and AU formats for macOS and VST3 for Windows, with Mihenk also available as a standalone application. A promotional offer allows users to purchase the entire seven-plugin family for $19.99 through November 1, 2026.</p><p><img src="https://static.kvraudio.com/i/b/aile_7_16x9.png" /></p><hr/><small>6 Oct 2026, 15:54 UTC | #23416</small>]]></content>
+  </entry>
   <entry>
     <title>EastWest Announces Hollywood Scoring Tools</title>
     <link href="https://www.kvraudio.com/news/eastwest-announces-hollywood-scoring-tools---300-and-scores-and-164-instruments-68926?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68926" rel="alternate" />
