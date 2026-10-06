@@ -920,13 +920,4 @@
     <updated>2026-10-01T06:03:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nikolan.net/posts/portal2/">nikolan.net</a> | <a href="https://lobste.rs/s/lzlkbr/reviving_valve_s_15_year_old_e_book">discussion</a></small></p><hr/><p>The technical restoration of interactive elements in "The Final Hours of Portal 2," a legacy e-book documenting the development of Valve's Portal 2, addresses broken multimedia content. Many embedded videos, 3D visualizations, music tracks, and interactive polls in the original digital book became non-functional due to the discontinuation of Adobe Flash APIs and the expiration of hosted web services.</p><p>The project involved decompiling SWF files using JPEXS Free Flash Decompiler and recovering audio and video via yt-dlp. By extracting assets from an iOS version of the book found in a digital archive and implementing custom local playback logic, several interactive features were successfully restored.</p><hr/><small>1 Oct 2026, 10:23 UTC | #22945</small>]]></content>
   </entry>
-  <entry>
-    <title>Signal Updates Backup Features with Cross-Platform Support and Storage Optimization</title>
-    <link href="https://signal.org/blog/backup-improvements/" rel="alternate" />
-    <id>https://signal.org/blog/backup-improvements/::v239</id>
-    <published>2026-10-01T02:18:00+00:00</published>
-    <updated>2026-10-01T02:18:00+00:00</updated>
-    <media:thumbnail url="https://signal.org/blog/images/backup-improvements-header.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://signal.org/blog/backup-improvements/">signal.org</a> | <a href="https://lobste.rs/s/rhkwg1/back_backups_year_review">discussion</a></small></p><hr/><p>Signal has implemented cross-platform support for on-device backups across iOS, Android, and desktop platforms. The update includes media offloading to optimize local storage and an attachment backfill mechanism that enables linked devices to retrieve missing media files from a primary device.</p><p>A paid subscription provides up to 100GB of end-to-end encrypted cloud storage, while the free tier limits media history to the last 45 days. For hosted backups, Signal utilizes Trusted Execution Environments to incorporate forward secrecy into its cryptographic key management.</p><p><img src="https://signal.org/blog/images/backup-improvements-header.png" /></p><hr/><small>1 Oct 2026, 09:49 UTC | #22941</small>]]></content>
-  </entry>
 </feed>
