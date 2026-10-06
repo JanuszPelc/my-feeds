@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-06T15:07:00+00:00</updated>
+  <updated>2026-10-06T18:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Undead Labs Head Discusses Transparency During Layoffs</title>
+    <link href="https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs::v239</id>
+    <published>2026-10-06T18:33:00+00:00</published>
+    <updated>2026-10-06T18:33:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt665fe3ba10bc9d06/6ac52d66b5dc8ce420e19cf3/stateofdecay3steam.jpg?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs">gamedeveloper.com</a> | <a href="https://www.thegamebusiness.com/p/how-undead-labs-saved-itself-and">source</a></small></p><hr/><p>Undead Labs studio head Philip Holt has discussed his decision to be candid with staff about potential layoffs during the studio's recent transition to an independent entity. Following the studio's divestiture from Xbox Game Studios, Holt stated that being transparent about job losses helped reduce employee anxiety and allowed staff to prepare for the changes.</p><p>Despite significant layoffs following the split from Xbox, Undead Labs has retained the State of Decay intellectual property. The studio maintains that development for State of Decay 3 remains on schedule for a 2027 release.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt665fe3ba10bc9d06/6ac52d66b5dc8ce420e19cf3/stateofdecay3steam.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>6 Oct 2026, 22:21 UTC | #23465</small>]]></content>
+  </entry>
   <entry>
     <title>Blackbird Interactive and Secret Mode Case Study: Scaling Escape the Backrooms</title>
     <link href="https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave" rel="alternate" />

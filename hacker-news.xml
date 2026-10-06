@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-06T18:30:00+00:00</updated>
+  <updated>2026-10-06T18:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Longevity and Utility of Plain Text in Computing</title>
+    <link href="https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/" rel="alternate" />
+    <id>https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/::v239</id>
+    <published>2026-10-06T18:32:00+00:00</published>
+    <updated>2026-10-06T18:32:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/">deadparrotbbs.com</a> | <a href="https://news.ycombinator.com/item?id=49968906">hacker news</a></small></p><hr/><p>Plain text is a uniquely resilient computing technology due to its simplicity and universal readability. Unlike proprietary or rich-text formats that require specific applications to interpret data, plain text relies on character codes accessible across diverse operating systems and software environments.</p><p>The format's compatibility with an ecosystem of command-line tools enables easy inspection, searching, and automation. While structured formats like Markdown provide a way to implement document hierarchy without sacrificing text legibility, plain text's independence from software vendors and cloud dependencies offers significant advantages for long-term data ownership and preservation.</p><hr/><small>6 Oct 2026, 22:20 UTC | #23371</small>]]></content>
+  </entry>
   <entry>
     <title>David Bushell Outlines Skills for a Sustainable Web Career</title>
     <link href="https://dbushell.com/2026/10/07/sustainable-web-career/" rel="alternate" />
