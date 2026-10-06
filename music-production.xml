@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-06T18:31:00+00:00</updated>
+  <updated>2026-10-06T18:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>DSPTone Releases Diodrive Plugin</title>
+    <link href="https://www.kvraudio.com/news/dsptone-releases-diodrive-plugin-vst3-au-aax-68930?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68930" rel="alternate" />
+    <id>https://www.kvraudio.com/news/dsptone-releases-diodrive-plugin-vst3-au-aax-68930?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68930::v239</id>
+    <published>2026-10-06T18:34:00+00:00</published>
+    <updated>2026-10-06T18:34:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/promod1sm.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dsptone-releases-diodrive-plugin-vst3-au-aax-68930?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68930">kvraudio.com</a> | <a href="https://dsptone.com/diodrive/">source</a></small></p><hr/><p>DSPTone's Diodrive is a plugin designed to bring diode-clipping character to modern digital studio production. Available in VST3, AU, and AAX formats, the software acts as a versatile harmonic processor for overdrive and distortion applications.</p><p>The plugin includes Drive, Edge, and Trim Drive controls for custom texture adjustment. It is priced at $29, with a 30% introductory discount active through October 13.</p><p><img src="https://static.kvraudio.com/i/b/promod1sm.png" /></p><hr/><small>6 Oct 2026, 22:38 UTC | #23487</small>]]></content>
+  </entry>
   <entry>
     <title>sonicLAB Releases SPATAI v3 with MCP Support</title>
     <link href="https://www.kvraudio.com/news/soniclab-releases-spatai-v3-68928?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68928" rel="alternate" />
