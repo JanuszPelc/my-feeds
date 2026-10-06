@@ -902,39 +902,4 @@
     <media:thumbnail url="https://addyosmani.com/assets/images/harness-anatomy.jpeg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://earendil.com/posts/pi-1-0/">earendil.com</a> | <a href="https://news.ycombinator.com/item?id=49926069">hacker news</a></small></p><hr/><p>Earendil has released Pi 1.0, an extensible agent harness focused on minimalism and robustness. The update introduces native support for the Model Context Protocol (MCP), support for non-LLM models, extension support for virtual models, and deferred tool loading. Other improvements include cache warming for Anthropic models, mid-conversation system messages, and a new TUI theme.</p><p>The release also introduces Pi Durable, an experimental package for building long-running agentic applications. While Pi is designed for terminal-based use, Pi Durable aims to enable users to interact with AI intelligence across various surfaces and for extended, long-running tasks.</p><p><img src="https://addyosmani.com/assets/images/harness-anatomy.jpeg" /></p><hr/><small>1 Oct 2026, 21:07 UTC | #23020</small>]]></content>
   </entry>
-  <entry>
-    <title>Magnet Forensics Develops Tool to Bypass iPhone Inactivity Reboot</title>
-    <link href="https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/" rel="alternate" />
-    <id>https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/::v239</id>
-    <published>2026-10-01T16:36:00+00:00</published>
-    <updated>2026-10-01T16:36:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=49922278">hacker news</a></small></p><hr/><p>Magnet Forensics, the company behind the GrayKey forensic tool, has developed technology that reportedly allows law enforcement to bypass Apple's iPhone inactivity reboot feature. The new tools, GrayKey Preserve and Evidence Preservation Mode, aim to keep iPhones in the "After First Unlock" (AFU) state, ensuring that sensitive data remains accessible even if the device would otherwise trigger an automatic reboot to protect its security.</p><p>Apple implemented the inactivity reboot to move devices from a vulnerable state into a more secure "Before First Unlock" (BFU) state after 72 hours of idleness. Researchers suggest Magnet's solution may work by manipulating the system clock to "stop time" or by disabling the specific software tasks that trigger automatic reboots and data expiration.</p><hr/><small>1 Oct 2026, 20:43 UTC | #23019</small>]]></content>
-  </entry>
-  <entry>
-    <title>Amazon Launches New Kindle Lineup with Aluminum Models and Page-Turning Accessories</title>
-    <link href="https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh" rel="alternate" />
-    <id>https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh::v239</id>
-    <published>2026-10-01T16:32:00+00:00</published>
-    <updated>2026-10-01T16:32:00+00:00</updated>
-    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011550.jpg?quality=90&amp;strip=all&amp;crop=0,0.0058706117177465,100,99.988258776565" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1002811/amazon-kindle-paperwhite-colorsoft-accessory-refresh">theverge.com</a></small></p><hr/><p>Amazon has launched a refreshed Kindle lineup, including updates to the base Kindle, Kindle Paperwhite, and Kindle Colorsoft. The models are 1mm thinner, 30% faster at opening books, and feature power buttons relocated to the right edge. Higher-end Signature Editions for the Paperwhite and Colorsoft now offer aluminum finishes, 32GB of storage, and compatibility with magnetic accessories via pogo pins.</p><p>The hardware features flush-to-bezel displays and user-replaceable batteries to meet EU regulations. New accessories include a $79.99 folio case that adds physical page-turning buttons and the $34.99 Kindle Click Bluetooth remote.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/P1011550.jpg?quality=90&strip=all&crop=0,0.0058706117177465,100,99.988258776565" /></p><hr/><small>1 Oct 2026, 20:32 UTC | #22965</small>]]></content>
-  </entry>
-  <entry>
-    <title>turbopuffer Redesigns Storage Architecture for Version 3</title>
-    <link href="https://turbopuffer.com/blog/rip-vector-database" rel="alternate" />
-    <id>https://turbopuffer.com/blog/rip-vector-database::v239</id>
-    <published>2026-10-01T16:30:00+00:00</published>
-    <updated>2026-10-01T16:30:00+00:00</updated>
-    <media:thumbnail url="https://tooldirectory.ai/_next/image?url=https://striking-kindness-e0d93214bb.media.strapiapp.com/turbopuffer_c32b618f27.png&amp;w=1536&amp;q=80" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://turbopuffer.com/blog/rip-vector-database">turbopuffer.com</a> | <a href="https://news.ycombinator.com/item?id=49923466">hacker news</a></small></p><hr/><p>turbopuffer is transitioning from a vector-primary storage architecture to a new system where Approximate Nearest Neighbor (ANN) indices act as secondary indices. This architectural shift, part of the version 3 rollout, aims to resolve current limitations in storage and write amplification and to improve query vectorization for non-vector searches, such as aggregations and SQL-style operations.</p><p>The current design, which keys documents by their ANN address, constrains data block sizes to small cluster sizes, limiting CPU efficiency and SIMD utilization. While the new architecture has successfully passed continuous integration tests, development continues as the team works toward achieving performance parity with existing production systems.</p><p><img src="https://tooldirectory.ai/_next/image?url=https://striking-kindness-e0d93214bb.media.strapiapp.com/turbopuffer_c32b618f27.png&w=1536&q=80" /></p><hr/><small>1 Oct 2026, 20:15 UTC | #23016</small>]]></content>
-  </entry>
-  <entry>
-    <title>Reducing Cognitive Load in AI Code Reviews through Terminology Alignment</title>
-    <link href="https://amoffat.github.io/blog/cognitive-load.html" rel="alternate" />
-    <id>https://amoffat.github.io/blog/cognitive-load.html::v239</id>
-    <published>2026-10-01T16:25:00+00:00</published>
-    <updated>2026-10-01T16:25:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQFpBukao9sADw/feedshare-shrink_800/B4EZ0k6.yIJcAc-/0/1774440934978?e=2147483647&amp;v=beta&amp;t=PQoBxnFjk69OB-YIL6MZsc0YGJ6vo7Jxt7mupbbQDMQ" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://amoffat.github.io/blog/cognitive-load.html">amoffat.github.io</a> | <a href="https://lobste.rs/s/iwvjr0/reducing_cognitive_load_ai_changes">discussion</a></small></p><hr/><p>Developers can reduce the mental overhead of reviewing AI-generated code by synchronizing LLM terminology with their own established naming conventions. This technique involves using a specific prompt to identify unconventional terms and mapping them to preferred alternatives across the source code and documentation.</p><p>This process mitigates the accumulation of cognitive load caused by unfamiliar semantic mappings in large, complex updates. Aligning the AI's language with a developer's existing mental model makes the code more intuitive and significantly easier to review.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQFpBukao9sADw/feedshare-shrink_800/B4EZ0k6.yIJcAc-/0/1774440934978?e=2147483647&v=beta&t=PQoBxnFjk69OB-YIL6MZsc0YGJ6vo7Jxt7mupbbQDMQ" /></p><hr/><small>1 Oct 2026, 19:56 UTC | #23015</small>]]></content>
-  </entry>
 </feed>

@@ -567,47 +567,4 @@
     <updated>2026-10-01T19:36:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/#respond">discussion</a></small></p><hr/><p>Hivetune has released ENS-86, a free chorus plugin for macOS and Windows. The software emulates the sound of 1980s-era BBD (Bucket Brigade Device) technology found in vintage polyphonic synthesizers.</p><p>The plugin offers high-quality analog-modeled sound design and includes a dry/wet control for easy mixing within audio production workflows.</p><hr/><small>1 Oct 2026, 21:31 UTC | #22988</small>]]></content>
   </entry>
-  <entry>
-    <title>Hell Yes Loop Lab Releases Little Room Guitar Amp Plugin</title>
-    <link href="https://www.kvraudio.com/news/hell-yes-loop-lab-releases-little-room---fictional-vintage-guitar-amp-plugin-vst3-and-au-68842?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68842" rel="alternate" />
-    <id>https://www.kvraudio.com/news/hell-yes-loop-lab-releases-little-room---fictional-vintage-guitar-amp-plugin-vst3-and-au-68842?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68842::v239</id>
-    <published>2026-10-01T16:40:00+00:00</published>
-    <updated>2026-10-01T16:40:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/little_room_screenshot_small.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/hell-yes-loop-lab-releases-little-room---fictional-vintage-guitar-amp-plugin-vst3-and-au-68842?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68842">kvraudio.com</a> | <a href="https://www.hellyeslooplab.com/little-room/">source</a></small></p><hr/><p>Hell Yes Loop Lab has released Little Room, a guitar amplifier plugin modeled after a fictional vintage amplifier. The plugin is designed to produce clean and edge-of-breakup tones and includes an internal cabinet and spring reverb.</p><p>The software features gain, master, and level controls along with a three-band EQ. It is available for macOS and Windows in VST3 and AU formats, priced at $19 with a $9.50 introductory offer available for the first month.</p><p><img src="https://static.kvraudio.com/i/b/little_room_screenshot_small.jpg" /></p><hr/><small>1 Oct 2026, 20:58 UTC | #22982</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rockedge Audio Releases RA-CS1 Channel Strip Plugin</title>
-    <link href="https://www.kvraudio.com/news/rockedge-audio-releases-ra-cs1-channel-strip-plugin-vst3-au-68840?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68840" rel="alternate" />
-    <id>https://www.kvraudio.com/news/rockedge-audio-releases-ra-cs1-channel-strip-plugin-vst3-au-68840?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68840::v239</id>
-    <published>2026-10-01T16:39:00+00:00</published>
-    <updated>2026-10-01T16:39:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/racs1-v1-3-4-main.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/rockedge-audio-releases-ra-cs1-channel-strip-plugin-vst3-au-68840?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68840">kvraudio.com</a> | <a href="https://www.rockedgeaudio.com/products/ra-cs1/">source</a></small></p><hr/><p>The RA-CS1 is a channel strip plugin for macOS, available in VST3 and AU formats. It features a fixed signal chain that includes a downward expander, an 8-band EQ, a VCA compressor, and a saturation stage with multiple drive options.</p><p>The plugin includes an auto-gain function that suggests level settings based on a three-second signal sample and supports 2x oversampling with 2 samples of latency. It is currently available at a launch price of $59.</p><p><img src="https://static.kvraudio.com/i/b/racs1-v1-3-4-main.png" /></p><hr/><small>1 Oct 2026, 20:57 UTC | #22983</small>]]></content>
-  </entry>
-  <entry>
-    <title>Klein Soundworks Releases Free Plug-in Bench Standalone Host</title>
-    <link href="https://bedroomproducersblog.com/2026/10/01/klein-soundworks-plug-in-bench/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/01/klein-soundworks-plug-in-bench/::v239</id>
-    <published>2026-10-01T16:34:00+00:00</published>
-    <updated>2026-10-01T16:34:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/01/klein-soundworks-plug-in-bench/">bedroomproducersblog.com</a> | <a href="https://www.kleinsoundworks.com/products/plug-in-bench">source</a> | <a href="https://bedroomproducersblog.com/2026/10/01/klein-soundworks-plug-in-bench/#respond">discussion</a></small></p><hr/><p>The utility functions as a standalone host for testing VST3 and AU plugins, enabling users to load and verify audio software without opening a full Digital Audio Workstation (DAW).</p><p>Targeted at indie developers, the tool provides a lightweight, dedicated environment to simplify the testing and debugging process for new audio plugins.</p><hr/><small>1 Oct 2026, 20:35 UTC | #22990</small>]]></content>
-  </entry>
-  <entry>
-    <title>Audio Plugin Deals Launches October Mega Bundle</title>
-    <link href="https://bedroomproducersblog.com/2026/10/01/october-mega-bundle/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/01/october-mega-bundle/::v239</id>
-    <published>2026-10-01T16:29:00+00:00</published>
-    <updated>2026-10-01T16:29:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/01/october-mega-bundle/">bedroomproducersblog.com</a> | <a href="https://audioplugin.deals/product/october-mega-bundle/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/01/october-mega-bundle/#comments">discussion</a></small></p><hr/><p>Audio Plugin Deals has released a $9.99 collection featuring four audio plugins and seven sound packs. The bundle's software selection includes United Plugins' Verbum Entropic Hall and Analog Empire.</p><p>This promotion offers a 98% discount off the products' combined claimed value of $477.31. The offer is scheduled to end on November 1, 2026.</p><hr/><small>1 Oct 2026, 20:11 UTC | #22991</small>]]></content>
-  </entry>
-  <entry>
-    <title>Novation Unveils FLpad and FLpad Mini for FL Studio</title>
-    <link href="https://musictech.com/news/gear/novation-flpad/" rel="alternate" />
-    <id>https://musictech.com/news/gear/novation-flpad/::v239</id>
-    <published>2026-10-01T16:28:00+00:00</published>
-    <updated>2026-10-01T16:28:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Flpad-3@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/novation-flpad/">musictech.com</a> | <a href="https://us.novationmusic.com/products/flpad">source</a></small></p><hr/><p>Novation has partnered with Image-Line to launch the FLpad and FLpad mini, a new line of 8x8 grid controllers designed specifically for FL Studio workflows. The series includes a full-sized FLpad with velocity-sensitive pads and a compact FLpad mini for portable creation. Both models feature 64 RGB-backlit pads that support melodic play modes, such as chromatic or scale-locked settings, and include dedicated controls for sequencer and channel rack navigation.</p><p>The controllers are designed to augment finger drumming and step sequencing within the DAW and can be customized using Novation Components software. Each purchase includes six months of FL Studio Producer Edition along with software from UVI, GForce, and Klevgrand. The FLpad is priced at $219.99/£179.99, while the FLpad mini is available for $139.99/£99.99.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Flpad-3@2000x1500.jpg" /></p><hr/><small>1 Oct 2026, 20:09 UTC | #22976</small>]]></content>
-  </entry>
 </feed>
