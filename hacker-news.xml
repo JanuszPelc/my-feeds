@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-05T23:10:00+00:00</updated>
+  <updated>2026-10-06T02:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>mailcheck SMTP and DNS Diagnostic Tool</title>
+    <link href="https://git.sig-io.nl/Sig-IO/mailcheck/" rel="alternate" />
+    <id>https://git.sig-io.nl/Sig-IO/mailcheck/::v239</id>
+    <published>2026-10-06T02:45:00+00:00</published>
+    <updated>2026-10-06T02:45:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://git.sig-io.nl/Sig-IO/mailcheck/">git.sig-io.nl</a> | <a href="https://lobste.rs/s/bw7k1r/golang_tool_check_spf_dkim_tlsa_tls">discussion</a></small></p><hr/><p>This Go-based command-line utility diagnoses SMTP, DNS, and TLS configurations to ensure domains are correctly set up to receive mail. It checks MX records, A/AAAA resolution, and TLS connectivity—including STARTTLS and implicit TLS—while validating DANE, SPF, DMARC, and DKIM records.</p><p>The tool supports TLS 1.2 and 1.3, providing certificate parsing and hostname verification for modern AEAD ciphers. It produces human-readable, JSON, or Nagios/Icinga-compatible output, enabling integration into automated monitoring workflows.</p><hr/><small>6 Oct 2026, 08:15 UTC | #23398</small>]]></content>
+  </entry>
   <entry>
     <title>Example.com Implements Multi-Language Support in Recent Redesign</title>
     <link href="https://www.debugbear.com/blog/example-dot-com-redesign-history" rel="alternate" />

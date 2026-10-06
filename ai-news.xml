@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-05T23:08:00+00:00</updated>
+  <updated>2026-10-06T02:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Dust Enables Transformer Pretraining Without Backpropagation</title>
+    <link href="https://qlabs.sh/research/dust" rel="alternate" />
+    <id>https://qlabs.sh/research/dust::v239</id>
+    <published>2026-10-06T02:44:00+00:00</published>
+    <updated>2026-10-06T02:44:00+00:00</updated>
+    <media:thumbnail url="https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/training-free-token-pruning-via-zeroth-order-gradient-estimation-in-vision-language-models-1.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://qlabs.sh/research/dust">qlabs.sh</a> | <a href="https://news.ycombinator.com/item?id=49970871">hacker news</a></small></p><hr/><p>This zeroth-order optimization method enables training transformer language models without the requirement for differentiability or backpropagation. By perturbing activations independently at each token, the algorithm creates a "virtual population" that evaluates multiple members in parallel through a single forward pass.</p><p>The method is reportedly orders of magnitude more efficient than weight-space evolution strategies, with predicted advantages of $10^3$ to $10^4$ over the EGGROLL method. Research suggests that Dust may surpass backpropagation in compute-intensive regimes, as gradient estimates align more closely with standard methods as population size increases.</p><p><img src="https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/training-free-token-pruning-via-zeroth-order-gradient-estimation-in-vision-language-models-1.png" /></p><hr/><small>6 Oct 2026, 08:12 UTC | #23397</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Subscriptions Offer Higher API-Equivalent Value Than OpenAI</title>
     <link href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x" rel="alternate" />
