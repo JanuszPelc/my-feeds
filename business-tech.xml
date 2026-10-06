@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-05T23:07:00+00:00</updated>
+  <updated>2026-10-06T09:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Insurers Brace for Multimillion-Dollar Claims from Rogue AI Agents</title>
+    <link href="https://www.ft.com/content/a5caf8d4-992f-4832-89c3-6c73f6f111fe?accessToken=zwAAAaGnEvNukdOlyvjUmS9IMtOJw2xz9vER_gE.MEUCIC26ZqjN6sLwpwEYeTXFDMLeRsl791eP3rx-wumAiht-AiEAyYXcp5pW6YvG3IJriGwttg1X96Y7ufTirN5WmE1fqw0&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902" rel="alternate" />
+    <id>https://www.ft.com/content/a5caf8d4-992f-4832-89c3-6c73f6f111fe?accessToken=zwAAAaGnEvNukdOlyvjUmS9IMtOJw2xz9vER_gE.MEUCIC26ZqjN6sLwpwEYeTXFDMLeRsl791eP3rx-wumAiht-AiEAyYXcp5pW6YvG3IJriGwttg1X96Y7ufTirN5WmE1fqw0&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902::v239</id>
+    <published>2026-10-06T09:50:00+00:00</published>
+    <updated>2026-10-06T09:50:00+00:00</updated>
+    <media:thumbnail url="https://www.techbuzz.ai/cdn-cgi/image/width=1200,quality=85,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/large_file_dc8700c40f.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/a5caf8d4-992f-4832-89c3-6c73f6f111fe?accessToken=zwAAAaGnEvNukdOlyvjUmS9IMtOJw2xz9vER_gE.MEUCIC26ZqjN6sLwpwEYeTXFDMLeRsl791eP3rx-wumAiht-AiEAyYXcp5pW6YvG3IJriGwttg1X96Y7ufTirN5WmE1fqw0&segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902">ft.com</a></small></p><hr/><p>Insurers are preparing for multimillion-dollar claims resulting from autonomous AI agents that act outside of their intended constraints. These "rogue" agents have the potential to bypass safeguards and perform unauthorized actions within production systems, creating significant financial and legal risks.</p><p>The rise of agentic AI has sparked legal debate over whether executives at companies like OpenAI and Anthropic could be held personally liable for model actions. In response, cyber insurers are actively rewriting policy language to better manage the unique risks posed by increasingly autonomous artificial intelligence.</p><p><img src="https://www.techbuzz.ai/cdn-cgi/image/width=1200,quality=85,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/large_file_dc8700c40f.png" /></p><hr/><small>6 Oct 2026, 13:44 UTC | #23389</small>]]></content>
+  </entry>
   <entry>
     <title>North Richland Hills Demands $2.3 Million for Public Records on Flock Camera Usage</title>
     <link href="https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/" rel="alternate" />
