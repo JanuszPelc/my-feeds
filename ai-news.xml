@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-06T14:02:00+00:00</updated>
+  <updated>2026-10-06T16:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Anthropic Expands Claude for Startups Program with Free Service and API Credits</title>
+    <link href="https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/::v239</id>
+    <published>2026-10-06T16:01:00+00:00</published>
+    <updated>2026-10-06T16:01:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/">techcrunch.com</a> | <a href="https://claude.com/programs/startups">source</a></small></p><hr/><p>Anthropic has expanded its Claude for Startups program to include a free year of its Claude Team plan, providing up to five premium seats, and $1,000 in API credits. The program also offers access to the Claude Marketplace for plugin development and virtual office hours with the company's Applied AI team.</p><p>Qualifying companies must have been founded within the last five years or received funding in the last two years. The expansion was announced during Anthropic's SF Tech Week to support developers and founders building applications on top of the company's AI models.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024" /></p><hr/><small>6 Oct 2026, 21:11 UTC | #23453</small>]]></content>
+  </entry>
   <entry>
     <title>Pinterest Introduces AI-Powered "Beauty Guides" to Convert Inspiration Pins into Salon Action Plans</title>
     <link href="https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/" rel="alternate" />

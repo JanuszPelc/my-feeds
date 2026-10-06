@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-06T15:22:00+00:00</updated>
+  <updated>2026-10-06T15:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Granvia Releases FantaDrop Loop Sequencer Plugin</title>
+    <link href="https://www.kvraudio.com/news/granvia-releases-fantadrop---drop-building-loop-sequencer-plugin-with-built-in-bass-synth-68875?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68875" rel="alternate" />
+    <id>https://www.kvraudio.com/news/granvia-releases-fantadrop---drop-building-loop-sequencer-plugin-with-built-in-bass-synth-68875?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68875::v239</id>
+    <published>2026-10-06T15:51:00+00:00</published>
+    <updated>2026-10-06T15:51:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/fantadroptop.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/granvia-releases-fantadrop---drop-building-loop-sequencer-plugin-with-built-in-bass-synth-68875?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68875">kvraudio.com</a> | <a href="https://granvia.gumroad.com/l/ywhqtt">source</a></small></p><hr/><p>Granvia has released FantaDrop, a loop sequencer plugin designed to facilitate the creation of musical drops using audio samples. The software features five sample lanes, an integrated bass synthesizer, and tools for pitch and filter modulation, such as Pitch Elevation (PE) and Filter Elevation (FE), to create rhythmic variations without the use of artificial intelligence.</p><p>A free version with most features is available via itch.io, while a $20 full version is available on Gumroad with expanded sequencing and sample set saving. The plugin is compatible with macOS (VST3, AU) and Windows (VST3) and supports WAV, AIFF, MP3, and FLAC audio formats.</p><p><img src="https://static.kvraudio.com/i/b/fantadroptop.jpg" /></p><hr/><small>6 Oct 2026, 21:09 UTC | #23451</small>]]></content>
+  </entry>
   <entry>
     <title>AnalogFX Releases LARYNX Analogue Synthesizer</title>
     <link href="https://musictech.com/news/gear/the-larynx-a-new-feature-packed-hard-synth-from-analogfx-is-available-now/" rel="alternate" />
