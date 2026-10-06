@@ -901,12 +901,4 @@
     <media:thumbnail url="https://blogs.npav.net/media/magefan_blog/Group_1000007514.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lwn.net/Articles/1097401/">lwn.net</a> | <a href="https://security-tracker.debian.org/tracker/DSA-6528-1">source</a> | <a href="https://news.ycombinator.com/item?id=49928121">hacker news</a></small></p><hr/><p>Debian has issued security advisory DSA-6528-1 to address numerous vulnerabilities in the Linux kernel. These flaws could potentially lead to privilege escalation, denial of service, or information leaks.</p><p>The updates are available for the Debian stable (trixie) distribution, where the issues have been fixed in version 6.12.111-1. Users are encouraged to upgrade their linux packages to mitigate the security risks associated with the listed CVEs.</p><p><img src="https://blogs.npav.net/media/magefan_blog/Group_1000007514.png" /></p><hr/><small>2 Oct 2026, 06:45 UTC | #23045</small>]]></content>
   </entry>
-  <entry>
-    <title>Cloudflare Launches K2 Serverless Event Streams in Public Beta</title>
-    <link href="https://blog.cloudflare.com/cloudflare-k2-streams/" rel="alternate" />
-    <id>https://blog.cloudflare.com/cloudflare-k2-streams/::v239</id>
-    <published>2026-10-01T21:58:00+00:00</published>
-    <updated>2026-10-01T21:58:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.cloudflare.com/cloudflare-k2-streams/">blog.cloudflare.com</a> | <a href="https://news.ycombinator.com/item?id=49921923">hacker news</a></small></p><hr/><p>Cloudflare has launched K2, a serverless event streaming service, in public beta. Built on top of R2 object storage, K2 provides a durable, partitioned log that decouples data producers from consumers, allowing independent readers to consume events at their own pace with long-term retention.</p><p>The service is designed for high-scale data movement and fan-out consumption, distinguishing it from Cloudflare's existing Queues and Basin Pipelines services. Currently available to Workers Paid subscribers, the roadmap for K2 includes future features such as Apache Kafka client support, key-based ordering, and increased write parallelism.</p><hr/><small>2 Oct 2026, 05:25 UTC | #23042</small>]]></content>
-  </entry>
 </feed>
