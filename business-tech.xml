@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-05T21:02:00+00:00</updated>
+  <updated>2026-10-05T22:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>ChatGPT Reproduces Real New Yorker Cartoonists' Signatures in AI-Generated Images</title>
+    <link href="https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/" rel="alternate" />
+    <id>https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/::v239</id>
+    <published>2026-10-05T22:47:00+00:00</published>
+    <updated>2026-10-05T22:47:00+00:00</updated>
+    <media:thumbnail url="https://www.niemanlab.org/images/flakes-cartoon-side.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/">niemanlab.org</a> | <a href="https://news.ycombinator.com/item?id=49971846">hacker news</a></small></p><hr/><p>ChatGPT is generating New Yorker-style cartoons that include the actual signatures or pen names of real magazine contributors, such as Brendan Loper and Emily Flake. These AI-generated images falsely attribute the work to the named artists, causing confusion on social media and leading creators to characterize the practice as a violation of their identity and brand.</p><p>While OpenAI has implemented guardrails to prevent content that mimics third-party material, investigations show the chatbot continues to reproduce specific artist signatures. This phenomenon highlights the legal and social tensions regarding the "right of publicity" and the impact of AI-generated content on the livelihoods and brand integrity of professional artists.</p><p><img src="https://www.niemanlab.org/images/flakes-cartoon-side.jpg" /></p><hr/><small>6 Oct 2026, 00:53 UTC | #23376</small>]]></content>
+  </entry>
   <entry>
     <title>CFTC Proposes Framework for Leveraged Retail Crypto Trading</title>
     <link href="https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701" rel="alternate" />
