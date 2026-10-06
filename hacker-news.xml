@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-06T08:12:00+00:00</updated>
+  <updated>2026-10-06T09:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Montray: Lightweight Tray Icon for Systemd and CLI Monitoring</title>
+    <link href="https://github.com/dimonomid/montray/" rel="alternate" />
+    <id>https://github.com/dimonomid/montray/::v239</id>
+    <published>2026-10-06T09:08:00+00:00</published>
+    <updated>2026-10-06T09:08:00+00:00</updated>
+    <media:thumbnail url="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/06/close-up-of-a-windows-11-taskbar-with-multiple-system-tray-icons-expanded.png?w=1600&amp;h=900&amp;fit=crop" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/dimonomid/montray/">github.com</a> | <a href="https://lobste.rs/s/gveu0c/montray_tray_icon_for_systemd_service">discussion</a></small></p><hr/><p>Montray is a lightweight monitoring utility that provides tray icons and desktop alerts for systemd services and custom command-line health checks. It consists of montray-server, a Go-based background service that monitors health and serves data via a WebSocket API, and montray-ui, a Rust-based desktop application used for the user interface and notifications.</p><p>The tool facilitates monitoring of both local and remote machines using SSH tunnels, TLS, or bearer tokens. It uses a color-coded tray icon to signal status: green for OK, blinking yellow for warnings, and blinking red for errors.</p><p><img src="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/06/close-up-of-a-windows-11-taskbar-with-multiple-system-tray-icons-expanded.png?w=1600&h=900&fit=crop" /></p><hr/><small>6 Oct 2026, 13:24 UTC | #23432</small>]]></content>
+  </entry>
   <entry>
     <title>Newgrounds Implements NG Guard to Mitigate DDoS Attacks</title>
     <link href="https://www.newgrounds.com/" rel="alternate" />
@@ -910,48 +919,5 @@
     <updated>2026-10-01T16:25:00+00:00</updated>
     <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQFpBukao9sADw/feedshare-shrink_800/B4EZ0k6.yIJcAc-/0/1774440934978?e=2147483647&amp;v=beta&amp;t=PQoBxnFjk69OB-YIL6MZsc0YGJ6vo7Jxt7mupbbQDMQ" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://amoffat.github.io/blog/cognitive-load.html">amoffat.github.io</a> | <a href="https://lobste.rs/s/iwvjr0/reducing_cognitive_load_ai_changes">discussion</a></small></p><hr/><p>Developers can reduce the mental overhead of reviewing AI-generated code by synchronizing LLM terminology with their own established naming conventions. This technique involves using a specific prompt to identify unconventional terms and mapping them to preferred alternatives across the source code and documentation.</p><p>This process mitigates the accumulation of cognitive load caused by unfamiliar semantic mappings in large, complex updates. Aligning the AI's language with a developer's existing mental model makes the code more intuitive and significantly easier to review.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQFpBukao9sADw/feedshare-shrink_800/B4EZ0k6.yIJcAc-/0/1774440934978?e=2147483647&v=beta&t=PQoBxnFjk69OB-YIL6MZsc0YGJ6vo7Jxt7mupbbQDMQ" /></p><hr/><small>1 Oct 2026, 19:56 UTC | #23015</small>]]></content>
-  </entry>
-  <entry>
-    <title>wgsl-rs Reaches Beta Release</title>
-    <link href="https://renderling.xyz/articles/wgsl-rs-beta-release.html" rel="alternate" />
-    <id>https://renderling.xyz/articles/wgsl-rs-beta-release.html::v239</id>
-    <published>2026-10-01T13:31:00+00:00</published>
-    <updated>2026-10-01T13:31:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://renderling.xyz/articles/wgsl-rs-beta-release.html">renderling.xyz</a> | <a href="https://lobste.rs/s/enijty/rust_wgsl_transpiler_wgsl_rs_released">discussion</a></small></p><hr/><p>The `wgsl-rs` crate has released its 0.1.0-beta version on crates.io, addressing several semantic discrepancies between Rust and WGSL. Technical updates include resolving operator precedence mismatches, implementing a post-monomorphization pass to handle vector equality, and adding a literal-suffix anchoring pass to ensure accurate type inference. The release also introduces runtime `wgpu` linkage from the intermediate representation and improved binding visibility through transitive call-graph analysis.</p><p>The library enables developers to share type definitions between Rust and WGSL, allowing for CPU-side unit testing of shader code. `wgsl-rs` is currently utilized by the `gpui-ce` project. Future development goals for the project include porting the `crabslab` and `craballoc` crates from Rust-GPU and implementing an Entity Component System (ECS) designed to run on the GPU.</p><hr/><small>1 Oct 2026, 18:25 UTC | #23003</small>]]></content>
-  </entry>
-  <entry>
-    <title>Legato Launches AI-Powered Hearing Glasses</title>
-    <link href="https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/::v239</id>
-    <published>2026-10-01T13:28:00+00:00</published>
-    <updated>2026-10-01T13:28:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/">techcrunch.com</a> | <a href="https://www.legatohearing.com/">source</a></small></p><hr/><p>Legato has released Legato Frames, AI-powered eyewear designed for adults with up to moderate hearing loss. Starting at $999, the glasses use a dual-speaker system to distinguish and amplify voices while reducing background noise via an open-ear design that performs all processing on-device without cameras.</p><p>The 34-gram frames offer 10–12 hours of battery life, support prescription lenses, and include Bluetooth streaming. The startup is making the devices available through its website and select U.S. eye care providers, where they are eligible for vision insurance coverage.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-3.15.49-PM.png?w=680" /></p><hr/><small>1 Oct 2026, 18:13 UTC | #22964</small>]]></content>
-  </entry>
-  <entry>
-    <title>Netlify Replaces V8 Isolates with Firecracker MicroVMs for Edge Functions</title>
-    <link href="https://www.netlify.com/blog/edge-functions-firecracker-microvms/" rel="alternate" />
-    <id>https://www.netlify.com/blog/edge-functions-firecracker-microvms/::v239</id>
-    <published>2026-10-01T13:21:00+00:00</published>
-    <updated>2026-10-01T13:21:00+00:00</updated>
-    <media:thumbnail url="https://www.netlify.com/images/blog/edge-functions-median-latency.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.netlify.com/blog/edge-functions-firecracker-microvms/">netlify.com</a> | <a href="https://news.ycombinator.com/item?id=49912444">hacker news</a></small></p><hr/><p>Netlify has transitioned its Edge Functions infrastructure from V8 isolates to Firecracker MicroVMs, reducing median warm-invocation latency from 25–40ms to approximately 5–6ms. Developed in collaboration with Unikraft, the new architecture utilizes MicroVM snapshots and EROFS image mounting to achieve faster startup times and enhanced security isolation between customer workloads.</p><p>This infrastructure overhaul enables expanded runtime capabilities, such as beta support for npm packages and increased CPU and memory limits that were previously constrained by the isolate-based model. The update is currently live for all production traffic and requires no changes to existing developer workflows, URL imports, or configuration settings.</p><p><img src="https://www.netlify.com/images/blog/edge-functions-median-latency.png" /></p><hr/><small>1 Oct 2026, 17:50 UTC | #22998</small>]]></content>
-  </entry>
-  <entry>
-    <title>Paragon Solutions CEO Discusses Lack of Oversight in Spyware Operations</title>
-    <link href="https://www.wired.com/story/the-secrets-of-the-us-spyware-king/" rel="alternate" />
-    <id>https://www.wired.com/story/the-secrets-of-the-us-spyware-king/::v239</id>
-    <published>2026-10-01T13:18:00+00:00</published>
-    <updated>2026-10-01T13:18:00+00:00</updated>
-    <media:thumbnail url="https://media.wired.com/photos/6aba97561391d3eb891b72a2/master/w_2560%2Cc_limit/Security_The%2520Secret%2520Truth%2520of%2520the%2520US%25E2%2580%2599s%2520Most%2520Transparent%2520Spyware%2520Maker_v1.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/the-secrets-of-the-us-spyware-king/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=49921065">hacker news</a></small></p><hr/><p>Paragon Solutions CEO Andrew Boyd admits the company lacks the technical capability to monitor whether customers misuse its Graphite spyware or to implement a "kill switch" to stop unauthorized surveillance. This follows allegations from WhatsApp and Citizen Lab that the tool was used to target journalists and activists in more than 20 countries. Boyd characterized the lack of access to customer logs as a "balancing act" intended to protect customer privacy and commercial viability.</p><p>The company, which merged with REDLattice following a US acquisition by AE Industrial Partners, has faced criticism for potentially helping firms bypass foreign-ownership restrictions on surveillance technology. Lawmakers and researchers argue that this lack of transparency regarding customer targeting represents a significant accountability gap compared to competitors like NSO Group.</p><p><img src="https://media.wired.com/photos/6aba97561391d3eb891b72a2/master/w_2560%2Cc_limit/Security_The%2520Secret%2520Truth%2520of%2520the%2520US%25E2%2580%2599s%2520Most%2520Transparent%2520Spyware%2520Maker_v1.jpg" /></p><hr/><small>1 Oct 2026, 17:46 UTC | #22948</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rust 1.99.0 Released</title>
-    <link href="https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/" rel="alternate" />
-    <id>https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/::v239</id>
-    <published>2026-10-01T13:09:00+00:00</published>
-    <updated>2026-10-01T13:09:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/dfvxvs/announcing_rust_1_99_0">discussion</a> | <a href="https://news.ycombinator.com/item?id=49920917">hacker news</a></small></p><hr/><p>`extern "C"` variadic functions are now stabilized, enabling the definition of functions with a variable number of arguments compatible with the C ABI. The update also adds methods for retrieving size and alignment information from raw pointers through `Layout::for_value_raw`, `mem::size_of_val_raw`, and `mem::align_of_val_raw`.</p><p>Documentation for `Box::leak` has been updated to discourage deallocating memory after the initial leak to avoid conflicts with compiler optimizations and upcoming custom allocator features. Other stabilized APIs include `Vec::into_parts`, `String::from_utf8_lossy_owned`, and `VecDeque::retain_back`.</p><hr/><small>1 Oct 2026, 16:24 UTC | #22980</small>]]></content>
   </entry>
 </feed>

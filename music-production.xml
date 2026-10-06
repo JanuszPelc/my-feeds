@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-06T08:14:00+00:00</updated>
+  <updated>2026-10-06T08:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Baby Audio Releases HyperWarp Granular Multi-Effect</title>
+    <link href="https://www.kvraudio.com/news/baby-audio-releases-hyperwarp---granular-multi-effect-with-graphical-time-sequencing-68925?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68925" rel="alternate" />
+    <id>https://www.kvraudio.com/news/baby-audio-releases-hyperwarp---granular-multi-effect-with-graphical-time-sequencing-68925?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68925::v239</id>
+    <published>2026-10-06T08:19:00+00:00</published>
+    <updated>2026-10-06T08:19:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/hyperwarp-official-ui-cutout-large.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/baby-audio-releases-hyperwarp---granular-multi-effect-with-graphical-time-sequencing-68925?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68925">kvraudio.com</a> | <a href="https://babyaud.io/hyperwarp">source</a></small></p><hr/><p>The plugin features a graphical sequencer designed to manipulate time through drawing custom patterns. Users can define speed shifts, stutters, and playback directions to reshape audio loops and stems into rhythmic or textured sequences.</p><p>Seven processing profiles are included, ranging from clean time manipulation to lo-fi degradation, with each profile providing four dedicated macro controls. HyperWarp is available for macOS and Windows in VST, VST3, AU, and AAX formats at an introductory price of $49.</p><p><img src="https://static.kvraudio.com/i/b/hyperwarp-official-ui-cutout-large.jpg" /></p><hr/><small>6 Oct 2026, 13:20 UTC | #23401</small>]]></content>
+  </entry>
   <entry>
     <title>Kaelin Ellis Discusses Studio Gear and Production on My Forever Studio Podcast</title>
     <link href="https://musictech.com/shows/podcasts/my-forever-studio/kaelin-ellis/" rel="alternate" />
@@ -573,14 +582,5 @@
     <updated>2026-10-01T16:20:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/plugin-interface.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/salonebeats-releases-slb-key---free-key-and-bpm-detection-plugin-vst3-beta-68839?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68839">kvraudio.com</a> | <a href="https://salonebeats.gumroad.com/l/slb-key">source</a></small></p><hr/><p>Salonebeats has released SLB Key, a free VST3 beta plugin for macOS and Windows that provides real-time key and BPM detection. The tool analyzes audio on a mixer track to display detected keys using Camelot numbering, confidence levels, and relative keys, alongside tempo detection with half and double time options.</p><p>Version 1.2.2 features a seven-language interface and has been trained on real samples and beats to improve accuracy. While the plugin is particularly strong with minor keys and can detect tempo in instrumentals, the developer notes that installers are not yet code-signed and may trigger security warnings during installation.</p><p><img src="https://static.kvraudio.com/i/b/plugin-interface.png" /></p><hr/><small>1 Oct 2026, 19:03 UTC | #22984</small>]]></content>
-  </entry>
-  <entry>
-    <title>MKSREC Releases Kruszyna Bitcrusher Plugin</title>
-    <link href="https://www.kvraudio.com/news/mksrec-releases-kruszyna---bitcrusher-plugin-vst3-and-au-68838?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68838" rel="alternate" />
-    <id>https://www.kvraudio.com/news/mksrec-releases-kruszyna---bitcrusher-plugin-vst3-and-au-68838?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68838::v239</id>
-    <published>2026-10-01T13:12:00+00:00</published>
-    <updated>2026-10-01T13:12:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/plugin-interface6.webp" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/mksrec-releases-kruszyna---bitcrusher-plugin-vst3-and-au-68838?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68838">kvraudio.com</a> | <a href="https://mksrec.com/products/kruszyna-classic-ad-da-reimagined">source</a></small></p><hr/><p>Kruszyna emulates the sonic character of an early 12-bit sampler by modeling hardware-specific elements such as steep input filters and converter irregularities. The plugin integrates recording and playback stages into a single continuous path, allowing it to be used in real time on tracks or buses.</p><p>The software is available for Windows and macOS in VST3 and AU formats for £49.99. A functional demo is provided, which operates on a 51-second repeating cycle featuring periodic volume fades.</p><p><img src="https://static.kvraudio.com/i/b/plugin-interface6.webp" /></p><hr/><small>1 Oct 2026, 16:50 UTC | #22961</small>]]></content>
   </entry>
 </feed>
