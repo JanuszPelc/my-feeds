@@ -3,9 +3,35 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-06T14:08:00+00:00</updated>
+  <updated>2026-10-06T14:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Temecula DSP Releases Nibbi Free Sampler Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/06/temecula-dsp-nibbi/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/06/temecula-dsp-nibbi/::v239</id>
+    <published>2026-10-06T14:45:00+00:00</published>
+    <updated>2026-10-06T14:45:00+00:00</updated>
+    <media:thumbnail url="https://synthanatomy.com/wp-content/uploads/2024/05/Chompi-Club-Tempo-firmware.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/06/temecula-dsp-nibbi/">bedroomproducersblog.com</a> | <a href="https://www.temeculadsp.com/nibbi">source</a> | <a href="https://bedroomproducersblog.com/2026/10/06/temecula-dsp-nibbi/#respond">discussion</a></small></p><hr/><p>Temecula DSP has released Nibbi, a free sampler plugin for macOS and Windows based on the open-source firmware of the CHOMPI hardware sampler. The instrument features seven voices, S950 playback, and a built-in tape looper for rhythmic sample slicing and manual sound manipulation.</p><p>Nibbi is available in VST3, AU, and AAX formats, as well as a standalone desktop application. The plugin ports the workflow and sound engine of the CHOMPI hardware directly into digital audio workstations.</p><p><img src="https://synthanatomy.com/wp-content/uploads/2024/05/Chompi-Club-Tempo-firmware.jpg" /></p><hr/><small>6 Oct 2026, 20:05 UTC | #23470</small>]]></content>
+  </entry>
+  <entry>
+    <title>Idle Foundry Releases CA-72 Open-Source Minimoog-Inspired Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/06/ca-72-minimoog/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/06/ca-72-minimoog/::v239</id>
+    <published>2026-10-06T14:39:00+00:00</published>
+    <updated>2026-10-06T14:39:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/06/ca-72-minimoog/">bedroomproducersblog.com</a> | <a href="https://github.com/idlefoundry/ca-72">source</a> | <a href="https://bedroomproducersblog.com/2026/10/06/ca-72-minimoog/#comments">discussion</a></small></p><hr/><p>Idle Foundry has released CA-72, a free and open-source synthesizer plugin modeled after the 1972-73 Minimoog Model D circuit. The plugin uses a digital model of the CA3046-era oscillator board and is available in VST3 and CLAP formats for macOS, Windows, and Linux.</p><p>The software provides 2 to 10 voices of polyphony and incorporates features like per-voice variation, drift, stereo spread, and feedback. These elements are designed to emulate the specific sonic characteristics of the vintage three-oscillator, ladder-filter architecture.</p><hr/><small>6 Oct 2026, 20:03 UTC | #23471</small>]]></content>
+  </entry>
+  <entry>
+    <title>HoRNet Butterfly Mastering Plugin Available via BPB Giveaway</title>
+    <link href="https://bedroomproducersblog.com/2026/10/06/bpb-exclusive-hornet-butterfly/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/06/bpb-exclusive-hornet-butterfly/::v239</id>
+    <published>2026-10-06T14:22:00+00:00</published>
+    <updated>2026-10-06T14:22:00+00:00</updated>
+    <media:thumbnail url="https://plugins.audio/__og-image__/image/products/hornet-plugins/hornet-butterfly/og.png" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/06/bpb-exclusive-hornet-butterfly/">bedroomproducersblog.com</a> | <a href="https://www.hornetplugins.com/plugins/hornet-butterfly/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/06/bpb-exclusive-hornet-butterfly/#comments">discussion</a></small></p><hr/><p>The Butterfly mastering processor and channel strip from HoRNet Plugins is available for free through a Bedroom Producers Blog (BPB) exclusive giveaway. This promotion runs from October 6 to October 10, 2026.</p><p>Retailing for €37.99, the plugin is designed to function as both a mastering tool and a channel strip for stereo mixes. To claim the plugin, users must apply the coupon code BPBBUTTERFLY.</p><p><img src="https://plugins.audio/__og-image__/image/products/hornet-plugins/hornet-butterfly/og.png" /></p><hr/><small>6 Oct 2026, 20:01 UTC | #23442</small>]]></content>
+  </entry>
   <entry>
     <title>KERN Audio Adds AAX Support to All Six Plugins</title>
     <link href="https://www.kvraudio.com/news/kern-audio-adds-aax-to-all-six-plugins-pro-tools-macos-and-windows-68715?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68715" rel="alternate" />
@@ -566,31 +592,5 @@
     <updated>2026-10-02T01:34:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/misomidix-box.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/remi-blaze-releases-misomidix---genre-driven-midi-generator-for-macos-and-windows-68851?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68851">kvraudio.com</a> | <a href="https://www.remiblaze.com/plugins/misomidix/">source</a></small></p><hr/><p>Remi Blaze has released Misomidix, a MIDI generator for macOS and Windows that produces genre-specific musical patterns. The plugin generates six interdependent parts—drums, chords, bass, melody, stabs, and arpeggios—using dependency logic to maintain rhythmic and harmonic cohesion across all parts.</p><p>Fourteen built-in genres range from House and Techno to Hip Hop and Rock. Output is shaped by six macros, including Complexity and Swing, and users can export multi-track MIDI files or use the simplified "Raw" one-knob edition for rapid loop generation.</p><p><img src="https://static.kvraudio.com/i/b/misomidix-box.png" /></p><hr/><small>2 Oct 2026, 09:03 UTC | #23050</small>]]></content>
-  </entry>
-  <entry>
-    <title>Strymon Introduces La Brea Analog Tape Saturation Pedal</title>
-    <link href="https://www.kvraudio.com/news/strymon-introduces-la-brea-analog-tape-saturation-pedal-68848?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68848" rel="alternate" />
-    <id>https://www.kvraudio.com/news/strymon-introduces-la-brea-analog-tape-saturation-pedal-68848?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68848::v239</id>
-    <published>2026-10-01T20:02:00+00:00</published>
-    <updated>2026-10-01T20:02:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/labrea_press_topdown_trans_site-1326x2048.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/strymon-introduces-la-brea-analog-tape-saturation-pedal-68848?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68848">kvraudio.com</a> | <a href="https://www.strymon.net/product/la-brea/">source</a></small></p><hr/><p>La Brea is an all-analog tape saturation pedal providing gain ranges from mild breakup to borderline fuzz. It features multi-stage saturation, natural tape-style compression, and a fully variable, phase-aligned dry signal path to maintain clarity.</p><p>Part of Strymon's Series A analog line, the pedal's development was inspired by research related to the company's Deco pedal. The unit operates at 24 volts for increased headroom and includes a three-position Shift switch for tonal shaping.</p><p><img src="https://static.kvraudio.com/i/b/labrea_press_topdown_trans_site-1326x2048.jpg" /></p><hr/><small>2 Oct 2026, 00:55 UTC | #23017</small>]]></content>
-  </entry>
-  <entry>
-    <title>Audio Modeling Releases Camelot v2.5.4 Update</title>
-    <link href="https://www.kvraudio.com/news/audio-modeling-updates-camelot-to-v2-5-4-68847?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68847" rel="alternate" />
-    <id>https://www.kvraudio.com/news/audio-modeling-updates-camelot-to-v2-5-4-68847?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68847::v239</id>
-    <published>2026-10-01T19:55:00+00:00</published>
-    <updated>2026-10-01T19:55:00+00:00</updated>
-    <media:thumbnail url="https://www.inpin.fun/wp-content/uploads/2025/10/1759356209-Audio_Modeling_Camelot.webp" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/audio-modeling-updates-camelot-to-v2-5-4-68847?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68847">kvraudio.com</a> | <a href="https://marketing.audiomodeling.com/r/2586c802c4abd8b2783206bb3">source</a></small></p><hr/><p>Audio Modeling has released version 2.5.4 of its Camelot software, introducing improvements to MIDI Clock synchronization and live workflow. The update optimizes MIDI message delivery to external devices during scene recall and adds automatic song reloading when audio hardware is changed or reconnected.</p><p>The release also addresses MIDI CC accuracy, sustain pedal behavior, and audio glitches occurring with multiple MIDI devices. Additionally, the update includes fixes for timeline playback, metronome behavior, and stability improvements for Windows and iOS.</p><p><img src="https://www.inpin.fun/wp-content/uploads/2025/10/1759356209-Audio_Modeling_Camelot.webp" /></p><hr/><small>2 Oct 2026, 00:10 UTC | #23012</small>]]></content>
-  </entry>
-  <entry>
-    <title>Hivetune Releases ENS-86 Free BBD Chorus Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/::v239</id>
-    <published>2026-10-01T19:36:00+00:00</published>
-    <updated>2026-10-01T19:36:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/#respond">discussion</a></small></p><hr/><p>Hivetune has released ENS-86, a free chorus plugin for macOS and Windows. The software emulates the sound of 1980s-era BBD (Bucket Brigade Device) technology found in vintage polyphonic synthesizers.</p><p>The plugin offers high-quality analog-modeled sound design and includes a dry/wet control for easy mixing within audio production workflows.</p><hr/><small>1 Oct 2026, 21:31 UTC | #22988</small>]]></content>
   </entry>
 </feed>

@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-06T13:57:00+00:00</updated>
+  <updated>2026-10-06T14:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Companies Switch to Open-Weight AI Models to Manage Rising Costs</title>
+    <link href="https://aiweekly.co/issues/ai-got-too-expensive-so-companies-are-moving-to-cheaper" rel="alternate" />
+    <id>https://aiweekly.co/issues/ai-got-too-expensive-so-companies-are-moving-to-cheaper::v239</id>
+    <published>2026-10-06T14:12:00+00:00</published>
+    <updated>2026-10-06T14:12:00+00:00</updated>
+    <media:thumbnail url="https://www.intelligentliving.co/wp-content/uploads/2026/04/analyzing-ai-access-open-source-open-weight-and-api-only-models.jpg" />
+    <content type="html"><![CDATA[<p><small>AI Weekly | <a href="https://aiweekly.co/issues/ai-got-too-expensive-so-companies-are-moving-to-cheaper">aiweekly.co</a></small></p><hr/><p>Companies are increasingly shifting from proprietary AI providers to open-weight models to mitigate rising costs and protect profit margins. Legal AI startup Harvey, for example, moved to Moonshot’s Kimi K3 to stabilize margins after a 20-fold increase in token usage caused its gross margins to drop to -50% while using OpenAI and Anthropic models.</p><p>This shift enables enterprises to treat AI models as swappable commodities that can be changed based on price and performance. As organizations optimize for metrics like "cost per completed task," AI deployment is expanding across diverse sectors, including algorithmic food pricing, medical research tools, and customer promotion targeting.</p><p><img src="https://www.intelligentliving.co/wp-content/uploads/2026/04/analyzing-ai-access-open-source-open-weight-and-api-only-models.jpg" /></p><hr/><small>6 Oct 2026, 19:55 UTC | #23476</small>]]></content>
+  </entry>
   <entry>
     <title>China Struggles to Recruit Foreign AI Researchers</title>
     <link href="https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html" rel="alternate" />
@@ -725,56 +734,5 @@
     <updated>2026-10-01T21:09:00+00:00</updated>
     <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/">techcrunch.com</a> | <a href="https://time.com/article/2026/10/01/donald-trump-2026-interview/">source</a></small></p><hr/><p>Reports from Time magazine indicate that Elon Musk's Grok AI chatbot provided strategic input to Donald Trump prior to the 2026 U.S. invasion of Venezuela. Sources claim Trump consulted the chatbot regarding public sentiment, with Grok predicting that many Venezuelans would celebrate the downfall of Nicolás Maduro.</p><p>This usage aligns with broader military integration of AI, as the Pentagon has reportedly utilized "Gov Grok" during the Iran War. Additionally, Elon Musk and Palmer Luckey have been selected to co-lead a Pentagon study examining the application of advanced technology in combat environments.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024" /></p><hr/><small>2 Oct 2026, 02:19 UTC | #23023</small>]]></content>
-  </entry>
-  <entry>
-    <title>US Judge Dismisses Google Antitrust Lawsuits From Chegg and Penske Media</title>
-    <link href="https://www.reuters.com/legal/litigation/google-wins-dismissal-chegg-penske-media-lawsuits-over-ai-overviews-2026-10-01/" rel="alternate" />
-    <id>https://www.reuters.com/legal/litigation/google-wins-dismissal-chegg-penske-media-lawsuits-over-ai-overviews-2026-10-01/::v239</id>
-    <published>2026-10-01T20:04:00+00:00</published>
-    <updated>2026-10-01T20:04:00+00:00</updated>
-    <media:thumbnail url="https://cdn1.editorialge.com/wp-content/uploads/2026/06/impact_google_ai_overviews.jpg.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/google-wins-dismissal-chegg-penske-media-lawsuits-over-ai-overviews-2026-10-01/">reuters.com</a></small></p><hr/><p>A US federal court has rejected allegations that Google’s AI Overviews violate antitrust laws by diminishing web traffic for publishers. The lawsuits, filed by education technology company Chegg and media publisher Penske Media, argued that the company's AI-generated summaries forced content inclusion at the expense of direct site visits.</p><p>US District Judge Amit Mehta ruled that the claims "fail to get out of the starting gate." The litigation reflects broader industry concerns regarding the impact of generative AI on the visibility and revenue of digital publishers and educational services.</p><p><img src="https://cdn1.editorialge.com/wp-content/uploads/2026/06/impact_google_ai_overviews.jpg.webp" /></p><hr/><small>2 Oct 2026, 01:53 UTC | #23010</small>]]></content>
-  </entry>
-  <entry>
-    <title>Gavin Newsom Vetoes California Bill Banning Smart Glass Recording in Private Spaces</title>
-    <link href="https://apnews.com/article/california-legislature-smart-glass-privacy-e599fbbff476b41b8a6ededcd2576cf9" rel="alternate" />
-    <id>https://apnews.com/article/california-legislature-smart-glass-privacy-e599fbbff476b41b8a6ededcd2576cf9::v239</id>
-    <published>2026-10-01T19:54:00+00:00</published>
-    <updated>2026-10-01T19:54:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://apnews.com/article/california-legislature-smart-glass-privacy-e599fbbff476b41b8a6ededcd2576cf9">apnews.com</a></small></p><hr/><p>California Governor Gavin Newsom has vetoed a bill that would have prohibited using smart glasses and other wearable technology to secretly record individuals in private settings. The legislation aimed to penalize unauthorized recording in sensitive locations such as changing rooms and doctor's offices.</p><p>Newsom cited an overly broad definition of wearable recording devices as the reason for the veto. The decision highlights the ongoing regulatory difficulty in balancing technological advancement with personal privacy protections.</p><hr/><small>1 Oct 2026, 23:58 UTC | #22997</small>]]></content>
-  </entry>
-  <entry>
-    <title>OpenAI Dismisses Three Safety Researchers for Alleged Information Leaks</title>
-    <link href="https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/::v239</id>
-    <published>2026-10-01T19:49:00+00:00</published>
-    <updated>2026-10-01T19:49:00+00:00</updated>
-    <media:thumbnail url="https://aistartupsnews.com/assets/img/openai-staff-member-resigns-over-concerns-of-research-bias-1600.jpg" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/">techcrunch.com</a> | <a href="https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528">source</a> | <a href="https://news.ycombinator.com/item?id=49923737">hacker news</a></small></p><hr/><p>OpenAI has dismissed three researchers from its safety team after an internal investigation found they mishandled sensitive company information. The researchers allegedly shared confidential data with a third-party AI safety organization, violating internal procedures and security policies regarding the handling of proprietary information.</p><p>The departures occur amid reports that OpenAI executives have deprioritized employee warnings regarding safety and security protocols. This internal friction follows several recent security incidents involving AI agents and the company's recent decision to scrap the development of the GPT-6.1 Astra model due to safety concerns.</p><p><img src="https://aistartupsnews.com/assets/img/openai-staff-member-resigns-over-concerns-of-research-bias-1600.jpg" /></p><hr/><small>1 Oct 2026, 23:27 UTC | #23007</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ryan Roslansky to Leave Microsoft Leadership</title>
-    <link href="https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving" rel="alternate" />
-    <id>https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving::v239</id>
-    <published>2026-10-01T19:48:00+00:00</published>
-    <updated>2026-10-01T19:48:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving">theverge.com</a> | <a href="https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/">source</a></small></p><hr/><p>Ryan Roslansky, the former CEO of LinkedIn who recently assumed leadership of Microsoft's Office and Teams divisions, is departing the company after 18 years. His exit triggers a leadership reshuffle that moves the Office and Teams organizations to Charles Lamanna within Microsoft’s Copilot, Agents, and Platform (CAP) organization.</p><p>Roslansky stated his decision was driven by a desire to remain in the Bay Area rather than relocating to Microsoft's headquarters in Redmond. The reorganization occurs as Microsoft continues to restructure its productivity and AI-focused divisions.</p><hr/><small>1 Oct 2026, 23:26 UTC | #22986</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Ends Enterprise Discounts Once Usage Limits Are Reached</title>
-    <link href="https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending" rel="alternate" />
-    <id>https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending::v239</id>
-    <published>2026-10-01T19:47:00+00:00</published>
-    <updated>2026-10-01T19:47:00+00:00</updated>
-    <media:thumbnail url="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/68e95d943ddc6fbcf1d6b2df_83d5d9d1b69f1847c4ee9c196b81ecb3b1494785-2400x1674.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/anthropic-openai-fighting-enterprise-spending">theinformation.com</a></small></p><hr/><p>Enterprise customers will no longer receive approximately 15% discounts once they reach their contracted token limits. This policy forces companies that exceed their allotted usage to either renegotiate their contracts or revert to standard pricing.</p><p>This approach creates an opening for competitors like OpenAI, which reportedly provides a one-to-two-month grace period for customers to renegotiate terms after reaching consumption limits. The strategy highlights the intensifying competition for enterprise AI spending as providers attempt to maximize revenue from high-volume users.</p><p><img src="https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/68e95d943ddc6fbcf1d6b2df_83d5d9d1b69f1847c4ee9c196b81ecb3b1494785-2400x1674.png" /></p><hr/><small>1 Oct 2026, 23:12 UTC | #22985</small>]]></content>
-  </entry>
-  <entry>
-    <title>Donald Trump Discusses Iran, AI, and Media in 2026 TIME Interview</title>
-    <link href="https://time.com/article/2026/10/01/donald-trump-2026-interview-transcript/" rel="alternate" />
-    <id>https://time.com/article/2026/10/01/donald-trump-2026-interview-transcript/::v239</id>
-    <published>2026-10-01T19:41:00+00:00</published>
-    <updated>2026-10-01T19:41:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://time.com/article/2026/10/01/donald-trump-2026-interview-transcript/">time.com</a></small></p><hr/><p>Donald Trump discusses his administration's military operations in Iran, the regulation of artificial intelligence, and his stance on the press during a White House interview with TIME. He claims that U.S. actions have dismantled much of Iran's naval, air force, and radar capabilities, asserting that these moves are aimed at establishing global peace.</p><p>The transcript also addresses the production and stockpiling of military munitions, the expansion of defense manufacturing plants, and the economic impact of oil prices. Trump also comments on his discussions with AI industry leaders and the legal challenges surrounding media access to the White House.</p><hr/><small>1 Oct 2026, 22:26 UTC | #22979</small>]]></content>
   </entry>
 </feed>

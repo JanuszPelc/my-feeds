@@ -318,37 +318,4 @@
     <updated>2026-10-01T21:48:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Unsloth Changelog | <a href="https://unsloth.ai/docs/new/changelog#command-palette--desktop-ui-ux">unsloth.ai</a> | <a href="https://github.com/unslothai/unsloth/releases">source</a></small></p><hr/><p>Unsloth has released updates to Unsloth Desktop, adding a command palette for navigation and shareable GGUF run settings. The update increases Laya decision model response speeds by up to 4.1x via hosted provider support and improves error reporting for model loading and generation.</p><p>The update introduces 4-bit LoRA training using original packed weights, reducing peak memory consumption for NVFP4 and INT4 checkpoints. Additional features include FastModel fine-tuning support for models like T5 and BART, expanded multi-GPU and AMD Windows support, and faster image model rendering.</p><hr/><small>2 Oct 2026, 05:10 UTC | #23041</small>]]></content>
   </entry>
-  <entry>
-    <title>OpenAI Launches Virtual Try-On and Favorites Features for ChatGPT Shopping</title>
-    <link href="https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/::v239</id>
-    <published>2026-10-01T19:59:00+00:00</published>
-    <updated>2026-10-01T19:59:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Favorites.jpg?w=680" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/">techcrunch.com</a></small></p><hr/><p>Users can now use ChatGPT to virtually try on clothing and accessories by uploading photos, a feature powered by the ChatGPT Images 2.5 model for enhanced textures and lighting. Additionally, a new "Favorites" function allows users to save discovered products to a dedicated Library for later use.</p><p>This expansion positions OpenAI in the fashion discovery market, targeting users who rely on Pinterest or Google for style inspiration. The move reflects a shift in OpenAI's retail strategy, prioritizing visual discovery over earlier, less successful attempts at instant in-app checkouts.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Favorites.jpg?w=680" /></p><hr/><small>2 Oct 2026, 00:37 UTC | #23013</small>]]></content>
-  </entry>
-  <entry>
-    <title>Graphite Research Identifies Distinctive Linguistic Tells in Frontier AI Models</title>
-    <link href="https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/::v239</id>
-    <published>2026-10-01T19:45:00+00:00</published>
-    <updated>2026-10-01T19:45:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/">techcrunch.com</a> | <a href="https://graphite.io/five-percent/research/ai-tells-opus-5-5-update">source</a></small></p><hr/><p>A study by the marketing firm Graphite has identified 13,000 phrases that appear significantly more frequently in AI-generated text than in human writing. While frontier models are successfully reducing once-obvious markers like em-dashes, they are instead developing new, model-specific linguistic patterns that serve as tells.</p><p>Claude Opus 5.5 frequently uses phrases such as "this matters" and "dependable," while OpenAI's Astra relies on "corrective framing" and hedging language like "may provide." While some models are approaching human-like word distributions, others are drifting further away, suggesting that distinctive AI signatures remain a persistent feature of large language models.</p><hr/><small>1 Oct 2026, 22:54 UTC | #23004</small>]]></content>
-  </entry>
-  <entry>
-    <title>AWS Releases Strands Decider 2B Open-Source Decision Model</title>
-    <link href="https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/::v239</id>
-    <published>2026-10-01T19:40:00+00:00</published>
-    <updated>2026-10-01T19:40:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/">techcrunch.com</a> | <a href="https://strandsagents.com/blog/introducing-strands-decider/">source</a> | <a href="https://news.ycombinator.com/item?id=49925676">hacker news</a></small></p><hr/><p>AWS has released Strands Decider 2B, an open-source decision model designed to facilitate AI agent workflows. Built on the Qwen3.5-2B architecture, the model provides high-speed, low-latency calibrated choices and confidence scores for specific tasks, such as selecting between pre-decided options. It is intended to act as a more cost-effective and reliable alternative to full-scale large language models for routine automation steps.</p><p>Developed by Amazon distinguished engineer Marc Brooker through Strands Labs, the release arrives as other labs, including OpenAI, develop similar specialized models. The project aims to address the need for structured, reliable decision-making in agentic systems while navigating the balance between specialized task accuracy and general linguistic intelligence.</p><hr/><small>1 Oct 2026, 21:58 UTC | #22995</small>]]></content>
-  </entry>
-  <entry>
-    <title>Shopify Debuts Canvas for AI-Driven Site Building</title>
-    <link href="https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/::v239</id>
-    <published>2026-10-01T19:38:00+00:00</published>
-    <updated>2026-10-01T19:38:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/">techcrunch.com</a> | <a href="https://www.shopify.com/news/introducing-canvas">source</a></small></p><hr/><p>Shopify has introduced Canvas, a tool that enables merchants to build and customize online stores through a chat interface powered by the Sidekick AI agent. Unlike traditional no-code builders that rely on modular sections, Canvas renders the store's actual underlying code in real time, allowing users to view live animations, interactivity, and responsive design changes as they communicate instructions to the AI.</p><p>The tool integrates Sidekick directly with Shopify’s theme architecture and utilizes screen captures to allow the AI to see the site exactly as a merchant does. This launch aligns Shopify with other AI-powered site-building platforms like Wix and Framer, targeting merchants who lack the technical expertise or budget for professional developers and designers.</p><hr/><small>1 Oct 2026, 21:54 UTC | #22987</small>]]></content>
-  </entry>
 </feed>
