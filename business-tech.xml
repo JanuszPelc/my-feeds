@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-06T09:50:00+00:00</updated>
+  <updated>2026-10-06T13:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Senator Adam Schiff Discusses AI Regulation and Tech Oversight</title>
+    <link href="https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption" rel="alternate" />
+    <id>https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption::v239</id>
+    <published>2026-10-06T13:18:00+00:00</published>
+    <updated>2026-10-06T13:18:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption">theverge.com</a></small></p><hr/><p>Senator Adam Schiff discusses the complexities of regulating artificial intelligence, specifically focusing on intellectual property rights and the potential national security implications of recursive AI. He critiques recent non-binding agreements between the White House and tech executives, arguing that the rapid pace of development requires proactive, formal legislation rather than voluntary self-regulation.</p><p>Schiff draws parallels between AI regulation and the difficulties of regulating social media, suggesting that the First Amendment and Section 230 have historically been used as shields against oversight. He also notes that the Supreme Court's overturning of Chevron deference may complicate the establishment of new AI regulatory agencies by increasing the likelihood of litigation.</p><hr/><small>6 Oct 2026, 15:02 UTC | #23396</small>]]></content>
+  </entry>
   <entry>
     <title>Insurers Brace for Multimillion-Dollar Claims from Rogue AI Agents</title>
     <link href="https://www.ft.com/content/a5caf8d4-992f-4832-89c3-6c73f6f111fe?accessToken=zwAAAaGnEvNukdOlyvjUmS9IMtOJw2xz9vER_gE.MEUCIC26ZqjN6sLwpwEYeTXFDMLeRsl791eP3rx-wumAiht-AiEAyYXcp5pW6YvG3IJriGwttg1X96Y7ufTirN5WmE1fqw0&amp;segmentId=7d4bcc2e-e664-92ba-62e3-5590579f1902" rel="alternate" />
