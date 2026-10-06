@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-06T13:32:00+00:00</updated>
+  <updated>2026-10-06T13:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Extending Lua with Zig: A Tutorial and Hello World Guide</title>
+    <link href="https://www.robbielyman.com/blog/extend-lua-with-zig-1/" rel="alternate" />
+    <id>https://www.robbielyman.com/blog/extend-lua-with-zig-1/::v239</id>
+    <published>2026-10-06T13:37:00+00:00</published>
+    <updated>2026-10-06T13:37:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.robbielyman.com/blog/extend-lua-with-zig-1/">robbielyman.com</a> | <a href="https://lobste.rs/s/tmr7jp/extend_lua_with_zig_1_hello_world">discussion</a></small></p><hr/><p>Extending the Lua scripting language with the Zig programming language begins with a "Hello World" implementation. Key concepts include the `@import` compiler builtin, `comptime` execution for compile-time logic, and Zig's approach to namespaces and visibility rules.</p><p>The implementation requires a `build.zig` script to manage modules and compile executable artifacts. Structural comparisons between Lua and Zig syntax facilitate the transition for developers moving from Lua to Zig.</p><hr/><small>6 Oct 2026, 16:59 UTC | #23455</small>]]></content>
+  </entry>
   <entry>
     <title>Polars 2.0 Released with Out-of-Core Support and First-Class SQL</title>
     <link href="https://pola.rs/posts/release-polars-2/" rel="alternate" />
