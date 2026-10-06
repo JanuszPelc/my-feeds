@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-05T19:26:00+00:00</updated>
+  <updated>2026-10-05T22:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Headstart Accelerates Rust Compilations Using Early Metadata</title>
+    <link href="https://github.com/PowderworksCode/headstart" rel="alternate" />
+    <id>https://github.com/PowderworksCode/headstart::v239</id>
+    <published>2026-10-05T22:54:00+00:00</published>
+    <updated>2026-10-05T22:54:00+00:00</updated>
+    <media:thumbnail url="https://github.com/PowderworksCode/headstart/raw/main/docs/images/codex-rs-utilization-off-vs-on.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/PowderworksCode/headstart">github.com</a> | <a href="https://news.ycombinator.com/item?id=49951218">hacker news</a></small></p><hr/><p>Headstart is an optimization project for the Rust programming language that allows dependent crates to begin compiling as soon as their dependency's interface is checked. By emitting an early metadata file (.early-rmeta) once interfaces are verified, the tool enables cargo check and cargo build to overlap compilation tasks, bypassing the need to wait for the full type-checking of function bodies in upstream crates.</p><p>Benchmarks on large-scale projects like rust-analyzer and bevy demonstrate performance improvements of up to 54% for cargo check and 42% for cargo build on 16-core machines. The project provides patches for both rustc and cargo with the intention of being integrated into the official Rust toolchain, though it introduces trade-offs such as increased memory usage and slightly delayed error reporting in some scenarios.</p><p><img src="https://github.com/PowderworksCode/headstart/raw/main/docs/images/codex-rs-utilization-off-vs-on.png" /></p><hr/><small>6 Oct 2026, 01:53 UTC | #23377</small>]]></content>
+  </entry>
   <entry>
     <title>Async Rust Concurrency and Scheduler Complexity</title>
     <link href="https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/" rel="alternate" />
