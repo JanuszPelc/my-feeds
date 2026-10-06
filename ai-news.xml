@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
   <entry>
+    <title>Instinct AI Agent Expands to Group Chats Supporting Non-Users</title>
+    <link href="https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/::v239</id>
+    <published>2026-10-05T21:03:00+00:00</published>
+    <updated>2026-10-05T21:03:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/">techcrunch.com</a> | <a href="https://x.com/noahrshinn/status/2107161132192690558">source</a></small></p><hr/><p>Users can now add Instinct's AI agent to group chats to coordinate tasks like travel planning or event logistics. Notably, the agent can function within these threads even if the other participants do not have an Instinct account. The feature is being rolled out to early access users first, with a wider release expected soon.</p><p>This move positions Instinct against consumer AI competitors such as Meta's Muse and OpenAI's ChatGPT Dots. To address privacy concerns, the company's personal agent requires explicit permission before connecting to a group agent, and the group session is siloed from the user's private account data.</p><hr/><small>6 Oct 2026, 00:06 UTC | #23359</small>]]></content>
+  </entry>
+  <entry>
     <title>TikTok Launches AI Shopping Assistant and One-Click Checkout</title>
     <link href="https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/" rel="alternate" />
     <id>https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/::v239</id>
