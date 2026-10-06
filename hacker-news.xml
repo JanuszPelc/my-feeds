@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-06T02:45:00+00:00</updated>
+  <updated>2026-10-06T03:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Common Lisp's Advantages for LLM-Driven Development</title>
+    <link href="https://www.vivienhenz.com/common-lisp" rel="alternate" />
+    <id>https://www.vivienhenz.com/common-lisp::v239</id>
+    <published>2026-10-06T03:53:00+00:00</published>
+    <updated>2026-10-06T03:53:00+00:00</updated>
+    <media:thumbnail url="https://assets.exercism.org/tracks/common-lisp/exercises/pangram/solutions/ExercismGhost-1697814359.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.vivienhenz.com/common-lisp">vivienhenz.com</a> | <a href="https://news.ycombinator.com/item?id=49973598">hacker news</a></small></p><hr/><p>Common Lisp's image-based architecture and interactive debugging offer significant advantages for development workflows utilizing Large Language Models (LLMs). As LLMs accelerate code generation, the developmental bottleneck shifts to the time required to rebuild and execute programs; Common Lisp allows for live updates to a running memory image, effectively eliminating the compilation-restart loop.</p><p>The language's homoiconicity and macro system enable the creation of concise, domain-specific languages that align well with LLM capabilities. This conciseness reduces token costs and increases the likelihood of entire programs fitting within an LLM's context window, while the stable ANSI standard provides a consistent environment for long-term software evolution.</p><p><img src="https://assets.exercism.org/tracks/common-lisp/exercises/pangram/solutions/ExercismGhost-1697814359.jpg" /></p><hr/><small>6 Oct 2026, 10:18 UTC | #23409</small>]]></content>
+  </entry>
   <entry>
     <title>mailcheck SMTP and DNS Diagnostic Tool</title>
     <link href="https://git.sig-io.nl/Sig-IO/mailcheck/" rel="alternate" />
