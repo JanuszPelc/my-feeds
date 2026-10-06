@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-05T22:48:00+00:00</updated>
+  <updated>2026-10-05T22:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Meta and Microsoft Reducing Employee Use of Anthropic's Claude</title>
+    <link href="https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude" rel="alternate" />
+    <id>https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude::v239</id>
+    <published>2026-10-05T22:50:00+00:00</published>
+    <updated>2026-10-05T22:50:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude">theinformation.com</a></small></p><hr/><p>Meta Platforms and Microsoft are working to reduce employee usage of Anthropic's Claude AI. Meta's utilization of Claude Code has dropped from approximately 60,000 users earlier this year to 30,000.</p><p>The reduction is intended to prevent model distillation, a process where the output of an AI model is used to train a competing model. Meta is placing stricter limits on engineers' access to external AI tools to safeguard its proprietary technology and development processes.</p><hr/><small>6 Oct 2026, 01:40 UTC | #23357</small>]]></content>
+  </entry>
   <entry>
     <title>Jacob Coxon and AI Executives Testify at NYC Council AI Safety Hearing</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing" rel="alternate" />
