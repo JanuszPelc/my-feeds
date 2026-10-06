@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-06T13:27:00+00:00</updated>
+  <updated>2026-10-06T13:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Polars 2.0 Released with Out-of-Core Support and First-Class SQL</title>
+    <link href="https://pola.rs/posts/release-polars-2/" rel="alternate" />
+    <id>https://pola.rs/posts/release-polars-2/::v239</id>
+    <published>2026-10-06T13:32:00+00:00</published>
+    <updated>2026-10-06T13:32:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pola.rs/posts/release-polars-2/">pola.rs</a> | <a href="https://news.ycombinator.com/item?id=49977177">hacker news</a></small></p><hr/><p>The update introduces out-of-core support, allowing queries to spill to disk when memory limits are reached. It also makes the streaming engine the default for `collect` operations and integrates SQL as a first-class feature with optimized engine capabilities.</p><p>The release includes a new `Map` datatype and implements stricter data-type validation to facilitate faster error detection. Performance benchmarks for TPC-H and TPC-DS SQL queries show Polars leading DuckDB and DataFusion in several scenarios.</p><hr/><small>6 Oct 2026, 16:21 UTC | #23452</small>]]></content>
+  </entry>
   <entry>
     <title>South Korean Officials Probe Possible AI Involvement in Bank Hacks</title>
     <link href="https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html" rel="alternate" />
