@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-05T22:50:00+00:00</updated>
+  <updated>2026-10-05T23:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>North Richland Hills Demands $2.3 Million for Public Records on Flock Camera Usage</title>
+    <link href="https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/" rel="alternate" />
+    <id>https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/::v239</id>
+    <published>2026-10-05T23:07:00+00:00</published>
+    <updated>2026-10-05T23:07:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/">arstechnica.com</a> | <a href="https://www.texastribune.org/2026/10/05/texas-flock-cameras-two-million-public-records-information/">source</a> | <a href="https://news.ycombinator.com/item?id=49971523">hacker news</a></small></p><hr/><p>North Richland Hills, a suburb of Fort Worth, Texas, has demanded $2.3 million from the Texas Privacy Coalition to fulfill a public records request concerning the city's use of Flock Safety's automated license plate recognition (ALPR) cameras. The city's demand is based on the projected labor costs required to process the extensive amount of requested data.</p><p>The request occurs amid increasing scrutiny from privacy advocates regarding the surveillance capabilities and potential for unconstitutional searches involving Flock technology. While Flock offers optional transparency portals for agencies to publish usage statistics, only a small fraction of Texas agencies utilizing the system have opted to share such information with the public.</p><hr/><small>6 Oct 2026, 04:38 UTC | #23385</small>]]></content>
+  </entry>
   <entry>
     <title>Meta and Microsoft Reducing Employee Use of Anthropic's Claude</title>
     <link href="https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude" rel="alternate" />
