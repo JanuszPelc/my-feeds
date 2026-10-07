@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
   <entry>
+    <title>OpenAI Releases Mathematical Results Produced by Internal Model</title>
+    <link href="https://openai.com/index/sharing-ai-progress-in-mathematics/" rel="alternate" />
+    <id>https://openai.com/index/sharing-ai-progress-in-mathematics/::v239</id>
+    <published>2026-10-06T22:45:00+00:00</published>
+    <updated>2026-10-06T22:45:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://openai.com/index/sharing-ai-progress-in-mathematics/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=49984923">hacker news</a></small></p><hr/><p>OpenAI has released a collection of mathematical results produced by an internal frontier model, addressing open problems in mathematics and theoretical computer science. The release includes formal Lean proof formalizations, reasoning walkthroughs, and research manuscripts to allow the scientific community to verify the results.</p><p>On average, the computational effort required for these results was equivalent to approximately three hours of ChatGPT Pro "thinking" time. The company is sharing these formalizations and proof certificates to assist researchers in examining and expanding upon the AI-generated discoveries.</p><hr/><small>7 Oct 2026, 05:34 UTC | #23495</small>]]></content>
+  </entry>
+  <entry>
     <title>Anthropic Expands Cyber Verification Program with Three Access Tiers</title>
     <link href="https://www.anthropic.com/news/cyber-verification-program" rel="alternate" />
     <id>https://www.anthropic.com/news/cyber-verification-program::v239</id>
