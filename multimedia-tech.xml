@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-06T18:33:00+00:00</updated>
+  <updated>2026-10-06T20:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>GameStop and Other Retailers Increase Prices for Used PlayStation 5 Pro Units</title>
+    <link href="https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp" rel="alternate" />
+    <id>https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp::v239</id>
+    <published>2026-10-06T20:26:00+00:00</published>
+    <updated>2026-10-06T20:26:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltaf4636cf2bec4c65/6ac545181ba7959435dbc244/ps5profeatured.jpg?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp">gamedeveloper.com</a> | <a href="https://www.gamestop.com/consoles-hardware/playstation-5/consoles/products/sony-playstation-5-pro-console/20015604.html">source</a></small></p><hr/><p>Pre-owned PlayStation 5 Pro consoles are seeing significant price hikes at GameStop and other major retailers including Amazon, Best Buy, and Walmart. Used digital editions are being listed for $1,399.99, while disc-compatible versions are $1,499.99, representing a substantial markup over the manufacturer's suggested retail price.</p><p>The price surge is attributed to limited supply and heightened demand, particularly surrounding the anticipated release of Grand Theft Auto 6, which is marketed as "PS5 Pro Enhanced." This trend aligns with broader industry-wide upward pressure on gaming hardware pricing caused by ongoing component shortages affecting several major console manufacturers.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltaf4636cf2bec4c65/6ac545181ba7959435dbc244/ps5profeatured.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>7 Oct 2026, 00:02 UTC | #23472</small>]]></content>
+  </entry>
   <entry>
     <title>Undead Labs Head Discusses Transparency During Layoffs</title>
     <link href="https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs" rel="alternate" />

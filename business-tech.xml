@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-06T16:02:00+00:00</updated>
+  <updated>2026-10-06T20:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>a16z Seventh Edition Top 100 AI Consumer Apps Report Analyzes Market Trends</title>
+    <link href="https://a16z.com/" rel="alternate" />
+    <id>https://a16z.com/::v239</id>
+    <published>2026-10-06T20:24:00+00:00</published>
+    <updated>2026-10-06T20:24:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://a16z.com/">a16z.com</a> | <a href="https://a16z.com/100-gen-ai-apps-7/">source</a></small></p><hr/><p>ChatGPT holds three times as many U.S. consumer paid subscribers as Claude or Gemini. According to Andreessen Horowitz’s seventh edition of its Top 100 AI Consumer Apps report, Claude has emerged as the third-largest player, surpassing competitors like Perplexity and DeepSeek in traffic. The study also finds that the top 1% of users drive 19.5% of total consumer spending.</p><p>While AI adoption is expanding, user engagement remains relatively shallow across the sector. The report also identifies increasing traction for AI agents as a significant emerging trend in the consumer landscape.</p><hr/><small>7 Oct 2026, 00:00 UTC | #23459</small>]]></content>
+  </entry>
   <entry>
     <title>Anduril Secures $2.9 Billion Navy Contract for Submarine Component Manufacturing</title>
     <link href="https://www.cnbc.com/2026/10/06/anduril-navy-submarine-shipyard-contract.html" rel="alternate" />
