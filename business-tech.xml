@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-06T23:16:00+00:00</updated>
+  <updated>2026-10-07T01:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>GLM-5.3 Open Release Undercuts Arguments for Banning Open Models</title>
+    <link href="https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken" rel="alternate" />
+    <id>https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken::v239</id>
+    <published>2026-10-07T01:06:00+00:00</published>
+    <updated>2026-10-07T01:06:00+00:00</updated>
+    <media:thumbnail url="https://neurohive.io/wp-content/uploads/2026/02/GLM-5-benchmarks-results.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken">interconnects.ai</a></small></p><hr/><p>Despite Anthropic's warnings that Zhipu AI's GLM-5.3 model possesses "Mythos-level" capabilities for autonomous exploit generation, the model's open-weights release has not yet resulted in any major cyberattacks. This lack of observed real-world harm challenges the argument that releasing frontier-class open-weights models poses an inherently uncontrollable security risk.</p><p>Anthropic's research previously emphasized the danger of high-capability models enabling both state and non-state actors to conduct sophisticated, end-to-end attacks. The continued absence of widespread exploitation following the model's availability provides a counter-argument to proponents of strict regulation and bans on open-source AI models.</p><p><img src="https://neurohive.io/wp-content/uploads/2026/02/GLM-5-benchmarks-results.png" /></p><hr/><small>7 Oct 2026, 08:18 UTC | #23501</small>]]></content>
+  </entry>
   <entry>
     <title>SpaceX Seeks $40 Billion to Purchase Nvidia Chips</title>
     <link href="https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51" rel="alternate" />
@@ -666,13 +675,5 @@
     <updated>2026-10-02T09:32:00+00:00</updated>
     <media:thumbnail url="https://media.vanityfair.com/photos/6abc22976741bd9442f219fa/master/w_1600%2Cc_limit/VF1026%2520NE%2520ELLISON%2520%2520embed%25201.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.vanityfair.com/story/larry-ellison-profile">vanityfair.com</a></small></p><hr/><p>Beyond his leadership at Oracle, Larry Ellison is positioning himself at the center of critical global sectors. His reach includes driving AI infrastructure through partnerships with OpenAI, consolidating Hollywood via Skydance's acquisition of Paramount and Warner Bros. Discovery, and exerting political weight through significant donations and international connections.</p><p>Ellison's pervasive control is often described using an "octopus" metaphor, spanning his ownership of the island of Lanai, American media, and political circles. His recent activities are also shaped by an obsession with wellness and a desire to secure a lasting historical legacy.</p><p><img src="https://media.vanityfair.com/photos/6abc22976741bd9442f219fa/master/w_1600%2Cc_limit/VF1026%2520NE%2520ELLISON%2520%2520embed%25201.jpg" /></p><hr/><small>2 Oct 2026, 16:03 UTC | #23048</small>]]></content>
-  </entry>
-  <entry>
-    <title>Hacker News October 2026 Hiring Thread</title>
-    <link href="https://news.ycombinator.com/item?id=49922569" rel="alternate" />
-    <id>https://news.ycombinator.com/item?id=49922569::v239</id>
-    <published>2026-10-02T08:12:00+00:00</published>
-    <updated>2026-10-02T08:12:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49922569">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49922569">hacker news</a></small></p><hr/><p>Companies list open positions in this monthly forum, which requires specifying location, remote work availability, and company operations. To maintain direct engagement, recruiting firms and job boards are prohibited from posting, and only active hiring managers may participate.</p><p>External tools and aggregators are provided to help users search the compiled job data. A companion thread is also linked for individuals seeking employment to present their qualifications.</p><hr/><small>2 Oct 2026, 14:12 UTC | #23068</small>]]></content>
   </entry>
 </feed>
