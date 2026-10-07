@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
   <entry>
+    <title>Anthropic Expands Cyber Verification Program with Three Access Tiers</title>
+    <link href="https://www.anthropic.com/news/cyber-verification-program" rel="alternate" />
+    <id>https://www.anthropic.com/news/cyber-verification-program::v239</id>
+    <published>2026-10-06T20:38:00+00:00</published>
+    <updated>2026-10-06T20:38:00+00:00</updated>
+    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F2b1d3817fe9aa732e1be4ed18446a1b1367379e7-1920x2322.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/news/cyber-verification-program">anthropic.com</a></small></p><hr/><p>The expanded Cyber Verification Program (CVP) provides security professionals with advanced AI capabilities and reduced safety restrictions. The program is organized into three access tiers: Defense Access for general defensive security, Red Team Access for authorized penetration testing, and Specialized Access for testing critical infrastructure. These levels grant access to high-capability models such as Claude Opus 5.5 and Claude Mythos 5.1.</p><p>The program builds on the success of Project Glasswing, where partners identified over 129,000 software vulnerabilities. To mitigate the dual-use risks of these tools, Anthropic uses tiered verification and plans to release Enterprise Frontier Safeguards later this fall to support zero data retention in controlled environments.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F2b1d3817fe9aa732e1be4ed18446a1b1367379e7-1920x2322.png&w=3840&q=75" /></p><hr/><small>7 Oct 2026, 02:39 UTC | #23479</small>]]></content>
+  </entry>
+  <entry>
     <title>Musubi Launches PolicyLM-1.7B Decision Model for Content Moderation</title>
     <link href="https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/" rel="alternate" />
     <id>https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/::v239</id>
