@@ -3,9 +3,36 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-07T15:18:00+00:00</updated>
+  <updated>2026-10-07T16:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Chimera Linux Details cbuild Build Tooling Design</title>
+    <link href="https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html" rel="alternate" />
+    <id>https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html::v239</id>
+    <published>2026-10-07T16:24:00+00:00</published>
+    <updated>2026-10-07T16:24:00+00:00</updated>
+    <media:thumbnail url="https://chimera-linux.org/assets/screenshot.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html">chimera-linux.org</a> | <a href="https://lobste.rs/s/y5tke0/creating_distro_build_tooling_for_small">discussion</a></small></p><hr/><p>Chimera Linux's cbuild build system is designed to automate package management and reduce maintenance requirements for the project. The tool provides a unified, sandboxed environment for building, signing, and distributing packages, intended to enable users to act as package maintainers with minimal friction.</p><p>The design focuses on solving performance and security issues found in shell-based build systems, such as a lack of process isolation and slow introspection. Key features include integrated linting, mandatory unit testing, automated dependency validation, and streamlined cross-compilation workflows.</p><p><img src="https://chimera-linux.org/assets/screenshot.png" /></p><hr/><small>7 Oct 2026, 19:58 UTC | #23591</small>]]></content>
+  </entry>
+  <entry>
+    <title>Tony Fadell on the Failure of First-Generation AI Gadgets and Future Requirements</title>
+    <link href="https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/::v239</id>
+    <published>2026-10-07T15:24:00+00:00</published>
+    <updated>2026-10-07T15:24:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/10/tony-fadell-disrupt.jpg?resize=1536" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/">techcrunch.com</a></small></p><hr/><p>Initial AI hardware products, including the Rabbit R1 and Humane AI pin, failed to gain traction because they focused on novelty rather than solving essential consumer problems. Tony Fadell, the co-creator of the iPhone and founder of Nest, notes that widespread adoption is hindered by a lack of consumer understanding regarding how to effectively and safely use AI assistants.</p><p>Successful future AI agents will likely require on-device processing to prioritize privacy and minimize latency. As companies like Meta and OpenAI develop hardware to bypass mobile operating system limitations on sensor access, building consumer trust through robust data security will be the primary challenge for the next generation of AI-integrated devices.</p><p><img src="https://techcrunch.com/wp-content/uploads/2024/10/tony-fadell-disrupt.jpg?resize=1536" /></p><hr/><small>7 Oct 2026, 19:56 UTC | #23565</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta and Xreal Release Competing XR Glasses</title>
+    <link href="https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/" rel="alternate" />
+    <id>https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/::v239</id>
+    <published>2026-10-07T15:21:00+00:00</published>
+    <updated>2026-10-07T15:21:00+00:00</updated>
+    <media:thumbnail url="https://media.wired.com/photos/6ac61ca01ffdf1c4308efa44/master/w_1600%2Cc_limit/us_ggl_android_xr_xreal_aura_shoot_1920x1080_V3.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/">wired.com</a></small></p><hr/><p>Meta's $1,299 VR glasses and Xreal's $1,279 Aura XR glasses represent two different approaches to the emerging mixed-reality market. Meta's device features a 5K micro-OLED screen and high-precision hand tracking for seamless interaction, while Xreal’s Aura runs on the Android XR platform and utilizes physical lenses for real-world passthrough. Meta's device is expected to launch early next year, whereas Xreal is opening preorders now with a general public release expected in the coming weeks.</p><p>Meta's hardware is optimized for stationary tasks like video consumption and typing due to its fluid interactivity and high-resolution displays. In contrast, the Xreal Aura is better suited for movement, offering a more natural view of the surroundings through optical passthrough lenses rather than the video-based passthrough used by Meta. Both devices utilize a slimmed-down frame design paired with an external, pocketable compute puck for processing power.</p><p><img src="https://media.wired.com/photos/6ac61ca01ffdf1c4308efa44/master/w_1600%2Cc_limit/us_ggl_android_xr_xreal_aura_shoot_1920x1080_V3.png" /></p><hr/><small>7 Oct 2026, 19:50 UTC | #23547</small>]]></content>
+  </entry>
   <entry>
     <title>JBL Launches Cove Series Multi-Room Wi-Fi Speakers</title>
     <link href="https://musictech.com/news/gear/jbl-cove-series/" rel="alternate" />
