@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
   <entry>
+    <title>OpenAI Decisions API Enters Public Beta</title>
+    <link href="https://developers.openai.com/api/docs/guides/decisions" rel="alternate" />
+    <id>https://developers.openai.com/api/docs/guides/decisions::v239</id>
+    <published>2026-10-06T22:50:00+00:00</published>
+    <updated>2026-10-06T22:50:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://developers.openai.com/api/docs/guides/decisions">developers.openai.com</a> | <a href="https://news.ycombinator.com/item?id=49984025">hacker news</a></small></p><hr/><p>The Decisions API is in public beta, offering a high-speed endpoint for the rapid evaluation of text and images. Powered by the `gpt-6-luna` model, the API returns structured, typed answers—including probabilities, specific choices, or weighted scores—and is designed to operate up to 10 times faster than the Responses API.</p><p>The API is intended to facilitate tasks such as content classification, request routing, and workflow prioritization. It supports three distinct question types: `predicate` for evaluating conditional probabilities, `choice` for selecting from a fixed set of values, and `score` for rating inputs against ordered levels.</p><hr/><small>7 Oct 2026, 06:16 UTC | #23512</small>]]></content>
+  </entry>
+  <entry>
     <title>OpenAI Releases Mathematical Results Produced by Internal Model</title>
     <link href="https://openai.com/index/sharing-ai-progress-in-mathematics/" rel="alternate" />
     <id>https://openai.com/index/sharing-ai-progress-in-mathematics/::v239</id>
