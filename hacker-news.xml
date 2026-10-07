@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-07T16:35:00+00:00</updated>
+  <updated>2026-10-07T16:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Bigwords.page Enables Full-Screen Digital Signage via URL Parameters</title>
+    <link href="https://bigwords.page/" rel="alternate" />
+    <id>https://bigwords.page/::v239</id>
+    <published>2026-10-07T16:56:00+00:00</published>
+    <updated>2026-10-07T16:56:00+00:00</updated>
+    <media:thumbnail url="https://localscreens.pl/wp-content/uploads/2023/02/biuro-digital-signage-1.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://bigwords.page/">bigwords.page</a> | <a href="https://news.ycombinator.com/item?id=49994443">hacker news</a></small></p><hr/><p>Bigwords.page is a web utility that converts any browser-enabled device—including smartphones, tablets, and smart TVs—into a full-screen digital sign, timer, or message. The tool requires no accounts or server-side storage; instead, it embeds all display instructions, including text and styling, directly within the URL's parameters and fragments to allow for instant, shareable displays.</p><p>The service supports Markdown formatting, automated slideshows, countdown timers, and the generation of QR codes. Because the content is stored in the URL fragment, the information is not transmitted to a server, providing a privacy-focused method for displaying temporary information such as Wi-Fi credentials or event countdowns.</p><p><img src="https://localscreens.pl/wp-content/uploads/2023/02/biuro-digital-signage-1.webp" /></p><hr/><small>7 Oct 2026, 22:16 UTC | #23607</small>]]></content>
+  </entry>
   <entry>
     <title>Ring Unveils $249 Smart Lock with Hand-Crank Battery Recharger</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-07/amazon-ring-unveils-249-smart-lock-with-dial-to-restore-dead-battery" rel="alternate" />
@@ -960,13 +969,5 @@
     <published>2026-10-02T22:20:00+00:00</published>
     <updated>2026-10-02T22:20:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://frankwiles.com/posts/i-got-targeted/">frankwiles.com</a> | <a href="https://lobste.rs/s/cd5gdk/i_got_targeted_trying_get_your">discussion</a></small></p><hr/><p>An attacker attempted to execute arbitrary code on a developer's laptop by using a malicious `post-checkout` Git hook embedded in a fake project inquiry. The attack utilized a Dropbox folder containing a `.git` directory where the hook was designed to download and execute an OS-specific binary via a Vercel command-and-control server.</p><p>The social engineering scheme impersonated a client seeking Ed Tech services, directing the target to a specific Git branch to trigger the malicious hook. The intended goal appeared to be the theft of GitHub or other sensitive client credentials.</p><hr/><small>3 Oct 2026, 01:30 UTC | #23125</small>]]></content>
-  </entry>
-  <entry>
-    <title>Peter Bex on CHICKEN Scheme 6.0.0 and Language Design</title>
-    <link href="https://alexalejandre.com/interviews/peter-bex/" rel="alternate" />
-    <id>https://alexalejandre.com/interviews/peter-bex/::v239</id>
-    <published>2026-10-02T22:02:00+00:00</published>
-    <updated>2026-10-02T22:02:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://alexalejandre.com/interviews/peter-bex/">alexalejandre.com</a> | <a href="https://lobste.rs/s/0egeug/lobsters_interview_with_sjamaan">discussion</a></small></p><hr/><p>CHICKEN Scheme 6.0.0 implements R7RS standards and transitions the language to a UTF-8 string representation. This development addresses the conflict between maintaining a minimal specification for experimentation and providing the robust features required by production-quality standards.</p><p>Bex details his contributions to the CHICKEN core, including the numerical tower and regular expression libraries. He also evaluates the technical advantages of PostgreSQL over MySQL and discusses the broader implications of digital sovereignty in the technology landscape.</p><hr/><small>3 Oct 2026, 01:29 UTC | #23128</small>]]></content>
   </entry>
 </feed>
