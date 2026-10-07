@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-07T02:21:00+00:00</updated>
+  <updated>2026-10-07T04:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>GitHub Refuses to Remove Ad-Stripped Copies of Photopea Software</title>
+    <link href="https://news.ycombinator.com/item?id=49982498" rel="alternate" />
+    <id>https://news.ycombinator.com/item?id=49982498::v239</id>
+    <published>2026-10-07T04:23:00+00:00</published>
+    <updated>2026-10-07T04:23:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49982498">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49982498">hacker news</a></small></p><hr/><p>A developer, identified via related context as the creator of the Photopea image editor, has reported that GitHub refused to remove repositories hosting "cracked" versions of their software. These repositories host the application's JavaScript code but have been stripped of all advertisements and obfuscation, allowing users to run the tool without the developer's intended monetization.</p><p>GitHub's refusal stems from the developer's filing of a takedown notice under 17 U.S. Code § 1201, which pertains to the circumvention of technological measures. GitHub maintains that obfuscated JavaScript does not qualify for protection under this specific statute, prompting legal discussion that the developer may have better success filing under standard copyright infringement provisions instead.</p><hr/><small>7 Oct 2026, 09:49 UTC | #23525</small>]]></content>
+  </entry>
   <entry>
     <title>Michael Smith Sentenced to 18 Months for $8M AI Music Streaming Fraud</title>
     <link href="https://www.billboard.com/pro/ai-music-streaming-fraud-sentence-man-18-months-prison-scam/" rel="alternate" />
