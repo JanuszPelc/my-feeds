@@ -666,13 +666,4 @@
     <updated>2026-10-02T08:12:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49922569">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49922569">hacker news</a></small></p><hr/><p>Companies list open positions in this monthly forum, which requires specifying location, remote work availability, and company operations. To maintain direct engagement, recruiting firms and job boards are prohibited from posting, and only active hiring managers may participate.</p><p>External tools and aggregators are provided to help users search the compiled job data. A companion thread is also linked for individuals seeking employment to present their qualifications.</p><hr/><small>2 Oct 2026, 14:12 UTC | #23068</small>]]></content>
   </entry>
-  <entry>
-    <title>arXiv Implements New Submission Rate Limits</title>
-    <link href="https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/" rel="alternate" />
-    <id>https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/::v239</id>
-    <published>2026-10-02T04:56:00+00:00</published>
-    <updated>2026-10-02T04:56:00+00:00</updated>
-    <media:thumbnail url="https://i0.wp.com/blog.arxiv.org/wp-content/uploads/2026/10/arXiv-Monthly-Submissions-September-2026.png?resize=1024%2C642&amp;ssl=1" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/">blog.arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=49926512">hacker news</a></small></p><hr/><p>arXiv is implementing an updated rate-limiting policy for all submitters and categories, effective October 1, 2026. The update restricts authors to a maximum of two submissions per calendar month and a limit of three active submissions at any one time. This measure aims to distribute volunteer moderator time more equitably and protect the repository from an influx of inappropriate submissions.</p><p>The decision follows a sharp increase in submission volume, which reached a record 40,363 in September 2026. Advanced AI tools have been identified as a driver for this surge, specifically contributing to an increase in "thin" papers, "salami" papers, and low-quality, AI-generated content. The policy serves as a stopgap while the repository develops improved moderation tools and procedures to address the changing research landscape.</p><p><img src="https://i0.wp.com/blog.arxiv.org/wp-content/uploads/2026/10/arXiv-Monthly-Submissions-September-2026.png?resize=1024%2C642&ssl=1" /></p><hr/><small>2 Oct 2026, 12:02 UTC | #23040</small>]]></content>
-  </entry>
 </feed>
