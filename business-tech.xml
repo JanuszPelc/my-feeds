@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-07T04:29:00+00:00</updated>
+  <updated>2026-10-07T07:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>European Commission Considers Broad Levy to Tax US Tech Companies</title>
+    <link href="https://www.ft.com/content/ad06ed89-f600-4694-8c95-7d53b6d3315b" rel="alternate" />
+    <id>https://www.ft.com/content/ad06ed89-f600-4694-8c95-7d53b6d3315b::v239</id>
+    <published>2026-10-07T07:14:00+00:00</published>
+    <updated>2026-10-07T07:14:00+00:00</updated>
+    <media:thumbnail url="https://www.reuters.com/resizer/v2/G36UETTMABMGZPZUW6PWCNSRT4.jpg?auth=f049b93a049222ce9584aec728253b902b1c597a76965908766d93125720139b&amp;width=1200&amp;quality=80" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/ad06ed89-f600-4694-8c95-7d53b6d3315b">ft.com</a></small></p><hr/><p>The European Commission is considering a broad levy on all large companies to capture tax revenue from major US-based digital services groups. This approach aims to bypass the trade tensions and political complexities associated with singling out specific American technology firms.</p><p>The initiative is aimed at securing funds for the European Union's budget. By utilizing a general corporate levy rather than a targeted digital services tax, the Commission seeks to meet its fiscal objectives through a broader tax base.</p><p><img src="https://www.reuters.com/resizer/v2/G36UETTMABMGZPZUW6PWCNSRT4.jpg?auth=f049b93a049222ce9584aec728253b902b1c597a76965908766d93125720139b&width=1200&quality=80" /></p><hr/><small>7 Oct 2026, 12:32 UTC | #23509</small>]]></content>
+  </entry>
   <entry>
     <title>AI Startups Increasingly Become Serial Acquirers</title>
     <link href="https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-07T02:02:00+00:00</updated>
+  <updated>2026-10-07T07:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Zohaib Ansari Argues Claude Code's Suggested Messages Benefit AI Training</title>
+    <link href="https://www.zohaib.cc/blog/smartest-claude-code-feature" rel="alternate" />
+    <id>https://www.zohaib.cc/blog/smartest-claude-code-feature::v239</id>
+    <published>2026-10-07T07:15:00+00:00</published>
+    <updated>2026-10-07T07:15:00+00:00</updated>
+    <media:thumbnail url="https://substack-post-media.s3.amazonaws.com/public/images/438c4c2f-0fa8-4748-9953-b63fd69674f4_2508x3000.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.zohaib.cc/blog/smartest-claude-code-feature">zohaib.cc</a> | <a href="https://news.ycombinator.com/item?id=49981905">hacker news</a></small></p><hr/><p>Software engineer Zohaib Ansari suggests that the most significant aspect of Anthropic's Claude Code is its suggested message feature. He contends that this functionality is designed to generate high-quality interaction data to refine AI models, rather than being solely a productivity enhancement for developers.</p><p>This perspective suggests that agentic coding tools are increasingly focused on establishing feedback loops that benefit model training, effectively making the AI the primary beneficiary of features that appear to be designed for human users.</p><p><img src="https://substack-post-media.s3.amazonaws.com/public/images/438c4c2f-0fa8-4748-9953-b63fd69674f4_2508x3000.png" /></p><hr/><small>7 Oct 2026, 12:37 UTC | #23543</small>]]></content>
+  </entry>
   <entry>
     <title>Google Releases Nano Banana 2.1 Image Generation Model</title>
     <link href="https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/" rel="alternate" />
