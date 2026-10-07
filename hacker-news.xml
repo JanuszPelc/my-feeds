@@ -925,22 +925,4 @@
     <updated>2026-10-02T19:07:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://developer.apple.com/pass-designer/">developer.apple.com</a> | <a href="https://news.ycombinator.com/item?id=49937276">hacker news</a></small></p><hr/><p>Pass Designer is a macOS application used to design and preview Apple Wallet passes. The tool provides real-time rendering for iPhone and Apple Watch, performs data validation to identify errors, and utilizes semantic tags to enable integration with Siri, Maps, and Calendar.</p><p>Users can utilize Apple-provided templates or custom branding assets to create personalized designs. The software is available in beta for macOS 27 or later and includes functionality to generate backward-compatible pass structures for older devices.</p><hr/><small>2 Oct 2026, 21:54 UTC | #23116</small>]]></content>
   </entry>
-  <entry>
-    <title>Loewe Unveils Neo Portable Speaker with Ambient Lighting</title>
-    <link href="https://musictech.com/news/gear/loewe-neo/" rel="alternate" />
-    <id>https://musictech.com/news/gear/loewe-neo/::v239</id>
-    <published>2026-10-02T17:05:00+00:00</published>
-    <updated>2026-10-02T17:05:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Loewe-Neo@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/loewe-neo/">musictech.com</a> | <a href="https://www.loewe.tv/">source</a></small></p><hr/><p>Loewe has introduced the neo, a high-end portable speaker featuring an IP67-rated water and dust-proof chassis. The device is driven by 50 watts of power and utilizes dual passive bass radiators, alongside integrated ambient lighting that can be adjusted via a light strip or a companion app. The app also enables users to customize sound presets and light settings.</p><p>The speaker is offered in aluminum silver, aluminum black, and champagne. It includes a premium felt hardcase and a detachable leather strap for enhanced portability. Pre-orders for the neo are scheduled to begin on November 20, 2026.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Loewe-Neo@2000x1500.jpg" /></p><hr/><small>2 Oct 2026, 21:05 UTC | #23091</small>]]></content>
-  </entry>
-  <entry>
-    <title>Outis Generates Fake Bounce Emails to Combat Spam</title>
-    <link href="https://github.com/dtonon/outis" rel="alternate" />
-    <id>https://github.com/dtonon/outis::v239</id>
-    <published>2026-10-02T17:01:00+00:00</published>
-    <updated>2026-10-02T17:01:00+00:00</updated>
-    <media:thumbnail url="https://github.com/dtonon/outis/raw/master/assets/banner.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/dtonon/outis">github.com</a> | <a href="https://lobste.rs/s/1h7qzj/outis_fight_ai_spam_by_generating_sending">discussion</a></small></p><hr/><p>Outis is an open-source command-line tool that generates fake "user unknown" bounce emails to combat spam. By sending an RFC 3464 delivery status notification to the sender, the tool makes the recipient's address appear non-existent, helping to remove the address from automated or AI-generated mailing lists.</p><p>The tool is most credible when used with an SMTP account from a domain the user controls, as consumer email providers often rewrite headers and can expose the user. While it does not prevent the initial spam from being delivered, the resulting notification is designed to trick automated systems into thinking the mailbox is invalid.</p><p><img src="https://github.com/dtonon/outis/raw/master/assets/banner.jpg" /></p><hr/><small>2 Oct 2026, 20:50 UTC | #23108</small>]]></content>
-  </entry>
 </feed>
