@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-06T20:23:00+00:00</updated>
+  <updated>2026-10-06T22:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Janet Programming Language Benefits from Linux x32 ABI</title>
+    <link href="https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/" rel="alternate" />
+    <id>https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/::v239</id>
+    <published>2026-10-06T22:39:00+00:00</published>
+    <updated>2026-10-06T22:39:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/">alexalejandre.com</a> | <a href="https://lobste.rs/s/am1cuw/janet_on_x32_32_bit_pointers_64_bit_speed_25">discussion</a></small></p><hr/><p>Using the Linux x32 ABI allows the Janet programming language to significantly reduce memory usage, with benchmarks showing reductions of approximately 21% to 32%. By employing the -mx32 flag, the language utilizes 32-bit pointers while maintaining 64-bit execution speed, which can improve cache efficiency.</p><p>The article highlights the lack of widespread support for the x32 ABI in major Linux distributions such as Arch and Ubuntu. It includes technical instructions and build scripts for compiling Janet and its Spork library with x32 support, alongside performance comparisons across various workloads like PEG parsing and tree walking.</p><hr/><small>7 Oct 2026, 04:11 UTC | #23506</small>]]></content>
+  </entry>
   <entry>
     <title>openTPU Open-Source AI Accelerator Features AI-Developed Hardware</title>
     <link href="https://github.com/FeSens/openTPU" rel="alternate" />
