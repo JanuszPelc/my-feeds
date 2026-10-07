@@ -353,12 +353,4 @@
     <media:thumbnail url="https://images.imyfone.com/filme/assets/article/AI-sing-voice-generator.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability">theverge.com</a> | <a href="https://suno.com/blog/introducing-speech-beta">source</a></small></p><hr/><p>The "Speech" feature, currently in public beta, generates spoken audio that can be paired with background music or used as standalone voiceovers. Users can utilize a "Simple" mode for prompt-based creation or an "Advanced" mode to input custom scripts, with settings for voice gender, style, and variety for clips up to eight minutes long.</p><p>This release expands the platform's capabilities into speech synthesis as the company seeks to diversify its offerings. The expansion follows ongoing legal challenges regarding Suno's primary AI music generation technology.</p><p><img src="https://images.imyfone.com/filme/assets/article/AI-sing-voice-generator.jpg" /></p><hr/><small>2 Oct 2026, 20:21 UTC | #23065</small>]]></content>
   </entry>
-  <entry>
-    <title>DeepSeek Launches DeepSeek Harness Open Source Agent in Public Preview</title>
-    <link href="https://www.deepseek.com/en/harness/" rel="alternate" />
-    <id>https://www.deepseek.com/en/harness/::v239</id>
-    <published>2026-10-02T03:12:00+00:00</published>
-    <updated>2026-10-02T03:12:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.deepseek.com/en/harness/">deepseek.com</a> | <a href="https://news.ycombinator.com/item?id=49929489">hacker news</a></small></p><hr/><p>DeepSeek has released DeepSeek Harness, an open-source agent application, into public preview. Built on the Cordis plugin architecture, the tool is designed to automate tasks such as data analysis, document drafting, software debugging, and running background scripts. It is available as a desktop application or through a web interface via Node.js.</p><p>The platform utilizes a composable plugin system that allows users to extend the agent's functionality through a "Creator mode" or by installing existing plugins. It includes developer-oriented features such as execution trace inspection for troubleshooting tool calls and the ability to schedule recurring tasks.</p><hr/><small>2 Oct 2026, 09:42 UTC | #23053</small>]]></content>
-  </entry>
 </feed>
