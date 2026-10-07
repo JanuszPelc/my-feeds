@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-07T16:24:00+00:00</updated>
+  <updated>2026-10-07T16:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>curl Accelerates Release of Version 8.23.0 to Address 22 Vulnerabilities</title>
+    <link href="https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/" rel="alternate" />
+    <id>https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/::v239</id>
+    <published>2026-10-07T16:28:00+00:00</published>
+    <updated>2026-10-07T16:28:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/lu8hl9/twenty_two_pending_curl_vulnerabilities">discussion</a> | <a href="https://news.ycombinator.com/item?id=49989543">hacker news</a></small></p><hr/><p>The curl project is accelerating the release of version 8.23.0 to October 14, 2026, to address 22 security vulnerabilities. This includes one high-severity flaw identified as CVE-2026-92392.</p><p>Technical details for the high-severity vulnerability will remain confidential until the release date to protect users and infrastructure. Updated versions of Rock-solid curl will be released in synchronization with the version 8.23.0 update.</p><hr/><small>7 Oct 2026, 20:21 UTC | #23601</small>]]></content>
+  </entry>
   <entry>
     <title>Chimera Linux Details cbuild Build Tooling Design</title>
     <link href="https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html" rel="alternate" />
