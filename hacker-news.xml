@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-07T15:13:00+00:00</updated>
+  <updated>2026-10-07T15:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>JBL Launches Cove Series Multi-Room Wi-Fi Speakers</title>
+    <link href="https://musictech.com/news/gear/jbl-cove-series/" rel="alternate" />
+    <id>https://musictech.com/news/gear/jbl-cove-series/::v239</id>
+    <published>2026-10-07T15:18:00+00:00</published>
+    <updated>2026-10-07T15:18:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/JBL-Cove-P1.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/jbl-cove-series/">musictech.com</a> | <a href="https://news.jbl.com/en-CEU/269714-jbl-launches-jbl-cove-a-new-whole-home-audio-system-to-enjoy-superior-sound-throughout-the-entire-home/">source</a></small></p><hr/><p>JBL has introduced the Cove series, a multi-room Wi-Fi speaker lineup designed for whole-home audio. The collection includes the standard JBL Cove, the battery-powered JBL Cove P1, and the premium JBL Cove X1. Higher-end models feature Dolby Atmos support, AI-driven room optimization, and integration with the JBL One app.</p><p>The speakers support various streaming protocols, including AirPlay 2, Google Cast, and Bluetooth, and can be configured as stereo pairs or used individually. The series is also compatible with JBL Bar Series MK2 soundbars to extend immersive home theater environments.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/JBL-Cove-P1.jpg" /></p><hr/><small>7 Oct 2026, 19:31 UTC | #23560</small>]]></content>
+  </entry>
+  <entry>
+    <title>Xreal Aura Android XR Smartglasses Available for Pre-order</title>
+    <link href="https://www.engadget.com/2279737/xreals-aura-android-xr-smartglasses-will-cost-you-at-least-1279/" rel="alternate" />
+    <id>https://www.engadget.com/2279737/xreals-aura-android-xr-smartglasses-will-cost-you-at-least-1279/::v239</id>
+    <published>2026-10-07T15:14:00+00:00</published>
+    <updated>2026-10-07T15:14:00+00:00</updated>
+    <media:thumbnail url="https://www.engadget.com/img/gallery/xreals-next-gen-aura-android-xr-smartglasses-will-cost-you-at-least-1279/intro-1791367954.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2279737/xreals-aura-android-xr-smartglasses-will-cost-you-at-least-1279/">engadget.com</a> | <a href="https://www.xreal.com/aura">source</a></small></p><hr/><p>Xreal has launched its Aura smartglasses, which run on Android XR and are powered by the Snapdragon Reality Elite chip. The device is available for pre-order starting at $1,279 for the 12GB RAM/256GB storage model, while the 16GB RAM/512GB storage configuration is priced at $1,499. The glasses weigh less than 95 grams and rely on a separate compute puck that features a trackpad, fingerprint sensor, and access to the Google Play Store and Gemini AI.</p><p>The Aura features a 70-degree field of view, precise hand tracking, and Bose-engineered audio technology. The see-through lenses are designed for visibility in various lighting conditions, and the glasses can also function as an external monitor when connected to a computer. Initial shipping is expected in the US, Canada, Japan, and South Korea, with expanded market availability planned for 2027.</p><p><img src="https://www.engadget.com/img/gallery/xreals-next-gen-aura-android-xr-smartglasses-will-cost-you-at-least-1279/intro-1791367954.jpg" /></p><hr/><small>7 Oct 2026, 19:22 UTC | #23542</small>]]></content>
+  </entry>
   <entry>
     <title>Modulo Bias in Random Selection</title>
     <link href="https://ersc.io/blog/when-random-isnt-random-enough" rel="alternate" />
@@ -916,22 +934,5 @@
     <updated>2026-10-02T21:11:00+00:00</updated>
     <media:thumbnail url="https://media.daily.dev/image/fetch/s--ApmWL3Rs--/c_limit,dpr_auto,f_auto,q_auto,w_1536/https://assets.seobotai.com/daily.dev/69cde3101b352ff267cd0f12/9643583a54fadfc9dd0c04effb8c8db2.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ziglang.org/download/0.17.0/release-notes.html">ziglang.org</a> | <a href="https://lobste.rs/s/wcmfft/zig_0_17_0_release_notes">discussion</a> | <a href="https://news.ycombinator.com/item?id=49938521">hacker news</a></small></p><hr/><p>This release introduces a reworked build system featuring the Build Server Protocol and an enhanced ELF linker intended to enable incremental compilation on x86_64-linux. The update is the result of five months of development involving over 200 contributors and 925 commits.</p><p>Expanded target support includes loongarch32-linux-gnu and several SPARC models, alongside an upgrade to LLVM 22. Additionally, the release contains various language syntax changes and standard library refinements.</p><p><img src="https://media.daily.dev/image/fetch/s--ApmWL3Rs--/c_limit,dpr_auto,f_auto,q_auto,w_1536/https://assets.seobotai.com/daily.dev/69cde3101b352ff267cd0f12/9643583a54fadfc9dd0c04effb8c8db2.jpg" /></p><hr/><small>3 Oct 2026, 00:35 UTC | #23114</small>]]></content>
-  </entry>
-  <entry>
-    <title>Emacs-Inspired Regex DSL for JavaScript and TypeScript</title>
-    <link href="https://rahuljuliato.com/posts/emacs-rx-in-typescript" rel="alternate" />
-    <id>https://rahuljuliato.com/posts/emacs-rx-in-typescript::v239</id>
-    <published>2026-10-02T19:21:00+00:00</published>
-    <updated>2026-10-02T19:21:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rahuljuliato.com/posts/emacs-rx-in-typescript">rahuljuliato.com</a> | <a href="https://lobste.rs/s/3hdied/readable_regular_expressions_for">discussion</a></small></p><hr/><p>A Domain-Specific Language (DSL) for JavaScript and TypeScript enables the creation of readable regular expressions by modeling them as a tree of named, composable forms, a technique inspired by the Emacs `rx` macro. This approach simplifies the maintenance of complex patterns, such as Semantic Versioning strings, by replacing opaque, single-line regex literals with structured code.</p><p>The implementation utilizes a custom `RxNode` structure to manage literals, character sets, and sequences, automating much of the escaping and grouping logic. It supports named capturing groups, greedy and lazy repetitions, and provides a `raw` function to integrate existing regular expressions into the DSL structure.</p><hr/><small>3 Oct 2026, 00:17 UTC | #23123</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Tightens macOS Full Disk Access Controls Due to AI Agent Risks</title>
-    <link href="https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/::v239</id>
-    <published>2026-10-02T19:15:00+00:00</published>
-    <updated>2026-10-02T19:15:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/">techcrunch.com</a> | <a href="https://developer.apple.com/news/?id=p6zjojqw">source</a> | <a href="https://news.ycombinator.com/item?id=49937631">hacker news</a></small></p><hr/><p>Apple is introducing new controls for the "Full Disk Access" setting in macOS to mitigate security risks posed by autonomous AI agents. While the permission was originally designed to allow backup software to function, Apple warned that some developers are using it to access sensitive data—including files, mail, and messages—without users' full understanding of the extent of that access.</p><p>The move follows reports involving AI tools like Meta's Muse and ChatGPT's Mac application that raised concerns regarding the access of private user communications. Apple's upcoming implementation will require "very explicit user action" before an application can be granted this high level of access, aiming to ensure users can make informed privacy decisions as AI capabilities expand.</p><p><img src="https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200" /></p><hr/><small>2 Oct 2026, 23:26 UTC | #23098</small>]]></content>
   </entry>
 </feed>

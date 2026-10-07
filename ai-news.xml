@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-07T07:15:00+00:00</updated>
+  <updated>2026-10-07T15:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google Launches Public SynthID Website for AI Media Verification</title>
+    <link href="https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/::v239</id>
+    <published>2026-10-07T15:16:00+00:00</published>
+    <updated>2026-10-07T15:16:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?w=1024" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/">techcrunch.com</a> | <a href="https://synthid.com/">source</a> | <a href="https://news.ycombinator.com/item?id=49993188">hacker news</a></small></p><hr/><p>Google has launched a public website that allows users to verify whether images, videos, or audio clips were generated using AI. The tool utilizes SynthID, a watermarking technology that embeds imperceptible digital markers into media produced by models such as Gemini, Veo, and Lyria.</p><p>The portal expands access to the general public following a testing phase for journalists and researchers. While Google, OpenAI, and NVIDIA support the SynthID standard, other industry leaders like Microsoft and Meta use different watermarking methods that have occasionally struggled to identify content created by their own generative models.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?w=1024" /></p><hr/><small>7 Oct 2026, 19:26 UTC | #23553</small>]]></content>
+  </entry>
   <entry>
     <title>Zohaib Ansari Argues Claude Code's Suggested Messages Benefit AI Training</title>
     <link href="https://www.zohaib.cc/blog/smartest-claude-code-feature" rel="alternate" />
