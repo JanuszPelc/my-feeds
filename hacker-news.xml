@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>AnyPS5 Tool Automates Porting of PS5 Executables to Linux and Windows</title>
+    <link href="https://github.com/boykopovar/AnyPS5" rel="alternate" />
+    <id>https://github.com/boykopovar/AnyPS5::v239</id>
+    <published>2026-10-07T00:22:00+00:00</published>
+    <updated>2026-10-07T00:22:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/boykopovar/AnyPS5">github.com</a> | <a href="https://news.ycombinator.com/item?id=49985664">hacker news</a></small></p><hr/><p>AnyPS5 is a tool designed to automatically port PlayStation 5 executables to Linux and Windows. The utility utilizes a relinker to convert executables into the target system's native format and provides implementations of system prx libraries for dynamic linking, allowing execution without a separate emulation layer or runtime process.</p><p>The project features a shader recompiler that produces SPIR-V output and provides support for SDL-mapped controllers. It is intended for use in software preservation, research, and interoperability efforts.</p><hr/><small>7 Oct 2026, 07:37 UTC | #23517</small>]]></content>
+  </entry>
+  <entry>
     <title>OSC 7501 Program Status Protocol Specification</title>
     <link href="https://mitchellh.com/writing/program-status-osc7501" rel="alternate" />
     <id>https://mitchellh.com/writing/program-status-osc7501::v239</id>
