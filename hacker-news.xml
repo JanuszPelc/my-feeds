@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>OSC 7501 Program Status Protocol Specification</title>
+    <link href="https://mitchellh.com/writing/program-status-osc7501" rel="alternate" />
+    <id>https://mitchellh.com/writing/program-status-osc7501::v239</id>
+    <published>2026-10-07T00:18:00+00:00</published>
+    <updated>2026-10-07T00:18:00+00:00</updated>
+    <media:thumbnail url="https://docs.oracle.com/en/cloud/saas/supply-chain-and-manufacturing/26a/facri/images/cjm_bpm_program_status.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://mitchellh.com/writing/program-status-osc7501">mitchellh.com</a> | <a href="https://www.superlogical.com/rex/docs/build/program-status">source</a> | <a href="https://lobste.rs/s/rmh4fg/terminal_protocol_for_program_status_osc">discussion</a> | <a href="https://news.ycombinator.com/item?id=49984159">hacker news</a></small></p><hr/><p>OSC 7501 is a terminal escape sequence specification that enables programs to communicate operational status—such as being idle, working, blocked, or finished—directly to a terminal emulator. By utilizing the pseudo-terminal (pty), applications can signal state changes without relying on unreliable screen-scraping heuristics or non-terminal APIs.</p><p>The protocol supports hierarchical task tracking, allowing a single program to report multiple concurrent sub-tasks with distinct states and messages. It is designed to improve visibility for long-running processes and AI agents, with implementations already available for the Ghostty terminal emulator and several command-line utilities.</p><p><img src="https://docs.oracle.com/en/cloud/saas/supply-chain-and-manufacturing/26a/facri/images/cjm_bpm_program_status.png" /></p><hr/><small>7 Oct 2026, 06:48 UTC | #23515</small>]]></content>
+  </entry>
+  <entry>
     <title>COSMIC DE and KDE Plasma Desktop Environments Compared</title>
     <link href="https://thelibre.news/is-cosmic-de-mogging-kde-plasma/" rel="alternate" />
     <id>https://thelibre.news/is-cosmic-de-mogging-kde-plasma/::v239</id>
