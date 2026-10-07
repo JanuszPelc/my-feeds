@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
   <entry>
+    <title>Google Releases Nano Banana 2.1 Image Generation Model</title>
+    <link href="https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/" rel="alternate" />
+    <id>https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/::v239</id>
+    <published>2026-10-06T23:21:00+00:00</published>
+    <updated>2026-10-06T23:21:00+00:00</updated>
+    <media:thumbnail url="https://the-decoder.com/wp-content/uploads/2026/10/Horse_riding_astronaut_and_monkey_gemini21.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/">the-decoder.com</a> | <a href="https://deepmind.google/models/model-cards/nano-banana-2-1/">source</a></small></p><hr/><p>Built on Gemini 3.6 Flash, Nano Banana 2.1 improves upon the previous model in visual quality, text rendering, character consistency, and infographic design. The model can process up to 14 reference images at once and offers varying "thinking" levels to control output quality.</p><p>API costs for 1K and 4K images have been reduced by approximately 50% compared to Nano Banana 2. While the model shows strong performance in benchmarks, the higher-tier Nano Banana Pro is still preferred for tasks requiring higher realism and natural proportions. The update is rolling out across the Gemini app, Google Search, Google AI Studio, and various enterprise services.</p><p><img src="https://the-decoder.com/wp-content/uploads/2026/10/Horse_riding_astronaut_and_monkey_gemini21.jpg" /></p><hr/><small>7 Oct 2026, 06:31 UTC | #23499</small>]]></content>
+  </entry>
+  <entry>
     <title>OpenAI Decisions API Enters Public Beta</title>
     <link href="https://developers.openai.com/api/docs/guides/decisions" rel="alternate" />
     <id>https://developers.openai.com/api/docs/guides/decisions::v239</id>

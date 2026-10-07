@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-06T20:24:00+00:00</updated>
+  <updated>2026-10-06T23:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>SpaceX Seeks $40 Billion to Purchase Nvidia Chips</title>
+    <link href="https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51" rel="alternate" />
+    <id>https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51::v239</id>
+    <published>2026-10-06T23:16:00+00:00</published>
+    <updated>2026-10-06T23:16:00+00:00</updated>
+    <media:thumbnail url="https://wimg.sedaily.com/news/cms/2026/03/25/news-p.v1.20260325.73499720e0fd4dd499b48342a9db273f_P1.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51">ft.com</a></small></p><hr/><p>SpaceX is seeking to raise $40 billion in financing, comprising approximately $10 billion in bank loans and $30 billion in investment-grade debt, to purchase Nvidia chips. Apollo is reportedly leading the massive financing effort.</p><p>The scale of the proposed debt reflects the extreme capital expenditure required to secure the high-performance computing infrastructure necessary for artificial intelligence development.</p><p><img src="https://wimg.sedaily.com/news/cms/2026/03/25/news-p.v1.20260325.73499720e0fd4dd499b48342a9db273f_P1.png" /></p><hr/><small>7 Oct 2026, 06:29 UTC | #23497</small>]]></content>
+  </entry>
   <entry>
     <title>a16z Seventh Edition Top 100 AI Consumer Apps Report Analyzes Market Trends</title>
     <link href="https://a16z.com/" rel="alternate" />

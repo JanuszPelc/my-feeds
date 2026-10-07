@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>COSMIC DE and KDE Plasma Desktop Environments Compared</title>
+    <link href="https://thelibre.news/is-cosmic-de-mogging-kde-plasma/" rel="alternate" />
+    <id>https://thelibre.news/is-cosmic-de-mogging-kde-plasma/::v239</id>
+    <published>2026-10-07T00:16:00+00:00</published>
+    <updated>2026-10-07T00:16:00+00:00</updated>
+    <media:thumbnail url="https://thelibre.news/content/images/2026/09/021-cosmic-appearance-overview.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://thelibre.news/is-cosmic-de-mogging-kde-plasma/">thelibre.news</a> | <a href="https://lobste.rs/s/7qjhic/is_cosmic_de_mogging_kde_plasma">discussion</a></small></p><hr/><p>COSMIC Desktop Environment offers several modern user experience improvements over KDE Plasma, including instant theme application, streamlined color customization, and advanced window tiling with stacking capabilities. The system also features adjustable interface density and integrated frosted glass effects that apply across windows and panels.</p><p>While KDE Plasma provides greater modularity and a significantly larger ecosystem of community-driven themes, COSMIC follows a "simple by default, powerful when needed" philosophy. This approach prioritizes ease of use in areas like window management and aesthetic settings, aiming to reduce the complexity often found in highly modular desktop environments.</p><p><img src="https://thelibre.news/content/images/2026/09/021-cosmic-appearance-overview.png" /></p><hr/><small>7 Oct 2026, 06:34 UTC | #23513</small>]]></content>
+  </entry>
+  <entry>
     <title>The Verge Tech and Gaming News Digest</title>
     <link href="https://www.theverge.com/" rel="alternate" />
     <id>https://www.theverge.com/::v239</id>
