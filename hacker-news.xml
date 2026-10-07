@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-07T04:56:00+00:00</updated>
+  <updated>2026-10-07T08:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>System76 Bans AI-Generated Contributions to COSMIC Desktop</title>
+    <link href="https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141" rel="alternate" />
+    <id>https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141::v239</id>
+    <published>2026-10-07T08:10:00+00:00</published>
+    <updated>2026-10-07T08:10:00+00:00</updated>
+    <media:thumbnail url="https://image.theregister.com/?imageId=237408&amp;width=800" />
+    <content type="html"><![CDATA[<p><small>The Register AI/ML | <a href="https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141">theregister.com</a> | <a href="https://github.com/pop-os/cosmic-epoch/blob/master/.github/PULL_REQUEST_TEMPLATE.md">source</a></small></p><hr/><p>The COSMIC desktop environment's contributor guidelines now strictly prohibit the use of large language models (LLMs) in pull requests. Submissions must include a certification that no AI-generated content was used in the code, comments, or descriptions.</p><p>This decision aligns with certain GNOME sub-projects that also restrict AI-generated submissions. However, the stance remains controversial; some developers argue that allowing AI-generated bug reports could be essential for discovering security vulnerabilities in large, complex codebases.</p><p><img src="https://image.theregister.com/?imageId=237408&width=800" /></p><hr/><small>7 Oct 2026, 13:13 UTC | #23520</small>]]></content>
+  </entry>
   <entry>
     <title>Unsloth Adds Integrated Browser and EmbeddingGemma 2 Support</title>
     <link href="https://unsloth.ai/docs/new/changelog#embeddinggemma-2--browser" rel="alternate" />
