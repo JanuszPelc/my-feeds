@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-07T19:24:00+00:00</updated>
+  <updated>2026-10-07T19:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Bit Reactor Begins Rehiring Furloughed Staff</title>
+    <link href="https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff::v239</id>
+    <published>2026-10-07T19:39:00+00:00</published>
+    <updated>2026-10-07T19:39:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt76fd3daae7573477/6a9699589be82339198e4ef4/SW_Zero_Company.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff">gamedeveloper.com</a> | <a href="https://bsky.app/profile/bitreactor.com/post/3mxcgabtzjk2b">source</a></small></p><hr/><p>The developer of Star Wars Zero Company, Bit Reactor, has started rehiring staff following a period of mass furloughs. After the studio previously suspended over 80 percent of its workforce, the CEO announced that team members are being brought back to work.</p><p>The returning employees are expected to replenish more than half of the studio's original headcount. Despite the successful launch of Star Wars Zero Company, concerns remain regarding whether staff will receive profit-sharing from the title's performance.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt76fd3daae7573477/6a9699589be82339198e4ef4/SW_Zero_Company.png?width=720&quality=80&disable=upscale" /></p><hr/><small>7 Oct 2026, 23:17 UTC | #23587</small>]]></content>
+  </entry>
   <entry>
     <title>PhotoCraft: Open-Source Photoshop Reimplementation in Rust</title>
     <link href="https://github.com/storytold/photocraft" rel="alternate" />
