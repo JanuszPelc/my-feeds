@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-06T22:39:00+00:00</updated>
+  <updated>2026-10-06T22:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple to Launch LG-Branded Smart Home Accessories</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMTE4NCwiZXhwIjoxNzkxOTI1OTg0LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.5_TbI3uJdaub69NNOHS1QxUJbqCGNceZQXp5GymcIbQ" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMTE4NCwiZXhwIjoxNzkxOTI1OTg0LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.5_TbI3uJdaub69NNOHS1QxUJbqCGNceZQXp5GymcIbQ::v239</id>
+    <published>2026-10-06T22:40:00+00:00</published>
+    <updated>2026-10-06T22:40:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMTE4NCwiZXhwIjoxNzkxOTI1OTg0LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.5_TbI3uJdaub69NNOHS1QxUJbqCGNceZQXp5GymcIbQ">bloomberg.com</a></small></p><hr/><p>Apple is expanding into the smart home market with a suite of devices, including a doorbell, thermostat, and other accessories. These products are being developed in partnership with LG Electronics Inc. and will be released under the LG brand name.</p><p>This collaboration represents an unusual arrangement for Apple, as the resulting hardware will feature LG's branding rather than Apple's own. The move marks a significant strategic push into the home automation ecosystem through a non-traditional hardware partnership.</p><hr/><small>7 Oct 2026, 04:24 UTC | #23489</small>]]></content>
+  </entry>
   <entry>
     <title>Janet Programming Language Benefits from Linux x32 ABI</title>
     <link href="https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/" rel="alternate" />
