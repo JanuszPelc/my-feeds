@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-06T20:29:00+00:00</updated>
+  <updated>2026-10-06T20:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Musubi Launches PolicyLM-1.7B Decision Model for Content Moderation</title>
+    <link href="https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/::v239</id>
+    <published>2026-10-06T20:36:00+00:00</published>
+    <updated>2026-10-06T20:36:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/">techcrunch.com</a> | <a href="https://www.musubilabs.ai/blog/introducing-policylm-1-7b">source</a> | <a href="https://news.ycombinator.com/item?id=49984121">hacker news</a></small></p><hr/><p>Musubi has released PolicyLM-1.7B, an open-weights decision model designed for real-time content moderation. The model applies content policies written in plain English to messages in under 50 milliseconds. Its transformer architecture allows platform managers to update moderation rules instantly without retraining the model, providing more flexibility than traditional AI classifiers.</p><p>The release aligns with a trend of "decision models" that output outcome probabilities or binary judgments rather than generative text. These models are designed to be faster and more cost-effective than large language models, enabling scalable, proactive content labeling for managing the increasing volume of user-generated content and AI agent behavior.</p><hr/><small>7 Oct 2026, 01:37 UTC | #23485</small>]]></content>
+  </entry>
   <entry>
     <title>AI Agents Face Website Accessibility Challenges as Brands Implement Bot Protections</title>
     <link href="https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/" rel="alternate" />
