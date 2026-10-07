@@ -362,12 +362,4 @@
     <updated>2026-10-02T22:21:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/tavus">x.com</a> | <a href="https://www.tavus.io/griffin">source</a> | <a href="https://news.ycombinator.com/item?id=49927686">hacker news</a></small></p><hr/><p>Tavus has introduced Griffin, a "Human Interaction Model" (HIM) capable of full-duplex, real-time video interaction. In a blind study of 54 participants, 48% of users believed the AI was a real person during a one-minute video call, compared to a success rate of less than 3% for previous systems. The model reportedly holds the top position on NVIDIA's benchmark for full-duplex AI video.</p><p>Griffin utilizes a video-to-video architecture to listen, watch, talk, gesture, and react simultaneously to simulate human-like behavior. While a research preview called Griffin-Lite is currently available to a select group of early testers, a wider release of the full model is planned for the future following further safety considerations.</p><hr/><small>3 Oct 2026, 01:52 UTC | #23100</small>]]></content>
   </entry>
-  <entry>
-    <title>Anthropic Launches $100 Million Claude Frontier Academy to Train 10,000 Engineers</title>
-    <link href="https://www.anthropic.com/news/claude-frontier-academy" rel="alternate" />
-    <id>https://www.anthropic.com/news/claude-frontier-academy::v239</id>
-    <published>2026-10-02T21:13:00+00:00</published>
-    <updated>2026-10-02T21:13:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/news/claude-frontier-academy">anthropic.com</a></small></p><hr/><p>Anthropic has launched the Claude Frontier Academy, a $100 million initiative to train 10,000 Frontier Deployed Engineers (FDEs) by the end of 2027. The program aims to address the enterprise AI talent gap by training software engineers to transition Claude from experimental use cases to production-ready systems within large organizations.</p><p>The curriculum follows a residency model involving intensive in-person training and a 12-week phase where engineers lead real-world Claude projects at their home companies. The inaugural cohorts include engineers from firms such as Accenture, Deloitte, McKinsey, Morgan Stanley, and Novo Nordisk, with training hubs in San Francisco, New York, and London.</p><hr/><small>3 Oct 2026, 01:03 UTC | #23099</small>]]></content>
-  </entry>
 </feed>
