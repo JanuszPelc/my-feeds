@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-07T08:01:00+00:00</updated>
+  <updated>2026-10-07T08:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Fanan Team Releases Grex Arranger Module</title>
+    <link href="https://www.kvraudio.com/news/fanan-team-releases-grex-arranger-module-vst3-au-and-clap-68940?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68940" rel="alternate" />
+    <id>https://www.kvraudio.com/news/fanan-team-releases-grex-arranger-module-vst3-au-and-clap-68940?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68940::v239</id>
+    <published>2026-10-07T08:28:00+00:00</published>
+    <updated>2026-10-07T08:28:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/grex1.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/fanan-team-releases-grex-arranger-module-vst3-au-and-clap-68940?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68940">kvraudio.com</a> | <a href="https://fanan-team-com.base44.app/product/grex">source</a></small></p><hr/><p>Fanan Team has released Grex, an arranger module plugin for macOS and Windows in VST3, AU, and CLAP formats. The software includes 737 styles across twelve genres—including ballads, dance, Latin, jazz, and Oriental music—utilizing three sound libraries: GM, World, and Oriental. The module features a drum kit editor, a built-in synthesizer, and a compressor.</p><p>Grex acts as an expanded version of the free Grex Ballada plugin. It includes specialized support for Oriental music through 164 specific styles and quarter-tone scale capabilities. The module is priced at $70.</p><p><img src="https://static.kvraudio.com/i/b/grex1.png" /></p><hr/><small>7 Oct 2026, 13:35 UTC | #23538</small>]]></content>
+  </entry>
   <entry>
     <title>Hi-Fi Sound Systems Become Featured Festival Lineup Attractions</title>
     <link href="https://musictech.com/features/interviews/why-festivals-are-booking-hi-fi-sound-systems-on-their-lineups/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-07T08:10:00+00:00</updated>
+  <updated>2026-10-07T08:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Python 3.15 Performance Benchmark Results</title>
+    <link href="https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15" rel="alternate" />
+    <id>https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15::v239</id>
+    <published>2026-10-07T08:14:00+00:00</published>
+    <updated>2026-10-07T08:14:00+00:00</updated>
+    <media:thumbnail url="https://blog.miguelgrinberg.com/static/images/pyspeed2026-fibo1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15">blog.miguelgrinberg.com</a> | <a href="https://lobste.rs/s/se6wbx/how_fast_is_python_3_15">discussion</a> | <a href="https://news.ycombinator.com/item?id=49984652">hacker news</a></small></p><hr/><p>An informal benchmark compares the performance of the Python 3.15 release candidate against versions 3.10 through 3.14, PyPy, Node.js, and Rust. The study utilizes recursive Fibonacci and bubble sort algorithms across single-threaded and multi-threaded configurations to evaluate standard, Just-In-Time (JIT), and free-threaded (FT) interpreter implementations.</p><p>Results indicate that while the standard Python 3.15 interpreter shows only marginal speed increases over its predecessor, the JIT-enabled version shows significant performance gains. Furthermore, the free-threaded implementation demonstrates substantial advantages in multi-threaded workloads by bypassing the Global Interpreter Lock (GIL).</p><p><img src="https://blog.miguelgrinberg.com/static/images/pyspeed2026-fibo1.png" /></p><hr/><small>7 Oct 2026, 13:32 UTC | #23549</small>]]></content>
+  </entry>
   <entry>
     <title>System76 Bans AI-Generated Contributions to COSMIC Desktop</title>
     <link href="https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141" rel="alternate" />
