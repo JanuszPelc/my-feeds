@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-07T09:19:00+00:00</updated>
+  <updated>2026-10-07T15:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Bonboa Releases Bacara Plugin 2.0</title>
+    <link href="https://www.kvraudio.com/news/bonboa-releases-bacara-plugin-2-0---adds-chord-and-rhythm-sequencers-vst3-au-and-clap-68942?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68942" rel="alternate" />
+    <id>https://www.kvraudio.com/news/bonboa-releases-bacara-plugin-2-0---adds-chord-and-rhythm-sequencers-vst3-au-and-clap-68942?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68942::v239</id>
+    <published>2026-10-07T15:12:00+00:00</published>
+    <updated>2026-10-07T15:12:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/v2-0-0_1_full_interface.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/bonboa-releases-bacara-plugin-2-0---adds-chord-and-rhythm-sequencers-vst3-au-and-clap-68942?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68942">kvraudio.com</a> | <a href="https://bonboa.com/products/bacara-plugin">source</a></small></p><hr/><p>Bacara Plugin 2.0 adds chord and rhythm sequencers to the existing melodic sequencer, supporting up to 21 simultaneous polyphonic voices. Available for macOS and Windows in VST3, AU, and CLAP formats, the update enables users to play chord, rhythm, and melodic parts together on a single clock.</p><p>Each sequencer utilizes a trained model based on twenty musical styles and a library of 46 written styles. The plugin also includes deviation lanes for pattern variation, eight pattern banks, and the ability to drag-and-drop patterns into a DAW as MIDI clips. The software is priced at €49.95, with a free trial available and free upgrades for current owners.</p><p><img src="https://static.kvraudio.com/i/b/v2-0-0_1_full_interface.png" /></p><hr/><small>7 Oct 2026, 18:51 UTC | #23555</small>]]></content>
+  </entry>
   <entry>
     <title>zc devices Launches Thicket Polyphonic Modular Synthesizer in Open Beta</title>
     <link href="https://bedroomproducersblog.com/2026/10/07/zc-devices-thicket/" rel="alternate" />
@@ -588,14 +597,5 @@
     <updated>2026-10-03T02:01:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/grni-lite.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/frctl-audio-releases-grni-lite---free-granular-sampler-vst3-au-and-clap-68849?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68849">kvraudio.com</a> | <a href="https://frctlaudio.com/products/grni-lite">source</a></small></p><hr/><p>FRCTL Audio has released GRNi Lite, a free granular sampler plugin compatible with VST3, AU, and CLAP formats. The plugin allows users to convert audio samples into playable instruments by setting a root note and defining grain source regions via waveform selection. Users can manipulate sound through three primary controls: root pitch, grain size, and grain density.</p><p>GRNi Lite is available for Windows, macOS, and Linux without a serial number or subscription requirement. While the lite version is free, FRCTL Audio also offers a full version of GRNi for $44.99, which includes a second sample layer, modulation, scale modes, and a dedicated effects rack.</p><p><img src="https://static.kvraudio.com/i/b/grni-lite.jpg" /></p><hr/><small>3 Oct 2026, 07:09 UTC | #23131</small>]]></content>
-  </entry>
-  <entry>
-    <title>W. A. Production Releases Asymo Reverb Plugin</title>
-    <link href="https://www.kvraudio.com/news/w-a-production-releases-asymo-reverb-dynamic-spatial-reverb-vst3-au-and-aax-68872?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68872" rel="alternate" />
-    <id>https://www.kvraudio.com/news/w-a-production-releases-asymo-reverb-dynamic-spatial-reverb-vst3-au-and-aax-68872?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68872::v239</id>
-    <published>2026-10-02T19:10:00+00:00</published>
-    <updated>2026-10-02T19:10:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/asymo-reverb_1920x1080.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/w-a-production-releases-asymo-reverb-dynamic-spatial-reverb-vst3-au-and-aax-68872?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68872">kvraudio.com</a> | <a href="https://www.waproduction.com/plugins/view/asymo-reverb">source</a></small></p><hr/><p>W. A. Production has released Asymo Reverb, a dynamic spatial reverb plugin for macOS and Windows supporting VST3, AU, and AAX formats. The plugin utilizes interactive geometry warping and a real-time room rotation engine to allow users to reshape and animate acoustic environments while maintaining pitch and phase stability.</p><p>Technical features include adjustable per-node virtual wall boundaries, input ducking for transient clarity, and frequency-shaping filters. The plugin is priced at $49.90, with an introductory price of $14.90 available through October 22, 2026.</p><p><img src="https://static.kvraudio.com/i/b/asymo-reverb_1920x1080.png" /></p><hr/><small>2 Oct 2026, 22:13 UTC | #23111</small>]]></content>
   </entry>
 </feed>

@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-07T14:32:00+00:00</updated>
+  <updated>2026-10-07T15:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Modulo Bias in Random Selection</title>
+    <link href="https://ersc.io/blog/when-random-isnt-random-enough" rel="alternate" />
+    <id>https://ersc.io/blog/when-random-isnt-random-enough::v239</id>
+    <published>2026-10-07T15:13:00+00:00</published>
+    <updated>2026-10-07T15:13:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ersc.io/blog/when-random-isnt-random-enough">ersc.io</a> | <a href="https://lobste.rs/s/njjwgr/when_random_is_not_actually_random_enough">discussion</a> | <a href="https://news.ycombinator.com/item?id=49983404">hacker news</a></small></p><hr/><p>Applying the modulo operator to a large random number to select items from a set creates modulo bias, causing non-uniform probability distributions where certain outcomes are more likely. This occurs when the range of the random number source is not a multiple of the size of the set.</p><p>Range-based sampling functions and `random_choice` APIs using relative integer weights mitigate these biases. These methods avoid floating-point precision issues and facilitate the explicit definition of intended probability distributions.</p><hr/><small>7 Oct 2026, 18:56 UTC | #23590</small>]]></content>
+  </entry>
   <entry>
     <title>C Programming Language Differences for Rust Programmers</title>
     <link href="https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/" rel="alternate" />
@@ -925,13 +933,5 @@
     <updated>2026-10-02T19:15:00+00:00</updated>
     <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/">techcrunch.com</a> | <a href="https://developer.apple.com/news/?id=p6zjojqw">source</a> | <a href="https://news.ycombinator.com/item?id=49937631">hacker news</a></small></p><hr/><p>Apple is introducing new controls for the "Full Disk Access" setting in macOS to mitigate security risks posed by autonomous AI agents. While the permission was originally designed to allow backup software to function, Apple warned that some developers are using it to access sensitive data—including files, mail, and messages—without users' full understanding of the extent of that access.</p><p>The move follows reports involving AI tools like Meta's Muse and ChatGPT's Mac application that raised concerns regarding the access of private user communications. Apple's upcoming implementation will require "very explicit user action" before an application can be granted this high level of access, aiming to ensure users can make informed privacy decisions as AI capabilities expand.</p><p><img src="https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200" /></p><hr/><small>2 Oct 2026, 23:26 UTC | #23098</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Introduces Pass Designer for Apple Wallet</title>
-    <link href="https://developer.apple.com/pass-designer/" rel="alternate" />
-    <id>https://developer.apple.com/pass-designer/::v239</id>
-    <published>2026-10-02T19:07:00+00:00</published>
-    <updated>2026-10-02T19:07:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://developer.apple.com/pass-designer/">developer.apple.com</a> | <a href="https://news.ycombinator.com/item?id=49937276">hacker news</a></small></p><hr/><p>Pass Designer is a macOS application used to design and preview Apple Wallet passes. The tool provides real-time rendering for iPhone and Apple Watch, performs data validation to identify errors, and utilizes semantic tags to enable integration with Siri, Maps, and Calendar.</p><p>Users can utilize Apple-provided templates or custom branding assets to create personalized designs. The software is available in beta for macOS 27 or later and includes functionality to generate backward-compatible pass structures for older devices.</p><hr/><small>2 Oct 2026, 21:54 UTC | #23116</small>]]></content>
   </entry>
 </feed>
