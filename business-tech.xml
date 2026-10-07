@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-07T04:26:00+00:00</updated>
+  <updated>2026-10-07T04:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI Startups Increasingly Become Serial Acquirers</title>
+    <link href="https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/" rel="alternate" />
+    <id>https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/::v239</id>
+    <published>2026-10-07T04:29:00+00:00</published>
+    <updated>2026-10-07T04:29:00+00:00</updated>
+    <media:thumbnail url="https://news.crunchbase.com/wp-content/uploads/mergers_and_acquisitions.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/">news.crunchbase.com</a></small></p><hr/><p>Venture-backed AI startup acquisitions reached 195 through September 29, a 14% increase over the entirety of 2025. A concentrated group of "serial acquirers," led by OpenAI, is driving this trend as they use mergers and acquisitions to secure specialized talent, fill product gaps, and enter new markets faster than through organic development.</p><p>Vertical AI sectors like legal tech and customer service are seeing similar trends from companies including Anthropic, Legora, and Harvey. High valuations and the necessity for rapid growth have positioned M&amp;A as a strategic tool for startups seeking to scale quickly to meet investor demands.</p><p><img src="https://news.crunchbase.com/wp-content/uploads/mergers_and_acquisitions.jpg" /></p><hr/><small>7 Oct 2026, 11:09 UTC | #23507</small>]]></content>
+  </entry>
   <entry>
     <title>Rapidus Partners with 17 Companies to Support Chip Design</title>
     <link href="https://www.reuters.com/world/asia-pacific/japans-15-billion-rapidus-chip-bet-hinges-winning-customers-2026-10-06/" rel="alternate" />
@@ -690,14 +699,5 @@
     <updated>2026-10-02T11:46:00+00:00</updated>
     <media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/10/Garman-Keynote-10-1260x840.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.geekwire.com/2026/amazon-pledges-1b-to-data-center-communities-warns-that-local-opposition-threatens-u-s-ai-lead/">geekwire.com</a> | <a href="https://www.aboutamazon.com/news/company-news/amazon-data-centers-built-together">source</a></small></p><hr/><p>Through its 'Built Together' initiative, AWS is committing $1 billion over five years to the U.S. regions hosting its data centers. The program will fund community college endowments, vocational training, and energy-efficiency upgrades for local homes and schools.</p><p>AWS CEO Matt Garman framed the move as a response to local opposition and misinformation, which he claims could threaten U.S. leadership in the AI race. The company's commitment also includes publishing annual energy and water usage metrics and ensuring that facility operations do not cause local electricity rate hikes.</p><p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/10/Garman-Keynote-10-1260x840.jpg" /></p><hr/><small>2 Oct 2026, 17:30 UTC | #23058</small>]]></content>
-  </entry>
-  <entry>
-    <title>California Man Charged with Smuggling Over $300 Million in Restricted Nvidia Chips to China</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china::v239</id>
-    <published>2026-10-02T11:10:00+00:00</published>
-    <updated>2026-10-02T11:10:00+00:00</updated>
-    <media:thumbnail url="https://etimg.etb2bimg.com/thumb/msid-130957243,imgsize-66990,width-1200,height=627,overlay-ettelecom,resizemode-75/devices/us-investigates-nvidia-chip-smuggling-to-china-via-thailands-obon-corp.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china">bloomberg.com</a> | <a href="https://www.justice.gov/usao-cdca/pr/san-gabriel-man-arrested-federal-charges-alleging-he-smuggled-china-more-300-million">source</a></small></p><hr/><p>Federal prosecutors have charged a California man with smuggling more than $300 million worth of export-controlled computer servers to China. The alleged scheme, occurring between 2023 and 2024, involved routing high-end graphics processing units (GPUs) through Malaysia and Singapore to evade U.S. trade restrictions on AI-capable hardware.</p><p>The accused, identified in legal filings as Greg Lui, operates a technology company based in the San Gabriel Valley. The indictment targets the illegal export of hardware designed for super-intelligence applications, which is subject to strict U.S. export controls intended to limit China's access to advanced computing technology.</p><p><img src="https://etimg.etb2bimg.com/thumb/msid-130957243,imgsize-66990,width-1200,height=627,overlay-ettelecom,resizemode-75/devices/us-investigates-nvidia-chip-smuggling-to-china-via-thailands-obon-corp.jpg" /></p><hr/><small>2 Oct 2026, 17:00 UTC | #23054</small>]]></content>
   </entry>
 </feed>
