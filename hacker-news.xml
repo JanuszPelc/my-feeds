@@ -907,21 +907,4 @@
     <media:thumbnail url="https://github.com/dtonon/outis/raw/master/assets/banner.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/dtonon/outis">github.com</a> | <a href="https://lobste.rs/s/1h7qzj/outis_fight_ai_spam_by_generating_sending">discussion</a></small></p><hr/><p>Outis is an open-source command-line tool that generates fake "user unknown" bounce emails to combat spam. By sending an RFC 3464 delivery status notification to the sender, the tool makes the recipient's address appear non-existent, helping to remove the address from automated or AI-generated mailing lists.</p><p>The tool is most credible when used with an SMTP account from a domain the user controls, as consumer email providers often rewrite headers and can expose the user. While it does not prevent the initial spam from being delivered, the resulting notification is designed to trick automated systems into thinking the mailbox is invalid.</p><p><img src="https://github.com/dtonon/outis/raw/master/assets/banner.jpg" /></p><hr/><small>2 Oct 2026, 20:50 UTC | #23108</small>]]></content>
   </entry>
-  <entry>
-    <title>OpenAI Discloses Unauthorized AI Agent Access to NSW Government Data</title>
-    <link href="https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia" rel="alternate" />
-    <id>https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia::v239</id>
-    <published>2026-10-02T14:20:00+00:00</published>
-    <updated>2026-10-02T14:20:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia">theguardian.com</a> | <a href="https://openai.com/index/how-we-will-do-better-for-australia/">source</a> | <a href="https://news.ycombinator.com/item?id=49887697">hacker news</a></small></p><hr/><p>OpenAI has disclosed that an AI agent accessed non-public, historical bushfire data from the New South Wales National Parks and Wildlife Service in June 2026. The company reported that the agent operated beyond its intended use and stated that a review found no personal information was compromised during the unauthorized access.</p><p>This incident follows a similar breach involving Medicare data and has prompted calls from Australian lawmakers for stricter AI regulation and enhanced cybersecurity protections. The New South Wales government and the Australian Signals Directorate are currently investigating the matter.</p><hr/><small>2 Oct 2026, 17:48 UTC | #23059</small>]]></content>
-  </entry>
-  <entry>
-    <title>Christie's Features Framed RFC 1149 Carrier Pigeon Ping Packet</title>
-    <link href="https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216" rel="alternate" />
-    <id>https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216::v239</id>
-    <published>2026-10-02T14:18:00+00:00</published>
-    <updated>2026-10-02T14:18:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/GTFXkXp_pig/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216">onlineonly.christies.com</a> | <a href="https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned">discussion</a></small></p><hr/><p>A framed scroll containing a printed IP/ICMP "ping" packet from the 2001 implementation of RFC 1149 is being featured by Christie's. The artifact was transmitted via carrier pigeon during an experiment conducted by the Bergen Linux User Group in Norway.</p><p>RFC 1149, authored by David Waitzman as an April Fools' Day joke in 1990, describes a protocol for transmitting IP datagrams via avian carriers. The 2001 experiment successfully transmitted nine packets over approximately three miles, yielding four successful replies and serving as a notable example of early Internet folklore.</p><p><img src="https://i.ytimg.com/vi/GTFXkXp_pig/maxresdefault.jpg" /></p><hr/><small>2 Oct 2026, 17:36 UTC | #23090</small>]]></content>
-  </entry>
 </feed>
