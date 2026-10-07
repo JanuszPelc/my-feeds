@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Unsloth Adds Integrated Browser and EmbeddingGemma 2 Support</title>
+    <link href="https://unsloth.ai/docs/new/changelog#embeddinggemma-2--browser" rel="alternate" />
+    <id>https://unsloth.ai/docs/new/changelog#embeddinggemma-2--browser::v239</id>
+    <published>2026-10-07T04:27:00+00:00</published>
+    <updated>2026-10-07T04:27:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQG26RcdS2mFUQ/feedshare-shrink_800/B4EZnoD3ZbKkAg-/0/1760534953038?e=2147483647&amp;v=beta&amp;t=bSt3819nvLxqSMBeASCQW5tXDH_1Xl56BaUwEswXseg" />
+    <content type="html"><![CDATA[<p><small>Unsloth Changelog | <a href="https://unsloth.ai/docs/new/changelog#embeddinggemma-2--browser">unsloth.ai</a></small></p><hr/><p>Unsloth has integrated a browser into its platform, enabling users to view files, web pages, and model-generated HTML in tabs alongside the chat interface. The release also includes support for Google's EmbeddingGemma 2, a multimodal embedding model that integrates text, code, images, video, and audio into a single vector space.</p><p>Additional features include new audio pages for transcription and music generation, lower-memory training options, and a code execution sandbox with Colab and Docker support. Users can also access live previews during image and video generation and utilize vLLM or SGLang engines.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQG26RcdS2mFUQ/feedshare-shrink_800/B4EZnoD3ZbKkAg-/0/1760534953038?e=2147483647&v=beta&t=bSt3819nvLxqSMBeASCQW5tXDH_1Xl56BaUwEswXseg" /></p><hr/><small>7 Oct 2026, 10:54 UTC | #23536</small>]]></content>
+  </entry>
+  <entry>
     <title>Arizona Court System Cyberattack Compromises 1.3 Million People's Data</title>
     <link href="https://apnews.com/article/arizona-court-system-cyberattack-67a83df1d6c80cdf07ee2c208bf6e676" rel="alternate" />
     <id>https://apnews.com/article/arizona-court-system-cyberattack-67a83df1d6c80cdf07ee2c208bf6e676::v239</id>

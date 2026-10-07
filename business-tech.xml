@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-07T04:23:00+00:00</updated>
+  <updated>2026-10-07T04:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Rapidus Partners with 17 Companies to Support Chip Design</title>
+    <link href="https://www.reuters.com/world/asia-pacific/japans-15-billion-rapidus-chip-bet-hinges-winning-customers-2026-10-06/" rel="alternate" />
+    <id>https://www.reuters.com/world/asia-pacific/japans-15-billion-rapidus-chip-bet-hinges-winning-customers-2026-10-06/::v239</id>
+    <published>2026-10-07T04:26:00+00:00</published>
+    <updated>2026-10-07T04:26:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/japans-15-billion-rapidus-chip-bet-hinges-winning-customers-2026-10-06/">reuters.com</a> | <a href="https://www.rapidus.inc/en/news_topics/information/20261005-2/">source</a></small></p><hr/><p>Rapidus Corporation has established the Rapidus Collaborative Open Rapid Ecosystem (CORE) to support the development and mass production of advanced semiconductors. The initiative involves 17 partner companies, including Synopsys and Cadence, which will act as Design Solution Associates to assist customers in designing chips for Rapidus's planned 2nm semiconductor foundry.</p><p>Supported by over $15 billion in Japanese state funding, the company aims to build a comprehensive ecosystem to secure a customer base for its upcoming manufacturing capabilities. These partnerships are intended to provide the design resources and specialized expertise required to bridge the gap between chip designers and Rapidus's production facilities.</p><hr/><small>7 Oct 2026, 10:47 UTC | #23505</small>]]></content>
+  </entry>
   <entry>
     <title>GitHub Refuses to Remove Ad-Stripped Copies of Photopea Software</title>
     <link href="https://news.ycombinator.com/item?id=49982498" rel="alternate" />
