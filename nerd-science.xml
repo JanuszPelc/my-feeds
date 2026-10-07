@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-07T13:20:00+00:00</updated>
+  <updated>2026-10-07T16:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Meta, Google, and US Government Fund Biohub's AI Biology Initiative</title>
+    <link href="https://www.reuters.com/business/healthcare-pharmaceuticals/us-government-google-join-zuckerberg-backed-biohub-18-billion-push-ai-biology-2026-10-07/" rel="alternate" />
+    <id>https://www.reuters.com/business/healthcare-pharmaceuticals/us-government-google-join-zuckerberg-backed-biohub-18-billion-push-ai-biology-2026-10-07/::v239</id>
+    <published>2026-10-07T16:31:00+00:00</published>
+    <updated>2026-10-07T16:31:00+00:00</updated>
+    <media:thumbnail url="https://images.squarespace-cdn.com/content/v1/65a69e0c110a6977ead9741c/61f49bd6-fcb5-427d-875d-af6e9db17d05/biohub-virtual-biology-initiative-ai-cell-modeling-research.jpg.png?format=2500w" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/healthcare-pharmaceuticals/us-government-google-join-zuckerberg-backed-biohub-18-billion-push-ai-biology-2026-10-07/">reuters.com</a> | <a href="https://biohub.org/news/virtual-biology-initiative/">source</a></small></p><hr/><p>Meta Platforms, Google DeepMind, Isomorphic Labs, and the US government are investing a combined $800 million into the Chan Zuckerberg Biohub. This funding supports the Virtual Biology Initiative, which aims to build open-access, multi-modal biological datasets to train AI models for predictive cellular research.</p><p>The initiative builds upon a $500 million commitment from Biohub founders Mark Zuckerberg and Priscilla Chan in April. By establishing a global data foundation for AI-accelerated biology, the project seeks to accelerate disease research through improved modeling of the human cell.</p><p><img src="https://images.squarespace-cdn.com/content/v1/65a69e0c110a6977ead9741c/61f49bd6-fcb5-427d-875d-af6e9db17d05/biohub-virtual-biology-initiative-ai-cell-modeling-research.jpg.png?format=2500w" /></p><hr/><small>7 Oct 2026, 20:49 UTC | #23551</small>]]></content>
+  </entry>
   <entry>
     <title>Henri B. Kagan and Kenso Soai Awarded 2026 Nobel Prize in Chemistry</title>
     <link href="https://www.nobelprize.org/prizes/chemistry/2026/press-release/" rel="alternate" />
