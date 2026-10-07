@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-07T01:06:00+00:00</updated>
+  <updated>2026-10-07T01:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Boston Dynamics Appoints Rohit Prasad as CEO</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-06/boston-dynamics-taps-amazon-alexa-executive-as-new-ceo" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-06/boston-dynamics-taps-amazon-alexa-executive-as-new-ceo::v239</id>
+    <published>2026-10-07T01:31:00+00:00</published>
+    <updated>2026-10-07T01:31:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-06/boston-dynamics-taps-amazon-alexa-executive-as-new-ceo">bloomberg.com</a> | <a href="https://www.businesswire.com/news/home/20261006372029/en/Boston-Dynamics-Appoints-Rohit-Prasad-as-Chief-Executive-Officer">source</a></small></p><hr/><p>Boston Dynamics has appointed former Amazon executive Rohit Prasad as its new chief executive officer. Prasad, who spent 12 years contributing to the development and expansion of Alexa, will lead the Hyundai Motor Co.-controlled company.</p><p>The appointment is intended to drive the company's next phase of innovation and commercialization, specifically regarding robotics and Physical AI technologies. Prasad previously served as senior vice president and head scientist for Alexa and Artificial General Intelligence at Amazon.</p><hr/><small>7 Oct 2026, 08:36 UTC | #23502</small>]]></content>
+  </entry>
   <entry>
     <title>GLM-5.3 Open Release Undercuts Arguments for Banning Open Models</title>
     <link href="https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken" rel="alternate" />
