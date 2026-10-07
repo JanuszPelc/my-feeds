@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-07T01:33:00+00:00</updated>
+  <updated>2026-10-07T13:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Henri B. Kagan and Kenso Soai Awarded 2026 Nobel Prize in Chemistry</title>
+    <link href="https://www.nobelprize.org/prizes/chemistry/2026/press-release/" rel="alternate" />
+    <id>https://www.nobelprize.org/prizes/chemistry/2026/press-release/::v239</id>
+    <published>2026-10-07T13:20:00+00:00</published>
+    <updated>2026-10-07T13:20:00+00:00</updated>
+    <media:thumbnail url="https://www.nobelprize.org/images/174599-large-2x.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.nobelprize.org/prizes/chemistry/2026/press-release/">nobelprize.org</a> | <a href="https://news.ycombinator.com/item?id=49990470">hacker news</a></small></p><hr/><p>Discoveries in non-linear effects and autocatalysis in asymmetric organic synthesis have earned Henri B. Kagan and Kenso Soai the 2026 Nobel Prize in Chemistry. Their research explains the spontaneous emergence of homochirality, the phenomenon in which chemical reactions favor one mirror-image molecular form over another.</p><p>This work resolves a century-old mystery regarding how life's molecular asymmetry originated. Such control over molecular handedness is vital for pharmaceutical manufacturing, where the specific orientation of a molecule determines its biological efficacy.</p><p><img src="https://www.nobelprize.org/images/174599-large-2x.jpg" /></p><hr/><small>7 Oct 2026, 18:06 UTC | #23581</small>]]></content>
+  </entry>
   <entry>
     <title>Earth's Most Massive Species by Biomass</title>
     <link href="https://signoregalilei.com/2026/09/27/whats-earths-dominant-species-by-mass/" rel="alternate" />

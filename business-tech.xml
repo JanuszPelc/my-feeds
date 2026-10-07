@@ -3,9 +3,25 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-07T13:14:00+00:00</updated>
+  <updated>2026-10-07T13:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Micron Taiwan Union Secures Authorization to Strike Over Bonus Dispute</title>
+    <link href="https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/" rel="alternate" />
+    <id>https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/::v239</id>
+    <published>2026-10-07T13:19:00+00:00</published>
+    <updated>2026-10-07T13:19:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/">reuters.com</a></small></p><hr/><p>A union representing Micron Technology workers in Taiwan has secured authorization to strike over a dispute regarding the company's bonus scheme. The decision follows the failure of negotiations to reach an agreement on the structure of employee rewards.</p><p>The union is advocating for a profit-sharing model similar to those used by other semiconductor manufacturers, specifically requesting bonuses linked to a percentage of operating profits. While authorization for industrial action has been granted, the specific terms and timing of a potential strike remain under discussion.</p><hr/><small>7 Oct 2026, 18:04 UTC | #23534</small>]]></content>
+  </entry>
+  <entry>
+    <title>Elon Musk to Operate Terafab Chipmaking Independently</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-07/elon-musk-rules-out-potential-tsmc-role-in-terafab-operations" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-07/elon-musk-rules-out-potential-tsmc-role-in-terafab-operations::v239</id>
+    <published>2026-10-07T13:18:00+00:00</published>
+    <updated>2026-10-07T13:18:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-07/elon-musk-rules-out-potential-tsmc-role-in-terafab-operations">bloomberg.com</a></small></p><hr/><p>Musk's business empire will build and operate the Texas-based Terafab chipmaking project independently, ruling out any operational role for Taiwan Semiconductor Manufacturing Co. (TSMC).</p><p>The decision quashes industry speculation that the semiconductor leader would participate in the management or operation of the venture.</p><hr/><small>7 Oct 2026, 18:02 UTC | #23535</small>]]></content>
+  </entry>
   <entry>
     <title>Finnish Authorities Order Suspension of Google Data Center Construction</title>
     <link href="https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html" rel="alternate" />
