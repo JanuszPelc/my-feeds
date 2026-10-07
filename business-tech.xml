@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-07T01:31:00+00:00</updated>
+  <updated>2026-10-07T02:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Michael Smith Sentenced to 18 Months for $8M AI Music Streaming Fraud</title>
+    <link href="https://www.billboard.com/pro/ai-music-streaming-fraud-sentence-man-18-months-prison-scam/" rel="alternate" />
+    <id>https://www.billboard.com/pro/ai-music-streaming-fraud-sentence-man-18-months-prison-scam/::v239</id>
+    <published>2026-10-07T02:21:00+00:00</published>
+    <updated>2026-10-07T02:21:00+00:00</updated>
+    <media:thumbnail url="https://www.billboard.com/wp-content/uploads/2025/09/music-streaming-apps-billboard-1800.jpg?w=942&amp;h=628&amp;crop=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.billboard.com/pro/ai-music-streaming-fraud-sentence-man-18-months-prison-scam/">billboard.com</a> | <a href="https://www.justice.gov/usao-sdny/pr/north-carolina-man-sentenced-18-months-prison-super-intelligence-assisted-music">source</a></small></p><hr/><p>Michael Smith was sentenced to 18 months in prison for a scheme that used AI-generated songs and bot networks to steal over $8 million in music royalties. He used automated bots to stream fake tracks billions of times on platforms like Spotify and Apple Music to artificially inflate play counts and divert payments from legitimate creators.</p><p>This ruling marks the first criminal conviction for streaming fraud. Industry groups and federal prosecutors argued that the sentence is a necessary deterrent against the growing use of AI and automation to manipulate streaming revenues and undermine artist compensation.</p><p><img src="https://www.billboard.com/wp-content/uploads/2025/09/music-streaming-apps-billboard-1800.jpg?w=942&h=628&crop=1" /></p><hr/><small>7 Oct 2026, 09:34 UTC | #23503</small>]]></content>
+  </entry>
   <entry>
     <title>Boston Dynamics Appoints Rohit Prasad as CEO</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-06/boston-dynamics-taps-amazon-alexa-executive-as-new-ceo" rel="alternate" />
@@ -674,14 +683,5 @@
     <updated>2026-10-02T11:10:00+00:00</updated>
     <media:thumbnail url="https://etimg.etb2bimg.com/thumb/msid-130957243,imgsize-66990,width-1200,height=627,overlay-ettelecom,resizemode-75/devices/us-investigates-nvidia-chip-smuggling-to-china-via-thailands-obon-corp.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china">bloomberg.com</a> | <a href="https://www.justice.gov/usao-cdca/pr/san-gabriel-man-arrested-federal-charges-alleging-he-smuggled-china-more-300-million">source</a></small></p><hr/><p>Federal prosecutors have charged a California man with smuggling more than $300 million worth of export-controlled computer servers to China. The alleged scheme, occurring between 2023 and 2024, involved routing high-end graphics processing units (GPUs) through Malaysia and Singapore to evade U.S. trade restrictions on AI-capable hardware.</p><p>The accused, identified in legal filings as Greg Lui, operates a technology company based in the San Gabriel Valley. The indictment targets the illegal export of hardware designed for super-intelligence applications, which is subject to strict U.S. export controls intended to limit China's access to advanced computing technology.</p><p><img src="https://etimg.etb2bimg.com/thumb/msid-130957243,imgsize-66990,width-1200,height=627,overlay-ettelecom,resizemode-75/devices/us-investigates-nvidia-chip-smuggling-to-china-via-thailands-obon-corp.jpg" /></p><hr/><small>2 Oct 2026, 17:00 UTC | #23054</small>]]></content>
-  </entry>
-  <entry>
-    <title>Larry Ellison's Expanding Influence in AI, Media, and Politics</title>
-    <link href="https://www.vanityfair.com/story/larry-ellison-profile" rel="alternate" />
-    <id>https://www.vanityfair.com/story/larry-ellison-profile::v239</id>
-    <published>2026-10-02T09:32:00+00:00</published>
-    <updated>2026-10-02T09:32:00+00:00</updated>
-    <media:thumbnail url="https://media.vanityfair.com/photos/6abc22976741bd9442f219fa/master/w_1600%2Cc_limit/VF1026%2520NE%2520ELLISON%2520%2520embed%25201.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.vanityfair.com/story/larry-ellison-profile">vanityfair.com</a></small></p><hr/><p>Beyond his leadership at Oracle, Larry Ellison is positioning himself at the center of critical global sectors. His reach includes driving AI infrastructure through partnerships with OpenAI, consolidating Hollywood via Skydance's acquisition of Paramount and Warner Bros. Discovery, and exerting political weight through significant donations and international connections.</p><p>Ellison's pervasive control is often described using an "octopus" metaphor, spanning his ownership of the island of Lanai, American media, and political circles. His recent activities are also shaped by an obsession with wellness and a desire to secure a lasting historical legacy.</p><p><img src="https://media.vanityfair.com/photos/6abc22976741bd9442f219fa/master/w_1600%2Cc_limit/VF1026%2520NE%2520ELLISON%2520%2520embed%25201.jpg" /></p><hr/><small>2 Oct 2026, 16:03 UTC | #23048</small>]]></content>
   </entry>
 </feed>

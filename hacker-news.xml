@@ -898,40 +898,4 @@
     <media:thumbnail url="https://www.rei3.com/wp-content/uploads/2025/04/09/24eadcf7b9fafb2d65ff06da66fbc004.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yuka.dev/blog-2026-10-02-linux-m4.html">yuka.dev</a> | <a href="https://lobste.rs/s/s4wm69/forgetful_cpu_linux_on_m4">discussion</a></small></p><hr/><p>Technical challenges have emerged in booting Linux on Apple's M4 SoC due to a non-compliant implementation of the WFI (Wait For Interrupt) instruction. This hardware behavior causes the loss of CPU architectural state, preventing stable multi-core operation during low-power transitions.</p><p>A workaround involving the replacement of WFI instructions with NOPs or the use of specific kernel boot arguments has been merged into the mainline Linux kernel and the m1n1 bootloader. This enables full multi-core functionality on M4, M4 Pro, M4 Max, and M5 Apple Silicon chips, while reverse-engineering of remaining peripherals like the GPU remains ongoing.</p><p><img src="https://www.rei3.com/wp-content/uploads/2025/04/09/24eadcf7b9fafb2d65ff06da66fbc004.webp" /></p><hr/><small>2 Oct 2026, 17:34 UTC | #23094</small>]]></content>
   </entry>
-  <entry>
-    <title>Shimano Bicycle Museum Showcases the Evolution of Bicycles</title>
-    <link href="https://inrng.com/2026/10/shimano-bicycle-museum/" rel="alternate" />
-    <id>https://inrng.com/2026/10/shimano-bicycle-museum/::v239</id>
-    <published>2026-10-02T09:29:00+00:00</published>
-    <updated>2026-10-02T09:29:00+00:00</updated>
-    <media:thumbnail url="https://inrng.com/medias/images/shimanobikemuseum1.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://inrng.com/2026/10/shimano-bicycle-museum/">inrng.com</a> | <a href="https://bikemuse.jp/en/">source</a> | <a href="https://news.ycombinator.com/item?id=49930047">hacker news</a></small></p><hr/><p>The Shimano Bicycle Museum in Sakai, Japan, showcases the mechanical evolution of the bicycle, from early hobby horses to modern racing equipment. The exhibits emphasize technical development and the societal context of cycling rather than the corporate history of Shimano.</p><p>The museum provides accessible exhibits for close inspection of components like the Dura-Ace groupset and includes hands-on displays comparing the weight of steel, aluminum, and titanium. A library and a research archive of primary source materials are also available on the top floor.</p><p><img src="https://inrng.com/medias/images/shimanobikemuseum1.jpg" /></p><hr/><small>2 Oct 2026, 15:31 UTC | #23078</small>]]></content>
-  </entry>
-  <entry>
-    <title>Valen Implements Memory Safety Across Rust Boundary</title>
-    <link href="https://verdagon.dev/blog/boundary-memory-safety" rel="alternate" />
-    <id>https://verdagon.dev/blog/boundary-memory-safety::v239</id>
-    <published>2026-10-02T09:27:00+00:00</published>
-    <updated>2026-10-02T09:27:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQEq66KA0M1Jnw/article-cover_image-shrink_600_2000/B56ZxVqWeyK4AQ-/0/1770963695402?e=2147483647&amp;v=beta&amp;t=08YjnI_JlWThWL1r4a4I2jXH97UxKi8jzWQJyimE9Fg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://verdagon.dev/blog/boundary-memory-safety">verdagon.dev</a> | <a href="https://lobste.rs/s/ajtnc6/second_golden_spike_memory_safety_across">discussion</a></small></p><hr/><p>The Valen programming language has developed a prototype that maintains memory safety when calling Rust functions. By implementing "group borrowing," the language provides a more flexible alternative to Rust's "shared-xor-mutable" model, allowing multiple mutable references to the same object.</p><p>This approach utilizes "temporary uniqueness" to preserve LLVM noalias optimizations, ensuring that the increased flexibility does not compromise performance. The mechanism enables Valen to safely mutate Rust objects, bridging the gap between different memory-safety paradigms.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQEq66KA0M1Jnw/article-cover_image-shrink_600_2000/B56ZxVqWeyK4AQ-/0/1770963695402?e=2147483647&v=beta&t=08YjnI_JlWThWL1r4a4I2jXH97UxKi8jzWQJyimE9Fg" /></p><hr/><small>2 Oct 2026, 15:01 UTC | #23074</small>]]></content>
-  </entry>
-  <entry>
-    <title>Connected Vehicle Study Reveals Extensive Third-Party Data Tracking</title>
-    <link href="https://automatictransmission.khoury.northeastern.edu/index.html" rel="alternate" />
-    <id>https://automatictransmission.khoury.northeastern.edu/index.html::v239</id>
-    <published>2026-10-02T09:26:00+00:00</published>
-    <updated>2026-10-02T09:26:00+00:00</updated>
-    <media:thumbnail url="https://automatictransmission.khoury.northeastern.edu/images/test-facility.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://automatictransmission.khoury.northeastern.edu/index.html">automatictransmission.khoury.northeastern.edu</a> | <a href="https://dl.acm.org/doi/10.1145/3777912.3839795">source</a> | <a href="https://news.ycombinator.com/item?id=49926628">hacker news</a></small></p><hr/><p>Researchers at Northeastern University and Consumer Reports have identified frequent transmission of sensitive data from connected vehicles and their companion apps to third-party advertisers and trackers. An analysis of 21 vehicles and 30 mobile apps found that 19 vehicles contacted third-party domains via Wi-Fi, and several apps sent personally identifiable information, including VINs and precise locations, to tracking companies.</p><p>Companion apps can approximately double a vehicle's exposure to advertising and tracking domains. The research highlights a gap between manufacturer privacy disclosures and actual data-sharing practices, noting that consumers lack significant control over their information once it leaves the device.</p><p><img src="https://automatictransmission.khoury.northeastern.edu/images/test-facility.png" /></p><hr/><small>2 Oct 2026, 14:58 UTC | #23073</small>]]></content>
-  </entry>
-  <entry>
-    <title>Erlang VM Stdin EOF Limitation Workaround</title>
-    <link href="https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend" rel="alternate" />
-    <id>https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend::v239</id>
-    <published>2026-10-02T09:23:00+00:00</published>
-    <updated>2026-10-02T09:23:00+00:00</updated>
-    <media:thumbnail url="https://opengraph.githubassets.com/6278a123b340e86c98e7c8620548b0946b86fbb27df481ac9421e06783325047/erlang/otp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend">discussion</a></small></p><hr/><p>A limitation in the Erlang VM prevents the closing of `stdin` for started child processes, making it impossible to signal an End-of-File (EOF) to programs like `exiftool` or `magick`. This failure to signal EOF causes child processes to wait for input until they hit a timeout, leading to application crashes.</p><p>A shell script wrapper can resolve this by reading a specific number of bytes from `stdin` before executing the target program, which ensures the pipe is closed correctly. This workaround addresses an Erlang OTP GitHub issue that remains unresolved despite being marked as completed.</p><p><img src="https://opengraph.githubassets.com/6278a123b340e86c98e7c8620548b0946b86fbb27df481ac9421e06783325047/erlang/otp" /></p><hr/><small>2 Oct 2026, 14:41 UTC | #23070</small>]]></content>
-  </entry>
 </feed>
