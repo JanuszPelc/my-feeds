@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-07T07:17:00+00:00</updated>
+  <updated>2026-10-07T09:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Technical Analysis of the Skyrim Magelight XP Glitch</title>
+    <link href="https://blog.alexbeals.com/posts/explaining-the-magelight-xp-glitch-in-skyrim" rel="alternate" />
+    <id>https://blog.alexbeals.com/posts/explaining-the-magelight-xp-glitch-in-skyrim::v239</id>
+    <published>2026-10-07T09:10:00+00:00</published>
+    <updated>2026-10-07T09:10:00+00:00</updated>
+    <media:thumbnail url="https://blog.alexbeals.com/images/explaining-the-magelight-xp-glitch-in-skyrim/3.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.alexbeals.com/posts/explaining-the-magelight-xp-glitch-in-skyrim">blog.alexbeals.com</a> | <a href="https://lobste.rs/s/biwe7d/explaining_magelight_xp_glitch_skyrim">discussion</a></small></p><hr/><p>A glitch in The Elder Scrolls V: Skyrim allows players to gain massive Alteration experience by casting the Magelight spell near specific terrain, such as the mountains outside Solitude. The projectile's interaction with the L_TRANSPARENT_SMALL collision layer causes the error; because this layer is exempt from the "HandleHit" function that normally stops projectiles, the spell triggers a collision event on every frame until it has passed halfway through the object.</p><p>Analysis using TES5Edit and Cheat Engine confirms the glitch is caused by collision layer mechanics rather than travel distance or weather effects. The investigation identifies the specific interaction between the LightSpellProjectile and the game's collision detection logic that enables the unintended, continuous XP gain.</p><p><img src="https://blog.alexbeals.com/images/explaining-the-magelight-xp-glitch-in-skyrim/3.jpg" /></p><hr/><small>7 Oct 2026, 14:06 UTC | #23552</small>]]></content>
+  </entry>
   <entry>
     <title>Google Debuts Google Playground AI Game Creation Platform</title>
     <link href="https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground" rel="alternate" />

@@ -924,13 +924,4 @@
     <media:thumbnail url="https://i.ytimg.com/vi/GTFXkXp_pig/maxresdefault.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216">onlineonly.christies.com</a> | <a href="https://lobste.rs/s/wqqkws/actual_rfc1149_packet_being_auctioned">discussion</a></small></p><hr/><p>A framed scroll containing a printed IP/ICMP "ping" packet from the 2001 implementation of RFC 1149 is being featured by Christie's. The artifact was transmitted via carrier pigeon during an experiment conducted by the Bergen Linux User Group in Norway.</p><p>RFC 1149, authored by David Waitzman as an April Fools' Day joke in 1990, describes a protocol for transmitting IP datagrams via avian carriers. The 2001 experiment successfully transmitted nine packets over approximately three miles, yielding four successful replies and serving as a notable example of early Internet folklore.</p><p><img src="https://i.ytimg.com/vi/GTFXkXp_pig/maxresdefault.jpg" /></p><hr/><small>2 Oct 2026, 17:36 UTC | #23090</small>]]></content>
   </entry>
-  <entry>
-    <title>Linux Support for Apple M4 Chips Enabled via WFI Workaround</title>
-    <link href="https://yuka.dev/blog-2026-10-02-linux-m4.html" rel="alternate" />
-    <id>https://yuka.dev/blog-2026-10-02-linux-m4.html::v239</id>
-    <published>2026-10-02T14:02:00+00:00</published>
-    <updated>2026-10-02T14:02:00+00:00</updated>
-    <media:thumbnail url="https://www.rei3.com/wp-content/uploads/2025/04/09/24eadcf7b9fafb2d65ff06da66fbc004.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yuka.dev/blog-2026-10-02-linux-m4.html">yuka.dev</a> | <a href="https://lobste.rs/s/s4wm69/forgetful_cpu_linux_on_m4">discussion</a></small></p><hr/><p>Technical challenges have emerged in booting Linux on Apple's M4 SoC due to a non-compliant implementation of the WFI (Wait For Interrupt) instruction. This hardware behavior causes the loss of CPU architectural state, preventing stable multi-core operation during low-power transitions.</p><p>A workaround involving the replacement of WFI instructions with NOPs or the use of specific kernel boot arguments has been merged into the mainline Linux kernel and the m1n1 bootloader. This enables full multi-core functionality on M4, M4 Pro, M4 Max, and M5 Apple Silicon chips, while reverse-engineering of remaining peripherals like the GPU remains ongoing.</p><p><img src="https://www.rei3.com/wp-content/uploads/2025/04/09/24eadcf7b9fafb2d65ff06da66fbc004.webp" /></p><hr/><small>2 Oct 2026, 17:34 UTC | #23094</small>]]></content>
-  </entry>
 </feed>
