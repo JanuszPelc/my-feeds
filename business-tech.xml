@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-07T07:14:00+00:00</updated>
+  <updated>2026-10-07T07:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Singapore Regulators Deem Hyperliquid Outside Regulatory Jurisdiction</title>
+    <link href="https://www.ft.com/content/cd851d45-596b-4745-8c28-ce7ace1d3e43" rel="alternate" />
+    <id>https://www.ft.com/content/cd851d45-596b-4745-8c28-ce7ace1d3e43::v239</id>
+    <published>2026-10-07T07:18:00+00:00</published>
+    <updated>2026-10-07T07:18:00+00:00</updated>
+    <media:thumbnail url="https://cryptoslate.com/wp-content/uploads/2026/03/review-exchange-hyperliquid--1024x683.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/cd851d45-596b-4745-8c28-ce7ace1d3e43">ft.com</a></small></p><hr/><p>The Monetary Authority of Singapore (MAS) has indicated that the crypto futures decentralized exchange (DEX) Hyperliquid may fall outside its oversight due to the platform's decentralized operating structure. Although Hyperliquid Labs has confirmed it is headquartered in the city-state—a claim supported by corporate filings and local job postings—the regulator is leveraging the platform's decentralized nature to justify its exclusion from traditional jurisdiction.</p><p>Hyperliquid has stated it is not, and has never claimed to be, licensed or authorized by MAS. This regulatory impasse highlights the challenges Singapore faces in applying standard financial oversight to decentralized finance (DeFi) protocols that maintain a physical presence in the country.</p><p><img src="https://cryptoslate.com/wp-content/uploads/2026/03/review-exchange-hyperliquid--1024x683.jpg" /></p><hr/><small>7 Oct 2026, 12:57 UTC | #23510</small>]]></content>
+  </entry>
   <entry>
     <title>European Commission Considers Broad Levy to Tax US Tech Companies</title>
     <link href="https://www.ft.com/content/ad06ed89-f600-4694-8c95-7d53b6d3315b" rel="alternate" />
