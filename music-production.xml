@@ -607,30 +607,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/bluecatfreewarepack.1790956245.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/blue-cat-audio-releases-free-amp-2-0-and-updates-all-free-plug-ins-68870?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68870">kvraudio.com</a> | <a href="https://www.bluecataudio.com/">source</a></small></p><hr/><p>Free Amp 2.0 features new amp models based on Destructor V2 technology, a dedicated bass amp model, and integrated reverb. The update adds standalone application support and maintains compatibility with original V1 models to support existing audio sessions.</p><p>Updates to the company's freeware collection, including Gain Suite 3.6, provide expanded MIDI control, improved preset management, and user-interface enhancements. All eight plugins remain free to use without the need for registration, hardware dongles, or subscriptions.</p><p><img src="https://static.kvraudio.com/i/b/bluecatfreewarepack.1790956245.jpg" /></p><hr/><small>2 Oct 2026, 20:47 UTC | #23087</small>]]></content>
   </entry>
-  <entry>
-    <title>j.mp3 labs Releases Pulse Ducker Free Sidechain Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/10/02/pulse-ducker-sidechain/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/02/pulse-ducker-sidechain/::v239</id>
-    <published>2026-10-02T16:54:00+00:00</published>
-    <updated>2026-10-02T16:54:00+00:00</updated>
-    <media:thumbnail url="https://enzymetech.io/collapse-ui-tour.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/02/pulse-ducker-sidechain/">bedroomproducersblog.com</a> | <a href="https://jamesmp3.com/labs/pulse-ducker">source</a> | <a href="https://bedroomproducersblog.com/2026/10/02/pulse-ducker-sidechain/#comments">discussion</a></small></p><hr/><p>j.mp3 labs has released Pulse Ducker, a free sidechain volume shaper plugin for macOS, Windows, and Linux. The tool utilizes volume envelopes to duck audio signals instead of traditional compression and includes 16 customizable curves.</p><p>The plugin supports tempo synchronization and can be triggered through MIDI or audio signals. It is available in VST3 format for Windows, macOS, and Linux (Beta), and as an AU plugin for macOS.</p><p><img src="https://enzymetech.io/collapse-ui-tour.jpg" /></p><hr/><small>2 Oct 2026, 20:28 UTC | #23080</small>]]></content>
-  </entry>
-  <entry>
-    <title>idealism Releases hetki Character Piano Instrument</title>
-    <link href="https://www.kvraudio.com/news/idealism-releases-hetki-a-character-piano-instrument-for-macos-and-windows-68868?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68868" rel="alternate" />
-    <id>https://www.kvraudio.com/news/idealism-releases-hetki-a-character-piano-instrument-for-macos-and-windows-68868?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68868::v239</id>
-    <published>2026-10-02T16:53:00+00:00</published>
-    <updated>2026-10-02T16:53:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/hetki-face.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/idealism-releases-hetki-a-character-piano-instrument-for-macos-and-windows-68868?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68868">kvraudio.com</a> | <a href="https://hetki.idealism.co/">source</a></small></p><hr/><p>idealism has released hetki, a piano instrument built from a single 1908 Steinway Model O recorded at Greystoke Studio in London. The plugin contains approximately 5,100 samples at 96 kHz/24-bit, utilizing three microphone positions, six velocity layers, and multiple noise layers including sustain pedal, key movement, and felt sounds.</p><p>The software includes ten presets: four standard piano sounds and six textural variations, such as tape-effected versions and ambient pads. It is available as a VST3, AU, or standalone application for macOS and Windows at a price of €24.99.</p><p><img src="https://static.kvraudio.com/i/b/hetki-face.jpg" /></p><hr/><small>2 Oct 2026, 20:23 UTC | #23088</small>]]></content>
-  </entry>
-  <entry>
-    <title>You At Midnight Releases Dreamwater Free Vocal Sample Pack</title>
-    <link href="https://bedroomproducersblog.com/2026/10/02/dreamwater-vocals/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/02/dreamwater-vocals/::v239</id>
-    <published>2026-10-02T16:52:00+00:00</published>
-    <updated>2026-10-02T16:52:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/02/dreamwater-vocals/">bedroomproducersblog.com</a> | <a href="https://youatmidnight.gumroad.com/l/dreamwater">source</a> | <a href="https://bedroomproducersblog.com/2026/10/02/dreamwater-vocals/#respond">discussion</a></small></p><hr/><p>You At Midnight has released Dreamwater, a free collection of 36 low-register female vocal samples. Performed, composed, and produced by Patrícia Araújo, the pack is provided in WAV format and is designed to provide atmospheric, emotional textures for music production.</p><p>The collection features human-recorded vocals intended to serve as an alternative to machine-generated vocal tools. The 36 samples focus on adding depth and mystery to various musical genres.</p><hr/><small>2 Oct 2026, 20:22 UTC | #23081</small>]]></content>
-  </entry>
 </feed>

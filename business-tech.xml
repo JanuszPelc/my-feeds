@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-07T11:29:00+00:00</updated>
+  <updated>2026-10-07T13:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Common Sense Media Labels ChatGPT for Teens an Unacceptable Risk</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media" rel="alternate" />
+    <id>https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media::v239</id>
+    <published>2026-10-07T13:13:00+00:00</published>
+    <updated>2026-10-07T13:13:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media">theverge.com</a> | <a href="https://institute.commonsensemedia.org/risk-assessments/chatgpt-teens">source</a></small></p><hr/><p>Common Sense Media has released an assessment stating that OpenAI's ChatGPT for Teens poses an "unacceptable risk" to young users. The report claims the tool's safety guardrails are insufficient, specifically citing failures in parental crisis alerts and the tool's ability to facilitate student homework completion.</p><p>OpenAI has contested the findings, suggesting the testing methodology may have occurred before parental controls were fully implemented. Common Sense Media refuted this, stating that several test accounts failed to trigger required safety notifications long after the activation window.</p><hr/><small>7 Oct 2026, 16:56 UTC | #23531</small>]]></content>
+  </entry>
   <entry>
     <title>Spotify Expands Audiobook Access to Over 180 Markets</title>
     <link href="https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/" rel="alternate" />
@@ -707,23 +715,5 @@
     <updated>2026-10-02T17:04:00+00:00</updated>
     <media:thumbnail url="https://media.xenospectrum.com/large_eu_dma_cloud_designation_brussels_c0da5f8724.webp" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-02/microsoft-amazon-cloud-arms-set-to-face-deeper-scrutiny-under-eu-s-tech-rules">bloomberg.com</a> | <a href="https://digital-strategy.ec.europa.eu/en/news/commission-reaches-preliminary-position-amazons-and-microsofts-market-leading-cloud-services-should">source</a></small></p><hr/><p>The European Commission has reached a preliminary view that Microsoft Corp.’s Azure and Amazon Web Services (AWS) should be designated as "gatekeepers" under the Digital Markets Act (DMA). This decision follows investigations into whether the cloud computing providers meet the regulatory criteria for designation under the EU's technology rules.</p><p>The move marks the first instance of the DMA being applied to cloud infrastructure. If finalized, the companies will have six months to comply with DMA regulations or risk fines of up to 10% of their global annual turnover.</p><p><img src="https://media.xenospectrum.com/large_eu_dma_cloud_designation_brussels_c0da5f8724.webp" /></p><hr/><small>2 Oct 2026, 21:03 UTC | #23067</small>]]></content>
-  </entry>
-  <entry>
-    <title>Pope Leo XIV Distinguishes Human Art from AI-Generated Content</title>
-    <link href="https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/::v239</id>
-    <published>2026-10-02T16:58:00+00:00</published>
-    <updated>2026-10-02T16:58:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/">techcrunch.com</a> | <a href="https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html">source</a></small></p><hr/><p>Pope Leo XIV has denounced AI-generated art, claiming an "ontological difference" between human creativity and machine output. He asserts that algorithms lack a "spark of humanity" because they rely on statistical calculations based on millions of existing images rather than genuine human expression.</p><p>The Pope's stance follows a May 2026 encyclical regarding human dignity and automation. This position persists despite lobbying efforts by companies such as Anthropic to have the Vatican reconsider its stance on non-human consciousness.</p><p><img src="https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950" /></p><hr/><small>2 Oct 2026, 20:46 UTC | #23079</small>]]></content>
-  </entry>
-  <entry>
-    <title>Alex Martsinovich Outlines the Professional and Social Risks of Agentic Coding</title>
-    <link href="https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding" rel="alternate" />
-    <id>https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding::v239</id>
-    <published>2026-10-02T16:49:00+00:00</published>
-    <updated>2026-10-02T16:49:00+00:00</updated>
-    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!DvNW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0f3e11e-6387-4f89-b216-8318d92c4dac_2048x1763.jpeg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding">distantprovince.substack.com</a> | <a href="https://lobste.rs/s/wevegu/four_horsemen_agentic_coding">discussion</a> | <a href="https://news.ycombinator.com/item?id=49934511">hacker news</a></small></p><hr/><p>The rise of agentic coding—the use of AI agents to automate software development—presents four primary challenges: the proliferation of unreadable "slop" code, developer alienation from the craft, the erosion of professional skills, and the degradation of interpersonal communication within teams. As developers shift from hands-on creators to high-level orchestrators of AI agents, the author argues they lose a vital sense of ownership and craftsmanship in their work.</p><p>This transition poses a risk to long-term industry skill acquisition, as junior developers may struggle to build foundational expertise without direct, kinesthetic practice. Furthermore, the increased reliance on autonomous agents may weaken the social fabric of engineering teams by reducing the collaborative problem-solving and skill expression that currently foster professional relationships.</p><p><img src="https://substackcdn.com/image/fetch/$s_!DvNW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0f3e11e-6387-4f89-b216-8318d92c4dac_2048x1763.jpeg" /></p><hr/><small>2 Oct 2026, 20:07 UTC | #23104</small>]]></content>
   </entry>
 </feed>
