@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-07T13:19:00+00:00</updated>
+  <updated>2026-10-07T15:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>The Pizza Standard LLC Files Lawsuit Against Visa, Mastercard, and Major Banks Over Transaction Fees</title>
+    <link href="https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees" rel="alternate" />
+    <id>https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees::v239</id>
+    <published>2026-10-07T15:10:00+00:00</published>
+    <updated>2026-10-07T15:10:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees">classaction.org</a> | <a href="https://www.classaction.org/media/the-pizza-standard-llc-v-visa-inc-et-al.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=49993914">hacker news</a></small></p><hr/><p>Visa, Mastercard, and several major banks, including Bank of America and Chase, are facing a class action lawsuit alleging a conspiracy to artificially inflate merchant credit card transaction fees. The complaint filed by The Pizza Standard LLC claims that anticompetitive rules have prevented merchants from negotiating lower rates or steering customers toward more affordable payment options.</p><p>The litigation focuses on transaction fees incurred from January 25, 2019, onwards, a period not covered by a previous $5 billion class action settlement. The suit seeks to represent all U.S. merchants that have accepted Visa or Mastercard since that date, alleging that these practices have cost businesses hundreds of billions of dollars in annual fees.</p><hr/><small>7 Oct 2026, 18:29 UTC | #23583</small>]]></content>
+  </entry>
   <entry>
     <title>Micron Taiwan Union Secures Authorization to Strike Over Bonus Dispute</title>
     <link href="https://www.reuters.com/business/world-at-work/microns-taoyuan-union-taiwan-secures-authorisation-strike-2026-10-07/" rel="alternate" />
