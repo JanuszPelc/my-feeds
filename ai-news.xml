@@ -337,29 +337,4 @@
     <updated>2026-10-03T02:50:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://dwarfstar.sh/">dwarfstar.sh</a> | <a href="https://news.ycombinator.com/item?id=49936575">hacker news</a></small></p><hr/><p>The engine supports large-scale frontier models—including DeepSeek V4 and V4.1, GLM 5.x, and Qwen3.8 Flash Next—on high-memory local hardware. It employs asymmetric 2-bit quantization to make massive mixture-of-experts (MoE) architectures compatible with Mac (Metal), CUDA, and ROCm-enabled systems.</p><p>Developed by Salvatore Sanfilippo, the tool provides a CLI, an OpenAI-compatible HTTP API, and a native agent for persistent sessions. It also features an SSD-backed KV cache that saves prompt prefixes to disk, allowing users to resume long-context tasks without re-computing the initial prompt.</p><hr/><small>3 Oct 2026, 11:19 UTC | #23151</small>]]></content>
   </entry>
-  <entry>
-    <title>TypeSafe AI's Jev Model Achieves High Adoption and Throughput</title>
-    <link href="https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d" rel="alternate" />
-    <id>https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d::v239</id>
-    <published>2026-10-02T22:27:00+00:00</published>
-    <updated>2026-10-02T22:27:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/startup-typesafe-ais-jev-model-sparks-copycats-talk-of-llm-alternatives-e39ff57d">wsj.com</a> | <a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">source</a> | <a href="https://news.ycombinator.com/item?id=49717558">hacker news</a></small></p><hr/><p>TypeSafe AI's Jev model is used by approximately 25% of Fortune 500 companies and recently reached a daily throughput of one trillion tokens. CEO Diogo Almeida characterizes the model as the forefront of a new class of AI.</p><p>Designed for increased efficiency, the Jev model aims to match the intelligence of existing large language models while operating significantly faster. TypeSafe AI recently emerged from stealth following a $40 million seed funding round led by DCVC.</p><hr/><small>3 Oct 2026, 02:37 UTC | #23103</small>]]></content>
-  </entry>
-  <entry>
-    <title>ChatGPT Sites Feature Enables Website and App Creation</title>
-    <link href="https://chatgpt.com/features/sites/" rel="alternate" />
-    <id>https://chatgpt.com/features/sites/::v239</id>
-    <published>2026-10-02T22:26:00+00:00</published>
-    <updated>2026-10-02T22:26:00+00:00</updated>
-    <media:thumbnail url="https://shot.huntscreens.com/6580ac6e-d75e-447e-a909-ffb3a985479b_large.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://chatgpt.com/features/sites/">chatgpt.com</a> | <a href="https://news.ycombinator.com/item?id=49927747">hacker news</a></small></p><hr/><p>ChatGPT Sites allows users to develop, refine, and publish websites, applications, and games through conversational prompting. Users can iterate on designs by describing requirements, adding visual references, or building from existing projects.</p><p>The platform provides hosting capabilities, including custom domain support and "Sign in with ChatGPT" to allow visitors to save their progress. It also supports collaborative workspace editing and controlled integration with connected tools.</p><p><img src="https://shot.huntscreens.com/6580ac6e-d75e-447e-a909-ffb3a985479b_large.webp" /></p><hr/><small>3 Oct 2026, 02:25 UTC | #23132</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tavus Unveils Griffin Human Interaction Model</title>
-    <link href="https://x.com/tavus" rel="alternate" />
-    <id>https://x.com/tavus::v239</id>
-    <published>2026-10-02T22:21:00+00:00</published>
-    <updated>2026-10-02T22:21:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/tavus">x.com</a> | <a href="https://www.tavus.io/griffin">source</a> | <a href="https://news.ycombinator.com/item?id=49927686">hacker news</a></small></p><hr/><p>Tavus has introduced Griffin, a "Human Interaction Model" (HIM) capable of full-duplex, real-time video interaction. In a blind study of 54 participants, 48% of users believed the AI was a real person during a one-minute video call, compared to a success rate of less than 3% for previous systems. The model reportedly holds the top position on NVIDIA's benchmark for full-duplex AI video.</p><p>Griffin utilizes a video-to-video architecture to listen, watch, talk, gesture, and react simultaneously to simulate human-like behavior. While a research preview called Griffin-Lite is currently available to a select group of early testers, a wider release of the full model is planned for the future following further safety considerations.</p><hr/><small>3 Oct 2026, 01:52 UTC | #23100</small>]]></content>
-  </entry>
 </feed>
