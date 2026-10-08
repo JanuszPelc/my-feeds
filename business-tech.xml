@@ -3,9 +3,25 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-08T14:43:00+00:00</updated>
+  <updated>2026-10-08T14:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Yandex Suspends Sasovo Data Center Operations After Drone Strike</title>
+    <link href="https://www.reuters.com/world/drones-hit-yandex-data-centre-first-major-attack-russian-data-hub-2026-10-08/" rel="alternate" />
+    <id>https://www.reuters.com/world/drones-hit-yandex-data-centre-first-major-attack-russian-data-hub-2026-10-08/::v239</id>
+    <published>2026-10-08T14:55:00+00:00</published>
+    <updated>2026-10-08T14:55:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/drones-hit-yandex-data-centre-first-major-attack-russian-data-hub-2026-10-08/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50007025">hacker news</a></small></p><hr/><p>A drone strike on the facility in Sasovo, Russia, has caused a fire and forced the complete suspension of operations at the site. This incident marks the first major attack on a Russian data hub since the start of the war in Ukraine.</p><p>The Sasovo site, located in the Ryazan region, houses tens of thousands of servers and two of the company's supercomputers. Yandex has stated it is currently unclear whether the damaged equipment can be restored.</p><hr/><small>8 Oct 2026, 19:40 UTC | #23683</small>]]></content>
+  </entry>
+  <entry>
+    <title>Spotify and Joe Rogan Renew Multiyear Licensing Deal</title>
+    <link href="https://www.wsj.com/business/media/joe-rogan-re-ups-lucrative-spotify-deal-4f53c565?st=tbfaye&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/business/media/joe-rogan-re-ups-lucrative-spotify-deal-4f53c565?st=tbfaye&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-10-08T14:54:00+00:00</published>
+    <updated>2026-10-08T14:54:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/business/media/joe-rogan-re-ups-lucrative-spotify-deal-4f53c565?st=tbfaye&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://newsroom.spotify.com/2026-10-08/joe-rogan-experience-partnership/">source</a></small></p><hr/><p>Spotify and Joe Rogan have renewed their multiyear licensing and advertising sales agreement. Sources indicate the new terms are similar to the $250 million deal signed in 2024.</p><p>The renewal continues a partnership that began in 2020. "The Joe Rogan Experience" remains the top-ranked podcast in U.S. listenership.</p><hr/><small>8 Oct 2026, 19:38 UTC | #23684</small>]]></content>
+  </entry>
   <entry>
     <title>Finland's Data Center Investments Reach €67 Billion Driven by AI Demand</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-08/finland-s-data-center-tally-tops-67-billion-on-ai-boom" rel="alternate" />

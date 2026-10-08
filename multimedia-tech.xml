@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-07T19:39:00+00:00</updated>
+  <updated>2026-10-08T14:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Xbox Launches XP Division for Film, TV, and Consumer Products</title>
+    <link href="https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events" rel="alternate" />
+    <id>https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events::v239</id>
+    <published>2026-10-08T14:53:00+00:00</published>
+    <updated>2026-10-08T14:53:00+00:00</updated>
+    <media:thumbnail url="https://sm.ign.com/ign_ap/photo/x/xbox-annou/xbox-announces-new-xp-entertainment-division-to-make-movies_kfj3.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events">theverge.com</a> | <a href="https://news.xbox.com/en-us/2026/10/08/introducing-xp/">source</a> | <a href="https://news.ycombinator.com/item?id=50004984">hacker news</a></small></p><hr/><p>Xbox is establishing a new division, XP, to expand its intellectual properties into non-gaming media. The division will oversee four primary areas: film and television through Xbox Pictures, consumer products via Xbox Products, live events and attractions via Xbox Places, and brand partnerships through Xbox Partnerships.</p><p>The division will be headed by Kayleen Walters, who moves from her role at Mojang to become President of XP. This strategic shift is part of a broader organizational restructuring by Xbox leadership and accompanies several ongoing media adaptations for franchises including *Minecraft*, *Fallout*, *Call of Duty*, and *Diablo*.</p><p><img src="https://sm.ign.com/ign_ap/photo/x/xbox-annou/xbox-announces-new-xp-entertainment-division-to-make-movies_kfj3.jpg" /></p><hr/><small>8 Oct 2026, 19:38 UTC | #23685</small>]]></content>
+  </entry>
   <entry>
     <title>Bit Reactor Begins Rehiring Furloughed Staff</title>
     <link href="https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff" rel="alternate" />

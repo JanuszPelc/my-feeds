@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-08T14:50:00+00:00</updated>
+  <updated>2026-10-08T15:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Audio Modeling Releases PolySWAM Polyphonic Orchestral Instrument</title>
+    <link href="https://www.kvraudio.com/news/audio-modeling-releases-polyswam---polyphonic-orchestral-instrument-vst3-au-and-aax-68979?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68979" rel="alternate" />
+    <id>https://www.kvraudio.com/news/audio-modeling-releases-polyswam---polyphonic-orchestral-instrument-vst3-au-and-aax-68979?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68979::v239</id>
+    <published>2026-10-08T15:00:00+00:00</published>
+    <updated>2026-10-08T15:00:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/polyswam-1-main.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/audio-modeling-releases-polyswam---polyphonic-orchestral-instrument-vst3-au-and-aax-68979?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68979">kvraudio.com</a> | <a href="https://audiomodeling.com/products/polyswam">source</a></small></p><hr/><p>Audio Modeling has released PolySWAM, a polyphonic orchestral instrument for macOS and Windows available in VST3, AU, and AAX formats. Utilizing the company's SWAM engine and proprietary voice-allocation technology, the plugin uses real-time physical modeling to simulate instrumental behavior for chords and ensembles rather than relying on sample playback.</p><p>Developed in collaboration with producer Emanuele Ruffinengo, the instrument includes presets for chamber ensembles, brass sections, and symphonic layers. It is designed to support composition, music production, and live performance, with a retail price of $379.</p><p><img src="https://static.kvraudio.com/i/b/polyswam-1-main.webp" /></p><hr/><small>8 Oct 2026, 19:49 UTC | #23667</small>]]></content>
+  </entry>
+  <entry>
+    <title>Teenage Engineering to Cease Synthesizer Production</title>
+    <link href="https://musictech.com/news/industry/teenage-engineering-stop-making-synths/" rel="alternate" />
+    <id>https://musictech.com/news/industry/teenage-engineering-stop-making-synths/::v239</id>
+    <published>2026-10-08T14:59:00+00:00</published>
+    <updated>2026-10-08T14:59:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2023/12/Teenage-Engineering-OP-1-dissected@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/industry/teenage-engineering-stop-making-synths/">musictech.com</a> | <a href="https://www.highsnobiety.com/p/teenage-engineering-interview/">source</a> | <a href="https://news.ycombinator.com/item?id=49998966">hacker news</a></small></p><hr/><p>Founder Jesper Kouthoofd has announced that the company will cease production of all synthesizers, including the flagship OP-1. The decision is intended to pivot the brand's focus away from the music hardware market toward more experimental and diverse product development.</p><p>The shift follows a company reorganization and represents a major strategic change for the Stockholm-based brand. While some users have urged the company to open-source its firmware to support existing gear, leadership has expressed a desire to prioritize boundary-pushing, high-concept projects regardless of their potential profitability.</p><p><img src="https://musictech.com/wp-content/uploads/2023/12/Teenage-Engineering-OP-1-dissected@2000x1500.jpg" /></p><hr/><small>8 Oct 2026, 19:48 UTC | #23673</small>]]></content>
+  </entry>
   <entry>
     <title>Parallel Minds Releases Atavism v1.1 with AAX Support for Pro Tools</title>
     <link href="https://www.kvraudio.com/news/parallel-minds-updates-atavism-spectral-effect-plug-in-to-v1-1-with-aax-support-for-pro-tools-68977?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68977" rel="alternate" />
