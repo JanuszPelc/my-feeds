@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-07T21:44:00+00:00</updated>
+  <updated>2026-10-08T06:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Atomic Machines Emerges from Stealth with $250 Million to Launch Matter Compiler</title>
+    <link href="https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html?unlocked_article_code=1.HFE.YDRK.krqXr7rdBT5r&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html?unlocked_article_code=1.HFE.YDRK.krqXr7rdBT5r&amp;smid=url-share::v239</id>
+    <published>2026-10-08T06:21:00+00:00</published>
+    <updated>2026-10-08T06:21:00+00:00</updated>
+    <media:thumbnail url="https://www.stylecnc.com/uploads/allimg/260618/1-26061QA4300-L.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/07/science/atomic-machines-ai-micro-robots.html?unlocked_article_code=1.HFE.YDRK.krqXr7rdBT5r&smid=url-share">nytimes.com</a> | <a href="https://www.businesswire.com/news/home/20261007902471/en/Atomic-Machines-Emerges-from-Stealth-with-$250-Million-to-Launch-the-Matter-Compiler-an-AI-Native-Manufacturing-System-That-Builds-Micro-Machines-from-Code">source</a></small></p><hr/><p>Atomic Machines is launching the Matter Compiler, an AI-native manufacturing system that constructs micro-electromechanical systems (MEMS) directly from digital code. The technology uses artificial intelligence trained on material properties and design patterns to automate the fabrication of tiny physical devices.</p><p>The company is emerging from six years in stealth with $250 million in funding and plans to debut its first product family, PrimeSwitch. This system aims to streamline manufacturing by bridging software-based design with physical micro-scale assembly.</p><p><img src="https://www.stylecnc.com/uploads/allimg/260618/1-26061QA4300-L.jpg" /></p><hr/><small>8 Oct 2026, 15:23 UTC | #23632</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Launches Claude Haiku 5.5</title>
     <link href="https://www.anthropic.com/claude-haiku-5-5" rel="alternate" />

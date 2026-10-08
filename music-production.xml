@@ -3,9 +3,54 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-08T03:56:00+00:00</updated>
+  <updated>2026-10-08T09:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Kuusoutoshi Audio Releases DrumUnveil Drum Separation Plugin</title>
+    <link href="https://www.kvraudio.com/news/kuusoutoshi-audio-releases-drumunveil-split-a-drum-loop-into-six-lanes-of-audio-and-midi-vst3-and-au-68957?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68957" rel="alternate" />
+    <id>https://www.kvraudio.com/news/kuusoutoshi-audio-releases-drumunveil-split-a-drum-loop-into-six-lanes-of-audio-and-midi-vst3-and-au-68957?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68957::v239</id>
+    <published>2026-10-08T09:44:00+00:00</published>
+    <updated>2026-10-08T09:44:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/ph_gallery_1_lanes.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/kuusoutoshi-audio-releases-drumunveil-split-a-drum-loop-into-six-lanes-of-audio-and-midi-vst3-and-au-68957?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68957">kvraudio.com</a> | <a href="https://kuusoutoshi-audio.com/drumunveil/">source</a></small></p><hr/><p>Kuusoutoshi Audio has released DrumUnveil, a plugin for Windows and macOS that splits stereo drum loops into six individual audio lanes: kick, snare, toms, hi-hat, ride, and crash. The software also converts detected drum hits into MIDI notes with velocity, allowing users to drag and drop the separated audio and MIDI directly into a Digital Audio Workstation (DAW).</p><p>The plugin includes per-lane sensitivity and gate controls, a swing adjustment tool to manage groove timing, and instrument mapping for libraries such as Addictive Drums 2 and Toontrack. It is available as a one-time purchase starting at $49 during the launch period, and includes a trial mode that permits unlimited kick and snare MIDI export.</p><p><img src="https://static.kvraudio.com/i/b/ph_gallery_1_lanes.png" /></p><hr/><small>8 Oct 2026, 15:35 UTC | #23639</small>]]></content>
+  </entry>
+  <entry>
+    <title>Vitric Audio Updates Bevel EQ to v1.3.0 with External Sidechain Support</title>
+    <link href="https://www.kvraudio.com/news/vitric-audio-updates-bevel-eq-to-v1-3-0-with-external-sidechain-for-dynamic-bands-68959?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68959" rel="alternate" />
+    <id>https://www.kvraudio.com/news/vitric-audio-updates-bevel-eq-to-v1-3-0-with-external-sidechain-for-dynamic-bands-68959?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68959::v239</id>
+    <published>2026-10-08T09:33:00+00:00</published>
+    <updated>2026-10-08T09:33:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/bevel-eq-dynamic-band.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/vitric-audio-updates-bevel-eq-to-v1-3-0-with-external-sidechain-for-dynamic-bands-68959?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68959">kvraudio.com</a> | <a href="https://vitricaudio.com/bevel-eq">source</a></small></p><hr/><p>Version 1.3.0 of the Bevel EQ plugin introduces the ability to key dynamic bell or shelf bands using an external sidechain. This enables frequency-specific ducking—such as reducing bass frequencies in response to a kick drum—without routing the sidechain signal into the final output.</p><p>The new functionality is available in the VST3 and AU versions, while the AAX version maintains its previous layout. The 24-band dynamic EQ is designed for managing resonances and stereo cleanup.</p><p><img src="https://static.kvraudio.com/i/b/bevel-eq-dynamic-band.jpg" /></p><hr/><small>8 Oct 2026, 15:34 UTC | #23638</small>]]></content>
+  </entry>
+  <entry>
+    <title>Reverential Releases Boethius Free Polyphonic Synthesizer for macOS</title>
+    <link href="https://www.kvraudio.com/news/reverential-releases-boethius---free-polyphonic-synthesizer-for-macos-vst3-au-and-clap-68958?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68958" rel="alternate" />
+    <id>https://www.kvraudio.com/news/reverential-releases-boethius---free-polyphonic-synthesizer-for-macos-vst3-au-and-clap-68958?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68958::v239</id>
+    <published>2026-10-08T09:15:00+00:00</published>
+    <updated>2026-10-08T09:15:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/boethiusimage.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/reverential-releases-boethius---free-polyphonic-synthesizer-for-macos-vst3-au-and-clap-68958?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68958">kvraudio.com</a> | <a href="https://reverential.com/">source</a></small></p><hr/><p>Reverential has released version 0.1.0-alpha.2026-09-15 of Boethius, a free polyphonic software synthesizer for macOS. The plugin is available in Standalone, CLAP, VST3, AUv2, and AUv3 formats for both Apple silicon and Intel architectures. This alpha release includes support for sustain pedals and pitch bend.</p><p>The synthesizer features eight oscillator slots per voice, allowing for individual waveform, gain, pan, and ADSR envelope customization per slot. It supports up to 32 voices and utilizes band-limited single-cycle wavetables to minimize inharmonic content. While registration is not required to download the software, the developer intends to provide permanent free access to users who create an account.</p><p><img src="https://static.kvraudio.com/i/b/boethiusimage.png" /></p><hr/><small>8 Oct 2026, 15:32 UTC | #23640</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ueberschall Releases Blues and Country Loop Bundles for Elastik Player</title>
+    <link href="https://www.kvraudio.com/news/ueberschall-releases-two-new-loop-bundles-for-the-elastik-player-68968?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68968" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ueberschall-releases-two-new-loop-bundles-for-the-elastik-player-68968?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68968::v239</id>
+    <published>2026-10-08T09:12:00+00:00</published>
+    <updated>2026-10-08T09:12:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/blues-bundle-ueberschall-1920x1080.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ueberschall-releases-two-new-loop-bundles-for-the-elastik-player-68968?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68968">kvraudio.com</a> | <a href="https://www.ueberschall.com/products?category=BUNDLES">source</a></small></p><hr/><p>Ueberschall has released two new loop bundles for the Elastik player: the Blues Bundle and the Country Bundle. Each collection aggregates four distinct libraries to provide a comprehensive range of sounds, spanning from traditional Delta blues to modern country pop.</p><p>The Blues Bundle contains 18.1 GB of content and 43 construction kits, while the Country Bundle offers 12.9 GB of content and 35 construction kits. Both bundles require the free Elastik player and the Ueberschall Downloader app for soundbank management.</p><p><img src="https://static.kvraudio.com/i/b/blues-bundle-ueberschall-1920x1080.jpg" /></p><hr/><small>8 Oct 2026, 15:30 UTC | #23641</small>]]></content>
+  </entry>
+  <entry>
+    <title>discoDSP Releases WavePrompt and Roboto Free Music and Singing Voice Apps</title>
+    <link href="https://www.kvraudio.com/news/discodsp-releases-waveprompt-and-roboto---free-apps-for-generating-music-and-singing-voices-68890?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68890" rel="alternate" />
+    <id>https://www.kvraudio.com/news/discodsp-releases-waveprompt-and-roboto---free-apps-for-generating-music-and-singing-voices-68890?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68890::v239</id>
+    <published>2026-10-08T08:20:00+00:00</published>
+    <updated>2026-10-08T08:20:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/roboto_face.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/discodsp-releases-waveprompt-and-roboto---free-apps-for-generating-music-and-singing-voices-68890?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68890">kvraudio.com</a> | <a href="https://www.discodsp.com/">source</a></small></p><hr/><p>discoDSP has released two free applications, WavePrompt and Roboto. WavePrompt is a local text-to-music generator for macOS and Windows that utilizes the YuE2 model to create loops, vocal phrases, and full songs on Apple Silicon or NVIDIA/Intel Arc GPUs without a server or account. Roboto is a singing voice synthesizer for macOS, Windows, Linux, and iOS that synthesizes vocals using a glottal pulse source rather than samples.</p><p>WavePrompt supports multiple languages and allows for MIDI and WAV exports, featuring a piano roll for melodic input. Roboto provides several voice presets, automation for parameters like pitch and formant shift, and video export capabilities for its animated robot interface.</p><p><img src="https://static.kvraudio.com/i/b/roboto_face.webp" /></p><hr/><small>8 Oct 2026, 15:29 UTC | #23636</small>]]></content>
+  </entry>
   <entry>
     <title>VNL Works Releases YeetzClipper Detail-Preserving Clipper</title>
     <link href="https://www.kvraudio.com/news/vnl-works-releases-yeetzclipper---free-detail-preserving-clipper-with-a-true-peak-ceiling-68960?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68960" rel="alternate" />
