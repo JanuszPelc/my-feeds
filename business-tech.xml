@@ -3,7 +3,7 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-08T18:25:00+00:00</updated>
+  <updated>2026-10-08T23:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
@@ -11,9 +11,9 @@
     <link href="https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/" rel="alternate" />
     <id>https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/::v239</id>
     <published>2026-10-08T18:25:00+00:00</published>
-    <updated>2026-10-08T18:25:00+00:00</updated>
+    <updated>2026-10-08T23:58:00+00:00</updated>
     <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?w=1024" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/">techcrunch.com</a> | <a href="https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1">source</a></small></p><hr/><p>OpenAI has reportedly told investors its annualized revenue is approaching $50 billion, significantly less than the $70 billion figure recently estimated by analysts. This discrepancy stems from how revenue is calculated; previous estimates attempted to match Anthropic’s model by including sales made through cloud partners, a practice OpenAI does not follow.</p><p>This financial gap comes as the company works to justify huge capital expenditures following a $122 billion funding round in March. While leaked 2025 financials showed $13 billion in revenue against much higher spending, the company's rumored IPO has been delayed until 2027.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?w=1024" /></p><hr/><small>8 Oct 2026, 23:45 UTC | #23709</small>]]></content>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/">techcrunch.com</a> | <a href="https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a?syn-25a6b1a6=1">source</a> | <a href="https://news.ycombinator.com/item?id=50011505">hacker news</a></small></p><hr/><p>OpenAI has reportedly told investors its annualized revenue is approaching $50 billion, significantly less than the $70 billion figure recently estimated by analysts. This discrepancy stems from how revenue is calculated; previous estimates attempted to match Anthropic’s model by including sales made through cloud partners, a practice OpenAI does not follow.</p><p>This financial gap comes as the company works to justify huge capital expenditures following a $122 billion funding round in March. While leaked 2025 financials showed $13 billion in revenue against much higher spending, the company's rumored IPO has been delayed until 2027.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?w=1024" /></p><hr/><small>8 Oct 2026, 23:45 UTC | #23709</small>]]></content>
   </entry>
   <entry>
     <title>Anthropic Updates Usage Policy to Prohibit Election Interference and Model Abuse</title>
