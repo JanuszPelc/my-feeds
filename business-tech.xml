@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-08T14:55:00+00:00</updated>
+  <updated>2026-10-08T17:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Suspends Microsoft, Adobe and Other Firms from H-1B Green Card Program</title>
+    <link href="https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/" rel="alternate" />
+    <id>https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/::v239</id>
+    <published>2026-10-08T17:16:00+00:00</published>
+    <updated>2026-10-08T17:16:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50006948">hacker news</a></small></p><hr/><p>The federal government has barred Microsoft, Adobe, Cognizant, Infosys, and several other companies from a program that allows high-skilled H-1B visa holders to apply for permanent residency. Vice President JD Vance cited allegations of fraud and attempts to replace American workers with cheaper foreign labor as the basis for the suspension.</p><p>This move is part of a broader crackdown on visa-related processes, which includes the opening of probes into nine elite universities. The administration's actions aim to prevent corporations from exploiting the system to circumvent domestic hiring.</p><hr/><small>8 Oct 2026, 21:59 UTC | #23676</small>]]></content>
+  </entry>
   <entry>
     <title>Yandex Suspends Sasovo Data Center Operations After Drone Strike</title>
     <link href="https://www.reuters.com/world/drones-hit-yandex-data-centre-first-major-attack-russian-data-hub-2026-10-08/" rel="alternate" />
