@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-08T10:36:00+00:00</updated>
+  <updated>2026-10-08T14:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Finland's Data Center Investments Reach €67 Billion Driven by AI Demand</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-08/finland-s-data-center-tally-tops-67-billion-on-ai-boom" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-08/finland-s-data-center-tally-tops-67-billion-on-ai-boom::v239</id>
+    <published>2026-10-08T14:43:00+00:00</published>
+    <updated>2026-10-08T14:43:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt245aad67b30e0500/69728398c6470a0a2fc78b3e/DayOne-Lahti-1.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-08/finland-s-data-center-tally-tops-67-billion-on-ai-boom">bloomberg.com</a></small></p><hr/><p>Planned and active data center investments in Finland have exceeded €67 billion, fueled by the rising demand for artificial intelligence infrastructure, the country's cool climate, and access to renewable energy. The surge follows massive commitments from major technology firms, including a €13 billion investment from Alphabet Inc. to expand the nation's digital infrastructure and AI capacity.</p><p>The rapid expansion has established Finland as a significant European hub for hyperscale data centers, drawing interest from companies like Alibaba Group and Applied Digital. As the scale of these projects grows, the industry is also facing increased regulatory scrutiny, with some developers encountering orders to halt work due to local zoning or environmental considerations.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt245aad67b30e0500/69728398c6470a0a2fc78b3e/DayOne-Lahti-1.jpg?width=1280&auto=webp&quality=80&disable=upscale" /></p><hr/><small>8 Oct 2026, 18:54 UTC | #23647</small>]]></content>
+  </entry>
   <entry>
     <title>Huawei Prioritizes Homegrown Smartphone Technology Amid Slowing EV Sales</title>
     <link href="https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html" rel="alternate" />
@@ -717,13 +726,5 @@
     <updated>2026-10-04T00:21:00+00:00</updated>
     <media:thumbnail url="https://d1.awsstatic.com/AWSCostManagement/Budgets/aws-budgets-dashboard.78c5043d079d87a7d3cd7cb9939b81c6c17fbcd4.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/">simonwillison.net</a> | <a href="https://news.ycombinator.com/item?id=49949235">hacker news</a></small></p><hr/><p>Pay-by-usage services and APIs should implement hard budget caps by default, which automatically terminate services once a spending limit is reached. This mechanism is intended to prevent massive, unexpected bills caused by runaway AI agents or rogue automated services that "soft" warning-only limits may fail to stop in time.</p><p>Cloud providers including Google Cloud and AWS have introduced similar cost-management features, such as Google Cloud's "Spend Caps" and AWS's new spending limits. The author argues that these hard limits should be the industry standard, requiring users to explicitly opt-in to an uncapped billing model to avoid service interruptions.</p><p><img src="https://d1.awsstatic.com/AWSCostManagement/Budgets/aws-budgets-dashboard.78c5043d079d87a7d3cd7cb9939b81c6c17fbcd4.png" /></p><hr/><small>4 Oct 2026, 02:20 UTC | #23193</small>]]></content>
-  </entry>
-  <entry>
-    <title>Amazon Web Services Discontinues Use of NDAs for Data Center Projects with Government Agencies</title>
-    <link href="https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/::v239</id>
-    <published>2026-10-03T18:44:00+00:00</published>
-    <updated>2026-10-03T18:44:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/">techcrunch.com</a> | <a href="https://www.aboutamazon.com/news/company-news/amazon-data-centers-built-together">source</a></small></p><hr/><p>Amazon Web Services (AWS) has announced that it will no longer use nondisclosure agreements (NDAs) in its dealings with government agencies regarding data center development projects. The decision is intended to increase transparency and combat growing political and community backlash against the construction of data centers in the United States.</p><p>The move addresses concerns regarding the environmental and infrastructural impact of data centers, specifically related to water usage, electricity rates, and carbon emissions. To foster community relations, Amazon reported that it has contributed more than $1 billion to the areas where it maintains a significant data center presence over the past three years.</p><hr/><small>3 Oct 2026, 23:49 UTC | #23175</small>]]></content>
   </entry>
 </feed>

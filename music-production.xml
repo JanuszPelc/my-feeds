@@ -3,9 +3,35 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-08T12:26:00+00:00</updated>
+  <updated>2026-10-08T14:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Parallel Minds Releases Atavism v1.1 with AAX Support for Pro Tools</title>
+    <link href="https://www.kvraudio.com/news/parallel-minds-updates-atavism-spectral-effect-plug-in-to-v1-1-with-aax-support-for-pro-tools-68977?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68977" rel="alternate" />
+    <id>https://www.kvraudio.com/news/parallel-minds-updates-atavism-spectral-effect-plug-in-to-v1-1-with-aax-support-for-pro-tools-68977?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68977::v239</id>
+    <published>2026-10-08T14:50:00+00:00</published>
+    <updated>2026-10-08T14:50:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/atavism-1-window-on-plate-1600x900.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/parallel-minds-updates-atavism-spectral-effect-plug-in-to-v1-1-with-aax-support-for-pro-tools-68977?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68977">kvraudio.com</a> | <a href="https://parallel-minds.studio/products/atavism">source</a></small></p><hr/><p>Parallel Minds has updated its Atavism spectral effect plug-in to version 1.1, introducing AAX format support for Pro Tools. This update enables the plug-in to run on macOS (Apple Silicon and Intel) and Windows (64-bit) within Pro Tools 2025.6 or later, alongside existing VST3 and Audio Unit versions.</p><p>Existing users retain access to current licenses and shared presets across all supported formats. The update also enables automation for the plug-in's nine parameters within Pro Tools. A single installer for each platform is provided to update previous versions of the software.</p><p><img src="https://static.kvraudio.com/i/b/atavism-1-window-on-plate-1600x900.jpg" /></p><hr/><small>8 Oct 2026, 19:03 UTC | #23668</small>]]></content>
+  </entry>
+  <entry>
+    <title>UVI Prisma Virtual Instrument Offered for Free via Loot Audio</title>
+    <link href="https://bedroomproducersblog.com/2026/10/08/uvi-prisma-free/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/08/uvi-prisma-free/::v239</id>
+    <published>2026-10-08T14:48:00+00:00</published>
+    <updated>2026-10-08T14:48:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/08/uvi-prisma-free/">bedroomproducersblog.com</a> | <a href="https://www.lootaudio.com/category/plugins/uvi/prisma">source</a> | <a href="https://bedroomproducersblog.com/2026/10/08/uvi-prisma-free/#comments">discussion</a></small></p><hr/><p>Loot Audio is offering UVI's Prisma sample-based virtual instrument for free for a limited time. The software, which typically retails for $149, is compatible with both macOS and Windows operating systems.</p><p>This giveaway follows a previous distribution of promotional codes that were quickly exhausted. To use the instrument, users must register their serial keys through the UVI Portal.</p><hr/><small>8 Oct 2026, 19:00 UTC | #23695</small>]]></content>
+  </entry>
+  <entry>
+    <title>M Media Audio Releases The Drop Collection</title>
+    <link href="https://www.kvraudio.com/news/m-media-audio-releases-the-drop-collection---five-performance-effects-for-windows-macos-and-linux-68949?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68949" rel="alternate" />
+    <id>https://www.kvraudio.com/news/m-media-audio-releases-the-drop-collection---five-performance-effects-for-windows-macos-and-linux-68949?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68949::v239</id>
+    <published>2026-10-08T14:46:00+00:00</published>
+    <updated>2026-10-08T14:46:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot-loose-cannon01.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/m-media-audio-releases-the-drop-collection---five-performance-effects-for-windows-macos-and-linux-68949?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68949">kvraudio.com</a> | <a href="https://www.mmediaaudio.com/plugins/drop-collection-bundle/">source</a></small></p><hr/><p>M Media Audio has released The Drop Collection, a bundle comprising five VST3 and AU performance effects for Windows, macOS, and Linux. The collection includes Loose Cannon, Repeat Offender, Full Stop Shop, Half Time, and Low Res, each featuring a prominent, automatable "Engage" button for real-time audio manipulation.</p><p>Individual plugins are priced at $19 each, with the full collection available for $49 or a promotional $25 through October 11, 2026. The bundle offers a variety of processing tools, including tempo-locked wobble, stutter and gate effects, tape stops, pitch-following slowdowns, and bit-crushing.</p><p><img src="https://static.kvraudio.com/i/b/screenshot-loose-cannon01.jpg" /></p><hr/><small>8 Oct 2026, 18:58 UTC | #23669</small>]]></content>
+  </entry>
   <entry>
     <title>Spectral Engine Audio Releases Open Beta of Cross-Track De-Masking Plugin for macOS</title>
     <link href="https://www.kvraudio.com/news/spectral-engine-releases-open-beta-of-its-cross-track-de-masking-plugin-for-macos-vst3-and-au-68972?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68972" rel="alternate" />

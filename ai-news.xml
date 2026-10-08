@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-08T12:01:00+00:00</updated>
+  <updated>2026-10-08T14:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google Releases Google AI Edge Foresight for Mac</title>
+    <link href="https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/::v239</id>
+    <published>2026-10-08T14:49:00+00:00</published>
+    <updated>2026-10-08T14:49:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/foresight-retrieval-live-and-chat.gif?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/">techcrunch.com</a> | <a href="https://developers.google.com/edge/foresight">source</a></small></p><hr/><p>Google has released Google AI Edge Foresight, an offline-first Mac application for meeting transcription and note-taking. Running on Apple Silicon, the app uses the EmbeddingGemma 2 model to process audio and user shorthand locally, allowing for complete offline operation. The interface provides a split-screen view for manual and AI-generated notes and includes a chat assistant powered by Gemma 4.</p><p>Users can build a knowledge base by uploading various file formats, including PDFs and Google Docs, enabling the app to answer real-time questions during meetings. This release enters a crowded market of AI note-takers that includes Granola, Wispr, and Fathom. While currently an experimental showcase for Google's offline models, the tool could potentially expand into the wider Gemini productivity ecosystem.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/foresight-retrieval-live-and-chat.gif?w=680" /></p><hr/><small>8 Oct 2026, 19:02 UTC | #23659</small>]]></content>
+  </entry>
   <entry>
     <title>Claude Opus 5.5 and GPT-6 Astra Produce 3D Visualizations from a Single Prompt</title>
     <link href="https://quesma.com/blog/invisible-cities-one-shot/" rel="alternate" />
