@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-07T19:50:00+00:00</updated>
+  <updated>2026-10-07T21:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Margaret Hamilton, Apollo Program Software Pioneer, Dies at 90</title>
+    <link href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007" rel="alternate" />
+    <id>https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007::v239</id>
+    <published>2026-10-07T21:39:00+00:00</published>
+    <updated>2026-10-07T21:39:00+00:00</updated>
+    <media:thumbnail url="https://website-assets.studocu.com/img/document_thumbnails/cab66adc1e3080b1762c2d43b5f2fd4d/thumb_1200_1698.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">news.mit.edu</a> | <a href="https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who">discussion</a> | <a href="https://news.ycombinator.com/item?id=49998895">hacker news</a></small></p><hr/><p>Margaret Hamilton, the computer scientist who led the MIT Instrumentation Lab's software team for NASA's Apollo program, has died at the age of 90. She is credited with helping establish software engineering as a formal discipline and for developing the "defensive" and priority-driven programming techniques that ensured mission success during the Apollo 11 moon landing.</p><p>Following her work on the Apollo missions, Hamilton became a successful entrepreneur, founding Higher Order Software and Hamilton Technologies to improve system reliability. Her contributions to the field were recognized with the 2016 Presidential Medal of Freedom.</p><p><img src="https://website-assets.studocu.com/img/document_thumbnails/cab66adc1e3080b1762c2d43b5f2fd4d/thumb_1200_1698.png" /></p><hr/><small>8 Oct 2026, 00:40 UTC | #23609</small>]]></content>
+  </entry>
   <entry>
     <title>Bypassing Code Inspection via Memory Offsets in C</title>
     <link href="https://wiro.world/posts/calling-c-func-without-naming-it/" rel="alternate" />
