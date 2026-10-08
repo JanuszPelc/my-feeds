@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-08T00:03:00+00:00</updated>
+  <updated>2026-10-08T00:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Fired OpenAI Researchers Urge AI Labs to Preserve AI Monitoring Visibility</title>
+    <link href="https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94?st=SSs38V&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94?st=SSs38V&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-10-08T00:06:00+00:00</published>
+    <updated>2026-10-08T00:06:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94?st=SSs38V&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Three recently dismissed employees have sent a letter to OpenAI's board, calling on the industry to stop development efforts that would degrade the ability to monitor AI systems. They argue that their terminations are creating a "chilling effect" for staff members remaining at the company.</p><p>The researchers, who were reportedly fired for allegedly mishandling sensitive information, are specifically requesting that the company maintain visibility into AI reasoning processes. Their letter highlights ongoing industry tensions regarding safety oversight and the level of transparency required for advanced model internals.</p><hr/><small>8 Oct 2026, 07:16 UTC | #23617</small>]]></content>
+  </entry>
   <entry>
     <title>Four US States Sue TP-Link Over Alleged Misleading Security Claims and Chinese Ties</title>
     <link href="https://www.theregister.com/security/2026/10/07/us-states-sue-popular-kitmaker-tp-link-over-china-risks/5301653" rel="alternate" />
