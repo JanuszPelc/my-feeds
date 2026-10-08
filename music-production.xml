@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-08T15:00:00+00:00</updated>
+  <updated>2026-10-08T15:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Cherry Audio Releases Pentaphonic Synthesizer Plugin</title>
+    <link href="https://www.kvraudio.com/news/cherry-audio-releases-pentaphonic-synthesizer-plugin-vst-au-and-aax-68982?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68982" rel="alternate" />
+    <id>https://www.kvraudio.com/news/cherry-audio-releases-pentaphonic-synthesizer-plugin-vst-au-and-aax-68982?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68982::v239</id>
+    <published>2026-10-08T15:02:00+00:00</published>
+    <updated>2026-10-08T15:02:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/ca-pentaphonic-ui-00.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/cherry-audio-releases-pentaphonic-synthesizer-plugin-vst-au-and-aax-68982?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68982">kvraudio.com</a> | <a href="https://cherryaudio.com/products/pentaphonic-synthesizer">source</a></small></p><hr/><p>Cherry Audio has released Pentaphonic, a virtual instrument emulating the rare 1981 Gleeman Instruments Pentaphonic synthesizer. The plugin recreates the original hardware's digitally controlled oscillator (DCO) and analog filter architecture, offering three UI themes and up to 16 polyphonic voices.</p><p>Expanded features include a 16-step polyphonic step sequencer, an additional LFO, and a parameter animator for modulation. The software is available for Windows and macOS in VST2, VST3, AU, and AAX formats for $59.</p><p><img src="https://static.kvraudio.com/i/b/ca-pentaphonic-ui-00.webp" /></p><hr/><small>8 Oct 2026, 20:06 UTC | #23665</small>]]></content>
+  </entry>
+  <entry>
+    <title>Delta Sound Labs Releases Stream Pro Granular Synthesis Plugin</title>
+    <link href="https://www.kvraudio.com/news/delta-sound-labs-releases-stream-pro---granular-synthesis-plugin-vst3-au-and-aax-68980?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68980" rel="alternate" />
+    <id>https://www.kvraudio.com/news/delta-sound-labs-releases-stream-pro---granular-synthesis-plugin-vst3-au-and-aax-68980?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68980::v239</id>
+    <published>2026-10-08T15:01:00+00:00</published>
+    <updated>2026-10-08T15:01:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/streampro.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/delta-sound-labs-releases-stream-pro---granular-synthesis-plugin-vst3-au-and-aax-68980?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68980">kvraudio.com</a> | <a href="https://deltasoundlabs.com/product/streampro/">source</a></small></p><hr/><p>Delta Sound Labs has launched Stream Pro, a granular synthesis plugin designed for composers and sound designers. Available for macOS, Windows, and Linux in VST3, AU, and AAX formats, the $79 software enables users to transform audio recordings into playable instruments or evolving textures.</p><p>The plugin features a Single Mode for generating atmospheric pads and a Multi Mode for polyphonic, MIDI-controlled playback. It also incorporates a 3D spatialization engine using Steam Audio's HRTF technology and provides per-voice distortion and granular-level signal processing.</p><p><img src="https://static.kvraudio.com/i/b/streampro.webp" /></p><hr/><small>8 Oct 2026, 20:05 UTC | #23666</small>]]></content>
+  </entry>
   <entry>
     <title>Audio Modeling Releases PolySWAM Polyphonic Orchestral Instrument</title>
     <link href="https://www.kvraudio.com/news/audio-modeling-releases-polyswam---polyphonic-orchestral-instrument-vst3-au-and-aax-68979?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68979" rel="alternate" />
