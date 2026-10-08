@@ -940,22 +940,4 @@
     <updated>2026-10-03T04:50:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.youtube.com/watch?v=NnV_cWeoo5Q">youtube.com</a> | <a href="https://news.ycombinator.com/item?id=49929391">hacker news</a></small></p><hr/><p>Recent claims regarding the ability of Large Language Models (LLMs) to uncover widespread Linux kernel vulnerabilities have been significantly overstated. While AI tools can identify legitimate security bugs, many identified issues are non-security bugs, duplicates of existing fixes, or previously resolved vulnerabilities.</p><p>The primary security concern is the shrinking window between vulnerability disclosure and active exploitation, compounded by the ability of LLMs to chain minor bugs into complex exploits. To mitigate these risks, developers are encouraged to adopt these tools for proactive bug discovery and to accelerate software patching and deployment cycles.</p><hr/><small>3 Oct 2026, 12:28 UTC | #23154</small>]]></content>
   </entry>
-  <entry>
-    <title>Klassik Recreates KDE 3 Desktop Experience for Plasma 6</title>
-    <link href="https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/" rel="alternate" />
-    <id>https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/::v239</id>
-    <published>2026-10-03T02:51:00+00:00</published>
-    <updated>2026-10-03T02:51:00+00:00</updated>
-    <media:thumbnail url="https://linuxiac.com/wp-content/uploads/2026/09/klassik-kde3-desktop.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/">linuxiac.com</a> | <a href="https://github.com/neeeeow/Klassik">source</a> | <a href="https://lobste.rs/s/qmcuiv/klassik_revives_kde_3_desktop_on_modern">discussion</a> | <a href="https://news.ycombinator.com/item?id=49872334">hacker news</a></small></p><hr/><p>Klassik is an open-source project that recreates the KDE 3 desktop experience within the modern KDE Plasma 6 ecosystem. Rather than applying a simple theme, it rebuilds core components like the K Menu, Quicklaunch, and task manager using Qt 6 and Qt Quick to ensure compatibility with Wayland and fractional scaling.</p><p>The project utilizes C++ and QML to replicate original KDE 3 aesthetics, such as panel containment and classic color schemes. It currently features rewritten application themes and is in the process of porting KWin window decorations to the KDecoration3 API.</p><p><img src="https://linuxiac.com/wp-content/uploads/2026/09/klassik-kde3-desktop.jpg" /></p><hr/><small>3 Oct 2026, 11:22 UTC | #23152</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Donates gVisor Project to CNCF</title>
-    <link href="https://gvisor.dev/blog/2026/10/02/gvisor-cncf/" rel="alternate" />
-    <id>https://gvisor.dev/blog/2026/10/02/gvisor-cncf/::v239</id>
-    <published>2026-10-03T02:42:00+00:00</published>
-    <updated>2026-10-03T02:42:00+00:00</updated>
-    <media:thumbnail url="https://gvisor.dev/assets/images/2026-10-02-gvisor-cncf/cover.jpeg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://gvisor.dev/blog/2026/10/02/gvisor-cncf/">gvisor.dev</a> | <a href="https://lobste.rs/s/asoxjl/gvisor_is_being_donated_cncf">discussion</a></small></p><hr/><p>Google is donating the gVisor sandboxed container runtime project, including its name and trademarks, to the Cloud Native Computing Foundation (CNCF). Following its acceptance by the CNCF, the project is transitioning into "Sandbox" status and is expected to move toward "Incubation" status as its governance model shifts to an organization-based voting system.</p><p>The move aims to increase adoption by resolving governance risks and enabling the upstreaming of performance-improving Linux kernel patches. Companies including Ant Group, Modal, and Tines have committed to the new maintainer model, while existing contributors like OpenAI, Tencent, and NVIDIA are expected to continue their ongoing contributions.</p><p><img src="https://gvisor.dev/assets/images/2026-10-02-gvisor-cncf/cover.jpeg" /></p><hr/><small>3 Oct 2026, 08:28 UTC | #23143</small>]]></content>
-  </entry>
 </feed>
