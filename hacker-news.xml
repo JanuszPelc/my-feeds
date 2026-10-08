@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-08T17:18:00+00:00</updated>
+  <updated>2026-10-08T17:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Home Assistant Dashboard Created Using Custom Hand-Drawn Illustration</title>
+    <link href="https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my" rel="alternate" />
+    <id>https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my::v239</id>
+    <published>2026-10-08T17:23:00+00:00</published>
+    <updated>2026-10-08T17:23:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!huqE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea228abe-574d-4d58-9922-775c987f1f7b_1920x1080.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my">antonfrolov.substack.com</a> | <a href="https://news.ycombinator.com/item?id=49986882">hacker news</a></small></p><hr/><p>An environment artist was commissioned to create a custom hand-drawn illustration of a house to serve as an interactive Home Assistant dashboard. The design uses animated WebP layers to represent device states—such as lights and air conditioning—rather than the standard 3D models or pixel-art sprites typically used in smart home interfaces.</p><p>The implementation uses the `picture-elements` card and YAML configuration to create features like day/night mode transitions and 'exploded' views of multiple floors. To ensure continuous visibility, the dashboard is displayed on a television via a dedicated HDMI input.</p><p><img src="https://substackcdn.com/image/fetch/$s_!huqE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea228abe-574d-4d58-9922-775c987f1f7b_1920x1080.webp" /></p><hr/><small>8 Oct 2026, 22:24 UTC | #23730</small>]]></content>
+  </entry>
   <entry>
     <title>Eros Crate Introduces Composable Error Sets for Rust</title>
     <link href="https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/" rel="alternate" />
@@ -943,23 +952,5 @@
     <updated>2026-10-04T00:25:00+00:00</updated>
     <media:thumbnail url="https://nolanlawson.com/media/2026/10/dragndrop.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/">nolanlawson.com</a> | <a href="https://lobste.rs/s/srduzv/why_don_t_more_developers_use_platform">discussion</a></small></p><hr/><p>Developers frequently opt to build custom solutions using JavaScript libraries rather than utilizing built-in browser APIs, despite the performance and accessibility advantages of native platform features. This trend is driven by historical browser fragmentation, the familiarity of the npm ecosystem, and the extensive documentation often provided by third-party libraries compared to native web standards.</p><p>Beyond practical utility, the author suggests that building custom components provides a sense of ownership and acts as a powerful learning mechanism for mastering complex underlying technologies. The essay also speculates on the influence of AI, noting that Large Language Models could either streamline development by selecting optimal platform APIs or exacerbate over-engineering by generating redundant, non-idiomatic code.</p><p><img src="https://nolanlawson.com/media/2026/10/dragndrop.png" /></p><hr/><small>4 Oct 2026, 03:28 UTC | #23195</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rust Upstream Maintenance Report (August–September 2026)</title>
-    <link href="https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html" rel="alternate" />
-    <id>https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html::v239</id>
-    <published>2026-10-03T22:12:00+00:00</published>
-    <updated>2026-10-03T22:12:00+00:00</updated>
-    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*ZI1eIxwJdYNb4cdgijsg1A.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kobzol.github.io/rust/2026/09/30/stf-august-september-2026.html">kobzol.github.io</a> | <a href="https://lobste.rs/s/cdkmaf/upstream_rust_maintenance_report">discussion</a></small></p><hr/><p>This report details open-source maintenance activities conducted for the Rust toolchain by a Sovereign Tech Fellow. Key efforts focused on reducing the size of the `target` directory by stabilizing the `-Cembed-metadata=no` flag, which can reduce disk usage by 5-35%, and investigating compiler performance through arena allocation and parser optimizations.</p><p>Performance experiments regarding the parser's token representation showed mixed results, with a flat token structure showing promise for lexing but regressing in certain macro expansion scenarios. Additional work addressed string escaping speed, LTO application for Cranelift, and the overhead associated with parser snapshotting.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*ZI1eIxwJdYNb4cdgijsg1A.png" /></p><hr/><small>4 Oct 2026, 01:15 UTC | #23192</small>]]></content>
-  </entry>
-  <entry>
-    <title>Cloudflare Announces OHTTP Gateway for Privacy-Preserving Traffic</title>
-    <link href="https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/" rel="alternate" />
-    <id>https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/::v239</id>
-    <published>2026-10-03T22:10:00+00:00</published>
-    <updated>2026-10-03T22:10:00+00:00</updated>
-    <media:thumbnail url="https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/media/cloudflare-azure-ad-integration/cloudflare-architecture-diagram.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/">blog.cloudflare.com</a> | <a href="https://news.ycombinator.com/item?id=49941091">hacker news</a></small></p><hr/><p>Cloudflare is launching a closed beta for the Cloudflare OHTTP Gateway, a paid add-on that enables developers to implement the Oblivious HTTP (OHTTP) standard. The service allows application backends to receive and process HTTP requests without access to client identifiers like IP addresses or TLS fingerprints, utilizing a two-hop architecture that separates a relay from a gateway to ensure privacy.</p><p>The managed gateway is designed to reduce the latency and complexity of self-hosted OHTTP setups by leveraging Cloudflare's global edge network. To maintain the protocol's required separation of trust, Cloudflare is also renaming its "Privacy Gateway" product to "Cloudflare OHTTP Relay," providing customers the option to either use a managed gateway or run their own gateway alongside a Cloudflare-operated relay.</p><p><img src="https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/media/cloudflare-azure-ad-integration/cloudflare-architecture-diagram.png" /></p><hr/><small>4 Oct 2026, 00:31 UTC | #23191</small>]]></content>
   </entry>
 </feed>
