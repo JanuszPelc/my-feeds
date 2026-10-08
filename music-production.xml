@@ -3,9 +3,43 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-08T10:08:00+00:00</updated>
+  <updated>2026-10-08T12:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Spectral Engine Audio Releases Open Beta of Cross-Track De-Masking Plugin for macOS</title>
+    <link href="https://www.kvraudio.com/news/spectral-engine-releases-open-beta-of-its-cross-track-de-masking-plugin-for-macos-vst3-and-au-68972?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68972" rel="alternate" />
+    <id>https://www.kvraudio.com/news/spectral-engine-releases-open-beta-of-its-cross-track-de-masking-plugin-for-macos-vst3-and-au-68972?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68972::v239</id>
+    <published>2026-10-08T12:26:00+00:00</published>
+    <updated>2026-10-08T12:26:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/spectral-engine-ui1x.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/spectral-engine-releases-open-beta-of-its-cross-track-de-masking-plugin-for-macos-vst3-and-au-68972?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68972">kvraudio.com</a> | <a href="https://spectralengineaudio.com/plugins/spectral-engine">source</a></small></p><hr/><p>The Spectral Engine plugin for macOS (AU and VST3) automatically resolves frequency masking across an entire mix by sharing spectral analysis data between all active instances. This enables dynamic, project-wide de-masking without the need for manual sidechain routing.</p><p>The software features a conflict view for identifying masking tracks, a "Listen mode" for auditioning spectral changes, and a companion Master plugin for session-wide control. The open beta is priced at 29€ and includes a 14-day trial, with a Windows version planned for release during the beta period.</p><p><img src="https://static.kvraudio.com/i/b/spectral-engine-ui1x.png" /></p><hr/><small>8 Oct 2026, 18:10 UTC | #23670</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apollo View Updates DeltaScope and Scope to v1.3</title>
+    <link href="https://www.kvraudio.com/news/apollo-view-updates-deltascope-and-scope-to-v1-3---freeze-on-every-pane-one-lane-stereo-lower-memory-use-macos-catalina-support-68971?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68971" rel="alternate" />
+    <id>https://www.kvraudio.com/news/apollo-view-updates-deltascope-and-scope-to-v1-3---freeze-on-every-pane-one-lane-stereo-lower-memory-use-macos-catalina-support-68971?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68971::v239</id>
+    <published>2026-10-08T12:05:00+00:00</published>
+    <updated>2026-10-08T12:05:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/deltascope-01-overview.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/apollo-view-updates-deltascope-and-scope-to-v1-3---freeze-on-every-pane-one-lane-stereo-lower-memory-use-macos-catalina-support-68971?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68971">kvraudio.com</a> | <a href="https://www.apolloviewmodular.com/journal">source</a></small></p><hr/><p>The 1.3.0 update for DeltaScope and Scope on macOS and Windows introduces freeze functionality for the scope, spectrum analyzer, and meters. The release adds one-lane stereo and M&amp;S modes, extends audio history to 64 seconds, and reduces memory consumption. Compatibility has also been expanded to support macOS 10.15 Catalina.</p><p>DeltaScope 1.3 includes bug fixes for loudness measurement and Windows display scaling, while Scope 1.3 resolves similar scaling issues. Existing users can upgrade for free, and a promotional discount code for DeltaScope is available through December 31, 2026.</p><p><img src="https://static.kvraudio.com/i/b/deltascope-01-overview.png" /></p><hr/><small>8 Oct 2026, 18:09 UTC | #23671</small>]]></content>
+  </entry>
+  <entry>
+    <title>Dreeemwave Offers Discount on Bassliner MIDI Bassline Generator</title>
+    <link href="https://bedroomproducersblog.com/2026/10/08/bassliner-midi-deal/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/08/bassliner-midi-deal/::v239</id>
+    <published>2026-10-08T11:30:00+00:00</published>
+    <updated>2026-10-08T11:30:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/08/bassliner-midi-deal/">bedroomproducersblog.com</a> | <a href="https://dreeemwave.com/bassliner">source</a> | <a href="https://bedroomproducersblog.com/2026/10/08/bassliner-midi-deal/#respond">discussion</a></small></p><hr/><p>Dreeemwave is offering a discount on Bassliner, a MIDI bassline generator for macOS and Windows. Using the promo code BPB25, users can purchase the plugin for €19, a reduction from the standard €24 price.</p><p>The plugin generates MIDI patterns based on adjustable parameters or a MIDI reference track, which can then be used to trigger any virtual instrument. It is compatible with major digital audio workstations, including Ableton, FL Studio, and Logic Pro.</p><hr/><small>8 Oct 2026, 18:02 UTC | #23661</small>]]></content>
+  </entry>
+  <entry>
+    <title>Big Man Labs Offers Discount on Bigulator Mastering Clipper</title>
+    <link href="https://bedroomproducersblog.com/2026/10/08/big-man-bigulator/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/08/big-man-bigulator/::v239</id>
+    <published>2026-10-08T11:24:00+00:00</published>
+    <updated>2026-10-08T11:24:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/08/big-man-bigulator/">bedroomproducersblog.com</a> | <a href="https://www.bigman-labs.com/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/08/big-man-bigulator/#respond">discussion</a></small></p><hr/><p>Big Man Labs is offering a 20% discount on Bigulator, an analog-modeled mastering clipper, for readers of Bedroom Producers Blog. Using the coupon code BPB20 reduces the plugin's price from $42 to $33.60.</p><p>Compatible with Windows, macOS, and Linux, Bigulator is a circuit-level model of an obscure analog mastering clipper. The discount also applies to the Big Bundle, which is available for $68 when using the code.</p><hr/><small>8 Oct 2026, 17:59 UTC | #23663</small>]]></content>
+  </entry>
   <entry>
     <title>simpleSoundbank Releases simpleSPU PS1-Style Synth and Effect</title>
     <link href="https://www.kvraudio.com/news/simplesoundbank-releases-simplespu---ps1-style-synth-and-effect-for-macos-windows-and-linux-68947?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68947" rel="alternate" />
