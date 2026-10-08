@@ -3,9 +3,34 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-08T06:26:00+00:00</updated>
+  <updated>2026-10-08T10:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>House with 15m Underground Tunnels Offered for Auction</title>
+    <link href="https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/" rel="alternate" />
+    <id>https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/::v239</id>
+    <published>2026-10-08T10:02:00+00:00</published>
+    <updated>2026-10-08T10:02:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/">readingchronicle.co.uk</a> | <a href="https://www.btgeddisonspropertyauctions.com/">source</a> | <a href="https://news.ycombinator.com/item?id=49992125">hacker news</a></small></p><hr/><p>A house in Tilehurst, Reading, featuring a 1,300-square-foot network of hand-dug underground tunnels is being put up for auction. The subterranean complex, which reaches 15 meters below ground, was manually excavated by civil engineer Tony Deane and his family over 20 years using only buckets and wheelbarrows.</p><p>The tunnels include a hand-built railway, a one-tonne goods lift, and a secret entrance hidden inside a rocket. Offered by BTG Eddisons Property Auctions with a guide price of £300,000–£325,000, the property includes a workshop and swimming pool and has received planning consent for new residential construction and workshop conversion.</p><hr/><small>8 Oct 2026, 16:08 UTC | #23651</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ecosia Replaces Mistral AI Models with Open-Source Alternatives</title>
+    <link href="https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/" rel="alternate" />
+    <id>https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/::v239</id>
+    <published>2026-10-08T09:57:00+00:00</published>
+    <updated>2026-10-08T09:57:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/">politico.eu</a></small></p><hr/><p>The Berlin-based search engine Ecosia is moving from Mistral to open-source AI models, including those from China. The company's CEO cited disappointing quality from Mistral as the reason for the switch.</p><p>Ecosia's AI Chat and AI Overviews features were previously powered by Mistral models. This transition is intended to address quality and performance concerns within the search engine's AI-driven tools.</p><hr/><small>8 Oct 2026, 15:52 UTC | #23626</small>]]></content>
+  </entry>
+  <entry>
+    <title>Elon Musk Accuses Indian Telecom Oligarchs of Blocking Starlink Launch</title>
+    <link href="https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html::v239</id>
+    <published>2026-10-08T09:56:00+00:00</published>
+    <updated>2026-10-08T09:56:00+00:00</updated>
+    <media:thumbnail url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/1200/675/elon-musk.jpg?ve=1&amp;tl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html">cnbc.com</a> | <a href="https://x.com/elonmusk/status/2107854307077034294?s=20">source</a></small></p><hr/><p>Elon Musk has accused major Indian telecommunications providers of obstructing the launch of SpaceX's Starlink satellite internet service to protect their market dominance. Musk claimed in a social media post that "oligarchs" are attempting to maintain a "monopolistic chokehold" over the Indian people. The companies currently holding over 80% of India's telecom market share are Mukesh Ambani's Jio and Sunil Mittal's Airtel, both of which have previously entered into partnership agreements with SpaceX.</p><p>The lack of progress on the Starlink rollout is compounded by regulatory scrutiny in India regarding security concerns, data localization, and the geofencing of satellite terminals. While Starlink aims to provide high-speed, affordable connectivity to remote regions, Indian regulators have raised questions about foreign-operated satellite services. Industry analysts suggest Starlink's eventual launch may be contingent on achieving a level playing field with developing domestic satellite services.</p><p><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/1200/675/elon-musk.jpg?ve=1&tl=1" /></p><hr/><small>8 Oct 2026, 15:49 UTC | #23624</small>]]></content>
+  </entry>
   <entry>
     <title>Association for Human Mathematics Urges Mathematicians to Boycott OpenAI</title>
     <link href="https://www.ahmath.org/" rel="alternate" />
@@ -666,14 +691,5 @@
     <published>2026-10-03T18:09:00+00:00</published>
     <updated>2026-10-03T18:09:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.kagi.com/update-orion-linux-windows">blog.kagi.com</a> | <a href="https://lobste.rs/s/xruas8/update_on_orion_for_linux_windows">discussion</a> | <a href="https://news.ycombinator.com/item?id=49941447">hacker news</a></small></p><hr/><p>Kagi is ending direct development of the Orion browser for Linux and Windows to focus resources on Orion for macOS and iOS. The company will open-source the code for both the Linux and Windows versions to enable community-led maintenance and long-term stewardship.</p><p>Linux Beta users will stop receiving updates from Kagi after October 2, 2026. The planned late-2026 launch of Orion for Windows will no longer be an official Kagi product, but the codebase will be released for community-driven development.</p><hr/><small>3 Oct 2026, 23:47 UTC | #23188</small>]]></content>
-  </entry>
-  <entry>
-    <title>YouTube Prioritizes Original Content in Shorts Recommendations</title>
-    <link href="https://9to5google.com/2026/10/02/youtube-wont-recommend-unoriginal-shorts/" rel="alternate" />
-    <id>https://9to5google.com/2026/10/02/youtube-wont-recommend-unoriginal-shorts/::v239</id>
-    <published>2026-10-03T16:36:00+00:00</published>
-    <updated>2026-10-03T16:36:00+00:00</updated>
-    <media:thumbnail url="https://metricool.com/wp-content/uploads/to-plan-a-youtube-short.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5google.com/2026/10/02/youtube-wont-recommend-unoriginal-shorts/">9to5google.com</a> | <a href="https://support.google.com/youtube/blog/470890423/prioritizing-original-content-on-shorts?hl=en">source</a></small></p><hr/><p>YouTube is updating its Shorts recommendation system to prioritize original content and reduce the reach of videos re-uploaded from other creators without significant modification. The change is intended to curb "clipper" accounts that capture views by simply cutting portions of long-form videos or stealing content from established channels.</p><p>While the policy targets blatant content theft, the exact technical threshold for what constitutes "adding value" remains undefined. It is also unclear how this update will affect YouTube's own AI-powered remixing tools, which allow users to repurpose content from other channels.</p><p><img src="https://metricool.com/wp-content/uploads/to-plan-a-youtube-short.jpg" /></p><hr/><small>3 Oct 2026, 23:00 UTC | #23164</small>]]></content>
   </entry>
 </feed>

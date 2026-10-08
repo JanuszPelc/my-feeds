@@ -3,9 +3,26 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-07T19:49:00+00:00</updated>
+  <updated>2026-10-08T10:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Vladimir Reshetnikov Identified as Mathematical Pseudonym Cleo</title>
+    <link href="https://en.wikipedia.org/wiki/Cleo_(mathematician)" rel="alternate" />
+    <id>https://en.wikipedia.org/wiki/Cleo_(mathematician)::v239</id>
+    <published>2026-10-08T10:03:00+00:00</published>
+    <updated>2026-10-08T10:03:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://en.wikipedia.org/wiki/Cleo_(mathematician)">en.wikipedia.org</a> | <a href="https://news.ycombinator.com/item?id=49982445">hacker news</a></small></p><hr/><p>The "Cleo" pseudonym on Math Stack Exchange, famous for providing precise, closed-form solutions to complex integration problems without showing any work, has been identified as Vladimir Reshetnikov. During an active period between 2013 and 2015, the account provided correct answers to difficult mathematical questions, sparking debates over whether the poster was a single genius or a collective of scholars.</p><p>Investigators eventually linked Reshetnikov to the persona through digital evidence, including email recovery information. Reshetnikov explained that the pseudonym and its terse, unproven answers were intended to stimulate interest in challenging mathematical problems and to encourage users to develop their own problem-solving methodologies.</p><hr/><small>8 Oct 2026, 16:11 UTC | #23652</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Withdraws Three Math Papers Over Sign Error</title>
+    <link href="https://github.com/openai/math/blob/main/history.md" rel="alternate" />
+    <id>https://github.com/openai/math/blob/main/history.md::v239</id>
+    <published>2026-10-08T09:59:00+00:00</published>
+    <updated>2026-10-08T09:59:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1024/1*-Te96Kx7VMG2wxV54z65rA.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/openai/math/blob/main/history.md">github.com</a> | <a href="https://news.ycombinator.com/item?id=50003107">hacker news</a></small></p><hr/><p>OpenAI has withdrawn three mathematics manuscripts following the discovery of a sign error in a paper titled “Algebraicity of Weil classes on split abelian eightfolds.” The error invalidates a stabilization-trace cancellation argument and affects two dependent papers: “Algebraicity of Kuga–Satake Correspondences for K3 Surfaces” and “The rational Hodge conjecture for products of K3 surfaces.”</p><p>In addition to the withdrawals, OpenAI has revised 14 other manuscripts to correct proof arguments and clarify hypotheses. The update also includes six new formalizations, bringing the total percentage of formalized top-line results to approximately 42% of the 719 total results recorded in the project.</p><p><img src="https://miro.medium.com/v2/resize:fit:1024/1*-Te96Kx7VMG2wxV54z65rA.jpeg" /></p><hr/><small>8 Oct 2026, 15:59 UTC | #23648</small>]]></content>
+  </entry>
   <entry>
     <title>AI Autoformalization of Navier-Stokes Proof Lacks Semantic Fidelity in Lean Verification</title>
     <link href="https://arxiv.org/abs/2610.08144" rel="alternate" />
@@ -125,13 +142,5 @@
     <published>2026-10-04T06:01:00+00:00</published>
     <updated>2026-10-04T06:01:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/">writings.stephenwolfram.com</a> | <a href="https://news.ycombinator.com/item?id=49882766">hacker news</a></small></p><hr/><p>AI can effectively mine existing mathematical knowledge and facilitate connections between results, but it lacks the human imagination required to formulate the fundamental questions that drive research. A distinction is made between the statistical nature of large language models and the generative power of computation, which can produce fundamentally new results through computational irreducibility.</p><p>Human mathematical reasoning serves as a high-level sampling of a metamathematical web, allowing for the navigation of complex axiomatic systems. This process is complicated by the challenges of autoformalization, where AI may find unintended ways to satisfy formal proofs instead of accurately capturing human mathematical intent.</p><hr/><small>4 Oct 2026, 13:08 UTC | #23207</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI's Impact on Technical Craft and Industry Purpose</title>
-    <link href="https://mondobe.com/ai-makes-me-sad" rel="alternate" />
-    <id>https://mondobe.com/ai-makes-me-sad::v239</id>
-    <published>2026-10-03T16:34:00+00:00</published>
-    <updated>2026-10-03T16:34:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mondobe.com/ai-makes-me-sad">mondobe.com</a> | <a href="https://news.ycombinator.com/item?id=49934487">hacker news</a></small></p><hr/><p>Rapid advancements in artificial intelligence are contributing to a loss of professional craft and a decoupling of industry growth from consumer utility. Many current "AI startups" face potential obsolescence through advanced prompting, and massive capital expenditure has yet to yield significant improvements in everyday software.</p><p>The proliferation of AI-generated content on social media and the erosion of human-centric digital spaces characterize the current digital landscape. A market correction or "bubble burst" may facilitate the rebuilding of more meaningful, human-centered technical institutions.</p><hr/><small>3 Oct 2026, 22:14 UTC | #23183</small>]]></content>
   </entry>
 </feed>
