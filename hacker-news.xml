@@ -861,22 +861,4 @@
     <media:thumbnail url="https://justinethier.github.io/cyclone/docs/images/compiler.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://justinethier.github.io/cyclone/docs/Writing-the-Cyclone-Scheme-Compiler-Revised-2017">justinethier.github.io</a> | <a href="https://lobste.rs/s/hlnjbj/writing_cyclone_scheme_compiler_2017">discussion</a></small></p><hr/><p>The Cyclone compiler translates Scheme code into C through multiple source-to-source transformation passes. These include macro expansion, continuation-passing-style (CPS) conversion, and closure conversion, which allow the implementation of Scheme-specific features like first-class continuations and indefinite extent closures within the C language.</p><p>The system employs a hybrid garbage collection model, using a copying collector for minor collections and a tri-color tracing collector for major collections. It also incorporates a custom C runtime to manage thread data, exception handling, and Scheme-specific data types.</p><p><img src="https://justinethier.github.io/cyclone/docs/images/compiler.png" /></p><hr/><small>3 Oct 2026, 22:16 UTC | #23184</small>]]></content>
   </entry>
-  <entry>
-    <title>A tmux-Inspired Model for Desktop Operating System Interfaces</title>
-    <link href="https://matduggan.com/what-does-my-dream-os-ui-look-like/" rel="alternate" />
-    <id>https://matduggan.com/what-does-my-dream-os-ui-look-like/::v239</id>
-    <published>2026-10-03T13:43:00+00:00</published>
-    <updated>2026-10-03T13:43:00+00:00</updated>
-    <media:thumbnail url="https://matduggan.com/content/images/2026/09/image-9.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://matduggan.com/what-does-my-dream-os-ui-look-like/">matduggan.com</a> | <a href="https://lobste.rs/s/gjlxiz/problems_solutions_modern_desktop_make">discussion</a> | <a href="https://news.ycombinator.com/item?id=49937540">hacker news</a></small></p><hr/><p>A desktop operating system interface modeled after the tmux terminal multiplexer—utilizing scrollable, session-persistent, and task-oriented workspaces—aims to solve modern window management challenges. This model addresses issues involving changing screen real estate, diverse user windowing behaviors, the complexity of web browsers, and the fragmented nature of modern filesystems.</p><p>Decades of UX research indicate that current operating systems fail to mitigate the cognitive load of constant multitasking. Previous industry attempts to resolve these issues, such as Windows Timeline and macOS Stage Manager, failed because they lacked structural, OS-level integration and functioned as optional or application-specific features.</p><p><img src="https://matduggan.com/content/images/2026/09/image-9.png" /></p><hr/><small>3 Oct 2026, 18:39 UTC | #23174</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI-Generated Vulnerability Scanning Increases GNOME CVE Issuance</title>
-    <link href="https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/" rel="alternate" />
-    <id>https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/::v239</id>
-    <published>2026-10-03T13:32:00+00:00</published>
-    <updated>2026-10-03T13:32:00+00:00</updated>
-    <media:thumbnail url="https://itsfoss.com/content/images/2025/12/gnome-bans-ai-generated-extensions.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/">blogs.gnome.org</a> | <a href="https://lobste.rs/s/elziso/era_software_quality_era_ostriches">discussion</a></small></p><hr/><p>AI-driven vulnerability scanning is significantly increasing the volume of security reports and CVEs in projects like GNOME and WebKitGTK. While early AI-generated reports were often criticized for being inaccurate or verbose, improved model performance has turned these automated scans into an essential tool for uncovering critical security flaws.</p><p>This shift is forcing maintainers to adapt their workflows and contribution policies. The increase in automated findings has raised maintenance workloads and sparked debate over whether to permit AI-generated content in official issue trackers.</p><p><img src="https://itsfoss.com/content/images/2025/12/gnome-bans-ai-generated-extensions.png" /></p><hr/><small>3 Oct 2026, 16:42 UTC | #23167</small>]]></content>
-  </entry>
 </feed>
