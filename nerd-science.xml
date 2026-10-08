@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-07T16:31:00+00:00</updated>
+  <updated>2026-10-07T19:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>AI Autoformalization of Navier-Stokes Proof Lacks Semantic Fidelity in Lean Verification</title>
+    <link href="https://arxiv.org/abs/2610.08144" rel="alternate" />
+    <id>https://arxiv.org/abs/2610.08144::v239</id>
+    <published>2026-10-07T19:49:00+00:00</published>
+    <updated>2026-10-07T19:49:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arxiv.org/abs/2610.08144">arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=49994145">hacker news</a></small></p><hr/><p>Verification of AI-translated formal proofs in the Lean language does not guarantee the correctness of the original natural language mathematical arguments. Using OpenAI's Navier-Stokes solutions as a case study, researchers demonstrate that the formal Lean code often fails to correspond semantically to the accompanying natural language proofs.</p><p>The study highlights that resolving linguistic ambiguities in mathematical text is a task of infinite Solvability Complexity Index (SCI), making semantically faithful autoformalization more difficult than the Halting problem. This finding suggests that mechanical verification of formal code cannot currently serve as a reliable safeguard for the integrity of natural language mathematical reasoning.</p><hr/><small>8 Oct 2026, 00:18 UTC | #23615</small>]]></content>
+  </entry>
   <entry>
     <title>Meta, Google, and US Government Fund Biohub's AI Biology Initiative</title>
     <link href="https://www.reuters.com/business/healthcare-pharmaceuticals/us-government-google-join-zuckerberg-backed-biohub-18-billion-push-ai-biology-2026-10-07/" rel="alternate" />

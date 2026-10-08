@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-07T17:22:00+00:00</updated>
+  <updated>2026-10-07T19:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Bypassing Code Inspection via Memory Offsets in C</title>
+    <link href="https://wiro.world/posts/calling-c-func-without-naming-it/" rel="alternate" />
+    <id>https://wiro.world/posts/calling-c-func-without-naming-it/::v239</id>
+    <published>2026-10-07T19:50:00+00:00</published>
+    <updated>2026-10-07T19:50:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://wiro.world/posts/calling-c-func-without-naming-it/">wiro.world</a> | <a href="https://lobste.rs/s/ucwapn/calling_function_c_without_naming_it">discussion</a></small></p><hr/><p>The author describes a method to bypass automated code-grading systems that use Abstract Syntax Tree (AST) parsing to restrict specific function calls. By leveraging fixed relative offsets between permitted and forbidden functions in memory, it is possible to resolve the address of a restricted system call, such as execve, without explicitly naming the symbol in the source code.</p><p>The technique employs mmap to allocate a writable and executable memory page and utilizes C unions for type punning to circumvent compiler restrictions. This allows for the execution of custom assembly routines to trigger system calls, effectively bypassing Address Space Layout Randomization (ASLR) and program-level inspection.</p><hr/><small>8 Oct 2026, 00:24 UTC | #23616</small>]]></content>
+  </entry>
   <entry>
     <title>ascii.rest Offers Animated ASCII Art for Web Pages</title>
     <link href="https://ascii.rest/" rel="alternate" />
