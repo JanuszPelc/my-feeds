@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-08T17:00:00+00:00</updated>
+  <updated>2026-10-08T17:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google Cloud Unveils Persistent Gemini Agents for Enterprise Workflows</title>
+    <link href="https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage" rel="alternate" />
+    <id>https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage::v239</id>
+    <published>2026-10-08T17:03:00+00:00</published>
+    <updated>2026-10-08T17:03:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage">venturebeat.com</a> | <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/">source</a></small></p><hr/><p>Google Cloud has introduced the Gemini agent, a universal AI agent designed to manage long-running, multi-day enterprise workflows. These agents can operate across Google Workspace, Microsoft 365, and Slack to perform tasks such as research, document creation, and coding. To facilitate autonomous operations, each agent is equipped with its own dedicated Gmail, Calendar, and Google Drive storage.</p><p>Announced at the Gemini at Work 2026 event, these agents can manage tasks for up to seven days. The system provides model flexibility, routing simple tasks to lightweight models like Gemini Flash while utilizing larger frontier models, such as Argon, for more complex, long-horizon objectives.</p><hr/><small>8 Oct 2026, 20:45 UTC | #23680</small>]]></content>
+  </entry>
   <entry>
     <title>Cactus Compute Releases Whistle Speech Recognition Model</title>
     <link href="https://cactuscompute.com/blog/whistle" rel="alternate" />

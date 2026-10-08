@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-08T17:01:00+00:00</updated>
+  <updated>2026-10-08T17:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>OpenAI Disrupts Russian Influence Campaign Using ChatGPT</title>
+    <link href="https://www.nbcnews.com/tech/security/openai-chatgpt-russian-influence-operation-targeting-latin-america-rcna602066" rel="alternate" />
+    <id>https://www.nbcnews.com/tech/security/openai-chatgpt-russian-influence-operation-targeting-latin-america-rcna602066::v239</id>
+    <published>2026-10-08T17:04:00+00:00</published>
+    <updated>2026-10-08T17:04:00+00:00</updated>
+    <media:thumbnail url="https://e3.365dm.com/26/04/1600x900/skynews-putin-traore-russia_7214693.jpg?20260409005404" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nbcnews.com/tech/security/openai-chatgpt-russian-influence-operation-targeting-latin-america-rcna602066">nbcnews.com</a> | <a href="https://openai.com/index/disrupting-ai-enabled-false-front-operations/">source</a></small></p><hr/><p>A wide-ranging Russian influence operation used ChatGPT to spread propaganda, targeting schools in Latin America and attempting to escalate tensions between Ukraine and Poland. The campaign also involved deceptive messaging aimed at politicians and various media outlets.</p><p>OpenAI describes this as its most significant disruption of a foreign-led influence campaign to date. The findings demonstrate how generative AI can be leveraged to enhance the scale and linguistic fluency of geopolitical disinformation efforts.</p><p><img src="https://e3.365dm.com/26/04/1600x900/skynews-putin-traore-russia_7214693.jpg?20260409005404" /></p><hr/><small>8 Oct 2026, 20:47 UTC | #23679</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon Unveils Alexa Tablet Lineup with Android and Google Play Support</title>
     <link href="https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs" rel="alternate" />
