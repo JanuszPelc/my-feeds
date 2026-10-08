@@ -907,30 +907,4 @@
     <media:thumbnail url="https://blog.python.org/_astro/david.C2A7MwHE_ZzK8Eu.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/">blog.python.org</a> | <a href="https://lobste.rs/s/cpf8w6/rust_for_cpython_python_language_summit">discussion</a></small></p><hr/><p>David Hewitt presented the "Rust for CPython" project's roadmap at the Python Language Summit 2026, outlining an incremental integration of Rust into the CPython codebase. The proposal includes an optional Rust-based `zlib` module in Python 3.16 (October 2027), expanded module support by Python 3.17 (October 2028), and the possibility of requiring Rust for CPython builds by Python 3.18 in 2029.</p><p>The initiative aims to mitigate "type-crash" issues through Rust's memory safety features. Success depends on developer acceptance of the proposed API, maintaining performance benchmarks, and ensuring cross-platform support. Implementation challenges include managing external dependencies via vendoring and addressing the need for Rust expertise among core developers.</p><p><img src="https://blog.python.org/_astro/david.C2A7MwHE_ZzK8Eu.webp" /></p><hr/><small>3 Oct 2026, 15:37 UTC | #23162</small>]]></content>
   </entry>
-  <entry>
-    <title>GitHub Adds Accessibility Tab to Repository Landing Pages</title>
-    <link href="https://ericwbailey.website/published/github-repository-landing-pages-now-show-an-accessibility-tab-if-provided/" rel="alternate" />
-    <id>https://ericwbailey.website/published/github-repository-landing-pages-now-show-an-accessibility-tab-if-provided/::v239</id>
-    <published>2026-10-03T06:02:00+00:00</published>
-    <updated>2026-10-03T06:02:00+00:00</updated>
-    <media:thumbnail url="https://ericwbailey.website/img/posts/github-repository-landing-pages-now-show-an-accessibility-tab-if-provided/repo-accessibility.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ericwbailey.website/published/github-repository-landing-pages-now-show-an-accessibility-tab-if-provided/">ericwbailey.website</a> | <a href="https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview/">source</a> | <a href="https://lobste.rs/s/2nyapq/github_repository_landing_pages_now_show">discussion</a></small></p><hr/><p>GitHub repository landing pages now feature a dedicated Accessibility tab when an `ACCESSIBILITY.md` file is present in the repository root, the `.github/` directory, or the `docs/` directory. The tab surfaces the file's contents alongside other standard repository information such as the README, License, and Code of Conduct.</p><p>This feature is optional and only appears if the file is provided. The implementation aims to normalize the use of accessibility statements in software projects, helping to signal project maturity and an explicit commitment to inclusive practices to users and contributors.</p><p><img src="https://ericwbailey.website/img/posts/github-repository-landing-pages-now-show-an-accessibility-tab-if-provided/repo-accessibility.png" /></p><hr/><small>3 Oct 2026, 13:39 UTC | #23158</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sixteenth RacketCon Program Announced</title>
-    <link href="https://con.racket-lang.org/" rel="alternate" />
-    <id>https://con.racket-lang.org/::v239</id>
-    <published>2026-10-03T06:00:00+00:00</published>
-    <updated>2026-10-03T06:00:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://con.racket-lang.org/">con.racket-lang.org</a> | <a href="https://lobste.rs/s/auypcd/sixteenth_racketcon_this_weekend">discussion</a> | <a href="https://news.ycombinator.com/item?id=49922515">hacker news</a></small></p><hr/><p>Technical sessions for the sixteenth RacketCon cover topics including type inference in Typed Racket, low-level programming with Pille, macro-driven IDE services, and floating-point accuracy using Herbie. Other sessions address effect handlers, object-oriented programming, and the ffi2 foreign-function interface.</p><p>The conference features presentations from academic researchers and software engineers regarding the Racket and Rhombus ecosystems. The event is available to in-person attendees and remote participants via a paid livestream.</p><hr/><small>3 Oct 2026, 13:16 UTC | #23157</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jimmy Lefevre Explains Unicode and OpenType Text Rendering</title>
-    <link href="https://www.youtube.com/watch?v=7Tr0ty9-yeQ" rel="alternate" />
-    <id>https://www.youtube.com/watch?v=7Tr0ty9-yeQ::v239</id>
-    <published>2026-10-03T05:59:00+00:00</published>
-    <updated>2026-10-03T05:59:00+00:00</updated>
-    <media:thumbnail url="https://smalltextgeneratorcopy.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-6-2026-01_13_26-AM.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=7Tr0ty9-yeQ">youtube.com</a> | <a href="https://lobste.rs/s/tslwlq/how_make_text_box_crash_course_unicode">discussion</a></small></p><hr/><p>Jimmy Lefevre outlines the technical implementation of text rendering, tracing the workflow from raw user input to visual glyphs on a screen. He explains the roles of Unicode for representing character code points and OpenType for managing the visual properties of glyphs.</p><p>The discussion covers essential processes such as text decoding, Unicode normalization to handle character ambiguities, and the mapping of code points to glyph indices. Lefevre also addresses the complexities of multilingual rendering, including the use of combining marks and the requirements for advanced typographic features like kerning.</p><p><img src="https://smalltextgeneratorcopy.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-6-2026-01_13_26-AM.png" /></p><hr/><small>3 Oct 2026, 13:13 UTC | #23156</small>]]></content>
-  </entry>
 </feed>
