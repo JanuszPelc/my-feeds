@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-08T14:52:00+00:00</updated>
+  <updated>2026-10-08T17:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Amazon Unveils Alexa Tablet Lineup with Android and Google Play Support</title>
+    <link href="https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs" rel="alternate" />
+    <id>https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs::v239</id>
+    <published>2026-10-08T17:01:00+00:00</published>
+    <updated>2026-10-08T17:01:00+00:00</updated>
+    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Tablets_Hero_1920x1080.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs">theverge.com</a> | <a href="https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus">source</a></small></p><hr/><p>Amazon is launching a new series of tablets branded as Alexa Tablets, replacing its long-standing Fire brand. The lineup consists of three models: the 8.7-inch Tablet 8, the 11-inch Tablet 11, and the flagship 12.5-inch Alexa Tablet 12 Pro. All models will feature the full Android operating system and include Google Play Store support.</p><p>The high-end Alexa Tablet 12 Pro features a 120Hz display with an optional Corning Nanomatte anti-glare finish and is designed to compete directly with the iPad Pro. These devices integrate Alexa Plus, Amazon's LLM-powered AI assistant, to facilitate shopping, information retrieval, and media consumption across the operating system.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Tablets_Hero_1920x1080.png?quality=90&strip=all&crop=0,0,100,100" /></p><hr/><small>8 Oct 2026, 20:26 UTC | #23681</small>]]></content>
+  </entry>
   <entry>
     <title>Rust Proposes Exposing Internal "Places" to Enable Flexible Smart Pointers</title>
     <link href="https://lwn.net/SubscriberLink/1096028/7524dbcae1be7205/" rel="alternate" />

@@ -3,9 +3,17 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-08T14:53:00+00:00</updated>
+  <updated>2026-10-08T17:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Denuvo Seeks Subpoenas for Discord, Valve, and Reddit to Identify Cracker</title>
+    <link href="https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker::v239</id>
+    <published>2026-10-08T17:02:00+00:00</published>
+    <updated>2026-10-08T17:02:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker">gamedeveloper.com</a> | <a href="https://dockets.justia.com/docket/california/candce/5:2026cv10423/478929">source</a></small></p><hr/><p>Denuvo has petitioned a U.S. federal court to subpoena Discord, Valve, and Reddit to identify the anonymous hacker known as "voices38." In a DMCA anti-circumvention lawsuit, the company alleges the individual has bypassed its anti-tamper technology on 26 games, potentially compromising the structural integrity of the DRM service.</p><p>The legal attempt follows a recent surge in cracks affecting both new and older titles. Denuvo is seeking information from the requested platforms to unmask the identity of the individual or group responsible for the ongoing breaches.</p><hr/><small>8 Oct 2026, 20:27 UTC | #23674</small>]]></content>
+  </entry>
   <entry>
     <title>Xbox Launches XP Division for Film, TV, and Consumer Products</title>
     <link href="https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events" rel="alternate" />
