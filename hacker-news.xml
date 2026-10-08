@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-08T17:04:00+00:00</updated>
+  <updated>2026-10-08T17:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Natura Unveils Interface $99 Smart Ring for AI Agent Interaction</title>
+    <link href="https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/::v239</id>
+    <published>2026-10-08T17:07:00+00:00</published>
+    <updated>2026-10-08T17:07:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/interface-sensor-view.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/">techcrunch.com</a> | <a href="https://natura.inc/interface">source</a> | <a href="https://news.ycombinator.com/item?id=50007889">hacker news</a></small></p><hr/><p>Natura has announced Interface, a $99 smart ring designed to interact with AI agents through voice commands and finger presses. The device supports several AI models, including ChatGPT, Claude, and Meta's Muse, allowing users to execute tasks and control devices without a smartphone. It also functions as a health tracker, monitoring metrics such as heart rate, sleep stages, and skin temperature.</p><p>Founded by Carlo Edoardo Ferraris, the startup aims to provide a continuous, wearable interface for personal AI agents. Following an initial three-to-six-month free trial, Natura plans to implement a $9 monthly subscription fee. Preorders are expected to open next month, with shipping slated for December or January.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/interface-sensor-view.png?w=680" /></p><hr/><small>8 Oct 2026, 21:08 UTC | #23694</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Disrupts Russian Influence Campaign Using ChatGPT</title>
     <link href="https://www.nbcnews.com/tech/security/openai-chatgpt-russian-influence-operation-targeting-latin-america-rcna602066" rel="alternate" />

@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-08T17:03:00+00:00</updated>
+  <updated>2026-10-08T17:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Goodfire Launches Internal Monitoring Probes to Detect Rogue AI Agents</title>
+    <link href="https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/::v239</id>
+    <published>2026-10-08T17:06:00+00:00</published>
+    <updated>2026-10-08T17:06:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/">techcrunch.com</a></small></p><hr/><p>Goodfire has launched "inside-out" monitors designed to detect rogue AI agent behavior by analyzing internal model activations during computation rather than just reviewing text output. These probes tap into existing calculations to identify malicious intent, offering a significantly cheaper and faster alternative to traditional methods that require a separate AI model to monitor model responses.</p><p>The tools are available to Baseten customers and specifically target safety risks in open-weight models where users can potentially bypass standard safeguards. In testing on the Kimi K3 model, the probes caught 94% of malicious hacking attempts while adding less than 2% to response latency and reducing operational costs compared to traditional oversight methods.</p><hr/><small>8 Oct 2026, 21:06 UTC | #23693</small>]]></content>
+  </entry>
   <entry>
     <title>Google Cloud Unveils Persistent Gemini Agents for Enterprise Workflows</title>
     <link href="https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage" rel="alternate" />
