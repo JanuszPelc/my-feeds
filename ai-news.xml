@@ -3,9 +3,25 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-08T17:06:00+00:00</updated>
+  <updated>2026-10-08T23:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Ben Affleck Details His Technical Expertise in AI Filmmaking</title>
+    <link href="https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/::v239</id>
+    <published>2026-10-08T18:24:00+00:00</published>
+    <updated>2026-10-08T18:24:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/">techcrunch.com</a></small></p><hr/><p>Ben Affleck has garnered significant attention for his deep technical understanding of artificial intelligence, specifically regarding its application in the film industry. Following the sale of his AI startup, InterPositive, to Netflix, the actor has used recent interviews to demonstrate fluency in technical concepts such as neural networks, tensors, and fine-tuning open-source models to meet specific cinematic production standards.</p><p>Affleck describes his approach as using AI as an additive tool to assist filmmakers rather than a replacement for them. He emphasizes the importance of creating proprietary datasets to train models ethically, allowing creators to benefit from the technology while maintaining control over their specific artistic workflows and likenesses.</p><hr/><small>8 Oct 2026, 23:43 UTC | #23707</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI's Math Solutions Fail to Meet Mathematical Community Standards</title>
+    <link href="https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/::v239</id>
+    <published>2026-10-08T18:12:00+00:00</published>
+    <updated>2026-10-08T18:12:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/">techcrunch.com</a> | <a href="https://github.com/openai/math">source</a> | <a href="https://news.ycombinator.com/item?id=50003107">hacker news</a></small></p><hr/><p>OpenAI's recent release of solutions to complex mathematical problems has failed to meet guidelines established by the Advisory Group on Mathematics and Artificial Intelligence (AGMAI). The submission lacked sufficient chain-of-thought reasoning and formalization; only 10 of 719 manuscripts included chain-of-thought, and only 42% of the proofs were formalized in the Lean programming language.</p><p>Researchers have documented "mistranslations" where AI-generated natural language proofs do not match the formal code used for verification, raising questions about whether automated formalization can be trusted without human oversight. This discrepancy highlights a gap in human understanding and engagement, which mathematicians argue is essential for making mathematical discoveries meaningful and applicable to the broader scientific community.</p><hr/><small>8 Oct 2026, 23:34 UTC | #23712</small>]]></content>
+  </entry>
   <entry>
     <title>Goodfire Launches Internal Monitoring Probes to Detect Rogue AI Agents</title>
     <link href="https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/" rel="alternate" />
@@ -19,8 +35,8 @@
     <link href="https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage" rel="alternate" />
     <id>https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage::v239</id>
     <published>2026-10-08T17:03:00+00:00</published>
-    <updated>2026-10-08T17:03:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage">venturebeat.com</a> | <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/">source</a></small></p><hr/><p>Google Cloud has introduced the Gemini agent, a universal AI agent designed to manage long-running, multi-day enterprise workflows. These agents can operate across Google Workspace, Microsoft 365, and Slack to perform tasks such as research, document creation, and coding. To facilitate autonomous operations, each agent is equipped with its own dedicated Gmail, Calendar, and Google Drive storage.</p><p>Announced at the Gemini at Work 2026 event, these agents can manage tasks for up to seven days. The system provides model flexibility, routing simple tasks to lightweight models like Gemini Flash while utilizing larger frontier models, such as Argon, for more complex, long-horizon objectives.</p><hr/><small>8 Oct 2026, 20:45 UTC | #23680</small>]]></content>
+    <updated>2026-10-08T23:39:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage">venturebeat.com</a> | <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/">source</a> | <a href="https://news.ycombinator.com/item?id=50005566">hacker news</a></small></p><hr/><p>Google Cloud has introduced the Gemini agent, a universal AI agent designed to manage long-running, multi-day enterprise workflows. These agents can operate across Google Workspace, Microsoft 365, and Slack to perform tasks such as research, document creation, and coding. To facilitate autonomous operations, each agent is equipped with its own dedicated Gmail, Calendar, and Google Drive storage.</p><p>Announced at the Gemini at Work 2026 event, these agents can manage tasks for up to seven days. The system provides model flexibility, routing simple tasks to lightweight models like Gemini Flash while utilizing larger frontier models, such as Argon, for more complex, long-horizon objectives.</p><hr/><small>8 Oct 2026, 20:45 UTC | #23680</small>]]></content>
   </entry>
   <entry>
     <title>Cactus Compute Releases Whistle Speech Recognition Model</title>
