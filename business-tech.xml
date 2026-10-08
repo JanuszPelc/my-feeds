@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-08T02:16:00+00:00</updated>
+  <updated>2026-10-08T03:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI and Anthropic Spending Parity Approaches on OpenRouter</title>
+    <link href="https://www.wsj.com/tech/ai/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-48b8525b?st=ikknUb" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-48b8525b?st=ikknUb::v239</id>
+    <published>2026-10-08T03:57:00+00:00</published>
+    <updated>2026-10-08T03:57:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/the-ai-price-war-is-heating-upand-openai-is-gaining-ground-on-anthropic-48b8525b?st=ikknUb">wsj.com</a> | <a href="https://openrouter.ai/data">source</a></small></p><hr/><p>OpenAI and Anthropic spending shares on OpenRouter have neared parity as of September 2026. This follows a January in which Anthropic models held a 75% share of the platform's total model spending.</p><p>An intensifying AI price war drives this market convergence. Both companies face pressure to demonstrate sustainable business models ahead of potential future IPOs.</p><hr/><small>8 Oct 2026, 10:17 UTC | #23622</small>]]></content>
+  </entry>
   <entry>
     <title>TikTok Accused of Running Placebo Safety Feature Experiments on Minors</title>
     <link href="https://www.reuters.com/world/china/tiktok-gave-teens-children-placebo-safety-feature-experiment-new-york-alleges-2026-10-07/" rel="alternate" />
