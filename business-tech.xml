@@ -660,13 +660,4 @@
     <updated>2026-10-03T13:33:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.scmp.com/">scmp.com</a> | <a href="https://www.scmp.com/tech/tech-war/article/3369557/china-stockpiles-asml-lithography-tools-spurring-us-calls-complete-export-ban">source</a> | <a href="https://news.ycombinator.com/item?id=49761840">hacker news</a></small></p><hr/><p>An estimated 343 immersion deep ultraviolet (DUVi) lithography tools were acquired by Chinese-owned fabrication plants by early 2026. According to a report by the Center for Technology &amp; Statecraft (CTS), approximately 270 of these machines are manufactured by ASML.</p><p>While DUVi technology is less advanced than extreme ultraviolet (EUV) systems, it can be adapted to manufacture 7-nanometer logic chips and High Bandwidth Memory (HBM) used in AI processors. This accumulation of lithography equipment has prompted recommendations for stricter or complete export bans on such technology.</p><hr/><small>3 Oct 2026, 16:56 UTC | #23146</small>]]></content>
   </entry>
-  <entry>
-    <title>Nebius Acquires AI Startup Inferize</title>
-    <link href="https://www.calcalistech.com/ctechnews/article/byzggtiqgx" rel="alternate" />
-    <id>https://www.calcalistech.com/ctechnews/article/byzggtiqgx::v239</id>
-    <published>2026-10-03T05:46:00+00:00</published>
-    <updated>2026-10-03T05:46:00+00:00</updated>
-    <media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/01/Hyw01ai9Gg/Hyw01ai9Gg_0_0_1280_854_0_x-large.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.calcalistech.com/ctechnews/article/byzggtiqgx">calcalistech.com</a> | <a href="https://nebius.com/newsroom/nebius-acquires-inferize-to-strengthen-nebius-token-factorys-production-inference-stack">source</a></small></p><hr/><p>Nebius has completed the acquisition of the Israeli AI startup Inferize in a deal estimated to be worth between $100 million and $150 million. Founded by former Granulate executives, Inferize specializes in technology designed to reduce idle GPU capacity by aligning AI inference scaling more closely with fluctuating demand.</p><p>The acquisition aims to integrate Inferize's optimization tools into the Nebius Token Factory to mitigate inefficiencies like "cold starts" during model loading. This move is part of a strategic effort by Nebius to build a comprehensive software layer around its expanding AI cloud infrastructure.</p><p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/01/Hyw01ai9Gg/Hyw01ai9Gg_0_0_1280_854_0_x-large.jpg" /></p><hr/><small>3 Oct 2026, 12:57 UTC | #23140</small>]]></content>
-  </entry>
 </feed>
