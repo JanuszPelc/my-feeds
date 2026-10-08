@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-07T21:47:00+00:00</updated>
+  <updated>2026-10-07T21:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rat Rewrites Register Allocator Using Priority Bin-Packing</title>
+    <link href="https://hexrat.cc/pages/blog/2026_10_07" rel="alternate" />
+    <id>https://hexrat.cc/pages/blog/2026_10_07::v239</id>
+    <published>2026-10-07T21:54:00+00:00</published>
+    <updated>2026-10-07T21:54:00+00:00</updated>
+    <media:thumbnail url="https://s3.amazonaws.com/media-p.slid.es/uploads/122159/images/1339091/x86_64-registers.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hexrat.cc/pages/blog/2026_10_07">hexrat.cc</a> | <a href="https://lobste.rs/s/frav12/rat_s_minimal_register_allocator">discussion</a></small></p><hr/><p>The rat compiler backend has transitioned from a 1392-line linear scan register allocator to a 584-line priority bin-packing allocator. The new system maps x86-64 virtual registers to physical general-purpose or XMM registers, or spills them to the stack when no registers are free.</p><p>The allocator employs a five-step process: numbering live ranges, marking fixed registers, coalescing bundles, picking registers by priority, and spilling. Performance testing against the previous implementation shows significant efficiency gains, including a 77% reduction in allocator time and a 43% reduction in total compilation time when compiling SQLite.</p><p><img src="https://s3.amazonaws.com/media-p.slid.es/uploads/122159/images/1339091/x86_64-registers.png" /></p><hr/><small>8 Oct 2026, 03:07 UTC | #23621</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Announces Surface AI PCs and Revamped Windows 11</title>
     <link href="https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/" rel="alternate" />
