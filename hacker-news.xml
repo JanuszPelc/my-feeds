@@ -3,9 +3,25 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-07T21:39:00+00:00</updated>
+  <updated>2026-10-07T21:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Microsoft and Xbox News: Call of Duty, Surface, and Windows 11 Updates</title>
+    <link href="https://www.windowscentral.com/" rel="alternate" />
+    <id>https://www.windowscentral.com/::v239</id>
+    <published>2026-10-07T21:42:00+00:00</published>
+    <updated>2026-10-07T21:42:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.windowscentral.com/">windowscentral.com</a> | <a href="https://news.ycombinator.com/item?id=49854945">hacker news</a></small></p><hr/><p>Microsoft plans to bring Call of Duty support to RTX Spark and ARM64 in 2027, while preorders for the Surface Laptop Ultra are now live. Windows 11 is also receiving AI-powered search capabilities and improvements to File Explorer and Copilot integration.</p><p>Additional reports cover Xbox CEO Asha Sharma's recent town hall regarding the platform's future, leaks concerning a new Xbox Elite Controller, and various hardware discounts on Dell laptops and Samsung SSDs.</p><hr/><small>8 Oct 2026, 01:22 UTC | #23588</small>]]></content>
+  </entry>
+  <entry>
+    <title>Microsoft Opens Preorders for Surface RTX Spark Dev Box</title>
+    <link href="https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder" rel="alternate" />
+    <id>https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder::v239</id>
+    <published>2026-10-07T21:41:00+00:00</published>
+    <updated>2026-10-07T21:41:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder">theverge.com</a> | <a href="https://www.microsoft.com/en-us/surface/devices/surface-rtx-spark-dev-box">source</a> | <a href="https://news.ycombinator.com/item?id=49996631">hacker news</a></small></p><hr/><p>Optimized for running local AI models exceeding 120 billion parameters, this Nvidia-powered mini PC is now available for preorder. It features the Arm-based RTX Spark platform and 128GB of unified memory, with shipping expected in November at a price of approximately $6,000.</p><p>Part of Microsoft's Project Zenith, the device ships with a developer-optimized version of Windows 11 Pro and preinstalled tools including Visual Studio Code, Git, and GitHub Copilot. Its anodized aluminum chassis is designed to function as a heatsink, drawing design inspiration from the Xbox Series X.</p><hr/><small>8 Oct 2026, 01:20 UTC | #23589</small>]]></content>
+  </entry>
   <entry>
     <title>Margaret Hamilton, Apollo Program Software Pioneer, Dies at 90</title>
     <link href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007" rel="alternate" />
