@@ -311,22 +311,4 @@
     <media:thumbnail url="https://liao.gg/images/blog/agents-dont-need-memory/tangled-800.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://liao.gg/blog/agents-dont-need-memory">liao.gg</a> | <a href="https://news.ycombinator.com/item?id=49945933">hacker news</a></small></p><hr/><p>AI agent "memory" plugins often rely on RAG-based vector databases to retrieve conversation snippets, a method providing limited semantic context, low auditability, and difficulty keeping pace with evolving codebases. This architecture prioritizes increasing data capture and retrieval accuracy rather than addressing the requirement for structured, persistent project documentation.</p><p>A "prompt, consult, build, update" workflow allows agents to maintain a Markdown-based "brain" of instructions, specifications, and research. The open-source Operator Memory tool implements this model, enabling agents to read and update human-readable files to maintain context across sessions without the need for embedding-based retrieval.</p><p><img src="https://liao.gg/images/blog/agents-dont-need-memory/tangled-800.jpg" /></p><hr/><small>4 Oct 2026, 11:51 UTC | #23213</small>]]></content>
   </entry>
-  <entry>
-    <title>Wagtail Developer Experiments with GLM 5.3 Flash for One Month</title>
-    <link href="https://wagtail.org/blog/one-month-on-glm-53-flash/" rel="alternate" />
-    <id>https://wagtail.org/blog/one-month-on-glm-53-flash/::v239</id>
-    <published>2026-10-03T14:06:00+00:00</published>
-    <updated>2026-10-03T14:06:00+00:00</updated>
-    <media:thumbnail url="https://media.wagtail.org/images/agentsview_tokens_september_2026.width-950.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://wagtail.org/blog/one-month-on-glm-53-flash/">wagtail.org</a> | <a href="https://news.ycombinator.com/item?id=49934620">hacker news</a></small></p><hr/><p>An attempt to use the GLM 5.3 Flash model exclusively for a month of coding tasks revealed significant cost and infrastructure hurdles. While usage initially stayed within a $68 budget, "vibe coding" errors with an incorrect model caused a $150 spike in a single day, and provider capacity issues required occasional switches to alternative models like DeepSeek and Qwen.</p><p>Despite these challenges, the experiment highlighted the utility of flash-tier models, specifically GLM 5.3 Flash's one-million-token context window and vision capabilities. The findings suggest that most daily AI inference should prioritize efficient models to optimize for cost and energy consumption.</p><p><img src="https://media.wagtail.org/images/agentsview_tokens_september_2026.width-950.png" /></p><hr/><small>3 Oct 2026, 20:47 UTC | #23177</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI Agents Now Available Through Text Messaging</title>
-    <link href="https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/::v239</id>
-    <published>2026-10-03T14:01:00+00:00</published>
-    <updated>2026-10-03T14:01:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/CaddyAI.png?w=507" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/">techcrunch.com</a></small></p><hr/><p>AI agents are increasingly being integrated into messaging platforms like iMessage, WhatsApp, and SMS, allowing users to execute tasks without downloading separate applications. These assistants can access calendars, emails, and other services to manage schedules, conduct research, and perform various errands.</p><p>Available options range from general-purpose assistants to niche services for family management, travel, and professional workflows. Some advanced agents are now utilizing dedicated phone numbers and email addresses to handle autonomous communications on a user's behalf.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/CaddyAI.png?w=507" /></p><hr/><small>3 Oct 2026, 19:05 UTC | #23160</small>]]></content>
-  </entry>
 </feed>
