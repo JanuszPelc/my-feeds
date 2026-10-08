@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-08T00:06:00+00:00</updated>
+  <updated>2026-10-08T02:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>TikTok Accused of Running Placebo Safety Feature Experiments on Minors</title>
+    <link href="https://www.reuters.com/world/china/tiktok-gave-teens-children-placebo-safety-feature-experiment-new-york-alleges-2026-10-07/" rel="alternate" />
+    <id>https://www.reuters.com/world/china/tiktok-gave-teens-children-placebo-safety-feature-experiment-new-york-alleges-2026-10-07/::v239</id>
+    <published>2026-10-08T02:16:00+00:00</published>
+    <updated>2026-10-08T02:16:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/china/tiktok-gave-teens-children-placebo-safety-feature-experiment-new-york-alleges-2026-10-07/">reuters.com</a></small></p><hr/><p>TikTok allegedly provided thousands of users, including children, with non-functional versions of its "Algo Refresh" safety feature during secret experiments. Unsealed court documents in a New York lawsuit claim the company used these "placebo" tools to monitor how safety features affect user engagement and advertising revenue, even while users believed they were successfully resetting their content feeds.</p><p>The lawsuit, filed by New York Attorney General Letitia James, alleges the platform is designed to be addictive and misleads users about safety. The case is part of a wider wave of litigation from various states targeting TikTok's impact on young users and its platform design.</p><hr/><small>8 Oct 2026, 09:20 UTC | #23620</small>]]></content>
+  </entry>
   <entry>
     <title>Fired OpenAI Researchers Urge AI Labs to Preserve AI Monitoring Visibility</title>
     <link href="https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94?st=SSs38V&amp;reflink=desktopwebshare_permalink" rel="alternate" />
