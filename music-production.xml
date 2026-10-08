@@ -599,20 +599,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/phoalis1-2j.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/rawl-updates-phoalis-to-v1-2---aax-support-rent-to-own-option-and-skins-68869?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68869">kvraudio.com</a> | <a href="https://dstylesounds.com/rawl/product?id=phoalis">source</a></small></p><hr/><p>RAWL has released version 1.2 of its Phoalis plugin, which introduces AAX format support and a rent-to-own purchasing option. This update also includes support for optional add-on skins and an "AUTO" mode for the gain match feature.</p><p>To mark the software update, RAWL is offering a 10% discount on full Phoalis licenses through October 19, 2026.</p><p><img src="https://static.kvraudio.com/i/b/phoalis1-2j.jpg" /></p><hr/><small>5 Oct 2026, 09:59 UTC | #23270</small>]]></content>
   </entry>
-  <entry>
-    <title>Polarity - MEQ Spectral Matching Plugin Released</title>
-    <link href="https://bedroomproducersblog.com/2026/10/03/polarity-meq-dynamic/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/03/polarity-meq-dynamic/::v239</id>
-    <published>2026-10-03T09:40:00+00:00</published>
-    <updated>2026-10-03T09:40:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/03/polarity-meq-dynamic/">bedroomproducersblog.com</a> | <a href="https://polarity.productions/polarity-meq/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/03/polarity-meq-dynamic/#respond">discussion</a></small></p><hr/><p>This free spectral matching equalizer for macOS, Windows, and Linux aligns the tone, dynamics, and width of a target signal to a reference. It features Mid/Side spectral matching and allows users to export EQ curves for use in Bitwig Convolution.</p><p>Available in VST3, CLAP, and LV2 formats as well as a standalone application, the tool is designed for spectral carving and achieving tonal consistency through dynamic processing.</p><hr/><small>3 Oct 2026, 14:52 UTC | #23149</small>]]></content>
-  </entry>
-  <entry>
-    <title>Soundins Releases PhaXer Free Stereo Phase Correction Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/10/03/soundins-phaxer-free/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/03/soundins-phaxer-free/::v239</id>
-    <published>2026-10-03T09:34:00+00:00</published>
-    <updated>2026-10-03T09:34:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/03/soundins-phaxer-free/">bedroomproducersblog.com</a> | <a href="https://soundins.com.ar/Plugins/PhaXer/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/03/soundins-phaxer-free/#respond">discussion</a></small></p><hr/><p>Soundins has released PhaXer, a free stereo phase correction plugin designed to address phase correlation issues between the left and right channels of stereo tracks. The tool aims to improve mono compatibility by correcting phase shifts, particularly in the low-end frequencies, prior to mastering.</p><p>The plugin is compatible with macOS and Windows and is available in VST, VST3, AU, and AAX formats. It helps producers ensure that stereo signals maintain weight and impact when summed to mono.</p><hr/><small>3 Oct 2026, 14:40 UTC | #23150</small>]]></content>
-  </entry>
 </feed>
