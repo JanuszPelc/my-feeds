@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-07T21:42:00+00:00</updated>
+  <updated>2026-10-07T21:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Microsoft Announces Surface AI PCs and Revamped Windows 11</title>
+    <link href="https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/::v239</id>
+    <published>2026-10-07T21:47:00+00:00</published>
+    <updated>2026-10-07T21:47:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/">techcrunch.com</a> | <a href="https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/">source</a></small></p><hr/><p>Microsoft has announced the Surface Laptop Ultra and Surface RTX Spark Dev Box, new hardware powered by Nvidia's RTX Spark chip to enable local AI model execution. The announcement includes a revamped version of Windows 11 featuring "Execution Containers" for sandboxing AI agents, a feature Microsoft plans to make available to all Windows 11 users.</p><p>The Surface Laptop Ultra is priced between $2,600 and $5,900, while the Surface RTX Spark Dev Box workstation starts at $6,000 and includes tools like GitHub Copilot CLI and WSL. Dell also disclosed specifications for its Dell XPS 16 Creator Edition, a new Nvidia-powered AI PC.</p><hr/><small>8 Oct 2026, 01:39 UTC | #23603</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft and Xbox News: Call of Duty, Surface, and Windows 11 Updates</title>
     <link href="https://www.windowscentral.com/" rel="alternate" />
