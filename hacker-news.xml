@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-08T22:08:00+00:00</updated>
+  <updated>2026-10-08T23:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Migrating Git Repositories to SHA-256 Object Format</title>
+    <link href="https://exa.y2k.diy/garden/git-sha256/" rel="alternate" />
+    <id>https://exa.y2k.diy/garden/git-sha256/::v239</id>
+    <published>2026-10-08T23:25:00+00:00</published>
+    <updated>2026-10-08T23:25:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://exa.y2k.diy/garden/git-sha256/">exa.y2k.diy</a> | <a href="https://lobste.rs/s/ug8erg/migrating_git_repos_sha_256">discussion</a></small></p><hr/><p>Git 2.42 introduced the SHA-256 object format, which requires a specific migration workflow to transition from SHA-1. While standard repositories can be migrated using `git fast-export` and `git fast-import`, repositories containing submodules require a multi-step process involving the `--rewrite-submodules-from` and `--rewrite-submodules-to` flags to correctly map object IDs during the import.</p><p>The guide also details how to migrate Forgejo repositories in-place by performing SQL updates to the repository database and resynchronizing Git data. Additionally, it provides a method for re-signing all commits using `git rebase` after a migration. Users should be aware that SHA-256 remains incompatible with GitHub and certain third-party Git tools.</p><hr/><small>9 Oct 2026, 03:57 UTC | #23749</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Expected to Debut Touch-Screen MacBook and New iPad Mini in Late October</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTQ5MDMwMCwiZXhwIjoxNzkyMDk1MTAwLCJhcnRpY2xlSWQiOiJUTUtNUllLSVVQU1cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.FtH_qR7-ZMoCNHSPZzDhdIAtFuxSSOo7BPD87jeDEW4" rel="alternate" />
