@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-09T13:14:00+00:00</updated>
+  <updated>2026-10-09T14:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Netflix Prepares to Lay Off Approximately 5% of Workforce</title>
+    <link href="https://puck.news/netflix-is-sharpening-the-layoff-axe/" rel="alternate" />
+    <id>https://puck.news/netflix-is-sharpening-the-layoff-axe/::v239</id>
+    <published>2026-10-09T14:35:00+00:00</published>
+    <updated>2026-10-09T14:35:00+00:00</updated>
+    <media:thumbnail url="https://tamansinghlaw.com/wp-content/uploads/2026/02/Netflix-Layoffs-in-Ontario-2026.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://puck.news/netflix-is-sharpening-the-layoff-axe/">puck.news</a></small></p><hr/><p>Netflix is preparing to lay off approximately 5% of its workforce, which equates to roughly 850 jobs. The move is driven by recent pressures involving weakened user engagement and a depressed stock price.</p><p>The layoffs are expected to take place in the near future. This restructuring comes as the streaming service navigates shifting market conditions and investor scrutiny.</p><p><img src="https://tamansinghlaw.com/wp-content/uploads/2026/02/Netflix-Layoffs-in-Ontario-2026.png" /></p><hr/><small>9 Oct 2026, 16:59 UTC | #23762</small>]]></content>
+  </entry>
   <entry>
     <title>Worldwide PC Shipments Decline 20.1% in Q3 2026</title>
     <link href="https://www.idc.com/resource-center/press-releases/idc-pc-tracker-3q26/" rel="alternate" />
