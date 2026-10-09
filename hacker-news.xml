@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-09T14:32:00+00:00</updated>
+  <updated>2026-10-09T14:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Japan Urges Security Reviews Following Wave of Cyberattacks</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews::v239</id>
+    <published>2026-10-09T14:36:00+00:00</published>
+    <updated>2026-10-09T14:36:00+00:00</updated>
+    <media:thumbnail url="https://itbusinesstoday.com/wp-content/uploads/2026/01/Identity-Centric-Security-in-2026-Why-Japanese-Enterprises-Are-Rethinking-Zero-Trust.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews">bloomberg.com</a></small></p><hr/><p>A wave of cyberattacks targeting Japanese companies in September has exposed the personal data of millions of people. These incidents have prompted the Japanese government to call for comprehensive security reviews across various sectors to bolster defenses.</p><p>The increasing frequency and sophistication of these attacks are attributed to the availability of AI tools, which lower the entry barrier for hackers. Recent large-scale breaches include a VPN flaw at the Digital Agency exposing government employee data and a cyber incident at the Nikkei media group.</p><p><img src="https://itbusinesstoday.com/wp-content/uploads/2026/01/Identity-Centric-Security-in-2026-Why-Japanese-Enterprises-Are-Rethinking-Zero-Trust.webp" /></p><hr/><small>9 Oct 2026, 17:19 UTC | #23763</small>]]></content>
+  </entry>
   <entry>
     <title>United States Imposes Sanctions on International Criminal Court</title>
     <link href="https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/" rel="alternate" />
