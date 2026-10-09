@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-09T14:48:00+00:00</updated>
+  <updated>2026-10-09T15:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Unison Cloud Becomes Open Source</title>
+    <link href="https://www.unison-lang.org/blog/unison-cloud-open-source/" rel="alternate" />
+    <id>https://www.unison-lang.org/blog/unison-cloud-open-source/::v239</id>
+    <published>2026-10-09T15:33:00+00:00</published>
+    <updated>2026-10-09T15:33:00+00:00</updated>
+    <media:thumbnail url="https://alternativeto.net/og/about/unison-programming-language.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.unison-lang.org/blog/unison-cloud-open-source/">unison-lang.org</a> | <a href="https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source">discussion</a> | <a href="https://news.ycombinator.com/item?id=50022032">hacker news</a></small></p><hr/><p>Unison Cloud, a system that converts a pool of nodes into a programmable distributed computer, is now open source under the MIT license. The release includes the Unison Cloud client, the Nimbus worker node, the Unison Cloud API Server, and the Unison Cloud UI.</p><p>The platform features lightweight service deployment (under 200kb), inter-service communication via adaptive service graph compression, and a fork/join model for distributed batch jobs. It also provides integrated secrets management, long-running background jobs, and storage capabilities through DynamoDB and S3.</p><p><img src="https://alternativeto.net/og/about/unison-programming-language.png" /></p><hr/><small>9 Oct 2026, 18:52 UTC | #23816</small>]]></content>
+  </entry>
   <entry>
     <title>Python 3.15.0 Released</title>
     <link href="https://www.python.org/downloads/release/python-3150/" rel="alternate" />
@@ -1000,13 +1009,5 @@
     <updated>2026-10-04T19:43:00+00:00</updated>
     <media:thumbnail url="https://github.com/omlahore/RemoveMacAI/raw/main/docs/hero.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/omlahore/RemoveMacAI">github.com</a> | <a href="https://news.ycombinator.com/item?id=49957116">hacker news</a></small></p><hr/><p>This utility disables Apple Intelligence features and removes their associated machine learning models on macOS 27 to reclaim disk space. By using a configuration profile to redirect model download requests to a local port, the tool prevents the operating system from automatically re-downloading files that can consume between 14GB and 30GB of storage.</p><p>The software is compatible with Apple silicon and operates by applying Apple's own restriction keys rather than modifying protected system files, ensuring System Integrity Protection remains active. All changes made by the script, including the disabling of Siri, Writing Tools, and Genmoji, are fully reversible through a built-in revert command.</p><p><img src="https://github.com/omlahore/RemoveMacAI/raw/main/docs/hero.png" /></p><hr/><small>4 Oct 2026, 21:57 UTC | #23245</small>]]></content>
-  </entry>
-  <entry>
-    <title>Optimizing IPv4 to IPv6 Mapping in the Go Compiler</title>
-    <link href="https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6" rel="alternate" />
-    <id>https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6::v239</id>
-    <published>2026-10-04T18:50:00+00:00</published>
-    <updated>2026-10-04T18:50:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6">vincent.bernat.ch</a> | <a href="https://lobste.rs/s/ul9krj/hacking_go_compiler_efficiently_map_ipv4">discussion</a> | <a href="https://news.ycombinator.com/item?id=49954375">hacker news</a></small></p><hr/><p>Converting IPv4 addresses to IPv4-mapped IPv6 addresses via Go's netip.Addr type is currently eight times slower than a native implementation. This performance gap occurs because the Go compiler does not optimize the netip.AddrFrom16(ip.As16()) pattern that developers must use to compensate for the lack of a dedicated Map() method in the standard library.</p><p>Optimization strategies include modifying the Go standard library, using the unsafe package, or implementing a compiler-level hack. The latter approach involves intercepting the conversion pattern during the compiler's noding phase and replacing it with an efficient, direct struct assignment within the intermediate representation.</p><hr/><small>4 Oct 2026, 21:54 UTC | #23243</small>]]></content>
   </entry>
 </feed>
