@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-08T23:28:00+00:00</updated>
+  <updated>2026-10-09T06:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Victorian Elites and the Role of Soft Skills in Their Success</title>
+    <link href="https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/" rel="alternate" />
+    <id>https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/::v239</id>
+    <published>2026-10-09T06:53:00+00:00</published>
+    <updated>2026-10-09T06:53:00+00:00</updated>
+    <media:thumbnail url="https://worksinprogress.co/.netlify/images?url=https%3A%2F%2Fassets.worksinprogress.co%2Fwp-content%2Fuploads%2F2026%2F10%2F1.-Rugby-being-played-at-Rugby-School-in-1879-scaled.jpg&amp;w=2560&amp;h=1911&amp;q=65&amp;fit=cover" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/">worksinprogress.co</a> | <a href="https://news.ycombinator.com/item?id=49993908">hacker news</a></small></p><hr/><p>Nineteenth-century British elites achieved significant global dominance by prioritizing social networking and character formation over STEM-focused education and technical rigor. While modern success models often emphasize extreme discipline and scientific expertise, the Victorian ruling class used boarding schools and Oxbridge to foster leadership, "gentlemanly conduct," and intense interpersonal loyalty.</p><p>This educational and social structure created a highly interconnected and cooperative ruling class through organized sports and student self-governance. Such an emphasis on social capital, rather than individual technical competence, may have provided the stability and collective efficacy required to manage a global empire and industrial dominance.</p><p><img src="https://worksinprogress.co/.netlify/images?url=https%3A%2F%2Fassets.worksinprogress.co%2Fwp-content%2Fuploads%2F2026%2F10%2F1.-Rugby-being-played-at-Rugby-School-in-1879-scaled.jpg&w=2560&h=1911&q=65&fit=cover" /></p><hr/><small>9 Oct 2026, 12:42 UTC | #23778</small>]]></content>
+  </entry>
   <entry>
     <title>ADHD Linked to Delayed Circadian Rhythms and Melatonin Onset</title>
     <link href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full" rel="alternate" />
