@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>China Prioritizes Rapid AI Development Over Frontier Safety Disclosures</title>
+    <link href="https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier" rel="alternate" />
+    <id>https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier::v239</id>
+    <published>2026-10-09T15:53:00+00:00</published>
+    <updated>2026-10-09T15:53:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!KGF-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb1bc921-5af1-48e5-a704-570148c43821_3400x2579.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier">newsletter.semianalysis.com</a></small></p><hr/><p>China’s AI safety regime focuses on regulating application-layer outputs and content rather than the evaluation of frontier model capabilities. While the Cyberspace Administration of China (CAC) recently released the AI Safety Governance Framework 3.0, which acknowledges risks like recursive self-improvement, industrial practice emphasizes rapid deployment. An analysis of 857 model releases from nine leading Chinese developers found that only 3.6% included published safety results, with only 1.1% available at or before model release.</p><p>This "speed-first" approach targets what models say and how they are deployed to users, rather than establishing mandatory safety-risk duties triggered by training compute or scale. Unlike the EU or California frameworks, which mandate reporting for high-capability models, China’s regulatory focus remains on content labeling, minor protections, and application-specific security. This allows labs to participate in rapid release and price wars without undergoing rigorous capability-based safety evaluations.</p><p><img src="https://substackcdn.com/image/fetch/$s_!KGF-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb1bc921-5af1-48e5-a704-570148c43821_3400x2579.png" /></p><hr/><small>9 Oct 2026, 21:22 UTC | #23787</small>]]></content>
+  </entry>
+  <entry>
     <title>Orkut Focuses on Community and Connection for Social Media</title>
     <link href="https://orkut.com/" rel="alternate" />
     <id>https://orkut.com/::v239</id>
