@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-09T01:56:00+00:00</updated>
+  <updated>2026-10-09T01:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Let's Encrypt to Implement 64-Day Default Certificate Lifetimes in February 2027</title>
+    <link href="https://letsencrypt.org/2026/10/07/64-day-certs.html" rel="alternate" />
+    <id>https://letsencrypt.org/2026/10/07/64-day-certs.html::v239</id>
+    <published>2026-10-09T01:58:00+00:00</published>
+    <updated>2026-10-09T01:58:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://letsencrypt.org/2026/10/07/64-day-certs.html">letsencrypt.org</a> | <a href="https://lobste.rs/s/dcrosf/64_day_certificate_lifetimes_coming_feb">discussion</a> | <a href="https://news.ycombinator.com/item?id=50002249">hacker news</a></small></p><hr/><p>Let's Encrypt will transition all subscribers to a default certificate lifetime of 64 days starting February 10, 2027. This change will apply to all certificates issued or renewed on or after that date, though users may manually opt for shorter lifetimes of 45 or 6 days. Existing valid certificates will not be revoked as part of this transition.</p><p>The shift aims to enhance web security by reducing the risk of key compromise and mis-issuance, as well as preparing for 2029 industry standard changes. Let's Encrypt will enable testing for these new lifetimes in its staging environment on October 14, 2026. Organizations using hardcoded renewal schedules should update their workflows to renew at approximately two-thirds of the new lifetime to avoid unexpected expirations.</p><hr/><small>9 Oct 2026, 09:48 UTC | #23759</small>]]></content>
+  </entry>
   <entry>
     <title>Raheim Hamilton Sentenced to 40 Years for Operating Empire Market</title>
     <link href="https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/" rel="alternate" />
