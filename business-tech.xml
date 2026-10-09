@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-09T21:07:00+00:00</updated>
+  <updated>2026-10-09T21:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Tesla Renames Full Self-Driving to Tesla Assisted Driving in Europe</title>
+    <link href="https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/::v239</id>
+    <published>2026-10-09T21:14:00+00:00</published>
+    <updated>2026-10-09T21:14:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/">techcrunch.com</a> | <a href="https://www.bmv.de/SharedDocs/DE/Artikel/StV/Digitalisierung-der-Mobilitaet/aktueller-stand-tesla-assistenzsysteme.html">source</a></small></p><hr/><p>Tesla has rebranded its "Full Self-Driving (Supervised)" system to "Tesla Assisted Driving" in Europe. The change follows pushback from Germany’s transportation ministry, which argued the previous name was misleading because the software requires continuous human supervision to operate safely.</p><p>The rebranding is intended to facilitate regulatory approval across the European Union, with German Transport Minister Steffen Bilger advocating for a timely EU-wide vote on the system. Achieving widespread approval could unlock significant new revenue streams for Tesla as it seeks to expand its driver-assistance market in Europe.</p><hr/><small>9 Oct 2026, 23:41 UTC | #23805</small>]]></content>
+  </entry>
   <entry>
     <title>YouTuber Faces Police Visit After Building DIY Police-Tracking Camera</title>
     <link href="https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306" rel="alternate" />
