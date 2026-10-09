@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-09T01:58:00+00:00</updated>
+  <updated>2026-10-09T06:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>PSP Web Recomp Enables Browser-Based PSP Gameplay via WebAssembly</title>
+    <link href="https://github.com/snuri00/psp-web-recomp" rel="alternate" />
+    <id>https://github.com/snuri00/psp-web-recomp::v239</id>
+    <published>2026-10-09T06:08:00+00:00</published>
+    <updated>2026-10-09T06:08:00+00:00</updated>
+    <media:thumbnail url="https://img-cdn.publive.online/fit-in/1200x675/pcq/media/media_files/2026/02/23/god-of-war-chains-of-olympus-psp-game-download-2026-02-23-15-58-21.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/snuri00/psp-web-recomp">github.com</a> | <a href="https://news.ycombinator.com/item?id=49991243">hacker news</a></small></p><hr/><p>By translating PSP MIPS machine code into C++ and WebAssembly through static recompilation, this tool enables browser-based gaming. The implementation uses a high-level emulation (HLE) kernel and a WebGL2 renderer to run titles without a traditional emulator.</p><p>Demonstrations of God of War: Chains of Olympus and God of War: Ghost of Sparta have achieved 60 frames per second at four times the native resolution. Users can port their own games by providing decrypted disc images, which the scripts transform into web-ready pages.</p><p><img src="https://img-cdn.publive.online/fit-in/1200x675/pcq/media/media_files/2026/02/23/god-of-war-chains-of-olympus-psp-game-download-2026-02-23-15-58-21.jpg" /></p><hr/><small>9 Oct 2026, 11:54 UTC | #23773</small>]]></content>
+  </entry>
   <entry>
     <title>Let's Encrypt to Implement 64-Day Default Certificate Lifetimes in February 2027</title>
     <link href="https://letsencrypt.org/2026/10/07/64-day-certs.html" rel="alternate" />

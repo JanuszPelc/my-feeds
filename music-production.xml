@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-09T06:06:00+00:00</updated>
+  <updated>2026-10-09T06:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Bitlantis Updates Kveik MIDI Step Sequencer to v1.5</title>
+    <link href="https://www.kvraudio.com/news/bitlantis-updates-kveik-midi-step-sequencer-to-v1-5-with-chord-helper-mood-based-progressions-and-chord-inversions-69006?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69006" rel="alternate" />
+    <id>https://www.kvraudio.com/news/bitlantis-updates-kveik-midi-step-sequencer-to-v1-5-with-chord-helper-mood-based-progressions-and-chord-inversions-69006?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69006::v239</id>
+    <published>2026-10-09T06:48:00+00:00</published>
+    <updated>2026-10-09T06:48:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/kvrnews.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/bitlantis-updates-kveik-midi-step-sequencer-to-v1-5-with-chord-helper-mood-based-progressions-and-chord-inversions-69006?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69006">kvraudio.com</a> | <a href="https://kveik.ch/">source</a></small></p><hr/><p>Bitlantis has released version 1.5 of Kveik, a MIDI step sequencer plugin designed for drums, bass, and melodic patterns. The update introduces a chord helper with scale-aware triads and seventh chords, mood-based chord progression generation, and automatic chord inversion. It also includes expanded ratcheting capabilities, enhanced pitch and ARP controls, and standalone support that enables a single instance to drive multiple hardware synths through independent MIDI ports.</p><p>This update is a free upgrade for existing users. Kveik is available for macOS and Windows in VST3 and standalone formats, with a retail price of $49. A 14-day full-feature trial is available through the developer's website.</p><p><img src="https://static.kvraudio.com/i/b/kvrnews.jpg" /></p><hr/><small>9 Oct 2026, 11:56 UTC | #23756</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sound Overflow Updates Genator to v1.0.1 and Releases Demo</title>
+    <link href="https://www.kvraudio.com/news/sound-overflow-updates-genator-to-v1-0-1-and-releases-demo-version-69005?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69005" rel="alternate" />
+    <id>https://www.kvraudio.com/news/sound-overflow-updates-genator-to-v1-0-1-and-releases-demo-version-69005?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69005::v239</id>
+    <published>2026-10-09T06:46:00+00:00</published>
+    <updated>2026-10-09T06:46:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/genator_title.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/sound-overflow-updates-genator-to-v1-0-1-and-releases-demo-version-69005?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69005">kvraudio.com</a> | <a href="https://soundoverflow.com/plugin-genator.html">source</a></small></p><hr/><p>Sound Overflow has released version 1.0.1 of its Genator generative synthesizer for Windows and introduced a demo version. The update adds an illustrated in-plugin help system, a new PDF user manual, and fixes for license activation issues.</p><p>The demo provides two hours of full functionality with a subset of factory presets. Genator uses a rule-based engine to build synthesizer patches from descriptions of sound family, ambience, mood, and era, allowing features like "INSPIRE" to continue running even when the plugin window is closed.</p><p><img src="https://static.kvraudio.com/i/b/genator_title.jpg" /></p><hr/><small>9 Oct 2026, 11:56 UTC | #23757</small>]]></content>
+  </entry>
   <entry>
     <title>Intrect Updates de-artifact with AAX Support for Pro Tools</title>
     <link href="https://www.kvraudio.com/news/intrect-updates-de-artifact-to-v0-4-4-with-aax-support-for-pro-tools-68923?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68923" rel="alternate" />
