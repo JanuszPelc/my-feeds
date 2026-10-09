@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-08T17:33:00+00:00</updated>
+  <updated>2026-10-08T18:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>A Guide to Writing and Packaging GNU Guix Extensions</title>
+    <link href="https://guix.gnu.org/en/blog/2026/extending-guix/" rel="alternate" />
+    <id>https://guix.gnu.org/en/blog/2026/extending-guix/::v239</id>
+    <published>2026-10-08T18:29:00+00:00</published>
+    <updated>2026-10-08T18:29:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://guix.gnu.org/en/blog/2026/extending-guix/">guix.gnu.org</a> | <a href="https://lobste.rs/s/qfzzmi/extending_guix">discussion</a></small></p><hr/><p>GNU Guix allows users to extend the package manager by adding new commands via custom modules. A recent update introduced a new extension schema that utilizes compiled Guile modules, improving performance by allowing the runtime to find compiled .go files directly rather than relying on runtime evaluation.</p><p>The article provides a tutorial for creating a basic extension, including the implementation of command-line option parsing and a package definition using the guile-build-system. The author encourages community contributors to host their extensions in the guix-extensions organization on Codeberg to build a central hub for community tools.</p><hr/><small>9 Oct 2026, 00:21 UTC | #23736</small>]]></content>
+  </entry>
   <entry>
     <title>The Evolution and Technical Design of DVD Menus</title>
     <link href="https://vale.rocks/posts/dvd-menus" rel="alternate" />
