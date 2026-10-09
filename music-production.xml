@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-08T22:09:00+00:00</updated>
+  <updated>2026-10-09T01:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Liljeholmen DSP Releases Trumsynt-KIT Analog Modelling Drum Machine</title>
+    <link href="https://www.kvraudio.com/news/liljeholmen-dsp-releases-trumsynt-kit-analog-modelling-drum-machine-vst3-and-au-68997?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68997" rel="alternate" />
+    <id>https://www.kvraudio.com/news/liljeholmen-dsp-releases-trumsynt-kit-analog-modelling-drum-machine-vst3-and-au-68997?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68997::v239</id>
+    <published>2026-10-09T01:10:00+00:00</published>
+    <updated>2026-10-09T01:10:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/trumsynt-kit-1-0_kit-12_1600x900-v2.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/liljeholmen-dsp-releases-trumsynt-kit-analog-modelling-drum-machine-vst3-and-au-68997?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68997">kvraudio.com</a> | <a href="https://liljeholmendsp.se/">source</a></small></p><hr/><p>Liljeholmen DSP has released Trumsynt-KIT, an eight-voice analog modelling drum machine for macOS and Windows. The plugin features a pattern sequencer with per-step parameter locks, allowing users to reshape sound parameters for every hit. Each voice functions as a full synthesizer capable of producing kicks, snares, hats, and pitched percussion using oscillators, noise, and ladder filters.</p><p>A €49 license includes both Trumsynt-KIT and Trumsynt-16, a single-voice percussion plugin. Trumsynt-16 has also been updated to version 1.4, adding tempo-synced LFOs and workflow enhancements such as undo and sequencer copy-paste.</p><p><img src="https://static.kvraudio.com/i/b/trumsynt-kit-1-0_kit-12_1600x900-v2.jpg" /></p><hr/><small>9 Oct 2026, 06:16 UTC | #23747</small>]]></content>
+  </entry>
   <entry>
     <title>Audioblast Releases V10F Monophonic Synth</title>
     <link href="https://www.kvraudio.com/news/audioblast-releases-v10f-for-macos-and-windows-vst-au-and-aax-68990?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68990" rel="alternate" />
