@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>SpaceX Acquires Low-Band Spectrum for Starlink Mobile Service</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-08/spacex-to-acquire-low-band-spectrum-for-mobile-phone-service" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-08/spacex-to-acquire-low-band-spectrum-for-mobile-phone-service::v239</id>
+    <published>2026-10-08T23:26:00+00:00</published>
+    <updated>2026-10-08T23:26:00+00:00</updated>
+    <media:thumbnail url="https://images.wsj.net/im-50302534?width=780&amp;height=520" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-08/spacex-to-acquire-low-band-spectrum-for-mobile-phone-service">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50011982">hacker news</a></small></p><hr/><p>SpaceX has secured a nationwide low-band spectrum portfolio to support Starlink Mobile, enabling the service to provide indoor coverage across the United States. The deal includes 14 megahertz of paired spectrum in the 800 MHz band, acquired from Grain Management.</p><p>This acquisition positions the company to compete directly with established US mobile carriers. The announcement led to an 8% drop in shares for several incumbent cellular providers.</p><p><img src="https://images.wsj.net/im-50302534?width=780&height=520" /></p><hr/><small>9 Oct 2026, 04:32 UTC | #23726</small>]]></content>
+  </entry>
+  <entry>
     <title>FTC Investigates Block Over Frozen Customer Accounts</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-08/ftc-probes-block-after-consumer-complaints-over-frozen-accounts" rel="alternate" />
     <id>https://www.bloomberg.com/news/articles/2026-10-08/ftc-probes-block-after-consumer-complaints-over-frozen-accounts::v239</id>
