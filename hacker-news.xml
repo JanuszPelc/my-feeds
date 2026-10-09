@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-09T13:11:00+00:00</updated>
+  <updated>2026-10-09T14:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>United States Imposes Sanctions on International Criminal Court</title>
+    <link href="https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/" rel="alternate" />
+    <id>https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/::v239</id>
+    <published>2026-10-09T14:32:00+00:00</published>
+    <updated>2026-10-09T14:32:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/">reuters.com</a> | <a href="https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/">source</a> | <a href="https://news.ycombinator.com/item?id=50021066">hacker news</a></small></p><hr/><p>The United States has imposed sanctions on the International Criminal Court (ICC) following the announcement that a former judge of the court was awarded the Nobel Peace Prize. Announced by Secretary of State Marco Rubio, the move represents a significant escalation in the Trump administration's long-standing opposition to the court's jurisdiction.</p><p>The sanctions include adding the ICC to the Treasury Department's sanctions list, which restricts legal and financial services involving U.S. persons or interests. The decision is framed by the administration as an effort to defend U.S. sovereignty against the Hague-based tribunal.</p><hr/><small>9 Oct 2026, 16:27 UTC | #23799</small>]]></content>
+  </entry>
+  <entry>
+    <title>Big-arrow-on-the-screen Tool Enables AI Agents to Point at macOS UI Elements</title>
+    <link href="https://github.com/franzenzenhofer/big-arrow-on-the-screen" rel="alternate" />
+    <id>https://github.com/franzenzenhofer/big-arrow-on-the-screen::v239</id>
+    <published>2026-10-09T13:19:00+00:00</published>
+    <updated>2026-10-09T13:19:00+00:00</updated>
+    <media:thumbnail url="https://www.shutterstock.com/shutterstock/photos/1773422057/display_1500/stock-vector-black-large-forward-or-right-pointing-solid-long-arrow-icon-sketched-as-vector-symbol-1773422057.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/franzenzenhofer/big-arrow-on-the-screen">github.com</a> | <a href="https://news.ycombinator.com/item?id=50018817">hacker news</a></small></p><hr/><p>bigarrow is a macOS command-line tool that allows AI agents to draw arrows, boxes, and text on top of windows to guide human users. The tool is click-through, allowing mouse clicks to pass to the underlying application, and it requires no special macOS permissions to function.</p><p>It is intended for scenarios where an agent reaches a step requiring manual human intervention, such as clicking "Allow" on permission dialogs or solving CAPTCHAs. The tool supports various visual styles, including spiral and zigzag shapes, and can target specific elements by name, coordinate, or window title.</p><p><img src="https://www.shutterstock.com/shutterstock/photos/1773422057/display_1500/stock-vector-black-large-forward-or-right-pointing-solid-long-arrow-icon-sketched-as-vector-symbol-1773422057.jpg" /></p><hr/><small>9 Oct 2026, 16:23 UTC | #23800</small>]]></content>
+  </entry>
   <entry>
     <title>Keyboard Differences Between Windows and macOS</title>
     <link href="https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/" rel="alternate" />
