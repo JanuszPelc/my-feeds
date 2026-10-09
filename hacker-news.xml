@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-09T13:08:00+00:00</updated>
+  <updated>2026-10-09T13:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Keyboard Differences Between Windows and macOS</title>
+    <link href="https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/" rel="alternate" />
+    <id>https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/::v239</id>
+    <published>2026-10-09T13:11:00+00:00</published>
+    <updated>2026-10-09T13:11:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/">unsung.aresluna.org</a> | <a href="https://news.ycombinator.com/item?id=50015515">hacker news</a></small></p><hr/><p>Operating system keyboard handling varies across nomenclature, modifier keys, and shortcut conventions. Discrepancies include the distinction between 'Backspace' and 'Delete,' the functional roles of 'Control' versus 'Command,' and the preference for symbols over text on keycaps.</p><p>Special character entry differs through macOS's Option-based system and Windows's Alt-code sequences. Additionally, navigation keys like Home, End, Page Up, and Page Down behave differently regarding cursor movement and view scrolling between the two platforms.</p><hr/><small>9 Oct 2026, 15:04 UTC | #23790</small>]]></content>
+  </entry>
   <entry>
     <title>Fleeting Provides Synthetic Meeting Audio to Simulate Busy Workspaces</title>
     <link href="https://iminafleeting.com/" rel="alternate" />
