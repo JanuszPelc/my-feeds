@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-09T16:41:00+00:00</updated>
+  <updated>2026-10-09T21:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>AI's Impact on Intellectual Communities and Human Motivation</title>
+    <link href="https://borretti.me/article/no-man-is-an-island" rel="alternate" />
+    <id>https://borretti.me/article/no-man-is-an-island::v239</id>
+    <published>2026-10-09T21:10:00+00:00</published>
+    <updated>2026-10-09T21:10:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://borretti.me/article/no-man-is-an-island">borretti.me</a> | <a href="https://news.ycombinator.com/item?id=50025935">hacker news</a></small></p><hr/><p>AI is undermining the social and collaborative structures essential for sustained intellectual activity by making human contributions—such as code, mathematical proofs, and educational content—feel redundant. This shift threatens the shared body of work and the extrinsic motivation provided by peer recognition and communal engagement, both of which are necessary to support long-term intellectual pursuits.</p><p>In fields like software engineering and mathematics, the rise of agentic AI tools correlates with shallower technical discourse and reduced human capital formation. While AI may facilitate isolated individual creation, the loss of a collective human project threatens to diminish the overall scale and depth of human intellectual achievement.</p><hr/><small>9 Oct 2026, 22:59 UTC | #23834</small>]]></content>
+  </entry>
   <entry>
     <title>The Psychological Implications of Anthropomorphizing AI</title>
     <link href="https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/" rel="alternate" />
