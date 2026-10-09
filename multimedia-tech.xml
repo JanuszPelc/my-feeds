@@ -157,22 +157,4 @@
     <media:thumbnail url="https://cdn2.unrealengine.com/unreal-engine-education-python-6030-1920x1080-637f35c70d1c.jpg?resize=1&amp;w=1920" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://play.runescape.com/4">play.runescape.com</a> | <a href="https://news.ycombinator.com/item?id=49949588">hacker news</a></small></p><hr/><p>Jagex has announced a new RuneScape MMORPG, currently known by the working title "RS4." Developed in Unreal Engine, the project is intended as an independent experience that will exist alongside existing RuneScape and Dragonwilds titles rather than replacing them.</p><p>The game is set in Gielinor during the Sixth Age and will begin in the Ashenfall region. While the project is in early development and several years from release, Jagex intends to utilize a community-driven development model to shape the game.</p><p><img src="https://cdn2.unrealengine.com/unreal-engine-education-python-6030-1920x1080-637f35c70d1c.jpg?resize=1&w=1920" /></p><hr/><small>5 Oct 2026, 02:06 UTC | #23255</small>]]></content>
   </entry>
-  <entry>
-    <title>ldraw-nova Uses AI Agents to Generate LEGO Models</title>
-    <link href="https://github.com/anteloc/ldraw-nova" rel="alternate" />
-    <id>https://github.com/anteloc/ldraw-nova::v239</id>
-    <published>2026-10-04T15:53:00+00:00</published>
-    <updated>2026-10-04T15:53:00+00:00</updated>
-    <media:thumbnail url="https://github.com/anteloc/ldraw-nova/raw/master/img/ldraw-nova-yt-thumb.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/anteloc/ldraw-nova">github.com</a> | <a href="https://news.ycombinator.com/item?id=49937916">hacker news</a></small></p><hr/><p>AI agents in ldraw-nova generate buildable LEGO models in the LDraw assembly language by producing Python-based generator scripts. This approach circumvents the spatial reasoning limitations typical of LLMs, resulting in LDraw source code, 3D/VR-ready views, and Blender-compatible .glb files.</p><p>Optimized for high-end models like Claude Opus 5.5 and Astra, the tool includes features for collision detection, headless rendering, and semantic part searching via jev-rerank. It supports immersive VR viewing on Meta Quest 3 and is deployed using Docker.</p><p><img src="https://github.com/anteloc/ldraw-nova/raw/master/img/ldraw-nova-yt-thumb.jpg" /></p><hr/><small>4 Oct 2026, 20:59 UTC | #23240</small>]]></content>
-  </entry>
-  <entry>
-    <title>Cities: Skylines 2 Lacks Visual Realism and Urban Detail</title>
-    <link href="https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2" rel="alternate" />
-    <id>https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2::v239</id>
-    <published>2026-10-04T15:51:00+00:00</published>
-    <updated>2026-10-04T15:51:00+00:00</updated>
-    <media:thumbnail url="https://www.radical-elements.com/storage/templates/large/files/cities-1-6ac0d6fcae5f6.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2">radical-elements.com</a> | <a href="https://news.ycombinator.com/item?id=49945323">hacker news</a></small></p><hr/><p>The article argues that Cities: Skylines 2 suffers from a lack of visual "soul" caused by sterile, overly clean environments and rigid, geometric terrain transitions. The author contends that the absence of urban grit—such as stairs, trash, or weathered textures—prevents the simulation from achieving the organic complexity and atmosphere found in real-world cities.</p><p>The critique suggests that these aesthetic shortcomings force players to rely on statistical menus to identify urban conditions rather than reading the character of the landscape through direct observation. The author argues that incorporating more varied, "lived-in" details would enhance environmental storytelling and player immersion.</p><p><img src="https://www.radical-elements.com/storage/templates/large/files/cities-1-6ac0d6fcae5f6.jpg" /></p><hr/><small>4 Oct 2026, 20:42 UTC | #23238</small>]]></content>
-  </entry>
 </feed>
