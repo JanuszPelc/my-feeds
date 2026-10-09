@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-09T15:37:00+00:00</updated>
+  <updated>2026-10-09T15:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Floodo's Audio Labs Releases Cascade Saturation Plugin</title>
+    <link href="https://www.kvraudio.com/news/floodos-audio-labs-releases-cascade---dual-stage-volterra-saturation-plugin-vst3-windows-68882?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68882" rel="alternate" />
+    <id>https://www.kvraudio.com/news/floodos-audio-labs-releases-cascade---dual-stage-volterra-saturation-plugin-vst3-windows-68882?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68882::v239</id>
+    <published>2026-10-09T15:40:00+00:00</published>
+    <updated>2026-10-09T15:40:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/cascade-original1.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/floodos-audio-labs-releases-cascade---dual-stage-volterra-saturation-plugin-vst3-windows-68882?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68882">kvraudio.com</a> | <a href="https://floodo.com.ar/#/plugin/plg_cascade">source</a></small></p><hr/><p>Cascade is a dual-stage Volterra Series saturation plugin for Windows (VST3) released by Floodo's Audio Labs. The software uses custom C++ DSP algorithms to model non-linear harmonic depth and saturation for digital audio productions.</p><p>The release includes 150 presets by Velltone and supports linear-phase parallel processing. It is currently available for Windows 10/11 at an introductory price of $39, with a macOS version in development.</p><p><img src="https://static.kvraudio.com/i/b/cascade-original1.png" /></p><hr/><small>9 Oct 2026, 19:47 UTC | #23789</small>]]></content>
+  </entry>
   <entry>
     <title>Imaginando Releases Colapso Atomic Synthesizer</title>
     <link href="https://musictech.com/news/gear/colapso-is-a-synth-that-plays-the-periodic-table-somehow/" rel="alternate" />

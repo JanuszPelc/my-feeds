@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-09T15:35:00+00:00</updated>
+  <updated>2026-10-09T15:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Pi Terminal Assistant Introduces Adaptive System Theme</title>
+    <link href="https://earendil.com/posts/system-theme/" rel="alternate" />
+    <id>https://earendil.com/posts/system-theme/::v239</id>
+    <published>2026-10-09T15:41:00+00:00</published>
+    <updated>2026-10-09T15:41:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://earendil.com/posts/system-theme/">earendil.com</a> | <a href="https://lobste.rs/s/3zcaxw/there_are_many_themes_this_one_is_yours">discussion</a></small></p><hr/><p>Pi's new default system theme dynamically adapts to a user's terminal environment by querying the terminal's foreground, background, and 16 ANSI colors. This approach reconstructs the application's UI to ensure visual consistency with the user's chosen color scheme.</p><p>To maintain accessibility, the implementation utilizes a reversed contrast algorithm and perceptual color spaces like OKLCH and OKHSL. This allows the system to calculate the necessary lightness levels for UI elements while preserving the original hues and chroma from the terminal's palette.</p><hr/><small>9 Oct 2026, 19:50 UTC | #23820</small>]]></content>
+  </entry>
   <entry>
     <title>ARTEX AI Agent Goes Closed-Source Following South Korean Bank Hack</title>
     <link href="https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/" rel="alternate" />
@@ -981,41 +989,5 @@
     <published>2026-10-04T20:11:00+00:00</published>
     <updated>2026-10-04T20:11:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vincent.bernat.ch/en/blog/2026-http-over-ssh">vincent.bernat.ch</a> | <a href="https://lobste.rs/s/jba52r/self_hosted_http_tunnels_with_ssh_nginx">discussion</a> | <a href="https://news.ycombinator.com/item?id=49958569">hacker news</a></small></p><hr/><p>Developers can implement self-hosted HTTP tunnels as an alternative to commercial services like ngrok by using OpenSSH and Nginx. The setup involves SSH remote port forwarding to a server, where Nginx acts as a reverse proxy utilizing a wildcard domain and Let's Encrypt SSL certificates.</p><p>To protect against unauthorized access via port enumeration, the implementation leverages the Nginx `ngx_http_secure_link_module` to create time-limited, HMAC-signed URLs. A companion script is provided to automate the detection of ephemeral SSH ports and the generation of these authenticated URLs.</p><hr/><small>5 Oct 2026, 01:40 UTC | #23254</small>]]></content>
-  </entry>
-  <entry>
-    <title>rcalixte/ncdu GitHub Repository Features Zig Implementation of ncdu</title>
-    <link href="https://github.com/rcalixte/ncdu" rel="alternate" />
-    <id>https://github.com/rcalixte/ncdu::v239</id>
-    <published>2026-10-04T19:52:00+00:00</published>
-    <updated>2026-10-04T19:52:00+00:00</updated>
-    <media:thumbnail url="https://peterries.net/img/ncdu-example.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/rcalixte/ncdu">github.com</a> | <a href="https://lobste.rs/s/dsoh2w/ncdu_ncurses_disk_usage_updated_fork">discussion</a> | <a href="https://news.ycombinator.com/item?id=49957028">hacker news</a></small></p><hr/><p>rcalixte/ncdu is a fork of the ncdu disk usage analyzer that provides an implementation in the Zig programming language. It utilizes an ncurses-based text interface to help users identify large files and directories on remote servers or desktop systems.</p><p>The tool requires Zig 0.17, a POSIX-like operating system, ncurses, and libzstd. It is designed for performance and can be installed using a Makefile or the Zig build system.</p><p><img src="https://peterries.net/img/ncdu-example.jpg" /></p><hr/><small>4 Oct 2026, 22:56 UTC | #23250</small>]]></content>
-  </entry>
-  <entry>
-    <title>Iroh Implements Global Content Discovery via BitTorrent Mainline DHT</title>
-    <link href="https://www.iroh.computer/blog/iroh-global-content-discovery" rel="alternate" />
-    <id>https://www.iroh.computer/blog/iroh-global-content-discovery::v239</id>
-    <published>2026-10-04T19:51:00+00:00</published>
-    <updated>2026-10-04T19:51:00+00:00</updated>
-    <media:thumbnail url="https://idwebhost.com/blog/wp-content/uploads/2026/01/44_sistem_storage_ipfs.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.iroh.computer/blog/iroh-global-content-discovery">iroh.computer</a> | <a href="https://lobste.rs/s/eoibah/iroh_global_content_discovery">discussion</a></small></p><hr/><p>Iroh is developing a global content discovery mechanism based on the BitTorrent Mainline DHT. To map cryptographic identities (EndpointId) to routable UDP host:port pairs, the implementation utilizes an experimental "address index service" that stores signed metadata for verified endpoints.</p><p>The system enables permissionless publishing for content-addressed links using a blake3.net namespace. It includes a browser extension for Chrome, Brave, and Firefox to facilitate link resolution and employs BLAKE3 verified streaming to maintain data integrity during peer-to-peer transfers.</p><p><img src="https://idwebhost.com/blog/wp-content/uploads/2026/01/44_sistem_storage_ipfs.webp" /></p><hr/><small>4 Oct 2026, 22:54 UTC | #23249</small>]]></content>
-  </entry>
-  <entry>
-    <title>John Ternus to Lead Apple Design as MacBook Pro Gets OLED Touch-Screen</title>
-    <link href="https://www.bloomberg.com/news/newsletters/2026-10-04/apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTEyNDAyOSwiZXhwIjoxNzkxNzI4ODI5LCJhcnRpY2xlSWQiOiJUTURZVzFWVFRDWkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.IMplehb6VmR_olZW0pY5ppJms0Vi5W1Zfu04Y36cvSI" rel="alternate" />
-    <id>https://www.bloomberg.com/news/newsletters/2026-10-04/apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTEyNDAyOSwiZXhwIjoxNzkxNzI4ODI5LCJhcnRpY2xlSWQiOiJUTURZVzFWVFRDWkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.IMplehb6VmR_olZW0pY5ppJms0Vi5W1Zfu04Y36cvSI::v239</id>
-    <published>2026-10-04T19:49:00+00:00</published>
-    <updated>2026-10-04T19:49:00+00:00</updated>
-    <media:thumbnail url="https://assets.techrepublic.com/uploads/2026/02/unnamed-14.jpg?w=512" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/newsletters/2026-10-04/apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTEyNDAyOSwiZXhwIjoxNzkxNzI4ODI5LCJhcnRpY2xlSWQiOiJUTURZVzFWVFRDWkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.IMplehb6VmR_olZW0pY5ppJms0Vi5W1Zfu04Y36cvSI">bloomberg.com</a></small></p><hr/><p>Apple's John Ternus is increasingly overseeing the company's hardware and software design work, effectively assuming a larger leadership role within the design studio. The upcoming redesigned MacBook Pro lineup is expected to feature OLED touch-screen technology and a significantly lighter chassis.</p><p>The weight reduction will reportedly be achieved by reengineering the laptop's interior, which involves miniaturizing internal components and rearranging parts. This overhaul represents a major shift in the MacBook Pro's physical architecture and display technology.</p><p><img src="https://assets.techrepublic.com/uploads/2026/02/unnamed-14.jpg?w=512" /></p><hr/><small>4 Oct 2026, 22:37 UTC | #23223</small>]]></content>
-  </entry>
-  <entry>
-    <title>RemoveMacAI Disables Apple Intelligence and Reclaims Storage on macOS 27</title>
-    <link href="https://github.com/omlahore/RemoveMacAI" rel="alternate" />
-    <id>https://github.com/omlahore/RemoveMacAI::v239</id>
-    <published>2026-10-04T19:43:00+00:00</published>
-    <updated>2026-10-04T19:43:00+00:00</updated>
-    <media:thumbnail url="https://github.com/omlahore/RemoveMacAI/raw/main/docs/hero.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/omlahore/RemoveMacAI">github.com</a> | <a href="https://news.ycombinator.com/item?id=49957116">hacker news</a></small></p><hr/><p>This utility disables Apple Intelligence features and removes their associated machine learning models on macOS 27 to reclaim disk space. By using a configuration profile to redirect model download requests to a local port, the tool prevents the operating system from automatically re-downloading files that can consume between 14GB and 30GB of storage.</p><p>The software is compatible with Apple silicon and operates by applying Apple's own restriction keys rather than modifying protected system files, ensuring System Integrity Protection remains active. All changes made by the script, including the disabling of Siri, Writing Tools, and Genmoji, are fully reversible through a built-in revert command.</p><p><img src="https://github.com/omlahore/RemoveMacAI/raw/main/docs/hero.png" /></p><hr/><small>4 Oct 2026, 21:57 UTC | #23245</small>]]></content>
   </entry>
 </feed>
