@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-09T06:08:00+00:00</updated>
+  <updated>2026-10-09T06:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>RwLock vs Lock-free Performance in Read-Heavy Workloads</title>
+    <link href="https://pranitha.dev/posts/rwlock-vs-lockfree/" rel="alternate" />
+    <id>https://pranitha.dev/posts/rwlock-vs-lockfree/::v239</id>
+    <published>2026-10-09T06:51:00+00:00</published>
+    <updated>2026-10-09T06:51:00+00:00</updated>
+    <media:thumbnail url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3khllpkixcyhvghg7nc.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://pranitha.dev/posts/rwlock-vs-lockfree/">pranitha.dev</a> | <a href="https://lobste.rs/s/pioj21/performance_cost_rwlock_our_read_heavy">discussion</a></small></p><hr/><p>Benchmarks show that lock-free data structures provide significantly higher read throughput and lower latency than RwLock in read-heavy Rust workloads. The performance gap is driven by the atomic overhead required by RwLock to track active readers, which necessitates thousands of atomic increment and decrement operations during a single traversal of a large data block.</p><p>Implementing lock-free access via crossbeam-epoch allows a reader to pin a thread to an epoch once, reducing per-item operations to simple atomic pointer loads. While structural changes to the collection still benefit from standard locking, per-element updates are more efficient using epoch-based reclamation.</p><p><img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3khllpkixcyhvghg7nc.png" /></p><hr/><small>9 Oct 2026, 12:14 UTC | #23775</small>]]></content>
+  </entry>
   <entry>
     <title>PSP Web Recomp Enables Browser-Based PSP Gameplay via WebAssembly</title>
     <link href="https://github.com/snuri00/psp-web-recomp" rel="alternate" />
