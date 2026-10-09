@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-09T01:14:00+00:00</updated>
+  <updated>2026-10-09T04:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Launches Presidential Engagement Program Ahead of 2028 Elections</title>
+    <link href="https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections/" rel="alternate" />
+    <id>https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections/::v239</id>
+    <published>2026-10-09T04:06:00+00:00</published>
+    <updated>2026-10-09T04:06:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections/">fortune.com</a> | <a href="https://job-boards.greenhouse.io/anthropic/jobs/5440122008">source</a></small></p><hr/><p>Anthropic is establishing a “presidential engagement” program to advise U.S. presidential candidates from both parties on AI policy in preparation for the 2028 elections. The initiative involves hiring a Political Programs lead to educate candidates on AI technology, manage the company's political funding, and oversee its employee-funded political action committee, AnthroPAC.</p><p>The strategic move underscores the increasing influence of government policy on the AI industry as companies seek to shape regulation and navigate national security designations. Unlike competitors who rely more on individual leadership donations, Anthropic's approach includes a formalized, bipartisan program designed to engage with the political landscape during upcoming election cycles.</p><hr/><small>9 Oct 2026, 11:35 UTC | #23750</small>]]></content>
+  </entry>
   <entry>
     <title>Flock Safety to Lay Off Approximately 18% of Workforce</title>
     <link href="https://www.reuters.com/business/ai-surveillance-startup-flock-safety-cut-several-hundred-jobs-amid-backlash-2026-10-09/" rel="alternate" />

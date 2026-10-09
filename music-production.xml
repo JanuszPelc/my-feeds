@@ -3,9 +3,72 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-09T01:10:00+00:00</updated>
+  <updated>2026-10-09T06:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Intrect Updates de-artifact with AAX Support for Pro Tools</title>
+    <link href="https://www.kvraudio.com/news/intrect-updates-de-artifact-to-v0-4-4-with-aax-support-for-pro-tools-68923?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68923" rel="alternate" />
+    <id>https://www.kvraudio.com/news/intrect-updates-de-artifact-to-v0-4-4-with-aax-support-for-pro-tools-68923?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68923::v239</id>
+    <published>2026-10-09T06:06:00+00:00</published>
+    <updated>2026-10-09T06:06:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/de-artifact-gui.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/intrect-updates-de-artifact-to-v0-4-4-with-aax-support-for-pro-tools-68923?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68923">kvraudio.com</a> | <a href="https://intrect.io/products/de-artifact/">source</a></small></p><hr/><p>Intrect has released version 0.4.4 of de-artifact, an audio restoration plugin designed to mitigate artifacts in AI-generated music, lossy-codec audio, and separated stems. This update adds AAX support, allowing users to utilize the plugin within Pro Tools.</p><p>The update is free for existing customers and preserves compatibility with VST3, Audio Unit, and CLAP formats. A 14-day trial is available, and a promotional release price remains active through December 31, 2026.</p><p><img src="https://static.kvraudio.com/i/b/de-artifact-gui.png" /></p><hr/><small>9 Oct 2026, 11:37 UTC | #23753</small>]]></content>
+  </entry>
+  <entry>
+    <title>Optimysoft Releases Multiman V Paraphonic Synthesizer</title>
+    <link href="https://www.kvraudio.com/news/optimysoft-releases-multiman-v---paraphonic-synthesizer-for-windows-vst3-68509?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68509" rel="alternate" />
+    <id>https://www.kvraudio.com/news/optimysoft-releases-multiman-v---paraphonic-synthesizer-for-windows-vst3-68509?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68509::v239</id>
+    <published>2026-10-09T02:12:00+00:00</published>
+    <updated>2026-10-09T02:12:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/multiman-v-effect-v2.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/optimysoft-releases-multiman-v---paraphonic-synthesizer-for-windows-vst3-68509?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68509">kvraudio.com</a> | <a href="https://optimysoft.com/en/multiman-v-en/">source</a></small></p><hr/><p>Optimysoft has released Multiman V, a paraphonic VST3 synthesizer plugin for Windows inspired by the 1970s Crumar Multiman-S. The instrument is built using a pure synthesis engine without the use of samples, featuring a single free-running oscillator and 64-bit internal calculations.</p><p>The plugin includes an effects chain with five pedals—phaser, flanger, chorus, formant resonator, and tape delay—which can be applied globally or assigned to specific buses. It also features tempo-synchronized vibrato and tape delay, a resizable interface with zoom functionality, and MIDI Learn capabilities for CC, RPN, and NRPN messages.</p><p><img src="https://static.kvraudio.com/i/b/multiman-v-effect-v2.jpg" /></p><hr/><small>9 Oct 2026, 11:34 UTC | #23771</small>]]></content>
+  </entry>
+  <entry>
+    <title>TouchMachines Updates Gravity Plugin with Custom Plane Shapes</title>
+    <link href="https://www.kvraudio.com/news/touchmachines-updates-gravity-to-v1-1-37---draw-your-own-plane-shapes-for-the-physics-based-instrument-vst3-au-standalone-68981?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68981" rel="alternate" />
+    <id>https://www.kvraudio.com/news/touchmachines-updates-gravity-to-v1-1-37---draw-your-own-plane-shapes-for-the-physics-based-instrument-vst3-au-standalone-68981?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68981::v239</id>
+    <published>2026-10-09T02:11:00+00:00</published>
+    <updated>2026-10-09T02:11:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/gravity-ui-instrument.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/touchmachines-updates-gravity-to-v1-1-37---draw-your-own-plane-shapes-for-the-physics-based-instrument-vst3-au-standalone-68981?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68981">kvraudio.com</a> | <a href="https://www.touchmachines.com/instruments.html">source</a></small></p><hr/><p>TouchMachines has released version 1.1.37 of its physics-based generative instrument, Gravity, for Windows and macOS. This update allows users to draw custom closed loops on the plane to function as boundaries, where the starting point defines the lowest note and pitch increases in the direction of the drawing.</p><p>Other improvements include a new MIDI CC picker, a relocated tuning selector, and a UI that scales uniformly with window size. The update also reduces CPU consumption when the plugin window is hidden. Gravity is available as a VST3, AU, or standalone application.</p><p><img src="https://static.kvraudio.com/i/b/gravity-ui-instrument.png" /></p><hr/><small>9 Oct 2026, 11:32 UTC | #23770</small>]]></content>
+  </entry>
+  <entry>
+    <title>Drumlabooh Updated to Version 13.0 for Windows and Linux</title>
+    <link href="https://www.kvraudio.com/news/peter-semiletov-updates-drumlabooh-to-v13-0-for-windows-and-linux-68999?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68999" rel="alternate" />
+    <id>https://www.kvraudio.com/news/peter-semiletov-updates-drumlabooh-to-v13-0-for-windows-and-linux-68999?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68999::v239</id>
+    <published>2026-10-09T02:10:00+00:00</published>
+    <updated>2026-10-09T02:10:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/drumlabooh13.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/peter-semiletov-updates-drumlabooh-to-v13-0-for-windows-and-linux-68999?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68999">kvraudio.com</a> | <a href="https://psemiletov.github.io/drumlabooh/">source</a></small></p><hr/><p>Peter Semiletov has released version 13.0 of Drumlabooh, a free and open-source drum machine plugin for Windows and Linux in VST3 and LV2 formats. This update introduces the "Diskach" drumkit, which contains 128 sample variations across seven instrument categories, and adds support for directory-based sample loading via the Drumlabooh kit specification version 1.1.</p><p>The release includes enhanced SFZ handling to prevent DAW crashes by scanning for unsupported opcodes and a compatibility guard to block the Audiophob Hydrogen kit. Other improvements include streamlined sample processing for stereo files, trimmed silence in native drumkits, and the addition of manual fades to prevent audio clicks.</p><p><img src="https://static.kvraudio.com/i/b/drumlabooh13.png" /></p><hr/><small>9 Oct 2026, 11:29 UTC | #23765</small>]]></content>
+  </entry>
+  <entry>
+    <title>Floof Audio Releases Meow Seq v1.2.10 Update</title>
+    <link href="https://www.kvraudio.com/news/floof-audio-updates-meow-seq-to-v1-2-68995?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68995" rel="alternate" />
+    <id>https://www.kvraudio.com/news/floof-audio-updates-meow-seq-to-v1-2-68995?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68995::v239</id>
+    <published>2026-10-09T02:09:00+00:00</published>
+    <updated>2026-10-09T02:09:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/meow_pro_hires_0-5.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/floof-audio-updates-meow-seq-to-v1-2-68995?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68995">kvraudio.com</a> | <a href="https://www.floofaudio.com/meow-seq">source</a></small></p><hr/><p>Floof Audio has released version 1.2.10 of Meow Seq, a modular-inspired MIDI sequencer for macOS and Windows. The plugin allows users to shape patterns in real time using two integrated machines that control timing and pitch.</p><p>This update introduces support for triplet and dotted notes, new visual themes, and improved automation. It also adds undo/redo functionality and new step selection options to the existing workflow.</p><p><img src="https://static.kvraudio.com/i/b/meow_pro_hires_0-5.png" /></p><hr/><small>9 Oct 2026, 11:24 UTC | #23769</small>]]></content>
+  </entry>
+  <entry>
+    <title>Dr. Zoppa Updates AMI-Polymarkov to Version 1.6</title>
+    <link href="https://www.kvraudio.com/news/dr-zoppa-updates-ami-polymarkov-to-v1-6-with-loop-mode-and-meter-lock-68996?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68996" rel="alternate" />
+    <id>https://www.kvraudio.com/news/dr-zoppa-updates-ami-polymarkov-to-v1-6-with-loop-mode-and-meter-lock-68996?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68996::v239</id>
+    <published>2026-10-09T02:08:00+00:00</published>
+    <updated>2026-10-09T02:08:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/kvr-ami-polymarkov.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dr-zoppa-updates-ami-polymarkov-to-v1-6-with-loop-mode-and-meter-lock-68996?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68996">kvraudio.com</a> | <a href="https://www.drzoppa.com/polymarkov">source</a></small></p><hr/><p>Version 1.6 of the AMI-Polymarkov generative MIDI plugin features Loop Mode and Meter Lock. Loop Mode enables voices to repeat the initial bars of a sequence while periodically substituting beats with material from elsewhere in the MIDI file. Meter Lock ensures the Markov chains adhere to the rhythm and downbeat or offbeat positions of the source.</p><p>Loop Mode settings allow users to adjust loop length, the probability of returning to original material, and whether replacements target pitch or rhythm. Meter Lock is enabled by default and follows the host or MIDI file time signature. The plugin is priced at $29, with a promotional bundle for the three AMI-CMMAS plugins available for $69 through October 30, 2026.</p><p><img src="https://static.kvraudio.com/i/b/kvr-ami-polymarkov.png" /></p><hr/><small>9 Oct 2026, 11:20 UTC | #23768</small>]]></content>
+  </entry>
+  <entry>
+    <title>Kalu Audio Releases Free Triodia Vocal Processor Plugin</title>
+    <link href="https://www.kvraudio.com/news/kalu-audio-releases-triodia---free-valve-vocal-processor-plugin-for-windows-vst3-68998?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68998" rel="alternate" />
+    <id>https://www.kvraudio.com/news/kalu-audio-releases-triodia---free-valve-vocal-processor-plugin-for-windows-vst3-68998?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68998::v239</id>
+    <published>2026-10-09T02:06:00+00:00</published>
+    <updated>2026-10-09T02:06:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/triodia-black.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/kalu-audio-releases-triodia---free-valve-vocal-processor-plugin-for-windows-vst3-68998?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68998">kvraudio.com</a> | <a href="https://kaluaudio.com.br/triodia/">source</a></small></p><hr/><p>Kalu Audio has released Triodia, a free vocal processor plugin for Windows available in VST3 and standalone formats. The software integrates a complete vocal chain into a single plugin, including a de-esser, tube compressor, echo, and plate reverb.</p><p>The compressor utilizes physical modeling based on Norman Koren's tube equations to simulate vacuum tube characteristics, such as the Miller effect and output transformer saturation. The plugin features nine different tube models and an animated interface that reacts to audio levels.</p><p><img src="https://static.kvraudio.com/i/b/triodia-black.jpg" /></p><hr/><small>9 Oct 2026, 11:13 UTC | #23766</small>]]></content>
+  </entry>
   <entry>
     <title>Liljeholmen DSP Releases Trumsynt-KIT Analog Modelling Drum Machine</title>
     <link href="https://www.kvraudio.com/news/liljeholmen-dsp-releases-trumsynt-kit-analog-modelling-drum-machine-vst3-and-au-68997?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68997" rel="alternate" />
