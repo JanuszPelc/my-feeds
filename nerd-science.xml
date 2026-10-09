@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-09T06:53:00+00:00</updated>
+  <updated>2026-10-09T13:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Navi Pillay Awarded 2026 Nobel Peace Prize</title>
+    <link href="https://www.nobelprize.org/prizes/peace/2026/press-release/" rel="alternate" />
+    <id>https://www.nobelprize.org/prizes/peace/2026/press-release/::v239</id>
+    <published>2026-10-09T13:16:00+00:00</published>
+    <updated>2026-10-09T13:16:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.nobelprize.org/prizes/peace/2026/press-release/">nobelprize.org</a> | <a href="https://news.ycombinator.com/item?id=50018420">hacker news</a></small></p><hr/><p>The Norwegian Nobel Committee has awarded the 2026 Nobel Peace Prize to Navanethem "Navi" Pillay for her work in promoting peace and international law. Pillay is recognized for her efforts to ensure the prosecution of war crimes, crimes against humanity, and genocide through international legal frameworks.</p><p>Her career includes service as a judge on the International Criminal Court, the International Criminal Tribunal for Rwanda, and the High Court of South Africa, as well as serving as the United Nations High Commissioner for Human Rights. Pillay has also been instrumental in establishing legal precedents that define sexual violence and incitement as international crimes.</p><hr/><small>9 Oct 2026, 15:48 UTC | #23795</small>]]></content>
+  </entry>
   <entry>
     <title>Victorian Elites and the Role of Soft Skills in Their Success</title>
     <link href="https://worksinprogress.co/issue/the-seven-vices-of-highly-effective-victorians/" rel="alternate" />

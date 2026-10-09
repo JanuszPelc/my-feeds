@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-09T06:54:00+00:00</updated>
+  <updated>2026-10-09T13:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Worldwide PC Shipments Decline 20.1% in Q3 2026</title>
+    <link href="https://www.idc.com/resource-center/press-releases/idc-pc-tracker-3q26/" rel="alternate" />
+    <id>https://www.idc.com/resource-center/press-releases/idc-pc-tracker-3q26/::v239</id>
+    <published>2026-10-09T13:14:00+00:00</published>
+    <updated>2026-10-09T13:14:00+00:00</updated>
+    <media:thumbnail url="https://www.idc.com/wp-content/uploads/2026/10/image_63283a.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.idc.com/resource-center/press-releases/idc-pc-tracker-3q26/">idc.com</a></small></p><hr/><p>Total volume fell to 62.7 million units, marking the second consecutive quarterly decline. The downturn was driven by supply constraints and an inventory "pull-in" from earlier in the year, which left the market with diminished demand despite the typical seasonal lift expected in the third quarter.</p><p>Major vendors including Lenovo, HP Inc, and Dell Technologies saw declines that exceeded the market average. While high inventory levels may trigger short-term consumer promotions, analysts expect prices to remain elevated, and worsening macroeconomic conditions could further suppress demand through 2027.</p><p><img src="https://www.idc.com/wp-content/uploads/2026/10/image_63283a.png" /></p><hr/><small>9 Oct 2026, 15:42 UTC | #23755</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Cuts iPhone 18 Pro Component Orders Due to Soft Demand</title>
     <link href="https://asia.nikkei.com/business/technology/exclusive-apple-cuts-iphone-18-pro-orders-due-to-soft-demand" rel="alternate" />
@@ -783,14 +792,5 @@
     <updated>2026-10-04T15:56:00+00:00</updated>
     <media:thumbnail url="https://images.wsj.net/im-75862959/social" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/10/04/jay-clayton-ai-trump-01106137">politico.com</a> | <a href="https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/">source</a> | <a href="https://news.ycombinator.com/item?id=49901658">hacker news</a></small></p><hr/><p>President Donald Trump has established a "Super Intelligence Force" to coordinate federal engagement with super intelligence technologies. The task force will be led by Director of National Intelligence Jay Clayton, with Andrew Ferguson of the FTC, Emil Michael of the DOD, and Scott Kupor of the OPM serving as members.</p><p>The initiative follows an executive order rebranding "Artificial Intelligence" as "Super Intelligence" in official government communications. The force will evaluate technological risks and opportunities and determine federal regulatory responsibilities during a 120-day assessment period.</p><p><img src="https://images.wsj.net/im-75862959/social" /></p><hr/><small>4 Oct 2026, 21:28 UTC | #23218</small>]]></content>
-  </entry>
-  <entry>
-    <title>SaaS Business Models Evolving into Model Harnesses</title>
-    <link href="https://blog.sshh.io/p/the-harness-is-the-company" rel="alternate" />
-    <id>https://blog.sshh.io/p/the-harness-is-the-company::v239</id>
-    <published>2026-10-04T15:46:00+00:00</published>
-    <updated>2026-10-04T15:46:00+00:00</updated>
-    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!DMig!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8cf3fdf-c311-47d0-b42d-f75864c4dd68_1620x897.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.sshh.io/p/the-harness-is-the-company">blog.sshh.io</a> | <a href="https://news.ycombinator.com/item?id=49938616">hacker news</a></small></p><hr/><p>SaaS businesses are transitioning into "harnesses"—the infrastructure, context, and interfaces that wrap around stateless large language models (LLMs). This shift transforms workflows from direct human execution to a model where humans orchestrate and review the outputs of proactive background agents, effectively turning the organization into a management layer for AI.</p><p>Competitive differentiation in this model relies on the quality of the "harness," specifically how a company integrates domain expertise, proprietary data, and human "taste-holders" into automated loops. This evolution is expected to reshape organizational structures, requiring companies to maintain control over high-level decision-making to prevent their services from being commoditized by fully automated third-party harnesses.</p><p><img src="https://substackcdn.com/image/fetch/$s_!DMig!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8cf3fdf-c311-47d0-b42d-f75864c4dd68_1620x897.png" /></p><hr/><small>4 Oct 2026, 20:11 UTC | #23235</small>]]></content>
   </entry>
 </feed>
