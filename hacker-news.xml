@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-09T06:51:00+00:00</updated>
+  <updated>2026-10-09T13:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Deno Team Joins Cloudflare</title>
+    <link href="https://deno.com/blog/cloudflare" rel="alternate" />
+    <id>https://deno.com/blog/cloudflare::v239</id>
+    <published>2026-10-09T13:04:00+00:00</published>
+    <updated>2026-10-09T13:04:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://deno.com/blog/cloudflare">deno.com</a> | <a href="https://news.ycombinator.com/item?id=50019911">hacker news</a></small></p><hr/><p>The integration of Deno into Cloudflare will merge the team's work with Cloudflare Workers and Durable Objects. The open-source Deno runtime will receive monthly security updates and bug fixes for one year before development is discontinued. Deno Deploy is scheduled to shut down in six months, while JSR will continue to operate on Cloudflare's infrastructure.</p><p>The move prioritizes the "celld" programming model, which aims to simplify distributed application development by embedding scaling into the programming model itself. This shift moves development away from maintaining a separate runtime and hosting service toward a unified platform designed to support serverless and AI-driven workloads.</p><hr/><small>9 Oct 2026, 14:27 UTC | #23786</small>]]></content>
+  </entry>
   <entry>
     <title>RwLock vs Lock-free Performance in Read-Heavy Workloads</title>
     <link href="https://pranitha.dev/posts/rwlock-vs-lockfree/" rel="alternate" />
