@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-08T23:22:00+00:00</updated>
+  <updated>2026-10-09T15:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Double Fine Unionization Drive Fails Due to Miscommunication and Culture Clash</title>
+    <link href="https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash::v239</id>
+    <published>2026-10-09T15:45:00+00:00</published>
+    <updated>2026-10-09T15:45:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltfcbac54645f4a5de/6ac90bb1ee650f5667401bee/ss_1fca58dd7904427261233413a1232320d6c3f005.1920x1080.jpg?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash">gamedeveloper.com</a> | <a href="https://kotaku.com/our-interview-with-tim-schafer-about-unionization-at-psychonauts-studio-double-fine-2000741988">source</a></small></p><hr/><p>Double Fine Productions' unionization attempt failed due to internal conflict and confusion over US labor laws. The studio's flat organizational structure made it difficult to determine employee eligibility, as many staff members had previously held management roles. These legal ambiguities and disagreements over work culture ultimately led organizers to withdraw their petition.</p><p>CEO Tim Schafer denied that the failed drive influenced staff layoffs in July 2026, asserting that the layoffs were based on business requirements. The event highlights the friction that can occur when labor organizing efforts encounter non-traditional studio hierarchies.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltfcbac54645f4a5de/6ac90bb1ee650f5667401bee/ss_1fca58dd7904427261233413a1232320d6c3f005.1920x1080.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>9 Oct 2026, 20:05 UTC | #23798</small>]]></content>
+  </entry>
   <entry>
     <title>Bevy 0.20 Released</title>
     <link href="https://bevy.org/news/bevy-0-20/" rel="alternate" />

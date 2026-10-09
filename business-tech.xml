@@ -3,9 +3,25 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-09T14:42:00+00:00</updated>
+  <updated>2026-10-09T15:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Orkut Focuses on Community and Connection for Social Media</title>
+    <link href="https://orkut.com/" rel="alternate" />
+    <id>https://orkut.com/::v239</id>
+    <published>2026-10-09T15:46:00+00:00</published>
+    <updated>2026-10-09T15:46:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://orkut.com/">orkut.com</a> | <a href="https://orkut.com/en/">source</a> | <a href="https://news.ycombinator.com/item?id=50006012">hacker news</a></small></p><hr/><p>Orkut is a social media platform focused on community building and genuine human connection. The service aims to facilitate a "more human internet" by helping users find people and specific social groups.</p><p>The platform's mission centers on prioritizing meaningful digital interaction over current social media industry standards.</p><hr/><small>9 Oct 2026, 20:13 UTC | #23822</small>]]></content>
+  </entry>
+  <entry>
+    <title>UK to Curb Non-Compete Clauses Following Tech Startup Outcry</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-09/burnham-says-uk-will-curb-non-compete-clauses-after-tech-ai-startup-outcry" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-09/burnham-says-uk-will-curb-non-compete-clauses-after-tech-ai-startup-outcry::v239</id>
+    <published>2026-10-09T15:44:00+00:00</published>
+    <updated>2026-10-09T15:44:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-09/burnham-says-uk-will-curb-non-compete-clauses-after-tech-ai-startup-outcry">bloomberg.com</a></small></p><hr/><p>The UK government intends to restrict non-compete clauses in employment contracts, which currently prevent workers from immediately transitioning to competitors or launching new ventures. The move follows criticism from the technology and AI startup sectors, which argue these restrictions stifle innovation and impede the movement of specialized talent.</p><p>Prime Minister Andy Burnham's administration is considering legislative options to ease these restrictions to bolster economic growth. Proposed measures range from a total ban on such clauses to a partial ban that would only apply to employees earning above a specific salary threshold.</p><hr/><small>9 Oct 2026, 20:04 UTC | #23781</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia Commits $1B to Support US Scientific Research</title>
     <link href="https://www.theregister.com/hpc/2026/10/08/nvidia-found-1b-under-the-couch-to-help-secure-american-scientific-computing-dominance/5302110" rel="alternate" />
@@ -776,30 +792,5 @@
     <published>2026-10-04T20:34:00+00:00</published>
     <updated>2026-10-04T20:34:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/10/04/apple-googlestates-app-stores-lawsuits-01105892">politico.com</a></small></p><hr/><p>Apple and Google are lobbying state lawmakers to adopt kids' online safety laws that incorporate self-attested age checks and prohibit private lawsuits related to age-verification compliance.</p><p>Meta is supporting legislative versions that shift the responsibility of age verification to app stores rather than individual social media platforms. These competing efforts highlight a divide between operating system providers and app developers over who should be held liable for verifying the age of users.</p><hr/><small>5 Oct 2026, 02:03 UTC | #23232</small>]]></content>
-  </entry>
-  <entry>
-    <title>Trump Rebrands AI as "Super Intelligence" and Hosts Leaders for Non-Binding Safety Accord</title>
-    <link href="https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/::v239</id>
-    <published>2026-10-04T20:09:00+00:00</published>
-    <updated>2026-10-04T20:09:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/">techcrunch.com</a> | <a href="https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/">source</a> | <a href="https://news.ycombinator.com/item?id=49901658">hacker news</a></small></p><hr/><p>Through an executive order, the U.S. government has officially transitioned its terminology from "artificial intelligence" to "super intelligence." This change accompanies the signing of the "Joint Commitment on Frontier Responsibilities," a non-binding, voluntary safety accord joined by executives from major technology firms including Meta, Anthropic, and xAI.</p><p>The agreement, described as "morally binding" by the administration, establishes a self-regulatory framework for developers of frontier models. The nomenclature shift is interpreted by analysts as a strategic effort to distance the concept of super intelligence from the existential and economic fears traditionally associated with artificial intelligence.</p><hr/><small>5 Oct 2026, 01:16 UTC | #23236</small>]]></content>
-  </entry>
-  <entry>
-    <title>Elon Musk to Rename SpaceXAI to SpaceXSI</title>
-    <link href="https://www.reuters.com/business/media-telecom/musk-says-he-will-rename-spacexai-spacexsi-2026-10-04/" rel="alternate" />
-    <id>https://www.reuters.com/business/media-telecom/musk-says-he-will-rename-spacexai-spacexsi-2026-10-04/::v239</id>
-    <published>2026-10-04T19:55:00+00:00</published>
-    <updated>2026-10-04T19:55:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/media-telecom/musk-says-he-will-rename-spacexai-spacexsi-2026-10-04/">reuters.com</a> | <a href="https://x.com/elonmusk/status/2106672603536712025">source</a></small></p><hr/><p>SpaceX will rebrand its artificial intelligence division, SpaceXAI, to SpaceXSI, according to Elon Musk. The name change follows a push by Donald Trump to replace the term "artificial intelligence" with "super intelligence."</p><p>Musk has begun adopting the "super intelligence" terminology, previously describing SpaceX as a "super intelligence company." The rebranding aligns the company's nomenclature with the proposed industry shift toward the new terminology.</p><hr/><small>5 Oct 2026, 01:02 UTC | #23230</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Data Centers' Resource Usage Revealed via Improper Redaction</title>
-    <link href="https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/" rel="alternate" />
-    <id>https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/::v239</id>
-    <published>2026-10-04T19:53:00+00:00</published>
-    <updated>2026-10-04T19:53:00+00:00</updated>
-    <media:thumbnail url="https://gray-koln-prod.gtv-cdn.com/resizer/v2/R6DZ3E7KWNGVJIJILIOXRTGYPA.JPG?auth=c1d218b4da8760bf9ca299b96ae9d13d3c4d9985b16d834dda9501c74fa3f56b&amp;width=980&amp;height=651&amp;smart=true" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/">1011now.com</a> | <a href="https://news.ycombinator.com/item?id=49957068">hacker news</a></small></p><hr/><p>Redaction errors in reports filed with Nebraska’s Department of Water, Energy, and Environment have exposed the actual electricity and water consumption of Google's regional data centers. The Agate LLC site in Lincoln consumes 52.65 megawatts of electricity during peak demand and approximately 13 million gallons of water annually.</p><p>Documents also disclose substantial expected tax refunds for Google-owned sites, including an estimated $55.8 million for Agate LLC. These disclosures follow an executive order from Governor Jim Pillen requiring data centers to self-report their impact on Nebraska's infrastructure, power grids, and water resources.</p><p><img src="https://gray-koln-prod.gtv-cdn.com/resizer/v2/R6DZ3E7KWNGVJIJILIOXRTGYPA.JPG?auth=c1d218b4da8760bf9ca299b96ae9d13d3c4d9985b16d834dda9501c74fa3f56b&width=980&height=651&smart=true" /></p><hr/><small>4 Oct 2026, 23:02 UTC | #23251</small>]]></content>
   </entry>
 </feed>

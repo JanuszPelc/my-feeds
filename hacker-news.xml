@@ -982,12 +982,4 @@
     <media:thumbnail url="https://github.com/allenv0/SCM/raw/main/Asset/scm-vhs.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/allenv0/SCM">github.com</a> | <a href="https://news.ycombinator.com/item?id=49952111">hacker news</a></small></p><hr/><p>This open-source macOS application enables AI-powered searching through local photo and video libraries. It utilizes vision models such as CLIP and SigLIP for visual similarity, Tesseract for OCR, and Whisper for audio transcription to allow searches for specific scenes, on-screen text, and spoken dialogue.</p><p>The application operates entirely offline to maintain privacy, performing all inference on the host Mac. It includes automated video scene segmentation, content-based file deduplication, and an opt-in LLM mode for conversational queries using extracted media transcripts and metadata.</p><p><img src="https://github.com/allenv0/SCM/raw/main/Asset/scm-vhs.png" /></p><hr/><small>5 Oct 2026, 04:23 UTC | #23259</small>]]></content>
   </entry>
-  <entry>
-    <title>Self-Hosted HTTP Tunnels Using OpenSSH and Nginx</title>
-    <link href="https://vincent.bernat.ch/en/blog/2026-http-over-ssh" rel="alternate" />
-    <id>https://vincent.bernat.ch/en/blog/2026-http-over-ssh::v239</id>
-    <published>2026-10-04T20:11:00+00:00</published>
-    <updated>2026-10-04T20:11:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vincent.bernat.ch/en/blog/2026-http-over-ssh">vincent.bernat.ch</a> | <a href="https://lobste.rs/s/jba52r/self_hosted_http_tunnels_with_ssh_nginx">discussion</a> | <a href="https://news.ycombinator.com/item?id=49958569">hacker news</a></small></p><hr/><p>Developers can implement self-hosted HTTP tunnels as an alternative to commercial services like ngrok by using OpenSSH and Nginx. The setup involves SSH remote port forwarding to a server, where Nginx acts as a reverse proxy utilizing a wildcard domain and Let's Encrypt SSL certificates.</p><p>To protect against unauthorized access via port enumeration, the implementation leverages the Nginx `ngx_http_secure_link_module` to create time-limited, HMAC-signed URLs. A companion script is provided to automate the detection of ephemeral SSH ports and the generation of these authenticated URLs.</p><hr/><small>5 Oct 2026, 01:40 UTC | #23254</small>]]></content>
-  </entry>
 </feed>
