@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-09T14:43:00+00:00</updated>
+  <updated>2026-10-09T15:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Imaginando Releases Colapso Atomic Synthesizer</title>
+    <link href="https://musictech.com/news/gear/colapso-is-a-synth-that-plays-the-periodic-table-somehow/" rel="alternate" />
+    <id>https://musictech.com/news/gear/colapso-is-a-synth-that-plays-the-periodic-table-somehow/::v239</id>
+    <published>2026-10-09T15:37:00+00:00</published>
+    <updated>2026-10-09T15:37:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Colapso-hero@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/colapso-is-a-synth-that-plays-the-periodic-table-somehow/">musictech.com</a> | <a href="https://www.imaginando.pt/products/colapso-atomic-synthesizer">source</a></small></p><hr/><p>Imaginando has released Colapso, a software synthesizer inspired by the principles of atomic physics. The plugin uses the measured emission spectra of 22 chemical elements from the periodic table to define the timbre of its oscillators, translating the light emitted by excited atoms into sound.</p><p>The synthesizer features additive, granular, and subtractive synthesis stages, supporting eight voices with up to three oscillators per voice and up to 16 partials. Available for macOS and Windows (VST, VST3, AU), Colapso is currently available at a launch price of €69, with a Studio Bundle and rent-to-own options also offered.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Colapso-hero@2000x1500.jpg" /></p><hr/><small>9 Oct 2026, 19:09 UTC | #23785</small>]]></content>
+  </entry>
   <entry>
     <title>Abyzor Releases Variations V4 with Song Builder and AI Composition Tools</title>
     <link href="https://www.kvraudio.com/news/abyzor-releases-variations-v4---new-composition-workflow-and-song-builder-68975?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68975" rel="alternate" />

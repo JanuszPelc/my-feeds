@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-09T15:33:00+00:00</updated>
+  <updated>2026-10-09T15:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ARTEX AI Agent Goes Closed-Source Following South Korean Bank Hack</title>
+    <link href="https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/" rel="alternate" />
+    <id>https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/::v239</id>
+    <published>2026-10-09T15:35:00+00:00</published>
+    <updated>2026-10-09T15:35:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/china/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack-2026-10-09/">reuters.com</a></small></p><hr/><p>The developer of the ARTEX AI agent has transitioned the project to a closed-source model after cybersecurity firms, including CrowdStrike, identified the tool being used in a cyberattack campaign against South Korean banks. The attacks reportedly utilized the agent to facilitate data exfiltration from financial institutions.</p><p>ARTEX is an LLM-driven autonomous penetration testing system designed for research and learning. The tool's public GitHub repository was taken down on October 8, 2026, following the identification of its role in the targeting of South Korean financial firms.</p><hr/><small>9 Oct 2026, 19:07 UTC | #23776</small>]]></content>
+  </entry>
   <entry>
     <title>Unison Cloud Becomes Open Source</title>
     <link href="https://www.unison-lang.org/blog/unison-cloud-open-source/" rel="alternate" />
