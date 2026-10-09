@@ -962,12 +962,4 @@
     <updated>2026-10-04T01:42:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yossarian.net/til/post/rust-s-derive-often-implies-inline/">yossarian.net</a> | <a href="https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline">discussion</a></small></p><hr/><p>Rust's `#[derive]` attribute for traits such as `Debug`, `Display`, and `Clone` automatically generates code containing `#[inline]` hints. This behavior is implied in the Rust Reference and can be verified by expanding the macros.</p><p>While inlining is beneficial for trivial implementations, it can cause significant binary size increases when used with complex or deeply nested structures like large error hierarchies. Replacing standard `#[derive]` with a custom macro that applies `#[inline(never)]` can mitigate this bloat, as seen in a case where the `uv` binary size was reduced by 160KB.</p><hr/><small>4 Oct 2026, 04:52 UTC | #23200</small>]]></content>
   </entry>
-  <entry>
-    <title>Bob Cringely Passes Away</title>
-    <link href="https://news.ycombinator.com/item?id=49949438" rel="alternate" />
-    <id>https://news.ycombinator.com/item?id=49949438::v239</id>
-    <published>2026-10-04T00:51:00+00:00</published>
-    <updated>2026-10-04T00:51:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49949438">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49949438">hacker news</a></small></p><hr/><p>Mark Stevens, the technology columnist known by the pseudonym Bob Cringely, has passed away. He was an early employee at Apple and is widely recognized for his work on the PBS documentary "Triumph of the Nerds."</p><p>Stevens was a prominent chronicler of the computer industry and Silicon Valley, most notably through his long-running "Notes From the Field" column in InfoWorld.</p><hr/><small>4 Oct 2026, 03:49 UTC | #23196</small>]]></content>
-  </entry>
 </feed>
