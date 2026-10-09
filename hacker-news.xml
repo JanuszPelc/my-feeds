@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-08T18:32:00+00:00</updated>
+  <updated>2026-10-08T21:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Anthropic Launches Critical Infrastructure Defense Program</title>
+    <link href="https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity" rel="alternate" />
+    <id>https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity::v239</id>
+    <published>2026-10-08T21:03:00+00:00</published>
+    <updated>2026-10-08T21:03:00+00:00</updated>
+    <media:thumbnail url="https://z7solutions.com/wp-content/uploads/2026/01/What-Makes-Critical-Infrastructure-Different.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity">axios.com</a> | <a href="https://www.anthropic.com/news/anthropic-cyber-mission">source</a> | <a href="https://news.ycombinator.com/item?id=50010605">hacker news</a></small></p><hr/><p>Anthropic has launched the Critical Infrastructure Defense Program, an initiative providing advanced AI models, threat research, and on-site engineering support to protect vital systems. The program's initial rollout includes partnerships with organizations such as CrowdStrike.</p><p>The program builds upon the work of Anthropic's Project Glasswing, which has been integrated into the company's Cyber Verification Program. This effort aims to bolster security for both critical infrastructure and open-source software through the deployment of engineering talent and specialized tools.</p><p><img src="https://z7solutions.com/wp-content/uploads/2026/01/What-Makes-Critical-Infrastructure-Different.webp" /></p><hr/><small>9 Oct 2026, 02:36 UTC | #23716</small>]]></content>
+  </entry>
   <entry>
     <title>Theranos World Features Interactive 3D Reconstruction of Elizabeth Holmes's Office</title>
     <link href="https://www.theranos.world/" rel="alternate" />
