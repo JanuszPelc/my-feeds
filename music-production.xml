@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-09T15:40:00+00:00</updated>
+  <updated>2026-10-09T15:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Plugin Boutique Announces October 2026 Sale on Analogue Emulation Plugins</title>
+    <link href="https://musictech.com/news/gear/87-percent-off-analogue-gear-emulations-plugin-boutique-october-2026/" rel="alternate" />
+    <id>https://musictech.com/news/gear/87-percent-off-analogue-gear-emulations-plugin-boutique-october-2026/::v239</id>
+    <published>2026-10-09T15:49:00+00:00</published>
+    <updated>2026-10-09T15:49:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/analogue-deals-at-Plugin-Boutique-hero@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/87-percent-off-analogue-gear-emulations-plugin-boutique-october-2026/">musictech.com</a> | <a href="https://www.pluginboutique.com/campaigns/analogue-emulations">source</a></small></p><hr/><p>Plugin Boutique is offering discounts of up to 87% on 18 analogue gear emulation plugins throughout October 2026. The sale features hardware models from brands such as Roland, Solid State Logic, and Universal Audio, covering compressors, EQs, consoles, and synthesizers.</p><p>Prominent offers include significant price reductions on SSL Native Bus Compressor 2 and Native Channel Strip 2, as well as the Roland Analog Polysynth Collection. Other featured products include the Universal Audio Minimoog and Roland ZENOLOGY.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/analogue-deals-at-Plugin-Boutique-hero@2000x1500.jpg" /></p><hr/><small>9 Oct 2026, 20:32 UTC | #23792</small>]]></content>
+  </entry>
   <entry>
     <title>Floodo's Audio Labs Releases Cascade Saturation Plugin</title>
     <link href="https://www.kvraudio.com/news/floodos-audio-labs-releases-cascade---dual-stage-volterra-saturation-plugin-vst3-windows-68882?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68882" rel="alternate" />
