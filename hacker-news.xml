@@ -945,21 +945,4 @@
     <updated>2026-10-04T05:21:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1">tomshardware.com</a> | <a href="https://x.com/GoogleVRP/status/2105689195180179605">source</a></small></p><hr/><p>Google has suspended product vulnerability submissions to its Open Source Software Vulnerability Reward Program (OSS VRP) as of October 1, 2026, following an influx of invalid, AI-generated reports. The suspension allows the company to reformat the program while addressing the high volume of low-quality submissions.</p><p>The pause does not affect outstanding reports or supply chain vulnerability submissions. Google expects to provide an update on product vulnerability submissions in the first quarter of 2027 and has directed researchers to utilize other VRP programs in the interim.</p><hr/><small>4 Oct 2026, 12:31 UTC | #23204</small>]]></content>
   </entry>
-  <entry>
-    <title>System-Level Ad-Blocking Methods for Android</title>
-    <link href="https://kevinboone.me/adblock.html" rel="alternate" />
-    <id>https://kevinboone.me/adblock.html::v239</id>
-    <published>2026-10-04T01:44:00+00:00</published>
-    <updated>2026-10-04T01:44:00+00:00</updated>
-    <media:thumbnail url="https://cdnimg.co/39fa38eb-345c-452a-9728-b63edfe1f538/ca1045e2-8ab2-4d78-9e4c-c58043b4b4ae/adblock-for-chrome-in-android-ad-blocking.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kevinboone.me/adblock.html">kevinboone.me</a> | <a href="https://lobste.rs/s/hk0ohb/system_level_ad_blocking_android">discussion</a></small></p><hr/><p>Android users can suppress advertisements at the operating system level using several methods: utilizing commercial DNS services, using VPNs with integrated ad-blocking, installing non-root ad-blocking apps that leverage local VPN loopholes, or modifying the system's hosts file on rooted devices. These approaches aim to protect all applications on the device rather than just web browsers.</p><p>Effectiveness varies by method; DNS-based approaches can be bypassed by apps using direct IP addresses to contact advertising servers, while root-based solutions using Magisk provide more efficient, comprehensive blocking. Additionally, system-level blocking can occasionally cause application errors or require troubleshooting if specific hostnames are inadvertently blocked.</p><p><img src="https://cdnimg.co/39fa38eb-345c-452a-9728-b63edfe1f538/ca1045e2-8ab2-4d78-9e4c-c58043b4b4ae/adblock-for-chrome-in-android-ad-blocking.jpg" /></p><hr/><small>4 Oct 2026, 06:37 UTC | #23208</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rust's `#[derive]` Attribute Automatically Includes `#[inline]` Hints</title>
-    <link href="https://yossarian.net/til/post/rust-s-derive-often-implies-inline/" rel="alternate" />
-    <id>https://yossarian.net/til/post/rust-s-derive-often-implies-inline/::v239</id>
-    <published>2026-10-04T01:42:00+00:00</published>
-    <updated>2026-10-04T01:42:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yossarian.net/til/post/rust-s-derive-often-implies-inline/">yossarian.net</a> | <a href="https://lobste.rs/s/dldhpw/rust_s_derive_often_implies_inline">discussion</a></small></p><hr/><p>Rust's `#[derive]` attribute for traits such as `Debug`, `Display`, and `Clone` automatically generates code containing `#[inline]` hints. This behavior is implied in the Rust Reference and can be verified by expanding the macros.</p><p>While inlining is beneficial for trivial implementations, it can cause significant binary size increases when used with complex or deeply nested structures like large error hierarchies. Replacing standard `#[derive]` with a custom macro that applies `#[inline(never)]` can mitigate this bloat, as seen in a case where the `uv` binary size was reduced by 160KB.</p><hr/><small>4 Oct 2026, 04:52 UTC | #23200</small>]]></content>
-  </entry>
 </feed>
