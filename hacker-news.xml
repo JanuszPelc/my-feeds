@@ -933,40 +933,4 @@
     <media:thumbnail url="https://kowalski7cc.xyz/static/1443566f8359cd4bfc867ec74a929d95/14e2f/cover.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/">kowalski7cc.xyz</a> | <a href="https://lobste.rs/s/lnmgaw/flatpak_from_cli_sucks">discussion</a></small></p><hr/><p>Flatpak applications currently lack intuitive command-line execution due to verbose syntax requirements and limitations in file path forwarding. While the sandboxing model provides essential security, it complicates terminal workflows by requiring full application IDs and complex flag combinations to interact with local files.</p><p>Implementing an `export-commands` key within the Flatpak manifest, inspired by Windows App Execution Aliases, could resolve these usability issues. This feature would allow developers to map internal binaries to simple terminal aliases that automatically manage the `flatpak run` boilerplate and handle file-path wrapping, bridging the gap between sandboxed GUI applications and CLI utilities.</p><p><img src="https://kowalski7cc.xyz/static/1443566f8359cd4bfc867ec74a929d95/14e2f/cover.png" /></p><hr/><small>4 Oct 2026, 18:35 UTC | #23231</small>]]></content>
   </entry>
-  <entry>
-    <title>Grubby Static Site Generator Builds Websites for Git Repositories</title>
-    <link href="https://git.btxx.org/grubby" rel="alternate" />
-    <id>https://git.btxx.org/grubby::v239</id>
-    <published>2026-10-04T13:03:00+00:00</published>
-    <updated>2026-10-04T13:03:00+00:00</updated>
-    <media:thumbnail url="https://devpractical.com/public/2022/static-site-generator.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://git.btxx.org/grubby">git.btxx.org</a> | <a href="https://lobste.rs/s/xpyahx/grubby_static_site_generator_for_git">discussion</a></small></p><hr/><p>Grubby is a Ruby-based static site generator that turns Git repositories into browsable websites and generates a repository index. It requires Git, Ruby 3.0 or later, and Kramdown, with configuration primarily handled through `_config.yml`.</p><p>The guide describes deploying Grubby on shared hosting through Git hooks, using a `post-update` hook to rebuild repository pages after changes. It supports repository files and README content but does not generate pages for individual commits, branches, or other detailed Git history.</p><p><img src="https://devpractical.com/public/2022/static-site-generator.png" /></p><hr/><small>4 Oct 2026, 17:53 UTC | #23229</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jamie Tanna Recommends Renovate for Dependency Updates</title>
-    <link href="https://www.jvt.me/posts/2024/04/12/use-renovate/" rel="alternate" />
-    <id>https://www.jvt.me/posts/2024/04/12/use-renovate/::v239</id>
-    <published>2026-10-04T13:01:00+00:00</published>
-    <updated>2026-10-04T13:01:00+00:00</updated>
-    <media:thumbnail url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n3j7l65qmehdt8klvy0k.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.jvt.me/posts/2024/04/12/use-renovate/">jvt.me</a> | <a href="https://lobste.rs/s/kt0yxd/why_i_recommend_renovate_over_any_other">discussion</a></small></p><hr/><p>Jamie Tanna argues that Renovate is the strongest dependency-update tool he has used, citing its configurability, shareable presets, sensible defaults, package-manager coverage, grouping controls, custom managers, command-line mode, Dependency Dashboard, open-source model, and documentation.</p><p>The article compares Renovate with Dependabot and Snyk through practical experience across repositories and ecosystems. It explains how teams can standardize configuration, reduce pull-request noise, manage nonstandard version references, gate major updates, self-host for internal registries, or use Mend’s hosted service.</p><p><img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n3j7l65qmehdt8klvy0k.png" /></p><hr/><small>4 Oct 2026, 17:21 UTC | #23228</small>]]></content>
-  </entry>
-  <entry>
-    <title>Cloudflare Opens Artifacts Beta and Launches AI-Agent Git Platform Competition</title>
-    <link href="https://blog.cloudflare.com/next-git-platform-on-cloudflare/" rel="alternate" />
-    <id>https://blog.cloudflare.com/next-git-platform-on-cloudflare/::v239</id>
-    <published>2026-10-04T13:00:00+00:00</published>
-    <updated>2026-10-04T13:00:00+00:00</updated>
-    <media:thumbnail url="https://blog.cloudflare.com/_image?href=https%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01M3SQC6HRKEPPV90RWXN9CTKR.png&amp;w=715&amp;h=396&amp;f=webp&amp;fit=cover&amp;position=center" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.cloudflare.com/next-git-platform-on-cloudflare/">blog.cloudflare.com</a> | <a href="https://www.cloudflare.com/git-competition/">source</a> | <a href="https://news.ycombinator.com/item?id=49947051">hacker news</a></small></p><hr/><p>Cloudflare has placed its Git-compatible Artifacts versioned filesystem into open beta and is inviting developers to build a Git platform for coordinating large numbers of software agents on Workers and Artifacts. The competition focuses on concurrent agent work, code review, merge conflicts, repositories, and developer workflows.</p><p>New Artifacts capabilities include Workers deployment, programmable repository management, event subscriptions, U.S. or EU data jurisdiction controls, and usage metrics. Submissions require a demo video, permissively licensed source code, and run instructions by October 14, 2026; the first-place team will receive $25,000 in Cloudflare credits, while billing for Artifacts usage is scheduled to begin October 15.</p><p><img src="https://blog.cloudflare.com/_image?href=https%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01M3SQC6HRKEPPV90RWXN9CTKR.png&w=715&h=396&f=webp&fit=cover&position=center" /></p><hr/><small>4 Oct 2026, 17:17 UTC | #23226</small>]]></content>
-  </entry>
-  <entry>
-    <title>FTL Introduces a Userspace OS Architecture for Cloud Containers</title>
-    <link href="https://ftl-os.org/" rel="alternate" />
-    <id>https://ftl-os.org/::v239</id>
-    <published>2026-10-04T12:57:00+00:00</published>
-    <updated>2026-10-04T12:57:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQFbR-L_Wqc2VQ/article-cover_image-shrink_720_1280/B4DZ3EImqtGcAI-/0/1777112093180?e=2147483647&amp;v=beta&amp;t=OPhgjMZ8tU6mYwArQ8Y-r3xsnlPvH8rE06tmsz6yQsE" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ftl-os.org/">ftl-os.org</a> | <a href="https://seiya.me/blog/introducing-ftl">source</a> | <a href="https://news.ycombinator.com/item?id=49944912">hacker news</a></small></p><hr/><p>FTL is a cloud-focused operating system that runs a userspace OS inside each container, with a minimal kernel interface providing hardware-based isolation. It supports Linux binaries, and its developers report running a Rust HTTP server on FTL without requiring bare-metal machines.</p><p>The design treats the OS as a library implementing processes, virtual filesystems, and networking, aiming to combine microkernel flexibility with monolithic-kernel performance. Async Rust support has been released, while filesystem support, Node.js and Go compatibility, container images, SMP, and 64-bit Arm support remain planned.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQFbR-L_Wqc2VQ/article-cover_image-shrink_720_1280/B4DZ3EImqtGcAI-/0/1777112093180?e=2147483647&v=beta&t=OPhgjMZ8tU6mYwArQ8Y-r3xsnlPvH8rE06tmsz6yQsE" /></p><hr/><small>4 Oct 2026, 16:41 UTC | #23225</small>]]></content>
-  </entry>
 </feed>
