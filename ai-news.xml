@@ -359,13 +359,4 @@
     <updated>2026-10-05T21:25:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/04/reflection-open-weight-ai">axios.com</a> | <a href="https://news.ycombinator.com/item?id=49969183">hacker news</a></small></p><hr/><p>Nvidia-backed startup Reflection AI is preparing to launch its first open-weight AI model this month, intended to rival leading Chinese models from DeepSeek and Alibaba. This release is part of a trend of Western companies introducing open-weight alternatives to compete with established international AI providers.</p><p>Founded by former Google DeepMind researchers, the startup's new system is expected to provide a more accessible alternative to proprietary frontier models. The model's arrival could potentially lower development costs for organizations building large-scale AI applications.</p><hr/><small>5 Oct 2026, 10:44 UTC | #23258</small>]]></content>
   </entry>
-  <entry>
-    <title>Google Restructures Gemini Model Access Tiers</title>
-    <link href="https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/" rel="alternate" />
-    <id>https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/::v239</id>
-    <published>2026-10-04T05:11:00+00:00</published>
-    <updated>2026-10-04T05:11:00+00:00</updated>
-    <media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?quality=82&amp;strip=all&amp;w=1600" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/">9to5google.com</a> | <a href="https://support.google.com/gemini/answer/17004136">source</a> | <a href="https://news.ycombinator.com/item?id=49945630">hacker news</a></small></p><hr/><p>Subscription-based restrictions for Gemini models will take effect on October 9. Free users will be limited to the 3.5 Flash-Lite model, while $4.99 monthly AI Plus subscribers will be restricted to Flash-Lite and Flash, losing access to the Pro tier.</p><p>AI Pro and AI Ultra subscribers will retain Pro model access, with AI Pro users also gaining the "Deep Think" reasoning feature. Additionally, the Gemini app will introduce "low," "medium," and "high" effort levels for models to allow users to control task thoroughness and resource usage.</p><p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?quality=82&strip=all&w=1600" /></p><hr/><small>4 Oct 2026, 12:20 UTC | #23203</small>]]></content>
-  </entry>
 </feed>
