@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-09T14:44:00+00:00</updated>
+  <updated>2026-10-09T14:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Python 3.15.0 Released</title>
+    <link href="https://www.python.org/downloads/release/python-3150/" rel="alternate" />
+    <id>https://www.python.org/downloads/release/python-3150/::v239</id>
+    <published>2026-10-09T14:48:00+00:00</published>
+    <updated>2026-10-09T14:48:00+00:00</updated>
+    <media:thumbnail url="https://hugovk.dev/python-3.15.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.python.org/downloads/release/python-3150/">python.org</a> | <a href="https://news.ycombinator.com/item?id=50021127">hacker news</a></small></p><hr/><p>The latest major release of the Python programming language, version 3.15.0, incorporates over 5,600 commits. This version adds the `sentinel` and `frozendict` built-in types, establishes UTF-8 as the default encoding, and enables unpacking in comprehensions.</p><p>Performance enhancements have been made to the experimental JIT compiler, and a new dedicated profiling package has been introduced. The update also brings C API improvements for free-threaded builds and platform-specific defaults, including free-threading support for macOS and the tail-calling interpreter for Windows 64-bit binaries.</p><p><img src="https://hugovk.dev/python-3.15.png" /></p><hr/><small>9 Oct 2026, 18:25 UTC | #23814</small>]]></content>
+  </entry>
   <entry>
     <title>Isabelle/HOL, Lean, HOL4, and Agda Theorem Provers Compared</title>
     <link href="https://blueberrywren.dev/blog/primes/" rel="alternate" />
