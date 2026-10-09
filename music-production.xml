@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-08T22:04:00+00:00</updated>
+  <updated>2026-10-08T22:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Audioblast Releases V10F Monophonic Synth</title>
+    <link href="https://www.kvraudio.com/news/audioblast-releases-v10f-for-macos-and-windows-vst-au-and-aax-68990?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68990" rel="alternate" />
+    <id>https://www.kvraudio.com/news/audioblast-releases-v10f-for-macos-and-windows-vst-au-and-aax-68990?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68990::v239</id>
+    <published>2026-10-08T22:09:00+00:00</published>
+    <updated>2026-10-08T22:09:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/v10f.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/audioblast-releases-v10f-for-macos-and-windows-vst-au-and-aax-68990?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68990">kvraudio.com</a> | <a href="https://www.audioblast.me/product/v10f/">source</a></small></p><hr/><p>Audioblast has released V10F, a subtractive monophonic synthesizer for macOS and Windows. Modeled after the Kawai 100F, the plugin supports VST, AU, and AAX formats and includes 512 factory presets designed with an emphasis on bass sounds.</p><p>Technical features include dual envelopes, three LFO waveforms, four filter modes with audio-rate modulation, and a 64-step ARP sequencer. The software also offers eight distortion types, three chainable FX slots, and a resizable user interface.</p><p><img src="https://static.kvraudio.com/i/b/v10f.png" /></p><hr/><small>9 Oct 2026, 03:34 UTC | #23748</small>]]></content>
+  </entry>
   <entry>
     <title>UVI Releases Falcon 2027 and Three New Expansions</title>
     <link href="https://www.kvraudio.com/news/uvi-releases-falcon-2027-and-3-new-expansions-68970?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68970" rel="alternate" />

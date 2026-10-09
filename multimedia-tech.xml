@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-08T17:02:00+00:00</updated>
+  <updated>2026-10-08T23:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Bevy 0.20 Released</title>
+    <link href="https://bevy.org/news/bevy-0-20/" rel="alternate" />
+    <id>https://bevy.org/news/bevy-0-20/::v239</id>
+    <published>2026-10-08T23:22:00+00:00</published>
+    <updated>2026-10-08T23:22:00+00:00</updated>
+    <media:thumbnail url="https://bevy.org/news/bevy-0-20/zero_day.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://bevy.org/news/bevy-0-20/">bevy.org</a> | <a href="https://lobste.rs/s/3gikyb/bevy_0_20">discussion</a> | <a href="https://news.ycombinator.com/item?id=50013610">hacker news</a></small></p><hr/><p>Solari, the path-traced renderer, now includes macOS support via Metal and an optional ReSTIR implementation to optimize performance. The update also adopts the WESL shader language and introduces syntax refinements for the BSN scene system, including a new `Ready` event for spawned entities.</p><p>Additional features include expanded UI widget options in Bevy Feathers, support for DLSS-RR 4.5, and new capabilities for custom 2D sprite materials. The release also adds a pan-orbit camera and simplifies BSN scene declarations by removing several required code wrappers.</p><p><img src="https://bevy.org/news/bevy-0-20/zero_day.jpg" /></p><hr/><small>9 Oct 2026, 03:38 UTC | #23746</small>]]></content>
+  </entry>
   <entry>
     <title>Denuvo Seeks Subpoenas for Discord, Valve, and Reddit to Identify Cracker</title>
     <link href="https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker" rel="alternate" />
