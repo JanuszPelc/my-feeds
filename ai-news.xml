@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-08T23:39:00+00:00</updated>
+  <updated>2026-10-09T14:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Limitations of Current Coding Agents</title>
+    <link href="https://mtlynch.io/why-are-coding-agents-so-dumb/" rel="alternate" />
+    <id>https://mtlynch.io/why-are-coding-agents-so-dumb/::v239</id>
+    <published>2026-10-09T14:40:00+00:00</published>
+    <updated>2026-10-09T14:40:00+00:00</updated>
+    <media:thumbnail url="https://blog.laozhang.ai/posts/en/local-coding-agent-fails-quantization-context-harness/img/cover.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://mtlynch.io/why-are-coding-agents-so-dumb/">mtlynch.io</a> | <a href="https://lobste.rs/s/t5htlf/why_are_coding_agents_so_dumb">discussion</a></small></p><hr/><p>Coding agents, the software connecting large language models to codebases, currently act as a bottleneck in AI-assisted development despite improvements in underlying models. Key deficiencies include poor task management, inefficient model delegation, a lack of feature self-awareness, ineffective communication of execution plans, and security vulnerabilities caused by insufficient OS-level sandboxing.</p><p>These limitations are attributed to a principal-agent problem, where AI company incentives—prioritizing high-level benchmarks and demonstrations—diverge from the practical workflow and security needs of professional developers. Viable coding agents require deterministic security boundaries, optimized model selection for cost and speed, and human-comprehensible execution plans.</p><p><img src="https://blog.laozhang.ai/posts/en/local-coding-agent-fails-quantization-context-harness/img/cover.png" /></p><hr/><small>9 Oct 2026, 17:49 UTC | #23811</small>]]></content>
+  </entry>
   <entry>
     <title>Ben Affleck Details His Technical Expertise in AI Filmmaking</title>
     <link href="https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/" rel="alternate" />

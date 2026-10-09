@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-09T14:36:00+00:00</updated>
+  <updated>2026-10-09T14:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rust Demotes i686 Windows Targets to std-only in Version 1.100.0</title>
+    <link href="https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/" rel="alternate" />
+    <id>https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/::v239</id>
+    <published>2026-10-09T14:39:00+00:00</published>
+    <updated>2026-10-09T14:39:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only">discussion</a></small></p><hr/><p>Starting with Rust 1.100.0, the i686-pc-windows-msvc and i686-pc-windows-gnu targets will be demoted to "std-only," removing the inclusion of host tools like the compiler. While prebuilt standard libraries will continue to be distributed, 32-bit Windows hosts will no longer be able to install Rust toolchains directly.</p><p>This move responds to the end of general 32-bit Windows support in October 2025 and persistent issues building stable i686 host tools on modern hardware. To target 32-bit Windows, developers must now cross-compile from a supported host, such as a 64-bit Windows toolchain.</p><hr/><small>9 Oct 2026, 17:46 UTC | #23803</small>]]></content>
+  </entry>
+  <entry>
+    <title>API Integration and Developer Experience Challenges</title>
+    <link href="https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html" rel="alternate" />
+    <id>https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html::v239</id>
+    <published>2026-10-09T14:38:00+00:00</published>
+    <updated>2026-10-09T14:38:00+00:00</updated>
+    <media:thumbnail url="https://img.zonted.com/resources/wavespeed-review/ws-api.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html">dev.clintonblackburn.com</a> | <a href="https://lobste.rs/s/jiphkt/rant_about_apis">discussion</a></small></p><hr/><p>Automating onboarding workflows through third-party APIs presents several technical hurdles, including gated documentation, the absence of OpenAPI specifications, manual credential management, and restrictive webhook verification requirements.</p><p>These inefficiencies disrupt developer workflows and hinder the use of AI agents for automated client generation and schema exploration. Adopting industry-standard practices, such as self-service credential management and open documentation, is presented as a way to improve developer experience.</p><p><img src="https://img.zonted.com/resources/wavespeed-review/ws-api.png" /></p><hr/><small>9 Oct 2026, 17:45 UTC | #23802</small>]]></content>
+  </entry>
   <entry>
     <title>Japan Urges Security Reviews Following Wave of Cyberattacks</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews" rel="alternate" />
