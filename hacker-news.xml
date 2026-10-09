@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-09T15:41:00+00:00</updated>
+  <updated>2026-10-09T15:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Quake-SRP Implements Quake in Safe Rust for WebAssembly</title>
+    <link href="https://quake-srp.pages.dev/" rel="alternate" />
+    <id>https://quake-srp.pages.dev/::v239</id>
+    <published>2026-10-09T15:52:00+00:00</published>
+    <updated>2026-10-09T15:52:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://quake-srp.pages.dev/">quake-srp.pages.dev</a> | <a href="https://news.ycombinator.com/item?id=50016312">hacker news</a></small></p><hr/><p>Rewritten from C into dependency-free, safe Rust, this WebAssembly port of the 1996 game Quake enables players to run the shareware episode directly in a web browser.</p><p>Developed using Anthropic's Claude Code, the implementation is notable for its total avoidance of Rust's `unsafe` code. It includes a test harness to ensure the engine's behavior matches the original WinQuake implementation.</p><hr/><small>9 Oct 2026, 21:11 UTC | #23826</small>]]></content>
+  </entry>
   <entry>
     <title>Pi Terminal Assistant Introduces Adaptive System Theme</title>
     <link href="https://earendil.com/posts/system-theme/" rel="alternate" />
@@ -963,23 +971,5 @@
     <updated>2026-10-05T01:55:00+00:00</updated>
     <media:thumbnail url="https://www.racefans.net/wp-content/uploads/2024/03/racefansdotnet-24-03-02-15-03-07-7-23-saturday-sahkir-2024.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/">motorsport.com</a> | <a href="https://news.ycombinator.com/item?id=49959869">hacker news</a></small></p><hr/><p>A software glitch during the 2026 Bahrain Grand Prix in Malaysia left multiple cars unable to accelerate during the formation lap. The technical failure caused a sudden loss of electrical power in several vehicles, resulting in a 40-minute race delay.</p><p>The FIA identified the cause as a software bug triggered by a combination of low engine speeds, low grip, and specific track layout elements in wet conditions. The governing body has launched a full investigation and released an emergency software patch to address the power unit malfunction.</p><p><img src="https://www.racefans.net/wp-content/uploads/2024/03/racefansdotnet-24-03-02-15-03-07-7-23-saturday-sahkir-2024.jpg" /></p><hr/><small>5 Oct 2026, 05:17 UTC | #23262</small>]]></content>
-  </entry>
-  <entry>
-    <title>BinRange Uses Ultra-Wideband Radio to Track Trash Bins</title>
-    <link href="https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/" rel="alternate" />
-    <id>https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/::v239</id>
-    <published>2026-10-04T21:10:00+00:00</published>
-    <updated>2026-10-04T21:10:00+00:00</updated>
-    <media:thumbnail url="https://sjg.io/binrange/tagged-bins-installation.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/">sjg.io</a> | <a href="https://news.ycombinator.com/item?id=49947472">hacker news</a></small></p><hr/><p>BinRange utilizes Ultra-Wideband (UWB) radio technology to monitor whether household trash bins have been moved for collection. The system employs a fixed radio anchor and battery-powered tags that communicate via MQTT to Home Assistant, providing precise distance measurements that avoid the inaccuracies of Bluetooth RSSI methods.</p><p>The implementation includes custom firmware with accelerometer-based wake-up routines to maximize battery life and 3D-printed enclosures for the hardware. The system also supports wireless, signed firmware updates via Bluetooth, allowing for remote maintenance of the bin-mounted tags.</p><p><img src="https://sjg.io/binrange/tagged-bins-installation.webp" /></p><hr/><small>5 Oct 2026, 04:26 UTC | #23260</small>]]></content>
-  </entry>
-  <entry>
-    <title>SCM Provides Local-First AI Search for Media on macOS</title>
-    <link href="https://github.com/allenv0/SCM" rel="alternate" />
-    <id>https://github.com/allenv0/SCM::v239</id>
-    <published>2026-10-04T21:09:00+00:00</published>
-    <updated>2026-10-04T21:09:00+00:00</updated>
-    <media:thumbnail url="https://github.com/allenv0/SCM/raw/main/Asset/scm-vhs.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/allenv0/SCM">github.com</a> | <a href="https://news.ycombinator.com/item?id=49952111">hacker news</a></small></p><hr/><p>This open-source macOS application enables AI-powered searching through local photo and video libraries. It utilizes vision models such as CLIP and SigLIP for visual similarity, Tesseract for OCR, and Whisper for audio transcription to allow searches for specific scenes, on-screen text, and spoken dialogue.</p><p>The application operates entirely offline to maintain privacy, performing all inference on the host Mac. It includes automated video scene segmentation, content-based file deduplication, and an opt-in LLM mode for conversational queries using extracted media transcripts and metadata.</p><p><img src="https://github.com/allenv0/SCM/raw/main/Asset/scm-vhs.png" /></p><hr/><small>5 Oct 2026, 04:23 UTC | #23259</small>]]></content>
   </entry>
 </feed>
