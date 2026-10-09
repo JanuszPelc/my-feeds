@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Amazon Ends Data Center NDAs and AI Agents Seek Payment Access</title>
+    <link href="https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/" rel="alternate" />
+    <id>https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/::v239</id>
+    <published>2026-10-09T16:54:00+00:00</published>
+    <updated>2026-10-09T16:54:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/">techcrunch.com</a></small></p><hr/><p>Amazon is ending its use of nondisclosure agreements in data center negotiations with local governments, following a similar move by Microsoft. This change responds to community backlash against AI infrastructure. Meanwhile, new AI agents are seeking access to consumer credit cards and personal files, driving the rise of privacy-focused startups like Tab, Underdog, and Hark.</p><p>Additional topics include Lambda's reported $4 billion raise, Uber's $2.3 billion acquisition of ezCater, and Ghost's $3,499 computer designed for continuous AI agent operation. The White House's Super Intelligence Force and security measures from Apple and United to restrict unauthorized AI agent access are also addressed.</p><hr/><small>9 Oct 2026, 22:10 UTC | #23807</small>]]></content>
+  </entry>
+  <entry>
     <title>China Prioritizes Rapid AI Development Over Frontier Safety Disclosures</title>
     <link href="https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier" rel="alternate" />
     <id>https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier::v239</id>
@@ -785,13 +793,5 @@
     <updated>2026-10-05T04:55:00+00:00</updated>
     <media:thumbnail url="https://images.ctfassets.net/tiol9r5yvqqu/8Y8dg2HyIDKtNOI9N50QL/69d180ef8b216e9c9e465973560eb16b/ANNOUNCEMENT_-_Webinar_Header__25_.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/02/changeorg-ai-100-million">axios.com</a></small></p><hr/><p>Change.org is investing $100 million of its own capital to rebuild its core petitions platform using artificial intelligence. The company has also launched a beta version of an AI copilot to assist petition creators.</p><p>The initiative follows a 2021 restructuring of the organization. The platform currently serves more than 100 million people annually.</p><p><img src="https://images.ctfassets.net/tiol9r5yvqqu/8Y8dg2HyIDKtNOI9N50QL/69d180ef8b216e9c9e465973560eb16b/ANNOUNCEMENT_-_Webinar_Header__25_.png" /></p><hr/><small>5 Oct 2026, 09:07 UTC | #23256</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sam Altman Highlights Regulatory Divide Between OpenAI and Anthropic</title>
-    <link href="https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217" rel="alternate" />
-    <id>https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217::v239</id>
-    <published>2026-10-04T21:56:00+00:00</published>
-    <updated>2026-10-04T21:56:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217">politico.com</a></small></p><hr/><p>OpenAI CEO Sam Altman stated that his company and rival Anthropic maintain fundamentally different worldviews regarding artificial intelligence regulation. During an interview with Politico's Decoded, Altman argued that the benefits of AI technology justify the acceptance of certain risks, including the possibility of "some bad things happening."</p><p>The remarks highlight a significant split in the AI industry, as Anthropic is widely viewed as a strong proponent of stringent regulatory frameworks. In contrast, Altman's position favors broad public access to powerful AI tools over concentrating control within a limited number of development entities.</p><hr/><small>5 Oct 2026, 05:00 UTC | #23247</small>]]></content>
   </entry>
 </feed>
