@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>OpenAI Safety Researchers Dispute Misconduct Claims in Open Letter</title>
+    <link href="https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/::v239</id>
+    <published>2026-10-08T20:05:00+00:00</published>
+    <updated>2026-10-08T20:05:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/">techcrunch.com</a> | <a href="https://mikitabalesni.com/letter/letter.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=50010569">hacker news</a></small></p><hr/><p>Jasmine Wang, Tomek Korbak, and Mikita Balesni, three safety researchers recently dismissed from OpenAI, deny allegations that they mishandled sensitive company information. They argue that their firing—which OpenAI attributed to policy violations regarding information handling—undermines the ability of safety teams to collaborate with external experts without fear of retribution.</p><p>The group warned that the terminations could create a "chilling effect," discouraging employees from raising safety concerns or working with third-party evaluators. While OpenAI leadership issued a memo denying that the dismissals were retaliatory, the incident occurs amid heightened scrutiny over AI governance and the monitorability of frontier models.</p><hr/><small>9 Oct 2026, 01:12 UTC | #23720</small>]]></content>
+  </entry>
+  <entry>
     <title>OpenAI Revenue Reportedly $20 Billion Lower Than Previously Projected</title>
     <link href="https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/" rel="alternate" />
     <id>https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/::v239</id>
