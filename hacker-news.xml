@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-08T23:25:00+00:00</updated>
+  <updated>2026-10-09T01:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Raheim Hamilton Sentenced to 40 Years for Operating Empire Market</title>
+    <link href="https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/" rel="alternate" />
+    <id>https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/::v239</id>
+    <published>2026-10-09T01:56:00+00:00</published>
+    <updated>2026-10-09T01:56:00+00:00</updated>
+    <media:thumbnail url="https://www.bleepstatic.com/content/hl-images/2026/09/25/Hacker-prison.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/">bleepingcomputer.com</a> | <a href="https://www.justice.gov/usao-ndil/pr/co-creator-dark-web-marketplace-sentenced-40-years-federal-prison">source</a></small></p><hr/><p>Raheim Hamilton, co-creator of the Empire Market dark web marketplace, has been sentenced to 40 years in federal prison for facilitating $430 million in illegal transactions. Between 2018 and 2020, the platform enabled the sale of vast quantities of controlled substances, including fentanyl, cocaine, methamphetamine, and heroin, to over 1.6 million users.</p><p>Hamilton and co-defendant Thomas Pavey used cryptocurrency and mixing services to help users evade law enforcement detection. In addition to the prison term, Hamilton is required to forfeit several Virginia properties and more than 1,230 bitcoin and 24.4 Ether.</p><p><img src="https://www.bleepstatic.com/content/hl-images/2026/09/25/Hacker-prison.jpg" /></p><hr/><small>9 Oct 2026, 09:03 UTC | #23743</small>]]></content>
+  </entry>
   <entry>
     <title>Migrating Git Repositories to SHA-256 Object Format</title>
     <link href="https://exa.y2k.diy/garden/git-sha256/" rel="alternate" />
