@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-08T23:58:00+00:00</updated>
+  <updated>2026-10-09T01:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Meta Bans ByteDance From Advertising on Its Apps in Seven Countries</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-08/meta-bans-tiktok-parent-bytedance-from-advertising-on-its-apps-in-7-countries" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-08/meta-bans-tiktok-parent-bytedance-from-advertising-on-its-apps-in-7-countries::v239</id>
+    <published>2026-10-09T01:11:00+00:00</published>
+    <updated>2026-10-09T01:11:00+00:00</updated>
+    <media:thumbnail url="https://static.postize.com/posts/36b04051bb0b3d103c6ca1d629e85dd5_39368_1200.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-08/meta-bans-tiktok-parent-bytedance-from-advertising-on-its-apps-in-7-countries">bloomberg.com</a></small></p><hr/><p>Meta Platforms Inc. has prohibited ByteDance Ltd., the parent company of TikTok, from placing advertisements and paid marketing messages on its platforms in seven countries. The restrictions apply in the United States, Canada, Egypt, Indonesia, Japan, Thailand, and Vietnam, and encompass third-party advertisers running campaigns that link to ByteDance or TikTok properties in those regions.</p><p>The decision intensifies competition between Meta and ByteDance. The ban targets both direct marketing from ByteDance and indirect traffic drivers via third-party links, aiming to limit the reach of ByteDance-owned properties through Meta's advertising ecosystem in the specified markets.</p><p><img src="https://static.postize.com/posts/36b04051bb0b3d103c6ca1d629e85dd5_39368_1200.jpg" /></p><hr/><small>9 Oct 2026, 07:24 UTC | #23739</small>]]></content>
+  </entry>
   <entry>
     <title>SpaceX Acquires Low-Band Spectrum for Starlink Mobile Service</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-08/spacex-to-acquire-low-band-spectrum-for-mobile-phone-service" rel="alternate" />
