@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-08T21:03:00+00:00</updated>
+  <updated>2026-10-08T22:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Carson Gross on the Value of Programming in the Age of AI</title>
+    <link href="https://htmx.org/essays/yes-and/" rel="alternate" />
+    <id>https://htmx.org/essays/yes-and/::v239</id>
+    <published>2026-10-08T22:06:00+00:00</published>
+    <updated>2026-10-08T22:06:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://htmx.org/essays/yes-and/">htmx.org</a> | <a href="https://news.ycombinator.com/item?id=50003796">hacker news</a></small></p><hr/><p>Computer programming remains a viable career in the age of artificial intelligence because the core disciplines of problem-solving and managing complexity remain highly valuable. While AI can act as an effective tool for learning and overcoming technical roadblocks, manual code authorship is essential for developing the ability to read and understand complex logic.</p><p>Excessive reliance on AI-generated code may hinder junior developers from developing the architectural intuition necessary to control sophisticated systems. As raw coding proficiency becomes relatively less central, skills in communication, business understanding, and system architecture are expected to increase in importance.</p><hr/><small>9 Oct 2026, 03:19 UTC | #23745</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Launches Critical Infrastructure Defense Program</title>
     <link href="https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity" rel="alternate" />
