@@ -3,7 +3,7 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-09T15:46:00+00:00</updated>
+  <updated>2026-10-09T20:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
@@ -500,8 +500,8 @@
     <link href="https://a16z.com/" rel="alternate" />
     <id>https://a16z.com/::v239</id>
     <published>2026-10-06T20:24:00+00:00</published>
-    <updated>2026-10-06T20:24:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://a16z.com/">a16z.com</a> | <a href="https://a16z.com/100-gen-ai-apps-7/">source</a></small></p><hr/><p>ChatGPT holds three times as many U.S. consumer paid subscribers as Claude or Gemini. According to Andreessen Horowitz’s seventh edition of its Top 100 AI Consumer Apps report, Claude has emerged as the third-largest player, surpassing competitors like Perplexity and DeepSeek in traffic. The study also finds that the top 1% of users drive 19.5% of total consumer spending.</p><p>While AI adoption is expanding, user engagement remains relatively shallow across the sector. The report also identifies increasing traction for AI agents as a significant emerging trend in the consumer landscape.</p><hr/><small>7 Oct 2026, 00:00 UTC | #23459</small>]]></content>
+    <updated>2026-10-09T20:44:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://a16z.com/">a16z.com</a> | <a href="https://a16z.com/100-gen-ai-apps-7/">source</a> | <a href="https://news.ycombinator.com/item?id=49993084">hacker news</a></small></p><hr/><p>ChatGPT holds three times as many U.S. consumer paid subscribers as Claude or Gemini. According to Andreessen Horowitz’s seventh edition of its Top 100 AI Consumer Apps report, Claude has emerged as the third-largest player, surpassing competitors like Perplexity and DeepSeek in traffic. The study also finds that the top 1% of users drive 19.5% of total consumer spending.</p><p>While AI adoption is expanding, user engagement remains relatively shallow across the sector. The report also identifies increasing traction for AI agents as a significant emerging trend in the consumer landscape.</p><hr/><small>7 Oct 2026, 00:00 UTC | #23459</small>]]></content>
   </entry>
   <entry>
     <title>Anduril Secures $2.9 Billion Navy Contract for Submarine Component Manufacturing</title>
@@ -784,13 +784,5 @@
     <published>2026-10-04T21:56:00+00:00</published>
     <updated>2026-10-04T21:56:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217">politico.com</a></small></p><hr/><p>OpenAI CEO Sam Altman stated that his company and rival Anthropic maintain fundamentally different worldviews regarding artificial intelligence regulation. During an interview with Politico's Decoded, Altman argued that the benefits of AI technology justify the acceptance of certain risks, including the possibility of "some bad things happening."</p><p>The remarks highlight a significant split in the AI industry, as Anthropic is widely viewed as a strong proponent of stringent regulatory frameworks. In contrast, Altman's position favors broad public access to powerful AI tools over concentrating control within a limited number of development entities.</p><hr/><small>5 Oct 2026, 05:00 UTC | #23247</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple and Google Lobby for Age-Verification Laws That Shield App Stores from Lawsuits</title>
-    <link href="https://www.politico.com/news/2026/10/04/apple-googlestates-app-stores-lawsuits-01105892" rel="alternate" />
-    <id>https://www.politico.com/news/2026/10/04/apple-googlestates-app-stores-lawsuits-01105892::v239</id>
-    <published>2026-10-04T20:34:00+00:00</published>
-    <updated>2026-10-04T20:34:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/10/04/apple-googlestates-app-stores-lawsuits-01105892">politico.com</a></small></p><hr/><p>Apple and Google are lobbying state lawmakers to adopt kids' online safety laws that incorporate self-attested age checks and prohibit private lawsuits related to age-verification compliance.</p><p>Meta is supporting legislative versions that shift the responsibility of age verification to app stores rather than individual social media platforms. These competing efforts highlight a divide between operating system providers and app developers over who should be held liable for verifying the age of users.</p><hr/><small>5 Oct 2026, 02:03 UTC | #23232</small>]]></content>
   </entry>
 </feed>
