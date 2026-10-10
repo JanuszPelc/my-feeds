@@ -776,29 +776,4 @@
     <updated>2026-10-05T23:07:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/">arstechnica.com</a> | <a href="https://www.texastribune.org/2026/10/05/texas-flock-cameras-two-million-public-records-information/">source</a> | <a href="https://news.ycombinator.com/item?id=49971523">hacker news</a></small></p><hr/><p>North Richland Hills, a suburb of Fort Worth, Texas, has demanded $2.3 million from the Texas Privacy Coalition to fulfill a public records request concerning the city's use of Flock Safety's automated license plate recognition (ALPR) cameras. The city's demand is based on the projected labor costs required to process the extensive amount of requested data.</p><p>The request occurs amid increasing scrutiny from privacy advocates regarding the surveillance capabilities and potential for unconstitutional searches involving Flock technology. While Flock offers optional transparency portals for agencies to publish usage statistics, only a small fraction of Texas agencies utilizing the system have opted to share such information with the public.</p><hr/><small>6 Oct 2026, 04:38 UTC | #23385</small>]]></content>
   </entry>
-  <entry>
-    <title>Meta and Microsoft Reducing Employee Use of Anthropic's Claude</title>
-    <link href="https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude" rel="alternate" />
-    <id>https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude::v239</id>
-    <published>2026-10-05T22:50:00+00:00</published>
-    <updated>2026-10-08T00:03:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/meta-microsoft-work-wean-staff-anthropics-claude">theinformation.com</a> | <a href="https://news.ycombinator.com/item?id=49997161">hacker news</a></small></p><hr/><p>Meta Platforms and Microsoft are working to reduce employee usage of Anthropic's Claude AI. Meta's utilization of Claude Code has dropped from approximately 60,000 users earlier this year to 30,000.</p><p>The reduction is intended to prevent model distillation, a process where the output of an AI model is used to train a competing model. Meta is placing stricter limits on engineers' access to external AI tools to safeguard its proprietary technology and development processes.</p><hr/><small>6 Oct 2026, 01:40 UTC | #23357</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jacob Coxon and AI Executives Testify at NYC Council AI Safety Hearing</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing::v239</id>
-    <published>2026-10-05T22:48:00+00:00</published>
-    <updated>2026-10-05T22:48:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-05/ex-anthropic-researcher-jacob-coxon-testifies-at-nyc-council-ai-hearing">bloomberg.com</a></small></p><hr/><p>During a New York City Council hearing on artificial intelligence safety, former Anthropic researcher Jacob Coxon and executives from Anthropic, Google, OpenAI, and Meta testified about industry risks. Coxon warned that the competitive race to develop AI presents dangers that the industry may not be able to fully control.</p><p>The hearing, held before all 51 council members, addressed potential legislative regulations and safety protocols. Proposed measures include requiring external validation for AI model deployment and establishing technical mechanisms for controlled shutdowns.</p><hr/><small>6 Oct 2026, 01:05 UTC | #23351</small>]]></content>
-  </entry>
-  <entry>
-    <title>ChatGPT Reproduces Real New Yorker Cartoonists' Signatures in AI-Generated Images</title>
-    <link href="https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/" rel="alternate" />
-    <id>https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/::v239</id>
-    <published>2026-10-05T22:47:00+00:00</published>
-    <updated>2026-10-05T22:47:00+00:00</updated>
-    <media:thumbnail url="https://www.niemanlab.org/images/flakes-cartoon-side.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/">niemanlab.org</a> | <a href="https://news.ycombinator.com/item?id=49971846">hacker news</a></small></p><hr/><p>ChatGPT is generating New Yorker-style cartoons that include the actual signatures or pen names of real magazine contributors, such as Brendan Loper and Emily Flake. These AI-generated images falsely attribute the work to the named artists, causing confusion on social media and leading creators to characterize the practice as a violation of their identity and brand.</p><p>While OpenAI has implemented guardrails to prevent content that mimics third-party material, investigations show the chatbot continues to reproduce specific artist signatures. This phenomenon highlights the legal and social tensions regarding the "right of publicity" and the impact of AI-generated content on the livelihoods and brand integrity of professional artists.</p><p><img src="https://www.niemanlab.org/images/flakes-cartoon-side.jpg" /></p><hr/><small>6 Oct 2026, 00:53 UTC | #23376</small>]]></content>
-  </entry>
 </feed>
