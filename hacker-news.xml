@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-10T15:03:00+00:00</updated>
+  <updated>2026-10-10T15:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Lifeguard Static Analyzer Detects Python Lazy Import Incompatibilities</title>
+    <link href="https://github.com/Facebook/lifeguard" rel="alternate" />
+    <id>https://github.com/Facebook/lifeguard::v239</id>
+    <published>2026-10-10T15:23:00+00:00</published>
+    <updated>2026-10-10T15:23:00+00:00</updated>
+    <media:thumbnail url="https://blog.jetbrains.com/wp-content/uploads/2026/06/image-45.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/Facebook/lifeguard">github.com</a> | <a href="https://lobste.rs/s/qwqne6/lifeguard_static_analyzer_for_python">discussion</a></small></p><hr/><p>Developed by Facebook, Lifeguard is a static analysis tool designed to detect Python code patterns incompatible with the proposed 'Explicit Lazy Imports' (PEP 810). It utilizes Abstract Syntax Trees (AST) to identify side effects, registry patterns, and sys.modules manipulations that would fail if imports were deferred until a name is accessed.</p><p>The Rust-based tool is currently in beta and aims for readiness by the Python 3.15 release. It produces JSON-formatted output that helps developers pinpoint problematic code lines or serves as input to drive automated loaders that manage deferred versus eager imports.</p><p><img src="https://blog.jetbrains.com/wp-content/uploads/2026/06/image-45.png" /></p><hr/><small>10 Oct 2026, 23:27 UTC | #23899</small>]]></content>
+  </entry>
   <entry>
     <title>The Open Group Outlines UNIX Certification and Trademark Standards</title>
     <link href="https://www.opengroup.org//openbrand/register/" rel="alternate" />
