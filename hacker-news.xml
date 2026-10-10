@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-10T13:15:00+00:00</updated>
+  <updated>2026-10-10T14:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Lightbulb Computer Concept Uses Projectors for Ambient Computing</title>
+    <link href="https://lightbulbcomputer.com/" rel="alternate" />
+    <id>https://lightbulbcomputer.com/::v239</id>
+    <published>2026-10-10T14:37:00+00:00</published>
+    <updated>2026-10-10T14:37:00+00:00</updated>
+    <media:thumbnail url="https://onecrazemedia.com/wp-content/uploads/2026/04/panel-control-system-for-interactive-projector.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lightbulbcomputer.com/">lightbulbcomputer.com</a> | <a href="https://lobste.rs/s/0g9ctg/lightbulb_computer_reimagining_spatial">discussion</a> | <a href="https://news.ycombinator.com/item?id=50029487">hacker news</a></small></p><hr/><p>Guillaume Ardaud has designed a speculative prototype called the Lightbulb Computer, which uses projector technology and computer vision to create ambient computing environments. The device is shaped like a lightbulb to allow for mounting in standard sockets or portable lamp bases, projecting digital interfaces and interactive overlays directly onto surfaces and objects within a room.</p><p>The design aims to offer an alternative to restrictive AR/VR headsets and smartphone screens by making digital interaction more social and integrated into the physical world. Potential use cases include projecting collaborative maps, hands-free kitchen timers, and gesture-controlled smart home interfaces that blend into the domestic environment.</p><p><img src="https://onecrazemedia.com/wp-content/uploads/2026/04/panel-control-system-for-interactive-projector.webp" /></p><hr/><small>10 Oct 2026, 18:32 UTC | #23887</small>]]></content>
+  </entry>
   <entry>
     <title>Equality Saturation: Evolution and Research Trends in E-Graph Optimization</title>
     <link href="https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/" rel="alternate" />
