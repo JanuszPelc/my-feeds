@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-09T14:40:00+00:00</updated>
+  <updated>2026-10-09T21:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google Employees Test Internal Gemini 4 Model Codenamed 'Carbon'</title>
+    <link href="https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10" rel="alternate" />
+    <id>https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10::v239</id>
+    <published>2026-10-09T21:47:00+00:00</published>
+    <updated>2026-10-09T21:47:00+00:00</updated>
+    <media:thumbnail url="https://i.insider.com/69f25c7c402f8423cd99c07a?width=700" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10">businessinsider.com</a></small></p><hr/><p>Google employees are testing a new version of the Gemini 4 AI model, codenamed "Carbon," via the company's internal coding platform, Jetski. This model is potentially an update or "checkpoint" to the previously announced "Argon" model, with some testers comparing its coding performance to Anthropic's Opus 5.5.</p><p>The testing highlights Google's push to compete with Anthropic and OpenAI in the development of specialized AI coding agents. While earlier iterations of the Gemini 4 line reportedly lagged behind competitors in certain coding tasks, the Carbon update is being used to assess whether Google can close those performance gaps.</p><p><img src="https://i.insider.com/69f25c7c402f8423cd99c07a?width=700" /></p><hr/><small>10 Oct 2026, 04:18 UTC | #23827</small>]]></content>
+  </entry>
   <entry>
     <title>Limitations of Current Coding Agents</title>
     <link href="https://mtlynch.io/why-are-coding-agents-so-dumb/" rel="alternate" />
