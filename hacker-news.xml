@@ -917,30 +917,4 @@
     <updated>2026-10-06T02:45:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://git.sig-io.nl/Sig-IO/mailcheck/">git.sig-io.nl</a> | <a href="https://lobste.rs/s/bw7k1r/golang_tool_check_spf_dkim_tlsa_tls">discussion</a></small></p><hr/><p>This Go-based command-line utility diagnoses SMTP, DNS, and TLS configurations to ensure domains are correctly set up to receive mail. It checks MX records, A/AAAA resolution, and TLS connectivity—including STARTTLS and implicit TLS—while validating DANE, SPF, DMARC, and DKIM records.</p><p>The tool supports TLS 1.2 and 1.3, providing certificate parsing and hostname verification for modern AEAD ciphers. It produces human-readable, JSON, or Nagios/Icinga-compatible output, enabling integration into automated monitoring workflows.</p><hr/><small>6 Oct 2026, 08:15 UTC | #23398</small>]]></content>
   </entry>
-  <entry>
-    <title>Example.com Implements Multi-Language Support in Recent Redesign</title>
-    <link href="https://www.debugbear.com/blog/example-dot-com-redesign-history" rel="alternate" />
-    <id>https://www.debugbear.com/blog/example-dot-com-redesign-history::v239</id>
-    <published>2026-10-05T23:10:00+00:00</published>
-    <updated>2026-10-05T23:10:00+00:00</updated>
-    <media:thumbnail url="https://www.debugbear.com/dimg/3fcf95b7dbb16b31bb844bc5db74cb5e.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.debugbear.com/blog/example-dot-com-redesign-history">debugbear.com</a> | <a href="https://news.ycombinator.com/item?id=49971921">hacker news</a></small></p><hr/><p>Example.com recently implemented a redesign featuring JavaScript-driven multi-language support. The site cycles through several languages using a character-by-character opacity transition to reduce bandwidth demands by serving non-essential content through a separate, non-fetched JavaScript file.</p><p>This update marks a significant milestone in the domain's 20-year history, which includes transitions from static HTML and table layouts to modern CDN-fronted infrastructure via Cloudflare. The timeline encompasses shifts in server headers, messaging changes, and infrastructure migrations from Apache to EdgeCast and Cloudflare.</p><p><img src="https://www.debugbear.com/dimg/3fcf95b7dbb16b31bb844bc5db74cb5e.png" /></p><hr/><small>6 Oct 2026, 05:47 UTC | #23387</small>]]></content>
-  </entry>
-  <entry>
-    <title>Flatten SF Tool Calculates Optimized Routes in San Francisco</title>
-    <link href="https://flattensf.com/" rel="alternate" />
-    <id>https://flattensf.com/::v239</id>
-    <published>2026-10-05T23:05:00+00:00</published>
-    <updated>2026-10-05T23:05:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://flattensf.com/">flattensf.com</a> | <a href="https://github.com/almostimplemented/flattensf">source</a> | <a href="https://news.ycombinator.com/item?id=49971230">hacker news</a></small></p><hr/><p>This web-based routing tool calculates paths in San Francisco by balancing travel distance against cumulative elevation gain. The application uses USGS 1m lidar data and OpenStreetMap street graphs to process 160,000 street segments in-browser, offering routes ranging from the shortest path to the flattest one.</p><p>A slider allows users to adjust the trade-off between distance and climbing, with the tool accounting for stairways differently for walking and cycling. The interface also includes offline search functionality for San Francisco addresses and intersections.</p><hr/><small>6 Oct 2026, 04:23 UTC | #23384</small>]]></content>
-  </entry>
-  <entry>
-    <title>Fatih Arslan Details His Collection of Designer Lamps</title>
-    <link href="https://arslan.io/2026/10/05/the-lamps-in-my-house/" rel="alternate" />
-    <id>https://arslan.io/2026/10/05/the-lamps-in-my-house/::v239</id>
-    <published>2026-10-05T23:02:00+00:00</published>
-    <updated>2026-10-05T23:02:00+00:00</updated>
-    <media:thumbnail url="https://storage.ghost.io/c/ce/27/ce27a3ef-1519-4f17-a161-c8cdf7793306/content/images/2026/10/L1007521.jpeg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arslan.io/2026/10/05/the-lamps-in-my-house/">arslan.io</a> | <a href="https://news.ycombinator.com/item?id=49965152">hacker news</a></small></p><hr/><p>The assortment of iconic lighting pieces focuses on their design history and material composition. It includes works by prominent industrial designers such as Isamu Noguchi, Richard Sapper, and Poul Henningsen.</p><p>Highlights include the Akari washi paper lantern series, the Artemide Tolomeo desk lamp, and several Louis Poulsen models. The selection ranges from mid-century classics to custom 3D-printed lighting.</p><p><img src="https://storage.ghost.io/c/ce/27/ce27a3ef-1519-4f17-a161-c8cdf7793306/content/images/2026/10/L1007521.jpeg" /></p><hr/><small>6 Oct 2026, 03:11 UTC | #23381</small>]]></content>
-  </entry>
 </feed>
