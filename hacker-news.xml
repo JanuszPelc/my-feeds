@@ -987,13 +987,4 @@
     <media:thumbnail url="https://www.thenodebook.com/images/runtime-platform/typescript-compile-cache/type-stripping-step-book-v2.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dbushell.com/2026/10/03/deno-to-node/">dbushell.com</a> | <a href="https://lobste.rs/s/a9kwzv/friendship_ended_with_deno_now_node_is_my">discussion</a></small></p><hr/><p>The author details a migration of a development workflow and a static site generator from the Deno runtime to Node.js v26.10.0. Key changes included replacing Deno's native APIs with Node's `node:fs` and `node:path` modules and utilizing Hono's Node adapter for HTTP functionality.</p><p>This transition yielded a 15% increase in build speeds. The author attributes the return to Node.js to its improved ECMAScript support, native TypeScript type-stripping capabilities, and perceived technical stability compared to recent experiences with Deno.</p><p><img src="https://www.thenodebook.com/images/runtime-platform/typescript-compile-cache/type-stripping-step-book-v2.png" /></p><hr/><small>5 Oct 2026, 13:15 UTC | #23302</small>]]></content>
   </entry>
-  <entry>
-    <title>Flirt Incremental Review Tool Becomes Open-Source</title>
-    <link href="https://blog.buenzli.dev/flirt-is-open-source/" rel="alternate" />
-    <id>https://blog.buenzli.dev/flirt-is-open-source/::v239</id>
-    <published>2026-10-05T09:35:00+00:00</published>
-    <updated>2026-10-05T09:35:00+00:00</updated>
-    <media:thumbnail url="https://cdnimg.co/fb15615b-0f37-49bd-a9d4-77a55413d4c8/screenshots/b9b4dce9-71a6-4f6a-8b17-70ef3b3a3a6d/open-source-sites-codeberg-homepage.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.buenzli.dev/flirt-is-open-source/">blog.buenzli.dev</a> | <a href="https://codeberg.org/flirt/flirt">source</a> | <a href="https://lobste.rs/s/9iztqv/flirt_is_now_open_source">discussion</a></small></p><hr/><p>The Flirt incremental review tool is now an open-source project hosted on Codeberg. Community discussions regarding the software are being held on Zulip.</p><p>The developer has noted that the tool is not yet ready for general use due to existing bugs and missing features. Future development plans include the creation of a Forgejo-backend to facilitate internal testing.</p><p><img src="https://cdnimg.co/fb15615b-0f37-49bd-a9d4-77a55413d4c8/screenshots/b9b4dce9-71a6-4f6a-8b17-70ef3b3a3a6d/open-source-sites-codeberg-homepage.jpg" /></p><hr/><small>5 Oct 2026, 12:38 UTC | #23285</small>]]></content>
-  </entry>
 </feed>
