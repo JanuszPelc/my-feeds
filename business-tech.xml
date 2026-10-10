@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-10T01:47:00+00:00</updated>
+  <updated>2026-10-10T01:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Drone Strike Damages Yandex Data Center in Kaluga, Russia</title>
+    <link href="https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277" rel="alternate" />
+    <id>https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277::v239</id>
+    <published>2026-10-10T01:52:00+00:00</published>
+    <updated>2026-10-10T01:52:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277">united24media.com</a> | <a href="https://tass.com/emergencies/2199689">source</a> | <a href="https://news.ycombinator.com/item?id=50020927">hacker news</a></small></p><hr/><p>A drone attack has struck a major Yandex data center in Russia's Kaluga region, knocking several modules completely out of service. This marks the second Yandex facility hit by drone strikes in 48 hours, following a similar attack on a site in the Ryazan region.</p><p>Located in the Grabtsevo industrial park, the Kaluga facility is Yandex's largest Russian data center and has a planned power capacity of 63 megawatts. The site supports the company's internal services and the expansion of Yandex Cloud, housing more than 3,800 server racks.</p><hr/><small>10 Oct 2026, 09:25 UTC | #23862</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Rejects Anthropic's Request for AI Computing Power</title>
     <link href="https://www.wsj.com/tech/ai/ai-computing-power-demand-a63da9b9" rel="alternate" />
