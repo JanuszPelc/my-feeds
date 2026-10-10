@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-10T14:33:00+00:00</updated>
+  <updated>2026-10-10T14:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Book Publishers Implement AI Tools Amid Employee Protests</title>
+    <link href="https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/" rel="alternate" />
+    <id>https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/::v239</id>
+    <published>2026-10-10T14:44:00+00:00</published>
+    <updated>2026-10-10T14:44:00+00:00</updated>
+    <media:thumbnail url="https://futurist-files.com/wp-content/uploads/2025/10/WordpressPostImages-2-1024x683.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/">wired.com</a></small></p><hr/><p>Major US publishers including HarperCollins, Simon &amp; Schuster, and Hachette are incorporating generative AI tools into operational workflows, such as writing publicity copy, designing cover art, and composing correspondence to literary agents. While these companies have publicly resisted AI use in creative writing, employees report that the technology is being used extensively for marketing and administrative tasks, often without explicit author consent or disclosure.</p><p>Staff at several firms have expressed concerns regarding the potential use of large language models with unreleased manuscripts and the deployment of productivity-monitoring software. These tensions highlight a growing conflict between corporate efforts to increase efficiency and industry professionals' concerns regarding ethics, copyright, and job security.</p><p><img src="https://futurist-files.com/wp-content/uploads/2025/10/WordpressPostImages-2-1024x683.png" /></p><hr/><small>10 Oct 2026, 19:48 UTC | #23867</small>]]></content>
+  </entry>
   <entry>
     <title>Bitwarden to Transition App Store Builds to Commercial License</title>
     <link href="https://community.bitwarden.com/t/published-version-update-in-app-stores/102750" rel="alternate" />
