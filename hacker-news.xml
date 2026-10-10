@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-09T21:26:00+00:00</updated>
+  <updated>2026-10-09T21:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>carrier-explode 2.0 Released with Improved Backend</title>
+    <link href="https://carrierexplode.com/" rel="alternate" />
+    <id>https://carrierexplode.com/::v239</id>
+    <published>2026-10-09T21:45:00+00:00</published>
+    <updated>2026-10-09T21:45:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://carrierexplode.com/">carrierexplode.com</a> | <a href="https://news.ycombinator.com/item?id=50024499">hacker news</a></small></p><hr/><p>carrier-explode 2.0 features an improved backend for decoding and comparing carrier settings for iPhone, Pixel, and Galaxy firmware. The tool allows users to look up APNs, VoLTE, Wi-Fi Calling, and 5G configurations for various mobile carriers.</p><p>The platform enables comparisons between carrier versions and firmware builds. Data is provided through an API or as a daily CC0 dataset, with technical documentation available in the project's wiki.</p><hr/><small>10 Oct 2026, 03:14 UTC | #23847</small>]]></content>
+  </entry>
   <entry>
     <title>Minimal Swift Kernel Runs in QEMU Using Embedded Swift</title>
     <link href="https://carette.xyz/posts/minimal_swift_kernel_on_qemu/" rel="alternate" />
