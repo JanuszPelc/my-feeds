@@ -817,39 +817,4 @@
     <updated>2026-10-05T18:06:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/jensen-huangs-son-in-law-became-one-trusted-executives">theinformation.com</a></small></p><hr/><p>Nico Caprez, son-in-law of Nvidia CEO Jensen Huang, has risen to the rank of Vice President at the semiconductor company. He serves as a trusted advisor to Huang and acts as a primary point of contact for neoclouds, a sector of emerging cloud service providers.</p><p>Caprez's ascent follows his marriage to Madison Huang, the CEO's daughter. He currently leads global strategy and execution for AI infrastructure growth, focusing on scaling services across cloud providers, enterprises, and strategic partners.</p><hr/><small>5 Oct 2026, 21:09 UTC | #23315</small>]]></content>
   </entry>
-  <entry>
-    <title>Businesses Struggle to Forecast AI Spending Due to Unpredictable Token Usage</title>
-    <link href="https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a?st=1trc2u&amp;reflink=desktopwebshare_permalink" rel="alternate" />
-    <id>https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a?st=1trc2u&amp;reflink=desktopwebshare_permalink::v239</id>
-    <published>2026-10-05T14:50:00+00:00</published>
-    <updated>2026-10-05T14:50:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a?st=1trc2u&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>A survey of approximately 400 businesses reveals that only 11% are capable of forecasting their AI spending. Furthermore, a study of over 6,800 tasks shows that lower-priced AI models actually cost more than higher-priced models in 32% of cases, driven by unpredictable token consumption.</p><p>Because AI pricing is tied to token usage—the number of data chunks a model processes—costs fluctuate based on the specific requirements of each task. This unpredictability makes it difficult for organizations to maintain budget certainty or optimize costs through simple price-per-token comparisons.</p><hr/><small>5 Oct 2026, 19:50 UTC | #23305</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Tightens macOS Full Disk Access Controls to Mitigate AI Agent Risks</title>
-    <link href="https://stratechery.com/2026/apple-and-a-hackers-future/" rel="alternate" />
-    <id>https://stratechery.com/2026/apple-and-a-hackers-future/::v239</id>
-    <published>2026-10-05T14:49:00+00:00</published>
-    <updated>2026-10-05T14:49:00+00:00</updated>
-    <media:thumbnail url="https://bitcoinversus.tech/wp-content/uploads/2026/10/wide_cinematic_tech_illustration_scene_a_close_up.png?w=1024" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://stratechery.com/2026/apple-and-a-hackers-future/">stratechery.com</a> | <a href="https://news.ycombinator.com/item?id=49962857">hacker news</a></small></p><hr/><p>A macOS vulnerability (CVE-2026-65400) in the screen-sharing service allows attackers to gain root access and install crypto-miners. In a recent incident, an AI agent running via Claude Code detected the compromise on a Mac Mini, alerted the user, and provided the diagnostic data necessary to identify the window of exploitation.</p><p>This incident highlights a growing tension between Apple’s security protocols—such as the Transparency, Consent, and Control (TCC) subsystem—and the operational needs of autonomous AI agents. Apple intends to implement stricter user-authorization requirements for Full Disk Access to mitigate the risk of agents accessing sensitive personal data, a move that may create friction for users of automated or headless systems.</p><p><img src="https://bitcoinversus.tech/wp-content/uploads/2026/10/wide_cinematic_tech_illustration_scene_a_close_up.png?w=1024" /></p><hr/><small>5 Oct 2026, 19:37 UTC | #23360</small>]]></content>
-  </entry>
-  <entry>
-    <title>Technology Billionaires Gain $845 Billion in 2026 via AI Valuation Surge</title>
-    <link href="https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year" rel="alternate" />
-    <id>https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year::v239</id>
-    <published>2026-10-05T14:42:00+00:00</published>
-    <updated>2026-10-05T14:42:00+00:00</updated>
-    <media:thumbnail url="https://cdn.luxatic.com/wp-content/uploads/2012/03/bloomberg-billionaire-index.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/newsletters/2026-10-05/ai-billionaires-drive-845-billion-surge-in-wealth-this-year">bloomberg.com</a> | <a href="https://www.bloomberg.com/news/articles/2026-10-05/bloomberg-billionaires-index-ai-boom-puts-musk-zuckerberg-in-top-10-of-ranking">source</a></small></p><hr/><p>Technology billionaires have gained $845 billion in wealth through the first nine months of 2026, driven by a massive surge in artificial intelligence valuations. This represents the largest nine-month wealth increase ever recorded for the Bloomberg Billionaires Index.</p><p>In contrast, billionaires whose fortunes originate outside of the technology sector saw a combined loss of $62 billion during the same period. The AI-driven boom has significantly altered global rankings, placing several prominent tech figures in the top 10.</p><p><img src="https://cdn.luxatic.com/wp-content/uploads/2012/03/bloomberg-billionaire-index.jpg" /></p><hr/><small>5 Oct 2026, 19:09 UTC | #23300</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sam Altman Discusses OpenAI's 'Dots' Product and AI Safety Regulation</title>
-    <link href="https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-2" rel="alternate" />
-    <id>https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-2::v239</id>
-    <published>2026-10-05T14:39:00+00:00</published>
-    <updated>2026-10-05T14:39:00+00:00</updated>
-    <media:thumbnail url="https://media.vanityfair.com/photos/6ac01c910b7bf2b9f3f76532/master/w_1600%2Cc_limit/SA_Digital3%2520(1\" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.vanityfair.com/story/sam-altman-exclusive-interview-part-2">vanityfair.com</a></small></p><hr/><p>OpenAI CEO Sam Altman describes "Dots," a new AI assistant product designed to act as a proactive extension of the user, and confirms the delay of the Astra 6.1 model due to safety alignment concerns. He advocates for a "pragmatic middle path" in AI regulation, seeking to balance the risks of uncontrolled AI capabilities against the dangers of centralized power and stifled innovation.</p><p>The interview addresses the implications of the White House accord on superintelligence and the debate over open-source AI models in relation to cybersecurity. Altman also discusses the political implications of leadership donations and proposes an industry-wide culture of transparent accident reporting, modeled after the aviation industry.</p><p><img src="https://media.vanityfair.com/photos/6ac01c910b7bf2b9f3f76532/master/w_1600%2Cc_limit/SA_Digital3%2520(1\" /></p><hr/><small>5 Oct 2026, 18:43 UTC | #23301</small>]]></content>
-  </entry>
 </feed>
