@@ -852,22 +852,4 @@
     <media:thumbnail url="https://fastgptplus.com/posts/zh/china-claude-api-access/img/pricing.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/chinas-token-resellers-create-anthropic-gray-market">theinformation.com</a></small></p><hr/><p>Resellers in Beijing's Haidian District are operating a gray market to provide Chinese users with access to Anthropic's Claude AI. These operators use accumulated identities and USDT-funded cards to obtain accounts, which are then routed through proxies to bypass geographic restrictions.</p><p>This underground market offers API access at prices significantly lower than official rates, potentially helping developers circumvent regional blocks. Such activities present ongoing challenges for AI companies attempting to enforce service availability and prevent unauthorized third-party access.</p><p><img src="https://fastgptplus.com/posts/zh/china-claude-api-access/img/pricing.png" /></p><hr/><small>5 Oct 2026, 15:19 UTC | #23268</small>]]></content>
   </entry>
-  <entry>
-    <title>Sam Altman Warns Against Attributing Religious Force to AI Models</title>
-    <link href="https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models" rel="alternate" />
-    <id>https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models::v239</id>
-    <published>2026-10-05T09:40:00+00:00</published>
-    <updated>2026-10-05T09:40:00+00:00</updated>
-    <media:thumbnail url="https://futurism.com/wp-content/uploads/2026/05/sam-altman-frontier-ai-models-favors.jpg?quality=85&amp;w=1250" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models">axios.com</a> | <a href="https://x.com/sama/status/2106388373221118198">source</a></small></p><hr/><p>OpenAI CEO Sam Altman has labeled the attribution of religious force or the surrender of human judgment to AI models as a "real safety issue." He expressed significant discomfort with the practice of ascribing spiritual significance to artificial intelligence.</p><p>The remarks are interpreted as a critique of Anthropic, which has been engaging with religious leaders to discuss the potential "soul" of AI. The tension underscores broader debates regarding the societal and psychological implications of how humans interact with advanced AI systems.</p><p><img src="https://futurism.com/wp-content/uploads/2026/05/sam-altman-frontier-ai-models-favors.jpg?quality=85&w=1250" /></p><hr/><small>5 Oct 2026, 13:13 UTC | #23266</small>]]></content>
-  </entry>
-  <entry>
-    <title>A3SA Proposes Encryption for ATSC 3.0 Over-the-Air Broadcasts</title>
-    <link href="https://place.reeseric.ci/writings/2026-10-04/" rel="alternate" />
-    <id>https://place.reeseric.ci/writings/2026-10-04/::v239</id>
-    <published>2026-10-05T09:38:00+00:00</published>
-    <updated>2026-10-05T09:38:00+00:00</updated>
-    <media:thumbnail url="https://images.unsplash.com/photo-1571690459265-b890d6115b79?q=80&amp;w=2074&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://place.reeseric.ci/writings/2026-10-04/">place.reeseric.ci</a> | <a href="https://lobste.rs/s/r81dwi/broadcasting_conglomerates_are">discussion</a></small></p><hr/><p>The ATSC 3.0 Security Authority (A3SA), representing major broadcasters including NBCUniversal, ABC, CBS, and Fox, is lobbying the FCC to allow Digital Rights Management (DRM) encryption for over-the-air television signals. The industry group argues that encryption is necessary to protect high-value content from signal theft and piracy as the broadcasting industry transitions to the NextGenTV (ATSC 3.0) standard.</p><p>Critics argue that implementing DRM could limit public access by requiring more expensive, specialized tuners and a persistent internet connection for firmware updates and digital certificates. Such requirements could undermine the reliability of over-the-air broadcasts for emergency alerts and weather updates, particularly during climate disasters or in areas without stable internet connectivity.</p><p><img src="https://images.unsplash.com/photo-1571690459265-b890d6115b79?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" /></p><hr/><small>5 Oct 2026, 12:56 UTC | #23304</small>]]></content>
-  </entry>
 </feed>
