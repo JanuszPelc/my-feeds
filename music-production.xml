@@ -723,12 +723,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/23bloom-mid-side.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/23dsp-releases-23bloom---harmonic-enhancer-and-loudness-expander-for-windows-macos-and-linux-68899?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68899">kvraudio.com</a> | <a href="https://23dsp.com/products/bloom/">source</a></small></p><hr/><p>23DSP has launched 23Bloom, a harmonic enhancer and loudness expander designed to increase perceived loudness by adding harmonics rather than reducing gain. Available for Windows, macOS, and Linux in VST3 and AU formats, the software is a rebuilt successor to the company's previous Bloom plugin and is currently in a release candidate stage.</p><p>The plugin features adjustable three-band splitting with Linkwitz-Riley crossovers and independent shaping for each band. It includes K-weighted loudness tracking, Mid/Side processing, and oversampling up to 16x. 23Bloom is offered via a "pay-what-you-want" model starting at EUR 10, and existing Bloom owners receive the update at no additional cost.</p><p><img src="https://static.kvraudio.com/i/b/23bloom-mid-side.jpg" /></p><hr/><small>5 Oct 2026, 20:36 UTC | #23332</small>]]></content>
   </entry>
-  <entry>
-    <title>Rapid Flow Offers Free True AB Referencing Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/10/05/rapid-flow-true-ab/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/05/rapid-flow-true-ab/::v239</id>
-    <published>2026-10-05T17:03:00+00:00</published>
-    <updated>2026-10-05T17:03:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/05/rapid-flow-true-ab/">bedroomproducersblog.com</a> | <a href="https://www.rapidflow.shop/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/05/rapid-flow-true-ab/#respond">discussion</a></small></p><hr/><p>Rapid Flow is providing its True AB Referencing software for free to celebrate its fourth anniversary. To receive a full, perpetual license for the $39 plugin, users must subscribe to the developer's newsletter.</p><p>The tool allows producers to compare mixes against reference tracks through loudness matching and frequency analysis. It also features speaker modeling for playback in various environments, such as cars, clubs, and mobile devices.</p><hr/><small>5 Oct 2026, 20:11 UTC | #23327</small>]]></content>
-  </entry>
 </feed>

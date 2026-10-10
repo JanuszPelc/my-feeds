@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-10T13:06:00+00:00</updated>
+  <updated>2026-10-10T13:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Germany's Lusatian Lakeland Expands with Opening of Lake Sedlitz</title>
+    <link href="https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands" rel="alternate" />
+    <id>https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands::v239</id>
+    <published>2026-10-10T13:13:00+00:00</published>
+    <updated>2026-10-10T13:13:00+00:00</updated>
+    <media:thumbnail url="https://images.euronews.com/articles/stories/09/71/41/33/1200x800_cmsv2_b3fed7e4-90b2-5088-ba52-d960ff9d7709-9714133.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.euronews.com/2026/04/14/almost-like-lake-como-germany-transforms-former-coal-mines-into-europes-largest-lake-lands">euronews.com</a> | <a href="https://news.ycombinator.com/item?id=50021540">hacker news</a></small></p><hr/><p>The transformation of former lignite mines into the Lusatian Lakeland is entering a final phase with the planned opening of Lake Sedlitz in late April 2026. This addition will complete a 14,000-hectare artificial water landscape, creating a complex comparable in scale to Italy's Lake Como.</p><p>Managed by the Lausitz and Central-German Mining Administration Company (LMBV), the project has cost roughly €7 billion to date. Beyond driving tourism, the lakes serve as critical water reservoirs to mitigate regional droughts, and the construction of navigable canals is expected to link several lakes into a contiguous 5,000-hectare waterway by June 2026.</p><p><img src="https://images.euronews.com/articles/stories/09/71/41/33/1200x800_cmsv2_b3fed7e4-90b2-5088-ba52-d960ff9d7709-9714133.jpg" /></p><hr/><small>10 Oct 2026, 17:16 UTC | #23882</small>]]></content>
+  </entry>
   <entry>
     <title>Lobbying as a Form of Corruption</title>
     <link href="https://carette.xyz/posts/lobbying_and_corruption/" rel="alternate" />
