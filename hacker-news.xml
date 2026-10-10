@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-10T14:37:00+00:00</updated>
+  <updated>2026-10-10T14:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Chrome 154 Introduces Auto-Resizing Iframes via CSS</title>
+    <link href="https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html" rel="alternate" />
+    <id>https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html::v239</id>
+    <published>2026-10-10T14:42:00+00:00</published>
+    <updated>2026-10-10T14:42:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html">alfy.blog</a> | <a href="https://developer.chrome.com/blog/responsive-iframes">source</a> | <a href="https://lobste.rs/s/ka6d0y/iframes_finally_fit_their_content">discussion</a></small></p><hr/><p>Chrome 154 introduces support for responsively-sized iframes, allowing them to automatically adjust their dimensions to match the height or width of their embedded content. By utilizing the `frame-sizing` CSS property and a specific meta tag within the iframe to authorize certain origins, developers can avoid the complex JavaScript `postMessage` implementations previously required to solve cross-origin iframe resizing.</p><p>To enable this functionality, the embedded page must opt-in with a `&lt;meta name="responsive-embedded-sizing"&gt;` tag that lists the allowed parent origins. While this streamlines the integration of third-party components like payment forms and comment widgets, the feature is currently limited to Chromium-based browsers. The API also provides a `window.requestResize()` method to handle updates when content within the iframe changes dynamically.</p><hr/><small>10 Oct 2026, 19:24 UTC | #23890</small>]]></content>
+  </entry>
   <entry>
     <title>Lightbulb Computer Concept Uses Projectors for Ambient Computing</title>
     <link href="https://lightbulbcomputer.com/" rel="alternate" />
