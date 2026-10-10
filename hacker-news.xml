@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-10T14:45:00+00:00</updated>
+  <updated>2026-10-10T15:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Open Group Outlines UNIX Certification and Trademark Standards</title>
+    <link href="https://www.opengroup.org//openbrand/register/" rel="alternate" />
+    <id>https://www.opengroup.org//openbrand/register/::v239</id>
+    <published>2026-10-10T15:03:00+00:00</published>
+    <updated>2026-10-10T15:03:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.opengroup.org//openbrand/register/">opengroup.org</a> | <a href="https://www.opengroup.org/openbrand/register/">source</a> | <a href="https://news.ycombinator.com/item?id=50031653">hacker news</a></small></p><hr/><p>Operating systems must comply with the Single UNIX Specification to qualify for the UNIX trademark. The Open Group manages a registry of these certified products, which serves as a vendor-neutral benchmark for portability, compatibility, and interoperability.</p><p>Certification provides developers with consistent service behavior and increased portability via standardized interfaces. For enterprise users, it ensures scalability and availability while mitigating vendor lock-in by supporting a variety of certified products from multiple suppliers.</p><hr/><small>10 Oct 2026, 20:52 UTC | #23895</small>]]></content>
+  </entry>
   <entry>
     <title>Talorys Open-Source Personal AI Agent Deployed on Cloudflare</title>
     <link href="https://github.com/rociiu/talorys" rel="alternate" />
