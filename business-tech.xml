@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-10T06:16:00+00:00</updated>
+  <updated>2026-10-10T06:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>TrendForce Predicts Rising Component Costs Will Weigh on 2027 Notebook Demand</title>
+    <link href="https://www.trendforce.com/presscenter/news/20261008-13264.html" rel="alternate" />
+    <id>https://www.trendforce.com/presscenter/news/20261008-13264.html::v239</id>
+    <published>2026-10-10T06:26:00+00:00</published>
+    <updated>2026-10-10T06:26:00+00:00</updated>
+    <media:thumbnail url="https://img.trendforce.com/EDM/2026/10/20261008_152148_3.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.trendforce.com/presscenter/news/20261008-13264.html">trendforce.com</a></small></p><hr/><p>Global notebook shipments are expected to decline in 2027 as rising prices for CPUs, DRAM, and SSDs threaten to stifle demand. While the projected decline is currently in the low-single-digit range, passing these costs to consumers could push shipment reductions into the high-single-digit range.</p><p>The cost pressure is expected to influence manufacturing locations, with brands potentially shifting production back to China to optimize logistics and supply-chain efficiency. TrendForce estimates that the share of notebook production occurring outside China will continue to decrease, potentially falling below 20% by 2027.</p><p><img src="https://img.trendforce.com/EDM/2026/10/20261008_152148_3.jpg" /></p><hr/><small>10 Oct 2026, 13:38 UTC | #23857</small>]]></content>
+  </entry>
   <entry>
     <title>Synopsys to Partner with Chinese AI Labs for AI-Enhanced Chip Design</title>
     <link href="https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design" rel="alternate" />
