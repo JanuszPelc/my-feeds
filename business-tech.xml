@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-10T09:09:00+00:00</updated>
+  <updated>2026-10-10T13:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>TikTok US Maintains Operational Ties to ByteDance Despite Divestiture Efforts</title>
+    <link href="https://www.politico.com/news/magazine/2026/10/09/tiktok-trump-deal-us-china-01093142" rel="alternate" />
+    <id>https://www.politico.com/news/magazine/2026/10/09/tiktok-trump-deal-us-china-01093142::v239</id>
+    <published>2026-10-10T13:09:00+00:00</published>
+    <updated>2026-10-10T13:09:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/magazine/2026/10/09/tiktok-trump-deal-us-china-01093142">politico.com</a></small></p><hr/><p>TikTok US continues to coordinate closely with its global organization despite a deal to sell U.S. operations to investors friendly to President Donald Trump. Employees report that staff members still use Lark, an internal communication application owned by ByteDance, for business communications.</p><p>This persistent connectivity complicates efforts to wall off American user data from Chinese influence. The continued reliance on ByteDance's internal infrastructure suggests that regulatory measures intended to decouple the U.S. entity from its parent company may be insufficient.</p><hr/><small>10 Oct 2026, 15:42 UTC | #23860</small>]]></content>
+  </entry>
   <entry>
     <title>Large Language Models and the Criteria for Technological Inevitability</title>
     <link href="https://deadsimpletech.com/blog/llms-arent-inevitable" rel="alternate" />
