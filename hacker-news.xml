@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-10T01:11:00+00:00</updated>
+  <updated>2026-10-10T01:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Spinlocks and the Risks of Priority Inversion</title>
+    <link href="https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html" rel="alternate" />
+    <id>https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html::v239</id>
+    <published>2026-10-10T01:13:00+00:00</published>
+    <updated>2026-10-10T01:13:00+00:00</updated>
+    <media:thumbnail url="https://matklad.github.io/assets/priority-inversion.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html">matklad.github.io</a> | <a href="https://lobste.rs/s/8mj9bb/spinlocks_considered_harmful_2020">discussion</a></small></p><hr/><p>Replacing OS-based mutexes with spinlocks, particularly in `#[no_std]` environments, can lead to significant performance and stability issues. These include priority inversion, where high-priority threads spinning on a lock prevent a preempted low-priority lock-holder from regaining CPU time, and deadlocks that occur if an interrupt handler attempts to acquire a lock held by interrupted code.</p><p>A demonstration using the `getrandom` crate shows how priority inversion can increase execution times from milliseconds to minutes. Alternatives to spinlocks include using standard mutexes that incorporate an initial spinning period before blocking, delegating state management to the caller, or employing racy initialization techniques.</p><p><img src="https://matklad.github.io/assets/priority-inversion.png" /></p><hr/><small>10 Oct 2026, 08:29 UTC | #23859</small>]]></content>
+  </entry>
   <entry>
     <title>FBI Arrests Ransomware Negotiation Firm Co-Founder Edward Dubrovsky</title>
     <link href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/" rel="alternate" />
