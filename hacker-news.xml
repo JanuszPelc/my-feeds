@@ -970,12 +970,4 @@
     <media:thumbnail url="https://media.datacamp.com/cms/b308523027202a31c253ec22f1add609.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://elou.world/en/tutorial/podman-docker-compose">elou.world</a> | <a href="https://lobste.rs/s/tpxwfe/using_docker_compose_with_podman">discussion</a></small></p><hr/><p>Podman can interact with Docker-compatible tools like docker-compose by exposing a UNIX-domain socket that mimics the Docker API. By enabling the podman.socket through systemd and configuring the DOCKER_HOST environment variable to point to the user's Podman socket, users can manage rootless containers using standard Docker Compose commands.</p><p>To maintain container persistence after logout, users can enable user lingering via loginctl. The workflow also includes using podman mount for direct filesystem access within running containers and podman unshare to manage file permissions through user namespaces.</p><p><img src="https://media.datacamp.com/cms/b308523027202a31c253ec22f1add609.png" /></p><hr/><small>5 Oct 2026, 15:23 UTC | #23322</small>]]></content>
   </entry>
-  <entry>
-    <title>Cloudflare Launches Web Search API in Beta</title>
-    <link href="https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/" rel="alternate" />
-    <id>https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/::v239</id>
-    <published>2026-10-05T11:19:00+00:00</published>
-    <updated>2026-10-05T11:19:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/">developers.cloudflare.com</a> | <a href="https://developers.cloudflare.com/web-search/">source</a> | <a href="https://news.ycombinator.com/item?id=49963171">hacker news</a></small></p><hr/><p>Cloudflare has released the Web Search API in beta, enabling AI agents and applications to perform internet searches to ground responses in live information. This functionality allows models to access real-time data rather than relying on training data cutoffs or predicting URLs.</p><p>The API is integrated with AI Gateway and supports three search providers: Ceramic.ai, Exa, and Linkup. All providers adhere to Cloudflare’s verified bot crawling standards and Zero Data Retention policies, and users can manage billing through AI Gateway credits or by using their own provider API keys.</p><hr/><small>5 Oct 2026, 15:07 UTC | #23320</small>]]></content>
-  </entry>
 </feed>
