@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-10T13:10:00+00:00</updated>
+  <updated>2026-10-10T13:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Equality Saturation: Evolution and Research Trends in E-Graph Optimization</title>
+    <link href="https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/" rel="alternate" />
+    <id>https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/::v239</id>
+    <published>2026-10-10T13:15:00+00:00</published>
+    <updated>2026-10-10T13:15:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/">blog.sigplan.org</a> | <a href="https://lobste.rs/s/5n7zxa/equality_saturation_incomplete_project">discussion</a></small></p><hr/><p>Equality saturation uses e-graphs to store and rewrite large equivalence classes of programs for optimization. Since the release of the `egg` library, the field has grown to include specialized implementations like `egglog` for Datalog-style querying and `ægraphs` for performant acyclic e-graph management.</p><p>The technique’s trade-off of mathematical completeness for practical flexibility enables "e-graphs modulo theories" and programmatic control over rule application. Ongoing research aims to resolve challenges regarding variable bindings, substitution, and beta-reduction within e-graph structures.</p><hr/><small>10 Oct 2026, 17:30 UTC | #23883</small>]]></content>
+  </entry>
   <entry>
     <title>Deepthi Sigireddi Discusses Supabase Database Scaling and OrioleDB</title>
     <link href="https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html" rel="alternate" />
