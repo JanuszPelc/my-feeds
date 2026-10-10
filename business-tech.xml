@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-10T01:52:00+00:00</updated>
+  <updated>2026-10-10T05:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Senate Investigation Challenges Big Tech Claims Regarding AI Data Center Economic Impact</title>
+    <link href="https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/" rel="alternate" />
+    <id>https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/::v239</id>
+    <published>2026-10-10T05:42:00+00:00</published>
+    <updated>2026-10-10T05:42:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/">time.com</a> | <a href="https://www.warren.senate.gov/wp-content/uploads/2026/10/471703-ai-data-center-boom-cost-Digital-8.5x11.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=50030912">hacker news</a></small></p><hr/><p>A yearlong Senate investigation led by Senators Elizabeth Warren, Chris Van Hollen, and Richard Blumenthal argues that major technology firms are misleading the public about the true costs and benefits of AI data center construction. The report, which scrutinized companies including Amazon, Google, Meta, and Microsoft, suggests that permanent employment rates are significantly lower than advertised and that firms frequently use non-disclosure agreements to restrict public oversight of deals involving tax exemptions and public infrastructure.</p><p>The investigation highlights concerns that the massive electricity demands of these facilities may result in increased utility costs for residential consumers. While companies argue that grid upgrades benefit the public and should not be their sole responsibility, the report points to specific instances, such as Meta's proposed Louisiana facility, where expansion could raise local electricity bills. This comes as Congress debates the Ratepayer Protection Act to determine if large-scale energy users should be required to cover the incremental infrastructure costs needed to serve them.</p><hr/><small>10 Oct 2026, 12:07 UTC | #23849</small>]]></content>
+  </entry>
   <entry>
     <title>Drone Strike Damages Yandex Data Center in Kaluga, Russia</title>
     <link href="https://united24media.com/war-in-ukraine/yandex-takes-a-second-data-center-hit-in-48-hours-now-its-biggest-russian-site-is-damaged-23277" rel="alternate" />

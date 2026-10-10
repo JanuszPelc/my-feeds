@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-10T05:38:00+00:00</updated>
+  <updated>2026-10-10T05:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Lobsters Community Members Share Weekend Plans</title>
+    <link href="https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend" rel="alternate" />
+    <id>https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend::v239</id>
+    <published>2026-10-10T05:43:00+00:00</published>
+    <updated>2026-10-10T05:43:00+00:00</updated>
+    <media:thumbnail url="https://www.hyppairs.com/wp-content/uploads/2026/02/Pockies-126_5e1c2d6a-2f8b-4955-9751-bbf6dd96809c-scaled.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend">discussion</a></small></p><hr/><p>This discussion thread from the Lobsters community features members sharing their plans for the upcoming weekend. The activities range from personal travel and social events to technical projects such as operating system development and bug fixing.</p><p>Many contributors are working on software development tasks, such as building SVG editors, implementing programming language features, or debugging C++ code. Other participants are focused on reading, job hunting, or academic milestones like PhD completions.</p><p><img src="https://www.hyppairs.com/wp-content/uploads/2026/02/Pockies-126_5e1c2d6a-2f8b-4955-9751-bbf6dd96809c-scaled.jpeg" /></p><hr/><small>10 Oct 2026, 12:10 UTC | #23866</small>]]></content>
+  </entry>
   <entry>
     <title>Portability Challenges in Checking Errors for C String-to-Float Conversion</title>
     <link href="https://sebsite.pw/w/20261009-strtod.html" rel="alternate" />
