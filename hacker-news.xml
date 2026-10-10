@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-10T00:38:00+00:00</updated>
+  <updated>2026-10-10T00:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>LLVM Compiles Branch-Free Code into Branches on RISC-V</title>
+    <link href="https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/" rel="alternate" />
+    <id>https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/::v239</id>
+    <published>2026-10-10T00:41:00+00:00</published>
+    <updated>2026-10-10T00:41:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/">00f.net</a> | <a href="https://lobste.rs/s/dsbt5a/branches_branch_free_code">discussion</a></small></p><hr/><p>LLVM's optimization of branch-free code for RISC-V can introduce conditional branches, even when developers use bitwise logic in C, Rust, or Zig to ensure constant-time execution. This phenomenon is particularly common in 128-bit integer addition and bitwise selection on 32-bit RISC-V, where the lack of native conditional move instructions often forces the compiler to use jumps.</p><p>Such branches can create timing side-channels in cryptographic implementations, undermining security guarantees. While the RISC-V `Zicond` extension provides instructions like `czero.eqz` to facilitate branchless selection, many existing microcontrollers lack this hardware support. Although GCC has demonstrated the ability to emit branchless code for similar operations on some RISC-V targets, LLVM's behavior remains inconsistent across different versions and optimization levels.</p><hr/><small>10 Oct 2026, 06:00 UTC | #23852</small>]]></content>
+  </entry>
   <entry>
     <title>REA Enables AI Coding Agents to Perform Software Reverse Engineering</title>
     <link href="https://rea.tools/" rel="alternate" />
