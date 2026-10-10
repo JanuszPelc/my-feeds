@@ -961,13 +961,4 @@
     <updated>2026-10-05T13:03:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped">discuss.grapheneos.org</a> | <a href="https://news.ycombinator.com/item?id=49964303">hacker news</a></small></p><hr/><p>GrapheneOS developers have indicated that the Pixel 11 series may be excluded from official support because it lacks Memory Tagging Extension (MTE) hardware support. This security feature is a requirement for the project's hardened memory allocator, and current assessments suggest MTE is missing from the device's hardware, firmware, and software layers.</p><p>The potential decision follows attempts by the team to develop a partial port of the operating system. While developers are currently testing newly discovered MTE support to determine its impact, a failure to meet established security standards may lead the project to shift its focus toward upcoming Motorola hardware.</p><hr/><small>5 Oct 2026, 15:43 UTC | #23325</small>]]></content>
   </entry>
-  <entry>
-    <title>Factor Programming Language Overview</title>
-    <link href="https://re.factorcode.org/2026/10/factor-overview.html" rel="alternate" />
-    <id>https://re.factorcode.org/2026/10/factor-overview.html::v239</id>
-    <published>2026-10-05T12:12:00+00:00</published>
-    <updated>2026-10-05T12:12:00+00:00</updated>
-    <media:thumbnail url="https://vectree.fsn1.your-objectstorage.com/og/c/execution-model-of-stack-based-programming-languages-like-postscript-and-forth.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://re.factorcode.org/2026/10/factor-overview.html">re.factorcode.org</a> | <a href="https://lobste.rs/s/bwtzhy/factor_overview">discussion</a></small></p><hr/><p>Factor is a stack-based, concatenative programming language featuring dynamic types, macros, and garbage collection. Code-forward examples demonstrate the language's syntax, control flow, and core libraries.</p><p>Core concepts including stack shuffling, word definitions, quotations, and arithmetic are detailed. The material is designed for developers transitioning from traditional programming to stack-oriented paradigms.</p><p><img src="https://vectree.fsn1.your-objectstorage.com/og/c/execution-model-of-stack-based-programming-languages-like-postscript-and-forth.jpg" /></p><hr/><small>5 Oct 2026, 15:25 UTC | #23310</small>]]></content>
-  </entry>
 </feed>
