@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-10T01:13:00+00:00</updated>
+  <updated>2026-10-10T01:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Implementing Vectorized CLZ and CTZ via Floating-Point and De Bruijn Sequences</title>
+    <link href="https://purplesyringa.moe/blog/vectorized-clz-and-ctz/" rel="alternate" />
+    <id>https://purplesyringa.moe/blog/vectorized-clz-and-ctz/::v239</id>
+    <published>2026-10-10T01:50:00+00:00</published>
+    <updated>2026-10-10T01:50:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://purplesyringa.moe/blog/vectorized-clz-and-ctz/">purplesyringa.moe</a> | <a href="https://lobste.rs/s/9xcc2g/vectorized_clz_ctz">discussion</a></small></p><hr/><p>The article describes techniques for implementing vectorized clz (count leading zeros) and ctz (count trailing zeros) using SIMD instructions. The primary implementation leverages floating-point exponent extraction to compute bit positions, utilizing the logarithmic relationship between an exponent and its value. An alternative approach for ctz is also presented, which uses de Bruijn sequences and a lookup table to increase throughput by navigating AVX lane limitations.</p><p>Performance tests on Intel Haswell and Alder Lake architectures show that these vectorized implementations can outperform scalar instructions, particularly in high-throughput scenarios. While the floating-point method is highly efficient, it is constrained by the bit-width of the floating-point format, whereas the de Bruijn method offers an alternative for workloads requiring higher instruction throughput.</p><hr/><small>10 Oct 2026, 09:11 UTC | #23861</small>]]></content>
+  </entry>
   <entry>
     <title>Spinlocks and the Risks of Priority Inversion</title>
     <link href="https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html" rel="alternate" />
