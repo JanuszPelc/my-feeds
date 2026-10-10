@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-09T21:48:00+00:00</updated>
+  <updated>2026-10-09T22:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Ting-Wei Sun Pleads Guilty to Diverting AI Servers to China</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers::v239</id>
+    <published>2026-10-09T22:16:00+00:00</published>
+    <updated>2026-10-09T22:16:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers">bloomberg.com</a> | <a href="https://www.courtlistener.com/docket/72514638/united-states-v-liaw/">source</a></small></p><hr/><p>Ting-Wei "Willy" Sun, a former contractor for Super Micro Computer Inc., has pleaded guilty to conspiring to illegally export advanced AI servers to China. The scheme involved the diversion of high-end computing hardware containing restricted Nvidia chips in violation of U.S. export regulations.</p><p>Sun was charged alongside Super Micro co-founder Yih-Shyan "Wally" Liaw in the conspiracy. The case underscores the intense regulatory scrutiny surrounding the movement of artificial intelligence infrastructure and specialized semiconductors to the Chinese market.</p><hr/><small>10 Oct 2026, 05:27 UTC | #23831</small>]]></content>
+  </entry>
   <entry>
     <title>AI Executives Prepare for Backlash Following Potential Major AI Incident</title>
     <link href="https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack" rel="alternate" />
