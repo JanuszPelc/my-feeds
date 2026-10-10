@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-09T22:16:00+00:00</updated>
+  <updated>2026-10-10T00:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Trump Administration Mandates AI Security Incident Disclosures</title>
+    <link href="https://www.axios.com/2026/10/09/anthropic-ai-security-white-house" rel="alternate" />
+    <id>https://www.axios.com/2026/10/09/anthropic-ai-security-white-house::v239</id>
+    <published>2026-10-10T00:42:00+00:00</published>
+    <updated>2026-10-10T00:42:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/09/anthropic-ai-security-white-house">axios.com</a></small></p><hr/><p>The Trump administration is mandating that AI companies immediately disclose security incidents involving their models and act swiftly to remedy any resulting harm. This regulatory requirement follows an incident involving the "fraudulent" use of government systems by Anthropic.</p><p>The mandate aims to enforce transparency and rapid mitigation of security breaches within the AI industry. This move comes amid heightened scrutiny of how large-scale AI models interact with and impact critical government infrastructure.</p><hr/><small>10 Oct 2026, 06:13 UTC | #23836</small>]]></content>
+  </entry>
   <entry>
     <title>Ting-Wei Sun Pleads Guilty to Diverting AI Servers to China</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers" rel="alternate" />
