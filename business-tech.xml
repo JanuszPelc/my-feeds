@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-10T13:17:00+00:00</updated>
+  <updated>2026-10-10T14:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Bitwarden to Transition App Store Builds to Commercial License</title>
+    <link href="https://community.bitwarden.com/t/published-version-update-in-app-stores/102750" rel="alternate" />
+    <id>https://community.bitwarden.com/t/published-version-update-in-app-stores/102750::v239</id>
+    <published>2026-10-10T14:33:00+00:00</published>
+    <updated>2026-10-10T14:33:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://community.bitwarden.com/t/published-version-update-in-app-stores/102750">community.bitwarden.com</a> | <a href="https://news.ycombinator.com/item?id=50033407">hacker news</a></small></p><hr/><p>Bitwarden will transition its app store builds and direct downloads to a commercial license starting in its next release. The company will continue to provide GPLv3 open-source versions of its clients via GitHub, ensuring all current features remain available in both builds. Self-hosting capabilities and the existing free-tier plans will remain unaffected.</p><p>Newly developed features may be released exclusively under the commercial license, with specific functionality to be determined on a case-by-case basis. Bitwarden stated the change is intended to provide legal protection for certain features and specifically targets third-party repackagers and resellers.</p><hr/><small>10 Oct 2026, 18:03 UTC | #23885</small>]]></content>
+  </entry>
   <entry>
     <title>Walmart's Warehouse Automation Drive Faces Technical Challenges</title>
     <link href="https://www.wsj.com/business/logistics/walmart-automation-robots-warehouses-65f016b2?st=GBFvs6&amp;reflink=desktopwebshare_permalink" rel="alternate" />
