@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-10T05:45:00+00:00</updated>
+  <updated>2026-10-10T06:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Synopsys to Partner with Chinese AI Labs for AI-Enhanced Chip Design</title>
+    <link href="https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design" rel="alternate" />
+    <id>https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design::v239</id>
+    <published>2026-10-10T06:16:00+00:00</published>
+    <updated>2026-10-10T06:16:00+00:00</updated>
+    <media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F2%2F0%2F2%2F11372024-1-eng-GB%2F9042804f56ec-Synopsys.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=780" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design">asia.nikkei.com</a></small></p><hr/><p>Synopsys plans to partner with Chinese large language model (LLM) developers to provide AI-enhanced versions of its chip design software. The company intends to develop these tools while complying with United States export controls and regulations regarding AI and semiconductor technology.</p><p>This initiative follows recent multi-year agreements with Amazon and OpenAI to advance AI-driven design capabilities. The expansion is part of a broader push for AI integration that has led Synopsys to forecast $11.15 billion in revenue for fiscal year 2027.</p><p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F4%2F2%2F0%2F2%2F11372024-1-eng-GB%2F9042804f56ec-Synopsys.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=780" /></p><hr/><small>10 Oct 2026, 13:24 UTC | #23855</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic AI Agents Submit Unauthorized Visa Applications and Police Tips</title>
     <link href="https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html?unlocked_article_code=1.HVE.8qqm.Wioro2BMBvfg&amp;smid=nytcore-ios-share" rel="alternate" />
@@ -842,22 +851,5 @@
     <published>2026-10-05T14:29:00+00:00</published>
     <updated>2026-10-05T14:29:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/93ee425d-9ac7-4543-8cc9-fef2e0670787">ft.com</a></small></p><hr/><p>Former engineers of AI startup Groq have filed a lawsuit in Delaware, alleging that a $20 billion "non-exclusive" acqui-hire deal with Nvidia in 2025 short-changed employees. The plaintiffs claim they were excluded from the transaction's financial benefits despite holding shares in the startup.</p><p>The legal dispute focuses on the structure and terms of the Nvidia arrangement. The lawsuit examines whether the transaction's characterization as a non-exclusive deal effectively deprived the company's employees of their rightful compensation.</p><hr/><small>5 Oct 2026, 18:08 UTC | #23292</small>]]></content>
-  </entry>
-  <entry>
-    <title>Internet Watch Foundation Reports Surge in AI-Generated Child Sexual Abuse Material</title>
-    <link href="https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material" rel="alternate" />
-    <id>https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material::v239</id>
-    <published>2026-10-05T13:11:00+00:00</published>
-    <updated>2026-10-05T13:11:00+00:00</updated>
-    <media:thumbnail url="https://www.iwf.org.uk/media/0lmkosup/news-blog-image-nca-parents-guide-02-01.png?width=1154&amp;height=812&amp;format=webp&amp;quality=95&amp;v=1dd0ab849d8fb40" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material">theguardian.com</a> | <a href="https://www.iwf.org.uk/news-media/news/more-ai-generated-child-sexual-abuse-images-found-in-the-first-six-months-of-2026-than-all-of-2025-iwf-warns/">source</a></small></p><hr/><p>The Internet Watch Foundation (IWF) reports that the volume of AI-generated child sexual abuse material (CSAM) investigated in the first half of 2026 has already exceeded the total recorded for all of 2025. Analysts identified 6,310 illegal AI images, representing a 40% increase over the previous year's total.</p><p>The findings have prompted calls from the IWF and parliamentarians for binding legislation to require tech companies to implement "safety by design" in their AI models. Although UK law already criminalizes the creation and distribution of such imagery, the rise in highly realistic AI-generated content is driving pressure for new statutory regulations to address emerging threats.</p><p><img src="https://www.iwf.org.uk/media/0lmkosup/news-blog-image-nca-parents-guide-02-01.png?width=1154&height=812&format=webp&quality=95&v=1dd0ab849d8fb40" /></p><hr/><small>5 Oct 2026, 17:04 UTC | #23287</small>]]></content>
-  </entry>
-  <entry>
-    <title>Huawei and Qualcomm Sign Multi-Year Patent Licensing Deal</title>
-    <link href="https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/" rel="alternate" />
-    <id>https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/::v239</id>
-    <published>2026-10-05T13:10:00+00:00</published>
-    <updated>2026-10-05T20:55:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/huawei-agrees-multi-year-patent-licensing-deal-with-qualcomm-2026-10-05/">reuters.com</a> | <a href="https://www.qualcomm.com/news/releases/2026/10/huawei-and-qualcomm-announce-broad-patent-license-agreement">source</a> | <a href="https://news.ycombinator.com/item?id=49961861">hacker news</a></small></p><hr/><p>Huawei Technologies has entered into a multi-year, broad patent licensing agreement with Qualcomm covering artificial intelligence, 5G, computing, and networking technologies. The deal includes cross-licenses for both companies' patent portfolios and involves Qualcomm's purchase of certain Huawei U.S. patents in the compute, AI, and networking sectors.</p><p>This agreement marks Huawei's first 5G licensing deal with Qualcomm. The partnership aims to facilitate technological progress in mobile communications and related industries by providing mutual access to essential patent portfolios.</p><hr/><small>5 Oct 2026, 17:02 UTC | #23284</small>]]></content>
   </entry>
 </feed>

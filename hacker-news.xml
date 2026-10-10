@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-10T05:47:00+00:00</updated>
+  <updated>2026-10-10T05:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Guix Integrates AMD's HIP and ROCm Stacks</title>
+    <link href="https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/" rel="alternate" />
+    <id>https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/::v239</id>
+    <published>2026-10-10T05:58:00+00:00</published>
+    <updated>2026-10-10T05:58:00+00:00</updated>
+    <media:thumbnail url="https://partofstyle.com/wp-content/uploads/2026/01/AMD-ROCm-72-brings-AI-training-and-inferencing-to-all.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/">hpc.guix.info</a> | <a href="https://lobste.rs/s/os95xc/hip_rocm_as_first_class_citizens_guix">discussion</a></small></p><hr/><p>Guix has migrated the AMD HIP/ROCm computing stack into its main distribution, beginning with version 7.1.1. This integration includes over 40 packages, such as the ROCm toolchain, linear algebra libraries like rocBLAS and hipBLAS, ROCm-enabled Open MPI, and various profiling tools.</p><p>To accommodate the rapid expansion of AMD GPU architectures, Guix introduced a `--amd-gpu` package transformation option that allows users to build optimized binaries for specific hardware targets. Performance testing on the Adastra supercomputer using AMD Instinct MI250X GPUs demonstrates communication bandwidth and computing throughput consistent with other established ROCm implementations.</p><p><img src="https://partofstyle.com/wp-content/uploads/2026/01/AMD-ROCm-72-brings-AI-training-and-inferencing-to-all.png" /></p><hr/><small>10 Oct 2026, 13:19 UTC | #23869</small>]]></content>
+  </entry>
   <entry>
     <title>Telegram Desktop Vulnerability Enables One-Click Account Takeover</title>
     <link href="https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/" rel="alternate" />
@@ -952,14 +961,5 @@
     <updated>2026-10-05T14:23:00+00:00</updated>
     <media:thumbnail url="https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/empty-window.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/">floreal.tech</a> | <a href="https://lobste.rs/s/xmir2s/making_gtk_application_haskell_part_1">discussion</a> | <a href="https://news.ycombinator.com/item?id=49965308">hacker news</a></small></p><hr/><p>This tutorial provides a guide for constructing a todo-list application using Haskell, GTK 4, and the libadwaita library. It implements the Elm Architecture (Model-View-Update) to manage application state and user interactions within the GTK framework.</p><p>The implementation relies on the haskell-gi toolkit for GTK bindings and covers the definition of the application's model, messages, and the runtime loop required to connect the view to the state.</p><p><img src="https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/empty-window.png" /></p><hr/><small>5 Oct 2026, 17:25 UTC | #23342</small>]]></content>
-  </entry>
-  <entry>
-    <title>Vulnerabilities in Apple iCloud Enable Spoofing of Arbitrary Identities</title>
-    <link href="https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/" rel="alternate" />
-    <id>https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/::v239</id>
-    <published>2026-10-05T13:08:00+00:00</published>
-    <updated>2026-10-05T13:08:00+00:00</updated>
-    <media:thumbnail url="https://sec-consult.com/fileadmin/_processed_/7/5/csm_sec-consult-c-apple-cloud_521843d6e5.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/">sec-consult.com</a> | <a href="https://lobste.rs/s/jpwrmk/from_anyone_icloud_com_spoofing">discussion</a></small></p><hr/><p>Researchers at the SEC Consult Vulnerability Lab have identified two "header smuggling" flaws in Apple's email infrastructure. These vulnerabilities allow attackers to impersonate any @icloud.com address while successfully passing SPF, DKIM, and DMARC authentication. The issue arises from parsing discrepancies between different internal SMTP servers used within Apple's email delivery pipeline.</p><p>The attack exploits differences in how SMTP implementations interpret carriage return (\r) characters and line breaks. By manipulating these characters, an attacker can present a legitimate address to pass authentication while delivering a spoofed "From" header to the recipient. Because DKIM cryptographic signatures are applied after the message has undergone normalization by the internal infrastructure, the fraudulent emails appear as authentic and verified.</p><p><img src="https://sec-consult.com/fileadmin/_processed_/7/5/csm_sec-consult-c-apple-cloud_521843d6e5.png" /></p><hr/><small>5 Oct 2026, 16:22 UTC | #23336</small>]]></content>
   </entry>
 </feed>
