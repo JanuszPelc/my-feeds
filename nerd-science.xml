@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-09T21:10:00+00:00</updated>
+  <updated>2026-10-09T21:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>The Concept of 'Robot' as a Social Construct</title>
+    <link href="https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/" rel="alternate" />
+    <id>https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/::v239</id>
+    <published>2026-10-09T21:17:00+00:00</published>
+    <updated>2026-10-09T21:17:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/">robotgirlgang.com</a> | <a href="https://lobste.rs/s/ha0qt7/robot_is_social_construct_why_your">discussion</a></small></p><hr/><p>The term "robot" functions as a social construct rather than a strictly technical definition. While machines like dishwashers are automated, the label "robot" is primarily applied to technologies that challenge human identity, societal norms, or existential comfort.</p><p>The concept originated in science fiction and evolves alongside public perception of technology. As automated tools become normalized and lose their capacity to unsettle human concepts of labor or consciousness, they are often demoted from "robots" to standard automated machinery.</p><hr/><small>10 Oct 2026, 00:19 UTC | #23835</small>]]></content>
+  </entry>
   <entry>
     <title>AI's Impact on Intellectual Communities and Human Motivation</title>
     <link href="https://borretti.me/article/no-man-is-an-island" rel="alternate" />
