@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-10T05:40:00+00:00</updated>
+  <updated>2026-10-10T05:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Xbox and PlayStation Sales Hit New Lows in the US Amid Rising Prices</title>
+    <link href="https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market" rel="alternate" />
+    <id>https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market::v239</id>
+    <published>2026-10-10T05:56:00+00:00</published>
+    <updated>2026-10-10T05:56:00+00:00</updated>
+    <media:thumbnail url="https://assetsio.gnwcdn.com/PS5-ram.jpg?width=570&amp;quality=85&amp;format=jpg&amp;dpr=3&amp;auto=webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market">eurogamer.net</a> | <a href="https://bsky.app/profile/matpiscatella.bsky.social/post/3mxh53tutbk2g">source</a></small></p><hr/><p>US market data for Xbox and PlayStation reveals a sharp decline in hardware sales, with Xbox hitting an all-time low in year-to-date units and PlayStation seeing its lowest point since 2013. According to analyst Mat Piscatella, sales have fallen 33% and 25% respectively over the past year. These downturns correlate with record-high average consumer prices, fueled by the high demand for memory components used in AI data centers.</p><p>This trend is attributed to increased price sensitivity as component costs continue to rise. Memory shortages are expected to persist through at least 2028, creating a precarious environment for the console market. While major software launches like Grand Theft Auto 6 may alleviate some of the decline, component scarcity remains a significant factor for hardware availability.</p><p><img src="https://assetsio.gnwcdn.com/PS5-ram.jpg?width=570&quality=85&format=jpg&dpr=3&auto=webp" /></p><hr/><small>10 Oct 2026, 13:05 UTC | #23853</small>]]></content>
+  </entry>
   <entry>
     <title>Nick Park Produced 90% of 'A Grand Day Out' Solo</title>
     <link href="https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone" rel="alternate" />
