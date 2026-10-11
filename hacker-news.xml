@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-11T14:39:00+00:00</updated>
+  <updated>2026-10-11T14:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Consistency in Distributed Systems Requires End-to-End Design</title>
+    <link href="https://n-the-loop.com/blog/consistency-is-not-a-localized-property/" rel="alternate" />
+    <id>https://n-the-loop.com/blog/consistency-is-not-a-localized-property/::v239</id>
+    <published>2026-10-11T14:47:00+00:00</published>
+    <updated>2026-10-11T14:47:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*tzAPJmwZsQEAWUEh97SE8Q.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://n-the-loop.com/blog/consistency-is-not-a-localized-property/">n-the-loop.com</a> | <a href="https://lobste.rs/s/rhy5zp/consistency_is_not_localized_property">discussion</a> | <a href="https://news.ycombinator.com/item?id=50038618">hacker news</a></small></p><hr/><p>Consistency is a global property that cannot be guaranteed by a single component in isolation. Using Apache Kafka’s development of exactly-once semantics as an example, the article argues that achieving such guarantees requires an end-to-end approach where the application and the system architecture are designed in unison to prevent property violations.</p><p>Maintaining consistency requires both a comprehensive understanding of the entire system and clearly defined ownership. Because individual components cannot verify global states, engineers must manage these properties through systemic design and oversight rather than relying solely on code.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*tzAPJmwZsQEAWUEh97SE8Q.png" /></p><hr/><small>11 Oct 2026, 19:45 UTC | #23957</small>]]></content>
+  </entry>
   <entry>
     <title>Unikernels See Renewed Interest as AI Automates Library Porting</title>
     <link href="https://ghuntley.com/unikernels/" rel="alternate" />
