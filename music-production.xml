@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-11T12:26:00+00:00</updated>
+  <updated>2026-10-11T14:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>accSone Updates crusher-X to v12.30</title>
+    <link href="https://www.kvraudio.com/news/accsone-updates-crusher-x-to-v12-30-69043?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69043" rel="alternate" />
+    <id>https://www.kvraudio.com/news/accsone-updates-crusher-x-to-v12-30-69043?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69043::v239</id>
+    <published>2026-10-11T14:42:00+00:00</published>
+    <updated>2026-10-11T14:42:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/cx12poster.1791722469.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/accsone-updates-crusher-x-to-v12-30-69043?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69043">kvraudio.com</a> | <a href="https://accsone.com/crusherx/whatsnewincrusherx12">source</a></small></p><hr/><p>This update for the crusher-X granular synthesis plugin introduces an In-Grain Panner and a 24 dB resonant ladder filter for grains. It also features automatic tab switching for parameters controlled via host automation, MIDI, or OSC, and is available as a free update for existing version 12 licensees.</p><p>Further improvements include an expanded mapping editor with enhanced MIDI management, a reorganized Settings Tab, and various bug fixes. These fixes address DCO tuning accuracy, mapping editor stability, and specific crashes affecting the Binaural Processor on Intel-based Macs.</p><p><img src="https://static.kvraudio.com/i/b/cx12poster.1791722469.jpg" /></p><hr/><small>11 Oct 2026, 19:27 UTC | #23934</small>]]></content>
+  </entry>
+  <entry>
+    <title>Timbre Space Releases Vuoksi Additive Synthesizer for Windows VST3</title>
+    <link href="https://www.kvraudio.com/news/timbre-space-releases-vuoksi-additive-synthesizer-plugin-for-windows-vst3-69013?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69013" rel="alternate" />
+    <id>https://www.kvraudio.com/news/timbre-space-releases-vuoksi-additive-synthesizer-plugin-for-windows-vst3-69013?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69013::v239</id>
+    <published>2026-10-11T14:41:00+00:00</published>
+    <updated>2026-10-11T14:41:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/vuoksi.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/timbre-space-releases-vuoksi-additive-synthesizer-plugin-for-windows-vst3-69013?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69013">kvraudio.com</a> | <a href="https://timbre-space.com/vuoksi">source</a></small></p><hr/><p>Timbre Space has released the Windows VST3 version of Vuoksi, an additive synthesizer featuring 16 independently controllable harmonics. Each harmonic is provided with its own gain, pan, detune, ADSR envelopes, and modulation controls.</p><p>The plugin offers 64-voice polyphony, real-time visualization, built-in effects, and over 80 factory presets. Vuoksi is priced at $60 for Windows and is available alongside the existing macOS version, with a 14-day trial offered for both platforms.</p><p><img src="https://static.kvraudio.com/i/b/vuoksi.jpg" /></p><hr/><small>11 Oct 2026, 19:26 UTC | #23935</small>]]></content>
+  </entry>
   <entry>
     <title>Arvital Audio Updates AudioRoute to v1.2.4</title>
     <link href="https://www.kvraudio.com/news/arvital-audio-updates-audioroute-to-v1-2-4-69021?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69021" rel="alternate" />
