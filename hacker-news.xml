@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-11T14:37:00+00:00</updated>
+  <updated>2026-10-11T14:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Unikernels See Renewed Interest as AI Automates Library Porting</title>
+    <link href="https://ghuntley.com/unikernels/" rel="alternate" />
+    <id>https://ghuntley.com/unikernels/::v239</id>
+    <published>2026-10-11T14:39:00+00:00</published>
+    <updated>2026-10-11T14:39:00+00:00</updated>
+    <media:thumbnail url="https://labs.iximiuz.com/content/files/tutorials/unikernels-intro-93976514/__static__/addrspace.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ghuntley.com/unikernels/">ghuntley.com</a> | <a href="https://news.ycombinator.com/item?id=50033357">hacker news</a></small></p><hr/><p>Unikernels—a software architecture where an application functions as its own minimal operating system—are seeing renewed interest as AI mitigates the difficulty of implementing necessary system components. Previously, the manual effort required to port drivers, filesystems, and libraries was a primary barrier to adoption. AI agents now reduce this friction by automating library porting, reverse-engineering system tools, and generating OS-level code.</p><p>The discussion also highlights the security benefits of unikernels, noting that removing userland shells and interpreters significantly reduces the attack surface. Additionally, the author explores how AI-driven development shifts programming language design toward providing more "back pressure" for automated agents, as exemplified by the rapid creation of Spaceleans, a distributed unikernel OS built using OCaml.</p><p><img src="https://labs.iximiuz.com/content/files/tutorials/unikernels-intro-93976514/__static__/addrspace.png" /></p><hr/><small>11 Oct 2026, 18:55 UTC | #23953</small>]]></content>
+  </entry>
   <entry>
     <title>Plug&amp;Pwn Attack Exploits Windows Plug and Play for Privilege Escalation</title>
     <link href="https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/" rel="alternate" />
