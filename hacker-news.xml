@@ -1000,13 +1000,4 @@
     <media:thumbnail url="https://github.com/FeSens/openTPU/raw/main/docs/img/card-chat-smi.gif" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/FeSens/openTPU">github.com</a> | <a href="https://news.ycombinator.com/item?id=49980715">hacker news</a></small></p><hr/><p>The project provides a complete software and hardware stack for an AI accelerator, including an instruction set architecture (ISA), RTL design, a bit-exact simulator, a compiler, and a profiler. Developed using AI agents, the system is capable of running large language models like Qwen3 and LFM2.5 on Xilinx Kintex-7 PCIe hardware.</p><p>The architecture avoids complex features like hidden scheduling or caches, instead using a simple sequencer to allow for highly transparent performance profiling through an integrated tool called "Lens." This design allows developers to trace computations from high-level Python-based kernels directly down to the hardware's SystemVerilog implementation.</p><p><img src="https://github.com/FeSens/openTPU/raw/main/docs/img/card-chat-smi.gif" /></p><hr/><small>6 Oct 2026, 23:46 UTC | #23498</small>]]></content>
   </entry>
-  <entry>
-    <title>IT Contractor Stole Over 30 MacBooks</title>
-    <link href="https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/" rel="alternate" />
-    <id>https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/::v239</id>
-    <published>2026-10-06T20:17:00+00:00</published>
-    <updated>2026-10-06T20:17:00+00:00</updated>
-    <media:thumbnail url="https://blog.pipetogrep.org/images/laptop_thief1.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/">blog.pipetogrep.org</a> | <a href="https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief">discussion</a></small></p><hr/><p>An IT contractor stole more than 30 MacBooks over a year-long scheme to resell the devices. The theft was identified through inventory discrepancies, suspicious Apple repair requests, and unauthorized MDM enrollment notifications originating from Russia, China, and Kazakhstan.</p><p>The contractor used spoofed shipping labels and personal Apple accounts to hide the theft and replace stolen devices with personal property. The scheme also involved a separate theft from a Department of Defense contractor, which ultimately led to an FBI investigation and the contractor's termination.</p><p><img src="https://blog.pipetogrep.org/images/laptop_thief1.png" /></p><hr/><small>6 Oct 2026, 23:22 UTC | #23492</small>]]></content>
-  </entry>
 </feed>
