@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-11T09:38:00+00:00</updated>
+  <updated>2026-10-11T12:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>FDA Proposes Expanding Regulatory Exemption for Certain Food Additives</title>
+    <link href="https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis" rel="alternate" />
+    <id>https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis::v239</id>
+    <published>2026-10-11T12:27:00+00:00</published>
+    <updated>2026-10-11T12:27:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theguardian.com/us-news/2026/oct/10/fda-toxic-chemicals-food-analysis">theguardian.com</a> | <a href="https://www.govinfo.gov/content/pkg/FR-2026-08-11/pdf/2026-16296.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=50033638">hacker news</a></small></p><hr/><p>The US Food and Drug Administration (FDA) is proposing to expand the "threshold of regulation" (TOR) exemption, which would allow certain chemicals to be added directly to food as ingredients without a formal safety review. Under the proposed rule, substances that are not classified as carcinogens and are used at concentrations below 0.5 parts per billion (ppb) would be exempt from regulation. This expansion would extend the exemption from food contact materials, such as packaging, to direct food additives including flavorings, preservatives, and stabilizers.</p><p>Public health advocates warn that many neurotoxins and endocrine disruptors are harmful at levels significantly lower than the 0.5ppb threshold. Critics argue that this expansion creates a new regulatory loophole that counteracts recent efforts to tighten "generally regarded as safe" (GRAS) standards. Furthermore, advocates express concern that the proposal fails to account for the cumulative health risks posed by multiple low-level chemical exposures and lacks mechanisms for consumer transparency.</p><hr/><small>11 Oct 2026, 15:50 UTC | #23943</small>]]></content>
+  </entry>
   <entry>
     <title>The GNU Project Critiques GitHub's Impact on Software Freedom</title>
     <link href="https://www.gnu.org/philosophy/whats-wrong-with-github.html" rel="alternate" />
