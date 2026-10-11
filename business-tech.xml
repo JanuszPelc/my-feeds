@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-10T16:51:00+00:00</updated>
+  <updated>2026-10-10T19:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple Discloses Hire-and-License Deal with Huxe</title>
+    <link href="https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/::v239</id>
+    <published>2026-10-10T19:51:00+00:00</published>
+    <updated>2026-10-10T19:51:00+00:00</updated>
+    <media:thumbnail url="https://www.libertify.com/wp-content/uploads/2026/03/eu-digital-markets-act-og.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/">techcrunch.com</a></small></p><hr/><p>Apple has agreed to hire employees from personalized audio startup Huxe and secure a non-exclusive license to its intellectual property. The deal, a "reverse acqui-hire" revealed in a regulatory filing to the European Commission, follows Huxe's decision to shut down its service and remove its application from app stores.</p><p>Huxe's founders were former developers of Google’s NotebookLM. This strategic arrangement enables Apple to acquire AI talent and technology—possibly for its Podcasts app—while avoiding the full acquisition scrutiny typically triggered by major mergers.</p><p><img src="https://www.libertify.com/wp-content/uploads/2026/03/eu-digital-markets-act-og.png" /></p><hr/><small>11 Oct 2026, 01:00 UTC | #23894</small>]]></content>
+  </entry>
   <entry>
     <title>Tech and AI Leaders Use Slack Workspace to Influence US Health Policy</title>
     <link href="https://www.cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack/" rel="alternate" />
