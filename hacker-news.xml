@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-11T00:47:00+00:00</updated>
+  <updated>2026-10-11T00:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Modular vs External Proof Strategies for Rust Trait Implementations</title>
+    <link href="https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/" rel="alternate" />
+    <id>https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/::v239</id>
+    <published>2026-10-11T00:49:00+00:00</published>
+    <updated>2026-10-11T00:49:00+00:00</updated>
+    <media:thumbnail url="https://bmreducation.in/api/v5/education/web/learn/topics/images/9tqt67s8d6avoewgdwqb4t5o95yxx2wm5gy7ynpdu6cocu70lzmzzq5yu42j6wg5dsp3lopnd2lc8hg8_1762025949.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/">smallcultfollowing.com</a> | <a href="https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait">discussion</a></small></p><hr/><p>The article explores two different approaches to handling supertrait obligations in Rust: modular proofs and external proofs. In a modular proof system, a trait implementation must establish that all supertrait requirements are met. In an external proof system, the responsibility for proving that supertraits hold is shifted to the code using the implementation. The author argues that for Rust to support cyclic trait implementations, it must adopt a modular proof strategy.</p><p>The argument for modular proofs stems from a fundamental inconsistency that external proofs would create with Rust's handling of `unsafe` implementations. Because `unsafe impl` requires the implementation itself to prove its safety conditions, a system that requires external callers to prove supertraits would be incompatible with the existing logic of the language's type system.</p><p><img src="https://bmreducation.in/api/v5/education/web/learn/topics/images/9tqt67s8d6avoewgdwqb4t5o95yxx2wm5gy7ynpdu6cocu70lzmzzq5yu42j6wg5dsp3lopnd2lc8hg8_1762025949.webp" /></p><hr/><small>11 Oct 2026, 06:11 UTC | #23912</small>]]></content>
+  </entry>
   <entry>
     <title>WallHop Launches as Paywall Bypass Tool</title>
     <link href="https://wallhop.io/" rel="alternate" />
