@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-11T19:44:00+00:00</updated>
+  <updated>2026-10-11T19:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Ukrainian Drone Strike Hits Yandex Data Center in Vladimir</title>
+    <link href="https://www.kyivpost.com/post/86708" rel="alternate" />
+    <id>https://www.kyivpost.com/post/86708::v239</id>
+    <published>2026-10-11T19:45:00+00:00</published>
+    <updated>2026-10-11T19:45:00+00:00</updated>
+    <media:thumbnail url="https://sundayguardianlive.com/wp-content/uploads/2026/06/russia-ukraine-war-latest-ukraine-intensifies-drone-attacks-on-russian-energy-network-sevastopol-faces-power-restrictions.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.kyivpost.com/post/86708">kyivpost.com</a> | <a href="https://news.ycombinator.com/item?id=50045109">hacker news</a></small></p><hr/><p>A strike by Ukrainian drones against a Yandex data center in Vladimir, Russia, has disrupted over 80 digital and cloud services. The attack on the 40-to-50-megawatt facility has halted operations, impacting consumer services like Alice and Yandex Music, as well as enterprise-level cloud computing, storage, and AI tools such as the YandexGPT API.</p><p>This is the third strike on Yandex infrastructure in four days, following recent attacks in Sasovo and Kaluga. In addition to digital outages, the strike damaged local electrical substations, disrupting municipal power, heat, and water supplies in the Vladimir region.</p><p><img src="https://sundayguardianlive.com/wp-content/uploads/2026/06/russia-ukraine-war-latest-ukraine-intensifies-drone-attacks-on-russian-energy-network-sevastopol-faces-power-restrictions.jpg" /></p><hr/><small>11 Oct 2026, 23:21 UTC | #23947</small>]]></content>
+  </entry>
   <entry>
     <title>The Onion Seeks to Purchase Specific Print Issues</title>
     <link href="https://theonion.com/archivehunt/" rel="alternate" />
@@ -758,14 +767,5 @@
     <updated>2026-10-07T01:06:00+00:00</updated>
     <media:thumbnail url="https://neurohive.io/wp-content/uploads/2026/02/GLM-5-benchmarks-results.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken">interconnects.ai</a></small></p><hr/><p>Despite Anthropic's warnings that Zhipu AI's GLM-5.3 model possesses "Mythos-level" capabilities for autonomous exploit generation, the model's open-weights release has not yet resulted in any major cyberattacks. This lack of observed real-world harm challenges the argument that releasing frontier-class open-weights models poses an inherently uncontrollable security risk.</p><p>Anthropic's research previously emphasized the danger of high-capability models enabling both state and non-state actors to conduct sophisticated, end-to-end attacks. The continued absence of widespread exploitation following the model's availability provides a counter-argument to proponents of strict regulation and bans on open-source AI models.</p><p><img src="https://neurohive.io/wp-content/uploads/2026/02/GLM-5-benchmarks-results.png" /></p><hr/><small>7 Oct 2026, 08:18 UTC | #23501</small>]]></content>
-  </entry>
-  <entry>
-    <title>SpaceX Seeks $40 Billion to Purchase Nvidia Chips</title>
-    <link href="https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51" rel="alternate" />
-    <id>https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51::v239</id>
-    <published>2026-10-06T23:16:00+00:00</published>
-    <updated>2026-10-06T23:16:00+00:00</updated>
-    <media:thumbnail url="https://wimg.sedaily.com/news/cms/2026/03/25/news-p.v1.20260325.73499720e0fd4dd499b48342a9db273f_P1.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51">ft.com</a></small></p><hr/><p>SpaceX is seeking to raise $40 billion in financing, comprising approximately $10 billion in bank loans and $30 billion in investment-grade debt, to purchase Nvidia chips. Apollo is reportedly leading the massive financing effort.</p><p>The scale of the proposed debt reflects the extreme capital expenditure required to secure the high-performance computing infrastructure necessary for artificial intelligence development.</p><p><img src="https://wimg.sedaily.com/news/cms/2026/03/25/news-p.v1.20260325.73499720e0fd4dd499b48342a9db273f_P1.png" /></p><hr/><small>7 Oct 2026, 06:29 UTC | #23497</small>]]></content>
   </entry>
 </feed>
