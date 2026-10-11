@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-11T14:29:00+00:00</updated>
+  <updated>2026-10-11T20:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>David Bushell Explains Domain Name Misreadings and Etymology</title>
+    <link href="https://dbushell.com/2026/10/11/d-bus-hell/" rel="alternate" />
+    <id>https://dbushell.com/2026/10/11/d-bus-hell/::v239</id>
+    <published>2026-10-11T20:37:00+00:00</published>
+    <updated>2026-10-11T20:37:00+00:00</updated>
+    <media:thumbnail url="https://static.wixstatic.com/media/a040bc_08f625587e5249ad880e138835fb02a7~mv2.jpg/v1/fill/w_625,h_350,al_c/a040bc_08f625587e5249ad880e138835fb02a7~mv2.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dbushell.com/2026/10/11/d-bus-hell/">dbushell.com</a> | <a href="https://lobste.rs/s/qgybwb/d_bus_hell">discussion</a></small></p><hr/><p>The domain dbushell.com is frequently misread by commenters as "D-Bus Hell," a confusion the author addresses by clarifying the name is his surname. He notes that the domain has been registered since 2004.</p><p>The essay uses this confusion to examine linguistic phenomena like rebracketing and folk etymology. It also explores the historical origins of the "Bushell" name and the "D-Bus" messaging project.</p><p><img src="https://static.wixstatic.com/media/a040bc_08f625587e5249ad880e138835fb02a7~mv2.jpg/v1/fill/w_625,h_350,al_c/a040bc_08f625587e5249ad880e138835fb02a7~mv2.jpg" /></p><hr/><small>11 Oct 2026, 23:45 UTC | #23962</small>]]></content>
+  </entry>
   <entry>
     <title>ExxonMobil Internal Documents Add to Evidence in Climate Deception Lawsuit</title>
     <link href="https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/" rel="alternate" />
