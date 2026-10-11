@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-11T00:54:00+00:00</updated>
+  <updated>2026-10-11T09:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>The GNU Project Critiques GitHub's Impact on Software Freedom</title>
+    <link href="https://www.gnu.org/philosophy/whats-wrong-with-github.html" rel="alternate" />
+    <id>https://www.gnu.org/philosophy/whats-wrong-with-github.html::v239</id>
+    <published>2026-10-11T09:38:00+00:00</published>
+    <updated>2026-10-11T09:38:00+00:00</updated>
+    <media:thumbnail url="https://cr.today/wp-content/uploads/2026/05/github-copilot-token-based-billing-developer-backlash-1024x538.styled.en.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.gnu.org/philosophy/whats-wrong-with-github.html">gnu.org</a> | <a href="https://lobste.rs/s/u9ue6c/what_s_wrong_with_github">discussion</a> | <a href="https://news.ycombinator.com/item?id=50041739">hacker news</a></small></p><hr/><p>The GNU Project argues that hosting repositories on GitHub exposes developers to practices that undermine software freedom. Key criticisms include the platform's use of nonfree JavaScript, ambiguous licensing practices, and the provision of "Service as a Software Substitute" (SaaSS) through tools like GitHub Copilot.</p><p>GitHub's workflows—specifically its pull request and fork models—are described as mechanisms that centralize a system designed to be distributed. Additionally, the essay identifies gamified "achievements" and the obscuring of user email addresses as social and technical barriers that hinder decentralized collaboration.</p><p><img src="https://cr.today/wp-content/uploads/2026/05/github-copilot-token-based-billing-developer-backlash-1024x538.styled.en.webp" /></p><hr/><small>11 Oct 2026, 12:46 UTC | #23925</small>]]></content>
+  </entry>
   <entry>
     <title>Computers Cannot Make Decisions</title>
     <link href="https://wiki.cateat.fish/art:computers_cannot_make_decisions" rel="alternate" />
