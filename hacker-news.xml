@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-11T00:51:00+00:00</updated>
+  <updated>2026-10-11T00:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Harris HF-10 Switched-Capacitor Filter Die Analysis</title>
+    <link href="https://www.righto.com/2026/10/ML10-switched-capacitor-filter.html" rel="alternate" />
+    <id>https://www.righto.com/2026/10/ML10-switched-capacitor-filter.html::v239</id>
+    <published>2026-10-11T00:55:00+00:00</published>
+    <updated>2026-10-11T00:55:00+00:00</updated>
+    <media:thumbnail url="https://static.righto.com/images/mf10/harris-chip.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.righto.com/2026/10/ML10-switched-capacitor-filter.html">righto.com</a> | <a href="https://lobste.rs/s/mbyawi/inside_1980s_filter_chip_uses_switched">discussion</a> | <a href="https://news.ycombinator.com/item?id=50034640">hacker news</a></small></p><hr/><p>A microscopic examination reveals the internal structure of the HF-10, a version of the National Semiconductor MF10 switched-capacitor filter chip. The die features a grid of 72 polysilicon capacitors and CMOS switches used to construct single-chip analog filters.</p><p>By rapidly toggling switches, the circuit replaces large, inaccurate resistors with small capacitors, making the filter's frequency highly accurate and adjustable via the clock signal. This implementation uses a state variable topology to provide high-pass, band-pass, and low-pass outputs.</p><p><img src="https://static.righto.com/images/mf10/harris-chip.jpg" /></p><hr/><small>11 Oct 2026, 09:00 UTC | #23916</small>]]></content>
+  </entry>
   <entry>
     <title>Building Calibrated Decision Models Using Constrained LLM Decoding</title>
     <link href="https://nishtahir.com/build-your-own-decision-model/" rel="alternate" />
