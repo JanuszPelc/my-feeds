@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-11T10:48:00+00:00</updated>
+  <updated>2026-10-11T12:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Terence Eden Uses Paid User Testing to Improve ActivityBot Documentation</title>
+    <link href="https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/" rel="alternate" />
+    <id>https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/::v239</id>
+    <published>2026-10-11T12:29:00+00:00</published>
+    <updated>2026-10-11T12:29:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/">shkspr.mobi</a> | <a href="https://news.ycombinator.com/item?id=50042219">hacker news</a></small></p><hr/><p>Terence Eden conducted usability tests on the ActivityBot README by paying volunteers to follow the instructions aloud during video calls. This process aimed to identify developer biases and technical errors, including broken links and incorrect command syntax, that the author had overlooked during development.</p><p>The feedback sessions resulted in iterative updates to the documentation to address user confusion regarding file operations and web server permissions. Eden argues that direct human observation is more effective than LLM simulations for detecting the specific nuances of user frustration and practical usability barriers.</p><hr/><small>11 Oct 2026, 16:03 UTC | #23945</small>]]></content>
+  </entry>
   <entry>
     <title>IRCv3 Working Group Develops Modern IRC Protocol Specifications</title>
     <link href="https://ircv3.net/" rel="alternate" />
