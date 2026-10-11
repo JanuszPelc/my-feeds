@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-11T09:46:00+00:00</updated>
+  <updated>2026-10-11T10:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>SQ8L 64-bit Port Released for macOS, Windows, and Linux</title>
+    <link href="https://bedroomproducersblog.com/2026/10/11/sq8l-64-bit/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/11/sq8l-64-bit/::v239</id>
+    <published>2026-10-11T10:45:00+00:00</published>
+    <updated>2026-10-11T10:45:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-CPPl0n5ZdnCcknnPH-vCN4614GVTLrpBb6x9Lf4qpzHYKwYGb9bab1FU69ZMXL3aPBsy0TYpTJllcmT-jQqlbFGan-SV6jBqO9ugxRFgxBECsKqLdSWrKDW1mRiUTsS5dRZpKHGizsQ4A-7JYoqjzfvpQFT1cyJ_Q3T9avB7pVvmsb-vo5cQ/s1600/s-l1600-2.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/11/sq8l-64-bit/">bedroomproducersblog.com</a> | <a href="https://github.com/sq8l-revival/SQ8L">source</a> | <a href="https://bedroomproducersblog.com/2026/10/11/sq8l-64-bit/#respond">discussion</a></small></p><hr/><p>A 64-bit port of Siegfried Kullmann’s SQ8L, a free emulation of the Ensoniq SQ-80 synthesizer, is now compatible with macOS (Apple Silicon and Intel), Windows, and Linux. The software is available in VST2, VST3, Audio Unit, and CLAP formats.</p><p>The revival team reconstructed the plugin from the original 32-bit binary because the source code was never released. The resulting port is bit-identical to the original software and maintains compatibility with existing projects, libraries, and SysEx files.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-CPPl0n5ZdnCcknnPH-vCN4614GVTLrpBb6x9Lf4qpzHYKwYGb9bab1FU69ZMXL3aPBsy0TYpTJllcmT-jQqlbFGan-SV6jBqO9ugxRFgxBECsKqLdSWrKDW1mRiUTsS5dRZpKHGizsQ4A-7JYoqjzfvpQFT1cyJ_Q3T9avB7pVvmsb-vo5cQ/s1600/s-l1600-2.jpg" /></p><hr/><small>11 Oct 2026, 15:00 UTC | #23920</small>]]></content>
+  </entry>
   <entry>
     <title>Variety of Sound Releases edgeRunner retrograde</title>
     <link href="https://bedroomproducersblog.com/2026/10/11/variety-of-sound-releases-edgerunner/" rel="alternate" />
