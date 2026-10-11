@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-11T06:23:00+00:00</updated>
+  <updated>2026-10-11T06:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>DuckDB 2.0 Alpha Performance Improvements</title>
+    <link href="https://motherduck.com/blog/why-duckdb-20-is-faster/" rel="alternate" />
+    <id>https://motherduck.com/blog/why-duckdb-20-is-faster/::v239</id>
+    <published>2026-10-11T06:25:00+00:00</published>
+    <updated>2026-10-11T06:25:00+00:00</updated>
+    <media:thumbnail url="https://stdin.top/images/duckdb-agg-metrics/throughput.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://motherduck.com/blog/why-duckdb-20-is-faster/">motherduck.com</a> | <a href="https://news.ycombinator.com/item?id=50035530">hacker news</a></small></p><hr/><p>DuckDB 2.0 alpha introduces asynchronous I/O for faster S3 queries, a rewritten recursive CTE engine for efficient deep hierarchy traversal, and a new VARIANT data type. The VARIANT type utilizes "shredding" to extract consistent JSON fields into typed sub-columns, optimizing storage and accelerating field-level queries.</p><p>Benchmarks indicate that reading Parquet files from S3 can be 2–3x faster, while recursive queries on deep structures like git history can see speedups of up to 40x. These enhancements aim to provide semi-structured data processing performance approaching that of fully typed columns.</p><p><img src="https://stdin.top/images/duckdb-agg-metrics/throughput.png" /></p><hr/><small>11 Oct 2026, 11:12 UTC | #23923</small>]]></content>
+  </entry>
   <entry>
     <title>Japan Declares Cyberspace State of Emergency Following Major Cyberattacks</title>
     <link href="https://www.ft.com/content/2d4333d1-8119-44a4-a5a5-2ee9ef2544fa" rel="alternate" />
