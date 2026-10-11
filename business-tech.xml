@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-11T09:41:00+00:00</updated>
+  <updated>2026-10-11T10:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nitter Project Seeks Legal Support Amid X Corp. Takedown Demands</title>
+    <link href="https://nitter.net" rel="alternate" />
+    <id>https://nitter.net::v239</id>
+    <published>2026-10-11T10:38:00+00:00</published>
+    <updated>2026-10-11T10:38:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://nitter.net">nitter.net</a> | <a href="https://news.ycombinator.com/item?id=50041682">hacker news</a></small></p><hr/><p>X Corp. has issued multiple cease and desist letters to the Nitter project, demanding the permanent removal of all Nitter instances and the project's repository. The developer has clarified that the project currently lacks legal counsel to contest these demands.</p><p>To ensure the project's survival, the developer is seeking legal assistance and donations. This update follows the developer's retraction of previous assurances that the project had secured legal representation.</p><hr/><small>11 Oct 2026, 14:15 UTC | #23931</small>]]></content>
+  </entry>
   <entry>
     <title>Neolix and Shenzhen Expand Autonomous Nighttime Delivery Operations</title>
     <link href="https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTUxNTE0MiwiZXhwIjoxNzkyMTE5OTQyLCJhcnRpY2xlSWQiOiJUTU0yS0ZWVFRDWlYwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.b_-nqESa5G-X0MQKjbOdPR74AFxrdzrmpQ8ohKhMqic" rel="alternate" />
@@ -750,14 +758,5 @@
     <updated>2026-10-06T14:46:00+00:00</updated>
     <media:thumbnail url="https://latestnewsandupdates.com/wp-content/uploads/2026/10/ASOS-HACKED-notifies-users-and-threatens-to-publish-data-what-768x422.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/eab7052d-6640-4928-a128-8df73455ba0a">ft.com</a></small></p><hr/><p>Shares of UK retailer Asos dropped more than 10% after customers received mobile app notifications claiming the company's Snowflake instance has been fully compromised. The notifications, which threatened to leak data unless the company engaged with the hackers, have prompted an investigation by Asos.</p><p>The messages were delivered via direct push notifications to app users, alleging a breach of the company's cloud-based data infrastructure. The incident has caused immediate market volatility for the FTSE 250 retailer.</p><p><img src="https://latestnewsandupdates.com/wp-content/uploads/2026/10/ASOS-HACKED-notifies-users-and-threatens-to-publish-data-what-768x422.jpg" /></p><hr/><small>6 Oct 2026, 20:23 UTC | #23429</small>]]></content>
-  </entry>
-  <entry>
-    <title>Companies Switch to Open-Weight AI Models to Manage Rising Costs</title>
-    <link href="https://aiweekly.co/issues/ai-got-too-expensive-so-companies-are-moving-to-cheaper" rel="alternate" />
-    <id>https://aiweekly.co/issues/ai-got-too-expensive-so-companies-are-moving-to-cheaper::v239</id>
-    <published>2026-10-06T14:12:00+00:00</published>
-    <updated>2026-10-06T14:12:00+00:00</updated>
-    <media:thumbnail url="https://www.intelligentliving.co/wp-content/uploads/2026/04/analyzing-ai-access-open-source-open-weight-and-api-only-models.jpg" />
-    <content type="html"><![CDATA[<p><small>AI Weekly | <a href="https://aiweekly.co/issues/ai-got-too-expensive-so-companies-are-moving-to-cheaper">aiweekly.co</a></small></p><hr/><p>Companies are increasingly shifting from proprietary AI providers to open-weight models to mitigate rising costs and protect profit margins. Legal AI startup Harvey, for example, moved to Moonshot’s Kimi K3 to stabilize margins after a 20-fold increase in token usage caused its gross margins to drop to -50% while using OpenAI and Anthropic models.</p><p>This shift enables enterprises to treat AI models as swappable commodities that can be changed based on price and performance. As organizations optimize for metrics like "cost per completed task," AI deployment is expanding across diverse sectors, including algorithmic food pricing, medical research tools, and customer promotion targeting.</p><p><img src="https://www.intelligentliving.co/wp-content/uploads/2026/04/analyzing-ai-access-open-source-open-weight-and-api-only-models.jpg" /></p><hr/><small>6 Oct 2026, 19:55 UTC | #23476</small>]]></content>
   </entry>
 </feed>

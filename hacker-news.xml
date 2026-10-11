@@ -956,13 +956,4 @@
     <updated>2026-10-06T18:30:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dbushell.com/2026/10/07/sustainable-web-career/">dbushell.com</a> | <a href="https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this">discussion</a> | <a href="https://news.ycombinator.com/item?id=49982921">hacker news</a></small></p><hr/><p>The web industry is currently experiencing financial and professional instability. To navigate this transition and ensure long-term career viability, developers should prioritize high-demand, foundational skills over ephemeral industry trends.</p><p>Professional focus should be directed toward web accessibility, advanced CSS architecture, and interpersonal communication. Avoiding heavy reliance on React, centralized hosting like GitHub for private code, and the influence of the social media attention economy is recommended for a sustainable practice.</p><hr/><small>6 Oct 2026, 21:41 UTC | #23480</small>]]></content>
   </entry>
-  <entry>
-    <title>Spoonful Static Site Generator Written in Nix</title>
-    <link href="https://tangled.org/poacher.dev/spoonful" rel="alternate" />
-    <id>https://tangled.org/poacher.dev/spoonful::v239</id>
-    <published>2026-10-06T14:11:00+00:00</published>
-    <updated>2026-10-06T14:11:00+00:00</updated>
-    <media:thumbnail url="https://devpractical.com/public/2022/static-site-generator.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://tangled.org/poacher.dev/spoonful">tangled.org</a> | <a href="https://lobste.rs/s/az2lgv/spoonful_static_site_generator_written">discussion</a></small></p><hr/><p>Spoonful is a static site generator written in Nix that uses plain Nix for content authoring. The tool supports fast, cached builds.</p><p>Its features include RSS feeds, sitemaps, and syntax-highlighted code with light and dark themes. Command-line utilities allow for live previews and page scaffolding.</p><p><img src="https://devpractical.com/public/2022/static-site-generator.png" /></p><hr/><small>6 Oct 2026, 19:49 UTC | #23475</small>]]></content>
-  </entry>
 </feed>
