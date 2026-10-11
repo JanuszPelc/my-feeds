@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-11T14:32:00+00:00</updated>
+  <updated>2026-10-11T14:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>PolyAI and Otter Executives Discuss Limitations of Voice AI</title>
+    <link href="https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/::v239</id>
+    <published>2026-10-11T14:40:00+00:00</published>
+    <updated>2026-10-11T14:40:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/">techcrunch.com</a></small></p><hr/><p>Voice AI technology lacks the reasoning speed and transcription accuracy required to reach the transformative "ChatGPT moment" seen in text-based models. While full-duplex models can listen and speak simultaneously, current limitations in Automatic Speech Recognition (ASR) and processing speeds prevent the fluid, natural conversation necessary for high-trust enterprise and meeting automation.</p><p>Future developments focus on improving intent capture and creating emotive "digital twins" to enable more strategic, relationship-based discussions. Additionally, industry leaders emphasized the necessity of transparency, specifically through mandatory disclosures when users are interacting with AI agents or are being recorded.</p><hr/><small>11 Oct 2026, 19:08 UTC | #23930</small>]]></content>
+  </entry>
   <entry>
     <title>Byte Language Models Demonstrate Superior Scaling and Emergent Abstractions</title>
     <link href="https://arxiv.org/html/2610.05978v1" rel="alternate" />
