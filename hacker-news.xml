@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-10T21:52:00+00:00</updated>
+  <updated>2026-10-11T00:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>WallHop Launches as Paywall Bypass Tool</title>
+    <link href="https://wallhop.io/" rel="alternate" />
+    <id>https://wallhop.io/::v239</id>
+    <published>2026-10-11T00:47:00+00:00</published>
+    <updated>2026-10-11T00:47:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://wallhop.io/">wallhop.io</a> | <a href="https://news.ycombinator.com/item?id=50038634">hacker news</a></small></p><hr/><p>WallHop is a web utility designed to bypass website paywalls without requiring a user signup. Users can access content by pasting URLs, prefixing links with a forward slash, or using the service through an iPhone shortcut and a browser bookmarklet.</p><p>Developed as a replacement for the discontinued 12ft.io, the service also provides a "raw" mode and an API for direct content retrieval. The developer includes a disclaimer encouraging users to subscribe to the news sites they frequently visit to support journalism.</p><hr/><small>11 Oct 2026, 05:37 UTC | #23910</small>]]></content>
+  </entry>
   <entry>
     <title>Android Vulnerability Enables 1-Click MMI Execution</title>
     <link href="https://karansaini.com/mmi-android/" rel="alternate" />
