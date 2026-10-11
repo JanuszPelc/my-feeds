@@ -965,12 +965,4 @@
     <media:thumbnail url="https://devpractical.com/public/2022/static-site-generator.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://tangled.org/poacher.dev/spoonful">tangled.org</a> | <a href="https://lobste.rs/s/az2lgv/spoonful_static_site_generator_written">discussion</a></small></p><hr/><p>Spoonful is a static site generator written in Nix that uses plain Nix for content authoring. The tool supports fast, cached builds.</p><p>Its features include RSS feeds, sitemaps, and syntax-highlighted code with light and dark themes. Command-line utilities allow for live previews and page scaffolding.</p><p><img src="https://devpractical.com/public/2022/static-site-generator.png" /></p><hr/><small>6 Oct 2026, 19:49 UTC | #23475</small>]]></content>
   </entry>
-  <entry>
-    <title>FBI Removes Accenture Contractor Following Employee Data Breach</title>
-    <link href="https://www.reuters.com/technology/accenture-contractor-removed-fbi-following-damaging-data-breach-sources-say-2026-10-06/" rel="alternate" />
-    <id>https://www.reuters.com/technology/accenture-contractor-removed-fbi-following-damaging-data-breach-sources-say-2026-10-06/::v239</id>
-    <published>2026-10-06T13:48:00+00:00</published>
-    <updated>2026-10-06T13:48:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/technology/accenture-contractor-removed-fbi-following-damaging-data-breach-sources-say-2026-10-06/">reuters.com</a></small></p><hr/><p>An Accenture contractor has been removed from the FBI after a failure to implement a required security patch led to a data breach. The incident exposed the sensitive personal information of thousands of bureau employees through a vulnerability in an Oracle PeopleSoft system.</p><p>The breach is linked to the threat actor group ShinyHunters. While Accenture stated it remains committed to the FBI's mission, the bureau is still assessing the full impact of the data exposure on its staff and operational security.</p><hr/><small>6 Oct 2026, 18:38 UTC | #23423</small>]]></content>
-  </entry>
 </feed>
