@@ -199,12 +199,4 @@
     <updated>2026-10-06T22:50:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://developers.openai.com/api/docs/guides/decisions">developers.openai.com</a> | <a href="https://news.ycombinator.com/item?id=49984025">hacker news</a></small></p><hr/><p>The Decisions API is in public beta, offering a high-speed endpoint for the rapid evaluation of text and images. Powered by the `gpt-6-luna` model, the API returns structured, typed answers—including probabilities, specific choices, or weighted scores—and is designed to operate up to 10 times faster than the Responses API.</p><p>The API is intended to facilitate tasks such as content classification, request routing, and workflow prioritization. It supports three distinct question types: `predicate` for evaluating conditional probabilities, `choice` for selecting from a fixed set of values, and `score` for rating inputs against ordered levels.</p><hr/><small>7 Oct 2026, 06:16 UTC | #23512</small>]]></content>
   </entry>
-  <entry>
-    <title>OpenAI Releases Mathematical Results Produced by Internal Model</title>
-    <link href="https://openai.com/index/sharing-ai-progress-in-mathematics/" rel="alternate" />
-    <id>https://openai.com/index/sharing-ai-progress-in-mathematics/::v239</id>
-    <published>2026-10-06T22:45:00+00:00</published>
-    <updated>2026-10-06T22:45:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://openai.com/index/sharing-ai-progress-in-mathematics/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=49984923">hacker news</a></small></p><hr/><p>OpenAI has released a collection of mathematical results produced by an internal frontier model, addressing open problems in mathematics and theoretical computer science. The release includes formal Lean proof formalizations, reasoning walkthroughs, and research manuscripts to allow the scientific community to verify the results.</p><p>On average, the computational effort required for these results was equivalent to approximately three hours of ChatGPT Pro "thinking" time. The company is sharing these formalizations and proof certificates to assist researchers in examining and expanding upon the AI-generated discoveries.</p><hr/><small>7 Oct 2026, 05:34 UTC | #23495</small>]]></content>
-  </entry>
 </feed>
