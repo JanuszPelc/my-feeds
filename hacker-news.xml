@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-11T10:44:00+00:00</updated>
+  <updated>2026-10-11T10:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>IRCv3 Working Group Develops Modern IRC Protocol Specifications</title>
+    <link href="https://ircv3.net/" rel="alternate" />
+    <id>https://ircv3.net/::v239</id>
+    <published>2026-10-11T10:48:00+00:00</published>
+    <updated>2026-10-11T10:48:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ircv3.net/">ircv3.net</a> | <a href="https://news.ycombinator.com/item?id=50041540">hacker news</a></small></p><hr/><p>The IRCv3 Working Group prototypes and develops specifications to modernize the Internet Relay Chat (IRC) protocol. These extensions are designed to be backwards-compatible with existing clients and servers, introducing features such as SASL-based authentication, message metadata, instant away notifications, and server-side timestamps.</p><p>Active development efforts include standardizing account registration, facilitating chat history access, implementing secure connection detection (STS), and enabling Unicode support for nicknames and channel names.</p><hr/><small>11 Oct 2026, 15:33 UTC | #23941</small>]]></content>
+  </entry>
   <entry>
     <title>NumPy 2.5 Optimizes `searchsorted` with Vectorized Binary Search</title>
     <link href="https://blog.scientific-python.org/numpy/searchsorted/" rel="alternate" />
