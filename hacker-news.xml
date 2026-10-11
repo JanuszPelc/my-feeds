@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-11T09:44:00+00:00</updated>
+  <updated>2026-10-11T10:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>NumPy 2.5 Optimizes `searchsorted` with Vectorized Binary Search</title>
+    <link href="https://blog.scientific-python.org/numpy/searchsorted/" rel="alternate" />
+    <id>https://blog.scientific-python.org/numpy/searchsorted/::v239</id>
+    <published>2026-10-11T10:44:00+00:00</published>
+    <updated>2026-10-11T10:44:00+00:00</updated>
+    <media:thumbnail url="https://blog.scientific-python.org/numpy/searchsorted/images/figure1-fs8.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.scientific-python.org/numpy/searchsorted/">blog.scientific-python.org</a> | <a href="https://lobste.rs/s/fbs3k7/making_np_searchsorted_up_25x_faster">discussion</a></small></p><hr/><p>NumPy 2.5 introduces a vectorized implementation of `np.searchsorted` that can be up to 25× faster than the version used in NumPy 2.4. By batching binary search steps across all query keys simultaneously, the new algorithm improves cache locality and allows the CPU to perform multiple memory accesses in flight.</p><p>The implementation reduces per-query memory overhead by tracking interval boundaries and lengths instead of separate low and high indices, requiring only $O(1)$ additional memory beyond the output. This optimization enhances performance for scientific computing tasks, such as histogram computation and interval lookups, in libraries like SciPy and scikit-learn.</p><p><img src="https://blog.scientific-python.org/numpy/searchsorted/images/figure1-fs8.png" /></p><hr/><small>11 Oct 2026, 14:36 UTC | #23933</small>]]></content>
+  </entry>
+  <entry>
+    <title>Logfire Introduces Dynamic Shredding for Faster JSON Queries</title>
+    <link href="https://pydantic.dev/articles/dynamic-shredding-2026-01-26" rel="alternate" />
+    <id>https://pydantic.dev/articles/dynamic-shredding-2026-01-26::v239</id>
+    <published>2026-10-11T10:43:00+00:00</published>
+    <updated>2026-10-11T10:43:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://pydantic.dev/articles/dynamic-shredding-2026-01-26">pydantic.dev</a> | <a href="https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire">discussion</a></small></p><hr/><p>Logfire's "dynamic shredding" optimization accelerates queries for semi-structured OpenTelemetry data by automatically extracting frequently accessed attributes from JSON blobs into separate, strongly typed Parquet columns. By leveraging columnar storage benefits such as zone map pruning and improved compression, the update can reduce query runtimes from 30 seconds to under one second for certain attributes.</p><p>This technique addresses the high I/O and CPU overhead caused by scanning large, variable JSON blobs in object storage. Unlike previous static shredding methods that required manual configuration of specific attributes, dynamic shredding operates automatically and transparently. The feature is scheduled for a full rollout to all Logfire customers starting in February 2026.</p><hr/><small>11 Oct 2026, 14:31 UTC | #23932</small>]]></content>
+  </entry>
   <entry>
     <title>Analysis of Git Commit Size and Compression Efficiency</title>
     <link href="https://ratfactor.com/cards/git-commit-size" rel="alternate" />

@@ -527,30 +527,4 @@
     <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/LARYNX-2@2000X1500.jpg" />
     <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/the-larynx-a-new-feature-packed-hard-synth-from-analogfx-is-available-now/">musictech.com</a> | <a href="https://www.analogfx.com/products/larynx/">source</a></small></p><hr/><p>AnalogFX has launched the LARYNX, a 37-key performance-focused analogue synthesizer inspired by the Synton Syrinx. The instrument features an aftertouch keyboard, extensive real-time modulation, and a unique triple-filter formant architecture designed to produce speech-like timbres.</p><p>Built on the SER-2020 architecture, the LARYNX utilizes two CEM3340-based VCOs, a sub-oscillator, and a noise generator. It also includes a 16-step sequencer, an arpeggiator, and a five-voice oscillator chord mode, with an initial production run limited to 50 units.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/LARYNX-2@2000X1500.jpg" /></p><hr/><small>6 Oct 2026, 20:31 UTC | #23450</small>]]></content>
   </entry>
-  <entry>
-    <title>Temecula DSP Releases Nibbi Free Sampler Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/10/06/temecula-dsp-nibbi/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/06/temecula-dsp-nibbi/::v239</id>
-    <published>2026-10-06T14:45:00+00:00</published>
-    <updated>2026-10-06T14:45:00+00:00</updated>
-    <media:thumbnail url="https://synthanatomy.com/wp-content/uploads/2024/05/Chompi-Club-Tempo-firmware.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/06/temecula-dsp-nibbi/">bedroomproducersblog.com</a> | <a href="https://www.temeculadsp.com/nibbi">source</a> | <a href="https://bedroomproducersblog.com/2026/10/06/temecula-dsp-nibbi/#respond">discussion</a></small></p><hr/><p>Temecula DSP has released Nibbi, a free sampler plugin for macOS and Windows based on the open-source firmware of the CHOMPI hardware sampler. The instrument features seven voices, S950 playback, and a built-in tape looper for rhythmic sample slicing and manual sound manipulation.</p><p>Nibbi is available in VST3, AU, and AAX formats, as well as a standalone desktop application. The plugin ports the workflow and sound engine of the CHOMPI hardware directly into digital audio workstations.</p><p><img src="https://synthanatomy.com/wp-content/uploads/2024/05/Chompi-Club-Tempo-firmware.jpg" /></p><hr/><small>6 Oct 2026, 20:05 UTC | #23470</small>]]></content>
-  </entry>
-  <entry>
-    <title>Idle Foundry Releases CA-72 Open-Source Minimoog-Inspired Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/10/06/ca-72-minimoog/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/06/ca-72-minimoog/::v239</id>
-    <published>2026-10-06T14:39:00+00:00</published>
-    <updated>2026-10-06T14:39:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/06/ca-72-minimoog/">bedroomproducersblog.com</a> | <a href="https://github.com/idlefoundry/ca-72">source</a> | <a href="https://bedroomproducersblog.com/2026/10/06/ca-72-minimoog/#comments">discussion</a></small></p><hr/><p>Idle Foundry has released CA-72, a free and open-source synthesizer plugin modeled after the 1972-73 Minimoog Model D circuit. The plugin uses a digital model of the CA3046-era oscillator board and is available in VST3 and CLAP formats for macOS, Windows, and Linux.</p><p>The software provides 2 to 10 voices of polyphony and incorporates features like per-voice variation, drift, stereo spread, and feedback. These elements are designed to emulate the specific sonic characteristics of the vintage three-oscillator, ladder-filter architecture.</p><hr/><small>6 Oct 2026, 20:03 UTC | #23471</small>]]></content>
-  </entry>
-  <entry>
-    <title>HoRNet Butterfly Mastering Plugin Available via BPB Giveaway</title>
-    <link href="https://bedroomproducersblog.com/2026/10/06/bpb-exclusive-hornet-butterfly/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/06/bpb-exclusive-hornet-butterfly/::v239</id>
-    <published>2026-10-06T14:22:00+00:00</published>
-    <updated>2026-10-06T14:22:00+00:00</updated>
-    <media:thumbnail url="https://plugins.audio/__og-image__/image/products/hornet-plugins/hornet-butterfly/og.png" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/06/bpb-exclusive-hornet-butterfly/">bedroomproducersblog.com</a> | <a href="https://www.hornetplugins.com/plugins/hornet-butterfly/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/06/bpb-exclusive-hornet-butterfly/#comments">discussion</a></small></p><hr/><p>The Butterfly mastering processor and channel strip from HoRNet Plugins is available for free through a Bedroom Producers Blog (BPB) exclusive giveaway. This promotion runs from October 6 to October 10, 2026.</p><p>Retailing for €37.99, the plugin is designed to function as both a mastering tool and a channel strip for stereo mixes. To claim the plugin, users must apply the coupon code BPBBUTTERFLY.</p><p><img src="https://plugins.audio/__og-image__/image/products/hornet-plugins/hornet-butterfly/og.png" /></p><hr/><small>6 Oct 2026, 20:01 UTC | #23442</small>]]></content>
-  </entry>
 </feed>
