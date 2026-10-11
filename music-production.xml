@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-11T10:45:00+00:00</updated>
+  <updated>2026-10-11T10:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Pointless Audio Releases PortaTwin Cassette Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/11/pointless-audio-portatwin/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/11/pointless-audio-portatwin/::v239</id>
+    <published>2026-10-11T10:46:00+00:00</published>
+    <updated>2026-10-11T10:46:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/ts440_kvr.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/11/pointless-audio-portatwin/">bedroomproducersblog.com</a> | <a href="https://pointlessaudio.studio/plugins/portatwin/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/11/pointless-audio-portatwin/#comments">discussion</a></small></p><hr/><p>PortaTwin is a channel strip plugin modeled after the 1987 Tascam Porta Two Ministudio. Available for Mac and Windows in VST3, AU, and CLAP formats, the software is a pay-what-you-want emulation of a four-track cassette recorder.</p><p>The plugin simulates the audio characteristics of vintage tape machines, including preamp clipping, wow, flutter, and tape hiss. These features are intended to replicate the sonic texture of era-specific bedroom recordings.</p><p><img src="https://static.kvraudio.com/i/b/ts440_kvr.jpg" /></p><hr/><small>11 Oct 2026, 15:17 UTC | #23919</small>]]></content>
+  </entry>
   <entry>
     <title>SQ8L 64-bit Port Released for macOS, Windows, and Linux</title>
     <link href="https://bedroomproducersblog.com/2026/10/11/sq8l-64-bit/" rel="alternate" />
