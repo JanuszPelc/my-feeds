@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-11T09:42:00+00:00</updated>
+  <updated>2026-10-11T18:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Nanolathe Open-Source Engine Rebuilds Total Annihilation for Modern Computers</title>
+    <link href="https://nanolathe.gg" rel="alternate" />
+    <id>https://nanolathe.gg::v239</id>
+    <published>2026-10-11T18:05:00+00:00</published>
+    <updated>2026-10-11T18:05:00+00:00</updated>
+    <media:thumbnail url="https://nanolathe.gg/images/renderer/hero-living-base-e2ac78cd.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://nanolathe.gg">nanolathe.gg</a> | <a href="https://news.ycombinator.com/item?id=50045984">hacker news</a></small></p><hr/><p>Nanolathe is an open-source, MIT-licensed 2.5D RTS engine that reimplements Total Annihilation through clean-room research for modern hardware. It features a modern GPU renderer with enhanced lighting and detail, alongside a classic CPU renderer that replicates the original aesthetic.</p><p>The project is in public beta and offers a browser-based demo featuring three original missions. To access the full campaign, skirmish modes, or online multiplayer, users must install the native client on Windows, Mac, or Linux and provide their own game files from platforms like Steam or GOG.</p><p><img src="https://nanolathe.gg/images/renderer/hero-living-base-e2ac78cd.webp" /></p><hr/><small>11 Oct 2026, 21:06 UTC | #23960</small>]]></content>
+  </entry>
   <entry>
     <title>Pat Kerr Recreates 1996 Grand Theft Auto Vehicle Physics Prototype</title>
     <link href="https://patkerr.co.uk/2d-vehicles/" rel="alternate" />
