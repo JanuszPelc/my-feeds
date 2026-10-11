@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-10T21:48:00+00:00</updated>
+  <updated>2026-10-11T09:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Neolix and Shenzhen Expand Autonomous Nighttime Delivery Operations</title>
+    <link href="https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTUxNTE0MiwiZXhwIjoxNzkyMTE5OTQyLCJhcnRpY2xlSWQiOiJUTU0yS0ZWVFRDWlYwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.b_-nqESa5G-X0MQKjbOdPR74AFxrdzrmpQ8ohKhMqic" rel="alternate" />
+    <id>https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTUxNTE0MiwiZXhwIjoxNzkyMTE5OTQyLCJhcnRpY2xlSWQiOiJUTU0yS0ZWVFRDWlYwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.b_-nqESa5G-X0MQKjbOdPR74AFxrdzrmpQ8ohKhMqic::v239</id>
+    <published>2026-10-11T09:41:00+00:00</published>
+    <updated>2026-10-11T09:41:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/features/2026-10-08/china-s-delivery-robots-are-learning-to-tackle-the-night-shift?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTUxNTE0MiwiZXhwIjoxNzkyMTE5OTQyLCJhcnRpY2xlSWQiOiJUTU0yS0ZWVFRDWlYwMCIsImJjb25uZWN0SWQiOiJDNTc5RDIwMDZBQjQ0RjRDODkwMTU0M0U0ODMxNkJCNiJ9.b_-nqESa5G-X0MQKjbOdPR74AFxrdzrmpQ8ohKhMqic">bloomberg.com</a></small></p><hr/><p>Autonomous vehicle companies are targeting the nighttime logistics market to expand service windows and address technical navigation challenges. Beijing-based Neolix, which operates 27,000 robovans, and the city of Shenzhen are leading these efforts by deploying driverless vehicles for after-dark parcel deliveries.</p><p>Shenzhen has rapidly expanded its autonomous nighttime delivery infrastructure, growing from two routes to over 300 following the authorization of unmanned vehicle road access. These operations are intended to tap into high-demand delivery windows during hours when road congestion is typically lower.</p><hr/><small>11 Oct 2026, 13:09 UTC | #23913</small>]]></content>
+  </entry>
   <entry>
     <title>Satya Nadella Proposes 'Emergency Brake' for AI Model Safety</title>
     <link href="https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/" rel="alternate" />
