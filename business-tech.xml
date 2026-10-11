@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-10T14:44:00+00:00</updated>
+  <updated>2026-10-10T16:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Tech and AI Leaders Use Slack Workspace to Influence US Health Policy</title>
+    <link href="https://www.cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack/" rel="alternate" />
+    <id>https://www.cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack/::v239</id>
+    <published>2026-10-10T16:51:00+00:00</published>
+    <updated>2026-10-10T16:51:00+00:00</updated>
+    <media:thumbnail url="https://public.flourish.studio/story/3826105/thumbnail" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack/">cbsnews.com</a></small></p><hr/><p>Tech companies and Trump administration officials have used a private Slack workspace to coordinate campaigns promoting AI-powered healthcare tools and digital medical record management. Representatives from firms including Microsoft, Apple, and Google have engaged in direct communication with officials from the Centers for Medicare &amp; Medicaid Services (CMS) and the Food and Drug Administration (FDA) to discuss shaping federal policy.</p><p>The workspace, which has grown to 1,700 members, is reportedly dominated by industry lobbyists, with limited participation from doctors or patient advocates. Legal experts suggest the arrangement may bypass federal requirements for public transparency in advisory committees, potentially allowing the tech industry to influence federal health guidance and Medicare reimbursement models.</p><p><img src="https://public.flourish.studio/story/3826105/thumbnail" /></p><hr/><small>11 Oct 2026, 00:03 UTC | #23881</small>]]></content>
+  </entry>
+  <entry>
+    <title>Property Tax Reforms Shift Burden from Homeowners to Commercial Owners</title>
+    <link href="https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/" rel="alternate" />
+    <id>https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/::v239</id>
+    <published>2026-10-10T15:25:00+00:00</published>
+    <updated>2026-10-10T15:25:00+00:00</updated>
+    <media:thumbnail url="https://propertytax-plus.com/wp-content/uploads/2024/08/Understanding-Property-Tax-Differences-Commercial-vs.-Residential.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/">conversableeconomist.com</a> | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7377158">source</a> | <a href="https://news.ycombinator.com/item?id=50032758">hacker news</a></small></p><hr/><p>Property tax reforms in several U.S. states are increasingly shifting the tax burden away from owner-occupied residential homes and toward commercial property owners, state funding, and other local taxes. These changes are often driven by homeowners seeking relief from the "wealth tax" effect, where rising property values increase tax liabilities without a corresponding increase in liquid income.</p><p>Such shifts may result in higher overall housing costs for future buyers and act as a mechanism for transferring wealth to current homeowners who have already benefited from market appreciation. Additionally, these reforms can lead to increased state-level control over local governments and more volatile local revenue streams for services like schools and police.</p><p><img src="https://propertytax-plus.com/wp-content/uploads/2024/08/Understanding-Property-Tax-Differences-Commercial-vs.-Residential.jpg" /></p><hr/><small>11 Oct 2026, 00:01 UTC | #23900</small>]]></content>
+  </entry>
   <entry>
     <title>Book Publishers Implement AI Tools Amid Employee Protests</title>
     <link href="https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/" rel="alternate" />
