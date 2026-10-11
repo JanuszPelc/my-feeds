@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-10T05:56:00+00:00</updated>
+  <updated>2026-10-10T21:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>AI-Decompiled Web Browser Ports of Classic Games Demonstrate High Performance</title>
+    <link href="https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300" rel="alternate" />
+    <id>https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300::v239</id>
+    <published>2026-10-10T21:07:00+00:00</published>
+    <updated>2026-10-10T21:07:00+00:00</updated>
+    <media:thumbnail url="https://help.apiyi.com/wp-content/uploads/2025/11/claude-opus-4-5-release-guide-image-0.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300">kotaku.com</a> | <a href="https://news.ycombinator.com/item?id=50035561">hacker news</a></small></p><hr/><p>New AI-driven recreations of legacy titles, such as Halo: Combat Evolved and Grand Theft Auto: Vice City, are enabling highly functional web browser ports. These projects are facilitated by Claude Opus 5.5, an AI model capable of decompiling and reconstructing source code with extreme speed.</p><p>This trend creates a continuous legal challenge for game publishers, potentially resulting in a persistent cycle of copyright enforcement. Because modern web browsers possess significantly more memory than the PlayStation 2 and PlayStation 3 consoles originally used for these games, the technical limitations for running them in a browser have been largely removed.</p><p><img src="https://help.apiyi.com/wp-content/uploads/2025/11/claude-opus-4-5-release-guide-image-0.png" /></p><hr/><small>11 Oct 2026, 02:57 UTC | #23893</small>]]></content>
+  </entry>
   <entry>
     <title>Xbox and PlayStation Sales Hit New Lows in the US Amid Rising Prices</title>
     <link href="https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market" rel="alternate" />

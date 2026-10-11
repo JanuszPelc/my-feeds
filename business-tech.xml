@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-10T19:54:00+00:00</updated>
+  <updated>2026-10-10T21:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Satya Nadella Proposes 'Emergency Brake' for AI Model Safety</title>
+    <link href="https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/::v239</id>
+    <published>2026-10-10T21:48:00+00:00</published>
+    <updated>2026-10-10T21:48:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/">techcrunch.com</a> | <a href="https://x.com/satyanadella/status/2108931348857827686">source</a></small></p><hr/><p>Microsoft CEO Satya Nadella has proposed a new "trust architecture" for AI that includes "emergency brakes" to ensure model containment. He argues for separating AI models from the orchestration layers that manage them and requires that all significant model actions be documented with tamper-proof, human-readable evidence. Under this framework, authorized personnel would have the ability to pause or shut down a model mid-task to mitigate risks if the system is compromised.</p><p>The proposal comes as major AI companies address incidents where they have lost control of their models, following similar calls for cautious development from other industry figures like Anthropic CEO Dario Amodei. The suggested approach emphasizes a proactive containment strategy, assuming that advanced models will require standardized technologies to manage their actions and safety.</p><p><img src="https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000" /></p><hr/><small>11 Oct 2026, 02:58 UTC | #23898</small>]]></content>
+  </entry>
   <entry>
     <title>DJI and Insta360 Lead Smart Camera Market as GoPro's Share Falls</title>
     <link href="https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659" rel="alternate" />

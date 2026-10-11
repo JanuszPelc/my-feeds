@@ -945,12 +945,4 @@
     <media:thumbnail url="https://assets.exercism.org/tracks/common-lisp/exercises/pangram/solutions/ExercismGhost-1697814359.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.vivienhenz.com/common-lisp">vivienhenz.com</a> | <a href="https://news.ycombinator.com/item?id=49973598">hacker news</a></small></p><hr/><p>Common Lisp's image-based architecture and interactive debugging offer significant advantages for development workflows utilizing Large Language Models (LLMs). As LLMs accelerate code generation, the developmental bottleneck shifts to the time required to rebuild and execute programs; Common Lisp allows for live updates to a running memory image, effectively eliminating the compilation-restart loop.</p><p>The language's homoiconicity and macro system enable the creation of concise, domain-specific languages that align well with LLM capabilities. This conciseness reduces token costs and increases the likelihood of entire programs fitting within an LLM's context window, while the stable ANSI standard provides a consistent environment for long-term software evolution.</p><p><img src="https://assets.exercism.org/tracks/common-lisp/exercises/pangram/solutions/ExercismGhost-1697814359.jpg" /></p><hr/><small>6 Oct 2026, 10:18 UTC | #23409</small>]]></content>
   </entry>
-  <entry>
-    <title>mailcheck SMTP and DNS Diagnostic Tool</title>
-    <link href="https://git.sig-io.nl/Sig-IO/mailcheck/" rel="alternate" />
-    <id>https://git.sig-io.nl/Sig-IO/mailcheck/::v239</id>
-    <published>2026-10-06T02:45:00+00:00</published>
-    <updated>2026-10-06T02:45:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://git.sig-io.nl/Sig-IO/mailcheck/">git.sig-io.nl</a> | <a href="https://lobste.rs/s/bw7k1r/golang_tool_check_spf_dkim_tlsa_tls">discussion</a></small></p><hr/><p>This Go-based command-line utility diagnoses SMTP, DNS, and TLS configurations to ensure domains are correctly set up to receive mail. It checks MX records, A/AAAA resolution, and TLS connectivity—including STARTTLS and implicit TLS—while validating DANE, SPF, DMARC, and DKIM records.</p><p>The tool supports TLS 1.2 and 1.3, providing certificate parsing and hostname verification for modern AEAD ciphers. It produces human-readable, JSON, or Nagios/Icinga-compatible output, enabling integration into automated monitoring workflows.</p><hr/><small>6 Oct 2026, 08:15 UTC | #23398</small>]]></content>
-  </entry>
 </feed>
