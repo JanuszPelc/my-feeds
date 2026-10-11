@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-11T18:10:00+00:00</updated>
+  <updated>2026-10-11T18:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Implementing Arena Allocators in C</title>
+    <link href="https://eliasebner.com/blog/guides/arena-allocators-in-c/" rel="alternate" />
+    <id>https://eliasebner.com/blog/guides/arena-allocators-in-c/::v239</id>
+    <published>2026-10-11T18:12:00+00:00</published>
+    <updated>2026-10-11T18:12:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:935/1*tPX9wx16aObaHQZAiEsM5w.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://eliasebner.com/blog/guides/arena-allocators-in-c/">eliasebner.com</a> | <a href="https://lobste.rs/s/zziknb/arena_allocators_c">discussion</a></small></p><hr/><p>Arena allocation, or region-based memory management, involves grouping allocations with similar lifetimes into a single large block of memory. This approach reduces the performance overhead of frequent heap operations and simplifies memory management by allowing the entire block to be cleared or freed at once.</p><p>The implementation includes logic for data alignment, a realloc-style function, and utility wrappers. A practical example using a string library demonstrates how this pattern makes memory ownership and lifetimes explicit through function arguments.</p><p><img src="https://miro.medium.com/v2/resize:fit:935/1*tPX9wx16aObaHQZAiEsM5w.png" /></p><hr/><small>11 Oct 2026, 21:33 UTC | #23963</small>]]></content>
+  </entry>
   <entry>
     <title>AI-Generated Campfire Rewrites in Rust, Go, and Elixir</title>
     <link href="https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/" rel="alternate" />
