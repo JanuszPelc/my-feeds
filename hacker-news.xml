@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-11T00:49:00+00:00</updated>
+  <updated>2026-10-11T00:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Building Calibrated Decision Models Using Constrained LLM Decoding</title>
+    <link href="https://nishtahir.com/build-your-own-decision-model/" rel="alternate" />
+    <id>https://nishtahir.com/build-your-own-decision-model/::v239</id>
+    <published>2026-10-11T00:51:00+00:00</published>
+    <updated>2026-10-11T00:51:00+00:00</updated>
+    <media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl_arc.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://nishtahir.com/build-your-own-decision-model/">nishtahir.com</a> | <a href="https://news.ycombinator.com/item?id=50037949">hacker news</a></small></p><hr/><p>"System 1" decision models can be constructed by restricting Large Language Model (LLM) outputs to a fixed set of options through vocabulary masking. This technique allows the model's token probabilities to be interpreted as a direct measure of the likelihood of each predefined answer.</p><p>Experimental results using Qwen/Qwen3-1.7B on the CommonsenseQA dataset show that raw output probabilities are often uncalibrated and exhibit significant overconfidence. The author provides a Python implementation for this constrained decoding approach and demonstrates how temperature scaling can be used to adjust the probability distribution so that model confidence aligns with actual accuracy.</p><p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl_arc.jpg" /></p><hr/><small>11 Oct 2026, 06:27 UTC | #23914</small>]]></content>
+  </entry>
   <entry>
     <title>Modular vs External Proof Strategies for Rust Trait Implementations</title>
     <link href="https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/" rel="alternate" />
