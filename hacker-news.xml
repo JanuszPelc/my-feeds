@@ -991,28 +991,4 @@
     <media:thumbnail url="https://blog.pipetogrep.org/images/laptop_thief1.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/">blog.pipetogrep.org</a> | <a href="https://lobste.rs/s/0slgpl/time_i_worked_with_laptop_thief">discussion</a></small></p><hr/><p>An IT contractor stole more than 30 MacBooks over a year-long scheme to resell the devices. The theft was identified through inventory discrepancies, suspicious Apple repair requests, and unauthorized MDM enrollment notifications originating from Russia, China, and Kazakhstan.</p><p>The contractor used spoofed shipping labels and personal Apple accounts to hide the theft and replace stolen devices with personal property. The scheme also involved a separate theft from a Department of Defense contractor, which ultimately led to an FBI investigation and the contractor's termination.</p><p><img src="https://blog.pipetogrep.org/images/laptop_thief1.png" /></p><hr/><small>6 Oct 2026, 23:22 UTC | #23492</small>]]></content>
   </entry>
-  <entry>
-    <title>Gentoo Maintainer Declares Last Rites for Chromium Package</title>
-    <link href="https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/" rel="alternate" />
-    <id>https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/::v239</id>
-    <published>2026-10-06T18:37:00+00:00</published>
-    <updated>2026-10-06T18:37:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lwn.net/SubscriberLink/1097760/2be4d9e3eeb59039/">lwn.net</a> | <a href="https://bugs.gentoo.org/show_bug.cgi?id=982204">source</a> | <a href="https://lobste.rs/s/fpcicg/last_rites_for_gentoo_s_chromium_package">discussion</a></small></p><hr/><p>Gentoo maintainer Sam James has announced the intent to stop maintaining the Chromium package, a process in Gentoo known as "last rites." The decision stems from the extreme difficulty of managing the package, which is complicated by Chromium's complex build system, its rapid release cycle, and the increasing complexity of its dependencies, including Rust and Go.</p><p>The package will be masked in Gentoo's ebuild repository to prevent users from accidentally installing unmaintained versions. While community members have attempted to provide updated ebuilds via third-party overlays, maintainers noted that the heavy labor required to test various `USE` flags and resolve upstream build failures makes sustainable volunteer maintenance unfeasible.</p><hr/><small>6 Oct 2026, 23:20 UTC | #23496</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Longevity and Utility of Plain Text in Computing</title>
-    <link href="https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/" rel="alternate" />
-    <id>https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/::v239</id>
-    <published>2026-10-06T18:32:00+00:00</published>
-    <updated>2026-10-06T18:32:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/">deadparrotbbs.com</a> | <a href="https://news.ycombinator.com/item?id=49968906">hacker news</a></small></p><hr/><p>Plain text is a uniquely resilient computing technology due to its simplicity and universal readability. Unlike proprietary or rich-text formats that require specific applications to interpret data, plain text relies on character codes accessible across diverse operating systems and software environments.</p><p>The format's compatibility with an ecosystem of command-line tools enables easy inspection, searching, and automation. While structured formats like Markdown provide a way to implement document hierarchy without sacrificing text legibility, plain text's independence from software vendors and cloud dependencies offers significant advantages for long-term data ownership and preservation.</p><hr/><small>6 Oct 2026, 22:20 UTC | #23371</small>]]></content>
-  </entry>
-  <entry>
-    <title>David Bushell Outlines Skills for a Sustainable Web Career</title>
-    <link href="https://dbushell.com/2026/10/07/sustainable-web-career/" rel="alternate" />
-    <id>https://dbushell.com/2026/10/07/sustainable-web-career/::v239</id>
-    <published>2026-10-06T18:30:00+00:00</published>
-    <updated>2026-10-06T18:30:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dbushell.com/2026/10/07/sustainable-web-career/">dbushell.com</a> | <a href="https://lobste.rs/s/jxhi2i/sustainable_web_career_for_when_all_this">discussion</a> | <a href="https://news.ycombinator.com/item?id=49982921">hacker news</a></small></p><hr/><p>The web industry is currently experiencing financial and professional instability. To navigate this transition and ensure long-term career viability, developers should prioritize high-demand, foundational skills over ephemeral industry trends.</p><p>Professional focus should be directed toward web accessibility, advanced CSS architecture, and interpersonal communication. Avoiding heavy reliance on React, centralized hosting like GitHub for private code, and the influence of the social media attention economy is recommended for a sustainable practice.</p><hr/><small>6 Oct 2026, 21:41 UTC | #23480</small>]]></content>
-  </entry>
 </feed>
