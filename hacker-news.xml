@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-11T14:33:00+00:00</updated>
+  <updated>2026-10-11T14:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Plug&amp;Pwn Attack Exploits Windows Plug and Play for Privilege Escalation</title>
+    <link href="https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/" rel="alternate" />
+    <id>https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/::v239</id>
+    <published>2026-10-11T14:37:00+00:00</published>
+    <updated>2026-10-11T14:37:00+00:00</updated>
+    <media:thumbnail url="https://blog.scrt.ch/wp-content/uploads/2026/09/image.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.scrt.ch/2026/10/06/a-practical-guide-to-plugpwn-for-pentesters-and-defenders/">blog.scrt.ch</a> | <a href="https://lobste.rs/s/yrcmjj/practical_guide_plug_pwn_for_pentesters">discussion</a></small></p><hr/><p>The "Plug&amp;Pwn" technique utilizes emulated USB devices to trigger the automatic installation of vulnerable third-party drivers through the Windows Plug and Play (PnP) Manager. By mimicking specific hardware, an attacker can coerce the operating system into downloading flawed driver packages from Windows Update, facilitating arbitrary code execution with `SYSTEM` privileges.</p><p>Researchers demonstrated that these exploits can occur through physical access—including zero-click scenarios—or via Remote Desktop Protocol (RDP) sessions. Because the underlying flaws exist in legacy vendor drivers rather than the Windows kernel, effective mitigation requires system configuration hardening and strict driver deployment policies.</p><p><img src="https://blog.scrt.ch/wp-content/uploads/2026/09/image.png" /></p><hr/><small>11 Oct 2026, 17:57 UTC | #23951</small>]]></content>
+  </entry>
+  <entry>
+    <title>Intel and AMD to Support DDR4 RAM in Upcoming Processors</title>
+    <link href="https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback" rel="alternate" />
+    <id>https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback::v239</id>
+    <published>2026-10-11T14:36:00+00:00</published>
+    <updated>2026-10-11T14:36:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback">theverge.com</a> | <a href="https://www.gigabyte.com/press/news/2460">source</a> | <a href="https://news.ycombinator.com/item?id=50028647">hacker news</a></small></p><hr/><p>Intel and AMD are reintroducing support for DDR4 memory in upcoming processor releases to provide a more affordable alternative to expensive DDR5 modules. Gigabyte announced that its LGA 1700 motherboards will support new Intel chips launching in early 2027, reviving the dual-compatibility for DDR4 and DDR5 that was previously phased out. AMD is also extending the lifecycle of its AM4 platform with new motherboards and refreshes of the Ryzen 7 5800X3D CPU.</p><p>This shift is driven by significant price disparities between memory standards, with DDR5 kits currently costing more than double those of DDR4. By allowing users to upgrade CPUs without requiring a complete system overhaul to DDR5, manufacturers are offering a cost-effective path for builders navigating ongoing RAM shortages and high component prices.</p><hr/><small>11 Oct 2026, 17:54 UTC | #23950</small>]]></content>
+  </entry>
   <entry>
     <title>Mars Pathfinder Mission Resets Caused by Priority Inversion Bug</title>
     <link href="https://nerdyelectronics.com/mars-pathfinder-what-really-happened/" rel="alternate" />
