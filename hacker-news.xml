@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-10T21:06:00+00:00</updated>
+  <updated>2026-10-10T21:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Android Vulnerability Enables 1-Click MMI Execution</title>
+    <link href="https://karansaini.com/mmi-android/" rel="alternate" />
+    <id>https://karansaini.com/mmi-android/::v239</id>
+    <published>2026-10-10T21:52:00+00:00</published>
+    <updated>2026-10-10T21:52:00+00:00</updated>
+    <media:thumbnail url="https://karansaini.com/media/call-phone-permission-dialog.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://karansaini.com/mmi-android/">karansaini.com</a> | <a href="https://lobste.rs/s/txa6dj/1_click_mmi_execution_android">discussion</a></small></p><hr/><p>Attackers can trigger Man-Machine Interface (MMI) and USSD codes on Android devices through a single tap on a malicious web page. By leveraging applications with the `CALL_PHONE` permission and accessible deeplinks, malicious sites can execute carrier-side commands such as unconditional call forwarding. This enables the interception of incoming calls, which can be used to bypass voice-based two-factor authentication.</p><p>A flaw in Android 17, tracked as CVE-2026-49881, allows unprivileged applications to bypass security checks by causing the system to lose the identity of the calling application. Changes to the Telecom service cause the originating process to appear as a privileged system component during a process hand-off. This simplifies the exploitation of MMI codes compared to earlier versions that required specific app vulnerabilities or complex payloads.</p><p><img src="https://karansaini.com/media/call-phone-permission-dialog.png" /></p><hr/><small>11 Oct 2026, 03:38 UTC | #23905</small>]]></content>
+  </entry>
   <entry>
     <title>Studenten Net Twente Announces SNTPings Event to Celebrate SURFnet Infinity Launch</title>
     <link href="https://pings.utwente.io/" rel="alternate" />
