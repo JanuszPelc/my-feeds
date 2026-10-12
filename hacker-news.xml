@@ -988,13 +988,4 @@
     <updated>2026-10-07T15:13:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ersc.io/blog/when-random-isnt-random-enough">ersc.io</a> | <a href="https://lobste.rs/s/njjwgr/when_random_is_not_actually_random_enough">discussion</a> | <a href="https://news.ycombinator.com/item?id=49983404">hacker news</a></small></p><hr/><p>Applying the modulo operator to a large random number to select items from a set creates modulo bias, causing non-uniform probability distributions where certain outcomes are more likely. This occurs when the range of the random number source is not a multiple of the size of the set.</p><p>Range-based sampling functions and `random_choice` APIs using relative integer weights mitigate these biases. These methods avoid floating-point precision issues and facilitate the explicit definition of intended probability distributions.</p><hr/><small>7 Oct 2026, 18:56 UTC | #23590</small>]]></content>
   </entry>
-  <entry>
-    <title>C Programming Language Differences for Rust Programmers</title>
-    <link href="https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/" rel="alternate" />
-    <id>https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/::v239</id>
-    <published>2026-10-07T14:32:00+00:00</published>
-    <updated>2026-10-07T14:32:00+00:00</updated>
-    <media:thumbnail url="https://www.includehelp.com/articles/images/rust-and-cpp-2.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/">bd103.dev</a> | <a href="https://lobste.rs/s/lgdxtw/c_for_rust_programmers">discussion</a></small></p><hr/><p>This article outlines several technical differences encountered when transitioning from Rust to C, specifically regarding boolean types, null-terminated strings, platform-dependent integer widths, and error handling mechanisms.</p><p>The discussion highlights how C's reliance on manual memory management, implicit array-to-pointer conversions, and the lack of a borrow checker contrasts with Rust's safety-oriented design and length-prefixed string implementation.</p><p><img src="https://www.includehelp.com/articles/images/rust-and-cpp-2.jpg" /></p><hr/><small>7 Oct 2026, 18:25 UTC | #23584</small>]]></content>
-  </entry>
 </feed>
