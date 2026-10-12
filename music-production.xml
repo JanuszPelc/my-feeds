@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-12T01:29:00+00:00</updated>
+  <updated>2026-10-12T01:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Pinzu Releases Soryno Tape Pro Saturation Plug-in</title>
+    <link href="https://www.kvraudio.com/news/pinzu-releases-soryno-tape-pro---tape-saturation-plug-in-for-windows-vst3-69023?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69023" rel="alternate" />
+    <id>https://www.kvraudio.com/news/pinzu-releases-soryno-tape-pro---tape-saturation-plug-in-for-windows-vst3-69023?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69023::v239</id>
+    <published>2026-10-12T01:43:00+00:00</published>
+    <updated>2026-10-12T01:43:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/soryno-tape-pro.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/pinzu-releases-soryno-tape-pro---tape-saturation-plug-in-for-windows-vst3-69023?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69023">kvraudio.com</a> | <a href="https://pinzu.tech/pinzuaudio/products/tape/">source</a></small></p><hr/><p>Pinzu has released Soryno Tape Pro, a paid tape saturation plug-in for Windows in VST3 format. Building on the Soryno Tape Free edition, this version adds controls for tape speed (7.5, 15, or 30 ips), bias, wow and flutter, band limits, and Mid/Side processing.</p><p>The plug-in features real-time visualizers for transfer curves, tape tone, and aliasing levels. It supports up to 8x oversampling and includes 44 presets, while maintaining compatibility with user presets created in the free edition.</p><p><img src="https://static.kvraudio.com/i/b/soryno-tape-pro.png" /></p><hr/><small>12 Oct 2026, 09:30 UTC | #24001</small>]]></content>
+  </entry>
   <entry>
     <title>AMXOS Launches Four New Audio Plugins for Windows</title>
     <link href="https://www.kvraudio.com/news/amxos-releases-new-plugins-for-windows-vst3-68955?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68955" rel="alternate" />
@@ -477,13 +486,5 @@
     <updated>2026-10-07T15:12:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/v2-0-0_1_full_interface.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/bonboa-releases-bacara-plugin-2-0---adds-chord-and-rhythm-sequencers-vst3-au-and-clap-68942?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68942">kvraudio.com</a> | <a href="https://bonboa.com/products/bacara-plugin">source</a></small></p><hr/><p>Bacara Plugin 2.0 adds chord and rhythm sequencers to the existing melodic sequencer, supporting up to 21 simultaneous polyphonic voices. Available for macOS and Windows in VST3, AU, and CLAP formats, the update enables users to play chord, rhythm, and melodic parts together on a single clock.</p><p>Each sequencer utilizes a trained model based on twenty musical styles and a library of 46 written styles. The plugin also includes deviation lanes for pattern variation, eight pattern banks, and the ability to drag-and-drop patterns into a DAW as MIDI clips. The software is priced at €49.95, with a free trial available and free upgrades for current owners.</p><p><img src="https://static.kvraudio.com/i/b/v2-0-0_1_full_interface.png" /></p><hr/><small>7 Oct 2026, 18:51 UTC | #23555</small>]]></content>
-  </entry>
-  <entry>
-    <title>zc devices Launches Thicket Polyphonic Modular Synthesizer in Open Beta</title>
-    <link href="https://bedroomproducersblog.com/2026/10/07/zc-devices-thicket/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/07/zc-devices-thicket/::v239</id>
-    <published>2026-10-07T09:19:00+00:00</published>
-    <updated>2026-10-07T09:19:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/07/zc-devices-thicket/">bedroomproducersblog.com</a> | <a href="https://www.kvraudio.com/forum/viewtopic.php?t=633929">source</a> | <a href="https://bedroomproducersblog.com/2026/10/07/zc-devices-thicket/#respond">discussion</a></small></p><hr/><p>Thicket is a polyphonic, node-based modular synthesizer now available in a free open beta for Windows, macOS, and Linux.</p><p>The software's architecture facilitates modular sound design through a node-based workflow. This release is intended to gather user feedback during its development phase.</p><hr/><small>7 Oct 2026, 14:34 UTC | #23526</small>]]></content>
   </entry>
 </feed>
