@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-12T18:40:00+00:00</updated>
+  <updated>2026-10-12T18:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI-Driven Fraud Economy Reaches $442 Billion</title>
+    <link href="https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTYyMzUwNywiZXhwIjoxNzkyMjI4MzA3LCJhcnRpY2xlSWQiOiJUTU9QMExWVFRDWk0wMCIsImJjb25uZWN0SWQiOiI3MkRBRjZBRDQ4RTc0MTVEOTU5MTY2Njg3Njg0RDBFQSJ9.Ob3hlz27GYGXnAqfH9hBX486CogDzXBWCf5u_j-5tcI" rel="alternate" />
+    <id>https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTYyMzUwNywiZXhwIjoxNzkyMjI4MzA3LCJhcnRpY2xlSWQiOiJUTU9QMExWVFRDWk0wMCIsImJjb25uZWN0SWQiOiI3MkRBRjZBRDQ4RTc0MTVEOTU5MTY2Njg3Njg0RDBFQSJ9.Ob3hlz27GYGXnAqfH9hBX486CogDzXBWCf5u_j-5tcI::v239</id>
+    <published>2026-10-12T18:48:00+00:00</published>
+    <updated>2026-10-12T18:48:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E12AQHEanEGyQSNlA/article-cover_image-shrink_720_1280/B4EZ0ALP8SJoAI-/0/1773824448874?e=2147483647&amp;v=beta&amp;t=CSffHQVOBcHctNIo26Xukvt6Cx6nHFPS630yh4b6oN0" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTYyMzUwNywiZXhwIjoxNzkyMjI4MzA3LCJhcnRpY2xlSWQiOiJUTU9QMExWVFRDWk0wMCIsImJjb25uZWN0SWQiOiI3MkRBRjZBRDQ4RTc0MTVEOTU5MTY2Njg3Njg0RDBFQSJ9.Ob3hlz27GYGXnAqfH9hBX486CogDzXBWCf5u_j-5tcI">bloomberg.com</a></small></p><hr/><p>Global financial fraud reached an estimated $442 billion in 2025, as artificial intelligence scales a scam economy that now rivals the valuation of the global cocaine trade. The integration of AI has allowed criminals to deploy high-quality deepfakes and voice cloning to facilitate large-scale impersonation.</p><p>Organized networks, particularly those operating from fortified compounds in Asia, are increasingly adopting "fraud-as-a-service" kits to industrialize deceptive practices. These advancements make scams significantly harder to detect, allowing criminal operations to expand across multiple borders with increased efficiency.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E12AQHEanEGyQSNlA/article-cover_image-shrink_720_1280/B4EZ0ALP8SJoAI-/0/1773824448874?e=2147483647&v=beta&t=CSffHQVOBcHctNIo26Xukvt6Cx6nHFPS630yh4b6oN0" /></p><hr/><small>12 Oct 2026, 21:56 UTC | #24052</small>]]></content>
+  </entry>
   <entry>
     <title>Abilene AI Data Center Costs Estimated at $30 Billion</title>
     <link href="https://www.bloomberg.com/features/2026-ai-data-center-build-costs/" rel="alternate" />
@@ -778,22 +787,5 @@
     <updated>2026-10-08T00:03:00+00:00</updated>
     <media:thumbnail url="https://cdn.semasocial.com/semasocial/public/sesblog_album/c8/a4/06/0ad5013c9f3f4f6c52299787ca85b8a6.webp" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theregister.com/security/2026/10/07/us-states-sue-popular-kitmaker-tp-link-over-china-risks/5301653">theregister.com</a> | <a href="https://ago.nebraska.gov/sites/default/files/doc/Complaint_11.pdf">source</a></small></p><hr/><p>Attorneys General from Florida, Iowa, Montana, and Nebraska have sued TP-Link Systems, alleging the company engaged in deceptive marketing regarding its routers' security and its connections to China. The lawsuits claim TP-Link misled consumers with absolute security guarantees while failing to disclose its ongoing reliance on Chinese-based manufacturing, research, and development.</p><p>The litigation follows similar legal action by Texas and occurs amid heightened US regulatory scrutiny of foreign-produced networking hardware. TP-Link has rejected the allegations, asserting that it is a US-based company that adheres to all domestic privacy laws and that its products undergo comprehensive security testing.</p><p><img src="https://cdn.semasocial.com/semasocial/public/sesblog_album/c8/a4/06/0ad5013c9f3f4f6c52299787ca85b8a6.webp" /></p><hr/><small>8 Oct 2026, 06:06 UTC | #23611</small>]]></content>
-  </entry>
-  <entry>
-    <title>Broadcom, Oracle, and SpaceX Seek Massive Debt Deals to Fund AI Chips</title>
-    <link href="https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032?st=24irFj" rel="alternate" />
-    <id>https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032?st=24irFj::v239</id>
-    <published>2026-10-07T21:56:00+00:00</published>
-    <updated>2026-10-07T21:56:00+00:00</updated>
-    <media:thumbnail url="https://eloutput.com/wp-content/uploads/2025/10/OpenAI-anuncia-una-alianza-con-Broadcom-para-construir-chips-para-IA.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032?st=24irFj">wsj.com</a></small></p><hr/><p>Broadcom is working to arrange more than $50 billion in financing to support OpenAI's custom AI chip development. Concurrently, Oracle and SpaceX are in discussions to secure multibillion-dollar debt deals to fund large-scale AI chip acquisitions.</p><p>Major financial institutions, including Apollo, Blackstone, and Goldman Sachs, are reportedly involved in negotiating these massive financing arrangements. These deals reflect a growing trend of using bespoke, large-scale debt structures to cover the high capital expenditures required for the AI infrastructure race.</p><p><img src="https://eloutput.com/wp-content/uploads/2025/10/OpenAI-anuncia-una-alianza-con-Broadcom-para-construir-chips-para-IA.jpg" /></p><hr/><small>8 Oct 2026, 04:59 UTC | #23612</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sriram Krishnan Targeting $500 Million AI Venture Fund</title>
-    <link href="https://www.theinformation.com/articles/ex-trump-ai-adviser-sriram-krishnan-targets-raising-500-million-venture-fund" rel="alternate" />
-    <id>https://www.theinformation.com/articles/ex-trump-ai-adviser-sriram-krishnan-targets-raising-500-million-venture-fund::v239</id>
-    <published>2026-10-07T21:52:00+00:00</published>
-    <updated>2026-10-07T21:52:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/ex-trump-ai-adviser-sriram-krishnan-targets-raising-500-million-venture-fund">theinformation.com</a></small></p><hr/><p>Former White House AI adviser Sriram Krishnan is seeking to raise approximately $500 million for a new venture capital fund. The fund will target growth- and later-stage U.S. artificial intelligence companies, with a strategic priority on national security.</p><p>Krishnan, a veteran of Andreessen Horowitz, departed his government advisory role in June 2026. His investment strategy focuses on the intersection of advanced AI development and U.S. national security interests.</p><hr/><small>8 Oct 2026, 02:41 UTC | #23599</small>]]></content>
   </entry>
 </feed>

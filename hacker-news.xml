@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>fastsimdjson achieves 66 GB/s JSON parsing throughput in Python</title>
+    <link href="https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/" rel="alternate" />
+    <id>https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/::v239</id>
+    <published>2026-10-12T18:49:00+00:00</published>
+    <updated>2026-10-12T18:49:00+00:00</updated>
+    <media:thumbnail url="https://lemire.me/blog/wp-content/uploads/2026/10/pyjson-one-core.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/">lemire.me</a> | <a href="https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second">discussion</a> | <a href="https://news.ycombinator.com/item?id=50055912">hacker news</a></small></p><hr/><p>Using Python 3.14's free-threaded version and the `fastsimdjson` library, it is possible to achieve JSON parsing speeds of 66 GB/s. The high throughput is enabled by the `map_many` function used with lazy views, which avoids the computational overhead of creating full Python objects for every field in a JSON object.</p><p>Benchmarks comparing `fastsimdjson` against `orjson`, `msgspec`, and the standard library show that lazy parsing scales efficiently across multiple cores. In a test using 7.6 GB of GH Archive data across 64 threads, the combination of multi-threading and lazy views significantly outperformed `msgspec` and other materialization-based parsing methods.</p><p><img src="https://lemire.me/blog/wp-content/uploads/2026/10/pyjson-one-core.webp" /></p><hr/><small>12 Oct 2026, 21:57 UTC | #24094</small>]]></content>
+  </entry>
+  <entry>
     <title>Googlebooks Laptops Face Connectivity and Optimization Issues</title>
     <link href="https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing" rel="alternate" />
     <id>https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing::v239</id>
@@ -965,22 +974,5 @@
     <published>2026-10-08T00:38:00+00:00</published>
     <updated>2026-10-08T00:38:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://00f.net/2026/10/06/zeroization-1/">00f.net</a> | <a href="https://lobste.rs/s/4hxxad/zeroization_part_1_wiping_can_make_things">discussion</a></small></p><hr/><p>Zeroization, the practice of wiping sensitive data from memory, can inadvertently create additional, unmanaged copies of secrets in stack or register space. Compiler optimizations often discard standard `memset()` calls or trigger the creation of new stack spills when using opaque wiping functions, leaving the original secret intact in registers or other memory locations.</p><p>These residual copies increase the risk of information leakage through core dumps, hibernation files, and microarchitectural vulnerabilities. Effective sanitization requires analyzing optimized machine code and register usage rather than blindly applying wiping functions to local variables.</p><hr/><small>8 Oct 2026, 07:52 UTC | #23635</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rat Rewrites Register Allocator Using Priority Bin-Packing</title>
-    <link href="https://hexrat.cc/pages/blog/2026_10_07" rel="alternate" />
-    <id>https://hexrat.cc/pages/blog/2026_10_07::v239</id>
-    <published>2026-10-07T21:54:00+00:00</published>
-    <updated>2026-10-07T21:54:00+00:00</updated>
-    <media:thumbnail url="https://s3.amazonaws.com/media-p.slid.es/uploads/122159/images/1339091/x86_64-registers.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hexrat.cc/pages/blog/2026_10_07">hexrat.cc</a> | <a href="https://lobste.rs/s/frav12/rat_s_minimal_register_allocator">discussion</a></small></p><hr/><p>The rat compiler backend has transitioned from a 1392-line linear scan register allocator to a 584-line priority bin-packing allocator. The new system maps x86-64 virtual registers to physical general-purpose or XMM registers, or spills them to the stack when no registers are free.</p><p>The allocator employs a five-step process: numbering live ranges, marking fixed registers, coalescing bundles, picking registers by priority, and spilling. Performance testing against the previous implementation shows significant efficiency gains, including a 77% reduction in allocator time and a 43% reduction in total compilation time when compiling SQLite.</p><p><img src="https://s3.amazonaws.com/media-p.slid.es/uploads/122159/images/1339091/x86_64-registers.png" /></p><hr/><small>8 Oct 2026, 03:07 UTC | #23621</small>]]></content>
-  </entry>
-  <entry>
-    <title>Microsoft Announces Surface AI PCs and Revamped Windows 11</title>
-    <link href="https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/::v239</id>
-    <published>2026-10-07T21:47:00+00:00</published>
-    <updated>2026-10-07T21:47:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/">techcrunch.com</a> | <a href="https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/">source</a></small></p><hr/><p>Microsoft has announced the Surface Laptop Ultra and Surface RTX Spark Dev Box, new hardware powered by Nvidia's RTX Spark chip to enable local AI model execution. The announcement includes a revamped version of Windows 11 featuring "Execution Containers" for sandboxing AI agents, a feature Microsoft plans to make available to all Windows 11 users.</p><p>The Surface Laptop Ultra is priced between $2,600 and $5,900, while the Surface RTX Spark Dev Box workstation starts at $6,000 and includes tools like GitHub Copilot CLI and WSL. Dell also disclosed specifications for its Dell XPS 16 Creator Edition, a new Nvidia-powered AI PC.</p><hr/><small>8 Oct 2026, 01:39 UTC | #23603</small>]]></content>
   </entry>
 </feed>
