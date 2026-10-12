@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-12T15:20:00+00:00</updated>
+  <updated>2026-10-12T15:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ps2-web-recomp Enables PlayStation 2 Gameplay in Browsers via Static Recompilation</title>
+    <link href="https://github.com/snuri00/ps2-web-recomp" rel="alternate" />
+    <id>https://github.com/snuri00/ps2-web-recomp::v239</id>
+    <published>2026-10-12T15:24:00+00:00</published>
+    <updated>2026-10-12T15:24:00+00:00</updated>
+    <media:thumbnail url="https://github.com/snuri00/ps2-web-recomp/raw/main/docs/media/demo.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/snuri00/ps2-web-recomp">github.com</a> | <a href="https://news.ycombinator.com/item?id=50052251">hacker news</a></small></p><hr/><p>The project utilizes static recompilation to allow PlayStation 2 games to run in web browsers without the need for a traditional emulator. The machine code from the Emotion Engine is translated into C++, compiled to WebAssembly, and linked to a custom reimplementation of the PS2's operating system and hardware. Graphics processing is handled via WebGPU compute shaders, and audio is managed through the AudioWorklet API.</p><p>Performance tests for Gran Turismo 4 and God of War II show the system can reach up to 60 frames per second on modern hardware using integrated GPUs. Users can convert their own disc images into functional web pages using a provided script that performs an iterative translation process to capture all necessary function calls. Compatibility is primarily dependent on a browser's WebGPU support and the specific hardware's ability to execute the translated vector unit and graphics workloads.</p><p><img src="https://github.com/snuri00/ps2-web-recomp/raw/main/docs/media/demo.webp" /></p><hr/><small>12 Oct 2026, 19:26 UTC | #24087</small>]]></content>
+  </entry>
   <entry>
     <title>Google DevSite Vulnerability Enables Remote Code Execution via Flask Session Cookies</title>
     <link href="https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce" rel="alternate" />
