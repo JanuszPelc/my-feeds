@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-12T10:33:00+00:00</updated>
+  <updated>2026-10-12T11:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>US Army Desert Tech Test Highlights AI Warfare Challenges</title>
+    <link href="https://www.wsj.com/tech/the-u-s-armys-desert-tech-test-shows-long-road-to-ai-warfare-2fc2ba1e?st=WiQJ95&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/the-u-s-armys-desert-tech-test-shows-long-road-to-ai-warfare-2fc2ba1e?st=WiQJ95&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-10-12T11:43:00+00:00</published>
+    <updated>2026-10-12T11:43:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dWmZB.img?w=768&amp;h=512&amp;m=6" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/the-u-s-armys-desert-tech-test-shows-long-road-to-ai-warfare-2fc2ba1e?st=WiQJ95&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>A July desert trial involving US soldiers using artificial intelligence technology revealed significant hardware and institutional obstacles. Participants reported practical equipment failures, such as drones overheating during the exercise.</p><p>This testing is part of a broader Army initiative to modernize military capabilities to match AI-capable adversaries. The technical and organizational issues encountered suggest a complex path ahead for integrating advanced AI systems into active combat environments.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dWmZB.img?w=768&h=512&m=6" /></p><hr/><small>12 Oct 2026, 16:13 UTC | #23997</small>]]></content>
+  </entry>
   <entry>
     <title>Linus Torvalds Uses Claude Code for Linux Kernel Memory Management Improvements</title>
     <link href="https://www.phoronix.com/news/Linus-Torvalds-Claude-Code" rel="alternate" />
