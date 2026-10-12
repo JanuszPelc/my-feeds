@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-12T03:29:00+00:00</updated>
+  <updated>2026-10-12T10:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Deloitte Helped Falsify Documents to Hide Roman Abramovich's Wealth</title>
+    <link href="https://www.bbc.com/news/articles/c64g1l5389kvo" rel="alternate" />
+    <id>https://www.bbc.com/news/articles/c64g1l5389kvo::v239</id>
+    <published>2026-10-12T10:22:00+00:00</published>
+    <updated>2026-10-12T10:22:00+00:00</updated>
+    <media:thumbnail url="https://knews.kathimerini.com.cy/assets/modules/wnp/articles/202610/30569/images/b_roman_abramovich_and_yacht.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.bbc.com/news/articles/c64g1l5389kvo">bbc.com</a> | <a href="https://news.ycombinator.com/item?id=50054207">hacker news</a></small></p><hr/><p>Deloitte Cyprus helped falsify documents to hide $672 million in assets and evade taxes for Roman Abramovich. An investigation by BBC Panorama and the Bureau of Investigative Journalism uncovered backdated paperwork used to transfer luxury assets, such as superyachts and mansions, to offshore companies to bypass transparency laws.</p><p>The investigation also detailed a scheme to falsify financial records to conceal interest income from tax authorities. While Abramovich's lawyers deny the allegations, maintaining that he relied on legitimate professional advice, the findings raise questions about the integrity of major international accounting firms.</p><p><img src="https://knews.kathimerini.com.cy/assets/modules/wnp/articles/202610/30569/images/b_roman_abramovich_and_yacht.jpg" /></p><hr/><small>12 Oct 2026, 12:26 UTC | #24033</small>]]></content>
+  </entry>
   <entry>
     <title>Qualcomm CEO Foresees AI-Driven Smartphone Supercycle</title>
     <link href="https://sources.news/p/qualcomm-ceo-ai-phone" rel="alternate" />
