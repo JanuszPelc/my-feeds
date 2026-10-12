@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-12T18:47:00+00:00</updated>
+  <updated>2026-10-12T18:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Meta Releases Muse Wonder and Muse Wonder Full Frontier Models</title>
+    <link href="https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/::v239</id>
+    <published>2026-10-12T18:54:00+00:00</published>
+    <updated>2026-10-12T18:54:00+00:00</updated>
+    <media:thumbnail url="https://images.indexcdn.com/whatsapp_image_2026_04_13_at_10_11_18_77727091398193688182388_70703800924665767437195_1776136793513_17761367937861890136538_ee5e334a9d.jpeg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/">techcrunch.com</a> | <a href="https://research.meta.ai/blog/muse-wonder">source</a> | <a href="https://news.ycombinator.com/item?id=50059115">hacker news</a></small></p><hr/><p>Meta’s Superintelligence Lab has released Muse Wonder and Muse Wonder Full, the company’s first frontier-class models. Designed to outperform the lightweight Muse Spark in complex reasoning and coding tasks, these larger models demonstrate benchmark performance comparable to GPT-6 Astra and Fable 5.1.</p><p>The models feature "active memory" designed to retain and synthesize user information over extended periods, achieving high scores on the MemoryBench benchmark. Muse Wonder is available via the Meta Model API at $4.00 per million input tokens and $20.00 per million output tokens, while Muse Wonder Full is restricted to Muse Code subscribers and is not available through the API.</p><p><img src="https://images.indexcdn.com/whatsapp_image_2026_04_13_at_10_11_18_77727091398193688182388_70703800924665767437195_1776136793513_17761367937861890136538_ee5e334a9d.jpeg" /></p><hr/><small>12 Oct 2026, 23:02 UTC | #24077</small>]]></content>
+  </entry>
   <entry>
     <title>AI Coding Agents Increase Code Volume Without Increasing Software Output</title>
     <link href="https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/" rel="alternate" />
