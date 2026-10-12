@@ -3,9 +3,35 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-12T18:30:00+00:00</updated>
+  <updated>2026-10-12T18:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Corey Prophitt Ships Commercial Web Product Using C and CGI</title>
+    <link href="https://prophitt.me/writing/a-modern-web-app-in-c" rel="alternate" />
+    <id>https://prophitt.me/writing/a-modern-web-app-in-c::v239</id>
+    <published>2026-10-12T18:37:00+00:00</published>
+    <updated>2026-10-12T18:37:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://prophitt.me/writing/a-modern-web-app-in-c">prophitt.me</a> | <a href="https://news.ycombinator.com/item?id=50058528">hacker news</a></small></p><hr/><p>Developer Corey Prophitt has deployed a commercial web application, marketyour.games, using a minimalist stack consisting of C, OpenBSD, httpd, and SQLite via the Common Gateway Interface (CGI) protocol. The application provides modern features including user accounts, Stripe payments, and transactional emails, all contained within a single, statically linked binary with minimal external dependencies.</p><p>Prophitt argues that CGI remains a viable alternative to modern web frameworks in 2026, citing reduced supply chain risk, simplified deployment via single-file replacement, and lower operational overhead. While the approach necessitates manual implementation of standard web utilities like cookie and form parsing, the developer highlights the efficiency of a stack with minimal moving parts and high-speed compilation.</p><hr/><small>12 Oct 2026, 20:45 UTC | #24090</small>]]></content>
+  </entry>
+  <entry>
+    <title>Google Expands Health Guardian and Activity Tracking for Fitbit and Pixel Wearables</title>
+    <link href="https://www.engadget.com/2283270/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/" rel="alternate" />
+    <id>https://www.engadget.com/2283270/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/::v239</id>
+    <published>2026-10-12T18:34:00+00:00</published>
+    <updated>2026-10-12T18:34:00+00:00</updated>
+    <media:thumbnail url="https://www.engadget.com/img/gallery/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/intro-1791748229.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2283270/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/">engadget.com</a> | <a href="https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/">source</a></small></p><hr/><p>Google is extending its Health Guardian suite to Fitbit Air and Fitbit Edge wearables later this month for Premium subscribers. The update provides monthly summaries of blood pressure and insulin resistance trends, alongside wellness recommendations from an in-app Health Coach.</p><p>Additionally, Google is upgrading automatic activity tracking for Fitbit Air, Fitbit Edge, and Pixel Watches 3, 4, and 5, increasing the number of recognized workouts to over 100. A new Metal Mesh band for the Fitbit Air will also be available for pre-order starting next week.</p><p><img src="https://www.engadget.com/img/gallery/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/intro-1791748229.jpg" /></p><hr/><small>12 Oct 2026, 20:38 UTC | #24041</small>]]></content>
+  </entry>
+  <entry>
+    <title>Microsoft Unveils Maia 300 AI Chip for Inference Workloads</title>
+    <link href="https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout" rel="alternate" />
+    <id>https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout::v239</id>
+    <published>2026-10-12T18:32:00+00:00</published>
+    <updated>2026-10-12T18:32:00+00:00</updated>
+    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout">theverge.com</a> | <a href="https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/">source</a> | <a href="https://news.ycombinator.com/item?id=50055952">hacker news</a></small></p><hr/><p>Microsoft has unveiled Maia 300, its third-generation in-house AI chip designed to act as the primary inference system for its cloud and software services. Utilizing a chiplet architecture on TSMC’s N2P process node, the chip is optimized for long-context reasoning, conversational AI, and agentic tasks. Production rollout is expected to begin in 2027.</p><p>The chip aims to reduce Microsoft's dependence on Nvidia and AMD GPUs by offering 40% more tokens per megawatt than leading competing systems and up to seven times the rack-scale throughput of the Maia 200. This vertical integration is part of a strategy to control the full AI stack, from silicon to large-scale models, to maintain competitiveness against major industry players.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-01.jpg?quality=90&strip=all&crop=0,0,100,100" /></p><hr/><small>12 Oct 2026, 20:35 UTC | #24042</small>]]></content>
+  </entry>
   <entry>
     <title>Codex CLI Changes Default Daemon Auto-Start Behavior</title>
     <link href="https://github.com/openai/codex/issues/48195" rel="alternate" />
