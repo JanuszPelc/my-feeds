@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-12T15:15:00+00:00</updated>
+  <updated>2026-10-12T15:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Google DevSite Vulnerability Enables Remote Code Execution via Flask Session Cookies</title>
+    <link href="https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce" rel="alternate" />
+    <id>https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce::v239</id>
+    <published>2026-10-12T15:20:00+00:00</published>
+    <updated>2026-10-12T15:20:00+00:00</updated>
+    <media:thumbnail url="https://developer.mozilla.org/shared-assets/images/diagrams/http/cookies/cookie-basic-example.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce">simonkoeck.com</a> | <a href="https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution">discussion</a> | <a href="https://news.ycombinator.com/item?id=50052638">hacker news</a></small></p><hr/><p>Researcher Simon Koeck identified a critical remote code execution (RCE) vulnerability in Google's shared DevSite platform. The flaw allowed attackers to forge Flask session cookies by exploiting an exposed OAuth client secret used as a signing key. By embedding a malicious Python `pickle` payload within these forged cookies, an unauthenticated attacker could execute arbitrary code on various Google developer domains.</p><p>The vulnerability impacted several sites, including firebase.google.com and developer.android.com. Google has since resolved the issue by rotating secrets, implementing deployment-specific signing keys, and transitioning away from unsafe `pickle` deserialization for client-side data. The discovery earned the researcher a $90,000 bounty.</p><p><img src="https://developer.mozilla.org/shared-assets/images/diagrams/http/cookies/cookie-basic-example.png" /></p><hr/><small>12 Oct 2026, 18:54 UTC | #24081</small>]]></content>
+  </entry>
   <entry>
     <title>zt: A Type-Safe HTML Templating Library for Zig</title>
     <link href="https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html" rel="alternate" />

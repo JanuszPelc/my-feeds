@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-12T15:09:00+00:00</updated>
+  <updated>2026-10-12T15:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Broadcom CEO Hock Tan Compares AI Investors to Casino Gamblers</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-12/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-12/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers::v239</id>
+    <published>2026-10-12T15:19:00+00:00</published>
+    <updated>2026-10-12T15:19:00+00:00</updated>
+    <media:thumbnail url="https://marketwise.com/wp-content/uploads/2026/06/Broadcom-CEO.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-12/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers">bloomberg.com</a></small></p><hr/><p>Hock Tan, CEO of Broadcom, has labeled speculative artificial intelligence investing as a form of gambling, suggesting that many investors lack a fundamental understanding of the technology. He expressed doubt concerning the long-term economic viability of AI labs and argued that access to capital, rather than chip supply or power, may eventually become the primary bottleneck for AI infrastructure growth.</p><p>These remarks reflect broader industry anxiety over the return on investment for massive AI capital expenditures. The comments highlight a growing debate regarding whether current funding levels align with the actual revenue-generating capabilities of emerging AI technologies.</p><p><img src="https://marketwise.com/wp-content/uploads/2026/06/Broadcom-CEO.webp" /></p><hr/><small>12 Oct 2026, 18:51 UTC | #24032</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft President Brad Smith Calls for Stricter AI Regulation</title>
     <link href="https://www.bbc.com/news/articles/c6rmy7zmvx3lo" rel="alternate" />
