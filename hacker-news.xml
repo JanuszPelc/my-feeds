@@ -973,22 +973,4 @@
     <media:thumbnail url="https://github.com/szabadkai/c64-keyboard-font/raw/main/specimen.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/szabadkai/c64-keyboard-font/">github.com</a> | <a href="https://news.ycombinator.com/item?id=49990224">hacker news</a></small></p><hr/><p>A font based on photographs of classic Commodore 64 keycaps is available in TTF, OTF, and WOFF2 formats. The digital typeface features cleaned-up shapes and consistent proportions derived from the original hardware.</p><p>The typeface is uppercase-only to replicate the physical key legends and includes PETSCII graphic front legends and function-key labels. The package also supports various accented characters, including Hungarian letters, and includes editable outlines for design work.</p><p><img src="https://github.com/szabadkai/c64-keyboard-font/raw/main/specimen.png" /></p><hr/><small>7 Oct 2026, 14:55 UTC | #23564</small>]]></content>
   </entry>
-  <entry>
-    <title>Python 3.15 Performance Benchmark Results</title>
-    <link href="https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15" rel="alternate" />
-    <id>https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15::v239</id>
-    <published>2026-10-07T08:14:00+00:00</published>
-    <updated>2026-10-07T08:14:00+00:00</updated>
-    <media:thumbnail url="https://blog.miguelgrinberg.com/static/images/pyspeed2026-fibo1.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15">blog.miguelgrinberg.com</a> | <a href="https://lobste.rs/s/se6wbx/how_fast_is_python_3_15">discussion</a> | <a href="https://news.ycombinator.com/item?id=49984652">hacker news</a></small></p><hr/><p>An informal benchmark compares the performance of the Python 3.15 release candidate against versions 3.10 through 3.14, PyPy, Node.js, and Rust. The study utilizes recursive Fibonacci and bubble sort algorithms across single-threaded and multi-threaded configurations to evaluate standard, Just-In-Time (JIT), and free-threaded (FT) interpreter implementations.</p><p>Results indicate that while the standard Python 3.15 interpreter shows only marginal speed increases over its predecessor, the JIT-enabled version shows significant performance gains. Furthermore, the free-threaded implementation demonstrates substantial advantages in multi-threaded workloads by bypassing the Global Interpreter Lock (GIL).</p><p><img src="https://blog.miguelgrinberg.com/static/images/pyspeed2026-fibo1.png" /></p><hr/><small>7 Oct 2026, 13:32 UTC | #23549</small>]]></content>
-  </entry>
-  <entry>
-    <title>System76 Bans AI-Generated Contributions to COSMIC Desktop</title>
-    <link href="https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141" rel="alternate" />
-    <id>https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141::v239</id>
-    <published>2026-10-07T08:10:00+00:00</published>
-    <updated>2026-10-07T08:10:00+00:00</updated>
-    <media:thumbnail url="https://image.theregister.com/?imageId=237408&amp;width=800" />
-    <content type="html"><![CDATA[<p><small>The Register AI/ML | <a href="https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141">theregister.com</a> | <a href="https://github.com/pop-os/cosmic-epoch/blob/master/.github/PULL_REQUEST_TEMPLATE.md">source</a></small></p><hr/><p>The COSMIC desktop environment's contributor guidelines now strictly prohibit the use of large language models (LLMs) in pull requests. Submissions must include a certification that no AI-generated content was used in the code, comments, or descriptions.</p><p>This decision aligns with certain GNOME sub-projects that also restrict AI-generated submissions. However, the stance remains controversial; some developers argue that allowing AI-generated bug reports could be essential for discovering security vulnerabilities in large, complex codebases.</p><p><img src="https://image.theregister.com/?imageId=237408&width=800" /></p><hr/><small>7 Oct 2026, 13:13 UTC | #23520</small>]]></content>
-  </entry>
 </feed>
