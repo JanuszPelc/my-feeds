@@ -983,29 +983,4 @@
     <updated>2026-10-07T21:47:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/">techcrunch.com</a> | <a href="https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/">source</a></small></p><hr/><p>Microsoft has announced the Surface Laptop Ultra and Surface RTX Spark Dev Box, new hardware powered by Nvidia's RTX Spark chip to enable local AI model execution. The announcement includes a revamped version of Windows 11 featuring "Execution Containers" for sandboxing AI agents, a feature Microsoft plans to make available to all Windows 11 users.</p><p>The Surface Laptop Ultra is priced between $2,600 and $5,900, while the Surface RTX Spark Dev Box workstation starts at $6,000 and includes tools like GitHub Copilot CLI and WSL. Dell also disclosed specifications for its Dell XPS 16 Creator Edition, a new Nvidia-powered AI PC.</p><hr/><small>8 Oct 2026, 01:39 UTC | #23603</small>]]></content>
   </entry>
-  <entry>
-    <title>Microsoft and Xbox News: Call of Duty, Surface, and Windows 11 Updates</title>
-    <link href="https://www.windowscentral.com/" rel="alternate" />
-    <id>https://www.windowscentral.com/::v239</id>
-    <published>2026-10-07T21:42:00+00:00</published>
-    <updated>2026-10-07T21:42:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.windowscentral.com/">windowscentral.com</a> | <a href="https://news.ycombinator.com/item?id=49854945">hacker news</a></small></p><hr/><p>Microsoft plans to bring Call of Duty support to RTX Spark and ARM64 in 2027, while preorders for the Surface Laptop Ultra are now live. Windows 11 is also receiving AI-powered search capabilities and improvements to File Explorer and Copilot integration.</p><p>Additional reports cover Xbox CEO Asha Sharma's recent town hall regarding the platform's future, leaks concerning a new Xbox Elite Controller, and various hardware discounts on Dell laptops and Samsung SSDs.</p><hr/><small>8 Oct 2026, 01:22 UTC | #23588</small>]]></content>
-  </entry>
-  <entry>
-    <title>Microsoft Opens Preorders for Surface RTX Spark Dev Box</title>
-    <link href="https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder" rel="alternate" />
-    <id>https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder::v239</id>
-    <published>2026-10-07T21:41:00+00:00</published>
-    <updated>2026-10-07T21:41:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder">theverge.com</a> | <a href="https://www.microsoft.com/en-us/surface/devices/surface-rtx-spark-dev-box">source</a> | <a href="https://news.ycombinator.com/item?id=49996631">hacker news</a></small></p><hr/><p>Optimized for running local AI models exceeding 120 billion parameters, this Nvidia-powered mini PC is now available for preorder. It features the Arm-based RTX Spark platform and 128GB of unified memory, with shipping expected in November at a price of approximately $6,000.</p><p>Part of Microsoft's Project Zenith, the device ships with a developer-optimized version of Windows 11 Pro and preinstalled tools including Visual Studio Code, Git, and GitHub Copilot. Its anodized aluminum chassis is designed to function as a heatsink, drawing design inspiration from the Xbox Series X.</p><hr/><small>8 Oct 2026, 01:20 UTC | #23589</small>]]></content>
-  </entry>
-  <entry>
-    <title>Margaret Hamilton, Apollo Program Software Pioneer, Dies at 90</title>
-    <link href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007" rel="alternate" />
-    <id>https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007::v239</id>
-    <published>2026-10-07T21:39:00+00:00</published>
-    <updated>2026-10-07T21:39:00+00:00</updated>
-    <media:thumbnail url="https://website-assets.studocu.com/img/document_thumbnails/cab66adc1e3080b1762c2d43b5f2fd4d/thumb_1200_1698.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007">news.mit.edu</a> | <a href="https://lobste.rs/s/9qtgrm/margaret_hamilton_computing_pioneer_who">discussion</a> | <a href="https://news.ycombinator.com/item?id=49998895">hacker news</a></small></p><hr/><p>Margaret Hamilton, the computer scientist who led the MIT Instrumentation Lab's software team for NASA's Apollo program, has died at the age of 90. She is credited with helping establish software engineering as a formal discipline and for developing the "defensive" and priority-driven programming techniques that ensured mission success during the Apollo 11 moon landing.</p><p>Following her work on the Apollo missions, Hamilton became a successful entrepreneur, founding Higher Order Software and Hamilton Technologies to improve system reliability. Her contributions to the field were recognized with the 2016 Presidential Medal of Freedom.</p><p><img src="https://website-assets.studocu.com/img/document_thumbnails/cab66adc1e3080b1762c2d43b5f2fd4d/thumb_1200_1698.png" /></p><hr/><small>8 Oct 2026, 00:40 UTC | #23609</small>]]></content>
-  </entry>
 </feed>
