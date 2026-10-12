@@ -3,9 +3,25 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-12T04:59:00+00:00</updated>
+  <updated>2026-10-12T05:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>CSS Text Decoration Properties Enable Precise Underlining</title>
+    <link href="https://www.rubenerd.au/css-for-underlines/" rel="alternate" />
+    <id>https://www.rubenerd.au/css-for-underlines/::v239</id>
+    <published>2026-10-12T05:02:00+00:00</published>
+    <updated>2026-10-12T05:02:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.rubenerd.au/css-for-underlines/">rubenerd.au</a> | <a href="https://lobste.rs/s/ezucf0/css_for_underlines">discussion</a></small></p><hr/><p>Historically, CSS text decoration faced limitations regarding color inheritance and inconsistent underline thickness across browsers. Developers often bypassed these issues using border-bottom, which lacked the ability to integrate with text descenders like 'g' or 'y'.</p><p>Modern CSS properties, including text-decoration-thickness, text-decoration-color, and text-decoration-style, now provide direct control over underline styling. These attributes allow for precise thickness and color management while maintaining proper text alignment and browser consistency.</p><hr/><small>12 Oct 2026, 11:02 UTC | #24015</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ledger Confirms Hardware Implant in Wallets Sold by CryptoBilis</title>
+    <link href="https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts" rel="alternate" />
+    <id>https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts::v239</id>
+    <published>2026-10-12T05:01:00+00:00</published>
+    <updated>2026-10-12T05:01:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts">theverge.com</a> | <a href="https://support.ledger.com/article/4404382029329-zd">source</a></small></p><hr/><p>Ledger is investigating a suspected $86 million supply chain attack involving unauthorized hardware implants in cryptocurrency wallets. The tampering appears limited to devices sold by the Southeast Asian reseller CryptoBilis and does not affect Ledger's internal systems or wallets purchased directly from the company.</p><p>The suspected implant is a small circuit board positioned under the device's screen that intercepts the seed passphrase during setup and transmits the information via an embedded SIM card. Ledger has asked CryptoBilis to pause all sales and has provided instructions for users to check their hardware for signs of tampering.</p><hr/><small>12 Oct 2026, 10:59 UTC | #23980</small>]]></content>
+  </entry>
   <entry>
     <title>Implementing a 3-2-1 Backup Strategy with Restic and Backblaze B2</title>
     <link href="https://chuck.is/paranoid/" rel="alternate" />
