@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-12T15:25:00+00:00</updated>
+  <updated>2026-10-12T15:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Elon Musk Contributes Over $276 Million to Republican Entities</title>
+    <link href="https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html?unlocked_article_code=1.IFE.aLC7.pvHMc8gKt-Fv&amp;smid=nytcore-ios-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html?unlocked_article_code=1.IFE.aLC7.pvHMc8gKt-Fv&amp;smid=nytcore-ios-share::v239</id>
+    <published>2026-10-12T15:26:00+00:00</published>
+    <updated>2026-10-12T15:26:00+00:00</updated>
+    <media:thumbnail url="https://c4.legalinsurrection.com/wp-content/uploads/2025/01/Elon-Musk.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html?unlocked_article_code=1.IFE.aLC7.pvHMc8gKt-Fv&smid=nytcore-ios-share">nytimes.com</a></small></p><hr/><p>Since July, Elon Musk has donated more than $276 million to Republican entities and super PACs, including $158 million to the Senate Leadership Fund. The contributions are intended to help the Republican party maintain or secure a majority in the United States Senate.</p><p>This surge in capital is part of an extensive turnout operation for the midterm elections. The scale of the donations marks Musk as one of the largest individual donors for the current election cycle.</p><p><img src="https://c4.legalinsurrection.com/wp-content/uploads/2025/01/Elon-Musk.jpg" /></p><hr/><small>12 Oct 2026, 19:59 UTC | #24039</small>]]></content>
+  </entry>
   <entry>
     <title>Intel and Broadcom CEOs Warn Capital Scarcity Could Be AI's Primary Bottleneck</title>
     <link href="https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html" rel="alternate" />
