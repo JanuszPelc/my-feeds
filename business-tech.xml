@@ -3,9 +3,25 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-12T15:26:00+00:00</updated>
+  <updated>2026-10-12T18:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Abilene AI Data Center Costs Estimated at $30 Billion</title>
+    <link href="https://www.bloomberg.com/features/2026-ai-data-center-build-costs/" rel="alternate" />
+    <id>https://www.bloomberg.com/features/2026-ai-data-center-build-costs/::v239</id>
+    <published>2026-10-12T18:40:00+00:00</published>
+    <updated>2026-10-12T18:40:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/features/2026-ai-data-center-build-costs/">bloomberg.com</a></small></p><hr/><p>A 1-gigawatt facility in Abilene, Texas, is projected to cost $30 billion, with $17 billion allocated for AI chips, $3 billion for power infrastructure, and $2.4 billion for construction.</p><p>This scale of investment reflects massive industry-wide spending trends, as major technology firms including Meta Platforms, Amazon, Microsoft, and Alphabet are collectively expected to spend approximately $750 billion on AI infrastructure.</p><hr/><small>12 Oct 2026, 21:00 UTC | #24047</small>]]></content>
+  </entry>
+  <entry>
+    <title>Microsoft EVP Charles Lamanna Positioned as Potential Nadella Successor; Microsoft Reportedly to Pay Anthropic $2B Annually</title>
+    <link href="https://www.theinformation.com/articles/microsofts-new-office-chief-fixed-copilot-won-nadella" rel="alternate" />
+    <id>https://www.theinformation.com/articles/microsofts-new-office-chief-fixed-copilot-won-nadella::v239</id>
+    <published>2026-10-12T18:39:00+00:00</published>
+    <updated>2026-10-12T18:39:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/microsofts-new-office-chief-fixed-copilot-won-nadella">theinformation.com</a></small></p><hr/><p>Leading the Copilot division, Charles Lamanna is being viewed as a potential successor to CEO Satya Nadella. His leadership follows efforts to resolve user complaints regarding bugs and automation deficiencies in Excel and PowerPoint.</p><p>Microsoft is also reportedly on track to pay Anthropic more than $2 billion per year. This reflects the company's massive strategic investment in AI and its focus on securing large-scale intelligence partnerships.</p><hr/><small>12 Oct 2026, 20:58 UTC | #24048</small>]]></content>
+  </entry>
   <entry>
     <title>Elon Musk Contributes Over $276 Million to Republican Entities</title>
     <link href="https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html?unlocked_article_code=1.IFE.aLC7.pvHMc8gKt-Fv&amp;smid=nytcore-ios-share" rel="alternate" />
