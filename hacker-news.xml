@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-12T15:24:00+00:00</updated>
+  <updated>2026-10-12T18:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Codex CLI Changes Default Daemon Auto-Start Behavior</title>
+    <link href="https://github.com/openai/codex/issues/48195" rel="alternate" />
+    <id>https://github.com/openai/codex/issues/48195::v239</id>
+    <published>2026-10-12T18:30:00+00:00</published>
+    <updated>2026-10-12T18:30:00+00:00</updated>
+    <media:thumbnail url="https://www.ohbmo.com/book-assets/captures/autopilot-status.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/openai/codex/issues/48195">github.com</a> | <a href="https://news.ycombinator.com/item?id=50060694">hacker news</a></small></p><hr/><p>Starting with version 0.157.0, the Codex CLI automatically launches a persistent, self-updating background daemon when an interactive session is opened. This daemon runs in a detached session, decouples the backend version from the installed CLI by using a local package copy, and includes an automated update loop that restarts the service.</p><p>A developer has requested that this behavior be made opt-in to prevent unintended background processes. The contributor highlights several issues caused by the current default, including environment variable mismatches for proxies, difficulties in manually terminating the updater loop, and potential conflicts with system package managers.</p><p><img src="https://www.ohbmo.com/book-assets/captures/autopilot-status.png" /></p><hr/><small>12 Oct 2026, 20:20 UTC | #24088</small>]]></content>
+  </entry>
+  <entry>
+    <title>Google Unveils Fitbit Edge Tracker</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-12/google-debuts-180-fitbit-edge-tracker-replacing-the-fitbit-charge-6" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-12/google-debuts-180-fitbit-edge-tracker-replacing-the-fitbit-charge-6::v239</id>
+    <published>2026-10-12T15:30:00+00:00</published>
+    <updated>2026-10-12T15:30:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-12/google-debuts-180-fitbit-edge-tracker-replacing-the-fitbit-charge-6">bloomberg.com</a> | <a href="https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/">source</a></small></p><hr/><p>The $180 Fitbit Edge features a 1.34-inch oval display and is scheduled to begin shipping on October 27. The device replaces the Fitbit Charge 6, effectively discontinuing the Charge product line.</p><p>The tracker serves as a primary vehicle for Google's revamped Health app. This release marks a transition in Google's wearable strategy by consolidating its fitness tracking hardware under the Edge brand.</p><hr/><small>12 Oct 2026, 20:14 UTC | #24043</small>]]></content>
+  </entry>
   <entry>
     <title>ps2-web-recomp Enables PlayStation 2 Gameplay in Browsers via Static Recompilation</title>
     <link href="https://github.com/snuri00/ps2-web-recomp" rel="alternate" />
