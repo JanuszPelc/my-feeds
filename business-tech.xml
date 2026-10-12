@@ -3,7 +3,7 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-11T22:01:00+00:00</updated>
+  <updated>2026-10-12T03:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
@@ -672,8 +672,8 @@
     <link href="https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html" rel="alternate" />
     <id>https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html::v239</id>
     <published>2026-10-07T13:14:00+00:00</published>
-    <updated>2026-10-07T13:14:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html">cnbc.com</a> | <a href="https://lvv.fi/documents/242146171/254731747/Kirje+Muhoksen+kunnalle+18092026.pdf/6c723b18-b029-ca19-d5d7-08086fc61b66?t=1789726977553">source</a></small></p><hr/><p>The Finnish Licensing and Supervision Agency (LVV) has ordered Google subsidiary Tuike Finland Oy to suspend construction on two data center projects in Muhos and Kajaani. The suspension, which must be implemented by October 23, covers activities including tree removal, excavation, and road construction, and will remain in effect until environmental impact assessments are completed.</p><p>This order affects a portion of Google’s $15 billion investment in Finnish AI infrastructure, a series of projects aimed at expanding capacity in a region becoming a major hub for European data centers. The suspension does not apply to planning, measurements, or other minor activities with minimal environmental impact.</p><hr/><small>7 Oct 2026, 17:10 UTC | #23532</small>]]></content>
+    <updated>2026-10-12T03:29:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html">cnbc.com</a> | <a href="https://lvv.fi/documents/242146171/254731747/Kirje+Muhoksen+kunnalle+18092026.pdf/6c723b18-b029-ca19-d5d7-08086fc61b66?t=1789726977553">source</a> | <a href="https://news.ycombinator.com/item?id=50048638">hacker news</a></small></p><hr/><p>The Finnish Licensing and Supervision Agency (LVV) has ordered Google subsidiary Tuike Finland Oy to suspend construction on two data center projects in Muhos and Kajaani. The suspension, which must be implemented by October 23, covers activities including tree removal, excavation, and road construction, and will remain in effect until environmental impact assessments are completed.</p><p>This order affects a portion of Google’s $15 billion investment in Finnish AI infrastructure, a series of projects aimed at expanding capacity in a region becoming a major hub for European data centers. The suspension does not apply to planning, measurements, or other minor activities with minimal environmental impact.</p><hr/><small>7 Oct 2026, 17:10 UTC | #23532</small>]]></content>
   </entry>
   <entry>
     <title>Common Sense Media Labels ChatGPT for Teens an Unacceptable Risk</title>
