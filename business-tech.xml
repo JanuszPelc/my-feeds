@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-12T15:19:00+00:00</updated>
+  <updated>2026-10-12T15:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Intel and Broadcom CEOs Warn Capital Scarcity Could Be AI's Primary Bottleneck</title>
+    <link href="https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html::v239</id>
+    <published>2026-10-12T15:25:00+00:00</published>
+    <updated>2026-10-12T15:25:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html">cnbc.com</a></small></p><hr/><p>The chief executives of Intel and Broadcom have warned that access to capital and rising financing costs could emerge as the primary bottleneck for the artificial intelligence industry. Speaking at the DBS Asia Future Forward Conference, the executives suggested these financial constraints may prove more restrictive to AI infrastructure expansion than shortages in semiconductors, memory chips, or electricity.</p><p>While supply chain bottlenecks like wafer shortages are expected to ease by the late 2020s, the long-term growth of AI depends on the industry's ability to generate sufficient returns on investment. Sustained expansion will require businesses to demonstrate tangible economic benefits and improved efficiency to justify massive infrastructure expenditures.</p><hr/><small>12 Oct 2026, 19:37 UTC | #24036</small>]]></content>
+  </entry>
   <entry>
     <title>Broadcom CEO Hock Tan Compares AI Investors to Casino Gamblers</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-12/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers" rel="alternate" />
