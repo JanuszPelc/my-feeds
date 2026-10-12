@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-11T20:37:00+00:00</updated>
+  <updated>2026-10-12T01:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Rich Hickey: AI is Automation, Not a Tool</title>
+    <link href="https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e" rel="alternate" />
+    <id>https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e::v239</id>
+    <published>2026-10-12T01:19:00+00:00</published>
+    <updated>2026-10-12T01:19:00+00:00</updated>
+    <media:thumbnail url="https://www.softude.com/wp-content/uploads/ai-agent-and-llm.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e">linkedin.com</a> | <a href="https://lobste.rs/s/ikk8ie/ai_is_not_tool">discussion</a></small></p><hr/><p>Large Language Models (LLMs) function as automation rather than tools, according to Rich Hickey. He defines tools as implements to be "wielded" through continuous control, intention, and sensory feedback that builds expertise. Conversely, he characterizes LLMs as automation that operates with minimal direct human control, enabling users to abdicate the actual labor of a task.</p><p>This transition from wielding to automation prevents users from learning the underlying logic or nuances of their work. Instead of building expertise through direct experience, users engage in a cycle of making requests to non-deterministic models, effectively trading active skill acquisition for the management of capricious software.</p><p><img src="https://www.softude.com/wp-content/uploads/ai-agent-and-llm.webp" /></p><hr/><small>12 Oct 2026, 04:50 UTC | #23983</small>]]></content>
+  </entry>
   <entry>
     <title>David Bushell Explains Domain Name Misreadings and Etymology</title>
     <link href="https://dbushell.com/2026/10/11/d-bus-hell/" rel="alternate" />
