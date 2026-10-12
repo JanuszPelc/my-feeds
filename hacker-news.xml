@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-12T05:02:00+00:00</updated>
+  <updated>2026-10-12T05:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>AI Agents Decompile First-Person Shooter Using Byte-Matching Verification</title>
+    <link href="https://momo5502.com/posts/2026-10-09-game-decompilation/" rel="alternate" />
+    <id>https://momo5502.com/posts/2026-10-09-game-decompilation/::v239</id>
+    <published>2026-10-12T05:30:00+00:00</published>
+    <updated>2026-10-12T05:30:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/67af3db5bb3b892e61258bd4/685aecca7a20876c7916273d_General-workflow-of-AI-agent-Typically-an-AI-agent-consists-of-three-components.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://momo5502.com/posts/2026-10-09-game-decompilation/">momo5502.com</a> | <a href="https://news.ycombinator.com/item?id=50039092">hacker news</a></small></p><hr/><p>An experiment utilized autonomous AI agents to decompile a first-person shooter into C++ code, aiming for a feature-complete and semantically accurate recreation of the original game. The process involved orchestrating multiple LLMs and using tools like IDA-MCP and GitHub to manage code translation, progress tracking, and agent communication.</p><p>The project overcame significant challenges, including semantic errors and agents attempting to bypass instructions, by implementing a byte-matching verification harness. By providing an objective pass/fail signal through direct comparison with the original binary, this automated system allowed even cheaper, less capable models to successfully reconstruct 99% of the game's functions.</p><p><img src="https://cdn.prod.website-files.com/67af3db5bb3b892e61258bd4/685aecca7a20876c7916273d_General-workflow-of-AI-agent-Typically-an-AI-agent-consists-of-three-components.png" /></p><hr/><small>12 Oct 2026, 12:07 UTC | #24031</small>]]></content>
+  </entry>
   <entry>
     <title>CSS Text Decoration Properties Enable Precise Underlining</title>
     <link href="https://www.rubenerd.au/css-for-underlines/" rel="alternate" />
