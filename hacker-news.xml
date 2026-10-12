@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-12T15:03:00+00:00</updated>
+  <updated>2026-10-12T15:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Cyberattack Triggers Refrigeration Failure in Major French Supermarkets</title>
+    <link href="https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown" rel="alternate" />
+    <id>https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown::v239</id>
+    <published>2026-10-12T15:13:00+00:00</published>
+    <updated>2026-10-12T15:13:00+00:00</updated>
+    <media:thumbnail url="https://us.totalparts.com/167749-large_default/danfoss-084b4082-ak-cc55-refrigeration-control-6-analog-input-1-analog-output-supply-voltage-115-230-v-084b4182.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown">afp.com</a> | <a href="https://lobste.rs/s/u4vlin/french_supermarket_chains_say">discussion</a></small></p><hr/><p>Major French supermarket chains, including E. Leclerc, Intermarche, and Cooperative U, have been struck by a cyberattack that caused refrigeration systems to fail in hundreds of stores. The attack, which reportedly remotely triggered defrosting cycles, has led to massive food spoilage and prompted a formal investigation by Paris prosecutors.</p><p>The disruption specifically targeted Danfoss refrigeration control systems, particularly legacy models that no longer receive security updates. Authorities and cybersecurity agencies are investigating the scope of the attack and assessing the vulnerability of similar industrial equipment across Europe.</p><p><img src="https://us.totalparts.com/167749-large_default/danfoss-084b4082-ak-cc55-refrigeration-control-6-analog-input-1-analog-output-supply-voltage-115-230-v-084b4182.jpg" /></p><hr/><small>12 Oct 2026, 18:21 UTC | #24076</small>]]></content>
+  </entry>
   <entry>
     <title>Post-Quantum Cryptography Recommendations for Developers</title>
     <link href="https://words.filippo.io/right-answers/" rel="alternate" />

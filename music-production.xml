@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-12T11:45:00+00:00</updated>
+  <updated>2026-10-12T15:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Carbonated Audio Updates Foam Plugin with Windows VST3 Support and Free Demo</title>
+    <link href="https://www.kvraudio.com/news/carbonated-audio-updates-foam-to-v1-2-1---adds-windows-vst3-and-a-free-demo-69001?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69001" rel="alternate" />
+    <id>https://www.kvraudio.com/news/carbonated-audio-updates-foam-to-v1-2-1---adds-windows-vst3-and-a-free-demo-69001?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69001::v239</id>
+    <published>2026-10-12T15:12:00+00:00</published>
+    <updated>2026-10-12T15:12:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/foam-screenshot.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/carbonated-audio-updates-foam-to-v1-2-1---adds-windows-vst3-and-a-free-demo-69001?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69001">kvraudio.com</a> | <a href="https://carbonatedaudio.com/foam">source</a></small></p><hr/><p>Carbonated Audio has released version 1.2.1 of Foam, a tempo-synced ducking reverb plugin. The update adds 64-bit VST3 support for Windows 10 and 11, complementing its existing macOS compatibility for VST3, AU, and AAX formats.</p><p>The plugin is designed to prevent reverb tails from masking source signals by ducking during active audio and blooming in the gaps. This update includes the availability of a free demo for both platforms, and all existing licenses and sessions remain valid.</p><p><img src="https://static.kvraudio.com/i/b/foam-screenshot.png" /></p><hr/><small>12 Oct 2026, 18:19 UTC | #24038</small>]]></content>
+  </entry>
   <entry>
     <title>max1mus audio Releases Mult1Comp for Immersive Audio Mixing</title>
     <link href="https://www.kvraudio.com/news/max1mus-audio-releases-mult1comp---surround-multiband-compressor-and-frequency-router-for-atmos-aax-au-and-vst3-69053?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69053" rel="alternate" />
