@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-12T10:25:00+00:00</updated>
+  <updated>2026-10-12T11:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>China Plans $3.9 Trillion Grid Expansion to Support AI Ambitions</title>
+    <link href="https://www.bloomberg.com/graphics/2026-china-ai-energy-future/" rel="alternate" />
+    <id>https://www.bloomberg.com/graphics/2026-china-ai-energy-future/::v239</id>
+    <published>2026-10-12T11:28:00+00:00</published>
+    <updated>2026-10-12T11:28:00+00:00</updated>
+    <media:thumbnail url="https://www.home.saxo/-/media/content-hub/images/2026/00-07-july/china-electricity.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/graphics/2026-china-ai-energy-future/">bloomberg.com</a></small></p><hr/><p>China plans to invest an estimated $3.9 trillion into its electrical grid through 2049 to better integrate massive amounts of wind and solar power. This massive infrastructure project aims to mitigate energy waste—which reached approximately 9% of renewable output in 2026—and transform surplus green electricity into a competitive advantage for the country's growing artificial intelligence industry.</p><p>This planned expenditure is expected to be significantly larger than projected grid investments in the United States or Europe. By optimizing energy distribution from renewable-rich regions like Gansu, China intends to secure the massive power supplies required by next-generation AI data centers and compute clusters.</p><p><img src="https://www.home.saxo/-/media/content-hub/images/2026/00-07-july/china-electricity.png" /></p><hr/><small>12 Oct 2026, 15:01 UTC | #23990</small>]]></content>
+  </entry>
   <entry>
     <title>United States Restores UK Access to Frontier AI Models for Safety Testing</title>
     <link href="https://www.telegraph.co.uk/news/2026/10/11/britain-get-first-look-ai-systems-after-white-house-u-turn/" rel="alternate" />
