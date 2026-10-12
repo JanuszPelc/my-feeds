@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-12T18:48:00+00:00</updated>
+  <updated>2026-10-12T18:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>WindBorne Secures Up to $49 Million U.S. Air Force Contract for Balloon Data</title>
+    <link href="https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/::v239</id>
+    <published>2026-10-12T18:53:00+00:00</published>
+    <updated>2026-10-12T18:53:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/">techcrunch.com</a></small></p><hr/><p>The U.S. military has signed a contract with WindBorne Systems worth up to $49 million to purchase atmospheric data collected by its fleet of autonomous weather balloons. The startup operates approximately 700 balloons globally, providing sensor readings that are integrated into its proprietary AI weather forecasting models. This non-competitive agreement allows the military to place on-demand orders for specific regions; $1.7 million worth of data has been requested to date.</p><p>WindBorne uses this empirical data to train deep-learning models, such as WeatherMesh 6, which aims to provide faster and more accurate forecasts than traditional physics-based simulations. As AI-driven meteorology becomes vital for government responses to extreme weather events, WindBorne’s ability to navigate unpowered balloons into specific atmospheric conditions—including the eye of a typhoon—serves as a primary driver for its continued constellation expansion.</p><hr/><small>12 Oct 2026, 22:27 UTC | #24073</small>]]></content>
+  </entry>
   <entry>
     <title>AI-Driven Fraud Economy Reaches $442 Billion</title>
     <link href="https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTYyMzUwNywiZXhwIjoxNzkyMjI4MzA3LCJhcnRpY2xlSWQiOiJUTU9QMExWVFRDWk0wMCIsImJjb25uZWN0SWQiOiI3MkRBRjZBRDQ4RTc0MTVEOTU5MTY2Njg3Njg0RDBFQSJ9.Ob3hlz27GYGXnAqfH9hBX486CogDzXBWCf5u_j-5tcI" rel="alternate" />
