@@ -971,13 +971,4 @@
     <media:thumbnail url="https://www.includehelp.com/articles/images/rust-and-cpp-2.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/">bd103.dev</a> | <a href="https://lobste.rs/s/lgdxtw/c_for_rust_programmers">discussion</a></small></p><hr/><p>This article outlines several technical differences encountered when transitioning from Rust to C, specifically regarding boolean types, null-terminated strings, platform-dependent integer widths, and error handling mechanisms.</p><p>The discussion highlights how C's reliance on manual memory management, implicit array-to-pointer conversions, and the lack of a borrow checker contrasts with Rust's safety-oriented design and length-prefixed string implementation.</p><p><img src="https://www.includehelp.com/articles/images/rust-and-cpp-2.jpg" /></p><hr/><small>7 Oct 2026, 18:25 UTC | #23584</small>]]></content>
   </entry>
-  <entry>
-    <title>Common Anti-Patterns in Software Blogging Identified</title>
-    <link href="https://refactoringenglish.com/blog/anti-patterns-software-blogging/" rel="alternate" />
-    <id>https://refactoringenglish.com/blog/anti-patterns-software-blogging/::v239</id>
-    <published>2026-10-07T13:10:00+00:00</published>
-    <updated>2026-10-07T13:10:00+00:00</updated>
-    <media:thumbnail url="https://refactoringenglish.com/blog/anti-patterns-software-blogging/not-quite-how-devs-read-top-panels-stacked.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://refactoringenglish.com/blog/anti-patterns-software-blogging/">refactoringenglish.com</a> | <a href="https://lobste.rs/s/rwdufq/anti_patterns_software_blogging">discussion</a> | <a href="https://news.ycombinator.com/item?id=49992257">hacker news</a></small></p><hr/><p>Beginner software bloggers often struggle with meandering introductions, incorrect assumptions about a reader's technical knowledge, and excessive use of external links. These anti-patterns can frustrate readers and increase the cognitive load required to follow technical topics.</p><p>To optimize technical communication, writers should provide immediate value in the opening sentences, use relatable analogies, and favor concise in-text explanations over deep-linking. Additionally, ensuring mobile-friendly responsiveness and accessible typography is critical for maintaining reader focus in a landscape of increasingly homogeneous, AI-generated content.</p><p><img src="https://refactoringenglish.com/blog/anti-patterns-software-blogging/not-quite-how-devs-read-top-panels-stacked.webp" /></p><hr/><small>7 Oct 2026, 16:21 UTC | #23568</small>]]></content>
-  </entry>
 </feed>
