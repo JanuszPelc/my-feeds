@@ -936,29 +936,4 @@
     <media:thumbnail url="https://localscreens.pl/wp-content/uploads/2023/02/biuro-digital-signage-1.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://bigwords.page/">bigwords.page</a> | <a href="https://news.ycombinator.com/item?id=49994443">hacker news</a></small></p><hr/><p>Bigwords.page is a web utility that converts any browser-enabled device—including smartphones, tablets, and smart TVs—into a full-screen digital sign, timer, or message. The tool requires no accounts or server-side storage; instead, it embeds all display instructions, including text and styling, directly within the URL's parameters and fragments to allow for instant, shareable displays.</p><p>The service supports Markdown formatting, automated slideshows, countdown timers, and the generation of QR codes. Because the content is stored in the URL fragment, the information is not transmitted to a server, providing a privacy-focused method for displaying temporary information such as Wi-Fi credentials or event countdowns.</p><p><img src="https://localscreens.pl/wp-content/uploads/2023/02/biuro-digital-signage-1.webp" /></p><hr/><small>7 Oct 2026, 22:16 UTC | #23607</small>]]></content>
   </entry>
-  <entry>
-    <title>Ring Unveils $249 Smart Lock with Hand-Crank Battery Recharger</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-07/amazon-ring-unveils-249-smart-lock-with-dial-to-restore-dead-battery" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-07/amazon-ring-unveils-249-smart-lock-with-dial-to-restore-dead-battery::v239</id>
-    <published>2026-10-07T16:35:00+00:00</published>
-    <updated>2026-10-07T16:35:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-07/amazon-ring-unveils-249-smart-lock-with-dial-to-restore-dead-battery">bloomberg.com</a> | <a href="https://www.aboutamazon.com/news/devices/ring-smart-lock-battery-recharge">source</a></small></p><hr/><p>Ring has introduced its first smart lock, priced at $249, which includes a built-in physical dial to recharge the battery via a hand crank. This mechanism is intended to provide emergency power to prevent users from being locked out if the battery dies.</p><p>The product is scheduled for release in the first quarter of 2027. Alongside the smart lock, the company announced the unveiling of five new cameras.</p><hr/><small>7 Oct 2026, 21:21 UTC | #23561</small>]]></content>
-  </entry>
-  <entry>
-    <title>curl Accelerates Release of Version 8.23.0 to Address 22 Vulnerabilities</title>
-    <link href="https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/" rel="alternate" />
-    <id>https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/::v239</id>
-    <published>2026-10-07T16:28:00+00:00</published>
-    <updated>2026-10-07T16:28:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/lu8hl9/twenty_two_pending_curl_vulnerabilities">discussion</a> | <a href="https://news.ycombinator.com/item?id=49989543">hacker news</a></small></p><hr/><p>The curl project is accelerating the release of version 8.23.0 to October 14, 2026, to address 22 security vulnerabilities. This includes one high-severity flaw identified as CVE-2026-92392.</p><p>Technical details for the high-severity vulnerability will remain confidential until the release date to protect users and infrastructure. Updated versions of Rock-solid curl will be released in synchronization with the version 8.23.0 update.</p><hr/><small>7 Oct 2026, 20:21 UTC | #23601</small>]]></content>
-  </entry>
-  <entry>
-    <title>Chimera Linux Details cbuild Build Tooling Design</title>
-    <link href="https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html" rel="alternate" />
-    <id>https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html::v239</id>
-    <published>2026-10-07T16:24:00+00:00</published>
-    <updated>2026-10-07T16:24:00+00:00</updated>
-    <media:thumbnail url="https://chimera-linux.org/assets/screenshot.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html">chimera-linux.org</a> | <a href="https://lobste.rs/s/y5tke0/creating_distro_build_tooling_for_small">discussion</a></small></p><hr/><p>Chimera Linux's cbuild build system is designed to automate package management and reduce maintenance requirements for the project. The tool provides a unified, sandboxed environment for building, signing, and distributing packages, intended to enable users to act as package maintainers with minimal friction.</p><p>The design focuses on solving performance and security issues found in shell-based build systems, such as a lack of process isolation and slow introspection. Key features include integrated linting, mandatory unit testing, automated dependency validation, and streamlined cross-compilation workflows.</p><p><img src="https://chimera-linux.org/assets/screenshot.png" /></p><hr/><small>7 Oct 2026, 19:58 UTC | #23591</small>]]></content>
-  </entry>
 </feed>

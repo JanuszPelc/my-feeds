@@ -639,21 +639,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/robpapen_quad-2.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/rob-papen-releases-quad-2-synthesizer-plug-in-68952?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68952">kvraudio.com</a> | <a href="https://www.robpapen.com/Quad-2.html">source</a></small></p><hr/><p>Rob Papen has released QUAD-2, an updated version of its QUAD synthesizer plugin. The update features a redesigned interface, a new Ribbon Controller with a 12-slot modulation matrix, and expanded synthesis and modulation capabilities. The plugin maintains a two-oscillator architecture utilizing phase distortion and wave shaping, supporting up to 16-voice polyphony.</p><p>New features include a user wave editor for custom waveform drawing, 43 filter types with independent envelopes, and an expanded arpeggiator with sequencing modes. The plugin also provides three effects slots with 48 effect types and over 1,200 presets. QUAD-2 is available for €49/$49, with free upgrades for customers who purchased the original product after July 1, 2026.</p><p><img src="https://static.kvraudio.com/i/b/robpapen_quad-2.png" /></p><hr/><small>7 Oct 2026, 23:47 UTC | #23593</small>]]></content>
   </entry>
-  <entry>
-    <title>PSPaudioware Updates PSP McQ and PSP RetroQ to Version 1.9.0</title>
-    <link href="https://www.kvraudio.com/news/pspaudioware-updates-psp-mcq-and-psp-retroq-to-v1-9-0-68946?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68946" rel="alternate" />
-    <id>https://www.kvraudio.com/news/pspaudioware-updates-psp-mcq-and-psp-retroq-to-v1-9-0-68946?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68946::v239</id>
-    <published>2026-10-07T16:37:00+00:00</published>
-    <updated>2026-10-07T16:37:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/psp_mcq_190.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/pspaudioware-updates-psp-mcq-and-psp-retroq-to-v1-9-0-68946?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68946">kvraudio.com</a> | <a href="https://pspaudioware.com/">source</a></small></p><hr/><p>This update brings native Apple Silicon support, AAX and VST3 formats, and an upscaled high-resolution interface to the PSP McQ and PSP RetroQ plugins. Registered users can access the update for free, which also includes a new preset system and PACE iLok licensing integration.</p><p>Version 1.9.0 ends support for 32-bit systems, Windows 8 and earlier, and macOS 10.13 and earlier. While the update maintains full backward compatibility for existing sessions, users on legacy operating systems can continue to use older versions of the plugins.</p><p><img src="https://static.kvraudio.com/i/b/psp_mcq_190.jpg" /></p><hr/><small>7 Oct 2026, 21:25 UTC | #23576</small>]]></content>
-  </entry>
-  <entry>
-    <title>Your Smile is Art Releases Bubblegum Pitch Editor</title>
-    <link href="https://bedroomproducersblog.com/2026/10/07/bubblegum-pitch-editing/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/07/bubblegum-pitch-editing/::v239</id>
-    <published>2026-10-07T16:32:00+00:00</published>
-    <updated>2026-10-07T16:32:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/07/bubblegum-pitch-editing/">bedroomproducersblog.com</a> | <a href="https://yoursmileis.art/b/bubblegum">source</a> | <a href="https://bedroomproducersblog.com/2026/10/07/bubblegum-pitch-editing/#respond">discussion</a></small></p><hr/><p>Your Smile is Art has released bubblegum, a free pitch editing plugin for vocals and melodies. The tool allows users to retune, move, and stretch individual notes, including those within chords.</p><p>The plugin is available in AU and VST3 formats for macOS (10.13 and later) and Windows (10 or later).</p><hr/><small>7 Oct 2026, 20:50 UTC | #23580</small>]]></content>
-  </entry>
 </feed>
