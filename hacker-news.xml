@@ -928,12 +928,4 @@
     <updated>2026-10-07T19:50:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://wiro.world/posts/calling-c-func-without-naming-it/">wiro.world</a> | <a href="https://lobste.rs/s/ucwapn/calling_function_c_without_naming_it">discussion</a></small></p><hr/><p>The author describes a method to bypass automated code-grading systems that use Abstract Syntax Tree (AST) parsing to restrict specific function calls. By leveraging fixed relative offsets between permitted and forbidden functions in memory, it is possible to resolve the address of a restricted system call, such as execve, without explicitly naming the symbol in the source code.</p><p>The technique employs mmap to allocate a writable and executable memory page and utilizes C unions for type punning to circumvent compiler restrictions. This allows for the execution of custom assembly routines to trigger system calls, effectively bypassing Address Space Layout Randomization (ASLR) and program-level inspection.</p><hr/><small>8 Oct 2026, 00:24 UTC | #23616</small>]]></content>
   </entry>
-  <entry>
-    <title>ascii.rest Offers Animated ASCII Art for Web Pages</title>
-    <link href="https://ascii.rest/" rel="alternate" />
-    <id>https://ascii.rest/::v239</id>
-    <published>2026-10-07T17:22:00+00:00</published>
-    <updated>2026-10-07T17:22:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ascii.rest/">ascii.rest</a> | <a href="https://news.ycombinator.com/item?id=49993857">hacker news</a></small></p><hr/><p>ascii.rest is a service by @bas3line that allows developers to integrate animated ASCII art into websites using the `ascii.js` script. The tool functions without an installation or build step, loading animation sequences directly into the web page.</p><p>The implementation is designed with performance and accessibility in mind, playing animations only when they are visible on screen. It also supports reduced motion settings by holding the first frame of an animation for users who prefer less movement.</p><hr/><small>7 Oct 2026, 22:45 UTC | #23608</small>]]></content>
-  </entry>
 </feed>
