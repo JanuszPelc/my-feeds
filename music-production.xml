@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-12T04:56:00+00:00</updated>
+  <updated>2026-10-12T05:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Tupos Audio Releases Tupos MPE Subtractive Synthesizer Plugin</title>
+    <link href="https://www.kvraudio.com/news/tupos-audio-releases-tupos-mpe-subtractive-synth-plugin-vst3-and-au-69049?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69049" rel="alternate" />
+    <id>https://www.kvraudio.com/news/tupos-audio-releases-tupos-mpe-subtractive-synth-plugin-vst3-and-au-69049?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69049::v239</id>
+    <published>2026-10-12T05:26:00+00:00</published>
+    <updated>2026-10-12T05:26:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/01-instrument.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/tupos-audio-releases-tupos-mpe-subtractive-synth-plugin-vst3-and-au-69049?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69049">kvraudio.com</a> | <a href="https://tuposaudio.com/products/mpe-subtractive">source</a></small></p><hr/><p>The plugin is an analog-style subtractive synthesizer optimized for per-note expression via MPE. It features two oscillators with sub and noise layers, various resonant filters, and support for controller profiles for ROLI and LinnStrument.</p><p>Priced at €19.99 for macOS and Windows, the software includes an arpeggiator, a step sequencer, and eight effect slots. This is the second instrument in the Tupos MPE line, following Tupos MPE FM.</p><p><img src="https://static.kvraudio.com/i/b/01-instrument.jpg" /></p><hr/><small>12 Oct 2026, 11:44 UTC | #24024</small>]]></content>
+  </entry>
+  <entry>
+    <title>Tabarnak Audio Releases The Poutinizer Compressor and Saturator</title>
+    <link href="https://www.kvraudio.com/news/tabarnak-audio-releases-the-poutinizer---2-band-compressor-and-saturator-vst3-au-and-aax-69011?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69011" rel="alternate" />
+    <id>https://www.kvraudio.com/news/tabarnak-audio-releases-the-poutinizer---2-band-compressor-and-saturator-vst3-au-and-aax-69011?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69011::v239</id>
+    <published>2026-10-12T05:10:00+00:00</published>
+    <updated>2026-10-12T05:10:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/the-poutinizer.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/tabarnak-audio-releases-the-poutinizer---2-band-compressor-and-saturator-vst3-au-and-aax-69011?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69011">kvraudio.com</a> | <a href="https://tabarnakaudio.com/b/the-poutinizer">source</a></small></p><hr/><p>This parallel multiband compressor and saturator adds weight and texture to audio tracks through two control bands. "Cheese" provides low-frequency tube and tape saturation, while "Gravy" applies high-frequency FET saturation and presence; the midrange is left unprocessed to preserve clarity.</p><p>Developed by engineer Etienne Tremblay, the software is available for $29 in VST3, AU, and AAX formats for macOS and Windows, with VST3 support for Linux. It includes 13 factory presets, 4x internal oversampling, and approximately 0.5 ms of latency.</p><p><img src="https://static.kvraudio.com/i/b/the-poutinizer.jpg" /></p><hr/><small>12 Oct 2026, 11:40 UTC | #24028</small>]]></content>
+  </entry>
   <entry>
     <title>Tech Audio Releases Shrapnel Physics-Driven Sampler and MIDI Generator</title>
     <link href="https://www.kvraudio.com/news/tech-audio-releases-shrapnel-a-physics-driven-sampler-and-midi-generator-for-macos-and-windows-69048?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69048" rel="alternate" />

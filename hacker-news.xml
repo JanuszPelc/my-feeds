@@ -971,22 +971,4 @@
     <media:thumbnail url="https://refactoringenglish.com/blog/anti-patterns-software-blogging/not-quite-how-devs-read-top-panels-stacked.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://refactoringenglish.com/blog/anti-patterns-software-blogging/">refactoringenglish.com</a> | <a href="https://lobste.rs/s/rwdufq/anti_patterns_software_blogging">discussion</a> | <a href="https://news.ycombinator.com/item?id=49992257">hacker news</a></small></p><hr/><p>Beginner software bloggers often struggle with meandering introductions, incorrect assumptions about a reader's technical knowledge, and excessive use of external links. These anti-patterns can frustrate readers and increase the cognitive load required to follow technical topics.</p><p>To optimize technical communication, writers should provide immediate value in the opening sentences, use relatable analogies, and favor concise in-text explanations over deep-linking. Additionally, ensuring mobile-friendly responsiveness and accessible typography is critical for maintaining reader focus in a landscape of increasingly homogeneous, AI-generated content.</p><p><img src="https://refactoringenglish.com/blog/anti-patterns-software-blogging/not-quite-how-devs-read-top-panels-stacked.webp" /></p><hr/><small>7 Oct 2026, 16:21 UTC | #23568</small>]]></content>
   </entry>
-  <entry>
-    <title>Penguin Mail Releases Open-Source Mail and Calendar Client for Linux</title>
-    <link href="https://penguin-mail.com/" rel="alternate" />
-    <id>https://penguin-mail.com/::v239</id>
-    <published>2026-10-07T11:28:00+00:00</published>
-    <updated>2026-10-07T11:28:00+00:00</updated>
-    <media:thumbnail url="https://tom-doerr.github.io/repo_posts/assets/d99kris_nmail_20251222_153647_970_20251222_153705_02e75c.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://penguin-mail.com/">penguin-mail.com</a> | <a href="https://github.com/c9dev/penguin-mail">source</a> | <a href="https://news.ycombinator.com/item?id=49984716">hacker news</a></small></p><hr/><p>Penguin Mail is an open-source mail and calendar client for x86_64 Linux, released under the GPL-3.0 license. It provides a unified interface for Gmail, Microsoft 365, iCloud, and IMAP/POP3/SMTP accounts, incorporating integrated calendar (CalDAV) and contact management.</p><p>Developed in Rust with GTK4 and libadwaita, the application prioritizes privacy by processing data locally without a central server. It includes support for OpenPGP and S/MIME, Gmail-style inbox categorization, and an optional AI assistant that integrates with local models like Ollama or LM Studio.</p><p><img src="https://tom-doerr.github.io/repo_posts/assets/d99kris_nmail_20251222_153647_970_20251222_153705_02e75c.png" /></p><hr/><small>7 Oct 2026, 15:45 UTC | #23572</small>]]></content>
-  </entry>
-  <entry>
-    <title>Chrome Adds JPEG XL Decoding Support</title>
-    <link href="https://developer.chrome.com/blog/jpeg-xl-in-chrome" rel="alternate" />
-    <id>https://developer.chrome.com/blog/jpeg-xl-in-chrome::v239</id>
-    <published>2026-10-07T11:26:00+00:00</published>
-    <updated>2026-10-07T11:26:00+00:00</updated>
-    <media:thumbnail url="https://coywolf.com/wp-content/uploads/2026/01/chromium-canary-jpegxl.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://developer.chrome.com/blog/jpeg-xl-in-chrome">developer.chrome.com</a> | <a href="https://news.ycombinator.com/item?id=49991227">hacker news</a></small></p><hr/><p>Starting with version 155, Google Chrome will support decoding for the JPEG XL (.jxl) image format. This format provides 30-50% better compression than standard JPEG and includes support for lossless compression, HDR, and progressive decoding.</p><p>The implementation uses `jxl-rs`, a pure Rust reimplementation of the decoder, to mitigate memory safety risks. Performance is maintained through SIMD hardware optimizations and a custom abstraction layer that enables efficient, multi-platform execution.</p><p><img src="https://coywolf.com/wp-content/uploads/2026/01/chromium-canary-jpegxl.webp" /></p><hr/><small>7 Oct 2026, 14:58 UTC | #23563</small>]]></content>
-  </entry>
 </feed>
