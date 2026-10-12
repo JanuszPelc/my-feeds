@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-11T22:00:00+00:00</updated>
+  <updated>2026-10-11T22:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Challenges and Strategies for Managing Polyglot Documentation Sites</title>
+    <link href="https://technicalwriting.dev/blog/2026/10/polyglot/index.html" rel="alternate" />
+    <id>https://technicalwriting.dev/blog/2026/10/polyglot/index.html::v239</id>
+    <published>2026-10-11T22:03:00+00:00</published>
+    <updated>2026-10-11T22:03:00+00:00</updated>
+    <media:thumbnail url="https://technicalwriting.dev/_images/d1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://technicalwriting.dev/blog/2026/10/polyglot/index.html">technicalwriting.dev</a> | <a href="https://lobste.rs/s/wyxufm/wild_west_polyglot_docs_sites">discussion</a> | <a href="https://news.ycombinator.com/item?id=50019213">hacker news</a></small></p><hr/><p>Integrating disparate API reference generators, such as Doxygen, rustdoc, and Sphinx, into a single cohesive site remains a significant challenge for multi-language projects. Disparate outputs often suffer from inconsistent visual design, fragmented navigation, and incomplete search coverage, which can complicate the user experience for developers using various language libraries.</p><p>Strategies include transforming generator outputs into a unified markup format, adopting a "turducken" approach of hosting separate subsites linked via a common header, or writing documentation manually. While transformation preserves visual unity, it can strip essential language-specific features; conversely, the subsite approach maintains specialized UI but requires additional effort to unify navigation and search through tools like Pagefind.</p><p><img src="https://technicalwriting.dev/_images/d1.png" /></p><hr/><small>12 Oct 2026, 01:44 UTC | #23974</small>]]></content>
+  </entry>
   <entry>
     <title>Passkey Implementations and User Control</title>
     <link href="https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them" rel="alternate" />
