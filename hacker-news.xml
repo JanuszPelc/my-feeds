@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-11T18:21:00+00:00</updated>
+  <updated>2026-10-11T22:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Passkey Implementations and User Control</title>
+    <link href="https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them" rel="alternate" />
+    <id>https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them::v239</id>
+    <published>2026-10-11T22:00:00+00:00</published>
+    <updated>2026-10-11T22:00:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them">nonfunctional.substack.com</a> | <a href="https://news.ycombinator.com/item?id=50048312">hacker news</a></small></p><hr/><p>Passkey implementations can reduce user autonomy compared to traditional passwords or TOTP. While passwords and TOTP allow users to choose their own storage and sharing methods, the WebAuthn standard permits websites to mandate specific credential requirements—such as non-copyable or hardware-backed keys—which limits a user's ability to manage or migrate their own authentication data.</p><p>Credential types vary from software-backed to "attested" hardware-backed keys. While hardware-backed credentials leverage secure enclaves or TPMs to provide high security, they can be cryptographically verified through remote attestation, allowing services to reject user-managed software implementations in favor of more restrictive, hardware-dependent options.</p><hr/><small>12 Oct 2026, 00:53 UTC | #23971</small>]]></content>
+  </entry>
   <entry>
     <title>Tilde Expansion Issues in Quoted PATH Variables</title>
     <link href="https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/" rel="alternate" />
