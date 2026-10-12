@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-12T05:30:00+00:00</updated>
+  <updated>2026-10-12T10:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Linux Phones' Potential as an Alternative to Android and iOS</title>
+    <link href="https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/" rel="alternate" />
+    <id>https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/::v239</id>
+    <published>2026-10-12T10:34:00+00:00</published>
+    <updated>2026-10-12T10:34:00+00:00</updated>
+    <media:thumbnail url="https://ir.ozone.ru/s3/multimedia-1-w/c1000/7930022756.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/">amosbbatto.wordpress.com</a> | <a href="https://news.ycombinator.com/item?id=50051530">hacker news</a></small></p><hr/><p>Mobile Linux devices face significant hurdles in challenging the Android and iOS duopoly, primarily due to historical limitations in System-on-a-Chip (SoC) performance, lack of open-source drivers, and immature mobile interfaces. Early attempts like the Librem 5 and PinePhone struggled with inadequate processing power and software instability.</p><p>The availability of more powerful Rockchip and Qualcomm IoT SoCs, alongside maturing interfaces like Phosh, may enable a viable niche market. Industry trends, such as the increasing difficulty of unlocking Android bootloaders, could further drive demand for open mobile alternatives.</p><p><img src="https://ir.ozone.ru/s3/multimedia-1-w/c1000/7930022756.jpg" /></p><hr/><small>12 Oct 2026, 13:53 UTC | #24044</small>]]></content>
+  </entry>
+  <entry>
+    <title>Mark Dastmalchi-Round Details Development of ZX Spectrum Demoscene Intro</title>
+    <link href="https://www.markround.com/blog/2026/zx-spectrum-intro" rel="alternate" />
+    <id>https://www.markround.com/blog/2026/zx-spectrum-intro::v239</id>
+    <published>2026-10-12T10:32:00+00:00</published>
+    <updated>2026-10-12T10:32:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/9PtE6gJdZ9A/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.markround.com/blog/2026/zx-spectrum-intro">markround.com</a> | <a href="https://lobste.rs/s/nroajo/writing_demoscene_intro_for_zx_spectrum">discussion</a></small></p><hr/><p>Mark Dastmalchi-Round describes the process of creating a retro-style demoscene "crack intro" for the ZX Spectrum using Z80 assembly language. The 10,287-byte production features scrolling text, a three-channel AY soundtrack, and parallax starfield effects, all designed to run on stock 128Kb Spectrum hardware.</p><p>The technical overview covers the development environment, which utilizes the Pasmo assembler, zmakebas, and the FUSE emulator. The author also discusses the historical inspiration drawn from Amiga cracktros and the specific challenges of low-level programming, such as managing screen memory and interfacing with the hardware's ULA and AY sound chips.</p><p><img src="https://i.ytimg.com/vi/9PtE6gJdZ9A/maxresdefault.jpg" /></p><hr/><small>12 Oct 2026, 13:46 UTC | #24035</small>]]></content>
+  </entry>
   <entry>
     <title>AI Agents Decompile First-Person Shooter Using Byte-Matching Verification</title>
     <link href="https://momo5502.com/posts/2026-10-09-game-decompilation/" rel="alternate" />
