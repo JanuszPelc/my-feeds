@@ -983,22 +983,4 @@
     <updated>2026-10-07T00:22:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/boykopovar/AnyPS5">github.com</a> | <a href="https://news.ycombinator.com/item?id=49985664">hacker news</a></small></p><hr/><p>AnyPS5 is a tool designed to automatically port PlayStation 5 executables to Linux and Windows. The utility utilizes a relinker to convert executables into the target system's native format and provides implementations of system prx libraries for dynamic linking, allowing execution without a separate emulation layer or runtime process.</p><p>The project features a shader recompiler that produces SPIR-V output and provides support for SDL-mapped controllers. It is intended for use in software preservation, research, and interoperability efforts.</p><hr/><small>7 Oct 2026, 07:37 UTC | #23517</small>]]></content>
   </entry>
-  <entry>
-    <title>OSC 7501 Program Status Protocol Specification</title>
-    <link href="https://mitchellh.com/writing/program-status-osc7501" rel="alternate" />
-    <id>https://mitchellh.com/writing/program-status-osc7501::v239</id>
-    <published>2026-10-07T00:18:00+00:00</published>
-    <updated>2026-10-07T00:18:00+00:00</updated>
-    <media:thumbnail url="https://docs.oracle.com/en/cloud/saas/supply-chain-and-manufacturing/26a/facri/images/cjm_bpm_program_status.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://mitchellh.com/writing/program-status-osc7501">mitchellh.com</a> | <a href="https://www.superlogical.com/rex/docs/build/program-status">source</a> | <a href="https://lobste.rs/s/rmh4fg/terminal_protocol_for_program_status_osc">discussion</a> | <a href="https://news.ycombinator.com/item?id=49984159">hacker news</a></small></p><hr/><p>OSC 7501 is a terminal escape sequence specification that enables programs to communicate operational status—such as being idle, working, blocked, or finished—directly to a terminal emulator. By utilizing the pseudo-terminal (pty), applications can signal state changes without relying on unreliable screen-scraping heuristics or non-terminal APIs.</p><p>The protocol supports hierarchical task tracking, allowing a single program to report multiple concurrent sub-tasks with distinct states and messages. It is designed to improve visibility for long-running processes and AI agents, with implementations already available for the Ghostty terminal emulator and several command-line utilities.</p><p><img src="https://docs.oracle.com/en/cloud/saas/supply-chain-and-manufacturing/26a/facri/images/cjm_bpm_program_status.png" /></p><hr/><small>7 Oct 2026, 06:48 UTC | #23515</small>]]></content>
-  </entry>
-  <entry>
-    <title>COSMIC DE and KDE Plasma Desktop Environments Compared</title>
-    <link href="https://thelibre.news/is-cosmic-de-mogging-kde-plasma/" rel="alternate" />
-    <id>https://thelibre.news/is-cosmic-de-mogging-kde-plasma/::v239</id>
-    <published>2026-10-07T00:16:00+00:00</published>
-    <updated>2026-10-07T00:16:00+00:00</updated>
-    <media:thumbnail url="https://thelibre.news/content/images/2026/09/021-cosmic-appearance-overview.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://thelibre.news/is-cosmic-de-mogging-kde-plasma/">thelibre.news</a> | <a href="https://lobste.rs/s/7qjhic/is_cosmic_de_mogging_kde_plasma">discussion</a></small></p><hr/><p>COSMIC Desktop Environment offers several modern user experience improvements over KDE Plasma, including instant theme application, streamlined color customization, and advanced window tiling with stacking capabilities. The system also features adjustable interface density and integrated frosted glass effects that apply across windows and panels.</p><p>While KDE Plasma provides greater modularity and a significantly larger ecosystem of community-driven themes, COSMIC follows a "simple by default, powerful when needed" philosophy. This approach prioritizes ease of use in areas like window management and aesthetic settings, aiming to reduce the complexity often found in highly modular desktop environments.</p><p><img src="https://thelibre.news/content/images/2026/09/021-cosmic-appearance-overview.png" /></p><hr/><small>7 Oct 2026, 06:34 UTC | #23513</small>]]></content>
-  </entry>
 </feed>
