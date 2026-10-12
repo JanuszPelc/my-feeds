@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-12T01:19:00+00:00</updated>
+  <updated>2026-10-12T15:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Calculus Learning Notes Using Julia</title>
+    <link href="https://jverzani.github.io/CalculusWithJuliaNotes.jl/" rel="alternate" />
+    <id>https://jverzani.github.io/CalculusWithJuliaNotes.jl/::v239</id>
+    <published>2026-10-12T15:04:00+00:00</published>
+    <updated>2026-10-12T15:04:00+00:00</updated>
+    <media:thumbnail url="https://jaantollander.com/post/how-to-create-software-packages-with-julia-language/featured.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jverzani.github.io/CalculusWithJuliaNotes.jl/">jverzani.github.io</a> | <a href="https://news.ycombinator.com/item?id=50034206">hacker news</a></small></p><hr/><p>John Verzani provides a set of learning notes for studying calculus through the Julia programming language. The resource uses Julia's syntax and capabilities to demonstrate mathematical concepts via graphical, numerical, and symbolic methods, adhering to a multi-faceted pedagogical approach.</p><p>Presented as a Quarto book, the notes are supported by the `CalculusWithJulia` package to simplify common computational tasks. The material incorporates "try-it-yourself" exercises and focuses on core calculus concepts while minimizing the complexity of the underlying programming language.</p><p><img src="https://jaantollander.com/post/how-to-create-software-packages-with-julia-language/featured.png" /></p><hr/><small>12 Oct 2026, 17:03 UTC | #24066</small>]]></content>
+  </entry>
   <entry>
     <title>Rich Hickey: AI is Automation, Not a Tool</title>
     <link href="https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e" rel="alternate" />

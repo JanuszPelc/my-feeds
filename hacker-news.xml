@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-12T11:42:00+00:00</updated>
+  <updated>2026-10-12T15:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Post-Quantum Cryptography Recommendations for Developers</title>
+    <link href="https://words.filippo.io/right-answers/" rel="alternate" />
+    <id>https://words.filippo.io/right-answers/::v239</id>
+    <published>2026-10-12T15:03:00+00:00</published>
+    <updated>2026-10-12T15:03:00+00:00</updated>
+    <media:thumbnail url="https://www.saravanansubramanian.com/assets/images/other/PostQuantumCryptographyAlgorithms.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://words.filippo.io/right-answers/">words.filippo.io</a> | <a href="https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right">discussion</a> | <a href="https://news.ycombinator.com/item?id=50055409">hacker news</a></small></p><hr/><p>This guide provides updated cryptographic best practices for developers preparing for the transition to post-quantum security. It offers a technical cheat sheet of recommendations for symmetric encryption, hashing, digital signatures, and key exchange, noting an industry consensus that the migration to post-quantum standards should be completed by 2029.</p><p>The advice emphasizes hybrid key exchange models, such as combining X25519 with ML-KEM, to mitigate "harvest-now-decrypt-later" attacks. While symmetric cryptography is considered resilient with 256-bit keys, asymmetric protocols are shifting toward post-quantum standards like ML-DSA-44 and ML-KEM-768.</p><p><img src="https://www.saravanansubramanian.com/assets/images/other/PostQuantumCryptographyAlgorithms.jpg" /></p><hr/><small>12 Oct 2026, 16:59 UTC | #24061</small>]]></content>
+  </entry>
   <entry>
     <title>The Weimar Era of Ruby</title>
     <link href="https://blog.julik.nl/2026/10/the-weimar-of-ruby" rel="alternate" />
@@ -926,14 +935,5 @@
     <published>2026-10-07T17:22:00+00:00</published>
     <updated>2026-10-07T17:22:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ascii.rest/">ascii.rest</a> | <a href="https://news.ycombinator.com/item?id=49993857">hacker news</a></small></p><hr/><p>ascii.rest is a service by @bas3line that allows developers to integrate animated ASCII art into websites using the `ascii.js` script. The tool functions without an installation or build step, loading animation sequences directly into the web page.</p><p>The implementation is designed with performance and accessibility in mind, playing animations only when they are visible on screen. It also supports reduced motion settings by holding the first frame of an animation for users who prefer less movement.</p><hr/><small>7 Oct 2026, 22:45 UTC | #23608</small>]]></content>
-  </entry>
-  <entry>
-    <title>Bigwords.page Enables Full-Screen Digital Signage via URL Parameters</title>
-    <link href="https://bigwords.page/" rel="alternate" />
-    <id>https://bigwords.page/::v239</id>
-    <published>2026-10-07T16:56:00+00:00</published>
-    <updated>2026-10-07T16:56:00+00:00</updated>
-    <media:thumbnail url="https://localscreens.pl/wp-content/uploads/2023/02/biuro-digital-signage-1.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://bigwords.page/">bigwords.page</a> | <a href="https://news.ycombinator.com/item?id=49994443">hacker news</a></small></p><hr/><p>Bigwords.page is a web utility that converts any browser-enabled device—including smartphones, tablets, and smart TVs—into a full-screen digital sign, timer, or message. The tool requires no accounts or server-side storage; instead, it embeds all display instructions, including text and styling, directly within the URL's parameters and fragments to allow for instant, shareable displays.</p><p>The service supports Markdown formatting, automated slideshows, countdown timers, and the generation of QR codes. Because the content is stored in the URL fragment, the information is not transmitted to a server, providing a privacy-focused method for displaying temporary information such as Wi-Fi credentials or event countdowns.</p><p><img src="https://localscreens.pl/wp-content/uploads/2023/02/biuro-digital-signage-1.webp" /></p><hr/><small>7 Oct 2026, 22:16 UTC | #23607</small>]]></content>
   </entry>
 </feed>
