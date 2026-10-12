@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-12T15:02:00+00:00</updated>
+  <updated>2026-10-12T15:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI Automation Creates Human "Verification Tax" Bottleneck</title>
+    <link href="https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html::v239</id>
+    <published>2026-10-12T15:07:00+00:00</published>
+    <updated>2026-10-12T15:07:00+00:00</updated>
+    <media:thumbnail url="https://byteiota.com/wp-content/uploads/2026/01/featured-image-10-800x400.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html">nytimes.com</a></small></p><hr/><p>AI automation of office tasks is creating a "verification tax," a form of human labor required to review and correct machine-generated outputs. Research from Workday, Google, and MIT identifies this bottleneck as a phenomenon where the time saved by AI's speed is offset by the necessity of human validation to ensure accuracy.</p><p>This requirement for oversight threatens to limit the net productivity gains promised by generative AI. As AI outputs increase in volume, the professional workload is shifting from task execution to the continuous, time-consuming process of error mitigation and quality assurance.</p><p><img src="https://byteiota.com/wp-content/uploads/2026/01/featured-image-10-800x400.jpg" /></p><hr/><small>12 Oct 2026, 17:40 UTC | #24014</small>]]></content>
+  </entry>
   <entry>
     <title>SWI Group Raises €800M to Convert Bitcoin Mining Sites into AI Infrastructure</title>
     <link href="https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037?st=2ucRuF&amp;reflink=desktopwebshare_permalink" rel="alternate" />
