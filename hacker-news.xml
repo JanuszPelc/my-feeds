@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-12T10:34:00+00:00</updated>
+  <updated>2026-10-12T11:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>QGIS Bans AI and LLM-Assisted Code Contributions</title>
+    <link href="https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387" rel="alternate" />
+    <id>https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387::v239</id>
+    <published>2026-10-12T11:23:00+00:00</published>
+    <updated>2026-10-12T11:23:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387">github.com</a> | <a href="https://news.ycombinator.com/item?id=50054751">hacker news</a></small></p><hr/><p>QGIS has merged a proposal (QEP428) that prohibits all LLM, AI, or agent-assisted code contributions to its repository. This new policy replaces a previous "human-in-the-loop" guideline that permitted AI usage provided that all output was reviewed and transparently labeled with "Assisted-by" trailers.</p><p>Under the new rules, any discovered use of AI-based workflows in a contribution will result in code reversion and the potential sanctioning of the contributor's rights. While the current policy is a strict ban, project contributors indicated an intent to potentially allow specific AI use cases, such as autocomplete or translations, on a case-by-case basis in the future.</p><hr/><small>12 Oct 2026, 14:07 UTC | #24045</small>]]></content>
+  </entry>
   <entry>
     <title>Linux Phones' Potential as an Alternative to Android and iOS</title>
     <link href="https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/" rel="alternate" />
