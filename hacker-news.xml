@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-12T11:33:00+00:00</updated>
+  <updated>2026-10-12T11:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Weimar Era of Ruby</title>
+    <link href="https://blog.julik.nl/2026/10/the-weimar-of-ruby" rel="alternate" />
+    <id>https://blog.julik.nl/2026/10/the-weimar-of-ruby::v239</id>
+    <published>2026-10-12T11:42:00+00:00</published>
+    <updated>2026-10-12T11:42:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.julik.nl/2026/10/the-weimar-of-ruby">blog.julik.nl</a> | <a href="https://lobste.rs/s/lfen2h/living_weimar_era_ruby">discussion</a> | <a href="https://news.ycombinator.com/item?id=50054474">hacker news</a></small></p><hr/><p>A perceived loss of interest in the Ruby ecosystem by prominent developers suggests a transition into a "Weimar era"—a period of institutional instability that may trigger a renaissance of innovation. This shift, characterized by a lack of central leadership and the rise of AI-driven development, provides an opportunity for the community to rebuild and modernize the language's tooling and aesthetics.</p><p>Recent community-led developments include high-performance PDF libraries like sghtmltopdf, improved Parquet file handling via herringbone, and modernized gRPC implementations. These advancements aim to address long-standing technical gaps in Ruby by leveraging technologies like Rust and LLMs to improve performance and developer experience.</p><hr/><small>12 Oct 2026, 15:55 UTC | #24056</small>]]></content>
+  </entry>
   <entry>
     <title>Hacked Civilian Cameras Used in Israel-Iran Conflict for Surveillance and Warfare</title>
     <link href="https://www.wsj.com/tech/cybersecurity/video-cameras-webcams-hacked-war-b00b8a24?st=RRCsaw" rel="alternate" />

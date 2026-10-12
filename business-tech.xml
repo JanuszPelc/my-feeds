@@ -3,9 +3,26 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-12T11:28:00+00:00</updated>
+  <updated>2026-10-12T11:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI-Driven Layoffs in Software Engineering</title>
+    <link href="https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html" rel="alternate" />
+    <id>https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html::v239</id>
+    <published>2026-10-12T11:41:00+00:00</published>
+    <updated>2026-10-12T11:41:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html">cendyne.dev</a> | <a href="https://news.ycombinator.com/item?id=50053216">hacker news</a></small></p><hr/><p>An engineer recounts being replaced by an AI system, arguing that while large language models lack the professional judgment and long-term foresight of experienced developers, corporations are increasingly using them to justify headcount reductions. Companies often prioritize immediate cost-cutting and offshoring over the maintenance of technical quality and product integrity.</p><p>Beyond economic factors, the rise of AI for repetitive engineering tasks, such as code porting, is occurring alongside significant layoffs in the tech sector. While current models lack the capability to replace high-level engineering expertise, they are fundamentally altering how businesses allocate human capital and manage software development workflows.</p><hr/><small>12 Oct 2026, 15:53 UTC | #24055</small>]]></content>
+  </entry>
+  <entry>
+    <title>Uber Withdraws From Nigeria and Uganda Markets</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-11/uber-retreats-in-africa-as-cost-comes-before-comfort-and-safety" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-11/uber-retreats-in-africa-as-cost-comes-before-comfort-and-safety::v239</id>
+    <published>2026-10-12T11:40:00+00:00</published>
+    <updated>2026-10-12T11:40:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1YITFJ.img?w=1200&amp;h=675&amp;m=4&amp;q=50" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-11/uber-retreats-in-africa-as-cost-comes-before-comfort-and-safety">bloomberg.com</a></small></p><hr/><p>Uber has ceased operations in Nigeria and Uganda as part of a global strategic review. This withdrawal follows recent exits from Tanzania and Ivory Coast, marking a significant retreat from several African markets.</p><p>The move is driven by intense competition from lower-cost ride-hailing services like Bolt, inDrive, and Yango, which are attracting price-sensitive riders in the region. This restructuring is part of a broader company shift to focus resources on autonomous vehicles and delivery services.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1YITFJ.img?w=1200&h=675&m=4&q=50" /></p><hr/><small>12 Oct 2026, 15:46 UTC | #23994</small>]]></content>
+  </entry>
   <entry>
     <title>China Plans $3.9 Trillion Grid Expansion to Support AI Ambitions</title>
     <link href="https://www.bloomberg.com/graphics/2026-china-ai-energy-future/" rel="alternate" />
