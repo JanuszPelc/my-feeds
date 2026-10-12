@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-12T01:26:00+00:00</updated>
+  <updated>2026-10-12T04:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Implementing a 3-2-1 Backup Strategy with Restic and Backblaze B2</title>
+    <link href="https://chuck.is/paranoid/" rel="alternate" />
+    <id>https://chuck.is/paranoid/::v239</id>
+    <published>2026-10-12T04:59:00+00:00</published>
+    <updated>2026-10-12T04:59:00+00:00</updated>
+    <media:thumbnail url="https://spac-alliance.org/wp-content/uploads/2026/05/visual-backup-3-2-1-1024x1024.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://chuck.is/paranoid/">chuck.is</a> | <a href="https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic">discussion</a></small></p><hr/><p>A 3-2-1 backup strategy requires three copies of data across two different media types, with one copy stored off-site. This implementation utilizes restic for file encryption and deduplication, using Backblaze B2 as the off-site cloud storage provider. The process involves configuring Backblaze B2 buckets, setting up local environment variables and encryption passwords, and automating nightly backups through systemd services and timers.</p><p>Restic encrypts data before upload, ensuring that files stored in Backblaze B2 remain opaque and secure. To ensure successful disaster recovery, encryption passwords must be stored securely and periodic restore tests should be performed to verify that data remains accessible in the event of a hardware failure.</p><p><img src="https://spac-alliance.org/wp-content/uploads/2026/05/visual-backup-3-2-1-1024x1024.png" /></p><hr/><small>12 Oct 2026, 10:45 UTC | #24013</small>]]></content>
+  </entry>
   <entry>
     <title>Zeta Introduces New Borrow Checker Model</title>
     <link href="https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061" rel="alternate" />
