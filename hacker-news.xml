@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-11T22:03:00+00:00</updated>
+  <updated>2026-10-12T01:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Device Fingerprinting as a Persistent Tracking Alternative to Cookies</title>
+    <link href="https://royfish.dev/fingerprints-are-the-new-cookies" rel="alternate" />
+    <id>https://royfish.dev/fingerprints-are-the-new-cookies::v239</id>
+    <published>2026-10-12T01:21:00+00:00</published>
+    <updated>2026-10-12T01:21:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://royfish.dev/fingerprints-are-the-new-cookies">royfish.dev</a> | <a href="https://news.ycombinator.com/item?id=50048642">hacker news</a></small></p><hr/><p>Hardware and software characteristics can be aggregated to create unique digital identifiers, providing a persistent tracking mechanism as third-party cookies are phased out. By combining data points like GPU behavior, CPU models, and screen resolution, trackers can identify users consistently even after cookies are cleared or a VPN is activated.</p><p>Google's recent policy shifts toward permitting device fingerprinting in certain advertising products follow regulatory pressure and the failure of previous privacy-focused initiatives. Protecting against these identification methods requires browsers with engine-level protections, such as Brave, Tor, or Mullvad, which utilize "farbling" or standardized device profiles to minimize unique entropy.</p><hr/><small>12 Oct 2026, 05:25 UTC | #23984</small>]]></content>
+  </entry>
   <entry>
     <title>Challenges and Strategies for Managing Polyglot Documentation Sites</title>
     <link href="https://technicalwriting.dev/blog/2026/10/polyglot/index.html" rel="alternate" />
