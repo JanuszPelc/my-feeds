@@ -743,29 +743,4 @@
     <media:thumbnail url="https://www.reuters.com/resizer/v2/G36UETTMABMGZPZUW6PWCNSRT4.jpg?auth=f049b93a049222ce9584aec728253b902b1c597a76965908766d93125720139b&amp;width=1200&amp;quality=80" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/ad06ed89-f600-4694-8c95-7d53b6d3315b">ft.com</a></small></p><hr/><p>The European Commission is considering a broad levy on all large companies to capture tax revenue from major US-based digital services groups. This approach aims to bypass the trade tensions and political complexities associated with singling out specific American technology firms.</p><p>The initiative is aimed at securing funds for the European Union's budget. By utilizing a general corporate levy rather than a targeted digital services tax, the Commission seeks to meet its fiscal objectives through a broader tax base.</p><p><img src="https://www.reuters.com/resizer/v2/G36UETTMABMGZPZUW6PWCNSRT4.jpg?auth=f049b93a049222ce9584aec728253b902b1c597a76965908766d93125720139b&width=1200&quality=80" /></p><hr/><small>7 Oct 2026, 12:32 UTC | #23509</small>]]></content>
   </entry>
-  <entry>
-    <title>AI Startups Increasingly Become Serial Acquirers</title>
-    <link href="https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/" rel="alternate" />
-    <id>https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/::v239</id>
-    <published>2026-10-07T04:29:00+00:00</published>
-    <updated>2026-10-07T04:29:00+00:00</updated>
-    <media:thumbnail url="https://news.crunchbase.com/wp-content/uploads/mergers_and_acquisitions.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://news.crunchbase.com/ma/ai-startup-acquisitions-legal-healthcare-openai/">news.crunchbase.com</a></small></p><hr/><p>Venture-backed AI startup acquisitions reached 195 through September 29, a 14% increase over the entirety of 2025. A concentrated group of "serial acquirers," led by OpenAI, is driving this trend as they use mergers and acquisitions to secure specialized talent, fill product gaps, and enter new markets faster than through organic development.</p><p>Vertical AI sectors like legal tech and customer service are seeing similar trends from companies including Anthropic, Legora, and Harvey. High valuations and the necessity for rapid growth have positioned M&amp;A as a strategic tool for startups seeking to scale quickly to meet investor demands.</p><p><img src="https://news.crunchbase.com/wp-content/uploads/mergers_and_acquisitions.jpg" /></p><hr/><small>7 Oct 2026, 11:09 UTC | #23507</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rapidus Partners with 17 Companies to Support Chip Design</title>
-    <link href="https://www.reuters.com/world/asia-pacific/japans-15-billion-rapidus-chip-bet-hinges-winning-customers-2026-10-06/" rel="alternate" />
-    <id>https://www.reuters.com/world/asia-pacific/japans-15-billion-rapidus-chip-bet-hinges-winning-customers-2026-10-06/::v239</id>
-    <published>2026-10-07T04:26:00+00:00</published>
-    <updated>2026-10-07T04:26:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/japans-15-billion-rapidus-chip-bet-hinges-winning-customers-2026-10-06/">reuters.com</a> | <a href="https://www.rapidus.inc/en/news_topics/information/20261005-2/">source</a></small></p><hr/><p>Rapidus Corporation has established the Rapidus Collaborative Open Rapid Ecosystem (CORE) to support the development and mass production of advanced semiconductors. The initiative involves 17 partner companies, including Synopsys and Cadence, which will act as Design Solution Associates to assist customers in designing chips for Rapidus's planned 2nm semiconductor foundry.</p><p>Supported by over $15 billion in Japanese state funding, the company aims to build a comprehensive ecosystem to secure a customer base for its upcoming manufacturing capabilities. These partnerships are intended to provide the design resources and specialized expertise required to bridge the gap between chip designers and Rapidus's production facilities.</p><hr/><small>7 Oct 2026, 10:47 UTC | #23505</small>]]></content>
-  </entry>
-  <entry>
-    <title>GitHub Refuses to Remove Ad-Stripped Copies of Photopea Software</title>
-    <link href="https://news.ycombinator.com/item?id=49982498" rel="alternate" />
-    <id>https://news.ycombinator.com/item?id=49982498::v239</id>
-    <published>2026-10-07T04:23:00+00:00</published>
-    <updated>2026-10-07T04:23:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=49982498">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=49982498">hacker news</a></small></p><hr/><p>A developer, identified via related context as the creator of the Photopea image editor, has reported that GitHub refused to remove repositories hosting "cracked" versions of their software. These repositories host the application's JavaScript code but have been stripped of all advertisements and obfuscation, allowing users to run the tool without the developer's intended monetization.</p><p>GitHub's refusal stems from the developer's filing of a takedown notice under 17 U.S. Code § 1201, which pertains to the circumvention of technological measures. GitHub maintains that obfuscated JavaScript does not qualify for protection under this specific statute, prompting legal discussion that the developer may have better success filing under standard copyright infringement provisions instead.</p><hr/><small>7 Oct 2026, 09:49 UTC | #23525</small>]]></content>
-  </entry>
 </feed>

@@ -975,21 +975,4 @@
     <media:thumbnail url="https://image.theregister.com/?imageId=237408&amp;width=800" />
     <content type="html"><![CDATA[<p><small>The Register AI/ML | <a href="https://www.theregister.com/software/2026/10/07/cosmic-shuts-the-door-on-ai-code-as-gnome-debates-letting-bug-reports-in/5301141">theregister.com</a> | <a href="https://github.com/pop-os/cosmic-epoch/blob/master/.github/PULL_REQUEST_TEMPLATE.md">source</a></small></p><hr/><p>The COSMIC desktop environment's contributor guidelines now strictly prohibit the use of large language models (LLMs) in pull requests. Submissions must include a certification that no AI-generated content was used in the code, comments, or descriptions.</p><p>This decision aligns with certain GNOME sub-projects that also restrict AI-generated submissions. However, the stance remains controversial; some developers argue that allowing AI-generated bug reports could be essential for discovering security vulnerabilities in large, complex codebases.</p><p><img src="https://image.theregister.com/?imageId=237408&width=800" /></p><hr/><small>7 Oct 2026, 13:13 UTC | #23520</small>]]></content>
   </entry>
-  <entry>
-    <title>Unsloth Adds Integrated Browser and EmbeddingGemma 2 Support</title>
-    <link href="https://unsloth.ai/docs/new/changelog#embeddinggemma-2--browser" rel="alternate" />
-    <id>https://unsloth.ai/docs/new/changelog#embeddinggemma-2--browser::v239</id>
-    <published>2026-10-07T04:27:00+00:00</published>
-    <updated>2026-10-07T04:27:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQG26RcdS2mFUQ/feedshare-shrink_800/B4EZnoD3ZbKkAg-/0/1760534953038?e=2147483647&amp;v=beta&amp;t=bSt3819nvLxqSMBeASCQW5tXDH_1Xl56BaUwEswXseg" />
-    <content type="html"><![CDATA[<p><small>Unsloth Changelog | <a href="https://unsloth.ai/docs/new/changelog#embeddinggemma-2--browser">unsloth.ai</a></small></p><hr/><p>Unsloth has integrated a browser into its platform, enabling users to view files, web pages, and model-generated HTML in tabs alongside the chat interface. The release also includes support for Google's EmbeddingGemma 2, a multimodal embedding model that integrates text, code, images, video, and audio into a single vector space.</p><p>Additional features include new audio pages for transcription and music generation, lower-memory training options, and a code execution sandbox with Colab and Docker support. Users can also access live previews during image and video generation and utilize vLLM or SGLang engines.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQG26RcdS2mFUQ/feedshare-shrink_800/B4EZnoD3ZbKkAg-/0/1760534953038?e=2147483647&v=beta&t=bSt3819nvLxqSMBeASCQW5tXDH_1Xl56BaUwEswXseg" /></p><hr/><small>7 Oct 2026, 10:54 UTC | #23536</small>]]></content>
-  </entry>
-  <entry>
-    <title>Arizona Court System Cyberattack Compromises 1.3 Million People's Data</title>
-    <link href="https://apnews.com/article/arizona-court-system-cyberattack-67a83df1d6c80cdf07ee2c208bf6e676" rel="alternate" />
-    <id>https://apnews.com/article/arizona-court-system-cyberattack-67a83df1d6c80cdf07ee2c208bf6e676::v239</id>
-    <published>2026-10-07T04:24:00+00:00</published>
-    <updated>2026-10-07T04:24:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://apnews.com/article/arizona-court-system-cyberattack-67a83df1d6c80cdf07ee2c208bf6e676">apnews.com</a> | <a href="https://www.azcourts.gov/Portals/0/201/Press+Releases/2026/NewsReleaseArizonaCourtsExperienceCyberAttack.pdf">source</a></small></p><hr/><p>A September 24 cyberattack on the Arizona court system has compromised the personal information of approximately 1.3 million people. The breach includes the theft of 30,000 orders of protection and 150,000 confidential reports from a foster care board.</p><p>The stolen data includes Social Security numbers and records for individuals with unpaid court debts, fines, or restitution. The attack is believed to have originated from a phishing incident that granted hackers access to sensitive information on backup servers.</p><hr/><small>7 Oct 2026, 10:21 UTC | #23504</small>]]></content>
-  </entry>
 </feed>
