@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Googlebooks Laptops Face Connectivity and Optimization Issues</title>
+    <link href="https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing" rel="alternate" />
+    <id>https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing::v239</id>
+    <published>2026-10-12T18:43:00+00:00</published>
+    <updated>2026-10-12T18:43:00+00:00</updated>
+    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/asus-googlebook-android-17.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing">theverge.com</a> | <a href="https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/">source</a></small></p><hr/><p>Google’s new Googlebook laptop series, which leverages Android software for smartphone continuity, currently provides an inconsistent user experience. While users can cast specific phone apps to the laptop and access certain mobile apps, the platform is hindered by unreliable device pairing, broken file-sharing mechanisms, and poor scaling of desktop-standard applications.</p><p>Key productivity tools like Slack and Adobe apps often fail to function effectively on the mobile-based software, and the "Continue On" feature remains inconsistent. While the integration between phone and laptop shows potential, current limitations in notification management and app optimization make the devices a difficult alternative to traditional laptops.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/asus-googlebook-android-17.jpg?quality=90&strip=all&crop=0,0,100,100" /></p><hr/><small>12 Oct 2026, 21:27 UTC | #24049</small>]]></content>
+  </entry>
+  <entry>
     <title>Corey Prophitt Ships Commercial Web Product Using C and CGI</title>
     <link href="https://prophitt.me/writing/a-modern-web-app-in-c" rel="alternate" />
     <id>https://prophitt.me/writing/a-modern-web-app-in-c::v239</id>
