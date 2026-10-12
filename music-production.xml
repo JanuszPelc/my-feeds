@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-12T06:25:00+00:00</updated>
+  <updated>2026-10-12T10:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Kenneth Blume Discusses Name Change and His Putnam Hill Studio</title>
+    <link href="https://musictech.com/features/interviews/kenneth-blume/" rel="alternate" />
+    <id>https://musictech.com/features/interviews/kenneth-blume/::v239</id>
+    <published>2026-10-12T10:26:00+00:00</published>
+    <updated>2026-10-12T10:26:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/MT-HERO-KENNETH-BLUME-CREDIT-EVAN-TETREAULT@2560x1707.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/features/interviews/kenneth-blume/">musictech.com</a></small></p><hr/><p>Producer Kenneth Blume, formerly known by the moniker Kenny Beats, has transitioned to using his legal name as his work expands beyond hip-hop into rock, metal, and film scoring. He has also established Putnam Hill, a performance-focused studio in Los Angeles designed to facilitate spontaneous recording with live instrumentation.</p><p>Blume’s production philosophy emphasizes capturing live energy and "anti-production" techniques, prioritizing organic performance over rigid digital grids. His approach involves deep research into collaborators to anticipate their creative directions and the use of custom hardware, such as the Wandertone synthesizer, designed for immediate tactile control.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/MT-HERO-KENNETH-BLUME-CREDIT-EVAN-TETREAULT@2560x1707.jpg" /></p><hr/><small>12 Oct 2026, 12:48 UTC | #23989</small>]]></content>
+  </entry>
   <entry>
     <title>Soundtrap Adds Support for Third-Party VST Plugins</title>
     <link href="https://bedroomproducersblog.com/2026/10/12/soundtrap-third-party-plugins/" rel="alternate" />
