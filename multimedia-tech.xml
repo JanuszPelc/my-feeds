@@ -3,9 +3,17 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-11T23:29:00+00:00</updated>
+  <updated>2026-10-12T19:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Replacing SHA1 with xxHash Speeds Up Unreal Engine Editor Startup</title>
+    <link href="https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/" rel="alternate" />
+    <id>https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/::v239</id>
+    <published>2026-10-12T19:12:00+00:00</published>
+    <updated>2026-10-12T19:12:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/">larstofus.com</a> | <a href="https://github.com/EpicGames/UnrealEngine/pull/15237">source</a> | <a href="https://lobste.rs/s/5feguu/speeding_up_unreal_editor_by_not_using">discussion</a></small></p><hr/><p>Replacing the SHA1 hashing algorithm with xxHash for shader source code reduces Unreal Engine editor startup times. Because shader source code is non-sensitive data, the cryptographically secure but computationally expensive SHA1 was deemed unnecessary for this specific task.</p><p>In performance testing on the "Electric Dreams" sample project, CPU time for the hashing process dropped from 12.90 seconds to 1.59 seconds, representing an eightfold speedup for that operation. Epic Games developers have reviewed and accepted the optimization as a pull request to the Unreal Engine codebase.</p><hr/><small>13 Oct 2026, 02:41 UTC | #24106</small>]]></content>
+  </entry>
   <entry>
     <title>Way of Rhea Developer Discusses Six-Year Development in Rust</title>
     <link href="https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust" rel="alternate" />
