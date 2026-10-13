@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-13T17:01:00+00:00</updated>
+  <updated>2026-10-13T17:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Laplace Intelligence Develops AI-Driven Red-Teaming for Robotics and Autonomous Vehicles</title>
+    <link href="https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/::v239</id>
+    <published>2026-10-13T17:31:00+00:00</published>
+    <updated>2026-10-13T17:31:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/">techcrunch.com</a> | <a href="https://www.laplaceintelligence.com/">source</a></small></p><hr/><p>This automated stress-testing platform uses AI agents to simulate complex edge cases for robotics and self-driving cars. By probing for vulnerabilities within high-fidelity, interactive environments, the technology aims to verify safety in simulation before physical hardware is deployed in the real world.</p><p>Founded by University of Michigan researchers, the startup has secured customers including Isuzu, Nvidia, and Bot Auto. Laplace intends to scale its technology to address the safety needs of generalized robotics and smart city infrastructure, competing in a market that includes established firms like Applied Intuition.</p><hr/><small>13 Oct 2026, 22:43 UTC | #24184</small>]]></content>
+  </entry>
   <entry>
     <title>Google Play Adds Support for Private Vibe-Coded Apps</title>
     <link href="https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/" rel="alternate" />
