@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-12T15:04:00+00:00</updated>
+  <updated>2026-10-12T22:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Huahai Rebuts Rich Hickey’s Argument That AI Is Not a Tool</title>
+    <link href="https://yyhh.org/blog/2026/10/ai-is-a-tool/" rel="alternate" />
+    <id>https://yyhh.org/blog/2026/10/ai-is-a-tool/::v239</id>
+    <published>2026-10-12T22:04:00+00:00</published>
+    <updated>2026-10-12T22:04:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/">yyhh.org</a> | <a href="https://news.ycombinator.com/item?id=50063427">hacker news</a></small></p><hr/><p>Large Language Models (LLMs) function as tools requiring human skill, rather than being mere forms of automation. Since automation is a standard feature in tools like compilers and spreadsheets, LLMs can be effectively wielded through human intention, feedback, and expertise.</p><p>Industry-standard anthropomorphic language, such as describing software errors as "conspiring," is criticized for framing technical failures as the actions of independent beings. The critical distinction is between the skilled use of an instrument and the delegation of work without human oversight or understanding.</p><hr/><small>13 Oct 2026, 04:22 UTC | #24110</small>]]></content>
+  </entry>
   <entry>
     <title>Calculus Learning Notes Using Julia</title>
     <link href="https://jverzani.github.io/CalculusWithJuliaNotes.jl/" rel="alternate" />
