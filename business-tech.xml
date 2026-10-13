@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-13T13:45:00+00:00</updated>
+  <updated>2026-10-13T16:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Christopher Harborne and Ben Delo Donate $100M to Reform UK</title>
+    <link href="https://www.nytimes.com/2026/10/13/business/nigel-farage-crypto-uk-politics.html?unlocked_article_code=1.IVE.pjd7.0lbWYqB5aeip&amp;smid=nytcore-ios-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/13/business/nigel-farage-crypto-uk-politics.html?unlocked_article_code=1.IVE.pjd7.0lbWYqB5aeip&amp;smid=nytcore-ios-share::v239</id>
+    <published>2026-10-13T16:07:00+00:00</published>
+    <updated>2026-10-13T16:07:00+00:00</updated>
+    <media:thumbnail url="https://www.globalbankingandfinance.com/i/cloud-e7802e5f-b1c8-44ac-81dd-4bda9b17842a/width=1200,quality=72,format=auto,fit=cover/" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/13/business/nigel-farage-crypto-uk-politics.html?unlocked_article_code=1.IVE.pjd7.0lbWYqB5aeip&smid=nytcore-ios-share">nytimes.com</a></small></p><hr/><p>Crypto billionaires Christopher Harborne and Ben Delo have contributed approximately $100 million to Nigel Farage's Reform UK party, marking the largest political donation in United Kingdom history. Harborne holds roughly 12% of the cryptocurrency firm Tether.</p><p>This influx of capital provides Reform UK with significant financial resources for its political operations. The contribution highlights the growing influence of the cryptocurrency sector and its stakeholders within the United Kingdom's political landscape.</p><p><img src="https://www.globalbankingandfinance.com/i/cloud-e7802e5f-b1c8-44ac-81dd-4bda9b17842a/width=1200,quality=72,format=auto,fit=cover/" /></p><hr/><small>13 Oct 2026, 17:55 UTC | #24128</small>]]></content>
+  </entry>
   <entry>
     <title>FairScan Developer Alleges Unattributed Code Use by Ente Locker</title>
     <link href="https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/" rel="alternate" />

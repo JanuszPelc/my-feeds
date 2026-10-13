@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-13T13:47:00+00:00</updated>
+  <updated>2026-10-13T16:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Michał Górny Urges Avoidance of uv-build as a Python Build Backend</title>
+    <link href="https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/" rel="alternate" />
+    <id>https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/::v239</id>
+    <published>2026-10-13T16:08:00+00:00</published>
+    <updated>2026-10-13T16:08:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/">blogs.gentoo.org</a> | <a href="https://lobste.rs/s/73ssw1/plea_not_use_uv_build">discussion</a></small></p><hr/><p>The Rust-based uv-build backend is increasing build overhead and maintenance for Gentoo users. Its large binary size—between 1.2 MiB and 1.5 MiB—combined with frequent updates, requires users of source distributions to rebuild the tool repeatedly, which has caused some packages to lose architectural keyword support.</p><p>Estimated performance gains of approximately 100ms are outweighed by the time required to fetch and build the large wheels. Additionally, the tool's reliance on Rust presents portability challenges for certain architectures and 32-bit systems. Because PEP 517 allows for various backends, lightweight alternatives like flit-core remain compatible with standard frontends while avoiding these overheads.</p><hr/><small>13 Oct 2026, 17:56 UTC | #24171</small>]]></content>
+  </entry>
   <entry>
     <title>Alibaba Unveils Qwen Glasses N1 and AI Earbuds</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-13/alibaba-unveils-450-ai-glasses-in-expanding-push-into-gadgets" rel="alternate" />
