@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-13T16:31:00+00:00</updated>
+  <updated>2026-10-13T16:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Firefox Setting Improves Resumability for Large Downloads</title>
+    <link href="https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html" rel="alternate" />
+    <id>https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html::v239</id>
+    <published>2026-10-13T16:34:00+00:00</published>
+    <updated>2026-10-13T16:34:00+00:00</updated>
+    <media:thumbnail url="https://1.bp.blogspot.com/-0p-WKhTAGw0/X4A2ytZtLPI/AAAAAAAAAbU/zSbjM8bN8XEXjoOJQ8zyDLmL3cUn2zmFQCLcBGAsYHQ/s640/Firefox-network-pipelining.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html">lunarwatcher.codeberg.page</a> | <a href="https://news.ycombinator.com/item?id=50061791">hacker news</a></small></p><hr/><p>Adjusting the `network.http.response.timeout` setting in Firefox's `about:config` can improve the stability and resumability of large file downloads. Setting the value to `0` or a significantly larger number helps prevent the browser from timing out, provided the server supports resumable transfers.</p><p>Since Firefox 28, the default timeout is 300 seconds. This configuration may interfere with the browser's ability to use existing `.part` files for resumption when a connection is interrupted, as exceeding the timeout can disrupt the browser's internal retry mechanisms.</p><p><img src="https://1.bp.blogspot.com/-0p-WKhTAGw0/X4A2ytZtLPI/AAAAAAAAAbU/zSbjM8bN8XEXjoOJQ8zyDLmL3cUn2zmFQCLcBGAsYHQ/s640/Firefox-network-pipelining.jpg" /></p><hr/><small>13 Oct 2026, 21:18 UTC | #24202</small>]]></content>
+  </entry>
   <entry>
     <title>Creusot 0.14.0 Adds Partial Order Support and rust-analyzer Integration</title>
     <link href="https://devlog.creusot.rs/v0-14-0/" rel="alternate" />
