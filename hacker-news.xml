@@ -3,9 +3,26 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-13T10:28:00+00:00</updated>
+  <updated>2026-10-13T13:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Introduces HomeView Smart Home Hub</title>
+    <link href="https://www.apple.com/apple-homeview/" rel="alternate" />
+    <id>https://www.apple.com/apple-homeview/::v239</id>
+    <published>2026-10-13T13:03:00+00:00</published>
+    <updated>2026-10-13T13:03:00+00:00</updated>
+    <media:thumbnail url="https://www.apple.com/v/apple-homeview/a/images/overview/entertainment/entertainment_startframe__e5dn96s1qwia_large.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.apple.com/apple-homeview/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=50071017">hacker news</a></small></p><hr/><p>Apple HomeView is a smart home hub featuring a 7-inch Liquid Retina display and the A18 chip. The device integrates Siri AI, powered by Apple Intelligence, to provide personalized assistance, wide-ranging world knowledge, and conversational capabilities. It serves as a central command for the Apple Home app, enabling control over smart accessories, monitoring of video feeds, and management of home automations.</p><p>The device's audio system includes custom drivers and support for Spatial Audio, while a four-microphone array facilitates FaceTime and Intercom communication. Security features include Secure Exclaves in the A18 chip that process facial and voice recognition data privately. The hub supports up to six users, syncing personalized content from their paired iPhones or iPads when they are recognized.</p><p><img src="https://www.apple.com/v/apple-homeview/a/images/overview/entertainment/entertainment_startframe__e5dn96s1qwia_large.jpg" /></p><hr/><small>13 Oct 2026, 15:49 UTC | #24168</small>]]></content>
+  </entry>
+  <entry>
+    <title>PostgreSQL 19 Beta Sees High Number of Feature Reverts</title>
+    <link href="https://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves" rel="alternate" />
+    <id>https://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves::v239</id>
+    <published>2026-10-13T11:38:00+00:00</published>
+    <updated>2026-10-13T11:38:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves">peter.eisentraut.org</a> | <a href="https://lobste.rs/s/aasanp/reverts_will_continue_until_morale">discussion</a></small></p><hr/><p>PostgreSQL developer Peter Eisentraut explains why 8 to 10 significant features were removed from the PostgreSQL 19 beta period. He attributes these reverts to increased scrutiny from LLM-assisted code review, the "Vulnpocalypse" security work which diverted senior developers, and the high architectural complexity of the database.</p><p>To address these issues, Eisentraut suggests that the project consider a formal "experimental" status for new features to allow them to mature within the main tree. Despite the removals, the PostgreSQL 19 release is expected to still feature key updates such as REPACK CONCURRENTLY, logical replication of sequences, and planner hinting.</p><hr/><small>13 Oct 2026, 15:44 UTC | #24170</small>]]></content>
+  </entry>
   <entry>
     <title>Rust Lifetime Requirements Bypassed via Covariant Field Assignment</title>
     <link href="https://github.com/rust-lang/rust/issues/164250" rel="alternate" />
