@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>W1700K-SDR Converts Gemtek W1700K Router Into Wideband SDR Receiver</title>
+    <link href="https://github.com/h0m3us3r/w1700k-sdr" rel="alternate" />
+    <id>https://github.com/h0m3us3r/w1700k-sdr::v239</id>
+    <published>2026-10-12T19:09:00+00:00</published>
+    <updated>2026-10-12T19:09:00+00:00</updated>
+    <media:thumbnail url="https://forum.openwrt.org/uploads/default/original/3X/9/e/9ee08d9ba5183b70a5bdef420e8e454d42cab7b2.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/h0m3us3r/w1700k-sdr">github.com</a> | <a href="https://news.ycombinator.com/item?id=50055593">hacker news</a></small></p><hr/><p>The Gemtek W1700K Wi-Fi 7 router can be converted into a wideband software-defined radio (SDR) receiver by replacing its original MediaTek firmware with custom code. The MediaTek MT7996 radio captures 14-bit raw IQ samples at sample rates up to 320 Msps, which the Airoha AN7581 SoC streams via a 10 GbE connection to a Linux host.</p><p>A web-based interface provides real-time spectrum and waterfall visualizations, allowing for live control over tuning, gain, and filtering. This receive-only implementation operates without proprietary MediaTek firmware, requiring a custom ROM patch to initialize the radio hardware.</p><p><img src="https://forum.openwrt.org/uploads/default/original/3X/9/e/9ee08d9ba5183b70a5bdef420e8e454d42cab7b2.jpeg" /></p><hr/><small>13 Oct 2026, 02:04 UTC | #24105</small>]]></content>
+  </entry>
+  <entry>
     <title>C Standard Implementation Discrepancies in GCC, Clang, glibc, and musl</title>
     <link href="https://sebsite.pw/w/20261012-notstdc.html" rel="alternate" />
     <id>https://sebsite.pw/w/20261012-notstdc.html::v239</id>
