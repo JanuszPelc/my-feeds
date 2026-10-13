@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-13T13:09:00+00:00</updated>
+  <updated>2026-10-13T16:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Dead Signal Audio Releases Nu Series Free Plugins</title>
+    <link href="https://www.kvraudio.com/news/dead-signal-audio-releases-the-nu-series---four-free-plugins-au-and-vst3-69080?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69080" rel="alternate" />
+    <id>https://www.kvraudio.com/news/dead-signal-audio-releases-the-nu-series---four-free-plugins-au-and-vst3-69080?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69080::v239</id>
+    <published>2026-10-13T16:27:00+00:00</published>
+    <updated>2026-10-13T16:27:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/nusat-kvr.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dead-signal-audio-releases-the-nu-series---four-free-plugins-au-and-vst3-69080?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69080">kvraudio.com</a> | <a href="https://deadsignalaudio.com/nu/">source</a></small></p><hr/><p>Dead Signal Audio has released the Nu Series, a collection of four free audio plugins designed for mixing heavy guitar, bass, and drums. The suite includes NuSat, a saturator and clipper; NuEQ, an 8-band dynamic EQ; NuComp, a compressor; and NuGate, a noise gate.</p><p>The plugins are available for macOS (AU and VST3) and Windows (VST3). These tools are specifically engineered to address the needs of high-gain music production and aggressive mixing styles.</p><p><img src="https://static.kvraudio.com/i/b/nusat-kvr.jpg" /></p><hr/><small>13 Oct 2026, 20:31 UTC | #24177</small>]]></content>
+  </entry>
   <entry>
     <title>AudioThing Releases Materia Additive Re-Synthesizer Plugin</title>
     <link href="https://www.kvraudio.com/news/audiothing-releases-materia---additive-re-synthesizer-plugin-for-macos-linux-and-window-69069?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69069" rel="alternate" />
