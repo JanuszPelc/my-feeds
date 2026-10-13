@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-13T12:01:00+00:00</updated>
+  <updated>2026-10-13T13:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Chinese Tech Firms Purchase Over 1 Million Nvidia Gaming and Workstation Chips for AI Workloads</title>
+    <link href="https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098" rel="alternate" />
+    <id>https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098::v239</id>
+    <published>2026-10-13T13:11:00+00:00</published>
+    <updated>2026-10-13T13:11:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098">ft.com</a></small></p><hr/><p>To meet rising computing demands, Chinese technology companies have acquired more than one million Nvidia gaming and workstation chips this year. These products, specifically models like the RTX 5090 and RTX Pro, are being used for basic AI workloads to compensate for a shortage of specialized AI hardware.</p><p>This trend highlights efforts to bypass supply limitations on advanced data-center chips resulting from trade restrictions. The reliance on high-performance consumer and professional workstation hardware demonstrates a strategy to maintain AI-related computing capacity through alternative hardware sources.</p><hr/><small>13 Oct 2026, 16:53 UTC | #24123</small>]]></content>
+  </entry>
   <entry>
     <title>Mozilla Launches Firefox Enterprise</title>
     <link href="https://www.firefox.com/en-US/enterprise/" rel="alternate" />
