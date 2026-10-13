@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-13T16:36:00+00:00</updated>
+  <updated>2026-10-13T17:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google Play Adds Support for Private Vibe-Coded Apps</title>
+    <link href="https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/::v239</id>
+    <published>2026-10-13T17:01:00+00:00</published>
+    <updated>2026-10-13T17:01:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_mobile_1X1_Static.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/">techcrunch.com</a> | <a href="https://news.ycombinator.com/item?id=50078046">hacker news</a></small></p><hr/><p>Google is enabling users to run private, AI-built "vibe-coded" applications on Android through the Play Store without requiring a public release. Developed through Google AI Studio, these personal apps are tied to the creator's Google account and are excluded from Play Store search results and listings.</p><p>The feature is initially rolling out to users in the U.S. aged 18 and older. Google plans to eventually allow users to share these apps with trusted networks and provide a pathway to transition successful private apps to the public store after safety reviews.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_mobile_1X1_Static.png?w=680" /></p><hr/><small>13 Oct 2026, 22:09 UTC | #24179</small>]]></content>
+  </entry>
   <entry>
     <title>Ollama and Fly.io Launch Connector for AI Agent Sandboxes</title>
     <link href="https://ollama.com/blog/fly-io-sprites" rel="alternate" />
