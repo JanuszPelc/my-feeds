@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-13T16:08:00+00:00</updated>
+  <updated>2026-10-13T16:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Lotus Improv on NeXT Hardware</title>
+    <link href="https://stonetools.ghost.io/lotusimprov-next/" rel="alternate" />
+    <id>https://stonetools.ghost.io/lotusimprov-next/::v239</id>
+    <published>2026-10-13T16:20:00+00:00</published>
+    <updated>2026-10-13T16:20:00+00:00</updated>
+    <media:thumbnail url="https://storage.ghost.io/c/19/0d/190dff69-8936-47d7-8b0c-f48a6a36ddb4/content/images/size/w1200/2026/08/lotus_title_card.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://stonetools.ghost.io/lotusimprov-next/">stonetools.ghost.io</a> | <a href="https://lobste.rs/s/zmuawx/lotus_improv_on_next">discussion</a> | <a href="https://news.ycombinator.com/item?id=50050565">hacker news</a></small></p><hr/><p>Lotus Improv was a multi-dimensional spreadsheet software originally developed for the NeXT computer platform. Unlike traditional spreadsheets that rely on fixed alphanumeric cell coordinates, Improv utilized a semantic model where data was organized by categories and items, allowing for fluid data manipulation and the use of English-like formulas.</p><p>This analysis examines the software's interface on NeXTSTEP 3.3 and its departure from standard grid-based calculations. The article highlights how Improv's innovative approach to data views anticipated modern features like pivot tables, despite the software's discontinuation in the mid-1990s.</p><p><img src="https://storage.ghost.io/c/19/0d/190dff69-8936-47d7-8b0c-f48a6a36ddb4/content/images/size/w1200/2026/08/lotus_title_card.png" /></p><hr/><small>13 Oct 2026, 19:15 UTC | #24187</small>]]></content>
+  </entry>
   <entry>
     <title>Michał Górny Urges Avoidance of uv-build as a Python Build Backend</title>
     <link href="https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/" rel="alternate" />
