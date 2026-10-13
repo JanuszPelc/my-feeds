@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-13T04:47:00+00:00</updated>
+  <updated>2026-10-13T04:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>NTT Data to Build Anthropic Data Center in Japan</title>
+    <link href="https://asia.nikkei.com/business/technology/artificial-intelligence/ntt-to-build-first-data-center-for-anthropic-in-japan" rel="alternate" />
+    <id>https://asia.nikkei.com/business/technology/artificial-intelligence/ntt-to-build-first-data-center-for-anthropic-in-japan::v239</id>
+    <published>2026-10-13T04:52:00+00:00</published>
+    <updated>2026-10-13T04:52:00+00:00</updated>
+    <media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F7%2F6%2F4%2F13304678-5-eng-GB%2F3b79d6d8758d-1a.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=780" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://asia.nikkei.com/business/technology/artificial-intelligence/ntt-to-build-first-data-center-for-anthropic-in-japan">asia.nikkei.com</a></small></p><hr/><p>Negotiations are in the final stages to construct a massive data center in Osaka, Japan, for the U.S. AI company Anthropic. The facility is expected to offer one of the largest processing capacities in the country.</p><p>The project is estimated to cost $6.3 billion, with a partial opening scheduled for 2028. This development reflects the significant scale of infrastructure investment required to support the computational demands of large-scale artificial intelligence.</p><p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F7%2F6%2F4%2F13304678-5-eng-GB%2F3b79d6d8758d-1a.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=780" /></p><hr/><small>13 Oct 2026, 10:29 UTC | #24108</small>]]></content>
+  </entry>
   <entry>
     <title>AI Advancement May Transform Thinking Into a Leisure Pursuit</title>
     <link href="https://www.spinellis.gr/blog/20261008/?li261008" rel="alternate" />
@@ -693,13 +702,5 @@
     <published>2026-10-08T10:36:00+00:00</published>
     <updated>2026-10-08T10:36:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html">cnbc.com</a></small></p><hr/><p>Huawei is increasing its focus on the smartphone market by launching the Mate 90 series, which utilizes the company's homegrown "LogicFolding" chip. This strategic move aims to reclaim overseas market share lost following U.S. sanctions in 2019. The company also plans to expand its HarmonyOS operating system into international markets within the next one to three years.</p><p>Huawei's electric vehicle business, operated through the Harmony Intelligent Mobility Alliance (HIMA), faces simultaneous pressure from a cooling market. HIMA-powered vehicle deliveries dropped 29% year-on-year in September, contrasting with growth from competitors like BYD. The company also recently extended its partnership with Seres Group for an additional five years to maintain its presence in the Chinese automotive sector.</p><hr/><small>8 Oct 2026, 17:55 UTC | #23646</small>]]></content>
-  </entry>
-  <entry>
-    <title>Federal Reserve Officials Cite AI Buildout as Driver of Rising Prices</title>
-    <link href="https://www.washingtonpost.com/business/2026/10/07/datacenter-boom-is-pushing-prices-higher-fed-officials-said/" rel="alternate" />
-    <id>https://www.washingtonpost.com/business/2026/10/07/datacenter-boom-is-pushing-prices-higher-fed-officials-said/::v239</id>
-    <published>2026-10-08T10:21:00+00:00</published>
-    <updated>2026-10-08T10:21:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.washingtonpost.com/business/2026/10/07/datacenter-boom-is-pushing-prices-higher-fed-officials-said/">washingtonpost.com</a> | <a href="https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm">source</a></small></p><hr/><p>Federal Reserve officials identified surging artificial intelligence investments as a primary driver of rising goods prices in minutes from their September meeting. The findings suggest that the costs associated with the AI buildout are exerting more upward pressure on inflation than the waning effects of tariffs.</p><p>This shift in focus reflects a growing concern among policymakers regarding how massive infrastructure spending for technology may influence core economic indicators. The meeting notes indicate that the expanding demand for datacenter expansion and specialized hardware is increasingly impacting broader market trends.</p><hr/><small>8 Oct 2026, 17:54 UTC | #23645</small>]]></content>
   </entry>
 </feed>
