@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-12T22:05:00+00:00</updated>
+  <updated>2026-10-13T04:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Anthropic Implements New Defenses Against Model Distillation Attacks</title>
+    <link href="https://www.anthropic.com/research/distillation-defenses" rel="alternate" />
+    <id>https://www.anthropic.com/research/distillation-defenses::v239</id>
+    <published>2026-10-13T04:53:00+00:00</published>
+    <updated>2026-10-13T04:53:00+00:00</updated>
+    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Faab3f9927b5be6b7abba51df907e05c925dbe4c5-1920x1080.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/research/distillation-defenses">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50065553">hacker news</a></small></p><hr/><p>Anthropic has introduced new technical safeguards to combat model distillation attacks, where unauthorized parties attempt to extract a model's reasoning capabilities to train smaller models. By implementing a two-stage classifier system and "preserved thinking" API constraints, the company reports reducing the amount of data harvested by distillers by 90 to 99 percent.</p><p>These defenses aim to prevent the proliferation of models that lack necessary safety guardrails and to mitigate national security risks associated with foreign military or intelligence use. While the measures have successfully disrupted large-scale extraction campaigns, they involve trade-offs such as required integration updates for developers and new charges for requests blocked by the security filters.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Faab3f9927b5be6b7abba51df907e05c925dbe4c5-1920x1080.png&w=3840&q=75" /></p><hr/><small>13 Oct 2026, 10:54 UTC | #24109</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Research Identifies Potential for Self-Replicating AI on IoT Hardware</title>
     <link href="https://www.anthropic.com/research/self-replicating-ai" rel="alternate" />
