@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-13T16:33:00+00:00</updated>
+  <updated>2026-10-13T17:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>IK Multimedia Releases Sinphonica Maestosa Strings Library</title>
+    <link href="https://www.kvraudio.com/news/ik-multimedia-releases-sinphonica-maestosa-strings---60-piece-orchestral-string-library-69064?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69064" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ik-multimedia-releases-sinphonica-maestosa-strings---60-piece-orchestral-string-library-69064?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69064::v239</id>
+    <published>2026-10-13T17:21:00+00:00</published>
+    <updated>2026-10-13T17:21:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/sinphonica_01_play_main_violins_1_perf_legato_hero_9cd74cd9-aebf-42e6-.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ik-multimedia-releases-sinphonica-maestosa-strings---60-piece-orchestral-string-library-69064?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69064">kvraudio.com</a> | <a href="https://www.ikmultimedia.com/sinphonica">source</a></small></p><hr/><p>IK Multimedia has released Sinphonica Maestosa Strings, a virtual instrument featuring a 60-piece Italian symphonic string orchestra. Recorded at Officine Meccaniche Studios in Milan, the library is the first release in the company's Sinphonica family of orchestral instruments.</p><p>The collection offers more than 40 articulations, five legato styles, and eight microphone perspectives. It features Articulation Morphing for transitions between playing techniques and PALCO Virtual Stage Positioning for customizable orchestral seating.</p><p><img src="https://static.kvraudio.com/i/b/sinphonica_01_play_main_violins_1_perf_legato_hero_9cd74cd9-aebf-42e6-.jpg" /></p><hr/><small>13 Oct 2026, 22:31 UTC | #24182</small>]]></content>
+  </entry>
   <entry>
     <title>Lewitt LW6 Wireless Studio Headphones Review</title>
     <link href="https://musictech.com/reviews/studio-recording-gear/lewitt-lw6-wireless-studio-headphones-review/" rel="alternate" />

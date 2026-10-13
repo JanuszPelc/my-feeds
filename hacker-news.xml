@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Thunderbird Developing Native iOS Email App</title>
+    <link href="https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/" rel="alternate" />
+    <id>https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/::v239</id>
+    <published>2026-10-13T17:04:00+00:00</published>
+    <updated>2026-10-13T17:04:00+00:00</updated>
+    <media:thumbnail url="https://blog.thunderbird.net/files/2026/10/Hassel-free-setup-scaled.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/">blog.thunderbird.net</a> | <a href="https://news.ycombinator.com/item?id=50072913">hacker news</a></small></p><hr/><p>Thunderbird is developing a native iOS email application built from the ground up to provide a seamless, unified experience across desktop, Android, and iPhone devices. The project focuses on establishing a robust foundation through clean architecture rather than porting existing codebases.</p><p>Current development focuses on core functionality, including battery-efficient background synchronization and a modern, clutter-free message editor. The team plans to release a version for community testing in the coming months and has implemented an experimental feature flag system to facilitate community contributions.</p><p><img src="https://blog.thunderbird.net/files/2026/10/Hassel-free-setup-scaled.jpg" /></p><hr/><small>13 Oct 2026, 22:27 UTC | #24207</small>]]></content>
+  </entry>
+  <entry>
     <title>Firefox Setting Improves Resumability for Large Downloads</title>
     <link href="https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html" rel="alternate" />
     <id>https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html::v239</id>
