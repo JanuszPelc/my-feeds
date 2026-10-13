@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-13T01:30:00+00:00</updated>
+  <updated>2026-10-13T01:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Yau Laboratory Alliance for Mathematics and Artificial Intelligence Launched</title>
+    <link href="https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research" rel="alternate" />
+    <id>https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research::v239</id>
+    <published>2026-10-13T01:31:00+00:00</published>
+    <updated>2026-10-13T01:31:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research">scmp.com</a></small></p><hr/><p>The Yau Laboratory Alliance for Mathematics and Artificial Intelligence has been established in Beijing to integrate artificial intelligence into mathematical research. Led by Fields medallist Shing-Tung Yau, the alliance involves eight institutions and aims to form a network of more than 1,000 scientists.</p><p>The initiative focuses on developing specialized AI models for generating mathematical conjectures, formalizing proofs, and building systems with interpretable reasoning. The goal is to ensure China remains competitive with the United States in utilizing AI to advance frontier science.</p><hr/><small>13 Oct 2026, 07:17 UTC | #24099</small>]]></content>
+  </entry>
   <entry>
     <title>Vi Hart Discusses the Implications of AI-Verified Navier-Stokes Proofs</title>
     <link href="https://www.patreon.com/vihart/posts/vi-harts-big-171939430" rel="alternate" />
