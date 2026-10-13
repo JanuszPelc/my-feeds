@@ -952,28 +952,4 @@
     <updated>2026-10-08T14:45:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/">crowdstrike.com</a></small></p><hr/><p>A campaign targeting South Korean financial institutions between late September and early October 2026 resulted in data exfiltration via the open-source agentic penetration testing tool ARTEX. The activity, linked to a likely Chinese-speaking actor, utilized large language models (LLMs) to facilitate the intrusions.</p><p>The attacker's infrastructure employed a two-server architecture utilizing Claude Code and LLM backends including DeepSeek, GLM, and Grok. This deployment of agentic AI tools highlights an evolving trend in adversarial tradecraft to increase the operational tempo and efficiency of cyberattacks.</p><hr/><small>8 Oct 2026, 18:57 UTC | #23686</small>]]></content>
   </entry>
-  <entry>
-    <title>Jujutsu Releases Version 0.46.0</title>
-    <link href="https://github.com/jj-vcs/jj/releases/tag/v0.46.0" rel="alternate" />
-    <id>https://github.com/jj-vcs/jj/releases/tag/v0.46.0::v239</id>
-    <published>2026-10-08T10:07:00+00:00</published>
-    <updated>2026-10-08T10:07:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/jj-vcs/jj/releases/tag/v0.46.0">github.com</a> | <a href="https://lobste.rs/s/nz3b1h/jujutsu_jj_0_46_0">discussion</a></small></p><hr/><p>Jujutsu (jj) version 0.46.0 introduces workspace colocation via Git worktrees, allowing users to manage multiple workspaces simultaneously. This release also raises the minimum requirements to Git 2.42.0 and Rust 1.97.1.</p><p>Key features include new commands for editing or deleting files in any revision without modifying the working copy, support for pushing to multiple remotes in a single command, and enhanced diff hunk headers that include source symbols. The release also addresses several Windows-specific bugs and introduces enhanced consistency checks for the `jj bisect run` command.</p><hr/><small>8 Oct 2026, 16:22 UTC | #23655</small>]]></content>
-  </entry>
-  <entry>
-    <title>Maintenance and Funding of Critical Open-Source Software</title>
-    <link href="https://sheets.works/data-viz/holding-up-the-internet" rel="alternate" />
-    <id>https://sheets.works/data-viz/holding-up-the-internet::v239</id>
-    <published>2026-10-08T10:06:00+00:00</published>
-    <updated>2026-10-08T10:06:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sheets.works/data-viz/holding-up-the-internet">sheets.works</a> | <a href="https://lobste.rs/s/lhr4oy/people_holding_up_internet">discussion</a> | <a href="https://news.ycombinator.com/item?id=50002494">hacker news</a></small></p><hr/><p>Much of the world's critical software infrastructure—including the time zone database, `xz`, `sudo`, and `SQLite`—is maintained by a very small number of individuals. These maintainers frequently work as unpaid volunteers or with minimal financial support, despite providing essential code for billions of mobile devices and web services.</p><p>Funding for these projects is highly uneven. While security incidents have occasionally prompted significant institutional support for projects like `OpenSSL`, many other foundational libraries, such as `zlib` and `libxml2`, continue to rely on solo maintainers with little to no predictable income or formal backing.</p><hr/><small>8 Oct 2026, 16:19 UTC | #23654</small>]]></content>
-  </entry>
-  <entry>
-    <title>Removing a Website from Google Search Index</title>
-    <link href="https://kennyqin.com/deindexed-by-google/" rel="alternate" />
-    <id>https://kennyqin.com/deindexed-by-google/::v239</id>
-    <published>2026-10-08T10:04:00+00:00</published>
-    <updated>2026-10-08T10:04:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kennyqin.com/deindexed-by-google/">kennyqin.com</a> | <a href="https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google">discussion</a></small></p><hr/><p>An author details the steps taken to remove a website from Google's search index to prevent AI scraping and automated data collection. After an initial attempt using a robots.txt disallow rule proved ineffective, the author implemented noindex meta tags to instruct search engines not to index the site.</p><p>Successful deindexing required explicitly allowing Googlebot to crawl the site so it could read and process the noindex directive. Following these technical adjustments, the website was successfully removed from Google's search results.</p><hr/><small>8 Oct 2026, 16:14 UTC | #23653</small>]]></content>
-  </entry>
 </feed>
