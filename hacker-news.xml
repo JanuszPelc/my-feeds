@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Klondike Solver and Monitoring System Development</title>
+    <link href="https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week" rel="alternate" />
+    <id>https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week::v239</id>
+    <published>2026-10-12T18:59:00+00:00</published>
+    <updated>2026-10-12T18:59:00+00:00</updated>
+    <media:thumbnail url="https://cdn.blink.new/screenshots/klondike-solver-app-urnbzky9.sites.blink.new-1779823143381.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week">lobste.rs</a> | <a href="https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week">discussion</a></small></p><hr/><p>The author is pursuing a master's degree for teaching and has developed a Rust-based Klondike solver with a 50% success rate. They are also creating a DuckDB-based monitoring system designed to provide simpler configuration and more customizable alerting than Nagios.</p><p>Future plans include building a cross-platform Klondike game with decentralized storage support using web technologies or Tauri. The author is also practicing physical solitaire to improve manual dexterity for verifying solver outputs.</p><p><img src="https://cdn.blink.new/screenshots/klondike-solver-app-urnbzky9.sites.blink.new-1779823143381.webp" /></p><hr/><small>13 Oct 2026, 00:24 UTC | #24098</small>]]></content>
+  </entry>
+  <entry>
     <title>fastsimdjson achieves 66 GB/s JSON parsing throughput in Python</title>
     <link href="https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/" rel="alternate" />
     <id>https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/::v239</id>
