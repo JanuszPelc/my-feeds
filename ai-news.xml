@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-13T16:05:00+00:00</updated>
+  <updated>2026-10-13T16:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>American Express Introduces Intent Intelligence Framework for AI Agent Transactions</title>
+    <link href="https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/::v239</id>
+    <published>2026-10-13T16:11:00+00:00</published>
+    <updated>2026-10-13T16:11:00+00:00</updated>
+    <media:thumbnail url="https://cdn.ainvest.com/aigc/hxcmp/images/compress-1c5dd92969d52001.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/">techcrunch.com</a> | <a href="https://americanexpress.io/intent-intelligence-building-trust-in-agentic-commerce/">source</a></small></p><hr/><p>American Express has launched the "Intent Intelligence Framework" to authenticate user purchase intent during transactions executed by AI agents. The system utilizes a Create Intent API, unique Intent IDs, and Proof of Intent Tokens to ensure that autonomous agents adhere to predefined customer constraints—such as merchant, budget, and product preferences—thereby preventing unauthorized or erroneous transactions.</p><p>Integrated into the company's Agentic Commerce Experiences (ACE) Developer Toolkit, the framework aims to become an industry standard for securing agent-driven commerce. American Express is currently coordinating with partners across the payments ecosystem to implement these agentic tokens for enhanced fraud prevention and dispute resolution as autonomous commerce scales.</p><p><img src="https://cdn.ainvest.com/aigc/hxcmp/images/compress-1c5dd92969d52001.png" /></p><hr/><small>13 Oct 2026, 18:17 UTC | #24151</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Allows Explicit Sexual Content in Muse AI Agent</title>
     <link href="https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/" rel="alternate" />
@@ -187,21 +196,5 @@
     <updated>2026-10-09T14:40:00+00:00</updated>
     <media:thumbnail url="https://blog.laozhang.ai/posts/en/local-coding-agent-fails-quantization-context-harness/img/cover.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://mtlynch.io/why-are-coding-agents-so-dumb/">mtlynch.io</a> | <a href="https://lobste.rs/s/t5htlf/why_are_coding_agents_so_dumb">discussion</a></small></p><hr/><p>Coding agents, the software connecting large language models to codebases, currently act as a bottleneck in AI-assisted development despite improvements in underlying models. Key deficiencies include poor task management, inefficient model delegation, a lack of feature self-awareness, ineffective communication of execution plans, and security vulnerabilities caused by insufficient OS-level sandboxing.</p><p>These limitations are attributed to a principal-agent problem, where AI company incentives—prioritizing high-level benchmarks and demonstrations—diverge from the practical workflow and security needs of professional developers. Viable coding agents require deterministic security boundaries, optimized model selection for cost and speed, and human-comprehensible execution plans.</p><p><img src="https://blog.laozhang.ai/posts/en/local-coding-agent-fails-quantization-context-harness/img/cover.png" /></p><hr/><small>9 Oct 2026, 17:49 UTC | #23811</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ben Affleck Details His Technical Expertise in AI Filmmaking</title>
-    <link href="https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/::v239</id>
-    <published>2026-10-08T18:24:00+00:00</published>
-    <updated>2026-10-08T18:24:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/">techcrunch.com</a></small></p><hr/><p>Ben Affleck has garnered significant attention for his deep technical understanding of artificial intelligence, specifically regarding its application in the film industry. Following the sale of his AI startup, InterPositive, to Netflix, the actor has used recent interviews to demonstrate fluency in technical concepts such as neural networks, tensors, and fine-tuning open-source models to meet specific cinematic production standards.</p><p>Affleck describes his approach as using AI as an additive tool to assist filmmakers rather than a replacement for them. He emphasizes the importance of creating proprietary datasets to train models ethically, allowing creators to benefit from the technology while maintaining control over their specific artistic workflows and likenesses.</p><hr/><small>8 Oct 2026, 23:43 UTC | #23707</small>]]></content>
-  </entry>
-  <entry>
-    <title>OpenAI's Math Solutions Fail to Meet Mathematical Community Standards</title>
-    <link href="https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/::v239</id>
-    <published>2026-10-08T18:12:00+00:00</published>
-    <updated>2026-10-08T18:12:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/">techcrunch.com</a> | <a href="https://github.com/openai/math">source</a> | <a href="https://news.ycombinator.com/item?id=50003107">hacker news</a></small></p><hr/><p>OpenAI's recent release of solutions to complex mathematical problems has failed to meet guidelines established by the Advisory Group on Mathematics and Artificial Intelligence (AGMAI). The submission lacked sufficient chain-of-thought reasoning and formalization; only 10 of 719 manuscripts included chain-of-thought, and only 42% of the proofs were formalized in the Lean programming language.</p><p>Researchers have documented "mistranslations" where AI-generated natural language proofs do not match the formal code used for verification, raising questions about whether automated formalization can be trusted without human oversight. This discrepancy highlights a gap in human understanding and engagement, which mathematicians argue is essential for making mathematical discoveries meaningful and applicable to the broader scientific community.</p><hr/><small>8 Oct 2026, 23:34 UTC | #23712</small>]]></content>
   </entry>
 </feed>
