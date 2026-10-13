@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-13T06:27:00+00:00</updated>
+  <updated>2026-10-13T10:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rust Lifetime Requirements Bypassed via Covariant Field Assignment</title>
+    <link href="https://github.com/rust-lang/rust/issues/164250" rel="alternate" />
+    <id>https://github.com/rust-lang/rust/issues/164250::v239</id>
+    <published>2026-10-13T10:28:00+00:00</published>
+    <updated>2026-10-13T10:28:00+00:00</updated>
+    <media:thumbnail url="https://www.javacodegeeks.com/wp-content/uploads/2026/01/αρχείο-λήψης-11-2.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/rust-lang/rust/issues/164250">github.com</a> | <a href="https://news.ycombinator.com/item?id=50069499">hacker news</a></small></p><hr/><p>A flaw in the Rust programming language allows developers to bypass struct lifetime requirements through covariant field assignment. This bug enables local references to be moved into global static collections, potentially triggering "use-after-scope" memory safety violations.</p><p>The issue affects current nightly and stable versions of Rust as far back as 1.85.0. Using AddressSanitizer, the vulnerability can be demonstrated by causing a program to access a stack frame after the original variable has been dropped.</p><p><img src="https://www.javacodegeeks.com/wp-content/uploads/2026/01/αρχείο-λήψης-11-2.png" /></p><hr/><small>13 Oct 2026, 13:21 UTC | #24150</small>]]></content>
+  </entry>
   <entry>
     <title>Curl 8.23.0 to Feature Performance and Memory Optimizations</title>
     <link href="https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/" rel="alternate" />
