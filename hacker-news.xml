@@ -899,21 +899,4 @@
     <media:thumbnail url="https://z7solutions.com/wp-content/uploads/2026/01/What-Makes-Critical-Infrastructure-Different.webp" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity">axios.com</a> | <a href="https://www.anthropic.com/news/anthropic-cyber-mission">source</a> | <a href="https://news.ycombinator.com/item?id=50010605">hacker news</a></small></p><hr/><p>Anthropic has launched the Critical Infrastructure Defense Program, an initiative providing advanced AI models, threat research, and on-site engineering support to protect vital systems. The program's initial rollout includes partnerships with organizations such as CrowdStrike.</p><p>The program builds upon the work of Anthropic's Project Glasswing, which has been integrated into the company's Cyber Verification Program. This effort aims to bolster security for both critical infrastructure and open-source software through the deployment of engineering talent and specialized tools.</p><p><img src="https://z7solutions.com/wp-content/uploads/2026/01/What-Makes-Critical-Infrastructure-Different.webp" /></p><hr/><small>9 Oct 2026, 02:36 UTC | #23716</small>]]></content>
   </entry>
-  <entry>
-    <title>Theranos World Features Interactive 3D Reconstruction of Elizabeth Holmes's Office</title>
-    <link href="https://www.theranos.world/" rel="alternate" />
-    <id>https://www.theranos.world/::v239</id>
-    <published>2026-10-08T18:32:00+00:00</published>
-    <updated>2026-10-08T18:32:00+00:00</updated>
-    <media:thumbnail url="https://www.theranos.world/assets/scene.optimized.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theranos.world/">theranos.world</a> | <a href="https://news.ycombinator.com/item?id=50009295">hacker news</a></small></p><hr/><p>A detailed 3D reconstruction of Elizabeth Holmes's office is featured on the Theranos World interactive website. The digital environment includes a MacBook, an iPhone, Theranos medical instruments, and a virtual Finder window containing various files.</p><p>The website includes an invitation to a documentary screening in San Francisco on October 22nd. The project provides a digital exploration of the workspace associated with the former Theranos executive.</p><p><img src="https://www.theranos.world/assets/scene.optimized.webp" /></p><hr/><small>9 Oct 2026, 00:40 UTC | #23737</small>]]></content>
-  </entry>
-  <entry>
-    <title>A Guide to Writing and Packaging GNU Guix Extensions</title>
-    <link href="https://guix.gnu.org/en/blog/2026/extending-guix/" rel="alternate" />
-    <id>https://guix.gnu.org/en/blog/2026/extending-guix/::v239</id>
-    <published>2026-10-08T18:29:00+00:00</published>
-    <updated>2026-10-08T18:29:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://guix.gnu.org/en/blog/2026/extending-guix/">guix.gnu.org</a> | <a href="https://lobste.rs/s/qfzzmi/extending_guix">discussion</a></small></p><hr/><p>GNU Guix allows users to extend the package manager by adding new commands via custom modules. A recent update introduced a new extension schema that utilizes compiled Guile modules, improving performance by allowing the runtime to find compiled .go files directly rather than relying on runtime evaluation.</p><p>The article provides a tutorial for creating a basic extension, including the implementation of command-line option parsing and a package definition using the guile-build-system. The author encourages community contributors to host their extensions in the guix-extensions organization on Codeberg to build a central hub for community tools.</p><hr/><small>9 Oct 2026, 00:21 UTC | #23736</small>]]></content>
-  </entry>
 </feed>
