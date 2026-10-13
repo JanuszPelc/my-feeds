@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-12T21:05:00+00:00</updated>
+  <updated>2026-10-13T04:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Intel's `vfmaddrnd231pd` Instruction Appears to be Non-Existent</title>
+    <link href="https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/" rel="alternate" />
+    <id>https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/::v239</id>
+    <published>2026-10-13T04:44:00+00:00</published>
+    <updated>2026-10-13T04:44:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5610AQGNmTSLKsSvQg/image-shrink_1280/B56Zrn.5lOMIAM-/0/1764828617553?e=2147483647&amp;v=beta&amp;t=2oaNn1DxT2fDi1Smbv_tAgaXYHQyiY9bo_jvwpPNoLo" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/">purplesyringa.moe</a> | <a href="https://lobste.rs/s/2h9opx/who_is_vfmaddrnd231pd">discussion</a> | <a href="https://news.ycombinator.com/item?id=50063138">hacker news</a></small></p><hr/><p>The `vfmaddrnd231pd` instruction is documented in the 2024 Intel Software Development Manual (SDM) to allow per-instruction rounding control for Fused Multiply-Add (FMA) operations. Despite its presence in the manual, the instruction is missing from the 2026 edition, is unsupported by compilers like Clang and ICC, and triggers an "Undefined instruction" error on compatible hardware.</p><p>The instruction's inclusion in the SDM, which includes unique pseudocode and opcode details, suggests it may have been planned for implementation but removed prior to production. This discrepancy highlights potential inconsistencies between Intel's technical documentation and actual hardware capabilities.</p><p><img src="https://media.licdn.com/dms/image/v2/D5610AQGNmTSLKsSvQg/image-shrink_1280/B56Zrn.5lOMIAM-/0/1764828617553?e=2147483647&v=beta&t=2oaNn1DxT2fDi1Smbv_tAgaXYHQyiY9bo_jvwpPNoLo" /></p><hr/><small>13 Oct 2026, 08:01 UTC | #24117</small>]]></content>
+  </entry>
   <entry>
     <title>W1700K-SDR Converts Gemtek W1700K Router Into Wideband SDR Receiver</title>
     <link href="https://github.com/h0m3us3r/w1700k-sdr" rel="alternate" />
