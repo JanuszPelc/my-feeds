@@ -943,39 +943,4 @@
     <media:thumbnail url="https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/07/coffee-maker-stock-photo.jpg?width=1200&amp;quality=60&amp;format=auto" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/">dexerto.com</a> | <a href="https://x.com/NomadsGalaxy/status/2107284088247689290">source</a> | <a href="https://news.ycombinator.com/item?id=49995495">hacker news</a></small></p><hr/><p>A smart Keurig device produced 1TB of traffic over a 10-day period, saturating the home network's access point. Investigation by an IT professional revealed that most of this data remained within the local network rather than being sent over the internet.</p><p>The user, identified on X as Nomad, attributed the event to a software bug and disconnected the machine to prevent further network disruption. The incident highlights the potential for malfunctioning IoT devices to cause unexpected home network congestion.</p><p><img src="https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/07/coffee-maker-stock-photo.jpg?width=1200&quality=60&format=auto" /></p><hr/><small>8 Oct 2026, 22:03 UTC | #23727</small>]]></content>
   </entry>
-  <entry>
-    <title>Open Culture Foundation Study Analyzes Taiwan's Web Service Resilience to Submarine Cable Outages</title>
-    <link href="https://resilience.ocf.tw/web/report/en.html" rel="alternate" />
-    <id>https://resilience.ocf.tw/web/report/en.html::v239</id>
-    <published>2026-10-08T17:12:00+00:00</published>
-    <updated>2026-10-08T17:12:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://resilience.ocf.tw/web/report/en.html">resilience.ocf.tw</a> | <a href="https://lobste.rs/s/hhga98/when_submarine_cables_go_dark">discussion</a></small></p><hr/><p>A study analyzes how much of Taiwan's digital services rely on international submarine cables. By analyzing 2,179 frequently used websites, researchers found that 39.3% are "foreign-dependent," carrying high risk during cable outages, and 49.6% are "cloud-dependent," relying on local nodes of multinational cloud providers whose availability remains uncertain during connectivity failures.</p><p>Since over 99% of Taiwan's external internet traffic travels via submarine cables, these dependencies pose significant risks to the island's economy and social functions. The research highlights that traditional infrastructure redundancy may not prevent service outages and suggests that current digital connectivity risks exceed those observed during the 2006 Hengchun earthquake.</p><hr/><small>8 Oct 2026, 21:33 UTC | #23725</small>]]></content>
-  </entry>
-  <entry>
-    <title>Natura Unveils Interface $99 Smart Ring for AI Agent Interaction</title>
-    <link href="https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/::v239</id>
-    <published>2026-10-08T17:07:00+00:00</published>
-    <updated>2026-10-08T17:07:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/interface-sensor-view.png?w=680" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/">techcrunch.com</a> | <a href="https://natura.inc/interface">source</a> | <a href="https://news.ycombinator.com/item?id=50007889">hacker news</a></small></p><hr/><p>Natura has announced Interface, a $99 smart ring designed to interact with AI agents through voice commands and finger presses. The device supports several AI models, including ChatGPT, Claude, and Meta's Muse, allowing users to execute tasks and control devices without a smartphone. It also functions as a health tracker, monitoring metrics such as heart rate, sleep stages, and skin temperature.</p><p>Founded by Carlo Edoardo Ferraris, the startup aims to provide a continuous, wearable interface for personal AI agents. Following an initial three-to-six-month free trial, Natura plans to implement a $9 monthly subscription fee. Preorders are expected to open next month, with shipping slated for December or January.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/interface-sensor-view.png?w=680" /></p><hr/><small>8 Oct 2026, 21:08 UTC | #23694</small>]]></content>
-  </entry>
-  <entry>
-    <title>OpenAI Disrupts Russian Influence Campaign Using ChatGPT</title>
-    <link href="https://www.nbcnews.com/tech/security/openai-chatgpt-russian-influence-operation-targeting-latin-america-rcna602066" rel="alternate" />
-    <id>https://www.nbcnews.com/tech/security/openai-chatgpt-russian-influence-operation-targeting-latin-america-rcna602066::v239</id>
-    <published>2026-10-08T17:04:00+00:00</published>
-    <updated>2026-10-08T17:04:00+00:00</updated>
-    <media:thumbnail url="https://e3.365dm.com/26/04/1600x900/skynews-putin-traore-russia_7214693.jpg?20260409005404" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nbcnews.com/tech/security/openai-chatgpt-russian-influence-operation-targeting-latin-america-rcna602066">nbcnews.com</a> | <a href="https://openai.com/index/disrupting-ai-enabled-false-front-operations/">source</a></small></p><hr/><p>A wide-ranging Russian influence operation used ChatGPT to spread propaganda, targeting schools in Latin America and attempting to escalate tensions between Ukraine and Poland. The campaign also involved deceptive messaging aimed at politicians and various media outlets.</p><p>OpenAI describes this as its most significant disruption of a foreign-led influence campaign to date. The findings demonstrate how generative AI can be leveraged to enhance the scale and linguistic fluency of geopolitical disinformation efforts.</p><p><img src="https://e3.365dm.com/26/04/1600x900/skynews-putin-traore-russia_7214693.jpg?20260409005404" /></p><hr/><small>8 Oct 2026, 20:47 UTC | #23679</small>]]></content>
-  </entry>
-  <entry>
-    <title>Amazon Unveils Alexa Tablet Lineup with Android and Google Play Support</title>
-    <link href="https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs" rel="alternate" />
-    <id>https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs::v239</id>
-    <published>2026-10-08T17:01:00+00:00</published>
-    <updated>2026-10-08T17:01:00+00:00</updated>
-    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Tablets_Hero_1920x1080.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs">theverge.com</a> | <a href="https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus">source</a></small></p><hr/><p>Amazon is launching a new series of tablets branded as Alexa Tablets, replacing its long-standing Fire brand. The lineup consists of three models: the 8.7-inch Tablet 8, the 11-inch Tablet 11, and the flagship 12.5-inch Alexa Tablet 12 Pro. All models will feature the full Android operating system and include Google Play Store support.</p><p>The high-end Alexa Tablet 12 Pro features a 120Hz display with an optional Corning Nanomatte anti-glare finish and is designed to compete directly with the iPad Pro. These devices integrate Alexa Plus, Amazon's LLM-powered AI assistant, to facilitate shopping, information retrieval, and media consumption across the operating system.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Tablets_Hero_1920x1080.png?quality=90&strip=all&crop=0,0,100,100" /></p><hr/><small>8 Oct 2026, 20:26 UTC | #23681</small>]]></content>
-  </entry>
 </feed>

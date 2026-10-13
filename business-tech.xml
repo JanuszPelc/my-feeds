@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-13T13:11:00+00:00</updated>
+  <updated>2026-10-13T13:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>FairScan Developer Alleges Unattributed Code Use by Ente Locker</title>
+    <link href="https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/" rel="alternate" />
+    <id>https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/::v239</id>
+    <published>2026-10-13T13:45:00+00:00</published>
+    <updated>2026-10-13T13:45:00+00:00</updated>
+    <media:thumbnail url="https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/comparison.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/">fairscan.org</a> | <a href="https://lobste.rs/s/uiulqe/did_ente_locker_copy_my_code_without">discussion</a></small></p><hr/><p>The developer of FairScan, an open-source image processing library, alleges that Ente's Locker app used FairScan's code without proper attribution. The developer claims that Ente's implementation—initially described as being written "from scratch"—is a direct translation from Kotlin to Rust, sharing identical algorithms, function names, and variable names.</p><p>Ente has since updated its public documentation and performed a code rewrite affecting more than 6,000 lines. The developer maintains that the use of derived code without following the FairScan GPL license raises legal compliance questions. Ente has not yet responded to the developer's inquiries regarding copyright.</p><p><img src="https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/comparison.webp" /></p><hr/><small>13 Oct 2026, 17:11 UTC | #24178</small>]]></content>
+  </entry>
   <entry>
     <title>Chinese Tech Firms Purchase Over 1 Million Nvidia Gaming and Workstation Chips for AI Workloads</title>
     <link href="https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098" rel="alternate" />

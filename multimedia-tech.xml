@@ -112,12 +112,4 @@
     <media:thumbnail url="https://bevy.org/news/bevy-0-20/zero_day.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://bevy.org/news/bevy-0-20/">bevy.org</a> | <a href="https://lobste.rs/s/3gikyb/bevy_0_20">discussion</a> | <a href="https://news.ycombinator.com/item?id=50013610">hacker news</a></small></p><hr/><p>Solari, the path-traced renderer, now includes macOS support via Metal and an optional ReSTIR implementation to optimize performance. The update also adopts the WESL shader language and introduces syntax refinements for the BSN scene system, including a new `Ready` event for spawned entities.</p><p>Additional features include expanded UI widget options in Bevy Feathers, support for DLSS-RR 4.5, and new capabilities for custom 2D sprite materials. The release also adds a pan-orbit camera and simplifies BSN scene declarations by removing several required code wrappers.</p><p><img src="https://bevy.org/news/bevy-0-20/zero_day.jpg" /></p><hr/><small>9 Oct 2026, 03:38 UTC | #23746</small>]]></content>
   </entry>
-  <entry>
-    <title>Denuvo Seeks Subpoenas for Discord, Valve, and Reddit to Identify Cracker</title>
-    <link href="https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker" rel="alternate" />
-    <id>https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker::v239</id>
-    <published>2026-10-08T17:02:00+00:00</published>
-    <updated>2026-10-08T17:02:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker">gamedeveloper.com</a> | <a href="https://dockets.justia.com/docket/california/candce/5:2026cv10423/478929">source</a></small></p><hr/><p>Denuvo has petitioned a U.S. federal court to subpoena Discord, Valve, and Reddit to identify the anonymous hacker known as "voices38." In a DMCA anti-circumvention lawsuit, the company alleges the individual has bypassed its anti-tamper technology on 26 games, potentially compromising the structural integrity of the DRM service.</p><p>The legal attempt follows a recent surge in cracks affecting both new and older titles. Denuvo is seeking information from the requested platforms to unmask the identity of the individual or group responsible for the ongoing breaches.</p><hr/><small>8 Oct 2026, 20:27 UTC | #23674</small>]]></content>
-  </entry>
 </feed>

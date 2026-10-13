@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-13T13:07:00+00:00</updated>
+  <updated>2026-10-13T13:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>SpaceXSI Launches X Subscription Bundling Grok, Cursor, and X Premium</title>
+    <link href="https://www.engadget.com/2284943/x-subscription-bundles-premium-grok-cursor/" rel="alternate" />
+    <id>https://www.engadget.com/2284943/x-subscription-bundles-premium-grok-cursor/::v239</id>
+    <published>2026-10-13T13:12:00+00:00</published>
+    <updated>2026-10-13T13:12:00+00:00</updated>
+    <media:thumbnail url="https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2026/04/04/spacex-halka-arzinda-garip-sart-bankalar-once-grok-satin-alacak-wlkt.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2284943/x-subscription-bundles-premium-grok-cursor/">engadget.com</a> | <a href="https://x.ai/news/x-subscription">source</a></small></p><hr/><p>SpaceXSI has launched "The X Subscription," a unified membership program that integrates Grok, the Cursor coding tool, and X Premium into single monthly plans. Available in four tiers—Plus ($8), Premium ($30), Super ($100), and Ultra ($200)—the subscription provides varying levels of access to AI chat, image and video generation, coding agents, and social media features such as ad-free scrolling.</p><p>The initiative follows the rebranding of SpaceXAI to SpaceXSI and the acquisition of the coding startup Cursor. While lower tiers focus on individual AI usage and X Premium features, higher-level plans offer expanded usage capacity, priority model access during peak times, and advanced automation tools for professional and enterprise users.</p><p><img src="https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2026/04/04/spacex-halka-arzinda-garip-sart-bankalar-once-grok-satin-alacak-wlkt.jpg" /></p><hr/><small>13 Oct 2026, 17:08 UTC | #24125</small>]]></content>
+  </entry>
   <entry>
     <title>Embedding Gemma Transcribe Enables On-Device Speech-to-Text</title>
     <link href="https://eg2.haku.sh/" rel="alternate" />
@@ -185,29 +194,5 @@
     <published>2026-10-08T18:12:00+00:00</published>
     <updated>2026-10-08T18:12:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/">techcrunch.com</a> | <a href="https://github.com/openai/math">source</a> | <a href="https://news.ycombinator.com/item?id=50003107">hacker news</a></small></p><hr/><p>OpenAI's recent release of solutions to complex mathematical problems has failed to meet guidelines established by the Advisory Group on Mathematics and Artificial Intelligence (AGMAI). The submission lacked sufficient chain-of-thought reasoning and formalization; only 10 of 719 manuscripts included chain-of-thought, and only 42% of the proofs were formalized in the Lean programming language.</p><p>Researchers have documented "mistranslations" where AI-generated natural language proofs do not match the formal code used for verification, raising questions about whether automated formalization can be trusted without human oversight. This discrepancy highlights a gap in human understanding and engagement, which mathematicians argue is essential for making mathematical discoveries meaningful and applicable to the broader scientific community.</p><hr/><small>8 Oct 2026, 23:34 UTC | #23712</small>]]></content>
-  </entry>
-  <entry>
-    <title>Goodfire Launches Internal Monitoring Probes to Detect Rogue AI Agents</title>
-    <link href="https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/::v239</id>
-    <published>2026-10-08T17:06:00+00:00</published>
-    <updated>2026-10-08T17:06:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/">techcrunch.com</a></small></p><hr/><p>Goodfire has launched "inside-out" monitors designed to detect rogue AI agent behavior by analyzing internal model activations during computation rather than just reviewing text output. These probes tap into existing calculations to identify malicious intent, offering a significantly cheaper and faster alternative to traditional methods that require a separate AI model to monitor model responses.</p><p>The tools are available to Baseten customers and specifically target safety risks in open-weight models where users can potentially bypass standard safeguards. In testing on the Kimi K3 model, the probes caught 94% of malicious hacking attempts while adding less than 2% to response latency and reducing operational costs compared to traditional oversight methods.</p><hr/><small>8 Oct 2026, 21:06 UTC | #23693</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Cloud Unveils Persistent Gemini Agents for Enterprise Workflows</title>
-    <link href="https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage" rel="alternate" />
-    <id>https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage::v239</id>
-    <published>2026-10-08T17:03:00+00:00</published>
-    <updated>2026-10-08T23:39:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage">venturebeat.com</a> | <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/">source</a> | <a href="https://news.ycombinator.com/item?id=50005566">hacker news</a></small></p><hr/><p>Google Cloud has introduced the Gemini agent, a universal AI agent designed to manage long-running, multi-day enterprise workflows. These agents can operate across Google Workspace, Microsoft 365, and Slack to perform tasks such as research, document creation, and coding. To facilitate autonomous operations, each agent is equipped with its own dedicated Gmail, Calendar, and Google Drive storage.</p><p>Announced at the Gemini at Work 2026 event, these agents can manage tasks for up to seven days. The system provides model flexibility, routing simple tasks to lightweight models like Gemini Flash while utilizing larger frontier models, such as Argon, for more complex, long-horizon objectives.</p><hr/><small>8 Oct 2026, 20:45 UTC | #23680</small>]]></content>
-  </entry>
-  <entry>
-    <title>Cactus Compute Releases Whistle Speech Recognition Model</title>
-    <link href="https://cactuscompute.com/blog/whistle" rel="alternate" />
-    <id>https://cactuscompute.com/blog/whistle::v239</id>
-    <published>2026-10-08T17:00:00+00:00</published>
-    <updated>2026-10-08T17:00:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://cactuscompute.com/blog/whistle">cactuscompute.com</a> | <a href="https://news.ycombinator.com/item?id=50008427">hacker news</a></small></p><hr/><p>Cactus Compute has released Whistle, a 16.9 MB open-source speech recognition model designed for local execution on CPUs. It supports transcription, word timestamps, and speech embeddings for seven languages: English, German, French, Spanish, Italian, Dutch, and Polish. The model is optimized for deployment on resource-constrained hardware like wearables, mobile devices, and microcontrollers.</p><p>Whistle integrates with the Needle C++ engine, allowing a single binary to transform audio into tool calls without additional dependencies. Compared to the Whisper base model, Whistle provides significantly faster time-to-first-token and higher decoding speeds while requiring much less storage. The model is compatible with several operating systems and platforms, including macOS, Linux, Android, iOS, and WASI.</p><hr/><small>8 Oct 2026, 20:11 UTC | #23718</small>]]></content>
   </entry>
 </feed>
