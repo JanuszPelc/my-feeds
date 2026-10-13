@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-13T05:04:00+00:00</updated>
+  <updated>2026-10-13T05:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Software Craftsmanship in the Era of Generative AI</title>
+    <link href="https://mei.puppycat.house/w/seeing-261010" rel="alternate" />
+    <id>https://mei.puppycat.house/w/seeing-261010::v239</id>
+    <published>2026-10-13T05:09:00+00:00</published>
+    <updated>2026-10-13T05:09:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://mei.puppycat.house/w/seeing-261010">mei.puppycat.house</a> | <a href="https://lobste.rs/s/awjqvn/what_i_ve_been_seeing_lately_software">discussion</a></small></p><hr/><p>The rise of Large Language Models (LLMs) is creating a divide between automated, mass-produced "slop" and manual, "handmade" software craftsmanship. While Generative AI increasingly dominates mainstream software production, a growing movement of developers is prioritizing manual programming and intentional design to preserve quality and ethical standards.</p><p>Niche projects and communities, such as Polyphony and Evocation, are forming a "post-LLM" development culture focused on purpose-driven software rather than mass-market convenience. This shift is also visible in institutional technology choices, such as the Dutch government's adoption of Forgejo and the French government's use of NixOS, suggesting a potential movement toward specialized, open-source ecosystems.</p><hr/><small>13 Oct 2026, 12:33 UTC | #24146</small>]]></content>
+  </entry>
   <entry>
     <title>Character.AI Files for Chapter 11 Bankruptcy and Agrees to $20 Million Asset Sale to Disney</title>
     <link href="https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/" rel="alternate" />

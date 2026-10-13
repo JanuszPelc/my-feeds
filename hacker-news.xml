@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-13T05:06:00+00:00</updated>
+  <updated>2026-10-13T06:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Curl 8.23.0 to Feature Performance and Memory Optimizations</title>
+    <link href="https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/" rel="alternate" />
+    <id>https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/::v239</id>
+    <published>2026-10-13T06:27:00+00:00</published>
+    <updated>2026-10-13T06:27:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/d9rpcl/slightly_faster_slimmer_curl">discussion</a></small></p><hr/><p>Curl 8.23.0, scheduled for release on October 14, 2026, will feature significant performance improvements for encoding and decoding tasks. Key updates include faster Base64 and URL encoding/decoding, improved date parsing, and optimized URL and number parsing.</p><p>Internal handle structures will be reduced in size to minimize memory overhead for concurrent transfers. The update will also incorporate more efficient printf() calls and fewer memory allocations to reduce peak memory usage during large file downloads.</p><hr/><small>13 Oct 2026, 12:36 UTC | #24147</small>]]></content>
+  </entry>
   <entry>
     <title>Intel Launches D270 Data Center GPU for AI Inference</title>
     <link href="https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html" rel="alternate" />
