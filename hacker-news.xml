@@ -976,30 +976,4 @@
     <updated>2026-10-08T10:04:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kennyqin.com/deindexed-by-google/">kennyqin.com</a> | <a href="https://lobste.rs/s/en3vgh/i_ve_been_deindexed_by_google">discussion</a></small></p><hr/><p>An author details the steps taken to remove a website from Google's search index to prevent AI scraping and automated data collection. After an initial attempt using a robots.txt disallow rule proved ineffective, the author implemented noindex meta tags to instruct search engines not to index the site.</p><p>Successful deindexing required explicitly allowing Googlebot to crawl the site so it could read and process the noindex directive. Following these technical adjustments, the website was successfully removed from Google's search results.</p><hr/><small>8 Oct 2026, 16:14 UTC | #23653</small>]]></content>
   </entry>
-  <entry>
-    <title>GitHub Resolves Incident Affecting Git Operations, Pull Requests, and Actions</title>
-    <link href="https://www.githubstatus.com/incidents/djlmxz2zd0j7" rel="alternate" />
-    <id>https://www.githubstatus.com/incidents/djlmxz2zd0j7::v239</id>
-    <published>2026-10-08T10:01:00+00:00</published>
-    <updated>2026-10-08T10:01:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.githubstatus.com/incidents/djlmxz2zd0j7">githubstatus.com</a> | <a href="https://news.ycombinator.com/item?id=49994027">hacker news</a></small></p><hr/><p>GitHub has resolved a service incident that caused degraded availability and performance for Git Operations, Pull Requests, Actions, Webhooks, and Issues on October 7, 2026. The primary disruption occurred between 15:06 and 15:16 UTC.</p><p>All affected systems are currently stable and fully recovered. GitHub has identified the root cause and implemented mitigations to prevent recurrence, with a detailed root cause analysis expected to be released at a later date.</p><hr/><small>8 Oct 2026, 16:05 UTC | #23650</small>]]></content>
-  </entry>
-  <entry>
-    <title>Docker Engineering Releases AI Agent Builder and Runtime</title>
-    <link href="https://github.com/docker/docker-agent" rel="alternate" />
-    <id>https://github.com/docker/docker-agent::v239</id>
-    <published>2026-10-08T10:00:00+00:00</published>
-    <updated>2026-10-08T10:00:00+00:00</updated>
-    <media:thumbnail url="https://www.docker.com/app/uploads/2026/03/image1.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/docker/docker-agent">github.com</a> | <a href="https://news.ycombinator.com/item?id=49996259">hacker news</a></small></p><hr/><p>Docker Engineering has released Docker Agent, a CLI plugin that enables the creation and execution of AI agents using declarative YAML configurations. The tool supports multi-agent orchestration, allowing specialized agents to collaborate and delegate tasks to solve complex problems without requiring manual coding.</p><p>The platform is provider-agnostic, compatible with OpenAI, Anthropic, Gemini, and others, and supports the Model Context Protocol (MCP) for tool integration. Users can leverage retrieval-augmented generation (RAG), advanced reasoning tools, and the ability to package and share agents through OCI registries.</p><p><img src="https://www.docker.com/app/uploads/2026/03/image1.png" /></p><hr/><small>8 Oct 2026, 16:02 UTC | #23649</small>]]></content>
-  </entry>
-  <entry>
-    <title>Vitalik Buterin Backs Warning on AI-Driven Cryptographic Risks</title>
-    <link href="https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months" rel="alternate" />
-    <id>https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months::v239</id>
-    <published>2026-10-08T09:58:00+00:00</published>
-    <updated>2026-10-08T09:58:00+00:00</updated>
-    <media:thumbnail url="https://media.gncrypto.news/even-mars-may-not-be-safe-warns-vitalik-buterin-on-ai.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months">cointelegraph.com</a> | <a href="https://x.com/vitalikbuterin/status/2107976296320106851">source</a></small></p><hr/><p>Ethereum co-founder Vitalik Buterin has expressed support for concerns that rapid advancements in artificial intelligence could undermine the mathematical foundations of blockchain security. These advancements could potentially enable the breaking of elliptic curve digital signature algorithms (ECDSA) and weaken lattice-based cryptography—the basis for quantum-resistant security—faster than the projected arrival of quantum computing.</p><p>Mitigation strategies include a "bunker mode" approach, involving a gradual migration to new wallet addresses where public keys remain unexposed. While Buterin cautioned against rushed migrations due to the risk of user error, he endorsed the use of unused addresses to limit public key exposure. The warnings follow recent demonstrations of AI solving highly complex mathematical problems, such as the Navier-Stokes equation, in unprecedented timeframes.</p><p><img src="https://media.gncrypto.news/even-mars-may-not-be-safe-warns-vitalik-buterin-on-ai.jpg" /></p><hr/><small>8 Oct 2026, 15:55 UTC | #23628</small>]]></content>
-  </entry>
 </feed>
