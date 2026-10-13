@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-13T04:51:00+00:00</updated>
+  <updated>2026-10-13T16:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Hittite Royal Archive Unearthed in Samuha</title>
+    <link href="https://www.thehistoryblog.com/archives/77107" rel="alternate" />
+    <id>https://www.thehistoryblog.com/archives/77107::v239</id>
+    <published>2026-10-13T16:18:00+00:00</published>
+    <updated>2026-10-13T16:18:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.thehistoryblog.com/archives/77107">thehistoryblog.com</a> | <a href="https://news.ycombinator.com/item?id=50067414">hacker news</a></small></p><hr/><p>Archaeologists have uncovered a collection of cuneiform tablets in the ancient city of Samuha, located in modern-day Sivas, Turkey. These records, dating back 3,400 years to the reign of King Tudhaliya II, comprise 184 tablets and fragments in Hittite and Hurrian. The documents detail a fever epidemic that killed the king's daughter, military pleas for reinforcements, and various religious rituals.</p><p>This discovery is the most comprehensive archive of Hittite-language documents found in the 21st century. The texts offer new insights into bird divination, scribal culture, and the development of the Hittite language.</p><hr/><small>13 Oct 2026, 19:02 UTC | #24193</small>]]></content>
+  </entry>
   <entry>
     <title>The Molecular Mechanism of E. coli Chemotaxis</title>
     <link href="https://jsomers.net/e-coli-chemotaxis/" rel="alternate" />
