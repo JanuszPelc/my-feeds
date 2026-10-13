@@ -970,12 +970,4 @@
     <updated>2026-10-08T14:51:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://matklad.github.io/2026/10/07/git-ref.html">matklad.github.io</a> | <a href="https://lobste.rs/s/u88nlh/on_git_refs">discussion</a></small></p><hr/><p>Git's reference system acts as a mutable key-value store that maps string keys to content-addressed objects, facilitating the management of branches, tags, and Git notes. These references are stored as file system paths within the `.git/refs` directory. The article deconstructs the shorthand syntax used in commands like `git fetch` and `git switch` to show how they resolve into explicit reference paths.</p><p>By distinguishing between local branches and remote-tracking branches, the text explains how Git handles synchronization and prevents name collisions when multiple remotes are involved. This design supports Git's offline-first paradigm, which requires explicit operations to update the local view of a remote's state.</p><hr/><small>8 Oct 2026, 19:05 UTC | #23705</small>]]></content>
   </entry>
-  <entry>
-    <title>Unknown Threat Actor Uses ARTEX to Target South Korean Financial Institutions</title>
-    <link href="https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/" rel="alternate" />
-    <id>https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/::v239</id>
-    <published>2026-10-08T14:45:00+00:00</published>
-    <updated>2026-10-08T14:45:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/">crowdstrike.com</a></small></p><hr/><p>A campaign targeting South Korean financial institutions between late September and early October 2026 resulted in data exfiltration via the open-source agentic penetration testing tool ARTEX. The activity, linked to a likely Chinese-speaking actor, utilized large language models (LLMs) to facilitate the intrusions.</p><p>The attacker's infrastructure employed a two-server architecture utilizing Claude Code and LLM backends including DeepSeek, GLM, and Grok. This deployment of agentic AI tools highlights an evolving trend in adversarial tradecraft to increase the operational tempo and efficiency of cyberattacks.</p><hr/><small>8 Oct 2026, 18:57 UTC | #23686</small>]]></content>
-  </entry>
 </feed>
