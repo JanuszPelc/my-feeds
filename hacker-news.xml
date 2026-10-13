@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-13T04:44:00+00:00</updated>
+  <updated>2026-10-13T05:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Intel Launches D270 Data Center GPU for AI Inference</title>
+    <link href="https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html" rel="alternate" />
+    <id>https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html::v239</id>
+    <published>2026-10-13T05:06:00+00:00</published>
+    <updated>2026-10-13T05:06:00+00:00</updated>
+    <media:thumbnail url="https://www.adrenaline.com.br/wp-content/uploads/2026/10/intel-gpu-d270-pode-ter-480-gb-de-memoria-lpddr5x-para-competir-no-mercado-de-ia-cover.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html">intel.com</a> | <a href="https://news.ycombinator.com/item?id=50063365">hacker news</a></small></p><hr/><p>The D270 is a data center GPU optimized for inference workloads such as agentic AI, long-context retrieval-augmented generation (RAG), and high-concurrency serving. It features up to 480 GB of LPDDR5X memory to support the large context windows and high memory capacity required for complex AI reasoning and model deployment.</p><p>Designed for standard PCIe 5.0 environments, the card is air-cooled and compatible with existing server infrastructure, eliminating the need for liquid-cooling retrofits. Its architecture incorporates 32 Xe3P cores and 256 XMX matrix engines, with die area reallocated from graphics and ray-tracing pipelines to maximize AI compute efficiency.</p><p><img src="https://www.adrenaline.com.br/wp-content/uploads/2026/10/intel-gpu-d270-pode-ter-480-gb-de-memoria-lpddr5x-para-competir-no-mercado-de-ia-cover.jpg" /></p><hr/><small>13 Oct 2026, 12:13 UTC | #24144</small>]]></content>
+  </entry>
   <entry>
     <title>Intel's `vfmaddrnd231pd` Instruction Appears to be Non-Existent</title>
     <link href="https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/" rel="alternate" />

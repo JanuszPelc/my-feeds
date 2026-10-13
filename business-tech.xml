@@ -3,9 +3,26 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-13T04:52:00+00:00</updated>
+  <updated>2026-10-13T05:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Character.AI Files for Chapter 11 Bankruptcy and Agrees to $20 Million Asset Sale to Disney</title>
+    <link href="https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/" rel="alternate" />
+    <id>https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/::v239</id>
+    <published>2026-10-13T05:04:00+00:00</published>
+    <updated>2026-10-13T05:04:00+00:00</updated>
+    <media:thumbnail url="https://www.reuters.com/resizer/v2/7VFZWM3DBVIYBG6L35SRTX7FXY.jpg?auth=8850742a4bba05b63c807a5d1e8142e42591e36ac710b89387dbce0090c3af89&amp;width=1080&amp;quality=80" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/characterai-files-bankruptcy-agrees-sell-some-assets-disney-20-million-2026-10-13/">reuters.com</a> | <a href="https://blog.character.ai/an-update-on-character-ai/">source</a> | <a href="https://news.ycombinator.com/item?id=50067507">hacker news</a></small></p><hr/><p>Character.AI has filed for Chapter 11 bankruptcy in the United States and reached an agreement to sell select assets to Walt Disney for $20 million. The company intends to maintain normal operations while the sale is finalized.</p><p>The voluntary proceeding is intended to facilitate a value-maximizing sale process. This structure aims to stabilize the company's financial position while preserving its ongoing service to users.</p><p><img src="https://www.reuters.com/resizer/v2/7VFZWM3DBVIYBG6L35SRTX7FXY.jpg?auth=8850742a4bba05b63c807a5d1e8142e42591e36ac710b89387dbce0090c3af89&width=1080&quality=80" /></p><hr/><small>13 Oct 2026, 12:09 UTC | #24113</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nvidia's China AI Chip Market Share Falls to 34% in H1 2026</title>
+    <link href="https://www.reuters.com/business/retail-consumer/nvidias-china-ai-chip-share-falls-huawei-closes-gap-report-finds-2026-10-13/" rel="alternate" />
+    <id>https://www.reuters.com/business/retail-consumer/nvidias-china-ai-chip-share-falls-huawei-closes-gap-report-finds-2026-10-13/::v239</id>
+    <published>2026-10-13T05:03:00+00:00</published>
+    <updated>2026-10-13T05:03:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/retail-consumer/nvidias-china-ai-chip-share-falls-huawei-closes-gap-report-finds-2026-10-13/">reuters.com</a></small></p><hr/><p>Nvidia's market share for data-center AI chips in China fell to 34% in the first half of 2026, according to an IDC report. Shipments in the region decreased 44% year-over-year to 678,000 units.</p><p>The decline follows US export controls that have restricted the supply of Nvidia products and increased competition from domestic Chinese rivals, such as Huawei.</p><hr/><small>13 Oct 2026, 12:07 UTC | #24112</small>]]></content>
+  </entry>
   <entry>
     <title>NTT Data to Build Anthropic Data Center in Japan</title>
     <link href="https://asia.nikkei.com/business/technology/artificial-intelligence/ntt-to-build-first-data-center-for-anthropic-in-japan" rel="alternate" />
