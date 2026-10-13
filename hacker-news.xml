@@ -3,9 +3,25 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-13T16:20:00+00:00</updated>
+  <updated>2026-10-13T16:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Announces Fourth-Gen Apple TV 4K with Siri AI and Find My Support</title>
+    <link href="https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced" rel="alternate" />
+    <id>https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced::v239</id>
+    <published>2026-10-13T16:24:00+00:00</published>
+    <updated>2026-10-13T16:24:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced">theverge.com</a> | <a href="https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/">source</a> | <a href="https://news.ycombinator.com/item?id=50071310">hacker news</a></small></p><hr/><p>Apple has unveiled the fourth-generation Apple TV 4K, which introduces far-field microphones for hands-free Siri AI interaction and "Find My" support for the Siri Remote. The device is powered by the A19 chip and supports an expanded surround sound setup using up to four compatible HomePod speakers.</p><p>The hardware features Wi-Fi 7 and Bluetooth 6, and it utilizes Apple Intelligence to allow for natural language queries with personal context. It is priced at $299 and will be available for purchase starting November 13, 2026.</p><hr/><small>13 Oct 2026, 20:15 UTC | #24153</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple Announces HomePod mini 2</title>
+    <link href="https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/" rel="alternate" />
+    <id>https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/::v239</id>
+    <published>2026-10-13T16:23:00+00:00</published>
+    <updated>2026-10-13T16:23:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/">apple.com</a></small></p><hr/><p>Apple has announced the HomePod mini 2, which will include support for Siri AI through a future software update. The speaker features enhanced audio capabilities, new color options, and the ability to function as part of an immersive home theater setup when paired with an Apple TV 4K.</p><p>The device is priced at $149 in the U.S., with pre-orders starting immediately and in-store availability beginning October 30. Siri AI's conversational and music discovery features will be released in English for several regions, including the U.S., UK, and Canada, via upcoming software updates.</p><hr/><small>13 Oct 2026, 20:14 UTC | #24154</small>]]></content>
+  </entry>
   <entry>
     <title>Lotus Improv on NeXT Hardware</title>
     <link href="https://stonetools.ghost.io/lotusimprov-next/" rel="alternate" />
