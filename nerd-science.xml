@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-12T22:04:00+00:00</updated>
+  <updated>2026-10-13T01:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Vi Hart Discusses the Implications of AI-Verified Navier-Stokes Proofs</title>
+    <link href="https://www.patreon.com/vihart/posts/vi-harts-big-171939430" rel="alternate" />
+    <id>https://www.patreon.com/vihart/posts/vi-harts-big-171939430::v239</id>
+    <published>2026-10-13T01:30:00+00:00</published>
+    <updated>2026-10-13T01:30:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.patreon.com/vihart/posts/vi-harts-big-171939430">patreon.com</a> | <a href="https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post">discussion</a> | <a href="https://news.ycombinator.com/item?id=50051541">hacker news</a></small></p><hr/><p>OpenAI has claimed a solution to the Navier-Stokes Millennium Prize Problem using AI and Lean formal verification. This achievement is built upon years of cumulative human labor within the Mathlib library and other formal mathematical infrastructures, rather than being a purely autonomous AI breakthrough, according to Vi Hart, a former collaborator with the Lean proof assistant team.</p><p>The discussion explores the relationship between human mathematical insight and computational formalization. Hart posits that AI and automated proof systems are specialized tools rather than replacements for mathematicians, cautioning that massive, unguided computation risks creating a "Library of Babel"—a vast repository of mathematically trivial and meaningless proofs that lack human-driven context and meaning.</p><hr/><small>13 Oct 2026, 06:27 UTC | #24115</small>]]></content>
+  </entry>
   <entry>
     <title>Huahai Rebuts Rich Hickey’s Argument That AI Is Not a Tool</title>
     <link href="https://yyhh.org/blog/2026/10/ai-is-a-tool/" rel="alternate" />
