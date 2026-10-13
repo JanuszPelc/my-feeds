@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-13T16:24:00+00:00</updated>
+  <updated>2026-10-13T16:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Creusot 0.14.0 Adds Partial Order Support and rust-analyzer Integration</title>
+    <link href="https://devlog.creusot.rs/v0-14-0/" rel="alternate" />
+    <id>https://devlog.creusot.rs/v0-14-0/::v239</id>
+    <published>2026-10-13T16:31:00+00:00</published>
+    <updated>2026-10-13T16:31:00+00:00</updated>
+    <media:thumbnail url="https://devlog.creusot.rs/creusot-go-to-definition.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://devlog.creusot.rs/v0-14-0/">devlog.creusot.rs</a> | <a href="https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust">discussion</a></small></p><hr/><p>Creusot, a formal verification tool for Rust, has released version 0.14.0. This update introduces support for partial orders in its logic system, expanding upon the previous requirement for total orders. The tool also now generates verification conditions for `snapshot!` macros, which enables the use of logic functions as lemma functions to help identify specification errors.</p><p>Developer workflow is improved through rust-analyzer integration, which now supports "Go-to-definition" functionality within Pearlite specifications. This was made possible by refining the source spans of tokens produced by macros, allowing the IDE to correctly resolve identifiers during navigation.</p><p><img src="https://devlog.creusot.rs/creusot-go-to-definition.png" /></p><hr/><small>13 Oct 2026, 20:54 UTC | #24198</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple HomeView Unavailable in the European Union</title>
+    <link href="https://www.macrumors.com/2026/10/13/apple-homeview-wont-be-available-in-eu/" rel="alternate" />
+    <id>https://www.macrumors.com/2026/10/13/apple-homeview-wont-be-available-in-eu/::v239</id>
+    <published>2026-10-13T16:30:00+00:00</published>
+    <updated>2026-10-13T16:30:00+00:00</updated>
+    <media:thumbnail url="https://data.ibtimes.sg/en/full/92713/apple-siri-ai.jpg?w=736" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.macrumors.com/2026/10/13/apple-homeview-wont-be-available-in-eu/">macrumors.com</a> | <a href="https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/">source</a> | <a href="https://news.ycombinator.com/item?id=50071085">hacker news</a></small></p><hr/><p>Apple's HomeView smart home hub will not launch in the European Union because Siri AI is currently unavailable on iOS in the region. While Apple is working with EU regulators to find a resolution, the company has not provided a timeline for the product's availability in the EU.</p><p>The $299 device is scheduled to launch on November 13 in eight other countries. Its regional unavailability is tied to the current absence of Apple Intelligence and Siri AI features in the European market.</p><p><img src="https://data.ibtimes.sg/en/full/92713/apple-siri-ai.jpg?w=736" /></p><hr/><small>13 Oct 2026, 20:50 UTC | #24162</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Announces Fourth-Gen Apple TV 4K with Siri AI and Find My Support</title>
     <link href="https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced" rel="alternate" />
@@ -914,14 +932,5 @@
     <published>2026-10-08T22:06:00+00:00</published>
     <updated>2026-10-08T22:06:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://htmx.org/essays/yes-and/">htmx.org</a> | <a href="https://news.ycombinator.com/item?id=50003796">hacker news</a></small></p><hr/><p>Computer programming remains a viable career in the age of artificial intelligence because the core disciplines of problem-solving and managing complexity remain highly valuable. While AI can act as an effective tool for learning and overcoming technical roadblocks, manual code authorship is essential for developing the ability to read and understand complex logic.</p><p>Excessive reliance on AI-generated code may hinder junior developers from developing the architectural intuition necessary to control sophisticated systems. As raw coding proficiency becomes relatively less central, skills in communication, business understanding, and system architecture are expected to increase in importance.</p><hr/><small>9 Oct 2026, 03:19 UTC | #23745</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Launches Critical Infrastructure Defense Program</title>
-    <link href="https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity" rel="alternate" />
-    <id>https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity::v239</id>
-    <published>2026-10-08T21:03:00+00:00</published>
-    <updated>2026-10-08T21:03:00+00:00</updated>
-    <media:thumbnail url="https://z7solutions.com/wp-content/uploads/2026/01/What-Makes-Critical-Infrastructure-Different.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity">axios.com</a> | <a href="https://www.anthropic.com/news/anthropic-cyber-mission">source</a> | <a href="https://news.ycombinator.com/item?id=50010605">hacker news</a></small></p><hr/><p>Anthropic has launched the Critical Infrastructure Defense Program, an initiative providing advanced AI models, threat research, and on-site engineering support to protect vital systems. The program's initial rollout includes partnerships with organizations such as CrowdStrike.</p><p>The program builds upon the work of Anthropic's Project Glasswing, which has been integrated into the company's Cyber Verification Program. This effort aims to bolster security for both critical infrastructure and open-source software through the deployment of engineering talent and specialized tools.</p><p><img src="https://z7solutions.com/wp-content/uploads/2026/01/What-Makes-Critical-Infrastructure-Different.webp" /></p><hr/><small>9 Oct 2026, 02:36 UTC | #23716</small>]]></content>
   </entry>
 </feed>
