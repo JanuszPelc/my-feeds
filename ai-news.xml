@@ -3,9 +3,26 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-13T17:31:00+00:00</updated>
+  <updated>2026-10-13T18:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Meta Launches 'Your Algorithm' AI Feature for Facebook</title>
+    <link href="https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/::v239</id>
+    <published>2026-10-13T18:06:00+00:00</published>
+    <updated>2026-10-13T18:06:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/YourAlgorithm-FB.png?w=1024" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/">techcrunch.com</a> | <a href="https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/">source</a></small></p><hr/><p>Meta has launched "Your Algorithm" on Facebook, an AI-powered feature that allows users to influence Feed and Reels content using natural language. By describing their preferences in their own words, users can interact with the platform's ranking systems to adjust recommendations in real-time.</p><p>Accessible through an updated three-dot menu, the feature includes "Interested" and "Not interested" options and may use follow-up questions to further refine user preferences. This rollout follows similar AI-driven customization efforts recently introduced on Instagram and Threads.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/YourAlgorithm-FB.png?w=1024" /></p><hr/><small>13 Oct 2026, 23:14 UTC | #24188</small>]]></content>
+  </entry>
+  <entry>
+    <title>Visual Reasoning, Research Taste, and the Expansion of AI into Space</title>
+    <link href="https://importai.substack.com/p/import-ai-476-creativity-and-rsi" rel="alternate" />
+    <id>https://importai.substack.com/p/import-ai-476-creativity-and-rsi::v239</id>
+    <published>2026-10-13T17:57:00+00:00</published>
+    <updated>2026-10-13T17:57:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://importai.substack.com/p/import-ai-476-creativity-and-rsi">importai.substack.com</a></small></p><hr/><p>New benchmarks reveal significant gaps in AI's intuitive visual reasoning via the Humanity's Sixth Sense (HSS) benchmark, which shows frontier models trailing far behind human performance. Simultaneously, the TasteVal benchmark demonstrates that AI models are rapidly developing the "research taste" required to design and interpret experiments, a trend that could accelerate the timeline for recursive self-improvement (RSI) to 2027. The report also evaluates the performance of new open-weight models from Mistral and Reflection alongside the deployment of federated training across US national laboratories.</p><p>The rapid improvement in AI research capabilities and the potential for an AI-driven space economy suggest a shift toward autonomous systems for orbital manufacturing and strategic domain awareness. Additionally, the use of distributed supercomputing resources across US national labs highlights emerging strategies for large-scale, sensitive AI development in high-stakes environments.</p><hr/><small>13 Oct 2026, 23:08 UTC | #24172</small>]]></content>
+  </entry>
   <entry>
     <title>Laplace Intelligence Develops AI-Driven Red-Teaming for Robotics and Autonomous Vehicles</title>
     <link href="https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/" rel="alternate" />

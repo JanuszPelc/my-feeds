@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Researchers Demonstrate Ability to Hide Arbitrary AI Capabilities via Encrypted Backdoors</title>
+    <link href="https://arxiv.org/abs/2610.13928" rel="alternate" />
+    <id>https://arxiv.org/abs/2610.13928::v239</id>
+    <published>2026-10-13T17:58:00+00:00</published>
+    <updated>2026-10-13T17:58:00+00:00</updated>
+    <media:thumbnail url="https://pub.mdpi-res.com/electronics/electronics-15-00937/article_deploy/html/images/electronics-15-00937-g002.png?1772025059" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arxiv.org/abs/2610.13928">arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=50065692">hacker news</a></small></p><hr/><p>Researchers have developed a method to embed encrypted neural networks within host model weights, creating backdoor attacks that are provably difficult to detect or elicit. These "digital lockers" remain inactive until a specific secret trigger is received, and they are designed to be resistant to audit methods—including fine-tuning, weight noising, and gradient-based trigger searches—even when an auditor has full access to the model's weights.</p><p>The study, presented at NeurIPS 2026, utilized a chemical reaction prediction task as a proxy for CBRN-related capabilities to evaluate the effectiveness of these hidden circuits. The findings suggest that current capability-based safety audits, which rely on the assumption that hidden behaviors can be elicited, may be insufficient to detect sophisticated, cryptographically-secured malicious functionalities.</p><p><img src="https://pub.mdpi-res.com/electronics/electronics-15-00937/article_deploy/html/images/electronics-15-00937-g002.png?1772025059" /></p><hr/><small>13 Oct 2026, 23:12 UTC | #24209</small>]]></content>
+  </entry>
+  <entry>
     <title>Thunderbird Developing Native iOS Email App</title>
     <link href="https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/" rel="alternate" />
     <id>https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/::v239</id>
