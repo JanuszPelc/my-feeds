@@ -7,6 +7,14 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>C Standard Implementation Discrepancies in GCC, Clang, glibc, and musl</title>
+    <link href="https://sebsite.pw/w/20261012-notstdc.html" rel="alternate" />
+    <id>https://sebsite.pw/w/20261012-notstdc.html::v239</id>
+    <published>2026-10-12T19:03:00+00:00</published>
+    <updated>2026-10-12T19:03:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sebsite.pw/w/20261012-notstdc.html">sebsite.pw</a> | <a href="https://lobste.rs/s/0aocct/your_c_is_not_standard_c">discussion</a></small></p><hr/><p>The article outlines various incompatibilities between the C standard and common implementations such as GCC, Clang, glibc, and musl. Notable discrepancies include the non-standard treatment of the `asm` keyword, GCC's static implementation of the `FLT_ROUNDS` macro, and the lack of support for standard pragmas in GCC and Clang. Additionally, musl's headers fail to correctly support the C23 single-argument `va_start` macro despite compiler support.</p><p>Further issues include glibc's deviation from POSIX regarding `initstate` error returns and Clang's failure to discard qualifiers in function return types as required by the standard. These implementation-specific behaviors can lead to non-portable code and unintended consequences for developers targeting the standard C specification.</p><hr/><small>13 Oct 2026, 00:43 UTC | #24100</small>]]></content>
+  </entry>
+  <entry>
     <title>Klondike Solver and Monitoring System Development</title>
     <link href="https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week" rel="alternate" />
     <id>https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week::v239</id>
@@ -975,13 +983,5 @@
     <updated>2026-10-08T09:58:00+00:00</updated>
     <media:thumbnail url="https://media.gncrypto.news/even-mars-may-not-be-safe-warns-vitalik-buterin-on-ai.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months">cointelegraph.com</a> | <a href="https://x.com/vitalikbuterin/status/2107976296320106851">source</a></small></p><hr/><p>Ethereum co-founder Vitalik Buterin has expressed support for concerns that rapid advancements in artificial intelligence could undermine the mathematical foundations of blockchain security. These advancements could potentially enable the breaking of elliptic curve digital signature algorithms (ECDSA) and weaken lattice-based cryptography—the basis for quantum-resistant security—faster than the projected arrival of quantum computing.</p><p>Mitigation strategies include a "bunker mode" approach, involving a gradual migration to new wallet addresses where public keys remain unexposed. While Buterin cautioned against rushed migrations due to the risk of user error, he endorsed the use of unused addresses to limit public key exposure. The warnings follow recent demonstrations of AI solving highly complex mathematical problems, such as the Navier-Stokes equation, in unprecedented timeframes.</p><p><img src="https://media.gncrypto.news/even-mars-may-not-be-safe-warns-vitalik-buterin-on-ai.jpg" /></p><hr/><small>8 Oct 2026, 15:55 UTC | #23628</small>]]></content>
-  </entry>
-  <entry>
-    <title>Zeroization Practices Can Unintentionally Increase Secret Exposure in Memory</title>
-    <link href="https://00f.net/2026/10/06/zeroization-1/" rel="alternate" />
-    <id>https://00f.net/2026/10/06/zeroization-1/::v239</id>
-    <published>2026-10-08T00:38:00+00:00</published>
-    <updated>2026-10-08T00:38:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://00f.net/2026/10/06/zeroization-1/">00f.net</a> | <a href="https://lobste.rs/s/4hxxad/zeroization_part_1_wiping_can_make_things">discussion</a></small></p><hr/><p>Zeroization, the practice of wiping sensitive data from memory, can inadvertently create additional, unmanaged copies of secrets in stack or register space. Compiler optimizations often discard standard `memset()` calls or trigger the creation of new stack spills when using opaque wiping functions, leaving the original secret intact in registers or other memory locations.</p><p>These residual copies increase the risk of information leakage through core dumps, hibernation files, and microarchitectural vulnerabilities. Effective sanitization requires analyzing optimized machine code and register usage rather than blindly applying wiping functions to local variables.</p><hr/><small>8 Oct 2026, 07:52 UTC | #23635</small>]]></content>
   </entry>
 </feed>
