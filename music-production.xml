@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-12T22:01:00+00:00</updated>
+  <updated>2026-10-13T00:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>IrisOrbit Updates PolyArp to Version 1.3.0</title>
+    <link href="https://www.kvraudio.com/news/irisorbit-updates-polyarp-to-v1-3-0---interface-scaling-and-selectable-humanize-layers-68934?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68934" rel="alternate" />
+    <id>https://www.kvraudio.com/news/irisorbit-updates-polyarp-to-v1-3-0---interface-scaling-and-selectable-humanize-layers-68934?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68934::v239</id>
+    <published>2026-10-13T00:35:00+00:00</published>
+    <updated>2026-10-13T00:35:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/polyarp-approved-render-kvr.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/irisorbit-updates-polyarp-to-v1-3-0---interface-scaling-and-selectable-humanize-layers-68934?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68934">kvraudio.com</a> | <a href="https://irisorbit.io/polyarp/updates/">source</a></small></p><hr/><p>The version 1.3.0 update for the PolyArp MIDI arpeggiator introduces interface scaling and selectable humanization layers. Users can scale the interface between 50% and 200% and choose from five humanize layers—including touch variation and finger legato—which are saved within presets and projects.</p><p>This update also adds a 1/64 grid for Draw mode, MIDI CC control for the bypass function, and improvements to note editing and MIDI indicators. The release is available as a standalone application or plugin for macOS, Windows, and Linux, and is included for existing 1.x license holders.</p><p><img src="https://static.kvraudio.com/i/b/polyarp-approved-render-kvr.jpg" /></p><hr/><small>13 Oct 2026, 05:40 UTC | #24101</small>]]></content>
+  </entry>
   <entry>
     <title>FRCTL Audio Updates GRNi Granular Sampler to v1.1.0</title>
     <link href="https://www.kvraudio.com/news/frctl-audio-updates-grni-to-v1-1-0---adds-slice-mode-69019?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69019" rel="alternate" />
