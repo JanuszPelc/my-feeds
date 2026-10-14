@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T11:31:00+00:00</updated>
+  <updated>2026-10-14T11:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>2026 Maintainers Summit Explores LLM Impact and Kernel Development Policy</title>
+    <link href="https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/" rel="alternate" />
+    <id>https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/::v239</id>
+    <published>2026-10-14T11:33:00+00:00</published>
+    <updated>2026-10-14T11:33:00+00:00</updated>
+    <media:thumbnail url="https://static.lwn.net/images/conf/2026/lpc/ms-group-sm.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/">lwn.net</a> | <a href="https://lobste.rs/s/fppgkl/2026_maintainers_summit">discussion</a></small></p><hr/><p>The 2026 Maintainers Summit in Prague focused on the influence of large language models (LLMs) on the Linux development community, automated patch review via Sashiko, and the increasing volume of security patches. The invitation-only gathering of kernel developers also addressed long-term leadership succession and the management of low-quality, high-volume code submissions.</p><p>Linus Torvalds suggested that the community should deprioritize contributions from non-experts who misuse LLMs, rather than blaming the technology itself. Other discussions centered on the implications of corporations maintaining private kernel forks and the ongoing struggle to manage the influx of automated or LLM-assisted patches.</p><p><img src="https://static.lwn.net/images/conf/2026/lpc/ms-group-sm.png" /></p><hr/><small>14 Oct 2026, 15:05 UTC | #24281</small>]]></content>
+  </entry>
   <entry>
     <title>KDE Releases Plasma 6.8 Desktop Environment</title>
     <link href="https://kde.org/announcements/plasma/6/6.8.0/" rel="alternate" />
