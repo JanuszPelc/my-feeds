@@ -976,12 +976,4 @@
     <media:thumbnail url="https://www.apriorit.com/wp-content/uploads/2021/06/1-2.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://rea.tools/">rea.tools</a> | <a href="https://news.ycombinator.com/item?id=50028275">hacker news</a></small></p><hr/><p>REA provides AI agents with the data required to inspect software by returning decompiled code, function analysis, and instruction sets. These outputs enable models to explain complex logic, identify specific execution branches, and reconstruct program features using natural language commands.</p><p>Supported environments include native binaries, JavaScript/Electron applications, and real-time browser or process activity. The tool can be integrated into workflows via npm to perform tasks such as mapping module dependencies or reconstructing software rules from running executables.</p><p><img src="https://www.apriorit.com/wp-content/uploads/2021/06/1-2.jpg" /></p><hr/><small>10 Oct 2026, 05:34 UTC | #23850</small>]]></content>
   </entry>
-  <entry>
-    <title>carrier-explode 2.0 Released with Improved Backend</title>
-    <link href="https://carrierexplode.com/" rel="alternate" />
-    <id>https://carrierexplode.com/::v239</id>
-    <published>2026-10-09T21:45:00+00:00</published>
-    <updated>2026-10-09T21:45:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://carrierexplode.com/">carrierexplode.com</a> | <a href="https://news.ycombinator.com/item?id=50024499">hacker news</a></small></p><hr/><p>carrier-explode 2.0 features an improved backend for decoding and comparing carrier settings for iPhone, Pixel, and Galaxy firmware. The tool allows users to look up APNs, VoLTE, Wi-Fi Calling, and 5G configurations for various mobile carriers.</p><p>The platform enables comparisons between carrier versions and firmware builds. Data is provided through an API or as a daily CC0 dataset, with technical documentation available in the project's wiki.</p><hr/><small>10 Oct 2026, 03:14 UTC | #23847</small>]]></content>
-  </entry>
 </feed>

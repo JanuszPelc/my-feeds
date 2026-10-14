@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-14T18:16:00+00:00</updated>
+  <updated>2026-10-14T19:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Epic Games Releases Preview of AI-Assisted Launcher with Linux Support</title>
+    <link href="https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux" rel="alternate" />
+    <id>https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux::v239</id>
+    <published>2026-10-14T19:28:00+00:00</published>
+    <updated>2026-10-14T19:28:00+00:00</updated>
+    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux">theverge.com</a> | <a href="https://store.epicgames.com/news/epic-games-launcher-preview">source</a></small></p><hr/><p>Epic Games has released a preview of a refreshed Epic Games Launcher that includes support for Linux and offers improved performance. The company stated the update was "vibe coded," utilizing AI agents to write and review code to replicate the existing launcher's core functionality under human supervision.</p><p>This development aligns with a broader strategic pivot by CEO Tim Sweeney to integrate AI more deeply into the company's development workflows. In addition to native Linux support for the launcher, Epic plans to bring Fortnite to Linux via the application.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-1.jpg?quality=90&strip=all&crop=0,0,100,100" /></p><hr/><small>14 Oct 2026, 21:47 UTC | #24280</small>]]></content>
+  </entry>
   <entry>
     <title>Mythfall Implements Procedural Mumble Speech for NPCs</title>
     <link href="https://www.youtube.com/watch?v=NaW0d7Tghw0" rel="alternate" />
