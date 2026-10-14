@@ -3,9 +3,25 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T11:47:00+00:00</updated>
+  <updated>2026-10-14T15:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Scott Helme Rebuts Claims That Passkeys Are a Trap</title>
+    <link href="https://scotthelme.co.uk/passkeys-are-not-a-trap/" rel="alternate" />
+    <id>https://scotthelme.co.uk/passkeys-are-not-a-trap/::v239</id>
+    <published>2026-10-14T15:16:00+00:00</published>
+    <updated>2026-10-14T15:16:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://scotthelme.co.uk/passkeys-are-not-a-trap/">scotthelme.co.uk</a> | <a href="https://news.ycombinator.com/item?id=50088935">hacker news</a></small></p><hr/><p>Scott Helme refutes claims that passkeys pose a privacy threat through WebAuthn attestation. Most mainstream passkey implementations, such as Google Password Manager and iCloud Keychain, do not provide attestation data to websites. WebAuthn attestation identifies device models via AAGUIDs rather than monitoring operating systems, browser extensions, or software configurations.</p><p>Hardware security keys like YubiKeys actually rely on attestation, contrary to arguments that they allow users to bypass it. Passkeys provide critical protection against phishing through domain-binding, a security property that TOTP (Time-based One-Time Password) methods lack.</p><hr/><small>14 Oct 2026, 17:47 UTC | #24304</small>]]></content>
+  </entry>
+  <entry>
+    <title>Russian Bot Activity Remains Stable Despite Drone Strikes on Yandex Data Centers</title>
+    <link href="https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy" rel="alternate" />
+    <id>https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy::v239</id>
+    <published>2026-10-14T12:01:00+00:00</published>
+    <updated>2026-10-14T12:01:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy">theverge.com</a></small></p><hr/><p>Ukrainian drone strikes targeting Yandex data centers have not significantly diminished Russian disinformation or bot farm activity, despite claims from President Volodymyr Zelenskyy that the operations reduced online provocations. While the strikes appear to have impacted Yandex's web crawlers, monitoring data shows that bot traffic remains steady and interaction levels on certain Kremlin-aligned accounts have increased.</p><p>Reports indicating a decline in bot activity appear to rely on AI-generated charts. Additionally, state-sponsored accounts continue to circulate disinformation, including false claims regarding European Union sanctions, suggesting the strikes' impact is limited to web-crawling infrastructure rather than coordinated political operations.</p><hr/><small>14 Oct 2026, 17:44 UTC | #24246</small>]]></content>
+  </entry>
   <entry>
     <title>Christopher Phiri Explores the Concept of Recreational Programming</title>
     <link href="https://www.cphiri.dev/presentations/recreational-programming" rel="alternate" />
