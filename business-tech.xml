@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-14T04:27:00+00:00</updated>
+  <updated>2026-10-14T06:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Defense Startups Partner with Taiwan to Build China-Free Drone Supply Chains</title>
+    <link href="https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94?st=nX4pDn&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94?st=nX4pDn&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-10-14T06:28:00+00:00</published>
+    <updated>2026-10-14T06:28:00+00:00</updated>
+    <media:thumbnail url="https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2026/03/24/ccb6800c-55c9-4396-939c-51c4bb139cbd_4eb706c6.jpg?itok=1zP9vp7q&amp;v=1774356847" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94?st=nX4pDn&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Since September 2025, US defense companies and startups have entered into at least 13 agreements with Taiwanese hardware firms to develop a secure drone technology supply chain. These partnerships focus on the assembly of uncrewed aircraft and boats through "non-red" supply chains, which are defined by the absence of Chinese components.</p><p>By integrating American technology with Taiwanese hardware manufacturing, the initiative seeks to mitigate the risks of relying on Chinese-made parts in sensitive military hardware. The movement aims to secure the production of critical uncrewed maritime and aerial defense platforms.</p><p><img src="https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2026/03/24/ccb6800c-55c9-4396-939c-51c4bb139cbd_4eb706c6.jpg?itok=1zP9vp7q&v=1774356847" /></p><hr/><small>14 Oct 2026, 11:58 UTC | #24228</small>]]></content>
+  </entry>
   <entry>
     <title>Scientists Call for International Body to Oversee AI Containment and Incident Reporting</title>
     <link href="https://www.reuters.com/legal/litigation/scientists-call-international-body-oversee-advanced-ai-2026-10-13/" rel="alternate" />
