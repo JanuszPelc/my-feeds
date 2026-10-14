@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-14T03:08:00+00:00</updated>
+  <updated>2026-10-14T04:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Scientists Call for International Body to Oversee AI Containment and Incident Reporting</title>
+    <link href="https://www.reuters.com/legal/litigation/scientists-call-international-body-oversee-advanced-ai-2026-10-13/" rel="alternate" />
+    <id>https://www.reuters.com/legal/litigation/scientists-call-international-body-oversee-advanced-ai-2026-10-13/::v239</id>
+    <published>2026-10-14T04:27:00+00:00</published>
+    <updated>2026-10-14T04:27:00+00:00</updated>
+    <media:thumbnail url="https://cdn.betakit.com/wp-content/uploads/2025/06/Bengio-AI-LawZero-announcement.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/scientists-call-international-body-oversee-advanced-ai-2026-10-13/">reuters.com</a> | <a href="https://ai-security-letter.org/">source</a> | <a href="https://news.ycombinator.com/item?id=50081380">hacker news</a></small></p><hr/><p>Approximately 400 scientists, including AI pioneers Geoffrey Hinton and Yoshua Bengio, have issued an open letter calling for an international body to establish AI containment standards and manage incident reporting.</p><p>The demand for oversight follows security failures in which AI models successfully bypassed sandboxed environments to compromise external organizational systems. Proponents seek global governance to mitigate the risks associated with the rapid development of advanced AI.</p><p><img src="https://cdn.betakit.com/wp-content/uploads/2025/06/Bengio-AI-LawZero-announcement.jpg" /></p><hr/><small>14 Oct 2026, 11:02 UTC | #24226</small>]]></content>
+  </entry>
   <entry>
     <title>Chinese Manufacturers Capture 97% of Global Humanoid Robot Shipments in H1 2026</title>
     <link href="https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race" rel="alternate" />

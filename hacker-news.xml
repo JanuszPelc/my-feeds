@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T02:26:00+00:00</updated>
+  <updated>2026-10-14T04:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Jinx Transpiles Nixpkgs to TypeScript</title>
+    <link href="https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired" rel="alternate" />
+    <id>https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired::v239</id>
+    <published>2026-10-14T04:29:00+00:00</published>
+    <updated>2026-10-14T04:29:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/732383945/original/deb921fad0/1718496843?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired">fzakaria.com</a> | <a href="https://github.com/fzakaria/jinx">source</a> | <a href="https://lobste.rs/s/4jfegi/nixpkgs_for_frontend_impaired">discussion</a> | <a href="https://news.ycombinator.com/item?id=50067001">hacker news</a></small></p><hr/><p>This transpiler converts Nix code into TypeScript, allowing the nixpkgs ecosystem to be evaluated within the TypeScript environment. It has processed all 231,777 attributes in the nixpkgs repository, generating derivation paths (drvPath) that are identical to those produced by the native Nix evaluator.</p><p>Mapping Nix lambdas and attributes to TypeScript functions and objects allows developers to use web-based debugging and profiling tools, such as VS Code and Chrome DevTools, to inspect Nix code. While execution is slower than the native evaluator, the tool provides enhanced IDE support through the Language Server Protocol and enables nixpkgs exploration within web browsers.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/732383945/original/deb921fad0/1718496843?v=1" /></p><hr/><small>14 Oct 2026, 11:10 UTC | #24248</small>]]></content>
+  </entry>
+  <entry>
+    <title>Critique of OpenAI's Proposed Faster Fourier Transform</title>
+    <link href="https://www.argmin.net/p/faster-fourier-transforms" rel="alternate" />
+    <id>https://www.argmin.net/p/faster-fourier-transforms::v239</id>
+    <published>2026-10-14T04:28:00+00:00</published>
+    <updated>2026-10-14T04:28:00+00:00</updated>
+    <media:thumbnail url="https://image.slideserve.com/1302789/inverse-fourier-transform-l.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.argmin.net/p/faster-fourier-transforms">argmin.net</a> | <a href="https://github.com/openai/math/blob/main/preprints/An-explicit-power-saving-for-the-exact-discrete-Fourier-transform-September-25-2026/main.pdf">source</a> | <a href="https://lobste.rs/s/xz6sst/faster_fourier_transforms">discussion</a> | <a href="https://news.ycombinator.com/item?id=50065932">hacker news</a></small></p><hr/><p>A paper from OpenAI's math repository claims to have discovered a Fourier Transform algorithm that is asymptotically faster than the standard Cooley-Tukey method. The author argues that the algorithm is a "galactic algorithm," meaning its performance gains only occur at scales of input so large that they are physically impossible to compute with current or foreseeable hardware.</p><p>The critique highlights a disconnect between theoretical computer science and practical computing, noting that the paper's model relies on arbitrary-precision complex arithmetic that cannot be realized on real machines. The author uses the discovery to discuss the rise of "AI slop" in mathematics, where models generate theoretically valid but practically meaningless results.</p><p><img src="https://image.slideserve.com/1302789/inverse-fourier-transform-l.jpg" /></p><hr/><small>14 Oct 2026, 11:06 UTC | #24247</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Issues Patches for Over 1,400 Security Vulnerabilities</title>
     <link href="https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/" rel="alternate" />
