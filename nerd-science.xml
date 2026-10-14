@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-14T12:00:00+00:00</updated>
+  <updated>2026-10-14T19:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Advice for Navigating a Cancer Diagnosis</title>
+    <link href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/" rel="alternate" />
+    <id>https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/::v239</id>
+    <published>2026-10-14T19:27:00+00:00</published>
+    <updated>2026-10-14T19:27:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/">jjmaxwell4.com</a> | <a href="https://news.ycombinator.com/item?id=50093568">hacker news</a></small></p><hr/><p>A patient's experience with a squamous cell carcinoma diagnosis provides practical advice for navigating medical systems. Key strategies include maintaining persistence with scheduling, pushing for comprehensive genetic testing, and seeking second opinions at specialized cancer centers.</p><p>NCCN "Standard of Care" flow charts are suggested for understanding treatment pathways, and AI tools can be used to summarize dictated medical notes. The Sijbrandij Foundation is also highlighted as a resource for exploring treatment options beyond standard protocols.</p><hr/><small>14 Oct 2026, 21:35 UTC | #24323</small>]]></content>
+  </entry>
   <entry>
     <title>Encora Therapeutics Receives FDA Clearance for Encora X1 Wearable</title>
     <link href="https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002" rel="alternate" />
@@ -169,13 +177,5 @@
     <published>2026-10-10T06:18:00+00:00</published>
     <updated>2026-10-10T06:18:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lumi.codeberg.page/blog/software-community.html">lumi.codeberg.page</a> | <a href="https://lobste.rs/s/o8xo9z/importance_communities_around_software">discussion</a></small></p><hr/><p>The author argues that software ethics and autonomy depend more on the community surrounding a project than on the specific type of license used. While copyleft licenses signal a commitment to software freedom, they cannot guarantee inclusive practices, the avoidance of extractive technologies like generative models, or community-driven governance.</p><p>The essay posits that a project's values are shaped by its contributors and leadership rather than legal frameworks alone. The author advocates for participation in software cooperatives and community management to promote ethical standards and resist corporate-driven or non-inclusive development models.</p><hr/><small>10 Oct 2026, 13:37 UTC | #23870</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Concept of 'Robot' as a Social Construct</title>
-    <link href="https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/" rel="alternate" />
-    <id>https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/::v239</id>
-    <published>2026-10-09T21:17:00+00:00</published>
-    <updated>2026-10-09T21:17:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/">robotgirlgang.com</a> | <a href="https://lobste.rs/s/ha0qt7/robot_is_social_construct_why_your">discussion</a></small></p><hr/><p>The term "robot" functions as a social construct rather than a strictly technical definition. While machines like dishwashers are automated, the label "robot" is primarily applied to technologies that challenge human identity, societal norms, or existential comfort.</p><p>The concept originated in science fiction and evolves alongside public perception of technology. As automated tools become normalized and lose their capacity to unsettle human concepts of labor or consciousness, they are often demoted from "robots" to standard automated machinery.</p><hr/><small>10 Oct 2026, 00:19 UTC | #23835</small>]]></content>
   </entry>
 </feed>
