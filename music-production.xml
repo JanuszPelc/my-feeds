@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-14T11:46:00+00:00</updated>
+  <updated>2026-10-14T11:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>All The Machines Releases UN/T-01 Free 808 Drum Machine Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/14/all-the-machines-unt-01/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/14/all-the-machines-unt-01/::v239</id>
+    <published>2026-10-14T11:52:00+00:00</published>
+    <updated>2026-10-14T11:52:00+00:00</updated>
+    <media:thumbnail url="https://internetintro.com/wp-content/uploads/2026/01/lloydstellar.nl_.webp" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/14/all-the-machines-unt-01/">bedroomproducersblog.com</a> | <a href="https://all-the-machines.com/products/unit-01/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/14/all-the-machines-unt-01/#respond">discussion</a></small></p><hr/><p>All The Machines has released UN/T-01, a free drum machine plugin featuring synthesized 808 sounds and sample playback capabilities. The tool includes a built-in step sequencer and provides six tracks for kick, snare, hi-hat, percussion, tom, and cymbal sounds.</p><p>Users can choose between the integrated synthesized 808 engines or load their own custom samples into the tracks. The plugin is currently in public beta and is compatible with both Windows and macOS.</p><p><img src="https://internetintro.com/wp-content/uploads/2026/01/lloydstellar.nl_.webp" /></p><hr/><small>14 Oct 2026, 16:48 UTC | #24254</small>]]></content>
+  </entry>
   <entry>
     <title>Aeons Light Releases Harmonic EQ</title>
     <link href="https://bedroomproducersblog.com/2026/10/14/aeons-light-harmonic-eq/" rel="alternate" />
