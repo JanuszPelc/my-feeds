@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T01:40:00+00:00</updated>
+  <updated>2026-10-14T02:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Microsoft Issues Patches for Over 1,400 Security Vulnerabilities</title>
+    <link href="https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/" rel="alternate" />
+    <id>https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/::v239</id>
+    <published>2026-10-14T02:26:00+00:00</published>
+    <updated>2026-10-14T02:26:00+00:00</updated>
+    <media:thumbnail url="https://krebsonsecurity.com/wp-content/uploads/2020/08/windowsec.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/">krebsonsecurity.com</a> | <a href="https://msrc.microsoft.com/update-guide">source</a></small></p><hr/><p>Microsoft released security updates in October 2026 to address more than 1,400 vulnerabilities across Windows operating systems and other software. The batch includes 78 critical flaws, many of which allow for remote code execution, and one zero-day vulnerability (CVE-2026-96951) involving a security feature bypass in the Windows Shell.</p><p>The significant increase in the number of patches is attributed to heightened bug discovery using large language models. Security analysts warned that these large-scale patch cycles can strain corporate security teams during the testing and deployment processes, advising organizations to prioritize vulnerabilities identified in CISA's Known Exploited Vulnerabilities catalog.</p><p><img src="https://krebsonsecurity.com/wp-content/uploads/2020/08/windowsec.png" /></p><hr/><small>14 Oct 2026, 09:37 UTC | #24224</small>]]></content>
+  </entry>
   <entry>
     <title>antcc Fixes -O2 Performance Pessimization in Lua Benchmarks</title>
     <link href="https://386s.org/w/lua-antcc-pessimization/" rel="alternate" />
