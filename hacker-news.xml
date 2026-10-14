@@ -940,13 +940,4 @@
     <updated>2026-10-09T21:26:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://carette.xyz/posts/minimal_swift_kernel_on_qemu/">carette.xyz</a> | <a href="https://lobste.rs/s/myb8wf/minimal_kernel_swift_running_qemu">discussion</a> | <a href="https://news.ycombinator.com/item?id=49977351">hacker news</a></small></p><hr/><p>Swift's "Embedded Swift" subset enables a minimal kernel to run on a bare-metal AArch64 target within the QEMU emulator. The project uses an assembly entry point to configure the stack and bridge execution, allowing the code to operate without an underlying operating system or standard library.</p><p>Essential low-level functions, including a `putchar` driver for the PL011 UART via memory-mapped I/O and a custom `memmove` implementation, are manually provided to replace the missing standard library. The system currently supports a serial console for character echoing via polling, establishing a foundation for future features like interrupts and task scheduling.</p><hr/><small>10 Oct 2026, 01:02 UTC | #23842</small>]]></content>
   </entry>
-  <entry>
-    <title>Scott Bez Constructs a Wearable "Neon" T-Shirt Using LED Filaments</title>
-    <link href="https://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html" rel="alternate" />
-    <id>https://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html::v239</id>
-    <published>2026-10-09T17:09:00+00:00</published>
-    <updated>2026-10-09T17:09:00+00:00</updated>
-    <media:thumbnail url="https://i.pinimg.com/736x/e9/77/5d/e9775db59d4784c640b6b8766913fc84.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://scottbezek.blogspot.com/2026/10/making-flexible-neon-t-shirt-with-leds.html">scottbezek.blogspot.com</a> | <a href="https://news.ycombinator.com/item?id=50008047">hacker news</a></small></p><hr/><p>This project involves designing and constructing a wearable t-shirt that uses flexible LED filaments to simulate the aesthetic of neon lighting. The design features custom motifs, including a llama on the back and cursive text on the front, achieved by sewing the filaments onto a stabilized fabric substrate.</p><p>The electronics consist of an ESP32 microcontroller, boost converters, and transistor arrays to manage the varying voltage requirements of the different LED filaments. The assembly is powered by a standard USB battery bank and housed in a 3D-printed enclosure.</p><p><img src="https://i.pinimg.com/736x/e9/77/5d/e9775db59d4784c640b6b8766913fc84.jpg" /></p><hr/><small>9 Oct 2026, 22:28 UTC | #23830</small>]]></content>
-  </entry>
 </feed>

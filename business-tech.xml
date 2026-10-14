@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-14T11:43:00+00:00</updated>
+  <updated>2026-10-14T11:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenFatigue Satirizes 'Open' Branding Trends in Tech and AI</title>
+    <link href="https://openfatigue.ai/" rel="alternate" />
+    <id>https://openfatigue.ai/::v239</id>
+    <published>2026-10-14T11:57:00+00:00</published>
+    <updated>2026-10-14T11:57:00+00:00</updated>
+    <media:thumbnail url="https://www.kron4.com/wp-content/uploads/sites/11/2025/10/replacement-ai1.jpg?w=640&amp;h=360&amp;crop=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://openfatigue.ai/">openfatigue.ai</a> | <a href="https://lobste.rs/s/plbei0/openfatigue_open_is_new_closed">discussion</a> | <a href="https://news.ycombinator.com/item?id=50061278">hacker news</a></small></p><hr/><p>OpenFatigue is a satirical platform designed to critique the proliferation of "open" branding across the technology and artificial intelligence industries. The site mocks how terms such as "open weights," "open source," and "open access" are frequently utilized by companies to describe products that are actually proprietary, restrictive, or subject to heavy legal limitations.</p><p>The project features parody elements including an "Openness Meter," an "Openness Classifier," and mock enterprise pricing tiers to highlight the ambiguity of modern software licensing. It serves as a social commentary on the tension between genuine open-source principles and the marketing-driven language used by contemporary tech startups.</p><p><img src="https://www.kron4.com/wp-content/uploads/sites/11/2025/10/replacement-ai1.jpg?w=640&h=360&crop=1" /></p><hr/><small>14 Oct 2026, 17:10 UTC | #24299</small>]]></content>
+  </entry>
+  <entry>
+    <title>CoreWeave Targets Insurer Capital to Fund AI Infrastructure Expansion</title>
+    <link href="https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765" rel="alternate" />
+    <id>https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765::v239</id>
+    <published>2026-10-14T11:54:00+00:00</published>
+    <updated>2026-10-14T11:54:00+00:00</updated>
+    <media:thumbnail url="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/43313a44-1eea-4295-a35d-329de9e49cba/2025-09-26-ai_cloud_provider_coreweave_has_expande.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765">ft.com</a></small></p><hr/><p>CoreWeave is seeking to tap into the vast capital reserves of insurance companies to secure cheaper financing for its massive infrastructure expansion. The Nvidia-backed AI cloud provider intends to spend tens of billions of dollars on chips and data center construction to satisfy the high demand for AI computing.</p><p>This strategy is aimed at optimizing the company's capital structure amidst its intense capital expenditure requirements. It follows recent large-scale debt-raising efforts, such as a landmark $8.5 billion financing facility designed to support the scaling of its specialized GPU-based cloud services.</p><p><img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/43313a44-1eea-4295-a35d-329de9e49cba/2025-09-26-ai_cloud_provider_coreweave_has_expande.png" /></p><hr/><small>14 Oct 2026, 17:02 UTC | #24241</small>]]></content>
+  </entry>
   <entry>
     <title>SpaceX Limits Starlink Speeds in Ukraine, Disrupting Drone Missions</title>
     <link href="https://www.reuters.com/world/europe/spacex-limits-starlink-operations-ukraine-disrupting-military-missions-2026-10-14/" rel="alternate" />
@@ -719,22 +737,5 @@
     <updated>2026-10-09T21:07:00+00:00</updated>
     <media:thumbnail url="https://assets.bobitstudios.com/image/upload/f_auto,q_auto,dpr_auto,c_fill,g_auto/pm.vector-1200x800_1759857037571_atk6u5.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306">gizmodo.com</a> | <a href="https://news.ycombinator.com/item?id=50026555">hacker news</a></small></p><hr/><p>Canadian YouTuber Anthony Sistilli built a custom automatic license plate recognition (ALPR) system designed to track the movement of police vehicles. Following his social media posts about the project, officers from the Peel Regional Police reportedly visited his home to question his intentions regarding the collected data.</p><p>The incident highlights the tension surrounding surveillance technology, as police expressed concerns that such tracking could compromise officer privacy and safety. The situation has prompted further debate regarding the lack of transparency and the potential for misuse in the widespread deployment of ALPR cameras by law enforcement agencies.</p><p><img src="https://assets.bobitstudios.com/image/upload/f_auto,q_auto,dpr_auto,c_fill,g_auto/pm.vector-1200x800_1759857037571_atk6u5.jpg" /></p><hr/><small>9 Oct 2026, 22:44 UTC | #23832</small>]]></content>
-  </entry>
-  <entry>
-    <title>New York AG Secures $35M Settlement and Lifetime Industry Ban from Alex Mashinsky</title>
-    <link href="https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky" rel="alternate" />
-    <id>https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky::v239</id>
-    <published>2026-10-09T17:08:00+00:00</published>
-    <updated>2026-10-09T17:08:00+00:00</updated>
-    <media:thumbnail url="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/celsius-alex-mashinsky-decrypt-style-scaled-gID_7.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky">coindesk.com</a> | <a href="https://ag.ny.gov/press-release/2026/attorney-general-james-bans-former-cryptocurrency-ceo-who-defrauded-investors">source</a></small></p><hr/><p>New York Attorney General Letitia James has secured a settlement against former Celsius CEO Alex Mashinsky, which includes a permanent ban from the securities, commodities, and cryptocurrency industries. Mashinsky, currently serving a 12-year federal prison sentence for fraud, also faces penalties of up to $35 million depending on the forfeiture of ill-gotten gains and compliance with his sentencing terms.</p><p>The legal action stems from allegations that Mashinsky misled investors regarding the safety of Celsius deposits while using customer assets in high-risk strategies and concealing losses. This settlement follows the 2022 bankruptcy of Celsius, which has since distributed more than $3.4 billion to creditors and customers.</p><p><img src="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/celsius-alex-mashinsky-decrypt-style-scaled-gID_7.jpg" /></p><hr/><small>9 Oct 2026, 22:24 UTC | #23793</small>]]></content>
-  </entry>
-  <entry>
-    <title>Amazon Ends Data Center NDAs and AI Agents Seek Payment Access</title>
-    <link href="https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/" rel="alternate" />
-    <id>https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/::v239</id>
-    <published>2026-10-09T16:54:00+00:00</published>
-    <updated>2026-10-09T16:54:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/">techcrunch.com</a></small></p><hr/><p>Amazon is ending its use of nondisclosure agreements in data center negotiations with local governments, following a similar move by Microsoft. This change responds to community backlash against AI infrastructure. Meanwhile, new AI agents are seeking access to consumer credit cards and personal files, driving the rise of privacy-focused startups like Tab, Underdog, and Hark.</p><p>Additional topics include Lambda's reported $4 billion raise, Uber's $2.3 billion acquisition of ezCater, and Ghost's $3,499 computer designed for continuous AI agent operation. The White House's Super Intelligence Force and security measures from Apple and United to restrict unauthorized AI agent access are also addressed.</p><hr/><small>9 Oct 2026, 22:10 UTC | #23807</small>]]></content>
   </entry>
 </feed>

@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-14T11:35:00+00:00</updated>
+  <updated>2026-10-14T11:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Nvidia Pledges $250 Million in Computing Resources for UK AI Safety Research</title>
+    <link href="https://www.reuters.com/technology/nvidia-pledges-250-million-boost-uk-ai-safety-research-2026-10-14/" rel="alternate" />
+    <id>https://www.reuters.com/technology/nvidia-pledges-250-million-boost-uk-ai-safety-research-2026-10-14/::v239</id>
+    <published>2026-10-14T11:55:00+00:00</published>
+    <updated>2026-10-14T11:55:00+00:00</updated>
+    <media:thumbnail url="https://www.techbuzz.ai/cdn-cgi/image/width=1200,height=900,quality=80,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/file_efa6e91f1c.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/technology/nvidia-pledges-250-million-boost-uk-ai-safety-research-2026-10-14/">reuters.com</a></small></p><hr/><p>Nvidia has pledged $250 million in accelerated computing resources over five years to fund research into AI security and agentic safety in the United Kingdom. The initiative aims to support scientific studies into the safety and security implications of autonomous AI agents.</p><p>The $50 million annual allocation of compute access will support research programs such as BOLD and SOFAIR. Imperial College London is also among the entities set to benefit from the resources.</p><p><img src="https://www.techbuzz.ai/cdn-cgi/image/width=1200,height=900,quality=80,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/file_efa6e91f1c.png" /></p><hr/><small>14 Oct 2026, 17:05 UTC | #24242</small>]]></content>
+  </entry>
   <entry>
     <title>Google DeepMind and Google Cloud to Provide European Researchers with Frontier AI Access and Compute Credits</title>
     <link href="https://www.reuters.com/technology/google-deepmind-google-cloud-allow-european-researchers-access-frontier-models-2026-10-14/" rel="alternate" />
