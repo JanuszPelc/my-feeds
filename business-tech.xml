@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-14T06:34:00+00:00</updated>
+  <updated>2026-10-14T11:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amazon's Pricing Policies and Fees Influence Retail Prices Across the Web</title>
+    <link href="https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/" rel="alternate" />
+    <id>https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/::v239</id>
+    <published>2026-10-14T11:09:00+00:00</published>
+    <updated>2026-10-14T11:09:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/">not-ship.com</a> | <a href="https://news.ycombinator.com/item?id=50084757">hacker news</a></small></p><hr/><p>Amazon's fee structure and "Fair Pricing Policy" create a cycle that inflates consumer prices across the entire e-commerce market. As third-party sellers face increasing costs from referral, fulfillment, and advertising fees—which can account for nearly half of a sale—they are often forced to raise prices to remain profitable. Amazon's policies further exacerbate this by penalizing sellers who offer lower prices on other platforms, such as by removing the "Buy Box" or suspending accounts, effectively forcing price parity across the internet.</p><p>These practices are central to a major antitrust lawsuit filed by the Federal Trade Commission (FTC) and several state attorneys general, which alleges that Amazon illegally maintains monopoly power. With Amazon controlling roughly 40% of all U.S. online retail sales, many sellers lack the leverage to avoid these fees or the platform's pricing mandates, resulting in higher prices for consumers even when they shop outside of Amazon.</p><hr/><small>14 Oct 2026, 14:39 UTC | #24277</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Launches 'Switch to Safari' Campaign Highlighting Privacy and Performance</title>
     <link href="https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/" rel="alternate" />
@@ -744,23 +752,5 @@
     <published>2026-10-09T15:44:00+00:00</published>
     <updated>2026-10-09T15:44:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-09/burnham-says-uk-will-curb-non-compete-clauses-after-tech-ai-startup-outcry">bloomberg.com</a></small></p><hr/><p>The UK government intends to restrict non-compete clauses in employment contracts, which currently prevent workers from immediately transitioning to competitors or launching new ventures. The move follows criticism from the technology and AI startup sectors, which argue these restrictions stifle innovation and impede the movement of specialized talent.</p><p>Prime Minister Andy Burnham's administration is considering legislative options to ease these restrictions to bolster economic growth. Proposed measures range from a total ban on such clauses to a partial ban that would only apply to employees earning above a specific salary threshold.</p><hr/><small>9 Oct 2026, 20:04 UTC | #23781</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nvidia Commits $1B to Support US Scientific Research</title>
-    <link href="https://www.theregister.com/hpc/2026/10/08/nvidia-found-1b-under-the-couch-to-help-secure-american-scientific-computing-dominance/5302110" rel="alternate" />
-    <id>https://www.theregister.com/hpc/2026/10/08/nvidia-found-1b-under-the-couch-to-help-secure-american-scientific-computing-dominance/5302110::v239</id>
-    <published>2026-10-09T14:42:00+00:00</published>
-    <updated>2026-10-09T14:42:00+00:00</updated>
-    <media:thumbnail url="https://files.brownstoneresearch.com/BR/free/2025/11/04135032/20251104-tbe-06.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theregister.com/hpc/2026/10/08/nvidia-found-1b-under-the-couch-to-help-secure-american-scientific-computing-dominance/5302110">theregister.com</a> | <a href="https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years">source</a></small></p><hr/><p>A $1 billion commitment over the next five years will support U.S. research and development in sectors like quantum computing, healthcare, and energy security. This initiative supports "super intelligence" goals under the U.S. government's Genesis Mission, which aims to ensure continued American technological leadership.</p><p>This funding coincides with Nvidia's expanding role in supercomputing, including the deployment of Blackwell-GPU-based systems like Argonne's Solstice. While Nvidia's upcoming architectures focus on high-throughput AI workloads, AMD's hardware is slated to power the high-precision Discovery system expected to come online in 2029.</p><p><img src="https://files.brownstoneresearch.com/BR/free/2025/11/04135032/20251104-tbe-06.png" /></p><hr/><small>9 Oct 2026, 18:06 UTC | #23764</small>]]></content>
-  </entry>
-  <entry>
-    <title>Netflix Prepares to Lay Off Approximately 5% of Workforce</title>
-    <link href="https://puck.news/netflix-is-sharpening-the-layoff-axe/" rel="alternate" />
-    <id>https://puck.news/netflix-is-sharpening-the-layoff-axe/::v239</id>
-    <published>2026-10-09T14:35:00+00:00</published>
-    <updated>2026-10-09T14:35:00+00:00</updated>
-    <media:thumbnail url="https://tamansinghlaw.com/wp-content/uploads/2026/02/Netflix-Layoffs-in-Ontario-2026.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://puck.news/netflix-is-sharpening-the-layoff-axe/">puck.news</a></small></p><hr/><p>Netflix is preparing to lay off approximately 5% of its workforce, which equates to roughly 850 jobs. The move is driven by recent pressures involving weakened user engagement and a depressed stock price.</p><p>The layoffs are expected to take place in the near future. This restructuring comes as the streaming service navigates shifting market conditions and investor scrutiny.</p><p><img src="https://tamansinghlaw.com/wp-content/uploads/2026/02/Netflix-Layoffs-in-Ontario-2026.png" /></p><hr/><small>9 Oct 2026, 16:59 UTC | #23762</small>]]></content>
   </entry>
 </feed>

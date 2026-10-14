@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T08:31:00+00:00</updated>
+  <updated>2026-10-14T11:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>KDE Releases Plasma 6.8 Desktop Environment</title>
+    <link href="https://kde.org/announcements/plasma/6/6.8.0/" rel="alternate" />
+    <id>https://kde.org/announcements/plasma/6/6.8.0/::v239</id>
+    <published>2026-10-14T11:31:00+00:00</published>
+    <updated>2026-10-14T11:31:00+00:00</updated>
+    <media:thumbnail url="https://kde.org/announcements/plasma/6/6.8.0/01-plasmontage.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kde.org/announcements/plasma/6/6.8.0/">kde.org</a> | <a href="https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday">discussion</a> | <a href="https://news.ycombinator.com/item?id=50084875">hacker news</a></small></p><hr/><p>KDE has released Plasma 6.8 to coincide with the 30th anniversary of the KDE community. The update marks a major transition to the Wayland display protocol by retiring the X11 login session, though XWayland remains available to maintain compatibility for legacy applications.</p><p>Notable features include the beta release of the Union theming system for styling both Qt Widgets and Qt Quick applications, a built-in "dwell clicker" accessibility tool, and advanced system monitoring with CPU affinity controls. Performance and graphics updates include NVIDIA triple buffering by default and expanded HDR and HLG support.</p><p><img src="https://kde.org/announcements/plasma/6/6.8.0/01-plasmontage.png" /></p><hr/><small>14 Oct 2026, 14:44 UTC | #24278</small>]]></content>
+  </entry>
   <entry>
     <title>Operating System Changes and Their Impact on Compiler Bootstrapping</title>
     <link href="https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges" rel="alternate" />
@@ -938,56 +947,5 @@
     <updated>2026-10-09T15:33:00+00:00</updated>
     <media:thumbnail url="https://alternativeto.net/og/about/unison-programming-language.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.unison-lang.org/blog/unison-cloud-open-source/">unison-lang.org</a> | <a href="https://lobste.rs/s/zubabn/unison_cloud_is_now_open_source">discussion</a> | <a href="https://news.ycombinator.com/item?id=50022032">hacker news</a></small></p><hr/><p>Unison Cloud, a system that converts a pool of nodes into a programmable distributed computer, is now open source under the MIT license. The release includes the Unison Cloud client, the Nimbus worker node, the Unison Cloud API Server, and the Unison Cloud UI.</p><p>The platform features lightweight service deployment (under 200kb), inter-service communication via adaptive service graph compression, and a fork/join model for distributed batch jobs. It also provides integrated secrets management, long-running background jobs, and storage capabilities through DynamoDB and S3.</p><p><img src="https://alternativeto.net/og/about/unison-programming-language.png" /></p><hr/><small>9 Oct 2026, 18:52 UTC | #23816</small>]]></content>
-  </entry>
-  <entry>
-    <title>Python 3.15.0 Released</title>
-    <link href="https://www.python.org/downloads/release/python-3150/" rel="alternate" />
-    <id>https://www.python.org/downloads/release/python-3150/::v239</id>
-    <published>2026-10-09T14:48:00+00:00</published>
-    <updated>2026-10-09T14:48:00+00:00</updated>
-    <media:thumbnail url="https://hugovk.dev/python-3.15.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.python.org/downloads/release/python-3150/">python.org</a> | <a href="https://news.ycombinator.com/item?id=50021127">hacker news</a></small></p><hr/><p>The latest major release of the Python programming language, version 3.15.0, incorporates over 5,600 commits. This version adds the `sentinel` and `frozendict` built-in types, establishes UTF-8 as the default encoding, and enables unpacking in comprehensions.</p><p>Performance enhancements have been made to the experimental JIT compiler, and a new dedicated profiling package has been introduced. The update also brings C API improvements for free-threaded builds and platform-specific defaults, including free-threading support for macOS and the tail-calling interpreter for Windows 64-bit binaries.</p><p><img src="https://hugovk.dev/python-3.15.png" /></p><hr/><small>9 Oct 2026, 18:25 UTC | #23814</small>]]></content>
-  </entry>
-  <entry>
-    <title>Isabelle/HOL, Lean, HOL4, and Agda Theorem Provers Compared</title>
-    <link href="https://blueberrywren.dev/blog/primes/" rel="alternate" />
-    <id>https://blueberrywren.dev/blog/primes/::v239</id>
-    <published>2026-10-09T14:44:00+00:00</published>
-    <updated>2026-10-09T14:44:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blueberrywren.dev/blog/primes/">blueberrywren.dev</a> | <a href="https://lobste.rs/s/4dwrz0/tale_four_theorem_provers_reasonably">discussion</a></small></p><hr/><p>This comparison of Isabelle/HOL, Lean, HOL4, and Agda examines how different foundations and interaction models affect the formalization of Euclid's proof of the infinitude of primes. It distinguishes between LCF-style systems, which utilize a small proof kernel, and dependent-type systems based on the Curry-Howard correspondence.</p><p>The evaluation focuses on the trade-offs between automation, interactivity, and logic foundations. While LCF-style systems typically provide higher automation and live proof updates, Agda's constructive approach allows for result extraction at the cost of significantly lower automation and inspection capabilities.</p><hr/><small>9 Oct 2026, 18:09 UTC | #23813</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rust Demotes i686 Windows Targets to std-only in Version 1.100.0</title>
-    <link href="https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/" rel="alternate" />
-    <id>https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/::v239</id>
-    <published>2026-10-09T14:39:00+00:00</published>
-    <updated>2026-10-09T14:39:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/kfla2w/demoting_i686_windows_targets_std_only">discussion</a></small></p><hr/><p>Starting with Rust 1.100.0, the i686-pc-windows-msvc and i686-pc-windows-gnu targets will be demoted to "std-only," removing the inclusion of host tools like the compiler. While prebuilt standard libraries will continue to be distributed, 32-bit Windows hosts will no longer be able to install Rust toolchains directly.</p><p>This move responds to the end of general 32-bit Windows support in October 2025 and persistent issues building stable i686 host tools on modern hardware. To target 32-bit Windows, developers must now cross-compile from a supported host, such as a 64-bit Windows toolchain.</p><hr/><small>9 Oct 2026, 17:46 UTC | #23803</small>]]></content>
-  </entry>
-  <entry>
-    <title>API Integration and Developer Experience Challenges</title>
-    <link href="https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html" rel="alternate" />
-    <id>https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html::v239</id>
-    <published>2026-10-09T14:38:00+00:00</published>
-    <updated>2026-10-09T14:38:00+00:00</updated>
-    <media:thumbnail url="https://img.zonted.com/resources/wavespeed-review/ws-api.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html">dev.clintonblackburn.com</a> | <a href="https://lobste.rs/s/jiphkt/rant_about_apis">discussion</a></small></p><hr/><p>Automating onboarding workflows through third-party APIs presents several technical hurdles, including gated documentation, the absence of OpenAPI specifications, manual credential management, and restrictive webhook verification requirements.</p><p>These inefficiencies disrupt developer workflows and hinder the use of AI agents for automated client generation and schema exploration. Adopting industry-standard practices, such as self-service credential management and open documentation, is presented as a way to improve developer experience.</p><p><img src="https://img.zonted.com/resources/wavespeed-review/ws-api.png" /></p><hr/><small>9 Oct 2026, 17:45 UTC | #23802</small>]]></content>
-  </entry>
-  <entry>
-    <title>Japan Urges Security Reviews Following Wave of Cyberattacks</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews::v239</id>
-    <published>2026-10-09T14:36:00+00:00</published>
-    <updated>2026-10-09T14:36:00+00:00</updated>
-    <media:thumbnail url="https://itbusinesstoday.com/wp-content/uploads/2026/01/Identity-Centric-Security-in-2026-Why-Japanese-Enterprises-Are-Rethinking-Zero-Trust.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-09/wave-of-cyberattacks-prompts-japan-to-urge-security-reviews">bloomberg.com</a></small></p><hr/><p>A wave of cyberattacks targeting Japanese companies in September has exposed the personal data of millions of people. These incidents have prompted the Japanese government to call for comprehensive security reviews across various sectors to bolster defenses.</p><p>The increasing frequency and sophistication of these attacks are attributed to the availability of AI tools, which lower the entry barrier for hackers. Recent large-scale breaches include a VPN flaw at the Digital Agency exposing government employee data and a cyber incident at the Nikkei media group.</p><p><img src="https://itbusinesstoday.com/wp-content/uploads/2026/01/Identity-Centric-Security-in-2026-Why-Japanese-Enterprises-Are-Rethinking-Zero-Trust.webp" /></p><hr/><small>9 Oct 2026, 17:19 UTC | #23763</small>]]></content>
-  </entry>
-  <entry>
-    <title>United States Imposes Sanctions on International Criminal Court</title>
-    <link href="https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/" rel="alternate" />
-    <id>https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/::v239</id>
-    <published>2026-10-09T14:32:00+00:00</published>
-    <updated>2026-10-09T14:32:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/">reuters.com</a> | <a href="https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/">source</a> | <a href="https://news.ycombinator.com/item?id=50021066">hacker news</a></small></p><hr/><p>The United States has imposed sanctions on the International Criminal Court (ICC) following the announcement that a former judge of the court was awarded the Nobel Peace Prize. Announced by Secretary of State Marco Rubio, the move represents a significant escalation in the Trump administration's long-standing opposition to the court's jurisdiction.</p><p>The sanctions include adding the ICC to the Treasury Department's sanctions list, which restricts legal and financial services involving U.S. persons or interests. The decision is framed by the administration as an effort to defend U.S. sovereignty against the Hague-based tribunal.</p><hr/><small>9 Oct 2026, 16:27 UTC | #23799</small>]]></content>
   </entry>
 </feed>
