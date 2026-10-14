@@ -972,29 +972,4 @@
     <media:thumbnail url="https://www.shutterstock.com/shutterstock/photos/1773422057/display_1500/stock-vector-black-large-forward-or-right-pointing-solid-long-arrow-icon-sketched-as-vector-symbol-1773422057.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/franzenzenhofer/big-arrow-on-the-screen">github.com</a> | <a href="https://news.ycombinator.com/item?id=50018817">hacker news</a></small></p><hr/><p>bigarrow is a macOS command-line tool that allows AI agents to draw arrows, boxes, and text on top of windows to guide human users. The tool is click-through, allowing mouse clicks to pass to the underlying application, and it requires no special macOS permissions to function.</p><p>It is intended for scenarios where an agent reaches a step requiring manual human intervention, such as clicking "Allow" on permission dialogs or solving CAPTCHAs. The tool supports various visual styles, including spiral and zigzag shapes, and can target specific elements by name, coordinate, or window title.</p><p><img src="https://www.shutterstock.com/shutterstock/photos/1773422057/display_1500/stock-vector-black-large-forward-or-right-pointing-solid-long-arrow-icon-sketched-as-vector-symbol-1773422057.jpg" /></p><hr/><small>9 Oct 2026, 16:23 UTC | #23800</small>]]></content>
   </entry>
-  <entry>
-    <title>Keyboard Differences Between Windows and macOS</title>
-    <link href="https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/" rel="alternate" />
-    <id>https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/::v239</id>
-    <published>2026-10-09T13:11:00+00:00</published>
-    <updated>2026-10-09T13:11:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/">unsung.aresluna.org</a> | <a href="https://news.ycombinator.com/item?id=50015515">hacker news</a></small></p><hr/><p>Operating system keyboard handling varies across nomenclature, modifier keys, and shortcut conventions. Discrepancies include the distinction between 'Backspace' and 'Delete,' the functional roles of 'Control' versus 'Command,' and the preference for symbols over text on keycaps.</p><p>Special character entry differs through macOS's Option-based system and Windows's Alt-code sequences. Additionally, navigation keys like Home, End, Page Up, and Page Down behave differently regarding cursor movement and view scrolling between the two platforms.</p><hr/><small>9 Oct 2026, 15:04 UTC | #23790</small>]]></content>
-  </entry>
-  <entry>
-    <title>Fleeting Provides Synthetic Meeting Audio to Simulate Busy Workspaces</title>
-    <link href="https://iminafleeting.com/" rel="alternate" />
-    <id>https://iminafleeting.com/::v239</id>
-    <published>2026-10-09T13:08:00+00:00</published>
-    <updated>2026-10-09T13:08:00+00:00</updated>
-    <media:thumbnail url="https://iqboard.net/wp-content/uploads/2026/01/conference-room-hybrid-meeting.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://iminafleeting.com/">iminafleeting.com</a> | <a href="https://news.ycombinator.com/item?id=50018088">hacker news</a></small></p><hr/><p>The service provides synthetic, AI-generated meeting audio and video to simulate a busy professional environment. This tool helps users signal they are occupied and avoid interruptions.</p><p>Twelve-minute audio clips begin at random intervals to prevent detectable looping. It includes a "back-to-back" mode for continuous playback and offers options for convincing session departures using realistic exit dialogue.</p><p><img src="https://iqboard.net/wp-content/uploads/2026/01/conference-room-hybrid-meeting.webp" /></p><hr/><small>9 Oct 2026, 14:47 UTC | #23788</small>]]></content>
-  </entry>
-  <entry>
-    <title>Deno Team Joins Cloudflare</title>
-    <link href="https://deno.com/blog/cloudflare" rel="alternate" />
-    <id>https://deno.com/blog/cloudflare::v239</id>
-    <published>2026-10-09T13:04:00+00:00</published>
-    <updated>2026-10-09T13:04:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://deno.com/blog/cloudflare">deno.com</a> | <a href="https://news.ycombinator.com/item?id=50019911">hacker news</a></small></p><hr/><p>The integration of Deno into Cloudflare will merge the team's work with Cloudflare Workers and Durable Objects. The open-source Deno runtime will receive monthly security updates and bug fixes for one year before development is discontinued. Deno Deploy is scheduled to shut down in six months, while JSR will continue to operate on Cloudflare's infrastructure.</p><p>The move prioritizes the "celld" programming model, which aims to simplify distributed application development by embedding scaling into the programming model itself. This shift moves development away from maintaining a separate runtime and hosting service toward a unified platform designed to support serverless and AI-driven workloads.</p><hr/><small>9 Oct 2026, 14:27 UTC | #23786</small>]]></content>
-  </entry>
 </feed>
