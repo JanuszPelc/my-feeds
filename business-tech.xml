@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-14T17:54:00+00:00</updated>
+  <updated>2026-10-14T18:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Deezer to Launch Feature Filtering AI-Generated Music</title>
+    <link href="https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/::v239</id>
+    <published>2026-10-14T18:01:00+00:00</published>
+    <updated>2026-10-14T18:01:00+00:00</updated>
+    <media:thumbnail url="https://www.aimusicpreneur.com/wp-content/uploads/2026/01/deezer-ai-music-detection-tool.webp" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/">techcrunch.com</a> | <a href="https://newsroom-deezer.com/2026/10/deezer-ai-music-toggle/">source</a></small></p><hr/><p>Deezer is developing an on/off toggle that allows users to exclude AI-generated tracks, albums, and artists from search results. The feature, expected to launch before the end of 2026, will hide content that the platform identifies as fully AI-generated.</p><p>The move follows a surge in AI content on the platform, with AI-generated tracks reportedly making up more than 50% of daily uploads as of July 2026. The initiative also addresses user demand, as a previous survey indicated that approximately 45% of Deezer customers wanted the ability to filter out AI music.</p><p><img src="https://www.aimusicpreneur.com/wp-content/uploads/2026/01/deezer-ai-music-detection-tool.webp" /></p><hr/><small>14 Oct 2026, 20:37 UTC | #24284</small>]]></content>
+  </entry>
   <entry>
     <title>GlobalFoundries to Build Two New York Chip Plants via $21 Billion US-Japan Initiative</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-14/globalfoundries-gets-21-billion-to-run-plants-in-us-japan-deal" rel="alternate" />
