@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T11:42:00+00:00</updated>
+  <updated>2026-10-14T11:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Christopher Phiri Explores the Concept of Recreational Programming</title>
+    <link href="https://www.cphiri.dev/presentations/recreational-programming" rel="alternate" />
+    <id>https://www.cphiri.dev/presentations/recreational-programming::v239</id>
+    <published>2026-10-14T11:47:00+00:00</published>
+    <updated>2026-10-14T11:47:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.cphiri.dev/presentations/recreational-programming">cphiri.dev</a> | <a href="https://news.ycombinator.com/item?id=50079865">hacker news</a></small></p><hr/><p>The article defines recreational programming as the practice of writing code for personal curiosity and joy, rather than for work, profit, or professional requirements. It outlines five distinct styles of recreational coding: Live Explorers who build in public, Deep Divers who investigate system internals, Creative Technologists who use code for art, Problem Solvers who address personal itches, and Language Explorers who test new syntax and paradigms.</p><p>This approach aims to prevent burnout by reconnecting developers with intrinsic motivation and fostering technical intuition through low-stakes experimentation. By prioritizing curiosity and the learning process over productivity and shipping software, the framework encourages maintaining long-term passion for the craft.</p><hr/><small>14 Oct 2026, 16:25 UTC | #24295</small>]]></content>
+  </entry>
   <entry>
     <title>Bru Enables SMS Messaging from Web Browsers via Android</title>
     <link href="https://sverre.me/projects/bru/" rel="alternate" />
