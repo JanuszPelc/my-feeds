@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-14T11:57:00+00:00</updated>
+  <updated>2026-10-14T15:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>AI Safety Advocates Spend $48 Million to Support AI Regulation in Midterm Elections</title>
+    <link href="https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million" rel="alternate" />
+    <id>https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million::v239</id>
+    <published>2026-10-14T15:18:00+00:00</published>
+    <updated>2026-10-14T15:18:00+00:00</updated>
+    <media:thumbnail url="https://theaicronicle.com/storage/articles/c4e4d2f0-3d8e-4ec4-aa77-cef6f44611fd.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million">axios.com</a></small></p><hr/><p>AI safety groups and individual donors have spent $48 million in the 2026 midterm election cycle to back candidates who favor AI regulation. This bipartisan spending is being directed toward candidates in various U.S. races.</p><p>This financial activity marks the emergence of AI safety advocates as a significant political force. The spending reflects an effort to shape the regulatory landscape by influencing elections through targeted contributions.</p><p><img src="https://theaicronicle.com/storage/articles/c4e4d2f0-3d8e-4ec4-aa77-cef6f44611fd.jpg" /></p><hr/><small>14 Oct 2026, 18:03 UTC | #24251</small>]]></content>
+  </entry>
   <entry>
     <title>OpenFatigue Satirizes 'Open' Branding Trends in Tech and AI</title>
     <link href="https://openfatigue.ai/" rel="alternate" />
