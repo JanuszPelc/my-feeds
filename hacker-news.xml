@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-13T21:57:00+00:00</updated>
+  <updated>2026-10-13T22:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>FBI and CrowdStrike Dismantle Texas Laptop Farms Used by North Korean IT Workers</title>
+    <link href="https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html?unlocked_article_code=1.IVE.Hd6z.VaFEYJD7BNi_&amp;smid=nytcore-ios-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html?unlocked_article_code=1.IVE.Hd6z.VaFEYJD7BNi_&amp;smid=nytcore-ios-share::v239</id>
+    <published>2026-10-13T22:38:00+00:00</published>
+    <updated>2026-10-13T22:38:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html?unlocked_article_code=1.IVE.Hd6z.VaFEYJD7BNi_&smid=nytcore-ios-share">nytimes.com</a> | <a href="https://www.justice.gov/opa/pr/justice-department-announces-coordinated-actions-combat-north-korean-remote-it-worker">source</a></small></p><hr/><p>The FBI and cybersecurity firm CrowdStrike have dismantled more than 40 laptop farms in Texas used by North Korean operatives to obtain remote U.S. tech jobs. These setups utilized stolen identities to secure employment at American companies, allowing North Koreans to funnel wages to the North Korean government.</p><p>This operation is part of a wider crackdown on schemes targeting over 70 U.S. companies. Law enforcement actions have led to the seizure of nearly 187 computer devices, and federal officials have indicated that indictments are forthcoming.</p><hr/><small>14 Oct 2026, 04:05 UTC | #24203</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Replaces Git with Custom Scion Version Control System</title>
     <link href="https://www.anthropic.com/engineering/redesigning-source-control" rel="alternate" />

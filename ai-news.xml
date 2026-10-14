@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-13T18:31:00+00:00</updated>
+  <updated>2026-10-13T23:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Cerebras CEO Predicts Rise of Personal AI Assistants in Homes</title>
+    <link href="https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/::v239</id>
+    <published>2026-10-13T23:06:00+00:00</published>
+    <updated>2026-10-13T23:06:00+00:00</updated>
+    <media:thumbnail url="https://blog.9cv9.com/wp-content/uploads/2025/12/image-157-768x512.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/">techcrunch.com</a></small></p><hr/><p>Cerebras Systems CEO Andrew Feldman predicts that personal AI assistants will eventually become common household appliances. He envisions a hybrid execution model where agents perform tasks both locally on-device and through the cloud, allowing them to learn user habits while maintaining security perimeters.</p><p>These future assistants are expected to have the capability to handle financial transactions, such as making purchases using a user's credit cards. Feldman cited the development of consumer AI agents like Meta's Muse and Instinct as evidence of AI's increasing integration into everyday life.</p><p><img src="https://blog.9cv9.com/wp-content/uploads/2025/12/image-157-768x512.png" /></p><hr/><small>14 Oct 2026, 04:10 UTC | #24210</small>]]></content>
+  </entry>
+  <entry>
+    <title>Industrial Next Develops AI-Driven Robotic Stations for Rapid Task Switching</title>
+    <link href="https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/::v239</id>
+    <published>2026-10-13T23:02:00+00:00</published>
+    <updated>2026-10-13T23:02:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-12.53.56-PM.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/">techcrunch.com</a> | <a href="https://industrialnext.ai/">source</a></small></p><hr/><p>Industrial Next is developing AI-driven robotic stations designed to reconfigure production lines in minutes, bypassing the weeks of reprogramming and retooling required by traditional automation. The company's technology uses proprietary foundation models and high-fidelity simulations to enable robots to perform delicate, high-precision tasks—such as threading flex cables—without the need for hard-coded scripts.</p><p>Founded by former Tesla and Waymo engineers Lukas Pankau and Allen Pan, the startup aims to automate assembly processes that currently require human labor. The company is currently partnering with the BMW Group Technology Office to evaluate its AI-powered dexterous manipulation technology for manufacturing applications.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-12.53.56-PM.png?w=680" /></p><hr/><small>14 Oct 2026, 04:07 UTC | #24211</small>]]></content>
+  </entry>
   <entry>
     <title>Flox Intelligence Develops AI to Deter Wildlife from Infrastructure</title>
     <link href="https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/" rel="alternate" />
