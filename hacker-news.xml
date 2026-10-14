@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Anthropic Replaces Git with Custom Scion Version Control System</title>
+    <link href="https://www.anthropic.com/engineering/redesigning-source-control" rel="alternate" />
+    <id>https://www.anthropic.com/engineering/redesigning-source-control::v239</id>
+    <published>2026-10-13T20:43:00+00:00</published>
+    <updated>2026-10-13T20:43:00+00:00</updated>
+    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F1e2a750dba61db4a76b72eec5b0cf50b8a7f878c-3840x2160.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/engineering/redesigning-source-control">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50073633">hacker news</a></small></p><hr/><p>Anthropic has migrated its monorepo from Git to a custom-built version control system called Scion. The transition was driven by a massive surge in code production—with daily merges rising from 2,500 in May 2026 to over 30,000 by September 2026—as Claude's autonomous coding capabilities significantly accelerated development cycles.</p><p>Designed for "agent-scale" automation, Scion utilizes a centralized, client-server architecture that moves away from Git's decentralized, offline-capable model. The system employs a horizontally scalable "changeset" data structure and provides a programmatic API for metadata and diffing, allowing CI and research jobs to perform operations via sparse or virtualized checkouts without the overhead of full local repository clones. This architecture has reduced Scion's infrastructure footprint by 200x compared to the company's previous Git-based mirroring.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F1e2a750dba61db4a76b72eec5b0cf50b8a7f878c-3840x2160.png&w=3840&q=75" /></p><hr/><small>14 Oct 2026, 02:20 UTC | #24194</small>]]></content>
+  </entry>
+  <entry>
     <title>ESP32 as a Linux Wireless Co-processor via esp-hosted</title>
     <link href="https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/" rel="alternate" />
     <id>https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/::v239</id>
