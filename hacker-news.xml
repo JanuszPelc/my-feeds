@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T04:29:00+00:00</updated>
+  <updated>2026-10-14T06:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>nytpu.com Implements ANSI-Styled Terminal Version of Website</title>
+    <link href="https://nytpu.com/gemlog/2026-03-18" rel="alternate" />
+    <id>https://nytpu.com/gemlog/2026-03-18::v239</id>
+    <published>2026-10-14T06:25:00+00:00</published>
+    <updated>2026-10-14T06:25:00+00:00</updated>
+    <media:thumbnail url="https://www.booleanworld.com/wp-content/uploads/2018/12/curl-header.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nytpu.com/gemlog/2026-03-18">nytpu.com</a> | <a href="https://lobste.rs/s/zitobg/fancy_curl_sites">discussion</a></small></p><hr/><p>The author of nytpu.com has implemented a "curl version" of their website designed for viewing in a terminal via the `curl` command. This version utilizes ANSI escape codes for terminal-based styling and provides coverage of the entire blog through pre-generated static files.</p><p>The implementation is facilitated by the author's custom markup language, Gemroff, and a static site generator designed for multiple output formats including HTTP, Gemini, and Gopher. Nginx is used to detect the `curl` user agent to serve the appropriate static content while allowing for an override header to request unmodified HTTP responses.</p><p><img src="https://www.booleanworld.com/wp-content/uploads/2018/12/curl-header.png" /></p><hr/><small>14 Oct 2026, 11:24 UTC | #24249</small>]]></content>
+  </entry>
   <entry>
     <title>Jinx Transpiles Nixpkgs to TypeScript</title>
     <link href="https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired" rel="alternate" />
