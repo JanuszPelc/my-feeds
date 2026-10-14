@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Meta Reports GitHub Repository Breach Affecting 1,500 People</title>
+    <link href="https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/" rel="alternate" />
+    <id>https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/::v239</id>
+    <published>2026-10-13T18:36:00+00:00</published>
+    <updated>2026-10-13T18:36:00+00:00</updated>
+    <media:thumbnail url="https://www.heise.de/imgs/18/5/0/8/5/8/0/8/TeamPCP-GitHub-breach-claims-d620c2ac4e7c2374.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/">securityweek.com</a></small></p><hr/><p>Meta is notifying roughly 1,500 individuals, mostly US-based employees, that their personal information was compromised after hackers gained access to company GitHub repositories via stolen credentials. The intrusion involved the theft of proprietary software code and a small amount of personal data that had been improperly stored in the repositories in violation of company policy.</p><p>While 99% of the stolen information consisted of software code, Meta noted that the remaining 1% of personal data included much of which was synthetic or anonymized test data. In response, the company has rotated compromised secrets and is adding proactive scanning controls to prevent accidental data uploads, while providing credit and dark web monitoring to impacted users.</p><p><img src="https://www.heise.de/imgs/18/5/0/8/5/8/0/8/TeamPCP-GitHub-breach-claims-d620c2ac4e7c2374.jpg" /></p><hr/><small>14 Oct 2026, 00:19 UTC | #24183</small>]]></content>
+  </entry>
+  <entry>
     <title>Researchers Demonstrate Ability to Hide Arbitrary AI Capabilities via Encrypted Backdoors</title>
     <link href="https://arxiv.org/abs/2610.13928" rel="alternate" />
     <id>https://arxiv.org/abs/2610.13928::v239</id>
