@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-14T17:46:00+00:00</updated>
+  <updated>2026-10-14T17:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Floqer to Open-Source AI Customer Knowledge Platform</title>
+    <link href="https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/::v239</id>
+    <published>2026-10-14T17:55:00+00:00</published>
+    <updated>2026-10-14T17:55:00+00:00</updated>
+    <media:thumbnail url="https://assets.bytebytego.com/diagrams/0412-what-is-an-ai-agent.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/">techcrunch.com</a> | <a href="https://floqer.com/">source</a></small></p><hr/><p>Floqer, an autonomous customer knowledge platform, plans to open-source its technology in early 2027 following security reviews. The startup, which reported over $1.2 million in annual recurring revenue and tenfold growth over the past year, uses AI agents to automate prospecting research and CRM data enrichment.</p><p>The platform continuously monitors the web for changes in prospect employment and company funding, leveraging more than 100 third-party data sources to provide verified contact information. The decision to open-source the technology is intended to meet enterprise demand for self-hosted data and the ability to build custom tools on top of the platform.</p><p><img src="https://assets.bytebytego.com/diagrams/0412-what-is-an-ai-agent.png" /></p><hr/><small>14 Oct 2026, 20:11 UTC | #24287</small>]]></content>
+  </entry>
   <entry>
     <title>Frontier AI Labs Neglect Cybersecurity Fundamentals for AI Agents</title>
     <link href="https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html" rel="alternate" />
