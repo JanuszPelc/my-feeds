@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-14T06:28:00+00:00</updated>
+  <updated>2026-10-14T06:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple Launches 'Switch to Safari' Campaign Highlighting Privacy and Performance</title>
+    <link href="https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/" rel="alternate" />
+    <id>https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/::v239</id>
+    <published>2026-10-14T06:34:00+00:00</published>
+    <updated>2026-10-14T06:34:00+00:00</updated>
+    <media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/switch-to-safari.jpg?quality=82&amp;strip=all&amp;w=1600" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/">9to5mac.com</a> | <a href="https://www.apple.com/safari/switch/">source</a> | <a href="https://news.ycombinator.com/item?id=50072286">hacker news</a></small></p><hr/><p>Apple has introduced a new marketing initiative to promote Safari over Google Chrome through a dedicated webpage and YouTube videos. The effort emphasizes Safari's superior privacy protections, faster performance, and extended battery life on Mac and iPhone.</p><p>Key claims include up to five additional hours of video streaming on Mac and a 35% increase in loading speed for frequently visited sites. The campaign also showcases specialized features like Distraction Control, Intelligent Tracking Prevention, and Reader Mode.</p><p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/switch-to-safari.jpg?quality=82&strip=all&w=1600" /></p><hr/><small>14 Oct 2026, 13:27 UTC | #24265</small>]]></content>
+  </entry>
   <entry>
     <title>US Defense Startups Partner with Taiwan to Build China-Free Drone Supply Chains</title>
     <link href="https://www.wsj.com/tech/u-s-defense-startups-flock-to-taiwan-to-build-china-free-drones-5c871c94?st=nX4pDn&amp;reflink=desktopwebshare_permalink" rel="alternate" />
@@ -753,14 +762,5 @@
     <updated>2026-10-09T14:35:00+00:00</updated>
     <media:thumbnail url="https://tamansinghlaw.com/wp-content/uploads/2026/02/Netflix-Layoffs-in-Ontario-2026.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://puck.news/netflix-is-sharpening-the-layoff-axe/">puck.news</a></small></p><hr/><p>Netflix is preparing to lay off approximately 5% of its workforce, which equates to roughly 850 jobs. The move is driven by recent pressures involving weakened user engagement and a depressed stock price.</p><p>The layoffs are expected to take place in the near future. This restructuring comes as the streaming service navigates shifting market conditions and investor scrutiny.</p><p><img src="https://tamansinghlaw.com/wp-content/uploads/2026/02/Netflix-Layoffs-in-Ontario-2026.png" /></p><hr/><small>9 Oct 2026, 16:59 UTC | #23762</small>]]></content>
-  </entry>
-  <entry>
-    <title>Worldwide PC Shipments Decline 20.1% in Q3 2026</title>
-    <link href="https://www.idc.com/resource-center/press-releases/idc-pc-tracker-3q26/" rel="alternate" />
-    <id>https://www.idc.com/resource-center/press-releases/idc-pc-tracker-3q26/::v239</id>
-    <published>2026-10-09T13:14:00+00:00</published>
-    <updated>2026-10-09T13:14:00+00:00</updated>
-    <media:thumbnail url="https://www.idc.com/wp-content/uploads/2026/10/image_63283a.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.idc.com/resource-center/press-releases/idc-pc-tracker-3q26/">idc.com</a></small></p><hr/><p>Total volume fell to 62.7 million units, marking the second consecutive quarterly decline. The downturn was driven by supply constraints and an inventory "pull-in" from earlier in the year, which left the market with diminished demand despite the typical seasonal lift expected in the third quarter.</p><p>Major vendors including Lenovo, HP Inc, and Dell Technologies saw declines that exceeded the market average. While high inventory levels may trigger short-term consumer promotions, analysts expect prices to remain elevated, and worsening macroeconomic conditions could further suppress demand through 2027.</p><p><img src="https://www.idc.com/wp-content/uploads/2026/10/image_63283a.png" /></p><hr/><small>9 Oct 2026, 15:42 UTC | #23755</small>]]></content>
   </entry>
 </feed>

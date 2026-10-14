@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T06:27:00+00:00</updated>
+  <updated>2026-10-14T08:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Iosevka Open-Source Typeface Family</title>
+    <link href="https://typeof.net/Iosevka/" rel="alternate" />
+    <id>https://typeof.net/Iosevka/::v239</id>
+    <published>2026-10-14T08:28:00+00:00</published>
+    <updated>2026-10-14T08:28:00+00:00</updated>
+    <media:thumbnail url="https://i.pinimg.com/736x/f1/35/af/f135af5a83af475b0738deccfa366085.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://typeof.net/Iosevka/">typeof.net</a> | <a href="https://news.ycombinator.com/item?id=50084240">hacker news</a></small></p><hr/><p>This typeface family is designed for programming, terminal use, and technical writing. It includes monospace, slab-serif, and quasi-proportional variants, with specialized "Term" and "Fixed" versions optimized for terminal compatibility.</p><p>The font is optimized for high density, featuring a default slender width of 1/2em to maximize screen real estate. It offers extensive customization through 146 configurable characters, 19 stylistic sets, and support for 248 languages, alongside advanced OpenType features such as long ligatures.</p><p><img src="https://i.pinimg.com/736x/f1/35/af/f135af5a83af475b0738deccfa366085.jpg" /></p><hr/><small>14 Oct 2026, 13:31 UTC | #24264</small>]]></content>
+  </entry>
+  <entry>
+    <title>Hardware Implants Discovered in Ledger Wallets Sold via Authorized Retailers</title>
+    <link href="https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/" rel="alternate" />
+    <id>https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/::v239</id>
+    <published>2026-10-14T06:33:00+00:00</published>
+    <updated>2026-10-14T06:33:00+00:00</updated>
+    <media:thumbnail url="https://storage.ghost.io/c/77/50/77508a24-24ec-49e5-99f8-d3dadb30a5ac/content/images/2026/10/Screenshot-2026-10-12-at-2.58.47---PM-1.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/">zetter-zeroday.com</a> | <a href="https://news.ycombinator.com/item?id=50084838">hacker news</a></small></p><hr/><p>Hardware implants have been discovered in Ledger crypto wallets sold by authorized resellers in Southeast Asia and major electronics retailers in Europe. A theft involving devices from the Malaysian reseller CryptoBilis has resulted in the loss of approximately $102 million in cryptocurrency.</p><p>The backdoors have evolved from simple hand-soldered wires into sophisticated, custom-built flexible circuits that use LTE and eSIM technology to transmit recovery seed phrases. While Ledger attributes the issue to the resale of compromised returned products, evidence of implants in new devices from European retailers suggests a broader supply-chain compromise.</p><p><img src="https://storage.ghost.io/c/77/50/77508a24-24ec-49e5-99f8-d3dadb30a5ac/content/images/2026/10/Screenshot-2026-10-12-at-2.58.47---PM-1.png" /></p><hr/><small>14 Oct 2026, 13:24 UTC | #24232</small>]]></content>
+  </entry>
   <entry>
     <title>Android 17 Bionic Libc Bug Causes Incorrect Unicode Character Matching</title>
     <link href="https://github.com/android/ndk/issues/2260" rel="alternate" />
@@ -962,14 +980,5 @@
     <published>2026-10-09T14:32:00+00:00</published>
     <updated>2026-10-09T14:32:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/">reuters.com</a> | <a href="https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/">source</a> | <a href="https://news.ycombinator.com/item?id=50021066">hacker news</a></small></p><hr/><p>The United States has imposed sanctions on the International Criminal Court (ICC) following the announcement that a former judge of the court was awarded the Nobel Peace Prize. Announced by Secretary of State Marco Rubio, the move represents a significant escalation in the Trump administration's long-standing opposition to the court's jurisdiction.</p><p>The sanctions include adding the ICC to the Treasury Department's sanctions list, which restricts legal and financial services involving U.S. persons or interests. The decision is framed by the administration as an effort to defend U.S. sovereignty against the Hague-based tribunal.</p><hr/><small>9 Oct 2026, 16:27 UTC | #23799</small>]]></content>
-  </entry>
-  <entry>
-    <title>Big-arrow-on-the-screen Tool Enables AI Agents to Point at macOS UI Elements</title>
-    <link href="https://github.com/franzenzenhofer/big-arrow-on-the-screen" rel="alternate" />
-    <id>https://github.com/franzenzenhofer/big-arrow-on-the-screen::v239</id>
-    <published>2026-10-09T13:19:00+00:00</published>
-    <updated>2026-10-09T13:19:00+00:00</updated>
-    <media:thumbnail url="https://www.shutterstock.com/shutterstock/photos/1773422057/display_1500/stock-vector-black-large-forward-or-right-pointing-solid-long-arrow-icon-sketched-as-vector-symbol-1773422057.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/franzenzenhofer/big-arrow-on-the-screen">github.com</a> | <a href="https://news.ycombinator.com/item?id=50018817">hacker news</a></small></p><hr/><p>bigarrow is a macOS command-line tool that allows AI agents to draw arrows, boxes, and text on top of windows to guide human users. The tool is click-through, allowing mouse clicks to pass to the underlying application, and it requires no special macOS permissions to function.</p><p>It is intended for scenarios where an agent reaches a step requiring manual human intervention, such as clicking "Allow" on permission dialogs or solving CAPTCHAs. The tool supports various visual styles, including spiral and zigzag shapes, and can target specific elements by name, coordinate, or window title.</p><p><img src="https://www.shutterstock.com/shutterstock/photos/1773422057/display_1500/stock-vector-black-large-forward-or-right-pointing-solid-long-arrow-icon-sketched-as-vector-symbol-1773422057.jpg" /></p><hr/><small>9 Oct 2026, 16:23 UTC | #23800</small>]]></content>
   </entry>
 </feed>
