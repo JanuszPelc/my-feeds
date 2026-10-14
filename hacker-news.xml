@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>ESP32 as a Linux Wireless Co-processor via esp-hosted</title>
+    <link href="https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/" rel="alternate" />
+    <id>https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/::v239</id>
+    <published>2026-10-13T18:42:00+00:00</published>
+    <updated>2026-10-13T18:42:00+00:00</updated>
+    <media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/09/hadimg_esphosted_1.png?w=800" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/">hackaday.com</a> | <a href="https://lobste.rs/s/x1ucie/esp32_as_your_raspberry_pi_s_linux">discussion</a></small></p><hr/><p>The `esp-hosted` framework enables these microcontrollers to function as WiFi and Bluetooth co-processors for Linux-based single-board computers (SBCs) via SDIO or SPI. The `esp-hosted-linux` implementation acts as a proxy for the Linux wireless stack, allowing the host system to treat the module as a native wireless interface.</p><p>Utilizing widely available Espressif hardware provides an alternative to proprietary or poorly supported wireless drivers on SBCs. This implementation also supports hardware power management and offers potential for integrating additional communication protocols, such as LoRa or Zigbee, through the same interface.</p><p><img src="https://hackaday.com/wp-content/uploads/2026/09/hadimg_esphosted_1.png?w=800" /></p><hr/><small>14 Oct 2026, 01:27 UTC | #24220</small>]]></content>
+  </entry>
+  <entry>
     <title>Meta Reports GitHub Repository Breach Affecting 1,500 People</title>
     <link href="https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/" rel="alternate" />
     <id>https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/::v239</id>
