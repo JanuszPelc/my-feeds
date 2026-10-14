@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-14T17:55:00+00:00</updated>
+  <updated>2026-10-14T18:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Minions: A Distributed Virtual GPU Cloud Using Idle Apple Silicon Devices</title>
+    <link href="https://machinelearning.apple.com/research/distributed-gpu-cloud" rel="alternate" />
+    <id>https://machinelearning.apple.com/research/distributed-gpu-cloud::v239</id>
+    <published>2026-10-14T18:10:00+00:00</published>
+    <updated>2026-10-14T18:10:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/HG_oKD6aoAA6Xz2.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://machinelearning.apple.com/research/distributed-gpu-cloud">machinelearning.apple.com</a> | <a href="https://news.ycombinator.com/item?id=50070593">hacker news</a></small></p><hr/><p>Apple researchers have introduced Minions, a distributed virtual GPU cloud that aggregates the idle GPU capacity of Apple Silicon-based macOS devices to execute large-scale machine learning inference. By pooling underutilized hardware across a network, the system enables teams to run compute-intensive tasks without requiring additional centralized GPU procurement.</p><p>The architecture provides fault tolerance and efficient resource utilization to optimize distributed task execution. By leveraging existing hardware, Minions aims to address the high costs and long queue times associated with traditional centralized GPU infrastructures.</p><p><img src="https://pbs.twimg.com/media/HG_oKD6aoAA6Xz2.jpg" /></p><hr/><small>14 Oct 2026, 21:08 UTC | #24320</small>]]></content>
+  </entry>
+  <entry>
+    <title>Booking Holdings Announces AI Travel Startup Vayo</title>
+    <link href="https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/" rel="alternate" />
+    <id>https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/::v239</id>
+    <published>2026-10-14T18:05:00+00:00</published>
+    <updated>2026-10-14T18:05:00+00:00</updated>
+    <media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/10/Vayo-Team-Photo-.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.geekwire.com/2026/booking-holdings-unveils-ai-travel-startup-vayo-based-in-seattle-with-a-planned-100m-investment/">geekwire.com</a> | <a href="https://www.prnewswire.com/news-releases/booking-holdings-launches-vayo-with-planned-100m-investment-302908560.html">source</a></small></p><hr/><p>Booking Holdings has announced Vayo, a Seattle-based startup developing AI agents to manage and organize travel itineraries. The company plans a $100 million investment in the venture, which has opened a waitlist for its free private beta.</p><p>Vayo connects to user inboxes to monitor travel confirmations, allowing the AI to track price drops, alert users to disruptions like flight delays, and suggest itinerary adjustments. The startup intends to compete with general-purpose AI assistants by providing specialized travel orchestration through direct partnerships with industry providers.</p><p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/10/Vayo-Team-Photo-.jpeg" /></p><hr/><small>14 Oct 2026, 20:56 UTC | #24272</small>]]></content>
+  </entry>
   <entry>
     <title>Floqer to Open-Source AI Customer Knowledge Platform</title>
     <link href="https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/" rel="alternate" />
