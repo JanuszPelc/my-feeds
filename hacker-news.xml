@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T15:19:00+00:00</updated>
+  <updated>2026-10-14T17:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Self-Hosted Service Infrastructure and Hardware Configuration</title>
+    <link href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/" rel="alternate" />
+    <id>https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/::v239</id>
+    <published>2026-10-14T17:49:00+00:00</published>
+    <updated>2026-10-14T17:49:00+00:00</updated>
+    <media:thumbnail url="https://digitechbytes.com/wp-content/uploads/2025/11/private_media_server_setup_cmaju.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/">viceconsole.fyi</a> | <a href="https://lobste.rs/s/j4tlzg/what_i_self_host_aspirational_self">discussion</a></small></p><hr/><p>A Beelink Mini PC with an Intel N100 processor, 16 GB of RAM, and a 6 TB hard drive hosts a collection of personal services, including Jellyfin for media, Immich for photos, and Home Assistant for automation.</p><p>The setup favors native service execution over containerization to minimize resource overhead. Remote access is secured through VPNs rather than direct public internet exposure, and Caddy is used for local HTTPS.</p><p><img src="https://digitechbytes.com/wp-content/uploads/2025/11/private_media_server_setup_cmaju.jpg" /></p><hr/><small>14 Oct 2026, 19:35 UTC | #24313</small>]]></content>
+  </entry>
+  <entry>
+    <title>Factor 0.102 Released with Native ARM64 and RISC-V Support</title>
+    <link href="https://re.factorcode.org/2026/10/factor-0-102-now-available.html" rel="alternate" />
+    <id>https://re.factorcode.org/2026/10/factor-0-102-now-available.html::v239</id>
+    <published>2026-10-14T17:48:00+00:00</published>
+    <updated>2026-10-14T17:48:00+00:00</updated>
+    <media:thumbnail url="https://www.digitalcitizen.life/wp-content/uploads/2026/01/How-to-Find-Out-If-Your-Windows-11-PC-Uses-ARM64-or-x64.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://re.factorcode.org/2026/10/factor-0-102-now-available.html">re.factorcode.org</a> | <a href="https://lobste.rs/s/a4ljnh/factor_0_102_now_available">discussion</a></small></p><hr/><p>Factor 0.102 has been released, providing native ARM64 support for macOS, Linux, and Windows. The release also introduces 32-bit and 64-bit RISC-V Linux ports and sets GTK4 as the default UI backend for 64-bit Linux.</p><p>This update contains 1,068 commits, including experimental compiler optimizations, DirectWrite text rendering on Windows, and updated Unicode and timezone data. It also adds bindings for SQLite, Raylib, and Lua, along with improved process launching.</p><p><img src="https://www.digitalcitizen.life/wp-content/uploads/2026/01/How-to-Find-Out-If-Your-Windows-11-PC-Uses-ARM64-or-x64.jpg" /></p><hr/><small>14 Oct 2026, 19:32 UTC | #24312</small>]]></content>
+  </entry>
   <entry>
     <title>BotStopper Offers Commercial Bot and Scraper Protection for Organizations</title>
     <link href="https://botstopper.net" rel="alternate" />
