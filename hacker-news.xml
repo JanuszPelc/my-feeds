@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-13T22:38:00+00:00</updated>
+  <updated>2026-10-13T23:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Lix Releases Version 2.96 "Bingsu"</title>
+    <link href="https://lix.systems/blog/2026-10-13-lix-2.96-release/" rel="alternate" />
+    <id>https://lix.systems/blog/2026-10-13-lix-2.96-release/::v239</id>
+    <published>2026-10-13T23:08:00+00:00</published>
+    <updated>2026-10-13T23:08:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lix.systems/blog/2026-10-13-lix-2.96-release/">lix.systems</a> | <a href="https://lobste.rs/s/y65egs/announcing_lix_2_96_bingsu">discussion</a></small></p><hr/><p>Lix has released version 2.96, codenamed "Bingsu," which introduces improvements to the debugger and REPL, including UTF-8 support via `rustyline`. The update features experimental Cap'n'Proto RPC support through `rpc-sockets` and continues Rust integration for the REPL and hash conversion code. Additionally, the release deprecates `ssh://` store URIs while stabilizing `ssh-ng` URIs.</p><p>Breaking changes in this version include stricter `flake.nix` validation rules and new error handling for precision loss in `floor` and `ceil` builtins. Performance and workflow optimizations include the use of `mimalloc` for faster evaluation, a single-process input fetching mechanism to optimize concurrent downloads, and expanded diagnostic information within `nix doctor`.</p><hr/><small>14 Oct 2026, 04:25 UTC | #24227</small>]]></content>
+  </entry>
   <entry>
     <title>FBI and CrowdStrike Dismantle Texas Laptop Farms Used by North Korean IT Workers</title>
     <link href="https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html?unlocked_article_code=1.IVE.Hd6z.VaFEYJD7BNi_&amp;smid=nytcore-ios-share" rel="alternate" />
