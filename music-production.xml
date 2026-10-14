@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-13T20:41:00+00:00</updated>
+  <updated>2026-10-14T04:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Synthius Labs Releases nob Prompt-Driven Wavetable Synthesizer</title>
+    <link href="https://www.kvraudio.com/news/synthius-labs-releases-nob-prompt-driven-wavetable-synthesizer-for-macos-and-windows-69085?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69085" rel="alternate" />
+    <id>https://www.kvraudio.com/news/synthius-labs-releases-nob-prompt-driven-wavetable-synthesizer-for-macos-and-windows-69085?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69085::v239</id>
+    <published>2026-10-14T04:24:00+00:00</published>
+    <updated>2026-10-14T04:24:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/announcment.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/synthius-labs-releases-nob-prompt-driven-wavetable-synthesizer-for-macos-and-windows-69085?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69085">kvraudio.com</a> | <a href="https://www.nob.audio/">source</a></small></p><hr/><p>nob is a wavetable synthesizer for macOS and Windows that generates editable instrument patches from text prompts. Instead of producing rendered audio files, the plugin translates written sound descriptions into playable synthesizer parameters—such as oscillators, filters, and envelopes—that can be manually adjusted or refined through follow-up prompts.</p><p>The software is available in AU and VST3 formats for macOS and VST3 for Windows. It is offered via a $7.99 monthly subscription following a seven-day trial, and requires an internet connection to facilitate the prompt generation feature.</p><p><img src="https://static.kvraudio.com/i/b/announcment.jpg" /></p><hr/><small>14 Oct 2026, 10:47 UTC | #24245</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ocean Swift Releases Ocean Pigments Expansion for Arturia Pigments</title>
+    <link href="https://www.kvraudio.com/news/ocean-swift-releases-ocean-pigments-expansion-for-arturia-pigments-69086?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69086" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ocean-swift-releases-ocean-pigments-expansion-for-arturia-pigments-69086?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69086::v239</id>
+    <published>2026-10-14T04:23:00+00:00</published>
+    <updated>2026-10-14T04:23:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/arturia-pigments-expansion---ocean-pigments---volume-1.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ocean-swift-releases-ocean-pigments-expansion-for-arturia-pigments-69086?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69086">kvraudio.com</a> | <a href="https://oceanswift.net/product/ocean-pigments-vol1/">source</a></small></p><hr/><p>This expansion for Arturia Pigments provides over 1,030 seamlessly looped samples, 890 wavetables, 280 noisetables, and 175 presets. The collection covers a wide range of melodic sounds, including ambient atmospheres, pads, and synth leads with Aftertouch and Modwheel support.</p><p>The expansion includes an "Open Library" feature, allowing the samples, wavetables, and noisetables to be used in software other than Arturia Pigments. The package also features NKS support and is available at an introductory price of 27.99€ through October 27th.</p><p><img src="https://static.kvraudio.com/i/b/arturia-pigments-expansion---ocean-pigments---volume-1.webp" /></p><hr/><small>14 Oct 2026, 10:43 UTC | #24244</small>]]></content>
+  </entry>
   <entry>
     <title>Guitoro Offers Free Browser-Based Virtual Guitar</title>
     <link href="https://guitoro.com/" rel="alternate" />
