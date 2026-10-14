@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T08:28:00+00:00</updated>
+  <updated>2026-10-14T08:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Operating System Changes and Their Impact on Compiler Bootstrapping</title>
+    <link href="https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges" rel="alternate" />
+    <id>https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges::v239</id>
+    <published>2026-10-14T08:31:00+00:00</published>
+    <updated>2026-10-14T08:31:00+00:00</updated>
+    <media:thumbnail url="https://fractalfir.github.io/images/gcc_bootstrap_process.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges">utcc.utoronto.ca</a> | <a href="https://lobste.rs/s/6vs8a0/compiler_bootstrapping_depends_on_more">discussion</a></small></p><hr/><p>Compiler bootstrapping, such as the transition of the Go toolchain from C to Go, relies on the ability of older compiler binaries to run on modern operating systems. While Linux's high degree of backward compatibility supports this sequence, changes in ABIs or system calls in other operating systems, such as OpenBSD, can break the chain by preventing intermediate compiler versions from executing.</p><p>The bootstrapping process also depends on the stability of external command-line interfaces for tools like linkers and assemblers. Changes in how these utilities process arguments can cause build failures in older toolchain versions. Consequently, maintaining the ability to build modern compilers from source often requires the ongoing maintenance of legacy toolchain branches to ensure compatibility with current system environments.</p><p><img src="https://fractalfir.github.io/images/gcc_bootstrap_process.png" /></p><hr/><small>14 Oct 2026, 14:16 UTC | #24273</small>]]></content>
+  </entry>
   <entry>
     <title>Iosevka Open-Source Typeface Family</title>
     <link href="https://typeof.net/Iosevka/" rel="alternate" />
