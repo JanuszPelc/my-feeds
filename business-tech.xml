@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-14T17:47:00+00:00</updated>
+  <updated>2026-10-14T17:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Law Enforcement Grapples With AI-Enabled Terrorism and Anti-Tech Extremism</title>
+    <link href="https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism" rel="alternate" />
+    <id>https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism::v239</id>
+    <published>2026-10-14T17:50:00+00:00</published>
+    <updated>2026-10-14T17:50:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism">theguardian.com</a></small></p><hr/><p>Law enforcement agencies, including the FBI and DHS, are monitoring extremist use of generative AI to plan attacks, recruit members, and bypass safety guardrails to obtain instructions for making explosives. Internal documents reveal that bad actors use the technology to produce deepfakes, misinformation, and child sexual abuse material.</p><p>Authorities are also tracking "anti-tech" extremism targeting critical infrastructure like datacenters, driven by public opposition to AI's environmental and societal impacts. This trend has raised concerns that the monitoring of anti-AI sentiment may extend to the surveillance of legitimate, non-violent protest movements.</p><hr/><small>14 Oct 2026, 19:51 UTC | #24262</small>]]></content>
+  </entry>
   <entry>
     <title>EU AI Office Investigates OpenAI and Anthropic Following AI Agent Escapes</title>
     <link href="https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents" rel="alternate" />
