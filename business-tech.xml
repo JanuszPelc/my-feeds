@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-14T18:13:00+00:00</updated>
+  <updated>2026-10-14T22:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Two Men Detained Following Suspected Sabotage of Starlink Facility in Bulgaria</title>
+    <link href="https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/" rel="alternate" />
+    <id>https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/::v239</id>
+    <published>2026-10-14T19:35:00+00:00</published>
+    <updated>2026-10-14T19:35:00+00:00</updated>
+    <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2022/12/starlink-antenna.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/">dpa-international.com</a> | <a href="https://news.ycombinator.com/item?id=50092730">hacker news</a></small></p><hr/><p>Bulgarian authorities have detained two men holding German passports in connection with a suspected act of sabotage at a Starlink satellite internet facility near Sofia. The attack, which occurred on October 9, resulted in the fire-related destruction of 11 out of 17 antennas at the site.</p><p>The facility provides communication links used in the defense of Ukraine against the Russian invasion. Investigators are examining whether the suspects are part of a larger sabotage network, following a similar arson attack on Starlink infrastructure in Poland in late September.</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2022/12/starlink-antenna.jpg" /></p><hr/><small>14 Oct 2026, 23:04 UTC | #24330</small>]]></content>
+  </entry>
   <entry>
     <title>EU Negotiates Sanctions Relief with China to Aid ASML Supplier</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-14/eu-set-to-lift-sanction-on-chinese-firm-to-save-asml-supplier" rel="alternate" />
@@ -176,8 +185,8 @@
     <link href="https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/" rel="alternate" />
     <id>https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/::v239</id>
     <published>2026-10-13T20:37:00+00:00</published>
-    <updated>2026-10-13T20:37:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/">techcrunch.com</a> | <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.175.0.pdf">source</a></small></p><hr/><p>A federal judge has ordered OpenAI to provide Apple with expedited access to hiring records as part of a trade secrets lawsuit. The ruling permits Apple to review interview materials—including checklists, scripts, and technical presentations—related to former Apple employees who applied for roles within OpenAI’s consumer hardware and robotics divisions.</p><p>The decision also allows for the deposition of three former Apple employees and provides access to private LINE messages between specific individuals. While the judge granted these expedited discovery requests, he denied Apple's attempts to access OpenAI's internal research and development data for specific areas like power management and metal finishes.</p><hr/><small>14 Oct 2026, 01:39 UTC | #24199</small>]]></content>
+    <updated>2026-10-14T22:58:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/">techcrunch.com</a> | <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.175.0.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=50090707">hacker news</a></small></p><hr/><p>A federal judge has ordered OpenAI to provide Apple with expedited access to hiring records as part of a trade secrets lawsuit. The ruling permits Apple to review interview materials—including checklists, scripts, and technical presentations—related to former Apple employees who applied for roles within OpenAI’s consumer hardware and robotics divisions.</p><p>The decision also allows for the deposition of three former Apple employees and provides access to private LINE messages between specific individuals. While the judge granted these expedited discovery requests, he denied Apple's attempts to access OpenAI's internal research and development data for specific areas like power management and metal finishes.</p><hr/><small>14 Oct 2026, 01:39 UTC | #24199</small>]]></content>
   </entry>
   <entry>
     <title>Jury Finds Arm Breached License Agreement with Qualcomm, Awards $2 in Nominal Damages</title>
