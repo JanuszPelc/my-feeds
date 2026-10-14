@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
   <entry>
+    <title>Sprinklz.io Site Flooded with AI Bot Traffic Following Hacker News Feature</title>
+    <link href="https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic" rel="alternate" />
+    <id>https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic::v239</id>
+    <published>2026-10-13T23:18:00+00:00</published>
+    <updated>2026-10-13T23:18:00+00:00</updated>
+    <media:thumbnail url="https://kalinga.ai/wp-content/uploads/2026/03/ai-bot-traffic-growth-human-agent-comparison.jpg-1024x572.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic">sammystraus.com</a> | <a href="https://news.ycombinator.com/item?id=50073221">hacker news</a></small></p><hr/><p>A Hacker News feature for the customizable feed reader Sprinklz.io triggered a massive surge in AI bot traffic, causing significant server load and performance issues. Data logs revealed that nearly half of the requests originated from a single service that queries the site multiple times per minute to generate AI-summarized newsletters.</p><p>The surge included various automated agents, such as AI scrapers from OpenAI and Anthropic, search indexers, and vulnerability scanners. To mitigate the impact, the developer implemented rate limiting, updated robots.txt to discourage scrapers, and upgraded the backend infrastructure to improve resilience.</p><p><img src="https://kalinga.ai/wp-content/uploads/2026/03/ai-bot-traffic-growth-human-agent-comparison.jpg-1024x572.png" /></p><hr/><small>14 Oct 2026, 05:30 UTC | #24229</small>]]></content>
+  </entry>
+  <entry>
     <title>Cerebras CEO Andrew Feldman Challenges AI Doomsday Narratives</title>
     <link href="https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/" rel="alternate" />
     <id>https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/::v239</id>
