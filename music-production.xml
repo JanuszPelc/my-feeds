@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-13T17:54:00+00:00</updated>
+  <updated>2026-10-13T20:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Guitoro Offers Free Browser-Based Virtual Guitar</title>
+    <link href="https://guitoro.com/" rel="alternate" />
+    <id>https://guitoro.com/::v239</id>
+    <published>2026-10-13T20:41:00+00:00</published>
+    <updated>2026-10-13T20:41:00+00:00</updated>
+    <media:thumbnail url="https://joeheyming.github.io/play/strings/strings-preview.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://guitoro.com/">guitoro.com</a> | <a href="https://news.ycombinator.com/item?id=50077020">hacker news</a></small></p><hr/><p>Guitoro is a browser-based virtual guitar platform that provides acoustic, classic, electric, and bass instrument simulations using recordings of real instruments. Users can play via computer keyboard, mouse, or touchscreen. The tool includes a library of 51 songs with playback speeds adjustable as low as 20% of the original tempo.</p><p>The application serves as both a standalone instrument and a practice aid for physical guitarists, featuring visual aids for chord fingerings and strumming patterns. It also includes a backing band for accompaniment, recording capabilities, and an integrated online tuner.</p><p><img src="https://joeheyming.github.io/play/strings/strings-preview.png" /></p><hr/><small>14 Oct 2026, 01:55 UTC | #24222</small>]]></content>
+  </entry>
   <entry>
     <title>Universal Audio Releases Native UAD Empirical Labs FATSO Tape Simulator</title>
     <link href="https://www.kvraudio.com/news/universal-audio-releases-uad-empirical-labs-fatso-tape-simulator---native-versions-for-macos-and-windows-69083?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69083" rel="alternate" />

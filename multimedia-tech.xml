@@ -3,9 +3,17 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-13T16:35:00+00:00</updated>
+  <updated>2026-10-13T20:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Shield Battery Implements Rollback Netcode for StarCraft: Brood War</title>
+    <link href="https://www.youtube.com/watch?v=vIt9xua9bLc" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=vIt9xua9bLc::v239</id>
+    <published>2026-10-13T20:42:00+00:00</published>
+    <updated>2026-10-13T20:42:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=vIt9xua9bLc">youtube.com</a> | <a href="https://lobste.rs/s/gr0ptb/we_put_fighting_game_netcode_brood_war">discussion</a></small></p><hr/><p>Shield Battery has implemented rollback netcode for StarCraft: Brood War, replacing the traditional lockstep networking model. This system allows player commands to execute on the very next frame, significantly reducing the input latency experienced during online matches.</p><p>The netcode predicts player actions and only corrects the game state when unexpected commands arrive, transforming lag spikes into minor visual "hops" rather than total freezes. Additionally, latency adjustments are applied to each player's connection individually, ensuring that a single player's poor connection does not delay the entire match.</p><hr/><small>14 Oct 2026, 01:58 UTC | #24223</small>]]></content>
+  </entry>
   <entry>
     <title>Rockstar Games Slates Grand Theft Auto VI PC Release for Q1 2027</title>
     <link href="https://gamesbeat.com/grand-theft-auto-vis-pc-release-is-slated-for-q1-2027/" rel="alternate" />
