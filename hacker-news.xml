@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T06:25:00+00:00</updated>
+  <updated>2026-10-14T06:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Android 17 Bionic Libc Bug Causes Incorrect Unicode Character Matching</title>
+    <link href="https://github.com/android/ndk/issues/2260" rel="alternate" />
+    <id>https://github.com/android/ndk/issues/2260::v239</id>
+    <published>2026-10-14T06:27:00+00:00</published>
+    <updated>2026-10-14T06:27:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/android/ndk/issues/2260">github.com</a> | <a href="https://news.ycombinator.com/item?id=50083130">hacker news</a></small></p><hr/><p>A regression in Android 17's Bionic libc causes the `wcscspn()` and `wcspbrk()` functions to incorrectly identify wide characters $\ge$ U+0100 as matches when the rejection set contains two or more characters below U+0100. This behavior causes the scanning process to stop prematurely at the first non-Latin-1 character, such as an emoji, CJK, or Cyrillic character, even if that character is not present in the search set.</p><p>The error, introduced between the June and September 2026 releases, stems from an assembly optimization in the `libc.so` binary that incorrectly branches when encountering characters outside the 0x00–0xFF range. This bug breaks applications that rely on wide-string scanning to find ASCII delimiters like newlines or wildcard characters, with reported impacts in software such as the Wine-based Visual Pinball engine.</p><hr/><small>14 Oct 2026, 11:44 UTC | #24252</small>]]></content>
+  </entry>
   <entry>
     <title>nytpu.com Implements ANSI-Styled Terminal Version of Website</title>
     <link href="https://nytpu.com/gemlog/2026-03-18" rel="alternate" />
