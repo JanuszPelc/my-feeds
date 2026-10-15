@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-15T07:59:00+00:00</updated>
+  <updated>2026-10-15T08:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Matthew Garrett Proposes TPM-Backed Hibernation for Linux Lockdown</title>
+    <link href="https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/" rel="alternate" />
+    <id>https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/::v239</id>
+    <published>2026-10-15T08:06:00+00:00</published>
+    <updated>2026-10-15T08:06:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/">codon.org.uk</a> | <a href="https://lore.kernel.org/linux-pm/20261008132532.1155166-1-matthewg@nvidia.com/">source</a> | <a href="https://lobste.rs/s/rrazyb/linux_lockdown_hibernation_again">discussion</a></small></p><hr/><p>Matthew Garrett has proposed a series of Linux kernel patches that enable system hibernation while kernel Lockdown is active. This addresses a vulnerability where a root user could modify the hibernation image in the swap partition, allowing for a kernel compromise upon system resume. The proposed solution uses a Trusted Platform Module (TPM) to authenticate the hibernation image, proving it was written by the kernel rather than a userland process.</p><p>The implementation utilizes TPM features like PCR 5 to record the transition from UEFI to the OS and session-based audit logs to verify the integrity of the hibernation process. By using deterministic TPM keys and attestation, the kernel can verify that the saved state is authentic and untampered with, even when running in a highly restricted security state.</p><hr/><small>15 Oct 2026, 13:54 UTC | #24398</small>]]></content>
+  </entry>
   <entry>
     <title>HAXY Git Forge Under Development</title>
     <link href="https://try.haxy.net/haxy:haxy" rel="alternate" />
