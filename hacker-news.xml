@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-15T08:06:00+00:00</updated>
+  <updated>2026-10-15T08:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Yandex Outage Shows Malicious Bot Traffic Migrated to Other Providers</title>
+    <link href="https://blog.cloudflare.com/yandex-outage/" rel="alternate" />
+    <id>https://blog.cloudflare.com/yandex-outage/::v239</id>
+    <published>2026-10-15T08:08:00+00:00</published>
+    <updated>2026-10-15T08:08:00+00:00</updated>
+    <media:thumbnail url="https://blog.cloudflare.com/_image?href=https%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01M4Y1445Y2D8SEE4V03F4DW7Z.png&amp;w=715&amp;h=405&amp;f=webp&amp;fit=cover&amp;position=center" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.cloudflare.com/yandex-outage/">blog.cloudflare.com</a> | <a href="https://news.ycombinator.com/item?id=50094673">hacker news</a></small></p><hr/><p>Cloudflare's analysis of the Yandex outage, caused by reported drone strikes on Russian data centers, shows that the disruption affected services differently. While Yandex Search traffic drops were primarily composed of legitimate search crawlers, Yandex.Cloud saw a significant migration of malicious automation—including high-volume gambling bots—to other hosting providers like Radist and Selectel.</p><p>The findings suggest that physical infrastructure damage does not necessarily halt malicious activity, as automated threats often maintain identical request fingerprints while shifting between networks. This highlights the high portability of malicious automation and indicates that aggregate traffic drops in a single network may be a misleading indicator of a reduction in global bot activity.</p><p><img src="https://blog.cloudflare.com/_image?href=https%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01M4Y1445Y2D8SEE4V03F4DW7Z.png&w=715&h=405&f=webp&fit=cover&position=center" /></p><hr/><small>15 Oct 2026, 14:11 UTC | #24399</small>]]></content>
+  </entry>
   <entry>
     <title>Matthew Garrett Proposes TPM-Backed Hibernation for Linux Lockdown</title>
     <link href="https://codon.org.uk/~mjg59/blog/p/linux-lockdown-and-hibernation-again/" rel="alternate" />
