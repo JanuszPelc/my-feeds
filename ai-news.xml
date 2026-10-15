@@ -316,12 +316,4 @@
     <updated>2026-10-10T14:40:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://commandline.microsoft.com/microsoft-decision-1-model-foundry/">commandline.microsoft.com</a> | <a href="https://news.ycombinator.com/item?id=50024913">hacker news</a></small></p><hr/><p>Microsoft has introduced Microsoft-Decision-1, a purpose-built AI model designed for fast, structured decision-scoring. Unlike general-purpose LLMs, the model provides calibrated probability scores for fixed answer options, facilitating tasks such as routing, classification, and workflow control. It is based on the Qwen3.5-9B architecture and is available through Microsoft Foundry and OpenRouter.</p><p>The model is optimized for low latency, reportedly performing up to 35 times faster than GPT-6 Sol and demonstrating high accuracy across 36 benchmarks. Designed to support agentic workflows and decision intelligence, Microsoft-Decision-1 is priced at $0.042 per million input tokens with no cost for output tokens.</p><hr/><small>10 Oct 2026, 19:11 UTC | #23889</small>]]></content>
   </entry>
-  <entry>
-    <title>Cloudflare Releases Multimodal Clef-omni Model</title>
-    <link href="https://blog.cloudflare.com/clef-faster-cheaper-multimodal/" rel="alternate" />
-    <id>https://blog.cloudflare.com/clef-faster-cheaper-multimodal/::v239</id>
-    <published>2026-10-10T02:41:00+00:00</published>
-    <updated>2026-10-10T02:41:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://blog.cloudflare.com/clef-faster-cheaper-multimodal/">blog.cloudflare.com</a> | <a href="https://news.ycombinator.com/item?id=50025236">hacker news</a></small></p><hr/><p>Cloudflare has released Clef-omni, a multimodal decision model that processes audio, video, image, and text inputs in a single API call. Additionally, the company has reduced the price of its Clef-flash model to $0.038 per million input tokens and implemented infrastructure optimizations to improve the speed of the standard Clef model.</p><p>Clef-omni utilizes a Qwen3-Omni mixture-of-experts (MoE) architecture, enabling it to analyze multiple modalities simultaneously without the need for separate speech-to-text or image processing pipelines. To facilitate the lower pricing for Clef-flash, the hosted version's context window has been reduced from 64k to 24k tokens.</p><hr/><small>10 Oct 2026, 09:47 UTC | #23846</small>]]></content>
-  </entry>
 </feed>
