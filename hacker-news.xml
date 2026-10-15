@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T22:12:00+00:00</updated>
+  <updated>2026-10-15T01:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Tiny Little Office Productivity Suite Uses Document-Centric Linking</title>
+    <link href="https://tinylittleoffice.com/" rel="alternate" />
+    <id>https://tinylittleoffice.com/::v239</id>
+    <published>2026-10-15T01:05:00+00:00</published>
+    <updated>2026-10-15T01:05:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://tinylittleoffice.com/">tinylittleoffice.com</a> | <a href="https://news.ycombinator.com/item?id=50096142">hacker news</a></small></p><hr/><p>The suite utilizes a "the link is the document" architecture, enabling documents to be embedded and nested within one another via application-specific fences. It includes a variety of integrated tools, such as a word processor, outliner, spreadsheet, presentation builder, and diagram maker.</p><p>A dedicated llms.txt file provides instructions for AI agents to create and interact with these linked documents. The toolset also includes specialized applications for animation, drawing, trip planning, and calendar management.</p><hr/><small>15 Oct 2026, 06:42 UTC | #24359</small>]]></content>
+  </entry>
   <entry>
     <title>Go 1.27 Improves HTTP/1 Connection Reuse</title>
     <link href="https://go.dev/blog/http-connection-reuse" rel="alternate" />
