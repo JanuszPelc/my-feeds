@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T01:10:00+00:00</updated>
+  <updated>2026-10-15T01:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>President Claudia Sheinbaum Signs Decree Requiring Digital Platforms to Protect Minors From Violent and Sexual Content</title>
+    <link href="https://www.reuters.com/world/us/mexico-require-digital-platforms-protect-minors-violent-sexual-content-2026-10-14/" rel="alternate" />
+    <id>https://www.reuters.com/world/us/mexico-require-digital-platforms-protect-minors-violent-sexual-content-2026-10-14/::v239</id>
+    <published>2026-10-15T01:21:00+00:00</published>
+    <updated>2026-10-15T01:21:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/us/mexico-require-digital-platforms-protect-minors-violent-sexual-content-2026-10-14/">reuters.com</a></small></p><hr/><p>A new presidential decree in Mexico requires digital platforms to prevent minors from being exposed to sexual and violent content. The order grants companies one month to implement the necessary protections to comply with these regulations.</p><p>The mandate is intended to strengthen online safety for children and adolescents. It is part of a growing global trend of increased government regulation concerning how technology companies moderate content for minors.</p><hr/><small>15 Oct 2026, 08:31 UTC | #24341</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Agrees to Limit Use of Alleged Apple Trade Secrets During Litigation</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight" rel="alternate" />
