@@ -959,13 +959,4 @@
     <updated>2026-10-10T13:15:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.sigplan.org/2026/10/01/equality-saturation-an-incomplete-project/">blog.sigplan.org</a> | <a href="https://lobste.rs/s/5n7zxa/equality_saturation_incomplete_project">discussion</a></small></p><hr/><p>Equality saturation uses e-graphs to store and rewrite large equivalence classes of programs for optimization. Since the release of the `egg` library, the field has grown to include specialized implementations like `egglog` for Datalog-style querying and `ægraphs` for performant acyclic e-graph management.</p><p>The technique’s trade-off of mathematical completeness for practical flexibility enables "e-graphs modulo theories" and programmatic control over rule application. Ongoing research aims to resolve challenges regarding variable bindings, substitution, and beta-reduction within e-graph structures.</p><hr/><small>10 Oct 2026, 17:30 UTC | #23883</small>]]></content>
   </entry>
-  <entry>
-    <title>Deepthi Sigireddi Discusses Supabase Database Scaling and OrioleDB</title>
-    <link href="https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html" rel="alternate" />
-    <id>https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html::v239</id>
-    <published>2026-10-10T13:10:00+00:00</published>
-    <updated>2026-10-10T13:10:00+00:00</updated>
-    <media:thumbnail url="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2025-11-17-supabase-tutorial/supabase-tutorial-big.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html">theconsensus.dev</a> | <a href="https://lobste.rs/s/pmzbuu/deepthi_sigireddi_from_supabase">discussion</a></small></p><hr/><p>Deepthi Sigireddi, Head of Databases at Supabase, discusses her experience in database sharding and her previous leadership of the Vitess project. She elaborates on the technical challenges of maintaining ACID properties in distributed systems and compares the consensus-based architecture of Multigres with the heuristic approach used by Vitess.</p><p>OrioleDB, a PostgreSQL storage engine currently in public beta, is expected to reach general availability in 2027 as part of a plan to become Supabase's default storage engine. Sigireddi also addresses the operational challenges of managing over 10 million active databases at scale.</p><p><img src="https://refine.ams3.cdn.digitaloceanspaces.com/blog/2025-11-17-supabase-tutorial/supabase-tutorial-big.png" /></p><hr/><small>10 Oct 2026, 16:17 UTC | #23878</small>]]></content>
-  </entry>
 </feed>
