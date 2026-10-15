@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T20:59:00+00:00</updated>
+  <updated>2026-10-14T22:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Go 1.27 Improves HTTP/1 Connection Reuse</title>
+    <link href="https://go.dev/blog/http-connection-reuse" rel="alternate" />
+    <id>https://go.dev/blog/http-connection-reuse::v239</id>
+    <published>2026-10-14T22:12:00+00:00</published>
+    <updated>2026-10-14T22:12:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://go.dev/blog/http-connection-reuse">go.dev</a> | <a href="https://lobste.rs/s/mkq3x9/better_http_1_connection_reuse">discussion</a> | <a href="https://news.ycombinator.com/item?id=50090369">hacker news</a></small></p><hr/><p>The `net/http` package in Go 1.27 now automatically drains unread HTTP/1 response bodies when they are closed. This mechanism allows the transport to reuse existing TCP connections for subsequent requests, preventing the performance penalties of repeated TCP and TLS handshakes caused by partially read response bodies.</p><p>The implementation limits the automatic drain to 256 KB or 50 milliseconds to prevent excessive resource consumption. This change simplifies Go development by removing the need for manual draining logic and improves performance for applications that frequently close partially read HTTP/1 responses.</p><hr/><small>15 Oct 2026, 03:52 UTC | #24346</small>]]></content>
+  </entry>
   <entry>
     <title>OpenCode Releases Version 2.0 with New API and Code Mode</title>
     <link href="https://anoma.ly/notes/opencode-2-0/" rel="alternate" />
