@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T01:06:00+00:00</updated>
+  <updated>2026-10-15T01:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Florida Social Media Ban for Under-14s Upheld by Appeals Court</title>
+    <link href="https://www.reuters.com/legal/government/florida-can-enforce-state-law-barring-young-kids-social-media-appeals-court-2026-10-14/" rel="alternate" />
+    <id>https://www.reuters.com/legal/government/florida-can-enforce-state-law-barring-young-kids-social-media-appeals-court-2026-10-14/::v239</id>
+    <published>2026-10-15T01:09:00+00:00</published>
+    <updated>2026-10-15T01:09:00+00:00</updated>
+    <media:thumbnail url="https://pmfias.b-cdn.net/wp-content/uploads/2025/12/Ban-on-Social-Media.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/government/florida-can-enforce-state-law-barring-young-kids-social-media-appeals-court-2026-10-14/">reuters.com</a> | <a href="https://media.ca11.uscourts.gov/opinions/pub/files/202511881.pdf">source</a></small></p><hr/><p>A US appeals court has ruled that Florida can enforce a state law prohibiting children under 14 from maintaining social media accounts. The decision overturns a lower court injunction that had previously blocked the law's implementation.</p><p>The ruling dismisses First Amendment challenges from tech industry groups, including NetChoice, which argued the measure violates free speech rights. The legislation also mandates that 15- and 16-year-olds obtain parental consent to use social media platforms.</p><p><img src="https://pmfias.b-cdn.net/wp-content/uploads/2025/12/Ban-on-Social-Media.png" /></p><hr/><small>15 Oct 2026, 07:32 UTC | #24338</small>]]></content>
+  </entry>
   <entry>
     <title>YouTube Explores Audiobook Expansion and Premium Integration</title>
     <link href="https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876" rel="alternate" />
