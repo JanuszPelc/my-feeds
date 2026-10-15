@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-15T16:17:00+00:00</updated>
+  <updated>2026-10-15T16:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Spritely Institute Announces End-to-End Encrypted Relays for OCapN</title>
+    <link href="https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html" rel="alternate" />
+    <id>https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html::v239</id>
+    <published>2026-10-15T16:19:00+00:00</published>
+    <updated>2026-10-15T16:19:00+00:00</updated>
+    <media:thumbnail url="https://owncloud.com/wp-content/uploads/2021/05/file-encryption.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html">spritely.institute</a> | <a href="https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn">discussion</a></small></p><hr/><p>Spritely Institute is developing end-to-end encrypted (E2EE) relays for the OCapN networking framework, to be included in a future release of Goblins. Supported by an NLnet grant, these relays aim to enable secure peer-to-peer communication in environments where NATs or carrier-grade NATs prevent direct connections. The implementation will leverage the Noise Protocol to provide perfect forward secrecy and prevent man-in-the-middle attacks, addressing security limitations in the existing non-encrypted "prelay" implementation.</p><p>The project includes the creation of a Guile Noise library to ensure compatibility across the Guile VM and web browsers via the SubtleCrypto API. The proposed relay architecture is designed to be stateless and federated, allowing for easy migration between servers without losing user data. Furthermore, the developers intend to write a formal specification to enable broad support for these E2EE relays across other OCapN-compliant implementations.</p><p><img src="https://owncloud.com/wp-content/uploads/2021/05/file-encryption.png" /></p><hr/><small>15 Oct 2026, 21:40 UTC | #24456</small>]]></content>
+  </entry>
   <entry>
     <title>Lumi Critiques Remote Attestation as a Threat to User Autonomy</title>
     <link href="https://lumi.codeberg.page/blog/remote-attestation.html" rel="alternate" />
