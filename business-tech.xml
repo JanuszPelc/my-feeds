@@ -3,9 +3,25 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T13:53:00+00:00</updated>
+  <updated>2026-10-15T14:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Warns Staff Against Espionage and Insider Threats</title>
+    <link href="https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-10-15T14:46:00+00:00</published>
+    <updated>2026-10-15T14:46:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>OpenAI executives have cautioned staff against potential espionage, including "honey pots" and insider threats. This follows the FBI's arrest of an employee for allegedly planting a sophisticated recording device in an executive conference room. In response, the company has mandated stricter operational security measures.</p><p>The company reportedly utilized its own AI models to assist in the technical investigation and analysis of forensic data. The incident highlights growing concerns within the artificial intelligence industry regarding the protection of frontier models and proprietary technologies from targeted surveillance.</p><hr/><small>15 Oct 2026, 19:12 UTC | #24384</small>]]></content>
+  </entry>
+  <entry>
+    <title>Marc Andreessen's Political Shift Driven by AI and Cryptocurrency Policy Disputes</title>
+    <link href="https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga" rel="alternate" />
+    <id>https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga::v239</id>
+    <published>2026-10-15T14:45:00+00:00</published>
+    <updated>2026-10-15T14:45:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga">bloomberg.com</a></small></p><hr/><p>Marc Andreessen has moved toward the MAGA movement, attributing the shift to disagreements with the Biden administration over artificial intelligence, cryptocurrency, and DEI policies. While Andreessen claims he encountered efforts by federal officials to regulate AI in a manner that would harm startups, former administration officials have contested his accounts of these interactions.</p><p>The investor's political evolution comes as he maintains close ties to White House Chief of Staff Susie Wiles and advises on technology policy. His narrative regarding a 2024 White House meeting has become a central component in the increasing friction between Silicon Valley's venture capital sector and federal regulators.</p><hr/><small>15 Oct 2026, 19:10 UTC | #24385</small>]]></content>
+  </entry>
   <entry>
     <title>Bo Hines’s Consulting Firm Received Millions From Tether While Crafting Crypto Legislation</title>
     <link href="https://www.wsj.com/politics/policy/crypto-law-trump-tether-bo-hines-45bcd95d?st=V9oLsY&amp;reflink=desktopwebshare_permalink" rel="alternate" />

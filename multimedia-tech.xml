@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-15T13:28:00+00:00</updated>
+  <updated>2026-10-15T14:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Caves of Qud: Diaspora to Launch as Steam's First Early Access DLC</title>
+    <link href="https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam" rel="alternate" />
+    <id>https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam::v239</id>
+    <published>2026-10-15T14:50:00+00:00</published>
+    <updated>2026-10-15T14:50:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltdba3a17f1a072238/6ac9400ec4df800cb242c269/2-dromad-caravan.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam">gamedeveloper.com</a> | <a href="https://store.steampowered.com/app/5249200/Caves_of_Qud_Disapora">source</a></small></p><hr/><p>Freehold Games' expansion for Caves of Qud, titled Diaspora, will be released in Early Access on Steam. This is the first instance of a downloadable content (DLC) expansion launching via Steam's Early Access program rather than as a completed 1.0 release.</p><p>The developers intend to use the model to facilitate community stress-testing of the expansion's complex systems and to maintain a flexible development schedule. This strategy allows for incremental funding and iterative development based on player feedback.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltdba3a17f1a072238/6ac9400ec4df800cb242c269/2-dromad-caravan.png?width=720&quality=80&disable=upscale" /></p><hr/><small>15 Oct 2026, 19:19 UTC | #24403</small>]]></content>
+  </entry>
   <entry>
     <title>decomp.dev Disables Main Index and New Project Tracking</title>
     <link href="https://decomp.dev/" rel="alternate" />
