@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T04:44:00+00:00</updated>
+  <updated>2026-10-15T05:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Global Smartphone Shipments Fall 22% in Q3 2026</title>
+    <link href="https://www.idc.com/" rel="alternate" />
+    <id>https://www.idc.com/::v239</id>
+    <published>2026-10-15T05:01:00+00:00</published>
+    <updated>2026-10-15T05:01:00+00:00</updated>
+    <media:thumbnail url="https://beforeyoutake.com/wp-content/uploads/2026/02/IDC-Warns-of-Sharp-12.9-Drop-in-Global-Smartphone-Shipments-in-2026-Lowest-Market-Volume-in-Over-a-Decade-Due-to-Memory-Crisis-Before-You-Take-1140x570.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.idc.com/">idc.com</a> | <a href="https://www.idc.com/about/press-releases/">source</a> | <a href="https://news.ycombinator.com/item?id=50047825">hacker news</a></small></p><hr/><p>Global smartphone shipments fell 22% year-over-year to 255.3 million units in Q3 2026, marking a record quarterly drop. While Apple and Samsung expanded their market share through premium product portfolios, Xiaomi, Oppo, and Vivo faced more significant declines.</p><p>The contraction was driven by soaring memory chip costs and supply shortages. These industry headwinds have pressured manufacturers and contributed to increased component pricing.</p><p><img src="https://beforeyoutake.com/wp-content/uploads/2026/02/IDC-Warns-of-Sharp-12.9-Drop-in-Global-Smartphone-Shipments-in-2026-Lowest-Market-Volume-in-Over-a-Decade-Due-to-Memory-Crisis-Before-You-Take-1140x570.jpg" /></p><hr/><small>15 Oct 2026, 12:08 UTC | #24355</small>]]></content>
+  </entry>
   <entry>
     <title>ASML China Sales Increase 109% in Third Quarter</title>
     <link href="https://www.scmp.com/tech/big-tech/article/3370904/asmls-chip-equipment-sales-china-soar-109-despite-us-export-curb-push" rel="alternate" />
