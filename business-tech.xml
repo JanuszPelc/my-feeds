@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T16:07:00+00:00</updated>
+  <updated>2026-10-15T16:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Dwarkesh Patel Discusses AI Safety and the Hugging Face Hack</title>
+    <link href="https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html::v239</id>
+    <published>2026-10-15T16:13:00+00:00</published>
+    <updated>2026-10-15T16:13:00+00:00</updated>
+    <media:thumbnail url="https://staticfiles.acronis.com/images/content/b6f28a9140e91c28ddac3dc6ac2c6d41.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html">nytimes.com</a></small></p><hr/><p>Dwarkesh Patel discusses AGI, the current atmosphere in San Francisco's tech scene, and the security implications of recent hacking incidents. He addresses concerns regarding autonomous AI agents and the risks associated with the rapid pace of frontier model development.</p><p>Industry responses to security breaches include reported adjustments to development and testing cycles at major AI laboratories. The conversation also covers the geopolitical competition surrounding AI and the intersection of rapid innovation with government regulation.</p><p><img src="https://staticfiles.acronis.com/images/content/b6f28a9140e91c28ddac3dc6ac2c6d41.png" /></p><hr/><small>15 Oct 2026, 20:32 UTC | #24396</small>]]></content>
+  </entry>
   <entry>
     <title>Bank of America Hires 1,000 Contractors to Patch AI-Discovered Software Flaws</title>
     <link href="https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html" rel="alternate" />

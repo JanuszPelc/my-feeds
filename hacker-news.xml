@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-15T16:06:00+00:00</updated>
+  <updated>2026-10-15T16:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Lumi Critiques Remote Attestation as a Threat to User Autonomy</title>
+    <link href="https://lumi.codeberg.page/blog/remote-attestation.html" rel="alternate" />
+    <id>https://lumi.codeberg.page/blog/remote-attestation.html::v239</id>
+    <published>2026-10-15T16:17:00+00:00</published>
+    <updated>2026-10-15T16:17:00+00:00</updated>
+    <media:thumbnail url="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0680/9229323/0573a2994ac4/sensors-22-04340-g006.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lumi.codeberg.page/blog/remote-attestation.html">lumi.codeberg.page</a> | <a href="https://lobste.rs/s/s8bo3z/remote_attestation_should_not_be">discussion</a></small></p><hr/><p>Remote attestation is a technology used to verify the integrity of software running on a device, often through hardware-level implementations. The author argues that this technology serves as a mechanism for restrictive digital rights management, allowing companies like Google and Apple to dictate which software users are permitted to execute on their own hardware.</p><p>While proponents justify attestation as a security measure for service providers, the author contends that it primarily serves corporate interests by preventing the use of modified operating systems and emulators. The piece frames this as a fundamental loss of user autonomy and a threat to device ownership, urging vigilance against the potential expansion of these technologies into desktop computing environments.</p><p><img src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0680/9229323/0573a2994ac4/sensors-22-04340-g006.jpg" /></p><hr/><small>15 Oct 2026, 20:41 UTC | #24450</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple CEO John Ternus Unveils iPhone Duo Foldable</title>
+    <link href="https://time.com/collection/best-inventions/2026/apple-iphone-duo/" rel="alternate" />
+    <id>https://time.com/collection/best-inventions/2026/apple-iphone-duo/::v239</id>
+    <published>2026-10-15T16:14:00+00:00</published>
+    <updated>2026-10-15T16:14:00+00:00</updated>
+    <media:thumbnail url="https://static.time.com/v3/assets/bltea6093859af6183b/blt2cc058d58a846ffc/6acf7a08c9b4e32eb555032b/078dea3c-7081-4c20-892c-847332dc98d7.jpeg?branch=production&amp;width=3840&amp;quality=75&amp;auto=webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://time.com/collection/best-inventions/2026/apple-iphone-duo/">time.com</a> | <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/">source</a></small></p><hr/><p>Apple CEO John Ternus has unveiled the iPhone Duo, the company's first foldable smartphone. The device starts at $1,999 and features a custom polymer surface and a specialized hinge designed to minimize the center screen crease.</p><p>The product launch signals a return to hardware-focused leadership under Ternus. This transition occurs as Apple develops its own personalized artificial intelligence models and manages global supply chain pressures for memory chips.</p><p><img src="https://static.time.com/v3/assets/bltea6093859af6183b/blt2cc058d58a846ffc/6acf7a08c9b4e32eb555032b/078dea3c-7081-4c20-892c-847332dc98d7.jpeg?branch=production&width=3840&quality=75&auto=webp" /></p><hr/><small>15 Oct 2026, 20:34 UTC | #24395</small>]]></content>
+  </entry>
   <entry>
     <title>Nvidia RTX Spark Superchip Performance in Microsoft Surface Laptop Ultra</title>
     <link href="https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit" rel="alternate" />
