@@ -3,9 +3,36 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-15T09:42:00+00:00</updated>
+  <updated>2026-10-15T13:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>AlphaTheta Launches HDJ-F9 Wireless DJ Headphones</title>
+    <link href="https://musictech.com/news/gear/alphatheta-hdj-f9-wireless-dj-headphones/" rel="alternate" />
+    <id>https://musictech.com/news/gear/alphatheta-hdj-f9-wireless-dj-headphones/::v239</id>
+    <published>2026-10-15T13:03:00+00:00</published>
+    <updated>2026-10-15T13:03:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/HDJ-F9-3@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/alphatheta-hdj-f9-wireless-dj-headphones/">musictech.com</a> | <a href="https://alphatheta.com/en/product/headphones/hdj-f9/black/">source</a></small></p><hr/><p>AlphaTheta has released the HDJ-F9, a new line of professional wireless on-ear DJ headphones. The headphones utilize proprietary SonicLink technology to achieve ultra-low latency as low as 9ms and include SonicLink Touch Pairing for seamless connection with compatible DJ hardware.</p><p>Designed for long performance sets, the headphones feature swivel-mounted hangers, a flexible silicone headband, and a die-cast aluminum slider. Users can customize the color and brightness of the status LED via the Headphones Connect app. The HDJ-F9 is priced at $349, £329, and €379.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/HDJ-F9-3@2000x1500.jpg" /></p><hr/><small>15 Oct 2026, 15:34 UTC | #24374</small>]]></content>
+  </entry>
+  <entry>
+    <title>23audio Releases V-23 Voice Processor and Audiobook Checker</title>
+    <link href="https://www.kvraudio.com/news/23audio-releases-v-23-voice-processor-and-free-audiobook-checker-vst3-au-and-aax-69105?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69105" rel="alternate" />
+    <id>https://www.kvraudio.com/news/23audio-releases-v-23-voice-processor-and-free-audiobook-checker-vst3-au-and-aax-69105?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69105::v239</id>
+    <published>2026-10-15T13:02:00+00:00</published>
+    <updated>2026-10-15T13:02:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/v23-stage-view.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/23audio-releases-v-23-voice-processor-and-free-audiobook-checker-vst3-au-and-aax-69105?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69105">kvraudio.com</a> | <a href="https://23audio.com/">source</a></small></p><hr/><p>The V-23 Voice Processor and the free Audiobook Checker have been released by 23audio to support narration, podcasting, and audiobook production. The V-23 is a channel strip plugin featuring a customizable signal chain that includes a de-esser, compressor, and a "Clarify" tool to mitigate room resonance. The Audiobook Checker is a free utility and plugin that validates audio against ACX technical requirements, measuring RMS, peak, and noise floor levels.</p><p>Both products are available for macOS and Windows in VST3, AU, and AAX formats. The V-23 includes low-latency monitoring for live recording and presets for various loudness delivery standards. The Audiobook Checker identifies issues such as incorrect MP3 settings or silence gaps, helping users ensure compliance with distribution specifications.</p><p><img src="https://static.kvraudio.com/i/b/v23-stage-view.jpg" /></p><hr/><small>15 Oct 2026, 15:33 UTC | #24372</small>]]></content>
+  </entry>
+  <entry>
+    <title>Patrick Alavi Releases PA.1 Multiband Compressor</title>
+    <link href="https://www.kvraudio.com/news/patrick-alavi-releases-pa-1---the-pa-tch-compressor-macos-vst3-69121?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69121" rel="alternate" />
+    <id>https://www.kvraudio.com/news/patrick-alavi-releases-pa-1---the-pa-tch-compressor-macos-vst3-69121?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69121::v239</id>
+    <published>2026-10-15T13:01:00+00:00</published>
+    <updated>2026-10-15T13:01:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/pa1-main-v11.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/patrick-alavi-releases-pa-1---the-pa-tch-compressor-macos-vst3-69121?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69121">kvraudio.com</a> | <a href="https://patrickalavi.com/pa1">source</a></small></p><hr/><p>Patrick Alavi has released PA.1, a VST3 multiband compressor for macOS. The plugin utilizes a modular routing system that allows users to patch five stages—Comp, Attack, Release, Lofi, and Sidechain—into any order across five frequency bands, creating highly customizable signal paths.</p><p>Additional features include phase-compensated Linkwitz-Riley bands, sampler and tape coloring via impulse responses, and automatic sub-frequency management to prevent low-end build-up. The plugin supports stereo, dual mono, and M/S modes with up to 16x oversampling and is available for €29, with a 14-day trial offered for testing.</p><p><img src="https://static.kvraudio.com/i/b/pa1-main-v11.jpg" /></p><hr/><small>15 Oct 2026, 15:32 UTC | #24369</small>]]></content>
+  </entry>
   <entry>
     <title>Plugin Boutique Launches Tiered Membership Program</title>
     <link href="https://musictech.com/news/gear/plugin-boutique-membership/" rel="alternate" />
