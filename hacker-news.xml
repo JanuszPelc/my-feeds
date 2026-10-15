@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-15T18:02:00+00:00</updated>
+  <updated>2026-10-15T18:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>E Ink Announces Kaleido 4 Color E-Paper Technology</title>
+    <link href="https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness" rel="alternate" />
+    <id>https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness::v239</id>
+    <published>2026-10-15T18:18:00+00:00</published>
+    <updated>2026-10-15T18:18:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness">theverge.com</a> | <a href="https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4">source</a> | <a href="https://news.ycombinator.com/item?id=50108229">hacker news</a></small></p><hr/><p>E Ink has announced Kaleido 4, an upgrade to its color e-paper technology. The new generation features a doubled color gamut volume, 50% higher contrast, and 15% increased white reflectance compared to Kaleido 3. These enhancements are designed to improve color vibrancy and text clarity on electronic displays.</p><p>The technology supports refresh rates of up to 18 frames per second, allowing for video playback. While Hanvon Technology plans to use the screens in its upcoming M10C II tablet in China, other major e-reader manufacturers like Kobo and Amazon have not yet scheduled hardware updates featuring the new technology.</p><hr/><small>15 Oct 2026, 23:41 UTC | #24422</small>]]></content>
+  </entry>
   <entry>
     <title>Sony Launches Three New Android-Powered Walkman Music Players</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-15/sony-debuts-5-900-gold-plated-walkman-music-player-for-enthusiasts" rel="alternate" />
