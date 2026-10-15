@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T20:57:00+00:00</updated>
+  <updated>2026-10-14T20:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>OpenCode Releases Version 2.0 with New API and Code Mode</title>
+    <link href="https://anoma.ly/notes/opencode-2-0/" rel="alternate" />
+    <id>https://anoma.ly/notes/opencode-2-0/::v239</id>
+    <published>2026-10-14T20:59:00+00:00</published>
+    <updated>2026-10-14T20:59:00+00:00</updated>
+    <media:thumbnail url="https://pic1.zhimg.com/v2-a7bdf53f6e285ca2e19f5897eae3779a_r.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://anoma.ly/notes/opencode-2-0/">anoma.ly</a> | <a href="https://news.ycombinator.com/item?id=50094994">hacker news</a></small></p><hr/><p>OpenCode 2.0 introduces a major overhaul of the AI coding agent, transitioning to an automatic client/server model where the server runs as a background process. The update features a rewritten API, a "Code Mode" that includes a minimal JavaScript interpreter to execute MCP servers and OpenAPI endpoints, and support for background tasks like subagents and asynchronous shell commands.</p><p>The release also expands the plugin system to over 80 internal plugins and provides a new SDK for integrating OpenCode as a library. Users can upgrade via the command line or by downloading the latest desktop application.</p><p><img src="https://pic1.zhimg.com/v2-a7bdf53f6e285ca2e19f5897eae3779a_r.jpg" /></p><hr/><small>15 Oct 2026, 00:34 UTC | #24337</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic's Scion Design Uses Concepts Similar to Meta's Mononoke</title>
     <link href="https://sunshowers.io/posts/anthropic-mononoke/" rel="alternate" />
@@ -976,22 +985,5 @@
     <published>2026-10-10T01:11:00+00:00</published>
     <updated>2026-10-10T01:11:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/">krebsonsecurity.com</a> | <a href="https://www.courtlistener.com/docket/74942095/united-states-v-dobrovsky/">source</a> | <a href="https://news.ycombinator.com/item?id=50029202">hacker news</a></small></p><hr/><p>Federal agents have arrested Edward Dubrovsky, co-founder of the security firm Cypfer, in Pennsylvania on charges of conspiracy and extortion. The arrest is part of a federal investigation into the ShinyHunters hacking group, which recently compromised sensitive data from an FBI recruitment portal.</p><p>ShinyHunters has extorted over $70 million from various victims this year, typically using phishing and stolen credentials to target SaaS companies. Law enforcement has also apprehended other individuals in connection with the group, including Pepijn van der Stap and Saif Al-din Khader.</p><hr/><small>10 Oct 2026, 08:15 UTC | #23843</small>]]></content>
-  </entry>
-  <entry>
-    <title>LLVM Compiles Branch-Free Code into Branches on RISC-V</title>
-    <link href="https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/" rel="alternate" />
-    <id>https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/::v239</id>
-    <published>2026-10-10T00:41:00+00:00</published>
-    <updated>2026-10-10T00:41:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/">00f.net</a> | <a href="https://lobste.rs/s/dsbt5a/branches_branch_free_code">discussion</a></small></p><hr/><p>LLVM's optimization of branch-free code for RISC-V can introduce conditional branches, even when developers use bitwise logic in C, Rust, or Zig to ensure constant-time execution. This phenomenon is particularly common in 128-bit integer addition and bitwise selection on 32-bit RISC-V, where the lack of native conditional move instructions often forces the compiler to use jumps.</p><p>Such branches can create timing side-channels in cryptographic implementations, undermining security guarantees. While the RISC-V `Zicond` extension provides instructions like `czero.eqz` to facilitate branchless selection, many existing microcontrollers lack this hardware support. Although GCC has demonstrated the ability to emit branchless code for similar operations on some RISC-V targets, LLVM's behavior remains inconsistent across different versions and optimization levels.</p><hr/><small>10 Oct 2026, 06:00 UTC | #23852</small>]]></content>
-  </entry>
-  <entry>
-    <title>REA Enables AI Coding Agents to Perform Software Reverse Engineering</title>
-    <link href="https://rea.tools/" rel="alternate" />
-    <id>https://rea.tools/::v239</id>
-    <published>2026-10-10T00:38:00+00:00</published>
-    <updated>2026-10-10T00:38:00+00:00</updated>
-    <media:thumbnail url="https://www.apriorit.com/wp-content/uploads/2021/06/1-2.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://rea.tools/">rea.tools</a> | <a href="https://news.ycombinator.com/item?id=50028275">hacker news</a></small></p><hr/><p>REA provides AI agents with the data required to inspect software by returning decompiled code, function analysis, and instruction sets. These outputs enable models to explain complex logic, identify specific execution branches, and reconstruct program features using natural language commands.</p><p>Supported environments include native binaries, JavaScript/Electron applications, and real-time browser or process activity. The tool can be integrated into workflows via npm to perform tasks such as mapping module dependencies or reconstructing software rules from running executables.</p><p><img src="https://www.apriorit.com/wp-content/uploads/2021/06/1-2.jpg" /></p><hr/><small>10 Oct 2026, 05:34 UTC | #23850</small>]]></content>
   </entry>
 </feed>
