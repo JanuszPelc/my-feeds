@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-15T09:17:00+00:00</updated>
+  <updated>2026-10-15T09:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Plugin Boutique Launches Tiered Membership Program</title>
+    <link href="https://musictech.com/news/gear/plugin-boutique-membership/" rel="alternate" />
+    <id>https://musictech.com/news/gear/plugin-boutique-membership/::v239</id>
+    <published>2026-10-15T09:42:00+00:00</published>
+    <updated>2026-10-15T09:42:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Plugin-Boutique-Membership-hero@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/plugin-boutique-membership/">musictech.com</a> | <a href="https://www.pluginboutique.com/membership">source</a></small></p><hr/><p>Plugin Boutique has launched a tiered membership program that rewards users based on their total spending over the preceding 12 months. The program consists of three levels: the Member tier, providing 5% Virtual Cash and access to free plugins; the Silver tier, unlocked by $100 in spending, which adds creator perks and industry benefits; and the Gold tier, unlocked by $200 in spending, which provides 7.5% Virtual Cash and a free mystery plugin every month.</p><p>This loyalty program replaces the company's previous Reward Tokens system. Because tier status is calculated based on the prior year's activity, customers who have already met the spending thresholds are eligible for the Silver or Gold tiers immediately upon enrollment.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Plugin-Boutique-Membership-hero@2000x1500.jpg" /></p><hr/><small>15 Oct 2026, 14:55 UTC | #24365</small>]]></content>
+  </entry>
   <entry>
     <title>Squaremoss Plugins Releases Canopy Plate Reverb</title>
     <link href="https://www.kvraudio.com/news/squaremoss-plugins-releases-canopy-dattorro-style-plate-reverb-with-saturation-and-ducking-69126?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69126" rel="alternate" />
