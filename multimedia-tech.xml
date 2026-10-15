@@ -3,9 +3,17 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-15T01:31:00+00:00</updated>
+  <updated>2026-10-15T13:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>decomp.dev Disables Main Index and New Project Tracking</title>
+    <link href="https://decomp.dev/" rel="alternate" />
+    <id>https://decomp.dev/::v239</id>
+    <published>2026-10-15T13:28:00+00:00</published>
+    <updated>2026-10-15T13:28:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://decomp.dev/">decomp.dev</a> | <a href="https://lobste.rs/s/kaerns/sunsetting_decomp_dev">discussion</a> | <a href="https://news.ycombinator.com/item?id=50097177">hacker news</a></small></p><hr/><p>decomp.dev, a platform launched in 2024 to track matching decompilation progress, is disabling its main index and the ability to add new projects. While the site will continue to host historical data and individual project pages, it will no longer serve as a centralized aggregator or public leaderboard for active efforts.</p><p>The decision stems from the impact of advanced AI models on the decompilation community. The site's creator, @encounter, cites the rise of low-effort, hostile forks of existing projects and the "racing" of unrefined ports by actors utilizing AI as primary drivers. These trends have reportedly led to a conflation of research-focused decompilation with superficial game porting, which the developer argues undermines the community's focus on understanding original source code.</p><hr/><small>15 Oct 2026, 16:51 UTC | #24415</small>]]></content>
+  </entry>
   <entry>
     <title>Ubisoft to Close RedLynx Studio and Downsize Ubisoft Singapore</title>
     <link href="https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore" rel="alternate" />

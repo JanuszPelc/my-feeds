@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-15T08:10:00+00:00</updated>
+  <updated>2026-10-15T13:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google DeepMind Introduces Gemini 4 Argon for Robotics</title>
+    <link href="https://developers.googleblog.com/gemini-4-argon-for-robotics/" rel="alternate" />
+    <id>https://developers.googleblog.com/gemini-4-argon-for-robotics/::v239</id>
+    <published>2026-10-15T13:09:00+00:00</published>
+    <updated>2026-10-15T13:09:00+00:00</updated>
+    <media:thumbnail url="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://developers.googleblog.com/gemini-4-argon-for-robotics/">developers.googleblog.com</a> | <a href="https://news.ycombinator.com/item?id=50074869">hacker news</a></small></p><hr/><p>Google DeepMind has introduced Gemini 4 Argon, a frontier model designed for physical reasoning, code generation, and visual-semantic reasoning. The model achieved an 87% score on the Embodied Reasoning (ERQA) benchmark, which evaluates a model's ability to solve spatial and physical problems in 3D environments.</p><p>Argon enables various robotics workflows, including zero-shot robot control, the construction of simulation twins (Real2Sim) from video or sketches, and automated hindsight labeling for task analysis. These capabilities facilitate closed-loop interaction with video world models and allow for iterative self-improvement through simulation and hardware testing.</p><p><img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gemini-4-argon__benchmark__robotics.original.jpg" /></p><hr/><small>15 Oct 2026, 16:49 UTC | #24421</small>]]></content>
+  </entry>
   <entry>
     <title>Liquid AI Releases LFM2.5-24B-A2B Reasoning Model</title>
     <link href="https://www.liquid.ai/blog/lfm2-5-24b-a2b" rel="alternate" />
