@@ -829,21 +829,4 @@
     <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/">techcrunch.com</a> | <a href="https://x.com/satyanadella/status/2108931348857827686">source</a></small></p><hr/><p>Microsoft CEO Satya Nadella has proposed a new "trust architecture" for AI that includes "emergency brakes" to ensure model containment. He argues for separating AI models from the orchestration layers that manage them and requires that all significant model actions be documented with tamper-proof, human-readable evidence. Under this framework, authorized personnel would have the ability to pause or shut down a model mid-task to mitigate risks if the system is compromised.</p><p>The proposal comes as major AI companies address incidents where they have lost control of their models, following similar calls for cautious development from other industry figures like Anthropic CEO Dario Amodei. The suggested approach emphasizes a proactive containment strategy, assuming that advanced models will require standardized technologies to manage their actions and safety.</p><p><img src="https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000" /></p><hr/><small>11 Oct 2026, 02:58 UTC | #23898</small>]]></content>
   </entry>
-  <entry>
-    <title>DJI and Insta360 Lead Smart Camera Market as GoPro's Share Falls</title>
-    <link href="https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659" rel="alternate" />
-    <id>https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659::v239</id>
-    <published>2026-10-10T19:54:00+00:00</published>
-    <updated>2026-10-10T19:54:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/b2730098-0767-401f-99b5-a53bd27bd659">ft.com</a></small></p><hr/><p>DJI and Insta360 accounted for 93% of the global smart camera market in Q2, with DJI holding 73% and Insta360 holding 20%. The two companies are currently competing to become the world's top smart camera manufacturer.</p><p>This shift coincides with GoPro's market share falling to 3%. According to IDC, the intense competition between the two Shenzhen-based firms is reshaping the global industry.</p><hr/><small>11 Oct 2026, 01:56 UTC | #23888</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Discloses Hire-and-License Deal with Huxe</title>
-    <link href="https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/::v239</id>
-    <published>2026-10-10T19:51:00+00:00</published>
-    <updated>2026-10-10T19:51:00+00:00</updated>
-    <media:thumbnail url="https://www.libertify.com/wp-content/uploads/2026/03/eu-digital-markets-act-og.png" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/">techcrunch.com</a></small></p><hr/><p>Apple has agreed to hire employees from personalized audio startup Huxe and secure a non-exclusive license to its intellectual property. The deal, a "reverse acqui-hire" revealed in a regulatory filing to the European Commission, follows Huxe's decision to shut down its service and remove its application from app stores.</p><p>Huxe's founders were former developers of Google’s NotebookLM. This strategic arrangement enables Apple to acquire AI talent and technology—possibly for its Podcasts app—while avoiding the full acquisition scrutiny typically triggered by major mergers.</p><p><img src="https://www.libertify.com/wp-content/uploads/2026/03/eu-digital-markets-act-og.png" /></p><hr/><small>11 Oct 2026, 01:00 UTC | #23894</small>]]></content>
-  </entry>
 </feed>
