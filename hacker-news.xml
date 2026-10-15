@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-15T01:05:00+00:00</updated>
+  <updated>2026-10-15T04:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Trail of Bits Research Finds Many Package Managers Lack Integrity Verification</title>
+    <link href="https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/" rel="alternate" />
+    <id>https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/::v239</id>
+    <published>2026-10-15T04:33:00+00:00</published>
+    <updated>2026-10-15T04:33:00+00:00</updated>
+    <media:thumbnail url="https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/package-manager-integrity-banner-figure-1_hu_c095267cc912b4da.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/">blog.trailofbits.com</a> | <a href="https://lobste.rs/s/lmx2hi/package_managers_have_integrity_problem">discussion</a></small></p><hr/><p>An investigation of 25 popular package managers found that most fail to detect malicious code injection from compromised repositories. Specifically, fewer than half use lockfiles for tampering detection by default, and only two—Go and vcpkg—perform full integrity verification for every downloaded package.</p><p>While cryptographic hashes and signatures can mitigate these risks, many implementations require manual configuration or lack robust verification. The research suggests that as developers become harder to compromise, attackers may shift focus toward the package repositories themselves.</p><p><img src="https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/package-manager-integrity-banner-figure-1_hu_c095267cc912b4da.webp" /></p><hr/><small>15 Oct 2026, 10:04 UTC | #24366</small>]]></content>
+  </entry>
   <entry>
     <title>Tiny Little Office Productivity Suite Uses Document-Centric Linking</title>
     <link href="https://tinylittleoffice.com/" rel="alternate" />
