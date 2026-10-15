@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-15T14:50:00+00:00</updated>
+  <updated>2026-10-15T16:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Steam Update Outperforms Epic Games' New Preview Launcher in Boot Speed</title>
+    <link href="https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/" rel="alternate" />
+    <id>https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/::v239</id>
+    <published>2026-10-15T16:22:00+00:00</published>
+    <updated>2026-10-15T16:22:00+00:00</updated>
+    <media:thumbnail url="https://respawnfirst.com/wp-content/uploads/2026/10/New-Steam-update.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/">respawnfirst.com</a> | <a href="https://store.epicgames.com/news/epic-games-launcher-preview">source</a> | <a href="https://news.ycombinator.com/item?id=50105635">hacker news</a></small></p><hr/><p>Steam has released a client update that improves startup speed, outperforming the newly released Epic Games Launcher V2 (Preview) in cold boot benchmarks. Following Epic's announcement of a faster, AI-assisted launcher, Valve's latest patch achieved a startup time of approximately 5.23 seconds, surpassing Epic's ~5.47 seconds.</p><p>While Epic's new launcher marks a significant performance improvement over its predecessor, it still lacks various community and utility features present in Steam, including discussion forums, user reviews, and a workshop-style mod hub. The rapid response from Valve highlights the ongoing competition between the two major digital distribution platforms.</p><p><img src="https://respawnfirst.com/wp-content/uploads/2026/10/New-Steam-update.webp" /></p><hr/><small>15 Oct 2026, 22:16 UTC | #24457</small>]]></content>
+  </entry>
   <entry>
     <title>Caves of Qud: Diaspora to Launch as Steam's First Early Access DLC</title>
     <link href="https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam" rel="alternate" />

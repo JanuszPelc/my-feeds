@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-15T16:16:00+00:00</updated>
+  <updated>2026-10-15T17:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>UJAM Releases Beatmaker and Usynth BOUNCE Plugins</title>
+    <link href="https://www.kvraudio.com/news/ujam-releases-beatmaker-bounce-and-usynth-bounce---y2k-inspired-drums-and-synth-sounds-69139?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69139" rel="alternate" />
+    <id>https://www.kvraudio.com/news/ujam-releases-beatmaker-bounce-and-usynth-bounce---y2k-inspired-drums-and-synth-sounds-69139?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69139::v239</id>
+    <published>2026-10-15T17:09:00+00:00</published>
+    <updated>2026-10-15T17:09:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/bm20bounce20ui20screenshot.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ujam-releases-beatmaker-bounce-and-usynth-bounce---y2k-inspired-drums-and-synth-sounds-69139?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69139">kvraudio.com</a> | <a href="https://ujam.hummingbirdmedia.com/ujam-introduces-beatmaker-bounce-and-usynth-bounce-for-y2k-inspired-rb-hip-hop-and-club-music">source</a></small></p><hr/><p>UJAM has released Beatmaker BOUNCE and Usynth BOUNCE, two plugins inspired by late-'90s and early-2000s R&amp;B, hip-hop, and club music. Beatmaker BOUNCE features MPC-inspired drum kits and various rhythmic styles, while Usynth BOUNCE provides synthesizer patches, a built-in sequencer/arpeggiator, and a multi-effects processor.</p><p>The plugins are available for macOS and Windows in VST2, VST3, AU2, and AAX formats. They are available for purchase individually or as a bundle, with introductory pricing offered through November 15, 2026.</p><p><img src="https://static.kvraudio.com/i/b/bm20bounce20ui20screenshot.jpg" /></p><hr/><small>15 Oct 2026, 22:18 UTC | #24426</small>]]></content>
+  </entry>
   <entry>
     <title>Push and Groove Releases MICRONIX Free Software Synthesizer</title>
     <link href="https://bedroomproducersblog.com/2026/10/15/push-and-groove-micronix/" rel="alternate" />
