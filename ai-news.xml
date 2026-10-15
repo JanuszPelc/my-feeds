@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-15T04:43:00+00:00</updated>
+  <updated>2026-10-15T04:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Bloomberg Expands ASKB Conversational AI Access to All Terminal Users</title>
+    <link href="https://www.wsj.com/cio-journal/bloomberg-doubles-down-on-conversational-ai-55f47c94?st=e4Ldue&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/cio-journal/bloomberg-doubles-down-on-conversational-ai-55f47c94?st=e4Ldue&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-10-15T04:46:00+00:00</published>
+    <updated>2026-10-15T04:46:00+00:00</updated>
+    <media:thumbnail url="https://media.wired.com/photos/69e8f8b80a0e9a68acb2cc2c/191:100/w_1280,c_limit/Bloomberg-Overhauls-Terminal-With-AI-Business-AP-22088642035693.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/cio-journal/bloomberg-doubles-down-on-conversational-ai-55f47c94?st=e4Ldue&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.bloomberg.com/professional/insights/press-announcement/bloomberg-unveils-askb-roadmap-for-clients-to-augment-their-investment-process-with-agentic-ai/">source</a></small></p><hr/><p>Bloomberg is making its ASKB conversational AI interface available to all Terminal users, allowing them to integrate proprietary content with existing financial data. This feature enables users to supply the generative AI system with specific information to provide higher levels of context for their queries.</p><p>The expansion is part of Bloomberg's introduction of agentic AI to the Terminal to assist in augmenting the investment process. The interface is designed to help financial professionals perform more complex tasks by blending user-specific datasets with the platform's standard financial tools.</p><p><img src="https://media.wired.com/photos/69e8f8b80a0e9a68acb2cc2c/191:100/w_1280,c_limit/Bloomberg-Overhauls-Terminal-With-AI-Business-AP-22088642035693.jpg" /></p><hr/><small>15 Oct 2026, 11:51 UTC | #24354</small>]]></content>
+  </entry>
   <entry>
     <title>TypeSafe AI Releases Jev 1.14.0 with Experimental Features</title>
     <link href="https://typesafe.ai/blog/jev-1-14" rel="alternate" />
