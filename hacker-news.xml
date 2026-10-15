@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-15T16:19:00+00:00</updated>
+  <updated>2026-10-15T18:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Sony Launches Three New Android-Powered Walkman Music Players</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-15/sony-debuts-5-900-gold-plated-walkman-music-player-for-enthusiasts" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-15/sony-debuts-5-900-gold-plated-walkman-music-player-for-enthusiasts::v239</id>
+    <published>2026-10-15T18:02:00+00:00</published>
+    <updated>2026-10-15T18:02:00+00:00</updated>
+    <media:thumbnail url="https://www.ecoustics.com/wp-content/uploads/sony-walkman-wm1zm3-dap.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-15/sony-debuts-5-900-gold-plated-walkman-music-player-for-enthusiasts">bloomberg.com</a> | <a href="https://www.prnewswire.com/news-releases/sony-electronics-updates-its-premium-walkman-lineup-including-new-signature-series-walkman-nw-wm1zm3-nw-wm1am3-and-nw-zx900-digital-media-players-302909288.html">source</a></small></p><hr/><p>The NW-WM1ZM3, NW-WM1AM3, and NW-ZX900 digital music players, running on Android, have been introduced by Sony Group Corp. Prices for the trio range from $1,900 to $5,900, including a gold-plated flagship model for audiophiles.</p><p>This release is the first new hardware under the Walkman brand in several years. The new Signature Series devices feature upgraded hardware and software designed to enhance the high-fidelity portable audio experience.</p><p><img src="https://www.ecoustics.com/wp-content/uploads/sony-walkman-wm1zm3-dap.jpg" /></p><hr/><small>15 Oct 2026, 23:26 UTC | #24420</small>]]></content>
+  </entry>
   <entry>
     <title>Spritely Institute Announces End-to-End Encrypted Relays for OCapN</title>
     <link href="https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html" rel="alternate" />

@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-15T16:10:00+00:00</updated>
+  <updated>2026-10-15T18:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Nvidia Launches Nemotron 3.5 Super VL Open Multimodal Model</title>
+    <link href="https://venturebeat.com/technology/nvidias-new-open-nemotron-3-5-super-vl-with-post-training-beats-claude-opus-5-gpt-6-1-sol-on-specialized-task-benchmarks" rel="alternate" />
+    <id>https://venturebeat.com/technology/nvidias-new-open-nemotron-3-5-super-vl-with-post-training-beats-claude-opus-5-gpt-6-1-sol-on-specialized-task-benchmarks::v239</id>
+    <published>2026-10-15T18:03:00+00:00</published>
+    <updated>2026-10-15T18:03:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://venturebeat.com/technology/nvidias-new-open-nemotron-3-5-super-vl-with-post-training-beats-claude-opus-5-gpt-6-1-sol-on-specialized-task-benchmarks">venturebeat.com</a> | <a href="https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/">source</a></small></p><hr/><p>Nvidia's Nemotron 3.5 Super VL is a 120-billion-parameter open multimodal model designed for enterprise agents. The model utilizes a mixture-of-experts architecture that activates 12 billion parameters per token, allowing it to process text, images, charts, tables, and video.</p><p>Designed for "always-on" agentic workflows such as document analysis, the model is intended to assist with tasks like extracting figures from tables or interpreting charts. Nvidia claims the model outperforms several frontier models on specialized benchmarks for multimodal reasoning and tool-calling.</p><hr/><small>15 Oct 2026, 23:28 UTC | #24419</small>]]></content>
+  </entry>
   <entry>
     <title>Rivian to Integrate Third-Party AI Agents in Vehicles</title>
     <link href="https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/" rel="alternate" />
