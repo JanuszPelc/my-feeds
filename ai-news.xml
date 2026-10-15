@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-14T21:04:00+00:00</updated>
+  <updated>2026-10-14T21:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Apple to Launch Apple Intelligence in China in December</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjAwNzY0NCwiZXhwIjoxNzkyNjEyNDQ0LCJhcnRpY2xlSWQiOiJUTUdBOFFUOU5KTFowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.HDROoS_DNRHYtwQWhsk6q7q63Zk5pbbEc2DTPtAyjzI" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjAwNzY0NCwiZXhwIjoxNzkyNjEyNDQ0LCJhcnRpY2xlSWQiOiJUTUdBOFFUOU5KTFowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.HDROoS_DNRHYtwQWhsk6q7q63Zk5pbbEc2DTPtAyjzI::v239</id>
+    <published>2026-10-14T21:32:00+00:00</published>
+    <updated>2026-10-14T21:32:00+00:00</updated>
+    <media:thumbnail url="https://www.digitaltrends.com/tachyon/2026/03/apple-intelligence.jpg?resize=430,258" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjAwNzY0NCwiZXhwIjoxNzkyNjEyNDQ0LCJhcnRpY2xlSWQiOiJUTUdBOFFUOU5KTFowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.HDROoS_DNRHYtwQWhsk6q7q63Zk5pbbEc2DTPtAyjzI">bloomberg.com</a></small></p><hr/><p>Apple plans to debut its Apple Intelligence platform in mainland China this December through an iOS 27.3 update. This release follows a period of regulatory delays in the region regarding generative AI technologies.</p><p>The upcoming rollout is expected to include several AI features but will reportedly exclude Siri AI capabilities.</p><p><img src="https://www.digitaltrends.com/tachyon/2026/03/apple-intelligence.jpg?resize=430,258" /></p><hr/><small>15 Oct 2026, 03:11 UTC | #24318</small>]]></content>
+  </entry>
   <entry>
     <title>xAI Announces Grok Voice 3.0 Speech-to-Speech Model</title>
     <link href="https://x.ai/news/grok-voice-3" rel="alternate" />
