@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T02:21:00+00:00</updated>
+  <updated>2026-10-15T04:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>SK Hynix Conditions US Factory on China Equipment Exports</title>
+    <link href="https://www.reuters.com/world/asia-pacific/sk-hynix-conditions-new-us-factory-more-us-chip-equipment-exports-china-sources-2026-10-15/" rel="alternate" />
+    <id>https://www.reuters.com/world/asia-pacific/sk-hynix-conditions-new-us-factory-more-us-chip-equipment-exports-china-sources-2026-10-15/::v239</id>
+    <published>2026-10-15T04:36:00+00:00</published>
+    <updated>2026-10-15T04:36:00+00:00</updated>
+    <media:thumbnail url="https://d21buns5ku92am.cloudfront.net/69634/images/664702-Solidigm+Lab+04-5316aa-original-1775070037.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/sk-hynix-conditions-new-us-factory-more-us-chip-equipment-exports-china-sources-2026-10-15/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50098326">hacker news</a></small></p><hr/><p>SK Hynix's US subsidiary, Solidigm, is seeking Washington's approval to export semiconductor manufacturing equipment to its Dalian, China, plant to increase production. The company is making the acquisition of these licenses a requirement for its proposed construction of a new factory in the United States.</p><p>Solidigm currently conducts all of its NAND flash memory production at the Dalian site, leaving operations vulnerable to US-China trade restrictions and export curbs. Establishing a US manufacturing base would reduce this dependency and diversify the company's production footprint.</p><p><img src="https://d21buns5ku92am.cloudfront.net/69634/images/664702-Solidigm+Lab+04-5316aa-original-1775070037.jpg" /></p><hr/><small>15 Oct 2026, 10:38 UTC | #24345</small>]]></content>
+  </entry>
   <entry>
     <title>Senate Finance Committee Questions Meta's $6.6 Billion in AI-Related Tax Credits</title>
     <link href="https://www.nytimes.com/2026/10/14/technology/meta-senators-tax-avoidance.html?unlocked_article_code=1.IlE.Gkw-.0m7Ysg2gq-KZ&amp;smid=url-share" rel="alternate" />

@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-15T04:33:00+00:00</updated>
+  <updated>2026-10-15T04:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Microsoft and Partners Dismantle Chinese-Language Phishing Kit Ecosystem</title>
+    <link href="https://cyberscoop.com/microsoft-disrupts-chinese-language-phishing-kit-ecosystem/" rel="alternate" />
+    <id>https://cyberscoop.com/microsoft-disrupts-chinese-language-phishing-kit-ecosystem/::v239</id>
+    <published>2026-10-15T04:37:00+00:00</published>
+    <updated>2026-10-15T04:37:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://cyberscoop.com/microsoft-disrupts-chinese-language-phishing-kit-ecosystem/">cyberscoop.com</a> | <a href="https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/">source</a></small></p><hr/><p>A Chinese-language cybercrime ecosystem known as Storm-2990, which provided specialized phishing kits and infrastructure, has been dismantled by Microsoft, Japanese authorities, and Health-ISAC. The network, involving services such as YAM Store, CoGUI, and Iron Man, delivered over 1 billion malicious messages to more than 75,000 organizations globally.</p><p>Targeting sectors like healthcare, finance, and logistics, the kits were used for credential theft and financial fraud through brand impersonation. The disruption included the seizure of numerous domains and the disabling of over 20,000 accounts used by the threat actors.</p><hr/><small>15 Oct 2026, 10:39 UTC | #24349</small>]]></content>
+  </entry>
   <entry>
     <title>Trail of Bits Research Finds Many Package Managers Lack Integrity Verification</title>
     <link href="https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/" rel="alternate" />
