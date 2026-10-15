@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-15T04:31:00+00:00</updated>
+  <updated>2026-10-15T04:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>TypeSafe AI Releases Jev 1.14.0 with Experimental Features</title>
+    <link href="https://typesafe.ai/blog/jev-1-14" rel="alternate" />
+    <id>https://typesafe.ai/blog/jev-1-14::v239</id>
+    <published>2026-10-15T04:43:00+00:00</published>
+    <updated>2026-10-15T04:43:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://typesafe.ai/blog/jev-1-14">typesafe.ai</a> | <a href="https://news.ycombinator.com/item?id=50095353">hacker news</a></small></p><hr/><p>TypeSafe AI has announced Jev 1.14.0, a preview update to its decision-focused AI model. The release includes several "danger zone" experimental features, including multimodal image support via the `assets` interface, a new `box` data type for returning bounding boxes, and access to expanded context lengths. The update also improves multilingual support and introduces an opt-in feature to assist the company in debugging model performance through user queries.</p><p>These experimental capabilities are intended for creative experimentation and are not currently vetted for production-grade reliability. Additionally, TypeSafe AI is introducing a proprietary method for measuring model intelligence, utilizing a selection of open-weight models to provide developers with relative performance rankings.</p><hr/><small>15 Oct 2026, 11:20 UTC | #24378</small>]]></content>
+  </entry>
   <entry>
     <title>Figma Unveils Markdown-Based Specs and Code Layers Public Beta</title>
     <link href="https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/" rel="alternate" />
