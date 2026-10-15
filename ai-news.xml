@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-15T01:02:00+00:00</updated>
+  <updated>2026-10-15T04:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Figma Unveils Markdown-Based Specs and Code Layers Public Beta</title>
+    <link href="https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/::v239</id>
+    <published>2026-10-15T04:31:00+00:00</published>
+    <updated>2026-10-15T04:31:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Design-systems_hero.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/">techcrunch.com</a></small></p><hr/><p>Figma has introduced "Figma Specs," a Markdown-based editor designed to define design language and provide a reference for both human teams and AI agents. Announced during the company's first Config event in India, the tool allows users to embed FigJam diagrams, code layers, and design elements to ensure agents adhere to specific brand rules and guidelines.</p><p>The company is also moving its Code Layers feature into public beta, enabling users to convert designs into code or use an agent to iterate on interactive prototypes. Additionally, Figma is integrating the Payload headless CMS with its Figma Make product to facilitate the generation of dynamic websites and content management.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Design-systems_hero.png" /></p><hr/><small>15 Oct 2026, 09:36 UTC | #24352</small>]]></content>
+  </entry>
   <entry>
     <title>Ricursive Intelligence Aims to Solve the Compute Crisis with AI-Designed Chips</title>
     <link href="https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/" rel="alternate" />
