@@ -3,9 +3,35 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-15T12:59:00+00:00</updated>
+  <updated>2026-10-15T13:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rigged Draw Web Experiment Tests Human Randomness</title>
+    <link href="https://lab.specr.net/rigged-draw/" rel="alternate" />
+    <id>https://lab.specr.net/rigged-draw/::v239</id>
+    <published>2026-10-15T13:39:00+00:00</published>
+    <updated>2026-10-15T13:39:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lab.specr.net/rigged-draw/">lab.specr.net</a> | <a href="https://news.ycombinator.com/item?id=50074909">hacker news</a></small></p><hr/><p>Rigged Draw is an interactive web experiment that evaluates a user's ability to generate random number sequences. As participants say numbers out loud, a browser-based predictor makes simultaneous guesses, and a digital split-flap board displays how closely the human input aligns with chance.</p><p>The experiment highlights the discrepancy between human-perceived randomness and mathematical probability. By comparing spontaneous verbal input to algorithmic predictions, the tool illustrates the cognitive patterns and biases that occur when individuals attempt to act truly randomly.</p><hr/><small>15 Oct 2026, 17:25 UTC | #24424</small>]]></content>
+  </entry>
+  <entry>
+    <title>DEsk Wayland Desktop Environment Released in Beta</title>
+    <link href="https://github.com/fyzugx/DEsk" rel="alternate" />
+    <id>https://github.com/fyzugx/DEsk::v239</id>
+    <published>2026-10-15T13:38:00+00:00</published>
+    <updated>2026-10-15T13:38:00+00:00</updated>
+    <media:thumbnail url="https://github.com/fyzugx/DEsk/raw/main/docs/screenshots/desk.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/fyzugx/DEsk">github.com</a> | <a href="https://news.ycombinator.com/item?id=50103338">hacker news</a></small></p><hr/><p>DEsk is a Wayland-based desktop environment for Linux that uses skeuomorphic design to represent the user interface as a physical desk. Functional elements are rendered as real-world objects, such as windows appearing as paper sheets, a drawer serving as the dock, and a bookshelf for managing applications.</p><p>The environment uses GPU ray-tracing to create realistic lighting and shadows within the simulated workspace. The project is currently in beta and provides installation support for Debian, Ubuntu, Arch Linux, and Fedora.</p><p><img src="https://github.com/fyzugx/DEsk/raw/main/docs/screenshots/desk.jpg" /></p><hr/><small>15 Oct 2026, 17:22 UTC | #24423</small>]]></content>
+  </entry>
+  <entry>
+    <title>Amazon's Bee Unveils New AI Wearable and Smartphone Attachment</title>
+    <link href="https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/::v239</id>
+    <published>2026-10-15T13:36:00+00:00</published>
+    <updated>2026-10-15T13:36:00+00:00</updated>
+    <media:thumbnail url="https://assets.aboutamazon.com/dims4/default/0718ca0/2147483647/strip/true/crop/1600x900+0+0/resize/1320x743!/quality/90/?url=https://assets.aboutamazon.com/cc/48/44c86d444c879facc9fa2614ccbb/bee-frontier-bee-eclipse-inline-amazonnews-ck102426.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/">techcrunch.com</a> | <a href="https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse">source</a> | <a href="https://news.ycombinator.com/item?id=50102536">hacker news</a></small></p><hr/><p>The Bee Frontier is a wrist-worn or clip-on wearable priced at $74.99, and the Bee Eclipse is a magnetic smartphone attachment priced at $99.99. Both devices leverage AI to transcribe conversations and convert them into summaries, actionable to-dos, and calendar events.</p><p>A Bee Pro subscription is available for $11.99 per month, providing unlimited summaries and integrations with Alexa and Amazon.com. To address privacy concerns, the devices use a private computing architecture that processes audio in real time and deletes raw files, ensuring only user-controlled encrypted transcripts are stored.</p><p><img src="https://assets.aboutamazon.com/dims4/default/0718ca0/2147483647/strip/true/crop/1600x900+0+0/resize/1320x743!/quality/90/?url=https://assets.aboutamazon.com/cc/48/44c86d444c879facc9fa2614ccbb/bee-frontier-bee-eclipse-inline-amazonnews-ck102426.jpg" /></p><hr/><small>15 Oct 2026, 17:16 UTC | #24391</small>]]></content>
+  </entry>
   <entry>
     <title>Israeli Firm Uses Digital Ads to Deliver Zero-Click Spyware</title>
     <link href="https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say" rel="alternate" />
