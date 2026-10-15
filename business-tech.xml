@@ -3,9 +3,34 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T13:40:00+00:00</updated>
+  <updated>2026-10-15T13:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Bo Hines’s Consulting Firm Received Millions From Tether While Crafting Crypto Legislation</title>
+    <link href="https://www.wsj.com/politics/policy/crypto-law-trump-tether-bo-hines-45bcd95d?st=V9oLsY&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/politics/policy/crypto-law-trump-tether-bo-hines-45bcd95d?st=V9oLsY&amp;reflink=desktopwebshare_permalink::v239</id>
+    <published>2026-10-15T13:53:00+00:00</published>
+    <updated>2026-10-15T13:53:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/politics/policy/crypto-law-trump-tether-bo-hines-45bcd95d?st=V9oLsY&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Bo Hines held a 33% stake in the consulting firm Nxum while helping to craft the Genius Act, a crypto-friendly stablecoin law, during his tenure at the White House. During this period, Nxum received millions of dollars from the cryptocurrency company Tether.</p><p>Tether subsequently hired Hines as its U.S. chief after the legislation was passed. The timing of these payments has raised scrutiny regarding potential conflicts of interest between private consulting interests and federal policy development.</p><hr/><small>15 Oct 2026, 18:48 UTC | #24383</small>]]></content>
+  </entry>
+  <entry>
+    <title>FTC Issues Demands to OpenAI and Anthropic Over AI Safety and Consumer Protection</title>
+    <link href="https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation" rel="alternate" />
+    <id>https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation::v239</id>
+    <published>2026-10-15T13:51:00+00:00</published>
+    <updated>2026-10-15T13:51:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation">axios.com</a></small></p><hr/><p>The Federal Trade Commission (FTC) has issued approximately 50-page civil investigative demands to OpenAI and Anthropic. The probe centers on potential consumer protection violations involving AI safety incidents and safeguarding practices.</p><p>The investigation seeks to determine if the companies' products or business operations constitute unfair or deceptive practices under the FTC Act.</p><hr/><small>15 Oct 2026, 18:47 UTC | #24381</small>]]></content>
+  </entry>
+  <entry>
+    <title>AI Safety Warnings Argued to be Genuine Rather Than Corporate Strategy</title>
+    <link href="https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot" rel="alternate" />
+    <id>https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot::v239</id>
+    <published>2026-10-15T13:50:00+00:00</published>
+    <updated>2026-10-15T13:50:00+00:00</updated>
+    <media:thumbnail url="https://infofina.com/wp-content/uploads/2026/04/ai-extinction-risks-and-scenarios-576x1024.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot">astralcodexten.com</a> | <a href="https://news.ycombinator.com/item?id=50097957">hacker news</a></small></p><hr/><p>The article argues against the theory that AI companies use existential risk warnings as a strategic tool for stock inflation, distraction from near-term harms, or regulatory capture. The author asserts that these concerns are genuine, noting that many prominent researchers and industry leaders expressed existential concerns long before the emergence or dominance of current major AI firms.</p><p>The piece cites evidence from independent academic surveys, historical statements from figures such as Geoffrey Hinton and Yoshua Bengio, and the resignation of high-profile researchers to pursue safety-focused nonprofit work. It concludes that the "corporate plot" hypothesis would require an improbable degree of coordinated foresight and motivation among industry actors with often conflicting interests.</p><p><img src="https://infofina.com/wp-content/uploads/2026/04/ai-extinction-risks-and-scenarios-576x1024.jpg" /></p><hr/><small>15 Oct 2026, 18:45 UTC | #24379</small>]]></content>
+  </entry>
   <entry>
     <title>TSMC Requires Operational Control in Terafab Collaboration Talks</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-15/tsmc-open-to-working-with-terafab-but-must-control-plants" rel="alternate" />
