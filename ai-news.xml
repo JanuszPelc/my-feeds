@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-14T21:32:00+00:00</updated>
+  <updated>2026-10-15T00:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Gudea Uses AI to Track and Prevent Online Narrative Crises</title>
+    <link href="https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/::v239</id>
+    <published>2026-10-15T00:01:00+00:00</published>
+    <updated>2026-10-15T00:01:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/">techcrunch.com</a> | <a href="https://www.prnewswire.com/news-releases/gudea-closes-oversubscribed-7-million-seed-round-to-scale-ai-powered-narrative-intelligence-302903335.html">source</a></small></p><hr/><p>The platform monitors how stories and rumors travel across more than 500 mainstream and fringe platforms, including X, Reddit, and TikTok. Rather than simply tallying mentions or hashtags, the tool analyzes behavioral patterns and information pathways to provide context on narrative velocity and direction.</p><p>The startup, which recently secured $7 million in seed funding, aims to help organizations proactively identify inauthentic activity and protect brand reputations. Future development plans include geolocation features for identifying narrative origins at the city-block level and simulation tools to predict the impact of advertising campaigns.</p><hr/><small>15 Oct 2026, 05:04 UTC | #24336</small>]]></content>
+  </entry>
   <entry>
     <title>Apple to Launch Apple Intelligence in China in December</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjAwNzY0NCwiZXhwIjoxNzkyNjEyNDQ0LCJhcnRpY2xlSWQiOiJUTUdBOFFUOU5KTFowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.HDROoS_DNRHYtwQWhsk6q7q63Zk5pbbEc2DTPtAyjzI" rel="alternate" />
