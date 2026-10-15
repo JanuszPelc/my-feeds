@@ -147,12 +147,4 @@
     <media:thumbnail url="https://patkerr.co.uk/2d-vehicles/motion-lab-screenshot.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://patkerr.co.uk/2d-vehicles/">patkerr.co.uk</a> | <a href="https://lobste.rs/s/9ros7d/2d_physics_prototype_behind_gta_s">discussion</a> | <a href="https://news.ycombinator.com/item?id=49991852">hacker news</a></small></p><hr/><p>Programmer Pat Kerr has released a JavaScript recreation of the 2D physics simulation developed in 1996 that served as the basis for the vehicle systems in the original Grand Theft Auto. Titled "Motion Lab," the interactive demo allows users to test different dynamics through three modes: a car, a spaceship, and a brick.</p><p>The simulation utilizes 2D rigid body dynamics, including torques, to handle rotation and momentum more coherently than the simple point-physics models common in mid-1990s game development. To mimic the specific handling of early GTA vehicles, the model employs an approximate tyre resistance system to simulate lateral and longitudinal friction.</p><p><img src="https://patkerr.co.uk/2d-vehicles/motion-lab-screenshot.jpg" /></p><hr/><small>11 Oct 2026, 13:12 UTC | #23927</small>]]></content>
   </entry>
-  <entry>
-    <title>Discretionary Review San Francisco Housing Simulator</title>
-    <link href="https://housing.over.pizza/" rel="alternate" />
-    <id>https://housing.over.pizza/::v239</id>
-    <published>2026-10-10T21:50:00+00:00</published>
-    <updated>2026-10-10T21:50:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://housing.over.pizza/">housing.over.pizza</a> | <a href="https://news.ycombinator.com/item?id=50036864">hacker news</a></small></p><hr/><p>Oliver Sin has released "Discretionary Review," a city-building simulator focused on the complexities of developing housing in San Francisco. The game requires players to navigate the city's regulatory and land-use frameworks to address the local housing shortage.</p><p>The simulator was inspired by the real-world difficulty of finding housing in San Francisco. It explores how historical overregulation and land-use decisions have contributed to the city's current housing crisis.</p><hr/><small>11 Oct 2026, 03:12 UTC | #23904</small>]]></content>
-  </entry>
 </feed>

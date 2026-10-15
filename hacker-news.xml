@@ -1017,13 +1017,4 @@
     <updated>2026-10-11T00:47:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://wallhop.io/">wallhop.io</a> | <a href="https://news.ycombinator.com/item?id=50038634">hacker news</a></small></p><hr/><p>WallHop is a web utility designed to bypass website paywalls without requiring a user signup. Users can access content by pasting URLs, prefixing links with a forward slash, or using the service through an iPhone shortcut and a browser bookmarklet.</p><p>Developed as a replacement for the discontinued 12ft.io, the service also provides a "raw" mode and an API for direct content retrieval. The developer includes a disclaimer encouraging users to subscribe to the news sites they frequently visit to support journalism.</p><hr/><small>11 Oct 2026, 05:37 UTC | #23910</small>]]></content>
   </entry>
-  <entry>
-    <title>Android Vulnerability Enables 1-Click MMI Execution</title>
-    <link href="https://karansaini.com/mmi-android/" rel="alternate" />
-    <id>https://karansaini.com/mmi-android/::v239</id>
-    <published>2026-10-10T21:52:00+00:00</published>
-    <updated>2026-10-10T21:52:00+00:00</updated>
-    <media:thumbnail url="https://karansaini.com/media/call-phone-permission-dialog.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://karansaini.com/mmi-android/">karansaini.com</a> | <a href="https://lobste.rs/s/txa6dj/1_click_mmi_execution_android">discussion</a></small></p><hr/><p>Attackers can trigger Man-Machine Interface (MMI) and USSD codes on Android devices through a single tap on a malicious web page. By leveraging applications with the `CALL_PHONE` permission and accessible deeplinks, malicious sites can execute carrier-side commands such as unconditional call forwarding. This enables the interception of incoming calls, which can be used to bypass voice-based two-factor authentication.</p><p>A flaw in Android 17, tracked as CVE-2026-49881, allows unprivileged applications to bypass security checks by causing the system to lose the identity of the calling application. Changes to the Telecom service cause the originating process to appear as a privileged system component during a process hand-off. This simplifies the exploitation of MMI codes compared to earlier versions that required specific app vulnerabilities or complex payloads.</p><p><img src="https://karansaini.com/media/call-phone-permission-dialog.png" /></p><hr/><small>11 Oct 2026, 03:38 UTC | #23905</small>]]></content>
-  </entry>
 </feed>
