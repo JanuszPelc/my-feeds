@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T04:40:00+00:00</updated>
+  <updated>2026-10-15T04:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>ASML China Sales Increase 109% in Third Quarter</title>
+    <link href="https://www.scmp.com/tech/big-tech/article/3370904/asmls-chip-equipment-sales-china-soar-109-despite-us-export-curb-push" rel="alternate" />
+    <id>https://www.scmp.com/tech/big-tech/article/3370904/asmls-chip-equipment-sales-china-soar-109-despite-us-export-curb-push::v239</id>
+    <published>2026-10-15T04:44:00+00:00</published>
+    <updated>2026-10-15T04:44:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.scmp.com/tech/big-tech/article/3370904/asmls-chip-equipment-sales-china-soar-109-despite-us-export-curb-push">scmp.com</a> | <a href="https://investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026">source</a></small></p><hr/><p>ASML reported a 109% surge in sales to China during the third quarter of 2026, raising the country's share of the company's total machine sales to 23%, up from 14% in the previous quarter. The company expects China to account for approximately 20% of its total revenue for the full year.</p><p>The increase in shipments occurs as the Dutch government faces mounting pressure from the United States to implement stricter export restrictions on semiconductor manufacturing equipment.</p><hr/><small>15 Oct 2026, 11:36 UTC | #24353</small>]]></content>
+  </entry>
   <entry>
     <title>ByteDance in Talks to Purchase MediaTek AI Chips for Data Centers</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-15/bytedance-in-talks-to-secure-mediatek-ai-chips-for-data-centers" rel="alternate" />
