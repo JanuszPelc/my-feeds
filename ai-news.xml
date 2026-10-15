@@ -361,12 +361,4 @@
     <updated>2026-10-11T14:32:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arxiv.org/html/2610.05978v1">arxiv.org</a> | <a href="https://arxiv.org/abs/2610.05978">source</a> | <a href="https://lobste.rs/s/t2fxpt/byte_language_models_scaling_emergent">discussion</a></small></p><hr/><p>Byte-level language models that process text as raw bytes can outperform subword-based Transformers as model size scales when utilizing token-superposition training and hash embeddings. While the longer sequences increase computational requirements, they provide a beneficial increase in total computation per parameter, allowing the models to leverage larger training data volumes effectively.</p><p>These models develop implicit, internal text abstractions that function similarly to explicit tokenizers. These learned structures allow for more efficient speculative decoding, producing a higher rate of accepted tokens than subword models. Furthermore, byte-level representations improve performance in fine-grained tasks, including optical character recognition (OCR) and word manipulation.</p><hr/><small>11 Oct 2026, 17:39 UTC | #23946</small>]]></content>
   </entry>
-  <entry>
-    <title>Anthropic Secures $1.25 Billion Monthly SpaceX Compute Deal</title>
-    <link href="https://www.wsj.com/tech/ai/tom-brown-athropic-669005ad?st=dmPXhF&amp;reflink=article_copyURL_share" rel="alternate" />
-    <id>https://www.wsj.com/tech/ai/tom-brown-athropic-669005ad?st=dmPXhF&amp;reflink=article_copyURL_share::v239</id>
-    <published>2026-10-10T15:04:00+00:00</published>
-    <updated>2026-10-10T15:04:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/tom-brown-athropic-669005ad?st=dmPXhF&reflink=article_copyURL_share">wsj.com</a></small></p><hr/><p>Anthropic has brokered a $1.25 billion per month compute deal with SpaceX, gaining access to the Colossus GPU clusters. Anthropic compute chief Tom Brown reportedly leveraged political connections to resolve a standoff regarding model safety, facilitating the infrastructure agreement.</p><p>Disclosed in SpaceX's IPO filing, the contract provides Anthropic with dedicated access to over 200,000 NVIDIA GPUs through May 2029. The arrangement highlights the intense competition for specialized datacenter capacity and the escalating capital requirements for frontier AI development.</p><hr/><small>10 Oct 2026, 21:04 UTC | #23871</small>]]></content>
-  </entry>
 </feed>
