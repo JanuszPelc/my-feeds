@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-15T13:39:00+00:00</updated>
+  <updated>2026-10-15T13:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Petal Open Source Pair Programming Tool</title>
+    <link href="https://petal.live/" rel="alternate" />
+    <id>https://petal.live/::v239</id>
+    <published>2026-10-15T13:47:00+00:00</published>
+    <updated>2026-10-15T13:47:00+00:00</updated>
+    <media:thumbnail url="https://itchronicles.com/wp-content/uploads/2024/01/pair-programming.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://petal.live/">petal.live</a> | <a href="https://github.com/kiruna-labs/petal">source</a> | <a href="https://news.ycombinator.com/item?id=50092470">hacker news</a></small></p><hr/><p>Petal offers low-latency, high-resolution screensharing and remote control for collaborative coding. Shared windows function as native, resizable desktop windows rather than grid tiles, and the interface supports multiple users simultaneously via labeled cursors.</p><p>Deployment options include Petal Cloud for zero-configuration use via LiveKit infrastructure, a self-hosted model using Docker for increased data control, and a forkable version for full customization. The application is currently available for macOS and Windows, with Linux support planned for a future release.</p><p><img src="https://itchronicles.com/wp-content/uploads/2024/01/pair-programming.jpg" /></p><hr/><small>15 Oct 2026, 18:18 UTC | #24432</small>]]></content>
+  </entry>
   <entry>
     <title>Rigged Draw Web Experiment Tests Human Randomness</title>
     <link href="https://lab.specr.net/rigged-draw/" rel="alternate" />
