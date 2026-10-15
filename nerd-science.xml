@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-14T22:14:00+00:00</updated>
+  <updated>2026-10-15T01:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Alex Wennerberg Critiques Verbosity in Rationalist Blog Posts</title>
+    <link href="https://alexwennerberg.com/blog/2026-10-13-long.html" rel="alternate" />
+    <id>https://alexwennerberg.com/blog/2026-10-13-long.html::v239</id>
+    <published>2026-10-15T01:08:00+00:00</published>
+    <updated>2026-10-15T01:08:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://alexwennerberg.com/blog/2026-10-13-long.html">alexwennerberg.com</a> | <a href="https://news.ycombinator.com/item?id=50083028">hacker news</a></small></p><hr/><p>Rationalist bloggers often substitute extreme verbosity for actual thoroughness. High word counts in works by figures like Scott Alexander and Eliezer Yudkowsky are cited as evidence of a subculture that prioritizes exhaustive detail over the effective distillation of ideas.</p><p>This writing style lacks "wisdom," defined as the discretion to determine what is worth saying. The essay posits that a community bias toward unconventional, heterodox ideas causes writers to use volume as a proxy for importance, rather than valuing concise and effective communication.</p><hr/><small>15 Oct 2026, 07:09 UTC | #24362</small>]]></content>
+  </entry>
   <entry>
     <title>Americans' Participation in Social Activities Declined Between 1995 and 2026</title>
     <link href="https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years" rel="alternate" />
