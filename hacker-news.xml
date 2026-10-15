@@ -969,21 +969,4 @@
     <updated>2026-10-10T01:50:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://purplesyringa.moe/blog/vectorized-clz-and-ctz/">purplesyringa.moe</a> | <a href="https://lobste.rs/s/9xcc2g/vectorized_clz_ctz">discussion</a></small></p><hr/><p>The article describes techniques for implementing vectorized clz (count leading zeros) and ctz (count trailing zeros) using SIMD instructions. The primary implementation leverages floating-point exponent extraction to compute bit positions, utilizing the logarithmic relationship between an exponent and its value. An alternative approach for ctz is also presented, which uses de Bruijn sequences and a lookup table to increase throughput by navigating AVX lane limitations.</p><p>Performance tests on Intel Haswell and Alder Lake architectures show that these vectorized implementations can outperform scalar instructions, particularly in high-throughput scenarios. While the floating-point method is highly efficient, it is constrained by the bit-width of the floating-point format, whereas the de Bruijn method offers an alternative for workloads requiring higher instruction throughput.</p><hr/><small>10 Oct 2026, 09:11 UTC | #23861</small>]]></content>
   </entry>
-  <entry>
-    <title>Spinlocks and the Risks of Priority Inversion</title>
-    <link href="https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html" rel="alternate" />
-    <id>https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html::v239</id>
-    <published>2026-10-10T01:13:00+00:00</published>
-    <updated>2026-10-10T01:13:00+00:00</updated>
-    <media:thumbnail url="https://matklad.github.io/assets/priority-inversion.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html">matklad.github.io</a> | <a href="https://lobste.rs/s/8mj9bb/spinlocks_considered_harmful_2020">discussion</a></small></p><hr/><p>Replacing OS-based mutexes with spinlocks, particularly in `#[no_std]` environments, can lead to significant performance and stability issues. These include priority inversion, where high-priority threads spinning on a lock prevent a preempted low-priority lock-holder from regaining CPU time, and deadlocks that occur if an interrupt handler attempts to acquire a lock held by interrupted code.</p><p>A demonstration using the `getrandom` crate shows how priority inversion can increase execution times from milliseconds to minutes. Alternatives to spinlocks include using standard mutexes that incorporate an initial spinning period before blocking, delegating state management to the caller, or employing racy initialization techniques.</p><p><img src="https://matklad.github.io/assets/priority-inversion.png" /></p><hr/><small>10 Oct 2026, 08:29 UTC | #23859</small>]]></content>
-  </entry>
-  <entry>
-    <title>FBI Arrests Ransomware Negotiation Firm Co-Founder Edward Dubrovsky</title>
-    <link href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/" rel="alternate" />
-    <id>https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/::v239</id>
-    <published>2026-10-10T01:11:00+00:00</published>
-    <updated>2026-10-10T01:11:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/">krebsonsecurity.com</a> | <a href="https://www.courtlistener.com/docket/74942095/united-states-v-dobrovsky/">source</a> | <a href="https://news.ycombinator.com/item?id=50029202">hacker news</a></small></p><hr/><p>Federal agents have arrested Edward Dubrovsky, co-founder of the security firm Cypfer, in Pennsylvania on charges of conspiracy and extortion. The arrest is part of a federal investigation into the ShinyHunters hacking group, which recently compromised sensitive data from an FBI recruitment portal.</p><p>ShinyHunters has extorted over $70 million from various victims this year, typically using phishing and stolen credentials to target SaaS companies. Law enforcement has also apprehended other individuals in connection with the group, including Pepijn van der Stap and Saif Al-din Khader.</p><hr/><small>10 Oct 2026, 08:15 UTC | #23843</small>]]></content>
-  </entry>
 </feed>
