@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T01:09:00+00:00</updated>
+  <updated>2026-10-15T01:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Agrees to Limit Use of Alleged Apple Trade Secrets During Litigation</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight::v239</id>
+    <published>2026-10-15T01:10:00+00:00</published>
+    <updated>2026-10-15T01:10:00+00:00</updated>
+    <media:thumbnail url="https://assets.bizzbuzz.news/h-upload/2026/07/11/2000208-apple.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight">bloomberg.com</a> | <a href="https://www.courtlistener.com/docket/73602437/apple-inc-v-liu/">source</a></small></p><hr/><p>OpenAI will refrain from using trade secrets that Apple Inc. claims were misappropriated by employees who defected to the startup. The company is also required to collect forensic images from 14 employees' devices to assist in the legal dispute.</p><p>U.S. District Judge Edward Davila indicated he is highly likely to grant Apple's request for a preliminary injunction. Apple alleges the disputed information is intended to aid OpenAI's expansion into consumer hardware, while OpenAI maintains the litigation is an attempt to restrict employee mobility.</p><p><img src="https://assets.bizzbuzz.news/h-upload/2026/07/11/2000208-apple.webp" /></p><hr/><small>15 Oct 2026, 07:55 UTC | #24339</small>]]></content>
+  </entry>
   <entry>
     <title>Florida Social Media Ban for Under-14s Upheld by Appeals Court</title>
     <link href="https://www.reuters.com/legal/government/florida-can-enforce-state-law-barring-young-kids-social-media-appeals-court-2026-10-14/" rel="alternate" />
