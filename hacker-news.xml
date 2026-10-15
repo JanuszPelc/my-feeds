@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-14T19:39:00+00:00</updated>
+  <updated>2026-10-14T20:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Anthropic's Scion Design Uses Concepts Similar to Meta's Mononoke</title>
+    <link href="https://sunshowers.io/posts/anthropic-mononoke/" rel="alternate" />
+    <id>https://sunshowers.io/posts/anthropic-mononoke/::v239</id>
+    <published>2026-10-14T20:57:00+00:00</published>
+    <updated>2026-10-14T20:57:00+00:00</updated>
+    <media:thumbnail url="https://assets.smartcompany.com.au/wp-content/uploads/sites/4/2026/03/Copy-of-SCM-ed-image-1920x1080-66.png?resize=900" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sunshowers.io/posts/anthropic-mononoke/">sunshowers.io</a> | <a href="https://lobste.rs/s/plcgps/anthropic_s_scion_is_heavily_inspired_by">discussion</a> | <a href="https://news.ycombinator.com/item?id=50094694">hacker news</a></small></p><hr/><p>Anthropic's Scion version control system employs a "derived data" mechanism to optimize repository operations such as file blame and path history. An author who helped develop Meta's Mononoke server claims Scion's architecture is heavily inspired by Mononoke's design but lacks proper attribution in Anthropic's technical documentation.</p><p>The "derived data" approach enables asynchronous computation of specialized indexes to enhance performance in large-scale repositories. The author notes that the proliferation of AI-assisted design increases the likelihood of LLMs indexing and replicating existing open-source architectures without credit.</p><p><img src="https://assets.smartcompany.com.au/wp-content/uploads/sites/4/2026/03/Copy-of-SCM-ed-image-1920x1080-66.png?resize=900" /></p><hr/><small>15 Oct 2026, 00:16 UTC | #24325</small>]]></content>
+  </entry>
   <entry>
     <title>WhatsApp Adds Guest Calling for Non-Account Holders</title>
     <link href="https://www.engadget.com/2286108/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/" rel="alternate" />
