@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-15T13:37:00+00:00</updated>
+  <updated>2026-10-15T13:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Oxo Music Releases Oxo Audio Editor for macOS</title>
+    <link href="https://www.kvraudio.com/news/oxo-music-releases-oxo-audio-editor---audio-editor-for-macos-69133?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69133" rel="alternate" />
+    <id>https://www.kvraudio.com/news/oxo-music-releases-oxo-audio-editor---audio-editor-for-macos-69133?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69133::v239</id>
+    <published>2026-10-15T13:43:00+00:00</published>
+    <updated>2026-10-15T13:43:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/3_edit-loop_256.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/oxo-music-releases-oxo-audio-editor---audio-editor-for-macos-69133?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69133">kvraudio.com</a> | <a href="https://oxo-music.com/products/oxo_audio_editor">source</a></small></p><hr/><p>Oxo Music's Oxo Audio Editor is a macOS application designed for streamlined audio file manipulation through a single-window interface. The software facilitates common tasks including trimming, normalizing, gain adjustment, fading, and spectral editing.</p><p>The tool features a transient-based slicer, automated loop point detection, and pitch/time stretching algorithms. Although it supports MP3 playback, it only saves files in WAV, AIFF, or FLAC formats and does not provide audio recording functionality.</p><p><img src="https://static.kvraudio.com/i/b/3_edit-loop_256.png" /></p><hr/><small>15 Oct 2026, 17:44 UTC | #24408</small>]]></content>
+  </entry>
   <entry>
     <title>13x Audio Releases Free Colony Multi-Effect Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/10/15/13x-audio-colony/" rel="alternate" />

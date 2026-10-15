@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-15T08:04:00+00:00</updated>
+  <updated>2026-10-15T13:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Pew Research Finds Nearly 40% of U.S. Adults Belong to Online Communities</title>
+    <link href="https://www.pewresearch.org/internet/2026/10/14/online-community-and-connection-in-america/" rel="alternate" />
+    <id>https://www.pewresearch.org/internet/2026/10/14/online-community-and-connection-in-america/::v239</id>
+    <published>2026-10-15T13:41:00+00:00</published>
+    <updated>2026-10-15T13:41:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.pewresearch.org/internet/2026/10/14/online-community-and-connection-in-america/">pewresearch.org</a></small></p><hr/><p>A Pew Research Center study reveals that nearly four-in-ten U.S. adults participate in online communities, with participation rising to roughly half among young adults. These digital spaces, which primarily manifest as social media platforms and discussion forums, are most frequently used to access information, find entertainment, or seek advice and recommendations.</p><p>While many users find significant value in these communities—often citing experiences that cannot be replicated offline—a notable divide exists regarding the depth of digital connection. Approximately half of American adults believe online relationships lack the meaningfulness of in-person ones, though adults under 30 are significantly more likely to view digital connections as being of equal value.</p><hr/><small>15 Oct 2026, 17:42 UTC | #24376</small>]]></content>
+  </entry>
   <entry>
     <title>Sherry Turkle Discusses AI Chatbots and Human Intimacy on The Ezra Klein Show</title>
     <link href="https://www.nytimes.com/2026/10/14/opinion/ezra-klein-podcast-sherry-turkle.html?unlocked_article_code=1.IlE.QZXk.Pjomlkjt7c6k&amp;smid=nytcore-ios-share" rel="alternate" />
