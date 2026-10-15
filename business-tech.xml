@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T00:05:00+00:00</updated>
+  <updated>2026-10-15T01:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>YouTube Explores Audiobook Expansion and Premium Integration</title>
+    <link href="https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876" rel="alternate" />
+    <id>https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876::v239</id>
+    <published>2026-10-15T01:06:00+00:00</published>
+    <updated>2026-10-15T01:06:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876">wsj.com</a></small></p><hr/><p>YouTube is in talks with publishers to develop an audiobook feature, which could be ready as early as next year. The service may be bundled with YouTube Premium to compete with established services like Spotify and Audible.</p><p>This expansion would allow Alphabet to diversify YouTube's content ecosystem beyond video and music. By adding audiobooks, the platform seeks to enhance the value of its subscription tier and capture more of the digital audio market.</p><hr/><small>15 Oct 2026, 06:57 UTC | #24335</small>]]></content>
+  </entry>
   <entry>
     <title>Eight States File Lawsuits Against OpenAI Over Alleged Child Safety Violations</title>
     <link href="https://news.bloomberglaw.com/privacy-and-data-security/half-dozen-states-hit-openai-with-kids-online-safety-lawsuits" rel="alternate" />
