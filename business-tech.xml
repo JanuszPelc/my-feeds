@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T19:45:00+00:00</updated>
+  <updated>2026-10-15T20:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google Expands News AI Pilot to Over 400 Publications</title>
+    <link href="https://www.niemanlab.org/2026/10/googles-news-ai-pilot-expands-to-over-400-publications-including-u-s-local-news-outlets/" rel="alternate" />
+    <id>https://www.niemanlab.org/2026/10/googles-news-ai-pilot-expands-to-over-400-publications-including-u-s-local-news-outlets/::v239</id>
+    <published>2026-10-15T20:06:00+00:00</published>
+    <updated>2026-10-15T20:06:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.niemanlab.org/2026/10/googles-news-ai-pilot-expands-to-over-400-publications-including-u-s-local-news-outlets/">niemanlab.org</a> | <a href="https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers">source</a></small></p><hr/><p>Google's News AI pilot program has expanded to more than 400 publications worldwide, including major international outlets like CNN and The Financial Times alongside various U.S. local newsrooms. The program licenses content from these publishers to test experimental AI features within Google News.</p><p>Experimental features being tested include AI-generated "story previews" and customizable "audio briefings" that use headlines to create a podcast-like experience. While Google has a separate "pay-per-value" licensing model for AI Overviews, this specific pilot pays publishers to provide content used in these experimental AI-powered tools.</p><hr/><small>16 Oct 2026, 01:54 UTC | #24443</small>]]></content>
+  </entry>
   <entry>
     <title>Two Deaths Following Explosion at Intel's Kiryat Gat Facility</title>
     <link href="https://www.calcalistech.com/ctechnews/article/ay5slvopq" rel="alternate" />
