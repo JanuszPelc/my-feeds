@@ -3,9 +3,34 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T19:16:00+00:00</updated>
+  <updated>2026-10-16T19:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>AI-Assisted Hardware Reverse Engineering for Linux Drivers</title>
+    <link href="https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/" rel="alternate" />
+    <id>https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/::v239</id>
+    <published>2026-10-16T19:21:00+00:00</published>
+    <updated>2026-10-16T19:21:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/">blogs.gnome.org</a> | <a href="https://news.ycombinator.com/item?id=50104299">hacker news</a></small></p><hr/><p>Christian Fredrik Kalager Schaller demonstrates using AI coding tools like Claude Code to reverse engineer hardware drivers for Linux. This process was used to develop a SANE backend for the Plustek OpticFilm 8200i scanner and to resolve MIPI camera issues on a Lenovo ThinkPad X1 Carbon Gen 14.</p><p>The methodology utilizes a "hw-harness" to capture and compare USB/driver traces between a Windows virtual machine and a Linux host. This approach leverages AI to automate the tedious analysis of bus traffic and register patterns, allowing developers to identify driver bugs and support undocumented hardware more efficiently.</p><hr/><small>16 Oct 2026, 22:31 UTC | #24548</small>]]></content>
+  </entry>
+  <entry>
+    <title>Calif Researchers Detail OpenBSD Local Privilege Escalation via 37-Year-Old Kernel Bug</title>
+    <link href="https://calif.io/research/big-fish" rel="alternate" />
+    <id>https://calif.io/research/big-fish::v239</id>
+    <published>2026-10-16T19:20:00+00:00</published>
+    <updated>2026-10-16T19:20:00+00:00</updated>
+    <media:thumbnail url="https://calif.io/big-fish.5b2a304f.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://calif.io/research/big-fish">calif.io</a> | <a href="https://lobste.rs/s/cxlrc5/big_fish_exploiting_37_year_old_kernel_bug">discussion</a> | <a href="https://news.ycombinator.com/item?id=50118977">hacker news</a></small></p><hr/><p>An integer overflow in OpenBSD's shared memory attachment counter, tracing back 37 years to original BSD sources, enables local privilege escalation to root. By chaining this overflow with a use-after-free race condition and an out-of-bounds write, attackers can bypass kernel protections like KARL, SMAP, and SMEP via a "write what where" primitive.</p><p>OpenBSD has addressed the underlying flaws in errata 018 and 026. Proposed defensive improvements to prevent similar exploitation include implementing safe-unlinking, randomizing PTE map allocation, and increasing non-determinism in the kernel's boot-time and runtime allocators.</p><p><img src="https://calif.io/big-fish.5b2a304f.jpeg" /></p><hr/><small>16 Oct 2026, 22:27 UTC | #24546</small>]]></content>
+  </entry>
+  <entry>
+    <title>sslx: A Rust-Based CLI for Certificate and TLS Management</title>
+    <link href="https://github.com/glincker/sslx" rel="alternate" />
+    <id>https://github.com/glincker/sslx::v239</id>
+    <published>2026-10-16T19:19:00+00:00</published>
+    <updated>2026-10-16T19:19:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/glincker/sslx">github.com</a> | <a href="https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s">discussion</a></small></p><hr/><p>sslx is a command-line interface (CLI) tool written in Rust that acts as an alternative to OpenSSL. It manages certificates, handles TLS connections, and performs inspections within a single binary using the rustls library, eliminating the need for a system OpenSSL installation.</p><p>The tool offers TLS security grading, certificate expiry checks for multiple hosts, and format conversion between PEM, DER, and PKCS12. It also includes capabilities for JWT decoding, certificate/key matching, and JSON output designed for automation in CI/CD pipelines.</p><hr/><small>16 Oct 2026, 22:25 UTC | #24540</small>]]></content>
+  </entry>
   <entry>
     <title>Sill Enables Mac Window Streaming to iPhone and iPad</title>
     <link href="https://github.com/Saffsanity/sill" rel="alternate" />
