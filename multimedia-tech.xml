@@ -147,13 +147,4 @@
     <media:thumbnail url="https://nanolathe.gg/images/renderer/hero-living-base-e2ac78cd.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://nanolathe.gg">nanolathe.gg</a> | <a href="https://news.ycombinator.com/item?id=50045984">hacker news</a></small></p><hr/><p>Nanolathe is an open-source, MIT-licensed 2.5D RTS engine that reimplements Total Annihilation through clean-room research for modern hardware. It features a modern GPU renderer with enhanced lighting and detail, alongside a classic CPU renderer that replicates the original aesthetic.</p><p>The project is in public beta and offers a browser-based demo featuring three original missions. To access the full campaign, skirmish modes, or online multiplayer, users must install the native client on Windows, Mac, or Linux and provide their own game files from platforms like Steam or GOG.</p><p><img src="https://nanolathe.gg/images/renderer/hero-living-base-e2ac78cd.webp" /></p><hr/><small>11 Oct 2026, 21:06 UTC | #23960</small>]]></content>
   </entry>
-  <entry>
-    <title>Pat Kerr Recreates 1996 Grand Theft Auto Vehicle Physics Prototype</title>
-    <link href="https://patkerr.co.uk/2d-vehicles/" rel="alternate" />
-    <id>https://patkerr.co.uk/2d-vehicles/::v239</id>
-    <published>2026-10-11T09:42:00+00:00</published>
-    <updated>2026-10-11T09:42:00+00:00</updated>
-    <media:thumbnail url="https://patkerr.co.uk/2d-vehicles/motion-lab-screenshot.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://patkerr.co.uk/2d-vehicles/">patkerr.co.uk</a> | <a href="https://lobste.rs/s/9ros7d/2d_physics_prototype_behind_gta_s">discussion</a> | <a href="https://news.ycombinator.com/item?id=49991852">hacker news</a></small></p><hr/><p>Programmer Pat Kerr has released a JavaScript recreation of the 2D physics simulation developed in 1996 that served as the basis for the vehicle systems in the original Grand Theft Auto. Titled "Motion Lab," the interactive demo allows users to test different dynamics through three modes: a car, a spaceship, and a brick.</p><p>The simulation utilizes 2D rigid body dynamics, including torques, to handle rotation and momentum more coherently than the simple point-physics models common in mid-1990s game development. To mimic the specific handling of early GTA vehicles, the model employs an approximate tyre resistance system to simulate lateral and longitudinal friction.</p><p><img src="https://patkerr.co.uk/2d-vehicles/motion-lab-screenshot.jpg" /></p><hr/><small>11 Oct 2026, 13:12 UTC | #23927</small>]]></content>
-  </entry>
 </feed>
