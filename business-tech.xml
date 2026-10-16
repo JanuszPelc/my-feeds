@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-16T14:37:00+00:00</updated>
+  <updated>2026-10-16T18:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Developers Express Concern Over Potential Apple Antitrust Settlement Terms</title>
+    <link href="https://www.theinformation.com/articles/apples-antitrust-settlement-talks-spur-worries-among-developers" rel="alternate" />
+    <id>https://www.theinformation.com/articles/apples-antitrust-settlement-talks-spur-worries-among-developers::v239</id>
+    <published>2026-10-16T18:59:00+00:00</published>
+    <updated>2026-10-16T18:59:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/apples-antitrust-settlement-talks-spur-worries-among-developers">theinformation.com</a></small></p><hr/><p>The U.S. Department of Justice is considering a settlement in its antitrust lawsuit against Apple that focuses on interoperability. Major developers, including PayPal and Epic Games, have expressed concerns to the DOJ that a deal centered on technical interoperability may fail to meaningfully loosen Apple's control over the iPhone ecosystem.</p><p>The debate highlights anxiety among developers regarding the scope of federal enforcement. If the settlement fails to address core App Store restrictions and hardware-software integration, critics argue it will not resolve the fundamental issues of market dominance.</p><hr/><small>16 Oct 2026, 20:51 UTC | #24505</small>]]></content>
+  </entry>
   <entry>
     <title>Waymo to Launch Robotaxi Service in Toronto in 2028</title>
     <link href="https://www.reuters.com/business/googles-waymo-plans-first-canada-robotaxi-service-toronto-2028-2026-10-16/" rel="alternate" />
