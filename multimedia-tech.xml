@@ -156,13 +156,4 @@
     <media:thumbnail url="https://gamesbymason.com/blog/2024/6-years-in-rust-ama/editor.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust">gamesbymason.com</a> | <a href="https://lobste.rs/s/dodzdb/highlights_from_i_spent_6_years">discussion</a></small></p><hr/><p>The creator of the puzzle game discusses the six-year process of building the project using the Rust programming language. The text covers the transition from C++, the creation of a custom engine featuring a built-in scripting language for hot swapping, and the selection of various crates to handle tasks like windowing and crash reporting.</p><p>Technical hurdles such as extended compile times and the limitations of the Steam Input API are examined alongside the decision to build a custom engine rather than using existing tools. The developer estimates that engine development required 20% to 30% of the total production time and argues that shipping a completed game is the ultimate way to test the efficacy of technical architectural choices.</p><p><img src="https://gamesbymason.com/blog/2024/6-years-in-rust-ama/editor.png" /></p><hr/><small>12 Oct 2026, 03:33 UTC | #23978</small>]]></content>
   </entry>
-  <entry>
-    <title>Nanolathe Open-Source Engine Rebuilds Total Annihilation for Modern Computers</title>
-    <link href="https://nanolathe.gg" rel="alternate" />
-    <id>https://nanolathe.gg::v239</id>
-    <published>2026-10-11T18:05:00+00:00</published>
-    <updated>2026-10-11T18:05:00+00:00</updated>
-    <media:thumbnail url="https://nanolathe.gg/images/renderer/hero-living-base-e2ac78cd.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://nanolathe.gg">nanolathe.gg</a> | <a href="https://news.ycombinator.com/item?id=50045984">hacker news</a></small></p><hr/><p>Nanolathe is an open-source, MIT-licensed 2.5D RTS engine that reimplements Total Annihilation through clean-room research for modern hardware. It features a modern GPU renderer with enhanced lighting and detail, alongside a classic CPU renderer that replicates the original aesthetic.</p><p>The project is in public beta and offers a browser-based demo featuring three original missions. To access the full campaign, skirmish modes, or online multiplayer, users must install the native client on Windows, Mac, or Linux and provide their own game files from platforms like Steam or GOG.</p><p><img src="https://nanolathe.gg/images/renderer/hero-living-base-e2ac78cd.webp" /></p><hr/><small>11 Oct 2026, 21:06 UTC | #23960</small>]]></content>
-  </entry>
 </feed>
