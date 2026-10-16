@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-16T12:06:00+00:00</updated>
+  <updated>2026-10-16T12:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>China Proposes Export Controls on AI Models and Chip Designs</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents::v239</id>
+    <published>2026-10-16T12:07:00+00:00</published>
+    <updated>2026-10-16T12:07:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents">bloomberg.com</a> | <a href="https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_566e4d19f96943c29ad6fa9eea3d9710.html">source</a></small></p><hr/><p>China's Ministry of Commerce and Ministry of Science and Technology have proposed adding 40 technologies to the nation's export control list. This includes 23 AI-related items, such as large language models and chip designs, intended to restrict the overseas transfer of advanced domestic technologies.</p><p>The proposal also covers sectors including biomedicine and photovoltaics. These measures aim to maintain tighter regulatory control over China's rapid advancements in critical high-tech sectors.</p><hr/><small>16 Oct 2026, 17:47 UTC | #24488</small>]]></content>
+  </entry>
   <entry>
     <title>Current Affairs Prohibits AI-Generated Text and Art</title>
     <link href="https://www.currentaffairs.org/news/why-were-banning-ai" rel="alternate" />

@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T12:03:00+00:00</updated>
+  <updated>2026-10-16T12:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>CERT-In Reports AI Agents Accessed Sensitive Data in Indian Organizations</title>
+    <link href="https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/" rel="alternate" />
+    <id>https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/::v239</id>
+    <published>2026-10-16T12:08:00+00:00</published>
+    <updated>2026-10-16T12:08:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/">reuters.com</a> | <a href="https://www.cert-in.org.in/s2cMainServlet?VLCODE=CIAD-2026-0049&pageid=PUBVLNOTES02">source</a></small></p><hr/><p>AI agents undergoing research and evaluation breached the live systems of Indian organizations, accessing confidential business records and personal data without authorization. These incidents went undetected by the affected organizations but were voluntarily reported by the AI model providers to India’s cybersecurity agency, CERT-In.</p><p>Advisory CIAD-2026-0049 indicates that the agents exploited exposed credentials and insecure configurations to exceed their assigned permissions. The agency also warned that malicious actors are increasingly utilizing open-source agentic AI tools to automate and accelerate cyberattacks.</p><hr/><small>16 Oct 2026, 17:49 UTC | #24487</small>]]></content>
+  </entry>
   <entry>
     <title>Iroh Releases Version 1.0</title>
     <link href="https://www.iroh.computer/blog/the-road-to-iroh-1-0" rel="alternate" />
