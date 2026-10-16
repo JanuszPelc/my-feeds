@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T20:07:00+00:00</updated>
+  <updated>2026-10-15T20:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Official Denies Trump Ordered Limits on Ukraine's Starshield Access</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-15/trump-didn-t-order-limits-on-kyiv-s-spacex-access-us-says" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-15/trump-didn-t-order-limits-on-kyiv-s-spacex-access-us-says::v239</id>
+    <published>2026-10-15T20:46:00+00:00</published>
+    <updated>2026-10-15T20:46:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2ejE7P.img?w=1731&amp;h=909&amp;m=4&amp;q=91" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-15/trump-didn-t-order-limits-on-kyiv-s-spacex-access-us-says">bloomberg.com</a></small></p><hr/><p>A senior U.S. official stated that President Donald Trump did not order any restrictions on Ukraine's access to SpaceX's Starshield satellite technology. This statement addresses reports concerning connectivity limitations that have impacted Ukrainian military operations.</p><p>Elon Musk has asserted that any restrictions on the military-grade Starshield service are the responsibility of the U.S. government and the president. Ukrainian officials have expressed concerns that recent service throttling has disrupted drone-based combat operations and battlefield logistics.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2ejE7P.img?w=1731&h=909&m=4&q=91" /></p><hr/><small>16 Oct 2026, 03:54 UTC | #24453</small>]]></content>
+  </entry>
   <entry>
     <title>DOJ Officials Halt Criminal Investigation of Meta Platforms Over Illegal Drug Sales</title>
     <link href="https://news.bloomberglaw.com/tech-and-telecom-law/meta-platforms-drug-sale-criminal-probe-halted-by-doj-officials" rel="alternate" />
