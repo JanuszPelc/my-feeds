@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-16T12:56:00+00:00</updated>
+  <updated>2026-10-16T12:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Taiwan to Tighten AI Chip and Server Exports to China</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal::v239</id>
+    <published>2026-10-16T12:59:00+00:00</published>
+    <updated>2026-10-16T12:59:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal">bloomberg.com</a></small></p><hr/><p>Taiwan is preparing to tighten export controls on AI chips and servers destined for China to align with United States trade restrictions. Under proposed amendments to the Foreign Trade Act, shipping restricted AI hardware to China would transition from a regulatory violation to a criminal offense.</p><p>The move aims to curb the smuggling of advanced semiconductors to Beijing and close loopholes in existing trade regulations. This regulatory shift follows increased pressure from the U.S. government to prevent the illicit transfer of cutting-edge AI technology and high-end hardware components.</p><hr/><small>16 Oct 2026, 18:52 UTC | #24493</small>]]></content>
+  </entry>
   <entry>
     <title>Replit CEO Outlines Vision for the 'Self-Driving Company'</title>
     <link href="https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/" rel="alternate" />
