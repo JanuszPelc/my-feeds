@@ -985,29 +985,4 @@
     <media:thumbnail url="https://www.justinmklam.com/posts/2026/05/sandboxing-with-nono/nono-claude.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/">disconnect3d.pl</a> | <a href="https://news.ycombinator.com/item?id=50042425">hacker news</a></small></p><hr/><p>Quoting a tilde (~) within the PATH environment variable in Bash or Zsh prevents the shell from performing home directory expansion. This results in the literal ~ character being added to the PATH, causing the shell to search for directories named after the tilde in the current working directory rather than in the user's home folder.</p><p>This behavior occurs because quoting inhibits tilde expansion during variable assignment. While unquoted tildes may work in certain contexts, using the $HOME environment variable is a more robust and reliable method for ensuring correct path resolution in shell configuration files like .bashrc or .zshrc.</p><p><img src="https://www.justinmklam.com/posts/2026/05/sandboxing-with-nono/nono-claude.png" /></p><hr/><small>11 Oct 2026, 22:23 UTC | #23967</small>]]></content>
   </entry>
-  <entry>
-    <title>Culpert Sampled Heap Allocation Profiler for Rust</title>
-    <link href="https://github.com/rupert648/culpert" rel="alternate" />
-    <id>https://github.com/rupert648/culpert::v239</id>
-    <published>2026-10-11T18:17:00+00:00</published>
-    <updated>2026-10-11T18:17:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/rupert648/culpert">github.com</a> | <a href="https://lobste.rs/s/a1ser9/culpert_rust_heap_profiling_with_span">discussion</a></small></p><hr/><p>Culpert is an experimental, sampled heap-allocation profiler for Rust. It attributes memory allocations to specific code spans through integration with the `tracing` crate, Cloudflare's `foundations` library, or a custom `span_fn` macro. The profiler exports pprof-compatible profiles, ensuring compatibility with tools like `pprof`, Speedscope, and Pyroscope.</p><p>A dedicated CLI includes a `diff` subcommand designed to catch memory allocation regressions in CI/CD pipelines. The tool utilizes geometric sampling with Bernstein correction to provide unbiased allocation estimates while maintaining low profiling overhead.</p><hr/><small>11 Oct 2026, 21:55 UTC | #23966</small>]]></content>
-  </entry>
-  <entry>
-    <title>Implementing Arena Allocators in C</title>
-    <link href="https://eliasebner.com/blog/guides/arena-allocators-in-c/" rel="alternate" />
-    <id>https://eliasebner.com/blog/guides/arena-allocators-in-c/::v239</id>
-    <published>2026-10-11T18:12:00+00:00</published>
-    <updated>2026-10-11T18:12:00+00:00</updated>
-    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:935/1*tPX9wx16aObaHQZAiEsM5w.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://eliasebner.com/blog/guides/arena-allocators-in-c/">eliasebner.com</a> | <a href="https://lobste.rs/s/zziknb/arena_allocators_c">discussion</a></small></p><hr/><p>Arena allocation, or region-based memory management, involves grouping allocations with similar lifetimes into a single large block of memory. This approach reduces the performance overhead of frequent heap operations and simplifies memory management by allowing the entire block to be cleared or freed at once.</p><p>The implementation includes logic for data alignment, a realloc-style function, and utility wrappers. A practical example using a string library demonstrates how this pattern makes memory ownership and lifetimes explicit through function arguments.</p><p><img src="https://miro.medium.com/v2/resize:fit:935/1*tPX9wx16aObaHQZAiEsM5w.png" /></p><hr/><small>11 Oct 2026, 21:33 UTC | #23963</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI-Generated Campfire Rewrites in Rust, Go, and Elixir</title>
-    <link href="https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/" rel="alternate" />
-    <id>https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/::v239</id>
-    <published>2026-10-11T18:10:00+00:00</published>
-    <updated>2026-10-11T18:10:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/">itsallaboutthebit.com</a> | <a href="https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think">discussion</a> | <a href="https://news.ycombinator.com/item?id=50043689">hacker news</a></small></p><hr/><p>AI-generated rewrites of the Campfire chat application in Rust, Go, and Elixir exhibit significant architectural inconsistencies due to a lack of human oversight. These implementations lack backward compatibility and contain improper management of asynchronous tasks, locks, and resource constraints.</p><p>Unvetted AI code fails to navigate trade-offs between latency, memory usage, and message delivery reliability. Throughput-focused benchmarks can also mask significant failures in message delivery rates and system stability.</p><hr/><small>11 Oct 2026, 21:18 UTC | #23954</small>]]></content>
-  </entry>
 </feed>
