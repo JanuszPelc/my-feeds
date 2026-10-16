@@ -978,13 +978,4 @@
     <updated>2026-10-11T18:10:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/">itsallaboutthebit.com</a> | <a href="https://lobste.rs/s/k2natg/i_m_sorry_you_still_have_think">discussion</a> | <a href="https://news.ycombinator.com/item?id=50043689">hacker news</a></small></p><hr/><p>AI-generated rewrites of the Campfire chat application in Rust, Go, and Elixir exhibit significant architectural inconsistencies due to a lack of human oversight. These implementations lack backward compatibility and contain improper management of asynchronous tasks, locks, and resource constraints.</p><p>Unvetted AI code fails to navigate trade-offs between latency, memory usage, and message delivery reliability. Throughput-focused benchmarks can also mask significant failures in message delivery rates and system stability.</p><hr/><small>11 Oct 2026, 21:18 UTC | #23954</small>]]></content>
   </entry>
-  <entry>
-    <title>Consistency in Distributed Systems Requires End-to-End Design</title>
-    <link href="https://n-the-loop.com/blog/consistency-is-not-a-localized-property/" rel="alternate" />
-    <id>https://n-the-loop.com/blog/consistency-is-not-a-localized-property/::v239</id>
-    <published>2026-10-11T14:47:00+00:00</published>
-    <updated>2026-10-11T14:47:00+00:00</updated>
-    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*tzAPJmwZsQEAWUEh97SE8Q.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://n-the-loop.com/blog/consistency-is-not-a-localized-property/">n-the-loop.com</a> | <a href="https://lobste.rs/s/rhy5zp/consistency_is_not_localized_property">discussion</a> | <a href="https://news.ycombinator.com/item?id=50038618">hacker news</a></small></p><hr/><p>Consistency is a global property that cannot be guaranteed by a single component in isolation. Using Apache Kafka’s development of exactly-once semantics as an example, the article argues that achieving such guarantees requires an end-to-end approach where the application and the system architecture are designed in unison to prevent property violations.</p><p>Maintaining consistency requires both a comprehensive understanding of the entire system and clearly defined ownership. Because individual components cannot verify global states, engineers must manage these properties through systemic design and oversight rather than relying solely on code.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*tzAPJmwZsQEAWUEh97SE8Q.png" /></p><hr/><small>11 Oct 2026, 19:45 UTC | #23957</small>]]></content>
-  </entry>
 </feed>

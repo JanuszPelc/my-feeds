@@ -715,22 +715,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/limiter-2_40pct.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/amxos-releases-new-plugins-for-windows-vst3-68955?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68955">kvraudio.com</a> | <a href="https://amxos.io/products">source</a></small></p><hr/><p>The release includes the AMX Precision Limiter, AMX ARC Compressor, AMX Mortal Coil, and AMX Convergence. These tools provide full-band true-peak limiting, stereo compression, multiple clipping styles, and phase alignment for Windows VST3. Each plugin is also available as a standalone application.</p><p>All four products feature introductory pricing through late October 2026. The suite includes advanced processing options such as spectral clipping with up to 16x oversampling and automated scanning for time-alignment and phase correction.</p><p><img src="https://static.kvraudio.com/i/b/limiter-2_40pct.png" /></p><hr/><small>12 Oct 2026, 08:21 UTC | #23992</small>]]></content>
   </entry>
-  <entry>
-    <title>Iced Audio Releases AudioCortex 2 Nova 2.5 Beta 9</title>
-    <link href="https://www.kvraudio.com/news/iced-audio-updates-audiocortex-2-nova-to-2-5-beta-9---six-scopes-in-the-library-a-modular-rack-in-nodes-69030?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69030" rel="alternate" />
-    <id>https://www.kvraudio.com/news/iced-audio-updates-audiocortex-2-nova-to-2-5-beta-9---six-scopes-in-the-library-a-modular-rack-in-nodes-69030?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69030::v239</id>
-    <published>2026-10-11T14:46:00+00:00</published>
-    <updated>2026-10-11T14:46:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/b9-bsky-loudness.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/iced-audio-updates-audiocortex-2-nova-to-2-5-beta-9---six-scopes-in-the-library-a-modular-rack-in-nodes-69030?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69030">kvraudio.com</a> | <a href="https://icedaudio.com/notes/">source</a></small></p><hr/><p>Iced Audio has released version 2.5 Beta 9 of AudioCortex 2 Nova for macOS. This update adds six visualization scopes to the Library—including Waveform, Spectrogram, and Loudness—and introduces thirty-six new modules to the Nodes patching canvas, such as a vocoder, wavefolder, and multiple sequencing options.</p><p>Additional features include note streams for MIDI sequencing and a global search capability that scans all analyzed sounds on a Mac. AudioCortex 2 Nova is currently offered at a beta price of $99, with a planned price of $149 for the version 1.0 release.</p><p><img src="https://static.kvraudio.com/i/b/b9-bsky-loudness.jpg" /></p><hr/><small>11 Oct 2026, 19:42 UTC | #23938</small>]]></content>
-  </entry>
-  <entry>
-    <title>Noctalune Audio Releases AAX Version of NoctaTape</title>
-    <link href="https://www.kvraudio.com/news/noctalune-audio-releases-aax-version-of-noctatape-68673?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68673" rel="alternate" />
-    <id>https://www.kvraudio.com/news/noctalune-audio-releases-aax-version-of-noctatape-68673?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68673::v239</id>
-    <published>2026-10-11T14:45:00+00:00</published>
-    <updated>2026-10-11T14:45:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/plugin.webp" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/noctalune-audio-releases-aax-version-of-noctatape-68673?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68673">kvraudio.com</a> | <a href="https://www.noctaluneaudio.com/shop/noctatape">source</a></small></p><hr/><p>Noctalune Audio has added AAX support to its NoctaTape lo-fi effect plugin, enabling native use within Pro Tools. This update accompanies the plugin's existing VST3 and AU compatibility.</p><p>The tool is designed to emulate vintage tape character by adding warmth, wobble, and movement to audio signals through saturation and subtle imperfections.</p><p><img src="https://static.kvraudio.com/i/b/plugin.webp" /></p><hr/><small>11 Oct 2026, 19:40 UTC | #23939</small>]]></content>
-  </entry>
 </feed>

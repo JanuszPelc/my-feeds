@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-16T01:40:00+00:00</updated>
+  <updated>2026-10-16T09:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Rikab Gambhir Reflects on AI-Generated Mathematical Research</title>
+    <link href="https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/" rel="alternate" />
+    <id>https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/::v239</id>
+    <published>2026-10-16T09:29:00+00:00</published>
+    <updated>2026-10-16T09:29:00+00:00</updated>
+    <media:thumbnail url="https://aidiscoveries.io/wp-content/uploads/2026/10/image-14-1024x496.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/">terrytao.wordpress.com</a> | <a href="https://lobste.rs/s/qvomvk/why_are_we_even_doing_all_this">discussion</a> | <a href="https://news.ycombinator.com/item?id=50109707">hacker news</a></small></p><hr/><p>Rikab Gambhir’s essay examines the implications of OpenAI’s release of 722 mathematical manuscripts produced by an internal frontier model. The piece argues that the proliferation of AI-generated scientific output risks transforming research into a process of mass-producing potentially true factoids that lack human comprehension or appreciation.</p><p>The author compares this trend to Borges’s "Library of Babel," suggesting that as AI removes the bottleneck of human cognitive limits, science may become a vast, unreadable repository optimized for productivity rather than discovery. This shift, Gambhir warns, threatens to decouple scientific advancement from the fundamental human elements of curiosity and meaning.</p><p><img src="https://aidiscoveries.io/wp-content/uploads/2026/10/image-14-1024x496.png" /></p><hr/><small>16 Oct 2026, 15:01 UTC | #24510</small>]]></content>
+  </entry>
   <entry>
     <title>Religious Studies Frameworks Applied to Software Engineering</title>
     <link href="https://tombh.co.uk/religious-studies-in-software-engineering" rel="alternate" />
