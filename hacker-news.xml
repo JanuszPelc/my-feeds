@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T01:39:00+00:00</updated>
+  <updated>2026-10-16T01:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>CGPM Resolution 5 to Establish Continuous UTC by 2027</title>
+    <link href="https://www.bipm.org/en/cgpm-2026/resolution-5" rel="alternate" />
+    <id>https://www.bipm.org/en/cgpm-2026/resolution-5::v239</id>
+    <published>2026-10-16T01:47:00+00:00</published>
+    <updated>2026-10-16T01:47:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.bipm.org/en/cgpm-2026/resolution-5">bipm.org</a> | <a href="https://lobste.rs/s/ipyrkv/on_technical_actions_needed_ensure">discussion</a> | <a href="https://news.ycombinator.com/item?id=50105777">hacker news</a></small></p><hr/><p>The 28th General Conference on Weights and Measures (CGPM) has passed Resolution 5, which establishes that Coordinated Universal Time (UTC) will become a continuous time scale effective May 20, 2027. To ensure long-term continuity and avoid the need for leap seconds, the resolution allows for a maximum difference of 3,600 seconds (one hour) between UTC and UT1 (astronomical time).</p><p>This transition aims to mitigate the risks of negative leap seconds, which could cause significant disruption to critical infrastructures including telecommunications, energy distribution, and satellite navigation. By increasing the allowed offset, the international community seeks to protect IoT devices and other synchronized digital systems from the technical anomalies caused by time-step adjustments.</p><hr/><small>16 Oct 2026, 08:05 UTC | #24478</small>]]></content>
+  </entry>
   <entry>
     <title>Malware Disguised as South Park Episodes Steals Sensitive User Credentials</title>
     <link href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup" rel="alternate" />
