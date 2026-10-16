@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T19:18:00+00:00</updated>
+  <updated>2026-10-15T19:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Accenture Limits Monthly Employee Spending on Claude to $29</title>
+    <link href="https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/" rel="alternate" />
+    <id>https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/::v239</id>
+    <published>2026-10-15T19:22:00+00:00</published>
+    <updated>2026-10-15T19:22:00+00:00</updated>
+    <media:thumbnail url="https://blog.laozhang.ai/posts/en/claude-extra-usage-cost/img/cover.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=50107534">hacker news</a></small></p><hr/><p>Accenture has capped monthly Claude AI usage for many employees at $29. Under the new policy, any consumption costs exceeding this threshold must be covered by specific project or team funds, such as a Work Breakdown Structure (WBS). Some employees previously reported monthly expenditures between $500 and $1,000.</p><p>The move follows increased corporate scrutiny regarding the high costs of AI token consumption. While Accenture has publicly partnered with Anthropic to promote enterprise AI adoption, the internal policy shift highlights the difficulty companies face in managing the unpredictable costs of large language model usage.</p><p><img src="https://blog.laozhang.ai/posts/en/claude-extra-usage-cost/img/cover.webp" /></p><hr/><small>16 Oct 2026, 00:58 UTC | #24435</small>]]></content>
+  </entry>
   <entry>
     <title>Meta and Apple Collaborate on AI</title>
     <link href="https://www.axios.com/2026/10/15/apple-and-meta-bury-the-hatchet-for-ai" rel="alternate" />

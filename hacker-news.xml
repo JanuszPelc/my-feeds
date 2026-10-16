@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-15T18:22:00+00:00</updated>
+  <updated>2026-10-15T19:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Unfenced Identifies Real Estate Bordering Public Lands</title>
+    <link href="https://unfenced.land/" rel="alternate" />
+    <id>https://unfenced.land/::v239</id>
+    <published>2026-10-15T19:23:00+00:00</published>
+    <updated>2026-10-15T19:23:00+00:00</updated>
+    <media:thumbnail url="https://unfenced.land/static/featured-savage-creek-rd-unit-tl200-grants-pass.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://unfenced.land/">unfenced.land</a> | <a href="https://news.ycombinator.com/item?id=50102247">hacker news</a></small></p><hr/><p>Unfenced is a platform that identifies real estate properties for sale sharing boundaries with public lands, such as national forests, game lands, and wilderness areas. The service uses official boundary maps to verify these connections, rather than relying on potentially inaccurate listing descriptions.</p><p>The platform currently indexes over 13,000 properties across 49 regions by cross-referencing active real estate listings with government land data. This provides users with a specialized way to find parcels with direct access to public outdoor recreation areas.</p><p><img src="https://unfenced.land/static/featured-savage-creek-rd-unit-tl200-grants-pass.webp" /></p><hr/><small>16 Oct 2026, 01:00 UTC | #24464</small>]]></content>
+  </entry>
   <entry>
     <title>Libreboot 26.10 "Ominous Olive" Adds Full UEFI Support</title>
     <link href="https://libreboot.org/news/libreboot2610.html" rel="alternate" />
@@ -1007,40 +1016,5 @@
     <updated>2026-10-11T06:22:00+00:00</updated>
     <media:thumbnail url="https://lineageos.org/images/2026-10-11/hero.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lineageos.org/Changelog-32/">lineageos.org</a> | <a href="https://lobste.rs/s/ecxril/lineageos_24_0_released">discussion</a> | <a href="https://news.ycombinator.com/item?id=50040276">hacker news</a></small></p><hr/><p>LineageOS 24.0, based on Android 17, is arriving ahead of schedule. This release introduces WebUSB-based browser tools for ADB, Fastboot, Amlogic Burn, and Samsung Odin, which allow users to flash devices directly from a web browser without requiring separate desktop software.</p><p>Updates include a new Canvas image editor and a redesigned Updater with streaming capabilities. The project has also completed an accessibility audit and implemented a kernel deprecation policy, limiting LineageOS 23.2 and 24.0 to devices with more modern kernels while maintaining support for legacy 4.4 and 4.9 kernels on LineageOS 22.2.</p><p><img src="https://lineageos.org/images/2026-10-11/hero.webp" /></p><hr/><small>11 Oct 2026, 09:46 UTC | #23917</small>]]></content>
-  </entry>
-  <entry>
-    <title>Harris HF-10 Switched-Capacitor Filter Die Analysis</title>
-    <link href="https://www.righto.com/2026/10/ML10-switched-capacitor-filter.html" rel="alternate" />
-    <id>https://www.righto.com/2026/10/ML10-switched-capacitor-filter.html::v239</id>
-    <published>2026-10-11T00:55:00+00:00</published>
-    <updated>2026-10-11T00:55:00+00:00</updated>
-    <media:thumbnail url="https://static.righto.com/images/mf10/harris-chip.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.righto.com/2026/10/ML10-switched-capacitor-filter.html">righto.com</a> | <a href="https://lobste.rs/s/mbyawi/inside_1980s_filter_chip_uses_switched">discussion</a> | <a href="https://news.ycombinator.com/item?id=50034640">hacker news</a></small></p><hr/><p>A microscopic examination reveals the internal structure of the HF-10, a version of the National Semiconductor MF10 switched-capacitor filter chip. The die features a grid of 72 polysilicon capacitors and CMOS switches used to construct single-chip analog filters.</p><p>By rapidly toggling switches, the circuit replaces large, inaccurate resistors with small capacitors, making the filter's frequency highly accurate and adjustable via the clock signal. This implementation uses a state variable topology to provide high-pass, band-pass, and low-pass outputs.</p><p><img src="https://static.righto.com/images/mf10/harris-chip.jpg" /></p><hr/><small>11 Oct 2026, 09:00 UTC | #23916</small>]]></content>
-  </entry>
-  <entry>
-    <title>Building Calibrated Decision Models Using Constrained LLM Decoding</title>
-    <link href="https://nishtahir.com/build-your-own-decision-model/" rel="alternate" />
-    <id>https://nishtahir.com/build-your-own-decision-model/::v239</id>
-    <published>2026-10-11T00:51:00+00:00</published>
-    <updated>2026-10-11T00:51:00+00:00</updated>
-    <media:thumbnail url="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl_arc.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://nishtahir.com/build-your-own-decision-model/">nishtahir.com</a> | <a href="https://news.ycombinator.com/item?id=50037949">hacker news</a></small></p><hr/><p>"System 1" decision models can be constructed by restricting Large Language Model (LLM) outputs to a fixed set of options through vocabulary masking. This technique allows the model's token probabilities to be interpreted as a direct measure of the likelihood of each predefined answer.</p><p>Experimental results using Qwen/Qwen3-1.7B on the CommonsenseQA dataset show that raw output probabilities are often uncalibrated and exhibit significant overconfidence. The author provides a Python implementation for this constrained decoding approach and demonstrates how temperature scaling can be used to adjust the probability distribution so that model confidence aligns with actual accuracy.</p><p><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3-VL/qwen3vl_arc.jpg" /></p><hr/><small>11 Oct 2026, 06:27 UTC | #23914</small>]]></content>
-  </entry>
-  <entry>
-    <title>Modular vs External Proof Strategies for Rust Trait Implementations</title>
-    <link href="https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/" rel="alternate" />
-    <id>https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/::v239</id>
-    <published>2026-10-11T00:49:00+00:00</published>
-    <updated>2026-10-11T00:49:00+00:00</updated>
-    <media:thumbnail url="https://bmreducation.in/api/v5/education/web/learn/topics/images/9tqt67s8d6avoewgdwqb4t5o95yxx2wm5gy7ynpdu6cocu70lzmzzq5yu42j6wg5dsp3lopnd2lc8hg8_1762025949.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/">smallcultfollowing.com</a> | <a href="https://lobste.rs/s/gytcvn/why_externalized_proofs_cyclic_trait">discussion</a></small></p><hr/><p>The article explores two different approaches to handling supertrait obligations in Rust: modular proofs and external proofs. In a modular proof system, a trait implementation must establish that all supertrait requirements are met. In an external proof system, the responsibility for proving that supertraits hold is shifted to the code using the implementation. The author argues that for Rust to support cyclic trait implementations, it must adopt a modular proof strategy.</p><p>The argument for modular proofs stems from a fundamental inconsistency that external proofs would create with Rust's handling of `unsafe` implementations. Because `unsafe impl` requires the implementation itself to prove its safety conditions, a system that requires external callers to prove supertraits would be incompatible with the existing logic of the language's type system.</p><p><img src="https://bmreducation.in/api/v5/education/web/learn/topics/images/9tqt67s8d6avoewgdwqb4t5o95yxx2wm5gy7ynpdu6cocu70lzmzzq5yu42j6wg5dsp3lopnd2lc8hg8_1762025949.webp" /></p><hr/><small>11 Oct 2026, 06:11 UTC | #23912</small>]]></content>
-  </entry>
-  <entry>
-    <title>WallHop Launches as Paywall Bypass Tool</title>
-    <link href="https://wallhop.io/" rel="alternate" />
-    <id>https://wallhop.io/::v239</id>
-    <published>2026-10-11T00:47:00+00:00</published>
-    <updated>2026-10-11T00:47:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://wallhop.io/">wallhop.io</a> | <a href="https://news.ycombinator.com/item?id=50038634">hacker news</a></small></p><hr/><p>WallHop is a web utility designed to bypass website paywalls without requiring a user signup. Users can access content by pasting URLs, prefixing links with a forward slash, or using the service through an iPhone shortcut and a browser bookmarklet.</p><p>Developed as a replacement for the discontinued 12ft.io, the service also provides a "raw" mode and an API for direct content retrieval. The developer includes a disclaimer encouraging users to subscribe to the news sites they frequently visit to support journalism.</p><hr/><small>11 Oct 2026, 05:37 UTC | #23910</small>]]></content>
   </entry>
 </feed>
