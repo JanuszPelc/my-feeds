@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-16T11:59:00+00:00</updated>
+  <updated>2026-10-16T14:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Sweetwater Announces Studio and Recording Gear Discounts</title>
+    <link href="https://musictech.com/news/gear/sweetwater-studio-recording-gear-deals-2026/" rel="alternate" />
+    <id>https://musictech.com/news/gear/sweetwater-studio-recording-gear-deals-2026/::v239</id>
+    <published>2026-10-16T14:36:00+00:00</published>
+    <updated>2026-10-16T14:36:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2025/11/Ableton-Move-1-8-@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/sweetwater-studio-recording-gear-deals-2026/">musictech.com</a> | <a href="https://www.sweetwater.com/shop/studio-recording-sale/">source</a></small></p><hr/><p>Sweetwater is holding a Studio &amp; Recording deals event featuring discounts on various musical equipment and software. The sale includes hardware bundles from Ableton, studio monitors from brands like JBL, KRK, and PreSonus, and software packages from UJAM, IK Multimedia, and Universal Audio.</p><p>Specific offers include a $229 saving on an Ableton Move and Live 12 bundle and substantial discounts on plugin bundles, such as the Universal Audio Complete 4 Plugin Bundle. Some deals are available only while limited stock lasts.</p><p><img src="https://musictech.com/wp-content/uploads/2025/11/Ableton-Move-1-8-@2000x1500.jpg" /></p><hr/><small>16 Oct 2026, 19:47 UTC | #24508</small>]]></content>
+  </entry>
   <entry>
     <title>That Worship Sound Offers Free Mammoth Bass Moog One-Shot Sample Pack</title>
     <link href="https://bedroomproducersblog.com/2026/10/16/mammoth-bass-moog-free/" rel="alternate" />

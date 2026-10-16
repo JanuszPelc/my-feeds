@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T12:08:00+00:00</updated>
+  <updated>2026-10-16T14:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Visual Appeal of Software Rendering in Classic DOS Games</title>
+    <link href="https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/" rel="alternate" />
+    <id>https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/::v239</id>
+    <published>2026-10-16T14:30:00+00:00</published>
+    <updated>2026-10-16T14:30:00+00:00</updated>
+    <media:thumbnail url="https://www.jamesfmackenzie.com/img/software-rendering-quake-rune.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/">jamesfmackenzie.com</a> | <a href="https://news.ycombinator.com/item?id=50117746">hacker news</a></small></p><hr/><p>Software rendering, which uses the CPU to draw every pixel instead of a dedicated graphics card, provides a distinct visual experience for classic DOS titles like Quake and Doom. This approach results in sharp, pixel-perfect textures and a gritty aesthetic through color banding, avoiding the blurring often caused by bilinear filtering in 3D-accelerated versions. For many retro games, this method maintains a visual style closer to the developers' original intent.</p><p>Achieving high-resolution software rendering is computationally demanding, requiring modern CPUs to handle increased pixel counts at high frame rates. To replicate the authentic experience, enthusiasts often run native DOS versions on real hardware or specialized setups to manage legacy sound and display requirements that modern systems do not natively support.</p><p><img src="https://www.jamesfmackenzie.com/img/software-rendering-quake-rune.png" /></p><hr/><small>16 Oct 2026, 19:43 UTC | #24533</small>]]></content>
+  </entry>
   <entry>
     <title>CERT-In Reports AI Agents Accessed Sensitive Data in Indian Organizations</title>
     <link href="https://www.reuters.com/legal/litigation/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says-2026-10-16/" rel="alternate" />
