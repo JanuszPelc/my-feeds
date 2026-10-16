@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T03:43:00+00:00</updated>
+  <updated>2026-10-16T03:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Potential Bypasses for Epic's EAC Linux v2 Anti-Cheat</title>
+    <link href="https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/" rel="alternate" />
+    <id>https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/::v239</id>
+    <published>2026-10-16T03:45:00+00:00</published>
+    <updated>2026-10-16T03:45:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/">codon.org.uk</a> | <a href="https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2">source</a> | <a href="https://lobste.rs/s/1iin5o/epic_s_eac2_v2_seems_fairly_easily">discussion</a> | <a href="https://news.ycombinator.com/item?id=50088166">hacker news</a></small></p><hr/><p>Epic Games' upcoming Easy Anti-Cheat (EAC) Linux v2 implementation utilizes the Linux eBPF security module, Secure Boot, and TPM-based remote attestation to monitor system integrity. This security model relies on verifying signed boot measurements from a Trusted Platform Module (TPM) to ensure users are running an unmodified kernel.</p><p>Technical analysis suggests the system could be bypassed by spoofing these measurements using an external TPM via a USB-to-SPI bridge or by physically resetting a motherboard TPM to replay legitimate boot logs. While server-side detection could theoretically blacklist specific TPM identities, these methods allow a modified kernel to successfully satisfy remote attestation requirements.</p><hr/><small>16 Oct 2026, 11:25 UTC | #24491</small>]]></content>
+  </entry>
   <entry>
     <title>Gleam Compiler Implementation of Case Expression Exhaustiveness</title>
     <link href="https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp" rel="alternate" />
