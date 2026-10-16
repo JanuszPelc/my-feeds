@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-16T19:06:00+00:00</updated>
+  <updated>2026-10-16T19:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amulya Vishwanath on Why Robotics Lacks a 'ChatGPT Moment'</title>
+    <link href="https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/" rel="alternate" />
+    <id>https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/::v239</id>
+    <published>2026-10-16T19:09:00+00:00</published>
+    <updated>2026-10-16T19:09:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/">techcrunch.com</a></small></p><hr/><p>Amulya Vishwanath, founder of Techable VC and former NVIDIA executive, describes the current state of robotics as a "Lego era" focused on rebuilding fundamental components like actuators, robotic hands, and safety standards. This perspective challenges the belief that general foundation models will soon trigger a revolutionary "ChatGPT moment" for the industry.</p><p>Vishwanath's investment firm focuses on physical AI across robotics, materials science, and life sciences. Her analysis suggests that the industry must first stabilize these basic building blocks before general-purpose models can achieve widespread, transformative impact.</p><hr/><small>16 Oct 2026, 21:37 UTC | #24521</small>]]></content>
+  </entry>
   <entry>
     <title>Intuit Acquires Revenue Management Startup Sequence</title>
     <link href="https://www.thetimes.com/" rel="alternate" />

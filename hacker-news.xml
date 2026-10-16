@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T14:30:00+00:00</updated>
+  <updated>2026-10-16T19:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Discover-Tech Targeted Ads Used to Deliver Zero-Click Spyware</title>
+    <link href="https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware" rel="alternate" />
+    <id>https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware::v239</id>
+    <published>2026-10-16T19:11:00+00:00</published>
+    <updated>2026-10-16T19:11:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware">theverge.com</a> | <a href="https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/">source</a> | <a href="https://news.ycombinator.com/item?id=50106676">hacker news</a></small></p><hr/><p>Researchers from Citizen Lab and Confiant have uncovered that the Israeli ad tech firm Discover-Tech uses targeted online advertisements to deliver "zero-click" spyware, which infects devices without user interaction. The investigation found that these attacks targeted at least 45 devices at the news organization Al Jazeera during 2024 and 2025.</p><p>The firm's Controlium platform facilitates user profiling and de-anonymization via IP addresses, mobile ad IDs, or browser identifiers. Researchers linked the campaign to Candiru, a US-blacklisted spyware company. Google and Beeswax have since removed Discover-Tech from their advertising platforms, and IAB Europe suspended the company from its approved vendor list.</p><hr/><small>16 Oct 2026, 21:45 UTC | #24541</small>]]></content>
+  </entry>
   <entry>
     <title>The Visual Appeal of Software Rendering in Classic DOS Games</title>
     <link href="https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/" rel="alternate" />
