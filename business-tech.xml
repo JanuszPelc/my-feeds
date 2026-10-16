@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T19:22:00+00:00</updated>
+  <updated>2026-10-15T19:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Two Deaths Following Explosion at Intel's Kiryat Gat Facility</title>
+    <link href="https://www.calcalistech.com/ctechnews/article/ay5slvopq" rel="alternate" />
+    <id>https://www.calcalistech.com/ctechnews/article/ay5slvopq::v239</id>
+    <published>2026-10-15T19:45:00+00:00</published>
+    <updated>2026-10-15T19:45:00+00:00</updated>
+    <media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/14/S1Dwp16szg/S1Dwp16szg_0_0_642_361_0_large.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.calcalistech.com/ctechnews/article/ay5slvopq">calcalistech.com</a></small></p><hr/><p>A blast at the Kiryat Gat plant has resulted in two fatalities and left a third worker in critical condition. Investigators suspect the incident occurred when a gas cylinder detonated during truck unloading operations, sparking a fire.</p><p>The explosion also caused a leak of toxic nitrogen trifluoride (NF₃) gas, requiring hazardous materials teams to monitor the risk to nearby residents. Police are currently investigating whether the cause was a technical malfunction or negligence.</p><p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/14/S1Dwp16szg/S1Dwp16szg_0_0_642_361_0_large.jpg" /></p><hr/><small>16 Oct 2026, 01:15 UTC | #24440</small>]]></content>
+  </entry>
+  <entry>
+    <title>Volvo to Use Nvidia AI for Hands-Free, Point-to-Point Driving</title>
+    <link href="https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban" rel="alternate" />
+    <id>https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban::v239</id>
+    <published>2026-10-15T19:44:00+00:00</published>
+    <updated>2026-10-15T19:44:00+00:00</updated>
+    <media:thumbnail url="https://www.nvidia.com/content/dam/en-zz/Solutions/self-driving-cars/home/automotive-sdv-og.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban">theverge.com</a></small></p><hr/><p>Volvo plans to launch a hands-free, point-to-point driving system by 2030, powered by Nvidia’s Hyperion platform and Alpamayo software. The Level 2++ system is designed to navigate complex urban environments, including managing traffic lights, stop signs, and unprotected left turns without explicit driver control.</p><p>The initiative expands Volvo's partnership with Nvidia following previous setbacks with its Level 3 system and lidar integration. The new technology will combine Nvidia's reasoning-based AI models with Volvo's proprietary driver-monitoring and connected safety systems to increase situational awareness.</p><p><img src="https://www.nvidia.com/content/dam/en-zz/Solutions/self-driving-cars/home/automotive-sdv-og.jpg" /></p><hr/><small>16 Oct 2026, 01:14 UTC | #24434</small>]]></content>
+  </entry>
   <entry>
     <title>Accenture Limits Monthly Employee Spending on Claude to $29</title>
     <link href="https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/" rel="alternate" />
