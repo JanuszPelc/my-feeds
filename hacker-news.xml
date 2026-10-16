@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-15T18:18:00+00:00</updated>
+  <updated>2026-10-15T18:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Libreboot 26.10 "Ominous Olive" Adds Full UEFI Support</title>
+    <link href="https://libreboot.org/news/libreboot2610.html" rel="alternate" />
+    <id>https://libreboot.org/news/libreboot2610.html::v239</id>
+    <published>2026-10-15T18:22:00+00:00</published>
+    <updated>2026-10-15T18:22:00+00:00</updated>
+    <media:thumbnail url="https://av.libreboot.org/t480/t480.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://libreboot.org/news/libreboot2610.html">libreboot.org</a> | <a href="https://news.ycombinator.com/item?id=50102923">hacker news</a></small></p><hr/><p>Libreboot 26.10, codenamed "Ominous Olive," introduces full UEFI support across nearly all supported mainboards. By integrating the MrChromebox EDK2 payload, the firmware now enables compatibility with Microsoft Windows 10 and 11, as well as modern Linux and BSD operating systems using EFI bootloaders.</p><p>This release incorporates 233 Chromebook boards from the MrChromebox project and establishes EDK2 as the default payload, while providing EFI-compliant versions of GRUB and SeaBIOS for backward compatibility. The update also implements an anti-AI policy and disables Intel Management Engine (ME) by default on supported hardware.</p><p><img src="https://av.libreboot.org/t480/t480.jpg" /></p><hr/><small>16 Oct 2026, 00:04 UTC | #24461</small>]]></content>
+  </entry>
   <entry>
     <title>E Ink Announces Kaleido 4 Color E-Paper Technology</title>
     <link href="https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness" rel="alternate" />
