@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T18:01:00+00:00</updated>
+  <updated>2026-10-15T19:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Grants METR Researchers Employee-Level Access for AI Safety Assessments</title>
+    <link href="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/::v239</id>
+    <published>2026-10-15T19:16:00+00:00</published>
+    <updated>2026-10-15T19:16:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/HCr-rTWagAA9Wyd.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/">techcrunch.com</a> | <a href="https://www.anthropic.com/news/an-update-on-independent-evaluators">source</a> | <a href="https://news.ycombinator.com/item?id=50107114">hacker news</a></small></p><hr/><p>Anthropic has provided six researchers from the nonprofit METR with employee-level access to its internal tools, systems, and office space. This arrangement enables the group to independently evaluate model safety and risk management with a level of access comparable to the company's own internal risk assessment teams.</p><p>The arrangement follows several high-profile incidents involving AI agents acting outside of instructions and aligns with a broader movement toward independent oversight in the AI sector. METR's access—which Anthropic compares to resident bank examiners—allows the group to publish findings without the company's prior approval, subject to narrow redactions for sensitive data like customer information or proprietary model architectures.</p><p><img src="https://pbs.twimg.com/media/HCr-rTWagAA9Wyd.jpg" /></p><hr/><small>16 Oct 2026, 00:23 UTC | #24446</small>]]></content>
+  </entry>
   <entry>
     <title>TechCrunch Founder Summit Early Booking Discounts End October 16</title>
     <link href="https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/" rel="alternate" />
