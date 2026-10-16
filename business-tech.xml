@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T20:06:00+00:00</updated>
+  <updated>2026-10-15T20:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>DOJ Officials Halt Criminal Investigation of Meta Platforms Over Illegal Drug Sales</title>
+    <link href="https://news.bloomberglaw.com/tech-and-telecom-law/meta-platforms-drug-sale-criminal-probe-halted-by-doj-officials" rel="alternate" />
+    <id>https://news.bloomberglaw.com/tech-and-telecom-law/meta-platforms-drug-sale-criminal-probe-halted-by-doj-officials::v239</id>
+    <published>2026-10-15T20:07:00+00:00</published>
+    <updated>2026-10-15T20:07:00+00:00</updated>
+    <media:thumbnail url="https://content.presspage.com/uploads/1485/9a6c227f-5546-4ea9-ba31-bb19b15e5aed/ca25375258_2.jpg?10000" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://news.bloomberglaw.com/tech-and-telecom-law/meta-platforms-drug-sale-criminal-probe-halted-by-doj-officials">news.bloomberglaw.com</a></small></p><hr/><p>Top Department of Justice officials have ordered career prosecutors to cease a long-running criminal investigation into Meta Platforms concerning the facilitation of illegal pharmaceutical sales. Following advocacy from Meta's legal team and subpoenas issued to company executives, senior DOJ leaders are now considering civil resolutions, such as fines or non-prosecution agreements, rather than pursuing criminal charges related to the sale of drugs like fentanyl on Meta's platforms.</p><p>The investigation, which began during the Biden administration, examined whether Meta's social media platforms enabled youth to purchase addictive substances and potentially profited from these transactions. The pivot to civil enforcement reflects a shift in the Trump administration's approach to corporate investigations, moving away from aggressive criminal prosecutions toward what officials describe as "surgical" enforcement of the law.</p><p><img src="https://content.presspage.com/uploads/1485/9a6c227f-5546-4ea9-ba31-bb19b15e5aed/ca25375258_2.jpg?10000" /></p><hr/><small>16 Oct 2026, 02:16 UTC | #24447</small>]]></content>
+  </entry>
   <entry>
     <title>Google Expands News AI Pilot to Over 400 Publications</title>
     <link href="https://www.niemanlab.org/2026/10/googles-news-ai-pilot-expands-to-over-400-publications-including-u-s-local-news-outlets/" rel="alternate" />
