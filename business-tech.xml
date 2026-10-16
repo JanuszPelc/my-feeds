@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-16T18:59:00+00:00</updated>
+  <updated>2026-10-16T19:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>SnoutCover Nose Guard for Dogs Reaches 500 Customers</title>
+    <link href="https://snoutcover.com/one-year" rel="alternate" />
+    <id>https://snoutcover.com/one-year::v239</id>
+    <published>2026-10-16T19:04:00+00:00</published>
+    <updated>2026-10-16T19:04:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://snoutcover.com/one-year">snoutcover.com</a> | <a href="https://news.ycombinator.com/item?id=50105344">hacker news</a></small></p><hr/><p>SnoutCover, a 3D-printed nose guard designed to manage Discoid Lupus Erythematosus (DLE) in dogs, has reached 500 customers in its first year of operation. The device is designed to provide UV protection for sensitive skin and prevent dogs from licking off necessary topical medications.</p><p>Originally shared as a free 3D model by Omri Hillel, the product evolved from a personal solution for his pitbull into a small-scale commercial enterprise. The founder manages the entire production cycle, including 3D printing, strap assembly, and packaging, from a studio shed.</p><hr/><small>16 Oct 2026, 21:08 UTC | #24538</small>]]></content>
+  </entry>
   <entry>
     <title>Developers Express Concern Over Potential Apple Antitrust Settlement Terms</title>
     <link href="https://www.theinformation.com/articles/apples-antitrust-settlement-talks-spur-worries-among-developers" rel="alternate" />
