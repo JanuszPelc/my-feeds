@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-15T13:41:00+00:00</updated>
+  <updated>2026-10-16T01:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Religious Studies Frameworks Applied to Software Engineering</title>
+    <link href="https://tombh.co.uk/religious-studies-in-software-engineering" rel="alternate" />
+    <id>https://tombh.co.uk/religious-studies-in-software-engineering::v239</id>
+    <published>2026-10-16T01:40:00+00:00</published>
+    <updated>2026-10-16T01:40:00+00:00</updated>
+    <media:thumbnail url="https://topdev.vn/blog/wp-content/uploads/2020/02/software-engineer-education-requirements-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://tombh.co.uk/religious-studies-in-software-engineering">tombh.co.uk</a> | <a href="https://lobste.rs/s/ivsn8e/religious_studies_software_engineering">discussion</a></small></p><hr/><p>Religious studies methodologies provide critical frameworks for understanding the human and societal impacts of software engineering. Programming and digital media act as technologies that shape ideologies and social structures, echoing historical transitions from orality to print.</p><p>Applying concepts like the "insider/outsider problem" and "ultimate concern" suggests that contemporary digital trends, such as the pursuit of the technological singularity, mirror traditional religious patterns. The digital medium acts as a transformative environment that influences the fundamental structure of human culture and belief.</p><p><img src="https://topdev.vn/blog/wp-content/uploads/2020/02/software-engineer-education-requirements-1.png" /></p><hr/><small>16 Oct 2026, 05:47 UTC | #24474</small>]]></content>
+  </entry>
   <entry>
     <title>Pew Research Finds Nearly 40% of U.S. Adults Belong to Online Communities</title>
     <link href="https://www.pewresearch.org/internet/2026/10/14/online-community-and-connection-in-america/" rel="alternate" />

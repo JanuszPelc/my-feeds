@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T01:33:00+00:00</updated>
+  <updated>2026-10-16T01:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Malware Disguised as South Park Episodes Steals Sensitive User Credentials</title>
+    <link href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup" rel="alternate" />
+    <id>https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup::v239</id>
+    <published>2026-10-16T01:39:00+00:00</published>
+    <updated>2026-10-16T01:39:00+00:00</updated>
+    <media:thumbnail url="https://content.any.run/tasks/170fa1ee-e807-4b27-8a33-23265a48a03d/download/screens/ffd46134-d3e8-4e72-ba6d-cc2c43ee4ec9/image.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup">thereallo.dev</a> | <a href="https://news.ycombinator.com/item?id=50108872">hacker news</a></small></p><hr/><p>A piece of malware is being distributed via torrent trackers, disguised as a *South Park* episode with an `.exe` extension. The malware utilizes multiple layers of obfuscation, including XOR and AES-CTR, to evade detection and employs "dead drop" techniques via YouTube and GitHub to receive exfiltration instructions.</p><p>Once active, the malware targets sensitive data such as browser credentials, cryptocurrency wallets, password managers, and session tokens for platforms like Discord and Steam. It compresses the stolen information using zlib before exfiltrating it. Users are advised to configure torrent clients to block executable files and to monitor automation tools like Sonarr for suspicious file types.</p><p><img src="https://content.any.run/tasks/170fa1ee-e807-4b27-8a33-23265a48a03d/download/screens/ffd46134-d3e8-4e72-ba6d-cc2c43ee4ec9/image.jpeg" /></p><hr/><small>16 Oct 2026, 05:43 UTC | #24473</small>]]></content>
+  </entry>
   <entry>
     <title>Tesla Roadster Webpage Access Denied</title>
     <link href="https://www.tesla.com/roadster" rel="alternate" />
