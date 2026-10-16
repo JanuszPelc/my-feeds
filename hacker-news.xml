@@ -976,13 +976,4 @@
     <updated>2026-10-11T22:00:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them">nonfunctional.substack.com</a> | <a href="https://news.ycombinator.com/item?id=50048312">hacker news</a></small></p><hr/><p>Passkey implementations can reduce user autonomy compared to traditional passwords or TOTP. While passwords and TOTP allow users to choose their own storage and sharing methods, the WebAuthn standard permits websites to mandate specific credential requirements—such as non-copyable or hardware-backed keys—which limits a user's ability to manage or migrate their own authentication data.</p><p>Credential types vary from software-backed to "attested" hardware-backed keys. While hardware-backed credentials leverage secure enclaves or TPMs to provide high security, they can be cryptographically verified through remote attestation, allowing services to reject user-managed software implementations in favor of more restrictive, hardware-dependent options.</p><hr/><small>12 Oct 2026, 00:53 UTC | #23971</small>]]></content>
   </entry>
-  <entry>
-    <title>Tilde Expansion Issues in Quoted PATH Variables</title>
-    <link href="https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/" rel="alternate" />
-    <id>https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/::v239</id>
-    <published>2026-10-11T18:21:00+00:00</published>
-    <updated>2026-10-11T18:21:00+00:00</updated>
-    <media:thumbnail url="https://www.justinmklam.com/posts/2026/05/sandboxing-with-nono/nono-claude.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/">disconnect3d.pl</a> | <a href="https://news.ycombinator.com/item?id=50042425">hacker news</a></small></p><hr/><p>Quoting a tilde (~) within the PATH environment variable in Bash or Zsh prevents the shell from performing home directory expansion. This results in the literal ~ character being added to the PATH, causing the shell to search for directories named after the tilde in the current working directory rather than in the user's home folder.</p><p>This behavior occurs because quoting inhibits tilde expansion during variable assignment. While unquoted tildes may work in certain contexts, using the $HOME environment variable is a more robust and reliable method for ensuring correct path resolution in shell configuration files like .bashrc or .zshrc.</p><p><img src="https://www.justinmklam.com/posts/2026/05/sandboxing-with-nono/nono-claude.png" /></p><hr/><small>11 Oct 2026, 22:23 UTC | #23967</small>]]></content>
-  </entry>
 </feed>
