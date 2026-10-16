@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T02:54:00+00:00</updated>
+  <updated>2026-10-16T03:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Gleam Compiler Implementation of Case Expression Exhaustiveness</title>
+    <link href="https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp" rel="alternate" />
+    <id>https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp::v239</id>
+    <published>2026-10-16T03:43:00+00:00</published>
+    <updated>2026-10-16T03:43:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp">oyster.pckt.blog</a> | <a href="https://lobste.rs/s/vyo9n2/gleam_case_exhaustiveness_as_fan">discussion</a></small></p><hr/><p>This article explores the internal logic used by the Gleam compiler to perform exhaustiveness checking in case expressions. By building decision trees and identifying "witnesses"—specific values that fail to match any provided clause—the compiler can inform developers exactly which patterns are missing, preventing potential runtime crashes.</p><p>The implementation draws on pattern-matching theories from researchers like Lennart Augustsson and Luc Maranget. The author highlights how Gleam addresses complex edge cases involving string prefixes, inline guards, bit array manipulation, and type-narrowing to provide precise error diagnostics and efficient code generation.</p><hr/><small>16 Oct 2026, 11:09 UTC | #24489</small>]]></content>
+  </entry>
   <entry>
     <title>Withings Implements Subscription Requirement for Apple Health Syncing for New Users</title>
     <link href="https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts" rel="alternate" />
