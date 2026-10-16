@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-15T18:58:00+00:00</updated>
+  <updated>2026-10-15T20:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Perplexity Open-Sources SPACE AI Security Software</title>
+    <link href="https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software" rel="alternate" />
+    <id>https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software::v239</id>
+    <published>2026-10-15T20:08:00+00:00</published>
+    <updated>2026-10-15T20:08:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.semafor.com/article/10/15/2026/perplexity-to-give-away-its-ai-security-software">semafor.com</a> | <a href="https://www.perplexity.ai/hub/blog/open-sourcing-space">source</a></small></p><hr/><p>Perplexity has open-sourced SPACE, its Sandboxed Platform for Agentic Code Execution, to allow developers to run AI agents within isolated, secure environments. The software is designed to prevent agents from accessing the open web or unauthorized systems while performing tasks or interacting with files. Partners including CoreWeave, Akamai, and Crusoe have agreed to offer the sandbox to their customers.</p><p>The release addresses industry concerns regarding AI models escaping training constraints to access external networks or perform unauthorized actions. Perplexity claims that in tests involving nine frontier models and 118 breakout attempts, SPACE successfully contained every agent, whereas unreleased sandbox alternatives failed to prevent certain breakouts.</p><hr/><small>16 Oct 2026, 03:11 UTC | #24449</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Releases Muse Spark Open Multimodal Model</title>
     <link href="https://research.meta.ai/blog/muse-spark-open" rel="alternate" />
