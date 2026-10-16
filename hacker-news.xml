@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T08:06:00+00:00</updated>
+  <updated>2026-10-16T09:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Institute of Computing for Climate Science to Host Fortran 70th Anniversary Event</title>
+    <link href="https://fortran-lang.org/news/2026/09-15-Fortran-birthday/" rel="alternate" />
+    <id>https://fortran-lang.org/news/2026/09-15-Fortran-birthday/::v239</id>
+    <published>2026-10-16T09:31:00+00:00</published>
+    <updated>2026-10-16T09:31:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fortran-lang.org/news/2026/09-15-Fortran-birthday/">fortran-lang.org</a> | <a href="https://fortran-index.github.io/fortran-index/page/fortran_birthday.html">source</a> | <a href="https://news.ycombinator.com/item?id=50104726">hacker news</a></small></p><hr/><p>The Institute of Computing for Climate Science (ICCS) will host an event on December 1, 2026, at the Science and Industry Museum in Manchester to celebrate the 70th anniversary of the Fortran programming language. The workshop will commemorate Fortran's long-standing role in supporting scientific computing and critical infrastructure in fields such as climate forecasting, nuclear engineering, and materials science.</p><p>The program will feature a keynote address by Damian Rouson, lightning talks, and breakout discussions, followed by a reception including a demonstration of the 1940s 'Baby' experimental computer. Attendance is free and offers both in-person and remote options via Zoom; registration will close on November 9, 2026.</p><hr/><small>16 Oct 2026, 15:19 UTC | #24512</small>]]></content>
+  </entry>
   <entry>
     <title>Solène Outlines Secure Self-Hosted Infrastructure Using Incus OS</title>
     <link href="https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html" rel="alternate" />
