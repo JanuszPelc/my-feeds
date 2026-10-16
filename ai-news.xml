@@ -457,20 +457,4 @@
     <media:thumbnail url="https://www.aitntnews.com/pictures/2026/1/31/f3ede984-fe55-11f0-81e8-fa163e47d677.webp" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828">ft.com</a></small></p><hr/><p>Former DeepMind scientist David Silver is developing Ineffable, a startup focused on building AI "super learners" through reinforcement learning. This approach seeks to move beyond the data-heavy requirements of current large language models by creating machines capable of continuous, autonomous learning through self-improvement rather than relying primarily on human-generated datasets.</p><p>Ineffable has secured $1.1 billion in seed financing at a $5.1 billion post-money valuation, led by Sequoia Capital and Lightspeed Venture Partners. The funding represents one of the largest seed rounds in Europe and supports the development of AI architectures designed to teach themselves.</p><p><img src="https://www.aitntnews.com/pictures/2026/1/31/f3ede984-fe55-11f0-81e8-fa163e47d677.webp" /></p><hr/><small>12 Oct 2026, 12:44 UTC | #23985</small>]]></content>
   </entry>
-  <entry>
-    <title>PolyAI and Otter Executives Discuss Limitations of Voice AI</title>
-    <link href="https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/::v239</id>
-    <published>2026-10-11T14:40:00+00:00</published>
-    <updated>2026-10-11T14:40:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/">techcrunch.com</a></small></p><hr/><p>Voice AI technology lacks the reasoning speed and transcription accuracy required to reach the transformative "ChatGPT moment" seen in text-based models. While full-duplex models can listen and speak simultaneously, current limitations in Automatic Speech Recognition (ASR) and processing speeds prevent the fluid, natural conversation necessary for high-trust enterprise and meeting automation.</p><p>Future developments focus on improving intent capture and creating emotive "digital twins" to enable more strategic, relationship-based discussions. Additionally, industry leaders emphasized the necessity of transparency, specifically through mandatory disclosures when users are interacting with AI agents or are being recorded.</p><hr/><small>11 Oct 2026, 19:08 UTC | #23930</small>]]></content>
-  </entry>
-  <entry>
-    <title>Byte Language Models Demonstrate Superior Scaling and Emergent Abstractions</title>
-    <link href="https://arxiv.org/html/2610.05978v1" rel="alternate" />
-    <id>https://arxiv.org/html/2610.05978v1::v239</id>
-    <published>2026-10-11T14:32:00+00:00</published>
-    <updated>2026-10-11T14:32:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://arxiv.org/html/2610.05978v1">arxiv.org</a> | <a href="https://arxiv.org/abs/2610.05978">source</a> | <a href="https://lobste.rs/s/t2fxpt/byte_language_models_scaling_emergent">discussion</a></small></p><hr/><p>Byte-level language models that process text as raw bytes can outperform subword-based Transformers as model size scales when utilizing token-superposition training and hash embeddings. While the longer sequences increase computational requirements, they provide a beneficial increase in total computation per parameter, allowing the models to leverage larger training data volumes effectively.</p><p>These models develop implicit, internal text abstractions that function similarly to explicit tokenizers. These learned structures allow for more efficient speculative decoding, producing a higher rate of accepted tokens than subword models. Furthermore, byte-level representations improve performance in fine-grained tasks, including optical character recognition (OCR) and word manipulation.</p><hr/><small>11 Oct 2026, 17:39 UTC | #23946</small>]]></content>
-  </entry>
 </feed>

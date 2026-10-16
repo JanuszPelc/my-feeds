@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-15T16:22:00+00:00</updated>
+  <updated>2026-10-16T09:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Game Developer Podcast Discusses Misconceptions in Game Writing</title>
+    <link href="https://www.gamedeveloper.com/design/busting-myths-in-game-writing-ft-bruno-dias-aysha-farah-andrea-saravia-perez" rel="alternate" />
+    <id>https://www.gamedeveloper.com/design/busting-myths-in-game-writing-ft-bruno-dias-aysha-farah-andrea-saravia-perez::v239</id>
+    <published>2026-10-16T09:27:00+00:00</published>
+    <updated>2026-10-16T09:27:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt284ea5bd37182673/6ac94511af35a1f6a94e2f88/narrativemythbusting.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/design/busting-myths-in-game-writing-ft-bruno-dias-aysha-farah-andrea-saravia-perez">gamedeveloper.com</a> | <a href="https://www.youtube.com/watch?v=lNW9FC3S_rI">source</a></small></p><hr/><p>The Game Developer Podcast features Bruno Dias, Aysha Farah, and Andrea Saravia Pérez discussing common misconceptions in game writing and narrative design. Key myths addressed include the idea that screenwriting is identical to game writing, the assumption that players do not want to read, and the belief that stories are written before development begins.</p><p>The participants share professional insights from work on titles such as *Fallen London*, *Life is Strange: Double Exposure*, and *Sid Meier's Civilization VII*. The discussion highlights how these misconceptions can harm the development process and clarifies the role of narrative design within a production pipeline.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt284ea5bd37182673/6ac94511af35a1f6a94e2f88/narrativemythbusting.png?width=720&quality=80&disable=upscale" /></p><hr/><small>16 Oct 2026, 14:43 UTC | #24509</small>]]></content>
+  </entry>
   <entry>
     <title>Steam Update Outperforms Epic Games' New Preview Launcher in Boot Speed</title>
     <link href="https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/" rel="alternate" />
