@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-15T19:16:00+00:00</updated>
+  <updated>2026-10-15T19:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Meta and Apple Collaborate on AI</title>
+    <link href="https://www.axios.com/2026/10/15/apple-and-meta-bury-the-hatchet-for-ai" rel="alternate" />
+    <id>https://www.axios.com/2026/10/15/apple-and-meta-bury-the-hatchet-for-ai::v239</id>
+    <published>2026-10-15T19:18:00+00:00</published>
+    <updated>2026-10-15T19:18:00+00:00</updated>
+    <media:thumbnail url="https://img.36krcdn.com/hsossms/20260706/v2_4bbec9fb484149ec9b8f7b46e0218af9@1003343244_oswg446404oswg1080oswg585_img_000?x-oss-process=image/format,jpg/interlace,1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/15/apple-and-meta-bury-the-hatchet-for-ai">axios.com</a></small></p><hr/><p>Meta and Apple are cooperating on artificial intelligence, marking an end to years of public disputes over privacy and computing standards. Meta Chief AI Officer Alexandr Wang credited former Apple executive Daniel Gross, who recently joined Meta, with facilitating the reconciliation between the two companies.</p><p>This strategic alignment aims to integrate Meta's powerful open-weight AI models into Apple's ecosystem, including high-end Mac computers. The move signals a shift toward industry cooperation after long-standing tensions regarding data privacy and platform control.</p><p><img src="https://img.36krcdn.com/hsossms/20260706/v2_4bbec9fb484149ec9b8f7b46e0218af9@1003343244_oswg446404oswg1080oswg585_img_000?x-oss-process=image/format,jpg/interlace,1" /></p><hr/><small>16 Oct 2026, 00:41 UTC | #24428</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Grants METR Researchers Employee-Level Access for AI Safety Assessments</title>
     <link href="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/" rel="alternate" />
