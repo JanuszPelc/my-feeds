@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-16T17:09:00+00:00</updated>
+  <updated>2026-10-16T18:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Claude Traces NIST ECDSA Curve Seeds to Timestamp-Seeded RNG</title>
+    <link href="https://www.anthropic.com/research/ecdsa-curve-origins" rel="alternate" />
+    <id>https://www.anthropic.com/research/ecdsa-curve-origins::v239</id>
+    <published>2026-10-16T18:56:00+00:00</published>
+    <updated>2026-10-16T18:56:00+00:00</updated>
+    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fe4948d016f5879d721c3297b1ee1073b1e6b5734-2912x1064.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.anthropic.com/research/ecdsa-curve-origins">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50122800">hacker news</a></small></p><hr/><p>Anthropic's Claude model has identified the origins of the NIST ECDSA elliptic curve seeds, resolving a decades-old mystery regarding their provenance. The model discovered that the seeds were generated using the C library's lrand48 pseudorandom number generator initialized with Unix timestamps, rather than being the result of a hash function as previously theorized.</p><p>This discovery mitigates long-standing suspicions of intentional cryptographic backdoors by showing the parameters were created through a simple, reproducible process. Claude identified the pattern by detecting bit signatures characteristic of a linear congruential generator and used lattice-based algorithms to reconstruct the original generator states.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fe4948d016f5879d721c3297b1ee1073b1e6b5734-2912x1064.png&w=3840&q=75" /></p><hr/><small>16 Oct 2026, 20:25 UTC | #24537</small>]]></content>
+  </entry>
   <entry>
     <title>Mercor Research Maps AI Benchmark Coverage Across US Occupations</title>
     <link href="https://www.mercor.com/research/labor-index/benchmark-map/" rel="alternate" />
