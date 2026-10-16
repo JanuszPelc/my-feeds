@@ -708,22 +708,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/plugin-record-2x.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/arvital-audio-updates-audioroute-to-v1-2-4-69021?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69021">kvraudio.com</a> | <a href="https://audio-route.com/">source</a></small></p><hr/><p>Arvital Audio has released version 1.2.4 of AudioRoute, a maintenance update focused on the global recording shortcut. To avoid conflicts with Ableton Live's export command on macOS, the default shortcut has been changed from Cmd+Shift+R to Ctrl+Option+R. The Windows update fixes issues where the Ctrl key was misread as the Windows key and resolves bugs involving the retyping of existing shortcuts.</p><p>The shortcut field on both platforms now provides real-time feedback on accepted or rejected keys, supports Backspace for clearing entries, and allows users to access shortcut settings by clicking the displayed shortcut.</p><p><img src="https://static.kvraudio.com/i/b/plugin-record-2x.png" /></p><hr/><small>11 Oct 2026, 15:48 UTC | #23936</small>]]></content>
   </entry>
-  <entry>
-    <title>Pointless Audio Releases PortaTwin Cassette Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/10/11/pointless-audio-portatwin/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/11/pointless-audio-portatwin/::v239</id>
-    <published>2026-10-11T10:46:00+00:00</published>
-    <updated>2026-10-11T10:46:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/ts440_kvr.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/11/pointless-audio-portatwin/">bedroomproducersblog.com</a> | <a href="https://pointlessaudio.studio/plugins/portatwin/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/11/pointless-audio-portatwin/#comments">discussion</a></small></p><hr/><p>PortaTwin is a channel strip plugin modeled after the 1987 Tascam Porta Two Ministudio. Available for Mac and Windows in VST3, AU, and CLAP formats, the software is a pay-what-you-want emulation of a four-track cassette recorder.</p><p>The plugin simulates the audio characteristics of vintage tape machines, including preamp clipping, wow, flutter, and tape hiss. These features are intended to replicate the sonic texture of era-specific bedroom recordings.</p><p><img src="https://static.kvraudio.com/i/b/ts440_kvr.jpg" /></p><hr/><small>11 Oct 2026, 15:17 UTC | #23919</small>]]></content>
-  </entry>
-  <entry>
-    <title>SQ8L 64-bit Port Released for macOS, Windows, and Linux</title>
-    <link href="https://bedroomproducersblog.com/2026/10/11/sq8l-64-bit/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/11/sq8l-64-bit/::v239</id>
-    <published>2026-10-11T10:45:00+00:00</published>
-    <updated>2026-10-11T10:45:00+00:00</updated>
-    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-CPPl0n5ZdnCcknnPH-vCN4614GVTLrpBb6x9Lf4qpzHYKwYGb9bab1FU69ZMXL3aPBsy0TYpTJllcmT-jQqlbFGan-SV6jBqO9ugxRFgxBECsKqLdSWrKDW1mRiUTsS5dRZpKHGizsQ4A-7JYoqjzfvpQFT1cyJ_Q3T9avB7pVvmsb-vo5cQ/s1600/s-l1600-2.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/11/sq8l-64-bit/">bedroomproducersblog.com</a> | <a href="https://github.com/sq8l-revival/SQ8L">source</a> | <a href="https://bedroomproducersblog.com/2026/10/11/sq8l-64-bit/#respond">discussion</a></small></p><hr/><p>A 64-bit port of Siegfried Kullmann’s SQ8L, a free emulation of the Ensoniq SQ-80 synthesizer, is now compatible with macOS (Apple Silicon and Intel), Windows, and Linux. The software is available in VST2, VST3, Audio Unit, and CLAP formats.</p><p>The revival team reconstructed the plugin from the original 32-bit binary because the source code was never released. The resulting port is bit-identical to the original software and maintains compatibility with existing projects, libraries, and SysEx files.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-CPPl0n5ZdnCcknnPH-vCN4614GVTLrpBb6x9Lf4qpzHYKwYGb9bab1FU69ZMXL3aPBsy0TYpTJllcmT-jQqlbFGan-SV6jBqO9ugxRFgxBECsKqLdSWrKDW1mRiUTsS5dRZpKHGizsQ4A-7JYoqjzfvpQFT1cyJ_Q3T9avB7pVvmsb-vo5cQ/s1600/s-l1600-2.jpg" /></p><hr/><small>11 Oct 2026, 15:00 UTC | #23920</small>]]></content>
-  </entry>
 </feed>

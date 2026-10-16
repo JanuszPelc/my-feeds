@@ -998,29 +998,4 @@
     <updated>2026-10-11T12:29:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/">shkspr.mobi</a> | <a href="https://news.ycombinator.com/item?id=50042219">hacker news</a></small></p><hr/><p>Terence Eden conducted usability tests on the ActivityBot README by paying volunteers to follow the instructions aloud during video calls. This process aimed to identify developer biases and technical errors, including broken links and incorrect command syntax, that the author had overlooked during development.</p><p>The feedback sessions resulted in iterative updates to the documentation to address user confusion regarding file operations and web server permissions. Eden argues that direct human observation is more effective than LLM simulations for detecting the specific nuances of user frustration and practical usability barriers.</p><hr/><small>11 Oct 2026, 16:03 UTC | #23945</small>]]></content>
   </entry>
-  <entry>
-    <title>IRCv3 Working Group Develops Modern IRC Protocol Specifications</title>
-    <link href="https://ircv3.net/" rel="alternate" />
-    <id>https://ircv3.net/::v239</id>
-    <published>2026-10-11T10:48:00+00:00</published>
-    <updated>2026-10-11T10:48:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://ircv3.net/">ircv3.net</a> | <a href="https://news.ycombinator.com/item?id=50041540">hacker news</a></small></p><hr/><p>The IRCv3 Working Group prototypes and develops specifications to modernize the Internet Relay Chat (IRC) protocol. These extensions are designed to be backwards-compatible with existing clients and servers, introducing features such as SASL-based authentication, message metadata, instant away notifications, and server-side timestamps.</p><p>Active development efforts include standardizing account registration, facilitating chat history access, implementing secure connection detection (STS), and enabling Unicode support for nicknames and channel names.</p><hr/><small>11 Oct 2026, 15:33 UTC | #23941</small>]]></content>
-  </entry>
-  <entry>
-    <title>NumPy 2.5 Optimizes `searchsorted` with Vectorized Binary Search</title>
-    <link href="https://blog.scientific-python.org/numpy/searchsorted/" rel="alternate" />
-    <id>https://blog.scientific-python.org/numpy/searchsorted/::v239</id>
-    <published>2026-10-11T10:44:00+00:00</published>
-    <updated>2026-10-11T10:44:00+00:00</updated>
-    <media:thumbnail url="https://blog.scientific-python.org/numpy/searchsorted/images/figure1-fs8.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.scientific-python.org/numpy/searchsorted/">blog.scientific-python.org</a> | <a href="https://lobste.rs/s/fbs3k7/making_np_searchsorted_up_25x_faster">discussion</a></small></p><hr/><p>NumPy 2.5 introduces a vectorized implementation of `np.searchsorted` that can be up to 25× faster than the version used in NumPy 2.4. By batching binary search steps across all query keys simultaneously, the new algorithm improves cache locality and allows the CPU to perform multiple memory accesses in flight.</p><p>The implementation reduces per-query memory overhead by tracking interval boundaries and lengths instead of separate low and high indices, requiring only $O(1)$ additional memory beyond the output. This optimization enhances performance for scientific computing tasks, such as histogram computation and interval lookups, in libraries like SciPy and scikit-learn.</p><p><img src="https://blog.scientific-python.org/numpy/searchsorted/images/figure1-fs8.png" /></p><hr/><small>11 Oct 2026, 14:36 UTC | #23933</small>]]></content>
-  </entry>
-  <entry>
-    <title>Logfire Introduces Dynamic Shredding for Faster JSON Queries</title>
-    <link href="https://pydantic.dev/articles/dynamic-shredding-2026-01-26" rel="alternate" />
-    <id>https://pydantic.dev/articles/dynamic-shredding-2026-01-26::v239</id>
-    <published>2026-10-11T10:43:00+00:00</published>
-    <updated>2026-10-11T10:43:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://pydantic.dev/articles/dynamic-shredding-2026-01-26">pydantic.dev</a> | <a href="https://lobste.rs/s/6vjx1k/how_shredding_json_is_giving_logfire">discussion</a></small></p><hr/><p>Logfire's "dynamic shredding" optimization accelerates queries for semi-structured OpenTelemetry data by automatically extracting frequently accessed attributes from JSON blobs into separate, strongly typed Parquet columns. By leveraging columnar storage benefits such as zone map pruning and improved compression, the update can reduce query runtimes from 30 seconds to under one second for certain attributes.</p><p>This technique addresses the high I/O and CPU overhead caused by scanning large, variable JSON blobs in object storage. Unlike previous static shredding methods that required manual configuration of specific attributes, dynamic shredding operates automatically and transparently. The feature is scheduled for a full rollout to all Logfire customers starting in February 2026.</p><hr/><small>11 Oct 2026, 14:31 UTC | #23932</small>]]></content>
-  </entry>
 </feed>
