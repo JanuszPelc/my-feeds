@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-16T19:04:00+00:00</updated>
+  <updated>2026-10-16T19:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Intuit Acquires Revenue Management Startup Sequence</title>
+    <link href="https://www.thetimes.com/" rel="alternate" />
+    <id>https://www.thetimes.com/::v239</id>
+    <published>2026-10-16T19:06:00+00:00</published>
+    <updated>2026-10-16T19:06:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.thetimes.com/">thetimes.com</a> | <a href="https://investors.intuit.com/news-events/press-releases/detail/1327/intuit-to-acquire-ai-native-revenue-management-platform-sequence">source</a> | <a href="https://news.ycombinator.com/item?id=50106123">hacker news</a></small></p><hr/><p>Intuit has acquired the UK-based B2B revenue management and billing startup Sequence in a transaction estimated to be worth approximately $200 million. Sequence provides an AI-native platform designed to automate the full quote-to-revenue lifecycle, including deal configuration, pricing, billing, invoicing, and revenue recognition.</p><p>The startup previously secured $19 million in funding in 2022, led by Andreessen Horowitz. The acquisition is expected to bolster Intuit's suite of automated financial workflow tools for commercial and finance teams.</p><hr/><small>16 Oct 2026, 21:22 UTC | #24507</small>]]></content>
+  </entry>
   <entry>
     <title>SnoutCover Nose Guard for Dogs Reaches 500 Customers</title>
     <link href="https://snoutcover.com/one-year" rel="alternate" />
