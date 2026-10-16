@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-16T12:04:00+00:00</updated>
+  <updated>2026-10-16T17:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Mercor Research Maps AI Benchmark Coverage Across US Occupations</title>
+    <link href="https://www.mercor.com/research/labor-index/benchmark-map/" rel="alternate" />
+    <id>https://www.mercor.com/research/labor-index/benchmark-map/::v239</id>
+    <published>2026-10-16T17:09:00+00:00</published>
+    <updated>2026-10-16T17:09:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQHxYZTNeUiO6w/feedshare-shrink_1280/B56ZzGte8.HUAM-/0/1772860338241?e=2147483647&amp;v=beta&amp;t=fabTfW6SUEGm6Eu9aZAt4iRF0O5gjJAXQYJ400n7JGI" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.mercor.com/research/labor-index/benchmark-map/">mercor.com</a> | <a href="https://news.ycombinator.com/item?id=50121179">hacker news</a></small></p><hr/><p>Mercor's research shows that 90% of American working hours are spent on tasks with little to no coverage from existing AI benchmarks. By mapping 29 agentic benchmarks against the US Department of Labor’s O*NET taxonomy, the study identifies significant gaps in how AI models are evaluated against real-world economic activities.</p><p>The analysis reveals that current benchmark coverage is heavily skewed toward high-wage, AI-exposed occupations, such as software engineering and law. This creates a systemic bias that leaves many middle-income knowledge work roles and industrial occupations underrepresented, making it difficult to accurately assess AI model performance across the broader economy.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQHxYZTNeUiO6w/feedshare-shrink_1280/B56ZzGte8.HUAM-/0/1772860338241?e=2147483647&v=beta&t=fabTfW6SUEGm6Eu9aZAt4iRF0O5gjJAXQYJ400n7JGI" /></p><hr/><small>16 Oct 2026, 20:03 UTC | #24535</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Research Model Uses Public Recovery Phrase to Access Unowned Ethereum Test Wallet</title>
     <link href="https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own" rel="alternate" />
