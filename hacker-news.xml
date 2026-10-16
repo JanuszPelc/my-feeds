@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T03:47:00+00:00</updated>
+  <updated>2026-10-16T08:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Solène Outlines Secure Self-Hosted Infrastructure Using Incus OS</title>
+    <link href="https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html" rel="alternate" />
+    <id>https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html::v239</id>
+    <published>2026-10-16T08:06:00+00:00</published>
+    <updated>2026-10-16T08:06:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html">dataswamp.org</a> | <a href="https://lobste.rs/s/q0wobg/my_self_hosted_infrastructure_with_incus">discussion</a></small></p><hr/><p>A highly automated, secure self-hosted infrastructure is built on Incus OS, an immutable operating system designed for Incus container and VM management. The architecture utilizes disposable Ubuntu system containers running Podman applications, with the entire stack orchestrated via OpenTofu and cloud-init to prevent configuration drift and enable full system rebuilds.</p><p>Security is enforced through a "deny-by-default" network model via Incus ACLs, hardware-backed disk encryption via TPM, and segmented access through a dedicated VPN. By treating system containers as ephemeral and automating all service updates, the setup applies cloud-provider security principles to a single-machine home environment.</p><hr/><small>16 Oct 2026, 13:44 UTC | #24502</small>]]></content>
+  </entry>
   <entry>
     <title>Rust 1.99.1 Released</title>
     <link href="https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/" rel="alternate" />
