@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-16T09:33:00+00:00</updated>
+  <updated>2026-10-16T12:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Current Affairs Prohibits AI-Generated Text and Art</title>
+    <link href="https://www.currentaffairs.org/news/why-were-banning-ai" rel="alternate" />
+    <id>https://www.currentaffairs.org/news/why-were-banning-ai::v239</id>
+    <published>2026-10-16T12:06:00+00:00</published>
+    <updated>2026-10-16T12:06:00+00:00</updated>
+    <media:thumbnail url="https://techjacksolutions.com/wp-content/uploads/2025/04/AI-Acceptable-Use-Case-Policy-Infographic.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.currentaffairs.org/news/why-were-banning-ai">currentaffairs.org</a> | <a href="https://news.ycombinator.com/item?id=50108131">hacker news</a></small></p><hr/><p>Current Affairs magazine has implemented a strict anti-AI policy as part of a recent union contract, prohibiting the publication of AI-generated text and the use of AI-generated illustrations. The decision aims to ensure all content is produced by human writers and artists, directly challenging the industry trend of using generative AI to produce low-cost, automated content.</p><p>The editorial argues that media corporations are increasingly adopting generative AI to reduce labor costs, which threatens both the quality of journalism and the livelihoods of creative professionals. By committing to a "handmade" publication model, the magazine intends to resist the "slopification" of media and prioritize authentic human expression over profit-driven automation.</p><p><img src="https://techjacksolutions.com/wp-content/uploads/2025/04/AI-Acceptable-Use-Case-Policy-Infographic.png" /></p><hr/><small>16 Oct 2026, 17:36 UTC | #24526</small>]]></content>
+  </entry>
   <entry>
     <title>The Rise of AI Upskilling Communities in China</title>
     <link href="https://nymag.com/intelligencer/article/china-ai-learning-craze.html?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkU4Qno1bWo4ak4iLCJwIjoiL2ludGVsbGlnZW5jZXIvYXJ0aWNsZS9jaGluYS1haS1sZWFybmluZy1jcmF6ZS5odG1sIiwiZXhwIjoxNzkzMjg5NTEzLCJpYXQiOjE3OTIwNzk5MTN9.SFA3VJwFu9qaw6weW4gmFNCCdv35kSzG45gTYcsveXU&amp;utm_medium=gift_link" rel="alternate" />
