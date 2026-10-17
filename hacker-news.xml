@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T19:21:00+00:00</updated>
+  <updated>2026-10-16T20:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>PostgreSQL 19 Delayed to November Following LLM-Assisted Code Reviews</title>
+    <link href="https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471" rel="alternate" />
+    <id>https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471::v239</id>
+    <published>2026-10-16T20:26:00+00:00</published>
+    <updated>2026-10-16T20:26:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471">theregister.com</a> | <a href="https://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves">source</a> | <a href="https://news.ycombinator.com/item?id=50119991">hacker news</a></small></p><hr/><p>The PostgreSQL Global Development Group has delayed the release of PostgreSQL 19 to November 19, 2026. This postponement follows the decision to revert eight to ten features, including SQL Property Graph Queries (SQL/PGQ), due to architectural defects and a high volume of identified edge-case bugs.</p><p>Lead developer Peter Eisentraut noted that the increased scrutiny is largely due to the use of LLM-assisted code reviews, which have identified many minor issues that historically might have gone unnoticed until well after release. The features removed from the current iteration are expected to be deferred to the PostgreSQL 20 release cycle.</p><hr/><small>17 Oct 2026, 01:52 UTC | #24530</small>]]></content>
+  </entry>
   <entry>
     <title>AI-Assisted Hardware Reverse Engineering for Linux Drivers</title>
     <link href="https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/" rel="alternate" />
