@@ -776,13 +776,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/soryno-tape-pro.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/pinzu-releases-soryno-tape-pro---tape-saturation-plug-in-for-windows-vst3-69023?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69023">kvraudio.com</a> | <a href="https://pinzu.tech/pinzuaudio/products/tape/">source</a></small></p><hr/><p>Pinzu has released Soryno Tape Pro, a paid tape saturation plug-in for Windows in VST3 format. Building on the Soryno Tape Free edition, this version adds controls for tape speed (7.5, 15, or 30 ips), bias, wow and flutter, band limits, and Mid/Side processing.</p><p>The plug-in features real-time visualizers for transfer curves, tape tone, and aliasing levels. It supports up to 8x oversampling and includes 44 presets, while maintaining compatibility with user presets created in the free edition.</p><p><img src="https://static.kvraudio.com/i/b/soryno-tape-pro.png" /></p><hr/><small>12 Oct 2026, 09:30 UTC | #24001</small>]]></content>
   </entry>
-  <entry>
-    <title>AMXOS Launches Four New Audio Plugins for Windows</title>
-    <link href="https://www.kvraudio.com/news/amxos-releases-new-plugins-for-windows-vst3-68955?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68955" rel="alternate" />
-    <id>https://www.kvraudio.com/news/amxos-releases-new-plugins-for-windows-vst3-68955?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68955::v239</id>
-    <published>2026-10-12T01:29:00+00:00</published>
-    <updated>2026-10-12T01:29:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/limiter-2_40pct.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/amxos-releases-new-plugins-for-windows-vst3-68955?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68955">kvraudio.com</a> | <a href="https://amxos.io/products">source</a></small></p><hr/><p>The release includes the AMX Precision Limiter, AMX ARC Compressor, AMX Mortal Coil, and AMX Convergence. These tools provide full-band true-peak limiting, stereo compression, multiple clipping styles, and phase alignment for Windows VST3. Each plugin is also available as a standalone application.</p><p>All four products feature introductory pricing through late October 2026. The suite includes advanced processing options such as spectral clipping with up to 16x oversampling and automated scanning for time-alignment and phase correction.</p><p><img src="https://static.kvraudio.com/i/b/limiter-2_40pct.png" /></p><hr/><small>12 Oct 2026, 08:21 UTC | #23992</small>]]></content>
-  </entry>
 </feed>
