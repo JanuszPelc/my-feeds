@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-16T20:22:00+00:00</updated>
+  <updated>2026-10-16T20:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>HoRNet ZeroLevel Plugin Released</title>
+    <link href="https://www.kvraudio.com/news/hornet-zerolevel-released-automatic-track-levels-for-a-starting-mix-balance-69161?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69161" rel="alternate" />
+    <id>https://www.kvraudio.com/news/hornet-zerolevel-released-automatic-track-levels-for-a-starting-mix-balance-69161?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69161::v239</id>
+    <published>2026-10-16T20:24:00+00:00</published>
+    <updated>2026-10-16T20:24:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot-zerolevel-dark.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/hornet-zerolevel-released-automatic-track-levels-for-a-starting-mix-balance-69161?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69161">kvraudio.com</a> | <a href="https://www.kvraudio.com/product/hornet-zerolevel-by-hornet">source</a></small></p><hr/><p>HoRNet ZeroLevel 1.0.0 is an automatic level-adjustment plugin that establishes a starting mix balance across coordinated tracks. The plugin uses six-band analysis and source-type detection to calculate a single global gain per instance within a group, rather than applying a uniform LUFS value. It does not apply EQ curves or compression to the audio output.</p><p>The tool supports eight independent Group IDs, includes nine presets such as "Vocal Upfront," and allows for manual source category overrides. It provides a ±60 dB total gain range, zero-latency performance in mono and stereo, and the ability to save analysis results within the host project. The plugin is available for a one-time purchase of EUR 24.99.</p><p><img src="https://static.kvraudio.com/i/b/screenshot-zerolevel-dark.png" /></p><hr/><small>17 Oct 2026, 00:26 UTC | #24549</small>]]></content>
+  </entry>
   <entry>
     <title>u-he Releases PANORA Preset Library for Diva</title>
     <link href="https://www.kvraudio.com/news/u-he-releases-panora-for-u-hes-diva-69165?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69165" rel="alternate" />
