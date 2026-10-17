@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-17T14:06:00+00:00</updated>
+  <updated>2026-10-17T14:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Using LLMs to Write Both Code and Tests</title>
+    <link href="https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your" rel="alternate" />
+    <id>https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your::v239</id>
+    <published>2026-10-17T14:08:00+00:00</published>
+    <updated>2026-10-17T14:08:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your">lobste.rs</a> | <a href="https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your">discussion</a></small></p><hr/><p>The author advocates for using Large Language Models (LLMs) to generate both implementation code and unit tests. To avoid the production of tautological or over-engineered code, the author recommends steering models with specific rules to ensure tests remain simple, deterministic, and descriptive of failure modes.</p><p>The proposed methodology involves a "triangulation" method where the LLM reasons between a specification and either the implementation or the test to verify correctness. Additionally, the author suggests using LLMs to manage the Red/Green cycles in Test-Driven Development (TDD) to ensure that code failures accurately indicate the nature of errors.</p><hr/><small>17 Oct 2026, 18:47 UTC | #24606</small>]]></content>
+  </entry>
   <entry>
     <title>llmspeed.dev Provides LLM Inference Speed Estimates for Hardware and Models</title>
     <link href="https://llmspeed.dev/" rel="alternate" />
@@ -970,31 +978,5 @@
     <updated>2026-10-12T18:49:00+00:00</updated>
     <media:thumbnail url="https://lemire.me/blog/wp-content/uploads/2026/10/pyjson-one-core.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/">lemire.me</a> | <a href="https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second">discussion</a> | <a href="https://news.ycombinator.com/item?id=50055912">hacker news</a></small></p><hr/><p>Using Python 3.14's free-threaded version and the `fastsimdjson` library, it is possible to achieve JSON parsing speeds of 66 GB/s. The high throughput is enabled by the `map_many` function used with lazy views, which avoids the computational overhead of creating full Python objects for every field in a JSON object.</p><p>Benchmarks comparing `fastsimdjson` against `orjson`, `msgspec`, and the standard library show that lazy parsing scales efficiently across multiple cores. In a test using 7.6 GB of GH Archive data across 64 threads, the combination of multi-threading and lazy views significantly outperformed `msgspec` and other materialization-based parsing methods.</p><p><img src="https://lemire.me/blog/wp-content/uploads/2026/10/pyjson-one-core.webp" /></p><hr/><small>12 Oct 2026, 21:57 UTC | #24094</small>]]></content>
-  </entry>
-  <entry>
-    <title>Googlebooks Laptops Face Connectivity and Optimization Issues</title>
-    <link href="https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing" rel="alternate" />
-    <id>https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing::v239</id>
-    <published>2026-10-12T18:43:00+00:00</published>
-    <updated>2026-10-12T18:43:00+00:00</updated>
-    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/asus-googlebook-android-17.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing">theverge.com</a> | <a href="https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/">source</a></small></p><hr/><p>Google’s new Googlebook laptop series, which leverages Android software for smartphone continuity, currently provides an inconsistent user experience. While users can cast specific phone apps to the laptop and access certain mobile apps, the platform is hindered by unreliable device pairing, broken file-sharing mechanisms, and poor scaling of desktop-standard applications.</p><p>Key productivity tools like Slack and Adobe apps often fail to function effectively on the mobile-based software, and the "Continue On" feature remains inconsistent. While the integration between phone and laptop shows potential, current limitations in notification management and app optimization make the devices a difficult alternative to traditional laptops.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/asus-googlebook-android-17.jpg?quality=90&strip=all&crop=0,0,100,100" /></p><hr/><small>12 Oct 2026, 21:27 UTC | #24049</small>]]></content>
-  </entry>
-  <entry>
-    <title>Corey Prophitt Ships Commercial Web Product Using C and CGI</title>
-    <link href="https://prophitt.me/writing/a-modern-web-app-in-c" rel="alternate" />
-    <id>https://prophitt.me/writing/a-modern-web-app-in-c::v239</id>
-    <published>2026-10-12T18:37:00+00:00</published>
-    <updated>2026-10-12T18:37:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://prophitt.me/writing/a-modern-web-app-in-c">prophitt.me</a> | <a href="https://news.ycombinator.com/item?id=50058528">hacker news</a></small></p><hr/><p>Developer Corey Prophitt has deployed a commercial web application, marketyour.games, using a minimalist stack consisting of C, OpenBSD, httpd, and SQLite via the Common Gateway Interface (CGI) protocol. The application provides modern features including user accounts, Stripe payments, and transactional emails, all contained within a single, statically linked binary with minimal external dependencies.</p><p>Prophitt argues that CGI remains a viable alternative to modern web frameworks in 2026, citing reduced supply chain risk, simplified deployment via single-file replacement, and lower operational overhead. While the approach necessitates manual implementation of standard web utilities like cookie and form parsing, the developer highlights the efficiency of a stack with minimal moving parts and high-speed compilation.</p><hr/><small>12 Oct 2026, 20:45 UTC | #24090</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Expands Health Guardian and Activity Tracking for Fitbit and Pixel Wearables</title>
-    <link href="https://www.engadget.com/2283270/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/" rel="alternate" />
-    <id>https://www.engadget.com/2283270/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/::v239</id>
-    <published>2026-10-12T18:34:00+00:00</published>
-    <updated>2026-10-12T18:34:00+00:00</updated>
-    <media:thumbnail url="https://www.engadget.com/img/gallery/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/intro-1791748229.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2283270/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/">engadget.com</a> | <a href="https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/">source</a></small></p><hr/><p>Google is extending its Health Guardian suite to Fitbit Air and Fitbit Edge wearables later this month for Premium subscribers. The update provides monthly summaries of blood pressure and insulin resistance trends, alongside wellness recommendations from an in-app Health Coach.</p><p>Additionally, Google is upgrading automatic activity tracking for Fitbit Air, Fitbit Edge, and Pixel Watches 3, 4, and 5, increasing the number of recognized workouts to over 100. A new Metal Mesh band for the Fitbit Air will also be available for pre-order starting next week.</p><p><img src="https://www.engadget.com/img/gallery/google-brings-health-guardian-to-the-fitbit-air-and-edge-and-expands-automatic-activity-tracking/intro-1791748229.jpg" /></p><hr/><small>12 Oct 2026, 20:38 UTC | #24041</small>]]></content>
   </entry>
 </feed>
