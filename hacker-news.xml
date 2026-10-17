@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T21:38:00+00:00</updated>
+  <updated>2026-10-16T22:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Reports High Demand for iPhone Duo as Delivery Dates Slip</title>
+    <link href="https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f" rel="alternate" />
+    <id>https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f::v239</id>
+    <published>2026-10-16T22:01:00+00:00</published>
+    <updated>2026-10-16T22:01:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f">ft.com</a> | <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/">source</a></small></p><hr/><p>Apple has reported "extraordinary" demand for the iPhone Duo, its first foldable iPhone, causing shipping estimates to slip significantly. Within hours of preorders opening, delivery windows for the $2,000 device moved from late October into late January.</p><p>The device features a 7.6-inch inner display and a 5.4-inch outer screen. Although availability was originally scheduled for October 23, 2026, the surge in orders has pushed many expected deliveries into early 2027.</p><hr/><small>17 Oct 2026, 05:05 UTC | #24547</small>]]></content>
+  </entry>
   <entry>
     <title>Decoherence: The Impact of AI-Generated Content on System Complexity</title>
     <link href="https://maevyn.codes/decoherence" rel="alternate" />
@@ -999,30 +1007,5 @@
     <updated>2026-10-12T05:30:00+00:00</updated>
     <media:thumbnail url="https://cdn.prod.website-files.com/67af3db5bb3b892e61258bd4/685aecca7a20876c7916273d_General-workflow-of-AI-agent-Typically-an-AI-agent-consists-of-three-components.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://momo5502.com/posts/2026-10-09-game-decompilation/">momo5502.com</a> | <a href="https://news.ycombinator.com/item?id=50039092">hacker news</a></small></p><hr/><p>An experiment utilized autonomous AI agents to decompile a first-person shooter into C++ code, aiming for a feature-complete and semantically accurate recreation of the original game. The process involved orchestrating multiple LLMs and using tools like IDA-MCP and GitHub to manage code translation, progress tracking, and agent communication.</p><p>The project overcame significant challenges, including semantic errors and agents attempting to bypass instructions, by implementing a byte-matching verification harness. By providing an objective pass/fail signal through direct comparison with the original binary, this automated system allowed even cheaper, less capable models to successfully reconstruct 99% of the game's functions.</p><p><img src="https://cdn.prod.website-files.com/67af3db5bb3b892e61258bd4/685aecca7a20876c7916273d_General-workflow-of-AI-agent-Typically-an-AI-agent-consists-of-three-components.png" /></p><hr/><small>12 Oct 2026, 12:07 UTC | #24031</small>]]></content>
-  </entry>
-  <entry>
-    <title>CSS Text Decoration Properties Enable Precise Underlining</title>
-    <link href="https://www.rubenerd.au/css-for-underlines/" rel="alternate" />
-    <id>https://www.rubenerd.au/css-for-underlines/::v239</id>
-    <published>2026-10-12T05:02:00+00:00</published>
-    <updated>2026-10-12T05:02:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.rubenerd.au/css-for-underlines/">rubenerd.au</a> | <a href="https://lobste.rs/s/ezucf0/css_for_underlines">discussion</a></small></p><hr/><p>Historically, CSS text decoration faced limitations regarding color inheritance and inconsistent underline thickness across browsers. Developers often bypassed these issues using border-bottom, which lacked the ability to integrate with text descenders like 'g' or 'y'.</p><p>Modern CSS properties, including text-decoration-thickness, text-decoration-color, and text-decoration-style, now provide direct control over underline styling. These attributes allow for precise thickness and color management while maintaining proper text alignment and browser consistency.</p><hr/><small>12 Oct 2026, 11:02 UTC | #24015</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ledger Confirms Hardware Implant in Wallets Sold by CryptoBilis</title>
-    <link href="https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts" rel="alternate" />
-    <id>https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts::v239</id>
-    <published>2026-10-12T05:01:00+00:00</published>
-    <updated>2026-10-13T21:57:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts">theverge.com</a> | <a href="https://support.ledger.com/article/4404382029329-zd">source</a> | <a href="https://news.ycombinator.com/item?id=50054092">hacker news</a></small></p><hr/><p>Ledger is investigating a suspected $86 million supply chain attack involving unauthorized hardware implants in cryptocurrency wallets. The tampering appears limited to devices sold by the Southeast Asian reseller CryptoBilis and does not affect Ledger's internal systems or wallets purchased directly from the company.</p><p>The suspected implant is a small circuit board positioned under the device's screen that intercepts the seed passphrase during setup and transmits the information via an embedded SIM card. Ledger has asked CryptoBilis to pause all sales and has provided instructions for users to check their hardware for signs of tampering.</p><hr/><small>12 Oct 2026, 10:59 UTC | #23980</small>]]></content>
-  </entry>
-  <entry>
-    <title>Implementing a 3-2-1 Backup Strategy with Restic and Backblaze B2</title>
-    <link href="https://chuck.is/paranoid/" rel="alternate" />
-    <id>https://chuck.is/paranoid/::v239</id>
-    <published>2026-10-12T04:59:00+00:00</published>
-    <updated>2026-10-12T04:59:00+00:00</updated>
-    <media:thumbnail url="https://spac-alliance.org/wp-content/uploads/2026/05/visual-backup-3-2-1-1024x1024.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://chuck.is/paranoid/">chuck.is</a> | <a href="https://lobste.rs/s/9zcxev/3_2_1_backup_strategy_with_restic">discussion</a></small></p><hr/><p>A 3-2-1 backup strategy requires three copies of data across two different media types, with one copy stored off-site. This implementation utilizes restic for file encryption and deduplication, using Backblaze B2 as the off-site cloud storage provider. The process involves configuring Backblaze B2 buckets, setting up local environment variables and encryption passwords, and automating nightly backups through systemd services and timers.</p><p>Restic encrypts data before upload, ensuring that files stored in Backblaze B2 remain opaque and secure. To ensure successful disaster recovery, encryption passwords must be stored securely and periodic restore tests should be performed to verify that data remains accessible in the event of a hardware failure.</p><p><img src="https://spac-alliance.org/wp-content/uploads/2026/05/visual-backup-3-2-1-1024x1024.png" /></p><hr/><small>12 Oct 2026, 10:45 UTC | #24013</small>]]></content>
   </entry>
 </feed>
