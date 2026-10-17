@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-16T23:46:00+00:00</updated>
+  <updated>2026-10-16T23:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Neural Network Layers as Associative Memory Stores</title>
+    <link href="https://alexwang.ai/posts/associative-memory/" rel="alternate" />
+    <id>https://alexwang.ai/posts/associative-memory/::v239</id>
+    <published>2026-10-16T23:50:00+00:00</published>
+    <updated>2026-10-16T23:50:00+00:00</updated>
+    <media:thumbnail url="https://thecscience.com/wp-content/uploads/2026/01/Associative-Memory-Cell-1024x683.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://alexwang.ai/posts/associative-memory/">alexwang.ai</a> | <a href="https://news.ycombinator.com/item?id=50122878">hacker news</a></small></p><hr/><p>Neural network layers, including linear maps, Multi-Layer Perceptrons (MLPs), and self-attention, function as associative memory stores through key-value retrieval. By analyzing the interference-to-signal ratio, the capacity of these stores can be quantified, demonstrating how architectural changes—from linear maps to non-linear gating—increase the amount of information a model can reliably recall.</p><p>Standard outer product memory is limited by the dimensionality of the key space, but capacity can be improved through optimal linear regression or non-linear activations such as ReLU. The transition to self-attention moves from fixed-weight to non-parametric memory, offering a mechanism for potentially unbounded information storage.</p><p><img src="https://thecscience.com/wp-content/uploads/2026/01/Associative-Memory-Cell-1024x683.jpg" /></p><hr/><small>17 Oct 2026, 07:29 UTC | #24571</small>]]></content>
+  </entry>
   <entry>
     <title>Elorian Releases Glimpse, an AI Model for Visual Reasoning</title>
     <link href="https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/" rel="alternate" />
