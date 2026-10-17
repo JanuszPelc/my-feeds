@@ -168,13 +168,4 @@
     <media:thumbnail url="https://jaantollander.com/post/how-to-create-software-packages-with-julia-language/featured.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jverzani.github.io/CalculusWithJuliaNotes.jl/">jverzani.github.io</a> | <a href="https://news.ycombinator.com/item?id=50034206">hacker news</a></small></p><hr/><p>John Verzani provides a set of learning notes for studying calculus through the Julia programming language. The resource uses Julia's syntax and capabilities to demonstrate mathematical concepts via graphical, numerical, and symbolic methods, adhering to a multi-faceted pedagogical approach.</p><p>Presented as a Quarto book, the notes are supported by the `CalculusWithJulia` package to simplify common computational tasks. The material incorporates "try-it-yourself" exercises and focuses on core calculus concepts while minimizing the complexity of the underlying programming language.</p><p><img src="https://jaantollander.com/post/how-to-create-software-packages-with-julia-language/featured.png" /></p><hr/><small>12 Oct 2026, 17:03 UTC | #24066</small>]]></content>
   </entry>
-  <entry>
-    <title>Rich Hickey: AI is Automation, Not a Tool</title>
-    <link href="https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e" rel="alternate" />
-    <id>https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e::v239</id>
-    <published>2026-10-12T01:19:00+00:00</published>
-    <updated>2026-10-12T01:19:00+00:00</updated>
-    <media:thumbnail url="https://www.softude.com/wp-content/uploads/ai-agent-and-llm.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e">linkedin.com</a> | <a href="https://lobste.rs/s/ikk8ie/ai_is_not_tool">discussion</a></small></p><hr/><p>Large Language Models (LLMs) function as automation rather than tools, according to Rich Hickey. He defines tools as implements to be "wielded" through continuous control, intention, and sensory feedback that builds expertise. Conversely, he characterizes LLMs as automation that operates with minimal direct human control, enabling users to abdicate the actual labor of a task.</p><p>This transition from wielding to automation prevents users from learning the underlying logic or nuances of their work. Instead of building expertise through direct experience, users engage in a cycle of making requests to non-deterministic models, effectively trading active skill acquisition for the management of capricious software.</p><p><img src="https://www.softude.com/wp-content/uploads/ai-agent-and-llm.webp" /></p><hr/><small>12 Oct 2026, 04:50 UTC | #23983</small>]]></content>
-  </entry>
 </feed>

@@ -1009,12 +1009,4 @@
     <updated>2026-10-12T01:26:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://gist.github.com/FlameyosSnowy/a49a35ba006238be55d8c3e410c31061">gist.github.com</a> | <a href="https://github.com/zeta-lang/zeta">source</a> | <a href="https://lobste.rs/s/sqftld/next_gen_borrow_checker_drop_replacement">discussion</a></small></p><hr/><p>Zeta is a new programming language designed to improve upon the restrictive "shared-XOR-mutable" model used in Rust. The language aims to maintain Rust-level performance and memory safety while easing the development of complex data structures that are difficult to implement under current borrowing rules.</p><p>The model introduces `&amp;alias` references to enable compiler-native, borrow-checked shared mutability. This feature is intended to facilitate the creation of complex data structures, such as doubly-linked lists and intrusive collections, without the need for `unsafe` blocks or significant runtime overhead.</p><hr/><small>12 Oct 2026, 07:27 UTC | #23988</small>]]></content>
   </entry>
-  <entry>
-    <title>Device Fingerprinting as a Persistent Tracking Alternative to Cookies</title>
-    <link href="https://royfish.dev/fingerprints-are-the-new-cookies" rel="alternate" />
-    <id>https://royfish.dev/fingerprints-are-the-new-cookies::v239</id>
-    <published>2026-10-12T01:21:00+00:00</published>
-    <updated>2026-10-12T01:21:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://royfish.dev/fingerprints-are-the-new-cookies">royfish.dev</a> | <a href="https://news.ycombinator.com/item?id=50048642">hacker news</a></small></p><hr/><p>Hardware and software characteristics can be aggregated to create unique digital identifiers, providing a persistent tracking mechanism as third-party cookies are phased out. By combining data points like GPU behavior, CPU models, and screen resolution, trackers can identify users consistently even after cookies are cleared or a VPN is activated.</p><p>Google's recent policy shifts toward permitting device fingerprinting in certain advertising products follow regulatory pressure and the failure of previous privacy-focused initiatives. Protecting against these identification methods requires browsers with engine-level protections, such as Brave, Tor, or Mullvad, which utilize "farbling" or standardized device profiles to minimize unique entropy.</p><hr/><small>12 Oct 2026, 05:25 UTC | #23984</small>]]></content>
-  </entry>
 </feed>
