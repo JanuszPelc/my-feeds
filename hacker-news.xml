@@ -3,9 +3,60 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-17T00:23:00+00:00</updated>
+  <updated>2026-10-17T06:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Folders Esoteric Programming Language</title>
+    <link href="https://danieltemkin.com/esolangs/folders" rel="alternate" />
+    <id>https://danieltemkin.com/esolangs/folders::v239</id>
+    <published>2026-10-17T06:18:00+00:00</published>
+    <updated>2026-10-17T06:18:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://danieltemkin.com/esolangs/folders">danieltemkin.com</a> | <a href="https://lobste.rs/s/norjho/folders_esoteric_language">discussion</a> | <a href="https://news.ycombinator.com/item?id=50114342">hacker news</a></small></p><hr/><p>Code is expressed through the containment and order of directories in this non-textual esoteric programming language. Functioning as a pure ordered tree, the language ignores folder names and determines specific commands or expressions based on the number of subfolders within a directory.</p><p>Designed for Windows, the language leverages the zero-byte storage footprint of empty folders to facilitate a "dematerialized" approach to coding. For data storage, the Folders FS system encodes information directly into folder names, potentially enabling infinite storage capacity.</p><hr/><small>17 Oct 2026, 16:52 UTC | #24585</small>]]></content>
+  </entry>
+  <entry>
+    <title>Go’s gopls Adds Interactive Refactoring Through a Proposed LSP Capability</title>
+    <link href="https://go.dev/blog/interactive-refactoring" rel="alternate" />
+    <id>https://go.dev/blog/interactive-refactoring::v239</id>
+    <published>2026-10-17T01:22:00+00:00</published>
+    <updated>2026-10-17T01:22:00+00:00</updated>
+    <media:thumbnail url="https://go.dev/blog/interactive-refactoring/no-question.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://go.dev/blog/interactive-refactoring">go.dev</a> | <a href="https://lobste.rs/s/wn293o/interactive_refactoring_gopls">discussion</a></small></p><hr/><p>The Go team has added interactive refactoring to gopls, allowing language servers to collect user input through dynamic, multi-step dialogs before applying code changes. Available in gopls v0.24.0 and the Go extension for VS Code v0.56.0, the feature supports configurable struct tags, interface implementation, and experimental declaration moves.</p><p>The capability is proposed as an extension to the Language Server Protocol so refactorings can work across editors and languages instead of relying on editor-specific dialogs. Planned directions include change-signature refactoring, interactive conflict resolution, and configurable non-editing commands such as profiled test runs.</p><p><img src="https://go.dev/blog/interactive-refactoring/no-question.png" /></p><hr/><small>17 Oct 2026, 16:28 UTC | #24580</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ubuntu 26.10 Stonking Stingray Released</title>
+    <link href="https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html" rel="alternate" />
+    <id>https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html::v239</id>
+    <published>2026-10-17T01:20:00+00:00</published>
+    <updated>2026-10-17T01:20:00+00:00</updated>
+    <media:thumbnail url="https://www.linuxeasy.org/wp-content/uploads/2026/05/ubuntu-26.10-1024x547.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html">lists.ubuntu.com</a> | <a href="https://ubuntu.com/blog/canonical-releases-ubuntu-26-10-stonking-stingray">source</a> | <a href="https://lobste.rs/s/61ujum/ubuntu_26_10_stonking_stingray_released">discussion</a> | <a href="https://news.ycombinator.com/item?id=50102423">hacker news</a></small></p><hr/><p>Ubuntu 26.10, codenamed “Stonking Stingray,” is now available with Rust-based coreutils, post-quantum-ready package signing, expanded TPM-backed disk encryption, Microsoft Entra ID integration, Linux kernel 7.3, RISC-V desktop images, and amd64v3 installation images.</p><p>The release also includes GNOME 51, locally processed Myna speech-to-text, updated developer toolchains, accelerated AI workload support, and refreshed official flavors. Ubuntu 26.10 receives nine months of maintenance updates, and Ubuntu 26.04 users who track all releases can upgrade automatically.</p><p><img src="https://www.linuxeasy.org/wp-content/uploads/2026/05/ubuntu-26.10-1024x547.jpg" /></p><hr/><small>17 Oct 2026, 16:18 UTC | #24584</small>]]></content>
+  </entry>
+  <entry>
+    <title>Mull Offers Plain-Text Wikis with Editor Tooling</title>
+    <link href="https://github.com/stepchowfun/mull" rel="alternate" />
+    <id>https://github.com/stepchowfun/mull::v239</id>
+    <published>2026-10-17T01:19:00+00:00</published>
+    <updated>2026-10-17T01:19:00+00:00</updated>
+    <media:thumbnail url="https://user-images.githubusercontent.com/4428120/44914290-2fe8e000-ad06-11e8-83c1-94515012f462.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/stepchowfun/mull">github.com</a> | <a href="https://lobste.rs/s/xcacrh/mull_note_taking_with_language_server">discussion</a></small></p><hr/><p>Mull manages a wiki stored in a single plain-text file, using linked pages rather than directories for organization. Its Visual Studio Code and Cursor extension provides syntax highlighting, autocomplete, previews, diagnostics, formatting, refactoring, and language-server features.</p><p>The tool also links and validates files stored beside the wiki, supports synchronized page portals, runs user scripts inside formatted blocks, and offers command-line commands for checking, formatting, and querying wikis. It is available for macOS, Linux, and Windows, with installation through binaries, Cargo, or editor extensions.</p><p><img src="https://user-images.githubusercontent.com/4428120/44914290-2fe8e000-ad06-11e8-83c1-94515012f462.png" /></p><hr/><small>17 Oct 2026, 16:14 UTC | #24582</small>]]></content>
+  </entry>
+  <entry>
+    <title>Marginalia Index Port to C++ Reaches Integrity Testing</title>
+    <link href="https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend" rel="alternate" />
+    <id>https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend::v239</id>
+    <published>2026-10-17T01:18:00+00:00</published>
+    <updated>2026-10-17T01:18:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend">discussion</a></small></p><hr/><p>The author is translating Marginalia’s Java inverted-index backing structure to C++, with the port now ready for initial integrity tests. The work remains in progress and focuses on improving code expressiveness while preserving the implementation’s behavior.</p><p>The existing Java test suite can likely be reused to exercise corner cases. The author also highlights C++20’s std::span as a useful fit for code that operates largely on contiguous memory.</p><hr/><small>17 Oct 2026, 16:11 UTC | #24581</small>]]></content>
+  </entry>
+  <entry>
+    <title>Andrew Kelley Explains Concurrency and Async I/O in Zig</title>
+    <link href="https://www.youtube.com/watch?v=5zIOfBLQ3U4" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=5zIOfBLQ3U4::v239</id>
+    <published>2026-10-17T01:17:00+00:00</published>
+    <updated>2026-10-17T01:17:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=5zIOfBLQ3U4">youtube.com</a> | <a href="https://softwareyoucanlove.ca/talks/getting-canceled/">source</a> | <a href="https://lobste.rs/s/tty7hm/getting_canceled">discussion</a></small></p><hr/><p>Andrew Kelley’s talk examines how CPU hardware, interrupts, threads, caches, and operating-system scheduling provide concurrency, and why parallel programming introduces fundamental complexity. He uses these concepts to frame the design of Zig’s new standard-library I/O API and the goal of combining reusable code with efficient use of available hardware concurrency.</p><p>The talk distinguishes physical parallelism from concurrency simulated through threads, then covers data races, atomic operations, false sharing, use-after-free errors, and deadlocks. It argues that contention is inherent to concurrent systems rather than merely a result of poor software design, making the material relevant to systems programmers working on Zig and asynchronous I/O.</p><hr/><small>17 Oct 2026, 16:07 UTC | #24579</small>]]></content>
+  </entry>
   <entry>
     <title>GNOME Introduces GNOME OS Preview</title>
     <link href="https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/" rel="alternate" />
@@ -929,101 +980,5 @@
     <updated>2026-10-12T18:30:00+00:00</updated>
     <media:thumbnail url="https://www.ohbmo.com/book-assets/captures/autopilot-status.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/openai/codex/issues/48195">github.com</a> | <a href="https://news.ycombinator.com/item?id=50060694">hacker news</a></small></p><hr/><p>Starting with version 0.157.0, the Codex CLI automatically launches a persistent, self-updating background daemon when an interactive session is opened. This daemon runs in a detached session, decouples the backend version from the installed CLI by using a local package copy, and includes an automated update loop that restarts the service.</p><p>A developer has requested that this behavior be made opt-in to prevent unintended background processes. The contributor highlights several issues caused by the current default, including environment variable mismatches for proxies, difficulties in manually terminating the updater loop, and potential conflicts with system package managers.</p><p><img src="https://www.ohbmo.com/book-assets/captures/autopilot-status.png" /></p><hr/><small>12 Oct 2026, 20:20 UTC | #24088</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google Unveils Fitbit Edge Tracker</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-12/google-debuts-180-fitbit-edge-tracker-replacing-the-fitbit-charge-6" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-12/google-debuts-180-fitbit-edge-tracker-replacing-the-fitbit-charge-6::v239</id>
-    <published>2026-10-12T15:30:00+00:00</published>
-    <updated>2026-10-12T15:30:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-12/google-debuts-180-fitbit-edge-tracker-replacing-the-fitbit-charge-6">bloomberg.com</a> | <a href="https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/">source</a></small></p><hr/><p>The $180 Fitbit Edge features a 1.34-inch oval display and is scheduled to begin shipping on October 27. The device replaces the Fitbit Charge 6, effectively discontinuing the Charge product line.</p><p>The tracker serves as a primary vehicle for Google's revamped Health app. This release marks a transition in Google's wearable strategy by consolidating its fitness tracking hardware under the Edge brand.</p><hr/><small>12 Oct 2026, 20:14 UTC | #24043</small>]]></content>
-  </entry>
-  <entry>
-    <title>ps2-web-recomp Enables PlayStation 2 Gameplay in Browsers via Static Recompilation</title>
-    <link href="https://github.com/snuri00/ps2-web-recomp" rel="alternate" />
-    <id>https://github.com/snuri00/ps2-web-recomp::v239</id>
-    <published>2026-10-12T15:24:00+00:00</published>
-    <updated>2026-10-12T15:24:00+00:00</updated>
-    <media:thumbnail url="https://github.com/snuri00/ps2-web-recomp/raw/main/docs/media/demo.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/snuri00/ps2-web-recomp">github.com</a> | <a href="https://news.ycombinator.com/item?id=50052251">hacker news</a></small></p><hr/><p>The project utilizes static recompilation to allow PlayStation 2 games to run in web browsers without the need for a traditional emulator. The machine code from the Emotion Engine is translated into C++, compiled to WebAssembly, and linked to a custom reimplementation of the PS2's operating system and hardware. Graphics processing is handled via WebGPU compute shaders, and audio is managed through the AudioWorklet API.</p><p>Performance tests for Gran Turismo 4 and God of War II show the system can reach up to 60 frames per second on modern hardware using integrated GPUs. Users can convert their own disc images into functional web pages using a provided script that performs an iterative translation process to capture all necessary function calls. Compatibility is primarily dependent on a browser's WebGPU support and the specific hardware's ability to execute the translated vector unit and graphics workloads.</p><p><img src="https://github.com/snuri00/ps2-web-recomp/raw/main/docs/media/demo.webp" /></p><hr/><small>12 Oct 2026, 19:26 UTC | #24087</small>]]></content>
-  </entry>
-  <entry>
-    <title>Google DevSite Vulnerability Enables Remote Code Execution via Flask Session Cookies</title>
-    <link href="https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce" rel="alternate" />
-    <id>https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce::v239</id>
-    <published>2026-10-12T15:20:00+00:00</published>
-    <updated>2026-10-12T15:20:00+00:00</updated>
-    <media:thumbnail url="https://developer.mozilla.org/shared-assets/images/diagrams/http/cookies/cookie-basic-example.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce">simonkoeck.com</a> | <a href="https://lobste.rs/s/mldt0o/finding_90_000_remote_code_execution">discussion</a> | <a href="https://news.ycombinator.com/item?id=50052638">hacker news</a></small></p><hr/><p>Researcher Simon Koeck identified a critical remote code execution (RCE) vulnerability in Google's shared DevSite platform. The flaw allowed attackers to forge Flask session cookies by exploiting an exposed OAuth client secret used as a signing key. By embedding a malicious Python `pickle` payload within these forged cookies, an unauthenticated attacker could execute arbitrary code on various Google developer domains.</p><p>The vulnerability impacted several sites, including firebase.google.com and developer.android.com. Google has since resolved the issue by rotating secrets, implementing deployment-specific signing keys, and transitioning away from unsafe `pickle` deserialization for client-side data. The discovery earned the researcher a $90,000 bounty.</p><p><img src="https://developer.mozilla.org/shared-assets/images/diagrams/http/cookies/cookie-basic-example.png" /></p><hr/><small>12 Oct 2026, 18:54 UTC | #24081</small>]]></content>
-  </entry>
-  <entry>
-    <title>zt: A Type-Safe HTML Templating Library for Zig</title>
-    <link href="https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html" rel="alternate" />
-    <id>https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html::v239</id>
-    <published>2026-10-12T15:15:00+00:00</published>
-    <updated>2026-10-12T15:15:00+00:00</updated>
-    <media:thumbnail url="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5uh4dtayl8nbkz3zsjcc.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html">lalinsky.com</a> | <a href="https://lobste.rs/s/dujxbl/type_safe_html_templating_zig">discussion</a> | <a href="https://news.ycombinator.com/item?id=50051573">hacker news</a></small></p><hr/><p>Designed for the Zig programming language, this templating library transpiles templates into Zig code during compilation to ensure full compile-time type safety. By allowing templates to import application code, the system enables standard Zig compiler diagnostics for type mismatches and missing fields. It performs zero-allocation rendering by writing directly to a `std.Io.Writer` and includes built-in XSS protection through automatic HTML escaping and attribute validation.</p><p>The library supports component reuse and layout inheritance through a `@children` syntax. By integrating template errors into the Zig compiler's diagnostics, `zt` provides immediate feedback for typos or type mismatches within the templates. The project aims to provide a high-level, HTML-like syntax for web development in low-level languages without the overhead of a complex, separate Domain Specific Language.</p><p><img src="https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5uh4dtayl8nbkz3zsjcc.png" /></p><hr/><small>12 Oct 2026, 18:36 UTC | #24079</small>]]></content>
-  </entry>
-  <entry>
-    <title>Cyberattack Triggers Refrigeration Failure in Major French Supermarkets</title>
-    <link href="https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown" rel="alternate" />
-    <id>https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown::v239</id>
-    <published>2026-10-12T15:13:00+00:00</published>
-    <updated>2026-10-12T21:05:00+00:00</updated>
-    <media:thumbnail url="https://us.totalparts.com/167749-large_default/danfoss-084b4082-ak-cc55-refrigeration-control-6-analog-input-1-analog-output-supply-voltage-115-230-v-084b4182.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown">afp.com</a> | <a href="https://lobste.rs/s/u4vlin/french_supermarket_chains_say">discussion</a> | <a href="https://news.ycombinator.com/item?id=50055304">hacker news</a></small></p><hr/><p>Major French supermarket chains, including E. Leclerc, Intermarche, and Cooperative U, have been struck by a cyberattack that caused refrigeration systems to fail in hundreds of stores. The attack, which reportedly remotely triggered defrosting cycles, has led to massive food spoilage and prompted a formal investigation by Paris prosecutors.</p><p>The disruption specifically targeted Danfoss refrigeration control systems, particularly legacy models that no longer receive security updates. Authorities and cybersecurity agencies are investigating the scope of the attack and assessing the vulnerability of similar industrial equipment across Europe.</p><p><img src="https://us.totalparts.com/167749-large_default/danfoss-084b4082-ak-cc55-refrigeration-control-6-analog-input-1-analog-output-supply-voltage-115-230-v-084b4182.jpg" /></p><hr/><small>12 Oct 2026, 18:21 UTC | #24076</small>]]></content>
-  </entry>
-  <entry>
-    <title>Post-Quantum Cryptography Recommendations for Developers</title>
-    <link href="https://words.filippo.io/right-answers/" rel="alternate" />
-    <id>https://words.filippo.io/right-answers/::v239</id>
-    <published>2026-10-12T15:03:00+00:00</published>
-    <updated>2026-10-12T15:03:00+00:00</updated>
-    <media:thumbnail url="https://www.saravanansubramanian.com/assets/images/other/PostQuantumCryptographyAlgorithms.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://words.filippo.io/right-answers/">words.filippo.io</a> | <a href="https://lobste.rs/s/sozl9e/post_quantum_cryptographic_right">discussion</a> | <a href="https://news.ycombinator.com/item?id=50055409">hacker news</a></small></p><hr/><p>This guide provides updated cryptographic best practices for developers preparing for the transition to post-quantum security. It offers a technical cheat sheet of recommendations for symmetric encryption, hashing, digital signatures, and key exchange, noting an industry consensus that the migration to post-quantum standards should be completed by 2029.</p><p>The advice emphasizes hybrid key exchange models, such as combining X25519 with ML-KEM, to mitigate "harvest-now-decrypt-later" attacks. While symmetric cryptography is considered resilient with 256-bit keys, asymmetric protocols are shifting toward post-quantum standards like ML-DSA-44 and ML-KEM-768.</p><p><img src="https://www.saravanansubramanian.com/assets/images/other/PostQuantumCryptographyAlgorithms.jpg" /></p><hr/><small>12 Oct 2026, 16:59 UTC | #24061</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Weimar Era of Ruby</title>
-    <link href="https://blog.julik.nl/2026/10/the-weimar-of-ruby" rel="alternate" />
-    <id>https://blog.julik.nl/2026/10/the-weimar-of-ruby::v239</id>
-    <published>2026-10-12T11:42:00+00:00</published>
-    <updated>2026-10-12T11:42:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.julik.nl/2026/10/the-weimar-of-ruby">blog.julik.nl</a> | <a href="https://lobste.rs/s/lfen2h/living_weimar_era_ruby">discussion</a> | <a href="https://news.ycombinator.com/item?id=50054474">hacker news</a></small></p><hr/><p>A perceived loss of interest in the Ruby ecosystem by prominent developers suggests a transition into a "Weimar era"—a period of institutional instability that may trigger a renaissance of innovation. This shift, characterized by a lack of central leadership and the rise of AI-driven development, provides an opportunity for the community to rebuild and modernize the language's tooling and aesthetics.</p><p>Recent community-led developments include high-performance PDF libraries like sghtmltopdf, improved Parquet file handling via herringbone, and modernized gRPC implementations. These advancements aim to address long-standing technical gaps in Ruby by leveraging technologies like Rust and LLMs to improve performance and developer experience.</p><hr/><small>12 Oct 2026, 15:55 UTC | #24056</small>]]></content>
-  </entry>
-  <entry>
-    <title>Hacked Civilian Cameras Used in Israel-Iran Conflict for Surveillance and Warfare</title>
-    <link href="https://www.wsj.com/tech/cybersecurity/video-cameras-webcams-hacked-war-b00b8a24?st=RRCsaw" rel="alternate" />
-    <id>https://www.wsj.com/tech/cybersecurity/video-cameras-webcams-hacked-war-b00b8a24?st=RRCsaw::v239</id>
-    <published>2026-10-12T11:33:00+00:00</published>
-    <updated>2026-10-12T11:33:00+00:00</updated>
-    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1XfeDI.img?w=960&amp;h=540&amp;m=4&amp;q=79" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/cybersecurity/video-cameras-webcams-hacked-war-b00b8a24?st=RRCsaw">wsj.com</a></small></p><hr/><p>Combatants are increasingly repurposing vulnerable civilian security cameras and webcams to track, surveil, and target enemies. Recent operations involving Israel and Iran have seen Israeli intelligence tap into Tehran's traffic camera networks to monitor official movements, while Iranian-linked groups have breached hundreds of Israeli security cameras to facilitate espionage and tactical intelligence.</p><p>This trend underscores the strategic importance of unsecured Internet of Things (IoT) devices in modern kinetic warfare. By hijacking consumer-grade cameras, including license plate readers and those positioned near military outposts, actors can gain real-time situational awareness and integrate digital exploits with physical combat operations.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1XfeDI.img?w=960&h=540&m=4&q=79" /></p><hr/><small>12 Oct 2026, 15:20 UTC | #23993</small>]]></content>
-  </entry>
-  <entry>
-    <title>QGIS Bans AI and LLM-Assisted Code Contributions</title>
-    <link href="https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387" rel="alternate" />
-    <id>https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387::v239</id>
-    <published>2026-10-12T11:23:00+00:00</published>
-    <updated>2026-10-12T11:23:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387">github.com</a> | <a href="https://news.ycombinator.com/item?id=50054751">hacker news</a></small></p><hr/><p>QGIS has merged a proposal (QEP428) that prohibits all LLM, AI, or agent-assisted code contributions to its repository. This new policy replaces a previous "human-in-the-loop" guideline that permitted AI usage provided that all output was reviewed and transparently labeled with "Assisted-by" trailers.</p><p>Under the new rules, any discovered use of AI-based workflows in a contribution will result in code reversion and the potential sanctioning of the contributor's rights. While the current policy is a strict ban, project contributors indicated an intent to potentially allow specific AI use cases, such as autocomplete or translations, on a case-by-case basis in the future.</p><hr/><small>12 Oct 2026, 14:07 UTC | #24045</small>]]></content>
-  </entry>
-  <entry>
-    <title>Linux Phones' Potential as an Alternative to Android and iOS</title>
-    <link href="https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/" rel="alternate" />
-    <id>https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/::v239</id>
-    <published>2026-10-12T10:34:00+00:00</published>
-    <updated>2026-10-12T10:34:00+00:00</updated>
-    <media:thumbnail url="https://ir.ozone.ru/s3/multimedia-1-w/c1000/7930022756.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/">amosbbatto.wordpress.com</a> | <a href="https://news.ycombinator.com/item?id=50051530">hacker news</a></small></p><hr/><p>Mobile Linux devices face significant hurdles in challenging the Android and iOS duopoly, primarily due to historical limitations in System-on-a-Chip (SoC) performance, lack of open-source drivers, and immature mobile interfaces. Early attempts like the Librem 5 and PinePhone struggled with inadequate processing power and software instability.</p><p>The availability of more powerful Rockchip and Qualcomm IoT SoCs, alongside maturing interfaces like Phosh, may enable a viable niche market. Industry trends, such as the increasing difficulty of unlocking Android bootloaders, could further drive demand for open mobile alternatives.</p><p><img src="https://ir.ozone.ru/s3/multimedia-1-w/c1000/7930022756.jpg" /></p><hr/><small>12 Oct 2026, 13:53 UTC | #24044</small>]]></content>
-  </entry>
-  <entry>
-    <title>Mark Dastmalchi-Round Details Development of ZX Spectrum Demoscene Intro</title>
-    <link href="https://www.markround.com/blog/2026/zx-spectrum-intro" rel="alternate" />
-    <id>https://www.markround.com/blog/2026/zx-spectrum-intro::v239</id>
-    <published>2026-10-12T10:32:00+00:00</published>
-    <updated>2026-10-12T10:32:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/9PtE6gJdZ9A/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.markround.com/blog/2026/zx-spectrum-intro">markround.com</a> | <a href="https://lobste.rs/s/nroajo/writing_demoscene_intro_for_zx_spectrum">discussion</a></small></p><hr/><p>Mark Dastmalchi-Round describes the process of creating a retro-style demoscene "crack intro" for the ZX Spectrum using Z80 assembly language. The 10,287-byte production features scrolling text, a three-channel AY soundtrack, and parallax starfield effects, all designed to run on stock 128Kb Spectrum hardware.</p><p>The technical overview covers the development environment, which utilizes the Pasmo assembler, zmakebas, and the FUSE emulator. The author also discusses the historical inspiration drawn from Amiga cracktros and the specific challenges of low-level programming, such as managing screen memory and interfacing with the hardware's ULA and AY sound chips.</p><p><img src="https://i.ytimg.com/vi/9PtE6gJdZ9A/maxresdefault.jpg" /></p><hr/><small>12 Oct 2026, 13:46 UTC | #24035</small>]]></content>
   </entry>
 </feed>

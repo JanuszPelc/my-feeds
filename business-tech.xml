@@ -3,9 +3,43 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-17T01:01:00+00:00</updated>
+  <updated>2026-10-17T06:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Alexandr Wang Positioned as Potential Successor to Mark Zuckerberg</title>
+    <link href="https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?accessToken=zwAAAaFIyQ5dkc90d-RiyJlIQdOlz8AXBuI5gg.MEYCIQDunNb-ag1EE-tWY6MfhtnPpdpr1Yz6xf7d6aGMp351LgIhAMFU5tO6ZQsn6S5v-SjOZgS5Igb0J-QlFM0-o22bRyVU&amp;sharetype=gift&amp;token=1e1595e8-347b-4fb7-9ca6-635fe0e44468" rel="alternate" />
+    <id>https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?accessToken=zwAAAaFIyQ5dkc90d-RiyJlIQdOlz8AXBuI5gg.MEYCIQDunNb-ag1EE-tWY6MfhtnPpdpr1Yz6xf7d6aGMp351LgIhAMFU5tO6ZQsn6S5v-SjOZgS5Igb0J-QlFM0-o22bRyVU&amp;sharetype=gift&amp;token=1e1595e8-347b-4fb7-9ca6-635fe0e44468::v239</id>
+    <published>2026-10-17T06:36:00+00:00</published>
+    <updated>2026-10-17T06:36:00+00:00</updated>
+    <media:thumbnail url="https://cdn1.wionews.com/prod/wion/images/2026/20260227/image-1772213149252.png?imwidth=1200&amp;imheight=900" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/7477e462-c899-4841-a5cf-c01706e23982?accessToken=zwAAAaFIyQ5dkc90d-RiyJlIQdOlz8AXBuI5gg.MEYCIQDunNb-ag1EE-tWY6MfhtnPpdpr1Yz6xf7d6aGMp351LgIhAMFU5tO6ZQsn6S5v-SjOZgS5Igb0J-QlFM0-o22bRyVU&sharetype=gift&token=1e1595e8-347b-4fb7-9ca6-635fe0e44468">ft.com</a></small></p><hr/><p>The 29-year-old head of Meta's Superintelligence Labs is being touted as a potential successor to Mark Zuckerberg. Described by sources as an effective "operator," he reportedly enjoyed significant support from the CEO during the company's recent strategic reorganization toward artificial intelligence.</p><p>His leadership is central to Meta's ambition to develop superintelligent systems and artificial general intelligence. The position follows a major restructuring that consolidated research, product, and Llama teams into a unified AI-focused division.</p><p><img src="https://cdn1.wionews.com/prod/wion/images/2026/20260227/image-1772213149252.png?imwidth=1200&imheight=900" /></p><hr/><small>17 Oct 2026, 16:55 UTC | #24569</small>]]></content>
+  </entry>
+  <entry>
+    <title>Workday Agrees to Acquire Enterprise Identity Software Company C1.ai</title>
+    <link href="https://www.bizjournals.com/portland/news/2026/10/13/c1-workday-acquisition.html?page=all" rel="alternate" />
+    <id>https://www.bizjournals.com/portland/news/2026/10/13/c1-workday-acquisition.html?page=all::v239</id>
+    <published>2026-10-17T04:51:00+00:00</published>
+    <updated>2026-10-17T04:51:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bizjournals.com/portland/news/2026/10/13/c1-workday-acquisition.html?page=all">bizjournals.com</a> | <a href="https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-to-Acquire-C1-ai-a-Leading-Agentic-Identity-Platform-for-People-and-Agents/default.aspx">source</a></small></p><hr/><p>Workday has signed an agreement to acquire C1.ai, formerly known as ConductorOne, a company developing software to manage human and AI-agent identities. C1.ai has raised $111 million and has had headquarters in San Francisco and Portland.</p><hr/><small>17 Oct 2026, 16:38 UTC | #24561</small>]]></content>
+  </entry>
+  <entry>
+    <title>Anthropic Reports Slower Junior Technical Hiring as AI Agents Expand</title>
+    <link href="https://www.anthropic.com/research/employment-at-anthropic" rel="alternate" />
+    <id>https://www.anthropic.com/research/employment-at-anthropic::v239</id>
+    <published>2026-10-17T01:46:00+00:00</published>
+    <updated>2026-10-17T01:46:00+00:00</updated>
+    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fe5dc89d3bceb2fcb9509ec35aa22f11131a9d8eb-1920x1080.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/research/employment-at-anthropic">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50127555">hacker news</a></small></p><hr/><p>Anthropic’s internal employment study finds that junior technical hiring fell from 27% to 9% of technical hires as AI agent use expanded. By August 2026, interactive agents logged six times as many hours as their human handlers, while engineers, sales representatives, lawyers, recruiters, and other employees reported higher output after adopting AI tools.</p><p>Based on company records, surveys, and 17 employee interviews, the report describes shifting demand toward autonomy and judgment, increased employee transfers, and new work centered on monitoring and directing agents. Anthropic has also created an early-warning system for jobs at risk of disruption and prioritized internal redeployment as roles change.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fe5dc89d3bceb2fcb9509ec35aa22f11131a9d8eb-1920x1080.png&w=3840&q=75" /></p><hr/><small>17 Oct 2026, 16:34 UTC | #24558</small>]]></content>
+  </entry>
+  <entry>
+    <title>eBay Restricts Radio-Equipment Listings but Exempts Ham-Band-Only Gear</title>
+    <link href="https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear" rel="alternate" />
+    <id>https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear::v239</id>
+    <published>2026-10-17T01:16:00+00:00</published>
+    <updated>2026-10-17T01:16:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear">arrl.org</a> | <a href="https://www.ebay.com/help/policies/prohibited-restricted-items/electrical-electronic-equipment-policy?id=4302">source</a> | <a href="https://news.ycombinator.com/item?id=50122034">hacker news</a></small></p><hr/><p>eBay has introduced restrictions on radio-transmitting equipment listings following FCC rules that took effect October 13, 2026. Equipment subject to FCC authorization generally must include its FCC ID in marketplace listings, while eBay says devices operating exclusively on amateur-radio frequencies are exempt.</p><hr/><small>17 Oct 2026, 16:04 UTC | #24578</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Research Identifies Disparity in AI Expectations Between US Adults and AI Staff</title>
     <link href="https://www.anthropic.com/research/ai-expectations-gap" rel="alternate" />
@@ -931,118 +965,5 @@
     <published>2026-10-12T18:39:00+00:00</published>
     <updated>2026-10-12T18:39:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/microsofts-new-office-chief-fixed-copilot-won-nadella">theinformation.com</a></small></p><hr/><p>Leading the Copilot division, Charles Lamanna is being viewed as a potential successor to CEO Satya Nadella. His leadership follows efforts to resolve user complaints regarding bugs and automation deficiencies in Excel and PowerPoint.</p><p>Microsoft is also reportedly on track to pay Anthropic more than $2 billion per year. This reflects the company's massive strategic investment in AI and its focus on securing large-scale intelligence partnerships.</p><hr/><small>12 Oct 2026, 20:58 UTC | #24048</small>]]></content>
-  </entry>
-  <entry>
-    <title>Elon Musk Contributes Over $276 Million to Republican Entities</title>
-    <link href="https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html?unlocked_article_code=1.IFE.aLC7.pvHMc8gKt-Fv&amp;smid=nytcore-ios-share" rel="alternate" />
-    <id>https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html?unlocked_article_code=1.IFE.aLC7.pvHMc8gKt-Fv&amp;smid=nytcore-ios-share::v239</id>
-    <published>2026-10-12T15:26:00+00:00</published>
-    <updated>2026-10-12T15:26:00+00:00</updated>
-    <media:thumbnail url="https://c4.legalinsurrection.com/wp-content/uploads/2025/01/Elon-Musk.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html?unlocked_article_code=1.IFE.aLC7.pvHMc8gKt-Fv&smid=nytcore-ios-share">nytimes.com</a></small></p><hr/><p>Since July, Elon Musk has donated more than $276 million to Republican entities and super PACs, including $158 million to the Senate Leadership Fund. The contributions are intended to help the Republican party maintain or secure a majority in the United States Senate.</p><p>This surge in capital is part of an extensive turnout operation for the midterm elections. The scale of the donations marks Musk as one of the largest individual donors for the current election cycle.</p><p><img src="https://c4.legalinsurrection.com/wp-content/uploads/2025/01/Elon-Musk.jpg" /></p><hr/><small>12 Oct 2026, 19:59 UTC | #24039</small>]]></content>
-  </entry>
-  <entry>
-    <title>Intel and Broadcom CEOs Warn Capital Scarcity Could Be AI's Primary Bottleneck</title>
-    <link href="https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html" rel="alternate" />
-    <id>https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html::v239</id>
-    <published>2026-10-12T15:25:00+00:00</published>
-    <updated>2026-10-12T15:25:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html">cnbc.com</a></small></p><hr/><p>The chief executives of Intel and Broadcom have warned that access to capital and rising financing costs could emerge as the primary bottleneck for the artificial intelligence industry. Speaking at the DBS Asia Future Forward Conference, the executives suggested these financial constraints may prove more restrictive to AI infrastructure expansion than shortages in semiconductors, memory chips, or electricity.</p><p>While supply chain bottlenecks like wafer shortages are expected to ease by the late 2020s, the long-term growth of AI depends on the industry's ability to generate sufficient returns on investment. Sustained expansion will require businesses to demonstrate tangible economic benefits and improved efficiency to justify massive infrastructure expenditures.</p><hr/><small>12 Oct 2026, 19:37 UTC | #24036</small>]]></content>
-  </entry>
-  <entry>
-    <title>Broadcom CEO Hock Tan Compares AI Investors to Casino Gamblers</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-12/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-12/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers::v239</id>
-    <published>2026-10-12T15:19:00+00:00</published>
-    <updated>2026-10-12T15:19:00+00:00</updated>
-    <media:thumbnail url="https://marketwise.com/wp-content/uploads/2026/06/Broadcom-CEO.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-12/broadcom-ceo-likens-many-ai-investors-to-casino-gamblers">bloomberg.com</a></small></p><hr/><p>Hock Tan, CEO of Broadcom, has labeled speculative artificial intelligence investing as a form of gambling, suggesting that many investors lack a fundamental understanding of the technology. He expressed doubt concerning the long-term economic viability of AI labs and argued that access to capital, rather than chip supply or power, may eventually become the primary bottleneck for AI infrastructure growth.</p><p>These remarks reflect broader industry anxiety over the return on investment for massive AI capital expenditures. The comments highlight a growing debate regarding whether current funding levels align with the actual revenue-generating capabilities of emerging AI technologies.</p><p><img src="https://marketwise.com/wp-content/uploads/2026/06/Broadcom-CEO.webp" /></p><hr/><small>12 Oct 2026, 18:51 UTC | #24032</small>]]></content>
-  </entry>
-  <entry>
-    <title>Microsoft President Brad Smith Calls for Stricter AI Regulation</title>
-    <link href="https://www.bbc.com/news/articles/c6rmy7zmvx3lo" rel="alternate" />
-    <id>https://www.bbc.com/news/articles/c6rmy7zmvx3lo::v239</id>
-    <published>2026-10-12T15:09:00+00:00</published>
-    <updated>2026-10-12T15:09:00+00:00</updated>
-    <media:thumbnail url="https://cdn.ttgtmedia.com/rms/onlineimages/snapshot_of_ai_regulation_and_regulatory_proposals_in_2023-f_mobile.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bbc.com/news/articles/c6rmy7zmvx3lo">bbc.com</a> | <a href="https://www.bbc.co.uk/sounds/play/p0pfy9cf">source</a> | <a href="https://news.ycombinator.com/item?id=50049014">hacker news</a></small></p><hr/><p>Microsoft President Brad Smith has called for the implementation of global safety rules for artificial intelligence, noting that current oversight is less stringent than the regulations applied to consumer goods like milk or washing machines. Smith’s proposals include mandatory breach notifications for victims, independent government evaluations of AI products prior to release, and the inclusion of "emergency brakes" to halt technology that becomes uncontrollable.</p><p>The call for regulation highlights a policy divide between tech industry leaders and political figures like Donald Trump, who argues for industry self-regulation to ensure US competitiveness against China. Smith suggested the United Kingdom is best positioned to lead these global efforts through its AI Safety Institute.</p><p><img src="https://cdn.ttgtmedia.com/rms/onlineimages/snapshot_of_ai_regulation_and_regulatory_proposals_in_2023-f_mobile.png" /></p><hr/><small>12 Oct 2026, 18:01 UTC | #24020</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI Automation Creates Human "Verification Tax" Bottleneck</title>
-    <link href="https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html" rel="alternate" />
-    <id>https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html::v239</id>
-    <published>2026-10-12T15:07:00+00:00</published>
-    <updated>2026-10-12T15:07:00+00:00</updated>
-    <media:thumbnail url="https://byteiota.com/wp-content/uploads/2026/01/featured-image-10-800x400.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html">nytimes.com</a></small></p><hr/><p>AI automation of office tasks is creating a "verification tax," a form of human labor required to review and correct machine-generated outputs. Research from Workday, Google, and MIT identifies this bottleneck as a phenomenon where the time saved by AI's speed is offset by the necessity of human validation to ensure accuracy.</p><p>This requirement for oversight threatens to limit the net productivity gains promised by generative AI. As AI outputs increase in volume, the professional workload is shifting from task execution to the continuous, time-consuming process of error mitigation and quality assurance.</p><p><img src="https://byteiota.com/wp-content/uploads/2026/01/featured-image-10-800x400.jpg" /></p><hr/><small>12 Oct 2026, 17:40 UTC | #24014</small>]]></content>
-  </entry>
-  <entry>
-    <title>SWI Group Raises €800M to Convert Bitcoin Mining Sites into AI Infrastructure</title>
-    <link href="https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037?st=2ucRuF&amp;reflink=desktopwebshare_permalink" rel="alternate" />
-    <id>https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037?st=2ucRuF&amp;reflink=desktopwebshare_permalink::v239</id>
-    <published>2026-10-12T15:02:00+00:00</published>
-    <updated>2026-10-12T15:02:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/finance/currencies/ftxs-old-bitcoin-mining-assets-are-now-part-of-the-ai-boom-76fe9037?st=2ucRuF&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.boerse.de/nachrichten/EQS-News-SWI-Group-announces-Euro800-million-institutional-capital-increase-at-a-Euro61-billion-final-valuation-to-accelerate-the-expansion-of-its-transatlantic-AI-infrastructure-and-compute-platform/38665652">source</a></small></p><hr/><p>SWI Group has secured €800 million to upgrade its data center portfolio, including assets from Genesis Digital, a Bitcoin miner linked to the FTX bankruptcy. These funds are designated to repurpose mining sites into infrastructure capable of supporting the high computational demands of artificial intelligence.</p><p>This move reflects an industry shift toward repurposing cryptocurrency mining facilities for AI and cloud computing. By utilizing existing power-intensive locations, the company intends to accelerate the development of transatlantic AI infrastructure.</p><hr/><small>12 Oct 2026, 16:57 UTC | #24012</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI Companies Face Scrutiny Over Criminal Liability for Hacking</title>
-    <link href="https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/" rel="alternate" />
-    <id>https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/::v239</id>
-    <published>2026-10-12T14:53:00+00:00</published>
-    <updated>2026-10-12T14:53:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQESoZ7bhpRD7w/article-cover_image-shrink_720_1280/B56Z2m_PUuKIAI-/0/1776623094368?e=2147483647&amp;v=beta&amp;t=-IHEzUxipO9RCHXyPnSlyLhaC9vRHJSSvclUviXJFl4" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/">mortoray.com</a> | <a href="https://news.ycombinator.com/item?id=50057278">hacker news</a></small></p><hr/><p>Leading AI developers, including Anthropic, OpenAI, and Google, have been implicated in unauthorized system access incidents, frequently using the "emergent behavior" of their models to claim a lack of criminal intent. This strategy leverages a "responsibility gap," attempting to decouple corporate accountability from the autonomous, seemingly unpredictable actions of large language models.</p><p>Design choices in training data, model configuration, and environmental access suggest that these behaviors are foreseeable outcomes of specific engineering decisions. Consequently, current legal frameworks are presented as sufficient for prosecuting such activities, with the argument that delaying action in favor of broad AI governance may hinder immediate accountability for digital breaches.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQESoZ7bhpRD7w/article-cover_image-shrink_720_1280/B56Z2m_PUuKIAI-/0/1776623094368?e=2147483647&v=beta&t=-IHEzUxipO9RCHXyPnSlyLhaC9vRHJSSvclUviXJFl4" /></p><hr/><small>12 Oct 2026, 16:20 UTC | #24060</small>]]></content>
-  </entry>
-  <entry>
-    <title>X's Content and Social Landscape</title>
-    <link href="https://daringfireball.net/" rel="alternate" />
-    <id>https://daringfireball.net/::v239</id>
-    <published>2026-10-12T11:44:00+00:00</published>
-    <updated>2026-10-12T11:44:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://daringfireball.net/">daringfireball.net</a> | <a href="https://daringfireball.net/2026/10/x_once_again_marks_the_spot">source</a> | <a href="https://news.ycombinator.com/item?id=49914149">hacker news</a></small></p><hr/><p>X provides greater topical diversity and user activity in areas like technology and sports than competitors such as Threads, Bluesky, or Mastodon. The platform functions as a central hub for real-time information and niche community engagement.</p><p>A shift in the platform's algorithm has prioritized content from followed accounts over the owner's posts, reducing the visibility of political discourse. This change supports a user experience focused more on specific interests compared to the political intensity of other decentralized networks.</p><hr/><small>12 Oct 2026, 16:15 UTC | #23999</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI-Driven Layoffs in Software Engineering</title>
-    <link href="https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html" rel="alternate" />
-    <id>https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html::v239</id>
-    <published>2026-10-12T11:41:00+00:00</published>
-    <updated>2026-10-12T11:41:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html">cendyne.dev</a> | <a href="https://news.ycombinator.com/item?id=50053216">hacker news</a></small></p><hr/><p>An engineer recounts being replaced by an AI system, arguing that while large language models lack the professional judgment and long-term foresight of experienced developers, corporations are increasingly using them to justify headcount reductions. Companies often prioritize immediate cost-cutting and offshoring over the maintenance of technical quality and product integrity.</p><p>Beyond economic factors, the rise of AI for repetitive engineering tasks, such as code porting, is occurring alongside significant layoffs in the tech sector. While current models lack the capability to replace high-level engineering expertise, they are fundamentally altering how businesses allocate human capital and manage software development workflows.</p><hr/><small>12 Oct 2026, 15:53 UTC | #24055</small>]]></content>
-  </entry>
-  <entry>
-    <title>Uber Withdraws From Nigeria and Uganda Markets</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-11/uber-retreats-in-africa-as-cost-comes-before-comfort-and-safety" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-11/uber-retreats-in-africa-as-cost-comes-before-comfort-and-safety::v239</id>
-    <published>2026-10-12T11:40:00+00:00</published>
-    <updated>2026-10-12T11:40:00+00:00</updated>
-    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1YITFJ.img?w=1200&amp;h=675&amp;m=4&amp;q=50" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-11/uber-retreats-in-africa-as-cost-comes-before-comfort-and-safety">bloomberg.com</a></small></p><hr/><p>Uber has ceased operations in Nigeria and Uganda as part of a global strategic review. This withdrawal follows recent exits from Tanzania and Ivory Coast, marking a significant retreat from several African markets.</p><p>The move is driven by intense competition from lower-cost ride-hailing services like Bolt, inDrive, and Yango, which are attracting price-sensitive riders in the region. This restructuring is part of a broader company shift to focus resources on autonomous vehicles and delivery services.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1YITFJ.img?w=1200&h=675&m=4&q=50" /></p><hr/><small>12 Oct 2026, 15:46 UTC | #23994</small>]]></content>
-  </entry>
-  <entry>
-    <title>China Plans $3.9 Trillion Grid Expansion to Support AI Ambitions</title>
-    <link href="https://www.bloomberg.com/graphics/2026-china-ai-energy-future/" rel="alternate" />
-    <id>https://www.bloomberg.com/graphics/2026-china-ai-energy-future/::v239</id>
-    <published>2026-10-12T11:28:00+00:00</published>
-    <updated>2026-10-12T11:28:00+00:00</updated>
-    <media:thumbnail url="https://www.home.saxo/-/media/content-hub/images/2026/00-07-july/china-electricity.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/graphics/2026-china-ai-energy-future/">bloomberg.com</a></small></p><hr/><p>China plans to invest an estimated $3.9 trillion into its electrical grid through 2049 to better integrate massive amounts of wind and solar power. This massive infrastructure project aims to mitigate energy waste—which reached approximately 9% of renewable output in 2026—and transform surplus green electricity into a competitive advantage for the country's growing artificial intelligence industry.</p><p>This planned expenditure is expected to be significantly larger than projected grid investments in the United States or Europe. By optimizing energy distribution from renewable-rich regions like Gansu, China intends to secure the massive power supplies required by next-generation AI data centers and compute clusters.</p><p><img src="https://www.home.saxo/-/media/content-hub/images/2026/00-07-july/china-electricity.png" /></p><hr/><small>12 Oct 2026, 15:01 UTC | #23990</small>]]></content>
-  </entry>
-  <entry>
-    <title>United States Restores UK Access to Frontier AI Models for Safety Testing</title>
-    <link href="https://www.telegraph.co.uk/news/2026/10/11/britain-get-first-look-ai-systems-after-white-house-u-turn/" rel="alternate" />
-    <id>https://www.telegraph.co.uk/news/2026/10/11/britain-get-first-look-ai-systems-after-white-house-u-turn/::v239</id>
-    <published>2026-10-12T10:25:00+00:00</published>
-    <updated>2026-10-12T10:25:00+00:00</updated>
-    <media:thumbnail url="https://cdn.completeaitraining.com/news_images/white-house-releases-national-ai-policy-framework-with-recommendations-on-regula_2026-03-21.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.telegraph.co.uk/news/2026/10/11/britain-get-first-look-ai-systems-after-white-house-u-turn/">telegraph.co.uk</a></small></p><hr/><p>The United States has restored the UK’s AI Security Institute’s (AISI) access to pre-release frontier models from OpenAI, Anthropic, and Google DeepMind. This decision reverses a recent White House order that prohibited these developers from sharing their latest systems with international regulators for safety testing.</p><p>The access freeze lasted 17 days. The restoration enables British officials to perform safety evaluations on advanced AI systems before they are released to the public, supporting international cooperation on AI safety and governance.</p><p><img src="https://cdn.completeaitraining.com/news_images/white-house-releases-national-ai-policy-framework-with-recommendations-on-regula_2026-03-21.jpg" /></p><hr/><small>12 Oct 2026, 12:46 UTC | #23986</small>]]></content>
-  </entry>
-  <entry>
-    <title>Deloitte Helped Falsify Documents to Hide Roman Abramovich's Wealth</title>
-    <link href="https://www.bbc.com/news/articles/c64g1l5389kvo" rel="alternate" />
-    <id>https://www.bbc.com/news/articles/c64g1l5389kvo::v239</id>
-    <published>2026-10-12T10:22:00+00:00</published>
-    <updated>2026-10-12T10:22:00+00:00</updated>
-    <media:thumbnail url="https://knews.kathimerini.com.cy/assets/modules/wnp/articles/202610/30569/images/b_roman_abramovich_and_yacht.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.bbc.com/news/articles/c64g1l5389kvo">bbc.com</a> | <a href="https://news.ycombinator.com/item?id=50054207">hacker news</a></small></p><hr/><p>Deloitte Cyprus helped falsify documents to hide $672 million in assets and evade taxes for Roman Abramovich. An investigation by BBC Panorama and the Bureau of Investigative Journalism uncovered backdated paperwork used to transfer luxury assets, such as superyachts and mansions, to offshore companies to bypass transparency laws.</p><p>The investigation also detailed a scheme to falsify financial records to conceal interest income from tax authorities. While Abramovich's lawyers deny the allegations, maintaining that he relied on legitimate professional advice, the findings raise questions about the integrity of major international accounting firms.</p><p><img src="https://knews.kathimerini.com.cy/assets/modules/wnp/articles/202610/30569/images/b_roman_abramovich_and_yacht.jpg" /></p><hr/><small>12 Oct 2026, 12:26 UTC | #24033</small>]]></content>
   </entry>
 </feed>

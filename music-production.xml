@@ -3,9 +3,43 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-16T20:24:00+00:00</updated>
+  <updated>2026-10-17T06:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Coopiano Physically Modelled Piano Synthesizer Released</title>
+    <link href="https://github.com/peterc/coopiano" rel="alternate" />
+    <id>https://github.com/peterc/coopiano::v239</id>
+    <published>2026-10-17T06:17:00+00:00</published>
+    <updated>2026-10-17T06:17:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/peterc/coopiano">github.com</a> | <a href="https://lobste.rs/s/qcjvlw/coopiano_physically_modelled_piano">discussion</a></small></p><hr/><p>Coopiano is a C++17 physically modelled piano synthesizer that generates audio by simulating physical components—including hammers, strings, and soundboards—rather than using recorded samples. The software supports offline WAV rendering on multiple platforms and provides live MIDI input functionality for macOS users.</p><p>Released under the MIT license, the project requires no third-party libraries or external sample packs. While the current version is in an early development stage focused on offline rendering and macOS live playback, the developer is also prototyping AU and VST plugin versions.</p><hr/><small>17 Oct 2026, 16:50 UTC | #24583</small>]]></content>
+  </entry>
+  <entry>
+    <title>SnowTec Releases Probe Free Plug-in Analyzer</title>
+    <link href="https://www.kvraudio.com/news/snowtec-releases-probe---free-plug-in-analyzer-vst3-au-69169?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69169" rel="alternate" />
+    <id>https://www.kvraudio.com/news/snowtec-releases-probe---free-plug-in-analyzer-vst3-au-69169?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69169::v239</id>
+    <published>2026-10-17T06:06:00+00:00</published>
+    <updated>2026-10-17T06:06:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/probe-kvr.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/snowtec-releases-probe---free-plug-in-analyzer-vst3-au-69169?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69169">kvraudio.com</a></small></p><hr/><p>SnowTec has released Probe, a free analyzer for audio plug-ins on macOS and Windows. It measures frequency response, phase, harmonics, aliasing, intermodulation, dynamics, impulse response, CPU load, and other processing characteristics.</p><p>Probe is available as a standalone application and as VST3/AU plug-ins for macOS or VST3 for Windows. It includes two six-slot chains, A/B null testing, live updates, and seven correctness checks for comparing plug-in behavior.</p><p><img src="https://static.kvraudio.com/i/b/probe-kvr.jpg" /></p><hr/><small>17 Oct 2026, 16:42 UTC | #24589</small>]]></content>
+  </entry>
+  <entry>
+    <title>Vitric Audio Releases Clearwall Limiter</title>
+    <link href="https://www.kvraudio.com/news/vitric-audio-releases-clearwall-limiter---true-peak-mastering-limiter-with-three-styles-aax-au-and-vst3-69136?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69136" rel="alternate" />
+    <id>https://www.kvraudio.com/news/vitric-audio-releases-clearwall-limiter---true-peak-mastering-limiter-with-three-styles-aax-au-and-vst3-69136?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69136::v239</id>
+    <published>2026-10-17T01:23:00+00:00</published>
+    <updated>2026-10-17T01:23:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/clearwall-limiter-ui-punch.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/vitric-audio-releases-clearwall-limiter---true-peak-mastering-limiter-with-three-styles-aax-au-and-vst3-69136?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69136">kvraudio.com</a> | <a href="https://vitricaudio.com/clearwall">source</a></small></p><hr/><p>Vitric Audio has released Clearwall Limiter, a true-peak mastering limiter for Windows and macOS with Clear, Punch and Dense styles. It supports VST3, AU and AAX formats, with features including 8x oversampled detection, loudness targets, Learn Drive, Unity and Delta monitoring, ITU-R BS.1770 metering, and dithering.</p><p>The plugin costs $49 through October 31, 2026, compared with a regular price of $99, and includes a three-day full-function trial. Windows support covers VST3, AAX and standalone use, while macOS supports VST3, AU and AAX on Intel and Apple Silicon.</p><p><img src="https://static.kvraudio.com/i/b/clearwall-limiter-ui-punch.jpg" /></p><hr/><small>17 Oct 2026, 16:32 UTC | #24591</small>]]></content>
+  </entry>
+  <entry>
+    <title>Pitch Innovations Releases Bollywood Rhythms of India for Sonic Atlas</title>
+    <link href="https://www.kvraudio.com/news/pitch-innovations-releases-bollywood-rhythms-of-india---three-new-rhythm-kits-for-sonic-atlas-69129?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69129" rel="alternate" />
+    <id>https://www.kvraudio.com/news/pitch-innovations-releases-bollywood-rhythms-of-india---three-new-rhythm-kits-for-sonic-atlas-69129?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69129::v239</id>
+    <published>2026-10-17T01:21:00+00:00</published>
+    <updated>2026-10-17T01:21:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/pitch-innovations-releases-bollywood-rhythms-of-india---three-new-rhythm-kits-for-sonic-atlas-69129?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69129">kvraudio.com</a></small></p><hr/><p>Pitch Innovations has released Bollywood Rhythms of India, a collection of three playable rhythm kits for its Sonic Atlas world-music sampler platform: Dandiya Band, Trash Can Ensemble, and Dholak-Tabla. The kits include 3,115 samples recorded with 40 temple musicians and are available for AU, VST3, and AAX at an introductory price of $119 or ₹9,999.</p><p>The collection includes loops, fills, one-shots, velocity layers, round robins, ensemble performances, close and ambient microphones, tempo-synced loops, and time-based effects. It targets Bollywood and South Asian rhythmic production, with sounds designed for festival, percussion, and desi groove arrangements.</p><hr/><small>17 Oct 2026, 16:23 UTC | #24590</small>]]></content>
+  </entry>
   <entry>
     <title>HoRNet ZeroLevel Plugin Released</title>
     <link href="https://www.kvraudio.com/news/hornet-zerolevel-released-automatic-track-levels-for-a-starting-mix-balance-69161?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69161" rel="alternate" />
@@ -544,146 +578,5 @@
     <updated>2026-10-12T18:51:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/karmabass-cover-1280x720_kvr.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/karmastation-releases-karmabass---mono-bass-synth-that-sidechains-to-karmakick-vst3-and-au-68985?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68985">kvraudio.com</a> | <a href="https://karmastation.gumroad.com/l/karmabass">source</a></small></p><hr/><p>KarmaStation has launched KarmaBass, a monophonic synthesizer for macOS and Windows featuring two oscillators, a 24 dB low-pass filter, and legato glide. The plugin includes 52 presets and is available in VST3, Audio Unit, and standalone formats without requiring online activation.</p><p>The synthesizer includes integrated sidechaining capability to duck under the free KarmaKick plugin without manual DAW routing. It is currently offered at an introductory price of €19.</p><p><img src="https://static.kvraudio.com/i/b/karmabass-cover-1280x720_kvr.jpg" /></p><hr/><small>12 Oct 2026, 22:13 UTC | #24069</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sakdinat2548 Updates Abalone W5 Plugin to v1.3.0</title>
-    <link href="https://www.kvraudio.com/news/sakdinat2548-updates-free-abalone-w5-plugin-to-v1-3-0-vst3-and-au-69056?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69056" rel="alternate" />
-    <id>https://www.kvraudio.com/news/sakdinat2548-updates-free-abalone-w5-plugin-to-v1-3-0-vst3-and-au-69056?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69056::v239</id>
-    <published>2026-10-12T15:31:00+00:00</published>
-    <updated>2026-10-12T15:31:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/v130uiprev.1791788525.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/sakdinat2548-updates-free-abalone-w5-plugin-to-v1-3-0-vst3-and-au-69056?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69056">kvraudio.com</a> | <a href="https://github.com/Sakdinat2548/Abalone-W5/releases/tag/v1.3.0">source</a></small></p><hr/><p>Sakdinat2548 has released version 1.3.0 of the Abalone W5 DI and preamp plugin. The update introduces higher-order harmonics for more authentic hardware modeling, a 4 kHz high-cut filter, and UI fixes to prevent knobs from extending off-screen.</p><p>The release includes a Windows installer and ensures the bypass function remains synchronized with the project timing. The plugin is available for Windows, macOS, and Linux in VST3 format, with an additional AU version for macOS.</p><p><img src="https://static.kvraudio.com/i/b/v130uiprev.1791788525.png" /></p><hr/><small>12 Oct 2026, 20:16 UTC | #24067</small>]]></content>
-  </entry>
-  <entry>
-    <title>Cableguys Releases TimeStop Plugin and Launches Black Friday Sale</title>
-    <link href="https://www.kvraudio.com/news/cableguys-releases-timestop-and-launches-black-friday-sale-69051?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69051" rel="alternate" />
-    <id>https://www.kvraudio.com/news/cableguys-releases-timestop-and-launches-black-friday-sale-69051?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69051::v239</id>
-    <published>2026-10-12T15:29:00+00:00</published>
-    <updated>2026-10-12T15:29:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/cableguys-timestop---crop-for-kvr.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/cableguys-releases-timestop-and-launches-black-friday-sale-69051?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69051">kvraudio.com</a> | <a href="https://www.cableguys.com/timestop">source</a></small></p><hr/><p>Cableguys has released TimeStop, a tape-stop plugin that utilizes DAW automation to control pitch and time slowdowns. The plugin includes classic, modern, and loop modes, allowing for traditional spindowns, tempo-independent pitch shifts, and stuttering transitions.</p><p>The announcement is accompanied by a Black Friday sale featuring discounts on the ShaperBox 3 bundle, the full Cableguys Bundle, and individual plugins such as VolumeShaper and Snapback. Upgrades for existing users are also discounted.</p><p><img src="https://static.kvraudio.com/i/b/cableguys-timestop---crop-for-kvr.png" /></p><hr/><small>12 Oct 2026, 20:03 UTC | #24064</small>]]></content>
-  </entry>
-  <entry>
-    <title>Psytrance Plugins Launches JLoopz Online DAW for Beginners</title>
-    <link href="https://www.kvraudio.com/news/psytrance-plugins-introduces-jloopz-online-daw-for-beginners-69058?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69058" rel="alternate" />
-    <id>https://www.kvraudio.com/news/psytrance-plugins-introduces-jloopz-online-daw-for-beginners-69058?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69058::v239</id>
-    <published>2026-10-12T15:28:00+00:00</published>
-    <updated>2026-10-12T15:28:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/back_1.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/psytrance-plugins-introduces-jloopz-online-daw-for-beginners-69058?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69058">kvraudio.com</a> | <a href="https://www.psytranceplugins.com/">source</a></small></p><hr/><p>Psytrance Plugins has released JLoopz, a web-based digital audio workstation (DAW) designed for electronic music beginners. The platform allows users to sequence loops and patterns, utilize a 2.5GB sample library, and apply effects to create tracks from scratch.</p><p>The service includes 150MB of user storage. Pricing is structured as a one-time payment for lifetime access, with an introductory rate of $15 for the first 15 users, increasing to $30 thereafter.</p><p><img src="https://static.kvraudio.com/i/b/back_1.png" /></p><hr/><small>12 Oct 2026, 20:02 UTC | #24063</small>]]></content>
-  </entry>
-  <entry>
-    <title>Music By Mattie Releases Free magic.METER Vocal Analyzer Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/10/12/music-by-mattie-magic-meter/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/12/music-by-mattie-magic-meter/::v239</id>
-    <published>2026-10-12T15:27:00+00:00</published>
-    <updated>2026-10-12T15:27:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/12/music-by-mattie-magic-meter/">bedroomproducersblog.com</a> | <a href="https://musicbymattie.com/magic-meter">source</a> | <a href="https://bedroomproducersblog.com/2026/10/12/music-by-mattie-magic-meter/#respond">discussion</a></small></p><hr/><p>Music By Mattie has released magic.METER, a free vocal analyzer plugin that provides live feedback within a Digital Audio Workstation (DAW). The tool compares a user's vocal performance against a database of 3,054 hit song vocals, providing a visual analysis of key performance markers.</p><p>The plugin evaluates vocals across seven categories: Tone, Dynamics, Level, Recording, Width, Space, and Esses. It is designed as a pure visual utility, meaning it analyzes the audio signal without applying any processing or coloring to the sound.</p><hr/><small>12 Oct 2026, 20:00 UTC | #24062</small>]]></content>
-  </entry>
-  <entry>
-    <title>Carbonated Audio Updates Foam Plugin with Windows VST3 Support and Free Demo</title>
-    <link href="https://www.kvraudio.com/news/carbonated-audio-updates-foam-to-v1-2-1---adds-windows-vst3-and-a-free-demo-69001?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69001" rel="alternate" />
-    <id>https://www.kvraudio.com/news/carbonated-audio-updates-foam-to-v1-2-1---adds-windows-vst3-and-a-free-demo-69001?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69001::v239</id>
-    <published>2026-10-12T15:12:00+00:00</published>
-    <updated>2026-10-12T15:12:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/foam-screenshot.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/carbonated-audio-updates-foam-to-v1-2-1---adds-windows-vst3-and-a-free-demo-69001?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69001">kvraudio.com</a> | <a href="https://carbonatedaudio.com/foam">source</a></small></p><hr/><p>Carbonated Audio has released version 1.2.1 of Foam, a tempo-synced ducking reverb plugin. The update adds 64-bit VST3 support for Windows 10 and 11, complementing its existing macOS compatibility for VST3, AU, and AAX formats.</p><p>The plugin is designed to prevent reverb tails from masking source signals by ducking during active audio and blooming in the gaps. This update includes the availability of a free demo for both platforms, and all existing licenses and sessions remain valid.</p><p><img src="https://static.kvraudio.com/i/b/foam-screenshot.png" /></p><hr/><small>12 Oct 2026, 18:19 UTC | #24038</small>]]></content>
-  </entry>
-  <entry>
-    <title>max1mus audio Releases Mult1Comp for Immersive Audio Mixing</title>
-    <link href="https://www.kvraudio.com/news/max1mus-audio-releases-mult1comp---surround-multiband-compressor-and-frequency-router-for-atmos-aax-au-and-vst3-69053?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69053" rel="alternate" />
-    <id>https://www.kvraudio.com/news/max1mus-audio-releases-mult1comp---surround-multiband-compressor-and-frequency-router-for-atmos-aax-au-and-vst3-69053?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69053::v239</id>
-    <published>2026-10-12T11:45:00+00:00</published>
-    <updated>2026-10-12T11:45:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/mult1comp.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/max1mus-audio-releases-mult1comp---surround-multiband-compressor-and-frequency-router-for-atmos-aax-au-and-vst3-69053?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69053">kvraudio.com</a> | <a href="https://max1musaudio.com/plugins/mult1comp">source</a></small></p><hr/><p>max1mus audio has released Mult1Comp, a multiband compressor and frequency router designed for surround and immersive mixing, including Dolby Atmos. The plugin supports speaker configurations from 5.1 to 9.1.6 and allows for per-speaker compressor bands and frequency routing across up to 16 linked object tracks.</p><p>The software includes bass management for LFE routing, sub-bass synthesis, and automation for gains and crossovers. It is available for macOS and Windows in VST3, AU, and AAX formats, with an introductory price of $99 available until November 8, 2026.</p><p><img src="https://static.kvraudio.com/i/b/mult1comp.jpg" /></p><hr/><small>12 Oct 2026, 16:16 UTC | #24021</small>]]></content>
-  </entry>
-  <entry>
-    <title>Musica.Studio Releases FSVR, a Free Rebuild of the Yamaha FS1R</title>
-    <link href="https://bedroomproducersblog.com/2026/10/12/fsvr-yamaha-fs1r/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/12/fsvr-yamaha-fs1r/::v239</id>
-    <published>2026-10-12T11:37:00+00:00</published>
-    <updated>2026-10-12T11:37:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/12/fsvr-yamaha-fs1r/">bedroomproducersblog.com</a> | <a href="https://github.com/musicastudio/FSVR/releases">source</a> | <a href="https://bedroomproducersblog.com/2026/10/12/fsvr-yamaha-fs1r/#respond">discussion</a></small></p><hr/><p>Musica.Studio has released FSVR, a free software rebuild of the 1998 Yamaha FS1R synthesizer. Built using the original hardware's decompiled firmware, the emulation is available for Windows, macOS, and Linux.</p><p>The project is currently in early alpha development. Recent updates have focused on preset management in banks, user interface refinements, and stability improvements within the editor.</p><hr/><small>12 Oct 2026, 15:27 UTC | #24016</small>]]></content>
-  </entry>
-  <entry>
-    <title>Safari Audio Releases Everything Bundle</title>
-    <link href="https://bedroomproducersblog.com/2026/10/12/safari-audio-everything-bundle/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/12/safari-audio-everything-bundle/::v239</id>
-    <published>2026-10-12T11:36:00+00:00</published>
-    <updated>2026-10-12T11:36:00+00:00</updated>
-    <media:thumbnail url="https://img.audiofanzine.com/img/product/normal/3/6/362236.jpg?fm=pjpg&amp;fit=max&amp;s=11ad2cc23a168c64cbf198d266922f21" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/12/safari-audio-everything-bundle/">bedroomproducersblog.com</a> | <a href="https://safariaudio.com/products/everything-bundle-1">source</a></small></p><hr/><p>This collection includes over 31 plugins, instruments, and studio tools designed for mixing, production, and mastering. The assortment is intended to assist creators through various stages of the music production process.</p><p>The bundle provides a wide range of audio software designed to streamline studio workflows and enhance creative expression.</p><p><img src="https://img.audiofanzine.com/img/product/normal/3/6/362236.jpg?fm=pjpg&fit=max&s=11ad2cc23a168c64cbf198d266922f21" /></p><hr/><small>12 Oct 2026, 15:26 UTC | #24017</small>]]></content>
-  </entry>
-  <entry>
-    <title>NopeAudio Releases Free NopeScope Oscilloscope Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/10/12/nopescope/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/12/nopescope/::v239</id>
-    <published>2026-10-12T11:35:00+00:00</published>
-    <updated>2026-10-12T11:35:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/12/nopescope/">bedroomproducersblog.com</a> | <a href="https://nopeaudio.com/en/plugins/nopescope">source</a> | <a href="https://bedroomproducersblog.com/2026/10/12/nopescope/#respond">discussion</a></small></p><hr/><p>NopeAudio has released NopeScope, a free, zero-latency oscilloscope plugin for music production. The tool provides a standard waveform view and a spectral mode that displays separate low, mid, and high frequency layers to assist with signal inspection.</p><p>Available for macOS and Windows in VST3 and Audio Units formats, the plugin features sidechain comparison to analyze the relationship between two signals. It also includes integrated metering to assist with monitoring waveform shapes, transient timing, and low-end movement.</p><hr/><small>12 Oct 2026, 15:24 UTC | #24018</small>]]></content>
-  </entry>
-  <entry>
-    <title>Morphoice Chiptune Content Unavailable</title>
-    <link href="https://bedroomproducersblog.com/2026/10/12/morphoice-chiptune/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/12/morphoice-chiptune/::v239</id>
-    <published>2026-10-12T11:34:00+00:00</published>
-    <updated>2026-10-12T11:34:00+00:00</updated>
-    <media:thumbnail url="https://media.fab.com/image_previews/gallery_images/73270da5-1c1e-4d7c-b57a-ccb5a65ada56/1a0bdb39-74ac-4281-ac01-f07f48363e2c.png" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/12/morphoice-chiptune/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/10/12/morphoice-chiptune/#respond">discussion</a></small></p><hr/><p>The provided article content consists of a security verification page from Bedroom Producers Blog rather than the actual article text. The page includes request details and a support ticket link intended for site administrators to resolve access issues.</p><p>Because the actual content regarding the subject is not present in the provided text, a summary of the intended topic cannot be generated. The URL suggests the content would relate to a chiptune-related release by Morphoice.</p><p><img src="https://media.fab.com/image_previews/gallery_images/73270da5-1c1e-4d7c-b57a-ccb5a65ada56/1a0bdb39-74ac-4281-ac01-f07f48363e2c.png" /></p><hr/><small>12 Oct 2026, 15:23 UTC | #24019</small>]]></content>
-  </entry>
-  <entry>
-    <title>Marula Music Releases Veld Multiband Stereo Width Plugin</title>
-    <link href="https://www.kvraudio.com/news/marula-music-releases-veld---multiband-stereo-width-plugin-69050?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69050" rel="alternate" />
-    <id>https://www.kvraudio.com/news/marula-music-releases-veld---multiband-stereo-width-plugin-69050?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69050::v239</id>
-    <published>2026-10-12T11:29:00+00:00</published>
-    <updated>2026-10-12T11:29:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/veld-169.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/marula-music-releases-veld---multiband-stereo-width-plugin-69050?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69050">kvraudio.com</a> | <a href="https://marulamusic.com/plugins/veld/">source</a></small></p><hr/><p>Veld is a multiband stereo width plugin for macOS and Windows that allows users to shape the stereo image across up to four frequency bands. The tool can maintain centered bass frequencies while widening upper bands or generate stereo width from mono sources.</p><p>The software features Anchor processing to keep transient attacks centered, a Stereo Engine with Haas delay and chorus modulation, and a Phase Limiter to manage correlation. It supports VST3, AU, and CLAP formats and is available at an introductory price of $39/€39.</p><p><img src="https://static.kvraudio.com/i/b/veld-169.jpg" /></p><hr/><small>12 Oct 2026, 15:03 UTC | #24008</small>]]></content>
-  </entry>
-  <entry>
-    <title>2B Played Music Releases 2B Shaped 2 Multi-Effect Plugin</title>
-    <link href="https://www.kvraudio.com/news/2b-played-music-releases-2b-shaped-2-multi-effect-plugin-17-creative-effects-vst3-au-and-aax-69041?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69041" rel="alternate" />
-    <id>https://www.kvraudio.com/news/2b-played-music-releases-2b-shaped-2-multi-effect-plugin-17-creative-effects-vst3-au-and-aax-69041?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69041::v239</id>
-    <published>2026-10-12T11:25:00+00:00</published>
-    <updated>2026-10-12T11:25:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/1024-2b-shaped-2-by-2b-played-music---cart.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/2b-played-music-releases-2b-shaped-2-multi-effect-plugin-17-creative-effects-vst3-au-and-aax-69041?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69041">kvraudio.com</a> | <a href="https://2bplayed.com/product/2b-shaped-2/">source</a></small></p><hr/><p>2B Played Music has released 2B Shaped 2, a multi-effect plugin for Windows and macOS. The plugin features 17 effect modules—including reverb, delay, distortion, and a resonator—that can be combined and rearranged in any order within a flexible rack for custom sound design.</p><p>The software includes a visual shape editor for creating parameter curves, supporting direct musical note editing for precisely tuned pitch sequences. It also features "React" functionality for sidechain-driven modulation and supports MIDI triggering and DAW synchronization.</p><p><img src="https://static.kvraudio.com/i/b/1024-2b-shaped-2-by-2b-played-music---cart.png" /></p><hr/><small>12 Oct 2026, 14:29 UTC | #24002</small>]]></content>
-  </entry>
-  <entry>
-    <title>Dropshot Audio Releases Bagels V2 Free Synthesizer</title>
-    <link href="https://www.kvraudio.com/news/dropshot-audio-releases-bagels-v2---free-resonant-filter-bank-synthesizer-vst3-au-and-clap-69038?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69038" rel="alternate" />
-    <id>https://www.kvraudio.com/news/dropshot-audio-releases-bagels-v2---free-resonant-filter-bank-synthesizer-vst3-au-and-clap-69038?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69038::v239</id>
-    <published>2026-10-12T11:24:00+00:00</published>
-    <updated>2026-10-12T11:24:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/bagels-v2-ui-1-0-0.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dropshot-audio-releases-bagels-v2---free-resonant-filter-bank-synthesizer-vst3-au-and-clap-69038?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69038">kvraudio.com</a> | <a href="https://dropshotaudio.com/bagels">source</a></small></p><hr/><p>Dropshot Audio has released Bagels V2, a free resonant filter-bank synthesizer for macOS, Windows, and Linux. The update includes a redesigned user interface, optimized CPU performance via SIMD voice processing, and an optional output limiter with metering. The software is available in VST3, AU, CLAP, and standalone formats.</p><p>Functionality improvements include expanded modulation matrix sources for pitch bend and mod wheel, as well as quick-set harmonic partials for resonator banks. The release also features an expanded library of categorized factory presets and automatic window scaling for the standalone version.</p><p><img src="https://static.kvraudio.com/i/b/bagels-v2-ui-1-0-0.png" /></p><hr/><small>12 Oct 2026, 14:28 UTC | #24000</small>]]></content>
-  </entry>
-  <entry>
-    <title>Minikod Releases VST3 and AU Plugins for Hardware Synthesizer Integration</title>
-    <link href="https://www.kvraudio.com/news/minikod-releases-vst3-au-plugins-for-hardware-synthesizer-daw-integration-69012?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69012" rel="alternate" />
-    <id>https://www.kvraudio.com/news/minikod-releases-vst3-au-plugins-for-hardware-synthesizer-daw-integration-69012?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69012::v239</id>
-    <published>2026-10-12T10:31:00+00:00</published>
-    <updated>2026-10-12T10:31:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/minimoog-recall.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/minikod-releases-vst3-au-plugins-for-hardware-synthesizer-daw-integration-69012?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69012">kvraudio.com</a> | <a href="https://minikod.rs/">source</a></small></p><hr/><p>A new suite of VST3 and AU plugins from Minikod facilitates the integration of hardware synthesizers into Digital Audio Workstation (DAW) workflows. The Recall series enables users to save and restore patch settings for hardware lacking onboard memory, while the Remote series provides parameter editing and MIDI automation of hardware knobs directly within the DAW.</p><p>The plugin range supports various hardware from Moog, Arturia, Behringer, Erica Synths, and Korg. Available for Windows and macOS, the plugins are priced at 9.50€, with the TD-3 Recall plugin offered for free.</p><p><img src="https://static.kvraudio.com/i/b/minimoog-recall.png" /></p><hr/><small>12 Oct 2026, 13:44 UTC | #23998</small>]]></content>
-  </entry>
-  <entry>
-    <title>Venomode Releases Plenum Multi-Effect Plugin</title>
-    <link href="https://www.kvraudio.com/news/venomode-releases-plenum-68969?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68969" rel="alternate" />
-    <id>https://www.kvraudio.com/news/venomode-releases-plenum-68969?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=68969::v239</id>
-    <published>2026-10-12T10:29:00+00:00</published>
-    <updated>2026-10-12T10:29:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/plenum-news.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/venomode-releases-plenum-68969?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=68969">kvraudio.com</a> | <a href="https://venomode.com/plugins/plenum">source</a></small></p><hr/><p>Plenum is a multi-effect plugin featuring six processors: Transient for attack definition, Sub for subharmonics, Thick for stereo layering, Air for harmonic brightness, Boost for saturation, and Space for dynamic stereo reverb.</p><p>The software is compatible with macOS, Windows, and Linux. It is priced at £29 until October 30th, when the cost returns to the standard £39.</p><p><img src="https://static.kvraudio.com/i/b/plenum-news.png" /></p><hr/><small>12 Oct 2026, 13:42 UTC | #23995</small>]]></content>
-  </entry>
-  <entry>
-    <title>Kenneth Blume Discusses Name Change and His Putnam Hill Studio</title>
-    <link href="https://musictech.com/features/interviews/kenneth-blume/" rel="alternate" />
-    <id>https://musictech.com/features/interviews/kenneth-blume/::v239</id>
-    <published>2026-10-12T10:26:00+00:00</published>
-    <updated>2026-10-12T10:26:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/MT-HERO-KENNETH-BLUME-CREDIT-EVAN-TETREAULT@2560x1707.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/features/interviews/kenneth-blume/">musictech.com</a></small></p><hr/><p>Producer Kenneth Blume, formerly known by the moniker Kenny Beats, has transitioned to using his legal name as his work expands beyond hip-hop into rock, metal, and film scoring. He has also established Putnam Hill, a performance-focused studio in Los Angeles designed to facilitate spontaneous recording with live instrumentation.</p><p>Blume’s production philosophy emphasizes capturing live energy and "anti-production" techniques, prioritizing organic performance over rigid digital grids. His approach involves deep research into collaborators to anticipate their creative directions and the use of custom hardware, such as the Wandertone synthesizer, designed for immediate tactile control.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/MT-HERO-KENNETH-BLUME-CREDIT-EVAN-TETREAULT@2560x1707.jpg" /></p><hr/><small>12 Oct 2026, 12:48 UTC | #23989</small>]]></content>
   </entry>
 </feed>

@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-16T14:31:00+00:00</updated>
+  <updated>2026-10-17T02:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Butlerian Jihad Defined by Machine Revolt and Its Lasting Impact</title>
+    <link href="https://dune.fandom.com/wiki/Butlerian_Jihad" rel="alternate" />
+    <id>https://dune.fandom.com/wiki/Butlerian_Jihad::v239</id>
+    <published>2026-10-17T02:22:00+00:00</published>
+    <updated>2026-10-17T02:22:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://dune.fandom.com/wiki/Butlerian_Jihad">dune.fandom.com</a> | <a href="https://news.ycombinator.com/item?id=50127274">hacker news</a></small></p><hr/><p>In the Dune universe, the Butlerian Jihad was a human revolt against computers, thinking machines, and conscious robots that began in 201 B.G. and ended in 108 B.G. Humanity destroyed intelligent machines and established the principle that humans must not be replaced by machines.</p><p>The Jihad produced a technological reversal, bans on machine minds, and institutions such as the mentats, Bene Gesserit, and Spacing Guild. The article also examines its role as a literary device in Frank Herbert’s novels, its possible allusion to Samuel Butler’s Erewhon, and its depictions or references in later Dune adaptations.</p><hr/><small>17 Oct 2026, 16:38 UTC | #24574</small>]]></content>
+  </entry>
   <entry>
     <title>Simons Foundation, Anthropic, and OpenAI Launch $15M Initiative for Mathematics and AI</title>
     <link href="https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/" rel="alternate" />
@@ -158,14 +166,5 @@
     <published>2026-10-12T22:04:00+00:00</published>
     <updated>2026-10-12T22:04:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/">yyhh.org</a> | <a href="https://news.ycombinator.com/item?id=50063427">hacker news</a></small></p><hr/><p>Large Language Models (LLMs) function as tools requiring human skill, rather than being mere forms of automation. Since automation is a standard feature in tools like compilers and spreadsheets, LLMs can be effectively wielded through human intention, feedback, and expertise.</p><p>Industry-standard anthropomorphic language, such as describing software errors as "conspiring," is criticized for framing technical failures as the actions of independent beings. The critical distinction is between the skilled use of an instrument and the delegation of work without human oversight or understanding.</p><hr/><small>13 Oct 2026, 04:22 UTC | #24110</small>]]></content>
-  </entry>
-  <entry>
-    <title>Calculus Learning Notes Using Julia</title>
-    <link href="https://jverzani.github.io/CalculusWithJuliaNotes.jl/" rel="alternate" />
-    <id>https://jverzani.github.io/CalculusWithJuliaNotes.jl/::v239</id>
-    <published>2026-10-12T15:04:00+00:00</published>
-    <updated>2026-10-12T15:04:00+00:00</updated>
-    <media:thumbnail url="https://jaantollander.com/post/how-to-create-software-packages-with-julia-language/featured.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jverzani.github.io/CalculusWithJuliaNotes.jl/">jverzani.github.io</a> | <a href="https://news.ycombinator.com/item?id=50034206">hacker news</a></small></p><hr/><p>John Verzani provides a set of learning notes for studying calculus through the Julia programming language. The resource uses Julia's syntax and capabilities to demonstrate mathematical concepts via graphical, numerical, and symbolic methods, adhering to a multi-faceted pedagogical approach.</p><p>Presented as a Quarto book, the notes are supported by the `CalculusWithJulia` package to simplify common computational tasks. The material incorporates "try-it-yourself" exercises and focuses on core calculus concepts while minimizing the complexity of the underlying programming language.</p><p><img src="https://jaantollander.com/post/how-to-create-software-packages-with-julia-language/featured.png" /></p><hr/><small>12 Oct 2026, 17:03 UTC | #24066</small>]]></content>
   </entry>
 </feed>
