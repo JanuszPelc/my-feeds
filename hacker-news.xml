@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-17T09:43:00+00:00</updated>
+  <updated>2026-10-17T14:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Lingua Franca Provides Deterministic Coordination for Concurrent and Distributed Systems</title>
+    <link href="https://www.lf-lang.org/" rel="alternate" />
+    <id>https://www.lf-lang.org/::v239</id>
+    <published>2026-10-17T14:04:00+00:00</published>
+    <updated>2026-10-17T14:04:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.lf-lang.org/">lf-lang.org</a> | <a href="https://lobste.rs/s/srao9u/intuitive_concurrent_programming_any">discussion</a> | <a href="https://news.ycombinator.com/item?id=50103255">hacker news</a></small></p><hr/><p>Lingua Franca is a coordination language designed for creating predictable, deterministic, and time-sensitive concurrent or distributed programs. Its reactor-oriented paradigm eliminates race conditions and manual synchronization by construction, allowing for the composition of reactive components without the traditional overhead of thread management or message-passing middleware.</p><p>The system is polyglot, allowing the core functional logic within reactors to be written in C, C++, Python, TypeScript, or Rust. Developed through research at UC Berkeley and involving several international academic institutions, the framework aims to simplify the transition from single-node to distributed architectures.</p><hr/><small>17 Oct 2026, 18:06 UTC | #24604</small>]]></content>
+  </entry>
   <entry>
     <title>RPKI Adoption Reaches 70% of Internet Routes</title>
     <link href="https://ipinfo.io/blog/rpki-protects-70-internet-routes" rel="alternate" />
