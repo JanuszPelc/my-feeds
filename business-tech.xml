@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-16T19:09:00+00:00</updated>
+  <updated>2026-10-16T20:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>CoreWeave Founders Sell $3.3 Billion in Stock Since IPO</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales::v239</id>
+    <published>2026-10-16T20:25:00+00:00</published>
+    <updated>2026-10-16T20:25:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50113735">hacker news</a></small></p><hr/><p>Three CoreWeave co-founders have sold $3.3 billion in company shares since the firm's March 2025 initial public offering. Of this total, $2.4 billion in stock was sold in 2026 alone.</p><p>The sales occurred as CoreWeave's stock price fell more than 60% from its peak in June 2025. Recent market volatility for the company has been attributed to rising credit risks and investor apprehension regarding widespread AI-related spending.</p><hr/><small>17 Oct 2026, 01:01 UTC | #24528</small>]]></content>
+  </entry>
   <entry>
     <title>Amulya Vishwanath on Why Robotics Lacks a 'ChatGPT Moment'</title>
     <link href="https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/" rel="alternate" />
