@@ -3,9 +3,17 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-17T02:22:00+00:00</updated>
+  <updated>2026-10-17T14:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Solar and Wind Generation Surpasses Global Nuclear Output</title>
+    <link href="https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/" rel="alternate" />
+    <id>https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/::v239</id>
+    <published>2026-10-17T14:02:00+00:00</published>
+    <updated>2026-10-17T14:02:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/">pv-magazine.com</a> | <a href="https://www.worldnuclearreport.org/World-Nuclear-Industry-Status-Report-2026">source</a> | <a href="https://news.ycombinator.com/item?id=50131256">hacker news</a></small></p><hr/><p>Solar and wind power have surpassed nuclear energy in global electricity generation, according to the World Nuclear Industry Status Report 2026. Solar monthly generation exceeded nuclear output in April 2025, following wind power's milestone in March 2025. This trend occurs as renewable capacity expands rapidly while nuclear growth remains largely stagnant, with new installations concentrated primarily in China and Russia.</p><p>Global solar capacity increased by 27% in 2025, while nuclear's share of global electricity fell to 8.8%, its lowest level in 45 years. The report highlights challenges for the nuclear sector, including long construction timelines and the uncertain commercial viability of small modular reactors (SMRs), contrasted against accelerated grid-scale battery deployment.</p><hr/><small>17 Oct 2026, 17:52 UTC | #24599</small>]]></content>
+  </entry>
   <entry>
     <title>Butlerian Jihad Defined by Machine Revolt and Its Lasting Impact</title>
     <link href="https://dune.fandom.com/wiki/Butlerian_Jihad" rel="alternate" />
