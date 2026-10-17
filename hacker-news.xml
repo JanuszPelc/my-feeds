@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T22:13:00+00:00</updated>
+  <updated>2026-10-16T23:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Codeberg to Sunset Codeberg Pages v2</title>
+    <link href="https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html" rel="alternate" />
+    <id>https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html::v239</id>
+    <published>2026-10-16T23:48:00+00:00</published>
+    <updated>2026-10-16T23:48:00+00:00</updated>
+    <media:thumbnail url="https://images.lyuk98.com/ebe5e397-e3c6-4a7c-943d-916dd50dfa82.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html">blog.codeberg.org</a> | <a href="https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2">discussion</a></small></p><hr/><p>Legacy v2 hosting will be shut down on December 31, 2026. Users must migrate to the newer git-pages powered infrastructure before this date to ensure their sites remain online.</p><p>The transition is necessitated by the fact that the original v2 solution has been unmaintained for an extended period. Codeberg has provided a migration guide and a check tool to help users identify if their repositories require action.</p><p><img src="https://images.lyuk98.com/ebe5e397-e3c6-4a7c-943d-916dd50dfa82.webp" /></p><hr/><small>17 Oct 2026, 07:16 UTC | #24570</small>]]></content>
+  </entry>
   <entry>
     <title>PS5LM Runs GGUF Models on Jailbroken PS5 Hardware</title>
     <link href="https://github.com/cobanov/PS5LM" rel="alternate" />
