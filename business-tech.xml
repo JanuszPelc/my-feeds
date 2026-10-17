@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-16T23:01:00+00:00</updated>
+  <updated>2026-10-16T23:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple Updates App Store Guidelines to Combat AI-Generated Intimate Imagery and Deceptive Apps</title>
+    <link href="https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/" rel="alternate" />
+    <id>https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/::v239</id>
+    <published>2026-10-16T23:46:00+00:00</published>
+    <updated>2026-10-16T23:46:00+00:00</updated>
+    <media:thumbnail url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?w=1600" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/">9to5mac.com</a> | <a href="https://developer.apple.com/app-store/review/guidelines/">source</a></small></p><hr/><p>Apple has updated its App Store Review Guidelines to combat the rise of AI-generated nonconsensual intimate imagery and "bait-and-switch" apps. The new rules explicitly prohibit developers from using code obfuscation or other undocumented methods to hide features—such as gambling or explicit content—during the initial review process to evade detection.</p><p>These changes follow several high-profile incidents involving apps that bypassed moderation to target minors or users in specific geographic regions. Under the updated policy, developers who fail to implement necessary content safeguards or attempt to hide dormant functionality face stricter penalties, including app removal and the potential termination of their developer accounts.</p><p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?w=1600" /></p><hr/><small>17 Oct 2026, 06:51 UTC | #24553</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Pitches AI Safety Bill to US Lawmakers</title>
     <link href="https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654" rel="alternate" />
