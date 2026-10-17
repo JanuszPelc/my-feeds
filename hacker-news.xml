@@ -953,30 +953,4 @@
     <media:thumbnail url="https://forum.openwrt.org/uploads/default/original/3X/9/e/9ee08d9ba5183b70a5bdef420e8e454d42cab7b2.jpeg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/h0m3us3r/w1700k-sdr">github.com</a> | <a href="https://news.ycombinator.com/item?id=50055593">hacker news</a></small></p><hr/><p>The Gemtek W1700K Wi-Fi 7 router can be converted into a wideband software-defined radio (SDR) receiver by replacing its original MediaTek firmware with custom code. The MediaTek MT7996 radio captures 14-bit raw IQ samples at sample rates up to 320 Msps, which the Airoha AN7581 SoC streams via a 10 GbE connection to a Linux host.</p><p>A web-based interface provides real-time spectrum and waterfall visualizations, allowing for live control over tuning, gain, and filtering. This receive-only implementation operates without proprietary MediaTek firmware, requiring a custom ROM patch to initialize the radio hardware.</p><p><img src="https://forum.openwrt.org/uploads/default/original/3X/9/e/9ee08d9ba5183b70a5bdef420e8e454d42cab7b2.jpeg" /></p><hr/><small>13 Oct 2026, 02:04 UTC | #24105</small>]]></content>
   </entry>
-  <entry>
-    <title>C Standard Implementation Discrepancies in GCC, Clang, glibc, and musl</title>
-    <link href="https://sebsite.pw/w/20261012-notstdc.html" rel="alternate" />
-    <id>https://sebsite.pw/w/20261012-notstdc.html::v239</id>
-    <published>2026-10-12T19:03:00+00:00</published>
-    <updated>2026-10-12T19:03:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sebsite.pw/w/20261012-notstdc.html">sebsite.pw</a> | <a href="https://lobste.rs/s/0aocct/your_c_is_not_standard_c">discussion</a></small></p><hr/><p>The article outlines various incompatibilities between the C standard and common implementations such as GCC, Clang, glibc, and musl. Notable discrepancies include the non-standard treatment of the `asm` keyword, GCC's static implementation of the `FLT_ROUNDS` macro, and the lack of support for standard pragmas in GCC and Clang. Additionally, musl's headers fail to correctly support the C23 single-argument `va_start` macro despite compiler support.</p><p>Further issues include glibc's deviation from POSIX regarding `initstate` error returns and Clang's failure to discard qualifiers in function return types as required by the standard. These implementation-specific behaviors can lead to non-portable code and unintended consequences for developers targeting the standard C specification.</p><hr/><small>13 Oct 2026, 00:43 UTC | #24100</small>]]></content>
-  </entry>
-  <entry>
-    <title>Klondike Solver and Monitoring System Development</title>
-    <link href="https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week" rel="alternate" />
-    <id>https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week::v239</id>
-    <published>2026-10-12T18:59:00+00:00</published>
-    <updated>2026-10-12T18:59:00+00:00</updated>
-    <media:thumbnail url="https://cdn.blink.new/screenshots/klondike-solver-app-urnbzky9.sites.blink.new-1779823143381.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week">lobste.rs</a> | <a href="https://lobste.rs/s/7vzgsl/what_are_you_doing_this_week">discussion</a></small></p><hr/><p>The author is pursuing a master's degree for teaching and has developed a Rust-based Klondike solver with a 50% success rate. They are also creating a DuckDB-based monitoring system designed to provide simpler configuration and more customizable alerting than Nagios.</p><p>Future plans include building a cross-platform Klondike game with decentralized storage support using web technologies or Tauri. The author is also practicing physical solitaire to improve manual dexterity for verifying solver outputs.</p><p><img src="https://cdn.blink.new/screenshots/klondike-solver-app-urnbzky9.sites.blink.new-1779823143381.webp" /></p><hr/><small>13 Oct 2026, 00:24 UTC | #24098</small>]]></content>
-  </entry>
-  <entry>
-    <title>fastsimdjson achieves 66 GB/s JSON parsing throughput in Python</title>
-    <link href="https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/" rel="alternate" />
-    <id>https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/::v239</id>
-    <published>2026-10-12T18:49:00+00:00</published>
-    <updated>2026-10-12T18:49:00+00:00</updated>
-    <media:thumbnail url="https://lemire.me/blog/wp-content/uploads/2026/10/pyjson-one-core.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/">lemire.me</a> | <a href="https://lobste.rs/s/iufma5/parsing_json_at_tens_gigabytes_per_second">discussion</a> | <a href="https://news.ycombinator.com/item?id=50055912">hacker news</a></small></p><hr/><p>Using Python 3.14's free-threaded version and the `fastsimdjson` library, it is possible to achieve JSON parsing speeds of 66 GB/s. The high throughput is enabled by the `map_many` function used with lazy views, which avoids the computational overhead of creating full Python objects for every field in a JSON object.</p><p>Benchmarks comparing `fastsimdjson` against `orjson`, `msgspec`, and the standard library show that lazy parsing scales efficiently across multiple cores. In a test using 7.6 GB of GH Archive data across 64 threads, the combination of multi-threading and lazy views significantly outperformed `msgspec` and other materialization-based parsing methods.</p><p><img src="https://lemire.me/blog/wp-content/uploads/2026/10/pyjson-one-core.webp" /></p><hr/><small>12 Oct 2026, 21:57 UTC | #24094</small>]]></content>
-  </entry>
 </feed>

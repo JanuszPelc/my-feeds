@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-17T09:44:00+00:00</updated>
+  <updated>2026-10-17T14:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>MapQuest Adds Surveillance Camera Layer to App</title>
+    <link href="https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/" rel="alternate" />
+    <id>https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/::v239</id>
+    <published>2026-10-17T14:10:00+00:00</published>
+    <updated>2026-10-17T14:10:00+00:00</updated>
+    <media:thumbnail url="https://www.engadget.com/img/gallery/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/intro-1792159874.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/">engadget.com</a> | <a href="https://bsky.app/profile/mapquest.com/post/3mxx5hbo2rc23">source</a> | <a href="https://news.ycombinator.com/item?id=50129947">hacker news</a></small></p><hr/><p>MapQuest's mobile application now includes a "Surveillance Layer" that displays the locations of known outdoor surveillance cameras and automatic license plate readers (ALPR). Users can toggle this layer to see the placement of monitoring equipment from several manufacturers, including Flock Safety, Motorola Solutions, and Axon.</p><p>This feature integrates with MapQuest's existing traffic and incident layers to provide visibility into local surveillance density. The update allows users to identify hardware from various providers, such as Genetec, Verkada, and Rekor, providing information relevant to residents and privacy advocates.</p><p><img src="https://www.engadget.com/img/gallery/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/intro-1792159874.jpg" /></p><hr/><small>17 Oct 2026, 19:01 UTC | #24607</small>]]></content>
+  </entry>
   <entry>
     <title>Rep. Ritchie Torres Proposes Legislation to Ensure Video Game Ownership</title>
     <link href="https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games" rel="alternate" />
@@ -940,22 +949,5 @@
     <published>2026-10-12T19:06:00+00:00</published>
     <updated>2026-10-12T19:06:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.bbc.com/news/articles/c620r33plgppo">bbc.com</a> | <a href="https://www.media.stellantis.com/em-en/citroen/press/citroen-2-cv-concept-time-2-meet-again">source</a> | <a href="https://news.ycombinator.com/item?id=50055220">hacker news</a></small></p><hr/><p>Citroen has unveiled an all-electric 2CV concept at the Paris Motor Show, reviving the brand's iconic name as a small, retro-styled city car. The concept is intended to serve as a design direction for the company and represents a modern reimagining of the original 1948 model.</p><p>The vehicle is expected to enter showrooms by 2028 with a target price of approximately £13,000. This launch is part of a broader strategy among European automakers to leverage brand heritage and nostalgia to differentiate themselves from increasing competition from Chinese electric vehicle manufacturers.</p><hr/><small>13 Oct 2026, 01:11 UTC | #24102</small>]]></content>
-  </entry>
-  <entry>
-    <title>WindBorne Secures Up to $49 Million U.S. Air Force Contract for Balloon Data</title>
-    <link href="https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/::v239</id>
-    <published>2026-10-12T18:53:00+00:00</published>
-    <updated>2026-10-12T18:53:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/">techcrunch.com</a></small></p><hr/><p>The U.S. military has signed a contract with WindBorne Systems worth up to $49 million to purchase atmospheric data collected by its fleet of autonomous weather balloons. The startup operates approximately 700 balloons globally, providing sensor readings that are integrated into its proprietary AI weather forecasting models. This non-competitive agreement allows the military to place on-demand orders for specific regions; $1.7 million worth of data has been requested to date.</p><p>WindBorne uses this empirical data to train deep-learning models, such as WeatherMesh 6, which aims to provide faster and more accurate forecasts than traditional physics-based simulations. As AI-driven meteorology becomes vital for government responses to extreme weather events, WindBorne’s ability to navigate unpowered balloons into specific atmospheric conditions—including the eye of a typhoon—serves as a primary driver for its continued constellation expansion.</p><hr/><small>12 Oct 2026, 22:27 UTC | #24073</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI-Driven Fraud Economy Reaches $442 Billion</title>
-    <link href="https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTYyMzUwNywiZXhwIjoxNzkyMjI4MzA3LCJhcnRpY2xlSWQiOiJUTU9QMExWVFRDWk0wMCIsImJjb25uZWN0SWQiOiI3MkRBRjZBRDQ4RTc0MTVEOTU5MTY2Njg3Njg0RDBFQSJ9.Ob3hlz27GYGXnAqfH9hBX486CogDzXBWCf5u_j-5tcI" rel="alternate" />
-    <id>https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTYyMzUwNywiZXhwIjoxNzkyMjI4MzA3LCJhcnRpY2xlSWQiOiJUTU9QMExWVFRDWk0wMCIsImJjb25uZWN0SWQiOiI3MkRBRjZBRDQ4RTc0MTVEOTU5MTY2Njg3Njg0RDBFQSJ9.Ob3hlz27GYGXnAqfH9hBX486CogDzXBWCf5u_j-5tcI::v239</id>
-    <published>2026-10-12T18:48:00+00:00</published>
-    <updated>2026-10-12T18:48:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E12AQHEanEGyQSNlA/article-cover_image-shrink_720_1280/B4EZ0ALP8SJoAI-/0/1773824448874?e=2147483647&amp;v=beta&amp;t=CSffHQVOBcHctNIo26Xukvt6Cx6nHFPS630yh4b6oN0" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTYyMzUwNywiZXhwIjoxNzkyMjI4MzA3LCJhcnRpY2xlSWQiOiJUTU9QMExWVFRDWk0wMCIsImJjb25uZWN0SWQiOiI3MkRBRjZBRDQ4RTc0MTVEOTU5MTY2Njg3Njg0RDBFQSJ9.Ob3hlz27GYGXnAqfH9hBX486CogDzXBWCf5u_j-5tcI">bloomberg.com</a></small></p><hr/><p>Global financial fraud reached an estimated $442 billion in 2025, as artificial intelligence scales a scam economy that now rivals the valuation of the global cocaine trade. The integration of AI has allowed criminals to deploy high-quality deepfakes and voice cloning to facilitate large-scale impersonation.</p><p>Organized networks, particularly those operating from fortified compounds in Asia, are increasingly adopting "fraud-as-a-service" kits to industrialize deceptive practices. These advancements make scams significantly harder to detect, allowing criminal operations to expand across multiple borders with increased efficiency.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E12AQHEanEGyQSNlA/article-cover_image-shrink_720_1280/B4EZ0ALP8SJoAI-/0/1773824448874?e=2147483647&v=beta&t=CSffHQVOBcHctNIo26Xukvt6Cx6nHFPS630yh4b6oN0" /></p><hr/><small>12 Oct 2026, 21:56 UTC | #24052</small>]]></content>
   </entry>
 </feed>
