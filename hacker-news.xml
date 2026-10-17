@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T23:48:00+00:00</updated>
+  <updated>2026-10-17T00:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>GNOME Introduces GNOME OS Preview</title>
+    <link href="https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/" rel="alternate" />
+    <id>https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/::v239</id>
+    <published>2026-10-17T00:23:00+00:00</published>
+    <updated>2026-10-17T00:23:00+00:00</updated>
+    <media:thumbnail url="https://cdn.comss.ru/img/2026-04-11/comss-gnome-os-2026-04-11_1726.jpg?class=cover" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blogs.gnome.org/adrianvovk/2026/10/16/gnome-os-preview/">blogs.gnome.org</a> | <a href="https://lobste.rs/s/xwng6u/introducing_gnome_os_preview">discussion</a> | <a href="https://news.ycombinator.com/item?id=50123056">hacker news</a></small></p><hr/><p>The GNOME Project has launched "GNOME OS Preview," a new edition of its operating system designed for early adopters and enthusiasts. Unlike the existing "Nightly" edition, which tracks the latest developmental commits for GNOME components, the Preview edition is built from the most recent stable GNOME release.</p><p>This edition acts as an intermediate step toward a future "Stable" release, which will only be announced once a long-term upgrade path is established. The Preview version does not guarantee perpetual updates and may require a full re-installation to transition to the stable version in the future.</p><p><img src="https://cdn.comss.ru/img/2026-04-11/comss-gnome-os-2026-04-11_1726.jpg?class=cover" /></p><hr/><small>17 Oct 2026, 08:06 UTC | #24572</small>]]></content>
+  </entry>
   <entry>
     <title>Codeberg to Sunset Codeberg Pages v2</title>
     <link href="https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html" rel="alternate" />
