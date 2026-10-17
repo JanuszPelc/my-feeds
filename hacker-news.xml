@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T22:01:00+00:00</updated>
+  <updated>2026-10-16T22:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>PS5LM Runs GGUF Models on Jailbroken PS5 Hardware</title>
+    <link href="https://github.com/cobanov/PS5LM" rel="alternate" />
+    <id>https://github.com/cobanov/PS5LM::v239</id>
+    <published>2026-10-16T22:13:00+00:00</published>
+    <updated>2026-10-16T22:13:00+00:00</updated>
+    <media:thumbnail url="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/06/llama-next-to-a-task-manager.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/cobanov/PS5LM">github.com</a> | <a href="https://news.ycombinator.com/item?id=50122431">hacker news</a></small></p><hr/><p>PS5LM allows jailbroken PlayStation 5 consoles to run large language models (LLMs) using the console's RDNA 2 GPU via the Vulkan backend. It loads GGUF-formatted models and serves them to devices on a local network through OpenAI and Anthropic-compatible APIs, acting as a private model server.</p><p>The software features a TV interface for streaming request history and direct interaction, alongside hardware monitoring for temperature and power. It supports decision models via integration with Ollaya and is compatible with PS5 firmware versions 7.00 through 13.60.</p><p><img src="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/06/llama-next-to-a-task-manager.jpg?q=49&fit=crop&w=825&dpr=2" /></p><hr/><small>17 Oct 2026, 05:57 UTC | #24565</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Reports High Demand for iPhone Duo as Delivery Dates Slip</title>
     <link href="https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f" rel="alternate" />
