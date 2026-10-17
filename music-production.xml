@@ -3,9 +3,17 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-17T06:17:00+00:00</updated>
+  <updated>2026-10-17T14:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Bedroom Producers Blog Launches Poll on AI in Music Software</title>
+    <link href="https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/::v239</id>
+    <published>2026-10-17T14:35:00+00:00</published>
+    <updated>2026-10-17T14:35:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/#comments">discussion</a></small></p><hr/><p>Bedroom Producers Blog has launched a poll to collect reader feedback regarding the use of artificial intelligence in music software. The survey addresses topics such as AI-assisted plugin coding, text-to-audio generation, and machine learning models used for hardware emulation.</p><p>The results will inform the publication's editorial direction and how it filters AI-related content in its news section. The editor aims to use the survey data to distinguish high-quality machine learning tools from low-quality AI-generated software.</p><hr/><small>17 Oct 2026, 19:45 UTC | #24588</small>]]></content>
+  </entry>
   <entry>
     <title>Coopiano Physically Modelled Piano Synthesizer Released</title>
     <link href="https://github.com/peterc/coopiano" rel="alternate" />
