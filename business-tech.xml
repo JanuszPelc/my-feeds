@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-16T20:25:00+00:00</updated>
+  <updated>2026-10-16T20:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Elon Musk Proposed Slowing Down Starshield in Ukraine</title>
+    <link href="https://www.telegraph.co.uk/world-news/2026/10/16/musk-approached-trump-slow-down-starlink-help-ukraine/" rel="alternate" />
+    <id>https://www.telegraph.co.uk/world-news/2026/10/16/musk-approached-trump-slow-down-starlink-help-ukraine/::v239</id>
+    <published>2026-10-16T20:28:00+00:00</published>
+    <updated>2026-10-16T20:28:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.telegraph.co.uk/world-news/2026/10/16/musk-approached-trump-slow-down-starlink-help-ukraine/">telegraph.co.uk</a> | <a href="https://news.ycombinator.com/item?id=50122371">hacker news</a></small></p><hr/><p>Elon Musk reportedly approached Donald Trump with a proposal to slow down Starshield, the military-grade satellite service used by Ukraine, leading the U.S. Department of Defense to execute connectivity restrictions. This contradicts Musk's public assertions that the Trump administration and the U.S. government were responsible for the service throttling.</p><p>The reported move comes amid concerns regarding the impact of satellite restrictions on Ukrainian drone operations and battlefield communications. Although Musk has claimed that Starshield's control rests entirely with the U.S. government, sources suggest he was the one who initiated the proposal.</p><hr/><small>17 Oct 2026, 02:16 UTC | #24532</small>]]></content>
+  </entry>
   <entry>
     <title>CoreWeave Founders Sell $3.3 Billion in Stock Since IPO</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales" rel="alternate" />

@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-16T20:26:00+00:00</updated>
+  <updated>2026-10-16T20:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Anthropic Details Code Review Workflow for AI-Generated Code</title>
+    <link href="https://claude.dev/blog/solving-code-review-at-anthropic/" rel="alternate" />
+    <id>https://claude.dev/blog/solving-code-review-at-anthropic/::v239</id>
+    <published>2026-10-16T20:29:00+00:00</published>
+    <updated>2026-10-16T20:29:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://claude.dev/blog/solving-code-review-at-anthropic/">claude.dev</a> | <a href="https://news.ycombinator.com/item?id=50122951">hacker news</a></small></p><hr/><p>Anthropic's Claude Code team utilizes a multi-layered, automated review process to manage a high volume of code written by AI agents, which currently accounts for approximately 90% of the team's codebase. The system shifts routine line-by-line review to specialized agents—covering verification, security, and bug detection—allowing human engineers to focus on high-risk architectural and strategic decisions. This workflow has reportedly resulted in a doubling of merged pull requests and a 40% reduction in reverts.</p><p>The process employs risk-based human approval tiers, where low-risk changes like documentation can bypass human review, whereas high-risk changes require multiple human sign-offs. To prevent endless iteration loops between AI authors and reviewers, the team implements convergence protocols, including round caps and diff-only re-reviews. The automated review agents are continuously refined using past production incidents as evaluation sets to improve detection and reduce noise.</p><hr/><small>17 Oct 2026, 02:19 UTC | #24559</small>]]></content>
+  </entry>
   <entry>
     <title>PostgreSQL 19 Delayed to November Following LLM-Assisted Code Reviews</title>
     <link href="https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471" rel="alternate" />
