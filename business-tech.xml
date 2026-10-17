@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-16T21:36:00+00:00</updated>
+  <updated>2026-10-16T22:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple Appoints Scott Tucker as Litigation Chief</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjE4NzkxNCwiZXhwIjoxNzkyNzkyNzE0LCJhcnRpY2xlSWQiOiJUTjBMME9SS1YyWFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.s25qdPeQ27MpicHTCh7xZAgmS8ablIgjs3ENZJ_SH_U" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjE4NzkxNCwiZXhwIjoxNzkyNzkyNzE0LCJhcnRpY2xlSWQiOiJUTjBMME9SS1YyWFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.s25qdPeQ27MpicHTCh7xZAgmS8ablIgjs3ENZJ_SH_U::v239</id>
+    <published>2026-10-16T22:11:00+00:00</published>
+    <updated>2026-10-16T22:11:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjE4NzkxNCwiZXhwIjoxNzkyNzkyNzE0LCJhcnRpY2xlSWQiOiJUTjBMME9SS1YyWFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.s25qdPeQ27MpicHTCh7xZAgmS8ablIgjs3ENZJ_SH_U">bloomberg.com</a></small></p><hr/><p>Apple has appointed Scott Tucker, a former Meta Platforms Inc. Vice President and deputy general counsel, as its new litigation chief in a newly created role. The appointment is part of a broader reorganization of the company's legal team.</p><p>The move comes as Apple manages an increasing number of lawsuits. The hire also reunites Tucker with Apple's General Counsel Jennifer Newstead, who was a colleague of his during their time at Meta.</p><hr/><small>17 Oct 2026, 05:18 UTC | #24550</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Reduces Midterm Political Spending Through Super PAC Refunds</title>
     <link href="https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html" rel="alternate" />
