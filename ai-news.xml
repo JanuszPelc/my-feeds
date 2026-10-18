@@ -368,13 +368,4 @@
     <updated>2026-10-13T23:16:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model">theinformation.com</a></small></p><hr/><p>OpenAI is currently addressing safety issues regarding looped transformer architectures while preparing its next flagship model. Microsoft documentation for the GPT-6.1 Sol model indicates the architecture uses two inference passes, confirming the use of the technique within the GPT-6 series.</p><p>The shift toward looped inference is intended to enhance complex reasoning and problem-solving capabilities. However, the non-linear nature of these architectures presents safety challenges that OpenAI must resolve before full deployment.</p><hr/><small>14 Oct 2026, 05:00 UTC | #24206</small>]]></content>
   </entry>
-  <entry>
-    <title>Cerebras CEO Predicts Rise of Personal AI Assistants in Homes</title>
-    <link href="https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/::v239</id>
-    <published>2026-10-13T23:06:00+00:00</published>
-    <updated>2026-10-13T23:06:00+00:00</updated>
-    <media:thumbnail url="https://blog.9cv9.com/wp-content/uploads/2025/12/image-157-768x512.png" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/">techcrunch.com</a></small></p><hr/><p>Cerebras Systems CEO Andrew Feldman predicts that personal AI assistants will eventually become common household appliances. He envisions a hybrid execution model where agents perform tasks both locally on-device and through the cloud, allowing them to learn user habits while maintaining security perimeters.</p><p>These future assistants are expected to have the capability to handle financial transactions, such as making purchases using a user's credit cards. Feldman cited the development of consumer AI agents like Meta's Muse and Instinct as evidence of AI's increasing integration into everyday life.</p><p><img src="https://blog.9cv9.com/wp-content/uploads/2025/12/image-157-768x512.png" /></p><hr/><small>14 Oct 2026, 04:10 UTC | #24210</small>]]></content>
-  </entry>
 </feed>
