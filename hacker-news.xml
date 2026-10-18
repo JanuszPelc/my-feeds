@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-18T16:59:00+00:00</updated>
+  <updated>2026-10-18T18:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Intel 8087 Microcode for Floating-Point Addition and Subtraction Analyzed</title>
+    <link href="https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html" rel="alternate" />
+    <id>https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html::v240</id>
+    <published>2026-10-18T18:00:00+00:00</published>
+    <updated>2026-10-18T18:00:00+00:00</updated>
+    <media:thumbnail url="https://static.righto.com/images/8087-decode/jump-rom-w700.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html">righto.com</a> | <a href="https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point">discussion</a> | <a href="https://news.ycombinator.com/item?id=50142449">hacker news</a></small></p><hr/><p>The investigation examines the microcode and circuitry of the Intel 8087 math coprocessor to explain how floating-point addition and subtraction are implemented. Key hardware components, such as the integer adder, bit shifter, and exponent converter, are identified alongside their roles in processing 80-bit values.</p><p>Through die analysis and micro-instruction tracing, the author explains the sequence of operations required for exponent alignment, significand math, and normalization. The discussion covers how the chip manages its 80-bit "temporary real" format and handles special cases such as zero and denormalized numbers.</p><p><img src="https://static.righto.com/images/8087-decode/jump-rom-w700.jpg" /></p><hr/><small>18 Oct 2026, 21:09 UTC | #24675</small>]]></content>
+  </entry>
+  <entry>
+    <title>Emacs User Automates Weekly Org-mode Clock Table Updates Using Nested Timers</title>
+    <link href="https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks" rel="alternate" />
+    <id>https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks::v240</id>
+    <published>2026-10-18T17:04:00+00:00</published>
+    <updated>2026-10-18T17:04:00+00:00</updated>
+    <media:thumbnail url="https://emacs-china.org/uploads/default/original/2X/1/118f36d3a48a94520935c4ad2c5e0434d2345f55.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks">mbork.pl</a> | <a href="https://lobste.rs/s/u8vxmz/using_timers_perform_weekly_tasks">discussion</a></small></p><hr/><p>Marcin Borkowski describes an Emacs workflow to automate weekly Org-mode clock table updates using a nested timer strategy. To avoid the system triggering updates immediately when a laptop wakes from sleep—due to sleep time being miscounted as idle time—the solution implements a three-layer timer chain involving a regular weekly timer, a scheduled timer, and an idle timer.</p><p>The implementation follows advice from Emacs developer Eli Zaretskii to ensure that user activity immediately following a system wake resets the idle clock. The article also highlights the new system-sleep package in Emacs, which allows developers to attach Elisp functions to pre-sleep and post-wake events.</p><p><img src="https://emacs-china.org/uploads/default/original/2X/1/118f36d3a48a94520935c4ad2c5e0434d2345f55.png" /></p><hr/><small>18 Oct 2026, 21:06 UTC | #24689</small>]]></content>
+  </entry>
   <entry>
     <title>ASMC Integrates Ghidra Semantics with CBMC for Assembly Model Checking</title>
     <link href="https://www.philipzucker.com/asmc_cpp/" rel="alternate" />
