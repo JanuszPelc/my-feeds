@@ -112,21 +112,4 @@
     <media:thumbnail url="https://tech4gamers.com/wp-content/uploads/2025/10/GTA-6-Devs-1024x834.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/features/2026-grand-theft-auto-6-making-of/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTk3MjA3MSwiZXhwIjoxNzkyNTc2ODcxLCJhcnRpY2xlSWQiOiJUTVc2R0tSS1YyVFYwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.0VPBZUiXLU7bQyXAwJBmCZKUF4dwDx_pGuaInaXxpqw">bloomberg.com</a></small></p><hr/><p>Analysts project Grand Theft Auto VI will sell 40 million copies and generate over $3 billion in revenue within its first four months of release. Rockstar Games' workforce has expanded to 4,711 employees to support the production of the title.</p><p>The scale of the development effort and projected financial success underscore the significant investment and resources driving the highly anticipated sequel.</p><p><img src="https://tech4gamers.com/wp-content/uploads/2025/10/GTA-6-Devs-1024x834.jpg" /></p><hr/><small>14 Oct 2026, 18:26 UTC | #24250</small>]]></content>
   </entry>
-  <entry>
-    <title>Xbox Launches Xbox Labs to Test Emerging Technologies and Tools</title>
-    <link href="https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology" rel="alternate" />
-    <id>https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology::v239</id>
-    <published>2026-10-13T20:48:00+00:00</published>
-    <updated>2026-10-13T20:48:00+00:00</updated>
-    <media:thumbnail url="https://assetsio.gnwcdn.com/XBOX-LABS.png?width=570&amp;quality=85&amp;format=jpg&amp;dpr=3&amp;auto=webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology">gamesindustry.biz</a> | <a href="https://news.xbox.com/en-us/2026/10/13/introducing-xbox-labs/">source</a> | <a href="https://news.ycombinator.com/item?id=50077583">hacker news</a></small></p><hr/><p>Xbox CEO Asha Sharma has announced the formation of Xbox Labs, an internal unit comprising engineers, scientists, and game makers tasked with rapid prototyping and testing new technologies. The group will focus on turning emerging ideas into playable products and tools, with success determined by user feedback and player engagement metrics.</p><p>The initiative formalizes ongoing research and development projects, such as browser-based game distribution via WebGPU, porting titles to Apple silicon, and expanding support for game modders. This move aligns with a broader organizational shift toward a product-focused development model under Sharma’s leadership.</p><p><img src="https://assetsio.gnwcdn.com/XBOX-LABS.png?width=570&quality=85&format=jpg&dpr=3&auto=webp" /></p><hr/><small>14 Oct 2026, 03:43 UTC | #24200</small>]]></content>
-  </entry>
-  <entry>
-    <title>Shield Battery Implements Rollback Netcode for StarCraft: Brood War</title>
-    <link href="https://www.youtube.com/watch?v=vIt9xua9bLc" rel="alternate" />
-    <id>https://www.youtube.com/watch?v=vIt9xua9bLc::v239</id>
-    <published>2026-10-13T20:42:00+00:00</published>
-    <updated>2026-10-13T20:42:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=vIt9xua9bLc">youtube.com</a> | <a href="https://lobste.rs/s/gr0ptb/we_put_fighting_game_netcode_brood_war">discussion</a></small></p><hr/><p>Shield Battery has implemented rollback netcode for StarCraft: Brood War, replacing the traditional lockstep networking model. This system allows player commands to execute on the very next frame, significantly reducing the input latency experienced during online matches.</p><p>The netcode predicts player actions and only corrects the game state when unexpected commands arrive, transforming lag spikes into minor visual "hops" rather than total freezes. Additionally, latency adjustments are applied to each player's connection individually, ensuring that a single player's poor connection does not delay the entire match.</p><hr/><small>14 Oct 2026, 01:58 UTC | #24223</small>]]></content>
-  </entry>
 </feed>
