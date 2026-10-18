@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-18T01:19:00+00:00</updated>
+  <updated>2026-10-18T01:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Turkish Authorities Detain Hex Founder Richard Heart and Seize $7.15 Million</title>
+    <link href="https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852" rel="alternate" />
+    <id>https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852::v239</id>
+    <published>2026-10-18T01:21:00+00:00</published>
+    <updated>2026-10-18T01:21:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852">theblock.co</a> | <a href="https://x.com/abakingurlek/status/2111340326115831858">source</a></small></p><hr/><p>Turkish Justice Minister Akın Gürlek confirmed the detention of Hex and PulseChain founder Richard Heart in Istanbul. Police operations at 15 addresses resulted in the seizure of $7.15 million in cash, six cold wallets, luxury jewelry, and several firearms and ammunition.</p><p>The arrest follows an Interpol Red Notice linked to allegations of a $1 billion cryptocurrency fraud in the United States and Finland. Heart's wife and three bodyguards were also detained as judicial proceedings continue.</p><hr/><small>18 Oct 2026, 03:06 UTC | #24613</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Suspends No Kings Instagram Account During Nationwide Protests</title>
     <link href="https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day" rel="alternate" />
