@@ -3,9 +3,26 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-18T03:20:00+00:00</updated>
+  <updated>2026-10-18T10:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Gallup Research Finds U.S. Migration Desire at 20-Year Low</title>
+    <link href="https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx" rel="alternate" />
+    <id>https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx::v240</id>
+    <published>2026-10-18T10:44:00+00:00</published>
+    <updated>2026-10-18T10:44:00+00:00</updated>
+    <media:thumbnail url="https://asset.gallup.com/p/POLL/60208a35-cb8a-4fad-8f8f-f938287a18bb.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx">news.gallup.com</a> | <a href="https://news.ycombinator.com/item?id=50120664">hacker news</a></small></p><hr/><p>Gallup research indicates that only 15% of adults worldwide who wish to move permanently to another country name the United States as their preferred destination, the lowest level in nearly 20 years. This shift coincides with a decade-low in global migration desire, which fell to 15% in 2025.</p><p>The decline in interest is most significant in Latin America, sub-Saharan Africa, and Southeast Asia. While the U.S. remains the top global destination, Canada follows at 9%. In the United States, interest in moving abroad is particularly high among women under the age of 45.</p><p><img src="https://asset.gallup.com/p/POLL/60208a35-cb8a-4fad-8f8f-f938287a18bb.png" /></p><hr/><small>18 Oct 2026, 17:37 UTC | #24660</small>]]></content>
+  </entry>
+  <entry>
+    <title>Derek Wessman Details Japanese Naturalization Process</title>
+    <link href="https://www.derekwessman.com/blog-1/natural" rel="alternate" />
+    <id>https://www.derekwessman.com/blog-1/natural::v240</id>
+    <published>2026-10-18T10:42:00+00:00</published>
+    <updated>2026-10-18T10:42:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.derekwessman.com/blog-1/natural">derekwessman.com</a> | <a href="https://news.ycombinator.com/item?id=50133150">hacker news</a></small></p><hr/><p>Derek Wessman recounts his long-term process of obtaining Japanese citizenship, a journey that began with an initial consultation in 2012 and ended with official approval in 2026. He describes the procedural requirements and the role of the Ministry of Justice and the Legal Affairs Bureau in managing applications.</p><p>The account emphasizes the intensive documentation needed, ranging from family and academic histories to detailed corporate financial records and tax compliance. Wessman also addresses the impact of his business's pandemic-era performance and the strict residency requirements imposed during the application period.</p><hr/><small>18 Oct 2026, 17:29 UTC | #24658</small>]]></content>
+  </entry>
   <entry>
     <title>Google Quantum AI Demonstrates Magic State Cultivation on Willow Processor</title>
     <link href="https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/" rel="alternate" />
@@ -193,13 +210,5 @@
     <updated>2026-10-13T23:14:00+00:00</updated>
     <media:thumbnail url="https://www.findarticles.com/wp-content/uploads/2026/03/prima_retinal_implant_edited_1772723163.png" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/">techcrunch.com</a></small></p><hr/><p>A clinical trial at Sydney Eye Hospital has successfully implanted the PRIMA vision-restoring chip into its first patient with Stargardt disease. The patient, who suffers from the progressive loss of central vision caused by this inherited condition, has already demonstrated the ability to identify letters and read words during initial rehabilitation sessions.</p><p>The two-millimeter implant is placed under the retina and operates in conjunction with camera-equipped glasses to serve as artificial photoreceptors. Science Corporation aims to develop next-generation versions with wider fields of view and higher visual acuity to treat a broader range of neurological and degenerative conditions.</p><p><img src="https://www.findarticles.com/wp-content/uploads/2026/03/prima_retinal_implant_edited_1772723163.png" /></p><hr/><small>14 Oct 2026, 04:27 UTC | #24213</small>]]></content>
-  </entry>
-  <entry>
-    <title>Hittite Royal Archive Unearthed in Samuha</title>
-    <link href="https://www.thehistoryblog.com/archives/77107" rel="alternate" />
-    <id>https://www.thehistoryblog.com/archives/77107::v239</id>
-    <published>2026-10-13T16:18:00+00:00</published>
-    <updated>2026-10-13T16:18:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.thehistoryblog.com/archives/77107">thehistoryblog.com</a> | <a href="https://news.ycombinator.com/item?id=50067414">hacker news</a></small></p><hr/><p>Archaeologists have uncovered a collection of cuneiform tablets in the ancient city of Samuha, located in modern-day Sivas, Turkey. These records, dating back 3,400 years to the reign of King Tudhaliya II, comprise 184 tablets and fragments in Hittite and Hurrian. The documents detail a fever epidemic that killed the king's daughter, military pleas for reinforcements, and various religious rituals.</p><p>This discovery is the most comprehensive archive of Hittite-language documents found in the 21st century. The texts offer new insights into bird divination, scribal culture, and the development of the Hittite language.</p><hr/><small>13 Oct 2026, 19:02 UTC | #24193</small>]]></content>
   </entry>
 </feed>

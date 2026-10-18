@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-18T10:36:00+00:00</updated>
+  <updated>2026-10-18T10:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Federal Budget Deficit Reaches $1.992 Trillion for Fiscal Year 2026</title>
+    <link href="https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html" rel="alternate" />
+    <id>https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html::v240</id>
+    <published>2026-10-18T10:45:00+00:00</published>
+    <updated>2026-10-18T10:45:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html">finance.yahoo.com</a> | <a href="https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/">source</a> | <a href="https://news.ycombinator.com/item?id=50131440">hacker news</a></small></p><hr/><p>The United States federal budget deficit for fiscal year 2026 totaled $1.992 trillion, according to the Treasury Department's Monthly Statement. This figure represents approximately 6% of the nation's gross domestic product (GDP) and marks a 12% increase from the $1.775 trillion deficit recorded in 2025. Total government spending for the year reached $7.396 trillion against $5.403 trillion in total revenues.</p><p>The deficit follows the gross national debt surpassing $40 trillion. Annual interest costs on the debt have reached $1.1 trillion, or 3.4% of GDP, making interest payments a larger budget item than Medicare or the defense budget. While the Trump administration has characterized the deficit as a temporary fluctuation, the Committee for a Responsible Budget warns that annual deficits could reach $3.1 trillion by 2036 if current fiscal trajectories continue.</p><hr/><small>18 Oct 2026, 17:42 UTC | #24661</small>]]></content>
+  </entry>
   <entry>
     <title>Lobste.rs User Criticizes Misuse of 'Vibecoding' Tag</title>
     <link href="https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from" rel="alternate" />
@@ -934,56 +942,5 @@
     <published>2026-10-13T18:40:00+00:00</published>
     <updated>2026-10-13T18:40:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/qualcomm-says-jury-found-arm-breached-license-agreement-2026-10-13/">reuters.com</a> | <a href="https://www.qualcomm.com/news/releases/2026/10/qualcomm-statement-on-trial-verdict-win">source</a> | <a href="https://news.ycombinator.com/item?id=50077246">hacker news</a></small></p><hr/><p>A Delaware jury found that Arm Holdings breached its architectural license agreement with Qualcomm and intentionally acted to disrupt Qualcomm's business. The verdict awarded Qualcomm $2 in nominal damages.</p><p>This ruling follows a series of legal disputes between the semiconductor companies concerning licensing terms and market competition. Qualcomm characterized the outcome as a victory that exposes Arm's intent to harm Qualcomm and its broader ecosystem.</p><hr/><small>14 Oct 2026, 01:13 UTC | #24190</small>]]></content>
-  </entry>
-  <entry>
-    <title>Scuba Launches Context Engine for Teams and AI Agents</title>
-    <link href="https://www.upstartsmedia.com/p/exclusive-slack-alums-launch-scuba" rel="alternate" />
-    <id>https://www.upstartsmedia.com/p/exclusive-slack-alums-launch-scuba::v239</id>
-    <published>2026-10-13T17:03:00+00:00</published>
-    <updated>2026-10-13T17:03:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.upstartsmedia.com/p/exclusive-slack-alums-launch-scuba">upstartsmedia.com</a></small></p><hr/><p>Scuba, a startup founded by former Slack leaders Noah Desai Weiss and Dolapo Falola, has launched a "context engine" designed to provide shared memory for human teams and AI agents. The platform enables users to capture web content, such as articles and videos, into searchable "Collections" that are accessible via AI tools like Claude or ChatGPT through Model Context Protocol (MCP) connectors.</p><p>The company has raised $34 million in funding from investors including Accel and IVP, with participation from prominent figures like Patrick Collison and Reid Hoffman. Scuba aims to bridge the information gap in AI-enabled workflows by centralizing the collective knowledge and "taste" necessary for AI agents to align with a company's specific operating procedures and strategic goals.</p><hr/><small>13 Oct 2026, 22:23 UTC | #24167</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sarfraz Maredia to Depart Uber as Head of Autonomous Mobility</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-13/uber-executive-overseeing-robotaxi-expansion-efforts-to-depart" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-13/uber-executive-overseeing-robotaxi-expansion-efforts-to-depart::v239</id>
-    <published>2026-10-13T16:29:00+00:00</published>
-    <updated>2026-10-13T16:29:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E22AQE5Q3A3NphdDA/feedshare-shrink_800/B4EZnzn3wUHMAk-/0/1760728978654?e=2147483647&amp;v=beta&amp;t=OlhVRhZ7I8fijTq-ay8Khay-dw9vAtlg4PIhowGYERY" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-13/uber-executive-overseeing-robotaxi-expansion-efforts-to-depart">bloomberg.com</a></small></p><hr/><p>Sarfraz Maredia, Uber's head of autonomous mobility and delivery, will depart the company on November 16 after more than 12 years. He currently oversees Uber's global autonomous strategy across its ride-hailing and delivery platforms.</p><p>His exit is part of a series of leadership departures from Uber's self-driving division this year. Maredia is expected to transition to an executive role at an undisclosed company outside the transportation industry.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E22AQE5Q3A3NphdDA/feedshare-shrink_800/B4EZnzn3wUHMAk-/0/1760728978654?e=2147483647&v=beta&t=OlhVRhZ7I8fijTq-ay8Khay-dw9vAtlg4PIhowGYERY" /></p><hr/><small>13 Oct 2026, 20:47 UTC | #24157</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic and OpenAI Seek Control Over AI Evaluator Publication Rights</title>
-    <link href="https://www.reuters.com/world/behind-ai-industrys-call-independent-reviews-fight-over-what-gets-made-public-2026-10-13/" rel="alternate" />
-    <id>https://www.reuters.com/world/behind-ai-industrys-call-independent-reviews-fight-over-what-gets-made-public-2026-10-13/::v239</id>
-    <published>2026-10-13T16:16:00+00:00</published>
-    <updated>2026-10-13T16:16:00+00:00</updated>
-    <media:thumbnail url="https://www.patentnext.com/wp-content/uploads/sites/990/2024/11/PatentNext-Post-11-27-2024-1.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/behind-ai-industrys-call-independent-reviews-fight-over-what-gets-made-public-2026-10-13/">reuters.com</a></small></p><hr/><p>Anthropic and OpenAI are seeking significant control over what external AI safety evaluators are permitted to publish. The companies cite the potential leakage of proprietary trade secrets as the primary reason for restricting publication rights.</p><p>This effort occurs as the AI industry negotiates the scope of independent oversight for frontier models. While safety researchers demand transparent and unmediated reporting, the protection of intellectual property creates a tension between corporate interests and the requirements of independent safety auditing.</p><p><img src="https://www.patentnext.com/wp-content/uploads/sites/990/2024/11/PatentNext-Post-11-27-2024-1.png" /></p><hr/><small>13 Oct 2026, 18:55 UTC | #24145</small>]]></content>
-  </entry>
-  <entry>
-    <title>US Banking Regulators Scrutinize Agentic AI and Foreign Models</title>
-    <link href="https://www.reuters.com/legal/litigation/banking-watchdogs-ramp-up-ai-scrutiny-stability-fears-mount-sources-say-2026-10-13/" rel="alternate" />
-    <id>https://www.reuters.com/legal/litigation/banking-watchdogs-ramp-up-ai-scrutiny-stability-fears-mount-sources-say-2026-10-13/::v239</id>
-    <published>2026-10-13T16:12:00+00:00</published>
-    <updated>2026-10-13T16:12:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/banking-watchdogs-ramp-up-ai-scrutiny-stability-fears-mount-sources-say-2026-10-13/">reuters.com</a></small></p><hr/><p>Financial institutions are being questioned regarding their deployment of agentic AI, the use of Chinese-developed models, and the implementation of safeguards for autonomous systems. This inquiry aims to mitigate potential risks to financial stability as banks integrate increasingly complex and independent AI technologies.</p><p>Current US model risk guidance lacks binding regulations specifically for generative and agentic AI. Regulatory focus includes the ability of banks to maintain control over autonomous agents and the cybersecurity implications of utilizing foreign-developed technology.</p><hr/><small>13 Oct 2026, 18:37 UTC | #24143</small>]]></content>
-  </entry>
-  <entry>
-    <title>IMF Raises 2026 Global Growth Forecast as AI Investment Offsets Energy Shocks</title>
-    <link href="https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html" rel="alternate" />
-    <id>https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html::v239</id>
-    <published>2026-10-13T16:10:00+00:00</published>
-    <updated>2026-10-13T16:10:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html">cnbc.com</a> | <a href="https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026">source</a></small></p><hr/><p>The International Monetary Fund (IMF) has raised its 2026 global growth forecast to 3.1%, as an artificial intelligence investment boom helps offset economic pressures from rising energy costs and geopolitical conflicts. The agency warned that economic resilience is reaching its limits, citing diminishing oil reserves and narrowing fiscal space for governments.</p><p>Growth is becoming increasingly uneven, with semiconductor-driven economies such as Taiwan and South Korea projected to lead, while energy importers face higher costs and weaker real incomes. Furthermore, a failure for AI to deliver projected productivity gains could trigger a 20% fall in U.S. equities and significantly reduce global growth by 2028.</p><hr/><small>13 Oct 2026, 18:14 UTC | #24138</small>]]></content>
-  </entry>
-  <entry>
-    <title>Christopher Harborne and Ben Delo Donate $100M to Reform UK</title>
-    <link href="https://www.nytimes.com/2026/10/13/business/nigel-farage-crypto-uk-politics.html?unlocked_article_code=1.IVE.pjd7.0lbWYqB5aeip&amp;smid=nytcore-ios-share" rel="alternate" />
-    <id>https://www.nytimes.com/2026/10/13/business/nigel-farage-crypto-uk-politics.html?unlocked_article_code=1.IVE.pjd7.0lbWYqB5aeip&amp;smid=nytcore-ios-share::v239</id>
-    <published>2026-10-13T16:07:00+00:00</published>
-    <updated>2026-10-13T16:07:00+00:00</updated>
-    <media:thumbnail url="https://www.globalbankingandfinance.com/i/cloud-e7802e5f-b1c8-44ac-81dd-4bda9b17842a/width=1200,quality=72,format=auto,fit=cover/" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/13/business/nigel-farage-crypto-uk-politics.html?unlocked_article_code=1.IVE.pjd7.0lbWYqB5aeip&smid=nytcore-ios-share">nytimes.com</a></small></p><hr/><p>Crypto billionaires Christopher Harborne and Ben Delo have contributed approximately $100 million to Nigel Farage's Reform UK party, marking the largest political donation in United Kingdom history. Harborne holds roughly 12% of the cryptocurrency firm Tether.</p><p>This influx of capital provides Reform UK with significant financial resources for its political operations. The contribution highlights the growing influence of the cryptocurrency sector and its stakeholders within the United Kingdom's political landscape.</p><p><img src="https://www.globalbankingandfinance.com/i/cloud-e7802e5f-b1c8-44ac-81dd-4bda9b17842a/width=1200,quality=72,format=auto,fit=cover/" /></p><hr/><small>13 Oct 2026, 17:55 UTC | #24128</small>]]></content>
   </entry>
 </feed>

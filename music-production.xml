@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-18T09:09:00+00:00</updated>
+  <updated>2026-10-18T12:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>EvoGrain Uses L-Systems and Granular Synthesis for Algorithmic Sound Design</title>
+    <link href="https://nathanho.me/posts/evograin/" rel="alternate" />
+    <id>https://nathanho.me/posts/evograin/::v240</id>
+    <published>2026-10-18T12:07:00+00:00</published>
+    <updated>2026-10-18T12:07:00+00:00</updated>
+    <media:thumbnail url="https://nathanho.me/posts/evograin/examples/grain_set_0006/plot.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nathanho.me/posts/evograin/">nathanho.me</a> | <a href="https://lobste.rs/s/kiq0si/algorithmic_sound_design_with_l_systems">discussion</a></small></p><hr/><p>EvoGrain is a rule-based system that generates audio using Lindenmayer systems (L-systems) and granular synthesis. The system utilizes an L-system to create command sequences for a "turtle" interpreter, which produces sets of grains defined by parameters such as pitch, duration, and amplitude. These grain sets are then synthesized into audio buffers ranging from a few seconds to 30 seconds in length.</p><p>Designed to produce raw material for sampling rather than complete musical compositions, EvoGrain employs an evolutionary optimization process to select the most musically interesting results. The architecture features a custom granular synthesis engine with phase modulation capabilities and a feedback delay network (FDN) reverb, using statistical analysis to guide the selection of optimal L-system rules.</p><p><img src="https://nathanho.me/posts/evograin/examples/grain_set_0006/plot.png" /></p><hr/><small>18 Oct 2026, 17:49 UTC | #24663</small>]]></content>
+  </entry>
   <entry>
     <title>Tokyo Dawn Labs Adds Native Linux Support to TDR Nova</title>
     <link href="https://bedroomproducersblog.com/2026/10/18/tdr-nova-linux/" rel="alternate" />
@@ -464,41 +473,5 @@
     <updated>2026-10-13T20:41:00+00:00</updated>
     <media:thumbnail url="https://joeheyming.github.io/play/strings/strings-preview.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://guitoro.com/">guitoro.com</a> | <a href="https://news.ycombinator.com/item?id=50077020">hacker news</a></small></p><hr/><p>Guitoro is a browser-based virtual guitar platform that provides acoustic, classic, electric, and bass instrument simulations using recordings of real instruments. Users can play via computer keyboard, mouse, or touchscreen. The tool includes a library of 51 songs with playback speeds adjustable as low as 20% of the original tempo.</p><p>The application serves as both a standalone instrument and a practice aid for physical guitarists, featuring visual aids for chord fingerings and strumming patterns. It also includes a backing band for accompaniment, recording capabilities, and an integrated online tuner.</p><p><img src="https://joeheyming.github.io/play/strings/strings-preview.png" /></p><hr/><small>14 Oct 2026, 01:55 UTC | #24222</small>]]></content>
-  </entry>
-  <entry>
-    <title>Universal Audio Releases Native UAD Empirical Labs FATSO Tape Simulator</title>
-    <link href="https://www.kvraudio.com/news/universal-audio-releases-uad-empirical-labs-fatso-tape-simulator---native-versions-for-macos-and-windows-69083?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69083" rel="alternate" />
-    <id>https://www.kvraudio.com/news/universal-audio-releases-uad-empirical-labs-fatso-tape-simulator---native-versions-for-macos-and-windows-69083?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69083::v239</id>
-    <published>2026-10-13T17:54:00+00:00</published>
-    <updated>2026-10-13T17:54:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/0zw4aawg.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/universal-audio-releases-uad-empirical-labs-fatso-tape-simulator---native-versions-for-macos-and-windows-69083?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69083">kvraudio.com</a> | <a href="https://www.uaudio.com/blogs/press/now-native-ua-releases-empirical-labs-fatso-tape-simulator-plug-ins">source</a></small></p><hr/><p>Universal Audio has launched native macOS and Windows versions of the UAD Empirical Labs FATSO Tape Simulator. Developed alongside Empirical Labs founder Dave Derr, the FATSO Jr and FATSO Sr plugins emulate the saturation and compression characteristics of the original analog hardware.</p><p>The FATSO Sr iteration offers additional controls such as sidechain filtering and variable transformer saturation. The software is available for $79 through December 31, 2026, and is also included in the UAD Spark Studio subscription.</p><p><img src="https://static.kvraudio.com/i/b/0zw4aawg.jpg" /></p><hr/><small>13 Oct 2026, 22:56 UTC | #24189</small>]]></content>
-  </entry>
-  <entry>
-    <title>IK Multimedia Releases Sinphonica Maestosa Strings Library</title>
-    <link href="https://www.kvraudio.com/news/ik-multimedia-releases-sinphonica-maestosa-strings---60-piece-orchestral-string-library-69064?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69064" rel="alternate" />
-    <id>https://www.kvraudio.com/news/ik-multimedia-releases-sinphonica-maestosa-strings---60-piece-orchestral-string-library-69064?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69064::v239</id>
-    <published>2026-10-13T17:21:00+00:00</published>
-    <updated>2026-10-13T17:21:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/sinphonica_01_play_main_violins_1_perf_legato_hero_9cd74cd9-aebf-42e6-.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/ik-multimedia-releases-sinphonica-maestosa-strings---60-piece-orchestral-string-library-69064?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69064">kvraudio.com</a> | <a href="https://www.ikmultimedia.com/sinphonica">source</a></small></p><hr/><p>IK Multimedia has released Sinphonica Maestosa Strings, a virtual instrument featuring a 60-piece Italian symphonic string orchestra. Recorded at Officine Meccaniche Studios in Milan, the library is the first release in the company's Sinphonica family of orchestral instruments.</p><p>The collection offers more than 40 articulations, five legato styles, and eight microphone perspectives. It features Articulation Morphing for transitions between playing techniques and PALCO Virtual Stage Positioning for customizable orchestral seating.</p><p><img src="https://static.kvraudio.com/i/b/sinphonica_01_play_main_violins_1_perf_legato_hero_9cd74cd9-aebf-42e6-.jpg" /></p><hr/><small>13 Oct 2026, 22:31 UTC | #24182</small>]]></content>
-  </entry>
-  <entry>
-    <title>Lewitt LW6 Wireless Studio Headphones Review</title>
-    <link href="https://musictech.com/reviews/studio-recording-gear/lewitt-lw6-wireless-studio-headphones-review/" rel="alternate" />
-    <id>https://musictech.com/reviews/studio-recording-gear/lewitt-lw6-wireless-studio-headphones-review/::v239</id>
-    <published>2026-10-13T16:33:00+00:00</published>
-    <updated>2026-10-13T16:33:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Lewitt-LW6-hero-credit-press@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/reviews/studio-recording-gear/lewitt-lw6-wireless-studio-headphones-review/">musictech.com</a></small></p><hr/><p>Lewitt's LW6 wireless headphones are designed for professional audio production tasks such as mixing, mastering, and monitoring. The system utilizes proprietary RealSound technology to deliver uncompressed PCM audio with latency reported at under six milliseconds.</p><p>The kit includes a USB-C powered transmitter that accepts digital or analog inputs and features Bluetooth 5.3 for casual playback. A companion app provides access to a five-band parametric EQ and a "Virtual Studio" mode that uses digital signal processing to simulate a multi-speaker environment.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Lewitt-LW6-hero-credit-press@2000x1500.jpg" /></p><hr/><small>13 Oct 2026, 21:15 UTC | #24174</small>]]></content>
-  </entry>
-  <entry>
-    <title>Dead Signal Audio Releases Nu Series Free Plugins</title>
-    <link href="https://www.kvraudio.com/news/dead-signal-audio-releases-the-nu-series---four-free-plugins-au-and-vst3-69080?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69080" rel="alternate" />
-    <id>https://www.kvraudio.com/news/dead-signal-audio-releases-the-nu-series---four-free-plugins-au-and-vst3-69080?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69080::v239</id>
-    <published>2026-10-13T16:27:00+00:00</published>
-    <updated>2026-10-13T16:27:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/nusat-kvr.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dead-signal-audio-releases-the-nu-series---four-free-plugins-au-and-vst3-69080?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69080">kvraudio.com</a> | <a href="https://deadsignalaudio.com/nu/">source</a></small></p><hr/><p>Dead Signal Audio has released the Nu Series, a collection of four free audio plugins designed for mixing heavy guitar, bass, and drums. The suite includes NuSat, a saturator and clipper; NuEQ, an 8-band dynamic EQ; NuComp, a compressor; and NuGate, a noise gate.</p><p>The plugins are available for macOS (AU and VST3) and Windows (VST3). These tools are specifically engineered to address the needs of high-gain music production and aggressive mixing styles.</p><p><img src="https://static.kvraudio.com/i/b/nusat-kvr.jpg" /></p><hr/><small>13 Oct 2026, 20:31 UTC | #24177</small>]]></content>
   </entry>
 </feed>

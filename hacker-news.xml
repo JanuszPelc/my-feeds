@@ -3,9 +3,35 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-18T03:26:00+00:00</updated>
+  <updated>2026-10-18T12:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>How Address Resolution Protocol (ARP) Works on Local Networks</title>
+    <link href="https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/" rel="alternate" />
+    <id>https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/::v240</id>
+    <published>2026-10-18T12:49:00+00:00</published>
+    <updated>2026-10-18T12:49:00+00:00</updated>
+    <media:thumbnail url="https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/Screenshot_20261017_203056.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/">benjcal.space</a> | <a href="https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself">discussion</a></small></p><hr/><p>Address Resolution Protocol (ARP) facilitates local network communication by mapping IP addresses to MAC addresses. This mapping allows network switches to route data frames to the correct physical devices based on their hardware addresses rather than their logical IP addresses.</p><p>The article details the broadcast process used to resolve these addresses and demonstrates the concept using tools such as arp-scan and Wireshark. It also touches on security and stability concerns, including the risks of ARP spoofing and the occurrence of broadcast storms.</p><p><img src="https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/Screenshot_20261017_203056.png" /></p><hr/><small>18 Oct 2026, 17:50 UTC | #24654</small>]]></content>
+  </entry>
+  <entry>
+    <title>Unit Testing Challenges for ActivityPub Implementations</title>
+    <link href="https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/" rel="alternate" />
+    <id>https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/::v240</id>
+    <published>2026-10-18T10:46:00+00:00</published>
+    <updated>2026-10-18T10:46:00+00:00</updated>
+    <media:thumbnail url="https://www.stevebate.net/wp-content/uploads/2023/07/activitypub-testsuite.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/">shkspr.mobi</a> | <a href="https://lobste.rs/s/gwuebx/some_quick_thoughts_on_unit_testing">discussion</a></small></p><hr/><p>Developing the NLnet-funded ActivityBot has revealed several technical hurdles in unit testing ActivityPub protocols. These include validating usernames with internationalized domains, managing fragmented message specifications, handling complex HTTP signature verification, and simulating external server communication.</p><p>To assist the developer community, Terence Eden has released his test suites and a collection of pre-recorded messages and signatures on GitLab. These resources are intended to help ensure protocol compliance and interoperability for federated social media projects.</p><p><img src="https://www.stevebate.net/wp-content/uploads/2023/07/activitypub-testsuite.png" /></p><hr/><small>18 Oct 2026, 17:46 UTC | #24665</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sphinx Releases Git Hook for AI-Assisted Development</title>
+    <link href="https://sphinx-six-theta.vercel.app/" rel="alternate" />
+    <id>https://sphinx-six-theta.vercel.app/::v240</id>
+    <published>2026-10-18T10:43:00+00:00</published>
+    <updated>2026-10-18T10:43:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://sphinx-six-theta.vercel.app/">sphinx-six-theta.vercel.app</a> | <a href="https://github.com/parthh01/sphinx">source</a> | <a href="https://news.ycombinator.com/item?id=50137950">hacker news</a></small></p><hr/><p>Sphinx is an open-source Git hook designed to ensure developers understand the code produced by AI agents before it is pushed to protected branches. When a push is initiated, the tool intercepts the process and presents a scenario-based question derived from the code diff, requiring a correct response to proceed.</p><p>The tool integrates with various AI coding environments, such as Cursor, Claude Code, and Codex, using OpenAI-compatible endpoints. It is designed to run with minimal token usage and maintains security by not accessing sensitive environment files or API keys during the verification process.</p><hr/><small>18 Oct 2026, 17:33 UTC | #24659</small>]]></content>
+  </entry>
   <entry>
     <title>C++26 Introduces New `&lt;debugging&gt;` Standard Library Header</title>
     <link href="https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging" rel="alternate" />
@@ -899,83 +925,5 @@
     <updated>2026-10-13T18:36:00+00:00</updated>
     <media:thumbnail url="https://www.heise.de/imgs/18/5/0/8/5/8/0/8/TeamPCP-GitHub-breach-claims-d620c2ac4e7c2374.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/">securityweek.com</a></small></p><hr/><p>Meta is notifying roughly 1,500 individuals, mostly US-based employees, that their personal information was compromised after hackers gained access to company GitHub repositories via stolen credentials. The intrusion involved the theft of proprietary software code and a small amount of personal data that had been improperly stored in the repositories in violation of company policy.</p><p>While 99% of the stolen information consisted of software code, Meta noted that the remaining 1% of personal data included much of which was synthetic or anonymized test data. In response, the company has rotated compromised secrets and is adding proactive scanning controls to prevent accidental data uploads, while providing credit and dark web monitoring to impacted users.</p><p><img src="https://www.heise.de/imgs/18/5/0/8/5/8/0/8/TeamPCP-GitHub-breach-claims-d620c2ac4e7c2374.jpg" /></p><hr/><small>14 Oct 2026, 00:19 UTC | #24183</small>]]></content>
-  </entry>
-  <entry>
-    <title>Researchers Demonstrate Ability to Hide Arbitrary AI Capabilities via Encrypted Backdoors</title>
-    <link href="https://arxiv.org/abs/2610.13928" rel="alternate" />
-    <id>https://arxiv.org/abs/2610.13928::v239</id>
-    <published>2026-10-13T17:58:00+00:00</published>
-    <updated>2026-10-13T17:58:00+00:00</updated>
-    <media:thumbnail url="https://pub.mdpi-res.com/electronics/electronics-15-00937/article_deploy/html/images/electronics-15-00937-g002.png?1772025059" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arxiv.org/abs/2610.13928">arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=50065692">hacker news</a></small></p><hr/><p>Researchers have developed a method to embed encrypted neural networks within host model weights, creating backdoor attacks that are provably difficult to detect or elicit. These "digital lockers" remain inactive until a specific secret trigger is received, and they are designed to be resistant to audit methods—including fine-tuning, weight noising, and gradient-based trigger searches—even when an auditor has full access to the model's weights.</p><p>The study, presented at NeurIPS 2026, utilized a chemical reaction prediction task as a proxy for CBRN-related capabilities to evaluate the effectiveness of these hidden circuits. The findings suggest that current capability-based safety audits, which rely on the assumption that hidden behaviors can be elicited, may be insufficient to detect sophisticated, cryptographically-secured malicious functionalities.</p><p><img src="https://pub.mdpi-res.com/electronics/electronics-15-00937/article_deploy/html/images/electronics-15-00937-g002.png?1772025059" /></p><hr/><small>13 Oct 2026, 23:12 UTC | #24209</small>]]></content>
-  </entry>
-  <entry>
-    <title>Thunderbird Developing Native iOS Email App</title>
-    <link href="https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/" rel="alternate" />
-    <id>https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/::v239</id>
-    <published>2026-10-13T17:04:00+00:00</published>
-    <updated>2026-10-13T17:04:00+00:00</updated>
-    <media:thumbnail url="https://blog.thunderbird.net/files/2026/10/Hassel-free-setup-scaled.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/">blog.thunderbird.net</a> | <a href="https://news.ycombinator.com/item?id=50072913">hacker news</a></small></p><hr/><p>Thunderbird is developing a native iOS email application built from the ground up to provide a seamless, unified experience across desktop, Android, and iPhone devices. The project focuses on establishing a robust foundation through clean architecture rather than porting existing codebases.</p><p>Current development focuses on core functionality, including battery-efficient background synchronization and a modern, clutter-free message editor. The team plans to release a version for community testing in the coming months and has implemented an experimental feature flag system to facilitate community contributions.</p><p><img src="https://blog.thunderbird.net/files/2026/10/Hassel-free-setup-scaled.jpg" /></p><hr/><small>13 Oct 2026, 22:27 UTC | #24207</small>]]></content>
-  </entry>
-  <entry>
-    <title>Firefox Setting Improves Resumability for Large Downloads</title>
-    <link href="https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html" rel="alternate" />
-    <id>https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html::v239</id>
-    <published>2026-10-13T16:34:00+00:00</published>
-    <updated>2026-10-13T16:34:00+00:00</updated>
-    <media:thumbnail url="https://1.bp.blogspot.com/-0p-WKhTAGw0/X4A2ytZtLPI/AAAAAAAAAbU/zSbjM8bN8XEXjoOJQ8zyDLmL3cUn2zmFQCLcBGAsYHQ/s640/Firefox-network-pipelining.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html">lunarwatcher.codeberg.page</a> | <a href="https://news.ycombinator.com/item?id=50061791">hacker news</a></small></p><hr/><p>Adjusting the `network.http.response.timeout` setting in Firefox's `about:config` can improve the stability and resumability of large file downloads. Setting the value to `0` or a significantly larger number helps prevent the browser from timing out, provided the server supports resumable transfers.</p><p>Since Firefox 28, the default timeout is 300 seconds. This configuration may interfere with the browser's ability to use existing `.part` files for resumption when a connection is interrupted, as exceeding the timeout can disrupt the browser's internal retry mechanisms.</p><p><img src="https://1.bp.blogspot.com/-0p-WKhTAGw0/X4A2ytZtLPI/AAAAAAAAAbU/zSbjM8bN8XEXjoOJQ8zyDLmL3cUn2zmFQCLcBGAsYHQ/s640/Firefox-network-pipelining.jpg" /></p><hr/><small>13 Oct 2026, 21:18 UTC | #24202</small>]]></content>
-  </entry>
-  <entry>
-    <title>Creusot 0.14.0 Adds Partial Order Support and rust-analyzer Integration</title>
-    <link href="https://devlog.creusot.rs/v0-14-0/" rel="alternate" />
-    <id>https://devlog.creusot.rs/v0-14-0/::v239</id>
-    <published>2026-10-13T16:31:00+00:00</published>
-    <updated>2026-10-13T16:31:00+00:00</updated>
-    <media:thumbnail url="https://devlog.creusot.rs/creusot-go-to-definition.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://devlog.creusot.rs/v0-14-0/">devlog.creusot.rs</a> | <a href="https://lobste.rs/s/6tbd2o/creusot_0_14_0_release_contracts_for_rust">discussion</a></small></p><hr/><p>Creusot, a formal verification tool for Rust, has released version 0.14.0. This update introduces support for partial orders in its logic system, expanding upon the previous requirement for total orders. The tool also now generates verification conditions for `snapshot!` macros, which enables the use of logic functions as lemma functions to help identify specification errors.</p><p>Developer workflow is improved through rust-analyzer integration, which now supports "Go-to-definition" functionality within Pearlite specifications. This was made possible by refining the source spans of tokens produced by macros, allowing the IDE to correctly resolve identifiers during navigation.</p><p><img src="https://devlog.creusot.rs/creusot-go-to-definition.png" /></p><hr/><small>13 Oct 2026, 20:54 UTC | #24198</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple HomeView Unavailable in the European Union</title>
-    <link href="https://www.macrumors.com/2026/10/13/apple-homeview-wont-be-available-in-eu/" rel="alternate" />
-    <id>https://www.macrumors.com/2026/10/13/apple-homeview-wont-be-available-in-eu/::v239</id>
-    <published>2026-10-13T16:30:00+00:00</published>
-    <updated>2026-10-13T16:30:00+00:00</updated>
-    <media:thumbnail url="https://data.ibtimes.sg/en/full/92713/apple-siri-ai.jpg?w=736" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.macrumors.com/2026/10/13/apple-homeview-wont-be-available-in-eu/">macrumors.com</a> | <a href="https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/">source</a> | <a href="https://news.ycombinator.com/item?id=50071085">hacker news</a></small></p><hr/><p>Apple's HomeView smart home hub will not launch in the European Union because Siri AI is currently unavailable on iOS in the region. While Apple is working with EU regulators to find a resolution, the company has not provided a timeline for the product's availability in the EU.</p><p>The $299 device is scheduled to launch on November 13 in eight other countries. Its regional unavailability is tied to the current absence of Apple Intelligence and Siri AI features in the European market.</p><p><img src="https://data.ibtimes.sg/en/full/92713/apple-siri-ai.jpg?w=736" /></p><hr/><small>13 Oct 2026, 20:50 UTC | #24162</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Announces Fourth-Gen Apple TV 4K with Siri AI and Find My Support</title>
-    <link href="https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced" rel="alternate" />
-    <id>https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced::v239</id>
-    <published>2026-10-13T16:24:00+00:00</published>
-    <updated>2026-10-13T16:24:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced">theverge.com</a> | <a href="https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/">source</a> | <a href="https://news.ycombinator.com/item?id=50071310">hacker news</a></small></p><hr/><p>Apple has unveiled the fourth-generation Apple TV 4K, which introduces far-field microphones for hands-free Siri AI interaction and "Find My" support for the Siri Remote. The device is powered by the A19 chip and supports an expanded surround sound setup using up to four compatible HomePod speakers.</p><p>The hardware features Wi-Fi 7 and Bluetooth 6, and it utilizes Apple Intelligence to allow for natural language queries with personal context. It is priced at $299 and will be available for purchase starting November 13, 2026.</p><hr/><small>13 Oct 2026, 20:15 UTC | #24153</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Announces HomePod mini 2</title>
-    <link href="https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/" rel="alternate" />
-    <id>https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/::v239</id>
-    <published>2026-10-13T16:23:00+00:00</published>
-    <updated>2026-10-13T16:23:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/">apple.com</a></small></p><hr/><p>Apple has announced the HomePod mini 2, which will include support for Siri AI through a future software update. The speaker features enhanced audio capabilities, new color options, and the ability to function as part of an immersive home theater setup when paired with an Apple TV 4K.</p><p>The device is priced at $149 in the U.S., with pre-orders starting immediately and in-store availability beginning October 30. Siri AI's conversational and music discovery features will be released in English for several regions, including the U.S., UK, and Canada, via upcoming software updates.</p><hr/><small>13 Oct 2026, 20:14 UTC | #24154</small>]]></content>
-  </entry>
-  <entry>
-    <title>Lotus Improv on NeXT Hardware</title>
-    <link href="https://stonetools.ghost.io/lotusimprov-next/" rel="alternate" />
-    <id>https://stonetools.ghost.io/lotusimprov-next/::v239</id>
-    <published>2026-10-13T16:20:00+00:00</published>
-    <updated>2026-10-13T16:20:00+00:00</updated>
-    <media:thumbnail url="https://storage.ghost.io/c/19/0d/190dff69-8936-47d7-8b0c-f48a6a36ddb4/content/images/size/w1200/2026/08/lotus_title_card.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://stonetools.ghost.io/lotusimprov-next/">stonetools.ghost.io</a> | <a href="https://lobste.rs/s/zmuawx/lotus_improv_on_next">discussion</a> | <a href="https://news.ycombinator.com/item?id=50050565">hacker news</a></small></p><hr/><p>Lotus Improv was a multi-dimensional spreadsheet software originally developed for the NeXT computer platform. Unlike traditional spreadsheets that rely on fixed alphanumeric cell coordinates, Improv utilized a semantic model where data was organized by categories and items, allowing for fluid data manipulation and the use of English-like formulas.</p><p>This analysis examines the software's interface on NeXTSTEP 3.3 and its departure from standard grid-based calculations. The article highlights how Improv's innovative approach to data views anticipated modern features like pivot tables, despite the software's discontinuation in the mid-1990s.</p><p><img src="https://storage.ghost.io/c/19/0d/190dff69-8936-47d7-8b0c-f48a6a36ddb4/content/images/size/w1200/2026/08/lotus_title_card.png" /></p><hr/><small>13 Oct 2026, 19:15 UTC | #24187</small>]]></content>
-  </entry>
-  <entry>
-    <title>Michał Górny Urges Avoidance of uv-build as a Python Build Backend</title>
-    <link href="https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/" rel="alternate" />
-    <id>https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/::v239</id>
-    <published>2026-10-13T16:08:00+00:00</published>
-    <updated>2026-10-13T16:08:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/">blogs.gentoo.org</a> | <a href="https://lobste.rs/s/73ssw1/plea_not_use_uv_build">discussion</a></small></p><hr/><p>The Rust-based uv-build backend is increasing build overhead and maintenance for Gentoo users. Its large binary size—between 1.2 MiB and 1.5 MiB—combined with frequent updates, requires users of source distributions to rebuild the tool repeatedly, which has caused some packages to lose architectural keyword support.</p><p>Estimated performance gains of approximately 100ms are outweighed by the time required to fetch and build the large wheels. Additionally, the tool's reliance on Rust presents portability challenges for certain architectures and 32-bit systems. Because PEP 517 allows for various backends, lightweight alternatives like flit-core remain compatible with standard frontends while avoiding these overheads.</p><hr/><small>13 Oct 2026, 17:56 UTC | #24171</small>]]></content>
   </entry>
 </feed>
