@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-18T03:16:00+00:00</updated>
+  <updated>2026-10-18T03:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Survey of Attacks on Trusted Execution Environments</title>
+    <link href="https://alinush.github.io//tee" rel="alternate" />
+    <id>https://alinush.github.io//tee::v239</id>
+    <published>2026-10-18T03:18:00+00:00</published>
+    <updated>2026-10-18T03:18:00+00:00</updated>
+    <media:thumbnail url="https://collective.flashbots.net/uploads/default/original/2X/8/8b94cc7161a2e4b7b8cf0fb4f9a56285d437fe3a.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://alinush.github.io//tee">alinush.github.io</a> | <a href="https://lobste.rs/s/edli0x/it_s_time_talk_about_tees">discussion</a></small></p><hr/><p>This survey examines security vulnerabilities in Trusted Execution Environments (TEEs), including Intel SGX and AMD SEV. It categorizes these risks into enclave code bugs, remote attestation forgery—encompassing both microarchitectural and physical interposition attacks—and liveness issues that can disrupt system availability.</p><p>The author argues that the inherent complexity of modern CPU architectures and the threat of physical attacks make TEE security claims difficult to validate. Consequently, the text advises against deploying applications with highly sensitive data in TEEs when an adversary might have physical access to the memory hardware.</p><p><img src="https://collective.flashbots.net/uploads/default/original/2X/8/8b94cc7161a2e4b7b8cf0fb4f9a56285d437fe3a.png" /></p><hr/><small>18 Oct 2026, 09:09 UTC | #24647</small>]]></content>
+  </entry>
   <entry>
     <title>Estonian Online Voting System Source Code Made Available for Public Review</title>
     <link href="https://github.com/valimised/ivxv" rel="alternate" />
