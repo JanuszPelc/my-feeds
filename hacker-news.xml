@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-18T15:31:00+00:00</updated>
+  <updated>2026-10-18T16:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ASMC Integrates Ghidra Semantics with CBMC for Assembly Model Checking</title>
+    <link href="https://www.philipzucker.com/asmc_cpp/" rel="alternate" />
+    <id>https://www.philipzucker.com/asmc_cpp/::v240</id>
+    <published>2026-10-18T16:59:00+00:00</published>
+    <updated>2026-10-18T16:59:00+00:00</updated>
+    <media:thumbnail url="https://wrongbaud.github.io/assets/img/hackaday-u-ghidra/session3.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.philipzucker.com/asmc_cpp/">philipzucker.com</a> | <a href="https://lobste.rs/s/br0hd7/ghidra_cbmc_assembly_model_checker">discussion</a></small></p><hr/><p>ASMC (Assembly Model Checker) integrates Ghidra's assembly semantics with the C Bounded Model Checker (CBMC) to enable formal verification of machine code. Through the asmc-lift component, the tool converts compiled .elf files into CBMC's .gb object format by leveraging Ghidra's P-code semantics. This allows users to perform model checking on assembly by defining post-conditions and assertions using C-based syntax.</p><p>The tool supports x86-64 and RISC-V architectures and is applicable to use cases such as translation validation, decompilation verification, and checking ABI compliance. The implementation utilizes approximately 1,000 lines of C++ code to facilitate the conversion between Ghidra's intermediate representation and CBMC's GOTO IR.</p><p><img src="https://wrongbaud.github.io/assets/img/hackaday-u-ghidra/session3.jpg" /></p><hr/><small>18 Oct 2026, 20:15 UTC | #24681</small>]]></content>
+  </entry>
   <entry>
     <title>Understanding Parser Combinators with Code Examples</title>
     <link href="https://t3.at/blog/2026-10-17-parser-combinators/" rel="alternate" />

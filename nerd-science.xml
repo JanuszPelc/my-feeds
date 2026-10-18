@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-18T16:45:00+00:00</updated>
+  <updated>2026-10-18T16:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Semaglutide May Slow Biological Aging Markers in Adults with HIV</title>
+    <link href="https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging" rel="alternate" />
+    <id>https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging::v240</id>
+    <published>2026-10-18T16:48:00+00:00</published>
+    <updated>2026-10-18T16:48:00+00:00</updated>
+    <media:thumbnail url="https://assets.realclear.com/images/71/718788_6_.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging">universityofcalifornia.edu</a> | <a href="https://www.nature.com/articles/s41467-026-72861-3">source</a> | <a href="https://news.ycombinator.com/item?id=50132328">hacker news</a></small></p><hr/><p>A randomized, placebo-controlled clinical trial published in Nature Communications indicates that the GLP-1 drug semaglutide may slow the accumulation of biological aging markers. In a study involving adults with HIV-associated lipohypertrophy, the treatment slowed the pace of aging by 9% as measured by the DunedinPACE epigenetic clock and improved markers related to inflammation, metabolic health, and organ function.</p><p>Researchers at the University of California, San Diego, suggest the drug's effects may stem from reduced metabolic stress and chronic immune activation. While the study focused on individuals with HIV, the researchers noted that these biological processes are central to aging in the general population, though larger trials are required to confirm long-term efficacy and optimal dosing.</p><p><img src="https://assets.realclear.com/images/71/718788_6_.jpeg" /></p><hr/><small>18 Oct 2026, 20:08 UTC | #24682</small>]]></content>
+  </entry>
   <entry>
     <title>AI Coding Agents and the Changing Nature of Programming</title>
     <link href="https://dumbmatter.com/2026/10/programming-obituary/" rel="alternate" />
