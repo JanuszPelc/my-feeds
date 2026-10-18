@@ -936,22 +936,4 @@
     <media:thumbnail url="https://cnmra.com/wp-content/uploads/2026/01/图片7-3.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/features/2026-10-13/china-s-robotic-hands-key-to-5-trillion-ai-humanoid-development-race">bloomberg.com</a></small></p><hr/><p>Chinese manufacturers accounted for 97% of global humanoid robot shipments during the first half of 2026. This market dominance is driven by extensive domestic supply chains and strategic government support.</p><p>This production scale reflects a significant lead in advanced humanoid hardware over the United States. Such a position is pivotal as the industry moves toward a projected $5 trillion AI humanoid development market.</p><p><img src="https://cnmra.com/wp-content/uploads/2026/01/图片7-3.png" /></p><hr/><small>14 Oct 2026, 08:42 UTC | #24221</small>]]></content>
   </entry>
-  <entry>
-    <title>OpenAI in Early Talks to Acquire Security Startup Trail of Bits</title>
-    <link href="https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits" rel="alternate" />
-    <id>https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits::v239</id>
-    <published>2026-10-13T23:21:00+00:00</published>
-    <updated>2026-10-13T23:21:00+00:00</updated>
-    <media:thumbnail url="https://static01.nyt.com/images/2024/10/02/business/00openai-deal-hfo/00openai-deal-hfo-videoSixteenByNine3000-v2.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits">theinformation.com</a></small></p><hr/><p>OpenAI is in preliminary acquisition discussions to purchase Trail of Bits, a cybersecurity firm specializing in identifying and fixing vulnerabilities in open-source software. Founded in 2012, the startup currently employs more than 40 people.</p><p>The potential acquisition is intended to facilitate the development of a substantial cybersecurity business within OpenAI. Financial terms and a timeline for the deal remain undisclosed.</p><p><img src="https://static01.nyt.com/images/2024/10/02/business/00openai-deal-hfo/00openai-deal-hfo-videoSixteenByNine3000-v2.jpg" /></p><hr/><small>14 Oct 2026, 06:32 UTC | #24214</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sprinklz.io Site Flooded with AI Bot Traffic Following Hacker News Feature</title>
-    <link href="https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic" rel="alternate" />
-    <id>https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic::v239</id>
-    <published>2026-10-13T23:18:00+00:00</published>
-    <updated>2026-10-13T23:18:00+00:00</updated>
-    <media:thumbnail url="https://kalinga.ai/wp-content/uploads/2026/03/ai-bot-traffic-growth-human-agent-comparison.jpg-1024x572.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic">sammystraus.com</a> | <a href="https://news.ycombinator.com/item?id=50073221">hacker news</a></small></p><hr/><p>A Hacker News feature for the customizable feed reader Sprinklz.io triggered a massive surge in AI bot traffic, causing significant server load and performance issues. Data logs revealed that nearly half of the requests originated from a single service that queries the site multiple times per minute to generate AI-summarized newsletters.</p><p>The surge included various automated agents, such as AI scrapers from OpenAI and Anthropic, search indexers, and vulnerability scanners. To mitigate the impact, the developer implemented rate limiting, updated robots.txt to discourage scrapers, and upgraded the backend infrastructure to improve resilience.</p><p><img src="https://kalinga.ai/wp-content/uploads/2026/03/ai-bot-traffic-growth-human-agent-comparison.jpg-1024x572.png" /></p><hr/><small>14 Oct 2026, 05:30 UTC | #24229</small>]]></content>
-  </entry>
 </feed>

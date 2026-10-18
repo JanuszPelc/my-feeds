@@ -360,12 +360,4 @@
     <updated>2026-10-14T11:35:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/technology/google-deepmind-google-cloud-allow-european-researchers-access-frontier-models-2026-10-14/">reuters.com</a> | <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/">source</a></small></p><hr/><p>Google DeepMind and Google Cloud will provide up to 200 European scientific researchers with direct access to frontier AI models and $3 million in compute credits. The initiative is designed to support scientific discovery by granting researchers use of advanced tools, including AlphaFold 3 and WeatherNext.</p><p>The program aims to accelerate scientific research across the continent by providing the necessary computing power and specialized models to tackle complex research problems. This commitment is part of a broader effort to integrate advanced artificial intelligence into diverse scientific disciplines.</p><hr/><small>14 Oct 2026, 15:18 UTC | #24235</small>]]></content>
   </entry>
-  <entry>
-    <title>OpenAI Addresses Safety Concerns Over Looped Transformers as Microsoft Confirms Use in GPT-6.1 Sol</title>
-    <link href="https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model" rel="alternate" />
-    <id>https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model::v239</id>
-    <published>2026-10-13T23:16:00+00:00</published>
-    <updated>2026-10-13T23:16:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/openai-scrambles-fix-safety-issues-shipping-next-flagship-model">theinformation.com</a></small></p><hr/><p>OpenAI is currently addressing safety issues regarding looped transformer architectures while preparing its next flagship model. Microsoft documentation for the GPT-6.1 Sol model indicates the architecture uses two inference passes, confirming the use of the technique within the GPT-6 series.</p><p>The shift toward looped inference is intended to enhance complex reasoning and problem-solving capabilities. However, the non-linear nature of these architectures presents safety challenges that OpenAI must resolve before full deployment.</p><hr/><small>14 Oct 2026, 05:00 UTC | #24206</small>]]></content>
-  </entry>
 </feed>
