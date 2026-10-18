@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-18T10:45:00+00:00</updated>
+  <updated>2026-10-18T12:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>STAC-M3 Benchmark Results for L tick Database 1.0 on Oxide OxVM</title>
+    <link href="https://docs.stacresearch.com/M3-20261005a" rel="alternate" />
+    <id>https://docs.stacresearch.com/M3-20261005a::v240</id>
+    <published>2026-10-18T12:55:00+00:00</published>
+    <updated>2026-10-18T12:55:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://docs.stacresearch.com/M3-20261005a">docs.stacresearch.com</a> | <a href="https://lobste.rs/s/oh4yfc/stac_m3_benchmark_l_tick_database_1_0_on">discussion</a></small></p><hr/><p>STAC has released audited benchmark results for the L tick database 1.0, developed by L Labs PBC, running on an Oxide OxVM cloud virtual machine. The tests, performed using the STAC-M3 Antuco suite, evaluate the performance and scalability of database and hardware stacks used for large-scale time-series market data and financial analytics.</p><p>The results show that this configuration achieved a storage efficiency of 364%, the highest of any published STAC-M3 Antuco result. Additionally, the solution outperformed previous industry records and solutions using the q programming language in several mean-response time benchmarks.</p><hr/><small>18 Oct 2026, 18:28 UTC | #24671</small>]]></content>
+  </entry>
   <entry>
     <title>US Federal Budget Deficit Reaches $1.992 Trillion for Fiscal Year 2026</title>
     <link href="https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html" rel="alternate" />
@@ -934,13 +942,5 @@
     <published>2026-10-13T20:37:00+00:00</published>
     <updated>2026-10-14T22:58:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/">techcrunch.com</a> | <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.175.0.pdf">source</a> | <a href="https://news.ycombinator.com/item?id=50090707">hacker news</a></small></p><hr/><p>A federal judge has ordered OpenAI to provide Apple with expedited access to hiring records as part of a trade secrets lawsuit. The ruling permits Apple to review interview materials—including checklists, scripts, and technical presentations—related to former Apple employees who applied for roles within OpenAI’s consumer hardware and robotics divisions.</p><p>The decision also allows for the deposition of three former Apple employees and provides access to private LINE messages between specific individuals. While the judge granted these expedited discovery requests, he denied Apple's attempts to access OpenAI's internal research and development data for specific areas like power management and metal finishes.</p><hr/><small>14 Oct 2026, 01:39 UTC | #24199</small>]]></content>
-  </entry>
-  <entry>
-    <title>Jury Finds Arm Breached License Agreement with Qualcomm, Awards $2 in Nominal Damages</title>
-    <link href="https://www.reuters.com/legal/litigation/qualcomm-says-jury-found-arm-breached-license-agreement-2026-10-13/" rel="alternate" />
-    <id>https://www.reuters.com/legal/litigation/qualcomm-says-jury-found-arm-breached-license-agreement-2026-10-13/::v239</id>
-    <published>2026-10-13T18:40:00+00:00</published>
-    <updated>2026-10-13T18:40:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/qualcomm-says-jury-found-arm-breached-license-agreement-2026-10-13/">reuters.com</a> | <a href="https://www.qualcomm.com/news/releases/2026/10/qualcomm-statement-on-trial-verdict-win">source</a> | <a href="https://news.ycombinator.com/item?id=50077246">hacker news</a></small></p><hr/><p>A Delaware jury found that Arm Holdings breached its architectural license agreement with Qualcomm and intentionally acted to disrupt Qualcomm's business. The verdict awarded Qualcomm $2 in nominal damages.</p><p>This ruling follows a series of legal disputes between the semiconductor companies concerning licensing terms and market competition. Qualcomm characterized the outcome as a victory that exposes Arm's intent to harm Qualcomm and its broader ecosystem.</p><hr/><small>14 Oct 2026, 01:13 UTC | #24190</small>]]></content>
   </entry>
 </feed>

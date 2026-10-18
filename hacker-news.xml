@@ -3,9 +3,50 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-18T12:49:00+00:00</updated>
+  <updated>2026-10-18T14:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Ranet3 High-Performance IPsec Mesh SD-WAN</title>
+    <link href="https://ranet3.com/" rel="alternate" />
+    <id>https://ranet3.com/::v240</id>
+    <published>2026-10-18T14:37:00+00:00</published>
+    <updated>2026-10-18T14:37:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ranet3.com/">ranet3.com</a> | <a href="https://lobste.rs/s/np6czp/high_performance_policy_routed_ipsec">discussion</a> | <a href="https://news.ycombinator.com/item?id=50141436">hacker news</a></small></p><hr/><p>Ranet3 is a high-performance, policy-routed IPsec mesh SD-WAN that utilizes standard protocols including IKEv2, ESP, Babel, and SRv6. It is designed for interoperability with existing tools like strongSwan and BIRD, and it can run alongside common mesh VPN agents such as Tailscale, NetBird, and ZeroTier.</p><p>The system features latency-aware routing via Babel, which continuously measures round-trip times to ensure traffic follows the fastest available path. It also includes a userspace segment routing implementation that provides compatibility for operating systems like macOS. Benchmarks indicate that ranet3 can achieve up to 95% of 10 GbE payload capacity, outperforming various WireGuard implementations in throughput and CPU efficiency.</p><hr/><small>18 Oct 2026, 18:36 UTC | #24664</small>]]></content>
+  </entry>
+  <entry>
+    <title>Valen Implements a Reverse-Walking Borrow Checking Algorithm</title>
+    <link href="https://verdagon.dev/blog/reverse-borrow-checking" rel="alternate" />
+    <id>https://verdagon.dev/blog/reverse-borrow-checking::v240</id>
+    <published>2026-10-18T14:30:00+00:00</published>
+    <updated>2026-10-18T14:30:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://verdagon.dev/blog/reverse-borrow-checking">verdagon.dev</a> | <a href="https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking">discussion</a> | <a href="https://news.ycombinator.com/item?id=50140383">hacker news</a></small></p><hr/><p>Valen's experimental borrow checker employs a reverse-walking algorithm for its safety-checking phase to detect use-after-free errors. Rather than performing a standard forward pass, the compiler traverses functions from the final statement back to the beginning, maintaining a list of variables that are scheduled for use. As the scan moves upward, it verifies that any mutations encountered do not invalidate the variables currently in the pending list.</p><p>This approach is intended to simplify the process of identifying the last use of a variable, facilitate more straightforward logic for handling loops, and potentially improve compilation speed. The safety check follows three prior forward passes—parsing, static typing, and static grouping—during which the compiler determines the specific data groups to which each reference points.</p><hr/><small>18 Oct 2026, 18:35 UTC | #24662</small>]]></content>
+  </entry>
+  <entry>
+    <title>RepRapMicron Project Develops Micron-Scale 3D Printer</title>
+    <link href="https://github.com/VikOlliver/RepRapMicron/wiki" rel="alternate" />
+    <id>https://github.com/VikOlliver/RepRapMicron/wiki::v240</id>
+    <published>2026-10-18T13:49:00+00:00</published>
+    <updated>2026-10-18T13:49:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/VikOlliver/RepRapMicron/wiki">github.com</a> | <a href="https://news.ycombinator.com/item?id=50141076">hacker news</a></small></p><hr/><p>This replicating 3D printer is designed for micron and sub-micron fabrication using common, accessible materials. The current PIKA hardware version achieves repeatable positioning of approximately 1μm and reliable accuracy of 10μm or better within an 8mm cubic volume by using a fine probe to deposit UV resin droplets as small as 4μm.</p><p>The project aims to democratize the production of microelectronics and micro-electromechanical systems (MEMS) by providing an inexpensive, desktop-scale alternative to specialized industrial equipment. By leveraging techniques such as electrochemical probe etching and UV resin deposition, the initiative seeks to enable independent development of micron-scale components outside of traditional silicon-based manufacturing.</p><hr/><small>18 Oct 2026, 18:33 UTC | #24668</small>]]></content>
+  </entry>
+  <entry>
+    <title>HP Envy 17-DA0013dx Successfully Boots OpenBSD After BIOS Update</title>
+    <link href="https://darwinsys.com/blog/20260925-hp-envy-17/" rel="alternate" />
+    <id>https://darwinsys.com/blog/20260925-hp-envy-17/::v240</id>
+    <published>2026-10-18T12:54:00+00:00</published>
+    <updated>2026-10-18T12:54:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://darwinsys.com/blog/20260925-hp-envy-17/">darwinsys.com</a> | <a href="https://lobste.rs/s/gl8yly/un_hanging_hp_envy_17_da0013dx_for_openbsd">discussion</a></small></p><hr/><p>The installation of OpenBSD on an HP Envy 17-DA0013dx laptop requires a BIOS update to resolve a device probing hang during the boot process. This hang was attributed to a defective ACPI/AML implementation found in the device's original 2024 firmware.</p><p>The hardware features an Intel Core Ultra 7 155H processor and a 1920x1024 touchscreen. While functional, the system currently experiences minor issues including an AML parse error affecting CPU temperature reporting, touchscreen scaling problems in X Windows when using dual monitors, and several driver-related warning messages.</p><hr/><small>18 Oct 2026, 18:25 UTC | #24670</small>]]></content>
+  </entry>
+  <entry>
+    <title>esp32sim Open-Source ESP32 Emulator Supports Xtensa and RISC-V Architectures</title>
+    <link href="https://github.com/mikroverk/esp32sim" rel="alternate" />
+    <id>https://github.com/mikroverk/esp32sim::v240</id>
+    <published>2026-10-18T12:53:00+00:00</published>
+    <updated>2026-10-18T12:53:00+00:00</updated>
+    <media:thumbnail url="https://github.com/mikroverk/esp32sim/raw/main/docs/assets/esp32sim-logo-icon.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/mikroverk/esp32sim">github.com</a> | <a href="https://news.ycombinator.com/item?id=50131189">hacker news</a></small></p><hr/><p>Written in Rust, esp32sim is an open-source, instruction-level emulator that runs unmodified ESP32 firmware locally or in a web browser via WebAssembly. It supports four Espressif SoCs across both Xtensa (ESP32, S3) and RISC-V (C3, C6) architectures, booting real mask ROMs and second-stage bootloaders to facilitate end-to-end project testing without physical hardware or cloud services.</p><p>The emulator models peripherals including GPIO, UART, and WiFi with NAT support, allowing emulated devices to interact with real networks. The ESP32-S3 implementation uses an AArch64 JIT to achieve 150–240 MIPS, and the software includes support for various board models, such as the LilyGO TTGO T-Display and Waveshare modules, to simulate specific displays and sensors.</p><p><img src="https://github.com/mikroverk/esp32sim/raw/main/docs/assets/esp32sim-logo-icon.png" /></p><hr/><small>18 Oct 2026, 18:18 UTC | #24669</small>]]></content>
+  </entry>
   <entry>
     <title>How Address Resolution Protocol (ARP) Works on Local Networks</title>
     <link href="https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/" rel="alternate" />
@@ -916,14 +957,5 @@
     <updated>2026-10-13T18:42:00+00:00</updated>
     <media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/09/hadimg_esphosted_1.png?w=800" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/">hackaday.com</a> | <a href="https://lobste.rs/s/x1ucie/esp32_as_your_raspberry_pi_s_linux">discussion</a></small></p><hr/><p>The `esp-hosted` framework enables these microcontrollers to function as WiFi and Bluetooth co-processors for Linux-based single-board computers (SBCs) via SDIO or SPI. The `esp-hosted-linux` implementation acts as a proxy for the Linux wireless stack, allowing the host system to treat the module as a native wireless interface.</p><p>Utilizing widely available Espressif hardware provides an alternative to proprietary or poorly supported wireless drivers on SBCs. This implementation also supports hardware power management and offers potential for integrating additional communication protocols, such as LoRa or Zigbee, through the same interface.</p><p><img src="https://hackaday.com/wp-content/uploads/2026/09/hadimg_esphosted_1.png?w=800" /></p><hr/><small>14 Oct 2026, 01:27 UTC | #24220</small>]]></content>
-  </entry>
-  <entry>
-    <title>Meta Reports GitHub Repository Breach Affecting 1,500 People</title>
-    <link href="https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/" rel="alternate" />
-    <id>https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/::v239</id>
-    <published>2026-10-13T18:36:00+00:00</published>
-    <updated>2026-10-13T18:36:00+00:00</updated>
-    <media:thumbnail url="https://www.heise.de/imgs/18/5/0/8/5/8/0/8/TeamPCP-GitHub-breach-claims-d620c2ac4e7c2374.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/">securityweek.com</a></small></p><hr/><p>Meta is notifying roughly 1,500 individuals, mostly US-based employees, that their personal information was compromised after hackers gained access to company GitHub repositories via stolen credentials. The intrusion involved the theft of proprietary software code and a small amount of personal data that had been improperly stored in the repositories in violation of company policy.</p><p>While 99% of the stolen information consisted of software code, Meta noted that the remaining 1% of personal data included much of which was synthetic or anonymized test data. In response, the company has rotated compromised secrets and is adding proactive scanning controls to prevent accidental data uploads, while providing credit and dark web monitoring to impacted users.</p><p><img src="https://www.heise.de/imgs/18/5/0/8/5/8/0/8/TeamPCP-GitHub-breach-claims-d620c2ac4e7c2374.jpg" /></p><hr/><small>14 Oct 2026, 00:19 UTC | #24183</small>]]></content>
   </entry>
 </feed>
