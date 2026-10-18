@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-18T12:07:00+00:00</updated>
+  <updated>2026-10-18T18:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>RiverFlux Audio Releases RF-E Channel Strip Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/18/riverflux-rfe-channel-strip/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/18/riverflux-rfe-channel-strip/::v240</id>
+    <published>2026-10-18T18:03:00+00:00</published>
+    <updated>2026-10-18T18:03:00+00:00</updated>
+    <media:thumbnail url="https://public-files.gumroad.com/3fi8p99v8p3u4vbzo0a1h9bi5tva" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/18/riverflux-rfe-channel-strip/">bedroomproducersblog.com</a> | <a href="https://riverfluxaudio.gumroad.com/l/Relic">source</a> | <a href="https://bedroomproducersblog.com/2026/10/18/riverflux-rfe-channel-strip/#comments">discussion</a></small></p><hr/><p>RiverFlux Audio's Relic bundle has been expanded with the addition of RF-E, a free channel strip plugin. This release brings the total number of plugins in the collection to thirteen, joining the existing five compressors, five equalizers, and two tape machines.</p><p>Designed as an SSL 4K E-style channel strip, RF-E is compatible with macOS, Windows, and Linux. The update to the Relic bundle also introduces a mix knob to every plugin in the collection and implements various bug fixes reported by users.</p><p><img src="https://public-files.gumroad.com/3fi8p99v8p3u4vbzo0a1h9bi5tva" /></p><hr/><small>18 Oct 2026, 21:43 UTC | #24676</small>]]></content>
+  </entry>
   <entry>
     <title>EvoGrain Uses L-Systems and Granular Synthesis for Algorithmic Sound Design</title>
     <link href="https://nathanho.me/posts/evograin/" rel="alternate" />
