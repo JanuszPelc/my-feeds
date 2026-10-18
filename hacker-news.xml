@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-18T19:13:00+00:00</updated>
+  <updated>2026-10-18T19:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Open Micro-Manipulator Sub-Micrometer Motion Control Platform</title>
+    <link href="https://github.com/0x23/MicroManipulatorStepper" rel="alternate" />
+    <id>https://github.com/0x23/MicroManipulatorStepper::v240</id>
+    <published>2026-10-18T19:15:00+00:00</published>
+    <updated>2026-10-18T19:15:00+00:00</updated>
+    <media:thumbnail url="https://github.com/0x23/MicroManipulatorStepper/raw/main/images/Hardware-v4.0.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/0x23/MicroManipulatorStepper">github.com</a> | <a href="https://news.ycombinator.com/item?id=50140001">hacker news</a></small></p><hr/><p>The Open Micro-Manipulator is an open-source, motorized XYZ motion control platform designed for sub-micrometer precision. Using off-the-shelf stepper motors and a "magnetic gearing" method to enhance encoder resolution, the system can achieve steps as small as 50nm for applications such as microscopy, optical alignment, and electronic component probing.</p><p>The platform utilizes a parallel kinematic structure with miniature ball joints and is operated via G-Code over a USB serial interface. C++ firmware provides a motion planning stack, while a Python API and a graphical user interface enable automated control and live camera feed integration.</p><p><img src="https://github.com/0x23/MicroManipulatorStepper/raw/main/images/Hardware-v4.0.jpg" /></p><hr/><small>18 Oct 2026, 22:50 UTC | #24694</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Retail Reset Points to Potential November 6 Product Launches</title>
     <link href="https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjI1NywiZXhwIjoxNzkyOTM3MDU3LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.SXy771LY1gAlXt2MmZODtLQ3lEquvyiefNIH-i7IZHQ" rel="alternate" />
@@ -1002,13 +1011,5 @@
     <published>2026-10-13T23:08:00+00:00</published>
     <updated>2026-10-13T23:08:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lix.systems/blog/2026-10-13-lix-2.96-release/">lix.systems</a> | <a href="https://lobste.rs/s/y65egs/announcing_lix_2_96_bingsu">discussion</a></small></p><hr/><p>Lix has released version 2.96, codenamed "Bingsu," which introduces improvements to the debugger and REPL, including UTF-8 support via `rustyline`. The update features experimental Cap'n'Proto RPC support through `rpc-sockets` and continues Rust integration for the REPL and hash conversion code. Additionally, the release deprecates `ssh://` store URIs while stabilizing `ssh-ng` URIs.</p><p>Breaking changes in this version include stricter `flake.nix` validation rules and new error handling for precision loss in `floor` and `ceil` builtins. Performance and workflow optimizations include the use of `mimalloc` for faster evaluation, a single-process input fetching mechanism to optimize concurrent downloads, and expanded diagnostic information within `nix doctor`.</p><hr/><small>14 Oct 2026, 04:25 UTC | #24227</small>]]></content>
-  </entry>
-  <entry>
-    <title>FBI and CrowdStrike Dismantle Texas Laptop Farms Used by North Korean IT Workers</title>
-    <link href="https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html?unlocked_article_code=1.IVE.Hd6z.VaFEYJD7BNi_&amp;smid=nytcore-ios-share" rel="alternate" />
-    <id>https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html?unlocked_article_code=1.IVE.Hd6z.VaFEYJD7BNi_&amp;smid=nytcore-ios-share::v239</id>
-    <published>2026-10-13T22:38:00+00:00</published>
-    <updated>2026-10-13T22:38:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/13/us/politics/north-korea-it-workers-fbi.html?unlocked_article_code=1.IVE.Hd6z.VaFEYJD7BNi_&smid=nytcore-ios-share">nytimes.com</a> | <a href="https://www.justice.gov/opa/pr/justice-department-announces-coordinated-actions-combat-north-korean-remote-it-worker">source</a></small></p><hr/><p>The FBI and cybersecurity firm CrowdStrike have dismantled more than 40 laptop farms in Texas used by North Korean operatives to obtain remote U.S. tech jobs. These setups utilized stolen identities to secure employment at American companies, allowing North Koreans to funnel wages to the North Korean government.</p><p>This operation is part of a wider crackdown on schemes targeting over 70 U.S. companies. Law enforcement actions have led to the seizure of nearly 187 computer devices, and federal officials have indicated that indictments are forthcoming.</p><hr/><small>14 Oct 2026, 04:05 UTC | #24203</small>]]></content>
   </entry>
 </feed>
