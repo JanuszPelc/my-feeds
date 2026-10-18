@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-17T18:52:00+00:00</updated>
+  <updated>2026-10-17T20:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>KDE Marks 30th Anniversary</title>
+    <link href="https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html" rel="alternate" />
+    <id>https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html::v239</id>
+    <published>2026-10-17T20:28:00+00:00</published>
+    <updated>2026-10-17T20:28:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip83NHuCPBMbENODlk7SUl8bDy6l1VBNv3ajBcw0o9VzuNtg3dlGjrm-aekZxs8VE8J1dCgoijQI_qwPd3dWN-2nQE8M6Jx8cAzT1X_e9XS1j3eJWU23ht2pgrlDjeX9s67hwa-GLIM_mxqtEbqvdSQXgqOKxTIfSCS6l9G59s4Jd75wwPSwc5rwz89okX/s2000/akademy-2006-dublin-group.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html">blog.cornelius-schumacher.de</a> | <a href="https://lobste.rs/s/cgs07z/thirty_years_kde">discussion</a></small></p><hr/><p>The KDE project is marking its 30th anniversary with the premiere of a documentary covering its development history. The film traces the project's founding, early development, licensing disputes, and the transition through the KDE 4 era.</p><p>Recent momentum includes over one million euros in investment from the Sovereign Tech Fund and increased adoption on hardware like the Steam Deck. Strategic goals for 2026 focus on enterprise readiness, documentation, and software styling.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip83NHuCPBMbENODlk7SUl8bDy6l1VBNv3ajBcw0o9VzuNtg3dlGjrm-aekZxs8VE8J1dCgoijQI_qwPd3dWN-2nQE8M6Jx8cAzT1X_e9XS1j3eJWU23ht2pgrlDjeX9s67hwa-GLIM_mxqtEbqvdSQXgqOKxTIfSCS6l9G59s4Jd75wwPSwc5rwz89okX/s2000/akademy-2006-dublin-group.jpg" /></p><hr/><small>18 Oct 2026, 02:37 UTC | #24630</small>]]></content>
+  </entry>
   <entry>
     <title>Pele Renders Mermaid Diagrams as Themeable SVG</title>
     <link href="https://pele.run/" rel="alternate" />
