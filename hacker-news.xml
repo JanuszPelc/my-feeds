@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-17T20:28:00+00:00</updated>
+  <updated>2026-10-18T01:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Oxide's omdb Debugger Provides Granular Observability for DNS Propagation</title>
+    <link href="https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/" rel="alternate" />
+    <id>https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/::v239</id>
+    <published>2026-10-18T01:24:00+00:00</published>
+    <updated>2026-10-18T01:24:00+00:00</updated>
+    <media:thumbnail url="https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/propagation-diagram.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/">davepacheco.net</a> | <a href="https://lobste.rs/s/a0og2j/developing_for_debugging_2025">discussion</a></small></p><hr/><p>Oxide utilizes a "developing for debugging" approach to provide high-resolution observability within its Omicron control plane. Through the omdb debugger, the system's background tasks report granular, verifiable state information—including specific configuration versions and precise timestamps—instead of vague status messages.</p><p>This methodology enables operators to quickly determine if subsystems like DNS propagation are functioning correctly or to pinpoint the exact stage of a failure. This level of detailed observability also facilitates system testing, technical onboarding, and more confident communication during incident response.</p><p><img src="https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/propagation-diagram.png" /></p><hr/><small>18 Oct 2026, 04:26 UTC | #24631</small>]]></content>
+  </entry>
   <entry>
     <title>KDE Marks 30th Anniversary</title>
     <link href="https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html" rel="alternate" />
