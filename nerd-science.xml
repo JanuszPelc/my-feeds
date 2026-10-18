@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-18T01:25:00+00:00</updated>
+  <updated>2026-10-18T01:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>The Monad Tutorial Fallacy and the Role of Concrete Detail in Learning Abstractions</title>
+    <link href="https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/" rel="alternate" />
+    <id>https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/::v239</id>
+    <published>2026-10-18T01:29:00+00:00</published>
+    <updated>2026-10-18T01:29:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*TT1uZQVV3VAdBXZTVhVqxA.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/">byorgey.wordpress.com</a> | <a href="https://lobste.rs/s/obhuqr/abstraction_intuition_monad_tutorial">discussion</a></small></p><hr/><p>Human learning requires a progression from concrete examples to abstract concepts, a process often undermined by improper pedagogy. The "monad tutorial fallacy" describes the error of providing high-level metaphors or simplified intuitions—such as comparing monads to burritos—while bypassing the technical struggle necessary for actual understanding.</p><p>Bypassing foundational complexity forces learners to eventually unlearn simplified analogies to master the underlying mechanics. Consequently, navigating through difficult, concrete details is a necessary component for developing a genuine intuitive grasp of abstraction.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*TT1uZQVV3VAdBXZTVhVqxA.png" /></p><hr/><small>18 Oct 2026, 05:40 UTC | #24638</small>]]></content>
+  </entry>
   <entry>
     <title>Abolish AI! Manifesto Argues for the Abolition of AI and Capitalism</title>
     <link href="https://abolish-ai.net/abolish-ai-a-manifesto/" rel="alternate" />
