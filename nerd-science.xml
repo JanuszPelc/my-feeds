@@ -185,13 +185,4 @@
     <updated>2026-10-13T16:18:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.thehistoryblog.com/archives/77107">thehistoryblog.com</a> | <a href="https://news.ycombinator.com/item?id=50067414">hacker news</a></small></p><hr/><p>Archaeologists have uncovered a collection of cuneiform tablets in the ancient city of Samuha, located in modern-day Sivas, Turkey. These records, dating back 3,400 years to the reign of King Tudhaliya II, comprise 184 tablets and fragments in Hittite and Hurrian. The documents detail a fever epidemic that killed the king's daughter, military pleas for reinforcements, and various religious rituals.</p><p>This discovery is the most comprehensive archive of Hittite-language documents found in the 21st century. The texts offer new insights into bird divination, scribal culture, and the development of the Hittite language.</p><hr/><small>13 Oct 2026, 19:02 UTC | #24193</small>]]></content>
   </entry>
-  <entry>
-    <title>The Molecular Mechanism of E. coli Chemotaxis</title>
-    <link href="https://jsomers.net/e-coli-chemotaxis/" rel="alternate" />
-    <id>https://jsomers.net/e-coli-chemotaxis/::v239</id>
-    <published>2026-10-13T04:51:00+00:00</published>
-    <updated>2026-10-13T04:51:00+00:00</updated>
-    <media:thumbnail url="https://jsomers.net/e-coli-chemotaxis/articleImages/transmembrane.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jsomers.net/e-coli-chemotaxis/">jsomers.net</a> | <a href="https://news.ycombinator.com/item?id=50041866">hacker news</a></small></p><hr/><p>E. coli cells navigate toward nutrients using chemotaxis, a process of sensing chemical gradients to modulate movement. The bacteria alternate between "runs" (forward swimming) and "tumbles" (random reorientation) based on the phosphorylation state of the signaling molecule CheY, which interacts with the cell's flagellar motors.</p><p>The system provides significant signal amplification and adaptive capabilities. By using methylation to modify receptor sensitivity, the bacteria can respond to nutrient changes across five orders of magnitude, creating a form of chemical memory that allows for continuous navigation in varying environments.</p><p><img src="https://jsomers.net/e-coli-chemotaxis/articleImages/transmembrane.jpg" /></p><hr/><small>13 Oct 2026, 10:01 UTC | #24122</small>]]></content>
-  </entry>
 </feed>
