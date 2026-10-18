@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-17T18:22:00+00:00</updated>
+  <updated>2026-10-17T18:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Pele Renders Mermaid Diagrams as Themeable SVG</title>
+    <link href="https://pele.run/" rel="alternate" />
+    <id>https://pele.run/::v239</id>
+    <published>2026-10-17T18:52:00+00:00</published>
+    <updated>2026-10-17T18:52:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pele.run/">pele.run</a> | <a href="https://github.com/obsidianmd/pele">source</a> | <a href="https://news.ycombinator.com/item?id=50132193">hacker news</a></small></p><hr/><p>Pele is a lightweight library that converts Mermaid syntax into SVG diagrams. It is significantly smaller and faster than Mermaid.js and uses CSS variables for easy, non-destructive theming.</p><p>Developed for the Obsidian note-taking app, the open-source tool supports all diagram types included in Mermaid 12.1.0. It is available as an npm package and features zero direct dependencies.</p><hr/><small>18 Oct 2026, 01:07 UTC | #24625</small>]]></content>
+  </entry>
   <entry>
     <title>Hacking the Xbox 360 via Fault Injection</title>
     <link href="https://kennedn.com/blog/posts/glitching/" rel="alternate" />

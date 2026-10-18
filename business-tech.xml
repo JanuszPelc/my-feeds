@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-17T18:49:00+00:00</updated>
+  <updated>2026-10-17T18:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Gold Becomes the Top U.S. Export</title>
+    <link href="https://www.numismaticnews.net/gold-now-top-u-s-export" rel="alternate" />
+    <id>https://www.numismaticnews.net/gold-now-top-u-s-export::v239</id>
+    <published>2026-10-17T18:53:00+00:00</published>
+    <updated>2026-10-17T18:53:00+00:00</updated>
+    <media:thumbnail url="https://www.tendata.com/uploadfile/ueditor/image/202603/1774580806947e99.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.numismaticnews.net/gold-now-top-u-s-export">numismaticnews.net</a> | <a href="https://fred.stlouisfed.org/series/IEAXGG">source</a> | <a href="https://news.ycombinator.com/item?id=50132870">hacker news</a></small></p><hr/><p>Nonmonetary gold exports have surpassed traditional leading U.S. commodities like oil and pharmaceuticals. This trend began in October 2025 and saw potentially record-breaking export volumes in February 2026.</p><p>Most shipments are destined for Switzerland, Hong Kong, and the United Kingdom. Analysts speculate the surge is driven by foreign central banks, specifically China, as they diversify holdings away from U.S. Treasury debt and into gold assets.</p><p><img src="https://www.tendata.com/uploadfile/ueditor/image/202603/1774580806947e99.jpg" /></p><hr/><small>18 Oct 2026, 01:11 UTC | #24626</small>]]></content>
+  </entry>
   <entry>
     <title>Replit CEO Announces End of Primary Anthropic Partnership</title>
     <link href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/" rel="alternate" />
