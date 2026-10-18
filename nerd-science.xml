@@ -177,20 +177,4 @@
     <media:thumbnail url="https://jsomers.net/e-coli-chemotaxis/articleImages/transmembrane.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jsomers.net/e-coli-chemotaxis/">jsomers.net</a> | <a href="https://news.ycombinator.com/item?id=50041866">hacker news</a></small></p><hr/><p>E. coli cells navigate toward nutrients using chemotaxis, a process of sensing chemical gradients to modulate movement. The bacteria alternate between "runs" (forward swimming) and "tumbles" (random reorientation) based on the phosphorylation state of the signaling molecule CheY, which interacts with the cell's flagellar motors.</p><p>The system provides significant signal amplification and adaptive capabilities. By using methylation to modify receptor sensitivity, the bacteria can respond to nutrient changes across five orders of magnitude, creating a form of chemical memory that allows for continuous navigation in varying environments.</p><p><img src="https://jsomers.net/e-coli-chemotaxis/articleImages/transmembrane.jpg" /></p><hr/><small>13 Oct 2026, 10:01 UTC | #24122</small>]]></content>
   </entry>
-  <entry>
-    <title>Yau Laboratory Alliance for Mathematics and Artificial Intelligence Launched</title>
-    <link href="https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research" rel="alternate" />
-    <id>https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research::v239</id>
-    <published>2026-10-13T01:31:00+00:00</published>
-    <updated>2026-10-13T01:31:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.scmp.com/news/china/science/article/3370492/leading-chinese-mathematicians-unite-behind-use-ai-research">scmp.com</a></small></p><hr/><p>The Yau Laboratory Alliance for Mathematics and Artificial Intelligence has been established in Beijing to integrate artificial intelligence into mathematical research. Led by Fields medallist Shing-Tung Yau, the alliance involves eight institutions and aims to form a network of more than 1,000 scientists.</p><p>The initiative focuses on developing specialized AI models for generating mathematical conjectures, formalizing proofs, and building systems with interpretable reasoning. The goal is to ensure China remains competitive with the United States in utilizing AI to advance frontier science.</p><hr/><small>13 Oct 2026, 07:17 UTC | #24099</small>]]></content>
-  </entry>
-  <entry>
-    <title>Vi Hart Discusses the Implications of AI-Verified Navier-Stokes Proofs</title>
-    <link href="https://www.patreon.com/vihart/posts/vi-harts-big-171939430" rel="alternate" />
-    <id>https://www.patreon.com/vihart/posts/vi-harts-big-171939430::v239</id>
-    <published>2026-10-13T01:30:00+00:00</published>
-    <updated>2026-10-13T01:30:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.patreon.com/vihart/posts/vi-harts-big-171939430">patreon.com</a> | <a href="https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post">discussion</a> | <a href="https://news.ycombinator.com/item?id=50051541">hacker news</a></small></p><hr/><p>OpenAI has claimed a solution to the Navier-Stokes Millennium Prize Problem using AI and Lean formal verification. This achievement is built upon years of cumulative human labor within the Mathlib library and other formal mathematical infrastructures, rather than being a purely autonomous AI breakthrough, according to Vi Hart, a former collaborator with the Lean proof assistant team.</p><p>The discussion explores the relationship between human mathematical insight and computational formalization. Hart posits that AI and automated proof systems are specialized tools rather than replacements for mathematicians, cautioning that massive, unguided computation risks creating a "Library of Babel"—a vast repository of mathematically trivial and meaningless proofs that lack human-driven context and meaning.</p><hr/><small>13 Oct 2026, 06:27 UTC | #24115</small>]]></content>
-  </entry>
 </feed>
