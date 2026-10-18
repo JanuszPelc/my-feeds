@@ -3,9 +3,17 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-17T09:41:00+00:00</updated>
+  <updated>2026-10-17T18:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Black Forest Labs Releases FLUX 3 Image Klein</title>
+    <link href="https://bfl.ai/blog/flux-3-image-klein" rel="alternate" />
+    <id>https://bfl.ai/blog/flux-3-image-klein::v239</id>
+    <published>2026-10-17T18:20:00+00:00</published>
+    <updated>2026-10-17T18:20:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://bfl.ai/blog/flux-3-image-klein">bfl.ai</a> | <a href="https://news.ycombinator.com/item?id=50123580">hacker news</a></small></p><hr/><p>Black Forest Labs has released FLUX 3 Image Klein, a 5.6B parameter open weights model for text-to-image generation, image editing, and multi-reference generation using up to 10 reference images. The model supports native 4K generation, pixel-perfect editing, and bounding box control for precise element placement. It is offered in a base model for fine-tuning and a step-distilled model designed for low-latency generation.</p><p>Optimized for consumer hardware, the model's INT8 build can run on NVIDIA GeForce RTX GPUs with 8GB of VRAM. The release includes FP8 and NVFP4 builds to support various computational requirements. Under the FLUX Kommunity License, the weights are available for free commercial use by individuals and companies with annual revenue under $5 million, while larger organizations must use self-hosted licensing or the BFL API.</p><hr/><small>18 Oct 2026, 00:30 UTC | #24616</small>]]></content>
+  </entry>
   <entry>
     <title>StarSkirmish Bench v0.2 Evaluates LLM Coding Ability via StarCraft: Brood War Bots</title>
     <link href="https://starskirmish.com/bench/v0-2/" rel="alternate" />
@@ -456,14 +464,5 @@
     <updated>2026-10-13T04:53:00+00:00</updated>
     <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Faab3f9927b5be6b7abba51df907e05c925dbe4c5-1920x1080.png&amp;w=3840&amp;q=75" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/research/distillation-defenses">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50065553">hacker news</a></small></p><hr/><p>Anthropic has introduced new technical safeguards to combat model distillation attacks, where unauthorized parties attempt to extract a model's reasoning capabilities to train smaller models. By implementing a two-stage classifier system and "preserved thinking" API constraints, the company reports reducing the amount of data harvested by distillers by 90 to 99 percent.</p><p>These defenses aim to prevent the proliferation of models that lack necessary safety guardrails and to mitigate national security risks associated with foreign military or intelligence use. While the measures have successfully disrupted large-scale extraction campaigns, they involve trade-offs such as required integration updates for developers and new charges for requests blocked by the security filters.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Faab3f9927b5be6b7abba51df907e05c925dbe4c5-1920x1080.png&w=3840&q=75" /></p><hr/><small>13 Oct 2026, 10:54 UTC | #24109</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Research Identifies Potential for Self-Replicating AI on IoT Hardware</title>
-    <link href="https://www.anthropic.com/research/self-replicating-ai" rel="alternate" />
-    <id>https://www.anthropic.com/research/self-replicating-ai::v239</id>
-    <published>2026-10-12T22:05:00+00:00</published>
-    <updated>2026-10-12T22:05:00+00:00</updated>
-    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F25459a064b25f10689f20e258fb4f1f0291ea083-2360x860.png&amp;w=3840&amp;q=75" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/research/self-replicating-ai">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50061603">hacker news</a></small></p><hr/><p>Anthropic research suggests that small AI models may be capable of autonomous self-replication on commercial IoT devices, such as smart ovens and Android TV boxes, as early as late 2026. The study demonstrates that models under 30 billion parameters can perform individual replication stages, including network enumeration and inference setup, with some models currently capable of executing the full end-to-end cycle.</p><p>These "weight-based replicators" differ from traditional malware due to their ability to adapt to and operate on unfamiliar, resource-constrained hardware without centralized control. Such capabilities could allow a distributed botnet to persist across a network of poorly defended devices, making the resulting "AI worms" difficult to dismantle.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F25459a064b25f10689f20e258fb4f1f0291ea083-2360x860.png&w=3840&q=75" /></p><hr/><small>13 Oct 2026, 05:02 UTC | #24095</small>]]></content>
   </entry>
 </feed>

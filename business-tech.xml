@@ -3,9 +3,51 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-17T18:02:00+00:00</updated>
+  <updated>2026-10-17T18:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Replit CEO Announces End of Primary Anthropic Partnership</title>
+    <link href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/::v239</id>
+    <published>2026-10-17T18:49:00+00:00</published>
+    <updated>2026-10-17T18:49:00+00:00</updated>
+    <media:thumbnail url="https://cdn-cms.claudeapi.com/blog/images/anthropic-enterprise-pricing-analysis-2026--image-4l83.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/">techcrunch.com</a></small></p><hr/><p>Replit CEO Amjad Masad announced that the AI coding platform is ending its primary partnership with Anthropic, designating OpenAI's ChatGPT as the default model for Replit Agent. Masad cited cost, performance benchmarks, and a stronger partnership with OpenAI as the reasons for the shift, noting that OpenAI's models performed better in internal tests for building applications from scratch.</p><p>While Replit will remain model agnostic and allow users to manually select Anthropic’s Claude models, the move to an OpenAI default is expected to significantly reduce the company's expenditure with Anthropic. This strategic shift occurs as Replit expands its business model, with the CEO reporting that enterprise and B2B contracts now account for more than half of the company's total revenue.</p><p><img src="https://cdn-cms.claudeapi.com/blog/images/anthropic-enterprise-pricing-analysis-2026--image-4l83.png" /></p><hr/><small>18 Oct 2026, 00:49 UTC | #24608</small>]]></content>
+  </entry>
+  <entry>
+    <title>Matt Mullenweg Reverts Accessibility Improvements and Removes Core Committer Andrea Fercia from WordPress Roles</title>
+    <link href="https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project" rel="alternate" />
+    <id>https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project::v239</id>
+    <published>2026-10-17T18:21:00+00:00</published>
+    <updated>2026-10-17T18:21:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project">therepository.email</a> | <a href="https://core.trac.wordpress.org/ticket/50486">source</a> | <a href="https://lobste.rs/s/2mlkhe/matt_mullenweg_orders_accessibility">discussion</a> | <a href="https://news.ycombinator.com/item?id=50113348">hacker news</a></small></p><hr/><p>WordPress co-founder Matt Mullenweg has ordered the reversal of accessibility improvements to admin notices and removed long-time core committer Andrea Fercia from his WordPress.org positions and authority. The decision followed an attempt to add markup to make admin notices navigable for screen reader and keyboard users. Core committer Joe Dolson subsequently rolled back the changes, stating that the technical complexity of WordPress admin notices made the implementation premature and prone to errors regarding notice counts.</p><p>The move has prompted significant criticism from community members and collaborators, with some alleging the action is an attempt to bypass accessibility standards. This incident is the second in three months where Mullenweg has intervened in the work of the WordPress Accessibility Team, following a previous dispute over the team's authority. The event has intensified debates regarding the governance of the WordPress core and the potential for contributors to face marginalization for advocating for inclusive design.</p><hr/><small>18 Oct 2026, 00:32 UTC | #24617</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta Removes Terms Language Potentially Enabling AI Scraping of News Sites</title>
+    <link href="https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites" rel="alternate" />
+    <id>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites::v239</id>
+    <published>2026-10-17T18:16:00+00:00</published>
+    <updated>2026-10-17T18:16:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites">theverge.com</a> | <a href="https://news.ycombinator.com/item?id=50132627">hacker news</a></small></p><hr/><p>Meta has updated its commercial terms to remove a clause that experts argued would allow the company to scrape news websites for AI training. The disputed language suggested Meta could use content from various domains and URLs to develop, improve, and maintain its products and services.</p><p>The update follows criticism from legal experts and media organizations, including Nieman Lab, who interpreted the terms as a way to bypass robots.txt instructions. Meta has clarified that the revised language specifically applies to its ads and business products and does not change its general web-crawling practices.</p><hr/><small>18 Oct 2026, 00:12 UTC | #24592</small>]]></content>
+  </entry>
+  <entry>
+    <title>Zelenskyy Claims Starlink Restrictions in Ukraine Are Deliberate</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate::v239</id>
+    <published>2026-10-17T18:11:00+00:00</published>
+    <updated>2026-10-17T18:11:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1VurK1.img?w=768&amp;h=484&amp;m=6" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate">bloomberg.com</a></small></p><hr/><p>Ukrainian President Volodymyr Zelenskyy stated that recent speed limitations on SpaceX's Starlink and Starshield satellite internet services in Ukraine are intentional rather than technical malfunctions. He also criticized a U.S. decision to waive certain sanctions against Russia.</p><p>The connectivity slowdowns have reportedly impacted military communications and the deployment of hardware such as drones. While SpaceX has previously maintained that usage limits are determined by the U.S. military and the White House, Zelenskyy's remarks suggest the restrictions are being applied deliberately within Ukrainian territory.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1VurK1.img?w=768&h=484&m=6" /></p><hr/><small>18 Oct 2026, 00:04 UTC | #24594</small>]]></content>
+  </entry>
+  <entry>
+    <title>AI Legal Liabilities Threaten to Outpace Insurance Coverage Limits</title>
+    <link href="https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556?st=xPnTts" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556?st=xPnTts::v239</id>
+    <published>2026-10-17T18:10:00+00:00</published>
+    <updated>2026-10-17T18:10:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556?st=xPnTts">wsj.com</a></small></p><hr/><p>Potential legal liabilities in the artificial intelligence industry could reach tens of billions of dollars due to safety-related incidents. Insurers are concerned that the sector's rapid growth will lead to claims that exceed the limits established in current insurance coverage policies.</p><p>The mismatch between the scale of potential AI damages and existing coverage capacity presents a significant financial challenge. As the industry expands, the possibility of claims outstripping insurance limits creates growing uncertainty for the market.</p><hr/><small>18 Oct 2026, 00:01 UTC | #24595</small>]]></content>
+  </entry>
   <entry>
     <title>XCancel Service Suspended Due to Legal Proceedings</title>
     <link href="https://twitter.com/opencode/status/2111516673953935833" rel="alternate" />

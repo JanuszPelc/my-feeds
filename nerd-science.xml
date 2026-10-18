@@ -3,9 +3,35 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-17T14:02:00+00:00</updated>
+  <updated>2026-10-17T18:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>3Blue1Brown Discusses the Resilience of Mathematics in the Age of AI</title>
+    <link href="https://www.youtube.com/watch?v=LKrwhjOI8Nc" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=LKrwhjOI8Nc::v239</id>
+    <published>2026-10-17T18:23:00+00:00</published>
+    <updated>2026-10-17T18:23:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=LKrwhjOI8Nc">youtube.com</a> | <a href="https://lobste.rs/s/wzgadv/there_s_never_been_better_time_go_into_math">discussion</a> | <a href="https://news.ycombinator.com/item?id=50120337">hacker news</a></small></p><hr/><p>Grant Sanderson argues that AI's capacity to solve complex mathematical problems does not render the field obsolete, as mathematical research involves higher-order processes such as making conjectures, building theoretical frameworks, and establishing definitions. He distinguishes between the computational execution of proofs and the creative, conceptual work required to direct mathematical progress.</p><p>The value of mathematics is attributed to three primary sources: scientific and engineering applications, the development of transferable problem-solving skills for industries like finance and AI safety, and the intrinsic aesthetic joy of the discipline. Sanderson suggests that the institutional role of universities in training mathematical thinkers ensures the field's continued societal value and funding, even as AI automates technical execution.</p><hr/><small>18 Oct 2026, 00:42 UTC | #24619</small>]]></content>
+  </entry>
+  <entry>
+    <title>Tartrazine Used to Achieve Partial Transparency in Chicken Tissue</title>
+    <link href="https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using" rel="alternate" />
+    <id>https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using::v239</id>
+    <published>2026-10-17T18:19:00+00:00</published>
+    <updated>2026-10-17T18:19:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!HeYS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2335aaa-1716-4bb2-94bb-7de424fec71f_1200x669.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using">chillphysicsenjoyer.substack.com</a> | <a href="https://news.ycombinator.com/item?id=50131213">hacker news</a></small></p><hr/><p>Tartrazine, a common yellow food dye, can achieve partial optical transparency in biological tissues like chicken breast by shifting the refractive index of water to match that of proteins and lipids. Experimental soaking of chicken in varying molar concentrations of the dye produces varying levels of translucency and a gelatinous change in tissue texture.</p><p>The mechanism relies on the absorbance properties of the dye to reduce light scattering. Originally developed to enable in vivo imaging of internal organs in live rodents, this technique offers a potential low-cost method for enhancing the visualization of internal biological structures in research settings.</p><p><img src="https://substackcdn.com/image/fetch/$s_!HeYS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2335aaa-1716-4bb2-94bb-7de424fec71f_1200x669.png" /></p><hr/><small>18 Oct 2026, 00:24 UTC | #24615</small>]]></content>
+  </entry>
+  <entry>
+    <title>Bleached Corals Recover Rapidly via Symbiont Transfer Through Physical Contact</title>
+    <link href="https://www.nature.com/articles/d41586-026-03266-x" rel="alternate" />
+    <id>https://www.nature.com/articles/d41586-026-03266-x::v239</id>
+    <published>2026-10-17T18:18:00+00:00</published>
+    <updated>2026-10-17T18:18:00+00:00</updated>
+    <media:thumbnail url="https://www.lagaligoliveaboard.com/wp-content/uploads/2026/03/image.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.nature.com/articles/d41586-026-03266-x">nature.com</a> | <a href="https://www.science.org/doi/10.1126/sciadv.aeh1580">source</a> | <a href="https://news.ycombinator.com/item?id=50126253">hacker news</a></small></p><hr/><p>Bleached coral fragments can achieve rapid, full recovery by establishing physical contact with a healthy fragment from the same genetic individual. This process facilitates the transfer of symbiotic algae (Symbiodiniaceae) through a "tissue bridge," significantly accelerating the recovery rate compared to natural processes in the wild.</p><p>Symbiont populations in the recovering coral can double every four days during this process. This mechanism requires the corals to be genetically identical (a "genet"); fusion and symbiont transfer were not observed between different species or between different individuals of the same species.</p><p><img src="https://www.lagaligoliveaboard.com/wp-content/uploads/2026/03/image.jpeg" /></p><hr/><small>18 Oct 2026, 00:20 UTC | #24614</small>]]></content>
+  </entry>
   <entry>
     <title>Solar and Wind Generation Surpasses Global Nuclear Output</title>
     <link href="https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/" rel="alternate" />
@@ -166,13 +192,5 @@
     <published>2026-10-13T01:30:00+00:00</published>
     <updated>2026-10-13T01:30:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.patreon.com/vihart/posts/vi-harts-big-171939430">patreon.com</a> | <a href="https://lobste.rs/s/j30pg4/vi_hart_s_big_navier_stokes_post">discussion</a> | <a href="https://news.ycombinator.com/item?id=50051541">hacker news</a></small></p><hr/><p>OpenAI has claimed a solution to the Navier-Stokes Millennium Prize Problem using AI and Lean formal verification. This achievement is built upon years of cumulative human labor within the Mathlib library and other formal mathematical infrastructures, rather than being a purely autonomous AI breakthrough, according to Vi Hart, a former collaborator with the Lean proof assistant team.</p><p>The discussion explores the relationship between human mathematical insight and computational formalization. Hart posits that AI and automated proof systems are specialized tools rather than replacements for mathematicians, cautioning that massive, unguided computation risks creating a "Library of Babel"—a vast repository of mathematically trivial and meaningless proofs that lack human-driven context and meaning.</p><hr/><small>13 Oct 2026, 06:27 UTC | #24115</small>]]></content>
-  </entry>
-  <entry>
-    <title>Huahai Rebuts Rich Hickey’s Argument That AI Is Not a Tool</title>
-    <link href="https://yyhh.org/blog/2026/10/ai-is-a-tool/" rel="alternate" />
-    <id>https://yyhh.org/blog/2026/10/ai-is-a-tool/::v239</id>
-    <published>2026-10-12T22:04:00+00:00</published>
-    <updated>2026-10-12T22:04:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://yyhh.org/blog/2026/10/ai-is-a-tool/">yyhh.org</a> | <a href="https://news.ycombinator.com/item?id=50063427">hacker news</a></small></p><hr/><p>Large Language Models (LLMs) function as tools requiring human skill, rather than being mere forms of automation. Since automation is a standard feature in tools like compilers and spreadsheets, LLMs can be effectively wielded through human intention, feedback, and expertise.</p><p>Industry-standard anthropomorphic language, such as describing software errors as "conspiring," is criticized for framing technical failures as the actions of independent beings. The critical distinction is between the skilled use of an instrument and the delegation of work without human oversight or understanding.</p><hr/><small>13 Oct 2026, 04:22 UTC | #24110</small>]]></content>
   </entry>
 </feed>
