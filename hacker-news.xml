@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-18T19:12:00+00:00</updated>
+  <updated>2026-10-18T19:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Apple Retail Reset Points to Potential November 6 Product Launches</title>
+    <link href="https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjI1NywiZXhwIjoxNzkyOTM3MDU3LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.SXy771LY1gAlXt2MmZODtLQ3lEquvyiefNIH-i7IZHQ" rel="alternate" />
+    <id>https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjI1NywiZXhwIjoxNzkyOTM3MDU3LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.SXy771LY1gAlXt2MmZODtLQ3lEquvyiefNIH-i7IZHQ::v240</id>
+    <published>2026-10-18T19:13:00+00:00</published>
+    <updated>2026-10-18T19:13:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjI1NywiZXhwIjoxNzkyOTM3MDU3LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.SXy771LY1gAlXt2MmZODtLQ3lEquvyiefNIH-i7IZHQ">bloomberg.com</a></small></p><hr/><p>Apple is planning a retail store reset on November 6, which likely signals the release of new Mac computers. Reports also indicate that Apple HomeView units have been stored in warehouses for several months and that preorder difficulties with the iPhone Duo may impact iPhone 18 Pro sales.</p><p>The November 6 reset is a recurring indicator of upcoming Apple hardware availability. These potential launches follow the recent introduction of the HomeView smart display and suggest a concentrated release cycle for consumer electronics.</p><hr/><small>18 Oct 2026, 22:34 UTC | #24667</small>]]></content>
+  </entry>
   <entry>
     <title>libqt6c and libqt6zig Add QML Support</title>
     <link href="https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e" rel="alternate" />
