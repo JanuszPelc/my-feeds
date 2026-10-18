@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-18T15:27:00+00:00</updated>
+  <updated>2026-10-18T15:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Understanding Parser Combinators with Code Examples</title>
+    <link href="https://t3.at/blog/2026-10-17-parser-combinators/" rel="alternate" />
+    <id>https://t3.at/blog/2026-10-17-parser-combinators/::v240</id>
+    <published>2026-10-18T15:31:00+00:00</published>
+    <updated>2026-10-18T15:31:00+00:00</updated>
+    <media:thumbnail url="https://serokell.io/files/f8/f8oni4b6.graph-2.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://t3.at/blog/2026-10-17-parser-combinators/">t3.at</a> | <a href="https://news.ycombinator.com/item?id=50139067">hacker news</a></small></p><hr/><p>The article explains the mechanics of parser combinators, defining them as functions that take an input string and return a pair consisting of a structured value and the remaining unparsed string. It demonstrates how individual parsers for basic elements, such as integers or specific words, can be composed using a sequence function to build increasingly complex parsing logic.</p><p>Using a ping log as a practical example, the author shows how this technique can transform unstructured text into a highly structured object. This approach offers a modular, maintainable alternative to complex regular expressions, providing a functional middle ground between simple pattern matching and heavy-duty parser generators.</p><p><img src="https://serokell.io/files/f8/f8oni4b6.graph-2.png" /></p><hr/><small>18 Oct 2026, 19:38 UTC | #24680</small>]]></content>
+  </entry>
   <entry>
     <title>OpenGL Contexts Fail to Render in macOS 15.8.2 Release Candidate</title>
     <link href="https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550" rel="alternate" />
