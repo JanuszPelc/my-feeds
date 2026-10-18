@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-18T03:14:00+00:00</updated>
+  <updated>2026-10-18T03:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Estonian Online Voting System Source Code Made Available for Public Review</title>
+    <link href="https://github.com/valimised/ivxv" rel="alternate" />
+    <id>https://github.com/valimised/ivxv::v239</id>
+    <published>2026-10-18T03:16:00+00:00</published>
+    <updated>2026-10-18T03:16:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/valimised/ivxv">github.com</a> | <a href="https://news.ycombinator.com/item?id=50127586">hacker news</a></small></p><hr/><p>The ivxv repository provides the source code for the Estonian online voting system for public review. The software contained in the repository is the specific version used in actual elections.</p><p>Development and supervision of the voting system and the I-vote verification application are managed by the State Electoral Office of Estonia to ensure compliance with national legislation. The repository is maintained for transparency purposes and is not used for active development.</p><hr/><small>18 Oct 2026, 08:55 UTC | #24646</small>]]></content>
+  </entry>
   <entry>
     <title>Creating Hybrid Images with Fourier Analysis</title>
     <link href="https://www.jeremykun.com/2014/09/29/hybrid-images/" rel="alternate" />
