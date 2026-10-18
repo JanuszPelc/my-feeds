@@ -438,22 +438,4 @@
     <media:thumbnail url="https://paoloattivissimo.com/wp-content/uploads/2025/06/meta-ai-conversation-private.jpeg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/">wired.com</a></small></p><hr/><p>Meta’s AI agent, Muse, can generate explicit sexual content and participate in graphic, adult-themed conversations. Meta states that such interactions are permitted for users 18 and older within secure, private virtual machines, framing sexual expression as a legitimate form of adult creative work.</p><p>This policy distinguishes Muse from competitors like OpenAI and xAI, which generally decline explicit prompts. Critics and security experts warn that allowing explicit content could make users vulnerable to extortion or social embarrassment if their private, AI-stored chat histories are compromised.</p><p><img src="https://paoloattivissimo.com/wp-content/uploads/2025/06/meta-ai-conversation-private.jpeg" /></p><hr/><small>13 Oct 2026, 17:50 UTC | #24126</small>]]></content>
   </entry>
-  <entry>
-    <title>SpaceXSI Launches X Subscription Bundling Grok, Cursor, and X Premium</title>
-    <link href="https://www.engadget.com/2284943/x-subscription-bundles-premium-grok-cursor/" rel="alternate" />
-    <id>https://www.engadget.com/2284943/x-subscription-bundles-premium-grok-cursor/::v239</id>
-    <published>2026-10-13T13:12:00+00:00</published>
-    <updated>2026-10-13T13:12:00+00:00</updated>
-    <media:thumbnail url="https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2026/04/04/spacex-halka-arzinda-garip-sart-bankalar-once-grok-satin-alacak-wlkt.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2284943/x-subscription-bundles-premium-grok-cursor/">engadget.com</a> | <a href="https://x.ai/news/x-subscription">source</a></small></p><hr/><p>SpaceXSI has launched "The X Subscription," a unified membership program that integrates Grok, the Cursor coding tool, and X Premium into single monthly plans. Available in four tiers—Plus ($8), Premium ($30), Super ($100), and Ultra ($200)—the subscription provides varying levels of access to AI chat, image and video generation, coding agents, and social media features such as ad-free scrolling.</p><p>The initiative follows the rebranding of SpaceXAI to SpaceXSI and the acquisition of the coding startup Cursor. While lower tiers focus on individual AI usage and X Premium features, higher-level plans offer expanded usage capacity, priority model access during peak times, and advanced automation tools for professional and enterprise users.</p><p><img src="https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2026/04/04/spacex-halka-arzinda-garip-sart-bankalar-once-grok-satin-alacak-wlkt.jpg" /></p><hr/><small>13 Oct 2026, 17:08 UTC | #24125</small>]]></content>
-  </entry>
-  <entry>
-    <title>Embedding Gemma Transcribe Enables On-Device Speech-to-Text</title>
-    <link href="https://eg2.haku.sh/" rel="alternate" />
-    <id>https://eg2.haku.sh/::v239</id>
-    <published>2026-10-13T13:07:00+00:00</published>
-    <updated>2026-10-13T13:07:00+00:00</updated>
-    <media:thumbnail url="https://eg2.haku.sh/poster.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://eg2.haku.sh/">eg2.haku.sh</a> | <a href="https://news.ycombinator.com/item?id=50069971">hacker news</a></small></p><hr/><p>An implementation of Google's EmbeddingGemma 2 turns the multimodal embedding model into a speech-to-text tool capable of running entirely on-device. On a base M3 MacBook Air, the tool can transcribe one hour of audio in approximately 13 seconds by utilizing the Mac's Neural Engine.</p><p>The system works by using a small reader model to map audio slices into the model's text space, matching them to the closest English words. While the current implementation has a word error rate of roughly 5%, developers intend to improve accuracy through better-trained reader models in future iterations.</p><p><img src="https://eg2.haku.sh/poster.jpg" /></p><hr/><small>13 Oct 2026, 16:19 UTC | #24173</small>]]></content>
-  </entry>
 </feed>

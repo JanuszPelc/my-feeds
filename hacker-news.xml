@@ -961,47 +961,4 @@
     <updated>2026-10-13T16:08:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/">blogs.gentoo.org</a> | <a href="https://lobste.rs/s/73ssw1/plea_not_use_uv_build">discussion</a></small></p><hr/><p>The Rust-based uv-build backend is increasing build overhead and maintenance for Gentoo users. Its large binary size—between 1.2 MiB and 1.5 MiB—combined with frequent updates, requires users of source distributions to rebuild the tool repeatedly, which has caused some packages to lose architectural keyword support.</p><p>Estimated performance gains of approximately 100ms are outweighed by the time required to fetch and build the large wheels. Additionally, the tool's reliance on Rust presents portability challenges for certain architectures and 32-bit systems. Because PEP 517 allows for various backends, lightweight alternatives like flit-core remain compatible with standard frontends while avoiding these overheads.</p><hr/><small>13 Oct 2026, 17:56 UTC | #24171</small>]]></content>
   </entry>
-  <entry>
-    <title>Alibaba Unveils Qwen Glasses N1 and AI Earbuds</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-13/alibaba-unveils-450-ai-glasses-in-expanding-push-into-gadgets" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-13/alibaba-unveils-450-ai-glasses-in-expanding-push-into-gadgets::v239</id>
-    <published>2026-10-13T13:47:00+00:00</published>
-    <updated>2026-10-13T13:47:00+00:00</updated>
-    <media:thumbnail url="https://img.yicaiglobal.com/src/image/2025/11/104761317343941.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-13/alibaba-unveils-450-ai-glasses-in-expanding-push-into-gadgets">bloomberg.com</a> | <a href="https://www.alibabacloud.com/blog/alibaba-unveils-agentic-computer-ai-wearables-and-more-at-2026-apsara-conference_603599">source</a></small></p><hr/><p>Starting at approximately $450, the Qwen Glasses N1 smart glasses and Qwen Clip AI earbuds mark the company's expansion into consumer electronics. The Pro model of the glasses costs $520 and features 50MP cameras, sensors, and eye-tracking technology.</p><p>These products were unveiled as part of a larger hardware showcase at the 2026 Apsara Conference, which also featured an "agentic computer." The expansion aims to leverage Alibaba's AI capabilities through a dedicated line of Qwen-powered consumer devices.</p><p><img src="https://img.yicaiglobal.com/src/image/2025/11/104761317343941.jpg" /></p><hr/><small>13 Oct 2026, 17:26 UTC | #24124</small>]]></content>
-  </entry>
-  <entry>
-    <title>CXMT to Launch 4F² Design DRAM for Data Center Servers by 2026</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-13/china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-13/china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix::v239</id>
-    <published>2026-10-13T13:10:00+00:00</published>
-    <updated>2026-10-13T13:10:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-13/china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix">bloomberg.com</a></small></p><hr/><p>CXMT Corp. has announced a breakthrough in DRAM technology, claiming a new 4F² design intended for data center servers. The company plans to bring this technology to market before the end of 2026.</p><p>The development targets a technical milestone that competitors like Samsung Electronics have pursued for years. This move represents a significant step in China's effort to compete in the high-performance enterprise memory market.</p><hr/><small>13 Oct 2026, 16:51 UTC | #24121</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Introduces HomeView Smart Home Hub</title>
-    <link href="https://www.apple.com/apple-homeview/" rel="alternate" />
-    <id>https://www.apple.com/apple-homeview/::v239</id>
-    <published>2026-10-13T13:03:00+00:00</published>
-    <updated>2026-10-13T13:03:00+00:00</updated>
-    <media:thumbnail url="https://www.apple.com/v/apple-homeview/a/images/overview/entertainment/entertainment_startframe__e5dn96s1qwia_large.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.apple.com/apple-homeview/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=50071017">hacker news</a></small></p><hr/><p>Apple HomeView is a smart home hub featuring a 7-inch Liquid Retina display and the A18 chip. The device integrates Siri AI, powered by Apple Intelligence, to provide personalized assistance, wide-ranging world knowledge, and conversational capabilities. It serves as a central command for the Apple Home app, enabling control over smart accessories, monitoring of video feeds, and management of home automations.</p><p>The device's audio system includes custom drivers and support for Spatial Audio, while a four-microphone array facilitates FaceTime and Intercom communication. Security features include Secure Exclaves in the A18 chip that process facial and voice recognition data privately. The hub supports up to six users, syncing personalized content from their paired iPhones or iPads when they are recognized.</p><p><img src="https://www.apple.com/v/apple-homeview/a/images/overview/entertainment/entertainment_startframe__e5dn96s1qwia_large.jpg" /></p><hr/><small>13 Oct 2026, 15:49 UTC | #24168</small>]]></content>
-  </entry>
-  <entry>
-    <title>PostgreSQL 19 Beta Sees High Number of Feature Reverts</title>
-    <link href="https://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves" rel="alternate" />
-    <id>https://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves::v239</id>
-    <published>2026-10-13T11:38:00+00:00</published>
-    <updated>2026-10-13T11:38:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves">peter.eisentraut.org</a> | <a href="https://lobste.rs/s/aasanp/reverts_will_continue_until_morale">discussion</a></small></p><hr/><p>PostgreSQL developer Peter Eisentraut explains why 8 to 10 significant features were removed from the PostgreSQL 19 beta period. He attributes these reverts to increased scrutiny from LLM-assisted code review, the "Vulnpocalypse" security work which diverted senior developers, and the high architectural complexity of the database.</p><p>To address these issues, Eisentraut suggests that the project consider a formal "experimental" status for new features to allow them to mature within the main tree. Despite the removals, the PostgreSQL 19 release is expected to still feature key updates such as REPACK CONCURRENTLY, logical replication of sequences, and planner hinting.</p><hr/><small>13 Oct 2026, 15:44 UTC | #24170</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rust Lifetime Requirements Bypassed via Covariant Field Assignment</title>
-    <link href="https://github.com/rust-lang/rust/issues/164250" rel="alternate" />
-    <id>https://github.com/rust-lang/rust/issues/164250::v239</id>
-    <published>2026-10-13T10:28:00+00:00</published>
-    <updated>2026-10-13T10:28:00+00:00</updated>
-    <media:thumbnail url="https://www.javacodegeeks.com/wp-content/uploads/2026/01/αρχείο-λήψης-11-2.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/rust-lang/rust/issues/164250">github.com</a> | <a href="https://news.ycombinator.com/item?id=50069499">hacker news</a></small></p><hr/><p>A flaw in the Rust programming language allows developers to bypass struct lifetime requirements through covariant field assignment. This bug enables local references to be moved into global static collections, potentially triggering "use-after-scope" memory safety violations.</p><p>The issue affects current nightly and stable versions of Rust as far back as 1.85.0. Using AddressSanitizer, the vulnerability can be demonstrated by causing a program to access a stack frame after the original variable has been dropped.</p><p><img src="https://www.javacodegeeks.com/wp-content/uploads/2026/01/αρχείο-λήψης-11-2.png" /></p><hr/><small>13 Oct 2026, 13:21 UTC | #24150</small>]]></content>
-  </entry>
 </feed>
