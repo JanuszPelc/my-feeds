@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-18T01:24:00+00:00</updated>
+  <updated>2026-10-18T01:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>PwnEscape Vulnerability Enables Guest-to-Host KVM Escape</title>
+    <link href="https://pwn.ai/blog/pwnescape" rel="alternate" />
+    <id>https://pwn.ai/blog/pwnescape::v239</id>
+    <published>2026-10-18T01:27:00+00:00</published>
+    <updated>2026-10-18T01:27:00+00:00</updated>
+    <media:thumbnail url="https://api.pwn.ai/api/blog/images/01-boundary-45fb9e22899a.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://pwn.ai/blog/pwnescape">pwn.ai</a> | <a href="https://lobste.rs/s/np84oh/pwnescape_guest_host_kvm_escape_cve_2026">discussion</a> | <a href="https://news.ycombinator.com/item?id=50108845">hacker news</a></small></p><hr/><p>PWNAI Research has identified a critical Linux kernel vulnerability, tracked as CVE-2026-99999 and nicknamed "PwnEscape," that allows an untrusted guest virtual machine to escape its isolation and access host memory. The flaw resides in the Linux IPv4 networking stack rather than the hypervisor itself. By exploiting a time-of-check/time-of-use issue involving deferred checksum metadata, an attacker can manipulate IPv4 header lengths to cause the kernel to read or transmit data from host memory.</p><p>Discovered during Vercel's $1 million sandbox challenge, the vulnerability highlights how flaws in host operating system components can undermine hypervisor security. The exploit utilizes the sk_buff structure and checksum offloading to overwrite security-sensitive packet fields after they have been validated. This vulnerability affects various hypervisor environments using the Linux kernel and has prompted industry-wide disclosure and patching efforts.</p><p><img src="https://api.pwn.ai/api/blog/images/01-boundary-45fb9e22899a.png" /></p><hr/><small>18 Oct 2026, 05:23 UTC | #24635</small>]]></content>
+  </entry>
   <entry>
     <title>Oxide's omdb Debugger Provides Granular Observability for DNS Propagation</title>
     <link href="https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/" rel="alternate" />
