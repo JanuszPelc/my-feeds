@@ -3,9 +3,17 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-18T03:04:00+00:00</updated>
+  <updated>2026-10-18T03:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Creating Hybrid Images with Fourier Analysis</title>
+    <link href="https://www.jeremykun.com/2014/09/29/hybrid-images/" rel="alternate" />
+    <id>https://www.jeremykun.com/2014/09/29/hybrid-images/::v239</id>
+    <published>2026-10-18T03:14:00+00:00</published>
+    <updated>2026-10-18T03:14:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.jeremykun.com/2014/09/29/hybrid-images/">jeremykun.com</a> | <a href="https://jeremykun.wordpress.com/2014/09/29/hybrid-images/">source</a> | <a href="https://lobste.rs/s/16tsvr/making_hybrid_images_2014">discussion</a></small></p><hr/><p>Hybrid images are visual illusions that display different subjects depending on the viewer's distance. This effect relies on the interplay between high-frequency details, which are discernible at close range, and low-frequency information, which becomes the dominant visual when viewed from afar.</p><p>The article explains how to create these images using Fourier analysis and the Fast Fourier Transform (FFT). By applying low-pass and high-pass filters to the frequency spectrum of two different images, one can blend them to create a single composite image that appears to transform as the observer moves.</p><hr/><small>18 Oct 2026, 08:42 UTC | #24645</small>]]></content>
+  </entry>
   <entry>
     <title>The Brain Sandwich Framework for AI-Assisted Coding</title>
     <link href="https://terriblesoftware.org/2026/10/02/the-brain-sandwich/" rel="alternate" />
