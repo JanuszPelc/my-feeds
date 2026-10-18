@@ -979,12 +979,4 @@
     <media:thumbnail url="https://www.javacodegeeks.com/wp-content/uploads/2026/01/αρχείο-λήψης-11-2.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/rust-lang/rust/issues/164250">github.com</a> | <a href="https://news.ycombinator.com/item?id=50069499">hacker news</a></small></p><hr/><p>A flaw in the Rust programming language allows developers to bypass struct lifetime requirements through covariant field assignment. This bug enables local references to be moved into global static collections, potentially triggering "use-after-scope" memory safety violations.</p><p>The issue affects current nightly and stable versions of Rust as far back as 1.85.0. Using AddressSanitizer, the vulnerability can be demonstrated by causing a program to access a stack frame after the original variable has been dropped.</p><p><img src="https://www.javacodegeeks.com/wp-content/uploads/2026/01/αρχείο-λήψης-11-2.png" /></p><hr/><small>13 Oct 2026, 13:21 UTC | #24150</small>]]></content>
   </entry>
-  <entry>
-    <title>Curl 8.23.0 to Feature Performance and Memory Optimizations</title>
-    <link href="https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/" rel="alternate" />
-    <id>https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/::v239</id>
-    <published>2026-10-13T06:27:00+00:00</published>
-    <updated>2026-10-13T06:27:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/d9rpcl/slightly_faster_slimmer_curl">discussion</a></small></p><hr/><p>Curl 8.23.0, scheduled for release on October 14, 2026, will feature significant performance improvements for encoding and decoding tasks. Key updates include faster Base64 and URL encoding/decoding, improved date parsing, and optimized URL and number parsing.</p><p>Internal handle structures will be reduced in size to minimize memory overhead for concurrent transfers. The update will also incorporate more efficient printf() calls and fewer memory allocations to reduce peak memory usage during large file downloads.</p><hr/><small>13 Oct 2026, 12:36 UTC | #24147</small>]]></content>
-  </entry>
 </feed>
