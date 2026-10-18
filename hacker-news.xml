@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-18T14:37:00+00:00</updated>
+  <updated>2026-10-18T15:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>OpenGL Contexts Fail to Render in macOS 15.8.2 Release Candidate</title>
+    <link href="https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550" rel="alternate" />
+    <id>https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550::v240</id>
+    <published>2026-10-18T15:27:00+00:00</published>
+    <updated>2026-10-18T15:27:00+00:00</updated>
+    <media:thumbnail url="https://developer.apple.com/forums/content/attachment/f6b38361-b8ca-4d99-99a8-373cf4c0277b" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550">developer.apple.com</a> | <a href="https://developer.apple.com/forums/thread/850550">source</a> | <a href="https://news.ycombinator.com/item?id=50141909">hacker news</a></small></p><hr/><p>macOS 15.8.2 release candidate (build 24H219) causes OpenGL contexts to lack a default framebuffer when attached to windows. This affects NSOpenGLView and NSOpenGLContext setView:, resulting in blank windows during rendering.</p><p>The regression was reported by developers on the Apple Developer Forums following updates to M1 Pro hardware. The bug impacts applications utilizing legacy OpenGL APIs rather than Apple's Metal framework.</p><p><img src="https://developer.apple.com/forums/content/attachment/f6b38361-b8ca-4d99-99a8-373cf4c0277b" /></p><hr/><small>18 Oct 2026, 18:57 UTC | #24673</small>]]></content>
+  </entry>
   <entry>
     <title>Ranet3 High-Performance IPsec Mesh SD-WAN</title>
     <link href="https://ranet3.com/" rel="alternate" />
@@ -948,14 +957,5 @@
     <updated>2026-10-13T20:43:00+00:00</updated>
     <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F1e2a750dba61db4a76b72eec5b0cf50b8a7f878c-3840x2160.png&amp;w=3840&amp;q=75" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/engineering/redesigning-source-control">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50073633">hacker news</a></small></p><hr/><p>Anthropic has migrated its monorepo from Git to a custom-built version control system called Scion. The transition was driven by a massive surge in code production—with daily merges rising from 2,500 in May 2026 to over 30,000 by September 2026—as Claude's autonomous coding capabilities significantly accelerated development cycles.</p><p>Designed for "agent-scale" automation, Scion utilizes a centralized, client-server architecture that moves away from Git's decentralized, offline-capable model. The system employs a horizontally scalable "changeset" data structure and provides a programmatic API for metadata and diffing, allowing CI and research jobs to perform operations via sparse or virtualized checkouts without the overhead of full local repository clones. This architecture has reduced Scion's infrastructure footprint by 200x compared to the company's previous Git-based mirroring.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F1e2a750dba61db4a76b72eec5b0cf50b8a7f878c-3840x2160.png&w=3840&q=75" /></p><hr/><small>14 Oct 2026, 02:20 UTC | #24194</small>]]></content>
-  </entry>
-  <entry>
-    <title>ESP32 as a Linux Wireless Co-processor via esp-hosted</title>
-    <link href="https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/" rel="alternate" />
-    <id>https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/::v239</id>
-    <published>2026-10-13T18:42:00+00:00</published>
-    <updated>2026-10-13T18:42:00+00:00</updated>
-    <media:thumbnail url="https://hackaday.com/wp-content/uploads/2026/09/hadimg_esphosted_1.png?w=800" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://hackaday.com/2026/10/07/esp32-as-your-raspberry-pis-linux-wireless-co-processor/">hackaday.com</a> | <a href="https://lobste.rs/s/x1ucie/esp32_as_your_raspberry_pi_s_linux">discussion</a></small></p><hr/><p>The `esp-hosted` framework enables these microcontrollers to function as WiFi and Bluetooth co-processors for Linux-based single-board computers (SBCs) via SDIO or SPI. The `esp-hosted-linux` implementation acts as a proxy for the Linux wireless stack, allowing the host system to treat the module as a native wireless interface.</p><p>Utilizing widely available Espressif hardware provides an alternative to proprietary or poorly supported wireless drivers on SBCs. This implementation also supports hardware power management and offers potential for integrating additional communication protocols, such as LoRa or Zigbee, through the same interface.</p><p><img src="https://hackaday.com/wp-content/uploads/2026/09/hadimg_esphosted_1.png?w=800" /></p><hr/><small>14 Oct 2026, 01:27 UTC | #24220</small>]]></content>
   </entry>
 </feed>
