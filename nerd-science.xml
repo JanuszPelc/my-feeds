@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-18T10:44:00+00:00</updated>
+  <updated>2026-10-18T16:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>AI Coding Agents and the Changing Nature of Programming</title>
+    <link href="https://dumbmatter.com/2026/10/programming-obituary/" rel="alternate" />
+    <id>https://dumbmatter.com/2026/10/programming-obituary/::v240</id>
+    <published>2026-10-18T16:45:00+00:00</published>
+    <updated>2026-10-18T16:45:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5612AQEUmq6xl0JWSA/article-cover_image-shrink_720_1280/B56Zx.Sm8qHsAI-/0/1771645347132?e=2147483647&amp;v=beta&amp;t=KHvtQqdOOK0EvKxlqjyMVYBmH4UeZOlwDcmsILPu640" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dumbmatter.com/2026/10/programming-obituary/">dumbmatter.com</a> | <a href="https://lobste.rs/s/wtobpt/my_obituary_for_programming">discussion</a></small></p><hr/><p>AI coding agents are increasingly capable of automating debugging, optimization, and refactoring, fundamentally altering the landscape of software development. Although these tools offer immense efficiency and facilitate rapid technical accomplishments, they also threaten the intellectual satisfaction and sense of mastery inherent in traditional programming.</p><p>The emergence of "vibecoding" presents a shift toward achieving complex results with minimal effort, raising questions about the value of human understanding. This transition highlights a tension between the ease of AI-driven development and the potential obsolescence of the programmer as a skilled craftsman.</p><p><img src="https://media.licdn.com/dms/image/v2/D5612AQEUmq6xl0JWSA/article-cover_image-shrink_720_1280/B56Zx.Sm8qHsAI-/0/1771645347132?e=2147483647&v=beta&t=KHvtQqdOOK0EvKxlqjyMVYBmH4UeZOlwDcmsILPu640" /></p><hr/><small>18 Oct 2026, 19:54 UTC | #24674</small>]]></content>
+  </entry>
   <entry>
     <title>Gallup Research Finds U.S. Migration Desire at 20-Year Low</title>
     <link href="https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx" rel="alternate" />
