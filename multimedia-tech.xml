@@ -3,9 +3,17 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-16T11:22:00+00:00</updated>
+  <updated>2026-10-18T03:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Elizabeth Holmes Documentary 'You Can See Everything' Explores Psychological Manipulation</title>
+    <link href="https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything" rel="alternate" />
+    <id>https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything::v240</id>
+    <published>2026-10-18T03:24:00+00:00</published>
+    <updated>2026-10-18T03:24:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything">readtheprofile.com</a> | <a href="https://a24films.com/films/you-can-see-everything">source</a> | <a href="https://news.ycombinator.com/item?id=50137620">hacker news</a></small></p><hr/><p>The A24-distributed documentary *You Can See Everything*, directed by Lance Oppenheim and Nathan Fielder, follows Elizabeth Holmes in the weeks leading up to her prison sentence. Rather than a traditional true-crime retelling, the film utilizes specific cinematic techniques to manipulate the audience's emotional response and perception of Holmes in real time.</p><p>Through the strategic use of camera angles, editing, and narrative sequencing, the documentary demonstrates how easily viewers can be swayed by storytelling. The author argues that the film serves as a psychological study on how emotional impressions drive belief, forcing viewers to confront their own susceptibility to media framing.</p><hr/><small>18 Oct 2026, 14:39 UTC | #24652</small>]]></content>
+  </entry>
   <entry>
     <title>Creating 88x31 Animated Button Books with ImageMagick</title>
     <link href="https://k.sosnierz.me/08-11-24/" rel="alternate" />
