@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-19T03:27:00+00:00</updated>
+  <updated>2026-10-19T03:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>KillSwitch Esoteric Programming Language Designed to Challenge LLMs Released</title>
+    <link href="https://blog.picheta.me/post/killswitch-lang/" rel="alternate" />
+    <id>https://blog.picheta.me/post/killswitch-lang/::v240</id>
+    <published>2026-10-19T03:31:00+00:00</published>
+    <updated>2026-10-19T03:31:00+00:00</updated>
+    <media:thumbnail url="https://blog.picheta.me/_astro/killswitch-bench-chart.h4QIdnld_Z2TDxI.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.picheta.me/post/killswitch-lang/">blog.picheta.me</a> | <a href="https://killswitch-lang.org/">source</a> | <a href="https://news.ycombinator.com/item?id=50135762">hacker news</a></small></p><hr/><p>Dominik Picheta has developed KillSwitch, an esoteric programming language designed to be adversarial to large language models (LLMs) and coding agents. The language incorporates features meant to exploit LLM weaknesses, such as specifications containing intentional inaccuracies, identifier rules based on character counts, and syntax designed to trigger model safety guardrails.</p><p>Benchmarks of major LLM models show varying levels of success, with Claude Opus performing best and models like Gemini performing poorly due to sensitive safety filters. The project serves as an experiment to investigate whether LLM coding proficiency stems from true semantic understanding or simple pattern recognition from training data.</p><p><img src="https://blog.picheta.me/_astro/killswitch-bench-chart.h4QIdnld_Z2TDxI.webp" /></p><hr/><small>19 Oct 2026, 08:27 UTC | #24720</small>]]></content>
+  </entry>
   <entry>
     <title>macOS 27.0 Introduces New /pkg Directory and PATH Entry</title>
     <link href="https://anderegg.ca/2026/10/18/what-the-heck-is-pkg" rel="alternate" />
@@ -977,14 +986,5 @@
     <updated>2026-10-14T08:31:00+00:00</updated>
     <media:thumbnail url="https://fractalfir.github.io/images/gcc_bootstrap_process.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges">utcc.utoronto.ca</a> | <a href="https://lobste.rs/s/6vs8a0/compiler_bootstrapping_depends_on_more">discussion</a></small></p><hr/><p>Compiler bootstrapping, such as the transition of the Go toolchain from C to Go, relies on the ability of older compiler binaries to run on modern operating systems. While Linux's high degree of backward compatibility supports this sequence, changes in ABIs or system calls in other operating systems, such as OpenBSD, can break the chain by preventing intermediate compiler versions from executing.</p><p>The bootstrapping process also depends on the stability of external command-line interfaces for tools like linkers and assemblers. Changes in how these utilities process arguments can cause build failures in older toolchain versions. Consequently, maintaining the ability to build modern compilers from source often requires the ongoing maintenance of legacy toolchain branches to ensure compatibility with current system environments.</p><p><img src="https://fractalfir.github.io/images/gcc_bootstrap_process.png" /></p><hr/><small>14 Oct 2026, 14:16 UTC | #24273</small>]]></content>
-  </entry>
-  <entry>
-    <title>Iosevka Open-Source Typeface Family</title>
-    <link href="https://typeof.net/Iosevka/" rel="alternate" />
-    <id>https://typeof.net/Iosevka/::v239</id>
-    <published>2026-10-14T08:28:00+00:00</published>
-    <updated>2026-10-14T08:28:00+00:00</updated>
-    <media:thumbnail url="https://i.pinimg.com/736x/f1/35/af/f135af5a83af475b0738deccfa366085.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://typeof.net/Iosevka/">typeof.net</a> | <a href="https://news.ycombinator.com/item?id=50084240">hacker news</a></small></p><hr/><p>This typeface family is designed for programming, terminal use, and technical writing. It includes monospace, slab-serif, and quasi-proportional variants, with specialized "Term" and "Fixed" versions optimized for terminal compatibility.</p><p>The font is optimized for high density, featuring a default slender width of 1/2em to maximize screen real estate. It offers extensive customization through 146 configurable characters, 19 stylistic sets, and support for 248 languages, alongside advanced OpenType features such as long ligatures.</p><p><img src="https://i.pinimg.com/736x/f1/35/af/f135af5a83af475b0738deccfa366085.jpg" /></p><hr/><small>14 Oct 2026, 13:31 UTC | #24264</small>]]></content>
   </entry>
 </feed>
