@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-19T03:31:00+00:00</updated>
+  <updated>2026-10-19T07:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Linux Kernel 7.3 Released</title>
+    <link href="https://lwn.net/Articles/1101143/" rel="alternate" />
+    <id>https://lwn.net/Articles/1101143/::v240</id>
+    <published>2026-10-19T07:24:00+00:00</published>
+    <updated>2026-10-19T07:24:00+00:00</updated>
+    <media:thumbnail url="https://somoslibres.org/images/2024/02/29/linustorvald_restored.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lwn.net/Articles/1101143/">lwn.net</a> | <a href="https://www.kernel.org/releases.html">source</a> | <a href="https://news.ycombinator.com/item?id=50149392">hacker news</a></small></p><hr/><p>Linus Torvalds has released Linux kernel 7.3, a record-breaking version that incorporates 18,765 non-merge commits from 3,021 developers. This release included 807 first-time contributors to the kernel.</p><p>Key improvements include the introduction of the failfs filesystem, the `fchroot()` system call, and group-scheduling optimizations for large-scale systems. The update also brings working-set tracking for virtual machines, alternative data-stream support to the `ntfs3` filesystem, and the completion of the `sched_ext` subscheduler feature.</p><p><img src="https://somoslibres.org/images/2024/02/29/linustorvald_restored.webp" /></p><hr/><small>19 Oct 2026, 10:18 UTC | #24724</small>]]></content>
+  </entry>
+  <entry>
+    <title>Programming Language Foundations in Agda</title>
+    <link href="https://plfa.github.io/" rel="alternate" />
+    <id>https://plfa.github.io/::v240</id>
+    <published>2026-10-19T06:13:00+00:00</published>
+    <updated>2026-10-19T06:13:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpN4a278YpuC22I6doN400A0LSTWRnn1pMTu2aWVH7fvW87tR68bVzyZ1mYjzvcErmFBkx30kJw8rGCZYX1v0sBosEuIG8qIZqkv896Wi8H7V8KQq5VIpZtITQO5d8NkRJQKbv/w1200-h630-p-k-no-nu/plfa.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://plfa.github.io/">plfa.github.io</a> | <a href="https://lobste.rs/s/dtwbpu/programming_language_fundamentals_agda">discussion</a></small></p><hr/><p>Programming Language Foundations in Agda is an introductory textbook that teaches programming language theory using the Agda proof assistant. The curriculum covers logical foundations, lambda calculus, and denotational semantics.</p><p>The text is utilized in numerous university courses and has led to derivative implementations in the Arend and Lean 4 programming languages. The website provides access to all chapters, source code repositories, and supplementary materials.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpN4a278YpuC22I6doN400A0LSTWRnn1pMTu2aWVH7fvW87tR68bVzyZ1mYjzvcErmFBkx30kJw8rGCZYX1v0sBosEuIG8qIZqkv896Wi8H7V8KQq5VIpZtITQO5d8NkRJQKbv/w1200-h630-p-k-no-nu/plfa.png" /></p><hr/><small>19 Oct 2026, 10:14 UTC | #24725</small>]]></content>
+  </entry>
   <entry>
     <title>KillSwitch Esoteric Programming Language Designed to Challenge LLMs Released</title>
     <link href="https://blog.picheta.me/post/killswitch-lang/" rel="alternate" />
