@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-18T23:55:00+00:00</updated>
+  <updated>2026-10-19T17:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>StarCraft: Ashfall Browser-Based Fan Shooter</title>
+    <link href="https://starcraft-shooter-2026.pages.dev/" rel="alternate" />
+    <id>https://starcraft-shooter-2026.pages.dev/::v240</id>
+    <published>2026-10-19T17:05:00+00:00</published>
+    <updated>2026-10-19T17:05:00+00:00</updated>
+    <media:thumbnail url="https://comicbook.com/wp-content/uploads/sites/4/2025/12/StarCraft_962539.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://starcraft-shooter-2026.pages.dev/">starcraft-shooter-2026.pages.dev</a> | <a href="https://news.ycombinator.com/item?id=50147233">hacker news</a></small></p><hr/><p>Players command Terran units, including Marines, Firebats, and Siege Tanks, to defend strategic positions like the Ashfall Bridge against the Zerg swarm. This free, fan-made project is playable directly through web browsers and mobile devices.</p><p>Designed for vertical mobile play, the shooter has attracted attention on platforms like Hacker News for its browser-native accessibility. The game provides a lightweight combat experience without requiring a dedicated game client installation.</p><p><img src="https://comicbook.com/wp-content/uploads/sites/4/2025/12/StarCraft_962539.jpg" /></p><hr/><small>19 Oct 2026, 22:19 UTC | #24815</small>]]></content>
+  </entry>
   <entry>
     <title>Legend of Hyrule Visualizes Official Zelda Timeline</title>
     <link href="https://legendofhyrule.com/" rel="alternate" />
@@ -75,14 +84,5 @@
     <published>2026-10-15T13:28:00+00:00</published>
     <updated>2026-10-15T13:28:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://decomp.dev/">decomp.dev</a> | <a href="https://lobste.rs/s/kaerns/sunsetting_decomp_dev">discussion</a> | <a href="https://news.ycombinator.com/item?id=50097177">hacker news</a></small></p><hr/><p>decomp.dev, a platform launched in 2024 to track matching decompilation progress, is disabling its main index and the ability to add new projects. While the site will continue to host historical data and individual project pages, it will no longer serve as a centralized aggregator or public leaderboard for active efforts.</p><p>The decision stems from the impact of advanced AI models on the decompilation community. The site's creator, @encounter, cites the rise of low-effort, hostile forks of existing projects and the "racing" of unrefined ports by actors utilizing AI as primary drivers. These trends have reportedly led to a conflation of research-focused decompilation with superficial game porting, which the developer argues undermines the community's focus on understanding original source code.</p><hr/><small>15 Oct 2026, 16:51 UTC | #24415</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ubisoft to Close RedLynx Studio and Downsize Ubisoft Singapore</title>
-    <link href="https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore" rel="alternate" />
-    <id>https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore::v239</id>
-    <published>2026-10-14T22:09:00+00:00</published>
-    <updated>2026-10-14T22:09:00+00:00</updated>
-    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt31faab583a5d567e/6ad00247cc053f53500cdd3b/ss_6f8618deb72b344e1aad81c67423cd8ce7bd97ee.1920x1080.jpg?width=720&amp;quality=80&amp;disable=upscale" />
-    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore">gamedeveloper.com</a></small></p><hr/><p>Over 100 jobs will be lost due to the planned closure of Finnish developer RedLynx and staff reductions at Ubisoft Singapore. The Singapore studio is being downsized to align with upcoming production needs, while RedLynx's closure remains subject to Finnish labor negotiations.</p><p>These moves are part of a shift toward a "creative houses" model designed to increase organizational agility and reclaim creative leadership. This reorganization follows several recent rounds of layoffs and studio closures at Ubisoft branches in San Francisco, Toronto, and Belgrade.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt31faab583a5d567e/6ad00247cc053f53500cdd3b/ss_6f8618deb72b344e1aad81c67423cd8ce7bd97ee.1920x1080.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>15 Oct 2026, 03:13 UTC | #24328</small>]]></content>
   </entry>
 </feed>

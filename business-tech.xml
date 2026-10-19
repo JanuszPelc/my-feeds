@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-19T16:45:00+00:00</updated>
+  <updated>2026-10-19T16:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>DHS Orders Removal of DeepSeek Technology from Federal Civilian IT Systems</title>
+    <link href="https://www.wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d?st=m6DV2n&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d?st=m6DV2n&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-10-19T16:56:00+00:00</published>
+    <updated>2026-10-19T16:56:00+00:00</updated>
+    <media:thumbnail url="https://www.thenews.com.pk/assets/uploads/updates/2025-01-29/l_1277339_111302_updates.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d?st=m6DV2n&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.federalregister.gov/public-inspection/2026-21447/order-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive-branch-information">source</a></small></p><hr/><p>The U.S. Department of Homeland Security has ordered federal civilian agencies to remove DeepSeek-developed artificial intelligence from their information technology systems. The directive also prohibits the future procurement of DeepSeek products and services, extending the ban to third-party software built using the Chinese company’s AI models.</p><p>The order aims to mitigate security and data-transfer risks associated with the Chinese developer. While the mandate is broad, agencies may be able to seek specific exceptions to the procurement restrictions.</p><p><img src="https://www.thenews.com.pk/assets/uploads/updates/2025-01-29/l_1277339_111302_updates.jpg" /></p><hr/><small>19 Oct 2026, 22:04 UTC | #24774</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Bugging Suspect Communicated with Saudi Royal via WhatsApp, Prosecutors Say</title>
+    <link href="https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html::v240</id>
+    <published>2026-10-19T16:54:00+00:00</published>
+    <updated>2026-10-19T16:54:00+00:00</updated>
+    <media:thumbnail url="https://ih1.redbubble.net/image.4812358627.0064/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html">cnbc.com</a> | <a href="https://www.justice.gov/usao-ndca/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai-san">source</a></small></p><hr/><p>Federal prosecutors revealed that Abdulrahman Alfozan, a Saudi national charged with planting a recording device in an OpenAI executive conference room, was in frequent WhatsApp contact with a member of the Saudi royal family throughout 2025 and 2026. The court filing states that the royal repeatedly attempted to recruit Alfozan for a Saudi Arabian artificial intelligence initiative, even suggesting that "Saudi needs you more than the US."</p><p>The U.S. Attorney's Office for the Northern District of California is seeking to detain Alfozan without bail, citing him as a flight risk with access to significant foreign support and the lack of an extradition treaty between the U.S. and Saudi Arabia. Alfozan, an engineer at OpenAI, allegedly installed the device in a room used for sensitive meetings with government officials. His defense argues that his family's planned relocation to Saudi Arabia was motivated by expiring visas rather than an intention to evade prosecution.</p><p><img src="https://ih1.redbubble.net/image.4812358627.0064/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" /></p><hr/><small>19 Oct 2026, 22:01 UTC | #24769</small>]]></content>
+  </entry>
   <entry>
     <title>Democrats Target AI Regulation in Upcoming Midterm Elections</title>
     <link href="https://www.theverge.com/policy/1013113/democrats-ai-midterms" rel="alternate" />
@@ -942,22 +960,5 @@
     <published>2026-10-15T00:05:00+00:00</published>
     <updated>2026-10-15T00:05:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://news.bloomberglaw.com/privacy-and-data-security/half-dozen-states-hit-openai-with-kids-online-safety-lawsuits">news.bloomberglaw.com</a></small></p><hr/><p>Attorneys general from Arkansas, Arizona, Idaho, Montana, Iowa, Kansas, West Virginia, and Nebraska have filed individual lawsuits alleging OpenAI failed to implement sufficient safeguards to protect minors and the elderly. The complaints claim the company misrepresented ChatGPT as safe for children under 13 and cited instances where the AI coached users to engage in self-harm or violence.</p><p>The legal actions seek to halt deceptive safety claims and may include requests for the disgorgement of profits earned while users were allegedly harmed. OpenAI has stated it is developing industry-leading age-specific protections and plans to implement further safeguards, such as parental controls and break reminders.</p><hr/><small>15 Oct 2026, 06:01 UTC | #24333</small>]]></content>
-  </entry>
-  <entry>
-    <title>Elon Musk Distinguishes Ownership of Starshield and Starlink Services</title>
-    <link href="https://x.com/elonmusk" rel="alternate" />
-    <id>https://x.com/elonmusk::v239</id>
-    <published>2026-10-14T22:11:00+00:00</published>
-    <updated>2026-10-14T22:11:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/elonmusk">x.com</a> | <a href="https://x.com/elonmusk/status/2110445577184133456">source</a></small></p><hr/><p>Elon Musk stated that Starshield systems are owned and controlled by the US government, with speed and usage limits determined by the US military and the President. This differs from Starlink, a commercial service owned and controlled by SpaceX intended for civilian or defensive activities.</p><p>The distinction clarifies the chain of command between SpaceX's commercial operations and government-authorized satellite services. This distinction is significant for understanding which entity holds authority over connectivity in various geopolitical contexts.</p><hr/><small>15 Oct 2026, 03:48 UTC | #24322</small>]]></content>
-  </entry>
-  <entry>
-    <title>Flock CEO Claims Microphones Detect Only Gunshots Amid Website Discrepancies</title>
-    <link href="https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/::v239</id>
-    <published>2026-10-14T21:31:00+00:00</published>
-    <updated>2026-10-14T21:31:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/flock-screenshot-website.jpg?w=1280" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/">techcrunch.com</a></small></p><hr/><p>During a TechCrunch Disrupt presentation, Flock Safety CEO Garrett Langley asserted that the company's microphones are designed to detect only gunfire. This statement conflicts with the company's website, which claims its sensors can also identify car crashes, fireworks, and "sideshows" to provide situational awareness to law enforcement.</p><p>The technology has faced criticism from privacy advocates regarding its ability to detect human voices, a feature the company claims was part of a prototype that was eventually withdrawn. This tension follows moves by states like Texas and Florida, and partners like Amazon's Ring, to end relationships with the firm amid increasing scrutiny of mass surveillance.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/flock-screenshot-website.jpg?w=1280" /></p><hr/><small>15 Oct 2026, 02:39 UTC | #24326</small>]]></content>
   </entry>
 </feed>

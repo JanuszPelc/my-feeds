@@ -3,9 +3,45 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-19T16:40:00+00:00</updated>
+  <updated>2026-10-19T17:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>AI Agents and GitHub Projects Used to Debloat Smart TVs</title>
+    <link href="https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/::v240</id>
+    <published>2026-10-19T17:00:00+00:00</published>
+    <updated>2026-10-19T17:00:00+00:00</updated>
+    <media:thumbnail url="https://elroy.twit.tv/sites/default/files/images/episodes/2017/04/448541/hero/twitbit_sn0606_tv_hacking.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/">techcrunch.com</a></small></p><hr/><p>Developers and consumers are employing AI agents alongside open-source tools to strip advertising, tracking, and unnecessary bloatware from smart TV interfaces. These methods, including projects like "dumbtv" and "cleanyourtv," aim to improve device performance and privacy by replacing manufacturer launchers with streamlined alternatives.</p><p>Users are leveraging "vibe-coding" techniques to make hardware customization more accessible, a trend that could disrupt the smart TV advertising industry and its reliance on Automatic Content Recognition (ACR) data. While many report faster, cleaner interfaces, some users have warned that AI-driven hacking attempts can lead to system errors or even bricked devices.</p><p><img src="https://elroy.twit.tv/sites/default/files/images/episodes/2017/04/448541/hero/twitbit_sn0606_tv_hacking.jpg" /></p><hr/><small>19 Oct 2026, 22:11 UTC | #24783</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nvidia Launches Nemotron 3.5 Super VL and Bolt Open-Weight AI Models</title>
+    <link href="https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/::v240</id>
+    <published>2026-10-19T16:57:00+00:00</published>
+    <updated>2026-10-19T16:57:00+00:00</updated>
+    <media:thumbnail url="https://asset.redpandaai.co/x-signal/nemotron-3-5-super-vl-release-what-is/evidence-2110818756653932707-aty43i.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/">techcrunch.com</a> | <a href="https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/">source</a></small></p><hr/><p>Nvidia has released a new suite of open-weight AI models, including the 120-billion-parameter Nemotron 3.5 Super VL and two lightweight "Bolt" models. The Super VL model is designed for enterprise-scale "always-on" agents, while the Bolt models are optimized to run locally on AI-powered PCs and workstations.</p><p>The Super VL model aims to compete with proprietary models from OpenAI and Anthropic by providing high accuracy in instruction-following and tool-use for specialized tasks such as financial accounting and document intelligence. To address privacy and latency concerns, the smaller Bolt models facilitate local execution on consumer and professional hardware, allowing users to run AI agents without sending workloads to the cloud.</p><p><img src="https://asset.redpandaai.co/x-signal/nemotron-3-5-super-vl-release-what-is/evidence-2110818756653932707-aty43i.png" /></p><hr/><small>19 Oct 2026, 22:07 UTC | #24777</small>]]></content>
+  </entry>
+  <entry>
+    <title>Anthropic Developing Model to Improve Intent Recognition</title>
+    <link href="https://www.theinformation.com/articles/anthropic-readies-model-reads-users-intentions-better" rel="alternate" />
+    <id>https://www.theinformation.com/articles/anthropic-readies-model-reads-users-intentions-better::v240</id>
+    <published>2026-10-19T16:53:00+00:00</published>
+    <updated>2026-10-19T16:53:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*n99gvtuTas3DSG_i9nPpqw.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/anthropic-readies-model-reads-users-intentions-better">theinformation.com</a></small></p><hr/><p>Anthropic is developing a new AI model with reasoning and intuition capabilities intended to exceed those of its current commercial models. The unreleased system focuses on intent recognition, aiming to discern a user's underlying goals even when they are not explicitly stated in the prompt.</p><p>This development comes amid a period of rapid model releases from major competitors like OpenAI and Google. By enhancing the model's ability to interpret implicit context and "think outside the box," Anthropic seeks to improve performance on complex and nuanced reasoning tasks.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*n99gvtuTas3DSG_i9nPpqw.png" /></p><hr/><small>19 Oct 2026, 22:00 UTC | #24768</small>]]></content>
+  </entry>
+  <entry>
+    <title>Microsoft Introduces AI Agent Security Monitoring in Microsoft 365 E7</title>
+    <link href="https://www.geekwire.com/2026/microsoft-unveils-tools-to-monitor-and-corral-rogue-ai-agents/" rel="alternate" />
+    <id>https://www.geekwire.com/2026/microsoft-unveils-tools-to-monitor-and-corral-rogue-ai-agents/::v240</id>
+    <published>2026-10-19T16:52:00+00:00</published>
+    <updated>2026-10-19T16:52:00+00:00</updated>
+    <media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/10/20190506_Microsoft_Build_281-1260x900.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.geekwire.com/2026/microsoft-unveils-tools-to-monitor-and-corral-rogue-ai-agents/">geekwire.com</a> | <a href="https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/">source</a></small></p><hr/><p>Microsoft is introducing new security features within Microsoft 365 E7 and Project Perception to monitor and manage autonomous AI agents. The system treats agents as potential insider threats, using continuous risk assessments to restrict access, require human intervention, or shut down agents if they deviate from assigned tasks.</p><p>The update expands detection to 60 agent types, including Anthropic’s Claude Code and OpenAI’s Codex, and introduces "Guardian Agents" to investigate and contain security risks. These features are currently in private preview, with broader availability expected during the Microsoft Ignite conference in November.</p><p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/10/20190506_Microsoft_Build_281-1260x900.jpg" /></p><hr/><small>19 Oct 2026, 21:58 UTC | #24767</small>]]></content>
+  </entry>
   <entry>
     <title>doubleAI Launches Code Execution Model to Optimize GPU and CPU Performance</title>
     <link href="https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215?st=Xj19EK&amp;reflink=desktopwebshare_permalink" rel="alternate" />
@@ -344,22 +380,5 @@
     <published>2026-10-15T00:01:00+00:00</published>
     <updated>2026-10-15T00:01:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/">techcrunch.com</a> | <a href="https://www.prnewswire.com/news-releases/gudea-closes-oversubscribed-7-million-seed-round-to-scale-ai-powered-narrative-intelligence-302903335.html">source</a></small></p><hr/><p>The platform monitors how stories and rumors travel across more than 500 mainstream and fringe platforms, including X, Reddit, and TikTok. Rather than simply tallying mentions or hashtags, the tool analyzes behavioral patterns and information pathways to provide context on narrative velocity and direction.</p><p>The startup, which recently secured $7 million in seed funding, aims to help organizations proactively identify inauthentic activity and protect brand reputations. Future development plans include geolocation features for identifying narrative origins at the city-block level and simulation tools to predict the impact of advertising campaigns.</p><hr/><small>15 Oct 2026, 05:04 UTC | #24336</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple to Launch Apple Intelligence in China in December</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjAwNzY0NCwiZXhwIjoxNzkyNjEyNDQ0LCJhcnRpY2xlSWQiOiJUTUdBOFFUOU5KTFowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.HDROoS_DNRHYtwQWhsk6q7q63Zk5pbbEc2DTPtAyjzI" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjAwNzY0NCwiZXhwIjoxNzkyNjEyNDQ0LCJhcnRpY2xlSWQiOiJUTUdBOFFUOU5KTFowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.HDROoS_DNRHYtwQWhsk6q7q63Zk5pbbEc2DTPtAyjzI::v239</id>
-    <published>2026-10-14T21:32:00+00:00</published>
-    <updated>2026-10-14T21:32:00+00:00</updated>
-    <media:thumbnail url="https://www.digitaltrends.com/tachyon/2026/03/apple-intelligence.jpg?resize=430,258" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjAwNzY0NCwiZXhwIjoxNzkyNjEyNDQ0LCJhcnRpY2xlSWQiOiJUTUdBOFFUOU5KTFowMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.HDROoS_DNRHYtwQWhsk6q7q63Zk5pbbEc2DTPtAyjzI">bloomberg.com</a></small></p><hr/><p>Apple plans to debut its Apple Intelligence platform in mainland China this December through an iOS 27.3 update. This release follows a period of regulatory delays in the region regarding generative AI technologies.</p><p>The upcoming rollout is expected to include several AI features but will reportedly exclude Siri AI capabilities.</p><p><img src="https://www.digitaltrends.com/tachyon/2026/03/apple-intelligence.jpg?resize=430,258" /></p><hr/><small>15 Oct 2026, 03:11 UTC | #24318</small>]]></content>
-  </entry>
-  <entry>
-    <title>xAI Announces Grok Voice 3.0 Speech-to-Speech Model</title>
-    <link href="https://x.ai/news/grok-voice-3" rel="alternate" />
-    <id>https://x.ai/news/grok-voice-3::v239</id>
-    <published>2026-10-14T21:04:00+00:00</published>
-    <updated>2026-10-14T21:04:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.ai/news/grok-voice-3">x.ai</a> | <a href="https://news.ycombinator.com/item?id=50090731">hacker news</a></small></p><hr/><p>The new speech-to-speech model features sub-one-second latency and ranks first on Artificial Analysis's Speech-to-Speech Index. It is available through the Voice Agent API at $0.08 per minute, the same pricing as its predecessor.</p><p>The technology is currently used for millions of daily conversations in Tesla vehicles and manages 20,000 daily customer calls for Starlink. It also achieved a 74% accuracy score on ServiceNow's EVA-Bench for enterprise voice agents.</p><hr/><small>15 Oct 2026, 02:37 UTC | #24315</small>]]></content>
   </entry>
 </feed>
