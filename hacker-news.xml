@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-19T07:38:00+00:00</updated>
+  <updated>2026-10-19T08:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Tor Project Discusses Tor VPN Beta Development for Android</title>
+    <link href="https://blog.torproject.org/tor-vpn-beta/" rel="alternate" />
+    <id>https://blog.torproject.org/tor-vpn-beta/::v240</id>
+    <published>2026-10-19T08:28:00+00:00</published>
+    <updated>2026-10-19T08:28:00+00:00</updated>
+    <media:thumbnail url="https://blog.torproject.org/tor-vpn-beta/per-app-routing.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.torproject.org/tor-vpn-beta/">blog.torproject.org</a> | <a href="https://lobste.rs/s/s3w7hd/tor_vpn_beta_what_we_ve_learned_building">discussion</a></small></p><hr/><p>The Tor Project is sharing lessons learned from the development and beta testing of Tor VPN Beta for Android. The app provides device-level protection by routing each mobile app through its own Tor circuit, a design intended to reduce cross-app tracking and extend Tor's privacy benefits beyond the web browser.</p><p>Testing has shown significant adoption in highly censored regions, such as Iran and Turkmenistan, leading developers to prioritize circumvention features like WebTunnel bridges. The tool is built on the Arti Rust-based implementation and is available through Google Play, F-Droid, and as an APK.</p><p><img src="https://blog.torproject.org/tor-vpn-beta/per-app-routing.png" /></p><hr/><small>19 Oct 2026, 12:55 UTC | #24750</small>]]></content>
+  </entry>
+  <entry>
+    <title>The Importance of Dropping Requirements in Software Design</title>
+    <link href="https://www.seangoedecke.com/what-requirements-dont-you-have/" rel="alternate" />
+    <id>https://www.seangoedecke.com/what-requirements-dont-you-have/::v240</id>
+    <published>2026-10-19T07:53:00+00:00</published>
+    <updated>2026-10-19T07:53:00+00:00</updated>
+    <media:thumbnail url="https://appstudio.visual-paradigm.com/wp-content/uploads/2026/06/img_6a34cc21669be.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.seangoedecke.com/what-requirements-dont-you-have/">seangoedecke.com</a> | <a href="https://lobste.rs/s/nuepys/what_requirements_don_t_you_have">discussion</a></small></p><hr/><p>Effective software design often requires identifying which requirements can be relaxed—such as strict consistency, speed, or complexity—to achieve elegance and scalability. By intentionally dropping certain constraints, systems like S3, SQLite, and StatsD achieve significant performance and operational advantages.</p><p>Determining which trade-offs are acceptable is a complex task requiring coordination between technical engineering and business product management. This process is increasingly challenged by AI coding agents, which tend to over-engineer solutions by introducing unnecessary complexity to address non-essential edge cases.</p><p><img src="https://appstudio.visual-paradigm.com/wp-content/uploads/2026/06/img_6a34cc21669be.png" /></p><hr/><small>19 Oct 2026, 12:52 UTC | #24749</small>]]></content>
+  </entry>
   <entry>
     <title>Self-Hosting an LLM Proxy for Observability and Control</title>
     <link href="https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/" rel="alternate" />
@@ -953,56 +971,5 @@
     <published>2026-10-14T15:16:00+00:00</published>
     <updated>2026-10-14T15:16:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://scotthelme.co.uk/passkeys-are-not-a-trap/">scotthelme.co.uk</a> | <a href="https://news.ycombinator.com/item?id=50088935">hacker news</a></small></p><hr/><p>Scott Helme refutes claims that passkeys pose a privacy threat through WebAuthn attestation. Most mainstream passkey implementations, such as Google Password Manager and iCloud Keychain, do not provide attestation data to websites. WebAuthn attestation identifies device models via AAGUIDs rather than monitoring operating systems, browser extensions, or software configurations.</p><p>Hardware security keys like YubiKeys actually rely on attestation, contrary to arguments that they allow users to bypass it. Passkeys provide critical protection against phishing through domain-binding, a security property that TOTP (Time-based One-Time Password) methods lack.</p><hr/><small>14 Oct 2026, 17:47 UTC | #24304</small>]]></content>
-  </entry>
-  <entry>
-    <title>Russian Bot Activity Remains Stable Despite Drone Strikes on Yandex Data Centers</title>
-    <link href="https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy" rel="alternate" />
-    <id>https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy::v239</id>
-    <published>2026-10-14T12:01:00+00:00</published>
-    <updated>2026-10-14T12:01:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy">theverge.com</a></small></p><hr/><p>Ukrainian drone strikes targeting Yandex data centers have not significantly diminished Russian disinformation or bot farm activity, despite claims from President Volodymyr Zelenskyy that the operations reduced online provocations. While the strikes appear to have impacted Yandex's web crawlers, monitoring data shows that bot traffic remains steady and interaction levels on certain Kremlin-aligned accounts have increased.</p><p>Reports indicating a decline in bot activity appear to rely on AI-generated charts. Additionally, state-sponsored accounts continue to circulate disinformation, including false claims regarding European Union sanctions, suggesting the strikes' impact is limited to web-crawling infrastructure rather than coordinated political operations.</p><hr/><small>14 Oct 2026, 17:44 UTC | #24246</small>]]></content>
-  </entry>
-  <entry>
-    <title>Christopher Phiri Explores the Concept of Recreational Programming</title>
-    <link href="https://www.cphiri.dev/presentations/recreational-programming" rel="alternate" />
-    <id>https://www.cphiri.dev/presentations/recreational-programming::v239</id>
-    <published>2026-10-14T11:47:00+00:00</published>
-    <updated>2026-10-14T11:47:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.cphiri.dev/presentations/recreational-programming">cphiri.dev</a> | <a href="https://news.ycombinator.com/item?id=50079865">hacker news</a></small></p><hr/><p>The article defines recreational programming as the practice of writing code for personal curiosity and joy, rather than for work, profit, or professional requirements. It outlines five distinct styles of recreational coding: Live Explorers who build in public, Deep Divers who investigate system internals, Creative Technologists who use code for art, Problem Solvers who address personal itches, and Language Explorers who test new syntax and paradigms.</p><p>This approach aims to prevent burnout by reconnecting developers with intrinsic motivation and fostering technical intuition through low-stakes experimentation. By prioritizing curiosity and the learning process over productivity and shipping software, the framework encourages maintaining long-term passion for the craft.</p><hr/><small>14 Oct 2026, 16:25 UTC | #24295</small>]]></content>
-  </entry>
-  <entry>
-    <title>Bru Enables SMS Messaging from Web Browsers via Android</title>
-    <link href="https://sverre.me/projects/bru/" rel="alternate" />
-    <id>https://sverre.me/projects/bru/::v239</id>
-    <published>2026-10-14T11:42:00+00:00</published>
-    <updated>2026-10-14T11:42:00+00:00</updated>
-    <media:thumbnail url="https://sverre.me/projects/bru/image.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sverre.me/projects/bru/">sverre.me</a> | <a href="https://lobste.rs/s/a0jmkh/bru_send_read_sms_from_browser">discussion</a></small></p><hr/><p>Bru is an Android application and web client that enables users to read and send SMS messages from a web browser using their phone as a gateway. The system establishes an end-to-end encrypted, peer-to-peer connection between devices and requires no user accounts or centralized backend for message storage.</p><p>The project utilizes the Iroh protocol, employing Rust and WebAssembly for the web client's communication logic. The architecture is designed for privacy and self-hostability, allowing users to configure their own relays for the connection.</p><p><img src="https://sverre.me/projects/bru/image.png" /></p><hr/><small>14 Oct 2026, 15:43 UTC | #24289</small>]]></content>
-  </entry>
-  <entry>
-    <title>Inaccuracies in glibc's initstate(3) Man Page</title>
-    <link href="https://sebsite.pw/w/20261014-initstate.html" rel="alternate" />
-    <id>https://sebsite.pw/w/20261014-initstate.html::v239</id>
-    <published>2026-10-14T11:37:00+00:00</published>
-    <updated>2026-10-14T11:37:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sebsite.pw/w/20261014-initstate.html">sebsite.pw</a> | <a href="https://lobste.rs/s/tsjuje/yet_another_place_where_linux_man_page_is">discussion</a></small></p><hr/><p>A technical error regarding glibc's initstate implementation has been corrected. While glibc was updated in 2013 to return NULL on error in compliance with POSIX requirements, the corresponding man page remains outdated. Furthermore, setting errno for initstate is a glibc extension, as the POSIX standard defines no error conditions for the function.</p><p>Implementation differences exist between C libraries; for example, musl adheres strictly to the POSIX standard by not setting errno and allowing segmentation faults on null pointers. These discrepancies highlight how Linux man pages can sometimes provide incomplete or inaccurate information regarding standard library behavior and extensions.</p><hr/><small>14 Oct 2026, 15:21 UTC | #24283</small>]]></content>
-  </entry>
-  <entry>
-    <title>2026 Maintainers Summit Explores LLM Impact and Kernel Development Policy</title>
-    <link href="https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/" rel="alternate" />
-    <id>https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/::v239</id>
-    <published>2026-10-14T11:33:00+00:00</published>
-    <updated>2026-10-14T11:33:00+00:00</updated>
-    <media:thumbnail url="https://static.lwn.net/images/conf/2026/lpc/ms-group-sm.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lwn.net/SubscriberLink/1099594/fba1c2268c3e2fb5/">lwn.net</a> | <a href="https://lobste.rs/s/fppgkl/2026_maintainers_summit">discussion</a></small></p><hr/><p>The 2026 Maintainers Summit in Prague focused on the influence of large language models (LLMs) on the Linux development community, automated patch review via Sashiko, and the increasing volume of security patches. The invitation-only gathering of kernel developers also addressed long-term leadership succession and the management of low-quality, high-volume code submissions.</p><p>Linus Torvalds suggested that the community should deprioritize contributions from non-experts who misuse LLMs, rather than blaming the technology itself. Other discussions centered on the implications of corporations maintaining private kernel forks and the ongoing struggle to manage the influx of automated or LLM-assisted patches.</p><p><img src="https://static.lwn.net/images/conf/2026/lpc/ms-group-sm.png" /></p><hr/><small>14 Oct 2026, 15:05 UTC | #24281</small>]]></content>
-  </entry>
-  <entry>
-    <title>KDE Releases Plasma 6.8 Desktop Environment</title>
-    <link href="https://kde.org/announcements/plasma/6/6.8.0/" rel="alternate" />
-    <id>https://kde.org/announcements/plasma/6/6.8.0/::v239</id>
-    <published>2026-10-14T11:31:00+00:00</published>
-    <updated>2026-10-14T11:31:00+00:00</updated>
-    <media:thumbnail url="https://kde.org/announcements/plasma/6/6.8.0/01-plasmontage.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kde.org/announcements/plasma/6/6.8.0/">kde.org</a> | <a href="https://lobste.rs/s/d1c8zn/plasma_6_8_released_kde_s_30th_birthday">discussion</a> | <a href="https://news.ycombinator.com/item?id=50084875">hacker news</a></small></p><hr/><p>KDE has released Plasma 6.8 to coincide with the 30th anniversary of the KDE community. The update marks a major transition to the Wayland display protocol by retiring the X11 login session, though XWayland remains available to maintain compatibility for legacy applications.</p><p>Notable features include the beta release of the Union theming system for styling both Qt Widgets and Qt Quick applications, a built-in "dwell clicker" accessibility tool, and advanced system monitoring with CPU affinity controls. Performance and graphics updates include NVIDIA triple buffering by default and expanded HDR and HLG support.</p><p><img src="https://kde.org/announcements/plasma/6/6.8.0/01-plasmontage.png" /></p><hr/><small>14 Oct 2026, 14:44 UTC | #24278</small>]]></content>
   </entry>
 </feed>
