@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-19T13:45:00+00:00</updated>
+  <updated>2026-10-19T13:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Arswerk Updates Harmonia EQ Plugin to Version 1.1.3</title>
+    <link href="https://bedroomproducersblog.com/2026/10/19/arswerk-harmonia-eq/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/19/arswerk-harmonia-eq/::v240</id>
+    <published>2026-10-19T13:48:00+00:00</published>
+    <updated>2026-10-19T13:48:00+00:00</updated>
+    <media:thumbnail url="https://bobbyowsinskiblog.com/wp-content/uploads/2024/07/Hornet-HarmoniQ-plugin.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/19/arswerk-harmonia-eq/">bedroomproducersblog.com</a> | <a href="https://arswerk.it/en/vst/harmonia/">source</a></small></p><hr/><p>Arswerk has updated Harmonia EQ to version 1.1.3. The dynamic and spectral equalizer allows tracks to respond to one another without the need for manual sidechain routing.</p><p>The plugin is priced at €79 and includes a seven-day trial with full feature access and export capabilities.</p><p><img src="https://bobbyowsinskiblog.com/wp-content/uploads/2024/07/Hornet-HarmoniQ-plugin.jpg" /></p><hr/><small>19 Oct 2026, 17:49 UTC | #24762</small>]]></content>
+  </entry>
   <entry>
     <title>SampleScience Releases Free Compact Acoustic Piano Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/10/19/samplescience-compact-piano/" rel="alternate" />

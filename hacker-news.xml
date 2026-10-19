@@ -991,22 +991,4 @@
     <media:thumbnail url="https://www.bleepstatic.com/content/hl-images/2026/10/12/GitLab.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/">bleepingcomputer.com</a> | <a href="https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/">source</a> | <a href="https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution">discussion</a></small></p><hr/><p>GitLab has identified a maximum-severity remote code execution (RCE) vulnerability, tracked as CVE-2026-97229, in its CI/CD Regular Expression Compiler. An integer overflow flaw allows unauthenticated attackers to execute arbitrary code on GitLab servers by providing a specially crafted regular expression within a project's pipeline configuration file.</p><p>The vulnerability affects GitLab Community and Enterprise Editions in versions 19.2 before 19.2.8, 19.3 before 19.3.4, and 19.4 before 19.4.2. While GitLab.com has already implemented the necessary patches, users of self-managed installations are urged to upgrade to the latest versions immediately to mitigate the risk.</p><p><img src="https://www.bleepstatic.com/content/hl-images/2026/10/12/GitLab.jpg" /></p><hr/><small>14 Oct 2026, 21:33 UTC | #24324</small>]]></content>
   </entry>
-  <entry>
-    <title>Self-Hosted Service Infrastructure and Hardware Configuration</title>
-    <link href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/" rel="alternate" />
-    <id>https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/::v239</id>
-    <published>2026-10-14T17:49:00+00:00</published>
-    <updated>2026-10-14T17:49:00+00:00</updated>
-    <media:thumbnail url="https://digitechbytes.com/wp-content/uploads/2025/11/private_media_server_setup_cmaju.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/">viceconsole.fyi</a> | <a href="https://lobste.rs/s/j4tlzg/what_i_self_host_aspirational_self">discussion</a></small></p><hr/><p>A Beelink Mini PC with an Intel N100 processor, 16 GB of RAM, and a 6 TB hard drive hosts a collection of personal services, including Jellyfin for media, Immich for photos, and Home Assistant for automation.</p><p>The setup favors native service execution over containerization to minimize resource overhead. Remote access is secured through VPNs rather than direct public internet exposure, and Caddy is used for local HTTPS.</p><p><img src="https://digitechbytes.com/wp-content/uploads/2025/11/private_media_server_setup_cmaju.jpg" /></p><hr/><small>14 Oct 2026, 19:35 UTC | #24313</small>]]></content>
-  </entry>
-  <entry>
-    <title>Factor 0.102 Released with Native ARM64 and RISC-V Support</title>
-    <link href="https://re.factorcode.org/2026/10/factor-0-102-now-available.html" rel="alternate" />
-    <id>https://re.factorcode.org/2026/10/factor-0-102-now-available.html::v239</id>
-    <published>2026-10-14T17:48:00+00:00</published>
-    <updated>2026-10-14T17:48:00+00:00</updated>
-    <media:thumbnail url="https://www.digitalcitizen.life/wp-content/uploads/2026/01/How-to-Find-Out-If-Your-Windows-11-PC-Uses-ARM64-or-x64.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://re.factorcode.org/2026/10/factor-0-102-now-available.html">re.factorcode.org</a> | <a href="https://lobste.rs/s/a4ljnh/factor_0_102_now_available">discussion</a></small></p><hr/><p>Factor 0.102 has been released, providing native ARM64 support for macOS, Linux, and Windows. The release also introduces 32-bit and 64-bit RISC-V Linux ports and sets GTK4 as the default UI backend for 64-bit Linux.</p><p>This update contains 1,068 commits, including experimental compiler optimizations, DirectWrite text rendering on Windows, and updated Unicode and timezone data. It also adds bindings for SQLite, Raylib, and Lua, along with improved process launching.</p><p><img src="https://www.digitalcitizen.life/wp-content/uploads/2026/01/How-to-Find-Out-If-Your-Windows-11-PC-Uses-ARM64-or-x64.jpg" /></p><hr/><small>14 Oct 2026, 19:32 UTC | #24312</small>]]></content>
-  </entry>
 </feed>
