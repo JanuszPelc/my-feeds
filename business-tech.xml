@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-19T13:43:00+00:00</updated>
+  <updated>2026-10-19T13:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic's Long-Term Benefit Trust Exercises Significant Governance Control</title>
+    <link href="https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-10-19T13:50:00+00:00</published>
+    <updated>2026-10-19T13:50:00+00:00</updated>
+    <media:thumbnail url="https://assets.beincrypto.com/img/mWKtOAG2gIN6i7VrsmhB47GdEvg=/smart/befb5f9e082648f4aff16820aa90ad38" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.anthropic.com/news/the-long-term-benefit-trust">source</a> | <a href="https://news.ycombinator.com/item?id=50151376">hacker news</a></small></p><hr/><p>The opaque, five-member body wields substantial influence over the company's governance and board composition. While the trustees hold no equity, they possess the authority to shape the board of directors and block major corporate actions.</p><p>The trust is composed of experts in AI safety, national security, public policy, and social enterprise. By holding Class T Common Stock, the trustees maintain significant governance power despite having negligible economic interest, a structure intended to ensure the responsible development of AI.</p><p><img src="https://assets.beincrypto.com/img/mWKtOAG2gIN6i7VrsmhB47GdEvg=/smart/befb5f9e082648f4aff16820aa90ad38" /></p><hr/><small>19 Oct 2026, 18:05 UTC | #24748</small>]]></content>
+  </entry>
   <entry>
     <title>Pew Research Center Reports Closing Gender Gap in AI Chatbot Use</title>
     <link href="https://www.pewresearch.org/short-reads/2026/10/16/the-gender-gap-in-ai/" rel="alternate" />
@@ -947,31 +956,5 @@
     <updated>2026-10-14T19:35:00+00:00</updated>
     <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2022/12/starlink-antenna.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/">dpa-international.com</a> | <a href="https://news.ycombinator.com/item?id=50092730">hacker news</a></small></p><hr/><p>Bulgarian authorities have detained two men holding German passports in connection with a suspected act of sabotage at a Starlink satellite internet facility near Sofia. The attack, which occurred on October 9, resulted in the fire-related destruction of 11 out of 17 antennas at the site.</p><p>The facility provides communication links used in the defense of Ukraine against the Russian invasion. Investigators are examining whether the suspects are part of a larger sabotage network, following a similar arson attack on Starlink infrastructure in Poland in late September.</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2022/12/starlink-antenna.jpg" /></p><hr/><small>14 Oct 2026, 23:04 UTC | #24330</small>]]></content>
-  </entry>
-  <entry>
-    <title>EU Negotiates Sanctions Relief with China to Aid ASML Supplier</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-14/eu-set-to-lift-sanction-on-chinese-firm-to-save-asml-supplier" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-14/eu-set-to-lift-sanction-on-chinese-firm-to-save-asml-supplier::v239</id>
-    <published>2026-10-14T18:13:00+00:00</published>
-    <updated>2026-10-14T18:13:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-14/eu-set-to-lift-sanction-on-chinese-firm-to-save-asml-supplier">bloomberg.com</a></small></p><hr/><p>The European Union is negotiating with China to lift sanctions on an unnamed Chinese firm in exchange for the removal of Beijing's export controls on Sindlhauser Materials GmbH. The German manufacturer is a key supplier to ASML and faces potential operational shutdowns due to its reliance on restricted Chinese rare earth minerals.</p><p>The proposed deal seeks to stabilize semiconductor supply chains by mitigating disruptions caused by Chinese trade restrictions implemented in July. The negotiations aim to prevent a production halt at Sindlhauser Materials, which is a critical link in the chipmaking equipment ecosystem.</p><hr/><small>14 Oct 2026, 21:26 UTC | #24275</small>]]></content>
-  </entry>
-  <entry>
-    <title>Deezer to Launch Feature Filtering AI-Generated Music</title>
-    <link href="https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/::v239</id>
-    <published>2026-10-14T18:01:00+00:00</published>
-    <updated>2026-10-14T18:01:00+00:00</updated>
-    <media:thumbnail url="https://www.aimusicpreneur.com/wp-content/uploads/2026/01/deezer-ai-music-detection-tool.webp" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/">techcrunch.com</a> | <a href="https://newsroom-deezer.com/2026/10/deezer-ai-music-toggle/">source</a></small></p><hr/><p>Deezer is developing an on/off toggle that allows users to exclude AI-generated tracks, albums, and artists from search results. The feature, expected to launch before the end of 2026, will hide content that the platform identifies as fully AI-generated.</p><p>The move follows a surge in AI content on the platform, with AI-generated tracks reportedly making up more than 50% of daily uploads as of July 2026. The initiative also addresses user demand, as a previous survey indicated that approximately 45% of Deezer customers wanted the ability to filter out AI music.</p><p><img src="https://www.aimusicpreneur.com/wp-content/uploads/2026/01/deezer-ai-music-detection-tool.webp" /></p><hr/><small>14 Oct 2026, 20:37 UTC | #24284</small>]]></content>
-  </entry>
-  <entry>
-    <title>GlobalFoundries to Build Two New York Chip Plants via $21 Billion US-Japan Initiative</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-14/globalfoundries-gets-21-billion-to-run-plants-in-us-japan-deal" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-14/globalfoundries-gets-21-billion-to-run-plants-in-us-japan-deal::v239</id>
-    <published>2026-10-14T17:54:00+00:00</published>
-    <updated>2026-10-14T17:54:00+00:00</updated>
-    <media:thumbnail url="https://3dincites-imaps.nyc3.digitaloceanspaces.com/wp-content/uploads/20251022134506/Fab8-HQ-MaltaNY-GF-scaled-1.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-14/globalfoundries-gets-21-billion-to-run-plants-in-us-japan-deal">bloomberg.com</a> | <a href="https://gf.com/news-and-events/news/globalfoundries-selected-to-operate-two-new-semiconductor-fabs-in-new-york-under-landmark-us-japan-initiative/">source</a></small></p><hr/><p>The semiconductor manufacturer plans to construct two new facilities in Malta, New York, utilizing up to $21 billion in funding from the Japanese government. Under the terms of a trade agreement between the U.S. and Japan, the American government will acquire a 4% equity stake in the company.</p><p>The project aims to bolster the production of "essential chips" through a strategic partnership between the two nations. The first facility is expected to be operational by 2029, and the initiative includes a $955 million reallocation of existing CHIPS Act funding to support advanced technology development.</p><p><img src="https://3dincites-imaps.nyc3.digitaloceanspaces.com/wp-content/uploads/20251022134506/Fab8-HQ-MaltaNY-GF-scaled-1.jpg" /></p><hr/><small>14 Oct 2026, 20:08 UTC | #24263</small>]]></content>
   </entry>
 </feed>
