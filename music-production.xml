@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-19T13:48:00+00:00</updated>
+  <updated>2026-10-19T16:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Bob Moog Foundation Hosts Online Fundraising Auction</title>
+    <link href="https://musictech.com/news/music/the-bob-moog-foundation-is-hosting-an-online-fundraising-auction-heres-whats-up-for-grabs/" rel="alternate" />
+    <id>https://musictech.com/news/music/the-bob-moog-foundation-is-hosting-an-online-fundraising-auction-heres-whats-up-for-grabs/::v240</id>
+    <published>2026-10-19T16:42:00+00:00</published>
+    <updated>2026-10-19T16:42:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Bob-Moog-online-auction-hero@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/music/the-bob-moog-foundation-is-hosting-an-online-fundraising-auction-heres-whats-up-for-grabs/">musictech.com</a> | <a href="https://moogfoundation.org/bob-moog-foundation-announces-online-auction-of-synthesizer-art-and-memorabilia/">source</a></small></p><hr/><p>Fundraising for music education and preservation will take place via an online auction from October 19 to 26, 2026. Proceeds support Dr. Bob’s SoundSchool, the Bob Moog Foundation Archives, and the Moogseum in Asheville, North Carolina.</p><p>The collection includes original artwork, autographed photographs, and memorabilia from electronic music figures such as Keith Emerson, Roger Powell, and Larry Fast. Additional items feature works by illustrator Kyle Platts and design studio Dorothy.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Bob-Moog-online-auction-hero@2000x1500.jpg" /></p><hr/><small>19 Oct 2026, 19:58 UTC | #24773</small>]]></content>
+  </entry>
   <entry>
     <title>Arswerk Updates Harmonia EQ Plugin to Version 1.1.3</title>
     <link href="https://bedroomproducersblog.com/2026/10/19/arswerk-harmonia-eq/" rel="alternate" />
