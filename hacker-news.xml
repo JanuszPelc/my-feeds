@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-18T19:46:00+00:00</updated>
+  <updated>2026-10-18T23:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Servo 0.6.0 Update Includes CSS Grid Support and Text Selection</title>
+    <link href="https://servo.org/blog/2026/10/09/august-in-servo/" rel="alternate" />
+    <id>https://servo.org/blog/2026/10/09/august-in-servo/::v240</id>
+    <published>2026-10-18T23:06:00+00:00</published>
+    <updated>2026-10-18T23:06:00+00:00</updated>
+    <media:thumbnail url="https://learn.microsoft.com/th-th/microsoft-edge/devtools/css/grid-images/grid-badge-selected.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://servo.org/blog/2026/10/09/august-in-servo/">servo.org</a> | <a href="https://github.com/servo/servo/releases/tag/v0.6.0">source</a> | <a href="https://lobste.rs/s/ilul4v/august_servo_css_grid_text_selection_more">discussion</a> | <a href="https://news.ycombinator.com/item?id=50137257">hacker news</a></small></p><hr/><p>Servo version 0.6.0 has been released, most notably enabling CSS Grid support by default to improve the visual rendering of websites. This update introduces several new web platform features, including touch-action and animation-composition, along with various new DOM APIs and improvements to navigation and session history.</p><p>The release includes a security upgrade to SpiderMonkey v153 and the addition of interactive text selection. Other developments include progress on accessibility through ARIA roles, work on ServiceWorker implementation, and expanded platform support for Android, OpenHarmony, and Raspberry Pi 5.</p><p><img src="https://learn.microsoft.com/th-th/microsoft-edge/devtools/css/grid-images/grid-badge-selected.png" /></p><hr/><small>19 Oct 2026, 02:08 UTC | #24699</small>]]></content>
+  </entry>
   <entry>
     <title>Jeff Pele Explains Real-Time Software Design on Linux</title>
     <link href="https://www.youtube.com/watch?v=-0D0rFdU6HY" rel="alternate" />
