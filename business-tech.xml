@@ -3,9 +3,17 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-18T18:53:00+00:00</updated>
+  <updated>2026-10-18T20:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Samsung to Use TSMC Technology for Nvidia's Next-Generation NVHBM Base Dies</title>
+    <link href="https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/" rel="alternate" />
+    <id>https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/::v240</id>
+    <published>2026-10-18T20:50:00+00:00</published>
+    <updated>2026-10-18T20:50:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/">reuters.com</a></small></p><hr/><p>Samsung Electronics will use TSMC's 3-nanometer process to manufacture base dies for Nvidia's custom NVHBM next-generation memory chips. Nvidia reportedly requested that Samsung, SK Hynix, and Micron produce these components to meet its high-bandwidth memory needs.</p><p>This agreement marks Samsung's first manufacturing-stage collaboration with TSMC. The partnership highlights the growing supply chain interdependence between major semiconductor firms as they compete to support the hardware requirements of the AI industry.</p><hr/><small>19 Oct 2026, 01:19 UTC | #24672</small>]]></content>
+  </entry>
   <entry>
     <title>Google Disability Support Fails to Escalate Android Accessibility Bug</title>
     <link href="https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/" rel="alternate" />
