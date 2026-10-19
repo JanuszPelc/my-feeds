@@ -978,21 +978,4 @@
     <media:thumbnail url="https://i.pinimg.com/736x/f1/35/af/f135af5a83af475b0738deccfa366085.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://typeof.net/Iosevka/">typeof.net</a> | <a href="https://news.ycombinator.com/item?id=50084240">hacker news</a></small></p><hr/><p>This typeface family is designed for programming, terminal use, and technical writing. It includes monospace, slab-serif, and quasi-proportional variants, with specialized "Term" and "Fixed" versions optimized for terminal compatibility.</p><p>The font is optimized for high density, featuring a default slender width of 1/2em to maximize screen real estate. It offers extensive customization through 146 configurable characters, 19 stylistic sets, and support for 248 languages, alongside advanced OpenType features such as long ligatures.</p><p><img src="https://i.pinimg.com/736x/f1/35/af/f135af5a83af475b0738deccfa366085.jpg" /></p><hr/><small>14 Oct 2026, 13:31 UTC | #24264</small>]]></content>
   </entry>
-  <entry>
-    <title>Hardware Implants Discovered in Ledger Wallets Sold via Authorized Retailers</title>
-    <link href="https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/" rel="alternate" />
-    <id>https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/::v239</id>
-    <published>2026-10-14T06:33:00+00:00</published>
-    <updated>2026-10-14T06:33:00+00:00</updated>
-    <media:thumbnail url="https://storage.ghost.io/c/77/50/77508a24-24ec-49e5-99f8-d3dadb30a5ac/content/images/2026/10/Screenshot-2026-10-12-at-2.58.47---PM-1.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/">zetter-zeroday.com</a> | <a href="https://news.ycombinator.com/item?id=50084838">hacker news</a></small></p><hr/><p>Hardware implants have been discovered in Ledger crypto wallets sold by authorized resellers in Southeast Asia and major electronics retailers in Europe. A theft involving devices from the Malaysian reseller CryptoBilis has resulted in the loss of approximately $102 million in cryptocurrency.</p><p>The backdoors have evolved from simple hand-soldered wires into sophisticated, custom-built flexible circuits that use LTE and eSIM technology to transmit recovery seed phrases. While Ledger attributes the issue to the resale of compromised returned products, evidence of implants in new devices from European retailers suggests a broader supply-chain compromise.</p><p><img src="https://storage.ghost.io/c/77/50/77508a24-24ec-49e5-99f8-d3dadb30a5ac/content/images/2026/10/Screenshot-2026-10-12-at-2.58.47---PM-1.png" /></p><hr/><small>14 Oct 2026, 13:24 UTC | #24232</small>]]></content>
-  </entry>
-  <entry>
-    <title>Android 17 Bionic Libc Bug Causes Incorrect Unicode Character Matching</title>
-    <link href="https://github.com/android/ndk/issues/2260" rel="alternate" />
-    <id>https://github.com/android/ndk/issues/2260::v239</id>
-    <published>2026-10-14T06:27:00+00:00</published>
-    <updated>2026-10-14T06:27:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/android/ndk/issues/2260">github.com</a> | <a href="https://news.ycombinator.com/item?id=50083130">hacker news</a></small></p><hr/><p>A regression in Android 17's Bionic libc causes the `wcscspn()` and `wcspbrk()` functions to incorrectly identify wide characters $\ge$ U+0100 as matches when the rejection set contains two or more characters below U+0100. This behavior causes the scanning process to stop prematurely at the first non-Latin-1 character, such as an emoji, CJK, or Cyrillic character, even if that character is not present in the search set.</p><p>The error, introduced between the June and September 2026 releases, stems from an assembly optimization in the `libc.so` binary that incorrectly branches when encountering characters outside the 0x00–0xFF range. This bug breaks applications that rely on wide-string scanning to find ASCII delimiters like newlines or wildcard characters, with reported impacts in software such as the Wine-based Visual Pinball engine.</p><hr/><small>14 Oct 2026, 11:44 UTC | #24252</small>]]></content>
-  </entry>
 </feed>
