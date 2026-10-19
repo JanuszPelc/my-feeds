@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-19T07:44:00+00:00</updated>
+  <updated>2026-10-19T10:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Mistral AI Releases Timestral Time-Series Foundation Models</title>
+    <link href="https://mistral.ai/news/timestral/" rel="alternate" />
+    <id>https://mistral.ai/news/timestral/::v240</id>
+    <published>2026-10-19T10:49:00+00:00</published>
+    <updated>2026-10-19T10:49:00+00:00</updated>
+    <media:thumbnail url="https://mistral.ai/_astro/SQL%20skill%20score_23fQVS.webp?dpl=6ad1d7b6946342e26a4d2b4f" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mistral.ai/news/timestral/">mistral.ai</a> | <a href="https://news.ycombinator.com/item?id=50150434">hacker news</a></small></p><hr/><p>The Timestral family of time-series foundation models from Mistral AI provides probabilistic, multivariate forecasting via four model sizes, ranging from 5 million to 209 million parameters. These models support zero-shot forecasting and accommodate both past and known-future covariates. The largest 209M parameter model ranks first on key public benchmarks, such as GIFT-Eval, TIME, and fev-bench, outperforming larger models with a lower parameter count.</p><p>Optimized for efficiency, the models can be executed on standard CPUs without a GPU. Technical features include decoupled horizon forecasting, covariate-aware attention, and a two-stage training process utilizing synthetic data. Users can fine-tune the models for domain-specific tasks or architectural extensions through Mistral Forge.</p><p><img src="https://mistral.ai/_astro/SQL%20skill%20score_23fQVS.webp?dpl=6ad1d7b6946342e26a4d2b4f" /></p><hr/><small>19 Oct 2026, 14:10 UTC | #24766</small>]]></content>
+  </entry>
+  <entry>
+    <title>AI Weather Forecasting Faces Accuracy Test During Historic El Niño</title>
+    <link href="https://www.ft.com/content/60bffbe3-f7aa-4813-b657-a31087e7b116?accessToken=zwAAAaFPPIA3kc9gv_vj96pIE9O2V6MQh-exFg.MEUCIQC302L7LYN0b4H7cc56Qhao045gUhnaQ5lY3hVqofsapwIgMamrT5GOqYwTANyeaAe4bKrPLm98_aPRWRc0jHYm4pk&amp;sharetype=gift&amp;token=47f0afa3-f0b0-49cc-8bef-ffb2288a135f" rel="alternate" />
+    <id>https://www.ft.com/content/60bffbe3-f7aa-4813-b657-a31087e7b116?accessToken=zwAAAaFPPIA3kc9gv_vj96pIE9O2V6MQh-exFg.MEUCIQC302L7LYN0b4H7cc56Qhao045gUhnaQ5lY3hVqofsapwIgMamrT5GOqYwTANyeaAe4bKrPLm98_aPRWRc0jHYm4pk&amp;sharetype=gift&amp;token=47f0afa3-f0b0-49cc-8bef-ffb2288a135f::v240</id>
+    <published>2026-10-19T10:48:00+00:00</published>
+    <updated>2026-10-19T10:48:00+00:00</updated>
+    <media:thumbnail url="https://ewscripps.brightspotcdn.com/dims4/default/7b571c6/2147483647/strip/true/crop/1920x1080+0+0/resize/2560x1440!/quality/90/?url=http://ewscripps-brightspot.s3.amazonaws.com/e6/b3/459c4ceb49b784f8697d9dec7750/slot1.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/60bffbe3-f7aa-4813-b657-a31087e7b116?accessToken=zwAAAaFPPIA3kc9gv_vj96pIE9O2V6MQh-exFg.MEUCIQC302L7LYN0b4H7cc56Qhao045gUhnaQ5lY3hVqofsapwIgMamrT5GOqYwTANyeaAe4bKrPLm98_aPRWRc0jHYm4pk&sharetype=gift&token=47f0afa3-f0b0-49cc-8bef-ffb2288a135f">ft.com</a></small></p><hr/><p>AI models are being increasingly deployed to anticipate extreme weather events, including forest fires and their subsequent impact on financial markets. The current historic El Niño is presenting a critical test for these technologies, prompting concerns among some scientists regarding their predictive accuracy.</p><p>Scientific debate centers on whether AI can match the precision of traditional meteorological models during unprecedented climatic shifts. The reliability of these tools during extreme anomalies is vital for sectors increasingly utilizing AI for risk management and economic forecasting.</p><p><img src="https://ewscripps.brightspotcdn.com/dims4/default/7b571c6/2147483647/strip/true/crop/1920x1080+0+0/resize/2560x1440!/quality/90/?url=http://ewscripps-brightspot.s3.amazonaws.com/e6/b3/459c4ceb49b784f8697d9dec7750/slot1.jpg" /></p><hr/><small>19 Oct 2026, 14:07 UTC | #24716</small>]]></content>
+  </entry>
   <entry>
     <title>Stripe Link Enables Payments for AI Assistants</title>
     <link href="https://www.upstartsmedia.com/p/data-stripe-link-how-ai-assistants-spend" rel="alternate" />
