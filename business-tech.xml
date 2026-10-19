@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-19T10:53:00+00:00</updated>
+  <updated>2026-10-19T10:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Social Media Accounts Attempt to Unmask Cornell Sexual Assault Accuser</title>
+    <link href="https://www.nytimes.com/2026/10/16/nyregion/cornell-jane-doe-internet-doxing.html?unlocked_article_code=1.JVE.fW7d.sMnfJ3J11YO7&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/16/nyregion/cornell-jane-doe-internet-doxing.html?unlocked_article_code=1.JVE.fW7d.sMnfJ3J11YO7&amp;smid=url-share::v240</id>
+    <published>2026-10-19T10:57:00+00:00</published>
+    <updated>2026-10-19T10:57:00+00:00</updated>
+    <media:thumbnail url="https://h104216-gcdn.mp.lura.live/1/938809/pvw_lin/402/C0F/402C0FECF1C2D707086DB9FF8D5D371F_2.jpg?aktaexp=2082787200&amp;aktasgn=7533519a3e22aaabdd81c70d8cfb7277" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/16/nyregion/cornell-jane-doe-internet-doxing.html?unlocked_article_code=1.JVE.fW7d.sMnfJ3J11YO7&smid=url-share">nytimes.com</a> | <a href="https://media.snopes.com/2026/09/cornell_rape_lawsuit.pdf">source</a></small></p><hr/><p>Over 11,000 accounts on platforms including X, Bluesky, Discord, and Telegram have made nearly 25,000 posts attempting to reveal the identity of a former Cornell University student. The plaintiff, who used pseudonyms to name seven men she accused of sexual assault, has been the target of an intensive online campaign to unmask her.</p><p>The doxing effort follows a lawsuit involving alleged assaults at a Cornell University fraternity house. While the accuser has sought to proceed anonymously in court, the digital movement has generated massive engagement, with some related posts reaching millions of views.</p><p><img src="https://h104216-gcdn.mp.lura.live/1/938809/pvw_lin/402/C0F/402C0FECF1C2D707086DB9FF8D5D371F_2.jpg?aktaexp=2082787200&aktasgn=7533519a3e22aaabdd81c70d8cfb7277" /></p><hr/><small>19 Oct 2026, 15:27 UTC | #24721</small>]]></content>
+  </entry>
   <entry>
     <title>US Cybersecurity Job Postings Fall 26% as AI Security Demand Increases</title>
     <link href="https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/" rel="alternate" />
@@ -962,14 +971,5 @@
     <updated>2026-10-14T16:25:00+00:00</updated>
     <media:thumbnail url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/1200/675/ice-new-orleans-2025.jpg?ve=1&amp;tl=1" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/">prospect.org</a> | <a href="https://news.ycombinator.com/item?id=50090246">hacker news</a></small></p><hr/><p>ICE is fast-tracking ERO ONE (Enforcement and Removal Operations Overwatch and National Security Enforcement), a $100 million program that would deploy 142 intelligence agents across more than two dozen U.S. cities and the District of Columbia. The initiative aims to use both classified and unclassified data to map relationships and identify patterns to support enforcement and removal missions.</p><p>Experts and civil rights advocates warn the program functions as a domestic spying agency that could expand surveillance beyond undocumented immigrants to include political opponents and broader civilian populations. The proposed timeline suggests a contract award by February, with agents required to hold top-secret clearances to conduct deep link analysis of individuals' social and professional networks.</p><p><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/1200/675/ice-new-orleans-2025.jpg?ve=1&tl=1" /></p><hr/><small>14 Oct 2026, 18:40 UTC | #24309</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI Safety Advocates Spend $48 Million to Support AI Regulation in Midterm Elections</title>
-    <link href="https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million" rel="alternate" />
-    <id>https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million::v239</id>
-    <published>2026-10-14T15:18:00+00:00</published>
-    <updated>2026-10-14T15:18:00+00:00</updated>
-    <media:thumbnail url="https://theaicronicle.com/storage/articles/c4e4d2f0-3d8e-4ec4-aa77-cef6f44611fd.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million">axios.com</a></small></p><hr/><p>AI safety groups and individual donors have spent $48 million in the 2026 midterm election cycle to back candidates who favor AI regulation. This bipartisan spending is being directed toward candidates in various U.S. races.</p><p>This financial activity marks the emergence of AI safety advocates as a significant political force. The spending reflects an effort to shape the regulatory landscape by influencing elections through targeted contributions.</p><p><img src="https://theaicronicle.com/storage/articles/c4e4d2f0-3d8e-4ec4-aa77-cef6f44611fd.jpg" /></p><hr/><small>14 Oct 2026, 18:03 UTC | #24251</small>]]></content>
   </entry>
 </feed>

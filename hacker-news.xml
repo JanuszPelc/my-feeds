@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-19T10:55:00+00:00</updated>
+  <updated>2026-10-19T12:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>MapLibre Native Finalizes C Plugin API</title>
+    <link href="https://lobste.rs/s/vyfegx/what_are_you_doing_this_week" rel="alternate" />
+    <id>https://lobste.rs/s/vyfegx/what_are_you_doing_this_week::v240</id>
+    <published>2026-10-19T12:12:00+00:00</published>
+    <updated>2026-10-19T12:12:00+00:00</updated>
+    <media:thumbnail url="https://files.speakerdeck.com/presentations/9d62c6f3816848f8aeca7a43cf41b81d/slide_6.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/vyfegx/what_are_you_doing_this_week">lobste.rs</a> | <a href="https://maplibre.org/news/2026-10-01-maplibre-newsletter-september-2026">source</a> | <a href="https://lobste.rs/s/vyfegx/what_are_you_doing_this_week">discussion</a></small></p><hr/><p>The author is finalizing the release of a C plugin API for MapLibre Native, intended to enable the development of extensions without affecting the stability of the base library.</p><p>Current development includes an open pull request for a "globe mode" feature. The developer is also considering the creation of a "next" branch to serve as a testing area for experimental or LLM-driven contributions before they are merged into the main codebase.</p><p><img src="https://files.speakerdeck.com/presentations/9d62c6f3816848f8aeca7a43cf41b81d/slide_6.jpg" /></p><hr/><small>19 Oct 2026, 15:32 UTC | #24760</small>]]></content>
+  </entry>
+  <entry>
+    <title>Java Sealed Classes and Exhaustive Pattern Matching Implications</title>
+    <link href="https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/" rel="alternate" />
+    <id>https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/::v240</id>
+    <published>2026-10-19T10:58:00+00:00</published>
+    <updated>2026-10-19T10:58:00+00:00</updated>
+    <media:thumbnail url="https://www.javacodegeeks.com/wp-content/uploads/2026/04/2026-04-03_15-17-08.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/">neilmadden.blog</a> | <a href="https://openjdk.org/jeps/409">source</a> | <a href="https://news.ycombinator.com/item?id=50141579">hacker news</a></small></p><hr/><p>By allowing developers to explicitly define permitted subtypes, Java sealed classes enable exhaustive pattern matching in switch expressions. This mechanism ensures all cases are covered at compile-time, which permits the omission of a default clause in the switch expression.</p><p>However, adding a new subtype to a sealed class is a breaking change that can trigger a runtime MatchException if consumers are not recompiled. This risk makes sealed classes more appropriate for internal implementation details than for exposure in public APIs.</p><p><img src="https://www.javacodegeeks.com/wp-content/uploads/2026/04/2026-04-03_15-17-08.png" /></p><hr/><small>19 Oct 2026, 15:31 UTC | #24775</small>]]></content>
+  </entry>
   <entry>
     <title>Ende Announced as a New Deno Fork</title>
     <link href="https://blog.webb.page/WM-105" rel="alternate" />
@@ -972,22 +990,5 @@
     <updated>2026-10-14T17:48:00+00:00</updated>
     <media:thumbnail url="https://www.digitalcitizen.life/wp-content/uploads/2026/01/How-to-Find-Out-If-Your-Windows-11-PC-Uses-ARM64-or-x64.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://re.factorcode.org/2026/10/factor-0-102-now-available.html">re.factorcode.org</a> | <a href="https://lobste.rs/s/a4ljnh/factor_0_102_now_available">discussion</a></small></p><hr/><p>Factor 0.102 has been released, providing native ARM64 support for macOS, Linux, and Windows. The release also introduces 32-bit and 64-bit RISC-V Linux ports and sets GTK4 as the default UI backend for 64-bit Linux.</p><p>This update contains 1,068 commits, including experimental compiler optimizations, DirectWrite text rendering on Windows, and updated Unicode and timezone data. It also adds bindings for SQLite, Raylib, and Lua, along with improved process launching.</p><p><img src="https://www.digitalcitizen.life/wp-content/uploads/2026/01/How-to-Find-Out-If-Your-Windows-11-PC-Uses-ARM64-or-x64.jpg" /></p><hr/><small>14 Oct 2026, 19:32 UTC | #24312</small>]]></content>
-  </entry>
-  <entry>
-    <title>BotStopper Offers Commercial Bot and Scraper Protection for Organizations</title>
-    <link href="https://botstopper.net" rel="alternate" />
-    <id>https://botstopper.net::v239</id>
-    <published>2026-10-14T15:19:00+00:00</published>
-    <updated>2026-10-14T15:19:00+00:00</updated>
-    <media:thumbnail url="https://imgv2-2-f.scribdassets.com/img/document/931218831/original/855ee28643/1?v=1" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://botstopper.net">botstopper.net</a> | <a href="https://lobste.rs/s/qgvj4p/botstopper_from_techaro">discussion</a></small></p><hr/><p>BotStopper is a commercial security product from Techaro designed to protect websites from automated abuse and web scraping. It functions as an enterprise-ready version of the open-source Anubis tool, providing advanced management of scraping and automated traffic.</p><p>The service allows organizations to customize the visual identity and challenge flow of the security checks to match their own branding. This approach aims to mitigate bot-driven abuse while ensuring a smooth experience for legitimate human visitors.</p><p><img src="https://imgv2-2-f.scribdassets.com/img/document/931218831/original/855ee28643/1?v=1" /></p><hr/><small>14 Oct 2026, 18:04 UTC | #24300</small>]]></content>
-  </entry>
-  <entry>
-    <title>Scott Helme Rebuts Claims That Passkeys Are a Trap</title>
-    <link href="https://scotthelme.co.uk/passkeys-are-not-a-trap/" rel="alternate" />
-    <id>https://scotthelme.co.uk/passkeys-are-not-a-trap/::v239</id>
-    <published>2026-10-14T15:16:00+00:00</published>
-    <updated>2026-10-14T15:16:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://scotthelme.co.uk/passkeys-are-not-a-trap/">scotthelme.co.uk</a> | <a href="https://news.ycombinator.com/item?id=50088935">hacker news</a></small></p><hr/><p>Scott Helme refutes claims that passkeys pose a privacy threat through WebAuthn attestation. Most mainstream passkey implementations, such as Google Password Manager and iCloud Keychain, do not provide attestation data to websites. WebAuthn attestation identifies device models via AAGUIDs rather than monitoring operating systems, browser extensions, or software configurations.</p><p>Hardware security keys like YubiKeys actually rely on attestation, contrary to arguments that they allow users to bypass it. Passkeys provide critical protection against phishing through domain-binding, a security property that TOTP (Time-based One-Time Password) methods lack.</p><hr/><small>14 Oct 2026, 17:47 UTC | #24304</small>]]></content>
   </entry>
 </feed>
