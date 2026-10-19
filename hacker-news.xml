@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-19T12:12:00+00:00</updated>
+  <updated>2026-10-19T13:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Wine Port for OpenBSD Proposed</title>
+    <link href="https://marc.info/?l=openbsd-ports&amp;m=179236125692175" rel="alternate" />
+    <id>https://marc.info/?l=openbsd-ports&amp;m=179236125692175::v240</id>
+    <published>2026-10-19T13:36:00+00:00</published>
+    <updated>2026-10-19T13:36:00+00:00</updated>
+    <media:thumbnail url="https://www.linuxfordevices.com/wp-content/uploads/2022/09/Screenshot-2022-09-30-at-12.08.56-PM-1024x398.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://marc.info/?l=openbsd-ports&m=179236125692175">marc.info</a> | <a href="https://news.ycombinator.com/item?id=50152307">hacker news</a></small></p><hr/><p>This proposed port for Wine enables 64-bit Windows applications to run on OpenBSD by using software emulation for the %gs prefix. Testing has demonstrated successful execution of various 64-bit programs, including The Witcher 3 when configured with vkd3d-proton.</p><p>The current port does not support 32-bit Windows software because WoW64 is not implemented. Built-in tests are temporarily disabled due to X server dependencies and potential hangs. Developers recommend running the software in a separate, non-privileged user environment while they investigate security fencing via unveil(2).</p><p><img src="https://www.linuxfordevices.com/wp-content/uploads/2022/09/Screenshot-2022-09-30-at-12.08.56-PM-1024x398.png" /></p><hr/><small>19 Oct 2026, 16:13 UTC | #24781</small>]]></content>
+  </entry>
   <entry>
     <title>MapLibre Native Finalizes C Plugin API</title>
     <link href="https://lobste.rs/s/vyfegx/what_are_you_doing_this_week" rel="alternate" />
