@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-19T16:56:00+00:00</updated>
+  <updated>2026-10-19T17:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>US Supreme Court Rejects Music Labels' Appeal in Copyright Termination Case</title>
+    <link href="https://www.reuters.com/legal/government/us-supreme-court-rejects-music-labels-challenge-copyright-termination-ruling-2026-10-19/" rel="alternate" />
+    <id>https://www.reuters.com/legal/government/us-supreme-court-rejects-music-labels-challenge-copyright-termination-ruling-2026-10-19/::v240</id>
+    <published>2026-10-19T17:15:00+00:00</published>
+    <updated>2026-10-19T17:15:00+00:00</updated>
+    <media:thumbnail url="https://www.musicbusinessworldwide.com/files/2025/06/US-Supreme-Court-1296x717.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/government/us-supreme-court-rejects-music-labels-challenge-copyright-termination-ruling-2026-10-19/">reuters.com</a> | <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-1391.html">source</a> | <a href="https://news.ycombinator.com/item?id=50156063">hacker news</a></small></p><hr/><p>The U.S. Supreme Court declined to hear an appeal from major music labels including BMG, Sony Music, Universal Music Group, and Warner Music, leaving in place a lower court ruling that allows creators to terminate copyright grants globally rather than solely within the United States.</p><p>The underlying legal dispute centers on whether domestic copyright termination provisions apply to foreign markets. Because several justices recused themselves due to publishing-related ties to a party, the court lacked a quorum to consider the petition, effectively preserving the Fifth Circuit's precedent-setting determination on international copyright reach.</p><p><img src="https://www.musicbusinessworldwide.com/files/2025/06/US-Supreme-Court-1296x717.jpg" /></p><hr/><small>19 Oct 2026, 23:28 UTC | #24785</small>]]></content>
+  </entry>
+  <entry>
+    <title>Cybersecurity and Infrastructure Security Agency Faced Pressure to Hack Voting Machine, Report Says</title>
+    <link href="https://www.propublica.org/article/cisa-election-security-donald-trump" rel="alternate" />
+    <id>https://www.propublica.org/article/cisa-election-security-donald-trump::v240</id>
+    <published>2026-10-19T17:10:00+00:00</published>
+    <updated>2026-10-19T17:10:00+00:00</updated>
+    <media:thumbnail url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/94f105d8-Electronic-Voting-Screen-Election.jpg?ve=1&amp;tl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.propublica.org/article/cisa-election-security-donald-trump">propublica.org</a> | <a href="https://news.ycombinator.com/item?id=50151156">hacker news</a></small></p><hr/><p>During President Donald Trump’s second term, Department of Homeland Security appointees directed the Cybersecurity and Infrastructure Security Agency to secretly acquire and hack a voting machine. CISA staff resisted the directive, arguing it violated agency protocol and risked political interference, and the plan was eventually dropped.</p><p>The incident underscores significant disruptions at CISA, where massive staff reductions and budget cuts have severely hampered its mission to protect election infrastructure. State election officials report that the agency's withdrawal of support, combined with the administration's release of sensitive data, has eroded the trust necessary for effective federal-state cybersecurity cooperation.</p><p><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/94f105d8-Electronic-Voting-Screen-Election.jpg?ve=1&tl=1" /></p><hr/><small>19 Oct 2026, 23:22 UTC | #24776</small>]]></content>
+  </entry>
   <entry>
     <title>DHS Orders Removal of DeepSeek Technology from Federal Civilian IT Systems</title>
     <link href="https://www.wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d?st=m6DV2n&amp;reflink=desktopwebshare_permalink" rel="alternate" />

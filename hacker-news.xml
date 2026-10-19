@@ -3,9 +3,54 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-19T17:07:00+00:00</updated>
+  <updated>2026-10-19T17:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Eskild Hustvedt Transitions to Chimera Linux Due to Open Source LLM Policies</title>
+    <link href="https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/" rel="alternate" />
+    <id>https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/::v240</id>
+    <published>2026-10-19T17:18:00+00:00</published>
+    <updated>2026-10-19T17:18:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/856186033/original/73ab0d72f2/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.zerodogg.org/2026/10/18/finding-a-home-amidst-the-wreckage/">blog.zerodogg.org</a> | <a href="https://lobste.rs/s/mpdk1e/finding_home_amidst_wreckage">discussion</a></small></p><hr/><p>Software developer Eskild Hustvedt details his disillusionment with mainstream Linux distributions, such as Debian, over their adoption of LLM-generated code and corporate integration. Frustrated by the prevalence of AI tooling, he sought out alternative operating systems that align more closely with his values.</p><p>After discovering Chimera Linux, Hustvedt migrated his systems and praised the distribution's strict anti-LLM contribution policy, unique technical stack—including the musl C library, a FreeBSD-derived userspace, and the dinit service manager—and welcoming community for package maintainers.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/856186033/original/73ab0d72f2/1?v=1" /></p><hr/><small>19 Oct 2026, 23:32 UTC | #24822</small>]]></content>
+  </entry>
+  <entry>
+    <title>Mac.apk Open-Source Tool Runs Android Apps Natively on Apple Silicon Macs</title>
+    <link href="https://github.com/kksimp/Mac.apk" rel="alternate" />
+    <id>https://github.com/kksimp/Mac.apk::v240</id>
+    <published>2026-10-19T17:17:00+00:00</published>
+    <updated>2026-10-19T17:17:00+00:00</updated>
+    <media:thumbnail url="https://www.igeeksblog.com/wp-content/uploads/2024/02/Run-android-apps-on-Mac-1536x864.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/kksimp/Mac.apk">github.com</a> | <a href="https://news.ycombinator.com/item?id=50154624">hacker news</a></small></p><hr/><p>Mac.apk is an open-source alpha runtime that enables Android applications to execute natively on Apple Silicon Macs without emulators, virtual machines, or underlying Linux layers. Applications launch as standard macOS processes, leveraging native CPU execution speeds and the Mac GPU to render windows that integrate directly into the macOS Dock and support system-wide appearance changes.</p><p>Distributed under the GNU AGPL v3.0 with a commercial license option, the tool requires macOS Tahoe or newer and handles APK files by mapping them directly to native macOS app bundles. While under active development with varying app compatibility, the utility provides direct file type association, window resizing, and local data management for sideloaded applications.</p><p><img src="https://www.igeeksblog.com/wp-content/uploads/2024/02/Run-android-apps-on-Mac-1536x864.jpg" /></p><hr/><small>19 Oct 2026, 23:30 UTC | #24821</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple Announces October 28 Special Event Titled 'Pro and Tell'</title>
+    <link href="https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/" rel="alternate" />
+    <id>https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/::v240</id>
+    <published>2026-10-19T17:14:00+00:00</published>
+    <updated>2026-10-19T17:14:00+00:00</updated>
+    <media:thumbnail url="https://media.appleinsider.com/gallery/69435-146388-ternusoctlate-xl.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/">9to5mac.com</a> | <a href="https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro">source</a></small></p><hr/><p>Apple has scheduled a special media event for October 28 in Los Angeles, carrying the tagline "Pro and tell." The event follows an earlier product showcase in October and is expected to center on major Mac and iPad updates.</p><p>Industry reports indicate the company plans to unveil its first touchscreen MacBook Pro models featuring OLED displays and Dynamic Island integration, alongside a redesigned OLED iPad mini and new M6-powered Macs. The gathering marks Apple's second hardware launch event within the month.</p><p><img src="https://media.appleinsider.com/gallery/69435-146388-ternusoctlate-xl.jpg" /></p><hr/><small>19 Oct 2026, 23:26 UTC | #24786</small>]]></content>
+  </entry>
+  <entry>
+    <title>Amazon Releases TorchNeuron Software to Connect PyTorch with Trainium AI Chips</title>
+    <link href="https://www.geekwire.com/2026/amazon-challenges-nvidias-software-advantage-with-new-tool-for-its-ai-chips/" rel="alternate" />
+    <id>https://www.geekwire.com/2026/amazon-challenges-nvidias-software-advantage-with-new-tool-for-its-ai-chips/::v240</id>
+    <published>2026-10-19T17:13:00+00:00</published>
+    <updated>2026-10-19T17:13:00+00:00</updated>
+    <media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/10/torchneuron-crop2.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.geekwire.com/2026/amazon-challenges-nvidias-software-advantage-with-new-tool-for-its-ai-chips/">geekwire.com</a> | <a href="https://www.aboutamazon.com/news/innovation-at-amazon/torchneuron-pytorch-aws-trainium-chips-ai">source</a></small></p><hr/><p>Amazon has released TorchNeuron as a public beta, providing a native PyTorch backend for its custom Trainium artificial intelligence chips. The tool allows developers to run existing PyTorch code on Trainium hardware with a basic configuration change, eliminating the need to rewrite code for chip-specific programming interfaces.</p><p>The release is part of a broader effort by major cloud providers to reduce their reliance on Nvidia's dominant CUDA software ecosystem. TorchNeuron has been tested by companies including Deepgram and Amazon's Prime Video team, and Amazon plans to open-source the software at the PyTorch Conference.</p><p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/10/torchneuron-crop2.jpg" /></p><hr/><small>19 Oct 2026, 23:24 UTC | #24782</small>]]></content>
+  </entry>
+  <entry>
+    <title>Modal Adopts Nvidia Vera CPUs for AI Agent Hosting</title>
+    <link href="https://www.reuters.com/business/nvidia-wins-fast-growing-ai-startup-modal-new-central-processors-2026-10-19/" rel="alternate" />
+    <id>https://www.reuters.com/business/nvidia-wins-fast-growing-ai-startup-modal-new-central-processors-2026-10-19/::v240</id>
+    <published>2026-10-19T17:12:00+00:00</published>
+    <updated>2026-10-19T17:12:00+00:00</updated>
+    <media:thumbnail url="https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/CPU-Execution.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/nvidia-wins-fast-growing-ai-startup-modal-new-central-processors-2026-10-19/">reuters.com</a> | <a href="https://modal.com/blog/nvidia-vera-sandboxes">source</a></small></p><hr/><p>Cloud-computing startup Modal plans to integrate Nvidia’s new Vera central processors to host AI agents, marking the company's first deployment of Nvidia CPUs alongside its existing Intel and AMD infrastructure. The hardware addition is designed to support extended agentic workloads that require high-throughput server compute.</p><p>Modal's shift reflects growing infrastructure demand for specialized server silicon tailored to autonomous AI workflows. Until now, the startup relied exclusively on x86 processors from Intel and AMD to power its cloud sandbox environments.</p><p><img src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/CPU-Execution.webp" /></p><hr/><small>19 Oct 2026, 23:24 UTC | #24779</small>]]></content>
+  </entry>
   <entry>
     <title>A5 Releases v1.0 of Pentagonal Global Grid System</title>
     <link href="https://a5geo.org/blog/2026/10/14/a5-v1" rel="alternate" />

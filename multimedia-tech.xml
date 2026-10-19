@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-19T17:05:00+00:00</updated>
+  <updated>2026-10-19T17:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Digital Sun Delays ReVamp Public Playtest Due to AI Cloning Concerns</title>
+    <link href="https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning" rel="alternate" />
+    <id>https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning::v240</id>
+    <published>2026-10-19T17:16:00+00:00</published>
+    <updated>2026-10-19T17:16:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*hODIix97_Z5HRlxwnZAb9w.png" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning">gamedeveloper.com</a> | <a href="https://store.steampowered.com/news/app/3295000/view/693149194510140840">source</a></small></p><hr/><p>Digital Sun Games has postponed the planned public Steam playtest for its upcoming tower-defense action game ReVamp, citing concerns that generative AI tools could be used to reverse-engineer and clone the game before its release. Instead of a broad public build, the studio will host a restricted playtest through its Discord server beginning October 29.</p><p>The decision highlights a growing trend among indie developers scaling back public demos and playtests amid rising instances of copycats using advanced language models to decompile and replicate game mechanics. This emerging threat exposes friction between traditional indie marketing strategies, which rely heavily on early public exposure, and the new vulnerabilities introduced by rapid AI code-generation capabilities.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*hODIix97_Z5HRlxwnZAb9w.png" /></p><hr/><small>19 Oct 2026, 23:29 UTC | #24797</small>]]></content>
+  </entry>
   <entry>
     <title>StarCraft: Ashfall Browser-Based Fan Shooter</title>
     <link href="https://starcraft-shooter-2026.pages.dev/" rel="alternate" />
