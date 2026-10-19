@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-19T01:29:00+00:00</updated>
+  <updated>2026-10-19T03:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Eric Gullichsen Recounts Autodesk's Cyberspace Trademark Dispute</title>
+    <link href="https://colo.to/cyberspace.html" rel="alternate" />
+    <id>https://colo.to/cyberspace.html::v240</id>
+    <published>2026-10-19T03:33:00+00:00</published>
+    <updated>2026-10-19T03:33:00+00:00</updated>
+    <media:thumbnail url="https://www.firstandfine.com/wp-content/uploads/2020/02/IMG_9046.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://colo.to/cyberspace.html">colo.to</a> | <a href="https://news.ycombinator.com/item?id=50146625">hacker news</a></small></p><hr/><p>Autodesk's 1989 attempt to trademark the term "cyberspace" resulted in a legal objection from author William Gibson, according to a firsthand account by researcher Eric Gullichsen. While the dispute is well-documented, Gullichsen clarifies that the popular rumor regarding Gibson attempting to trademark Gullichsen's name in retaliation was actually a prank started by Timothy Leary.</p><p>The account details the early virtual reality research environment at Autodesk and the personal connections between the researchers and cultural figures like Leary. It describes the intersection of early digital culture and the legal efforts to claim emerging terminology, noting that the tension between the parties eventually subsided after a meeting in Barcelona.</p><p><img src="https://www.firstandfine.com/wp-content/uploads/2020/02/IMG_9046.jpg" /></p><hr/><small>19 Oct 2026, 08:45 UTC | #24722</small>]]></content>
+  </entry>
   <entry>
     <title>Lobsters Updates Site Guidelines and AI-Related Tags</title>
     <link href="https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags" rel="alternate" />
