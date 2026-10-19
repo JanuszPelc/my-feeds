@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-19T10:57:00+00:00</updated>
+  <updated>2026-10-19T12:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Data Center Industry Launches Youth Outreach and Educational Initiatives</title>
+    <link href="https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/" rel="alternate" />
+    <id>https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/::v240</id>
+    <published>2026-10-19T12:13:00+00:00</published>
+    <updated>2026-10-19T12:13:00+00:00</updated>
+    <media:thumbnail url="https://images.squarespace-cdn.com/content/v1/629e4f487799b86a40696af8/1b0b6ba5-51d3-4d05-8f9f-99874f8344aa/437366814_836876198471426_3699076962178010556_n.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/">wired.com</a></small></p><hr/><p>The data center industry is employing educational outreach, including school field trips, children's books, and themed holidays, to build public interest and brand awareness. Organizations such as 7x24 Exchange International and the Association for Computer Operations Management (AFCOM) are leading these efforts, which range from distributing educational kits to organizing tours of facilities.</p><p>These tactics reflect a strategy used by other industries facing public pushback to cultivate community goodwill and establish a social license to operate. The increased outreach comes as the sector faces growing criticism regarding its high energy consumption and the environmental impact of massive data center build-outs.</p><p><img src="https://images.squarespace-cdn.com/content/v1/629e4f487799b86a40696af8/1b0b6ba5-51d3-4d05-8f9f-99874f8344aa/437366814_836876198471426_3699076962178010556_n.jpg" /></p><hr/><small>19 Oct 2026, 15:47 UTC | #24723</small>]]></content>
+  </entry>
   <entry>
     <title>Social Media Accounts Attempt to Unmask Cornell Sexual Assault Accuser</title>
     <link href="https://www.nytimes.com/2026/10/16/nyregion/cornell-jane-doe-internet-doxing.html?unlocked_article_code=1.JVE.fW7d.sMnfJ3J11YO7&amp;smid=url-share" rel="alternate" />
