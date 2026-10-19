@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-19T13:36:00+00:00</updated>
+  <updated>2026-10-19T13:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>NVIDIA Vera CPU Reverts to Monolithic Design to Prioritize Single-Threaded Performance for Agentic AI</title>
+    <link href="https://wccftech.com/exclusive-nvidia-vera-team-says-chiplet-designs-sacrificed-single-threaded-performance-for-core-counts-and-agentic-ai-is-now-forcing-a-reversal/" rel="alternate" />
+    <id>https://wccftech.com/exclusive-nvidia-vera-team-says-chiplet-designs-sacrificed-single-threaded-performance-for-core-counts-and-agentic-ai-is-now-forcing-a-reversal/::v240</id>
+    <published>2026-10-19T13:37:00+00:00</published>
+    <updated>2026-10-19T13:37:00+00:00</updated>
+    <media:thumbnail url="https://cdn.wccftech.com/wp-content/uploads/2026/05/NVIDIA-Vera-CPU-_2-scaled.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://wccftech.com/exclusive-nvidia-vera-team-says-chiplet-designs-sacrificed-single-threaded-performance-for-core-counts-and-agentic-ai-is-now-forcing-a-reversal/">wccftech.com</a> | <a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Unveils-Vera-the-CPU-for-Agents/default.aspx">source</a></small></p><hr/><p>NVIDIA's Vera CPU architecture is designed specifically for the requirements of agentic AI, moving away from the chiplet-based designs that prioritize core density. To prevent expensive GPUs from sitting idle during the multi-step reasoning loops of AI agents, the Vera CPU focuses on high single-threaded performance, low latency, and massive memory bandwidth.</p><p>The design utilizes a monolithic compute die and a custom LPDDR5X memory subsystem to eliminate the performance penalties of chiplet interconnects. This architecture delivers 1.5x the performance of NVIDIA's Grace processor and up to 2x the performance of leading x86 processors on agentic workloads. NVIDIA is also pivoting to offer standalone Vera CPU racks to handle the increasing volume of agent tool calls and reinforcement learning tasks.</p><p><img src="https://cdn.wccftech.com/wp-content/uploads/2026/05/NVIDIA-Vera-CPU-_2-scaled.jpg" /></p><hr/><small>19 Oct 2026, 16:26 UTC | #24732</small>]]></content>
+  </entry>
   <entry>
     <title>Wine Port for OpenBSD Proposed</title>
     <link href="https://marc.info/?l=openbsd-ports&amp;m=179236125692175" rel="alternate" />
