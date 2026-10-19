@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-19T13:38:00+00:00</updated>
+  <updated>2026-10-19T13:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Pew Research Center Reports Closing Gender Gap in AI Chatbot Use</title>
+    <link href="https://www.pewresearch.org/short-reads/2026/10/16/the-gender-gap-in-ai/" rel="alternate" />
+    <id>https://www.pewresearch.org/short-reads/2026/10/16/the-gender-gap-in-ai/::v240</id>
+    <published>2026-10-19T13:43:00+00:00</published>
+    <updated>2026-10-19T13:43:00+00:00</updated>
+    <media:thumbnail url="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/10/PI_26.10.16_Chatbot-Gender_featured.png?w=640" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.pewresearch.org/short-reads/2026/10/16/the-gender-gap-in-ai/">pewresearch.org</a> | <a href="https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/">source</a></small></p><hr/><p>A Pew Research Center study reveals that the gender gap in AI chatbot usage has closed, with men and women now equally likely to use tools like ChatGPT. While usage rates have converged, men use chatbots more regularly, particularly for work and information searches, and are more likely to use specific platforms such as Gemini and Copilot.</p><p>Diverging attitudes remain, as women express more skepticism regarding AI's impact on society and themselves and are more likely to believe the technology is advancing too quickly. Conversely, men are more likely to report that AI tools enhance their productivity and knowledge.</p><p><img src="https://www.pewresearch.org/wp-content/uploads/sites/20/2026/10/PI_26.10.16_Chatbot-Gender_featured.png?w=640" /></p><hr/><small>19 Oct 2026, 17:18 UTC | #24741</small>]]></content>
+  </entry>
   <entry>
     <title>Elon Musk to Give One SpaceX Share to Every U.S. Child Next Year</title>
     <link href="https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html" rel="alternate" />

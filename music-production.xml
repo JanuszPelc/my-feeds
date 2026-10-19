@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-19T13:39:00+00:00</updated>
+  <updated>2026-10-19T13:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>SampleScience Releases Free Compact Acoustic Piano Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/19/samplescience-compact-piano/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/19/samplescience-compact-piano/::v240</id>
+    <published>2026-10-19T13:45:00+00:00</published>
+    <updated>2026-10-19T13:45:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiouiDWKNjLk8QDBZuaagjuwErJ6ZqOoM5l4ywqJckeTvLzW7CmV7y1E3vCpkDbYrfS95xlO7-9QKaN0SXXdEkTFTnBckV6cEu6B5RIlgnd7SedAeq2sSgwoVRE0jha2ZM3ysS8AaCAU7J2PWItdBdFXxevdgN5TJgTCOf4vyx8vivUTuDoGd3wX9nYLg/s1624/SampleScience_Drone_Piano_Decent_Sampler_Edition_Screenshot.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/19/samplescience-compact-piano/">bedroomproducersblog.com</a> | <a href="https://x.com/SampleScienceSo/status/2108739405695643892">source</a> | <a href="https://bedroomproducersblog.com/2026/10/19/samplescience-compact-piano/#respond">discussion</a></small></p><hr/><p>SampleScience has released Compact Acoustic Piano, a free sample-based virtual instrument for macOS and Windows. The plugin is available in VST, VST3, and AU formats.</p><p>The instrument features four dynamic velocity layers designed to capture an expressive range of performance. It is a lightweight plugin intended to provide a clear, punchy acoustic piano sound that cuts through musical mixes.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiouiDWKNjLk8QDBZuaagjuwErJ6ZqOoM5l4ywqJckeTvLzW7CmV7y1E3vCpkDbYrfS95xlO7-9QKaN0SXXdEkTFTnBckV6cEu6B5RIlgnd7SedAeq2sSgwoVRE0jha2ZM3ysS8AaCAU7J2PWItdBdFXxevdgN5TJgTCOf4vyx8vivUTuDoGd3wX9nYLg/s1624/SampleScience_Drone_Piano_Decent_Sampler_Edition_Screenshot.jpg" /></p><hr/><small>19 Oct 2026, 17:23 UTC | #24761</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sampleroll Offers SPCE Adaptive Sidechain Plugin for Free</title>
+    <link href="https://bedroomproducersblog.com/2026/10/19/sample-roll-spce/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/19/sample-roll-spce/::v240</id>
+    <published>2026-10-19T13:44:00+00:00</published>
+    <updated>2026-10-19T13:44:00+00:00</updated>
+    <media:thumbnail url="https://voxsamples.com/cdn/shop/files/BouncerSidechainEffectProductImage.png?v=1742735677&amp;width=1066" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/19/sample-roll-spce/">bedroomproducersblog.com</a> | <a href="https://sampleroll.com/spce">source</a> | <a href="https://bedroomproducersblog.com/2026/10/19/sample-roll-spce/#respond">discussion</a></small></p><hr/><p>Sampleroll's SPCE adaptive sidechain plugin is currently available for free for a limited time. The plugin creates space for kick drums by selectively ducking only the interfering frequencies, which helps preserve bass and low-end power in a mix.</p><p>The plugin offers three main parameters—Amount, Space, and Groove—alongside Classic, Smart, and Punch modes. It supports audio and MIDI triggers with zero latency and is compatible with macOS (VST3/AU) and Windows (VST3).</p><p><img src="https://voxsamples.com/cdn/shop/files/BouncerSidechainEffectProductImage.png?v=1742735677&width=1066" /></p><hr/><small>19 Oct 2026, 17:21 UTC | #24763</small>]]></content>
+  </entry>
   <entry>
     <title>DAWJunkie Releases Super Duper Basses</title>
     <link href="https://www.kvraudio.com/news/dawjunkie-releases-super-duper-basses---an-instrument-based-on-classic-90s-hardware-69215?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69215" rel="alternate" />
