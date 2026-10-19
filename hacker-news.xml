@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-19T13:37:00+00:00</updated>
+  <updated>2026-10-19T15:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Let's Encrypt Adding Two Remote Perspectives for Domain Validation</title>
+    <link href="https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166" rel="alternate" />
+    <id>https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166::v240</id>
+    <published>2026-10-19T15:32:00+00:00</published>
+    <updated>2026-10-19T15:32:00+00:00</updated>
+    <media:thumbnail url="https://www.thesslstore.com/blog/wp-content/uploads/2025/09/single-vs-multi-perspective-validation-mpic2-shadow-1536x1409.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166">community.letsencrypt.org</a> | <a href="https://news.ycombinator.com/item?id=50150809">hacker news</a></small></p><hr/><p>Let's Encrypt is increasing its remote perspectives for domain validation from four to six, resulting in seven total validation requests. The change complies with new Baseline Requirements and is intended to enhance visibility and security against BGP attacks.</p><p>A staging rollout is scheduled for October 27, 2026, with a production rollout expected on November 10, 2026. Let's Encrypt anticipates minimal impact on users during the transition.</p><p><img src="https://www.thesslstore.com/blog/wp-content/uploads/2025/09/single-vs-multi-perspective-validation-mpic2-shadow-1536x1409.jpg" /></p><hr/><small>19 Oct 2026, 18:32 UTC | #24799</small>]]></content>
+  </entry>
   <entry>
     <title>NVIDIA Vera CPU Reverts to Monolithic Design to Prioritize Single-Threaded Performance for Agentic AI</title>
     <link href="https://wccftech.com/exclusive-nvidia-vera-team-says-chiplet-designs-sacrificed-single-threaded-performance-for-core-counts-and-agentic-ai-is-now-forcing-a-reversal/" rel="alternate" />
@@ -981,14 +990,5 @@
     <updated>2026-10-14T19:39:00+00:00</updated>
     <media:thumbnail url="https://www.engadget.com/img/gallery/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/intro-1791928728.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.engadget.com/2286108/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/">engadget.com</a> | <a href="https://blog.whatsapp.com/now-you-can-invite-anyone-to-a-whatsapp-call-no-account-needed-no-cost-no-time-limit">source</a></small></p><hr/><p>WhatsApp has introduced "guest calling," a feature that enables individuals without a WhatsApp account to join voice or video calls via a web browser. Participants can join 1:1 or group calls by accepting an invitation sent by the call host.</p><p>Guests can utilize interactive tools such as screen sharing, hand raising, and emoji reactions, but they are restricted from initiating calls, viewing participant phone numbers, or sending messages. Meta also plans to release a plugin for Google and Outlook calendar integrations later this year to streamline call scheduling.</p><p><img src="https://www.engadget.com/img/gallery/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account/intro-1791928728.jpg" /></p><hr/><small>14 Oct 2026, 23:33 UTC | #24298</small>]]></content>
-  </entry>
-  <entry>
-    <title>GitLab Warns of Critical RCE Vulnerability in CI/CD Regex Compiler</title>
-    <link href="https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/" rel="alternate" />
-    <id>https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/::v239</id>
-    <published>2026-10-14T18:17:00+00:00</published>
-    <updated>2026-10-14T18:17:00+00:00</updated>
-    <media:thumbnail url="https://www.bleepstatic.com/content/hl-images/2026/10/12/GitLab.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/">bleepingcomputer.com</a> | <a href="https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/">source</a> | <a href="https://lobste.rs/s/tehays/gitlab_warns_max_severity_code_execution">discussion</a></small></p><hr/><p>GitLab has identified a maximum-severity remote code execution (RCE) vulnerability, tracked as CVE-2026-97229, in its CI/CD Regular Expression Compiler. An integer overflow flaw allows unauthenticated attackers to execute arbitrary code on GitLab servers by providing a specially crafted regular expression within a project's pipeline configuration file.</p><p>The vulnerability affects GitLab Community and Enterprise Editions in versions 19.2 before 19.2.8, 19.3 before 19.3.4, and 19.4 before 19.4.2. While GitLab.com has already implemented the necessary patches, users of self-managed installations are urged to upgrade to the latest versions immediately to mitigate the risk.</p><p><img src="https://www.bleepstatic.com/content/hl-images/2026/10/12/GitLab.jpg" /></p><hr/><small>14 Oct 2026, 21:33 UTC | #24324</small>]]></content>
   </entry>
 </feed>
