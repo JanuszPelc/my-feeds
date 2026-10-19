@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-19T01:34:00+00:00</updated>
+  <updated>2026-10-19T03:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>macOS 27.0 Introduces New /pkg Directory and PATH Entry</title>
+    <link href="https://anderegg.ca/2026/10/18/what-the-heck-is-pkg" rel="alternate" />
+    <id>https://anderegg.ca/2026/10/18/what-the-heck-is-pkg::v240</id>
+    <published>2026-10-19T03:27:00+00:00</published>
+    <updated>2026-10-19T03:27:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/Kw5DIQIUKac/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://anderegg.ca/2026/10/18/what-the-heck-is-pkg">anderegg.ca</a> | <a href="https://lobste.rs/s/w6xosj/what_heck_is_pkg">discussion</a> | <a href="https://news.ycombinator.com/item?id=50143154">hacker news</a></small></p><hr/><p>macOS 27.0 has introduced a new `/pkg` directory at the root of the Signed System Volume and a new PATH entry, `/pkg/env/global/bin`, via the `/etc/paths.d/10-pmk-global` file. The directory contains `env`, `etc`, `inv`, and `var` subdirectories, but its exact purpose remains undocumented.</p><p>The directory first appeared on the Data volume in macOS 26.4 before being moved to the root filesystem in version 27.0. While the structure has sparked speculation regarding a potential first-party package management system, some technical sources suggest it may be related to internal Apple testing utilities or the "Tahoe" project.</p><p><img src="https://i.ytimg.com/vi/Kw5DIQIUKac/maxresdefault.jpg" /></p><hr/><small>19 Oct 2026, 07:28 UTC | #24717</small>]]></content>
+  </entry>
   <entry>
     <title>Using document.currentScript for Inline HTML Rendering</title>
     <link href="https://leanrada.com/notes/inline-rendering-currentscript/" rel="alternate" />
