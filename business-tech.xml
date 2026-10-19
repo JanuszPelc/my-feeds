@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-18T23:57:00+00:00</updated>
+  <updated>2026-10-19T01:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Lobsters Updates Site Guidelines and AI-Related Tags</title>
+    <link href="https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags" rel="alternate" />
+    <id>https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags::v240</id>
+    <published>2026-10-19T01:29:00+00:00</published>
+    <updated>2026-10-19T01:29:00+00:00</updated>
+    <media:thumbnail url="https://shoplobster.com/wp-content/uploads/2024/03/ai-lobsters.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags">lobste.rs</a> | <a href="https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags">discussion</a></small></p><hr/><p>Lobsters is updating its site guidelines and tag structure to improve topicality and reduce low-effort, self-promotional content. Changes include updated definitions for topicality and self-promotion on the site's "About" page, and a new policy prohibiting direct submissions to code repositories to discourage parasitic traffic-driving behavior.</p><p>The community is deactivating the `vibecoding` tag, which had become overloaded and misused, in favor of a new `ai-tooling` tag. This new tag is intended to focus discussions specifically on the design, user experience, and development of AI/LLM-powered tools.</p><p><img src="https://shoplobster.com/wp-content/uploads/2024/03/ai-lobsters.webp" /></p><hr/><small>19 Oct 2026, 04:40 UTC | #24702</small>]]></content>
+  </entry>
   <entry>
     <title>Florida HOAs and Condo Associations Impact Housing Crisis Through Foreclosures and Liens</title>
     <link href="https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html" rel="alternate" />
