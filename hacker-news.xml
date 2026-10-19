@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-18T23:06:00+00:00</updated>
+  <updated>2026-10-18T23:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Purplesyringa Uses Brute-Force Superoptimization to Optimize FPU Emulator</title>
+    <link href="https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/" rel="alternate" />
+    <id>https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/::v240</id>
+    <published>2026-10-18T23:52:00+00:00</published>
+    <updated>2026-10-18T23:52:00+00:00</updated>
+    <media:thumbnail url="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/f6dba029fbb505ad3660c2cf755739d880d7ae67/3-Figure1-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/">purplesyringa.moe</a> | <a href="https://lobste.rs/s/1s3dve/superoptimizing_fpu_emulator">discussion</a> | <a href="https://news.ycombinator.com/item?id=50117935">hacker news</a></small></p><hr/><p>To optimize a function that identifies the lowest set bit in a floating-point number, the author employed a brute-force superoptimization search. The process involved inductively building and pruning sets of formulas composed of bitwise and arithmetic operations to identify an optimal, branchless instruction sequence.</p><p>The search successfully discovered a novel formula that reuses subexpressions to minimize the total operation count. This optimized logic has been integrated into a work-in-progress FPU emulator, demonstrating that exhaustive search can uncover instruction-level efficiencies that standard compilers or large language models often miss.</p><p><img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/f6dba029fbb505ad3660c2cf755739d880d7ae67/3-Figure1-1.png" /></p><hr/><small>19 Oct 2026, 02:54 UTC | #24701</small>]]></content>
+  </entry>
   <entry>
     <title>Servo 0.6.0 Update Includes CSS Grid Support and Text Selection</title>
     <link href="https://servo.org/blog/2026/10/09/august-in-servo/" rel="alternate" />
