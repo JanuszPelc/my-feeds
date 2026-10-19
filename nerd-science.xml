@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-18T16:48:00+00:00</updated>
+  <updated>2026-10-19T01:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Dogs Associate 'Bouba' and 'Kiki' Sounds with Round and Spiky Shapes</title>
+    <link href="https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky" rel="alternate" />
+    <id>https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky::v240</id>
+    <published>2026-10-19T01:32:00+00:00</published>
+    <updated>2026-10-19T01:32:00+00:00</updated>
+    <media:thumbnail url="https://www.sciencealert.com/images/2026/10/AYellowStarburstShapeNextToOrangeBlobShape_1024.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky">sciencealert.com</a> | <a href="https://royalsocietypublishing.org/rspb/article/293/2080/20261209/483619/Hearing-shapes-the-Bouba-Kiki-effect-in-adult">source</a> | <a href="https://news.ycombinator.com/item?id=50136979">hacker news</a></small></p><hr/><p>Researchers at the University of Parma have found that domestic dogs exhibit the "Bouba-Kiki effect," demonstrating a cross-modal association between auditory and visual information. In a study published in Proceedings of the Royal Society B: Biological Sciences, 70 dogs showed a tendency to look at rounded shapes when hearing the sound "Bouba" and spiky shapes when hearing "Kiki."</p><p>To control for potential human influence, the team conducted trials where owners wore headphones to prevent the dogs from picking up on auditory cues. While the dogs initially exhibited a bias toward angular shapes, this preference vanished in the controlled setting, supporting the conclusion that the dogs were responding to the specific sound qualities themselves.</p><p><img src="https://www.sciencealert.com/images/2026/10/AYellowStarburstShapeNextToOrangeBlobShape_1024.webp" /></p><hr/><small>19 Oct 2026, 05:24 UTC | #24712</small>]]></content>
+  </entry>
   <entry>
     <title>Semaglutide May Slow Biological Aging Markers in Adults with HIV</title>
     <link href="https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging" rel="alternate" />
