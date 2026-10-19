@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-19T15:34:00+00:00</updated>
+  <updated>2026-10-19T15:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Vinted Faces Influx of Suspected Looted Goods Following French Riots</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-19/vinted-faces-influx-of-suspected-looted-goods-after-french-riots" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-19/vinted-faces-influx-of-suspected-looted-goods-after-french-riots::v240</id>
+    <published>2026-10-19T15:39:00+00:00</published>
+    <updated>2026-10-19T15:39:00+00:00</updated>
+    <media:thumbnail url="https://www.the-sun.com/wp-content/uploads/sites/6/2024/05/newspress-collage-djq3icfse-1715530861292.jpg?1715516621&amp;strip=all&amp;quality=100&amp;w=1920&amp;h=1080&amp;crop=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-19/vinted-faces-influx-of-suspected-looted-goods-after-french-riots">bloomberg.com</a></small></p><hr/><p>Vinted, a secondhand online marketplace, is experiencing an influx of listings suspected of containing stolen items following widespread riots in France. The civil unrest specifically targeted luxury retailers including Sephora, Louis Vuitton, and Burberry.</p><p>France serves as Vinted's largest market, making the surge of suspicious listings a significant moderation and operational challenge for the platform.</p><p><img src="https://www.the-sun.com/wp-content/uploads/sites/6/2024/05/newspress-collage-djq3icfse-1715530861292.jpg?1715516621&strip=all&quality=100&w=1920&h=1080&crop=1" /></p><hr/><small>19 Oct 2026, 19:14 UTC | #24755</small>]]></content>
+  </entry>
+  <entry>
+    <title>Deutsche Telekom, Orange, Telefónica, and Vodafone to Explore Joint European Satellite Spectrum Bid</title>
+    <link href="https://www.ft.com/content/555bbf91-4c38-43ce-94b6-90f7fc04e82c" rel="alternate" />
+    <id>https://www.ft.com/content/555bbf91-4c38-43ce-94b6-90f7fc04e82c::v240</id>
+    <published>2026-10-19T15:38:00+00:00</published>
+    <updated>2026-10-19T15:38:00+00:00</updated>
+    <media:thumbnail url="https://nova.space/wp-content/uploads/2025/07/AdobeStock_1257470261-scaled.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/555bbf91-4c38-43ce-94b6-90f7fc04e82c">ft.com</a> | <a href="https://www.orange.com/en/press-release/four-european-operators-sign-letter-of-intent-to-explore-a-joint-bid-for-mobile-satellite-services-spectrum-and-advance-direct-to-device-services-514066">source</a></small></p><hr/><p>Deutsche Telekom, Orange, Telefónica, and Vodafone have signed a letter of intent to explore a joint bid for mobile satellite services (MSS) spectrum in Europe. The collaboration aims to advance direct-to-device (D2D) technology, which would enable standard mobile devices to connect directly to satellites for coverage.</p><p>The initiative is designed to strengthen European sovereignty and resilience in critical connectivity infrastructure, positioning the group to compete with satellite providers such as Starlink. The operators are currently working to select a satellite partner to support the potential spectrum allocation.</p><p><img src="https://nova.space/wp-content/uploads/2025/07/AdobeStock_1257470261-scaled.webp" /></p><hr/><small>19 Oct 2026, 19:12 UTC | #24756</small>]]></content>
+  </entry>
   <entry>
     <title>SemiAnalysis Forecasts +50GW of Datacenter Capacity in 2027</title>
     <link href="https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration" rel="alternate" />

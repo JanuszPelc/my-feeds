@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-19T15:32:00+00:00</updated>
+  <updated>2026-10-19T16:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Ruby Developer Archives Repositories and Ceases Updates</title>
+    <link href="https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository" rel="alternate" />
+    <id>https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository::v240</id>
+    <published>2026-10-19T16:38:00+00:00</published>
+    <updated>2026-10-19T16:38:00+00:00</updated>
+    <media:thumbnail url="https://ondemand.bannerbear.com/signedurl/nZ52rq9EkQ6V3bp1Lj/image.jpg?modifications=W3sibmFtZSI6InRpdGxlIiwidGV4dCI6IkhvdyBkbyBSdWJ5IEdlbXMgd29yaz8iLCJjb2xvciI6bnVsbCwiYmFja2dyb3VuZCI6bnVsbH0seyJuYW1lIjoiaGVhZHNob3QiLCJpbWFnZV91cmwiOiJodHRwczovL3d3dy1maWxlcy5ob25leWJhZGdlci5pby9hdXRob3JzL3N0YXJyaC5wbmcifSx7Im5hbWUiOiJzdW1tYXJ5IiwidGV4dCI6IkxlYXJuIGhvdyBSdWJ5IEdlbXMgd29yayBhbmQgd2hlcmUgdGhlIGNvZGUgaXMgc3RvcmVkLCBob3cgbWV0aG9kcyBhcmUgZGVmaW5lZCBhbmQgd2hlbi93aGVyZS93aHkgZG9lcyBSYWlscyBsb2FkIHRoZSBjb2RlLiIsImNvbG9yIjpudWxsLCJiYWNrZ3JvdW5kIjpudWxsfSx7Im5hbWUiOiJhdXRob3IiLCJ0ZXh0IjoiQnkgKlN0YXJyIEhvcm5lKiIsImNvbG9yIjpudWxsLCJiYWNrZ3JvdW5kIjpudWxsfSx7Im5hbWUiOiJ0YWdzIiwidGV4dCI6IiNydWJ5IiwiY29sb3IiOm51bGwsImJhY2tncm91bmQiOm51bGx9XQ&amp;s=81a328a0f94094f06143e4513d64744ddcd8ae7e1c25243d5f4edf1c8f1bc8c3" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository">po-ru.com</a> | <a href="https://news.ycombinator.com/item?id=50154518">hacker news</a></small></p><hr/><p>The author has moved their Ruby gems to an archived state and will no longer provide maintenance or updates. This decision is driven by a loss of interest in a language ecosystem increasingly shaped by large language models and changing leadership within the Rails framework.</p><p>The post argues that the trend of using human-authored open-source code to train generative AI models represents a form of industrial "strip-mining." This move reflects a growing disillusionment among creators who feel that the original human-centric purpose of programming is being lost to AI-driven automation.</p><p><img src="https://ondemand.bannerbear.com/signedurl/nZ52rq9EkQ6V3bp1Lj/image.jpg?modifications=W3sibmFtZSI6InRpdGxlIiwidGV4dCI6IkhvdyBkbyBSdWJ5IEdlbXMgd29yaz8iLCJjb2xvciI6bnVsbCwiYmFja2dyb3VuZCI6bnVsbH0seyJuYW1lIjoiaGVhZHNob3QiLCJpbWFnZV91cmwiOiJodHRwczovL3d3dy1maWxlcy5ob25leWJhZGdlci5pby9hdXRob3JzL3N0YXJyaC5wbmcifSx7Im5hbWUiOiJzdW1tYXJ5IiwidGV4dCI6IkxlYXJuIGhvdyBSdWJ5IEdlbXMgd29yayBhbmQgd2hlcmUgdGhlIGNvZGUgaXMgc3RvcmVkLCBob3cgbWV0aG9kcyBhcmUgZGVmaW5lZCBhbmQgd2hlbi93aGVyZS93aHkgZG9lcyBSYWlscyBsb2FkIHRoZSBjb2RlLiIsImNvbG9yIjpudWxsLCJiYWNrZ3JvdW5kIjpudWxsfSx7Im5hbWUiOiJhdXRob3IiLCJ0ZXh0IjoiQnkgKlN0YXJyIEhvcm5lKiIsImNvbG9yIjpudWxsLCJiYWNrZ3JvdW5kIjpudWxsfSx7Im5hbWUiOiJ0YWdzIiwidGV4dCI6IiNydWJ5IiwiY29sb3IiOm51bGwsImJhY2tncm91bmQiOm51bGx9XQ&s=81a328a0f94094f06143e4513d64744ddcd8ae7e1c25243d5f4edf1c8f1bc8c3" /></p><hr/><small>19 Oct 2026, 19:21 UTC | #24804</small>]]></content>
+  </entry>
   <entry>
     <title>Let's Encrypt Adding Two Remote Perspectives for Domain Validation</title>
     <link href="https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166" rel="alternate" />
