@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-19T15:36:00+00:00</updated>
+  <updated>2026-10-19T16:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>doubleAI Launches Code Execution Model to Optimize GPU and CPU Performance</title>
+    <link href="https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215?st=Xj19EK&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215?st=Xj19EK&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-10-19T16:40:00+00:00</published>
+    <updated>2026-10-19T16:40:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D22AQEPCaGJqgYEeQ/feedshare-shrink_1280/B4DZy0FlL3I8Ac-/0/1772547888154?e=2147483647&amp;v=beta&amp;t=btTJL2LV6lzq6LvDGiaqp3iXEP4R2ydrymUEftKygrA" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/cio-journal/nvidia-backed-startup-doubleai-launches-model-to-pare-cost-of-compute-b780f215?st=Xj19EK&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.doubleai.org/">source</a></small></p><hr/><p>Tel Aviv-based startup doubleAI is debuting a code execution model called WarpSpeed, designed to optimize GPU and CPU performance to reduce computing costs. The model is intended to function as an artificial expert system that automates performance engineering.</p><p>The company announced a $220 million funding round and the acquisition of 1,000 Nvidia B300 chips. Founded by Mobileye alumni, doubleAI has reportedly applied its technology to optimize kernels within NVIDIA's cuGraph library.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D22AQEPCaGJqgYEeQ/feedshare-shrink_1280/B4DZy0FlL3I8Ac-/0/1772547888154?e=2147483647&v=beta&t=btTJL2LV6lzq6LvDGiaqp3iXEP4R2ydrymUEftKygrA" /></p><hr/><small>19 Oct 2026, 19:40 UTC | #24754</small>]]></content>
+  </entry>
   <entry>
     <title>Unsloth Adds Support for DeepSeek-V4.1-Flash-1017 and FLUX.3</title>
     <link href="https://unsloth.ai/docs/new/changelog#deepseek-v4.1-flash-1017-and-flux.3" rel="alternate" />
@@ -352,21 +361,5 @@
     <published>2026-10-14T21:04:00+00:00</published>
     <updated>2026-10-14T21:04:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.ai/news/grok-voice-3">x.ai</a> | <a href="https://news.ycombinator.com/item?id=50090731">hacker news</a></small></p><hr/><p>The new speech-to-speech model features sub-one-second latency and ranks first on Artificial Analysis's Speech-to-Speech Index. It is available through the Voice Agent API at $0.08 per minute, the same pricing as its predecessor.</p><p>The technology is currently used for millions of daily conversations in Tesla vehicles and manages 20,000 daily customer calls for Starlink. It also achieved a 74% accuracy score on ServiceNow's EVA-Bench for enterprise voice agents.</p><hr/><small>15 Oct 2026, 02:37 UTC | #24315</small>]]></content>
-  </entry>
-  <entry>
-    <title>YouTube Music Launches AI Transparency Labels</title>
-    <link href="https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/::v239</id>
-    <published>2026-10-14T19:40:00+00:00</published>
-    <updated>2026-10-14T19:40:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/">techcrunch.com</a> | <a href="https://blog.youtube/news-and-events/youtube-music-ai-labels/">source</a></small></p><hr/><p>A new labeling system will identify tracks created with generative AI, including those involving AI composition or vocals. Through designations such as “Fully Gen AI,” “Partly Gen AI,” and “No Gen AI,” listeners can see the specific role AI played in a track's creation on the player page and within the main YouTube app.</p><p>The initiative follows similar moves by Apple Music and Spotify to manage the surge of AI-generated content. While Deezer and TIDAL have implemented measures to exclude AI music from playlists or monetization, YouTube is focusing on disclosure while allowing AI-assisted tracks to remain eligible for monetization and algorithmic recommendations.</p><hr/><small>14 Oct 2026, 23:35 UTC | #24310</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apate Uses AI Agents to Gather Fraud Intelligence via Undercover Scams</title>
-    <link href="https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/::v239</id>
-    <published>2026-10-14T19:38:00+00:00</published>
-    <updated>2026-10-14T19:38:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/">techcrunch.com</a> | <a href="https://www.apate.ai/post/apate-ai-raises-us-8-15m-taking-its-autonomous-fleet-of-ai-agents-to-a-global-fight-against-scammers-and-reincorporates-in-the-united-states">source</a></small></p><hr/><p>Apate.ai deploys autonomous AI agents that masquerade as victims to engage with scammers through phone calls, messages, and emails. By pretending to be individuals of various ages and accents, these agents gather intelligence on fraudulent tactics—such as bank account numbers, cryptocurrency wallets, and malicious websites—to help banks, telecommunications companies, and government agencies improve their anti-fraud measures.</p><p>Developed from research at Macquarie University, the platform has logged 2.5 million conversations and has been utilized by institutions like Commonwealth Bank of Australia to mitigate scam losses. Following a recent $8.15 million seed round, the startup plans to expand its operations into the United Kingdom and the United States.</p><hr/><small>14 Oct 2026, 23:20 UTC | #24307</small>]]></content>
   </entry>
 </feed>
