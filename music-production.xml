@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-19T12:14:00+00:00</updated>
+  <updated>2026-10-19T13:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>DAWJunkie Releases Super Duper Basses</title>
+    <link href="https://www.kvraudio.com/news/dawjunkie-releases-super-duper-basses---an-instrument-based-on-classic-90s-hardware-69215?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69215" rel="alternate" />
+    <id>https://www.kvraudio.com/news/dawjunkie-releases-super-duper-basses---an-instrument-based-on-classic-90s-hardware-69215?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69215::v240</id>
+    <published>2026-10-19T13:39:00+00:00</published>
+    <updated>2026-10-19T13:39:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/newsuperduperbasses.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dawjunkie-releases-super-duper-basses---an-instrument-based-on-classic-90s-hardware-69215?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69215">kvraudio.com</a> | <a href="https://dawjunkie.com/product/super-duper-basses/">source</a></small></p><hr/><p>DAWJunkie has released Super Duper Basses, a software instrument inspired by 1990s hardware. The plugin features eight classic bass styles with adjustable unison, built-in compression and saturation, and integrated effects including chorus, phaser, delay, and reverb.</p><p>Available for Windows and macOS, the instrument supports AU, VST2, VST3, and AAX formats. It is currently offered at an introductory price of $4.95, reduced from its standard retail price of $49.00.</p><p><img src="https://static.kvraudio.com/i/b/newsuperduperbasses.jpg" /></p><hr/><small>19 Oct 2026, 16:53 UTC | #24764</small>]]></content>
+  </entry>
   <entry>
     <title>Denormal Audio Releases Guardrail MIDI Transformation Plugin</title>
     <link href="https://www.kvraudio.com/news/denormal-audio-releases-guardrail---midi-transformation-plugin-aax-au-and-vst3-69198?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69198" rel="alternate" />
