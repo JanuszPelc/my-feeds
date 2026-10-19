@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-18T18:04:00+00:00</updated>
+  <updated>2026-10-18T20:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Hybrid Reasoning Agents Combine Latent Reasoning with Text-Based Tool Use</title>
+    <link href="https://arxiv.org/abs/2610.18861" rel="alternate" />
+    <id>https://arxiv.org/abs/2610.18861::v240</id>
+    <published>2026-10-18T20:49:00+00:00</published>
+    <updated>2026-10-18T20:49:00+00:00</updated>
+    <media:thumbnail url="https://aimodels.fyi/api/og?image=https://arxiv.org/html/2511.09149v1/x1.png&amp;title=Enabling+Agents+to+Communicate+Entirely+in+Latent+Space&amp;subtitle=What+if+LLMs+could+truly+read+each+other's+minds,+not+just+chat?" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arxiv.org/abs/2610.18861">arxiv.org</a> | <a href="https://news.ycombinator.com/item?id=50145337">hacker news</a></small></p><hr/><p>Hybrid Reasoning Agents is a research system that dynamically switches between latent reasoning and text-based interaction during a single generation process. Its HybridLink architecture and continuous working memory preserve tool use and inspectable reasoning, while HybridSFT and HybridRL train models to decide when to think internally and when to act through text.</p><p>Evaluated across 11 mathematics, science, medicine, search, and agentic-reasoning benchmarks at three model scales, the system reportedly improves performance by 10.4%, reduces token use by 35.5%–54.7%, accelerates inference by 1.8–2.6×, and lowers costs by 2.7–3.7×. The authors provide code and data through the HybridAgent GitHub repository.</p><p><img src="https://aimodels.fyi/api/og?image=https://arxiv.org/html/2511.09149v1/x1.png&title=Enabling+Agents+to+Communicate+Entirely+in+Latent+Space&subtitle=What+if+LLMs+could+truly+read+each+other's+minds,+not+just+chat?" /></p><hr/><small>19 Oct 2026, 00:33 UTC | #24697</small>]]></content>
+  </entry>
   <entry>
     <title>Codex Desktop App Rapidly Consumes macOS Disk Space via Continuous Crash Dumps</title>
     <link href="https://github.com/openai/codex/issues/25921" rel="alternate" />
