@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-19T16:43:00+00:00</updated>
+  <updated>2026-10-19T16:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>One Hash Bloom Filters and the Gloom Implementation</title>
+    <link href="https://www.calabro.io/ohbf" rel="alternate" />
+    <id>https://www.calabro.io/ohbf::v240</id>
+    <published>2026-10-19T16:47:00+00:00</published>
+    <updated>2026-10-19T16:47:00+00:00</updated>
+    <media:thumbnail url="https://www.calabro.io/static/posts/bsky-bloom-filter-positive-rate.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.calabro.io/ohbf">calabro.io</a> | <a href="https://lobste.rs/s/mpytbn/one_hash_bloom_filters">discussion</a></small></p><hr/><p>Bloom filters are probabilistic data structures that determine whether a key belongs to a set with a configurable false positive rate. While traditional implementations require computing multiple hash functions per key, one-hash bloom filters (OHBF) utilize a single hash function by dividing the bit array into multiple partitions of coprime sizes.</p><p>The gloom library is a Go implementation of OHBF currently used in the Bluesky backend and Jetstream sync service. To optimize performance for high-throughput environments, the implementation utilizes 64-byte block partitioning for CPU cache line alignment, replaces expensive modulo operations with single multiplication instructions, and employs a sharded atomic filter to minimize thread contention.</p><p><img src="https://www.calabro.io/static/posts/bsky-bloom-filter-positive-rate.png" /></p><hr/><small>19 Oct 2026, 20:24 UTC | #24811</small>]]></content>
+  </entry>
   <entry>
     <title>Jim Calabro's Technical Blog</title>
     <link href="https://www.calabro.io" rel="alternate" />

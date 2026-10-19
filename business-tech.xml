@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-19T15:39:00+00:00</updated>
+  <updated>2026-10-19T16:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Democrats Target AI Regulation in Upcoming Midterm Elections</title>
+    <link href="https://www.theverge.com/policy/1013113/democrats-ai-midterms" rel="alternate" />
+    <id>https://www.theverge.com/policy/1013113/democrats-ai-midterms::v240</id>
+    <published>2026-10-19T16:45:00+00:00</published>
+    <updated>2026-10-19T16:45:00+00:00</updated>
+    <media:thumbnail url="https://culturemosaic.co.uk/wp-content/uploads/2025/10/Generated-image-1131-1.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/policy/1013113/democrats-ai-midterms">theverge.com</a></small></p><hr/><p>Democrats are weighing aggressive AI regulation as a central strategy for the upcoming midterm elections. If they regain control of Congress, committee leadership could use their authority to increase scrutiny of the AI industry, focusing on issues like data center tax credits, cybersecurity incidents, and the energy consumption of large-scale models.</p><p>This strategy responds to growing public concerns regarding AI's impact on employment and education. While the Republican platform tends toward an accelerationist, low-regulation approach, Democratic-aligned groups like the super PAC Tomorrow Together are launching significant advertising campaigns to frame AI oversight as a necessary measure for community safety and industry accountability.</p><p><img src="https://culturemosaic.co.uk/wp-content/uploads/2025/10/Generated-image-1131-1.png" /></p><hr/><small>19 Oct 2026, 20:19 UTC | #24765</small>]]></content>
+  </entry>
   <entry>
     <title>Vinted Faces Influx of Suspected Looted Goods Following French Riots</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-19/vinted-faces-influx-of-suspected-looted-goods-after-french-riots" rel="alternate" />
