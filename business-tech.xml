@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-19T13:50:00+00:00</updated>
+  <updated>2026-10-19T15:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>SemiAnalysis Forecasts +50GW of Datacenter Capacity in 2027</title>
+    <link href="https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration" rel="alternate" />
+    <id>https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration::v240</id>
+    <published>2026-10-19T15:34:00+00:00</published>
+    <updated>2026-10-19T15:34:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!1fXY!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/d8a61ab9-ad4e-43e1-b6ec-21295e10b7d4_2700x1440.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration">newsletter.semianalysis.com</a></small></p><hr/><p>SemiAnalysis forecasts that global datacenter capacity will increase by over 50GW in 2027, driven by a significant acceleration in construction. Leading indicators, including quarterly self-build starts and over $1 trillion in non-cancellable datacenter leases signed year-to-date, support this projection. Currently, more than 24GW of datacenter capacity is in the advanced stages of construction.</p><p>To mitigate constraints in power, labor, and supply chains, industry players are increasingly adopting modular designs, prefabricated electrical components, and behind-the-meter power generation. This projected expansion is expected to significantly increase compute supply, which may lower AI costs and accelerate model development. The buildout is also diversifying geographically to bypass US-based infrastructure and regulatory hurdles.</p><p><img src="https://substackcdn.com/image/fetch/$s_!1fXY!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/d8a61ab9-ad4e-43e1-b6ec-21295e10b7d4_2700x1440.png" /></p><hr/><small>19 Oct 2026, 18:48 UTC | #24758</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic's Long-Term Benefit Trust Exercises Significant Governance Control</title>
     <link href="https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-19T15:29:00+00:00</updated>
+  <updated>2026-10-19T15:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Unsloth Adds Support for DeepSeek-V4.1-Flash-1017 and FLUX.3</title>
+    <link href="https://unsloth.ai/docs/new/changelog#deepseek-v4.1-flash-1017-and-flux.3" rel="alternate" />
+    <id>https://unsloth.ai/docs/new/changelog#deepseek-v4.1-flash-1017-and-flux.3::v240</id>
+    <published>2026-10-19T15:36:00+00:00</published>
+    <updated>2026-10-19T15:36:00+00:00</updated>
+    <media:thumbnail url="https://help.apiyi.com/wp-content/uploads/2026/04/deepseek-v4-flash-api-launch-guide-image-2.png" />
+    <content type="html"><![CDATA[<p><small>Unsloth Changelog | <a href="https://unsloth.ai/docs/new/changelog#deepseek-v4.1-flash-1017-and-flux.3">unsloth.ai</a></small></p><hr/><p>Unsloth now supports local execution of DeepSeek-V4.1-Flash-1017 and FLUX.3 Image Klein. The DeepSeek model, which features 552B total parameters and 16B active parameters, can run on approximately 125 GB using 1-bit quantization and SSD offloading. FLUX.3 Image Klein requires 24 GB of VRAM and allows for image editing with up to 10 reference images.</p><p>Additional updates include multi-GPU training via FSDP2 (alpha), a one-command MCP setup for connecting coding agents like Claude Code or Cursor to Unsloth, and image and video support in local chats. The release also introduces a token preview feature for training and support for Qwen-Image-Edit, which allows for editing with up to three images simultaneously.</p><p><img src="https://help.apiyi.com/wp-content/uploads/2026/04/deepseek-v4-flash-api-launch-guide-image-2.png" /></p><hr/><small>19 Oct 2026, 18:53 UTC | #24793</small>]]></content>
+  </entry>
   <entry>
     <title>CERN and Mistral Partner to Develop AI Foundation Models for Physics</title>
     <link href="https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-19T13:46:00+00:00</updated>
+  <updated>2026-10-19T15:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Chris Kiehl Defends the Value of Programming for Personal Enjoyment</title>
+    <link href="https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming" rel="alternate" />
+    <id>https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming::v240</id>
+    <published>2026-10-19T15:37:00+00:00</published>
+    <updated>2026-10-19T15:37:00+00:00</updated>
+    <media:thumbnail url="https://www.beingguru.com/wp-content/uploads/2026/02/How-Artificial-Intelligence-Supports-the-Growth-of-Programming-Skills.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming">chriskiehl.com</a> | <a href="https://news.ycombinator.com/item?id=50134472">hacker news</a></small></p><hr/><p>Programming remains a rewarding pursuit for personal enjoyment and intellectual growth, even as AI shifts the economic landscape of professional software development, according to Chris Kiehl. He contends that while AI may alter the professional value of manual code production, the intrinsic satisfaction of solving complex problems should remain a primary motivator outside of work.</p><p>The essay responds to a perceived sense of pessimism within developer communities like Hacker News. Kiehl provides personal examples, such as building games and studying advanced type systems, to demonstrate that exploring difficult concepts provides value independent of economic justification.</p><p><img src="https://www.beingguru.com/wp-content/uploads/2026/02/How-Artificial-Intelligence-Supports-the-Growth-of-Programming-Skills.jpg" /></p><hr/><small>19 Oct 2026, 18:57 UTC | #24802</small>]]></content>
+  </entry>
   <entry>
     <title>Organ-on-a-Chip and New Methodologies Gain Traction as Alternatives to Animal Testing</title>
     <link href="https://spectrum.ieee.org/alternatives-to-animal-testing" rel="alternate" />
