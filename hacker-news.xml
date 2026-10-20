@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T18:45:00+00:00</updated>
+  <updated>2026-10-20T18:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Google Releases TorchTPU as Open Source to Run Native PyTorch on TPUs</title>
+    <link href="https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/::v240</id>
+    <published>2026-10-20T18:56:00+00:00</published>
+    <updated>2026-10-20T18:56:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQELcaUMC5xAnw/feedshare-shrink_800/B56Z2DOdV2KMAc-/0/1776023099251?e=2147483647&amp;v=beta&amp;t=_8ECQOqh-kj2SKY2QEW_d7nudJTNf8x7GcP_ZijCdbA" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/">techcrunch.com</a> | <a href="https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus">source</a> | <a href="https://news.ycombinator.com/item?id=50165880">hacker news</a></small></p><hr/><p>Google has open-sourced TorchTPU, a toolkit allowing AI applications built with PyTorch to run natively on Google's Tensor Processing Units. The release follows Amazon's introduction of a similar tool, TorchNeuron, as major cloud providers attempt to reduce reliance on Nvidia's dominant hardware ecosystem.</p><p>TorchTPU enables developers to port existing PyTorch models to Google Cloud and TPUs via simple configuration changes without rewriting application code. Google has also launched a TPU agent suite and updated its LiteRT tool to help developers migrate and optimize models across cloud infrastructure and edge devices.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQELcaUMC5xAnw/feedshare-shrink_800/B56Z2DOdV2KMAc-/0/1776023099251?e=2147483647&v=beta&t=_8ECQOqh-kj2SKY2QEW_d7nudJTNf8x7GcP_ZijCdbA" /></p><hr/><small>20 Oct 2026, 23:40 UTC | #24928</small>]]></content>
+  </entry>
   <entry>
     <title>333 Malicious Tor Exit Nodes Removed Following SSH Man-in-the-Middle Attack</title>
     <link href="https://kaba.cx/posts/20261020_Tor/" rel="alternate" />
