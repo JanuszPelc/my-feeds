@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-20T16:23:00+00:00</updated>
+  <updated>2026-10-20T18:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Arturia Releases MiniFreak 49 Synthesizer with XYZ Touch Matrix</title>
+    <link href="https://musictech.com/news/gear/arturia-minifreak-49/" rel="alternate" />
+    <id>https://musictech.com/news/gear/arturia-minifreak-49/::v240</id>
+    <published>2026-10-20T18:31:00+00:00</published>
+    <updated>2026-10-20T18:31:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Arturia-MiniFreak-3@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/arturia-minifreak-49/">musictech.com</a> | <a href="https://www.arturia.com/products/hardware-synths/minifreak-49/overview">source</a></small></p><hr/><p>Arturia has announced the MiniFreak 49, a new hardware version of its hybrid synthesizer that expands the original 37-key model into a 49-key form factor. The updated unit features semi-weighted keys with velocity sensitivity and mono aftertouch, an all-new XYZ touch control matrix for performance and preset navigation, and a larger OLED display.</p><p>Like its predecessor, the 6-voice hybrid synthesizer incorporates dual digital engines, analog filters on every voice, and over 30 oscillator modes derived from Arturia, Mutable Instruments, and Noise Engineering. The instrument also includes a 64-step sequencer, three FX slots with 13 algorithms, and comes bundled with the MiniFreak V software synthesizer. It is available now priced at €799.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Arturia-MiniFreak-3@2000x1500.jpg" /></p><hr/><small>20 Oct 2026, 21:17 UTC | #24910</small>]]></content>
+  </entry>
   <entry>
     <title>Session Loops Releases PitchNet Free AI Vocal Tuning Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/10/20/session-loops-pitchnet/" rel="alternate" />
