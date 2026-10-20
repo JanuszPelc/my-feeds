@@ -1084,12 +1084,4 @@
     <media:thumbnail url="https://i.ytimg.com/vi/m7BOY1OCH_Q/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIAC0AWKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLCKVUMK3qmc_uND6W60DZ4tQsiXfQ" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://try.haxy.net/haxy:haxy">try.haxy.net</a> | <a href="https://github.com/xit-vcs/haxy">source</a> | <a href="https://lobste.rs/s/bcaopz/haxy_on_haxy">discussion</a></small></p><hr/><p>HAXY is a Git forge in development, intended to function as a lightweight and high-performance Git server. It currently supports repository initialization and data transfer via HTTP and SSH protocols.</p><p>The software is implemented using the Zig programming language and leverages the xit library for its core version control system logic.</p><p><img src="https://i.ytimg.com/vi/m7BOY1OCH_Q/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCKVUMK3qmc_uND6W60DZ4tQsiXfQ" /></p><hr/><small>15 Oct 2026, 12:32 UTC | #24386</small>]]></content>
   </entry>
-  <entry>
-    <title>Microsoft and Partners Dismantle Chinese-Language Phishing Kit Ecosystem</title>
-    <link href="https://cyberscoop.com/microsoft-disrupts-chinese-language-phishing-kit-ecosystem/" rel="alternate" />
-    <id>https://cyberscoop.com/microsoft-disrupts-chinese-language-phishing-kit-ecosystem/::v239</id>
-    <published>2026-10-15T04:37:00+00:00</published>
-    <updated>2026-10-15T04:37:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://cyberscoop.com/microsoft-disrupts-chinese-language-phishing-kit-ecosystem/">cyberscoop.com</a> | <a href="https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/">source</a></small></p><hr/><p>A Chinese-language cybercrime ecosystem known as Storm-2990, which provided specialized phishing kits and infrastructure, has been dismantled by Microsoft, Japanese authorities, and Health-ISAC. The network, involving services such as YAM Store, CoGUI, and Iron Man, delivered over 1 billion malicious messages to more than 75,000 organizations globally.</p><p>Targeting sectors like healthcare, finance, and logistics, the kits were used for credential theft and financial fraud through brand impersonation. The disruption included the seizure of numerous domains and the disabling of over 20,000 accounts used by the threat actors.</p><hr/><small>15 Oct 2026, 10:39 UTC | #24349</small>]]></content>
-  </entry>
 </feed>
