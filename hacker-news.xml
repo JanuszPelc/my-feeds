@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-19T20:12:00+00:00</updated>
+  <updated>2026-10-19T21:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Rust Compiler Developments and Performance Improvements in 2026</title>
+    <link href="https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/" rel="alternate" />
+    <id>https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/::v240</id>
+    <published>2026-10-19T21:01:00+00:00</published>
+    <updated>2026-10-19T21:01:00+00:00</updated>
+    <media:thumbnail url="https://blog.jetbrains.com/wp-content/uploads/2025/12/Your-Paragraph-Text-1-Edited.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/">yoyo-code.com</a> | <a href="https://lobste.rs/s/c2ouz0/2026_is_exciting_year_for_rust_compiler_me">discussion</a></small></p><hr/><p>The Rust compiler is experiencing a convergence of long-term investments in 2026, including the integration of the next-generation trait solver, the Polonius borrow checker, and a parallel frontend nearing stabilization. These milestones address deep technical debt and unblock significant language and performance features across the ecosystem.</p><p>Additional updates highlight ongoing performance gains, such as LLVM performance enhancements, MIR move elimination optimizations, and shared caching between cargo check and cargo build. The piece also outlines the author's personal transition into contributing to Rust compiler development following participation in the Rust All Hands event.</p><p><img src="https://blog.jetbrains.com/wp-content/uploads/2025/12/Your-Paragraph-Text-1-Edited.png" /></p><hr/><small>20 Oct 2026, 02:29 UTC | #24839</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Details Architecture of Prometheus Gigawatt-Scale AI Supercluster</title>
     <link href="https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/" rel="alternate" />
