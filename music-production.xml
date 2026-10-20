@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-20T16:20:00+00:00</updated>
+  <updated>2026-10-20T16:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Session Loops Releases PitchNet Free AI Vocal Tuning Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/20/session-loops-pitchnet/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/20/session-loops-pitchnet/::v240</id>
+    <published>2026-10-20T16:23:00+00:00</published>
+    <updated>2026-10-20T16:23:00+00:00</updated>
+    <media:thumbnail url="https://amnerhunter.com/wp-content/uploads/2023/07/website-7-1024x576.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/20/session-loops-pitchnet/">bedroomproducersblog.com</a> | <a href="https://sessionloops.com/pitchnet">source</a> | <a href="https://bedroomproducersblog.com/2026/10/20/session-loops-pitchnet/#comments">discussion</a></small></p><hr/><p>Session Loops has released PitchNet, a free and open-source vocal pitch correction plugin for macOS, Windows, and Linux. The software uses AI resynthesis rather than traditional waveform warping to rebuild tuned vocals with natural-sounding pitch adjustments.</p><p>Built using JUCE, PitchNet functions as a VST3, AU, and AAX plugin as well as a standalone application, offering producers a free alternative to commercial software like Melodyne. The project is also featured as an entry in the KVR Developer Challenge 2026.</p><p><img src="https://amnerhunter.com/wp-content/uploads/2023/07/website-7-1024x576.jpg" /></p><hr/><small>20 Oct 2026, 20:39 UTC | #24916</small>]]></content>
+  </entry>
   <entry>
     <title>AIR Music Tech Announces Free Vocal Distortion Plugin for Black Friday</title>
     <link href="https://bedroomproducersblog.com/2026/10/20/air-music-black-friday-vocal/" rel="alternate" />

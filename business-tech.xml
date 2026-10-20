@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-20T16:10:00+00:00</updated>
+  <updated>2026-10-20T16:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Court Records Show TikTok Executives Ignored Internal Child Safety Warnings</title>
+    <link href="https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering" rel="alternate" />
+    <id>https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering::v240</id>
+    <published>2026-10-20T16:22:00+00:00</published>
+    <updated>2026-10-20T16:22:00+00:00</updated>
+    <media:thumbnail url="https://i.kym-cdn.com/news/posts/mobile/000/002/754/tiktoknews.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering">npr.org</a></small></p><hr/><p>Previously unreported court records from federal multi-district litigation reveal that TikTok employees repeatedly raised internal alarms about child safety risks on the platform, including sexual exploitation, suicide content, and age-verification loopholes, but executives failed to act. Depositions filed in March 2026 show staffers struggling for months to elevate issues regarding minors appearing in transactional sexual content on TikTok Live and bypassing parental controls.</p><p>The documents indicate that company leaders were aware of systemic vulnerabilities, such as thousands of children appearing in livestreams that generated revenue for the platform, and deliberately avoided conducting user age surveys to skirt potential Federal Trade Commission scrutiny. While TikTok faces numerous lawsuits from states and school districts over youth addiction and harmful content, the company declined to comment on the specific allegations in the depositions.</p><p><img src="https://i.kym-cdn.com/news/posts/mobile/000/002/754/tiktoknews.jpg" /></p><hr/><small>20 Oct 2026, 20:38 UTC | #24896</small>]]></content>
+  </entry>
   <entry>
     <title>Spotify Launches Paid Podcast Memberships</title>
     <link href="https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/" rel="alternate" />
