@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T00:57:00+00:00</updated>
+  <updated>2026-10-20T01:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>OpenBSD 8.0 Released</title>
+    <link href="https://www.openbsd.org/80.html" rel="alternate" />
+    <id>https://www.openbsd.org/80.html::v240</id>
+    <published>2026-10-20T01:47:00+00:00</published>
+    <updated>2026-10-20T01:47:00+00:00</updated>
+    <media:thumbnail url="https://www.instalki.pl/wp-content/uploads/program/O/2ddc1065b316c340a74294091fbdece2op2.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.openbsd.org/80.html">openbsd.org</a> | <a href="https://lobste.rs/s/sqdhu7/openbsd_8_0">discussion</a> | <a href="https://news.ycombinator.com/item?id=50160494">hacker news</a></small></p><hr/><p>OpenBSD has released version 8.0, its 61st operating system version, featuring major architectural updates, hardware driver additions, and performance enhancements. Notable improvements include expanding the amd64 kernel virtual address space from 4 gigabytes to 512 gigabytes, adding hibernate support for arm64 systems, and incorporating the 'V' vector extension for the riscv64 architecture.</p><p>The release also updates the Direct Rendering Manager to Linux 6.18.53 with support for Intel Arc graphics cards, enhances the VMM/VMD virtualization stack to support up to 64 virtual CPUs per guest, and delivers numerous hardware driver updates across wireless, touchscreen, and power-management components.</p><p><img src="https://www.instalki.pl/wp-content/uploads/program/O/2ddc1065b316c340a74294091fbdece2op2.png" /></p><hr/><small>20 Oct 2026, 05:08 UTC | #24845</small>]]></content>
+  </entry>
   <entry>
     <title>DNSimple Details Optimizations Used to Make dns_erlang Faster</title>
     <link href="https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/" rel="alternate" />

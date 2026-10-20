@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-20T00:54:00+00:00</updated>
+  <updated>2026-10-20T01:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>FTC Clears Publicis Acquisition of LiveRamp Under Consent Decree</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-19/ftc-requires-publicis-to-offer-equal-access-to-liveramp-data" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-19/ftc-requires-publicis-to-offer-equal-access-to-liveramp-data::v240</id>
+    <published>2026-10-20T01:00:00+00:00</published>
+    <updated>2026-10-20T01:00:00+00:00</updated>
+    <media:thumbnail url="https://mercadotecnia.portada-online.com/wp-content/uploads/2026/05/ChatGPT-Image.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-19/ftc-requires-publicis-to-offer-equal-access-to-liveramp-data">bloomberg.com</a> | <a href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp">source</a></small></p><hr/><p>The US Federal Trade Commission approved Publicis Groupe SA's $2.2 billion acquisition of LiveRamp Holdings Inc. subject to a consent decree. The agreement requires Publicis to provide neutral and nondiscriminatory access to LiveRamp's data connectivity tools for all clients and to establish firewalls protecting customer data.</p><p>The conditions aim to preserve competition within the digital advertising ecosystem by preventing Publicis from leveraging exclusive insights or appropriating customer data to disadvantage rival media companies. The regulatory clearance allows the major ad holding company to integrate LiveRamp's identity resolution and data collaboration infrastructure under strict behavioral oversight.</p><p><img src="https://mercadotecnia.portada-online.com/wp-content/uploads/2026/05/ChatGPT-Image.jpg" /></p><hr/><small>20 Oct 2026, 05:06 UTC | #24819</small>]]></content>
+  </entry>
   <entry>
     <title>Lula Supporters Protest Against Meta Over Alleged Electoral Interference in Brazil</title>
     <link href="https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/" rel="alternate" />
@@ -921,14 +930,5 @@
     <updated>2026-10-15T05:11:00+00:00</updated>
     <media:thumbnail url="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/12/09221525/yoti-age-check-app-1024x532.png" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/dd32b46d-9bbc-414e-92fb-a4bc121614dc">ft.com</a></small></p><hr/><p>Yoti, a UK-based digital identity verification service with 23 million downloads, has grown its annual revenue from £6.2 million in 2022 to over £32 million in 2025. While the company maintains its largest market in the United Kingdom, it is withdrawing its identity app from the Apple and Android stores in Spain.</p><p>The withdrawal follows a €950,000 fine from Spain's data protection authority (AEPD) concerning the legality of facial biometric authentication. Yoti is appealing the decision, arguing that complying with the regulator's requirements would require implementing less secure, non-biometric authentication methods.</p><p><img src="https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/12/09221525/yoti-age-check-app-1024x532.png" /></p><hr/><small>15 Oct 2026, 12:27 UTC | #24356</small>]]></content>
-  </entry>
-  <entry>
-    <title>Global Smartphone Shipments Fall 22% in Q3 2026</title>
-    <link href="https://www.idc.com/" rel="alternate" />
-    <id>https://www.idc.com/::v239</id>
-    <published>2026-10-15T05:01:00+00:00</published>
-    <updated>2026-10-15T05:01:00+00:00</updated>
-    <media:thumbnail url="https://beforeyoutake.com/wp-content/uploads/2026/02/IDC-Warns-of-Sharp-12.9-Drop-in-Global-Smartphone-Shipments-in-2026-Lowest-Market-Volume-in-Over-a-Decade-Due-to-Memory-Crisis-Before-You-Take-1140x570.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.idc.com/">idc.com</a> | <a href="https://www.idc.com/about/press-releases/">source</a> | <a href="https://news.ycombinator.com/item?id=50047825">hacker news</a></small></p><hr/><p>Global smartphone shipments fell 22% year-over-year to 255.3 million units in Q3 2026, marking a record quarterly drop. While Apple and Samsung expanded their market share through premium product portfolios, Xiaomi, Oppo, and Vivo faced more significant declines.</p><p>The contraction was driven by soaring memory chip costs and supply shortages. These industry headwinds have pressured manufacturers and contributed to increased component pricing.</p><p><img src="https://beforeyoutake.com/wp-content/uploads/2026/02/IDC-Warns-of-Sharp-12.9-Drop-in-Global-Smartphone-Shipments-in-2026-Lowest-Market-Volume-in-Over-a-Decade-Due-to-Memory-Crisis-Before-You-Take-1140x570.jpg" /></p><hr/><small>15 Oct 2026, 12:08 UTC | #24355</small>]]></content>
   </entry>
 </feed>
