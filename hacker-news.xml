@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T01:58:00+00:00</updated>
+  <updated>2026-10-20T02:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Nordwand Mono Compact Monospace Coding Font Released</title>
+    <link href="https://github.com/tywr/Nordwand-Mono" rel="alternate" />
+    <id>https://github.com/tywr/Nordwand-Mono::v240</id>
+    <published>2026-10-20T02:09:00+00:00</published>
+    <updated>2026-10-20T02:09:00+00:00</updated>
+    <media:thumbnail url="https://online-fonts.com/fonts/monospace/preview.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/tywr/Nordwand-Mono">github.com</a> | <a href="https://news.ycombinator.com/item?id=50141581">hacker news</a></small></p><hr/><p>Nordwand Mono is a compact neo-grotesque monospace font designed from scratch in Python for coding environments and terminal use. The typeface blends the proportions of JetBrains Mono with design elements inspired by classical Swiss typography such as Univers.</p><p>The project allows developers to customize font metrics and glyphs by modifying configuration files and generating builds via Python scripts. It includes alternative character variants, two minimal initial ligatures, and comprehensive support for Cyrillic scripts.</p><p><img src="https://online-fonts.com/fonts/monospace/preview.png" /></p><hr/><small>20 Oct 2026, 09:23 UTC | #24856</small>]]></content>
+  </entry>
   <entry>
     <title>Ukraine's 92nd Separate Assault Brigade Conducts First Frontline Drone Evacuation of Wounded Soldier</title>
     <link href="https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310" rel="alternate" />
@@ -1077,21 +1086,5 @@
     <published>2026-10-15T12:07:00+00:00</published>
     <updated>2026-10-15T12:07:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://costa.jacobpalm.dk">costa.jacobpalm.dk</a> | <a href="https://lobste.rs/s/uqugjk/costa_gui">discussion</a></small></p><hr/><p>Costa is a lightweight graphical user interface (GUI) designed to run on top of MS-DOS or compatible operating systems. It replaces the standard command-line prompt with a user-friendly interface and includes several utility accessories that can be navigated using a mouse or keyboard.</p><p>Developed by Jacob Palm, the software is released under the MIT license and is available for free. Its minimal system requirements make it particularly suitable for older hardware running legacy operating systems.</p><hr/><small>15 Oct 2026, 15:13 UTC | #24411</small>]]></content>
-  </entry>
-  <entry>
-    <title>Haxy Git Forge Enters Public Preview</title>
-    <link href="https://youtu.be/89yAiqYEwKg" rel="alternate" />
-    <id>https://youtu.be/89yAiqYEwKg::v239</id>
-    <published>2026-10-15T09:21:00+00:00</published>
-    <updated>2026-10-15T09:21:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://youtu.be/89yAiqYEwKg">youtu.be</a> | <a href="https://www.youtube.com/watch?v=89yAiqYEwKg">source</a> | <a href="https://lobste.rs/s/o0ixth/haxy_net_is_live_haxy_git_forge_devlog">discussion</a></small></p><hr/><p>Haxy, a Git forge designed as a GitHub alternative, has entered public preview at try.haxy.net. The platform offers a text-based interface accessible via both a web application and an SSH terminal. Its "local-first" design stores repository metadata and issue trackers within a specialized branch inside the repository, facilitating offline access and making data easily portable between different server instances.</p><p>This preview phase is intended to last roughly two months to facilitate bug testing before a planned production release on haxy.net by the end of the year. Users are encouraged to report issues via GitHub or through the Haxy interface itself, though the developer warns that data may be deleted during this unstable testing period.</p><hr/><small>15 Oct 2026, 14:53 UTC | #24407</small>]]></content>
-  </entry>
-  <entry>
-    <title>Custom C String Library Uses String Views for Safer String Handling</title>
-    <link href="https://eliasebner.com/blog/guides/fixing-strings-in-c/" rel="alternate" />
-    <id>https://eliasebner.com/blog/guides/fixing-strings-in-c/::v239</id>
-    <published>2026-10-15T09:20:00+00:00</published>
-    <updated>2026-10-15T09:20:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://eliasebner.com/blog/guides/fixing-strings-in-c/">eliasebner.com</a> | <a href="https://lobste.rs/s/5j4bwx/fixing_c_strings_with_string_views">discussion</a></small></p><hr/><p>NUL-terminated strings in C result in O(n) time complexity for length lookups and pose safety risks if terminators are missing or mishandled. To resolve these issues, a library has been developed using str_view for immutable, length-prefixed reads and str_owned for mutable, owned data.</p><p>The library utilizes fixed-width integer types for cross-platform consistency and is designed for use with arena allocators. It includes utility functions for common operations such as string slicing, substring searching, and prefix checking to streamline string manipulation.</p><hr/><small>15 Oct 2026, 14:51 UTC | #24406</small>]]></content>
   </entry>
 </feed>
