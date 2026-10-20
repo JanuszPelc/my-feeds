@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-19T21:01:00+00:00</updated>
+  <updated>2026-10-20T00:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>DNSimple Details Optimizations Used to Make dns_erlang Faster</title>
+    <link href="https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/" rel="alternate" />
+    <id>https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/::v240</id>
+    <published>2026-10-20T00:57:00+00:00</published>
+    <updated>2026-10-20T00:57:00+00:00</updated>
+    <media:thumbnail url="https://stressgrid.com/blog/webserver_benchmark/response_lat90.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.dnsimple.com/2026/10/making-dns-erlang-fast/">blog.dnsimple.com</a> | <a href="https://lobste.rs/s/p3pruv/making_dns_erlang_fast_binary_tricks_for">discussion</a> | <a href="https://news.ycombinator.com/item?id=50152910">hacker news</a></small></p><hr/><p>DNSimple engineers explain the binary manipulation techniques used to improve the performance of dns_erlang, the open-source Erlang DNS library powering their authoritative name servers. By optimizing pattern matching, employing single-accumulator appends, and applying SIMD Within A Register (SWAR) bitwise operations in guards, the updates reduced CPU consumption per query by 12 percent and increased throughput by 14 percent.</p><p>The improvements leverage how the BEAM virtual machine handles binaries, memory allocation, and match contexts without relying on NIFs or external C libraries. The post covers practical patterns for efficiently decoding and encoding binary protocols, avoiding unnecessary data copies, and reading JIT compiler assembly to fine-tune throughput-critical sections.</p><p><img src="https://stressgrid.com/blog/webserver_benchmark/response_lat90.png" /></p><hr/><small>20 Oct 2026, 04:11 UTC | #24843</small>]]></content>
+  </entry>
   <entry>
     <title>Rust Compiler Developments and Performance Improvements in 2026</title>
     <link href="https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/" rel="alternate" />
