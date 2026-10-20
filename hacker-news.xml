@@ -1074,12 +1074,4 @@
     <media:thumbnail url="https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/package-manager-integrity-banner-figure-1_hu_c095267cc912b4da.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/">blog.trailofbits.com</a> | <a href="https://lobste.rs/s/lmx2hi/package_managers_have_integrity_problem">discussion</a></small></p><hr/><p>An investigation of 25 popular package managers found that most fail to detect malicious code injection from compromised repositories. Specifically, fewer than half use lockfiles for tampering detection by default, and only two—Go and vcpkg—perform full integrity verification for every downloaded package.</p><p>While cryptographic hashes and signatures can mitigate these risks, many implementations require manual configuration or lack robust verification. The research suggests that as developers become harder to compromise, attackers may shift focus toward the package repositories themselves.</p><p><img src="https://blog.trailofbits.com/2026/10/14/package-managers-have-an-integrity-problem/package-manager-integrity-banner-figure-1_hu_c095267cc912b4da.webp" /></p><hr/><small>15 Oct 2026, 10:04 UTC | #24366</small>]]></content>
   </entry>
-  <entry>
-    <title>Tiny Little Office Productivity Suite Uses Document-Centric Linking</title>
-    <link href="https://tinylittleoffice.com/" rel="alternate" />
-    <id>https://tinylittleoffice.com/::v239</id>
-    <published>2026-10-15T01:05:00+00:00</published>
-    <updated>2026-10-15T01:05:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://tinylittleoffice.com/">tinylittleoffice.com</a> | <a href="https://news.ycombinator.com/item?id=50096142">hacker news</a></small></p><hr/><p>The suite utilizes a "the link is the document" architecture, enabling documents to be embedded and nested within one another via application-specific fences. It includes a variety of integrated tools, such as a word processor, outliner, spreadsheet, presentation builder, and diagram maker.</p><p>A dedicated llms.txt file provides instructions for AI agents to create and interact with these linked documents. The toolset also includes specialized applications for animation, drawing, trip planning, and calendar management.</p><hr/><small>15 Oct 2026, 06:42 UTC | #24359</small>]]></content>
-  </entry>
 </feed>
