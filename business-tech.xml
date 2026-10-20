@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-20T16:06:00+00:00</updated>
+  <updated>2026-10-20T16:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Spotify Launches Paid Podcast Memberships</title>
+    <link href="https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/::v240</id>
+    <published>2026-10-20T16:10:00+00:00</published>
+    <updated>2026-10-20T16:10:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Memberships-2_.jpg?w=680" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/">techcrunch.com</a> | <a href="https://newsroom.spotify.com/2026-10-20/spotify-memberships-creators/">source</a></small></p><hr/><p>Spotify has launched a paid membership feature for podcasters, enabling creators to offer subscribers exclusive perks like bonus audio or video, early access, or ad-free listening. The service, which is rolling out in 34 markets, allows creators to design multiple pricing tiers and keep 90% of the revenue.</p><p>To participate, podcasters must host their shows on Spotify for Creators or Megaphone and meet specific thresholds, such as 100 consumption hours and 100 listeners. This initiative is part of Spotify's broader push to enhance creator monetization and compete with video-centric platforms like YouTube.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Memberships-2_.jpg?w=680" /></p><hr/><small>20 Oct 2026, 19:35 UTC | #24887</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Expands U.S. Manufacturing with Titanium and Camera Component Deals</title>
     <link href="https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html" rel="alternate" />
