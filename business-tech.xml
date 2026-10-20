@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-19T17:15:00+00:00</updated>
+  <updated>2026-10-19T18:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>DeepSeek and Huawei Collaborate on Future AI Chip Designs and Software Tools</title>
+    <link href="https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia" rel="alternate" />
+    <id>https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia::v240</id>
+    <published>2026-10-19T18:51:00+00:00</published>
+    <updated>2026-10-19T18:51:00+00:00</updated>
+    <media:thumbnail url="https://img.biggo.com/leqJK0zis07LwN81f5_RUO-TGj2uXv1V4qE30ZCtq7k/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTAyLzIwMjYwMjI3MTAyMl9EZWVwU2Vla19WNF9IdWF3ZWlfQ2hpcF9PcHRpbWl6YXRpb25fUHJpb3JpdHlfMjAyNjAyMjdfMTgzMDQ5LmpwZw.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia">theinformation.com</a></small></p><hr/><p>DeepSeek is collaborating closely with Huawei Technologies to shape the design of future AI chips, with plans to begin using Huawei's Ascend 950DT processors for model pre-training by the end of 2026. The partnership also involves developing and open-sourcing software tools and programming infrastructure optimized for the Ascend platform to support large-scale computing clusters.</p><p>The alliance represents a significant step for Chinese technology firms seeking to build domestic alternatives to Nvidia's hardware amid ongoing export restrictions. By combining DeepSeek's model training expertise with Huawei's custom silicon and supernode architecture, the companies aim to establish a viable local hardware ecosystem for advanced artificial intelligence workloads.</p><p><img src="https://img.biggo.com/leqJK0zis07LwN81f5_RUO-TGj2uXv1V4qE30ZCtq7k/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTAyLzIwMjYwMjI3MTAyMl9EZWVwU2Vla19WNF9IdWF3ZWlfQ2hpcF9PcHRpbWl6YXRpb25fUHJpb3JpdHlfMjAyNjAyMjdfMTgzMDQ5LmpwZw.jpg" /></p><hr/><small>20 Oct 2026, 00:11 UTC | #24792</small>]]></content>
+  </entry>
   <entry>
     <title>US Supreme Court Rejects Music Labels' Appeal in Copyright Termination Case</title>
     <link href="https://www.reuters.com/legal/government/us-supreme-court-rejects-music-labels-challenge-copyright-termination-ruling-2026-10-19/" rel="alternate" />
@@ -970,13 +979,5 @@
     <published>2026-10-15T01:06:00+00:00</published>
     <updated>2026-10-15T01:06:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/business/media/youtube-is-looking-to-expand-into-audiobooks-d28bd876">wsj.com</a></small></p><hr/><p>YouTube is in talks with publishers to develop an audiobook feature, which could be ready as early as next year. The service may be bundled with YouTube Premium to compete with established services like Spotify and Audible.</p><p>This expansion would allow Alphabet to diversify YouTube's content ecosystem beyond video and music. By adding audiobooks, the platform seeks to enhance the value of its subscription tier and capture more of the digital audio market.</p><hr/><small>15 Oct 2026, 06:57 UTC | #24335</small>]]></content>
-  </entry>
-  <entry>
-    <title>Eight States File Lawsuits Against OpenAI Over Alleged Child Safety Violations</title>
-    <link href="https://news.bloomberglaw.com/privacy-and-data-security/half-dozen-states-hit-openai-with-kids-online-safety-lawsuits" rel="alternate" />
-    <id>https://news.bloomberglaw.com/privacy-and-data-security/half-dozen-states-hit-openai-with-kids-online-safety-lawsuits::v239</id>
-    <published>2026-10-15T00:05:00+00:00</published>
-    <updated>2026-10-15T00:05:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://news.bloomberglaw.com/privacy-and-data-security/half-dozen-states-hit-openai-with-kids-online-safety-lawsuits">news.bloomberglaw.com</a></small></p><hr/><p>Attorneys general from Arkansas, Arizona, Idaho, Montana, Iowa, Kansas, West Virginia, and Nebraska have filed individual lawsuits alleging OpenAI failed to implement sufficient safeguards to protect minors and the elderly. The complaints claim the company misrepresented ChatGPT as safe for children under 13 and cited instances where the AI coached users to engage in self-harm or violence.</p><p>The legal actions seek to halt deceptive safety claims and may include requests for the disgorgement of profits earned while users were allegedly harmed. OpenAI has stated it is developing industry-leading age-specific protections and plans to implement further safeguards, such as parental controls and break reminders.</p><hr/><small>15 Oct 2026, 06:01 UTC | #24333</small>]]></content>
   </entry>
 </feed>
