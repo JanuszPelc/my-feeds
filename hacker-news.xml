@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T09:36:00+00:00</updated>
+  <updated>2026-10-20T09:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Aaron Allen Examines Hanami Database Layer and Repository Pattern</title>
+    <link href="https://aaronmallen.me/writing/hanami-why-model-citizens" rel="alternate" />
+    <id>https://aaronmallen.me/writing/hanami-why-model-citizens::v240</id>
+    <published>2026-10-20T09:43:00+00:00</published>
+    <updated>2026-10-20T09:43:00+00:00</updated>
+    <media:thumbnail url="https://www.cosmicpython.com/book/images/apwp_0201.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://aaronmallen.me/writing/hanami-why-model-citizens">aaronmallen.me</a> | <a href="https://lobste.rs/s/ygp18d/hanami_why_model_citizens">discussion</a></small></p><hr/><p>Aaron Allen's technical essay analyzes the database architecture of the Hanami web framework, breaking down its tripartite design of relations, repositories, and structs. It demonstrates how Hanami handles database schemas, data fetching, and object representation using ROM and Sequel as an alternative to traditional ActiveRecord setups.</p><p>The article contrasts Hanami's repository pattern with ActiveRecord's active record pattern, highlighting how isolating persistence logic prevents query code and state mutations from leaking into controllers, views, and serializers. It also addresses practical hurdles encountered when transitioning from Rails, including differences in query syntax, custom timestamp handling, and organizing queries versus mutations within application slices.</p><p><img src="https://www.cosmicpython.com/book/images/apwp_0201.png" /></p><hr/><small>20 Oct 2026, 13:04 UTC | #24890</small>]]></content>
+  </entry>
   <entry>
     <title>Over 421,000 Internal AfD Emails Published Online Following Data Breach</title>
     <link href="https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/" rel="alternate" />
@@ -1087,14 +1096,5 @@
     <updated>2026-10-15T13:36:00+00:00</updated>
     <media:thumbnail url="https://assets.aboutamazon.com/dims4/default/0718ca0/2147483647/strip/true/crop/1600x900+0+0/resize/1320x743!/quality/90/?url=https://assets.aboutamazon.com/cc/48/44c86d444c879facc9fa2614ccbb/bee-frontier-bee-eclipse-inline-amazonnews-ck102426.jpg" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/">techcrunch.com</a> | <a href="https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse">source</a> | <a href="https://news.ycombinator.com/item?id=50102536">hacker news</a></small></p><hr/><p>The Bee Frontier is a wrist-worn or clip-on wearable priced at $74.99, and the Bee Eclipse is a magnetic smartphone attachment priced at $99.99. Both devices leverage AI to transcribe conversations and convert them into summaries, actionable to-dos, and calendar events.</p><p>A Bee Pro subscription is available for $11.99 per month, providing unlimited summaries and integrations with Alexa and Amazon.com. To address privacy concerns, the devices use a private computing architecture that processes audio in real time and deletes raw files, ensuring only user-controlled encrypted transcripts are stored.</p><p><img src="https://assets.aboutamazon.com/dims4/default/0718ca0/2147483647/strip/true/crop/1600x900+0+0/resize/1320x743!/quality/90/?url=https://assets.aboutamazon.com/cc/48/44c86d444c879facc9fa2614ccbb/bee-frontier-bee-eclipse-inline-amazonnews-ck102426.jpg" /></p><hr/><small>15 Oct 2026, 17:16 UTC | #24391</small>]]></content>
-  </entry>
-  <entry>
-    <title>Israeli Firm Uses Digital Ads to Deliver Zero-Click Spyware</title>
-    <link href="https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say" rel="alternate" />
-    <id>https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say::v239</id>
-    <published>2026-10-15T12:59:00+00:00</published>
-    <updated>2026-10-15T12:59:00+00:00</updated>
-    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6bP5Ohb_QySdc_m-yCO-T_Snvj4mZOry0VwsLu7864pQmlMJXA-mQDkTbu8xKtFBFaeANvixgOVUthFgswUaHU2iyzzDmawa5c2gTX81k71P3lX8Mn1HXAHKLgGLDxm4Bjm2oBIZBzxU9Rr8Ma1bPbJI1f2HDKpHDJz8FZ5w-UOlKytTvI5lJRbVpCw/w640-h427-rw/제로클릭+공격+작동+원리+다이어그램.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say">theguardian.com</a> | <a href="https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/">source</a> | <a href="https://news.ycombinator.com/item?id=50103000">hacker news</a></small></p><hr/><p>Researchers at the University of Toronto's Citizen Lab have found that the Israeli advertising agency Discover-Tech uses its Controlium software to deliver "zero-click" spyware through digital advertisements. This technique enables malicious code to be installed on a device without any user interaction, such as clicking a link or opening a file. The report indicates that dozens of devices belonging to the Al Jazeera broadcaster have been compromised via this method.</p><p>The agency's advertising campaigns have been active since 2024, reaching millions of users in countries including Yemen, Brazil, Mexico, and Czechia. Evidence suggests that targets have included personnel from government entities in the US and Europe, as well as members of NATO, the UN, and the International Criminal Court. Once installed, the spyware is capable of extracting sensitive data, such as messages and emails, and can remotely activate device microphones for surveillance.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6bP5Ohb_QySdc_m-yCO-T_Snvj4mZOry0VwsLu7864pQmlMJXA-mQDkTbu8xKtFBFaeANvixgOVUthFgswUaHU2iyzzDmawa5c2gTX81k71P3lX8Mn1HXAHKLgGLDxm4Bjm2oBIZBzxU9Rr8Ma1bPbJI1f2HDKpHDJz8FZ5w-UOlKytTvI5lJRbVpCw/w640-h427-rw/제로클릭+공격+작동+원리+다이어그램.png" /></p><hr/><small>15 Oct 2026, 15:16 UTC | #24410</small>]]></content>
   </entry>
 </feed>
