@@ -1080,13 +1080,4 @@
     <updated>2026-10-15T14:43:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jakearchibald.com/2026/jpeg-xl-vs-avif/">jakearchibald.com</a> | <a href="https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases">discussion</a> | <a href="https://news.ycombinator.com/item?id=50102504">hacker news</a></small></p><hr/><p>AVIF typically produces smaller file sizes than JPEG XL for lossy photos, screenshots, illustrations, and transparent images on the web. JPEG XL maintains a clear advantage in lossless encoding and can reduce the size of existing JPEG files by 9–20% without further quality loss.</p><p>AVIF is generally faster to decode and more memory-efficient for standard web delivery, though JPEG XL's jixel encoder can compete in specific high-effort scenarios. While AVIF is currently the recommended default for most web use-cases, JPEG XL offers unique capabilities such as progressive rendering and specialized transcoding for legacy JPEG assets.</p><hr/><small>15 Oct 2026, 18:54 UTC | #24438</small>]]></content>
   </entry>
-  <entry>
-    <title>Petal Open Source Pair Programming Tool</title>
-    <link href="https://petal.live/" rel="alternate" />
-    <id>https://petal.live/::v239</id>
-    <published>2026-10-15T13:47:00+00:00</published>
-    <updated>2026-10-15T13:47:00+00:00</updated>
-    <media:thumbnail url="https://itchronicles.com/wp-content/uploads/2024/01/pair-programming.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://petal.live/">petal.live</a> | <a href="https://github.com/kiruna-labs/petal">source</a> | <a href="https://news.ycombinator.com/item?id=50092470">hacker news</a></small></p><hr/><p>Petal offers low-latency, high-resolution screensharing and remote control for collaborative coding. Shared windows function as native, resizable desktop windows rather than grid tiles, and the interface supports multiple users simultaneously via labeled cursors.</p><p>Deployment options include Petal Cloud for zero-configuration use via LiveKit infrastructure, a self-hosted model using Docker for increased data control, and a forkable version for full customization. The application is currently available for macOS and Windows, with Linux support planned for a future release.</p><p><img src="https://itchronicles.com/wp-content/uploads/2024/01/pair-programming.jpg" /></p><hr/><small>15 Oct 2026, 18:18 UTC | #24432</small>]]></content>
-  </entry>
 </feed>
