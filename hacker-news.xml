@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T13:02:00+00:00</updated>
+  <updated>2026-10-20T13:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>iPadOS 27 Update Alters External Display Presentation Behavior</title>
+    <link href="https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/" rel="alternate" />
+    <id>https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/::v240</id>
+    <published>2026-10-20T13:06:00+00:00</published>
+    <updated>2026-10-20T13:06:00+00:00</updated>
+    <media:thumbnail url="https://preview.redd.it/external-monitor-with-ipad-air-m1-running-ipados-16-2-beta-v0-rvtetno7f0w91.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=3b9b6d5a57873c41e20090f0b783e59877a449a3" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/">teddysvoronos.com</a> | <a href="https://news.ycombinator.com/item?id=50165208">hacker news</a></small></p><hr/><p>A change in iPadOS 27 alters how external displays handle presentations during multitasking, causing secondary windows and private notes to become visible to audiences. When users tap on any application outside of the active presentation software, the external display switches from presenter mode to mirroring the entire iPad screen.</p><p>This behavior affects apps like GoodNotes, Keynote, and PowerPoint, disrupting workflows for educators and speakers who rely on keeping notes and auxiliary screens hidden from viewers. The issue removes the reliable isolation of presenter views found in previous operating system versions, prompting calls for Apple to restore dedicated precedence for presentation modes.</p><p><img src="https://preview.redd.it/external-monitor-with-ipad-air-m1-running-ipados-16-2-beta-v0-rvtetno7f0w91.jpg?width=1080&crop=smart&auto=webp&s=3b9b6d5a57873c41e20090f0b783e59877a449a3" /></p><hr/><small>20 Oct 2026, 16:31 UTC | #24909</small>]]></content>
+  </entry>
   <entry>
     <title>Mozilla Updates Firefox Following Compromise of eMudhra Intermediate Certificates</title>
     <link href="https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/" rel="alternate" />
@@ -1037,14 +1046,5 @@
     <updated>2026-10-15T18:02:00+00:00</updated>
     <media:thumbnail url="https://www.ecoustics.com/wp-content/uploads/sony-walkman-wm1zm3-dap.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-15/sony-debuts-5-900-gold-plated-walkman-music-player-for-enthusiasts">bloomberg.com</a> | <a href="https://www.prnewswire.com/news-releases/sony-electronics-updates-its-premium-walkman-lineup-including-new-signature-series-walkman-nw-wm1zm3-nw-wm1am3-and-nw-zx900-digital-media-players-302909288.html">source</a></small></p><hr/><p>The NW-WM1ZM3, NW-WM1AM3, and NW-ZX900 digital music players, running on Android, have been introduced by Sony Group Corp. Prices for the trio range from $1,900 to $5,900, including a gold-plated flagship model for audiophiles.</p><p>This release is the first new hardware under the Walkman brand in several years. The new Signature Series devices feature upgraded hardware and software designed to enhance the high-fidelity portable audio experience.</p><p><img src="https://www.ecoustics.com/wp-content/uploads/sony-walkman-wm1zm3-dap.jpg" /></p><hr/><small>15 Oct 2026, 23:26 UTC | #24420</small>]]></content>
-  </entry>
-  <entry>
-    <title>Spritely Institute Announces End-to-End Encrypted Relays for OCapN</title>
-    <link href="https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html" rel="alternate" />
-    <id>https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html::v239</id>
-    <published>2026-10-15T16:19:00+00:00</published>
-    <updated>2026-10-15T16:19:00+00:00</updated>
-    <media:thumbnail url="https://owncloud.com/wp-content/uploads/2021/05/file-encryption.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html">spritely.institute</a> | <a href="https://lobste.rs/s/yxnovw/end_end_encrypted_relays_for_ocapn">discussion</a></small></p><hr/><p>Spritely Institute is developing end-to-end encrypted (E2EE) relays for the OCapN networking framework, to be included in a future release of Goblins. Supported by an NLnet grant, these relays aim to enable secure peer-to-peer communication in environments where NATs or carrier-grade NATs prevent direct connections. The implementation will leverage the Noise Protocol to provide perfect forward secrecy and prevent man-in-the-middle attacks, addressing security limitations in the existing non-encrypted "prelay" implementation.</p><p>The project includes the creation of a Guile Noise library to ensure compatibility across the Guile VM and web browsers via the SubtleCrypto API. The proposed relay architecture is designed to be stateless and federated, allowing for easy migration between servers without losing user data. Furthermore, the developers intend to write a formal specification to enable broad support for these E2EE relays across other OCapN-compliant implementations.</p><p><img src="https://owncloud.com/wp-content/uploads/2021/05/file-encryption.png" /></p><hr/><small>15 Oct 2026, 21:40 UTC | #24456</small>]]></content>
   </entry>
 </feed>
