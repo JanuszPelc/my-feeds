@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T01:47:00+00:00</updated>
+  <updated>2026-10-20T01:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Arch Linux ARM Ported to ASUS ProArt P16 RTX Spark Laptop</title>
+    <link href="https://josie.lol/blog/linux-rtx-spark" rel="alternate" />
+    <id>https://josie.lol/blog/linux-rtx-spark::v240</id>
+    <published>2026-10-20T01:49:00+00:00</published>
+    <updated>2026-10-20T01:49:00+00:00</updated>
+    <media:thumbnail url="https://josie.lol/blog/images/n1x-arch-linux.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://josie.lol/blog/linux-rtx-spark">josie.lol</a> | <a href="https://news.ycombinator.com/item?id=50158100">hacker news</a></small></p><hr/><p>An Arch Linux package maintainer has successfully installed Arch Linux ARM on an ASUS ProArt P16 laptop powered by the NVIDIA RTX Spark platform. The custom configuration incorporates patched ACPI overrides, updated kernel support, audio drivers, and a modified bootable USB installer to bypass Windows-only restrictions.</p><p>Benchmarks show the Linux setup matches or slightly outperforms Windows ARM64 in 7-Zip multi-threaded compression and decompression tasks. Additionally, the operating system exposes a unified 116.0 GiB memory pool to both the system and CUDA, eliminating the rigid partitioning found in Windows and allowing local execution of large language models like Qwen without partitioning workarounds.</p><p><img src="https://josie.lol/blog/images/n1x-arch-linux.jpg" /></p><hr/><small>20 Oct 2026, 05:29 UTC | #24846</small>]]></content>
+  </entry>
   <entry>
     <title>OpenBSD 8.0 Released</title>
     <link href="https://www.openbsd.org/80.html" rel="alternate" />
