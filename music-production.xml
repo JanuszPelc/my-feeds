@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-20T16:14:00+00:00</updated>
+  <updated>2026-10-20T16:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Blue Cat Audio Updates Axiom to v2.4 and Destructor to v2.1</title>
+    <link href="https://www.kvraudio.com/news/blue-cat-audio-updates-axiom-to-v2-4-and-destructor-to-v2-1-69275?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69275" rel="alternate" />
+    <id>https://www.kvraudio.com/news/blue-cat-audio-updates-axiom-to-v2-4-and-destructor-to-v2-1-69275?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69275::v240</id>
+    <published>2026-10-20T16:17:00+00:00</published>
+    <updated>2026-10-20T16:17:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/bluecataxiomv2.1792510218.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/blue-cat-audio-updates-axiom-to-v2-4-and-destructor-to-v2-1-69275?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69275">kvraudio.com</a> | <a href="https://www.bluecataudio.com/Main/NewsItem_2026_10_20.Blue_Cat_s_Axiom_2.4_is_Here_/">source</a></small></p><hr/><p>Blue Cat Audio has released Axiom 2.4, an update to its multi-effects processor and amp simulator, alongside Destructor 2.1, an update to its distortion and tone-shaping plug-in. Axiom 2.4 adds macOS Audio Unit V3 plug-in hosting support, an improved real-time preset browser, expanded macro parameter mapping, and Connector Protocol V3 support for remote offline bouncing and rendering.</p><p>Destructor 2.1 introduces smoother preset transitions involving impulse responses and modeled cabinets, expanded MIDI control options including 14-bit CCs and aftertouch, and Windows multitouch support. Both updates are free for existing users, and the company is running promotional discounts of up to 40% on selected guitar and bass software concurrently with the releases.</p><p><img src="https://static.kvraudio.com/i/b/bluecataxiomv2.1792510218.jpg" /></p><hr/><small>20 Oct 2026, 20:12 UTC | #24906</small>]]></content>
+  </entry>
   <entry>
     <title>Ambrio Announces Spatial Performance Mixer</title>
     <link href="https://musictech.com/news/gear/ambrio-spatial-performance-mixer/" rel="alternate" />
