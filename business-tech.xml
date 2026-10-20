@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-20T13:10:00+00:00</updated>
+  <updated>2026-10-20T13:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>UK CMA Proposes Measures to Open iPhone Contactless Payments and Lower Fees</title>
+    <link href="https://www.reuters.com/world/britain-seeks-break-apples-grip-contactless-payments-2026-10-20/" rel="alternate" />
+    <id>https://www.reuters.com/world/britain-seeks-break-apples-grip-contactless-payments-2026-10-20/::v240</id>
+    <published>2026-10-20T13:16:00+00:00</published>
+    <updated>2026-10-20T13:16:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2a82rr.img?w=2560&amp;h=1707&amp;m=4&amp;q=100" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/britain-seeks-break-apples-grip-contactless-payments-2026-10-20/">reuters.com</a> | <a href="https://www.gov.uk/government/news/cma-outlines-proposals-to-unlock-contactless-technology-on-apple-iphone">source</a></small></p><hr/><p>The UK Competition and Markets Authority has proposed measures requiring Apple to provide rival payment providers with easier access to its iPhone contactless technology and reduce associated access fees. The regulator is accepting feedback on the proposals through a public consultation period ending November 17.</p><p>Contactless transactions have surged in popularity, currently accounting for nearly 40% of all payments in the UK, with digital wallets utilized by over 60% of adults. The proposed rules aim to foster fintech competition and innovation by lowering barriers for alternative mobile payment services on iOS.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2a82rr.img?w=2560&h=1707&m=4&q=100" /></p><hr/><small>20 Oct 2026, 17:54 UTC | #24874</small>]]></content>
+  </entry>
   <entry>
     <title>Ookla Report Finds London Mobile Network Speeds Lag Behind European Capitals</title>
     <link href="https://www.ookla.com/articles/london-mobile-2026" rel="alternate" />

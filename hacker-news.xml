@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T13:06:00+00:00</updated>
+  <updated>2026-10-20T13:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Jepsen Analyzes Orkes Conductor Versions 5.3.2 through 5.5.0-rc2</title>
+    <link href="https://jepsen.io/analyses/orkes-conductor-5.3.2" rel="alternate" />
+    <id>https://jepsen.io/analyses/orkes-conductor-5.3.2::v240</id>
+    <published>2026-10-20T13:17:00+00:00</published>
+    <updated>2026-10-20T13:17:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/6466c9e390eac6bcd0399387/6656af660610cb53467c6e18_Platform-Page_Hero_v2.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jepsen.io/analyses/orkes-conductor-5.3.2">jepsen.io</a> | <a href="https://lobste.rs/s/42zgmq/jepsen_orkes_conductor_5_3_2">discussion</a></small></p><hr/><p>Jepsen tested Orkes Conductor versions 5.3.2 through 5.5.0-rc2, uncovering frequent concurrent task executions, workflow delays, and several serious safety issues where workflow executions were permanently abandoned, forgotten, or incorrectly marked completed without their tasks running. The evaluation subjected clusters running Postgres and Redis to network partitions, process pauses, and node crashes to verify core durability and scheduling guarantees.</p><p>Following the assessment, Orkes released version 5.5.6 to patch all identified safety issues, mitigate concurrent execution race conditions, and resolve multiple workflow initiation errors, with remaining minor bugs under investigation. The findings highlight the challenges of maintaining strict linearizability and coordination in distributed workflow engines operating under asynchronous network conditions.</p><p><img src="https://cdn.prod.website-files.com/6466c9e390eac6bcd0399387/6656af660610cb53467c6e18_Platform-Page_Hero_v2.png" /></p><hr/><small>20 Oct 2026, 17:56 UTC | #24920</small>]]></content>
+  </entry>
   <entry>
     <title>iPadOS 27 Update Alters External Display Presentation Behavior</title>
     <link href="https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/" rel="alternate" />
