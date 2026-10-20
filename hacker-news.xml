@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T18:33:00+00:00</updated>
+  <updated>2026-10-20T18:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>333 Malicious Tor Exit Nodes Removed Following SSH Man-in-the-Middle Attack</title>
+    <link href="https://kaba.cx/posts/20261020_Tor/" rel="alternate" />
+    <id>https://kaba.cx/posts/20261020_Tor/::v240</id>
+    <published>2026-10-20T18:45:00+00:00</published>
+    <updated>2026-10-20T18:45:00+00:00</updated>
+    <media:thumbnail url="https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/e9a93d27cc98715a6477098a1950b7c7?_a=AQAEuop" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kaba.cx/posts/20261020_Tor/">kaba.cx</a> | <a href="https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed">discussion</a> | <a href="https://news.ycombinator.com/item?id=50166257">hacker news</a></small></p><hr/><p>In October 2026, a coordinated campaign involving 333 compromised Tor exit nodes—representing roughly 10% of the network—intercepted unencrypted mail traffic and launched a man-in-the-middle attack against SSH connections. The attackers, who had covertly accessed the underlying servers months prior, deployed the Ebury 1.8.3 OpenSSH backdoor to steal credentials and infect destination hosts.</p><p>A security researcher developed a detection script using exitmap to identify the rogue relays by pinning exit nodes and tracking SSH connection behavior. After the findings were reported to the Tor Project's network health team on October 2, coordinated takedowns and operator notifications led to the affected nodes being flagged as bad exits and taken offline within days.</p><p><img src="https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/e9a93d27cc98715a6477098a1950b7c7?_a=AQAEuop" /></p><hr/><small>20 Oct 2026, 21:55 UTC | #24948</small>]]></content>
+  </entry>
   <entry>
     <title>Cloudflare and VoidZero Introduce tsrs, a Rust Port of TypeScript</title>
     <link href="https://blog.cloudflare.com/typescript-rust-port/" rel="alternate" />
