@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-19T15:37:00+00:00</updated>
+  <updated>2026-10-20T13:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Pew Research Center Survey Finds 20% of U.S. Adults Regularly Get News on TikTok</title>
+    <link href="https://www.pewresearch.org/short-reads/2026/10/19/1-in-5-americans-regularly-get-news-on-tiktok-2/" rel="alternate" />
+    <id>https://www.pewresearch.org/short-reads/2026/10/19/1-in-5-americans-regularly-get-news-on-tiktok-2/::v240</id>
+    <published>2026-10-20T13:12:00+00:00</published>
+    <updated>2026-10-20T13:12:00+00:00</updated>
+    <media:thumbnail url="https://www.pewresearch.org/wp-content/uploads/sites/20/2024/06/PI_2024.06.12_politics-across-platforms_1-01.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.pewresearch.org/short-reads/2026/10/19/1-in-5-americans-regularly-get-news-on-tiktok-2/">pewresearch.org</a> | <a href="https://www.pewresearch.org/short-reads/2026/10/19/1-in-5-americans-regularly-get-news-on-tiktok/">source</a></small></p><hr/><p>A survey by the Pew Research Center shows that 20% of U.S. adults regularly consume news on TikTok, a substantial increase from 3% in 2020. Usage is heavily skewed toward younger demographics, with 39% of adults aged 18 to 29 and 25% of those aged 30 to 49 reporting regular news consumption on the platform.</p><p>These findings highlight the ongoing shift in media consumption habits toward short-form video platforms. Although TikTok is primarily known for video sharing, it has increasingly established itself as a prominent channel for current events and information among millions of users.</p><p><img src="https://www.pewresearch.org/wp-content/uploads/sites/20/2024/06/PI_2024.06.12_politics-across-platforms_1-01.png" /></p><hr/><small>20 Oct 2026, 17:20 UTC | #24866</small>]]></content>
+  </entry>
   <entry>
     <title>Chris Kiehl Defends the Value of Programming for Personal Enjoyment</title>
     <link href="https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming" rel="alternate" />
