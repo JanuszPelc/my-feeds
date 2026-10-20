@@ -1072,12 +1072,4 @@
     <media:thumbnail url="https://i.ytimg.com/vi/SzErnaKq8Zo/maxresdefault.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://abner.page/post/c23-conventions-1/">abner.page</a> | <a href="https://lobste.rs/s/umdbht/my_c23_conventions">discussion</a></small></p><hr/><p>This is the first of a three-part series on using the C23 standard, focusing on three specific conventions: using `[[maybe_unused]]` to manage `[[nodiscard]]` return values, using empty braces `{}` for zero-initializing structs containing unions, and explicitly defining the underlying integer types for enumerations.</p><p>The author discusses these patterns based on personal experience maintaining large-scale projects. The piece highlights technical nuances regarding union initialization and references Jens Gustedt's *Modern C* to explain why explicit enum typing is necessary to avoid unexpected type adjustments.</p><p><img src="https://i.ytimg.com/vi/SzErnaKq8Zo/maxresdefault.jpg" /></p><hr/><small>15 Oct 2026, 19:23 UTC | #24441</small>]]></content>
   </entry>
-  <entry>
-    <title>JPEG XL and AVIF Compared for Web Use-Cases</title>
-    <link href="https://jakearchibald.com/2026/jpeg-xl-vs-avif/" rel="alternate" />
-    <id>https://jakearchibald.com/2026/jpeg-xl-vs-avif/::v239</id>
-    <published>2026-10-15T14:43:00+00:00</published>
-    <updated>2026-10-15T14:43:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jakearchibald.com/2026/jpeg-xl-vs-avif/">jakearchibald.com</a> | <a href="https://lobste.rs/s/uejdwj/jpeg_xl_vs_avif_for_web_use_cases">discussion</a> | <a href="https://news.ycombinator.com/item?id=50102504">hacker news</a></small></p><hr/><p>AVIF typically produces smaller file sizes than JPEG XL for lossy photos, screenshots, illustrations, and transparent images on the web. JPEG XL maintains a clear advantage in lossless encoding and can reduce the size of existing JPEG files by 9–20% without further quality loss.</p><p>AVIF is generally faster to decode and more memory-efficient for standard web delivery, though JPEG XL's jixel encoder can compete in specific high-effort scenarios. While AVIF is currently the recommended default for most web use-cases, JPEG XL offers unique capabilities such as progressive rendering and specialized transcoding for legacy JPEG assets.</p><hr/><small>15 Oct 2026, 18:54 UTC | #24438</small>]]></content>
-  </entry>
 </feed>
