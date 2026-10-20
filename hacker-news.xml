@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T10:24:00+00:00</updated>
+  <updated>2026-10-20T10:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>microG GmsCore Provides Open-Source Reimplementation of Google Play Services</title>
+    <link href="https://github.com/microg/GmsCore/wiki" rel="alternate" />
+    <id>https://github.com/microg/GmsCore/wiki::v240</id>
+    <published>2026-10-20T10:34:00+00:00</published>
+    <updated>2026-10-20T10:34:00+00:00</updated>
+    <media:thumbnail url="https://img.alternativeto.net/s/618x394/jpeg/microg-project_759096_full.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/microg/GmsCore/wiki">github.com</a> | <a href="https://news.ycombinator.com/item?id=50162177">hacker news</a></small></p><hr/><p>microG GmsCore is an open-source, Apache 2.0 licensed reimplementation of Google's proprietary Play Services. It allows applications requiring Google APIs to run on AOSP-based operating systems, such as LineageOS, by providing a replacement for proprietary Google services.</p><p>The suite includes the Unified Network Location Provider (UnifiedNlp) module and is optimized for low battery, memory, and CPU consumption. For proper functionality, the host Android system must support signature spoofing, which enables GmsCore to mimic official Google services to calling applications.</p><p><img src="https://img.alternativeto.net/s/618x394/jpeg/microg-project_759096_full.png" /></p><hr/><small>20 Oct 2026, 15:32 UTC | #24904</small>]]></content>
+  </entry>
   <entry>
     <title>Configuring SSH Keys on macOS with Touch ID and Secure Enclave</title>
     <link href="https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/" rel="alternate" />
@@ -1054,22 +1063,5 @@
     <published>2026-10-15T16:06:00+00:00</published>
     <updated>2026-10-15T16:06:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit">tomshardware.com</a></small></p><hr/><p>The Nvidia RTX Spark Superchip (GB10) in the Microsoft Surface Laptop Ultra demonstrates high performance in local AI processing. On the Windows on Arm platform, the hardware completed AI benchmarks 25% faster than the Apple M5 Max MacBook Pro.</p><p>While the device is highly capable for AI-driven tasks, it shows limitations in gaming performance. The Surface Laptop Ultra featuring the RTX Spark platform is priced at $5,899 and is part of a strategic shift by Nvidia and its partners to integrate autonomous AI agents into the PC experience.</p><hr/><small>15 Oct 2026, 20:06 UTC | #24392</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ledger Announces Atom Android-Based Hardware Wallet</title>
-    <link href="https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android" rel="alternate" />
-    <id>https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android::v239</id>
-    <published>2026-10-15T15:35:00+00:00</published>
-    <updated>2026-10-15T15:35:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android">theverge.com</a> | <a href="https://www.ledger.com/blog-introducing-ledger-atom">source</a></small></p><hr/><p>The Atom is an Android-based hardware wallet designed to function alongside a primary smartphone. It runs both Android OS and a secure Ledger OS on a dedicated chip, enabling secure cryptocurrency transactions and encrypted messaging. Hardware features include a 6.77-inch OLED display, physical privacy switches for the camera and microphone, and anti-tamper mechanisms designed to detect unauthorized physical access or hardware implants.</p><p>The announcement follows reports of hardware tampering in the supply chain that allegedly led to the theft of $86 million in cryptocurrency. To mitigate these risks, the Atom features a protective enclosure around its secure element and utilizes tamper-evident packaging. The device is expected to arrive in summer 2027, with a founder's edition priced at $849 and a standard retail price of $899.</p><hr/><small>15 Oct 2026, 19:43 UTC | #24393</small>]]></content>
-  </entry>
-  <entry>
-    <title>C23 Programming Conventions for Modern C Development</title>
-    <link href="https://abner.page/post/c23-conventions-1/" rel="alternate" />
-    <id>https://abner.page/post/c23-conventions-1/::v239</id>
-    <published>2026-10-15T15:33:00+00:00</published>
-    <updated>2026-10-15T15:33:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/SzErnaKq8Zo/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://abner.page/post/c23-conventions-1/">abner.page</a> | <a href="https://lobste.rs/s/umdbht/my_c23_conventions">discussion</a></small></p><hr/><p>This is the first of a three-part series on using the C23 standard, focusing on three specific conventions: using `[[maybe_unused]]` to manage `[[nodiscard]]` return values, using empty braces `{}` for zero-initializing structs containing unions, and explicitly defining the underlying integer types for enumerations.</p><p>The author discusses these patterns based on personal experience maintaining large-scale projects. The piece highlights technical nuances regarding union initialization and references Jens Gustedt's *Modern C* to explain why explicit enum typing is necessary to avoid unexpected type adjustments.</p><p><img src="https://i.ytimg.com/vi/SzErnaKq8Zo/maxresdefault.jpg" /></p><hr/><small>15 Oct 2026, 19:23 UTC | #24441</small>]]></content>
   </entry>
 </feed>
