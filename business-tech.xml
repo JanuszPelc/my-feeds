@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-20T13:16:00+00:00</updated>
+  <updated>2026-10-20T13:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic Circulates Leaked Federal AI Bill Critics Argue Weakens Safety Rules</title>
+    <link href="https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach" rel="alternate" />
+    <id>https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach::v240</id>
+    <published>2026-10-20T13:18:00+00:00</published>
+    <updated>2026-10-20T13:18:00+00:00</updated>
+    <media:thumbnail url="https://theprimely.com/_next/image?url=https://admin.theprimely.com/wp-content/uploads/2026/03/Advanced-AI-system-interface-representing-Anthropic-powerful-model-and-cybersecurity-risks.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach">transformernews.ai</a> | <a href="https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654">source</a> | <a href="https://news.ycombinator.com/item?id=50146270">hacker news</a></small></p><hr/><p>A leaked discussion draft of a federal AI bill circulated by Anthropic to lawmakers has drawn sharp criticism from AI safety advocates, who argue the proposed legislation is weaker than existing alternatives like the FRONTIER Act. Critics contend that the bill creates lenient standards for third-party AI evaluators, establishes difficult legal hurdles for blocking dangerous models, and preempts stricter state-level safety regulations.</p><p>The proposal restricts the Commerce Department's ability to halt risky frontier models by requiring detailed federal court petitions without mandating consideration of public harm from inaction. Following public backlash, an Anthropic executive acknowledged that certain provisions, including the preemption language, require revision and further refinement.</p><p><img src="https://theprimely.com/_next/image?url=https://admin.theprimely.com/wp-content/uploads/2026/03/Advanced-AI-system-interface-representing-Anthropic-powerful-model-and-cybersecurity-risks.png&w=3840&q=75" /></p><hr/><small>20 Oct 2026, 18:09 UTC | #24877</small>]]></content>
+  </entry>
   <entry>
     <title>UK CMA Proposes Measures to Open iPhone Contactless Payments and Lower Fees</title>
     <link href="https://www.reuters.com/world/britain-seeks-break-apples-grip-contactless-payments-2026-10-20/" rel="alternate" />
@@ -890,14 +899,5 @@
     <updated>2026-10-15T19:16:00+00:00</updated>
     <media:thumbnail url="https://pbs.twimg.com/media/HCr-rTWagAA9Wyd.jpg" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/">techcrunch.com</a> | <a href="https://www.anthropic.com/news/an-update-on-independent-evaluators">source</a> | <a href="https://news.ycombinator.com/item?id=50107114">hacker news</a></small></p><hr/><p>Anthropic has provided six researchers from the nonprofit METR with employee-level access to its internal tools, systems, and office space. This arrangement enables the group to independently evaluate model safety and risk management with a level of access comparable to the company's own internal risk assessment teams.</p><p>The arrangement follows several high-profile incidents involving AI agents acting outside of instructions and aligns with a broader movement toward independent oversight in the AI sector. METR's access—which Anthropic compares to resident bank examiners—allows the group to publish findings without the company's prior approval, subject to narrow redactions for sensitive data like customer information or proprietary model architectures.</p><p><img src="https://pbs.twimg.com/media/HCr-rTWagAA9Wyd.jpg" /></p><hr/><small>16 Oct 2026, 00:23 UTC | #24446</small>]]></content>
-  </entry>
-  <entry>
-    <title>TechCrunch Founder Summit Early Booking Discounts End October 16</title>
-    <link href="https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/::v239</id>
-    <published>2026-10-15T18:01:00+00:00</published>
-    <updated>2026-10-15T18:01:00+00:00</updated>
-    <media:thumbnail url="https://news.linxi.com.au/media/ingest/2026/06/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026-5db5188068a7.webp" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/">techcrunch.com</a> | <a href="https://techcrunch.com/events/techcrunch-founder-summit-2026/">source</a></small></p><hr/><p>Early bird registration for the TechCrunch Founder Summit 2026 expires on October 16, when discounts of up to $200 for Founder and Investor passes will end. The event is scheduled for November 4 at Boston’s SoWa Power Station.</p><p>The summit aims to host 1,000 founders and investors, with a focus on fundraising, hiring, product-market fit, and building AI-native companies. Featured speakers include Kent Bennett of Bessemer Venture Partners, Lior Div of 7AI, and Vineet Edupuganti of Cogent Security.</p><p><img src="https://news.linxi.com.au/media/ingest/2026/06/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026-5db5188068a7.webp" /></p><hr/><small>15 Oct 2026, 23:03 UTC | #24433</small>]]></content>
   </entry>
 </feed>
