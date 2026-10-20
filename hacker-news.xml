@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T02:09:00+00:00</updated>
+  <updated>2026-10-20T03:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Configuring an Ad-Free Android TV Setup with Projectivy Launcher and ADB</title>
+    <link href="https://cretezy.com/2026/ad-free-android-tv" rel="alternate" />
+    <id>https://cretezy.com/2026/ad-free-android-tv::v240</id>
+    <published>2026-10-20T03:12:00+00:00</published>
+    <updated>2026-10-20T03:12:00+00:00</updated>
+    <media:thumbnail url="https://cretezy.com/_astro/google-tv-home.DjqU9jQc_Z14wlzx.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://cretezy.com/2026/ad-free-android-tv">cretezy.com</a> | <a href="https://news.ycombinator.com/item?id=50158942">hacker news</a></small></p><hr/><p>This guide details how to remove promotional banners and advertisements from Android TV and Google TV interfaces by replacing the default system launcher with Projectivy Launcher. Using Android Debug Bridge (ADB) commands, users can disable stock UI packages and configure a clean, app-focused home screen.</p><p>Additional steps cover replacing the official YouTube client with SmartTube to eliminate video ads and integrate SponsorBlock, alongside using Button Mapper to remap remote controls. The setup also includes performance tweaks like adjusting animation scales and disabling unused system applications via ADB.</p><p><img src="https://cretezy.com/_astro/google-tv-home.DjqU9jQc_Z14wlzx.webp" /></p><hr/><small>20 Oct 2026, 10:34 UTC | #24868</small>]]></content>
+  </entry>
   <entry>
     <title>Nordwand Mono Compact Monospace Coding Font Released</title>
     <link href="https://github.com/tywr/Nordwand-Mono" rel="alternate" />
