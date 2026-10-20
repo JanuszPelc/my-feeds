@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-20T09:09:00+00:00</updated>
+  <updated>2026-10-20T11:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Yelp Introduces AI Voice Agent to Check Restaurant Wait Times</title>
+    <link href="https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/::v240</id>
+    <published>2026-10-20T11:03:00+00:00</published>
+    <updated>2026-10-20T11:03:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Yelp-Assistant-OpenTable-Integration-and-Weather.jpeg?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/">techcrunch.com</a> | <a href="https://blog.yelp.com/news/fall-product-release-2026/">source</a></small></p><hr/><p>Yelp has introduced a new AI voice feature called "Check for Me," which allows app users to have an AI agent call restaurants to check wait times and text the results back. The feature is part of Yelp's broader fall product release, which also includes an OpenTable integration for its AI assistant and enhanced personalization options that remember past user preferences.</p><p>Additional updates include custom reminders, filterable user lists, and weekly personalized recommendations based on saved items. For business owners, Yelp is launching a paid product called Smart Lead Reply, which uses AI to automatically respond to customer inquiries and qualify leads for a monthly fee.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Yelp-Assistant-OpenTable-Integration-and-Weather.jpeg?w=680" /></p><hr/><small>20 Oct 2026, 16:13 UTC | #24881</small>]]></content>
+  </entry>
   <entry>
     <title>DeepSeek Releases DeepInfer Inference Framework</title>
     <link href="https://github.com/deepseek-ai/DeepInfer" rel="alternate" />
@@ -346,32 +355,5 @@
     <published>2026-10-15T18:03:00+00:00</published>
     <updated>2026-10-15T18:03:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://venturebeat.com/technology/nvidias-new-open-nemotron-3-5-super-vl-with-post-training-beats-claude-opus-5-gpt-6-1-sol-on-specialized-task-benchmarks">venturebeat.com</a> | <a href="https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/">source</a></small></p><hr/><p>Nvidia's Nemotron 3.5 Super VL is a 120-billion-parameter open multimodal model designed for enterprise agents. The model utilizes a mixture-of-experts architecture that activates 12 billion parameters per token, allowing it to process text, images, charts, tables, and video.</p><p>Designed for "always-on" agentic workflows such as document analysis, the model is intended to assist with tasks like extracting figures from tables or interpreting charts. Nvidia claims the model outperforms several frontier models on specialized benchmarks for multimodal reasoning and tool-calling.</p><hr/><small>15 Oct 2026, 23:28 UTC | #24419</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rivian to Integrate Third-Party AI Agents in Vehicles</title>
-    <link href="https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/::v239</id>
-    <published>2026-10-15T16:10:00+00:00</published>
-    <updated>2026-10-15T16:10:00+00:00</updated>
-    <media:thumbnail url="https://s1.cdn.autoevolution.com/images/news/rivian-to-announce-an-ai-voice-assistant-takes-up-the-self-driving-gauntlet-from-tesla-262479_1.jpeg" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/">techcrunch.com</a></small></p><hr/><p>Rivian plans to allow third-party AI agents, such as those from Anthropic or OpenAI, to run within its vehicle software. CEO RJ Scaringe stated that while the company currently uses an in-house agentic framework for tasks like climate control and news summarization, the company intends to expand this to include frontier AI models.</p><p>The company's current system uses a routing mechanism that directs queries to either local or cloud-based models based on complexity. Scaringe emphasized that for safety reasons, these AI agents will not have control over safety-critical functions like steering or braking. Further details regarding this roadmap are expected to be shared at Rivian's upcoming "AI &amp; Autonomy Day" in December.</p><p><img src="https://s1.cdn.autoevolution.com/images/news/rivian-to-announce-an-ai-voice-assistant-takes-up-the-self-driving-gauntlet-from-tesla-262479_1.jpeg" /></p><hr/><small>15 Oct 2026, 20:13 UTC | #24412</small>]]></content>
-  </entry>
-  <entry>
-    <title>Unsloth Adds Support for NVIDIA Nemotron 3.5 and Meta Muse Spark Open</title>
-    <link href="https://unsloth.ai/docs/new/changelog#nvidia-nemotron-3.5--meta-muse-spark-open" rel="alternate" />
-    <id>https://unsloth.ai/docs/new/changelog#nvidia-nemotron-3.5--meta-muse-spark-open::v239</id>
-    <published>2026-10-15T16:09:00+00:00</published>
-    <updated>2026-10-15T16:09:00+00:00</updated>
-    <media:thumbnail url="https://kalinga.ai/wp-content/uploads/2026/03/nvidia-nemotron-3-agentic-ai-stack-architecture.jpg.png" />
-    <content type="html"><![CDATA[<p><small>Unsloth Changelog | <a href="https://unsloth.ai/docs/new/changelog#nvidia-nemotron-3.5--meta-muse-spark-open">unsloth.ai</a></small></p><hr/><p>Unsloth has introduced support for NVIDIA's Nemotron 3.5 model series and Meta's Muse Spark Open for local execution. The update includes the Nemotron 3.5 Bolt model (24 GB VRAM), the Nemotron 3.5 Super VL model (120B parameters, 12B active), and the 816B parameter Muse Spark Open model, which requires 256 GB of memory for local use.</p><p>Additional functional updates include enhanced prompt caching for coding agents like Claude Code and Codex when utilizing local GGUF models. The update also enables diffusion LLM workflows with a live denoising canvas for models like LLaDA and Dream, and supports image generation through external servers such as Ollama and SD-server.</p><p><img src="https://kalinga.ai/wp-content/uploads/2026/03/nvidia-nemotron-3-agentic-ai-stack-architecture.jpg.png" /></p><hr/><small>15 Oct 2026, 20:11 UTC | #24444</small>]]></content>
-  </entry>
-  <entry>
-    <title>Recursive Generalization Proposed as Alternative to Superposition in Neural Networks</title>
-    <link href="https://already-clean.goodfire.com/" rel="alternate" />
-    <id>https://already-clean.goodfire.com/::v239</id>
-    <published>2026-10-15T16:05:00+00:00</published>
-    <updated>2026-10-15T16:05:00+00:00</updated>
-    <media:thumbnail url="https://research.mental-momentum.ai/r/mechanistic-interpretability-neural-mmvs6m/img/img_1.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://already-clean.goodfire.com/">already-clean.goodfire.com</a> | <a href="https://news.ycombinator.com/item?id=50105647">hacker news</a></small></p><hr/><p>Researcher Nick Cammarata contends that the phenomenon of polysemanticity—where a single neuron appears to perform multiple unrelated tasks—is driven by a process called recursive generalization rather than the widely accepted principle of superposition. He argues that instead of being a "tangled knot" of unrelated features, neural networks organize information through a fractal-like hierarchy where concepts sprout related sub-concepts.</p><p>This perspective suggests that mechanistic interpretability may not require complex decomposition techniques, such as sparse autoencoders, to "unfold" models. By studying these natural hierarchical circuits, researchers might be able to directly analyze a model's internal logic, a process that appears to become more efficient as networks scale and architectural improvements are integrated.</p><p><img src="https://research.mental-momentum.ai/r/mechanistic-interpretability-neural-mmvs6m/img/img_1.png" /></p><hr/><small>15 Oct 2026, 19:50 UTC | #24445</small>]]></content>
   </entry>
 </feed>
