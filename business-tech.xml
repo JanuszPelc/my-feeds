@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-19T21:04:00+00:00</updated>
+  <updated>2026-10-20T00:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Lula Supporters Protest Against Meta Over Alleged Electoral Interference in Brazil</title>
+    <link href="https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/" rel="alternate" />
+    <id>https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/::v240</id>
+    <published>2026-10-20T00:54:00+00:00</published>
+    <updated>2026-10-20T00:54:00+00:00</updated>
+    <media:thumbnail url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/918/516/ContentBroker_contentid-6092aca94f79417c970d104438d131e6-1.png?ve=1&amp;tl=1" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/">efe.com</a> | <a href="https://news.ycombinator.com/item?id=50159993">hacker news</a></small></p><hr/><p>Supporters of Brazilian President Luiz Inácio Lula da Silva protested outside Meta's São Paulo headquarters, accusing the tech giant of electoral interference and favoring opposition candidate Flávio Bolsonaro ahead of the election runoff.</p><p>The demonstration coincided with a ruling by Brazil's Superior Electoral Court ordering Meta to ensure equal treatment for both presidential campaigns, as political figures and activists increasingly challenge platform moderation and digital sovereignty.</p><p><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/918/516/ContentBroker_contentid-6092aca94f79417c970d104438d131e6-1.png?ve=1&tl=1" /></p><hr/><small>20 Oct 2026, 03:27 UTC | #24841</small>]]></content>
+  </entry>
   <entry>
     <title>Ramp Applies to OCC for National Trust Bank Charter</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-19/fintech-ramp-applies-for-trust-bank-charter-with-us-regulator" rel="alternate" />
