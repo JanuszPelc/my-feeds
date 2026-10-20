@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-20T16:24:00+00:00</updated>
+  <updated>2026-10-20T18:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Ofcom Acknowledges Enforcement Limits Regarding 4chan Fines</title>
+    <link href="https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/" rel="alternate" />
+    <id>https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/::v240</id>
+    <published>2026-10-20T18:52:00+00:00</published>
+    <updated>2026-10-20T18:52:00+00:00</updated>
+    <media:thumbnail url="https://www.thinkbroadband.com/assets/media/2025/08/4chan-online-safety.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/">prestonbyrne.com</a> | <a href="https://news.ycombinator.com/item?id=50167028">hacker news</a></small></p><hr/><p>During a parliamentary committee hearing, Ofcom chief executive Dame Melanie Dawes acknowledged the regulator's inability to enforce online safety penalties when foreign jurisdictions intervene. This admission follows a U.S. federal court decision dismissing 4chan's lawsuit against the British media regulator while signaling that American courts would likely refuse to enforce foreign regulatory judgments that conflict with the U.S. Constitution.</p><p>Written by 4chan's legal counsel Preston Byrne, the commentary highlights that Ofcom's enforcement powers are effectively neutralized abroad because foreign courts protect domestic entities from external penal judgments. Byrne notes that despite these practical jurisdictional barriers, Ofcom is expected to seek expanded domestic legislative powers to block foreign websites, continuing an international policy battle over cross-border content regulation.</p><p><img src="https://www.thinkbroadband.com/assets/media/2025/08/4chan-online-safety.jpeg" /></p><hr/><small>20 Oct 2026, 23:05 UTC | #24961</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Pulls Back From Advocating for Strict US Chip Export Controls to China</title>
     <link href="https://www.politico.com/news/2026/10/20/openai-ai-chips-china-nvidia-01127385" rel="alternate" />
