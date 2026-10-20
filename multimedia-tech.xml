@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-19T17:16:00+00:00</updated>
+  <updated>2026-10-19T20:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>RocketWerkz and Ahwoo Release Open-Source C# Framework BRUTAL</title>
+    <link href="https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers" rel="alternate" />
+    <id>https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers::v240</id>
+    <published>2026-10-19T20:58:00+00:00</published>
+    <updated>2026-10-19T20:58:00+00:00</updated>
+    <media:thumbnail url="https://dunb17ur4ymx4.cloudfront.net/packages/images/0fbe32374d20ce6f059c7a98106b0dfefff2d762.png" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers">gamedeveloper.com</a> | <a href="https://ahwoo.com/brutal">source</a></small></p><hr/><p>Ahwoo and RocketWerkz have released their C# game development framework, BRUTAL, as open source. The framework combines C# and .NET with C++ libraries and low-level graphics access, giving developers an alternative foundation to build custom tools and game engines without relying on third-party software.</p><p>BRUTAL is free for commercial use under an attribution-only license and has been used in projects like Kitten Space Agency and Ludeon Studios' Rimworld. While adoption requires a willingness to work with low-level code, the creators note that large language models can assist developers in querying structured documentation for the framework.</p><p><img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/0fbe32374d20ce6f059c7a98106b0dfefff2d762.png" /></p><hr/><small>20 Oct 2026, 02:06 UTC | #24818</small>]]></content>
+  </entry>
   <entry>
     <title>Digital Sun Delays ReVamp Public Playtest Due to AI Cloning Concerns</title>
     <link href="https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning" rel="alternate" />
