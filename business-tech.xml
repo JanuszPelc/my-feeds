@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-20T14:02:00+00:00</updated>
+  <updated>2026-10-20T16:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Z.AI Founders Worked on Research Funded by China Institute Linked to UK Intelligence Alert</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-19/z-ai-founders-worked-on-research-funded-by-china-institute-uk-tied-to-spies?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjQ1MTMzNCwiZXhwIjoxNzkzMDU2MTM0LCJhcnRpY2xlSWQiOiJUTUxFQ0RLSkg2VjgwMCIsImJjb25uZWN0SWQiOiIzNzFCRTgwQ0Q5RkE0NDU0OTdFQkU2NzI0NURDMDg4QSJ9.dXDvRdK8ysRYiIyeESwFQdgvip-fNHBbT61lJBZyzNc" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-19/z-ai-founders-worked-on-research-funded-by-china-institute-uk-tied-to-spies?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjQ1MTMzNCwiZXhwIjoxNzkzMDU2MTM0LCJhcnRpY2xlSWQiOiJUTUxFQ0RLSkg2VjgwMCIsImJjb25uZWN0SWQiOiIzNzFCRTgwQ0Q5RkE0NDU0OTdFQkU2NzI0NURDMDg4QSJ9.dXDvRdK8ysRYiIyeESwFQdgvip-fNHBbT61lJBZyzNc::v240</id>
+    <published>2026-10-20T16:04:00+00:00</published>
+    <updated>2026-10-20T16:04:00+00:00</updated>
+    <media:thumbnail url="https://qz.com/cdn-cgi/image/width=1920,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2254532678-1920x1280.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-19/z-ai-founders-worked-on-research-funded-by-china-institute-uk-tied-to-spies?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjQ1MTMzNCwiZXhwIjoxNzkzMDU2MTM0LCJhcnRpY2xlSWQiOiJUTUxFQ0RLSkg2VjgwMCIsImJjb25uZWN0SWQiOiIzNzFCRTgwQ0Q5RkE0NDU0OTdFQkU2NzI0NURDMDg4QSJ9.dXDvRdK8ysRYiIyeESwFQdgvip-fNHBbT61lJBZyzNc">bloomberg.com</a></small></p><hr/><p>Four co-founders of artificial intelligence company Z.AI participated in a multi-year research project co-funded by the China General Technology Research Institute (CGTRI). Publicly available reports indicate the project overlapped with the company's formation around 2019, involving leadership from a CGTRI engineer alongside Z.AI's founders.</p><p>The connection emerges following an intelligence alert issued by the UK's MI5 warning that CGTRI maintains strong ties to China's main state security agency. The revelation places renewed scrutiny on foreign backing and security risks surrounding prominent Chinese AI firms operating internationally.</p><p><img src="https://qz.com/cdn-cgi/image/width=1920,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2254532678-1920x1280.jpg" /></p><hr/><small>20 Oct 2026, 18:50 UTC | #24885</small>]]></content>
+  </entry>
   <entry>
     <title>Alibaba, Tencent and Huawei Build Massive AI Data Centers in Shaoguan</title>
     <link href="https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e" rel="alternate" />
