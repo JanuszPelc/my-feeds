@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-20T01:57:00+00:00</updated>
+  <updated>2026-10-20T01:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Zohran Mamdani Criticizes Federal Inaction on Artificial Intelligence</title>
+    <link href="https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/::v240</id>
+    <published>2026-10-20T01:59:00+00:00</published>
+    <updated>2026-10-20T01:59:00+00:00</updated>
+    <media:thumbnail url="https://nypost.com/wp-content/uploads/sites/2/2025/12/2025-new-appointments-jahmila-edwards-117509297.jpg?w=1024" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/">techcrunch.com</a></small></p><hr/><p>New York City Mayor Zohran Mamdani criticized the federal government's lack of artificial intelligence regulation during an appearance at Webster Hall for The People's AI Assembly. Speaking alongside comedian and activist Ilana Glazer, Mamdani urged residents to push back against rapid, uncritical tech adoption and demanded greater public accountability from AI companies.</p><p>The mayor highlighted recent municipal actions taken by his administration, including a ban on AI tools in elementary and middle schools and requirements for real estate platforms to disclose AI-generated listing photos. Mamdani also pointed to the military's overreliance on automated targeting systems as evidence of the dangers surrounding unregulated technological expansion.</p><p><img src="https://nypost.com/wp-content/uploads/sites/2/2025/12/2025-new-appointments-jahmila-edwards-117509297.jpg?w=1024" /></p><hr/><small>20 Oct 2026, 06:29 UTC | #24835</small>]]></content>
+  </entry>
   <entry>
     <title>Waymo Plans to Expand Robotaxi Fleet to 20,000 Vehicles</title>
     <link href="https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet" rel="alternate" />
