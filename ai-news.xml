@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-20T01:55:00+00:00</updated>
+  <updated>2026-10-20T09:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>DeepSeek Releases DeepInfer Inference Framework</title>
+    <link href="https://github.com/deepseek-ai/DeepInfer" rel="alternate" />
+    <id>https://github.com/deepseek-ai/DeepInfer::v240</id>
+    <published>2026-10-20T09:09:00+00:00</published>
+    <updated>2026-10-20T09:09:00+00:00</updated>
+    <media:thumbnail url="https://github.com/deepseek-ai/DeepInfer/raw/main/doc/images/prefill_pareto.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/deepseek-ai/DeepInfer">github.com</a> | <a href="https://news.ycombinator.com/item?id=50163277">hacker news</a></small></p><hr/><p>DeepSeek has open-sourced DeepInfer, the high-performance inference framework that powers its large-scale production services. Released under the Apache License 2.0, the framework provides offline inference capabilities optimized for the DeepSeek-V4.1-Flash model across NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs.</p><p>The framework features a range of optimization components including custom TileLang kernels, asynchronous batch scheduling, parallelism modes like MoE EP and balanced CP, and support for structured outputs and deterministic sampling. While the current open-source release includes the core execution runtime, building a complete production inference service still requires external components such as a KV cache system and disaggregated prefill-decode layers.</p><p><img src="https://github.com/deepseek-ai/DeepInfer/raw/main/doc/images/prefill_pareto.png" /></p><hr/><small>20 Oct 2026, 10:52 UTC | #24873</small>]]></content>
+  </entry>
   <entry>
     <title>WhatsApp Help Pages Contained Hidden AI Instructions Restricting Regulator Recommendations</title>
     <link href="https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions" rel="alternate" />
