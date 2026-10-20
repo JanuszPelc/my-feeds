@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-20T02:00:00+00:00</updated>
+  <updated>2026-10-20T08:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Dutch Government Develops NixOS-Based DAWO Operating System</title>
+    <link href="https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html" rel="alternate" />
+    <id>https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html::v240</id>
+    <published>2026-10-20T02:07:00+00:00</published>
+    <updated>2026-10-20T02:07:00+00:00</updated>
+    <media:thumbnail url="https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-29-image-25.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html">techspot.com</a> | <a href="https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os">discussion</a></small></p><hr/><p>The Dutch government is developing a custom digital workspace and operating system known as DAWO, built on the NixOS Linux distribution, to replace commercial software like Microsoft Windows and Office. The initiative aims to enhance digital sovereignty for public institutions and reduce reliance on foreign technology providers.</p><p>Several municipalities in the Netherlands have already begun testing the DAWO environment, which encompasses office applications, cloud services, and storage tools alongside the operating system. The project reflects a broader European trend toward open-source migration driven by concerns over foreign software dependencies and regulatory pressures.</p><p><img src="https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-29-image-25.jpg" /></p><hr/><small>20 Oct 2026, 09:01 UTC | #24854</small>]]></content>
+  </entry>
   <entry>
     <title>Netflix Overhauls Creative Leadership Amid Domestic Viewing Declines</title>
     <link href="https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401?st=pHTpM3&amp;reflink=desktopwebshare_permalink" rel="alternate" />
@@ -101,9 +110,9 @@
     <link href="https://www.wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d?st=m6DV2n&amp;reflink=desktopwebshare_permalink" rel="alternate" />
     <id>https://www.wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d?st=m6DV2n&amp;reflink=desktopwebshare_permalink::v240</id>
     <published>2026-10-19T16:56:00+00:00</published>
-    <updated>2026-10-19T16:56:00+00:00</updated>
+    <updated>2026-10-20T08:59:00+00:00</updated>
     <media:thumbnail url="https://www.thenews.com.pk/assets/uploads/updates/2025-01-29/l_1277339_111302_updates.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d?st=m6DV2n&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.federalregister.gov/public-inspection/2026-21447/order-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive-branch-information">source</a></small></p><hr/><p>The U.S. Department of Homeland Security has ordered federal civilian agencies to remove DeepSeek-developed artificial intelligence from their information technology systems. The directive also prohibits the future procurement of DeepSeek products and services, extending the ban to third-party software built using the Chinese company’s AI models.</p><p>The order aims to mitigate security and data-transfer risks associated with the Chinese developer. While the mandate is broad, agencies may be able to seek specific exceptions to the procurement restrictions.</p><p><img src="https://www.thenews.com.pk/assets/uploads/updates/2025-01-29/l_1277339_111302_updates.jpg" /></p><hr/><small>19 Oct 2026, 22:04 UTC | #24774</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d?st=m6DV2n&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.federalregister.gov/public-inspection/2026-21447/order-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive-branch-information">source</a> | <a href="https://news.ycombinator.com/item?id=50154244">hacker news</a></small></p><hr/><p>The U.S. Department of Homeland Security has ordered federal civilian agencies to remove DeepSeek-developed artificial intelligence from their information technology systems. The directive also prohibits the future procurement of DeepSeek products and services, extending the ban to third-party software built using the Chinese company’s AI models.</p><p>The order aims to mitigate security and data-transfer risks associated with the Chinese developer. While the mandate is broad, agencies may be able to seek specific exceptions to the procurement restrictions.</p><p><img src="https://www.thenews.com.pk/assets/uploads/updates/2025-01-29/l_1277339_111302_updates.jpg" /></p><hr/><small>19 Oct 2026, 22:04 UTC | #24774</small>]]></content>
   </entry>
   <entry>
     <title>OpenAI Bugging Suspect Communicated with Saudi Royal via WhatsApp, Prosecutors Say</title>
