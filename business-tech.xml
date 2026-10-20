@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-20T16:22:00+00:00</updated>
+  <updated>2026-10-20T16:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI Pulls Back From Advocating for Strict US Chip Export Controls to China</title>
+    <link href="https://www.politico.com/news/2026/10/20/openai-ai-chips-china-nvidia-01127385" rel="alternate" />
+    <id>https://www.politico.com/news/2026/10/20/openai-ai-chips-china-nvidia-01127385::v240</id>
+    <published>2026-10-20T16:24:00+00:00</published>
+    <updated>2026-10-20T16:24:00+00:00</updated>
+    <media:thumbnail url="https://assets.site-static.com/blogphotos/666/53091-china-urges-us-to-loosen-ai-chip-export-restrictions.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/10/20/openai-ai-chips-china-nvidia-01127385">politico.com</a></small></p><hr/><p>OpenAI has stopped pushing for strict U.S. chip export controls on China, altering its lobbying strategy ahead of the legislative lame-duck session.</p><p>The policy shift brings the artificial intelligence company into closer alignment with President Trump's administration and offers a significant upside for major hardware suppliers like Nvidia amid ongoing Capitol Hill debates.</p><p><img src="https://assets.site-static.com/blogphotos/666/53091-china-urges-us-to-loosen-ai-chip-export-restrictions.jpg" /></p><hr/><small>20 Oct 2026, 21:05 UTC | #24898</small>]]></content>
+  </entry>
   <entry>
     <title>Court Records Show TikTok Executives Ignored Internal Child Safety Warnings</title>
     <link href="https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering" rel="alternate" />
@@ -865,13 +874,5 @@
     <updated>2026-10-16T01:35:00+00:00</updated>
     <media:thumbnail url="https://blog.funnelfox.com/wp-content/uploads/2026/04/cal-ai-jake-castillo-aim-conference-1200x626.webp" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/">techcrunch.com</a> | <a href="https://news.myfitnesspal.com/myfitnesspal-expands-its-position-as-the-leading-player-in-digital-nutrition-tracking-with-cal-ai-acquisition/">source</a></small></p><hr/><p>Cal AI's growth and March 2026 acquisition by MyFitnessPal were driven by a strategy of recruiting influencers with highly engaged, quantifiable communities. The AI calorie-tracking company generated over $30 million in revenue within two years of its 2024 launch.</p><p>Zach Yadegari has since launched Persona, an AI agent startup that has raised $10 million to develop personal assistants for platforms like iMessage and email. The company also plans to develop a supporting hardware ecosystem to achieve seamless computing.</p><p><img src="https://blog.funnelfox.com/wp-content/uploads/2026/04/cal-ai-jake-castillo-aim-conference-1200x626.webp" /></p><hr/><small>16 Oct 2026, 04:55 UTC | #24462</small>]]></content>
-  </entry>
-  <entry>
-    <title>Meta's New Commercial Terms May Allow Scraping of Associated Websites</title>
-    <link href="https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/" rel="alternate" />
-    <id>https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/::v239</id>
-    <published>2026-10-15T21:01:00+00:00</published>
-    <updated>2026-10-15T21:01:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/">niemanlab.org</a> | <a href="https://www.facebook.com/legal/commercial_terms_preview/">source</a> | <a href="https://news.ycombinator.com/item?id=50111852">hacker news</a></small></p><hr/><p>Meta's updated commercial terms, effective October 30, allow the company to use automated software to scrape and collect content from websites associated with Meta business accounts. Because most news organizations use these accounts to manage their presence on Facebook, Instagram, and WhatsApp, legal experts argue the terms grant Meta permission to use news content for training its AI products.</p><p>The terms include a provision for creating "test credentials," which experts suggest could enable Meta to bypass website registration walls to access protected content. Users currently have no option to opt out of these terms without ceasing use of Meta's business products. Legal scholars have noted that tying these scraping permissions to the use of Meta's commercial tools may raise antitrust concerns regarding "tying."</p><hr/><small>16 Oct 2026, 04:08 UTC | #24454</small>]]></content>
   </entry>
 </feed>
