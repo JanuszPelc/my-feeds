@@ -891,22 +891,4 @@
     <updated>2026-10-15T20:06:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.niemanlab.org/2026/10/googles-news-ai-pilot-expands-to-over-400-publications-including-u-s-local-news-outlets/">niemanlab.org</a> | <a href="https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers">source</a></small></p><hr/><p>Google's News AI pilot program has expanded to more than 400 publications worldwide, including major international outlets like CNN and The Financial Times alongside various U.S. local newsrooms. The program licenses content from these publishers to test experimental AI features within Google News.</p><p>Experimental features being tested include AI-generated "story previews" and customizable "audio briefings" that use headlines to create a podcast-like experience. While Google has a separate "pay-per-value" licensing model for AI Overviews, this specific pilot pays publishers to provide content used in these experimental AI-powered tools.</p><hr/><small>16 Oct 2026, 01:54 UTC | #24443</small>]]></content>
   </entry>
-  <entry>
-    <title>Two Deaths Following Explosion at Intel's Kiryat Gat Facility</title>
-    <link href="https://www.calcalistech.com/ctechnews/article/ay5slvopq" rel="alternate" />
-    <id>https://www.calcalistech.com/ctechnews/article/ay5slvopq::v239</id>
-    <published>2026-10-15T19:45:00+00:00</published>
-    <updated>2026-10-15T19:45:00+00:00</updated>
-    <media:thumbnail url="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/14/S1Dwp16szg/S1Dwp16szg_0_0_642_361_0_large.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.calcalistech.com/ctechnews/article/ay5slvopq">calcalistech.com</a></small></p><hr/><p>A blast at the Kiryat Gat plant has resulted in two fatalities and left a third worker in critical condition. Investigators suspect the incident occurred when a gas cylinder detonated during truck unloading operations, sparking a fire.</p><p>The explosion also caused a leak of toxic nitrogen trifluoride (NF₃) gas, requiring hazardous materials teams to monitor the risk to nearby residents. Police are currently investigating whether the cause was a technical malfunction or negligence.</p><p><img src="https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/14/S1Dwp16szg/S1Dwp16szg_0_0_642_361_0_large.jpg" /></p><hr/><small>16 Oct 2026, 01:15 UTC | #24440</small>]]></content>
-  </entry>
-  <entry>
-    <title>Volvo to Use Nvidia AI for Hands-Free, Point-to-Point Driving</title>
-    <link href="https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban" rel="alternate" />
-    <id>https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban::v239</id>
-    <published>2026-10-15T19:44:00+00:00</published>
-    <updated>2026-10-15T19:44:00+00:00</updated>
-    <media:thumbnail url="https://www.nvidia.com/content/dam/en-zz/Solutions/self-driving-cars/home/automotive-sdv-og.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban">theverge.com</a></small></p><hr/><p>Volvo plans to launch a hands-free, point-to-point driving system by 2030, powered by Nvidia’s Hyperion platform and Alpamayo software. The Level 2++ system is designed to navigate complex urban environments, including managing traffic lights, stop signs, and unprotected left turns without explicit driver control.</p><p>The initiative expands Volvo's partnership with Nvidia following previous setbacks with its Level 3 system and lidar integration. The new technology will combine Nvidia's reasoning-based AI models with Volvo's proprietary driver-monitoring and connected safety systems to increase situational awareness.</p><p><img src="https://www.nvidia.com/content/dam/en-zz/Solutions/self-driving-cars/home/automotive-sdv-og.jpg" /></p><hr/><small>16 Oct 2026, 01:14 UTC | #24434</small>]]></content>
-  </entry>
 </feed>
