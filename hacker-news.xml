@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T01:52:00+00:00</updated>
+  <updated>2026-10-20T01:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Ukraine's 92nd Separate Assault Brigade Conducts First Frontline Drone Evacuation of Wounded Soldier</title>
+    <link href="https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310" rel="alternate" />
+    <id>https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310::v240</id>
+    <published>2026-10-20T01:58:00+00:00</published>
+    <updated>2026-10-20T01:58:00+00:00</updated>
+    <media:thumbnail url="https://dronelife.com/wp-content/uploads/2026/10/Ukraine-Evacuation-Emergency.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310">nbcnews.com</a> | <a href="https://news.ycombinator.com/item?id=50153664">hacker news</a></small></p><hr/><p>Ukraine’s 92nd Separate Assault Brigade has released footage showing what it claims is the world’s first aerial drone evacuation of a wounded soldier from the front lines. The unidentified infantryman was airlifted by a heavy-lift hexacopter after intensive enemy drone activity and landmines made conventional ground vehicle rescue impossible.</p><p>The operation highlights the rapid evolution of unmanned systems in the Russia-Ukraine war as both militaries seek to reduce casualties in heavily contested zones. The milestone comes as Kyiv faces growing technological and logistical hurdles, including manpower shortages and recent restrictions on satellite communication and intelligence sharing.</p><p><img src="https://dronelife.com/wp-content/uploads/2026/10/Ukraine-Evacuation-Emergency.jpeg" /></p><hr/><small>20 Oct 2026, 06:17 UTC | #24849</small>]]></content>
+  </entry>
   <entry>
     <title>Rich Hickey Discusses Static Typing and Information Programming in In Context</title>
     <link href="https://www.youtube.com/watch?v=P5eO7BNyJao" rel="alternate" />
