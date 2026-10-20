@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-20T13:04:00+00:00</updated>
+  <updated>2026-10-20T16:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Dropshot Audio Releases Tight Lines Free Dual-Band Dynamics Processor</title>
+    <link href="https://www.kvraudio.com/news/dropshot-audio-releases-tight-lines---free-dual-band-dynamics-processor-au-clap-and-vst3-69125?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69125" rel="alternate" />
+    <id>https://www.kvraudio.com/news/dropshot-audio-releases-tight-lines---free-dual-band-dynamics-processor-au-clap-and-vst3-69125?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69125::v240</id>
+    <published>2026-10-20T16:07:00+00:00</published>
+    <updated>2026-10-20T16:07:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/interface-0-9-0-full.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dropshot-audio-releases-tight-lines---free-dual-band-dynamics-processor-au-clap-and-vst3-69125?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69125">kvraudio.com</a> | <a href="https://dropshotaudio.com/tight-lines">source</a></small></p><hr/><p>Dropshot Audio has released Tight Lines, a free dual-band dynamics processor available in VST3, AU, and CLAP formats for macOS, Windows, and Linux. The plugin splits incoming audio into independent low and high frequency bands, enabling users to apply downward or upward compression and expansion before recombining the signal.</p><p>The processor includes adjustable crossover frequencies, ratios, thresholds, attack, release, and look-ahead controls, along with a dry/wet blend and optional oversampled soft clipping. It offers a direct Normal mode and a feedback-based Fishy mode, and is engineered to maintain a lightweight CPU footprint across individual tracks and instrument buses.</p><p><img src="https://static.kvraudio.com/i/b/interface-0-9-0-full.png" /></p><hr/><small>20 Oct 2026, 19:17 UTC | #24897</small>]]></content>
+  </entry>
   <entry>
     <title>Fracture Sounds Releases Free Blueprint Alt Woodwind Ensemble for Kontakt Player</title>
     <link href="https://www.kvraudio.com/news/fracture-sounds-releases-free-blueprint-alt-woodwind-ensemble-for-kontakt-player-69233?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69233" rel="alternate" />

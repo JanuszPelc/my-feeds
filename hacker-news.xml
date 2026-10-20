@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Ante Introduces Zero-Cost Cyclic Mutability and Flexible Borrow Checking</title>
+    <link href="https://antelang.org/blog/safe_cyclic_mutability/" rel="alternate" />
+    <id>https://antelang.org/blog/safe_cyclic_mutability/::v240</id>
+    <published>2026-10-20T16:09:00+00:00</published>
+    <updated>2026-10-20T16:09:00+00:00</updated>
+    <media:thumbnail url="https://velog.velcdn.com/images/not_joon/post/a4b3c937-c02a-4f20-bd8b-1f949df5c55f/image.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://antelang.org/blog/safe_cyclic_mutability/">antelang.org</a> | <a href="https://lobste.rs/s/qo8flp/borrow_checking_zero_cost_cyclic">discussion</a> | <a href="https://news.ycombinator.com/item?id=50151771">hacker news</a></small></p><hr/><p>Jake Fecher outlines a revised borrow-checking design for the low-level functional language Ante, aimed at providing safe, zero-cost shared and cyclic mutability. By replacing rigid lifetimes with precise data places and tracking reference stability, the language relaxes strict aliasing restrictions without risking dangling pointers.</p><p>The updated system removes previous complexities involving local uniqueness traits, streamlining type checks and supporting data-flow patterns that typically require advanced mechanisms like Polonius in other languages. This approach allows developers to represent cyclic data structures and common idioms directly, reducing borrow checker friction and improving interoperability.</p><p><img src="https://velog.velcdn.com/images/not_joon/post/a4b3c937-c02a-4f20-bd8b-1f949df5c55f/image.png" /></p><hr/><small>20 Oct 2026, 19:23 UTC | #24934</small>]]></content>
+  </entry>
+  <entry>
     <title>NixOS Simplifies Self-Hosted Service Deployment and Management</title>
     <link href="https://entropicthoughts.com/nixos-is-making-me-less-afraid" rel="alternate" />
     <id>https://entropicthoughts.com/nixos-is-making-me-less-afraid::v240</id>
@@ -1038,14 +1047,5 @@
     <updated>2026-10-15T20:10:00+00:00</updated>
     <media:thumbnail url="https://linuxiac.com/wp-content/uploads/2025/10/forgejo13-app.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://forgejo.org/2026-10-release-v17-0/">forgejo.org</a> | <a href="https://lobste.rs/s/vemho2/forgejo_v17_0_is_available">discussion</a></small></p><hr/><p>Forgejo has released version 17.0, a major update for the self-hosted code collaboration platform. The update introduces support for `FUNDING.yml` to display donation buttons, auto-completion for issues and pull requests, and improved Git LFS support and Forgejo Actions job summaries. It also enables repository migration from Bitbucket Data Center and enhances the Forgejo Actions API.</p><p>Breaking changes include a new method for resolving absolute links in rendered documents and the deprecation of Action run webhook events in favor of workflow run events. Version 17.0 is a non-LTS release, with support scheduled until January 28, 2027.</p><p><img src="https://linuxiac.com/wp-content/uploads/2025/10/forgejo13-app.jpg" /></p><hr/><small>16 Oct 2026, 03:41 UTC | #24469</small>]]></content>
-  </entry>
-  <entry>
-    <title>Unfenced Identifies Real Estate Bordering Public Lands</title>
-    <link href="https://unfenced.land/" rel="alternate" />
-    <id>https://unfenced.land/::v239</id>
-    <published>2026-10-15T19:23:00+00:00</published>
-    <updated>2026-10-15T19:23:00+00:00</updated>
-    <media:thumbnail url="https://unfenced.land/static/featured-savage-creek-rd-unit-tl200-grants-pass.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://unfenced.land/">unfenced.land</a> | <a href="https://news.ycombinator.com/item?id=50102247">hacker news</a></small></p><hr/><p>Unfenced is a platform that identifies real estate properties for sale sharing boundaries with public lands, such as national forests, game lands, and wilderness areas. The service uses official boundary maps to verify these connections, rather than relying on potentially inaccurate listing descriptions.</p><p>The platform currently indexes over 13,000 properties across 49 regions by cross-referencing active real estate listings with government land data. This provides users with a specialized way to find parcels with direct access to public outdoor recreation areas.</p><p><img src="https://unfenced.land/static/featured-savage-creek-rd-unit-tl200-grants-pass.webp" /></p><hr/><small>16 Oct 2026, 01:00 UTC | #24464</small>]]></content>
   </entry>
 </feed>
