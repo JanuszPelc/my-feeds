@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-20T09:39:00+00:00</updated>
+  <updated>2026-10-20T10:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>fBox Audio Releases fBox Virtual Analogue Studio for macOS</title>
+    <link href="https://www.kvraudio.com/news/fbox-audio-releases-fbox-virtual-analogue-studio-for-macos-vst3-and-au-69227?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69227" rel="alternate" />
+    <id>https://www.kvraudio.com/news/fbox-audio-releases-fbox-virtual-analogue-studio-for-macos-vst3-and-au-69227?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69227::v240</id>
+    <published>2026-10-20T10:26:00+00:00</published>
+    <updated>2026-10-20T10:26:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/fbox-kvr-news-1280x720.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/fbox-audio-releases-fbox-virtual-analogue-studio-for-macos-vst3-and-au-69227?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69227">kvraudio.com</a> | <a href="https://fboxaudio.com/">source</a></small></p><hr/><p>fBox Audio has expanded its virtual analogue studio suite to macOS, releasing the complete range as native Apple Silicon VST3 and Audio Unit plug-ins alongside the existing Windows versions. The software suite comprises the 32-channel fBox Console, fBox Rack, a collection of nine multi-mode processing plug-ins, and the free fMeter utility.</p><p>The collection features 62 distinct analogue hardware models across its processors, with each plug-in instance assigned a unique serial number designed to emulate the subtle component tolerances of physical studio gear. Licenses cover both Windows and macOS platforms, with components available individually or bundled in various configurations.</p><p><img src="https://static.kvraudio.com/i/b/fbox-kvr-news-1280x720.jpg" /></p><hr/><small>20 Oct 2026, 14:15 UTC | #24879</small>]]></content>
+  </entry>
+  <entry>
+    <title>Audiomodern Releases Riffer 4 for iPad</title>
+    <link href="https://www.kvraudio.com/news/audiomodern-releases-riffer-4-for-ipad-69249?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69249" rel="alternate" />
+    <id>https://www.kvraudio.com/news/audiomodern-releases-riffer-4-for-ipad-69249?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69249::v240</id>
+    <published>2026-10-20T10:25:00+00:00</published>
+    <updated>2026-10-20T10:25:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/r4-appstore_09.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/audiomodern-releases-riffer-4-for-ipad-69249?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69249">kvraudio.com</a> | <a href="https://apps.apple.com/us/app/riffer-4/id6807863457">source</a></small></p><hr/><p>Audiomodern has released Riffer 4 for iPad, bringing its creative MIDI sequencer software to Apple's tablet platform following the desktop version's debut. The application incorporates five distinct generation engines designed to produce melodies, basslines, arpeggios, and rhythmic hooks based on user-defined scales and keys.</p><p>Users can directly edit notes, change timing and density parameters, create variations, and export MIDI data for use in external digital audio workstations and hardware setups. The iPad app supports AUv3 and standalone operation, and is currently available on the App Store at an introductory price.</p><p><img src="https://static.kvraudio.com/i/b/r4-appstore_09.jpg" /></p><hr/><small>20 Oct 2026, 14:14 UTC | #24876</small>]]></content>
+  </entry>
   <entry>
     <title>Robert Henke Discusses Creative Process and Hardware on My Forever Studio Podcast</title>
     <link href="https://musictech.com/shows/podcasts/my-forever-studio/my-forever-studio-robert-henkes-forever-daw-isnt-a-daw/" rel="alternate" />
