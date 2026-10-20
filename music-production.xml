@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-20T03:14:00+00:00</updated>
+  <updated>2026-10-20T09:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Robert Henke Discusses Creative Process and Hardware on My Forever Studio Podcast</title>
+    <link href="https://musictech.com/shows/podcasts/my-forever-studio/my-forever-studio-robert-henkes-forever-daw-isnt-a-daw/" rel="alternate" />
+    <id>https://musictech.com/shows/podcasts/my-forever-studio/my-forever-studio-robert-henkes-forever-daw-isnt-a-daw/::v240</id>
+    <published>2026-10-20T09:39:00+00:00</published>
+    <updated>2026-10-20T09:39:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/s8-e6-henke-article@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/shows/podcasts/my-forever-studio/my-forever-studio-robert-henkes-forever-daw-isnt-a-daw/">musictech.com</a></small></p><hr/><p>Ableton co-founder and electronic musician Robert Henke appears on an episode of the My Forever Studio podcast to discuss his creative workflow, sample creation, and studio setup. During the conversation, Henke explores his preference for expressive hardware and reveals his choice of a "Forever DAW" that is not technically a traditional digital audio workstation.</p><p>Tracing his background from an engineering family in Munich to Berlin’s pioneering club scene as Monolake, Henke reflects on the intersection of art and engineering in his music. The episode highlights his early studio gear, rebuilding vintage samplers, and his ongoing fascination with both historical and contemporary sound technology.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/s8-e6-henke-article@2000x1500.jpg" /></p><hr/><small>20 Oct 2026, 12:39 UTC | #24851</small>]]></content>
+  </entry>
   <entry>
     <title>FreqElement Updates Plugin Freq Pro to Version 1.0.3</title>
     <link href="https://www.kvraudio.com/news/freqelement-updates-plugin-freq-pro-to-v1-0-3---new-features-and-enhancements-69238?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69238" rel="alternate" />
