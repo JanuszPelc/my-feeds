@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T09:43:00+00:00</updated>
+  <updated>2026-10-20T09:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>U.S. Army Cyber Command Develops ECHOTRIBBLE Autonomous AI Agent Platform for Offensive Cyber Operations</title>
+    <link href="https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/" rel="alternate" />
+    <id>https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/::v240</id>
+    <published>2026-10-20T09:44:00+00:00</published>
+    <updated>2026-10-20T09:44:00+00:00</updated>
+    <media:thumbnail url="https://theintercept.com/wp-content/uploads/2026/10/Picture1.jpg?fit=1430%2C812" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/">theintercept.com</a></small></p><hr/><p>U.S. Army Cyber Command is developing a platform codenamed ECHOTRIBBLE to deploy autonomous artificial intelligence agents for offensive cyber operations. Designed to navigate foreign digital infrastructures with minimal human oversight, the software aims to autonomously identify, track, and neutralize targets by temporarily or permanently disabling threats or deleting them from networks.</p><p>Documents obtained by reporters reveal that the system would operate stealthily like a computer worm, hopping across devices and self-replicating for different operating systems. Cybersecurity experts have raised significant concerns regarding the immense risks of deploying autonomous agents with destructive mandates, noting that unpredictable behavior could lead to collateral damage in critical civilian infrastructure.</p><p><img src="https://theintercept.com/wp-content/uploads/2026/10/Picture1.jpg?fit=1430%2C812" /></p><hr/><small>20 Oct 2026, 13:16 UTC | #24850</small>]]></content>
+  </entry>
   <entry>
     <title>Aaron Allen Examines Hanami Database Layer and Repository Pattern</title>
     <link href="https://aaronmallen.me/writing/hanami-why-model-citizens" rel="alternate" />
