@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-20T13:18:00+00:00</updated>
+  <updated>2026-10-20T14:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Alibaba, Tencent and Huawei Build Massive AI Data Centers in Shaoguan</title>
+    <link href="https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e" rel="alternate" />
+    <id>https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e::v240</id>
+    <published>2026-10-20T14:02:00+00:00</published>
+    <updated>2026-10-20T14:02:00+00:00</updated>
+    <media:thumbnail url="https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2026/04/08/ea7fd059-b58d-4d49-ac2f-cc4848113be1_fb74d80e.jpg?itok=JqhUlng_&amp;v=1775625093" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e">ft.com</a></small></p><hr/><p>Alibaba, Tencent, and Huawei are investing billions of dollars to build large-scale AI data center complexes in Shaoguan, a mountainous and energy-rich hinterland in Guangdong province. The infrastructure push leverages the region's cheap power and cooler climate to support Beijing's strategy for domestic computing sovereignty.</p><p>Local residents have expressed frustration and anger over the rapid industrialization of their remote rural areas, citing disruptions and limited economic benefits from the projects. At the same time, major technology firms are utilizing these inland hubs to deploy domestically produced hardware, including large clusters of in-house AI chips.</p><p><img src="https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2026/04/08/ea7fd059-b58d-4d49-ac2f-cc4848113be1_fb74d80e.jpg?itok=JqhUlng_&v=1775625093" /></p><hr/><small>20 Oct 2026, 18:34 UTC | #24883</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Circulates Leaked Federal AI Bill Critics Argue Weakens Safety Rules</title>
     <link href="https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach" rel="alternate" />

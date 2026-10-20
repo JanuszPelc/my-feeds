@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-20T13:09:00+00:00</updated>
+  <updated>2026-10-20T16:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Mistral AI Launches Voxtral 3 Voice Models and Agent SDK</title>
+    <link href="https://mistral.ai/news/voxtral-3/" rel="alternate" />
+    <id>https://mistral.ai/news/voxtral-3/::v240</id>
+    <published>2026-10-20T16:03:00+00:00</published>
+    <updated>2026-10-20T16:03:00+00:00</updated>
+    <media:thumbnail url="https://mistral.ai/_astro/diagram-voxtral-alt_Z2ufcLf.webp?dpl=6ad795c23ec0b6e8ad0a703a" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mistral.ai/news/voxtral-3/">mistral.ai</a> | <a href="https://news.ycombinator.com/item?id=50168396">hacker news</a></small></p><hr/><p>Mistral AI has released Voxtral 3, a family of speech-to-text and text-to-speech models paired with a voice agent SDK designed for real-time conversational workflows. The system supports multilingual transcription across more than 50 languages and expressive speech synthesis with emotional adaptability in 35-plus languages.</p><p>Built on LiveKit, the voice agent SDK integrates listening, reasoning, tool calling, and speaking into a single low-latency streaming pipeline. The models are available through Mistral's global and regional APIs or for self-deployment on private infrastructure, offering options for enterprise data sovereignty and customizable voice adaptation.</p><p><img src="https://mistral.ai/_astro/diagram-voxtral-alt_Z2ufcLf.webp?dpl=6ad795c23ec0b6e8ad0a703a" /></p><hr/><small>20 Oct 2026, 18:36 UTC | #24925</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Releases MultiLangBench and Details Model Improvements for Low-Resource Programming Languages</title>
     <link href="https://openai.com/index/low-resource-programming-languages" rel="alternate" />

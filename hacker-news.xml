@@ -7,6 +7,24 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>NixOS Simplifies Self-Hosted Service Deployment and Management</title>
+    <link href="https://entropicthoughts.com/nixos-is-making-me-less-afraid" rel="alternate" />
+    <id>https://entropicthoughts.com/nixos-is-making-me-less-afraid::v240</id>
+    <published>2026-10-20T14:03:00+00:00</published>
+    <updated>2026-10-20T14:03:00+00:00</updated>
+    <media:thumbnail url="https://entropicthoughts.com/image/banner/nixos-is-making-me-less-afraid.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://entropicthoughts.com/nixos-is-making-me-less-afraid">entropicthoughts.com</a> | <a href="https://lobste.rs/s/7d1swo/nixos_is_making_me_less_afraid">discussion</a> | <a href="https://news.ycombinator.com/item?id=50165484">hacker news</a></small></p><hr/><p>An essay examines how adopting NixOS transformed the author's approach to maintaining self-hosted software, turning what was once a brittle and dreaded chore into a reliable, declarative process. Using a personal deployment of the FreshRSS feed aggregator as an example, the author details how a minimal configuration replaced complex manual installation steps, web server setups, and container management.</p><p>Unlike traditional deployment methods involving manual configuration scripts or container images that can drift over time, NixOS configurations provide reproducible and executable instructions. This reliability eliminates the maintenance friction and fear of breakage that often discourages developers from trying new self-hosted tools.</p><p><img src="https://entropicthoughts.com/image/banner/nixos-is-making-me-less-afraid.jpg" /></p><hr/><small>20 Oct 2026, 18:35 UTC | #24926</small>]]></content>
+  </entry>
+  <entry>
+    <title>Google Cloud Outage Disrupts Revolut and Other UK Banks</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk::v240</id>
+    <published>2026-10-20T14:01:00+00:00</published>
+    <updated>2026-10-20T14:01:00+00:00</updated>
+    <media:thumbnail url="https://www.thenews.com.pk/assets/uploads/updates/2026-10-20/1420620_1807279_French-DJ-Kavinsky-performs-on-stage-during-the-Paris-2024-Olympics-Closing-Ceremony-at-the-Stade-de-France---2026-10-20T151042_966_updates.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk">bloomberg.com</a></small></p><hr/><p>An outage at Google Cloud's London region disrupted online banking and payment services across the UK, taking offline major fintech and banking platforms including Revolut, HSBC, and Lloyds. Users reported widespread difficulties making card payments, executing bank transfers, withdrawing cash, and logging into their accounts.</p><p>Google acknowledged that services in its London region were experiencing issues and recommended that affected customers attempt to migrate workloads to other cloud regions. Revolut assured customers that their funds and personal data remained secure while engineers worked to resolve the infrastructure disruption.</p><p><img src="https://www.thenews.com.pk/assets/uploads/updates/2026-10-20/1420620_1807279_French-DJ-Kavinsky-performs-on-stage-during-the-Paris-2024-Olympics-Closing-Ceremony-at-the-Stade-de-France---2026-10-20T151042_966_updates.jpg" /></p><hr/><small>20 Oct 2026, 18:32 UTC | #24880</small>]]></content>
+  </entry>
+  <entry>
     <title>Jepsen Analyzes Orkes Conductor Versions 5.3.2 through 5.5.0-rc2</title>
     <link href="https://jepsen.io/analyses/orkes-conductor-5.3.2" rel="alternate" />
     <id>https://jepsen.io/analyses/orkes-conductor-5.3.2::v240</id>
@@ -1029,14 +1047,5 @@
     <updated>2026-10-15T19:23:00+00:00</updated>
     <media:thumbnail url="https://unfenced.land/static/featured-savage-creek-rd-unit-tl200-grants-pass.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://unfenced.land/">unfenced.land</a> | <a href="https://news.ycombinator.com/item?id=50102247">hacker news</a></small></p><hr/><p>Unfenced is a platform that identifies real estate properties for sale sharing boundaries with public lands, such as national forests, game lands, and wilderness areas. The service uses official boundary maps to verify these connections, rather than relying on potentially inaccurate listing descriptions.</p><p>The platform currently indexes over 13,000 properties across 49 regions by cross-referencing active real estate listings with government land data. This provides users with a specialized way to find parcels with direct access to public outdoor recreation areas.</p><p><img src="https://unfenced.land/static/featured-savage-creek-rd-unit-tl200-grants-pass.webp" /></p><hr/><small>16 Oct 2026, 01:00 UTC | #24464</small>]]></content>
-  </entry>
-  <entry>
-    <title>Libreboot 26.10 "Ominous Olive" Adds Full UEFI Support</title>
-    <link href="https://libreboot.org/news/libreboot2610.html" rel="alternate" />
-    <id>https://libreboot.org/news/libreboot2610.html::v239</id>
-    <published>2026-10-15T18:22:00+00:00</published>
-    <updated>2026-10-15T18:22:00+00:00</updated>
-    <media:thumbnail url="https://av.libreboot.org/t480/t480.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://libreboot.org/news/libreboot2610.html">libreboot.org</a> | <a href="https://news.ycombinator.com/item?id=50102923">hacker news</a></small></p><hr/><p>Libreboot 26.10, codenamed "Ominous Olive," introduces full UEFI support across nearly all supported mainboards. By integrating the MrChromebox EDK2 payload, the firmware now enables compatibility with Microsoft Windows 10 and 11, as well as modern Linux and BSD operating systems using EFI bootloaders.</p><p>This release incorporates 233 Chromebook boards from the MrChromebox project and establishes EDK2 as the default payload, while providing EFI-compliant versions of GRUB and SeaBIOS for backward compatibility. The update also implements an anti-AI policy and disables Intel Management Engine (ME) by default on supported hardware.</p><p><img src="https://av.libreboot.org/t480/t480.jpg" /></p><hr/><small>16 Oct 2026, 00:04 UTC | #24461</small>]]></content>
   </entry>
 </feed>
