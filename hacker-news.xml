@@ -3,9 +3,36 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T22:48:00+00:00</updated>
+  <updated>2026-10-21T00:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Annotated VT100 Firmware</title>
+    <link href="https://vt100.net/dec/vt100/rom/" rel="alternate" />
+    <id>https://vt100.net/dec/vt100/rom/::v240</id>
+    <published>2026-10-21T00:17:00+00:00</published>
+    <updated>2026-10-21T00:17:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRU1CEK8zqx7af1U20cQtCEHbmMehGdr0trYp1DvlIAwQPTvj2Gut4ZTBpyc-8E2SFLum83-wL2RPwno_HJpGSLFivxHP0fs5OhoFvIHG9nGz8wcdNyrRpwV3R-MbWSt5rWJX0CCcfWA/s1600/dec-vt100-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://vt100.net/dec/vt100/rom/">vt100.net</a> | <a href="https://lobste.rs/s/qflytl/annotated_vt100_firmware_2022">discussion</a> | <a href="https://news.ycombinator.com/item?id=50147760">hacker news</a></small></p><hr/><p>An annotated disassembly of the original 8 KiB firmware for the DEC VT100 terminal details the internal operations of the company's first microprocessor-based, ANSI-compatible display device. Released in 1978, the terminal relied on an Intel 8080 processor, establishing the architectural foundation for subsequent DEC video terminals.</p><p>The documentation pairs the complete assembly code with cross-references to original technical manuals and hardware print sets. Subsequent minor modifications made to follow-on models like the VT101 and VT102 ultimately standardized these escape sequences as the benchmark for VT100 terminal emulation.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRU1CEK8zqx7af1U20cQtCEHbmMehGdr0trYp1DvlIAwQPTvj2Gut4ZTBpyc-8E2SFLum83-wL2RPwno_HJpGSLFivxHP0fs5OhoFvIHG9nGz8wcdNyrRpwV3R-MbWSt5rWJX0CCcfWA/s1600/dec-vt100-1.jpg" /></p><hr/><small>21 Oct 2026, 08:32 UTC | #24986</small>]]></content>
+  </entry>
+  <entry>
+    <title>Mahdi Bahrami Introduces High-Performance IPv4 Parser in Swift</title>
+    <link href="https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/" rel="alternate" />
+    <id>https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/::v240</id>
+    <published>2026-10-21T00:16:00+00:00</published>
+    <updated>2026-10-21T00:16:00+00:00</updated>
+    <media:thumbnail url="https://wadetregaskis.com/wp-content/uploads/2024/05/Web-server-comparison-memory-usage.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/">blog.mahdibm.com</a> | <a href="https://lobste.rs/s/dl4h2a/very_fast_ipv4_parser_swift">discussion</a></small></p><hr/><p>Mahdi Bahrami has developed a new high-performance IPv4 address parsing algorithm written in Swift as part of the swift-endpoint library. The implementation achieves a throughput of 75 instructions in 15 CPU cycles, parsing an address in approximately 3 nanoseconds on an Apple M6 processor.</p><p>Unlike many top-performing parsers that rely on lookup tables, null-byte padding, or architecture-specific SIMD intrinsics, the new algorithm uses SWAR (Single-Instruction-Multiple-Data Within A Register) techniques and instruction-level parallelism. This approach maintains high portability and predictable performance across different CPU architectures without the overhead of cache misses.</p><p><img src="https://wadetregaskis.com/wp-content/uploads/2024/05/Web-server-comparison-memory-usage.webp" /></p><hr/><small>21 Oct 2026, 08:31 UTC | #24985</small>]]></content>
+  </entry>
+  <entry>
+    <title>Raymond Chen Examines Why x86 Uses Ud2 Instead of Int 6</title>
+    <link href="https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/" rel="alternate" />
+    <id>https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/::v240</id>
+    <published>2026-10-21T00:15:00+00:00</published>
+    <updated>2026-10-21T00:15:00+00:00</updated>
+    <media:thumbnail url="https://user-images.githubusercontent.com/76600167/160873053-d218170d-79e4-428b-b1db-2a099969e79e.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/">devblogs.microsoft.com</a> | <a href="https://lobste.rs/s/9u6gm0/why_do_we_need_ud2_when_int_6_is_right_there">discussion</a></small></p><hr/><p>Raymond Chen explains why the x86 architecture relies on the ud2 instruction for undefined opcodes rather than manually invoking the int 6 software interrupt. Although both instructions are two bytes long, they trigger fundamentally different exception behaviors at the hardware level.</p><p>An invalid opcode generates a fault, which reports the address of the offending instruction to the exception handler so the system can inspect or attempt recovery. Conversely, a software interrupt like int 6 acts as a trap, pointing to the subsequent instruction and causing confusion in fault handlers that expect to analyze the invalid opcode. Furthermore, operating systems restrict user-mode programs from directly invoking int 6 in protected mode, making an actual undefined instruction necessary.</p><p><img src="https://user-images.githubusercontent.com/76600167/160873053-d218170d-79e4-428b-b1db-2a099969e79e.png" /></p><hr/><small>21 Oct 2026, 08:29 UTC | #24984</small>]]></content>
+  </entry>
   <entry>
     <title>VGA Driver Implementation in SystemVerilog</title>
     <link href="https://lukaswerner.com/post/2026-10-20@bottom-up-vga" rel="alternate" />
@@ -1028,13 +1055,5 @@
     <published>2026-10-16T09:31:00+00:00</published>
     <updated>2026-10-16T09:31:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fortran-lang.org/news/2026/09-15-Fortran-birthday/">fortran-lang.org</a> | <a href="https://fortran-index.github.io/fortran-index/page/fortran_birthday.html">source</a> | <a href="https://news.ycombinator.com/item?id=50104726">hacker news</a></small></p><hr/><p>The Institute of Computing for Climate Science (ICCS) will host an event on December 1, 2026, at the Science and Industry Museum in Manchester to celebrate the 70th anniversary of the Fortran programming language. The workshop will commemorate Fortran's long-standing role in supporting scientific computing and critical infrastructure in fields such as climate forecasting, nuclear engineering, and materials science.</p><p>The program will feature a keynote address by Damian Rouson, lightning talks, and breakout discussions, followed by a reception including a demonstration of the 1940s 'Baby' experimental computer. Attendance is free and offers both in-person and remote options via Zoom; registration will close on November 9, 2026.</p><hr/><small>16 Oct 2026, 15:19 UTC | #24512</small>]]></content>
-  </entry>
-  <entry>
-    <title>Solène Outlines Secure Self-Hosted Infrastructure Using Incus OS</title>
-    <link href="https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html" rel="alternate" />
-    <id>https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html::v239</id>
-    <published>2026-10-16T08:06:00+00:00</published>
-    <updated>2026-10-16T08:06:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html">dataswamp.org</a> | <a href="https://lobste.rs/s/q0wobg/my_self_hosted_infrastructure_with_incus">discussion</a></small></p><hr/><p>A highly automated, secure self-hosted infrastructure is built on Incus OS, an immutable operating system designed for Incus container and VM management. The architecture utilizes disposable Ubuntu system containers running Podman applications, with the entire stack orchestrated via OpenTofu and cloud-init to prevent configuration drift and enable full system rebuilds.</p><p>Security is enforced through a "deny-by-default" network model via Incus ACLs, hardware-backed disk encryption via TPM, and segmented access through a dedicated VPN. By treating system containers as ephemeral and automating all service updates, the setup applies cloud-provider security principles to a single-machine home environment.</p><hr/><small>16 Oct 2026, 13:44 UTC | #24502</small>]]></content>
   </entry>
 </feed>

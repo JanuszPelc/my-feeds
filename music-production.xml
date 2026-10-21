@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-20T18:54:00+00:00</updated>
+  <updated>2026-10-21T03:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Inlet Audio Releases Sever Double-Bass Horror Texture Instrument for Kontakt 8 Player</title>
+    <link href="https://www.kvraudio.com/news/inlet-audio-releases-sever---double-bass-horror-textures-for-kontakt-8-player-69234?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69234" rel="alternate" />
+    <id>https://www.kvraudio.com/news/inlet-audio-releases-sever---double-bass-horror-textures-for-kontakt-8-player-69234?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69234::v240</id>
+    <published>2026-10-21T03:01:00+00:00</published>
+    <updated>2026-10-21T03:01:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/state--closed--reverb.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/inlet-audio-releases-sever---double-bass-horror-textures-for-kontakt-8-player-69234?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69234">kvraudio.com</a> | <a href="https://www.inletaudio.com/products/sever">source</a></small></p><hr/><p>Inlet Audio has released Sever, an intensity-driven double-bass horror texture library designed for the free Kontakt 8 Player. The instrument is built from extended aleatoric double-bass improvisations, transforming evolving performances into playable textures and gestures tailored for contemporary horror scoring.</p><p>The library splits its content into two intensity-based instruments: Unease for restrained tension and suspense, and Rupture for aggressive, physical gestures. Encompassing 20 articulations and 40 presets, the instrument features core and layered playback options, sound-shaping controls, and built-in effects such as reverb and delay. It is available for €149, with introductory discounts running through November 3, 2026.</p><p><img src="https://static.kvraudio.com/i/b/state--closed--reverb.png" /></p><hr/><small>21 Oct 2026, 08:32 UTC | #24973</small>]]></content>
+  </entry>
   <entry>
     <title>Vienna Symphonic Library Releases BBO Harps Ensemble Sample Library</title>
     <link href="https://www.kvraudio.com/news/vienna-symphonic-library-releases-bbo-harps---three-harp-ensemble-for-big-bang-orchestra-69280?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69280" rel="alternate" />
@@ -645,14 +654,5 @@
     <published>2026-10-16T09:01:00+00:00</published>
     <updated>2026-10-16T09:01:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/16/oddment-odd-1-microsonic-lab/">bedroomproducersblog.com</a> | <a href="https://www.oddment-audio.com/">source</a></small></p><hr/><p>The ODD-1 Microsonic Lab is a desktop granular synthesizer and effects processor that has begun shipping. Developed with a custom microsonic synthesis engine, the device allows for multi-timbral synthesis, live audio processing, and loop creation.</p><p>Alongside the hardware, Oddment has released ODD-1V, a software plugin for Mac and Windows. The plugin provides a 1:1 port of the hardware's engine, includes the complete 2GB ODD-1 sample library, and supports MIDI-capable live performance within a DAW.</p><hr/><small>16 Oct 2026, 14:11 UTC | #24486</small>]]></content>
-  </entry>
-  <entry>
-    <title>Audient Horizon Thunderbolt Audio Interface Range Review</title>
-    <link href="https://musictech.com/reviews/studio-recording-gear/audient-horizon-review/" rel="alternate" />
-    <id>https://musictech.com/reviews/studio-recording-gear/audient-horizon-review/::v239</id>
-    <published>2026-10-16T08:01:00+00:00</published>
-    <updated>2026-10-16T08:01:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Audient-Horizon-hero-credit-press@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/reviews/studio-recording-gear/audient-horizon-review/">musictech.com</a> | <a href="https://audient.com/products/audio-interfaces/horizon-range/">source</a></small></p><hr/><p>The Audient Horizon range consists of three Thunderbolt 3 audio interfaces: the 8P, 16, and 32. The 8P model features integrated ASP8024 preamps, while the 16 and 32 models are designed for pure line input and output. The series is highly scalable, with up to four units capable of being daisy-chained to achieve a maximum of 200 inputs and outputs.</p><p>The interfaces are currently optimized for macOS, with official Windows support not yet released. They support 32-bit/192 kHz audio and allow for the configuration of complex monitoring systems, such as 9.1.6 surround, via the Horizon Control software.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Audient-Horizon-hero-credit-press@2000x1500.jpg" /></p><hr/><small>16 Oct 2026, 13:06 UTC | #24479</small>]]></content>
   </entry>
 </feed>
