@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-21T09:46:00+00:00</updated>
+  <updated>2026-10-21T14:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>China Criticizes U.S. Ban on DeepSeek and Vows Countermeasures</title>
+    <link href="https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html::v240</id>
+    <published>2026-10-21T14:05:00+00:00</published>
+    <updated>2026-10-21T14:05:00+00:00</updated>
+    <media:thumbnail url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/01/1200/675/2-deepseek-ai-china.png?ve=1&amp;tl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html">nytimes.com</a></small></p><hr/><p>China's Ministry of Commerce has strongly criticized the U.S. Department of Homeland Security's order banning DeepSeek products from federal civilian agency information systems. The Chinese government rejected allegations of illicit data distillation made by the FBI and U.S. artificial intelligence companies, characterizing the federal ban as an unwarranted attack on Chinese corporate interests.</p><p>The U.S. directive mandates the removal and exclusion of DeepSeek technology across civilian agencies amid ongoing national security concerns and accusations of bypassing export controls. Chinese officials stated that the action disregards prior bilateral understandings between Beijing and Washington, vowing to enact resolute countermeasures to protect domestic firms.</p><p><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/01/1200/675/2-deepseek-ai-china.png?ve=1&tl=1" /></p><hr/><small>21 Oct 2026, 17:35 UTC | #24994</small>]]></content>
+  </entry>
   <entry>
     <title>Micron Reaches Labor Agreement With Taichung Union in Taiwan</title>
     <link href="https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-21T10:05:00+00:00</updated>
+  <updated>2026-10-21T14:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>HAAi on Her Production Workflow and New Album Digitise</title>
+    <link href="https://musictech.com/features/interviews/haai-interview-digitise/" rel="alternate" />
+    <id>https://musictech.com/features/interviews/haai-interview-digitise/::v240</id>
+    <published>2026-10-21T14:07:00+00:00</published>
+    <updated>2026-10-21T14:07:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/HAAi-hero-credit-Lamia-Karic@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/features/interviews/haai-interview-digitise/">musictech.com</a></small></p><hr/><p>Producer and DJ HAAi discusses the creative and technical process behind her club-focused album Digitise, which evolved from a planned remix record of her 2025 release Humanise into an independent ten-track project featuring collaborators such as Skybreak, Echonomist, and a children's choir from Medellin, Colombia.</p><p>Constructed largely on a laptop while touring, the album integrates mobile production workflows with hardware elements, utilizing plugins like Devious Machines' Infiltrator alongside a vintage Roland Space Echo tape delay. HAAi highlights her ongoing push to work across diverse electronic genres and challenge listener expectations.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/HAAi-hero-credit-Lamia-Karic@2000x1500.jpg" /></p><hr/><small>21 Oct 2026, 17:37 UTC | #25007</small>]]></content>
+  </entry>
   <entry>
     <title>MusicTech Editor Criticizes Influx of Low-Effort AI Audio Plugins</title>
     <link href="https://musictech.com/features/opinion-analysis/stop-sending-me-vibecoded-ai-plugins/" rel="alternate" />

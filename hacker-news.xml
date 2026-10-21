@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-21T13:44:00+00:00</updated>
+  <updated>2026-10-21T14:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Close Details Approach to Rendering Untrusted HTML Email Safely</title>
+    <link href="https://making.close.com/posts/rendering-untrusted-html-email-safely/" rel="alternate" />
+    <id>https://making.close.com/posts/rendering-untrusted-html-email-safely/::v240</id>
+    <published>2026-10-21T14:09:00+00:00</published>
+    <updated>2026-10-21T14:09:00+00:00</updated>
+    <media:thumbnail url="https://making.close.com/static/59bc283663f231da9d5d10687803846a/fe486/email.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://making.close.com/posts/rendering-untrusted-html-email-safely/">making.close.com</a> | <a href="https://lobste.rs/s/9ww9by/rendering_untrusted_html_email_safely">discussion</a></small></p><hr/><p>Close outlines its client-side architecture for rendering complex HTML emails securely within a single-page web application while completely preventing cross-site scripting (XSS) and CSS leakage. Rather than relying on HTML sanitization libraries or plaintext conversion, the engineering team utilizes specialized iframe attributes and content security policies to isolate untrusted markup.</p><p>The implementation combines the srcdoc attribute to inject raw email markup without extra server endpoints, the sandbox attribute to restrict script execution while preserving safe link behavior, and a strict Content Security Policy. This layered defense-in-depth model ensures sophisticated HTML emails, style tags, and external images display correctly without exposing user accounts to session hijacking or credential theft.</p><p><img src="https://making.close.com/static/59bc283663f231da9d5d10687803846a/fe486/email.png" /></p><hr/><small>21 Oct 2026, 17:39 UTC | #25049</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nvidia Launches DSX POD and Vera-Rubin Reference Architecture for AI Data Centers</title>
+    <link href="https://www.datacenterdynamics.com/en/news/nvidia-launches-dsx-pod-claims-the-vera-rubin-reference-architecture-will-make-ai-data-centers-more-water-and-energy-efficient/" rel="alternate" />
+    <id>https://www.datacenterdynamics.com/en/news/nvidia-launches-dsx-pod-claims-the-vera-rubin-reference-architecture-will-make-ai-data-centers-more-water-and-energy-efficient/::v240</id>
+    <published>2026-10-21T14:06:00+00:00</published>
+    <updated>2026-10-21T14:06:00+00:00</updated>
+    <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202603/nvidia-vera-rubin-dsx.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.datacenterdynamics.com/en/news/nvidia-launches-dsx-pod-claims-the-vera-rubin-reference-architecture-will-make-ai-data-centers-more-water-and-energy-efficient/">datacenterdynamics.com</a> | <a href="https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment">source</a></small></p><hr/><p>Nvidia has launched the DSX POD, a modular, containerized version of its Vera-Rubin reference architecture designed to improve water and power efficiency in AI data centers. Scheduled for delivery in early 2027 through various industry partners, the system aims to reduce deployment times at prepared sites from six months to 14 days.</p><p>The platform combines closed-loop liquid cooling with dry-cooler heat rejection to eliminate water consumption in cooling by up to 100 percent, potentially saving millions of liters daily at large scales. Additionally, features like DSX MaxLPS and DSX Flex optimize power consumption and allow data centers to dynamically respond to electrical grid demands and energy spikes.</p><p><img src="https://iprsoftwaremedia.com/219/files/202603/nvidia-vera-rubin-dsx.jpeg" /></p><hr/><small>21 Oct 2026, 17:36 UTC | #24995</small>]]></content>
+  </entry>
   <entry>
     <title>Wiz Discovers Critical PHP2Shell Vulnerabilities in Core PHP</title>
     <link href="https://www.wiz.io/blog/php2shell-php-rce" rel="alternate" />
