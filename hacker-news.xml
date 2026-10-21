@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T18:56:00+00:00</updated>
+  <updated>2026-10-20T19:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Mastodon Details Upcoming 5.0 Web Interface Redesign</title>
+    <link href="https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/" rel="alternate" />
+    <id>https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/::v240</id>
+    <published>2026-10-20T19:00:00+00:00</published>
+    <updated>2026-10-20T19:00:00+00:00</updated>
+    <media:thumbnail url="https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/mastodon-5.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/">blog.joinmastodon.org</a> | <a href="https://lobste.rs/s/dlbufy/mastodon_5_0_closer_look">discussion</a></small></p><hr/><p>Mastodon has detailed the upcoming 5.0 release, highlighting a comprehensive user interface overhaul designed to simplify navigation and lower barriers for new users. The update introduces a redesigned post composer positioned at the bottom center, refreshed feed layouts, tokenized design system color themes, and separated settings for sensitive media and content warnings.</p><p>Based on community feedback gathered during discovery sessions and beta testing, the redesign aims to balance the power of the existing interface with a more intuitive experience for newcomers. The team is rolling out the updated design on mastodon.social ahead of releasing the first 5.0 beta version to server administrators for broader testing.</p><p><img src="https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/mastodon-5.jpg" /></p><hr/><small>21 Oct 2026, 00:02 UTC | #24964</small>]]></content>
+  </entry>
   <entry>
     <title>Google Releases TorchTPU as Open Source to Run Native PyTorch on TPUs</title>
     <link href="https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/" rel="alternate" />
