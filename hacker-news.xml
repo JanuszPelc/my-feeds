@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-21T03:03:00+00:00</updated>
+  <updated>2026-10-21T03:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>New York Lobsters Tech Meetup Scheduled for October 28th</title>
+    <link href="https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october" rel="alternate" />
+    <id>https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october::v240</id>
+    <published>2026-10-21T03:09:00+00:00</published>
+    <updated>2026-10-21T03:09:00+00:00</updated>
+    <media:thumbnail url="https://images.ctfassets.net/dkn3vuwtp1le/22Ri3gKXzA2C4kdv1i5qr4/ed4b0b47e175b3ca9532ee5295bcd851/hi_res_NYC_investors_meetup.jpeg?w=1200" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october">lobste.rs</a> | <a href="https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october">discussion</a></small></p><hr/><p>A meetup for members of the Lobsters tech community is scheduled to take place in New York City on October 28th. The gathering is planned to begin around 5:30 PM, with tentative locations suggested near Bryant Park or Borough Hall.</p><p>Attendees will include participants from the array language community as well. Interested participants are encouraged to reach out via private message for contact information and venue updates.</p><p><img src="https://images.ctfassets.net/dkn3vuwtp1le/22Ri3gKXzA2C4kdv1i5qr4/ed4b0b47e175b3ca9532ee5295bcd851/hi_res_NYC_investors_meetup.jpeg?w=1200" /></p><hr/><small>21 Oct 2026, 10:46 UTC | #24997</small>]]></content>
+  </entry>
   <entry>
     <title>Josh W. Comeau Previews Upcoming CSS Features for Interop 2027</title>
     <link href="https://www.joshwcomeau.com/css/interop-2027/" rel="alternate" />
