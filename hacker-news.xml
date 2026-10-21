@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-21T09:10:00+00:00</updated>
+  <updated>2026-10-21T09:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Uniker.nl OCaml Unikernel Development Workflow</title>
+    <link href="https://uniker.nl/" rel="alternate" />
+    <id>https://uniker.nl/::v240</id>
+    <published>2026-10-21T09:18:00+00:00</published>
+    <updated>2026-10-21T09:18:00+00:00</updated>
+    <media:thumbnail url="https://image.slidesharecdn.com/unicoreone-etechday-210928135118/85/Unikernel-Hands-on-tutorial-3-638.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://uniker.nl/">uniker.nl</a> | <a href="https://lobste.rs/s/mfserj/unikernels_ocaml">discussion</a></small></p><hr/><p>Uniker.nl offers resources and guides for building specialized unikernels using OCaml and the Solo5 sandbox environment. By compiling applications directly with minimal operating system components, unikernels run as lightweight virtual machines with reduced attack surfaces and high resource efficiency.</p><p>The platform integrates tools such as Albatross for deployment, enabling developers to build and manage single-purpose virtualized services designed to run directly on hypervisors like KVM, BHyve, and OpenVMM.</p><p><img src="https://image.slidesharecdn.com/unicoreone-etechday-210928135118/85/Unikernel-Hands-on-tutorial-3-638.jpg" /></p><hr/><small>21 Oct 2026, 13:19 UTC | #25015</small>]]></content>
+  </entry>
   <entry>
     <title>PHP Maintainers to Release Emergency Patches for Critical Vulnerabilities</title>
     <link href="https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/" rel="alternate" />
