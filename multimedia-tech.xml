@@ -104,13 +104,4 @@
     <updated>2026-10-18T03:24:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything">readtheprofile.com</a> | <a href="https://a24films.com/films/you-can-see-everything">source</a> | <a href="https://news.ycombinator.com/item?id=50137620">hacker news</a></small></p><hr/><p>The A24-distributed documentary *You Can See Everything*, directed by Lance Oppenheim and Nathan Fielder, follows Elizabeth Holmes in the weeks leading up to her prison sentence. Rather than a traditional true-crime retelling, the film utilizes specific cinematic techniques to manipulate the audience's emotional response and perception of Holmes in real time.</p><p>Through the strategic use of camera angles, editing, and narrative sequencing, the documentary demonstrates how easily viewers can be swayed by storytelling. The author argues that the film serves as a psychological study on how emotional impressions drive belief, forcing viewers to confront their own susceptibility to media framing.</p><hr/><small>18 Oct 2026, 14:39 UTC | #24652</small>]]></content>
   </entry>
-  <entry>
-    <title>Creating 88x31 Animated Button Books with ImageMagick</title>
-    <link href="https://k.sosnierz.me/08-11-24/" rel="alternate" />
-    <id>https://k.sosnierz.me/08-11-24/::v239</id>
-    <published>2026-10-16T11:22:00+00:00</published>
-    <updated>2026-10-16T11:22:00+00:00</updated>
-    <media:thumbnail url="https://www.bagaag.com/wp-content/uploads/2025/10/aseprite-1024x550.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://k.sosnierz.me/08-11-24/">k.sosnierz.me</a> | <a href="https://lobste.rs/s/v6hhdr/making_88x31_button_book_using">discussion</a></small></p><hr/><p>The article provides a technical guide for creating animated 88x31 pixel GIF "buttons" that scroll through text using ImageMagick and POSIX command-line utilities. The workflow utilizes cat, tr, fold, and sed to format text into small, digestible segments, which are then converted into an animated sequence using the convert tool.</p><p>To ensure text remains legible at very low resolutions, the author recommends using specialized fonts such as TomThumb. The tutorial also includes a Python script for text centering and uses the text of Moby Dick as a practical example.</p><p><img src="https://www.bagaag.com/wp-content/uploads/2025/10/aseprite-1024x550.png" /></p><hr/><small>16 Oct 2026, 15:59 UTC | #24517</small>]]></content>
-  </entry>
 </feed>
