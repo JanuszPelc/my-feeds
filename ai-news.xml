@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-20T23:09:00+00:00</updated>
+  <updated>2026-10-21T09:56:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Anthropic Claude Model Designs Protein Binders Against Scorpion Neurotoxins</title>
+    <link href="https://www.anthropic.com/research/claude-scorpion-toxin-binder-design" rel="alternate" />
+    <id>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design::v240</id>
+    <published>2026-10-21T09:56:00+00:00</published>
+    <updated>2026-10-21T09:56:00+00:00</updated>
+    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fa75592f9509840d8fe7b9137d4b76197342f9395-3923x2349.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/research/claude-scorpion-toxin-binder-design">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50170021">hacker news</a></small></p><hr/><p>Anthropic tasked an internal research model within Claude Science to design protein minibinders targeting scorpion neurotoxins in collaboration with Citrini Research. Over a 64-hour autonomous campaign, the model generated over 318,000 designs, of which 211 were lab-tested by Adaptyv Bio and Twist Bioscience, yielding 17 designs that met strict binding criteria across four dangerous scorpion neurotoxins.</p><p>Although the binders have not yet been tested for cellular neutralization or in living animals, outside experts consider the results a promising initial step for accelerating neglected tropical disease research. Anthropic has released all 211 designs and their corresponding binding data publicly on Hugging Face to encourage further scientific development.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fa75592f9509840d8fe7b9137d4b76197342f9395-3923x2349.png&w=3840&q=75" /></p><hr/><small>21 Oct 2026, 17:06 UTC | #24992</small>]]></content>
+  </entry>
   <entry>
     <title>Google Rolls Out Gemini Personal Intelligence for Android Auto</title>
     <link href="https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/" rel="alternate" />
@@ -351,14 +360,5 @@
     <updated>2026-10-16T18:56:00+00:00</updated>
     <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fe4948d016f5879d721c3297b1ee1073b1e6b5734-2912x1064.png&amp;w=3840&amp;q=75" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.anthropic.com/research/ecdsa-curve-origins">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50122800">hacker news</a></small></p><hr/><p>Anthropic's Claude model has identified the origins of the NIST ECDSA elliptic curve seeds, resolving a decades-old mystery regarding their provenance. The model discovered that the seeds were generated using the C library's lrand48 pseudorandom number generator initialized with Unix timestamps, rather than being the result of a hash function as previously theorized.</p><p>This discovery mitigates long-standing suspicions of intentional cryptographic backdoors by showing the parameters were created through a simple, reproducible process. Claude identified the pattern by detecting bit signatures characteristic of a linear congruential generator and used lattice-based algorithms to reconstruct the original generator states.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fe4948d016f5879d721c3297b1ee1073b1e6b5734-2912x1064.png&w=3840&q=75" /></p><hr/><small>16 Oct 2026, 20:25 UTC | #24537</small>]]></content>
-  </entry>
-  <entry>
-    <title>Mercor Research Maps AI Benchmark Coverage Across US Occupations</title>
-    <link href="https://www.mercor.com/research/labor-index/benchmark-map/" rel="alternate" />
-    <id>https://www.mercor.com/research/labor-index/benchmark-map/::v239</id>
-    <published>2026-10-16T17:09:00+00:00</published>
-    <updated>2026-10-16T17:09:00+00:00</updated>
-    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQHxYZTNeUiO6w/feedshare-shrink_1280/B56ZzGte8.HUAM-/0/1772860338241?e=2147483647&amp;v=beta&amp;t=fabTfW6SUEGm6Eu9aZAt4iRF0O5gjJAXQYJ400n7JGI" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.mercor.com/research/labor-index/benchmark-map/">mercor.com</a> | <a href="https://news.ycombinator.com/item?id=50121179">hacker news</a></small></p><hr/><p>Mercor's research shows that 90% of American working hours are spent on tasks with little to no coverage from existing AI benchmarks. By mapping 29 agentic benchmarks against the US Department of Labor’s O*NET taxonomy, the study identifies significant gaps in how AI models are evaluated against real-world economic activities.</p><p>The analysis reveals that current benchmark coverage is heavily skewed toward high-wage, AI-exposed occupations, such as software engineering and law. This creates a systemic bias that leaves many middle-income knowledge work roles and industrial occupations underrepresented, making it difficult to accurately assess AI model performance across the broader economy.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQHxYZTNeUiO6w/feedshare-shrink_1280/B56ZzGte8.HUAM-/0/1772860338241?e=2147483647&v=beta&t=fabTfW6SUEGm6Eu9aZAt4iRF0O5gjJAXQYJ400n7JGI" /></p><hr/><small>16 Oct 2026, 20:03 UTC | #24535</small>]]></content>
   </entry>
 </feed>

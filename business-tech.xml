@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-21T09:20:00+00:00</updated>
+  <updated>2026-10-21T09:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Micron Reaches Labor Agreement With Taichung Union in Taiwan</title>
+    <link href="https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/" rel="alternate" />
+    <id>https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/::v240</id>
+    <published>2026-10-21T09:46:00+00:00</published>
+    <updated>2026-10-21T09:46:00+00:00</updated>
+    <media:thumbnail url="https://dmassets.micron.com/is/image/microntechnology/location-tiachung-taiwan-site:3-2-all-others?ts=1740519551882&amp;dpr=off" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/">reuters.com</a></small></p><hr/><p>Micron Technology's Taiwan subsidiary and a labor union representing workers at its Taichung facility have signed a multi-issue labor-management agreement. The deal successfully resolved local tensions and prompted both parties to withdraw from a scheduled mediation session, though specific terms of the agreement were not disclosed.</p><p>The agreement covers Micron's largest manufacturing site in Taiwan. However, labor tensions persist elsewhere in the region, as a separate union representing workers at Micron's Taoyuan facility continues to pursue strike action amid ongoing disputes regarding bonuses and profit-sharing.</p><p><img src="https://dmassets.micron.com/is/image/microntechnology/location-tiachung-taiwan-site:3-2-all-others?ts=1740519551882&dpr=off" /></p><hr/><small>21 Oct 2026, 17:05 UTC | #24991</small>]]></content>
+  </entry>
   <entry>
     <title>Samsung and SK Hynix Upgrading China Fabs for Advanced NAND Flash Production</title>
     <link href="https://www.reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21/" rel="alternate" />
@@ -836,23 +845,5 @@
     <published>2026-10-16T18:59:00+00:00</published>
     <updated>2026-10-16T18:59:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/apples-antitrust-settlement-talks-spur-worries-among-developers">theinformation.com</a></small></p><hr/><p>The U.S. Department of Justice is considering a settlement in its antitrust lawsuit against Apple that focuses on interoperability. Major developers, including PayPal and Epic Games, have expressed concerns to the DOJ that a deal centered on technical interoperability may fail to meaningfully loosen Apple's control over the iPhone ecosystem.</p><p>The debate highlights anxiety among developers regarding the scope of federal enforcement. If the settlement fails to address core App Store restrictions and hardware-software integration, critics argue it will not resolve the fundamental issues of market dominance.</p><hr/><small>16 Oct 2026, 20:51 UTC | #24505</small>]]></content>
-  </entry>
-  <entry>
-    <title>Waymo to Launch Robotaxi Service in Toronto in 2028</title>
-    <link href="https://www.reuters.com/business/googles-waymo-plans-first-canada-robotaxi-service-toronto-2028-2026-10-16/" rel="alternate" />
-    <id>https://www.reuters.com/business/googles-waymo-plans-first-canada-robotaxi-service-toronto-2028-2026-10-16/::v239</id>
-    <published>2026-10-16T14:37:00+00:00</published>
-    <updated>2026-10-16T14:37:00+00:00</updated>
-    <media:thumbnail url="https://cdn-cabinet.ua.news/uploads/images/waymo_plans_robotaxi_service_toronto_202_1792152579482.webp?8005329" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/googles-waymo-plans-first-canada-robotaxi-service-toronto-2028-2026-10-16/">reuters.com</a> | <a href="https://waymo.com/blog/2026/10/waymo-in-toronto/">source</a> | <a href="https://news.ycombinator.com/item?id=50118981">hacker news</a></small></p><hr/><p>Waymo plans to launch its autonomous ride-hailing service in Toronto in 2028 through a partnership with Element Fleet Management. This expansion marks the company's first deployment in Canada.</p><p>Element Fleet Management will provide end-to-end fleet management and intelligent mobility solutions to support the Toronto operations.</p><p><img src="https://cdn-cabinet.ua.news/uploads/images/waymo_plans_robotaxi_service_toronto_202_1792152579482.webp?8005329" /></p><hr/><small>16 Oct 2026, 19:59 UTC | #24497</small>]]></content>
-  </entry>
-  <entry>
-    <title>Mark Wahlberg on Using AI in Filmmaking and Digital Likeness</title>
-    <link href="https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/::v239</id>
-    <published>2026-10-16T14:27:00+00:00</published>
-    <updated>2026-10-16T14:27:00+00:00</updated>
-    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/55592129126_e529cea50a_o.jpg?w=680" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/">techcrunch.com</a></small></p><hr/><p>Mark Wahlberg discussed the application of AI in the film industry during a session at TechCrunch Disrupt. He supports using artificial intelligence to enhance visual environments—such as the settings in his upcoming Pete Rose biopic—while maintaining that human-led storytelling must remain the primary focus.</p><p>Wahlberg also expressed interest in using AI technology to create digital likenesses to preserve his legacy for future generations. He stated he would be open to an AI version of himself being used to continue his animated series, "Ted," if there is an existing audience for the content.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/55592129126_e529cea50a_o.jpg?w=680" /></p><hr/><small>16 Oct 2026, 19:29 UTC | #24511</small>]]></content>
   </entry>
 </feed>

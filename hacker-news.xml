@@ -3,9 +3,45 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-21T09:25:00+00:00</updated>
+  <updated>2026-10-21T13:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Wiz Discovers Critical PHP2Shell Vulnerabilities in Core PHP</title>
+    <link href="https://www.wiz.io/blog/php2shell-php-rce" rel="alternate" />
+    <id>https://www.wiz.io/blog/php2shell-php-rce::v240</id>
+    <published>2026-10-21T13:44:00+00:00</published>
+    <updated>2026-10-21T13:44:00+00:00</updated>
+    <media:thumbnail url="https://thedailytechfeed.com/wp-content/uploads/2026/10/9201.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.wiz.io/blog/php2shell-php-rce">wiz.io</a> | <a href="https://news.ycombinator.com/item?id=50180836">hacker news</a></small></p><hr/><p>Wiz Research uncovered multiple critical memory-safety vulnerabilities in core PHP, tracked as CVE-2026-109618 and CVE-2026-109619 and collectively named PHP2Shell. These flaws affect PHP versions released over the last decade, enabling unauthenticated remote code execution and process-memory disclosure on dependent platforms such as WordPress, Drupal, and Joomla.</p><p>The underlying architectural bugs persisted for years because chaining them into functional exploits required managing complex memory layouts across requests. Frontier AI models assisted researchers in developing and adapting the exploits, marking an inflection point in vulnerability research. PHP released security updates on October 21, 2026, to address the core issues.</p><p><img src="https://thedailytechfeed.com/wp-content/uploads/2026/10/9201.png" /></p><hr/><small>21 Oct 2026, 17:08 UTC | #25027</small>]]></content>
+  </entry>
+  <entry>
+    <title>Mozilla Updates Firefox Security Policy to Require Separate Test Patches</title>
+    <link href="https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ" rel="alternate" />
+    <id>https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ::v240</id>
+    <published>2026-10-21T09:37:00+00:00</published>
+    <updated>2026-10-21T09:37:00+00:00</updated>
+    <media:thumbnail url="https://i0.wp.com/allabouttesting.org/wp-content/uploads/2022/07/privacy-1024x500.jpg?ssl=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ">groups.google.com</a> | <a href="https://lobste.rs/s/othohc/firefox_security_patch_tests_are_now">discussion</a></small></p><hr/><p>The Mozilla security team has updated its development policy to require that tests be submitted in a separate patch from security issue fixes for both high- and moderate-severity bugs. Prompted by advancements in AI-assisted vulnerability analysis, this change prevents tests from inadvertently exposing the exact mechanics of security flaws before fixes are deployed.</p><p>Contributors are now required to hold off on landing tests until at least one week after the release containing the fix ships, typically the Tuesday following release week. Developers can automate this timeline using a whiteboard tag reminder that triggers a notification when the waiting period concludes.</p><p><img src="https://i0.wp.com/allabouttesting.org/wp-content/uploads/2022/07/privacy-1024x500.jpg?ssl=1" /></p><hr/><small>21 Oct 2026, 17:03 UTC | #25030</small>]]></content>
+  </entry>
+  <entry>
+    <title>Vector Graphics in Lil</title>
+    <link href="https://beyondloom.com/blog/vectorgraphics.html" rel="alternate" />
+    <id>https://beyondloom.com/blog/vectorgraphics.html::v240</id>
+    <published>2026-10-21T09:36:00+00:00</published>
+    <updated>2026-10-21T09:36:00+00:00</updated>
+    <media:thumbnail url="https://img.itch.zone/aW1nLzEzMTgzNzg4LnBuZw==/original/MgNlJb.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://beyondloom.com/blog/vectorgraphics.html">beyondloom.com</a> | <a href="https://lobste.rs/s/tsfina/vector_graphics_lil">discussion</a></small></p><hr/><p>This article explores two-dimensional vector graphics manipulation using Lil, the APL-influenced scripting language of the Decker ecosystem. It details how points, strokes, and paths are represented and processed collectively as nested data structures without explicit loop-carried indices.</p><p>By leveraging Lil's arithmetic conforming behavior, developers can apply geometric transformations like scaling, mirroring, translation, shearing, and rotation with concise syntax. The piece also demonstrates how to construct dynamic visual effects such as perspective distortion and wave ripples using core vector primitives.</p><p><img src="https://img.itch.zone/aW1nLzEzMTgzNzg4LnBuZw==/original/MgNlJb.png" /></p><hr/><small>21 Oct 2026, 17:02 UTC | #25029</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta Suspends Muse Conversation Sharing After Security Flaw Exposes Private Chats</title>
+    <link href="https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/" rel="alternate" />
+    <id>https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/::v240</id>
+    <published>2026-10-21T09:34:00+00:00</published>
+    <updated>2026-10-21T09:34:00+00:00</updated>
+    <media:thumbnail url="https://mundobytes.com/wp-content/uploads/2025/03/usar-Meta-AI-en-Whatsapp-8.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/">arstechnica.com</a> | <a href="https://blog.claroc.io/ghostshares-muse-passive-dns">source</a> | <a href="https://news.ycombinator.com/item?id=50174687">hacker news</a></small></p><hr/><p>Meta has suspended the conversation-sharing feature of its Muse AI assistant after security researchers discovered that shared chat links could be easily enumerated through public passive DNS records. Researchers from Claroc found that Muse generated share URLs containing descriptive chat titles within subdomains, allowing outsiders to uncover more than 6,800 active shared links without authorization.</p><p>An examination of the exposed links revealed confidential business and personal data, including executive-search notes, internal revenue reviews, loan applications, and staff vacation calendars. Meta paused the functionality following a bug bounty report from Claroc while the company reviews how the links are structured and discoverable.</p><p><img src="https://mundobytes.com/wp-content/uploads/2025/03/usar-Meta-AI-en-Whatsapp-8.jpg" /></p><hr/><small>21 Oct 2026, 17:00 UTC | #25028</small>]]></content>
+  </entry>
   <entry>
     <title>History and Architecture of Symbolics Genera Lisp Machines</title>
     <link href="https://www.youtube.com/watch?v=W2fGKjFoaOg" rel="alternate" />
@@ -1059,14 +1095,5 @@
     <published>2026-10-16T19:11:00+00:00</published>
     <updated>2026-10-16T19:11:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware">theverge.com</a> | <a href="https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/">source</a> | <a href="https://news.ycombinator.com/item?id=50106676">hacker news</a></small></p><hr/><p>Researchers from Citizen Lab and Confiant have uncovered that the Israeli ad tech firm Discover-Tech uses targeted online advertisements to deliver "zero-click" spyware, which infects devices without user interaction. The investigation found that these attacks targeted at least 45 devices at the news organization Al Jazeera during 2024 and 2025.</p><p>The firm's Controlium platform facilitates user profiling and de-anonymization via IP addresses, mobile ad IDs, or browser identifiers. Researchers linked the campaign to Candiru, a US-blacklisted spyware company. Google and Beeswax have since removed Discover-Tech from their advertising platforms, and IAB Europe suspended the company from its approved vendor list.</p><hr/><small>16 Oct 2026, 21:45 UTC | #24541</small>]]></content>
-  </entry>
-  <entry>
-    <title>The Visual Appeal of Software Rendering in Classic DOS Games</title>
-    <link href="https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/" rel="alternate" />
-    <id>https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/::v239</id>
-    <published>2026-10-16T14:30:00+00:00</published>
-    <updated>2026-10-16T14:30:00+00:00</updated>
-    <media:thumbnail url="https://www.jamesfmackenzie.com/img/software-rendering-quake-rune.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/">jamesfmackenzie.com</a> | <a href="https://news.ycombinator.com/item?id=50117746">hacker news</a></small></p><hr/><p>Software rendering, which uses the CPU to draw every pixel instead of a dedicated graphics card, provides a distinct visual experience for classic DOS titles like Quake and Doom. This approach results in sharp, pixel-perfect textures and a gritty aesthetic through color banding, avoiding the blurring often caused by bilinear filtering in 3D-accelerated versions. For many retro games, this method maintains a visual style closer to the developers' original intent.</p><p>Achieving high-resolution software rendering is computationally demanding, requiring modern CPUs to handle increased pixel counts at high frame rates. To replicate the authentic experience, enthusiasts often run native DOS versions on real hardware or specialized setups to manage legacy sound and display requirements that modern systems do not natively support.</p><p><img src="https://www.jamesfmackenzie.com/img/software-rendering-quake-rune.png" /></p><hr/><small>16 Oct 2026, 19:43 UTC | #24533</small>]]></content>
   </entry>
 </feed>
