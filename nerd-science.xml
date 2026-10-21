@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-21T09:08:00+00:00</updated>
+  <updated>2026-10-21T09:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Study Finds Deep-Sea Life in Gulf of Mexico Has Not Recovered 16 Years After Deepwater Horizon Spill</title>
+    <link href="https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery" rel="alternate" />
+    <id>https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery::v240</id>
+    <published>2026-10-21T09:11:00+00:00</published>
+    <updated>2026-10-21T09:11:00+00:00</updated>
+    <media:thumbnail url="https://yale-threesixty.transforms.svdcdn.com/production/Deepwater-Horizon-Spill_Wikipedia.jpg?w=1200&amp;h=800&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1792489301&amp;s=c6e250d897ee3d628b725af45cc84599" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery">e360.yale.edu</a> | <a href="https://www.pnas.org/doi/full/10.1073/pnas.2616554123">source</a> | <a href="https://news.ycombinator.com/item?id=50168357">hacker news</a></small></p><hr/><p>A new study published in the Proceedings of the National Academy of Sciences reveals that populations of deep-sea animals such as octopus, squid, krill, shrimp, and lanternfish in the Gulf of Mexico declined by at least 60 percent following the 2010 Deepwater Horizon oil spill and have shown no measurable signs of recovery.</p><p>Researchers identified lingering oil-related compounds in the tissues and eggs of deep-dwelling species, which can impair reproduction, development, and survival. The findings suggest that the deep-pelagic biome possesses limited resilience to severe human-induced disturbances, alongside concerning reductions in genetic diversity.</p><p><img src="https://yale-threesixty.transforms.svdcdn.com/production/Deepwater-Horizon-Spill_Wikipedia.jpg?w=1200&h=800&auto=compress%2Cformat&fit=crop&dm=1792489301&s=c6e250d897ee3d628b725af45cc84599" /></p><hr/><small>21 Oct 2026, 12:27 UTC | #25006</small>]]></content>
+  </entry>
   <entry>
     <title>UNEP Releases Emissions Gap Report 2026 on 1.5°C Overshoot</title>
     <link href="https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/" rel="alternate" />
