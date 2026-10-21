@@ -1049,20 +1049,4 @@
     <updated>2026-10-16T12:03:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.iroh.computer/blog/the-road-to-iroh-1-0">iroh.computer</a> | <a href="https://lobste.rs/s/6laoto/road_iroh_1_0">discussion</a></small></p><hr/><p>Iroh has released version 1.0, concluding four years of development and several architectural pivots. Originally an IPFS-compatible implementation, the project evolved into a lightweight peer-to-peer (P2P) library designed for high-performance, resource-constrained devices.</p><p>The final release focuses on direct connections dialed by endpoint IDs, employing QUIC for networking and BLAKE3 for content addressing. The core library's scope was narrowed to ensure reliability, with non-essential functionalities transitioned into separate crates and connectivity features like hole punching and ALPN-based protocol negotiation integrated into the stack.</p><hr/><small>16 Oct 2026, 17:08 UTC | #24524</small>]]></content>
   </entry>
-  <entry>
-    <title>The Origins of the WIN32_LEAN_AND_MEAN Macro</title>
-    <link href="https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/" rel="alternate" />
-    <id>https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/::v239</id>
-    <published>2026-10-16T09:34:00+00:00</published>
-    <updated>2026-10-16T09:34:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/">devblogs.microsoft.com</a> | <a href="https://lobste.rs/s/eqoieo/where_did_win32_lean_mean_come_from_2009">discussion</a></small></p><hr/><p>The `WIN32_LEAN_AND_MEAN` macro was introduced during the transition to 32-bit Windows in the Windows 95 era to reduce compilation times. It functions by excluding various header files when `windows.h` is included, enabling a minimal set of headers similar to the 16-bit Windows programming model.</p><p>On older hardware, such as 486-based systems, the macro significantly decreased build times by reducing the volume of code processed by the preprocessor. Although Moore's Law and the widespread use of precompiled headers have made the macro's impact on modern compilation speeds negligible, it remains a standard component of the Windows API.</p><hr/><small>16 Oct 2026, 15:42 UTC | #24515</small>]]></content>
-  </entry>
-  <entry>
-    <title>Institute of Computing for Climate Science to Host Fortran 70th Anniversary Event</title>
-    <link href="https://fortran-lang.org/news/2026/09-15-Fortran-birthday/" rel="alternate" />
-    <id>https://fortran-lang.org/news/2026/09-15-Fortran-birthday/::v239</id>
-    <published>2026-10-16T09:31:00+00:00</published>
-    <updated>2026-10-16T09:31:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fortran-lang.org/news/2026/09-15-Fortran-birthday/">fortran-lang.org</a> | <a href="https://fortran-index.github.io/fortran-index/page/fortran_birthday.html">source</a> | <a href="https://news.ycombinator.com/item?id=50104726">hacker news</a></small></p><hr/><p>The Institute of Computing for Climate Science (ICCS) will host an event on December 1, 2026, at the Science and Industry Museum in Manchester to celebrate the 70th anniversary of the Fortran programming language. The workshop will commemorate Fortran's long-standing role in supporting scientific computing and critical infrastructure in fields such as climate forecasting, nuclear engineering, and materials science.</p><p>The program will feature a keynote address by Damian Rouson, lightning talks, and breakout discussions, followed by a reception including a demonstration of the 1940s 'Baby' experimental computer. Attendance is free and offers both in-person and remote options via Zoom; registration will close on November 9, 2026.</p><hr/><small>16 Oct 2026, 15:19 UTC | #24512</small>]]></content>
-  </entry>
 </feed>
