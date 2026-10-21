@@ -1067,21 +1067,4 @@
     <updated>2026-10-16T01:47:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.bipm.org/en/cgpm-2026/resolution-5">bipm.org</a> | <a href="https://lobste.rs/s/ipyrkv/on_technical_actions_needed_ensure">discussion</a> | <a href="https://news.ycombinator.com/item?id=50105777">hacker news</a></small></p><hr/><p>The 28th General Conference on Weights and Measures (CGPM) has passed Resolution 5, which establishes that Coordinated Universal Time (UTC) will become a continuous time scale effective May 20, 2027. To ensure long-term continuity and avoid the need for leap seconds, the resolution allows for a maximum difference of 3,600 seconds (one hour) between UTC and UT1 (astronomical time).</p><p>This transition aims to mitigate the risks of negative leap seconds, which could cause significant disruption to critical infrastructures including telecommunications, energy distribution, and satellite navigation. By increasing the allowed offset, the international community seeks to protect IoT devices and other synchronized digital systems from the technical anomalies caused by time-step adjustments.</p><hr/><small>16 Oct 2026, 08:05 UTC | #24478</small>]]></content>
   </entry>
-  <entry>
-    <title>Malware Disguised as South Park Episodes Steals Sensitive User Credentials</title>
-    <link href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup" rel="alternate" />
-    <id>https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup::v239</id>
-    <published>2026-10-16T01:39:00+00:00</published>
-    <updated>2026-10-16T01:39:00+00:00</updated>
-    <media:thumbnail url="https://content.any.run/tasks/170fa1ee-e807-4b27-8a33-23265a48a03d/download/screens/ffd46134-d3e8-4e72-ba6d-cc2c43ee4ec9/image.jpeg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup">thereallo.dev</a> | <a href="https://news.ycombinator.com/item?id=50108872">hacker news</a></small></p><hr/><p>A piece of malware is being distributed via torrent trackers, disguised as a *South Park* episode with an `.exe` extension. The malware utilizes multiple layers of obfuscation, including XOR and AES-CTR, to evade detection and employs "dead drop" techniques via YouTube and GitHub to receive exfiltration instructions.</p><p>Once active, the malware targets sensitive data such as browser credentials, cryptocurrency wallets, password managers, and session tokens for platforms like Discord and Steam. It compresses the stolen information using zlib before exfiltrating it. Users are advised to configure torrent clients to block executable files and to monitor automation tools like Sonarr for suspicious file types.</p><p><img src="https://content.any.run/tasks/170fa1ee-e807-4b27-8a33-23265a48a03d/download/screens/ffd46134-d3e8-4e72-ba6d-cc2c43ee4ec9/image.jpeg" /></p><hr/><small>16 Oct 2026, 05:43 UTC | #24473</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tesla Roadster Webpage Access Denied</title>
-    <link href="https://www.tesla.com/roadster" rel="alternate" />
-    <id>https://www.tesla.com/roadster::v239</id>
-    <published>2026-10-16T01:33:00+00:00</published>
-    <updated>2026-10-16T01:33:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.tesla.com/roadster">tesla.com</a> | <a href="https://news.ycombinator.com/item?id=50112657">hacker news</a></small></p><hr/><p>A server error has blocked access to the official Tesla Roadster website, returning an "Access Denied" message. The error indicates that the requester lacks the necessary permissions to view the requested URL.</p><p>The error response includes a specific reference number and a link to an Akamai Edgesuite error page.</p><hr/><small>16 Oct 2026, 04:10 UTC | #24471</small>]]></content>
-  </entry>
 </feed>
