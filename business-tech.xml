@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-21T15:40:00+00:00</updated>
+  <updated>2026-10-21T17:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Apple Acquires AI Music Startup Samplab</title>
+    <link href="https://musictech.com/news/industry/why-did-apple-buy-ai-music-startup-samplab-and-how-might-this-impact-logic-pro/" rel="alternate" />
+    <id>https://musictech.com/news/industry/why-did-apple-buy-ai-music-startup-samplab-and-how-might-this-impact-logic-pro/::v240</id>
+    <published>2026-10-21T17:47:00+00:00</published>
+    <updated>2026-10-21T17:47:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/industry/why-did-apple-buy-ai-music-startup-samplab-and-how-might-this-impact-logic-pro/">musictech.com</a></small></p><hr/><p>Apple has acquired Swiss AI audio startup Samplab, integrating its polyphonic note-editing and stem-separation technology. Samplab's software utilizes machine learning to transcribe polyphonic recordings into editable MIDI notes while preserving the original timbre, streamlining sample manipulation and remixing workflows.</p><p>The acquisition is anticipated to strengthen Apple's Logic Pro and potentially influence its broader creator application suite, including Logic for iPad and Final Cut Pro. By absorbing these capabilities, Apple positions its digital audio workstation to better compete with rival DAWs that feature advanced note-level and polyphonic audio editing.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500.jpg" /></p><hr/><small>21 Oct 2026, 22:21 UTC | #25035</small>]]></content>
+  </entry>
   <entry>
     <title>Nielsen Survey Finds AI Adoption Increases Management and Evaluation Challenges</title>
     <link href="https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/" rel="alternate" />
@@ -817,13 +826,5 @@
     <updated>2026-10-21T04:17:00+00:00</updated>
     <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1VL2Hc.img?w=1600&amp;h=900&amp;m=4&amp;q=79" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654">politico.com</a> | <a href="https://news.ycombinator.com/item?id=50146270">hacker news</a></small></p><hr/><p>Anthropic has privately presented a draft AI safety bill to U.S. lawmakers. The proposed legislation would limit the circumstances under which the federal government could block the release of artificial intelligence models.</p><p>This move represents an effort by the AI company to influence the regulatory landscape regarding model deployment. The bill's focus on restricting federal intervention suggests a strategy to protect the commercialization of new AI technologies from government oversight.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1VL2Hc.img?w=1600&h=900&m=4&q=79" /></p><hr/><small>17 Oct 2026, 06:13 UTC | #24552</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Appoints Scott Tucker as Litigation Chief</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjE4NzkxNCwiZXhwIjoxNzkyNzkyNzE0LCJhcnRpY2xlSWQiOiJUTjBMME9SS1YyWFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.s25qdPeQ27MpicHTCh7xZAgmS8ablIgjs3ENZJ_SH_U" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjE4NzkxNCwiZXhwIjoxNzkyNzkyNzE0LCJhcnRpY2xlSWQiOiJUTjBMME9SS1YyWFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.s25qdPeQ27MpicHTCh7xZAgmS8ablIgjs3ENZJ_SH_U::v239</id>
-    <published>2026-10-16T22:11:00+00:00</published>
-    <updated>2026-10-16T22:11:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjE4NzkxNCwiZXhwIjoxNzkyNzkyNzE0LCJhcnRpY2xlSWQiOiJUTjBMME9SS1YyWFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.s25qdPeQ27MpicHTCh7xZAgmS8ablIgjs3ENZJ_SH_U">bloomberg.com</a></small></p><hr/><p>Apple has appointed Scott Tucker, a former Meta Platforms Inc. Vice President and deputy general counsel, as its new litigation chief in a newly created role. The appointment is part of a broader reorganization of the company's legal team.</p><p>The move comes as Apple manages an increasing number of lawsuits. The hire also reunites Tucker with Apple's General Counsel Jennifer Newstead, who was a colleague of his during their time at Meta.</p><hr/><small>17 Oct 2026, 05:18 UTC | #24550</small>]]></content>
   </entry>
 </feed>

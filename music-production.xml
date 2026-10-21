@@ -3,9 +3,54 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-21T15:46:00+00:00</updated>
+  <updated>2026-10-21T17:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Technics Announces SL-1210MKX Flagship DJ Turntable</title>
+    <link href="https://musictech.com/news/gear/technics-sl-1210mkx/" rel="alternate" />
+    <id>https://musictech.com/news/gear/technics-sl-1210mkx/::v240</id>
+    <published>2026-10-21T17:51:00+00:00</published>
+    <updated>2026-10-21T17:51:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Technics-hero@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/technics-sl-1210mkx/">musictech.com</a> | <a href="https://www.prnewswire.com/news-releases/technics-introduces-the-sl-1210mkx---a-new-flagship-professional-direct-drive-dj-turntable-engineered-for-club-and-touring-environments-302903638.html">source</a></small></p><hr/><p>Technics has introduced the SL-1210MKX, a new flagship professional direct-drive turntable positioned above the SL-1210MK7 in its SL-1200 series. Scheduled to go on sale in January 2027 for £1,299 (€1,499), the device features a heavier chassis, improved isolation feet, and expanded pitch control ranges including a first-ever ±4% option alongside a ±50% setting.</p><p>Developed with input from working DJs and sound engineers, the turntable is engineered for high-pressure club, festival, and touring environments. Additional features include a core-less direct-drive motor with adjustable torque and brake speed, 78 rpm playback, reverse functionality, and design elements paying homage to earlier SL-1200 models.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Technics-hero@2000x1500.jpg" /></p><hr/><small>21 Oct 2026, 22:24 UTC | #25033</small>]]></content>
+  </entry>
+  <entry>
+    <title>UJAM Releases Detunicorn Free Hypersaw Synth Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/21/ujam-detunicorn/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/21/ujam-detunicorn/::v240</id>
+    <published>2026-10-21T17:50:00+00:00</published>
+    <updated>2026-10-21T17:50:00+00:00</updated>
+    <media:thumbnail url="https://www.pluginboutique.com/ckeditor_assets/pictures/28006/content_ujam_euphoria_installation_instructions_in_daw_pluginboutique.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/21/ujam-detunicorn/">bedroomproducersblog.com</a> | <a href="https://www.ujam.com/detunicorn/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/21/ujam-detunicorn/#respond">discussion</a></small></p><hr/><p>UJAM has released Detunicorn, a free software synthesizer plugin designed to generate massive, detuned hypersaw sounds suited for genres like hyperpop, digicore, and modern dance pop. The instrument features two supersaw oscillators combined with a sub-oscillator spread across up to four unison layers to build dense walls of sound.</p><p>Offered as a limited-time promotional release for Halloween, the plugin includes specialized controls for shaping chords, stabs, and leads. Users can acquire the virtual instrument directly from the developer's website while the promotion remains active.</p><p><img src="https://www.pluginboutique.com/ckeditor_assets/pictures/28006/content_ujam_euphoria_installation_instructions_in_daw_pluginboutique.jpg" /></p><hr/><small>21 Oct 2026, 22:23 UTC | #25050</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ohma World Launches Ohmie Condenser Microphone with Switchable Voltage</title>
+    <link href="https://musictech.com/news/gear/ohma-world-ohmie/" rel="alternate" />
+    <id>https://musictech.com/news/gear/ohma-world-ohmie/::v240</id>
+    <published>2026-10-21T17:49:00+00:00</published>
+    <updated>2026-10-21T17:49:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Ohmie-mic-hero@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/ohma-world-ohmie/">musictech.com</a> | <a href="https://ohmaworld.com/pages/ohmie">source</a></small></p><hr/><p>Ohma World has launched the Ohmie, a £265 ($349) cardioid condenser microphone featuring a "Dual Voltage" switch that lets users toggle the capsule's polarisation voltage between 48V and 80V. Both voltage modes operate using standard 48V phantom power without requiring external power supplies or specialized preamps, with internal circuitry generating the higher voltage.</p><p>At the 48V setting, the transformerless microphone delivers a natural and relaxed sound, while the 80V setting provides an immediate, punchy character with increased sensitivity and higher output. Designed and assembled in East Los Angeles, the mic features an edge-terminated cardioid capsule, a low-noise circuit with an 8dB-A self-noise rating, and an isolated internal mount to minimize stand and handling noise.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Ohmie-mic-hero@2000x1500.jpg" /></p><hr/><small>21 Oct 2026, 22:22 UTC | #25034</small>]]></content>
+  </entry>
+  <entry>
+    <title>Arturia AudioFuse Studio Rev2 Reviewed</title>
+    <link href="https://bedroomproducersblog.com/2026/10/21/arturia-audiofuse-studio-rev2-review/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/21/arturia-audiofuse-studio-rev2-review/::v240</id>
+    <published>2026-10-21T17:48:00+00:00</published>
+    <updated>2026-10-21T17:48:00+00:00</updated>
+    <media:thumbnail url="https://dedijkmusicstore.nl/wp-content/uploads/2021/02/Arturia-AudioFuse-Rev2-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/21/arturia-audiofuse-studio-rev2-review/">bedroomproducersblog.com</a> | <a href="https://www.arturia.com/products/audio/audiofuse-studio/overview">source</a> | <a href="https://bedroomproducersblog.com/2026/10/21/arturia-audiofuse-studio-rev2-review/#respond">discussion</a></small></p><hr/><p>The Arturia AudioFuse Studio Rev2 is an 18-in/20-out desktop audio interface featuring four DiscretePRO microphone preamps, analog inserts, and extensive connectivity options for hybrid studios. Building on the original model, the Rev2 revision introduces refined preamp performance, an expanded gain range, and an upgraded Bluetooth module supporting aptX HD and aptX Low Latency.</p><p>Designed to serve as a central hub for complex studio setups, the hardware accommodates multiple instruments, outboard gear, and monitor speaker configurations with front-panel switching. Reviewers note that while the physical chassis and core routing remain largely unchanged, the internal firmware optimizations and technical upgrades address key user feedback from the original release.</p><p><img src="https://dedijkmusicstore.nl/wp-content/uploads/2021/02/Arturia-AudioFuse-Rev2-1.jpg" /></p><hr/><small>21 Oct 2026, 22:22 UTC | #25051</small>]]></content>
+  </entry>
+  <entry>
+    <title>Tomohiro Ogawa Releases Pulse Mods v1.4 PlayStation 2 Noise Synthesizer</title>
+    <link href="https://musictech.com/news/gear/this-programme-turns-the-sony-playstation-2-into-a-real-time-experimental-noise-synthesiser/" rel="alternate" />
+    <id>https://musictech.com/news/gear/this-programme-turns-the-sony-playstation-2-into-a-real-time-experimental-noise-synthesiser/::v240</id>
+    <published>2026-10-21T17:46:00+00:00</published>
+    <updated>2026-10-21T17:46:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/PS2-Synth-hero@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/this-programme-turns-the-sony-playstation-2-into-a-real-time-experimental-noise-synthesiser/">musictech.com</a> | <a href="https://studiovivimusic.com/pulsemods/">source</a></small></p><hr/><p>Independent developer Tomohiro Ogawa has released PULSE MODS v1.4, an experimental noise synthesizer designed to run on original Sony PlayStation 2 hardware. Rather than utilizing prerecorded samples, the software uses the console's Emotion Engine CPU to generate real-time 48 kHz, 16-bit stereo PCM audio and renders corresponding graphics on the system's Graphics Synthesiser.</p><p>Players use the DualShock 2 controller's pressure-sensitive buttons and analog sticks to manipulate three synthesis engines and an integrated effects chain featuring distortion, bit crushing, filtering, delay, and reverb. The instrument allows musicians to perform live and record direct WAV audio files to supported storage devices without a traditional computer setup.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/PS2-Synth-hero@2000x1500.jpg" /></p><hr/><small>21 Oct 2026, 22:20 UTC | #25036</small>]]></content>
+  </entry>
   <entry>
     <title>Amazing Noises Releases Grain Freezer Free Granular Effect Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/10/21/amazing-noises-grain-freezer/" rel="alternate" />

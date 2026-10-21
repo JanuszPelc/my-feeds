@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-21T17:41:00+00:00</updated>
+  <updated>2026-10-21T18:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Jared Forsyth Explores Flow Typing and Linearity in Programming Languages</title>
+    <link href="https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/" rel="alternate" />
+    <id>https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/::v240</id>
+    <published>2026-10-21T18:55:00+00:00</published>
+    <updated>2026-10-21T18:55:00+00:00</updated>
+    <media:thumbnail url="https://image1.slideserve.com/1714881/linear-types-l.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/">jaredforsyth.com</a> | <a href="https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity">discussion</a></small></p><hr/><p>Jared Forsyth examines a recent academic paper on flow typing, a technique designed to solve the threading problem in linear type systems without complicating core language semantics. Linear types enforce that every value is used exactly once, offering static guarantees for resource management like closing database connections and achieving functional purity without relying solely on immutability.</p><p>While linear types provide powerful safety benefits, they traditionally require cumbersome explicit threading of state through every function. The flow typing approach leverages the theory of lenses—functional representations of mutable references—to provide the convenience of mutable references while maintaining the simplicity of a standard linear lambda calculus.</p><p><img src="https://image1.slideserve.com/1714881/linear-types-l.jpg" /></p><hr/><small>21 Oct 2026, 22:25 UTC | #25080</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Details Coordinated Disclosure of Critical PHP Vulnerabilities Found by GPT-5.6 Sol</title>
+    <link href="https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/" rel="alternate" />
+    <id>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/::v240</id>
+    <published>2026-10-21T17:43:00+00:00</published>
+    <updated>2026-10-21T17:43:00+00:00</updated>
+    <media:thumbnail url="https://cdn.thepcenthusiast.com/wp-content/uploads/2026/06/GPT-5.6-Sol-ExploitBench-768x433.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50181175">hacker news</a></small></p><hr/><p>OpenAI has detailed a coordinated global response to critical vulnerabilities in the PHP programming language discovered using its GPT-5.6 Sol AI model. Working alongside project maintainers, security providers like Wiz and Cloudflare, and government agencies, the coalition managed the disclosure process to ensure patches and protective mitigations were prepared before public release.</p><p>To support broader defensive security efforts, OpenAI has committed $1 billion in subsidized access for frontline defenders and introduced a proposed five-stage framework for managing vulnerabilities in widely used software. The company is also providing maintainers with funding and tool access while soliciting community feedback on improving coordinated disclosure standards in the AI era.</p><p><img src="https://cdn.thepcenthusiast.com/wp-content/uploads/2026/06/GPT-5.6-Sol-ExploitBench-768x433.png" /></p><hr/><small>21 Oct 2026, 22:19 UTC | #25042</small>]]></content>
+  </entry>
   <entry>
     <title>Musl libc Discloses Multiple Integer Overflows in regcomp</title>
     <link href="https://www.openwall.com/lists/oss-security/2026/10/21/18" rel="alternate" />
@@ -1122,14 +1140,5 @@
     <updated>2026-10-16T23:48:00+00:00</updated>
     <media:thumbnail url="https://images.lyuk98.com/ebe5e397-e3c6-4a7c-943d-916dd50dfa82.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.codeberg.org/migrate-your-site-to-the-new-git-pages-backed-codeberg-pages-now-were-sunsetting-codeberg-pages-v2.html">blog.codeberg.org</a> | <a href="https://lobste.rs/s/e7rvsp/we_re_sunsetting_codeberg_pages_v2">discussion</a></small></p><hr/><p>Legacy v2 hosting will be shut down on December 31, 2026. Users must migrate to the newer git-pages powered infrastructure before this date to ensure their sites remain online.</p><p>The transition is necessitated by the fact that the original v2 solution has been unmaintained for an extended period. Codeberg has provided a migration guide and a check tool to help users identify if their repositories require action.</p><p><img src="https://images.lyuk98.com/ebe5e397-e3c6-4a7c-943d-916dd50dfa82.webp" /></p><hr/><small>17 Oct 2026, 07:16 UTC | #24570</small>]]></content>
-  </entry>
-  <entry>
-    <title>PS5LM Runs GGUF Models on Jailbroken PS5 Hardware</title>
-    <link href="https://github.com/cobanov/PS5LM" rel="alternate" />
-    <id>https://github.com/cobanov/PS5LM::v239</id>
-    <published>2026-10-16T22:13:00+00:00</published>
-    <updated>2026-10-16T22:13:00+00:00</updated>
-    <media:thumbnail url="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/06/llama-next-to-a-task-manager.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/cobanov/PS5LM">github.com</a> | <a href="https://news.ycombinator.com/item?id=50122431">hacker news</a></small></p><hr/><p>PS5LM allows jailbroken PlayStation 5 consoles to run large language models (LLMs) using the console's RDNA 2 GPU via the Vulkan backend. It loads GGUF-formatted models and serves them to devices on a local network through OpenAI and Anthropic-compatible APIs, acting as a private model server.</p><p>The software features a TV interface for streaming request history and direct interaction, alongside hardware monitoring for temperature and power. It supports decision models via integration with Ollaya and is compatible with PS5 firmware versions 7.00 through 13.60.</p><p><img src="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/06/llama-next-to-a-task-manager.jpg?q=49&fit=crop&w=825&dpr=2" /></p><hr/><small>17 Oct 2026, 05:57 UTC | #24565</small>]]></content>
   </entry>
 </feed>
