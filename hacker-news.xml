@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T22:40:00+00:00</updated>
+  <updated>2026-10-20T22:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>VGA Driver Implementation in SystemVerilog</title>
+    <link href="https://lukaswerner.com/post/2026-10-20@bottom-up-vga" rel="alternate" />
+    <id>https://lukaswerner.com/post/2026-10-20@bottom-up-vga::v240</id>
+    <published>2026-10-20T22:48:00+00:00</published>
+    <updated>2026-10-20T22:48:00+00:00</updated>
+    <media:thumbnail url="https://lukaswerner.com/static/supporting/bottom-up-vga/img_1748375311159.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lukaswerner.com/post/2026-10-20@bottom-up-vga">lukaswerner.com</a> | <a href="https://lobste.rs/s/mngelc/making_vga_driver_systemverilog">discussion</a> | <a href="https://news.ycombinator.com/item?id=50168376">hacker news</a></small></p><hr/><p>A VGA driver implemented in SystemVerilog for the Terasic DE10-Lite FPGA uses counters to manage HSync and VSync signals, including timing for scanlines, visible areas, and porches. A clock divider converts the 50 MHz onboard clock to the 25 MHz frequency required for the VGA standard.</p><p>The design enables rendering images from ROM and supports transparency through alpha compositing. A custom Go-based tool was created to transform image files into memory initialization files for the FPGA.</p><p><img src="https://lukaswerner.com/static/supporting/bottom-up-vga/img_1748375311159.jpg" /></p><hr/><small>21 Oct 2026, 03:46 UTC | #24975</small>]]></content>
+  </entry>
   <entry>
     <title>Curl Project Moves Low and Medium Vulnerability Reports to GitHub</title>
     <link href="https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/" rel="alternate" />
@@ -1035,21 +1044,5 @@
     <published>2026-10-16T03:47:00+00:00</published>
     <updated>2026-10-16T03:47:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/">blog.rust-lang.org</a> | <a href="https://lobste.rs/s/ttcx5k/announcing_rust_1_99_1">discussion</a></small></p><hr/><p>The Rust team has released version 1.99.1, a point release addressing several regressions found in previous versions. This update fixes a missing `wcslen` symbol that caused link errors on certain targets like UEFI, resolves an FFI `bool` miscompilation on x86_64 that violated ABI requirements, and corrects a `rust-lld` linker failure on macOS.</p><p>To address the `wcslen` issue, the function is now provided as a fallback in the compiler-builtins library. The FFI fix ensures that `bool` return values are zero-extended to prevent callers from receiving undefined bit patterns. Additionally, `rust-lld` now includes an `rpath` entry for `libLLVM.dylib` to allow the linker to run successfully without the `rustup` proxy.</p><hr/><small>16 Oct 2026, 11:38 UTC | #24492</small>]]></content>
-  </entry>
-  <entry>
-    <title>Potential Bypasses for Epic's EAC Linux v2 Anti-Cheat</title>
-    <link href="https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/" rel="alternate" />
-    <id>https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/::v239</id>
-    <published>2026-10-16T03:45:00+00:00</published>
-    <updated>2026-10-16T03:45:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/">codon.org.uk</a> | <a href="https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2">source</a> | <a href="https://lobste.rs/s/1iin5o/epic_s_eac2_v2_seems_fairly_easily">discussion</a> | <a href="https://news.ycombinator.com/item?id=50088166">hacker news</a></small></p><hr/><p>Epic Games' upcoming Easy Anti-Cheat (EAC) Linux v2 implementation utilizes the Linux eBPF security module, Secure Boot, and TPM-based remote attestation to monitor system integrity. This security model relies on verifying signed boot measurements from a Trusted Platform Module (TPM) to ensure users are running an unmodified kernel.</p><p>Technical analysis suggests the system could be bypassed by spoofing these measurements using an external TPM via a USB-to-SPI bridge or by physically resetting a motherboard TPM to replay legitimate boot logs. While server-side detection could theoretically blacklist specific TPM identities, these methods allow a modified kernel to successfully satisfy remote attestation requirements.</p><hr/><small>16 Oct 2026, 11:25 UTC | #24491</small>]]></content>
-  </entry>
-  <entry>
-    <title>Gleam Compiler Implementation of Case Expression Exhaustiveness</title>
-    <link href="https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp" rel="alternate" />
-    <id>https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp::v239</id>
-    <published>2026-10-16T03:43:00+00:00</published>
-    <updated>2026-10-16T03:43:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp">oyster.pckt.blog</a> | <a href="https://lobste.rs/s/vyo9n2/gleam_case_exhaustiveness_as_fan">discussion</a></small></p><hr/><p>This article explores the internal logic used by the Gleam compiler to perform exhaustiveness checking in case expressions. By building decision trees and identifying "witnesses"—specific values that fail to match any provided clause—the compiler can inform developers exactly which patterns are missing, preventing potential runtime crashes.</p><p>The implementation draws on pattern-matching theories from researchers like Lennart Augustsson and Luc Maranget. The author highlights how Gleam addresses complex edge cases involving string prefixes, inline guards, bit array manipulation, and type-narrowing to provide precise error diagnostics and efficient code generation.</p><hr/><small>16 Oct 2026, 11:09 UTC | #24489</small>]]></content>
   </entry>
 </feed>
