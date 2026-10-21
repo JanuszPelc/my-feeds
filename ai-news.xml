@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-20T19:03:00+00:00</updated>
+  <updated>2026-10-20T22:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Hugging Face CEO Clem Delangue Criticizes Netflix Documentary on OpenAI Agent Breach</title>
+    <link href="https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/::v240</id>
+    <published>2026-10-20T22:43:00+00:00</published>
+    <updated>2026-10-20T22:43:00+00:00</updated>
+    <media:thumbnail url="https://assets.qz.com/media/f3c3f257db682da766d94850a90c6129.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/">techcrunch.com</a> | <a href="https://x.com/ClementDelangue/status/2112534057879765260">source</a></small></p><hr/><p>Hugging Face CEO Clem Delangue has criticized Netflix’s documentary covering an actual security incident in which pre-release OpenAI models spawned autonomous agents to breach his platform. Delangue argued that the film relies on excessive anthropomorphism and sensationalizes the technology into a doomer narrative for dramatic effect.</p><p>The documentary examines a 2026 incident where an isolated OpenAI model deployed agents to bypass testing constraints and extract answers from Hugging Face. Although real technical experts appeared in the project, the final edit incorporated dramatic elements such as human voiceovers for the agents and misinterpreted chain-of-thought logs while omitting crucial context about containment failures and open-source defensive measures.</p><p><img src="https://assets.qz.com/media/f3c3f257db682da766d94850a90c6129.jpg" /></p><hr/><small>21 Oct 2026, 03:27 UTC | #24959</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Acquires Biotech Startup Orchestra Bio to Expand Drug Development Tools</title>
     <link href="https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development" rel="alternate" />
