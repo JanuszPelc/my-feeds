@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-20T22:43:00+00:00</updated>
+  <updated>2026-10-20T23:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Google Rolls Out Gemini Personal Intelligence for Android Auto</title>
+    <link href="https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/" rel="alternate" />
+    <id>https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/::v240</id>
+    <published>2026-10-20T23:09:00+00:00</published>
+    <updated>2026-10-20T23:09:00+00:00</updated>
+    <media:thumbnail url="https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Personal-Intelligence-Android-Auto.jpg?quality=82&amp;strip=all&amp;w=1600" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5google.com/2026/10/20/gemini-android-auto-personal-intelligence/">9to5google.com</a> | <a href="https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence">source</a></small></p><hr/><p>Google is rolling out Personal Intelligence for Gemini to Android Auto and Android Automotive, enabling more personalized voice commands. The feature uses data from Google Workspace, Photos, Maps, Search, and YouTube to answer specific queries regarding flights, appointments, and saved locations.</p><p>Access to these features is opt-in; users who have enabled Personal Intelligence on their phones will see it automatically in Android Auto. Android Automotive users will only receive personalized responses when a phone is connected. The rollout begins today for Android Auto, with Android Automotive support arriving in the coming months.</p><p><img src="https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Personal-Intelligence-Android-Auto.jpg?quality=82&strip=all&w=1600" /></p><hr/><small>21 Oct 2026, 05:31 UTC | #24960</small>]]></content>
+  </entry>
   <entry>
     <title>Hugging Face CEO Clem Delangue Criticizes Netflix Documentary on OpenAI Agent Breach</title>
     <link href="https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/" rel="alternate" />
