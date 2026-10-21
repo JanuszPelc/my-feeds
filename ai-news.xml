@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-21T15:39:00+00:00</updated>
+  <updated>2026-10-21T19:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Recursive Releases Flint Coding Model Developed via Recursive Self-Improvement</title>
+    <link href="https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/" rel="alternate" />
+    <id>https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/::v240</id>
+    <published>2026-10-21T19:02:00+00:00</published>
+    <updated>2026-10-21T19:02:00+00:00</updated>
+    <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2024/10/aiimprover-980x579.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/">wired.com</a> | <a href="https://x.com/RichardSocher/status/2112944385415426249">source</a> | <a href="https://news.ycombinator.com/item?id=50184762">hacker news</a></small></p><hr/><p>The 40-billion-parameter open-weight coding model Flint was developed using Recursive's "Eureka Machine," an automated research system that employs recursive self-improvement (RSI). By using AI to automate the model pipeline—including architecture design and code optimization—the startup built the model in a few months with a small research team.</p><p>Recursive positions RSI as a way to accelerate scientific discovery while maintaining human oversight. However, the technology remains controversial, with some researchers and policymakers raising concerns that self-improving AI could eventually escape human control.</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/aiimprover-980x579.png" /></p><hr/><small>21 Oct 2026, 23:43 UTC | #25037</small>]]></content>
+  </entry>
   <entry>
     <title>ServiceNow and Nvidia Launch Arc AI Agent for Enterprise</title>
     <link href="https://www.zdnet.com/innovation/exclusive-servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/" rel="alternate" />
