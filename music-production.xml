@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-21T03:01:00+00:00</updated>
+  <updated>2026-10-21T06:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>zplane Releases Tonic v2.0 Key and Scale Detection Plugin</title>
+    <link href="https://www.kvraudio.com/news/zplane-releases-tonic-v2-0-with-upgrade-pricing-and-introductory-discount-69247?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69247" rel="alternate" />
+    <id>https://www.kvraudio.com/news/zplane-releases-tonic-v2-0-with-upgrade-pricing-and-introductory-discount-69247?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69247::v240</id>
+    <published>2026-10-21T06:01:00+00:00</published>
+    <updated>2026-10-21T06:01:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/tonic_2_pressshot.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/zplane-releases-tonic-v2-0-with-upgrade-pricing-and-introductory-discount-69247?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69247">kvraudio.com</a> | <a href="https://products.zplane.de/products/tonic">source</a></small></p><hr/><p>zplane has released Tonic v2.0, a major update to its real-time key and scale detection plugin. The new version introduces MIDI in and out support, drag-and-drop functionality for creating MIDI clips in a DAW, an overhauled keyboard with color-coding and chord buttons, and an updated, resizable user interface powered by the latest TONART algorithm.</p><p>Tonic 2 is priced at €39 with an introductory discount available until October 30, while existing users can upgrade for €10. The plugin is available for macOS and Windows in VST3, AU, and AAX formats.</p><p><img src="https://static.kvraudio.com/i/b/tonic_2_pressshot.png" /></p><hr/><small>21 Oct 2026, 11:07 UTC | #24980</small>]]></content>
+  </entry>
   <entry>
     <title>Inlet Audio Releases Sever Double-Bass Horror Texture Instrument for Kontakt 8 Player</title>
     <link href="https://www.kvraudio.com/news/inlet-audio-releases-sever---double-bass-horror-textures-for-kontakt-8-player-69234?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69234" rel="alternate" />
