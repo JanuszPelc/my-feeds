@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-21T09:18:00+00:00</updated>
+  <updated>2026-10-21T09:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>History and Architecture of Symbolics Genera Lisp Machines</title>
+    <link href="https://www.youtube.com/watch?v=W2fGKjFoaOg" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=W2fGKjFoaOg::v240</id>
+    <published>2026-10-21T09:25:00+00:00</published>
+    <updated>2026-10-21T09:25:00+00:00</updated>
+    <media:thumbnail url="https://www.chai.uni-hamburg.de/~moeller/symbolics-info/genera.gif" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=W2fGKjFoaOg">youtube.com</a> | <a href="https://lobste.rs/s/staj2z/genera_for_initiated_inside_symbolics">discussion</a></small></p><hr/><p>This presentation explores the history and technical architecture of Symbolics Genera, a commercial operating system and integrated development environment designed specifically for Lisp machines. The discussion traces the lineage of Lisp from John McCarthy's foundational 1959 definitions and meta-circular evaluators through early experimental workstations at the MIT Artificial Intelligence Laboratory.</p><p>Highlighting the transition from time-shared systems to dedicated personal workstations inspired by Doug Engelbart and Xerox PARC, the talk examines the hardware and software co-design behind Symbolics machines. Key architectural details include microcoded instruction sets optimized for garbage collection, parallel type checking, and the commercial spin-offs that emerged as researchers attempted to commercialize Lisp hardware.</p><p><img src="https://www.chai.uni-hamburg.de/~moeller/symbolics-info/genera.gif" /></p><hr/><small>21 Oct 2026, 14:07 UTC | #25021</small>]]></content>
+  </entry>
   <entry>
     <title>Uniker.nl OCaml Unikernel Development Workflow</title>
     <link href="https://uniker.nl/" rel="alternate" />
