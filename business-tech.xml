@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-20T19:01:00+00:00</updated>
+  <updated>2026-10-20T19:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Foursquare Co-Founder Dennis Crowley Reflects on Company Acquisition and Zero-Dollar Outcome</title>
+    <link href="https://teendrama.substack.com/p/some-final-words-on-foursquare" rel="alternate" />
+    <id>https://teendrama.substack.com/p/some-final-words-on-foursquare::v240</id>
+    <published>2026-10-20T19:02:00+00:00</published>
+    <updated>2026-10-20T19:02:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!vzg5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbdb666a-2ac2-4de2-b078-51b6ee7f3ecb_1845x888.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://teendrama.substack.com/p/some-final-words-on-foursquare">teendrama.substack.com</a> | <a href="https://news.ycombinator.com/item?id=50167681">hacker news</a></small></p><hr/><p>Foursquare co-founder Dennis Crowley reflects on the company's 17-year history following its acquisition by Infillion, revealing that the deal resulted in a zero-dollar outcome for equity and common stock holders. He examines the strategic transition from a consumer application to an enterprise data business and the capital stack burdens that preceded the sale.</p><p>Crowley critiques the leadership's handling of the company's final chapters and the lack of transparent communication with employees regarding the zero-dollar payout. He shares lessons for startup founders about managing emotional attachment to companies and avoiding prolonged stagnation when exits do not materialize.</p><p><img src="https://substackcdn.com/image/fetch/$s_!vzg5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbdb666a-2ac2-4de2-b078-51b6ee7f3ecb_1845x888.jpeg" /></p><hr/><small>21 Oct 2026, 01:07 UTC | #24924</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI CEO Sam Altman Outlines Three AI Endgames to Staff</title>
     <link href="https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus" rel="alternate" />
