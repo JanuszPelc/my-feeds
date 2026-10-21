@@ -3,9 +3,27 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-21T09:56:00+00:00</updated>
+  <updated>2026-10-21T14:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Linux Foundation Survey Finds Generative AI Cuts Coding Time But Increases Low-Quality Pull Requests</title>
+    <link href="https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389" rel="alternate" />
+    <id>https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389::v240</id>
+    <published>2026-10-21T14:12:00+00:00</published>
+    <updated>2026-10-21T14:12:00+00:00</updated>
+    <media:thumbnail url="https://uploads.golmedia.net/uploads/articles/article_media/6094185321778578178gol2.webp" />
+    <content type="html"><![CDATA[<p><small>The Register AI/ML | <a href="https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389">theregister.com</a> | <a href="https://www.linuxfoundation.org/press/new-lf-research-survey-shows-generative-ai-cuts-open-source-coding-time-in-half-but-25-of-incoming-pull-requests-are-considered-ai-slop">source</a></small></p><hr/><p>A Linux Foundation study indicates that generative AI reduces code-authoring time by roughly 52 percent while significantly increasing maintainer workloads. Survey respondents estimate that a quarter of incoming pull requests across open-source projects consist of low-quality, AI-generated code.</p><p>The share of low-quality submissions rises to 31 percent for larger projects, contributing to review fatigue and governance challenges as only 35 percent of projects maintain formal policies regarding generative AI use. Prominent open-source efforts, such as the curl project, are already altering vulnerability reporting procedures to cope with the surge in automated output.</p><p><img src="https://uploads.golmedia.net/uploads/articles/article_media/6094185321778578178gol2.webp" /></p><hr/><small>21 Oct 2026, 17:55 UTC | #25012</small>]]></content>
+  </entry>
+  <entry>
+    <title>Google DeepMind CEO Demis Hassabis Expects AGI Within Two to Three Years</title>
+    <link href="https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153?st=qXvQgt&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153?st=qXvQgt&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-10-21T14:11:00+00:00</published>
+    <updated>2026-10-21T14:11:00+00:00</updated>
+    <media:thumbnail url="https://static.startuptalky.com/2026/04/Demis-Hassabis-Achievements-StartupTalky.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153?st=qXvQgt&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Google DeepMind Chief Executive Officer Demis Hassabis has revised his timeline for artificial general intelligence, stating that he now expects AGI to arrive within two to three years. This updated prediction accelerates his previous forecast of three to five years made earlier in 2026.</p><p>During an interview with the Wall Street Journal, Hassabis also discussed the expanding potential of artificial intelligence to drive breakthroughs in scientific research and discovery. The remarks underscore the shifting milestones and accelerating projections among industry leaders regarding the development of advanced AI systems.</p><p><img src="https://static.startuptalky.com/2026/04/Demis-Hassabis-Achievements-StartupTalky.jpg" /></p><hr/><small>21 Oct 2026, 17:54 UTC | #24998</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Claude Model Designs Protein Binders Against Scorpion Neurotoxins</title>
     <link href="https://www.anthropic.com/research/claude-scorpion-toxin-binder-design" rel="alternate" />
