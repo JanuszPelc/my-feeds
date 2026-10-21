@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-20T22:34:00+00:00</updated>
+  <updated>2026-10-20T22:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic May Spend $750 Billion on Computing Costs</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says::v240</id>
+    <published>2026-10-20T22:50:00+00:00</published>
+    <updated>2026-10-20T22:50:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!byGZ!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/25bebe60-f8fd-4cd3-870e-2399c5fc4542_1106x1068.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says">bloomberg.com</a> | <a href="https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1">source</a> | <a href="https://news.ycombinator.com/item?id=50171533">hacker news</a></small></p><hr/><p>A draft IPO prospectus indicates Anthropic could spend $750 billion on additional computing power in the coming years. The company reported a net loss of $80.7 billion for the first half of 2026, up from a $13 billion loss during the same period in 2025.</p><p>Anthropic is currently preparing for an initial public offering. The projected expenditures underscore the massive capital requirements needed to scale advanced AI models and infrastructure.</p><p><img src="https://substackcdn.com/image/fetch/$s_!byGZ!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/25bebe60-f8fd-4cd3-870e-2399c5fc4542_1106x1068.png" /></p><hr/><small>21 Oct 2026, 04:01 UTC | #24945</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Xbox CEO Asha Sharma Implements Major Turnaround Strategy and Job Cuts</title>
     <link href="https://fortune.com/2026/10/20/the-non-gamer-ceo-racing-to-save-microsofts-xbox/" rel="alternate" />
