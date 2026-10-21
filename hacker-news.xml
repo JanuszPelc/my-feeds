@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-21T14:09:00+00:00</updated>
+  <updated>2026-10-21T15:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ZLS 0.17.0 Released</title>
+    <link href="https://zigtools.org/zls/releases/0.17.0/" rel="alternate" />
+    <id>https://zigtools.org/zls/releases/0.17.0/::v240</id>
+    <published>2026-10-21T15:26:00+00:00</published>
+    <updated>2026-10-21T15:26:00+00:00</updated>
+    <media:thumbnail url="https://opengraph.githubassets.com/2d069a50790302a9f6c270681a68b6838ca5d52228f7d4cff801cba6a93c3a6e/VarLad/lapce-zig" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://zigtools.org/zls/releases/0.17.0/">zigtools.org</a> | <a href="https://lobste.rs/s/hty1qk/zls_0_17_0">discussion</a></small></p><hr/><p>ZLS 0.17.0, the language server for Zig, has been released with improvements to symbol renaming behavior and integration updates for the Zig build system. The release adapts to recent changes separating the maker and configurer processes in the Zig 0.17 development cycle.</p><p>While the new build system protocol lays the foundation for future editor tooling capabilities, the release notes outline several temporary regressions involving package imports, module exports without compile steps, and Windows file watching that remain tracked for resolution.</p><p><img src="https://opengraph.githubassets.com/2d069a50790302a9f6c270681a68b6838ca5d52228f7d4cff801cba6a93c3a6e/VarLad/lapce-zig" /></p><hr/><small>21 Oct 2026, 18:49 UTC | #25031</small>]]></content>
+  </entry>
   <entry>
     <title>Close Details Approach to Rendering Untrusted HTML Email Safely</title>
     <link href="https://making.close.com/posts/rendering-untrusted-html-email-safely/" rel="alternate" />
