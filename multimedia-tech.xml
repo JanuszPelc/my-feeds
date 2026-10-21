@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-20T18:58:00+00:00</updated>
+  <updated>2026-10-21T17:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Electronic Arts Shuts Down BioWare and Cancels Next Mass Effect Game</title>
+    <link href="https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware" rel="alternate" />
+    <id>https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware::v240</id>
+    <published>2026-10-21T17:30:00+00:00</published>
+    <updated>2026-10-21T17:30:00+00:00</updated>
+    <media:thumbnail url="https://img.etimg.com/thumb/msid-135100103,width-650,height-488,imgsize-91652,resizemode-75/bioware-ea-video-game.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware">theverge.com</a> | <a href="https://www.ea.com/news/building-eas-next-chapter">source</a> | <a href="https://news.ycombinator.com/item?id=50184586">hacker news</a></small></p><hr/><p>Electronic Arts is shutting down BioWare, ending early development on the next Mass Effect game, and cutting approximately 400 jobs across the company. The decision is part of a broader portfolio restructuring following EA's $55 billion acquisition and transition to a private company earlier this year.</p><p>The studio closure marks the end of a legendary role-playing game developer known for franchises like Dragon Age, Star Wars: Knights of the Old Republic, and the original Mass Effect trilogy. In recent years, BioWare faced several commercial and critical difficulties, including the underwhelming performance of Anthem and Dragon Age: The Veilguard, as EA pivots its resources toward core pillars like Battlefield, Apex Legends, and its sports portfolio.</p><p><img src="https://img.etimg.com/thumb/msid-135100103,width-650,height-488,imgsize-91652,resizemode-75/bioware-ea-video-game.jpg" /></p><hr/><small>21 Oct 2026, 21:56 UTC | #25061</small>]]></content>
+  </entry>
   <entry>
     <title>Fuse Games Details Distributed Development Framework for Star Wars: Galactic Racer</title>
     <link href="https://www.gamedeveloper.com/production/fuse-games-ceo-breaks-down-codev-framework-for-star-wars-galactic-racer" rel="alternate" />

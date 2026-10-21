@@ -3,9 +3,36 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-21T14:05:00+00:00</updated>
+  <updated>2026-10-21T15:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Nielsen Survey Finds AI Adoption Increases Management and Evaluation Challenges</title>
+    <link href="https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/::v240</id>
+    <published>2026-10-21T15:40:00+00:00</published>
+    <updated>2026-10-21T15:40:00+00:00</updated>
+    <media:thumbnail url="https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2020/11/Screenshot-2026-06-07-at-12.34.32-scaled.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/">techcrunch.com</a> | <a href="https://monday.com/gp/ai-report-2026">source</a></small></p><hr/><p>A Nielsen survey commissioned by Monday.com of more than 1,700 directors and senior managers reveals that over half of leaders find it harder to evaluate employee work following AI adoption because outputs arrive heavily polished. Nearly half of respondents report spending more time reviewing and guiding teams, creating an unexpected layer of invisible supervision as tools outpace organizational adaptation.</p><p>Despite widespread enthusiasm for AI, organizations are experiencing expanding software stacks and fragmented infrastructure rather than the expected consolidation. A significant portion of leaders are now relying on AI to draft performance reviews or inform decisions, raising concerns regarding algorithmic bias, accountability, and the looming transition toward overseeing autonomous AI agents.</p><p><img src="https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2020/11/Screenshot-2026-06-07-at-12.34.32-scaled.png" /></p><hr/><small>21 Oct 2026, 21:39 UTC | #25022</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nvidia CEO Jensen Huang Urges European Industries to Adopt Artificial Intelligence</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai::v240</id>
+    <published>2026-10-21T15:33:00+00:00</published>
+    <updated>2026-10-21T15:33:00+00:00</updated>
+    <media:thumbnail url="https://s.yimg.com/ny/api/res/1.2/W6yG3hoOIcF6sQYnmR7V2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/cb1c0260-2165-11f1-a9fd-86634749e888" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai">bloomberg.com</a> | <a href="https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/">source</a></small></p><hr/><p>During his keynote address at GTC Berlin, Nvidia Chief Executive Officer Jensen Huang called on European businesses to accelerate artificial intelligence adoption across all sectors. He emphasized that establishing a robust regional AI economy requires end markets and traditional industries to fully integrate AI technologies.</p><p>The address coincided with Nvidia's broader announcements at the Berlin conference, including modular AI factory designs and infrastructure partnerships aimed at bolstering Europe's technological deployment. Huang also met with regional political leaders to discuss local AI roadmaps and the expansion of accelerated computing infrastructure.</p><p><img src="https://s.yimg.com/ny/api/res/1.2/W6yG3hoOIcF6sQYnmR7V2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/cb1c0260-2165-11f1-a9fd-86634749e888" /></p><hr/><small>21 Oct 2026, 21:31 UTC | #25011</small>]]></content>
+  </entry>
+  <entry>
+    <title>European Commission Opens Digital Services Act Probe Into Booking.com Over Fraudulent Listings</title>
+    <link href="https://www.reuters.com/business/media-telecom/bookingcom-targeted-eu-investigation-into-phishing-scams-fraudulent-listings-2026-10-21/" rel="alternate" />
+    <id>https://www.reuters.com/business/media-telecom/bookingcom-targeted-eu-investigation-into-phishing-scams-fraudulent-listings-2026-10-21/::v240</id>
+    <published>2026-10-21T15:29:00+00:00</published>
+    <updated>2026-10-21T15:29:00+00:00</updated>
+    <media:thumbnail url="https://cdn.arstechnica.net/wp-content/uploads/2023/02/scammer-email-with-confirm-button.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/media-telecom/bookingcom-targeted-eu-investigation-into-phishing-scams-fraudulent-listings-2026-10-21/">reuters.com</a> | <a href="https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act">source</a></small></p><hr/><p>The European Commission has launched a formal investigation into Booking.com to determine whether the online travel platform is complying with the Digital Services Act regarding fraudulent listings and phishing scams. Regulators are examining whether the company has implemented sufficient measures to identify, assess, and mitigate systemic risks related to illegal accommodation offers and consumer fraud.</p><p>The inquiry follows prior requests for information sent by EU tech watchdogs to major digital platforms regarding financial scams and deceptive online practices. Under the Digital Services Act, designated platforms face strict obligations to combat illicit content and protect users, with potential enforcement actions and penalties for non-compliance.</p><p><img src="https://cdn.arstechnica.net/wp-content/uploads/2023/02/scammer-email-with-confirm-button.jpg" /></p><hr/><small>21 Oct 2026, 21:27 UTC | #25003</small>]]></content>
+  </entry>
   <entry>
     <title>China Criticizes U.S. Ban on DeepSeek and Vows Countermeasures</title>
     <link href="https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html" rel="alternate" />
@@ -798,61 +825,5 @@
     <published>2026-10-16T22:11:00+00:00</published>
     <updated>2026-10-16T22:11:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjE4NzkxNCwiZXhwIjoxNzkyNzkyNzE0LCJhcnRpY2xlSWQiOiJUTjBMME9SS1YyWFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.s25qdPeQ27MpicHTCh7xZAgmS8ablIgjs3ENZJ_SH_U">bloomberg.com</a></small></p><hr/><p>Apple has appointed Scott Tucker, a former Meta Platforms Inc. Vice President and deputy general counsel, as its new litigation chief in a newly created role. The appointment is part of a broader reorganization of the company's legal team.</p><p>The move comes as Apple manages an increasing number of lawsuits. The hire also reunites Tucker with Apple's General Counsel Jennifer Newstead, who was a colleague of his during their time at Meta.</p><hr/><small>17 Oct 2026, 05:18 UTC | #24550</small>]]></content>
-  </entry>
-  <entry>
-    <title>Meta Reduces Midterm Political Spending Through Super PAC Refunds</title>
-    <link href="https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html" rel="alternate" />
-    <id>https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html::v239</id>
-    <published>2026-10-16T21:36:00+00:00</published>
-    <updated>2026-10-16T21:36:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html">nytimes.com</a></small></p><hr/><p>Meta has reduced its $65 million midterm election budget by $25 million through a series of refunds. The majority of these funds were returned from a super PAC launched in 2025 with $45 million to oppose state-level AI legislation.</p><p>The company's original $65 million initiative was designed to support the election of state politicians sympathetic to the artificial intelligence industry. The reduction reflects a shift in how Meta manages political contributions aimed at influencing AI-related regulatory efforts.</p><hr/><small>17 Oct 2026, 04:38 UTC | #24544</small>]]></content>
-  </entry>
-  <entry>
-    <title>Elon Musk Proposed Slowing Down Starshield in Ukraine</title>
-    <link href="https://www.telegraph.co.uk/world-news/2026/10/16/musk-approached-trump-slow-down-starlink-help-ukraine/" rel="alternate" />
-    <id>https://www.telegraph.co.uk/world-news/2026/10/16/musk-approached-trump-slow-down-starlink-help-ukraine/::v239</id>
-    <published>2026-10-16T20:28:00+00:00</published>
-    <updated>2026-10-16T20:28:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.telegraph.co.uk/world-news/2026/10/16/musk-approached-trump-slow-down-starlink-help-ukraine/">telegraph.co.uk</a> | <a href="https://news.ycombinator.com/item?id=50122371">hacker news</a></small></p><hr/><p>Elon Musk reportedly approached Donald Trump with a proposal to slow down Starshield, the military-grade satellite service used by Ukraine, leading the U.S. Department of Defense to execute connectivity restrictions. This contradicts Musk's public assertions that the Trump administration and the U.S. government were responsible for the service throttling.</p><p>The reported move comes amid concerns regarding the impact of satellite restrictions on Ukrainian drone operations and battlefield communications. Although Musk has claimed that Starshield's control rests entirely with the U.S. government, sources suggest he was the one who initiated the proposal.</p><hr/><small>17 Oct 2026, 02:16 UTC | #24532</small>]]></content>
-  </entry>
-  <entry>
-    <title>CoreWeave Founders Sell $3.3 Billion in Stock Since IPO</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales::v239</id>
-    <published>2026-10-16T20:25:00+00:00</published>
-    <updated>2026-10-16T20:25:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-15/coreweave-founders-shield-fortunes-with-3-3-billion-stock-sales">bloomberg.com</a> | <a href="https://news.ycombinator.com/item?id=50113735">hacker news</a></small></p><hr/><p>Three CoreWeave co-founders have sold $3.3 billion in company shares since the firm's March 2025 initial public offering. Of this total, $2.4 billion in stock was sold in 2026 alone.</p><p>The sales occurred as CoreWeave's stock price fell more than 60% from its peak in June 2025. Recent market volatility for the company has been attributed to rising credit risks and investor apprehension regarding widespread AI-related spending.</p><hr/><small>17 Oct 2026, 01:01 UTC | #24528</small>]]></content>
-  </entry>
-  <entry>
-    <title>Amulya Vishwanath on Why Robotics Lacks a 'ChatGPT Moment'</title>
-    <link href="https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/" rel="alternate" />
-    <id>https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/::v239</id>
-    <published>2026-10-16T19:09:00+00:00</published>
-    <updated>2026-10-16T19:09:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/">techcrunch.com</a></small></p><hr/><p>Amulya Vishwanath, founder of Techable VC and former NVIDIA executive, describes the current state of robotics as a "Lego era" focused on rebuilding fundamental components like actuators, robotic hands, and safety standards. This perspective challenges the belief that general foundation models will soon trigger a revolutionary "ChatGPT moment" for the industry.</p><p>Vishwanath's investment firm focuses on physical AI across robotics, materials science, and life sciences. Her analysis suggests that the industry must first stabilize these basic building blocks before general-purpose models can achieve widespread, transformative impact.</p><hr/><small>16 Oct 2026, 21:37 UTC | #24521</small>]]></content>
-  </entry>
-  <entry>
-    <title>Intuit Acquires Revenue Management Startup Sequence</title>
-    <link href="https://www.thetimes.com/" rel="alternate" />
-    <id>https://www.thetimes.com/::v239</id>
-    <published>2026-10-16T19:06:00+00:00</published>
-    <updated>2026-10-16T19:06:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.thetimes.com/">thetimes.com</a> | <a href="https://investors.intuit.com/news-events/press-releases/detail/1327/intuit-to-acquire-ai-native-revenue-management-platform-sequence">source</a> | <a href="https://news.ycombinator.com/item?id=50106123">hacker news</a></small></p><hr/><p>Intuit has acquired the UK-based B2B revenue management and billing startup Sequence in a transaction estimated to be worth approximately $200 million. Sequence provides an AI-native platform designed to automate the full quote-to-revenue lifecycle, including deal configuration, pricing, billing, invoicing, and revenue recognition.</p><p>The startup previously secured $19 million in funding in 2022, led by Andreessen Horowitz. The acquisition is expected to bolster Intuit's suite of automated financial workflow tools for commercial and finance teams.</p><hr/><small>16 Oct 2026, 21:22 UTC | #24507</small>]]></content>
-  </entry>
-  <entry>
-    <title>SnoutCover Nose Guard for Dogs Reaches 500 Customers</title>
-    <link href="https://snoutcover.com/one-year" rel="alternate" />
-    <id>https://snoutcover.com/one-year::v239</id>
-    <published>2026-10-16T19:04:00+00:00</published>
-    <updated>2026-10-16T19:04:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://snoutcover.com/one-year">snoutcover.com</a> | <a href="https://news.ycombinator.com/item?id=50105344">hacker news</a></small></p><hr/><p>SnoutCover, a 3D-printed nose guard designed to manage Discoid Lupus Erythematosus (DLE) in dogs, has reached 500 customers in its first year of operation. The device is designed to provide UV protection for sensitive skin and prevent dogs from licking off necessary topical medications.</p><p>Originally shared as a free 3D model by Omri Hillel, the product evolved from a personal solution for his pitbull into a small-scale commercial enterprise. The founder manages the entire production cycle, including 3D printing, strap assembly, and packaging, from a studio shed.</p><hr/><small>16 Oct 2026, 21:08 UTC | #24538</small>]]></content>
-  </entry>
-  <entry>
-    <title>Developers Express Concern Over Potential Apple Antitrust Settlement Terms</title>
-    <link href="https://www.theinformation.com/articles/apples-antitrust-settlement-talks-spur-worries-among-developers" rel="alternate" />
-    <id>https://www.theinformation.com/articles/apples-antitrust-settlement-talks-spur-worries-among-developers::v239</id>
-    <published>2026-10-16T18:59:00+00:00</published>
-    <updated>2026-10-16T18:59:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/apples-antitrust-settlement-talks-spur-worries-among-developers">theinformation.com</a></small></p><hr/><p>The U.S. Department of Justice is considering a settlement in its antitrust lawsuit against Apple that focuses on interoperability. Major developers, including PayPal and Epic Games, have expressed concerns to the DOJ that a deal centered on technical interoperability may fail to meaningfully loosen Apple's control over the iPhone ecosystem.</p><p>The debate highlights anxiety among developers regarding the scope of federal enforcement. If the settlement fails to address core App Store restrictions and hardware-software integration, critics argue it will not resolve the fundamental issues of market dominance.</p><hr/><small>16 Oct 2026, 20:51 UTC | #24505</small>]]></content>
   </entry>
 </feed>

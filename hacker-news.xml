@@ -3,9 +3,99 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-21T15:26:00+00:00</updated>
+  <updated>2026-10-21T17:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Musl libc Discloses Multiple Integer Overflows in regcomp</title>
+    <link href="https://www.openwall.com/lists/oss-security/2026/10/21/18" rel="alternate" />
+    <id>https://www.openwall.com/lists/oss-security/2026/10/21/18::v240</id>
+    <published>2026-10-21T17:41:00+00:00</published>
+    <updated>2026-10-21T17:41:00+00:00</updated>
+    <media:thumbnail url="https://uploads.sempreupdate.com.br/2026/04/n8YDWSbv-copy-fail-linux-cve-2026-31431-acesso-root.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.openwall.com/lists/oss-security/2026/10/21/18">openwall.com</a> | <a href="https://lobste.rs/s/dldfel/cve_2026_107891_musl_libc_multiple">discussion</a></small></p><hr/><p>Musl libc has disclosed a vulnerability, tracked as CVE-2026-107891, involving multiple integer overflows within the regcomp regular expression compilation function. The flaw affects all versions from 0.5.0 up through 1.2.6 and can be triggered by processing large or complex regular expressions from untrusted sources, leading to incorrect memory allocation sizes and out-of-bounds heap writes.</p><p>While the primary impact ranges from predictable denial-of-service crashes to potential arbitrary code execution depending on application context and heap layout, the vulnerability requires applications to handle untrusted regex input. Maintainers have provided a patch to address the issue, and users are advised to apply it or upgrade to version 1.2.7 once available, while avoiding untrusted regular expression processing as an interim mitigation.</p><p><img src="https://uploads.sempreupdate.com.br/2026/04/n8YDWSbv-copy-fail-linux-cve-2026-31431-acesso-root.webp" /></p><hr/><small>21 Oct 2026, 21:57 UTC | #25064</small>]]></content>
+  </entry>
+  <entry>
+    <title>Blick Details Caching Architecture for Immediate-Mode User Interfaces</title>
+    <link href="https://blickeditor.com/blog/caching-an-immediate-mode-ui" rel="alternate" />
+    <id>https://blickeditor.com/blog/caching-an-immediate-mode-ui::v240</id>
+    <published>2026-10-21T17:17:00+00:00</published>
+    <updated>2026-10-21T17:17:00+00:00</updated>
+    <media:thumbnail url="https://www.forrestthewoods.com/blog/proving-immediate-mode-guis-are-performant/assets/img/01.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blickeditor.com/blog/caching-an-immediate-mode-ui">blickeditor.com</a> | <a href="https://lobste.rs/s/cq7wn7/don_t_throw_it_all_away_caching_immediate">discussion</a></small></p><hr/><p>Blick outlines how its video editor implements a GPU-accelerated tile-based caching layer behind an immediate-mode user interface. By separating UI reconstruction from pixel repainting, the renderer tracks drawing commands via hashes to retain previously rendered pixels for unchanged regions.</p><p>The system uses a small command-interpreter shader on the GPU to handle analytic shapes, textured passes, shape groups, and alpha barriers without requiring the UI framework to maintain complex invalidation trees. Measurements on an M3 MacBook Pro show a roughly 20 percent reduction in combined CPU and GPU power usage during light-editing tasks.</p><p><img src="https://www.forrestthewoods.com/blog/proving-immediate-mode-guis-are-performant/assets/img/01.png" /></p><hr/><small>21 Oct 2026, 21:54 UTC | #25065</small>]]></content>
+  </entry>
+  <entry>
+    <title>Node.js Releases October 2026 Security Updates</title>
+    <link href="https://nodejs.org/en/blog/vulnerability/october-2026-security-releases" rel="alternate" />
+    <id>https://nodejs.org/en/blog/vulnerability/october-2026-security-releases::v240</id>
+    <published>2026-10-21T15:54:00+00:00</published>
+    <updated>2026-10-21T15:54:00+00:00</updated>
+    <media:thumbnail url="https://r2.aiworknote.com/images/posts/nodejs-january-2026-security-releases/inline-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nodejs.org/en/blog/vulnerability/october-2026-security-releases">nodejs.org</a> | <a href="https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026">discussion</a> | <a href="https://news.ycombinator.com/item?id=50177438">hacker news</a></small></p><hr/><p>The Node.js project has issued security updates for the 26.x, 24.x, and 22.x release lines, addressing multiple vulnerabilities including four high-severity flaws. The patches resolve critical issues involving DNS truncation, TLS certificate hostname bypasses, and an out-of-bounds write in the Brotli decoder that could permit remote code execution.</p><p>In addition to core runtime fixes, the releases incorporate dependency updates for c-ares, OpenSSL, SQLite, Undici, and an eMudhra intermediate CA compromise. Developers running affected versions are advised to upgrade to the newly released versions (v26.12.1, v24.22.1, and v22.23.4) to protect against potential exploits.</p><p><img src="https://r2.aiworknote.com/images/posts/nodejs-january-2026-security-releases/inline-1.png" /></p><hr/><small>21 Oct 2026, 21:52 UTC | #25060</small>]]></content>
+  </entry>
+  <entry>
+    <title>Mozilla Firefox DevTools Introduces Local Mode for Testing Local Files via Custom HTTPS URLs</title>
+    <link href="https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html" rel="alternate" />
+    <id>https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html::v240</id>
+    <published>2026-10-21T15:50:00+00:00</published>
+    <updated>2026-10-21T15:50:00+00:00</updated>
+    <media:thumbnail url="https://firefox-source-docs.mozilla.org/_images/options-panel.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html">firefox-source-docs.mozilla.org</a> | <a href="https://lobste.rs/s/w9sxxq/firefox_local_mode">discussion</a></small></p><hr/><p>Mozilla Firefox DevTools introduces Local Mode, a feature that enables developers to map custom HTTPS URLs directly to local directories. This capability eliminates the need to spin up a separate local HTTP server when testing web pages, allowing developers to test secure context APIs and maintain distinct origins with isolated storage and cookies.</p><p>Shipped in Firefox 153, Local Mode can be configured through the DevTools Options panel or by using transient mappings triggered via file URL notifications. Developers can also manage and automate these mappings via preferences in about:config, facilitating easy importing and sharing across different browser profiles.</p><p><img src="https://firefox-source-docs.mozilla.org/_images/options-panel.png" /></p><hr/><small>21 Oct 2026, 21:51 UTC | #25057</small>]]></content>
+  </entry>
+  <entry>
+    <title>DuckDB Releases Version 2.0.0 LTS Cinnamon Teal</title>
+    <link href="https://duckdb.org/2026/10/21/announcing-duckdb-200" rel="alternate" />
+    <id>https://duckdb.org/2026/10/21/announcing-duckdb-200::v240</id>
+    <published>2026-10-21T15:49:00+00:00</published>
+    <updated>2026-10-21T15:49:00+00:00</updated>
+    <media:thumbnail url="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_819/https://dashboard.snapcraft.io/site_media/appmedia/2025/01/1_MFPU4ojJVpu6H4K0IyZxMQ-1736371669.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://duckdb.org/2026/10/21/announcing-duckdb-200">duckdb.org</a> | <a href="https://news.ycombinator.com/item?id=50181136">hacker news</a></small></p><hr/><p>DuckDB has released version 2.0.0 LTS, codenamed "Cinnamon Teal," representing its largest feature update to date with nearly 20,000 commits. The release introduces asynchronous I/O for Parquet, CSV, and native storage files, a polished client-server Quack protocol with a new CONNECT statement, a first-class VARIANT data type, triggers, and a default extensible PEG-based SQL parser.</p><p>Scheduled as a long-term support release maintained until October 2027, version 2.0 also adds an automated agent mode for the CLI, a revamped C API v2, and support for self-hosted extension repositories. Core extensions such as DuckLake, Iceberg, and Delta receive significant feature updates, expanding remote pushdown capabilities and catalog integration.</p><p><img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_819/https://dashboard.snapcraft.io/site_media/appmedia/2025/01/1_MFPU4ojJVpu6H4K0IyZxMQ-1736371669.png" /></p><hr/><small>21 Oct 2026, 21:50 UTC | #25063</small>]]></content>
+  </entry>
+  <entry>
+    <title>LiteLLM Version 1.107.0 on PyPI Compromised with Credential Stealer and Backdoor</title>
+    <link href="https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/" rel="alternate" />
+    <id>https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/::v240</id>
+    <published>2026-10-21T15:48:00+00:00</published>
+    <updated>2026-10-21T15:48:00+00:00</updated>
+    <media:thumbnail url="https://blog.pypi.org/assets/2026-04-02-incident-report-litellm-telnyx-supply-chain-attack/litellm_downloads_timeline.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/">safedep.io</a> | <a href="https://github.com/BerriAI/litellm/issues/47826">source</a> | <a href="https://news.ycombinator.com/item?id=50181114">hacker news</a></small></p><hr/><p>The LiteLLM 1.107.0 release distributed on PyPI was compromised in a software supply chain attack, embedding a credential stealer and a remote code execution backdoor across all operating system wheels. The malicious payloads execute automatically whenever any Python process starts on an infected host, even if the package itself is never imported.</p><p>Analysis reveals that the unauthorized files were injected directly into the build tree before the wheels were generated, as the upstream GitHub source repository did not contain the code. The credential stealer targets SSH keys, cloud credentials, browser passwords, and AI tool tokens, exfiltrating the gathered data while establishing an hourly remote-code loading daemon.</p><p><img src="https://blog.pypi.org/assets/2026-04-02-incident-report-litellm-telnyx-supply-chain-attack/litellm_downloads_timeline.png" /></p><hr/><small>21 Oct 2026, 21:49 UTC | #25062</small>]]></content>
+  </entry>
+  <entry>
+    <title>Cloudflare Deploys WAF Protections Against PHP2Shell Vulnerabilities</title>
+    <link href="https://blog.cloudflare.com/php-vulnerabilities-waf-protection/" rel="alternate" />
+    <id>https://blog.cloudflare.com/php-vulnerabilities-waf-protection/::v240</id>
+    <published>2026-10-21T15:44:00+00:00</published>
+    <updated>2026-10-21T15:44:00+00:00</updated>
+    <media:thumbnail url="https://i0.wp.com/electricbricks.net/wp-content/uploads/2022/09/cf-waf.png?fit=1024,834&amp;ssl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://blog.cloudflare.com/php-vulnerabilities-waf-protection/">blog.cloudflare.com</a> | <a href="https://news.ycombinator.com/item?id=50181326">hacker news</a></small></p><hr/><p>Cloudflare has deployed emergency web application firewall (WAF) protections and a new full transaction detection capability to shield websites against two critical PHP remote code execution vulnerabilities known as php2shell, tracked as CVE-2026-109618 and CVE-2026-109619. These memory-handling flaws affect all web servers running PHP 5.4 or later, enabling unauthenticated attackers to execute arbitrary code, expose sensitive data, or trigger denial-of-service conditions.</p><p>Cloudflare rolled out these mitigations ahead of the official public disclosure after detecting active exploit traffic targeting early leaks. While the WAF rules provide automated defense-in-depth protection across all customer tiers including free plans, administrators are strongly advised to apply official PHP vendor patches, as application code updates alone cannot remediate these runtime vulnerabilities.</p><p><img src="https://i0.wp.com/electricbricks.net/wp-content/uploads/2022/09/cf-waf.png?fit=1024,834&ssl=1" /></p><hr/><small>21 Oct 2026, 21:44 UTC | #25044</small>]]></content>
+  </entry>
+  <entry>
+    <title>Anthropic Details Research on Using Claude for Automated Code Attack Surface Reduction</title>
+    <link href="https://www.anthropic.com/research/attack-surface-reduction" rel="alternate" />
+    <id>https://www.anthropic.com/research/attack-surface-reduction::v240</id>
+    <published>2026-10-21T15:43:00+00:00</published>
+    <updated>2026-10-21T15:43:00+00:00</updated>
+    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Feda2a0d63ec94b4698edb7b2989ea6c520a2928c-1920x1240.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/research/attack-surface-reduction">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50175779">hacker news</a></small></p><hr/><p>Anthropic researchers used Claude to conduct automated attack surface analysis and reduction across 25 open-source codebases, uncovering 493 security issues. The technique maps reachable code and restricts access to features that deployments do not need to expose, minimizing risks from unknown vulnerabilities without requiring individual patches.</p><p>The evaluation covered public, gated, and private projects totaling over five million lines of code, focusing on default configurations, configuration interactions, and early reachability. Notably, the analysis identified unintended pre-authentication reachability in projects such as OpenSSH, leading to upstream fixes that removed thousands of lines of unnecessary code paths.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Feda2a0d63ec94b4698edb7b2989ea6c520a2928c-1920x1240.png&w=3840&q=75" /></p><hr/><small>21 Oct 2026, 21:42 UTC | #25045</small>]]></content>
+  </entry>
+  <entry>
+    <title>Spotify Launches First Native In-Car App with Audi on Android Automotive</title>
+    <link href="https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay" rel="alternate" />
+    <id>https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay::v240</id>
+    <published>2026-10-21T15:36:00+00:00</published>
+    <updated>2026-10-21T15:36:00+00:00</updated>
+    <media:thumbnail url="https://images.ctfassets.net/rag3uamlaqkr/3sF0Bgz7jaQY4HmRmSYQtN/e247f1667be15eabae475b636f0ca2b7/AndroidAuto.png?fm=webp&amp;w=828&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay">theverge.com</a> | <a href="https://www.audi.com/en/press-releases/audi-becomes-the-first-automaker-to-launch-spotifys-fully-native-in-car-app-18389">source</a></small></p><hr/><p>Spotify has released its first fully native in-car application, built directly on Google's Android Automotive operating system. Debuting in select Audi models, the standalone app runs directly on vehicle infotainment hardware without requiring a smartphone, Bluetooth connection, or auxiliary cable.</p><p>Unlike previous headless integrations restricted by template frameworks, the application allows Spotify to render its own user interface natively. The platform supports features including QR-code-based Spotify Jam sessions, synchronized lyrics, video podcasts, and multi-display integration for front passengers.</p><p><img src="https://images.ctfassets.net/rag3uamlaqkr/3sF0Bgz7jaQY4HmRmSYQtN/e247f1667be15eabae475b636f0ca2b7/AndroidAuto.png?fm=webp&w=828&q=75" /></p><hr/><small>21 Oct 2026, 21:33 UTC | #25013</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple iPhone Duo Reviewed: A Risky, First-Generation Foldable Smartphone</title>
+    <link href="https://www.theverge.com/tech/1015028/iphone-duo-review" rel="alternate" />
+    <id>https://www.theverge.com/tech/1015028/iphone-duo-review::v240</id>
+    <published>2026-10-21T15:31:00+00:00</published>
+    <updated>2026-10-21T15:31:00+00:00</updated>
+    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&amp;strip=all&amp;crop=16.666666666667%2C0%2C66.666666666667%2C100&amp;w=2400" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1015028/iphone-duo-review">theverge.com</a></small></p><hr/><p>Apple’s first foldable smartphone, the $1,999 iPhone Duo, features a landscape-first passport shape with a 5.4-inch glossy outer display and a 7.6-inch inner screen equipped with a nano-texture matte coating. The device replaces Face ID with a side-mounted Touch ID wake button and rearranges standard iOS interface elements to accommodate its unique width and dual-screen layout.</p><p>While early adopters and gadget enthusiasts will appreciate the novel form factor, the software remains in an unrefined first-generation state with awkward multitasking controls and cramped single-handed usage. Although the inner matte display successfully minimizes the visible crease, the unusual aspect ratio and software wonkiness make the device a high-priced gamble compared to traditional smartphones.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400" /></p><hr/><small>21 Oct 2026, 21:28 UTC | #25004</small>]]></content>
+  </entry>
   <entry>
     <title>ZLS 0.17.0 Released</title>
     <link href="https://zigtools.org/zls/releases/0.17.0/" rel="alternate" />
@@ -1041,86 +1131,5 @@
     <updated>2026-10-16T22:13:00+00:00</updated>
     <media:thumbnail url="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/06/llama-next-to-a-task-manager.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/cobanov/PS5LM">github.com</a> | <a href="https://news.ycombinator.com/item?id=50122431">hacker news</a></small></p><hr/><p>PS5LM allows jailbroken PlayStation 5 consoles to run large language models (LLMs) using the console's RDNA 2 GPU via the Vulkan backend. It loads GGUF-formatted models and serves them to devices on a local network through OpenAI and Anthropic-compatible APIs, acting as a private model server.</p><p>The software features a TV interface for streaming request history and direct interaction, alongside hardware monitoring for temperature and power. It supports decision models via integration with Ollaya and is compatible with PS5 firmware versions 7.00 through 13.60.</p><p><img src="https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/06/llama-next-to-a-task-manager.jpg?q=49&fit=crop&w=825&dpr=2" /></p><hr/><small>17 Oct 2026, 05:57 UTC | #24565</small>]]></content>
-  </entry>
-  <entry>
-    <title>Apple Reports High Demand for iPhone Duo as Delivery Dates Slip</title>
-    <link href="https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f" rel="alternate" />
-    <id>https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f::v239</id>
-    <published>2026-10-16T22:01:00+00:00</published>
-    <updated>2026-10-16T22:01:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f">ft.com</a> | <a href="https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/">source</a></small></p><hr/><p>Apple has reported "extraordinary" demand for the iPhone Duo, its first foldable iPhone, causing shipping estimates to slip significantly. Within hours of preorders opening, delivery windows for the $2,000 device moved from late October into late January.</p><p>The device features a 7.6-inch inner display and a 5.4-inch outer screen. Although availability was originally scheduled for October 23, 2026, the surge in orders has pushed many expected deliveries into early 2027.</p><hr/><small>17 Oct 2026, 05:05 UTC | #24547</small>]]></content>
-  </entry>
-  <entry>
-    <title>Decoherence: The Impact of AI-Generated Content on System Complexity</title>
-    <link href="https://maevyn.codes/decoherence" rel="alternate" />
-    <id>https://maevyn.codes/decoherence::v239</id>
-    <published>2026-10-16T21:38:00+00:00</published>
-    <updated>2026-10-16T21:38:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://maevyn.codes/decoherence">maevyn.codes</a> | <a href="https://lobste.rs/s/vjmn84/decoherence_trap_when_ai_slop_drowns_out">discussion</a> | <a href="https://news.ycombinator.com/item?id=50121310">hacker news</a></small></p><hr/><p>Decoherence is the accumulation of locally valid but mutually incompatible or redundant models within a system, which increases the cost of modification. The proliferation of AI-generated content is accelerating this phenomenon, causing system noise and complexity to grow exponentially.</p><p>This process may preclude a "runaway intelligence explosion" by hindering the ability of AI to improve within highly fragmented environments. However, it risks a "Decoherence Collapse," where the complexity of a system becomes combinatorial and eventually outpaces the ability of humans or autonomous agents to navigate or maintain it.</p><hr/><small>17 Oct 2026, 04:53 UTC | #24560</small>]]></content>
-  </entry>
-  <entry>
-    <title>Anthropic Details Code Review Workflow for AI-Generated Code</title>
-    <link href="https://claude.dev/blog/solving-code-review-at-anthropic/" rel="alternate" />
-    <id>https://claude.dev/blog/solving-code-review-at-anthropic/::v239</id>
-    <published>2026-10-16T20:29:00+00:00</published>
-    <updated>2026-10-16T20:29:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://claude.dev/blog/solving-code-review-at-anthropic/">claude.dev</a> | <a href="https://news.ycombinator.com/item?id=50122951">hacker news</a></small></p><hr/><p>Anthropic's Claude Code team utilizes a multi-layered, automated review process to manage a high volume of code written by AI agents, which currently accounts for approximately 90% of the team's codebase. The system shifts routine line-by-line review to specialized agents—covering verification, security, and bug detection—allowing human engineers to focus on high-risk architectural and strategic decisions. This workflow has reportedly resulted in a doubling of merged pull requests and a 40% reduction in reverts.</p><p>The process employs risk-based human approval tiers, where low-risk changes like documentation can bypass human review, whereas high-risk changes require multiple human sign-offs. To prevent endless iteration loops between AI authors and reviewers, the team implements convergence protocols, including round caps and diff-only re-reviews. The automated review agents are continuously refined using past production incidents as evaluation sets to improve detection and reduce noise.</p><hr/><small>17 Oct 2026, 02:19 UTC | #24559</small>]]></content>
-  </entry>
-  <entry>
-    <title>PostgreSQL 19 Delayed to November Following LLM-Assisted Code Reviews</title>
-    <link href="https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471" rel="alternate" />
-    <id>https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471::v239</id>
-    <published>2026-10-16T20:26:00+00:00</published>
-    <updated>2026-10-16T20:26:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471">theregister.com</a> | <a href="https://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves">source</a> | <a href="https://news.ycombinator.com/item?id=50119991">hacker news</a></small></p><hr/><p>The PostgreSQL Global Development Group has delayed the release of PostgreSQL 19 to November 19, 2026. This postponement follows the decision to revert eight to ten features, including SQL Property Graph Queries (SQL/PGQ), due to architectural defects and a high volume of identified edge-case bugs.</p><p>Lead developer Peter Eisentraut noted that the increased scrutiny is largely due to the use of LLM-assisted code reviews, which have identified many minor issues that historically might have gone unnoticed until well after release. The features removed from the current iteration are expected to be deferred to the PostgreSQL 20 release cycle.</p><hr/><small>17 Oct 2026, 01:52 UTC | #24530</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI-Assisted Hardware Reverse Engineering for Linux Drivers</title>
-    <link href="https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/" rel="alternate" />
-    <id>https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/::v239</id>
-    <published>2026-10-16T19:21:00+00:00</published>
-    <updated>2026-10-16T19:21:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/">blogs.gnome.org</a> | <a href="https://news.ycombinator.com/item?id=50104299">hacker news</a></small></p><hr/><p>Christian Fredrik Kalager Schaller demonstrates using AI coding tools like Claude Code to reverse engineer hardware drivers for Linux. This process was used to develop a SANE backend for the Plustek OpticFilm 8200i scanner and to resolve MIPI camera issues on a Lenovo ThinkPad X1 Carbon Gen 14.</p><p>The methodology utilizes a "hw-harness" to capture and compare USB/driver traces between a Windows virtual machine and a Linux host. This approach leverages AI to automate the tedious analysis of bus traffic and register patterns, allowing developers to identify driver bugs and support undocumented hardware more efficiently.</p><hr/><small>16 Oct 2026, 22:31 UTC | #24548</small>]]></content>
-  </entry>
-  <entry>
-    <title>Calif Researchers Detail OpenBSD Local Privilege Escalation via 37-Year-Old Kernel Bug</title>
-    <link href="https://calif.io/research/big-fish" rel="alternate" />
-    <id>https://calif.io/research/big-fish::v239</id>
-    <published>2026-10-16T19:20:00+00:00</published>
-    <updated>2026-10-16T19:20:00+00:00</updated>
-    <media:thumbnail url="https://calif.io/big-fish.5b2a304f.jpeg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://calif.io/research/big-fish">calif.io</a> | <a href="https://lobste.rs/s/cxlrc5/big_fish_exploiting_37_year_old_kernel_bug">discussion</a> | <a href="https://news.ycombinator.com/item?id=50118977">hacker news</a></small></p><hr/><p>An integer overflow in OpenBSD's shared memory attachment counter, tracing back 37 years to original BSD sources, enables local privilege escalation to root. By chaining this overflow with a use-after-free race condition and an out-of-bounds write, attackers can bypass kernel protections like KARL, SMAP, and SMEP via a "write what where" primitive.</p><p>OpenBSD has addressed the underlying flaws in errata 018 and 026. Proposed defensive improvements to prevent similar exploitation include implementing safe-unlinking, randomizing PTE map allocation, and increasing non-determinism in the kernel's boot-time and runtime allocators.</p><p><img src="https://calif.io/big-fish.5b2a304f.jpeg" /></p><hr/><small>16 Oct 2026, 22:27 UTC | #24546</small>]]></content>
-  </entry>
-  <entry>
-    <title>sslx: A Rust-Based CLI for Certificate and TLS Management</title>
-    <link href="https://github.com/glincker/sslx" rel="alternate" />
-    <id>https://github.com/glincker/sslx::v239</id>
-    <published>2026-10-16T19:19:00+00:00</published>
-    <updated>2026-10-16T19:19:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/glincker/sslx">github.com</a> | <a href="https://lobste.rs/s/p7tf7i/sslx_fast_modern_alternative_openssl_s">discussion</a></small></p><hr/><p>sslx is a command-line interface (CLI) tool written in Rust that acts as an alternative to OpenSSL. It manages certificates, handles TLS connections, and performs inspections within a single binary using the rustls library, eliminating the need for a system OpenSSL installation.</p><p>The tool offers TLS security grading, certificate expiry checks for multiple hosts, and format conversion between PEM, DER, and PKCS12. It also includes capabilities for JWT decoding, certificate/key matching, and JSON output designed for automation in CI/CD pipelines.</p><hr/><small>16 Oct 2026, 22:25 UTC | #24540</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sill Enables Mac Window Streaming to iPhone and iPad</title>
-    <link href="https://github.com/Saffsanity/sill" rel="alternate" />
-    <id>https://github.com/Saffsanity/sill::v239</id>
-    <published>2026-10-16T19:16:00+00:00</published>
-    <updated>2026-10-16T19:16:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/Saffsanity/sill">github.com</a> | <a href="https://news.ycombinator.com/item?id=50112739">hacker news</a></small></p><hr/><p>This utility streams specific Mac windows or the entire desktop to iPhone and iPad devices. It captures the Mac screen via ScreenCaptureKit, encodes the feed using HEVC, and transmits the video to mobile devices over a local network, USB cable, or a VPN. Users can interact with the Mac interface through touch, Apple Pencil, an on-screen trackpad, or a physical keyboard.</p><p>The software uses TLS 1.3 encryption for secure transmission and supports remote access via services like Tailscale. Additional features include bi-directional text clipboard sharing, virtual displays to maintain window visibility, and adaptive quality adjustments based on network performance. It is available for Apple silicon Macs running macOS 14 or later and is distributed via the iOS App Store and direct download.</p><hr/><small>16 Oct 2026, 22:10 UTC | #24545</small>]]></content>
-  </entry>
-  <entry>
-    <title>Geometric Model of Software Maintenance Proposed</title>
-    <link href="https://entropicthoughts.com/geometric-model-of-maintenance" rel="alternate" />
-    <id>https://entropicthoughts.com/geometric-model-of-maintenance::v239</id>
-    <published>2026-10-16T19:15:00+00:00</published>
-    <updated>2026-10-16T19:15:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://entropicthoughts.com/geometric-model-of-maintenance">entropicthoughts.com</a> | <a href="https://lobste.rs/s/bpvpbe/geometric_model_maintenance">discussion</a></small></p><hr/><p>The article critiques James Shore's threshold model of maintenance, which predicts that new code creates a set amount of maintenance work that grows over time. Analyzing cumulative commit data from projects such as tmux, nginx, and Neovim, the author argues that the threshold model's predicted exponential growth fails to align with the actual maintenance trajectories of these software projects.</p><p>The author proposes a refined "geometric model" that accounts for decaying maintenance effort as code matures and stabilizes. By fitting this model to various projects, the author derives metrics for maintenance-to-development ratios and "elimination times," providing a descriptive framework for estimating long-term maintenance requirements and budgeting for new software development.</p><hr/><small>16 Oct 2026, 22:06 UTC | #24539</small>]]></content>
-  </entry>
-  <entry>
-    <title>Discover-Tech Targeted Ads Used to Deliver Zero-Click Spyware</title>
-    <link href="https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware" rel="alternate" />
-    <id>https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware::v239</id>
-    <published>2026-10-16T19:11:00+00:00</published>
-    <updated>2026-10-16T19:11:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware">theverge.com</a> | <a href="https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/">source</a> | <a href="https://news.ycombinator.com/item?id=50106676">hacker news</a></small></p><hr/><p>Researchers from Citizen Lab and Confiant have uncovered that the Israeli ad tech firm Discover-Tech uses targeted online advertisements to deliver "zero-click" spyware, which infects devices without user interaction. The investigation found that these attacks targeted at least 45 devices at the news organization Al Jazeera during 2024 and 2025.</p><p>The firm's Controlium platform facilitates user profiling and de-anonymization via IP addresses, mobile ad IDs, or browser identifiers. Researchers linked the campaign to Candiru, a US-blacklisted spyware company. Google and Beeswax have since removed Discover-Tech from their advertising platforms, and IAB Europe suspended the company from its approved vendor list.</p><hr/><small>16 Oct 2026, 21:45 UTC | #24541</small>]]></content>
   </entry>
 </feed>
