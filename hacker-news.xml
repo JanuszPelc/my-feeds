@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-20T22:25:00+00:00</updated>
+  <updated>2026-10-20T22:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Curl Project Moves Low and Medium Vulnerability Reports to GitHub</title>
+    <link href="https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/" rel="alternate" />
+    <id>https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/::v240</id>
+    <published>2026-10-20T22:40:00+00:00</published>
+    <updated>2026-10-20T22:40:00+00:00</updated>
+    <media:thumbnail url="https://repository-images.githubusercontent.com/337239782/b4c5af80-6aa3-11eb-9b86-435fe9e2db76" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open">discussion</a> | <a href="https://news.ycombinator.com/item?id=50168534">hacker news</a></small></p><hr/><p>The curl project is altering its vulnerability disclosure policy, requiring all bug reports deemed low or medium severity to be submitted as public issues on GitHub instead of through HackerOne starting October 26, 2026. Only high and critical severity vulnerabilities will remain private on HackerOne.</p><p>Project maintainers implemented the change to cope with an overwhelming volume of vulnerability reports, driven largely by automated AI tools generating edge-case option combinations and minor discrepancies with minimal real-world risk. Moving these reports to the open is intended to distribute the assessment burden and invite wider community scrutiny before releases.</p><p><img src="https://repository-images.githubusercontent.com/337239782/b4c5af80-6aa3-11eb-9b86-435fe9e2db76" /></p><hr/><small>21 Oct 2026, 03:03 UTC | #24972</small>]]></content>
+  </entry>
   <entry>
     <title>PHP Security Team Schedules Critical Security Release</title>
     <link href="https://www.php.net/archive/2026.php#2026-10-20-1" rel="alternate" />
@@ -1042,21 +1051,5 @@
     <published>2026-10-16T03:43:00+00:00</published>
     <updated>2026-10-16T03:43:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp">oyster.pckt.blog</a> | <a href="https://lobste.rs/s/vyo9n2/gleam_case_exhaustiveness_as_fan">discussion</a></small></p><hr/><p>This article explores the internal logic used by the Gleam compiler to perform exhaustiveness checking in case expressions. By building decision trees and identifying "witnesses"—specific values that fail to match any provided clause—the compiler can inform developers exactly which patterns are missing, preventing potential runtime crashes.</p><p>The implementation draws on pattern-matching theories from researchers like Lennart Augustsson and Luc Maranget. The author highlights how Gleam addresses complex edge cases involving string prefixes, inline guards, bit array manipulation, and type-narrowing to provide precise error diagnostics and efficient code generation.</p><hr/><small>16 Oct 2026, 11:09 UTC | #24489</small>]]></content>
-  </entry>
-  <entry>
-    <title>Withings Implements Subscription Requirement for Apple Health Syncing for New Users</title>
-    <link href="https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts" rel="alternate" />
-    <id>https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts::v239</id>
-    <published>2026-10-16T02:54:00+00:00</published>
-    <updated>2026-10-16T02:54:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts">support.withings.com</a> | <a href="https://support.withings.com/hc/en-us/articles/46746224229777-Partner-Apps-Apple-Health-Exporting-Withings-data-into-Apple-Health">source</a> | <a href="https://news.ycombinator.com/item?id=50109375">hacker news</a></small></p><hr/><p>Starting October 13, 2026, Withings will require new users to purchase a Withings+ subscription ($99.99 per year) to export health data to third-party applications like Apple Health and Google's Health Connect. Users who created their accounts on or before October 12, 2026, will maintain free synchronization capabilities.</p><p>Withings attributes the change to enhanced privacy measures and the rollout of a "Withings AI Connector." The move has prompted criticism from the community, with users arguing that local API calls to HealthKit should not be subject to a recurring subscription fee.</p><hr/><small>16 Oct 2026, 09:38 UTC | #24482</small>]]></content>
-  </entry>
-  <entry>
-    <title>Linus Torvalds Rejects Proposals to Restrict AI Tool Usage in Linux Kernel Documentation</title>
-    <link href="https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/" rel="alternate" />
-    <id>https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/::v239</id>
-    <published>2026-10-16T02:51:00+00:00</published>
-    <updated>2026-10-16T02:51:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/">lore.kernel.org</a> | <a href="https://lobste.rs/s/xiq59t/linus_torvalds_on_ai_assisted_kernel">discussion</a> | <a href="https://news.ycombinator.com/item?id=50113790">hacker news</a></small></p><hr/><p>Arguments to mandate specific disclosures for the use of AI coding assistants in Linux kernel development have been rejected by Linus Torvalds. Responding to discussions regarding "Assisted-by" references in kernel documentation, he argued that the use of tools—including AI, compilers, and text editors—is secondary to a developer's ability to understand and defend their code.</p><p>This stance addresses ongoing debates within the kernel community concerning the management of AI-assisted patches and the potential for machine-generated content to complicate maintenance workflows. The position prioritizes individual accountability for code quality over the implementation of rules based on specific technological tools.</p><hr/><small>16 Oct 2026, 09:21 UTC | #24481</small>]]></content>
   </entry>
 </feed>

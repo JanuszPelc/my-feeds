@@ -369,13 +369,4 @@
     <updated>2026-10-16T08:03:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/retail-consumer/tim-cook-says-apple-intelligence-approved-china-paper-reports-2026-10-15/">reuters.com</a></small></p><hr/><p>The AI suite, Apple Intelligence, has received regulatory approval in China, with a test version expected to be released in late October.</p><p>The initial rollout is reportedly expected to arrive without Siri AI functionality. The news was shared by Tim Cook during an interview with the Chinese state-backed outlet *The Paper*.</p><hr/><small>16 Oct 2026, 13:21 UTC | #24476</small>]]></content>
   </entry>
-  <entry>
-    <title>Microsoft AI Completes Pre-training for MAI-Base-2</title>
-    <link href="https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/" rel="alternate" />
-    <id>https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/::v239</id>
-    <published>2026-10-16T02:53:00+00:00</published>
-    <updated>2026-10-16T02:53:00+00:00</updated>
-    <media:thumbnail url="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/c60d808545e57c588b202dc138b292fa312a1f4b/3-Figure1-1.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/">microsoft.ai</a> | <a href="https://news.ycombinator.com/item?id=50105791">hacker news</a></small></p><hr/><p>The new MAI-Base-2 is a Mixture-of-Experts (MoE) foundation model featuring 2.8 trillion total parameters and 80 billion active parameters. It outperforms leading open-weight models on held-out evaluations and is 4 to 12 times more FLOPs-efficient than DeepSeek-V4-Pro-Base.</p><p>Training was conducted on 16,000 GB200 GPUs using "dropless MoE" and the Muon optimizer to increase computational efficiency and training stability. Microsoft intends to license model weights to enterprise partners via its Foundry platform, leveraging end-to-end control over the model pipeline and data provenance.</p><p><img src="https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/c60d808545e57c588b202dc138b292fa312a1f4b/3-Figure1-1.png" /></p><hr/><small>16 Oct 2026, 09:34 UTC | #24467</small>]]></content>
-  </entry>
 </feed>

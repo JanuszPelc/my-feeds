@@ -3,9 +3,18 @@
   <title>nerd-science</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml</id>
-  <updated>2026-10-20T13:12:00+00:00</updated>
+  <updated>2026-10-20T22:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/nerd-science.png</logo>
+  <entry>
+    <title>Steve Krouse Examines the Purpose of Education in Feld of AGI</title>
+    <link href="https://stevekrouse.com/ends" rel="alternate" />
+    <id>https://stevekrouse.com/ends::v240</id>
+    <published>2026-10-20T22:39:00+00:00</published>
+    <updated>2026-10-20T22:39:00+00:00</updated>
+    <media:thumbnail url="https://joeflynnpm.com/images/blog/fatherhood-in-the-age-of-ai.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://stevekrouse.com/ends">stevekrouse.com</a> | <a href="https://news.ycombinator.com/item?id=50169707">hacker news</a></small></p><hr/><p>Programmer and soon-to-be father Steve Krouse explores the evolving purpose of education as artificial general intelligence (AGI) reshapes traditional skill sets and career trajectories. Reflecting on how his own economic value as a software developer feels compromised, he questions what knowledge and values remain vital to impart to the next generation.</p><p>Drawing on Neil Postman’s 1995 book The End of Education and historical false alarms regarding educational technology—such as Thomas Edison’s 1913 prediction that books would become obsolete—Krouse examines how institutional schooling endures through shifting societal needs. Ultimately, he suggests that as traditional economic incentives wobble, parents and educators must collaboratively forge new narratives and purposes for learning.</p><p><img src="https://joeflynnpm.com/images/blog/fatherhood-in-the-age-of-ai.png" /></p><hr/><small>21 Oct 2026, 03:02 UTC | #24971</small>]]></content>
+  </entry>
   <entry>
     <title>Pew Research Center Survey Finds 20% of U.S. Adults Regularly Get News on TikTok</title>
     <link href="https://www.pewresearch.org/short-reads/2026/10/19/1-in-5-americans-regularly-get-news-on-tiktok-2/" rel="alternate" />
