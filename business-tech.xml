@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-20T18:53:00+00:00</updated>
+  <updated>2026-10-20T19:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI CEO Sam Altman Outlines Three AI Endgames to Staff</title>
+    <link href="https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus" rel="alternate" />
+    <id>https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus::v240</id>
+    <published>2026-10-20T19:01:00+00:00</published>
+    <updated>2026-10-20T19:01:00+00:00</updated>
+    <media:thumbnail url="https://simoninstitute.ch/wp-content/uploads/2025/09/image-2.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus">theinformation.com</a></small></p><hr/><p>OpenAI CEO Sam Altman recently outlined three potential endgames for advanced artificial intelligence to company employees. These scenarios include an international nuclear-style regulatory body modeled after the IAEA, a CERN-like merger of leading AI labs, or a single company achieving recursive self-improvement and monopolizing compute power to dominate rivals.</p><p>Altman reportedly dismissed the single-firm dominance scenario as a terrible outcome while expressing openness to structured international oversight and potential coordination among labs. The internal discussion highlights ongoing strategic debates within top AI companies regarding safety regulation, compute monopolies, and long-term industry consolidation.</p><p><img src="https://simoninstitute.ch/wp-content/uploads/2025/09/image-2.png" /></p><hr/><small>21 Oct 2026, 00:46 UTC | #24921</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Chief Global Affairs Officer Joel Kaplan to Leave in 2027</title>
     <link href="https://www.axios.com/2026/10/20/joel-kaplan-meta" rel="alternate" />
