@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-21T00:17:00+00:00</updated>
+  <updated>2026-10-21T03:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Josh W. Comeau Previews Upcoming CSS Features for Interop 2027</title>
+    <link href="https://www.joshwcomeau.com/css/interop-2027/" rel="alternate" />
+    <id>https://www.joshwcomeau.com/css/interop-2027/::v240</id>
+    <published>2026-10-21T03:03:00+00:00</published>
+    <updated>2026-10-21T03:03:00+00:00</updated>
+    <media:thumbnail url="https://www.joshwcomeau.com/_next/image/?url=%2Fimages%2Finterop-2027%2Fsubgrid-graph.png&amp;w=1200&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.joshwcomeau.com/css/interop-2027/">joshwcomeau.com</a> | <a href="https://news.ycombinator.com/item?id=50175070">hacker news</a></small></p><hr/><p>Web developer Josh W. Comeau previews ten upcoming CSS features nominated for the Interop 2027 initiative, highlighting capabilities such as native custom functions, advanced shape customization, and improved layout controls.</p><p>Key proposals under consideration by browser vendors include `@function` rules for reusable logic, `corner-shape` and `border-shape` properties for advanced geometric rendering, anchored container queries, the `inherit()` function, and layout reading-flow controls. These collaborative efforts aim to establish universal cross-browser support for powerful new styling mechanisms within the next year.</p><p><img src="https://www.joshwcomeau.com/_next/image/?url=%2Fimages%2Finterop-2027%2Fsubgrid-graph.png&w=1200&q=75" /></p><hr/><small>21 Oct 2026, 08:58 UTC | #24989</small>]]></content>
+  </entry>
   <entry>
     <title>The Annotated VT100 Firmware</title>
     <link href="https://vt100.net/dec/vt100/rom/" rel="alternate" />
