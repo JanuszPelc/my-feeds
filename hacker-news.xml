@@ -7,6 +7,24 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Garmin Revamps and Reopens Connect Developer API Program With New Tiers</title>
+    <link href="https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html" rel="alternate" />
+    <id>https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html::v240</id>
+    <published>2026-10-22T14:40:00+00:00</published>
+    <updated>2026-10-22T14:40:00+00:00</updated>
+    <media:thumbnail url="https://media.dcrainmaker.com/images/2026/10/IMG_4483.jpeg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html">dcrainmaker.com</a> | <a href="https://lobste.rs/s/nbd1cs/garmin_revamps_opens_up_connect">discussion</a></small></p><hr/><p>Garmin has reopened its Connect Developer API program after a seven-month closure triggered by an overwhelming influx of automated application submissions. The revamped program introduces a three-tiered access structure consisting of Personal, Startup, and Enterprise levels to better accommodate developers ranging from individual hobbyists to large-scale commercial platforms.</p><p>Under the new framework, the Personal and Startup tiers provide free, near-instant access to user activity data and .FIT files for up to 1,000 users, while the Enterprise tier introduces a commercial fee structure based on monthly active users alongside technical support and historical data backfills. Existing partners are automatically transitioned to the Enterprise tier, with commercial pricing negotiations set to take effect by April 2027.</p><p><img src="https://media.dcrainmaker.com/images/2026/10/IMG_4483.jpeg" /></p><hr/><small>22 Oct 2026, 20:04 UTC | #25166</small>]]></content>
+  </entry>
+  <entry>
+    <title>Documenting Local Network Devices With ARP Scan, DHCP, and DNS Records</title>
+    <link href="https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html" rel="alternate" />
+    <id>https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html::v240</id>
+    <published>2026-10-22T14:39:00+00:00</published>
+    <updated>2026-10-22T14:39:00+00:00</updated>
+    <media:thumbnail url="https://medevel.com/content/images/2024/04/55280325-73e7a600-5324-11e9-85cb-491a1a429c95.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html">unixdigest.com</a> | <a href="https://lobste.rs/s/m6l6ld/tell_your_network_explain_itself_then">discussion</a></small></p><hr/><p>Building on basic network discovery tools like arp-scan, administrators can use a combination of DHCP and a local recursive DNS server to centrally track and identify connected hardware. Mapping MAC addresses to static IP allocations eliminates the need to manually update configurations on individual machines.</p><p>By leveraging DNS TXT records alongside standard address records, operators can store arbitrary descriptive metadata—such as hardware specifications or ownership details—directly against a host name. This transforms a local resolver into a comprehensive registry that documents every device on both office and homelab networks.</p><p><img src="https://medevel.com/content/images/2024/04/55280325-73e7a600-5324-11e9-85cb-491a1a429c95.png" /></p><hr/><small>22 Oct 2026, 20:02 UTC | #25165</small>]]></content>
+  </entry>
+  <entry>
     <title>Huawei Ascend 950PR and DeepSeek Software Stack Integration Analyzed</title>
     <link href="https://newsletter.semianalysis.com/p/huawei-deepseek" rel="alternate" />
     <id>https://newsletter.semianalysis.com/p/huawei-deepseek::v240</id>
@@ -1130,13 +1148,5 @@
     <updated>2026-10-17T20:28:00+00:00</updated>
     <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip83NHuCPBMbENODlk7SUl8bDy6l1VBNv3ajBcw0o9VzuNtg3dlGjrm-aekZxs8VE8J1dCgoijQI_qwPd3dWN-2nQE8M6Jx8cAzT1X_e9XS1j3eJWU23ht2pgrlDjeX9s67hwa-GLIM_mxqtEbqvdSQXgqOKxTIfSCS6l9G59s4Jd75wwPSwc5rwz89okX/s2000/akademy-2006-dublin-group.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html">blog.cornelius-schumacher.de</a> | <a href="https://lobste.rs/s/cgs07z/thirty_years_kde">discussion</a></small></p><hr/><p>The KDE project is marking its 30th anniversary with the premiere of a documentary covering its development history. The film traces the project's founding, early development, licensing disputes, and the transition through the KDE 4 era.</p><p>Recent momentum includes over one million euros in investment from the Sovereign Tech Fund and increased adoption on hardware like the Steam Deck. Strategic goals for 2026 focus on enterprise readiness, documentation, and software styling.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip83NHuCPBMbENODlk7SUl8bDy6l1VBNv3ajBcw0o9VzuNtg3dlGjrm-aekZxs8VE8J1dCgoijQI_qwPd3dWN-2nQE8M6Jx8cAzT1X_e9XS1j3eJWU23ht2pgrlDjeX9s67hwa-GLIM_mxqtEbqvdSQXgqOKxTIfSCS6l9G59s4Jd75wwPSwc5rwz89okX/s2000/akademy-2006-dublin-group.jpg" /></p><hr/><small>18 Oct 2026, 02:37 UTC | #24630</small>]]></content>
-  </entry>
-  <entry>
-    <title>Pele Renders Mermaid Diagrams as Themeable SVG</title>
-    <link href="https://pele.run/" rel="alternate" />
-    <id>https://pele.run/::v239</id>
-    <published>2026-10-17T18:52:00+00:00</published>
-    <updated>2026-10-17T18:52:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pele.run/">pele.run</a> | <a href="https://github.com/obsidianmd/pele">source</a> | <a href="https://news.ycombinator.com/item?id=50132193">hacker news</a></small></p><hr/><p>Pele is a lightweight library that converts Mermaid syntax into SVG diagrams. It is significantly smaller and faster than Mermaid.js and uses CSS variables for easy, non-destructive theming.</p><p>Developed for the Obsidian note-taking app, the open-source tool supports all diagram types included in Mermaid 12.1.0. It is available as an npm package and features zero direct dependencies.</p><hr/><small>18 Oct 2026, 01:07 UTC | #24625</small>]]></content>
   </entry>
 </feed>

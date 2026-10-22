@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-22T14:33:00+00:00</updated>
+  <updated>2026-10-22T15:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Finnish Regulators Order Google to Halt Data Center Work After Forest Clearing</title>
+    <link href="https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html" rel="alternate" />
+    <id>https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html::v240</id>
+    <published>2026-10-22T15:33:00+00:00</published>
+    <updated>2026-10-22T15:33:00+00:00</updated>
+    <media:thumbnail url="https://www.manilatimes.net/manilatimes/uploads/images/2026/04/06/1002317.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html">techspot.com</a> | <a href="https://news.ycombinator.com/item?id=50196837">hacker news</a></small></p><hr/><p>Finnish authorities have ordered Google subsidiary Tuike Finland to temporarily suspend preparatory work on two major data center projects in Muhos and Kajaani. The regulatory intervention follows the clearing of approximately 300 hectares of forest before the completion of required environmental impact assessments.</p><p>While Google maintains that the land clearing complied with local regulations and followed pre-construction surveys to protect sensitive areas, environmental groups and officials have raised concerns over potential ecological damage. The dispute highlights growing friction between local communities and the rapid expansion of large-scale artificial intelligence infrastructure.</p><p><img src="https://www.manilatimes.net/manilatimes/uploads/images/2026/04/06/1002317.jpg" /></p><hr/><small>22 Oct 2026, 20:11 UTC | #25164</small>]]></content>
+  </entry>
+  <entry>
+    <title>LEGO Group and Daft Punk Announce Creative Partnership and Pyramid Stage Set</title>
+    <link href="https://musictech.com/news/music/daft-punk-x-lego-new-creative-partnership/" rel="alternate" />
+    <id>https://musictech.com/news/music/daft-punk-x-lego-new-creative-partnership/::v240</id>
+    <published>2026-10-22T14:38:00+00:00</published>
+    <updated>2026-10-22T14:38:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Daft-Punk-LEGO-hero@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/music/daft-punk-x-lego-new-creative-partnership/">musictech.com</a> | <a href="https://www.lego.com/en-us/aboutus/news/2026/october/lego-group-and-daft-punk-partnership-announcement">source</a></small></p><hr/><p>The LEGO Group and electronic music duo Daft Punk have announced a multi-faceted creative partnership spanning products, content, and brand experiences. The collaboration kicks off with an animated short film featuring the duo as LEGO minifigures and an upcoming official LEGO Ideas set recreating their iconic 2007 Alive tour pyramid stage.</p><p>The pyramid stage concept originated from a fan submission by a father-and-son duo in the LEGO Ideas community, which won a 2020 challenge before securing over 10,000 supporter votes. Further content, products, and brand activations resulting from the collaboration are scheduled to roll out through 2027.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Daft-Punk-LEGO-hero@2000x1500.jpg" /></p><hr/><small>22 Oct 2026, 19:59 UTC | #25135</small>]]></content>
+  </entry>
   <entry>
     <title>Quad9 to Withdraw Services from France Over Court-Ordered DNS Blocking</title>
     <link href="https://quad9.net/news/blog/au-revoir-france/" rel="alternate" />
@@ -760,23 +778,5 @@
     <updated>2026-10-17T20:25:00+00:00</updated>
     <media:thumbnail url="https://static01.nyt.com/images/2026/03/27/multimedia/MUSKLAW-vgfm/MUSKLAW-vgfm-videoSixteenByNine3000.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.hollywoodreporter.com/news/politics-news/musk-movie-tiktok-banned-theaters-showtimes-1236734308/">hollywoodreporter.com</a> | <a href="https://news.ycombinator.com/item?id=50132954">hacker news</a></small></p><hr/><p>TikTok has permanently suspended the official promotional account for Alex Gibney’s documentary *Musk*, citing severe violations of political content policies. The move comes as the film, which examines Elon Musk's political activities and his takeover of X, expands its theatrical run across hundreds of screens in North America.</p><p>Distributor Bleecker Street is currently appealing the decision, noting that the account had acquired more than 10,000 followers. While other platforms like Meta and YouTube have hosted trailer advertisements for the film, the suspension limits TikTok's ability to host promotional content during the film's critical release window.</p><p><img src="https://static01.nyt.com/images/2026/03/27/multimedia/MUSKLAW-vgfm/MUSKLAW-vgfm-videoSixteenByNine3000.jpg" /></p><hr/><small>18 Oct 2026, 02:18 UTC | #24609</small>]]></content>
-  </entry>
-  <entry>
-    <title>Gold Becomes the Top U.S. Export</title>
-    <link href="https://www.numismaticnews.net/gold-now-top-u-s-export" rel="alternate" />
-    <id>https://www.numismaticnews.net/gold-now-top-u-s-export::v239</id>
-    <published>2026-10-17T18:53:00+00:00</published>
-    <updated>2026-10-17T18:53:00+00:00</updated>
-    <media:thumbnail url="https://www.tendata.com/uploadfile/ueditor/image/202603/1774580806947e99.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.numismaticnews.net/gold-now-top-u-s-export">numismaticnews.net</a> | <a href="https://fred.stlouisfed.org/series/IEAXGG">source</a> | <a href="https://news.ycombinator.com/item?id=50132870">hacker news</a></small></p><hr/><p>Nonmonetary gold exports have surpassed traditional leading U.S. commodities like oil and pharmaceuticals. This trend began in October 2025 and saw potentially record-breaking export volumes in February 2026.</p><p>Most shipments are destined for Switzerland, Hong Kong, and the United Kingdom. Analysts speculate the surge is driven by foreign central banks, specifically China, as they diversify holdings away from U.S. Treasury debt and into gold assets.</p><p><img src="https://www.tendata.com/uploadfile/ueditor/image/202603/1774580806947e99.jpg" /></p><hr/><small>18 Oct 2026, 01:11 UTC | #24626</small>]]></content>
-  </entry>
-  <entry>
-    <title>Replit CEO Announces End of Primary Anthropic Partnership</title>
-    <link href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/::v239</id>
-    <published>2026-10-17T18:49:00+00:00</published>
-    <updated>2026-10-17T18:49:00+00:00</updated>
-    <media:thumbnail url="https://cdn-cms.claudeapi.com/blog/images/anthropic-enterprise-pricing-analysis-2026--image-4l83.png" />
-    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/">techcrunch.com</a></small></p><hr/><p>Replit CEO Amjad Masad announced that the AI coding platform is ending its primary partnership with Anthropic, designating OpenAI's ChatGPT as the default model for Replit Agent. Masad cited cost, performance benchmarks, and a stronger partnership with OpenAI as the reasons for the shift, noting that OpenAI's models performed better in internal tests for building applications from scratch.</p><p>While Replit will remain model agnostic and allow users to manually select Anthropic’s Claude models, the move to an OpenAI default is expected to significantly reduce the company's expenditure with Anthropic. This strategic shift occurs as Replit expands its business model, with the CEO reporting that enterprise and B2B contracts now account for more than half of the company's total revenue.</p><p><img src="https://cdn-cms.claudeapi.com/blog/images/anthropic-enterprise-pricing-analysis-2026--image-4l83.png" /></p><hr/><small>18 Oct 2026, 00:49 UTC | #24608</small>]]></content>
   </entry>
 </feed>

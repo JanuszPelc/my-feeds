@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-21T20:31:00+00:00</updated>
+  <updated>2026-10-22T14:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Owlchemy Labs Announces XR Arcade Blaster Hyper Visor for XREAL Aura</title>
+    <link href="https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release" rel="alternate" />
+    <id>https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release::v240</id>
+    <published>2026-10-22T14:41:00+00:00</published>
+    <updated>2026-10-22T14:41:00+00:00</updated>
+    <media:thumbnail url="https://resource.xreal.com/www-xreal-com/images/aura/aura_blog_coverImage.jpeg" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release">gamedeveloper.com</a> | <a href="https://www.gamespress.com/Owlchemy-Labs-Reveals-Hyper-Visor-a-Reality-Bending-Arcade-Blaster-Lau">source</a></small></p><hr/><p>Game studio Owlchemy Labs has announced Hyper Visor, an original extended reality arcade blaster developed as a launch title for the XREAL Aura headset. Priced at $1.99 on the Google Play Store, the game tasks players with using hand tracking and virtual sunglasses to clear eight levels inspired by traditional genres like rhythm games and side-scrolling shooters.</p><p>The release marks a strategic pivot for the Google-owned studio toward lightweight spatial computing hardware designed to overcome public adoption barriers associated with bulky VR headsets. By targeting hardware that resembles everyday eyewear, Owlchemy aims to evaluate whether form factor improvements can help expand the commercial viability of XR gaming.</p><p><img src="https://resource.xreal.com/www-xreal-com/images/aura/aura_blog_coverImage.jpeg" /></p><hr/><small>22 Oct 2026, 20:06 UTC | #25138</small>]]></content>
+  </entry>
   <entry>
     <title>Xbox Cloud Gaming Introduces Pay-As-You-Go Playtime Bundles</title>
     <link href="https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing" rel="alternate" />
