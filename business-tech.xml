@@ -3,9 +3,27 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-21T19:19:00+00:00</updated>
+  <updated>2026-10-21T22:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Blackstone's Jas Khaira Says AI Infrastructure Debt Fears Are Overblown</title>
+    <link href="https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/::v240</id>
+    <published>2026-10-21T22:52:00+00:00</published>
+    <updated>2026-10-21T22:52:00+00:00</updated>
+    <media:thumbnail url="https://news-images.dhan.co/coreweave-bond-yields-top-16-signaling-distress-ai-debt-market.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/">techcrunch.com</a></small></p><hr/><p>Blackstone's Jas Khaira, head of the firm's AI-focused Blackstone N1 unit, argues that concerns regarding the massive debt accumulation in AI infrastructure are exaggerated. He maintains that credit risk is mitigated because financing for neoclouds is often secured by high-value GPU collateral and long-term contracts from creditworthy customers like Microsoft and Meta.</p><p>This comes amid market jitters caused by rising interest rates and the significant debt loads of providers like CoreWeave, which has reached approximately $50 billion. While some investors worry about the stability of GPU-backed collateral, Blackstone continues to expand its AI involvement through compute financing and joint ventures like "Ode with Anthropic."</p><p><img src="https://news-images.dhan.co/coreweave-bond-yields-top-16-signaling-distress-ai-debt-market.jpg" /></p><hr/><small>22 Oct 2026, 03:59 UTC | #25085</small>]]></content>
+  </entry>
+  <entry>
+    <title>Mark Zuckerberg Considers Leaving California Over Proposed Billionaire Tax</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-21/zuckerberg-weighs-leaving-california-if-billionaire-tax-passes" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-21/zuckerberg-weighs-leaving-california-if-billionaire-tax-passes::v240</id>
+    <published>2026-10-21T21:24:00+00:00</published>
+    <updated>2026-10-21T21:24:00+00:00</updated>
+    <media:thumbnail url="https://s.yimg.com/ny/api/res/1.2/Tck5vp3OpYCf0A4LQrr6WQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYzOTtjZj13ZWJw/https://media.zenfs.com/en/ny_post_articles_869/39af9247bf798f6964a7791ec7e73e45" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-21/zuckerberg-weighs-leaving-california-if-billionaire-tax-passes">bloomberg.com</a> | <a href="https://www.sec.gov/Archives/edgar/data/1326801/000162828026066710/meta-20261021.htm">source</a></small></p><hr/><p>Mark Zuckerberg is considering leaving California if voters approve a proposed one-time 5% tax on billionaires. The measure, known as Proposition 40, is scheduled for the November 2026 general election.</p><p>A regulatory filing indicates the tax could result in a multibillion-dollar liability for Zuckerberg based on his stock ownership. Meta has entered into an agreement to issue new shares to the CEO in an effort to maintain his residency in the same jurisdiction as the company's headquarters.</p><p><img src="https://s.yimg.com/ny/api/res/1.2/Tck5vp3OpYCf0A4LQrr6WQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYzOTtjZj13ZWJw/https://media.zenfs.com/en/ny_post_articles_869/39af9247bf798f6964a7791ec7e73e45" /></p><hr/><small>22 Oct 2026, 03:56 UTC | #25075</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Ordered to Pay $25 Billion in New Mexico Data Privacy Case</title>
     <link href="https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html" rel="alternate" />
