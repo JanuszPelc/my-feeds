@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-22T17:41:00+00:00</updated>
+  <updated>2026-10-22T17:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Managing Script Dependencies With Nix</title>
+    <link href="https://entropicthoughts.com/python-dependencies-with-nix" rel="alternate" />
+    <id>https://entropicthoughts.com/python-dependencies-with-nix::v240</id>
+    <published>2026-10-22T17:45:00+00:00</published>
+    <updated>2026-10-22T17:45:00+00:00</updated>
+    <media:thumbnail url="https://static.coggle.it/diagram/ZQcqBCssZN_KdC8U/thumbnail?mtime=1696646011405" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://entropicthoughts.com/python-dependencies-with-nix">entropicthoughts.com</a> | <a href="https://lobste.rs/s/oeehgs/script_dependencies_with_nix">discussion</a></small></p><hr/><p>Nix flakes can be used to manage dependencies for standalone scripts, such as Python scripts requiring third-party libraries, without relying on traditional virtual environments or risking breakage from package managers.</p><p>By utilizing Nix writers and specifying explicit package versions via flake.nix, developers can package scripts into reproducible binaries that run consistently across different Linux distributions. The approach extends beyond Python to support other languages and system utilities.</p><p><img src="https://static.coggle.it/diagram/ZQcqBCssZN_KdC8U/thumbnail?mtime=1696646011405" /></p><hr/><small>22 Oct 2026, 23:32 UTC | #25189</small>]]></content>
+  </entry>
   <entry>
     <title>Hacker News User Apologizes for Unknowingly Breaking PHP RCE Embargo</title>
     <link href="https://news.ycombinator.com/item?id=50193416" rel="alternate" />
