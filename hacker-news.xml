@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-22T17:40:00+00:00</updated>
+  <updated>2026-10-22T17:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Hacker News User Apologizes for Unknowingly Breaking PHP RCE Embargo</title>
+    <link href="https://news.ycombinator.com/item?id=50193416" rel="alternate" />
+    <id>https://news.ycombinator.com/item?id=50193416::v240</id>
+    <published>2026-10-22T17:41:00+00:00</published>
+    <updated>2026-10-22T17:41:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxtrgB91EfxP3n8PoGrwg9zA-LBJYsXmf5qEgCOL7_p7ibY0XSUcxbDJAXeYMOc3kkINyHCylBOfil6ImjF66pxr0696wMP4yr6JotPTRJS178exTFObF6l_4_TlZ49BMxHg_5-AZXBh4/w1200-h630-p-k-no-nu/Copy+of+The+OSS+CVD+Process.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=50193416">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=50193416">hacker news</a></small></p><hr/><p>A Hacker News user published a post apologizing for prematurely disclosing upcoming PHP remote code execution vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. The early leak disrupted coordinated disclosure schedules and increased the workload for project maintainers and security teams managing the incident.</p><p>The disclosure triggered widespread community debate concerning the mechanics of vulnerability embargos, how sensitive information propagates outside restricted channels, and criticism directed at maintainers regarding patch availability timelines.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxtrgB91EfxP3n8PoGrwg9zA-LBJYsXmf5qEgCOL7_p7ibY0XSUcxbDJAXeYMOc3kkINyHCylBOfil6ImjF66pxr0696wMP4yr6JotPTRJS178exTFObF6l_4_TlZ49BMxHg_5-AZXBh4/w1200-h630-p-k-no-nu/Copy+of+The+OSS+CVD+Process.jpg" /></p><hr/><small>22 Oct 2026, 23:07 UTC | #25187</small>]]></content>
+  </entry>
   <entry>
     <title>Max Bernstein Explores Object Shapes and Inline Caches</title>
     <link href="https://bernsteinbear.com/blog/object-shapes/" rel="alternate" />
