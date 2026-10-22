@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-22T17:44:00+00:00</updated>
+  <updated>2026-10-22T18:44:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Microsoft AI Diagnostic System Outperforms Doctors in Complex Case Study</title>
+    <link href="https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/::v240</id>
+    <published>2026-10-22T18:44:00+00:00</published>
+    <updated>2026-10-22T18:44:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-1.48.09-PM.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/">techcrunch.com</a> | <a href="https://microsoft.ai/news/building-medical-superintelligence/">source</a></small></p><hr/><p>Microsoft’s MAI-DxO diagnostic system, which coordinates multiple AI agents to simulate a clinical panel, correctly diagnosed complex medical cases 83% of the time in a simulation based on New England Journal of Medicine cases. By comparison, generalist physicians working individually with reference materials achieved an accuracy rate of 36% on the same complex cases.</p><p>Revealed in a study published in Science, the system achieved its highest accuracy when paired with OpenAI’s GPT-5 and GPT-5.5 models, though performance gains varied when applied to emergency department cases. Microsoft AI CEO Mustafa Suleyman noted that the work is part of a broader push toward medical superintelligence, with upcoming foundational healthcare models planned in partnership with the Mayo Clinic and Beth Israel Deaconess Medical Center.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-1.48.09-PM.png?w=680" /></p><hr/><small>22 Oct 2026, 23:54 UTC | #25170</small>]]></content>
+  </entry>
   <entry>
     <title>METR and Redwood Research Find Vulnerabilities in OpenAI Monitoring System</title>
     <link href="https://www.reuters.com/business/ai-safety-group-metr-finds-flaws-openais-internal-monitoring-system-2026-10-22/" rel="alternate" />
