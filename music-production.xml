@@ -696,13 +696,4 @@
     <updated>2026-10-17T06:17:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/peterc/coopiano">github.com</a> | <a href="https://lobste.rs/s/qcjvlw/coopiano_physically_modelled_piano">discussion</a></small></p><hr/><p>Coopiano is a C++17 physically modelled piano synthesizer that generates audio by simulating physical components—including hammers, strings, and soundboards—rather than using recorded samples. The software supports offline WAV rendering on multiple platforms and provides live MIDI input functionality for macOS users.</p><p>Released under the MIT license, the project requires no third-party libraries or external sample packs. While the current version is in an early development stage focused on offline rendering and macOS live playback, the developer is also prototyping AU and VST plugin versions.</p><hr/><small>17 Oct 2026, 16:50 UTC | #24583</small>]]></content>
   </entry>
-  <entry>
-    <title>SnowTec Releases Probe Free Plug-in Analyzer</title>
-    <link href="https://www.kvraudio.com/news/snowtec-releases-probe---free-plug-in-analyzer-vst3-au-69169?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69169" rel="alternate" />
-    <id>https://www.kvraudio.com/news/snowtec-releases-probe---free-plug-in-analyzer-vst3-au-69169?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69169::v239</id>
-    <published>2026-10-17T06:06:00+00:00</published>
-    <updated>2026-10-17T06:06:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/probe-kvr.jpg" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/snowtec-releases-probe---free-plug-in-analyzer-vst3-au-69169?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69169">kvraudio.com</a></small></p><hr/><p>SnowTec has released Probe, a free analyzer for audio plug-ins on macOS and Windows. It measures frequency response, phase, harmonics, aliasing, intermodulation, dynamics, impulse response, CPU load, and other processing characteristics.</p><p>Probe is available as a standalone application and as VST3/AU plug-ins for macOS or VST3 for Windows. It includes two six-slot chains, A/B null testing, live updates, and seven correctness checks for comparing plug-in behavior.</p><p><img src="https://static.kvraudio.com/i/b/probe-kvr.jpg" /></p><hr/><small>17 Oct 2026, 16:42 UTC | #24589</small>]]></content>
-  </entry>
 </feed>
