@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Railway Discloses Security Incident Involving Environment Variables</title>
+    <link href="https://blog.railway.com/p/security-disclosure-wednesday-october-21st" rel="alternate" />
+    <id>https://blog.railway.com/p/security-disclosure-wednesday-october-21st::v240</id>
+    <published>2026-10-22T00:06:00+00:00</published>
+    <updated>2026-10-22T00:06:00+00:00</updated>
+    <media:thumbnail url="https://cdn.sanity.io/images/r000fwn3/production/9e719128503794c18e22a5c4b34006c18ab5c443-1975x1110.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://blog.railway.com/p/security-disclosure-wednesday-october-21st">blog.railway.com</a> | <a href="https://news.ycombinator.com/item?id=50188228">hacker news</a></small></p><hr/><p>Cloud deployment platform Railway disclosed that an unauthorized third party may have accessed encrypted customer environment variables and obtained decrypted contents, including sensitive data like API keys and database credentials. In response to the breach, the company temporarily paused all platform deployments while investigating the incident.</p><p>Railway believes the breach is part of a broader campaign targeting platform companies to compromise upstream AI inference providers. The company is urging all users to immediately rotate their stored environment variables and private registry credentials as a precautionary measure.</p><p><img src="https://cdn.sanity.io/images/r000fwn3/production/9e719128503794c18e22a5c4b34006c18ab5c443-1975x1110.png" /></p><hr/><small>22 Oct 2026, 07:17 UTC | #25090</small>]]></content>
+  </entry>
+  <entry>
     <title>Recent PHP Vulnerabilities Are Difficult to Exploit</title>
     <link href="https://eliastaylor.com/noexploit/" rel="alternate" />
     <id>https://eliastaylor.com/noexploit/::v240</id>
