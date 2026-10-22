@@ -1116,29 +1116,4 @@
     <media:thumbnail url="https://www.linuxeasy.org/wp-content/uploads/2026/05/ubuntu-26.10-1024x547.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html">lists.ubuntu.com</a> | <a href="https://ubuntu.com/blog/canonical-releases-ubuntu-26-10-stonking-stingray">source</a> | <a href="https://lobste.rs/s/61ujum/ubuntu_26_10_stonking_stingray_released">discussion</a> | <a href="https://news.ycombinator.com/item?id=50102423">hacker news</a></small></p><hr/><p>Ubuntu 26.10, codenamed “Stonking Stingray,” is now available with Rust-based coreutils, post-quantum-ready package signing, expanded TPM-backed disk encryption, Microsoft Entra ID integration, Linux kernel 7.3, RISC-V desktop images, and amd64v3 installation images.</p><p>The release also includes GNOME 51, locally processed Myna speech-to-text, updated developer toolchains, accelerated AI workload support, and refreshed official flavors. Ubuntu 26.10 receives nine months of maintenance updates, and Ubuntu 26.04 users who track all releases can upgrade automatically.</p><p><img src="https://www.linuxeasy.org/wp-content/uploads/2026/05/ubuntu-26.10-1024x547.jpg" /></p><hr/><small>17 Oct 2026, 16:18 UTC | #24584</small>]]></content>
   </entry>
-  <entry>
-    <title>Mull Offers Plain-Text Wikis with Editor Tooling</title>
-    <link href="https://github.com/stepchowfun/mull" rel="alternate" />
-    <id>https://github.com/stepchowfun/mull::v239</id>
-    <published>2026-10-17T01:19:00+00:00</published>
-    <updated>2026-10-17T01:19:00+00:00</updated>
-    <media:thumbnail url="https://user-images.githubusercontent.com/4428120/44914290-2fe8e000-ad06-11e8-83c1-94515012f462.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/stepchowfun/mull">github.com</a> | <a href="https://lobste.rs/s/xcacrh/mull_note_taking_with_language_server">discussion</a></small></p><hr/><p>Mull manages a wiki stored in a single plain-text file, using linked pages rather than directories for organization. Its Visual Studio Code and Cursor extension provides syntax highlighting, autocomplete, previews, diagnostics, formatting, refactoring, and language-server features.</p><p>The tool also links and validates files stored beside the wiki, supports synchronized page portals, runs user scripts inside formatted blocks, and offers command-line commands for checking, formatting, and querying wikis. It is available for macOS, Linux, and Windows, with installation through binaries, Cargo, or editor extensions.</p><p><img src="https://user-images.githubusercontent.com/4428120/44914290-2fe8e000-ad06-11e8-83c1-94515012f462.png" /></p><hr/><small>17 Oct 2026, 16:14 UTC | #24582</small>]]></content>
-  </entry>
-  <entry>
-    <title>Marginalia Index Port to C++ Reaches Integrity Testing</title>
-    <link href="https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend" rel="alternate" />
-    <id>https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend::v239</id>
-    <published>2026-10-17T01:18:00+00:00</published>
-    <updated>2026-10-17T01:18:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend">lobste.rs</a> | <a href="https://lobste.rs/s/hounpx/what_are_you_doing_this_weekend">discussion</a></small></p><hr/><p>The author is translating Marginalia’s Java inverted-index backing structure to C++, with the port now ready for initial integrity tests. The work remains in progress and focuses on improving code expressiveness while preserving the implementation’s behavior.</p><p>The existing Java test suite can likely be reused to exercise corner cases. The author also highlights C++20’s std::span as a useful fit for code that operates largely on contiguous memory.</p><hr/><small>17 Oct 2026, 16:11 UTC | #24581</small>]]></content>
-  </entry>
-  <entry>
-    <title>Andrew Kelley Explains Concurrency and Async I/O in Zig</title>
-    <link href="https://www.youtube.com/watch?v=5zIOfBLQ3U4" rel="alternate" />
-    <id>https://www.youtube.com/watch?v=5zIOfBLQ3U4::v239</id>
-    <published>2026-10-17T01:17:00+00:00</published>
-    <updated>2026-10-17T01:17:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=5zIOfBLQ3U4">youtube.com</a> | <a href="https://softwareyoucanlove.ca/talks/getting-canceled/">source</a> | <a href="https://lobste.rs/s/tty7hm/getting_canceled">discussion</a></small></p><hr/><p>Andrew Kelley’s talk examines how CPU hardware, interrupts, threads, caches, and operating-system scheduling provide concurrency, and why parallel programming introduces fundamental complexity. He uses these concepts to frame the design of Zig’s new standard-library I/O API and the goal of combining reusable code with efficient use of available hardware concurrency.</p><p>The talk distinguishes physical parallelism from concurrency simulated through threads, then covers data races, atomic operations, false sharing, use-after-free errors, and deadlocks. It argues that contention is inherent to concurrent systems rather than merely a result of poor software design, making the material relevant to systems programmers working on Zig and asynchronous I/O.</p><hr/><small>17 Oct 2026, 16:07 UTC | #24579</small>]]></content>
-  </entry>
 </feed>

@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-21T19:31:00+00:00</updated>
+  <updated>2026-10-21T20:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Opposable Launches Tool for AI Agents to Control Smartphones</title>
+    <link href="https://www.theregister.com/ai-and-ml/2026/10/21/reach-new-heights-of-laziness-by-burning-tokens-to-let-an-ai-tap-your-smartphone-screen-for-you/5304567" rel="alternate" />
+    <id>https://www.theregister.com/ai-and-ml/2026/10/21/reach-new-heights-of-laziness-by-burning-tokens-to-let-an-ai-tap-your-smartphone-screen-for-you/5304567::v240</id>
+    <published>2026-10-21T20:14:00+00:00</published>
+    <updated>2026-10-21T20:14:00+00:00</updated>
+    <media:thumbnail url="https://img.freepik.com/premium-photo/robot-using-mobile-phone-smartphone-cellphone-ai-chatbot-showing-cell-screen_361816-10540.jpg?w=2000" />
+    <content type="html"><![CDATA[<p><small>The Register AI/ML | <a href="https://www.theregister.com/ai-and-ml/2026/10/21/reach-new-heights-of-laziness-by-burning-tokens-to-let-an-ai-tap-your-smartphone-screen-for-you/5304567">theregister.com</a> | <a href="https://getopposable.com/blog/computer-use-on-the-phone">source</a> | <a href="https://news.ycombinator.com/item?id=50180190">hacker news</a></small></p><hr/><p>Opposable has released a tool designed to allow AI agents to interact with smartphone screens by performing actions such as tapping, swiping, and typing. The Android implementation utilizes accessibility services and the GUI-Owl 1.5 2B vision-language model to interpret screenshots and execute commands, while iPhone control requires a companion computer.</p><p>While intended to automate mobile workflows, early demonstrations indicate high latency and significant token costs for simple tasks. The tool also introduces security risks, as the ability to operate the device is tied directly to the user's authentication token.</p><p><img src="https://img.freepik.com/premium-photo/robot-using-mobile-phone-smartphone-cellphone-ai-chatbot-showing-cell-screen_361816-10540.jpg?w=2000" /></p><hr/><small>22 Oct 2026, 01:15 UTC | #25070</small>]]></content>
+  </entry>
   <entry>
     <title>Walmart Launches Agent Gateway and Agent Profiles for AI Shopping Agents</title>
     <link href="https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/" rel="alternate" />
@@ -380,13 +389,5 @@
     <updated>2026-10-17T08:22:00+00:00</updated>
     <media:thumbnail url="https://pbs.twimg.com/media/HGpEAoya8AAWLhu.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">huggingface.co</a> | <a href="https://news.ycombinator.com/item?id=50129045">hacker news</a></small></p><hr/><p>DeepSeek-V4.1-Flash-1017 is a minor update to the DeepSeek-V4.1-Flash model that improves performance in reasoning, coding, agentic tasks, and visual benchmarks. The update also reduces task execution time and output length to optimize the performance-cost ratio for agentic workflows.</p><p>The release includes a Python reference implementation for prompt encoding and the `deepseek-recipe` Rust library for production environments. The model supports a 1-million-token context window and is released under the MIT License.</p><p><img src="https://pbs.twimg.com/media/HGpEAoya8AAWLhu.jpg" /></p><hr/><small>17 Oct 2026, 16:58 UTC | #24576</small>]]></content>
-  </entry>
-  <entry>
-    <title>Paper Instruments Releases Ultramarine 1 Flash</title>
-    <link href="https://www.paperinstruments.com/ultramarine" rel="alternate" />
-    <id>https://www.paperinstruments.com/ultramarine::v239</id>
-    <published>2026-10-17T01:14:00+00:00</published>
-    <updated>2026-10-17T01:14:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.paperinstruments.com/ultramarine">paperinstruments.com</a> | <a href="https://news.ycombinator.com/item?id=50106747">hacker news</a></small></p><hr/><p>Paper Instruments has released Ultramarine 1 Flash, an open model for professional knowledge work in finance, law, consulting, and operations. The company says it delivers Fable-class performance at $0.13 per task and generates 6.5% fewer tokens than its GLM-5.3 Flash base model across six benchmarks.</p><p>The model is designed to produce client-ready Excel workbooks, PowerPoint decks, Word documents, and work within business systems. Paper Instruments lists API pricing of $0.15 per million input tokens, $0.03 for cached input, and $0.50 for output, with evaluation results based on its internal PI Knowledge Work benchmark.</p><hr/><small>17 Oct 2026, 15:58 UTC | #24575</small>]]></content>
   </entry>
 </feed>
