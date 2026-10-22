@@ -380,13 +380,4 @@
     <updated>2026-10-17T01:14:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.paperinstruments.com/ultramarine">paperinstruments.com</a> | <a href="https://news.ycombinator.com/item?id=50106747">hacker news</a></small></p><hr/><p>Paper Instruments has released Ultramarine 1 Flash, an open model for professional knowledge work in finance, law, consulting, and operations. The company says it delivers Fable-class performance at $0.13 per task and generates 6.5% fewer tokens than its GLM-5.3 Flash base model across six benchmarks.</p><p>The model is designed to produce client-ready Excel workbooks, PowerPoint decks, Word documents, and work within business systems. Paper Instruments lists API pricing of $0.15 per million input tokens, $0.03 for cached input, and $0.50 for output, with evaluation results based on its internal PI Knowledge Work benchmark.</p><hr/><small>17 Oct 2026, 15:58 UTC | #24575</small>]]></content>
   </entry>
-  <entry>
-    <title>Neural Network Layers as Associative Memory Stores</title>
-    <link href="https://alexwang.ai/posts/associative-memory/" rel="alternate" />
-    <id>https://alexwang.ai/posts/associative-memory/::v239</id>
-    <published>2026-10-16T23:50:00+00:00</published>
-    <updated>2026-10-16T23:50:00+00:00</updated>
-    <media:thumbnail url="https://thecscience.com/wp-content/uploads/2026/01/Associative-Memory-Cell-1024x683.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://alexwang.ai/posts/associative-memory/">alexwang.ai</a> | <a href="https://news.ycombinator.com/item?id=50122878">hacker news</a></small></p><hr/><p>Neural network layers, including linear maps, Multi-Layer Perceptrons (MLPs), and self-attention, function as associative memory stores through key-value retrieval. By analyzing the interference-to-signal ratio, the capacity of these stores can be quantified, demonstrating how architectural changes—from linear maps to non-linear gating—increase the amount of information a model can reliably recall.</p><p>Standard outer product memory is limited by the dimensionality of the key space, but capacity can be improved through optimal linear regression or non-linear activations such as ReLU. The transition to self-attention moves from fixed-weight to non-parametric memory, offering a mechanism for potentially unbounded information storage.</p><p><img src="https://thecscience.com/wp-content/uploads/2026/01/Associative-Memory-Cell-1024x683.jpg" /></p><hr/><small>17 Oct 2026, 07:29 UTC | #24571</small>]]></content>
-  </entry>
 </feed>
