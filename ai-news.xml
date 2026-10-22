@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-21T20:14:00+00:00</updated>
+  <updated>2026-10-21T20:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Anthropic Launches Claude Duet Proactive AI Agent</title>
+    <link href="https://claude.com/product/claude-duet" rel="alternate" />
+    <id>https://claude.com/product/claude-duet::v240</id>
+    <published>2026-10-21T20:30:00+00:00</published>
+    <updated>2026-10-21T20:30:00+00:00</updated>
+    <media:thumbnail url="https://images.macrumors.com/article-new/2026/10/claude-duet-scaled.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://claude.com/product/claude-duet">claude.com</a> | <a href="https://news.ycombinator.com/item?id=50186037">hacker news</a></small></p><hr/><p>Powered by Opus 5.5, the agent is designed to handle tasks such as scheduling meetings, building dashboards, and managing business workflows like drafting payroll or unpaid invoice reminders. It is currently available to Claude Pro and Max subscribers in the United States via a waitlist.</p><p>Claude Duet operates through a standalone app for iOS and Android or via the web, allowing for interaction through text or voice. It provides morning briefings and flags urgent items while requiring manual approval for sensitive operations like payments or messaging. During this preview phase, background operations contribute to the user's model usage limits.</p><p><img src="https://images.macrumors.com/article-new/2026/10/claude-duet-scaled.jpg" /></p><hr/><small>22 Oct 2026, 02:06 UTC | #25092</small>]]></content>
+  </entry>
   <entry>
     <title>Opposable Launches Tool for AI Agents to Control Smartphones</title>
     <link href="https://www.theregister.com/ai-and-ml/2026/10/21/reach-new-heights-of-laziness-by-burning-tokens-to-let-an-ai-tap-your-smartphone-screen-for-you/5304567" rel="alternate" />
