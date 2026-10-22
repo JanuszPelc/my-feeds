@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-22T15:46:00+00:00</updated>
+  <updated>2026-10-22T17:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>OpenAI, Anthropic, and Nvidia Report Record Lobbying Spending in Q3</title>
+    <link href="https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records" rel="alternate" />
+    <id>https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records::v240</id>
+    <published>2026-10-22T17:46:00+00:00</published>
+    <updated>2026-10-22T17:46:00+00:00</updated>
+    <media:thumbnail url="https://memeburn.com/wp-content/uploads/2026/06/nvidia-lobbying-spending-has-exploded.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records">theverge.com</a></small></p><hr/><p>Anthropic, OpenAI, and Nvidia each reported their highest-spending lobbying quarters between July and September, according to federal disclosures. Nvidia led the group by spending $2.2 million, closely followed by Anthropic at $2.1 million and OpenAI at $1.5 million, reflecting an intensified effort by artificial intelligence firms to shape federal policy.</p><p>The increased expenditures coincide with heightened engagement between tech executives and Washington officials, including discussions surrounding AI safety frameworks, export controls, and data center energy costs. As lawmakers prepare for shifting congressional control following midterm elections, major AI developers continue to expand their political footprint alongside established technology companies like Apple and Google.</p><p><img src="https://memeburn.com/wp-content/uploads/2026/06/nvidia-lobbying-spending-has-exploded.jpeg" /></p><hr/><small>22 Oct 2026, 23:43 UTC | #25139</small>]]></content>
+  </entry>
   <entry>
     <title>Amanda Smith Faces Prison Over Fraudulent Cash App Account Opened in Her Name</title>
     <link href="https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html" rel="alternate" />
