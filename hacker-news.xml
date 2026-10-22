@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Recent PHP Vulnerabilities Are Difficult to Exploit</title>
+    <link href="https://eliastaylor.com/noexploit/" rel="alternate" />
+    <id>https://eliastaylor.com/noexploit/::v240</id>
+    <published>2026-10-21T23:58:00+00:00</published>
+    <updated>2026-10-21T23:58:00+00:00</updated>
+    <media:thumbnail url="https://www.pwndefend.com/wp-content/uploads/2026/10/image-1-768x1131.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://eliastaylor.com/noexploit/">eliastaylor.com</a> | <a href="https://news.ycombinator.com/item?id=50188948">hacker news</a></small></p><hr/><p>The recent PHP vulnerabilities, specifically CVE-2026-109618 and CVE-2026-109619, are not as easily exploitable as current hype and various online proofs-of-concept suggest. Many existing exploits fail to work on vanilla PHP installations and instead require additional server-side vulnerabilities, such as local-file-inclusion, to function.</p><p>Large language models (LLMs) are reportedly exacerbating the situation by generating incorrect exploit chains, leading to a surge of non-functional or overly specific proofs-of-concept on platforms like GitHub. This phenomenon creates a "Decision Schelling Point" where AI-generated errors become widely distributed and are mistaken for viable, universal exploits.</p><p><img src="https://www.pwndefend.com/wp-content/uploads/2026/10/image-1-768x1131.png" /></p><hr/><small>22 Oct 2026, 06:02 UTC | #25100</small>]]></content>
+  </entry>
+  <entry>
     <title>GitLab Patches Critical Unauthenticated RCE Vulnerability Affecting Multiple Versions</title>
     <link href="https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html" rel="alternate" />
     <id>https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html::v240</id>
