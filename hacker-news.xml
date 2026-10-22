@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>GitLab Patches Critical Unauthenticated RCE Vulnerability Affecting Multiple Versions</title>
+    <link href="https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html" rel="alternate" />
+    <id>https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html::v240</id>
+    <published>2026-10-21T23:54:00+00:00</published>
+    <updated>2026-10-21T23:54:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html">thehackernews.com</a> | <a href="https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/">source</a> | <a href="https://news.ycombinator.com/item?id=50185869">hacker news</a></small></p><hr/><p>GitLab has released security updates to address CVE-2026-110264, a critical vulnerability rated 10.0 on the CVSS scale. The flaw involves an integer overflow in the Onigmo regular-expression engine, which can allow an unauthenticated attacker to execute arbitrary code on a self-managed GitLab server.</p><p>The vulnerability affects self-managed installations across all versions released since 7.0 in 2014. While GitLab.com and GitLab Dedicated are already protected, administrators of self-managed instances should upgrade to the latest patched versions immediately to mitigate the risk.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg" /></p><hr/><small>22 Oct 2026, 05:23 UTC | #25081</small>]]></content>
+  </entry>
+  <entry>
     <title>mitmproxy Adds `--emudhra` Flag to Intercept Compromised eMudhra Certificates</title>
     <link href="https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b" rel="alternate" />
     <id>https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b::v240</id>
