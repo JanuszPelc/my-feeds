@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-21T17:47:00+00:00</updated>
+  <updated>2026-10-21T19:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Meta Ordered to Pay $25 Billion in New Mexico Data Privacy Case</title>
+    <link href="https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html::v240</id>
+    <published>2026-10-21T19:19:00+00:00</published>
+    <updated>2026-10-21T19:19:00+00:00</updated>
+    <media:thumbnail url="https://live-production.wcms.abc-cdn.net.au/9f67133f4f7cc669122d7ca6597e59ce?impolicy=wcms_crop_resize&amp;cropH=1988&amp;cropW=2991&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=575" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html">cnbc.com</a> | <a href="https://news.ycombinator.com/item?id=50184820">hacker news</a></small></p><hr/><p>A New Mexico judge has ordered Meta to pay $25 billion in penalties after a jury found the company liable for over 43 million violations of the state's unfair practices act. The ruling, which stems from the Cambridge Analytica scandal, found that Meta misled citizens regarding its data safeguarding and collection practices.</p><p>The penalty was reduced from an initial calculation of $219.5 billion. The court order mandates that a 15% annual interest rate will accrue on the fine until it is paid in full. New Mexico pursued this litigation independently after the state was excluded from a separate $17 billion federal settlement involving a coalition of state attorneys general.</p><p><img src="https://live-production.wcms.abc-cdn.net.au/9f67133f4f7cc669122d7ca6597e59ce?impolicy=wcms_crop_resize&cropH=1988&cropW=2991&xPos=0&yPos=0&width=862&height=575" /></p><hr/><small>22 Oct 2026, 00:39 UTC | #25059</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Acquires AI Music Startup Samplab</title>
     <link href="https://musictech.com/news/industry/why-did-apple-buy-ai-music-startup-samplab-and-how-might-this-impact-logic-pro/" rel="alternate" />
