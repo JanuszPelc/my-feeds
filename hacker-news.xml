@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Pentagon Establishes Technology Support Office for Covert Cyber Operations and Sabotage</title>
+    <link href="https://www.politico.com/news/2026/10/22/technology-support-office-dod-tech-spyware-sabotage-01100327" rel="alternate" />
+    <id>https://www.politico.com/news/2026/10/22/technology-support-office-dod-tech-spyware-sabotage-01100327::v240</id>
+    <published>2026-10-22T15:35:00+00:00</published>
+    <updated>2026-10-22T15:35:00+00:00</updated>
+    <media:thumbnail url="https://www.trendingtopics.eu/wp-content/uploads/2026/10/pentagon-aerial-tso-scaled-social.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/10/22/technology-support-office-dod-tech-spyware-sabotage-01100327">politico.com</a></small></p><hr/><p>The Pentagon has established the Technology Support Office (TSO), an elite agency tasked with executing covert cyberattacks, supply chain disruptions, and other operations to interfere with foreign technology projects.</p><p>Operating with minimal public documentation found only in obscure historical records and internal memos, the new unit reflects the Defense Department's intent to employ aggressive disruption tactics to counter foreign advancements threatening U.S. military superiority.</p><p><img src="https://www.trendingtopics.eu/wp-content/uploads/2026/10/pentagon-aerial-tso-scaled-social.jpg" /></p><hr/><small>22 Oct 2026, 20:30 UTC | #25151</small>]]></content>
+  </entry>
+  <entry>
     <title>Garmin Revamps and Reopens Connect Developer API Program With New Tiers</title>
     <link href="https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html" rel="alternate" />
     <id>https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html::v240</id>
@@ -1139,14 +1148,5 @@
     <updated>2026-10-18T01:24:00+00:00</updated>
     <media:thumbnail url="https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/propagation-diagram.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/">davepacheco.net</a> | <a href="https://lobste.rs/s/a0og2j/developing_for_debugging_2025">discussion</a></small></p><hr/><p>Oxide utilizes a "developing for debugging" approach to provide high-resolution observability within its Omicron control plane. Through the omdb debugger, the system's background tasks report granular, verifiable state information—including specific configuration versions and precise timestamps—instead of vague status messages.</p><p>This methodology enables operators to quickly determine if subsystems like DNS propagation are functioning correctly or to pinpoint the exact stage of a failure. This level of detailed observability also facilitates system testing, technical onboarding, and more confident communication during incident response.</p><p><img src="https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/propagation-diagram.png" /></p><hr/><small>18 Oct 2026, 04:26 UTC | #24631</small>]]></content>
-  </entry>
-  <entry>
-    <title>KDE Marks 30th Anniversary</title>
-    <link href="https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html" rel="alternate" />
-    <id>https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html::v239</id>
-    <published>2026-10-17T20:28:00+00:00</published>
-    <updated>2026-10-17T20:28:00+00:00</updated>
-    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip83NHuCPBMbENODlk7SUl8bDy6l1VBNv3ajBcw0o9VzuNtg3dlGjrm-aekZxs8VE8J1dCgoijQI_qwPd3dWN-2nQE8M6Jx8cAzT1X_e9XS1j3eJWU23ht2pgrlDjeX9s67hwa-GLIM_mxqtEbqvdSQXgqOKxTIfSCS6l9G59s4Jd75wwPSwc5rwz89okX/s2000/akademy-2006-dublin-group.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.cornelius-schumacher.de/2026/10/thirty-years-of-kde.html">blog.cornelius-schumacher.de</a> | <a href="https://lobste.rs/s/cgs07z/thirty_years_kde">discussion</a></small></p><hr/><p>The KDE project is marking its 30th anniversary with the premiere of a documentary covering its development history. The film traces the project's founding, early development, licensing disputes, and the transition through the KDE 4 era.</p><p>Recent momentum includes over one million euros in investment from the Sovereign Tech Fund and increased adoption on hardware like the Steam Deck. Strategic goals for 2026 focus on enterprise readiness, documentation, and software styling.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip83NHuCPBMbENODlk7SUl8bDy6l1VBNv3ajBcw0o9VzuNtg3dlGjrm-aekZxs8VE8J1dCgoijQI_qwPd3dWN-2nQE8M6Jx8cAzT1X_e9XS1j3eJWU23ht2pgrlDjeX9s67hwa-GLIM_mxqtEbqvdSQXgqOKxTIfSCS6l9G59s4Jd75wwPSwc5rwz89okX/s2000/akademy-2006-dublin-group.jpg" /></p><hr/><small>18 Oct 2026, 02:37 UTC | #24630</small>]]></content>
   </entry>
 </feed>
