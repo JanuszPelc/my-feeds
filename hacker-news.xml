@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>mitmproxy Adds `--emudhra` Flag to Intercept Compromised eMudhra Certificates</title>
+    <link href="https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b" rel="alternate" />
+    <id>https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b::v240</id>
+    <published>2026-10-21T23:52:00+00:00</published>
+    <updated>2026-10-21T23:52:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQE_fcDxZDuwHA/feedshare-shrink_800/feedshare-shrink_800/0/1687539133202?e=2147483647&amp;v=beta&amp;t=YyNwReKCrFOyD_9DCoq14C4Ds3lMjlXuhTZCGDZy6Oc" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b">github.com</a> | <a href="https://news.ycombinator.com/item?id=50189232">hacker news</a></small></p><hr/><p>mitmproxy has introduced a `--emudhra` command-line option to intercept traffic from clients that trust a compromised eMudhra intermediate certificate authority and its cross-signed root. This update includes the specific certificate chain to facilitate security testing and validation.</p><p>The update also expands support for both RSA and Elliptic Curve (EC) private keys within the tool's certificate and store management classes.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQE_fcDxZDuwHA/feedshare-shrink_800/feedshare-shrink_800/0/1687539133202?e=2147483647&v=beta&t=YyNwReKCrFOyD_9DCoq14C4Ds3lMjlXuhTZCGDZy6Oc" /></p><hr/><small>22 Oct 2026, 04:43 UTC | #25097</small>]]></content>
+  </entry>
+  <entry>
     <title>Google Publishes Rust Style Guide</title>
     <link href="https://google.github.io/styleguide/rustguide.html" rel="alternate" />
     <id>https://google.github.io/styleguide/rustguide.html::v240</id>
