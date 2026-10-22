@@ -1117,12 +1117,4 @@
     <updated>2026-10-17T09:42:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/home-assistant/home-assistant.io/issues/49314">github.com</a> | <a href="https://www.home-assistant.io/more-info/pwned-passwords/">source</a> | <a href="https://news.ycombinator.com/item?id=50124251">hacker news</a></small></p><hr/><p>A user has challenged a Home Assistant feature that scans configuration secrets to check for leaks against the "Have I Been Pwned" database. The user argued that performing these scans without explicit user opt-in constitutes a privacy violation. Developers clarified that the mechanism uses k-anonymity to protect user data, sending only the first five characters of a SHA-1 hash to the external service to ensure full passwords never leave the user's local system.</p><p>The debate highlights the tension between automated security auditing and user control over data transmission. Although the feature can be disabled via the command `ha security options --pwned=false`, the controversy underscores ongoing concerns regarding the default behavior of security-focused integrations in smart home ecosystems.</p><hr/><small>17 Oct 2026, 17:42 UTC | #24601</small>]]></content>
   </entry>
-  <entry>
-    <title>Folders Esoteric Programming Language</title>
-    <link href="https://danieltemkin.com/esolangs/folders" rel="alternate" />
-    <id>https://danieltemkin.com/esolangs/folders::v239</id>
-    <published>2026-10-17T06:18:00+00:00</published>
-    <updated>2026-10-17T06:18:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://danieltemkin.com/esolangs/folders">danieltemkin.com</a> | <a href="https://lobste.rs/s/norjho/folders_esoteric_language">discussion</a> | <a href="https://news.ycombinator.com/item?id=50114342">hacker news</a></small></p><hr/><p>Code is expressed through the containment and order of directories in this non-textual esoteric programming language. Functioning as a pure ordered tree, the language ignores folder names and determines specific commands or expressions based on the number of subfolders within a directory.</p><p>Designed for Windows, the language leverages the zero-byte storage footprint of empty folders to facilitate a "dematerialized" approach to coding. For data storage, the Folders FS system encodes information directly into folder names, potentially enabling infinite storage capacity.</p><hr/><small>17 Oct 2026, 16:52 UTC | #24585</small>]]></content>
-  </entry>
 </feed>
