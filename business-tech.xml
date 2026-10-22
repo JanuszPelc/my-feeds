@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-21T22:52:00+00:00</updated>
+  <updated>2026-10-22T02:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>General Motors Unveils OnStar AI Assistant and Autonomous Driving Roadmap</title>
+    <link href="https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/" rel="alternate" />
+    <id>https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/::v240</id>
+    <published>2026-10-22T02:01:00+00:00</published>
+    <updated>2026-10-22T02:01:00+00:00</updated>
+    <media:thumbnail url="https://media.wired.com/photos/6ad86aa949d6fa29506dfc96/master/w_1600%2Cc_limit/OnStar%2520AI%2520Assistant.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/">wired.com</a></small></p><hr/><p>General Motors announced a series of technology updates at its annual GM Forward event, highlighted by the introduction of an AI-powered assistant for its OnStar service. The new OnStar AI system will debut via an over-the-air update in the 2027 Cadillac Lyriq, offering conversational voice controls and deeper vehicle integration.</p><p>The automaker also outlined plans to accelerate vehicle development cycles and expand its "eyes-off" highway driving capabilities to more models starting with the 2028 Cadillac Escalade IQ. While GM envisions a future where autonomous features handle routine chores and errands, executives acknowledged that widespread deployment will introduce significant infrastructure and societal challenges.</p><p><img src="https://media.wired.com/photos/6ad86aa949d6fa29506dfc96/master/w_1600%2Cc_limit/OnStar%2520AI%2520Assistant.jpg" /></p><hr/><small>22 Oct 2026, 09:14 UTC | #25093</small>]]></content>
+  </entry>
   <entry>
     <title>Blackstone's Jas Khaira Says AI Infrastructure Debt Fears Are Overblown</title>
     <link href="https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/" rel="alternate" />
