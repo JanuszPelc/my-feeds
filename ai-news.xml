@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-22T15:36:00+00:00</updated>
+  <updated>2026-10-22T16:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Uber Rolls Out ChatGPT Work to All 30,000 Employees</title>
+    <link href="https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/::v240</id>
+    <published>2026-10-22T16:02:00+00:00</published>
+    <updated>2026-10-22T16:02:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQFNRTF0Me53ew/article-cover_image-shrink_720_1280/B4DZgs3xAgGsAI-/0/1753099534331?e=2147483647&amp;v=beta&amp;t=srRO4JZVgwaDFfHvu6ntMpGvRvtmalWYAm6N-2g5JlI" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/">techcrunch.com</a> | <a href="https://openai.com/index/uber-chatgpt-work-rollout/">source</a></small></p><hr/><p>Uber has expanded its partnership with OpenAI to deploy ChatGPT Work across its entire global workforce of approximately 30,000 employees. The company-wide rollout follows a preliminary pilot involving 1,000 employees across departments such as finance, operations, and product.</p><p>During the initial pilot, roughly 80% of early users were non-engineers who utilized the AI agent for tasks including data analysis, workflow optimization, and dashboard creation. Uber has not mandated specific use cases, instead encouraging teams to experiment and develop custom workflows while leadership evaluates productivity outcomes to guide future AI adoption.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQFNRTF0Me53ew/article-cover_image-shrink_720_1280/B4DZgs3xAgGsAI-/0/1753099534331?e=2147483647&v=beta&t=srRO4JZVgwaDFfHvu6ntMpGvRvtmalWYAm6N-2g5JlI" /></p><hr/><small>22 Oct 2026, 21:48 UTC | #25122</small>]]></content>
+  </entry>
   <entry>
     <title>Spotify Positions Itself as the Preferred Music Service for AI Agents</title>
     <link href="https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/" rel="alternate" />

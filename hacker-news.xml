@@ -7,6 +7,33 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Clayton Ramsey Develops Dumpster Cycle-Tracking Garbage Collector for Rust</title>
+    <link href="https://claytonwramsey.com/blog/dumpster/" rel="alternate" />
+    <id>https://claytonwramsey.com/blog/dumpster/::v240</id>
+    <published>2026-10-22T15:48:00+00:00</published>
+    <updated>2026-10-22T15:48:00+00:00</updated>
+    <media:thumbnail url="https://files.facepunch.com/paddy/20240502/rust_recyclers_safezone_01.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://claytonwramsey.com/blog/dumpster/">claytonwramsey.com</a> | <a href="https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023">discussion</a></small></p><hr/><p>Developer Clayton Ramsey has built and released "dumpster," a cycle-tracking garbage collection library designed for Rust. The crate extends standard reference-counted pointer mechanisms like `Rc` and `Arc` with a custom cycle-detection algorithm, enabling automatic memory management and cleanup for self-referential data structures.</p><p>Implementing the collector required solving several structural hurdles imposed by Rust's memory model, including undetectable moves, variable-sized types, and type erasure. To achieve practical performance, the library employs a visitor pattern for reference graph traversal, bulk-dropping to prevent recursive overhead, and an amortized dirty-set structure that handles potentially unreachable allocations efficiently in both single-threaded and concurrent contexts.</p><p><img src="https://files.facepunch.com/paddy/20240502/rust_recyclers_safezone_01.jpg" /></p><hr/><small>22 Oct 2026, 21:47 UTC | #25179</small>]]></content>
+  </entry>
+  <entry>
+    <title>Pwn.watch Tracks Live Security Incidents and Vulnerabilities</title>
+    <link href="https://pwn.watch/" rel="alternate" />
+    <id>https://pwn.watch/::v240</id>
+    <published>2026-10-22T15:47:00+00:00</published>
+    <updated>2026-10-22T15:47:00+00:00</updated>
+    <media:thumbnail url="https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Endpoint-Security/security-modules/advanced-reporting/images/art-security-incidents.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pwn.watch/">pwn.watch</a> | <a href="https://news.ycombinator.com/item?id=50195543">hacker news</a></small></p><hr/><p>Pwn.watch is a real-time security incident tracker that aggregates critical vulnerabilities, zero-days, supply-chain compromises, and patch statuses from public disclosures and advisories. The platform provides continuous visibility into active exploits and ongoing cybersecurity threats affecting major software platforms, cloud services, and enterprise infrastructure.</p><p>Designed for security professionals and administrators, the dashboard monitors severity-weighted metrics and tracks whether fixes or workarounds are available for each incident. By centralizing real-time advisories, the tool helps teams quickly identify unpatched flaws, evaluate exposure levels, and prioritize remediation efforts across complex software ecosystems.</p><p><img src="https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Endpoint-Security/security-modules/advanced-reporting/images/art-security-incidents.png" /></p><hr/><small>22 Oct 2026, 21:45 UTC | #25178</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple Introduces Made for iPhone Duo App Store Badge</title>
+    <link href="https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store" rel="alternate" />
+    <id>https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store::v240</id>
+    <published>2026-10-22T15:42:00+00:00</published>
+    <updated>2026-10-22T15:42:00+00:00</updated>
+    <media:thumbnail url="https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/10/Apple-iPhone-Duo-768x432.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store">theverge.com</a> | <a href="https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/">source</a></small></p><hr/><p>Apple is introducing a "Made for iPhone Duo" badge in the App Store to identify applications optimized for its new foldable iPhone. The badge will appear on product pages for apps designed to take advantage of the device's larger inner display, folding form factor, and split-screen capabilities.</p><p>Optimized apps include Netflix, Amazon Prime Video, Microsoft Word, Outlook, and Zoom, which utilize the folding design for split-view workflows and desktop-class features. Apple is also launching dedicated editorial collections for the device, alongside app updates rolling out throughout the year.</p><p><img src="https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/10/Apple-iPhone-Duo-768x432.jpg" /></p><hr/><small>22 Oct 2026, 21:41 UTC | #25150</small>]]></content>
+  </entry>
+  <entry>
     <title>Pentagon Establishes Technology Support Office for Covert Cyber Operations and Sabotage</title>
     <link href="https://www.politico.com/news/2026/10/22/technology-support-office-dod-tech-spyware-sabotage-01100327" rel="alternate" />
     <id>https://www.politico.com/news/2026/10/22/technology-support-office-dod-tech-spyware-sabotage-01100327::v240</id>
