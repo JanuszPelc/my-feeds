@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-21T22:55:00+00:00</updated>
+  <updated>2026-10-22T07:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>WorldTUI Simulates Terminal Operations via 360M-Parameter Model</title>
+    <link href="https://simedw.com/2026/10/21/world-model-terminal/" rel="alternate" />
+    <id>https://simedw.com/2026/10/21/world-model-terminal/::v240</id>
+    <published>2026-10-22T07:03:00+00:00</published>
+    <updated>2026-10-22T07:03:00+00:00</updated>
+    <media:thumbnail url="https://simedw.com/2026/10/21/world-model-terminal/images/worldtui-cowsay.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://simedw.com/2026/10/21/world-model-terminal/">simedw.com</a> | <a href="https://news.ycombinator.com/item?id=50190363">hacker news</a></small></p><hr/><p>A 360M-parameter language model named WorldTUI simulates a terminal environment without an underlying shell or filesystem. It predicts character grid updates and cursor movements in response to user keystrokes, allowing it to mimic the behavior of applications like Vim, Tmux, and Python REPLs.</p><p>Based on Qwen2.5-Coder-0.5B, the model utilizes parallel row decoding and speculative decoding to achieve high-speed performance in web browsers via WebGPU. While it demonstrates an ability to maintain state and "memory" within its simulated world, it remains a predictive model rather than a functional computing environment.</p><p><img src="https://simedw.com/2026/10/21/world-model-terminal/images/worldtui-cowsay.jpg" /></p><hr/><small>22 Oct 2026, 17:10 UTC | #25114</small>]]></content>
+  </entry>
   <entry>
     <title>Meta's Muse AI App Reaches 10 Million Users</title>
     <link href="https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10" rel="alternate" />

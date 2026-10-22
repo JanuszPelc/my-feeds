@@ -3,9 +3,63 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-22T06:47:00+00:00</updated>
+  <updated>2026-10-22T17:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>eMudhra to Exit Global SSL/TLS Certificate Business</title>
+    <link href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business" rel="alternate" />
+    <id>https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business::v240</id>
+    <published>2026-10-22T13:34:00+00:00</published>
+    <updated>2026-10-22T13:34:00+00:00</updated>
+    <media:thumbnail url="https://media.fortuneindia.com/fortune-india/2025-11-28/e6c6x11p/7.jpg?w=640&amp;auto=format,compress&amp;q=80" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">emudhra.com</a> | <a href="https://news.ycombinator.com/item?id=50195110">hacker news</a></small></p><hr/><p>eMudhra Limited has announced its decision to voluntarily exit the global SSL/TLS certificate business following a security incident involving weak private keys across several intermediate certificate authorities. The company stated that the move follows heightened scrutiny from browser providers and government regulators regarding the certificate generation flaw.</p><p>While the company is winding down its international SSL/TLS operations, which account for roughly one percent of its global revenue, its core enterprise PKI, digital signature, and authentication solutions remain fully operational. eMudhra plans to assist affected customers with free certificate replacements and maintain revocation and status services until all issued certificates expire or are replaced.</p><p><img src="https://media.fortuneindia.com/fortune-india/2025-11-28/e6c6x11p/7.jpg?w=640&auto=format,compress&q=80" /></p><hr/><small>22 Oct 2026, 17:52 UTC | #25112</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sammy Hajhamid Releases ns2jb Software Jailbreak for Nintendo Switch 2</title>
+    <link href="https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/" rel="alternate" />
+    <id>https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/::v240</id>
+    <published>2026-10-22T08:02:00+00:00</published>
+    <updated>2026-10-22T08:02:00+00:00</updated>
+    <media:thumbnail url="https://pepsipu.com/_astro/mario-kart-results-1-2560.B5lJitnR.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/">pepsipu.com</a> | <a href="https://news.ycombinator.com/item?id=50192536">hacker news</a></small></p><hr/><p>Security researcher Sammy Hajhamid has released ns2jb, the first software-only, tethered jailbreak for the Nintendo Switch 2 targeting firmware 23.0.1. The exploit chain enables arbitrary native code execution, homebrew development, game modifications, and save backups without requiring physical hardware modifications.</p><p>The exploit leverages a vulnerability chain starting from backward-compatible execution through the SmileBASIC application to achieve initial code execution, followed by memory corruption bugs in the built-in fs filesystem sysmodule and loader services to bypass system protections and execute code with elevated permissions.</p><p><img src="https://pepsipu.com/_astro/mario-kart-results-1-2560.B5lJitnR.webp" /></p><hr/><small>22 Oct 2026, 17:44 UTC | #25113</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nix Flakes Explained</title>
+    <link href="https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/" rel="alternate" />
+    <id>https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/::v240</id>
+    <published>2026-10-22T07:08:00+00:00</published>
+    <updated>2026-10-22T07:08:00+00:00</updated>
+    <media:thumbnail url="https://docs.progsoc.org/blog/assets/images/2023/12/image-4.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/">lwn.net</a> | <a href="https://wiki.nixos.org/wiki/Flakes">source</a> | <a href="https://lobste.rs/s/wno4h3/understanding_nix_flakes">discussion</a></small></p><hr/><p>This experimental feature of the Nix package manager enables self-contained and reproducible software builds by using `flake.nix` files to define inputs and outputs. Through the use of a `flake.lock` file to pin specific dependency revisions, the tool allows developers to maintain consistent environments and toolchains across diverse Linux distributions.</p><p>Widespread adoption is evident, as nearly 79% of NixOS users reported using the feature in a 2025 survey. Despite this popularity, the feature remains experimental in the upstream Nix project, leading to ongoing community discussions regarding its design and its formal path toward stabilization.</p><p><img src="https://docs.progsoc.org/blog/assets/images/2023/12/image-4.png" /></p><hr/><small>22 Oct 2026, 17:28 UTC | #25119</small>]]></content>
+  </entry>
+  <entry>
+    <title>Using a Lookup Table to Correct an Approximation</title>
+    <link href="https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation" rel="alternate" />
+    <id>https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation::v240</id>
+    <published>2026-10-22T07:07:00+00:00</published>
+    <updated>2026-10-22T07:07:00+00:00</updated>
+    <media:thumbnail url="https://pic3.zhimg.com/50/v2-cf57d0ef93ccc45214a0e787ffc11e17_720w.jpg?source=1940ef5c" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation">corsix.org</a> | <a href="https://lobste.rs/s/os7brs/using_lookup_table_correct">discussion</a></small></p><hr/><p>The article examines techniques for optimizing enum-to-string conversion functions in C, moving from naive switch statements to pointer tables, offset tables, and finally a combination of linear approximation with a smaller correction table.</p><p>By replacing a full offset table with a linear multiplier and a compact signed correction table, developers can significantly reduce memory overhead and pointer relocations, illustrating a general optimization pattern where fast coarse approximations are refined via small correction lookups.</p><p><img src="https://pic3.zhimg.com/50/v2-cf57d0ef93ccc45214a0e787ffc11e17_720w.jpg?source=1940ef5c" /></p><hr/><small>22 Oct 2026, 17:22 UTC | #25118</small>]]></content>
+  </entry>
+  <entry>
+    <title>FulcrumSec Publishes 10.6 TB Data Leak Details from PingCAP TiDB Cloud</title>
+    <link href="https://fulcrumsec.vg/pingcap/" rel="alternate" />
+    <id>https://fulcrumsec.vg/pingcap/::v240</id>
+    <published>2026-10-22T07:04:00+00:00</published>
+    <updated>2026-10-22T07:04:00+00:00</updated>
+    <media:thumbnail url="https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2023/05/30/PingCAP-PrivateLink-TiDB-1.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fulcrumsec.vg/pingcap/">fulcrumsec.vg</a> | <a href="https://news.ycombinator.com/item?id=50173716">hacker news</a></small></p><hr/><p>Security group FulcrumSec has published details of a massive 10.6 terabyte data exfiltration from PingCAP's TiDB Cloud managed database service. The breach allegedly exposed millions of files, customer SQL statements, billing records, internal Jira tickets, and source code across a multi-month intrusion.</p><p>The compromised data includes sensitive production credentials and customer connection strings left exposed in support tickets and repositories. While PingCAP has acknowledged unauthorized access to internal systems via stolen service credentials, the full scope of the leaked enterprise and customer data highlights severe multi-tenant isolation and visibility failures.</p><p><img src="https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2023/05/30/PingCAP-PrivateLink-TiDB-1.png" /></p><hr/><small>22 Oct 2026, 17:16 UTC | #25115</small>]]></content>
+  </entry>
+  <entry>
+    <title>Microsoft Attributes ConnectWise Breach to China-Linked Hackers Using ARTEX AI Tool</title>
+    <link href="https://www.reuters.com/technology/chinese-linked-hackers-compromise-connectwise-target-hundreds-global-attack-2026-10-21/" rel="alternate" />
+    <id>https://www.reuters.com/technology/chinese-linked-hackers-compromise-connectwise-target-hundreds-global-attack-2026-10-21/::v240</id>
+    <published>2026-10-22T07:00:00+00:00</published>
+    <updated>2026-10-22T07:00:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQG-LmVHsoTLjw/article-cover_image-shrink_720_1280/B4DZyuXjtNHEAI-/0/1772451938080?e=2147483647&amp;v=beta&amp;t=Wgdu3EFEoVqclPq0HyTEA0glK5pi5ABvchu0RakjIcA" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/technology/chinese-linked-hackers-compromise-connectwise-target-hundreds-global-attack-2026-10-21/">reuters.com</a> | <a href="https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/">source</a> | <a href="https://news.ycombinator.com/item?id=50186138">hacker news</a></small></p><hr/><p>Microsoft disclosed that a China-aligned hacking group known as Storm-0940 used the ARTEX agentic AI penetration-testing framework to breach the ConnectWise Cloud Backup application. The supply chain compromise enabled widespread application credential abuse across Microsoft 365 environments.</p><p>The campaign targeted thousands of Microsoft 365 tenants and hundreds of organizations globally. Security researchers noted that the incident highlights the growing threat of threat actors weaponizing automated AI tools to scale sophisticated cyberattacks.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQG-LmVHsoTLjw/article-cover_image-shrink_720_1280/B4DZyuXjtNHEAI-/0/1772451938080?e=2147483647&v=beta&t=Wgdu3EFEoVqclPq0HyTEA0glK5pi5ABvchu0RakjIcA" /></p><hr/><small>22 Oct 2026, 17:03 UTC | #25103</small>]]></content>
+  </entry>
   <entry>
     <title>Examining the macOS GCC Binary</title>
     <link href="https://zoey-on-github.github.io/blog/macgcc.html" rel="alternate" />
@@ -173,9 +227,9 @@
     <link href="https://www.theverge.com/tech/1015028/iphone-duo-review" rel="alternate" />
     <id>https://www.theverge.com/tech/1015028/iphone-duo-review::v240</id>
     <published>2026-10-21T15:31:00+00:00</published>
-    <updated>2026-10-21T15:31:00+00:00</updated>
+    <updated>2026-10-22T17:40:00+00:00</updated>
     <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&amp;strip=all&amp;crop=16.666666666667%2C0%2C66.666666666667%2C100&amp;w=2400" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1015028/iphone-duo-review">theverge.com</a></small></p><hr/><p>Apple’s first foldable smartphone, the $1,999 iPhone Duo, features a landscape-first passport shape with a 5.4-inch glossy outer display and a 7.6-inch inner screen equipped with a nano-texture matte coating. The device replaces Face ID with a side-mounted Touch ID wake button and rearranges standard iOS interface elements to accommodate its unique width and dual-screen layout.</p><p>While early adopters and gadget enthusiasts will appreciate the novel form factor, the software remains in an unrefined first-generation state with awkward multitasking controls and cramped single-handed usage. Although the inner matte display successfully minimizes the visible crease, the unusual aspect ratio and software wonkiness make the device a high-priced gamble compared to traditional smartphones.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400" /></p><hr/><small>21 Oct 2026, 21:28 UTC | #25004</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1015028/iphone-duo-review">theverge.com</a> | <a href="https://news.ycombinator.com/item?id=50189055">hacker news</a></small></p><hr/><p>Apple’s first foldable smartphone, the $1,999 iPhone Duo, features a landscape-first passport shape with a 5.4-inch glossy outer display and a 7.6-inch inner screen equipped with a nano-texture matte coating. The device replaces Face ID with a side-mounted Touch ID wake button and rearranges standard iOS interface elements to accommodate its unique width and dual-screen layout.</p><p>While early adopters and gadget enthusiasts will appreciate the novel form factor, the software remains in an unrefined first-generation state with awkward multitasking controls and cramped single-handed usage. Although the inner matte display successfully minimizes the visible crease, the unusual aspect ratio and software wonkiness make the device a high-priced gamble compared to traditional smartphones.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400" /></p><hr/><small>21 Oct 2026, 21:28 UTC | #25004</small>]]></content>
   </entry>
   <entry>
     <title>ZLS 0.17.0 Released</title>
@@ -1084,38 +1138,5 @@
     <updated>2026-10-17T18:22:00+00:00</updated>
     <media:thumbnail url="https://kennedn.com/blog/posts/glitching/coolrunner_in_xbox.webp" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kennedn.com/blog/posts/glitching/">kennedn.com</a> | <a href="https://lobste.rs/s/wceg2u/it_took_me_nine_years_hack_my_xbox_360">discussion</a> | <a href="https://news.ycombinator.com/item?id=50070661">hacker news</a></small></p><hr/><p>Fault injection allows for the bypass of Xbox 360 secure boot by targeting the CPU's reset signal with a precise, sub-microsecond pulse. Using a Matrix CoolRunner modchip to glitch the `mr` (move register) instruction can cause the CPU to misexecute commands, such as forcing a zero into a destination register, which facilitates arbitrary code execution and circumvents Microsoft's signature verification.</p><p>This side-channel attack vector is becoming more prevalent as hardware-backed secure boot becomes standard in devices like the ESP32 and Apple AirTag. The availability of low-cost, high-precision microcontrollers like the Raspberry Pi Pico has lowered the barrier to entry, enabling complex tasks like NAND dumping and JTAG programming with much greater ease than the specialized equipment used in previous years.</p><p><img src="https://kennedn.com/blog/posts/glitching/coolrunner_in_xbox.webp" /></p><hr/><small>18 Oct 2026, 00:37 UTC | #24618</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rust's Compatibility with Agentic Development</title>
-    <link href="https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/" rel="alternate" />
-    <id>https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/::v239</id>
-    <published>2026-10-17T18:17:00+00:00</published>
-    <updated>2026-10-17T18:17:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/">smallcultfollowing.com</a> | <a href="https://lobste.rs/s/vvtzdj/what_agents_mean_for_rust_vice_versa">discussion</a> | <a href="https://news.ycombinator.com/item?id=50084416">hacker news</a></small></p><hr/><p>Rust is uniquely well-suited for agentic development and LLM-driven coding due to its performance-tuning capabilities and strong type system. The language's ability to allow fine-grained control over memory and execution enables AI agents to effectively optimize code, while its rigorous type system provides essential guardrails to keep agents from introducing logic errors or undefined behavior.</p><p>Future language design in the age of agents may shift focus from simple type checking to formal proof systems. This evolution could allow developers to use provers to ensure that code—including traditionally unsafe blocks—is mathematically sound and incapable of causing undefined behavior. The author also suggests that high-level modeling languages and improved interface-implementation separation will be necessary to bridge the gap between human intent and machine-authored code.</p><hr/><small>18 Oct 2026, 00:13 UTC | #24612</small>]]></content>
-  </entry>
-  <entry>
-    <title>Using LLMs to Write Both Code and Tests</title>
-    <link href="https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your" rel="alternate" />
-    <id>https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your::v239</id>
-    <published>2026-10-17T14:08:00+00:00</published>
-    <updated>2026-10-17T14:08:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your">lobste.rs</a> | <a href="https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your">discussion</a></small></p><hr/><p>The author advocates for using Large Language Models (LLMs) to generate both implementation code and unit tests. To avoid the production of tautological or over-engineered code, the author recommends steering models with specific rules to ensure tests remain simple, deterministic, and descriptive of failure modes.</p><p>The proposed methodology involves a "triangulation" method where the LLM reasons between a specification and either the implementation or the test to verify correctness. Additionally, the author suggests using LLMs to manage the Red/Green cycles in Test-Driven Development (TDD) to ensure that code failures accurately indicate the nature of errors.</p><hr/><small>17 Oct 2026, 18:47 UTC | #24606</small>]]></content>
-  </entry>
-  <entry>
-    <title>llmspeed.dev Provides LLM Inference Speed Estimates for Hardware and Models</title>
-    <link href="https://llmspeed.dev/" rel="alternate" />
-    <id>https://llmspeed.dev/::v239</id>
-    <published>2026-10-17T14:06:00+00:00</published>
-    <updated>2026-10-17T14:06:00+00:00</updated>
-    <media:thumbnail url="https://mustafa.net/wp-content/uploads/2026/04/llm-image-1.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://llmspeed.dev/">llmspeed.dev</a> | <a href="https://news.ycombinator.com/item?id=50127979">hacker news</a></small></p><hr/><p>llmspeed.dev provides estimated tokens per second and time-to-first-token (TTFT) metrics for running large language models (LLMs) on specific hardware. These figures are based on community-sourced benchmarks or projected from hardware specifications to help users simulate model performance before purchasing components.</p><p>The database includes extensive coverage for NVIDIA RTX, AMD Radeon, Intel Arc, and Apple Silicon hardware. It also tracks performance for numerous model architectures, including Llama, Gemma, Qwen, and DeepSeek.</p><p><img src="https://mustafa.net/wp-content/uploads/2026/04/llm-image-1.png" /></p><hr/><small>17 Oct 2026, 18:22 UTC | #24605</small>]]></content>
-  </entry>
-  <entry>
-    <title>Lingua Franca Provides Deterministic Coordination for Concurrent and Distributed Systems</title>
-    <link href="https://www.lf-lang.org/" rel="alternate" />
-    <id>https://www.lf-lang.org/::v239</id>
-    <published>2026-10-17T14:04:00+00:00</published>
-    <updated>2026-10-17T14:04:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.lf-lang.org/">lf-lang.org</a> | <a href="https://lobste.rs/s/srao9u/intuitive_concurrent_programming_any">discussion</a> | <a href="https://news.ycombinator.com/item?id=50103255">hacker news</a></small></p><hr/><p>Lingua Franca is a coordination language designed for creating predictable, deterministic, and time-sensitive concurrent or distributed programs. Its reactor-oriented paradigm eliminates race conditions and manual synchronization by construction, allowing for the composition of reactive components without the traditional overhead of thread management or message-passing middleware.</p><p>The system is polyglot, allowing the core functional logic within reactors to be written in C, C++, Python, TypeScript, or Rust. Developed through research at UC Berkeley and involving several international academic institutions, the framework aims to simplify the transition from single-node to distributed architectures.</p><hr/><small>17 Oct 2026, 18:06 UTC | #24604</small>]]></content>
   </entry>
 </feed>

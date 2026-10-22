@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-21T17:51:00+00:00</updated>
+  <updated>2026-10-22T11:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Tantrum Audio Announces NEXUS Hardware DSP Room Correction Processor</title>
+    <link href="https://musictech.com/news/gear/tantrum-audio-nexus/" rel="alternate" />
+    <id>https://musictech.com/news/gear/tantrum-audio-nexus/::v240</id>
+    <published>2026-10-22T11:52:00+00:00</published>
+    <updated>2026-10-22T11:52:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Nexus-2@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/tantrum-audio-nexus/">musictech.com</a> | <a href="https://tantrumaudio.co.uk/nexus">source</a></small></p><hr/><p>Tantrum Audio has introduced NEXUS, a compact hardware DSP unit designed to handle room correction, EQ, crossover management, and time alignment for studio monitoring systems. Operating independently of the host computer once configured, the processor roots multiple audio sources—including a DAW, an artist's laptop, and external playback devices—into a single time-aligned system.</p><p>The unit features a 0.85ms processing latency, a 120 dB noise floor, and comprehensive I/O options including balanced TRS, stereo aux, coaxial S/PDIF, and USB audio playback up to 96kHz. Configured via Tantrum's Omnissiah software with no license fee, NEXUS is available now for preorder priced at £429, with shipping scheduled to begin on 17 November.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Nexus-2@2000x1500.jpg" /></p><hr/><small>22 Oct 2026, 17:50 UTC | #25137</small>]]></content>
+  </entry>
+  <entry>
+    <title>GForce Software Offers Axxess and M-Tron Select 2 Plugins for Free</title>
+    <link href="https://bedroomproducersblog.com/2026/10/22/gforce-axxess-mtron-free/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/22/gforce-axxess-mtron-free/::v240</id>
+    <published>2026-10-22T11:48:00+00:00</published>
+    <updated>2026-10-22T11:48:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/kr5qUWkWozE/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/22/gforce-axxess-mtron-free/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/10/22/gforce-axxess-mtron-free/#comments">discussion</a></small></p><hr/><p>GForce Software has launched a redesigned website and is offering two of its virtual instruments, the Axxess synthesizer and the M-Tron Select 2 Mellotron plugin, as free downloads until December 1, 2026. The promotion coincides with a broader company update that introduces new optional subscription tiers alongside traditional perpetual licenses.</p><p>Axxess is an analog-modeling synthesizer based on the ARP Axxe, while M-Tron Select 2 is a tape-backed keyboard instrument derived from the M-Tron Pro legacy. Alongside the free software giveaway, GForce has also initiated a promotional sale featuring discounts of up to seventy percent on other premium synthesizer emulations.</p><p><img src="https://i.ytimg.com/vi/kr5qUWkWozE/maxresdefault.jpg" /></p><hr/><small>22 Oct 2026, 17:49 UTC | #25131</small>]]></content>
+  </entry>
   <entry>
     <title>Technics Announces SL-1210MKX Flagship DJ Turntable</title>
     <link href="https://musictech.com/news/gear/technics-sl-1210mkx/" rel="alternate" />
@@ -652,40 +670,5 @@
     <updated>2026-10-17T18:24:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/coverscreenshot20.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/terminalvst-updates-terminal-distortion-to-v2-0-with-modulation-and-new-interface-69178?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69178">kvraudio.com</a> | <a href="https://www.terminalvst.com/">source</a></small></p><hr/><p>TerminalVST has released version 2.0 of its Terminal distortion engine. The update adds a modulation section with two assignable LFOs that can function as audio envelope followers. A redesigned interface features an interactive oscilloscope for controlling drive and shaping the peak EQ curve.</p><p>The plugin includes six distortion circuits: Tanh, Germanium, Asymmetric, Wavefold, Red LED, and Blue LED. It is available for macOS and Windows for €39.99, and the update is free for existing users.</p><p><img src="https://static.kvraudio.com/i/b/coverscreenshot20.jpg" /></p><hr/><small>18 Oct 2026, 00:46 UTC | #24622</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nembrini Audio Offers Cali Reverb Guitar Amp Plugin for Free</title>
-    <link href="https://bedroomproducersblog.com/2026/10/17/nembrini-audio-cali-reverb-2/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/17/nembrini-audio-cali-reverb-2/::v239</id>
-    <published>2026-10-17T18:15:00+00:00</published>
-    <updated>2026-10-17T18:15:00+00:00</updated>
-    <media:thumbnail url="https://guitarclan.com/wp-content/uploads/2021/11/Amplitube-Mesa-Boogie.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/17/nembrini-audio-cali-reverb-2/">bedroomproducersblog.com</a> | <a href="https://www.nembriniaudio.com/pages/cali-reverb-free-promotion">source</a> | <a href="https://bedroomproducersblog.com/2026/10/17/nembrini-audio-cali-reverb-2/#respond">discussion</a></small></p><hr/><p>Nembrini Audio is offering its Cali Reverb guitar amp plugin for free until October 31, 2026. The plugin, which normally costs $137, models the Mesa Boogie Rectoverb 50-watt head and is available for macOS and Windows in VST2, VST3, AU, and AAX formats.</p><p>The software features two independent channels for clean/pushed and crunch/distortion tones, plus a cabinet section with eight cabinets and four microphone models. It also supports loading up to three custom impulse responses and includes integrated filters and a noise gate for signal processing.</p><p><img src="https://guitarclan.com/wp-content/uploads/2021/11/Amplitube-Mesa-Boogie.jpg" /></p><hr/><small>18 Oct 2026, 00:10 UTC | #24598</small>]]></content>
-  </entry>
-  <entry>
-    <title>Joakim Eriksson Releases Free M-VAVE FM-1 Emulator</title>
-    <link href="https://bedroomproducersblog.com/2026/10/17/m-wave-browser/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/17/m-wave-browser/::v239</id>
-    <published>2026-10-17T18:14:00+00:00</published>
-    <updated>2026-10-17T18:14:00+00:00</updated>
-    <media:thumbnail url="https://static.mercdn.net/item/detail/orig/photos/m15240545282_2.jpg?1782385590" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/17/m-wave-browser/">bedroomproducersblog.com</a> | <a href="https://github.com/joakimeriksson/fm1-emu">source</a> | <a href="https://bedroomproducersblog.com/2026/10/17/m-wave-browser/#respond">discussion</a></small></p><hr/><p>This free browser-based tool emulates the M-VAVE FM-1 synthesizer and its various custom firmwares. Users can explore different modes, such as Felucca, sloopDX, and virtual analog options like OberVave, by testing the device's processor, audio, and controls without owning the physical hardware.</p><p>The emulator supports MIDI input via Chrome, Edge, and Firefox, enabling interaction through computer keyboards, mice, or external MIDI controllers. A plugin version in AU, VST3, and CLAP formats is also available for Apple Silicon Macs, though it is currently unsigned.</p><p><img src="https://static.mercdn.net/item/detail/orig/photos/m15240545282_2.jpg?1782385590" /></p><hr/><small>18 Oct 2026, 00:08 UTC | #24586</small>]]></content>
-  </entry>
-  <entry>
-    <title>Samplicity Offers 50% Discount on Number Seven Reverb Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/10/17/samplicity-number-seven/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/17/samplicity-number-seven/::v239</id>
-    <published>2026-10-17T18:13:00+00:00</published>
-    <updated>2026-10-17T18:13:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/ZRLd4qHDc1Q/hqdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/17/samplicity-number-seven/">bedroomproducersblog.com</a> | <a href="https://samplicity.com/number-seven/">source</a></small></p><hr/><p>Samplicity is offering a 50% discount on its Number Seven reverb plugin, inspired by the Bricasti M7 hardware, through October 21, 2026. Using the coupon code SEVEN50, customers can purchase Number Seven Core for €84.50 or Number Seven Professional for €114.50.</p><p>The plugin utilizes true-stereo dynamic convolution and adjustable algorithmic modulation to simulate the character of the original hardware. The Professional edition expands the preset library to 222 captures and adds support for immersive audio layouts up to 9.1.6 Atmos.</p><p><img src="https://i.ytimg.com/vi/ZRLd4qHDc1Q/hqdefault.jpg" /></p><hr/><small>18 Oct 2026, 00:06 UTC | #24587</small>]]></content>
-  </entry>
-  <entry>
-    <title>Bedroom Producers Blog Launches Poll on AI in Music Software</title>
-    <link href="https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/::v239</id>
-    <published>2026-10-17T14:35:00+00:00</published>
-    <updated>2026-10-17T14:35:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/">bedroomproducersblog.com</a> | <a href="https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/#comments">discussion</a></small></p><hr/><p>Bedroom Producers Blog has launched a poll to collect reader feedback regarding the use of artificial intelligence in music software. The survey addresses topics such as AI-assisted plugin coding, text-to-audio generation, and machine learning models used for hardware emulation.</p><p>The results will inform the publication's editorial direction and how it filters AI-related content in its news section. The editor aims to use the survey data to distinguish high-quality machine learning tools from low-quality AI-generated software.</p><hr/><small>17 Oct 2026, 19:45 UTC | #24588</small>]]></content>
   </entry>
 </feed>
