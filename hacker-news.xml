@@ -7,6 +7,33 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Max Bernstein Explores Object Shapes and Inline Caches</title>
+    <link href="https://bernsteinbear.com/blog/object-shapes/" rel="alternate" />
+    <id>https://bernsteinbear.com/blog/object-shapes/::v240</id>
+    <published>2026-10-22T17:36:00+00:00</published>
+    <updated>2026-10-22T17:36:00+00:00</updated>
+    <media:thumbnail url="https://d3i71xaburhd42.cloudfront.net/f498e7dc68cf208c78ff6d20f2ac055a2a3d4dfb/2-Figure1-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://bernsteinbear.com/blog/object-shapes/">bernsteinbear.com</a> | <a href="https://lobste.rs/s/8rkyrl/objects_attributes_maps_oh_my">discussion</a> | <a href="https://news.ycombinator.com/item?id=50197692">hacker news</a></small></p><hr/><p>Max Bernstein examines how dynamic programming language runtimes optimize attribute lookups and storage using object shapes, hidden classes, and inline caches. By building on a simplified object model from CF Bolz-Tereick's work, the post walks through replacing slow hash-table lookups with structured maps and integer offsets.</p><p>The article demonstrates how inline caches leverage immutable map pointers to turn string-based property lookups into fast array indexing operations. It also explores the relationship between classes and shapes, highlighting how shared layouts can improve cache hit rates while presenting trade-offs for virtual machine implementors.</p><p><img src="https://d3i71xaburhd42.cloudfront.net/f498e7dc68cf208c78ff6d20f2ac055a2a3d4dfb/2-Figure1-1.png" /></p><hr/><small>22 Oct 2026, 22:27 UTC | #25182</small>]]></content>
+  </entry>
+  <entry>
+    <title>Exposing Only Share Links of Private Services with Caddy</title>
+    <link href="https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html" rel="alternate" />
+    <id>https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html::v240</id>
+    <published>2026-10-22T16:31:00+00:00</published>
+    <updated>2026-10-22T16:31:00+00:00</updated>
+    <media:thumbnail url="https://dqah5woojdp50.cloudfront.net/original/2X/3/3c5a1dd31b810bae00fad5ee614eec788788631c.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html">dataswamp.org</a> | <a href="https://lobste.rs/s/tu5ynp/expose_only_share_links_private_service">discussion</a></small></p><hr/><p>The article details a method for using the Caddy reverse proxy to expose only specific share links for self-hosted services like Immich and Nextcloud, while keeping the rest of the infrastructure hidden behind a VPN. By leveraging Caddy reverse proxy and response handling features to validate incoming keys or tokens against the backend service, unauthorized requests receive a 404 response.</p><p>This approach significantly reduces the public attack surface of self-hosted applications by preventing general access to login pages, administrative interfaces, and unauthenticated endpoints. Concrete configurations for Immich and Nextcloud demonstrate how strict regular expressions and route matching can isolate guest-accessible share functionality without requiring users to install VPN clients or create accounts.</p><p><img src="https://dqah5woojdp50.cloudfront.net/original/2X/3/3c5a1dd31b810bae00fad5ee614eec788788631c.png" /></p><hr/><small>22 Oct 2026, 22:25 UTC | #25181</small>]]></content>
+  </entry>
+  <entry>
+    <title>Cloudflare Reports Millions of PHP2Shell Exploit Attempts Following Disclosure</title>
+    <link href="https://x.com/eastdakota" rel="alternate" />
+    <id>https://x.com/eastdakota::v240</id>
+    <published>2026-10-22T16:04:00+00:00</published>
+    <updated>2026-10-22T16:04:00+00:00</updated>
+    <media:thumbnail url="https://media.thenextweb.com/2026/10/php2shell-dual-monitors-php-code-mac-studio-desk.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/eastdakota">x.com</a> | <a href="https://x.com/eastdakota/status/2113079352682570051">source</a></small></p><hr/><p>Cloudflare CEO Matthew Prince reported that malicious attempts to exploit the php2shell vulnerability across the company's network escalated rapidly following public disclosure. In the 10 hours leading up to the announcement, Cloudflare observed thousands of probing attempts, which surged to tens of thousands within 45 minutes and millions shortly thereafter.</p><p>The rapid spike in automated activity highlights the speed at which threat actors weaponize newly revealed software flaws. In response to the surge, Cloudflare deployed specialized web application firewall capabilities to evaluate requests and origin responses together, blocking matching payloads before they reached target servers.</p><p><img src="https://media.thenextweb.com/2026/10/php2shell-dual-monitors-php-code-mac-studio-desk.jpg" /></p><hr/><small>22 Oct 2026, 22:24 UTC | #25145</small>]]></content>
+  </entry>
+  <entry>
     <title>Clayton Ramsey Develops Dumpster Cycle-Tracking Garbage Collector for Rust</title>
     <link href="https://claytonwramsey.com/blog/dumpster/" rel="alternate" />
     <id>https://claytonwramsey.com/blog/dumpster/::v240</id>
