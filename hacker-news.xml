@@ -1098,22 +1098,4 @@
     <updated>2026-10-17T06:18:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://danieltemkin.com/esolangs/folders">danieltemkin.com</a> | <a href="https://lobste.rs/s/norjho/folders_esoteric_language">discussion</a> | <a href="https://news.ycombinator.com/item?id=50114342">hacker news</a></small></p><hr/><p>Code is expressed through the containment and order of directories in this non-textual esoteric programming language. Functioning as a pure ordered tree, the language ignores folder names and determines specific commands or expressions based on the number of subfolders within a directory.</p><p>Designed for Windows, the language leverages the zero-byte storage footprint of empty folders to facilitate a "dematerialized" approach to coding. For data storage, the Folders FS system encodes information directly into folder names, potentially enabling infinite storage capacity.</p><hr/><small>17 Oct 2026, 16:52 UTC | #24585</small>]]></content>
   </entry>
-  <entry>
-    <title>Go’s gopls Adds Interactive Refactoring Through a Proposed LSP Capability</title>
-    <link href="https://go.dev/blog/interactive-refactoring" rel="alternate" />
-    <id>https://go.dev/blog/interactive-refactoring::v239</id>
-    <published>2026-10-17T01:22:00+00:00</published>
-    <updated>2026-10-17T01:22:00+00:00</updated>
-    <media:thumbnail url="https://go.dev/blog/interactive-refactoring/no-question.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://go.dev/blog/interactive-refactoring">go.dev</a> | <a href="https://lobste.rs/s/wn293o/interactive_refactoring_gopls">discussion</a></small></p><hr/><p>The Go team has added interactive refactoring to gopls, allowing language servers to collect user input through dynamic, multi-step dialogs before applying code changes. Available in gopls v0.24.0 and the Go extension for VS Code v0.56.0, the feature supports configurable struct tags, interface implementation, and experimental declaration moves.</p><p>The capability is proposed as an extension to the Language Server Protocol so refactorings can work across editors and languages instead of relying on editor-specific dialogs. Planned directions include change-signature refactoring, interactive conflict resolution, and configurable non-editing commands such as profiled test runs.</p><p><img src="https://go.dev/blog/interactive-refactoring/no-question.png" /></p><hr/><small>17 Oct 2026, 16:28 UTC | #24580</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ubuntu 26.10 Stonking Stingray Released</title>
-    <link href="https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html" rel="alternate" />
-    <id>https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html::v239</id>
-    <published>2026-10-17T01:20:00+00:00</published>
-    <updated>2026-10-17T01:20:00+00:00</updated>
-    <media:thumbnail url="https://www.linuxeasy.org/wp-content/uploads/2026/05/ubuntu-26.10-1024x547.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html">lists.ubuntu.com</a> | <a href="https://ubuntu.com/blog/canonical-releases-ubuntu-26-10-stonking-stingray">source</a> | <a href="https://lobste.rs/s/61ujum/ubuntu_26_10_stonking_stingray_released">discussion</a> | <a href="https://news.ycombinator.com/item?id=50102423">hacker news</a></small></p><hr/><p>Ubuntu 26.10, codenamed “Stonking Stingray,” is now available with Rust-based coreutils, post-quantum-ready package signing, expanded TPM-backed disk encryption, Microsoft Entra ID integration, Linux kernel 7.3, RISC-V desktop images, and amd64v3 installation images.</p><p>The release also includes GNOME 51, locally processed Myna speech-to-text, updated developer toolchains, accelerated AI workload support, and refreshed official flavors. Ubuntu 26.10 receives nine months of maintenance updates, and Ubuntu 26.04 users who track all releases can upgrade automatically.</p><p><img src="https://www.linuxeasy.org/wp-content/uploads/2026/05/ubuntu-26.10-1024x547.jpg" /></p><hr/><small>17 Oct 2026, 16:18 UTC | #24584</small>]]></content>
-  </entry>
 </feed>
