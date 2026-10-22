@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
   <entry>
+    <title>Huawei Ascend 950PR and DeepSeek Software Stack Integration Analyzed</title>
+    <link href="https://newsletter.semianalysis.com/p/huawei-deepseek" rel="alternate" />
+    <id>https://newsletter.semianalysis.com/p/huawei-deepseek::v240</id>
+    <published>2026-10-22T13:38:00+00:00</published>
+    <updated>2026-10-22T13:38:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!bPeB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31b1b07c-129f-41be-a954-9806473f0d99_1764x1283.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://newsletter.semianalysis.com/p/huawei-deepseek">newsletter.semianalysis.com</a> | <a href="https://news.ycombinator.com/item?id=50189696">hacker news</a></small></p><hr/><p>DeepSeek has released Ascend support across six open-source repositories, including the TileLang compiler, DeepGEMM, DeepEP, TileKernels, FlashMLA, and DeepSelect, enabling native integration with Huawei's AI hardware stack. This collaboration bridges Huawei's lack of a frontier model lab to test its silicon with DeepSeek's urgent need for domestic compute alternatives.</p><p>Microbenchmark analysis of the Ascend 950PR reveals a dual-die architecture with distinct cube and vector core layouts, stacked HBM memory configurations, and dedicated AICPU management cores. While Huawei's hardware delivers high utilization rates on compute-bound matrix multiplications, software adaptations—such as unified KV-cache layouts for FlashMLA—are required to minimize memory transfer overhead and achieve hardware-level efficiency.</p><p><img src="https://substackcdn.com/image/fetch/$s_!bPeB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31b1b07c-129f-41be-a954-9806473f0d99_1764x1283.png" /></p><hr/><small>22 Oct 2026, 18:29 UTC | #25109</small>]]></content>
+  </entry>
+  <entry>
     <title>eMudhra to Exit Global SSL/TLS Certificate Business</title>
     <link href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business" rel="alternate" />
     <id>https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business::v240</id>
@@ -1129,14 +1138,5 @@
     <published>2026-10-17T18:52:00+00:00</published>
     <updated>2026-10-17T18:52:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pele.run/">pele.run</a> | <a href="https://github.com/obsidianmd/pele">source</a> | <a href="https://news.ycombinator.com/item?id=50132193">hacker news</a></small></p><hr/><p>Pele is a lightweight library that converts Mermaid syntax into SVG diagrams. It is significantly smaller and faster than Mermaid.js and uses CSS variables for easy, non-destructive theming.</p><p>Developed for the Obsidian note-taking app, the open-source tool supports all diagram types included in Mermaid 12.1.0. It is available as an npm package and features zero direct dependencies.</p><hr/><small>18 Oct 2026, 01:07 UTC | #24625</small>]]></content>
-  </entry>
-  <entry>
-    <title>Hacking the Xbox 360 via Fault Injection</title>
-    <link href="https://kennedn.com/blog/posts/glitching/" rel="alternate" />
-    <id>https://kennedn.com/blog/posts/glitching/::v239</id>
-    <published>2026-10-17T18:22:00+00:00</published>
-    <updated>2026-10-17T18:22:00+00:00</updated>
-    <media:thumbnail url="https://kennedn.com/blog/posts/glitching/coolrunner_in_xbox.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kennedn.com/blog/posts/glitching/">kennedn.com</a> | <a href="https://lobste.rs/s/wceg2u/it_took_me_nine_years_hack_my_xbox_360">discussion</a> | <a href="https://news.ycombinator.com/item?id=50070661">hacker news</a></small></p><hr/><p>Fault injection allows for the bypass of Xbox 360 secure boot by targeting the CPU's reset signal with a precise, sub-microsecond pulse. Using a Matrix CoolRunner modchip to glitch the `mr` (move register) instruction can cause the CPU to misexecute commands, such as forcing a zero into a destination register, which facilitates arbitrary code execution and circumvents Microsoft's signature verification.</p><p>This side-channel attack vector is becoming more prevalent as hardware-backed secure boot becomes standard in devices like the ESP32 and Apple AirTag. The availability of low-cost, high-precision microcontrollers like the Raspberry Pi Pico has lowered the barrier to entry, enabling complex tasks like NAND dumping and JTAG programming with much greater ease than the specialized equipment used in previous years.</p><p><img src="https://kennedn.com/blog/posts/glitching/coolrunner_in_xbox.webp" /></p><hr/><small>18 Oct 2026, 00:37 UTC | #24618</small>]]></content>
   </entry>
 </feed>

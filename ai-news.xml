@@ -400,12 +400,4 @@
     <updated>2026-10-18T06:51:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://api-docs.deepseek.com/guides/search/">api-docs.deepseek.com</a> | <a href="https://news.ycombinator.com/item?id=50138531">hacker news</a></small></p><hr/><p>DeepSeek has released two new raw JSON APIs, Search and Fetch, which allow AI agents and RAG applications to access live web content. The Search API utilizes an in-house search engine to provide structured query results, while the Fetch API retrieves single web pages and returns their content as Markdown.</p><p>Both APIs are priced at $0.75 per 1,000 successful requests and are subject to independent rate limits of 5 queries per second. Although server-side tool calls through Claude Code, Codex, or DeepSeek Harness are currently free, per-request billing for these integrations is set to begin on November 1, 2026.</p><hr/><small>18 Oct 2026, 15:16 UTC | #24651</small>]]></content>
   </entry>
-  <entry>
-    <title>Black Forest Labs Releases FLUX 3 Image Klein</title>
-    <link href="https://bfl.ai/blog/flux-3-image-klein" rel="alternate" />
-    <id>https://bfl.ai/blog/flux-3-image-klein::v239</id>
-    <published>2026-10-17T18:20:00+00:00</published>
-    <updated>2026-10-17T18:20:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://bfl.ai/blog/flux-3-image-klein">bfl.ai</a> | <a href="https://news.ycombinator.com/item?id=50123580">hacker news</a></small></p><hr/><p>Black Forest Labs has released FLUX 3 Image Klein, a 5.6B parameter open weights model for text-to-image generation, image editing, and multi-reference generation using up to 10 reference images. The model supports native 4K generation, pixel-perfect editing, and bounding box control for precise element placement. It is offered in a base model for fine-tuning and a step-distilled model designed for low-latency generation.</p><p>Optimized for consumer hardware, the model's INT8 build can run on NVIDIA GeForce RTX GPUs with 8GB of VRAM. The release includes FP8 and NVFP4 builds to support various computational requirements. Under the FLUX Kommunity License, the weights are available for free commercial use by individuals and companies with annual revenue under $5 million, while larger organizations must use self-hosted licensing or the BFL API.</p><hr/><small>18 Oct 2026, 00:30 UTC | #24616</small>]]></content>
-  </entry>
 </feed>

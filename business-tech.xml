@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-22T09:46:00+00:00</updated>
+  <updated>2026-10-22T14:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Quad9 to Withdraw Services from France Over Court-Ordered DNS Blocking</title>
+    <link href="https://quad9.net/news/blog/au-revoir-france/" rel="alternate" />
+    <id>https://quad9.net/news/blog/au-revoir-france/::v240</id>
+    <published>2026-10-22T14:33:00+00:00</published>
+    <updated>2026-10-22T14:33:00+00:00</updated>
+    <media:thumbnail url="https://quad9.net/news/blog/au-revoir-france/french-announcement-image.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://quad9.net/news/blog/au-revoir-france/">quad9.net</a> | <a href="https://news.ycombinator.com/item?id=50195959">hacker news</a></small></p><hr/><p>Quad9 announced it will stop providing its free recursive DNS and cybersecurity services in France starting November 24, 2026. The decision follows an unfavorable French court ruling in a case brought by beIN that ordered the nonprofit to block specific domain names linked to sports copyright infringement under threat of financial penalties.</p><p>Quad9 stated that compliance is technically unfeasible and conflicts with its mission of user privacy and neutral DNS resolution, as geolocation filtering is unreliable and global blocking would enforce French legal rulings worldwide. Facing numerous similar lawsuits in the country, the organization concluded that continuing operations under these legal conditions is untenable.</p><p><img src="https://quad9.net/news/blog/au-revoir-france/french-announcement-image.png" /></p><hr/><small>22 Oct 2026, 18:38 UTC | #25154</small>]]></content>
+  </entry>
   <entry>
     <title>Barclays to Cut 5,000 Jobs in AI Efficiency Drive</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-22/barclays-to-cut-5-000-jobs-as-ai-starts-creating-efficiency" rel="alternate" />
@@ -769,13 +778,5 @@
     <updated>2026-10-17T18:49:00+00:00</updated>
     <media:thumbnail url="https://cdn-cms.claudeapi.com/blog/images/anthropic-enterprise-pricing-analysis-2026--image-4l83.png" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/">techcrunch.com</a></small></p><hr/><p>Replit CEO Amjad Masad announced that the AI coding platform is ending its primary partnership with Anthropic, designating OpenAI's ChatGPT as the default model for Replit Agent. Masad cited cost, performance benchmarks, and a stronger partnership with OpenAI as the reasons for the shift, noting that OpenAI's models performed better in internal tests for building applications from scratch.</p><p>While Replit will remain model agnostic and allow users to manually select Anthropic’s Claude models, the move to an OpenAI default is expected to significantly reduce the company's expenditure with Anthropic. This strategic shift occurs as Replit expands its business model, with the CEO reporting that enterprise and B2B contracts now account for more than half of the company's total revenue.</p><p><img src="https://cdn-cms.claudeapi.com/blog/images/anthropic-enterprise-pricing-analysis-2026--image-4l83.png" /></p><hr/><small>18 Oct 2026, 00:49 UTC | #24608</small>]]></content>
-  </entry>
-  <entry>
-    <title>Matt Mullenweg Reverts Accessibility Improvements and Removes Core Committer Andrea Fercia from WordPress Roles</title>
-    <link href="https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project" rel="alternate" />
-    <id>https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project::v239</id>
-    <published>2026-10-17T18:21:00+00:00</published>
-    <updated>2026-10-17T18:21:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project">therepository.email</a> | <a href="https://core.trac.wordpress.org/ticket/50486">source</a> | <a href="https://lobste.rs/s/2mlkhe/matt_mullenweg_orders_accessibility">discussion</a> | <a href="https://news.ycombinator.com/item?id=50113348">hacker news</a></small></p><hr/><p>WordPress co-founder Matt Mullenweg has ordered the reversal of accessibility improvements to admin notices and removed long-time core committer Andrea Fercia from his WordPress.org positions and authority. The decision followed an attempt to add markup to make admin notices navigable for screen reader and keyboard users. Core committer Joe Dolson subsequently rolled back the changes, stating that the technical complexity of WordPress admin notices made the implementation premature and prone to errors regarding notice counts.</p><p>The move has prompted significant criticism from community members and collaborators, with some alleging the action is an attempt to bypass accessibility standards. This incident is the second in three months where Mullenweg has intervened in the work of the WordPress Accessibility Team, following a previous dispute over the team's authority. The event has intensified debates regarding the governance of the WordPress core and the potential for contributors to face marginalization for advocating for inclusive design.</p><hr/><small>18 Oct 2026, 00:32 UTC | #24617</small>]]></content>
   </entry>
 </feed>
