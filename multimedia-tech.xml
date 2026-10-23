@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-22T15:37:00+00:00</updated>
+  <updated>2026-10-22T21:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Why Prioritizing Core Teams in Game Development Risks Devaluing Other Developers</title>
+    <link href="https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs" rel="alternate" />
+    <id>https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs::v240</id>
+    <published>2026-10-22T21:31:00+00:00</published>
+    <updated>2026-10-22T21:31:00+00:00</updated>
+    <media:thumbnail url="https://nastyrodent.com/wp-content/uploads/2026/06/game-development-team-structure-indie-mid-core-aaa-scale-1024x683.png" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs">gamedeveloper.com</a></small></p><hr/><p>An opinion article examines how media coverage of distributed game development often attributes large-scale projects entirely to small core teams, inadvertently obscuring the contributions of hundreds of external and support developers. The piece analyzes recent discussions surrounding games like Star Wars: Galactic Racer and Clair Obscur: Expedition 33, where lean core staffing figures were highlighted while thousands of credited contributors went unmentioned.</p><p>The author argues that framing game success around an exclusive core group reinforces problematic industry hierarchies, impacts career visibility, and influences how investors and studios evaluate talent during funding and layoffs. By examining the linguistic choices in game journalism and marketing, the article calls for more precise terminology that acknowledges distributed development models without erasing the broader workforce.</p><p><img src="https://nastyrodent.com/wp-content/uploads/2026/06/game-development-team-structure-indie-mid-core-aaa-scale-1024x683.png" /></p><hr/><small>23 Oct 2026, 01:45 UTC | #25180</small>]]></content>
+  </entry>
   <entry>
     <title>Hazelight Studios Details the Design of Split Fiction's Final Level</title>
     <link href="https://www.youtube.com/watch?v=-pGFuhhceQA" rel="alternate" />

@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-22T21:25:00+00:00</updated>
+  <updated>2026-10-22T21:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Amazon Issues FTC Settlement Refunds Crediting President Trump's Federal Trade Commission</title>
+    <link href="https://www.politico.com/news/2026/10/21/amazon-trump-midterms-settlement-01130666" rel="alternate" />
+    <id>https://www.politico.com/news/2026/10/21/amazon-trump-midterms-settlement-01130666::v240</id>
+    <published>2026-10-22T21:30:00+00:00</published>
+    <updated>2026-10-22T21:30:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fNwCU.img?w=1731&amp;h=909&amp;m=4&amp;q=91" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.politico.com/news/2026/10/21/amazon-trump-midterms-settlement-01130666">politico.com</a></small></p><hr/><p>Amazon has begun distributing millions of consumer refund checks stemming from a 2025 settlement, with the payments explicitly credited to "President Trump's Federal Trade Commission." This marks the first time that a federal regulatory refund has been officially attributed to a sitting president.</p><p>The distribution stems from a landmark $2.5 billion settlement resolving allegations that Amazon deceptively enrolled customers in Prime subscriptions and complicated cancellation procedures. The timing of the payouts, arriving weeks before the midterm elections, has drawn widespread attention for its unprecedented political framing.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fNwCU.img?w=1731&h=909&m=4&q=91" /></p><hr/><small>23 Oct 2026, 01:44 UTC | #25173</small>]]></content>
+  </entry>
   <entry>
     <title>Matthew Cole Book Excerpt Details Jared Kushner Hacked Phone and Secret Financial Transfers</title>
     <link href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations" rel="alternate" />
