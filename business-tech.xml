@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-23T00:40:00+00:00</updated>
+  <updated>2026-10-23T00:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Andreessen Horowitz Rebrands a16z Crypto to a16z Frontier</title>
+    <link href="https://fortune.com/2026/10/22/venture-giant-andreessen-horowitz-crypto-name-blockchain-fund-rebrands-a16z-frontier/" rel="alternate" />
+    <id>https://fortune.com/2026/10/22/venture-giant-andreessen-horowitz-crypto-name-blockchain-fund-rebrands-a16z-frontier/::v240</id>
+    <published>2026-10-23T00:49:00+00:00</published>
+    <updated>2026-10-23T00:49:00+00:00</updated>
+    <media:thumbnail url="https://www.virtualassets.com/content/images/2024/05/a16z.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://fortune.com/2026/10/22/venture-giant-andreessen-horowitz-crypto-name-blockchain-fund-rebrands-a16z-frontier/">fortune.com</a> | <a href="https://a16zfrontier.com/posts/article/a16z-frontier">source</a></small></p><hr/><p>Andreessen Horowitz has rebranded its digital assets division, a16z Crypto, to a16z Frontier. The rebranding expands the mandate of its $2.2 billion fund to include artificial intelligence, robotics, and other emerging technologies alongside its existing blockchain focus.</p><p>Managing partner Chris Dixon stated the shift reflects the blurring distinction between crypto-native companies and other technology sectors. While the firm will continue to support crypto startups and advocate for regulation, the expansion aligns with recent strategic shifts by other prominent investors such as Paradigm and Haun Ventures.</p><p><img src="https://www.virtualassets.com/content/images/2024/05/a16z.jpg" /></p><hr/><small>23 Oct 2026, 06:21 UTC | #25188</small>]]></content>
+  </entry>
   <entry>
     <title>SpaceX In Talks to Access 80,000 Cell Sites for Wireless Network</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-22/spacex-in-talks-to-access-80-000-cell-sites-for-wireless-network" rel="alternate" />
@@ -809,22 +818,5 @@
     <published>2026-10-18T10:36:00+00:00</published>
     <updated>2026-10-18T10:36:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from">lobste.rs</a> | <a href="https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from">discussion</a></small></p><hr/><p>A Lobste.rs contributor argues that the "vibecoding" tag has become harmful to the community due to its increasing misuse. The author claims the tag has lost its specific meaning and is being applied to general LLM discussions, leading to the accidental filtering of high-quality technical posts and the departure of community members.</p><p>The "vibecoding" term describes a programming approach that relies heavily on AI-generated code. To address the loss of signal quality, the author suggests that the platform either split the tag into more precise categories or remove it entirely.</p><hr/><small>18 Oct 2026, 15:24 UTC | #24653</small>]]></content>
-  </entry>
-  <entry>
-    <title>RegLayer Reports Delays or Blocks for Over 47 US Data Center Projects</title>
-    <link href="https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c" rel="alternate" />
-    <id>https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c::v240</id>
-    <published>2026-10-18T06:16:00+00:00</published>
-    <updated>2026-10-18T06:16:00+00:00</updated>
-    <media:thumbnail url="https://www.pecva.org/wp-content/uploads/data_center_ashburn_loudoun_wod_trail_drone_4-10-23_credit_hugh_kenny_pec_34_1200x-jpg.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c">ft.com</a> | <a href="https://atlas.reglayer.ai/">source</a> | <a href="https://news.ycombinator.com/item?id=50138511">hacker news</a></small></p><hr/><p>RegLayer reports that more than 47 large US data center projects were delayed, withdrawn, or blocked in 2026. Additionally, analysts at Bernstein estimate that only approximately 35% of the planned US data center pipeline is currently considered credible.</p><p>These disruptions highlight growing tension between the rapid expansion of AI infrastructure and physical constraints, including power grid capacity, land availability, and local regulatory opposition. The findings suggest that the logistical and economic realities of infrastructure deployment are becoming significant bottlenecks for the sector's growth.</p><p><img src="https://www.pecva.org/wp-content/uploads/data_center_ashburn_loudoun_wod_trail_drone_4-10-23_credit_hugh_kenny_pec_34_1200x-jpg.webp" /></p><hr/><small>18 Oct 2026, 15:08 UTC | #24641</small>]]></content>
-  </entry>
-  <entry>
-    <title>CoreWeave Bond Yields Surpass 15% Amid AI Infrastructure Debt Concerns</title>
-    <link href="https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html?unlocked_article_code=1.JlE.Xgxf.QuEWFgfl8zJB&amp;smid=url-share" rel="alternate" />
-    <id>https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html?unlocked_article_code=1.JlE.Xgxf.QuEWFgfl8zJB&amp;smid=url-share::v240</id>
-    <published>2026-10-18T06:11:00+00:00</published>
-    <updated>2026-10-18T06:11:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html?unlocked_article_code=1.JlE.Xgxf.QuEWFgfl8zJB&smid=url-share">nytimes.com</a></small></p><hr/><p>CoreWeave's bond yields have climbed above 15%, signaling investor distress regarding the company's capacity to finance the massive capital requirements of AI infrastructure. The volatility has also affected broader markets, driving up insurance costs for SoftBank debt and causing some Oracle debt to trade at 80 to 90 cents on the dollar.</p><p>The surge in yields reflects growing anxieties about the long-term sustainability of the data center build-out and the heavy borrowing used to fund AI development. Analysts are questioning whether rising interest expenses will outpace operating profits, given the significant debt and lease obligations incurred by major players in the sector.</p><hr/><small>18 Oct 2026, 15:05 UTC | #24642</small>]]></content>
   </entry>
 </feed>
