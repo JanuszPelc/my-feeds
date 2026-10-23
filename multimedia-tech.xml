@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-23T13:23:00+00:00</updated>
+  <updated>2026-10-23T13:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>Isaac Marovitz Examines Unused Visual Features and Rendering Systems in Sonic 06</title>
+    <link href="https://isaacmarovitz.com/posts/sonic-06/" rel="alternate" />
+    <id>https://isaacmarovitz.com/posts/sonic-06/::v240</id>
+    <published>2026-10-23T13:51:00+00:00</published>
+    <updated>2026-10-23T13:51:00+00:00</updated>
+    <media:thumbnail url="https://isaacmarovitz.com/_astro/csc.qd2LvtIN_1FCr9I.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://isaacmarovitz.com/posts/sonic-06/">isaacmarovitz.com</a> | <a href="https://lobste.rs/s/nb7wkp/many_many_missed_opportunities_sonic_06">discussion</a></small></p><hr/><p>Developer Isaac Marovitz explores the technical reasons behind the downgraded visuals of Sonic the Hedgehog (2006), detailing how performance constraints during crunch led Sonic Team to disable advanced shaders, shadow map cascades, and point lights. Through work on the Marathon Recompiled project, the analysis reveals that many higher-fidelity visual assets and effects from beta builds remain dormant in the game files.</p><p>The article examines specific rendering limitations, such as the widespread reliance on rudimentary vertex-lit shaders like Billboard02, unoptimized point light counts that overload specific stages, and disabled real-time planar reflections in multiplayer modes. While some of these systems can be tweaked or stabilized via recompilation and patching, swapping core shader variants remains challenging due to complex material definitions and input layouts.</p><p><img src="https://isaacmarovitz.com/_astro/csc.qd2LvtIN_1FCr9I.webp" /></p><hr/><small>23 Oct 2026, 16:54 UTC | #25250</small>]]></content>
+  </entry>
   <entry>
     <title>Why Prioritizing Core Teams in Game Development Risks Devaluing Other Developers</title>
     <link href="https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs" rel="alternate" />

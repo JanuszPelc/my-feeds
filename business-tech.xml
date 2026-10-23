@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-23T13:49:00+00:00</updated>
+  <updated>2026-10-23T13:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Greece Passes Social Media Ban for Children Under 15</title>
+    <link href="https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/" rel="alternate" />
+    <id>https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/::v240</id>
+    <published>2026-10-23T13:50:00+00:00</published>
+    <updated>2026-10-23T13:50:00+00:00</updated>
+    <media:thumbnail url="https://www.reuters.com/resizer/v2/DM5X72PKTBN45PYOHGSQX4YATA.jpg?auth=a0fa06402b64435d21fd47341b4daa1ddb027e36eb3d9bea3ce534c5847de680&amp;width=720&amp;quality=80" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/">reuters.com</a></small></p><hr/><p>Greece's parliament has approved legislation banning social media access for children under 15, with the restrictions set to take effect on January 1, 2027. The law aims to protect minors from the adverse health, safety, and mental impacts associated with online platforms.</p><p>Under the new rules, social media companies are given a designated timeframe to implement mandatory age-verification mechanisms. The initiative forms part of a broader collaborative effort alongside several other European Union countries and the European Commission to enhance online protection for minors.</p><p><img src="https://www.reuters.com/resizer/v2/DM5X72PKTBN45PYOHGSQX4YATA.jpg?auth=a0fa06402b64435d21fd47341b4daa1ddb027e36eb3d9bea3ce534c5847de680&width=720&quality=80" /></p><hr/><small>23 Oct 2026, 16:54 UTC | #25223</small>]]></content>
+  </entry>
   <entry>
     <title>Disney+ Raises Subscription Prices and Updates Terms to Permit Promotional Content on All Tiers</title>
     <link href="https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/" rel="alternate" />
@@ -893,14 +902,5 @@
     <published>2026-10-18T18:02:00+00:00</published>
     <updated>2026-10-18T18:02:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/">techcrunch.com</a> | <a href="https://cases.stretto.com/public/x936/14939/PLEADINGS/1493910132680000000114.pdf">source</a></small></p><hr/><p>Disney has agreed to hire at least 60 employees from the chatbot startup Character.AI following the company's recent bankruptcy filing. This agreement, which covers the majority of Character.AI's workforce, involves providing an estimated $60 million in annual compensation.</p><p>The deal functions as a stalking horse bid, allowing other companies to submit higher offers. This workforce transition follows Disney's previous agreement to acquire some of Character.AI's assets for $20 million and the appointment of Character.AI's former CEO, Karandeep Anand, as Disney's first CTO.</p><hr/><small>18 Oct 2026, 21:42 UTC | #24666</small>]]></content>
-  </entry>
-  <entry>
-    <title>Amazon Uses Atlas AI to Predict Union Organizing Risk in Warehouses</title>
-    <link href="https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/" rel="alternate" />
-    <id>https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/::v240</id>
-    <published>2026-10-18T16:49:00+00:00</published>
-    <updated>2026-10-18T16:49:00+00:00</updated>
-    <media:thumbnail url="https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/2026/10/Amazon-AI-question-Facebook.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/">opendemocracy.net</a> | <a href="https://news.ycombinator.com/item?id=50132278">hacker news</a></small></p><hr/><p>Leaked internal documents reveal that Amazon uses an in-house AI tool named Atlas to forecast the likelihood of unionization and "disruptive labour events" at its warehouses in the US, Canada, and the UK. The system aggregates hundreds of data points, including social media posts and internal staff feedback, to assign each facility a risk score. Warehouses are categorized into tiers, with Tier 1 representing sites where labor activity is considered imminent.</p><p>Two UK locations, including facilities near Coventry and Sutton Coldfield, have reportedly been classified as Tier 1. While Amazon maintains that Atlas is used for site-level support and does not monitor individual employees, labor unions and legal experts argue the tool creates a significant power imbalance. The disclosure comes amid ongoing legal challenges regarding worker rights and surveillance practices.</p><p><img src="https://storage.ghost.io/c/3f/80/3f804bea-4b2d-4ddf-9ff0-6ec7d0afa5fa/content/images/2026/10/Amazon-AI-question-Facebook.jpg" /></p><hr/><small>18 Oct 2026, 20:13 UTC | #24683</small>]]></content>
   </entry>
 </feed>
