@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-23T00:51:00+00:00</updated>
+  <updated>2026-10-23T01:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>An Analysis of UUIDv7 Properties and RFC Compliance</title>
+    <link href="https://alexsci.com/blog/uuidv7-is-weird/" rel="alternate" />
+    <id>https://alexsci.com/blog/uuidv7-is-weird/::v240</id>
+    <published>2026-10-23T01:23:00+00:00</published>
+    <updated>2026-10-23T01:23:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*0mTqPfhEGI14PUXMsc8Q3A.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://alexsci.com/blog/uuidv7-is-weird/">alexsci.com</a> | <a href="https://lobste.rs/s/kcyzco/uuidv7_doesn_t_have_properties_you_think">discussion</a> | <a href="https://news.ycombinator.com/item?id=50204322">hacker news</a></small></p><hr/><p>An examination of the UUIDv7 specification reveals that many common assumptions about its properties—such as monotonic ordering, reliable embedded timestamps, and unguessability—are not strictly guaranteed by RFC 9562 or standard implementations. Because implementations are permitted to alter timestamps to handle counter overflows and clock drift, generated IDs can diverge significantly from actual creation times under load or clock adjustments.</p><p>While UUIDv7 remains effective for uniqueness and collision resistance, engineers relying on it for strict ordering or metadata privacy should carefully evaluate implementation details. The standard's flexibility allows different generators to exhibit distinct behaviors, making it essential to audit how specific libraries handle system clock jumps, restarts, and high-frequency ID generation.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*0mTqPfhEGI14PUXMsc8Q3A.png" /></p><hr/><small>23 Oct 2026, 11:34 UTC | #25212</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ed Jefferson Releases Local Wikipedia</title>
+    <link href="https://edjefferson.com/localwiki/" rel="alternate" />
+    <id>https://edjefferson.com/localwiki/::v240</id>
+    <published>2026-10-23T01:02:00+00:00</published>
+    <updated>2026-10-23T01:02:00+00:00</updated>
+    <media:thumbnail url="https://external-preview.redd.it/QLd_sQCjcTK8OyGgXbrgSitxx7GvTHAuIWfs0i6RQWQ.jpg?auto=webp&amp;s=dd7fb4bb92756b36942bb6236bbe8c23e7cc726d" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://edjefferson.com/localwiki/">edjefferson.com</a> | <a href="https://news.ycombinator.com/item?id=50202285">hacker news</a></small></p><hr/><p>Local Wikipedia is a web application created by Ed Jefferson that surfaces geocoded Wikipedia articles located within walking distance or a six-mile radius of the user. The tool pulls geographic entries directly from Wikipedia using browser-based location data.</p><p>The application dynamically scales results, displaying at least 25 nearby entries and capping the maximum at 500 for densely populated areas. Location data is stored exclusively in the browser and is omitted from shared links to maintain user privacy.</p><p><img src="https://external-preview.redd.it/QLd_sQCjcTK8OyGgXbrgSitxx7GvTHAuIWfs0i6RQWQ.jpg?auto=webp&s=dd7fb4bb92756b36942bb6236bbe8c23e7cc726d" /></p><hr/><small>23 Oct 2026, 11:21 UTC | #25210</small>]]></content>
+  </entry>
   <entry>
     <title>Implementing Compile-Time Traits in Zig Using Userland Abstractions</title>
     <link href="https://www.axelmagn.com/blog/202610-zig-traits/" rel="alternate" />
@@ -1188,22 +1206,5 @@
     <updated>2026-10-18T12:49:00+00:00</updated>
     <media:thumbnail url="https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/Screenshot_20261017_203056.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/">benjcal.space</a> | <a href="https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself">discussion</a></small></p><hr/><p>Address Resolution Protocol (ARP) facilitates local network communication by mapping IP addresses to MAC addresses. This mapping allows network switches to route data frames to the correct physical devices based on their hardware addresses rather than their logical IP addresses.</p><p>The article details the broadcast process used to resolve these addresses and demonstrates the concept using tools such as arp-scan and Wireshark. It also touches on security and stability concerns, including the risks of ARP spoofing and the occurrence of broadcast storms.</p><p><img src="https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/Screenshot_20261017_203056.png" /></p><hr/><small>18 Oct 2026, 17:50 UTC | #24654</small>]]></content>
-  </entry>
-  <entry>
-    <title>Unit Testing Challenges for ActivityPub Implementations</title>
-    <link href="https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/" rel="alternate" />
-    <id>https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/::v240</id>
-    <published>2026-10-18T10:46:00+00:00</published>
-    <updated>2026-10-18T10:46:00+00:00</updated>
-    <media:thumbnail url="https://www.stevebate.net/wp-content/uploads/2023/07/activitypub-testsuite.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/">shkspr.mobi</a> | <a href="https://lobste.rs/s/gwuebx/some_quick_thoughts_on_unit_testing">discussion</a></small></p><hr/><p>Developing the NLnet-funded ActivityBot has revealed several technical hurdles in unit testing ActivityPub protocols. These include validating usernames with internationalized domains, managing fragmented message specifications, handling complex HTTP signature verification, and simulating external server communication.</p><p>To assist the developer community, Terence Eden has released his test suites and a collection of pre-recorded messages and signatures on GitLab. These resources are intended to help ensure protocol compliance and interoperability for federated social media projects.</p><p><img src="https://www.stevebate.net/wp-content/uploads/2023/07/activitypub-testsuite.png" /></p><hr/><small>18 Oct 2026, 17:46 UTC | #24665</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sphinx Releases Git Hook for AI-Assisted Development</title>
-    <link href="https://sphinx-six-theta.vercel.app/" rel="alternate" />
-    <id>https://sphinx-six-theta.vercel.app/::v240</id>
-    <published>2026-10-18T10:43:00+00:00</published>
-    <updated>2026-10-18T10:43:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://sphinx-six-theta.vercel.app/">sphinx-six-theta.vercel.app</a> | <a href="https://github.com/parthh01/sphinx">source</a> | <a href="https://news.ycombinator.com/item?id=50137950">hacker news</a></small></p><hr/><p>Sphinx is an open-source Git hook designed to ensure developers understand the code produced by AI agents before it is pushed to protected branches. When a push is initiated, the tool intercepts the process and presents a scenario-based question derived from the code diff, requiring a correct response to proceed.</p><p>The tool integrates with various AI coding environments, such as Cursor, Claude Code, and Codex, using OpenAI-compatible endpoints. It is designed to run with minimal token usage and maintains security by not accessing sensitive environment files or API keys during the verification process.</p><hr/><small>18 Oct 2026, 17:33 UTC | #24659</small>]]></content>
   </entry>
 </feed>

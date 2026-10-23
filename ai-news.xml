@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
   <entry>
+    <title>Anthropic Uses Claude for Large-Scale Formal Software Verification</title>
+    <link href="https://www.anthropic.com/research/formal-verification" rel="alternate" />
+    <id>https://www.anthropic.com/research/formal-verification::v240</id>
+    <published>2026-10-23T01:03:00+00:00</published>
+    <updated>2026-10-23T01:03:00+00:00</updated>
+    <media:thumbnail url="https://riscv.org/wp-content/uploads/2025/08/Header-RISC-V-blogpost-2-scaled.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.anthropic.com/research/formal-verification">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50202217">hacker news</a></small></p><hr/><p>Anthropic, in collaboration with Theorem, has demonstrated that large language models can perform formal software verification at scale. Using Claude, the researchers produced machine-checked proofs at the RISC-V assembly level for 239 fuzz-test entry points across 123 open-source software libraries, establishing that these components will not crash under specified conditions.</p><p>The process generated approximately 180 million lines of Rocq proof code checked automatically, while also uncovering long-standing bugs that escaped detection during extensive prior testing. The companies have published a subset of the proofs and associated semantic models to assist developers in applying formal methods to production codebases.</p><p><img src="https://riscv.org/wp-content/uploads/2025/08/Header-RISC-V-blogpost-2-scaled.png" /></p><hr/><small>23 Oct 2026, 11:23 UTC | #25211</small>]]></content>
+  </entry>
+  <entry>
     <title>AI Models Express Consistent View on Human Tribalism</title>
     <link href="https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans" rel="alternate" />
     <id>https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans::v240</id>

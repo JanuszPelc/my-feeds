@@ -3,9 +3,63 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-22T21:46:00+00:00</updated>
+  <updated>2026-10-23T01:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Producer TIEKS Discusses His London Studio and Focusrite ISA C8X Interface</title>
+    <link href="https://musictech.com/features/interviews/tieks-interview-focusrite-isa-c8x-interface-studio/" rel="alternate" />
+    <id>https://musictech.com/features/interviews/tieks-interview-focusrite-isa-c8x-interface-studio/::v240</id>
+    <published>2026-10-23T01:09:00+00:00</published>
+    <updated>2026-10-23T01:09:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Focusrite-TIEKS-hero-credit-press@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/features/interviews/tieks-interview-focusrite-isa-c8x-interface-studio/">musictech.com</a></small></p><hr/><p>British producer and engineer TIEKS discusses the design of his London studio, Reality Exists, and his ongoing work on an upcoming debut album that blends commercial pop and cinematic soundscapes. A central component of his new setup is Focusrite’s ISA C8X audio interface, which he relies on for its pristine preamps, flexible routing, and remote digital control.</p><p>Reflecting on his career collaborating with major artists like Chaka Khan and Ed Sheeran, TIEKS emphasizes a hands-on approach to production that deliberately excludes artificial intelligence tools. He shares how transitioning through minimalist gear setups during studio renovations ultimately led him to adopt the ISA C8X as the daily backbone for recording overdubs and managing his studio workflow.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Focusrite-TIEKS-hero-credit-press@2000x1500.jpg" /></p><hr/><small>23 Oct 2026, 11:32 UTC | #25221</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sample Fuel Releases Audio Detective Utility Plugin for macOS</title>
+    <link href="https://www.kvraudio.com/news/sample-fuel-releases-audio-detective-for-macos-vst3-au-and-aax-69313?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69313" rel="alternate" />
+    <id>https://www.kvraudio.com/news/sample-fuel-releases-audio-detective-for-macos-vst3-au-and-aax-69313?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69313::v240</id>
+    <published>2026-10-23T01:08:00+00:00</published>
+    <updated>2026-10-23T01:08:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/audio-detective-image-1.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/sample-fuel-releases-audio-detective-for-macos-vst3-au-and-aax-69313?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69313">kvraudio.com</a> | <a href="https://www.samplefuel.com/audio-detective">source</a></small></p><hr/><p>Sample Fuel has released Audio Detective, a macOS utility plugin designed for identifying track tempos, tuning instruments, and monitoring stereo sessions. Placed on a DAW master bus or stereo output, the plugin analyzes incoming audio in real time to estimate BPM without requiring manual tapping or separate file imports.</p><p>The utility includes analyze and live monitoring modes, tap tempo with subdivision controls, BPM lock, and note-based delay calculations. It also features a chromatic and guided instrument tuner with an adjustable reference pitch, stereo correlation monitoring, and support for VST3, AU, and AAX formats.</p><p><img src="https://static.kvraudio.com/i/b/audio-detective-image-1.png" /></p><hr/><small>23 Oct 2026, 11:31 UTC | #25220</small>]]></content>
+  </entry>
+  <entry>
+    <title>DawgPound Audio Releases DawgGarage Reverb IR Plugin for Mac and iPad</title>
+    <link href="https://www.kvraudio.com/news/dawgpound-audio-releases-dawggarage-reverb---four-slot-ir-reverb-for-mac-and-ipad-69314?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69314" rel="alternate" />
+    <id>https://www.kvraudio.com/news/dawgpound-audio-releases-dawggarage-reverb---four-slot-ir-reverb-for-mac-and-ipad-69314?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69314::v240</id>
+    <published>2026-10-23T01:07:00+00:00</published>
+    <updated>2026-10-23T01:07:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/dawggarage-ipad-1.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dawgpound-audio-releases-dawggarage-reverb---four-slot-ir-reverb-for-mac-and-ipad-69314?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69314">kvraudio.com</a> | <a href="https://dawgpoundaudio.com/plugins/dawggarage-reverb/">source</a></small></p><hr/><p>DawgPound Audio has released DawgGarage Reverb, a convolution reverb and impulse response loader designed for macOS and iPadOS. The plugin is built around acoustic impulse responses captured from a real garage using four distinct microphone placements, allowing users to blend the positions or load custom impulse responses into any of the four available slots.</p><p>The desktop version supports AU and VST3 formats on Apple Silicon running macOS 14 or later, while the mobile edition provides AUv3 compatibility for iPadOS hosts. An introductory discount is available for the desktop version through November 5, 2026, alongside a 14-day free trial on Mac.</p><p><img src="https://static.kvraudio.com/i/b/dawggarage-ipad-1.webp" /></p><hr/><small>23 Oct 2026, 11:29 UTC | #25219</small>]]></content>
+  </entry>
+  <entry>
+    <title>Plip Plop Releases Dusk Line Dark Analogue Stereo Delay Plugin</title>
+    <link href="https://www.kvraudio.com/news/plip-plop-releases-dusk-line---dark-analogue-stereo-delay-for-windows-clap-lv2-and-vst3-69319?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69319" rel="alternate" />
+    <id>https://www.kvraudio.com/news/plip-plop-releases-dusk-line---dark-analogue-stereo-delay-for-windows-clap-lv2-and-vst3-69319?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69319::v240</id>
+    <published>2026-10-23T01:06:00+00:00</published>
+    <updated>2026-10-23T01:06:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/dusk-line-window.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/plip-plop-releases-dusk-line---dark-analogue-stereo-delay-for-windows-clap-lv2-and-vst3-69319?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69319">kvraudio.com</a> | <a href="https://plipplop.studio/plugins/dusk-line">source</a></small></p><hr/><p>Plip Plop has released Dusk Line, a dark analogue stereo delay plugin for Windows available in VST3, CLAP, and LV2 formats. Modeled after bucket-brigade device hardware pedals, the plugin darkens and slightly saturates each repeat with a soft hiss, featuring delay times from 20 milliseconds to 1.2 seconds and feedback capabilities extending up to 150 percent.</p><p>The plugin includes a multi-position BBD switch for single or dual-chip operation, modulation options ranging from sine to random shapes, host tempo synchronization, and a steep low-pass filter on the output. It offers 13 presets, MIDI learn support for all 17 parameters, and a resizable window with an integrated manual. Dusk Line is available now for 29 EUR without copy protection or activation requirements.</p><p><img src="https://static.kvraudio.com/i/b/dusk-line-window.jpg" /></p><hr/><small>23 Oct 2026, 11:25 UTC | #25218</small>]]></content>
+  </entry>
+  <entry>
+    <title>Signal Tools Co Releases Pro Knob Plugins for Linux VST3</title>
+    <link href="https://www.kvraudio.com/news/signal-tools-co-releases-pro-knob-plugins-for-linux-vst3-69301?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69301" rel="alternate" />
+    <id>https://www.kvraudio.com/news/signal-tools-co-releases-pro-knob-plugins-for-linux-vst3-69301?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69301::v240</id>
+    <published>2026-10-23T01:05:00+00:00</published>
+    <updated>2026-10-23T01:05:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/pro-knob-rack.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/signal-tools-co-releases-pro-knob-plugins-for-linux-vst3-69301?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69301">kvraudio.com</a> | <a href="https://signaltoolsco.com/">source</a></small></p><hr/><p>Signal Tools Co has expanded its Pro Knob single-control mixing plugin lineup with native 64-bit VST3 support for Linux, joining the existing macOS and Windows editions. The release spans fifteen individual processors such as compressors, saturators, and delays, alongside the free Pro Knob Rack host which enables users to chain up to ten modules.</p><p>The plugins are designed around single-control interfaces where each position represents a finished sound processing state rather than a traditional starting point. The software requires glibc 2.35 or later and X11 or XWayland on Linux, using online activation via a free account without requiring a hardware dongle.</p><p><img src="https://static.kvraudio.com/i/b/pro-knob-rack.jpg" /></p><hr/><small>23 Oct 2026, 11:24 UTC | #25217</small>]]></content>
+  </entry>
+  <entry>
+    <title>Vitric Audio Releases Colorfield Mix Stage Depth and Room Placement Plugin</title>
+    <link href="https://www.kvraudio.com/news/vitric-audio-releases-colorfield-mix-stage---depth-and-room-placement-plugin-with-six-rooms-69323?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69323" rel="alternate" />
+    <id>https://www.kvraudio.com/news/vitric-audio-releases-colorfield-mix-stage---depth-and-room-placement-plugin-with-six-rooms-69323?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69323::v240</id>
+    <published>2026-10-23T01:04:00+00:00</published>
+    <updated>2026-10-23T01:04:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/colorfield-mix-stage-ui-stage-106.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/vitric-audio-releases-colorfield-mix-stage---depth-and-room-placement-plugin-with-six-rooms-69323?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69323">kvraudio.com</a> | <a href="https://vitricaudio.com/colorfield">source</a></small></p><hr/><p>Vitric Audio has released Colorfield Mix Stage, a depth and room placement audio plugin designed for Windows and macOS. The plugin operates by placing multiple track instances onto a single shared virtual stage within one of six selectable acoustic environments, including a tracking room, drum room, club, echo chamber, loft, and concert hall.</p><p>Adjusting a track's depth simultaneously alters its level, direct-to-room balance, early reflections, and high-frequency air loss to maintain spatial consistency across the mix. Additional features include a collision-detection list with one-click resolution suggestions, Level Lock to preserve loudness during movement, zero added latency, and a companion Stage application for exporting processed stems.</p><p><img src="https://static.kvraudio.com/i/b/colorfield-mix-stage-ui-stage-106.jpg" /></p><hr/><small>23 Oct 2026, 11:24 UTC | #25216</small>]]></content>
+  </entry>
   <entry>
     <title>Sonuscore Releases LUX Orchestral Brass Library</title>
     <link href="https://www.kvraudio.com/news/sonuscore-releases-lux-orchestral-brass---kontakt-library-with-auto-divisi-and-adaptive-articulations-69338?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69338" rel="alternate" />
@@ -716,31 +770,5 @@
     <updated>2026-10-18T12:07:00+00:00</updated>
     <media:thumbnail url="https://nathanho.me/posts/evograin/examples/grain_set_0006/plot.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nathanho.me/posts/evograin/">nathanho.me</a> | <a href="https://lobste.rs/s/kiq0si/algorithmic_sound_design_with_l_systems">discussion</a></small></p><hr/><p>EvoGrain is a rule-based system that generates audio using Lindenmayer systems (L-systems) and granular synthesis. The system utilizes an L-system to create command sequences for a "turtle" interpreter, which produces sets of grains defined by parameters such as pitch, duration, and amplitude. These grain sets are then synthesized into audio buffers ranging from a few seconds to 30 seconds in length.</p><p>Designed to produce raw material for sampling rather than complete musical compositions, EvoGrain employs an evolutionary optimization process to select the most musically interesting results. The architecture features a custom granular synthesis engine with phase modulation capabilities and a feedback delay network (FDN) reverb, using statistical analysis to guide the selection of optimal L-system rules.</p><p><img src="https://nathanho.me/posts/evograin/examples/grain_set_0006/plot.png" /></p><hr/><small>18 Oct 2026, 17:49 UTC | #24663</small>]]></content>
-  </entry>
-  <entry>
-    <title>Tokyo Dawn Labs Adds Native Linux Support to TDR Nova</title>
-    <link href="https://bedroomproducersblog.com/2026/10/18/tdr-nova-linux/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/18/tdr-nova-linux/::v240</id>
-    <published>2026-10-18T09:09:00+00:00</published>
-    <updated>2026-10-18T09:09:00+00:00</updated>
-    <media:thumbnail url="https://plugins.audio/__og-image__/image/products/tokyo-dawn-records/tdr-nova/og.png" />
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/18/tdr-nova-linux/">bedroomproducersblog.com</a> | <a href="https://www.tokyodawn.net/tdr-nova/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/18/tdr-nova-linux/#comments">discussion</a></small></p><hr/><p>Version 2.2.3 of the TDR Nova dynamic equalizer now includes native support for Linux. The update allows users to run the four-band parallel EQ directly on compatible hosts using VST2 or VST3 formats without needing a compatibility layer.</p><p>The plugin supports Linux x86-64 with GLIBC 2.14 or newer and has been tested in REAPER and Bitwig Studio on Ubuntu Studio. TDR Nova is a free tool used for targeted frequency adjustments, such as de-essing or managing resonant bass frequencies.</p><p><img src="https://plugins.audio/__og-image__/image/products/tokyo-dawn-records/tdr-nova/og.png" /></p><hr/><small>18 Oct 2026, 15:20 UTC | #24649</small>]]></content>
-  </entry>
-  <entry>
-    <title>Voidscan Audio Releases Parasite Experimental FM Synthesizer</title>
-    <link href="https://bedroomproducersblog.com/2026/10/18/voidscan-audio-parasite/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/18/voidscan-audio-parasite/::v240</id>
-    <published>2026-10-18T08:24:00+00:00</published>
-    <updated>2026-10-18T08:24:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/18/voidscan-audio-parasite/">bedroomproducersblog.com</a> | <a href="https://voidscan-audio.com/">source</a></small></p><hr/><p>Voidscan Audio has released Parasite, an experimental FM synthesizer plugin for Windows (VST3) and macOS (VST3 and AU). The instrument features three operators, six algorithms, and a per-voice distortion stage designed for creating gritty, textured sounds.</p><p>A launch price of €59 is available until October 23, 2026, after which the plugin will cost €89. A fully functional demo version is available, which operates with brief silences every 30 seconds.</p><hr/><small>18 Oct 2026, 15:18 UTC | #24648</small>]]></content>
-  </entry>
-  <entry>
-    <title>Inear Display Updates Danaides Plug-in to v2.1</title>
-    <link href="https://www.kvraudio.com/news/inear-display-updates-danaides-sequenced-sound-mangler-plug-in-to-v2-1-win-and-mac-vst3-and-au-69186?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69186" rel="alternate" />
-    <id>https://www.kvraudio.com/news/inear-display-updates-danaides-sequenced-sound-mangler-plug-in-to-v2-1-win-and-mac-vst3-and-au-69186?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69186::v240</id>
-    <published>2026-10-18T07:58:00+00:00</published>
-    <updated>2026-10-18T07:58:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/danaides.1792309927.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/inear-display-updates-danaides-sequenced-sound-mangler-plug-in-to-v2-1-win-and-mac-vst3-and-au-69186?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69186">kvraudio.com</a> | <a href="https://ineardisplay.com/">source</a></small></p><hr/><p>Inear Display has updated its Danaides sequenced sound mangler plug-in to version 2.1 for Windows and macOS. The release introduces a new Driller sequence lock switch and provides new visual cues within the sequencers.</p><p>The update includes macOS installer bugfixes and resolves potential glitches occurring during user interface resizing. This follows the recent version 2.0 modernization of the plugin, which originally debuted in 2013.</p><p><img src="https://static.kvraudio.com/i/b/danaides.1792309927.png" /></p><hr/><small>18 Oct 2026, 15:17 UTC | #24650</small>]]></content>
   </entry>
 </feed>

@@ -3,9 +3,45 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-23T00:52:00+00:00</updated>
+  <updated>2026-10-23T04:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>inDrive Plans 2027 Robotaxi Tests in Kazakhstan with Pony.ai and Nvidia</title>
+    <link href="https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/::v240</id>
+    <published>2026-10-23T04:01:00+00:00</published>
+    <updated>2026-10-23T04:01:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/">techcrunch.com</a> | <a href="https://blog.pony.ai/indrive-and-pony-ai-announce-collaboration-to-explore-autonomous-mobility-in-kazakhstan-built-on-nvidia-hyperion/">source</a></small></p><hr/><p>Ride-hailing platform inDrive has signed a memorandum of understanding with autonomous driving firm Pony.ai and Nvidia to test robotaxis in Astana, Kazakhstan, beginning in the first half of 2027. The initial trials will feature Pony.ai's Gen-7 vehicles integrated into the inDrive app using Nvidia's Hyperion platform and Halos safety system, operating with safety operators before transitioning to fully driverless rides.</p><p>The collaboration forms part of a broader expansion for Pony.ai outside China and marks inDrive's second major regional robotaxi initiative following a similar exploration in Saudi Arabia. Testing in Astana will also allow the companies to evaluate autonomous driving performance under challenging winter conditions involving months of snow and ice.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg" /></p><hr/><small>23 Oct 2026, 11:39 UTC | #25200</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Fires Three Researchers Over Alleged Information Leaks via Signal Chats</title>
+    <link href="https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853::v240</id>
+    <published>2026-10-23T02:51:00+00:00</published>
+    <updated>2026-10-23T02:51:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20qrWO.img?w=1536&amp;h=1024&amp;m=4&amp;q=71" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853">wsj.com</a> | <a href="https://news.ycombinator.com/item?id=50204095">hacker news</a></small></p><hr/><p>OpenAI terminated three safety researchers following an internal investigation that accused them of mishandling sensitive company information and leaking internal model designs to external AI safety researcher Ryan Greenblatt. The company's suspicions centered partly on the use of disappearing Signal chats to communicate confidential details regarding artificial intelligence developments.</p><p>The dismissals have drawn intense scrutiny within the artificial intelligence community, highlighting ongoing tensions between internal safety advocates and corporate confidentiality protocols. The fired researchers and their supporters have warned that such actions could create a chilling effect on safety research and transparent discourse surrounding advanced AI systems.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20qrWO.img?w=1536&h=1024&m=4&q=71" /></p><hr/><small>23 Oct 2026, 11:37 UTC | #25199</small>]]></content>
+  </entry>
+  <entry>
+    <title>Spotify Confirms Family Plan Verification Changes During Earnings Call</title>
+    <link href="https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/::v240</id>
+    <published>2026-10-23T01:51:00+00:00</published>
+    <updated>2026-10-23T01:51:00+00:00</updated>
+    <media:thumbnail url="https://www.lowyat.net/wp-content/uploads/2024/11/Spotify-Family-Plan-changes-nov-2024-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/">techcrunch.com</a></small></p><hr/><p>Spotify confirmed during its third-quarter earnings call that it is rolling out stricter verification methods for its Family Plan to ensure members live in the same household. The updated process requires family members to scan a QR code displayed on the plan manager's device within a seven-day window.</p><p>Co-CEO Alex Norström downplayed the changes as a routine and ongoing improvement to existing verification tools rather than an enforcement crackdown. Users who fail to complete verification within the allotted time face a 12-month ban from joining other Family or Duo plans, forcing them onto individual subscriptions.</p><p><img src="https://www.lowyat.net/wp-content/uploads/2024/11/Spotify-Family-Plan-changes-nov-2024-1.jpg" /></p><hr/><small>23 Oct 2026, 11:35 UTC | #25197</small>]]></content>
+  </entry>
+  <entry>
+    <title>US Treasury Department Proposes Expanded Restrictions on Outbound Technology Investments</title>
+    <link href="https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9" rel="alternate" />
+    <id>https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9::v240</id>
+    <published>2026-10-23T01:11:00+00:00</published>
+    <updated>2026-10-23T01:11:00+00:00</updated>
+    <media:thumbnail url="https://www.paulweiss.com/media/kgoaimvr/annex_treasury_issues_notice_of_proposed-_rulemaking_memo.jpg?rmode=max&amp;width=553&amp;height=543" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9">apnews.com</a> | <a href="https://home.treasury.gov/news/press-releases/sb0667/">source</a> | <a href="https://news.ycombinator.com/item?id=50080998">hacker news</a></small></p><hr/><p>The U.S. Treasury Department has proposed a new rule to tighten restrictions on American high-tech investments in countries of concern, including China and Russia. The proposed regulations update the Outbound Investment Security Program to implement congressional mandates under the Comprehensive Outbound Investment Security Act.</p><p>The updated framework targets sensitive sectors such as artificial intelligence, supercomputing, semiconductors, and quantum technology. It introduces expanded prohibitions and advance notice requirements designed to prevent U.S. capital and technical expertise from advancing the military and intelligence capabilities of strategic adversaries.</p><p><img src="https://www.paulweiss.com/media/kgoaimvr/annex_treasury_issues_notice_of_proposed-_rulemaking_memo.jpg?rmode=max&width=553&height=543" /></p><hr/><small>23 Oct 2026, 11:33 UTC | #25196</small>]]></content>
+  </entry>
   <entry>
     <title>PreussenElektra and Nvidia Evaluate Converting Shuttered German Nuclear Plants Into Data Centers</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-22/germany-s-idle-nuclear-plants-eye-new-life-as-ai-data-centers" rel="alternate" />
@@ -811,21 +847,5 @@
     <published>2026-10-18T12:55:00+00:00</published>
     <updated>2026-10-18T12:55:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://docs.stacresearch.com/M3-20261005a">docs.stacresearch.com</a> | <a href="https://lobste.rs/s/oh4yfc/stac_m3_benchmark_l_tick_database_1_0_on">discussion</a></small></p><hr/><p>STAC has released audited benchmark results for the L tick database 1.0, developed by L Labs PBC, running on an Oxide OxVM cloud virtual machine. The tests, performed using the STAC-M3 Antuco suite, evaluate the performance and scalability of database and hardware stacks used for large-scale time-series market data and financial analytics.</p><p>The results show that this configuration achieved a storage efficiency of 364%, the highest of any published STAC-M3 Antuco result. Additionally, the solution outperformed previous industry records and solutions using the q programming language in several mean-response time benchmarks.</p><hr/><small>18 Oct 2026, 18:28 UTC | #24671</small>]]></content>
-  </entry>
-  <entry>
-    <title>US Federal Budget Deficit Reaches $1.992 Trillion for Fiscal Year 2026</title>
-    <link href="https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html" rel="alternate" />
-    <id>https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html::v240</id>
-    <published>2026-10-18T10:45:00+00:00</published>
-    <updated>2026-10-18T10:45:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html">finance.yahoo.com</a> | <a href="https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/">source</a> | <a href="https://news.ycombinator.com/item?id=50131440">hacker news</a></small></p><hr/><p>The United States federal budget deficit for fiscal year 2026 totaled $1.992 trillion, according to the Treasury Department's Monthly Statement. This figure represents approximately 6% of the nation's gross domestic product (GDP) and marks a 12% increase from the $1.775 trillion deficit recorded in 2025. Total government spending for the year reached $7.396 trillion against $5.403 trillion in total revenues.</p><p>The deficit follows the gross national debt surpassing $40 trillion. Annual interest costs on the debt have reached $1.1 trillion, or 3.4% of GDP, making interest payments a larger budget item than Medicare or the defense budget. While the Trump administration has characterized the deficit as a temporary fluctuation, the Committee for a Responsible Budget warns that annual deficits could reach $3.1 trillion by 2036 if current fiscal trajectories continue.</p><hr/><small>18 Oct 2026, 17:42 UTC | #24661</small>]]></content>
-  </entry>
-  <entry>
-    <title>Lobste.rs User Criticizes Misuse of 'Vibecoding' Tag</title>
-    <link href="https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from" rel="alternate" />
-    <id>https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from::v240</id>
-    <published>2026-10-18T10:36:00+00:00</published>
-    <updated>2026-10-18T10:36:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from">lobste.rs</a> | <a href="https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from">discussion</a></small></p><hr/><p>A Lobste.rs contributor argues that the "vibecoding" tag has become harmful to the community due to its increasing misuse. The author claims the tag has lost its specific meaning and is being applied to general LLM discussions, leading to the accidental filtering of high-quality technical posts and the departure of community members.</p><p>The "vibecoding" term describes a programming approach that relies heavily on AI-generated code. To address the loss of signal quality, the author suggests that the platform either split the tag into more precise categories or remove it entirely.</p><hr/><small>18 Oct 2026, 15:24 UTC | #24653</small>]]></content>
   </entry>
 </feed>
