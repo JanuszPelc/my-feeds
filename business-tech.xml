@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-23T00:49:00+00:00</updated>
+  <updated>2026-10-23T00:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>PreussenElektra and Nvidia Evaluate Converting Shuttered German Nuclear Plants Into Data Centers</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-22/germany-s-idle-nuclear-plants-eye-new-life-as-ai-data-centers" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-22/germany-s-idle-nuclear-plants-eye-new-life-as-ai-data-centers::v240</id>
+    <published>2026-10-23T00:52:00+00:00</published>
+    <updated>2026-10-23T00:52:00+00:00</updated>
+    <media:thumbnail url="https://media.gettyimages.com/id/1242015846/photo/exterior-view-of-the-isar-2-nuclear-power-plant-of-the-operator-preussenelektra-on-july-20.jpg?s=612x612&amp;w=gi&amp;k=20&amp;c=-cgW7bIGUOE_KYWVZ0n_vEdcrfv0N35759nxiP6M6ho=" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-22/germany-s-idle-nuclear-plants-eye-new-life-as-ai-data-centers">bloomberg.com</a></small></p><hr/><p>German energy company PreussenElektra is collaborating with Nvidia to assess whether its shuttered nuclear power plants can be repurposed into AI data centers. The preliminary assessment explores utilizing former reactor locations while the dismantling process for the facilities continues.</p><p>Decommissioned nuclear sites are viewed as attractive locations for large-scale data center development due to their existing heavy-duty power grid connections and heavy infrastructure. The initiative highlights how energy utilities and tech firms are increasingly exploring unconventional infrastructure solutions to meet surging AI power demands.</p><p><img src="https://media.gettyimages.com/id/1242015846/photo/exterior-view-of-the-isar-2-nuclear-power-plant-of-the-operator-preussenelektra-on-july-20.jpg?s=612x612&w=gi&k=20&c=-cgW7bIGUOE_KYWVZ0n_vEdcrfv0N35759nxiP6M6ho=" /></p><hr/><small>23 Oct 2026, 07:25 UTC | #25192</small>]]></content>
+  </entry>
   <entry>
     <title>Andreessen Horowitz Rebrands a16z Crypto to a16z Frontier</title>
     <link href="https://fortune.com/2026/10/22/venture-giant-andreessen-horowitz-crypto-name-blockchain-fund-rebrands-a16z-frontier/" rel="alternate" />
