@@ -3,9 +3,26 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-22T20:11:00+00:00</updated>
+  <updated>2026-10-22T21:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Matthew Cole Book Excerpt Details Jared Kushner Hacked Phone and Secret Financial Transfers</title>
+    <link href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations" rel="alternate" />
+    <id>https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations::v240</id>
+    <published>2026-10-22T21:25:00+00:00</published>
+    <updated>2026-10-22T21:25:00+00:00</updated>
+    <media:thumbnail url="https://media.vanityfair.com/photos/6ad91087dc03a09d237f39fb/master/w_2560%2Cc_limit/vfoctober_kushner_money_tout.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations">vanityfair.com</a> | <a href="https://news.ycombinator.com/item?id=50201259">hacker news</a></small></p><hr/><p>An excerpt from Matthew Cole’s book, Princes and Thieves: Jared Kushner and Mohamed bin Zayed’s Secret Plot to Remake the Middle East, details how Dutch military intelligence allegedly discovered screenshots of Jared Kushner’s iPhone through a compromised Russian server. The files reportedly revealed that Kushner accessed secret Gulf-funded bank accounts containing billions of dollars from Emirati and Saudi royals during the first Trump administration.</p><p>The excerpt describes multiple accounts and hundreds of millions of dollars routed through Azerbaijan to conceal transactions and fund regional diplomatic objectives. Kushner's legal counsel and former administration officials have strongly denied the allegations, dismissing the claims as fabricated and false.</p><p><img src="https://media.vanityfair.com/photos/6ad91087dc03a09d237f39fb/master/w_2560%2Cc_limit/vfoctober_kushner_money_tout.jpg" /></p><hr/><small>23 Oct 2026, 01:17 UTC | #25195</small>]]></content>
+  </entry>
+  <entry>
+    <title>Trump Asks Elon Musk to Lift Starlink Restrictions in Ukraine</title>
+    <link href="https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e?st=hZda67" rel="alternate" />
+    <id>https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e?st=hZda67::v240</id>
+    <published>2026-10-22T20:14:00+00:00</published>
+    <updated>2026-10-22T20:14:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e?st=hZda67">wsj.com</a></small></p><hr/><p>President Trump asked SpaceX Chief Executive Elon Musk to lift restrictions on the Starshield satellite communications system used by Ukraine's military. The request followed an order by Musk that slowed down the military-grade network, disrupting Ukrainian drone operations and air defenses.</p><p>Ukrainian officials reported that connectivity began improving and operating at higher speeds following the call between Trump and Musk. The speed restrictions had previously caught Kyiv and parts of the administration by surprise, highlighting Ukraine's heavy reliance on SpaceX infrastructure during the ongoing conflict.</p><hr/><small>23 Oct 2026, 01:17 UTC | #25160</small>]]></content>
+  </entry>
   <entry>
     <title>The Browser Company to Shut Down Arc Browser in December</title>
     <link href="https://www.theverge.com/tech/1016832/arc-browser-shutting-down" rel="alternate" />
