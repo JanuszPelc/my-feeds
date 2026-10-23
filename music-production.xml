@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-23T07:34:00+00:00</updated>
+  <updated>2026-10-23T09:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Manifest Audio Releases Sonification Tools v3 Plugin Suite</title>
+    <link href="https://www.kvraudio.com/news/manifest-audio-release-sonification-tools-v3---turning-real-world-data-into-synthesis-sequences-and-effects-vst3-au-clap-for-macos-windows-69277?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69277" rel="alternate" />
+    <id>https://www.kvraudio.com/news/manifest-audio-release-sonification-tools-v3---turning-real-world-data-into-synthesis-sequences-and-effects-vst3-au-clap-for-macos-windows-69277?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69277::v240</id>
+    <published>2026-10-23T09:01:00+00:00</published>
+    <updated>2026-10-23T09:01:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/screenshot-2026-10-07-at-19-35-18.png" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/manifest-audio-release-sonification-tools-v3---turning-real-world-data-into-synthesis-sequences-and-effects-vst3-au-clap-for-macos-windows-69277?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69277">kvraudio.com</a> | <a href="https://manifest.audio/sonification-bundle">source</a></small></p><hr/><p>Manifest Audio has launched Sonification Tools v3, a plugin bundle that converts real-world data and media formats into musical synthesis, sequencing, and audio effects. Moving beyond its previous Max for Live exclusivity, version 3 introduces VST3, AU, and CLAP formats for macOS, Windows, and Linux.</p><p>The suite includes three primary plugins—Data Synth, Data FX, and Data Path—alongside an Ableton Live Extension and an iOS app called Data Tap Pro that streams sensor data via OSC. The software fetches live data feeds from weather, economic, and biodiversity sources, or processes user-supplied files, text, images, and mathematical algorithms for creative modulation.</p><p><img src="https://static.kvraudio.com/i/b/screenshot-2026-10-07-at-19-35-18.png" /></p><hr/><small>23 Oct 2026, 14:16 UTC | #25215</small>]]></content>
+  </entry>
+  <entry>
+    <title>Goldenvoice Head Trip 2026 Festival Highlights Audio and Stage Technology</title>
+    <link href="https://musictech.com/news/head-trip-2026-tech-highlights/" rel="alternate" />
+    <id>https://musictech.com/news/head-trip-2026-tech-highlights/::v240</id>
+    <published>2026-10-23T07:42:00+00:00</published>
+    <updated>2026-10-23T07:42:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/head-trip-hero@2000x1250.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/head-trip-2026-tech-highlights/">musictech.com</a></small></p><hr/><p>MusicTech reviews the audio and stage technology implementations at Goldenvoice’s one-off electronic music festival, Head Trip 2026, held at the Empire Polo Club in Indio. Despite a first-night weather cancellation and initial audio clipping issues during Skrillex’s set, the event showcased massive deployments of L-Acoustics loudspeakers and Floating Points’ custom Sunflower Soundsystem.</p><p>The mainstage featured an inflatable Y2K-era oval structure designed by High Scream’s Romain Pissenem, accompanied by perimeter satellite screens to decentralize the crowd's focus from the DJ booth. Additionally, Apple Music provided global live streams of select performances that captured both direct board audio and ambient festival crowd reactions.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/head-trip-hero@2000x1250.jpg" /></p><hr/><small>23 Oct 2026, 14:15 UTC | #25240</small>]]></content>
+  </entry>
   <entry>
     <title>D16 Group Releases Echolite Free Delay Plugin</title>
     <link href="https://www.kvraudio.com/news/d16-group-releases-echolite---free-delay-plugin-69342?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69342" rel="alternate" />
