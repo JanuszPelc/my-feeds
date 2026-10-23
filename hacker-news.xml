@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-23T16:40:00+00:00</updated>
+  <updated>2026-10-23T17:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Guide to Setting Up and Managing systemd-nspawn Containers</title>
+    <link href="https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/" rel="alternate" />
+    <id>https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/::v240</id>
+    <published>2026-10-23T17:13:00+00:00</published>
+    <updated>2026-10-23T17:13:00+00:00</updated>
+    <media:thumbnail url="https://www.insecure.ws/assets/img/posts/systemd_nspawn/ns3.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/">quantum5.ca</a> | <a href="https://lobste.rs/s/yusomz/whirlwind_tour_systemd_nspawn">discussion</a> | <a href="https://news.ycombinator.com/item?id=50214983">hacker news</a></small></p><hr/><p>This technical guide details how to set up and manage lightweight Linux namespace containers using systemd-nspawn. Operating similarly to a virtual machine with a writable root filesystem, systemd-nspawn provides a streamlined alternative to Docker for running isolated services and sharing host hardware resources like GPUs.</p><p>The walkthrough covers creating root filesystems for various distributions using tools like debootstrap for Debian, dnf for Fedora, and a specialized fork for Alpine Linux. It also explains how to boot containers with UID and GID mapping, configure them for persistent execution, and manage them using machinectl.</p><p><img src="https://www.insecure.ws/assets/img/posts/systemd_nspawn/ns3.png" /></p><hr/><small>23 Oct 2026, 22:38 UTC | #25274</small>]]></content>
+  </entry>
   <entry>
     <title>Copy-on-Write Memory Duplication Using memfd_create and mmap</title>
     <link href="https://sebsite.pw/w/20260728-cow.html" rel="alternate" />
