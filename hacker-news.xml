@@ -1148,22 +1148,4 @@
     <media:thumbnail url="https://wrongbaud.github.io/assets/img/hackaday-u-ghidra/session3.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.philipzucker.com/asmc_cpp/">philipzucker.com</a> | <a href="https://lobste.rs/s/br0hd7/ghidra_cbmc_assembly_model_checker">discussion</a></small></p><hr/><p>ASMC (Assembly Model Checker) integrates Ghidra's assembly semantics with the C Bounded Model Checker (CBMC) to enable formal verification of machine code. Through the asmc-lift component, the tool converts compiled .elf files into CBMC's .gb object format by leveraging Ghidra's P-code semantics. This allows users to perform model checking on assembly by defining post-conditions and assertions using C-based syntax.</p><p>The tool supports x86-64 and RISC-V architectures and is applicable to use cases such as translation validation, decompilation verification, and checking ABI compliance. The implementation utilizes approximately 1,000 lines of C++ code to facilitate the conversion between Ghidra's intermediate representation and CBMC's GOTO IR.</p><p><img src="https://wrongbaud.github.io/assets/img/hackaday-u-ghidra/session3.jpg" /></p><hr/><small>18 Oct 2026, 20:15 UTC | #24681</small>]]></content>
   </entry>
-  <entry>
-    <title>Understanding Parser Combinators with Code Examples</title>
-    <link href="https://t3.at/blog/2026-10-17-parser-combinators/" rel="alternate" />
-    <id>https://t3.at/blog/2026-10-17-parser-combinators/::v240</id>
-    <published>2026-10-18T15:31:00+00:00</published>
-    <updated>2026-10-18T15:31:00+00:00</updated>
-    <media:thumbnail url="https://serokell.io/files/f8/f8oni4b6.graph-2.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://t3.at/blog/2026-10-17-parser-combinators/">t3.at</a> | <a href="https://news.ycombinator.com/item?id=50139067">hacker news</a></small></p><hr/><p>The article explains the mechanics of parser combinators, defining them as functions that take an input string and return a pair consisting of a structured value and the remaining unparsed string. It demonstrates how individual parsers for basic elements, such as integers or specific words, can be composed using a sequence function to build increasingly complex parsing logic.</p><p>Using a ping log as a practical example, the author shows how this technique can transform unstructured text into a highly structured object. This approach offers a modular, maintainable alternative to complex regular expressions, providing a functional middle ground between simple pattern matching and heavy-duty parser generators.</p><p><img src="https://serokell.io/files/f8/f8oni4b6.graph-2.png" /></p><hr/><small>18 Oct 2026, 19:38 UTC | #24680</small>]]></content>
-  </entry>
-  <entry>
-    <title>OpenGL Contexts Fail to Render in macOS 15.8.2 Release Candidate</title>
-    <link href="https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550" rel="alternate" />
-    <id>https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550::v240</id>
-    <published>2026-10-18T15:27:00+00:00</published>
-    <updated>2026-10-18T15:27:00+00:00</updated>
-    <media:thumbnail url="https://developer.apple.com/forums/content/attachment/f6b38361-b8ca-4d99-99a8-373cf4c0277b" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550">developer.apple.com</a> | <a href="https://developer.apple.com/forums/thread/850550">source</a> | <a href="https://news.ycombinator.com/item?id=50141909">hacker news</a></small></p><hr/><p>macOS 15.8.2 release candidate (build 24H219) causes OpenGL contexts to lack a default framebuffer when attached to windows. This affects NSOpenGLView and NSOpenGLContext setView:, resulting in blank windows during rendering.</p><p>The regression was reported by developers on the Apple Developer Forums following updates to M1 Pro hardware. The bug impacts applications utilizing legacy OpenGL APIs rather than Apple's Metal framework.</p><p><img src="https://developer.apple.com/forums/content/attachment/f6b38361-b8ca-4d99-99a8-373cf4c0277b" /></p><hr/><small>18 Oct 2026, 18:57 UTC | #24673</small>]]></content>
-  </entry>
 </feed>

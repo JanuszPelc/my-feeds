@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-23T13:23:00+00:00</updated>
+  <updated>2026-10-23T13:42:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Kadoa Report Finds Investor-Owned Utilities Charge 23% More For Electricity Than Public Providers</title>
+    <link href="https://www.kadoa.com/energy-prices/insights/investor-owned-utilities" rel="alternate" />
+    <id>https://www.kadoa.com/energy-prices/insights/investor-owned-utilities::v240</id>
+    <published>2026-10-23T13:42:00+00:00</published>
+    <updated>2026-10-23T13:42:00+00:00</updated>
+    <media:thumbnail url="https://www.nwcouncil.org/media/filer_public_thumbnails/filer_public/fb/94/fb949ab4-436b-4c5c-b1b6-15964013fbee/iou-vs-pou-rates_4.png__787.0x592.0_q85_subsampling-2.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.kadoa.com/energy-prices/insights/investor-owned-utilities">kadoa.com</a> | <a href="https://news.ycombinator.com/item?id=50208837">hacker news</a></small></p><hr/><p>In 2025, residential electricity customers paid an average of 17.8 cents per kilowatt-hour at investor-owned utilities, compared to 14.5 cents at public utilities and 14.1 cents at co-ops. Since 2020, investor-owned utility prices increased by 34%, outpacing both public utility price growth of 19% and general inflation of 24%.</p><p>The widening price gap primarily developed between 2020 and 2023 during a broad energy price spike, with investor-owned rates rising 25% while nonprofit utility rates rose 11%. Investor-owned utilities build shareholder returns into their rate structures, whereas public utilities and co-ops operate without shareholders and often benefit from tax exemptions and tax-free borrowing.</p><p><img src="https://www.nwcouncil.org/media/filer_public_thumbnails/filer_public/fb/94/fb949ab4-436b-4c5c-b1b6-15964013fbee/iou-vs-pou-rates_4.png__787.0x592.0_q85_subsampling-2.jpg" /></p><hr/><small>23 Oct 2026, 15:33 UTC | #25248</small>]]></content>
+  </entry>
   <entry>
     <title>Hacker News Discussion Examines OpenAI Strategy of Selling Models Rather Than Building Companies</title>
     <link href="https://news.ycombinator.com/item?id=50200997" rel="alternate" />
