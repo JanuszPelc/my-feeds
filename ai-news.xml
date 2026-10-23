@@ -473,12 +473,4 @@
     <media:thumbnail url="https://us1.discourse-cdn.com/openai1/original/4X/3/2/4/324649e60df6248239b971cd30950121a03f4a06.jpeg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/openai/codex/issues/25921">github.com</a> | <a href="https://news.ycombinator.com/item?id=50133231">hacker news</a></small></p><hr/><p>OpenAI's Codex Desktop application on macOS is experiencing a bug where its Crashpad crash-reporting subsystem generates unbounded local disk growth. One user reported that the application accumulated approximately 323 GB of crash dumps across 4 million files, significantly depleting available system storage.</p><p>The growth is caused by a crash loop within the application's crash-handling process, which generates a new memory dump immediately upon restarting. Because the primary application remains functional during this cycle, the storage accumulation occurs silently in the background without providing in-app warnings.</p><p><img src="https://us1.discourse-cdn.com/openai1/original/4X/3/2/4/324649e60df6248239b971cd30950121a03f4a06.jpeg" /></p><hr/><small>18 Oct 2026, 21:48 UTC | #24690</small>]]></content>
   </entry>
-  <entry>
-    <title>DeepSeek Releases Search and Fetch APIs</title>
-    <link href="https://api-docs.deepseek.com/guides/search/" rel="alternate" />
-    <id>https://api-docs.deepseek.com/guides/search/::v240</id>
-    <published>2026-10-18T06:51:00+00:00</published>
-    <updated>2026-10-18T06:51:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://api-docs.deepseek.com/guides/search/">api-docs.deepseek.com</a> | <a href="https://news.ycombinator.com/item?id=50138531">hacker news</a></small></p><hr/><p>DeepSeek has released two new raw JSON APIs, Search and Fetch, which allow AI agents and RAG applications to access live web content. The Search API utilizes an in-house search engine to provide structured query results, while the Fetch API retrieves single web pages and returns their content as Markdown.</p><p>Both APIs are priced at $0.75 per 1,000 successful requests and are subject to independent rate limits of 5 queries per second. Although server-side tool calls through Claude Code, Codex, or DeepSeek Harness are currently free, per-request billing for these integrations is set to begin on November 1, 2026.</p><hr/><small>18 Oct 2026, 15:16 UTC | #24651</small>]]></content>
-  </entry>
 </feed>
