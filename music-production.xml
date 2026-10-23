@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-23T09:52:00+00:00</updated>
+  <updated>2026-10-23T13:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>SoundMorph Releases First Contact Free Cinematic Sound Library</title>
+    <link href="https://bedroomproducersblog.com/2026/10/23/soundmorph-first-contact/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/23/soundmorph-first-contact/::v240</id>
+    <published>2026-10-23T13:45:00+00:00</published>
+    <updated>2026-10-23T13:45:00+00:00</updated>
+    <media:thumbnail url="https://fcpxfullaccess.com/cdn/shop/products/CinematicAtmospheresPack_882bc4ef-9cdc-4672-9442-828ceb500a39_1800x1800.png?v=1597078698" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/23/soundmorph-first-contact/">bedroomproducersblog.com</a> | <a href="https://soundmorph.com/products/first-contact">source</a> | <a href="https://bedroomproducersblog.com/2026/10/23/soundmorph-first-contact/#respond">discussion</a></small></p><hr/><p>SoundMorph has released First Contact, a free cinematic sound effects collection consisting of over 100 WAV files totaling 1.16 gigabytes. The library features impacts, whooshes, sci-fi energy, robotic movements, textures, and percussion designed for film, game, and music production.</p><p>The collection includes a mix of previously unreleased material and handpicked selections from the developer's established libraries. Users can claim the pack by creating a SoundMorph account and joining the company's newsletter.</p><p><img src="https://fcpxfullaccess.com/cdn/shop/products/CinematicAtmospheresPack_882bc4ef-9cdc-4672-9442-828ceb500a39_1800x1800.png?v=1597078698" /></p><hr/><small>23 Oct 2026, 16:09 UTC | #25225</small>]]></content>
+  </entry>
   <entry>
     <title>Unusable Engineering Updates Partials &amp; Discrepancies to v1.5.0</title>
     <link href="https://www.kvraudio.com/news/unusable-engineering-updates-partials-and-discrepancies-to-v1-5-0-69317?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69317" rel="alternate" />
