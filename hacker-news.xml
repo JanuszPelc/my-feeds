@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-23T13:59:00+00:00</updated>
+  <updated>2026-10-23T16:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Calif Demonstrates Untethered iOS 27.0.1 Jailbreak and Exploits at Hexacon</title>
+    <link href="https://blog.calif.io/p/iphone" rel="alternate" />
+    <id>https://blog.calif.io/p/iphone::v240</id>
+    <published>2026-10-23T16:22:00+00:00</published>
+    <updated>2026-10-23T16:22:00+00:00</updated>
+    <media:thumbnail url="https://www.golem.de/2603/206074-564643-564642_rc.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.calif.io/p/iphone">blog.calif.io</a> | <a href="https://news.ycombinator.com/item?id=50211474">hacker news</a></small></p><hr/><p>Security firm Calif demonstrated an untethered jailbreak and a series of exploit demos targeting an iPhone 18 Pro running iOS 27.0.1 at the Hexacon conference in Paris. The presentation included demonstrations of a Signal one-click attack, an iMessage intrusion method, and a persistent root-level exploit chain.</p><p>The firm did not release public tools, exploit code, or specific vulnerability details during the presentation, stating that everything will be released in due time. The demonstration highlighted advanced remote compromise capabilities and persistent root privileges following a device reboot.</p><p><img src="https://www.golem.de/2603/206074-564643-564642_rc.jpg" /></p><hr/><small>23 Oct 2026, 18:05 UTC | #25258</small>]]></content>
+  </entry>
   <entry>
     <title>Software Is Slow Because of Bad Design, Not Slow Languages</title>
     <link href="https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/" rel="alternate" />
@@ -1147,14 +1156,5 @@
     <updated>2026-10-18T18:55:00+00:00</updated>
     <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQF-gNcmXJTMvg/article-cover_image-shrink_720_1280/B4DZ0LpOq_IwAQ-/0/1774016855599?e=2147483647&amp;v=beta&amp;t=ucWsXMrSh1aBz84sZ06JxbHPf86g3MX-CE4Zgpo0qV8" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.modernescpp.com/index.php/cpp-and-memory-safety-part-1/">modernescpp.com</a> | <a href="https://lobste.rs/s/koipdp/problem_with_c_safety_why_it_works_isn_t">discussion</a></small></p><hr/><p>The article examines the security implications of C++ memory safety, highlighting recommendations from the NSA and the European Union's Cyber Resilience Act to prioritize memory-safe languages. By critiquing a standard palindrome-check implementation, the text illustrates how code that compiles and executes successfully can still fail to meet modern safety standards through improper variable types, lack of bounds checking, and violation of C++ Core Guidelines.</p><p>The author contends that the "it works" approach to programming is inadequate for preventing vulnerabilities. This essay serves as the first in a series of technical discussions continuing the legacy of Rainer Grimm, with a forthcoming part intended to present a superior "modern C++" solution to these safety concerns.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQF-gNcmXJTMvg/article-cover_image-shrink_720_1280/B4DZ0LpOq_IwAQ-/0/1774016855599?e=2147483647&v=beta&t=ucWsXMrSh1aBz84sZ06JxbHPf86g3MX-CE4Zgpo0qV8" /></p><hr/><small>18 Oct 2026, 22:20 UTC | #24692</small>]]></content>
-  </entry>
-  <entry>
-    <title>Intel 8087 Microcode for Floating-Point Addition and Subtraction Analyzed</title>
-    <link href="https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html" rel="alternate" />
-    <id>https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html::v240</id>
-    <published>2026-10-18T18:00:00+00:00</published>
-    <updated>2026-10-18T18:00:00+00:00</updated>
-    <media:thumbnail url="https://static.righto.com/images/8087-decode/jump-rom-w700.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html">righto.com</a> | <a href="https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point">discussion</a> | <a href="https://news.ycombinator.com/item?id=50142449">hacker news</a></small></p><hr/><p>The investigation examines the microcode and circuitry of the Intel 8087 math coprocessor to explain how floating-point addition and subtraction are implemented. Key hardware components, such as the integer adder, bit shifter, and exponent converter, are identified alongside their roles in processing 80-bit values.</p><p>Through die analysis and micro-instruction tracing, the author explains the sequence of operations required for exponent alignment, significand math, and normalization. The discussion covers how the chip manages its 80-bit "temporary real" format and handles special cases such as zero and denormalized numbers.</p><p><img src="https://static.righto.com/images/8087-decode/jump-rom-w700.jpg" /></p><hr/><small>18 Oct 2026, 21:09 UTC | #24675</small>]]></content>
   </entry>
 </feed>
