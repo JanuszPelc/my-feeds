@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-23T13:50:00+00:00</updated>
+  <updated>2026-10-23T13:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Anthropic and Hg Agree to Launch European AI Consultancy</title>
+    <link href="https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4" rel="alternate" />
+    <id>https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4::v240</id>
+    <published>2026-10-23T13:54:00+00:00</published>
+    <updated>2026-10-23T13:54:00+00:00</updated>
+    <media:thumbnail url="https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/aiwereld.nl/images/2025-04/anthropic-breidt-uit-naar-europa-met-100-nieuwe-ai-banen-67f56b8f6ecd6.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4">ft.com</a></small></p><hr/><p>AI lab Anthropic and London-based private equity firm Hg have agreed to establish a dedicated European consultancy by the end of 2026. The new venture will embed specialized AI consultants and engineers directly into European businesses to advise corporate clients on deploying advanced AI models.</p><p>This initiative marks Anthropic's first standalone consultancy backed in Europe, building on existing collaborations with Hg portfolio companies that began in 2024. Operating out of hubs including London and Berlin, the partnership aims to expand the commercial adoption of Claude and other AI technologies across the region's enterprise sector.</p><p><img src="https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/aiwereld.nl/images/2025-04/anthropic-breidt-uit-naar-europa-met-100-nieuwe-ai-banen-67f56b8f6ecd6.png" /></p><hr/><small>23 Oct 2026, 17:52 UTC | #25222</small>]]></content>
+  </entry>
   <entry>
     <title>Greece Passes Social Media Ban for Children Under 15</title>
     <link href="https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/" rel="alternate" />

@@ -3,9 +3,27 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-23T13:48:00+00:00</updated>
+  <updated>2026-10-23T13:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Software Is Slow Because of Bad Design, Not Slow Languages</title>
+    <link href="https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/" rel="alternate" />
+    <id>https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/::v240</id>
+    <published>2026-10-23T13:59:00+00:00</published>
+    <updated>2026-10-23T13:59:00+00:00</updated>
+    <media:thumbnail url="https://www.digitalpeer.com/blog/file/890/427/large/bb.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/">seangoedecke.com</a> | <a href="https://lobste.rs/s/hd72yt/software_is_slow_because_bad_design_not">discussion</a> | <a href="https://news.ycombinator.com/item?id=50206715">hacker news</a></small></p><hr/><p>Sean Goedecke argues that rewriting software in faster languages like Rust or C rarely yields dramatic performance improvements because most real-world programs are I/O-bound rather than CPU-bound. Since a significant portion of execution time is spent waiting on databases, networks, or disks, speeding up code execution leaves the primary bottlenecks untouched. Furthermore, high-level languages already delegate heavy computational workloads to tightly optimized libraries written in lower-level languages.</p><p>Significant software speedups typically stem from architectural redesigns that minimize unnecessary work, such as caching slow API calls, executing operations asynchronously or in parallel, and resolving N+1 database query problems. While language choice matters for specific CPU-bound hotspots, prioritizing system design offers far greater performance gains than code translation alone.</p><p><img src="https://www.digitalpeer.com/blog/file/890/427/large/bb.png" /></p><hr/><small>23 Oct 2026, 17:57 UTC | #25254</small>]]></content>
+  </entry>
+  <entry>
+    <title>Edsger W. Dijkstra: On the Foolishness of "Natural Language Programming"</title>
+    <link href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html" rel="alternate" />
+    <id>https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html::v240</id>
+    <published>2026-10-23T13:58:00+00:00</published>
+    <updated>2026-10-23T13:58:00+00:00</updated>
+    <media:thumbnail url="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/natural_language_vs_programming_languages.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html">cs.utexas.edu</a> | <a href="https://news.ycombinator.com/item?id=50203161">hacker news</a></small></p><hr/><p>Edsger W. Dijkstra argues in his 1977 manuscript that attempting to program computers using natural human languages is fundamentally misguided. He contends that formal symbolisms provide essential discipline and precision, protecting users from the subtle ambiguities and nonsense inherent in native tongues.</p><p>Dijkstra draws historical parallels to mathematics, noting that progress accelerated only after abandoning rhetorical styles in favor of consciously designed formal notation. He warns that replacing formal programming interfaces with natural language would not reduce human effort, but would instead shift the immense labor of disambiguation onto an intractable translation process.</p><p><img src="https://raw.githubusercontent.com/ffraile/computer_science_tutorials/main/source/Introduction/tutorials/img/natural_language_vs_programming_languages.png" /></p><hr/><small>23 Oct 2026, 17:56 UTC | #25253</small>]]></content>
+  </entry>
   <entry>
     <title>Roc DEFLATE Performance Approaches C libdeflate in New Benchmarks</title>
     <link href="https://rtfeldman.com/fp-vs-c" rel="alternate" />
@@ -1138,23 +1156,5 @@
     <updated>2026-10-18T18:00:00+00:00</updated>
     <media:thumbnail url="https://static.righto.com/images/8087-decode/jump-rom-w700.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html">righto.com</a> | <a href="https://lobste.rs/s/nbxnh7/inside_intel_8087_chip_floating_point">discussion</a> | <a href="https://news.ycombinator.com/item?id=50142449">hacker news</a></small></p><hr/><p>The investigation examines the microcode and circuitry of the Intel 8087 math coprocessor to explain how floating-point addition and subtraction are implemented. Key hardware components, such as the integer adder, bit shifter, and exponent converter, are identified alongside their roles in processing 80-bit values.</p><p>Through die analysis and micro-instruction tracing, the author explains the sequence of operations required for exponent alignment, significand math, and normalization. The discussion covers how the chip manages its 80-bit "temporary real" format and handles special cases such as zero and denormalized numbers.</p><p><img src="https://static.righto.com/images/8087-decode/jump-rom-w700.jpg" /></p><hr/><small>18 Oct 2026, 21:09 UTC | #24675</small>]]></content>
-  </entry>
-  <entry>
-    <title>Emacs User Automates Weekly Org-mode Clock Table Updates Using Nested Timers</title>
-    <link href="https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks" rel="alternate" />
-    <id>https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks::v240</id>
-    <published>2026-10-18T17:04:00+00:00</published>
-    <updated>2026-10-18T17:04:00+00:00</updated>
-    <media:thumbnail url="https://emacs-china.org/uploads/default/original/2X/1/118f36d3a48a94520935c4ad2c5e0434d2345f55.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks">mbork.pl</a> | <a href="https://lobste.rs/s/u8vxmz/using_timers_perform_weekly_tasks">discussion</a></small></p><hr/><p>Marcin Borkowski describes an Emacs workflow to automate weekly Org-mode clock table updates using a nested timer strategy. To avoid the system triggering updates immediately when a laptop wakes from sleep—due to sleep time being miscounted as idle time—the solution implements a three-layer timer chain involving a regular weekly timer, a scheduled timer, and an idle timer.</p><p>The implementation follows advice from Emacs developer Eli Zaretskii to ensure that user activity immediately following a system wake resets the idle clock. The article also highlights the new system-sleep package in Emacs, which allows developers to attach Elisp functions to pre-sleep and post-wake events.</p><p><img src="https://emacs-china.org/uploads/default/original/2X/1/118f36d3a48a94520935c4ad2c5e0434d2345f55.png" /></p><hr/><small>18 Oct 2026, 21:06 UTC | #24689</small>]]></content>
-  </entry>
-  <entry>
-    <title>ASMC Integrates Ghidra Semantics with CBMC for Assembly Model Checking</title>
-    <link href="https://www.philipzucker.com/asmc_cpp/" rel="alternate" />
-    <id>https://www.philipzucker.com/asmc_cpp/::v240</id>
-    <published>2026-10-18T16:59:00+00:00</published>
-    <updated>2026-10-18T16:59:00+00:00</updated>
-    <media:thumbnail url="https://wrongbaud.github.io/assets/img/hackaday-u-ghidra/session3.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.philipzucker.com/asmc_cpp/">philipzucker.com</a> | <a href="https://lobste.rs/s/br0hd7/ghidra_cbmc_assembly_model_checker">discussion</a></small></p><hr/><p>ASMC (Assembly Model Checker) integrates Ghidra's assembly semantics with the C Bounded Model Checker (CBMC) to enable formal verification of machine code. Through the asmc-lift component, the tool converts compiled .elf files into CBMC's .gb object format by leveraging Ghidra's P-code semantics. This allows users to perform model checking on assembly by defining post-conditions and assertions using C-based syntax.</p><p>The tool supports x86-64 and RISC-V architectures and is applicable to use cases such as translation validation, decompilation verification, and checking ABI compliance. The implementation utilizes approximately 1,000 lines of C++ code to facilitate the conversion between Ghidra's intermediate representation and CBMC's GOTO IR.</p><p><img src="https://wrongbaud.github.io/assets/img/hackaday-u-ghidra/session3.jpg" /></p><hr/><small>18 Oct 2026, 20:15 UTC | #24681</small>]]></content>
   </entry>
 </feed>
