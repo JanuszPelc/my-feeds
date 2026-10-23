@@ -3,9 +3,18 @@
   <title>multimedia-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml</id>
-  <updated>2026-10-23T13:51:00+00:00</updated>
+  <updated>2026-10-23T17:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/multimedia-tech.png</logo>
+  <entry>
+    <title>GameMaker to Make GMRT Runtime Free for Commercial Use in 2027</title>
+    <link href="https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs" rel="alternate" />
+    <id>https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs::v240</id>
+    <published>2026-10-23T17:52:00+00:00</published>
+    <updated>2026-10-23T17:52:00+00:00</updated>
+    <media:thumbnail url="https://gamemaker.io/_next/image?url=https://assets.gamemaker.io/content/GM_Update_Spring_16fb9b625f.png&amp;w=640&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs">gamedeveloper.com</a> | <a href="https://gamemaker.io/en/blog/gmrt-update">source</a></small></p><hr/><p>Starting January 1, 2027, developers can distribute games on PC, mobile, web, and GX Games for free using the GMRT runtime. This update removes the requirement for a professional license for these specific platforms.</p><p>Developers targeting consoles—including PlayStation 5, Xbox Series X|S, or Nintendo Switch 2—will still require an enterprise license. The move is part of a strategy to make indie game development more accessible.</p><p><img src="https://gamemaker.io/_next/image?url=https://assets.gamemaker.io/content/GM_Update_Spring_16fb9b625f.png&w=640&q=75" /></p><hr/><small>23 Oct 2026, 23:01 UTC | #25260</small>]]></content>
+  </entry>
   <entry>
     <title>Isaac Marovitz Examines Unused Visual Features and Rendering Systems in Sonic 06</title>
     <link href="https://isaacmarovitz.com/posts/sonic-06/" rel="alternate" />
