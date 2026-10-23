@@ -1179,21 +1179,4 @@
     <updated>2026-10-18T10:43:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://sphinx-six-theta.vercel.app/">sphinx-six-theta.vercel.app</a> | <a href="https://github.com/parthh01/sphinx">source</a> | <a href="https://news.ycombinator.com/item?id=50137950">hacker news</a></small></p><hr/><p>Sphinx is an open-source Git hook designed to ensure developers understand the code produced by AI agents before it is pushed to protected branches. When a push is initiated, the tool intercepts the process and presents a scenario-based question derived from the code diff, requiring a correct response to proceed.</p><p>The tool integrates with various AI coding environments, such as Cursor, Claude Code, and Codex, using OpenAI-compatible endpoints. It is designed to run with minimal token usage and maintains security by not accessing sensitive environment files or API keys during the verification process.</p><hr/><small>18 Oct 2026, 17:33 UTC | #24659</small>]]></content>
   </entry>
-  <entry>
-    <title>C++26 Introduces New `&lt;debugging&gt;` Standard Library Header</title>
-    <link href="https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging" rel="alternate" />
-    <id>https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging::v240</id>
-    <published>2026-10-18T03:26:00+00:00</published>
-    <updated>2026-10-18T03:26:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging">sandordargo.com</a> | <a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2546r5.html">source</a> | <a href="https://lobste.rs/s/lnh3vn/c_26_new_debugging_header">discussion</a> | <a href="https://news.ycombinator.com/item?id=50122736">hacker news</a></small></p><hr/><p>C++26 introduces a new `&lt;debugging&gt;` header to standardize programmatic breakpoint control and debugger detection. The header provides three core functions: `std::breakpoint()` for unconditional halts, `std::is_debugger_present()` for checking debugger attachment, and `std::breakpoint_if_debugging()` for conditional breakpoints.</p><p>This standardization replaces the platform-specific macros and custom implementations previously required by frameworks like Boost.Test and Catch2. To support bare-metal and freestanding environments, `std::is_debugger_present()` is designed to be replaceable, allowing developers to implement custom detection logic for their specific hardware or operating systems.</p><hr/><small>18 Oct 2026, 14:51 UTC | #24656</small>]]></content>
-  </entry>
-  <entry>
-    <title>Basis Uses LLMs to Formally Verify Programming Language Semantics</title>
-    <link href="https://www.basis.ai/blog/ship-your-interpreters/" rel="alternate" />
-    <id>https://www.basis.ai/blog/ship-your-interpreters/::v240</id>
-    <published>2026-10-18T03:25:00+00:00</published>
-    <updated>2026-10-18T03:25:00+00:00</updated>
-    <media:thumbnail url="https://www.basis.ai/ship-your-interpreters/square_v3.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.basis.ai/blog/ship-your-interpreters/">basis.ai</a> | <a href="https://lobste.rs/s/rtd5gq/ship_your_interpreter">discussion</a></small></p><hr/><p>Basis researchers have developed a method to use Large Language Models (LLMs) to generate formal semantics for programming languages and use the Lean theorem prover to verify their accuracy. By compiling an existing interpreter to RISC-V, the researchers required the LLM to prove that its mathematical rules match the behavior of the compiled binary, effectively using the interpreter as the ground truth.</p><p>This approach aims to scale formal verification to common languages that currently lack formal mathematical descriptions, which serves as a major bottleneck for software security. The research demonstrates that the proof process can identify subtle implementation details, such as specific integer wrapping and string-handling limits, that traditional test suites often fail to detect.</p><p><img src="https://www.basis.ai/ship-your-interpreters/square_v3.png" /></p><hr/><small>18 Oct 2026, 14:44 UTC | #24655</small>]]></content>
-  </entry>
 </feed>
