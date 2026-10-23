@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-22T21:27:00+00:00</updated>
+  <updated>2026-10-23T00:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>The Usability Impact of Custom JavaScript Links and Replaced Native Elements</title>
+    <link href="https://maurycyz.com/misc/real_links/" rel="alternate" />
+    <id>https://maurycyz.com/misc/real_links/::v240</id>
+    <published>2026-10-23T00:38:00+00:00</published>
+    <updated>2026-10-23T00:38:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/935323096/original/a804ce7cca/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://maurycyz.com/misc/real_links/">maurycyz.com</a> | <a href="https://lobste.rs/s/mucay8/please_don_t_mess_with_links">discussion</a></small></p><hr/><p>A blog post examines how replacing native HTML elements and semantic links with custom JavaScript buttons, popups, and non-standard UI components degrades browser functionality, accessibility, and user experience.</p><p>The author details how native browser capabilities—such as tab management, keyboard navigation, text searching, and loading progress indicators—fail when developers implement custom solutions for links, infinite scrolling, and form inputs.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/935323096/original/a804ce7cca/1?v=1" /></p><hr/><small>23 Oct 2026, 05:10 UTC | #25204</small>]]></content>
+  </entry>
   <entry>
     <title>Amazon Rebrands Kindle Unlimited to Kindle+ With Added AI Audiobooks</title>
     <link href="https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/" rel="alternate" />
