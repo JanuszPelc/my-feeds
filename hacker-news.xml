@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-23T01:23:00+00:00</updated>
+  <updated>2026-10-23T09:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Fyra Labs Analyzes and Debunks Tov Programming Language Benchmarks</title>
+    <link href="https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/" rel="alternate" />
+    <id>https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/::v240</id>
+    <published>2026-10-23T09:39:00+00:00</published>
+    <updated>2026-10-23T09:39:00+00:00</updated>
+    <media:thumbnail url="https://niklas-heer.github.io/speed-comparison/history/2025-12-21T203810/combined_results.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/">blog.fyralabs.com</a> | <a href="https://lobste.rs/s/gajtrm/debunking_faster_than_rust_malicious">discussion</a> | <a href="https://news.ycombinator.com/item?id=50204525">hacker news</a></small></p><hr/><p>Fyra Labs published an investigation into benchmark claims made by Tov, a new programming language marketed for coding agents that compiles TypeScript down to native C. The analysis examines three specific benchmarks—bigint_fib, dispatch, and map_insert—and demonstrates that the original tests were structured in ways that artificially degraded Rust's performance.</p><p>Re-running the benchmarks with optimized Rust implementations, such as eliminating dynamic dispatch or substituting more efficient hash maps, shows that Rust matches or exceeds Tov's speed. The findings question the validity of Tov's performance claims and illustrate how benchmark methodology can heavily skew comparisons between programming languages.</p><p><img src="https://niklas-heer.github.io/speed-comparison/history/2025-12-21T203810/combined_results.png" /></p><hr/><small>23 Oct 2026, 14:53 UTC | #25244</small>]]></content>
+  </entry>
   <entry>
     <title>An Analysis of UUIDv7 Properties and RFC Compliance</title>
     <link href="https://alexsci.com/blog/uuidv7-is-weird/" rel="alternate" />

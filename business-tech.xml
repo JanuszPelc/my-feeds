@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-23T05:02:00+00:00</updated>
+  <updated>2026-10-23T13:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Keep Android Open Campaign Challenges Google's Android Developer Verification Policy</title>
+    <link href="https://keepandroidopen.org/?" rel="alternate" />
+    <id>https://keepandroidopen.org/?::v240</id>
+    <published>2026-10-23T13:20:00+00:00</published>
+    <updated>2026-10-23T13:20:00+00:00</updated>
+    <media:thumbnail url="https://developer.android.com/static/blog/assets/large_260318_AD_Vflow_chart_v5_9eb2ccef47_2mDNMC.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://keepandroidopen.org/?">keepandroidopen.org</a> | <a href="https://news.ycombinator.com/item?id=50208558">hacker news</a></small></p><hr/><p>The Keep Android Open campaign opposes Google's policy requiring all Android app developers to centrally register and provide government-issued identification before their software can be installed on certified devices. The mandate affects all applications, including those distributed via alternative open-source platforms like F-Droid or sideloaded independently, by introducing mandatory identity checks and cryptographic signing verification.</p><p>Critics and civil rights organizations argue that the policy undermines Android's open ecosystem, threatens open-source distribution, and introduces severe hurdles for independent developers. While Google frames the requirements around malware prevention and platform security, opponents contend that mandatory identity collection creates censorship risks and disproportionately impacts privacy advocates, hobbyists, and users operating under restrictive regimes.</p><p><img src="https://developer.android.com/static/blog/assets/large_260318_AD_Vflow_chart_v5_9eb2ccef47_2mDNMC.webp" /></p><hr/><small>23 Oct 2026, 14:56 UTC | #25243</small>]]></content>
+  </entry>
   <entry>
     <title>Oura Sues Ultrahuman Again to Block U.S. Sales of Ring Pro</title>
     <link href="https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/" rel="alternate" />
