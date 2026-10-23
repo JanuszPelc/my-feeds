@@ -886,13 +886,4 @@
     <updated>2026-10-18T20:50:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/asia-pacific/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul-newspaper-2026-10-18/">reuters.com</a></small></p><hr/><p>Samsung Electronics will use TSMC's 3-nanometer process to manufacture base dies for Nvidia's custom NVHBM next-generation memory chips. Nvidia reportedly requested that Samsung, SK Hynix, and Micron produce these components to meet its high-bandwidth memory needs.</p><p>This agreement marks Samsung's first manufacturing-stage collaboration with TSMC. The partnership highlights the growing supply chain interdependence between major semiconductor firms as they compete to support the hardware requirements of the AI industry.</p><hr/><small>19 Oct 2026, 01:19 UTC | #24672</small>]]></content>
   </entry>
-  <entry>
-    <title>Google Disability Support Fails to Escalate Android Accessibility Bug</title>
-    <link href="https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/" rel="alternate" />
-    <id>https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/::v240</id>
-    <published>2026-10-18T18:53:00+00:00</published>
-    <updated>2026-10-18T18:53:00+00:00</updated>
-    <media:thumbnail url="https://pauljadam.com/androida11y/img/exploreByTouchTutorial.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/">fireborn.mataroa.blog</a> | <a href="https://lobste.rs/s/brrnpm/outside_scope_our_support">discussion</a></small></p><hr/><p>A critical Android accessibility bug that renders TouchExplorer unusable until a device reboot was successfully reported only after the author bypassed Google Disability Support's troubleshooting loop. Despite providing a root cause analysis and software patches to support agents, the developer was informed that technical fixes were "out of scope," eventually necessitating a direct filing through the Android public issue tracker.</p><p>The incident highlights a systemic gap in how Google handles technical accessibility failures. While the public issue tracker assigned the bug to an engineer within 102 minutes, the dedicated disability support channel remained unable to facilitate technical escalation, often directing users toward community forums or developer documentation instead of engineering teams.</p><p><img src="https://pauljadam.com/androida11y/img/exploreByTouchTutorial.png" /></p><hr/><small>18 Oct 2026, 22:03 UTC | #24687</small>]]></content>
-  </entry>
 </feed>

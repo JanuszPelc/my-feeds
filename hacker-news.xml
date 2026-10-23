@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-23T16:22:00+00:00</updated>
+  <updated>2026-10-23T16:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Dwarkesh Patel Explores Future Semiconductor Design and Manufacturing in Intel Fab Tour</title>
+    <link href="https://www.dwarkesh.com/p/intel-tour" rel="alternate" />
+    <id>https://www.dwarkesh.com/p/intel-tour::v240</id>
+    <published>2026-10-23T16:24:00+00:00</published>
+    <updated>2026-10-23T16:24:00+00:00</updated>
+    <media:thumbnail url="https://partofstyle.com/wp-content/uploads/2024/02/Intel-aims-to-surpass-TSMC-in-advanced-chip-manufacturing.webp.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.dwarkesh.com/p/intel-tour">dwarkesh.com</a></small></p><hr/><p>Dwarkesh Patel tours Intel's advanced fabrication facilities and interviews technical leadership to examine the trajectory of semiconductor design and manufacturing through 2045. The discussions explore how foundries plan to scale leading-edge compute production amid unprecedented demand driven by artificial intelligence.</p><p>The episode covers lessons learned from Intel's historical 10-nanometer delays, tool limitations in wafer production, and the technical hurdles of advancing past FinFET to gate-all-around transistors, backside power delivery, and hybrid bonding.</p><p><img src="https://partofstyle.com/wp-content/uploads/2024/02/Intel-aims-to-surpass-TSMC-in-advanced-chip-manufacturing.webp.webp" /></p><hr/><small>23 Oct 2026, 18:54 UTC | #25235</small>]]></content>
+  </entry>
   <entry>
     <title>Calif Demonstrates Untethered iOS 27.0.1 Jailbreak and Exploits at Hexacon</title>
     <link href="https://blog.calif.io/p/iphone" rel="alternate" />
