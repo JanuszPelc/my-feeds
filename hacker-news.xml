@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-23T00:41:00+00:00</updated>
+  <updated>2026-10-23T00:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Implementing Compile-Time Traits in Zig Using Userland Abstractions</title>
+    <link href="https://www.axelmagn.com/blog/202610-zig-traits/" rel="alternate" />
+    <id>https://www.axelmagn.com/blog/202610-zig-traits/::v240</id>
+    <published>2026-10-23T00:51:00+00:00</published>
+    <updated>2026-10-23T00:51:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimYne0aVachVdxvN957noYGq1kjAyTfh4afFEVppJjo9tFlTS78mOl_XXJK4rPIs-RuQRrirc1QTvi3cEBY3BqOVYgfE8_BQ1FX3h78IR99YTK9B3NuieUchB9JtrVrmLwfF3gidrwsq6s/s1600/Polymorphism.JPG" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.axelmagn.com/blog/202610-zig-traits/">axelmagn.com</a> | <a href="https://lobste.rs/s/05xrj8/we_have_traits_at_home">discussion</a> | <a href="https://news.ycombinator.com/item?id=50202482">hacker news</a></small></p><hr/><p>An architectural guide explores how developers can implement traits and compile-time type contracts in Zig using vanilla language features. By structuring related functions into compile-time structs, programmers can establish clear type contracts without incurring the performance penalties associated with runtime dynamic dispatch and virtual tables.</p><p>The approach relies on compile-time dependency injection and helper functions to derive trait implementations from anonymous structs, allowing the compiler to successfully monomorphize and inline code. While limited by a lack of native type erasure or associated types, this convention provides a structured alternative to standard duck typing and explicit vtables in performance-critical applications.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimYne0aVachVdxvN957noYGq1kjAyTfh4afFEVppJjo9tFlTS78mOl_XXJK4rPIs-RuQRrirc1QTvi3cEBY3BqOVYgfE8_BQ1FX3h78IR99YTK9B3NuieUchB9JtrVrmLwfF3gidrwsq6s/s1600/Polymorphism.JPG" /></p><hr/><small>23 Oct 2026, 07:14 UTC | #25209</small>]]></content>
+  </entry>
   <entry>
     <title>Method for Portably Accessing Errno Values Outside of C</title>
     <link href="https://sebsite.pw/w/20260925-errno.html" rel="alternate" />
