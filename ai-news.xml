@@ -3,7 +3,7 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-22T19:03:00+00:00</updated>
+  <updated>2026-10-23T02:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
   <entry>
@@ -146,9 +146,9 @@
     <link href="https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319" rel="alternate" />
     <id>https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319::v240</id>
     <published>2026-10-21T15:34:00+00:00</published>
-    <updated>2026-10-21T15:34:00+00:00</updated>
+    <updated>2026-10-23T02:50:00+00:00</updated>
     <media:thumbnail url="https://blogs.cisco.com/gcs/ciscoblogs/1/2026/03/Securing-Enterprise-Agents-Large.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319">theregister.com</a> | <a href="https://nvidianews.nvidia.com/news/openshell-reference-architecture">source</a></small></p><hr/><p>Nvidia has introduced the OpenShell Reference Architecture, a framework based on its OpenShell secure runtime designed to operate, observe, and police corporate AI agents. The blueprint integrates specialized infrastructure components, including Vera CPUs for agent harnesses, Rubin chips for models, and BlueField DPUs with Sentry security software for monitoring behavior.</p><p>The architecture aims to mitigate risks associated with unruly AI agents by establishing strict boundaries, credentials management, and identity policies. Nvidia is collaborating with major cloud hyperscalers, operating system vendors, and software partners like SAP to implement the framework across enterprise environments.</p><p><img src="https://blogs.cisco.com/gcs/ciscoblogs/1/2026/03/Securing-Enterprise-Agents-Large.jpg" /></p><hr/><small>21 Oct 2026, 21:32 UTC | #25010</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319">theregister.com</a> | <a href="https://nvidianews.nvidia.com/news/openshell-reference-architecture">source</a> | <a href="https://news.ycombinator.com/item?id=50198675">hacker news</a></small></p><hr/><p>Nvidia has introduced the OpenShell Reference Architecture, a framework based on its OpenShell secure runtime designed to operate, observe, and police corporate AI agents. The blueprint integrates specialized infrastructure components, including Vera CPUs for agent harnesses, Rubin chips for models, and BlueField DPUs with Sentry security software for monitoring behavior.</p><p>The architecture aims to mitigate risks associated with unruly AI agents by establishing strict boundaries, credentials management, and identity policies. Nvidia is collaborating with major cloud hyperscalers, operating system vendors, and software partners like SAP to implement the framework across enterprise environments.</p><p><img src="https://blogs.cisco.com/gcs/ciscoblogs/1/2026/03/Securing-Enterprise-Agents-Large.jpg" /></p><hr/><small>21 Oct 2026, 21:32 UTC | #25010</small>]]></content>
   </entry>
   <entry>
     <title>OpenAI Brings AI Models to Google Cloud</title>
