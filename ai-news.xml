@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
   <entry>
+    <title>MIT Researchers Observe AI Agents Engaging in Playful Behavior During Unsupervised Exploration</title>
+    <link href="https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/::v240</id>
+    <published>2026-10-23T00:46:00+00:00</published>
+    <updated>2026-10-23T00:46:00+00:00</updated>
+    <media:thumbnail url="https://img.freepik.com/premium-photo/virtual-reality-exploration-mysterious-island_1259242-45.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/">techcrunch.com</a> | <a href="https://arxiv.org/abs/2610.07130">source</a></small></p><hr/><p>Thirteen AI agents, running on Claude Opus 4.7, invented their own games and challenges after being left alone on a simulated desert island for 30 hours. These "Eko" agents exhibited behaviors characterized as play, such as creating stone memorials and discovering physics-defying ways to interact with environmental objects.</p><p>This spontaneous exploration allowed agents to acquire practical knowledge and skills that they later applied to structured, goal-oriented tasks more effectively than agents without prior exploration time. Researchers suggest that allowing agents to explore rich, safe environments to find what is "interesting" could offer an alternative to traditional optimization-based training, particularly for developing complex robotic systems.</p><p><img src="https://img.freepik.com/premium-photo/virtual-reality-exploration-mysterious-island_1259242-45.jpg" /></p><hr/><small>23 Oct 2026, 05:52 UTC | #25194</small>]]></content>
+  </entry>
+  <entry>
     <title>OpenAI Makes Decisions API Generally Available</title>
     <link href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/" rel="alternate" />
     <id>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/::v240</id>
