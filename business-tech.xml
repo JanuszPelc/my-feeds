@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-22T18:45:00+00:00</updated>
+  <updated>2026-10-22T20:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>The Browser Company to Shut Down Arc Browser in December</title>
+    <link href="https://www.theverge.com/tech/1016832/arc-browser-shutting-down" rel="alternate" />
+    <id>https://www.theverge.com/tech/1016832/arc-browser-shutting-down::v240</id>
+    <published>2026-10-22T20:11:00+00:00</published>
+    <updated>2026-10-22T20:11:00+00:00</updated>
+    <media:thumbnail url="https://f005.backblazeb2.com/file/thejogroup/media/images/tools/arc_by_the_browser_company_arc_net.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1016832/arc-browser-shutting-down">theverge.com</a> | <a href="https://arc.net/">source</a> | <a href="https://news.ycombinator.com/item?id=50197601">hacker news</a></small></p><hr/><p>The Browser Company has announced that it will sunset its Arc web browser on December 22, 2026. The company is shifting all development resources and security personnel toward its newer AI-focused browser, Dia.</p><p>The shutdown will occur in stages, beginning with the suspension of new account creation, followed by the disabling of mobile AI features, and concluding with the complete deactivation of the desktop applications on macOS and Windows. Users are being provided with tools to export and import their data into Dia, while alternative community-driven options like the Zen browser continue to offer similar feature sets.</p><p><img src="https://f005.backblazeb2.com/file/thejogroup/media/images/tools/arc_by_the_browser_company_arc_net.jpg" /></p><hr/><small>23 Oct 2026, 00:33 UTC | #25162</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Winds Down The Garage and Global Hackathon Program</title>
     <link href="https://www.geekwire.com/2026/microsoft-shuts-the-door-on-the-garage-the-central-program-behind-its-hackathon-and-maker-spaces/" rel="alternate" />
