@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-23T16:27:00+00:00</updated>
+  <updated>2026-10-23T16:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Copy-on-Write Memory Duplication Using memfd_create and mmap</title>
+    <link href="https://sebsite.pw/w/20260728-cow.html" rel="alternate" />
+    <id>https://sebsite.pw/w/20260728-cow.html::v240</id>
+    <published>2026-10-23T16:40:00+00:00</published>
+    <updated>2026-10-23T16:40:00+00:00</updated>
+    <media:thumbnail url="https://vectree.fsn1.your-objectstorage.com/og/c/memory-mapping-and-posix-shm-vs-memfdcreate-in-linux.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sebsite.pw/w/20260728-cow.html">sebsite.pw</a> | <a href="https://lobste.rs/s/bhqvxq/neat_trick_i_found_for_reusing_physical">discussion</a></small></p><hr/><p>A systems programming technique combining memfd_create and mmap with MAP_PRIVATE enables efficient memory duplication through copy-on-write semantics without requiring immediate physical allocation for the entire duplicated region. By populating a memory-backed file descriptor to serve as a template, subsequent private mappings share the underlying physical pages until specific modifications occur.</p><p>This approach ensures that only mutated pages consume additional physical memory, significantly reducing overhead when duplicating large data structures. The method offers a low-level workaround for sharing initial template data across virtual memory mappings while deferring memory allocation until write operations take place.</p><p><img src="https://vectree.fsn1.your-objectstorage.com/og/c/memory-mapping-and-posix-shm-vs-memfdcreate-in-linux.jpg" /></p><hr/><small>23 Oct 2026, 21:34 UTC | #25271</small>]]></content>
+  </entry>
   <entry>
     <title>Adolfo Ochagavía Adds `@xkcdRandom` Builtin to Zig Compiler</title>
     <link href="https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/" rel="alternate" />
