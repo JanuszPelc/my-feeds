@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-23T13:54:00+00:00</updated>
+  <updated>2026-10-23T16:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Sweden's Government Offices Block ChatGPT and Claude on Work Computers</title>
+    <link href="https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet" rel="alternate" />
+    <id>https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet::v240</id>
+    <published>2026-10-23T16:33:00+00:00</published>
+    <updated>2026-10-23T16:33:00+00:00</updated>
+    <media:thumbnail url="https://borsvarldensv.blob.core.windows.net/thumb-md/t-uploads/finauto/socialtag/tech/bvfa-s-tech-0009.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet">sverigesradio.se</a> | <a href="https://news.ycombinator.com/item?id=50207405">hacker news</a></small></p><hr/><p>Sweden's Government Offices have blocked access to the AI chatbots ChatGPT and Claude on staff work computers. The restriction, reported by Sveriges Radio's Ekot, prevents employees from using these popular generative AI tools on official devices.</p><p>The measure reflects growing caution among public institutions regarding the use of external AI services on secure networks. Government agencies are increasingly implementing such blocks to manage data security risks and protect sensitive administrative information.</p><p><img src="https://borsvarldensv.blob.core.windows.net/thumb-md/t-uploads/finauto/socialtag/tech/bvfa-s-tech-0009.jpg" /></p><hr/><small>23 Oct 2026, 20:28 UTC | #25265</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic and Hg Agree to Launch European AI Consultancy</title>
     <link href="https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4" rel="alternate" />
