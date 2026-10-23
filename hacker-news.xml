@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-23T00:38:00+00:00</updated>
+  <updated>2026-10-23T00:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Method for Portably Accessing Errno Values Outside of C</title>
+    <link href="https://sebsite.pw/w/20260925-errno.html" rel="alternate" />
+    <id>https://sebsite.pw/w/20260925-errno.html::v240</id>
+    <published>2026-10-23T00:41:00+00:00</published>
+    <updated>2026-10-23T00:41:00+00:00</updated>
+    <media:thumbnail url="https://user-images.githubusercontent.com/121594215/209902227-76f9d3f1-27bb-4686-ad73-c7eb88c31932.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://sebsite.pw/w/20260925-errno.html">sebsite.pw</a> | <a href="https://lobste.rs/s/jgull9/hacky_fucked_up_way_portably_access_errno">discussion</a></small></p><hr/><p>To access errno values from outside C without using wrapper functions, this technique involves redirecting stderr to a temporary file and calling perror to write the error message. The resulting error string is then read from the file and matched against a pre-computed lookup table of error descriptions generated via strerror to determine the corresponding integer error code.</p><p>This approach bypasses the non-portable nature of the errno macro and the inconsistencies found in strerror_r implementations across different C libraries. The method also ensures portability regarding the SEEK_SET constant by using a runtime loop to identify its value through lseek, accommodating implementations where the value is not zero.</p><p><img src="https://user-images.githubusercontent.com/121594215/209902227-76f9d3f1-27bb-4686-ad73-c7eb88c31932.png" /></p><hr/><small>23 Oct 2026, 05:38 UTC | #25206</small>]]></content>
+  </entry>
   <entry>
     <title>The Usability Impact of Custom JavaScript Links and Replaced Native Elements</title>
     <link href="https://maurycyz.com/misc/real_links/" rel="alternate" />
