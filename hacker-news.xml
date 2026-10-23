@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-23T16:24:00+00:00</updated>
+  <updated>2026-10-23T16:27:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Adolfo Ochagavía Adds `@xkcdRandom` Builtin to Zig Compiler</title>
+    <link href="https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/" rel="alternate" />
+    <id>https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/::v240</id>
+    <published>2026-10-23T16:27:00+00:00</published>
+    <updated>2026-10-23T16:27:00+00:00</updated>
+    <media:thumbnail url="https://lupyuen.org/images/tcc-zig.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/">ochagavia.nl</a> | <a href="https://lobste.rs/s/5hoqzj/glorious_xkcdrandom_zig_builtin">discussion</a></small></p><hr/><p>Developer Adolfo Ochagavía has created a custom `@xkcdRandom` builtin for the Zig programming language, inspired by the classic xkcd comic "Random Number" that humorously depicts a function always returning the number four.</p><p>Undertaken as an exercise to explore compiler internals after completing foundational Zig exercises, the implementation involved forking the Zig compiler and modifying its source files. The resulting custom compiler allows developers to invoke `@xkcdRandom()` in code, successfully returning four for any requested numeric type.</p><p><img src="https://lupyuen.org/images/tcc-zig.jpg" /></p><hr/><small>23 Oct 2026, 19:32 UTC | #25259</small>]]></content>
+  </entry>
   <entry>
     <title>Dwarkesh Patel Explores Future Semiconductor Design and Manufacturing in Intel Fab Tour</title>
     <link href="https://www.dwarkesh.com/p/intel-tour" rel="alternate" />
