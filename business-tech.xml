@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-23T16:33:00+00:00</updated>
+  <updated>2026-10-23T16:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Shein Agrees to Pay $100 Million to Settle US FTC Investigation</title>
+    <link href="https://www.reuters.com/business/retail-consumer/fast-fashion-group-shein-agrees-pay-100-million-settle-us-ftc-probe-2026-10-23/" rel="alternate" />
+    <id>https://www.reuters.com/business/retail-consumer/fast-fashion-group-shein-agrees-pay-100-million-settle-us-ftc-probe-2026-10-23/::v240</id>
+    <published>2026-10-23T16:37:00+00:00</published>
+    <updated>2026-10-23T16:37:00+00:00</updated>
+    <media:thumbnail url="https://rctrfaqboyktewqesvgy.supabase.co/storage/v1/object/public/post-images/migrated/what-the-shein-ftc-case-means-for-every-brand-working-with-creators/24c0fd54366adb81.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/retail-consumer/fast-fashion-group-shein-agrees-pay-100-million-settle-us-ftc-probe-2026-10-23/">reuters.com</a></small></p><hr/><p>Chinese fast-fashion retailer Shein has agreed to a $100 million settlement with the U.S. Federal Trade Commission to resolve an investigation into delivery delays and other consumer complaints. The payment represents a substantial financial penalty, equivalent to roughly 44% of the company's second-quarter profit.</p><p>The agreement clears a key regulatory hurdle as Shein faces mounting scrutiny across the United States and Europe while pursuing public-market investors. The company previously disclosed that potential regulatory resolutions could have a material adverse effect on its financial condition and results of operations.</p><p><img src="https://rctrfaqboyktewqesvgy.supabase.co/storage/v1/object/public/post-images/migrated/what-the-shein-ftc-case-means-for-every-brand-working-with-creators/24c0fd54366adb81.jpg" /></p><hr/><small>23 Oct 2026, 21:22 UTC | #25241</small>]]></content>
+  </entry>
   <entry>
     <title>Sweden's Government Offices Block ChatGPT and Claude on Work Computers</title>
     <link href="https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet" rel="alternate" />
