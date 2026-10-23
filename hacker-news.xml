@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-23T09:39:00+00:00</updated>
+  <updated>2026-10-23T13:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Roc DEFLATE Performance Approaches C libdeflate in New Benchmarks</title>
+    <link href="https://rtfeldman.com/fp-vs-c" rel="alternate" />
+    <id>https://rtfeldman.com/fp-vs-c::v240</id>
+    <published>2026-10-23T13:48:00+00:00</published>
+    <updated>2026-10-23T13:48:00+00:00</updated>
+    <media:thumbnail url="https://dpc10ster.github.io/RJafrocFrocBook/22-optim-op-point2_files/figure-html/optim-op-point-high-performance-vary-lambda-roc-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://rtfeldman.com/fp-vs-c">rtfeldman.com</a> | <a href="https://lobste.rs/s/7me8wm/how_close_can_pure_fp_get_c">discussion</a></small></p><hr/><p>Richard Feldman details performance optimization work on roc-deflate, a compression package written in the pure functional programming language Roc, comparing its execution speed against the C-based libdeflate. Across a corpus of benchmark tests, the pure functional implementation ran within single-digit percentage margins of the heavily tuned, SIMD-accelerated C library, achieving a median slowdown of 2.6% on an M1 MacBook Pro and 8.9% on an AMD Ryzen 3900X.</p><p>While C retains a higher absolute performance ceiling, the results demonstrate that pure functional languages with automatic memory management and rigorous safety guarantees can closely approach low-level system language performance. The article highlights the compiler optimizations that enabled these speeds—such as opportunistic in-place mutation, bounds check hoisting, and compile-time evaluation—while outlining the trade-offs regarding memory safety, referential transparency, and deterministic execution.</p><p><img src="https://dpc10ster.github.io/RJafrocFrocBook/22-optim-op-point2_files/figure-html/optim-op-point-high-performance-vary-lambda-roc-1.png" /></p><hr/><small>23 Oct 2026, 16:30 UTC | #25246</small>]]></content>
+  </entry>
   <entry>
     <title>Fyra Labs Analyzes and Debunks Tov Programming Language Benchmarks</title>
     <link href="https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/" rel="alternate" />
