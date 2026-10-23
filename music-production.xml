@@ -843,13 +843,4 @@
     <media:thumbnail url="https://static.kvraudio.com/i/b/de-artifact-gui.png" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/intrect-updates-de-artifact-to-v0-4-11---lower-latency-and-keyboard-control-69185?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69185">kvraudio.com</a> | <a href="https://intrect.io/changelog/">source</a></small></p><hr/><p>Intrect has released version 0.4.11 of de-artifact, an audio restoration plugin for generated music, separated stems, and lossy audio. This update provides a significant reduction in latency, decreasing reported latency by approximately 93 ms at both 44.1 kHz and 48 kHz.</p><p>The release introduces keyboard-driven navigation for controls, typed parameter entry, and screen reader support on macOS. It also addresses bugs related to preset saving, frequency-curve displays, and interface stutters. The plugin is available for Windows and macOS in VST3, CLAP, and AU formats, with AAX support limited to stereo inserts on Apple Silicon Macs.</p><p><img src="https://static.kvraudio.com/i/b/de-artifact-gui.png" /></p><hr/><small>19 Oct 2026, 09:55 UTC | #24727</small>]]></content>
   </entry>
-  <entry>
-    <title>The Duck Pond Real-Time Duck Audio Synthesizer</title>
-    <link href="https://celphase.github.io/duck-pond/" rel="alternate" />
-    <id>https://celphase.github.io/duck-pond/::v240</id>
-    <published>2026-10-18T20:52:00+00:00</published>
-    <updated>2026-10-18T20:52:00+00:00</updated>
-    <media:thumbnail url="https://img.freepik.com/premium-photo/beautiful-duck-quacks-pond_145644-104632.jpg?w=996" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://celphase.github.io/duck-pond/">celphase.github.io</a> | <a href="https://news.ycombinator.com/item?id=50131006">hacker news</a></small></p><hr/><p>This generative audio project simulates a mallard flock in real-time. Instead of using pre-recorded samples, the system synthesizes the calls of hens, drakes, and ducklings as they occur.</p><p>The tool provides an interactive, audio-visual experience through a web browser. It focuses on high-fidelity synthesis to recreate the sounds of a natural pond environment without relying on traditional audio recordings.</p><p><img src="https://img.freepik.com/premium-photo/beautiful-duck-quacks-pond_145644-104632.jpg?w=996" /></p><hr/><small>19 Oct 2026, 01:39 UTC | #24700</small>]]></content>
-  </entry>
 </feed>
