@@ -1181,30 +1181,4 @@
     <updated>2026-10-18T13:49:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/VikOlliver/RepRapMicron/wiki">github.com</a> | <a href="https://news.ycombinator.com/item?id=50141076">hacker news</a></small></p><hr/><p>This replicating 3D printer is designed for micron and sub-micron fabrication using common, accessible materials. The current PIKA hardware version achieves repeatable positioning of approximately 1μm and reliable accuracy of 10μm or better within an 8mm cubic volume by using a fine probe to deposit UV resin droplets as small as 4μm.</p><p>The project aims to democratize the production of microelectronics and micro-electromechanical systems (MEMS) by providing an inexpensive, desktop-scale alternative to specialized industrial equipment. By leveraging techniques such as electrochemical probe etching and UV resin deposition, the initiative seeks to enable independent development of micron-scale components outside of traditional silicon-based manufacturing.</p><hr/><small>18 Oct 2026, 18:33 UTC | #24668</small>]]></content>
   </entry>
-  <entry>
-    <title>HP Envy 17-DA0013dx Successfully Boots OpenBSD After BIOS Update</title>
-    <link href="https://darwinsys.com/blog/20260925-hp-envy-17/" rel="alternate" />
-    <id>https://darwinsys.com/blog/20260925-hp-envy-17/::v240</id>
-    <published>2026-10-18T12:54:00+00:00</published>
-    <updated>2026-10-18T12:54:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://darwinsys.com/blog/20260925-hp-envy-17/">darwinsys.com</a> | <a href="https://lobste.rs/s/gl8yly/un_hanging_hp_envy_17_da0013dx_for_openbsd">discussion</a></small></p><hr/><p>The installation of OpenBSD on an HP Envy 17-DA0013dx laptop requires a BIOS update to resolve a device probing hang during the boot process. This hang was attributed to a defective ACPI/AML implementation found in the device's original 2024 firmware.</p><p>The hardware features an Intel Core Ultra 7 155H processor and a 1920x1024 touchscreen. While functional, the system currently experiences minor issues including an AML parse error affecting CPU temperature reporting, touchscreen scaling problems in X Windows when using dual monitors, and several driver-related warning messages.</p><hr/><small>18 Oct 2026, 18:25 UTC | #24670</small>]]></content>
-  </entry>
-  <entry>
-    <title>esp32sim Open-Source ESP32 Emulator Supports Xtensa and RISC-V Architectures</title>
-    <link href="https://github.com/mikroverk/esp32sim" rel="alternate" />
-    <id>https://github.com/mikroverk/esp32sim::v240</id>
-    <published>2026-10-18T12:53:00+00:00</published>
-    <updated>2026-10-18T12:53:00+00:00</updated>
-    <media:thumbnail url="https://github.com/mikroverk/esp32sim/raw/main/docs/assets/esp32sim-logo-icon.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/mikroverk/esp32sim">github.com</a> | <a href="https://news.ycombinator.com/item?id=50131189">hacker news</a></small></p><hr/><p>Written in Rust, esp32sim is an open-source, instruction-level emulator that runs unmodified ESP32 firmware locally or in a web browser via WebAssembly. It supports four Espressif SoCs across both Xtensa (ESP32, S3) and RISC-V (C3, C6) architectures, booting real mask ROMs and second-stage bootloaders to facilitate end-to-end project testing without physical hardware or cloud services.</p><p>The emulator models peripherals including GPIO, UART, and WiFi with NAT support, allowing emulated devices to interact with real networks. The ESP32-S3 implementation uses an AArch64 JIT to achieve 150–240 MIPS, and the software includes support for various board models, such as the LilyGO TTGO T-Display and Waveshare modules, to simulate specific displays and sensors.</p><p><img src="https://github.com/mikroverk/esp32sim/raw/main/docs/assets/esp32sim-logo-icon.png" /></p><hr/><small>18 Oct 2026, 18:18 UTC | #24669</small>]]></content>
-  </entry>
-  <entry>
-    <title>How Address Resolution Protocol (ARP) Works on Local Networks</title>
-    <link href="https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/" rel="alternate" />
-    <id>https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/::v240</id>
-    <published>2026-10-18T12:49:00+00:00</published>
-    <updated>2026-10-18T12:49:00+00:00</updated>
-    <media:thumbnail url="https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/Screenshot_20261017_203056.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/">benjcal.space</a> | <a href="https://lobste.rs/s/mmvhup/arp_tell_your_network_explain_itself">discussion</a></small></p><hr/><p>Address Resolution Protocol (ARP) facilitates local network communication by mapping IP addresses to MAC addresses. This mapping allows network switches to route data frames to the correct physical devices based on their hardware addresses rather than their logical IP addresses.</p><p>The article details the broadcast process used to resolve these addresses and demonstrates the concept using tools such as arp-scan and Wireshark. It also touches on security and stability concerns, including the risks of ARP spoofing and the occurrence of broadcast storms.</p><p><img src="https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/Screenshot_20261017_203056.png" /></p><hr/><small>18 Oct 2026, 17:50 UTC | #24654</small>]]></content>
-  </entry>
 </feed>

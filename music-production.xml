@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-23T01:09:00+00:00</updated>
+  <updated>2026-10-23T07:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>D16 Group Releases Echolite Free Delay Plugin</title>
+    <link href="https://www.kvraudio.com/news/d16-group-releases-echolite---free-delay-plugin-69342?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69342" rel="alternate" />
+    <id>https://www.kvraudio.com/news/d16-group-releases-echolite---free-delay-plugin-69342?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69342::v240</id>
+    <published>2026-10-23T07:34:00+00:00</published>
+    <updated>2026-10-23T07:34:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/echolite-gui-2d.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/d16-group-releases-echolite---free-delay-plugin-69342?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69342">kvraudio.com</a> | <a href="https://d16.pl/echolite">source</a></small></p><hr/><p>D16 Group has released Echolite, a free single-delay-line plug-in featuring independent pre-delay, delay time, and feedback controls that scale up to 110%. The effect includes DAW tempo synchronization ranging from 1/64 notes to 4 bars, along with a stereo spread feature to offset timing between the left and right channels.</p><p>Additional sound-shaping tools include a multi-mode post-filter offering low-pass, band-pass, high-pass, and band-reject configurations with selectable 12 dB/oct and 24 dB/oct slopes. The interface features a tag-based preset browser, resizable GUI, and MIDI Learn functionality, and is available for free to registered D16 Group users.</p><p><img src="https://static.kvraudio.com/i/b/echolite-gui-2d.jpg" /></p><hr/><small>23 Oct 2026, 13:05 UTC | #25231</small>]]></content>
+  </entry>
+  <entry>
+    <title>DiscoDSP Releases TED-8 Synth, Retromulator 2, and Discovery Pro 6.7</title>
+    <link href="https://www.kvraudio.com/news/discodsp-releases-new-ted-8-synth-retromulator-2-discovery-pro-6-7-and-more-69341?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69341" rel="alternate" />
+    <id>https://www.kvraudio.com/news/discodsp-releases-new-ted-8-synth-retromulator-2-discovery-pro-6-7-and-more-69341?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69341::v240</id>
+    <published>2026-10-23T07:00:00+00:00</published>
+    <updated>2026-10-23T07:00:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/ted8.webp" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/discodsp-releases-new-ted-8-synth-retromulator-2-discovery-pro-6-7-and-more-69341?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69341">kvraudio.com</a></small></p><hr/><p>DiscoDSP has released TED-8, a software synthesizer plugin that emulates the Oberheim TEO-5 based on physical unit measurements, alongside major version updates for Retromulator and Discovery Pro. TED-8 features eight voices, a SEM-style filter, a 16-slot modulation matrix, and a hardware link mode allowing it to function as a TEO-5 editor and librarian.</p><p>Retromulator 2 adds individual control panels for its emulated sound cores and includes a Minimoog Model D core modeled by Idle Foundry. Meanwhile, Discovery Pro 6.7 introduces updated chorus and phaser models, a Unison Editor with a stereo Super 7 mode, and expanded oversampling and filter enhancements, alongside a sweep of updates for other company plugins such as OB-Xd and Blub.</p><p><img src="https://static.kvraudio.com/i/b/ted8.webp" /></p><hr/><small>23 Oct 2026, 13:04 UTC | #25232</small>]]></content>
+  </entry>
   <entry>
     <title>Producer TIEKS Discusses His London Studio and Focusrite ISA C8X Interface</title>
     <link href="https://musictech.com/features/interviews/tieks-interview-focusrite-isa-c8x-interface-studio/" rel="alternate" />
@@ -761,14 +779,5 @@
     <updated>2026-10-18T18:03:00+00:00</updated>
     <media:thumbnail url="https://public-files.gumroad.com/3fi8p99v8p3u4vbzo0a1h9bi5tva" />
     <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/18/riverflux-rfe-channel-strip/">bedroomproducersblog.com</a> | <a href="https://riverfluxaudio.gumroad.com/l/Relic">source</a> | <a href="https://bedroomproducersblog.com/2026/10/18/riverflux-rfe-channel-strip/#comments">discussion</a></small></p><hr/><p>RiverFlux Audio's Relic bundle has been expanded with the addition of RF-E, a free channel strip plugin. This release brings the total number of plugins in the collection to thirteen, joining the existing five compressors, five equalizers, and two tape machines.</p><p>Designed as an SSL 4K E-style channel strip, RF-E is compatible with macOS, Windows, and Linux. The update to the Relic bundle also introduces a mix knob to every plugin in the collection and implements various bug fixes reported by users.</p><p><img src="https://public-files.gumroad.com/3fi8p99v8p3u4vbzo0a1h9bi5tva" /></p><hr/><small>18 Oct 2026, 21:43 UTC | #24676</small>]]></content>
-  </entry>
-  <entry>
-    <title>EvoGrain Uses L-Systems and Granular Synthesis for Algorithmic Sound Design</title>
-    <link href="https://nathanho.me/posts/evograin/" rel="alternate" />
-    <id>https://nathanho.me/posts/evograin/::v240</id>
-    <published>2026-10-18T12:07:00+00:00</published>
-    <updated>2026-10-18T12:07:00+00:00</updated>
-    <media:thumbnail url="https://nathanho.me/posts/evograin/examples/grain_set_0006/plot.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nathanho.me/posts/evograin/">nathanho.me</a> | <a href="https://lobste.rs/s/kiq0si/algorithmic_sound_design_with_l_systems">discussion</a></small></p><hr/><p>EvoGrain is a rule-based system that generates audio using Lindenmayer systems (L-systems) and granular synthesis. The system utilizes an L-system to create command sequences for a "turtle" interpreter, which produces sets of grains defined by parameters such as pitch, duration, and amplitude. These grain sets are then synthesized into audio buffers ranging from a few seconds to 30 seconds in length.</p><p>Designed to produce raw material for sampling rather than complete musical compositions, EvoGrain employs an evolutionary optimization process to select the most musically interesting results. The architecture features a custom granular synthesis engine with phase modulation capabilities and a feedback delay network (FDN) reverb, using statistical analysis to guide the selection of optimal L-system rules.</p><p><img src="https://nathanho.me/posts/evograin/examples/grain_set_0006/plot.png" /></p><hr/><small>18 Oct 2026, 17:49 UTC | #24663</small>]]></content>
   </entry>
 </feed>
