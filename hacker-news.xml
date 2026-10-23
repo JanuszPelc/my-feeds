@@ -1157,20 +1157,4 @@
     <media:thumbnail url="https://developer.apple.com/forums/content/attachment/f6b38361-b8ca-4d99-99a8-373cf4c0277b" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550">developer.apple.com</a> | <a href="https://developer.apple.com/forums/thread/850550">source</a> | <a href="https://news.ycombinator.com/item?id=50141909">hacker news</a></small></p><hr/><p>macOS 15.8.2 release candidate (build 24H219) causes OpenGL contexts to lack a default framebuffer when attached to windows. This affects NSOpenGLView and NSOpenGLContext setView:, resulting in blank windows during rendering.</p><p>The regression was reported by developers on the Apple Developer Forums following updates to M1 Pro hardware. The bug impacts applications utilizing legacy OpenGL APIs rather than Apple's Metal framework.</p><p><img src="https://developer.apple.com/forums/content/attachment/f6b38361-b8ca-4d99-99a8-373cf4c0277b" /></p><hr/><small>18 Oct 2026, 18:57 UTC | #24673</small>]]></content>
   </entry>
-  <entry>
-    <title>Ranet3 High-Performance IPsec Mesh SD-WAN</title>
-    <link href="https://ranet3.com/" rel="alternate" />
-    <id>https://ranet3.com/::v240</id>
-    <published>2026-10-18T14:37:00+00:00</published>
-    <updated>2026-10-18T14:37:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ranet3.com/">ranet3.com</a> | <a href="https://lobste.rs/s/np6czp/high_performance_policy_routed_ipsec">discussion</a> | <a href="https://news.ycombinator.com/item?id=50141436">hacker news</a></small></p><hr/><p>Ranet3 is a high-performance, policy-routed IPsec mesh SD-WAN that utilizes standard protocols including IKEv2, ESP, Babel, and SRv6. It is designed for interoperability with existing tools like strongSwan and BIRD, and it can run alongside common mesh VPN agents such as Tailscale, NetBird, and ZeroTier.</p><p>The system features latency-aware routing via Babel, which continuously measures round-trip times to ensure traffic follows the fastest available path. It also includes a userspace segment routing implementation that provides compatibility for operating systems like macOS. Benchmarks indicate that ranet3 can achieve up to 95% of 10 GbE payload capacity, outperforming various WireGuard implementations in throughput and CPU efficiency.</p><hr/><small>18 Oct 2026, 18:36 UTC | #24664</small>]]></content>
-  </entry>
-  <entry>
-    <title>Valen Implements a Reverse-Walking Borrow Checking Algorithm</title>
-    <link href="https://verdagon.dev/blog/reverse-borrow-checking" rel="alternate" />
-    <id>https://verdagon.dev/blog/reverse-borrow-checking::v240</id>
-    <published>2026-10-18T14:30:00+00:00</published>
-    <updated>2026-10-18T14:30:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://verdagon.dev/blog/reverse-borrow-checking">verdagon.dev</a> | <a href="https://lobste.rs/s/vwgrix/new_way_think_about_borrow_checking">discussion</a> | <a href="https://news.ycombinator.com/item?id=50140383">hacker news</a></small></p><hr/><p>Valen's experimental borrow checker employs a reverse-walking algorithm for its safety-checking phase to detect use-after-free errors. Rather than performing a standard forward pass, the compiler traverses functions from the final statement back to the beginning, maintaining a list of variables that are scheduled for use. As the scan moves upward, it verifies that any mutations encountered do not invalidate the variables currently in the pending list.</p><p>This approach is intended to simplify the process of identifying the last use of a variable, facilitate more straightforward logic for handling loops, and potentially improve compilation speed. The safety check follows three prior forward passes—parsing, static typing, and static grouping—during which the compiler determines the specific data groups to which each reference points.</p><hr/><small>18 Oct 2026, 18:35 UTC | #24662</small>]]></content>
-  </entry>
 </feed>
