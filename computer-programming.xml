@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-24T15:28:00+00:00</updated>
+  <updated>2026-10-24T15:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>ClickBench Pull Request Removes pgrust Entry Over Benchmark Objections</title>
+    <link href="https://github.com/ClickHouse/ClickBench/pull/2165" rel="alternate" />
+    <id>https://github.com/ClickHouse/ClickBench/pull/2165::v240</id>
+    <published>2026-10-24T15:33:00+00:00</published>
+    <updated>2026-10-24T15:33:00+00:00</updated>
+    <media:thumbnail url="https://www.telegraph.net.au/images/joomgrabber/2022-10/9c1afddbe8.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/ClickHouse/ClickBench/pull/2165">github.com</a> | <a href="https://news.ycombinator.com/item?id=50205816">hacker news</a></small></p><hr/><p>ClickHouse maintainer Alexey Milovidov merged a pull request removing the pgrust entry from the ClickBench analytical database benchmark, citing severe rule violations. The pull request stated that the submission relied on hand-written per-query kernels and a cross-query filter cache that replayed answers on hot runs without scanning underlying data.</p><p>The pgrust project, an experimental rewrite of PostgreSQL in Rust, faced scrutiny after its preview binary embedded execution plans and query matchers tailored specifically to the 43 ClickBench queries while refusing other inputs. The removal emphasizes strict benchmarking integrity standards regarding query-specific execution optimization and caching.</p><p><img src="https://www.telegraph.net.au/images/joomgrabber/2022-10/9c1afddbe8.jpeg" /></p><hr/><small>24 Oct 2026, 19:57 UTC | #25328</small>]]></content>
+  </entry>
   <entry>
     <title>Astral Releases Experimental uv and ty Integration</title>
     <link href="https://astral.sh/blog/uv-ty-integration" rel="alternate" />
