@@ -27,8 +27,6 @@ Titles and summaries are written by an agentic pipeline running small local mode
 nothing is reviewed by hand. Lead images are chosen by vision models and don't always
 match the story. Check anything that matters against the linked sources.
 
-The feeds are generated automatically, so I can't accept pull requests.
-
 > [!TIP]
 > If a feed goes quiet for a few days, come back and check the list above. The URLs are
 > meant to be permanent, but if one ever changes, the old one stops working.
