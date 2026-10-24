@@ -1140,22 +1140,4 @@
     <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpN4a278YpuC22I6doN400A0LSTWRnn1pMTu2aWVH7fvW87tR68bVzyZ1mYjzvcErmFBkx30kJw8rGCZYX1v0sBosEuIG8qIZqkv896Wi8H7V8KQq5VIpZtITQO5d8NkRJQKbv/w1200-h630-p-k-no-nu/plfa.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://plfa.github.io/">plfa.github.io</a> | <a href="https://lobste.rs/s/dtwbpu/programming_language_fundamentals_agda">discussion</a></small></p><hr/><p>Programming Language Foundations in Agda is an introductory textbook that teaches programming language theory using the Agda proof assistant. The curriculum covers logical foundations, lambda calculus, and denotational semantics.</p><p>The text is utilized in numerous university courses and has led to derivative implementations in the Arend and Lean 4 programming languages. The website provides access to all chapters, source code repositories, and supplementary materials.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpN4a278YpuC22I6doN400A0LSTWRnn1pMTu2aWVH7fvW87tR68bVzyZ1mYjzvcErmFBkx30kJw8rGCZYX1v0sBosEuIG8qIZqkv896Wi8H7V8KQq5VIpZtITQO5d8NkRJQKbv/w1200-h630-p-k-no-nu/plfa.png" /></p><hr/><small>19 Oct 2026, 10:14 UTC | #24725</small>]]></content>
   </entry>
-  <entry>
-    <title>KillSwitch Esoteric Programming Language Designed to Challenge LLMs Released</title>
-    <link href="https://blog.picheta.me/post/killswitch-lang/" rel="alternate" />
-    <id>https://blog.picheta.me/post/killswitch-lang/::v240</id>
-    <published>2026-10-19T03:31:00+00:00</published>
-    <updated>2026-10-19T03:31:00+00:00</updated>
-    <media:thumbnail url="https://blog.picheta.me/_astro/killswitch-bench-chart.h4QIdnld_Z2TDxI.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.picheta.me/post/killswitch-lang/">blog.picheta.me</a> | <a href="https://killswitch-lang.org/">source</a> | <a href="https://news.ycombinator.com/item?id=50135762">hacker news</a></small></p><hr/><p>Dominik Picheta has developed KillSwitch, an esoteric programming language designed to be adversarial to large language models (LLMs) and coding agents. The language incorporates features meant to exploit LLM weaknesses, such as specifications containing intentional inaccuracies, identifier rules based on character counts, and syntax designed to trigger model safety guardrails.</p><p>Benchmarks of major LLM models show varying levels of success, with Claude Opus performing best and models like Gemini performing poorly due to sensitive safety filters. The project serves as an experiment to investigate whether LLM coding proficiency stems from true semantic understanding or simple pattern recognition from training data.</p><p><img src="https://blog.picheta.me/_astro/killswitch-bench-chart.h4QIdnld_Z2TDxI.webp" /></p><hr/><small>19 Oct 2026, 08:27 UTC | #24720</small>]]></content>
-  </entry>
-  <entry>
-    <title>macOS 27.0 Introduces New /pkg Directory and PATH Entry</title>
-    <link href="https://anderegg.ca/2026/10/18/what-the-heck-is-pkg" rel="alternate" />
-    <id>https://anderegg.ca/2026/10/18/what-the-heck-is-pkg::v240</id>
-    <published>2026-10-19T03:27:00+00:00</published>
-    <updated>2026-10-19T03:27:00+00:00</updated>
-    <media:thumbnail url="https://i.ytimg.com/vi/Kw5DIQIUKac/maxresdefault.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://anderegg.ca/2026/10/18/what-the-heck-is-pkg">anderegg.ca</a> | <a href="https://lobste.rs/s/w6xosj/what_heck_is_pkg">discussion</a> | <a href="https://news.ycombinator.com/item?id=50143154">hacker news</a></small></p><hr/><p>macOS 27.0 has introduced a new `/pkg` directory at the root of the Signed System Volume and a new PATH entry, `/pkg/env/global/bin`, via the `/etc/paths.d/10-pmk-global` file. The directory contains `env`, `etc`, `inv`, and `var` subdirectories, but its exact purpose remains undocumented.</p><p>The directory first appeared on the Data volume in macOS 26.4 before being moved to the root filesystem in version 27.0. While the structure has sparked speculation regarding a potential first-party package management system, some technical sources suggest it may be related to internal Apple testing utilities or the "Tahoe" project.</p><p><img src="https://i.ytimg.com/vi/Kw5DIQIUKac/maxresdefault.jpg" /></p><hr/><small>19 Oct 2026, 07:28 UTC | #24717</small>]]></content>
-  </entry>
 </feed>
