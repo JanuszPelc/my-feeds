@@ -1140,13 +1140,4 @@
     <media:thumbnail url="https://blog.niuproxy.com/wp-content/uploads/2026/04/What-is-LLM-Proxy-and-Why-Do-You-Need-One-1024x559.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/">jrdsgl.com</a> | <a href="https://news.ycombinator.com/item?id=50145507">hacker news</a></small></p><hr/><p>Standard AI provider dashboards often lack the granular telemetry required for engineering-focused tasks. Implementing a self-hosted LLM proxy enables the tracking of time-series token usage, request statuses, and specific client-model interaction logs.</p><p>This infrastructure supports multi-provider and multi-model management through a single endpoint, provides virtual API keys to secure main credentials, and allows for rapid model switching. Developers gain total control over data pathing, storage, and infrastructure visibility.</p><p><img src="https://blog.niuproxy.com/wp-content/uploads/2026/04/What-is-LLM-Proxy-and-Why-Do-You-Need-One-1024x559.webp" /></p><hr/><small>19 Oct 2026, 11:18 UTC | #24743</small>]]></content>
   </entry>
-  <entry>
-    <title>Linux Kernel 7.3 Released</title>
-    <link href="https://lwn.net/Articles/1101143/" rel="alternate" />
-    <id>https://lwn.net/Articles/1101143/::v240</id>
-    <published>2026-10-19T07:24:00+00:00</published>
-    <updated>2026-10-19T07:24:00+00:00</updated>
-    <media:thumbnail url="https://somoslibres.org/images/2024/02/29/linustorvald_restored.webp" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://lwn.net/Articles/1101143/">lwn.net</a> | <a href="https://www.kernel.org/releases.html">source</a> | <a href="https://news.ycombinator.com/item?id=50149392">hacker news</a></small></p><hr/><p>Linus Torvalds has released Linux kernel 7.3, a record-breaking version that incorporates 18,765 non-merge commits from 3,021 developers. This release included 807 first-time contributors to the kernel.</p><p>Key improvements include the introduction of the failfs filesystem, the `fchroot()` system call, and group-scheduling optimizations for large-scale systems. The update also brings working-set tracking for virtual machines, alternative data-stream support to the `ntfs3` filesystem, and the completion of the `sched_ext` subscheduler feature.</p><p><img src="https://somoslibres.org/images/2024/02/29/linustorvald_restored.webp" /></p><hr/><small>19 Oct 2026, 10:18 UTC | #24724</small>]]></content>
-  </entry>
 </feed>
