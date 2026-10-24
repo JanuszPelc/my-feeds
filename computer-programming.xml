@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-24T14:54:00+00:00</updated>
+  <updated>2026-10-24T15:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>Astral Releases Experimental uv and ty Integration</title>
+    <link href="https://astral.sh/blog/uv-ty-integration" rel="alternate" />
+    <id>https://astral.sh/blog/uv-ty-integration::v240</id>
+    <published>2026-10-24T15:28:00+00:00</published>
+    <updated>2026-10-24T15:28:00+00:00</updated>
+    <media:thumbnail url="https://website-assets.studocu.com/img/document_thumbnails/1c45cbaf12f19fcb085102b5d91d2b6b/thumb_1200_1696.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://astral.sh/blog/uv-ty-integration">astral.sh</a> | <a href="https://lobste.rs/s/dfieqa/bringing_uv_ty_together">discussion</a> | <a href="https://news.ycombinator.com/item?id=50172962">hacker news</a></small></p><hr/><p>Astral has released an experimental integration between its Python package manager, uv, and its type checker, ty, enabling unified tooling capabilities across projects and scripts. The integration introduces a new uv check command and provides first-class support for single-file Python scripts using PEP 723 inline metadata.</p><p>On the command line and in editor environments, ty can now automatically invoke uv to prepare isolated virtual environments and install declared dependencies for scripts and workspaces. The update requires uv version 0.12.3 or later and ty version 0.0.76 or later, with automatic script environment setup currently available as an opt-in feature.</p><p><img src="https://website-assets.studocu.com/img/document_thumbnails/1c45cbaf12f19fcb085102b5d91d2b6b/thumb_1200_1696.png" /></p><hr/><small>24 Oct 2026, 18:30 UTC | #25325</small>]]></content>
+  </entry>
   <entry>
     <title>Incremental Computation Graphs Overview</title>
     <link href="https://dziban.net/posts/incremental-computation-graph/" rel="alternate" />
