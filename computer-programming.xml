@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-24T06:55:00+00:00</updated>
+  <updated>2026-10-24T10:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>Josep Bigorra Unifies Emacs Folding with Kirigami</title>
+    <link href="https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/" rel="alternate" />
+    <id>https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/::v240</id>
+    <published>2026-10-24T10:14:00+00:00</published>
+    <updated>2026-10-24T10:14:00+00:00</updated>
+    <media:thumbnail url="https://jointhefreeworld.org/static-assets/heks/screen-2026-10-23-16-17-32.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/">jointhefreeworld.org</a> | <a href="https://lobste.rs/s/yczems/emacs_finally_folds_my_liking">discussion</a></small></p><hr/><p>Developer Josep Bigorra has unified his Emacs configuration's folding behavior across various modes and languages by implementing kirigami.el as a central dispatcher. The setup standardizes key bindings and visual indicators across Tree-sitter, Hideshow, Outline, and Org-mode buffers, eliminating disparate behaviors and performance bottlenecks.</p><p>To achieve consistent visuals, Bigorra customized fringe bitmaps to render bracket-like folding guides rather than dotted lines, adapting colors dynamically for light and dark themes. For Org-mode, he developed custom, performance-optimized text-property-driven indicators that redraw only on-screen headings or modified regions to maintain smooth operation on large files.</p><p><img src="https://jointhefreeworld.org/static-assets/heks/screen-2026-10-23-16-17-32.png" /></p><hr/><small>24 Oct 2026, 13:52 UTC | #25304</small>]]></content>
+  </entry>
   <entry>
     <title>Philip O'Toole Reflects on Twelve Years of Distributed SQLite</title>
     <link href="https://philipotoole.com/twelve-years-of-distributed-sqlite/" rel="alternate" />

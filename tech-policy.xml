@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-24T04:15:00+00:00</updated>
+  <updated>2026-10-24T10:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png</logo>
+  <entry>
+    <title>Privacy Risks of Sensitive Data in Application Log Files</title>
+    <link href="https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/" rel="alternate" />
+    <id>https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/::v240</id>
+    <published>2026-10-24T10:43:00+00:00</published>
+    <updated>2026-10-24T10:43:00+00:00</updated>
+    <media:thumbnail url="https://d2908q01vomqb2.cloudfront.net/972a67c48192728a34979d9a35164c1295401b71/2024/08/20/Figure-8-verify-sensitive-data-masking-in-Logs-Insights.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/">fireborn.mataroa.blog</a> | <a href="https://lobste.rs/s/rl0dz5/be_aware_what_s_your_logs">discussion</a></small></p><hr/><p>Log files attached to software support requests and bug reports frequently contain unintended sensitive information, including screen text, private messages, account identifiers, and authentication tokens. Because applications often log extensive internal state and user interactions during debugging, diagnostic files can inadvertently expose confidential personal data.</p><p>Users are advised to treat diagnostic warnings seriously and avoid blindly sharing unfiltered log archives when reporting bugs. At the same time, software developers bear responsibility for adopting safe defaults—such as keeping diagnostic logging disabled by default—and implementing selective logging to minimize privacy risks.</p><p><img src="https://d2908q01vomqb2.cloudfront.net/972a67c48192728a34979d9a35164c1295401b71/2024/08/20/Figure-8-verify-sensitive-data-masking-in-Logs-Insights.png" /></p><hr/><small>24 Oct 2026, 13:53 UTC | #25299</small>]]></content>
+  </entry>
   <entry>
     <title>Canadian MPs Advance Bill S-211 to Restrict Sports Gambling Advertising</title>
     <link href="https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888" rel="alternate" />
