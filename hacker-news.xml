@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-23T17:13:00+00:00</updated>
+  <updated>2026-10-23T20:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Analysis of Undefined Behavior Consequences and Compiler Optimizations in C and C++</title>
+    <link href="https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html" rel="alternate" />
+    <id>https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html::v240</id>
+    <published>2026-10-23T20:48:00+00:00</published>
+    <updated>2026-10-23T20:48:00+00:00</updated>
+    <media:thumbnail url="https://study.com/cimages/multimages/16/0g4tvzn.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html">blog.habets.se</a> | <a href="https://lobste.rs/s/5xzuff/attention_people_who_think_ub_is_fine">discussion</a></small></p><hr/><p>A technical blog post examines misconceptions surrounding undefined behavior (UB) in C and C++ programming, demonstrating how modern compilers like GCC and Clang handle faulty code during optimization. Using concrete examples involving `std::unreachable()` and null pointer dereferences, the analysis shows that UB can result in unpredictable execution paths, such as uncalled functions running or unexpected memory modifications rather than a simple segmentation fault.</p><p>Because compilers treat undefined behavior as an impossibility rather than an error condition, optimization passes can drastically alter program logic in counterintuitive ways. The assembly output examples illustrate that developers cannot rely on intuition or legacy assumptions about how runtime environments handle erroneous code, underscoring why UB remains a persistent hazard in systems programming.</p><p><img src="https://study.com/cimages/multimages/16/0g4tvzn.png" /></p><hr/><small>24 Oct 2026, 00:05 UTC | #25277</small>]]></content>
+  </entry>
   <entry>
     <title>Guide to Setting Up and Managing systemd-nspawn Containers</title>
     <link href="https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/" rel="alternate" />
