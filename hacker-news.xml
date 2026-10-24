@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-23T23:15:00+00:00</updated>
+  <updated>2026-10-24T04:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>Indian Government Websites Continue Serving Revoked eMudhra Certificates</title>
+    <link href="https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/" rel="alternate" />
+    <id>https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/::v240</id>
+    <published>2026-10-24T04:07:00+00:00</published>
+    <updated>2026-10-24T04:07:00+00:00</updated>
+    <media:thumbnail url="https://viewswall.com/wp-content/uploads/2023/02/large-General_Banner_Types_of_TLS.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/">captnemo.in</a> | <a href="https://lobste.rs/s/zug8xv/indian_government_sites_are_serving">discussion</a> | <a href="https://news.ycombinator.com/item?id=50218277">hacker news</a></small></p><hr/><p>Following the October 2026 revocation of several eMudhra intermediate certificate authorities due to security and compliance issues, numerous Indian government portals have continued serving revoked TLS certificates. An analysis of public government web directories revealed that over 150 hosts remained active with revoked certificates days after the revocation event, including sites operated by key bodies under the Ministry of Electronics and Information Technology such as STPI, Bhashini, and UIDAI.</p><p>While browsers utilizing comprehensive revocation checks like Firefox block these domains, other major browsers and operating systems still load many of the affected sites because their client-side revocation mechanisms had not updated their lists. The incident underscores ongoing challenges in timely certificate rotation and revocation propagation across both certificate authorities and government infrastructure following major cryptographic security events.</p><p><img src="https://viewswall.com/wp-content/uploads/2023/02/large-General_Banner_Types_of_TLS.jpg" /></p><hr/><small>24 Oct 2026, 08:20 UTC | #25290</small>]]></content>
+  </entry>
   <entry>
     <title>Charles Miller Recounts the Origin Story of Hibernate</title>
     <link href="https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story" rel="alternate" />
