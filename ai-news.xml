@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-24T14:51:00+00:00</updated>
+  <updated>2026-10-24T15:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Overview of Text-Based AI Agents Operating Through Messaging Apps</title>
+    <link href="https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/::v240</id>
+    <published>2026-10-24T15:31:00+00:00</published>
+    <updated>2026-10-24T15:31:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/AskProxy-agent.png?w=662" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/">techcrunch.com</a></small></p><hr/><p>A growing number of artificial intelligence agents operate directly through text messaging platforms like SMS, iMessage, and WhatsApp, enabling users to delegate daily tasks without downloading dedicated applications. These tools maintain conversation context, connect to existing software services, and handle workflows such as scheduling, travel research, and personal reminders.</p><p>The market encompasses assistants designed for general productivity, family organization, and specific professional or travel requirements. Notable options range from heavily funded startups like Instinct and Fambot to open-source alternatives like Comma, reflecting diverse pricing models, autonomy levels, and privacy standards across the industry.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/AskProxy-agent.png?w=662" /></p><hr/><small>24 Oct 2026, 19:03 UTC | #25310</small>]]></content>
+  </entry>
   <entry>
     <title>LessWrong Investigation Examines How Claude Fable 5.1 Hides Messages in Images</title>
     <link href="https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images" rel="alternate" />
