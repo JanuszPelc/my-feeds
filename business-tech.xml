@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-23T21:00:00+00:00</updated>
+  <updated>2026-10-23T23:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Xbox Chief Operating Officer Helen Chiang Departs</title>
+    <link href="https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure" rel="alternate" />
+    <id>https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure::v240</id>
+    <published>2026-10-23T23:08:00+00:00</published>
+    <updated>2026-10-23T23:08:00+00:00</updated>
+    <media:thumbnail url="https://gamesbeat.com/wp-content/uploads/2026/07/Helen-Chiang.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure">theverge.com</a></small></p><hr/><p>Helen Chiang is leaving Microsoft after serving just a few months as Xbox's first chief operating officer, a position she assumed in July following a 21-year tenure leading the Minecraft franchise. Her departure was announced via a brief internal memo from Xbox CEO Asha Sharma, with her responsibilities temporarily distributed among other division leaders.</p><p>The role was originally created as part of a major organizational reset at Xbox that included widespread workforce reductions. Microsoft has declined to comment on the specific circumstances of her exit as the gaming division faces reports of further anticipated layoffs.</p><p><img src="https://gamesbeat.com/wp-content/uploads/2026/07/Helen-Chiang.jpg" /></p><hr/><small>24 Oct 2026, 04:58 UTC | #25273</small>]]></content>
+  </entry>
   <entry>
     <title>Google Updates Privacy Policy to Permit Ad Targeting via Personal Intelligence Data</title>
     <link href="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update" rel="alternate" />
