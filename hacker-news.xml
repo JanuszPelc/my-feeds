@@ -1122,13 +1122,4 @@
     <media:thumbnail url="https://cache.getlazarus.org/videos/dynamic-packages.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.getlazarus.org/dynamic/">getlazarus.org</a> | <a href="https://news.ycombinator.com/item?id=50144066">hacker news</a></small></p><hr/><p>The Free Pascal Compiler (FPC) and the Lazarus IDE have introduced full support for dynamic packages, allowing users to install components, controls, and extensions without rebuilding the entire IDE. These packages are implemented as standard shared library files for Linux, Windows, and macOS and include metadata that can be inspected using new Runtime Library (RTL) units.</p><p>IDE enhancements include a new progress window for background rebuilds, a dedicated Packages window for managing recent sessions, and the ability to restrict packages to specific platforms or widgetsets. The update also provides a form or frame conversion feature for Lazarus extensions and enables developers to build plugin systems by exposing native Pascal classes and types through dynamic libraries.</p><p><img src="https://cache.getlazarus.org/videos/dynamic-packages.jpg" /></p><hr/><small>19 Oct 2026, 15:08 UTC | #24771</small>]]></content>
   </entry>
-  <entry>
-    <title>Tor Project Discusses Tor VPN Beta Development for Android</title>
-    <link href="https://blog.torproject.org/tor-vpn-beta/" rel="alternate" />
-    <id>https://blog.torproject.org/tor-vpn-beta/::v240</id>
-    <published>2026-10-19T08:28:00+00:00</published>
-    <updated>2026-10-19T08:28:00+00:00</updated>
-    <media:thumbnail url="https://blog.torproject.org/tor-vpn-beta/per-app-routing.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.torproject.org/tor-vpn-beta/">blog.torproject.org</a> | <a href="https://lobste.rs/s/s3w7hd/tor_vpn_beta_what_we_ve_learned_building">discussion</a></small></p><hr/><p>The Tor Project is sharing lessons learned from the development and beta testing of Tor VPN Beta for Android. The app provides device-level protection by routing each mobile app through its own Tor circuit, a design intended to reduce cross-app tracking and extend Tor's privacy benefits beyond the web browser.</p><p>Testing has shown significant adoption in highly censored regions, such as Iran and Turkmenistan, leading developers to prioritize circumvention features like WebTunnel bridges. The tool is built on the Arti Rust-based implementation and is available through Google Play, F-Droid, and as an APK.</p><p><img src="https://blog.torproject.org/tor-vpn-beta/per-app-routing.png" /></p><hr/><small>19 Oct 2026, 12:55 UTC | #24750</small>]]></content>
-  </entry>
 </feed>

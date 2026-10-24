@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-23T23:08:00+00:00</updated>
+  <updated>2026-10-24T04:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>UK Establishes £100M AI Biosecurity Lab</title>
+    <link href="https://www.bbc.com/news/articles/cqdjv8xllvyyo" rel="alternate" />
+    <id>https://www.bbc.com/news/articles/cqdjv8xllvyyo::v240</id>
+    <published>2026-10-24T04:08:00+00:00</published>
+    <updated>2026-10-24T04:08:00+00:00</updated>
+    <media:thumbnail url="https://intuitionlabs.ai/images/articles/ai-biotech-funding-trends.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bbc.com/news/articles/cqdjv8xllvyyo">bbc.com</a> | <a href="https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab">source</a></small></p><hr/><p>The UK government is committing £100 million in its upcoming budget to establish a national AI Biosecurity Lab (AIBL) aimed at strengthening defences against emerging biological and AI-enabled threats. The initiative will also receive £200 million in AI model credits and computational support from leading developers like OpenAI and Anthropic.</p><p>As part of a broader package for technological resilience and national security, the funding will also bolster the existing AI Security Institute, deploy a national cyber defense shield using agentic AI, and fund vulnerability detection infrastructure. Ministers describe the biosecurity facility as a world-first institute designed to keep pace with evolving technological and biological risks.</p><p><img src="https://intuitionlabs.ai/images/articles/ai-biotech-funding-trends.jpg" /></p><hr/><small>24 Oct 2026, 08:32 UTC | #25282</small>]]></content>
+  </entry>
   <entry>
     <title>Xbox Chief Operating Officer Helen Chiang Departs</title>
     <link href="https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure" rel="alternate" />
@@ -859,14 +868,5 @@
     <updated>2026-10-19T10:46:00+00:00</updated>
     <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1SHnlO.img?w=1920&amp;h=1080&amp;m=4&amp;q=80" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816">wjcl.com</a> | <a href="https://savannahpd.org/savannah-police-department-terminates-six-employees-following-investigation-into-misuse-of-flock-safety-system/">source</a> | <a href="https://news.ycombinator.com/item?id=50150750">hacker news</a></small></p><hr/><p>A Savannah police officer was terminated for sharing her Flock license plate reader credentials with her husband, an Immigration and Customs Enforcement (ICE) agent. Documents reveal that the agent used the unauthorized access to conduct hundreds of license plate searches tied to ICE investigations.</p><p>The incident is part of a broader investigation by the Savannah Police Department into the misuse of its Flock Safety system. The department has terminated six employees, including four sworn officers and two civilian staff, following an internal audit of the surveillance technology's usage.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1SHnlO.img?w=1920&h=1080&m=4&q=80" /></p><hr/><small>19 Oct 2026, 13:35 UTC | #24759</small>]]></content>
-  </entry>
-  <entry>
-    <title>Economists Forecast AI Gains Across G20 Nations Over Next Decade</title>
-    <link href="https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a" rel="alternate" />
-    <id>https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a::v240</id>
-    <published>2026-10-19T08:29:00+00:00</published>
-    <updated>2026-10-19T08:29:00+00:00</updated>
-    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https://www-cdn.anthropic.com/images/4zrzovbb/website/71184a93f50a2ec740edeb79f5123edb495c253e-9168x5164.png&amp;w=3840&amp;q=75" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a">ft.com</a></small></p><hr/><p>Fifty-four percent of economists surveyed expect artificial intelligence to drive productivity and economic gains across G20 nations over the next decade, rather than benefiting only the US and China. Another 32% anticipate that African countries will fall behind in this technological transition.</p><p>Uneven adoption rates pose risks to global economic equality, as G20 members may experience a broad surge in growth while regions like sub-Saharan Africa lag behind.</p><p><img src="https://www.anthropic.com/_next/image?url=https://www-cdn.anthropic.com/images/4zrzovbb/website/71184a93f50a2ec740edeb79f5123edb495c253e-9168x5164.png&w=3840&q=75" /></p><hr/><small>19 Oct 2026, 13:25 UTC | #24714</small>]]></content>
   </entry>
 </feed>
