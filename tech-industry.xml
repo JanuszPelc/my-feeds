@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-24T14:53:00+00:00</updated>
+  <updated>2026-10-24T19:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png</logo>
+  <entry>
+    <title>Apollo Reports No Signs of AI Financial Payoff Outside Tech Sector</title>
+    <link href="https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector" rel="alternate" />
+    <id>https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector::v240</id>
+    <published>2026-10-24T19:48:00+00:00</published>
+    <updated>2026-10-24T19:48:00+00:00</updated>
+    <media:thumbnail url="https://www.cubeo.ai/wp-content/uploads/2025/02/AI-in-Finance-image-blog-2.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector">apollo.com</a> | <a href="https://news.ycombinator.com/item?id=50224463">hacker news</a></small></p><hr/><p>Apollo Chief Economist Torsten Slok has released an analysis arguing that artificial intelligence has delivered zero financial payoff to corporate America outside of the technology sector, despite massive ongoing investments and widespread market hype.</p><p>The report highlights that traditional and regulated industries—such as healthcare and banking—face operational hurdles, privacy rules, and process overhauls that could delay productivity boosts and cash flow realizations well beyond Wall Street expectations.</p><p><img src="https://www.cubeo.ai/wp-content/uploads/2025/02/AI-in-Finance-image-blog-2.png" /></p><hr/><small>24 Oct 2026, 21:08 UTC | #25333</small>]]></content>
+  </entry>
   <entry>
     <title>Home Page Farm Essay Critiques Ethical and Environmental Impacts of Artificial Intelligence</title>
     <link href="https://homepage.farm/ai.html" rel="alternate" />
@@ -589,14 +598,5 @@
     <updated>2026-10-20T01:00:00+00:00</updated>
     <media:thumbnail url="https://mercadotecnia.portada-online.com/wp-content/uploads/2026/05/ChatGPT-Image.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-19/ftc-requires-publicis-to-offer-equal-access-to-liveramp-data">bloomberg.com</a> | <a href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp">source</a></small></p><hr/><p>The US Federal Trade Commission approved Publicis Groupe SA's $2.2 billion acquisition of LiveRamp Holdings Inc. subject to a consent decree. The agreement requires Publicis to provide neutral and nondiscriminatory access to LiveRamp's data connectivity tools for all clients and to establish firewalls protecting customer data.</p><p>The conditions aim to preserve competition within the digital advertising ecosystem by preventing Publicis from leveraging exclusive insights or appropriating customer data to disadvantage rival media companies. The regulatory clearance allows the major ad holding company to integrate LiveRamp's identity resolution and data collaboration infrastructure under strict behavioral oversight.</p><p><img src="https://mercadotecnia.portada-online.com/wp-content/uploads/2026/05/ChatGPT-Image.jpg" /></p><hr/><small>20 Oct 2026, 05:06 UTC | #24819</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nscale and Anthropic in Talks for Second $45 Billion Cloud Computing Deal</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal::v240</id>
-    <published>2026-10-19T21:02:00+00:00</published>
-    <updated>2026-10-19T21:02:00+00:00</updated>
-    <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/BTBLXoJ6tF2ZZnoNuABN2F.jpg" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal">bloomberg.com</a></small></p><hr/><p>Nscale Ltd. and Anthropic PBC are reportedly in negotiations for a second major cloud computing contract valued at approximately $45 billion. The proposed agreement would supply Anthropic with 460 megawatts of computing power from Nscale's West Virginia campus.</p><p>The potential deal follows a similarly massive agreement struck between the two companies earlier in the year. The infrastructure is slated to utilize Nvidia's Vera Rubin chips to support Anthropic's expanding artificial intelligence operations.</p><p><img src="https://cdn.mos.cms.futurecdn.net/BTBLXoJ6tF2ZZnoNuABN2F.jpg" /></p><hr/><small>20 Oct 2026, 03:01 UTC | #24810</small>]]></content>
   </entry>
 </feed>
