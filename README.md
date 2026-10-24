@@ -1,11 +1,11 @@
 # My RSS feeds
 
-The feeds I actually read, published here so other people can subscribe too. They update as new stories land.
+The feeds I actually read, published here so other people can subscribe too. Most of them
+are about technology, artificial intelligence in particular. They update as new stories land.
 
 ## Subscribing
 
-Import **[feeds.opml](https://github.com/JanuszPelc/my-feeds/blob/master/feeds.opml)**
-into your feed reader to get everything at once, or add single feeds using the links below:
+Add any feed to your reader using its link:
 
 - [ai-news](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml): new AI models and agents, the tools to run them, and the products built on them
 - [computer-programming](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml): the craft of building software, from new languages to old machines
@@ -18,9 +18,8 @@ into your feed reader to get everything at once, or add single feeds using the l
 - [tech-industry](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml): how the tech business is changing, from chipmaking and data centers to jobs
 - [tech-policy](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml): how tech and power shape each other, from laws and courts to surveillance and war
 
-> [!TIP]
-> If a feed goes quiet for a few days, come back and check the list above. The URLs are
-> meant to be permanent, but if one ever changes, the old one stops working.
+Or download **[feeds.opml](https://github.com/JanuszPelc/my-feeds/blob/master/feeds.opml)**
+and import it into your reader to get all of them at once.
 
 ## Worth knowing
 
@@ -29,3 +28,7 @@ nothing is reviewed by hand. Lead images are chosen by vision models and don't a
 match the story. Check anything that matters against the linked sources.
 
 The feeds are generated automatically, so I can't accept pull requests.
+
+> [!TIP]
+> If a feed goes quiet for a few days, come back and check the list above. The URLs are
+> meant to be permanent, but if one ever changes, the old one stops working.
