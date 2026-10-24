@@ -1095,31 +1095,4 @@
     <media:thumbnail url="https://files.speakerdeck.com/presentations/9d62c6f3816848f8aeca7a43cf41b81d/slide_6.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/vyfegx/what_are_you_doing_this_week">lobste.rs</a> | <a href="https://maplibre.org/news/2026-10-01-maplibre-newsletter-september-2026">source</a> | <a href="https://lobste.rs/s/vyfegx/what_are_you_doing_this_week">discussion</a></small></p><hr/><p>The author is finalizing the release of a C plugin API for MapLibre Native, intended to enable the development of extensions without affecting the stability of the base library.</p><p>Current development includes an open pull request for a "globe mode" feature. The developer is also considering the creation of a "next" branch to serve as a testing area for experimental or LLM-driven contributions before they are merged into the main codebase.</p><p><img src="https://files.speakerdeck.com/presentations/9d62c6f3816848f8aeca7a43cf41b81d/slide_6.jpg" /></p><hr/><small>19 Oct 2026, 15:32 UTC | #24760</small>]]></content>
   </entry>
-  <entry>
-    <title>Java Sealed Classes and Exhaustive Pattern Matching Implications</title>
-    <link href="https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/" rel="alternate" />
-    <id>https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/::v240</id>
-    <published>2026-10-19T10:58:00+00:00</published>
-    <updated>2026-10-19T10:58:00+00:00</updated>
-    <media:thumbnail url="https://www.javacodegeeks.com/wp-content/uploads/2026/04/2026-04-03_15-17-08.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/">neilmadden.blog</a> | <a href="https://openjdk.org/jeps/409">source</a> | <a href="https://news.ycombinator.com/item?id=50141579">hacker news</a></small></p><hr/><p>By allowing developers to explicitly define permitted subtypes, Java sealed classes enable exhaustive pattern matching in switch expressions. This mechanism ensures all cases are covered at compile-time, which permits the omission of a default clause in the switch expression.</p><p>However, adding a new subtype to a sealed class is a breaking change that can trigger a runtime MatchException if consumers are not recompiled. This risk makes sealed classes more appropriate for internal implementation details than for exposure in public APIs.</p><p><img src="https://www.javacodegeeks.com/wp-content/uploads/2026/04/2026-04-03_15-17-08.png" /></p><hr/><small>19 Oct 2026, 15:31 UTC | #24775</small>]]></content>
-  </entry>
-  <entry>
-    <title>Ende Announced as a New Deno Fork</title>
-    <link href="https://blog.webb.page/WM-105" rel="alternate" />
-    <id>https://blog.webb.page/WM-105::v240</id>
-    <published>2026-10-19T10:55:00+00:00</published>
-    <updated>2026-10-19T10:55:00+00:00</updated>
-    <media:thumbnail url="https://dz2cdn1.dzone.com/storage/temp/17500023-deno.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.webb.page/WM-105">blog.webb.page</a> | <a href="https://lobste.rs/s/8ejwsp/beginning_ende_community_deno_fork">discussion</a></small></p><hr/><p>The Deno team is joining Cloudflare and will cease development of the Deno runtime in one year. In response, Paul Anthony Webb has announced Ende, a new runtime project that forks Deno but excludes Node.js compatibility and services like Deno KV and Deploy.</p><p>Ende intends to prioritize features such as per-module permissions, sandboxing for untrusted code, and post-quantum cryptography. The project is scheduled for a soft launch in December to address production issues before a full release.</p><p><img src="https://dz2cdn1.dzone.com/storage/temp/17500023-deno.png" /></p><hr/><small>19 Oct 2026, 15:12 UTC | #24772</small>]]></content>
-  </entry>
-  <entry>
-    <title>Free Pascal Compiler and Lazarus IDE Introduce Dynamic Package Support</title>
-    <link href="https://www.getlazarus.org/dynamic/" rel="alternate" />
-    <id>https://www.getlazarus.org/dynamic/::v240</id>
-    <published>2026-10-19T10:54:00+00:00</published>
-    <updated>2026-10-19T10:54:00+00:00</updated>
-    <media:thumbnail url="https://cache.getlazarus.org/videos/dynamic-packages.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.getlazarus.org/dynamic/">getlazarus.org</a> | <a href="https://news.ycombinator.com/item?id=50144066">hacker news</a></small></p><hr/><p>The Free Pascal Compiler (FPC) and the Lazarus IDE have introduced full support for dynamic packages, allowing users to install components, controls, and extensions without rebuilding the entire IDE. These packages are implemented as standard shared library files for Linux, Windows, and macOS and include metadata that can be inspected using new Runtime Library (RTL) units.</p><p>IDE enhancements include a new progress window for background rebuilds, a dedicated Packages window for managing recent sessions, and the ability to restrict packages to specific platforms or widgetsets. The update also provides a form or frame conversion feature for Lazarus extensions and enables developers to build plugin systems by exposing native Pascal classes and types through dynamic libraries.</p><p><img src="https://cache.getlazarus.org/videos/dynamic-packages.jpg" /></p><hr/><small>19 Oct 2026, 15:08 UTC | #24771</small>]]></content>
-  </entry>
 </feed>
