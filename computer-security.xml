@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-24T14:52:00+00:00</updated>
+  <updated>2026-10-24T15:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</logo>
+  <entry>
+    <title>Brotli Decoder Vulnerability CVE-2026-111497 Affects Multiple HTTP Libraries and Applications</title>
+    <link href="https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497" rel="alternate" />
+    <id>https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497::v240</id>
+    <published>2026-10-24T15:30:00+00:00</published>
+    <updated>2026-10-24T15:30:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1700-" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497">aikido.dev</a> | <a href="https://news.ycombinator.com/item?id=50219177">hacker news</a></small></p><hr/><p>A critical out-of-bounds write vulnerability in Google's Brotli compression library, tracked as CVE-2026-111497 with a CVSS score of 9.2, impacts a wide range of HTTP libraries, runtimes, and applications. Initially highlighted in Node.js under the name Node2Shell, the flaw allows unauthenticated remote attackers to corrupt memory, cause crashes, leak sensitive data, or execute arbitrary code via crafted Brotli-compressed data streams.</p><p>Subsequent disclosures revealed that the vulnerability extends across multiple ecosystems, including Python packages such as Brotli and brotlicffi, C++, Envoy, Istio, and Bun. Affected organizations and developers are advised to apply security patches—such as upgrading to Brotli 1.2.1 or runtime-specific fixed versions—or temporarily disable Brotli decoding in incoming and outbound HTTP traffic to mitigate exposure.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1700-" /></p><hr/><small>24 Oct 2026, 18:42 UTC | #25326</small>]]></content>
+  </entry>
   <entry>
     <title>CVE Tracker Web-Based Vulnerability Monitoring Tool Launched</title>
     <link href="https://cve.0xosprey.com/" rel="alternate" />
