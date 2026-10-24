@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-24T04:08:00+00:00</updated>
+  <updated>2026-10-24T04:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Canadian MPs Advance Bill S-211 to Restrict Sports Gambling Advertising</title>
+    <link href="https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888" rel="alternate" />
+    <id>https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888::v240</id>
+    <published>2026-10-24T04:15:00+00:00</published>
+    <updated>2026-10-24T04:15:00+00:00</updated>
+    <media:thumbnail url="https://i.cbc.ca/ais/5bb74cce-28f0-4492-bb87-bfe9a3fb12fb,1792618879789/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888">cbc.ca</a> | <a href="https://news.ycombinator.com/item?id=50195873">hacker news</a></small></p><hr/><p>Federal lawmakers in Canada are advancing Bill S-211 to establish a national framework restricting sports betting and online casino advertisements across broadcasts, social media, and athletic gear. The legislative push follows new research conducted during the 2026 NHL playoffs showing that viewers are exposed to two to three gambling messages every minute, alongside rising rates of problem gambling and gambling-related suicides.</p><p>While health organizations and addiction researchers support federal intervention to curb pervasive marketing, the Canadian Gaming Association and provincial governments in Ontario and Alberta oppose the national framework. If approved by the House of Commons standing committee, the bill could lead to stricter regulations, including time-of-day bans and restrictions on celebrity and athlete endorsements.</p><p><img src="https://i.cbc.ca/ais/5bb74cce-28f0-4492-bb87-bfe9a3fb12fb,1792618879789/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620" /></p><hr/><small>24 Oct 2026, 11:24 UTC | #25298</small>]]></content>
+  </entry>
   <entry>
     <title>UK Establishes £100M AI Biosecurity Lab</title>
     <link href="https://www.bbc.com/news/articles/cqdjv8xllvyyo" rel="alternate" />
