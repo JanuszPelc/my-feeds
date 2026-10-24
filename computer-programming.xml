@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-24T15:38:00+00:00</updated>
+  <updated>2026-10-24T20:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>C++26 Standards Draft Disapproved in ISO Balloting</title>
+    <link href="https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL" rel="alternate" />
+    <id>https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL::v240</id>
+    <published>2026-10-24T20:33:00+00:00</published>
+    <updated>2026-10-24T20:33:00+00:00</updated>
+    <media:thumbnail url="https://herbsutter.com/wp-content/uploads/2026/03/wg21-2026-std.png?w=768&amp;h=643" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL">linkedin.com</a> | <a href="https://lobste.rs/s/rlrfew/balloting_has_completed_for_c_26">discussion</a></small></p><hr/><p>The ISO standards committee draft for C++26 has been officially disapproved after failing to meet the required voting thresholds during member body balloting. The proposal secured 60 percent in-favor votes from P-members, falling short of the required two-thirds majority, while recording a 41 percent negative vote rate that exceeded the 25 percent limit.</p><p>A significant number of member bodies abstained from voting, with several pointing to challenges in reaching a common national position on the contested draft. Because prior C++ standard revisions had all passed unanimously, the rejection marks an unprecedented setback for the language's formal standardization timeline.</p><p><img src="https://herbsutter.com/wp-content/uploads/2026/03/wg21-2026-std.png?w=768&h=643" /></p><hr/><small>24 Oct 2026, 22:56 UTC | #25334</small>]]></content>
+  </entry>
   <entry>
     <title>Stuart Halloway Discusses Software Creation, AI, and Human Judgment at Clojure/conj 2026</title>
     <link href="https://www.youtube.com/watch?v=7yeH1DqK984" rel="alternate" />
