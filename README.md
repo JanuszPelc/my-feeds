@@ -4,7 +4,7 @@ The feeds I actually read, published here so other people can subscribe too. The
 
 ## Subscribing
 
-Import **[feeds.opml](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/feeds.opml)**
+Import **[feeds.opml](https://github.com/JanuszPelc/my-feeds/blob/master/feeds.opml)**
 into your feed reader to get everything at once, or add single feeds using the links below:
 
 - [ai-news](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml): new AI models and agents, the tools to run them, and the products built on them
