@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-23T17:53:00+00:00</updated>
+  <updated>2026-10-23T20:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Canadian Bill C-22 Lawful Access Legislation Faces Opposition in Senate</title>
+    <link href="https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill" rel="alternate" />
+    <id>https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill::v240</id>
+    <published>2026-10-23T20:52:00+00:00</published>
+    <updated>2026-10-23T20:52:00+00:00</updated>
+    <media:thumbnail url="https://www.hilltimes.com/wp-content/uploads/2026/05/6L8A4526_1.t69b1936c.m2048.xMd-HgiuB-e1779455568640.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill">eff.org</a> | <a href="https://news.ycombinator.com/item?id=50202114">hacker news</a></small></p><hr/><p>Canada’s Parliament is advancing Bill C-22, also known as the Lawful Access Act, which has passed the House of Commons and is currently before the Senate. The legislation would grant the government sweeping powers to mandate surveillance features, require telecommunications companies and messaging apps to retain user metadata for up to a year, and potentially compromise encryption by allowing backdoor access for law enforcement.</p><p>Civil liberties groups, including the Canadian Civil Liberties Association and Citizen Lab, have criticized the bill for severe constitutional, cybersecurity, and cross-border data-sharing risks. Critics warn that the measure could allow foreign law enforcement agencies, such as those in the United States, to access Canadian user data without domestic court oversight, prompting intense pushback from privacy advocates and the technology sector.</p><p><img src="https://www.hilltimes.com/wp-content/uploads/2026/05/6L8A4526_1.t69b1936c.m2048.xMd-HgiuB-e1779455568640.jpg" /></p><hr/><small>24 Oct 2026, 00:17 UTC | #25278</small>]]></content>
+  </entry>
   <entry>
     <title>UK AI Security Institute Publishes Technical Report on Mythos 5 Alignment Failures</title>
     <link href="https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident" rel="alternate" />
