@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>tech-consumer</title>
+  <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
+  <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
+  <updated>2026-10-23T23:08:00+00:00</updated>
+  <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png</icon>
+  <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png</logo>
+  <entry>
+    <title>Xbox Chief Operating Officer Helen Chiang Departs</title>
+    <link href="https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure" rel="alternate" />
+    <id>https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure::v240</id>
+    <published>2026-10-23T23:08:00+00:00</published>
+    <updated>2026-10-23T23:08:00+00:00</updated>
+    <media:thumbnail url="https://gamesbeat.com/wp-content/uploads/2026/07/Helen-Chiang.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure">theverge.com</a></small></p><hr/><p>Helen Chiang is leaving Microsoft after serving just a few months as Xbox's first chief operating officer, a position she assumed in July following a 21-year tenure leading the Minecraft franchise. Her departure was announced via a brief internal memo from Xbox CEO Asha Sharma, with her responsibilities temporarily distributed among other division leaders.</p><p>The role was originally created as part of a major organizational reset at Xbox that included widespread workforce reductions. Microsoft has declined to comment on the specific circumstances of her exit as the gaming division faces reports of further anticipated layoffs.</p><p><img src="https://gamesbeat.com/wp-content/uploads/2026/07/Helen-Chiang.jpg" /></p><hr/><small>24 Oct 2026, 04:58 UTC | #25273</small>]]></content>
+  </entry>
+  <entry>
+    <title>GameMaker to Make GMRT Runtime Free for Commercial Use in 2027</title>
+    <link href="https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs" rel="alternate" />
+    <id>https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs::v240</id>
+    <published>2026-10-23T17:52:00+00:00</published>
+    <updated>2026-10-23T17:52:00+00:00</updated>
+    <media:thumbnail url="https://gamemaker.io/_next/image?url=https://assets.gamemaker.io/content/GM_Update_Spring_16fb9b625f.png&amp;w=640&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs">gamedeveloper.com</a> | <a href="https://gamemaker.io/en/blog/gmrt-update">source</a></small></p><hr/><p>Starting January 1, 2027, developers can distribute games on PC, mobile, web, and GX Games for free using the GMRT runtime. This update removes the requirement for a professional license for these specific platforms.</p><p>Developers targeting consoles—including PlayStation 5, Xbox Series X|S, or Nintendo Switch 2—will still require an enterprise license. The move is part of a strategy to make indie game development more accessible.</p><p><img src="https://gamemaker.io/_next/image?url=https://assets.gamemaker.io/content/GM_Update_Spring_16fb9b625f.png&w=640&q=75" /></p><hr/><small>23 Oct 2026, 23:01 UTC | #25260</small>]]></content>
+  </entry>
+  <entry>
+    <title>Isaac Marovitz Examines Unused Visual Features and Rendering Systems in Sonic 06</title>
+    <link href="https://isaacmarovitz.com/posts/sonic-06/" rel="alternate" />
+    <id>https://isaacmarovitz.com/posts/sonic-06/::v240</id>
+    <published>2026-10-23T13:51:00+00:00</published>
+    <updated>2026-10-23T13:51:00+00:00</updated>
+    <media:thumbnail url="https://isaacmarovitz.com/_astro/csc.qd2LvtIN_1FCr9I.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://isaacmarovitz.com/posts/sonic-06/">isaacmarovitz.com</a> | <a href="https://lobste.rs/s/nb7wkp/many_many_missed_opportunities_sonic_06">discussion</a></small></p><hr/><p>Developer Isaac Marovitz explores the technical reasons behind the downgraded visuals of Sonic the Hedgehog (2006), detailing how performance constraints during crunch led Sonic Team to disable advanced shaders, shadow map cascades, and point lights. Through work on the Marathon Recompiled project, the analysis reveals that many higher-fidelity visual assets and effects from beta builds remain dormant in the game files.</p><p>The article examines specific rendering limitations, such as the widespread reliance on rudimentary vertex-lit shaders like Billboard02, unoptimized point light counts that overload specific stages, and disabled real-time planar reflections in multiplayer modes. While some of these systems can be tweaked or stabilized via recompilation and patching, swapping core shader variants remains challenging due to complex material definitions and input layouts.</p><p><img src="https://isaacmarovitz.com/_astro/csc.qd2LvtIN_1FCr9I.webp" /></p><hr/><small>23 Oct 2026, 16:54 UTC | #25250</small>]]></content>
+  </entry>
+  <entry>
+    <title>Disney+ Raises Subscription Prices and Updates Terms to Permit Promotional Content on All Tiers</title>
+    <link href="https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/" rel="alternate" />
+    <id>https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/::v240</id>
+    <published>2026-10-23T13:49:00+00:00</published>
+    <updated>2026-10-23T13:49:00+00:00</updated>
+    <media:thumbnail url="https://www.tvfandomlounge.com/wp-content/uploads/2025/05/Daredevil-Born-Again-Viewership-1024x577.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/">tvfandomlounge.com</a> | <a href="https://news.ycombinator.com/item?id=50205934">hacker news</a></small></p><hr/><p>Disney+ and Hulu have implemented price increases for their ad-free premium tiers, raising standalone monthly costs to $21.49. Alongside the price hikes, Disney updated its subscriber agreement to explicitly permit promotional content, sponsorships, and advertisements across all subscription plans, including the previously commercial-free premium tier.</p><p>The adjustments arrive as Disney+ faces continued scrutiny over the viewership and critical performance of its original programming relative to competing streaming services. While the updated terms allow promotional material and trailers before and after content playback on ad-free plans, full mid-show commercial breaks remain restricted to the lowest-priced ad-supported tiers.</p><p><img src="https://www.tvfandomlounge.com/wp-content/uploads/2025/05/Daredevil-Born-Again-Viewership-1024x577.webp" /></p><hr/><small>23 Oct 2026, 16:31 UTC | #25251</small>]]></content>
+  </entry>
+  <entry>
+    <title>Oura Sues Ultrahuman Again to Block U.S. Sales of Ring Pro</title>
+    <link href="https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/::v240</id>
+    <published>2026-10-23T05:02:00+00:00</published>
+    <updated>2026-10-23T05:02:00+00:00</updated>
+    <media:thumbnail url="https://media.wired.com/photos/69c3156592bb97dd41f9b6e3/3:2/w_2560,c_limit/Ultrahuman's-U.S.-Comeback-Starts-Now-With-the-New-Ring-Pro.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/">techcrunch.com</a> | <a href="https://ouraring.com/blog/ultrahuman-patent-infringement/">source</a></small></p><hr/><p>Smart ring maker Oura has filed a patent infringement lawsuit against rival Ultrahuman in a federal court in Texas, seeking monetary damages and a permanent injunction to block U.S. sales of the Ring Pro. The complaint alleges that the redesigned smart ring infringes two of Oura's patents covering device design and internal components, including a patent issued just days before the filing.</p><p>The legal action threatens Ultrahuman's return to the American market, which it achieved earlier this year following a previous import ban stemming from an International Trade Commission ruling against its earlier Ring Air model. Oura has pursued similar patent claims against other smart ring competitors, including Samsung and RingConn, as litigation intensifies across the growing wearable health market.</p><p><img src="https://media.wired.com/photos/69c3156592bb97dd41f9b6e3/3:2/w_2560,c_limit/Ultrahuman's-U.S.-Comeback-Starts-Now-With-the-New-Ring-Pro.jpg" /></p><hr/><small>23 Oct 2026, 13:03 UTC | #25205</small>]]></content>
+  </entry>
+  <entry>
+    <title>Why Prioritizing Core Teams in Game Development Risks Devaluing Other Developers</title>
+    <link href="https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs" rel="alternate" />
+    <id>https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs::v240</id>
+    <published>2026-10-22T21:31:00+00:00</published>
+    <updated>2026-10-22T21:31:00+00:00</updated>
+    <media:thumbnail url="https://nastyrodent.com/wp-content/uploads/2026/06/game-development-team-structure-indie-mid-core-aaa-scale-1024x683.png" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs">gamedeveloper.com</a></small></p><hr/><p>An opinion article examines how media coverage of distributed game development often attributes large-scale projects entirely to small core teams, inadvertently obscuring the contributions of hundreds of external and support developers. The piece analyzes recent discussions surrounding games like Star Wars: Galactic Racer and Clair Obscur: Expedition 33, where lean core staffing figures were highlighted while thousands of credited contributors went unmentioned.</p><p>The author argues that framing game success around an exclusive core group reinforces problematic industry hierarchies, impacts career visibility, and influences how investors and studios evaluate talent during funding and layoffs. By examining the linguistic choices in game journalism and marketing, the article calls for more precise terminology that acknowledges distributed development models without erasing the broader workforce.</p><p><img src="https://nastyrodent.com/wp-content/uploads/2026/06/game-development-team-structure-indie-mid-core-aaa-scale-1024x683.png" /></p><hr/><small>23 Oct 2026, 01:45 UTC | #25180</small>]]></content>
+  </entry>
+  <entry>
+    <title>Amazon Rebrands Kindle Unlimited to Kindle+ With Added AI Audiobooks</title>
+    <link href="https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/" rel="alternate" />
+    <id>https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/::v240</id>
+    <published>2026-10-22T21:27:00+00:00</published>
+    <updated>2026-10-22T21:27:00+00:00</updated>
+    <media:thumbnail url="https://www.cultofmac.com/wp-content/uploads/2014/07/Kindle-Unlimited-teaser-005.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.zdnet.com/tech/kindle-unlimited-kindle-plus-audiobooks-ai/">zdnet.com</a> | <a href="https://www.kdpcommunity.com/s/article/Kindle-Unlimited-is-now-Kindle-KDP-audiobooks-now-included?language=en_US">source</a></small></p><hr/><p>Amazon has officially rebranded its Kindle Unlimited subscription service to Kindle+, maintaining the $12 monthly fee and core borrowing rules while significantly expanding its audiobook catalog. The updated service integrates audiobooks directly into the subscription, allowing users to seamlessly switch between reading ebooks and listening to audio versions.</p><p>As part of the expansion, Amazon is incorporating AI-narrated titles into the platform through its Virtual Voice program, which is offered free to authors in the Kindle Direct Publishing network. While the update provides subscribers with a broader selection of listening material and gives self-published authors a cost-effective way to produce audiobooks, it also raises concerns among professional narrators regarding industry standards and employment opportunities.</p><p><img src="https://www.cultofmac.com/wp-content/uploads/2014/07/Kindle-Unlimited-teaser-005.jpg" /></p><hr/><small>23 Oct 2026, 01:31 UTC | #25158</small>]]></content>
+  </entry>
+  <entry>
+    <title>Matthew Cole Book Excerpt Details Jared Kushner Hacked Phone and Secret Financial Transfers</title>
+    <link href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations" rel="alternate" />
+    <id>https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations::v240</id>
+    <published>2026-10-22T21:25:00+00:00</published>
+    <updated>2026-10-22T21:25:00+00:00</updated>
+    <media:thumbnail url="https://media.vanityfair.com/photos/6ad91087dc03a09d237f39fb/master/w_2560%2Cc_limit/vfoctober_kushner_money_tout.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations">vanityfair.com</a> | <a href="https://news.ycombinator.com/item?id=50201259">hacker news</a></small></p><hr/><p>An excerpt from Matthew Cole’s book, Princes and Thieves: Jared Kushner and Mohamed bin Zayed’s Secret Plot to Remake the Middle East, details how Dutch military intelligence allegedly discovered screenshots of Jared Kushner’s iPhone through a compromised Russian server. The files reportedly revealed that Kushner accessed secret Gulf-funded bank accounts containing billions of dollars from Emirati and Saudi royals during the first Trump administration.</p><p>The excerpt describes multiple accounts and hundreds of millions of dollars routed through Azerbaijan to conceal transactions and fund regional diplomatic objectives. Kushner's legal counsel and former administration officials have strongly denied the allegations, dismissing the claims as fabricated and false.</p><p><img src="https://media.vanityfair.com/photos/6ad91087dc03a09d237f39fb/master/w_2560%2Cc_limit/vfoctober_kushner_money_tout.jpg" /></p><hr/><small>23 Oct 2026, 01:17 UTC | #25195</small>]]></content>
+  </entry>
+  <entry>
+    <title>Microsoft Winds Down The Garage and Global Hackathon Program</title>
+    <link href="https://www.geekwire.com/2026/microsoft-shuts-the-door-on-the-garage-the-central-program-behind-its-hackathon-and-maker-spaces/" rel="alternate" />
+    <id>https://www.geekwire.com/2026/microsoft-shuts-the-door-on-the-garage-the-central-program-behind-its-hackathon-and-maker-spaces/::v240</id>
+    <published>2026-10-22T18:45:00+00:00</published>
+    <updated>2026-10-22T18:45:00+00:00</updated>
+    <media:thumbnail url="https://cdn.geekwire.com/wp-content/uploads/2026/10/workshop-min.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.geekwire.com/2026/microsoft-shuts-the-door-on-the-garage-the-central-program-behind-its-hackathon-and-maker-spaces/">geekwire.com</a></small></p><hr/><p>Microsoft is shutting down The Garage as a companywide program after a 17-year run, ending the centralized initiative that provided employee maker spaces, tools, and side-project support. According to an internal FAQ, some physical maker spaces could see access restrictions as early as this week, while the future of the company's annual Global Hackathon remains uncertain as organizers look to reimagine the format.</p><p>Launched in 2009 inside the Office Labs group and expanded significantly under CEO Satya Nadella, The Garage grew to encompass 15 global locations and gave rise to various experimental public tools and apps. Microsoft stated that the innovation fostered by the program is now integrated directly into regular team workflows, aligning with broader corporate cutbacks and a strategic shift toward artificial intelligence infrastructure.</p><p><img src="https://cdn.geekwire.com/wp-content/uploads/2026/10/workshop-min.jpg" /></p><hr/><small>23 Oct 2026, 00:04 UTC | #25163</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple Introduces Made for iPhone Duo App Store Badge</title>
+    <link href="https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store" rel="alternate" />
+    <id>https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store::v240</id>
+    <published>2026-10-22T15:42:00+00:00</published>
+    <updated>2026-10-22T15:42:00+00:00</updated>
+    <media:thumbnail url="https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/10/Apple-iPhone-Duo-768x432.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store">theverge.com</a> | <a href="https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/">source</a></small></p><hr/><p>Apple is introducing a "Made for iPhone Duo" badge in the App Store to identify applications optimized for its new foldable iPhone. The badge will appear on product pages for apps designed to take advantage of the device's larger inner display, folding form factor, and split-screen capabilities.</p><p>Optimized apps include Netflix, Amazon Prime Video, Microsoft Word, Outlook, and Zoom, which utilize the folding design for split-view workflows and desktop-class features. Apple is also launching dedicated editorial collections for the device, alongside app updates rolling out throughout the year.</p><p><img src="https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2026/10/Apple-iPhone-Duo-768x432.jpg" /></p><hr/><small>22 Oct 2026, 21:41 UTC | #25150</small>]]></content>
+  </entry>
+  <entry>
+    <title>Hazelight Studios Details the Design of Split Fiction's Final Level</title>
+    <link href="https://www.youtube.com/watch?v=-pGFuhhceQA" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=-pGFuhhceQA::v240</id>
+    <published>2026-10-22T15:37:00+00:00</published>
+    <updated>2026-10-22T15:37:00+00:00</updated>
+    <media:thumbnail url="https://i2.ytimg.com/vi/-pGFuhhceQA/hqdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>GDC Videos | <a href="https://www.youtube.com/watch?v=-pGFuhhceQA">youtube.com</a> | <a href="https://news.ycombinator.com/item?id=50065859">hacker news</a></small></p><hr/><p>In a Game Developers Conference presentation, Hazelight Studios level designer Hana details the design process behind the final level of the co-op game Split Fiction. The talk focuses on how the team implemented a world-blending concept where two players navigate simultaneous sci-fi and fantasy environments.</p><p>Originally pitched as the core mechanic for the entire game, the dual-world concept was restricted to the finale to mitigate immense artistic and design complexities. The presentation examines how developers iterated on cooperative puzzles by balancing information sharing, execution roles, and timing mechanics to create a cohesive shared experience.</p><p><img src="https://i2.ytimg.com/vi/-pGFuhhceQA/hqdefault.jpg" /></p><hr/><small>22 Oct 2026, 20:33 UTC | #25153</small>]]></content>
+  </entry>
+  <entry>
+    <title>Owlchemy Labs Announces XR Arcade Blaster Hyper Visor for XREAL Aura</title>
+    <link href="https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release" rel="alternate" />
+    <id>https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release::v240</id>
+    <published>2026-10-22T14:41:00+00:00</published>
+    <updated>2026-10-22T14:41:00+00:00</updated>
+    <media:thumbnail url="https://resource.xreal.com/www-xreal-com/images/aura/aura_blog_coverImage.jpeg" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release">gamedeveloper.com</a> | <a href="https://www.gamespress.com/Owlchemy-Labs-Reveals-Hyper-Visor-a-Reality-Bending-Arcade-Blaster-Lau">source</a></small></p><hr/><p>Game studio Owlchemy Labs has announced Hyper Visor, an original extended reality arcade blaster developed as a launch title for the XREAL Aura headset. Priced at $1.99 on the Google Play Store, the game tasks players with using hand tracking and virtual sunglasses to clear eight levels inspired by traditional genres like rhythm games and side-scrolling shooters.</p><p>The release marks a strategic pivot for the Google-owned studio toward lightweight spatial computing hardware designed to overcome public adoption barriers associated with bulky VR headsets. By targeting hardware that resembles everyday eyewear, Owlchemy aims to evaluate whether form factor improvements can help expand the commercial viability of XR gaming.</p><p><img src="https://resource.xreal.com/www-xreal-com/images/aura/aura_blog_coverImage.jpeg" /></p><hr/><small>22 Oct 2026, 20:06 UTC | #25138</small>]]></content>
+  </entry>
+  <entry>
+    <title>Brad Phillips Details Long-Term Benzodiazepine Withdrawal and Medical Dismissal</title>
+    <link href="https://www.thebeliever.net/the-other-epidemic/" rel="alternate" />
+    <id>https://www.thebeliever.net/the-other-epidemic/::v240</id>
+    <published>2026-10-22T13:46:00+00:00</published>
+    <updated>2026-10-22T13:46:00+00:00</updated>
+    <media:thumbnail url="https://www.thebeliever.net/wp-content/uploads/2026/09/the-believer-spot-1-FINAL-CMYK-1200x1200.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.thebeliever.net/the-other-epidemic/">thebeliever.net</a> | <a href="https://news.ycombinator.com/item?id=50173891">hacker news</a></small></p><hr/><p>Brad Phillips recounts his severe, protracted withdrawal experience after stopping long-term prescribed Klonopin use, detailing how physical and psychological symptoms were frequently misdiagnosed and dismissed by medical professionals.</p><p>Tracing the history of benzodiazepines from their mid-century market introduction and aggressive marketing strategies to modern recognition of protracted withdrawal risks, the account highlights a widespread lack of clinical awareness regarding safe tapering protocols and severe dependency.</p><p><img src="https://www.thebeliever.net/wp-content/uploads/2026/09/the-believer-spot-1-FINAL-CMYK-1200x1200.jpg" /></p><hr/><small>22 Oct 2026, 18:37 UTC | #25156</small>]]></content>
+  </entry>
+  <entry>
+    <title>General Motors Unveils OnStar AI Assistant and Autonomous Driving Roadmap</title>
+    <link href="https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/" rel="alternate" />
+    <id>https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/::v240</id>
+    <published>2026-10-22T02:01:00+00:00</published>
+    <updated>2026-10-22T02:01:00+00:00</updated>
+    <media:thumbnail url="https://media.wired.com/photos/6ad86aa949d6fa29506dfc96/master/w_1600%2Cc_limit/OnStar%2520AI%2520Assistant.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/">wired.com</a></small></p><hr/><p>General Motors announced a series of technology updates at its annual GM Forward event, highlighted by the introduction of an AI-powered assistant for its OnStar service. The new OnStar AI system will debut via an over-the-air update in the 2027 Cadillac Lyriq, offering conversational voice controls and deeper vehicle integration.</p><p>The automaker also outlined plans to accelerate vehicle development cycles and expand its "eyes-off" highway driving capabilities to more models starting with the 2028 Cadillac Escalade IQ. While GM envisions a future where autonomous features handle routine chores and errands, executives acknowledged that widespread deployment will introduce significant infrastructure and societal challenges.</p><p><img src="https://media.wired.com/photos/6ad86aa949d6fa29506dfc96/master/w_1600%2Cc_limit/OnStar%2520AI%2520Assistant.jpg" /></p><hr/><small>22 Oct 2026, 09:14 UTC | #25093</small>]]></content>
+  </entry>
+  <entry>
+    <title>Xbox Cloud Gaming Introduces Pay-As-You-Go Playtime Bundles</title>
+    <link href="https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing" rel="alternate" />
+    <id>https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing::v240</id>
+    <published>2026-10-21T20:31:00+00:00</published>
+    <updated>2026-10-23T13:23:00+00:00</updated>
+    <media:thumbnail url="https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/xbox-controller-illuminated-in-green-on-a-desk-beside-a-keyboard.jpg?q=49&amp;fit=crop&amp;w=825&amp;dpr=2" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing">theverge.com</a> | <a href="https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/">source</a> | <a href="https://news.ycombinator.com/item?id=50194009">hacker news</a></small></p><hr/><p>Microsoft is allowing Xbox Insiders to purchase cloud gaming hours without a Game Pass subscription. Introductory packs include 10 hours for $3.99, 25 hours for $7.99, and 50 hours for $11.99. These non-expiring bundles feature ad-free streaming, higher video quality, and reduced wait times.</p><p>The service is scheduled for a broader rollout in November. This model arrives as Microsoft manages streaming rights for Grand Theft Auto VI, though reports suggest the title may be restricted to console streaming rather than web browsers or apps. Microsoft is also testing a free, ad-supported tier for Insiders that offers one-hour sessions for games users already own.</p><p><img src="https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/06/xbox-controller-illuminated-in-green-on-a-desk-beside-a-keyboard.jpg?q=49&fit=crop&w=825&dpr=2" /></p><hr/><small>22 Oct 2026, 02:22 UTC | #25079</small>]]></content>
+  </entry>
+  <entry>
+    <title>Electronic Arts Shuts Down BioWare and Cancels Next Mass Effect Game</title>
+    <link href="https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware" rel="alternate" />
+    <id>https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware::v240</id>
+    <published>2026-10-21T17:30:00+00:00</published>
+    <updated>2026-10-21T17:30:00+00:00</updated>
+    <media:thumbnail url="https://img.etimg.com/thumb/msid-135100103,width-650,height-488,imgsize-91652,resizemode-75/bioware-ea-video-game.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware">theverge.com</a> | <a href="https://www.ea.com/news/building-eas-next-chapter">source</a> | <a href="https://news.ycombinator.com/item?id=50184586">hacker news</a></small></p><hr/><p>Electronic Arts is shutting down BioWare, ending early development on the next Mass Effect game, and cutting approximately 400 jobs across the company. The decision is part of a broader portfolio restructuring following EA's $55 billion acquisition and transition to a private company earlier this year.</p><p>The studio closure marks the end of a legendary role-playing game developer known for franchises like Dragon Age, Star Wars: Knights of the Old Republic, and the original Mass Effect trilogy. In recent years, BioWare faced several commercial and critical difficulties, including the underwhelming performance of Anthem and Dragon Age: The Veilguard, as EA pivots its resources toward core pillars like Battlefield, Apex Legends, and its sports portfolio.</p><p><img src="https://img.etimg.com/thumb/msid-135100103,width-650,height-488,imgsize-91652,resizemode-75/bioware-ea-video-game.jpg" /></p><hr/><small>21 Oct 2026, 21:56 UTC | #25061</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple iPhone Duo Reviewed: A Risky, First-Generation Foldable Smartphone</title>
+    <link href="https://www.theverge.com/tech/1015028/iphone-duo-review" rel="alternate" />
+    <id>https://www.theverge.com/tech/1015028/iphone-duo-review::v240</id>
+    <published>2026-10-21T15:31:00+00:00</published>
+    <updated>2026-10-22T17:40:00+00:00</updated>
+    <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&amp;strip=all&amp;crop=16.666666666667%2C0%2C66.666666666667%2C100&amp;w=2400" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/tech/1015028/iphone-duo-review">theverge.com</a> | <a href="https://news.ycombinator.com/item?id=50189055">hacker news</a></small></p><hr/><p>Apple’s first foldable smartphone, the $1,999 iPhone Duo, features a landscape-first passport shape with a 5.4-inch glossy outer display and a 7.6-inch inner screen equipped with a nano-texture matte coating. The device replaces Face ID with a side-mounted Touch ID wake button and rearranges standard iOS interface elements to accommodate its unique width and dual-screen layout.</p><p>While early adopters and gadget enthusiasts will appreciate the novel form factor, the software remains in an unrefined first-generation state with awkward multitasking controls and cramped single-handed usage. Although the inner matte display successfully minimizes the visible crease, the unusual aspect ratio and software wonkiness make the device a high-priced gamble compared to traditional smartphones.</p><p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400" /></p><hr/><small>21 Oct 2026, 21:28 UTC | #25004</small>]]></content>
+  </entry>
+  <entry>
+    <title>Netflix Q3 2026 Earnings Meet Estimates Amid Layoffs and Executive Changes</title>
+    <link href="https://variety.com/2026/tv/news/netflix-q3-2026-earnings-wall-street-layoffs-exec-firings-1236917438/" rel="alternate" />
+    <id>https://variety.com/2026/tv/news/netflix-q3-2026-earnings-wall-street-layoffs-exec-firings-1236917438/::v240</id>
+    <published>2026-10-20T22:49:00+00:00</published>
+    <updated>2026-10-20T22:49:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!XU1N!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/55933df3-84aa-4f80-83a6-efead0d1ed27_2065x1278.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://variety.com/2026/tv/news/netflix-q3-2026-earnings-wall-street-layoffs-exec-firings-1236917438/">variety.com</a> | <a href="https://ir.netflix.net/financials/quarterly-earnings/default.aspx">source</a></small></p><hr/><p>Netflix reported third-quarter 2026 revenue of $12.87 billion, up 11.8% year-over-year, meeting Wall Street expectations. Net income rose to $3.66 billion with a 34.6% operating margin, surpassing analyst estimates. The results follow a restructuring effort that included laying off 1,000 employees and replacing several key executives, including Chief Content Officer Bela Bajaria.</p><p>The company lowered its full-year 2026 advertising revenue forecast to $2.7 billion and projected Q4 revenue of $13.4 billion, which fell below prior analyst expectations. Global average monthly viewing time has declined from 66 hours in early 2023 to approximately 49 hours in early 2026. To drive growth, Netflix plans to expand its ad-supported tier into 15 new countries starting in March 2027.</p><p><img src="https://substackcdn.com/image/fetch/$s_!XU1N!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/55933df3-84aa-4f80-83a6-efead0d1ed27_2065x1278.png" /></p><hr/><small>21 Oct 2026, 03:59 UTC | #24946</small>]]></content>
+  </entry>
+  <entry>
+    <title>Netflix Reports 12 Percent Revenue Increase in Third Quarter</title>
+    <link href="https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html::v240</id>
+    <published>2026-10-20T22:42:00+00:00</published>
+    <updated>2026-10-20T22:42:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!0uv1!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/01e4762a-562f-43ad-89b1-92fb82ce960a_2066x1278.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html">nytimes.com</a></small></p><hr/><p>Netflix reported an 11.8 percent increase in quarterly revenue to nearly $12.9 billion during its third-quarter financial results, while addressing investor anxieties regarding view-hours growth. Company leadership defended platform engagement as healthy, emphasizing a balanced metric encompassing viewing quantity, quality, and variety.</p><p>To sustain viewer interest and expand its catalog, Netflix plans to introduce more third-party content onto its streaming service. The financial performance met the company's internal forecasts, supported by strong operating margins and steady subscriber metrics amidst rising market competition.</p><p><img src="https://substackcdn.com/image/fetch/$s_!0uv1!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/01e4762a-562f-43ad-89b1-92fb82ce960a_2066x1278.png" /></p><hr/><small>21 Oct 2026, 03:26 UTC | #24939</small>]]></content>
+  </entry>
+  <entry>
+    <title>Microsoft Xbox CEO Asha Sharma Implements Major Turnaround Strategy and Job Cuts</title>
+    <link href="https://fortune.com/2026/10/20/the-non-gamer-ceo-racing-to-save-microsofts-xbox/" rel="alternate" />
+    <id>https://fortune.com/2026/10/20/the-non-gamer-ceo-racing-to-save-microsofts-xbox/::v240</id>
+    <published>2026-10-20T22:34:00+00:00</published>
+    <updated>2026-10-20T22:34:00+00:00</updated>
+    <media:thumbnail url="https://fortune.com/img-assets/wp-content/uploads/2026/10/XBOX_Asha-Sharma-social-thumbnail.jpg?format=webp&amp;w=1440&amp;quality=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://fortune.com/2026/10/20/the-non-gamer-ceo-racing-to-save-microsofts-xbox/">fortune.com</a></small></p><hr/><p>Microsoft appointed former AI executive Asha Sharma as CEO of Xbox in February 2026 to revitalize its struggling gaming division. Sharma has initiated deep restructuring, including thousands of layoffs, studio consolidation, and a renewed focus on core franchises like Minecraft and Call of Duty over smaller experimental projects.</p><p>Facing low profit margins, heavy hardware costs, and declining console market share compared to competitors like Sony's PlayStation, Sharma is overhauling Game Pass tiers and planning next-generation hardware launches for 2027 and 2028. Her aggressive boardroom approach and outsider background have sparked internal tensions with the Windows team while raising questions about Microsoft's long-term strategic direction for consumer gaming.</p><p><img src="https://fortune.com/img-assets/wp-content/uploads/2026/10/XBOX_Asha-Sharma-social-thumbnail.jpg?format=webp&w=1440&quality=75" /></p><hr/><small>21 Oct 2026, 02:49 UTC | #24937</small>]]></content>
+  </entry>
+  <entry>
+    <title>Fuse Games Details Distributed Development Framework for Star Wars: Galactic Racer</title>
+    <link href="https://www.gamedeveloper.com/production/fuse-games-ceo-breaks-down-codev-framework-for-star-wars-galactic-racer" rel="alternate" />
+    <id>https://www.gamedeveloper.com/production/fuse-games-ceo-breaks-down-codev-framework-for-star-wars-galactic-racer::v240</id>
+    <published>2026-10-20T18:58:00+00:00</published>
+    <updated>2026-10-20T18:58:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt75895409cf458a1f/6ad7b519b2dc8cdfee4aa101/ss_4685fad7ddbce4432ccbdedd7a2cf51f7e68148b.1920x1080.jpg?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/production/fuse-games-ceo-breaks-down-codev-framework-for-star-wars-galactic-racer">gamedeveloper.com</a> | <a href="https://www.gamesindustry.biz/how-star-wars-galactic-racer-kept-the-core-team-small-and-sustainable-through-distributed-development">source</a></small></p><hr/><p>Fuse Games CEO Matt Webster has outlined the three-tiered distributed development framework used to build Star Wars: Galactic Racer with a lean core team of approximately 75 people. The production model divides labor across traditional asset outsourcing, external development for self-contained features, and deeply integrated co-development partnerships.</p><p>The structure allowed the studio to scale production capacity while maintaining a sustainable core team size, contrasting with traditional AAA structures that rely on massive internal headcounts. Webster detailed how external teams handle discrete components like photo mode while co-developers participate directly in daily stand-ups and shared communication channels as extensions of the core studio.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt75895409cf458a1f/6ad7b519b2dc8cdfee4aa101/ss_4685fad7ddbce4432ccbdedd7a2cf51f7e68148b.1920x1080.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>20 Oct 2026, 23:52 UTC | #24931</small>]]></content>
+  </entry>
+  <entry>
+    <title>Permit Pending Browser-Based City Simulation Game Released</title>
+    <link href="https://permit.petercai.com/" rel="alternate" />
+    <id>https://permit.petercai.com/::v240</id>
+    <published>2026-10-20T18:30:00+00:00</published>
+    <updated>2026-10-20T18:30:00+00:00</updated>
+    <media:thumbnail url="https://permit.petercai.com/marketing/hero.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://permit.petercai.com/">permit.petercai.com</a> | <a href="https://news.ycombinator.com/item?id=50170593">hacker news</a></small></p><hr/><p>Permit Pending is a free, browser-based city simulation game created by Peter Cai where players act as elected mayors rather than omnipotent planners. The gameplay centers on navigating bureaucratic hurdles such as zoning boards, neighborhood opposition, public hearings, and legal appeals.</p><p>The underlying economy connects resident incomes, housing costs, and business growth, while players face reelection every four years and manage council votes. The title runs directly in modern web browsers without requiring downloads or accounts, offering an open-ended sandbox experience focused on urban politics and planning constraints.</p><p><img src="https://permit.petercai.com/marketing/hero.jpg" /></p><hr/><small>20 Oct 2026, 21:06 UTC | #24947</small>]]></content>
+  </entry>
+  <entry>
+    <title>Innersloth Co-Founder Forest Willard Warns Indie Developers of Predatory Publishing Deals</title>
+    <link href="https://www.gamedeveloper.com/business/outersloth-co-founder-warns-devs-there-are-some-very-bad-deals-out-there-" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/outersloth-co-founder-warns-devs-there-are-some-very-bad-deals-out-there-::v240</id>
+    <published>2026-10-20T16:26:00+00:00</published>
+    <updated>2026-10-20T16:26:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8a4cdb55d2e0b2fb/69af2c44a874080008b09f50/Outersloth.png?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/outersloth-co-founder-warns-devs-there-are-some-very-bad-deals-out-there-">gamedeveloper.com</a></small></p><hr/><p>Innersloth co-founder and Outersloth fund overseer Forest Willard has cautioned independent game developers about predatory publishing agreements circulating in the industry. Speaking at the Seattle Loves Indies Creator Expo, Willard stated that he has reviewed term sheets containing abysmal conditions that leave creators with little chance of financial return.</p><p>Willard emphasized that while funding limitations prevent his own indie fund from rescuing every studio, the prevalence of exploitative contracts highlights systemic risks in independent game development. His remarks echo similar warnings from other industry leaders regarding unbalanced risk allocation in publisher-developer agreements.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8a4cdb55d2e0b2fb/69af2c44a874080008b09f50/Outersloth.png?width=720&quality=80&disable=upscale" /></p><hr/><small>20 Oct 2026, 21:05 UTC | #24908</small>]]></content>
+  </entry>
+  <entry>
+    <title>Griffin Gaming Partners and Entertainment 360 Launch Production Company Hitpoint Entertainment</title>
+    <link href="https://www.gamedeveloper.com/business/griffin-gaming-partners-entertainment-360-jointly-unveil-production-company-hitpoint-entertainment" rel="alternate" />
+    <id>https://www.gamedeveloper.com/business/griffin-gaming-partners-entertainment-360-jointly-unveil-production-company-hitpoint-entertainment::v240</id>
+    <published>2026-10-20T16:18:00+00:00</published>
+    <updated>2026-10-20T16:18:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt6586e13aaf31190e/6ad78432a960ea0ce6462431/filmcamerafeatured.jpg?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/business/griffin-gaming-partners-entertainment-360-jointly-unveil-production-company-hitpoint-entertainment">gamedeveloper.com</a></small></p><hr/><p>Griffin Gaming Partners and Entertainment 360 have launched Hitpoint Entertainment, a joint venture production company focused on adapting video games for film and television. The new studio will identify, develop, and produce adaptations across multiple genres, ranging from action and comedy to romance.</p><p>Hitpoint aims to discover and secure video game intellectual property at an early stage, applying a development model traditionally used for books and literary properties in Hollywood. The venture combines Griffin Gaming Partners' expertise in the games industry with Entertainment 360's talent management and production background.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt6586e13aaf31190e/6ad78432a960ea0ce6462431/filmcamerafeatured.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>20 Oct 2026, 20:12 UTC | #24905</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple Expands U.S. Manufacturing with Titanium and Camera Component Deals</title>
+    <link href="https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html::v240</id>
+    <published>2026-10-20T16:06:00+00:00</published>
+    <updated>2026-10-20T16:06:00+00:00</updated>
+    <media:thumbnail url="https://image.cnbcfm.com/api/v1/image/108360843-1788988202707-IMG_0500.JPG?v=1788988355&amp;w=750&amp;h=422&amp;vtcrop=y" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html">cnbc.com</a> | <a href="https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/">source</a></small></p><hr/><p>Apple is committing up to $100 million over three years to Pennsylvania-based Perryman Company to produce titanium for the iPhone Duo. As part of its American Manufacturing Program, the company is also expanding a partnership with Delaware-based Qnity Electronics to manufacture advanced films for the iPhone 18 Pro's variable-aperture camera system.</p><p>The expansion comes amid significant supply constraints for the iPhone Duo, which has seen delivery estimates stretch to 14 weeks due to high demand. Apple's broader domestic manufacturing strategy aims to reach $600 billion in U.S. spending, utilizing components from nearly 100 American companies across more than a dozen states.</p><p><img src="https://image.cnbcfm.com/api/v1/image/108360843-1788988202707-IMG_0500.JPG?v=1788988355&w=750&h=422&vtcrop=y" /></p><hr/><small>20 Oct 2026, 19:17 UTC | #24886</small>]]></content>
+  </entry>
+  <entry>
+    <title>Netflix Overhauls Creative Leadership Amid Domestic Viewing Declines</title>
+    <link href="https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401?st=pHTpM3&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401?st=pHTpM3&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-10-20T02:00:00+00:00</published>
+    <updated>2026-10-20T02:00:00+00:00</updated>
+    <media:thumbnail url="https://observer.com/wp-content/uploads/sites/2/2023/04/ted-sarandos-netflix.jpg?quality=80" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/business/media/netflix-americas-dominant-streaming-service-has-hit-a-wall-13660401?st=pHTpM3&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Netflix has dismissed its film and content chiefs following months of concerns raised by Co-CEO Ted Sarandos over a lack of new hit shows and declining U.S. watch time. The leadership shake-up underscores the streaming platform's struggles to maintain domestic audience engagement and drive continuous viewing growth.</p><p>The restructuring highlights the increasing pressure on major streaming services to secure breakout hits amid slowing domestic expansion and intense competition. Executive teams are reevaluating content pipelines and creative strategies to retain subscriber attention in a saturated market.</p><p><img src="https://observer.com/wp-content/uploads/sites/2/2023/04/ted-sarandos-netflix.jpg?quality=80" /></p><hr/><small>20 Oct 2026, 06:41 UTC | #24831</small>]]></content>
+  </entry>
+  <entry>
+    <title>Digital Sun Delays ReVamp Public Playtest Due to AI Cloning Concerns</title>
+    <link href="https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning" rel="alternate" />
+    <id>https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning::v240</id>
+    <published>2026-10-19T17:16:00+00:00</published>
+    <updated>2026-10-19T17:16:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*hODIix97_Z5HRlxwnZAb9w.png" />
+    <content type="html"><![CDATA[<p><small>Game Developer News | <a href="https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning">gamedeveloper.com</a> | <a href="https://store.steampowered.com/news/app/3295000/view/693149194510140840">source</a></small></p><hr/><p>Digital Sun Games has postponed the planned public Steam playtest for its upcoming tower-defense action game ReVamp, citing concerns that generative AI tools could be used to reverse-engineer and clone the game before its release. Instead of a broad public build, the studio will host a restricted playtest through its Discord server beginning October 29.</p><p>The decision highlights a growing trend among indie developers scaling back public demos and playtests amid rising instances of copycats using advanced language models to decompile and replicate game mechanics. This emerging threat exposes friction between traditional indie marketing strategies, which rely heavily on early public exposure, and the new vulnerabilities introduced by rapid AI code-generation capabilities.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*hODIix97_Z5HRlxwnZAb9w.png" /></p><hr/><small>19 Oct 2026, 23:29 UTC | #24797</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple Announces October 28 Special Event Titled 'Pro and Tell'</title>
+    <link href="https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/" rel="alternate" />
+    <id>https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/::v240</id>
+    <published>2026-10-19T17:14:00+00:00</published>
+    <updated>2026-10-19T17:14:00+00:00</updated>
+    <media:thumbnail url="https://media.appleinsider.com/gallery/69435-146388-ternusoctlate-xl.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/">9to5mac.com</a> | <a href="https://www.bloomberg.com/news/articles/2026-10-19/apple-announces-oct-28-event-for-touch-screen-macbook-pro">source</a></small></p><hr/><p>Apple has scheduled a special media event for October 28 in Los Angeles, carrying the tagline "Pro and tell." The event follows an earlier product showcase in October and is expected to center on major Mac and iPad updates.</p><p>Industry reports indicate the company plans to unveil its first touchscreen MacBook Pro models featuring OLED displays and Dynamic Island integration, alongside a redesigned OLED iPad mini and new M6-powered Macs. The gathering marks Apple's second hardware launch event within the month.</p><p><img src="https://media.appleinsider.com/gallery/69435-146388-ternusoctlate-xl.jpg" /></p><hr/><small>19 Oct 2026, 23:26 UTC | #24786</small>]]></content>
+  </entry>
+  <entry>
+    <title>StarCraft: Ashfall Browser-Based Fan Shooter</title>
+    <link href="https://starcraft-shooter-2026.pages.dev/" rel="alternate" />
+    <id>https://starcraft-shooter-2026.pages.dev/::v240</id>
+    <published>2026-10-19T17:05:00+00:00</published>
+    <updated>2026-10-19T17:05:00+00:00</updated>
+    <media:thumbnail url="https://comicbook.com/wp-content/uploads/sites/4/2025/12/StarCraft_962539.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://starcraft-shooter-2026.pages.dev/">starcraft-shooter-2026.pages.dev</a> | <a href="https://news.ycombinator.com/item?id=50147233">hacker news</a></small></p><hr/><p>Players command Terran units, including Marines, Firebats, and Siege Tanks, to defend strategic positions like the Ashfall Bridge against the Zerg swarm. This free, fan-made project is playable directly through web browsers and mobile devices.</p><p>Designed for vertical mobile play, the shooter has attracted attention on platforms like Hacker News for its browser-native accessibility. The game provides a lightweight combat experience without requiring a dedicated game client installation.</p><p><img src="https://comicbook.com/wp-content/uploads/sites/4/2025/12/StarCraft_962539.jpg" /></p><hr/><small>19 Oct 2026, 22:19 UTC | #24815</small>]]></content>
+  </entry>
+</feed>

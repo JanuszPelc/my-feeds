@@ -5,10 +5,14 @@
 	</head>
 <body>
 	<outline text="ai-news" title="ai-news" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" />
-	<outline text="business-tech" title="business-tech" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" />
-	<outline text="hacker-news" title="hacker-news" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" />
-	<outline text="multimedia-tech" title="multimedia-tech" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/multimedia-tech.xml" />
+	<outline text="computer-programming" title="computer-programming" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" />
+	<outline text="computer-security" title="computer-security" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" />
+	<outline text="human-knowledge" title="human-knowledge" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" />
+	<outline text="human-values" title="human-values" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-values.xml" />
 	<outline text="music-production" title="music-production" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" />
-	<outline text="nerd-science" title="nerd-science" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/nerd-science.xml" />
+	<outline text="tech-consumer" title="tech-consumer" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" />
+	<outline text="tech-finance" title="tech-finance" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" />
+	<outline text="tech-industry" title="tech-industry" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" />
+	<outline text="tech-policy" title="tech-policy" type="rss" xmlUrl="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" />
 	</body>
 </opml>

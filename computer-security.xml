@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>computer-security</title>
+  <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
+  <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
+  <updated>2026-10-24T04:07:00+00:00</updated>
+  <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</icon>
+  <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</logo>
+  <entry>
+    <title>Indian Government Websites Continue Serving Revoked eMudhra Certificates</title>
+    <link href="https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/" rel="alternate" />
+    <id>https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/::v240</id>
+    <published>2026-10-24T04:07:00+00:00</published>
+    <updated>2026-10-24T04:07:00+00:00</updated>
+    <media:thumbnail url="https://viewswall.com/wp-content/uploads/2023/02/large-General_Banner_Types_of_TLS.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/">captnemo.in</a> | <a href="https://lobste.rs/s/zug8xv/indian_government_sites_are_serving">discussion</a> | <a href="https://news.ycombinator.com/item?id=50218277">hacker news</a></small></p><hr/><p>Following the October 2026 revocation of several eMudhra intermediate certificate authorities due to security and compliance issues, numerous Indian government portals have continued serving revoked TLS certificates. An analysis of public government web directories revealed that over 150 hosts remained active with revoked certificates days after the revocation event, including sites operated by key bodies under the Ministry of Electronics and Information Technology such as STPI, Bhashini, and UIDAI.</p><p>While browsers utilizing comprehensive revocation checks like Firefox block these domains, other major browsers and operating systems still load many of the affected sites because their client-side revocation mechanisms had not updated their lists. The incident underscores ongoing challenges in timely certificate rotation and revocation propagation across both certificate authorities and government infrastructure following major cryptographic security events.</p><p><img src="https://viewswall.com/wp-content/uploads/2023/02/large-General_Banner_Types_of_TLS.jpg" /></p><hr/><small>24 Oct 2026, 08:20 UTC | #25290</small>]]></content>
+  </entry>
+  <entry>
+    <title>FoxIO Discloses QPACK Amplification Attacks Affecting Multiple HTTP/3 Servers</title>
+    <link href="https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers" rel="alternate" />
+    <id>https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers::v240</id>
+    <published>2026-10-23T23:13:00+00:00</published>
+    <updated>2026-10-23T23:13:00+00:00</updated>
+    <media:thumbnail url="https://framerusercontent.com/images/PJKLXKYl6NoGQYS2wa5ipP2cBRk.png?width=1017&amp;height=1193" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers">foxio.io</a> | <a href="https://lobste.rs/s/l2l50n/header_accordions_qpack_amplification">discussion</a> | <a href="https://news.ycombinator.com/item?id=50188612">hacker news</a></small></p><hr/><p>Security research firm FoxIO has disclosed a class of vulnerabilities dubbed "Header Accordions" affecting QPACK, the header compression protocol used by HTTP/3. By exploiting missing or poorly enforced decoded-header limits, an unauthenticated remote client can send carefully crafted requests that force servers to allocate exponentially more memory than the payload occupies on the wire.</p><p>Testing ten different HTTP/3 implementations revealed that seven are vulnerable to memory exhaustion or denial-of-service conditions, with amplification ratios reaching up to 4000:1 in some software. While several major libraries including quic-go, Cloudflare quiche, and lsquic have issued patches and CVE identifiers, other unpatched environments require manual mitigations or server-side restrictions.</p><p><img src="https://framerusercontent.com/images/PJKLXKYl6NoGQYS2wa5ipP2cBRk.png?width=1017&height=1193" /></p><hr/><small>24 Oct 2026, 06:22 UTC | #25287</small>]]></content>
+  </entry>
+  <entry>
+    <title>Calif Demonstrates Untethered iOS 27.0.1 Jailbreak and Exploits at Hexacon</title>
+    <link href="https://blog.calif.io/p/iphone" rel="alternate" />
+    <id>https://blog.calif.io/p/iphone::v240</id>
+    <published>2026-10-23T16:22:00+00:00</published>
+    <updated>2026-10-23T16:22:00+00:00</updated>
+    <media:thumbnail url="https://www.golem.de/2603/206074-564643-564642_rc.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.calif.io/p/iphone">blog.calif.io</a> | <a href="https://news.ycombinator.com/item?id=50211474">hacker news</a></small></p><hr/><p>Security firm Calif demonstrated an untethered jailbreak and a series of exploit demos targeting an iPhone 18 Pro running iOS 27.0.1 at the Hexacon conference in Paris. The presentation included demonstrations of a Signal one-click attack, an iMessage intrusion method, and a persistent root-level exploit chain.</p><p>The firm did not release public tools, exploit code, or specific vulnerability details during the presentation, stating that everything will be released in due time. The demonstration highlighted advanced remote compromise capabilities and persistent root privileges following a device reboot.</p><p><img src="https://www.golem.de/2603/206074-564643-564642_rc.jpg" /></p><hr/><small>23 Oct 2026, 18:05 UTC | #25258</small>]]></content>
+  </entry>
+  <entry>
+    <title>SpaceX In Talks to Access 80,000 Cell Sites for Wireless Network</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-22/spacex-in-talks-to-access-80-000-cell-sites-for-wireless-network" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-22/spacex-in-talks-to-access-80-000-cell-sites-for-wireless-network::v240</id>
+    <published>2026-10-23T00:40:00+00:00</published>
+    <updated>2026-10-23T00:40:00+00:00</updated>
+    <media:thumbnail url="https://cdn.teslanorth.com/wp-content/uploads/2026/01/spacex-starlink-satellite-in-space-hero.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-22/spacex-in-talks-to-access-80-000-cell-sites-for-wireless-network">bloomberg.com</a></small></p><hr/><p>SpaceX is currently in discussions with at least one major cellular infrastructure company to secure access to a minimum of 80,000 cell sites across the United States. The move is part of the company's broader effort to build out a nationwide mobile carrier network.</p><p>If finalized, the agreements would establish a substantial terrestrial tower footprint to support the company's wireless ambitions, complementing its satellite-based connectivity initiatives and positioning it to compete as a major carrier.</p><p><img src="https://cdn.teslanorth.com/wp-content/uploads/2026/01/spacex-starlink-satellite-in-space-hero.jpg" /></p><hr/><small>23 Oct 2026, 05:34 UTC | #25185</small>]]></content>
+  </entry>
+  <entry>
+    <title>METR and Redwood Research Find Vulnerabilities in OpenAI Monitoring System</title>
+    <link href="https://www.reuters.com/business/ai-safety-group-metr-finds-flaws-openais-internal-monitoring-system-2026-10-22/" rel="alternate" />
+    <id>https://www.reuters.com/business/ai-safety-group-metr-finds-flaws-openais-internal-monitoring-system-2026-10-22/::v240</id>
+    <published>2026-10-22T17:44:00+00:00</published>
+    <updated>2026-10-22T17:44:00+00:00</updated>
+    <media:thumbnail url="https://imgix.datadoghq.com/img/solutions/solutions-openai-1.png?ch=Width,DPR,Save-Data&amp;fm=png&amp;auto=format&amp;fit=max&amp;w=865&amp;dpr=4&amp;q=35" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/ai-safety-group-metr-finds-flaws-openais-internal-monitoring-system-2026-10-22/">reuters.com</a> | <a href="https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/">source</a></small></p><hr/><p>AI safety research groups METR and Redwood Research discovered several vulnerabilities in OpenAI's internal agent monitoring system during a three-week pilot stress-test. The findings included an exploit that could have allowed AI agents to conceal hundreds of recent actions from internal safeguards.</p><p>The evaluation was conducted to assess the effectiveness of monitoring systems designed to oversee advanced AI agents. OpenAI stated that all identified vulnerabilities impacting production safeguards have since been patched.</p><p><img src="https://imgix.datadoghq.com/img/solutions/solutions-openai-1.png?ch=Width,DPR,Save-Data&fm=png&auto=format&fit=max&w=865&dpr=4&q=35" /></p><hr/><small>22 Oct 2026, 23:30 UTC | #25140</small>]]></content>
+  </entry>
+  <entry>
+    <title>Hacker News User Apologizes for Unknowingly Breaking PHP RCE Embargo</title>
+    <link href="https://news.ycombinator.com/item?id=50193416" rel="alternate" />
+    <id>https://news.ycombinator.com/item?id=50193416::v240</id>
+    <published>2026-10-22T17:41:00+00:00</published>
+    <updated>2026-10-22T17:41:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxtrgB91EfxP3n8PoGrwg9zA-LBJYsXmf5qEgCOL7_p7ibY0XSUcxbDJAXeYMOc3kkINyHCylBOfil6ImjF66pxr0696wMP4yr6JotPTRJS178exTFObF6l_4_TlZ49BMxHg_5-AZXBh4/w1200-h630-p-k-no-nu/Copy+of+The+OSS+CVD+Process.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=50193416">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=50193416">hacker news</a></small></p><hr/><p>A Hacker News user published a post apologizing for prematurely disclosing upcoming PHP remote code execution vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. The early leak disrupted coordinated disclosure schedules and increased the workload for project maintainers and security teams managing the incident.</p><p>The disclosure triggered widespread community debate concerning the mechanics of vulnerability embargos, how sensitive information propagates outside restricted channels, and criticism directed at maintainers regarding patch availability timelines.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxtrgB91EfxP3n8PoGrwg9zA-LBJYsXmf5qEgCOL7_p7ibY0XSUcxbDJAXeYMOc3kkINyHCylBOfil6ImjF66pxr0696wMP4yr6JotPTRJS178exTFObF6l_4_TlZ49BMxHg_5-AZXBh4/w1200-h630-p-k-no-nu/Copy+of+The+OSS+CVD+Process.jpg" /></p><hr/><small>22 Oct 2026, 23:07 UTC | #25187</small>]]></content>
+  </entry>
+  <entry>
+    <title>Exposing Only Share Links of Private Services with Caddy</title>
+    <link href="https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html" rel="alternate" />
+    <id>https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html::v240</id>
+    <published>2026-10-22T16:31:00+00:00</published>
+    <updated>2026-10-22T16:31:00+00:00</updated>
+    <media:thumbnail url="https://dqah5woojdp50.cloudfront.net/original/2X/3/3c5a1dd31b810bae00fad5ee614eec788788631c.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html">dataswamp.org</a> | <a href="https://lobste.rs/s/tu5ynp/expose_only_share_links_private_service">discussion</a></small></p><hr/><p>The article details a method for using the Caddy reverse proxy to expose only specific share links for self-hosted services like Immich and Nextcloud, while keeping the rest of the infrastructure hidden behind a VPN. By leveraging Caddy reverse proxy and response handling features to validate incoming keys or tokens against the backend service, unauthorized requests receive a 404 response.</p><p>This approach significantly reduces the public attack surface of self-hosted applications by preventing general access to login pages, administrative interfaces, and unauthenticated endpoints. Concrete configurations for Immich and Nextcloud demonstrate how strict regular expressions and route matching can isolate guest-accessible share functionality without requiring users to install VPN clients or create accounts.</p><p><img src="https://dqah5woojdp50.cloudfront.net/original/2X/3/3c5a1dd31b810bae00fad5ee614eec788788631c.png" /></p><hr/><small>22 Oct 2026, 22:25 UTC | #25181</small>]]></content>
+  </entry>
+  <entry>
+    <title>Cloudflare Reports Millions of PHP2Shell Exploit Attempts Following Disclosure</title>
+    <link href="https://x.com/eastdakota" rel="alternate" />
+    <id>https://x.com/eastdakota::v240</id>
+    <published>2026-10-22T16:04:00+00:00</published>
+    <updated>2026-10-22T16:04:00+00:00</updated>
+    <media:thumbnail url="https://media.thenextweb.com/2026/10/php2shell-dual-monitors-php-code-mac-studio-desk.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://x.com/eastdakota">x.com</a> | <a href="https://x.com/eastdakota/status/2113079352682570051">source</a></small></p><hr/><p>Cloudflare CEO Matthew Prince reported that malicious attempts to exploit the php2shell vulnerability across the company's network escalated rapidly following public disclosure. In the 10 hours leading up to the announcement, Cloudflare observed thousands of probing attempts, which surged to tens of thousands within 45 minutes and millions shortly thereafter.</p><p>The rapid spike in automated activity highlights the speed at which threat actors weaponize newly revealed software flaws. In response to the surge, Cloudflare deployed specialized web application firewall capabilities to evaluate requests and origin responses together, blocking matching payloads before they reached target servers.</p><p><img src="https://media.thenextweb.com/2026/10/php2shell-dual-monitors-php-code-mac-studio-desk.jpg" /></p><hr/><small>22 Oct 2026, 22:24 UTC | #25145</small>]]></content>
+  </entry>
+  <entry>
+    <title>Pwn.watch Tracks Live Security Incidents and Vulnerabilities</title>
+    <link href="https://pwn.watch/" rel="alternate" />
+    <id>https://pwn.watch/::v240</id>
+    <published>2026-10-22T15:47:00+00:00</published>
+    <updated>2026-10-22T15:47:00+00:00</updated>
+    <media:thumbnail url="https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Endpoint-Security/security-modules/advanced-reporting/images/art-security-incidents.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pwn.watch/">pwn.watch</a> | <a href="https://news.ycombinator.com/item?id=50195543">hacker news</a></small></p><hr/><p>Pwn.watch is a real-time security incident tracker that aggregates critical vulnerabilities, zero-days, supply-chain compromises, and patch statuses from public disclosures and advisories. The platform provides continuous visibility into active exploits and ongoing cybersecurity threats affecting major software platforms, cloud services, and enterprise infrastructure.</p><p>Designed for security professionals and administrators, the dashboard monitors severity-weighted metrics and tracks whether fixes or workarounds are available for each incident. By centralizing real-time advisories, the tool helps teams quickly identify unpatched flaws, evaluate exposure levels, and prioritize remediation efforts across complex software ecosystems.</p><p><img src="https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Endpoint-Security/security-modules/advanced-reporting/images/art-security-incidents.png" /></p><hr/><small>22 Oct 2026, 21:45 UTC | #25178</small>]]></content>
+  </entry>
+  <entry>
+    <title>1Password Surpasses $500 Million in Annual Recurring Revenue and Launches 1Password for Agents</title>
+    <link href="https://www.wsj.com/tech/ai/1password-surpasses-500-million-in-revenue-as-ai-agents-drive-growth-903ccd4b?st=acBBcU&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/1password-surpasses-500-million-in-revenue-as-ai-agents-drive-growth-903ccd4b?st=acBBcU&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-10-22T15:34:00+00:00</published>
+    <updated>2026-10-22T15:34:00+00:00</updated>
+    <media:thumbnail url="https://www.everydev.ai/_next/image?url=https://api.everydev.ai/storage/v1/object/public/tool-media/tools/1password-agentic-ai-passport/website/desktop.png&amp;w=1920&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/1password-surpasses-500-million-in-revenue-as-ai-agents-drive-growth-903ccd4b?st=acBBcU&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://1password.com/press/2026/october/1password-surpasses-500-million-arr">source</a></small></p><hr/><p>1Password has crossed $500 million in annual recurring revenue, up from $400 million, propelled by surging enterprise adoption of AI coding assistants and autonomous agents. The growth reflects increasing demand for security solutions that manage credentials and access for non-human identities.</p><p>Alongside the financial milestone, the company launched 1Password for Agents to address credential security challenges in automated developer workflows. The product rollout targets the risks associated with AI systems requiring secure API keys and secret management.</p><p><img src="https://www.everydev.ai/_next/image?url=https://api.everydev.ai/storage/v1/object/public/tool-media/tools/1password-agentic-ai-passport/website/desktop.png&w=1920&q=75" /></p><hr/><small>22 Oct 2026, 20:29 UTC | #25152</small>]]></content>
+  </entry>
+  <entry>
+    <title>Documenting Local Network Devices With ARP Scan, DHCP, and DNS Records</title>
+    <link href="https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html" rel="alternate" />
+    <id>https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html::v240</id>
+    <published>2026-10-22T14:39:00+00:00</published>
+    <updated>2026-10-22T14:39:00+00:00</updated>
+    <media:thumbnail url="https://medevel.com/content/images/2024/04/55280325-73e7a600-5324-11e9-85cb-491a1a429c95.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html">unixdigest.com</a> | <a href="https://lobste.rs/s/m6l6ld/tell_your_network_explain_itself_then">discussion</a></small></p><hr/><p>Building on basic network discovery tools like arp-scan, administrators can use a combination of DHCP and a local recursive DNS server to centrally track and identify connected hardware. Mapping MAC addresses to static IP allocations eliminates the need to manually update configurations on individual machines.</p><p>By leveraging DNS TXT records alongside standard address records, operators can store arbitrary descriptive metadata—such as hardware specifications or ownership details—directly against a host name. This transforms a local resolver into a comprehensive registry that documents every device on both office and homelab networks.</p><p><img src="https://medevel.com/content/images/2024/04/55280325-73e7a600-5324-11e9-85cb-491a1a429c95.png" /></p><hr/><small>22 Oct 2026, 20:02 UTC | #25165</small>]]></content>
+  </entry>
+  <entry>
+    <title>Quad9 to Withdraw Services from France Over Court-Ordered DNS Blocking</title>
+    <link href="https://quad9.net/news/blog/au-revoir-france/" rel="alternate" />
+    <id>https://quad9.net/news/blog/au-revoir-france/::v240</id>
+    <published>2026-10-22T14:33:00+00:00</published>
+    <updated>2026-10-22T14:33:00+00:00</updated>
+    <media:thumbnail url="https://quad9.net/news/blog/au-revoir-france/french-announcement-image.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://quad9.net/news/blog/au-revoir-france/">quad9.net</a> | <a href="https://news.ycombinator.com/item?id=50195959">hacker news</a></small></p><hr/><p>Quad9 announced it will stop providing its free recursive DNS and cybersecurity services in France starting November 24, 2026. The decision follows an unfavorable French court ruling in a case brought by beIN that ordered the nonprofit to block specific domain names linked to sports copyright infringement under threat of financial penalties.</p><p>Quad9 stated that compliance is technically unfeasible and conflicts with its mission of user privacy and neutral DNS resolution, as geolocation filtering is unreliable and global blocking would enforce French legal rulings worldwide. Facing numerous similar lawsuits in the country, the organization concluded that continuing operations under these legal conditions is untenable.</p><p><img src="https://quad9.net/news/blog/au-revoir-france/french-announcement-image.png" /></p><hr/><small>22 Oct 2026, 18:38 UTC | #25154</small>]]></content>
+  </entry>
+  <entry>
+    <title>eMudhra to Exit Global SSL/TLS Certificate Business</title>
+    <link href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business" rel="alternate" />
+    <id>https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business::v240</id>
+    <published>2026-10-22T13:34:00+00:00</published>
+    <updated>2026-10-22T13:34:00+00:00</updated>
+    <media:thumbnail url="https://media.fortuneindia.com/fortune-india/2025-11-28/e6c6x11p/7.jpg?w=640&amp;auto=format,compress&amp;q=80" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">emudhra.com</a> | <a href="https://news.ycombinator.com/item?id=50195110">hacker news</a></small></p><hr/><p>eMudhra Limited has announced its decision to voluntarily exit the global SSL/TLS certificate business following a security incident involving weak private keys across several intermediate certificate authorities. The company stated that the move follows heightened scrutiny from browser providers and government regulators regarding the certificate generation flaw.</p><p>While the company is winding down its international SSL/TLS operations, which account for roughly one percent of its global revenue, its core enterprise PKI, digital signature, and authentication solutions remain fully operational. eMudhra plans to assist affected customers with free certificate replacements and maintain revocation and status services until all issued certificates expire or are replaced.</p><p><img src="https://media.fortuneindia.com/fortune-india/2025-11-28/e6c6x11p/7.jpg?w=640&auto=format,compress&q=80" /></p><hr/><small>22 Oct 2026, 17:52 UTC | #25112</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sammy Hajhamid Releases ns2jb Software Jailbreak for Nintendo Switch 2</title>
+    <link href="https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/" rel="alternate" />
+    <id>https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/::v240</id>
+    <published>2026-10-22T08:02:00+00:00</published>
+    <updated>2026-10-22T08:02:00+00:00</updated>
+    <media:thumbnail url="https://pepsipu.com/_astro/mario-kart-results-1-2560.B5lJitnR.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/">pepsipu.com</a> | <a href="https://news.ycombinator.com/item?id=50192536">hacker news</a></small></p><hr/><p>Security researcher Sammy Hajhamid has released ns2jb, the first software-only, tethered jailbreak for the Nintendo Switch 2 targeting firmware 23.0.1. The exploit chain enables arbitrary native code execution, homebrew development, game modifications, and save backups without requiring physical hardware modifications.</p><p>The exploit leverages a vulnerability chain starting from backward-compatible execution through the SmileBASIC application to achieve initial code execution, followed by memory corruption bugs in the built-in fs filesystem sysmodule and loader services to bypass system protections and execute code with elevated permissions.</p><p><img src="https://pepsipu.com/_astro/mario-kart-results-1-2560.B5lJitnR.webp" /></p><hr/><small>22 Oct 2026, 17:44 UTC | #25113</small>]]></content>
+  </entry>
+  <entry>
+    <title>FulcrumSec Publishes 10.6 TB Data Leak Details from PingCAP TiDB Cloud</title>
+    <link href="https://fulcrumsec.vg/pingcap/" rel="alternate" />
+    <id>https://fulcrumsec.vg/pingcap/::v240</id>
+    <published>2026-10-22T07:04:00+00:00</published>
+    <updated>2026-10-22T07:04:00+00:00</updated>
+    <media:thumbnail url="https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2023/05/30/PingCAP-PrivateLink-TiDB-1.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://fulcrumsec.vg/pingcap/">fulcrumsec.vg</a> | <a href="https://news.ycombinator.com/item?id=50173716">hacker news</a></small></p><hr/><p>Security group FulcrumSec has published details of a massive 10.6 terabyte data exfiltration from PingCAP's TiDB Cloud managed database service. The breach allegedly exposed millions of files, customer SQL statements, billing records, internal Jira tickets, and source code across a multi-month intrusion.</p><p>The compromised data includes sensitive production credentials and customer connection strings left exposed in support tickets and repositories. While PingCAP has acknowledged unauthorized access to internal systems via stolen service credentials, the full scope of the leaked enterprise and customer data highlights severe multi-tenant isolation and visibility failures.</p><p><img src="https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2023/05/30/PingCAP-PrivateLink-TiDB-1.png" /></p><hr/><small>22 Oct 2026, 17:16 UTC | #25115</small>]]></content>
+  </entry>
+  <entry>
+    <title>Microsoft Attributes ConnectWise Breach to China-Linked Hackers Using ARTEX AI Tool</title>
+    <link href="https://www.reuters.com/technology/chinese-linked-hackers-compromise-connectwise-target-hundreds-global-attack-2026-10-21/" rel="alternate" />
+    <id>https://www.reuters.com/technology/chinese-linked-hackers-compromise-connectwise-target-hundreds-global-attack-2026-10-21/::v240</id>
+    <published>2026-10-22T07:00:00+00:00</published>
+    <updated>2026-10-22T07:00:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQG-LmVHsoTLjw/article-cover_image-shrink_720_1280/B4DZyuXjtNHEAI-/0/1772451938080?e=2147483647&amp;v=beta&amp;t=Wgdu3EFEoVqclPq0HyTEA0glK5pi5ABvchu0RakjIcA" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/technology/chinese-linked-hackers-compromise-connectwise-target-hundreds-global-attack-2026-10-21/">reuters.com</a> | <a href="https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/">source</a> | <a href="https://news.ycombinator.com/item?id=50186138">hacker news</a></small></p><hr/><p>Microsoft disclosed that a China-aligned hacking group known as Storm-0940 used the ARTEX agentic AI penetration-testing framework to breach the ConnectWise Cloud Backup application. The supply chain compromise enabled widespread application credential abuse across Microsoft 365 environments.</p><p>The campaign targeted thousands of Microsoft 365 tenants and hundreds of organizations globally. Security researchers noted that the incident highlights the growing threat of threat actors weaponizing automated AI tools to scale sophisticated cyberattacks.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQG-LmVHsoTLjw/article-cover_image-shrink_720_1280/B4DZyuXjtNHEAI-/0/1772451938080?e=2147483647&v=beta&t=Wgdu3EFEoVqclPq0HyTEA0glK5pi5ABvchu0RakjIcA" /></p><hr/><small>22 Oct 2026, 17:03 UTC | #25103</small>]]></content>
+  </entry>
+  <entry>
+    <title>Railway Discloses Security Incident Involving Environment Variables</title>
+    <link href="https://blog.railway.com/p/security-disclosure-wednesday-october-21st" rel="alternate" />
+    <id>https://blog.railway.com/p/security-disclosure-wednesday-october-21st::v240</id>
+    <published>2026-10-22T00:06:00+00:00</published>
+    <updated>2026-10-22T00:06:00+00:00</updated>
+    <media:thumbnail url="https://cdn.sanity.io/images/r000fwn3/production/9e719128503794c18e22a5c4b34006c18ab5c443-1975x1110.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://blog.railway.com/p/security-disclosure-wednesday-october-21st">blog.railway.com</a> | <a href="https://news.ycombinator.com/item?id=50188228">hacker news</a></small></p><hr/><p>Cloud deployment platform Railway disclosed that an unauthorized third party may have accessed encrypted customer environment variables and obtained decrypted contents, including sensitive data like API keys and database credentials. In response to the breach, the company temporarily paused all platform deployments while investigating the incident.</p><p>Railway believes the breach is part of a broader campaign targeting platform companies to compromise upstream AI inference providers. The company is urging all users to immediately rotate their stored environment variables and private registry credentials as a precautionary measure.</p><p><img src="https://cdn.sanity.io/images/r000fwn3/production/9e719128503794c18e22a5c4b34006c18ab5c443-1975x1110.png" /></p><hr/><small>22 Oct 2026, 07:17 UTC | #25090</small>]]></content>
+  </entry>
+  <entry>
+    <title>Recent PHP Vulnerabilities Are Difficult to Exploit</title>
+    <link href="https://eliastaylor.com/noexploit/" rel="alternate" />
+    <id>https://eliastaylor.com/noexploit/::v240</id>
+    <published>2026-10-21T23:58:00+00:00</published>
+    <updated>2026-10-21T23:58:00+00:00</updated>
+    <media:thumbnail url="https://www.pwndefend.com/wp-content/uploads/2026/10/image-1-768x1131.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://eliastaylor.com/noexploit/">eliastaylor.com</a> | <a href="https://news.ycombinator.com/item?id=50188948">hacker news</a></small></p><hr/><p>The recent PHP vulnerabilities, specifically CVE-2026-109618 and CVE-2026-109619, are not as easily exploitable as current hype and various online proofs-of-concept suggest. Many existing exploits fail to work on vanilla PHP installations and instead require additional server-side vulnerabilities, such as local-file-inclusion, to function.</p><p>Large language models (LLMs) are reportedly exacerbating the situation by generating incorrect exploit chains, leading to a surge of non-functional or overly specific proofs-of-concept on platforms like GitHub. This phenomenon creates a "Decision Schelling Point" where AI-generated errors become widely distributed and are mistaken for viable, universal exploits.</p><p><img src="https://www.pwndefend.com/wp-content/uploads/2026/10/image-1-768x1131.png" /></p><hr/><small>22 Oct 2026, 06:02 UTC | #25100</small>]]></content>
+  </entry>
+  <entry>
+    <title>GitLab Patches Critical Unauthenticated RCE Vulnerability Affecting Multiple Versions</title>
+    <link href="https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html" rel="alternate" />
+    <id>https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html::v240</id>
+    <published>2026-10-21T23:54:00+00:00</published>
+    <updated>2026-10-21T23:54:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html">thehackernews.com</a> | <a href="https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/">source</a> | <a href="https://news.ycombinator.com/item?id=50185869">hacker news</a></small></p><hr/><p>GitLab has released security updates to address CVE-2026-110264, a critical vulnerability rated 10.0 on the CVSS scale. The flaw involves an integer overflow in the Onigmo regular-expression engine, which can allow an unauthenticated attacker to execute arbitrary code on a self-managed GitLab server.</p><p>The vulnerability affects self-managed installations across all versions released since 7.0 in 2014. While GitLab.com and GitLab Dedicated are already protected, administrators of self-managed instances should upgrade to the latest patched versions immediately to mitigate the risk.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg" /></p><hr/><small>22 Oct 2026, 05:23 UTC | #25081</small>]]></content>
+  </entry>
+  <entry>
+    <title>mitmproxy Adds `--emudhra` Flag to Intercept Compromised eMudhra Certificates</title>
+    <link href="https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b" rel="alternate" />
+    <id>https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b::v240</id>
+    <published>2026-10-21T23:52:00+00:00</published>
+    <updated>2026-10-21T23:52:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQE_fcDxZDuwHA/feedshare-shrink_800/feedshare-shrink_800/0/1687539133202?e=2147483647&amp;v=beta&amp;t=YyNwReKCrFOyD_9DCoq14C4Ds3lMjlXuhTZCGDZy6Oc" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b">github.com</a> | <a href="https://news.ycombinator.com/item?id=50189232">hacker news</a></small></p><hr/><p>mitmproxy has introduced a `--emudhra` command-line option to intercept traffic from clients that trust a compromised eMudhra intermediate certificate authority and its cross-signed root. This update includes the specific certificate chain to facilitate security testing and validation.</p><p>The update also expands support for both RSA and Elliptic Curve (EC) private keys within the tool's certificate and store management classes.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQE_fcDxZDuwHA/feedshare-shrink_800/feedshare-shrink_800/0/1687539133202?e=2147483647&v=beta&t=YyNwReKCrFOyD_9DCoq14C4Ds3lMjlXuhTZCGDZy6Oc" /></p><hr/><small>22 Oct 2026, 04:43 UTC | #25097</small>]]></content>
+  </entry>
+  <entry>
+    <title>European Websites Taken Offline Due to Critical PHP Vulnerabilities</title>
+    <link href="https://www.reuters.com/technology/websites-taken-offline-over-php-risks-2026-10-21/" rel="alternate" />
+    <id>https://www.reuters.com/technology/websites-taken-offline-over-php-risks-2026-10-21/::v240</id>
+    <published>2026-10-21T18:56:00+00:00</published>
+    <updated>2026-10-21T18:56:00+00:00</updated>
+    <media:thumbnail url="https://media.cybernews.com/2023/02/vulnerable-php-web-servers.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/technology/websites-taken-offline-over-php-risks-2026-10-21/">reuters.com</a></small></p><hr/><p>Government, school, and hospital websites in Europe have been taken offline to mitigate two critical security flaws in the PHP programming language. Identified as CVE-2026-109618 and CVE-2026-109619, these vulnerabilities allow for unauthenticated remote code execution and carry a CVSS score of 9.2.</p><p>Organizations in countries such as France, Finland, and the Netherlands have reportedly disabled services while preparing for security updates. Due to PHP's extensive use in powering web servers and content management systems, the flaws pose a broad risk to internet infrastructure.</p><p><img src="https://media.cybernews.com/2023/02/vulnerable-php-web-servers.jpeg" /></p><hr/><small>21 Oct 2026, 22:43 UTC | #25040</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Details Coordinated Disclosure of Critical PHP Vulnerabilities Found by GPT-5.6 Sol</title>
+    <link href="https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/" rel="alternate" />
+    <id>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/::v240</id>
+    <published>2026-10-21T17:43:00+00:00</published>
+    <updated>2026-10-21T17:43:00+00:00</updated>
+    <media:thumbnail url="https://cdn.thepcenthusiast.com/wp-content/uploads/2026/06/GPT-5.6-Sol-ExploitBench-768x433.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50181175">hacker news</a></small></p><hr/><p>OpenAI has detailed a coordinated global response to critical vulnerabilities in the PHP programming language discovered using its GPT-5.6 Sol AI model. Working alongside project maintainers, security providers like Wiz and Cloudflare, and government agencies, the coalition managed the disclosure process to ensure patches and protective mitigations were prepared before public release.</p><p>To support broader defensive security efforts, OpenAI has committed $1 billion in subsidized access for frontline defenders and introduced a proposed five-stage framework for managing vulnerabilities in widely used software. The company is also providing maintainers with funding and tool access while soliciting community feedback on improving coordinated disclosure standards in the AI era.</p><p><img src="https://cdn.thepcenthusiast.com/wp-content/uploads/2026/06/GPT-5.6-Sol-ExploitBench-768x433.png" /></p><hr/><small>21 Oct 2026, 22:19 UTC | #25042</small>]]></content>
+  </entry>
+  <entry>
+    <title>Musl libc Discloses Multiple Integer Overflows in regcomp</title>
+    <link href="https://www.openwall.com/lists/oss-security/2026/10/21/18" rel="alternate" />
+    <id>https://www.openwall.com/lists/oss-security/2026/10/21/18::v240</id>
+    <published>2026-10-21T17:41:00+00:00</published>
+    <updated>2026-10-21T17:41:00+00:00</updated>
+    <media:thumbnail url="https://uploads.sempreupdate.com.br/2026/04/n8YDWSbv-copy-fail-linux-cve-2026-31431-acesso-root.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.openwall.com/lists/oss-security/2026/10/21/18">openwall.com</a> | <a href="https://lobste.rs/s/dldfel/cve_2026_107891_musl_libc_multiple">discussion</a></small></p><hr/><p>Musl libc has disclosed a vulnerability, tracked as CVE-2026-107891, involving multiple integer overflows within the regcomp regular expression compilation function. The flaw affects all versions from 0.5.0 up through 1.2.6 and can be triggered by processing large or complex regular expressions from untrusted sources, leading to incorrect memory allocation sizes and out-of-bounds heap writes.</p><p>While the primary impact ranges from predictable denial-of-service crashes to potential arbitrary code execution depending on application context and heap layout, the vulnerability requires applications to handle untrusted regex input. Maintainers have provided a patch to address the issue, and users are advised to apply it or upgrade to version 1.2.7 once available, while avoiding untrusted regular expression processing as an interim mitigation.</p><p><img src="https://uploads.sempreupdate.com.br/2026/04/n8YDWSbv-copy-fail-linux-cve-2026-31431-acesso-root.webp" /></p><hr/><small>21 Oct 2026, 21:57 UTC | #25064</small>]]></content>
+  </entry>
+  <entry>
+    <title>Node.js Releases October 2026 Security Updates</title>
+    <link href="https://nodejs.org/en/blog/vulnerability/october-2026-security-releases" rel="alternate" />
+    <id>https://nodejs.org/en/blog/vulnerability/october-2026-security-releases::v240</id>
+    <published>2026-10-21T15:54:00+00:00</published>
+    <updated>2026-10-21T15:54:00+00:00</updated>
+    <media:thumbnail url="https://r2.aiworknote.com/images/posts/nodejs-january-2026-security-releases/inline-1.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nodejs.org/en/blog/vulnerability/october-2026-security-releases">nodejs.org</a> | <a href="https://lobste.rs/s/gu7bow/node_js_wednesday_october_21_2026">discussion</a> | <a href="https://news.ycombinator.com/item?id=50177438">hacker news</a></small></p><hr/><p>The Node.js project has issued security updates for the 26.x, 24.x, and 22.x release lines, addressing multiple vulnerabilities including four high-severity flaws. The patches resolve critical issues involving DNS truncation, TLS certificate hostname bypasses, and an out-of-bounds write in the Brotli decoder that could permit remote code execution.</p><p>In addition to core runtime fixes, the releases incorporate dependency updates for c-ares, OpenSSL, SQLite, Undici, and an eMudhra intermediate CA compromise. Developers running affected versions are advised to upgrade to the newly released versions (v26.12.1, v24.22.1, and v22.23.4) to protect against potential exploits.</p><p><img src="https://r2.aiworknote.com/images/posts/nodejs-january-2026-security-releases/inline-1.png" /></p><hr/><small>21 Oct 2026, 21:52 UTC | #25060</small>]]></content>
+  </entry>
+  <entry>
+    <title>LiteLLM Version 1.107.0 on PyPI Compromised with Credential Stealer and Backdoor</title>
+    <link href="https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/" rel="alternate" />
+    <id>https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/::v240</id>
+    <published>2026-10-21T15:48:00+00:00</published>
+    <updated>2026-10-21T15:48:00+00:00</updated>
+    <media:thumbnail url="https://blog.pypi.org/assets/2026-04-02-incident-report-litellm-telnyx-supply-chain-attack/litellm_downloads_timeline.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/">safedep.io</a> | <a href="https://github.com/BerriAI/litellm/issues/47826">source</a> | <a href="https://news.ycombinator.com/item?id=50181114">hacker news</a></small></p><hr/><p>The LiteLLM 1.107.0 release distributed on PyPI was compromised in a software supply chain attack, embedding a credential stealer and a remote code execution backdoor across all operating system wheels. The malicious payloads execute automatically whenever any Python process starts on an infected host, even if the package itself is never imported.</p><p>Analysis reveals that the unauthorized files were injected directly into the build tree before the wheels were generated, as the upstream GitHub source repository did not contain the code. The credential stealer targets SSH keys, cloud credentials, browser passwords, and AI tool tokens, exfiltrating the gathered data while establishing an hourly remote-code loading daemon.</p><p><img src="https://blog.pypi.org/assets/2026-04-02-incident-report-litellm-telnyx-supply-chain-attack/litellm_downloads_timeline.png" /></p><hr/><small>21 Oct 2026, 21:49 UTC | #25062</small>]]></content>
+  </entry>
+  <entry>
+    <title>Cloudflare Deploys WAF Protections Against PHP2Shell Vulnerabilities</title>
+    <link href="https://blog.cloudflare.com/php-vulnerabilities-waf-protection/" rel="alternate" />
+    <id>https://blog.cloudflare.com/php-vulnerabilities-waf-protection/::v240</id>
+    <published>2026-10-21T15:44:00+00:00</published>
+    <updated>2026-10-21T15:44:00+00:00</updated>
+    <media:thumbnail url="https://i0.wp.com/electricbricks.net/wp-content/uploads/2022/09/cf-waf.png?fit=1024,834&amp;ssl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://blog.cloudflare.com/php-vulnerabilities-waf-protection/">blog.cloudflare.com</a> | <a href="https://news.ycombinator.com/item?id=50181326">hacker news</a></small></p><hr/><p>Cloudflare has deployed emergency web application firewall (WAF) protections and a new full transaction detection capability to shield websites against two critical PHP remote code execution vulnerabilities known as php2shell, tracked as CVE-2026-109618 and CVE-2026-109619. These memory-handling flaws affect all web servers running PHP 5.4 or later, enabling unauthenticated attackers to execute arbitrary code, expose sensitive data, or trigger denial-of-service conditions.</p><p>Cloudflare rolled out these mitigations ahead of the official public disclosure after detecting active exploit traffic targeting early leaks. While the WAF rules provide automated defense-in-depth protection across all customer tiers including free plans, administrators are strongly advised to apply official PHP vendor patches, as application code updates alone cannot remediate these runtime vulnerabilities.</p><p><img src="https://i0.wp.com/electricbricks.net/wp-content/uploads/2022/09/cf-waf.png?fit=1024,834&ssl=1" /></p><hr/><small>21 Oct 2026, 21:44 UTC | #25044</small>]]></content>
+  </entry>
+  <entry>
+    <title>Anthropic Details Research on Using Claude for Automated Code Attack Surface Reduction</title>
+    <link href="https://www.anthropic.com/research/attack-surface-reduction" rel="alternate" />
+    <id>https://www.anthropic.com/research/attack-surface-reduction::v240</id>
+    <published>2026-10-21T15:43:00+00:00</published>
+    <updated>2026-10-21T15:43:00+00:00</updated>
+    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Feda2a0d63ec94b4698edb7b2989ea6c520a2928c-1920x1240.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/research/attack-surface-reduction">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50175779">hacker news</a></small></p><hr/><p>Anthropic researchers used Claude to conduct automated attack surface analysis and reduction across 25 open-source codebases, uncovering 493 security issues. The technique maps reachable code and restricts access to features that deployments do not need to expose, minimizing risks from unknown vulnerabilities without requiring individual patches.</p><p>The evaluation covered public, gated, and private projects totaling over five million lines of code, focusing on default configurations, configuration interactions, and early reachability. Notably, the analysis identified unintended pre-authentication reachability in projects such as OpenSSH, leading to upstream fixes that removed thousands of lines of unnecessary code paths.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Feda2a0d63ec94b4698edb7b2989ea6c520a2928c-1920x1240.png&w=3840&q=75" /></p><hr/><small>21 Oct 2026, 21:42 UTC | #25045</small>]]></content>
+  </entry>
+  <entry>
+    <title>Wiz Discovers Critical PHP2Shell Vulnerabilities in Core PHP</title>
+    <link href="https://www.wiz.io/blog/php2shell-php-rce" rel="alternate" />
+    <id>https://www.wiz.io/blog/php2shell-php-rce::v240</id>
+    <published>2026-10-21T13:44:00+00:00</published>
+    <updated>2026-10-21T13:44:00+00:00</updated>
+    <media:thumbnail url="https://thedailytechfeed.com/wp-content/uploads/2026/10/9201.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.wiz.io/blog/php2shell-php-rce">wiz.io</a> | <a href="https://news.ycombinator.com/item?id=50180836">hacker news</a></small></p><hr/><p>Wiz Research uncovered multiple critical memory-safety vulnerabilities in core PHP, tracked as CVE-2026-109618 and CVE-2026-109619 and collectively named PHP2Shell. These flaws affect PHP versions released over the last decade, enabling unauthenticated remote code execution and process-memory disclosure on dependent platforms such as WordPress, Drupal, and Joomla.</p><p>The underlying architectural bugs persisted for years because chaining them into functional exploits required managing complex memory layouts across requests. Frontier AI models assisted researchers in developing and adapting the exploits, marking an inflection point in vulnerability research. PHP released security updates on October 21, 2026, to address the core issues.</p><p><img src="https://thedailytechfeed.com/wp-content/uploads/2026/10/9201.png" /></p><hr/><small>21 Oct 2026, 17:08 UTC | #25027</small>]]></content>
+  </entry>
+  <entry>
+    <title>Mozilla Updates Firefox Security Policy to Require Separate Test Patches</title>
+    <link href="https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ" rel="alternate" />
+    <id>https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ::v240</id>
+    <published>2026-10-21T09:37:00+00:00</published>
+    <updated>2026-10-21T09:37:00+00:00</updated>
+    <media:thumbnail url="https://i0.wp.com/allabouttesting.org/wp-content/uploads/2022/07/privacy-1024x500.jpg?ssl=1" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ">groups.google.com</a> | <a href="https://lobste.rs/s/othohc/firefox_security_patch_tests_are_now">discussion</a></small></p><hr/><p>The Mozilla security team has updated its development policy to require that tests be submitted in a separate patch from security issue fixes for both high- and moderate-severity bugs. Prompted by advancements in AI-assisted vulnerability analysis, this change prevents tests from inadvertently exposing the exact mechanics of security flaws before fixes are deployed.</p><p>Contributors are now required to hold off on landing tests until at least one week after the release containing the fix ships, typically the Tuesday following release week. Developers can automate this timeline using a whiteboard tag reminder that triggers a notification when the waiting period concludes.</p><p><img src="https://i0.wp.com/allabouttesting.org/wp-content/uploads/2022/07/privacy-1024x500.jpg?ssl=1" /></p><hr/><small>21 Oct 2026, 17:03 UTC | #25030</small>]]></content>
+  </entry>
+  <entry>
+    <title>PHP Maintainers to Release Emergency Patches for Critical Vulnerabilities</title>
+    <link href="https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/" rel="alternate" />
+    <id>https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/::v240</id>
+    <published>2026-10-21T09:10:00+00:00</published>
+    <updated>2026-10-22T00:19:00+00:00</updated>
+    <media:thumbnail url="https://www.ox.security/wp-content/webp-express/webp-images/uploads/2026/02/image-31.png.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/">arstechnica.com</a> | <a href="https://www.php.net/archive/2026.php#2026-10-20-1">source</a> | <a href="https://news.ycombinator.com/item?id=50182987">hacker news</a></small></p><hr/><p>PHP maintainers have issued an advisory urging web administrators to prepare for upcoming emergency patches addressing two critical remote code execution vulnerabilities, tracked as CVE-2026-109618 and CVE-2026-109619. Both flaws carry a severity rating of 9.2 out of 10 and affect long-standing versions of the programming language.</p><p>The emergency patch cycle was triggered by the unauthorized leak of an exploit tool dubbed PHP2Shell, which purportedly demonstrates code execution across numerous major frameworks and content management systems. Security firms have since confirmed the validity of the underlying vulnerabilities, prompting maintainers to expedite fixes to prevent active exploitation.</p><p><img src="https://www.ox.security/wp-content/webp-express/webp-images/uploads/2026/02/image-31.png.webp" /></p><hr/><small>21 Oct 2026, 12:26 UTC | #24978</small>]]></content>
+  </entry>
+  <entry>
+    <title>Curl Project Moves Low and Medium Vulnerability Reports to GitHub</title>
+    <link href="https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/" rel="alternate" />
+    <id>https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/::v240</id>
+    <published>2026-10-20T22:40:00+00:00</published>
+    <updated>2026-10-20T22:40:00+00:00</updated>
+    <media:thumbnail url="https://repository-images.githubusercontent.com/337239782/b4c5af80-6aa3-11eb-9b86-435fe9e2db76" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/">daniel.haxx.se</a> | <a href="https://lobste.rs/s/nryxzd/do_minor_curl_vulnerabilities_open">discussion</a> | <a href="https://news.ycombinator.com/item?id=50168534">hacker news</a></small></p><hr/><p>The curl project is altering its vulnerability disclosure policy, requiring all bug reports deemed low or medium severity to be submitted as public issues on GitHub instead of through HackerOne starting October 26, 2026. Only high and critical severity vulnerabilities will remain private on HackerOne.</p><p>Project maintainers implemented the change to cope with an overwhelming volume of vulnerability reports, driven largely by automated AI tools generating edge-case option combinations and minor discrepancies with minimal real-world risk. Moving these reports to the open is intended to distribute the assessment burden and invite wider community scrutiny before releases.</p><p><img src="https://repository-images.githubusercontent.com/337239782/b4c5af80-6aa3-11eb-9b86-435fe9e2db76" /></p><hr/><small>21 Oct 2026, 03:03 UTC | #24972</small>]]></content>
+  </entry>
+  <entry>
+    <title>PHP Security Team Schedules Critical Security Release</title>
+    <link href="https://www.php.net/archive/2026.php#2026-10-20-1" rel="alternate" />
+    <id>https://www.php.net/archive/2026.php#2026-10-20-1::v240</id>
+    <published>2026-10-20T22:25:00+00:00</published>
+    <updated>2026-10-20T22:25:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1024/1*VbPfo3wP8YPuunQKhxuDxA.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.php.net/archive/2026.php#2026-10-20-1">php.net</a> | <a href="https://news-web.php.net/php.announce/509">source</a> | <a href="https://lobste.rs/s/ekxoyt/upcoming_critical_php_security_release">discussion</a> | <a href="https://news.ycombinator.com/item?id=50172041">hacker news</a></small></p><hr/><p>The PHP security team has announced an upcoming security release scheduled for October 21, 2026, to address two critical vulnerabilities, both rated 9.2 under the CVSS v4.0 scoring system. All users are encouraged to prepare their environments to upgrade as soon as the patches become available.</p><p>The development team has stated that the release may be brought forward if details of the vulnerabilities leak publicly or if evidence of active exploitation emerges in the wild. Comprehensive details regarding the affected versions and fixes will be published alongside the official release.</p><p><img src="https://miro.medium.com/v2/resize:fit:1024/1*VbPfo3wP8YPuunQKhxuDxA.png" /></p><hr/><small>21 Oct 2026, 01:31 UTC | #24967</small>]]></content>
+  </entry>
+  <entry>
+    <title>333 Malicious Tor Exit Nodes Removed Following SSH Man-in-the-Middle Attack</title>
+    <link href="https://kaba.cx/posts/20261020_Tor/" rel="alternate" />
+    <id>https://kaba.cx/posts/20261020_Tor/::v240</id>
+    <published>2026-10-20T18:45:00+00:00</published>
+    <updated>2026-10-20T18:45:00+00:00</updated>
+    <media:thumbnail url="https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/e9a93d27cc98715a6477098a1950b7c7?_a=AQAEuop" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://kaba.cx/posts/20261020_Tor/">kaba.cx</a> | <a href="https://lobste.rs/s/9h14un/how_i_got_over_300_tor_exit_nodes_removed">discussion</a> | <a href="https://news.ycombinator.com/item?id=50166257">hacker news</a></small></p><hr/><p>In October 2026, a coordinated campaign involving 333 compromised Tor exit nodes—representing roughly 10% of the network—intercepted unencrypted mail traffic and launched a man-in-the-middle attack against SSH connections. The attackers, who had covertly accessed the underlying servers months prior, deployed the Ebury 1.8.3 OpenSSH backdoor to steal credentials and infect destination hosts.</p><p>A security researcher developed a detection script using exitmap to identify the rogue relays by pinning exit nodes and tracking SSH connection behavior. After the findings were reported to the Tor Project's network health team on October 2, coordinated takedowns and operator notifications led to the affected nodes being flagged as bad exits and taken offline within days.</p><p><img src="https://media.daily.dev/image/upload/f_auto,q_auto/v1/posts/e9a93d27cc98715a6477098a1950b7c7?_a=AQAEuop" /></p><hr/><small>20 Oct 2026, 21:55 UTC | #24948</small>]]></content>
+  </entry>
+  <entry>
+    <title>Google Cloud Outage Disrupts Revolut and Other UK Banks</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk::v240</id>
+    <published>2026-10-20T14:01:00+00:00</published>
+    <updated>2026-10-20T14:01:00+00:00</updated>
+    <media:thumbnail url="https://www.thenews.com.pk/assets/uploads/updates/2026-10-20/1420620_1807279_French-DJ-Kavinsky-performs-on-stage-during-the-Paris-2024-Olympics-Closing-Ceremony-at-the-Stade-de-France---2026-10-20T151042_966_updates.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk">bloomberg.com</a></small></p><hr/><p>An outage at Google Cloud's London region disrupted online banking and payment services across the UK, taking offline major fintech and banking platforms including Revolut, HSBC, and Lloyds. Users reported widespread difficulties making card payments, executing bank transfers, withdrawing cash, and logging into their accounts.</p><p>Google acknowledged that services in its London region were experiencing issues and recommended that affected customers attempt to migrate workloads to other cloud regions. Revolut assured customers that their funds and personal data remained secure while engineers worked to resolve the infrastructure disruption.</p><p><img src="https://www.thenews.com.pk/assets/uploads/updates/2026-10-20/1420620_1807279_French-DJ-Kavinsky-performs-on-stage-during-the-Paris-2024-Olympics-Closing-Ceremony-at-the-Stade-de-France---2026-10-20T151042_966_updates.jpg" /></p><hr/><small>20 Oct 2026, 18:32 UTC | #24880</small>]]></content>
+  </entry>
+  <entry>
+    <title>Ookla Report Finds London Mobile Network Speeds Lag Behind European Capitals</title>
+    <link href="https://www.ookla.com/articles/london-mobile-2026" rel="alternate" />
+    <id>https://www.ookla.com/articles/london-mobile-2026::v240</id>
+    <published>2026-10-20T13:10:00+00:00</published>
+    <updated>2026-10-20T13:10:00+00:00</updated>
+    <media:thumbnail url="https://www.ookla.com/s/media/2026/10/01_london_vs_european_capitals-scaled.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ookla.com/articles/london-mobile-2026">ookla.com</a></small></p><hr/><p>An analysis of mobile network performance by Ookla reveals that London has dropped from seventh to last among 18 European capitals for median mobile download speed since 2021. Despite median download speeds reaching 109.43 Mbps by Q3 2026, rapid traffic growth and 5G adoption have outpaced infrastructure capacity, leaving the city with the slowest 5G median and highest latency under load among peer capitals.</p><p>The report highlights that central London experiences severe weekday lunchtime congestion while struggling with rooftop site leasing disputes, strict planning rules in conservation areas, and frequent lease terminations by landlords. These infrastructure hurdles have constrained traditional mast deployment and forced operators to increasingly rely on street-level small cells to mitigate capacity shortfalls.</p><p><img src="https://www.ookla.com/s/media/2026/10/01_london_vs_european_capitals-scaled.png" /></p><hr/><small>20 Oct 2026, 17:17 UTC | #24863</small>]]></content>
+  </entry>
+  <entry>
+    <title>Mozilla Updates Firefox Following Compromise of eMudhra Intermediate Certificates</title>
+    <link href="https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/" rel="alternate" />
+    <id>https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/::v240</id>
+    <published>2026-10-20T13:02:00+00:00</published>
+    <updated>2026-10-20T18:16:00+00:00</updated>
+    <media:thumbnail url="https://cheapsslweb.com/blog/wp-content/uploads/2025/04/certificate-revocation-list.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/">blog.mozilla.org</a> | <a href="https://lobste.rs/s/gqyvn5/protecting_firefox_users_following">discussion</a> | <a href="https://news.ycombinator.com/item?id=50166579">hacker news</a></small></p><hr/><p>Following the reported compromise of private keys associated with eight eMudhra intermediate certificates, Mozilla deployed immediate mitigations in Firefox to block the affected certificates and prevent potential HTTPS impersonation attacks. The organization utilized its centralized OneCRL revocation mechanism to distribute protection to standard configurations within three hours of receiving the incident report.</p><p>To ensure coverage for users with custom settings that may bypass OneCRL, Mozilla released Firefox version 158.0.1 for Desktop and Android, alongside corresponding updates for Firefox ESR. Additionally, Mozilla updated the Network Security Services (NSS) trust store to remove the root certificate that signed the compromised intermediates, safeguarding other applications relying on Mozilla's trust architecture.</p><p><img src="https://cheapsslweb.com/blog/wp-content/uploads/2025/04/certificate-revocation-list.webp" /></p><hr/><small>20 Oct 2026, 16:14 UTC | #24899</small>]]></content>
+  </entry>
+  <entry>
+    <title>U.S. Army Cyber Command Develops ECHOTRIBBLE Autonomous AI Agent Platform for Offensive Cyber Operations</title>
+    <link href="https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/" rel="alternate" />
+    <id>https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/::v240</id>
+    <published>2026-10-20T09:44:00+00:00</published>
+    <updated>2026-10-20T09:44:00+00:00</updated>
+    <media:thumbnail url="https://theintercept.com/wp-content/uploads/2026/10/Picture1.jpg?fit=1430%2C812" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber/">theintercept.com</a></small></p><hr/><p>U.S. Army Cyber Command is developing a platform codenamed ECHOTRIBBLE to deploy autonomous artificial intelligence agents for offensive cyber operations. Designed to navigate foreign digital infrastructures with minimal human oversight, the software aims to autonomously identify, track, and neutralize targets by temporarily or permanently disabling threats or deleting them from networks.</p><p>Documents obtained by reporters reveal that the system would operate stealthily like a computer worm, hopping across devices and self-replicating for different operating systems. Cybersecurity experts have raised significant concerns regarding the immense risks of deploying autonomous agents with destructive mandates, noting that unpredictable behavior could lead to collateral damage in critical civilian infrastructure.</p><p><img src="https://theintercept.com/wp-content/uploads/2026/10/Picture1.jpg?fit=1430%2C812" /></p><hr/><small>20 Oct 2026, 13:16 UTC | #24850</small>]]></content>
+  </entry>
+  <entry>
+    <title>Over 421,000 Internal AfD Emails Published Online Following Data Breach</title>
+    <link href="https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/" rel="alternate" />
+    <id>https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/::v240</id>
+    <published>2026-10-20T09:36:00+00:00</published>
+    <updated>2026-10-20T09:36:00+00:00</updated>
+    <media:thumbnail url="https://storage.ghost.io/c/98/53/98532a3a-3542-4bcd-a05e-a2672d5c28c1/content/images/size/w2000/2026/10/x-card--30-.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/">heistberlin.com</a> | <a href="https://hexane.cc/">source</a> | <a href="https://news.ycombinator.com/item?id=50163502">hacker news</a></small></p><hr/><p>An online archive published more than 421,000 internal emails and documents from Germany’s far-right Alternative for Germany (AfD) party. The 281 GB dataset, made available on the website hexane.cc following a September cyberattack on a third-party hosting provider, includes correspondence containing racist remarks, antisemitic theories, and violent anti-refugee rhetoric.</p><p>The AfD confirmed that a hosting provider used by the party suffered a security breach, though officials initially downplayed the scope as affecting a limited number of mailboxes. The leak has drawn intense scrutiny across German media, exposing internal party communications and raising questions about political data security and extremist rhetoric within party ranks.</p><p><img src="https://storage.ghost.io/c/98/53/98532a3a-3542-4bcd-a05e-a2672d5c28c1/content/images/size/w2000/2026/10/x-card--30-.png" /></p><hr/><small>20 Oct 2026, 11:17 UTC | #24878</small>]]></content>
+  </entry>
+  <entry>
+    <title>Cybersecurity and Infrastructure Security Agency Faced Pressure to Hack Voting Machine, Report Says</title>
+    <link href="https://www.propublica.org/article/cisa-election-security-donald-trump" rel="alternate" />
+    <id>https://www.propublica.org/article/cisa-election-security-donald-trump::v240</id>
+    <published>2026-10-19T17:10:00+00:00</published>
+    <updated>2026-10-19T17:10:00+00:00</updated>
+    <media:thumbnail url="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/94f105d8-Electronic-Voting-Screen-Election.jpg?ve=1&amp;tl=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.propublica.org/article/cisa-election-security-donald-trump">propublica.org</a> | <a href="https://news.ycombinator.com/item?id=50151156">hacker news</a></small></p><hr/><p>During President Donald Trump’s second term, Department of Homeland Security appointees directed the Cybersecurity and Infrastructure Security Agency to secretly acquire and hack a voting machine. CISA staff resisted the directive, arguing it violated agency protocol and risked political interference, and the plan was eventually dropped.</p><p>The incident underscores significant disruptions at CISA, where massive staff reductions and budget cuts have severely hampered its mission to protect election infrastructure. State election officials report that the agency's withdrawal of support, combined with the administration's release of sensitive data, has eroded the trust necessary for effective federal-state cybersecurity cooperation.</p><p><img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/94f105d8-Electronic-Voting-Screen-Election.jpg?ve=1&tl=1" /></p><hr/><small>19 Oct 2026, 23:22 UTC | #24776</small>]]></content>
+  </entry>
+  <entry>
+    <title>Federal Investigators Suspect Ransomware Negotiators Operated ShinyHunters Extortion Site</title>
+    <link href="https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/" rel="alternate" />
+    <id>https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/::v240</id>
+    <published>2026-10-19T16:55:00+00:00</published>
+    <updated>2026-10-19T16:55:00+00:00</updated>
+    <media:thumbnail url="https://krebsonsecurity.com/wp-content/uploads/2026/10/shinywire-home.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/">krebsonsecurity.com</a> | <a href="https://news.ycombinator.com/item?id=50153523">hacker news</a></small></p><hr/><p>FBI investigators targeting the ShinyHunters hacking group have identified executives at two ransomware negotiation firms who allegedly maintained close ties to the group. Investigators suspect an executive at a prominent U.S.-based consulting firm helped operate "shinywire.com," a website used by the hackers to pressure victims into paying ransoms.</p><p>The probe follows the arrest of Canadian cybersecurity executive Edward Dubrovsky and a recent breach of the FBI's recruitment website. Intercepted communications suggest that some negotiators may have known about data breaches before the victims themselves were notified, raising questions about conflicts of interest within the cyber incident response industry.</p><p><img src="https://krebsonsecurity.com/wp-content/uploads/2026/10/shinywire-home.png" /></p><hr/><small>19 Oct 2026, 22:03 UTC | #24770</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Bugging Suspect Communicated with Saudi Royal via WhatsApp, Prosecutors Say</title>
+    <link href="https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html::v240</id>
+    <published>2026-10-19T16:54:00+00:00</published>
+    <updated>2026-10-19T16:54:00+00:00</updated>
+    <media:thumbnail url="https://ih1.redbubble.net/image.4812358627.0064/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html">cnbc.com</a> | <a href="https://www.justice.gov/usao-ndca/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai-san">source</a></small></p><hr/><p>Federal prosecutors revealed that Abdulrahman Alfozan, a Saudi national charged with planting a recording device in an OpenAI executive conference room, was in frequent WhatsApp contact with a member of the Saudi royal family throughout 2025 and 2026. The court filing states that the royal repeatedly attempted to recruit Alfozan for a Saudi Arabian artificial intelligence initiative, even suggesting that "Saudi needs you more than the US."</p><p>The U.S. Attorney's Office for the Northern District of California is seeking to detain Alfozan without bail, citing him as a flight risk with access to significant foreign support and the lack of an extradition treaty between the U.S. and Saudi Arabia. Alfozan, an engineer at OpenAI, allegedly installed the device in a room used for sensitive meetings with government officials. His defense argues that his family's planned relocation to Saudi Arabia was motivated by expiring visas rather than an intention to evade prosecution.</p><p><img src="https://ih1.redbubble.net/image.4812358627.0064/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" /></p><hr/><small>19 Oct 2026, 22:01 UTC | #24769</small>]]></content>
+  </entry>
+  <entry>
+    <title>AI Agents Used to Breach Over 100 Companies and 1,200 Websites</title>
+    <link href="https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/" rel="alternate" />
+    <id>https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/::v240</id>
+    <published>2026-10-19T16:41:00+00:00</published>
+    <updated>2026-10-19T16:41:00+00:00</updated>
+    <media:thumbnail url="https://d8-a.sdn.cz/d_8/c_imgrestricted_of_A/kPxr1WDRoIBXSQVvnE5c1zK/0e76/ai-agent.png?fl=cro,0,80,1536,864|res,1200,,1|jpg,80,,1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50152072">hacker news</a></small></p><hr/><p>A Chinese-speaking perpetrator targeted 1,200 websites using autonomous AI agents, successfully breaching more than 100 entities including Deere and SharkNinja. The campaign cost approximately $5,000 and relied on automation to perform complex intrusion activities with minimal human supervision.</p><p>The attacker reportedly used an AI platform called Cairn to facilitate the breaches. This incident demonstrates how low-cost AI tools can significantly lower the barrier to entry for orchestrating highly efficient and scalable cyberattacks.</p><p><img src="https://d8-a.sdn.cz/d_8/c_imgrestricted_of_A/kPxr1WDRoIBXSQVvnE5c1zK/0e76/ai-agent.png?fl=cro,0,80,1536,864|res,1200,,1|jpg,80,,1" /></p><hr/><small>19 Oct 2026, 19:43 UTC | #24753</small>]]></content>
+  </entry>
+  <entry>
+    <title>Deutsche Telekom, Orange, Telefónica, and Vodafone to Explore Joint European Satellite Spectrum Bid</title>
+    <link href="https://www.ft.com/content/555bbf91-4c38-43ce-94b6-90f7fc04e82c" rel="alternate" />
+    <id>https://www.ft.com/content/555bbf91-4c38-43ce-94b6-90f7fc04e82c::v240</id>
+    <published>2026-10-19T15:38:00+00:00</published>
+    <updated>2026-10-19T15:38:00+00:00</updated>
+    <media:thumbnail url="https://nova.space/wp-content/uploads/2025/07/AdobeStock_1257470261-scaled.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/555bbf91-4c38-43ce-94b6-90f7fc04e82c">ft.com</a> | <a href="https://www.orange.com/en/press-release/four-european-operators-sign-letter-of-intent-to-explore-a-joint-bid-for-mobile-satellite-services-spectrum-and-advance-direct-to-device-services-514066">source</a></small></p><hr/><p>Deutsche Telekom, Orange, Telefónica, and Vodafone have signed a letter of intent to explore a joint bid for mobile satellite services (MSS) spectrum in Europe. The collaboration aims to advance direct-to-device (D2D) technology, which would enable standard mobile devices to connect directly to satellites for coverage.</p><p>The initiative is designed to strengthen European sovereignty and resilience in critical connectivity infrastructure, positioning the group to compete with satellite providers such as Starlink. The operators are currently working to select a satellite partner to support the potential spectrum allocation.</p><p><img src="https://nova.space/wp-content/uploads/2025/07/AdobeStock_1257470261-scaled.webp" /></p><hr/><small>19 Oct 2026, 19:12 UTC | #24756</small>]]></content>
+  </entry>
+  <entry>
+    <title>Let's Encrypt Adding Two Remote Perspectives for Domain Validation</title>
+    <link href="https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166" rel="alternate" />
+    <id>https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166::v240</id>
+    <published>2026-10-19T15:32:00+00:00</published>
+    <updated>2026-10-19T15:32:00+00:00</updated>
+    <media:thumbnail url="https://www.thesslstore.com/blog/wp-content/uploads/2025/09/single-vs-multi-perspective-validation-mpic2-shadow-1536x1409.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166">community.letsencrypt.org</a> | <a href="https://news.ycombinator.com/item?id=50150809">hacker news</a></small></p><hr/><p>Let's Encrypt is increasing its remote perspectives for domain validation from four to six, resulting in seven total validation requests. The change complies with new Baseline Requirements and is intended to enhance visibility and security against BGP attacks.</p><p>A staging rollout is scheduled for October 27, 2026, with a production rollout expected on November 10, 2026. Let's Encrypt anticipates minimal impact on users during the transition.</p><p><img src="https://www.thesslstore.com/blog/wp-content/uploads/2025/09/single-vs-multi-perspective-validation-mpic2-shadow-1536x1409.jpg" /></p><hr/><small>19 Oct 2026, 18:32 UTC | #24799</small>]]></content>
+  </entry>
+</feed>

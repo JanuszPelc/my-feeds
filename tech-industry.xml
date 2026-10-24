@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>tech-industry</title>
+  <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
+  <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
+  <updated>2026-10-24T04:08:00+00:00</updated>
+  <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png</icon>
+  <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png</logo>
+  <entry>
+    <title>UK Establishes £100M AI Biosecurity Lab</title>
+    <link href="https://www.bbc.com/news/articles/cqdjv8xllvyyo" rel="alternate" />
+    <id>https://www.bbc.com/news/articles/cqdjv8xllvyyo::v240</id>
+    <published>2026-10-24T04:08:00+00:00</published>
+    <updated>2026-10-24T04:08:00+00:00</updated>
+    <media:thumbnail url="https://intuitionlabs.ai/images/articles/ai-biotech-funding-trends.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bbc.com/news/articles/cqdjv8xllvyyo">bbc.com</a> | <a href="https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab">source</a></small></p><hr/><p>The UK government is committing £100 million in its upcoming budget to establish a national AI Biosecurity Lab (AIBL) aimed at strengthening defences against emerging biological and AI-enabled threats. The initiative will also receive £200 million in AI model credits and computational support from leading developers like OpenAI and Anthropic.</p><p>As part of a broader package for technological resilience and national security, the funding will also bolster the existing AI Security Institute, deploy a national cyber defense shield using agentic AI, and fund vulnerability detection infrastructure. Ministers describe the biosecurity facility as a world-first institute designed to keep pace with evolving technological and biological risks.</p><p><img src="https://intuitionlabs.ai/images/articles/ai-biotech-funding-trends.jpg" /></p><hr/><small>24 Oct 2026, 08:32 UTC | #25282</small>]]></content>
+  </entry>
+  <entry>
+    <title>Instacart Explores Sale and Holds Preliminary Talks With Uber and DoorDash</title>
+    <link href="https://www.theinformation.com/articles/instacart-exploring-sale" rel="alternate" />
+    <id>https://www.theinformation.com/articles/instacart-exploring-sale::v240</id>
+    <published>2026-10-23T22:02:00+00:00</published>
+    <updated>2026-10-23T22:02:00+00:00</updated>
+    <media:thumbnail url="https://tii.imgix.net/production/articles/6105/b636308f-0f89-442e-abda-a4f846d3eaed.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/instacart-exploring-sale">theinformation.com</a></small></p><hr/><p>Grocery delivery platform Instacart is exploring a potential sale that could end its 14-year run as a standalone company. The company has engaged in preliminary discussions with potential buyers, including major competitors Uber and DoorDash.</p><p>The deliberations follow fluctuations in Instacart's market valuation, which currently stands at approximately $12 billion. A transaction involving either Uber or DoorDash would significantly reshape the online grocery and delivery landscape in North America.</p><p><img src="https://tii.imgix.net/production/articles/6105/b636308f-0f89-442e-abda-a4f846d3eaed.png" /></p><hr/><small>24 Oct 2026, 03:32 UTC | #25266</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nvidia CEO Jensen Huang Showcases Microduck Robots at GTC Berlin</title>
+    <link href="https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/::v240</id>
+    <published>2026-10-23T22:00:00+00:00</published>
+    <updated>2026-10-23T22:00:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?w=1024" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/">techcrunch.com</a> | <a href="https://pollen-robotics.com/microduck/">source</a></small></p><hr/><p>During his keynote at the Nvidia GTC Berlin conference, CEO Jensen Huang demonstrated Microduck, a small open-source bipedal robot developed by Pollen Robotics. Following the live demonstration, preorders for the $399 robot surpassed 20,000 units.</p><p>The 25-centimeter-tall robot features 15 motors, a camera, and an articulated beak, and was trained using Nvidia's simulation technology stack. Deliveries are scheduled ahead of the holiday season, positioning the device as a consumer-oriented robotic platform for physical artificial intelligence experimentation.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?w=1024" /></p><hr/><small>24 Oct 2026, 02:59 UTC | #25272</small>]]></content>
+  </entry>
+  <entry>
+    <title>Google Updates Privacy Policy to Permit Ad Targeting via Personal Intelligence Data</title>
+    <link href="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update" rel="alternate" />
+    <id>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update::v240</id>
+    <published>2026-10-23T21:00:00+00:00</published>
+    <updated>2026-10-23T21:00:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/610795412/original/1798f19e22/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update">theverge.com</a> | <a href="https://policies.google.com/privacy?hl=en-US">source</a> | <a href="https://news.ycombinator.com/item?id=50214218">hacker news</a></small></p><hr/><p>Google has updated its privacy policy to introduce an exception allowing personal data from services like Gmail, Google Drive, and Google Photos to be used for targeted advertising. The change applies when users connect these services to AI and search tools through Google's Personal Intelligence feature to receive personalized recommendations.</p><p>While advertisers do not gain direct access to the underlying personal files or identifying information, the update removes a previous blanket exclusion that protected these workspaces. Users can opt out of the ad targeting by disconnecting specific apps or disabling personalized recommendations through their account settings.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/610795412/original/1798f19e22/1?v=1" /></p><hr/><small>24 Oct 2026, 02:17 UTC | #25283</small>]]></content>
+  </entry>
+  <entry>
+    <title>Dwarkesh Patel Explores Future Semiconductor Design and Manufacturing in Intel Fab Tour</title>
+    <link href="https://www.dwarkesh.com/p/intel-tour" rel="alternate" />
+    <id>https://www.dwarkesh.com/p/intel-tour::v240</id>
+    <published>2026-10-23T16:24:00+00:00</published>
+    <updated>2026-10-23T16:24:00+00:00</updated>
+    <media:thumbnail url="https://partofstyle.com/wp-content/uploads/2024/02/Intel-aims-to-surpass-TSMC-in-advanced-chip-manufacturing.webp.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.dwarkesh.com/p/intel-tour">dwarkesh.com</a></small></p><hr/><p>Dwarkesh Patel tours Intel's advanced fabrication facilities and interviews technical leadership to examine the trajectory of semiconductor design and manufacturing through 2045. The discussions explore how foundries plan to scale leading-edge compute production amid unprecedented demand driven by artificial intelligence.</p><p>The episode covers lessons learned from Intel's historical 10-nanometer delays, tool limitations in wafer production, and the technical hurdles of advancing past FinFET to gate-all-around transistors, backside power delivery, and hybrid bonding.</p><p><img src="https://partofstyle.com/wp-content/uploads/2024/02/Intel-aims-to-surpass-TSMC-in-advanced-chip-manufacturing.webp.webp" /></p><hr/><small>23 Oct 2026, 18:54 UTC | #25235</small>]]></content>
+  </entry>
+  <entry>
+    <title>Anthropic and Hg Agree to Launch European AI Consultancy</title>
+    <link href="https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4" rel="alternate" />
+    <id>https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4::v240</id>
+    <published>2026-10-23T13:54:00+00:00</published>
+    <updated>2026-10-23T13:54:00+00:00</updated>
+    <media:thumbnail url="https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/aiwereld.nl/images/2025-04/anthropic-breidt-uit-naar-europa-met-100-nieuwe-ai-banen-67f56b8f6ecd6.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/df70bf20-e809-48d0-8485-f8f514a7fbc4">ft.com</a></small></p><hr/><p>AI lab Anthropic and London-based private equity firm Hg have agreed to establish a dedicated European consultancy by the end of 2026. The new venture will embed specialized AI consultants and engineers directly into European businesses to advise corporate clients on deploying advanced AI models.</p><p>This initiative marks Anthropic's first standalone consultancy backed in Europe, building on existing collaborations with Hg portfolio companies that began in 2024. Operating out of hubs including London and Berlin, the partnership aims to expand the commercial adoption of Claude and other AI technologies across the region's enterprise sector.</p><p><img src="https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/aiwereld.nl/images/2025-04/anthropic-breidt-uit-naar-europa-met-100-nieuwe-ai-banen-67f56b8f6ecd6.png" /></p><hr/><small>23 Oct 2026, 17:52 UTC | #25222</small>]]></content>
+  </entry>
+  <entry>
+    <title>Greece Passes Social Media Ban for Children Under 15</title>
+    <link href="https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/" rel="alternate" />
+    <id>https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/::v240</id>
+    <published>2026-10-23T13:50:00+00:00</published>
+    <updated>2026-10-23T13:50:00+00:00</updated>
+    <media:thumbnail url="https://www.reuters.com/resizer/v2/DM5X72PKTBN45PYOHGSQX4YATA.jpg?auth=a0fa06402b64435d21fd47341b4daa1ddb027e36eb3d9bea3ce534c5847de680&amp;width=720&amp;quality=80" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/litigation/greece-passes-social-media-ban-children-under-15-2026-10-23/">reuters.com</a></small></p><hr/><p>Greece's parliament has approved legislation banning social media access for children under 15, with the restrictions set to take effect on January 1, 2027. The law aims to protect minors from the adverse health, safety, and mental impacts associated with online platforms.</p><p>Under the new rules, social media companies are given a designated timeframe to implement mandatory age-verification mechanisms. The initiative forms part of a broader collaborative effort alongside several other European Union countries and the European Commission to enhance online protection for minors.</p><p><img src="https://www.reuters.com/resizer/v2/DM5X72PKTBN45PYOHGSQX4YATA.jpg?auth=a0fa06402b64435d21fd47341b4daa1ddb027e36eb3d9bea3ce534c5847de680&width=720&quality=80" /></p><hr/><small>23 Oct 2026, 16:54 UTC | #25223</small>]]></content>
+  </entry>
+  <entry>
+    <title>Hacker News Discussion Examines OpenAI Strategy of Selling Models Rather Than Building Companies</title>
+    <link href="https://news.ycombinator.com/item?id=50200997" rel="alternate" />
+    <id>https://news.ycombinator.com/item?id=50200997::v240</id>
+    <published>2026-10-23T13:23:00+00:00</published>
+    <updated>2026-10-23T13:23:00+00:00</updated>
+    <media:thumbnail url="https://www.garyfox.co/wp-content/uploads/2024/07/openai-business-model-canvas.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://news.ycombinator.com/item?id=50200997">news.ycombinator.com</a> | <a href="https://news.ycombinator.com/item?id=50200997">hacker news</a></small></p><hr/><p>A Hacker News discussion explores why leading AI labs like OpenAI choose to sell API tokens rather than launching their own enterprises to directly capture market value using advanced models.</p><p>Participants debate whether artificial intelligence alone is sufficient to run complex businesses, drawing analogies to consulting firms and noting that commercial execution requires operational infrastructure, human labor, risk management, and domain-specific relationships that models cannot automate.</p><p><img src="https://www.garyfox.co/wp-content/uploads/2024/07/openai-business-model-canvas.png" /></p><hr/><small>23 Oct 2026, 15:09 UTC | #25245</small>]]></content>
+  </entry>
+  <entry>
+    <title>SK Hyper in Talks to Fund $350 Billion AI Data Center Buildout</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout::v240</id>
+    <published>2026-10-23T07:36:00+00:00</published>
+    <updated>2026-10-23T07:36:00+00:00</updated>
+    <media:thumbnail url="https://www.azuraconsultancy.com/wp-content/uploads/2024/07/AI-Data-Center.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout">bloomberg.com</a></small></p><hr/><p>SK Hyper, the data center subsidiary of SK Telecom, is in discussions with major technology companies and financial investors to secure funding for a massive artificial intelligence infrastructure expansion in South Korea. The initiative aims to build 15 gigawatts of data center capacity by 2035.</p><p>The project's initial 5-gigawatt phase alone is projected to require $350 billion, including necessary equipment. The funding push underscores the immense capital requirements and global race among telecom and technology firms to construct large-scale computing facilities despite ongoing uncertainties surrounding future market demand.</p><p><img src="https://www.azuraconsultancy.com/wp-content/uploads/2024/07/AI-Data-Center.webp" /></p><hr/><small>23 Oct 2026, 13:21 UTC | #25208</small>]]></content>
+  </entry>
+  <entry>
+    <title>SK Hynix Halts Review of U.S. IPO for Memory Chip Unit Solidigm</title>
+    <link href="https://www.wsj.com/tech/sk-hynix-shelves-plans-for-u-s-listing-of-memory-chip-unit-solidigm-e9670506?st=aR7N6u&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/sk-hynix-shelves-plans-for-u-s-listing-of-memory-chip-unit-solidigm-e9670506?st=aR7N6u&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-10-23T04:41:00+00:00</published>
+    <updated>2026-10-23T04:41:00+00:00</updated>
+    <media:thumbnail url="https://wimg.sedaily.com/news/cms/2026/10/23/news-p.v1.20261023.fc47862341bb4025bbbc18b9259b6b41_P1.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/sk-hynix-shelves-plans-for-u-s-listing-of-memory-chip-unit-solidigm-e9670506?st=aR7N6u&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://news.skhynix.com/en/fact-12/">source</a></small></p><hr/><p>SK Hynix has suspended its review of a potential U.S. initial public offering for its Solidigm flash-memory subsidiary, citing current market conditions and stock price trends. The proposed public listing was initially explored as a funding mechanism to support a new U.S. semiconductor fabrication plant aimed at meeting rising AI memory demand.</p><p>The decision to halt the process follows pressure and concerns from regulators and shareholders regarding potential dual-listing issues and shareholder value dilution. SK Hynix stated it will re-evaluate alternative financing options for its American expansion while monitoring broader capital market dynamics.</p><p><img src="https://wimg.sedaily.com/news/cms/2026/10/23/news-p.v1.20261023.fc47862341bb4025bbbc18b9259b6b41_P1.png" /></p><hr/><small>23 Oct 2026, 13:01 UTC | #25202</small>]]></content>
+  </entry>
+  <entry>
+    <title>inDrive Plans 2027 Robotaxi Tests in Kazakhstan with Pony.ai and Nvidia</title>
+    <link href="https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/::v240</id>
+    <published>2026-10-23T04:01:00+00:00</published>
+    <updated>2026-10-23T04:01:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/">techcrunch.com</a> | <a href="https://blog.pony.ai/indrive-and-pony-ai-announce-collaboration-to-explore-autonomous-mobility-in-kazakhstan-built-on-nvidia-hyperion/">source</a></small></p><hr/><p>Ride-hailing platform inDrive has signed a memorandum of understanding with autonomous driving firm Pony.ai and Nvidia to test robotaxis in Astana, Kazakhstan, beginning in the first half of 2027. The initial trials will feature Pony.ai's Gen-7 vehicles integrated into the inDrive app using Nvidia's Hyperion platform and Halos safety system, operating with safety operators before transitioning to fully driverless rides.</p><p>The collaboration forms part of a broader expansion for Pony.ai outside China and marks inDrive's second major regional robotaxi initiative following a similar exploration in Saudi Arabia. Testing in Astana will also allow the companies to evaluate autonomous driving performance under challenging winter conditions involving months of snow and ice.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg" /></p><hr/><small>23 Oct 2026, 11:39 UTC | #25200</small>]]></content>
+  </entry>
+  <entry>
+    <title>PreussenElektra and Nvidia Evaluate Converting Shuttered German Nuclear Plants Into Data Centers</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-22/germany-s-idle-nuclear-plants-eye-new-life-as-ai-data-centers" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-22/germany-s-idle-nuclear-plants-eye-new-life-as-ai-data-centers::v240</id>
+    <published>2026-10-23T00:52:00+00:00</published>
+    <updated>2026-10-23T00:52:00+00:00</updated>
+    <media:thumbnail url="https://media.gettyimages.com/id/1242015846/photo/exterior-view-of-the-isar-2-nuclear-power-plant-of-the-operator-preussenelektra-on-july-20.jpg?s=612x612&amp;w=gi&amp;k=20&amp;c=-cgW7bIGUOE_KYWVZ0n_vEdcrfv0N35759nxiP6M6ho=" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-22/germany-s-idle-nuclear-plants-eye-new-life-as-ai-data-centers">bloomberg.com</a></small></p><hr/><p>German energy company PreussenElektra is collaborating with Nvidia to assess whether its shuttered nuclear power plants can be repurposed into AI data centers. The preliminary assessment explores utilizing former reactor locations while the dismantling process for the facilities continues.</p><p>Decommissioned nuclear sites are viewed as attractive locations for large-scale data center development due to their existing heavy-duty power grid connections and heavy infrastructure. The initiative highlights how energy utilities and tech firms are increasingly exploring unconventional infrastructure solutions to meet surging AI power demands.</p><p><img src="https://media.gettyimages.com/id/1242015846/photo/exterior-view-of-the-isar-2-nuclear-power-plant-of-the-operator-preussenelektra-on-july-20.jpg?s=612x612&w=gi&k=20&c=-cgW7bIGUOE_KYWVZ0n_vEdcrfv0N35759nxiP6M6ho=" /></p><hr/><small>23 Oct 2026, 07:25 UTC | #25192</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Cuts Valuation Target to $1.25 Trillion</title>
+    <link href="https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc" rel="alternate" />
+    <id>https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc::v240</id>
+    <published>2026-10-23T00:42:00+00:00</published>
+    <updated>2026-10-23T00:42:00+00:00</updated>
+    <media:thumbnail url="https://seczine.com/wp-content/uploads/2026/02/OpenAI_Gains_850B_Valuation_as_Funding_R_6.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc">ft.com</a> | <a href="https://news.ycombinator.com/item?id=50202402">hacker news</a></small></p><hr/><p>OpenAI has reduced its target valuation for a new funding round to $1.25 trillion, down from the $1.4 trillion figure proposed earlier this month. The adjustment follows resistance from investors regarding the company's higher valuation.</p><p>The laboratory is reportedly seeking to finalize a funding round of up to $30 billion. This capital raise occurs as OpenAI prepares for a potential initial public offering and continues to expand its role in the artificial intelligence market.</p><p><img src="https://seczine.com/wp-content/uploads/2026/02/OpenAI_Gains_850B_Valuation_as_Funding_R_6.webp" /></p><hr/><small>23 Oct 2026, 05:50 UTC | #25186</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Nears $30 Billion Funding Round at $1.25 Trillion Valuation</title>
+    <link href="https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html::v240</id>
+    <published>2026-10-22T22:10:00+00:00</published>
+    <updated>2026-10-22T22:10:00+00:00</updated>
+    <media:thumbnail url="https://datawrapper.dwcdn.net/LCGtE/full.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html">cnbc.com</a></small></p><hr/><p>OpenAI is closing in on a funding round of up to $30 billion at a $1.25 trillion pre-money valuation, led by investors from the United Arab Emirates alongside Coatue. The San Francisco-based artificial intelligence company aims to secure investor signatures by the end of the following week, positioning the financing as an opportunistic bridge ahead of a potential initial public offering in 2027.</p><p>Alongside the capital infusion, OpenAI is negotiating a commercial agreement to secure additional computing capacity from the UAE to support its expanding operations. The fundraising effort comes amid a volatile tech market environment and follows confidential filings by OpenAI to go public, with Anthropic's expected IPO also looming as a test of broader sector investor appetite.</p><p><img src="https://datawrapper.dwcdn.net/LCGtE/full.png" /></p><hr/><small>23 Oct 2026, 03:33 UTC | #25176</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Nears $30 Billion Funding Round at $1.25 Trillion Valuation Ahead of IPO</title>
+    <link href="https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/::v240</id>
+    <published>2026-10-22T22:09:00+00:00</published>
+    <updated>2026-10-22T22:09:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?w=1024" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/">techcrunch.com</a> | <a href="https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html">source</a></small></p><hr/><p>OpenAI is reportedly finalizing a private funding round of up to $30 billion at a $1.25 trillion pre-money valuation. The round is being led by Coatue and investors from the United Arab Emirates, with terms still under negotiation.</p><p>If completed, the valuation would establish OpenAI as the most valuable private company in history and set a high benchmark for its anticipated public debut. The company previously filed confidential paperwork for an initial public offering in June following a separate funding round earlier in the year.</p><p><img src="https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?w=1024" /></p><hr/><small>23 Oct 2026, 03:11 UTC | #25184</small>]]></content>
+  </entry>
+  <entry>
+    <title>SB Energy Considers Delaying IPO Until December or Later</title>
+    <link href="https://www.theinformation.com/articles/sb-energy-considers-waiting-december-later-ipo" rel="alternate" />
+    <id>https://www.theinformation.com/articles/sb-energy-considers-waiting-december-later-ipo::v240</id>
+    <published>2026-10-22T21:26:00+00:00</published>
+    <updated>2026-10-22T21:26:00+00:00</updated>
+    <media:thumbnail url="https://business-news-today.com/wp-content/uploads/2026/01/next-generation-AI-data-center-campus.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/sb-energy-considers-waiting-december-later-ipo">theinformation.com</a></small></p><hr/><p>The SoftBank Group-controlled developer of a massive planned Ohio data center project for OpenAI is considering postponing its initial public offering until December or potentially next year. The company plans to monitor the timing of Anthropic's anticipated IPO to gauge market sentiment.</p><p>Demand for AI cloud and data center listings has recently cooled, making it difficult for companies to secure desired valuations. Anthropic's upcoming market debut is viewed as a critical test of investor appetite for the sector.</p><p><img src="https://business-news-today.com/wp-content/uploads/2026/01/next-generation-AI-data-center-campus.png" /></p><hr/><small>23 Oct 2026, 01:30 UTC | #25159</small>]]></content>
+  </entry>
+  <entry>
+    <title>Formic Raises $50 Million for Factory Robotics Deployments</title>
+    <link href="https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments" rel="alternate" />
+    <id>https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments::v240</id>
+    <published>2026-10-22T20:13:00+00:00</published>
+    <updated>2026-10-22T20:13:00+00:00</updated>
+    <media:thumbnail url="https://sg-imgs.dealroom.co/a7a5c2b1cf1a95f161178259e53c836d.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/pro/all-deals/2026/10/22/formic-50m-robotics-deployments">axios.com</a></small></p><hr/><p>Chicago-based Formic has raised $50 million in a financing round consisting of a $40 million Series B and $10 million in asset-backed financing. The company operates a physical AI commercialization platform that provides robots-as-a-service automation to manufacturers.</p><p>The new capital will be used to expand its robotics deployments across U.S. factories. Formic's model allows industrial businesses to adopt turnkey robotic systems without prohibitive upfront capital costs, helping them scale case packing, palletizing, and other repetitive tasks.</p><p><img src="https://sg-imgs.dealroom.co/a7a5c2b1cf1a95f161178259e53c836d.jpeg" /></p><hr/><small>23 Oct 2026, 00:55 UTC | #25161</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI, Anthropic, and Nvidia Report Record Lobbying Spending in Q3</title>
+    <link href="https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records" rel="alternate" />
+    <id>https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records::v240</id>
+    <published>2026-10-22T17:46:00+00:00</published>
+    <updated>2026-10-22T17:46:00+00:00</updated>
+    <media:thumbnail url="https://memeburn.com/wp-content/uploads/2026/06/nvidia-lobbying-spending-has-exploded.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records">theverge.com</a></small></p><hr/><p>Anthropic, OpenAI, and Nvidia each reported their highest-spending lobbying quarters between July and September, according to federal disclosures. Nvidia led the group by spending $2.2 million, closely followed by Anthropic at $2.1 million and OpenAI at $1.5 million, reflecting an intensified effort by artificial intelligence firms to shape federal policy.</p><p>The increased expenditures coincide with heightened engagement between tech executives and Washington officials, including discussions surrounding AI safety frameworks, export controls, and data center energy costs. As lawmakers prepare for shifting congressional control following midterm elections, major AI developers continue to expand their political footprint alongside established technology companies like Apple and Google.</p><p><img src="https://memeburn.com/wp-content/uploads/2026/06/nvidia-lobbying-spending-has-exploded.jpeg" /></p><hr/><small>22 Oct 2026, 23:43 UTC | #25139</small>]]></content>
+  </entry>
+  <entry>
+    <title>Former OpenAI Science Head Kevin Weil Launches Warp Sciences with $215 Million</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-22/ex-openai-science-head-kevin-weil-launches-startup-with-215-million" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-22/ex-openai-science-head-kevin-weil-launches-startup-with-215-million::v240</id>
+    <published>2026-10-22T17:40:00+00:00</published>
+    <updated>2026-10-22T17:40:00+00:00</updated>
+    <media:thumbnail url="https://files.tradersunion.com/images/regional-news/custom-by-date/2026/10/22/small/3932425_768.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-22/ex-openai-science-head-kevin-weil-launches-startup-with-215-million">bloomberg.com</a></small></p><hr/><p>Kevin Weil, the former head of OpenAI's AI-for-science division, has launched a new startup named Warp Sciences with $215 million in funding. The company aims to use artificial intelligence and automated robotics to accelerate chemistry and drug discovery.</p><p>Lightspeed Venture Partners led the financing round, with participation from IVP, Premji Invest, and Lux Capital, valuing the startup at $865 million post-money. Warp Sciences is building U.S.-based chemistry infrastructure designed to automate labor-intensive phases of pharmaceutical development currently outsourced overseas.</p><p><img src="https://files.tradersunion.com/images/regional-news/custom-by-date/2026/10/22/small/3932425_768.jpg" /></p><hr/><small>22 Oct 2026, 23:05 UTC | #25142</small>]]></content>
+  </entry>
+  <entry>
+    <title>Maxinsights Raises $30 Million Seed Funding Led by Peak XV for Robot Training Data</title>
+    <link href="https://www.forbes.com/sites/johnkoetsier/2026/10/22/theres-not-enough-robot-training-data-this-startup-plans-to-fix-that/" rel="alternate" />
+    <id>https://www.forbes.com/sites/johnkoetsier/2026/10/22/theres-not-enough-robot-training-data-this-startup-plans-to-fix-that/::v240</id>
+    <published>2026-10-22T16:03:00+00:00</published>
+    <updated>2026-10-22T16:03:00+00:00</updated>
+    <media:thumbnail url="https://c0a6be58.delivery.rocketcdn.me/wp-content/uploads/2026/06/Blog-SM_Robot-Training-Data-Manipulation-Datasets-2026-Guide.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.forbes.com/sites/johnkoetsier/2026/10/22/theres-not-enough-robot-training-data-this-startup-plans-to-fix-that/">forbes.com</a> | <a href="https://www.businesswire.com/news/home/20261022672609/en/Waymo-Google-and-Microsoft-Alums-Raise-$30M-to-Build-the-Data-Layer-for-Physical-AI">source</a></small></p><hr/><p>Maxinsights has raised $30 million in a seed funding round led by Peak XV to address the shortage of training data for physical AI and humanoid robots. The company collects first-person video footage from thousands of contractors wearing cameras to build a comprehensive data layer for robotics.</p><p>Founded by alumni from Waymo, Google, and Microsoft, the startup leverages its network of over 5,000 contractors to capture real-world operational data. The funding arrives amid increasing capital investments in physical AI, as the robotics industry works to overcome critical data bottlenecks in training autonomous systems.</p><p><img src="https://c0a6be58.delivery.rocketcdn.me/wp-content/uploads/2026/06/Blog-SM_Robot-Training-Data-Manipulation-Datasets-2026-Guide.jpg" /></p><hr/><small>22 Oct 2026, 22:23 UTC | #25146</small>]]></content>
+  </entry>
+  <entry>
+    <title>DeepSeek Raises $15 Billion in New Funding Round</title>
+    <link href="https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/::v240</id>
+    <published>2026-10-22T13:40:00+00:00</published>
+    <updated>2026-10-22T13:40:00+00:00</updated>
+    <media:thumbnail url="https://www.reuters.com/resizer/v2/YITV5M6EQROTLAT7PG5VB5NEZE.jpg?auth=3f3eb42d144e24f72d366c05aea9c685de0095c9ce129c0bde16976264004eb4&amp;width=1920&amp;quality=80" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/">techcrunch.com</a> | <a href="https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs">source</a> | <a href="https://news.ycombinator.com/item?id=50195956">hacker news</a></small></p><hr/><p>Chinese artificial intelligence startup DeepSeek has raised approximately 100 billion yuan ($15 billion) in a major funding round backed by investors including Tencent and CATL. The financing ranks as one of the largest in China and comes just days after the U.S. government ordered federal agencies to remove DeepSeek technology over security concerns.</p><p>The Hangzhou-based startup plans to direct the capital toward expanding its AI infrastructure and open-weight models for both domestic and international markets ahead of a potential initial public offering. This follows earlier funding rounds earlier in the year as Chinese AI labs continue securing substantial capital to compete globally.</p><p><img src="https://www.reuters.com/resizer/v2/YITV5M6EQROTLAT7PG5VB5NEZE.jpg?auth=3f3eb42d144e24f72d366c05aea9c685de0095c9ce129c0bde16976264004eb4&width=1920&quality=80" /></p><hr/><small>22 Oct 2026, 18:31 UTC | #25126</small>]]></content>
+  </entry>
+  <entry>
+    <title>Barclays to Cut 5,000 Jobs in AI Efficiency Drive</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-22/barclays-to-cut-5-000-jobs-as-ai-starts-creating-efficiency" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-22/barclays-to-cut-5-000-jobs-as-ai-starts-creating-efficiency::v240</id>
+    <published>2026-10-22T09:46:00+00:00</published>
+    <updated>2026-10-22T09:46:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D10AQEQ-0XitPhGwQ/image-shrink_800/B4DZxV0oIIKEAk-/0/1770966385569?e=2147483647&amp;v=beta&amp;t=ZF1Qdc4xT-lgD-gElcP1IuPzIdoKHwvKEZTVifnSFg0" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-22/barclays-to-cut-5-000-jobs-as-ai-starts-creating-efficiency">bloomberg.com</a> | <a href="https://www.reuters.com/business/world-at-work/barclays-cut-5000-jobs-this-year-2026-10-22/">source</a></small></p><hr/><p>British banking giant Barclays has announced plans to cut approximately 5,000 jobs, or 5% of its workforce, by the end of 2026 as part of a broader cost-reduction strategy. The bank stated that the reductions are driven by the integration of artificial intelligence and new technologies to streamline operations.</p><p>Around 60% of the affected positions are expected to come from support functions and software development roles. The move highlights the accelerating adoption of AI tools within the financial sector to lower fixed costs and improve overall operational returns.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D10AQEQ-0XitPhGwQ/image-shrink_800/B4DZxV0oIIKEAk-/0/1770966385569?e=2147483647&v=beta&t=ZF1Qdc4xT-lgD-gElcP1IuPzIdoKHwvKEZTVifnSFg0" /></p><hr/><small>22 Oct 2026, 17:46 UTC | #25110</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta to Issue Non-Voting Stock to Fund AI Development</title>
+    <link href="https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/::v240</id>
+    <published>2026-10-22T07:10:00+00:00</published>
+    <updated>2026-10-22T07:10:00+00:00</updated>
+    <media:thumbnail url="https://s3.tradingview.com/news/image/invezz:b233089a2094b-45111c64d94f6264862fb7a752ded512-resized.jpeg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/">techcrunch.com</a> | <a href="https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx">source</a></small></p><hr/><p>Meta plans to issue a new class of non-voting Class C common stock to fund its artificial intelligence buildout. During its third-quarter 2026 earnings report, the company confirmed the new shares will be distributed to all existing shareholders through a stock dividend. This move is intended to provide flexibility for capital raising, acquisitions, and employee compensation while preserving the voting power of current Class A and B shareholders.</p><p>Meta reported $64 billion in revenue for the quarter, a 26% increase year-over-year. While the Reality Labs division continues to report significant losses, Meta expects those losses to shrink to between $18 billion and $19 billion. Additionally, CEO Mark Zuckerberg noted that the company's Muse personal agents have reached more than 10 million users in the U.S. and Canada.</p><p><img src="https://s3.tradingview.com/news/image/invezz:b233089a2094b-45111c64d94f6264862fb7a752ded512-resized.jpeg" /></p><hr/><small>22 Oct 2026, 17:36 UTC | #25127</small>]]></content>
+  </entry>
+  <entry>
+    <title>Axel Springer CEO Mathias Döpfner Proposed Bid for TikTok European Operations</title>
+    <link href="https://www.ft.com/content/171220b9-8d8e-4d82-a866-f9aaf258e0fb" rel="alternate" />
+    <id>https://www.ft.com/content/171220b9-8d8e-4d82-a866-f9aaf258e0fb::v240</id>
+    <published>2026-10-22T07:01:00+00:00</published>
+    <updated>2026-10-22T07:01:00+00:00</updated>
+    <media:thumbnail url="https://i.gazeteoksijen.com/storage/files/images/2022/09/15/medya-dunyasinin-guclu-ceosuna-agir-suclama-aXVU.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/171220b9-8d8e-4d82-a866-f9aaf258e0fb">ft.com</a></small></p><hr/><p>Axel Springer chief executive Mathias Döpfner proposed that the German media group participate in a bid to acquire TikTok's European business operations. Döpfner floated the idea during a lunch meeting with Charles Kushner, the US ambassador to France.</p><p>The proposal mirrors the structure used in discussions to restructure TikTok's US operations to address national security concerns regarding Chinese ownership. Axel Springer, which owns outlets including Politico and The Telegraph, is pursuing a European ownership solution for the short-form video platform.</p><p><img src="https://i.gazeteoksijen.com/storage/files/images/2022/09/15/medya-dunyasinin-guclu-ceosuna-agir-suclama-aXVU.jpg" /></p><hr/><small>22 Oct 2026, 17:04 UTC | #25105</small>]]></content>
+  </entry>
+  <entry>
+    <title>Micron Workers Launch First Semiconductor Strike in Taiwan Over Profit-Sharing</title>
+    <link href="https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-begins-at-micron-plant" rel="alternate" />
+    <id>https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-begins-at-micron-plant::v240</id>
+    <published>2026-10-22T06:59:00+00:00</published>
+    <updated>2026-10-22T06:59:00+00:00</updated>
+    <media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F8%2F7%2F6%2F13346787-2-eng-GB%2F33699605ac97-2026-10-15T050515Z_5463811_RC2XKNAE2RWY_RTRMADP_3_TAIWAN-MICRON.JPG?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=780" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-begins-at-micron-plant">asia.nikkei.com</a></small></p><hr/><p>Micron Technology workers at the company's Taoyuan facility in Taiwan initiated the semiconductor industry's first-ever strike in the region following a breakdown in negotiations over employee bonuses. The labor union is demanding a permanent profit-sharing system equivalent to 15% of operating profits to better reflect record earnings driven by the artificial intelligence memory boom.</p><p>The labor dispute highlights tensions between memory chipmakers enjoying massive windfalls from AI demand and the workforce pushing for larger compensation packages. Representatives from the union and management have remained at odds despite previous bonus announcements, as the strike threatens to impact critical manufacturing hubs within the global AI supply chain.</p><p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F8%2F7%2F6%2F13346787-2-eng-GB%2F33699605ac97-2026-10-15T050515Z_5463811_RC2XKNAE2RWY_RTRMADP_3_TAIWAN-MICRON.JPG?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=780" /></p><hr/><small>22 Oct 2026, 17:01 UTC | #25101</small>]]></content>
+  </entry>
+  <entry>
+    <title>DeepSeek Raises $15 Billion in Latest Funding Round</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs::v240</id>
+    <published>2026-10-22T03:01:00+00:00</published>
+    <updated>2026-10-22T03:01:00+00:00</updated>
+    <media:thumbnail url="https://theaicronicle.com/storage/articles/e3742032-a667-48ce-9124-550a767c914e.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs">bloomberg.com</a></small></p><hr/><p>Chinese artificial intelligence startup DeepSeek has secured approximately 100 billion yuan ($15 billion) in its latest fundraising round. The Hangzhou-based firm steadily increased its financing target from an initial 50 billion yuan to accommodate strong investor demand.</p><p>Major backers in the round include battery manufacturer Contemporary Amperex Technology Co. Ltd. and WeChat operator Tencent Holdings Ltd. The massive capital injection highlights the company's expanding ambitions to challenge leading Western artificial intelligence labs like OpenAI and Anthropic.</p><p><img src="https://theaicronicle.com/storage/articles/e3742032-a667-48ce-9124-550a767c914e.jpg" /></p><hr/><small>22 Oct 2026, 10:10 UTC | #25096</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta's Muse AI App Reaches 10 Million Users</title>
+    <link href="https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10" rel="alternate" />
+    <id>https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10::v240</id>
+    <published>2026-10-21T22:55:00+00:00</published>
+    <updated>2026-10-21T22:55:00+00:00</updated>
+    <media:thumbnail url="https://www.digitalbusiness.africa/wp-content/uploads/2025/04/Mark-Zuckergberg-et-Meta-AI.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.businessinsider.com/meta-q3-2026-earnings-mark-zuckerberg-muse-ai-app-users-2026-10">businessinsider.com</a> | <a href="https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302915964.html">source</a></small></p><hr/><p>Meta's Muse personal AI agent app has surpassed 10 million users since its September launch, CEO Mark Zuckerberg announced. More than 25% of users have made purchases through the app, with an average transaction size exceeding $200.</p><p>The figures were disclosed during Meta's third-quarter 2026 earnings report. These metrics indicate high user engagement and significant early monetization success for the company's AI-driven consumer application.</p><p><img src="https://www.digitalbusiness.africa/wp-content/uploads/2025/04/Mark-Zuckergberg-et-Meta-AI.png" /></p><hr/><small>22 Oct 2026, 04:26 UTC | #25072</small>]]></content>
+  </entry>
+  <entry>
+    <title>Blackstone's Jas Khaira Says AI Infrastructure Debt Fears Are Overblown</title>
+    <link href="https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/::v240</id>
+    <published>2026-10-21T22:52:00+00:00</published>
+    <updated>2026-10-21T22:52:00+00:00</updated>
+    <media:thumbnail url="https://news-images.dhan.co/coreweave-bond-yields-top-16-signaling-distress-ai-debt-market.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/">techcrunch.com</a></small></p><hr/><p>Blackstone's Jas Khaira, head of the firm's AI-focused Blackstone N1 unit, argues that concerns regarding the massive debt accumulation in AI infrastructure are exaggerated. He maintains that credit risk is mitigated because financing for neoclouds is often secured by high-value GPU collateral and long-term contracts from creditworthy customers like Microsoft and Meta.</p><p>This comes amid market jitters caused by rising interest rates and the significant debt loads of providers like CoreWeave, which has reached approximately $50 billion. While some investors worry about the stability of GPU-backed collateral, Blackstone continues to expand its AI involvement through compute financing and joint ventures like "Ode with Anthropic."</p><p><img src="https://news-images.dhan.co/coreweave-bond-yields-top-16-signaling-distress-ai-debt-market.jpg" /></p><hr/><small>22 Oct 2026, 03:59 UTC | #25085</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta to Create New Class of Nonvoting Stock to Fund AI Development</title>
+    <link href="https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?st=Uj26V6&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?st=Uj26V6&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-10-21T21:23:00+00:00</published>
+    <updated>2026-10-21T21:23:00+00:00</updated>
+    <media:thumbnail url="https://watcher.guru/news/wp-content/uploads/2025/05/meta-platforms-stock-mark-zuckerberg.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?st=Uj26V6&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Meta Platforms plans to issue a new class of nonvoting stock, effective January 2027, to raise capital for artificial intelligence development. The announcement follows the company's report of record third-quarter revenue totaling $64.2 billion.</p><p>The new share class is intended to fund AI-related capital expenditures without diluting Mark Zuckerberg's voting control. The move supports Meta's ongoing strategy to invest heavily in AI infrastructure and model development.</p><p><img src="https://watcher.guru/news/wp-content/uploads/2025/05/meta-platforms-stock-mark-zuckerberg.jpg" /></p><hr/><small>22 Oct 2026, 03:32 UTC | #25076</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nielsen Survey Finds AI Adoption Increases Management and Evaluation Challenges</title>
+    <link href="https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/::v240</id>
+    <published>2026-10-21T15:40:00+00:00</published>
+    <updated>2026-10-21T15:40:00+00:00</updated>
+    <media:thumbnail url="https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2020/11/Screenshot-2026-06-07-at-12.34.32-scaled.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/">techcrunch.com</a> | <a href="https://monday.com/gp/ai-report-2026">source</a></small></p><hr/><p>A Nielsen survey commissioned by Monday.com of more than 1,700 directors and senior managers reveals that over half of leaders find it harder to evaluate employee work following AI adoption because outputs arrive heavily polished. Nearly half of respondents report spending more time reviewing and guiding teams, creating an unexpected layer of invisible supervision as tools outpace organizational adaptation.</p><p>Despite widespread enthusiasm for AI, organizations are experiencing expanding software stacks and fragmented infrastructure rather than the expected consolidation. A significant portion of leaders are now relying on AI to draft performance reviews or inform decisions, raising concerns regarding algorithmic bias, accountability, and the looming transition toward overseeing autonomous AI agents.</p><p><img src="https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2020/11/Screenshot-2026-06-07-at-12.34.32-scaled.png" /></p><hr/><small>21 Oct 2026, 21:39 UTC | #25022</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nvidia CEO Jensen Huang Urges European Industries to Adopt Artificial Intelligence</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai::v240</id>
+    <published>2026-10-21T15:33:00+00:00</published>
+    <updated>2026-10-21T15:33:00+00:00</updated>
+    <media:thumbnail url="https://s.yimg.com/ny/api/res/1.2/W6yG3hoOIcF6sQYnmR7V2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/cb1c0260-2165-11f1-a9fd-86634749e888" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai">bloomberg.com</a> | <a href="https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/">source</a></small></p><hr/><p>During his keynote address at GTC Berlin, Nvidia Chief Executive Officer Jensen Huang called on European businesses to accelerate artificial intelligence adoption across all sectors. He emphasized that establishing a robust regional AI economy requires end markets and traditional industries to fully integrate AI technologies.</p><p>The address coincided with Nvidia's broader announcements at the Berlin conference, including modular AI factory designs and infrastructure partnerships aimed at bolstering Europe's technological deployment. Huang also met with regional political leaders to discuss local AI roadmaps and the expansion of accelerated computing infrastructure.</p><p><img src="https://s.yimg.com/ny/api/res/1.2/W6yG3hoOIcF6sQYnmR7V2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/cb1c0260-2165-11f1-a9fd-86634749e888" /></p><hr/><small>21 Oct 2026, 21:31 UTC | #25011</small>]]></content>
+  </entry>
+  <entry>
+    <title>eBay to Lay Off 9% of Workforce to Simplify Operations</title>
+    <link href="https://www.reuters.com/business/world-at-work/ebay-lay-off-9-workforce-push-simplify-operations-internal-memo-shows-2026-10-21/" rel="alternate" />
+    <id>https://www.reuters.com/business/world-at-work/ebay-lay-off-9-workforce-push-simplify-operations-internal-memo-shows-2026-10-21/::v240</id>
+    <published>2026-10-21T15:30:00+00:00</published>
+    <updated>2026-10-21T15:30:00+00:00</updated>
+    <media:thumbnail url="https://res.cloudinary.com/people-matters/image/upload/v1683005372/1_oetjxg.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/world-at-work/ebay-lay-off-9-workforce-push-simplify-operations-internal-memo-shows-2026-10-21/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50185411">hacker news</a></small></p><hr/><p>eBay is cutting approximately 9% of its workforce, equating to about 1,000 full-time positions, as part of a restructuring plan detailed in an internal memo by CEO Jamie Iannone. The online marketplace aims to streamline its organizational structure and reallocate resources toward its fastest-growing business segments.</p><p>This reduction follows previous downsizing efforts by the company, including a 6% staff reduction enacted earlier in the year. The latest round of layoffs highlights ongoing adjustments within the e-commerce sector as established firms seek operational efficiencies and leaner cost structures.</p><p><img src="https://res.cloudinary.com/people-matters/image/upload/v1683005372/1_oetjxg.png" /></p><hr/><small>21 Oct 2026, 21:28 UTC | #25005</small>]]></content>
+  </entry>
+  <entry>
+    <title>Coherence Neuro Secures $45 Million Seed Funding for Cancer-Detecting Brain Implants</title>
+    <link href="https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/" rel="alternate" />
+    <id>https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/::v240</id>
+    <published>2026-10-21T14:14:00+00:00</published>
+    <updated>2026-10-21T14:14:00+00:00</updated>
+    <media:thumbnail url="https://nypost.com/wp-content/uploads/sites/2/2023/09/NYPICHPDPICT000048187607.jpg?quality=75&amp;strip=all" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/">wired.com</a></small></p><hr/><p>Coherence Neuro has secured $45 million in a seed funding round backed by the OpenAI Startup Fund and Peter Thiel’s Founders Fund. The San Francisco-based startup is developing brain-computer interfaces designed to detect and treat brain cancer by decoding subtle neural signals and delivering targeted electrical stimulation.</p><p>The company recently tested the recording capabilities of its implant in three patients undergoing tumor removal surgery and is preparing for long-term clinical trials targeting glioblastoma. Although OpenAI is an investor, Coherence stated that the AI lab will not receive access to any patient health or neural data generated by the devices.</p><p><img src="https://nypost.com/wp-content/uploads/sites/2/2023/09/NYPICHPDPICT000048187607.jpg?quality=75&strip=all" /></p><hr/><small>21 Oct 2026, 18:09 UTC | #24999</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nvidia Launches DSX POD and Vera-Rubin Reference Architecture for AI Data Centers</title>
+    <link href="https://www.datacenterdynamics.com/en/news/nvidia-launches-dsx-pod-claims-the-vera-rubin-reference-architecture-will-make-ai-data-centers-more-water-and-energy-efficient/" rel="alternate" />
+    <id>https://www.datacenterdynamics.com/en/news/nvidia-launches-dsx-pod-claims-the-vera-rubin-reference-architecture-will-make-ai-data-centers-more-water-and-energy-efficient/::v240</id>
+    <published>2026-10-21T14:06:00+00:00</published>
+    <updated>2026-10-21T14:06:00+00:00</updated>
+    <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202603/nvidia-vera-rubin-dsx.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.datacenterdynamics.com/en/news/nvidia-launches-dsx-pod-claims-the-vera-rubin-reference-architecture-will-make-ai-data-centers-more-water-and-energy-efficient/">datacenterdynamics.com</a> | <a href="https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment">source</a></small></p><hr/><p>Nvidia has launched the DSX POD, a modular, containerized version of its Vera-Rubin reference architecture designed to improve water and power efficiency in AI data centers. Scheduled for delivery in early 2027 through various industry partners, the system aims to reduce deployment times at prepared sites from six months to 14 days.</p><p>The platform combines closed-loop liquid cooling with dry-cooler heat rejection to eliminate water consumption in cooling by up to 100 percent, potentially saving millions of liters daily at large scales. Additionally, features like DSX MaxLPS and DSX Flex optimize power consumption and allow data centers to dynamically respond to electrical grid demands and energy spikes.</p><p><img src="https://iprsoftwaremedia.com/219/files/202603/nvidia-vera-rubin-dsx.jpeg" /></p><hr/><small>21 Oct 2026, 17:36 UTC | #24995</small>]]></content>
+  </entry>
+  <entry>
+    <title>Micron Reaches Labor Agreement With Taichung Union in Taiwan</title>
+    <link href="https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/" rel="alternate" />
+    <id>https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/::v240</id>
+    <published>2026-10-21T09:46:00+00:00</published>
+    <updated>2026-10-21T09:46:00+00:00</updated>
+    <media:thumbnail url="https://dmassets.micron.com/is/image/microntechnology/location-tiachung-taiwan-site:3-2-all-others?ts=1740519551882&amp;dpr=off" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/business/world-at-work/micron-says-it-has-reached-agreement-with-taiwan-union-2026-10-21/">reuters.com</a></small></p><hr/><p>Micron Technology's Taiwan subsidiary and a labor union representing workers at its Taichung facility have signed a multi-issue labor-management agreement. The deal successfully resolved local tensions and prompted both parties to withdraw from a scheduled mediation session, though specific terms of the agreement were not disclosed.</p><p>The agreement covers Micron's largest manufacturing site in Taiwan. However, labor tensions persist elsewhere in the region, as a separate union representing workers at Micron's Taoyuan facility continues to pursue strike action amid ongoing disputes regarding bonuses and profit-sharing.</p><p><img src="https://dmassets.micron.com/is/image/microntechnology/location-tiachung-taiwan-site:3-2-all-others?ts=1740519551882&dpr=off" /></p><hr/><small>21 Oct 2026, 17:05 UTC | #24991</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta Suspends Muse Conversation Sharing After Security Flaw Exposes Private Chats</title>
+    <link href="https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/" rel="alternate" />
+    <id>https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/::v240</id>
+    <published>2026-10-21T09:34:00+00:00</published>
+    <updated>2026-10-21T09:34:00+00:00</updated>
+    <media:thumbnail url="https://mundobytes.com/wp-content/uploads/2025/03/usar-Meta-AI-en-Whatsapp-8.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/">arstechnica.com</a> | <a href="https://blog.claroc.io/ghostshares-muse-passive-dns">source</a> | <a href="https://news.ycombinator.com/item?id=50174687">hacker news</a></small></p><hr/><p>Meta has suspended the conversation-sharing feature of its Muse AI assistant after security researchers discovered that shared chat links could be easily enumerated through public passive DNS records. Researchers from Claroc found that Muse generated share URLs containing descriptive chat titles within subdomains, allowing outsiders to uncover more than 6,800 active shared links without authorization.</p><p>An examination of the exposed links revealed confidential business and personal data, including executive-search notes, internal revenue reviews, loan applications, and staff vacation calendars. Meta paused the functionality following a bug bounty report from Claroc while the company reviews how the links are structured and discoverable.</p><p><img src="https://mundobytes.com/wp-content/uploads/2025/03/usar-Meta-AI-en-Whatsapp-8.jpg" /></p><hr/><small>21 Oct 2026, 17:00 UTC | #25028</small>]]></content>
+  </entry>
+  <entry>
+    <title>Samsung and SK Hynix Upgrading China Fabs for Advanced NAND Flash Production</title>
+    <link href="https://www.reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21/" rel="alternate" />
+    <id>https://www.reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21/::v240</id>
+    <published>2026-10-21T09:20:00+00:00</published>
+    <updated>2026-10-21T09:20:00+00:00</updated>
+    <media:thumbnail url="https://img.digitimes.com/newsshow/20260423pd213_files/4_b.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/china/samsung-sk-hynix-upgrading-china-plants-make-more-advanced-chips-people-say-2026-10-21/">reuters.com</a></small></p><hr/><p>Samsung Electronics and SK Hynix are upgrading their manufacturing plants in China to produce advanced NAND flash memory chips featuring more than 200 layers. The strategic shift is designed to meet high artificial intelligence-driven demand and fend off intense competition from fast-growing domestic Chinese rivals like YMTC.</p><p>Samsung is transitioning its Xi'an facility to higher-generation V8 and V9 nodes, while SK Hynix is advancing output at its Dalian fab. These production upgrades proceed despite ongoing U.S. export control constraints and aim to secure market share and improve profitability in the high-density memory sector.</p><p><img src="https://img.digitimes.com/newsshow/20260423pd213_files/4_b.jpg" /></p><hr/><small>21 Oct 2026, 13:33 UTC | #24982</small>]]></content>
+  </entry>
+  <entry>
+    <title>NextDC Shares Fall Following Earnings Forecast Cut and Melbourne Power Delay</title>
+    <link href="https://www.ft.com/content/023caf76-40df-485d-8a28-0ff62aa7ec6f" rel="alternate" />
+    <id>https://www.ft.com/content/023caf76-40df-485d-8a28-0ff62aa7ec6f::v240</id>
+    <published>2026-10-21T06:02:00+00:00</published>
+    <updated>2026-10-21T06:02:00+00:00</updated>
+    <media:thumbnail url="https://images.fintel.io/nextdc-quant-coverage-initiation-playing-the-ai-boom-with-a-offshore-attractive-infrastructure-opportunity-992.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/023caf76-40df-485d-8a28-0ff62aa7ec6f">ft.com</a> | <a href="https://www.eqs-news.com/news/ad-hoc/nextdc-limited-m3-melbourne-power-delay-and-revised-fy27-guidance/bb803c03-73bf-497f-9ec1-c6c2a5ec2c77_en">source</a></small></p><hr/><p>Australian data center operator NextDC experienced a significant share price decline, falling as much as 44 percent after slashing its earnings forecast by over a third. The downgrade followed delays in electricity network upgrades at its M3 Melbourne facility, which postponed expected power increases.</p><p>The sharp downturn compounds broader sector volatility and coincides with reports that Nvidia has held talks regarding a capital injection into Firmus following a failed IPO. In response to the infrastructure delay, NextDC revised its financial outlook and adjusted its capital expenditure plans.</p><p><img src="https://images.fintel.io/nextdc-quant-coverage-initiation-playing-the-ai-boom-with-a-offshore-attractive-infrastructure-opportunity-992.jpg" /></p><hr/><small>21 Oct 2026, 11:51 UTC | #24976</small>]]></content>
+  </entry>
+  <entry>
+    <title>DayOne Data Centers Weighs US IPO Delay or Size Cut Amid Market Volatility</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-21/dayone-is-said-to-weigh-options-for-us-ipo-amid-data-center-rout" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-21/dayone-is-said-to-weigh-options-for-us-ipo-amid-data-center-rout::v240</id>
+    <published>2026-10-21T03:05:00+00:00</published>
+    <updated>2026-10-21T03:05:00+00:00</updated>
+    <media:thumbnail url="https://cassette.sphdigital.com.sg/image/businesstimes/f4d7ffe0daa55fe8122a14f6a79a5105dc0ef2a22cce8187543210b6940ddd33?w=960&amp;dpr=1&amp;f=webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-21/dayone-is-said-to-weigh-options-for-us-ipo-amid-data-center-rout">bloomberg.com</a></small></p><hr/><p>DayOne Data Centers Ltd. is evaluating options for its planned US initial public offering, including potentially delaying the share sale or reducing its target size. The company is considering a listing that could raise between $2.5 billion and $3 billion, down from an initial goal of seeking up to $5 billion in the fourth quarter.</p><p>The reassessment comes amid increased market volatility and a sector-wide rout affecting data center companies. DayOne had previously pursued the multibillion-dollar listing to capitalize on strong investor demand driven by the artificial intelligence infrastructure boom.</p><p><img src="https://cassette.sphdigital.com.sg/image/businesstimes/f4d7ffe0daa55fe8122a14f6a79a5105dc0ef2a22cce8187543210b6940ddd33?w=960&dpr=1&f=webp" /></p><hr/><small>21 Oct 2026, 09:51 UTC | #24974</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nvidia in Talks to Invest in Australian Cloud Provider Firmus After IPO Cancellation</title>
+    <link href="https://www.theinformation.com/articles/nvidia-moves-back-gpu-cloud-provider-firmus-investors-balk-ipo" rel="alternate" />
+    <id>https://www.theinformation.com/articles/nvidia-moves-back-gpu-cloud-provider-firmus-investors-balk-ipo::v240</id>
+    <published>2026-10-21T00:11:00+00:00</published>
+    <updated>2026-10-21T00:11:00+00:00</updated>
+    <media:thumbnail url="https://bbrw.com/wp-content/uploads/2026/07/828ef15e-2ea0-4242-93c4-a675d2aba5b8.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/nvidia-moves-back-gpu-cloud-provider-firmus-investors-balk-ipo">theinformation.com</a></small></p><hr/><p>Nvidia is in discussions to invest hundreds of millions of dollars in Firmus, an Australian artificial intelligence cloud provider. The talks follow Firmus's decision to abruptly cancel its multibillion-dollar initial public offering amid market volatility and investor pushback against high valuations.</p><p>The potential funding aligns with Nvidia's broader strategy to financially support emerging cloud providers that deploy its hardware, often through revenue-sharing agreements and financial backstops for unused infrastructure. Firmus had previously pursued a massive public listing to fund its ambitious data center expansion plans, which include a large-scale campus partnership with Nvidia.</p><p><img src="https://bbrw.com/wp-content/uploads/2026/07/828ef15e-2ea0-4242-93c4-a675d2aba5b8.png" /></p><hr/><small>21 Oct 2026, 07:13 UTC | #24965</small>]]></content>
+  </entry>
+  <entry>
+    <title>Tesla and SpaceX Form Special Committees to Explore Potential Merger</title>
+    <link href="https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees" rel="alternate" />
+    <id>https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees::v240</id>
+    <published>2026-10-20T23:04:00+00:00</published>
+    <updated>2026-10-20T23:04:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fG9HN.img?w=3555&amp;h=2666&amp;m=4&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees">theverge.com</a></small></p><hr/><p>Tesla and SpaceX have formed special committees of independent directors to discuss a potential merger, CEO Elon Musk announced during SpaceX’s third-quarter earnings call. Musk stated that while no agreement has been reached on terms and there is no guarantee a transaction will occur, he personally considers the combination a good idea.</p><p>The exploratory talks follow earlier analyst speculation regarding a potential tie-up ahead of Tesla’s annual shareholder meeting. Both companies are led by Musk, whose announcement highlights a potential consolidation of his major corporate ventures.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fG9HN.img?w=3555&h=2666&m=4&q=75" /></p><hr/><small>21 Oct 2026, 04:50 UTC | #24954</small>]]></content>
+  </entry>
+  <entry>
+    <title>Anthropic May Spend $750 Billion on Computing Costs</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says::v240</id>
+    <published>2026-10-20T22:50:00+00:00</published>
+    <updated>2026-10-20T22:50:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!byGZ!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/25bebe60-f8fd-4cd3-870e-2399c5fc4542_1106x1068.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says">bloomberg.com</a> | <a href="https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1">source</a> | <a href="https://news.ycombinator.com/item?id=50171533">hacker news</a></small></p><hr/><p>A draft IPO prospectus indicates Anthropic could spend $750 billion on additional computing power in the coming years. The company reported a net loss of $80.7 billion for the first half of 2026, up from a $13 billion loss during the same period in 2025.</p><p>Anthropic is currently preparing for an initial public offering. The projected expenditures underscore the massive capital requirements needed to scale advanced AI models and infrastructure.</p><p><img src="https://substackcdn.com/image/fetch/$s_!byGZ!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/25bebe60-f8fd-4cd3-870e-2399c5fc4542_1106x1068.png" /></p><hr/><small>21 Oct 2026, 04:01 UTC | #24945</small>]]></content>
+  </entry>
+  <entry>
+    <title>Anthropic Faces Cloud Capacity Challenges in Leaked S-1 Filing</title>
+    <link href="https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/::v240</id>
+    <published>2026-10-20T22:32:00+00:00</published>
+    <updated>2026-10-20T22:32:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/HHq6NTCXcAYOWg3.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/">techcrunch.com</a> | <a href="https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1">source</a> | <a href="https://news.ycombinator.com/item?id=50171533">hacker news</a></small></p><hr/><p>Anthropic is encountering difficulties securing sufficient cloud capacity from major hyperscalers like AWS, Google, and Microsoft, which increasingly view the AI developer as a competitor rather than a customer. According to a leaked draft of the company's S-1 filing, Anthropic projects it could spend over $750 billion on cloud and infrastructure contracts to meet its immense computing needs.</p><p>The massive infrastructure spending comes alongside an $80.7 billion net loss in the first half of the year, even as quarterly revenue surged to $16.8 billion. Facing potential liabilities and concerns over the reliability of third-party data center operators, the company is targeting a November initial public offering.</p><p><img src="https://pbs.twimg.com/media/HHq6NTCXcAYOWg3.jpg" /></p><hr/><small>21 Oct 2026, 02:28 UTC | #24952</small>]]></content>
+  </entry>
+  <entry>
+    <title>Amazon Plans to Hire Over 300,000 Workers for 2026 Holiday Season</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-20/amazon-to-hire-over-300-000-in-holiday-season-up-20-from-2025" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-20/amazon-to-hire-over-300-000-in-holiday-season-up-20-from-2025::v240</id>
+    <published>2026-10-20T22:31:00+00:00</published>
+    <updated>2026-10-20T22:31:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEUMDXMI7-chn4qafLdn72SuJzc_aZVEjZNdj5M5D6G-sg63QZmPwj8097dXG8fjGTX8DCULedkG4A_x_pQb24SxnY4Ol89iOri3IlWxmfaiDdVvLMUPuhFDLI3xpss1xHgCjRTCA_pXKw0XmLMixNM2lH8FNiHVQGayZTwN__RKjMbvq4E7_xU3Eqs0Y/w1600/Gemini_Generated_Image_ui1x7hui1x7hui1x.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-20/amazon-to-hire-over-300-000-in-holiday-season-up-20-from-2025">bloomberg.com</a> | <a href="https://www.aboutamazon.com/news/workplace/amazon-holiday-jobs-2026-seasonal-hiring-healthcare">source</a></small></p><hr/><p>Amazon plans to hire more than 300,000 workers for full-time, part-time, and seasonal roles during the 2026 holiday shopping season, representing a 20% increase from the previous year. Temporary workers will earn an average of $20 per hour across the company's core U.S. operations.</p><p>The hiring surge stands out against a slower broader retail job market. Additionally, Amazon is introducing new incentives to retain seasonal workers, offering eligible employees who work at least 30 hours per week access to healthcare coverage starting January 2027.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEUMDXMI7-chn4qafLdn72SuJzc_aZVEjZNdj5M5D6G-sg63QZmPwj8097dXG8fjGTX8DCULedkG4A_x_pQb24SxnY4Ol89iOri3IlWxmfaiDdVvLMUPuhFDLI3xpss1xHgCjRTCA_pXKw0XmLMixNM2lH8FNiHVQGayZTwN__RKjMbvq4E7_xU3Eqs0Y/w1600/Gemini_Generated_Image_ui1x7hui1x7hui1x.png" /></p><hr/><small>21 Oct 2026, 02:27 UTC | #24935</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Acquires Biotech Startup Orchestra Bio to Expand Drug Development Tools</title>
+    <link href="https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development" rel="alternate" />
+    <id>https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development::v240</id>
+    <published>2026-10-20T19:03:00+00:00</published>
+    <updated>2026-10-20T19:03:00+00:00</updated>
+    <media:thumbnail url="https://nucleovisual.com/wp-content/uploads/2026/04/OpenAI-lanza-GPT-Rosalind.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development">axios.com</a> | <a href="https://openai.com/index/openai-to-acquire-orchestra-bio/">source</a></small></p><hr/><p>OpenAI has acquired Orchestra Bio, a startup that develops artificial intelligence agents designed to assist pharmaceutical companies in managing complex drug development workflows. The acquisition aims to integrate Orchestra's technology directly into OpenAI's life sciences suite, known as Rosalind.</p><p>The deal represents a strategic expansion for OpenAI into the operational and logistical layers of pharmaceutical research, extending beyond basic biological research models. By incorporating workflow management and coordination agents, the company seeks to address bottlenecks in the multi-year process required to bring new medical treatments to patients.</p><p><img src="https://nucleovisual.com/wp-content/uploads/2026/04/OpenAI-lanza-GPT-Rosalind.jpg" /></p><hr/><small>21 Oct 2026, 01:30 UTC | #24927</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI CEO Sam Altman Outlines Three AI Endgames to Staff</title>
+    <link href="https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus" rel="alternate" />
+    <id>https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus::v240</id>
+    <published>2026-10-20T19:01:00+00:00</published>
+    <updated>2026-10-20T19:01:00+00:00</updated>
+    <media:thumbnail url="https://simoninstitute.ch/wp-content/uploads/2025/09/image-2.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/altman-describes-three-endgames-ai-including-one-single-firm-melts-everyone-elses-gpus">theinformation.com</a></small></p><hr/><p>OpenAI CEO Sam Altman recently outlined three potential endgames for advanced artificial intelligence to company employees. These scenarios include an international nuclear-style regulatory body modeled after the IAEA, a CERN-like merger of leading AI labs, or a single company achieving recursive self-improvement and monopolizing compute power to dominate rivals.</p><p>Altman reportedly dismissed the single-firm dominance scenario as a terrible outcome while expressing openness to structured international oversight and potential coordination among labs. The internal discussion highlights ongoing strategic debates within top AI companies regarding safety regulation, compute monopolies, and long-term industry consolidation.</p><p><img src="https://simoninstitute.ch/wp-content/uploads/2025/09/image-2.png" /></p><hr/><small>21 Oct 2026, 00:46 UTC | #24921</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta Chief Global Affairs Officer Joel Kaplan to Leave in 2027</title>
+    <link href="https://www.axios.com/2026/10/20/joel-kaplan-meta" rel="alternate" />
+    <id>https://www.axios.com/2026/10/20/joel-kaplan-meta::v240</id>
+    <published>2026-10-20T18:53:00+00:00</published>
+    <updated>2026-10-20T18:53:00+00:00</updated>
+    <media:thumbnail url="https://lookaside.fbsbx.com/elementpath/media/?media_id=23911816858430289&amp;version=1760013275" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/20/joel-kaplan-meta">axios.com</a></small></p><hr/><p>Meta CEO Mark Zuckerberg announced that Joel Kaplan, the company's chief global affairs officer and top Washington adviser for over 15 years, is scheduled to depart in 2027. Kaplan played a central role in managing Meta's relations in Washington and helped build ties with the incoming Trump administration.</p><p>During his tenure, Kaplan also advocated internally for maintaining Zuckerberg's free-expression policies and navigated various high-profile international regulatory challenges. His upcoming departure marks a significant leadership transition for Meta's global public policy team.</p><p><img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=23911816858430289&version=1760013275" /></p><hr/><small>20 Oct 2026, 23:17 UTC | #24911</small>]]></content>
+  </entry>
+  <entry>
+    <title>Former Google CEO Eric Schmidt Reportedly Owns 1% Stake in Anthropic Ahead of IPO</title>
+    <link href="https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/::v240</id>
+    <published>2026-10-20T18:51:00+00:00</published>
+    <updated>2026-10-20T18:51:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2023/06/hqdefault_c79236.jpg?w=480" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/">techcrunch.com</a> | <a href="https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall">source</a></small></p><hr/><p>Former Google CEO Eric Schmidt reportedly holds approximately a 1% stake in AI startup Anthropic, stemming from an early investment in the company's 2021 Series A round. This holding is roughly half the size of the 2% stake owned by co-founder and CEO Dario Amodei.</p><p>As Anthropic prepares for an anticipated public market debut with valuations estimated as high as $2 trillion, Schmidt's early financial bet is positioned to yield a massive multi-billion-dollar windfall. Schmidt has maintained an active tech investment portfolio since stepping down from Google, backing several artificial intelligence ventures through his various family offices and entities.</p><p><img src="https://techcrunch.com/wp-content/uploads/2023/06/hqdefault_c79236.jpg?w=480" /></p><hr/><small>20 Oct 2026, 23:03 UTC | #24923</small>]]></content>
+  </entry>
+  <entry>
+    <title>Daytona Raises $60 Million Series B at $1 Billion Valuation to Build Agentic Cloud</title>
+    <link href="https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/" rel="alternate" />
+    <id>https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/::v240</id>
+    <published>2026-10-20T18:46:00+00:00</published>
+    <updated>2026-10-20T18:46:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/">fortune.com</a> | <a href="https://www.daytona.io/dotfiles/daytona-raises-60m-series-b-to-build-the-agent-cloud">source</a></small></p><hr/><p>Daytona, a San Francisco startup providing virtual cloud sandboxes for AI agents, has raised a $60 million Series B funding round led by FirstMark, reaching a $1 billion valuation. The platform supplies pre-configured virtual machines that enable AI agents to safely run code, browse the web, and execute software tasks in isolated environments.</p><p>Traditional cloud providers like AWS and Azure typically require seconds or minutes to spin up virtual machines, whereas Daytona configures sandboxes in 60 milliseconds by pre-distributing snapshots onto physical server drives. The company counts major AI firms including Anthropic, OpenAI, Meta, and Cursor among its customers and plans to use the new capital—bringing its total funding to $91 million—to expand its sales and engineering operations.</p><hr/><small>20 Oct 2026, 22:06 UTC | #24903</small>]]></content>
+  </entry>
+  <entry>
+    <title>Court Records Show TikTok Executives Ignored Internal Child Safety Warnings</title>
+    <link href="https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering" rel="alternate" />
+    <id>https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering::v240</id>
+    <published>2026-10-20T16:22:00+00:00</published>
+    <updated>2026-10-20T16:22:00+00:00</updated>
+    <media:thumbnail url="https://i.kym-cdn.com/news/posts/mobile/000/002/754/tiktoknews.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering">npr.org</a></small></p><hr/><p>Previously unreported court records from federal multi-district litigation reveal that TikTok employees repeatedly raised internal alarms about child safety risks on the platform, including sexual exploitation, suicide content, and age-verification loopholes, but executives failed to act. Depositions filed in March 2026 show staffers struggling for months to elevate issues regarding minors appearing in transactional sexual content on TikTok Live and bypassing parental controls.</p><p>The documents indicate that company leaders were aware of systemic vulnerabilities, such as thousands of children appearing in livestreams that generated revenue for the platform, and deliberately avoided conducting user age surveys to skirt potential Federal Trade Commission scrutiny. While TikTok faces numerous lawsuits from states and school districts over youth addiction and harmful content, the company declined to comment on the specific allegations in the depositions.</p><p><img src="https://i.kym-cdn.com/news/posts/mobile/000/002/754/tiktoknews.jpg" /></p><hr/><small>20 Oct 2026, 20:38 UTC | #24896</small>]]></content>
+  </entry>
+  <entry>
+    <title>Former OpenAI Executive Bob McGrew Launches AI Manufacturing Startup Arda with $230 Million</title>
+    <link href="https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html::v240</id>
+    <published>2026-10-20T16:21:00+00:00</published>
+    <updated>2026-10-20T16:21:00+00:00</updated>
+    <media:thumbnail url="https://images.ctfassets.net/r1z2h4v25zaa/QeVpTJsNUS8ETAZ4Jlczq/4c606c272842be1d72c6cbbe16e9531a/50-Bob-Mcgrew-OpenAI.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html">cnbc.com</a></small></p><hr/><p>Arda, an AI manufacturing software startup founded by former OpenAI research chief Bob McGrew alongside former Palantir and Adept engineers, has raised $230 million at a $1.5 billion valuation in a funding round led by Altimeter Capital, Accel, and Khosla Ventures. The company's software functions as an interface and agent designed to help manufacturing engineers build assembly lines and adapt production processes significantly faster.</p><p>Arda's models have already been deployed with defense tech company Anduril, with plans to expand into robotics next. Investors and founders emphasize that the technology addresses the traditional months-long delays required to reconfigure automation for changing designs, presenting an opportunity to scale domestic manufacturing and address labor-intensive bottlenecks.</p><p><img src="https://images.ctfassets.net/r1z2h4v25zaa/QeVpTJsNUS8ETAZ4Jlczq/4c606c272842be1d72c6cbbe16e9531a/50-Bob-Mcgrew-OpenAI.webp" /></p><hr/><small>20 Oct 2026, 20:37 UTC | #24894</small>]]></content>
+  </entry>
+  <entry>
+    <title>Alibaba, Tencent and Huawei Build Massive AI Data Centers in Shaoguan</title>
+    <link href="https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e" rel="alternate" />
+    <id>https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e::v240</id>
+    <published>2026-10-20T14:02:00+00:00</published>
+    <updated>2026-10-20T14:02:00+00:00</updated>
+    <media:thumbnail url="https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2026/04/08/ea7fd059-b58d-4d49-ac2f-cc4848113be1_fb74d80e.jpg?itok=JqhUlng_&amp;v=1775625093" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/51a0afc0-65f3-4a51-b1af-5c6fb40a313e">ft.com</a></small></p><hr/><p>Alibaba, Tencent, and Huawei are investing billions of dollars to build large-scale AI data center complexes in Shaoguan, a mountainous and energy-rich hinterland in Guangdong province. The infrastructure push leverages the region's cheap power and cooler climate to support Beijing's strategy for domestic computing sovereignty.</p><p>Local residents have expressed frustration and anger over the rapid industrialization of their remote rural areas, citing disruptions and limited economic benefits from the projects. At the same time, major technology firms are utilizing these inland hubs to deploy domestically produced hardware, including large clusters of in-house AI chips.</p><p><img src="https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2026/04/08/ea7fd059-b58d-4d49-ac2f-cc4848113be1_fb74d80e.jpg?itok=JqhUlng_&v=1775625093" /></p><hr/><small>20 Oct 2026, 18:34 UTC | #24883</small>]]></content>
+  </entry>
+  <entry>
+    <title>UK CMA Proposes Measures to Open iPhone Contactless Payments and Lower Fees</title>
+    <link href="https://www.reuters.com/world/britain-seeks-break-apples-grip-contactless-payments-2026-10-20/" rel="alternate" />
+    <id>https://www.reuters.com/world/britain-seeks-break-apples-grip-contactless-payments-2026-10-20/::v240</id>
+    <published>2026-10-20T13:16:00+00:00</published>
+    <updated>2026-10-20T13:16:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2a82rr.img?w=2560&amp;h=1707&amp;m=4&amp;q=100" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/britain-seeks-break-apples-grip-contactless-payments-2026-10-20/">reuters.com</a> | <a href="https://www.gov.uk/government/news/cma-outlines-proposals-to-unlock-contactless-technology-on-apple-iphone">source</a></small></p><hr/><p>The UK Competition and Markets Authority has proposed measures requiring Apple to provide rival payment providers with easier access to its iPhone contactless technology and reduce associated access fees. The regulator is accepting feedback on the proposals through a public consultation period ending November 17.</p><p>Contactless transactions have surged in popularity, currently accounting for nearly 40% of all payments in the UK, with digital wallets utilized by over 60% of adults. The proposed rules aim to foster fintech competition and innovation by lowering barriers for alternative mobile payment services on iOS.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2a82rr.img?w=2560&h=1707&m=4&q=100" /></p><hr/><small>20 Oct 2026, 17:54 UTC | #24874</small>]]></content>
+  </entry>
+  <entry>
+    <title>Pew Research Center Survey Finds 20% of U.S. Adults Regularly Get News on TikTok</title>
+    <link href="https://www.pewresearch.org/short-reads/2026/10/19/1-in-5-americans-regularly-get-news-on-tiktok-2/" rel="alternate" />
+    <id>https://www.pewresearch.org/short-reads/2026/10/19/1-in-5-americans-regularly-get-news-on-tiktok-2/::v240</id>
+    <published>2026-10-20T13:12:00+00:00</published>
+    <updated>2026-10-20T13:12:00+00:00</updated>
+    <media:thumbnail url="https://www.pewresearch.org/wp-content/uploads/sites/20/2024/06/PI_2024.06.12_politics-across-platforms_1-01.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.pewresearch.org/short-reads/2026/10/19/1-in-5-americans-regularly-get-news-on-tiktok-2/">pewresearch.org</a> | <a href="https://www.pewresearch.org/short-reads/2026/10/19/1-in-5-americans-regularly-get-news-on-tiktok/">source</a></small></p><hr/><p>A survey by the Pew Research Center shows that 20% of U.S. adults regularly consume news on TikTok, a substantial increase from 3% in 2020. Usage is heavily skewed toward younger demographics, with 39% of adults aged 18 to 29 and 25% of those aged 30 to 49 reporting regular news consumption on the platform.</p><p>These findings highlight the ongoing shift in media consumption habits toward short-form video platforms. Although TikTok is primarily known for video sharing, it has increasingly established itself as a prominent channel for current events and information among millions of users.</p><p><img src="https://www.pewresearch.org/wp-content/uploads/sites/20/2024/06/PI_2024.06.12_politics-across-platforms_1-01.png" /></p><hr/><small>20 Oct 2026, 17:20 UTC | #24866</small>]]></content>
+  </entry>
+  <entry>
+    <title>Amazon to Invest Over €16 Billion in Germany in 2027</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-20/amazon-pledges-16-billion-in-germany-on-data-centers-prime" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-20/amazon-pledges-16-billion-in-germany-on-data-centers-prime::v240</id>
+    <published>2026-10-20T13:11:00+00:00</published>
+    <updated>2026-10-20T13:11:00+00:00</updated>
+    <media:thumbnail url="https://theoutpost.ai/_next/image/?url=https://cdn.theoutpost.ai/files/article_445777_1200x800_1777587355551_e8d567dac2.jpg&amp;w=1080&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-20/amazon-pledges-16-billion-in-germany-on-data-centers-prime">bloomberg.com</a> | <a href="https://press.aboutamazon.com/de/2026/10/invest-in-germany-summit-amazon-announces-16-billion-euro-investment-in-germany-in-2027">source</a></small></p><hr/><p>The company will direct more than €16 billion ($17.9 billion) toward German operations in 2027 to expand its technological and physical infrastructure. The funding targets AWS and AI data center expansions, the Leo satellite internet program, Prime Video media production, and a new robotics laboratory in Berlin.</p><p>This capital expenditure also supports new logistics projects designed to strengthen supply chain capabilities across the country. The move underscores a significant commitment to scaling Amazon's digital and media footprint within the German market.</p><p><img src="https://theoutpost.ai/_next/image/?url=https://cdn.theoutpost.ai/files/article_445777_1200x800_1777587355551_e8d567dac2.jpg&w=1080&q=75" /></p><hr/><small>20 Oct 2026, 17:19 UTC | #24867</small>]]></content>
+  </entry>
+  <entry>
+    <title>Otter.ai Raises $320 Million from General Catalyst for Meeting Tool</title>
+    <link href="https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/::v240</id>
+    <published>2026-10-20T11:02:00+00:00</published>
+    <updated>2026-10-20T11:02:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/">techcrunch.com</a> | <a href="https://otter.ai/blog/general-catalyst-backs-otter-ais-voice-ai-ambitions-with-320m-growth-investment">source</a></small></p><hr/><p>Meeting note-taking platform Otter.ai has raised $320 million in growth financing from General Catalyst’s Customer Value Fund. The non-equity, repayable funding structure provides capital tied to marketing performance without equity dilution.</p><p>The company plans to allocate the funds toward enterprise growth, go-to-market strategies, international expansion, and product innovation. The financing follows Otter surpassing $100 million in annual recurring revenue and reaching 40 million total users amid a competitive market of AI meeting assistant providers.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675" /></p><hr/><small>20 Oct 2026, 16:12 UTC | #24875</small>]]></content>
+  </entry>
+  <entry>
+    <title>Australia to Sue Meta, TikTok, Snapchat, and YouTube Over Under-16 Social Media Ban Breaches</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-20/australia-to-sue-facebook-tiktok-for-alleged-breaches-of-ban" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-20/australia-to-sue-facebook-tiktok-for-alleged-breaches-of-ban::v240</id>
+    <published>2026-10-20T03:46:00+00:00</published>
+    <updated>2026-10-20T03:46:00+00:00</updated>
+    <media:thumbnail url="https://www.greaterbelize.com/wp-content/uploads/2025/12/2-Grid-View-65.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-20/australia-to-sue-facebook-tiktok-for-alleged-breaches-of-ban">bloomberg.com</a> | <a href="https://www.esafety.gov.au/newsroom/blogs/social-media-minimum-age-compliance-report">source</a> | <a href="https://news.ycombinator.com/item?id=50161837">hacker news</a></small></p><hr/><p>Australia's eSafety Commissioner plans to initiate legal action against Meta, TikTok, Snapchat, and YouTube for alleged non-compliance with the nation's social media ban for users under 16. The planned lawsuits follow the release of the government's first compliance report highlighting widespread regulatory failures among major digital platforms.</p><p>The legislation, which represents a world-first effort to restrict youth social media access, exposes non-compliant platforms to substantial financial penalties. Regulators have expressed deep concern over the adequacy of age-verification measures implemented by the tech companies.</p><p><img src="https://www.greaterbelize.com/wp-content/uploads/2025/12/2-Grid-View-65.jpg" /></p><hr/><small>20 Oct 2026, 10:51 UTC | #24842</small>]]></content>
+  </entry>
+  <entry>
+    <title>Data-Center Firm Elice Falls in Kosdaq Trading Debut</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-20/data-center-firm-elice-plunges-32-in-debut-after-korea-ipo" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-20/data-center-firm-elice-plunges-32-in-debut-after-korea-ipo::v240</id>
+    <published>2026-10-20T02:02:00+00:00</published>
+    <updated>2026-10-20T02:02:00+00:00</updated>
+    <media:thumbnail url="https://www.mingtiandi.com/wp-content/uploads/2026/04/AirTrunk-JHB1.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-20/data-center-firm-elice-plunges-32-in-debut-after-korea-ipo">bloomberg.com</a></small></p><hr/><p>Data-center infrastructure company Elice Inc. shares plunged more than 30% during its trading debut on South Korea's Kosdaq market following an initial public offering that raised 201 billion won ($151 million).</p><p>Separately, sources reported that Australian data center operator AirTrunk has delayed its planned real estate investment trust initial public offering, highlighting shifting market dynamics for infrastructure listings.</p><p><img src="https://www.mingtiandi.com/wp-content/uploads/2026/04/AirTrunk-JHB1.jpg" /></p><hr/><small>20 Oct 2026, 07:59 UTC | #24834</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI Seeks $30 Billion in Funding Ahead of Anthropic IPO</title>
+    <link href="https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/" rel="alternate" />
+    <id>https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/::v240</id>
+    <published>2026-10-20T02:01:00+00:00</published>
+    <updated>2026-10-20T02:01:00+00:00</updated>
+    <media:thumbnail url="https://resource.tradingkey.com/uploads/20260409/SpaceX-OpenAI-Anthropic-en-2-da573d8541cc4810ae219578439203dd.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/">reuters.com</a></small></p><hr/><p>OpenAI is accelerating efforts to secure approximately $30 billion in investor commitments ahead of rival Anthropic's expected public market debut in mid-November. The fast-moving funding round could push OpenAI's valuation to over $1.4 trillion as artificial intelligence companies compete for capital.</p><p>The push comes as major AI labs prepare for closer public and investor scrutiny through upcoming public offerings and large-scale capital raises. By locking down commitments before Anthropic's IPO disclosures, OpenAI aims to secure its financial positioning and valuation in a rapidly shifting market.</p><p><img src="https://resource.tradingkey.com/uploads/20260409/SpaceX-OpenAI-Anthropic-en-2-da573d8541cc4810ae219578439203dd.jpg" /></p><hr/><small>20 Oct 2026, 06:42 UTC | #24830</small>]]></content>
+  </entry>
+  <entry>
+    <title>Waymo Plans to Expand Robotaxi Fleet to 20,000 Vehicles</title>
+    <link href="https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet" rel="alternate" />
+    <id>https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet::v240</id>
+    <published>2026-10-20T01:57:00+00:00</published>
+    <updated>2026-10-20T01:57:00+00:00</updated>
+    <media:thumbnail url="https://thesiliconreview.com/story_image_upload/article/waymo_2026-02-03_10-23-34.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet">semafor.com</a></small></p><hr/><p>Alphabet autonomous vehicle unit Waymo plans to expand its robotaxi fleet to 20,000 vehicles by the end of next year, utilizing a recently secured $5 billion debt financing package. The company currently operates approximately 4,000 vehicles and aims to double that count to 8,000 by the end of the year before scaling further.</p><p>The expansion supports Waymo's commercial push into new markets across the United States and internationally, including operations in cities like Toronto and Nashville. To accommodate the fleet growth, the company has ordered thousands of vehicles from manufacturers such as Zeekr and established local infrastructure partnerships for maintenance and charging.</p><p><img src="https://thesiliconreview.com/story_image_upload/article/waymo_2026-02-03_10-23-34.webp" /></p><hr/><small>20 Oct 2026, 06:16 UTC | #24825</small>]]></content>
+  </entry>
+  <entry>
+    <title>WhatsApp Help Pages Contained Hidden AI Instructions Restricting Regulator Recommendations</title>
+    <link href="https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions" rel="alternate" />
+    <id>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions::v240</id>
+    <published>2026-10-20T01:55:00+00:00</published>
+    <updated>2026-10-20T01:55:00+00:00</updated>
+    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA23i2Ar.img?w=768&amp;h=432&amp;m=6" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions">redact.dev</a> | <a href="https://news.ycombinator.com/item?id=50159341">hacker news</a></small></p><hr/><p>An investigation into WhatsApp’s help and FAQ pages revealed over 100 hidden instruction blocks designed for large language models. These unseen directives explicitly told the platform's support chatbot to withhold information about data protection regulators and avoid citing privacy laws like the GDPR if users mentioned legal action.</p><p>While public-facing European privacy policies affirm user rights to lodge complaints and request data erasure, the hidden prompts directed the AI to provide more restrictive answers. Meta confirmed the blocks were instructions for its internal chatbot, though the server-side text was also exposed to external web crawlers before being removed in mid-October 2026.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA23i2Ar.img?w=768&h=432&m=6" /></p><hr/><small>20 Oct 2026, 05:54 UTC | #24848</small>]]></content>
+  </entry>
+  <entry>
+    <title>Eric Schmidt Holds 1% Stake in Anthropic Ahead of Public Debut</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall::v240</id>
+    <published>2026-10-20T01:54:00+00:00</published>
+    <updated>2026-10-20T01:54:00+00:00</updated>
+    <media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5Na8bCdxvqE/v1/-1x-1.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall">bloomberg.com</a></small></p><hr/><p>Former Google Chief Executive Officer Eric Schmidt owns approximately 1% of artificial intelligence startup Anthropic following an early investment in the company's Series A fundraising round. This holding positions him for one of the largest individual financial windfalls as the company prepares for its initial public offering.</p><p>Schmidt invested tens of millions of dollars during Anthropic's formative stages, though it remains unconfirmed whether he has sold any portion of the stake since that initial funding round. Anthropic's upcoming public market debut highlights the massive returns generated by early backers in the generative AI sector.</p><p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5Na8bCdxvqE/v1/-1x-1.webp" /></p><hr/><small>20 Oct 2026, 05:52 UTC | #24826</small>]]></content>
+  </entry>
+  <entry>
+    <title>FTC Clears Publicis Acquisition of LiveRamp Under Consent Decree</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-19/ftc-requires-publicis-to-offer-equal-access-to-liveramp-data" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-19/ftc-requires-publicis-to-offer-equal-access-to-liveramp-data::v240</id>
+    <published>2026-10-20T01:00:00+00:00</published>
+    <updated>2026-10-20T01:00:00+00:00</updated>
+    <media:thumbnail url="https://mercadotecnia.portada-online.com/wp-content/uploads/2026/05/ChatGPT-Image.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-19/ftc-requires-publicis-to-offer-equal-access-to-liveramp-data">bloomberg.com</a> | <a href="https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-order-preserves-competition-digital-advertising-ecosystem-part-publiciss-acquisition-liveramp">source</a></small></p><hr/><p>The US Federal Trade Commission approved Publicis Groupe SA's $2.2 billion acquisition of LiveRamp Holdings Inc. subject to a consent decree. The agreement requires Publicis to provide neutral and nondiscriminatory access to LiveRamp's data connectivity tools for all clients and to establish firewalls protecting customer data.</p><p>The conditions aim to preserve competition within the digital advertising ecosystem by preventing Publicis from leveraging exclusive insights or appropriating customer data to disadvantage rival media companies. The regulatory clearance allows the major ad holding company to integrate LiveRamp's identity resolution and data collaboration infrastructure under strict behavioral oversight.</p><p><img src="https://mercadotecnia.portada-online.com/wp-content/uploads/2026/05/ChatGPT-Image.jpg" /></p><hr/><small>20 Oct 2026, 05:06 UTC | #24819</small>]]></content>
+  </entry>
+  <entry>
+    <title>Nscale and Anthropic in Talks for Second $45 Billion Cloud Computing Deal</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal::v240</id>
+    <published>2026-10-19T21:02:00+00:00</published>
+    <updated>2026-10-19T21:02:00+00:00</updated>
+    <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/BTBLXoJ6tF2ZZnoNuABN2F.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal">bloomberg.com</a></small></p><hr/><p>Nscale Ltd. and Anthropic PBC are reportedly in negotiations for a second major cloud computing contract valued at approximately $45 billion. The proposed agreement would supply Anthropic with 460 megawatts of computing power from Nscale's West Virginia campus.</p><p>The potential deal follows a similarly massive agreement struck between the two companies earlier in the year. The infrastructure is slated to utilize Nvidia's Vera Rubin chips to support Anthropic's expanding artificial intelligence operations.</p><p><img src="https://cdn.mos.cms.futurecdn.net/BTBLXoJ6tF2ZZnoNuABN2F.jpg" /></p><hr/><small>20 Oct 2026, 03:01 UTC | #24810</small>]]></content>
+  </entry>
+  <entry>
+    <title>DeepSeek and Huawei Collaborate on Future AI Chip Designs and Software Tools</title>
+    <link href="https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia" rel="alternate" />
+    <id>https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia::v240</id>
+    <published>2026-10-19T18:51:00+00:00</published>
+    <updated>2026-10-19T18:51:00+00:00</updated>
+    <media:thumbnail url="https://img.biggo.com/leqJK0zis07LwN81f5_RUO-TGj2uXv1V4qE30ZCtq7k/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTAyLzIwMjYwMjI3MTAyMl9EZWVwU2Vla19WNF9IdWF3ZWlfQ2hpcF9PcHRpbWl6YXRpb25fUHJpb3JpdHlfMjAyNjAyMjdfMTgzMDQ5LmpwZw.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia">theinformation.com</a></small></p><hr/><p>DeepSeek is collaborating closely with Huawei Technologies to shape the design of future AI chips, with plans to begin using Huawei's Ascend 950DT processors for model pre-training by the end of 2026. The partnership also involves developing and open-sourcing software tools and programming infrastructure optimized for the Ascend platform to support large-scale computing clusters.</p><p>The alliance represents a significant step for Chinese technology firms seeking to build domestic alternatives to Nvidia's hardware amid ongoing export restrictions. By combining DeepSeek's model training expertise with Huawei's custom silicon and supernode architecture, the companies aim to establish a viable local hardware ecosystem for advanced artificial intelligence workloads.</p><p><img src="https://img.biggo.com/leqJK0zis07LwN81f5_RUO-TGj2uXv1V4qE30ZCtq7k/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTAyLzIwMjYwMjI3MTAyMl9EZWVwU2Vla19WNF9IdWF3ZWlfQ2hpcF9PcHRpbWl6YXRpb25fUHJpb3JpdHlfMjAyNjAyMjdfMTgzMDQ5LmpwZw.jpg" /></p><hr/><small>20 Oct 2026, 00:11 UTC | #24792</small>]]></content>
+  </entry>
+  <entry>
+    <title>Vinted Faces Influx of Suspected Looted Goods Following French Riots</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-19/vinted-faces-influx-of-suspected-looted-goods-after-french-riots" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-19/vinted-faces-influx-of-suspected-looted-goods-after-french-riots::v240</id>
+    <published>2026-10-19T15:39:00+00:00</published>
+    <updated>2026-10-19T15:39:00+00:00</updated>
+    <media:thumbnail url="https://www.the-sun.com/wp-content/uploads/sites/6/2024/05/newspress-collage-djq3icfse-1715530861292.jpg?1715516621&amp;strip=all&amp;quality=100&amp;w=1920&amp;h=1080&amp;crop=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-19/vinted-faces-influx-of-suspected-looted-goods-after-french-riots">bloomberg.com</a></small></p><hr/><p>Vinted, a secondhand online marketplace, is experiencing an influx of listings suspected of containing stolen items following widespread riots in France. The civil unrest specifically targeted luxury retailers including Sephora, Louis Vuitton, and Burberry.</p><p>France serves as Vinted's largest market, making the surge of suspicious listings a significant moderation and operational challenge for the platform.</p><p><img src="https://www.the-sun.com/wp-content/uploads/sites/6/2024/05/newspress-collage-djq3icfse-1715530861292.jpg?1715516621&strip=all&quality=100&w=1920&h=1080&crop=1" /></p><hr/><small>19 Oct 2026, 19:14 UTC | #24755</small>]]></content>
+  </entry>
+  <entry>
+    <title>SemiAnalysis Forecasts +50GW of Datacenter Capacity in 2027</title>
+    <link href="https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration" rel="alternate" />
+    <id>https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration::v240</id>
+    <published>2026-10-19T15:34:00+00:00</published>
+    <updated>2026-10-19T15:34:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!1fXY!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/d8a61ab9-ad4e-43e1-b6ec-21295e10b7d4_2700x1440.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://newsletter.semianalysis.com/p/datacenters-2027-the-year-of-acceleration">newsletter.semianalysis.com</a></small></p><hr/><p>SemiAnalysis forecasts that global datacenter capacity will increase by over 50GW in 2027, driven by a significant acceleration in construction. Leading indicators, including quarterly self-build starts and over $1 trillion in non-cancellable datacenter leases signed year-to-date, support this projection. Currently, more than 24GW of datacenter capacity is in the advanced stages of construction.</p><p>To mitigate constraints in power, labor, and supply chains, industry players are increasingly adopting modular designs, prefabricated electrical components, and behind-the-meter power generation. This projected expansion is expected to significantly increase compute supply, which may lower AI costs and accelerate model development. The buildout is also diversifying geographically to bypass US-based infrastructure and regulatory hurdles.</p><p><img src="https://substackcdn.com/image/fetch/$s_!1fXY!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/d8a61ab9-ad4e-43e1-b6ec-21295e10b7d4_2700x1440.png" /></p><hr/><small>19 Oct 2026, 18:48 UTC | #24758</small>]]></content>
+  </entry>
+  <entry>
+    <title>Anthropic's Long-Term Benefit Trust Exercises Significant Governance Control</title>
+    <link href="https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-10-19T13:50:00+00:00</published>
+    <updated>2026-10-19T13:50:00+00:00</updated>
+    <media:thumbnail url="https://assets.beincrypto.com/img/mWKtOAG2gIN6i7VrsmhB47GdEvg=/smart/befb5f9e082648f4aff16820aa90ad38" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.anthropic.com/news/the-long-term-benefit-trust">source</a> | <a href="https://news.ycombinator.com/item?id=50151376">hacker news</a></small></p><hr/><p>The opaque, five-member body wields substantial influence over the company's governance and board composition. While the trustees hold no equity, they possess the authority to shape the board of directors and block major corporate actions.</p><p>The trust is composed of experts in AI safety, national security, public policy, and social enterprise. By holding Class T Common Stock, the trustees maintain significant governance power despite having negligible economic interest, a structure intended to ensure the responsible development of AI.</p><p><img src="https://assets.beincrypto.com/img/mWKtOAG2gIN6i7VrsmhB47GdEvg=/smart/befb5f9e082648f4aff16820aa90ad38" /></p><hr/><small>19 Oct 2026, 18:05 UTC | #24748</small>]]></content>
+  </entry>
+  <entry>
+    <title>Foxconn to Acquire 50% Stake in Mitsubishi Electric's Automotive Components Unit</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-19/foxconn-buys-727-million-stake-in-mitsubishi-electric-unit-that-makes-ev-parts" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-19/foxconn-buys-727-million-stake-in-mitsubishi-electric-unit-that-makes-ev-parts::v240</id>
+    <published>2026-10-19T13:42:00+00:00</published>
+    <updated>2026-10-19T13:42:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQFhstxx5Yh1sw/feedshare-shrink_800/B56ZbUjJmlHUAg-/0/1747322709187?e=2147483647&amp;v=beta&amp;t=94siZQdeGfLcl7zv12ib_4YPLqD0qPV1NnlLq368yks" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-19/foxconn-buys-727-million-stake-in-mitsubishi-electric-unit-that-makes-ev-parts">bloomberg.com</a> | <a href="https://www.foxconn.com/en-us/press-center/press-releases/latest-news/2124">source</a></small></p><hr/><p>Hon Hai Precision Industry Co. is acquiring a 50% stake in Mitsubishi Electric Corp.'s automotive components unit, Mitsubishi Electric Mobility Co., Ltd., for approximately $727 million (¥115 billion). The two companies will jointly operate the mobility business through a strategic alliance.</p><p>As part of the agreement, Mitsubishi Electric will provide autonomous driving technology for Foxconn's electric vehicle platforms. This partnership combines Mitsubishi's specialized automotive equipment expertise with Foxconn's manufacturing capabilities to advance electric vehicle production.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQFhstxx5Yh1sw/feedshare-shrink_800/B56ZbUjJmlHUAg-/0/1747322709187?e=2147483647&v=beta&t=94siZQdeGfLcl7zv12ib_4YPLqD0qPV1NnlLq368yks" /></p><hr/><small>19 Oct 2026, 17:17 UTC | #24742</small>]]></content>
+  </entry>
+  <entry>
+    <title>Elon Musk to Give One SpaceX Share to Every U.S. Child Next Year</title>
+    <link href="https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html::v240</id>
+    <published>2026-10-19T13:38:00+00:00</published>
+    <updated>2026-10-19T13:38:00+00:00</updated>
+    <media:thumbnail url="https://cdn.tuko.co.ke/images/1120/83eb10e61cd615f3.jpeg?v=1" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html">cnbc.com</a> | <a href="https://x.com/elonmusk/status/2112089556615123114">source</a> | <a href="https://news.ycombinator.com/item?id=50153188">hacker news</a></small></p><hr/><p>The proposed distribution involves one share per child, totaling approximately $10.5 billion in equity. This plan, announced Monday, would target the roughly 72 million children currently living in the United States.</p><p>The move follows Anthropic's recent proposal to commit 5% of its shares to a public benefit fund. Musk described the giveaway as "the first of many" but has not yet provided specific details on how the shares will be distributed.</p><p><img src="https://cdn.tuko.co.ke/images/1120/83eb10e61cd615f3.jpeg?v=1" /></p><hr/><small>19 Oct 2026, 16:51 UTC | #24731</small>]]></content>
+  </entry>
+</feed>

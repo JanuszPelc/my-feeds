@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>human-knowledge</title>
+  <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
+  <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
+  <updated>2026-10-23T13:42:00+00:00</updated>
+  <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png</icon>
+  <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png</logo>
+  <entry>
+    <title>Kadoa Report Finds Investor-Owned Utilities Charge 23% More For Electricity Than Public Providers</title>
+    <link href="https://www.kadoa.com/energy-prices/insights/investor-owned-utilities" rel="alternate" />
+    <id>https://www.kadoa.com/energy-prices/insights/investor-owned-utilities::v240</id>
+    <published>2026-10-23T13:42:00+00:00</published>
+    <updated>2026-10-23T13:42:00+00:00</updated>
+    <media:thumbnail url="https://www.nwcouncil.org/media/filer_public_thumbnails/filer_public/fb/94/fb949ab4-436b-4c5c-b1b6-15964013fbee/iou-vs-pou-rates_4.png__787.0x592.0_q85_subsampling-2.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.kadoa.com/energy-prices/insights/investor-owned-utilities">kadoa.com</a> | <a href="https://news.ycombinator.com/item?id=50208837">hacker news</a></small></p><hr/><p>In 2025, residential electricity customers paid an average of 17.8 cents per kilowatt-hour at investor-owned utilities, compared to 14.5 cents at public utilities and 14.1 cents at co-ops. Since 2020, investor-owned utility prices increased by 34%, outpacing both public utility price growth of 19% and general inflation of 24%.</p><p>The widening price gap primarily developed between 2020 and 2023 during a broad energy price spike, with investor-owned rates rising 25% while nonprofit utility rates rose 11%. Investor-owned utilities build shareholder returns into their rate structures, whereas public utilities and co-ops operate without shareholders and often benefit from tax exemptions and tax-free borrowing.</p><p><img src="https://www.nwcouncil.org/media/filer_public_thumbnails/filer_public/fb/94/fb949ab4-436b-4c5c-b1b6-15964013fbee/iou-vs-pou-rates_4.png__787.0x592.0_q85_subsampling-2.jpg" /></p><hr/><small>23 Oct 2026, 15:33 UTC | #25248</small>]]></content>
+  </entry>
+  <entry>
+    <title>Microsoft AI Diagnostic System Outperforms Doctors in Complex Case Study</title>
+    <link href="https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/::v240</id>
+    <published>2026-10-22T18:44:00+00:00</published>
+    <updated>2026-10-22T18:44:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-1.48.09-PM.png?w=680" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/">techcrunch.com</a> | <a href="https://microsoft.ai/news/building-medical-superintelligence/">source</a></small></p><hr/><p>Microsoft’s MAI-DxO diagnostic system, which coordinates multiple AI agents to simulate a clinical panel, correctly diagnosed complex medical cases 83% of the time in a simulation based on New England Journal of Medicine cases. By comparison, generalist physicians working individually with reference materials achieved an accuracy rate of 36% on the same complex cases.</p><p>Revealed in a study published in Science, the system achieved its highest accuracy when paired with OpenAI’s GPT-5 and GPT-5.5 models, though performance gains varied when applied to emergency department cases. Microsoft AI CEO Mustafa Suleyman noted that the work is part of a broader push toward medical superintelligence, with upcoming foundational healthcare models planned in partnership with the Mayo Clinic and Beth Israel Deaconess Medical Center.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-1.48.09-PM.png?w=680" /></p><hr/><small>22 Oct 2026, 23:54 UTC | #25170</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenAI, PerturbAI, and Scripps Research Use GPT-Rosalind Agents to Analyze Mouse Brain Cell Data</title>
+    <link href="https://openai.com/index/scaling-ai-research-for-complex-biological-data" rel="alternate" />
+    <id>https://openai.com/index/scaling-ai-research-for-complex-biological-data::v240</id>
+    <published>2026-10-21T21:21:00+00:00</published>
+    <updated>2026-10-21T21:21:00+00:00</updated>
+    <media:thumbnail url="https://ihal.it/wp-content/uploads/2026/04/OpenAI-GPT-Rosalind-AI.jpeg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://openai.com/index/scaling-ai-research-for-complex-biological-data">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50180752">hacker news</a></small></p><hr/><p>Distributed GPT-Rosalind AI agents allowed OpenAI, PerturbAI, and Scripps Research to analyze millions of mouse brain cells in 32 minutes. This process identified promising research leads in complex biological datasets, a task that would normally require months of human effort.</p><p>The agents were applied to an 8-million-cell mouse brain CRISPR atlas to uncover biological connections. This use of AI reasoning agents is intended to scale biomedical discovery and accelerate the interpretation of large-scale experimental data for potential drug discovery.</p><p><img src="https://ihal.it/wp-content/uploads/2026/04/OpenAI-GPT-Rosalind-AI.jpeg" /></p><hr/><small>22 Oct 2026, 02:54 UTC | #25078</small>]]></content>
+  </entry>
+  <entry>
+    <title>Anthropic Claude Model Designs Protein Binders Against Scorpion Neurotoxins</title>
+    <link href="https://www.anthropic.com/research/claude-scorpion-toxin-binder-design" rel="alternate" />
+    <id>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design::v240</id>
+    <published>2026-10-21T09:56:00+00:00</published>
+    <updated>2026-10-21T09:56:00+00:00</updated>
+    <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fa75592f9509840d8fe7b9137d4b76197342f9395-3923x2349.png&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.anthropic.com/research/claude-scorpion-toxin-binder-design">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50170021">hacker news</a></small></p><hr/><p>Anthropic tasked an internal research model within Claude Science to design protein minibinders targeting scorpion neurotoxins in collaboration with Citrini Research. Over a 64-hour autonomous campaign, the model generated over 318,000 designs, of which 211 were lab-tested by Adaptyv Bio and Twist Bioscience, yielding 17 designs that met strict binding criteria across four dangerous scorpion neurotoxins.</p><p>Although the binders have not yet been tested for cellular neutralization or in living animals, outside experts consider the results a promising initial step for accelerating neglected tropical disease research. Anthropic has released all 211 designs and their corresponding binding data publicly on Hugging Face to encourage further scientific development.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fa75592f9509840d8fe7b9137d4b76197342f9395-3923x2349.png&w=3840&q=75" /></p><hr/><small>21 Oct 2026, 17:06 UTC | #24992</small>]]></content>
+  </entry>
+  <entry>
+    <title>Arnaud Bertrand Examines Chinese Philosophical Perspectives on Artificial Intelligence</title>
+    <link href="https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas" rel="alternate" />
+    <id>https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas::v240</id>
+    <published>2026-10-21T09:22:00+00:00</published>
+    <updated>2026-10-21T09:22:00+00:00</updated>
+    <media:thumbnail url="https://s.yimg.com/ny/api/res/1.2/BNE4WgMSrMmm.0c7mbUa2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYzOTtjZj13ZWJw/https://media.zenfs.com/en/ny_post_articles_869/28d20097251baf43e3a21f286141c92d" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arnaudbertrand.substack.com/p/whats-left-for-us-after-ai-chinas">arnaudbertrand.substack.com</a></small></p><hr/><p>Arnaud Bertrand's essay explores artificial intelligence through the lens of Chinese philosophy, contrasting prevailing Western paradigms with alternative intellectual frameworks from Chinese thinkers.</p><p>The piece highlights prominent arguments from Chinese scholars, including the perspective that aligning artificial intelligence strictly to human values may be a dangerous endeavor, alongside deeper concerns regarding the societal "machinization of humans."</p><p><img src="https://s.yimg.com/ny/api/res/1.2/BNE4WgMSrMmm.0c7mbUa2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYzOTtjZj13ZWJw/https://media.zenfs.com/en/ny_post_articles_869/28d20097251baf43e3a21f286141c92d" /></p><hr/><small>21 Oct 2026, 13:50 UTC | #24983</small>]]></content>
+  </entry>
+  <entry>
+    <title>OpenEvidence Reaches $15 Billion Valuation Amid Rapid Adoption by US Physicians</title>
+    <link href="https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc" rel="alternate" />
+    <id>https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc::v240</id>
+    <published>2026-10-21T09:21:00+00:00</published>
+    <updated>2026-10-21T09:21:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2025/10/openevidence.png?resize=768" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/0ed17b79-47dd-4ad8-8dca-44eb35617edc">ft.com</a></small></p><hr/><p>OpenEvidence, an AI-powered medical search engine utilized by nearly two-thirds of US physicians, has achieved a $15 billion valuation following a recent funding round. The platform processes millions of monthly clinical consultations, providing rapid medical evidence and summaries for healthcare professionals.</p><p>Funded primarily through targeted pharmaceutical advertising displayed during query processing, the company is on track to generate $400 million to $500 million in ad revenue by 2026. This rapid commercial expansion has prompted broader discussions within the medical community concerning clinical decision-making and patient care.</p><p><img src="https://techcrunch.com/wp-content/uploads/2025/10/openevidence.png?resize=768" /></p><hr/><small>21 Oct 2026, 13:35 UTC | #24981</small>]]></content>
+  </entry>
+  <entry>
+    <title>Study Finds Deep-Sea Life in Gulf of Mexico Has Not Recovered 16 Years After Deepwater Horizon Spill</title>
+    <link href="https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery" rel="alternate" />
+    <id>https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery::v240</id>
+    <published>2026-10-21T09:11:00+00:00</published>
+    <updated>2026-10-21T09:11:00+00:00</updated>
+    <media:thumbnail url="https://yale-threesixty.transforms.svdcdn.com/production/Deepwater-Horizon-Spill_Wikipedia.jpg?w=1200&amp;h=800&amp;auto=compress%2Cformat&amp;fit=crop&amp;dm=1792489301&amp;s=c6e250d897ee3d628b725af45cc84599" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery">e360.yale.edu</a> | <a href="https://www.pnas.org/doi/full/10.1073/pnas.2616554123">source</a> | <a href="https://news.ycombinator.com/item?id=50168357">hacker news</a></small></p><hr/><p>A new study published in the Proceedings of the National Academy of Sciences reveals that populations of deep-sea animals such as octopus, squid, krill, shrimp, and lanternfish in the Gulf of Mexico declined by at least 60 percent following the 2010 Deepwater Horizon oil spill and have shown no measurable signs of recovery.</p><p>Researchers identified lingering oil-related compounds in the tissues and eggs of deep-dwelling species, which can impair reproduction, development, and survival. The findings suggest that the deep-pelagic biome possesses limited resilience to severe human-induced disturbances, alongside concerning reductions in genetic diversity.</p><p><img src="https://yale-threesixty.transforms.svdcdn.com/production/Deepwater-Horizon-Spill_Wikipedia.jpg?w=1200&h=800&auto=compress%2Cformat&fit=crop&dm=1792489301&s=c6e250d897ee3d628b725af45cc84599" /></p><hr/><small>21 Oct 2026, 12:27 UTC | #25006</small>]]></content>
+  </entry>
+  <entry>
+    <title>UNEP Releases Emissions Gap Report 2026 on 1.5°C Overshoot</title>
+    <link href="https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/" rel="alternate" />
+    <id>https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/::v240</id>
+    <published>2026-10-21T09:08:00+00:00</published>
+    <updated>2026-10-21T09:08:00+00:00</updated>
+    <media:thumbnail url="https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2026/10/smoke-chimneys.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/">unric.org</a> | <a href="https://www.unep.org/en/news-and-stories/press-release/new-unep-report-lays-out-emission-cuts-needed-return-1-5degc">source</a> | <a href="https://news.ycombinator.com/item?id=50177911">hacker news</a></small></p><hr/><p>The United Nations Environment Programme has published its 2026 Emissions Gap Report, warning that the Paris Agreement goal of limiting global warming to 1.5°C is no longer achievable within the decade. Titled "The Point of Return," the report states that exceeding the 1.5°C threshold is now imminent and unavoidable, requiring a new strategy to limit peak warming and bring temperatures back down by the end of the century.</p><p>To keep warming below 2°C and eventually return to 1.5°C, the report outlines that global greenhouse gas emissions must fall by 18 percent by 2030, 45 percent by 2035, and 69 percent by 2040 relative to 2025 levels. Current national climate commitments fall significantly short of these benchmarks, achieving only modest reductions and highlighting a severe leadership gap in global climate action.</p><p><img src="https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2026/10/smoke-chimneys.jpg" /></p><hr/><small>21 Oct 2026, 11:52 UTC | #25002</small>]]></content>
+  </entry>
+  <entry>
+    <title>Steve Krouse Examines the Purpose of Education in Feld of AGI</title>
+    <link href="https://stevekrouse.com/ends" rel="alternate" />
+    <id>https://stevekrouse.com/ends::v240</id>
+    <published>2026-10-20T22:39:00+00:00</published>
+    <updated>2026-10-20T22:39:00+00:00</updated>
+    <media:thumbnail url="https://joeflynnpm.com/images/blog/fatherhood-in-the-age-of-ai.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://stevekrouse.com/ends">stevekrouse.com</a> | <a href="https://news.ycombinator.com/item?id=50169707">hacker news</a></small></p><hr/><p>Programmer and soon-to-be father Steve Krouse explores the evolving purpose of education as artificial general intelligence (AGI) reshapes traditional skill sets and career trajectories. Reflecting on how his own economic value as a software developer feels compromised, he questions what knowledge and values remain vital to impart to the next generation.</p><p>Drawing on Neil Postman’s 1995 book The End of Education and historical false alarms regarding educational technology—such as Thomas Edison’s 1913 prediction that books would become obsolete—Krouse examines how institutional schooling endures through shifting societal needs. Ultimately, he suggests that as traditional economic incentives wobble, parents and educators must collaboratively forge new narratives and purposes for learning.</p><p><img src="https://joeflynnpm.com/images/blog/fatherhood-in-the-age-of-ai.png" /></p><hr/><small>21 Oct 2026, 03:02 UTC | #24971</small>]]></content>
+  </entry>
+  <entry>
+    <title>Single-Motor Drone Design Uses Hinged Propeller for Flight Control</title>
+    <link href="https://www.youtube.com/watch?v=Ndftcft6XhU" rel="alternate" />
+    <id>https://www.youtube.com/watch?v=Ndftcft6XhU::v240</id>
+    <published>2026-10-19T17:04:00+00:00</published>
+    <updated>2026-10-19T17:04:00+00:00</updated>
+    <media:thumbnail url="https://ueeshop.ly200-cdn.com/u_file/UPAK/UPAK499/2208/products/20/eff9e8105a.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.youtube.com/watch?v=Ndftcft6XhU">youtube.com</a> | <a href="https://news.ycombinator.com/item?id=50150089">hacker news</a></small></p><hr/><p>A single-motor drone design achieves pitch and roll control through a hinged propeller hub that responds to rapid changes in motor acceleration. This approach reduces mechanical complexity compared to quadcopters but requires highly complex firmware and precise motor control to manage directional changes.</p><p>The project utilizes a Motius R4 servo controller to manage motor speeds up to 20,000 RPM and an infrared lighthouse system for heading information. While the design aims to make drones smaller and cheaper, the implementation faces significant challenges with vibrations and rotational stability caused by high-speed propeller-blade movement.</p><p><img src="https://ueeshop.ly200-cdn.com/u_file/UPAK/UPAK499/2208/products/20/eff9e8105a.png" /></p><hr/><small>19 Oct 2026, 22:16 UTC | #24814</small>]]></content>
+  </entry>
+  <entry>
+    <title>CERN and Mistral Partner to Develop AI Foundation Models for Physics</title>
+    <link href="https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/" rel="alternate" />
+    <id>https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/::v240</id>
+    <published>2026-10-19T15:29:00+00:00</published>
+    <updated>2026-10-19T15:29:00+00:00</updated>
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/">home.cern</a> | <a href="https://news.ycombinator.com/item?id=50153630">hacker news</a></small></p><hr/><p>CERN and Mistral have signed a statement of intent to establish a long-term strategic partnership to develop foundation models for scientific discovery. The collaboration aims to create the first "Large Physics Model" for collider physics, which will be trained on simulated proton-proton collisions from the Large Hadron Collider (LHC) to perform tasks such as particle reconstruction, particle identification, and signal flagging.</p><p>The initiative seeks to transition from using multiple specialized algorithms to using single pretrained models capable of operating across the entire reconstruction chain. The project leverages CERN's exabyte-scale datasets and is designed to scale alongside the High-Luminosity LHC upgrade, which is expected to begin operation around 2030.</p><hr/><small>19 Oct 2026, 18:07 UTC | #24795</small>]]></content>
+  </entry>
+  <entry>
+    <title>Organ-on-a-Chip and New Methodologies Gain Traction as Alternatives to Animal Testing</title>
+    <link href="https://spectrum.ieee.org/alternatives-to-animal-testing" rel="alternate" />
+    <id>https://spectrum.ieee.org/alternatives-to-animal-testing::v240</id>
+    <published>2026-10-19T13:46:00+00:00</published>
+    <updated>2026-10-19T13:46:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D12AQH-gLIxgk3LNg/article-cover_image-shrink_720_1280/B4DZYrqKpZH4AI-/0/1744489198662?e=2147483647&amp;v=beta&amp;t=vlYvtarzqXT-0HjE0zF52CzclZKs1OYv3gzCvWVhbc4" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://spectrum.ieee.org/alternatives-to-animal-testing">spectrum.ieee.org</a> | <a href="https://news.ycombinator.com/item?id=50150927">hacker news</a></small></p><hr/><p>New approach methodologies (NAMs), such as organ-on-a-chip systems and organoids, are increasingly replacing animal models in biomedical research and drug development. Recent regulatory changes, including the FDA Modernization Act 2.0 and 2026 FDA rules, permit the use of non-animal methods in preclinical safety studies. Major institutions like the NIH and the European Commission are also transitioning toward prioritizing human-based research over traditional animal experiments.</p><p>Widespread adoption of NAMs requires overcoming challenges in standardization, commercial scalability, and the validation of predictive biomarkers. To be effective, these technologies must move from academic proofs-of-concept to mass-produced, reliable products that provide consistent results. The transition also necessitates significant changes in research culture, training, and global regulatory alignment to ensure data comparability.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D12AQH-gLIxgk3LNg/article-cover_image-shrink_720_1280/B4DZYrqKpZH4AI-/0/1744489198662?e=2147483647&v=beta&t=vlYvtarzqXT-0HjE0zF52CzclZKs1OYv3gzCvWVhbc4" /></p><hr/><small>19 Oct 2026, 17:28 UTC | #24791</small>]]></content>
+  </entry>
+</feed>

@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-23T16:39:00+00:00</updated>
+  <updated>2026-10-24T06:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>Morningdew Media Releases MorningDAW Free Digital Audio Workstation</title>
+    <link href="https://bedroomproducersblog.com/2026/10/24/morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/24/morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux/::v240</id>
+    <published>2026-10-24T06:51:00+00:00</published>
+    <updated>2026-10-24T06:51:00+00:00</updated>
+    <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/HMgci7bGz77KTLA8qBp8sY.png" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/24/morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux/">bedroomproducersblog.com</a> | <a href="https://www.morningdewmedia.com/morningdaw-free-daw-macos-windows/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/24/morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux/#comments">discussion</a></small></p><hr/><p>Morningdew Media has released MorningDAW, a free digital audio workstation designed for macOS, Windows, and Linux. Created by Mattias and Nicklas Holmgren, the software supports multi-track recording, arranging, sampling, mixing, mastering, and pattern or tracker programming.</p><p>The DAW offers flexible viewing modes, including a piano roll, score page for sheet music, step patterns, and a classic tracker interface, alongside built-in virtual instruments and third-party plugin support. It is available for personal, educational, and commercial use with no time limits or licensing fees.</p><p><img src="https://cdn.mos.cms.futurecdn.net/HMgci7bGz77KTLA8qBp8sY.png" /></p><hr/><small>24 Oct 2026, 12:32 UTC | #25291</small>]]></content>
+  </entry>
+  <entry>
+    <title>The Crow Hill Company Releases Free 100 Year Old Piano Virtual Instrument</title>
+    <link href="https://bedroomproducersblog.com/2026/10/24/crow-hill-100-year-old-piano/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/24/crow-hill-100-year-old-piano/::v240</id>
+    <published>2026-10-24T06:49:00+00:00</published>
+    <updated>2026-10-24T06:49:00+00:00</updated>
+    <media:thumbnail url="https://thecrowhillcompany.com/wp-content/uploads/2026/10/TCHC_T_CODE_SLUG_shop-grid_image_hover.webp" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/24/crow-hill-100-year-old-piano/">bedroomproducersblog.com</a> | <a href="https://thecrowhillcompany.com/100-year-old-piano/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/24/crow-hill-100-year-old-piano/#respond">discussion</a></small></p><hr/><p>The Crow Hill Company has released 100 Year Old Piano, a new free virtual instrument for its VAULTS series. The plugin captures a donated, roughly 100-year-old John Brinsmead &amp; Sons upright piano in its unrepaired, out-of-tune state.</p><p>Sampled using a pair of AKG microphones alongside a room mic, the instrument is designed to provide dilapidated wear and tear for songs and cinematic scenes requiring characterful vintage sounds. It follows the company's earlier Attic Grand Piano release and is available to download for free.</p><p><img src="https://thecrowhillcompany.com/wp-content/uploads/2026/10/TCHC_T_CODE_SLUG_shop-grid_image_hover.webp" /></p><hr/><small>24 Oct 2026, 12:30 UTC | #25292</small>]]></content>
+  </entry>
   <entry>
     <title>Reverb Launches End of Summer Sales Event Featuring Discounts on Synths and Gear</title>
     <link href="https://musictech.com/news/events/reverb-end-of-summer-sales-event-discount-deals/" rel="alternate" />
@@ -115,6 +133,15 @@
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/discodsp-releases-new-ted-8-synth-retromulator-2-discovery-pro-6-7-and-more-69341?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69341">kvraudio.com</a></small></p><hr/><p>DiscoDSP has released TED-8, a software synthesizer plugin that emulates the Oberheim TEO-5 based on physical unit measurements, alongside major version updates for Retromulator and Discovery Pro. TED-8 features eight voices, a SEM-style filter, a 16-slot modulation matrix, and a hardware link mode allowing it to function as a TEO-5 editor and librarian.</p><p>Retromulator 2 adds individual control panels for its emulated sound cores and includes a Minimoog Model D core modeled by Idle Foundry. Meanwhile, Discovery Pro 6.7 introduces updated chorus and phaser models, a Unison Editor with a stereo Super 7 mode, and expanded oversampling and filter enhancements, alongside a sweep of updates for other company plugins such as OB-Xd and Blub.</p><p><img src="https://static.kvraudio.com/i/b/ted8.webp" /></p><hr/><small>23 Oct 2026, 13:04 UTC | #25232</small>]]></content>
   </entry>
   <entry>
+    <title>Spotify Confirms Family Plan Verification Changes During Earnings Call</title>
+    <link href="https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/::v240</id>
+    <published>2026-10-23T01:51:00+00:00</published>
+    <updated>2026-10-23T01:51:00+00:00</updated>
+    <media:thumbnail url="https://www.lowyat.net/wp-content/uploads/2024/11/Spotify-Family-Plan-changes-nov-2024-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/">techcrunch.com</a></small></p><hr/><p>Spotify confirmed during its third-quarter earnings call that it is rolling out stricter verification methods for its Family Plan to ensure members live in the same household. The updated process requires family members to scan a QR code displayed on the plan manager's device within a seven-day window.</p><p>Co-CEO Alex Norström downplayed the changes as a routine and ongoing improvement to existing verification tools rather than an enforcement crackdown. Users who fail to complete verification within the allotted time face a 12-month ban from joining other Family or Duo plans, forcing them onto individual subscriptions.</p><p><img src="https://www.lowyat.net/wp-content/uploads/2024/11/Spotify-Family-Plan-changes-nov-2024-1.jpg" /></p><hr/><small>23 Oct 2026, 11:35 UTC | #25197</small>]]></content>
+  </entry>
+  <entry>
     <title>Producer TIEKS Discusses His London Studio and Focusrite ISA C8X Interface</title>
     <link href="https://musictech.com/features/interviews/tieks-interview-focusrite-isa-c8x-interface-studio/" rel="alternate" />
     <id>https://musictech.com/features/interviews/tieks-interview-focusrite-isa-c8x-interface-studio/::v240</id>
@@ -196,6 +223,15 @@
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/sample-logic-introduces-quadra---morphing-multi-effect-plugin-with-four-independent-effect-chains-69307?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69307">kvraudio.com</a> | <a href="https://www.samplelogic.com/products/quadra/">source</a></small></p><hr/><p>Sample Logic has released Quadra, a multi-effect audio plugin that uses an XY pad to let users morph between four independent effect chains in real time. Each corner of the pad can host up to four processors chosen from a pool of 22 effects, including reverb, delay, granular processing, and spectral tools.</p><p>The plugin features a motion engine with manual, automated, custom-drawn, and 16-step sequencer control modes, alongside a convolution processor with 81 impulse responses. Priced at $99 with an introductory rate of $69 until November 5, 2026, Quadra includes over 630 factory presets and is available in AU and VST3 formats for macOS and Windows.</p><p><img src="https://static.kvraudio.com/i/b/gui-full.webp" /></p><hr/><small>22 Oct 2026, 20:33 UTC | #25132</small>]]></content>
   </entry>
   <entry>
+    <title>Spotify Positions Itself as the Preferred Music Service for AI Agents</title>
+    <link href="https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/::v240</id>
+    <published>2026-10-22T15:36:00+00:00</published>
+    <updated>2026-10-22T15:36:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2024/11/gustav-soderstrom-presley-ann-1-1392x1044.jpg" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/">techcrunch.com</a> | <a href="https://newsroom.spotify.com/2026-10-22/spotify-q3-2026-earnings/">source</a></small></p><hr/><p>During Spotify's third-quarter earnings call, co-CEO Gustav Söderström outlined the company's strategy to integrate with third-party AI assistants like Meta's Muse, ChatGPT, and Claude. Rather than viewing the rise of autonomous agents as a competitive threat, Spotify aims to become the foundational media backend that agents choose when users request music, podcasts, or audiobooks.</p><p>Söderström emphasized that Spotify's deep historical user data and personalization systems allow it to handle complex voice and chat requests, such as custom running playlists built from listening habits dating back to 2008, without exposing private user data to partner platforms. This approach contrasts with other major companies that have restricted third-party agent access, positioning Spotify to capture distribution growth across emerging conversational interfaces.</p><p><img src="https://musictech.com/wp-content/uploads/2024/11/gustav-soderstrom-presley-ann-1-1392x1044.jpg" /></p><hr/><small>22 Oct 2026, 20:32 UTC | #25123</small>]]></content>
+  </entry>
+  <entry>
     <title>Akai Professional Launches MPK Mini Plus II Keyboard Controller</title>
     <link href="https://musictech.com/news/gear/akai-mpk-mini-plus-ii/" rel="alternate" />
     <id>https://musictech.com/news/gear/akai-mpk-mini-plus-ii/::v240</id>
@@ -203,6 +239,15 @@
     <updated>2026-10-22T14:55:00+00:00</updated>
     <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Akai-1@2000x1500.jpg" />
     <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/akai-mpk-mini-plus-ii/">musictech.com</a> | <a href="https://www.akaipro.com/mpk-mini-plus-ii/">source</a></small></p><hr/><p>Akai Professional has released the MPK Mini Plus II, a second-generation 37-key MIDI keyboard controller featuring an upgraded keybed, velocity- and pressure-sensitive RGB MPC pads, and a full-colour display.</p><p>Priced at $169.99, the device introduces new generative performance tools including Glitch, Mutate, and Strum alongside expanded arpeggiator and chord modes. It provides standalone operation, direct MPC integration, standard 5-pin MIDI connectivity, and three CV/Gate outputs for interfacing with external hardware instruments.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Akai-1@2000x1500.jpg" /></p><hr/><small>22 Oct 2026, 20:07 UTC | #25134</small>]]></content>
+  </entry>
+  <entry>
+    <title>LEGO Group and Daft Punk Announce Creative Partnership and Pyramid Stage Set</title>
+    <link href="https://musictech.com/news/music/daft-punk-x-lego-new-creative-partnership/" rel="alternate" />
+    <id>https://musictech.com/news/music/daft-punk-x-lego-new-creative-partnership/::v240</id>
+    <published>2026-10-22T14:38:00+00:00</published>
+    <updated>2026-10-22T14:38:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Daft-Punk-LEGO-hero@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/music/daft-punk-x-lego-new-creative-partnership/">musictech.com</a> | <a href="https://www.lego.com/en-us/aboutus/news/2026/october/lego-group-and-daft-punk-partnership-announcement">source</a></small></p><hr/><p>The LEGO Group and electronic music duo Daft Punk have announced a multi-faceted creative partnership spanning products, content, and brand experiences. The collaboration kicks off with an animated short film featuring the duo as LEGO minifigures and an upcoming official LEGO Ideas set recreating their iconic 2007 Alive tour pyramid stage.</p><p>The pyramid stage concept originated from a fan submission by a father-and-son duo in the LEGO Ideas community, which won a 2020 challenge before securing over 10,000 supporter votes. Further content, products, and brand activations resulting from the collaboration are scheduled to roll out through 2027.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Daft-Punk-LEGO-hero@2000x1500.jpg" /></p><hr/><small>22 Oct 2026, 19:59 UTC | #25135</small>]]></content>
   </entry>
   <entry>
     <title>L-Acoustics Deploys L-ISA Spatial Audio System for Backstreet Boys Stadium Residency</title>
@@ -304,6 +349,15 @@
     <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/21/arturia-audiofuse-studio-rev2-review/">bedroomproducersblog.com</a> | <a href="https://www.arturia.com/products/audio/audiofuse-studio/overview">source</a> | <a href="https://bedroomproducersblog.com/2026/10/21/arturia-audiofuse-studio-rev2-review/#respond">discussion</a></small></p><hr/><p>The Arturia AudioFuse Studio Rev2 is an 18-in/20-out desktop audio interface featuring four DiscretePRO microphone preamps, analog inserts, and extensive connectivity options for hybrid studios. Building on the original model, the Rev2 revision introduces refined preamp performance, an expanded gain range, and an upgraded Bluetooth module supporting aptX HD and aptX Low Latency.</p><p>Designed to serve as a central hub for complex studio setups, the hardware accommodates multiple instruments, outboard gear, and monitor speaker configurations with front-panel switching. Reviewers note that while the physical chassis and core routing remain largely unchanged, the internal firmware optimizations and technical upgrades address key user feedback from the original release.</p><p><img src="https://dedijkmusicstore.nl/wp-content/uploads/2021/02/Arturia-AudioFuse-Rev2-1.jpg" /></p><hr/><small>21 Oct 2026, 22:22 UTC | #25051</small>]]></content>
   </entry>
   <entry>
+    <title>Apple Acquires AI Music Startup Samplab</title>
+    <link href="https://musictech.com/news/industry/why-did-apple-buy-ai-music-startup-samplab-and-how-might-this-impact-logic-pro/" rel="alternate" />
+    <id>https://musictech.com/news/industry/why-did-apple-buy-ai-music-startup-samplab-and-how-might-this-impact-logic-pro/::v240</id>
+    <published>2026-10-21T17:47:00+00:00</published>
+    <updated>2026-10-21T17:47:00+00:00</updated>
+    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500.jpg" />
+    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/industry/why-did-apple-buy-ai-music-startup-samplab-and-how-might-this-impact-logic-pro/">musictech.com</a></small></p><hr/><p>Apple has acquired Swiss AI audio startup Samplab, integrating its polyphonic note-editing and stem-separation technology. Samplab's software utilizes machine learning to transcribe polyphonic recordings into editable MIDI notes while preserving the original timbre, streamlining sample manipulation and remixing workflows.</p><p>The acquisition is anticipated to strengthen Apple's Logic Pro and potentially influence its broader creator application suite, including Logic for iPad and Final Cut Pro. By absorbing these capabilities, Apple positions its digital audio workstation to better compete with rival DAWs that feature advanced note-level and polyphonic audio editing.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500.jpg" /></p><hr/><small>21 Oct 2026, 22:21 UTC | #25035</small>]]></content>
+  </entry>
+  <entry>
     <title>Tomohiro Ogawa Releases Pulse Mods v1.4 PlayStation 2 Noise Synthesizer</title>
     <link href="https://musictech.com/news/gear/this-programme-turns-the-sony-playstation-2-into-a-real-time-experimental-noise-synthesiser/" rel="alternate" />
     <id>https://musictech.com/news/gear/this-programme-turns-the-sony-playstation-2-into-a-real-time-experimental-noise-synthesiser/::v240</id>
@@ -331,6 +385,15 @@
     <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/21/dot-audio-recorder/">bedroomproducersblog.com</a></small></p><hr/><p>Plastic has released DOT Audio Recorder, a standalone macOS application designed to capture audio playback from other running applications. The software includes built-in analysis tools that automatically detect the key, tempo, and chords of captured audio material.</p><p>Users can trigger instant recordings using keyboard shortcuts while playing music, browser videos, or instrument demos. The application automatically trims clips at both ends, organizes them into a searchable library, and supports direct drag-and-drop integration into digital audio workstations or MIDI export.</p><p><img src="https://blog-uploads.eneba.games/uploads/2025/09/image-55-1024x575.png" /></p><hr/><small>21 Oct 2026, 21:45 UTC | #25053</small>]]></content>
   </entry>
   <entry>
+    <title>Spotify Launches First Native In-Car App with Audi on Android Automotive</title>
+    <link href="https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay" rel="alternate" />
+    <id>https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay::v240</id>
+    <published>2026-10-21T15:36:00+00:00</published>
+    <updated>2026-10-21T15:36:00+00:00</updated>
+    <media:thumbnail url="https://images.ctfassets.net/rag3uamlaqkr/3sF0Bgz7jaQY4HmRmSYQtN/e247f1667be15eabae475b636f0ca2b7/AndroidAuto.png?fm=webp&amp;w=828&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay">theverge.com</a> | <a href="https://www.audi.com/en/press-releases/audi-becomes-the-first-automaker-to-launch-spotifys-fully-native-in-car-app-18389">source</a></small></p><hr/><p>Spotify has released its first fully native in-car application, built directly on Google's Android Automotive operating system. Debuting in select Audi models, the standalone app runs directly on vehicle infotainment hardware without requiring a smartphone, Bluetooth connection, or auxiliary cable.</p><p>Unlike previous headless integrations restricted by template frameworks, the application allows Spotify to render its own user interface natively. The platform supports features including QR-code-based Spotify Jam sessions, synchronized lyrics, video podcasts, and multi-display integration for front passengers.</p><p><img src="https://images.ctfassets.net/rag3uamlaqkr/3sF0Bgz7jaQY4HmRmSYQtN/e247f1667be15eabae475b636f0ca2b7/AndroidAuto.png?fm=webp&w=828&q=75" /></p><hr/><small>21 Oct 2026, 21:33 UTC | #25013</small>]]></content>
+  </entry>
+  <entry>
     <title>APU Software Releases Loudness Series v6.0.0</title>
     <link href="https://www.kvraudio.com/news/apu-software-releases-loudness-series-v6-0-0-69302?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69302" rel="alternate" />
     <id>https://www.kvraudio.com/news/apu-software-releases-loudness-series-v6-0-0-69302?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69302::v240</id>
@@ -356,15 +419,6 @@
     <updated>2026-10-21T14:07:00+00:00</updated>
     <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/HAAi-hero-credit-Lamia-Karic@2000x1500.jpg" />
     <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/features/interviews/haai-interview-digitise/">musictech.com</a></small></p><hr/><p>Producer and DJ HAAi discusses the creative and technical process behind her club-focused album Digitise, which evolved from a planned remix record of her 2025 release Humanise into an independent ten-track project featuring collaborators such as Skybreak, Echonomist, and a children's choir from Medellin, Colombia.</p><p>Constructed largely on a laptop while touring, the album integrates mobile production workflows with hardware elements, utilizing plugins like Devious Machines' Infiltrator alongside a vintage Roland Space Echo tape delay. HAAi highlights her ongoing push to work across diverse electronic genres and challenge listener expectations.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/HAAi-hero-credit-Lamia-Karic@2000x1500.jpg" /></p><hr/><small>21 Oct 2026, 17:37 UTC | #25007</small>]]></content>
-  </entry>
-  <entry>
-    <title>MusicTech Editor Criticizes Influx of Low-Effort AI Audio Plugins</title>
-    <link href="https://musictech.com/features/opinion-analysis/stop-sending-me-vibecoded-ai-plugins/" rel="alternate" />
-    <id>https://musictech.com/features/opinion-analysis/stop-sending-me-vibecoded-ai-plugins/::v240</id>
-    <published>2026-10-21T10:05:00+00:00</published>
-    <updated>2026-10-21T10:05:00+00:00</updated>
-    <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/vibecoded-ai-plugin-hero@2000x1500.jpg" />
-    <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/features/opinion-analysis/stop-sending-me-vibecoded-ai-plugins/">musictech.com</a></small></p><hr/><p>MusicTech commissioning editor Sam Willings has criticized the recent surge of low-effort, AI-generated "vibecoded" audio plugins submitted to the publication's inbox. Willings argues that many of these tools are closed-source, overpriced, and offer little originality compared to the thousands of existing software options.</p><p>The piece highlights growing concerns regarding security and data privacy risks associated with applications built hastily using generative AI tools. While acknowledging that established brands successfully incorporate AI-assisted features, the commentary contrasts rushed software with genuine innovations from independent developers like Baby Audio, Mixland, and Cherry Audio.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/vibecoded-ai-plugin-hero@2000x1500.jpg" /></p><hr/><small>21 Oct 2026, 17:06 UTC | #24993</small>]]></content>
   </entry>
   <entry>
     <title>FRCTL Audio Updates DLAY to v1.4.2</title>
@@ -502,6 +556,15 @@
     <content type="html"><![CDATA[<p><small>MusicTech | <a href="https://musictech.com/news/gear/ambrio-spatial-performance-mixer/">musictech.com</a> | <a href="https://ambriosound.com/product">source</a></small></p><hr/><p>Brussels-based music technology company Ambrio has unveiled the Spatial Performance Mixer (SPM), a five-channel standalone DJ mixer featuring real-time 360-degree audio positioning for each channel. The device enables performers to manipulate sound placement across multi-speaker systems without requiring external hardware, specialized software, or dedicated sound engineers.</p><p>The mixer includes built-in spatial effects, extensive routing options, and a custom algorithm designed to adapt stereo material to any room layout using standard multi-speaker setups. Ambrio is launching an Incubator Program to place units with select venues and institutions for field testing, ahead of a planned commercial release in 2027.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/Ambrio-SPM-1@2000x1500.jpg" /></p><hr/><small>20 Oct 2026, 19:59 UTC | #24902</small>]]></content>
   </entry>
   <entry>
+    <title>Spotify Launches Paid Podcast Memberships</title>
+    <link href="https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/::v240</id>
+    <published>2026-10-20T16:10:00+00:00</published>
+    <updated>2026-10-20T16:10:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Memberships-2_.jpg?w=680" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/">techcrunch.com</a> | <a href="https://newsroom.spotify.com/2026-10-20/spotify-memberships-creators/">source</a></small></p><hr/><p>Spotify has launched a paid membership feature for podcasters, enabling creators to offer subscribers exclusive perks like bonus audio or video, early access, or ad-free listening. The service, which is rolling out in 34 markets, allows creators to design multiple pricing tiers and keep 90% of the revenue.</p><p>To participate, podcasters must host their shows on Spotify for Creators or Megaphone and meet specific thresholds, such as 100 consumption hours and 100 listeners. This initiative is part of Spotify's broader push to enhance creator monetization and compete with video-centric platforms like YouTube.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Memberships-2_.jpg?w=680" /></p><hr/><small>20 Oct 2026, 19:35 UTC | #24887</small>]]></content>
+  </entry>
+  <entry>
     <title>Dropshot Audio Releases Tight Lines Free Dual-Band Dynamics Processor</title>
     <link href="https://www.kvraudio.com/news/dropshot-audio-releases-tight-lines---free-dual-band-dynamics-processor-au-clap-and-vst3-69125?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69125" rel="alternate" />
     <id>https://www.kvraudio.com/news/dropshot-audio-releases-tight-lines---free-dual-band-dynamics-processor-au-clap-and-vst3-69125?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69125::v240</id>
@@ -619,6 +682,15 @@
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/big-man-labs-releases-big-loader---ir-reverb-impulse-loader-for-macos-windows-and-linux-69229?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69229">kvraudio.com</a> | <a href="https://www.bigman-labs.com/products/big-loader/">source</a></small></p><hr/><p>Big Man Labs has released Big Loader, a convolution reverb impulse response loader available for macOS, Windows, and Linux. The plugin supports mono, stereo, and true stereo impulse responses, automatically matching levels upon load and storing audio data directly within session files for seamless cross-computer recall.</p><p>Designed for both tracking and mixing, Big Loader features a zero-latency processing engine for recording alongside an efficient high-quality engine for mixing. Users can shape impulses by trimming, stretching, altering decay, damping, and separating early reflections from tails, with additional wet-signal tools including a four-band EQ, width control, chorus, drive, ducking, and a gate.</p><p><img src="https://static.kvraudio.com/i/b/big_loader_ui.png" /></p><hr/><small>20 Oct 2026, 10:07 UTC | #24860</small>]]></content>
   </entry>
   <entry>
+    <title>US Supreme Court Rejects Music Labels' Appeal in Copyright Termination Case</title>
+    <link href="https://www.reuters.com/legal/government/us-supreme-court-rejects-music-labels-challenge-copyright-termination-ruling-2026-10-19/" rel="alternate" />
+    <id>https://www.reuters.com/legal/government/us-supreme-court-rejects-music-labels-challenge-copyright-termination-ruling-2026-10-19/::v240</id>
+    <published>2026-10-19T17:15:00+00:00</published>
+    <updated>2026-10-19T17:15:00+00:00</updated>
+    <media:thumbnail url="https://www.musicbusinessworldwide.com/files/2025/06/US-Supreme-Court-1296x717.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/legal/government/us-supreme-court-rejects-music-labels-challenge-copyright-termination-ruling-2026-10-19/">reuters.com</a> | <a href="https://www.supremecourt.gov/docket/docketfiles/html/public/25-1391.html">source</a> | <a href="https://news.ycombinator.com/item?id=50156063">hacker news</a></small></p><hr/><p>The U.S. Supreme Court declined to hear an appeal from major music labels including BMG, Sony Music, Universal Music Group, and Warner Music, leaving in place a lower court ruling that allows creators to terminate copyright grants globally rather than solely within the United States.</p><p>The underlying legal dispute centers on whether domestic copyright termination provisions apply to foreign markets. Because several justices recused themselves due to publishing-related ties to a party, the court lacked a quorum to consider the petition, effectively preserving the Fifth Circuit's precedent-setting determination on international copyright reach.</p><p><img src="https://www.musicbusinessworldwide.com/files/2025/06/US-Supreme-Court-1296x717.jpg" /></p><hr/><small>19 Oct 2026, 23:28 UTC | #24785</small>]]></content>
+  </entry>
+  <entry>
     <title>Rast Sound Releases Splitz Effects Rack Plugin</title>
     <link href="https://www.kvraudio.com/news/rast-sound-releases-splitz---split-effects-rack-plugin-au-aax-and-vst3-69232?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69232" rel="alternate" />
     <id>https://www.kvraudio.com/news/rast-sound-releases-splitz---split-effects-rack-plugin-au-aax-and-vst3-69232?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69232::v240</id>
@@ -716,14 +788,5 @@
     <updated>2026-10-19T13:39:00+00:00</updated>
     <media:thumbnail url="https://static.kvraudio.com/i/b/newsuperduperbasses.jpg" />
     <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/dawjunkie-releases-super-duper-basses---an-instrument-based-on-classic-90s-hardware-69215?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69215">kvraudio.com</a> | <a href="https://dawjunkie.com/product/super-duper-basses/">source</a></small></p><hr/><p>DAWJunkie has released Super Duper Basses, a software instrument inspired by 1990s hardware. The plugin features eight classic bass styles with adjustable unison, built-in compression and saturation, and integrated effects including chorus, phaser, delay, and reverb.</p><p>Available for Windows and macOS, the instrument supports AU, VST2, VST3, and AAX formats. It is currently offered at an introductory price of $4.95, reduced from its standard retail price of $49.00.</p><p><img src="https://static.kvraudio.com/i/b/newsuperduperbasses.jpg" /></p><hr/><small>19 Oct 2026, 16:53 UTC | #24764</small>]]></content>
-  </entry>
-  <entry>
-    <title>Denormal Audio Releases Guardrail MIDI Transformation Plugin</title>
-    <link href="https://www.kvraudio.com/news/denormal-audio-releases-guardrail---midi-transformation-plugin-aax-au-and-vst3-69198?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69198" rel="alternate" />
-    <id>https://www.kvraudio.com/news/denormal-audio-releases-guardrail---midi-transformation-plugin-aax-au-and-vst3-69198?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69198::v240</id>
-    <published>2026-10-19T12:14:00+00:00</published>
-    <updated>2026-10-19T12:14:00+00:00</updated>
-    <media:thumbnail url="https://static.kvraudio.com/i/b/gr1.png" />
-    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/denormal-audio-releases-guardrail---midi-transformation-plugin-aax-au-and-vst3-69198?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69198">kvraudio.com</a> | <a href="https://denormal.audio/products.html">source</a></small></p><hr/><p>The Guardrail plugin transforms programmed MIDI piano roll chords into expressive, playable musical performances. Available in AU, VST3, and AAX formats for macOS and Windows, the tool enables musicians to expand musical ideas through a performance-driven workflow rather than manual MIDI editing.</p><p>Developed by Kurt Feldman and Raphael Radna, the software features a "Performance Zone" where white keys trigger chord tones and black keys perform passing tones and extensions. A built-in "Performance List" automatically captures recorded ideas for easy organization and quick recall into a DAW. The plugin is currently available at an introductory price of $39.</p><p><img src="https://static.kvraudio.com/i/b/gr1.png" /></p><hr/><small>19 Oct 2026, 16:08 UTC | #24744</small>]]></content>
   </entry>
 </feed>
