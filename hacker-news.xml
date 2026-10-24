@@ -3,9 +3,18 @@
   <title>hacker-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/hacker-news.xml</id>
-  <updated>2026-10-23T20:48:00+00:00</updated>
+  <updated>2026-10-23T20:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/hacker-news.png</logo>
+  <entry>
+    <title>ACM Queue Examines Porting Programs Without Source Code</title>
+    <link href="https://queue.acm.org/doi/10.1145/945131.945155" rel="alternate" />
+    <id>https://queue.acm.org/doi/10.1145/945131.945155::v240</id>
+    <published>2026-10-23T20:55:00+00:00</published>
+    <updated>2026-10-23T20:55:00+00:00</updated>
+    <media:thumbnail url="https://image1.slideserve.com/3322642/what-is-binary-translation-l.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://queue.acm.org/doi/10.1145/945131.945155">queue.acm.org</a> | <a href="https://lobste.rs/s/ctow98/no_source_code_no_problem_what_if_you_have">discussion</a> | <a href="https://news.ycombinator.com/item?id=50214994">hacker news</a></small></p><hr/><p>An ACM Queue article examines the complex challenge of porting software when developers lack access to the original source code and must work exclusively with compiled binaries. It addresses how to bridge the semantic gap to accurately map the behavior of legacy programs onto new host systems.</p><p>The piece explores scenarios where source code is missing, incomplete, or lacks critical patches from later production models, making recreating functionality without it a necessity. It highlights methods like binary translation and emulation as vital techniques for maintaining and migrating aging software systems.</p><p><img src="https://image1.slideserve.com/3322642/what-is-binary-translation-l.jpg" /></p><hr/><small>24 Oct 2026, 01:00 UTC | #25280</small>]]></content>
+  </entry>
   <entry>
     <title>Analysis of Undefined Behavior Consequences and Compiler Optimizations in C and C++</title>
     <link href="https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html" rel="alternate" />
