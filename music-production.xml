@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-24T06:51:00+00:00</updated>
+  <updated>2026-10-24T10:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>OBS Studio 33.0.0 Released with Updated Browser Engine and Plugin Overhaul</title>
+    <link href="https://github.com/obsproject/obs-studio/releases/tag/33.0.0" rel="alternate" />
+    <id>https://github.com/obsproject/obs-studio/releases/tag/33.0.0::v240</id>
+    <published>2026-10-24T10:47:00+00:00</published>
+    <updated>2026-10-24T10:47:00+00:00</updated>
+    <media:thumbnail url="https://cdn.neowin.com/news/images/uploaded/2023/11/1699807063_obs_studio_hero.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/obsproject/obs-studio/releases/tag/33.0.0">github.com</a> | <a href="https://news.ycombinator.com/item?id=50218430">hacker news</a></small></p><hr/><p>OBS Studio 33.0.0 is now available, featuring a major upgrade to the underlying Chromium Embedded Framework from version 127 to 150 and a complete restructuring of plugin loading directories. The release also enables NVENC hardware encoding on Arm64 platforms, integrates updated NVIDIA Broadcast SDKs, and refines preview source snapping behaviors.</p><p>Developer-focused updates include higher minimum toolchain requirements such as Visual Studio 2026 and Windows SDK 26100, alongside the removal of support for Ubuntu 24.04, Qt versions 6.4 through 6.9, and FFmpeg 6.x and 7.x. The update additionally resolves multiple stability issues, including platform-specific crashes on macOS and Linux, and improves hybrid MP4 and MOV file splitting.</p><p><img src="https://cdn.neowin.com/news/images/uploaded/2023/11/1699807063_obs_studio_hero.jpg" /></p><hr/><small>24 Oct 2026, 14:06 UTC | #25306</small>]]></content>
+  </entry>
+  <entry>
+    <title>SampleRoll Offers SHFT, DRFT, and FLTR Effects Bundle at Discounted Price</title>
+    <link href="https://bedroomproducersblog.com/2026/10/24/sampleroll-bundle/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/24/sampleroll-bundle/::v240</id>
+    <published>2026-10-24T10:46:00+00:00</published>
+    <updated>2026-10-24T10:46:00+00:00</updated>
+    <media:thumbnail url="https://sixthsample.com/wp-content/uploads/2025/11/All-Plugins-Bundle-Menu-Img.jpg" />
+    <content type="html"><![CDATA[<p><small>Bedroom Producers Blog | <a href="https://bedroomproducersblog.com/2026/10/24/sampleroll-bundle/">bedroomproducersblog.com</a></small></p><hr/><p>SampleRoll has introduced a discounted bundle featuring three of its audio effects plugins: SHFT, DRFT, and FLTR. The bundle combines rhythmic gating, VHS-style tape degradation, and playable filtering for macOS and Windows systems.</p><p>Normally priced at $147 combined, the package is available for a limited time at $59, with additional promotional codes lowering the cost further. The promotion runs through October 31, 2026, encompassing the developer's complete trio of audio processors designed for sound design and production workflows.</p><p><img src="https://sixthsample.com/wp-content/uploads/2025/11/All-Plugins-Bundle-Menu-Img.jpg" /></p><hr/><small>24 Oct 2026, 14:04 UTC | #25297</small>]]></content>
+  </entry>
   <entry>
     <title>Morningdew Media Releases MorningDAW Free Digital Audio Workstation</title>
     <link href="https://bedroomproducersblog.com/2026/10/24/morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux/" rel="alternate" />
