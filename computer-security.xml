@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-24T04:07:00+00:00</updated>
+  <updated>2026-10-24T06:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</logo>
+  <entry>
+    <title>PHP Foundation Operates on Limited Budget With One Full-Time Staff Member</title>
+    <link href="https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/" rel="alternate" />
+    <id>https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/::v240</id>
+    <published>2026-10-24T06:53:00+00:00</published>
+    <updated>2026-10-24T06:53:00+00:00</updated>
+    <media:thumbnail url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSl0in81KEmhUisQkpK1Sd8kP8lYX_239vvIHfYnXOn0YSiFw4iQJbZzAlpEjin2JNKRGSBEUH6w35mfg8YSGJQvgpBK8mj9H8wLf_MrpR6XcVD79EQG7wnZYWRbQHAnl-Flq1QW9KtZc2dDHXQ57h_pBFEEcqQpOF3UGLvDKnDW1qUWvuAr-lokdZRHV/s16000/Critical+PHP+Zero-Day+Vulnerability.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/">reuters.com</a></small></p><hr/><p>The PHP Foundation operates on a shoestring budget supported by only one full-time staff member and 14 contractors, according to Executive Director Elizabeth Barron. The disclosure follows the recent discovery of two critical security flaws in the PHP programming language that triggered a global scramble to secure vulnerable websites.</p><p>Operating as a nonprofit organization backing a language that underpins a large share of global web infrastructure, the foundation's lean structure underscores ongoing sustainability challenges in maintaining foundational open-source software. Industry observers note that despite its critical role in web development, the project relies heavily on sparse resources and part-time contributors to coordinate security fixes.</p><p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSl0in81KEmhUisQkpK1Sd8kP8lYX_239vvIHfYnXOn0YSiFw4iQJbZzAlpEjin2JNKRGSBEUH6w35mfg8YSGJQvgpBK8mj9H8wLf_MrpR6XcVD79EQG7wnZYWRbQHAnl-Flq1QW9KtZc2dDHXQ57h_pBFEEcqQpOF3UGLvDKnDW1qUWvuAr-lokdZRHV/s16000/Critical+PHP+Zero-Day+Vulnerability.webp" /></p><hr/><small>24 Oct 2026, 12:52 UTC | #25286</small>]]></content>
+  </entry>
   <entry>
     <title>Indian Government Websites Continue Serving Revoked eMudhra Certificates</title>
     <link href="https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/" rel="alternate" />
