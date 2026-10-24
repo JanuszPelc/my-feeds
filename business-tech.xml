@@ -3,9 +3,18 @@
   <title>business-tech</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/business-tech.xml</id>
-  <updated>2026-10-23T20:52:00+00:00</updated>
+  <updated>2026-10-23T21:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/business-tech.png</logo>
+  <entry>
+    <title>Google Updates Privacy Policy to Permit Ad Targeting via Personal Intelligence Data</title>
+    <link href="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update" rel="alternate" />
+    <id>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update::v240</id>
+    <published>2026-10-23T21:00:00+00:00</published>
+    <updated>2026-10-23T21:00:00+00:00</updated>
+    <media:thumbnail url="https://imgv2-1-f.scribdassets.com/img/document/610795412/original/1798f19e22/1?v=1" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update">theverge.com</a> | <a href="https://policies.google.com/privacy?hl=en-US">source</a> | <a href="https://news.ycombinator.com/item?id=50214218">hacker news</a></small></p><hr/><p>Google has updated its privacy policy to introduce an exception allowing personal data from services like Gmail, Google Drive, and Google Photos to be used for targeted advertising. The change applies when users connect these services to AI and search tools through Google's Personal Intelligence feature to receive personalized recommendations.</p><p>While advertisers do not gain direct access to the underlying personal files or identifying information, the update removes a previous blanket exclusion that protected these workspaces. Users can opt out of the ad targeting by disconnecting specific apps or disabling personalized recommendations through their account settings.</p><p><img src="https://imgv2-1-f.scribdassets.com/img/document/610795412/original/1798f19e22/1?v=1" /></p><hr/><small>24 Oct 2026, 02:17 UTC | #25283</small>]]></content>
+  </entry>
   <entry>
     <title>Canadian Bill C-22 Lawful Access Legislation Faces Opposition in Senate</title>
     <link href="https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill" rel="alternate" />
