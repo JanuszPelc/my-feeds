@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-23T13:42:00+00:00</updated>
+  <updated>2026-10-24T14:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png</logo>
+  <entry>
+    <title>Douglas Ross Publishes Introduction to Quantum Physics</title>
+    <link href="https://www.southampton.ac.uk/~doug/quantum_physics/index.html" rel="alternate" />
+    <id>https://www.southampton.ac.uk/~doug/quantum_physics/index.html::v240</id>
+    <published>2026-10-24T14:49:00+00:00</published>
+    <updated>2026-10-24T14:49:00+00:00</updated>
+    <media:thumbnail url="https://d16jkos453if22.cloudfront.net/9780443330605.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.southampton.ac.uk/~doug/quantum_physics/index.html">southampton.ac.uk</a> | <a href="https://news.ycombinator.com/item?id=50219666">hacker news</a></small></p><hr/><p>Douglas Ross, Emeritus Professor of Physics at the University of Southampton, has published an educational article titled "I Don't Understand Quantum Physics." The text offers a structured introduction to foundational concepts in quantum mechanics.</p><p>Covering topics from the foreword and introduction through classical physics experiments, the piece explores wave-particle duality, matter waves, Heisenberg's uncertainty principle, wavefunctions, quantum tunnelling, superposition, and wavefunction collapse.</p><p><img src="https://d16jkos453if22.cloudfront.net/9780443330605.jpg" /></p><hr/><small>24 Oct 2026, 18:08 UTC | #25318</small>]]></content>
+  </entry>
   <entry>
     <title>Kadoa Report Finds Investor-Owned Utilities Charge 23% More For Electricity Than Public Providers</title>
     <link href="https://www.kadoa.com/energy-prices/insights/investor-owned-utilities" rel="alternate" />
@@ -86,14 +95,5 @@
     <updated>2026-10-20T22:39:00+00:00</updated>
     <media:thumbnail url="https://joeflynnpm.com/images/blog/fatherhood-in-the-age-of-ai.png" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://stevekrouse.com/ends">stevekrouse.com</a> | <a href="https://news.ycombinator.com/item?id=50169707">hacker news</a></small></p><hr/><p>Programmer and soon-to-be father Steve Krouse explores the evolving purpose of education as artificial general intelligence (AGI) reshapes traditional skill sets and career trajectories. Reflecting on how his own economic value as a software developer feels compromised, he questions what knowledge and values remain vital to impart to the next generation.</p><p>Drawing on Neil Postman’s 1995 book The End of Education and historical false alarms regarding educational technology—such as Thomas Edison’s 1913 prediction that books would become obsolete—Krouse examines how institutional schooling endures through shifting societal needs. Ultimately, he suggests that as traditional economic incentives wobble, parents and educators must collaboratively forge new narratives and purposes for learning.</p><p><img src="https://joeflynnpm.com/images/blog/fatherhood-in-the-age-of-ai.png" /></p><hr/><small>21 Oct 2026, 03:02 UTC | #24971</small>]]></content>
-  </entry>
-  <entry>
-    <title>Single-Motor Drone Design Uses Hinged Propeller for Flight Control</title>
-    <link href="https://www.youtube.com/watch?v=Ndftcft6XhU" rel="alternate" />
-    <id>https://www.youtube.com/watch?v=Ndftcft6XhU::v240</id>
-    <published>2026-10-19T17:04:00+00:00</published>
-    <updated>2026-10-19T17:04:00+00:00</updated>
-    <media:thumbnail url="https://ueeshop.ly200-cdn.com/u_file/UPAK/UPAK499/2208/products/20/eff9e8105a.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.youtube.com/watch?v=Ndftcft6XhU">youtube.com</a> | <a href="https://news.ycombinator.com/item?id=50150089">hacker news</a></small></p><hr/><p>A single-motor drone design achieves pitch and roll control through a hinged propeller hub that responds to rapid changes in motor acceleration. This approach reduces mechanical complexity compared to quadcopters but requires highly complex firmware and precise motor control to manage directional changes.</p><p>The project utilizes a Motius R4 servo controller to manage motor speeds up to 20,000 RPM and an infrared lighthouse system for heading information. While the design aims to make drones smaller and cheaper, the implementation faces significant challenges with vibrations and rotational stability caused by high-speed propeller-blade movement.</p><p><img src="https://ueeshop.ly200-cdn.com/u_file/UPAK/UPAK499/2208/products/20/eff9e8105a.png" /></p><hr/><small>19 Oct 2026, 22:16 UTC | #24814</small>]]></content>
   </entry>
 </feed>

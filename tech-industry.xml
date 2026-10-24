@@ -3,9 +3,27 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-24T04:08:00+00:00</updated>
+  <updated>2026-10-24T14:53:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png</logo>
+  <entry>
+    <title>Home Page Farm Essay Critiques Ethical and Environmental Impacts of Artificial Intelligence</title>
+    <link href="https://homepage.farm/ai.html" rel="alternate" />
+    <id>https://homepage.farm/ai.html::v240</id>
+    <published>2026-10-24T14:53:00+00:00</published>
+    <updated>2026-10-24T14:53:00+00:00</updated>
+    <media:thumbnail url="https://databasetown.com/wp-content/uploads/2023/03/Ethical-Issues-of-AI.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://homepage.farm/ai.html">homepage.farm</a> | <a href="https://lobste.rs/s/vh8l3t/what_s_wrong_with_ai">discussion</a> | <a href="https://news.ycombinator.com/item?id=50220640">hacker news</a></small></p><hr/><p>An essay published by Home Page Farm outlines extensive criticisms of artificial intelligence, arguing that major technology companies exploit user data, deploy seductively confident tools, and burden the environment with heavy energy and water demands.</p><p>The piece contends that reliance on automated systems degrades human cognitive abilities, disrupts education and entry-level workforce training, and concentrates social and economic power among a small group of tech executives.</p><p><img src="https://databasetown.com/wp-content/uploads/2023/03/Ethical-Issues-of-AI.jpg" /></p><hr/><small>24 Oct 2026, 18:17 UTC | #25322</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta's Internal Investigations Team and Efforts to Prevent School Shootings</title>
+    <link href="https://www.newyorker.com/news/the-lede/inside-metas-efforts-to-prevent-school-shootings" rel="alternate" />
+    <id>https://www.newyorker.com/news/the-lede/inside-metas-efforts-to-prevent-school-shootings::v240</id>
+    <published>2026-10-24T14:47:00+00:00</published>
+    <updated>2026-10-24T14:47:00+00:00</updated>
+    <media:thumbnail url="https://cdn.mos.cms.futurecdn.net/oK7jyyN3Hy7TDPWbGkPF9Q-1200-80.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.newyorker.com/news/the-lede/inside-metas-efforts-to-prevent-school-shootings">newyorker.com</a></small></p><hr/><p>Meta operates a specialized internal investigations team that uses automated artificial intelligence tools and human reviewers to scan social media platforms for signs of targeted school shooting plots and violent extremism. Established in 2018 and led by former law enforcement professionals, the unit monitors online behavior, shared content, and interactions to identify warning signs and "leakage" before forwarding actionable threats to law enforcement agencies worldwide.</p><p>The team's work intersects with the True Crime Community, an online subculture that romanticizes mass murderers and continually evolves its language and iconography to evade content moderation. While law enforcement officials credit Meta's tips with disrupting several active plots, researchers and critics argue that algorithmic social media feeds and reduced investments in broader trust-and-safety programs continue to amplify extremist content and radicalize vulnerable users.</p><p><img src="https://cdn.mos.cms.futurecdn.net/oK7jyyN3Hy7TDPWbGkPF9Q-1200-80.png" /></p><hr/><small>24 Oct 2026, 18:05 UTC | #25296</small>]]></content>
+  </entry>
   <entry>
     <title>UK Establishes £100M AI Biosecurity Lab</title>
     <link href="https://www.bbc.com/news/articles/cqdjv8xllvyyo" rel="alternate" />
