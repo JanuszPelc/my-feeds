@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-24T15:37:00+00:00</updated>
+  <updated>2026-10-24T20:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</logo>
+  <entry>
+    <title>Steal My Bitcoin PHP Security Challenge</title>
+    <link href="https://stealmybitcoin.com/" rel="alternate" />
+    <id>https://stealmybitcoin.com/::v240</id>
+    <published>2026-10-24T20:31:00+00:00</published>
+    <updated>2026-10-24T20:31:00+00:00</updated>
+    <media:thumbnail url="https://manoamano.s3.amazonaws.com/uploads/offer/image_1/60339/zoom_bitcoin-private-key-1-951a16661ffc8987.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://stealmybitcoin.com/">stealmybitcoin.com</a> | <a href="https://news.ycombinator.com/item?id=50224916">hacker news</a></small></p><hr/><p>Steal My Bitcoin is a web security challenge that invites participants to compromise a server and retrieve a hidden bitcoin private key valued at approximately $500. The secret key is accessible to the PHP user account through a binary, utilizing a PHP version selected from before the release of PHP2SHELL vulnerabilities.</p><p>The competition follows a first-to-finish format, meaning the initial participant to successfully access the wallet wins the funds. Organizers suggest that winners who do not need the money consider donating it to GiveWell.</p><p><img src="https://manoamano.s3.amazonaws.com/uploads/offer/image_1/60339/zoom_bitcoin-private-key-1-951a16661ffc8987.jpg" /></p><hr/><small>24 Oct 2026, 22:33 UTC | #25336</small>]]></content>
+  </entry>
   <entry>
     <title>FreeDNS Free and Dynamic DNS Hosting Platform</title>
     <link href="https://freedns.afraid.org/" rel="alternate" />
