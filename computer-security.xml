@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-24T15:30:00+00:00</updated>
+  <updated>2026-10-24T15:37:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</logo>
+  <entry>
+    <title>FreeDNS Free and Dynamic DNS Hosting Platform</title>
+    <link href="https://freedns.afraid.org/" rel="alternate" />
+    <id>https://freedns.afraid.org/::v240</id>
+    <published>2026-10-24T15:37:00+00:00</published>
+    <updated>2026-10-24T15:37:00+00:00</updated>
+    <media:thumbnail url="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2022/03/freenom-review-2020-3.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://freedns.afraid.org/">freedns.afraid.org</a> | <a href="https://news.ycombinator.com/item?id=50222133">hacker news</a></small></p><hr/><p>FreeDNS, hosted at afraid.org, is a long-standing service providing free and premium domain hosting, dynamic DNS (DDNS), static DNS, and URL redirection. The platform enables users to easily map dynamic or static IP addresses to domain names, facilitating remote access and server management across IPv4 and IPv6 networks.</p><p>Trusted by millions of members managing millions of records, the service includes features such as automated IP updates via command-line tools and routers, reverse IPv6 DNS hosting, and access to a shared domain registry containing tens of thousands of subdomains for user attachment.</p><p><img src="https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2022/03/freenom-review-2020-3.png" /></p><hr/><small>24 Oct 2026, 20:20 UTC | #25330</small>]]></content>
+  </entry>
   <entry>
     <title>Brotli Decoder Vulnerability CVE-2026-111497 Affects Multiple HTTP Libraries and Applications</title>
     <link href="https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497" rel="alternate" />
