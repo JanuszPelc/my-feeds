@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-24T10:43:00+00:00</updated>
+  <updated>2026-10-24T13:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png</logo>
+  <entry>
+    <title>Steve Blank: Starlink Restrictions Spark European Push to Replace US Technology</title>
+    <link href="https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/" rel="alternate" />
+    <id>https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/::v240</id>
+    <published>2026-10-24T13:10:00+00:00</published>
+    <updated>2026-10-24T13:10:00+00:00</updated>
+    <media:thumbnail url="https://media.cybernews.com/images/750w/2026/03/Satellite-Open-Cosmos.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/">steveblank.com</a> | <a href="https://news.ycombinator.com/item?id=50220913">hacker news</a></small></p><hr/><p>In an essay examining the geopolitical fallout of recent U.S. actions in Ukraine, entrepreneur and educator Steve Blank argues that the throttling of Starshield has shattered European complacency regarding reliance on American technology. He contends that a unilateral decision by an American executive to degrade a partner's communications has exposed critical national security vulnerabilities, proving to European policymakers that outsourcing digital infrastructure carries unacceptably high sovereign risks.</p><p>Blank notes that while digital sovereignty was once seen as an insurmountable challenge, advances in artificial intelligence now lower the cost of replicating U.S. software and enterprise systems. He predicts that this shift will permanently damage American technology companies as European nations actively build domestic alternatives, ultimately costing U.S. firms billions in lost revenue and diminishing American technological leadership.</p><p><img src="https://media.cybernews.com/images/750w/2026/03/Satellite-Open-Cosmos.jpg" /></p><hr/><small>24 Oct 2026, 15:27 UTC | #25308</small>]]></content>
+  </entry>
   <entry>
     <title>Privacy Risks of Sensitive Data in Application Log Files</title>
     <link href="https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/" rel="alternate" />
