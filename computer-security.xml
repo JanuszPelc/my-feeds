@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-24T20:34:00+00:00</updated>
+  <updated>2026-10-24T20:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</logo>
+  <entry>
+    <title>Analysis of Recent Critical Software Vulnerabilities and AI-Assisted Exploits</title>
+    <link href="https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/" rel="alternate" />
+    <id>https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/::v240</id>
+    <published>2026-10-24T20:36:00+00:00</published>
+    <updated>2026-10-24T20:36:00+00:00</updated>
+    <media:thumbnail url="https://drew.silcock.dev/_astro/php-notice.ClEI-qpZ_Z1XKVaY.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/">drew.silcock.dev</a> | <a href="https://news.ycombinator.com/item?id=50207115">hacker news</a></small></p><hr/><p>A cluster of severe software vulnerabilities and security incidents in October 2026, including the PHP2Shell remote code execution bugs, eMudhra certificate authority key compromises, Railway environment variable breaches, and GitLab regex RCE flaws, highlighted the accelerating impact of artificial intelligence on exploit development.</p><p>Frontier AI models enable actors to rapidly convert theoretical vulnerabilities and security patch diffs into functional exploits within hours of disclosure. This compression of the vulnerability lifecycle shifts disclosure timelines and forces organizations to contend with automated, large-scale attacks before patches can be fully deployed.</p><p><img src="https://drew.silcock.dev/_astro/php-notice.ClEI-qpZ_Z1XKVaY.webp" /></p><hr/><small>24 Oct 2026, 23:59 UTC | #25337</small>]]></content>
+  </entry>
   <entry>
     <title>Bitflux Compares DiskArray and AVL Tree Performance in Memory Is Slow, Disk Is Fast Part 3</title>
     <link href="https://www.bitflux.ai/blog/memory-is-slow-part3/" rel="alternate" />
