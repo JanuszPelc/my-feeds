@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-25T09:01:00+00:00</updated>
+  <updated>2026-10-25T09:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png</logo>
+  <entry>
+    <title>Missileer Watch Tracks Military Emergency Action Messages on Shortwave Radio</title>
+    <link href="https://missileer.watch" rel="alternate" />
+    <id>https://missileer.watch::v240</id>
+    <published>2026-10-25T09:21:00+00:00</published>
+    <updated>2026-10-25T09:21:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/MHPUYNloJTA/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://missileer.watch">missileer.watch</a> | <a href="https://news.ycombinator.com/item?id=50224422">hacker news</a></small></p><hr/><p>Missileer Watch is an online platform that provides a live shortwave radio feed and historical archive of United States military Emergency Action Messages broadcast over the High Frequency Global Communications System on 11175 kHz. The site makes intercepted tactical broadcasts accessible to the public alongside crowd-corrected transcripts and aircraft tracking data.</p><p>Developed by former 321st Missile Squadron combat crew member Daniel Frenkel, the project offers transparency into military communication channels without compromising operational security, as the underlying tactical messages remain heavily encrypted. Operating with minimal tracking and open-source licensing, the platform serves as a resource for radio enthusiasts and researchers monitoring strategic command traffic.</p><p><img src="https://i.ytimg.com/vi/MHPUYNloJTA/maxresdefault.jpg" /></p><hr/><small>25 Oct 2026, 14:33 UTC | #25380</small>]]></content>
+  </entry>
   <entry>
     <title>Sleeping Giants Brasil and CTRL+Z Submit New Evidence of Meta Electoral Bias to TSE</title>
     <link href="https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order" rel="alternate" />
