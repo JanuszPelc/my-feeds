@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-25T09:12:00+00:00</updated>
+  <updated>2026-10-25T09:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png</logo>
+  <entry>
+    <title>Blackstone-Led CoreWeave Loan Sparks Chip-Backed Debt Boom</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-23/blackstone-bet-on-chips-drove-a-debt-boom-that-s-upending-credit" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-23/blackstone-bet-on-chips-drove-a-debt-boom-that-s-upending-credit::v240</id>
+    <published>2026-10-25T09:13:00+00:00</published>
+    <updated>2026-10-25T09:13:00+00:00</updated>
+    <media:thumbnail url="https://storage.googleapis.com/uploads.mongoosehq.com/url/media/119154598/d0df088b367c4fdcc7831156c9fa35529285b778a0bfe104cf232437425f7f76" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-23/blackstone-bet-on-chips-drove-a-debt-boom-that-s-upending-credit">bloomberg.com</a></small></p><hr/><p>A 2023 private credit loan of $2.3 billion led by Blackstone Inc. to CoreWeave Inc. established a model for financing artificial intelligence infrastructure using graphics processing units as collateral. This strategy has catalyzed a rapidly expanding chip-backed debt market projected to approach $1 trillion.</p><p>The initial financing arrangement has reshaped modern corporate credit by demonstrating how specialized tech assets can secure massive debt facilities. As lenders and borrowers continue to scale these GPU-backed facilities, the trend is introducing new risk profiles and transforming how capital is deployed across the tech sector.</p><p><img src="https://storage.googleapis.com/uploads.mongoosehq.com/url/media/119154598/d0df088b367c4fdcc7831156c9fa35529285b778a0bfe104cf232437425f7f76" /></p><hr/><small>25 Oct 2026, 13:04 UTC | #25354</small>]]></content>
+  </entry>
   <entry>
     <title>Baba Secures $40 Million Series A Funding for AI Medicare Platform</title>
     <link href="https://www.fiercehealthcare.com/finance/baba-nabs-40m-series-backed-firstmark-capital-and-cvs-health-ventures-medicare-ai-care" rel="alternate" />
