@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-24T20:38:00+00:00</updated>
+  <updated>2026-10-24T23:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>Ollama Adds Speech Model Support with Gradium Phonon</title>
+    <link href="https://ollama.com/blog/speech-models" rel="alternate" />
+    <id>https://ollama.com/blog/speech-models::v240</id>
+    <published>2026-10-24T23:16:00+00:00</published>
+    <updated>2026-10-24T23:16:00+00:00</updated>
+    <media:thumbnail url="https://miro.medium.com/v2/resize:fit:1200/1*o4iRX8gbQ-YKtKqikI2E7w.png" />
+    <content type="html"><![CDATA[<p><small>Ollama Blog | <a href="https://ollama.com/blog/speech-models">ollama.com</a></small></p><hr/><p>Ollama has introduced text-to-speech capabilities, launching support with Phonon, a family of small open-weight speech models developed by Gradium. The integration currently runs on macOS with Apple Silicon acceleration through MLX, with Windows and Linux support scheduled for future releases.</p><p>Phonon models are available in English, French, German, Spanish, and Portuguese variants, providing real-time streaming audio compatible with the OpenAI-compatible `/v1/audio/speech` endpoint. The English model is distributed under the Apache 2.0 license, whereas the multilingual and localized 40-million parameter models carry a noncommercial CC BY-NC 4.0 license.</p><p><img src="https://miro.medium.com/v2/resize:fit:1200/1*o4iRX8gbQ-YKtKqikI2E7w.png" /></p><hr/><small>25 Oct 2026, 04:50 UTC | #25349</small>]]></content>
+  </entry>
   <entry>
     <title>TechCrunch Maintains Running List of Defunct AI Projects and Startups</title>
     <link href="https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/" rel="alternate" />
