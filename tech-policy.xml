@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-25T15:01:00+00:00</updated>
+  <updated>2026-10-25T18:05:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png</logo>
+  <entry>
+    <title>Eugene Police Department Charges News Outlet $2.5 Million for Police Misconduct Records</title>
+    <link href="https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/" rel="alternate" />
+    <id>https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/::v240</id>
+    <published>2026-10-25T18:05:00+00:00</published>
+    <updated>2026-10-25T18:05:00+00:00</updated>
+    <media:thumbnail url="https://theintercept.com/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-4.14.38-PM-1.png?fit=1436%2C930" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/">theintercept.com</a> | <a href="https://doublesidedmedia.com/2026/09/30/editorial-the-eugene-police-wants-dsm-to-pay-2-6-million-for-records/">source</a> | <a href="https://news.ycombinator.com/item?id=50234232">hacker news</a></small></p><hr/><p>The Eugene Police Department in Oregon billed local news outlet Double Sided Media nearly $2.5 million to fulfill a public records request regarding misconduct by police officer Justin Peckels. A separate request for records concerning a former officer added another $195,000, bringing total fee estimates for the two inquiries to nearly $2.7 million.</p><p>The department justified the multimillion-dollar cost by claiming it was required to search all records across all city employees past and present, a tactic critics describe as an intentional effort to make requests prohibitively expensive. The case highlights broader transparency hurdles where exorbitant fees and software limitations are used to obstruct public oversight of law enforcement agencies.</p><p><img src="https://theintercept.com/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-4.14.38-PM-1.png?fit=1436%2C930" /></p><hr/><small>25 Oct 2026, 20:27 UTC | #25401</small>]]></content>
+  </entry>
   <entry>
     <title>Lawmakers and Hill Staffers View AI Leaders as Political Liability</title>
     <link href="https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability" rel="alternate" />
