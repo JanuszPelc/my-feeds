@@ -582,13 +582,4 @@
     <media:thumbnail url="https://lukaswerner.com/static/supporting/bottom-up-vga/img_1748375311159.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lukaswerner.com/post/2026-10-20@bottom-up-vga">lukaswerner.com</a> | <a href="https://lobste.rs/s/mngelc/making_vga_driver_systemverilog">discussion</a> | <a href="https://news.ycombinator.com/item?id=50168376">hacker news</a></small></p><hr/><p>A VGA driver implemented in SystemVerilog for the Terasic DE10-Lite FPGA uses counters to manage HSync and VSync signals, including timing for scanlines, visible areas, and porches. A clock divider converts the 50 MHz onboard clock to the 25 MHz frequency required for the VGA standard.</p><p>The design enables rendering images from ROM and supports transparency through alpha compositing. A custom Go-based tool was created to transform image files into memory initialization files for the FPGA.</p><p><img src="https://lukaswerner.com/static/supporting/bottom-up-vga/img_1748375311159.jpg" /></p><hr/><small>21 Oct 2026, 03:46 UTC | #24975</small>]]></content>
   </entry>
-  <entry>
-    <title>Mastodon Details Upcoming 5.0 Web Interface Redesign</title>
-    <link href="https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/" rel="alternate" />
-    <id>https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/::v240</id>
-    <published>2026-10-20T19:00:00+00:00</published>
-    <updated>2026-10-20T19:00:00+00:00</updated>
-    <media:thumbnail url="https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/mastodon-5.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/">blog.joinmastodon.org</a> | <a href="https://lobste.rs/s/dlbufy/mastodon_5_0_closer_look">discussion</a></small></p><hr/><p>Mastodon has detailed the upcoming 5.0 release, highlighting a comprehensive user interface overhaul designed to simplify navigation and lower barriers for new users. The update introduces a redesigned post composer positioned at the bottom center, refreshed feed layouts, tokenized design system color themes, and separated settings for sensitive media and content warnings.</p><p>Based on community feedback gathered during discovery sessions and beta testing, the redesign aims to balance the power of the existing interface with a more intuitive experience for newcomers. The team is rolling out the updated design on mastodon.social ahead of releasing the first 5.0 beta version to server administrators for broader testing.</p><p><img src="https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/mastodon-5.jpg" /></p><hr/><small>21 Oct 2026, 00:02 UTC | #24964</small>]]></content>
-  </entry>
 </feed>
