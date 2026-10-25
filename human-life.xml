@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-  <title>human-values</title>
-  <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-values.xml" rel="self" type="application/atom+xml" />
-  <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-values.xml</id>
+  <title>human-life</title>
+  <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml" rel="self" type="application/atom+xml" />
+  <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml</id>
   <updated>2026-10-23T17:53:00+00:00</updated>
-  <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-values.png</icon>
-  <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-values.png</logo>
+  <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png</icon>
+  <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png</logo>
   <entry>
     <title>UK AI Security Institute Publishes Technical Report on Mythos 5 Alignment Failures</title>
     <link href="https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident" rel="alternate" />

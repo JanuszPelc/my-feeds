@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-24T13:10:00+00:00</updated>
+  <updated>2026-10-25T09:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png</logo>
+  <entry>
+    <title>Sleeping Giants Brasil and CTRL+Z Submit New Evidence of Meta Electoral Bias to TSE</title>
+    <link href="https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order" rel="alternate" />
+    <id>https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order::v240</id>
+    <published>2026-10-25T09:01:00+00:00</published>
+    <updated>2026-10-25T09:01:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!CdTr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d3b04ca-0141-4aca-81e2-f64fd77e8555_1157x626.jpeg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order">panamericandispatch.org</a> | <a href="https://news.ycombinator.com/item?id=50229587">hacker news</a></small></p><hr/><p>Sleeping Giants Brasil and advocacy group CTRL+Z have submitted new evidence to Brazil's Superior Electoral Court alleging that Meta continues to favor the presidential campaign of Senator Flávio Bolsonaro over that of incumbent President Luiz Inácio Lula da Silva. The filing claims that search results, image rankings, hashtag ordering, and Meta AI features on Instagram and WhatsApp display systemic biases that disadvantage Lula while promoting Bolsonaro and linking the president to derogatory content.</p><p>The latest legal challenge follows an earlier electoral court order requiring Meta to ensure equal treatment for both candidates under threat of substantial daily fines, which justices have recently threatened to double amid ongoing compliance disputes. Alongside the court petition, the organizations held a public demonstration at Meta's São Paulo headquarters to demand greater transparency regarding algorithmic ranking criteria and artificial intelligence outputs during the presidential race.</p><p><img src="https://substackcdn.com/image/fetch/$s_!CdTr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d3b04ca-0141-4aca-81e2-f64fd77e8555_1157x626.jpeg" /></p><hr/><small>25 Oct 2026, 11:45 UTC | #25365</small>]]></content>
+  </entry>
   <entry>
     <title>Steve Blank: Starlink Restrictions Spark European Push to Replace US Technology</title>
     <link href="https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/" rel="alternate" />

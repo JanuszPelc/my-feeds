@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-23T23:11:00+00:00</updated>
+  <updated>2026-10-25T04:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png</logo>
+  <entry>
+    <title>London Stock Exchange Group Agrees to Acquire Octus for $3.54 Billion</title>
+    <link href="https://www.wsj.com/business/deals/london-stock-exchange-group-agrees-to-buy-octus-from-permira-for-3-5-billion-69361aa5?st=DDte3S&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/business/deals/london-stock-exchange-group-agrees-to-buy-octus-from-permira-for-3-5-billion-69361aa5?st=DDte3S&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-10-25T04:41:00+00:00</published>
+    <updated>2026-10-25T04:41:00+00:00</updated>
+    <media:thumbnail url="https://icdn.isrgrajan.com/in/2026/10/lseg-agrees-to-buy-credit-intelligence-provider-octus-3-535bn.webp" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/business/deals/london-stock-exchange-group-agrees-to-buy-octus-from-permira-for-3-5-billion-69361aa5?st=DDte3S&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.lseg.com/en/media-centre/press-releases/2026/lseg-acquire-octus-public-private-credit-solutions">source</a></small></p><hr/><p>London Stock Exchange Group has agreed to acquire credit intelligence and workflow software provider Octus from Permira and company management for $3.54 billion in cash. The transaction is designed to expand the group's presence across both public and private credit data markets.</p><p>The acquisition represents LSEG's largest deal in seven years as the company enhances its data and analytics capabilities amid rising demand for specialized financial technology. Alongside the announcement, LSEG raised its full-year outlook for revenue and profit margins.</p><p><img src="https://icdn.isrgrajan.com/in/2026/10/lseg-agrees-to-buy-credit-intelligence-provider-octus-3-535bn.webp" /></p><hr/><small>25 Oct 2026, 11:45 UTC | #25348</small>]]></content>
+  </entry>
   <entry>
     <title>AI Film Studio Utopai Raises $60 Million at $1 Billion Valuation</title>
     <link href="https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes" rel="alternate" />

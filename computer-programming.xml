@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-24T21:48:00+00:00</updated>
+  <updated>2026-10-25T01:55:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>Implementing SIMD Vector Operations in Go</title>
+    <link href="https://internals-for-interns.com/posts/go-simd/" rel="alternate" />
+    <id>https://internals-for-interns.com/posts/go-simd/::v240</id>
+    <published>2026-10-25T01:55:00+00:00</published>
+    <updated>2026-10-25T01:55:00+00:00</updated>
+    <media:thumbnail url="https://internals-for-interns.com/images/go-simd-scalar-vs-simd.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://internals-for-interns.com/posts/go-simd/">internals-for-interns.com</a> | <a href="https://lobste.rs/s/whgofc/simd_go">discussion</a></small></p><hr/><p>Go introduces experimental support for Single Instruction, Multiple Data (SIMD) operations through the architecture-specific simd/archsimd package in Go 1.26 and the portable simd package in Go 1.27. These packages allow developers to write standard Go code that compiles into native vector instructions, utilizing wide CPU registers to process multiple data elements simultaneously across lanes.</p><p>The guide details fundamental vector operations including loads, stores, broadcasts, and fused multiply-add (FMA) instructions using 256-bit registers on amd64 architectures. By leveraging these packages, performance-critical applications such as image processing and numerical computing can achieve significant speedups without resorting to hand-written assembly language.</p><p><img src="https://internals-for-interns.com/images/go-simd-scalar-vs-simd.webp" /></p><hr/><small>25 Oct 2026, 11:44 UTC | #25367</small>]]></content>
+  </entry>
   <entry>
     <title>Dan Luu Argues Developers Should Be More Ambitious With Software</title>
     <link href="https://danluu.com/ambitious/" rel="alternate" />

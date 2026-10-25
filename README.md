@@ -1,7 +1,7 @@
 # My RSS feeds
 
 The feeds I actually read, published here so other people can subscribe too. Most of them
-are about technology, artificial intelligence in particular. They update as new stories land.
+are about technology, a few about science and how we live. They update as new stories land.
 
 ## Subscribing
 
@@ -10,8 +10,8 @@ Add any feed to your reader using its link:
 - [ai-news](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml): new AI models and agents, the tools to run them, and the products built on them
 - [computer-programming](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml): the craft of building software, from new languages to old machines
 - [computer-security](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml): how systems get broken and fixed, and the networks that keep the internet running
-- [human-knowledge](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml): what researchers are finding out in science, math, health, and beyond
-- [human-values](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-values.xml): the human side of tech, including its risks and what it does to art, truth, and trust
+- [human-knowledge](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml): what researchers are finding out in science, math, and engineering
+- [human-life](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml): what shapes our health, minds, creativity, and everyday lives
 - [music-production](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml): new tools for making music and the business around it
 - [tech-consumer](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml): the games, gadgets, shows, and books people spend their time on
 - [tech-finance](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml): where the money in tech goes, from funding rounds and deals to earnings
