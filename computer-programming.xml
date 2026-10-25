@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-25T15:35:00+00:00</updated>
+  <updated>2026-10-25T15:38:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>fheroes2 Open-Source Heroes of Might and Magic II Engine Recreation</title>
+    <link href="https://github.com/ihhub/fheroes2" rel="alternate" />
+    <id>https://github.com/ihhub/fheroes2::v240</id>
+    <published>2026-10-25T15:38:00+00:00</published>
+    <updated>2026-10-25T15:38:00+00:00</updated>
+    <media:thumbnail url="https://github.com/ihhub/fheroes2/raw/master/docs/images/screenshots/screenshot_world_map.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/ihhub/fheroes2">github.com</a> | <a href="https://news.ycombinator.com/item?id=50230384">hacker news</a></small></p><hr/><p>fheroes2 is an open-source, multiplatform recreation of the Heroes of Might and Magic II game engine, written completely from scratch. The project aims to reproduce the classic turn-based strategy game while introducing significant enhancements to gameplay, graphics, artificial intelligence, and the user interface.</p><p>Users must provide their own original game resources or a demo version to run the engine on modern hardware. Licensed under the GNU General Public License v2.0, the project welcomes community contributions for code, translations, and graphical assets, with development coordinated via GitHub and supported through platforms like Patreon.</p><p><img src="https://github.com/ihhub/fheroes2/raw/master/docs/images/screenshots/screenshot_world_map.webp" /></p><hr/><small>25 Oct 2026, 19:21 UTC | #25397</small>]]></content>
+  </entry>
   <entry>
     <title>Chromium Audio Service Crash Caused by Glibc Update</title>
     <link href="https://refi64.dev/posts/chromium-audio-break.html" rel="alternate" />
