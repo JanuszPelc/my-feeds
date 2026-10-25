@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-24T20:36:00+00:00</updated>
+  <updated>2026-10-24T20:45:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</logo>
+  <entry>
+    <title>Danish Ministry of Digitalization Drops Open-Source Collabora Pilot</title>
+    <link href="https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft" rel="alternate" />
+    <id>https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft::v240</id>
+    <published>2026-10-24T20:45:00+00:00</published>
+    <updated>2026-10-24T20:45:00+00:00</updated>
+    <media:thumbnail url="https://www.collaboraonline.com/wp-content/uploads/2025/07/Collabora-Office-Apps-Labelled-2048x1152.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft">computerworld.dk</a> | <a href="https://news.ycombinator.com/item?id=50223844">hacker news</a></small></p><hr/><p>The Danish Ministry of Digitalization has quietly ended its pilot project testing the open-source office suite Collabora as an alternative to Microsoft Office. The trial, launched in the summer of 2025, involved approximately 40 ministry employees.</p><p>The project was dropped without a formal public evaluation following various technical and compatibility hurdles, including formatting flaws and document-tracking issues. As a result, staff remain reliant on Microsoft's proprietary software.</p><p><img src="https://www.collaboraonline.com/wp-content/uploads/2025/07/Collabora-Office-Apps-Labelled-2048x1152.png" /></p><hr/><small>25 Oct 2026, 01:06 UTC | #25341</small>]]></content>
+  </entry>
   <entry>
     <title>Analysis of Recent Critical Software Vulnerabilities and AI-Assisted Exploits</title>
     <link href="https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/" rel="alternate" />
