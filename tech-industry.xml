@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-24T20:32:00+00:00</updated>
+  <updated>2026-10-24T23:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png</logo>
+  <entry>
+    <title>US Creative Industries Experience Over 200,000 Job Losses Amid AI Growth</title>
+    <link href="https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class" rel="alternate" />
+    <id>https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class::v240</id>
+    <published>2026-10-24T23:12:00+00:00</published>
+    <updated>2026-10-24T23:12:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!oz9x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F999e3450-1df3-457d-8715-5e2e46d5121c_2886x1843.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class">apricitas.io</a> | <a href="https://news.ycombinator.com/item?id=50226419">hacker news</a></small></p><hr/><p>America’s creative and media industries have lost more than 200,000 jobs over the last four years, a downturn that coincides with the rapid expansion of generative artificial intelligence systems capable of producing text, images, and audio at scale. Although isolating exact job losses caused specifically by AI is complicated by broader industry trends such as market consolidation and shifts toward user-generated content, nearly all digital media subsectors have experienced persistent employment declines.</p><p>The essay compares this transition to previous technological disruptions, noting how internet file-sharing permanently altered music and publishing business models. While the music industry mitigated revenue losses by shifting toward live touring and concerts, sectors like film and television lack a similar live-event fallback, leaving traditional studio employment increasingly vulnerable to competition from automated and online content creation.</p><p><img src="https://substackcdn.com/image/fetch/$s_!oz9x!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F999e3450-1df3-457d-8715-5e2e46d5121c_2886x1843.png" /></p><hr/><small>25 Oct 2026, 02:54 UTC | #25346</small>]]></content>
+  </entry>
   <entry>
     <title>Ciena CEO Gary Smith Discusses AI Demand and Optical Networking</title>
     <link href="https://www.wsj.com/cio-journal/a-veteran-of-the-telecom-bust-navigates-the-ai-boom-b063fa63?st=YJm3H4&amp;reflink=desktopwebshare_permalink" rel="alternate" />
