@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-25T13:44:00+00:00</updated>
+  <updated>2026-10-25T14:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>Zig Programming Language Details Partial Operator Precedence and Package Updates in Devlog</title>
+    <link href="https://ziglang.org/devlog/2026/#2026-10-24" rel="alternate" />
+    <id>https://ziglang.org/devlog/2026/#2026-10-24::v240</id>
+    <published>2026-10-25T14:19:00+00:00</published>
+    <updated>2026-10-25T14:19:00+00:00</updated>
+    <media:thumbnail url="https://image.slidesharecdn.com/operatorprecedanceparsing-200427055224/75/Operator-precedance-parsing-12-2048.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://ziglang.org/devlog/2026/#2026-10-24">ziglang.org</a> | <a href="https://lobste.rs/s/kiivg2/partial_order_precedence">discussion</a></small></p><hr/><p>The Zig programming language devlog details recent updates to its main branch, highlighted by the implementation of partial operator precedence to reduce ambiguous expressions and require clarifying parentheses. Additional changes include new metadata options for naked packages, package hash consistency validation, and enhanced CLI tooling for inspecting dependency trees.</p><p>The updates also introduce pointer stability locks for standard library ArrayLists to detect memory safety bugs, alongside more resilient help menus and configuration diagnostics. Developers can upgrade existing codebases by manually resolving compiler errors or using the zig fmt --upgrade tool to automatically insert necessary parentheses.</p><p><img src="https://image.slidesharecdn.com/operatorprecedanceparsing-200427055224/75/Operator-precedance-parsing-12-2048.jpg" /></p><hr/><small>25 Oct 2026, 17:26 UTC | #25389</small>]]></content>
+  </entry>
   <entry>
     <title>Slurp Burgers Builds Custom Slurptop Ryzen Cyberdeck Powered by Power Tool Batteries</title>
     <link href="https://slurpburgers.com/slurpbuilds/the-slurptop/" rel="alternate" />

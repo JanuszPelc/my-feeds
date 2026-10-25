@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-25T10:43:00+00:00</updated>
+  <updated>2026-10-25T13:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</logo>
+  <entry>
+    <title>Apple Security Research Device Program Open for Applications</title>
+    <link href="https://security.apple.com/research-device/" rel="alternate" />
+    <id>https://security.apple.com/research-device/::v240</id>
+    <published>2026-10-25T13:48:00+00:00</published>
+    <updated>2026-10-25T13:48:00+00:00</updated>
+    <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2024/02/apple-security-research-device.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://security.apple.com/research-device/">security.apple.com</a> | <a href="https://news.ycombinator.com/item?id=50217903">hacker news</a></small></p><hr/><p>Apple has opened applications for its Security Research Device Program, providing approved researchers with a specially fused iPhone designed to facilitate iOS security analysis without requiring hardware bypasses. Participants receive the device as a 12-month renewable loan, granting them shell access, custom kernel capabilities, and specialized tooling for vulnerability discovery across most iOS components.</p><p>The program is open to vetted security researchers who meet eligibility criteria, with applications accepted through October 30, 2026. Findings discovered using the device are automatically considered for the Apple Security Bounty, though participants must adhere to strict guidelines requiring the hardware to remain secured on their premises and used exclusively for authorized research.</p><p><img src="https://techcrunch.com/wp-content/uploads/2024/02/apple-security-research-device.jpg" /></p><hr/><small>25 Oct 2026, 17:25 UTC | #25393</small>]]></content>
+  </entry>
   <entry>
     <title>Samsung Tizen TV Software Found Running TensorFlow Lite Model for Game Recognition</title>
     <link href="https://twitter.com/mike64_t/status/2114150399406202896" rel="alternate" />
