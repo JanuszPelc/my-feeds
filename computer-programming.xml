@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-25T15:38:00+00:00</updated>
+  <updated>2026-10-25T18:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>MongoDB Engineering Paper Examines YAML-Based Conformance Testing for Client Drivers</title>
+    <link href="https://emptysqua.re/blog/polyglots-dilemma/" rel="alternate" />
+    <id>https://emptysqua.re/blog/polyglots-dilemma/::v240</id>
+    <published>2026-10-25T18:25:00+00:00</published>
+    <updated>2026-10-25T18:25:00+00:00</updated>
+    <media:thumbnail url="https://webassets.mongodb.com/_com_assets/cms/Screenshot+2025-06-02+at+8.36.05 AM-2yqcix233f.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://emptysqua.re/blog/polyglots-dilemma/">emptysqua.re</a> | <a href="https://lobste.rs/s/gzpdsk/polyglot_s_dilemma_conformance_testing">discussion</a></small></p><hr/><p>MongoDB develops native client libraries in a dozen programming languages to ensure idiomatic integration and runtime performance. To maintain consistent behavior and APIs across all drivers without relying on ambiguous prose specifications, the engineering team adopted a unified test format built on YAML. This framework enables a single test corpus to verify complex behaviors—such as connection retries, transaction handling, and server selection—across every supported language.</p><p>Adopting the unified YAML test format allowed MongoDB to eliminate tens of thousands of lines of duplicate test-runner code and reduced nonconformance bug rates across most supported drivers. The system uses server fail points and command-wire inspection to validate hidden internal mechanics that standard surface-level API tests cannot observe. The methodology and historical metrics are documented in a research paper accepted by the IEEE International Symposium on Software Reliability Engineering (ISSRE).</p><p><img src="https://webassets.mongodb.com/_com_assets/cms/Screenshot+2025-06-02+at+8.36.05 AM-2yqcix233f.png" /></p><hr/><small>25 Oct 2026, 21:12 UTC | #25402</small>]]></content>
+  </entry>
   <entry>
     <title>fheroes2 Open-Source Heroes of Might and Magic II Engine Recreation</title>
     <link href="https://github.com/ihhub/fheroes2" rel="alternate" />
