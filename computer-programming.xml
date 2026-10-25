@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-25T14:19:00+00:00</updated>
+  <updated>2026-10-25T14:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>Shraiwi Implements SIMD-Accelerated FAST Feature Detector on ESP32-S3</title>
+    <link href="https://shraiwi.com/blog/simd-fast-esp32s3/" rel="alternate" />
+    <id>https://shraiwi.com/blog/simd-fast-esp32s3/::v240</id>
+    <published>2026-10-25T14:58:00+00:00</published>
+    <updated>2026-10-25T14:58:00+00:00</updated>
+    <media:thumbnail url="https://hackaday.com/wp-content/uploads/2024/07/esp32-s3-devkitc-1-v1.1-isometric.png?w=800" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://shraiwi.com/blog/simd-fast-esp32s3/">shraiwi.com</a> | <a href="https://lobste.rs/s/qsmmke/simd_accelerated_computer_vision_on_2">discussion</a></small></p><hr/><p>Developer Shranav has created a SIMD-accelerated FAST feature detector for the ESP32-S3 microcontroller, leveraging the chip's built-in 128-bit SIMD instructions. The optimized implementation processes a QVGA (320x240) frame in approximately six milliseconds, doubling the performance of the reference implementation and reaching a throughput of 11.2 megapixels per second.</p><p>Developing the assembly code required working around hardware constraints such as the lack of direct misaligned memory reads and an instruction set limited to signed 8-bit comparisons. By applying bitwise XOR operations to unsigned pixel data, the code successfully shifts numerical ranges without triggering the chip's saturating arithmetic limits.</p><p><img src="https://hackaday.com/wp-content/uploads/2024/07/esp32-s3-devkitc-1-v1.1-isometric.png?w=800" /></p><hr/><small>25 Oct 2026, 17:59 UTC | #25394</small>]]></content>
+  </entry>
   <entry>
     <title>Zig Programming Language Details Partial Operator Precedence and Package Updates in Devlog</title>
     <link href="https://ziglang.org/devlog/2026/#2026-10-24" rel="alternate" />
