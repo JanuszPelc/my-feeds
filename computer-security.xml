@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-25T15:10:00+00:00</updated>
+  <updated>2026-10-25T17:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</logo>
+  <entry>
+    <title>Bogomil Shopov Announces Digital Dissident Devroom for FOSDEM 2027</title>
+    <link href="https://talkweb.eu/openweb/4558/" rel="alternate" />
+    <id>https://talkweb.eu/openweb/4558/::v240</id>
+    <published>2026-10-25T17:31:00+00:00</published>
+    <updated>2026-10-25T17:31:00+00:00</updated>
+    <media:thumbnail url="https://www.stormycloud.org/images/blog/censorship-circumvention.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://talkweb.eu/openweb/4558/">talkweb.eu</a> | <a href="https://news.ycombinator.com/item?id=50233929">hacker news</a></small></p><hr/><p>Bogomil Shopov has announced the establishment of the Digital Dissident Developer Room for the upcoming FOSDEM 2027 conference, scheduled for January 30–31 in Brussels. The devroom brings together developers, researchers, and activists to focus on the end-to-end toolchains required to protect at-risk users from state surveillance and digital censorship.</p><p>The call for participation runs until November 30, 2026, inviting technical proposals on censorship circumvention, metadata-resistant communication, and secure reporting. Unlike tracks centered on individual technologies, this devroom addresses the integrated challenges faced by dissidents operating under restrictive regimes including Russia, Iran, and China.</p><p><img src="https://www.stormycloud.org/images/blog/censorship-circumvention.webp" /></p><hr/><small>25 Oct 2026, 19:35 UTC | #25399</small>]]></content>
+  </entry>
   <entry>
     <title>Security Risks of the POSIX wordexp(3) Function Examined</title>
     <link href="https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/" rel="alternate" />
