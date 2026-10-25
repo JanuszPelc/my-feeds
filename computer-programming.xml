@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-24T20:41:00+00:00</updated>
+  <updated>2026-10-24T20:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>Gpu-unlock 1.0.0 Released for Nvidia RTX 30 Series GPUs</title>
+    <link href="https://github.com/Zagitta/gpu-unlock" rel="alternate" />
+    <id>https://github.com/Zagitta/gpu-unlock::v240</id>
+    <published>2026-10-24T20:49:00+00:00</published>
+    <updated>2026-10-24T20:49:00+00:00</updated>
+    <media:thumbnail url="https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-30-series/geforce-rtx-30-series-key-visual-ogimage.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/Zagitta/gpu-unlock">github.com</a> | <a href="https://news.ycombinator.com/item?id=50219700">hacker news</a></small></p><hr/><p>Developer Zagitta has released version 1.0.0 of gpu-unlock, a Linux kernel module that lifts firmware caps on floating-point and bfloat16 instruction issue rates for NVIDIA GeForce RTX 30-series graphics cards. By applying a pre-driver timing approach before the standard driver binds the hardware, the module doubles the instruction issuing speed of FP/BF16 FMA operations on GA102, GA103, GA104, and GA106 chips.</p><p>User benchmarks indicate substantial throughput gains in dense matrix multiplication, large language model prefill, diffusion models, and FlashAttention, while memory-bandwidth-bound tasks like LLM decoding remain unaffected. The open-source tool integrates via initramfs, requires a kernel command-line opt-in parameter, and supports multi-GPU configurations, display-driving cards, and virtual machine passthrough.</p><p><img src="https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/news/geforce-rtx-30-series/geforce-rtx-30-series-key-visual-ogimage.jpg" /></p><hr/><small>25 Oct 2026, 02:00 UTC | #25344</small>]]></content>
+  </entry>
   <entry>
     <title>Goose Memory-Safe Systems Programming Language Introduced</title>
     <link href="https://aardappel.github.io/goose/" rel="alternate" />
@@ -599,23 +608,5 @@
     <updated>2026-10-20T02:07:00+00:00</updated>
     <media:thumbnail url="https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-29-image-25.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html">techspot.com</a> | <a href="https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os">discussion</a></small></p><hr/><p>The Dutch government is developing a custom digital workspace and operating system known as DAWO, built on the NixOS Linux distribution, to replace commercial software like Microsoft Windows and Office. The initiative aims to enhance digital sovereignty for public institutions and reduce reliance on foreign technology providers.</p><p>Several municipalities in the Netherlands have already begun testing the DAWO environment, which encompasses office applications, cloud services, and storage tools alongside the operating system. The project reflects a broader European trend toward open-source migration driven by concerns over foreign software dependencies and regulatory pressures.</p><p><img src="https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-29-image-25.jpg" /></p><hr/><small>20 Oct 2026, 09:01 UTC | #24854</small>]]></content>
-  </entry>
-  <entry>
-    <title>Rich Hickey Discusses Static Typing and Information Programming in In Context</title>
-    <link href="https://www.youtube.com/watch?v=P5eO7BNyJao" rel="alternate" />
-    <id>https://www.youtube.com/watch?v=P5eO7BNyJao::v240</id>
-    <published>2026-10-20T01:52:00+00:00</published>
-    <updated>2026-10-20T01:52:00+00:00</updated>
-    <media:thumbnail url="https://image.slideserve.com/1154884/static-typing-vs-dynamic-typing-n.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=P5eO7BNyJao">youtube.com</a> | <a href="https://lobste.rs/s/b36ixw/context">discussion</a> | <a href="https://news.ycombinator.com/item?id=50153140">hacker news</a></small></p><hr/><p>In his "In Context" keynote at Clojure/Conj 2026, Clojure creator Rich Hickey examined the trade-offs between static typing and dynamic programming, contrasting internal mechanisms with real-world information programming. He argued that while static types excel at managing internal software mechanisms like data structures, most developers build applications that process dynamic, external facts and data streams.</p><p>Hickey explained that information-heavy systems require flexibility, late binding, and observability rather than rigid type constraints that hinder integration with evolving external systems. By prioritizing an information-oriented design where data formats remain transparent and adaptable, developers can reduce codebase size and better navigate real-world runtime complexities.</p><p><img src="https://image.slideserve.com/1154884/static-typing-vs-dynamic-typing-n.jpg" /></p><hr/><small>20 Oct 2026, 05:41 UTC | #24847</small>]]></content>
-  </entry>
-  <entry>
-    <title>Arch Linux ARM Ported to ASUS ProArt P16 RTX Spark Laptop</title>
-    <link href="https://josie.lol/blog/linux-rtx-spark" rel="alternate" />
-    <id>https://josie.lol/blog/linux-rtx-spark::v240</id>
-    <published>2026-10-20T01:49:00+00:00</published>
-    <updated>2026-10-20T01:49:00+00:00</updated>
-    <media:thumbnail url="https://josie.lol/blog/images/n1x-arch-linux.jpg" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://josie.lol/blog/linux-rtx-spark">josie.lol</a> | <a href="https://news.ycombinator.com/item?id=50158100">hacker news</a></small></p><hr/><p>An Arch Linux package maintainer has successfully installed Arch Linux ARM on an ASUS ProArt P16 laptop powered by the NVIDIA RTX Spark platform. The custom configuration incorporates patched ACPI overrides, updated kernel support, audio drivers, and a modified bootable USB installer to bypass Windows-only restrictions.</p><p>Benchmarks show the Linux setup matches or slightly outperforms Windows ARM64 in 7-Zip multi-threaded compression and decompression tasks. Additionally, the operating system exposes a unified 116.0 GiB memory pool to both the system and CUDA, eliminating the rigid partitioning found in Windows and allowing local execution of large language models like Qwen without partitioning workarounds.</p><p><img src="https://josie.lol/blog/images/n1x-arch-linux.jpg" /></p><hr/><small>20 Oct 2026, 05:29 UTC | #24846</small>]]></content>
   </entry>
 </feed>

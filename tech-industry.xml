@@ -571,31 +571,4 @@
     <media:thumbnail url="https://resource.tradingkey.com/uploads/20260409/SpaceX-OpenAI-Anthropic-en-2-da573d8541cc4810ae219578439203dd.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/">reuters.com</a></small></p><hr/><p>OpenAI is accelerating efforts to secure approximately $30 billion in investor commitments ahead of rival Anthropic's expected public market debut in mid-November. The fast-moving funding round could push OpenAI's valuation to over $1.4 trillion as artificial intelligence companies compete for capital.</p><p>The push comes as major AI labs prepare for closer public and investor scrutiny through upcoming public offerings and large-scale capital raises. By locking down commitments before Anthropic's IPO disclosures, OpenAI aims to secure its financial positioning and valuation in a rapidly shifting market.</p><p><img src="https://resource.tradingkey.com/uploads/20260409/SpaceX-OpenAI-Anthropic-en-2-da573d8541cc4810ae219578439203dd.jpg" /></p><hr/><small>20 Oct 2026, 06:42 UTC | #24830</small>]]></content>
   </entry>
-  <entry>
-    <title>Waymo Plans to Expand Robotaxi Fleet to 20,000 Vehicles</title>
-    <link href="https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet" rel="alternate" />
-    <id>https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet::v240</id>
-    <published>2026-10-20T01:57:00+00:00</published>
-    <updated>2026-10-20T01:57:00+00:00</updated>
-    <media:thumbnail url="https://thesiliconreview.com/story_image_upload/article/waymo_2026-02-03_10-23-34.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.semafor.com/article/10/19/2026/waymo-plans-to-quintuple-its-fleet">semafor.com</a></small></p><hr/><p>Alphabet autonomous vehicle unit Waymo plans to expand its robotaxi fleet to 20,000 vehicles by the end of next year, utilizing a recently secured $5 billion debt financing package. The company currently operates approximately 4,000 vehicles and aims to double that count to 8,000 by the end of the year before scaling further.</p><p>The expansion supports Waymo's commercial push into new markets across the United States and internationally, including operations in cities like Toronto and Nashville. To accommodate the fleet growth, the company has ordered thousands of vehicles from manufacturers such as Zeekr and established local infrastructure partnerships for maintenance and charging.</p><p><img src="https://thesiliconreview.com/story_image_upload/article/waymo_2026-02-03_10-23-34.webp" /></p><hr/><small>20 Oct 2026, 06:16 UTC | #24825</small>]]></content>
-  </entry>
-  <entry>
-    <title>WhatsApp Help Pages Contained Hidden AI Instructions Restricting Regulator Recommendations</title>
-    <link href="https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions" rel="alternate" />
-    <id>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions::v240</id>
-    <published>2026-10-20T01:55:00+00:00</published>
-    <updated>2026-10-20T01:55:00+00:00</updated>
-    <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA23i2Ar.img?w=768&amp;h=432&amp;m=6" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions">redact.dev</a> | <a href="https://news.ycombinator.com/item?id=50159341">hacker news</a></small></p><hr/><p>An investigation into WhatsApp’s help and FAQ pages revealed over 100 hidden instruction blocks designed for large language models. These unseen directives explicitly told the platform's support chatbot to withhold information about data protection regulators and avoid citing privacy laws like the GDPR if users mentioned legal action.</p><p>While public-facing European privacy policies affirm user rights to lodge complaints and request data erasure, the hidden prompts directed the AI to provide more restrictive answers. Meta confirmed the blocks were instructions for its internal chatbot, though the server-side text was also exposed to external web crawlers before being removed in mid-October 2026.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA23i2Ar.img?w=768&h=432&m=6" /></p><hr/><small>20 Oct 2026, 05:54 UTC | #24848</small>]]></content>
-  </entry>
-  <entry>
-    <title>Eric Schmidt Holds 1% Stake in Anthropic Ahead of Public Debut</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall::v240</id>
-    <published>2026-10-20T01:54:00+00:00</published>
-    <updated>2026-10-20T01:54:00+00:00</updated>
-    <media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5Na8bCdxvqE/v1/-1x-1.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.bloomberg.com/news/articles/2026-10-19/eric-schmidt-s-1-anthropic-stake-set-to-pay-massive-windfall">bloomberg.com</a></small></p><hr/><p>Former Google Chief Executive Officer Eric Schmidt owns approximately 1% of artificial intelligence startup Anthropic following an early investment in the company's Series A fundraising round. This holding positions him for one of the largest individual financial windfalls as the company prepares for its initial public offering.</p><p>Schmidt invested tens of millions of dollars during Anthropic's formative stages, though it remains unconfirmed whether he has sold any portion of the stake since that initial funding round. Anthropic's upcoming public market debut highlights the massive returns generated by early backers in the generative AI sector.</p><p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5Na8bCdxvqE/v1/-1x-1.webp" /></p><hr/><small>20 Oct 2026, 05:52 UTC | #24826</small>]]></content>
-  </entry>
 </feed>
