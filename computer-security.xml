@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-24T20:47:00+00:00</updated>
+  <updated>2026-10-25T10:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</logo>
+  <entry>
+    <title>Samsung Tizen TV Software Found Running TensorFlow Lite Model for Game Recognition</title>
+    <link href="https://twitter.com/mike64_t/status/2114150399406202896" rel="alternate" />
+    <id>https://twitter.com/mike64_t/status/2114150399406202896::v240</id>
+    <published>2026-10-25T10:43:00+00:00</published>
+    <updated>2026-10-25T10:43:00+00:00</updated>
+    <media:thumbnail url="https://www.journaldugeek.com/app/uploads/2024/10/samsung-tizen-tv.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://twitter.com/mike64_t/status/2114150399406202896">twitter.com</a> | <a href="https://news.ycombinator.com/item?id=50230181">hacker news</a></small></p><hr/><p>Security researcher @mike64_t discovered that Samsung's Tizen smart TV operating system runs a TensorFlow Lite model in the background every few seconds to analyze user activity. The system captures screen data in an apparent effort to determine what game is currently being played.</p><p>The background process utilizes a model file named alex.tflite, which implements the AlexNet deep learning architecture with INT8 quantization on 960x540 resolution images. This automated content recognition mechanism highlights ongoing background telemetry operating on live consumer televisions.</p><p><img src="https://www.journaldugeek.com/app/uploads/2024/10/samsung-tizen-tv.jpg" /></p><hr/><small>25 Oct 2026, 15:07 UTC | #25382</small>]]></content>
+  </entry>
   <entry>
     <title>OpenSSL 4.1.0 Released With DTLS 1.3 and Performance Optimizations</title>
     <link href="https://github.com/openssl/openssl/releases/tag/openssl-4.1.0" rel="alternate" />
