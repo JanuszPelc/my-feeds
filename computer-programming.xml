@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-24T20:33:00+00:00</updated>
+  <updated>2026-10-24T20:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>jank Programming Language Offers Native Clojure Dialect with C++ Interop</title>
+    <link href="https://jank-lang.org/" rel="alternate" />
+    <id>https://jank-lang.org/::v240</id>
+    <published>2026-10-24T20:39:00+00:00</published>
+    <updated>2026-10-24T20:39:00+00:00</updated>
+    <media:thumbnail url="https://jank-lang.org/img/landing/lein-compile.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://jank-lang.org/">jank-lang.org</a> | <a href="https://news.ycombinator.com/item?id=50202762">hacker news</a></small></p><hr/><p>jank is a general-purpose programming language combining Clojure's functional, value-oriented style with an LLVM runtime and direct C++ interop. It allows developers to utilize templates, virtual functions, exceptions, overload resolution, and RAII without boilerplate, replacing Java interop with native C++ integration.</p><p>The language features interactive REPL-driven development powered by a Clang-based C++ JIT compiler, Leiningen-based project management, and a native build system capable of handling C and C++ dependencies. Designed for performance-critical applications like game development, jank lets developers interact directly with C++ codebases and libraries without relying on bridges or type registration.</p><p><img src="https://jank-lang.org/img/landing/lein-compile.png" /></p><hr/><small>25 Oct 2026, 00:10 UTC | #25338</small>]]></content>
+  </entry>
   <entry>
     <title>C++26 Standards Draft Disapproved in ISO Balloting</title>
     <link href="https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL" rel="alternate" />
