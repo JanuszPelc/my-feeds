@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-25T15:06:00+00:00</updated>
+  <updated>2026-10-25T15:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>Chromium Audio Service Crash Caused by Glibc Update</title>
+    <link href="https://refi64.dev/posts/chromium-audio-break.html" rel="alternate" />
+    <id>https://refi64.dev/posts/chromium-audio-break.html::v240</id>
+    <published>2026-10-25T15:35:00+00:00</published>
+    <updated>2026-10-25T15:35:00+00:00</updated>
+    <media:thumbnail url="https://developer.chrome.com/static/docs/chromium/videong/image/the-chromium-sandboxes-t-4955ab058c63b.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://refi64.dev/posts/chromium-audio-break.html">refi64.dev</a> | <a href="https://lobste.rs/s/5ullyu/when_glibc_update_accidentally_breaks">discussion</a></small></p><hr/><p>An update to the Chromium Flatpak runtime that upgraded glibc from version 2.31 to 2.33 accidentally broke audio and video playback by triggering fatal crashes in Chromium's audio service. Debugging revealed that glibc encountered unexpected error codes from the futex facility, causing it to abort execution.</p><p>Further investigation traced the issue to a glibc commit that modified condition variable handling to always pass a clock identifier, resulting in the inclusion of the FUTEX_CLOCK_REALTIME flag even when no timeout was specified. Chromium's strict BPF audio service sandbox rejected this unexpected flag because it was missing from the allowed syscall rules, ultimately terminating the audio process.</p><p><img src="https://developer.chrome.com/static/docs/chromium/videong/image/the-chromium-sandboxes-t-4955ab058c63b.png" /></p><hr/><small>25 Oct 2026, 18:39 UTC | #25390</small>]]></content>
+  </entry>
   <entry>
     <title>Vim Classic 8.3 Released as Long-Term Support Fork</title>
     <link href="https://vim-classic.org/" rel="alternate" />
@@ -581,14 +590,5 @@
     <updated>2026-10-20T19:00:00+00:00</updated>
     <media:thumbnail url="https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/mastodon-5.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/">blog.joinmastodon.org</a> | <a href="https://lobste.rs/s/dlbufy/mastodon_5_0_closer_look">discussion</a></small></p><hr/><p>Mastodon has detailed the upcoming 5.0 release, highlighting a comprehensive user interface overhaul designed to simplify navigation and lower barriers for new users. The update introduces a redesigned post composer positioned at the bottom center, refreshed feed layouts, tokenized design system color themes, and separated settings for sensitive media and content warnings.</p><p>Based on community feedback gathered during discovery sessions and beta testing, the redesign aims to balance the power of the existing interface with a more intuitive experience for newcomers. The team is rolling out the updated design on mastodon.social ahead of releasing the first 5.0 beta version to server administrators for broader testing.</p><p><img src="https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/mastodon-5.jpg" /></p><hr/><small>21 Oct 2026, 00:02 UTC | #24964</small>]]></content>
-  </entry>
-  <entry>
-    <title>Cloudflare and VoidZero Introduce tsrs, a Rust Port of TypeScript</title>
-    <link href="https://blog.cloudflare.com/typescript-rust-port/" rel="alternate" />
-    <id>https://blog.cloudflare.com/typescript-rust-port/::v240</id>
-    <published>2026-10-20T18:33:00+00:00</published>
-    <updated>2026-10-20T18:33:00+00:00</updated>
-    <media:thumbnail url="https://blog.cloudflare.com/_image?href=https%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01M5C82YQFJQ7JY8JZPCKSP6EG.png&amp;w=715&amp;h=390&amp;f=webp&amp;fit=cover&amp;position=center" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blog.cloudflare.com/typescript-rust-port/">blog.cloudflare.com</a> | <a href="https://news.ycombinator.com/item?id=50165953">hacker news</a></small></p><hr/><p>Cloudflare, VoidZero, and developer Max Schwenk are collaborating on tsrs, an experimental Rust port of the TypeScript compiler incubated within the Oxc toolchain. Early benchmarks indicate that the compiler is up to eight times faster and consumes roughly 70 percent less memory than TypeScript 7.0 when running with equivalent worker configurations.</p><p>The project aims to maintain strict compatibility with upstream TypeScript rather than forking the language, leveraging AI agents to synchronize changes and test suites. Written in Rust to benefit from efficient WebAssembly compilation and a small memory footprint, tsrs is designed to run sandboxed development toolchains locally in browsers, on edge workers, and across embedded devices.</p><p><img src="https://blog.cloudflare.com/_image?href=https%3A%2F%2Fblog.cloudflare.com%2F_emdash%2Fapi%2Fmedia%2Ffile%2F01M5C82YQFJQ7JY8JZPCKSP6EG.png&w=715&h=390&f=webp&fit=cover&position=center" /></p><hr/><small>20 Oct 2026, 21:31 UTC | #24951</small>]]></content>
   </entry>
 </feed>
