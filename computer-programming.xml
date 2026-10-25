@@ -618,13 +618,4 @@
     <media:thumbnail url="https://josie.lol/blog/images/n1x-arch-linux.jpg" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://josie.lol/blog/linux-rtx-spark">josie.lol</a> | <a href="https://news.ycombinator.com/item?id=50158100">hacker news</a></small></p><hr/><p>An Arch Linux package maintainer has successfully installed Arch Linux ARM on an ASUS ProArt P16 laptop powered by the NVIDIA RTX Spark platform. The custom configuration incorporates patched ACPI overrides, updated kernel support, audio drivers, and a modified bootable USB installer to bypass Windows-only restrictions.</p><p>Benchmarks show the Linux setup matches or slightly outperforms Windows ARM64 in 7-Zip multi-threaded compression and decompression tasks. Additionally, the operating system exposes a unified 116.0 GiB memory pool to both the system and CUDA, eliminating the rigid partitioning found in Windows and allowing local execution of large language models like Qwen without partitioning workarounds.</p><p><img src="https://josie.lol/blog/images/n1x-arch-linux.jpg" /></p><hr/><small>20 Oct 2026, 05:29 UTC | #24846</small>]]></content>
   </entry>
-  <entry>
-    <title>OpenBSD 8.0 Released</title>
-    <link href="https://www.openbsd.org/80.html" rel="alternate" />
-    <id>https://www.openbsd.org/80.html::v240</id>
-    <published>2026-10-20T01:47:00+00:00</published>
-    <updated>2026-10-20T01:47:00+00:00</updated>
-    <media:thumbnail url="https://www.instalki.pl/wp-content/uploads/program/O/2ddc1065b316c340a74294091fbdece2op2.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.openbsd.org/80.html">openbsd.org</a> | <a href="https://lobste.rs/s/sqdhu7/openbsd_8_0">discussion</a> | <a href="https://news.ycombinator.com/item?id=50160494">hacker news</a></small></p><hr/><p>OpenBSD has released version 8.0, its 61st operating system version, featuring major architectural updates, hardware driver additions, and performance enhancements. Notable improvements include expanding the amd64 kernel virtual address space from 4 gigabytes to 512 gigabytes, adding hibernate support for arm64 systems, and incorporating the 'V' vector extension for the riscv64 architecture.</p><p>The release also updates the Direct Rendering Manager to Linux 6.18.53 with support for Intel Arc graphics cards, enhances the VMM/VMD virtualization stack to support up to 64 virtual CPUs per guest, and delivers numerous hardware driver updates across wireless, touchscreen, and power-management components.</p><p><img src="https://www.instalki.pl/wp-content/uploads/program/O/2ddc1065b316c340a74294091fbdece2op2.png" /></p><hr/><small>20 Oct 2026, 05:08 UTC | #24845</small>]]></content>
-  </entry>
 </feed>
