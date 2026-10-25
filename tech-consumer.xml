@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-25T15:36:00+00:00</updated>
+  <updated>2026-10-25T18:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png</logo>
+  <entry>
+    <title>Dolly Parton's Imagination Library Provides Free Books to Children Worldwide</title>
+    <link href="https://imaginationlibrary.com/" rel="alternate" />
+    <id>https://imaginationlibrary.com/::v240</id>
+    <published>2026-10-25T18:24:00+00:00</published>
+    <updated>2026-10-25T18:24:00+00:00</updated>
+    <media:thumbnail url="https://www.simplisticallyliving.com/wp-content/uploads/2024/04/dolly-parton-imagination-library-1-1024x538.jpeg.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://imaginationlibrary.com/">imaginationlibrary.com</a> | <a href="https://news.ycombinator.com/item?id=50234474">hacker news</a></small></p><hr/><p>Dolly Parton’s Imagination Library is an international book gifting program that mails free, age-appropriate books every month to children from birth to age five. The initiative aims to foster a love of reading early in life and ensure that children have access to books regardless of their family's income.</p><p>Founded by Parton in 1995 in her home county of East Tennessee, the program has since expanded internationally to operate across the United States, Canada, the United Kingdom, Australia, and the Republic of Ireland. It is sustained through a shared funding model between Parton's foundation and local community partners.</p><p><img src="https://www.simplisticallyliving.com/wp-content/uploads/2024/04/dolly-parton-imagination-library-1-1024x538.jpeg.webp" /></p><hr/><small>25 Oct 2026, 21:00 UTC | #25403</small>]]></content>
+  </entry>
   <entry>
     <title>TechCrunch Profiles Notable AI Wearables and Portable Gadgets</title>
     <link href="https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/" rel="alternate" />
