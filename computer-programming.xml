@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-24T20:39:00+00:00</updated>
+  <updated>2026-10-24T20:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>Goose Memory-Safe Systems Programming Language Introduced</title>
+    <link href="https://aardappel.github.io/goose/" rel="alternate" />
+    <id>https://aardappel.github.io/goose/::v240</id>
+    <published>2026-10-24T20:41:00+00:00</published>
+    <updated>2026-10-24T20:41:00+00:00</updated>
+    <media:thumbnail url="https://images.prismic.io/trust-in-soft/ZpVRsR5LeNNTxKp4_6.png?auto=format,compress&amp;rect=0,29,1536,806&amp;w=2400&amp;h=1260" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://aardappel.github.io/goose/">aardappel.github.io</a> | <a href="https://news.ycombinator.com/item?id=50224100">hacker news</a></small></p><hr/><p>Goose is a memory-safe systems programming language designed without a heap allocator, garbage collector, reference counting, or lifetime annotations. Utilizing syntax familiar to C and Rust programmers, the language relies on compiler-managed data stacks where memory growth advances a pointer and scope exit automatically frees resources. Benchmarks provided by the project indicate that Goose achieves faster execution and lower memory consumption compared to idiomatic C++ and safe Rust.</p><p>The language enforces safety through static lifetime inference without requiring explicit lifetime syntax or aliasing rules, while its underlying memory model ensures that references remain valid during array expansion. Additional architectural features include variable-mode algebraic data types, position-independent relative references that double as file formats without serialization, and guaranteed in-place construction. Goose compiles directly to a single C file and supports execution via a bundled TinyCC backend.</p><p><img src="https://images.prismic.io/trust-in-soft/ZpVRsR5LeNNTxKp4_6.png?auto=format,compress&rect=0,29,1536,806&w=2400&h=1260" /></p><hr/><small>25 Oct 2026, 00:22 UTC | #25339</small>]]></content>
+  </entry>
   <entry>
     <title>jank Programming Language Offers Native Clojure Dialect with C++ Interop</title>
     <link href="https://jank-lang.org/" rel="alternate" />
