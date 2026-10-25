@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-24T14:49:00+00:00</updated>
+  <updated>2026-10-24T20:43:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png</logo>
+  <entry>
+    <title>Alpha School AI Education Claims Fall Short of Growth Goals in Internal Data</title>
+    <link href="https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html?unlocked_article_code=1.K1E.IcJn.2l4XIQK5gQsl&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html?unlocked_article_code=1.K1E.IcJn.2l4XIQK5gQsl&amp;smid=url-share::v240</id>
+    <published>2026-10-24T20:43:00+00:00</published>
+    <updated>2026-10-24T20:43:00+00:00</updated>
+    <media:thumbnail url="https://static01.nyt.com/images/2025/07/14/multimedia/00nat-ai-education-top-jtlg/00nat-ai-education-top-jtlg-videoSixteenByNine3000.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html?unlocked_article_code=1.K1E.IcJn.2l4XIQK5gQsl&smid=url-share">nytimes.com</a></small></p><hr/><p>An investigation into Alpha School, a private network that uses artificial intelligence to market accelerated learning, reveals that roughly half of its K-8 students missed the company's goal of learning twice as fast in math. While the network boasts high overall test scores, internal data shows that many students fall short of its central performance benchmark.</p><p>Alpha School restricts core academic instruction to two hours daily using software in place of traditional teachers, dedicating the rest of the day to life skills and workshops. As the network expands its footprint into public education and pitches its high-tuition model to families, educators and parents remain divided over whether its heavy reliance on AI-driven instruction delivers on its ambitious promises.</p><p><img src="https://static01.nyt.com/images/2025/07/14/multimedia/00nat-ai-education-top-jtlg/00nat-ai-education-top-jtlg-videoSixteenByNine3000.jpg" /></p><hr/><small>25 Oct 2026, 00:33 UTC | #25324</small>]]></content>
+  </entry>
   <entry>
     <title>Douglas Ross Publishes Introduction to Quantum Physics</title>
     <link href="https://www.southampton.ac.uk/~doug/quantum_physics/index.html" rel="alternate" />
