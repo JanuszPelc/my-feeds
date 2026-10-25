@@ -555,40 +555,4 @@
     <media:thumbnail url="https://preview.redd.it/external-monitor-with-ipad-air-m1-running-ipados-16-2-beta-v0-rvtetno7f0w91.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=3b9b6d5a57873c41e20090f0b783e59877a449a3" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/">teddysvoronos.com</a> | <a href="https://news.ycombinator.com/item?id=50165208">hacker news</a></small></p><hr/><p>A change in iPadOS 27 alters how external displays handle presentations during multitasking, causing secondary windows and private notes to become visible to audiences. When users tap on any application outside of the active presentation software, the external display switches from presenter mode to mirroring the entire iPad screen.</p><p>This behavior affects apps like GoodNotes, Keynote, and PowerPoint, disrupting workflows for educators and speakers who rely on keeping notes and auxiliary screens hidden from viewers. The issue removes the reliable isolation of presenter views found in previous operating system versions, prompting calls for Apple to restore dedicated precedence for presentation modes.</p><p><img src="https://preview.redd.it/external-monitor-with-ipad-air-m1-running-ipados-16-2-beta-v0-rvtetno7f0w91.jpg?width=1080&crop=smart&auto=webp&s=3b9b6d5a57873c41e20090f0b783e59877a449a3" /></p><hr/><small>20 Oct 2026, 16:31 UTC | #24909</small>]]></content>
   </entry>
-  <entry>
-    <title>microG GmsCore Provides Open-Source Reimplementation of Google Play Services</title>
-    <link href="https://github.com/microg/GmsCore/wiki" rel="alternate" />
-    <id>https://github.com/microg/GmsCore/wiki::v240</id>
-    <published>2026-10-20T10:34:00+00:00</published>
-    <updated>2026-10-20T10:34:00+00:00</updated>
-    <media:thumbnail url="https://img.alternativeto.net/s/618x394/jpeg/microg-project_759096_full.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/microg/GmsCore/wiki">github.com</a> | <a href="https://news.ycombinator.com/item?id=50162177">hacker news</a></small></p><hr/><p>microG GmsCore is an open-source, Apache 2.0 licensed reimplementation of Google's proprietary Play Services. It allows applications requiring Google APIs to run on AOSP-based operating systems, such as LineageOS, by providing a replacement for proprietary Google services.</p><p>The suite includes the Unified Network Location Provider (UnifiedNlp) module and is optimized for low battery, memory, and CPU consumption. For proper functionality, the host Android system must support signature spoofing, which enables GmsCore to mimic official Google services to calling applications.</p><p><img src="https://img.alternativeto.net/s/618x394/jpeg/microg-project_759096_full.png" /></p><hr/><small>20 Oct 2026, 15:32 UTC | #24904</small>]]></content>
-  </entry>
-  <entry>
-    <title>Configuring SSH Keys on macOS with Touch ID and Secure Enclave</title>
-    <link href="https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/" rel="alternate" />
-    <id>https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/::v240</id>
-    <published>2026-10-20T10:24:00+00:00</published>
-    <updated>2026-10-20T10:24:00+00:00</updated>
-    <media:thumbnail url="https://nmattia.com/_astro/touch-id-button.CmOAUBec_25NwAs.webp" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/">nmattia.com</a> | <a href="https://lobste.rs/s/d7m5j1/setting_up_ssh_keys_on_macos_with_touch_id">discussion</a></small></p><hr/><p>Nicolas Mattia outlines a native method for configuring SSH keys on macOS by leveraging the hardware-backed Secure Enclave and Touch ID authentication. The approach eliminates traditional file-based private keys on the filesystem, preventing key extraction or theft while prompting users for biometric confirmation during authentication and Git operations.</p><p>The setup relies on built-in macOS utilities like sc_auth to create a non-extractable CryptoTokenKit identity and ssh-keychain.dylib to bridge the Secure Enclave with the SSH agent. Because the private key material is securely bound to the hardware, the identity cannot be exported or migrated if the machine fails, requiring recreation on new hardware.</p><p><img src="https://nmattia.com/_astro/touch-id-button.CmOAUBec_25NwAs.webp" /></p><hr/><small>20 Oct 2026, 13:39 UTC | #24895</small>]]></content>
-  </entry>
-  <entry>
-    <title>Aaron Allen Examines Hanami Database Layer and Repository Pattern</title>
-    <link href="https://aaronmallen.me/writing/hanami-why-model-citizens" rel="alternate" />
-    <id>https://aaronmallen.me/writing/hanami-why-model-citizens::v240</id>
-    <published>2026-10-20T09:43:00+00:00</published>
-    <updated>2026-10-20T09:43:00+00:00</updated>
-    <media:thumbnail url="https://www.cosmicpython.com/book/images/apwp_0201.png" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://aaronmallen.me/writing/hanami-why-model-citizens">aaronmallen.me</a> | <a href="https://lobste.rs/s/ygp18d/hanami_why_model_citizens">discussion</a></small></p><hr/><p>Aaron Allen's technical essay analyzes the database architecture of the Hanami web framework, breaking down its tripartite design of relations, repositories, and structs. It demonstrates how Hanami handles database schemas, data fetching, and object representation using ROM and Sequel as an alternative to traditional ActiveRecord setups.</p><p>The article contrasts Hanami's repository pattern with ActiveRecord's active record pattern, highlighting how isolating persistence logic prevents query code and state mutations from leaking into controllers, views, and serializers. It also addresses practical hurdles encountered when transitioning from Rails, including differences in query syntax, custom timestamp handling, and organizing queries versus mutations within application slices.</p><p><img src="https://www.cosmicpython.com/book/images/apwp_0201.png" /></p><hr/><small>20 Oct 2026, 13:04 UTC | #24890</small>]]></content>
-  </entry>
-  <entry>
-    <title>Weball Browser Game Lets Players Roll Up Websites Like Katamari</title>
-    <link href="https://www.funwithcomputervision.com/weball/" rel="alternate" />
-    <id>https://www.funwithcomputervision.com/weball/::v240</id>
-    <published>2026-10-20T09:42:00+00:00</published>
-    <updated>2026-10-20T09:42:00+00:00</updated>
-    <media:thumbnail url="https://www.torontoseogeek.com/wp-content/uploads/2025/01/Copy-of-blue-modern-website-programming-online-tutorials-youtube-thumbnail-53-1-1248x702.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.funwithcomputervision.com/weball/">funwithcomputervision.com</a> | <a href="https://news.ycombinator.com/item?id=50140584">hacker news</a></small></p><hr/><p>Weball is a browser-based game created by developer Alan that turns ordinary web pages into interactive levels inspired by Katamari Damacy. Players roll a ball across websites, collecting DOM elements and growing larger as they navigate from link to link across the internet.</p><p>Because pages load without executing their JavaScript, sites that rely heavily on client-side rendering can appear sparse during gameplay. The project gained traction online following its release, offering a novel way to explore and interact with web content using physics-based rolling mechanics.</p><p><img src="https://www.torontoseogeek.com/wp-content/uploads/2025/01/Copy-of-blue-modern-website-programming-online-tutorials-youtube-thumbnail-53-1-1248x702.png" /></p><hr/><small>20 Oct 2026, 13:03 UTC | #24889</small>]]></content>
-  </entry>
 </feed>
