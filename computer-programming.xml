@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-25T09:07:00+00:00</updated>
+  <updated>2026-10-25T09:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>SpeedCrunch Open-Source Scientific Calculator</title>
+    <link href="https://www.speedcrunch.org/" rel="alternate" />
+    <id>https://www.speedcrunch.org/::v240</id>
+    <published>2026-10-25T09:23:00+00:00</published>
+    <updated>2026-10-25T09:23:00+00:00</updated>
+    <media:thumbnail url="https://heldercorreia.bitbucket.io/speedcrunch/_static/book.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.speedcrunch.org/">speedcrunch.org</a> | <a href="https://news.ycombinator.com/item?id=50224210">hacker news</a></small></p><hr/><p>SpeedCrunch is a free, open-source scientific calculator designed for Windows, macOS, and Linux, catering to students, teachers, and STEM professionals. It offers up to 50 digits of precision, complex number support, and more than 140 built-in mathematical functions.</p><p>The software features a customizable layout, user-defined variables and functions, vector and matrix support, and multiple active sessions via tabs or panes. Additional capabilities include history rewriting, over 40 color schemes, and support for multiple languages.</p><p><img src="https://heldercorreia.bitbucket.io/speedcrunch/_static/book.png" /></p><hr/><small>25 Oct 2026, 14:44 UTC | #25381</small>]]></content>
+  </entry>
   <entry>
     <title>MacOS Extensions Pack v1.0 Released for Apple Network Server</title>
     <link href="https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html" rel="alternate" />
