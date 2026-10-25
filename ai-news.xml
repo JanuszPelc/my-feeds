@@ -303,13 +303,4 @@
     <media:thumbnail url="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Wx395.img?w=1910&amp;h=1000&amp;m=4&amp;q=67" />
     <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/">techcrunch.com</a></small></p><hr/><p>Figma has expanded its integration with the open-source Model Context Protocol by adding 20 new partners, including Notion, Mistral, and Sarvam Agents, during its Config conference in India. The platform update aims to improve how AI agents connect to external tools and data sources.</p><p>Despite the rollout, Figma co-founder and CEO Dylan Field has voiced reservations about the protocol, arguing that it favors frontier AI labs and introduces data exposure risks. Field noted that while the company wants to support open standards, the protocol requires significant improvement to address security and asymmetric context sharing.</p><p><img src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Wx395.img?w=1910&h=1000&m=4&q=67" /></p><hr/><small>20 Oct 2026, 19:19 UTC | #24900</small>]]></content>
   </entry>
-  <entry>
-    <title>Mistral AI Launches Voxtral 3 Voice Models and Agent SDK</title>
-    <link href="https://mistral.ai/news/voxtral-3/" rel="alternate" />
-    <id>https://mistral.ai/news/voxtral-3/::v240</id>
-    <published>2026-10-20T16:03:00+00:00</published>
-    <updated>2026-10-20T16:03:00+00:00</updated>
-    <media:thumbnail url="https://mistral.ai/_astro/diagram-voxtral-alt_Z2ufcLf.webp?dpl=6ad795c23ec0b6e8ad0a703a" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://mistral.ai/news/voxtral-3/">mistral.ai</a> | <a href="https://news.ycombinator.com/item?id=50168396">hacker news</a></small></p><hr/><p>Mistral AI has released Voxtral 3, a family of speech-to-text and text-to-speech models paired with a voice agent SDK designed for real-time conversational workflows. The system supports multilingual transcription across more than 50 languages and expressive speech synthesis with emotional adaptability in 35-plus languages.</p><p>Built on LiveKit, the voice agent SDK integrates listening, reasoning, tool calling, and speaking into a single low-latency streaming pipeline. The models are available through Mistral's global and regional APIs or for self-deployment on private infrastructure, offering options for enterprise data sovereignty and customizable voice adaptation.</p><p><img src="https://mistral.ai/_astro/diagram-voxtral-alt_Z2ufcLf.webp?dpl=6ad795c23ec0b6e8ad0a703a" /></p><hr/><small>20 Oct 2026, 18:36 UTC | #24925</small>]]></content>
-  </entry>
 </feed>
