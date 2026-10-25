@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-25T01:55:00+00:00</updated>
+  <updated>2026-10-25T09:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>MacOS Extensions Pack v1.0 Released for Apple Network Server</title>
+    <link href="https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html" rel="alternate" />
+    <id>https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html::v240</id>
+    <published>2026-10-25T09:07:00+00:00</published>
+    <updated>2026-10-25T09:07:00+00:00</updated>
+    <media:thumbnail url="https://regmedia.co.uk/2024/06/11/leonardo_ai_apple_datacenter_rack_mockup.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html">oldvcr.blogspot.com</a> | <a href="https://lobste.rs/s/7byfjv/macos_extensions_pack_for_apple_network">discussion</a></small></p><hr/><p>A new software package has been released to fix and work around various hardware limitations encountered when running classic Mac OS on the 1996 Apple Network Server using a preproduction ROM. The utilities address critical issues such as on-board MACE Ethernet support, internal video functionality, and proper system restarts under Mac OS.</p><p>The Apple Network Server originally shipped exclusively with IBM AIX, but the recent discovery and dumping of preproduction ROMs have made native Mac OS booting possible. This software toolkit helps bridge hardware compatibility gaps on the vintage hardware while maintaining the capability to dual-boot AIX.</p><p><img src="https://regmedia.co.uk/2024/06/11/leonardo_ai_apple_datacenter_rack_mockup.jpg" /></p><hr/><small>25 Oct 2026, 12:34 UTC | #25370</small>]]></content>
+  </entry>
   <entry>
     <title>Implementing SIMD Vector Operations in Go</title>
     <link href="https://internals-for-interns.com/posts/go-simd/" rel="alternate" />

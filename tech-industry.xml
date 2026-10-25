@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-24T23:12:00+00:00</updated>
+  <updated>2026-10-25T09:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png</logo>
+  <entry>
+    <title>Cerebras Details Deployment Architecture for Trillion-Parameter AI Models</title>
+    <link href="https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras" rel="alternate" />
+    <id>https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras::v240</id>
+    <published>2026-10-25T09:06:00+00:00</published>
+    <updated>2026-10-25T09:06:00+00:00</updated>
+    <media:thumbnail url="https://cdn.sanity.io/images/e4qjo92p/production/c124705d630730f1fc2f68f350bbbc026f574c07-1768x1062.png?auto=format&amp;dpr=2&amp;fit=max&amp;q=75&amp;w=1768" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras">cerebras.ai</a> | <a href="https://news.ycombinator.com/item?id=50227356">hacker news</a></small></p><hr/><p>Cerebras details how it deploys multi-trillion-parameter frontier AI models across its wafer-scale WSE-3T chips using pipelining and memory management. Using the three-trillion-parameter open-source Kimi K3 model as an example, the company explains how model layers are distributed across multiple wafers to achieve high throughput.</p><p>Because each WSE-3T wafer contains 44 GB of on-chip SRAM, entire model layers fit directly onto individual chips, allowing model weights to remain stationary while activations stream between wafers via Ethernet RDMA. The pipeline handles concurrent requests using micro-batching across dense and linear-attention layers to maximize both inference speed and resource utilization.</p><p><img src="https://cdn.sanity.io/images/e4qjo92p/production/c124705d630730f1fc2f68f350bbbc026f574c07-1768x1062.png?auto=format&dpr=2&fit=max&q=75&w=1768" /></p><hr/><small>25 Oct 2026, 12:33 UTC | #25369</small>]]></content>
+  </entry>
   <entry>
     <title>US Creative Industries Experience Over 200,000 Job Losses Amid AI Growth</title>
     <link href="https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class" rel="alternate" />
