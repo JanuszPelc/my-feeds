@@ -3,9 +3,27 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-25T13:48:00+00:00</updated>
+  <updated>2026-10-25T15:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</logo>
+  <entry>
+    <title>Security Risks of the POSIX wordexp(3) Function Examined</title>
+    <link href="https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/" rel="alternate" />
+    <id>https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/::v240</id>
+    <published>2026-10-25T15:10:00+00:00</published>
+    <updated>2026-10-25T15:10:00+00:00</updated>
+    <media:thumbnail url="https://image.slidesharecdn.com/oscommandinjection-160407232848/75/Secure-Code-Warrior-Os-command-injection-3-2048.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/">yossarian.net</a> | <a href="https://lobste.rs/s/tbbiqb/posix_wordexp_3_is_dangerous">discussion</a></small></p><hr/><p>The POSIX wordexp(3) C API, commonly recommended for shell-style expansions such as tilde expansion, presents significant security risks when handling untrusted inputs because it enables command expansion by default. Developers must explicitly pass the WRDE_NOCMD flag to disable this behavior, though this mitigation is frequently insufficient.</p><p>Various libc implementations, including musl and macOS libc, delegate expansion directly to the underlying system shell after performing perfunctory scanning. Bypasses in these implementations demonstrate that they can fail to catch valid command substitution patterns, making wordexp(3) unsafe for processing untrusted data.</p><p><img src="https://image.slidesharecdn.com/oscommandinjection-160407232848/75/Secure-Code-Warrior-Os-command-injection-3-2048.jpg" /></p><hr/><small>25 Oct 2026, 18:16 UTC | #25385</small>]]></content>
+  </entry>
+  <entry>
+    <title>Jade and Ginger Present Next-Generation Matrix Protocol Timeline at Matrix Conference 2026</title>
+    <link href="https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline" rel="alternate" />
+    <id>https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline::v240</id>
+    <published>2026-10-25T15:04:00+00:00</published>
+    <updated>2026-10-25T15:04:00+00:00</updated>
+    <media:thumbnail url="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFzndDsd3wo6h1a4L7z7SF6vwtn0bYqFTKRet2l3J0DcoJ4VGU1IytiGugpW4xAsYhPMRf0xdpF00E3aJHYiO1KdVsG1KSuX-TBe2VZTN3XB0C8gzZ99H_9fmgV6N29JRzovw2gA?key=dP5h5CO_lYn8ughlYsa_7A" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline">media.ccc.de</a> | <a href="https://cfp.2026.matrix.org/matrix-conference-2026/talk/WRGTRX/">source</a> | <a href="https://lobste.rs/s/jdczl6/vision_for_next_generation_timeline">discussion</a></small></p><hr/><p>At the Matrix Conference 2026, speakers Jade and Ginger delivered a presentation outlining a comprehensive vision for a next-generation chat timeline within the Matrix protocol. The talk examined current protocol compromises necessitated by federation, including inconsistent ordering between synchronization and history in Synapse, limitations on accessing pinned messages from before joining a room, and ambiguities surrounding room re-entry.</p><p>To address these structural issues, the speakers detailed a long-term development path that incorporates stitched ordering, timeline fragments, and state directed acyclic graphs (DAGs). Although implementing these architectural changes will require significant time and coordination, the proposal establishes a technical framework for improving message consistency and user experience across decentralized chat systems.</p><p><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFzndDsd3wo6h1a4L7z7SF6vwtn0bYqFTKRet2l3J0DcoJ4VGU1IytiGugpW4xAsYhPMRf0xdpF00E3aJHYiO1KdVsG1KSuX-TBe2VZTN3XB0C8gzZ99H_9fmgV6N29JRzovw2gA?key=dP5h5CO_lYn8ughlYsa_7A" /></p><hr/><small>25 Oct 2026, 18:14 UTC | #25395</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Security Research Device Program Open for Applications</title>
     <link href="https://security.apple.com/research-device/" rel="alternate" />

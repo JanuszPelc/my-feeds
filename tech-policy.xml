@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-25T09:21:00+00:00</updated>
+  <updated>2026-10-25T15:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png</logo>
+  <entry>
+    <title>Lawmakers and Hill Staffers View AI Leaders as Political Liability</title>
+    <link href="https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability" rel="alternate" />
+    <id>https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability::v240</id>
+    <published>2026-10-25T15:01:00+00:00</published>
+    <updated>2026-10-25T15:01:00+00:00</updated>
+    <media:thumbnail url="https://static.vecteezy.com/system/resources/previews/023/826/514/large_2x/ai-artificial-intelligence-humanoid-side-portrait-view-with-blue-and-orange-vibrant-neon-and-copy-space-artificial-intelligence-technology-concept-ai-generated-illustration-free-photo.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability">axios.com</a></small></p><hr/><p>Lawmakers and congressional staffers across political parties increasingly view artificial intelligence industry leaders as a political liability due to conflicting messaging. Executives frequently alternate between predicting unprecedented economic prosperity and warning of existential threats, frustrating policymakers attempting to draft technology regulation.</p><p>This friction highlights a growing weariness in Washington regarding Silicon Valley's approach to governance and policy lobbying. While tech companies push for specific frameworks or lobby at the state level, lawmakers are losing patience with the shifting narratives and cultural disconnect presented by industry executives.</p><p><img src="https://static.vecteezy.com/system/resources/previews/023/826/514/large_2x/ai-artificial-intelligence-humanoid-side-portrait-view-with-blue-and-orange-vibrant-neon-and-copy-space-artificial-intelligence-technology-concept-ai-generated-illustration-free-photo.jpg" /></p><hr/><small>25 Oct 2026, 18:11 UTC | #25368</small>]]></content>
+  </entry>
   <entry>
     <title>Missileer Watch Tracks Military Emergency Action Messages on Shortwave Radio</title>
     <link href="https://missileer.watch" rel="alternate" />
