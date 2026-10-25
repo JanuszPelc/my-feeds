@@ -591,22 +591,4 @@
     <media:thumbnail url="https://cretezy.com/_astro/google-tv-home.DjqU9jQc_Z14wlzx.webp" />
     <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://cretezy.com/2026/ad-free-android-tv">cretezy.com</a> | <a href="https://news.ycombinator.com/item?id=50158942">hacker news</a></small></p><hr/><p>This guide details how to remove promotional banners and advertisements from Android TV and Google TV interfaces by replacing the default system launcher with Projectivy Launcher. Using Android Debug Bridge (ADB) commands, users can disable stock UI packages and configure a clean, app-focused home screen.</p><p>Additional steps cover replacing the official YouTube client with SmartTube to eliminate video ads and integrate SponsorBlock, alongside using Button Mapper to remap remote controls. The setup also includes performance tweaks like adjusting animation scales and disabling unused system applications via ADB.</p><p><img src="https://cretezy.com/_astro/google-tv-home.DjqU9jQc_Z14wlzx.webp" /></p><hr/><small>20 Oct 2026, 10:34 UTC | #24868</small>]]></content>
   </entry>
-  <entry>
-    <title>Nordwand Mono Compact Monospace Coding Font Released</title>
-    <link href="https://github.com/tywr/Nordwand-Mono" rel="alternate" />
-    <id>https://github.com/tywr/Nordwand-Mono::v240</id>
-    <published>2026-10-20T02:09:00+00:00</published>
-    <updated>2026-10-20T02:09:00+00:00</updated>
-    <media:thumbnail url="https://online-fonts.com/fonts/monospace/preview.png" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/tywr/Nordwand-Mono">github.com</a> | <a href="https://news.ycombinator.com/item?id=50141581">hacker news</a></small></p><hr/><p>Nordwand Mono is a compact neo-grotesque monospace font designed from scratch in Python for coding environments and terminal use. The typeface blends the proportions of JetBrains Mono with design elements inspired by classical Swiss typography such as Univers.</p><p>The project allows developers to customize font metrics and glyphs by modifying configuration files and generating builds via Python scripts. It includes alternative character variants, two minimal initial ligatures, and comprehensive support for Cyrillic scripts.</p><p><img src="https://online-fonts.com/fonts/monospace/preview.png" /></p><hr/><small>20 Oct 2026, 09:23 UTC | #24856</small>]]></content>
-  </entry>
-  <entry>
-    <title>Dutch Government Develops NixOS-Based DAWO Operating System</title>
-    <link href="https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html" rel="alternate" />
-    <id>https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html::v240</id>
-    <published>2026-10-20T02:07:00+00:00</published>
-    <updated>2026-10-20T02:07:00+00:00</updated>
-    <media:thumbnail url="https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-29-image-25.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html">techspot.com</a> | <a href="https://lobste.rs/s/nne5uh/netherlands_is_building_its_own_linux_os">discussion</a></small></p><hr/><p>The Dutch government is developing a custom digital workspace and operating system known as DAWO, built on the NixOS Linux distribution, to replace commercial software like Microsoft Windows and Office. The initiative aims to enhance digital sovereignty for public institutions and reduce reliance on foreign technology providers.</p><p>Several municipalities in the Netherlands have already begun testing the DAWO environment, which encompasses office applications, cloud services, and storage tools alongside the operating system. The project reflects a broader European trend toward open-source migration driven by concerns over foreign software dependencies and regulatory pressures.</p><p><img src="https://www.techspot.com/images2/news/bigimage/2026/09/2026-09-29-image-25.jpg" /></p><hr/><small>20 Oct 2026, 09:01 UTC | #24854</small>]]></content>
-  </entry>
 </feed>
