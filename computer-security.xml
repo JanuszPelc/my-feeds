@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-24T20:45:00+00:00</updated>
+  <updated>2026-10-24T20:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</logo>
+  <entry>
+    <title>OpenSSL 4.1.0 Released With DTLS 1.3 and Performance Optimizations</title>
+    <link href="https://github.com/openssl/openssl/releases/tag/openssl-4.1.0" rel="alternate" />
+    <id>https://github.com/openssl/openssl/releases/tag/openssl-4.1.0::v240</id>
+    <published>2026-10-24T20:47:00+00:00</published>
+    <updated>2026-10-24T20:47:00+00:00</updated>
+    <media:thumbnail url="https://blog.grijjy.com/wp-content/uploads/2020/08/openssl.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://github.com/openssl/openssl/releases/tag/openssl-4.1.0">github.com</a> | <a href="https://lobste.rs/s/pcirxi/release_openssl_4_1_0_openssl_openssl">discussion</a> | <a href="https://news.ycombinator.com/item?id=50208099">hacker news</a></small></p><hr/><p>OpenSSL 4.1.0 has been released as a major feature update incorporating significant cryptographic enhancements, protocol updates, and architecture-specific optimizations. Key additions include full support for DTLS 1.3 under RFC 9147, RFC 8701 GREASE support, IKEV2 KDF support, and initial support for the Elbrus2000 architecture.</p><p>The release also introduces performance optimizations for post-quantum cryptographic primitives such as ML-DSA and ML-KEM on ppc64le and x86_64, along with AVX-512 and VAES enhancements. Additionally, developers have dropped several legacy build targets and configuration options, while noting active investigation into minor known issues involving DTLS 1.3 post-handshake record retransmission and listener error reporting.</p><p><img src="https://blog.grijjy.com/wp-content/uploads/2020/08/openssl.png" /></p><hr/><small>25 Oct 2026, 01:27 UTC | #25342</small>]]></content>
+  </entry>
   <entry>
     <title>Danish Ministry of Digitalization Drops Open-Source Collabora Pilot</title>
     <link href="https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft" rel="alternate" />
