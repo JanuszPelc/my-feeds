@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-26T03:24:00+00:00</updated>
+  <updated>2026-10-26T06:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>OpenLDK: Java JIT Compiler and Runtime Written in Common Lisp</title>
+    <link href="https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/" rel="alternate" />
+    <id>https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/::v240</id>
+    <published>2026-10-26T06:16:00+00:00</published>
+    <updated>2026-10-26T06:16:00+00:00</updated>
+    <media:thumbnail url="https://zhijunchen.com/wp-content/uploads/2021/04/JIT.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/">atgreen.github.io</a> | <a href="https://github.com/atgreen/openldk">source</a> | <a href="https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common">discussion</a></small></p><hr/><p>OpenLDK is a just-in-time compiler and runtime for Java implemented entirely in Common Lisp, enabling Java libraries, classes, and multiple JVM languages to run natively within SBCL. By translating Java bytecode into Lisp code on demand, it bridges the two ecosystems so that Java classes map to CLOS classes, methods participate in CLOS method combinations, and applications share a single in-process heap.</p><p>The project supports a wide range of JVM-hosted languages like Kotlin, Scala, Groovy, and Clojure, allowing mixed-language expressions to be evaluated together. Additionally, by utilizing warm image saving features to preserve initialized object graphs, OpenLDK can boot complex frameworks like Spring Boot in approximately 84 milliseconds.</p><p><img src="https://zhijunchen.com/wp-content/uploads/2021/04/JIT.png" /></p><hr/><small>26 Oct 2026, 09:36 UTC | #25432</small>]]></content>
+  </entry>
   <entry>
     <title>TitleArt Browser Tool Recreates 1990s WordArt Styles</title>
     <link href="https://titleart.dvy.io/" rel="alternate" />
@@ -590,23 +599,5 @@
     <updated>2026-10-21T09:36:00+00:00</updated>
     <media:thumbnail url="https://img.itch.zone/aW1nLzEzMTgzNzg4LnBuZw==/original/MgNlJb.png" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://beyondloom.com/blog/vectorgraphics.html">beyondloom.com</a> | <a href="https://lobste.rs/s/tsfina/vector_graphics_lil">discussion</a></small></p><hr/><p>This article explores two-dimensional vector graphics manipulation using Lil, the APL-influenced scripting language of the Decker ecosystem. It details how points, strokes, and paths are represented and processed collectively as nested data structures without explicit loop-carried indices.</p><p>By leveraging Lil's arithmetic conforming behavior, developers can apply geometric transformations like scaling, mirroring, translation, shearing, and rotation with concise syntax. The piece also demonstrates how to construct dynamic visual effects such as perspective distortion and wave ripples using core vector primitives.</p><p><img src="https://img.itch.zone/aW1nLzEzMTgzNzg4LnBuZw==/original/MgNlJb.png" /></p><hr/><small>21 Oct 2026, 17:02 UTC | #25029</small>]]></content>
-  </entry>
-  <entry>
-    <title>History and Architecture of Symbolics Genera Lisp Machines</title>
-    <link href="https://www.youtube.com/watch?v=W2fGKjFoaOg" rel="alternate" />
-    <id>https://www.youtube.com/watch?v=W2fGKjFoaOg::v240</id>
-    <published>2026-10-21T09:25:00+00:00</published>
-    <updated>2026-10-21T09:25:00+00:00</updated>
-    <media:thumbnail url="https://www.chai.uni-hamburg.de/~moeller/symbolics-info/genera.gif" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.youtube.com/watch?v=W2fGKjFoaOg">youtube.com</a> | <a href="https://lobste.rs/s/staj2z/genera_for_initiated_inside_symbolics">discussion</a></small></p><hr/><p>This presentation explores the history and technical architecture of Symbolics Genera, a commercial operating system and integrated development environment designed specifically for Lisp machines. The discussion traces the lineage of Lisp from John McCarthy's foundational 1959 definitions and meta-circular evaluators through early experimental workstations at the MIT Artificial Intelligence Laboratory.</p><p>Highlighting the transition from time-shared systems to dedicated personal workstations inspired by Doug Engelbart and Xerox PARC, the talk examines the hardware and software co-design behind Symbolics machines. Key architectural details include microcoded instruction sets optimized for garbage collection, parallel type checking, and the commercial spin-offs that emerged as researchers attempted to commercialize Lisp hardware.</p><p><img src="https://www.chai.uni-hamburg.de/~moeller/symbolics-info/genera.gif" /></p><hr/><small>21 Oct 2026, 14:07 UTC | #25021</small>]]></content>
-  </entry>
-  <entry>
-    <title>Uniker.nl OCaml Unikernel Development Workflow</title>
-    <link href="https://uniker.nl/" rel="alternate" />
-    <id>https://uniker.nl/::v240</id>
-    <published>2026-10-21T09:18:00+00:00</published>
-    <updated>2026-10-21T09:18:00+00:00</updated>
-    <media:thumbnail url="https://image.slidesharecdn.com/unicoreone-etechday-210928135118/85/Unikernel-Hands-on-tutorial-3-638.jpg" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://uniker.nl/">uniker.nl</a> | <a href="https://lobste.rs/s/mfserj/unikernels_ocaml">discussion</a></small></p><hr/><p>Uniker.nl offers resources and guides for building specialized unikernels using OCaml and the Solo5 sandbox environment. By compiling applications directly with minimal operating system components, unikernels run as lightweight virtual machines with reduced attack surfaces and high resource efficiency.</p><p>The platform integrates tools such as Albatross for deployment, enabling developers to build and manage single-purpose virtualized services designed to run directly on hypervisors like KVM, BHyve, and OpenVMM.</p><p><img src="https://image.slidesharecdn.com/unicoreone-etechday-210928135118/85/Unikernel-Hands-on-tutorial-3-638.jpg" /></p><hr/><small>21 Oct 2026, 13:19 UTC | #25015</small>]]></content>
   </entry>
 </feed>
