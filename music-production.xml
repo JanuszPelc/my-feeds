@@ -411,22 +411,4 @@
     <media:thumbnail url="https://musictech.com/wp-content/uploads/2026/10/PS2-Synth-hero@2000x1500.jpg" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/this-programme-turns-the-sony-playstation-2-into-a-real-time-experimental-noise-synthesiser/">musictech.com</a> | <a href="https://studiovivimusic.com/pulsemods/">source</a></small></p><hr/><p>Independent developer Tomohiro Ogawa has released PULSE MODS v1.4, an experimental noise synthesizer designed to run on original Sony PlayStation 2 hardware. Rather than utilizing prerecorded samples, the software uses the console's Emotion Engine CPU to generate real-time 48 kHz, 16-bit stereo PCM audio and renders corresponding graphics on the system's Graphics Synthesiser.</p><p>Players use the DualShock 2 controller's pressure-sensitive buttons and analog sticks to manipulate three synthesis engines and an integrated effects chain featuring distortion, bit crushing, filtering, delay, and reverb. The instrument allows musicians to perform live and record direct WAV audio files to supported storage devices without a traditional computer setup.</p><p><img src="https://musictech.com/wp-content/uploads/2026/10/PS2-Synth-hero@2000x1500.jpg" /></p><hr/><small>21 Oct 2026, 22:20 UTC | #25036</small>]]></content>
   </entry>
-  <entry>
-    <title>Amazing Noises Releases Grain Freezer Free Granular Effect Plugin</title>
-    <link href="https://bedroomproducersblog.com/2026/10/21/amazing-noises-grain-freezer/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/21/amazing-noises-grain-freezer/::v240</id>
-    <published>2026-10-21T15:46:00+00:00</published>
-    <updated>2026-10-21T15:46:00+00:00</updated>
-    <media:thumbnail url="https://cdn.rekkerd.org/wp-content/uploads/2026/10/Amazing-Noises-Grain-Freezer.jpg" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/21/amazing-noises-grain-freezer/">bedroomproducersblog.com</a> | <a href="https://amazingnoises.com/grain-freezer.html">source</a> | <a href="https://bedroomproducersblog.com/2026/10/21/amazing-noises-grain-freezer/#comments">discussion</a></small></p><hr/><p>Amazing Noises has released Grain Freezer, a free granular freeze effect plugin available in VST3 and AU formats for macOS and Windows. Designed by Maurizio Giri, the plugin captures short fragments of incoming audio and sustains them as overlapping granular textures.</p><p>The effect is intended for sound design, ambient music production, and experimental audio manipulation. It allows users to freeze moments of sound to create evolving soundscapes and atmospheric pads without complex routing.</p><p><img src="https://cdn.rekkerd.org/wp-content/uploads/2026/10/Amazing-Noises-Grain-Freezer.jpg" /></p><hr/><small>21 Oct 2026, 21:47 UTC | #25052</small>]]></content>
-  </entry>
-  <entry>
-    <title>Plastic Releases DOT Audio Recorder Mac App</title>
-    <link href="https://bedroomproducersblog.com/2026/10/21/dot-audio-recorder/" rel="alternate" />
-    <id>https://bedroomproducersblog.com/2026/10/21/dot-audio-recorder/::v240</id>
-    <published>2026-10-21T15:45:00+00:00</published>
-    <updated>2026-10-21T15:45:00+00:00</updated>
-    <media:thumbnail url="https://blog-uploads.eneba.games/uploads/2025/09/image-55-1024x575.png" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/21/dot-audio-recorder/">bedroomproducersblog.com</a></small></p><hr/><p>Plastic has released DOT Audio Recorder, a standalone macOS application designed to capture audio playback from other running applications. The software includes built-in analysis tools that automatically detect the key, tempo, and chords of captured audio material.</p><p>Users can trigger instant recordings using keyboard shortcuts while playing music, browser videos, or instrument demos. The application automatically trims clips at both ends, organizes them into a searchable library, and supports direct drag-and-drop integration into digital audio workstations or MIDI export.</p><p><img src="https://blog-uploads.eneba.games/uploads/2025/09/image-55-1024x575.png" /></p><hr/><small>21 Oct 2026, 21:45 UTC | #25053</small>]]></content>
-  </entry>
 </feed>
