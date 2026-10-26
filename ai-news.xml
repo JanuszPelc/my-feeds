@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-25T23:17:00+00:00</updated>
+  <updated>2026-10-26T00:36:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png</logo>
+  <entry>
+    <title>JetBrains Releases Open-Source ThinkRail Agentic IDE</title>
+    <link href="https://github.com/JetBrains/thinkrail" rel="alternate" />
+    <id>https://github.com/JetBrains/thinkrail::v240</id>
+    <published>2026-10-26T00:36:00+00:00</published>
+    <updated>2026-10-26T00:36:00+00:00</updated>
+    <media:thumbnail url="https://thinkrail.ai/og.png" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://github.com/JetBrains/thinkrail">github.com</a> | <a href="https://news.ycombinator.com/item?id=50233294">hacker news</a></small></p><hr/><p>JetBrains has introduced ThinkRail, an open-source agentic IDE built around the pi coding agent and designed to support parallel, isolated workflows using git worktrees. The environment incorporates living specs, concurrent agent chats with real-time cost readouts, Model Context Protocol (MCP) server support, and a splittable Monaco editor workbench.</p><p>Available as both a native desktop app and a CLI tool, ThinkRail allows developers to bring their own model credentials or use JetBrains AI without a proprietary account. The architecture separates the Bun-powered engine host from the React-based web UI, using specification-driven development where modular components maintain their own design and product documentation.</p><p><img src="https://thinkrail.ai/og.png" /></p><hr/><small>26 Oct 2026, 05:52 UTC | #25422</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI and Anthropic Reduce LLM API Prices by up to 80 Percent</title>
     <link href="https://minimaxir.com/2026/10/cheap-llms/" rel="alternate" />
