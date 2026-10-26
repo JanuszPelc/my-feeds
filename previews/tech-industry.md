@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Volkswagen and Xpeng Secure Approvals for Autonomous Driving Trials in China</h2>
+<p>Volkswagen AG and Xpeng Inc. have received regulatory approval to test autonomous driving systems on public roads in China. Volkswagen's China unit is trialing Level 3 technology in Hefei ahead of a planned deployment next year, while Xpeng has gained authorization to run Level 4 robotaxi trial operations in Guangzhou.</p><p>The approvals mark a significant step forward as Chinese authorities resume broader self-driving rollouts following safety reviews. Xpeng is partnering with Volkswagen to supply its second-generation VLA 2.0 intelligent driving system, making Volkswagen the first global automaker to license the technology in the Chinese market.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/china-boosts-self-driving-push-with-vw-xpeng-technology-trials">bloomberg.com</a></small></p>
+
 <h2>Microsoft Offers Voluntary Buyouts to Roughly a Quarter of Its Workforce</h2>
 <p>Microsoft is offering voluntary exit buyouts to approximately 60,000 employees, or roughly a quarter of its global workforce, spanning eligible staff at the vice president level and below across the United States, Canada, India, and the United Kingdom. Participating divisions include gaming, Windows, Copilot, human resources, and finance, with deadlines for acceptance set for early December.</p><p>The initiative builds on earlier workforce reduction efforts and a voluntary retirement program introduced earlier in the year as the company seeks to control headcount and adapt team structures. While Microsoft continues heavy capital expenditures toward artificial intelligence infrastructure, executives emphasize that the current exit offers are designed to manage workforce transitions rather than replace staff directly with AI systems.</p>
 <p><small>Links: <a href="https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/">seattletimes.com</a> | <a href="https://news.ycombinator.com/item?id=50245524">hacker news</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Ciena CEO Gary Smith Discusses AI Demand and Optical Networking</h2>
 <p>Ciena CEO Gary Smith discusses how unprecedented demand for artificial intelligence infrastructure is outpacing supply for the company's optical networking chips and equipment. Drawing on his experience navigating the 2001 telecommunications market crash, Smith is managing current hyperscale data center expansions with measured caution while securing long-term supply commitments.</p><p>The optical networking provider has experienced a significant surge in cloud provider revenue and order backlogs driven by the rapid build-out of AI-ready data centers. Ciena's strategic positioning in high-capacity optical transport highlights the broader network infrastructure re-architecture required to support modern artificial intelligence workloads.</p>
 <p><small>Links: <a href="https://www.wsj.com/cio-journal/a-veteran-of-the-telecom-bust-navigates-the-ai-boom-b063fa63?st=YJm3H4&reflink=desktopwebshare_permalink">wsj.com</a></small></p>
-
-<h2>Apollo Reports No Signs of AI Financial Payoff Outside Tech Sector</h2>
-<p>Apollo Chief Economist Torsten Slok has released an analysis arguing that artificial intelligence has delivered zero financial payoff to corporate America outside of the technology sector, despite massive ongoing investments and widespread market hype.</p><p>The report highlights that traditional and regulated industries—such as healthcare and banking—face operational hurdles, privacy rules, and process overhauls that could delay productivity boosts and cash flow realizations well beyond Wall Street expectations.</p>
-<p><small>Links: <a href="https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector">apollo.com</a> | <a href="https://news.ycombinator.com/item?id=50224463">hacker news</a></small></p>
 
 ---
 

@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-26T15:36:00+00:00</updated>
+  <updated>2026-10-26T15:39:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Volkswagen and Xpeng Secure Approvals for Autonomous Driving Trials in China</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-26/china-boosts-self-driving-push-with-vw-xpeng-technology-trials" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-26/china-boosts-self-driving-push-with-vw-xpeng-technology-trials::v240</id>
+    <published>2026-10-26T15:39:00+00:00</published>
+    <updated>2026-10-26T15:39:00+00:00</updated>
+    <media:thumbnail url="https://edgemarkets-transferred.s3-ap-southeast-1.amazonaws.com/styles/article_detail_v2/s3/20261026_baidu_auto_20261026181334_Bloomberg.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/china-boosts-self-driving-push-with-vw-xpeng-technology-trials">bloomberg.com</a></small></p><hr/><p>Volkswagen AG and Xpeng Inc. have received regulatory approval to test autonomous driving systems on public roads in China. Volkswagen's China unit is trialing Level 3 technology in Hefei ahead of a planned deployment next year, while Xpeng has gained authorization to run Level 4 robotaxi trial operations in Guangzhou.</p><p>The approvals mark a significant step forward as Chinese authorities resume broader self-driving rollouts following safety reviews. Xpeng is partnering with Volkswagen to supply its second-generation VLA 2.0 intelligent driving system, making Volkswagen the first global automaker to license the technology in the Chinese market.</p><p><img src="https://edgemarkets-transferred.s3-ap-southeast-1.amazonaws.com/styles/article_detail_v2/s3/20261026_baidu_auto_20261026181334_Bloomberg.jpg" /></p><hr/><small>26 Oct 2026, 17:40 UTC | #25436</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Offers Voluntary Buyouts to Roughly a Quarter of Its Workforce</title>
     <link href="https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/" rel="alternate" />
