@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>TSMC’s Phoenix Fab Examined as a Test for American Semiconductor Manufacturing</h2>
+<p>TSMC's initial Phoenix fabrication facility has achieved chip output rates comparable to its plants in Taiwan, marking a notable milestone for domestic semiconductor manufacturing. Taiwanese engineers on-site are helping train American workers to restore local industrial expertise.</p><p>The extensive project and the influx of related families are reshaping the economic and cultural landscape of north Phoenix. Observers note parallels to historical industrial transfers, such as when Japanese automakers previously introduced advanced management and engineering practices to the United States.</p>
+<p><small>Links: <a href="https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LVE.T4pO.KW_xY6NbyH_s&smid=nytcore-ios-share">nytimes.com</a></small></p>
+
 <h2>Alphabet, Amazon, and Microsoft Expected to Report Strong Revenue Amid AI Spending Scrutiny</h2>
 <p>Alphabet, Amazon, and Microsoft are projected to report double-digit revenue gains as they release their quarterly earnings this week. Despite the expected strong financial results, investors are growing increasingly impatient with the massive capital expenditures directed toward artificial intelligence infrastructure.</p><p>The heavy spending spree has raised concerns about cash flow and immediate returns on investment, overshadowing positive revenue growth. Market sentiment has shifted as stakeholders demand greater financial accountability regarding the high costs associated with the ongoing artificial intelligence boom.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings">bloomberg.com</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Home Page Farm Essay Critiques Ethical and Environmental Impacts of Artificial Intelligence</h2>
 <p>An essay published by Home Page Farm outlines extensive criticisms of artificial intelligence, arguing that major technology companies exploit user data, deploy seductively confident tools, and burden the environment with heavy energy and water demands.</p><p>The piece contends that reliance on automated systems degrades human cognitive abilities, disrupts education and entry-level workforce training, and concentrates social and economic power among a small group of tech executives.</p>
 <p><small>Links: <a href="https://homepage.farm/ai.html">homepage.farm</a> | <a href="https://lobste.rs/s/vh8l3t/what_s_wrong_with_ai">discussion</a> | <a href="https://news.ycombinator.com/item?id=50220640">hacker news</a></small></p>
-
-<h2>Meta&#x27;s Internal Investigations Team and Efforts to Prevent School Shootings</h2>
-<p>Meta operates a specialized internal investigations team that uses automated artificial intelligence tools and human reviewers to scan social media platforms for signs of targeted school shooting plots and violent extremism. Established in 2018 and led by former law enforcement professionals, the unit monitors online behavior, shared content, and interactions to identify warning signs and "leakage" before forwarding actionable threats to law enforcement agencies worldwide.</p><p>The team's work intersects with the True Crime Community, an online subculture that romanticizes mass murderers and continually evolves its language and iconography to evade content moderation. While law enforcement officials credit Meta's tips with disrupting several active plots, researchers and critics argue that algorithmic social media feeds and reduced investments in broader trust-and-safety programs continue to amplify extremist content and radicalize vulnerable users.</p>
-<p><small>Links: <a href="https://www.newyorker.com/news/the-lede/inside-metas-efforts-to-prevent-school-shootings">newyorker.com</a></small></p>
 
 ---
 

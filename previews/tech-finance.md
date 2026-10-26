@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Suzhou Dongshan Precision Manufacturing Raises $1.3 Billion in Hong Kong IPO</h2>
+<p>Suzhou Dongshan Precision Manufacturing Co., a printed circuit board manufacturer, raised approximately HK$9.9 billion ($1.3 billion) in Hong Kong through its initial public offering. The share sale was priced at roughly HK$86.80, marking the city's largest stock market listing in nearly two months.</p><p>The final offer price represented a 35% discount relative to the company's closing price on the Shenzhen stock exchange amid volatile investor sentiment surrounding technology and artificial intelligence suppliers. The offering drew cautious demand as the company navigated broader market fluctuations.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing">bloomberg.com</a></small></p>
+
 <h2>Ramp Investors Joe Lonsdale and Keith Rabois Pushed Lawmakers to Probe Airwallex Following Scrapped Deal</h2>
 <p>Venture capitalists Joe Lonsdale and Keith Rabois, both investors in fintech startup Ramp, pushed U.S. lawmakers to investigate rival payments company Airwallex over its ties to China. The lobbying effort followed the collapse of a potential corporate deal between Ramp and Airwallex, marking an escalation in competitive tactics within the sector.</p><p>The political pressure resulted in congressional inquiries regarding Airwallex's operations, staffing in China, and compliance with data security regulations. Airwallex executives defended the company against the allegations, dismissing the criticisms as unfounded attacks amid intensifying geopolitical scrutiny in the fintech industry.</p>
 <p><small>Links: <a href="https://www.theinformation.com/articles/ramp-investors-went-nuclear-airwallex-doomed-deal">theinformation.com</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Elon Musk Invests $1 Billion in Skydance</h2>
 <p>Elon Musk has invested approximately $1 billion in Skydance, providing a financial boost to the media and entertainment company as it aims to cut costs and strengthen its stock price. The equity commitment coincides with investments from other backers, including board member Laurene Powell Jobs.</p><p>The transaction follows months of speculation regarding a potential partnership between Skydance and Musk’s commercial entities, such as Starlink. Industry figures have previously suggested that the collaboration could help reshape traditional broadcasting channels into streaming models, while leadership at Skydance continues to build out technology and artificial intelligence initiatives.</p>
 <p><small>Links: <a href="https://www.semafor.com/article/10/22/2026/elon-musk-makes-1-billion-investment-in-ellisons-skydance">semafor.com</a></small></p>
-
-<h2>Nirva Raises $25 Million in Pre-Series A Funding for AI Wearable</h2>
-<p>Nirva has raised $25 million in a pre-Series A funding round, bringing its total funding to $33 million ahead of its commercial product launch. The capital will support the rollout of the startup's lightweight AI pendant, designed to function as an all-day personal journal.</p><p>Founded in 2025 by former Meta Reality Labs employees, the eight-gram device is engineered to passively listen exclusively to the wearer's speech to provide personal insights and self-reflection tools. The company plans to open orders for the device at $249, with backing from investors including Lightspeed and South Park Commons.</p>
-<p><small>Links: <a href="https://www.axios.com/pro/health-tech-deals/2026/10/22/nirva-25m-ai-wearable-personal-companion">axios.com</a></small></p>
 
 ---
 

@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-26T13:16:00+00:00</updated>
+  <updated>2026-10-26T13:33:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>TSMC’s Phoenix Fab Examined as a Test for American Semiconductor Manufacturing</title>
+    <link href="https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LVE.T4pO.KW_xY6NbyH_s&amp;smid=nytcore-ios-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LVE.T4pO.KW_xY6NbyH_s&amp;smid=nytcore-ios-share::v240</id>
+    <published>2026-10-26T13:33:00+00:00</published>
+    <updated>2026-10-26T13:33:00+00:00</updated>
+    <media:thumbnail url="https://www.tsmc.com/static/abouttsmcaz/img/about_arizona.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LVE.T4pO.KW_xY6NbyH_s&smid=nytcore-ios-share">nytimes.com</a></small></p><hr/><p>TSMC's initial Phoenix fabrication facility has achieved chip output rates comparable to its plants in Taiwan, marking a notable milestone for domestic semiconductor manufacturing. Taiwanese engineers on-site are helping train American workers to restore local industrial expertise.</p><p>The extensive project and the influx of related families are reshaping the economic and cultural landscape of north Phoenix. Observers note parallels to historical industrial transfers, such as when Japanese automakers previously introduced advanced management and engineering practices to the United States.</p><p><img src="https://www.tsmc.com/static/abouttsmcaz/img/about_arizona.jpg" /></p><hr/><small>26 Oct 2026, 17:08 UTC | #25434</small>]]></content>
+  </entry>
   <entry>
     <title>Alphabet, Amazon, and Microsoft Expected to Report Strong Revenue Amid AI Spending Scrutiny</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings" rel="alternate" />
