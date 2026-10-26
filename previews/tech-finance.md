@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Nevis Raises $70 Million Series B Funding for Wealth Management AI Platform</h2>
+<p>Nevis, a New York-based wealth management technology startup founded by former Revolut executives, has raised $70 million in a Series B funding round led by EQT Ventures. The round brings the company's total funding to $110 million and values it at $500 million, with participation from new investors including Charles Schwab Corporation and QuantumLight.</p><p>The company provides artificial intelligence software designed to automate routine administrative tasks and paperwork for financial advisors. Nevis plans to use the fresh capital to expand its platform's capabilities as the wealth management industry faces a projected shortage of advisors driven by retirements and a major generational wealth transfer.</p>
+<p><small>Links: <a href="https://fortune.com/2026/10/26/former-revolut-execs-70-million-financial-advisor-shortage/">fortune.com</a> | <a href="https://www.businesswire.com/news/home/20261026161240/en/Nevis-Raises-70-Million-Series-B-to-Grow-its-AI-Operating-System-for-Wealth-Management">source</a></small></p>
+
 <h2>Bedrock Robotics Raises $600 Million in Series C Funding at $4.1 Billion Valuation</h2>
 <p>Bedrock Robotics Inc. has secured a $600 million Series C funding round, bringing its post-money valuation to $4.1 billion. The startup develops driverless excavators and other autonomous construction machinery designed for job sites.</p><p>The financing round was co-led by CapitalG and Emergence Capital. Bedrock plans to use the capital to scale its autonomous construction equipment across sites throughout the United States.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/autonomous-construction-firm-bedrock-hits-4-1-billion-valuation">bloomberg.com</a> | <a href="https://www.globenewswire.com/news-release/2026/10/26/3388197/0/en/bedrock-robotics-raises-600-million-series-c-to-scale-autonomous-construction-equipment-across-u-s-sites.html">source</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Andreessen Horowitz Rebrands a16z Crypto to a16z Frontier</h2>
 <p>Andreessen Horowitz has rebranded its digital assets division, a16z Crypto, to a16z Frontier. The rebranding expands the mandate of its $2.2 billion fund to include artificial intelligence, robotics, and other emerging technologies alongside its existing blockchain focus.</p><p>Managing partner Chris Dixon stated the shift reflects the blurring distinction between crypto-native companies and other technology sectors. While the firm will continue to support crypto startups and advocate for regulation, the expansion aligns with recent strategic shifts by other prominent investors such as Paradigm and Haun Ventures.</p>
 <p><small>Links: <a href="https://fortune.com/2026/10/22/venture-giant-andreessen-horowitz-crypto-name-blockchain-fund-rebrands-a16z-frontier/">fortune.com</a> | <a href="https://a16zfrontier.com/posts/article/a16z-frontier">source</a></small></p>
-
-<h2>Microsoft and Alphabet Object to Tokenized Stock Trading on OKXICE Platform</h2>
-<p>Microsoft and Alphabet have joined 14 other public companies in formally objecting to a plan by OKXICE—a joint venture between crypto exchange OKX and NYSE parent ICE—to offer round-the-clock tokenized trading of their shares. The companies utilized a Securities and Exchange Commission framework that allows qualifying firms to block third-party tokenized stock listings within a 30-day notice period.</p><p>The pushback highlights growing corporate caution toward digital asset trading, driven by concerns over potential pricing discrepancies and the loss of traditional market closures used for digesting earnings reports. While individual companies can block their shares from specific platforms using the regulatory exemption, the mounting objections threaten to strip the planned venture of a significant portion of its initial stock lineup.</p>
-<p><small>Links: <a href="https://fortune.com/2026/10/21/microsoft-alphabet-object-blockchain-versions-shares-veto/">fortune.com</a></small></p>
 
 ---
 

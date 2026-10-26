@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-26T18:51:00+00:00</updated>
+  <updated>2026-10-26T19:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Nevis Raises $70 Million Series B Funding for Wealth Management AI Platform</title>
+    <link href="https://fortune.com/2026/10/26/former-revolut-execs-70-million-financial-advisor-shortage/" rel="alternate" />
+    <id>https://fortune.com/2026/10/26/former-revolut-execs-70-million-financial-advisor-shortage/::v240</id>
+    <published>2026-10-26T19:51:00+00:00</published>
+    <updated>2026-10-26T19:51:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4E10AQH27TAx2k0hNw/image-shrink_800/B4EZrbz8qfKMAc-/0/1764624420898?e=2147483647&amp;v=beta&amp;t=sw-l8fn8Tds5xnBDMpxlmExfCKo9AudoWsUGVGZfZjM" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://fortune.com/2026/10/26/former-revolut-execs-70-million-financial-advisor-shortage/">fortune.com</a> | <a href="https://www.businesswire.com/news/home/20261026161240/en/Nevis-Raises-70-Million-Series-B-to-Grow-its-AI-Operating-System-for-Wealth-Management">source</a></small></p><hr/><p>Nevis, a New York-based wealth management technology startup founded by former Revolut executives, has raised $70 million in a Series B funding round led by EQT Ventures. The round brings the company's total funding to $110 million and values it at $500 million, with participation from new investors including Charles Schwab Corporation and QuantumLight.</p><p>The company provides artificial intelligence software designed to automate routine administrative tasks and paperwork for financial advisors. Nevis plans to use the fresh capital to expand its platform's capabilities as the wealth management industry faces a projected shortage of advisors driven by retirements and a major generational wealth transfer.</p><p><img src="https://media.licdn.com/dms/image/v2/D4E10AQH27TAx2k0hNw/image-shrink_800/B4EZrbz8qfKMAc-/0/1764624420898?e=2147483647&v=beta&t=sw-l8fn8Tds5xnBDMpxlmExfCKo9AudoWsUGVGZfZjM" /></p><hr/><small>26 Oct 2026, 23:05 UTC | #25484</small>]]></content>
+  </entry>
   <entry>
     <title>Bedrock Robotics Raises $600 Million in Series C Funding at $4.1 Billion Valuation</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-26/autonomous-construction-firm-bedrock-hits-4-1-billion-valuation" rel="alternate" />
