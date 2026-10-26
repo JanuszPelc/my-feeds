@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-26T18:21:00+00:00</updated>
+  <updated>2026-10-26T18:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Cineol-X 224 Free Lexicon Reverb Plugin Released</title>
+    <link href="https://bedroomproducersblog.com/2026/10/26/cineol-x-224-lexicon-reverb/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/26/cineol-x-224-lexicon-reverb/::v240</id>
+    <published>2026-10-26T18:22:00+00:00</published>
+    <updated>2026-10-26T18:22:00+00:00</updated>
+    <media:thumbnail url="https://pluginfox.com/cdn/shop/files/Lexicon224Gui1.png?v=1684861169" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/26/cineol-x-224-lexicon-reverb/">bedroomproducersblog.com</a> | <a href="https://github.com/temaniak/cineolX/releases">source</a> | <a href="https://bedroomproducersblog.com/2026/10/26/cineol-x-224-lexicon-reverb/#comments">discussion</a></small></p><hr/><p>Cineol-X 224 is a free reverb plugin for macOS and Windows that emulates classic hardware units using data derived from original Lexicon 224 v4.4 and 224 XL v8.21 firmware. It includes 28 programs spanning the six algorithms of the original 224 and 22 algorithms from the 224XL, featuring an automatic engine selection function.</p><p>Operation requires users to supply their own original Lexicon ROM files upon first use. The VST3 plugin is available for download via the project's GitHub releases page.</p><p><img src="https://pluginfox.com/cdn/shop/files/Lexicon224Gui1.png?v=1684861169" /></p><hr/><small>26 Oct 2026, 21:33 UTC | #25486</small>]]></content>
+  </entry>
   <entry>
     <title>IK Multimedia Introduces TONEX Free Unlimited</title>
     <link href="https://bedroomproducersblog.com/2026/10/26/ik-multimedia-tonex-free-unlimited/" rel="alternate" />

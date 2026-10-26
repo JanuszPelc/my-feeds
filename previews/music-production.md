@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Cineol-X 224 Free Lexicon Reverb Plugin Released</h2>
+<p>Cineol-X 224 is a free reverb plugin for macOS and Windows that emulates classic hardware units using data derived from original Lexicon 224 v4.4 and 224 XL v8.21 firmware. It includes 28 programs spanning the six algorithms of the original 224 and 22 algorithms from the 224XL, featuring an automatic engine selection function.</p><p>Operation requires users to supply their own original Lexicon ROM files upon first use. The VST3 plugin is available for download via the project's GitHub releases page.</p>
+<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/26/cineol-x-224-lexicon-reverb/">bedroomproducersblog.com</a> | <a href="https://github.com/temaniak/cineolX/releases">source</a> | <a href="https://bedroomproducersblog.com/2026/10/26/cineol-x-224-lexicon-reverb/#comments">discussion</a></small></p>
+
 <h2>IK Multimedia Introduces TONEX Free Unlimited</h2>
 <p>IK Multimedia has released TONEX Free Unlimited, an expansion of its free TONEX 2 CS guitar and bass software. Rolled out with version 2.2, the update removes previous restrictions on the platform, allowing users to perform unlimited free downloads from ToneNET and create an unlimited number of Tone Models.</p><p>The updated free tier also includes 120 built-in Tone Models—comprising 40 premium models and 80 from tone partners—along with integrated effects. These additions provide musicians with a fully functional AI-powered amp and cabinet modeling environment without requiring a paid subscription.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/26/ik-multimedia-tonex-free-unlimited/">bedroomproducersblog.com</a> | <a href="https://www.ikmultimedia.com/news/?item_id=17132">source</a> | <a href="https://bedroomproducersblog.com/2026/10/26/ik-multimedia-tonex-free-unlimited/#comments">discussion</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <h2>Stemwire Releases Levelproof EQ Free Plugin</h2>
 <p>Stemwire has released Levelproof EQ, a free equalizer plugin for macOS and Windows available in VST3 and AU formats. The plugin is designed to eliminate loudness bias by automatically measuring and level-matching changes against the original signal using exact LUFS measurements.</p><p>The transparent EQ features up to 24 bands and incorporates automatic gain locking so that output levels remain steady during sessions until new adjustments are made. The software is distributed as a free or pay-what-you-want download on the developer's website.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/stemwire-releases-levelproof-eq---free-eq-plugin-vst3-and-au-69331?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69331">kvraudio.com</a> | <a href="https://plugins.stemwire.io/audio-plugins/levelproof-eq">source</a></small></p>
-
-<h2>SXP Plugins Releases Choir Formant Filtering Synth Plugin</h2>
-<p>SXP Plugins has released Choir, an eight-voice polyphonic formant filtering synthesizer designed for creating choir pads, vowel morphing, and expressive vocal textures. The instrument features a five-band formant filter, adjustable vowels, and five distinct voice types.</p><p>Choir operates in VST3 and AU formats for Windows and macOS, supporting both Intel and Apple Silicon processors. The plugin includes ten factory presets and automatable parameters, and it is available as a free download for a limited time on the SXP Plugins website.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/sxp-plugins-releases-choir---formant-filtering-synth-free-for-a-limited-time-69329?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69329">kvraudio.com</a> | <a href="https://www.sxp-plugins.com/download-choir.html">source</a></small></p>
 
 ---
 
