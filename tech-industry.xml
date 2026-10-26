@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-26T06:20:00+00:00</updated>
+  <updated>2026-10-26T06:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Toyota Expands Robotics Operations With Walden Spin-off and Factory Plan</title>
+    <link href="https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3" rel="alternate" />
+    <id>https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3::v240</id>
+    <published>2026-10-26T06:31:00+00:00</published>
+    <updated>2026-10-26T06:31:00+00:00</updated>
+    <media:thumbnail url="https://images.prismic.io/walden-robotics/fevfKsxPXdSYOYuC_walden_homepage_hero_final4.png?auto=format,compress&amp;rect=0,0,2400,1200&amp;w=2048&amp;fit=max" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3">ft.com</a> | <a href="https://www.waldenrobotics.com/news/walden-robotics-launches-with-300-million">source</a></small></p><hr/><p>Toyota is expanding its industrial robotics initiatives, commercializing decades of research to compete with rivals in the automated manufacturing space. As part of this push, the automaker's AI robotics spinout Walden Robotics has emerged from stealth with $300 million in funding and a $1.1 billion valuation, deploying physical AI robots directly into factory production.</p><p>The broader strategy involves substantial annual capital investments to scale automation across manufacturing facilities. By integrating advanced machine learning and physical AI systems, the Japanese group aims to enhance factory efficiency and maintain its competitive edge against growing international competition.</p><p><img src="https://images.prismic.io/walden-robotics/fevfKsxPXdSYOYuC_walden_homepage_hero_final4.png?auto=format,compress&rect=0,0,2400,1200&w=2048&fit=max" /></p><hr/><small>26 Oct 2026, 11:45 UTC | #25420</small>]]></content>
+  </entry>
   <entry>
     <title>SK Hynix Considers 16 Trillion Won Special Dividend From Kioxia Gains</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report" rel="alternate" />
