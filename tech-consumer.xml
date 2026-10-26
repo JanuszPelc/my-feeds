@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-25T18:24:00+00:00</updated>
+  <updated>2026-10-25T23:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png</logo>
+  <entry>
+    <title>Grok Releases First Seven Minutes of AI-Generated Odyssey Series</title>
+    <link href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/::v240</id>
+    <published>2026-10-25T23:15:00+00:00</published>
+    <updated>2026-10-25T23:15:00+00:00</updated>
+    <media:thumbnail url="https://helios-i.mashable.com/imagery/articles/03GbMG1r6qHcyGRHO6KR3kF/hero-image.fill.size_1200x675.v1792865093.png" />
+    <content type="html"><![CDATA[<p><small>TechCrunch AI | <a href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/">techcrunch.com</a> | <a href="https://x.com/imagine/status/2113712964419063911?s=20">source</a></small></p><hr/><p>Grok has released a seven-minute video comprising the first episode of an AI-generated adaptation of Homer's "The Odyssey." Created in collaboration with Wonder Studios and director Dev Walker, the release delivers on Elon Musk's promise earlier in the year to produce a full-length AI version of the epic.</p><p>The project serves as an explicit counterpoint to Christopher Nolan’s practical-film adaptation released in July. Early evaluations indicate that while the AI-generated footage achieves occasional moments of visual realism, it struggles with narrative momentum, dialogue, and human engagement.</p><p><img src="https://helios-i.mashable.com/imagery/articles/03GbMG1r6qHcyGRHO6KR3kF/hero-image.fill.size_1200x675.v1792865093.png" /></p><hr/><small>26 Oct 2026, 02:38 UTC | #25404</small>]]></content>
+  </entry>
   <entry>
     <title>Dolly Parton's Imagination Library Provides Free Books to Children Worldwide</title>
     <link href="https://imaginationlibrary.com/" rel="alternate" />
