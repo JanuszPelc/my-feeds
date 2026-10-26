@@ -3,7 +3,7 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-25T09:13:00+00:00</updated>
+  <updated>2026-10-26T08:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png</logo>
   <entry>
@@ -191,9 +191,9 @@
     <link href="https://www.wsj.com/business/earnings/ibm-reports-higher-profit-as-some-slipped-deals-come-through-c0bb0640" rel="alternate" />
     <id>https://www.wsj.com/business/earnings/ibm-reports-higher-profit-as-some-slipped-deals-come-through-c0bb0640::v240</id>
     <published>2026-10-21T23:55:00+00:00</published>
-    <updated>2026-10-21T23:55:00+00:00</updated>
+    <updated>2026-10-26T08:02:00+00:00</updated>
     <media:thumbnail url="https://247wallst.com/og/earnings/IBM.png" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/business/earnings/ibm-reports-higher-profit-as-some-slipped-deals-come-through-c0bb0640">wsj.com</a> | <a href="https://newsroom.ibm.com/2023-10-25-IBM-RELEASES-THIRD-QUARTER-RESULTS">source</a></small></p><hr/><p>IBM reported third-quarter revenue of $17.1 billion, a 5% year-over-year increase that exceeded analyst estimates of $16.82 billion. Net income rose 26% to $2.19 billion, up from $1.74 billion in the same period last year.</p><p>Software revenue grew 8% to $7.8 billion, while infrastructure revenue rose 4% to $4 billion. The results were bolstered by the closing of several deals that had been previously delayed.</p><p><img src="https://247wallst.com/og/earnings/IBM.png" /></p><hr/><small>22 Oct 2026, 05:25 UTC | #25084</small>]]></content>
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.wsj.com/business/earnings/ibm-reports-higher-profit-as-some-slipped-deals-come-through-c0bb0640">wsj.com</a> | <a href="https://newsroom.ibm.com/2023-10-25-IBM-RELEASES-THIRD-QUARTER-RESULTS">source</a> | <a href="https://news.ycombinator.com/item?id=50238088">hacker news</a></small></p><hr/><p>IBM reported third-quarter revenue of $17.1 billion, a 5% year-over-year increase that exceeded analyst estimates of $16.82 billion. Net income rose 26% to $2.19 billion, up from $1.74 billion in the same period last year.</p><p>Software revenue grew 8% to $7.8 billion, while infrastructure revenue rose 4% to $4 billion. The results were bolstered by the closing of several deals that had been previously delayed.</p><p><img src="https://247wallst.com/og/earnings/IBM.png" /></p><hr/><small>22 Oct 2026, 05:25 UTC | #25084</small>]]></content>
   </entry>
   <entry>
     <title>Texas Instruments Beats Q3 Revenue Estimates and Raises Q4 Forecast</title>
