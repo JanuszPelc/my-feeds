@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-26T00:24:00+00:00</updated>
+  <updated>2026-10-26T03:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>Yosh Explains Pratt Parsing and Shunting Yard Implementation in C</title>
+    <link href="https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html" rel="alternate" />
+    <id>https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html::v240</id>
+    <published>2026-10-26T03:07:00+00:00</published>
+    <updated>2026-10-26T03:07:00+00:00</updated>
+    <media:thumbnail url="https://cdelmonte.dev/deep-dives/shunting-yard-and-pratt-parsing/shunting-yard.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html">unix.dog</a> | <a href="https://lobste.rs/s/mu3xcd/writing_about_pratt_parsing_so_i_remember">discussion</a></small></p><hr/><p>Developer ~yosh explores the implementation of Pratt parsing by comparing it to the shunting yard algorithm, using C code examples to demonstrate how to convert an explicit operator stack into an implicit call stack. The post illustrates how this transformation enables first-class handling of prefix operators and simplifies the integration of complex behaviors like parentheses and arbitrary operator rules.</p><p>Noting that Pratt parsing is rarely covered in conventional computer science curricula compared to LR or recursive descent parsers, the author draws insights from Pratt's original paper and Crafting Interpreters. The resulting code demonstrates how binding powers and subexpression recursion can be structured cleanly to build extensible expression parsers.</p><p><img src="https://cdelmonte.dev/deep-dives/shunting-yard-and-pratt-parsing/shunting-yard.webp" /></p><hr/><small>26 Oct 2026, 06:14 UTC | #25419</small>]]></content>
+  </entry>
   <entry>
     <title>Charles Miller Argues Transient AI Skills Hold No Long-Term Value</title>
     <link href="https://fishbowl.pastiche.org/2026/10/26/ai-skills" rel="alternate" />
