@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Flock CEO Garrett Langley Dismisses Backlash in Leaked Audio</h2>
+<p>In leaked audio from a private police conference, Flock Safety CEO Garrett Langley claimed that nationwide protests and social media opposition against his company's automatic license plate reader technology are inorganic and driven largely by bots. Langley also stated that his wife advised him never to apologize for corporate mistakes and expressed a desire to avoid media interviews in the future.</p><p>Flock has faced extensive public scrutiny, municipal contract cancellations, and federal legislative proposals following revelations about police misuse of its nationwide surveillance network for immigration enforcement and personal tracking. Despite the mounting backlash, Langley maintained that the opposition will eventually subside as the industry moves past the current period of intense public debate.</p>
+<p><small>Links: <a href="https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=50248005">hacker news</a></small></p>
+
 <h2>Elvis Presley Rightsholders Sue Anthropic Over Alleged Copyright Infringement</h2>
 <p>The owners of Elvis Presley's music catalog have filed a federal lawsuit seeking more than $41 million in damages against artificial intelligence company Anthropic. The complaint alleges that Anthropic used 274 copyrighted musical compositions associated with Presley to train its Claude AI models without authorization.</p><p>The lawsuit, brought by a subsidiary of Authentic Brands Group, claims the company infringed on intellectual property rights by training its systems on copyrighted lyrics and generating infringing outputs. Anthropic has stated that it disagrees with the allegations and intends to defend itself against the claims.</p>
 <p><small>Links: <a href="https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html?unlocked_article_code=1.LVE.Unk9.7e04-FAQ9Ei8&smid=nytcore-ios-share">nytimes.com</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>Sweden&#x27;s Government Offices Block ChatGPT and Claude on Work Computers</h2>
 <p>Sweden's Government Offices have blocked access to the AI chatbots ChatGPT and Claude on staff work computers. The restriction, reported by Sveriges Radio's Ekot, prevents employees from using these popular generative AI tools on official devices.</p><p>The measure reflects growing caution among public institutions regarding the use of external AI services on secure networks. Government agencies are increasingly implementing such blocks to manage data security risks and protect sensitive administrative information.</p>
 <p><small>Links: <a href="https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet">sverigesradio.se</a> | <a href="https://news.ycombinator.com/item?id=50207405">hacker news</a></small></p>
-
-<h2>Keep Android Open Campaign Challenges Google&#x27;s Android Developer Verification Policy</h2>
-<p>The Keep Android Open campaign opposes Google's policy requiring all Android app developers to centrally register and provide government-issued identification before their software can be installed on certified devices. The mandate affects all applications, including those distributed via alternative open-source platforms like F-Droid or sideloaded independently, by introducing mandatory identity checks and cryptographic signing verification.</p><p>Critics and civil rights organizations argue that the policy undermines Android's open ecosystem, threatens open-source distribution, and introduces severe hurdles for independent developers. While Google frames the requirements around malware prevention and platform security, opponents contend that mandatory identity collection creates censorship risks and disproportionately impacts privacy advocates, hobbyists, and users operating under restrictive regimes.</p>
-<p><small>Links: <a href="https://keepandroidopen.org/?">keepandroidopen.org</a> | <a href="https://news.ycombinator.com/item?id=50208558">hacker news</a></small></p>
 
 ---
 

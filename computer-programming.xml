@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-26T18:46:00+00:00</updated>
+  <updated>2026-10-26T19:50:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Oldest GUI Application Compatible With Windows 11 Investigated</title>
+    <link href="https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/" rel="alternate" />
+    <id>https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/::v240</id>
+    <published>2026-10-26T19:50:00+00:00</published>
+    <updated>2026-10-26T19:50:00+00:00</updated>
+    <media:thumbnail url="https://blog.enlyth.com/_astro/image.Bg57xYSH_1uh08L.webp" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/">blog.enlyth.com</a> | <a href="https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on">discussion</a> | <a href="https://news.ycombinator.com/item?id=50248055">hacker news</a></small></p><hr/><p>An investigation into the oldest graphical user interface application that can run natively on Windows 11 without modification or emulation reveals that early 32-bit Windows NT binaries remain functional. Although Windows 11 lacks 16-bit NTVDM support, programs like FREECELL.EXE from February 1993 execute successfully out of the box.</p><p>Deeper exploration into early Windows NT pre-release builds identifies even older software, including CDPLAYER.EXE from November 1992, which bypasses crashes by utilizing the system's legacy crtdll.dll and an emulated CD-ROM driver. Furthermore, employing compatibility layers such as otvdm enables 16-bit applications like REVERSI.EXE from November 1985 to run on the modern operating system.</p><p><img src="https://blog.enlyth.com/_astro/image.Bg57xYSH_1uh08L.webp" /></p><hr/><small>26 Oct 2026, 22:54 UTC | #25522</small>]]></content>
+  </entry>
   <entry>
     <title>Ben Joffe Proposes Faster Algorithm for Signed 64-Bit Floor Division by Constants</title>
     <link href="https://www.benjoffe.com/fast-floordiv" rel="alternate" />
