@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-26T13:05:00+00:00</updated>
+  <updated>2026-10-26T13:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Caius Outlines Job Hunt and Halloween Costume Plans for the Week</title>
+    <link href="https://lobste.rs/s/xxdda9/what_are_you_doing_this_week" rel="alternate" />
+    <id>https://lobste.rs/s/xxdda9/what_are_you_doing_this_week::v240</id>
+    <published>2026-10-26T13:08:00+00:00</published>
+    <updated>2026-10-26T13:08:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D4D22AQGcaJQ1NTYKZA/feedshare-shrink_800/feedshare-shrink_800/0/1717068839070?e=2147483647&amp;v=beta&amp;t=qKiJxVhqrHjRBE1US6YRK2D_l-4cWwy0EWFak3InpkY" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lobste.rs/s/xxdda9/what_are_you_doing_this_week">lobste.rs</a> | <a href="https://lobste.rs/s/xxdda9/what_are_you_doing_this_week">discussion</a></small></p><hr/><p>Community member caius shares their upcoming weekly agenda, highlighting an active job search and participation in a hiring hall. Alongside their professional pursuits, they are rushing to assemble a custom Halloween costume from scratch.</p><p>The post serves as a personal check-in within an online community thread where users discuss their short-term goals, ongoing projects, and personal milestones for the week.</p><p><img src="https://media.licdn.com/dms/image/v2/D4D22AQGcaJQ1NTYKZA/feedshare-shrink_800/feedshare-shrink_800/0/1717068839070?e=2147483647&v=beta&t=qKiJxVhqrHjRBE1US6YRK2D_l-4cWwy0EWFak3InpkY" /></p><hr/><small>26 Oct 2026, 14:38 UTC | #25460</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Files S-1 Registration Statement For Proposed Initial Public Offering</title>
     <link href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm" rel="alternate" />
