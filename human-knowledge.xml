@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-25T13:46:00+00:00</updated>
+  <updated>2026-10-25T18:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png</logo>
+  <entry>
+    <title>UC Berkeley Math Professor Richard Borcherds Stops Grading Homework Due to AI Use</title>
+    <link href="https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html" rel="alternate" />
+    <id>https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html::v240</id>
+    <published>2026-10-25T18:32:00+00:00</published>
+    <updated>2026-10-25T18:32:00+00:00</updated>
+    <media:thumbnail url="https://nypost.com/wp-content/uploads/sites/2/2026/10/richard-borcherds-uc-berkeley-professor-146464780.jpg?quality=75&amp;strip=all&amp;w=1288" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html">dailycal.org</a> | <a href="https://news.ycombinator.com/item?id=50233304">hacker news</a></small></p><hr/><p>UC Berkeley mathematics professor and Fields medalist Richard Borcherds has stopped grading student homework for correctness after observing that widespread artificial intelligence use allows students to consistently achieve top scores. Borcherds currently evaluates assignments solely on completion, stating that paying graders to verify accuracy has become pointless because AI-generated solutions are unavoidable.</p><p>The decision follows recent advancements in mathematical artificial intelligence capabilities, including OpenAI's announcement regarding the Navier-Stokes existence and smoothness problem. Borcherds expressed uncertainty about the future of mathematics as a career path and noted that while campus departments encourage faculty to establish clear artificial intelligence policies in syllabi, standard detection tools remain inadequate.</p><p><img src="https://nypost.com/wp-content/uploads/sites/2/2026/10/richard-borcherds-uc-berkeley-professor-146464780.jpg?quality=75&strip=all&w=1288" /></p><hr/><small>26 Oct 2026, 00:19 UTC | #25408</small>]]></content>
+  </entry>
   <entry>
     <title>Max Planck Institute Researchers Discover Three Supermassive Black Holes in Distant Galaxy</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261024222000.htm" rel="alternate" />
