@@ -23,9 +23,10 @@ and import it into your reader to get all of them at once.
 
 ## Worth knowing
 
-Titles and summaries are written by an agentic pipeline running small local models, and
-nothing is reviewed by hand. Lead images are chosen by vision models and don't always
-match the story. Check anything that matters against the linked sources.
+The feeds are aggregated by an agentic pipeline, which rewrites every title and summary in
+a plain, measured tone. Lead images are chosen by vision models and don't always match the
+story. Nothing is reviewed by hand, so check anything that matters against the linked
+sources.
 
 > [!TIP]
 > If a feed goes quiet for a few days, come back and check the list above. The URLs are
