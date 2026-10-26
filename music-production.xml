@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-26T00:34:00+00:00</updated>
+  <updated>2026-10-26T15:48:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>M-Vave FM-1 Pocket Synthesizer Emerges as Custom Firmware Platform</title>
+    <link href="https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/" rel="alternate" />
+    <id>https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/::v240</id>
+    <published>2026-10-26T15:48:00+00:00</published>
+    <updated>2026-10-26T15:48:00+00:00</updated>
+    <media:thumbnail url="https://m.media-amazon.com/images/I/61gJBdDcHuL._AC_SL1200_.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/">arstechnica.com</a> | <a href="https://www.cuvave.com/product?id=fm-1">source</a> | <a href="https://lobste.rs/s/5u7gjd/from_impulse_purchase_pocket_studio_m">discussion</a></small></p><hr/><p>The M-Vave FM-1 is an inexpensive pocket frequency-modulation synthesizer that has evolved into a popular platform for community-developed custom firmware. Originally released as a budget device inspired by the Yamaha DX7, the hardware sparked reverse-engineering efforts that led to user-created software expanding its capabilities far beyond its stock configuration.</p><p>In response to the community trend, manufacturer M-Vave launched FM1 Open, an open-source development package featuring a browser-based workbench, software development kit, and updated firmware options. Community developers have since ported a wide variety of alternate packages to the device, transforming the pocket synthesizer into a multi-engine groovebox, chiptune workstation, and even a platform capable of running Doom.</p><p><img src="https://m.media-amazon.com/images/I/61gJBdDcHuL._AC_SL1200_.jpg" /></p><hr/><small>26 Oct 2026, 18:53 UTC | #25506</small>]]></content>
+  </entry>
   <entry>
     <title>AudioBrain Releases ChimeBrain Physically Modeled Wind-Chime Instrument for macOS</title>
     <link href="https://www.kvraudio.com/news/audiobrain-releases-chimebrain---physically-modeled-wind-chime-instrument-for-macos-69287?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69287" rel="alternate" />
