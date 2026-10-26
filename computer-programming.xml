@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-26T03:10:00+00:00</updated>
+  <updated>2026-10-26T03:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>DERIVE Automatically Reverse-Engineers Instruction Encodings</title>
+    <link href="https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/" rel="alternate" />
+    <id>https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/::v240</id>
+    <published>2026-10-26T03:15:00+00:00</published>
+    <updated>2026-10-26T03:15:00+00:00</updated>
+    <media:thumbnail url="https://image2.slideserve.com/3943422/derive-tool-chain-l.jpg" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/">usenix.org</a> | <a href="https://lobste.rs/s/1q1rc1/reverse_engineering_instruction">discussion</a></small></p><hr/><p>DERIVE is a software tool that automatically extracts bit-level instruction encoding information by feeding permutations of assembly instructions into an assembler and analyzing the resulting machine code. Designed to eliminate the tedious and error-prone process of manually transcribing architecture reference manuals for binary tools like just-in-time compilers and disassemblers, DERIVE successfully solves instruction sets for major architectures including MIPS, SPARC, Alpha, and PowerPC.</p><p>Operating under the assumption that assembly transformations are stateless and field-independent, the tool utilizes specialized solvers for registers, immediates, and jump targets to generate C data structure declarations. The authors demonstrate DERIVE's practical utility by building a code emitter generator that automatically produces C macros, successfully reducing the backend description size of the Kaffe JIT compiler by 40 percent.</p><p><img src="https://image2.slideserve.com/3943422/derive-tool-chain-l.jpg" /></p><hr/><small>26 Oct 2026, 08:14 UTC | #25427</small>]]></content>
+  </entry>
   <entry>
     <title>Alfie John Explores Early Demoscene Influences That Inspired Him to Program</title>
     <link href="https://www.alfie.wtf/programming/why-i-am-a-programmer.html" rel="alternate" />
