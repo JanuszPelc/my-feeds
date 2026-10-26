@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-26T13:07:00+00:00</updated>
+  <updated>2026-10-26T13:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Gram 3.4.0 Released with Side-by-Side Git Diffs and Security Updates</title>
+    <link href="https://gram-editor.com/posts/release-3.4.0/" rel="alternate" />
+    <id>https://gram-editor.com/posts/release-3.4.0/::v240</id>
+    <published>2026-10-26T13:09:00+00:00</published>
+    <updated>2026-10-26T13:09:00+00:00</updated>
+    <media:thumbnail url="https://gram-editor.com/release-3.4.0.png" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://gram-editor.com/posts/release-3.4.0/">gram-editor.com</a> | <a href="https://lobste.rs/s/p9obkt/gram_3_4_0_released">discussion</a></small></p><hr/><p>Gram 3.4.0 has been released, addressing a security vulnerability in the rustls-webpki and webpki-roots packages related to eMudhra root certificates. The update also introduces a variety of new features, bug fixes, and community-contributed improvements to the open-source code editor.</p><p>Notable additions in this version include a side-by-side view for Git diffs, a Git commit history panel, tab bar wrapping options, and the backport of the Helix "Amp Jump" feature. Additionally, the release implements stricter permission requirements for downloading or utilizing extension-provided language servers and debug adapters to prevent unauthorized background downloads.</p><p><img src="https://gram-editor.com/release-3.4.0.png" /></p><hr/><small>26 Oct 2026, 14:51 UTC | #25457</small>]]></content>
+  </entry>
   <entry>
     <title>Keybytes Modular Keyboard Project Introduced</title>
     <link href="https://github.com/notaroomba/keybytes" rel="alternate" />

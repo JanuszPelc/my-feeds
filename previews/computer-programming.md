@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Gram 3.4.0 Released with Side-by-Side Git Diffs and Security Updates</h2>
+<p>Gram 3.4.0 has been released, addressing a security vulnerability in the rustls-webpki and webpki-roots packages related to eMudhra root certificates. The update also introduces a variety of new features, bug fixes, and community-contributed improvements to the open-source code editor.</p><p>Notable additions in this version include a side-by-side view for Git diffs, a Git commit history panel, tab bar wrapping options, and the backport of the Helix "Amp Jump" feature. Additionally, the release implements stricter permission requirements for downloading or utilizing extension-provided language servers and debug adapters to prevent unauthorized background downloads.</p>
+<p><small>Links: <a href="https://gram-editor.com/posts/release-3.4.0/">gram-editor.com</a> | <a href="https://lobste.rs/s/p9obkt/gram_3_4_0_released">discussion</a></small></p>
+
 <h2>Keybytes Modular Keyboard Project Introduced</h2>
 <p>Keybytes is an open-source, fully modular mechanical keyboard project where every individual key functions as its own rearrangeable 1u printed circuit board. Developed by NotARoomba, the system allows keys to be linked together in arbitrary configurations using magnetic cases and pogo pins on all four sides for power and I2C communication.</p><p>Each key module incorporates a CH32V003 RISC-V microcontroller to process inputs, while a central two-layer main board features an STM32WB55RGV6 microcontroller supporting Bluetooth and USB connectivity. The hardware also includes battery charging circuitry, a buck-boost converter, and 2MB of QSPI flash storage, with all design files, schematics, and CAD models published on GitHub.</p>
 <p><small>Links: <a href="https://github.com/notaroomba/keybytes">github.com</a> | <a href="https://news.ycombinator.com/item?id=50228115">hacker news</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Vim Classic 8.3 Released as Long-Term Support Fork</h2>
 <p>Vim Classic has released version 8.3.0 as its inaugural stable build, establishing a long-term support fork of the Vim text editor. The project is maintained exclusively by human contributors without the use of generative AI tools.</p><p>Based on Vim 8.2.0148, the fork backports selected bug fixes and patches from upstream releases while intentionally omitting newer features like Vim9 to maintain legacy plugin compatibility and a manageable maintenance scope.</p>
 <p><small>Links: <a href="https://vim-classic.org/">vim-classic.org</a> | <a href="https://vim-classic.org/news/vim-8.3-released.html">source</a> | <a href="https://lobste.rs/s/cxwpil/vim_classic">discussion</a></small></p>
-
-<h2>Shraiwi Implements SIMD-Accelerated FAST Feature Detector on ESP32-S3</h2>
-<p>Developer Shranav has created a SIMD-accelerated FAST feature detector for the ESP32-S3 microcontroller, leveraging the chip's built-in 128-bit SIMD instructions. The optimized implementation processes a QVGA (320x240) frame in approximately six milliseconds, doubling the performance of the reference implementation and reaching a throughput of 11.2 megapixels per second.</p><p>Developing the assembly code required working around hardware constraints such as the lack of direct misaligned memory reads and an instruction set limited to signed 8-bit comparisons. By applying bitwise XOR operations to unsigned pixel data, the code successfully shifts numerical ranges without triggering the chip's saturating arithmetic limits.</p>
-<p><small>Links: <a href="https://shraiwi.com/blog/simd-fast-esp32s3/">shraiwi.com</a> | <a href="https://lobste.rs/s/qsmmke/simd_accelerated_computer_vision_on_2">discussion</a></small></p>
 
 ---
 
