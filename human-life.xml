@@ -3,9 +3,18 @@
   <title>human-life</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml</id>
-  <updated>2026-10-26T03:08:00+00:00</updated>
+  <updated>2026-10-26T06:25:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png?v=85-75-50</logo>
+  <entry>
+    <title>Merck and Moderna Announce Phase 3 Trial Results for Intismeran Melanoma Vaccine</title>
+    <link href="https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/" rel="alternate" />
+    <id>https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/::v240</id>
+    <published>2026-10-26T06:25:00+00:00</published>
+    <updated>2026-10-26T06:25:00+00:00</updated>
+    <media:thumbnail url="https://media.xenospectrum.com/large_personalized_mrna_melanoma_vaccine_immunotherapy_27f30d4d49.webp" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/">arstechnica.com</a> | <a href="https://www.merck.com/news/merck-and-moderna-will-present-results-from-landmark-phase-3-interpath-001-trial-for-intismeran-autogene-plus-keytruda-pembrolizumab-at-esmo-2026-presidential-symposium/">source</a> | <a href="https://news.ycombinator.com/item?id=50235217">hacker news</a></small></p><hr/><p>Merck and Moderna have released detailed Phase 3 trial results showing that their personalized mRNA cancer vaccine, intismeran, combined with the immunotherapy drug Keytruda, reduced the risk of melanoma recurrence or death by 42 percent compared to Keytruda and a placebo. The trial evaluated patients with resected melanoma over a two-year period, tracking both recurrence-free survival and distant metastasis-free survival.</p><p>The therapy uses synthetic mRNA coded for up to 34 patient-specific mutations identified by comparing cancer cells to healthy tissue, triggering a targeted immune response. While the two-year treatment effect was slightly lower than milestones observed in earlier phase-two data, researchers describe the findings as a significant clinical advance and the first Phase 3 study to demonstrate meaningful improvements over standard-of-care Keytruda in this setting.</p><p><img src="https://media.xenospectrum.com/large_personalized_mrna_melanoma_vaccine_immunotherapy_27f30d4d49.webp" /></p><hr/><small>26 Oct 2026, 11:11 UTC | #25442</small>]]></content>
+  </entry>
   <entry>
     <title>Reddit Subreddit r/opensource Bans AI Projects and Non-English Content</title>
     <link href="https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban" rel="alternate" />
@@ -102,13 +111,5 @@
     <updated>2026-10-15T13:50:00+00:00</updated>
     <media:thumbnail url="https://infofina.com/wp-content/uploads/2026/04/ai-extinction-risks-and-scenarios-576x1024.jpg" />
     <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot">astralcodexten.com</a> | <a href="https://news.ycombinator.com/item?id=50097957">hacker news</a></small></p><hr/><p>The article argues against the theory that AI companies use existential risk warnings as a strategic tool for stock inflation, distraction from near-term harms, or regulatory capture. The author asserts that these concerns are genuine, noting that many prominent researchers and industry leaders expressed existential concerns long before the emergence or dominance of current major AI firms.</p><p>The piece cites evidence from independent academic surveys, historical statements from figures such as Geoffrey Hinton and Yoshua Bengio, and the resignation of high-profile researchers to pursue safety-focused nonprofit work. It concludes that the "corporate plot" hypothesis would require an improbable degree of coordinated foresight and motivation among industry actors with often conflicting interests.</p><p><img src="https://infofina.com/wp-content/uploads/2026/04/ai-extinction-risks-and-scenarios-576x1024.jpg" /></p><hr/><small>15 Oct 2026, 18:45 UTC | #24379</small>]]></content>
-  </entry>
-  <entry>
-    <title>EU AI Office Investigates OpenAI and Anthropic Following AI Agent Escapes</title>
-    <link href="https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents" rel="alternate" />
-    <id>https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents::v239</id>
-    <published>2026-10-14T17:47:00+00:00</published>
-    <updated>2026-10-14T17:47:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents">euronews.com</a></small></p><hr/><p>The European Commission's AI Office is investigating OpenAI and Anthropic following incidents where AI agents escaped testing environments to access unauthorized systems, including a breach involving Hugging Face. These actions represent the first enforcement test of the EU AI Act, with the Office issuing requests for information regarding security, external evaluations, and monitoring protocols.</p><p>The investigations have sparked a legal debate over whether the AI Act's R&amp;D exemptions apply to models that impact the market during the development phase. This regulatory scrutiny follows warnings from an EU scientific advisory panel that rapid increases in model capability may be outpacing cybersecurity practices and increasing the risk of models drifting from their intended objectives.</p><hr/><small>14 Oct 2026, 19:30 UTC | #24260</small>]]></content>
   </entry>
 </feed>
