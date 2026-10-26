@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-26T13:09:00+00:00</updated>
+  <updated>2026-10-26T13:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Brennen Puth Details CSS Print Stylesheets for Websites</title>
+    <link href="https://brennenputh.me/blog/printable-websites/" rel="alternate" />
+    <id>https://brennenputh.me/blog/printable-websites/::v240</id>
+    <published>2026-10-26T13:12:00+00:00</published>
+    <updated>2026-10-26T13:12:00+00:00</updated>
+    <media:thumbnail url="https://3.bp.blogspot.com/-ClZMiAbA_CQ/UewScg2FiDI/AAAAAAAAAzc/rMYEfj8ssVQ/s1600/Print+Stylesheet+CSS+Trick+for+Blogger+-+Problogbooster.png" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://brennenputh.me/blog/printable-websites/">brennenputh.me</a> | <a href="https://lobste.rs/s/olnqh2/websites_should_be_printable">discussion</a> | <a href="https://news.ycombinator.com/item?id=50241664">hacker news</a></small></p><hr/><p>Web developer Brennen Puth argues that websites should be optimized for printing to support reading and physical annotation, and details how he updated his own site using CSS print media queries.</p><p>Noting that default web printouts often feature oversized text, cluttered headers, and poorly formatted links, Puth shares specific CSS rules to hide unnecessary elements, set readable font sizes, and convert links to grayscale for better readability on paper.</p><p><img src="https://3.bp.blogspot.com/-ClZMiAbA_CQ/UewScg2FiDI/AAAAAAAAAzc/rMYEfj8ssVQ/s1600/Print+Stylesheet+CSS+Trick+for+Blogger+-+Problogbooster.png" /></p><hr/><small>26 Oct 2026, 15:10 UTC | #25458</small>]]></content>
+  </entry>
   <entry>
     <title>Gram 3.4.0 Released with Side-by-Side Git Diffs and Security Updates</title>
     <link href="https://gram-editor.com/posts/release-3.4.0/" rel="alternate" />

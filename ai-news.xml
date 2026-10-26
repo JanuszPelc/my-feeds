@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-26T06:29:00+00:00</updated>
+  <updated>2026-10-26T13:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Marissa Mayer Launches Dazzle AI Assistant Focused on Camera Roll Context</title>
+    <link href="https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.LVE.bUTq.yuaOciiPS1zl&amp;smid=url-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.LVE.bUTq.yuaOciiPS1zl&amp;smid=url-share::v240</id>
+    <published>2026-10-26T13:10:00+00:00</published>
+    <updated>2026-10-26T13:10:00+00:00</updated>
+    <media:thumbnail url="https://media.wired.com/photos/68d975ecfc3edc8ac3d99e87/125:94/w_2560,c_limit/Marissa-Mayer-Dissolving-Sunshine-Start-Up-Lab-Business-1694171981.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.LVE.bUTq.yuaOciiPS1zl&smid=url-share">nytimes.com</a></small></p><hr/><p>Former Google executive and Yahoo chief executive Marissa Mayer has introduced Dazzle, an artificial intelligence startup developing a personal assistant designed to manage everyday, mundane tasks. Unlike competitors that rely primarily on text or email histories, Dazzle's assistant analyzes photos from a user's camera roll to anticipate personal needs, surface relevant purchases, and track appointments.</p><p>Mayer founded Dazzle following the closure of her previous consumer startup, Sunshine, and secured an $8 million seed round led by Forerunner Ventures. The application targets a broader consumer market by shifting away from enterprise-focused workflows and leveraging visual data archives to automate household and personal organization.</p><p><img src="https://media.wired.com/photos/68d975ecfc3edc8ac3d99e87/125:94/w_2560,c_limit/Marissa-Mayer-Dissolving-Sunshine-Start-Up-Lab-Business-1694171981.jpg" /></p><hr/><small>26 Oct 2026, 15:06 UTC | #25426</small>]]></content>
+  </entry>
   <entry>
     <title>Drew Breunig Outlines Context Engineering Challenges and Failure Modes</title>
     <link href="https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html" rel="alternate" />

@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Brennen Puth Details CSS Print Stylesheets for Websites</h2>
+<p>Web developer Brennen Puth argues that websites should be optimized for printing to support reading and physical annotation, and details how he updated his own site using CSS print media queries.</p><p>Noting that default web printouts often feature oversized text, cluttered headers, and poorly formatted links, Puth shares specific CSS rules to hide unnecessary elements, set readable font sizes, and convert links to grayscale for better readability on paper.</p>
+<p><small>Links: <a href="https://brennenputh.me/blog/printable-websites/">brennenputh.me</a> | <a href="https://lobste.rs/s/olnqh2/websites_should_be_printable">discussion</a> | <a href="https://news.ycombinator.com/item?id=50241664">hacker news</a></small></p>
+
 <h2>Gram 3.4.0 Released with Side-by-Side Git Diffs and Security Updates</h2>
 <p>Gram 3.4.0 has been released, addressing a security vulnerability in the rustls-webpki and webpki-roots packages related to eMudhra root certificates. The update also introduces a variety of new features, bug fixes, and community-contributed improvements to the open-source code editor.</p><p>Notable additions in this version include a side-by-side view for Git diffs, a Git commit history panel, tab bar wrapping options, and the backport of the Helix "Amp Jump" feature. Additionally, the release implements stricter permission requirements for downloading or utilizing extension-provided language servers and debug adapters to prevent unauthorized background downloads.</p>
 <p><small>Links: <a href="https://gram-editor.com/posts/release-3.4.0/">gram-editor.com</a> | <a href="https://lobste.rs/s/p9obkt/gram_3_4_0_released">discussion</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Chromium Audio Service Crash Caused by Glibc Update</h2>
 <p>An update to the Chromium Flatpak runtime that upgraded glibc from version 2.31 to 2.33 accidentally broke audio and video playback by triggering fatal crashes in Chromium's audio service. Debugging revealed that glibc encountered unexpected error codes from the futex facility, causing it to abort execution.</p><p>Further investigation traced the issue to a glibc commit that modified condition variable handling to always pass a clock identifier, resulting in the inclusion of the FUTEX_CLOCK_REALTIME flag even when no timeout was specified. Chromium's strict BPF audio service sandbox rejected this unexpected flag because it was missing from the allowed syscall rules, ultimately terminating the audio process.</p>
 <p><small>Links: <a href="https://refi64.dev/posts/chromium-audio-break.html">refi64.dev</a> | <a href="https://lobste.rs/s/5ullyu/when_glibc_update_accidentally_breaks">discussion</a></small></p>
-
-<h2>Vim Classic 8.3 Released as Long-Term Support Fork</h2>
-<p>Vim Classic has released version 8.3.0 as its inaugural stable build, establishing a long-term support fork of the Vim text editor. The project is maintained exclusively by human contributors without the use of generative AI tools.</p><p>Based on Vim 8.2.0148, the fork backports selected bug fixes and patches from upstream releases while intentionally omitting newer features like Vim9 to maintain legacy plugin compatibility and a manageable maintenance scope.</p>
-<p><small>Links: <a href="https://vim-classic.org/">vim-classic.org</a> | <a href="https://vim-classic.org/news/vim-8.3-released.html">source</a> | <a href="https://lobste.rs/s/cxwpil/vim_classic">discussion</a></small></p>
 
 ---
 
