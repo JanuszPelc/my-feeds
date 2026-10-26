@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-26T13:29:00+00:00</updated>
+  <updated>2026-10-26T13:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>PaperPilot Open-Source Local PDF and Document Toolkit Released in Rust</title>
+    <link href="https://github.com/KrushnaVardhanReddy/PaperPilot" rel="alternate" />
+    <id>https://github.com/KrushnaVardhanReddy/PaperPilot::v240</id>
+    <published>2026-10-26T13:35:00+00:00</published>
+    <updated>2026-10-26T13:35:00+00:00</updated>
+    <media:thumbnail url="https://rexai.top/images/pure-rust-html-to-pdf-engine/cover.png" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/KrushnaVardhanReddy/PaperPilot">github.com</a> | <a href="https://news.ycombinator.com/item?id=50238739">hacker news</a></small></p><hr/><p>PaperPilot is a privacy-focused PDF and document toolkit written in pure Rust that operates entirely locally without cloud calls. Designed for both human workflows and AI coding agents, the engine provides document manipulation tools—including merging, splitting, compression, and OCR—across a command-line interface, a Model Context Protocol (MCP) server, a local REST API, and a browser-based WebAssembly version.</p><p>The project shares a unified Rust core across its various surfaces to ensure consistent performance while keeping files on the user's machine. Available under an Apache 2.0 license, PaperPilot currently supports tasks like page reordering, watermarking, and signature validation, with upcoming updates planned to introduce broad format conversions for Markdown, HTML, and Microsoft Office files.</p><p><img src="https://rexai.top/images/pure-rust-html-to-pdf-engine/cover.png" /></p><hr/><small>26 Oct 2026, 17:25 UTC | #25497</small>]]></content>
+  </entry>
   <entry>
     <title>Veit Heller Details Writing a Simple Sudoku Solver in AArch64 Assembly</title>
     <link href="https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EII%3A_Assembly.html" rel="alternate" />
@@ -599,14 +608,5 @@
     <updated>2026-10-21T18:55:00+00:00</updated>
     <media:thumbnail url="https://image1.slideserve.com/1714881/linear-types-l.jpg" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/">jaredforsyth.com</a> | <a href="https://lobste.rs/s/cquwex/flow_typing_new_lens_on_linearity">discussion</a></small></p><hr/><p>Jared Forsyth examines a recent academic paper on flow typing, a technique designed to solve the threading problem in linear type systems without complicating core language semantics. Linear types enforce that every value is used exactly once, offering static guarantees for resource management like closing database connections and achieving functional purity without relying solely on immutability.</p><p>While linear types provide powerful safety benefits, they traditionally require cumbersome explicit threading of state through every function. The flow typing approach leverages the theory of lenses—functional representations of mutable references—to provide the convenience of mutable references while maintaining the simplicity of a standard linear lambda calculus.</p><p><img src="https://image1.slideserve.com/1714881/linear-types-l.jpg" /></p><hr/><small>21 Oct 2026, 22:25 UTC | #25080</small>]]></content>
-  </entry>
-  <entry>
-    <title>Blick Details Caching Architecture for Immediate-Mode User Interfaces</title>
-    <link href="https://blickeditor.com/blog/caching-an-immediate-mode-ui" rel="alternate" />
-    <id>https://blickeditor.com/blog/caching-an-immediate-mode-ui::v240</id>
-    <published>2026-10-21T17:17:00+00:00</published>
-    <updated>2026-10-21T17:17:00+00:00</updated>
-    <media:thumbnail url="https://www.forrestthewoods.com/blog/proving-immediate-mode-guis-are-performant/assets/img/01.png" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://blickeditor.com/blog/caching-an-immediate-mode-ui">blickeditor.com</a> | <a href="https://lobste.rs/s/cq7wn7/don_t_throw_it_all_away_caching_immediate">discussion</a></small></p><hr/><p>Blick outlines how its video editor implements a GPU-accelerated tile-based caching layer behind an immediate-mode user interface. By separating UI reconstruction from pixel repainting, the renderer tracks drawing commands via hashes to retain previously rendered pixels for unchanged regions.</p><p>The system uses a small command-interpreter shader on the GPU to handle analytic shapes, textured passes, shape groups, and alpha barriers without requiring the UI framework to maintain complex invalidation trees. Measurements on an M3 MacBook Pro show a roughly 20 percent reduction in combined CPU and GPU power usage during light-editing tasks.</p><p><img src="https://www.forrestthewoods.com/blog/proving-immediate-mode-guis-are-performant/assets/img/01.png" /></p><hr/><small>21 Oct 2026, 21:54 UTC | #25065</small>]]></content>
   </entry>
 </feed>

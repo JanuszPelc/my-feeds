@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Microsoft Offers Voluntary Buyouts to Roughly a Quarter of Its Workforce</h2>
+<p>Microsoft is offering voluntary exit buyouts to approximately 60,000 employees, or roughly a quarter of its global workforce, spanning eligible staff at the vice president level and below across the United States, Canada, India, and the United Kingdom. Participating divisions include gaming, Windows, Copilot, human resources, and finance, with deadlines for acceptance set for early December.</p><p>The initiative builds on earlier workforce reduction efforts and a voluntary retirement program introduced earlier in the year as the company seeks to control headcount and adapt team structures. While Microsoft continues heavy capital expenditures toward artificial intelligence infrastructure, executives emphasize that the current exit offers are designed to manage workforce transitions rather than replace staff directly with AI systems.</p>
+<p><small>Links: <a href="https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/">seattletimes.com</a> | <a href="https://news.ycombinator.com/item?id=50245524">hacker news</a></small></p>
+
 <h2>TSMC’s Phoenix Fab Examined as a Test for American Semiconductor Manufacturing</h2>
 <p>TSMC's initial Phoenix fabrication facility has achieved chip output rates comparable to its plants in Taiwan, marking a notable milestone for domestic semiconductor manufacturing. Taiwanese engineers on-site are helping train American workers to restore local industrial expertise.</p><p>The extensive project and the influx of related families are reshaping the economic and cultural landscape of north Phoenix. Observers note parallels to historical industrial transfers, such as when Japanese automakers previously introduced advanced management and engineering practices to the United States.</p>
 <p><small>Links: <a href="https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LVE.T4pO.KW_xY6NbyH_s&smid=nytcore-ios-share">nytimes.com</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Apollo Reports No Signs of AI Financial Payoff Outside Tech Sector</h2>
 <p>Apollo Chief Economist Torsten Slok has released an analysis arguing that artificial intelligence has delivered zero financial payoff to corporate America outside of the technology sector, despite massive ongoing investments and widespread market hype.</p><p>The report highlights that traditional and regulated industries—such as healthcare and banking—face operational hurdles, privacy rules, and process overhauls that could delay productivity boosts and cash flow realizations well beyond Wall Street expectations.</p>
 <p><small>Links: <a href="https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector">apollo.com</a> | <a href="https://news.ycombinator.com/item?id=50224463">hacker news</a></small></p>
-
-<h2>Home Page Farm Essay Critiques Ethical and Environmental Impacts of Artificial Intelligence</h2>
-<p>An essay published by Home Page Farm outlines extensive criticisms of artificial intelligence, arguing that major technology companies exploit user data, deploy seductively confident tools, and burden the environment with heavy energy and water demands.</p><p>The piece contends that reliance on automated systems degrades human cognitive abilities, disrupts education and entry-level workforce training, and concentrates social and economic power among a small group of tech executives.</p>
-<p><small>Links: <a href="https://homepage.farm/ai.html">homepage.farm</a> | <a href="https://lobste.rs/s/vh8l3t/what_s_wrong_with_ai">discussion</a> | <a href="https://news.ycombinator.com/item?id=50220640">hacker news</a></small></p>
 
 ---
 
