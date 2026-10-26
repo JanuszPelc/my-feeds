@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Voice Actor Eric Bauza Passes Away at 46</h2>
+<p>Voice actor Eric Bauza, renowned as the modern voice for iconic characters like Bugs Bunny and Daffy Duck, has passed away at the age of 46. His family confirmed his sudden death on Instagram, with reports from the Los Angeles Medical Examiner's Office citing hypertensive cardiovascular disease.</p><p>Bauza was a prolific force in animation and video games, having lent his voice to hundreds of projects, including recent roles in Coyote vs. Acme and various game titles like Batman: Arkham City and Metal Gear Rising: Revengeance. As a prominent Filipino-American voice actor in the industry, his extensive career earned him widespread recognition and tributes from across the entertainment community.</p>
+<p><small>Links: <a href="https://www.gamedeveloper.com/audio/obituary-voice-actor-eric-bauza-has-passed-away-at-46">gamedeveloper.com</a></small></p>
+
 <h2>Apple Unveils Updated iPad Mini With OLED Display and A20 Pro Chip</h2>
 <p>Apple has announced a major update to the iPad mini, introducing an 8.5-inch OLED display, the A20 Pro chip, and an IP67 rating for water and dust resistance. The new model features a thinner and lighter design, a landscape-edge 12-megapixel Center Stage camera, and an upgraded audio system.</p><p>Powered by Apple Intelligence, the device supports advanced features including Siri AI context understanding, enhanced photo editing tools, and the Image Playground application. Pre-orders begin on October 28, 2026, with retail availability starting November 6, with base pricing starting at $699 for the Wi-Fi model and $849 for the cellular version.</p>
 <p><small>Links: <a href="https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=50243061">hacker news</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <h2>Disney+ Raises Subscription Prices and Updates Terms to Permit Promotional Content on All Tiers</h2>
 <p>Disney+ and Hulu have implemented price increases for their ad-free premium tiers, raising standalone monthly costs to $21.49. Alongside the price hikes, Disney updated its subscriber agreement to explicitly permit promotional content, sponsorships, and advertisements across all subscription plans, including the previously commercial-free premium tier.</p><p>The adjustments arrive as Disney+ faces continued scrutiny over the viewership and critical performance of its original programming relative to competing streaming services. While the updated terms allow promotional material and trailers before and after content playback on ad-free plans, full mid-show commercial breaks remain restricted to the lowest-priced ad-supported tiers.</p>
 <p><small>Links: <a href="https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/">tvfandomlounge.com</a> | <a href="https://news.ycombinator.com/item?id=50205934">hacker news</a></small></p>
-
-<h2>Oura Sues Ultrahuman Again to Block U.S. Sales of Ring Pro</h2>
-<p>Smart ring maker Oura has filed a patent infringement lawsuit against rival Ultrahuman in a federal court in Texas, seeking monetary damages and a permanent injunction to block U.S. sales of the Ring Pro. The complaint alleges that the redesigned smart ring infringes two of Oura's patents covering device design and internal components, including a patent issued just days before the filing.</p><p>The legal action threatens Ultrahuman's return to the American market, which it achieved earlier this year following a previous import ban stemming from an International Trade Commission ruling against its earlier Ring Air model. Oura has pursued similar patent claims against other smart ring competitors, including Samsung and RingConn, as litigation intensifies across the growing wearable health market.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/">techcrunch.com</a> | <a href="https://ouraring.com/blog/ultrahuman-patent-infringement/">source</a></small></p>
 
 ---
 

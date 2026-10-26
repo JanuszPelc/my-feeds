@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-26T18:02:00+00:00</updated>
+  <updated>2026-10-26T18:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Voice Actor Eric Bauza Passes Away at 46</title>
+    <link href="https://www.gamedeveloper.com/audio/obituary-voice-actor-eric-bauza-has-passed-away-at-46" rel="alternate" />
+    <id>https://www.gamedeveloper.com/audio/obituary-voice-actor-eric-bauza-has-passed-away-at-46::v240</id>
+    <published>2026-10-26T18:10:00+00:00</published>
+    <updated>2026-10-26T18:10:00+00:00</updated>
+    <media:thumbnail url="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt3a906594656e0f2c/6adf83610414c310be312f3e/bauzaobitfeatured.jpg?width=720&amp;quality=80&amp;disable=upscale" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.gamedeveloper.com/audio/obituary-voice-actor-eric-bauza-has-passed-away-at-46">gamedeveloper.com</a></small></p><hr/><p>Voice actor Eric Bauza, renowned as the modern voice for iconic characters like Bugs Bunny and Daffy Duck, has passed away at the age of 46. His family confirmed his sudden death on Instagram, with reports from the Los Angeles Medical Examiner's Office citing hypertensive cardiovascular disease.</p><p>Bauza was a prolific force in animation and video games, having lent his voice to hundreds of projects, including recent roles in Coyote vs. Acme and various game titles like Batman: Arkham City and Metal Gear Rising: Revengeance. As a prominent Filipino-American voice actor in the industry, his extensive career earned him widespread recognition and tributes from across the entertainment community.</p><p><img src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt3a906594656e0f2c/6adf83610414c310be312f3e/bauzaobitfeatured.jpg?width=720&quality=80&disable=upscale" /></p><hr/><small>26 Oct 2026, 20:52 UTC | #25500</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Unveils Updated iPad Mini With OLED Display and A20 Pro Chip</title>
     <link href="https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/" rel="alternate" />

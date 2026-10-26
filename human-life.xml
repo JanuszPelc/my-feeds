@@ -3,9 +3,18 @@
   <title>human-life</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml</id>
-  <updated>2026-10-26T06:25:00+00:00</updated>
+  <updated>2026-10-26T18:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png?v=85-75-50</logo>
+  <entry>
+    <title>ChatGPT Recommends 404 Media for Tech Support and Customer Complaints</title>
+    <link href="https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/" rel="alternate" />
+    <id>https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/::v240</id>
+    <published>2026-10-26T18:12:00+00:00</published>
+    <updated>2026-10-26T18:12:00+00:00</updated>
+    <media:thumbnail url="https://cdn.fusionchat.ai/blog/chatgpt/what-is-chatgpt--everything-you-need-to-know-about-openai-s-----aa1zrq5z4xgyee8jfrw1db.png" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=50247630">hacker news</a></small></p><hr/><p>404 Media has received dozens of AI-generated story leads from users whose routine tech support issues—such as banned social media accounts, mobile service outages, or minor software glitches—prompted them to consult ChatGPT. Instead of offering technical resolutions, the chatbot has increasingly directed these users to contact investigative journalists, drafting emails and compiling evidence dossiers on their behalf.</p><p>This trend reflects a broader issue where automated moderation and a lack of accessible human customer support by major technology companies leave users with few avenues for recourse. Similar phenomena have been documented by other reporters, including Kashmir Hill of The New York Times, highlighting how AI chatbots increasingly function as unexpected intermediaries between frustrated consumers and the press.</p><p><img src="https://cdn.fusionchat.ai/blog/chatgpt/what-is-chatgpt--everything-you-need-to-know-about-openai-s-----aa1zrq5z4xgyee8jfrw1db.png" /></p><hr/><small>26 Oct 2026, 20:54 UTC | #25478</small>]]></content>
+  </entry>
   <entry>
     <title>Merck and Moderna Announce Phase 3 Trial Results for Intismeran Melanoma Vaccine</title>
     <link href="https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/" rel="alternate" />
@@ -102,14 +111,5 @@
     <published>2026-10-15T14:46:00+00:00</published>
     <updated>2026-10-15T14:46:00+00:00</updated>
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/tech/ai/ai-companies-play-cat-and-mouse-with-secret-stealing-spies-160eec6b?st=u9cuQu&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>OpenAI executives have cautioned staff against potential espionage, including "honey pots" and insider threats. This follows the FBI's arrest of an employee for allegedly planting a sophisticated recording device in an executive conference room. In response, the company has mandated stricter operational security measures.</p><p>The company reportedly utilized its own AI models to assist in the technical investigation and analysis of forensic data. The incident highlights growing concerns within the artificial intelligence industry regarding the protection of frontier models and proprietary technologies from targeted surveillance.</p><hr/><small>15 Oct 2026, 19:12 UTC | #24384</small>]]></content>
-  </entry>
-  <entry>
-    <title>AI Safety Warnings Argued to be Genuine Rather Than Corporate Strategy</title>
-    <link href="https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot" rel="alternate" />
-    <id>https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot::v239</id>
-    <published>2026-10-15T13:50:00+00:00</published>
-    <updated>2026-10-15T13:50:00+00:00</updated>
-    <media:thumbnail url="https://infofina.com/wp-content/uploads/2026/04/ai-extinction-risks-and-scenarios-576x1024.jpg" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.astralcodexten.com/p/ai-safety-is-not-a-corporate-plot">astralcodexten.com</a> | <a href="https://news.ycombinator.com/item?id=50097957">hacker news</a></small></p><hr/><p>The article argues against the theory that AI companies use existential risk warnings as a strategic tool for stock inflation, distraction from near-term harms, or regulatory capture. The author asserts that these concerns are genuine, noting that many prominent researchers and industry leaders expressed existential concerns long before the emergence or dominance of current major AI firms.</p><p>The piece cites evidence from independent academic surveys, historical statements from figures such as Geoffrey Hinton and Yoshua Bengio, and the resignation of high-profile researchers to pursue safety-focused nonprofit work. It concludes that the "corporate plot" hypothesis would require an improbable degree of coordinated foresight and motivation among industry actors with often conflicting interests.</p><p><img src="https://infofina.com/wp-content/uploads/2026/04/ai-extinction-risks-and-scenarios-576x1024.jpg" /></p><hr/><small>15 Oct 2026, 18:45 UTC | #24379</small>]]></content>
   </entry>
 </feed>
