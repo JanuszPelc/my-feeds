@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-26T06:19:00+00:00</updated>
+  <updated>2026-10-26T13:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Keybytes Modular Keyboard Project Introduced</title>
+    <link href="https://github.com/notaroomba/keybytes" rel="alternate" />
+    <id>https://github.com/notaroomba/keybytes::v240</id>
+    <published>2026-10-26T13:07:00+00:00</published>
+    <updated>2026-10-26T13:07:00+00:00</updated>
+    <media:thumbnail url="https://www.uniqkart.in/cdn/shop/files/77028791_10_image.jpg?v=1716355493" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/notaroomba/keybytes">github.com</a> | <a href="https://news.ycombinator.com/item?id=50228115">hacker news</a></small></p><hr/><p>Keybytes is an open-source, fully modular mechanical keyboard project where every individual key functions as its own rearrangeable 1u printed circuit board. Developed by NotARoomba, the system allows keys to be linked together in arbitrary configurations using magnetic cases and pogo pins on all four sides for power and I2C communication.</p><p>Each key module incorporates a CH32V003 RISC-V microcontroller to process inputs, while a central two-layer main board features an STM32WB55RGV6 microcontroller supporting Bluetooth and USB connectivity. The hardware also includes battery charging circuitry, a buck-boost converter, and 2MB of QSPI flash storage, with all design files, schematics, and CAD models published on GitHub.</p><p><img src="https://www.uniqkart.in/cdn/shop/files/77028791_10_image.jpg?v=1716355493" /></p><hr/><small>26 Oct 2026, 14:26 UTC | #25471</small>]]></content>
+  </entry>
   <entry>
     <title>Arthur O’Dwyer Examines Fixits and Suppression Mechanisms in Compiler Warnings</title>
     <link href="https://quuxplusone.github.io/blog/2020/09/02/wparentheses/" rel="alternate" />
