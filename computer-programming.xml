@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-26T03:15:00+00:00</updated>
-  <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
-  <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <updated>2026-10-26T03:24:00+00:00</updated>
+  <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
+  <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>TitleArt Browser Tool Recreates 1990s WordArt Styles</title>
+    <link href="https://titleart.dvy.io/" rel="alternate" />
+    <id>https://titleart.dvy.io/::v240</id>
+    <published>2026-10-26T03:24:00+00:00</published>
+    <updated>2026-10-26T03:24:00+00:00</updated>
+    <media:thumbnail url="https://as1.ftcdn.net/v2/jpg/03/72/53/76/1000_F_372537665_TjxWQt6IIaujAykGRHwh11Rbv5hjgwP0.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://titleart.dvy.io/">titleart.dvy.io</a> | <a href="https://news.ycombinator.com/item?id=50238708">hacker news</a></small></p><hr/><p>TitleArt is a browser-based application that recreates classic 1990s WordArt styles, shapes, and three-dimensional visual effects. Users can interact with layered text elements using keyboard shortcuts or mouse clicks to position and customize retro typographic designs.</p><p>Developed as a web tool, the project revives nostalgic design aesthetics reminiscent of early desktop productivity software. The interface provides layer navigation, allowing creators to assemble and manipulate vintage titles directly within modern web browsers.</p><p><img src="https://as1.ftcdn.net/v2/jpg/03/72/53/76/1000_F_372537665_TjxWQt6IIaujAykGRHwh11Rbv5hjgwP0.jpg" /></p><hr/><small>26 Oct 2026, 09:12 UTC | #25430</small>]]></content>
+  </entry>
   <entry>
     <title>DERIVE Automatically Reverse-Engineers Instruction Encodings</title>
     <link href="https://www.usenix.org/legacy/events/usenix01/full_papers/hsieh/hsieh_html/" rel="alternate" />

@@ -4,8 +4,8 @@
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
   <updated>2026-10-25T23:14:00+00:00</updated>
-  <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</icon>
-  <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</logo>
+  <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
+  <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
   <entry>
     <title>Setting Up a Lightweight Web Server on NetBSD Using Bozohttpd</title>
     <link href="https://bsandro.tech/posts/simple-netbsd-webserver/" rel="alternate" />
@@ -410,14 +410,5 @@
     <updated>2026-10-21T09:37:00+00:00</updated>
     <media:thumbnail url="https://i0.wp.com/allabouttesting.org/wp-content/uploads/2022/07/privacy-1024x500.jpg?ssl=1" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ">groups.google.com</a> | <a href="https://lobste.rs/s/othohc/firefox_security_patch_tests_are_now">discussion</a></small></p><hr/><p>The Mozilla security team has updated its development policy to require that tests be submitted in a separate patch from security issue fixes for both high- and moderate-severity bugs. Prompted by advancements in AI-assisted vulnerability analysis, this change prevents tests from inadvertently exposing the exact mechanics of security flaws before fixes are deployed.</p><p>Contributors are now required to hold off on landing tests until at least one week after the release containing the fix ships, typically the Tuesday following release week. Developers can automate this timeline using a whiteboard tag reminder that triggers a notification when the waiting period concludes.</p><p><img src="https://i0.wp.com/allabouttesting.org/wp-content/uploads/2022/07/privacy-1024x500.jpg?ssl=1" /></p><hr/><small>21 Oct 2026, 17:03 UTC | #25030</small>]]></content>
-  </entry>
-  <entry>
-    <title>PHP Maintainers to Release Emergency Patches for Critical Vulnerabilities</title>
-    <link href="https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/" rel="alternate" />
-    <id>https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/::v240</id>
-    <published>2026-10-21T09:10:00+00:00</published>
-    <updated>2026-10-22T00:19:00+00:00</updated>
-    <media:thumbnail url="https://www.ox.security/wp-content/webp-express/webp-images/uploads/2026/02/image-31.png.webp" />
-    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/">arstechnica.com</a> | <a href="https://www.php.net/archive/2026.php#2026-10-20-1">source</a> | <a href="https://news.ycombinator.com/item?id=50182987">hacker news</a></small></p><hr/><p>PHP maintainers have issued an advisory urging web administrators to prepare for upcoming emergency patches addressing two critical remote code execution vulnerabilities, tracked as CVE-2026-109618 and CVE-2026-109619. Both flaws carry a severity rating of 9.2 out of 10 and affect long-standing versions of the programming language.</p><p>The emergency patch cycle was triggered by the unauthorized leak of an exploit tool dubbed PHP2Shell, which purportedly demonstrates code execution across numerous major frameworks and content management systems. Security firms have since confirmed the validity of the underlying vulnerabilities, prompting maintainers to expedite fixes to prevent active exploitation.</p><p><img src="https://www.ox.security/wp-content/webp-express/webp-images/uploads/2026/02/image-31.png.webp" /></p><hr/><small>21 Oct 2026, 12:26 UTC | #24978</small>]]></content>
   </entry>
 </feed>
