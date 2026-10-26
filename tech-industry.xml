@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-26T13:13:00+00:00</updated>
+  <updated>2026-10-26T13:16:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Alphabet, Amazon, and Microsoft Expected to Report Strong Revenue Amid AI Spending Scrutiny</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings::v240</id>
+    <published>2026-10-26T13:16:00+00:00</published>
+    <updated>2026-10-26T13:16:00+00:00</updated>
+    <media:thumbnail url="https://static.seekingalpha.com/uploads/2024/11/8/saupload_428436977.png" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings">bloomberg.com</a></small></p><hr/><p>Alphabet, Amazon, and Microsoft are projected to report double-digit revenue gains as they release their quarterly earnings this week. Despite the expected strong financial results, investors are growing increasingly impatient with the massive capital expenditures directed toward artificial intelligence infrastructure.</p><p>The heavy spending spree has raised concerns about cash flow and immediate returns on investment, overshadowing positive revenue growth. Market sentiment has shifted as stakeholders demand greater financial accountability regarding the high costs associated with the ongoing artificial intelligence boom.</p><p><img src="https://static.seekingalpha.com/uploads/2024/11/8/saupload_428436977.png" /></p><hr/><small>26 Oct 2026, 15:37 UTC | #25429</small>]]></content>
+  </entry>
   <entry>
     <title>Johnny Rodgers Recounts Slack's Cultural and Operational Integration Challenges Under Salesforce</title>
     <link href="https://buildingslack.com/salesforce-part-two/" rel="alternate" />
@@ -391,32 +400,5 @@
     <updated>2026-10-21T21:23:00+00:00</updated>
     <media:thumbnail url="https://watcher.guru/news/wp-content/uploads/2025/05/meta-platforms-stock-mark-zuckerberg.jpg" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2?st=Uj26V6&reflink=desktopwebshare_permalink">wsj.com</a></small></p><hr/><p>Meta Platforms plans to issue a new class of nonvoting stock, effective January 2027, to raise capital for artificial intelligence development. The announcement follows the company's report of record third-quarter revenue totaling $64.2 billion.</p><p>The new share class is intended to fund AI-related capital expenditures without diluting Mark Zuckerberg's voting control. The move supports Meta's ongoing strategy to invest heavily in AI infrastructure and model development.</p><p><img src="https://watcher.guru/news/wp-content/uploads/2025/05/meta-platforms-stock-mark-zuckerberg.jpg" /></p><hr/><small>22 Oct 2026, 03:32 UTC | #25076</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nielsen Survey Finds AI Adoption Increases Management and Evaluation Challenges</title>
-    <link href="https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/" rel="alternate" />
-    <id>https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/::v240</id>
-    <published>2026-10-21T15:40:00+00:00</published>
-    <updated>2026-10-21T15:40:00+00:00</updated>
-    <media:thumbnail url="https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2020/11/Screenshot-2026-06-07-at-12.34.32-scaled.png" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/">techcrunch.com</a> | <a href="https://monday.com/gp/ai-report-2026">source</a></small></p><hr/><p>A Nielsen survey commissioned by Monday.com of more than 1,700 directors and senior managers reveals that over half of leaders find it harder to evaluate employee work following AI adoption because outputs arrive heavily polished. Nearly half of respondents report spending more time reviewing and guiding teams, creating an unexpected layer of invisible supervision as tools outpace organizational adaptation.</p><p>Despite widespread enthusiasm for AI, organizations are experiencing expanding software stacks and fragmented infrastructure rather than the expected consolidation. A significant portion of leaders are now relying on AI to draft performance reviews or inform decisions, raising concerns regarding algorithmic bias, accountability, and the looming transition toward overseeing autonomous AI agents.</p><p><img src="https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2020/11/Screenshot-2026-06-07-at-12.34.32-scaled.png" /></p><hr/><small>21 Oct 2026, 21:39 UTC | #25022</small>]]></content>
-  </entry>
-  <entry>
-    <title>Nvidia CEO Jensen Huang Urges European Industries to Adopt Artificial Intelligence</title>
-    <link href="https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai" rel="alternate" />
-    <id>https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai::v240</id>
-    <published>2026-10-21T15:33:00+00:00</published>
-    <updated>2026-10-21T15:33:00+00:00</updated>
-    <media:thumbnail url="https://s.yimg.com/ny/api/res/1.2/W6yG3hoOIcF6sQYnmR7V2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/cb1c0260-2165-11f1-a9fd-86634749e888" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-21/nvidia-ceo-huang-pitches-europe-on-all-industries-adopting-ai">bloomberg.com</a> | <a href="https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/">source</a></small></p><hr/><p>During his keynote address at GTC Berlin, Nvidia Chief Executive Officer Jensen Huang called on European businesses to accelerate artificial intelligence adoption across all sectors. He emphasized that establishing a robust regional AI economy requires end markets and traditional industries to fully integrate AI technologies.</p><p>The address coincided with Nvidia's broader announcements at the Berlin conference, including modular AI factory designs and infrastructure partnerships aimed at bolstering Europe's technological deployment. Huang also met with regional political leaders to discuss local AI roadmaps and the expansion of accelerated computing infrastructure.</p><p><img src="https://s.yimg.com/ny/api/res/1.2/W6yG3hoOIcF6sQYnmR7V2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD02OTk-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/cb1c0260-2165-11f1-a9fd-86634749e888" /></p><hr/><small>21 Oct 2026, 21:31 UTC | #25011</small>]]></content>
-  </entry>
-  <entry>
-    <title>eBay to Lay Off 9% of Workforce to Simplify Operations</title>
-    <link href="https://www.reuters.com/business/world-at-work/ebay-lay-off-9-workforce-push-simplify-operations-internal-memo-shows-2026-10-21/" rel="alternate" />
-    <id>https://www.reuters.com/business/world-at-work/ebay-lay-off-9-workforce-push-simplify-operations-internal-memo-shows-2026-10-21/::v240</id>
-    <published>2026-10-21T15:30:00+00:00</published>
-    <updated>2026-10-21T15:30:00+00:00</updated>
-    <media:thumbnail url="https://res.cloudinary.com/people-matters/image/upload/v1683005372/1_oetjxg.png" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/world-at-work/ebay-lay-off-9-workforce-push-simplify-operations-internal-memo-shows-2026-10-21/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50185411">hacker news</a></small></p><hr/><p>eBay is cutting approximately 9% of its workforce, equating to about 1,000 full-time positions, as part of a restructuring plan detailed in an internal memo by CEO Jamie Iannone. The online marketplace aims to streamline its organizational structure and reallocate resources toward its fastest-growing business segments.</p><p>This reduction follows previous downsizing efforts by the company, including a 6% staff reduction enacted earlier in the year. The latest round of layoffs highlights ongoing adjustments within the e-commerce sector as established firms seek operational efficiencies and leaner cost structures.</p><p><img src="https://res.cloudinary.com/people-matters/image/upload/v1683005372/1_oetjxg.png" /></p><hr/><small>21 Oct 2026, 21:28 UTC | #25005</small>]]></content>
   </entry>
 </feed>
