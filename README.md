@@ -9,7 +9,7 @@ Add any feed to your reader using its link:
 
 - [ai-news](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml): new AI models and agents, the tools to run them, and the products built on them
 - [computer-programming](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml): the craft of building software, from new languages to old machines
-- [computer-security](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml): how systems get broken and fixed, and the networks that keep the internet running
+- [computer-security](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml): the vulnerabilities, attacks and outages that threaten the systems we rely on
 - [human-knowledge](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml): what researchers are finding out in science, math, and engineering
 - [human-life](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml): what shapes our health, minds, creativity, and everyday lives
 - [music-production](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml): new tools for making music and the business around it
