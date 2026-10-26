@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-25T17:31:00+00:00</updated>
+  <updated>2026-10-25T23:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png</logo>
+  <entry>
+    <title>Setting Up a Lightweight Web Server on NetBSD Using Bozohttpd</title>
+    <link href="https://bsandro.tech/posts/simple-netbsd-webserver/" rel="alternate" />
+    <id>https://bsandro.tech/posts/simple-netbsd-webserver/::v240</id>
+    <published>2026-10-25T23:14:00+00:00</published>
+    <updated>2026-10-25T23:14:00+00:00</updated>
+    <media:thumbnail url="https://www.netmeister.org/blog/images/netbsd-linode-installer2.png" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://bsandro.tech/posts/simple-netbsd-webserver/">bsandro.tech</a> | <a href="https://lobste.rs/s/hzrmwz/simple_netbsd_webserver">discussion</a></small></p><hr/><p>A technical guide details how to configure a lightweight web server on NetBSD using the built-in bozohttpd daemon and the acme-client package for automated Let's Encrypt HTTPS certificates. Running bozohttpd directly as a standalone daemon avoids inetd overhead, requiring only basic configuration parameters within the rc.conf file.</p><p>Despite its minimal footprint, the built-in server supports features such as virtual hosts, CGI execution, HTTP basic authorization, and URL rewrites. This approach provides a practical, low-resource hosting solution suitable for homebrew projects and small-scale communities running on NetBSD.</p><p><img src="https://www.netmeister.org/blog/images/netbsd-linode-installer2.png" /></p><hr/><small>26 Oct 2026, 02:16 UTC | #25411</small>]]></content>
+  </entry>
   <entry>
     <title>Bogomil Shopov Announces Digital Dissident Devroom for FOSDEM 2027</title>
     <link href="https://talkweb.eu/openweb/4558/" rel="alternate" />

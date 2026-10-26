@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-25T09:06:00+00:00</updated>
+  <updated>2026-10-25T21:35:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png</logo>
+  <entry>
+    <title>Marsh Develops New Insurance Policies as Data Center Late-Delivery Fees Reach $5 Million Per Day</title>
+    <link href="https://www.theinformation.com/articles/data-center-late-fees-hit-5-million-per-day-spawning-new-insurance" rel="alternate" />
+    <id>https://www.theinformation.com/articles/data-center-late-fees-hit-5-million-per-day-spawning-new-insurance::v240</id>
+    <published>2026-10-25T21:35:00+00:00</published>
+    <updated>2026-10-25T21:35:00+00:00</updated>
+    <media:thumbnail url="https://thedatascientist.com/wp-content/uploads/2025/10/image-568.png" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theinformation.com/articles/data-center-late-fees-hit-5-million-per-day-spawning-new-insurance">theinformation.com</a></small></p><hr/><p>Data center developers now face late-delivery penalties exceeding $5 million per day, a sharp increase from approximately $1 million earlier in the year, as tenants demand compensation for potential lost revenue from delayed campuses.</p><p>This dramatic financial escalation has driven insurance brokers, including Marsh, to create specialized "delay-in-delivery" coverage to protect developers from severe liabilities if facilities and power supplies fail to meet operational deadlines.</p><p><img src="https://thedatascientist.com/wp-content/uploads/2025/10/image-568.png" /></p><hr/><small>26 Oct 2026, 02:15 UTC | #25398</small>]]></content>
+  </entry>
   <entry>
     <title>Cerebras Details Deployment Architecture for Trillion-Parameter AI Models</title>
     <link href="https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras" rel="alternate" />
