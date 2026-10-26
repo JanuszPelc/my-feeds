@@ -17,8 +17,12 @@ Add any feed to your reader using its link:
 - [tech-industry](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml): how the tech business is changing, from chipmaking and data centers to jobs
 - [tech-policy](https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml): how tech and power shape each other, from laws and courts to surveillance and war
 
-Or download **[feeds.opml](https://github.com/JanuszPelc/my-feeds/blob/master/feeds.opml)**
+Or download [feeds.opml](https://github.com/JanuszPelc/my-feeds/blob/master/feeds.opml)
 and import it into your reader to get all of them at once.
+
+> [!TIP]
+> If a feed goes quiet for a few days, come back and check the list above. The URLs are
+> meant to be permanent, but if one ever changes, the old one stops working.
 
 ## Worth knowing
 
@@ -26,7 +30,3 @@ The feeds are aggregated by an agentic pipeline, which rewrites every title and 
 a plain, measured tone. Lead images are chosen by vision models and don't always match the
 story. Nothing is reviewed by hand, so check anything that matters against the linked
 sources.
-
-> [!TIP]
-> If a feed goes quiet for a few days, come back and check the list above. The URLs are
-> meant to be permanent, but if one ever changes, the old one stops working.
