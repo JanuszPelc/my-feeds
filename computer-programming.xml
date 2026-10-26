@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-25T18:27:00+00:00</updated>
+  <updated>2026-10-25T21:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>Building Java ME Apps with Modern Tooling</title>
+    <link href="https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/" rel="alternate" />
+    <id>https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/::v240</id>
+    <published>2026-10-25T21:34:00+00:00</published>
+    <updated>2026-10-25T21:34:00+00:00</updated>
+    <media:thumbnail url="https://voxelmanip.se/media/building-java-me-apps-with-modern-tooling/cover.webp" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/">voxelmanip.se</a> | <a href="https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling">discussion</a></small></p><hr/><p>A technical guide details how to develop Java ME applications for legacy feature phones using modern development environments and tools like OpenJDK 8, MicroEmulator stubs, and ProGuard, avoiding outdated Sun Java ME SDKs.</p><p>The walkthrough covers compiling Java source code into backward-compatible bytecode, configuring MIDlet manifests, preverifying binaries, testing in emulators, and transferring files to vintage hardware via Bluetooth, alongside practical warnings regarding strict size constraints and platform limitations.</p><p><img src="https://voxelmanip.se/media/building-java-me-apps-with-modern-tooling/cover.webp" /></p><hr/><small>26 Oct 2026, 00:41 UTC | #25406</small>]]></content>
+  </entry>
   <entry>
     <title>Alex Engelberg and Derek Slager Present 'Every Clojure Talk Ever'</title>
     <link href="https://www.youtube.com/watch?v=jlPaby7suOc" rel="alternate" />
