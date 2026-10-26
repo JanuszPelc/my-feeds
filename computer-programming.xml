@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-26T03:07:00+00:00</updated>
+  <updated>2026-10-26T03:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>Alfie John Explores Early Demoscene Influences That Inspired Him to Program</title>
+    <link href="https://www.alfie.wtf/programming/why-i-am-a-programmer.html" rel="alternate" />
+    <id>https://www.alfie.wtf/programming/why-i-am-a-programmer.html::v240</id>
+    <published>2026-10-26T03:10:00+00:00</published>
+    <updated>2026-10-26T03:10:00+00:00</updated>
+    <media:thumbnail url="https://as2.ftcdn.net/v2/jpg/05/59/01/05/1000_F_559010542_cXULDCcdcVwWCcf0DcE7V3QhCQO44Ryh.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.alfie.wtf/programming/why-i-am-a-programmer.html">alfie.wtf</a> | <a href="https://news.ycombinator.com/item?id=50235017">hacker news</a></small></p><hr/><p>Programmer Alfie John reflects on growing up in the pre-mainstream internet era of the early 1990s, navigating a tight-knit digital underground of floppy disk trading and bulletin board systems. Exposure to game cracktros and early demoscene productions sparked his fascination with computer graphics and the inner workings of software.</p><p>Inspired by Denthor of Asphyxia's VGA demo tutorial series written in Turbo Pascal, the author transitioned from a game collector to an aspiring developer. The essay documents how these foundational technical resources shaped a generation of programmers and fueled the creative potential of early PC computing.</p><p><img src="https://as2.ftcdn.net/v2/jpg/05/59/01/05/1000_F_559010542_cXULDCcdcVwWCcf0DcE7V3QhCQO44Ryh.jpg" /></p><hr/><small>26 Oct 2026, 06:58 UTC | #25424</small>]]></content>
+  </entry>
   <entry>
     <title>Yosh Explains Pratt Parsing and Shunting Yard Implementation in C</title>
     <link href="https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html" rel="alternate" />
