@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-26T13:35:00+00:00</updated>
+  <updated>2026-10-26T18:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Stalwart Labs Releases Stalwart v1.0 Mail Server</title>
+    <link href="https://stalw.art/blog/stalwart-1-0/" rel="alternate" />
+    <id>https://stalw.art/blog/stalwart-1-0/::v240</id>
+    <published>2026-10-26T18:01:00+00:00</published>
+    <updated>2026-10-26T18:01:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/ZbTjrMFbErg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFogVyhlMA8=&amp;rs=AOn4CLC5pdRyk3JdrYgY0RPp8lntZ_kTdg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://stalw.art/blog/stalwart-1-0/">stalw.art</a> | <a href="https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on">discussion</a> | <a href="https://news.ycombinator.com/item?id=50245945">hacker news</a></small></p><hr/><p>Stalwart Labs has released Stalwart v1.0, marking the first stable version of its open-source Rust-based mail and collaboration server after five years of development. The release focuses on high performance and database schema stability, featuring rewritten parsers utilizing SIMD and SWAR optimizations, optimized database backends, and a completely redesigned full-text search engine.</p><p>In benchmark comparisons against Postfix and Dovecot on identical hardware, Stalwart outperformed the traditional mail stack in 35 of 38 categories, including significantly faster IMAP operations, higher inbound SMTP throughput, and reduced message delivery latency. Version 1.0 also introduces support for document text extraction, post-quantum DKIM2 signatures, JMAP object metadata, and an enterprise AI-powered spam classifier.</p><p><img src="https://i.ytimg.com/vi/ZbTjrMFbErg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFogVyhlMA8=&rs=AOn4CLC5pdRyk3JdrYgY0RPp8lntZ_kTdg" /></p><hr/><small>26 Oct 2026, 19:41 UTC | #25499</small>]]></content>
+  </entry>
   <entry>
     <title>PaperPilot Open-Source Local PDF and Document Toolkit Released in Rust</title>
     <link href="https://github.com/KrushnaVardhanReddy/PaperPilot" rel="alternate" />

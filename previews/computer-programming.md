@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Stalwart Labs Releases Stalwart v1.0 Mail Server</h2>
+<p>Stalwart Labs has released Stalwart v1.0, marking the first stable version of its open-source Rust-based mail and collaboration server after five years of development. The release focuses on high performance and database schema stability, featuring rewritten parsers utilizing SIMD and SWAR optimizations, optimized database backends, and a completely redesigned full-text search engine.</p><p>In benchmark comparisons against Postfix and Dovecot on identical hardware, Stalwart outperformed the traditional mail stack in 35 of 38 categories, including significantly faster IMAP operations, higher inbound SMTP throughput, and reduced message delivery latency. Version 1.0 also introduces support for document text extraction, post-quantum DKIM2 signatures, JMAP object metadata, and an enterprise AI-powered spam classifier.</p>
+<p><small>Links: <a href="https://stalw.art/blog/stalwart-1-0/">stalw.art</a> | <a href="https://lobste.rs/s/c0yniy/stalwart_v1_0_fastest_mail_server_on">discussion</a> | <a href="https://news.ycombinator.com/item?id=50245945">hacker news</a></small></p>
+
 <h2>PaperPilot Open-Source Local PDF and Document Toolkit Released in Rust</h2>
 <p>PaperPilot is a privacy-focused PDF and document toolkit written in pure Rust that operates entirely locally without cloud calls. Designed for both human workflows and AI coding agents, the engine provides document manipulation tools—including merging, splitting, compression, and OCR—across a command-line interface, a Model Context Protocol (MCP) server, a local REST API, and a browser-based WebAssembly version.</p><p>The project shares a unified Rust core across its various surfaces to ensure consistent performance while keeping files on the user's machine. Available under an Apache 2.0 license, PaperPilot currently supports tasks like page reordering, watermarking, and signature validation, with upcoming updates planned to introduce broad format conversions for Markdown, HTML, and Microsoft Office files.</p>
 <p><small>Links: <a href="https://github.com/KrushnaVardhanReddy/PaperPilot">github.com</a> | <a href="https://news.ycombinator.com/item?id=50238739">hacker news</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Charles Miller Argues Transient AI Skills Hold No Long-Term Value</h2>
 <p>Software developer Charles Miller argues that transient technical skills like prompt engineering and custom AI instructions quickly become obsolete as software companies fold these temporary workarounds into default product features. Drawing historical parallels to outdated programming folklore, he contends that any skill easily acquired in a few weeks lacks lasting value outside its immediate moment.</p><p>While acknowledging the necessity of keeping pace with modern tools for daily tasks, Miller expresses skepticism toward industry pressure to blindly adopt new AI trends early, suggesting that careful pacing often outperforms rushing to jump on every technological bandwagon.</p>
 <p><small>Links: <a href="https://fishbowl.pastiche.org/2026/10/26/ai-skills">fishbowl.pastiche.org</a> | <a href="https://lobste.rs/s/x1s5oq/ai_skills_are_worthless_2026">discussion</a></small></p>
-
-<h2>Building Java ME Apps with Modern Tooling</h2>
-<p>A technical guide details how to develop Java ME applications for legacy feature phones using modern development environments and tools like OpenJDK 8, MicroEmulator stubs, and ProGuard, avoiding outdated Sun Java ME SDKs.</p><p>The walkthrough covers compiling Java source code into backward-compatible bytecode, configuring MIDlet manifests, preverifying binaries, testing in emulators, and transferring files to vintage hardware via Bluetooth, alongside practical warnings regarding strict size constraints and platform limitations.</p>
-<p><small>Links: <a href="https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/">voxelmanip.se</a> | <a href="https://lobste.rs/s/ekwolo/building_java_me_apps_with_modern_tooling">discussion</a></small></p>
 
 ---
 
