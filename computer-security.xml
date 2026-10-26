@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-25T23:14:00+00:00</updated>
+  <updated>2026-10-26T09:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Apple Details Automatic Blocking of Compromised eMudhra Certificates</title>
+    <link href="https://support.apple.com/en-us/149555" rel="alternate" />
+    <id>https://support.apple.com/en-us/149555::v240</id>
+    <published>2026-10-26T09:59:00+00:00</published>
+    <updated>2026-10-26T09:59:00+00:00</updated>
+    <media:thumbnail url="https://ministryofcyberaffairs.com/_next/image?url=https://storage.googleapis.com/cybersentry-news-images/articles/research/1792605858915-aihero.jpg&amp;w=3840&amp;q=75" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://support.apple.com/en-us/149555">support.apple.com</a> | <a href="https://lobste.rs/s/xzp4m0/about_compromised_emudhra_intermediate">discussion</a></small></p><hr/><p>Apple has begun automatically blocking twelve compromised intermediate Certification Authority certificates issued by eMudhra across Safari, Mail, and system networking frameworks. The security measures follow the compromise of private keys across eight eMudhra intermediate CAs, which left them vulnerable to unauthorized TLS certificate generation and potential impersonation attacks.</p><p>While standard Apple applications handle the block automatically via background updates, command-line tools on macOS like curl and git that check against the system's /etc/ssl/cert.pem file may still accept the certificates until a future software update is released. Apple has provided manual Terminal commands for system administrators and developers who need to immediately remove the affected root certificates from their local configuration files.</p><p><img src="https://ministryofcyberaffairs.com/_next/image?url=https://storage.googleapis.com/cybersentry-news-images/articles/research/1792605858915-aihero.jpg&w=3840&q=75" /></p><hr/><small>26 Oct 2026, 13:06 UTC | #25437</small>]]></content>
+  </entry>
   <entry>
     <title>Setting Up a Lightweight Web Server on NetBSD Using Bozohttpd</title>
     <link href="https://bsandro.tech/posts/simple-netbsd-webserver/" rel="alternate" />
