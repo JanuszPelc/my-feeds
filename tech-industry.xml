@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-26T13:08:00+00:00</updated>
+  <updated>2026-10-26T13:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Johnny Rodgers Recounts Slack's Cultural and Operational Integration Challenges Under Salesforce</title>
+    <link href="https://buildingslack.com/salesforce-part-two/" rel="alternate" />
+    <id>https://buildingslack.com/salesforce-part-two/::v240</id>
+    <published>2026-10-26T13:13:00+00:00</published>
+    <updated>2026-10-26T13:13:00+00:00</updated>
+    <media:thumbnail url="https://forbesthailand.com/wp-content/uploads/2020/12/Salesforce-ปิดดีล-Slack-02.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://buildingslack.com/salesforce-part-two/">buildingslack.com</a> | <a href="https://news.ycombinator.com/item?id=50230898">hacker news</a></small></p><hr/><p>Former Slack engineer Johnny Rodgers details the cultural clash, operational inefficiencies, and integration hurdles experienced by the company following its acquisition by Salesforce in 2021. The account outlines stark contrasts between Slack's collaborative environment and Salesforce's bureaucratic structure, highlighting friction over internal communication methods, mandatory training platforms, and misaligned sales strategies.</p><p>Despite successfully developing and launching new features like Huddles and Clips, former Slack CEO Stewart Butterfield grew deeply frustrated by Salesforce's leadership and corporate priorities. Butterfield's resulting disillusionment culminated in his departure in late 2022, closely followed by the abrupt exit of Salesforce co-CEO Bret Taylor, leaving remaining employees to navigate the transition without key leadership.</p><p><img src="https://forbesthailand.com/wp-content/uploads/2020/12/Salesforce-ปิดดีล-Slack-02.jpg" /></p><hr/><small>26 Oct 2026, 15:23 UTC | #25428</small>]]></content>
+  </entry>
   <entry>
     <title>Caius Outlines Job Hunt and Halloween Costume Plans for the Week</title>
     <link href="https://lobste.rs/s/xxdda9/what_are_you_doing_this_week" rel="alternate" />

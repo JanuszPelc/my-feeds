@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-26T13:11:00+00:00</updated>
+  <updated>2026-10-26T13:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Magnetic Skyrmion Lattices Filmed Melting in Real Time to Advance Brain-Like Computing</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261025073038.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261025073038.htm::v240</id>
+    <published>2026-10-26T13:14:00+00:00</published>
+    <updated>2026-10-26T13:14:00+00:00</updated>
+    <media:thumbnail url="https://images.zapnito.com/users/357990/posters/1584416869-50-0271/f682a439-b7f8-4037-9720-cbdfe7638252_large.jpeg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261025073038.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41565-025-01977-2">source</a></small></p><hr/><p>Researchers have recorded the real-time melting of a magnetic skyrmion lattice while simultaneously manipulating the shape and size of individual skyrmions. Conducted primarily at Johannes Gutenberg University Mainz alongside contributions from the Norwegian University of Science and Technology, the study offers unprecedented insight into the dynamics of these microscopic magnetic vortices.</p><p>Skyrmions are nanoscale magnetic structures that could enable high-density data storage, quantum technologies, and brain-like neuromorphic computing architectures operating with drastically reduced electricity consumption. By demonstrating precise, real-time control over how these ordered lattices break apart and behave individually, the findings help overcome fundamental obstacles toward developing practical spintronic computing devices.</p><p><img src="https://images.zapnito.com/users/357990/posters/1584416869-50-0271/f682a439-b7f8-4037-9720-cbdfe7638252_large.jpeg" /></p><hr/><small>26 Oct 2026, 15:25 UTC | #25451</small>]]></content>
+  </entry>
   <entry>
     <title>Kekova Shipwreck May Be World's Oldest</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261025073036.htm" rel="alternate" />

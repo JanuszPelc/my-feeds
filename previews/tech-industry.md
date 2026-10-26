@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Johnny Rodgers Recounts Slack&#x27;s Cultural and Operational Integration Challenges Under Salesforce</h2>
+<p>Former Slack engineer Johnny Rodgers details the cultural clash, operational inefficiencies, and integration hurdles experienced by the company following its acquisition by Salesforce in 2021. The account outlines stark contrasts between Slack's collaborative environment and Salesforce's bureaucratic structure, highlighting friction over internal communication methods, mandatory training platforms, and misaligned sales strategies.</p><p>Despite successfully developing and launching new features like Huddles and Clips, former Slack CEO Stewart Butterfield grew deeply frustrated by Salesforce's leadership and corporate priorities. Butterfield's resulting disillusionment culminated in his departure in late 2022, closely followed by the abrupt exit of Salesforce co-CEO Bret Taylor, leaving remaining employees to navigate the transition without key leadership.</p>
+<p><small>Links: <a href="https://buildingslack.com/salesforce-part-two/">buildingslack.com</a> | <a href="https://news.ycombinator.com/item?id=50230898">hacker news</a></small></p>
+
 <h2>Caius Outlines Job Hunt and Halloween Costume Plans for the Week</h2>
 <p>Community member caius shares their upcoming weekly agenda, highlighting an active job search and participation in a hiring hall. Alongside their professional pursuits, they are rushing to assemble a custom Halloween costume from scratch.</p><p>The post serves as a personal check-in within an online community thread where users discuss their short-term goals, ongoing projects, and personal milestones for the week.</p>
 <p><small>Links: <a href="https://lobste.rs/s/xxdda9/what_are_you_doing_this_week">lobste.rs</a> | <a href="https://lobste.rs/s/xxdda9/what_are_you_doing_this_week">discussion</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>UK Establishes £100M AI Biosecurity Lab</h2>
 <p>The UK government is committing £100 million in its upcoming budget to establish a national AI Biosecurity Lab (AIBL) aimed at strengthening defences against emerging biological and AI-enabled threats. The initiative will also receive £200 million in AI model credits and computational support from leading developers like OpenAI and Anthropic.</p><p>As part of a broader package for technological resilience and national security, the funding will also bolster the existing AI Security Institute, deploy a national cyber defense shield using agentic AI, and fund vulnerability detection infrastructure. Ministers describe the biosecurity facility as a world-first institute designed to keep pace with evolving technological and biological risks.</p>
 <p><small>Links: <a href="https://www.bbc.com/news/articles/cqdjv8xllvyyo">bbc.com</a> | <a href="https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab">source</a></small></p>
-
-<h2>Instacart Explores Sale and Holds Preliminary Talks With Uber and DoorDash</h2>
-<p>Grocery delivery platform Instacart is exploring a potential sale that could end its 14-year run as a standalone company. The company has engaged in preliminary discussions with potential buyers, including major competitors Uber and DoorDash.</p><p>The deliberations follow fluctuations in Instacart's market valuation, which currently stands at approximately $12 billion. A transaction involving either Uber or DoorDash would significantly reshape the online grocery and delivery landscape in North America.</p>
-<p><small>Links: <a href="https://www.theinformation.com/articles/instacart-exploring-sale">theinformation.com</a></small></p>
 
 ---
 
