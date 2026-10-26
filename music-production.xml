@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-25T18:30:00+00:00</updated>
+  <updated>2026-10-26T00:34:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png</logo>
+  <entry>
+    <title>AudioBrain Releases ChimeBrain Physically Modeled Wind-Chime Instrument for macOS</title>
+    <link href="https://www.kvraudio.com/news/audiobrain-releases-chimebrain---physically-modeled-wind-chime-instrument-for-macos-69287?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69287" rel="alternate" />
+    <id>https://www.kvraudio.com/news/audiobrain-releases-chimebrain---physically-modeled-wind-chime-instrument-for-macos-69287?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69287::v240</id>
+    <published>2026-10-26T00:34:00+00:00</published>
+    <updated>2026-10-26T00:34:00+00:00</updated>
+    <media:thumbnail url="https://static.kvraudio.com/i/b/chimebrain_real_ui_screenshot.jpg" />
+    <content type="html"><![CDATA[<p><small>KVR Audio | <a href="https://www.kvraudio.com/news/audiobrain-releases-chimebrain---physically-modeled-wind-chime-instrument-for-macos-69287?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69287">kvraudio.com</a> | <a href="https://kiyohbimbo.gumroad.com/">source</a></small></p><hr/><p>AudioBrain has released ChimeBrain, a physically modeled wind-chime instrument designed for macOS. Instead of relying on prerecorded samples, the software calculates the vibrations of suspended metal bars in real time to generate sound for music production, scoring, and sound design.</p><p>The instrument features up to 36 individually configurable metal bars with adjustable dimensions, materials, and pitch registers, alongside MIDI performance options, sweep and shake gestures, and direct on-screen interaction. It also includes five virtual microphone models and optional room acoustics, with version 1.0.2 disabling room reverb by default on new instances to reduce CPU usage. ChimeBrain is available as a universal AU, VST3, and standalone plugin priced at $19.</p><p><img src="https://static.kvraudio.com/i/b/chimebrain_real_ui_screenshot.jpg" /></p><hr/><small>26 Oct 2026, 05:40 UTC | #25418</small>]]></content>
+  </entry>
   <entry>
     <title>iTunes Store Experiences Resurgence as Pop Stars Use Digital Collectibles to Boost Chart Positions</title>
     <link href="https://www.ft.com/content/5a21a7fe-3929-4e11-b571-8ce4bfd778ec?accessToken=zwAAAaFxOz_Wkc9aIaf-OSlOEdO1cYzkv9d47A.MEYCIQDRs1kzjWFXImamrm3ktUUwHRNGP9pjk8vLbabih2luXQIhAJQ5-ZFBptzq0jHKh6HmB61eNgYePpLRa5dmLIckcTF2&amp;sharetype=gift&amp;token=d03f3ab2-b10b-4279-adea-2a9c009b105b" rel="alternate" />
