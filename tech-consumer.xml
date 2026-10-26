@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-26T15:42:00+00:00</updated>
+  <updated>2026-10-26T18:02:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Apple Unveils Updated iPad Mini With OLED Display and A20 Pro Chip</title>
+    <link href="https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/" rel="alternate" />
+    <id>https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/::v240</id>
+    <published>2026-10-26T18:02:00+00:00</published>
+    <updated>2026-10-26T18:02:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/PpsFLbX8yMU/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=50243061">hacker news</a></small></p><hr/><p>Apple has announced a major update to the iPad mini, introducing an 8.5-inch OLED display, the A20 Pro chip, and an IP67 rating for water and dust resistance. The new model features a thinner and lighter design, a landscape-edge 12-megapixel Center Stage camera, and an upgraded audio system.</p><p>Powered by Apple Intelligence, the device supports advanced features including Siri AI context understanding, enhanced photo editing tools, and the Image Playground application. Pre-orders begin on October 28, 2026, with retail availability starting November 6, with base pricing starting at $699 for the Wi-Fi model and $849 for the cellular version.</p><p><img src="https://i.ytimg.com/vi/PpsFLbX8yMU/maxresdefault.jpg" /></p><hr/><small>26 Oct 2026, 20:14 UTC | #25461</small>]]></content>
+  </entry>
   <entry>
     <title>Ray-Ban Meta Audio Glasses Review: Audio Quality, Meta AI, and Privacy Concerns</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review" rel="alternate" />
