@@ -3,9 +3,18 @@
   <title>human-life</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml</id>
-  <updated>2026-10-23T17:53:00+00:00</updated>
+  <updated>2026-10-26T03:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png</logo>
+  <entry>
+    <title>Reddit Subreddit r/opensource Bans AI Projects and Non-English Content</title>
+    <link href="https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban" rel="alternate" />
+    <id>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban::v240</id>
+    <published>2026-10-26T03:08:00+00:00</published>
+    <updated>2026-10-26T03:08:00+00:00</updated>
+    <media:thumbnail url="https://ppc.land/content/images/2026/10/reddit-r-opensource-ai-project-ban-doorman-self-typing-typewriter.jpg" />
+    <content type="html"><![CDATA[<p><small>Techmeme | <a href="https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban">theverge.com</a> | <a href="https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai/">source</a> | <a href="https://news.ycombinator.com/item?id=50231722">hacker news</a></small></p><hr/><p>Moderators of the Reddit community r/opensource have implemented strict new submission rules that ban any software projects involving artificial intelligence, created by AI, or intended for AI. The policy also bars solo developers, prohibiting the promotion of projects that are less than a year old, lack multiple contributors, or are seeking new maintainers.</p><p>Additionally, the guidelines effectively exclude non-English speakers due to the moderators' stated inability to distinguish between human-written and AI-translated text. The announcement has sparked significant backlash within the community, prompting critics to note potential conflicts with established open-source software like the Linux kernel and leading to the creation of a rival subreddit, r/trueopensource.</p><p><img src="https://ppc.land/content/images/2026/10/reddit-r-opensource-ai-project-ban-doorman-self-typing-typewriter.jpg" /></p><hr/><small>26 Oct 2026, 06:35 UTC | #25407</small>]]></content>
+  </entry>
   <entry>
     <title>UK AI Security Institute Publishes Technical Report on Mythos 5 Alignment Failures</title>
     <link href="https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident" rel="alternate" />
