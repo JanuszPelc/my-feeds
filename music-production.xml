@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-26T18:15:00+00:00</updated>
+  <updated>2026-10-26T18:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>IK Multimedia Introduces TONEX Free Unlimited</title>
+    <link href="https://bedroomproducersblog.com/2026/10/26/ik-multimedia-tonex-free-unlimited/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/26/ik-multimedia-tonex-free-unlimited/::v240</id>
+    <published>2026-10-26T18:21:00+00:00</published>
+    <updated>2026-10-26T18:21:00+00:00</updated>
+    <media:thumbnail url="https://soundgale.com/wp-content/uploads/IK-Multimedia-TONEX-software-librarian-1024x658.webp" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/26/ik-multimedia-tonex-free-unlimited/">bedroomproducersblog.com</a> | <a href="https://www.ikmultimedia.com/news/?item_id=17132">source</a> | <a href="https://bedroomproducersblog.com/2026/10/26/ik-multimedia-tonex-free-unlimited/#comments">discussion</a></small></p><hr/><p>IK Multimedia has released TONEX Free Unlimited, an expansion of its free TONEX 2 CS guitar and bass software. Rolled out with version 2.2, the update removes previous restrictions on the platform, allowing users to perform unlimited free downloads from ToneNET and create an unlimited number of Tone Models.</p><p>The updated free tier also includes 120 built-in Tone Models—comprising 40 premium models and 80 from tone partners—along with integrated effects. These additions provide musicians with a fully functional AI-powered amp and cabinet modeling environment without requiring a paid subscription.</p><p><img src="https://soundgale.com/wp-content/uploads/IK-Multimedia-TONEX-software-librarian-1024x658.webp" /></p><hr/><small>26 Oct 2026, 21:21 UTC | #25487</small>]]></content>
+  </entry>
+  <entry>
+    <title>Sonic Cascade Releases The Dream Free Analog Character Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/26/sonic-cascade-the-dream/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/26/sonic-cascade-the-dream/::v240</id>
+    <published>2026-10-26T18:19:00+00:00</published>
+    <updated>2026-10-26T18:19:00+00:00</updated>
+    <media:thumbnail url="https://plugins.audio/__og-image__/image/products/mixing-night-audio/cascade/og.png" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/26/sonic-cascade-the-dream/">bedroomproducersblog.com</a> | <a href="https://www.soniccascade.com/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/26/sonic-cascade-the-dream/#respond">discussion</a></small></p><hr/><p>Sonic Cascade has released The Dream, a free analog character effect plugin for macOS and Windows. The audio processor combines tape saturation, pitch flutter, and bit crushing to introduce vintage warmth and lo-fi degradation into music productions and sound designs.</p><p>The plugin was developed by film composer Kevin Matley, who founded Sonic Cascade after pursuing a specific vintage aesthetic while scoring the film Den of Thieves 2: Pantera. It is designed to offer producers and composers a straightforward tool for adding analog texture and movement to their tracks.</p><p><img src="https://plugins.audio/__og-image__/image/products/mixing-night-audio/cascade/og.png" /></p><hr/><small>26 Oct 2026, 21:19 UTC | #25488</small>]]></content>
+  </entry>
   <entry>
     <title>Pulsar Audio Releases DigiTape Free Tape Saturation Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/10/26/pulsar-audio-digitape/" rel="alternate" />
