@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-26T13:18:00+00:00</updated>
+  <updated>2026-10-26T13:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Study of 709 BCE Total Solar Eclipse Refines Earth Rotation and Solar Activity Models</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261025073055.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261025073055.htm::v240</id>
+    <published>2026-10-26T13:22:00+00:00</published>
+    <updated>2026-10-26T13:22:00+00:00</updated>
+    <media:thumbnail url="https://content.cld.iop.org/journals/2041-8205/995/1/L1/revision1/apjlae0461f1_hr.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261025073055.htm">sciencedaily.com</a> | <a href="https://iopscience.iop.org/article/10.3847/2041-8213/ae0461">source</a></small></p><hr/><p>An international research team has analyzed records of a total solar eclipse from 709 BCE preserved in ancient Chinese historical texts to reconstruct Earth's historical rotation speed. By correcting an eight-kilometer error in the geographic coordinates of the ancient Lu capital of Qufu, the scientists calculated a delta T value between 20,264 and 21,204 seconds, providing more precise constraints on how fast Earth spun during the eighth through sixth centuries BCE.</p><p>Investigators also examined a later historical addendum from the Book of Han describing the eclipsed Sun as "completely yellow above and below," interpreting it as a possible early written account of the solar corona. This observation aligns with radiocarbon-based tree ring reconstructions suggesting the Sun was transitioning out of a prolonged period of low activity known as the Neo Assyrian Grand Minimum.</p><p><img src="https://content.cld.iop.org/journals/2041-8205/995/1/L1/revision1/apjlae0461f1_hr.jpg" /></p><hr/><small>26 Oct 2026, 16:16 UTC | #25449</small>]]></content>
+  </entry>
   <entry>
     <title>Dianjunus Rex Giant Fungus Discovered in China</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261025073034.htm" rel="alternate" />

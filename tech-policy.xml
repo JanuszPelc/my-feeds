@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-25T21:09:00+00:00</updated>
+  <updated>2026-10-26T13:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Elvis Presley Rightsholders Sue Anthropic Over Alleged Copyright Infringement</title>
+    <link href="https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html?unlocked_article_code=1.LVE.Unk9.7e04-FAQ9Ei8&amp;smid=nytcore-ios-share" rel="alternate" />
+    <id>https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html?unlocked_article_code=1.LVE.Unk9.7e04-FAQ9Ei8&amp;smid=nytcore-ios-share::v240</id>
+    <published>2026-10-26T13:21:00+00:00</published>
+    <updated>2026-10-26T13:21:00+00:00</updated>
+    <media:thumbnail url="https://www.digitalmusicnews.com/wp-content/uploads/2026/10/elvis-presley-ip-owners-sue-anthropic-over-copyright-infringement.png" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html?unlocked_article_code=1.LVE.Unk9.7e04-FAQ9Ei8&smid=nytcore-ios-share">nytimes.com</a></small></p><hr/><p>The owners of Elvis Presley's music catalog have filed a federal lawsuit seeking more than $41 million in damages against artificial intelligence company Anthropic. The complaint alleges that Anthropic used 274 copyrighted musical compositions associated with Presley to train its Claude AI models without authorization.</p><p>The lawsuit, brought by a subsidiary of Authentic Brands Group, claims the company infringed on intellectual property rights by training its systems on copyrighted lyrics and generating infringing outputs. Anthropic has stated that it disagrees with the allegations and intends to defend itself against the claims.</p><p><img src="https://www.digitalmusicnews.com/wp-content/uploads/2026/10/elvis-presley-ip-owners-sue-anthropic-over-copyright-infringement.png" /></p><hr/><small>26 Oct 2026, 16:14 UTC | #25431</small>]]></content>
+  </entry>
   <entry>
     <title>Serbian Leader Aleksandar Vucic Concedes Defeat to Student-Led Movement in Snap Election</title>
     <link href="https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/" rel="alternate" />

@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Elvis Presley Rightsholders Sue Anthropic Over Alleged Copyright Infringement</h2>
+<p>The owners of Elvis Presley's music catalog have filed a federal lawsuit seeking more than $41 million in damages against artificial intelligence company Anthropic. The complaint alleges that Anthropic used 274 copyrighted musical compositions associated with Presley to train its Claude AI models without authorization.</p><p>The lawsuit, brought by a subsidiary of Authentic Brands Group, claims the company infringed on intellectual property rights by training its systems on copyrighted lyrics and generating infringing outputs. Anthropic has stated that it disagrees with the allegations and intends to defend itself against the claims.</p>
+<p><small>Links: <a href="https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html?unlocked_article_code=1.LVE.Unk9.7e04-FAQ9Ei8&smid=nytcore-ios-share">nytimes.com</a></small></p>
+
 <h2>Serbian Leader Aleksandar Vucic Concedes Defeat to Student-Led Movement in Snap Election</h2>
 <p>Serbian long-serving leader Aleksandar Vucic conceded defeat in a snap parliamentary election after facing a challenge from a diverse, student-led opposition movement. The outcome brings an end to his prolonged grip on power in the Balkan country following a historic vote.</p><p>The election drew exceptionally high voter turnout and signals a major political shift in Serbia. International observers and domestic groups noted the unprecedented mobilization of youth and anti-government protesters leading up to the ballot.</p>
 <p><small>Links: <a href="https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50236081">hacker news</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>Keep Android Open Campaign Challenges Google&#x27;s Android Developer Verification Policy</h2>
 <p>The Keep Android Open campaign opposes Google's policy requiring all Android app developers to centrally register and provide government-issued identification before their software can be installed on certified devices. The mandate affects all applications, including those distributed via alternative open-source platforms like F-Droid or sideloaded independently, by introducing mandatory identity checks and cryptographic signing verification.</p><p>Critics and civil rights organizations argue that the policy undermines Android's open ecosystem, threatens open-source distribution, and introduces severe hurdles for independent developers. While Google frames the requirements around malware prevention and platform security, opponents contend that mandatory identity collection creates censorship risks and disproportionately impacts privacy advocates, hobbyists, and users operating under restrictive regimes.</p>
 <p><small>Links: <a href="https://keepandroidopen.org/?">keepandroidopen.org</a> | <a href="https://news.ycombinator.com/item?id=50208558">hacker news</a></small></p>
-
-<h2>US Treasury Department Proposes Expanded Restrictions on Outbound Technology Investments</h2>
-<p>The U.S. Treasury Department has proposed a new rule to tighten restrictions on American high-tech investments in countries of concern, including China and Russia. The proposed regulations update the Outbound Investment Security Program to implement congressional mandates under the Comprehensive Outbound Investment Security Act.</p><p>The updated framework targets sensitive sectors such as artificial intelligence, supercomputing, semiconductors, and quantum technology. It introduces expanded prohibitions and advance notice requirements designed to prevent U.S. capital and technical expertise from advancing the military and intelligence capabilities of strategic adversaries.</p>
-<p><small>Links: <a href="https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9">apnews.com</a> | <a href="https://home.treasury.gov/news/press-releases/sb0667/">source</a> | <a href="https://news.ycombinator.com/item?id=50080998">hacker news</a></small></p>
 
 ---
 
