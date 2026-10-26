@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-26T10:40:00+00:00</updated>
+  <updated>2026-10-26T13:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Evan Czaplicki Examines the Technical and Operational Costs of Sending Email</title>
+    <link href="https://evancz.dev/why-is-it-so-expensive-to-send-an-email" rel="alternate" />
+    <id>https://evancz.dev/why-is-it-so-expensive-to-send-an-email::v240</id>
+    <published>2026-10-26T13:26:00+00:00</published>
+    <updated>2026-10-26T13:26:00+00:00</updated>
+    <media:thumbnail url="https://cdn.prod.website-files.com/645258dee17c72222bca47d8/65f451b5c137d8d233e35c9c_48a19fc2-ee7f-456c-bf9e-9093b76b1023.png" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://evancz.dev/why-is-it-so-expensive-to-send-an-email">evancz.dev</a> | <a href="https://lobste.rs/s/ryjnyi/why_is_it_so_expensive_send_email">discussion</a> | <a href="https://news.ycombinator.com/item?id=50242308">hacker news</a></small></p><hr/><p>Former Google engineer and Elm creator Evan Czaplicki explores why third-party services charge high fees to send emails, investigating whether the underlying technical process justifies the expense. After successfully writing custom Haskell code to send emails via SMTP, he discovered that the primary challenges lie outside basic protocol implementation.</p><p>While technical hurdles like setting up DNS records and TLS are manageable, delivering messages reliably across all major providers requires navigating complex, opaque spam filters and IP address block blacklists. Because some inbox providers penalize entire IP blocks based on third-party spam activity, senders must often acquire dedicated infrastructure and high-volume sending profiles, which explains the real-world costs of email delivery.</p><p><img src="https://cdn.prod.website-files.com/645258dee17c72222bca47d8/65f451b5c137d8d233e35c9c_48a19fc2-ee7f-456c-bf9e-9093b76b1023.png" /></p><hr/><small>26 Oct 2026, 16:38 UTC | #25474</small>]]></content>
+  </entry>
   <entry>
     <title>IETF Draft Defines MoLE Protocols for Unlinkable Endorsements</title>
     <link href="https://datatracker.ietf.org/doc/draft-jms-mole-protocols/" rel="alternate" />

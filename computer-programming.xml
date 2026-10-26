@@ -3,9 +3,36 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-26T13:12:00+00:00</updated>
+  <updated>2026-10-26T13:29:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Veit Heller Details Writing a Simple Sudoku Solver in AArch64 Assembly</title>
+    <link href="https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EII%3A_Assembly.html" rel="alternate" />
+    <id>https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EII%3A_Assembly.html::v240</id>
+    <published>2026-10-26T13:29:00+00:00</published>
+    <updated>2026-10-26T13:29:00+00:00</updated>
+    <media:thumbnail url="https://dl.flathub.org/repo/screenshots/io.gitlab.cyberphantom52.sudoku_solver-stable/752x423/io.gitlab.cyberphantom52.sudoku_solver-1d944e197ae0e2cc3367d747003105d3.png" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EII%3A_Assembly.html">blog.veitheller.de</a> | <a href="https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII,_EII:_Assembly.html">source</a> | <a href="https://lobste.rs/s/xmnhbt/simple_sudoku_solver_assembly">discussion</a></small></p><hr/><p>Veit Heller explores building a functional Sudoku solver in AArch64 assembly as part of an ongoing series on simple solvers. The post breaks down the implementation of board handling, constraint propagation, candidate generation, and backtracking using raw machine instructions and stack manipulation without runtime abstractions.</p><p>The project demonstrates how low-level bit-twiddling and hardware features like vector registers can replace higher-level control structures, clocking in at just over two hundred lines of code. The code and full breakdown provide a stark contrast to previous iterations built in verified proof assistants or managed languages.</p><p><img src="https://dl.flathub.org/repo/screenshots/io.gitlab.cyberphantom52.sudoku_solver-stable/752x423/io.gitlab.cyberphantom52.sudoku_solver-1d944e197ae0e2cc3367d747003105d3.png" /></p><hr/><small>26 Oct 2026, 16:42 UTC | #25485</small>]]></content>
+  </entry>
+  <entry>
+    <title>Wails v3.0.0 Released</title>
+    <link href="https://v3.wails.io/blog/wails-v3-released/" rel="alternate" />
+    <id>https://v3.wails.io/blog/wails-v3-released/::v240</id>
+    <published>2026-10-26T13:24:00+00:00</published>
+    <updated>2026-10-26T13:24:00+00:00</updated>
+    <media:thumbnail url="https://v3.wails.io/assets/screenshots/wails3-setup-wizard-dark.png" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://v3.wails.io/blog/wails-v3-released/">v3.wails.io</a> | <a href="https://lobste.rs/s/vgq0mf/wails_v3_0_0_released">discussion</a></small></p><hr/><p>Wails v3.0.0 has been released, providing a framework for Go developers to build native desktop applications using web frontend technologies through platform-native WebViews. The new major version shifts from the single-window, context-driven model of v2 to an explicit object-based architecture that natively supports multiple windows, system trays, native menus, and generated bindings from ordinary Go code.</p><p>Migrating from v2 requires code updates due to changes in application lifecycles and runtime APIs, though v2 will continue to receive critical updates alongside the new v3 release. Moving forward, the project plans to adopt a release schedule featuring nightly pre-releases and weekly minor updates, with mobile support for iOS and Android remaining experimental.</p><p><img src="https://v3.wails.io/assets/screenshots/wails3-setup-wizard-dark.png" /></p><hr/><small>26 Oct 2026, 16:37 UTC | #25482</small>]]></content>
+  </entry>
+  <entry>
+    <title>Akku.scm 1.2.0 Released</title>
+    <link href="https://weinholt.se/articles/akku-scm-1-2-0/" rel="alternate" />
+    <id>https://weinholt.se/articles/akku-scm-1-2-0/::v240</id>
+    <published>2026-10-26T13:23:00+00:00</published>
+    <updated>2026-10-26T13:23:00+00:00</updated>
+    <media:thumbnail url="https://scm-manager.org/static/ac51535fedbbec67a284764ae353ee43/2e694/overview.png" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://weinholt.se/articles/akku-scm-1-2-0/">weinholt.se</a> | <a href="https://gitlab.com/akkuscm/akku/-/releases">source</a> | <a href="https://lobste.rs/s/twdnpy/akku_scm_1_2_0_released">discussion</a></small></p><hr/><p>Akku.scm version 1.2.0, a language package manager for R6RS and R7RS Scheme, is now generally available. The release features a critical fix for the dependency solver, resolving performance issues triggered by bugs within multiple versions of the chez-srfi package.</p><p>Designed as a project-based package manager, Akku maintains isolated dependency sets per project and configures environment variables through .akku/env. It includes automatic conversion from R7RS define-library forms to R6RS format to support implementations like Chez Scheme, as well as access to R7RS packages sourced from the Snow package manager.</p><p><img src="https://scm-manager.org/static/ac51535fedbbec67a284764ae353ee43/2e694/overview.png" /></p><hr/><small>26 Oct 2026, 16:36 UTC | #25476</small>]]></content>
+  </entry>
   <entry>
     <title>Brennen Puth Details CSS Print Stylesheets for Websites</title>
     <link href="https://brennenputh.me/blog/printable-websites/" rel="alternate" />
