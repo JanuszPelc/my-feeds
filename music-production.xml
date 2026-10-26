@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-26T15:48:00+00:00</updated>
+  <updated>2026-10-26T18:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Pulsar Audio Releases DigiTape Free Tape Saturation Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/26/pulsar-audio-digitape/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/26/pulsar-audio-digitape/::v240</id>
+    <published>2026-10-26T18:15:00+00:00</published>
+    <updated>2026-10-26T18:15:00+00:00</updated>
+    <media:thumbnail url="https://plugin-nation.com/wp-content/uploads/Tape-Cassette-2-720x340.webp" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/26/pulsar-audio-digitape/">bedroomproducersblog.com</a> | <a href="https://pulsar.audio/digitape/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/26/pulsar-audio-digitape/#respond">discussion</a></small></p><hr/><p>Pulsar Audio has released DigiTape, a free audio plugin designed to emulate the character and saturation of early digital tape processors from the 2000s. The plugin aims to provide smoother transients, added warmth, and harmonic texture for modern mixes.</p><p>DigiTape features two distinct processing modes, Contour and Grain, allowing producers to experiment with different types of tonal shaping and grit. Users can obtain a free license code directly from the developer by completing a short survey on the official website.</p><p><img src="https://plugin-nation.com/wp-content/uploads/Tape-Cassette-2-720x340.webp" /></p><hr/><small>26 Oct 2026, 21:07 UTC | #25489</small>]]></content>
+  </entry>
   <entry>
     <title>M-Vave FM-1 Pocket Synthesizer Emerges as Custom Firmware Platform</title>
     <link href="https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/" rel="alternate" />
