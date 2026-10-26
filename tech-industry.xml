@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-26T15:39:00+00:00</updated>
+  <updated>2026-10-26T15:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Venkatesh Rao Publishes Essay on Cognitive Mercantilism and AI Panic</title>
+    <link href="https://contraptions.venkateshrao.com/p/cognitive-mercantilism" rel="alternate" />
+    <id>https://contraptions.venkateshrao.com/p/cognitive-mercantilism::v240</id>
+    <published>2026-10-26T15:41:00+00:00</published>
+    <updated>2026-10-26T15:41:00+00:00</updated>
+    <media:thumbnail url="https://substackcdn.com/image/fetch/$s_!0-U5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcafd3438-ef0d-41c0-83cf-bcc7e1c995be_1536x1024.png" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://contraptions.venkateshrao.com/p/cognitive-mercantilism">contraptions.venkateshrao.com</a> | <a href="https://news.ycombinator.com/item?id=50239027">hacker news</a></small></p><hr/><p>In his essay "Cognitive Mercantilism," Venkatesh Rao argues that current societal anxieties around artificial intelligence structurally resemble the mercantilist worldview that preceded modern capitalism. He contends that contemporary critics treat intelligence as a scarce, fixed resource to be hoarded by elites, much like early modern economists viewed land and bullion.</p><p>Drawing parallels to Joyce Appleby’s history of capitalism, Rao suggests that abundant AI will shift the economic paradigm from cognitive production to consumption. Just as historical agricultural advances allowed populations to become consumers rather than solely manual laborers, AI-driven abundance could spark a "cognitive industrious revolution" where ordinary individuals leverage vast intelligence for new ambitions and projects.</p><p><img src="https://substackcdn.com/image/fetch/$s_!0-U5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcafd3438-ef0d-41c0-83cf-bcc7e1c995be_1536x1024.png" /></p><hr/><small>26 Oct 2026, 17:57 UTC | #25441</small>]]></content>
+  </entry>
   <entry>
     <title>Volkswagen and Xpeng Secure Approvals for Autonomous Driving Trials in China</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-26/china-boosts-self-driving-push-with-vw-xpeng-technology-trials" rel="alternate" />
