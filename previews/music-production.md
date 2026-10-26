@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Igor Vasiliev Releases HollowTone Ambient Audio Instrument for iOS and macOS</h2>
+<p>Igor Vasiliev has released HollowTone, a procedural audio instrument designed for iOS and macOS that generates deep ambient soundscapes, shifting textures, and immersive atmospheric environments. Rather than functioning as a traditional synthesizer or loop player, the app uses intuitive gestures to let users shape continuous audio atmospheres.</p><p>Priced at $9.99, HollowTone is available for purchase on the App Store. The instrument is intended to provide users with tools for creating tension, calm, or exploratory sound design without fixed musical paths or rules.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/igor-vasiliev-releases-hollowtone---deep-ambient-worlds-for-ios-and-macos-69216?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69216">kvraudio.com</a> | <a href="https://apps.apple.com/app/hollowtone/id6762177498">source</a></small></p>
+
 <h2>Cineol-X 224 Free Lexicon Reverb Plugin Released</h2>
 <p>Cineol-X 224 is a free reverb plugin for macOS and Windows that emulates classic hardware units using data derived from original Lexicon 224 v4.4 and 224 XL v8.21 firmware. It includes 28 programs spanning the six algorithms of the original 224 and 22 algorithms from the 224XL, featuring an automatic engine selection function.</p><p>Operation requires users to supply their own original Lexicon ROM files upon first use. The VST3 plugin is available for download via the project's GitHub releases page.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/26/cineol-x-224-lexicon-reverb/">bedroomproducersblog.com</a> | <a href="https://github.com/temaniak/cineolX/releases">source</a> | <a href="https://bedroomproducersblog.com/2026/10/26/cineol-x-224-lexicon-reverb/#comments">discussion</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <h2>Kaito Sato Updates IMFMSynth to v1.1.6 with New Operator Features</h2>
 <p>Kaito Sato has released version 1.1.6 of IMFMSynth, an eight-operator FM and wavetable synthesizer for Windows and macOS. The update introduces colour-coded operator roles based on routing, per-operator solo capabilities, one-click ratio ladders, focused wiring visuals, and expanded phase controls.</p><p>Developed largely from user feedback on community forums, the v1.1.6 release builds on earlier improvements including mono mode, faster DX7 bank imports, and optimized DSP processing performance. The developer has announced that the subsequent v1.2.0 update will focus on MIDI CC support.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/kaito-sato-updates-imfmsynth-to-v1-1-6-with-per-operator-solo-colour-coded-operator-roles-and-one-click-ratio-ladders-69352?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69352">kvraudio.com</a> | <a href="https://imfm-synth.com/en/changelog">source</a></small></p>
-
-<h2>Stemwire Releases Levelproof EQ Free Plugin</h2>
-<p>Stemwire has released Levelproof EQ, a free equalizer plugin for macOS and Windows available in VST3 and AU formats. The plugin is designed to eliminate loudness bias by automatically measuring and level-matching changes against the original signal using exact LUFS measurements.</p><p>The transparent EQ features up to 24 bands and incorporates automatic gain locking so that output levels remain steady during sessions until new adjustments are made. The software is distributed as a free or pay-what-you-want download on the developer's website.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/stemwire-releases-levelproof-eq---free-eq-plugin-vst3-and-au-69331?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69331">kvraudio.com</a> | <a href="https://plugins.stemwire.io/audio-plugins/levelproof-eq">source</a></small></p>
 
 ---
 

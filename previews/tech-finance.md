@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Bedrock Robotics Raises $600 Million in Series C Funding at $4.1 Billion Valuation</h2>
+<p>Bedrock Robotics Inc. has secured a $600 million Series C funding round, bringing its post-money valuation to $4.1 billion. The startup develops driverless excavators and other autonomous construction machinery designed for job sites.</p><p>The financing round was co-led by CapitalG and Emergence Capital. Bedrock plans to use the capital to scale its autonomous construction equipment across sites throughout the United States.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/autonomous-construction-firm-bedrock-hits-4-1-billion-valuation">bloomberg.com</a> | <a href="https://www.globenewswire.com/news-release/2026/10/26/3388197/0/en/bedrock-robotics-raises-600-million-series-c-to-scale-autonomous-construction-equipment-across-u-s-sites.html">source</a></small></p>
+
 <h2>California Startups Surpass Prior US Annual Funding Records in 2026</h2>
 <p>California-based startups have secured more than three-fourths of all U.S. venture funding in 2026, pulling in an unprecedented $385 billion across seed- through growth-stage rounds. This figure exceeds the total amount raised by all U.S. startups in any prior single year on record, driven largely by massive megarounds for artificial intelligence pioneers based in San Francisco.</p><p>Major financing rounds for companies like OpenAI and Anthropic account for more than half of the statewide total, while other substantial contributions come from mature firms such as Waymo and Databricks as well as newer ventures like Prometheus and Safe Superintelligence. Additionally, early- and seed-stage California companies have captured nearly $62 billion, representing about 57% of all U.S. early-stage funding this year.</p>
 <p><small>Links: <a href="https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/">news.crunchbase.com</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Microsoft and Alphabet Object to Tokenized Stock Trading on OKXICE Platform</h2>
 <p>Microsoft and Alphabet have joined 14 other public companies in formally objecting to a plan by OKXICE—a joint venture between crypto exchange OKX and NYSE parent ICE—to offer round-the-clock tokenized trading of their shares. The companies utilized a Securities and Exchange Commission framework that allows qualifying firms to block third-party tokenized stock listings within a 30-day notice period.</p><p>The pushback highlights growing corporate caution toward digital asset trading, driven by concerns over potential pricing discrepancies and the loss of traditional market closures used for digesting earnings reports. While individual companies can block their shares from specific platforms using the regulatory exemption, the mounting objections threaten to strip the planned venture of a significant portion of its initial stock lineup.</p>
 <p><small>Links: <a href="https://fortune.com/2026/10/21/microsoft-alphabet-object-blockchain-versions-shares-veto/">fortune.com</a></small></p>
-
-<h2>Datadog Offers Nearly $4 Billion to Acquire Cloud Security Startup Upwind</h2>
-<p>Enterprise software firm Datadog recently offered to acquire Israeli cloud cybersecurity startup Upwind Security for nearly $4 billion. Upwind has not accepted the acquisition bid and is instead finalizing a $300 million financing round at a valuation of approximately $3.8 billion.</p><p>The proposed transaction highlights intense market demand for advanced cloud security platforms that monitor cloud applications and respond to potential breaches in real time. Upwind has rapidly scaled its valuation through successive funding rounds amid growing enterprise focus on securing cloud infrastructure and AI agents.</p>
-<p><small>Links: <a href="https://www.theinformation.com/articles/datadog-offered-buy-security-startup-upwind-nearly-4-billion">theinformation.com</a></small></p>
 
 ---
 

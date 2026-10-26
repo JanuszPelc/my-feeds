@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-26T15:49:00+00:00</updated>
+  <updated>2026-10-26T18:51:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Bedrock Robotics Raises $600 Million in Series C Funding at $4.1 Billion Valuation</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-26/autonomous-construction-firm-bedrock-hits-4-1-billion-valuation" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-26/autonomous-construction-firm-bedrock-hits-4-1-billion-valuation::v240</id>
+    <published>2026-10-26T18:51:00+00:00</published>
+    <updated>2026-10-26T18:51:00+00:00</updated>
+    <media:thumbnail url="https://s.yimg.com/lo/mysterio/api/AF4C6F307C157D958D513F1CCF6A1D8F4637395A72268BF65D0A714D827BF944/subgraphmysterio/resizefit_w960_h540;quality_80;format_webp/https://media.zenfs.com/en/construction_dive_964/b716a3dc7a5fd048233a7271ae8f0d15" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/autonomous-construction-firm-bedrock-hits-4-1-billion-valuation">bloomberg.com</a> | <a href="https://www.globenewswire.com/news-release/2026/10/26/3388197/0/en/bedrock-robotics-raises-600-million-series-c-to-scale-autonomous-construction-equipment-across-u-s-sites.html">source</a></small></p><hr/><p>Bedrock Robotics Inc. has secured a $600 million Series C funding round, bringing its post-money valuation to $4.1 billion. The startup develops driverless excavators and other autonomous construction machinery designed for job sites.</p><p>The financing round was co-led by CapitalG and Emergence Capital. Bedrock plans to use the capital to scale its autonomous construction equipment across sites throughout the United States.</p><p><img src="https://s.yimg.com/lo/mysterio/api/AF4C6F307C157D958D513F1CCF6A1D8F4637395A72268BF65D0A714D827BF944/subgraphmysterio/resizefit_w960_h540;quality_80;format_webp/https://media.zenfs.com/en/construction_dive_964/b716a3dc7a5fd048233a7271ae8f0d15" /></p><hr/><small>26 Oct 2026, 22:42 UTC | #25480</small>]]></content>
+  </entry>
   <entry>
     <title>California Startups Surpass Prior US Annual Funding Records in 2026</title>
     <link href="https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/" rel="alternate" />
