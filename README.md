@@ -1,7 +1,7 @@
 # My RSS feeds
 
-The feeds I actually read, published here so other people can subscribe too. Most of them
-are about technology, a few about science and how we live. They update as new stories land.
+The feeds I actually read, published here so other people can subscribe too. They update
+as new stories land.
 
 ## Subscribing
 
