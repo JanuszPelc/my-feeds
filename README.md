@@ -27,6 +27,5 @@ and importing it into your reader.
 ## Worth knowing
 
 The feeds are aggregated by an agentic pipeline, which rewrites every title and summary in
-a plain, measured tone. Lead images are chosen by vision models and don't always match the
-story. Nothing is reviewed by hand, so check anything that matters against the linked
-sources.
+a plain, measured tone. Lead images are chosen by vision models. Nothing is reviewed by
+hand, so check anything that matters against the linked sources.
