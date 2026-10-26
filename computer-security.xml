@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-26T09:59:00+00:00</updated>
+  <updated>2026-10-26T10:40:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>IETF Draft Defines MoLE Protocols for Unlinkable Endorsements</title>
+    <link href="https://datatracker.ietf.org/doc/draft-jms-mole-protocols/" rel="alternate" />
+    <id>https://datatracker.ietf.org/doc/draft-jms-mole-protocols/::v240</id>
+    <published>2026-10-26T10:40:00+00:00</published>
+    <updated>2026-10-26T10:40:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/FKpZVKSXsAAB7nk.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://datatracker.ietf.org/doc/draft-jms-mole-protocols/">datatracker.ietf.org</a> | <a href="https://lobste.rs/s/xj200h/mole_protocols">discussion</a></small></p><hr/><p>An Internet-Draft authored by contributors from Google, Mozilla, and Cloudflare outlines the protocols that instantiate the Moderation of unLinkable Endorsements (MoLE) architecture. The specification details two endorsement protocols—Issuer-Hiding Anonymous Token (IHAT) and Longfellow—which enable clients to prove they hold a trusted endorsement without revealing the specific anchor.</p><p>Additionally, the document defines three credential protocols: Anonymous Credit Tokens (ACT), Privacy Pass with a Reverse Flow, and Budget Privacy Pass. These mechanisms allow moderators to issue, verify, and update per-client state while preventing presentation linkage, alongside provisions for key rotation, discovery, and security considerations.</p><p><img src="https://pbs.twimg.com/media/FKpZVKSXsAAB7nk.jpg" /></p><hr/><small>26 Oct 2026, 13:43 UTC | #25443</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Details Automatic Blocking of Compromised eMudhra Certificates</title>
     <link href="https://support.apple.com/en-us/149555" rel="alternate" />
@@ -401,14 +410,5 @@
     <updated>2026-10-21T15:43:00+00:00</updated>
     <media:thumbnail url="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Feda2a0d63ec94b4698edb7b2989ea6c520a2928c-1920x1240.png&amp;w=3840&amp;q=75" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.anthropic.com/research/attack-surface-reduction">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50175779">hacker news</a></small></p><hr/><p>Anthropic researchers used Claude to conduct automated attack surface analysis and reduction across 25 open-source codebases, uncovering 493 security issues. The technique maps reachable code and restricts access to features that deployments do not need to expose, minimizing risks from unknown vulnerabilities without requiring individual patches.</p><p>The evaluation covered public, gated, and private projects totaling over five million lines of code, focusing on default configurations, configuration interactions, and early reachability. Notably, the analysis identified unintended pre-authentication reachability in projects such as OpenSSH, leading to upstream fixes that removed thousands of lines of unnecessary code paths.</p><p><img src="https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Feda2a0d63ec94b4698edb7b2989ea6c520a2928c-1920x1240.png&w=3840&q=75" /></p><hr/><small>21 Oct 2026, 21:42 UTC | #25045</small>]]></content>
-  </entry>
-  <entry>
-    <title>Wiz Discovers Critical PHP2Shell Vulnerabilities in Core PHP</title>
-    <link href="https://www.wiz.io/blog/php2shell-php-rce" rel="alternate" />
-    <id>https://www.wiz.io/blog/php2shell-php-rce::v240</id>
-    <published>2026-10-21T13:44:00+00:00</published>
-    <updated>2026-10-21T13:44:00+00:00</updated>
-    <media:thumbnail url="https://thedailytechfeed.com/wp-content/uploads/2026/10/9201.png" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wiz.io/blog/php2shell-php-rce">wiz.io</a> | <a href="https://news.ycombinator.com/item?id=50180836">hacker news</a></small></p><hr/><p>Wiz Research uncovered multiple critical memory-safety vulnerabilities in core PHP, tracked as CVE-2026-109618 and CVE-2026-109619 and collectively named PHP2Shell. These flaws affect PHP versions released over the last decade, enabling unauthenticated remote code execution and process-memory disclosure on dependent platforms such as WordPress, Drupal, and Joomla.</p><p>The underlying architectural bugs persisted for years because chaining them into functional exploits required managing complex memory layouts across requests. Frontier AI models assisted researchers in developing and adapting the exploits, marking an inflection point in vulnerability research. PHP released security updates on October 21, 2026, to address the core issues.</p><p><img src="https://thedailytechfeed.com/wp-content/uploads/2026/10/9201.png" /></p><hr/><small>21 Oct 2026, 17:08 UTC | #25027</small>]]></content>
   </entry>
 </feed>
