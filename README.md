@@ -1,6 +1,7 @@
 # My RSS feeds
 
-The feeds I actually read, updated as new stories land. Here's a [preview](preview.md).
+The feeds I actually read, updated as new stories land. [Take a peek](preview.md) before
+subscribing.
 
 ## Subscribing
 

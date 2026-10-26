@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-26T00:32:00+00:00</updated>
+  <updated>2026-10-26T08:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Manifold3D Releases 1:1 Scale Minecraft Map of Switzerland</title>
+    <link href="https://blocks.manifold3d.ch/" rel="alternate" />
+    <id>https://blocks.manifold3d.ch/::v240</id>
+    <published>2026-10-26T08:47:00+00:00</published>
+    <updated>2026-10-26T08:47:00+00:00</updated>
+    <media:thumbnail url="https://blocks.manifold3d.ch/bilder/held.jpg" />
+    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://blocks.manifold3d.ch/">blocks.manifold3d.ch</a> | <a href="https://news.ycombinator.com/item?id=50240922">hacker news</a></small></p><hr/><p>Manifold3D has released a 1:1 scale Minecraft map covering the entire 41,285-square-kilometer land area of Switzerland, generated from open geospatial data provided by the federal agency swisstopo. Each block represents one meter, accurately replicating the country's topography, glaciers, lakes, and mountain peaks such as the Matterhorn using Minecraft Java Edition with the Cubic Chunks mod.</p><p>Available in early access, the full 24-gigabyte world requires a high-performance computer with at least 16 gigabytes of RAM and is priced at 15 Swiss francs for residents of Switzerland, while a free regional download featuring the Jungfrau-Aletsch UNESCO World Heritage site is provided for hardware testing. The map utilizes swisstopo vector and raster datasets for domestic terrain and infrastructure, supplemented by Copernicus elevation data for areas beyond national borders.</p><p><img src="https://blocks.manifold3d.ch/bilder/held.jpg" /></p><hr/><small>26 Oct 2026, 12:03 UTC | #25456</small>]]></content>
+  </entry>
   <entry>
     <title>Brazilian President Luiz Inacio Lula da Silva Wins Fourth Term in Runoff Election</title>
     <link href="https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/" rel="alternate" />
