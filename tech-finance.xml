@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-26T13:32:00+00:00</updated>
+  <updated>2026-10-26T15:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>California Startups Surpass Prior US Annual Funding Records in 2026</title>
+    <link href="https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/" rel="alternate" />
+    <id>https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/::v240</id>
+    <published>2026-10-26T15:49:00+00:00</published>
+    <updated>2026-10-26T15:49:00+00:00</updated>
+    <media:thumbnail url="https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/">news.crunchbase.com</a></small></p><hr/><p>California-based startups have secured more than three-fourths of all U.S. venture funding in 2026, pulling in an unprecedented $385 billion across seed- through growth-stage rounds. This figure exceeds the total amount raised by all U.S. startups in any prior single year on record, driven largely by massive megarounds for artificial intelligence pioneers based in San Francisco.</p><p>Major financing rounds for companies like OpenAI and Anthropic account for more than half of the statewide total, while other substantial contributions come from mature firms such as Waymo and Databricks as well as newer ventures like Prometheus and Safe Superintelligence. Additionally, early- and seed-stage California companies have captured nearly $62 billion, representing about 57% of all U.S. early-stage funding this year.</p><p><img src="https://news.crunchbase.com/wp-content/uploads/concentrated-capital.jpg" /></p><hr/><small>26 Oct 2026, 19:04 UTC | #25455</small>]]></content>
+  </entry>
   <entry>
     <title>Suzhou Dongshan Precision Manufacturing Raises $1.3 Billion in Hong Kong IPO</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing" rel="alternate" />
@@ -256,14 +265,5 @@
     <updated>2026-10-21T19:17:00+00:00</updated>
     <media:thumbnail url="https://techcrunch.com/wp-content/uploads/2026/10/Blacksmith.jpg?w=1024" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/">techcrunch.com</a> | <a href="https://www.blacksmith.sh/blog/series-c">source</a></small></p><hr/><p>Blacksmith, a software building and testing platform, has raised $66 million in a Series C funding round led by Sequoia Capital, reaching a $1 billion valuation. The company provides continuous integration (CI) infrastructure designed to help developers build, test, and validate code, specifically addressing the increasing volume of AI-generated software.</p><p>The startup reported a 17-fold increase in annual recurring revenue and has processed more than 90 million automated code checks for customers including Mercury and Granola. This latest round follows a $45 million Series B round that valued the company at $550 million earlier this year.</p><p><img src="https://techcrunch.com/wp-content/uploads/2026/10/Blacksmith.jpg?w=1024" /></p><hr/><small>22 Oct 2026, 00:22 UTC | #25087</small>]]></content>
-  </entry>
-  <entry>
-    <title>Watchtower Labs Raises $35M for AI-Driven Military Logistics Software</title>
-    <link href="https://www.upstartsmedia.com/p/watchtower-35m-defense-logistics" rel="alternate" />
-    <id>https://www.upstartsmedia.com/p/watchtower-35m-defense-logistics::v240</id>
-    <published>2026-10-21T19:01:00+00:00</published>
-    <updated>2026-10-21T19:01:00+00:00</updated>
-    <media:thumbnail url="https://imgcdn.stablediffusionweb.com/2025/8/29/34f87710-f1ff-48bf-8857-84d4dccf853f.jpg" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.upstartsmedia.com/p/watchtower-35m-defense-logistics">upstartsmedia.com</a> | <a href="https://www.prnewswire.com/news-releases/watchtower-labs-emerges-from-stealth-with-35-million-to-build-ai-native-decision-tools-for-military-operations-302914883.html">source</a></small></p><hr/><p>Watchtower Labs has emerged from stealth with $35 million in seed funding to develop software for military logistics and contingency planning. The funding round was co-led by Shield Capital and Conviction, with participation from In-Q-Tel and Founders Fund.</p><p>The platform integrates large language models with discrete-event simulation to enable defense planners to run natural-language queries through complex logistical scenarios. The software aims to replace manual, spreadsheet-based planning with automated tools that can predict the impact of supply chain disruptions or geopolitical escalations on troop and equipment movements.</p><p><img src="https://imgcdn.stablediffusionweb.com/2025/8/29/34f87710-f1ff-48bf-8857-84d4dccf853f.jpg" /></p><hr/><small>21 Oct 2026, 23:20 UTC | #25038</small>]]></content>
   </entry>
 </feed>

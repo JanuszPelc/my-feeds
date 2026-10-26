@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>California Startups Surpass Prior US Annual Funding Records in 2026</h2>
+<p>California-based startups have secured more than three-fourths of all U.S. venture funding in 2026, pulling in an unprecedented $385 billion across seed- through growth-stage rounds. This figure exceeds the total amount raised by all U.S. startups in any prior single year on record, driven largely by massive megarounds for artificial intelligence pioneers based in San Francisco.</p><p>Major financing rounds for companies like OpenAI and Anthropic account for more than half of the statewide total, while other substantial contributions come from mature firms such as Waymo and Databricks as well as newer ventures like Prometheus and Safe Superintelligence. Additionally, early- and seed-stage California companies have captured nearly $62 billion, representing about 57% of all U.S. early-stage funding this year.</p>
+<p><small>Links: <a href="https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/">news.crunchbase.com</a></small></p>
+
 <h2>Suzhou Dongshan Precision Manufacturing Raises $1.3 Billion in Hong Kong IPO</h2>
 <p>Suzhou Dongshan Precision Manufacturing Co., a printed circuit board manufacturer, raised approximately HK$9.9 billion ($1.3 billion) in Hong Kong through its initial public offering. The share sale was priced at roughly HK$86.80, marking the city's largest stock market listing in nearly two months.</p><p>The final offer price represented a 35% discount relative to the company's closing price on the Shenzhen stock exchange amid volatile investor sentiment surrounding technology and artificial intelligence suppliers. The offering drew cautious demand as the company navigated broader market fluctuations.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing">bloomberg.com</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Datadog Offers Nearly $4 Billion to Acquire Cloud Security Startup Upwind</h2>
 <p>Enterprise software firm Datadog recently offered to acquire Israeli cloud cybersecurity startup Upwind Security for nearly $4 billion. Upwind has not accepted the acquisition bid and is instead finalizing a $300 million financing round at a valuation of approximately $3.8 billion.</p><p>The proposed transaction highlights intense market demand for advanced cloud security platforms that monitor cloud applications and respond to potential breaches in real time. Upwind has rapidly scaled its valuation through successive funding rounds amid growing enterprise focus on securing cloud infrastructure and AI agents.</p>
 <p><small>Links: <a href="https://www.theinformation.com/articles/datadog-offered-buy-security-startup-upwind-nearly-4-billion">theinformation.com</a></small></p>
-
-<h2>Elon Musk Invests $1 Billion in Skydance</h2>
-<p>Elon Musk has invested approximately $1 billion in Skydance, providing a financial boost to the media and entertainment company as it aims to cut costs and strengthen its stock price. The equity commitment coincides with investments from other backers, including board member Laurene Powell Jobs.</p><p>The transaction follows months of speculation regarding a potential partnership between Skydance and Musk’s commercial entities, such as Starlink. Industry figures have previously suggested that the collaboration could help reshape traditional broadcasting channels into streaming models, while leadership at Skydance continues to build out technology and artificial intelligence initiatives.</p>
-<p><small>Links: <a href="https://www.semafor.com/article/10/22/2026/elon-musk-makes-1-billion-investment-in-ellisons-skydance">semafor.com</a></small></p>
 
 ---
 

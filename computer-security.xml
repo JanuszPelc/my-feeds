@@ -366,13 +366,4 @@
     <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQE_fcDxZDuwHA/feedshare-shrink_800/feedshare-shrink_800/0/1687539133202?e=2147483647&amp;v=beta&amp;t=YyNwReKCrFOyD_9DCoq14C4Ds3lMjlXuhTZCGDZy6Oc" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b">github.com</a> | <a href="https://news.ycombinator.com/item?id=50189232">hacker news</a></small></p><hr/><p>mitmproxy has introduced a `--emudhra` command-line option to intercept traffic from clients that trust a compromised eMudhra intermediate certificate authority and its cross-signed root. This update includes the specific certificate chain to facilitate security testing and validation.</p><p>The update also expands support for both RSA and Elliptic Curve (EC) private keys within the tool's certificate and store management classes.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQE_fcDxZDuwHA/feedshare-shrink_800/feedshare-shrink_800/0/1687539133202?e=2147483647&v=beta&t=YyNwReKCrFOyD_9DCoq14C4Ds3lMjlXuhTZCGDZy6Oc" /></p><hr/><small>22 Oct 2026, 04:43 UTC | #25097</small>]]></content>
   </entry>
-  <entry>
-    <title>European Websites Taken Offline Due to Critical PHP Vulnerabilities</title>
-    <link href="https://www.reuters.com/technology/websites-taken-offline-over-php-risks-2026-10-21/" rel="alternate" />
-    <id>https://www.reuters.com/technology/websites-taken-offline-over-php-risks-2026-10-21/::v240</id>
-    <published>2026-10-21T18:56:00+00:00</published>
-    <updated>2026-10-21T18:56:00+00:00</updated>
-    <media:thumbnail url="https://media.cybernews.com/2023/02/vulnerable-php-web-servers.jpeg" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/technology/websites-taken-offline-over-php-risks-2026-10-21/">reuters.com</a></small></p><hr/><p>Government, school, and hospital websites in Europe have been taken offline to mitigate two critical security flaws in the PHP programming language. Identified as CVE-2026-109618 and CVE-2026-109619, these vulnerabilities allow for unauthenticated remote code execution and carry a CVSS score of 9.2.</p><p>Organizations in countries such as France, Finland, and the Netherlands have reportedly disabled services while preparing for security updates. Due to PHP's extensive use in powering web servers and content management systems, the flaws pose a broad risk to internet infrastructure.</p><p><img src="https://media.cybernews.com/2023/02/vulnerable-php-web-servers.jpeg" /></p><hr/><small>21 Oct 2026, 22:43 UTC | #25040</small>]]></content>
-  </entry>
 </feed>
