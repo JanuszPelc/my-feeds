@@ -3,9 +3,27 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-26T15:41:00+00:00</updated>
+  <updated>2026-10-26T15:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Cybersecurity Startup Cathedral Says AI Agents Breached Anthropic Systems</title>
+    <link href="https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkyOTg3MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzk0MzczMTk5LCJpYXQiOjE3OTI5ODcyMDAsImp0aSI6ImI1M2RjZmEzLThkNTItNGE3NC05ZjI4LWU1ZGJkZTIyZDFmOSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMTAvMjYvcmVzZWFyY2hlcnMtY3liZXJzZWN1cml0eS1zdGFydC11cC1jYXRoZWRyYWwtZ290LWluc2lkZS1hbnRocm9waWMvIn0.k3b70wv6ePisrPvCYfDOPAjt5vHweVxm4rBnhcnDU-M&amp;itid=gfta" rel="alternate" />
+    <id>https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkyOTg3MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzk0MzczMTk5LCJpYXQiOjE3OTI5ODcyMDAsImp0aSI6ImI1M2RjZmEzLThkNTItNGE3NC05ZjI4LWU1ZGJkZTIyZDFmOSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMTAvMjYvcmVzZWFyY2hlcnMtY3liZXJzZWN1cml0eS1zdGFydC11cC1jYXRoZWRyYWwtZ290LWluc2lkZS1hbnRocm9waWMvIn0.k3b70wv6ePisrPvCYfDOPAjt5vHweVxm4rBnhcnDU-M&amp;itid=gfta::v240</id>
+    <published>2026-10-26T15:47:00+00:00</published>
+    <updated>2026-10-26T15:47:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQEL3QPfadqFNA/feedshare-shrink_1280/B56ZqFUOXLHQAw-/0/1763173270000?e=2147483647&amp;v=beta&amp;t=LCZ14PAkdgMcOpJWVnN82pi_voRJYnQqqjPs2L5WSOI" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkyOTg3MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzk0MzczMTk5LCJpYXQiOjE3OTI5ODcyMDAsImp0aSI6ImI1M2RjZmEzLThkNTItNGE3NC05ZjI4LWU1ZGJkZTIyZDFmOSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMTAvMjYvcmVzZWFyY2hlcnMtY3liZXJzZWN1cml0eS1zdGFydC11cC1jYXRoZWRyYWwtZ290LWluc2lkZS1hbnRocm9waWMvIn0.k3b70wv6ePisrPvCYfDOPAjt5vHweVxm4rBnhcnDU-M&itid=gfta">washingtonpost.com</a></small></p><hr/><p>Cathedral, a cybersecurity startup founded by former DOGE staffers, reported that its AI agents penetrated Anthropic's internal systems, including internal messaging and record databases, in under 12 hours.</p><p>Backed by prominent venture capital firms including Andreessen Horowitz and Sequoia Capital, the startup focuses on AI-driven cyber capabilities, underscoring evolving security vulnerabilities associated with advanced autonomous agents.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQEL3QPfadqFNA/feedshare-shrink_1280/B56ZqFUOXLHQAw-/0/1763173270000?e=2147483647&v=beta&t=LCZ14PAkdgMcOpJWVnN82pi_voRJYnQqqjPs2L5WSOI" /></p><hr/><small>26 Oct 2026, 18:40 UTC | #25454</small>]]></content>
+  </entry>
+  <entry>
+    <title>Meta Plans $95 Billion Capital Raise to Fund AI Infrastructure Expansion</title>
+    <link href="https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555" rel="alternate" />
+    <id>https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555::v240</id>
+    <published>2026-10-26T15:46:00+00:00</published>
+    <updated>2026-10-26T15:46:00+00:00</updated>
+    <media:thumbnail url="https://pbs.twimg.com/media/HKEgMS9acAAsgwa.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555">ft.com</a></small></p><hr/><p>Meta is planning to raise $95 billion to finance its expanding artificial intelligence infrastructure, highlighted by a $35 billion underwritten equity offering backed by major chipmakers including Nvidia, AMD, and Broadcom. The company also intends to raise an additional $60 billion through an "at the market" program to support its broad AI ambitions.</p><p>The large-scale capital raise comes as Meta significantly increases its spending on AI data centers and models, with its capital expenditure forecast rising toward $145 billion. This new stock strategy follows similar massive equity moves by other major technology companies aiming to secure long-term funding amid soaring infrastructure costs.</p><p><img src="https://pbs.twimg.com/media/HKEgMS9acAAsgwa.jpg" /></p><hr/><small>26 Oct 2026, 18:39 UTC | #25447</small>]]></content>
+  </entry>
   <entry>
     <title>Venkatesh Rao Publishes Essay on Cognitive Mercantilism and AI Panic</title>
     <link href="https://contraptions.venkateshrao.com/p/cognitive-mercantilism" rel="alternate" />
