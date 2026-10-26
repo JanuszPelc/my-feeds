@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-26T06:31:00+00:00</updated>
+  <updated>2026-10-26T08:49:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>India's Chip Design Startups Struggle With Commercialization Hurdles</title>
+    <link href="https://asia.nikkei.com/business/tech/semiconductors/india-s-chip-design-startups-struggle-with-final-commercial-hurdle" rel="alternate" />
+    <id>https://asia.nikkei.com/business/tech/semiconductors/india-s-chip-design-startups-struggle-with-final-commercial-hurdle::v240</id>
+    <published>2026-10-26T08:49:00+00:00</published>
+    <updated>2026-10-26T08:49:00+00:00</updated>
+    <media:thumbnail url="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F0%2F0%2F9%2F13349007-1-eng-GB%2Fe02d648e9609-2026-09-18T113555Z_1438809471_RC2NLNA6LXWG_RTRMADP_3_INDIA-CHIPS-CONFERENCE.png?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=auto&amp;width=780" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://asia.nikkei.com/business/tech/semiconductors/india-s-chip-design-startups-struggle-with-final-commercial-hurdle">asia.nikkei.com</a></small></p><hr/><p>Propelled by government backing, India's chip design startups are approaching commercial production, but they face significant obstacles in achieving competitive pricing. Capital constraints, extended development cycles, and low order volumes hinder their ability to scale efficiently.</p><p>These manufacturing and supply chain hurdles threaten to impede the country's broader ambitions to establish a robust domestic semiconductor ecosystem. Without higher production volumes to reduce per-unit fabrication costs, startups struggle to secure a sustainable footing in global markets.</p><p><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F0%2F0%2F9%2F13349007-1-eng-GB%2Fe02d648e9609-2026-09-18T113555Z_1438809471_RC2NLNA6LXWG_RTRMADP_3_INDIA-CHIPS-CONFERENCE.png?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=780" /></p><hr/><small>26 Oct 2026, 12:52 UTC | #25423</small>]]></content>
+  </entry>
   <entry>
     <title>Toyota Expands Robotics Operations With Walden Spin-off and Factory Plan</title>
     <link href="https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3" rel="alternate" />
