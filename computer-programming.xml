@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-26T18:17:00+00:00</updated>
+  <updated>2026-10-26T18:46:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Ben Joffe Proposes Faster Algorithm for Signed 64-Bit Floor Division by Constants</title>
+    <link href="https://www.benjoffe.com/fast-floordiv" rel="alternate" />
+    <id>https://www.benjoffe.com/fast-floordiv::v240</id>
+    <published>2026-10-26T18:46:00+00:00</published>
+    <updated>2026-10-26T18:46:00+00:00</updated>
+    <media:thumbnail url="https://files.speakerdeck.com/presentations/e5e4570c4b8c40f093f468b39b115334/slide_1.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.benjoffe.com/fast-floordiv">benjoffe.com</a> | <a href="https://lobste.rs/s/o5to4p/faster_way_compute_signed_64_bit_floor">discussion</a></small></p><hr/><p>Software engineer Ben Joffe has introduced a new approach for computing signed integer floor division by compile-time constants, yielding a 10 to 20 percent improvement in throughput on ARM processors and a 5 to 10 percent gain for most positive divisors on x86 architectures. The technique addresses limitations in mainstream programming languages and compilers that either lack native floor division or rely on slower algorithms.</p><p>While standard division rounds toward zero, floor division rounds toward negative infinity, a preferred behavior for applications tracking repeating patterns like timestamps and spatial coordinates. Historical references like Hacker's Delight previously highlighted the difficulty of optimizing constant floor division, and various software libraries have suffered bugs when attempting custom implementations. Joffe's blog post details the performance benchmarks, provides copy-and-pasteable function builders across multiple bit-widths, and supplies a reference C++ template.</p><p><img src="https://files.speakerdeck.com/presentations/e5e4570c4b8c40f093f468b39b115334/slide_1.jpg" /></p><hr/><small>26 Oct 2026, 21:46 UTC | #25523</small>]]></content>
+  </entry>
   <entry>
     <title>Pharo 14 Released with Modernized Toolchain and Virtual Machine Updates</title>
     <link href="https://pharo.org/news/2026-10-26-Pharo14Release.html" rel="alternate" />
