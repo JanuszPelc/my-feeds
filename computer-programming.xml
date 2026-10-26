@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-25T21:34:00+00:00</updated>
+  <updated>2026-10-26T00:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png</logo>
+  <entry>
+    <title>Charles Miller Argues Transient AI Skills Hold No Long-Term Value</title>
+    <link href="https://fishbowl.pastiche.org/2026/10/26/ai-skills" rel="alternate" />
+    <id>https://fishbowl.pastiche.org/2026/10/26/ai-skills::v240</id>
+    <published>2026-10-26T00:24:00+00:00</published>
+    <updated>2026-10-26T00:24:00+00:00</updated>
+    <media:thumbnail url="https://media.licdn.com/dms/image/v2/D5622AQEHu02V1d9Vgw/feedshare-shrink_800/B56Z2UxOXSKkAc-/0/1776317425443?e=2147483647&amp;v=beta&amp;t=HKOamL3chHfIZjZq-qGIA9X7VBMFAxeViDWnNXDXh_Y" />
+    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://fishbowl.pastiche.org/2026/10/26/ai-skills">fishbowl.pastiche.org</a> | <a href="https://lobste.rs/s/x1s5oq/ai_skills_are_worthless_2026">discussion</a></small></p><hr/><p>Software developer Charles Miller argues that transient technical skills like prompt engineering and custom AI instructions quickly become obsolete as software companies fold these temporary workarounds into default product features. Drawing historical parallels to outdated programming folklore, he contends that any skill easily acquired in a few weeks lacks lasting value outside its immediate moment.</p><p>While acknowledging the necessity of keeping pace with modern tools for daily tasks, Miller expresses skepticism toward industry pressure to blindly adopt new AI trends early, suggesting that careful pacing often outperforms rushing to jump on every technological bandwagon.</p><p><img src="https://media.licdn.com/dms/image/v2/D5622AQEHu02V1d9Vgw/feedshare-shrink_800/B56Z2UxOXSKkAc-/0/1776317425443?e=2147483647&v=beta&t=HKOamL3chHfIZjZq-qGIA9X7VBMFAxeViDWnNXDXh_Y" /></p><hr/><small>26 Oct 2026, 03:32 UTC | #25413</small>]]></content>
+  </entry>
   <entry>
     <title>Building Java ME Apps with Modern Tooling</title>
     <link href="https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/" rel="alternate" />
