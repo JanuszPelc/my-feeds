@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-26T13:22:00+00:00</updated>
+  <updated>2026-10-26T17:59:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Google DeepMind AI Model Outperforms Traditional Weather Models in Hurricane Isaias Forecasts</title>
+    <link href="https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias" rel="alternate" />
+    <id>https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias::v240</id>
+    <published>2026-10-26T17:59:00+00:00</published>
+    <updated>2026-10-26T17:59:00+00:00</updated>
+    <media:thumbnail url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1333+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F87%2F99e0849e47e2813d852eb94b5f40%2Fap26282622911128.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias">npr.org</a> | <a href="https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/">source</a></small></p><hr/><p>Meteorologists and hurricane experts report that artificial intelligence models, specifically Google DeepMind's system, are rapidly transforming weather forecasting. When Hurricane Isaias made landfall as a Category 2 storm in early October, the Google DeepMind AI model accurately predicted its path toward the western Florida Panhandle while conventional physics-based models incorrectly projected a more westward track toward southeastern Louisiana.</p><p>While traditional models rely on real-time atmospheric data and complex physical equations, AI models analyze thousands of historical storms using neural networks to identify patterns. The National Hurricane Center incorporated Google's model into its operational forecasts beginning last year, though forecasters continue to use a blend of models and human expertise because the AI system was less effective at predicting storm intensity compared to its accuracy in tracking paths.</p><p><img src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1333+0+0/resize/1100/quality/50/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2F87%2F99e0849e47e2813d852eb94b5f40%2Fap26282622911128.jpg" /></p><hr/><small>26 Oct 2026, 19:16 UTC | #25459</small>]]></content>
+  </entry>
   <entry>
     <title>Study of 709 BCE Total Solar Eclipse Refines Earth Rotation and Solar Activity Models</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261025073055.htm" rel="alternate" />
