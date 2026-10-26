@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Instagram Tests 90-Minute Horizontal Videos for Creators and Podcasters</h2>
+<p>Instagram is launching a test allowing select U.S. creators to upload horizontal videos of up to 90 minutes. Titled "Features," the product is designed for podcasters, comedians, and long-form creators, enabling viewers to transition seamlessly from short promotional Reels directly into full-length videos.</p><p>The test expands on earlier trials in Brazil and aims to help Instagram compete with platforms like YouTube for consumer viewing hours. The long-form content will be recommended via the Explore page and integrated into Instagram's TV app, which is expanding to Apple TV following previous rollouts on Samsung, Fire TV, and Google TV hardware.</p>
+<p><small>Links: <a href="https://www.hollywoodreporter.com/business/digital/instagram-tests-90-minute-videos-podcasters-creators-1236739929/">hollywoodreporter.com</a></small></p>
+
 <h2>SpaceX Agrees to $40 Billion Chip Financing Deal With Apollo</h2>
 <p>SpaceX has entered into a roughly $40 billion equipment-finance lease with Apollo Global Management Inc. to fund purchases of Nvidia graphics processing units and related hardware for its artificial intelligence initiatives. The transaction represents a major financing arrangement to support large-scale AI infrastructure development.</p><p>The deal is structured to close before the end of 2026, providing the capital necessary for SpaceX to acquire advanced processors as it expands its technological capabilities. The agreement highlights the growing capital intensity of artificial intelligence deployment among major aerospace and technology companies.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/spacex-agrees-to-40-billion-chip-financing-deal-with-apollo">bloomberg.com</a> | <a href="https://ir.spacex.com/updates/releases-details/2026/SPACEX-SECURES-40-BILLION-IN-THE-LARGEST-GPU-FINANCING-EVER-2026-EnDqGhTAB3/default.aspx">source</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Toyota Expands Robotics Operations With Walden Spin-off and Factory Plan</h2>
 <p>Toyota is expanding its industrial robotics initiatives, commercializing decades of research to compete with rivals in the automated manufacturing space. As part of this push, the automaker's AI robotics spinout Walden Robotics has emerged from stealth with $300 million in funding and a $1.1 billion valuation, deploying physical AI robots directly into factory production.</p><p>The broader strategy involves substantial annual capital investments to scale automation across manufacturing facilities. By integrating advanced machine learning and physical AI systems, the Japanese group aims to enhance factory efficiency and maintain its competitive edge against growing international competition.</p>
 <p><small>Links: <a href="https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3">ft.com</a> | <a href="https://www.waldenrobotics.com/news/walden-robotics-launches-with-300-million">source</a></small></p>
-
-<h2>SK Hynix Considers 16 Trillion Won Special Dividend From Kioxia Gains</h2>
-<p>SK Hynix Inc. is reportedly planning to distribute approximately 80% of the gains from its investment in Japanese memory chip maker Kioxia Holdings as a special dividend worth about 16 trillion won ($12 billion). The proposed payout would return a substantial portion of the roughly 20 trillion won in profits the South Korean company booked after selling down its Kioxia stake earlier in the year.</p><p>While SK Hynix has stated that no final decision has been finalized regarding the special dividend, management is reviewing various shareholder return measures ahead of its third-quarter earnings announcement. The move aligns with broader efforts to enhance shareholder value and address stock sentiment while maintaining robust funding for artificial intelligence memory research and development.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report">bloomberg.com</a></small></p>
 
 ---
 
