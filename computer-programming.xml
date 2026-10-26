@@ -564,22 +564,4 @@
     <media:thumbnail url="https://image.slidesharecdn.com/unicoreone-etechday-210928135118/85/Unikernel-Hands-on-tutorial-3-638.jpg" />
     <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://uniker.nl/">uniker.nl</a> | <a href="https://lobste.rs/s/mfserj/unikernels_ocaml">discussion</a></small></p><hr/><p>Uniker.nl offers resources and guides for building specialized unikernels using OCaml and the Solo5 sandbox environment. By compiling applications directly with minimal operating system components, unikernels run as lightweight virtual machines with reduced attack surfaces and high resource efficiency.</p><p>The platform integrates tools such as Albatross for deployment, enabling developers to build and manage single-purpose virtualized services designed to run directly on hypervisors like KVM, BHyve, and OpenVMM.</p><p><img src="https://image.slidesharecdn.com/unicoreone-etechday-210928135118/85/Unikernel-Hands-on-tutorial-3-638.jpg" /></p><hr/><small>21 Oct 2026, 13:19 UTC | #25015</small>]]></content>
   </entry>
-  <entry>
-    <title>New York Lobsters Tech Meetup Scheduled for October 28th</title>
-    <link href="https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october" rel="alternate" />
-    <id>https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october::v240</id>
-    <published>2026-10-21T03:09:00+00:00</published>
-    <updated>2026-10-21T03:09:00+00:00</updated>
-    <media:thumbnail url="https://images.ctfassets.net/dkn3vuwtp1le/22Ri3gKXzA2C4kdv1i5qr4/ed4b0b47e175b3ca9532ee5295bcd851/hi_res_NYC_investors_meetup.jpeg?w=1200" />
-    <content type="html"><![CDATA[<p><small>Lobsters Top | <a href="https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october">lobste.rs</a> | <a href="https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october">discussion</a></small></p><hr/><p>A meetup for members of the Lobsters tech community is scheduled to take place in New York City on October 28th. The gathering is planned to begin around 5:30 PM, with tentative locations suggested near Bryant Park or Borough Hall.</p><p>Attendees will include participants from the array language community as well. Interested participants are encouraged to reach out via private message for contact information and venue updates.</p><p><img src="https://images.ctfassets.net/dkn3vuwtp1le/22Ri3gKXzA2C4kdv1i5qr4/ed4b0b47e175b3ca9532ee5295bcd851/hi_res_NYC_investors_meetup.jpeg?w=1200" /></p><hr/><small>21 Oct 2026, 10:46 UTC | #24997</small>]]></content>
-  </entry>
-  <entry>
-    <title>Josh W. Comeau Previews Upcoming CSS Features for Interop 2027</title>
-    <link href="https://www.joshwcomeau.com/css/interop-2027/" rel="alternate" />
-    <id>https://www.joshwcomeau.com/css/interop-2027/::v240</id>
-    <published>2026-10-21T03:03:00+00:00</published>
-    <updated>2026-10-21T03:03:00+00:00</updated>
-    <media:thumbnail url="https://www.joshwcomeau.com/_next/image/?url=%2Fimages%2Finterop-2027%2Fsubgrid-graph.png&amp;w=1200&amp;q=75" />
-    <content type="html"><![CDATA[<p><small>Hacker News Best | <a href="https://www.joshwcomeau.com/css/interop-2027/">joshwcomeau.com</a> | <a href="https://news.ycombinator.com/item?id=50175070">hacker news</a></small></p><hr/><p>Web developer Josh W. Comeau previews ten upcoming CSS features nominated for the Interop 2027 initiative, highlighting capabilities such as native custom functions, advanced shape customization, and improved layout controls.</p><p>Key proposals under consideration by browser vendors include `@function` rules for reusable logic, `corner-shape` and `border-shape` properties for advanced geometric rendering, anchored container queries, the `inherit()` function, and layout reading-flow controls. These collaborative efforts aim to establish universal cross-browser support for powerful new styling mechanisms within the next year.</p><p><img src="https://www.joshwcomeau.com/_next/image/?url=%2Fimages%2Finterop-2027%2Fsubgrid-graph.png&w=1200&q=75" /></p><hr/><small>21 Oct 2026, 08:58 UTC | #24989</small>]]></content>
-  </entry>
 </feed>
