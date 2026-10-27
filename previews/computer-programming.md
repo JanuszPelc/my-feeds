@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>EPA Plans to Decommission Online Web Archive</h2>
+<p>The Environmental Protection Agency (EPA) intends to decommission its online web archive by the end of 2026, removing tens of thousands of environmental reports, policy changes, and regulatory actions from the web. The repository contains at least 20 years of historical data used for research and public oversight.</p><p>Environmental advocates and historians warn that losing the archive will eliminate an irreplaceable resource. While the agency has previously attempted to discontinue the service before reversing course following public backlash, critics argue that decommissioning the site will make historical records more difficult to access and increase the workload for the agency's Freedom of Information Act (FOIA) office.</p>
+<p><small>Links: <a href="https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/">motherjones.com</a> | <a href="https://archive.epa.gov/">source</a> | <a href="https://news.ycombinator.com/item?id=50249275">hacker news</a></small></p>
+
 <h2>Oldest GUI Application Compatible With Windows 11 Investigated</h2>
 <p>An investigation into the oldest graphical user interface application that can run natively on Windows 11 without modification or emulation reveals that early 32-bit Windows NT binaries remain functional. Although Windows 11 lacks 16-bit NTVDM support, programs like FREECELL.EXE from February 1993 execute successfully out of the box.</p><p>Deeper exploration into early Windows NT pre-release builds identifies even older software, including CDPLAYER.EXE from November 1992, which bypasses crashes by utilizing the system's legacy crtdll.dll and an emulated CD-ROM driver. Furthermore, employing compatibility layers such as otvdm enables 16-bit applications like REVERSI.EXE from November 1985 to run on the modern operating system.</p>
 <p><small>Links: <a href="https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/">blog.enlyth.com</a> | <a href="https://lobste.rs/s/rwubks/oldest_gui_application_still_runs_on">discussion</a> | <a href="https://news.ycombinator.com/item?id=50248055">hacker news</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>OpenLDK: Java JIT Compiler and Runtime Written in Common Lisp</h2>
 <p>OpenLDK is a just-in-time compiler and runtime for Java implemented entirely in Common Lisp, enabling Java libraries, classes, and multiple JVM languages to run natively within SBCL. By translating Java bytecode into Lisp code on demand, it bridges the two ecosystems so that Java classes map to CLOS classes, methods participate in CLOS method combinations, and applications share a single in-process heap.</p><p>The project supports a wide range of JVM-hosted languages like Kotlin, Scala, Groovy, and Clojure, allowing mixed-language expressions to be evaluated together. Additionally, by utilizing warm image saving features to preserve initialized object graphs, OpenLDK can boot complex frameworks like Spring Boot in approximately 84 milliseconds.</p>
 <p><small>Links: <a href="https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/">atgreen.github.io</a> | <a href="https://github.com/atgreen/openldk">source</a> | <a href="https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common">discussion</a></small></p>
-
-<h2>TitleArt Browser Tool Recreates 1990s WordArt Styles</h2>
-<p>TitleArt is a browser-based application that recreates classic 1990s WordArt styles, shapes, and three-dimensional visual effects. Users can interact with layered text elements using keyboard shortcuts or mouse clicks to position and customize retro typographic designs.</p><p>Developed as a web tool, the project revives nostalgic design aesthetics reminiscent of early desktop productivity software. The interface provides layer navigation, allowing creators to assemble and manipulate vintage titles directly within modern web browsers.</p>
-<p><small>Links: <a href="https://titleart.dvy.io/">titleart.dvy.io</a> | <a href="https://news.ycombinator.com/item?id=50238708">hacker news</a></small></p>
 
 ---
 
