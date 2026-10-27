@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Art DSP Releases Canvas 2.0 3D Visual Mixing Plugin</h2>
+<a name="story-25590"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCanvas-2-her%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Art DSP has released Canvas 2.0, a visual mixing plugin for macOS and Windows that allows producers to position audio tracks as movable objects within a virtual three-dimensional room. The software maps stereo positioning left-to-right, frequency content vertically, and volume along the forward-backward axis, letting users adjust their mix directly inside the 3D environment rather than relying strictly on standard mixer controls.</p><p>The plugin includes spectral sidechaining, a built-in EQ editor, integrated reverb control, and one-click mixing templates to process entire tracks. Canvas 2.0 is available now for $79 or through a rent-to-own plan, with plugin formats supporting VST3, AAX, and AU.</p>
+<p><small>Links: <a href="https://musictech.com/news/gear/art-dsp-canvas-2/">musictech.com</a> | <a href="https://www.artdsp.net/canvas">source</a></small></p>
+<br clear="all" />
+
 <h2>MyAudioFactory Updates ProAudioDeclipper to v1.13.0</h2>
 <a name="story-25598"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fproaudiodeclipper.1793111332.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>MyAudioFactory has released version 1.13.0 of ProAudioDeclipper, its real-time audio restoration plugin designed to repair clipped and saturated audio.</p><p>The update introduces full accessibility support with complete keyboard navigation and parameter control, resolves multi-processor over-booking performance issues, and includes general user interface refinements for improved usability.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25503"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fipad-screenshot-3-01-landscape-ipad-1024x768.1792409766.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Igor Vasiliev has released HollowTone, a procedural audio instrument designed for iOS and macOS that generates deep ambient soundscapes, shifting textures, and immersive atmospheric environments. Rather than functioning as a traditional synthesizer or loop player, the app uses intuitive gestures to let users shape continuous audio atmospheres.</p><p>Priced at $9.99, HollowTone is available for purchase on the App Store. The instrument is intended to provide users with tools for creating tension, calm, or exploratory sound design without fixed musical paths or rules.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/igor-vasiliev-releases-hollowtone---deep-ambient-worlds-for-ios-and-macos-69216?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69216">kvraudio.com</a> | <a href="https://apps.apple.com/app/hollowtone/id6762177498">source</a></small></p>
-<br clear="all" />
-
-<h2>Cineol-X 224 Free Lexicon Reverb Plugin Released</h2>
-<a name="story-25486"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpluginfox.com%2Fcdn%2Fshop%2Ffiles%2FLexicon224Gui1.png%3Fv%3D1684861169&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cineol-X 224 is a free reverb plugin for macOS and Windows that emulates classic hardware units using data derived from original Lexicon 224 v4.4 and 224 XL v8.21 firmware. It includes 28 programs spanning the six algorithms of the original 224 and 22 algorithms from the 224XL, featuring an automatic engine selection function.</p><p>Operation requires users to supply their own original Lexicon ROM files upon first use. The VST3 plugin is available for download via the project's GitHub releases page.</p>
-<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/26/cineol-x-224-lexicon-reverb/">bedroomproducersblog.com</a> | <a href="https://github.com/temaniak/cineolX/releases">source</a> | <a href="https://bedroomproducersblog.com/2026/10/26/cineol-x-224-lexicon-reverb/#comments">discussion</a></small></p>
 <br clear="all" />
 
 ---
