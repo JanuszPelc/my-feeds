@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>AcusMagic Releases Figura Real-Time Cymatics Visualizer Plugin</h2>
+<p>AcusMagic has released Figura, an audio effect and standalone application that translates incoming audio signals into real-time cymatic figures. Utilizing modal simulation rather than simple beat-reactive animation, the software drives the eigenmodes of virtual plates and membranes using up to 32 partials of the sound source, forming Chladni patterns, liquid waves, and Lissajous curves.</p><p>Available in Studio and Live editions for macOS and Windows, Figura supports VST3, CLAP, AU, and AAX formats alongside standalone operation. The Live version features a dedicated projection window for external monitors, and the software allows users to export still images up to 4096 pixels and MP4 video recordings up to 4K resolution.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/acusmagic-releases-figura-a-real-time-cymatics-visualizer-plugin-69444?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69444">kvraudio.com</a> | <a href="https://acusmagic.com/figura">source</a></small></p>
+
 <h2>Expetri Experimental Software Synthesizer Released in AU and VST3 Formats</h2>
 <p>Expetri has released its self-titled experimental software synthesizer for macOS in VST3 and AU formats. The plugin approaches sound design through the metaphor of a chemistry experiment, allowing users to grow sound cells in a virtual petri dish rather than manually adjusting traditional synthesis parameters.</p><p>The interface lets users interact with sound cells by stirring the dish, adding or removing elements with a pipette, and applying effect liquids from flasks. The software is available in both a free tier and a full version priced at an introductory $9.99, with rare cell generation reserved for the paid release.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/expetri-experimental-software-synthesizer-released-au-and-vst3-69350?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69350">kvraudio.com</a> | <a href="https://expetri.com/">source</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <h2>The Crow Hill Company Releases Free 100 Year Old Piano Virtual Instrument</h2>
 <p>The Crow Hill Company has released 100 Year Old Piano, a new free virtual instrument for its VAULTS series. The plugin captures a donated, roughly 100-year-old John Brinsmead &amp; Sons upright piano in its unrepaired, out-of-tune state.</p><p>Sampled using a pair of AKG microphones alongside a room mic, the instrument is designed to provide dilapidated wear and tear for songs and cinematic scenes requiring characterful vintage sounds. It follows the company's earlier Attic Grand Piano release and is available to download for free.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/24/crow-hill-100-year-old-piano/">bedroomproducersblog.com</a> | <a href="https://thecrowhillcompany.com/100-year-old-piano/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/24/crow-hill-100-year-old-piano/#respond">discussion</a></small></p>
-
-<h2>Reverb Launches End of Summer Sales Event Featuring Discounts on Synths and Gear</h2>
-<p>Reverb has launched its End of Summer Sales Event, offering discounts across a wide selection of music hardware, plugins, synths, and controllers from brands such as M-Vave, Qu-Bit Electronix, and Machine Room. Featured items include M-Vave's compact FM-1 polyphonic synth, various MIDI controllers and keyboards, and specialized hardware like the Prodigy Dual VCO.</p><p>The sale provides price cuts on both vintage-inspired gear and modern digital tools, including unique software like Clatters Machines' Sibilla digital stereo oscillator. The event highlights travel-friendly equipment and niche music production tools currently available at reduced prices across the platform.</p>
-<p><small>Links: <a href="https://musictech.com/news/events/reverb-end-of-summer-sales-event-discount-deals/">musictech.com</a> | <a href="https://reverb.com/sale/holiday">source</a></small></p>
 
 ---
 
