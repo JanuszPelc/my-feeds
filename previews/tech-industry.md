@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Broadcom Arranges $63 Billion Financing Deal for Anthropic AI Chips</h2>
+<p>A $63 billion financing deal arranged by Broadcom with Bank of America, Blackstone, Citigroup, and Morgan Stanley will fund the purchase of AI hardware for Anthropic. The transaction, conducted via a new special purpose vehicle, will acquire Broadcom XPU AI accelerators and networking solutions to be leased to Anthropic.</p><p>The financing includes a first-lien portion arranged by Bank of America, Citigroup, and Morgan Stanley. This arrangement allows Anthropic to access large-scale AI computing infrastructure through a leasing model.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/broadcom-arranges-63-billion-deal-to-finance-anthropic-s-chips">bloomberg.com</a> | <a href="https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce">source</a></small></p>
+
 <h2>DoorDash in Advanced Talks to Acquire Instacart</h2>
 <p>DoorDash is negotiating to purchase delivery rival Instacart, with a deal that could be finalized as early as this week, according to sources familiar with the matter.</p><p>Instacart has been exploring a potential sale and has reportedly held preliminary discussions with several companies, including Uber.</p>
 <p><small>Links: <a href="https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?st=uZNB75">wsj.com</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Johnny Rodgers Recounts Slack&#x27;s Cultural and Operational Integration Challenges Under Salesforce</h2>
 <p>Former Slack engineer Johnny Rodgers details the cultural clash, operational inefficiencies, and integration hurdles experienced by the company following its acquisition by Salesforce in 2021. The account outlines stark contrasts between Slack's collaborative environment and Salesforce's bureaucratic structure, highlighting friction over internal communication methods, mandatory training platforms, and misaligned sales strategies.</p><p>Despite successfully developing and launching new features like Huddles and Clips, former Slack CEO Stewart Butterfield grew deeply frustrated by Salesforce's leadership and corporate priorities. Butterfield's resulting disillusionment culminated in his departure in late 2022, closely followed by the abrupt exit of Salesforce co-CEO Bret Taylor, leaving remaining employees to navigate the transition without key leadership.</p>
 <p><small>Links: <a href="https://buildingslack.com/salesforce-part-two/">buildingslack.com</a> | <a href="https://news.ycombinator.com/item?id=50230898">hacker news</a></small></p>
-
-<h2>Caius Outlines Job Hunt and Halloween Costume Plans for the Week</h2>
-<p>Community member caius shares their upcoming weekly agenda, highlighting an active job search and participation in a hiring hall. Alongside their professional pursuits, they are rushing to assemble a custom Halloween costume from scratch.</p><p>The post serves as a personal check-in within an online community thread where users discuss their short-term goals, ongoing projects, and personal milestones for the week.</p>
-<p><small>Links: <a href="https://lobste.rs/s/xxdda9/what_are_you_doing_this_week">lobste.rs</a> | <a href="https://lobste.rs/s/xxdda9/what_are_you_doing_this_week">discussion</a></small></p>
 
 ---
 

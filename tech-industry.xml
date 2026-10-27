@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-26T22:05:00+00:00</updated>
+  <updated>2026-10-26T22:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Broadcom Arranges $63 Billion Financing Deal for Anthropic AI Chips</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-26/broadcom-arranges-63-billion-deal-to-finance-anthropic-s-chips" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-26/broadcom-arranges-63-billion-deal-to-finance-anthropic-s-chips::v240</id>
+    <published>2026-10-26T22:09:00+00:00</published>
+    <updated>2026-10-26T22:09:00+00:00</updated>
+    <media:thumbnail url="https://olhardigital.com.br/wp-content/uploads/2025/10/broadcom-1.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/broadcom-arranges-63-billion-deal-to-finance-anthropic-s-chips">bloomberg.com</a> | <a href="https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce">source</a></small></p><hr/><p>A $63 billion financing deal arranged by Broadcom with Bank of America, Blackstone, Citigroup, and Morgan Stanley will fund the purchase of AI hardware for Anthropic. The transaction, conducted via a new special purpose vehicle, will acquire Broadcom XPU AI accelerators and networking solutions to be leased to Anthropic.</p><p>The financing includes a first-lien portion arranged by Bank of America, Citigroup, and Morgan Stanley. This arrangement allows Anthropic to access large-scale AI computing infrastructure through a leasing model.</p><p><img src="https://olhardigital.com.br/wp-content/uploads/2025/10/broadcom-1.jpg" /></p><hr/><small>27 Oct 2026, 04:41 UTC | #25524</small>]]></content>
+  </entry>
   <entry>
     <title>DoorDash in Advanced Talks to Acquire Instacart</title>
     <link href="https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?st=uZNB75" rel="alternate" />
