@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-27T16:58:00+00:00</updated>
+  <updated>2026-10-27T17:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Stanford Professors File Copyright Lawsuit Against Anthropic Over Claude Training</title>
+    <link href="https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/" rel="alternate" />
+    <id>https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/::v240</id>
+    <published>2026-10-27T17:07:00+00:00</published>
+    <updated>2026-10-27T17:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fchatgptiseatingtheworld.com%2Fwp-content%2Fuploads%2F2026%2F05%2FScreen-Shot-2026-05-14-at-2.34.58-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/">stanforddaily.com</a> | <a href="https://www.courtlistener.com/docket/73339887/cruz-v-anthropic-pbc/">source</a> | <a href="https://news.ycombinator.com/item?id=50260814">hacker news</a></small></p><hr/><p>Stanford professors Tobias Wolff and Chang-rae Lee are among a group of authors who opted out of the $1.5 billion Bartz v. Anthropic copyright class-action settlement to file a separate lawsuit, Cruz v. Anthropic. The new complaint alleges that Anthropic illegally scraped and pirated copyrighted works from shadow libraries to train its Claude artificial intelligence models.</p><p>While the Bartz ruling previously found that using books to train large language models constituted fair use, it blocked the creation of a permanent central library using pirated files. The plaintiffs in Cruz v. Anthropic are seeking statutory damages of up to $150,000 per infringed work, significantly higher than the payout provided under the class-action settlement.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fchatgptiseatingtheworld.com%2Fwp-content%2Fuploads%2F2026%2F05%2FScreen-Shot-2026-05-14-at-2.34.58-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 20:19 UTC | #25613</small>]]></content>
+  </entry>
   <entry>
     <title>FCC Warns TP-Link Over Router Power Limits and Compliance</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-27/fcc-warns-tp-link-its-routers-breach-power-limits-in-latest-snub" rel="alternate" />
@@ -210,13 +219,5 @@
     <updated>2026-10-22T21:30:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2fNwCU.img%3Fw%3D1731%26h%3D909%26m%3D4%26q%3D91&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.politico.com/news/2026/10/21/amazon-trump-midterms-settlement-01130666">politico.com</a></small></p><hr/><p>Amazon has begun distributing millions of consumer refund checks stemming from a 2025 settlement, with the payments explicitly credited to "President Trump's Federal Trade Commission." This marks the first time that a federal regulatory refund has been officially attributed to a sitting president.</p><p>The distribution stems from a landmark $2.5 billion settlement resolving allegations that Amazon deceptively enrolled customers in Prime subscriptions and complicated cancellation procedures. The timing of the payouts, arriving weeks before the midterm elections, has drawn widespread attention for its unprecedented political framing.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2fNwCU.img%3Fw%3D1731%26h%3D909%26m%3D4%26q%3D91&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Oct 2026, 01:44 UTC | #25173</small>]]></content>
-  </entry>
-  <entry>
-    <title>Trump Asks Elon Musk to Lift Starlink Restrictions in Ukraine</title>
-    <link href="https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e?st=hZda67" rel="alternate" />
-    <id>https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e?st=hZda67::v240</id>
-    <published>2026-10-22T20:14:00+00:00</published>
-    <updated>2026-10-22T20:14:00+00:00</updated>
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/world/trump-called-musk-and-asked-him-to-lift-ukraine-starlink-restrictions-5aeebc6e?st=hZda67">wsj.com</a></small></p><hr/><p>President Trump asked SpaceX Chief Executive Elon Musk to lift restrictions on the Starshield satellite communications system used by Ukraine's military. The request followed an order by Musk that slowed down the military-grade network, disrupting Ukrainian drone operations and air defenses.</p><p>Ukrainian officials reported that connectivity began improving and operating at higher speeds following the call between Trump and Musk. The speed restrictions had previously caught Kyiv and parts of the administration by surprise, highlighting Ukraine's heavy reliance on SpaceX infrastructure during the ongoing conflict.</p><hr/><small>23 Oct 2026, 01:17 UTC | #25160</small>]]></content>
   </entry>
 </feed>

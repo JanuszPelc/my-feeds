@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>Stanford Professors File Copyright Lawsuit Against Anthropic Over Claude Training</h2>
+<a name="story-25613"><img src="https://wsrv.nl/?url=https%3A%2F%2Fchatgptiseatingtheworld.com%2Fwp-content%2Fuploads%2F2026%2F05%2FScreen-Shot-2026-05-14-at-2.34.58-AM.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Stanford professors Tobias Wolff and Chang-rae Lee are among a group of authors who opted out of the $1.5 billion Bartz v. Anthropic copyright class-action settlement to file a separate lawsuit, Cruz v. Anthropic. The new complaint alleges that Anthropic illegally scraped and pirated copyrighted works from shadow libraries to train its Claude artificial intelligence models.</p><p>While the Bartz ruling previously found that using books to train large language models constituted fair use, it blocked the creation of a permanent central library using pirated files. The plaintiffs in Cruz v. Anthropic are seeking statutory damages of up to $150,000 per infringed work, significantly higher than the payout provided under the class-action settlement.</p>
+<p><small>Links: <a href="https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/">stanforddaily.com</a> | <a href="https://www.courtlistener.com/docket/73339887/cruz-v-anthropic-pbc/">source</a> | <a href="https://news.ycombinator.com/item?id=50260814">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>FCC Warns TP-Link Over Router Power Limits and Compliance</h2>
 <a name="story-25555"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Farticles%2F04AdH4b49wfsDnqbMkyozIK-1.fit_lim.v1752784381.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Federal Communications Commission has warned TP-Link Systems Inc. that three of its Wi-Fi router models exceeded legal power limits and that the company may have submitted false or incorrect information. The warning represents a new regulatory hurdle for the manufacturer amid heightened scrutiny of its hardware.</p><p>The notice could pave the way for additional enforcement actions and equipment bans against the company. This development coincides with broader regulatory pressures and state-level lawsuits concerning cybersecurity vulnerabilities and foreign ties associated with TP-Link networking equipment.</p>
@@ -89,10 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <p>Log files attached to software support requests and bug reports frequently contain unintended sensitive information, including screen text, private messages, account identifiers, and authentication tokens. Because applications often log extensive internal state and user interactions during debugging, diagnostic files can inadvertently expose confidential personal data.</p><p>Users are advised to treat diagnostic warnings seriously and avoid blindly sharing unfiltered log archives when reporting bugs. At the same time, software developers bear responsibility for adopting safe defaults—such as keeping diagnostic logging disabled by default—and implementing selective logging to minimize privacy risks.</p>
 <p><small>Links: <a href="https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/">fireborn.mataroa.blog</a> | <a href="https://lobste.rs/s/rl0dz5/be_aware_what_s_your_logs">discussion</a></small></p>
 <br clear="all" />
-
-<h2>Canadian MPs Advance Bill S-211 to Restrict Sports Gambling Advertising</h2>
-<p>Federal lawmakers in Canada are advancing Bill S-211 to establish a national framework restricting sports betting and online casino advertisements across broadcasts, social media, and athletic gear. The legislative push follows new research conducted during the 2026 NHL playoffs showing that viewers are exposed to two to three gambling messages every minute, alongside rising rates of problem gambling and gambling-related suicides.</p><p>While health organizations and addiction researchers support federal intervention to curb pervasive marketing, the Canadian Gaming Association and provincial governments in Ontario and Alberta oppose the national framework. If approved by the House of Commons standing committee, the bill could lead to stricter regulations, including time-of-day bans and restrictions on celebrity and athlete endorsements.</p>
-<p><small>Links: <a href="https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888">cbc.ca</a> | <a href="https://news.ycombinator.com/item?id=50195873">hacker news</a></small></p>
 
 ---
 

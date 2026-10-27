@@ -3,9 +3,27 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-27T16:59:00+00:00</updated>
+  <updated>2026-10-27T17:06:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Apple Unveils New iMac With M6 Chip</title>
+    <link href="https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/" rel="alternate" />
+    <id>https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/::v240</id>
+    <published>2026-10-27T17:06:00+00:00</published>
+    <updated>2026-10-27T17:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftechblog.gr%2Fwp-content%2Fuploads%2F2026%2F01%2FApple-M6.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=50258557">hacker news</a></small></p><hr/><p>Apple has announced a new 24-inch iMac powered by the M6 chip, featuring up to a 12-core CPU and GPU with Neural Accelerators, a Dual 16-core Neural Engine, and support for macOS 27. Starting at $1,499, the all-in-one desktop includes an expansive 4.5K Retina display, upgraded connectivity options like Wi-Fi 7 and Bluetooth 6, and a choice of seven colors.</p><p>Pre-orders begin tomorrow, with retail availability starting on November 6. The updated lineup delivers significant performance gains, offering up to 5x faster on-device AI performance compared to M4 models and up to 18x faster speeds than older Intel-based systems, targeting everyday users, students, and small businesses.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechblog.gr%2Fwp-content%2Fuploads%2F2026%2F01%2FApple-M6.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 20:17 UTC | #25565</small>]]></content>
+  </entry>
+  <entry>
+    <title>Apple Introduces 14-Inch MacBook Pro with M6 Chip</title>
+    <link href="https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/" rel="alternate" />
+    <id>https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/::v240</id>
+    <published>2026-10-27T17:05:00+00:00</published>
+    <updated>2026-10-27T17:05:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FG67qHGlWoAA7Gcd.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/">apple.com</a> | <a href="https://news.ycombinator.com/item?id=50258521">hacker news</a></small></p><hr/><p>Apple has announced the new 14-inch MacBook Pro powered by the M6 chip, featuring a 12-core CPU and 12-core GPU designed to enhance performance and on-device artificial intelligence workloads. The new laptop delivers up to 30 percent faster graphics and 25 percent faster AI processing compared to the previous M5 generation, alongside unified memory configurations starting at 16GB.</p><p>The device includes Wi-Fi 7 and Bluetooth 6 support, a Liquid Retina XDR display with an optional nano-texture finish, and a battery life rated for up to 24 hours. Starting at $1,999, pre-orders begin on October 28 with retail availability scheduled for November 6, running macOS 27.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FG67qHGlWoAA7Gcd.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 20:17 UTC | #25566</small>]]></content>
+  </entry>
   <entry>
     <title>Nightdive Studios CEO Stephen Kick Praises Atari Acquisition Strategy</title>
     <link href="https://www.gamedeveloper.com/business/night-dive-studios-ceo-says-atari-is-demonstrating-right-way-to-do-acquisitions" rel="alternate" />
