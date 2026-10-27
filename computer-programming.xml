@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-27T06:31:00+00:00</updated>
+  <updated>2026-10-27T11:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Orestis Ioannou on How AI Coding Agents Increased His Workload</title>
+    <link href="https://oioannou.com/blog/ai-promised-less-work/" rel="alternate" />
+    <id>https://oioannou.com/blog/ai-promised-less-work/::v240</id>
+    <published>2026-10-27T11:09:00+00:00</published>
+    <updated>2026-10-27T11:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Foioannou.com%2Fimg%2Fai-working-more%2Fcontributions-per-month.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://oioannou.com/blog/ai-promised-less-work/">oioannou.com</a> | <a href="https://news.ycombinator.com/item?id=50257325">hacker news</a></small></p><hr/><p>Full-stack engineer and tech executive Orestis Ioannou analyzes his GitHub contribution history to examine how adopting parallel AI coding agents significantly increased his workload rather than reducing it. Despite transitioning to leadership roles with less direct coding responsibility, utilizing multiple agents concurrently allowed him to pursue vastly more projects, returning his output to peak engineering levels.</p><p>The analysis highlights that low-cost implementation drives continuous cycles of intense coding bursts, context-switching fatigue, and burnout, while elevating baseline activity during quieter periods. Ioannou notes that while AI makes turning ideas into reality easier, human cognitive capacity for managing parallel workflows has not scaled at the same rate.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Foioannou.com%2Fimg%2Fai-working-more%2Fcontributions-per-month.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 14:17 UTC | #25575</small>]]></content>
+  </entry>
   <entry>
     <title>Jan van den Berg Examines The Mythical Man-Month in the Age of AI</title>
     <link href="https://j11g.com/the-mythical-man-month-in-the-age-of-ai" rel="alternate" />
