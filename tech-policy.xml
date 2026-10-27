@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-27T17:07:00+00:00</updated>
+  <updated>2026-10-27T17:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Anduril and Qualcomm Announce BlueChip US-Made Laptop Line for Defense and Government</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-27/anduril-and-qualcomm-plan-to-build-laptop-with-us-supply-chain" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-27/anduril-and-qualcomm-plan-to-build-laptop-with-us-supply-chain::v240</id>
+    <published>2026-10-27T17:08:00+00:00</published>
+    <updated>2026-10-27T17:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fasset.kompas.com%2Fcrops%2F4Gr-qfFMC-SlOdf18redZJx3hzg%3D%2F99x0%3A918x546%2F1200x800%2Fdata%2Fphoto%2F2026%2F01%2F06%2F695c450c19f23.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/anduril-and-qualcomm-plan-to-build-laptop-with-us-supply-chain">bloomberg.com</a> | <a href="https://www.qualcomm.com/news/releases/2026/10/anduril-and-qualcomm-unveil-bluechip-to-rebuild-american-compute">source</a></small></p><hr/><p>Defense tech startup Anduril Industries and chipmaker Qualcomm have unveiled BlueChip, a new line of laptops designed and assembled in the United States for government and military use. The first-generation rugged laptops will be powered by Qualcomm's Snapdragon X Series processors, with preorders scheduled to open in 2027.</p><p>The initiative aims to rebuild domestic computer manufacturing and secure the supply chain by sourcing roughly 90% of the device's components from the US or allied countries. The collaboration addresses growing concerns over reliance on overseas manufacturing for critical technology hardware used in defense sectors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fasset.kompas.com%2Fcrops%2F4Gr-qfFMC-SlOdf18redZJx3hzg%3D%2F99x0%3A918x546%2F1200x800%2Fdata%2Fphoto%2F2026%2F01%2F06%2F695c450c19f23.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 20:31 UTC | #25569</small>]]></content>
+  </entry>
   <entry>
     <title>Stanford Professors File Copyright Lawsuit Against Anthropic Over Claude Training</title>
     <link href="https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/" rel="alternate" />
