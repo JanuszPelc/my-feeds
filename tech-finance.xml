@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-26T22:08:00+00:00</updated>
+  <updated>2026-10-27T11:20:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Nvidia Backs Indian AI Startup Simplismart in $14 Million Series B Round</title>
+    <link href="https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/::v240</id>
+    <published>2026-10-27T11:20:00+00:00</published>
+    <updated>2026-10-27T11:20:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.etimg.com%2Fthumb%2Fwidth-650%2Cheight-488%2Cimgsize-66644%2Cresizemode-75%2Cmsid-131164392%2Ftech%2Ffunding%2Fchipmaker-nvidia-in-talks-to-lead-20-million-round-in-gen-ai-startup-simplismart%2Fsimplismart-team.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/">techcrunch.com</a></small></p><hr/><p>Nvidia has participated in a $14 million Series B funding round for Bengaluru-based AI startup Simplismart, valuing the company at approximately $100 million. Dallas Venture Capital led the investment, with additional participation from Accel, Shastra VC, and Micromax. Simplismart develops software that sits between AI models and underlying computing infrastructure, automatically configuring deployments to balance speed, cost, and GPU utilization for enterprise customers.</p><p>The startup’s platform helps businesses optimize performance and reduce GPU serving costs, with clients including video-generation platforms InVideo and HeyGen. Simplismart has experienced rapid growth, scaling its annualized revenue run rate 14-fold over a six-month period and generating more than half its revenue from the United States. Alongside the funding, Nvidia is collaborating with Simplismart on technical integrations involving its Dynamo inference software to expand market adoption.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.etimg.com%2Fthumb%2Fwidth-650%2Cheight-488%2Cimgsize-66644%2Cresizemode-75%2Cmsid-131164392%2Ftech%2Ffunding%2Fchipmaker-nvidia-in-talks-to-lead-20-million-round-in-gen-ai-startup-simplismart%2Fsimplismart-team.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 16:11 UTC | #25546</small>]]></content>
+  </entry>
   <entry>
     <title>Intel to Acquire Israeli Quantum Computing Startup Classiq</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push" rel="alternate" />
