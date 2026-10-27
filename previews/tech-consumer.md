@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Fitbit Edge In-Depth Review</h2>
+<p>The Fitbit Edge is a fitness tracker featuring a 1.34-inch AMOLED display, a physical side button, and an altimeter. Key upgrades include automatic workout detection for 100 sports, improved GPS accuracy, and a user-replaceable battery. While it adopts a modern user interface similar to the Pixel Watch 5, it removes Google Pay and the EDA scan feature.</p><p>Priced at $179, the device provides advanced health monitoring, including ECG, skin temperature sensing, and continuous stress monitoring. It supports fast charging, providing one day of battery from five minutes of charge, and offers various band options. Detailed data analysis and health metrics are managed through the Google Health app.</p>
+<p><small>Links: <a href="https://www.dcrainmaker.com/2026/10/fitbit-edge-depth-review-worth-the-upgrade.html">dcrainmaker.com</a> | <a href="https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/">source</a></small></p>
+
 <h2>Apple Releases iOS 27.2 and iPadOS 27.2</h2>
 <p>Apple has released iOS 27.2 and iPadOS 27.2, expanding Siri AI support to French, Japanese, Korean, Portuguese, and Spanish. The update also introduces Apple TV profiles, new branding for Apple Music, and AI-driven suggestions in Messages that facilitate quick actions in apps like Calendar and Reminders.</p><p>Additional features include SynthID watermarking in Photos to identify AI-generated or modified content, expanded Shared Albums, and FaceTime support for third-party sign language interpreters. The software is available for all compatible devices, including the iPhone Duo and the new OLED iPad mini.</p>
 <p><small>Links: <a href="https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2/">macrumors.com</a> | <a href="https://www.apple.com/nz/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/">source</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <h2>Valve Developer Accidentally Mentions HLX Codename at GameSoundCon Panel</h2>
 <p>Valve composer and audio artist Mike Morasky inadvertently mentioned the rumored "HLX" codename during a GameSoundCon panel while discussing high-dynamic-range audio. Fellow panelist and Valve sound designer David Feise immediately responded with a sarcastic remark about the slip-up, providing fresh fodder for fans tracking the long-rumored franchise continuation.</p><p>While Valve has not officially announced any project following 2020's Half-Life: Alyx, the public mention has re-energized community speculation and datamining efforts. Observers note that recent internal code commits suggest active development at the studio, though an official announcement or release window has not been provided.</p>
 <p><small>Links: <a href="https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/">arstechnica.com</a> | <a href="https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/#comments">discussion</a></small></p>
-
-<h2>Xbox Chief Operating Officer Helen Chiang Departs</h2>
-<p>Helen Chiang is leaving Microsoft after serving just a few months as Xbox's first chief operating officer, a position she assumed in July following a 21-year tenure leading the Minecraft franchise. Her departure was announced via a brief internal memo from Xbox CEO Asha Sharma, with her responsibilities temporarily distributed among other division leaders.</p><p>The role was originally created as part of a major organizational reset at Xbox that included widespread workforce reductions. Microsoft has declined to comment on the specific circumstances of her exit as the gaming division faces reports of further anticipated layoffs.</p>
-<p><small>Links: <a href="https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure">theverge.com</a></small></p>
 
 ---
 

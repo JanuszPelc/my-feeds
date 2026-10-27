@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-26T22:04:00+00:00</updated>
+  <updated>2026-10-27T00:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Fitbit Edge In-Depth Review</title>
+    <link href="https://www.dcrainmaker.com/2026/10/fitbit-edge-depth-review-worth-the-upgrade.html" rel="alternate" />
+    <id>https://www.dcrainmaker.com/2026/10/fitbit-edge-depth-review-worth-the-upgrade.html::v240</id>
+    <published>2026-10-27T00:14:00+00:00</published>
+    <updated>2026-10-27T00:14:00+00:00</updated>
+    <media:thumbnail url="https://i.ytimg.com/vi/eGPtEFGufkc/maxresdefault.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.dcrainmaker.com/2026/10/fitbit-edge-depth-review-worth-the-upgrade.html">dcrainmaker.com</a> | <a href="https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/">source</a></small></p><hr/><p>The Fitbit Edge is a fitness tracker featuring a 1.34-inch AMOLED display, a physical side button, and an altimeter. Key upgrades include automatic workout detection for 100 sports, improved GPS accuracy, and a user-replaceable battery. While it adopts a modern user interface similar to the Pixel Watch 5, it removes Google Pay and the EDA scan feature.</p><p>Priced at $179, the device provides advanced health monitoring, including ECG, skin temperature sensing, and continuous stress monitoring. It supports fast charging, providing one day of battery from five minutes of charge, and offers various band options. Detailed data analysis and health metrics are managed through the Google Health app.</p><p><img src="https://i.ytimg.com/vi/eGPtEFGufkc/maxresdefault.jpg" /></p><hr/><small>27 Oct 2026, 06:16 UTC | #25526</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Releases iOS 27.2 and iPadOS 27.2</title>
     <link href="https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2/" rel="alternate" />
