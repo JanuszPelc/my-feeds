@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Fangtooth Instruments Releases Baikonur 4 Sample-Based Synth</h2>
+<a name="story-25563"><img src="https://wsrv.nl/?url=https%3A%2F%2Fweproject.media%2Fupload%2Fmedialibrary%2F53d%2F1v6n5vzl6pipxekn4fwbizkkxay5w9j8.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Fangtooth Instruments is offering Baikonur 4, a sample-based virtual instrument built from multi-channel recordings of the SOMA Lyra-8 analog drone synthesizer. Developed by Jeff Davis, the instrument is designed for atmospheric drones, sci-fi tension, and horror cinematic scoring, utilizing direct hardware captures rather than software modeling.</p><p>Users can further manipulate and reshape the raw analog source material using the instrument's integrated modulation, filtering, and effects parameters. The plugin is currently available at a discounted promotional price through November 1.</p>
+<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/27/fangtooth-baikonur-4-lyra-8/">bedroomproducersblog.com</a> | <a href="https://www.fangtoothinstruments.com/shop">source</a></small></p>
+<br clear="all" />
+
 <h2>AcusMagic Releases Figura Real-Time Cymatics Visualizer Plugin</h2>
 <a name="story-25537"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffigura-ui-sand-01---01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AcusMagic has released Figura, an audio effect and standalone application that translates incoming audio signals into real-time cymatic figures. Utilizing modal simulation rather than simple beat-reactive animation, the software drives the eigenmodes of virtual plates and membranes using up to 32 partials of the sound source, forming Chladni patterns, liquid waves, and Lissajous curves.</p><p>Available in Studio and Live editions for macOS and Windows, Figura supports VST3, CLAP, AU, and AAX formats alongside standalone operation. The Live version features a dedicated projection window for external monitors, and the software allows users to export still images up to 4096 pixels and MP4 video recordings up to 4K resolution.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25291"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FHMgci7bGz77KTLA8qBp8sY.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Morningdew Media has released MorningDAW, a free digital audio workstation designed for macOS, Windows, and Linux. Created by Mattias and Nicklas Holmgren, the software supports multi-track recording, arranging, sampling, mixing, mastering, and pattern or tracker programming.</p><p>The DAW offers flexible viewing modes, including a piano roll, score page for sheet music, step patterns, and a classic tracker interface, alongside built-in virtual instruments and third-party plugin support. It is available for personal, educational, and commercial use with no time limits or licensing fees.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/24/morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux/">bedroomproducersblog.com</a> | <a href="https://www.morningdewmedia.com/morningdaw-free-daw-macos-windows/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/24/morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux/#comments">discussion</a></small></p>
-<br clear="all" />
-
-<h2>The Crow Hill Company Releases Free 100 Year Old Piano Virtual Instrument</h2>
-<a name="story-25292"><img src="https://wsrv.nl/?url=https%3A%2F%2Fthecrowhillcompany.com%2Fwp-content%2Fuploads%2F2026%2F10%2FTCHC_T_CODE_SLUG_shop-grid_image_hover.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Crow Hill Company has released 100 Year Old Piano, a new free virtual instrument for its VAULTS series. The plugin captures a donated, roughly 100-year-old John Brinsmead &amp; Sons upright piano in its unrepaired, out-of-tune state.</p><p>Sampled using a pair of AKG microphones alongside a room mic, the instrument is designed to provide dilapidated wear and tear for songs and cinematic scenes requiring characterful vintage sounds. It follows the company's earlier Attic Grand Piano release and is available to download for free.</p>
-<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/24/crow-hill-100-year-old-piano/">bedroomproducersblog.com</a> | <a href="https://thecrowhillcompany.com/100-year-old-piano/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/24/crow-hill-100-year-old-piano/#respond">discussion</a></small></p>
 <br clear="all" />
 
 ---
