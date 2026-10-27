@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>DoorDash in Advanced Talks to Acquire Instacart</h2>
+<p>DoorDash is negotiating to purchase delivery rival Instacart, with a deal that could be finalized as early as this week, according to sources familiar with the matter.</p><p>Instacart has been exploring a potential sale and has reportedly held preliminary discussions with several companies, including Uber.</p>
+<p><small>Links: <a href="https://www.wsj.com/business/hospitality/doordash-is-in-advanced-talks-to-acquire-delivery-rival-instacart-2b3d3d18?st=uZNB75">wsj.com</a></small></p>
+
 <h2>Anthropic&#x27;s S-1 Filing Reveals Unconventional Governance Structure</h2>
 <p>Anthropic's S-1 filing for its proposed initial public offering outlines a governance structure that Matt Levine describes as resembling a mission-driven worker cooperative. The draft prospectus includes specific share classes and governance mechanisms that depart from traditional public company models.</p><p>The filing arrives as the AI company prepares for a highly anticipated stock market debut. Observers are analyzing how the company's Public Benefit Corporation (PBC) status and specific governance rules will influence the balance between mission-driven objectives and shareholder profit maximization.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/opinion/newsletters/2026-10-26/anthropic-raises-concerns">bloomberg.com</a> | <a href="https://www.anthropic.com/news/s1-sec">source</a> | <a href="https://news.ycombinator.com/item?id=50242957">hacker news</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Caius Outlines Job Hunt and Halloween Costume Plans for the Week</h2>
 <p>Community member caius shares their upcoming weekly agenda, highlighting an active job search and participation in a hiring hall. Alongside their professional pursuits, they are rushing to assemble a custom Halloween costume from scratch.</p><p>The post serves as a personal check-in within an online community thread where users discuss their short-term goals, ongoing projects, and personal milestones for the week.</p>
 <p><small>Links: <a href="https://lobste.rs/s/xxdda9/what_are_you_doing_this_week">lobste.rs</a> | <a href="https://lobste.rs/s/xxdda9/what_are_you_doing_this_week">discussion</a></small></p>
-
-<h2>Anthropic Files S-1 Registration Statement For Proposed Initial Public Offering</h2>
-<p>Anthropic has filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission for a proposed initial public offering of its Class A common stock. The public disclosure of the prospectus follows the company's earlier confidential review phase with regulators.</p><p>The offering marks a major milestone for the artificial intelligence company as it transitions toward becoming a publicly traded entity. Market participants and analysts have closely monitored the progression of the IPO process amidst broader industry developments in AI sector funding and scaling.</p>
-<p><small>Links: <a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm">sec.gov</a> | <a href="https://www.anthropic.com/news/s1-sec">source</a> | <a href="https://news.ycombinator.com/item?id=50242939">hacker news</a></small></p>
 
 ---
 
