@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-27T16:09:00+00:00</updated>
+  <updated>2026-10-27T16:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>TrendAI Researchers Find Discover-Tech Heavily Targeted Starlink Users</title>
+    <link href="https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/" rel="alternate" />
+    <id>https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/::v240</id>
+    <published>2026-10-27T16:13:00+00:00</published>
+    <updated>2026-10-27T16:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcms.intuji.com%2Fwp-content%2Fuploads%2F2022%2F12%2Ffeatured-pexels-spacex-586056-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50259050">hacker news</a></small></p><hr/><p>Researchers at TrendAI, a unit of cybersecurity firm Trend Micro, discovered that Israeli ad tech company Discover-Tech extensively targeted users of SpaceX's Starlink satellite internet service across more than 100 countries. According to sources familiar with the matter, the heavy digital ad exposure was likely intended to geolocate or surveil the satellite network's users.</p><p>The findings build on broader investigations into how digital advertising networks can be exploited to track targets and facilitate device hacking operations. Discover-Tech has previously faced scrutiny from security researchers over related operations utilizing sprawling networks of online ads.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcms.intuji.com%2Fwp-content%2Fuploads%2F2022%2F12%2Ffeatured-pexels-spacex-586056-1024x683.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 19:14 UTC | #25557</small>]]></content>
+  </entry>
   <entry>
     <title>GMO Internet Reports Publication of Stolen Customer Data Following Onamae Cloud Breach</title>
     <link href="https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/" rel="alternate" />

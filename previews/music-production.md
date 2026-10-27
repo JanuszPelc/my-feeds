@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Native Instruments Releases Massive XL Software Synthesizer</h2>
+<a name="story-25576"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdt7v1i9vyp3mf.cloudfront.net%2Fstyles%2Fnews_large%2Fs3%2Fimagelibrary%2Fn%2Fni1wavetables-A3hv1PC37K6tLyNSEihcxOx4V3pSH0cG.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Native Instruments has released Massive XL, a new flagship software synthesizer and the direct successor to Massive X. The plugin introduces advanced sound design tools, including an audio-to-patch Preset Generator, stem separation, similarity-aware wavetable mutations, and a redesigned modulation environment.</p><p>Building upon the semi-modular architecture and character of the original 2006 instrument, Massive XL incorporates over 100 new wavetables and integrated effects such as Raum and Replika. Available at an introductory price through December 2026, the release represents the first major product launch for Native Instruments following its acquisition by InMusic.</p>
+<p><small>Links: <a href="https://musictech.com/news/gear/native-instruments-massive-xl-everything-you-need-to-know/">musictech.com</a> | <a href="https://www.native-instruments.com/products/massive-xl">source</a></small></p>
+<br clear="all" />
+
 <h2>Image-Line Releases FL Studio Mobile 5 Update</h2>
 <a name="story-25572"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FFL-Studio-Mobile-5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Image-Line has released FL Studio Mobile 5, a major update celebrating the mobile digital audio workstation's tenth anniversary. The new version integrates access to the FL Cloud Sounds library directly within the app, giving users thousands of free samples as well as access to over two million royalty-free sounds for paid subscribers.</p><p>In addition to the cloud sound library integration, the update introduces a highly requested portrait edit mode, live UI scaling, and drag-and-drop file sharing capabilities. Version 5 also features improved mouse and keyboard support, workflow upgrades like smart soloing, and the ability to burn notes directly to tracks, all available at no extra cost under the company's lifetime free updates policy.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25489"><img src="https://wsrv.nl/?url=https%3A%2F%2Fplugin-nation.com%2Fwp-content%2Fuploads%2FTape-Cassette-2-720x340.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Pulsar Audio has released DigiTape, a free audio plugin designed to emulate the character and saturation of early digital tape processors from the 2000s. The plugin aims to provide smoother transients, added warmth, and harmonic texture for modern mixes.</p><p>DigiTape features two distinct processing modes, Contour and Grain, allowing producers to experiment with different types of tonal shaping and grit. Users can obtain a free license code directly from the developer by completing a short survey on the official website.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/26/pulsar-audio-digitape/">bedroomproducersblog.com</a> | <a href="https://pulsar.audio/digitape/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/26/pulsar-audio-digitape/#respond">discussion</a></small></p>
-<br clear="all" />
-
-<h2>M-Vave FM-1 Pocket Synthesizer Emerges as Custom Firmware Platform</h2>
-<a name="story-25506"><img src="https://wsrv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61gJBdDcHuL._AC_SL1200_.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The M-Vave FM-1 is an inexpensive pocket frequency-modulation synthesizer that has evolved into a popular platform for community-developed custom firmware. Originally released as a budget device inspired by the Yamaha DX7, the hardware sparked reverse-engineering efforts that led to user-created software expanding its capabilities far beyond its stock configuration.</p><p>In response to the community trend, manufacturer M-Vave launched FM1 Open, an open-source development package featuring a browser-based workbench, software development kit, and updated firmware options. Community developers have since ported a wide variety of alternate packages to the device, transforming the pocket synthesizer into a multi-engine groovebox, chiptune workstation, and even a platform capable of running Doom.</p>
-<p><small>Links: <a href="https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/">arstechnica.com</a> | <a href="https://www.cuvave.com/product?id=fm-1">source</a> | <a href="https://lobste.rs/s/5u7gjd/from_impulse_purchase_pocket_studio_m">discussion</a></small></p>
 <br clear="all" />
 
 ---

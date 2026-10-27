@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Sucker Punch Lays Off 24 Employees Amid Market Challenges</h2>
+<a name="story-25578"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt2db7d8951b9270b4%2F6ae0b2cc9336c11aecc7a2da%2F4481011-ghost-yotei.webp%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Ghost of Yotei developer Sucker Punch has laid off 24 employees, representing roughly 10 percent of its workforce. The studio stated that the staff reductions were made in response to ongoing market challenges and to align team resources with the needs of its next project.</p><p>The layoffs follow internal communications sent to staff outlining the cuts, with leadership noting that further details regarding the studio's future will be shared soon. Sucker Punch is a Sony-owned studio best known for its work on Ghost of Tsushima and Ghost of Yotei.</p>
+<p><small>Links: <a href="https://www.gamedeveloper.com/business/sucker-punch-lays-off-24-to-align-with-current-market-next-project-needs">gamedeveloper.com</a> | <a href="https://aftermath.site/sucker-punch-layoffs-sony-ghost-of-yotei/">source</a></small></p>
+<br clear="all" />
+
 <h2>Fitbit Edge In-Depth Review</h2>
 <a name="story-25526"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeGPtEFGufkc%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Fitbit Edge is a fitness tracker featuring a 1.34-inch AMOLED display, a physical side button, and an altimeter. Key upgrades include automatic workout detection for 100 sports, improved GPS accuracy, and a user-replaceable battery. While it adopts a modern user interface similar to the Pixel Watch 5, it removes Google Pay and the EDA scan feature.</p><p>Priced at $179, the device provides advanced health monitoring, including ECG, skin temperature sensing, and continuous stress monitoring. It supports fast charging, providing one day of battery from five minutes of charge, and offers various band options. Detailed data analysis and health metrics are managed through the Google Health app.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-25312"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.cloudflare.steamstatic.com%2Fsteam%2Fapps%2F1009960%2Fss_36b5ed9d0c399bcf92bbd6d72d5e744e15624553.1920x1080.jpg%3Ft%3D1642955845&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Project Hedra is an open-world, low-poly 3D role-playing game paired with a custom game engine built completely from scratch. It features procedurally generated infinite worlds, quest systems, character classes, skill trees, and a modern OpenGL rendering pipeline.</p><p>Developed initially by maxilevi while in high school to learn computer graphics, the codebase spans approximately 100,000 lines of C#. The custom engine incorporates advanced technical features including runtime shader reloading, IronPython-based modding support, custom memory allocators to minimize garbage collection, and an entity component system.</p>
 <p><small>Links: <a href="https://github.com/maxilevi/project-hedra/tree/pre-ai">github.com</a> | <a href="https://github.com/maxilevi/project-hedra">source</a> | <a href="https://news.ycombinator.com/item?id=50199389">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Valve Developer Accidentally Mentions HLX Codename at GameSoundCon Panel</h2>
-<a name="story-25307"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2Febb935_3035b9e3c9dc450e8e4dcabdd2cb1ec7~mv2.jpg%2Fv1%2Ffill%2Fw_1200%2Ch_628%2Cal_c%2Febb935_3035b9e3c9dc450e8e4dcabdd2cb1ec7~mv2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Valve composer and audio artist Mike Morasky inadvertently mentioned the rumored "HLX" codename during a GameSoundCon panel while discussing high-dynamic-range audio. Fellow panelist and Valve sound designer David Feise immediately responded with a sarcastic remark about the slip-up, providing fresh fodder for fans tracking the long-rumored franchise continuation.</p><p>While Valve has not officially announced any project following 2020's Half-Life: Alyx, the public mention has re-energized community speculation and datamining efforts. Observers note that recent internal code commits suggest active development at the studio, though an official announcement or release window has not been provided.</p>
-<p><small>Links: <a href="https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/">arstechnica.com</a> | <a href="https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/#comments">discussion</a></small></p>
 <br clear="all" />
 
 ---

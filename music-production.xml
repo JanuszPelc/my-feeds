@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-27T16:10:00+00:00</updated>
+  <updated>2026-10-27T16:14:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Native Instruments Releases Massive XL Software Synthesizer</title>
+    <link href="https://musictech.com/news/gear/native-instruments-massive-xl-everything-you-need-to-know/" rel="alternate" />
+    <id>https://musictech.com/news/gear/native-instruments-massive-xl-everything-you-need-to-know/::v240</id>
+    <published>2026-10-27T16:14:00+00:00</published>
+    <updated>2026-10-27T16:14:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdt7v1i9vyp3mf.cloudfront.net%2Fstyles%2Fnews_large%2Fs3%2Fimagelibrary%2Fn%2Fni1wavetables-A3hv1PC37K6tLyNSEihcxOx4V3pSH0cG.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/native-instruments-massive-xl-everything-you-need-to-know/">musictech.com</a> | <a href="https://www.native-instruments.com/products/massive-xl">source</a></small></p><hr/><p>Native Instruments has released Massive XL, a new flagship software synthesizer and the direct successor to Massive X. The plugin introduces advanced sound design tools, including an audio-to-patch Preset Generator, stem separation, similarity-aware wavetable mutations, and a redesigned modulation environment.</p><p>Building upon the semi-modular architecture and character of the original 2006 instrument, Massive XL incorporates over 100 new wavetables and integrated effects such as Raum and Replika. Available at an introductory price through December 2026, the release represents the first major product launch for Native Instruments following its acquisition by InMusic.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdt7v1i9vyp3mf.cloudfront.net%2Fstyles%2Fnews_large%2Fs3%2Fimagelibrary%2Fn%2Fni1wavetables-A3hv1PC37K6tLyNSEihcxOx4V3pSH0cG.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 19:14 UTC | #25576</small>]]></content>
+  </entry>
   <entry>
     <title>Image-Line Releases FL Studio Mobile 5 Update</title>
     <link href="https://musictech.com/news/gear/fl-studio-mobile-5-update/" rel="alternate" />

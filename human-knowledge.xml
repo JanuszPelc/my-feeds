@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-27T11:17:00+00:00</updated>
+  <updated>2026-10-27T16:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>David Harvey Discusses Recently Proposed Sub-O(n log n) Integer Multiplication Algorithm</title>
+    <link href="https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf" rel="alternate" />
+    <id>https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf::v240</id>
+    <published>2026-10-27T16:12:00+00:00</published>
+    <updated>2026-10-27T16:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage.slideserve.com%2F1427678%2Finteger-multiplication-mit-notes-and-wikipedia1-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf">web.maths.unsw.edu.au</a> | <a href="https://news.ycombinator.com/item?id=50190455">hacker news</a></small></p><hr/><p>Mathematician David Harvey has published a commentary examining a recently proposed integer multiplication algorithm that claims a complexity of o(n log n) bit operations. The analysis offers perspective on the new complexity claim and its relation to established theoretical limits in computational mathematics.</p><p>The discussion follows earlier milestones in the field, including Harvey and Joris van der Hoeven's 2019 algorithm achieving O(n log n) bit operations, which confirmed a long-standing conjecture by Schönhage and Strassen. The newly proposed approach pushes past that established boundary into sub-O(n log n) territory, prompting careful scrutiny of its methods and assumptions.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slideserve.com%2F1427678%2Finteger-multiplication-mit-notes-and-wikipedia1-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 19:13 UTC | #25157</small>]]></content>
+  </entry>
   <entry>
     <title>Reflective Atmosphere Discovered on Lava Planet TOI-561 b</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261026225603.htm" rel="alternate" />
