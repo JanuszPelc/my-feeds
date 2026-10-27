@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Daniel Kochmański Details Improvements to Number Hashing and Hash Tables in ECL</h2>
+<a name="story-25579"><img src="https://wsrv.nl/?url=https%3A%2F%2Fturtleware.eu%2Fposts%2Fsxhash-equalp-files%2Fcherry-picking.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Daniel Kochmański details the redesign of hash tables, hash functions, and number hashing under the EQUALP predicate in Embeddable Common-Lisp (ECL). The post outlines the challenges of consistent numeric hashing across the Common Lisp numeric tower, where mathematically equivalent numbers across different representations must produce identical hash values.</p><p>The optimization journey progresses from a simple baseline using lossy float conversions to a refined intermediate design, and finally to a compact dyadic rational tuple representation scheme. This evolution eliminates unnecessary object allocation, avoids precision loss for large floats and ratios, significantly reduces hash collisions, and yields dramatic performance gains in benchmark comparisons against other Common Lisp implementations.</p>
+<p><small>Links: <a href="https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html">turtleware.eu</a> | <a href="https://lobste.rs/s/0ta2mv/heavenly_delights_hashing_numbers_under">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Orestis Ioannou on How AI Coding Agents Increased His Workload</h2>
 <a name="story-25575"><img src="https://wsrv.nl/?url=https%3A%2F%2Foioannou.com%2Fimg%2Fai-working-more%2Fcontributions-per-month.svg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Full-stack engineer and tech executive Orestis Ioannou analyzes his GitHub contribution history to examine how adopting parallel AI coding agents significantly increased his workload rather than reducing it. Despite transitioning to leadership roles with less direct coding responsibility, utilizing multiple agents concurrently allowed him to pursue vastly more projects, returning his output to peak engineering levels.</p><p>The analysis highlights that low-cost implementation drives continuous cycles of intense coding bursts, context-switching fatigue, and burnout, while elevating baseline activity during quieter periods. Ioannou notes that while AI makes turning ideas into reality easier, human cognitive capacity for managing parallel workflows has not scaled at the same rate.</p>
@@ -86,12 +92,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25482"><img src="https://wsrv.nl/?url=https%3A%2F%2Fv3.wails.io%2Fassets%2Fscreenshots%2Fwails3-setup-wizard-dark.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Wails v3.0.0 has been released, providing a framework for Go developers to build native desktop applications using web frontend technologies through platform-native WebViews. The new major version shifts from the single-window, context-driven model of v2 to an explicit object-based architecture that natively supports multiple windows, system trays, native menus, and generated bindings from ordinary Go code.</p><p>Migrating from v2 requires code updates due to changes in application lifecycles and runtime APIs, though v2 will continue to receive critical updates alongside the new v3 release. Moving forward, the project plans to adopt a release schedule featuring nightly pre-releases and weekly minor updates, with mobile support for iOS and Android remaining experimental.</p>
 <p><small>Links: <a href="https://v3.wails.io/blog/wails-v3-released/">v3.wails.io</a> | <a href="https://lobste.rs/s/vgq0mf/wails_v3_0_0_released">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Akku.scm 1.2.0 Released</h2>
-<a name="story-25476"><img src="https://wsrv.nl/?url=https%3A%2F%2Fscm-manager.org%2Fstatic%2Fac51535fedbbec67a284764ae353ee43%2F2e694%2Foverview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Akku.scm version 1.2.0, a language package manager for R6RS and R7RS Scheme, is now generally available. The release features a critical fix for the dependency solver, resolving performance issues triggered by bugs within multiple versions of the chez-srfi package.</p><p>Designed as a project-based package manager, Akku maintains isolated dependency sets per project and configures environment variables through .akku/env. It includes automatic conversion from R7RS define-library forms to R6RS format to support implementations like Chez Scheme, as well as access to R7RS packages sourced from the Snow package manager.</p>
-<p><small>Links: <a href="https://weinholt.se/articles/akku-scm-1-2-0/">weinholt.se</a> | <a href="https://gitlab.com/akkuscm/akku/-/releases">source</a> | <a href="https://lobste.rs/s/twdnpy/akku_scm_1_2_0_released">discussion</a></small></p>
 <br clear="all" />
 
 ---

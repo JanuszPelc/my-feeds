@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-27T11:09:00+00:00</updated>
+  <updated>2026-10-27T11:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Daniel Kochmański Details Improvements to Number Hashing and Hash Tables in ECL</title>
+    <link href="https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html" rel="alternate" />
+    <id>https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html::v240</id>
+    <published>2026-10-27T11:12:00+00:00</published>
+    <updated>2026-10-27T11:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fturtleware.eu%2Fposts%2Fsxhash-equalp-files%2Fcherry-picking.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html">turtleware.eu</a> | <a href="https://lobste.rs/s/0ta2mv/heavenly_delights_hashing_numbers_under">discussion</a></small></p><hr/><p>Daniel Kochmański details the redesign of hash tables, hash functions, and number hashing under the EQUALP predicate in Embeddable Common-Lisp (ECL). The post outlines the challenges of consistent numeric hashing across the Common Lisp numeric tower, where mathematically equivalent numbers across different representations must produce identical hash values.</p><p>The optimization journey progresses from a simple baseline using lossy float conversions to a refined intermediate design, and finally to a compact dyadic rational tuple representation scheme. This evolution eliminates unnecessary object allocation, avoids precision loss for large floats and ratios, significantly reduces hash collisions, and yields dramatic performance gains in benchmark comparisons against other Common Lisp implementations.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fturtleware.eu%2Fposts%2Fsxhash-equalp-files%2Fcherry-picking.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 14:46 UTC | #25579</small>]]></content>
+  </entry>
   <entry>
     <title>Orestis Ioannou on How AI Coding Agents Increased His Workload</title>
     <link href="https://oioannou.com/blog/ai-promised-less-work/" rel="alternate" />
@@ -642,14 +651,5 @@
     <updated>2026-10-22T15:48:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffiles.facepunch.com%2Fpaddy%2F20240502%2Frust_recyclers_safezone_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://claytonwramsey.com/blog/dumpster/">claytonwramsey.com</a> | <a href="https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023">discussion</a></small></p><hr/><p>Developer Clayton Ramsey has built and released "dumpster," a cycle-tracking garbage collection library designed for Rust. The crate extends standard reference-counted pointer mechanisms like `Rc` and `Arc` with a custom cycle-detection algorithm, enabling automatic memory management and cleanup for self-referential data structures.</p><p>Implementing the collector required solving several structural hurdles imposed by Rust's memory model, including undetectable moves, variable-sized types, and type erasure. To achieve practical performance, the library employs a visitor pattern for reference graph traversal, bulk-dropping to prevent recursive overhead, and an amortized dirty-set structure that handles potentially unreachable allocations efficiently in both single-threaded and concurrent contexts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.facepunch.com%2Fpaddy%2F20240502%2Frust_recyclers_safezone_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Oct 2026, 21:47 UTC | #25179</small>]]></content>
-  </entry>
-  <entry>
-    <title>Garmin Revamps and Reopens Connect Developer API Program With New Tiers</title>
-    <link href="https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html" rel="alternate" />
-    <id>https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html::v240</id>
-    <published>2026-10-22T14:40:00+00:00</published>
-    <updated>2026-10-22T14:40:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.dcrainmaker.com%2Fimages%2F2026%2F10%2FIMG_4483.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html">dcrainmaker.com</a> | <a href="https://lobste.rs/s/nbd1cs/garmin_revamps_opens_up_connect">discussion</a></small></p><hr/><p>Garmin has reopened its Connect Developer API program after a seven-month closure triggered by an overwhelming influx of automated application submissions. The revamped program introduces a three-tiered access structure consisting of Personal, Startup, and Enterprise levels to better accommodate developers ranging from individual hobbyists to large-scale commercial platforms.</p><p>Under the new framework, the Personal and Startup tiers provide free, near-instant access to user activity data and .FIT files for up to 1,000 users, while the Enterprise tier introduces a commercial fee structure based on monthly active users alongside technical support and historical data backfills. Existing partners are automatically transitioned to the Enterprise tier, with commercial pricing negotiations set to take effect by April 2027.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.dcrainmaker.com%2Fimages%2F2026%2F10%2FIMG_4483.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Oct 2026, 20:04 UTC | #25166</small>]]></content>
   </entry>
 </feed>
