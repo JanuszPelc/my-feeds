@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Analysis of Contabo Web Crawler Log Files Reveals Structured Traversal Patterns</h2>
+<a name="story-25586"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbruceediger.com%2Fimages%2Fcontabo_requests.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Bruce Ediger examines Apache server log files from his "Scraper Junkyard" experiment—consisting of over one million generated web pages—to confirm and characterize a centrally controlled web crawler operating out of Contabo GmbH cloud provider IP addresses.</p><p>The investigation details consistent request rates, concurrent binary tree rank traversals, and distinct request series that do not match standard crawler simulation models, providing insight into the mechanics of automated web crawling.</p>
+<p><small>Links: <a href="https://bruceediger.com/posts/contabo-crawler/">bruceediger.com</a> | <a href="https://lobste.rs/s/eyrbup/web_page_crawler_revealed_tracking_down">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Open3DLab Reports Roblox Scraper Downloaded 145 GB of Community 3D Models</h2>
 <a name="story-25570"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpreview.free3d.com%2Fimg%2F2015%2F06%2F2206023501305873745%2Fkpjijuti.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In mid-October 2026, a web crawler identified with Roblox research downloaded 145.5 GB of 3D models across 712 projects from Open3DLab and its sister sites, SFMLab and SmutBase. The scraping script ignored robots.txt instructions, terms of service, and non-commercial creator licenses while gathering data for what operators suspect is 3D foundation model training.</p><p>The downloads included significant volumes of explicit adult content from SmutBase and SFMLab, raising concerns about safety filters and data hygiene for generative AI tools used on platforms with minor users. Open3DLab stated that Roblox failed to respond to multiple inquiries regarding the automated collection, underscoring ongoing tensions over unauthorized web scraping by major technology companies.</p>
@@ -91,10 +97,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <p>Apple has opened applications for its Security Research Device Program, providing approved researchers with a specially fused iPhone designed to facilitate iOS security analysis without requiring hardware bypasses. Participants receive the device as a 12-month renewable loan, granting them shell access, custom kernel capabilities, and specialized tooling for vulnerability discovery across most iOS components.</p><p>The program is open to vetted security researchers who meet eligibility criteria, with applications accepted through October 30, 2026. Findings discovered using the device are automatically considered for the Apple Security Bounty, though participants must adhere to strict guidelines requiring the hardware to remain secured on their premises and used exclusively for authorized research.</p>
 <p><small>Links: <a href="https://security.apple.com/research-device/">security.apple.com</a> | <a href="https://news.ycombinator.com/item?id=50217903">hacker news</a></small></p>
 <br clear="all" />
-
-<h2>Samsung Tizen TV Software Found Running TensorFlow Lite Model for Game Recognition</h2>
-<p>Security researcher @mike64_t discovered that Samsung's Tizen smart TV operating system runs a TensorFlow Lite model in the background every few seconds to analyze user activity. The system captures screen data in an apparent effort to determine what game is currently being played.</p><p>The background process utilizes a model file named alex.tflite, which implements the AlexNet deep learning architecture with INT8 quantization on 960x540 resolution images. This automated content recognition mechanism highlights ongoing background telemetry operating on live consumer televisions.</p>
-<p><small>Links: <a href="https://twitter.com/mike64_t/status/2114150399406202896">twitter.com</a> | <a href="https://news.ycombinator.com/item?id=50230181">hacker news</a></small></p>
 
 ---
 
