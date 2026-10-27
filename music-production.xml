@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-27T17:12:00+00:00</updated>
+  <updated>2026-10-27T18:32:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>ADAM Audio Launches H715 Reference Open-Back Headphones</title>
+    <link href="https://musictech.com/news/gear/adam-audio-h715-reference-headphones/" rel="alternate" />
+    <id>https://musictech.com/news/gear/adam-audio-h715-reference-headphones/::v240</id>
+    <published>2026-10-27T18:32:00+00:00</published>
+    <updated>2026-10-27T18:32:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FADAM-Audio-H715-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/adam-audio-h715-reference-headphones/">musictech.com</a> | <a href="https://www.adam-audio.com/en/headphones/h715-reference/">source</a></small></p><hr/><p>ADAM Audio has introduced its flagship H715 Reference open-back headphones, designed for professional mixing and mastering environments. The headphones feature custom 40mm titanium-plated PEN dynamic drivers with a patent-pending ventilation system, and come bundled with Sonnox Headphone Utility calibration software and the ListenHub virtual monitoring application.</p><p>Priced at £569.99 / $824.99 / €669.99 with shipping expected in December 2026, the model includes a modular design with replaceable cables, earpads, and headband padding. A dedicated Hi-Fi mode can also be engaged via a recessed switch inside the earcup to support balanced amplifier connections for home listening.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FADAM-Audio-H715-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 21:55 UTC | #25595</small>]]></content>
+  </entry>
   <entry>
     <title>Art DSP Releases Canvas 2.0 3D Visual Mixing Plugin</title>
     <link href="https://musictech.com/news/gear/art-dsp-canvas-2/" rel="alternate" />
@@ -419,14 +428,5 @@
     <updated>2026-10-23T01:04:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcolorfield-mix-stage-ui-stage-106.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/vitric-audio-releases-colorfield-mix-stage---depth-and-room-placement-plugin-with-six-rooms-69323?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69323">kvraudio.com</a> | <a href="https://vitricaudio.com/colorfield">source</a></small></p><hr/><p>Vitric Audio has released Colorfield Mix Stage, a depth and room placement audio plugin designed for Windows and macOS. The plugin operates by placing multiple track instances onto a single shared virtual stage within one of six selectable acoustic environments, including a tracking room, drum room, club, echo chamber, loft, and concert hall.</p><p>Adjusting a track's depth simultaneously alters its level, direct-to-room balance, early reflections, and high-frequency air loss to maintain spatial consistency across the mix. Additional features include a collision-detection list with one-click resolution suggestions, Level Lock to preserve loudness during movement, zero added latency, and a companion Stage application for exporting processed stems.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fcolorfield-mix-stage-ui-stage-106.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Oct 2026, 11:24 UTC | #25216</small>]]></content>
-  </entry>
-  <entry>
-    <title>Sonuscore Releases LUX Orchestral Brass Library</title>
-    <link href="https://www.kvraudio.com/news/sonuscore-releases-lux-orchestral-brass---kontakt-library-with-auto-divisi-and-adaptive-articulations-69338?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69338" rel="alternate" />
-    <id>https://www.kvraudio.com/news/sonuscore-releases-lux-orchestral-brass---kontakt-library-with-auto-divisi-and-adaptive-articulations-69338?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69338::v240</id>
-    <published>2026-10-22T21:46:00+00:00</published>
-    <updated>2026-10-22T21:46:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flux-ob-auto-divisi-horns_tiny-2048x1276.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/sonuscore-releases-lux-orchestral-brass---kontakt-library-with-auto-divisi-and-adaptive-articulations-69338?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69338">kvraudio.com</a> | <a href="https://www.sonuscore.com/shop/lux-orchestral-brass/">source</a></small></p><hr/><p>Sonuscore has released LUX Orchestral Brass, a sample library for Native Instruments Kontakt Player designed for film scoring and orchestral composition. Recorded on the same scoring stage as LUX Orchestral Strings, the library features a complete symphonic brass section with up to six dynamic layers spanning from pianissimo to fortississimo.</p><p>The instrument includes true legato, polyphonic legato, adaptive articulation patches, and an Auto Divisi feature that automatically distributes incoming MIDI notes across section players. It also provides an Ensemble Instrument with intelligent note selection, six adjustable microphone perspectives including bleed channels, and support for polyphonic aftertouch and customizable keyswitches.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Flux-ob-auto-divisi-horns_tiny-2048x1276.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Oct 2026, 02:50 UTC | #25183</small>]]></content>
   </entry>
 </feed>

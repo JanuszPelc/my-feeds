@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>ADAM Audio Launches H715 Reference Open-Back Headphones</h2>
+<a name="story-25595"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FADAM-Audio-H715-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>ADAM Audio has introduced its flagship H715 Reference open-back headphones, designed for professional mixing and mastering environments. The headphones feature custom 40mm titanium-plated PEN dynamic drivers with a patent-pending ventilation system, and come bundled with Sonnox Headphone Utility calibration software and the ListenHub virtual monitoring application.</p><p>Priced at £569.99 / $824.99 / €669.99 with shipping expected in December 2026, the model includes a modular design with replaceable cables, earpads, and headband padding. A dedicated Hi-Fi mode can also be engaged via a recessed switch inside the earcup to support balanced amplifier connections for home listening.</p>
+<p><small>Links: <a href="https://musictech.com/news/gear/adam-audio-h715-reference-headphones/">musictech.com</a> | <a href="https://www.adam-audio.com/en/headphones/h715-reference/">source</a></small></p>
+<br clear="all" />
+
 <h2>Art DSP Releases Canvas 2.0 3D Visual Mixing Plugin</h2>
 <a name="story-25590"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FCanvas-2-her%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Art DSP has released Canvas 2.0, a visual mixing plugin for macOS and Windows that allows producers to position audio tracks as movable objects within a virtual three-dimensional room. The software maps stereo positioning left-to-right, frequency content vertically, and volume along the forward-backward axis, letting users adjust their mix directly inside the 3D environment rather than relying strictly on standard mixer controls.</p><p>The plugin includes spectral sidechaining, a built-in EQ editor, integrated reverb control, and one-click mixing templates to process entire tracks. Canvas 2.0 is available now for $79 or through a rent-to-own plan, with plugin formats supporting VST3, AAX, and AU.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25512"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnews-thumbnail.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Expetri has released its self-titled experimental software synthesizer for macOS in VST3 and AU formats. The plugin approaches sound design through the metaphor of a chemistry experiment, allowing users to grow sound cells in a virtual petri dish rather than manually adjusting traditional synthesis parameters.</p><p>The interface lets users interact with sound cells by stirring the dish, adding or removing elements with a pipette, and applying effect liquids from flasks. The software is available in both a free tier and a full version priced at an introductory $9.99, with rare cell generation reserved for the paid release.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/expetri-experimental-software-synthesizer-released-au-and-vst3-69350?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69350">kvraudio.com</a> | <a href="https://expetri.com/">source</a></small></p>
-<br clear="all" />
-
-<h2>Igor Vasiliev Releases HollowTone Ambient Audio Instrument for iOS and macOS</h2>
-<a name="story-25503"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fipad-screenshot-3-01-landscape-ipad-1024x768.1792409766.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Igor Vasiliev has released HollowTone, a procedural audio instrument designed for iOS and macOS that generates deep ambient soundscapes, shifting textures, and immersive atmospheric environments. Rather than functioning as a traditional synthesizer or loop player, the app uses intuitive gestures to let users shape continuous audio atmospheres.</p><p>Priced at $9.99, HollowTone is available for purchase on the App Store. The instrument is intended to provide users with tools for creating tension, calm, or exploratory sound design without fixed musical paths or rules.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/igor-vasiliev-releases-hollowtone---deep-ambient-worlds-for-ios-and-macos-69216?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69216">kvraudio.com</a> | <a href="https://apps.apple.com/app/hollowtone/id6762177498">source</a></small></p>
 <br clear="all" />
 
 ---

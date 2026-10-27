@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-27T18:29:00+00:00</updated>
+  <updated>2026-10-27T18:47:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Anna Liberty Publishes Reflection on Four Months of Zig Development</title>
+    <link href="https://gracefulliberty.com/articles/four-months-of-zig/" rel="alternate" />
+    <id>https://gracefulliberty.com/articles/four-months-of-zig/::v240</id>
+    <published>2026-10-27T18:47:00+00:00</published>
+    <updated>2026-10-27T18:47:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F5e0f1144930a8bc8aace526c%2F67c85a8aae0ba12a07892870_ziglang.org-08b804c7ddbdabc8b4bd3a878589399c-2025-03-05.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://gracefulliberty.com/articles/four-months-of-zig/">gracefulliberty.com</a> | <a href="https://lobste.rs/s/qr59sa/four_months_zig">discussion</a> | <a href="https://news.ycombinator.com/item?id=50265128">hacker news</a></small></p><hr/><p>Developer Anna Liberty shares her experiences and evaluations after returning to the Zig programming language for four months, contrasting it with her previous preferred language, Rust. During this period, she built several small projects—including a smallnet library named snurl—and attended a local Zig Day meetup in Seattle featuring language creator Andrew Kelley.</p><p>Liberty highlights several features she appreciates in Zig, such as explicit allocators, compile-time metaprogramming, the build system, minimal dependency culture, and fast incremental compilation. Conversely, she notes ongoing challenges including ecosystem instability, sparse documentation, limited lifetime support in the compiler, and the lack of compile-time allocators.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F5e0f1144930a8bc8aace526c%2F67c85a8aae0ba12a07892870_ziglang.org-08b804c7ddbdabc8b4bd3a878589399c-2025-03-05.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 21:55 UTC | #25620</small>]]></content>
+  </entry>
   <entry>
     <title>Hylke Bons to Design GNOME-Style Emoji Set for Pidgin Live on Twitch</title>
     <link href="https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch" rel="alternate" />
