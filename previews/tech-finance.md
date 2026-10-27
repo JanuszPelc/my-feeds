@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>RedotPay Preparing Confidential US IPO Filing by Year-End</h2>
+<p>Hong Kong-based RedotPay is considering a confidential application for a U.S. initial public offering by the end of the year. The stablecoin payments firm is also in talks for a pre-IPO funding round that could value the company between $4 billion and $5 billion.</p><p>The move follows previous delays involving regulatory and legal discussions. The potential listing reflects sustained investor interest in the cryptocurrency payments sector.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/redotpay-said-to-prepare-confidential-ipo-filing-by-year-end">bloomberg.com</a></small></p>
+
 <h2>Nevis Raises $70 Million Series B Funding for Wealth Management AI Platform</h2>
 <p>Nevis, a New York-based wealth management technology startup founded by former Revolut executives, has raised $70 million in a Series B funding round led by EQT Ventures. The round brings the company's total funding to $110 million and values it at $500 million, with participation from new investors including Charles Schwab Corporation and QuantumLight.</p><p>The company provides artificial intelligence software designed to automate routine administrative tasks and paperwork for financial advisors. Nevis plans to use the fresh capital to expand its platform's capabilities as the wealth management industry faces a projected shortage of advisors driven by retirements and a major generational wealth transfer.</p>
 <p><small>Links: <a href="https://fortune.com/2026/10/26/former-revolut-execs-70-million-financial-advisor-shortage/">fortune.com</a> | <a href="https://www.businesswire.com/news/home/20261026161240/en/Nevis-Raises-70-Million-Series-B-to-Grow-its-AI-Operating-System-for-Wealth-Management">source</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Taler Operations AG Founded to Operate GNU Taler in Germany</h2>
 <p>Taler Operations AG is being established in Bochum, Germany, to operate the privacy-focused GNU Taler payment system in Euros. The newly formed company will apply to BaFin, the German financial supervisory authority, for an electronic money institution licence after the project's initial banking partner, GLS Bank, decided not to pursue the role.</p><p>GNU Taler remains free and open-source software, with the new corporate entity focusing strictly on managing the regulated payment infrastructure. To satisfy regulatory capital mandates and fund operations prior to revenue generation, Taler Operations AG is currently seeking investments of at least €50,000 from backers aligned with the project's privacy and public-interest goals.</p>
 <p><small>Links: <a href="https://www.taler.net/en/news/2026-13.html">taler.net</a> | <a href="https://news.ycombinator.com/item?id=50197404">hacker news</a></small></p>
-
-<h2>Andreessen Horowitz Rebrands a16z Crypto to a16z Frontier</h2>
-<p>Andreessen Horowitz has rebranded its digital assets division, a16z Crypto, to a16z Frontier. The rebranding expands the mandate of its $2.2 billion fund to include artificial intelligence, robotics, and other emerging technologies alongside its existing blockchain focus.</p><p>Managing partner Chris Dixon stated the shift reflects the blurring distinction between crypto-native companies and other technology sectors. While the firm will continue to support crypto startups and advocate for regulation, the expansion aligns with recent strategic shifts by other prominent investors such as Paradigm and Haun Ventures.</p>
-<p><small>Links: <a href="https://fortune.com/2026/10/22/venture-giant-andreessen-horowitz-crypto-name-blockchain-fund-rebrands-a16z-frontier/">fortune.com</a> | <a href="https://a16zfrontier.com/posts/article/a16z-frontier">source</a></small></p>
 
 ---
 
