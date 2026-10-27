@@ -3,9 +3,27 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-27T16:52:00+00:00</updated>
+  <updated>2026-10-27T17:03:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Jake Voytko Examines Historical Software Reliability and Nostalgia</title>
+    <link href="https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/" rel="alternate" />
+    <id>https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/::v240</id>
+    <published>2026-10-27T17:03:00+00:00</published>
+    <updated>2026-10-27T17:03:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.bitlog.com%2Fmedia%2Ffecabf30-3bef-42c9-98d7-337657a2f509%2Fv2%2F640.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/">bitlog.com</a> | <a href="https://news.ycombinator.com/item?id=50257548">hacker news</a></small></p><hr/><p>Software engineer Jake Voytko challenges common nostalgia surrounding historical software quality, arguing that consumer applications and operating systems from the 1990s and 2000s were significantly less stable and more frustrating than modern software. He contends that while contemporary development faces distinct productivity and complexity challenges, past eras suffered from severe foundational unreliability.</p><p>The essay highlights pervasive historical issues including frequent Blue Screen of Death crashes, the absence of automated saves leading to lost work, unmanaged disk fragmentation, widespread malware exposure, and severe memory constraints. Voytko concludes that despite current software bloat, modern advancements like process isolation, automated updates, and higher-level programming languages make today's computing environment vastly superior.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bitlog.com%2Fmedia%2Ffecabf30-3bef-42c9-98d7-337657a2f509%2Fv2%2F640.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 20:05 UTC | #25612</small>]]></content>
+  </entry>
+  <entry>
+    <title>Astral Releases tar-codec Tar Parser for Rust</title>
+    <link href="https://astral.sh/blog/tar-codec" rel="alternate" />
+    <id>https://astral.sh/blog/tar-codec::v240</id>
+    <published>2026-10-27T17:02:00+00:00</published>
+    <updated>2026-10-27T17:02:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQGOebIIGLn3jQ%2Ffeedshare-shrink_800%2FB4EZyDNIl5JcAg-%2F0%2F1771727785254%3Fe%3D2147483647%26v%3Dbeta%26t%3DvdJVZFsU3pCZAVxPK1jssJStxnG9hwapdb9N-_-5D2w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://astral.sh/blog/tar-codec">astral.sh</a> | <a href="https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem">discussion</a> | <a href="https://news.ycombinator.com/item?id=50261992">hacker news</a></small></p><hr/><p>Astral has released tar-codec, a new tar encoding and decoding library written in Rust designed to provide high-performance archive handling. Starting with version 0.13, the Python package manager uv uses tar-codec as its default parser for source distributions, replacing the previous astral-tokio-tar implementation.</p><p>Developed from the ground up to address security concerns related to parser differentials—where different tools interpret the same archive in conflicting ways—tar-codec operates roughly twice as fast as its predecessor while eliminating vulnerabilities inherent in older, more lenient tar parsers. The library carefully navigates the complex evolution of tar formats, including V7, UStar, pax, and GNU variants, to enforce strict, secure extraction and parsing standards.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQGOebIIGLn3jQ%2Ffeedshare-shrink_800%2FB4EZyDNIl5JcAg-%2F0%2F1771727785254%3Fe%3D2147483647%26v%3Dbeta%26t%3DvdJVZFsU3pCZAVxPK1jssJStxnG9hwapdb9N-_-5D2w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 20:05 UTC | #25609</small>]]></content>
+  </entry>
   <entry>
     <title>Ghostty 1.4.0 Released With Complete Kitty Graphics Support and Performance Improvements</title>
     <link href="https://ghostty.org/docs/install/release-notes/1-4-0" rel="alternate" />

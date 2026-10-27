@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-27T16:56:00+00:00</updated>
+  <updated>2026-10-27T17:01:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Meta AI Director Rohit Patel Departs to Launch Startup Ndoc</title>
+    <link href="https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/::v240</id>
+    <published>2026-10-27T17:01:00+00:00</published>
+    <updated>2026-10-27T17:01:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpreview.redd.it%2Fstability-ai-general-counsel-hr-chief-depart-from-startup-v0-mw70aw8v9owb1.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D7eafd60fb9f2878f7856626b5cb1e093fee32c0e&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/">techcrunch.com</a> | <a href="https://ndoc.ai/">source</a></small></p><hr/><p>Rohit Patel has left his position as a director at Meta Superintelligence Labs after eight years to launch Ndoc, an AI-native workspace startup designed to replace Microsoft Office and Google Workspace. Ndoc integrates presentations, narrative analyses, and underlying Python code repositories into a single platform intended to make AI-generated corporate documents verifiable and fully transparent.</p><p>The platform is organized into three distinct tabs—Stage, Narrative, and Model—allowing users to examine the underlying datasets and scripts behind generated spreadsheets and slide decks. Operating with a small team and relying on a mixture of open-source models, Patel has opened an alpha waitlist and enterprise pilot, positioning the tool against competing enterprise AI offerings from major technology companies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpreview.redd.it%2Fstability-ai-general-counsel-hr-chief-depart-from-startup-v0-mw70aw8v9owb1.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D7eafd60fb9f2878f7856626b5cb1e093fee32c0e&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 20:04 UTC | #25587</small>]]></content>
+  </entry>
   <entry>
     <title>Coalition for Language Equity in AI Research Publishes Study on Non-English AI Tokenizer Costs</title>
     <link href="https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/" rel="alternate" />
