@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-26T19:57:00+00:00</updated>
+  <updated>2026-10-26T22:04:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Apple Releases iOS 27.2 and iPadOS 27.2</title>
+    <link href="https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2/" rel="alternate" />
+    <id>https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2/::v240</id>
+    <published>2026-10-26T22:04:00+00:00</published>
+    <updated>2026-10-26T22:04:00+00:00</updated>
+    <media:thumbnail url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ig0MkTQjDsCE/v0/1200x630.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2/">macrumors.com</a> | <a href="https://www.apple.com/nz/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/">source</a></small></p><hr/><p>Apple has released iOS 27.2 and iPadOS 27.2, expanding Siri AI support to French, Japanese, Korean, Portuguese, and Spanish. The update also introduces Apple TV profiles, new branding for Apple Music, and AI-driven suggestions in Messages that facilitate quick actions in apps like Calendar and Reminders.</p><p>Additional features include SynthID watermarking in Photos to identify AI-generated or modified content, expanded Shared Albums, and FaceTime support for third-party sign language interpreters. The software is available for all compatible devices, including the iPhone Duo and the new OLED iPad mini.</p><p><img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ig0MkTQjDsCE/v0/1200x630.jpg" /></p><hr/><small>27 Oct 2026, 02:34 UTC | #25515</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Responds to Reports of iPhone Duo Inner Display Cracking</title>
     <link href="https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/" rel="alternate" />

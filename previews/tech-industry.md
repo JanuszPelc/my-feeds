@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Anthropic&#x27;s S-1 Filing Reveals Unconventional Governance Structure</h2>
+<p>Anthropic's S-1 filing for its proposed initial public offering outlines a governance structure that Matt Levine describes as resembling a mission-driven worker cooperative. The draft prospectus includes specific share classes and governance mechanisms that depart from traditional public company models.</p><p>The filing arrives as the AI company prepares for a highly anticipated stock market debut. Observers are analyzing how the company's Public Benefit Corporation (PBC) status and specific governance rules will influence the balance between mission-driven objectives and shareholder profit maximization.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/opinion/newsletters/2026-10-26/anthropic-raises-concerns">bloomberg.com</a> | <a href="https://www.anthropic.com/news/s1-sec">source</a> | <a href="https://news.ycombinator.com/item?id=50242957">hacker news</a></small></p>
+
 <h2>Proton to Re-Interview Staff on AI Usage to Determine Continued Employment</h2>
 <p>Proton has announced "re-interviews" for employees regarding their use of artificial intelligence, a process that may determine continued employment. Internal emails obtained by 404 Media indicate the assessments will inform talent reviews and could result in changes to roles, responsibilities, or employment status.</p><p>The initiative follows CEO Andy Yen's push to integrate AI into company products, such as the Lumo chatbot. The interviews, scheduled for November 4–11, will be conducted by leaders from outside the employees' immediate reporting lines to identify staff capable of translating AI capabilities into improved product execution and new workflows.</p>
 <p><small>Links: <a href="https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=50251062">hacker news</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>Anthropic Files S-1 Registration Statement For Proposed Initial Public Offering</h2>
 <p>Anthropic has filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission for a proposed initial public offering of its Class A common stock. The public disclosure of the prospectus follows the company's earlier confidential review phase with regulators.</p><p>The offering marks a major milestone for the artificial intelligence company as it transitions toward becoming a publicly traded entity. Market participants and analysts have closely monitored the progression of the IPO process amidst broader industry developments in AI sector funding and scaling.</p>
 <p><small>Links: <a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm">sec.gov</a> | <a href="https://www.anthropic.com/news/s1-sec">source</a> | <a href="https://news.ycombinator.com/item?id=50242939">hacker news</a></small></p>
-
-<h2>India&#x27;s Chip Design Startups Struggle With Commercialization Hurdles</h2>
-<p>Propelled by government backing, India's chip design startups are approaching commercial production, but they face significant obstacles in achieving competitive pricing. Capital constraints, extended development cycles, and low order volumes hinder their ability to scale efficiently.</p><p>These manufacturing and supply chain hurdles threaten to impede the country's broader ambitions to establish a robust domestic semiconductor ecosystem. Without higher production volumes to reduce per-unit fabrication costs, startups struggle to secure a sustainable footing in global markets.</p>
-<p><small>Links: <a href="https://asia.nikkei.com/business/tech/semiconductors/india-s-chip-design-startups-struggle-with-final-commercial-hurdle">asia.nikkei.com</a></small></p>
 
 ---
 

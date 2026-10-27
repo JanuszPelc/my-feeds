@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Apple Releases iOS 27.2 and iPadOS 27.2</h2>
+<p>Apple has released iOS 27.2 and iPadOS 27.2, expanding Siri AI support to French, Japanese, Korean, Portuguese, and Spanish. The update also introduces Apple TV profiles, new branding for Apple Music, and AI-driven suggestions in Messages that facilitate quick actions in apps like Calendar and Reminders.</p><p>Additional features include SynthID watermarking in Photos to identify AI-generated or modified content, expanded Shared Albums, and FaceTime support for third-party sign language interpreters. The software is available for all compatible devices, including the iPhone Duo and the new OLED iPad mini.</p>
+<p><small>Links: <a href="https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2/">macrumors.com</a> | <a href="https://www.apple.com/nz/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/">source</a></small></p>
+
 <h2>Apple Responds to Reports of iPhone Duo Inner Display Cracking</h2>
 <p>Apple has acknowledged reports that a small number of iPhone Duo units are experiencing inner display cracks along the center hinge line shortly after purchase. In a statement, the company advised affected users to contact AppleCare directly to arrange a replacement device.</p><p>The issue surfaced on social media platforms over the weekend, accompanied by both legitimate user complaints and some fabricated AI-generated images. Teardowns and analysis from repair advocates suggest that certain internal components may be applying excessive pressure to the flexible screen.</p>
 <p><small>Links: <a href="https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/">9to5mac.com</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <h2>Xbox Chief Operating Officer Helen Chiang Departs</h2>
 <p>Helen Chiang is leaving Microsoft after serving just a few months as Xbox's first chief operating officer, a position she assumed in July following a 21-year tenure leading the Minecraft franchise. Her departure was announced via a brief internal memo from Xbox CEO Asha Sharma, with her responsibilities temporarily distributed among other division leaders.</p><p>The role was originally created as part of a major organizational reset at Xbox that included widespread workforce reductions. Microsoft has declined to comment on the specific circumstances of her exit as the gaming division faces reports of further anticipated layoffs.</p>
 <p><small>Links: <a href="https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure">theverge.com</a></small></p>
-
-<h2>GameMaker to Make GMRT Runtime Free for Commercial Use in 2027</h2>
-<p>Starting January 1, 2027, developers can distribute games on PC, mobile, web, and GX Games for free using the GMRT runtime. This update removes the requirement for a professional license for these specific platforms.</p><p>Developers targeting consoles—including PlayStation 5, Xbox Series X|S, or Nintendo Switch 2—will still require an enterprise license. The move is part of a strategy to make indie game development more accessible.</p>
-<p><small>Links: <a href="https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs">gamedeveloper.com</a> | <a href="https://gamemaker.io/en/blog/gmrt-update">source</a></small></p>
 
 ---
 
