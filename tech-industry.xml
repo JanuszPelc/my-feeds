@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-27T14:22:00+00:00</updated>
+  <updated>2026-10-27T18:30:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Imperial College London Spinout Machenta Raises $40 Million Seed Round</title>
+    <link href="https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10" rel="alternate" />
+    <id>https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10::v240</id>
+    <published>2026-10-27T18:30:00+00:00</published>
+    <updated>2026-10-27T18:30:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fautonomous-robot-precisely-planting-seeds-orderly-rows-smart-agriculture_38013-74796.jpg%3Fw%3D1060&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.businessinsider.com/this-11-person-startup-raised-40-million-train-robots-virtual-worlds-2026-10">businessinsider.com</a> | <a href="https://www.imperial.ac.uk/news/articles/2026/imperial-ai-spinout-machenta-raises-40-million-to-make-robots-instant-learners/">source</a></small></p><hr/><p>London-based robotics startup Machenta has raised $40 million in a seed funding round to develop an artificial intelligence model designed to teach robots new physical tasks from a single demonstration. Founded by researchers from Imperial College London, the company aims to enable rapid robot learning without relying on the extensive real-world data collection methods used by competitors.</p><p>The emerging startup is entering a competitive market for adaptable robot intelligence, focusing on virtual-world training methodologies to build its robot foundation models. The substantial seed investment highlights growing investor interest in alternative approaches to scaling robotic capabilities and accelerating task acquisition.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fautonomous-robot-precisely-planting-seeds-orderly-rows-smart-agriculture_38013-74796.jpg%3Fw%3D1060&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 21:43 UTC | #25580</small>]]></content>
+  </entry>
   <entry>
     <title>Marissa Mayer Criticized for Comments on Gender and AI in New York Times Interview</title>
     <link href="https://www.404media.co/marissa-mayer-nyt-interview/" rel="alternate" />
