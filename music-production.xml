@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-27T14:12:00+00:00</updated>
+  <updated>2026-10-27T14:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Kaitlyn Aurelia Smith Discusses Modular Synths and Sound Creation on My Forever Studio Podcast</title>
+    <link href="https://musictech.com/shows/podcasts/my-forever-studio/my-forever-studio-kaitlyn-aurelia-smith/" rel="alternate" />
+    <id>https://musictech.com/shows/podcasts/my-forever-studio/my-forever-studio-kaitlyn-aurelia-smith/::v240</id>
+    <published>2026-10-27T14:15:00+00:00</published>
+    <updated>2026-10-27T14:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fs8-ep7-kas-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/shows/podcasts/my-forever-studio/my-forever-studio-kaitlyn-aurelia-smith/">musictech.com</a></small></p><hr/><p>Electronic musician, composer, and producer Kaitlyn Aurelia Smith is featured on an episode of the My Forever Studio podcast, discussing her intricate approach to sound creation. She explores how her early experiences with a Buchla 100 synthesizer shaped her production style, her use of synaesthesia to translate sound into physical sensations, and her recent shift toward darker, club-oriented music.</p><p>Hosted by Chris Barker and Will Betts in partnership with Audient, the podcast challenges artists to curate a fantasy studio using a strict limit of creative items without bundles. Smith's appearance provides insight into her modular synthesis techniques, her past collaborations with Suzanne Ciani and Emile Mosseri, and her ongoing exploration of tactile sound design.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fs8-ep7-kas-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 17:34 UTC | #25549</small>]]></content>
+  </entry>
   <entry>
     <title>Scaler Music Offers Scaler Detector Plugin for Free</title>
     <link href="https://bedroomproducersblog.com/2026/10/27/scaler-detector-free/" rel="alternate" />

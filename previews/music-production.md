@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Kaitlyn Aurelia Smith Discusses Modular Synths and Sound Creation on My Forever Studio Podcast</h2>
+<a name="story-25549"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fs8-ep7-kas-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Electronic musician, composer, and producer Kaitlyn Aurelia Smith is featured on an episode of the My Forever Studio podcast, discussing her intricate approach to sound creation. She explores how her early experiences with a Buchla 100 synthesizer shaped her production style, her use of synaesthesia to translate sound into physical sensations, and her recent shift toward darker, club-oriented music.</p><p>Hosted by Chris Barker and Will Betts in partnership with Audient, the podcast challenges artists to curate a fantasy studio using a strict limit of creative items without bundles. Smith's appearance provides insight into her modular synthesis techniques, her past collaborations with Suzanne Ciani and Emile Mosseri, and her ongoing exploration of tactile sound design.</p>
+<p><small>Links: <a href="https://musictech.com/shows/podcasts/my-forever-studio/my-forever-studio-kaitlyn-aurelia-smith/">musictech.com</a></small></p>
+<br clear="all" />
+
 <h2>Scaler Music Offers Scaler Detector Plugin for Free</h2>
 <a name="story-25562"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2FScaler-Music-Launches-Scaler-Detector-Plugin-Free-for-Scaler-3-Owners-2048x1072.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Scaler Music is offering its Scaler Detector key and chord detection plugin for macOS and Windows for free until December 7, 2026. The tool is designed to identify musical keys, scales, and chords from real-time audio and MIDI input or from imported audio and MIDI files.</p><p>Available in standalone, VST3, AU, and AAX formats, the software provides harmonic analysis for music production and songwriting workflows. The plugin supports both live performance detection and drag-and-file analysis to help producers quickly determine underlying musical structures.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25306"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.neowin.com%2Fnews%2Fimages%2Fuploaded%2F2023%2F11%2F1699807063_obs_studio_hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>OBS Studio 33.0.0 is now available, featuring a major upgrade to the underlying Chromium Embedded Framework from version 127 to 150 and a complete restructuring of plugin loading directories. The release also enables NVENC hardware encoding on Arm64 platforms, integrates updated NVIDIA Broadcast SDKs, and refines preview source snapping behaviors.</p><p>Developer-focused updates include higher minimum toolchain requirements such as Visual Studio 2026 and Windows SDK 26100, alongside the removal of support for Ubuntu 24.04, Qt versions 6.4 through 6.9, and FFmpeg 6.x and 7.x. The update additionally resolves multiple stability issues, including platform-specific crashes on macOS and Linux, and improves hybrid MP4 and MOV file splitting.</p>
 <p><small>Links: <a href="https://github.com/obsproject/obs-studio/releases/tag/33.0.0">github.com</a> | <a href="https://news.ycombinator.com/item?id=50218430">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>SampleRoll Offers SHFT, DRFT, and FLTR Effects Bundle at Discounted Price</h2>
-<a name="story-25297"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsixthsample.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAll-Plugins-Bundle-Menu-Img.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>SampleRoll has introduced a discounted bundle featuring three of its audio effects plugins: SHFT, DRFT, and FLTR. The bundle combines rhythmic gating, VHS-style tape degradation, and playable filtering for macOS and Windows systems.</p><p>Normally priced at $147 combined, the package is available for a limited time at $59, with additional promotional codes lowering the cost further. The promotion runs through October 31, 2026, encompassing the developer's complete trio of audio processors designed for sound design and production workflows.</p>
-<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/24/sampleroll-bundle/">bedroomproducersblog.com</a></small></p>
 <br clear="all" />
 
 ---
