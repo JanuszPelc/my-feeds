@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-27T11:12:00+00:00</updated>
+  <updated>2026-10-27T11:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Gforth 1.0 Release Notes and User-Visible Changes</title>
+    <link href="https://gforth.org/manual/1.0/NEWS.html" rel="alternate" />
+    <id>https://gforth.org/manual/1.0/NEWS.html::v240</id>
+    <published>2026-10-27T11:19:00+00:00</published>
+    <updated>2026-10-27T11:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Farduino-forth.com%2Farticles%2Fimages%2FFORTH%2Flearn%2FparOuCommencer%2FlancementGforth.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://gforth.org/manual/1.0/NEWS.html">gforth.org</a> | <a href="https://lobste.rs/s/bgpsuu/gforth_1_0">discussion</a> | <a href="https://news.ycombinator.com/item?id=50256952">hacker news</a></small></p><hr/><p>Gforth 1.0 introduces substantial updates and new features compared to version 0.7.x, including enhanced text interpreter capabilities with custom recognizers, built-in multi-tasking support across multiple cores or hardware threads, and documented stability goals for core vocabulary. The release also adds advanced IDE features, smart stack inspection, and expanded literal representations for source code.</p><p>Performance optimizations, such as IP-update improvements and literal stack caching, bring execution speeds comparable to SwiftForth. Additional enhancements include a redesigned word header layout, closures, C interface support with callbacks, multi-section dictionary capabilities, and an extensive collection of new words for string manipulation, memory access, and localization.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Farduino-forth.com%2Farticles%2Fimages%2FFORTH%2Flearn%2FparOuCommencer%2FlancementGforth.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 15:49 UTC | #25589</small>]]></content>
+  </entry>
   <entry>
     <title>Daniel Kochmański Details Improvements to Number Hashing and Hash Tables in ECL</title>
     <link href="https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html" rel="alternate" />
@@ -642,14 +651,5 @@
     <updated>2026-10-22T17:36:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2Ff498e7dc68cf208c78ff6d20f2ac055a2a3d4dfb%2F2-Figure1-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://bernsteinbear.com/blog/object-shapes/">bernsteinbear.com</a> | <a href="https://lobste.rs/s/8rkyrl/objects_attributes_maps_oh_my">discussion</a> | <a href="https://news.ycombinator.com/item?id=50197692">hacker news</a></small></p><hr/><p>Max Bernstein examines how dynamic programming language runtimes optimize attribute lookups and storage using object shapes, hidden classes, and inline caches. By building on a simplified object model from CF Bolz-Tereick's work, the post walks through replacing slow hash-table lookups with structured maps and integer offsets.</p><p>The article demonstrates how inline caches leverage immutable map pointers to turn string-based property lookups into fast array indexing operations. It also explores the relationship between classes and shapes, highlighting how shared layouts can improve cache hit rates while presenting trade-offs for virtual machine implementors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2Ff498e7dc68cf208c78ff6d20f2ac055a2a3d4dfb%2F2-Figure1-1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Oct 2026, 22:27 UTC | #25182</small>]]></content>
-  </entry>
-  <entry>
-    <title>Clayton Ramsey Develops Dumpster Cycle-Tracking Garbage Collector for Rust</title>
-    <link href="https://claytonwramsey.com/blog/dumpster/" rel="alternate" />
-    <id>https://claytonwramsey.com/blog/dumpster/::v240</id>
-    <published>2026-10-22T15:48:00+00:00</published>
-    <updated>2026-10-22T15:48:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ffiles.facepunch.com%2Fpaddy%2F20240502%2Frust_recyclers_safezone_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://claytonwramsey.com/blog/dumpster/">claytonwramsey.com</a> | <a href="https://lobste.rs/s/ju4q1u/i_built_garbage_collector_for_rust_2023">discussion</a></small></p><hr/><p>Developer Clayton Ramsey has built and released "dumpster," a cycle-tracking garbage collection library designed for Rust. The crate extends standard reference-counted pointer mechanisms like `Rc` and `Arc` with a custom cycle-detection algorithm, enabling automatic memory management and cleanup for self-referential data structures.</p><p>Implementing the collector required solving several structural hurdles imposed by Rust's memory model, including undetectable moves, variable-sized types, and type erasure. To achieve practical performance, the library employs a visitor pattern for reference graph traversal, bulk-dropping to prevent recursive overhead, and an amortized dirty-set structure that handles potentially unreachable allocations efficiently in both single-threaded and concurrent contexts.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ffiles.facepunch.com%2Fpaddy%2F20240502%2Frust_recyclers_safezone_01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>22 Oct 2026, 21:47 UTC | #25179</small>]]></content>
   </entry>
 </feed>
