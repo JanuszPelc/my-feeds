@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-27T11:13:00+00:00</updated>
+  <updated>2026-10-27T11:17:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Reflective Atmosphere Discovered on Lava Planet TOI-561 b</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261026225603.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261026225603.htm::v240</id>
+    <published>2026-10-27T11:17:00+00:00</published>
+    <updated>2026-10-27T11:17:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fspacetoday.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2FJAMESWEBBTOI_01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261026225603.htm">sciencedaily.com</a> | <a href="https://www.birmingham.ac.uk/news/2026/shiny-lava-planet-challenges-astronomers-expectations">source</a></small></p><hr/><p>Observations using the James Webb Space Telescope indicate that the ultra-hot rocky exoplanet TOI-561 b is surrounded by a substantial atmosphere containing reflective silicate clouds. Researchers monitored the planet over 37 hours and found that it reflects approximately 75 percent of incoming starlight while redistributing heat toward its nightside.</p><p>The findings challenge current theories suggesting that heavily irradiated lava planets should have lost their atmospheres billions of years ago. Scientists are investigating whether the atmosphere is continuously replenished by gases escaping from a global magma ocean, with future observations aimed at determining its exact chemical composition.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fspacetoday.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2FJAMESWEBBTOI_01.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 15:35 UTC | #25550</small>]]></content>
+  </entry>
   <entry>
     <title>Center for Astrophysics Researchers Unveil Lumina Simulation of Early Universe</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261026225600.htm" rel="alternate" />
