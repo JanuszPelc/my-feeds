@@ -3,9 +3,18 @@
   <title>human-life</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml</id>
-  <updated>2026-10-27T02:06:00+00:00</updated>
+  <updated>2026-10-27T14:18:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-life.png?v=85-75-50</logo>
+  <entry>
+    <title>Ellia Lebleu Discusses Wikipedia's Ongoing Cleanup of AI-Generated Content</title>
+    <link href="https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup" rel="alternate" />
+    <id>https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup::v240</id>
+    <published>2026-10-27T14:18:00+00:00</published>
+    <updated>2026-10-27T14:18:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fdown-id.img.susercontent.com%2Ffile%2Fid-11134207-7qul0-lg20jwjg48s790&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup">spectrum.ieee.org</a> | <a href="https://news.ycombinator.com/item?id=50257326">hacker news</a></small></p><hr/><p>In an interview with IEEE Spectrum, WikiProject AI Cleanup founding member Ellia Lebleu discusses the volunteer efforts launched in late 2023 to detect and remove artificial intelligence-generated material from Wikipedia. Lebleu notes that while early AI content was marked by glaring clichés and predictable structures, modern machine-generated submissions have become increasingly subtle, often featuring faulty citations and nuanced rhetorical patterns.</p><p>Despite the English Wikipedia's policy prohibiting large language models for content generation, volunteers estimate that AI text still accounts for a notable percentage of new drafts and submissions. The project relies on developing detection tools, automated verifiers, and coordination with the Wikimedia Foundation, raising broader questions about maintaining Wikipedia as a uniquely human-written corpus in an era dominated by generative AI.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fdown-id.img.susercontent.com%2Ffile%2Fid-11134207-7qul0-lg20jwjg48s790&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 17:47 UTC | #25600</small>]]></content>
+  </entry>
   <entry>
     <title>OpenAI Updates ChatGPT to Force Cartoon Style on Sensitive Election Images</title>
     <link href="https://www.cnet.com/tech/services-and-software/openai-chatgpt-political-deepfakes-defense-midterm-elections/" rel="alternate" />
@@ -102,14 +111,5 @@
     <updated>2026-10-15T19:16:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHCr-rTWagAA9Wyd.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/">techcrunch.com</a> | <a href="https://www.anthropic.com/news/an-update-on-independent-evaluators">source</a> | <a href="https://news.ycombinator.com/item?id=50107114">hacker news</a></small></p><hr/><p>Anthropic has provided six researchers from the nonprofit METR with employee-level access to its internal tools, systems, and office space. This arrangement enables the group to independently evaluate model safety and risk management with a level of access comparable to the company's own internal risk assessment teams.</p><p>The arrangement follows several high-profile incidents involving AI agents acting outside of instructions and aligns with a broader movement toward independent oversight in the AI sector. METR's access—which Anthropic compares to resident bank examiners—allows the group to publish findings without the company's prior approval, subject to narrow redactions for sensitive data like customer information or proprietary model architectures.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FHCr-rTWagAA9Wyd.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>16 Oct 2026, 00:23 UTC | #24446</small>]]></content>
-  </entry>
-  <entry>
-    <title>Dwarkesh Patel Discusses AI Safety and the Hugging Face Hack</title>
-    <link href="https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html" rel="alternate" />
-    <id>https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html::v239</id>
-    <published>2026-10-15T16:13:00+00:00</published>
-    <updated>2026-10-15T16:13:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstaticfiles.acronis.com%2Fimages%2Fcontent%2Fb6f28a9140e91c28ddac3dc6ac2c6d41.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html">nytimes.com</a></small></p><hr/><p>Dwarkesh Patel discusses AGI, the current atmosphere in San Francisco's tech scene, and the security implications of recent hacking incidents. He addresses concerns regarding autonomous AI agents and the risks associated with the rapid pace of frontier model development.</p><p>Industry responses to security breaches include reported adjustments to development and testing cycles at major AI laboratories. The conversation also covers the geopolitical competition surrounding AI and the intersection of rapid innovation with government regulation.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstaticfiles.acronis.com%2Fimages%2Fcontent%2Fb6f28a9140e91c28ddac3dc6ac2c6d41.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>15 Oct 2026, 20:32 UTC | #24396</small>]]></content>
   </entry>
 </feed>
