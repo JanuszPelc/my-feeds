@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Python Experimental JIT Compiler to Be Removed From CPython Main</h2>
+<p>Python's experimental just-in-time compiler, introduced in CPython 3.13, is set to be removed from the main branch following the withdrawal of PEP 836. The Python steering council had previously paused JIT development in June, giving maintainers a six-month deadline to produce a standards-track proposal addressing maintenance commitments, compatibility, and security concerns.</p><p>Although the authors drafted PEP 836 in response, they ultimately withdrew the proposal after facing extensive steering council feedback and citing a lack of personal bandwidth. Consequently, development on the project has ended in the main repository, leaving its future entirely dependent on whether external contributors decide to pick it up elsewhere.</p>
+<p><small>Links: <a href="https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/">lwn.net</a> | <a href="https://discuss.python.org/t/pep-836-jit-go-brrr-the-path-to-a-supported-jit-compiler-for-cpython/108010">source</a> | <a href="https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed">discussion</a></small></p>
+
 <h2>WHIP Protocol Enables High-Quality Screensharing via OBS and FFmpeg</h2>
 <p>The WebRTC-HTTP Ingestion Protocol (WHIP) allows users to stream video directly from OBS and FFmpeg into video conferencing applications. This method provides manual control over resolution, frame rate, bitrate, and codecs, bypassing the automated encoding limitations of browser-based screensharing.</p><p>This approach enables users to optimize streams for specific hardware and network conditions. By adopting these open standards, users can avoid the blurry video quality common to many proprietary conferencing clients.</p>
 <p><small>Links: <a href="https://shittyscreenshare.com">shittyscreenshare.com</a> | <a href="https://obsproject.com/kb/whip-streaming-guide">source</a> | <a href="https://lobste.rs/s/cxxcik/shitty_screenshare">discussion</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Keybytes Modular Keyboard Project Introduced</h2>
 <p>Keybytes is an open-source, fully modular mechanical keyboard project where every individual key functions as its own rearrangeable 1u printed circuit board. Developed by NotARoomba, the system allows keys to be linked together in arbitrary configurations using magnetic cases and pogo pins on all four sides for power and I2C communication.</p><p>Each key module incorporates a CH32V003 RISC-V microcontroller to process inputs, while a central two-layer main board features an STM32WB55RGV6 microcontroller supporting Bluetooth and USB connectivity. The hardware also includes battery charging circuitry, a buck-boost converter, and 2MB of QSPI flash storage, with all design files, schematics, and CAD models published on GitHub.</p>
 <p><small>Links: <a href="https://github.com/notaroomba/keybytes">github.com</a> | <a href="https://news.ycombinator.com/item?id=50228115">hacker news</a></small></p>
-
-<h2>Arthur O’Dwyer Examines Fixits and Suppression Mechanisms in Compiler Warnings</h2>
-<p>Arthur O’Dwyer explores two peripheral aspects of compiler diagnostic design: machine-readable fixits that prescribe treatments and suppression mechanisms used to silence warnings. He analyzes how compilers navigate the tension between changing code behavior to match likely programmer intent and preserving existing behavior.</p><p>O’Dwyer highlights that while some compilers offer both treatment and suppression options for ambiguous constructs, they often struggle with distinguishing typographical errors from deliberate code. He argues that diagnostic warning systems should employ relative rules evaluating the degree of syntactic ornamentation rather than absolute rules based on isolated patterns.</p>
-<p><small>Links: <a href="https://quuxplusone.github.io/blog/2020/09/02/wparentheses/">quuxplusone.github.io</a> | <a href="https://lobste.rs/s/kfaimp/two_musings_on_design_compiler_warnings">discussion</a></small></p>
 
 ---
 

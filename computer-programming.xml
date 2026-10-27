@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-27T00:13:00+00:00</updated>
+  <updated>2026-10-27T06:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Python Experimental JIT Compiler to Be Removed From CPython Main</title>
+    <link href="https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/" rel="alternate" />
+    <id>https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/::v240</id>
+    <published>2026-10-27T06:21:00+00:00</published>
+    <updated>2026-10-27T06:21:00+00:00</updated>
+    <media:thumbnail url="https://us1.discourse-cdn.com/flex002/uploads/python1/original/3X/c/0/c0c5a5f9604f8cd940edd96b519842e80794208d.png" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/">lwn.net</a> | <a href="https://discuss.python.org/t/pep-836-jit-go-brrr-the-path-to-a-supported-jit-compiler-for-cpython/108010">source</a> | <a href="https://lobste.rs/s/cajuq6/python_s_experimental_jit_be_removed">discussion</a></small></p><hr/><p>Python's experimental just-in-time compiler, introduced in CPython 3.13, is set to be removed from the main branch following the withdrawal of PEP 836. The Python steering council had previously paused JIT development in June, giving maintainers a six-month deadline to produce a standards-track proposal addressing maintenance commitments, compatibility, and security concerns.</p><p>Although the authors drafted PEP 836 in response, they ultimately withdrew the proposal after facing extensive steering council feedback and citing a lack of personal bandwidth. Consequently, development on the project has ended in the main repository, leaving its future entirely dependent on whether external contributors decide to pick it up elsewhere.</p><p><img src="https://us1.discourse-cdn.com/flex002/uploads/python1/original/3X/c/0/c0c5a5f9604f8cd940edd96b519842e80794208d.png" /></p><hr/><small>27 Oct 2026, 10:28 UTC | #25542</small>]]></content>
+  </entry>
   <entry>
     <title>WHIP Protocol Enables High-Quality Screensharing via OBS and FFmpeg</title>
     <link href="https://shittyscreenshare.com" rel="alternate" />
