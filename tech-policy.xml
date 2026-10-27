@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-27T14:07:00+00:00</updated>
+  <updated>2026-10-27T14:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Alibaba Wins Challenge Against Pentagon Military Blacklist</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-27/alibaba-wins-challenge-to-pentagon-s-chinese-army-blacklisting" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-27/alibaba-wins-challenge-to-pentagon-s-chinese-army-blacklisting::v240</id>
+    <published>2026-10-27T14:11:00+00:00</published>
+    <updated>2026-10-27T14:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA26rkbQ.img%3Fw%3D3968%26h%3D2645%26m%3D4%26q%3D84&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/alibaba-wins-challenge-to-pentagon-s-chinese-army-blacklisting">bloomberg.com</a></small></p><hr/><p>Alibaba Group Holding Ltd. has won a US court ruling challenging its designation on a Department of Defense blacklist that identifies the company as a supporter of the Chinese military. The legal victory blocks restrictions that prohibited the Pentagon from doing business with firms lobbying for the e-commerce giant.</p><p>The Department of Defense added Alibaba to its roster of Chinese military companies under Section 1260H, a key tool used by Washington in its strategic rivalry with China. The lawsuit highlights the growing legal pushback from major Chinese technology firms targeted by US regulatory actions and export controls.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA26rkbQ.img%3Fw%3D3968%26h%3D2645%26m%3D4%26q%3D84&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 17:08 UTC | #25541</small>]]></content>
+  </entry>
   <entry>
     <title>Senators Accuse Trump Administration of Withholding FISA Court Ruling on Section 702</title>
     <link href="https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/" rel="alternate" />

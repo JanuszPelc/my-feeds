@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Scaler Music Offers Scaler Detector Plugin for Free</h2>
+<a name="story-25562"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2FScaler-Music-Launches-Scaler-Detector-Plugin-Free-for-Scaler-3-Owners-2048x1072.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Scaler Music is offering its Scaler Detector key and chord detection plugin for macOS and Windows for free until December 7, 2026. The tool is designed to identify musical keys, scales, and chords from real-time audio and MIDI input or from imported audio and MIDI files.</p><p>Available in standalone, VST3, AU, and AAX formats, the software provides harmonic analysis for music production and songwriting workflows. The plugin supports both live performance detection and drag-and-file analysis to help producers quickly determine underlying musical structures.</p>
+<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/27/scaler-detector-free/">bedroomproducersblog.com</a> | <a href="https://scalermusic.com/products/scaler-detector/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/27/scaler-detector-free/#comments">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Fangtooth Instruments Releases Baikonur 4 Sample-Based Synth</h2>
 <a name="story-25563"><img src="https://wsrv.nl/?url=https%3A%2F%2Fweproject.media%2Fupload%2Fmedialibrary%2F53d%2F1v6n5vzl6pipxekn4fwbizkkxay5w9j8.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Fangtooth Instruments is offering Baikonur 4, a sample-based virtual instrument built from multi-channel recordings of the SOMA Lyra-8 analog drone synthesizer. Developed by Jeff Davis, the instrument is designed for atmospheric drones, sci-fi tension, and horror cinematic scoring, utilizing direct hardware captures rather than software modeling.</p><p>Users can further manipulate and reshape the raw analog source material using the instrument's integrated modulation, filtering, and effects parameters. The plugin is currently available at a discounted promotional price through November 1.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25297"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsixthsample.com%2Fwp-content%2Fuploads%2F2025%2F11%2FAll-Plugins-Bundle-Menu-Img.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>SampleRoll has introduced a discounted bundle featuring three of its audio effects plugins: SHFT, DRFT, and FLTR. The bundle combines rhythmic gating, VHS-style tape degradation, and playable filtering for macOS and Windows systems.</p><p>Normally priced at $147 combined, the package is available for a limited time at $59, with additional promotional codes lowering the cost further. The promotion runs through October 31, 2026, encompassing the developer's complete trio of audio processors designed for sound design and production workflows.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/24/sampleroll-bundle/">bedroomproducersblog.com</a></small></p>
-<br clear="all" />
-
-<h2>Morningdew Media Releases MorningDAW Free Digital Audio Workstation</h2>
-<a name="story-25291"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FHMgci7bGz77KTLA8qBp8sY.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Morningdew Media has released MorningDAW, a free digital audio workstation designed for macOS, Windows, and Linux. Created by Mattias and Nicklas Holmgren, the software supports multi-track recording, arranging, sampling, mixing, mastering, and pattern or tracker programming.</p><p>The DAW offers flexible viewing modes, including a piano roll, score page for sheet music, step patterns, and a classic tracker interface, alongside built-in virtual instruments and third-party plugin support. It is available for personal, educational, and commercial use with no time limits or licensing fees.</p>
-<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/24/morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux/">bedroomproducersblog.com</a> | <a href="https://www.morningdewmedia.com/morningdaw-free-daw-macos-windows/">source</a> | <a href="https://bedroomproducersblog.com/2026/10/24/morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux/#comments">discussion</a></small></p>
 <br clear="all" />
 
 ---
