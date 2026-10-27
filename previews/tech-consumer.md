@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Apple Responds to Reports of iPhone Duo Inner Display Cracking</h2>
+<p>Apple has acknowledged reports that a small number of iPhone Duo units are experiencing inner display cracks along the center hinge line shortly after purchase. In a statement, the company advised affected users to contact AppleCare directly to arrange a replacement device.</p><p>The issue surfaced on social media platforms over the weekend, accompanied by both legitimate user complaints and some fabricated AI-generated images. Teardowns and analysis from repair advocates suggest that certain internal components may be applying excessive pressure to the flexible screen.</p>
+<p><small>Links: <a href="https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/">9to5mac.com</a></small></p>
+
 <h2>Xbox Reportedly Declined $500 Million Netflix Adaptation Deal</h2>
 <p>Microsoft reportedly turned down a $500 million offer from Netflix for seven years of exclusive rights to adapt its video game catalog, including franchises like Halo, Gears of War, and Fable. According to a report from Puck, Xbox executives countered with an $800 million asking price, leading Netflix to walk away from the negotiations.</p><p>The proposed agreement stalled following the departure of Netflix chief content officer Bela Bajaria, whose exit reduced internal support for continuing talks. While Netflix and Xbox continue to collaborate on specific projects like a Diablo television series, Microsoft has concurrently established a dedicated division named XP to manage its expanding portfolio of film and television adaptations.</p>
 <p><small>Links: <a href="https://www.gamedeveloper.com/business/xbox-reportedly-turned-down-a-500-million-deal-from-netflix-for-adapting-gaming-properties">gamedeveloper.com</a> | <a href="https://puck.news/newsletter_content/what-im-hearing-the-peter-rice-playbook-elons-skydance-motive/">source</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <h2>GameMaker to Make GMRT Runtime Free for Commercial Use in 2027</h2>
 <p>Starting January 1, 2027, developers can distribute games on PC, mobile, web, and GX Games for free using the GMRT runtime. This update removes the requirement for a professional license for these specific platforms.</p><p>Developers targeting consoles—including PlayStation 5, Xbox Series X|S, or Nintendo Switch 2—will still require an enterprise license. The move is part of a strategy to make indie game development more accessible.</p>
 <p><small>Links: <a href="https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs">gamedeveloper.com</a> | <a href="https://gamemaker.io/en/blog/gmrt-update">source</a></small></p>
-
-<h2>Isaac Marovitz Examines Unused Visual Features and Rendering Systems in Sonic 06</h2>
-<p>Developer Isaac Marovitz explores the technical reasons behind the downgraded visuals of Sonic the Hedgehog (2006), detailing how performance constraints during crunch led Sonic Team to disable advanced shaders, shadow map cascades, and point lights. Through work on the Marathon Recompiled project, the analysis reveals that many higher-fidelity visual assets and effects from beta builds remain dormant in the game files.</p><p>The article examines specific rendering limitations, such as the widespread reliance on rudimentary vertex-lit shaders like Billboard02, unoptimized point light counts that overload specific stages, and disabled real-time planar reflections in multiplayer modes. While some of these systems can be tweaked or stabilized via recompilation and patching, swapping core shader variants remains challenging due to complex material definitions and input layouts.</p>
-<p><small>Links: <a href="https://isaacmarovitz.com/posts/sonic-06/">isaacmarovitz.com</a> | <a href="https://lobste.rs/s/nb7wkp/many_many_missed_opportunities_sonic_06">discussion</a></small></p>
 
 ---
 
