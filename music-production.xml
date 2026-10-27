@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-27T14:15:00+00:00</updated>
+  <updated>2026-10-27T14:23:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Analog Obsession Releases TheMachine Free Vintage Tape Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/27/analog-obsession-the-machine/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/27/analog-obsession-the-machine/::v240</id>
+    <published>2026-10-27T14:23:00+00:00</published>
+    <updated>2026-10-27T14:23:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Feduardorabuske.com.br%2Fwp-content%2Fuploads%2F2025%2F06%2Fanalog-obsession-channev-1024x665.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/27/analog-obsession-the-machine/">bedroomproducersblog.com</a> | <a href="https://www.patreon.com/analogobsession/posts/themachine-173345538">source</a> | <a href="https://bedroomproducersblog.com/2026/10/27/analog-obsession-the-machine/#respond">discussion</a></small></p><hr/><p>Developer Analog Obsession has released TheMachine, a new vintage tube-driven tape machine plugin available as a free download for macOS and Windows. The audio effect includes gain-compensated input control, drive parameters, and analog emulation features designed to add warmth and character to mixes.</p><p>The plugin is distributed through the developer's Patreon page, following their standard release model where software remains accessible to users regardless of tier donations. It supports major digital audio workstation formats, expanding the creator's collection of free analog-style processors.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Feduardorabuske.com.br%2Fwp-content%2Fuploads%2F2025%2F06%2Fanalog-obsession-channev-1024x665.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 18:11 UTC | #25584</small>]]></content>
+  </entry>
   <entry>
     <title>Kaitlyn Aurelia Smith Discusses Modular Synths and Sound Creation on My Forever Studio Podcast</title>
     <link href="https://musictech.com/shows/podcasts/my-forever-studio/my-forever-studio-kaitlyn-aurelia-smith/" rel="alternate" />

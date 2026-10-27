@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Analog Obsession Releases TheMachine Free Vintage Tape Plugin</h2>
+<a name="story-25584"><img src="https://wsrv.nl/?url=https%3A%2F%2Feduardorabuske.com.br%2Fwp-content%2Fuploads%2F2025%2F06%2Fanalog-obsession-channev-1024x665.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer Analog Obsession has released TheMachine, a new vintage tube-driven tape machine plugin available as a free download for macOS and Windows. The audio effect includes gain-compensated input control, drive parameters, and analog emulation features designed to add warmth and character to mixes.</p><p>The plugin is distributed through the developer's Patreon page, following their standard release model where software remains accessible to users regardless of tier donations. It supports major digital audio workstation formats, expanding the creator's collection of free analog-style processors.</p>
+<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/27/analog-obsession-the-machine/">bedroomproducersblog.com</a> | <a href="https://www.patreon.com/analogobsession/posts/themachine-173345538">source</a> | <a href="https://bedroomproducersblog.com/2026/10/27/analog-obsession-the-machine/#respond">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Kaitlyn Aurelia Smith Discusses Modular Synths and Sound Creation on My Forever Studio Podcast</h2>
 <a name="story-25549"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2Fs8-ep7-kas-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Electronic musician, composer, and producer Kaitlyn Aurelia Smith is featured on an episode of the My Forever Studio podcast, discussing her intricate approach to sound creation. She explores how her early experiences with a Buchla 100 synthesizer shaped her production style, her use of synaesthesia to translate sound into physical sensations, and her recent shift toward darker, club-oriented music.</p><p>Hosted by Chris Barker and Will Betts in partnership with Audient, the podcast challenges artists to curate a fantasy studio using a strict limit of creative items without bundles. Smith's appearance provides insight into her modular synthesis techniques, her past collaborations with Suzanne Ciani and Emile Mosseri, and her ongoing exploration of tactile sound design.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25386"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fhumanizer-1-front-x2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Wide Blue Sound has released version 1.0.6 of Humanizer Pro, a MIDI effect plug-in designed to introduce realistic timing and velocity variations to digital tracks. Unlike standard humanizers that apply basic random adjustments, the plug-in models how human musicians naturally fluctuate and self-correct during a performance.</p><p>The latest update introduces experimental support for Windows on Arm systems. Priced at an MSRP of $69, the software is compatible with macOS and Windows in VST3, AU, and AAX formats, and includes a dedicated Max for Live device.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/wide-blue-sound-updates-humanizer-pro-to-v1-0-6-midi-effect-that-models-how-real-players-play-69391?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69391">kvraudio.com</a> | <a href="https://www.widebluesound.com/humanizer/">source</a></small></p>
-<br clear="all" />
-
-<h2>OBS Studio 33.0.0 Released with Updated Browser Engine and Plugin Overhaul</h2>
-<a name="story-25306"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.neowin.com%2Fnews%2Fimages%2Fuploaded%2F2023%2F11%2F1699807063_obs_studio_hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OBS Studio 33.0.0 is now available, featuring a major upgrade to the underlying Chromium Embedded Framework from version 127 to 150 and a complete restructuring of plugin loading directories. The release also enables NVENC hardware encoding on Arm64 platforms, integrates updated NVIDIA Broadcast SDKs, and refines preview source snapping behaviors.</p><p>Developer-focused updates include higher minimum toolchain requirements such as Visual Studio 2026 and Windows SDK 26100, alongside the removal of support for Ubuntu 24.04, Qt versions 6.4 through 6.9, and FFmpeg 6.x and 7.x. The update additionally resolves multiple stability issues, including platform-specific crashes on macOS and Linux, and improves hybrid MP4 and MOV file splitting.</p>
-<p><small>Links: <a href="https://github.com/obsproject/obs-studio/releases/tag/33.0.0">github.com</a> | <a href="https://news.ycombinator.com/item?id=50218430">hacker news</a></small></p>
 <br clear="all" />
 
 ---

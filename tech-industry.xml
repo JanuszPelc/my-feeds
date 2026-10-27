@@ -3,9 +3,27 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-26T22:09:00+00:00</updated>
+  <updated>2026-10-27T14:22:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Marissa Mayer Criticized for Comments on Gender and AI in New York Times Interview</title>
+    <link href="https://www.404media.co/marissa-mayer-nyt-interview/" rel="alternate" />
+    <id>https://www.404media.co/marissa-mayer-nyt-interview/::v240</id>
+    <published>2026-10-27T14:22:00+00:00</published>
+    <updated>2026-10-27T14:22:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2FSan_Francisco_Chronicle_Archive_Image_23130584607860.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/marissa-mayer-nyt-interview/">404media.co</a> | <a href="https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html">source</a> | <a href="https://news.ycombinator.com/item?id=50246060">hacker news</a></small></p><hr/><p>Former Yahoo CEO Marissa Mayer faced widespread public criticism following a New York Times profile in which she promoted her new AI assistant, Dazzle, and dismissed the ongoing relevance of gender bias in the technology industry. During the interview, Mayer revealed she used her AI tool to generate descriptive qualities for her young daughter, while asserting that passion acts as a gender-neutralizing force that erases systemic barriers.</p><p>Observers and industry reports quickly contrasted Mayer's remarks with stark professional disparities, including lower funding levels for female-founded startups, high attrition rates among women in tech, and recent high-profile setbacks such as the cancellation of the Grace Hopper Celebration. The backlash also follows broader federal rollbacks of diversity programs and research grants that have disproportionately affected women and early-career researchers in STEM fields.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2FSan_Francisco_Chronicle_Archive_Image_23130584607860.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 18:11 UTC | #25564</small>]]></content>
+  </entry>
+  <entry>
+    <title>General Compute Raises $100 Million Series A at $800 Million Valuation</title>
+    <link href="https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/::v240</id>
+    <published>2026-10-27T14:20:00+00:00</published>
+    <updated>2026-10-27T14:20:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Ftheaiinsider.tech%2Fwp-content%2Fuploads%2F2026%2F01%2FScreenshot-2026-01-27-at-06.28.10-768x856.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/">techcrunch.com</a></small></p><hr/><p>General Compute has raised $100 million in a Series A funding round led by Blackbird Ventures and Abstract Ventures, bringing its post-money valuation to $800 million. The round was supported by a large customer deal worth $100 million in annual recurring revenue and follows a seed round that valued the company at $60 million.</p><p>The startup focuses on building cloud infrastructure using specialized inference chips from Nvidia competitors like SambaNova, Positron, and Cerebras, rather than traditional GPUs. By utilizing smaller power sources and converting former bitcoin-mining sites into AI data centers, General Compute aims to deploy 75 megawatts of computing capacity in 2027 while avoiding the complex hurdles of constructing new data centers from scratch.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheaiinsider.tech%2Fwp-content%2Fuploads%2F2026%2F01%2FScreenshot-2026-01-27-at-06.28.10-768x856.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 18:10 UTC | #25560</small>]]></content>
+  </entry>
   <entry>
     <title>Broadcom Arranges $63 Billion Financing Deal for Anthropic AI Chips</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-26/broadcom-arranges-63-billion-deal-to-finance-anthropic-s-chips" rel="alternate" />
