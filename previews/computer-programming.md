@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>WHIP Protocol Enables High-Quality Screensharing via OBS and FFmpeg</h2>
+<p>The WebRTC-HTTP Ingestion Protocol (WHIP) allows users to stream video directly from OBS and FFmpeg into video conferencing applications. This method provides manual control over resolution, frame rate, bitrate, and codecs, bypassing the automated encoding limitations of browser-based screensharing.</p><p>This approach enables users to optimize streams for specific hardware and network conditions. By adopting these open standards, users can avoid the blurry video quality common to many proprietary conferencing clients.</p>
+<p><small>Links: <a href="https://shittyscreenshare.com">shittyscreenshare.com</a> | <a href="https://obsproject.com/kb/whip-streaming-guide">source</a> | <a href="https://lobste.rs/s/cxxcik/shitty_screenshare">discussion</a></small></p>
+
 <h2>EPA Plans to Decommission Online Web Archive</h2>
 <p>The Environmental Protection Agency (EPA) intends to decommission its online web archive by the end of 2026, removing tens of thousands of environmental reports, policy changes, and regulatory actions from the web. The repository contains at least 20 years of historical data used for research and public oversight.</p><p>Environmental advocates and historians warn that losing the archive will eliminate an irreplaceable resource. While the agency has previously attempted to discontinue the service before reversing course following public backlash, critics argue that decommissioning the site will make historical records more difficult to access and increase the workload for the agency's Freedom of Information Act (FOIA) office.</p>
 <p><small>Links: <a href="https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/">motherjones.com</a> | <a href="https://archive.epa.gov/">source</a> | <a href="https://news.ycombinator.com/item?id=50249275">hacker news</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <h2>Arthur O’Dwyer Examines Fixits and Suppression Mechanisms in Compiler Warnings</h2>
 <p>Arthur O’Dwyer explores two peripheral aspects of compiler diagnostic design: machine-readable fixits that prescribe treatments and suppression mechanisms used to silence warnings. He analyzes how compilers navigate the tension between changing code behavior to match likely programmer intent and preserving existing behavior.</p><p>O’Dwyer highlights that while some compilers offer both treatment and suppression options for ambiguous constructs, they often struggle with distinguishing typographical errors from deliberate code. He argues that diagnostic warning systems should employ relative rules evaluating the degree of syntactic ornamentation rather than absolute rules based on isolated patterns.</p>
 <p><small>Links: <a href="https://quuxplusone.github.io/blog/2020/09/02/wparentheses/">quuxplusone.github.io</a> | <a href="https://lobste.rs/s/kfaimp/two_musings_on_design_compiler_warnings">discussion</a></small></p>
-
-<h2>OpenLDK: Java JIT Compiler and Runtime Written in Common Lisp</h2>
-<p>OpenLDK is a just-in-time compiler and runtime for Java implemented entirely in Common Lisp, enabling Java libraries, classes, and multiple JVM languages to run natively within SBCL. By translating Java bytecode into Lisp code on demand, it bridges the two ecosystems so that Java classes map to CLOS classes, methods participate in CLOS method combinations, and applications share a single in-process heap.</p><p>The project supports a wide range of JVM-hosted languages like Kotlin, Scala, Groovy, and Clojure, allowing mixed-language expressions to be evaluated together. Additionally, by utilizing warm image saving features to preserve initialized object graphs, OpenLDK can boot complex frameworks like Spring Boot in approximately 84 milliseconds.</p>
-<p><small>Links: <a href="https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/">atgreen.github.io</a> | <a href="https://github.com/atgreen/openldk">source</a> | <a href="https://lobste.rs/s/cf8mdy/openldk_bringing_java_world_into_common">discussion</a></small></p>
 
 ---
 
