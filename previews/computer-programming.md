@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
 ```
 
+<h2>Jan van den Berg Examines The Mythical Man-Month in the Age of AI</h2>
+<a name="story-25559"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsrc.n-ix.com%2Fuploads%2F2026%2F01%2F27%2F00141a6a-cf11-4727-b96d-89044facef3d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Software engineer Jan van den Berg reevaluates Frederick P. Brooks Jr.'s classic 1975 principle, Brooks's Law, to determine whether adding AI agents to a development project bypasses traditional scaling limits. While generative AI tools and LLMs eliminate human onboarding bottlenecks and coffee breaks, foundational software constraints persist.</p><p>Sequential tasks and the inherent limitations of dependency management remain unchanged, while overhead shifts from human coordination to agent orchestration. Deploying multiple autonomous agents without precise requirements and structured oversight only leads to conflicting code edits, proving that adding AI capacity to a flawed project accelerates failure.</p>
+<p><small>Links: <a href="https://j11g.com/the-mythical-man-month-in-the-age-of-ai">j11g.com</a> | <a href="https://news.ycombinator.com/item?id=50255298">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Microsoft Details Type Server Protocol Specification for Python Analysis</h2>
 <p>Microsoft has published the specification for the Type Server Protocol (TSP), a JSON-RPC protocol designed to handle Python analysis data and workspace type-analysis state. The protocol extends Language Server Protocol conventions, providing standardized mechanisms for version negotiation, snapshot management, import resolution, and fine-grained type queries.</p><p>The protocol features a connection model supporting an optional multi-connection mode for concurrent read-only tasks over IPC channels, alongside strict snapshot-bound type results and position conventions. Version history tracks incremental updates to request types and transport negotiation, establishing a structured interface for integrating type checkers into development environments.</p>
 <p><small>Links: <a href="https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md">github.com</a> | <a href="https://news.ycombinator.com/item?id=50248371">hacker news</a></small></p>
@@ -76,6 +82,18 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <a name="story-25482"><img src="https://wsrv.nl/?url=https%3A%2F%2Fv3.wails.io%2Fassets%2Fscreenshots%2Fwails3-setup-wizard-dark.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Wails v3.0.0 has been released, providing a framework for Go developers to build native desktop applications using web frontend technologies through platform-native WebViews. The new major version shifts from the single-window, context-driven model of v2 to an explicit object-based architecture that natively supports multiple windows, system trays, native menus, and generated bindings from ordinary Go code.</p><p>Migrating from v2 requires code updates due to changes in application lifecycles and runtime APIs, though v2 will continue to receive critical updates alongside the new v3 release. Moving forward, the project plans to adopt a release schedule featuring nightly pre-releases and weekly minor updates, with mobile support for iOS and Android remaining experimental.</p>
 <p><small>Links: <a href="https://v3.wails.io/blog/wails-v3-released/">v3.wails.io</a> | <a href="https://lobste.rs/s/vgq0mf/wails_v3_0_0_released">discussion</a></small></p>
+<br clear="all" />
+
+<h2>Akku.scm 1.2.0 Released</h2>
+<a name="story-25476"><img src="https://wsrv.nl/?url=https%3A%2F%2Fscm-manager.org%2Fstatic%2Fac51535fedbbec67a284764ae353ee43%2F2e694%2Foverview.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Akku.scm version 1.2.0, a language package manager for R6RS and R7RS Scheme, is now generally available. The release features a critical fix for the dependency solver, resolving performance issues triggered by bugs within multiple versions of the chez-srfi package.</p><p>Designed as a project-based package manager, Akku maintains isolated dependency sets per project and configures environment variables through .akku/env. It includes automatic conversion from R7RS define-library forms to R6RS format to support implementations like Chez Scheme, as well as access to R7RS packages sourced from the Snow package manager.</p>
+<p><small>Links: <a href="https://weinholt.se/articles/akku-scm-1-2-0/">weinholt.se</a> | <a href="https://gitlab.com/akkuscm/akku/-/releases">source</a> | <a href="https://lobste.rs/s/twdnpy/akku_scm_1_2_0_released">discussion</a></small></p>
+<br clear="all" />
+
+<h2>Brennen Puth Details CSS Print Stylesheets for Websites</h2>
+<a name="story-25458"><img src="https://wsrv.nl/?url=https%3A%2F%2F3.bp.blogspot.com%2F-ClZMiAbA_CQ%2FUewScg2FiDI%2FAAAAAAAAAzc%2FrMYEfj8ssVQ%2Fs1600%2FPrint%2BStylesheet%2BCSS%2BTrick%2Bfor%2BBlogger%2B-%2BProblogbooster.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Web developer Brennen Puth argues that websites should be optimized for printing to support reading and physical annotation, and details how he updated his own site using CSS print media queries.</p><p>Noting that default web printouts often feature oversized text, cluttered headers, and poorly formatted links, Puth shares specific CSS rules to hide unnecessary elements, set readable font sizes, and convert links to grayscale for better readability on paper.</p>
+<p><small>Links: <a href="https://brennenputh.me/blog/printable-websites/">brennenputh.me</a> | <a href="https://lobste.rs/s/olnqh2/websites_should_be_printable">discussion</a> | <a href="https://news.ycombinator.com/item?id=50241664">hacker news</a></small></p>
 <br clear="all" />
 
 ---

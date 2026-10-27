@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-27T06:27:00+00:00</updated>
+  <updated>2026-10-27T06:31:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Jan van den Berg Examines The Mythical Man-Month in the Age of AI</title>
+    <link href="https://j11g.com/the-mythical-man-month-in-the-age-of-ai" rel="alternate" />
+    <id>https://j11g.com/the-mythical-man-month-in-the-age-of-ai::v240</id>
+    <published>2026-10-27T06:31:00+00:00</published>
+    <updated>2026-10-27T06:31:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fsrc.n-ix.com%2Fuploads%2F2026%2F01%2F27%2F00141a6a-cf11-4727-b96d-89044facef3d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://j11g.com/the-mythical-man-month-in-the-age-of-ai">j11g.com</a> | <a href="https://news.ycombinator.com/item?id=50255298">hacker news</a></small></p><hr/><p>Software engineer Jan van den Berg reevaluates Frederick P. Brooks Jr.'s classic 1975 principle, Brooks's Law, to determine whether adding AI agents to a development project bypasses traditional scaling limits. While generative AI tools and LLMs eliminate human onboarding bottlenecks and coffee breaks, foundational software constraints persist.</p><p>Sequential tasks and the inherent limitations of dependency management remain unchanged, while overhead shifts from human coordination to agent orchestration. Deploying multiple autonomous agents without precise requirements and structured oversight only leads to conflicting code edits, proving that adding AI capacity to a flawed project accelerates failure.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fsrc.n-ix.com%2Fuploads%2F2026%2F01%2F27%2F00141a6a-cf11-4727-b96d-89044facef3d.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 13:21 UTC | #25559</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Details Type Server Protocol Specification for Python Analysis</title>
     <link href="https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md" rel="alternate" />
