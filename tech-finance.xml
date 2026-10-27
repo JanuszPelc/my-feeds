@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-27T14:14:00+00:00</updated>
+  <updated>2026-10-27T14:24:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Hyphenate Raises $45 Million Series A for Finance AI Agents</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-27/microsoft-alumni-score-funding-to-build-ai-agents-for-finance" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-27/microsoft-alumni-score-funding-to-build-ai-agents-for-finance::v240</id>
+    <published>2026-10-27T14:24:00+00:00</published>
+    <updated>2026-10-27T14:24:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.antier.com%2Fblogs%2Fwp-content%2Fuploads%2F2025%2F02%2FAI-Agents-in-Finance-A-Game-Changer-for-Forecasting-and-Analytics.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/microsoft-alumni-score-funding-to-build-ai-agents-for-finance">bloomberg.com</a> | <a href="https://emergent.sh/news/hyphenate-raises-45m-ai-agents-finance">source</a></small></p><hr/><p>Hyphenate Inc., a startup developing reinforcement-learning-driven artificial intelligence agents to automate corporate finance operations, has secured $45 million in a Series A funding round led by Nexus Venture Partners. The latest round brings the two-year-old company's total funding to $54 million.</p><p>Founded by former Microsoft colleagues Ramnandan Krishnamurthy and Ajay Krishna Amudan, the company builds autonomous finance agents designed to handle accounting, treasury, and other complex workflows without requiring manual prompts or rigid rule sets from scratch. The fresh capital will be used to accelerate the development and expansion of its AI-driven finance platform.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.antier.com%2Fblogs%2Fwp-content%2Fuploads%2F2025%2F02%2FAI-Agents-in-Finance-A-Game-Changer-for-Forecasting-and-Analytics.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 18:23 UTC | #25547</small>]]></content>
+  </entry>
   <entry>
     <title>UK AI Startup 22one Reaches Nearly $400M Valuation in Funding Round Backed by Sequoia and Lux</title>
     <link href="https://www.ft.com/content/65a113b4-2a45-49cf-9e68-93f42151166e" rel="alternate" />

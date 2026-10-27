@@ -3,9 +3,18 @@
   <title>ai-news</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml</id>
-  <updated>2026-10-27T14:21:00+00:00</updated>
+  <updated>2026-10-27T16:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/ai-news.png?v=150-67-50</logo>
+  <entry>
+    <title>Google DeepMind Announces Genie 4 Interactive World Model</title>
+    <link href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/" rel="alternate" />
+    <id>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/::v240</id>
+    <published>2026-10-27T16:07:00+00:00</published>
+    <updated>2026-10-27T16:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.huggingnews.com%2Fstory-media%2F2115114238943568324%2Fd9VX08ehiAo74R1M-medium.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">deepmind.google</a> | <a href="https://news.ycombinator.com/item?id=50261319">hacker news</a></small></p><hr/><p>Google DeepMind has announced Genie 4, a foundational world model designed to produce real-time, interactive 3D environments featuring enhanced photorealism and native audio generation. Built using capabilities from the Gemini family, the model allows users to steer and modify simulations on the fly using natural language text prompts while maintaining physical and contextual coherence.</p><p>Genie 4 integrates Gemini 3.8 Flash to reason through complex, multi-step tasks and track progress during live rendering. The model is currently rolling out as a research preview for trusted testers, with upcoming availability for Google AI Ultra subscribers and Gemini API early access partners.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.huggingnews.com%2Fstory-media%2F2115114238943568324%2Fd9VX08ehiAo74R1M-medium.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 18:25 UTC | #25602</small>]]></content>
+  </entry>
   <entry>
     <title>Opera Introduces WebAI Standard for Local Browser-Based AI Deployment</title>
     <link href="https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/" rel="alternate" />

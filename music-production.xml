@@ -3,9 +3,27 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-27T14:23:00+00:00</updated>
+  <updated>2026-10-27T14:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Born Second Releases TimeTravel Free Reverse Delay Plugin</title>
+    <link href="https://bedroomproducersblog.com/2026/10/27/born-second-timetravel/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/27/born-second-timetravel/::v240</id>
+    <published>2026-10-27T14:26:00+00:00</published>
+    <updated>2026-10-27T14:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.plugins4free.com%2Fimg%2FdualReverseDelay_2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/27/born-second-timetravel/">bedroomproducersblog.com</a> | <a href="https://bornsecondrecords.com/timetravel">source</a> | <a href="https://bedroomproducersblog.com/2026/10/27/born-second-timetravel/#comments">discussion</a></small></p><hr/><p>Born Second has released TimeTravel, a free reverse-delay plugin for macOS, Windows, and Linux. Modeled after the Old Blood Noise Endeavors BL-44 Reverse pedal, the effect captures incoming audio using a fixed memory buffer and a 10-bit converter before playing it back in reverse.</p><p>The plugin includes controls for Clock, Speed, Mix, and Volume, alongside a bypass switch. Adjusting the Clock knob simultaneously alters the sample rate, filter cutoff, and capture window length from 0.4 to 2.4 seconds, while the Speed knob shifts playback pitch across semitones with a tape-like glide.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.plugins4free.com%2Fimg%2FdualReverseDelay_2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 18:24 UTC | #25582</small>]]></content>
+  </entry>
+  <entry>
+    <title>ebbandflow Releases deCADE Vintage Synth Instrument</title>
+    <link href="https://bedroomproducersblog.com/2026/10/27/ebbandflow-decade/" rel="alternate" />
+    <id>https://bedroomproducersblog.com/2026/10/27/ebbandflow-decade/::v240</id>
+    <published>2026-10-27T14:25:00+00:00</published>
+    <updated>2026-10-27T14:25:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2FParty-Bag-Plugins-releases-Reel-Synth-vintage-synthesizer-plugin-and-standalone-app-2048x1072.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/27/ebbandflow-decade/">bedroomproducersblog.com</a> | <a href="https://ebbandflow.audio/s/bpb_decade">source</a></small></p><hr/><p>ebbandflow has released deCADE, a sample-based virtual instrument for macOS and Windows that combines 127 individual captures from 1980s synthesizers into 100 layered sound sources. Recorded in Scottish studios, the instrument features classic hardware models such as the Roland Jupiter-6, Prophet-5, and Yamaha DX7, paired together to create dual-synth patches.</p><p>Building on the framework of the earlier deFORM plugin, deCADE includes a radial pad for independently adjusting voice stacking and layer blending. It offers over 200 factory presets, flexible filters, polyphonic glide, and vintage-modeled effects including a Juno-style chorus and tape-style delay. Available in VST, AU, and AAX formats, the instrument supports MPE and requires 14 GB of storage space.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2FParty-Bag-Plugins-releases-Reel-Synth-vintage-synthesizer-plugin-and-standalone-app-2048x1072.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 18:23 UTC | #25583</small>]]></content>
+  </entry>
   <entry>
     <title>Analog Obsession Releases TheMachine Free Vintage Tape Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/10/27/analog-obsession-the-machine/" rel="alternate" />

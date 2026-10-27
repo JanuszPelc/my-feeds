@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>Google DeepMind Announces Genie 4 Interactive World Model</h2>
+<a name="story-25602"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.huggingnews.com%2Fstory-media%2F2115114238943568324%2Fd9VX08ehiAo74R1M-medium.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Google DeepMind has announced Genie 4, a foundational world model designed to produce real-time, interactive 3D environments featuring enhanced photorealism and native audio generation. Built using capabilities from the Gemini family, the model allows users to steer and modify simulations on the fly using natural language text prompts while maintaining physical and contextual coherence.</p><p>Genie 4 integrates Gemini 3.8 Flash to reason through complex, multi-step tasks and track progress during live rendering. The model is currently rolling out as a research preview for trusted testers, with upcoming availability for Google AI Ultra subscribers and Gemini API early access partners.</p>
+<p><small>Links: <a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">deepmind.google</a> | <a href="https://news.ycombinator.com/item?id=50261319">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Opera Introduces WebAI Standard for Local Browser-Based AI Deployment</h2>
 <p>Browser maker Opera has introduced WebAI, a proposed web standard designed to let users run AI models directly inside their browsers without relying on cloud infrastructure. Available as an early preview in the flagship Opera One browser with an opt-in requirement, the model-agnostic standard initially supports open-weight systems like Google's Gemma and Apple's on-device foundation model on Macs.</p><p>By processing data locally rather than on remote servers, WebAI aims to enhance user privacy and eliminate subscription costs for cloud-based AI while allowing developers to implement features without managing server infrastructure. However, running large language models locally shifts computational demands directly to the user's hardware, meaning performance depends heavily on individual device capabilities.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/">techcrunch.com</a> | <a href="https://press.opera.com/2026/10/27/opera-doubles-down-on-local-ai-shipping-models-directly-in-its-browsers/">source</a></small></p>
@@ -89,10 +95,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <p>TechCrunch maintains a running chronicle of artificial intelligence projects, products, and startups that have been shut down, pivoted, or fallen short of expectations. The list catalogs high-profile casualties across the industry, ranging from independent workflow automation tools like Relay and interactive chatbot platforms like Character.ai to corporate initiatives such as OpenAI's Sora and Microsoft's Recall.</p><p>According to industry data, a significant portion of corporate AI initiatives are ultimately abandoned due to insufficient funding, technical hurdles, scaling challenges, or weak user demand. By examining both major tech giants and venture-backed startups, the compilation provides a record of structural missteps and market pressures shaping the current artificial intelligence landscape.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/">techcrunch.com</a></small></p>
 <br clear="all" />
-
-<h2>Block Releases Dessa Full-Duplex Voice Model</h2>
-<p>Block has released Dessa, a speech-to-speech AI voice model trained entirely on recorded human conversations without intermediate text data. Operating as a full-duplex system, the model can listen and speak simultaneously while expressing emotions, pauses, and natural cadences.</p><p>Running locally on consumer-grade hardware using a single GPU, Dessa bypasses traditional text-to-speech pipelines that rely on external tags. Block has initially restricted public access to conduct safety evaluations, though the technology could eventually support automated experiences across the company's financial services ecosystem.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/">techcrunch.com</a> | <a href="https://block.xyz/dessa">source</a> | <a href="https://news.ycombinator.com/item?id=50213925">hacker news</a></small></p>
 
 ---
 

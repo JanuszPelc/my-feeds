@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Hyphenate Raises $45 Million Series A for Finance AI Agents</h2>
+<a name="story-25547"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.antier.com%2Fblogs%2Fwp-content%2Fuploads%2F2025%2F02%2FAI-Agents-in-Finance-A-Game-Changer-for-Forecasting-and-Analytics.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Hyphenate Inc., a startup developing reinforcement-learning-driven artificial intelligence agents to automate corporate finance operations, has secured $45 million in a Series A funding round led by Nexus Venture Partners. The latest round brings the two-year-old company's total funding to $54 million.</p><p>Founded by former Microsoft colleagues Ramnandan Krishnamurthy and Ajay Krishna Amudan, the company builds autonomous finance agents designed to handle accounting, treasury, and other complex workflows without requiring manual prompts or rigid rule sets from scratch. The fresh capital will be used to accelerate the development and expansion of its AI-driven finance platform.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/microsoft-alumni-score-funding-to-build-ai-agents-for-finance">bloomberg.com</a> | <a href="https://emergent.sh/news/hyphenate-raises-45m-ai-agents-finance">source</a></small></p>
+<br clear="all" />
+
 <h2>UK AI Startup 22one Reaches Nearly $400M Valuation in Funding Round Backed by Sequoia and Lux</h2>
 <a name="story-25543"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F643884e14a9b8909f23b73b1%2F7e7405a7-6d17-4267-bc77-6df15a0dfb64%2FCommunity-led%2BTech%2BAdoption.jpg%3Fformat%3D1500w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>UK stealth artificial intelligence startup 22one has attained a valuation of nearly $400 million following a funding round backed by prominent venture capital firms including Sequoia Capital and Lux Capital. Founded by former Merseyside police officer Steven Richardson, the company is developing specialized artificial intelligence tools and services for law enforcement agencies and police forces.</p><p>Despite operating largely in stealth mode with minimal public visibility, the startup has attracted substantial investment from major Silicon Valley backers. The high valuation highlights growing venture capital interest in applying advanced artificial intelligence technologies to public sector security and operational workflows.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25276"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F68a3683abb74228f4d39b151%2F69c47ad099717f9907229be0_eq4Fi589JiLRgTXUV8647E.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AI-native film and television production startup Utopai Studios has raised $60 million in a funding round that values the company at $1 billion. The Mountain View, California-based company is currently developing more than 20 projects, with plans to release three feature films in theaters next year.</p><p>The financing underscores growing investor interest in video artificial intelligence technologies within the entertainment industry. Utopai has already received term sheets for a subsequent financing round that could value the company between $2 billion and $3 billion.</p>
 <p><small>Links: <a href="https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes">theinformation.com</a></small></p>
-<br clear="all" />
-
-<h2>Mave Raises $28 Million Series A to Automate Threat Investigations</h2>
-<a name="story-25270"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpic1.calcalist.co.il%2Fpicserver3%2Fcrop_images%2F2026%2F10%2F22%2FHJVAkuP2Mg%2FHJVAkuP2Mg_0_0_2500_1667_0_x-large.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Cybersecurity startup Mave has raised $28 million in a Series A funding round led by Red Dot Capital Partners, bringing its total capital raised to $34 million. Founded in 2025 by veterans of Israel's Unit 8200, the company develops an artificial intelligence platform designed to automate security investigations across multiple enterprise tools without requiring organizations to centralize their data.</p><p>Mave's system connects directly to existing security infrastructure to query tools through native interfaces, filter false positives, and assemble unified accounts of active cyber threats. The company plans to use the new capital to accelerate AI research, expand its enterprise product offerings, and double its team size to support international growth.</p>
-<p><small>Links: <a href="https://www.calcalistech.com/ctechnews/article/h1sq8ip2mx">calcalistech.com</a></small></p>
 <br clear="all" />
 
 ---
