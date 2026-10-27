@@ -645,13 +645,4 @@
     <media:thumbnail url="https://simedw.com/2026/10/21/world-model-terminal/images/worldtui-cowsay.jpg" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://simedw.com/2026/10/21/world-model-terminal/">simedw.com</a> | <a href="https://news.ycombinator.com/item?id=50190363">hacker news</a></small></p><hr/><p>A 360M-parameter language model named WorldTUI simulates a terminal environment without an underlying shell or filesystem. It predicts character grid updates and cursor movements in response to user keystrokes, allowing it to mimic the behavior of applications like Vim, Tmux, and Python REPLs.</p><p>Based on Qwen2.5-Coder-0.5B, the model utilizes parallel row decoding and speculative decoding to achieve high-speed performance in web browsers via WebGPU. While it demonstrates an ability to maintain state and "memory" within its simulated world, it remains a predictive model rather than a functional computing environment.</p><p><img src="https://simedw.com/2026/10/21/world-model-terminal/images/worldtui-cowsay.jpg" /></p><hr/><small>22 Oct 2026, 17:10 UTC | #25114</small>]]></content>
   </entry>
-  <entry>
-    <title>Examining the macOS GCC Binary</title>
-    <link href="https://zoey-on-github.github.io/blog/macgcc.html" rel="alternate" />
-    <id>https://zoey-on-github.github.io/blog/macgcc.html::v240</id>
-    <published>2026-10-22T06:47:00+00:00</published>
-    <updated>2026-10-22T06:47:00+00:00</updated>
-    <media:thumbnail url="https://zoey-on-github.github.io/blog/images/Screenshot_2026-10-21_at_1.11.00_PM.png" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://zoey-on-github.github.io/blog/macgcc.html">zoey-on-github.github.io</a> | <a href="https://lobste.rs/s/hplfis/examining_macos_gcc_binary">discussion</a></small></p><hr/><p>The article investigates the macOS `/usr/bin/gcc` binary, revealing that it is not a simple shell alias but a compiled binary that uses `libxcselect.dylib` to invoke `xcrun` and route execution to `clang` or `clang++`. Through decompilation, the author uncovers special logic that checks tool names and translates invocations accordingly.</p><p>This redirection mechanism is utilized across Xcode-installed developer tools, likely as a workaround for System Integrity Protection (SIP) that prevents updating files in the protected `/usr/bin` directory without a reboot. Further examination of the command-line tools directory shows how specific aliases like `g++` map to actual binaries that similarly wrap and execute `xcrun`.</p><p><img src="https://zoey-on-github.github.io/blog/images/Screenshot_2026-10-21_at_1.11.00_PM.png" /></p><hr/><small>22 Oct 2026, 10:10 UTC | #25111</small>]]></content>
-  </entry>
 </feed>
