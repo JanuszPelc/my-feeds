@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Expetri Experimental Software Synthesizer Released in AU and VST3 Formats</h2>
+<p>Expetri has released its self-titled experimental software synthesizer for macOS in VST3 and AU formats. The plugin approaches sound design through the metaphor of a chemistry experiment, allowing users to grow sound cells in a virtual petri dish rather than manually adjusting traditional synthesis parameters.</p><p>The interface lets users interact with sound cells by stirring the dish, adding or removing elements with a pipette, and applying effect liquids from flasks. The software is available in both a free tier and a full version priced at an introductory $9.99, with rare cell generation reserved for the paid release.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/expetri-experimental-software-synthesizer-released-au-and-vst3-69350?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69350">kvraudio.com</a> | <a href="https://expetri.com/">source</a></small></p>
+
 <h2>Igor Vasiliev Releases HollowTone Ambient Audio Instrument for iOS and macOS</h2>
 <p>Igor Vasiliev has released HollowTone, a procedural audio instrument designed for iOS and macOS that generates deep ambient soundscapes, shifting textures, and immersive atmospheric environments. Rather than functioning as a traditional synthesizer or loop player, the app uses intuitive gestures to let users shape continuous audio atmospheres.</p><p>Priced at $9.99, HollowTone is available for purchase on the App Store. The instrument is intended to provide users with tools for creating tension, calm, or exploratory sound design without fixed musical paths or rules.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/igor-vasiliev-releases-hollowtone---deep-ambient-worlds-for-ios-and-macos-69216?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69216">kvraudio.com</a> | <a href="https://apps.apple.com/app/hollowtone/id6762177498">source</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <h2>Reverb Launches End of Summer Sales Event Featuring Discounts on Synths and Gear</h2>
 <p>Reverb has launched its End of Summer Sales Event, offering discounts across a wide selection of music hardware, plugins, synths, and controllers from brands such as M-Vave, Qu-Bit Electronix, and Machine Room. Featured items include M-Vave's compact FM-1 polyphonic synth, various MIDI controllers and keyboards, and specialized hardware like the Prodigy Dual VCO.</p><p>The sale provides price cuts on both vintage-inspired gear and modern digital tools, including unique software like Clatters Machines' Sibilla digital stereo oscillator. The event highlights travel-friendly equipment and niche music production tools currently available at reduced prices across the platform.</p>
 <p><small>Links: <a href="https://musictech.com/news/events/reverb-end-of-summer-sales-event-discount-deals/">musictech.com</a> | <a href="https://reverb.com/sale/holiday">source</a></small></p>
-
-<h2>Kaito Sato Updates IMFMSynth to v1.1.6 with New Operator Features</h2>
-<p>Kaito Sato has released version 1.1.6 of IMFMSynth, an eight-operator FM and wavetable synthesizer for Windows and macOS. The update introduces colour-coded operator roles based on routing, per-operator solo capabilities, one-click ratio ladders, focused wiring visuals, and expanded phase controls.</p><p>Developed largely from user feedback on community forums, the v1.1.6 release builds on earlier improvements including mono mode, faster DX7 bank imports, and optimized DSP processing performance. The developer has announced that the subsequent v1.2.0 update will focus on MIDI CC support.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/kaito-sato-updates-imfmsynth-to-v1-1-6-with-per-operator-solo-colour-coded-operator-roles-and-one-click-ratio-ladders-69352?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69352">kvraudio.com</a> | <a href="https://imfm-synth.com/en/changelog">source</a></small></p>
 
 ---
 
