@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-27T16:08:00+00:00</updated>
+  <updated>2026-10-27T17:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Disruptive Closes $10 Billion Fund for AI and Defense Startups</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-27/disruptive-closes-10-billion-megafund-for-ai-defense-startups" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-27/disruptive-closes-10-billion-megafund-for-ai-defense-startups::v240</id>
+    <published>2026-10-27T17:09:00+00:00</published>
+    <updated>2026-10-27T17:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.usfunds.com%2Fapp%2Fuploads%2F2026%2F04%2FCOMM-global-funding-04102026.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/disruptive-closes-10-billion-megafund-for-ai-defense-startups">bloomberg.com</a> | <a href="https://www.prnewswire.com/news-releases/disruptive-announces-10-billion-flagship-fund-302920033.html">source</a></small></p><hr/><p>Dallas-based investment firm Disruptive has closed a $10 billion flagship fund dedicated to backing artificial intelligence, defense, and software startups. The capital raise doubles the 15-year-old firm's assets under management and marks a strategic shift from single-deal special purpose vehicles to a discretionary fund structure.</p><p>Under the new fund, Disruptive plans to invest in approximately 10 later-stage companies, deploying about $1 billion into each. The firm's historical portfolio includes prominent tech ventures such as chipmaker Groq and open-source AI model developer Reflection AI.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.usfunds.com%2Fapp%2Fuploads%2F2026%2F04%2FCOMM-global-funding-04102026.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 20:42 UTC | #25574</small>]]></content>
+  </entry>
   <entry>
     <title>PayPal Reports Third-Quarter Revenue of $8.58 Billion and Lifts Full-Year Outlook</title>
     <link href="https://www.wsj.com/business/retail/paypal-lifts-full-year-outlook-ceo-stresses-turnaround-plan-15cd0e2e?st=HHaBnz&amp;reflink=desktopwebshare_permalink" rel="alternate" />

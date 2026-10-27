@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Disruptive Closes $10 Billion Fund for AI and Defense Startups</h2>
+<a name="story-25574"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.usfunds.com%2Fapp%2Fuploads%2F2026%2F04%2FCOMM-global-funding-04102026.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Dallas-based investment firm Disruptive has closed a $10 billion flagship fund dedicated to backing artificial intelligence, defense, and software startups. The capital raise doubles the 15-year-old firm's assets under management and marks a strategic shift from single-deal special purpose vehicles to a discretionary fund structure.</p><p>Under the new fund, Disruptive plans to invest in approximately 10 later-stage companies, deploying about $1 billion into each. The firm's historical portfolio includes prominent tech ventures such as chipmaker Groq and open-source AI model developer Reflection AI.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/disruptive-closes-10-billion-megafund-for-ai-defense-startups">bloomberg.com</a> | <a href="https://www.prnewswire.com/news-releases/disruptive-announces-10-billion-flagship-fund-302920033.html">source</a></small></p>
+<br clear="all" />
+
 <h2>PayPal Reports Third-Quarter Revenue of $8.58 Billion and Lifts Full-Year Outlook</h2>
 <a name="story-25558"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.website-files.com%2F62ac4aacc75a115ff9dcb9bc%2F63bfdfbff6b1fc5865d062e6_What%2Bis%2BPayPal%E2%80%99s%2Brevenue.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>PayPal reported third-quarter revenue of $8.58 billion, representing a 2% increase year-over-year that fell slightly short of analyst projections, while total payment volume grew 6% to $487.14 billion. Total payment volume climbed as management advanced its ongoing operational turnaround strategy.</p><p>Despite the top-line revenue miss, the company raised its full-year adjusted earnings-per-share guidance to approximately $5.60, exceeding consensus expectations. The upward revision reflects continued margin improvements and strategic adjustments under chief executive leadership.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25353"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.wallstreetmojo.com%2Fwp-content%2Fuploads%2F2023%2F08%2FSeries-A-Funding.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>CapitalOS has raised $21.9 million in a Series A funding round led by LGVP. The company provides a money orchestration and financial infrastructure layer that enables vertical software and B2B platforms to offer cards, bill payment, spend management, and wallet tools to small and medium-sized business customers.</p><p>Additional participants in the funding round included WEX Venture Capital, Group11, Great North Ventures, and Night Capital, alongside existing investors. CapitalOS plans to use the capital to scale its infrastructure and expand its embedded financial product suite for B2B platforms.</p>
 <p><small>Links: <a href="https://www.axios.com/pro/fintech-deals/2026/10/21/capitalos-21-million-spend-management">axios.com</a> | <a href="https://capitalos.com/news/capitalos-raises-21m-series-a-funding">source</a></small></p>
-<br clear="all" />
-
-<h2>London Stock Exchange Group Agrees to Acquire Octus for $3.54 Billion</h2>
-<a name="story-25348"><img src="https://wsrv.nl/?url=https%3A%2F%2Ficdn.isrgrajan.com%2Fin%2F2026%2F10%2Flseg-agrees-to-buy-credit-intelligence-provider-octus-3-535bn.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>London Stock Exchange Group has agreed to acquire credit intelligence and workflow software provider Octus from Permira and company management for $3.54 billion in cash. The transaction is designed to expand the group's presence across both public and private credit data markets.</p><p>The acquisition represents LSEG's largest deal in seven years as the company enhances its data and analytics capabilities amid rising demand for specialized financial technology. Alongside the announcement, LSEG raised its full-year outlook for revenue and profit margins.</p>
-<p><small>Links: <a href="https://www.wsj.com/business/deals/london-stock-exchange-group-agrees-to-buy-octus-from-permira-for-3-5-billion-69361aa5?st=DDte3S&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.lseg.com/en/media-centre/press-releases/2026/lseg-acquire-octus-public-private-credit-solutions">source</a></small></p>
 <br clear="all" />
 
 ---
