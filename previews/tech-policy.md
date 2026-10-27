@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>China&#x27;s Star 50 Index Drops 40% Amid AI and Semiconductor Valuation Collapse</h2>
+<p>China's Star 50 index, which tracks leading artificial intelligence and semiconductor companies, has fallen 40 percent in less than four months from its July peak. The market downturn has erased approximately $480 billion in market value amid collapsing valuations.</p><p>The sharp decline reflects mounting investor concerns over waning artificial intelligence demand and the impact of strict export curbs on Chinese technology firms. Major industry players have experienced steep drops, including chipmaker CXMT, which declined roughly 25 percent in the past month.</p>
+<p><small>Links: <a href="https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50245821">hacker news</a></small></p>
+
 <h2>Flock CEO Garrett Langley Dismisses Backlash in Leaked Audio</h2>
 <p>In leaked audio from a private police conference, Flock Safety CEO Garrett Langley claimed that nationwide protests and social media opposition against his company's automatic license plate reader technology are inorganic and driven largely by bots. Langley also stated that his wife advised him never to apologize for corporate mistakes and expressed a desire to avoid media interviews in the future.</p><p>Flock has faced extensive public scrutiny, municipal contract cancellations, and federal legislative proposals following revelations about police misuse of its nationwide surveillance network for immigration enforcement and personal tracking. Despite the mounting backlash, Langley maintained that the opposition will eventually subside as the industry moves past the current period of intense public debate.</p>
 <p><small>Links: <a href="https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=50248005">hacker news</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>Shein Agrees to Pay $100 Million to Settle US FTC Investigation</h2>
 <p>Chinese fast-fashion retailer Shein has agreed to a $100 million settlement with the U.S. Federal Trade Commission to resolve an investigation into delivery delays and other consumer complaints. The payment represents a substantial financial penalty, equivalent to roughly 44% of the company's second-quarter profit.</p><p>The agreement clears a key regulatory hurdle as Shein faces mounting scrutiny across the United States and Europe while pursuing public-market investors. The company previously disclosed that potential regulatory resolutions could have a material adverse effect on its financial condition and results of operations.</p>
 <p><small>Links: <a href="https://www.reuters.com/business/retail-consumer/fast-fashion-group-shein-agrees-pay-100-million-settle-us-ftc-probe-2026-10-23/">reuters.com</a></small></p>
-
-<h2>Sweden&#x27;s Government Offices Block ChatGPT and Claude on Work Computers</h2>
-<p>Sweden's Government Offices have blocked access to the AI chatbots ChatGPT and Claude on staff work computers. The restriction, reported by Sveriges Radio's Ekot, prevents employees from using these popular generative AI tools on official devices.</p><p>The measure reflects growing caution among public institutions regarding the use of external AI services on secure networks. Government agencies are increasingly implementing such blocks to manage data security risks and protect sensitive administrative information.</p>
-<p><small>Links: <a href="https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet">sverigesradio.se</a> | <a href="https://news.ycombinator.com/item?id=50207405">hacker news</a></small></p>
 
 ---
 

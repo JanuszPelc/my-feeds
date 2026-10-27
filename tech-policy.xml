@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-26T18:54:00+00:00</updated>
+  <updated>2026-10-27T02:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>China's Star 50 Index Drops 40% Amid AI and Semiconductor Valuation Collapse</title>
+    <link href="https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/" rel="alternate" />
+    <id>https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/::v240</id>
+    <published>2026-10-27T02:07:00+00:00</published>
+    <updated>2026-10-27T02:07:00+00:00</updated>
+    <media:thumbnail url="https://www.metatrader.com/news/image/9984f3a5ffc354d834fa65a3fcfb2ff1" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50245821">hacker news</a></small></p><hr/><p>China's Star 50 index, which tracks leading artificial intelligence and semiconductor companies, has fallen 40 percent in less than four months from its July peak. The market downturn has erased approximately $480 billion in market value amid collapsing valuations.</p><p>The sharp decline reflects mounting investor concerns over waning artificial intelligence demand and the impact of strict export curbs on Chinese technology firms. Major industry players have experienced steep drops, including chipmaker CXMT, which declined roughly 25 percent in the past month.</p><p><img src="https://www.metatrader.com/news/image/9984f3a5ffc354d834fa65a3fcfb2ff1" /></p><hr/><small>27 Oct 2026, 09:01 UTC | #25531</small>]]></content>
+  </entry>
   <entry>
     <title>Flock CEO Garrett Langley Dismisses Backlash in Leaked Audio</title>
     <link href="https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/" rel="alternate" />
