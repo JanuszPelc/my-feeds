@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-27T14:11:00+00:00</updated>
+  <updated>2026-10-27T14:19:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>Silicon Valley AI Political Factions Divide Over 2026 Midterm Spending Strategy</title>
+    <link href="https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html::v240</id>
+    <published>2026-10-27T14:19:00+00:00</published>
+    <updated>2026-10-27T14:19:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F692f741352fbb4b6e88b7f25%2Fmaster%2Fw_2560%2Cc_limit%2FPol_Midterms_GettyImages-1483069362.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html">cnbc.com</a></small></p><hr/><p>Political action committees and super PACs backed by Silicon Valley tech heavyweights have divided into competing factions over regulatory strategy in the 2026 congressional midterms. Groups advocating for rapid AI innovation and uniform federal rules have spent approximately $8 million in general-election races, outspending rival factions pushing for strict safety guardrails and state-level authority, which have deployed roughly $6.9 million according to Federal Election Commission data.</p><p>Modeled after cryptocurrency industry spending, initial efforts sought to build a unified political machine, but intense infighting and high-profile clashes—such as a $23 million primary battle in New York—have triggered voter backlash. Consequently, overall spending slowed sharply heading into November, with major backers scaling back their contributions amid mounting reputational risks and public skepticism toward unhindered AI expansion.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F692f741352fbb4b6e88b7f25%2Fmaster%2Fw_2560%2Cc_limit%2FPol_Midterms_GettyImages-1483069362.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 17:58 UTC | #25545</small>]]></content>
+  </entry>
   <entry>
     <title>Alibaba Wins Challenge Against Pentagon Military Blacklist</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-27/alibaba-wins-challenge-to-pentagon-s-chinese-army-blacklisting" rel="alternate" />
