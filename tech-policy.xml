@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-27T17:08:00+00:00</updated>
+  <updated>2026-10-27T17:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>ACLU Warns Police Are Using AI and License Plate Readers for Pretextual Stops</title>
+    <link href="https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220" rel="alternate" />
+    <id>https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220::v240</id>
+    <published>2026-10-27T17:15:00+00:00</published>
+    <updated>2026-10-27T17:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.criticalts.com%2Fwp-content%2Fuploads%2F2024%2F11%2FLPR.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220">gizmodo.com</a> | <a href="https://www.aclu.org/news/privacy-technology/ai-driven-police-stops">source</a> | <a href="https://news.ycombinator.com/item?id=50261819">hacker news</a></small></p><hr/><p>Law enforcement agencies across the United States are increasingly combining automated license plate readers with artificial intelligence tools to flag drivers based on travel patterns and execute pretextual traffic stops. According to a recent American Civil Liberties Union report, officers are using these surveillance networks to target motorists even when they are not suspected of committing a specific crime.</p><p>The warning highlights mounting concerns over widespread vehicle tracking by vendors like Flock Safety, which collect location data on millions of drivers without warrants. Privacy advocates, public pushback, and recent legal challenges have emerged as motorists face invasive stops and questioning solely due to their interstate travel routes.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.criticalts.com%2Fwp-content%2Fuploads%2F2024%2F11%2FLPR.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 21:30 UTC | #25618</small>]]></content>
+  </entry>
   <entry>
     <title>Anduril and Qualcomm Announce BlueChip US-Made Laptop Line for Defense and Government</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-27/anduril-and-qualcomm-plan-to-build-laptop-with-us-supply-chain" rel="alternate" />
@@ -219,14 +228,5 @@
     <updated>2026-10-23T01:11:00+00:00</updated>
     <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.paulweiss.com%2Fmedia%2Fkgoaimvr%2Fannex_treasury_issues_notice_of_proposed-_rulemaking_memo.jpg%3Frmode%3Dmax%26width%3D553%26height%3D543&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://apnews.com/article/treasury-china-tech-investments-rule-b742c292ff8eb19e6a4c8cf03d4d66b9">apnews.com</a> | <a href="https://home.treasury.gov/news/press-releases/sb0667/">source</a> | <a href="https://news.ycombinator.com/item?id=50080998">hacker news</a></small></p><hr/><p>The U.S. Treasury Department has proposed a new rule to tighten restrictions on American high-tech investments in countries of concern, including China and Russia. The proposed regulations update the Outbound Investment Security Program to implement congressional mandates under the Comprehensive Outbound Investment Security Act.</p><p>The updated framework targets sensitive sectors such as artificial intelligence, supercomputing, semiconductors, and quantum technology. It introduces expanded prohibitions and advance notice requirements designed to prevent U.S. capital and technical expertise from advancing the military and intelligence capabilities of strategic adversaries.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.paulweiss.com%2Fmedia%2Fkgoaimvr%2Fannex_treasury_issues_notice_of_proposed-_rulemaking_memo.jpg%3Frmode%3Dmax%26width%3D553%26height%3D543&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Oct 2026, 11:33 UTC | #25196</small>]]></content>
-  </entry>
-  <entry>
-    <title>Amazon Issues FTC Settlement Refunds Crediting President Trump's Federal Trade Commission</title>
-    <link href="https://www.politico.com/news/2026/10/21/amazon-trump-midterms-settlement-01130666" rel="alternate" />
-    <id>https://www.politico.com/news/2026/10/21/amazon-trump-midterms-settlement-01130666::v240</id>
-    <published>2026-10-22T21:30:00+00:00</published>
-    <updated>2026-10-22T21:30:00+00:00</updated>
-    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2fNwCU.img%3Fw%3D1731%26h%3D909%26m%3D4%26q%3D91&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.politico.com/news/2026/10/21/amazon-trump-midterms-settlement-01130666">politico.com</a></small></p><hr/><p>Amazon has begun distributing millions of consumer refund checks stemming from a 2025 settlement, with the payments explicitly credited to "President Trump's Federal Trade Commission." This marks the first time that a federal regulatory refund has been officially attributed to a sitting president.</p><p>The distribution stems from a landmark $2.5 billion settlement resolving allegations that Amazon deceptively enrolled customers in Prime subscriptions and complicated cancellation procedures. The timing of the payouts, arriving weeks before the midterm elections, has drawn widespread attention for its unprecedented political framing.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAA2fNwCU.img%3Fw%3D1731%26h%3D909%26m%3D4%26q%3D91&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>23 Oct 2026, 01:44 UTC | #25173</small>]]></content>
   </entry>
 </feed>
