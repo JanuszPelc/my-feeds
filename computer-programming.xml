@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-27T17:03:00+00:00</updated>
+  <updated>2026-10-27T17:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Max Slater Introduces Syl Programming Language with Compile-Time Dependent Types</title>
+    <link href="https://thenumb.at/Syl-Intro/" rel="alternate" />
+    <id>https://thenumb.at/Syl-Intro/::v240</id>
+    <published>2026-10-27T17:11:00+00:00</published>
+    <updated>2026-10-27T17:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fimage5.slideserve.com%2F9574058%2Fhow-do-compilers-exploit-compile-time-knowledge-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://thenumb.at/Syl-Intro/">thenumb.at</a> | <a href="https://lobste.rs/s/d09iy3/compile_time_dependent_types">discussion</a></small></p><hr/><p>Max Slater has introduced Syl, an experimental programming language designed to encode compile-time computation within a modal type system. Inspired by two-level type theory, Syl utilizes distinct mode axes for staticity and erasure to support dependent typing at compile time while maintaining a simply typed structure at runtime.</p><p>The language features explicit specialization-based optimizations, monomorphized functions, and support for general recursion in compile-time computations without requiring totality checkers or universe machinery. The compiler implementation and related documentation are available on GitHub and the project website.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage5.slideserve.com%2F9574058%2Fhow-do-compilers-exploit-compile-time-knowledge-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 20:54 UTC | #25616</small>]]></content>
+  </entry>
   <entry>
     <title>Jake Voytko Examines Historical Software Reliability and Nostalgia</title>
     <link href="https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/" rel="alternate" />
