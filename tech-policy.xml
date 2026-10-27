@@ -3,9 +3,18 @@
   <title>tech-policy</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml</id>
-  <updated>2026-10-27T14:19:00+00:00</updated>
+  <updated>2026-10-27T16:58:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-policy.png?v=260-75-50</logo>
+  <entry>
+    <title>FCC Warns TP-Link Over Router Power Limits and Compliance</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-27/fcc-warns-tp-link-its-routers-breach-power-limits-in-latest-snub" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-27/fcc-warns-tp-link-its-routers-breach-power-limits-in-latest-snub::v240</id>
+    <published>2026-10-27T16:58:00+00:00</published>
+    <updated>2026-10-27T16:58:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Farticles%2F04AdH4b49wfsDnqbMkyozIK-1.fit_lim.v1752784381.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/fcc-warns-tp-link-its-routers-breach-power-limits-in-latest-snub">bloomberg.com</a></small></p><hr/><p>The Federal Communications Commission has warned TP-Link Systems Inc. that three of its Wi-Fi router models exceeded legal power limits and that the company may have submitted false or incorrect information. The warning represents a new regulatory hurdle for the manufacturer amid heightened scrutiny of its hardware.</p><p>The notice could pave the way for additional enforcement actions and equipment bans against the company. This development coincides with broader regulatory pressures and state-level lawsuits concerning cybersecurity vulnerabilities and foreign ties associated with TP-Link networking equipment.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Farticles%2F04AdH4b49wfsDnqbMkyozIK-1.fit_lim.v1752784381.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 19:53 UTC | #25555</small>]]></content>
+  </entry>
   <entry>
     <title>Silicon Valley AI Political Factions Divide Over 2026 Midterm Spending Strategy</title>
     <link href="https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html" rel="alternate" />

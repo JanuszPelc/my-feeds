@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 ```
 
+<h2>FCC Warns TP-Link Over Router Power Limits and Compliance</h2>
+<a name="story-25555"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.pcmag.com%2Fimagery%2Farticles%2F04AdH4b49wfsDnqbMkyozIK-1.fit_lim.v1752784381.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The Federal Communications Commission has warned TP-Link Systems Inc. that three of its Wi-Fi router models exceeded legal power limits and that the company may have submitted false or incorrect information. The warning represents a new regulatory hurdle for the manufacturer amid heightened scrutiny of its hardware.</p><p>The notice could pave the way for additional enforcement actions and equipment bans against the company. This development coincides with broader regulatory pressures and state-level lawsuits concerning cybersecurity vulnerabilities and foreign ties associated with TP-Link networking equipment.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/fcc-warns-tp-link-its-routers-breach-power-limits-in-latest-snub">bloomberg.com</a></small></p>
+<br clear="all" />
+
 <h2>Silicon Valley AI Political Factions Divide Over 2026 Midterm Spending Strategy</h2>
 <a name="story-25545"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.wired.com%2Fphotos%2F692f741352fbb4b6e88b7f25%2Fmaster%2Fw_2560%2Cc_limit%2FPol_Midterms_GettyImages-1483069362.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Political action committees and super PACs backed by Silicon Valley tech heavyweights have divided into competing factions over regulatory strategy in the 2026 congressional midterms. Groups advocating for rapid AI innovation and uniform federal rules have spent approximately $8 million in general-election races, outspending rival factions pushing for strict safety guardrails and state-level authority, which have deployed roughly $6.9 million according to Federal Election Commission data.</p><p>Modeled after cryptocurrency industry spending, initial efforts sought to build a unified political machine, but intense infighting and high-profile clashes—such as a $23 million primary battle in New York—have triggered voter backlash. Consequently, overall spending slowed sharply heading into November, with major backers scaling back their contributions amid mounting reputational risks and public skepticism toward unhindered AI expansion.</p>
@@ -87,12 +93,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <h2>Canadian MPs Advance Bill S-211 to Restrict Sports Gambling Advertising</h2>
 <p>Federal lawmakers in Canada are advancing Bill S-211 to establish a national framework restricting sports betting and online casino advertisements across broadcasts, social media, and athletic gear. The legislative push follows new research conducted during the 2026 NHL playoffs showing that viewers are exposed to two to three gambling messages every minute, alongside rising rates of problem gambling and gambling-related suicides.</p><p>While health organizations and addiction researchers support federal intervention to curb pervasive marketing, the Canadian Gaming Association and provincial governments in Ontario and Alberta oppose the national framework. If approved by the House of Commons standing committee, the bill could lead to stricter regulations, including time-of-day bans and restrictions on celebrity and athlete endorsements.</p>
 <p><small>Links: <a href="https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888">cbc.ca</a> | <a href="https://news.ycombinator.com/item?id=50195873">hacker news</a></small></p>
-
-<h2>Block Details Privacy Practices for Dessa AI Website</h2>
-<a name="story-25284"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-cabinet.ua.news%2Fuploads%2Fimages%2Fblock_presentyla_holosovu_shi_model_dess_1792784359506.webp%3F8041007&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Block has published the privacy notice outlining how user information is collected, used, and shared when interacting with the dessa.com website. The policy details data collection practices regarding device information, internet activity, and voluntary user submissions, while noting that information is shared with corporate affiliates, service providers, and legal authorities as necessary.</p><p>The notice specifies that data is utilized to develop and improve services, communicate with users, and maintain platform security. It also outlines user rights regarding access, deletion, and correction of personal information, alongside provisions concerning cookies, children's privacy, and security measures implemented by the company.</p>
-<p><small>Links: <a href="https://block.xyz/dessa">block.xyz</a> | <a href="https://news.ycombinator.com/item?id=50213925">hacker news</a></small></p>
-<br clear="all" />
 
 ---
 
