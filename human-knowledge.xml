@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-26T17:59:00+00:00</updated>
+  <updated>2026-10-26T22:00:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>OpenAI AI Disproves Exponential Time Hypothesis</title>
+    <link href="https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf" rel="alternate" />
+    <id>https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf::v240</id>
+    <published>2026-10-26T22:00:00+00:00</published>
+    <updated>2026-10-26T22:00:00+00:00</updated>
+    <media:thumbnail url="https://neurohive.io/wp-content/uploads/2022/02/Snimok-ekrana-2022-02-04-v-14.34.15.png" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf">github.com</a> | <a href="https://news.ycombinator.com/item?id=50251661">hacker news</a></small></p><hr/><p>The Exponential Time Hypothesis (ETH) has been disproved by OpenAI's AI models through a deterministic algorithm that counts satisfying assignments of fixed-width CNF formulas in subexponential time and polynomial space.</p><p>The discovery was one of three scientific breakthroughs in mathematics, computer science, and physics announced by the company. Scientists who originally proposed the ETH will lead an independent verification of the findings.</p><p><img src="https://neurohive.io/wp-content/uploads/2022/02/Snimok-ekrana-2022-02-04-v-14.34.15.png" /></p><hr/><small>27 Oct 2026, 01:35 UTC | #25527</small>]]></content>
+  </entry>
   <entry>
     <title>Google DeepMind AI Model Outperforms Traditional Weather Models in Hurricane Isaias Forecasts</title>
     <link href="https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias" rel="alternate" />

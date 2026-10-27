@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 ```
 
+<h2>OpenAI Introduces GPT-6.1 Terra AI Model</h2>
+<p>OpenAI has announced GPT-6.1 Terra, a new AI model designed for enhanced visual reasoning, computer-use tasks, and natural writing. The model is positioned as a faster, more cost-effective successor to GPT-5.6 Terra, offering standard API prices that are 50 percent lower while improving performance across professional and technical benchmarks.</p><p>GPT-6.1 Terra demonstrates significant gains in reducing factual errors, improving coding capabilities, and executing multistep desktop application tasks compared to its predecessor. Available immediately through the OpenAI API and ChatGPT platforms, the model meets critical cybersecurity preparedness thresholds and features stronger resistance to prompt injection.</p>
+<p><small>Links: <a href="https://openai.com/index/introducing-gpt-6-1-terra/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50248124">hacker news</a></small></p>
+
 <h2>Sebastian Raschka Releases Build Your Own Reasoning Model Video Course</h2>
 <p>Researcher and author Sebastian Raschka has released an 11-hour video course consisting of eight coding lectures that teach how to build reasoning models from scratch using Python and PyTorch. Starting from a pre-trained Qwen3 0.6B model, the series guides learners through implementing evaluation, inference-time scaling, reinforcement learning, and distillation methods.</p><p>The course serves as a companion to Raschka's book, Build a Reasoning Model (From Scratch), and covers advanced topics such as the MATH-500 evaluation dataset, self-consistency, self-refinement loops, and a simplified implementation of Group Relative Policy Optimization (GRPO). Designed for individuals comfortable with Python and PyTorch, the curriculum provides practical implementations to help developers understand the core mechanics underlying modern large language model reasoning and agent harnesses.</p>
 <p><small>Links: <a href="https://magazine.sebastianraschka.com/p/building-reasoning-models">magazine.sebastianraschka.com</a> | <a href="https://news.ycombinator.com/item?id=50245138">hacker news</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <h2>Overview of Text-Based AI Agents Operating Through Messaging Apps</h2>
 <p>A growing number of artificial intelligence agents operate directly through text messaging platforms like SMS, iMessage, and WhatsApp, enabling users to delegate daily tasks without downloading dedicated applications. These tools maintain conversation context, connect to existing software services, and handle workflows such as scheduling, travel research, and personal reminders.</p><p>The market encompasses assistants designed for general productivity, family organization, and specific professional or travel requirements. Notable options range from heavily funded startups like Instinct and Fambot to open-source alternatives like Comma, reflecting diverse pricing models, autonomy levels, and privacy standards across the industry.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/">techcrunch.com</a></small></p>
-
-<h2>LessWrong Investigation Examines How Claude Fable 5.1 Hides Messages in Images</h2>
-<p>An investigation published on LessWrong examines how Claude Fable 5.1 hides pre-specified text messages within generated SVG images. Researchers tested 50 short messages and evaluated whether a separate session of the AI model could successfully detect and decode the hidden content.</p><p>The study found that the model employs various steganographic techniques, such as encoding messages through Morse code, object rotations, colors, structural heights, lit windows, and the vertical placement of stars. The findings offer insights into model capabilities regarding visual data embedding and retrieval.</p>
-<p><small>Links: <a href="https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images">lesswrong.com</a> | <a href="https://news.ycombinator.com/item?id=50201445">hacker news</a></small></p>
 
 ---
 

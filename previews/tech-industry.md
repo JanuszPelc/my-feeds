@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>Proton to Re-Interview Staff on AI Usage to Determine Continued Employment</h2>
+<p>Proton has announced "re-interviews" for employees regarding their use of artificial intelligence, a process that may determine continued employment. Internal emails obtained by 404 Media indicate the assessments will inform talent reviews and could result in changes to roles, responsibilities, or employment status.</p><p>The initiative follows CEO Andy Yen's push to integrate AI into company products, such as the Lumo chatbot. The interviews, scheduled for November 4–11, will be conducted by leaders from outside the employees' immediate reporting lines to identify staff capable of translating AI capabilities into improved product execution and new workflows.</p>
+<p><small>Links: <a href="https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=50251062">hacker news</a></small></p>
+
 <h2>Instagram Tests 90-Minute Horizontal Videos for Creators and Podcasters</h2>
 <p>Instagram is launching a test allowing select U.S. creators to upload horizontal videos of up to 90 minutes. Titled "Features," the product is designed for podcasters, comedians, and long-form creators, enabling viewers to transition seamlessly from short promotional Reels directly into full-length videos.</p><p>The test expands on earlier trials in Brazil and aims to help Instagram compete with platforms like YouTube for consumer viewing hours. The long-form content will be recommended via the Explore page and integrated into Instagram's TV app, which is expanding to Apple TV following previous rollouts on Samsung, Fire TV, and Google TV hardware.</p>
 <p><small>Links: <a href="https://www.hollywoodreporter.com/business/digital/instagram-tests-90-minute-videos-podcasters-creators-1236739929/">hollywoodreporter.com</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <h2>India&#x27;s Chip Design Startups Struggle With Commercialization Hurdles</h2>
 <p>Propelled by government backing, India's chip design startups are approaching commercial production, but they face significant obstacles in achieving competitive pricing. Capital constraints, extended development cycles, and low order volumes hinder their ability to scale efficiently.</p><p>These manufacturing and supply chain hurdles threaten to impede the country's broader ambitions to establish a robust domestic semiconductor ecosystem. Without higher production volumes to reduce per-unit fabrication costs, startups struggle to secure a sustainable footing in global markets.</p>
 <p><small>Links: <a href="https://asia.nikkei.com/business/tech/semiconductors/india-s-chip-design-startups-struggle-with-final-commercial-hurdle">asia.nikkei.com</a></small></p>
-
-<h2>Toyota Expands Robotics Operations With Walden Spin-off and Factory Plan</h2>
-<p>Toyota is expanding its industrial robotics initiatives, commercializing decades of research to compete with rivals in the automated manufacturing space. As part of this push, the automaker's AI robotics spinout Walden Robotics has emerged from stealth with $300 million in funding and a $1.1 billion valuation, deploying physical AI robots directly into factory production.</p><p>The broader strategy involves substantial annual capital investments to scale automation across manufacturing facilities. By integrating advanced machine learning and physical AI systems, the Japanese group aims to enhance factory efficiency and maintain its competitive edge against growing international competition.</p>
-<p><small>Links: <a href="https://www.ft.com/content/8bf93407-6b93-4ebb-b54b-f290ebd563e3">ft.com</a> | <a href="https://www.waldenrobotics.com/news/walden-robotics-launches-with-300-million">source</a></small></p>
 
 ---
 

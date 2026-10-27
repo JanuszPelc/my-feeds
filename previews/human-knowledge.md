@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>OpenAI AI Disproves Exponential Time Hypothesis</h2>
+<p>The Exponential Time Hypothesis (ETH) has been disproved by OpenAI's AI models through a deterministic algorithm that counts satisfying assignments of fixed-width CNF formulas in subexponential time and polynomial space.</p><p>The discovery was one of three scientific breakthroughs in mathematics, computer science, and physics announced by the company. Scientists who originally proposed the ETH will lead an independent verification of the findings.</p>
+<p><small>Links: <a href="https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf">github.com</a> | <a href="https://news.ycombinator.com/item?id=50251661">hacker news</a></small></p>
+
 <h2>Google DeepMind AI Model Outperforms Traditional Weather Models in Hurricane Isaias Forecasts</h2>
 <p>Meteorologists and hurricane experts report that artificial intelligence models, specifically Google DeepMind's system, are rapidly transforming weather forecasting. When Hurricane Isaias made landfall as a Category 2 storm in early October, the Google DeepMind AI model accurately predicted its path toward the western Florida Panhandle while conventional physics-based models incorrectly projected a more westward track toward southeastern Louisiana.</p><p>While traditional models rely on real-time atmospheric data and complex physical equations, AI models analyze thousands of historical storms using neural networks to identify patterns. The National Hurricane Center incorporated Google's model into its operational forecasts beginning last year, though forecasters continue to use a blend of models and human expertise because the AI system was less effective at predicting storm intensity compared to its accuracy in tracking paths.</p>
 <p><small>Links: <a href="https://www.npr.org/2026/10/26/nx-s1-6012820/ai-hurricane-forecast-google-deepmind-isaias">npr.org</a> | <a href="https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/">source</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <h2>ESO Astronomers Report Possible Detection of First Exosatellite in CD-35 2722 System</h2>
 <p>Astronomers using the European Southern Observatory's Very Large Telescope have found evidence of a massive moon-like object in the CD-35 2722 star system. Rather than orbiting a planet, this Jupiter-mass object circles a brown dwarf, which in turn orbits a star about half the mass of the Sun.</p><p>Reported in Nature, the discovery complicates traditional astronomical classifications that sharply separate planets, stars, and natural satellites. Because no exomoon has yet been definitively confirmed, researchers hope upcoming facilities like the Extremely Large Telescope will help verify such unusual systems and clarify how they form.</p>
 <p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261023023736.htm">sciencedaily.com</a> | <a href="https://www.eso.org/public/news/eso2610/">source</a></small></p>
-
-<h2>Planet Argon Releases 2026 Ruby on Rails Community Survey Results</h2>
-<p>Planet Argon has published the results of its ninth annual Ruby on Rails Community Survey, gathering insights from nearly 1,800 developers across 80 countries. The survey examines current development practices, version updates, deployment tooling, and team structures within the ecosystem.</p><p>This year's edition focuses heavily on artificial intelligence, revealing that while a majority of respondents have integrated AI into their workflows and accepted its permanence, many remain anxious about its long-term impact on their skills. Additional findings highlight trends in database preferences, editor usage, and infrastructure tools like the deployment utility Kamal.</p>
-<p><small>Links: <a href="https://railsdeveloper.com/survey/2026">railsdeveloper.com</a> | <a href="https://lobste.rs/s/ysah7i/2026_ruby_on_rails_community_survey">discussion</a> | <a href="https://news.ycombinator.com/item?id=50108151">hacker news</a></small></p>
 
 ---
 
