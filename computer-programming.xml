@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-27T11:19:00+00:00</updated>
+  <updated>2026-10-27T11:21:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Douglas Menuez Photography Collection Features NeXT Computer, Inc. Archive at Stanford University</title>
+    <link href="https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry" rel="alternate" />
+    <id>https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry::v240</id>
+    <published>2026-10-27T11:21:00+00:00</published>
+    <updated>2026-10-27T11:21:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Farchive.org%2Fdownload%2FNeXTComputerOffices%2FLocal_1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry">exhibits.stanford.edu</a> | <a href="https://news.ycombinator.com/item?id=50238763">hacker news</a></small></p><hr/><p>The Douglas Menuez Photography Collection at Stanford University features an extensive archive documenting NeXT Computer, Inc. as part of its broader preservation of Silicon Valley history. The collection includes documentary photographs capturing the operations, leadership, and technology development behind Steve Jobs's post-Apple venture during the late 1980s and 1990s.</p><p>Photographer Doug Menuez spent decades securing unprecedented behind-the-scenes access to major technology companies, startups, and venture capital firms. Stanford Libraries hosts these materials online to provide researchers and the public with primary visual documentation of the region's high-technology industry growth and business culture.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Farchive.org%2Fdownload%2FNeXTComputerOffices%2FLocal_1.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 16:37 UTC | #25481</small>]]></content>
+  </entry>
   <entry>
     <title>Gforth 1.0 Release Notes and User-Visible Changes</title>
     <link href="https://gforth.org/manual/1.0/NEWS.html" rel="alternate" />
