@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-27T11:10:00+00:00</updated>
+  <updated>2026-10-27T11:13:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Center for Astrophysics Researchers Unveil Lumina Simulation of Early Universe</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261026225600.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261026225600.htm::v240</id>
+    <published>2026-10-27T11:13:00+00:00</published>
+    <updated>2026-10-27T11:13:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fscx1.b-cdn.net%2Fcsz%2Fnews%2F800a%2F2026%2Fsmithsonian-scientists-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261026225600.htm">sciencedaily.com</a> | <a href="https://www.si.edu/newsdesk/releases/smithsonian-scientists-create-most-detailed-simulation-yet-early-universe">source</a></small></p><hr/><p>Researchers at the Center for Astrophysics | Harvard &amp; Smithsonian have developed Lumina, a detailed cosmological simulation that reconstructs the first two billion years after the Big Bang. Published in Monthly Notices of the Royal Astronomical Society, the model simulates interactions between ordinary matter, dark matter, and radiation across a volume of space more than 100 times larger than comparable previous projects.</p><p>Powered by more than 15,000 graphics processing units on the Frontier supercomputer at Oak Ridge National Laboratory, the simulation tracks the evolution of the intergalactic medium, galaxies, and black holes while simultaneously modeling hydrogen and helium reionization. Scientists plan to use Lumina to interpret observations from instruments such as the James Webb Space Telescope and evaluate how well existing theoretical models describe cosmic evolution.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fscx1.b-cdn.net%2Fcsz%2Fnews%2F800a%2F2026%2Fsmithsonian-scientists-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 14:59 UTC | #25551</small>]]></content>
+  </entry>
   <entry>
     <title>UC San Diego Engineers Develop Light-Based Magnetism Control for Faster Memory</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261025073046.htm" rel="alternate" />
