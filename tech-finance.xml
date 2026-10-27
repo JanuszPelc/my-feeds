@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-26T22:06:00+00:00</updated>
+  <updated>2026-10-26T22:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Intel to Acquire Israeli Quantum Computing Startup Classiq</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push::v240</id>
+    <published>2026-10-26T22:08:00+00:00</published>
+    <updated>2026-10-26T22:08:00+00:00</updated>
+    <media:thumbnail url="https://cdnimg.co/0adf2a70-1ef7-4f05-b8a4-faa1afd3c764/screenshots/794ca51b-b8a4-47bd-a763-e1661de1a3d0/quantum-computing-startups-quantum-platform.jpg" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push">bloomberg.com</a> | <a href="https://www.intc.com/news-events/press-releases/detail/1784/intel-to-acquire-classiq-to-create-a-full-stack-quantum">source</a> | <a href="https://news.ycombinator.com/item?id=50251223">hacker news</a></small></p><hr/><p>Intel Corp. has agreed to acquire Tel Aviv-based Classiq Technologies Ltd., a quantum computing software startup, to accelerate the development of a full-stack quantum computing platform. The acquisition aims to integrate Classiq's quantum algorithm synthesis platform with Intel's spin-qubit manufacturing and existing software capabilities.</p><p>The deal is estimated to be valued between $2.2 billion and $2.3 billion, representing one of the largest acquisitions in the quantum computing sector. Classiq has raised more than $200 million in funding and maintains a workforce of approximately 130 employees.</p><p><img src="https://cdnimg.co/0adf2a70-1ef7-4f05-b8a4-faa1afd3c764/screenshots/794ca51b-b8a4-47bd-a763-e1661de1a3d0/quantum-computing-startups-quantum-platform.jpg" /></p><hr/><small>27 Oct 2026, 04:18 UTC | #25521</small>]]></content>
+  </entry>
   <entry>
     <title>RedotPay Preparing Confidential US IPO Filing by Year-End</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-26/redotpay-said-to-prepare-confidential-ipo-filing-by-year-end" rel="alternate" />

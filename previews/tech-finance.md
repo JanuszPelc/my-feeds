@@ -8,6 +8,10 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Intel to Acquire Israeli Quantum Computing Startup Classiq</h2>
+<p>Intel Corp. has agreed to acquire Tel Aviv-based Classiq Technologies Ltd., a quantum computing software startup, to accelerate the development of a full-stack quantum computing platform. The acquisition aims to integrate Classiq's quantum algorithm synthesis platform with Intel's spin-qubit manufacturing and existing software capabilities.</p><p>The deal is estimated to be valued between $2.2 billion and $2.3 billion, representing one of the largest acquisitions in the quantum computing sector. Classiq has raised more than $200 million in funding and maintains a workforce of approximately 130 employees.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/intel-to-buy-israeli-startup-classiq-in-quantum-computing-push">bloomberg.com</a> | <a href="https://www.intc.com/news-events/press-releases/detail/1784/intel-to-acquire-classiq-to-create-a-full-stack-quantum">source</a> | <a href="https://news.ycombinator.com/item?id=50251223">hacker news</a></small></p>
+
 <h2>RedotPay Preparing Confidential US IPO Filing by Year-End</h2>
 <p>Hong Kong-based RedotPay is considering a confidential application for a U.S. initial public offering by the end of the year. The stablecoin payments firm is also in talks for a pre-IPO funding round that could value the company between $4 billion and $5 billion.</p><p>The move follows previous delays involving regulatory and legal discussions. The potential listing reflects sustained investor interest in the cryptocurrency payments sector.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/redotpay-said-to-prepare-confidential-ipo-filing-by-year-end">bloomberg.com</a></small></p>
@@ -63,10 +67,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <h2>Pathos AI Raises $237 Million in Series E Funding at $3 Billion Valuation</h2>
 <p>Pathos AI has closed a $237 million Series E funding round at a post-money valuation of $3 billion. Led by Bristol Myers Squibb, the financing will expand the company's agentic artificial intelligence drug development platform and advance its therapeutic pipeline.</p><p>The funding announcement coincides with a strategic partnership between Pathos AI and Bristol Myers Squibb targeting Alzheimer's disease research. The round significantly increases the company's valuation following previous fundraising efforts, highlighting ongoing investor demand for artificial intelligence integration in biopharma.</p>
 <p><small>Links: <a href="https://www.axios.com/pro/biotech-deals/2026/10/23/pathos-ai-raises-237m-3b-valuation">axios.com</a> | <a href="https://www.businesswire.com/news/home/20261023421846/en/Pathos-AI-Secures-$237-Million-in-Series-E-Financing-to-Scale-Agentic-AI-Drug-Development-Platform-and-Advance-Oncology-Pipeline">source</a></small></p>
-
-<h2>Taler Operations AG Founded to Operate GNU Taler in Germany</h2>
-<p>Taler Operations AG is being established in Bochum, Germany, to operate the privacy-focused GNU Taler payment system in Euros. The newly formed company will apply to BaFin, the German financial supervisory authority, for an electronic money institution licence after the project's initial banking partner, GLS Bank, decided not to pursue the role.</p><p>GNU Taler remains free and open-source software, with the new corporate entity focusing strictly on managing the regulated payment infrastructure. To satisfy regulatory capital mandates and fund operations prior to revenue generation, Taler Operations AG is currently seeking investments of at least €50,000 from backers aligned with the project's privacy and public-interest goals.</p>
-<p><small>Links: <a href="https://www.taler.net/en/news/2026-13.html">taler.net</a> | <a href="https://news.ycombinator.com/item?id=50197404">hacker news</a></small></p>
 
 ---
 
