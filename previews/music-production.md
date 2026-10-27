@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>MyAudioFactory Updates ProAudioDeclipper to v1.13.0</h2>
+<a name="story-25598"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fproaudiodeclipper.1793111332.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>MyAudioFactory has released version 1.13.0 of ProAudioDeclipper, its real-time audio restoration plugin designed to repair clipped and saturated audio.</p><p>The update introduces full accessibility support with complete keyboard navigation and parameter control, resolves multi-processor over-booking performance issues, and includes general user interface refinements for improved usability.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/myaudiofactory-updates-proaudiodeclipper-to-v1-13-0-69460?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69460">kvraudio.com</a> | <a href="https://www.myaudiofactory.com/proaudiodeclipper.html">source</a></small></p>
+<br clear="all" />
+
 <h2>VGTrumpet Releases VG Windscape Audiovisual Instrument</h2>
 <a name="story-25599"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmain-02-web.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>VGTrumpet has released VG Windscape, an audiovisual plugin and standalone application that generates real-time visuals alongside audio performances. Designed primarily for wind and breath controllers as well as MIDI keyboards, the software uses player input such as breath pressure and notes to drive an accompanying browser-based visual display.</p><p>Built on the VG Wind Ensemble engine, the instrument features thirteen pad and texture sound sets, a dedicated Pad/Scape mode, and individual layers equipped with delay, reverb, and freeze effects. The visual component runs in Google Chrome alongside the main DAW plugin or standalone app, allowing users to record performances directly to video files or output them to a secondary monitor or projector for live stage use.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25486"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpluginfox.com%2Fcdn%2Fshop%2Ffiles%2FLexicon224Gui1.png%3Fv%3D1684861169&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cineol-X 224 is a free reverb plugin for macOS and Windows that emulates classic hardware units using data derived from original Lexicon 224 v4.4 and 224 XL v8.21 firmware. It includes 28 programs spanning the six algorithms of the original 224 and 22 algorithms from the 224XL, featuring an automatic engine selection function.</p><p>Operation requires users to supply their own original Lexicon ROM files upon first use. The VST3 plugin is available for download via the project's GitHub releases page.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/26/cineol-x-224-lexicon-reverb/">bedroomproducersblog.com</a> | <a href="https://github.com/temaniak/cineolX/releases">source</a> | <a href="https://bedroomproducersblog.com/2026/10/26/cineol-x-224-lexicon-reverb/#comments">discussion</a></small></p>
-<br clear="all" />
-
-<h2>IK Multimedia Introduces TONEX Free Unlimited</h2>
-<a name="story-25487"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsoundgale.com%2Fwp-content%2Fuploads%2FIK-Multimedia-TONEX-software-librarian-1024x658.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>IK Multimedia has released TONEX Free Unlimited, an expansion of its free TONEX 2 CS guitar and bass software. Rolled out with version 2.2, the update removes previous restrictions on the platform, allowing users to perform unlimited free downloads from ToneNET and create an unlimited number of Tone Models.</p><p>The updated free tier also includes 120 built-in Tone Models—comprising 40 premium models and 80 from tone partners—along with integrated effects. These additions provide musicians with a fully functional AI-powered amp and cabinet modeling environment without requiring a paid subscription.</p>
-<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/26/ik-multimedia-tonex-free-unlimited/">bedroomproducersblog.com</a> | <a href="https://www.ikmultimedia.com/news/?item_id=17132">source</a> | <a href="https://bedroomproducersblog.com/2026/10/26/ik-multimedia-tonex-free-unlimited/#comments">discussion</a></small></p>
 <br clear="all" />
 
 ---

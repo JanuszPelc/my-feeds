@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-27T16:54:00+00:00</updated>
+  <updated>2026-10-27T16:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>MyAudioFactory Updates ProAudioDeclipper to v1.13.0</title>
+    <link href="https://www.kvraudio.com/news/myaudiofactory-updates-proaudiodeclipper-to-v1-13-0-69460?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69460" rel="alternate" />
+    <id>https://www.kvraudio.com/news/myaudiofactory-updates-proaudiodeclipper-to-v1-13-0-69460?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69460::v240</id>
+    <published>2026-10-27T16:57:00+00:00</published>
+    <updated>2026-10-27T16:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fproaudiodeclipper.1793111332.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.kvraudio.com/news/myaudiofactory-updates-proaudiodeclipper-to-v1-13-0-69460?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69460">kvraudio.com</a> | <a href="https://www.myaudiofactory.com/proaudiodeclipper.html">source</a></small></p><hr/><p>MyAudioFactory has released version 1.13.0 of ProAudioDeclipper, its real-time audio restoration plugin designed to repair clipped and saturated audio.</p><p>The update introduces full accessibility support with complete keyboard navigation and parameter control, resolves multi-processor over-booking performance issues, and includes general user interface refinements for improved usability.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fproaudiodeclipper.1793111332.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 19:40 UTC | #25598</small>]]></content>
+  </entry>
   <entry>
     <title>VGTrumpet Releases VG Windscape Audiovisual Instrument</title>
     <link href="https://www.kvraudio.com/news/vgtrumpet-releases-vg-windscape-audiovisual-instrument---vst-au-standalone-app-69453?utm_source=kvrnewsfeed&amp;utm_medium=rssfeed&amp;utm_campaign=rss&amp;utm_content=69453" rel="alternate" />
