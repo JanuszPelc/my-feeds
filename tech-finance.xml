@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-27T14:24:00+00:00</updated>
+  <updated>2026-10-27T16:08:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>PayPal Reports Third-Quarter Revenue of $8.58 Billion and Lifts Full-Year Outlook</title>
+    <link href="https://www.wsj.com/business/retail/paypal-lifts-full-year-outlook-ceo-stresses-turnaround-plan-15cd0e2e?st=HHaBnz&amp;reflink=desktopwebshare_permalink" rel="alternate" />
+    <id>https://www.wsj.com/business/retail/paypal-lifts-full-year-outlook-ceo-stresses-turnaround-plan-15cd0e2e?st=HHaBnz&amp;reflink=desktopwebshare_permalink::v240</id>
+    <published>2026-10-27T16:08:00+00:00</published>
+    <updated>2026-10-27T16:08:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets.website-files.com%2F62ac4aacc75a115ff9dcb9bc%2F63bfdfbff6b1fc5865d062e6_What%2Bis%2BPayPal%E2%80%99s%2Brevenue.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.wsj.com/business/retail/paypal-lifts-full-year-outlook-ceo-stresses-turnaround-plan-15cd0e2e?st=HHaBnz&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://investor.paypal-corp.com/financials/quarterly-results/default.aspx">source</a></small></p><hr/><p>PayPal reported third-quarter revenue of $8.58 billion, representing a 2% increase year-over-year that fell slightly short of analyst projections, while total payment volume grew 6% to $487.14 billion. Total payment volume climbed as management advanced its ongoing operational turnaround strategy.</p><p>Despite the top-line revenue miss, the company raised its full-year adjusted earnings-per-share guidance to approximately $5.60, exceeding consensus expectations. The upward revision reflects continued margin improvements and strategic adjustments under chief executive leadership.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.website-files.com%2F62ac4aacc75a115ff9dcb9bc%2F63bfdfbff6b1fc5865d062e6_What%2Bis%2BPayPal%E2%80%99s%2Brevenue.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 18:37 UTC | #25558</small>]]></content>
+  </entry>
   <entry>
     <title>Hyphenate Raises $45 Million Series A for Finance AI Agents</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-27/microsoft-alumni-score-funding-to-build-ai-agents-for-finance" rel="alternate" />

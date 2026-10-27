@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-27T11:16:00+00:00</updated>
+  <updated>2026-10-27T16:09:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>GMO Internet Reports Publication of Stolen Customer Data Following Onamae Cloud Breach</title>
+    <link href="https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/" rel="alternate" />
+    <id>https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/::v240</id>
+    <published>2026-10-27T16:09:00+00:00</published>
+    <updated>2026-10-27T16:09:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F328456000%2Frectangle_large_type_2_b126fadce740ced6402b3aaeeed443e9.png%3Fwidth%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/">techcrunch.com</a> | <a href="https://internet.gmo/en/news/article/256/">source</a></small></p><hr/><p>Japanese internet services provider GMO Internet is investigating a data leak after suspected hackers published information allegedly linked to the company and its customers. The incident stems from unauthorized access to the company's Onamae Desktop Cloud service, a virtualized desktop platform heavily utilized by financial traders.</p><p>The breach, which potentially affects nearly 27,000 servers, prompted GMO Internet to shut down the platform, reject a ransom demand of roughly 8 billion yen ($50 million), and institute customer compensation measures. The company is currently cooperating with police and government agencies to verify the leaked data and analyze affected customer devices for malware.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F328456000%2Frectangle_large_type_2_b126fadce740ced6402b3aaeeed443e9.png%3Fwidth%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 18:38 UTC | #25568</small>]]></content>
+  </entry>
   <entry>
     <title>Analysis of Contabo Web Crawler Log Files Reveals Structured Traversal Patterns</title>
     <link href="https://bruceediger.com/posts/contabo-crawler/" rel="alternate" />

@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>PayPal Reports Third-Quarter Revenue of $8.58 Billion and Lifts Full-Year Outlook</h2>
+<a name="story-25558"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.website-files.com%2F62ac4aacc75a115ff9dcb9bc%2F63bfdfbff6b1fc5865d062e6_What%2Bis%2BPayPal%E2%80%99s%2Brevenue.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>PayPal reported third-quarter revenue of $8.58 billion, representing a 2% increase year-over-year that fell slightly short of analyst projections, while total payment volume grew 6% to $487.14 billion. Total payment volume climbed as management advanced its ongoing operational turnaround strategy.</p><p>Despite the top-line revenue miss, the company raised its full-year adjusted earnings-per-share guidance to approximately $5.60, exceeding consensus expectations. The upward revision reflects continued margin improvements and strategic adjustments under chief executive leadership.</p>
+<p><small>Links: <a href="https://www.wsj.com/business/retail/paypal-lifts-full-year-outlook-ceo-stresses-turnaround-plan-15cd0e2e?st=HHaBnz&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://investor.paypal-corp.com/financials/quarterly-results/default.aspx">source</a></small></p>
+<br clear="all" />
+
 <h2>Hyphenate Raises $45 Million Series A for Finance AI Agents</h2>
 <a name="story-25547"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.antier.com%2Fblogs%2Fwp-content%2Fuploads%2F2025%2F02%2FAI-Agents-in-Finance-A-Game-Changer-for-Forecasting-and-Analytics.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hyphenate Inc., a startup developing reinforcement-learning-driven artificial intelligence agents to automate corporate finance operations, has secured $45 million in a Series A funding round led by Nexus Venture Partners. The latest round brings the two-year-old company's total funding to $54 million.</p><p>Founded by former Microsoft colleagues Ramnandan Krishnamurthy and Ajay Krishna Amudan, the company builds autonomous finance agents designed to handle accounting, treasury, and other complex workflows without requiring manual prompts or rigid rule sets from scratch. The fresh capital will be used to accelerate the development and expansion of its AI-driven finance platform.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25348"><img src="https://wsrv.nl/?url=https%3A%2F%2Ficdn.isrgrajan.com%2Fin%2F2026%2F10%2Flseg-agrees-to-buy-credit-intelligence-provider-octus-3-535bn.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>London Stock Exchange Group has agreed to acquire credit intelligence and workflow software provider Octus from Permira and company management for $3.54 billion in cash. The transaction is designed to expand the group's presence across both public and private credit data markets.</p><p>The acquisition represents LSEG's largest deal in seven years as the company enhances its data and analytics capabilities amid rising demand for specialized financial technology. Alongside the announcement, LSEG raised its full-year outlook for revenue and profit margins.</p>
 <p><small>Links: <a href="https://www.wsj.com/business/deals/london-stock-exchange-group-agrees-to-buy-octus-from-permira-for-3-5-billion-69361aa5?st=DDte3S&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://www.lseg.com/en/media-centre/press-releases/2026/lseg-acquire-octus-public-private-credit-solutions">source</a></small></p>
-<br clear="all" />
-
-<h2>AI Film Studio Utopai Raises $60 Million at $1 Billion Valuation</h2>
-<a name="story-25276"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn.prod.website-files.com%2F68a3683abb74228f4d39b151%2F69c47ad099717f9907229be0_eq4Fi589JiLRgTXUV8647E.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>AI-native film and television production startup Utopai Studios has raised $60 million in a funding round that values the company at $1 billion. The Mountain View, California-based company is currently developing more than 20 projects, with plans to release three feature films in theaters next year.</p><p>The financing underscores growing investor interest in video artificial intelligence technologies within the entertainment industry. Utopai has already received term sheets for a subsequent financing round that could value the company between $2 billion and $3 billion.</p>
-<p><small>Links: <a href="https://www.theinformation.com/articles/utopai-becomes-unicorn-video-ai-takes">theinformation.com</a></small></p>
 <br clear="all" />
 
 ---
