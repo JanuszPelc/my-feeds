@@ -87,10 +87,8 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
 <br clear="all" />
 
 <h2>Block Releases Dessa Full-Duplex Voice Model</h2>
-<a name="story-25314"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcms.orcarouter.ai%2F_next%2Fimage%3Furl%3D%2Fapi%2Fmedia%2Ffile%2F4-2589.png%3F2026-10-24T02%253A37%253A57.428Z%26w%3D3840%26q%3D100&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Block has released Dessa, a speech-to-speech AI voice model trained entirely on recorded human conversations without intermediate text data. Operating as a full-duplex system, the model can listen and speak simultaneously while expressing emotions, pauses, and natural cadences.</p><p>Running locally on consumer-grade hardware using a single GPU, Dessa bypasses traditional text-to-speech pipelines that rely on external tags. Block has initially restricted public access to conduct safety evaluations, though the technology could eventually support automated experiences across the company's financial services ecosystem.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/">techcrunch.com</a> | <a href="https://block.xyz/dessa">source</a> | <a href="https://news.ycombinator.com/item?id=50213925">hacker news</a></small></p>
-<br clear="all" />
 
 <h2>Convovo Study Finds Political Biases in Grok and OpenAI Language Models</h2>
 <a name="story-25315"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F696401%2Foriginal%2Ffile-20251015-66-1xl5le.png%3Fixlib%3Drb-4.1.0%26q%3D45%26auto%3Dformat%26w%3D1000%26fit%3Dclip&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>

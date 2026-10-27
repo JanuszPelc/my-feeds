@@ -39,10 +39,8 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <br clear="all" />
 
 <h2>Lawmakers and Hill Staffers View AI Leaders as Political Liability</h2>
-<a name="story-25368"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F023%2F826%2F514%2Flarge_2x%2Fai-artificial-intelligence-humanoid-side-portrait-view-with-blue-and-orange-vibrant-neon-and-copy-space-artificial-intelligence-technology-concept-ai-generated-illustration-free-photo.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Lawmakers and congressional staffers across political parties increasingly view artificial intelligence industry leaders as a political liability due to conflicting messaging. Executives frequently alternate between predicting unprecedented economic prosperity and warning of existential threats, frustrating policymakers attempting to draft technology regulation.</p><p>This friction highlights a growing weariness in Washington regarding Silicon Valley's approach to governance and policy lobbying. While tech companies push for specific frameworks or lobby at the state level, lawmakers are losing patience with the shifting narratives and cultural disconnect presented by industry executives.</p>
 <p><small>Links: <a href="https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability">axios.com</a></small></p>
-<br clear="all" />
 
 <h2>Missileer Watch Tracks Military Emergency Action Messages on Shortwave Radio</h2>
 <a name="story-25380"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMHPUYNloJTA%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
@@ -69,10 +67,8 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
 <br clear="all" />
 
 <h2>Canadian MPs Advance Bill S-211 to Restrict Sports Gambling Advertising</h2>
-<a name="story-25298"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.cbc.ca%2Fais%2F5bb74cce-28f0-4492-bb87-bfe9a3fb12fb%2C1792618879789%2Ffull%2Fmax%2F0%2Fdefault.jpg%3Fim%3DCrop%252Crect%253D%25280%252C0%252C1920%252C1080%2529%253BResize%253D620&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Federal lawmakers in Canada are advancing Bill S-211 to establish a national framework restricting sports betting and online casino advertisements across broadcasts, social media, and athletic gear. The legislative push follows new research conducted during the 2026 NHL playoffs showing that viewers are exposed to two to three gambling messages every minute, alongside rising rates of problem gambling and gambling-related suicides.</p><p>While health organizations and addiction researchers support federal intervention to curb pervasive marketing, the Canadian Gaming Association and provincial governments in Ontario and Alberta oppose the national framework. If approved by the House of Commons standing committee, the bill could lead to stricter regulations, including time-of-day bans and restrictions on celebrity and athlete endorsements.</p>
 <p><small>Links: <a href="https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888">cbc.ca</a> | <a href="https://news.ycombinator.com/item?id=50195873">hacker news</a></small></p>
-<br clear="all" />
 
 <h2>Block Details Privacy Practices for Dessa AI Website</h2>
 <a name="story-25284"><img src="https://wsrv.nl/?url=https%3A%2F%2Fcdn-cabinet.ua.news%2Fuploads%2Fimages%2Fblock_presentyla_holosovu_shi_model_dess_1792784359506.webp%3F8041007&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>

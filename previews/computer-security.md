@@ -81,10 +81,8 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <br clear="all" />
 
 <h2>Samsung Tizen TV Software Found Running TensorFlow Lite Model for Game Recognition</h2>
-<a name="story-25382"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.journaldugeek.com%2Fapp%2Fuploads%2F2024%2F10%2Fsamsung-tizen-tv.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Security researcher @mike64_t discovered that Samsung's Tizen smart TV operating system runs a TensorFlow Lite model in the background every few seconds to analyze user activity. The system captures screen data in an apparent effort to determine what game is currently being played.</p><p>The background process utilizes a model file named alex.tflite, which implements the AlexNet deep learning architecture with INT8 quantization on 960x540 resolution images. This automated content recognition mechanism highlights ongoing background telemetry operating on live consumer televisions.</p>
 <p><small>Links: <a href="https://twitter.com/mike64_t/status/2114150399406202896">twitter.com</a> | <a href="https://news.ycombinator.com/item?id=50230181">hacker news</a></small></p>
-<br clear="all" />
 
 <h2>OpenSSL 4.1.0 Released With DTLS 1.3 and Performance Optimizations</h2>
 <a name="story-25342"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.grijjy.com%2Fwp-content%2Fuploads%2F2020%2F08%2Fopenssl.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>

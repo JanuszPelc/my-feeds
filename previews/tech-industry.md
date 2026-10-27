@@ -81,10 +81,8 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <br clear="all" />
 
 <h2>TSMC’s Phoenix Fab Examined as a Test for American Semiconductor Manufacturing</h2>
-<a name="story-25434"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.tsmc.com%2Fstatic%2Fabouttsmcaz%2Fimg%2Fabout_arizona.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>TSMC's initial Phoenix fabrication facility has achieved chip output rates comparable to its plants in Taiwan, marking a notable milestone for domestic semiconductor manufacturing. Taiwanese engineers on-site are helping train American workers to restore local industrial expertise.</p><p>The extensive project and the influx of related families are reshaping the economic and cultural landscape of north Phoenix. Observers note parallels to historical industrial transfers, such as when Japanese automakers previously introduced advanced management and engineering practices to the United States.</p>
 <p><small>Links: <a href="https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html?unlocked_article_code=1.LVE.T4pO.KW_xY6NbyH_s&smid=nytcore-ios-share">nytimes.com</a></small></p>
-<br clear="all" />
 
 <h2>Alphabet, Amazon, and Microsoft Expected to Report Strong Revenue Amid AI Spending Scrutiny</h2>
 <a name="story-25429"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.seekingalpha.com%2Fuploads%2F2024%2F11%2F8%2Fsaupload_428436977.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>

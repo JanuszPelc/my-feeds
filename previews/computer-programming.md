@@ -67,10 +67,8 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programmin
 <br clear="all" />
 
 <h2>PaperPilot Open-Source Local PDF and Document Toolkit Released in Rust</h2>
-<a name="story-25497"><img src="https://wsrv.nl/?url=https%3A%2F%2Frexai.top%2Fimages%2Fpure-rust-html-to-pdf-engine%2Fcover.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>PaperPilot is a privacy-focused PDF and document toolkit written in pure Rust that operates entirely locally without cloud calls. Designed for both human workflows and AI coding agents, the engine provides document manipulation tools—including merging, splitting, compression, and OCR—across a command-line interface, a Model Context Protocol (MCP) server, a local REST API, and a browser-based WebAssembly version.</p><p>The project shares a unified Rust core across its various surfaces to ensure consistent performance while keeping files on the user's machine. Available under an Apache 2.0 license, PaperPilot currently supports tasks like page reordering, watermarking, and signature validation, with upcoming updates planned to introduce broad format conversions for Markdown, HTML, and Microsoft Office files.</p>
 <p><small>Links: <a href="https://github.com/KrushnaVardhanReddy/PaperPilot">github.com</a> | <a href="https://news.ycombinator.com/item?id=50238739">hacker news</a></small></p>
-<br clear="all" />
 
 <h2>Veit Heller Details Writing a Simple Sudoku Solver in AArch64 Assembly</h2>
 <a name="story-25485"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdl.flathub.org%2Frepo%2Fscreenshots%2Fio.gitlab.cyberphantom52.sudoku_solver-stable%2F752x423%2Fio.gitlab.cyberphantom52.sudoku_solver-1d944e197ae0e2cc3367d747003105d3.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>

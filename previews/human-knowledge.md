@@ -85,10 +85,8 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <br clear="all" />
 
 <h2>Yale University Study Suggests Spinosaurus Spent Most of Life Underwater</h2>
-<a name="story-25375"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs3.animalia.bio%2Fdinosauropedia%2Fdinosaurs%2Fphotos%2Fresize%2F900%2Fspinosaurus-palaeoecological-reconstruction.webp%3Fid%3D9c54003c7598c7676e518a5b2a3ddfab&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Researchers at Yale University have developed a machine learning approach to reconstruct the lifestyles of extinct vertebrates, concluding that the predatory dinosaur Spinosaurus spent the vast majority of its life submerged underwater. By analyzing skeletal measurements from hundreds of fossil and modern specimens alongside a statistical method originally developed during World War II, the team evaluated limb proportions to predict soft-tissue swimming adaptations and aquatic habits with high accuracy.</p><p>The findings provide new support for a heavily aquatic interpretation of Spinosaurus, contrasting with other ancient marine reptiles like mesosaurs, whose limb proportions indicate they regularly moved between land and water. The researchers found that all Paleozoic marine reptiles retained amphibious habits and regularly returned to land, highlighting distinct evolutionary pathways in secondary aquatic adaptation.</p>
 <p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261024221956.htm">sciencedaily.com</a> | <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(25)01449-6">source</a></small></p>
-<br clear="all" />
 
 <h2>University of Utah Researchers Identify Mushroom Behind Lilliputian Hallucinations</h2>
 <a name="story-25374"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.assettype.com%2Fmedbound%2F2026-03-16%2Fq7mvuw5m%2FMedBound-Times-Image-Edits-57.png%3Fw%3D1200%26auto%3Dformat%2Ccompress%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
