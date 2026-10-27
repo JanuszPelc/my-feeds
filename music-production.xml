@@ -3,9 +3,18 @@
   <title>music-production</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml</id>
-  <updated>2026-10-27T14:26:00+00:00</updated>
+  <updated>2026-10-27T16:10:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/music-production.png?v=285-75-50</logo>
+  <entry>
+    <title>Image-Line Releases FL Studio Mobile 5 Update</title>
+    <link href="https://musictech.com/news/gear/fl-studio-mobile-5-update/" rel="alternate" />
+    <id>https://musictech.com/news/gear/fl-studio-mobile-5-update/::v240</id>
+    <published>2026-10-27T16:10:00+00:00</published>
+    <updated>2026-10-27T16:10:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FFL-Studio-Mobile-5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://musictech.com/news/gear/fl-studio-mobile-5-update/">musictech.com</a> | <a href="https://www.image-line.com/news/whats-new-fl-mobile-5">source</a></small></p><hr/><p>Image-Line has released FL Studio Mobile 5, a major update celebrating the mobile digital audio workstation's tenth anniversary. The new version integrates access to the FL Cloud Sounds library directly within the app, giving users thousands of free samples as well as access to over two million royalty-free sounds for paid subscribers.</p><p>In addition to the cloud sound library integration, the update introduces a highly requested portrait edit mode, live UI scaling, and drag-and-drop file sharing capabilities. Version 5 also features improved mouse and keyboard support, workflow upgrades like smart soloing, and the ability to burn notes directly to tracks, all available at no extra cost under the company's lifetime free updates policy.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FFL-Studio-Mobile-5.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 18:49 UTC | #25572</small>]]></content>
+  </entry>
   <entry>
     <title>Born Second Releases TimeTravel Free Reverse Delay Plugin</title>
     <link href="https://bedroomproducersblog.com/2026/10/27/born-second-timetravel/" rel="alternate" />
