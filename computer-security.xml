@@ -3,9 +3,27 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-27T06:26:00+00:00</updated>
+  <updated>2026-10-27T10:28:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Open3DLab Reports Roblox Scraper Downloaded 145 GB of Community 3D Models</title>
+    <link href="https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/" rel="alternate" />
+    <id>https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/::v240</id>
+    <published>2026-10-27T10:28:00+00:00</published>
+    <updated>2026-10-27T10:28:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpreview.free3d.com%2Fimg%2F2015%2F06%2F2206023501305873745%2Fkpjijuti.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/">open3dlab.com</a> | <a href="https://news.ycombinator.com/item?id=50256985">hacker news</a></small></p><hr/><p>In mid-October 2026, a web crawler identified with Roblox research downloaded 145.5 GB of 3D models across 712 projects from Open3DLab and its sister sites, SFMLab and SmutBase. The scraping script ignored robots.txt instructions, terms of service, and non-commercial creator licenses while gathering data for what operators suspect is 3D foundation model training.</p><p>The downloads included significant volumes of explicit adult content from SmutBase and SFMLab, raising concerns about safety filters and data hygiene for generative AI tools used on platforms with minor users. Open3DLab stated that Roblox failed to respond to multiple inquiries regarding the automated collection, underscoring ongoing tensions over unauthorized web scraping by major technology companies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpreview.free3d.com%2Fimg%2F2015%2F06%2F2206023501305873745%2Fkpjijuti.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 14:00 UTC | #25570</small>]]></content>
+  </entry>
+  <entry>
+    <title>Go Security Team Details Response to eMudhra Key Disclosure Incident</title>
+    <link href="https://go.dev/blog/emudhra-incident" rel="alternate" />
+    <id>https://go.dev/blog/emudhra-incident::v240</id>
+    <published>2026-10-27T06:34:00+00:00</published>
+    <updated>2026-10-27T06:34:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fqaserver-int.emudhra.net%3A18006%2FPaperlessDSC%2Fimages%2Fkc_images%2FKC20-6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://go.dev/blog/emudhra-incident">go.dev</a> | <a href="https://lobste.rs/s/cxdpiu/our_response_emudhra_key_disclosure">discussion</a> | <a href="https://news.ycombinator.com/item?id=50253961">hacker news</a></small></p><hr/><p>Following the discovery that eight eMudhra-issued intermediate certificates relied on trivially weak private keys, the Go Security team utilized its urgent track for the first time to issue patched minor releases. Within approximately seven and a half hours of notification, the team shipped updates that block trust in the compromised intermediates to protect Go users from potential man-in-the-middle attacks.</p><p>The incident highlighted areas for improvement in the release process, prompting adjustments to accelerate future response times and prioritize native certificate-revocation support on Linux. Developers using Go network services are advised to upgrade to versions 1.27.3 or 1.26.10 and verify binaries using tools like govulncheck.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fqaserver-int.emudhra.net%3A18006%2FPaperlessDSC%2Fimages%2Fkc_images%2FKC20-6.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>27 Oct 2026, 13:57 UTC | #25571</small>]]></content>
+  </entry>
   <entry>
     <title>Microsoft Patches High-Severity Flaw in Authenticator for Android</title>
     <link href="https://cybersecuritynews.com/microsoft-authenticator-flaw/" rel="alternate" />
