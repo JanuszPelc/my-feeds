@@ -321,13 +321,4 @@
     <media:thumbnail url="https://pepsipu.com/_astro/mario-kart-results-1-2560.B5lJitnR.webp" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/">pepsipu.com</a> | <a href="https://news.ycombinator.com/item?id=50192536">hacker news</a></small></p><hr/><p>Security researcher Sammy Hajhamid has released ns2jb, the first software-only, tethered jailbreak for the Nintendo Switch 2 targeting firmware 23.0.1. The exploit chain enables arbitrary native code execution, homebrew development, game modifications, and save backups without requiring physical hardware modifications.</p><p>The exploit leverages a vulnerability chain starting from backward-compatible execution through the SmileBASIC application to achieve initial code execution, followed by memory corruption bugs in the built-in fs filesystem sysmodule and loader services to bypass system protections and execute code with elevated permissions.</p><p><img src="https://pepsipu.com/_astro/mario-kart-results-1-2560.B5lJitnR.webp" /></p><hr/><small>22 Oct 2026, 17:44 UTC | #25113</small>]]></content>
   </entry>
-  <entry>
-    <title>FulcrumSec Publishes 10.6 TB Data Leak Details from PingCAP TiDB Cloud</title>
-    <link href="https://fulcrumsec.vg/pingcap/" rel="alternate" />
-    <id>https://fulcrumsec.vg/pingcap/::v240</id>
-    <published>2026-10-22T07:04:00+00:00</published>
-    <updated>2026-10-22T07:04:00+00:00</updated>
-    <media:thumbnail url="https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2023/05/30/PingCAP-PrivateLink-TiDB-1.png" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://fulcrumsec.vg/pingcap/">fulcrumsec.vg</a> | <a href="https://news.ycombinator.com/item?id=50173716">hacker news</a></small></p><hr/><p>Security group FulcrumSec has published details of a massive 10.6 terabyte data exfiltration from PingCAP's TiDB Cloud managed database service. The breach allegedly exposed millions of files, customer SQL statements, billing records, internal Jira tickets, and source code across a multi-month intrusion.</p><p>The compromised data includes sensitive production credentials and customer connection strings left exposed in support tickets and repositories. While PingCAP has acknowledged unauthorized access to internal systems via stolen service credentials, the full scope of the leaked enterprise and customer data highlights severe multi-tenant isolation and visibility failures.</p><p><img src="https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2023/05/30/PingCAP-PrivateLink-TiDB-1.png" /></p><hr/><small>22 Oct 2026, 17:16 UTC | #25115</small>]]></content>
-  </entry>
 </feed>

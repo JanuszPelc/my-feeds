@@ -618,31 +618,4 @@
     <media:thumbnail url="https://media.dcrainmaker.com/images/2026/10/IMG_4483.jpeg" />
     <content type="html"><![CDATA[<p><small>Links: <a href="https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html">dcrainmaker.com</a> | <a href="https://lobste.rs/s/nbd1cs/garmin_revamps_opens_up_connect">discussion</a></small></p><hr/><p>Garmin has reopened its Connect Developer API program after a seven-month closure triggered by an overwhelming influx of automated application submissions. The revamped program introduces a three-tiered access structure consisting of Personal, Startup, and Enterprise levels to better accommodate developers ranging from individual hobbyists to large-scale commercial platforms.</p><p>Under the new framework, the Personal and Startup tiers provide free, near-instant access to user activity data and .FIT files for up to 1,000 users, while the Enterprise tier introduces a commercial fee structure based on monthly active users alongside technical support and historical data backfills. Existing partners are automatically transitioned to the Enterprise tier, with commercial pricing negotiations set to take effect by April 2027.</p><p><img src="https://media.dcrainmaker.com/images/2026/10/IMG_4483.jpeg" /></p><hr/><small>22 Oct 2026, 20:04 UTC | #25166</small>]]></content>
   </entry>
-  <entry>
-    <title>Nix Flakes Explained</title>
-    <link href="https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/" rel="alternate" />
-    <id>https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/::v240</id>
-    <published>2026-10-22T07:08:00+00:00</published>
-    <updated>2026-10-22T07:08:00+00:00</updated>
-    <media:thumbnail url="https://docs.progsoc.org/blog/assets/images/2023/12/image-4.png" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://lwn.net/SubscriberLink/1094226/7bb13383b169d475/">lwn.net</a> | <a href="https://wiki.nixos.org/wiki/Flakes">source</a> | <a href="https://lobste.rs/s/wno4h3/understanding_nix_flakes">discussion</a></small></p><hr/><p>This experimental feature of the Nix package manager enables self-contained and reproducible software builds by using `flake.nix` files to define inputs and outputs. Through the use of a `flake.lock` file to pin specific dependency revisions, the tool allows developers to maintain consistent environments and toolchains across diverse Linux distributions.</p><p>Widespread adoption is evident, as nearly 79% of NixOS users reported using the feature in a 2025 survey. Despite this popularity, the feature remains experimental in the upstream Nix project, leading to ongoing community discussions regarding its design and its formal path toward stabilization.</p><p><img src="https://docs.progsoc.org/blog/assets/images/2023/12/image-4.png" /></p><hr/><small>22 Oct 2026, 17:28 UTC | #25119</small>]]></content>
-  </entry>
-  <entry>
-    <title>Using a Lookup Table to Correct an Approximation</title>
-    <link href="https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation" rel="alternate" />
-    <id>https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation::v240</id>
-    <published>2026-10-22T07:07:00+00:00</published>
-    <updated>2026-10-22T07:07:00+00:00</updated>
-    <media:thumbnail url="https://pic3.zhimg.com/50/v2-cf57d0ef93ccc45214a0e787ffc11e17_720w.jpg?source=1940ef5c" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation">corsix.org</a> | <a href="https://lobste.rs/s/os7brs/using_lookup_table_correct">discussion</a></small></p><hr/><p>The article examines techniques for optimizing enum-to-string conversion functions in C, moving from naive switch statements to pointer tables, offset tables, and finally a combination of linear approximation with a smaller correction table.</p><p>By replacing a full offset table with a linear multiplier and a compact signed correction table, developers can significantly reduce memory overhead and pointer relocations, illustrating a general optimization pattern where fast coarse approximations are refined via small correction lookups.</p><p><img src="https://pic3.zhimg.com/50/v2-cf57d0ef93ccc45214a0e787ffc11e17_720w.jpg?source=1940ef5c" /></p><hr/><small>22 Oct 2026, 17:22 UTC | #25118</small>]]></content>
-  </entry>
-  <entry>
-    <title>WorldTUI Simulates Terminal Operations via 360M-Parameter Model</title>
-    <link href="https://simedw.com/2026/10/21/world-model-terminal/" rel="alternate" />
-    <id>https://simedw.com/2026/10/21/world-model-terminal/::v240</id>
-    <published>2026-10-22T07:03:00+00:00</published>
-    <updated>2026-10-22T07:03:00+00:00</updated>
-    <media:thumbnail url="https://simedw.com/2026/10/21/world-model-terminal/images/worldtui-cowsay.jpg" />
-    <content type="html"><![CDATA[<p><small>Links: <a href="https://simedw.com/2026/10/21/world-model-terminal/">simedw.com</a> | <a href="https://news.ycombinator.com/item?id=50190363">hacker news</a></small></p><hr/><p>A 360M-parameter language model named WorldTUI simulates a terminal environment without an underlying shell or filesystem. It predicts character grid updates and cursor movements in response to user keystrokes, allowing it to mimic the behavior of applications like Vim, Tmux, and Python REPLs.</p><p>Based on Qwen2.5-Coder-0.5B, the model utilizes parallel row decoding and speculative decoding to achieve high-speed performance in web browsers via WebGPU. While it demonstrates an ability to maintain state and "memory" within its simulated world, it remains a predictive model rather than a functional computing environment.</p><p><img src="https://simedw.com/2026/10/21/world-model-terminal/images/worldtui-cowsay.jpg" /></p><hr/><small>22 Oct 2026, 17:10 UTC | #25114</small>]]></content>
-  </entry>
 </feed>
