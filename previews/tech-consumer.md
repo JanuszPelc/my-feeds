@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Rockstar Games Workers to Vote on Unionization Ahead of GTA VI Release</h2>
+<a name="story-25611"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt859507d51581f713%2F6ae0fbc4f6e3e04aa497e290%2Fgtaviluciaweightsfeatured.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Rockstar Games employees will vote on formal union recognition with the Independent Worker's Union of Great Britain (IWGB) between November 12 and November 26, 2026. The vote is scheduled to occur shortly before the November 19 release of Grand Theft Auto VI.</p><p>This vote is independent of an ongoing tribunal regarding the 2025 dismissal of over 30 employees, an action the IWGB has characterized as union busting. Rockstar head of publishing Jennifer Koble has stated that the company will respect the outcome of the vote.</p>
+<p><small>Links: <a href="https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release">gamedeveloper.com</a></small></p>
+<br clear="all" />
+
 <h2>Warhorse Studios Reports Cybersecurity Incident and Unauthorized Data Access</h2>
 <a name="story-25607"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltecf4adffa4fbd2dd%2F67a3a535239940042aa32fe8%2Fkingdom_come_2.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The developer of Kingdom Come: Deliverance, Warhorse Studios, has confirmed a cybersecurity incident involving unauthorized access to company systems and data. The studio is currently working with cybersecurity experts to secure its infrastructure and determine the full extent of the breach.</p><p>CEO Martin Frývaldský characterized the attack as a serious incident, though the specific scope of the data breach has not yet been fully assessed. Potential implications include the exposure of sensitive employee information or internal development data for upcoming titles, such as the studio's unannounced Lord of the Rings RPG.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-25446"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpetapixel.com%2Fassets%2Fuploads%2F2023%2F10%2FMeta-Glasses-Badge-2-1536x864.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bloomberg's review of the $349-and-up Ray-Ban Meta Audio glasses highlights their camera-free design, strong audio quality, and effective Meta AI integration. The absence of a built-in camera appeals to users seeking a less intrusive wearable, though lingering privacy concerns persist.</p><p>Developed through Meta's partnership with EssilorLuxottica, the audio-only smart glasses offer an alternative to previous camera-equipped models. Reviewers note that while the device performs well in voice interactions and media playback, its high starting price positions it as a specialized option within the market.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review">bloomberg.com</a> | <a href="https://www.meta.com/blog/ray-ban-meta-audio-and-deepest-ai-glasses-lineup/">source</a></small></p>
-<br clear="all" />
-
-<h2>iFixit iPhone Duo Teardown Explores Hinge Design and Early Screen Failures</h2>
-<a name="story-25410"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalkyrie.cdn.ifixit.com%2Fmedia%2F2026%2F10%2F24232224%2FiPhone-Duo_94.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>iFixit has published a comprehensive teardown of Apple's first foldable smartphone, the iPhone Duo, examining its complex hinge mechanism, nano-texture display finish, and custom subpixel layouts. While the device incorporates accessible repair features like electricity-releasing batteries and a modular outer cover layer, out-of-warranty screen replacements remain exceptionally expensive and difficult.</p><p>The teardown also investigated early reports of screen damage and bright lines along the fold, utilizing 3D modeling and CT scans to analyze internal stresses. The investigation suggests that early screen failures may cluster near a mechanical hotspot where internal support components interact with the folding display during closure.</p>
-<p><small>Links: <a href="https://www.ifixit.com/News/119895/iphone-duo-teardown">ifixit.com</a> | <a href="https://news.ycombinator.com/item?id=50237896">hacker news</a></small></p>
 <br clear="all" />
 
 ---
