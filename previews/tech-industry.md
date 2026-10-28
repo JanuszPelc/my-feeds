@@ -4,6 +4,12 @@
 
 *How the tech business is changing, from chipmaking and data centers to jobs.*
 
+<h2>Malaysian Customs Seizes $12.1 Million in Advanced AI Chips at Kuala Lumpur Airport</h2>
+<a name="story-25668"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd341l694dl30ad.cloudfront.net%2Fimages%2Fap%2F2026%2F10%2F28%2F6ae1855124c7bd42e89dd7b9%2Foriginal%2F1fba4231-219e-42c5-af4e-c7312bcf910d-1793164625349.jpg%3Fwidth%3D1440%26format%3Dwebp%26quality%3D80&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Malaysian customs authorities seized 30 server units containing advanced artificial intelligence chips valued at approximately 49.5 million ringgit ($12.11 million) at Kuala Lumpur International Airport. The shipment, intercepted earlier this month, was falsely declared as electronic components to bypass trade regulations and export controls.</p><p>Investigators suspect the seizure is tied to a regional smuggling syndicate that previously attempted a similar operation in June involving 72 server units valued at roughly $12.9 million. Malaysia implemented export controls on high-performance, U.S.-origin AI chips in 2025, transforming the specialized semiconductor hardware into high-value contraband.</p>
+<p><small>Links: <a href="https://www.reuters.com/world/china/ai-chips-worth-121-million-seized-malaysia-airport-customs-authority-says-2026-10-28/">reuters.com</a></small></p>
+<br clear="all" />
+
 <h2>Building a Better California Raises Over $333 Million to Defeat Proposition 40 Wealth Tax</h2>
 <a name="story-25656"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F26%2Fbusiness%2F00biz-billionaire-tax%2F00biz-billionaire-tax-articleLarge.jpg%3Fquality%3D75%26auto%3Davif%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Silicon Valley billionaires and their advisers have organized weekly strategy calls and raised more than $333 million through the nonprofit Building a Better California to defeat Proposition 40. If approved by voters, the ballot measure would impose a one-time 5 percent wealth tax on California billionaires.</p><p>The opposition campaign ranks among the best-funded political efforts in state history, backed by roughly 80 prominent tech donors including Google co-founder Sergey Brin, former Google chief executive Eric Schmidt, and Stripe chief executive Patrick Collison. Opponents view the wealth tax as an existential threat that could establish a precedent for similar levies nationwide.</p>
@@ -56,17 +62,12 @@
 <p><small>Links: <a href="https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips">theinformation.com</a></small></p>
 <br clear="all" />
 
-<h2>Felix Rieseberg Discusses the Obsolescence of Coding Interviews and Career Advice for Junior Engineers</h2>
-<a name="story-25635"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D10AQFEAag77I1JkA%2Fimage-shrink_800%2FB4DZpeGuhZGwAg-%2F0%2F1762515413669%3Fe%3D2147483647%26v%3Dbeta%26t%3DRvk2lKwgjnx2TYSgq6kSITRnhcXIV_9mfxarxu8h2Ss&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Felix Rieseberg, a hiring manager at Anthropic, has stopped using traditional coding interviews because AI tools like Claude now outperform human candidates on standard coding challenges. He argues that this technological shift diminishes the traditional advantages of accumulated framework knowledge and tenure, creating new opportunities for engineers without established social capital or status.</p><p>The essay advises junior engineers to prioritize business value over backlog maintenance, bypass slow organizational processes by building working prototypes over a weekend, and leverage their fresh perspectives to challenge assumed technical impossibilities. Rieseberg notes that rapid AI execution enables newcomers to pitch and ship impactful ideas much faster than previously possible.</p>
-<p><small>Links: <a href="https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/">felixrieseberg.com</a> | <a href="https://news.ycombinator.com/item?id=50266719">hacker news</a></small></p>
-<br clear="all" />
-
-To subscribe to the tech-industry feed, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
-```
+> [!NOTE]
+> To subscribe to the tech-industry feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
+> ```
 
 ---
 

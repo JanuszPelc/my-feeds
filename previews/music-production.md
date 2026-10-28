@@ -64,11 +64,12 @@
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/27/strezov-sampling-solo-cello/">bedroomproducersblog.com</a> | <a href="https://www.strezov-sampling.com/products/view/string-contours-solo-cello-sul-tasto">source</a> | <a href="https://bedroomproducersblog.com/2026/10/27/strezov-sampling-solo-cello/#respond">discussion</a></small></p>
 <br clear="all" />
 
-To subscribe to the music-production feed, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
-```
+> [!NOTE]
+> To subscribe to the music-production feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
+> ```
 
 ---
 

@@ -64,11 +64,12 @@
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/microsoft-alumni-score-funding-to-build-ai-agents-for-finance">bloomberg.com</a> | <a href="https://emergent.sh/news/hyphenate-raises-45m-ai-agents-finance">source</a></small></p>
 <br clear="all" />
 
-To subscribe to the tech-finance feed, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
-```
+> [!NOTE]
+> To subscribe to the tech-finance feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
+> ```
 
 ---
 

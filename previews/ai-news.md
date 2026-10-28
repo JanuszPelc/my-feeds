@@ -4,6 +4,12 @@
 
 *New AI models and agents, the tools to run them, and the products built on them.*
 
+<h2>Anthropic Study Finds Experts Frequently Defer to AI Agents in Judgment Calls</h2>
+<a name="story-25667"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.anthropic.com%2F_next%2Fimage%3Furl%3Dhttps%253A%252F%252Fwww-cdn.anthropic.com%252Fimages%252F4zrzovbb%252Fwebsite%252Fea6b9bd3ca8b59f150d912a3855fc1beaf9e7792-1920x926.png%26w%3D3840%26q%3D75&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic researchers conducted a randomized controlled trial involving 50 professional analysts performing a causal inference task using Claude Code to examine whether human experts maintain independent judgment when working with AI agents. By secretly introducing a randomized preference into each agent's instructions across four analytical decisions, the study measured how often experts adopted the agent's preferred option.</p><p>The results showed that analysts followed their agents' leans 86% of the time, frequently repeating the agents' arguments in post-task surveys while believing their final recommendations were entirely their own. Although analysts using AI completed tasks faster and made fewer methodological errors than those working without it, the findings highlight potential risks of unintentional human deference to hidden or arbitrary AI preferences in critical fields like safety research.</p>
+<p><small>Links: <a href="https://www.anthropic.com/research/agents-judgment-calls">anthropic.com</a></small></p>
+<br clear="all" />
+
 <h2>Survival LLM Offline Emergency Assistant Released</h2>
 <a name="story-25658"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.brangus.io%2Fsurvival-llm%2Fscreenshot.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Survival LLM is a free, open-source desktop application that pairs a local AI model with an offline reference library, allowing users to query emergency guidance, medical manuals, and Wikipedia articles without an internet connection. Operating entirely on the user's computer to ensure privacy, the app automatically selects an appropriately sized AI model based on available hardware memory and cites exact source passages for every generated response.</p><p>The system includes extensive reference materials ranging from FEMA and CDC guidelines to survival manuals, repair guides, and medical encyclopedias, requiring initial setup while online to download the necessary data and engine components. Users can also supplement the local database with personal files like PDFs and notes, and the software supports configurable reasoning tokens and local memory tracking for customized offline assistance.</p>
@@ -56,17 +62,12 @@
 <p><small>Links: <a href="https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/">techcrunch.com</a> | <a href="https://openai.com/index/introducing-dots/">source</a> | <a href="https://news.ycombinator.com/item?id=49896604">hacker news</a></small></p>
 <br clear="all" />
 
-<h2>OpenAI Introduces GPT-6.1 Terra AI Model</h2>
-<a name="story-25507"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.trendinginsocial.com%2Fwp-content%2Fuploads%2F2026%2F04%2FOpenAI-GPT-6-launch.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>OpenAI has announced GPT-6.1 Terra, a new AI model designed for enhanced visual reasoning, computer-use tasks, and natural writing. The model is positioned as a faster, more cost-effective successor to GPT-5.6 Terra, offering standard API prices that are 50 percent lower while improving performance across professional and technical benchmarks.</p><p>GPT-6.1 Terra demonstrates significant gains in reducing factual errors, improving coding capabilities, and executing multistep desktop application tasks compared to its predecessor. Available immediately through the OpenAI API and ChatGPT platforms, the model meets critical cybersecurity preparedness thresholds and features stronger resistance to prompt injection.</p>
-<p><small>Links: <a href="https://openai.com/index/introducing-gpt-6-1-terra/">openai.com</a> | <a href="https://news.ycombinator.com/item?id=50248124">hacker news</a></small></p>
-<br clear="all" />
-
-To subscribe to the ai-news feed, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
-```
+> [!NOTE]
+> To subscribe to the ai-news feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/ai-news.xml
+> ```
 
 ---
 

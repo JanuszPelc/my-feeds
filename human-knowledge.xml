@@ -3,9 +3,27 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-28T13:01:00+00:00</updated>
+  <updated>2026-10-28T13:07:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Start Doing Graph Theory Free Introductory Textbook Released</title>
+    <link href="https://vertex.degree/" rel="alternate" />
+    <id>https://vertex.degree/::v240</id>
+    <published>2026-10-28T13:07:00+00:00</published>
+    <updated>2026-10-28T13:07:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fjennifer_shloming.gitlab.io%2Fintro-graph-theory%2Fimages%2Fcoverfortextgraphtheory2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://vertex.degree/">vertex.degree</a> | <a href="https://lobste.rs/s/46sc07/start_doing_graph_theory">discussion</a> | <a href="https://news.ycombinator.com/item?id=50208960">hacker news</a></small></p><hr/><p>Start Doing Graph Theory is a free introductory textbook designed to teach graph theory through puzzles, theorem-proving, and practical problem-solving. Written by Mikhail Lavrov, the comprehensive resource is available under a Creative Commons license for online reading or PDF download.</p><p>The text combines mathematical rigor with an accessible approach to help students learn foundational concepts. The author has also established a formal version history to track updates and revisions made to the material over time.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fjennifer_shloming.gitlab.io%2Fintro-graph-theory%2Fimages%2Fcoverfortextgraphtheory2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 17:35 UTC | #25719</small>]]></content>
+  </entry>
+  <entry>
+    <title>KAIST Researchers Develop Semiconductor Technique to Extend Anode-Free Battery Lifespan</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261027063708.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261027063708.htm::v240</id>
+    <published>2026-10-28T13:06:00+00:00</published>
+    <updated>2026-10-28T13:06:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fcrystals%2Fcrystals-12-01241%2Farticle_deploy%2Fhtml%2Fimages%2Fcrystals-12-01241-g007.png%3F1662113290&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261027063708.htm">sciencedaily.com</a> | <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.77931">source</a></small></p><hr/><p>Researchers at the Korea Advanced Institute of Science and Technology (KAIST) have developed a new technique to extend the operating life of anode-free lithium metal batteries. By adapting precision manufacturing methods from the semiconductor industry, the team patterned microscopic tubes onto copper current collectors and applied an ultrathin MXene coating to promote uniform lithium deposition.</p><p>Anode-free batteries eliminate conventional anode materials like graphite to significantly reduce battery size and weight while increasing energy density, but they typically suffer from short lifespans caused by dendrite formation and surface degradation. The new 300-nanometer nanotubular structure quadruples the available surface area for lithium accumulation, while the MXene layer facilitates the formation of a protective, lithium-fluoride-rich solid electrolyte interphase that prevents damaging spikes.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fcrystals%2Fcrystals-12-01241%2Farticle_deploy%2Fhtml%2Fimages%2Fcrystals-12-01241-g007.png%3F1662113290&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 17:33 UTC | #25682</small>]]></content>
+  </entry>
   <entry>
     <title>DreamAgainUSA Launches Interactive Wealth Inequality Graph</title>
     <link href="https://dreamagainusa.org/" rel="alternate" />

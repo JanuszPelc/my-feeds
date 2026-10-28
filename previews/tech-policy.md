@@ -64,11 +64,12 @@
 <p><small>Links: <a href="https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/">wired.com</a> | <a href="https://news.ycombinator.com/item?id=50259604">hacker news</a></small></p>
 <br clear="all" />
 
-To subscribe to the tech-policy feed, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
-```
+> [!NOTE]
+> To subscribe to the tech-policy feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-policy.xml
+> ```
 
 ---
 

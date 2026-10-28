@@ -64,11 +64,12 @@
 <p><small>Links: <a href="https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50259050">hacker news</a></small></p>
 <br clear="all" />
 
-To subscribe to the computer-security feed, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
-```
+> [!NOTE]
+> To subscribe to the computer-security feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
+> ```
 
 ---
 

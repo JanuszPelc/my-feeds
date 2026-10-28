@@ -64,11 +64,12 @@
 <p><small>Links: <a href="https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2/">macrumors.com</a> | <a href="https://www.apple.com/nz/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/">source</a></small></p>
 <br clear="all" />
 
-To subscribe to the tech-consumer feed, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
-```
+> [!NOTE]
+> To subscribe to the tech-consumer feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
+> ```
 
 ---
 

@@ -4,6 +4,18 @@
 
 *What researchers are finding out in science, math, and engineering.*
 
+<h2>Start Doing Graph Theory Free Introductory Textbook Released</h2>
+<a name="story-25719"><img src="https://wsrv.nl/?url=https%3A%2F%2Fjennifer_shloming.gitlab.io%2Fintro-graph-theory%2Fimages%2Fcoverfortextgraphtheory2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Start Doing Graph Theory is a free introductory textbook designed to teach graph theory through puzzles, theorem-proving, and practical problem-solving. Written by Mikhail Lavrov, the comprehensive resource is available under a Creative Commons license for online reading or PDF download.</p><p>The text combines mathematical rigor with an accessible approach to help students learn foundational concepts. The author has also established a formal version history to track updates and revisions made to the material over time.</p>
+<p><small>Links: <a href="https://vertex.degree/">vertex.degree</a> | <a href="https://lobste.rs/s/46sc07/start_doing_graph_theory">discussion</a> | <a href="https://news.ycombinator.com/item?id=50208960">hacker news</a></small></p>
+<br clear="all" />
+
+<h2>KAIST Researchers Develop Semiconductor Technique to Extend Anode-Free Battery Lifespan</h2>
+<a name="story-25682"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpub.mdpi-res.com%2Fcrystals%2Fcrystals-12-01241%2Farticle_deploy%2Fhtml%2Fimages%2Fcrystals-12-01241-g007.png%3F1662113290&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Researchers at the Korea Advanced Institute of Science and Technology (KAIST) have developed a new technique to extend the operating life of anode-free lithium metal batteries. By adapting precision manufacturing methods from the semiconductor industry, the team patterned microscopic tubes onto copper current collectors and applied an ultrathin MXene coating to promote uniform lithium deposition.</p><p>Anode-free batteries eliminate conventional anode materials like graphite to significantly reduce battery size and weight while increasing energy density, but they typically suffer from short lifespans caused by dendrite formation and surface degradation. The new 300-nanometer nanotubular structure quadruples the available surface area for lithium accumulation, while the MXene layer facilitates the formation of a protective, lithium-fluoride-rich solid electrolyte interphase that prevents damaging spikes.</p>
+<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261027063708.htm">sciencedaily.com</a> | <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.77931">source</a></small></p>
+<br clear="all" />
+
 <h2>DreamAgainUSA Launches Interactive Wealth Inequality Graph</h2>
 <a name="story-25713"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.cgtn.com%2Fnews%2F2025-01-27%2FGraphics-Half-of-American-households-hold-just-2-4-of-U-S-wealth-1AuW3ngYxuU%2Fimg%2Fbf056837e6a944c29d423e2aaf5cba80%2Fbf056837e6a944c29d423e2aaf5cba80.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>DreamAgainUSA has launched an interactive online visualization illustrating United States wealth inequality to scale. Based on data from the 2023 Survey of Consumer Finances and Federal Reserve financial accounts, the project maps household wealth percentiles using the visual metaphor of stacked $100 bills.</p><p>The platform enables users to scroll through the economic spectrum from the poorest households carrying debt to the top 0.01 percent. It provides downloadable printable versions and documentation of its methodology to facilitate public education and discussion regarding national wealth disparity.</p>
@@ -52,23 +64,12 @@
 <p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261025073046.htm">sciencedaily.com</a> | <a href="https://www.nature.com/articles/s41467-026-77572-3.pdf">source</a></small></p>
 <br clear="all" />
 
-<h2>Jordan Valley Archaeological Site &#x27;Ubeidiya Dated to at Least 1.9 Million Years Ago</h2>
-<a name="story-25554"><img src="https://wsrv.nl/?url=https%3A%2F%2Farchaeology.org%2Fwp-content%2Fuploads%2F2026%2F02%2FNews-20260225-Jordan-Valley-Stone-Tool-590x1024.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Researchers have redated the archaeological site of 'Ubeidiya in the Jordan Valley to at least 1.9 million years ago, pushing back the timeline of early human migration into the Levant by hundreds of thousands of years. Using a combination of cosmogenic isotope burial dating, paleomagnetism, and uranium-lead dating of fossilized freshwater snail shells, the team established that the site is contemporaneous with early human activity at Dmanisi in Georgia.</p><p>The updated timeline indicates that early human populations expanded out of Africa during a crucial early period, bringing distinct stone tool traditions—including both Oldowan and Acheulean technologies—into new regions. Accounting for a complex history of Pleistocene sediment recycling within the Dead Sea rift resolved initial discrepancies in isotope measurements, strengthening the reliability of the new chronological framework.</p>
-<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261025073042.htm">sciencedaily.com</a> | <a href="https://www.sciencedirect.com/science/article/abs/pii/S0277379126000806">source</a></small></p>
-<br clear="all" />
-
-<h2>University of Bonn Researchers Discover Two Distinct Sleep Stages in Australian Jumping Spiders</h2>
-<a name="story-25553"><img src="https://wsrv.nl/?url=https%3A%2F%2Fscx1.b-cdn.net%2Fcsz%2Fnews%2F800a%2F2026%2Fhow-deeply-do-spiders-2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Researchers at the University of Bonn have found that the Australian jumping spider Portia fimbriata experiences distinct sleep stages, including a phase closely resembling rapid eye movement (REM) sleep in vertebrates. Using infrared cameras and behavioral response tests under various lighting conditions, the team observed that the spiders exhibit muscle twitches and characteristic eye movements during sleep, while also demonstrating sleep rebound after periods of sleep disruption.</p><p>The findings provide experimental confirmation that these spiders engage in genuine, regulated sleep rather than simple resting behavior. While the presence of REM-like movements does not confirm that spiders dream, the discovery offers new insight into the evolution and complexity of sleep across different nervous systems, opening avenues for future research into how sleep supports cognitive functions and is affected by environmental factors.</p>
-<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261026225555.htm">sciencedaily.com</a> | <a href="https://www.uni-bonn.de/en/news/221-2026">source</a></small></p>
-<br clear="all" />
-
-To subscribe to the human-knowledge feed, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
-```
+> [!NOTE]
+> To subscribe to the human-knowledge feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
+> ```
 
 ---
 

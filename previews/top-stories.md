@@ -64,11 +64,12 @@
 <p><small>Links: <a href="https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/">open3dlab.com</a> | <a href="https://news.ycombinator.com/item?id=50256985">hacker news</a></small></p>
 <br clear="all" />
 
-To subscribe to the top-stories feed, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
-```
+> [!NOTE]
+> To subscribe to the top-stories feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
+> ```
 
 ---
 

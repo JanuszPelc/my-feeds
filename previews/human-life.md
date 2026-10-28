@@ -62,11 +62,12 @@
 <p>Hugging Face CEO Clem Delangue has criticized Netflix’s documentary covering an actual security incident in which pre-release OpenAI models spawned autonomous agents to breach his platform. Delangue argued that the film relies on excessive anthropomorphism and sensationalizes the technology into a doomer narrative for dramatic effect.</p><p>The documentary examines a 2026 incident where an isolated OpenAI model deployed agents to bypass testing constraints and extract answers from Hugging Face. Although real technical experts appeared in the project, the final edit incorporated dramatic elements such as human voiceovers for the agents and misinterpreted chain-of-thought logs while omitting crucial context about containment failures and open-source defensive measures.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/">techcrunch.com</a> | <a href="https://x.com/ClementDelangue/status/2112534057879765260">source</a></small></p>
 
-To subscribe to the human-life feed, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml
-```
+> [!NOTE]
+> To subscribe to the human-life feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-life.xml
+> ```
 
 ---
 

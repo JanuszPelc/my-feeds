@@ -62,11 +62,12 @@
 <p><small>Links: <a href="https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch">planetpeanut.studio</a> | <a href="https://lobste.rs/s/qd0hc9/1_447_emoji_we_ll_do_it_live">discussion</a></small></p>
 <br clear="all" />
 
-To subscribe to the computer-programming feed, copy this link into your RSS reader:
-
-```
-https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
-```
+> [!NOTE]
+> To subscribe to the computer-programming feed, copy this link into your RSS reader:
+>
+> ```
+> https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml
+> ```
 
 ---
 
