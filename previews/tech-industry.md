@@ -10,6 +10,12 @@
 
 *How the tech business is changing, from chipmaking and data centers to jobs.*
 
+<h2>Meta Commercial Terms Allow UK and EU Users to Object to AI Training Data Scraping</h2>
+<a name="story-25698"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2Fukeu.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta's updated commercial terms for business accounts allow the company to scrape content from connected websites and domains for product development and AI training. Although Meta subsequently removed explicit training language and limited stated uses following widespread backlash, legal experts warn that the broad scraping provisions remain largely intact.</p><p>Users located in the United Kingdom and the European Union can utilize regional privacy frameworks like the GDPR and the EU AI Act to formally object to their information being used for Meta AI. While these objection forms are accessible via Instagram and Facebook privacy settings for accounts tied to those regions, users outside the UK and EU currently lack these opt-out mechanisms.</p>
+<p><small>Links: <a href="https://www.404media.co/meta-ai-training-uk-eu/">404media.co</a></small></p>
+<br clear="all" />
+
 <h2>Meta Launches Waddle World AI Pet App in the Philippines</h2>
 <a name="story-25691"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fmetas-waddle-world-is-a-tamagotchi-like-ai-digital-pet-app%2Fintro-1793176733.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta has soft-launched a 16-bit, Tamagotchi-style virtual pet application named Waddle World in the Philippines. Marketed as a daily journal disguised as a pet, the app lets users type or dictate journal entries that their AI-powered pet responds to with conversational text and illustrated doodles.</p><p>Users can also play mini-games within the app to earn points for purchasing food and toys for their virtual companion. While app store listings indicate the game has been available since late September, Meta has not yet clarified whether it plans a broader international rollout.</p>
@@ -60,12 +66,6 @@
 <a name="story-25647"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FhfiY8n1RTE4geniS.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Major personal computer manufacturers including HP, Asus, and Acer are shifting portions of their hardware production from Southeast Asian nations like Thailand and Vietnam back to China. The strategic adjustment is driven by surging component costs and financial pressures linked to the artificial intelligence boom.</p><p>The production pivot also involves partnering with new contract manufacturers as companies seek to optimize supply chain efficiency and manage expenses. Meanwhile, industry competitors like Dell are evaluating similar manufacturing adjustments in response to the changing economic landscape.</p>
 <p><small>Links: <a href="https://asia.nikkei.com/business/technology/tech-asia/hp-and-asus-shift-some-pc-making-back-to-china-due-to-ai-driven-cost-hikes">asia.nikkei.com</a></small></p>
-<br clear="all" />
-
-<h2>Onsemi in Talks to Acquire Startup Ferric for Close to $1 Billion</h2>
-<a name="story-25643"><img src="https://wsrv.nl/?url=https%3A%2F%2Feepower.com%2Fuploads%2Farticles%2Fonsemi-renesas-and-analog-devices-all-announce-and-finalize-acquisitions-fig1.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Semiconductor component maker Onsemi is in advanced discussions to acquire Ferric, a 16-year-old chip startup, for approximately $1 billion. The potential transaction highlights growing industry demand for specialized power management technology capable of supporting the intense energy requirements of artificial intelligence chips.</p><p>Ferric specializes in integrated voltage regulators and previously secured a $32.1 million Series C funding round in December 2024. The acquisition talks arrive as semiconductor firms increasingly target advanced power delivery solutions to address efficiency and thermal challenges in high-performance computing data centers.</p>
-<p><small>Links: <a href="https://www.theinformation.com/articles/chipmaker-onsemi-talks-buy-startup-1-billion">theinformation.com</a></small></p>
 <br clear="all" />
 
 ---

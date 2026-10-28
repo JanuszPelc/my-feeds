@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-28T17:11:00+00:00</updated>
+  <updated>2026-10-28T17:12:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Amazon Unveils New Echo Show 16, Echo Time Alarm, and Alexa Photo Frame</title>
+    <link href="https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame" rel="alternate" />
+    <id>https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame::v240</id>
+    <published>2026-10-28T17:12:00+00:00</published>
+    <updated>2026-10-28T17:12:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.geeky-gadgets.com%2Fwp-content%2Fuploads%2F2017%2F11%2Famazon-echo-show.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame">bloomberg.com</a> | <a href="https://www.aboutamazon.com/news/devices/new-alexa-devices-2026">source</a></small></p><hr/><p>Amazon has announced a new lineup of Alexa-powered hardware, featuring a redesigned $500 Echo Show 16 with Fire TV built-in, the $200 Echo Time bedside smart alarm clock, and the $200 Alexa Photo Frame. The company also introduced upgraded Echo Dot and Echo Studio models equipped with home camera features, raised prices across several smart speakers, and previewed the new Alexa Home Map interface.</p><p>The expanded device ecosystem aims to deepen Alexa's integration throughout the home by combining ambient displays, personal photo management, and enhanced security functions. Preorders for the new hardware launch immediately as Amazon continues to pivot its connected-home strategy toward more versatile screens and AI-driven capabilities.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.geeky-gadgets.com%2Fwp-content%2Fuploads%2F2017%2F11%2Famazon-echo-show.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 19:20 UTC | #25690</small>]]></content>
+  </entry>
   <entry>
     <title>Apple Announces New MacBook Pro with PROLED XDR Display and Touchscreen</title>
     <link href="https://www.apple.com/macbook-pro/proled-xdr-display/" rel="alternate" />

@@ -10,6 +10,12 @@
 
 *Where the money in tech goes, from funding rounds and deals to earnings.*
 
+<h2>Etsy Reports Third-Quarter 2026 Revenue of $692.5 Million</h2>
+<a name="story-25689"><img src="https://wsrv.nl/?url=https%3A%2F%2Fapi.backlinko.com%2Fapp%2Fuploads%2F2024%2F12%2Fetsy-revenue-1440x1094.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Etsy reported third-quarter revenue of $692.5 million, marking an 11% increase year-over-year that surpassed analyst expectations of $668 million. Gross merchandise sales across its marketplace rose 9% compared to the previous year to reach $2.65 billion, supported by an expanding base of active buyers.</p><p>Total net income for the quarter surged to $853.5 million, largely driven by proceeds from the sale of Depop. The company also issued its performance outlook for the upcoming fourth quarter as it continues to focus on core marketplace growth.</p>
+<p><small>Links: <a href="https://www.wsj.com/business/retail/etsy-sales-rise-as-the-number-of-active-buyers-increases-01c646c9?st=eiH3p6&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://investors.etsy.com/news-events/press-releases/detail/229/etsy-inc-reports-third-quarter-2026-results">source</a></small></p>
+<br clear="all" />
+
 <h2>Jio Platforms Shares Soar 21% on Trading Debut After Record IPO</h2>
 <a name="story-25650"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhyIweAj-_BjCycUlavu5QzLWcxmMIVkAu73h59DO1sGfLtyybSRj3pVB4QFIgQ7kjMkEX_EDQ6wvaUbKflnBi7dGkysOitttaFPLWIlEkHkIjGG504uToXokYtlzFEkn1ePmR06EMBl6gaKwrc6PfQJ31P0L0GTEyworAQioJjQNdgi4YO-f5JP7j595c%2Fs16000%2F511549.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Jio Platforms shares surged 21.4% on their trading debut following the company's 302 billion rupee ($3.2 billion) initial public offering, India's largest-ever public issue. The offering was subscribed more than 22 times overall, driven heavily by institutional demand after opening on October 21.</p><p>Reliance Industries retains a majority stake of over 66% in Jio Platforms, alongside significant holdings by Meta Platforms and Google. Following the listing, brokerage Nomura initiated coverage with a buy rating and a target price of 1,340 rupees, citing a largely completed capital expenditure cycle and expected improvements in free cash flow.</p>
@@ -62,12 +68,6 @@
 <a name="story-25558"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.website-files.com%2F62ac4aacc75a115ff9dcb9bc%2F63bfdfbff6b1fc5865d062e6_What%2Bis%2BPayPal%E2%80%99s%2Brevenue.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>PayPal reported third-quarter revenue of $8.58 billion, representing a 2% increase year-over-year that fell slightly short of analyst projections, while total payment volume grew 6% to $487.14 billion. Total payment volume climbed as management advanced its ongoing operational turnaround strategy.</p><p>Despite the top-line revenue miss, the company raised its full-year adjusted earnings-per-share guidance to approximately $5.60, exceeding consensus expectations. The upward revision reflects continued margin improvements and strategic adjustments under chief executive leadership.</p>
 <p><small>Links: <a href="https://www.wsj.com/business/retail/paypal-lifts-full-year-outlook-ceo-stresses-turnaround-plan-15cd0e2e?st=HHaBnz&reflink=desktopwebshare_permalink">wsj.com</a> | <a href="https://investor.paypal-corp.com/financials/quarterly-results/default.aspx">source</a></small></p>
-<br clear="all" />
-
-<h2>Hyphenate Raises $45 Million Series A for Finance AI Agents</h2>
-<a name="story-25547"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.antier.com%2Fblogs%2Fwp-content%2Fuploads%2F2025%2F02%2FAI-Agents-in-Finance-A-Game-Changer-for-Forecasting-and-Analytics.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Hyphenate Inc., a startup developing reinforcement-learning-driven artificial intelligence agents to automate corporate finance operations, has secured $45 million in a Series A funding round led by Nexus Venture Partners. The latest round brings the two-year-old company's total funding to $54 million.</p><p>Founded by former Microsoft colleagues Ramnandan Krishnamurthy and Ajay Krishna Amudan, the company builds autonomous finance agents designed to handle accounting, treasury, and other complex workflows without requiring manual prompts or rigid rule sets from scratch. The fresh capital will be used to accelerate the development and expansion of its AI-driven finance platform.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/microsoft-alumni-score-funding-to-build-ai-agents-for-finance">bloomberg.com</a> | <a href="https://emergent.sh/news/hyphenate-raises-45m-ai-agents-finance">source</a></small></p>
 <br clear="all" />
 
 ---

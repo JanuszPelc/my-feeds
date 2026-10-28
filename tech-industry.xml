@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-28T13:54:00+00:00</updated>
+  <updated>2026-10-28T17:15:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Meta Commercial Terms Allow UK and EU Users to Object to AI Training Data Scraping</title>
+    <link href="https://www.404media.co/meta-ai-training-uk-eu/" rel="alternate" />
+    <id>https://www.404media.co/meta-ai-training-uk-eu/::v240</id>
+    <published>2026-10-28T17:15:00+00:00</published>
+    <updated>2026-10-28T17:15:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2Fukeu.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.404media.co/meta-ai-training-uk-eu/">404media.co</a></small></p><hr/><p>Meta's updated commercial terms for business accounts allow the company to scrape content from connected websites and domains for product development and AI training. Although Meta subsequently removed explicit training language and limited stated uses following widespread backlash, legal experts warn that the broad scraping provisions remain largely intact.</p><p>Users located in the United Kingdom and the European Union can utilize regional privacy frameworks like the GDPR and the EU AI Act to formally object to their information being used for Meta AI. While these objection forms are accessible via Instagram and Facebook privacy settings for accounts tied to those regions, users outside the UK and EU currently lack these opt-out mechanisms.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2Fukeu.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 19:22 UTC | #25698</small>]]></content>
+  </entry>
   <entry>
     <title>Meta Launches Waddle World AI Pet App in the Philippines</title>
     <link href="https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/" rel="alternate" />

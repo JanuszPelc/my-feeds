@@ -10,6 +10,12 @@
 
 *The games, gadgets, shows, and books people spend their time on.*
 
+<h2>Amazon Unveils New Echo Show 16, Echo Time Alarm, and Alexa Photo Frame</h2>
+<a name="story-25690"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.geeky-gadgets.com%2Fwp-content%2Fuploads%2F2017%2F11%2Famazon-echo-show.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Amazon has announced a new lineup of Alexa-powered hardware, featuring a redesigned $500 Echo Show 16 with Fire TV built-in, the $200 Echo Time bedside smart alarm clock, and the $200 Alexa Photo Frame. The company also introduced upgraded Echo Dot and Echo Studio models equipped with home camera features, raised prices across several smart speakers, and previewed the new Alexa Home Map interface.</p><p>The expanded device ecosystem aims to deepen Alexa's integration throughout the home by combining ambient displays, personal photo management, and enhanced security functions. Preorders for the new hardware launch immediately as Amazon continues to pivot its connected-home strategy toward more versatile screens and AI-driven capabilities.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-28/amazon-unveils-new-echo-show-16-alexa-speakers-smart-clock-and-photo-frame">bloomberg.com</a> | <a href="https://www.aboutamazon.com/news/devices/new-alexa-devices-2026">source</a></small></p>
+<br clear="all" />
+
 <h2>Apple Announces New MacBook Pro with PROLED XDR Display and Touchscreen</h2>
 <a name="story-25735"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fv%2Fmacbook-pro%2Fproled-xdr-display%2Fa%2Fimages%2Foverview%2Fdisplay%2Fdisplay_hero__yusiu2eockyq_large.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Apple has announced the redesigned MacBook Pro lineup featuring a PROLED XDR tandem OLED display and, for the first time on a Mac, an integrated touchscreen interface. Available in 14-inch and 16-inch sizes, the new laptops are powered by the M5 Pro and M5 Max chips and include the Dynamic Island, a redesigned thermal architecture, and up to 24 hours of battery life.</p><p>The PROLED XDR display delivers up to 2,000 nits of peak brightness, a 10,000,000:1 contrast ratio, and P3 plus Adobe RGB wide color support, catering to professional creative and technical workflows. Connectivity has also been upgraded with Thunderbolt 5 ports supporting multiple external displays, Wi-Fi 7, and Bluetooth 6.</p>
@@ -62,12 +68,6 @@
 <a name="story-25578"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt2db7d8951b9270b4%2F6ae0b2cc9336c11aecc7a2da%2F4481011-ghost-yotei.webp%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Ghost of Yotei developer Sucker Punch has laid off 24 employees, representing roughly 10 percent of its workforce. The studio stated that the staff reductions were made in response to ongoing market challenges and to align team resources with the needs of its next project.</p><p>The layoffs follow internal communications sent to staff outlining the cuts, with leadership noting that further details regarding the studio's future will be shared soon. Sucker Punch is a Sony-owned studio best known for its work on Ghost of Tsushima and Ghost of Yotei.</p>
 <p><small>Links: <a href="https://www.gamedeveloper.com/business/sucker-punch-lays-off-24-to-align-with-current-market-next-project-needs">gamedeveloper.com</a> | <a href="https://aftermath.site/sucker-punch-layoffs-sony-ghost-of-yotei/">source</a></small></p>
-<br clear="all" />
-
-<h2>Fitbit Edge In-Depth Review</h2>
-<a name="story-25526"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeGPtEFGufkc%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>The Fitbit Edge is a fitness tracker featuring a 1.34-inch AMOLED display, a physical side button, and an altimeter. Key upgrades include automatic workout detection for 100 sports, improved GPS accuracy, and a user-replaceable battery. While it adopts a modern user interface similar to the Pixel Watch 5, it removes Google Pay and the EDA scan feature.</p><p>Priced at $179, the device provides advanced health monitoring, including ECG, skin temperature sensing, and continuous stress monitoring. It supports fast charging, providing one day of battery from five minutes of charge, and offers various band options. Detailed data analysis and health metrics are managed through the Google Health app.</p>
-<p><small>Links: <a href="https://www.dcrainmaker.com/2026/10/fitbit-edge-depth-review-worth-the-upgrade.html">dcrainmaker.com</a> | <a href="https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/">source</a></small></p>
 <br clear="all" />
 
 ---
