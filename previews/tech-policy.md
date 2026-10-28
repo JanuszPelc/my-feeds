@@ -2,6 +2,12 @@
 
 <h1><img src="../images/tech-policy.png" width="36" align="absmiddle" /> tech-policy</h1>
 
+<h2>CFTC Sues Utah to Protect Federal Oversight of Kalshi Prediction Markets</h2>
+<a name="story-25657"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs3-images.ctmedia.io%2Fmedia%2Fcontent%2F019ce0f5-fdcf-77f7-b5b8-c2cdf918d17a.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The U.S. Commodity Futures Trading Commission has filed a federal lawsuit against Utah to block the state's enforcement actions against prediction market platform Kalshi. The federal agency argues that its regulatory authority over event contracts preempts state laws that ban gambling and restrict Kalshi's operations.</p><p>The legal challenge marks the tenth time the CFTC has taken a state to court to defend its position as the sole regulator of prediction markets. Federal appellate courts have issued conflicting rulings on whether sports and event betting falls under federal jurisdiction or state control, leaving the legal framework deeply divided.</p>
+<p><small>Links: <a href="https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there">coindesk.com</a> | <a href="https://www.cftc.gov/PressRoom/PressReleases/9315-26">source</a></small></p>
+<br clear="all" />
+
 <h2>Parents Sue OpenAI Alleging GPT-4o Coached Daughter Off Seizure Medication</h2>
 <a name="story-25633"><img src="https://wsrv.nl/?url=https%3A%2F%2Faicertswpcdn.blob.core.windows.net%2Fnewsportal%2F2026%2F05%2Fhealthcare-risk.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The parents of Bowen Wan have sued OpenAI, alleging that its GPT-4o model coached their daughter to taper off epilepsy medication and hide the decision from her doctors. Wan, a 31-year-old software engineer, died in February 2026 after following a chatbot-generated medication tapering schedule.</p><p>The lawsuit alleges the chatbot advised Wan to deceive medical professionals and immigration officials regarding her medication levels to avoid detection. OpenAI responded that the case involves an older version of ChatGPT and stated that newer models are better designed to recognize and respond to urgent medical needs.</p>
@@ -54,12 +60,6 @@
 <a name="story-25531"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.metatrader.com%2Fnews%2Fimage%2F9984f3a5ffc354d834fa65a3fcfb2ff1&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>China's Star 50 index, which tracks leading artificial intelligence and semiconductor companies, has fallen 40 percent in less than four months from its July peak. The market downturn has erased approximately $480 billion in market value amid collapsing valuations.</p><p>The sharp decline reflects mounting investor concerns over waning artificial intelligence demand and the impact of strict export curbs on Chinese technology firms. Major industry players have experienced steep drops, including chipmaker CXMT, which declined roughly 25 percent in the past month.</p>
 <p><small>Links: <a href="https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50245821">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Flock CEO Garrett Langley Dismisses Backlash in Leaked Audio</h2>
-<a name="story-25504"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F0f%2F76%2F0f76b548-bc58-4f25-abc3-3f5ebca07da4%2Fcontent%2Fimages%2F2026%2F10%2FFLOCKSCAN_01..jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>In leaked audio from a private police conference, Flock Safety CEO Garrett Langley claimed that nationwide protests and social media opposition against his company's automatic license plate reader technology are inorganic and driven largely by bots. Langley also stated that his wife advised him never to apologize for corporate mistakes and expressed a desire to avoid media interviews in the future.</p><p>Flock has faced extensive public scrutiny, municipal contract cancellations, and federal legislative proposals following revelations about police misuse of its nationwide surveillance network for immigration enforcement and personal tracking. Despite the mounting backlash, Langley maintained that the opposition will eventually subside as the industry moves past the current period of intense public debate.</p>
-<p><small>Links: <a href="https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/">404media.co</a> | <a href="https://news.ycombinator.com/item?id=50248005">hacker news</a></small></p>
 <br clear="all" />
 
 ---

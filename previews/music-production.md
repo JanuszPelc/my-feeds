@@ -2,6 +2,12 @@
 
 <h1><img src="../images/music-production.png" width="36" align="absmiddle" /> music-production</h1>
 
+<h2>Autodafe Releases Mega Drum Machines V2 Plugin</h2>
+<a name="story-25661"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fmdm-standalone.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Autodafe has released Mega Drum Machines V2, a completely rebuilt virtual instrument collection available as a free native plugin for macOS, Windows, and Linux in AU, VST3, and standalone formats. Building on a library originally released nearly a decade ago, the updated software features a new audio engine, a scalable interface, and expanded routing capabilities.</p><p>The plugin includes 170 drum machine kits spanning vintage, classic, and obscure electronic drum hardware. Additional features comprise 16 trigger pads across two pages, MIDI Learn and note remapping, individual group controls for tuning, panning, and volume, group mute and solo, hi-hat choke support, and up to 16 audio outputs across eight stereo buses.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/autodafe-releases-mega-drum-machines-v2-free-au-and-vst3-69376?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69376">kvraudio.com</a> | <a href="https://www.autodafe.net/mega-drum-machines-2.html">source</a></small></p>
+<br clear="all" />
+
 <h2>Kazrog Releases Vac Rac TSL Tube Optical Compressor Plugin</h2>
 <a name="story-25627"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvacrac_mainui_gray.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Kazrog's Vac Rac TSL is a plugin emulation of the Inward Connections Vac Rac tube optical compressor/limiter, developed alongside designer Steve Firlotte. The software models four hardware configurations: the TSL-5, TSL-4, TSL-3, and the transformerless TLM-1.</p><p>The plugin features adjustable THD for tube saturation, sidechain filters, and Analog Entropy for modeling channel-to-channel component tolerance. It is compatible with macOS, Windows, and Linux in VST2, VST3, AAX, AU, and LV2 formats.</p>
@@ -54,12 +60,6 @@
 <a name="story-25582"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.plugins4free.com%2Fimg%2FdualReverseDelay_2.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Born Second has released TimeTravel, a free reverse-delay plugin for macOS, Windows, and Linux. Modeled after the Old Blood Noise Endeavors BL-44 Reverse pedal, the effect captures incoming audio using a fixed memory buffer and a 10-bit converter before playing it back in reverse.</p><p>The plugin includes controls for Clock, Speed, Mix, and Volume, alongside a bypass switch. Adjusting the Clock knob simultaneously alters the sample rate, filter cutoff, and capture window length from 0.4 to 2.4 seconds, while the Speed knob shifts playback pitch across semitones with a tape-like glide.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/27/born-second-timetravel/">bedroomproducersblog.com</a> | <a href="https://bornsecondrecords.com/timetravel">source</a> | <a href="https://bedroomproducersblog.com/2026/10/27/born-second-timetravel/#comments">discussion</a></small></p>
-<br clear="all" />
-
-<h2>ebbandflow Releases deCADE Vintage Synth Instrument</h2>
-<a name="story-25583"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.audiopluginguy.com%2Fwp-content%2Fuploads%2FParty-Bag-Plugins-releases-Reel-Synth-vintage-synthesizer-plugin-and-standalone-app-2048x1072.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>ebbandflow has released deCADE, a sample-based virtual instrument for macOS and Windows that combines 127 individual captures from 1980s synthesizers into 100 layered sound sources. Recorded in Scottish studios, the instrument features classic hardware models such as the Roland Jupiter-6, Prophet-5, and Yamaha DX7, paired together to create dual-synth patches.</p><p>Building on the framework of the earlier deFORM plugin, deCADE includes a radial pad for independently adjusting voice stacking and layer blending. It offers over 200 factory presets, flexible filters, polyphonic glide, and vintage-modeled effects including a Juno-style chorus and tape-style delay. Available in VST, AU, and AAX formats, the instrument supports MPE and requires 14 GB of storage space.</p>
-<p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/27/ebbandflow-decade/">bedroomproducersblog.com</a> | <a href="https://ebbandflow.audio/s/bpb_decade">source</a></small></p>
 <br clear="all" />
 
 ---

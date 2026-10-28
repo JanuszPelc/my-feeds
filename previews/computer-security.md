@@ -2,6 +2,18 @@
 
 <h1><img src="../images/computer-security.png" width="36" align="absmiddle" /> computer-security</h1>
 
+<h2>Apple Developer Tools on macOS Still Trust Compromised eMudhra Certificates</h2>
+<a name="story-25676"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdeveloper.apple.com%2Fforums%2Fcontent%2Fattachment%2Fff2cd813-bb43-4cae-8984-e40beed9a952&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Developer tools bundled with macOS—including git, curl, and python3—continue to trust compromised eMudhra intermediate certificates more than a week after Apple was notified of the security incident. Additionally, the recent release of macOS 27.2 failed to address the issue and overwrote manual workarounds applied by users, leaving development environments vulnerable to man-in-the-middle attacks.</p><p>This trust flaw allows attackers to intercept HTTPS connections, tamper with repository clones and pushes, and capture sensitive credentials like GitHub tokens. While Apple has secured Safari and applications using its core networking framework, developers must manually remove the affected root certificates and reapply fixes after system updates until an official patch is issued.</p>
+<p><small>Links: <a href="https://emudhra.we-have-a-problem.com/apple.html">emudhra.we-have-a-problem.com</a> | <a href="https://news.ycombinator.com/item?id=50271640">hacker news</a></small></p>
+<br clear="all" />
+
+<h2>Michał Górny Examines Growing Challenges in Software Vulnerability Management</h2>
+<a name="story-25678"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpresent5.com%2Fpresentation%2F75598558b8f721ce56f0287bb53ce2c4%2Fimage-21.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Gentoo developer Michał Górny outlines the worsening challenges of software vulnerability management, arguing that project maintainers are increasingly overwhelmed by automated security reports, chatbots, and dubious bug submissions.</p><p>He notes that rigid security scanners and inflated CVE scores force maintainers to perform unnecessary updates and mitigations to avoid false positives, while many open-source projects lack the resources and proper release structures to handle the constant influx of security triage.</p>
+<p><small>Links: <a href="https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/">blogs.gentoo.org</a> | <a href="https://lobste.rs/s/f3jpq3/next_circle_security_hell">discussion</a></small></p>
+<br clear="all" />
+
 <h2>Google Project Zero Compares Fuzzilli and BigSleep on JavaScript Engines</h2>
 <a name="story-25673"><img src="https://wsrv.nl/?url=https%3A%2F%2Fprojectzero.google%2Fimages%2F2026-10-27-fuzzing-v-AI-image1.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Google Project Zero evaluated two automated vulnerability discovery systems—the generative JavaScript engine fuzzer Fuzzilli and the LLM-based bug-finding agent BigSleep—on Chrome's V8 JavaScript engine over a six-month period. BigSleep discovered 45 actionable vulnerabilities compared to Fuzzilli's 37, with a production overlap of approximately 25 percent in the specific bugs reported.</p><p>Additional historical experiments estimating theoretical overlap put the figure closer to 60 percent, demonstrating that both methods identify distinct subsets of vulnerabilities. Project Zero concludes that traditional fuzzing and agentic LLM analysis remain complementary approaches and recommends software vendors combine both techniques to maximize vulnerability detection before release.</p>
@@ -23,7 +35,7 @@
 <h2>Netmeister Discusses Unsustainable Pressures on Cybersecurity Defense Teams</h2>
 <a name="story-25660"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techwyse.com%2Fwp-content%2Fuploads%2F2026%2F04%2FUntitled-design-5.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Cybersecurity commentator Jan Schaumann argues that current vulnerability management practices are facing an unsustainable deluge of zero-days, broken disclosures, and AI-generated security reports that function as a distributed denial-of-service attack on defenders. With multiple severe vulnerabilities hitting simultaneously, organizations lack the staffing, tooling, and time required to assess attack surfaces and deploy fixes effectively.</p><p>The piece highlights recent high-profile incidents—including virtualization escapes, TLS trust issues, and widespread parser flaws—to illustrate that developing a patch is rarely the primary bottleneck. Instead, defenders are overwhelmed by context switching, sensationalized marketing hype, and low-quality automated reports, leaving limiting blast radius and assuming compromise as the primary viable strategies.</p>
-<p><small>Links: <a href="https://www.netmeister.org/blog/defense-ddos.html">netmeister.org</a> | <a href="https://lobste.rs/s/cpaibp/this_is_not_sustainable">discussion</a></small></p>
+<p><small>Links: <a href="https://www.netmeister.org/blog/defense-ddos.html">netmeister.org</a> | <a href="https://lobste.rs/s/cpaibp/this_is_not_sustainable">discussion</a> | <a href="https://news.ycombinator.com/item?id=50266602">hacker news</a></small></p>
 <br clear="all" />
 
 <h2>Anthropic Expands GSA Partnership to Offer Discounted Claude Services to Government Agencies</h2>
@@ -48,18 +60,6 @@
 <a name="story-25568"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F328456000%2Frectangle_large_type_2_b126fadce740ced6402b3aaeeed443e9.png%3Fwidth%3D1200&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Japanese internet services provider GMO Internet is investigating a data leak after suspected hackers published information allegedly linked to the company and its customers. The incident stems from unauthorized access to the company's Onamae Desktop Cloud service, a virtualized desktop platform heavily utilized by financial traders.</p><p>The breach, which potentially affects nearly 27,000 servers, prompted GMO Internet to shut down the platform, reject a ransom demand of roughly 8 billion yen ($50 million), and institute customer compensation measures. The company is currently cooperating with police and government agencies to verify the leaked data and analyze affected customer devices for malware.</p>
 <p><small>Links: <a href="https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/">techcrunch.com</a> | <a href="https://internet.gmo/en/news/article/256/">source</a></small></p>
-<br clear="all" />
-
-<h2>Analysis of Contabo Web Crawler Log Files Reveals Structured Traversal Patterns</h2>
-<a name="story-25586"><img src="https://wsrv.nl/?url=https%3A%2F%2Fbruceediger.com%2Fimages%2Fcontabo_requests.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Bruce Ediger examines Apache server log files from his "Scraper Junkyard" experiment—consisting of over one million generated web pages—to confirm and characterize a centrally controlled web crawler operating out of Contabo GmbH cloud provider IP addresses.</p><p>The investigation details consistent request rates, concurrent binary tree rank traversals, and distinct request series that do not match standard crawler simulation models, providing insight into the mechanics of automated web crawling.</p>
-<p><small>Links: <a href="https://bruceediger.com/posts/contabo-crawler/">bruceediger.com</a> | <a href="https://lobste.rs/s/eyrbup/web_page_crawler_revealed_tracking_down">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Open3DLab Reports Roblox Scraper Downloaded 145 GB of Community 3D Models</h2>
-<a name="story-25570"><img src="https://wsrv.nl/?url=https%3A%2F%2Fpreview.free3d.com%2Fimg%2F2015%2F06%2F2206023501305873745%2Fkpjijuti.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>In mid-October 2026, a web crawler identified with Roblox research downloaded 145.5 GB of 3D models across 712 projects from Open3DLab and its sister sites, SFMLab and SmutBase. The scraping script ignored robots.txt instructions, terms of service, and non-commercial creator licenses while gathering data for what operators suspect is 3D foundation model training.</p><p>The downloads included significant volumes of explicit adult content from SmutBase and SFMLab, raising concerns about safety filters and data hygiene for generative AI tools used on platforms with minor users. Open3DLab stated that Roblox failed to respond to multiple inquiries regarding the automated collection, underscoring ongoing tensions over unauthorized web scraping by major technology companies.</p>
-<p><small>Links: <a href="https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/">open3dlab.com</a> | <a href="https://news.ycombinator.com/item?id=50256985">hacker news</a></small></p>
 <br clear="all" />
 
 ---

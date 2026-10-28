@@ -2,6 +2,16 @@
 
 <h1><img src="../images/computer-programming.png" width="36" align="absmiddle" /> computer-programming</h1>
 
+<h2>AlpineBSD Operating System Combines NetBSD Kernel with Alpine Linux-Inspired Userspace</h2>
+<a name="story-25677"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netbsd.org%2Fdocs%2Fpuffs%2Frump.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>AlpineBSD is a work-in-progress operating system that pairs the NetBSD kernel, libc, and essential platform-specific tools with a userspace inspired by Alpine Linux. The project aims to minimize the inclusion of AI-generated software, excluding large language model output entirely from its base system and main package repository.</p><p>While it utilizes the apk-tools package manager and BusyBox like Alpine Linux, AlpineBSD features a slightly more GNU-oriented userspace and currently relies on the s6 init system, with plans to add OpenRC support. Because it is built on the NetBSD kernel, the operating system currently lacks an official installer and has limited hardware support compared to Linux distributions.</p>
+<p><small>Links: <a href="https://wiki.alpinebsd.org/">wiki.alpinebsd.org</a> | <a href="https://lobste.rs/s/yxuvie/alpinebsd">discussion</a></small></p>
+<br clear="all" />
+
+<h2>Lexifina Proposes Git-Style Version Control for US Code</h2>
+<p>Legal technology company Lexifina has developed a version-control system for the United States Code, allowing users to track legislative amendments in a manner similar to software source code management. By replaying historical amendments sequentially across nine code titles from 2017 onward, the project successfully reproduced 361 out of 365 changes to match official release points.</p><p>The system aims to address challenges in legal research and language model accuracy, which often falter when handling temporal validity and statutory evolution. While the tool successfully maps effective dates and amending laws for most changes, limitations remain regarding retroactive reach-back provisions and pattern-matching constraints for effective-date notes.</p>
+<p><small>Links: <a href="https://lexifina.com/blog/git-for-the-us-code">lexifina.com</a> | <a href="https://news.ycombinator.com/item?id=50268380">hacker news</a></small></p>
+
 <h2>Lobsters NYC Meetup Scheduled at Walker&#x27;s</h2>
 <a name="story-25666"><img src="https://wsrv.nl/?url=https%3A%2F%2Fquartzmountain.org%2Fimages%2Fresources%2Fattend-a-tech-event-at-the-new-york-tech-meetup_20230516020502.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Members of the Lobsters technology discussion community are gathering in New York City for an informal meetup. Attendees are meeting at Walker's near the Canal Street subway station starting at 5:30 p.m.</p><p>The event follows a previous online coordination thread that also drew interest from array programming language enthusiasts. Organizers noted that participants can arrive flexibly, with updates posted to the discussion thread if the group moves.</p>
@@ -47,19 +57,7 @@
 <h2>Max Slater Introduces Syl Programming Language with Compile-Time Dependent Types</h2>
 <a name="story-25616"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage5.slideserve.com%2F9574058%2Fhow-do-compilers-exploit-compile-time-knowledge-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Max Slater has introduced Syl, an experimental programming language designed to encode compile-time computation within a modal type system. Inspired by two-level type theory, Syl utilizes distinct mode axes for staticity and erasure to support dependent typing at compile time while maintaining a simply typed structure at runtime.</p><p>The language features explicit specialization-based optimizations, monomorphized functions, and support for general recursion in compile-time computations without requiring totality checkers or universe machinery. The compiler implementation and related documentation are available on GitHub and the project website.</p>
-<p><small>Links: <a href="https://thenumb.at/Syl-Intro/">thenumb.at</a> | <a href="https://lobste.rs/s/d09iy3/compile_time_dependent_types">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Jake Voytko Examines Historical Software Reliability and Nostalgia</h2>
-<a name="story-25612"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.bitlog.com%2Fmedia%2Ffecabf30-3bef-42c9-98d7-337657a2f509%2Fv2%2F640.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Software engineer Jake Voytko challenges common nostalgia surrounding historical software quality, arguing that consumer applications and operating systems from the 1990s and 2000s were significantly less stable and more frustrating than modern software. He contends that while contemporary development faces distinct productivity and complexity challenges, past eras suffered from severe foundational unreliability.</p><p>The essay highlights pervasive historical issues including frequent Blue Screen of Death crashes, the absence of automated saves leading to lost work, unmanaged disk fragmentation, widespread malware exposure, and severe memory constraints. Voytko concludes that despite current software bloat, modern advancements like process isolation, automated updates, and higher-level programming languages make today's computing environment vastly superior.</p>
-<p><small>Links: <a href="https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/">bitlog.com</a> | <a href="https://news.ycombinator.com/item?id=50257548">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Astral Releases tar-codec Tar Parser for Rust</h2>
-<a name="story-25609"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E22AQGOebIIGLn3jQ%2Ffeedshare-shrink_800%2FB4EZyDNIl5JcAg-%2F0%2F1771727785254%3Fe%3D2147483647%26v%3Dbeta%26t%3DvdJVZFsU3pCZAVxPK1jssJStxnG9hwapdb9N-_-5D2w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Astral has released tar-codec, a new tar encoding and decoding library written in Rust designed to provide high-performance archive handling. Starting with version 0.13, the Python package manager uv uses tar-codec as its default parser for source distributions, replacing the previous astral-tokio-tar implementation.</p><p>Developed from the ground up to address security concerns related to parser differentials—where different tools interpret the same archive in conflicting ways—tar-codec operates roughly twice as fast as its predecessor while eliminating vulnerabilities inherent in older, more lenient tar parsers. The library carefully navigates the complex evolution of tar formats, including V7, UStar, pax, and GNU variants, to enforce strict, secure extraction and parsing standards.</p>
-<p><small>Links: <a href="https://astral.sh/blog/tar-codec">astral.sh</a> | <a href="https://lobste.rs/s/q7arzy/fast_secure_tar_parser_for_rust_ecosystem">discussion</a> | <a href="https://news.ycombinator.com/item?id=50261992">hacker news</a></small></p>
+<p><small>Links: <a href="https://thenumb.at/Syl-Intro/">thenumb.at</a> | <a href="https://lobste.rs/s/d09iy3/compile_time_dependent_types">discussion</a> | <a href="https://news.ycombinator.com/item?id=50265170">hacker news</a></small></p>
 <br clear="all" />
 
 ---

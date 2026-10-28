@@ -2,6 +2,12 @@
 
 <h1><img src="../images/tech-finance.png" width="36" align="absmiddle" /> tech-finance</h1>
 
+<h2>Jio Platforms Shares Soar 21% on Trading Debut After Record IPO</h2>
+<a name="story-25650"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhyIweAj-_BjCycUlavu5QzLWcxmMIVkAu73h59DO1sGfLtyybSRj3pVB4QFIgQ7kjMkEX_EDQ6wvaUbKflnBi7dGkysOitttaFPLWIlEkHkIjGG504uToXokYtlzFEkn1ePmR06EMBl6gaKwrc6PfQJ31P0L0GTEyworAQioJjQNdgi4YO-f5JP7j595c%2Fs16000%2F511549.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Jio Platforms shares surged 21.4% on their trading debut following the company's 302 billion rupee ($3.2 billion) initial public offering, India's largest-ever public issue. The offering was subscribed more than 22 times overall, driven heavily by institutional demand after opening on October 21.</p><p>Reliance Industries retains a majority stake of over 66% in Jio Platforms, alongside significant holdings by Meta Platforms and Google. Following the listing, brokerage Nomura initiated coverage with a buy rating and a target price of 1,340 rupees, citing a largely completed capital expenditure cycle and expected improvements in free cash flow.</p>
+<p><small>Links: <a href="https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html">cnbc.com</a></small></p>
+<br clear="all" />
+
 <h2>Infisical Raises $40 Million Series B at $600 Million Valuation</h2>
 <a name="story-25632"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Finfisical-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Infisical, a cybersecurity infrastructure company, has raised $40 million in Series B funding led by Elad Gil at a $600 million valuation. The platform provides secret management and privileged access controls, enabling enterprises to grant AI agents secure access to critical systems and private credentials.</p><p>The funding will support Infisical's expansion as more organizations adopt autonomous AI agents. The company currently serves over 1,300 customers, including major enterprises such as Airbus and Volkswagen, and the funding round included participation from Gradient and Y Combinator.</p>
@@ -54,12 +60,6 @@
 <a name="story-25547"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.antier.com%2Fblogs%2Fwp-content%2Fuploads%2F2025%2F02%2FAI-Agents-in-Finance-A-Game-Changer-for-Forecasting-and-Analytics.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Hyphenate Inc., a startup developing reinforcement-learning-driven artificial intelligence agents to automate corporate finance operations, has secured $45 million in a Series A funding round led by Nexus Venture Partners. The latest round brings the two-year-old company's total funding to $54 million.</p><p>Founded by former Microsoft colleagues Ramnandan Krishnamurthy and Ajay Krishna Amudan, the company builds autonomous finance agents designed to handle accounting, treasury, and other complex workflows without requiring manual prompts or rigid rule sets from scratch. The fresh capital will be used to accelerate the development and expansion of its AI-driven finance platform.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/microsoft-alumni-score-funding-to-build-ai-agents-for-finance">bloomberg.com</a> | <a href="https://emergent.sh/news/hyphenate-raises-45m-ai-agents-finance">source</a></small></p>
-<br clear="all" />
-
-<h2>UK AI Startup 22one Reaches Nearly $400M Valuation in Funding Round Backed by Sequoia and Lux</h2>
-<a name="story-25543"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F643884e14a9b8909f23b73b1%2F7e7405a7-6d17-4267-bc77-6df15a0dfb64%2FCommunity-led%2BTech%2BAdoption.jpg%3Fformat%3D1500w&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>UK stealth artificial intelligence startup 22one has attained a valuation of nearly $400 million following a funding round backed by prominent venture capital firms including Sequoia Capital and Lux Capital. Founded by former Merseyside police officer Steven Richardson, the company is developing specialized artificial intelligence tools and services for law enforcement agencies and police forces.</p><p>Despite operating largely in stealth mode with minimal public visibility, the startup has attracted substantial investment from major Silicon Valley backers. The high valuation highlights growing venture capital interest in applying advanced artificial intelligence technologies to public sector security and operational workflows.</p>
-<p><small>Links: <a href="https://www.ft.com/content/65a113b4-2a45-49cf-9e68-93f42151166e">ft.com</a></small></p>
 <br clear="all" />
 
 ---
