@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 ```
 
+<h2>Warhorse Studios Reports Cybersecurity Incident and Unauthorized Data Access</h2>
+<a name="story-25607"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltecf4adffa4fbd2dd%2F67a3a535239940042aa32fe8%2Fkingdom_come_2.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>The developer of Kingdom Come: Deliverance, Warhorse Studios, has confirmed a cybersecurity incident involving unauthorized access to company systems and data. The studio is currently working with cybersecurity experts to secure its infrastructure and determine the full extent of the breach.</p><p>CEO Martin Frývaldský characterized the attack as a serious incident, though the specific scope of the data breach has not yet been fully assessed. Potential implications include the exposure of sensitive employee information or internal development data for upcoming titles, such as the studio's unannounced Lord of the Rings RPG.</p>
+<p><small>Links: <a href="https://www.gamedeveloper.com/programming/warhorse-studios-hit-by-an-undetailed-cybersecurity-incident">gamedeveloper.com</a> | <a href="https://warhorsestudios.cz/en/incident">source</a></small></p>
+<br clear="all" />
+
 <h2>Matt Hall Named Atari EVP of Mobile</h2>
 <a name="story-25604"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fbltda48dff3e66f9c09%2F673f584dfde1970d3e5da79b%2FCrossy_Road_Insert.png%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Matt Hall, co-founder of Hipster Whale and creator of Crossy Road, has been appointed Executive Vice-President of Mobile expansion initiatives at Atari.</p><p>The appointment follows Atari's acquisitions of Hipster Whale and Early Morning Studios. Hall will oversee cross-platform compatibility across engines, manage mobile partnerships, and build infrastructure for Atari's mobile game expansions.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml
 <a name="story-25410"><img src="https://wsrv.nl/?url=https%3A%2F%2Fvalkyrie.cdn.ifixit.com%2Fmedia%2F2026%2F10%2F24232224%2FiPhone-Duo_94.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>iFixit has published a comprehensive teardown of Apple's first foldable smartphone, the iPhone Duo, examining its complex hinge mechanism, nano-texture display finish, and custom subpixel layouts. While the device incorporates accessible repair features like electricity-releasing batteries and a modular outer cover layer, out-of-warranty screen replacements remain exceptionally expensive and difficult.</p><p>The teardown also investigated early reports of screen damage and bright lines along the fold, utilizing 3D modeling and CT scans to analyze internal stresses. The investigation suggests that early screen failures may cluster near a mechanical hotspot where internal support components interact with the folding display during closure.</p>
 <p><small>Links: <a href="https://www.ifixit.com/News/119895/iphone-duo-teardown">ifixit.com</a> | <a href="https://news.ycombinator.com/item?id=50237896">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Grok Releases First Seven Minutes of AI-Generated Odyssey Series</h2>
-<a name="story-25404"><img src="https://wsrv.nl/?url=https%3A%2F%2Fhelios-i.mashable.com%2Fimagery%2Farticles%2F03GbMG1r6qHcyGRHO6KR3kF%2Fhero-image.fill.size_1200x675.v1792865093.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Grok has released a seven-minute video comprising the first episode of an AI-generated adaptation of Homer's "The Odyssey." Created in collaboration with Wonder Studios and director Dev Walker, the release delivers on Elon Musk's promise earlier in the year to produce a full-length AI version of the epic.</p><p>The project serves as an explicit counterpoint to Christopher Nolan’s practical-film adaptation released in July. Early evaluations indicate that while the AI-generated footage achieves occasional moments of visual realism, it struggles with narrative momentum, dialogue, and human engagement.</p>
-<p><small>Links: <a href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/">techcrunch.com</a> | <a href="https://x.com/imagine/status/2113712964419063911?s=20">source</a></small></p>
 <br clear="all" />
 
 ---
