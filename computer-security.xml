@@ -3,9 +3,18 @@
   <title>computer-security</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml</id>
-  <updated>2026-10-28T01:17:00+00:00</updated>
+  <updated>2026-10-28T03:57:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-security.png?v=20-75-50</logo>
+  <entry>
+    <title>Netmeister Discusses Unsustainable Pressures on Cybersecurity Defense Teams</title>
+    <link href="https://www.netmeister.org/blog/defense-ddos.html" rel="alternate" />
+    <id>https://www.netmeister.org/blog/defense-ddos.html::v240</id>
+    <published>2026-10-28T03:57:00+00:00</published>
+    <updated>2026-10-28T03:57:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.techwyse.com%2Fwp-content%2Fuploads%2F2026%2F04%2FUntitled-design-5.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.netmeister.org/blog/defense-ddos.html">netmeister.org</a> | <a href="https://lobste.rs/s/cpaibp/this_is_not_sustainable">discussion</a></small></p><hr/><p>Cybersecurity commentator Jan Schaumann argues that current vulnerability management practices are facing an unsustainable deluge of zero-days, broken disclosures, and AI-generated security reports that function as a distributed denial-of-service attack on defenders. With multiple severe vulnerabilities hitting simultaneously, organizations lack the staffing, tooling, and time required to assess attack surfaces and deploy fixes effectively.</p><p>The piece highlights recent high-profile incidents—including virtualization escapes, TLS trust issues, and widespread parser flaws—to illustrate that developing a patch is rarely the primary bottleneck. Instead, defenders are overwhelmed by context switching, sensationalized marketing hype, and low-quality automated reports, leaving limiting blast radius and assuming compromise as the primary viable strategies.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techwyse.com%2Fwp-content%2Fuploads%2F2026%2F04%2FUntitled-design-5.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 07:58 UTC | #25660</small>]]></content>
+  </entry>
   <entry>
     <title>Anthropic Expands GSA Partnership to Offer Discounted Claude Services to Government Agencies</title>
     <link href="https://www.anthropic.com/news/expanding-partnership-gsa" rel="alternate" />
