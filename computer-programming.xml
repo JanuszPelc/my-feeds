@@ -3,9 +3,18 @@
   <title>computer-programming</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-programming.xml</id>
-  <updated>2026-10-27T18:47:00+00:00</updated>
+  <updated>2026-10-27T19:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
+  <entry>
+    <title>Amazon Discourages "Tokenmaxxing" in Software Engineering AI Guidelines</title>
+    <link href="https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html" rel="alternate" />
+    <id>https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html::v240</id>
+    <published>2026-10-27T19:52:00+00:00</published>
+    <updated>2026-10-27T19:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQFCSABuNVOOXw%2Farticle-cover_image-shrink_720_1280%2FB56Z6M5V4THcAU-%2F0%2F1780480306449%3Fe%3D2147483647%26v%3Dbeta%26t%3D1dB3PuExKpaFNheZVQh3z1Mhfq3Qv9Ax2fdVBlTJevQ&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html">cnbc.com</a> | <a href="https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai">source</a> | <a href="https://news.ycombinator.com/item?id=50268075">hacker news</a></small></p><hr/><p>Amazon has issued new AI usage guidelines to its software development engineers and managers, advising against "tokenmaxxing"—the practice of using AI tools excessively without regard for actual output quality. The company's memo describes metrics like token usage and tool adoption rates as "deeply flawed" ways to measure productivity, suggesting instead that focus should be placed on long-term outcomes and "feature velocity," such as successful production launches.</p><p>The guidance follows Amazon's decision in May to shut down an internal AI leaderboard that employees used to climb rankings through high token consumption. As businesses manage the rising costs of AI processing, Amazon's policy aims to prevent wasted computational effort on tasks that do not require AI. The company also noted that an engineer's ability to identify when AI is not useful for a task is a demonstration of high-quality professional judgment.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD5612AQFCSABuNVOOXw%2Farticle-cover_image-shrink_720_1280%2FB56Z6M5V4THcAU-%2F0%2F1780480306449%3Fe%3D2147483647%26v%3Dbeta%26t%3D1dB3PuExKpaFNheZVQh3z1Mhfq3Qv9Ax2fdVBlTJevQ&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 02:24 UTC | #25608</small>]]></content>
+  </entry>
   <entry>
     <title>Anna Liberty Publishes Reflection on Four Months of Zig Development</title>
     <link href="https://gracefulliberty.com/articles/four-months-of-zig/" rel="alternate" />
