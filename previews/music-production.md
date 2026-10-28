@@ -2,6 +2,12 @@
 
 <h1><img src="../images/music-production.png" width="36" align="absmiddle" /> music-production</h1>
 
+<h2>Codwaves Releases Quance Resonance Suppressor Plugin</h2>
+<a name="story-25697"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fquanceui.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Codwaves has released Quance, a real-time resonance suppression plugin for Windows and macOS available in VST3, AU, and AAX formats. Utilizing dynamic spectral processing, the plugin detects harsh frequency peaks and reduces them while incorporating dedicated tone and transient protection systems to preserve harmonics and vocal formants.</p><p>Quance includes features such as an intelligent learn function for automatic focus point placement, six source modes, up to eight focus points, and five quality settings ranging from zero-latency live monitoring to high-resolution mixing and mastering modes. The plugin is available at an introductory price of $49.99 until November 30, 2026, alongside a 7-day trial on the developer's website.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/codwaves-releases-quance---resonance-suppressor-vst3-au-and-aax-69445?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69445">kvraudio.com</a> | <a href="https://codwaves.com/quance/">source</a></small></p>
+<br clear="all" />
+
 <h2>Mastering The Mix BASSROOM Low-End Equalizer Plugin</h2>
 <a name="story-25662"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.masteringthemix.com%2Fcdn%2Fshop%2Ffiles%2FBR_3.png%3Fv%3D1691761824%26width%3D800&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mastering The Mix BASSROOM is a mix and mastering equalizer plugin designed to help producers shape and balance the low-end frequencies of their tracks. It features genre-specific target curves and an intuitive interface to assist users in achieving professional low-end translation across various playback systems.</p><p>The plugin provides advanced multi-band EQ functionality tailored specifically for frequencies between 0 and 320 Hz. Producers and audio engineers utilize BASSROOM to streamline their low-end processing workflows and resolve common mixing challenges in untreated acoustic environments.</p>
@@ -54,12 +60,6 @@
 <a name="story-25581"><img src="https://wsrv.nl/?url=https%3A%2F%2Fms.bestservice.com%2Fjpg%2Fba_2x%2Fimg_share%2Fimages%2Fproducts%2Fstrezov_sampling%2Fstring_contours%2Fstrezov-string-contours-940.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Strezov Sampling has released String Contours: Solo Cello Sul Tasto, a free virtual instrument for Native Instruments' Kontakt Player. Built on the developer's contextual sampling concept, the library captures delicate bow textures and pre-shaped dynamic performances designed to minimize manual expression mapping.</p><p>The instrument includes tempo synchronization and organic phrasing tailored for film scoring and ambient production. It is fully compatible with the free version of Kontakt Player, providing producers with access to professional orchestral sampling without requiring the full commercial software.</p>
 <p><small>Links: <a href="https://bedroomproducersblog.com/2026/10/27/strezov-sampling-solo-cello/">bedroomproducersblog.com</a> | <a href="https://www.strezov-sampling.com/products/view/string-contours-solo-cello-sul-tasto">source</a> | <a href="https://bedroomproducersblog.com/2026/10/27/strezov-sampling-solo-cello/#respond">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Native Instruments Releases Massive XL Software Synthesizer</h2>
-<a name="story-25576"><img src="https://wsrv.nl/?url=https%3A%2F%2Fdt7v1i9vyp3mf.cloudfront.net%2Fstyles%2Fnews_large%2Fs3%2Fimagelibrary%2Fn%2Fni1wavetables-A3hv1PC37K6tLyNSEihcxOx4V3pSH0cG.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Native Instruments has released Massive XL, a new flagship software synthesizer and the direct successor to Massive X. The plugin introduces advanced sound design tools, including an audio-to-patch Preset Generator, stem separation, similarity-aware wavetable mutations, and a redesigned modulation environment.</p><p>Building upon the semi-modular architecture and character of the original 2006 instrument, Massive XL incorporates over 100 new wavetables and integrated effects such as Raum and Replika. Available at an introductory price through December 2026, the release represents the first major product launch for Native Instruments following its acquisition by InMusic.</p>
-<p><small>Links: <a href="https://musictech.com/news/gear/native-instruments-massive-xl-everything-you-need-to-know/">musictech.com</a> | <a href="https://www.native-instruments.com/products/massive-xl">source</a></small></p>
 <br clear="all" />
 
 ---

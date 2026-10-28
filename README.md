@@ -1,6 +1,6 @@
 # My RSS feeds
 
-The feeds I actually read, updated as new stories land. [Take a peek](previews/ai-news.md) before
+The feeds I actually read, updated as new stories land. [Take a peek](previews/top-stories.md) before
 subscribing.
 
 ## Subscribing

@@ -64,7 +64,7 @@
 
 ---
 
-To subscribe to the top-stories feed, copy this link into your RSS reader:
+This is a low-volume selection of stories from all the other feeds. To subscribe to the top-stories feed, copy this link into your RSS reader:
 
 ```
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/top-stories.xml
