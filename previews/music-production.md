@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xml
 ```
 
+<h2>Kazrog Releases Vac Rac TSL Tube Optical Compressor Plugin</h2>
+<a name="story-25627"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fvacrac_mainui_gray.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Kazrog's Vac Rac TSL is a plugin emulation of the Inward Connections Vac Rac tube optical compressor/limiter, developed alongside designer Steve Firlotte. The software models four hardware configurations: the TSL-5, TSL-4, TSL-3, and the transformerless TLM-1.</p><p>The plugin features adjustable THD for tube saturation, sidechain filters, and Analog Entropy for modeling channel-to-channel component tolerance. It is compatible with macOS, Windows, and Linux in VST2, VST3, AAX, AU, and LV2 formats.</p>
+<p><small>Links: <a href="https://www.kvraudio.com/news/kazrog-releases-vac-rac-tsl---official-inward-connections-tube-optical-compressor-vst-au-aax-and-lv2-69467?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69467">kvraudio.com</a> | <a href="https://kazrog.com/products/vac-rac-tsl">source</a></small></p>
+<br clear="all" />
+
 <h2>ADAM Audio Launches H715 Reference Open-Back Headphones</h2>
 <a name="story-25595"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmusictech.com%2Fwp-content%2Fuploads%2F2026%2F10%2FADAM-Audio-H715-hero%402000x1500.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>ADAM Audio has introduced its flagship H715 Reference open-back headphones, designed for professional mixing and mastering environments. The headphones feature custom 40mm titanium-plated PEN dynamic drivers with a patent-pending ventilation system, and come bundled with Sonnox Headphone Utility calibration software and the ListenHub virtual monitoring application.</p><p>Priced at £569.99 / $824.99 / €669.99 with shipping expected in December 2026, the model includes a modular design with replaceable cables, earpads, and headband padding. A dedicated Hi-Fi mode can also be engaged via a recessed switch inside the earcup to support balanced amplifier connections for home listening.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/music-production.xm
 <a name="story-25537"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Ffigura-ui-sand-01---01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>AcusMagic has released Figura, an audio effect and standalone application that translates incoming audio signals into real-time cymatic figures. Utilizing modal simulation rather than simple beat-reactive animation, the software drives the eigenmodes of virtual plates and membranes using up to 32 partials of the sound source, forming Chladni patterns, liquid waves, and Lissajous curves.</p><p>Available in Studio and Live editions for macOS and Windows, Figura supports VST3, CLAP, AU, and AAX formats alongside standalone operation. The Live version features a dedicated projection window for external monitors, and the software allows users to export still images up to 4096 pixels and MP4 video recordings up to 4K resolution.</p>
 <p><small>Links: <a href="https://www.kvraudio.com/news/acusmagic-releases-figura-a-real-time-cymatics-visualizer-plugin-69444?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69444">kvraudio.com</a> | <a href="https://acusmagic.com/figura">source</a></small></p>
-<br clear="all" />
-
-<h2>Expetri Experimental Software Synthesizer Released in AU and VST3 Formats</h2>
-<a name="story-25512"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.kvraudio.com%2Fi%2Fb%2Fnews-thumbnail.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Expetri has released its self-titled experimental software synthesizer for macOS in VST3 and AU formats. The plugin approaches sound design through the metaphor of a chemistry experiment, allowing users to grow sound cells in a virtual petri dish rather than manually adjusting traditional synthesis parameters.</p><p>The interface lets users interact with sound cells by stirring the dish, adding or removing elements with a pipette, and applying effect liquids from flasks. The software is available in both a free tier and a full version priced at an introductory $9.99, with rare cell generation reserved for the paid release.</p>
-<p><small>Links: <a href="https://www.kvraudio.com/news/expetri-experimental-software-synthesizer-released-au-and-vst3-69350?utm_source=kvrnewsfeed&utm_medium=rssfeed&utm_campaign=rss&utm_content=69350">kvraudio.com</a> | <a href="https://expetri.com/">source</a></small></p>
 <br clear="all" />
 
 ---

@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Physical Intelligence in Talks to Raise $1 Billion at $20 Billion Valuation</h2>
+<a name="story-25615"><img src="https://wsrv.nl/?url=https%3A%2F%2Fascendants.in%2Fwp-content%2Fuploads%2F2026%2F03%2Frobotic-startup-physical-intelligence.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Physical Intelligence is negotiating to raise more than $1 billion in new funding at a valuation of approximately $20 billion. The round is reportedly being led by Avenir and Lux Capital.</p><p>The company develops artificial intelligence software designed to enable robots to perform real-world tasks. If the negotiations succeed, the new valuation would nearly double the startup's $11.5 billion valuation from earlier in 2026.</p>
+<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation">bloomberg.com</a></small></p>
+<br clear="all" />
+
 <h2>General Motors to Move Stock Listing from NYSE to Nasdaq on November 17</h2>
 <a name="story-25603"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblog.tipranks.com%2Fwp-content%2Fuploads%2F2024%2F11%2Fimage-852.png%3Futm_source%3Dnasdaq.com%26utm_medium%3Dreferral&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>General Motors will transfer its common stock listing from the New York Stock Exchange to Nasdaq on November 17, 2026. The move supports the company's strategic shift toward artificial intelligence and autonomous vehicle development.</p><p>This transition is part of an initiative led by Sterling Anderson to use AI to accelerate GM's development cycles and manufacturing. The automaker will continue to trade under the 'GM' ticker symbol on the new exchange.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25412"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffintechnews.sg%2Fwp-content%2Fuploads%2F2024%2F01%2FAirwallex-Plans-for-IPO-in-2026-Tackles-Compliance-and-Culture-Challenges-2-1440x564_c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Venture capitalists Joe Lonsdale and Keith Rabois, both investors in fintech startup Ramp, pushed U.S. lawmakers to investigate rival payments company Airwallex over its ties to China. The lobbying effort followed the collapse of a potential corporate deal between Ramp and Airwallex, marking an escalation in competitive tactics within the sector.</p><p>The political pressure resulted in congressional inquiries regarding Airwallex's operations, staffing in China, and compliance with data security regulations. Airwallex executives defended the company against the allegations, dismissing the criticisms as unfounded attacks amid intensifying geopolitical scrutiny in the fintech industry.</p>
 <p><small>Links: <a href="https://www.theinformation.com/articles/ramp-investors-went-nuclear-airwallex-doomed-deal">theinformation.com</a></small></p>
-<br clear="all" />
-
-<h2>Blackstone-Led CoreWeave Loan Sparks Chip-Backed Debt Boom</h2>
-<a name="story-25354"><img src="https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fuploads.mongoosehq.com%2Furl%2Fmedia%2F119154598%2Fd0df088b367c4fdcc7831156c9fa35529285b778a0bfe104cf232437425f7f76&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>A 2023 private credit loan of $2.3 billion led by Blackstone Inc. to CoreWeave Inc. established a model for financing artificial intelligence infrastructure using graphics processing units as collateral. This strategy has catalyzed a rapidly expanding chip-backed debt market projected to approach $1 trillion.</p><p>The initial financing arrangement has reshaped modern corporate credit by demonstrating how specialized tech assets can secure massive debt facilities. As lenders and borrowers continue to scale these GPU-backed facilities, the trend is introducing new risk profiles and transforming how capital is deployed across the tech sector.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-23/blackstone-bet-on-chips-drove-a-debt-boom-that-s-upending-credit">bloomberg.com</a></small></p>
 <br clear="all" />
 
 ---
