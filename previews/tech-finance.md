@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Robinhood Reports Q3 Revenue Growth Amid Declining Crypto Revenue</h2>
+<a name="story-25617"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FHOOD-RESULTS%2Fmopaoonokpa%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Robinhood Markets reported third-quarter revenue of $1.42 billion, a 12% year-over-year increase that met analyst expectations. Quarterly profit fell 14% to $476 million, as a 55% decline in cryptocurrency-related revenue to $120 million weighed on the company's results.</p><p>The slump in crypto trading activity offset revenue gains in other sectors, impacting overall profitability. Following the earnings announcement, Robinhood's stock price fell more than 5% in after-hours trading.</p>
+<p><small>Links: <a href="https://www.reuters.com/business/robinhood-quarterly-profit-falls-softer-crypto-activity-outweighs-robust-trading-2026-10-27/">reuters.com</a> | <a href="https://investors.robinhood.com/events/event-details/robinhood-q3-2026-earnings">source</a></small></p>
+<br clear="all" />
+
 <h2>Physical Intelligence in Talks to Raise $1 Billion at $20 Billion Valuation</h2>
 <a name="story-25615"><img src="https://wsrv.nl/?url=https%3A%2F%2Fascendants.in%2Fwp-content%2Fuploads%2F2026%2F03%2Frobotic-startup-physical-intelligence.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Physical Intelligence is negotiating to raise more than $1 billion in new funding at a valuation of approximately $20 billion. The round is reportedly being led by Avenir and Lux Capital.</p><p>The company develops artificial intelligence software designed to enable robots to perform real-world tasks. If the negotiations succeed, the new valuation would nearly double the startup's $11.5 billion valuation from earlier in 2026.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25433"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimg.digitimes.com%2Fnewsshow%2F20250702pd244_files%2F1_b.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Suzhou Dongshan Precision Manufacturing Co., a printed circuit board manufacturer, raised approximately HK$9.9 billion ($1.3 billion) in Hong Kong through its initial public offering. The share sale was priced at roughly HK$86.80, marking the city's largest stock market listing in nearly two months.</p><p>The final offer price represented a 35% discount relative to the company's closing price on the Shenzhen stock exchange amid volatile investor sentiment surrounding technology and artificial intelligence suppliers. The offering drew cautious demand as the company navigated broader market fluctuations.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing">bloomberg.com</a></small></p>
-<br clear="all" />
-
-<h2>Ramp Investors Joe Lonsdale and Keith Rabois Pushed Lawmakers to Probe Airwallex Following Scrapped Deal</h2>
-<a name="story-25412"><img src="https://wsrv.nl/?url=https%3A%2F%2Ffintechnews.sg%2Fwp-content%2Fuploads%2F2024%2F01%2FAirwallex-Plans-for-IPO-in-2026-Tackles-Compliance-and-Culture-Challenges-2-1440x564_c.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Venture capitalists Joe Lonsdale and Keith Rabois, both investors in fintech startup Ramp, pushed U.S. lawmakers to investigate rival payments company Airwallex over its ties to China. The lobbying effort followed the collapse of a potential corporate deal between Ramp and Airwallex, marking an escalation in competitive tactics within the sector.</p><p>The political pressure resulted in congressional inquiries regarding Airwallex's operations, staffing in China, and compliance with data security regulations. Airwallex executives defended the company against the allegations, dismissing the criticisms as unfounded attacks amid intensifying geopolitical scrutiny in the fintech industry.</p>
-<p><small>Links: <a href="https://www.theinformation.com/articles/ramp-investors-went-nuclear-airwallex-doomed-deal">theinformation.com</a></small></p>
 <br clear="all" />
 
 ---

@@ -3,9 +3,18 @@
   <title>tech-finance</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml</id>
-  <updated>2026-10-27T21:50:00+00:00</updated>
+  <updated>2026-10-27T22:26:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-finance.png?v=260-75-50</logo>
+  <entry>
+    <title>Robinhood Reports Q3 Revenue Growth Amid Declining Crypto Revenue</title>
+    <link href="https://www.reuters.com/business/robinhood-quarterly-profit-falls-softer-crypto-activity-outweighs-robust-trading-2026-10-27/" rel="alternate" />
+    <id>https://www.reuters.com/business/robinhood-quarterly-profit-falls-softer-crypto-activity-outweighs-robust-trading-2026-10-27/::v240</id>
+    <published>2026-10-27T22:26:00+00:00</published>
+    <updated>2026-10-27T22:26:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FHOOD-RESULTS%2Fmopaoonokpa%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.reuters.com/business/robinhood-quarterly-profit-falls-softer-crypto-activity-outweighs-robust-trading-2026-10-27/">reuters.com</a> | <a href="https://investors.robinhood.com/events/event-details/robinhood-q3-2026-earnings">source</a></small></p><hr/><p>Robinhood Markets reported third-quarter revenue of $1.42 billion, a 12% year-over-year increase that met analyst expectations. Quarterly profit fell 14% to $476 million, as a 55% decline in cryptocurrency-related revenue to $120 million weighed on the company's results.</p><p>The slump in crypto trading activity offset revenue gains in other sectors, impacting overall profitability. Following the earnings announcement, Robinhood's stock price fell more than 5% in after-hours trading.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.reuters.com%2Fgraphics%2FHOOD-RESULTS%2Fmopaoonokpa%2Fchart.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 03:46 UTC | #25617</small>]]></content>
+  </entry>
   <entry>
     <title>Physical Intelligence in Talks to Raise $1 Billion at $20 Billion Valuation</title>
     <link href="https://www.bloomberg.com/news/articles/2026-10-27/robotics-lab-physical-intelligence-in-talks-for-a-20-billion-valuation" rel="alternate" />
