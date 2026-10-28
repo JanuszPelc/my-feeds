@@ -3,9 +3,18 @@
   <title>tech-consumer</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-consumer.xml</id>
-  <updated>2026-10-27T19:35:00+00:00</updated>
+  <updated>2026-10-28T17:11:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-consumer.png?v=260-75-50</logo>
+  <entry>
+    <title>Apple Announces New MacBook Pro with PROLED XDR Display and Touchscreen</title>
+    <link href="https://www.apple.com/macbook-pro/proled-xdr-display/" rel="alternate" />
+    <id>https://www.apple.com/macbook-pro/proled-xdr-display/::v240</id>
+    <published>2026-10-28T17:11:00+00:00</published>
+    <updated>2026-10-28T17:11:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fv%2Fmacbook-pro%2Fproled-xdr-display%2Fa%2Fimages%2Foverview%2Fdisplay%2Fdisplay_hero__yusiu2eockyq_large.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.apple.com/macbook-pro/proled-xdr-display/">apple.com</a> | <a href="https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/">source</a> | <a href="https://news.ycombinator.com/item?id=50276940">hacker news</a></small></p><hr/><p>Apple has announced the redesigned MacBook Pro lineup featuring a PROLED XDR tandem OLED display and, for the first time on a Mac, an integrated touchscreen interface. Available in 14-inch and 16-inch sizes, the new laptops are powered by the M5 Pro and M5 Max chips and include the Dynamic Island, a redesigned thermal architecture, and up to 24 hours of battery life.</p><p>The PROLED XDR display delivers up to 2,000 nits of peak brightness, a 10,000,000:1 contrast ratio, and P3 plus Adobe RGB wide color support, catering to professional creative and technical workflows. Connectivity has also been upgraded with Thunderbolt 5 ports supporting multiple external displays, Wi-Fi 7, and Bluetooth 6.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fv%2Fmacbook-pro%2Fproled-xdr-display%2Fa%2Fimages%2Foverview%2Fdisplay%2Fdisplay_hero__yusiu2eockyq_large.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 19:08 UTC | #25735</small>]]></content>
+  </entry>
   <entry>
     <title>Rockstar Games Workers to Vote on Unionization Ahead of GTA VI Release</title>
     <link href="https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release" rel="alternate" />

@@ -10,6 +10,12 @@
 
 *How the tech business is changing, from chipmaking and data centers to jobs.*
 
+<h2>Meta Launches Waddle World AI Pet App in the Philippines</h2>
+<a name="story-25691"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fmetas-waddle-world-is-a-tamagotchi-like-ai-digital-pet-app%2Fintro-1793176733.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Meta has soft-launched a 16-bit, Tamagotchi-style virtual pet application named Waddle World in the Philippines. Marketed as a daily journal disguised as a pet, the app lets users type or dictate journal entries that their AI-powered pet responds to with conversational text and illustrated doodles.</p><p>Users can also play mini-games within the app to earn points for purchasing food and toys for their virtual companion. While app store listings indicate the game has been available since late September, Meta has not yet clarified whether it plans a broader international rollout.</p>
+<p><small>Links: <a href="https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/">engadget.com</a> | <a href="https://waddleworld.app/">source</a></small></p>
+<br clear="all" />
+
 <h2>Slough Becomes Europe&#x27;s Largest Data Center Hub</h2>
 <a name="story-25671"><img src="https://wsrv.nl/?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fstandard%2F1920%2Fcpsprodpb%2F0d2b%2Flive%2F35154910-143e-11ef-b0d8-137e1a51c92d.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Slough, a town situated on the border of west London, has evolved into Europe's largest data center hub, hosting more than 40 facilities predominantly concentrated on the Slough Trading Estate. The cluster's rapid expansion has been driven by strategic proximity to London, robust fiber connectivity along the M4 corridor, and established power infrastructure.</p><p>As the heavy concentration of monolithic facilities continues to grow, local council officials and residents are pressing operators to provide greater community benefits. The intense development has also prompted scrutiny regarding environmental impacts, including emerging research indicating that the dense collection of facilities contributes to a local heat island effect.</p>
@@ -60,12 +66,6 @@
 <a name="story-25643"><img src="https://wsrv.nl/?url=https%3A%2F%2Feepower.com%2Fuploads%2Farticles%2Fonsemi-renesas-and-analog-devices-all-announce-and-finalize-acquisitions-fig1.JPG&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Semiconductor component maker Onsemi is in advanced discussions to acquire Ferric, a 16-year-old chip startup, for approximately $1 billion. The potential transaction highlights growing industry demand for specialized power management technology capable of supporting the intense energy requirements of artificial intelligence chips.</p><p>Ferric specializes in integrated voltage regulators and previously secured a $32.1 million Series C funding round in December 2024. The acquisition talks arrive as semiconductor firms increasingly target advanced power delivery solutions to address efficiency and thermal challenges in high-performance computing data centers.</p>
 <p><small>Links: <a href="https://www.theinformation.com/articles/chipmaker-onsemi-talks-buy-startup-1-billion">theinformation.com</a></small></p>
-<br clear="all" />
-
-<h2>SK Hynix Announces $75 Billion Shareholder Return Plan Alongside Record Third-Quarter Profit</h2>
-<a name="story-25641"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.techpowerup.com%2Fimg%2FQVbYkBkLSFx5by3n.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>South Korean memory-chip manufacturer SK Hynix reported a blockbuster third-quarter net profit increase driven by ongoing artificial intelligence infrastructure demand, prompting the company to announce a massive shareholder return package totaling approximately $75 billion for the year. The capital allocation plan comprises substantial cash dividends alongside extensive share repurchases and cancellations.</p><p>The initiative builds upon previous aggressive return programs as major chipmakers face heightened investor pressure to distribute excess cash reserves. The record financial performance highlights the sustained boom in advanced memory technologies like high-bandwidth memory chips.</p>
-<p><small>Links: <a href="https://www.wsj.com/business/earnings/sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-f3a460b7">wsj.com</a> | <a href="https://news.skhynix.com/en/q3-2026-business-results/">source</a></small></p>
 <br clear="all" />
 
 ---

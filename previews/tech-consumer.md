@@ -10,6 +10,12 @@
 
 *The games, gadgets, shows, and books people spend their time on.*
 
+<h2>Apple Announces New MacBook Pro with PROLED XDR Display and Touchscreen</h2>
+<a name="story-25735"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.apple.com%2Fv%2Fmacbook-pro%2Fproled-xdr-display%2Fa%2Fimages%2Foverview%2Fdisplay%2Fdisplay_hero__yusiu2eockyq_large.avif&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Apple has announced the redesigned MacBook Pro lineup featuring a PROLED XDR tandem OLED display and, for the first time on a Mac, an integrated touchscreen interface. Available in 14-inch and 16-inch sizes, the new laptops are powered by the M5 Pro and M5 Max chips and include the Dynamic Island, a redesigned thermal architecture, and up to 24 hours of battery life.</p><p>The PROLED XDR display delivers up to 2,000 nits of peak brightness, a 10,000,000:1 contrast ratio, and P3 plus Adobe RGB wide color support, catering to professional creative and technical workflows. Connectivity has also been upgraded with Thunderbolt 5 ports supporting multiple external displays, Wi-Fi 7, and Bluetooth 6.</p>
+<p><small>Links: <a href="https://www.apple.com/macbook-pro/proled-xdr-display/">apple.com</a> | <a href="https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/">source</a> | <a href="https://news.ycombinator.com/item?id=50276940">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Rockstar Games Workers to Vote on Unionization Ahead of GTA VI Release</h2>
 <a name="story-25611"><img src="https://wsrv.nl/?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt740a130ae3c5d529%2Fblt859507d51581f713%2F6ae0fbc4f6e3e04aa497e290%2Fgtaviluciaweightsfeatured.jpg%3Fwidth%3D720%26quality%3D80%26disable%3Dupscale&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Rockstar Games employees will vote on formal union recognition with the Independent Worker's Union of Great Britain (IWGB) between November 12 and November 26, 2026. The vote is scheduled to occur shortly before the November 19 release of Grand Theft Auto VI.</p><p>This vote is independent of an ongoing tribunal regarding the 2025 dismissal of over 30 employees, an action the IWGB has characterized as union busting. Rockstar head of publishing Jennifer Koble has stated that the company will respect the outcome of the vote.</p>
@@ -62,12 +68,6 @@
 <a name="story-25526"><img src="https://wsrv.nl/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeGPtEFGufkc%2Fmaxresdefault.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>The Fitbit Edge is a fitness tracker featuring a 1.34-inch AMOLED display, a physical side button, and an altimeter. Key upgrades include automatic workout detection for 100 sports, improved GPS accuracy, and a user-replaceable battery. While it adopts a modern user interface similar to the Pixel Watch 5, it removes Google Pay and the EDA scan feature.</p><p>Priced at $179, the device provides advanced health monitoring, including ECG, skin temperature sensing, and continuous stress monitoring. It supports fast charging, providing one day of battery from five minutes of charge, and offers various band options. Detailed data analysis and health metrics are managed through the Google Health app.</p>
 <p><small>Links: <a href="https://www.dcrainmaker.com/2026/10/fitbit-edge-depth-review-worth-the-upgrade.html">dcrainmaker.com</a> | <a href="https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/">source</a></small></p>
-<br clear="all" />
-
-<h2>Apple Releases iOS 27.2 and iPadOS 27.2</h2>
-<a name="story-25515"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2Fig0MkTQjDsCE%2Fv0%2F1200x630.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Apple has released iOS 27.2 and iPadOS 27.2, expanding Siri AI support to French, Japanese, Korean, Portuguese, and Spanish. The update also introduces Apple TV profiles, new branding for Apple Music, and AI-driven suggestions in Messages that facilitate quick actions in apps like Calendar and Reminders.</p><p>Additional features include SynthID watermarking in Photos to identify AI-generated or modified content, expanded Shared Albums, and FaceTime support for third-party sign language interpreters. The software is available for all compatible devices, including the iPhone Duo and the new OLED iPad mini.</p>
-<p><small>Links: <a href="https://www.macrumors.com/2026/10/26/apple-releases-ios-27-2/">macrumors.com</a> | <a href="https://www.apple.com/nz/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/">source</a></small></p>
 <br clear="all" />
 
 ---

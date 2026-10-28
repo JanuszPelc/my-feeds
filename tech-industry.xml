@@ -3,9 +3,18 @@
   <title>tech-industry</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml</id>
-  <updated>2026-10-28T13:48:00+00:00</updated>
+  <updated>2026-10-28T13:54:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/tech-industry.png?v=260-75-50</logo>
+  <entry>
+    <title>Meta Launches Waddle World AI Pet App in the Philippines</title>
+    <link href="https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/" rel="alternate" />
+    <id>https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/::v240</id>
+    <published>2026-10-28T13:54:00+00:00</published>
+    <updated>2026-10-28T13:54:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fmetas-waddle-world-is-a-tamagotchi-like-ai-digital-pet-app%2Fintro-1793176733.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/">engadget.com</a> | <a href="https://waddleworld.app/">source</a></small></p><hr/><p>Meta has soft-launched a 16-bit, Tamagotchi-style virtual pet application named Waddle World in the Philippines. Marketed as a daily journal disguised as a pet, the app lets users type or dictate journal entries that their AI-powered pet responds to with conversational text and illustrated doodles.</p><p>Users can also play mini-games within the app to earn points for purchasing food and toys for their virtual companion. While app store listings indicate the game has been available since late September, Meta has not yet clarified whether it plans a broader international rollout.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.engadget.com%2Fimg%2Fgallery%2Fmetas-waddle-world-is-a-tamagotchi-like-ai-digital-pet-app%2Fintro-1793176733.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 19:07 UTC | #25691</small>]]></content>
+  </entry>
   <entry>
     <title>Slough Becomes Europe's Largest Data Center Hub</title>
     <link href="https://www.ft.com/content/d92ede23-75c3-4549-bec2-7fa4be979786" rel="alternate" />

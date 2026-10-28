@@ -7,6 +7,15 @@
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/computer-programming.png?v=20-75-50</logo>
   <entry>
+    <title>EMACS Text Editor Turns 50</title>
+    <link href="https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/" rel="alternate" />
+    <id>https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/::v240</id>
+    <published>2026-10-28T13:55:00+00:00</published>
+    <updated>2026-10-28T13:55:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F09%2FScreenshot-2026-08-11-at-8.43.55-AM.jpg%3Fw%3D840&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/">technologyreview.com</a> | <a href="https://news.ycombinator.com/item?id=50273171">hacker news</a></small></p><hr/><p>Originally created at the MIT Artificial Intelligence Laboratory in 1976, the EMACS text editor is celebrating its 50th anniversary and remains widely used today. Developed initially as a set of macros for the TECO editor by researchers including Richard Stallman, Guy Steele Jr., and David Moon, EMACS provided a standardized, customizable full-screen editing experience that transformed how programmers interacted with computers.</p><p>The software-sharing culture surrounding early versions of EMACS directly influenced the emergence of the free software movement and the creation of the GNU Project. Over the decades, variants of the software were commercialized by companies like Honeywell and James Gosling, while others were integrated into operating systems such as Unix and early versions of Mac OS X, leaving a lasting legacy on modern software development environments.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwp.technologyreview.com%2Fwp-content%2Fuploads%2F2026%2F09%2FScreenshot-2026-08-11-at-8.43.55-AM.jpg%3Fw%3D840&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 19:08 UTC | #25734</small>]]></content>
+  </entry>
+  <entry>
     <title>Daniel Lemire Details Billion-Query-Per-Second Lookup Tables in C++</title>
     <link href="https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/" rel="alternate" />
     <id>https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/::v240</id>
