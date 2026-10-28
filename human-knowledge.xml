@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-28T01:41:00+00:00</updated>
+  <updated>2026-10-28T12:52:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Polish Academy of Sciences Researchers Analyze Artemis I Radiation Data Using Lithium Fluoride Detectors</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261027063659.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261027063659.htm::v240</id>
+    <published>2026-10-28T12:52:00+00:00</published>
+    <updated>2026-10-28T12:52:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fwww.spacevoyaging.com%2Fwp-content%2Fuploads%2F2024%2F09%2FArtemisImannequins.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261027063659.htm">sciencedaily.com</a> | <a href="https://press.ifj.edu.pl/en/news/2026/10/22/">source</a></small></p><hr/><p>Researchers at the Institute of Nuclear Physics of the Polish Academy of Sciences have analyzed data collected by experimental lithium fluoride detectors aboard NASA’s uncrewed Artemis I mission. The compact detectors, placed inside human-shaped mannequins during the 2022 lunar flight, recorded cosmic radiation exposure and particle tracks using fluorescence microscopy without requiring chemical etching.</p><p>The findings indicate that radiation doses near the Moon are distributed more uniformly through the body than in low Earth orbit, where trapped protons from Earth's Van Allen belts create uneven exposure patterns. While total radiation levels near the Moon are higher due to galactic cosmic rays, the researchers observed that the overall increase is smaller than typically assumed.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.spacevoyaging.com%2Fwp-content%2Fuploads%2F2024%2F09%2FArtemisImannequins.jpeg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 15:38 UTC | #25681</small>]]></content>
+  </entry>
   <entry>
     <title>Transposable Elements Linked to Rapid Diversification of Ants</title>
     <link href="https://www.sciencedaily.com/releases/2026/10/261026225608.htm" rel="alternate" />
