@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 ```
 
+<h2>Infisical Raises $40 Million Series B at $600 Million Valuation</h2>
+<a name="story-25632"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.unite.ai%2Fwp-content%2Fuploads%2F2026%2F10%2Finfisical-hero.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Infisical, a cybersecurity infrastructure company, has raised $40 million in Series B funding led by Elad Gil at a $600 million valuation. The platform provides secret management and privileged access controls, enabling enterprises to grant AI agents secure access to critical systems and private credentials.</p><p>The funding will support Infisical's expansion as more organizations adopt autonomous AI agents. The company currently serves over 1,300 customers, including major enterprises such as Airbus and Volkswagen, and the funding round included participation from Gradient and Y Combinator.</p>
+<p><small>Links: <a href="https://www.forbes.com/sites/rashishrivastava/2026/10/27/this-600-million-startup-is-helping-keep-company-secrets-away-from-ai-agents/">forbes.com</a> | <a href="https://www.prnewswire.com/news-releases/infisical-raises-40-million-at-600-million-valuation-to-secure-the-ai-agent-economy-302920994.html">source</a></small></p>
+<br clear="all" />
+
 <h2>NXP Semiconductors Shares Decline on Lowered Revenue Forecast</h2>
 <a name="story-25628"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.slideteam.net%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F560x315%2Fi%2Fm%2Fimpact_on_quarterly_sales_revenue_sales_enablement_strategy_to_boost_productivity_and_drive_sa_ss_slide01.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>NXP Semiconductors issued a fourth-quarter revenue forecast that missed analyst expectations, causing its shares to fall in late trading. The chipmaker expects fourth-quarter revenue to grow approximately 15% to $3.85 billion, which is below the average analyst estimate of $3.87 billion.</p><p>The guidance has raised concerns that the recovery in demand for automotive and industrial chips may be slowing. This follows NXP's third-quarter report, which recorded revenue of $3.8 billion, a 19% increase year-over-year.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-finance.xml
 <a name="story-25480"><img src="https://wsrv.nl/?url=https%3A%2F%2Fs.yimg.com%2Flo%2Fmysterio%2Fapi%2FAF4C6F307C157D958D513F1CCF6A1D8F4637395A72268BF65D0A714D827BF944%2Fsubgraphmysterio%2Fresizefit_w960_h540%3Bquality_80%3Bformat_webp%2Fhttps%3A%2F%2Fmedia.zenfs.com%2Fen%2Fconstruction_dive_964%2Fb716a3dc7a5fd048233a7271ae8f0d15&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bedrock Robotics Inc. has secured a $600 million Series C funding round, bringing its post-money valuation to $4.1 billion. The startup develops driverless excavators and other autonomous construction machinery designed for job sites.</p><p>The financing round was co-led by CapitalG and Emergence Capital. Bedrock plans to use the capital to scale its autonomous construction equipment across sites throughout the United States.</p>
 <p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/autonomous-construction-firm-bedrock-hits-4-1-billion-valuation">bloomberg.com</a> | <a href="https://www.globenewswire.com/news-release/2026/10/26/3388197/0/en/bedrock-robotics-raises-600-million-series-c-to-scale-autonomous-construction-equipment-across-u-s-sites.html">source</a></small></p>
-<br clear="all" />
-
-<h2>California Startups Surpass Prior US Annual Funding Records in 2026</h2>
-<a name="story-25455"><img src="https://wsrv.nl/?url=https%3A%2F%2Fnews.crunchbase.com%2Fwp-content%2Fuploads%2Fconcentrated-capital.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>California-based startups have secured more than three-fourths of all U.S. venture funding in 2026, pulling in an unprecedented $385 billion across seed- through growth-stage rounds. This figure exceeds the total amount raised by all U.S. startups in any prior single year on record, driven largely by massive megarounds for artificial intelligence pioneers based in San Francisco.</p><p>Major financing rounds for companies like OpenAI and Anthropic account for more than half of the statewide total, while other substantial contributions come from mature firms such as Waymo and Databricks as well as newer ventures like Prometheus and Safe Superintelligence. Additionally, early- and seed-stage California companies have captured nearly $62 billion, representing about 57% of all U.S. early-stage funding this year.</p>
-<p><small>Links: <a href="https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/">news.crunchbase.com</a></small></p>
 <br clear="all" />
 
 ---
