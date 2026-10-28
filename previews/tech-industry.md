@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 ```
 
+<h2>AI Data Center Demand Drives US Grid Innovation</h2>
+<a name="story-25630"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimages.prismic.io%2Fveir%2Facv0RpGXnQHGZI9U_VEIRSTAR.jpeg%3Fauto%3Dformat%2Ccompress%26rect%3D0%2C371%2C3840%2C2560%26w%3D3840%26fit%3Dmax&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Rising energy demand from AI is straining the US electrical grid, causing concerns over costs and stability. However, industry leaders argue that this pressure is acting as a catalyst for grid modernization and the adoption of new technologies.</p><p>Companies like Weavegrid are developing software for load orchestration to manage renewable energy and new loads, while Veir is developing superconducting cables that transfer energy more efficiently with a significantly smaller physical footprint than traditional lines.</p>
+<p><small>Links: <a href="https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/">techcrunch.com</a></small></p>
+<br clear="all" />
+
 <h2>Meta&#x27;s $25 Billion Share Sale Ends Five Times Oversubscribed</h2>
 <a name="story-25614"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftheutterperspective.com%2Fwp-content%2Fuploads%2F2025%2F10%2F1761845534_1200x-1-1068x601.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Meta Platforms Inc.'s upsized $25 billion share sale was five times oversubscribed, according to people familiar with the matter. The company aims to raise a total of $98 billion to fund extensive spending on artificial intelligence.</p><p>The 15 largest investors in the sale accounted for approximately 70% of the shares. This capital is intended to support Meta's significant investments in AI infrastructure and research.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/tech-industry.xml
 <a name="story-25441"><img src="https://wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%210-U5%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fcafd3438-ef0d-41c0-83cf-bcc7e1c995be_1536x1024.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>In his essay "Cognitive Mercantilism," Venkatesh Rao argues that current societal anxieties around artificial intelligence structurally resemble the mercantilist worldview that preceded modern capitalism. He contends that contemporary critics treat intelligence as a scarce, fixed resource to be hoarded by elites, much like early modern economists viewed land and bullion.</p><p>Drawing parallels to Joyce Appleby’s history of capitalism, Rao suggests that abundant AI will shift the economic paradigm from cognitive production to consumption. Just as historical agricultural advances allowed populations to become consumers rather than solely manual laborers, AI-driven abundance could spark a "cognitive industrious revolution" where ordinary individuals leverage vast intelligence for new ambitions and projects.</p>
 <p><small>Links: <a href="https://contraptions.venkateshrao.com/p/cognitive-mercantilism">contraptions.venkateshrao.com</a> | <a href="https://news.ycombinator.com/item?id=50239027">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Volkswagen and Xpeng Secure Approvals for Autonomous Driving Trials in China</h2>
-<a name="story-25436"><img src="https://wsrv.nl/?url=https%3A%2F%2Fedgemarkets-transferred.s3-ap-southeast-1.amazonaws.com%2Fstyles%2Farticle_detail_v2%2Fs3%2F20261026_baidu_auto_20261026181334_Bloomberg.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Volkswagen AG and Xpeng Inc. have received regulatory approval to test autonomous driving systems on public roads in China. Volkswagen's China unit is trialing Level 3 technology in Hefei ahead of a planned deployment next year, while Xpeng has gained authorization to run Level 4 robotaxi trial operations in Guangzhou.</p><p>The approvals mark a significant step forward as Chinese authorities resume broader self-driving rollouts following safety reviews. Xpeng is partnering with Volkswagen to supply its second-generation VLA 2.0 intelligent driving system, making Volkswagen the first global automaker to license the technology in the Chinese market.</p>
-<p><small>Links: <a href="https://www.bloomberg.com/news/articles/2026-10-26/china-boosts-self-driving-push-with-vw-xpeng-technology-trials">bloomberg.com</a></small></p>
 <br clear="all" />
 
 ---
