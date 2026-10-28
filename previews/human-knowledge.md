@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 ```
 
+<h2>Transposable Elements Linked to Rapid Diversification of Ants</h2>
+<a name="story-25645"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmdpi-res.com%2Fijms%2Fijms-23-04755%2Farticle_deploy%2Fhtml%2Fimages%2Fijms-23-04755-g001.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Transposable elements, or "jumping genes," likely fueled the evolutionary diversification of ants following the mass extinction 66 million years ago. Surges in the activity of these mobile DNA segments coincided with the expansion of major ant lineages during the early Paleogene, facilitating the high species richness seen in modern ant families.</p><p>Genomic comparisons of 163 ant species show that lineages with more jumping genes tend to be more species-rich. These genetic elements also appear to have contributed to the expansion of gene families responsible for odorant receptors, enhancing the chemical communication systems essential to ant social behavior.</p>
+<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261026225608.htm">sciencedaily.com</a> | <a href="https://www.science.org/doi/10.1126/sciadv.aee0306">source</a></small></p>
+<br clear="all" />
+
 <h2>David Harvey Discusses Recently Proposed Sub-O(n log n) Integer Multiplication Algorithm</h2>
 <a name="story-25157"><img src="https://wsrv.nl/?url=https%3A%2F%2Fimage.slideserve.com%2F1427678%2Finteger-multiplication-mit-notes-and-wikipedia1-l.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Mathematician David Harvey has published a commentary examining a recently proposed integer multiplication algorithm that claims a complexity of o(n log n) bit operations. The analysis offers perspective on the new complexity claim and its relation to established theoretical limits in computational mathematics.</p><p>The discussion follows earlier milestones in the field, including Harvey and Joris van der Hoeven's 2019 algorithm achieving O(n log n) bit operations, which confirmed a long-standing conjecture by Schönhage and Strassen. The newly proposed approach pushes past that established boundary into sub-O(n log n) territory, prompting careful scrutiny of its methods and assumptions.</p>
@@ -88,12 +94,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml
 <a name="story-25456"><img src="https://wsrv.nl/?url=https%3A%2F%2Fblocks.manifold3d.ch%2Fbilder%2Fheld.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Manifold3D has released a 1:1 scale Minecraft map covering the entire 41,285-square-kilometer land area of Switzerland, generated from open geospatial data provided by the federal agency swisstopo. Each block represents one meter, accurately replicating the country's topography, glaciers, lakes, and mountain peaks such as the Matterhorn using Minecraft Java Edition with the Cubic Chunks mod.</p><p>Available in early access, the full 24-gigabyte world requires a high-performance computer with at least 16 gigabytes of RAM and is priced at 15 Swiss francs for residents of Switzerland, while a free regional download featuring the Jungfrau-Aletsch UNESCO World Heritage site is provided for hardware testing. The map utilizes swisstopo vector and raster datasets for domestic terrain and infrastructure, supplemented by Copernicus elevation data for areas beyond national borders.</p>
 <p><small>Links: <a href="https://blocks.manifold3d.ch/">blocks.manifold3d.ch</a> | <a href="https://news.ycombinator.com/item?id=50240922">hacker news</a></small></p>
-<br clear="all" />
-
-<h2>Brazilian President Luiz Inacio Lula da Silva Wins Fourth Term in Runoff Election</h2>
-<a name="story-25417"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.staradvertiser.com%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-25T220534Z_34599975_RC2KAOAZJ6YN_RTRMADP_3_BRAZIL-ELECTION.jpg&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Brazilian President Luiz Inacio Lula da Silva secured a historic fourth term by defeating challenger Flávio Bolsonaro in a tense presidential runoff election. The incumbent leader overcame a deficit from the first round and defied regional right-wing momentum to win the contest by nearly 4.4 million votes.</p><p>The election concluded a bitterly contested campaign that featured chaotic poll closures and allegations of interference, with the defeated candidate initially refusing to concede. Lula's victory marks the first time since Brazil restored direct elections in 1989 that a candidate has won a runoff after trailing in the initial round.</p>
-<p><small>Links: <a href="https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/">reuters.com</a> | <a href="https://news.ycombinator.com/item?id=50237485">hacker news</a></small></p>
 <br clear="all" />
 
 ---

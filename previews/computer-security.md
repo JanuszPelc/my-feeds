@@ -8,6 +8,12 @@ To subscribe, copy this link into your RSS reader:
 https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.xml
 ```
 
+<h2>Anthropic Expands GSA Partnership to Offer Discounted Claude Services to Government Agencies</h2>
+<a name="story-25634"><img src="https://wsrv.nl/?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2026%2F07%2Fanthropic-claude-india-pricing-tiers.jpg%3Fresize%3D800&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
+<p>Anthropic is expanding its partnership with the General Services Administration (GSA) to provide a 40% discount on Claude Enterprise, Claude for Government, and the Claude API to federal, state, local, tribal, and territorial governments. The discount applies to both direct purchases and procurement through cloud providers including Amazon Web Services and Google Cloud. Anthropic is also launching a program to assist government agencies with implementation and best practices.</p><p>The agreement, which utilizes consumption-based billing without minimum spend requirements, is estimated to save the government $1 billion. Approximately 500 government organizations currently use Claude, with federal civilian agency usage having increased twenty-fold over the past year. While Claude for Government is available with FedRAMP High authorization, Claude Enterprise is currently in the process of obtaining FedRAMP Moderate authorization.</p>
+<p><small>Links: <a href="https://www.anthropic.com/news/expanding-partnership-gsa">anthropic.com</a> | <a href="https://news.ycombinator.com/item?id=50266701">hacker news</a></small></p>
+<br clear="all" />
+
 <h2>Bank of America Advises Customers Against Sharing Credentials with AI Assistants</h2>
 <a name="story-25623"><img src="https://wsrv.nl/?url=https%3A%2F%2Fassets.gtgcrm.com%2Fgtgcrm-home-page%2Fcase-study-ai-assistant-bank-of-america%2Fai-assistant-cua-bank-of-america.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>Bank of America has cautioned customers via email to avoid sharing banking usernames and passwords with AI-enabled tools or agents. The bank noted that users bear full responsibility for any account activity resulting from the disclosure of their credentials.</p><p>The advisory arrives as the banking industry explores "agentic payments"—which allow autonomous AI to perform transactions—while simultaneously managing risks from unauthorized AI agents. Potential dangers include unauthorized financial transfers, account lockouts triggered by suspicious activity detection, and credential theft via security vulnerabilities in AI software.</p>
@@ -90,12 +96,6 @@ https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/computer-security.x
 <a name="story-25411"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.netmeister.org%2Fblog%2Fimages%2Fnetbsd-linode-installer2.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
 <p>A technical guide details how to configure a lightweight web server on NetBSD using the built-in bozohttpd daemon and the acme-client package for automated Let's Encrypt HTTPS certificates. Running bozohttpd directly as a standalone daemon avoids inetd overhead, requiring only basic configuration parameters within the rc.conf file.</p><p>Despite its minimal footprint, the built-in server supports features such as virtual hosts, CGI execution, HTTP basic authorization, and URL rewrites. This approach provides a practical, low-resource hosting solution suitable for homebrew projects and small-scale communities running on NetBSD.</p>
 <p><small>Links: <a href="https://bsandro.tech/posts/simple-netbsd-webserver/">bsandro.tech</a> | <a href="https://lobste.rs/s/hzrmwz/simple_netbsd_webserver">discussion</a></small></p>
-<br clear="all" />
-
-<h2>Bogomil Shopov Announces Digital Dissident Devroom for FOSDEM 2027</h2>
-<a name="story-25399"><img src="https://wsrv.nl/?url=https%3A%2F%2Fwww.stormycloud.org%2Fimages%2Fblog%2Fcensorship-circumvention.webp&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" width="30%" align="right" /></a>
-<p>Bogomil Shopov has announced the establishment of the Digital Dissident Developer Room for the upcoming FOSDEM 2027 conference, scheduled for January 30–31 in Brussels. The devroom brings together developers, researchers, and activists to focus on the end-to-end toolchains required to protect at-risk users from state surveillance and digital censorship.</p><p>The call for participation runs until November 30, 2026, inviting technical proposals on censorship circumvention, metadata-resistant communication, and secure reporting. Unlike tracks centered on individual technologies, this devroom addresses the integrated challenges faced by dissidents operating under restrictive regimes including Russia, Iran, and China.</p>
-<p><small>Links: <a href="https://talkweb.eu/openweb/4558/">talkweb.eu</a> | <a href="https://news.ycombinator.com/item?id=50233929">hacker news</a></small></p>
 <br clear="all" />
 
 ---

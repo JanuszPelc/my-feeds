@@ -3,9 +3,18 @@
   <title>human-knowledge</title>
   <link href="https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml" rel="self" type="application/atom+xml" />
   <id>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/human-knowledge.xml</id>
-  <updated>2026-10-27T16:12:00+00:00</updated>
+  <updated>2026-10-28T01:41:00+00:00</updated>
   <icon>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</icon>
   <logo>https://raw.githubusercontent.com/JanuszPelc/my-feeds/master/images/human-knowledge.png?v=85-75-50</logo>
+  <entry>
+    <title>Transposable Elements Linked to Rapid Diversification of Ants</title>
+    <link href="https://www.sciencedaily.com/releases/2026/10/261026225608.htm" rel="alternate" />
+    <id>https://www.sciencedaily.com/releases/2026/10/261026225608.htm::v240</id>
+    <published>2026-10-28T01:41:00+00:00</published>
+    <updated>2026-10-28T01:41:00+00:00</updated>
+    <media:thumbnail url="https://wsrv.nl/?url=https%3A%2F%2Fmdpi-res.com%2Fijms%2Fijms-23-04755%2Farticle_deploy%2Fhtml%2Fimages%2Fijms-23-04755-g001.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" />
+    <content type="html"><![CDATA[<p><small>Links: <a href="https://www.sciencedaily.com/releases/2026/10/261026225608.htm">sciencedaily.com</a> | <a href="https://www.science.org/doi/10.1126/sciadv.aee0306">source</a></small></p><hr/><p>Transposable elements, or "jumping genes," likely fueled the evolutionary diversification of ants following the mass extinction 66 million years ago. Surges in the activity of these mobile DNA segments coincided with the expansion of major ant lineages during the early Paleogene, facilitating the high species richness seen in modern ant families.</p><p>Genomic comparisons of 163 ant species show that lineages with more jumping genes tend to be more species-rich. These genetic elements also appear to have contributed to the expansion of gene families responsible for odorant receptors, enhancing the chemical communication systems essential to ant social behavior.</p><p><img src="https://wsrv.nl/?url=https%3A%2F%2Fmdpi-res.com%2Fijms%2Fijms-23-04755%2Farticle_deploy%2Fhtml%2Fimages%2Fijms-23-04755-g001.png&amp;w=1200&amp;h=1200&amp;fit=inside&amp;we&amp;output=jpg&amp;bg=white" /></p><hr/><small>28 Oct 2026, 06:46 UTC | #25645</small>]]></content>
+  </entry>
   <entry>
     <title>David Harvey Discusses Recently Proposed Sub-O(n log n) Integer Multiplication Algorithm</title>
     <link href="https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf" rel="alternate" />
